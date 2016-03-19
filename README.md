@@ -1,9 +1,9 @@
-# MovieClipVideoAnnotator
+# Movie Dataset Video Annotator
 
 ## General Description
 
 
-![](Images/Annotator_Sample.jpg)
+![Screenshot](./Images/Annotator_Sample.png)
 
 ## Controls
 
