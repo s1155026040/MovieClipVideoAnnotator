@@ -63,19 +63,20 @@ class AnnotationDB:
                               length = video.length,
                               caption = video.caption)
         
-    
-db = AnnotationDB()
-if not db.init('atlas4.multicomp.cs.cmu.edu', 'annotator', 'multicomp', 'annodb'):
-    print 'Could not connect to DB'
-    sys.exit(-1)
-users = db.get_users()
-print users[0]
 
-annotation = Annotation()
-annotation.file_name = '21_JUMP_STREET/video/21_JUMP_STREET_DV520.avi'
-annotation.start_frame = 10
-annotation.end_frame = 30
-annotation.action = 'jump'
-annotation.caption = 'SOMEONE jumped out of the roof'
-annotation.user_id = 2
-db.insert_annotation(annotation)
+def test():
+    db = AnnotationDB()
+    if not db.init('atlas4.multicomp.cs.cmu.edu', 'annotator', 'multicomp', 'annodb'):
+        print 'Could not connect to DB'
+        sys.exit(-1)
+    users = db.get_users()
+    print users[0]
+    
+    annotation = Annotation()
+    annotation.file_name = '21_JUMP_STREET/video/21_JUMP_STREET_DV520.avi'
+    annotation.start_frame = 10
+    annotation.end_frame = 30
+    annotation.action = 'jump'
+    annotation.caption = 'SOMEONE jumped out of the roof'
+    annotation.user_id = 2
+    db.insert_annotation(annotation)
