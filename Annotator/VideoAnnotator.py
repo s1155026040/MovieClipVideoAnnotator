@@ -21,7 +21,7 @@ import pickle
 import nltk
 import Tkinter
 import ConfigParser
-import menu
+from AnnotationDB import *
 from os.path import basename, join, splitext
 from nltk.tokenize import sent_tokenize, word_tokenize
 from collections import deque
@@ -228,10 +228,12 @@ def display_video_capture(video_file_path, capture_dir='', caption=''):
                         
                 elif key == ord('.'): # Store frame
                     # Capture current frame
-                    if capture_dir is not '':
+                    if capture_dir is not '': 
+                        # Used by EXPORT MODE
                         captured_file_name = video_file_path[0:len(video_file_path)-4] + '_%05d' %(frame_pos+inbuffer_index) + '.png'
                         print "Saving frame %s"%(captured_file_name)
                         cv2.imwrite(os.path.join(capture_dir,captured_file_name),cur_frame_img)
+                    # Otherwise simply ANNOTATE the video
                     captured_frame = True
                     break
                 
@@ -294,7 +296,7 @@ def export_movie(last_selected_file, output_path):
     
     print 'Closing program'
 
-def annotate_movie_times(base_path, video_list_path, cc_dict_path, annotations_path, actions_dict_path):
+def annotate_movie_times(base_path, video_list_path, cc_dict_path, annotations_path, actions_dict_path, user_name):
     '''
     All the vidoes in the movie_path_list are shown to the user
     The player allows through keyboard input to play/pause, capture the video and set start/end times
@@ -303,12 +305,15 @@ def annotate_movie_times(base_path, video_list_path, cc_dict_path, annotations_p
     print_manual()    
     
     #Get list of videos from file
+    #Target action is obtained from the video list name
     target_action = splitext(basename(video_list_path))[0]
     video_list = open(video_list_path).readlines()
     video_list = map(lambda x:x.strip(), video_list) #clean all the \r, \n, spaces, etc
+   
     #Load the captions dictionary
     cc_dict = pickle.load(open(cc_dict_path))
     actions_dict = pickle.load(open(actions_dict_path))
+
     #Annotated index
     annotated_index ={}
     if os.path.isfile('annotatedIdx.p'):
@@ -339,7 +344,7 @@ def annotate_movie_times(base_path, video_list_path, cc_dict_path, annotations_p
                 annotated_index[video_name]='annotated'
                 annotation_list.append((video_name+'.avi', start_frame, end_frame, caption))
                 new_line = '\t'.join((video_name+'.avi', str(start_frame), str(end_frame), caption)) + '\n'
-                open(annotations_path, 'a').write(new_line)                
+                open(annotations_path, 'a').write(new_line)
                 
             pickle.dump(annotated_index,open('annotatedIdx.p','wb'))
 
@@ -347,20 +352,22 @@ def build_init_file(filename):
     config = ConfigParser.ConfigParser()
     config.add_section('Dataset')
     config.add_section('Database')
+    config.add_section('Annotation')
     config.add_section('Capture')
     
     config.set('Dataset', 'base_path', '/Users/zal/CMU/Fall2015/HCMMML/FinalProject/Dataset/MontrealVideoAnnotationDataset/DVDtranscription')
-    config.set('Dataset', 'cc_dict_path', './all_captions_dict.p')
-    config.set('Dataset', 'action_dict_path', './all_video_action_dict.p')
     
     config.set('Database', 'db_ip', 'atlas4.multicomp.cs.cmu.edu')
     config.set('Database', 'db_username', 'annotator')
     config.set('Database', 'db_password', 'multicomp')
     config.set('Database', 'db_name', 'annodb')
     
-    config.set('Capture', 'last_selected_file', '')
-    config.set('Capture', 'output_dir', os.getcwd())
-    config.set('Capture', 'last_capture_path', '')
+    config.set('Annotation', 'annotation_path', '')
+    config.set('Annotation', 'cc_dict_path', 'all_captions_dict.p')
+    config.set('Annotation', 'action_dict_path', 'all_video_action_dict.p')
+    config.set('Annotation', 'video_list_path', '')
+    
+    config.set('Capture', 'output_dir', './')
     
     config.write(open(filename, 'w'))
     
@@ -380,31 +387,58 @@ def load_init_file():
 def start_export_mode():
     cfg = load_init_file()
     export_movie(cfg)
-    
+
+def do_nothing():
+    return 1
+
 def start_annotation_mode():    
     cfg = load_init_file()
     #TODO: select user from the DB
+    anno_db = AnnotationDB()
+    anno_db.init(cfg.get('Database', 'db_ip'), 
+                 cfg.get('Database', 'db_username'), 
+                 cfg.get('Database', 'db_password'), 
+                 cfg.get('Database', 'db_name'))
+    users = anno_db.get_users();
+    
+    sel_idx, sel_user = select_menu('Select user for annotating session:', [name for id,name in users])
+    
     annotate_movie_times(cfg.get('Dataset', 'base_path'), 
-                         cfg.get('Dataset', 'video_list_path'), 
-                         cfg.get('Dataset', 'cc_dict_path'), 
-                         cfg.get('Capture', 'output_dir'), 
-                         cfg.get('Dataset', 'action_dict_path'))
+                         cfg.get('Annotation', 'video_list_path'), 
+                         cfg.get('Annotation', 'cc_dict_path'), 
+                         cfg.get('Annotation', 'annotation_path'), 
+                         cfg.get('Annotation', 'action_dict_path'),
+                         sel_user)
 
 def exit_program():
+    print 'Quitting session.'
     sys.exit(0)
+
+
+def select_menu(title, options):
+    sel_idx = -1
+    
+    while sel_idx not in range(1,len(options)+1):
+        print title
+        for idx, option_txt in enumerate(options):
+            print '%d. %s'%(idx+1, option_txt)
+        try:
+            sel_idx = int(input())
+        except:
+            sel_idx = -1
+        print ''
+        
+    return sel_idx-1, options[sel_idx-1]
 
 if __name__ == '__main__': 
     '''
     Main entry point of the program
-    '''
+    '''    
+    options_txt = ['Export', 'Annotate', 'Quit']
+    options_fun = [start_export_mode, start_annotation_mode, exit_program]
+    sel_idx, sel_option = select_menu('Select application mode:', options_txt)
     
-    app_mode_menu = menu.Menu('Select mode:')
-    app_mode_menu.implicit()
-    app_mode_options = [('Export', start_export_mode), 
-                        ('Annotate', start_annotation_mode),
-                        ('Quit', exit_program)]
-    app_mode_menu.addOptions(app_mode_options)
-    app_mode_menu.open()
+    options_fun[sel_idx]()
     
     
     print 'Exit program'
