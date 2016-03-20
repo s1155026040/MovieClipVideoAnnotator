@@ -1,4 +1,13 @@
 #!/usr/bin/env python
+# 
+# This program is used to annotate video files from movie
+# datasets such as M-VAD or MPII through a Video GUI and
+#
+# Carnegie Mellon University
+# author: Salvador Medina
+# last update: 2016-03-19
+#
+
 import cv2
 import re
 import os
@@ -10,38 +19,33 @@ import tty, sys, termios
 import select
 import pickle
 import nltk
-import pick
+import Tkinter
 import ConfigParser
+import menu
 from os.path import basename, join, splitext
 from nltk.tokenize import sent_tokenize, word_tokenize
 from collections import deque
 from collections import namedtuple
 from matplotlib import pyplot as plt
 
-class VASettings:
-    '''
-    This is the datastructure that stores the capturing session
-    '''
-    base_path = ''
-    output_path = ''
-    video_dir = ''
-    movie_dir = ''
-    cc_dict_path = ''
-    video_list_path = ''
-    action_dict_path = ''
-    
-    def __init__(self, base_path='', output_path='', movie_dir='', video_dir='', cc_dict_path='', video_list_path='', action_dict_path=''):
-        self.base_path = base_path
-        self.output_path = output_path
-        self.video_dir = video_dir
-        self.movie_dir = movie_dir
-        self.cc_dict_path = cc_dict_path
-        self.video_list_path = video_list_path
-        self.action_dict_path = action_dict_path
+#Constants
+VA_COLOR_WHITE = (230, 230, 230)
+VA_COLOR_LIGHT_GRAY = (128, 128, 128)
+VA_COLOR_LIGHT_GREEN = (128, 255, 128)
+VA_COLOR_DARK_GREEN = (64, 128, 64)
+VA_COLOR_YELLOW = (21, 232, 232)
+VA_COLOR_RED = (39,45,229)
+VA_COLOR_DARK_RED = (23,18,128)
 
 def build_video_path(base_path, video_name):
     movie_name = re.search(r'(.*)_DVS\d*', video_name).group(1)
     return os.path.join(base_path, movie_name,'video',video_name+'.avi')
+
+def build_videoframe_path(video_path, frame_num):
+    return '%s_%d%s'%(os.path.splitext(video_path)[0], frame_num, '.gif')
+
+def build_gif_path(video_path):
+    return os.path.splitext(video_path)[0] + '.gif'
 
 def print_manual():
     print '''
@@ -77,14 +81,6 @@ def get_total_frames(video_file_path):
         ret, cur_frame = video_capture.read()
     
     return total_frames
-
-VA_COLOR_WHITE = (230, 230, 230)
-VA_COLOR_LIGHT_GRAY = (128, 128, 128)
-VA_COLOR_LIGHT_GREEN = (128, 255, 128)
-VA_COLOR_DARK_GREEN = (64, 128, 64)
-VA_COLOR_YELLOW = (21, 232, 232)
-VA_COLOR_RED = (39,45,229)
-VA_COLOR_DARK_RED = (23,18,128)
 
 def draw_playbar(img, cur_frame_pos, start_frame, end_frame, total_frames):
     img_height, img_width, img_channels = img.shape
@@ -184,7 +180,7 @@ def display_video_capture(video_file_path, capture_dir='', caption=''):
         video_paused = False
         inbuffer_index = 0
         last_frame = frame_pos-1
-        frame_buffer = deque(maxlen=60)
+        frame_buffer = deque(maxlen=total_frames)
         # Initialize video capture object
         video_capture = cv2.VideoCapture(video_file_path)
         ret, cur_frame_img = video_capture.read()
@@ -262,6 +258,11 @@ def display_video_capture(video_file_path, capture_dir='', caption=''):
                     if start_frame > end_frame:
                         start_frame = end_frame
                     print 'IN: %d     OUT: %d'%(start_frame, end_frame)
+                    
+                elif key == ord('e') or key == ord('E'):    # Export to a GIF file
+                    if start_frame < end_frame:
+                        print 'Set exported GIF file name:'
+                        #TODO: add exporting code
 
                 elif key == ord('j') or key == ord('J'):    # JUMP to next file
                     captured_frame = True
@@ -275,40 +276,23 @@ def display_video_capture(video_file_path, capture_dir='', caption=''):
     
     return exit, skipped, start_frame, end_frame, captured_file_name
 
-def capture_movie_frames(base_path, path1, path2, out_path, cc_dict_path):
+def export_movie(last_selected_file, output_path):
     '''
     All the videos in the paths are shown to the user
     The player allows through keyboard input to play/pause and capture the video
     '''
     # Print the manual
     print_manual()
+    exit = False
     
-    #Load the captions dictionary
-    cc_dict = None
-    if os.path.isfile(cc_dict_path):
-        cc_dict = pickle.load(open(cc_dict_path, 'rb'))
+    while not exit:
+        video_file_path = tkFileDialog.askopenfilename(title='Select Video File',
+                                                  filetypes=[('AVI','.avi'), ('MPEG-4', '.mp4')],
+                                                  defaultextension='.mp4')
+        
+        exit, skipped, start_frame, end_frame, ss = display_video_capture(video_file_path)
     
-    # make the output path if it does not exist
-    if not os.path.isdir(os.path.join(out_path,path1)):
-        os.makedirs(os.path.join(out_path,path1))
-    
-    #Go through all the video files in the folder
-    for video_filename in os.listdir(os.path.join(base_path,path1,path2)):
-        #We are only interested in the AVI video files
-        if fnmatch.fnmatch(video_filename,'*.avi'):
-            #If already screen capped, go to next file
-            video_basename = os.path.splitext(os.path.basename(video_filename))[0]
-            if len(glob.glob(os.path.join(out_path,path1)+'/'+video_basename+'*.png')) > 0:
-                continue
-            
-            print video_filename
-            if cc_dict is not None:
-                video_filename_no_ext = os.path.splitext(video_filename)[0]
-                if video_filename_no_ext in cc_dict:
-                    print 'Seeking frame for'
-                    print cc_dict[video_filename_no_ext]
-                    video_file_path = os.path.join(base_path,path1,path2,video_filename)
-                    display_video_capture(video_file_path, out_path)
+    print 'Closing program'
 
 def annotate_movie_times(base_path, video_list_path, cc_dict_path, annotations_path, actions_dict_path):
     '''
@@ -349,152 +333,78 @@ def annotate_movie_times(base_path, video_list_path, cc_dict_path, annotations_p
             if exit:
                 print 'Closing program'
                 break
-            if not skipped:
+            elif skipped:
+                annotated_index[video_name]='skipped'                
+            else:
                 annotated_index[video_name]='annotated'
                 annotation_list.append((video_name+'.avi', start_frame, end_frame, caption))
                 new_line = '\t'.join((video_name+'.avi', str(start_frame), str(end_frame), caption)) + '\n'
-                open(annotations_path, 'a').write(new_line)
-            else:
-                annotated_index[video_name]='skipped'
+                open(annotations_path, 'a').write(new_line)                
+                
             pickle.dump(annotated_index,open('annotatedIdx.p','wb'))
 
-def generate_init_file(filename):
+def build_init_file(filename):
     config = ConfigParser.ConfigParser()
     config.add_section('Dataset')
     config.add_section('Database')
+    config.add_section('Capture')
     
     config.set('Dataset', 'base_path', '/Users/zal/CMU/Fall2015/HCMMML/FinalProject/Dataset/MontrealVideoAnnotationDataset/DVDtranscription')
-    config.set('Dataset', 'output_path', '/Users/zal/CMU/Fall2015/HCMMML/FinalProject/Dataset/MontrealVideoAnnotationDataset/DVDTranscriptionKeyFrames')
-    config.set('Dataset', 'movie_dir', 'THE_VOW')
-    config.set('Dataset', 'video_dir', 'video')
-    config.set('Dataset', 'cc_dict_path', '/Users/zal/CMU/Fall2015/HCMMML/FinalProject/Repository/DataProcessing/all_captions_dict.p')
+    config.set('Dataset', 'cc_dict_path', './all_captions_dict.p')
+    config.set('Dataset', 'action_dict_path', './all_video_action_dict.p')
     
-    config.set('Database', 'db_ip', '')
-    config.set('Database', 'db_username', '')
-    config.set('Database', 'db_password', '')
-    config.set('Database', 'db_name', '')
+    config.set('Database', 'db_ip', 'atlas4.multicomp.cs.cmu.edu')
+    config.set('Database', 'db_username', 'annotator')
+    config.set('Database', 'db_password', 'multicomp')
+    config.set('Database', 'db_name', 'annodb')
+    
+    config.set('Capture', 'last_selected_file', '')
+    config.set('Capture', 'output_dir', os.getcwd())
+    config.set('Capture', 'last_capture_path', '')
     
     config.write(open(filename, 'w'))
     
     return config
 
-def load_init_settings():
+def load_init_file():
     init_filename = 'videoannotator.ini'
     config = ConfigParser.ConfigParser()
     
     if os.path.isfile(init_filename):    
         config.read(init_filename)
     else:
-        config = generate_init_file(init_filename)
+        config = build_init_file(init_filename)
     
-    settings = VASettings( base_path=config['Dataset']['base_path'],
-                        output_path=config['Dataset']['output_path'], 
-                        movie_dir=config['Dataset']['movie_dir'], 
-                        video_dir=config['Dataset']['video_dir'], 
-                        cc_dict_path=config['Dataset']['base_path'],
-                        video_list_path=config['Dataset']['base_path'], 
-                        action_dict_path='')
-    
+    return config
 
-def display_capture_settings_menu():
-    settings_filename = 'capsettings.p'
-    #Load previous settings
-    if os.path.isfile(settings_filename):
-        settings = pickle.load(open(settings_filename, 'rb'))
-    else:
-        #Default values ['base_path', 'output_path','video_dir','movie_dir']
-        settings = VASettings(base_path="/Users/zal/CMU/Fall2015/HCMMML/FinalProject/Dataset/MontrealVideoAnnotationDataset/DVDtranscription",\
-                            output_path="/Users/zal/CMU/Fall2015/HCMMML/FinalProject/Dataset/MontrealVideoAnnotationDataset/DVDTranscriptionKeyFrames",\
-                            movie_dir='THE_VOW',\
-                            video_dir="video",\
-                            cc_dict_path='/Users/zal/CMU/Fall2015/HCMMML/FinalProject/Repository/DataProcessing/all_captions_dict.p')
+def start_export_mode():
+    cfg = load_init_file()
+    export_movie(cfg)
     
-    #Ask for changes or leave default
-    print 'Setting up the frame grabber, leave the entry empty if you would like to work with default value.'
-    print ''
-    #BASE PATH
-    inText = raw_input("DATASET PATH\n[ %s ]:\n"%(settings.base_path))
-    if len(inText) > 0:
-        settings.base_path = inText
-    #OUTPUT PATH
-    inText = raw_input("OUTPUT PATH\n[ %s ]:\n"%(settings.output_path))
-    if len(inText) > 0:
-        settings.output_path = inText
-    #CAPTIONS DICTIONARY
-    inText = raw_input("CAPTIONS DICTIONARY\n[ %s ]:\n"%(settings.cc_dict_path))
-    if len(inText) > 0:
-        settings = settings.cc_dict_path = inText
-    #VIDEO DIR
-    inText = raw_input("VIDEOS' DIRECTORY\n[ %s ]:\n"%(settings.video_dir))
-    if len(inText) > 0:
-        settings.video_dir = inText
-    #MOVIES DIR
-    inText = raw_input("MOVIE DIRECTORY\n[ %s ]:"%(settings.movie_dir))
-    if len(inText) > 0:
-        settings.movie_dir = inText
-    
-    # Save current settings
-    pickle.dump(settings, open(settings_filename, 'wb'))
-    
-    return settings
+def start_annotation_mode():    
+    cfg = load_init_file()
+    #TODO: select user from the DB
+    annotate_movie_times(cfg.get('Dataset', 'base_path'), 
+                         cfg.get('Dataset', 'video_list_path'), 
+                         cfg.get('Dataset', 'cc_dict_path'), 
+                         cfg.get('Capture', 'output_dir'), 
+                         cfg.get('Dataset', 'action_dict_path'))
 
-def display_annotate_settings_menu():
-    settings_filename = 'annosettings.p'
-    #Load previous settings
-    if os.path.isfile(settings_filename):
-        settings = pickle.load(open(settings_filename, 'rb'))
-    else:
-        #Default values
-        settings = VASettings(base_path='/Users/zal/CMU/Fall2015/HCMMML/FinalProject/Dataset/MontrealVideoAnnotationDataset/DVDtranscription/',\
-                            video_list_path="/Users/zal/CMU/Fall2015/HCMMML/FinalProject/Repository/DataProcessing/actions_video_list.txt",\
-                            output_path="/Users/zal/CMU/Fall2015/HCMMML/FinalProject/Repository/DataProcessing/video_action_annotations.csv",\
-                            cc_dict_path='/Users/zal/CMU/Fall2015/HCMMML/FinalProject/Repository/DataProcessing/all_captions_dict.p',\
-                            action_dict_path='/Users/zal/CMU/Fall2015/HCMMML/FinalProject/Repository/DataProcessing/all_video_action_dict.p')
-    
-    #Ask for changes or leave default
-    print 'Setting up the video annotator, leave the entry empty if you would like to work with the default value.'
-    #BASE PATH
-    inText = raw_input("DATASET PATH\n[ %s ]:\n"%(settings.base_path))
-    if len(inText) > 0:
-        settings.base_path = inText
-    #VIDEO LIST FILE
-    inText = raw_input("VIDEO LIST FILE\n[ %s ]:\n"%(settings.video_list_path))
-    if len(inText) > 0:
-        settings.video_list_path = inText
-    #OUTPUT FILE
-    inText = raw_input("OUTPUT FILE\n[ %s ]:\n"%(settings.output_path))
-    if len(inText) > 0:
-        settings.output_path = inText
-    #CAPTIONS DICTIONARY
-    inText = raw_input("CAPTIONS DICTIONARY\n[ %s ]:\n"%(settings.cc_dict_path))
-    if len(inText) > 0:
-        settings.cc_dict_path = inText
-    #ACTIONS DICTIONARY
-    inText = raw_input("ACTIONS DICTIONARY\n[ %s ]:\n"%(settings.action_dict_path))
-    if len(inText) > 0:
-        settings.action_dict_path = inText
-    
-    # Save current settings
-    pickle.dump(settings, open(settings_filename, 'wb'))
-    
-    return settings
-    
+def exit_program():
+    sys.exit(0)
 
 if __name__ == '__main__': 
     '''
     Main entry point of the program
     '''
-    app_mode = '0'
-    while app_mode != '1' and app_mode != '2':
-        app_mode = raw_input('Select the annotation mode:\n(1) Capture Frame \n(2) Annotate time\n')
-        if app_mode != '1' and app_mode != '2':
-            print 'Please select an option between 1 or 2.'
     
-    if app_mode == '1':
-        settings = display_capture_settings_menu()
-        capture_movie_frames(settings.base_path, settings.output_path, settings.video_dir, settings.movie_dir, settings.cc_dict_path)
-    elif app_mode == '2':
-        settings = display_annotate_settings_menu()
-        annotate_movie_times(settings.base_path, settings.video_list_path, settings.cc_dict_path, settings.output_path, settings.action_dict_path)
+    app_mode_menu = menu.Menu('Select mode:')
+    app_mode_menu.implicit()
+    app_mode_options = [('Export', start_export_mode), 
+                        ('Annotate', start_annotation_mode),
+                        ('Quit', exit_program)]
+    app_mode_menu.addOptions(app_mode_options)
+    app_mode_menu.open()
     
-    print 'Session ended'
+    
+    print 'Exit program'
