@@ -19,8 +19,11 @@ import tty, sys, termios
 import select
 import pickle
 import nltk
-import Tkinter
 import ConfigParser
+import VideoToGif as v2g
+import tkFileDialog
+import unicodedata
+from Tkinter import Tk
 from AnnotationDB import *
 from os.path import basename, join, splitext
 from nltk.tokenize import sent_tokenize, word_tokenize
@@ -43,8 +46,9 @@ def build_video_path(base_path, video_name):
 def build_videoframe_path(video_path, frame_num):
     return '%s_%d%s'%(os.path.splitext(video_path)[0], frame_num, '.gif')
 
-def build_gif_path(video_path):
-    return os.path.splitext(video_path)[0] + '.gif'
+def build_gif_name(video_path):
+    new_name = os.path.splitext(video_path)[0] + '.gif'
+    return os.path.basename(new_name)
 
 def print_manual():
     print '''
@@ -66,6 +70,7 @@ def print_manual():
     '''
 
 def is_verb_in_sentence(verb, sentence):
+    sentence = unicodedata.normalize('NFKD', sentence).encode('ascii','ignore')
     text = word_tokenize(sentence)
     lemmatizer = nltk.stem.WordNetLemmatizer()
     lemma_words = [lemmatizer.lemmatize(word, 'v') for word in text]
@@ -261,9 +266,12 @@ def display_video_capture(video_file_path, capture_dir='', caption=''):
                     print 'IN: %d     OUT: %d'%(start_frame, end_frame)
                     
                 elif key == ord('e') or key == ord('E'):    # Export to a GIF file
-                    if start_frame < end_frame:
-                        print 'Set exported GIF file name:'
-                        #TODO: add exporting code
+                    if start_frame < end_frame:                        
+                        
+                        export_gif_path = os.path.join(capture_dir, build_gif_name(video_file_path))
+                        print 'Exporting to: %s'%(export_gif_path)
+                        v2g.video_to_gif(video_file_path, export_gif_path, start_frame, end_frame)
+                        
 
                 elif key == ord('j') or key == ord('J'):    # JUMP to next file
                     captured_frame = True
@@ -277,7 +285,7 @@ def display_video_capture(video_file_path, capture_dir='', caption=''):
     
     return exit, skipped, start_frame, end_frame, captured_file_name
 
-def export_movie(last_selected_file, output_path):
+def export_movie(output_path):
     '''
     All the videos in the paths are shown to the user
     The player allows through keyboard input to play/pause and capture the video
@@ -287,11 +295,14 @@ def export_movie(last_selected_file, output_path):
     exit = False
     
     while not exit:
-        video_file_path = tkFileDialog.askopenfilename(title='Select Video File',
-                                                  filetypes=[('AVI','.avi'), ('MPEG-4', '.mp4')],
-                                                  defaultextension='.mp4')
+        root = Tk()
+        root.withdraw()
+        video_file_path = tkFileDialog.askopenfilename(parent = root,
+                                                       title='Select Video File',
+                                                       filetypes=[('AVI','.avi'), ('MPEG-4', '.mp4')],
+                                                       defaultextension='.mp4')
         
-        exit, skipped, start_frame, end_frame, ss = display_video_capture(video_file_path)
+        exit, skipped, start_frame, end_frame, ss = display_video_capture(video_file_path, capture_dir=os.getcwd())
     
     print 'Closing program'
 
@@ -385,10 +396,14 @@ def load_init_file():
 
 def start_export_mode():
     cfg = load_init_file()
+<<<<<<< HEAD
     export_movie(cfg)
 
 def do_nothing():
     return 1
+=======
+    export_movie(cfg.get('Capture', 'output_dir'))
+>>>>>>> 968d4d723dac0d530f9ec4bb2b344e9bd9009b42
 
 def start_annotation_mode():    
     cfg = load_init_file()
@@ -445,6 +460,5 @@ if __name__ == '__main__':
     sel_idx, sel_option = select_menu('Select application mode:', options_txt)
     
     options_fun[sel_idx]()
-    
     
     print 'Exit program'

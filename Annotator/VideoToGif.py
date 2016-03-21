@@ -75,9 +75,9 @@ def video_to_gif(video_path, gif_path, start_frame=1, end_frame=float('inf'), vi
     '''
     video_frame_list = extract_video_frames(video_path) # image list to be animated
     total_frames = len(video_frame_list)
-    if end_frame > totalFrames:
-        end_frame = totalFrames
-    if end_frame - start_frame != totalFrames:
+    if end_frame > total_frames:
+        end_frame = total_frames
+    if end_frame - start_frame != total_frames:
         duration = (end_frame-start_frame) / video_fps        # duration in [s]
         animation = create_gif(video_frame_list[start_frame:end_frame+1], duration)  # this call is the core of the function
         animation.write_gif(gif_path, fps=video_fps)        # save to file        
