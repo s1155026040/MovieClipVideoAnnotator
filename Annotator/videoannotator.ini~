@@ -8,11 +8,11 @@ db_password = multicomp
 db_name = annodb
 
 [Annotation]
-annotation_path = ./Output/glance.csv
+annotation_path = glance.csv
 cc_dict_path = all_captions_dict.p
 action_dict_path = all_video_action_dict.p
-video_list_path = ./Data/glance.txt
+video_list_path = glance.txt
 
 [Capture]
-output_dir = ./Output/
+output_dir = ./
 
