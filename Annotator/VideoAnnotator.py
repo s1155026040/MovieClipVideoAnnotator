@@ -69,8 +69,16 @@ def print_manual():
     
     '''
 
-def is_verb_in_sentence(verb, sentence):
-    sentence = unicodedata.normalize('NFKD', sentence).encode('ascii','ignore')
+def ensure_ascii(inStr):
+    if isinstance(inStr, str):
+        return inStr
+    elif isinstance(inStr, unicode):
+        return unicodedata.normalize('NFKD', inStr).encode('ascii','ignore')
+    else:
+        return ''
+
+def is_verb_in_sentence(verb, sentence):    
+    sentence = ensure_ascii(sentence)
     text = word_tokenize(sentence)
     lemmatizer = nltk.stem.WordNetLemmatizer()
     lemma_words = [lemmatizer.lemmatize(word, 'v') for word in text]
@@ -396,14 +404,7 @@ def load_init_file():
 
 def start_export_mode():
     cfg = load_init_file()
-<<<<<<< HEAD
-    export_movie(cfg)
-
-def do_nothing():
-    return 1
-=======
     export_movie(cfg.get('Capture', 'output_dir'))
->>>>>>> 968d4d723dac0d530f9ec4bb2b344e9bd9009b42
 
 def start_annotation_mode():    
     cfg = load_init_file()
