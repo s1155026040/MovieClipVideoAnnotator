@@ -394,11 +394,18 @@ def start_annotation_mode():
     cfg = load_init_file()
     #TODO: select user from the DB
     anno_db = AnnotationDB()
-    anno_db.init(cfg.get('Database', 'db_ip'), 
+    if anno_db.init(cfg.get('Database', 'db_ip'), 
                  cfg.get('Database', 'db_username'), 
                  cfg.get('Database', 'db_password'), 
-                 cfg.get('Database', 'db_name'))
-    users = anno_db.get_users();
+                 cfg.get('Database', 'db_name')):
+        users = anno_db.get_users()
+    else:
+        print 'ERROR: Could not connect to database'
+        print 'User:     %s'%cfg.get('Database', 'db_username')
+        print 'Password: %s'%cfg.get('Database', 'db_password')
+        print 'Host:     %s'%cfg.get('Database', 'db_ip')
+        print 'DB Name:  %s'%cfg.get('Database', 'db_name')
+        users = ['Unconnected']
     
     sel_idx, sel_user = select_menu('Select user for annotating session:', [name for id,name in users])
     
