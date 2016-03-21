@@ -78,7 +78,8 @@ def ensure_ascii(inStr):
         return ''
 
 def is_verb_in_sentence(verb, sentence):    
-    sentence = ensure_ascii(sentence)
+    #sentence = ensure_ascii(sentence)
+    sentence = all(ord(ch) < 128 for ch in sentence)
     text = word_tokenize(sentence)
     lemmatizer = nltk.stem.WordNetLemmatizer()
     lemma_words = [lemmatizer.lemmatize(word, 'v') for word in text]
