@@ -1,0 +1,12 @@
+'00036', 'kneel.txt'	DONE
+'00054', 'swim.txt'	DONE
+'00071', 'leap.txt'	DONE
+'00081', 'jump.txt'	DONE
+'00106', 'hug.txt'	DONE
+'00138', 'nod.txt'	DONE
+'00154', 'point.txt'    DONE
+'00164', 'wave.txt'     DONE
+'00239', 'push.txt'     DONE
+'00287', 'throw.txt'	
+'00434', 'walk.txt'     24
+'00660', 'run.txt'	DONE

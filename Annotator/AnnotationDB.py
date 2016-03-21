@@ -1,5 +1,5 @@
 import sys
-from sqlalchemy import *
+from sqlalchemy import * #requires MySQLdb package
 
 
 class Annotation():
