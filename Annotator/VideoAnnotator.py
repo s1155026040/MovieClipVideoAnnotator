@@ -26,7 +26,6 @@ from os.path import basename, join, splitext
 from nltk.tokenize import sent_tokenize, word_tokenize
 from collections import deque
 from collections import namedtuple
-from matplotlib import pyplot as plt
 
 #Constants
 VA_COLOR_WHITE = (230, 230, 230)
