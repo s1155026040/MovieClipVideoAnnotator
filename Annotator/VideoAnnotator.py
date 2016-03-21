@@ -22,6 +22,7 @@ import nltk
 import ConfigParser
 import VideoToGif as v2g
 import tkFileDialog
+import unicodedata
 from Tkinter import Tk
 from AnnotationDB import *
 from os.path import basename, join, splitext
@@ -69,6 +70,7 @@ def print_manual():
     '''
 
 def is_verb_in_sentence(verb, sentence):
+    sentence = unicodedata.normalize('NFKD', sentence).encode('ascii','ignore')
     text = word_tokenize(sentence)
     lemmatizer = nltk.stem.WordNetLemmatizer()
     lemma_words = [lemmatizer.lemmatize(word, 'v') for word in text]
@@ -396,9 +398,6 @@ def start_export_mode():
     cfg = load_init_file()
     export_movie(cfg.get('Capture', 'output_dir'))
 
-def do_nothing():
-    return 1
-
 def start_annotation_mode():    
     cfg = load_init_file()
     #TODO: select user from the DB
@@ -454,6 +453,5 @@ if __name__ == '__main__':
     sel_idx, sel_option = select_menu('Select application mode:', options_txt)
     
     options_fun[sel_idx]()
-    
     
     print 'Exit program'
