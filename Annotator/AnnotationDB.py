@@ -39,7 +39,6 @@ class AnnotationDB:
         users = []
         for row in result:
             users.append((row['user_id'], row['name']))
-            print row['user_id'], row['name']
         return users
     
     def insert_annotation(self, annotation):
