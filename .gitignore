@@ -1,3 +1,4 @@
 Annotator/*.pyc
 Annotator/*.ini
 Annotator/.p
+.DS_Store
