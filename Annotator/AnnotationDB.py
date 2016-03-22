@@ -10,6 +10,7 @@ class Annotation():
         self.action = ''
         self.caption = ''
         self.user_id = -1
+        self.status = 0 #0: if skipped
 
 class Video():
     def __init__(self):
@@ -50,7 +51,8 @@ class AnnotationDB:
                               end_frame = annotation.end_frame,
                               action = annotation.action,
                               caption = annotation.caption,
-                              user_id = annotation.user_id)
+                              user_id = annotation.user_id,
+                              status = annotation.status)
     
     def insert_video(self, video):
         videos = Table('videos', self.metadata)

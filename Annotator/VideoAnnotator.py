@@ -55,7 +55,6 @@ def print_manual():
     The keyboard controls for the video annotation tool are:
     
     Space  - Play / Pause
-    
     N      - Step backwards
     M      - Step forward
     .      - Annotate
@@ -63,6 +62,7 @@ def print_manual():
     C      - End point   @ current frame
     S      - Start point @ first frame
     F      - End point   @ last frame
+    E      - Export selected segment to Animated GIF
     J      - Jump to next file
     H      - Show keyboard controls
     ESC, Q - Exit program
@@ -70,16 +70,13 @@ def print_manual():
     '''
 
 def ensure_ascii(inStr):
-    if isinstance(inStr, str):
-        return inStr
-    elif isinstance(inStr, unicode):
-        return unicodedata.normalize('NFKD', inStr).encode('ascii','ignore')
-    else:
-        return ''
+    '''
+    Ensures the input string has only ASCII characters, otherwise replace it with space
+    '''
+    return ''.join([i if ord(i) < 128 else ' ' for i in inStr])
 
 def is_verb_in_sentence(verb, sentence):
-    #sentence = ensure_ascii(sentence)
-    sentence = ''.join([i if ord(i) < 128 else ' ' for i in sentence])
+    sentence = ensure_ascii(sentence)
     text = word_tokenize(sentence)
     lemmatizer = nltk.stem.WordNetLemmatizer()
     lemma_words = [lemmatizer.lemmatize(word, 'v') for word in text]
@@ -284,6 +281,7 @@ def display_video_capture(video_file_path, capture_dir='', caption=''):
 
                 elif key == ord('j') or key == ord('J'):    # JUMP to next file
                     captured_frame = True
+                    skipped = True
                     break
                 elif key == 27 or key == ord('q') or key == ord('Q'): # ESC: exit program 
                     cv2.destroyWindow(video_filename)
@@ -315,7 +313,7 @@ def export_movie(output_path):
     
     print 'Closing program'
 
-def annotate_movie_times(base_path, video_list_path, cc_dict_path, annotations_path, actions_dict_path, user_name):
+def annotate_movie_times(base_path, video_list_path, cc_dict_path, annotations_path, actions_dict_path, user_id, db):
     '''
     All the vidoes in the movie_path_list are shown to the user
     The player allows through keyboard input to play/pause, capture the video and set start/end times
@@ -356,14 +354,27 @@ def annotate_movie_times(base_path, video_list_path, cc_dict_path, annotations_p
             exit, skipped, start_frame, end_frame, ss = display_video_capture(video_path, caption=displayed_caption)
             if exit:
                 print 'Closing program'
-                break
-            elif skipped:
-                annotated_index[video_name]='skipped'                
+                break          
             else:
                 annotated_index[video_name]='annotated'
                 annotation_list.append((video_name+'.avi', start_frame, end_frame, caption))
                 new_line = '\t'.join((video_name+'.avi', str(start_frame), str(end_frame), caption)) + '\n'
                 open(annotations_path, 'a').write(new_line)
+                if db is not None:
+                    #Store in DB and local index
+                    new_annotation = Annotation()
+                    new_annotation.file_name   = video_name
+                    new_annotation.start_frame = start_frame
+                    new_annotation.end_frame   = end_frame
+                    new_annotation.action      = target_action
+                    new_annotation.user_id     = user_id
+                    new_annotation.caption     = displayed_caption
+                    if skipped:
+                        annotated_index[video_name]='skipped'      
+                        new_annotation.status = 0 #It was skipped by user
+                    else:
+                        new_annotation.status = 1 #It was annotated
+                    db.insert_annotation(new_annotation)
                 
             pickle.dump(annotated_index,open('annotatedIdx.p','wb'))
 
@@ -374,12 +385,12 @@ def build_init_file(filename):
     config.add_section('Annotation')
     config.add_section('Capture')
     
-    config.set('Dataset', 'base_path', '/Users/zal/CMU/Fall2015/HCMMML/FinalProject/Dataset/MontrealVideoAnnotationDataset/DVDtranscription')
+    config.set('Dataset', 'base_path', '')
     
-    config.set('Database', 'db_ip', 'atlas4.multicomp.cs.cmu.edu')
-    config.set('Database', 'db_username', 'annotator')
-    config.set('Database', 'db_password', 'multicomp')
-    config.set('Database', 'db_name', 'annodb')
+    config.set('Database', 'db_ip', '')
+    config.set('Database', 'db_username', '')
+    config.set('Database', 'db_password', '')
+    config.set('Database', 'db_name', '')
     
     config.set('Annotation', 'annotation_path', '')
     config.set('Annotation', 'cc_dict_path', 'all_captions_dict.p')
@@ -424,14 +435,18 @@ def start_annotation_mode():
         print 'DB Name:  %s'%cfg.get('Database', 'db_name')
         users = ['Unconnected']
     
-    sel_idx, sel_user = select_menu('Select user for annotating session:', [name for id,name in users])
+    print ''
+    
+    sel_idx, sel_user_name = select_menu('Select user for annotating session:', [name for uid,name in users])
+    sel_user_id = users[sel_idx][0]
     
     annotate_movie_times(cfg.get('Dataset', 'base_path'), 
                          cfg.get('Annotation', 'video_list_path'), 
                          cfg.get('Annotation', 'cc_dict_path'), 
                          cfg.get('Annotation', 'annotation_path'), 
                          cfg.get('Annotation', 'action_dict_path'),
-                         sel_user)
+                         sel_user_id,
+                         anno_db)
 
 def exit_program():
     print 'Quitting session.'
@@ -448,8 +463,8 @@ def select_menu(title, options):
         try:
             sel_idx = int(input())
         except:
+            print 'Please select a valid option'
             sel_idx = -1
-        print ''
         
     return sel_idx-1, options[sel_idx-1]
 
