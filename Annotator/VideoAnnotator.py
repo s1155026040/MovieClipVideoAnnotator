@@ -452,7 +452,6 @@ def exit_program():
     print 'Quitting session.'
     sys.exit(0)
 
-
 def select_menu(title, options):
     sel_idx = -1
     

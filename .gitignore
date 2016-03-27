@@ -1,5 +1,6 @@
 Annotator/*.pyc
 Annotator/*.ini
-Annotator/.p
-.DS_Store
+Annotator/*.p
+Annotator/.DS_Store
+*/.DS_Store
 *~
