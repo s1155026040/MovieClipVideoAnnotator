@@ -1,7 +1,16 @@
+# 
+# This program imports into the database the captions that were
+# classified according to their verb (action)
+# 
+# 
+
 import re
 import glob
 import csv
-from os.path import basename, join, splitext
+import os
+import pickle
+import progressbar
+from os.path import basename, splitext
 from sqlalchemy import *
 
 # CONSTANTS
@@ -23,12 +32,39 @@ class Caption:
         self.movie = ''
         self.dataset = ''
 
-def build_captions_from_actions(actions_path, dataset_id, actions_ext='txt'):
+def ensure_ascii(inStr):
+    '''
+    Ensures the input string has only ASCII characters, otherwise replace it with space
+    '''
+    return ''.join([i if ord(i) < 128 else ' ' for i in inStr])
+
+def sql_format(inStr):
+    inStr = ensure_ascii(inStr)
+    inStr = inStr.strip()
+    inStr = inStr.replace('\r', ' ')
+    inStr = inStr.replace('\n', ' ')
+    inStr = inStr.replace('%', '%%')
+    inStr = inStr.replace("'", "\\'")
+    inStr = inStr.replace('"', '\\"')
+    return inStr
+
+def format_caption(caption):
+    caption.text = sql_format(caption.text)
+    caption.action = sql_format(caption.action)
+    caption.video_name = sql_format(caption.video_name)
+    caption.video_path = sql_format(caption.video_path)
+    caption.movie = sql_format(caption.movie)
+
+    return caption
+
+def build_captions_MVAD(actions_path, actions_ext='txt'):
     engine = create_engine('mysql://annotator:multicomp@atlas4.multicomp.cs.cmu.edu/annodb')
+    dataset_id = ID_MVAD
     captions = []
-    for action_filename in glob.glob(join(actions_path, '*.%s')%(actions_ext)):
+    action_list_str = os.path.join(actions_path, '*.%s'%(actions_ext))
+    for action_filename in glob.glob(action_list_str):
         action = splitext(basename(action_filename))[0]
-        action_file = open(join(actions_path, action_filename))
+        action_file = open(os.path.join(actions_path, action_filename))
         caption_reader = csv.reader(action_file, delimiter='\t')
         for caption_input in caption_reader:
             #TODO: obtain the required data
@@ -38,8 +74,9 @@ def build_captions_from_actions(actions_path, dataset_id, actions_ext='txt'):
             # Extract video path and movie
             info_query = 'SELECT video_path, movie FROM allvideos WHERE video_name="%s"'%(video_name)
             db_res = engine.execute(info_query)
-            video_path = db_res[0][0]
-            movie = db_res[0][1]
+            res_list = [r for r in db_res]
+            video_path = res_list[0][0]
+            movie = res_list[0][1]
             
             new_caption = Caption()
             new_caption.action = action
@@ -53,21 +90,31 @@ def build_captions_from_actions(actions_path, dataset_id, actions_ext='txt'):
     return captions
 
 def store_in_db(captions):
-    engine = create_engine('mysql://annotator:multicomp@atlas4.multicomp.cs.cmu.edu/annodb')
+    engine = create_engine('mysql://annotator:multicomp@atlas4.multicomp.cs.cmu.edu/annodb')    
+
+    caption_count = 0
+    pb = progressbar.ProgressBar(len(captions))
+    pb.start()
     
-    for caption from captions:
-        query = "INSERT INTO captions (text, video_name, video_path, action, movie, dataset) VALUES ('%s','%s','%s')"\
+    for caption in captions:
+        caption = format_caption(caption)
+        query = 'INSERT INTO captions (text, video_name, video_path, action, movie, dataset) VALUES ("%s","%s","%s","%s","%s","%s")'\
             %(caption.text, caption.video_name, caption.video_path, caption.action, caption.movie, caption.dataset)
         db_res = engine.execute(query)
+        caption_count += 1
+        pb.update(caption_count)
+    
+    pb.finish()
 
 def main():
-    mvad_actions_path = ''
-    mvad_captions = build_captions_from_actions(mvad_actions_path, ID_MVAD, 'csv')
+    mvad_actions_path = '/Users/zal/CMU/Devel/MovieClipVideoAnnotator/Processing/MVAD'
+    #mvad_captions = build_captions_MVAD(mvad_actions_path, 'txt')
+    mvad_captions = pickle.load(open('captions.p'))
     store_in_db(mvad_captions)
     
-    mpii_actions_path = ''
-    mpii_captions = build_captions_from_actions(mpii_actions_path, ID_MPII, 'csv')
-    store_in_db(mpii_captions)
+    #mpii_actions_path = ''
+    #mpii_captions = build_captions_from_actions(mpii_actions_path, ID_MPII, 'csv')
+    #store_in_db(mpii_captions)
     
     
 if __name__=='__main__':
