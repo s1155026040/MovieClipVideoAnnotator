@@ -29,7 +29,7 @@ class AnnotationDB:
         engine_desc = 'mysql://%s:%s@%s/%s'%(username, password, host, db_name)
         try:
             self.engine = create_engine(engine_desc)
-            self.metadata.reflect(self.engine, only=['users', 'annotations', 'videos'])
+            self.metadata.reflect(self.engine, only=['users', 'annotations', 'allvideos', 'captions', 'movies'])
         except:
             print "Unexpected error:", sys.exc_info()[0]
             return False
@@ -55,7 +55,7 @@ class AnnotationDB:
                               status = annotation.status)
     
     def insert_video(self, video):
-        videos = Table('videos', self.metadata)
+        videos = Table('allvideos', self.metadata)
         insert = videos.insert()
         conn = self.engine.connect()
         result = conn.execute(insert, video_path = video.video_path,
