@@ -65,7 +65,7 @@ def build_captions_MVAD(actions_path, actions_ext='txt'):
     captions = []
     action_list_str = os.path.join(actions_path, '*.%s'%(actions_ext))
     print 'File filter: %s'%(action_list_str)
-    pb = progressbar.ProgressBar(len(glob.glob(action_list_str)))
+    pb = progressbar.ProgressBar(len(glob.glob(action_list_str))+1)
     pb.start()
     action_count = 0
     for action_filename in glob.glob(action_list_str):
@@ -106,7 +106,7 @@ def build_captions_MPII(actions_path, actions_ext='txt'):
     captions = []
     action_list_str = os.path.join(actions_path, '*.%s'%(actions_ext))
 
-    pb = progressbar.ProgressBar(len(glob.glob(action_list_str)))
+    pb = progressbar.ProgressBar(len(glob.glob(action_list_str))+1)
     pb.start()
     action_count = 0    
 
@@ -149,7 +149,7 @@ def store_in_db(captions):
     engine = create_engine('mysql://annotator:multicomp@atlas4.multicomp.cs.cmu.edu/annodb')    
 
     caption_count = 0
-    pb = progressbar.ProgressBar(len(captions))
+    pb = progressbar.ProgressBar(len(captions)+1)
     pb.start()
     
     for caption in captions:
