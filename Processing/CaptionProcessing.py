@@ -64,9 +64,13 @@ def build_captions_MVAD(actions_path, actions_ext='txt'):
     dataset_id = ID_MVAD
     captions = []
     action_list_str = os.path.join(actions_path, '*.%s'%(actions_ext))
+    print 'File filter: %s'%(action_list_str)
+    pb = progressbar.ProgressBar(len(glob.glob(action_list_str)))
+    pb.start()
+    action_count = 0
     for action_filename in glob.glob(action_list_str):
         action = splitext(basename(action_filename))[0]
-        action_file = open(os.path.join(actions_path, action_filename))
+        action_file = open( action_filename)
         caption_reader = csv.reader(action_file, delimiter='\t')
         for caption_input in caption_reader:
             #TODO: obtain the required data
@@ -89,6 +93,11 @@ def build_captions_MVAD(actions_path, actions_ext='txt'):
             new_caption.dataset = dataset_id
             captions.append(new_caption)
             
+            action_count += 1
+            pb.update(action_count)
+            
+    pb.finish()
+            
     return captions
 
 def build_captions_MPII(actions_path, actions_ext='txt'):
@@ -96,9 +105,14 @@ def build_captions_MPII(actions_path, actions_ext='txt'):
     dataset_id = ID_MPII
     captions = []
     action_list_str = os.path.join(actions_path, '*.%s'%(actions_ext))
+
+    pb = progressbar.ProgressBar(len(glob.glob(action_list_str)))
+    pb.start()
+    action_count = 0    
+
     for action_filename in glob.glob(action_list_str):
         action = splitext(basename(action_filename))[0]
-        action_file = open(os.path.join(actions_path, action_filename))
+        action_file = open(action_filename)
         caption_reader = csv.reader(action_file, delimiter='\t')
         for caption_input in caption_reader:
             #TODO: obtain the required data
@@ -120,6 +134,10 @@ def build_captions_MPII(actions_path, actions_ext='txt'):
             new_caption.movie = movie
             new_caption.dataset = dataset_id
             captions.append(new_caption)
+            action_count += 1
+            pb.update(action_count)    
+            
+    pb.finish()
             
     return captions
 
@@ -145,17 +163,20 @@ def store_in_db(captions):
     pb.finish()
 
 def main():
-    mvad_actions_path = '/Users/zal/CMU/Devel/MovieClipVideoAnnotator/Processing/Montreal_Verbs'
+    # MVAD
+    print 'Processing caption files for MVAD'
+    mvad_actions_path = './Montreal_Verbs'
+    print 'Storing captions in DB'
     mvad_captions = build_captions_MVAD(mvad_actions_path, 'txt')
-    #mvad_captions = pickle.load(open('captions.p'))
     store_in_db(mvad_captions)
-    
     print 'Finished uploading the MVAD captions'
     
-    mpii_actions_path = '/Users/zal/CMU/Devel/MovieClipVideoAnnotator/Processing/MPII_Verbs'
+    # MPII
+    print 'Processing caption files for MPII'
+    mpii_actions_path = './MPII_Verbs'    
     mpii_captions = build_captions_MPII(mpii_actions_path, 'txt')
+    print 'Storing captions in DB'
     store_in_db(mpii_captions)
-    
     print 'Finished uploading the MPII captions'
     
     print 'Program finished successfully'
