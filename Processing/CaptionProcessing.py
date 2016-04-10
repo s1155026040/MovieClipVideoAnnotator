@@ -9,7 +9,6 @@ import glob
 import csv
 import os
 import pickle
-import progressbar
 from os.path import basename, splitext
 from sqlalchemy import *
 
@@ -65,9 +64,7 @@ def build_captions_MVAD(actions_path, actions_ext='txt'):
     captions = []
     action_list_str = os.path.join(actions_path, '*.%s'%(actions_ext))
     print 'File filter: %s'%(action_list_str)
-    pb = progressbar.ProgressBar(len(glob.glob(action_list_str))+1)
-    pb.start()
-    action_count = 0
+
     for action_filename in glob.glob(action_list_str):
         action = splitext(basename(action_filename))[0]
         action_file = open( action_filename)
@@ -93,10 +90,6 @@ def build_captions_MVAD(actions_path, actions_ext='txt'):
             new_caption.dataset = dataset_id
             captions.append(new_caption)
             
-            action_count += 1
-            pb.update(action_count)
-            
-    pb.finish()
             
     return captions
 
@@ -105,10 +98,6 @@ def build_captions_MPII(actions_path, actions_ext='txt'):
     dataset_id = ID_MPII
     captions = []
     action_list_str = os.path.join(actions_path, '*.%s'%(actions_ext))
-
-    pb = progressbar.ProgressBar(len(glob.glob(action_list_str))+1)
-    pb.start()
-    action_count = 0    
 
     for action_filename in glob.glob(action_list_str):
         action = splitext(basename(action_filename))[0]
@@ -134,10 +123,6 @@ def build_captions_MPII(actions_path, actions_ext='txt'):
             new_caption.movie = movie
             new_caption.dataset = dataset_id
             captions.append(new_caption)
-            action_count += 1
-            pb.update(action_count)    
-            
-    pb.finish()
             
     return captions
 
@@ -147,20 +132,13 @@ def store_in_db(captions):
         return
     
     engine = create_engine('mysql://annotator:multicomp@atlas4.multicomp.cs.cmu.edu/annodb')    
-
-    caption_count = 0
-    pb = progressbar.ProgressBar(len(captions)+1)
-    pb.start()
     
     for caption in captions:
         caption = format_caption(caption)
         query = 'INSERT INTO captions (text, video_name, video_path, action, movie, dataset) VALUES ("%s","%s","%s","%s","%s","%s")'\
             %(caption.text, caption.video_name, caption.video_path, caption.action, caption.movie, caption.dataset)
         db_res = engine.execute(query)
-        caption_count += 1
-        pb.update(caption_count)
-    
-    pb.finish()
+
 
 def main():
     # MVAD
