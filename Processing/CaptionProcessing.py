@@ -150,9 +150,15 @@ def main():
     #mvad_captions = pickle.load(open('captions.p'))
     store_in_db(mvad_captions)
     
+    print 'Finished uploading the MVAD captions'
+    
     mpii_actions_path = '/Users/zal/CMU/Devel/MovieClipVideoAnnotator/Processing/MPII_Verbs'
     mpii_captions = build_captions_MPII(mpii_actions_path, 'txt')
     store_in_db(mpii_captions)
+    
+    print 'Finished uploading the MPII captions'
+    
+    print 'Program finished successfully'
     
     
 if __name__=='__main__':
