@@ -18,10 +18,12 @@ from sqlalchemy import *
 ID_MVAD = 'MVAD'
 ID_MPII = 'MPII'
 # CSV COLUMNS
-CSV_SRT_COL = 0
-CSV_NAME_COL = 1
-CSV_TIME_COL = 2
-CSV_TEXT_COL = 3
+MVAD_CSV_SRT_COL = 0
+MVAD_CSV_NAME_COL = 1
+MVAD_CSV_TIME_COL = 2
+MVAD_CSV_TEXT_COL = 3
+MPII_CSV_NAME_COL = 0
+MPII_CSV_TEXT_COL = 1
 
 class Caption:
     def __init__(self):
@@ -69,8 +71,40 @@ def build_captions_MVAD(actions_path, actions_ext='txt'):
         for caption_input in caption_reader:
             #TODO: obtain the required data
             # Extract text
-            text = caption_input[CSV_TEXT_COL]
-            video_name = caption_input[CSV_NAME_COL]
+            text = caption_input[MVAD_CSV_TEXT_COL]
+            video_name = caption_input[MVAD_CSV_NAME_COL]
+            # Extract video path and movie
+            info_query = 'SELECT video_path, movie FROM allvideos WHERE video_name="%s"'%(video_name)
+            db_res = engine.execute(info_query)
+            res_list = [r for r in db_res]
+            video_path = res_list[0][0]
+            movie = res_list[0][1]
+            
+            new_caption = Caption()
+            new_caption.action = action
+            new_caption.text = text
+            new_caption.video_name = video_name
+            new_caption.video_path = video_path
+            new_caption.movie = movie
+            new_caption.dataset = dataset_id
+            captions.append(new_caption)
+            
+    return captions
+
+def build_captions_MPII(actions_path, actions_ext='txt'):
+    engine = create_engine('mysql://annotator:multicomp@atlas4.multicomp.cs.cmu.edu/annodb')
+    dataset_id = ID_MPII
+    captions = []
+    action_list_str = os.path.join(actions_path, '*.%s'%(actions_ext))
+    for action_filename in glob.glob(action_list_str):
+        action = splitext(basename(action_filename))[0]
+        action_file = open(os.path.join(actions_path, action_filename))
+        caption_reader = csv.reader(action_file, delimiter='\t')
+        for caption_input in caption_reader:
+            #TODO: obtain the required data
+            # Extract text
+            text = caption_input[MPII_CSV_TEXT_COL]
+            video_name = caption_input[MPII_CSV_NAME_COL]
             # Extract video path and movie
             info_query = 'SELECT video_path, movie FROM allvideos WHERE video_name="%s"'%(video_name)
             db_res = engine.execute(info_query)
@@ -90,6 +124,10 @@ def build_captions_MVAD(actions_path, actions_ext='txt'):
     return captions
 
 def store_in_db(captions):
+    if len(captions) < 1:
+        print 'ERROR: CaptionProcesing::store_in_db - Captions has length zero'
+        return
+    
     engine = create_engine('mysql://annotator:multicomp@atlas4.multicomp.cs.cmu.edu/annodb')    
 
     caption_count = 0
@@ -107,14 +145,14 @@ def store_in_db(captions):
     pb.finish()
 
 def main():
-    mvad_actions_path = '/Users/zal/CMU/Devel/MovieClipVideoAnnotator/Processing/MVAD'
-    #mvad_captions = build_captions_MVAD(mvad_actions_path, 'txt')
-    mvad_captions = pickle.load(open('captions.p'))
+    mvad_actions_path = '/Users/zal/CMU/Devel/MovieClipVideoAnnotator/Processing/Montreal_Verbs'
+    mvad_captions = build_captions_MVAD(mvad_actions_path, 'txt')
+    #mvad_captions = pickle.load(open('captions.p'))
     store_in_db(mvad_captions)
     
-    #mpii_actions_path = ''
-    #mpii_captions = build_captions_from_actions(mpii_actions_path, ID_MPII, 'csv')
-    #store_in_db(mpii_captions)
+    mpii_actions_path = '/Users/zal/CMU/Devel/MovieClipVideoAnnotator/Processing/MPII_Verbs'
+    mpii_captions = build_captions_MPII(mpii_actions_path, 'txt')
+    store_in_db(mpii_captions)
     
     
 if __name__=='__main__':
