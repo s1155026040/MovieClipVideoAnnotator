@@ -1,0 +1,8 @@
+DISTRICT_9.srt 	DISTRICT_9_DVS731 	01:26:23,00 --> 01:26:30,50 	the robot unleashes the collected bullets in a single blast, and
+GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS249 	00:39:38,00 --> 00:40:01,50 	he resumes climbing while a mass of guards unleashes a barrage of bullets.
+HUGO.srt 	HUGO_DVS729 	01:47:24,00 --> 01:47:30,50 	a moment later, the inspector runs to the bottom of the stairs and unleashes someone.
+PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS415 	01:39:03,00 --> 01:39:16,50 	someone unleashes water from two more tanks, and it all combines to form a giant flowing barrier around the rooftop.
+THOR.srt 	THOR_DVS517 	01:23:19,00 --> 01:23:28,50 	she leaps away as it unleashes another blast of fiery energy.
+THOR.srt 	THOR_DVS521 	01:23:37,00 --> 01:23:47,50 	as someone's friends attempt to rush to her aid, the destroyer unleashes another blast and sends everyone flying.
+THOR.srt 	THOR_DVS640 	01:37:12,00 --> 01:37:17,50 	someone kicks free then unleashes a flurry of attacks.
+ZOMBIELAND.srt 	ZOMBIELAND_DVS588 	01:08:03,00 --> 01:08:09,50 	the older girl unleashes a deadly series of shots.

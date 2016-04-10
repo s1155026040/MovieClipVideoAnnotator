@@ -1,0 +1,3 @@
+DISTRICT_9.srt 	DISTRICT_9_DVS724 	01:25:36,00 --> 01:25:47,50 	now, the little alien manipulates projected diagrams and activates sections of the mothership.
+PROMETHEUS.srt 	PROMETHEUS_DVS608 	01:07:16,00 --> 01:07:22,50 	in her lifeboat, someone watches the feed projected across her windows.
+PROMETHEUS.srt 	PROMETHEUS_DVS763 	01:22:29,00 --> 01:22:40,50 	she makes a few selections from a touch screen, projected over her head.

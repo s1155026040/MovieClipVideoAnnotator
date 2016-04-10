@@ -1,0 +1,4 @@
+LARRY_CROWNE.srt 	LARRY_CROWNE_DVS95 	00:23:33,00 --> 00:23:37,50 	she snags his cell.
+THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS380 	00:56:21,00 --> 00:56:32,50 	the propeller snags haddocks parachute, spins him around rapidly several times and spits him onto the sand nearby.
+THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS617 	01:22:57,00 --> 01:23:08,50 	the falcon snags a fluttering scroll then flies outside toward the jeep.
+TRUE_GRIT.srt 	TRUE_GRIT_DVS489 	01:32:44,00 --> 01:32:54,50 	bouncing down a steep rocky slope, she lands on her back and snags her foot on a tree root.

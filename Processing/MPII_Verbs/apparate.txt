@@ -1,8 +1,7 @@
+1002_Harry_Potter_and_the_Half-Blood_Prince_00.12.10.900-00.12.14.213 	dust rises as they apparate.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.19.10.037-01.19.15.735 	they apparate on a stony clifftop.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.24.55.832-01.25.04.627 	they apparate in a quaint, snow covered village.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.57.31.827-01.57.42.169 	they apparate in a forest.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_02.09.43.544-02.09.50.906 	they apparate on a beach.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.11.13.506-00.11.32.263 	they apparate in a dark and gloomy street by gringott's bank.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.44.28.207-01.44.36.544 	voldemort disappears, and apparate above harry on the stairs.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.11.13.506-00.11.32.263 	they apparate in a dark and gloomy street by gringott's bank.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.44.28.207-01.44.36.544 	voldemort disappears, and apparate above harry on the stairs.

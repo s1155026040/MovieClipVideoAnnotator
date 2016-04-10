@@ -1,0 +1,7 @@
+CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS380 	01:08:26,00 --> 01:08:32,50 	someone runs and leaps, grabbing on to the far railing just before the beam falls.
+CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS577 	01:39:50,00 --> 01:40:02,50 	he hops onto a railed catwalk between two bombs with small cockpits and propellers labelled chicago and new york.
+KARATE_KID.srt 	KARATE_KID_DVS1320 	01:46:48,00 --> 01:46:54,50 	he balances on the corner railing with only his legs.
+MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS328 	00:41:58,00 --> 00:42:06,50 	someone watches someone go, then leans back on a railing next to a white-haired man.
+RUBY_SPARKS.srt 	RUBY_SPARKS_DVS148 	00:25:17,00 --> 00:25:22,50 	he faces another railing with a smile.
+THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS269 	00:39:43,00 --> 00:39:51,50 	someone leaps over a railing then ducks between crates as a thug opens fire with a machine gun.
+ZOOKEEPER.srt 	ZOOKEEPER_DVS343 	01:16:37,00 --> 01:16:56,50 	with a resigned smile, she leans against the railing around the eagle enclosure's glass observation wall and stares out at the birds.

@@ -1,0 +1,4 @@
+COLOMBIANA.srt 	COLOMBIANA_DVS948 	01:31:19,00 --> 01:31:27,50 	at twilight, the truck splashes through puddles as it progresses down a narrow uneven alley.
+PROMETHEUS.srt 	PROMETHEUS_DVS256 	00:24:27,00 --> 00:24:35,50 	we gaze down on the someone as it progresses past jagged blades of rock.
+PROMETHEUS.srt 	PROMETHEUS_DVS596 	01:06:25,00 --> 01:06:32,50 	the team progresses downhill to a large open doorway shaped like an egg.
+PROMETHEUS.srt 	PROMETHEUS_DVS609 	01:07:22,00 --> 01:07:30,50 	as someone progresses, we find the probe hovering before a heart shaped door of multiple oblong panels.

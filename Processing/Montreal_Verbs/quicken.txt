@@ -1,0 +1,4 @@
+ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS181 	00:24:35,00 --> 00:24:43,50 	he crosses the floor between two service counters quickening his pace as he nears the back.
+THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS302 	00:44:49,00 --> 00:44:55,50 	the gray haired goateed pickpocket quickens his pace and takes out a set of keys.
+THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS456 	01:08:24,00 --> 01:08:31,50 	he quickens his pace, struggling to catch up to his wife's lover.
+THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS462 	01:08:55,00 --> 01:09:02,50 	glancing over his shoulder, he slows, then quickens his pace to a reckless scramble.

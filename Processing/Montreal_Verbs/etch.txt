@@ -1,0 +1,4 @@
+LAND_OF_THE_LOST.srt 	LAND_OF_THE_LOST_DVS54 	00:18:25,00 --> 00:18:41,50 	the time travelers draw closer to the block etched with arrow-shaped hieroglyphics.
+MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS41 	00:05:58,00 --> 00:06:04,50 	he unveils a marble slab etched with franklin, popper, reader and yates.
+PROMETHEUS.srt 	PROMETHEUS_DVS59 	00:03:22,00 --> 00:03:28,50 	the humanoid sets out a bowl with a heavily etched lid.
+SANCTUM.srt 	SANCTUM_DVS475 	01:28:27,00 --> 01:28:42,50 	as the light from his flame disappears, our view glides to writing etched in the side of the tank, "frank and someone were here.

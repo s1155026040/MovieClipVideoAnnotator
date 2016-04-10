@@ -1,68 +1,54 @@
-0003_CASABLANCA_01.38.50.330-01.38.52.341 	Ilsa looks at Rick and he returns her stare with a blank expression.
-0003_CASABLANCA_01.40.44.909-01.40.46.248 	Rick returns Renault's gaze with expressionless eyes.
-0004_Charade_00.46.45.514-00.46.47.736 	She hands over the newer one to BARTHOLOMEW, who sadly examines its mutilated end while REGGIE returns to the first cigarette.
-0004_Charade_01.40.44.085-01.40.44.237 	Moving quickly, he returns to the exit door and looks at the platform.
-0004_Charade_01.46.53.310-01.46.53.852 	He returns to the stage.
-0011_Gandhi_00.35.00.422-00.35.02.108 	The car with the civilian has returned in the distance.
-0011_Gandhi_01.05.26.986-01.05.29.027 	Already he has scored a victory -- and as he moves forward again, making the pranam, they return it with flushed greetings.
-0011_Gandhi_01.11.41.608-01.11.43.634 	Gandhi meets his eyes -- a smile that shelters Charlie's vulnerability, returns his love.
-0012_Get_Shorty_00.11.56.784-00.11.57.882 	He returns the snapshot to Chili.
-0016_O_Brother_Where_Art_Thou_00.09.41.698-00.09.44.288 	He glances up as the three convicts clank around the corner, then returns to his whittling.
-0016_O_Brother_Where_Art_Thou_00.33.53.942-00.34.04.955 	Nelson fires wildly as the pursuit cars gain on him, returning fire.
-0016_O_Brother_Where_Art_Thou_00.57.21.568-00.57.26.921 	Lone and lorn, he returns Everett's slack-jawed stare until heat ripples and the truck's dusty wake dissolve him away.
-0016_O_Brother_Where_Art_Thou_01.31.14.802-01.31.16.470 	Pappy returns a considered appraisal.
-0016_O_Brother_Where_Art_Thou_01.40.39.991-01.40.41.409 	It stands staring at Everett, who returns the stare.
-0017_Pianist_01.07.09.609-01.07.19.680 	Szpilman returns to his bunk.
-0017_Pianist_01.14.31.373-01.14.43.421 	The moment it stops the shutters of the store are raised and Bogucki escorts Szpilman to the door, then quickly returns to the rickshaw, which moves off fast.
-0020_Raising_Arizona_00.12.00.385-00.12.01.533 	The baby stops crying and Florence's attention returns to her book.
-0020_Raising_Arizona_00.33.12.721-00.33.13.362 	His attention also returns to the matter at hand.
-0021_Rear_Window_00.23.32.609-00.23.32.769 	In the background, Lisa, having just placed a pair of candlesticks on the table, is returning to the kitchen.
-0021_Rear_Window_00.42.59.886-00.43.03.386 	Then his eye travels briefly back to the kitchen; then return to the living room.
-0021_Rear_Window_00.43.18.582-00.43.22.082 	Decides they are no good, and returns to his carpet sweeping.
-0021_Rear_Window_00.46.22.333-00.46.23.333 	At that moment the songwriter returns to his composing.
-0021_Rear_Window_00.57.35.786-00.57.40.739 	THE CAMERA MOVES BACK as Doyle returns to his drink.
-0021_Rear_Window_01.06.05.311-01.06.09.974 	Having completed his call, Thorwald returns to the bedroom carrying the handbag.
-0021_Rear_Window_01.19.05.556-01.19.05.994 	Surprise of surprises, she has returned with a lover hooked.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.27.10.153-01.27.15.799 	He places the ring on the plinth and returns to his seat.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.17.50.051-02.17.53.342 	Aragorn returns Boromir's smile.betraying his disquiet sadness only when Boromir looks away.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.12.27.567-00.12.38.405 	A ROARING FIRE; a LAMB ROASTING on SPIT; LONG TABLES laden with FOOD; BARRELS of WINE; a banquet is-laid ready for the returning soldiers.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_03.05.04.358-03.05.18.279 	BILBO bows in acknowledgement to ELROND, CELEBORN and GALADRIEL, who return his GREETING.
-0026_The_Big_Fish_00.45.34.069-00.45.37.367 	She returns with her camera.
-0026_The_Big_Fish_00.58.21.581-00.58.26.605 	It returns a beat later with the flaming stick, which it drops at Edward's feet.
-0026_The_Big_Fish_01.27.43.846-01.27.50.753 	Will (5) runs past her to greet Edward, just returned from another trip.
-0028_The_Crying_Game_00.39.53.676-00.40.06.406 	Fergus, returning from work, crosses the street, and enters through a white door.
-0029_The_Graduate_00.04.51.868-00.04.53.081 	Ben tries to smile and return the wink politely.
-0029_The_Graduate_00.40.53.203-00.41.00.201 	On Ben's back as he returns to the chair and sits.
-0030_The_Hustler_00.05.37.830-00.05.41.401 	Eddie chalks up his cue, waiting impatiently for the bartender to return with the money from the cash register.
-0030_The_Hustler_00.17.17.354-00.17.36.195 	The balls are returned and Eddie makes his break shot, a glancing blow that leaves the pack of balls nearly intact and the white cue ball lying far away at the end of the table.
-0030_The_Hustler_00.23.13.134-00.23.18.458 	He slaps down the chalk and returns to his seat.
-0030_The_Hustler_00.35.19.577-00.35.22.438 	Bert returns the money to his billfold, wordlessly.
-0030_The_Hustler_00.38.49.450-00.38.50.344 	Her eyes return to the printed page.
-0030_The_Hustler_00.39.35.062-00.39.36.645 	She returns to her reading.
-0030_The_Hustler_00.56.29.570-00.56.31.999 	She smiles, then she gets up and returns to the kitchenette.
-0030_The_Hustler_02.07.27.578-02.07.42.409 	Eddie returns to his game and Fats waits for his turn, puffing steadily on his cigarette.
-0031_The_Lost_Weekend_00.13.27.521-00.13.31.360 	Nat pours the drink, then returns to squeezing lemons.
-0031_The_Lost_Weekend_00.16.44.262-00.16.47.256 	She returns to the table.
-0031_The_Lost_Weekend_00.34.11.286-00.34.13.222 	The attendant has returned to the other end of the counter and resumed his doze.
-0033_Amadeus_02.20.51.217-02.20.53.101 	Mozart rises and returns to.
-0049_Hannah_and_her_sisters_00.02.42.762-00.02.45.582 	Elliot reluctantly returns to the conversation, but he can't help turning his head to gaze at the offscreen Lee as the other man chatters on.
-0049_Hannah_and_her_sisters_01.37.01.265-01.37.08.356 	He returns onscreen, panting; he looks frantically once again around the living room.
-0050_Indiana_Jones_and_the_last_crusade_00.19.41.546-00.19.45.952 	Mrs. Donovan sighs to herself and returns to the party.
-0050_Indiana_Jones_and_the_last_crusade_01.54.51.778-01.55.02.176 	The color returns to Henry's face.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.08.18.399-00.08.20.324 	Harry steps aside, as a vinyl disk returns to a record player.
-1002_Harry_Potter_and_the_Half-Blood_Prince_02.05.31.576-02.05.38.628 	Harry returns to the basin.
-1003_How_to_Lose_Friends_and_Alienate_People_01.13.34.931-01.13.39.958 	Sydney washes up as his father returns a framed portrait photo of a woman to a shelf.
-1005_Signs_00.02.48.331-00.02.52.718 	Then, returns to his bedroom, picking up some discarded socks on the way.
-1005_Signs_00.30.33.475-00.30.42.026 	Graham's station wagon returns to the farm, and pulls up outside Merrill's converted barn.
-1005_Signs_01.01.56.554-01.01.58.678 	Later, Graham returns to the farm house.
-1005_Signs_01.25.37.470-01.25.40.240 	Morgan lies back, his breathing returning to normal.
-1006_Slumdog_Millionaire_01.02.45.722-01.02.49.098 	Salim returns to the room.
-1006_Slumdog_Millionaire_01.28.46.880-01.28.55.881 	He looks puzzled as he returns to the studio floor.
-1007_Spider-Man1_00.48.51.594-00.48.54.252 	the spotlight returns to the window.
-1008_Spider-Man2_00.31.23.417-00.31.24.754 	his attention returns to mj.
-1010_TITANIC_02.30.23.679-02.30.32.472 	a viola player glances back, then returns and joins him.
+0003_CASABLANCA_01.38.50.330-01.38.52.341 	ilsa looks at rick and he returns her stare with a blank expression.
+0004_Charade_01.40.44.085-01.40.44.237 	moving quickly, he returns to the exit door and looks at the platform.
+0004_Charade_01.46.53.310-01.46.53.852 	he returns to the stage.
+0011_Gandhi_00.35.00.422-00.35.02.108 	the car with the civilian has returned in the distance.
+0011_Gandhi_01.05.26.986-01.05.29.027 	already he has scored a victory -- and as he moves forward again, making the pranam, they return it with flushed greetings.
+0011_Gandhi_01.11.41.608-01.11.43.634 	gandhi meets his eyes -- a smile that shelters charlie's vulnerability, returns his love.
+0012_Get_Shorty_00.11.56.784-00.11.57.882 	he returns the snapshot to chili.
+0016_O_Brother_Where_Art_Thou_00.09.41.698-00.09.44.288 	he glances up as the three convicts clank around the corner, then returns to his whittling.
+0016_O_Brother_Where_Art_Thou_00.33.53.942-00.34.04.955 	nelson fires wildly as the pursuit cars gain on him, returning fire.
+0016_O_Brother_Where_Art_Thou_00.57.21.568-00.57.26.921 	lone and lorn, he returns everett's slack-jawed stare until heat ripples and the truck's dusty wake dissolve him away.
+0016_O_Brother_Where_Art_Thou_01.31.14.802-01.31.16.470 	pappy returns a considered appraisal.
+0016_O_Brother_Where_Art_Thou_01.40.39.991-01.40.41.409 	it stands staring at everett, who returns the stare.
+0017_Pianist_01.14.31.373-01.14.43.421 	the moment it stops the shutters of the store are raised and bogucki escorts szpilman to the door, then quickly returns to the rickshaw, which moves off fast.
+0020_Raising_Arizona_00.33.12.721-00.33.13.362 	his attention also returns to the matter at hand.
+0021_Rear_Window_00.23.32.609-00.23.32.769 	in the background, lisa, having just placed a pair of candlesticks on the table, is returning to the kitchen.
+0021_Rear_Window_00.42.59.886-00.43.03.386 	then his eye travels briefly back to the kitchen; then return to the living room.
+0021_Rear_Window_01.19.05.556-01.19.05.994 	surprise of surprises, she has returned with a lover hooked.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.12.27.567-00.12.38.405 	a roaring fire; a lamb roasting on spit; long tables laden with food; barrels of wine; a banquet is-laid ready for the returning soldiers.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_03.05.04.358-03.05.18.279 	bilbo bows in acknowledgement to elrond, celeborn and galadriel, who return his greeting.
+0026_The_Big_Fish_00.05.11.031-00.05.14.369 	returning to the mail, he finds a hand-addressed envelope.
+0026_The_Big_Fish_00.30.04.809-00.30.14.979 	at his feet, the gravel road has returned, smooth and dusty and comforting.
+0026_The_Big_Fish_00.45.34.069-00.45.37.367 	she returns with her camera.
+0026_The_Big_Fish_00.58.21.581-00.58.26.605 	it returns a beat later with the flaming stick, which it drops at edward's feet.
+0026_The_Big_Fish_01.27.43.846-01.27.50.753 	will (5) runs past her to greet edward, just returned from another trip.
+0028_The_Crying_Game_00.39.53.676-00.40.06.406 	fergus, returning from work, crosses the street, and enters through a white door.
+0029_The_Graduate_00.04.51.868-00.04.53.081 	ben tries to smile and return the wink politely.
+0029_The_Graduate_00.40.53.203-00.41.00.201 	on ben's back as he returns to the chair and sits.
+0030_The_Hustler_00.05.37.830-00.05.41.401 	eddie chalks up his cue, waiting impatiently for the bartender to return with the money from the cash register.
+0030_The_Hustler_00.17.07.934-00.17.11.578 	the balls roll down the table, bank off the far shoulder, and slowly return toward the two players.
+0030_The_Hustler_00.17.17.354-00.17.36.195 	the balls are returned and eddie makes his break shot, a glancing blow that leaves the pack of balls nearly intact and the white cue ball lying far away at the end of the table.
+0030_The_Hustler_00.38.49.450-00.38.50.344 	her eyes return to the printed page.
+0030_The_Hustler_00.39.35.062-00.39.36.645 	she returns to her reading.
+0030_The_Hustler_01.55.02.292-01.55.03.563 	the men return to the table to continue their game.
+0031_The_Lost_Weekend_00.13.27.521-00.13.31.360 	nat pours the drink, then returns to squeezing lemons.
+0031_The_Lost_Weekend_00.16.44.262-00.16.47.256 	she returns to the table.
+0031_The_Lost_Weekend_00.34.11.286-00.34.13.222 	the attendant has returned to the other end of the counter and resumed his doze.
+0032_The_Princess_Bride_01.28.52.318-01.28.57.590 	and now he stops, and the look that was in his eyes at the wedding, that look of fear, is starting to return.
+0038_Psycho_00.16.27.471-00.16.31.252 	the patrolman peers in, checks the car registration on the steering wheel, returns mary's wallet.
+0038_Psycho_00.20.10.641-00.20.15.655 	the car dealer is returning.
+0049_Hannah_and_her_sisters_00.02.42.762-00.02.45.582 	elliot reluctantly returns to the conversation, but he can't help turning his head to gaze at the offscreen lee as the other man chatters on.
+0049_Hannah_and_her_sisters_01.37.01.265-01.37.08.356 	he returns onscreen, panting; he looks frantically once again around the living room.
+0053_Rendezvous_mit_Joe_Black_00.36.51.853-00.37.00.568 	luisa has set a plate in front of joe, and parrish's, which was taken to the kitchen to be warmed, has been returned.
+1002_Harry_Potter_and_the_Half-Blood_Prince_01.09.06.320-01.09.09.194 	the apple has returned.
+1003_How_to_Lose_Friends_and_Alienate_People_01.13.34.931-01.13.39.958 	sydney washes up as his father returns a framed portrait photo of a woman to a shelf.
+1005_Signs_00.44.58.050-00.45.03.717 	graham shoots a knowing glance at this brother, who looking forlorn, returns his gaze to the tv.
+1005_Signs_00.54.34.089-00.54.41.998 	returning his attention to the front, he notices a blood stain on gray's check shirt.
+1005_Signs_01.25.37.470-01.25.40.240 	morgan lies back, his breathing returning to normal.
+1006_Slumdog_Millionaire_01.28.46.880-01.28.55.881 	he looks puzzled as he returns to the studio floor.
+1007_Spider-Man1_00.54.43.817-00.54.44.471 	the stolen money has returned.
+1010_TITANIC_02.30.38.391-02.30.47.017 	the cello player also returns.
 1010_TITANIC_02.43.09.980-02.43.11.646 	he returns her silent gaze.
-1010_TITANIC_02.52.10.219-02.52.21.623 	as one lifeboat returns to the site of the wreck, the dark haired crewman shines his flashlight over the debris strewn water.
 1012_Unbreakable_00.17.39.910-00.17.41.577 	she returns to her work, still ignoring him.
 1017_Bad_Santa_01.18.49.461-01.18.55.836 	he removes the jump start cables from the van, returns to gin and clips them onto his ears.
 1017_Bad_Santa_01.30.01.614-01.30.06.137 	marcus hides behind the hand cart and takes pot shots at the cops who return fire.
@@ -70,8 +56,8 @@
 1018_Body_Of_Lies_02.00.47.962-02.00.55.643 	he glances round, lowers his eyes, then returns to watching aisha at work.
 1023_Horrible_Bosses_01.00.24.580-01.00.29.144 	kurt blanches and returns the binoculars to the shelf.
 1024_Identity_Thief_00.42.28.699-00.42.32.125 	the waitress returns with a mound of food.
+1026_Legion_00.30.09.374-00.30.11.468 	the others return.
 1027_Les_Miserables_00.13.08.141-00.13.24.689 	having walked away from the altar, he returns and sinks to his knees.
-1027_Les_Miserables_01.26.40.023-01.26.42.169 	cosette returns to the house.
 1027_Les_Miserables_01.42.54.936-01.42.56.285 	students return fire as soldiers climb up the barricade.
 1028_No_Reservations_01.19.56.603-01.20.02.328 	her eyes are closed and her face is relaxed into a serene ecstasy, as nick kisses her neck then returns to her lips.
 1028_No_Reservations_01.26.10.751-01.26.19.307 	she returns to her apartment, where a woman in her 60s waits on the sofa.
@@ -80,58 +66,36 @@
 1029_Pride_And_Prejudice_Disk_One_01.25.23.717-01.25.25.331 	then, he returns to the line of men.
 1029_Pride_And_Prejudice_Disk_One_01.25.49.907-01.25.53.573 	darcy's face drops and then returns to his usual stern composure.
 1029_Pride_And_Prejudice_Disk_One_01.29.56.971-01.29.58.612 	then they return to being opposite to one another.
-1029_Pride_And_Prejudice_Disk_One_02.39.32.262-02.39.36.929 	then seems to change his mind and returns to his original spot by the mantel piece.
 1029_Pride_And_Prejudice_Disk_One_02.41.36.885-02.41.45.552 	with furrowed brows and heavy walk, he returns to the mantel piece, putting a distance between them.
-1030_Public_Enemies_00.13.41.328-00.13.42.711 	the president returns to the door.
 1030_Public_Enemies_00.22.41.898-00.22.45.185 	red eyes the brunette in the red dress as she returns to her table.
-1030_Public_Enemies_01.34.02.720-01.34.06.296 	outside a small-town pharmacy, dillinger returns to the heisted car.
-1030_Public_Enemies_01.42.56.370-01.43.05.653 	they fail to notice dillinger, who strides around a parked car and returns to his vehicle.
+1030_Public_Enemies_00.39.08.686-00.39.10.975 	returning, the woman shows off her shoes.
 1030_Public_Enemies_01.44.13.187-01.44.27.329 	in the outer office, the burly agent downs a paper cup of water and passes doris, who glares at him as he returns to the interrogation room.
 1030_Public_Enemies_01.53.46.525-01.53.50.192 	dillinger glances around the living room, then returns to the kitchen.
-1033_Sherlock_Holmes_A_Game_of_Shadows_01.20.34.742-01.20.41.144 	watson returns to the spot where he left holmes.
-1033_Sherlock_Holmes_A_Game_of_Shadows_01.28.03.741-01.28.15.139 	watson returns fire with his machine gun, but the guards respond with a heavy-caliber gatling gun, forcing watson and the others to take cover behind some crates.
-1033_Sherlock_Holmes_A_Game_of_Shadows_01.29.45.741-01.29.51.313 	holmes returns fire with his pistol, hitting a guard in the chest.
 1034_Super_8_00.08.52.895-00.09.02.113 	joe gives jack a cool unconvinced look, then returns his attention to the pamphlet which features pictures of pumped-up boys apparently having a fantastic time playing baseball.
-1034_Super_8_00.42.43.213-00.42.50.966 	joe returns home to find jack at the dinner table with his other deputies, tally, mina, rosko, ross and jay.
 1034_Super_8_01.49.02.676-01.49.12.923 	he's about to pull the trigger, but seeing she has been returned to normal, drops the gun.
+1035_The_Adjustment_Bureau_00.28.13.350-00.28.15.559 	the boyish man returns david's wallet.
 1035_The_Adjustment_Bureau_00.57.39.909-00.57.44.193 	david returns the kiss, enveloping elise in his arms.
 1035_The_Adjustment_Bureau_01.09.18.390-01.09.21.691 	david returns his eyes to the stage, where a dancer tosses elise into the arms of another.
-1037_The_Curious_Case_Of_Benjamin_Button_02.28.42.556-02.28.45.061 	caroline returns to the diary.
+1037_The_Curious_Case_Of_Benjamin_Button_01.13.27.722-01.13.30.171 	returning from work, benjamin gets in the lift at the hotel.
+1037_The_Curious_Case_Of_Benjamin_Button_02.13.39.173-02.13.43.509 	returning from his thoughts, he looks at daisy who smiles fondly.
 1038_The_Great_Gatsby_00.58.16.941-00.58.23.100 	drenched, he returns and sees gatsby and daisy deep in conversation.
 1038_The_Great_Gatsby_00.58.54.529-00.58.57.004 	gatsby glances at the window then returns his unwavering gaze to daisy.
 1038_The_Great_Gatsby_00.59.00.082-00.59.01.274 	her dark eyes return his gaze adoringly.
-1040_The_Ugly_Truth_01.18.36.472-01.18.43.782 	abby returns to her room.
 1041_This_is_40_01.10.13.856-01.10.15.883 	desi returns the partial to a man with a shaved head.
+1045_An_education_01.08.47.617-01.08.58.552 	david smiles, then turns to watch the dancers returning.
 1047_Defiance_00.51.30.072-00.51.30.812 	panchenko returns the salute.
-1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.17.02.899-00.17.07.482 	hanging out of the sidecar, harry runs over the bus and drops back in when the bike returns to the road.
-1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.21.29.874-00.21.33.626 	mr. weasley returns with fred.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.16.01.568-01.16.03.346 	he returns the light.
 1052_Harry_Potter_and_the_order_of_phoenix_00.57.16.608-00.57.25.136 	umbridge watches from a high tower as they return to school.
-1053_Harry_Potter_and_the_philosophers_stone_00.41.21.346-00.41.27.809 	professor mcgonagall returns and gives malfoy a sharp, warning look.
-1056_Rambo_00.36.38.000-00.36.43.662 	with an angry glare at rambo, lewis returns to the prow of the boat and continues his belligerent surveillance.
+1052_Harry_Potter_and_the_order_of_phoenix_01.59.55.400-01.59.59.108 	voldemort staggers and then returns it.
+1054_Harry_Potter_and_the_prisoner_of_azkaban_01.43.35.937-01.43.41.124 	but the power of harry's wand fades and the dementors return to the attack.
+1056_Rambo_00.57.35.413-00.57.39.546 	he looks out through the timbers and sees the soldier with the bottle of spirits returning.
 1056_Rambo_01.18.29.635-01.18.32.008 	he then returns to the wounded man.
 1057_Seven_pounds_00.21.59.076-00.22.04.184 	the boy spots ben, who smiles and nods, then returns briefly to reading.
-1057_Seven_pounds_00.24.55.085-00.25.01.196 	ben returns to the reception window where the guy now greets him.
-1057_Seven_pounds_00.45.30.000-00.45.35.357 	george returns ben's kindly stare with a slight smile.
-1057_Seven_pounds_01.43.59.603-01.44.04.200 	tim returns to his motel room and pauses in the doorway.
 1058_The_Damned_united_01.28.57.758-01.29.01.795 	peter screws his eyes up and returns the embrace.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.13.44.863-00.13.52.400 	the old teller returns to his desk with bogrod, a bespectacled goblin.
 1062_Day_the_Earth_stood_still_00.39.45.235-00.39.48.181 	the man returns his stare with a frown, then reaches out to his console.
+2004_Juno_00.34.56.459-00.34.57.809 	vanessa, mac and gerta rauss are waiting in awkward silence for juno and mark to return.
 2004_Juno_01.10.34.940-01.10.40.568 	juno reaches the top of the stairs and scrambles toward the front door, only to be intercepted by vanessa, who's returning home from work, carrying her briefcase and a freshly purchased nursing pillow.
-2017_Bad_Santa_01.01.27.571-01.01.32.597 	marcus returns to the velvet rope to find gin slagel waiting stone-faced.
-2027_Les_Miserables_00.03.01.941-00.03.03.617 	javert nods to the guards, and they begin to form the chained men into lines to return to their prison.
-1053_Harry_Potter_and_the_philosophers_stone_00.41.21.346-00.41.27.809 	professor mcgonagall returns and gives malfoy a sharp, warning look.
-1056_Rambo_00.36.38.000-00.36.43.662 	with an angry glare at rambo, lewis returns to the prow of the boat and continues his belligerent surveillance.
-1056_Rambo_01.18.29.635-01.18.32.008 	he then returns to the wounded man.
-1057_Seven_pounds_00.21.59.076-00.22.04.184 	the boy spots ben, who smiles and nods, then returns briefly to reading.
-1057_Seven_pounds_00.24.55.085-00.25.01.196 	ben returns to the reception window where the guy now greets him.
-1057_Seven_pounds_00.45.30.000-00.45.35.357 	george returns ben's kindly stare with a slight smile.
-1057_Seven_pounds_01.43.59.603-01.44.04.200 	tim returns to his motel room and pauses in the doorway.
-1058_The_Damned_united_01.28.57.758-01.29.01.795 	peter screws his eyes up and returns the embrace.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.13.44.863-00.13.52.400 	the old teller returns to his desk with bogrod, a bespectacled goblin.
-1062_Day_the_Earth_stood_still_00.39.45.235-00.39.48.181 	the man returns his stare with a frown, then reaches out to his console.
-2004_Juno_01.10.34.940-01.10.40.568 	juno reaches the top of the stairs and scrambles toward the front door, only to be intercepted by vanessa, who's returning home from work, carrying her briefcase and a freshly purchased nursing pillow.
-2017_Bad_Santa_01.01.27.571-01.01.32.597 	marcus returns to the velvet rope to find gin slagel waiting stone-faced.
+2026_Legion_01.17.49.915-01.17.52.968 	and the world returns to normal speed as gabriel brings the mace arcing down at jeep.
 2027_Les_Miserables_00.03.01.941-00.03.03.617 	javert nods to the guards, and they begin to form the chained men into lines to return to their prison.
 2034_Super_8_01.05.10.985-01.05.12.513 	donny's returned with a developed film envelope.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_01.18.56.925-01.18.59.873 	lupin hesitates ever-so-slightly, then returns to his papers.

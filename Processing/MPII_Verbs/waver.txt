@@ -1,6 +1,5 @@
-0011_Gandhi_00.14.12.215-00.14.22.619 	Behind him, Gandhi wavers indecisively a moment, then takes the box from Singh and moves to the fire.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.47.49.020-01.47.49.731 	their COURAGE wavering with each CRASHING.
-1007_Spider-Man1_00.14.11.421-00.14.16.742 	His skinny frame wavering in front of a tall mirror.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.47.49.020-01.47.49.731 	their courage wavering with each crashing.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.31.35.306-02.31.38.209 	aragorn's men starting to waver as the orcs encircle them.
+1007_Spider-Man1_00.14.11.421-00.14.16.742 	his skinny frame wavering in front of a tall mirror.
 1045_An_education_01.08.36.138-01.08.41.128 	jenny smiles, her gaze never wavering from his.
-1056_Rambo_00.17.55.320-00.17.59.171 	rambo's gaze does not waver from the pirates as the boat leaves the pirate dock behind.
 1056_Rambo_00.17.55.320-00.17.59.171 	rambo's gaze does not waver from the pirates as the boat leaves the pirate dock behind.

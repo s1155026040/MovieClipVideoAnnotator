@@ -1,0 +1,10 @@
+A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS385 	00:35:16,00 --> 00:35:21,50 	as he attaches it to a far wall, we recognize a small detonator at its top.
+BLINDDATING.srt 	BLINDDATING_DVS303 	01:14:42,00 --> 01:15:00,50 	he bows his head, then lets his touch recognize her face.
+GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS504 	01:12:49,00 --> 01:12:57,50 	she glances up once more then recognizes someone and someone as they leave their fallen enemies behind.
+LIFE_OF_PI.srt 	LIFE_OF_PI_DVS405 	00:47:38,00 --> 00:47:45,50 	as she draws near, we recognize her flotation device has bananas wrapped in netting.
+PROMETHEUS.srt 	PROMETHEUS_DVS693 	01:13:53,00 --> 01:14:01,50 	as he peers curiously at the softly glowing orb, we recognize the continent of africa.
+SALT.srt 	SALT_DVS258 	00:45:18,00 --> 00:45:43,50 	as we revolve around her, we recognize someone's high cheekbones and bee-stung lips.
+THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS452 	01:08:11,00 --> 01:08:16,50 	as the lanky figure draws near, we recognize someone's face.
+UGLY_TRUTH.srt 	UGLY_TRUTH_DVS362 	00:42:42,00 --> 00:42:47,50 	nearby, a woman recognizes someone.
+WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS314 	00:50:52,00 --> 00:51:09,50 	as the visitor turns, we recognize ferris' 	features from the photo on the dartboard.
+XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS290 	00:22:48,00 --> 00:22:55,50 	his expression hardens as he recognizes the third man as his nazi tormentor.

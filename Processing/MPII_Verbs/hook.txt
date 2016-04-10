@@ -1,16 +1,18 @@
-0005_Chinatown_00.15.45.902-00.16.00.155 	MOVE ALONG the red tiled roof and down to a lower level of the roof where Gittes' feet are hooked over the apex of the roof and Gittes himself is stretched face downward on the tiles, pointing himself and his camera to a veranda below him where the girl and Mulwray are eating.
-0005_Chinatown_00.15.54.354-00.16.13.021 	Gittes is clicking off more shots when the tiles his feet are hooked over come loose.
-0005_Chinatown_00.33.17.099-00.33.18.140 	It can be SEEN that one of them has hooked something.
-0010_Frau_Ohne_Gewissen_00.29.12.700-00.29.16.148 	He has hooked the wastebasket under his feet to sit more comfortably.
-0012_Get_Shorty_00.29.49.829-00.29.56.940 	Ronnie sits down in the chair and hooks one leg over the arm, swings it up and down, his motor running on some chemical.
-0020_Raising_Arizona_00.44.34.029-00.44.34.888 	Ed hooks an arm around the seat and looks behind the car, then looks forward.
-0020_Raising_Arizona_01.17.54.510-01.17.55.874 	He hooks the car seat over his handlebars.
-0020_Raising_Arizona_01.21.58.207-01.21.58.464 	Pawing at Lenny's chest he must have hooked his finger through its ring.
-0031_The_Lost_Weekend_01.25.56.848-01.25.59.917 	The top of the bat's hooked wing nicks his forehead as it speeds in swift but fluttering flight straight at the mouse.
-0038_Psycho_00.08.04.348-00.08.08.222 	Cassidy pauses beside Mary's desk, hooks a haunch onto the desktop, smiles a wet smile at Mary.
-0050_Indiana_Jones_and_the_last_crusade_00.19.43.552-00.19.44.885 	Indy, meanwhile, has turned his attention back to the Grail Tablet, obviously hooked by its archaeological promise.
+0005_Chinatown_00.15.45.902-00.16.00.155 	move along the red tiled roof and down to a lower level of the roof where gittes' feet are hooked over the apex of the roof and gittes himself is stretched face downward on the tiles, pointing himself and his camera to a veranda below him where the girl and mulwray are eating.
+0005_Chinatown_00.15.54.354-00.16.13.021 	gittes is clicking off more shots when the tiles his feet are hooked over come loose.
+0005_Chinatown_00.33.17.099-00.33.18.140 	it can be seen that one of them has hooked something.
+0005_Chinatown_00.33.17.264-00.33.17.484 	the other man hooks it, too.
+0010_Frau_Ohne_Gewissen_00.29.12.700-00.29.16.148 	he has hooked the wastebasket under his feet to sit more comfortably.
+0012_Get_Shorty_00.29.49.829-00.29.56.940 	ronnie sits down in the chair and hooks one leg over the arm, swings it up and down, his motor running on some chemical.
+0012_Get_Shorty_00.56.45.249-00.56.50.749 	hooked.
+0020_Raising_Arizona_00.44.34.029-00.44.34.888 	ed hooks an arm around the seat and looks behind the car, then looks forward.
+0020_Raising_Arizona_01.17.54.510-01.17.55.874 	he hooks the car seat over his handlebars.
+0020_Raising_Arizona_01.21.58.207-01.21.58.464 	pawing at lenny's chest he must have hooked his finger through its ring.
+0021_Rear_Window_01.19.05.556-01.19.05.994 	surprise of surprises, she has returned with a lover hooked.
+0038_Psycho_00.08.04.348-00.08.08.222 	cassidy pauses beside mary's desk, hooks a haunch onto the desktop, smiles a wet smile at mary.
+0050_Indiana_Jones_and_the_last_crusade_00.19.43.552-00.19.44.885 	indy, meanwhile, has turned his attention back to the grail tablet, obviously hooked by its archaeological promise.
 1008_Spider-Man2_00.56.10.085-00.56.17.549 	she looks way down to the ground, then up at the face of the statue whose outstretched arms she'd hooked her brolly around.
+1019_Confessions_Of_A_Shopaholic_00.20.06.282-00.20.11.585 	she tries to hook the letter with a stiletto heel.
 1033_Sherlock_Holmes_A_Game_of_Shadows_00.27.49.228-00.27.54.894 	holmes dodges the attack and hooks the umbrella handle around the man's throat.
 1037_The_Curious_Case_Of_Benjamin_Button_00.37.37.216-00.37.42.445 	benjamin hooks his cane on the end of his bed and gets in.
-1060_Yes_man_01.28.01.242-01.28.06.725 	he sees a guy hooking his car up to a tow truck.
 1060_Yes_man_01.28.01.242-01.28.06.725 	he sees a guy hooking his car up to a tow truck.

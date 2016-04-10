@@ -1,0 +1,3 @@
+CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS443 	01:19:56,00 --> 01:20:04,50 	as the man falls out of the tree, the shield boomerangs back into someone' hand.
+CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS523 	01:33:32,00 --> 01:33:40,50 	someone tosses another soldier into the air, then catches his shield as it boomerangs back to him.
+THOR.srt 	THOR_DVS567 	01:28:44,00 --> 01:28:50,50 	the war hammer boomerangs back and strikes the destroyer to the ground.

@@ -1,48 +1,98 @@
-0004_Charade_01.05.09.237-01.05.25.062 	TEX takes the list, examines it, then folds it and puts it in his pocket.
-0005_Chinatown_01.13.40.140-01.13.42.998 	He pulls out the obituary column he'd folded up earlier in the day.
-0006_Clerks_00.04.19.127-00.04.24.989 	The car trunk pops open and a hand reaches inside, pulling out a folded white sheet.
-0006_Clerks_00.11.03.916-00.11.13.756 	DANTE is sitting on the floor, head in his folded arms.
-0007_DIE_NACHT_DES_JAEGERS_00.31.03.056-00.31.07.448 	She folds her hands in prayer and lifts her eyes.
-0007_DIE_NACHT_DES_JAEGERS_00.49.21.426-00.49.22.507 	PREACHER, well-fed and at leisure, dabs his mouth delicately with his napkin, folds it, puts it in a ring, and folds his hands.
-0007_DIE_NACHT_DES_JAEGERS_01.17.20.717-01.17.32.549 	He tethers his horse and, as we PAN and TRACK on behind him, walks to the bottom of the steps; RUBY moves into side of SHOT: beyond PREACHER, RACHEL stands behind her screen door, hands folded under apron.
-0010_Frau_Ohne_Gewissen_00.56.17.324-00.56.19.309 	She pulls the rug off the corpse (which is not visible) and stands looking into the car, unable to take her eyes off what she sees, while at the same time her hands mechanically begin to fold the rug.
-0011_Gandhi_00.58.45.938-00.58.50.152 	He takes off his glasses and folds them and in silence starts back toward his place on the platform.
-0011_Gandhi_01.15.05.020-01.15.07.672 	His desk is arrayed with several tall stacks of folders -- all with exactly the same covers -- and on one corner of the desk, some folded newspapers.
-0011_Gandhi_01.56.49.190-01.56.54.583 	The Advocate General is speaking from a folded journal.
-0011_Gandhi_02.12.52.197-02.12.52.373 	In the chaos an old man calmly picks up a piece of paper from the floor, a handful of salt, and folds another packet.
-0011_Gandhi_02.31.56.397-02.32.03.150 	For a moment he folds his hands absently, then he stands.
-0012_Get_Shorty_00.17.49.351-00.17.50.327 	Chili turns aronud and sees her standing in the doorway now, her arms folded across that chest, the Lakers T-shirt coming down just past her crotch.
-0012_Get_Shorty_01.32.05.677-01.32.12.801 	Karen stands there with her arms folded across her chest.
-0014_Ist_das_Leben_nicht_schoen_01.19.50.160-01.19.53.324 	Uncle Billy folds Potter's paper over the envelope containing his money, and flings his final taunt at the old man.
-0020_Raising_Arizona_00.01.26.169-00.01.28.929 	At this point the pan has reached the COUNSELOR, an earnest, bearded young man who straddles a folding chair with his arms folded over its back.
-0020_Raising_Arizona_00.57.31.589-00.57.32.777 	Through it we can see the Biker sitting on the ground, legs stretched out in front of him, back resting against his parked motorcycle, arms folded across his chest.
-0023_THE_BUTTERFLY_EFFECT_00.36.56.546-00.37.10.048 	When Evan comes to in this memory, the lit cigarette absently drops from his mouth and nestles into the folds of his shirt.
-0029_The_Graduate_00.25.22.045-00.25.39.129 	He stands up in the booth, looks around, moves about uncomfortably for a few moments, removes his jacket and carrying it folded across his arm in front of him, leaves the phone booth and crosses to the doors that lead to the main lobby.
-0029_The_Graduate_01.00.05.929-01.00.07.669 	She folds her hands on the table and looks down at them.
-0030_The_Hustler_01.40.07.400-01.40.09.587 	Bert displays a neatly folded wad of money in his hand.
-0031_The_Lost_Weekend_00.11.04.076-00.11.07.443 	There's nothing but sugar in the bowl, but lining the lid is a folded five-dollar bill.
-0031_The_Lost_Weekend_00.11.27.086-00.11.37.723 	He looks at it, folds it neatly, pockets it, puts on his hat, then, with an afterthought, goes into the living room.
-0038_Psycho_00.49.38.180-00.49.45.592 	As CAMERA approaches the bed, we see the folded newspaper as Mary placed it on the bedside table.
-0038_Psycho_01.47.08.399-01.47.10.825 	The Guard is carrying a folded blanket over his arm.
-0041_The_Sixth_Sense_00.10.14.374-00.10.16.313 	Malcolm clutches his stomach and folds like a rag doll onto the bed.
-0041_The_Sixth_Sense_00.53.05.866-00.53.07.933 	She pulls it off and begins to fold it.
-0041_The_Sixth_Sense_01.02.21.951-01.02.26.904 	Lynn folds her napkin quietly.
-0043_Thelma_and_Luise_00.06.48.299-00.06.49.332 	A perfectly ordered suitcase, everything neatly folded and orderly.
-0049_Hannah_and_her_sisters_00.19.21.720-00.19.25.562 	She walks past David to a counter where she begins to fold napkins.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.52.50.581-00.52.53.614 	Harry folds back the wrapping paper.
-1002_Harry_Potter_and_the_Half-Blood_Prince_02.21.19.455-02.21.21.676 	Inside is a neatly folded piece of paper.
-1004_Juno_00.37.23.550-00.37.28.217 	Vanessa presses her hands together as if in prayer and lets him fold her in his arms.
-1005_Signs_00.27.56.744-00.28.00.000 	Merrill folds up the pamphlet and puts it in his pocket.
-1005_Signs_01.29.43.998-01.29.47.212 	They turn to look at Morgan asleep on the floor, his head resting on folded blankets.
-1006_Slumdog_Millionaire_01.50.10.994-01.50.13.320 	His arms are folded around his knees.
-1007_Spider-Man1_00.18.15.693-00.18.17.230 	He folds them up.
+0004_Charade_01.05.09.237-01.05.25.062 	tex takes the list, examines it, then folds it and puts it in his pocket.
+0005_Chinatown_01.13.40.140-01.13.42.998 	he pulls out the obituary column he'd folded up earlier in the day.
+0007_DIE_NACHT_DES_JAEGERS_00.31.03.056-00.31.07.448 	she folds her hands in prayer and lifts her eyes.
+0007_DIE_NACHT_DES_JAEGERS_00.49.21.426-00.49.22.507 	preacher, well-fed and at leisure, dabs his mouth delicately with his napkin, folds it, puts it in a ring, and folds his hands.
+0007_DIE_NACHT_DES_JAEGERS_01.17.20.717-01.17.32.549 	he tethers his horse and, as we pan and track on behind him, walks to the bottom of the steps; ruby moves into side of shot: beyond preacher, rachel stands behind her screen door, hands folded under apron.
+0010_Frau_Ohne_Gewissen_00.48.25.026-00.48.27.556 	he is folding a hand towel and stuffing it into his jacket pocket.
+0010_Frau_Ohne_Gewissen_00.56.17.324-00.56.19.309 	she pulls the rug off the corpse (which is not visible) and stands looking into the car, unable to take her eyes off what she sees, while at the same time her hands mechanically begin to fold the rug.
+0011_Gandhi_00.58.45.938-00.58.50.152 	he takes off his glasses and folds them and in silence starts back toward his place on the platform.
+0011_Gandhi_01.15.05.020-01.15.07.672 	his desk is arrayed with several tall stacks of folders -- all with exactly the same covers -- and on one corner of the desk, some folded newspapers.
+0011_Gandhi_01.56.49.190-01.56.54.583 	the advocate general is speaking from a folded journal.
+0011_Gandhi_01.58.27.016-01.58.33.735 	he folds, and refolds his glasses and then without looking at anyone he rises.
+0011_Gandhi_02.12.52.197-02.12.52.373 	in the chaos an old man calmly picks up a piece of paper from the floor, a handful of salt, and folds another packet.
+0011_Gandhi_02.31.56.397-02.32.03.150 	for a moment he folds his hands absently, then he stands.
+0012_Get_Shorty_00.17.49.351-00.17.50.327 	chili turns aronud and sees her standing in the doorway now, her arms folded across that chest, the lakers t-shirt coming down just past her crotch.
+0012_Get_Shorty_01.32.05.677-01.32.12.801 	karen stands there with her arms folded across her chest.
+0014_Ist_das_Leben_nicht_schoen_01.19.50.160-01.19.53.324 	uncle billy folds potter's paper over the envelope containing his money, and flings his final taunt at the old man.
+0020_Raising_Arizona_00.01.15.050-00.01.17.224 	panning a circle of men who sit facing each other in folding chairs.
+0020_Raising_Arizona_00.01.26.169-00.01.28.929 	at this point the pan has reached the counselor, an earnest, bearded young man who straddles a folding chair with his arms folded over its back.
+0020_Raising_Arizona_00.08.07.720-00.08.09.570 	hi and ed are seated on folding chairs facing an agent's desk.
+0020_Raising_Arizona_00.57.31.589-00.57.32.777 	through it we can see the biker sitting on the ground, legs stretched out in front of him, back resting against his parked motorcycle, arms folded across his chest.
+0020_Raising_Arizona_01.18.26.375-01.18.27.014 	folded over in the front seat.
+0023_THE_BUTTERFLY_EFFECT_00.52.16.403-00.52.17.702 	kayleigh and evan sit on folding chairs in front of the camera.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.47.33.152-01.47.37.990 	upon each tomb lies a sleeping form, carved in stone, hands folded.
+0026_The_Big_Fish_01.25.39.158-01.25.42.107 	the inner sanctum of the horizon savings and loan holds exactly one folding chair.
+0027_The_Big_Lebowski_00.03.10.429-00.03.14.597 	she waits, arms folded.
+0029_The_Graduate_00.25.22.045-00.25.39.129 	he stands up in the booth, looks around, moves about uncomfortably for a few moments, removes his jacket and carrying it folded across his arm in front of him, leaves the phone booth and crosses to the doors that lead to the main lobby.
+0029_The_Graduate_01.00.05.929-01.00.07.669 	she folds her hands on the table and looks down at them.
+0030_The_Hustler_01.40.07.400-01.40.09.587 	bert displays a neatly folded wad of money in his hand.
+0031_The_Lost_Weekend_00.11.27.086-00.11.37.723 	he looks at it, folds it neatly, pockets it, puts on his hat, then, with an afterthought, goes into the living room.
+0041_The_Sixth_Sense_00.10.14.374-00.10.16.313 	malcolm clutches his stomach and folds like a rag doll onto the bed.
+0041_The_Sixth_Sense_00.53.05.866-00.53.07.933 	she pulls it off and begins to fold it.
+0041_The_Sixth_Sense_01.02.21.951-01.02.26.904 	lynn folds her napkin quietly.
+0043_Thelma_and_Luise_00.06.48.299-00.06.49.332 	a perfectly ordered suitcase, everything neatly folded and orderly.
+0049_Hannah_and_her_sisters_00.19.21.720-00.19.25.562 	she walks past david to a counter where she begins to fold napkins.
+1002_Harry_Potter_and_the_Half-Blood_Prince_00.52.50.581-00.52.53.614 	harry folds back the wrapping paper.
+1002_Harry_Potter_and_the_Half-Blood_Prince_02.21.19.455-02.21.21.676 	inside is a neatly folded piece of paper.
+1003_How_to_Lose_Friends_and_Alienate_People_00.47.30.418-00.47.33.038 	she turns to look at sidney, who shrugs, arms folded.
+1004_Juno_00.37.23.550-00.37.28.217 	vanessa presses her hands together as if in prayer and lets him fold her in his arms.
+1004_Juno_00.49.16.589-00.49.22.101 	vanessa stands with her arms tightly folded.
+1004_Juno_00.54.55.673-00.55.04.376 	mark, standing next to her, arms folded, looks glum.
+1005_Signs_00.27.56.744-00.28.00.000 	merrill folds up the pamphlet and puts it in his pocket.
+1005_Signs_01.29.43.998-01.29.47.212 	they turn to look at morgan asleep on the floor, his head resting on folded blankets.
+1006_Slumdog_Millionaire_01.50.10.994-01.50.13.320 	his arms are folded around his knees.
+1007_Spider-Man1_00.18.15.693-00.18.17.230 	he folds them up.
+1007_Spider-Man1_00.19.51.567-00.19.53.124 	mj marches down the sidewalk, arms folded.
+1008_Spider-Man2_00.29.54.232-00.29.56.157 	the usher folds his arms.
+1008_Spider-Man2_01.02.19.979-01.02.22.625 	her arms folded, mj looks slightly flustered as the guests applaud.
+1009_Spider-Man3_00.12.03.036-00.12.09.937 	he turns sharply as the light comes on and looks at a blond woman in her 40s with her arms folded, wearing a disenchanted expression.
+1009_Spider-Man3_01.24.08.517-01.24.14.097 	he turns with a cruel smile as mary jane comes past, arms folded, and glares at him.
+1011_The_Help_00.32.49.070-00.32.53.748 	minnie stands with her arms folded, then slams down the lid.
+1011_The_Help_00.59.13.860-00.59.20.654 	skeeter gawks nervously as minnie heaves her full round hips onto the table and folds her arms.
+1011_The_Help_01.05.30.406-01.05.35.658 	minnie folds down the top of a brown paper bag and hands it to celia.
+1012_Unbreakable_00.21.27.971-00.21.30.501 	she stands beside him, arms folded.
+1012_Unbreakable_00.22.32.295-00.22.35.694 	she stands and folds her arms again.
+1012_Unbreakable_00.23.57.006-00.24.04.386 	the boy pulls off the lid, folds back purple tissue paper, and stares down.
+1012_Unbreakable_01.27.52.419-01.27.57.086 	over to his left, he sees a crumpled ridge of plastic sheeting begin to fold in on itself.
+1019_Confessions_Of_A_Shopaholic_00.32.16.232-00.32.25.872 	her face folds as she reads the label.
+1020_Crazy_Stupid_Love_00.15.08.164-00.15.12.834 	she walks along by the truck, her arms folded,
+1020_Crazy_Stupid_Love_00.24.46.573-00.24.50.822 	he bites into a piece of folded up pizza.
+1020_Crazy_Stupid_Love_01.18.36.769-01.18.38.128 	jessica has her arms folded and grins.
+1020_Crazy_Stupid_Love_01.34.32.867-01.34.35.540 	emily folds her arms.
+1024_Identity_Thief_00.20.19.312-00.20.22.065 	the detective leaves, while the boss lingers with his arms folded.
+1024_Identity_Thief_01.40.35.968-01.40.37.755 	she hands him a folded slip of pink paper.
+1029_Pride_And_Prejudice_Disk_One_02.38.50.171-02.38.52.313 	hearing the front doorbell, she folds the letter back up,
+1029_Pride_And_Prejudice_Disk_One_02.39.57.296-02.39.59.067 	then stops, staring at her with his hands folded behind him.
+1030_Public_Enemies_00.10.54.608-00.11.02.924 	in a clean, white kitchen, a woman standing near the sink folds a newspaper.
+1030_Public_Enemies_00.34.11.889-00.34.15.447 	folding back the layers, she finds a camel haired coat with a thick fur collar.
+1030_Public_Enemies_00.59.58.373-01.00.01.035 	the judge folds his hands thoughtfully.
+1030_Public_Enemies_01.38.03.858-01.38.07.235 	purvis steps forward, arms folded across his chest.
+1030_Public_Enemies_01.52.20.459-01.52.21.506 	dillinger folds up the note.
+1033_Sherlock_Holmes_A_Game_of_Shadows_01.20.53.082-01.20.56.515 	he opens up the folded paper to see rene's sketch of a tall tower.
+1035_The_Adjustment_Bureau_00.03.11.311-00.03.17.749 	he folds it shut, and answers his cell phone.
+1035_The_Adjustment_Bureau_00.30.27.685-00.30.29.594 	leaning on his desk, he folds his arms.
+1035_The_Adjustment_Bureau_00.31.17.170-00.31.20.173 	the mustached adjustment officer sits at one table with his hands folded.
+1035_The_Adjustment_Bureau_01.15.00.086-01.15.06.859 	he browses a page, folds it up, and frowns thoughtfully to himself.
+1037_The_Curious_Case_Of_Benjamin_Button_00.51.14.067-00.51.19.728 	benjamin staggers through the darkened hallway, where queenie stands with her arms folded.
+1041_This_is_40_00.50.53.287-00.50.56.715 	at the boutique, debbie watches desi while she folds clothing with jodi.
+1044_Pride_And_Prejudice_Disk_Two_00.10.24.368-00.10.32.312 	lizzy folds up the letter and walks off.
+1048_Gran_Torino_01.05.39.412-01.05.42.653 	thao folds his arms.
+1049_Harry_Potter_and_the_chamber_of_secrets_00.34.31.434-00.34.35.915 	the envelope folds itself into a mouth.
+1049_Harry_Potter_and_the_chamber_of_secrets_00.58.35.999-00.58.40.431 	he folds the wrist back on its self.
+1049_Harry_Potter_and_the_chamber_of_secrets_02.25.54.233-02.25.55.769 	the little elf folds his arms in triumph.
+1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.47.55.183-00.47.57.219 	the snitch's wings fold.
+1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.22.27.089-01.22.31.647 	his arms folded, idly watching the snitch hovering above his head.
+1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.22.35.783-01.22.38.946 	the fluttering wings slow then fold away.
+1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.45.26.364-01.45.30.460 	she faces him, her arms folded, a set expression on her face.
 1052_Harry_Potter_and_the_order_of_phoenix_02.04.22.325-02.04.30.047 	harry folds the sweatshirt, puts it into the trunk and closes the lid.
 1053_Harry_Potter_and_the_philosophers_stone_00.49.51.799-00.49.57.257 	in the boys dormitory, uniforms neatly folded on the chairs beside their four-poster beds.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_02.07.17.409-02.07.23.396 	a cabin trunk packs itself, folds up its contents neatly and closes.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_02.08.11.625-02.08.17.850 	lupin points his wand and the parchment folds itself up and becomes blank.
 1057_Seven_pounds_01.13.56.561-01.13.58.606 	she folds her cardigan around her.
 1058_The_Damned_united_00.14.55.000-00.15.02.041 	now, he lays an orange on each of the neatly folded towels on the benches.
+1058_The_Damned_united_00.38.27.000-00.38.33.000 	brian stands at one end of the dressing room with his arms folded, casting an eye over the players sat on benches lining the walls.
+1058_The_Damned_united_01.09.27.000-01.09.30.651 	brian smiles wryly with his arms folded.
+1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.12.53.341-00.12.59.528 	arms folded, she regards him haughtily.
 2012_Unbreakable_00.33.56.222-00.34.00.094 	this piece of paper is folded over three times, unlike the others.
 2012_Unbreakable_01.24.18.665-01.24.19.260 	his crumpled tie lies folded over itself on his still chest.
-2027_Les_Miserables_01.28.28.971-01.28.30.412 	cosette hurries down the garden to the gate, and goes to put the folded letter in the grill where her and marius' hands entwined.
 2041_This_is_40_00.50.52.302-00.50.57.452 	debbie talks to jodi while they fold clothes and watch desi.

@@ -1,0 +1,7 @@
+FLIGHT.srt 	FLIGHT_DVS67 	00:13:23,00 --> 00:13:30,50 	she pulls out a key as she reaches the door, only to discover it is slightly open.
+GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS98 	00:15:16,00 --> 00:15:27,50 	following their gaze, someone discovers a fiery blast erupting on a far wall.
+NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS467 	01:35:35,00 --> 01:35:56,50 	now atop the hay bale, someone discovers the medal for resolve pinned to her overalls.
+SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1277 	01:26:17,00 --> 01:26:23,50 	near the back cover, she discovers a folded letter addressed to her.
+SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS243 	00:48:02,00 --> 00:48:13,50 	as we revolve around him, we discover someone glowering behind his shoulder.
+THE_CALL.srt 	THE_CALL_DVS948 	01:12:59,00 --> 01:13:07,50 	she carefully sidesteps as she lowers the flashlight and discovers a small black object in the dirt.
+UGLY_TRUTH.srt 	UGLY_TRUTH_DVS222 	00:20:14,00 --> 00:20:20,50 	someone discovers someone curled up on the floor in a closet.

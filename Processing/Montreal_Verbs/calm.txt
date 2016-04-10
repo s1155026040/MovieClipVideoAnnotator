@@ -1,0 +1,4 @@
+BAD_TEACHER.srt 	BAD_TEACHER_DVS85 	00:24:21,00 --> 00:24:27,50 	someone scrunches her face into a fierce look, then calms herself.
+LIFE_OF_PI.srt 	LIFE_OF_PI_DVS732 	01:16:11,00 --> 01:16:18,50 	a few fish continue passing by and they skip along the calming surface.
+SPARKLE_2012.srt 	SPARKLE_2012_DVS424 	01:10:41,00 --> 01:10:49,50 	someone finally calms down.
+THE_CALL.srt 	THE_CALL_DVS844 	01:04:11,00 --> 01:04:17,50 	someone presses it against her until she calms.

@@ -1,0 +1,3 @@
+SPARKLE_2012.srt 	SPARKLE_2012_DVS150 	00:25:59,00 --> 00:26:04,50 	she stubs out her cigarette and picks it up.
+THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS339 	01:06:17,00 --> 01:06:53,50 	someone wakes up in his bed and watches him deliberately stub out a lit cigarette near the bottom corner of the canvas.
+THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS713 	01:19:47,00 --> 01:19:53,50 	someone stubs out her cigarette and starts to walk away.

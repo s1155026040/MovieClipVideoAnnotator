@@ -1,0 +1,8 @@
+CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS147 	00:26:13,00 --> 00:26:18,50 	someone injects himself with a hypodermic needle.
+GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS477 	01:09:23,00 --> 01:09:29,50 	as a guard restrains the boy, someone injects someone through the neck.
+IRON_MAN_2.srt 	IRON_MAN_2_DVS350 	01:03:20,00 --> 01:03:26,50 	someone returns with a needle and injects a liquid into someone's neck.
+PROMETHEUS.srt 	PROMETHEUS_DVS737 	01:19:33,00 --> 01:19:38,50 	someone injects her in the back of the shoulder.
+SUPER_8.srt 	SUPER_8_DVS314 	00:56:36,00 --> 00:56:42,50 	the man steps forward and injects the contents of a syringe
+XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS462 	00:41:30,00 --> 00:41:36,50 	he picks up a syringe and injects the needle into her vein.
+XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS918 	01:24:36,00 --> 01:24:41,50 	he taps the syringe's barrel, then prepares to inject.
+XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS946 	01:27:51,00 --> 01:27:58,50 	bending down, he injects himself near the ankle and presses down on the plunger.

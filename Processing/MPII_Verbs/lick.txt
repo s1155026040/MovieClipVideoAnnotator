@@ -1,15 +1,16 @@
-0006_Clerks_00.01.51.573-00.01.55.448 	The dog licks water from the toilet.
-0016_O_Brother_Where_Art_Thou_00.14.03.394-00.14.10.378 	Flames lick up the outside of the van as - chinka-chinka- chinka - bullet holes walk across the body.
-0019_Pulp_Fiction_00.52.39.015-00.52.40.311 	Imitating what he did earlier, licks the paper and rolls it into a pretty good cigarette.
-0026_The_Big_Fish_00.24.42.273-00.24.44.400 	Relieved to see he's not licking his chops.
-0027_The_Big_Lebowski_00.29.35.633-00.29.38.725 	The Dude absently licks his lips as we faintly hear a hall rumbling down the lane.
-0049_Hannah_and_her_sisters_00.03.35.144-00.03.40.278 	Hannah, licking her fingers, walks past a memo-cluttered refrigerator to the stove as Holly, behind her, begins to speak.
-0049_Hannah_and_her_sisters_00.03.52.777-00.03.56.836 	Hannah, licking her fingers, walks past Holly.
-0049_Hannah_and_her_sisters_01.39.51.513-01.39.54.736 	Mavis passes the table, licking some food off her hand.
-0053_Rendezvous_mit_Joe_Black_00.45.26.997-00.45.33.351 	Susan is swimming laps, looking very professional in a black Speedo suit, Joe wanders in, still licking his peanut butter.
-0053_Rendezvous_mit_Joe_Black_00.48.21.976-00.48.26.074 	She watches, fascinat- ed, as Joe licks his gums, enjoying every last bit of his spoonful.
-1001_Flight_00.48.10.256-00.48.12.898 	He licks his lips and clenches his jaw.
-1002_Harry_Potter_and_the_Half-Blood_Prince_02.15.37.926-02.15.40.925 	Bellatrix licks her lips then saunters away.
+0006_Clerks_00.01.51.573-00.01.55.448 	the dog licks water from the toilet.
+0016_O_Brother_Where_Art_Thou_00.14.03.394-00.14.10.378 	flames lick up the outside of the van as - chinka-chinka- chinka - bullet holes walk across the body.
+0019_Pulp_Fiction_00.52.39.015-00.52.40.311 	imitating what he did earlier, licks the paper and rolls it into a pretty good cigarette.
+0026_The_Big_Fish_00.24.42.273-00.24.44.400 	relieved to see he's not licking his chops.
+0026_The_Big_Fish_00.58.06.844-00.58.10.087 	licking its chops, the dog approaches the helpless edward, who feels the ground around him, looking for some kind of weapon.
+0027_The_Big_Lebowski_00.29.35.633-00.29.38.725 	the dude absently licks his lips as we faintly hear a hall rumbling down the lane.
+0049_Hannah_and_her_sisters_00.03.35.144-00.03.40.278 	hannah, licking her fingers, walks past a memo-cluttered refrigerator to the stove as holly, behind her, begins to speak.
+0049_Hannah_and_her_sisters_00.03.52.777-00.03.56.836 	hannah, licking her fingers, walks past holly.
+0049_Hannah_and_her_sisters_01.39.51.513-01.39.54.736 	mavis passes the table, licking some food off her hand.
+0053_Rendezvous_mit_Joe_Black_00.45.26.997-00.45.33.351 	susan is swimming laps, looking very professional in a black speedo suit, joe wanders in, still licking his peanut butter.
+0053_Rendezvous_mit_Joe_Black_00.48.21.976-00.48.26.074 	she watches, fascinat- ed, as joe licks his gums, enjoying every last bit of his spoonful.
+1001_Flight_00.48.10.256-00.48.12.898 	he licks his lips and clenches his jaw.
+1002_Harry_Potter_and_the_Half-Blood_Prince_02.15.37.926-02.15.40.925 	bellatrix licks her lips then saunters away.
 1007_Spider-Man1_01.27.43.182-01.27.47.017 	norman licks his fingers and looks malevolently at the white haired aunt may.
 1010_TITANIC_01.26.32.021-01.26.33.405 	rose licks her lips.
 1017_Bad_Santa_00.11.33.699-00.11.41.455 	he licks his lips as he admires their well-toned backsides and sips from a bottle of beer.
@@ -23,15 +24,9 @@
 1040_The_Ugly_Truth_00.28.57.969-00.29.05.536 	mike licks the red jell-o off one of the girl's fingers and gives an approving nod.
 1041_This_is_40_01.52.51.027-01.52.54.694 	larry's triplets attack the cake and lick the frosting tuning pegs.
 1042_Up_In_The_Air_01.06.30.477-01.06.34.344 	she licks her lips.
-1045_An_education_00.51.22.098-00.51.27.926 	jenny licks cake mixture of the whisk.
 1049_Harry_Potter_and_the_chamber_of_secrets_01.31.44.949-01.31.58.844 	he turns into a wide corridor licked by flaming torches, and hurries along until he reaches the top of a narrow flight of stone steps.
 1051_Harry_Potter_and_the_goblet_of_fire_00.27.47.959-00.27.53.385 	moody nervously licks his lips and takes a swig from his hip flask.
 1051_Harry_Potter_and_the_goblet_of_fire_01.10.02.280-01.10.06.796 	she pops it in her mouth and licks her fingers seductively.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.02.34.631-00.02.36.848 	ripper licks her plate.
-1055_Marley_and_me_00.15.43.875-00.15.50.273 	john wakes up in a cloud of feathers with marley licking his face.
-1055_Marley_and_me_00.32.07.275-00.32.10.779 	paws on jenny's shoulders, he's licking her face.
-1055_Marley_and_me_01.51.33.000-01.51.39.735 	he looks towards the house and through a window, sees marley, dancing with jenny, licking her face.
-2017_Bad_Santa_01.25.14.787-01.25.16.152 	he licks his lips.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_00.02.34.631-00.02.36.848 	ripper licks her plate.
 1055_Marley_and_me_00.15.43.875-00.15.50.273 	john wakes up in a cloud of feathers with marley licking his face.
 1055_Marley_and_me_00.32.07.275-00.32.10.779 	paws on jenny's shoulders, he's licking her face.

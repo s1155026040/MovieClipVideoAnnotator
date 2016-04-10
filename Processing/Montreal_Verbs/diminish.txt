@@ -1,0 +1,5 @@
+CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS284 	00:21:42,00 --> 00:21:49,50 	he skirts the ends of the pursuing white water, staying up as the wave diminishes.
+GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS462 	01:07:15,00 --> 01:07:20,50 	someone's smile diminishes.
+IN_TIME.srt 	IN_TIME_DVS880 	01:33:17,00 --> 01:33:22,50 	she stares at him through their diminishing gap.
+LARRY_CROWNE.srt 	LARRY_CROWNE_DVS372 	01:29:12,00 --> 01:29:17,50 	he sits among the greatly diminished headcount.
+LIFE_OF_PI.srt 	LIFE_OF_PI_DVS378 	00:45:14,00 --> 00:45:21,50 	lightning flashes then diminishes leaving the boy alone in the darkness.

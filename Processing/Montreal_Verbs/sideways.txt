@@ -1,0 +1,4 @@
+CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS575 	01:39:29,00 --> 01:39:39,50 	the car skids sideways out of the hangar, slides backward, and stops at the edge of a cliff.
+HUGO.srt 	HUGO_DVS276 	00:40:28,00 --> 00:40:34,50 	someone glances sideways at someone and smiles.
+LIFE_OF_PI.srt 	LIFE_OF_PI_DVS564 	01:02:42,00 --> 01:02:47,50 	he drags the boat sideways over the waves.
+THOR.srt 	THOR_DVS134 	00:19:11,00 --> 00:19:16,50 	someone glances sideways at someone as they march.

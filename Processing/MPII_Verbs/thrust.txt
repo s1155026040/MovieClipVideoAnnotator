@@ -1,9 +1,44 @@
-0003_CASABLANCA_00.03.32.499-00.03.33.192 	They've been thrust by circumstances from a simple country life into an unfamiliar and hectic world.
-0004_Charade_01.11.01.452-01.11.01.617 	She offers him her cone, thrusting it forward with enough force to dislodge the ice-cream.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.58.32.149-01.58.34.142 	The Cave Troll lunges forward, thrusting at Frodo's chest with his spear.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.24.15.147-02.24.22.919 	LURTZ is quickly armored.Breastplate.Leg guards, Helmet.a sword is thrust in Lurtz's hand.
-0031_The_Lost_Weekend_00.56.02.844-00.56.06.125 	The waiter takes the check which is thrust between his vest and his stiff shirt and puts it face down in front of Don, then hurries on with the tray of drinks.
-1007_Spider-Man1_00.26.51.607-00.26.52.595 	He thrust his arm forward towards the jib.
+0001_American_Beauty_00.01.57.944-00.02.01.546 	lester thrusts his face directly into a steaming hot shower.
+0003_CASABLANCA_00.03.32.499-00.03.33.192 	they've been thrust by circumstances from a simple country life into an unfamiliar and hectic world.
+0004_Charade_01.11.01.452-01.11.01.617 	she offers him her cone, thrusting it forward with enough force to dislodge the ice-cream.
+0005_Chinatown_00.42.25.972-00.42.35.972 	the smaller man thrusts a switchblade knife about an inch and a half up gittes' left nostril.
+0009_Forrest_Gump_00.11.41.704-00.11.43.294 	the television reveals elvis as he thrusts his hips and sings.
+0013_Halloween_01.24.15.952-01.24.16.447 	holding the hanger with both hands she thrusts it forward with all her might.
+0019_Pulp_Fiction_01.00.21.009-01.00.25.063 	the needle leaves frame, thrusting down hard.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.16.18.219-00.16.21.484 	suddenly it is snatched out of his hands as frodo thrusts him into the middle of a passing throng of dancers as he is swept away.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.33.52.082-00.33.52.213 	frodo thrusts the ring at gandalf.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.58.32.149-01.58.34.142 	the cave troll lunges forward, thrusting at frodo's chest with his spear.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.24.15.147-02.24.22.919 	lurtz is quickly armored.breastplate.leg guards, helmet.a sword is thrust in lurtz's hand.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.25.46.419-00.25.50.748 	merry thrusts a small package into pippin's hand.
+0026_The_Big_Fish_00.06.26.653-00.06.31.602 	suddenly, this edward thrusts both hands into the water, grabbing hold of.
+0031_The_Lost_Weekend_00.12.09.811-00.12.14.857 	meanwhile, don thrusts the bottles in the bag.
+0031_The_Lost_Weekend_00.35.05.255-00.35.07.911 	he takes his coat rather brusquely, thrusts the leopard coat at her.
+0031_The_Lost_Weekend_00.56.02.844-00.56.06.125 	the waiter takes the check which is thrust between his vest and his stiff shirt and puts it face down in front of don, then hurries on with the tray of drinks.
+0031_The_Lost_Weekend_00.58.16.331-00.58.19.476 	he fishes out a ten-dollar bill, thrusts it in his pocket and is about to close the purse when he sees the carnations.
+0031_The_Lost_Weekend_00.58.22.151-00.58.27.390 	he takes one of the carnations, puts it into the purse, closes the purse and thrusts it back under his coat.
+0041_The_Sixth_Sense_00.55.42.170-00.55.45.402 	the woman smiles menacingly as she thrusts her wrists forward.
+0050_Indiana_Jones_and_the_last_crusade_00.07.24.877-00.07.26.001 	finally, he raises his head and thrusts his horn through the roof.
+1005_Signs_01.32.24.741-01.32.27.759 	she swings her arms and thrusts her hips.
+1005_Signs_01.37.37.309-01.37.39.601 	and then, thrusts it into morgan's leg.
+1006_Slumdog_Millionaire_00.14.04.301-00.14.06.396 	the man thrusts the photo into the light from the projector.
+1007_Spider-Man1_00.26.51.607-00.26.52.595 	he thrust his arm forward towards the jib.
+1007_Spider-Man1_00.55.00.792-00.55.02.901 	two robbers thrust up on a giant spider's web.
+1007_Spider-Man1_01.45.24.897-01.45.28.203 	he's thrust through a brick wall and lands on the ground.
+1008_Spider-Man2_01.33.30.343-01.33.40.009 	he flings both arms back, then thrusts them forward as he leaps off the roof.
+1008_Spider-Man2_01.43.23.938-01.43.37.524 	octavius uses one of the limbs to thrust spider-man into the train.
+1017_Bad_Santa_00.35.13.101-00.35.16.469 	wille thrusts his crotch into the blonde.
+1028_No_Reservations_01.36.16.758-01.36.24.413 	kate tears off her apron, thrusts it at a waiter, and strides out.
+1030_Public_Enemies_00.35.05.927-00.35.11.114 	glimpses of dillinger thrusting into billie from behind, interspersed with their nuzzling face to face.
+1033_Sherlock_Holmes_A_Game_of_Shadows_00.04.34.589-00.04.43.255 	in his mind, holmes sees a thug with a pocket watch take out a knuckleduster, a knife being thrust at holmes, another attacker with a knuckleduster, and a third with a club.
+1040_The_Ugly_Truth_00.58.05.829-00.58.13.780 	as colin pays, joy mimes giving him a good seeing to, clenching her fists and thrusting her groin.
+1041_This_is_40_00.31.07.999-00.31.13.365 	his doctor bends close from behind, thrusts his finger out of view and works it around.
+1047_Defiance_02.04.28.490-02.04.29.875 	he thrust his gun to shulman.
+1049_Harry_Potter_and_the_chamber_of_secrets_02.13.58.918-02.14.00.812 	and harry thrusts the sword up to the loop of escaping mouse.
+1051_Harry_Potter_and_the_goblet_of_fire_00.34.24.086-00.34.28.333 	dumbledore thrusts it into harry's hand.
+1054_Harry_Potter_and_the_prisoner_of_azkaban_00.01.46.736-00.01.50.168 	aunt marge thrusts a wet umbrella at harry.
 1055_Marley_and_me_01.38.27.000-01.38.35.690 	marley trots along beside john, who has his hands thrust in his pockets.
-1062_Day_the_Earth_stood_still_00.36.56.000-00.36.58.000 	jaw thrust forward, regina eyeballs klaatu.
+1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.00.19.267-00.00.27.641 	he gazes at the black elder wand in his hand and thrusts up his arm.
+2004_Juno_00.28.22.831-00.28.26.939 	she takes off her hooded sweatshirt and thrusts it into vanessa's arms who sets it on a bench.
+2026_Legion_00.33.53.994-00.33.56.074 	michael whips the gun away from bob's head and thrusts it back into his hands.
+2026_Legion_00.41.39.107-00.41.43.151 	sandra slaps at him frantically as he carries her away from the window and thrusts her down into a back booth.
 2034_Super_8_01.16.37.924-01.16.44.898 	the boys are scared as they watch the creature hold woodward tight -- lift him -- and its tentacles suddenly thrust into his nose, ears and mouth -- joe stands and looks intently at the screen.

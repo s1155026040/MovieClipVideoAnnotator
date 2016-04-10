@@ -1,8 +1,14 @@
-0001_American_Beauty_00.45.55.342-00.45.57.707 	He sees this, and likes it; it feels good to win for a change.
-0026_The_Big_Fish_00.20.39.937-00.20.41.457 	Naturally, he makes it, winning the game.
+0001_American_Beauty_00.30.39.685-00.30.40.051 	she smiles her most winning smile at him.
+0001_American_Beauty_00.45.55.342-00.45.57.707 	he sees this, and likes it; it feels good to win for a change.
+0011_Gandhi_02.26.51.780-02.26.55.061 	bourke-white bursts into an appreciative radiance -- already she has assessed him, and been won.
+0026_The_Big_Fish_00.20.39.937-00.20.41.457 	naturally, he makes it, winning the game.
+0030_The_Hustler_00.25.07.324-00.25.09.381 	eddie squirms out of his seat, eager to play, eager to go on winning.
+0032_The_Princess_Bride_00.46.45.497-00.46.51.219 	it's a fierce battle, and just when we think westley can't possibly win, he flips the ugly rodent clear.
 1011_The_Help_00.27.44.522-00.27.46.312 	skeeter replaces the receiver, grinning as if she'd just won the jackpot.
+1033_Sherlock_Holmes_A_Game_of_Shadows_00.28.59.288-00.29.01.085 	at least he's winning.
+1035_The_Adjustment_Bureau_00.55.28.111-00.55.29.807 	she wins.
 1038_The_Great_Gatsby_01.42.17.232-01.42.17.797 	tom grins as if he's won some kind of game.
+1053_Harry_Potter_and_the_philosophers_stone_02.05.44.545-02.05.51.555 	harry moves into the winning position.
 1055_Marley_and_me_00.45.53.503-00.45.54.820 	he wins the game.
 2004_Juno_01.25.58.079-01.25.59.230 	paulie breaks the tape, winning the race.
-1055_Marley_and_me_00.45.53.503-00.45.54.820 	he wins the game.
-2004_Juno_01.25.58.079-01.25.59.230 	paulie breaks the tape, winning the race.
+2027_Les_Miserables_01.57.15.462-01.57.19.971 	crane up and up - seeing the little world of the barricaded street now surrounded by waiting soldiers - and the streets round them packed with soldiers in their thousands, so many that we know the little band can never win.

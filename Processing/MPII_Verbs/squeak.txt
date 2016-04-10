@@ -1,6 +1,2 @@
-0004_Charade_01.22.14.277-01.22.19.475 	The NIGHT PORTER, rudely awakened, runs to the elevator shaft, his shoes squeaking horribly.
-0005_Chinatown_00.26.01.550-00.26.01.880 	The squeaking has obviously come from the chamois.
-0007_DIE_NACHT_DES_JAEGERS_00.53.39.650-00.53.45.391 	We stay on the house at leisure; we hear him lunging, shoulder to door; we begin to hear squeaking of hinges and splintering of wood.
-0027_The_Big_Lebowski_01.26.06.873-01.26.07.948 	The Dude, in the back seat of a taxicab that rocks and squeaks with every bump, is gingerly touching at sore spots on his face and scalp.
-0027_The_Big_Lebowski_01.43.24.083-01.43.25.578 	He rushes Franz but draws up short as Franz sends out karate kicks, his leather pants squeaking and popping.
-0038_Psycho_01.17.02.569-01.17.07.118 	After a careful wait, he crosses to the stairs, starts up, slowly, guardedly, placing a foot squarely on each step to test it for squeaks or groans before placing his full weight on it.
+0004_Charade_01.22.14.277-01.22.19.475 	the night porter, rudely awakened, runs to the elevator shaft, his shoes squeaking horribly.
+0027_The_Big_Lebowski_01.43.24.083-01.43.25.578 	he rushes franz but draws up short as franz sends out karate kicks, his leather pants squeaking and popping.

@@ -1,20 +1,43 @@
-0004_Charade_01.22.12.281-01.22.14.132 	There is a silence as the motor stops, and then a series of sneezes that ends with a terrifying shriek.
-0007_DIE_NACHT_DES_JAEGERS_00.12.30.502-00.12.32.522 	As the verse ends we CUT TO: They look towards OUR CHILDREN; JOHN pays them no attention.
-0008_Fargo_00.19.22.337-00.19.22.853 	The groaning of the door ends with the wood around its knob splintering and the knob itself falling out onto the floor.
-0011_Gandhi_00.26.14.073-00.26.15.186 	Gandhi looks around the audience and we see the packed house from his point of view, ending with two plainclothes European policemen conspicuous in seats at the end of the front row.
-0021_Rear_Window_00.51.57.030-00.51.58.030 	His eyes sort of stray around the neighborhood, and end up looking toward.
-0022_Reservoir_Dogs_00.16.41.889-00.16.50.425 	The two men end up on the floor KICKING and SCRATCHING.
-0026_The_Big_Fish_00.14.39.998-00.14.42.408 	Most of the pictures are of Will, starting when he was an infant and ending at his wedding.
-0026_The_Big_Fish_01.29.32.059-01.29.33.802 	He goes through the folders page by page, but usually ends up tossing the whole thing in the trash.
-0027_The_Big_Lebowski_00.07.40.777-00.07.42.990 	The music turns into boomy source music, coming from a distant jukebox, as the credits end over a clattering strike.
-0027_The_Big_Lebowski_01.35.09.966-01.35.12.016 	Notable is her camera-side leg, which ends in a bandage- swaddled foot.
-0030_The_Hustler_01.53.30.589-01.53.35.779 	A game has just ended as Sarah quietly descends the stairs.
-0031_The_Lost_Weekend_00.37.39.460-00.37.41.545 	There is a split second of indecision but it is ended by Don's awareness of the bottle in his raincoat.
-0033_Amadeus_00.22.36.498-00.22.41.678 	Suddenly irritated, Colloredo signs to Arco, who steps forward and shuts the door, ending the applause.
-0049_Hannah_and_her_sisters_00.47.41.291-00.47.47.983 	The piano piece ends and the film is quiet.
-1001_Flight_01.29.38.048-01.29.44.977 	She ends a call and continues packing her things in the bedroom.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.19.08.150-01.19.16.173 	She ploughs through the undergrowth, ending up ankle-deep in water.
-1007_Spider-Man1_00.24.47.143-00.24.49.873 	Then he slides on his back down the corridor, collides with a teacher carrying the tray and ends up with more food on him.
+0004_Charade_01.22.12.281-01.22.14.132 	there is a silence as the motor stops, and then a series of sneezes that ends with a terrifying shriek.
+0007_DIE_NACHT_DES_JAEGERS_01.21.33.147-01.21.33.768 	the song ends.
+0008_Fargo_00.19.22.337-00.19.22.853 	the groaning of the door ends with the wood around its knob splintering and the knob itself falling out onto the floor.
+0011_Gandhi_00.26.14.073-00.26.15.186 	gandhi looks around the audience and we see the packed house from his point of view, ending with two plainclothes european policemen conspicuous in seats at the end of the front row.
+0020_Raising_Arizona_00.27.33.845-00.27.36.529 	the faint national anthem ends: we hear the weeeeeeee of a test pattern.
+0021_Rear_Window_00.51.57.030-00.51.58.030 	his eyes sort of stray around the neighborhood, and end up looking toward.
+0022_Reservoir_Dogs_00.16.41.889-00.16.50.425 	the two men end up on the floor kicking and scratching.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.42.27.722-00.42.34.920 	the terrible cry ends, falling back through a long sickening wail, to silence.
+0026_The_Big_Fish_00.14.39.998-00.14.42.408 	most of the pictures are of will, starting when he was an infant and ending at his wedding.
+0026_The_Big_Fish_01.29.32.059-01.29.33.802 	he goes through the folders page by page, but usually ends up tossing the whole thing in the trash.
+0026_The_Big_Fish_01.54.26.563-01.54.27.704 	as the kiss ends, edward tries to pull off his wedding ring.
+0027_The_Big_Lebowski_00.07.40.777-00.07.42.990 	the music turns into boomy source music, coming from a distant jukebox, as the credits end over a clattering strike.
+0027_The_Big_Lebowski_00.41.09.663-00.41.11.318 	the dude waits for the rings to end.
+0027_The_Big_Lebowski_01.35.09.966-01.35.12.016 	notable is her camera-side leg, which ends in a bandage- swaddled foot.
+0030_The_Hustler_01.53.30.589-01.53.35.779 	a game has just ended as sarah quietly descends the stairs.
+0031_The_Lost_Weekend_00.37.39.460-00.37.41.545 	there is a split second of indecision but it is ended by don's awareness of the bottle in his raincoat.
+0033_Amadeus_00.22.36.498-00.22.41.678 	suddenly irritated, colloredo signs to arco, who steps forward and shuts the door, ending the applause.
+0049_Hannah_and_her_sisters_00.26.25.691-00.26.31.626 	pictures hang on the aisle ends of the shelves.
+0049_Hannah_and_her_sisters_00.35.45.135-00.35.46.239 	the flashback ends.
+0053_Rendezvous_mit_Joe_Black_02.42.19.111-02.42.21.243 	joe's attention returns to parrish and susan, the dance number ends, a boom.
+1001_Flight_01.29.38.048-01.29.44.977 	she ends a call and continues packing her things in the bedroom.
+1001_Flight_01.55.33.985-01.55.37.894 	the cell phone footage ends.
+1002_Harry_Potter_and_the_Half-Blood_Prince_01.19.08.150-01.19.16.173 	she ploughs through the undergrowth, ending up ankle-deep in water.
+1002_Harry_Potter_and_the_Half-Blood_Prince_01.54.51.188-01.54.54.299 	the memory ends.
+1007_Spider-Man1_00.24.47.143-00.24.49.873 	then he slides on his back down the corridor, collides with a teacher carrying the tray and ends up with more food on him.
+1007_Spider-Man1_01.20.21.918-01.20.24.976 	two end up crashing into windows behind mj.
+1009_Spider-Man3_01.38.58.405-01.39.02.412 	as the number ends, he bends her over in his arms.
+1015_27_Dresses_00.55.03.316-00.55.13.085 	at that wedding, jane is on a horse that ends up facing the wrong way for the photo.
+1028_No_Reservations_00.41.53.966-00.41.54.466 	a plate of cigarette ends sits on the table.
+1030_Public_Enemies_01.58.50.874-01.58.53.541 	elsewhere, another agent ends the call.
+1031_Quantum_of_Solace_00.14.11.727-00.14.13.852 	the two men end up facing each other, dangling on ropes at either end of the steel gantry.
+1035_The_Adjustment_Bureau_01.35.40.744-01.35.47.039 	ending their kiss, david and elise look around and find both intervention teams gone.
+1037_The_Curious_Case_Of_Benjamin_Button_00.26.30.121-00.26.31.482 	as the song ends, a man claps two cymbals together.
+1037_The_Curious_Case_Of_Benjamin_Button_01.55.26.905-01.55.28.124 	the nurse ends her call.
+1041_This_is_40_00.58.31.297-00.58.32.655 	pete ends the call.
+1057_Seven_pounds_01.55.22.438-01.55.26.382 	when the songs ended, ezra points the audience's standing applause towards the choir.
 1060_Yes_man_00.04.39.791-00.04.42.030 	he ends up on the floor with a tray of drinks.
 2027_Les_Miserables_01.27.50.204-01.27.58.935 	thenardier and his gang shrink into the shadows, as eponine's scream ends at last.
+2041_This_is_40_00.48.03.819-00.48.12.858 	they pull up to their house, shut off the car and sit for a beat, knowing they're about to head back into the stress of the real world, not wanting their peaceful, loving time to end.
+2054_Harry_Potter_and_the_prisoner_of_azkaban_01.06.16.235-01.06.18.036 	harry's pov ends.
+2054_Harry_Potter_and_the_prisoner_of_azkaban_01.06.15.598-01.06.18.769 	at the end of a rocky outcrop, the footprints end and sobs are heard.
+2054_Harry_Potter_and_the_prisoner_of_azkaban_01.30.11.030-01.30.14.699 	then, abruptly, the tunnel ends.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_01.48.06.228-01.48.10.168 	at this point, the time reversal ends and the room is empty.

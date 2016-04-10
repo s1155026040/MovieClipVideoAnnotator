@@ -1,0 +1,4 @@
+DISTRICT_9.srt 	DISTRICT_9_DVS472 	00:54:45,00 --> 00:54:50,50 	you, what do you want?
+GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS200 	00:32:20,00 --> 00:32:28,50 	i don't want these idiots robbing me.
+THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS60 	00:15:14,00 --> 00:15:20,50 	the girl who wants the ring
+THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS231 	00:57:48,00 --> 00:57:59,50 	he doesn't want to grow up.

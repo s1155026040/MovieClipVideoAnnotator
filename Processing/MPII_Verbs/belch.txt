@@ -1,12 +1,3 @@
-0016_O_Brother_Where_Art_Thou_00.54.40.601-00.54.45.154 	The car belches and pops and toodles off down the road.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.57.41.924-01.57.43.505 	thick BLACK SMOKE belches from within it.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.47.34.536-02.47.35.054 	The VOLCANO is ERUPTING, FIRE belches from it's riven summit, sending LAVA streaming down it's sides.
-1010_TITANIC_00.26.37.580-00.26.41.392 	black smoke belches from one of the titanic's four stacks.
-1033_Sherlock_Holmes_A_Game_of_Shadows_00.50.30.235-00.50.34.901 	black smoke belches from the funnels of a paddle-steamer as it leaves the white cliffs of dover behind.
+1017_Bad_Santa_00.52.27.326-00.52.33.321 	he belches, falls backwards, and lies unconscious on the hall carpet.
 1051_Harry_Potter_and_the_goblet_of_fire_00.59.24.026-00.59.28.820 	the dragon belches out another burst of flame.
-1056_Rambo_01.15.32.435-01.15.34.405 	a jet of flame belches towards the shore, engulfing rebels.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.17.13.521-00.17.15.600 	the dragon belches flame as they enter the vault and close the door.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.20.27.345-00.20.28.804 	the beast belches flame.
-1056_Rambo_01.15.32.435-01.15.34.405 	a jet of flame belches towards the shore, engulfing rebels.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.17.13.521-00.17.15.600 	the dragon belches flame as they enter the vault and close the door.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.20.27.345-00.20.28.804 	the beast belches flame.

@@ -1,0 +1,3 @@
+IRON_MAN_2.srt 	IRON_MAN_2_DVS438 	01:21:11,00 --> 01:21:24,50 	later, the disassembled model, stacked in four panels, rises out of the passenger seat of someone's convertible, as he drives down a highway.
+PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS66 	00:11:29,00 --> 00:11:37,50 	later in a garage, someone sits across from a gunsmith as he disassembles a someone gun.
+XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS620 	00:57:51,00 --> 00:57:59,50 	as two soldiers aim their weapons, he commands the guns to disassemble, then hurls them into the ground.

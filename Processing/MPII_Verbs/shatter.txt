@@ -1,10 +1,30 @@
-0020_Raising_Arizona_00.38.51.820-00.38.53.809 	The sound of shattering glass.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.47.39.907-01.47.43.574 	With a shattering echo, the creature rips the doors away, creating a rock slide that crashes down the Cliff Face.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.29.47.002-00.29.48.222 	The BLADE shattering in several fragments as ISLIDUR brandishes NARSIL at SAURON.
-0032_The_Princess_Bride_00.25.51.216-00.25.55.861 	Satisfied by the silence, he starts forward again and as he rounds the bend--a rock flies INTO FRAME, shattering on a boulder inches in front of him.
-0051_Men_in_black_01.03.35.139-01.03.36.882 	And then Jay FIRES, shattering the storefront window, and BLOWING UP A CAR on the street.
-1009_Spider-Man3_00.23.57.470-00.24.14.920 	tiny granules of high velocity sand fly into his pores and shatter into fragments, fusing with his own molecules, giving his internal structure a sand-like appearance.
+0001_American_Beauty_01.06.49.858-01.06.52.633 	lester hurls the plate of asparagus against the wall with such force it shatters, frightening carolyn and jane.
+0005_Chinatown_01.29.18.512-01.29.19.968 	he shatters the red lens, gets up.
+0011_Gandhi_00.05.57.312-00.05.57.463 	the stout, blunt, but now shattered patel, gandhi's son, devadas, the strong, almost fierce face of maulana azad, now angry at the gods themselves.
+0013_Halloween_01.27.40.407-01.27.44.437 	loomis looks down at her, then up at the shattered window at the end of the hall.
+0020_Raising_Arizona_00.38.51.820-00.38.53.809 	the sound of shattering glass.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.29.47.002-00.29.48.222 	the blade shattering in several fragments as islidur brandishes narsil at sauron.
+0027_The_Big_Lebowski_01.12.21.804-01.12.23.649 	he swings the crowbar into the windshield, which shatters.
+0032_The_Princess_Bride_00.25.51.216-00.25.55.861 	satisfied by the silence, he starts forward again and as he rounds the bend--a rock flies into frame, shattering on a boulder inches in front of him.
+0049_Hannah_and_her_sisters_01.36.44.344-01.36.48.104 	mickey, holding the rifle, is seen running over to the shattered mirror.
+0050_Indiana_Jones_and_the_last_crusade_00.48.43.415-00.48.45.358 	henry throws the vase against the wall where it shatters.
+0050_Indiana_Jones_and_the_last_crusade_00.52.02.641-00.52.04.892 	he drops the machine gun to the table and it slides across, shattering glass.
+0051_Men_in_black_01.03.35.139-01.03.36.882 	and then jay fires, shattering the storefront window, and blowing up a car on the street.
+1009_Spider-Man3_00.18.41.210-00.18.44.861 	as peter floats out of the other shattered window, he sees aunt may's ring spinning through the air in front of him.
+1012_Unbreakable_01.14.37.511-01.14.40.178 	the little remaining glass is cracked and shattered.
 1014_2012_00.50.40.033-00.50.48.128 	gordon pilots the plane straight through the gap as the building shattering all around them.
 1017_Bad_Santa_01.31.05.442-01.31.12.942 	the cop shattered the bmw's back window.willie drives on, and the cops speed after him.
+1024_Identity_Thief_01.13.26.973-01.13.30.609 	as he backs away, a bullet rips through his neck and shatters the glass.
+1026_Legion_00.41.10.433-00.41.14.776 	he's being dragged by the legs by the intruder, who hauls him towards the shattered window.
+1030_Public_Enemies_01.26.42.889-01.26.47.556 	upstairs red and johnny duck aside of their shattered windows and re-open fire.
 1033_Sherlock_Holmes_A_Game_of_Shadows_01.30.57.321-01.31.02.988 	the shell explodes ahead of him, shattering the trees, filling the air with needle-sharp splinters.
 1037_The_Curious_Case_Of_Benjamin_Button_01.21.01.635-01.21.04.196 	mike flinches as the german rounds shatter the windows.
+1052_Harry_Potter_and_the_order_of_phoenix_01.55.30.402-01.55.32.260 	it shatters.
+2026_Legion_00.50.19.337-00.50.24.039 	up at the front of the diner, jeep silently helps michael nail broken table planks across the shattered window.
+2034_Super_8_00.20.55.980-00.21.08.414 	joe looks -- they all move to preston (except cary, who heads off): crates have spilled from a nearby split car; many shattered, revealing thousands of small white-metal cubes which now litter the ground.
+2034_Super_8_00.21.55.216-00.21.56.710 	boom up from behind the shattered pick-up as the kids approach from the wreckage.
+2034_Super_8_00.40.34.494-00.40.38.379 	we pass small shattered pieces of red and blue plastic and stop and rack to the gun sheriff pruitt dropped.
+2034_Super_8_01.21.37.976-01.21.42.391 	windows shatter -- charles and cary -- seatbelts removed -- land on joe and martin!
+2034_Super_8_01.28.21.280-01.28.25.315 	joe and cary run through the semi-demolished neighborhood, many houses shattered, some cars obliterated.
+2054_Harry_Potter_and_the_prisoner_of_azkaban_00.24.02.355-00.24.12.059 	a carriage wheel shatters the glassy surface as we tilt up, catch a procession of horseless carriages, carrying students toward the glimmering castle.
+2054_Harry_Potter_and_the_prisoner_of_azkaban_01.30.38.932-01.30.40.144 	shattered furniture lies strewn everywhere.

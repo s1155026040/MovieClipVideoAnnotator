@@ -1,0 +1,4 @@
+LIFE_OF_PI.srt 	LIFE_OF_PI_DVS708 	01:13:57,00 --> 01:14:03,50 	someone tries to pry a grappling tool from the canvas cover.
+LIFE_OF_PI.srt 	LIFE_OF_PI_DVS710 	01:14:04,00 --> 01:14:13,50 	as he tugs at the grappling tool, someone emerges from his covered quarters.
+LIFE_OF_PI.srt 	LIFE_OF_PI_DVS728 	01:15:45,00 --> 01:16:00,50 	trembling, someone grabs his grappling tool and sticks it in the large fish.
+LIFE_OF_PI.srt 	LIFE_OF_PI_DVS957 	01:34:48,00 --> 01:34:55,50 	he picks himself up onto his knees and pulls from the boat the grappling tool attached to a rope.

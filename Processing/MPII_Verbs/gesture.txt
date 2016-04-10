@@ -1,14 +1,50 @@
-0002_As_Good_As_It_Gets_00.42.59.388-00.43.01.894 	The MANAGER comes over, gesturing to the table of police that he can handle it.
-0005_Chinatown_00.26.04.283-00.26.07.564 	The Chinese Butler is gesturing for him to follow.
-0011_Gandhi_00.13.33.556-00.13.34.839 	Gandhi harrumphs -- gesturing to a shallow box Singh holds.
-0011_Gandhi_00.55.55.038-00.55.59.615 	Jinnah bows, taking his notes, gesturing to the auditorium.
-0020_Raising_Arizona_00.10.06.605-00.10.09.942 	NATHAN ARIZONA, a stocky middle-aged man in a white polyester suit, is gesturing expansively with his white cowboy hat toward a one-story warehouse store with a football stadium parking lot, chroma-keyed in behind him.
-0020_Raising_Arizona_01.23.09.266-01.23.10.713 	He advances cautiously into the nursery, gesturing with his gun.
-0021_Rear_Window_00.08.16.888-00.08.19.602 	She begins gesturing to him how to take care of his flowers.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.38.21.301-01.38.24.208 	Gandalf looks at Aragorn, turns to the others gesturing towards a high mountain pass.
-0050_Indiana_Jones_and_the_last_crusade_00.09.14.655-00.09.16.921 	Fedora puts out his arm, gesturing for the others not to follow Indy.
-0051_Men_in_black_01.04.39.569-01.04.47.042 	After gesturing to the back of the Orkin van, where Edgar's spaceship is neatly stowed, Kay pulls out his cell phone.
-1001_Flight_00.26.33.168-00.26.38.304 	He sees a seated man on the TV gesturing as rescue workers push a stretcher behind him.
+0001_American_Beauty_01.17.30.708-01.17.31.672 	he stands and gestures toward all the things in the room.
+0002_As_Good_As_It_Gets_00.23.46.617-00.23.50.319 	 he gestures vincent to take it down.
+0002_As_Good_As_It_Gets_00.42.59.388-00.43.01.894 	the manager comes over, gesturing to the table of police that he can handle it.
+0005_Chinatown_00.26.04.283-00.26.07.564 	the chinese butler is gesturing for him to follow.
+0005_Chinatown_01.18.33.195-01.18.35.588 	she gestures as if there's someone behind palmer.
+0007_DIE_NACHT_DES_JAEGERS_01.10.25.178-01.10.25.954 	ruby gestures rachel's nearness.
+0011_Gandhi_00.07.23.186-00.07.24.524 	he gestures to the back of the train.
+0011_Gandhi_00.13.33.556-00.13.34.839 	gandhi harrumphs -- gesturing to a shallow box singh holds.
+0011_Gandhi_00.14.04.414-00.14.11.453 	he gestures to a constable, who turns from the crowd and marches to khan, seizing him by the arm and marching him to the paddy wagon.
+0011_Gandhi_00.17.44.312-00.17.45.083 	he gestures charlie on and starts walking.
+0011_Gandhi_00.21.34.942-00.21.36.849 	they've reached the entrance to the tent, and he gestures in.
+0011_Gandhi_00.37.59.961-00.38.02.210 	then he pushes them open and gestures gandhi in.
+0011_Gandhi_00.55.55.038-00.55.59.615 	jinnah bows, taking his notes, gesturing to the auditorium.
+0011_Gandhi_00.56.41.838-00.56.43.438 	as gandhi reaches the podium, patel gestures him to it.
+0011_Gandhi_01.06.23.768-01.06.25.266 	near to breakdown, he gestures around the empty house.
+0014_Ist_das_Leben_nicht_schoen_01.22.52.647-01.22.54.594 	uncle billy gestures nervously for george to come in.
+0020_Raising_Arizona_00.10.06.605-00.10.09.942 	nathan arizona, a stocky middle-aged man in a white polyester suit, is gesturing expansively with his white cowboy hat toward a one-story warehouse store with a football stadium parking lot, chroma-keyed in behind him.
+0020_Raising_Arizona_01.23.09.266-01.23.10.713 	he advances cautiously into the nursery, gesturing with his gun.
+0021_Rear_Window_00.08.16.888-00.08.19.602 	she begins gesturing to him how to take care of his flowers.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.38.21.301-01.38.24.208 	gandalf looks at aragorn, turns to the others gesturing towards a high mountain pass.
+0033_Amadeus_00.02.18.881-00.02.20.033 	he gestures at them.
+0038_Psycho_00.28.20.355-00.28.25.080 	he gestures her into the office, standing back to indicate that he will go after her.
+0049_Hannah_and_her_sisters_00.11.58.620-00.12.00.389 	gail pats mickey's back; she gestures in exasperation.
+0049_Hannah_and_her_sisters_00.12.41.247-00.12.44.607 	the woman looks back at ron; she gestures with disgust.
+0050_Indiana_Jones_and_the_last_crusade_00.09.14.655-00.09.16.921 	fedora puts out his arm, gesturing for the others not to follow indy.
+0051_Men_in_black_01.04.39.569-01.04.47.042 	after gesturing to the back of the orkin van, where edgar's spaceship is neatly stowed, kay pulls out his cell phone.
+1003_How_to_Lose_Friends_and_Alienate_People_00.49.13.714-00.49.15.895 	he gestures with a raised hand.
+1006_Slumdog_Millionaire_01.36.46.758-01.36.50.593 	he gestures for the girls to dance.
+1009_Spider-Man3_00.45.18.073-00.45.28.533 	he gestures to his partner, who holsters his gun and climbs a ladder on the back of the lorry.
+1009_Spider-Man3_01.36.51.224-01.36.54.363 	peter gallantly gestures for her to sit down.
+1026_Legion_01.07.01.410-01.07.05.429 	a man gets out of the van and gestures to the occupants.
+1028_No_Reservations_00.46.39.100-00.46.42.049 	kate looks quizzically at leah, who smiles and gestures towards nick.
+1030_Public_Enemies_01.10.08.876-01.10.11.109 	a blonde man gestures for dillinger to raise his arms.
+1030_Public_Enemies_01.20.58.900-01.21.04.567 	purvis courteously gestures for the doctor to step away.
+1031_Quantum_of_Solace_00.21.43.220-00.21.45.451 	she pouts sexily, and gestures to the case.
+1033_Sherlock_Holmes_A_Game_of_Shadows_01.06.26.095-01.06.30.084 	he gestures to sim who tosses him a knife.
+1033_Sherlock_Holmes_A_Game_of_Shadows_01.41.14.927-01.41.17.383 	he gestures to watson.
+1038_The_Great_Gatsby_00.08.45.803-00.08.46.791 	the butler, henri, gestures towards the doors.
+1039_The_Queen_00.08.36.117-00.08.39.125 	the queen gestures for tony to stand and picks up a small bell.
+1040_The_Ugly_Truth_01.16.12.278-01.16.16.659 	he turns again and gestures emphatically.
 1044_Pride_And_Prejudice_Disk_Two_02.10.32.950-02.10.44.225 	an uneasy silence descends, during which mrs. bennet winks at kitty and lizzie, gesturing to jane and mr. bingley.
+1051_Harry_Potter_and_the_goblet_of_fire_01.19.15.699-01.19.18.280 	he gestures towards the dance floor.
+1056_Rambo_00.47.57.000-00.48.02.000 	the troops angrily gesture to the frightened men to cross the field again.
+1056_Rambo_00.57.06.084-00.57.09.205 	he gestures to the hut and crawls underneath it.
 1056_Rambo_01.15.02.561-01.15.03.577 	the commander runs towards a group of his soldiers, gesturing behind him.
-1056_Rambo_01.15.02.561-01.15.03.577 	the commander runs towards a group of his soldiers, gesturing behind him.
+1057_Seven_pounds_01.55.32.508-01.55.37.217 	ezra rises and bows, then gestures to the choir again.
+2004_Juno_00.39.34.574-00.39.36.244 	bren gestures to the ultrasound monitor.
+2004_Juno_00.42.41.855-00.42.43.666 	he gestures awkwardly to juno's belly.
+2004_Juno_01.06.27.538-01.06.28.898 	he gestures for juno to follow him into the house.
+2054_Harry_Potter_and_the_prisoner_of_azkaban_01.33.35.072-01.33.36.764 	he gestures to the door.

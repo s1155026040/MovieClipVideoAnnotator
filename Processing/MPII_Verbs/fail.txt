@@ -1,17 +1,21 @@
-0008_Fargo_00.32.01.903-00.32.04.399 	His headlights show the car up ahead off the road, crumpled around a telephone pole, having failed to hold a turn.
-1003_How_to_Lose_Friends_and_Alienate_People_01.08.44.733-01.08.48.848 	Alison is bent over, drunkenly failing to unlock her car door.
-1005_Signs_01.09.29.193-01.09.34.944 	Graham sits indoors in dim lights, staring and failing me ahead.
-1005_Signs_01.38.14.580-01.38.18.236 	The alien's chest sinks and fails to rise.
-1006_Slumdog_Millionaire_00.06.14.343-00.06.18.000 	Jamal, seen as a young boy here, trips and fails to catch the ball.
-1006_Slumdog_Millionaire_00.46.58.000-00.47.08.165 	The audience are mesmerized by the performance and fail to notice the boys stealing handbags and purses from between people's legs.
-1007_Spider-Man1_00.24.40.232-00.24.41.878 	He fails to connect.
+0008_Fargo_00.32.01.903-00.32.04.399 	his headlights show the car up ahead off the road, crumpled around a telephone pole, having failed to hold a turn.
+0032_The_Princess_Bride_00.23.12.996-00.23.13.700 	but he fails.
+0032_The_Princess_Bride_00.23.15.228-00.23.15.465 	everything fails.
+0032_The_Princess_Bride_01.08.21.884-01.08.23.085 	he has failed.
+1003_How_to_Lose_Friends_and_Alienate_People_01.08.44.733-01.08.48.848 	alison is bent over, drunkenly failing to unlock her car door.
+1005_Signs_01.09.29.193-01.09.34.944 	graham sits indoors in dim lights, staring and failing me ahead.
+1005_Signs_01.38.14.580-01.38.18.236 	the alien's chest sinks and fails to rise.
+1006_Slumdog_Millionaire_00.06.14.343-00.06.18.000 	jamal, seen as a young boy here, trips and fails to catch the ball.
+1006_Slumdog_Millionaire_00.46.58.000-00.47.08.165 	the audience are mesmerized by the performance and fail to notice the boys stealing handbags and purses from between people's legs.
+1007_Spider-Man1_00.24.40.232-00.24.41.878 	he fails to connect.
 1007_Spider-Man1_00.47.35.970-00.47.41.460 	trying to run from it, he fails to see spider-man lowering himself for a better look.
-1009_Spider-Man3_00.43.06.452-00.43.08.702 	she looks up at spider-man swinging by with barely fail resentment.
 1010_TITANIC_02.40.59.903-02.41.02.512 	inside the ship a ceiling collapses as several support columns failed
 1017_Bad_Santa_01.25.35.992-01.25.39.199 	having failed with the combination, willie has fallen back on drilling to crack the safe.
 1030_Public_Enemies_01.28.24.679-01.28.25.346 	but they fail to notice him.
 1030_Public_Enemies_01.42.56.370-01.43.05.653 	they fail to notice dillinger, who strides around a parked car and returns to his vehicle.
-1037_The_Curious_Case_Of_Benjamin_Button_00.30.29.912-00.30.32.888 	alone, benjamin fails to reach a tram in time.
+1035_The_Adjustment_Bureau_00.45.25.530-00.45.28.441 	it reads disconnected, call failed, searching for signal.
+1042_Up_In_The_Air_00.58.28.853-00.58.30.046 	the power fails.
+1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.18.38.619-00.18.44.220 	as harry settles back into the sidecar, the engine fails.
 1051_Harry_Potter_and_the_goblet_of_fire_01.55.48.913-01.55.57.421 	as viktor eyes are clouded over and he fails to see harry, he passes by.
 1058_The_Damned_united_00.01.29.000-00.01.36.112 	england failed to qualify for the world cup.
-1058_The_Damned_united_00.01.29.000-00.01.36.112 	england failed to qualify for the world cup.
+1062_Day_the_Earth_stood_still_01.35.56.000-01.36.02.538 	screens at the control center where regina is sitting alone flicker, then go off as the power fails.

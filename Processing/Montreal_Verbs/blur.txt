@@ -1,0 +1,8 @@
+500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS492 	01:20:43,00 --> 01:20:51,50 	nighttime traffic continues to blur through the city at super speed.
+CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS544 	02:08:06,00 --> 02:08:17,50 	in a grainy blurred focused view from someone's corner, someone rubs his head and shakes his arms down.
+FLIGHT.srt 	FLIGHT_DVS127 	00:25:11,00 --> 00:25:17,50 	through blurred vision, someone sees ken leaning to the side in his seat, as he is dragged out.
+MORNING_GLORY.srt 	MORNING_GLORY_DVS235 	00:52:12,00 --> 00:52:17,50 	her vision is blurred.
+SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS53 	00:03:48,00 --> 00:03:52,50 	as we ride with her, the vehicles blur and distort.
+SOUL_SURFER.srt 	SOUL_SURFER_DVS75 	00:25:04,00 --> 00:25:10,50 	her vision blurred, the wounded girl sees each of their faces.
+SOUL_SURFER.srt 	SOUL_SURFER_DVS83 	00:27:43,00 --> 00:27:50,50 	her vision blurred, someone watches someone and an emt as they wheel her down a hallway.
+THOR.srt 	THOR_DVS182 	00:24:15,00 --> 00:24:32,50 	smashing through boulders of rock and ice in its path, twirling his hammer so fast that it blurs, someone flings chunks of the ground like projectiles.

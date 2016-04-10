@@ -1,0 +1,4 @@
+A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS301 	00:26:23,00 --> 00:26:31,50 	ramping off the end, someone continues on top of more tractor-trailers stuck in standstill traffic.
+LIFE_OF_PI.srt 	LIFE_OF_PI_DVS271 	00:36:08,00 --> 00:36:18,50 	ramping off a wave, the ship's bow lands hard on the seething surface.
+LIFE_OF_PI.srt 	LIFE_OF_PI_DVS876 	01:28:29,00 --> 01:28:37,50 	someone continues unhooking the canvas as the boat ramps off surging waves.
+THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS315 	00:57:35,00 --> 00:57:53,50 	swerving, the chiseled man bursts through construction barricades then ramps up a stack of barricades and launches into mid-air.

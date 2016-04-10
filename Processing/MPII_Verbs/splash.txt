@@ -1,17 +1,16 @@
-0007_DIE_NACHT_DES_JAEGERS_00.17.25.351-00.17.28.111 	He turns the picture away and splashes liquor into his coffee.
-0027_The_Big_Lebowski_00.55.42.145-00.55.44.674 	The marmot splashes frantically, biting at the Dude in a frenzy of fearful aggression.
-0027_The_Big_Lebowski_01.25.50.588-01.25.51.759 	It hits him in the forehead with a thud, the scalding coffee splashing everywhere.
-1001_Flight_01.37.05.220-01.37.08.165 	Whip speeds down the mud road, splashing slush to the side.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.38.08.679-01.38.10.283 	He splashes water on his ashen face.
-1005_Signs_01.37.34.343-01.37.35.419 	The alien recoils as its skin is splashed with liquid.
-1012_Unbreakable_01.27.47.419-01.27.52.086 	he watches the rain splashing in the water in front of him as he gradually begins to sink.
+0007_DIE_NACHT_DES_JAEGERS_00.17.25.351-00.17.28.111 	he turns the picture away and splashes liquor into his coffee.
+0026_The_Big_Fish_01.33.19.106-01.33.20.448 	just as suddenly, the sound changes -- no longer pounding, but softly splashing.
+0027_The_Big_Lebowski_00.55.42.145-00.55.44.674 	the marmot splashes frantically, biting at the dude in a frenzy of fearful aggression.
+0050_Indiana_Jones_and_the_last_crusade_00.35.50.635-00.35.52.002 	it crashes against the stone platform and splashes into the water.
+0050_Indiana_Jones_and_the_last_crusade_00.38.30.213-00.38.35.873 	but the enemy speedboat explodes as it is crushed between the two freighters, flying into the air and splashing back down into the water.
+1001_Flight_01.37.05.220-01.37.08.165 	whip speeds down the mud road, splashing slush to the side.
+1002_Harry_Potter_and_the_Half-Blood_Prince_01.38.08.679-01.38.10.283 	he splashes water on his ashen face.
+1005_Signs_01.37.34.343-01.37.35.419 	the alien recoils as its skin is splashed with liquid.
 1028_No_Reservations_00.18.24.000-00.18.28.248 	zoe sits in the back seat, looking out through the rain- splashed window as if in a trance.
 1044_Pride_And_Prejudice_Disk_Two_00.07.42.672-00.07.50.455 	the next morning, darcy splashes his face with water from a silver basin, then pats it dry.
+1049_Harry_Potter_and_the_chamber_of_secrets_02.09.55.750-02.09.59.891 	the serpent splashes through the water beneath the statue.
 1049_Harry_Potter_and_the_chamber_of_secrets_02.10.58.600-02.11.02.601 	he splashes through a shallow pool with huge serpent.
 1051_Harry_Potter_and_the_goblet_of_fire_00.28.51.130-00.29.00.381 	students splash across the courtyard with cloaks over their heads to protect themselves from the rain.
-1055_Marley_and_me_01.17.17.485-01.17.23.022 	john grins as the dogs splash around.
-1056_Rambo_00.02.56.208-00.02.57.275 	they splash harmlessly on sodden ground.
-2005_Signs_00.38.48.986-00.38.51.667 	they're splashing each other at the sink as they clean the dinner dishes.
 1055_Marley_and_me_01.17.17.485-01.17.23.022 	john grins as the dogs splash around.
 1056_Rambo_00.02.56.208-00.02.57.275 	they splash harmlessly on sodden ground.
 2005_Signs_00.38.48.986-00.38.51.667 	they're splashing each other at the sink as they clean the dinner dishes.

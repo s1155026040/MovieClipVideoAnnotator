@@ -1,0 +1,8 @@
+ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS213 	00:29:45,00 --> 00:29:54,50 	the banker reappears just long enough to strike someone's midsection.
+HUGO.srt 	HUGO_DVS804 	01:57:25,00 --> 01:57:31,50 	his head reappears on his shoulders but copies remain.
+INSIDE_MAN.srt 	INSIDE_MAN_DVS99 	00:26:19,00 --> 00:26:32,50 	her assistant reappears on her computer monitor.
+SOUL_SURFER.srt 	SOUL_SURFER_DVS322 	01:35:20,00 --> 01:35:31,50 	her parents anxiously wait for her to reappear.
+SUPER_8.srt 	SUPER_8_DVS186 	00:31:09,00 --> 00:31:14,50 	someone reappears at the screen door.
+WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS831 	01:56:46,00 --> 01:56:51,50 	he reappears at a window beside them.
+XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1168 	01:44:30,00 --> 01:44:36,50 	they all reappear in the sky.
+ZOMBIELAND.srt 	ZOMBIELAND_DVS80 	00:06:34,00 --> 00:06:40,50 	the zombie reappears spitting out a mouthful of flowers.

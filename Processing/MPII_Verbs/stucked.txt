@@ -1,1 +1,1 @@
-0008_Fargo_00.59.36.868-00.59.39.085 	Marge has stucked in the door.
+0008_Fargo_00.59.36.868-00.59.39.085 	marge has stucked in the door.

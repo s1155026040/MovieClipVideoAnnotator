@@ -1,52 +1,148 @@
-0001_American_Beauty_00.53.15.726-00.53.19.028 	Carolyn smiles, genuinely touched that he remembers her name.
-0004_Charade_00.36.22.488-00.36.23.238 	As it stretches for the railing; it is several inches short of touching it.
-0011_Gandhi_00.17.06.567-00.17.09.700 	Ba reaches forth, gently touching the bandages on his head.
-0011_Gandhi_00.16.25.861-00.16.27.736 	They step forward, one by one, making the pranam (the Hindu gesture of greeting), then bending and touching the hands and lips to Gandhi's feet in the traditional obeisance of child to father.
-0011_Gandhi_01.52.51.205-01.52.54.476 	During the very last of it Mirabehn has turned her face to him, touched with emotion.
-0011_Gandhi_02.39.48.243-02.39.49.755 	His vanity is too great not to be touched by that prospect.
-0011_Gandhi_02.49.05.801-02.49.09.296 	Gandhi smiles and reaches to touch hands with him.
-0016_O_Brother_Where_Art_Thou_01.18.49.580-01.18.49.834 	The flag has not touched the ground.
-0017_Pianist_00.08.24.356-00.08.28.783 	And he is smiling, touched by her.
-0017_Pianist_01.36.25.749-01.36.35.778 	Then, without touching the keys, his fingers floating just above them, he plays.
-0019_Pulp_Fiction_00.53.10.639-00.53.13.383 	But wait, her fingers touch something else.
-0026_The_Big_Fish_00.41.08.599-00.41.09.835 	Although Edward has a small plate of food in front of him, he hasn't touched it.
-0027_The_Big_Lebowski_01.26.06.873-01.26.07.948 	The Dude, in the back seat of a taxicab that rocks and squeaks with every bump, is gingerly touching at sore spots on his face and scalp.
-0028_The_Crying_Game_01.04.05.292-01.04.10.771 	She gives a strange little laugh, then reaches out to touch him.
-0029_The_Graduate_01.03.48.157-01.03.51.910 	They sit there for a long time without saying anything, Ben's hand touching her shoulder.
-0030_The_Hustler_01.31.27.902-01.31.30.701 	They touch glasses.
-0030_The_Hustler_02.02.30.752-02.02.35.163 	Eddie reaches out to touch her, then pulls back his hand.
-0032_The_Princess_Bride_00.53.42.071-00.53.43.132 	BUTTERCUP, touched as before, but then she seems stunned as we.
-0038_Psycho_00.48.39.480-00.48.42.324 	Lying half in, half out of the tub, the head tumbled over, touching the floor, the hair wet, one eye wide open as if popped, one arm lying limp and wet along the tile floor.
-0041_The_Sixth_Sense_01.21.03.077-01.21.04.818 	His hands touch the floor.
-0043_Thelma_and_Luise_01.16.07.352-01.16.11.921 	Louise looks at the speedometer touching 80 mph and lets her foot off the gas.
-0049_Hannah_and_her_sisters_00.46.54.115-00.46.56.956 	Hannah laughs, touching her mother.
-0049_Hannah_and_her_sisters_00.53.33.692-00.53.36.980 	She closes the door, touching her soaking hair.
-0050_Indiana_Jones_and_the_last_crusade_00.30.16.917-00.30.26.828 	When her feet finally touch ground below, Indy releases his grip on her and slips the Grail Diary to Brody.
-1004_Juno_01.08.22.276-01.08.29.650 	With his hands round her waist, her belly touching his, she closes her eyes and rests her head on his chest, as they slowly sway together.
-1007_Spider-Man1_00.02.31.361-00.02.31.820 	Two hands touch fingertips to fingertips.
+0001_American_Beauty_00.36.44.752-00.36.46.516 	extreme close up on her hand as it briefly touches his shoulder in slow motion.
+0001_American_Beauty_00.37.15.172-00.37.16.633 	he breaks the kiss, looking at her in awe, then he reaches up and touches his lips.
+0001_American_Beauty_00.53.15.726-00.53.19.028 	carolyn smiles, genuinely touched that he remembers her name.
+0002_As_Good_As_It_Gets_00.11.22.526-00.11.25.042 	he gulps at the contact (since no one else ever touches him) but covers his self-consciousness.
+0002_As_Good_As_It_Gets_01.29.09.285-01.29.12.937 	she looks out her window -- then kisses her fingers and touches them to simon's cheek.
+0004_Charade_00.36.22.488-00.36.23.238 	as it stretches for the railing; it is several inches short of touching it.
+0007_DIE_NACHT_DES_JAEGERS_00.03.05.643-00.03.08.430 	he nods, smiles, and touches his hat.
+0007_DIE_NACHT_DES_JAEGERS_00.24.13.940-00.24.15.603 	willa touches preacher's hand, warmly.
+0007_DIE_NACHT_DES_JAEGERS_00.49.53.907-00.49.58.244 	he touches the spring; the blade flicks open.
+0011_Gandhi_00.02.52.121-00.02.54.743 	he stiffens himself, cautiously touches something under his khaki jacket, then glances back at the stoic face of prakash.
+0011_Gandhi_00.17.06.567-00.17.09.700 	ba reaches forth, gently touching the bandages on his head.
+0011_Gandhi_00.16.25.861-00.16.27.736 	they step forward, one by one, making the pranam (the hindu gesture of greeting), then bending and touching the hands and lips to gandhi's feet in the traditional obeisance of child to father.
+0011_Gandhi_00.25.22.662-00.25.26.615 	gandhi sighs, putting his arms around her and she leans into him so that their heads are touching.
+0011_Gandhi_00.31.46.533-00.31.50.373 	tyeb mohammed suddenly touches gandhi's arm and nods ahead.
+0011_Gandhi_01.43.53.351-01.43.55.854 	gandhi reaches out and touches his hand.
+0011_Gandhi_01.49.57.256-01.50.07.352 	she strokes his sweating head again, touches his shoulder and gets up.
+0011_Gandhi_01.52.51.205-01.52.54.476 	during the very last of it mirabehn has turned her face to him, touched with emotion.
+0011_Gandhi_02.01.35.889-02.01.38.067 	featuring walker and collins both touched, the overtly cynical american obviously even more than the likeable englishman.
+0011_Gandhi_02.39.48.243-02.39.49.755 	his vanity is too great not to be touched by that prospect.
+0011_Gandhi_02.49.05.801-02.49.09.296 	gandhi smiles and reaches to touch hands with him.
+0011_Gandhi_02.50.14.935-02.50.15.663 	he touches nehru's hand.
+0011_Gandhi_02.52.55.865-02.52.59.473 	gandhi smiles whimsically, he touches him again but there is no change in his attitude.
+0011_Gandhi_02.56.46.586-02.56.48.339 	a second, and gandhi reaches out and touches the top of his head.
+0012_Get_Shorty_00.47.08.028-00.47.12.364 	as a plane touches down on the runway.
+0013_Halloween_01.19.14.647-01.19.15.288 	her hand reaches out and touches it.
+0014_Ist_das_Leben_nicht_schoen_02.02.29.296-02.02.35.235 	george touches his lips with his tongue, wipes his mouth with his hand, laughs happily.
+0016_O_Brother_Where_Art_Thou_01.18.49.580-01.18.49.834 	the flag has not touched the ground.
+0017_Pianist_00.08.24.356-00.08.28.783 	and he is smiling, touched by her.
+0017_Pianist_01.36.25.749-01.36.35.778 	then, without touching the keys, his fingers floating just above them, he plays.
+0019_Pulp_Fiction_00.53.08.999-00.53.11.601 	she touches its sleeve.
+0019_Pulp_Fiction_00.53.10.639-00.53.13.383 	but wait, her fingers touch something else.
+0019_Pulp_Fiction_01.30.23.491-01.30.30.635 	his apartment hasn't been touched.
+0021_Rear_Window_00.08.09.062-00.08.10.228 	he kneels down, inspects them, touches them affectionately and with some pride.
+0021_Rear_Window_01.01.47.270-01.01.51.943 	unable to see clearly, she puts on the glasses again, looks, and touches up her lips slightly.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.43.28.025-01.43.30.084 	gandalf touches the smooth rock wall between the trees.
+0026_The_Big_Fish_00.41.08.599-00.41.09.835 	although edward has a small plate of food in front of him, he hasn't touched it.
+0027_The_Big_Lebowski_01.26.06.873-01.26.07.948 	the dude, in the back seat of a taxicab that rocks and squeaks with every bump, is gingerly touching at sore spots on his face and scalp.
+0028_The_Crying_Game_00.54.25.685-00.54.27.785 	she touches his cheek.
+0028_The_Crying_Game_01.04.05.292-01.04.10.771 	she gives a strange little laugh, then reaches out to touch him.
+0028_The_Crying_Game_01.15.53.609-01.15.56.311 	she brings her lips close to his so they touch.
+0029_The_Graduate_01.03.48.157-01.03.51.910 	they sit there for a long time without saying anything, ben's hand touching her shoulder.
+0030_The_Hustler_01.31.27.902-01.31.30.701 	they touch glasses.
+0030_The_Hustler_02.02.30.752-02.02.35.163 	eddie reaches out to touch her, then pulls back his hand.
+0032_The_Princess_Bride_00.53.42.071-00.53.43.132 	buttercup, touched as before, but then she seems stunned as we.
+0032_The_Princess_Bride_01.24.58.150-01.25.05.192 	she seems very much at peace as she touches the knife to her bosom.
+0033_Amadeus_01.33.30.428-01.33.31.876 	he touches the inkstand.
+0038_Psycho_00.44.29.990-00.44.32.571 	he reaches it, touches it, reluctantly lifts the small frame off the wall.
+0038_Psycho_00.48.39.480-00.48.42.324 	lying half in, half out of the tub, the head tumbled over, touching the floor, the hair wet, one eye wide open as if popped, one arm lying limp and wet along the tile floor.
+0038_Psycho_01.41.08.791-01.41.13.357 	lila goes to the chair, touches it.
+0041_The_Sixth_Sense_01.21.03.077-01.21.04.818 	his hands touch the floor.
+0043_Thelma_and_Luise_01.16.07.352-01.16.11.921 	louise looks at the speedometer touching 80 mph and lets her foot off the gas.
+0046_Chasing_Amy_01.41.30.014-01.41.34.247 	she looks at him, sadly, and touches his face.
+0049_Hannah_and_her_sisters_00.46.54.115-00.46.56.956 	hannah laughs, touching her mother.
+0049_Hannah_and_her_sisters_00.53.33.692-00.53.36.980 	she closes the door, touching her soaking hair.
+0049_Hannah_and_her_sisters_01.07.44.051-01.07.47.597 	she touches his hand; elliot embraces her.
+0049_Hannah_and_her_sisters_01.07.51.724-01.07.56.489 	she touches his hair.
+0050_Indiana_Jones_and_the_last_crusade_00.30.16.917-00.30.26.828 	when her feet finally touch ground below, indy releases his grip on her and slips the grail diary to brody.
+0050_Indiana_Jones_and_the_last_crusade_01.27.02.424-01.27.08.747 	now brody tugs his ears, flaps his arms and touches his head.
+0051_Men_in_black_00.54.37.614-00.54.38.564 	he reaches out, touches the ear, then he actually turns it.
+1001_Flight_01.15.41.101-01.15.43.380 	a young boy touches whip's arm.
+1002_Harry_Potter_and_the_Half-Blood_Prince_00.13.43.160-00.13.44.660 	ron touches hermione's cheek.
+1002_Harry_Potter_and_the_Half-Blood_Prince_00.40.23.559-00.40.25.026 	dumbledore touches a wardrobe.
+1002_Harry_Potter_and_the_Half-Blood_Prince_01.56.07.004-01.56.07.527 	harry touches the ring.
+1002_Harry_Potter_and_the_Half-Blood_Prince_02.17.03.746-02.17.13.722 	he leans forward and gently touches dumbledore's cheek.
+1004_Juno_01.08.22.276-01.08.29.650 	with his hands round her waist, her belly touching his, she closes her eyes and rests her head on his chest, as they slowly sway together.
+1005_Signs_00.13.28.788-00.13.31.927 	graham touches his shoulder and merrill wakes.
+1006_Slumdog_Millionaire_00.35.48.152-00.35.54.340 	latika touches his fingers when salim suddenly pulls back.
+1006_Slumdog_Millionaire_01.16.11.040-01.16.13.164 	salim touches his forehead to the ground.
 1008_Spider-Man2_01.49.10.024-01.49.16.828 	the kid's eyes open and his gloved hands touch his face.
 1009_Spider-Man3_01.19.50.904-01.19.57.486 	as his fingers touched the glass, in flashback, he sees spider-man standing over norman's body and remembers pulling the spider-man mask off peter's face.
-1012_Unbreakable_01.19.25.038-01.19.27.705 	other people pass him, some touching him.
+1010_TITANIC_00.14.05.198-00.14.11.512 	they moved towards the landing pad as the helicopter touches down
+1010_TITANIC_02.03.45.765-02.03.49.400 	he stumbles back and touches his bloody nose.
+1011_The_Help_00.50.59.628-00.51.01.756 	celia coyly touches her slender waist.
+1014_2012_01.28.12.223-01.28.15.550 	a fireman touches the brim of his hat.
+1015_27_Dresses_00.08.35.703-00.08.41.655 	she blinks up at him and touches a hand to her sore head as two other guests arrive.
+1018_Body_Of_Lies_01.15.17.014-01.15.17.991 	a jet touches down on a runway.
+1018_Body_Of_Lies_01.38.40.613-01.38.44.193 	he sees a streak of blood on the side of a worktop and touches it.
+1020_Crazy_Stupid_Love_00.59.07.703-00.59.09.672 	she stands and touches her temple gently.
+1020_Crazy_Stupid_Love_01.08.57.042-01.09.00.460 	she touches him.
 1020_Crazy_Stupid_Love_01.10.42.203-01.10.46.771 	he lets her slide gently down until her feet touch the floor.
+1024_Identity_Thief_00.16.39.579-00.16.43.079 	the detective touches his phone.
+1024_Identity_Thief_01.03.32.175-01.03.37.841 	she touches his pecs.
+1024_Identity_Thief_01.38.54.868-01.38.58.675 	he rolls to his right and sidles up next to his wife, who lightly touches his shoulder.
 1027_Les_Miserables_01.46.10.759-01.46.17.528 	she reaches out to touch his face.
-1029_Pride_And_Prejudice_Disk_One_02.08.30.309-02.08.35.695 	the men stand in one line with the ladies opposite them, then briefly touch hands as they move around the other dancers.
+1028_No_Reservations_01.04.00.000-01.04.05.564 	lips almost touching, she leans back against his arm.
+1030_Public_Enemies_00.53.44.644-00.53.48.311 	on board, dillinger jostles in his seat as the plane touches down.
+1034_Super_8_00.22.50.568-00.22.52.235 	she touches his arm and it hangs limply.
 1034_Super_8_01.29.22.832-01.29.27.365 	it falls about 30 feet before touching the bottom.
+1035_The_Adjustment_Bureau_00.58.42.092-00.58.45.167 	her startled look becomes relieved, and she touches her fingers to her brow.
+1035_The_Adjustment_Bureau_01.12.03.404-01.12.06.801 	he touches her bandaged ankle, which rests on two pillows.
 1035_The_Adjustment_Bureau_01.38.44.842-01.38.46.538 	he acknowledges them amiably touching the brim of his hat.
 1037_The_Curious_Case_Of_Benjamin_Button_00.36.04.097-00.36.09.225 	she gingerly reaches out to touch his smiling face.
+1037_The_Curious_Case_Of_Benjamin_Button_00.36.09.225-00.36.11.988 	benjamin holds her gaze as she touches his stubbly cheek.
+1037_The_Curious_Case_Of_Benjamin_Button_01.10.45.542-01.10.50.577 	she looks up at him and touches his face.
+1038_The_Great_Gatsby_01.04.51.453-01.04.53.161 	touched, daisy runs her fingers over them.
+1038_The_Great_Gatsby_02.02.01.268-02.02.03.639 	gatsby touches his chest and looks at his finger.
+1039_The_Queen_01.17.02.825-01.17.05.715 	she gently touches the side of the stag's head.
+1041_This_is_40_00.02.10.432-00.02.17.358 	in a t-shirt and boxers, the man lumbers over to the bed and lightly touches her arm.
+1043_Vantage_Point_01.07.30.785-01.07.36.640 	javier relents and leaves veronica in the elevator, then touches his stomach in the corridor.
+1043_Vantage_Point_01.21.14.566-01.21.22.298 	barnes puts his cell phone to his ear and touches his forehead anxiously, then looks at his hand which appears steady.
+1045_An_education_00.18.34.869-00.18.37.390 	she touches her fur stole.
+1046_Australia_01.41.34.762-01.41.37.210 	they touch gently.
+1047_Defiance_00.43.57.809-00.44.06.902 	tentatively, he raises his hand and touches her cheek with his fingers, gently pulling at her bottom lip with his thumb.
+1047_Defiance_01.36.15.482-01.36.19.034 	she opens her coat and touches her belly.
+1049_Harry_Potter_and_the_chamber_of_secrets_00.10.38.385-00.10.44.017 	the car touches down on a narrow sandy track and bumps along it past an outhouse.
+1049_Harry_Potter_and_the_chamber_of_secrets_00.20.11.778-00.20.15.068 	he touches harry's forehead with his snake-topped cane.
+1049_Harry_Potter_and_the_chamber_of_secrets_01.12.16.852-01.12.23.161 	harry kneels beside justin and touches his stiff fingers.
+1049_Harry_Potter_and_the_chamber_of_secrets_01.20.50.653-01.20.53.369 	he lifts his hand and touches his beefy face with plump fingers.
+1049_Harry_Potter_and_the_chamber_of_secrets_01.24.47.380-01.24.50.422 	harry touches his forehead where his scar is reappearing.
+1049_Harry_Potter_and_the_chamber_of_secrets_02.15.08.796-02.15.12.257 	harry touches ginny's hand.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.42.06.032-00.42.09.619 	her left hand's hanging over the edge almost touching ron's hand.
 1051_Harry_Potter_and_the_goblet_of_fire_00.05.24.134-00.05.36.550 	they all touch the boot which begins to spin like a catherine wheel.
+1051_Harry_Potter_and_the_goblet_of_fire_02.19.50.561-02.19.56.943 	the professor touches the velvet drapes on the four-poster bed.
+1052_Harry_Potter_and_the_order_of_phoenix_00.37.56.000-00.38.05.304 	umbridge puts down the cup and touches a pen lying on her desk.
+1053_Harry_Potter_and_the_philosophers_stone_00.10.15.000-00.10.17.605 	petunia touches his arm.
+1053_Harry_Potter_and_the_philosophers_stone_00.28.59.149-00.29.00.271 	touching his scar.
+1053_Harry_Potter_and_the_philosophers_stone_00.43.46.024-00.43.47.516 	as the hat touches his head
+1053_Harry_Potter_and_the_philosophers_stone_00.44.01.006-00.44.08.920 	harry winces and touches his scar.
 1053_Harry_Potter_and_the_philosophers_stone_01.10.09.000-01.10.12.000 	its horrible head, which looks like a squashed, green potato, is almost touching the high ceiling.
 1053_Harry_Potter_and_the_philosophers_stone_01.33.16.409-01.33.20.692 	harry stretches out a hand towards them, but his fingers only touch his reflection in the glass.
+1053_Harry_Potter_and_the_philosophers_stone_02.07.14.404-02.07.25.476 	as he descends the stairs, he touches the scar on his forehead and he sees a figure wearing a turban looking into the mirror of erised, professor quirrell.
+1053_Harry_Potter_and_the_philosophers_stone_02.08.25.545-02.08.29.707 	harry touches his scar.
+1053_Harry_Potter_and_the_philosophers_stone_02.16.36.395-02.16.39.606 	harry touches his scar.
+1053_Harry_Potter_and_the_philosophers_stone_02.16.49.545-02.16.56.883 	he touches harry's head, and gets up.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_00.36.44.000-00.36.54.137 	clinging to the creature's neck, harry sees his reflection in the water as buckbeak skims low over the lake, one huge claw just touching the surface.
+1054_Harry_Potter_and_the_prisoner_of_azkaban_01.16.07.615-01.16.09.774 	snape touches it with his wand.
+1054_Harry_Potter_and_the_prisoner_of_azkaban_01.39.24.978-01.39.34.104 	as the moonlight touches his face, his eyes turn green and his face distorts.
+1055_Marley_and_me_01.30.52.846-01.30.56.525 	the dog whines as john touches his belly.
+1057_Seven_pounds_01.38.34.000-01.38.42.008 	emily plays gently with his ear, then lowers her eyes and lightly touches his lips with her fingertips.
 1057_Seven_pounds_01.49.14.991-01.49.17.990 	in a flashback, he reaches out to touch sarah's inert, bloody hand.
+1058_The_Damned_united_00.46.30.009-00.46.33.573 	bremner salutes don in the stands, who smiles back and touches his nose smugly.
 1059_The_devil_wears_prada_00.05.53.048-00.05.54.605 	a woman uses a webcamming feature on her computer to touch up her makeup.
+1059_The_devil_wears_prada_01.23.39.540-01.23.45.000 	she studies her reflection in a big mirror and touches up the mascara on her long, black lashes.
+1059_The_devil_wears_prada_01.43.39.449-01.43.43.000 	emily hangs up, looking genuinely touched.
+1060_Yes_man_01.17.53.615-01.17.58.333 	a jet touches down in la.
+1062_Day_the_Earth_stood_still_00.44.17.743-00.44.23.261 	he touches the blood, studies his reflection, then touches a finger to the sweat on his brow.
+1062_Day_the_Earth_stood_still_00.57.26.000-00.57.30.000 	light flares beneath his hand and ripples across the surface as he touches it.
+1062_Day_the_Earth_stood_still_01.04.37.000-01.04.41.793 	he touches a hand to the police cruiser, activating all its systems.
+1062_Day_the_Earth_stood_still_01.04.48.000-01.04.53.770 	helen and jacob stare as he then reaches down with his other hand and touches the alien flesh to the officer's head.
+1062_Day_the_Earth_stood_still_01.22.52.512-01.23.01.194 	klaatu unplugs the receiver, touches his finger to the end of the cord, plugs it back in and hands the phone to jacob.
+1062_Day_the_Earth_stood_still_01.35.27.529-01.35.33.365 	with a final effort, he stands, reaches up, and touches the sphere.
 2005_Signs_00.38.06.931-00.38.08.450 	they finally touch the flashlight.
+2005_Signs_01.34.45.691-01.34.48.537 	graham touches her cheek.
+2012_Unbreakable_00.17.50.153-00.17.50.744 	the poncho almost touches the ground.
 2026_Legion_00.08.43.903-00.08.48.297 	charlie smiles sadly at him, touched by his sweetness, but this just isn't where she's at.
-1053_Harry_Potter_and_the_philosophers_stone_01.10.09.000-01.10.12.000 	its horrible head, which looks like a squashed, green potato, is almost touching the high ceiling.
-1053_Harry_Potter_and_the_philosophers_stone_01.33.16.409-01.33.20.692 	harry stretches out a hand towards them, but his fingers only touch his reflection in the glass.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.36.44.000-00.36.54.137 	clinging to the creature's neck, harry sees his reflection in the water as buckbeak skims low over the lake, one huge claw just touching the surface.
-1057_Seven_pounds_01.49.14.991-01.49.17.990 	in a flashback, he reaches out to touch sarah's inert, bloody hand.
-1059_The_devil_wears_prada_00.05.53.048-00.05.54.605 	a woman uses a webcamming feature on her computer to touch up her makeup.
-2005_Signs_00.38.06.931-00.38.08.450 	they finally touch the flashlight.
-2026_Legion_00.08.43.903-00.08.48.297 	charlie smiles sadly at him, touched by his sweetness, but this just isn't where she's at.
+2034_Super_8_01.01.48.996-01.01.51.994 	joe opens a drawer, grabs a paintbrush -- he touches the cube -- the thing shudders on its own.
 2034_Super_8_01.01.54.172-01.01.57.383 	they get low -- eyes at desk level -- the shuddering increases in pitch and volume -- he reaches out to touch it with his finger, but suddenly the cube bullets away -.
+2054_Harry_Potter_and_the_prisoner_of_azkaban_00.59.56.300-01.00.02.973 	george touches his wand to the parchment and intricate ink lines surface in the fiber of the paper, spread like veins.

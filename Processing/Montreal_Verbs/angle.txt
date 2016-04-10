@@ -1,0 +1,5 @@
+BLINDDATING.srt 	BLINDDATING_DVS271 	01:06:19,00 --> 01:06:31,50 	someone sits to his right, angled toward him.
+CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS38 	00:08:23,00 --> 00:08:37,50 	he picks up a jagged hooked strip of metal with an ivory nub angled down from one end.
+GREEN_ZONE.srt 	GREEN_ZONE_DVS267 	01:02:36,00 --> 01:02:42,50 	she angles the receiver toward her mouth.
+KARATE_KID.srt 	KARATE_KID_DVS1256 	01:42:06,00 --> 01:42:13,50 	using both hands, someone angles a pole upward, raising someone's hand to his face.
+ZOOKEEPER.srt 	ZOOKEEPER_DVS416 	01:30:53,00 --> 01:31:03,50 	he clings to someone's back as the gorilla climbs the beam which angles nearly 45 degrees outward.

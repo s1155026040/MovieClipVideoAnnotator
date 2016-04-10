@@ -1,0 +1,5 @@
+LIFE_OF_PI.srt 	LIFE_OF_PI_DVS834 	01:24:45,00 --> 01:24:52,50 	as a large whale approaches, the squid latches onto its back.
+MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS638 	01:17:30,00 --> 01:17:42,50 	someone closes and latches the zoo's gates, locking him inside.
+WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS282 	00:44:47,00 --> 00:44:56,50 	he neglects to latch it.
+WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS683 	01:39:35,00 --> 01:39:43,50 	someone turns the key back, and tries closing the gate, but the extended deadbolt prevents it from latching shut.
+WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS145 	00:18:42,00 --> 00:18:50,50 	from behind her, an arm in a blazer flaps into view, its hand latching onto her breast.

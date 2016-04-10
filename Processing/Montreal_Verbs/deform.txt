@@ -1,0 +1,2 @@
+PROMETHEUS.srt 	PROMETHEUS_DVS801 	01:25:47,00 --> 01:25:54,50 	his smashed open helmet reveals his grotesquely deformed features.
+THOR.srt 	THOR_DVS667 	01:39:49,00 --> 01:39:56,50 	the bridge shatters in a huge explosion that deforms the sea and creates a massive wave.

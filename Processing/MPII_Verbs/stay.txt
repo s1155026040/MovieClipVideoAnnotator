@@ -1,64 +1,43 @@
-0001_American_Beauty_00.18.13.914-00.18.15.971 	Lester stays behind.
-0002_As_Good_As_It_Gets_00.27.17.861-00.27.18.137 	We STAY with the dog during the O.S.
-0007_DIE_NACHT_DES_JAEGERS_00.53.39.650-00.53.45.391 	We stay on the house at leisure; we hear him lunging, shoulder to door; we begin to hear squeaking of hinges and splintering of wood.
-0009_Forrest_Gump_00.29.31.640-00.29.32.929 	The band motions for Forrest to stop and stay in the end zone.
-0010_Frau_Ohne_Gewissen_00.04.01.565-00.04.02.498 	For a moment he stays like this, exhausted, then his eyes open slowly and look down at his left shoulder.
-0010_Frau_Ohne_Gewissen_00.45.14.128-00.45.14.319 	Keyes stays right where he is.
-0011_Gandhi_00.03.04.840-00.03.06.994 	Apte and Karkare move to different sides of Godse, staying a little behind, their movements sly and wary, aware of people watching.
-0012_Get_Shorty_00.02.40.347-00.02.41.706 	Chili stares straight ahead, rubs his hands together, tries to stay warm.
-0016_O_Brother_Where_Art_Thou_00.43.48.854-00.43.51.550 	Pete's eyes stay glued on the women as he hisses out of the corner of his mouth.
-0019_Pulp_Fiction_01.21.19.643-01.21.31.365 	We stay on Fabienne as she brushes her teeth.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.01.16.373-01.01.26.380 	SAM watches a sleeping GOLLUM suspiciously as he desperately tries to stay awake.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.49.02.021-01.49.04.018 	FRODO stays CLOSE to the ROCK WALL, masked by SHADOWS.
-0026_The_Big_Fish_00.18.49.216-00.18.53.724 	As he leaves frame, we STAY BEHIND to look inside.
-0026_The_Big_Fish_00.45.27.301-00.45.28.813 	We STAY WITH Edward in bed.
-0026_The_Big_Fish_01.02.34.438-01.02.35.354 	She stays in the doorway for a few beats, feeling genuinely horrible for what's happened.
-0026_The_Big_Fish_01.41.01.548-01.41.05.198 	With that last job done, there's no reason for him to be staying any longer.
-0026_The_Big_Fish_01.48.46.626-01.48.51.208 	We STAY ON Will and his father for a long time, then Will takes his pen and starts making a list.
-0028_The_Crying_Game_01.27.38.902-01.27.40.293 	He lets them stay there.
-0029_The_Graduate_00.43.00.631-00.43.03.285 	He stays on top of her for a moment.
-0030_The_Hustler_00.58.46.668-00.58.49.768 	We stay on Eddie, who examines the lighter in his hand.
-0030_The_Hustler_01.02.17.659-01.02.18.987 	Eddie signals her to stay where she is.
-0032_The_Princess_Bride_00.03.13.247-00.03.17.803 	She leaves; his eyes stay on her.
-0032_The_Princess_Bride_00.03.18.919-00.03.21.277 	She stops, turns--he manages to look away as now her eyes stay on him.
-0032_The_Princess_Bride_00.11.39.160-00.11.40.340 	Buttercup stays silent.
-0033_Amadeus_00.47.35.149-00.47.39.612 	Mozart stays for a second, indecisive whether to follow the soprano or help Madame Weber.
-0041_The_Sixth_Sense_00.13.04.015-00.13.06.745 	Cole stays rigid.
-0041_The_Sixth_Sense_01.21.30.902-01.21.34.481 	Cole stays very still.
-0049_Hannah_and_her_sisters_00.02.49.173-00.02.52.759 	The camera stays with Elliot, who is still watching the offscreen Lee.
-0049_Hannah_and_her_sisters_00.07.20.165-00.07.22.304 	The camera stays with her momentarily as she walks towards Elliot and Lee.
-0049_Hannah_and_her_sisters_00.10.57.839-00.11.00.586 	The camera stays with Frederick as he walks into the loft's bedroom area.
-0049_Hannah_and_her_sisters_00.28.50.755-00.28.56.410 	The camera stays on his face as he looks off into the distance, mouthing indistinctly the line of poetry Lee next reads.
-0049_Hannah_and_her_sisters_01.03.55.894-01.03.59.055 	Holly stays under the awning; Mickey walks to the curb and looks angrily back at her.
-0050_Indiana_Jones_and_the_last_crusade_00.02.47.968-00.02.54.428 	The boys approach cautiously, careful to stay hidden.
-0050_Indiana_Jones_and_the_last_crusade_00.58.11.559-00.58.14.353 	Vogel stays behind for another moment.
-1002_Harry_Potter_and_the_Half-Blood_Prince_02.23.26.539-02.23.26.971 	Ron stays seated behind them.
-1005_Signs_00.54.25.994-00.54.29.713 	Ray, the Asian man who stayed in town, sits with one hand clamped to the steering wheel, rocking nervously and staring numbly ahead.
-1006_Slumdog_Millionaire_00.12.28.908-00.12.30.908 	One arm stays aloft, holding the photo clear of the effluent.
-1011_The_Help_00.41.24.650-00.41.27.384 	aibileen stays standing.
-1011_The_Help_02.17.41.714-02.17.45.359 	mae mobley stays at the window, watching aibileen walk away down the drive.
+0002_As_Good_As_It_Gets_00.27.17.861-00.27.18.137 	we stay with the dog during the o.s.
+0007_DIE_NACHT_DES_JAEGERS_00.53.39.650-00.53.45.391 	we stay on the house at leisure; we hear him lunging, shoulder to door; we begin to hear squeaking of hinges and splintering of wood.
+0009_Forrest_Gump_00.29.31.640-00.29.32.929 	the band motions for forrest to stop and stay in the end zone.
+0010_Frau_Ohne_Gewissen_00.04.01.565-00.04.02.498 	for a moment he stays like this, exhausted, then his eyes open slowly and look down at his left shoulder.
+0011_Gandhi_00.03.04.840-00.03.06.994 	apte and karkare move to different sides of godse, staying a little behind, their movements sly and wary, aware of people watching.
+0012_Get_Shorty_00.02.40.347-00.02.41.706 	chili stares straight ahead, rubs his hands together, tries to stay warm.
+0016_O_Brother_Where_Art_Thou_00.43.48.854-00.43.51.550 	pete's eyes stay glued on the women as he hisses out of the corner of his mouth.
+0019_Pulp_Fiction_01.21.19.643-01.21.31.365 	we stay on fabienne as she brushes her teeth.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.01.16.373-01.01.26.380 	sam watches a sleeping gollum suspiciously as he desperately tries to stay awake.
+0026_The_Big_Fish_00.18.49.216-00.18.53.724 	as he leaves frame, we stay behind to look inside.
+0026_The_Big_Fish_00.45.27.301-00.45.28.813 	we stay with edward in bed.
+0026_The_Big_Fish_01.02.34.438-01.02.35.354 	she stays in the doorway for a few beats, feeling genuinely horrible for what's happened.
+0026_The_Big_Fish_01.41.01.548-01.41.05.198 	with that last job done, there's no reason for him to be staying any longer.
+0026_The_Big_Fish_01.48.46.626-01.48.51.208 	we stay on will and his father for a long time, then will takes his pen and starts making a list.
+0028_The_Crying_Game_01.27.38.902-01.27.40.293 	he lets them stay there.
+0029_The_Graduate_00.43.00.631-00.43.03.285 	he stays on top of her for a moment.
+0030_The_Hustler_00.58.46.668-00.58.49.768 	we stay on eddie, who examines the lighter in his hand.
+0030_The_Hustler_01.02.17.659-01.02.18.987 	eddie signals her to stay where she is.
+0032_The_Princess_Bride_00.03.13.247-00.03.17.803 	she leaves; his eyes stay on her.
+0032_The_Princess_Bride_00.03.18.919-00.03.21.277 	she stops, turns--he manages to look away as now her eyes stay on him.
+0049_Hannah_and_her_sisters_00.02.49.173-00.02.52.759 	the camera stays with elliot, who is still watching the offscreen lee.
+0049_Hannah_and_her_sisters_00.10.57.839-00.11.00.586 	the camera stays with frederick as he walks into the loft's bedroom area.
+0049_Hannah_and_her_sisters_00.28.50.755-00.28.56.410 	the camera stays on his face as he looks off into the distance, mouthing indistinctly the line of poetry lee next reads.
+0050_Indiana_Jones_and_the_last_crusade_00.02.47.968-00.02.54.428 	the boys approach cautiously, careful to stay hidden.
+1001_Flight_00.31.12.117-00.31.29.987 	craig takes his recorder and leaves with the others, but charlie stays back.
+1005_Signs_00.54.25.994-00.54.29.713 	ray, the asian man who stayed in town, sits with one hand clamped to the steering wheel, rocking nervously and staring numbly ahead.
 1012_Unbreakable_00.42.33.166-00.42.39.645 	using his stick and hanging onto the rail, elijah tries to stay balanced, but his feet don't land accurately.
 1015_27_Dresses_01.36.54.678-01.36.57.425 	she takes a flying leap onto the deck, just managing to stay upright.
-1030_Public_Enemies_01.28.28.679-01.28.34.346 	now racing along a forested hillside, red stays close behind dillinger.
 1035_The_Adjustment_Bureau_00.08.13.571-00.08.17.587 	her unblinking eyes stay on him.
 1035_The_Adjustment_Bureau_00.55.10.611-00.55.14.081 	he easily stays ahead, running backward.
-1035_The_Adjustment_Bureau_01.13.20.149-01.13.22.798 	harry's gaze stays trained ahead.
-1038_The_Great_Gatsby_01.59.13.499-01.59.15.311 	nick stays at the top.
+1035_The_Adjustment_Bureau_01.35.47.039-01.35.54.176 	staying close by her love, the dancer brings her fingers to her lips then lays them over her heart.
 1046_Australia_00.42.18.134-00.42.23.993 	daisy is about to get in with the boy, but has to duck down and stay on the ladder to avoid being seen as the truck comes to a halt.
 1049_Harry_Potter_and_the_chamber_of_secrets_00.56.12.000-00.56.14.494 	determined to stay ahead, draco grits his teeth.
-1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.14.12.097-01.14.17.676 	ron stays glued to the radio.
+1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.59.28.154-00.59.30.942 	harry stays back himself.
 1057_Seven_pounds_01.37.32.000-01.37.36.075 	a candle flame flickers in a struggle to stay alight.
 1060_Yes_man_00.57.48.888-00.57.52.132 	they stay locked in an embrace and sink to the floor.
-1062_Day_the_Earth_stood_still_01.32.47.456-01.32.49.823 	the swarm stays outside.
 2005_Signs_01.01.23.579-01.01.25.579 	he stays like that for a long time.
 2005_Signs_01.13.23.537-01.13.25.271 	graham's eyes stay locked on the crops which go on and on into darkness.
 2012_Unbreakable_01.37.37.104-01.37.47.301 	elijah's large eyes stay focused on the customer's as he finishes negotiating.
 2026_Legion_00.55.53.314-00.55.56.874 	on the other side of the roof, bob keeps watch, struggling to stay awake.
-1057_Seven_pounds_01.37.32.000-01.37.36.075 	a candle flame flickers in a struggle to stay alight.
-1060_Yes_man_00.57.48.888-00.57.52.132 	they stay locked in an embrace and sink to the floor.
-1062_Day_the_Earth_stood_still_01.32.47.456-01.32.49.823 	the swarm stays outside.
-2005_Signs_01.01.23.579-01.01.25.579 	he stays like that for a long time.
-2005_Signs_01.13.23.537-01.13.25.271 	graham's eyes stay locked on the crops which go on and on into darkness.
-2012_Unbreakable_01.37.37.104-01.37.47.301 	elijah's large eyes stay focused on the customer's as he finishes negotiating.
-2026_Legion_00.55.53.314-00.55.56.874 	on the other side of the roof, bob keeps watch, struggling to stay awake.
+2034_Super_8_01.18.26.256-01.18.31.251 	staying hidden from the remaining military, donny scrambles for his cb, turns to channel 9, grabs the mike, speaks quietly, frantic.
 2034_Super_8_01.32.03.228-01.32.06.573 	joe and cary would scream if they didn't need to stay quiet.
+2034_Super_8_01.32.45.194-01.32.49.342 	stay with cary, who opens his backpack, starts pulling out his amazing array of explosives, glancing up to make sure he's out of the creature's view.

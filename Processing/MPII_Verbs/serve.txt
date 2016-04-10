@@ -1,26 +1,26 @@
-0001_American_Beauty_00.23.58.863-00.24.01.368 	As she attempts to serve him bacon.
-0001_American_Beauty_00.24.04.556-00.24.09.247 	Ricky serves himself scrambled eggs from another pan, then joins his father at the table.
-0001_American_Beauty_00.30.14.054-00.30.14.967 	Catering waiters serve hors d'eouvres.
-0001_American_Beauty_01.06.16.785-01.06.40.028 	Lester gets up, crosses to the other side of the table to get a PLATE OF ASPARAGUS, then sits again as he serves himself.
-0007_DIE_NACHT_DES_JAEGERS_00.13.24.550-00.13.26.018 	WILLA'S face is seen within; serving a customer, she sees them and waves them away.
-0009_Forrest_Gump_01.42.53.481-01.42.59.559 	A door opens as a white woman serves Bubba's mom some shrimp.
-0009_Forrest_Gump_02.10.34.246-02.10.35.843 	Forrest Jr. serves the ball, causing Forrest dive and miss it.
-0010_Frau_Ohne_Gewissen_00.22.21.096-00.22.25.831 	Shooting past Neff sitting behind the wheel of his car The car hop hangs a tray on the door and serves him a bottle of beer.
-0011_Gandhi_00.36.25.357-00.36.26.130 	As Gandhi near the two stone blocks that hold the large barrels of soup, he sees that Khan is serving from one of them.
-0011_Gandhi_01.07.48.683-01.07.52.113 	The camera pulls back to reveal a lush, verdant pitch, white-garbed players, English, a few ladies dressed in First World War fashion watching under parasols near the clubhouse and in the shade of trees with a few officers and civil servants, while Indian servants discreetly serve cool drinks.
-0014_Ist_das_Leben_nicht_schoen_00.17.02.440-00.17.05.009 	Annie stops serving to hear his answer.
+0001_American_Beauty_00.23.58.863-00.24.01.368 	as she attempts to serve him bacon.
+0001_American_Beauty_00.30.14.054-00.30.14.967 	catering waiters serve hors d'eouvres.
+0001_American_Beauty_01.06.16.785-01.06.40.028 	lester gets up, crosses to the other side of the table to get a plate of asparagus, then sits again as he serves himself.
+0007_DIE_NACHT_DES_JAEGERS_00.13.24.550-00.13.26.018 	willa's face is seen within; serving a customer, she sees them and waves them away.
+0009_Forrest_Gump_01.42.53.481-01.42.59.559 	a door opens as a white woman serves bubba's mom some shrimp.
+0009_Forrest_Gump_02.10.34.246-02.10.35.843 	forrest jr. serves the ball, causing forrest dive and miss it.
+0010_Frau_Ohne_Gewissen_00.22.21.096-00.22.25.831 	shooting past neff sitting behind the wheel of his car the car hop hangs a tray on the door and serves him a bottle of beer.
+0011_Gandhi_00.36.25.357-00.36.26.130 	as gandhi near the two stone blocks that hold the large barrels of soup, he sees that khan is serving from one of them.
+0011_Gandhi_01.07.48.683-01.07.52.113 	the camera pulls back to reveal a lush, verdant pitch, white-garbed players, english, a few ladies dressed in first world war fashion watching under parasols near the clubhouse and in the shade of trees with a few officers and civil servants, while indian servants discreetly serve cool drinks.
+0014_Ist_das_Leben_nicht_schoen_00.17.02.440-00.17.05.009 	annie stops serving to hear his answer.
 0014_Ist_das_Leben_nicht_schoen_01.15.20.487-01.15.24.740 	pushcart, is serving coffee and doughnuts to men leaning from the train.
-0019_Pulp_Fiction_00.43.27.999-00.43.30.492 	Pointing at Marilyn in the white dress serving a table.
-0019_Pulp_Fiction_01.26.23.033-01.26.32.838 	Butch lowers his voice, which only serves to make him more menacing.
-0021_Rear_Window_00.26.24.720-00.26.28.240 	Lisa is emerging from the kitchen, carrying the serving dish of their lobster thermidor.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_03.00.07.479-03.00.11.384 	ANGLE ON: ROSIE COTTON who is serving behind the BAR.
-0026_The_Big_Fish_00.41.39.902-00.41.50.469 	As Will scoops out another serving of potatoes, Edward suddenly speaks.
-0033_Amadeus_00.12.27.020-00.12.31.499 	Mother Salieri is serving the fish into portions and handing them round.
-0033_Amadeus_00.26.54.684-00.26.55.399 	A somber room which serves both as a bedroom and a study.
-0049_Hannah_and_her_sisters_00.08.19.377-00.08.19.875 	Mavis reenters the dining room to serve more food to the children.
-0049_Hannah_and_her_sisters_00.18.57.562-00.19.01.567 	April, holding the Stroganoff, dashes out of the kitchen to serve the party guests.
-0049_Hannah_and_her_sisters_00.33.12.433-00.33.16.852 	Mickey walks from the kitchen into the living room, holding a half-eaten chocolate cake on a serving plate.
-0053_Rendezvous_mit_Joe_Black_00.25.06.635-00.25.09.108 	As Coyle serves him, Parrish turns to Luisa.
+0017_Pianist_00.27.02.568-00.27.11.403 	the family sit round the small table as mother comes with a saucepan of soup and starts to serve.
+0019_Pulp_Fiction_00.43.27.999-00.43.30.492 	pointing at marilyn in the white dress serving a table.
+0019_Pulp_Fiction_01.26.23.033-01.26.32.838 	butch lowers his voice, which only serves to make him more menacing.
+0021_Rear_Window_00.26.24.720-00.26.28.240 	lisa is emerging from the kitchen, carrying the serving dish of their lobster thermidor.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_03.00.07.479-03.00.11.384 	angle on: rosie cotton who is serving behind the bar.
+0026_The_Big_Fish_00.41.39.902-00.41.50.469 	as will scoops out another serving of potatoes, edward suddenly speaks.
+0033_Amadeus_00.12.27.020-00.12.31.499 	mother salieri is serving the fish into portions and handing them round.
+0033_Amadeus_00.26.54.684-00.26.55.399 	a somber room which serves both as a bedroom and a study.
+0049_Hannah_and_her_sisters_00.08.19.377-00.08.19.875 	mavis reenters the dining room to serve more food to the children.
+0049_Hannah_and_her_sisters_00.18.57.562-00.19.01.567 	april, holding the stroganoff, dashes out of the kitchen to serve the party guests.
+0049_Hannah_and_her_sisters_00.33.12.433-00.33.16.852 	mickey walks from the kitchen into the living room, holding a half-eaten chocolate cake on a serving plate.
+0053_Rendezvous_mit_Joe_Black_00.25.06.635-00.25.09.108 	as coyle serves him, parrish turns to luisa.
 1011_The_Help_01.49.41.233-01.49.51.677 	at the lunch following the medal ceremony, constantine is serving each lady in turn, under charlotte's rather anxious gaze.
 1011_The_Help_02.08.44.296-02.08.58.008 	as celia serves up, minnie looks admiringly at the spread in front of her.
 1017_Bad_Santa_00.08.22.177-00.08.28.909 	the barmaid serves them.
@@ -35,5 +35,4 @@
 1038_The_Great_Gatsby_00.08.56.217-00.08.59.725 	later, dinner is served at a long table on the terrace.
 1041_This_is_40_01.34.10.560-01.34.12.747 	pete and charlotte sit at the table as debbie serves the chicken.
 1044_Pride_And_Prejudice_Disk_Two_01.26.13.852-01.26.18.713 	as the innkeeper leads him, a serving boy comes out with tankards full of ale.
-2027_Les_Miserables_00.49.46.413-00.49.47.533 	thenardier is pissing into the very wine bottle he's using to serve the customer.
 2027_Les_Miserables_00.49.46.413-00.49.47.533 	thenardier is pissing into the very wine bottle he's using to serve the customer.

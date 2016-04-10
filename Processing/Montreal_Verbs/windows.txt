@@ -1,0 +1,8 @@
+INSIDE_MAN.srt 	INSIDE_MAN_DVS330 	01:36:51,00 --> 01:36:57,50 	in the lobby, they warily face the teller windows.
+PROMETHEUS.srt 	PROMETHEUS_DVS176 	00:12:14,00 --> 00:12:24,50 	from the nose, outer panels part giving view through the glass windows to a pale gray planet floating amidst a sea of stars.
+PROMETHEUS.srt 	PROMETHEUS_DVS272 	00:26:14,00 --> 00:26:22,50 	on board someone, holloway rushes to the front windows, while someone follows warily.
+PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS451 	01:27:11,00 --> 01:27:17,50 	an adjacent windows shows a gangster taking aim.
+THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS643 	01:32:36,00 --> 01:32:42,50 	as he pushes open the curtains on the front windows,
+THE_VOW.srt 	THE_VOW_DVS140 	00:14:31,00 --> 00:14:37,50 	sunlight glows through the studio windows as someone lies asleep face down on someones chest.
+THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS300 	00:54:52,00 --> 00:55:03,50 	he swings away, leaving the kids staring from the bunker windows.
+WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS148 	00:25:34,00 --> 00:25:45,50 	she moves along the dingy windows, continuing to wave as she watches them drive on.

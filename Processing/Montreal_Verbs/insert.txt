@@ -1,0 +1,24 @@
+A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS655 	01:07:22,00 --> 01:07:29,50 	in the vault, someone inserts the cylinder key into a lock at the back of the box.
+A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS658 	01:07:34,00 --> 01:07:40,50 	inserting it further, someone turns the cylinder clockwise,
+BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS77 	00:11:29,00 --> 00:11:34,50 	someone inserts the drive into a laptop.
+CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS558 	01:37:27,00 --> 01:37:37,50 	in the cockpit, someone inserts the canister containing the blue energy source into a large mechanism, then climbs into the pilot's seat.
+CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS542 	02:07:45,00 --> 02:07:52,50 	the corner men insert each fighter's mouthpieces.
+COLOMBIANA.srt 	COLOMBIANA_DVS216 	00:18:30,00 --> 00:18:39,50 	his older colleague watches in disbelief as he cleans it off and places it in a disk which he then inserts into his computer.
+DISTRICT_9.srt 	DISTRICT_9_DVS667 	01:17:57,00 --> 01:18:11,50 	he inserts his alien hand into one, and a holographic screen appears before his eyes.
+HUGO.srt 	HUGO_DVS214 	00:31:50,00 --> 00:31:56,50 	someone picks up the mouse, inserts a key, and winds it up.
+HUGO.srt 	HUGO_DVS238 	00:34:30,00 --> 00:34:38,50 	in the attic, someone inserts the repaired mechanism into the automaton's chest cavity and locks it into place.
+HUGO.srt 	HUGO_DVS320 	00:49:51,00 --> 00:49:56,50 	he inserts the heart-shaped key into the lock.
+IN_TIME.srt 	IN_TIME_DVS240 	00:24:57,00 --> 00:25:01,50 	someone inserts his wrist.
+IN_TIME.srt 	IN_TIME_DVS971 	01:42:12,00 --> 01:42:23,50 	they share a look and someone inserts a magazine clip into a gun.
+INSIDE_MAN.srt 	INSIDE_MAN_DVS202 	00:57:54,00 --> 00:58:11,50 	as she inserts a key into box 392, someone joins her.
+IRON_MAN_2.srt 	IRON_MAN_2_DVS266 	00:49:04,00 --> 00:49:09,50 	someone inserts palladium into the reactor and hands it to someone.
+IRON_MAN_2.srt 	IRON_MAN_2_DVS267 	00:49:09,00 --> 00:49:14,50 	someone inserts the reactor into his own chest.
+IRON_MAN_2.srt 	IRON_MAN_2_DVS468 	01:25:33,00 --> 01:25:40,50 	later wearing goggles, someone inserts a prism into the accelerator and activates it.
+KNOCKED_UP.srt 	KNOCKED_UP_DVS55 	00:33:28,00 --> 00:33:37,50 	smiles indulgently as the doctor forces a smile and inserts the wand.
+PROMETHEUS.srt 	PROMETHEUS_DVS380 	00:38:05,00 --> 00:38:14,50 	as someone studies the carved symbols in the wall, someone inserts a probe from the carbon reader into the alien being.
+PROMETHEUS.srt 	PROMETHEUS_DVS451 	00:47:34,00 --> 00:47:42,50 	she inserts it behind the engineer's ear, taps a few commands on a tablet, and waits.
+SALT.srt 	SALT_DVS40 	00:08:11,00 --> 00:08:23,50 	someone picks up a pack of cigarettes and an ashtray then inserts a small radio receiver into her ear.
+THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS69 	00:23:29,00 --> 00:23:34,50 	he inserts an audio cd.
+THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS200 	01:05:54,00 --> 01:05:58,50 	someone inserts another cd.
+THE_WATCH.srt 	THE_WATCH_DVS202 	00:36:30,00 --> 00:36:37,50 	someone inserts his finger.
+YOUNG_ADULT.srt 	YOUNG_ADULT_DVS60 	00:08:08,00 --> 00:08:16,50 	driving a red mini cooper, she pulls to a stop, takes out the cassette tape, and inserts it into a dashboard player.

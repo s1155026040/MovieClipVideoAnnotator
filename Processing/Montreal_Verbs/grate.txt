@@ -1,0 +1,3 @@
+A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS460 	00:44:40,00 --> 00:44:45,50 	at a window, someone lifts the grated lid from a wooden radiator encasement.
+IN_TIME.srt 	IN_TIME_DVS490 	00:53:12,00 --> 00:53:17,50 	it rises, revealing an additional grated gate behind it.
+THE_VOW.srt 	THE_VOW_DVS275 	00:35:58,00 --> 00:36:07,50 	at the apartment, someone slides aside a grated door, protecting shelves of records, books, and dvds.

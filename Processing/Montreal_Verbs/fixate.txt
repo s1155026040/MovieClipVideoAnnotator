@@ -1,0 +1,3 @@
+LAND_OF_THE_LOST.srt 	LAND_OF_THE_LOST_DVS186 	01:06:19,00 --> 01:06:26,50 	the guys lift their heads, fixated on the creature.
+LIFE_OF_PI.srt 	LIFE_OF_PI_DVS1031 	01:40:38,00 --> 01:40:44,50 	his eyes fixate on it as he spins it between his hands.
+THE_CALL.srt 	THE_CALL_DVS487 	00:37:41,00 --> 00:37:50,50 	his teeth clink together as he fixates on the red stop light.

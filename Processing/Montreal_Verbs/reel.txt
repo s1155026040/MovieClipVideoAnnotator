@@ -1,0 +1,4 @@
+JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS554 	01:49:30,00 --> 01:49:35,50 	her eyelids flutter as she reels ecstatically.
+LIFE_OF_PI.srt 	LIFE_OF_PI_DVS343 	00:41:55,00 --> 00:42:05,50 	the lights of the capsizing ship twinkle and pulse in the distance as someone uses a line to reel in the drowning figure.
+LIFE_OF_PI.srt 	LIFE_OF_PI_DVS544 	00:58:51,00 --> 00:58:57,50 	tugging hand over hand, he reels the boat closer.
+LIFE_OF_PI.srt 	LIFE_OF_PI_DVS608 	01:06:29,00 --> 01:06:36,50 	grabbing the tether, he tugs hand over fist to reel himself toward the boat.

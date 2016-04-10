@@ -1,0 +1,2 @@
+PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS223 	00:54:11,00 --> 00:54:19,50 	the reunited family enters the auditorium as the orchestra tunes up.
+YOUNG_ADULT.srt 	YOUNG_ADULT_DVS241 	00:46:06,00 --> 00:46:12,50 	tuning an electric guitar, a red-haired woman, turns to the dark-haired bassist.

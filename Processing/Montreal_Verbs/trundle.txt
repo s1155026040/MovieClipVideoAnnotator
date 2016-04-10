@@ -1,0 +1,5 @@
+COLOMBIANA.srt 	COLOMBIANA_DVS1100 	01:44:05,00 --> 01:44:11,50 	the bus trails billows of exhaust as it trundles into the distance.
+DEAR_JOHN.srt 	DEAR_JOHN_DVS472 	01:09:25,00 --> 01:09:32,50 	later, a convoy of military vehicles trundles down a dirt road.
+KARATE_KID.srt 	KARATE_KID_DVS446 	00:40:02,00 --> 00:40:09,50 	he turns as a motorcycle cab trundles closer on a parallel course.
+PROMETHEUS.srt 	PROMETHEUS_DVS968 	01:46:47,00 --> 01:46:56,50 	as someone and someone desperately try to outrun the trundling vessel, fiery chunks of someone strike the ground all around them.
+XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS573 	00:54:07,00 --> 00:54:14,50 	as a truck trundles down a road into a thick barrier of trees bordering the estate,

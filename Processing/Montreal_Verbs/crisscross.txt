@@ -1,0 +1,4 @@
+DISTRICT_9.srt 	DISTRICT_9_DVS486 	00:56:48,00 --> 00:57:04,50 	as the human stands, he surveys the tangles of wires crisscrossing out of electronics and over the walls.
+GREEN_ZONE.srt 	GREEN_ZONE_DVS348 	01:18:48,00 --> 01:19:14,50 	scant light and shadows crisscrossing the street play across someone's face as he advances.
+SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS223 	00:15:33,00 --> 00:15:40,50 	crisscrossed bandages around someone's ankles hold her bindings tight.
+THE_CALL.srt 	THE_CALL_DVS981 	01:15:23,00 --> 01:15:30,50 	haphazardly nailed slats of wood crisscross the openings between support beams.

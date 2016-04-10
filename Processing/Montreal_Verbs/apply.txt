@@ -1,0 +1,14 @@
+ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS196 	00:26:47,00 --> 00:26:56,50 	in the general store, someone uses a hand mirror as he applies sap to a swollen bruise on his cheek.
+BURLESQUE.srt 	BURLESQUE_DVS104 	00:12:41,00 --> 00:12:47,50 	she finds someone applying makeup at a mirror and leans over her shoulder.
+BURLESQUE.srt 	BURLESQUE_DVS286 	00:39:20,00 --> 00:39:25,50 	she applies color to someone's lids.
+BURLESQUE.srt 	BURLESQUE_DVS288 	00:39:54,00 --> 00:40:00,50 	someone uses a large soft brush to apply rouge to someone's cheeks.
+KATY_PERRY_PART_OF_ME.srt 	KATY_PERRY_PART_OF_ME_DVS308 	01:11:12,00 --> 01:11:19,50 	bradford stands and moves aside as someone begins applying someone's makeup.
+PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS500 	01:34:23,00 --> 01:34:27,50 	he applies gauze to the wound.
+SALT.srt 	SALT_DVS118 	00:22:25,00 --> 00:22:48,50 	special skills: close quarter combat, applied explosive techniques.
+SALT.srt 	SALT_DVS229 	00:39:20,00 --> 00:39:44,50 	she applies the pad to the injury then tucks it into her waistband.
+SANCTUM.srt 	SANCTUM_DVS524 	01:37:38,00 --> 01:37:45,50 	someone lays his forearm below someone's chin and gently applies pressure.
+SUPER_8.srt 	SUPER_8_DVS85 	00:13:16,00 --> 00:13:22,50 	smiling, someone closes her eyes as someone applies more makeup.
+THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS338 	01:05:48,00 --> 01:06:19,50 	later on the canvas, he uses thick brush strokes to apply streaks of white over the green.
+THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS230 	01:15:16,00 --> 01:15:21,50 	a woman tries to apply makeup to someone.
+THOR.srt 	THOR_DVS26 	00:02:44,00 --> 00:02:57,50 	as the two women wrestle for control, the black-haired woman applies the brakes.
+YOUNG_ADULT.srt 	YOUNG_ADULT_DVS344 	01:07:00,00 --> 01:07:06,50 	she applies lipstick, puts on pearl earrings.

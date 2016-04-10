@@ -1,0 +1,5 @@
+INSIDE_MAN.srt 	INSIDE_MAN_DVS290 	01:29:13,00 --> 01:29:17,50 	he imagines the robber shooting
+RUBY_SPARKS.srt 	RUBY_SPARKS_DVS88 	00:15:09,00 --> 00:15:16,50 	he imagines someone on roller skates.
+RUBY_SPARKS.srt 	RUBY_SPARKS_DVS90 	00:15:49,00 --> 00:15:54,50 	he imagines her riding a bicycle.
+SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1439 	01:37:40,00 --> 01:37:47,50 	someone gazes out into a balcony where she imagines someone and someone at a table doing embroidery together.
+WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS623 	01:32:34,00 --> 01:32:42,50 	someone imagines her opening her eyes, her chest rises and falls beneath the sheet.

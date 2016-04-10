@@ -1,0 +1,4 @@
+MORNING_GLORY.srt 	MORNING_GLORY_DVS288 	01:02:23,00 --> 01:02:29,50 	she shrugs at him and he mocks her gesture.
+THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS66 	00:14:19,00 --> 00:14:27,50 	someone mocks an optimistic smile, then looks pointedly in someone's direction.
+THE_VOW.srt 	THE_VOW_DVS81 	00:07:04,00 --> 00:07:11,50 	holding it up, she purses her lips and mocks a seductive expression.
+THE_WATCH.srt 	THE_WATCH_DVS87 	00:11:13,00 --> 00:11:19,50 	the mascot mocks him, rubbing his eyes.

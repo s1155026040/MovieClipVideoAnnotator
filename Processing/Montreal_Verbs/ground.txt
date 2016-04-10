@@ -1,0 +1,5 @@
+EASY_A.srt 	EASY_A_DVS35 	00:08:50,00 --> 00:09:04,50 	our view dashes across the school grounds to a guy on a cellphone.
+IRON_MAN_2.srt 	IRON_MAN_2_DVS557 	01:38:31,00 --> 01:38:44,50 	the drones on the expo grounds stand on steps and fire missiles at people as they run away.
+IRON_MAN_2.srt 	IRON_MAN_2_DVS605 	01:44:10,00 --> 01:44:16,50 	above the expo grounds, someone flies alone.
+KATY_PERRY_PART_OF_ME.srt 	KATY_PERRY_PART_OF_ME_DVS302 	01:10:40,00 --> 01:10:46,50 	outside fans pack the concert grounds.
+UGLY_TRUTH.srt 	UGLY_TRUTH_DVS620 	01:23:00,00 --> 01:23:13,50 	an assistant feeds a cable out from a news van, as a cameraman paces toward someone, who stands by a grounded balloon.

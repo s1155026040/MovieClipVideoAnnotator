@@ -1,0 +1,6 @@
+ROBIN_HOOD.srt 	ROBIN_HOOD_DVS278 	01:06:23,00 --> 01:06:47,50 	curtains separate it from a sitting area in front of a fireplace where someone tosses bedding to the floor and eyes the archer haughtily.
+THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS81 	00:15:53,00 --> 00:16:20,50 	in the bedroom, he lounges on someone's bed - his muddy shoes on her duvet.
+THOR.srt 	THOR_DVS268 	00:36:06,00 --> 00:36:13,50 	the truck's tires spin in the loose soil until the truck bed breaks off and flips backwards.
+TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS746 	01:21:50,00 --> 01:21:58,50 	the winged man leans forward, resting his elbows the side of tess' bed as he gazes tenderly at her.
+TRUE_GRIT.srt 	TRUE_GRIT_DVS123 	00:32:35,00 --> 00:32:42,50 	wearing dirty combinations, someone lies on the scruffy bed staring at someone.
+TRUE_GRIT.srt 	TRUE_GRIT_DVS128 	00:33:33,00 --> 00:33:38,50 	someone goes to someones bed.

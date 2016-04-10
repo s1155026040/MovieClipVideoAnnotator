@@ -1,2 +1,2 @@
-0051_Men_in_black_00.38.03.020-00.38.03.860 	Kay punches a couple keys, and the cursor begins to sweep from right to left, starting to eliminate the rightmost letters of Edwards's name.
-0051_Men_in_black_00.38.05.307-00.38.05.578 	More letters are eliminated from his name.
+0051_Men_in_black_00.38.03.020-00.38.03.860 	kay punches a couple keys, and the cursor begins to sweep from right to left, starting to eliminate the rightmost letters of edwards's name.
+0051_Men_in_black_00.38.05.307-00.38.05.578 	more letters are eliminated from his name.

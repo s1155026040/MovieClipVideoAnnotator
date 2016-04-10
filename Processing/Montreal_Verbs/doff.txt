@@ -1,0 +1,15 @@
+BURLESQUE.srt 	BURLESQUE_DVS110 	00:14:39,00 --> 00:14:48,50 	so she doffs her brown-leather jacket and grabs an empty tray from the bar.
+BURLESQUE.srt 	BURLESQUE_DVS216 	00:31:50,00 --> 00:31:56,50 	as she doffs her jean jacket, she keeps watching.
+KARATE_KID.srt 	KARATE_KID_DVS40 	00:03:40,00 --> 00:03:46,50 	he doffs his jacket and takes a seat.
+LARRY_CROWNE.srt 	LARRY_CROWNE_DVS161 	00:37:51,00 --> 00:38:02,50 	seated at his kitchen island he looks to the front door and doffs his glasses.
+LARRY_CROWNE.srt 	LARRY_CROWNE_DVS182 	00:43:09,00 --> 00:43:17,50 	someone doffs his glasses and beams.
+LARRY_CROWNE.srt 	LARRY_CROWNE_DVS201 	00:46:32,00 --> 00:46:36,50 	he doffs his glasses.
+NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS174 	00:39:38,00 --> 00:39:43,50 	someone blinks thoughtfully, then doffs his mask.
+PROMETHEUS.srt 	PROMETHEUS_DVS60 	00:03:25,00 --> 00:03:30,50 	he doffs his cloak.
+PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS481 	01:31:11,00 --> 01:31:17,50 	lead agent doffs his hat and crouches down to his fading colleague.
+SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS227 	00:43:54,00 --> 00:43:59,50 	doffing his hat, someone steps forward.
+THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS173 	00:35:05,00 --> 00:35:16,50 	leaning him against the door jam, she doffs her coat.
+THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS670 	01:13:25,00 --> 01:13:32,50 	he pours someone a glass of scotch then doffs his glasses and pours one for himself.
+UGLY_TRUTH.srt 	UGLY_TRUTH_DVS383 	00:45:52,00 --> 00:45:58,50 	someone takes his earpiece out and doffs his ball cap.
+WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS239 	00:39:45,00 --> 00:39:51,50 	someone doffs his reading glasses and rests his head in his hands.
+ZOMBIELAND.srt 	ZOMBIELAND_DVS371 	00:42:11,00 --> 00:42:17,50 	he waves at her through a mirror and she waves back then doffs the hat.

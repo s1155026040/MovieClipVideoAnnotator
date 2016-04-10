@@ -1,20 +1,19 @@
-0002_As_Good_As_It_Gets_00.21.28.632-00.21.29.664 	Melvin stops -- she passes behind him to deliver an uncharacteristic rabbit punch.
-0009_Forrest_Gump_01.42.39.543-01.42.40.164 	A postman delivers a letter to Bubba's mom.
-0016_O_Brother_Where_Art_Thou_00.53.29.036-00.53.29.278 	Big Dan takes a break from whacking at Delmar to deliver a blow to Everett.
-0016_O_Brother_Where_Art_Thou_01.04.05.470-01.04.14.137 	Waldrip adapts a Marquess of Queensbury stance and prances about, delivering stinging punches to the nose of a stunned and outclassed Everett.
-0029_The_Graduate_00.23.07.301-00.23.09.942 	Mr. Braddock is running back and forth, clapping his hands and delivering his now soundless pitch.
-0046_Chasing_Amy_01.17.48.984-01.17.50.228 	ON THE ICE - Player One delivers the kill shot, slamming his fist into Player Two's nose.
-0050_Indiana_Jones_and_the_last_crusade_00.12.59.784-00.13.03.244 	A sailor delivers a powerful blow to Indy's face, sending the cross flying out of his grip and skittering across the deck.
-0050_Indiana_Jones_and_the_last_crusade_00.38.02.283-00.38.06.207 	Indy finally delivers the punch that sends the Turkish Agent flying overboard.
-1003_How_to_Lose_Friends_and_Alienate_People_00.36.46.962-00.36.48.360 	A woman delivers a basket of flowers to Lawrence.
-1006_Slumdog_Millionaire_01.07.22.672-01.07.25.777 	Jamal rushes around, delivering tea to the call center workers.
+0002_As_Good_As_It_Gets_00.21.28.632-00.21.29.664 	melvin stops -- she passes behind him to deliver an uncharacteristic rabbit punch.
+0009_Forrest_Gump_01.42.39.543-01.42.40.164 	a postman delivers a letter to bubba's mom.
+0016_O_Brother_Where_Art_Thou_00.53.29.036-00.53.29.278 	big dan takes a break from whacking at delmar to deliver a blow to everett.
+0016_O_Brother_Where_Art_Thou_01.04.05.470-01.04.14.137 	waldrip adapts a marquess of queensbury stance and prances about, delivering stinging punches to the nose of a stunned and outclassed everett.
+0029_The_Graduate_00.23.07.301-00.23.09.942 	mr. braddock is running back and forth, clapping his hands and delivering his now soundless pitch.
+0046_Chasing_Amy_01.17.48.984-01.17.50.228 	on the ice - player one delivers the kill shot, slamming his fist into player two's nose.
+0050_Indiana_Jones_and_the_last_crusade_00.12.59.784-00.13.03.244 	a sailor delivers a powerful blow to indy's face, sending the cross flying out of his grip and skittering across the deck.
+0050_Indiana_Jones_and_the_last_crusade_00.38.02.283-00.38.06.207 	indy finally delivers the punch that sends the turkish agent flying overboard.
+1003_How_to_Lose_Friends_and_Alienate_People_00.36.46.962-00.36.48.360 	a woman delivers a basket of flowers to lawrence.
+1006_Slumdog_Millionaire_01.07.22.672-01.07.25.777 	jamal rushes around, delivering tea to the call center workers.
+1015_27_Dresses_00.37.05.377-00.37.12.149 	a large bunch of yellow flowers is delivered.
 1024_Identity_Thief_00.26.48.441-00.26.50.165 	she delivers a swift kick to his crotch.
 1028_No_Reservations_01.39.49.926-01.39.52.712 	she delivers the pancakes to sean, who is with his twin boys.
-1030_Public_Enemies_01.27.20.359-01.27.27.454 	as red delivers covering fire, dillinger hustles to a guest room next store and butts a window with his gun.
 1033_Sherlock_Holmes_A_Game_of_Shadows_01.07.48.253-01.07.53.755 	the cake containing the bomb is being delivered to the hotel by the rough looking man and his identical accomplice.
-1037_The_Curious_Case_Of_Benjamin_Button_00.50.50.638-00.50.53.341 	thomas delivers benjamin to his front gate.
 1040_The_Ugly_Truth_00.58.18.626-00.58.20.555 	a man delivers a bouquet of red roses to abby.
 1042_Up_In_The_Air_00.58.57.898-00.59.01.590 	a courtesy bus delivers the group to the hotel.
 1053_Harry_Potter_and_the_philosophers_stone_00.53.58.000-00.54.24.249 	the graceful birds swoop amongst the carved oak beams and fly from one end of the great hall to the other, delivering letters and parcels to their delighted owners.
-1053_Harry_Potter_and_the_philosophers_stone_00.53.58.000-00.54.24.249 	the graceful birds swoop amongst the carved oak beams and fly from one end of the great hall to the other, delivering letters and parcels to their delighted owners.
+1060_Yes_man_00.40.17.225-00.40.18.608 	a bed is delivered.
 2034_Super_8_00.32.24.390-00.32.26.694 	a waitress is there, delivering more food.

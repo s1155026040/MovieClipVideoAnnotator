@@ -1,0 +1,4 @@
+CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS560 	01:37:47,00 --> 01:38:04,50 	someone runs into the hangar and glances around at the battling hydra troopers and allied soldiers.
+PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS133 	00:31:35,00 --> 00:31:42,50 	someone and someone race off, leaving the mass of battling warriors behind.
+PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS467 	01:51:49,00 --> 01:51:56,50 	our view widens to take in all of the battling demigods on the training field.
+THOR.srt 	THOR_DVS178 	00:24:00,00 --> 00:24:07,50 	spinning like a whirlwind, someone continues to battle frost giants as his friends flee.

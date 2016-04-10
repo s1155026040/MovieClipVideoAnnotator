@@ -1,250 +1,197 @@
-0001_American_Beauty_00.31.52.492-00.31.55.662 	Lester takes his drink and turns to face the center of the room.
-0001_American_Beauty_00.44.24.621-00.44.29.804 	She flips over and faces him.
-0001_American_Beauty_00.54.15.719-00.54.28.530 	Carolyn picks hers up mechanically, but continues to stare at him, enraptured, like a fervent Christian who's just come face to face with Jesus.
-0001_American_Beauty_01.27.12.364-01.27.14.561 	Lester's face darkens, then.
-0001_American_Beauty_01.32.02.290-01.32.04.165 	The Colonel's face tightens.
-0001_American_Beauty_01.41.32.139-01.41.34.415 	The Colonel's face crumples in shame.
-0001_American_Beauty_01.47.58.549-01.48.06.083 	Lester's face falls.
-0002_As_Good_As_It_Gets_00.00.43.459-00.00.43.636 	And now she turns and faces the hallway.
-0002_As_Good_As_It_Gets_00.30.37.259-00.30.38.024 	Simon's face is something of a horror.
-0002_As_Good_As_It_Gets_01.46.04.000-01.46.14.125 	We are ON Simon settling in for sleep, when instinct or sounds or the faint glow of hope turns him so that he faces the bathroom and we have.
-0003_CASABLANCA_00.47.56.629-00.47.58.506 	We now see Rick's face and he's very drunk.
-0003_CASABLANCA_01.00.43.725-01.00.45.432 	Ilsa's face darkens.
-0003_CASABLANCA_01.13.45.758-01.13.45.921 	Yvonne's face is exalted.
-0003_CASABLANCA_01.13.47.134-01.13.48.402 	She deliberately faces the alcove where the Germans are watching.
-0004_Charade_00.10.21.015-00.10.22.375 	A photograph of Charles Lampert lies face up in the drawer.
-0004_Charade_00.17.26.162-00.17.31.660 	He comes face to face with GRANDPIERRE, stops, turns to sit somewhere else.
-0005_Chinatown_00.08.50.318-00.08.53.816 	Moves a little further back as Mulwray rounds the bend in the river and comes face to face with the Mexican boy on the muddy banks.
-0006_Clerks_00.08.10.340-00.08.11.958 	JAY makes blow job faces down an imaginary line of guys, looking quite like a performing seal.
-0007_DIE_NACHT_DES_JAEGERS_00.30.10.708-00.30.13.694 	Her head drops, facing the mirror.
-0007_DIE_NACHT_DES_JAEGERS_00.33.07.693-00.33.12.740 	It lies face down on arbor bricks, its back wide open; money spilling out.
-0007_DIE_NACHT_DES_JAEGERS_00.54.16.961-00.54.22.633 	He grabs BIRDIE'S shoulder; BIRDIE half-rises, and falls face down on floor.
-0007_DIE_NACHT_DES_JAEGERS_01.16.09.519-01.16.11.896 	RUBY collapses face down over RACHEL'S lap and sobs, as we.
-0007_DIE_NACHT_DES_JAEGERS_01.17.38.445-01.17.38.813 	PREACHER'S face twitches with emotion.
-0007_DIE_NACHT_DES_JAEGERS_01.23.34.438-01.23.36.354 	RACHEL gets up, gun at port, and faces into the darkness.
-0007_DIE_NACHT_DES_JAEGERS_01.27.34.204-01.27.43.369 	We PAN RACHEL and CHILDREN past this street and they hurry towards RUBY, who stands alone in BACKGROUND, facing the jail.
-0008_Fargo_00.38.05.714-00.38.09.009 	In the foreground is the head of the state trooper, facing us.
-0008_Fargo_00.58.34.299-00.58.36.819 	Marge and Shep face each other at the other end of the floor in a grimy and cluttered glassed-in cubicle.
-0010_Frau_Ohne_Gewissen_00.40.23.058-00.40.27.808 	During the ensuing low-spoken dialogue, they continue to face the shelves, not looking at each other.
-0010_Frau_Ohne_Gewissen_00.51.41.378-00.51.43.294 	The Dietrichson sedan drives into the shot past CAMERA and parks in the foreground at the outer end of the line, several spaces from the next car, facing away from the CAMERA.
-0010_Frau_Ohne_Gewissen_01.24.19.355-01.24.24.108 	She stops beside him, facing the same way, with a couple of feet separating them.
-0011_Gandhi_00.13.00.933-00.13.05.616 	He takes Gandhi's notes from him, and faces the crowd.
-0011_Gandhi_00.13.36.075-00.13.37.053 	He is facing the crowd.
-0011_Gandhi_00.14.11.453-00.14.12.215 	As he passes the sergeant, the sergeant takes his billy club, and faces the crowd, rapping the club menacingly against his hand.
-0011_Gandhi_00.32.53.496-00.33.21.442 	The car rides on past the factory building out of which it turned, and suddenly mounted police come swinging out from the buildings and face the procession.
+0001_American_Beauty_00.01.37.227-00.01.38.586 	we're looking down at a king-sized bed from overhead: lester burnham lies sleeping amidst expensive bed linens, face down, wearing pajamas.
+0001_American_Beauty_00.31.52.492-00.31.55.662 	lester takes his drink and turns to face the center of the room.
+0001_American_Beauty_00.44.24.621-00.44.29.804 	she flips over and faces him.
+0002_As_Good_As_It_Gets_00.00.43.459-00.00.43.636 	and now she turns and faces the hallway.
+0002_As_Good_As_It_Gets_01.46.04.000-01.46.14.125 	we are on simon settling in for sleep, when instinct or sounds or the faint glow of hope turns him so that he faces the bathroom and we have.
+0003_CASABLANCA_01.13.47.134-01.13.48.402 	she deliberately faces the alcove where the germans are watching.
+0004_Charade_00.10.21.015-00.10.22.375 	a photograph of charles lampert lies face up in the drawer.
+0004_Charade_01.08.04.141-01.08.05.809 	scobie, still dressed in his raincoat, lies face up, his head submerged in the filled tub, the water now pouring over the edge.
+0005_Chinatown_01.11.08.393-01.11.12.490 	gittes' back is to the red faced farmer.
+0005_Chinatown_01.11.32.692-01.11.34.448 	gittes looks up at the red faced farmer.
+0005_Chinatown_01.12.42.833-01.12.49.090 	his wife, the red faced farmer, and the big farmer are there, along with the dog.
+0006_Clerks_00.08.10.340-00.08.11.958 	jay makes blow job faces down an imaginary line of guys, looking quite like a performing seal.
+0007_DIE_NACHT_DES_JAEGERS_00.30.10.708-00.30.13.694 	her head drops, facing the mirror.
+0007_DIE_NACHT_DES_JAEGERS_00.33.07.693-00.33.12.740 	it lies face down on arbor bricks, its back wide open; money spilling out.
+0007_DIE_NACHT_DES_JAEGERS_00.54.16.961-00.54.22.633 	he grabs birdie's shoulder; birdie half-rises, and falls face down on floor.
+0007_DIE_NACHT_DES_JAEGERS_00.54.23.160-00.54.23.749 	he falls face down again.
+0007_DIE_NACHT_DES_JAEGERS_01.16.09.519-01.16.11.896 	ruby collapses face down over rachel's lap and sobs, as we.
+0007_DIE_NACHT_DES_JAEGERS_01.23.34.438-01.23.36.354 	rachel gets up, gun at port, and faces into the darkness.
+0007_DIE_NACHT_DES_JAEGERS_01.27.34.204-01.27.43.369 	we pan rachel and children past this street and they hurry towards ruby, who stands alone in background, facing the jail.
+0008_Fargo_00.38.05.714-00.38.09.009 	in the foreground is the head of the state trooper, facing us.
+0008_Fargo_00.58.34.299-00.58.36.819 	marge and shep face each other at the other end of the floor in a grimy and cluttered glassed-in cubicle.
+0010_Frau_Ohne_Gewissen_00.40.23.058-00.40.27.808 	during the ensuing low-spoken dialogue, they continue to face the shelves, not looking at each other.
+0010_Frau_Ohne_Gewissen_00.51.41.378-00.51.43.294 	the dietrichson sedan drives into the shot past camera and parks in the foreground at the outer end of the line, several spaces from the next car, facing away from the camera.
+0010_Frau_Ohne_Gewissen_01.24.19.355-01.24.24.108 	she stops beside him, facing the same way, with a couple of feet separating them.
+0011_Gandhi_00.09.21.814-00.09.23.200 	facing gandhi are khan, a tall, impressive indian.
+0011_Gandhi_00.13.00.933-00.13.05.616 	he takes gandhi's notes from him, and faces the crowd.
+0011_Gandhi_00.13.36.075-00.13.37.053 	he is facing the crowd.
+0011_Gandhi_00.14.11.453-00.14.12.215 	as he passes the sergeant, the sergeant takes his billy club, and faces the crowd, rapping the club menacingly against his hand.
+0011_Gandhi_00.32.53.496-00.33.21.442 	the car rides on past the factory building out of which it turned, and suddenly mounted police come swinging out from the buildings and face the procession.
+0011_Gandhi_00.33.51.586-00.33.54.895 	and the miners begin to go down, some face up, shielding their faces with their hands, some burying their faces in the earth and covering their heads with their hands.
 0011_Gandhi_00.37.46.715-00.37.50.208 	facing the front of the building).
-0011_Gandhi_00.51.21.290-00.51.27.074 	We see an English clergyman from the Second Class coaches, dipping a toe cautiously into the water, children of some British enlisted soldiers wading, splashing, faces alight with fun.
-0011_Gandhi_00.56.57.267-00.57.00.924 	He puts his glasses on and faces the convention.
-0011_Gandhi_01.16.01.117-01.16.03.428 	The secretary turns it slowly so it is facing him.
-0011_Gandhi_01.22.54.959-01.22.57.899 	Nehru's face is a map of concern, but he manages a small smile of greeting.
-0011_Gandhi_01.31.04.122-01.31.06.943 	Dyer faces him stonily, a seed of panic taking root deep in his gut.
-0011_Gandhi_01.43.11.493-01.43.12.280 	Gandhi sitting facing Patel and Azad, Desai in the background, making notes of the discussion.
-0011_Gandhi_01.53.11.027-01.53.14.037 	Gandhi's face cracks into a tearful grin.
-0011_Gandhi_01.56.17.569-01.56.20.876 	As Gandhi enters, he lowers his glasses, places them on his desk, and rises, facing Gandhi.
-0011_Gandhi_01.56.21.333-01.56.24.069 	The clerk, confused as well as astonished, see the judge standing, facing Gandhi in respect, and dutifully, he too stands.
-0011_Gandhi_02.00.01.208-02.00.04.029 	Across the emptiness of the temple, Ba faces him.
-0011_Gandhi_02.12.53.940-02.12.54.132 	He struggles to his feet, facing the policeman who has struck him.
-0011_Gandhi_02.14.41.342-02.14.41.518 	They face their opposition, unmoving, tense.
-0011_Gandhi_02.14.49.392-02.14.53.072 	The camera pans from them, across a sloping dip in the ground, to a huge group of volunteers lining up to face the police as tautly as the police face them.
-0011_Gandhi_02.20.29.823-02.20.31.960 	He faces Gandhi stiffly.
-0011_Gandhi_02.54.25.369-02.54.26.612 	There are five men facing Gandhi.
-0011_Gandhi_02.55.10.773-02.55.13.613 	Nahari's face is knotted in emotion, half anger, half almost a child's fear -- but there is a wild menace in that instability.
-0012_Get_Shorty_00.29.50.118-00.29.55.594 	Harry waves them right into the two cracked red leather chairs facing the desk.
-0012_Get_Shorty_01.15.29.136-01.15.32.473 	He faces Escobar on the opposite seat.
-0012_Get_Shorty_01.35.46.503-01.35.58.283 	Bones motions with the gun and he turns to face the painting over the sofa.
-0014_Ist_das_Leben_nicht_schoen_00.13.01.221-00.13.02.864 	Gower's face lights up when he sees George.
-0014_Ist_das_Leben_nicht_schoen_00.19.53.289-00.19.56.887 	Violet Bick comes into the scene and turns to face George.
-0014_Ist_das_Leben_nicht_schoen_00.26.54.822-00.26.58.389 	They have stopped walking and now face one another.
-0014_Ist_das_Leben_nicht_schoen_00.28.21.336-00.28.24.786 	We see Mary's face peering out from the leaves.
-0014_Ist_das_Leben_nicht_schoen_00.33.53.440-00.33.56.143 	Potter's face is grim with hatred.
-0014_Ist_das_Leben_nicht_schoen_00.41.40.691-00.41.43.800 	They stop walking and face one another.
-0016_O_Brother_Where_Art_Thou_00.07.21.859-00.07.31.958 	The three convicts, faces upturned, listen raptly to the blind prophet.
-0016_O_Brother_Where_Art_Thou_00.15.00.694-00.15.01.844 	He turns to face us and hollers.
-0016_O_Brother_Where_Art_Thou_00.30.43.494-00.30.45.616 	Various police vehicles have pulled up facing the barn, and armed men, their backs to us, train guns on it, some taking cover on the near side of their parked cars.
-0016_O_Brother_Where_Art_Thou_00.33.36.729-00.33.42.668 	George Nelson, now fully outside and facing the pursuit vehicles, has one hand clamped on the car roof and waves to Delmar with the other.
-0016_O_Brother_Where_Art_Thou_01.07.10.985-01.07.13.675 	Everett's face remains frozen in horrified disbelief, but Delmar finally accepts Pete's corporeal reality.
-0016_O_Brother_Where_Art_Thou_01.14.34.129-01.14.39.151 	At length they stop in perfect formation, still chanting, to face the Imperial Wizard, who stands in front of the burning cross dressed in a red satin robe and hood trimmed with gold.
-0016_O_Brother_Where_Art_Thou_01.14.34.854-01.14.35.127 	The backmost row has stopped, facing away, only a few yards from the bushes that hide Delmar, Pete and Everett.
-0016_O_Brother_Where_Art_Thou_01.23.13.343-01.23.15.032 	Penny and Waldrip are facing the hall with their backs to the stage as the four bearded band members - Everett, Pete, Delmar and Tommy - take their places.
-0017_Pianist_00.40.29.710-00.40.39.686 	Szpilman slips off his bunk, hurries to the door, opens it and comes face to face with a German NCO and soldiers.
-0017_Pianist_01.10.04.705-01.10.08.370 	He takes a swig of vodka and comes face to face with Szpilman.
-0017_Pianist_02.14.05.793-02.14.06.825 	Szpilman faces the German Captain.
-0019_Pulp_Fiction_00.12.38.567-00.13.36.234 	They move a little away from the door, facing each other, still whispering.
-0019_Pulp_Fiction_00.50.33.488-00.50.33.856 	The two just stand face to face looking at each other.
-0019_Pulp_Fiction_01.00.23.188-01.00.25.031 	Jody's face is alive with anticipation.
-0019_Pulp_Fiction_01.20.01.192-01.20.10.625 	Fabienne's face is alone in the frame.
-0020_Raising_Arizona_00.01.15.050-00.01.17.224 	Panning a circle of men who sit facing each other in folding chairs.
-0020_Raising_Arizona_00.03.45.998-00.03.50.539 	Hi faces the same three PAROLE OFFICERS across the same table.
-0020_Raising_Arizona_00.08.07.720-00.08.09.570 	Hi and Ed are seated on folding chairs facing an agent's desk.
-0020_Raising_Arizona_00.16.55.587-00.16.56.489 	The baby, peeping out over her shoulder, is facing the window.
-0020_Raising_Arizona_00.19.58.970-00.20.03.461 	Hi sits at the other corner and Ed sits in a facing chair.
-0020_Raising_Arizona_00.26.44.066-00.26.44.532 	Ed lies in bed facing the wall; we see only the back of her head.
-0020_Raising_Arizona_00.26.54.770-00.26.57.555 	Ed finally turns to face him.
-0020_Raising_Arizona_00.27.16.669-00.27.19.700 	Hi turns to face her.
-0020_Raising_Arizona_00.30.00.374-00.30.02.299 	of a strobe going off as a flash picture is taken: We are looking over Nathan Jr.'s shoulder as he stands at his open front door, facing a battery of press people who stand out on the porch.
-0020_Raising_Arizona_00.38.59.088-00.39.05.434 	Dot faces Hi and Ed across a picnic table covered with grilled hamburgers, rolls, green jello mold, cooler, etc.
-0020_Raising_Arizona_01.03.24.216-01.03.28.470 	Hi's face is set in rigid dismay.
-0020_Raising_Arizona_01.08.03.771-01.08.06.679 	Evelle and the Cashier, a late-middle-aged man (perhaps the proprietor of this small mom-and-pop store) face each other across the check-out counter.
-0020_Raising_Arizona_01.20.04.293-01.20.05.477 	Hi, unaware, is turning to face him, presenting the plank as - the knife is thrown.
-0020_Raising_Arizona_01.20.52.685-01.20.55.408 	Hi's face in the foreground as he desperately seeks escape.
-0020_Raising_Arizona_01.25.13.524-01.25.15.193 	Hi turns to face him.
-0020_Raising_Arizona_01.28.27.471-01.28.28.969 	Glen is leaning out the driver's window of the car talking to the state trooper who stands facing him.
-0020_Raising_Arizona_01.29.36.901-01.29.37.617 	As they face the trailer's front door, all we see of the couple is the backs of their heads.
-0020_Raising_Arizona_01.30.14.491-01.30.18.037 	The elderly couple enter from either side of the camera and stand in the foreground, backs to us, facing the table.
-0021_Rear_Window_00.06.13.589-00.06.15.167 	Each apartment has three windows facing the back, one showing a hallway, one a living room, and the window on the right opening into a bedroom.
-0021_Rear_Window_00.09.00.970-00.09.03.647 	She swings the wheelchair around abruptly to face her.
-0021_Rear_Window_00.14.20.310-00.14.21.566 	The elderly lady is now asleep in her deck chair, her face covered with the Herald Tribune.
-0021_Rear_Window_00.18.01.064-00.18.04.521 	Lisa facing Jeff in the chair.
-0021_Rear_Window_00.24.21.753-00.24.25.491 	She turns to face him, they look into each other's eyes a moment, and she allows herself to be kissed on the lips -- but only long enough so as to attract the attention of the other two men.
-0021_Rear_Window_00.39.08.685-00.39.08.785 	Jeff in his chair, facing the window, Stella beside him.
-0021_Rear_Window_00.49.40.603-00.49.40.803 	The CAMERA is now facing Jeff.
-0021_Rear_Window_00.57.14.572-00.57.15.956 	Jeff's face grows serious.
-0021_Rear_Window_01.07.53.514-01.07.54.843 	Jeff turns around to face the room.
-0021_Rear_Window_01.08.09.180-01.08.13.406 	THE CAMERA CLOSES IN, Lisa stops, faces him.
-0021_Rear_Window_01.51.40.284-01.51.42.718 	The CAMERA PANS past Jeff who is asleep in his wheelchair facing away from the window.
-0023_THE_BUTTERFLY_EFFECT_00.25.36.330-00.25.41.127 	Evan spins to face her.
-0023_THE_BUTTERFLY_EFFECT_00.31.31.654-00.31.39.869 	Color drains from Evan's face as he realizes what he's reading.
-0023_THE_BUTTERFLY_EFFECT_01.36.13.897-01.36.15.913 	Kayleigh turns to face the jeering crowd.
-0023_THE_BUTTERFLY_EFFECT_01.37.38.150-01.37.42.282 	As she casually uses her foot to turn his chair to face her, she pulls out a granola bar and hands it to him.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.29.59.810-00.30.00.447 	Frodo lets out a startled cry, pulls himself free and spins around to face his Assailant.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.46.22.896-00.46.24.939 	He is drawing the ring out of his pocket, with trembling hands.his face fevered and sweating as if in the grip of some terrible INTERNAL STRUGGLE.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.07.10.283-02.07.10.909 	the last.pauses in the middle of the span.he faces the Balrog.staff in one hand.Sword in the other!
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.39.24.444-00.39.27.614 	GANDALF still staring intently as if facing his enemy in person.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.23.15.042-01.23.17.074 	THEODEN lifts EOWYN faces to look into her EYES.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.59.15.564-01.59.18.901 	THEODEN faces his ENEMY.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.23.19.945-02.23.21.571 	his plain HOBBIT face full of compassion.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.36.53.491-02.36.57.561 	he turns to FACE the OTHERS.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.36.57.561-02.37.05.881 	QUIET RESOLVE written on ARAGORN's face as he looks into the EYES of the remaining members of the FELLOWSHIP.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.51.33.156-02.51.44.266 	GANDALF'S face breaks into a smile.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.54.15.556-02.54.26.792 	ARAGORN slowly RISES, turning to face the CROWD, who CHEER and CLAP for their KING.
-0026_The_Big_Fish_00.12.50.813-00.12.52.161 	The Old Woman turns to him slightly, still not facing him.
-0026_The_Big_Fish_00.27.06.681-00.27.08.240 	As the crowd parts, he finds himself face to face with.
-0026_The_Big_Fish_01.28.32.848-01.28.40.545 	Sandra steps out of her sandals and climbs into the tub, facing him.
-0026_The_Big_Fish_01.37.16.234-01.37.21.240 	She turns to face him.
-0026_The_Big_Fish_01.54.06.631-01.54.07.857 	He turns back so his father can face the crowd.
-0027_The_Big_Lebowski_00.12.17.834-00.12.22.902 	The Dude sits facing him as Brandt withdraws.
-0027_The_Big_Lebowski_00.49.11.865-00.49.12.995 	The Dude is shoved in and awkwardly takes a seat facing the rear.
-0027_The_Big_Lebowski_01.24.25.451-01.24.27.193 	The Dude is hurled against the chief's desk, which he bounces off of, to come to rest more or less seated in a facing chair.
-0028_The_Crying_Game_01.28.17.743-01.28.19.785 	She turns on the bed sexily, her face to the mattress.
-0029_The_Graduate_00.41.00.201-00.41.01.964 	A television set, facing the chair, is on.
-0029_The_Graduate_00.41.25.360-00.41.26.861 	Ben is sitting on the bed, leaning against the headboard, watching the television set which is on a stand facing the bed.
-0029_The_Graduate_01.01.46.660-01.01.50.915 	Ben, facing her, keeps moving from side to side, trying to get her to look at him.
-0029_The_Graduate_01.09.49.264-01.09.54.428 	Elaine looks from Ben's face to the crack through which she can see her mother's eyes staring.
-0030_The_Hustler_00.28.51.292-00.28.55.953 	Eddie's face buried in his lap as Charlie massages his back.
-0030_The_Hustler_00.38.10.141-00.38.17.894 	Eddie laughs to himself, puts his hanging bag and cue case on a chair, then turns to face his image in the mirror.
-0030_The_Hustler_00.38.35.320-00.38.43.878 	At one table, facing the lockers, is a young woman, Sarah: a book is open before her, and a cup of coffee, and an ashtray filled with cigarette butts.
-0030_The_Hustler_01.17.49.068-01.17.51.340 	He is completely oblivious to the glowering faces of the group of men who have gathered around the table to watch.
-0030_The_Hustler_01.53.07.122-01.53.11.731 	She is facing away from him but her eyes are open.
-0031_The_Lost_Weekend_00.07.36.692-00.07.38.008 	Don's face relaxes into an innocent grin.
-0031_The_Lost_Weekend_00.42.15.054-00.42.19.350 	She goes towards her parents, her face a little crestfallen.
-0031_The_Lost_Weekend_00.56.02.844-00.56.06.125 	The waiter takes the check which is thrust between his vest and his stiff shirt and puts it face down in front of Don, then hurries on with the tray of drinks.
-0032_The_Princess_Bride_00.22.43.057-00.22.45.335 	And now, with the grace of an Olympian, Inigo flies off the perch, somersaults clean over the Man In Black's head, and lands facing his opponent.
-0032_The_Princess_Bride_00.33.15.626-00.33.16.762 	The Man In Black turns to face him again.
-0032_The_Princess_Bride_00.48.55.903-00.48.56.761 	HUMPERDINCK, whirling to face her.
-0032_The_Princess_Bride_00.48.56.761-00.48.58.482 	WESTLEY, whirling to face her.
-0032_The_Princess_Bride_01.07.24.880-01.07.34.306 	Eyes closed, he faces the grove of trees, starts to talk, his voice low and strange.
-0033_Amadeus_00.52.31.269-00.52.32.508 	A PRIEST faces them.
-0033_Amadeus_00.53.31.099-00.53.38.890 	Salieri's face falls, almost imperceptibly.
-0033_Amadeus_01.00.29.307-01.00.31.219 	The old man faces the Priest.
-0033_Amadeus_02.48.34.006-02.48.35.810 	She turns and faces him.
-0038_Psycho_00.44.52.139-00.44.54.055 	He turns from the hole, faces us for a moment, continues turning until he can look out the small parlor window.
-0041_The_Sixth_Sense_00.10.39.500-00.10.50.125 	Malcolm sits on a sidewalk bench facing a row of brownstone homes across the street.
-0041_The_Sixth_Sense_00.35.47.401-00.35.51.828 	Cole's face turns cement grey.
-0041_The_Sixth_Sense_00.38.29.316-00.38.30.870 	Cole's face softens a bit.
-0041_The_Sixth_Sense_00.55.40.383-00.55.42.170 	Cole's face turns the color of ash.
-0041_The_Sixth_Sense_01.24.21.531-01.24.24.085 	Her father's face forms the most heartbreaking of smiles as he watches the performance.
-0041_The_Sixth_Sense_01.26.19.220-01.26.24.330 	A group of ashen faced guests stand in the distance behind him.
-0043_Thelma_and_Luise_00.53.07.839-00.53.09.570 	Louise turns to face Thelma.
-0043_Thelma_and_Luise_01.15.03.612-01.15.05.617 	TIGHT SHOT of Darryl's face going deeper and deeper into a state of shock.
-0043_Thelma_and_Luise_01.29.23.784-01.29.29.472 	Louise stops as she is about to get in and faces Thelma who's standing on the other side of the car.
-0043_Thelma_and_Luise_02.04.57.221-02.04.58.999 	He sees Thelma and Louise facing each other.
-0046_Chasing_Amy_01.17.33.232-01.17.35.343 	Holden's face is really sour looking.
-0046_Chasing_Amy_01.36.09.272-01.36.11.188 	Alyssa's face drops.
-0049_Hannah_and_her_sisters_00.03.58.959-00.04.00.994 	Holly turns to face her.
-0049_Hannah_and_her_sisters_00.12.36.693-00.12.40.299 	He stands by an open dressing room, where Ron, an actor, slouches, dazed, in a chair facing a makeup mirror.
-0049_Hannah_and_her_sisters_00.29.55.988-00.30.04.166 	The doctor turns his chair around to face a tense Mickey sitting on the other side of his desk.
-0049_Hannah_and_her_sisters_00.31.46.992-00.31.50.148 	Dr. Smith, sitting behind his desk, faces the camera.
-0049_Hannah_and_her_sisters_00.45.50.685-00.46.03.399 	The camera moves in on Hannah's face as she reflects, her voice heard over the screen.
-0049_Hannah_and_her_sisters_00.46.03.399-00.46.23.918 	The camera leaves Hannah's face as she continues to reflect; it moves to the den, to the row of family photos on the piano: one of a present-day Evan and Norma, others where both Norma and Evan are young, beautiful, hopeful.
-0049_Hannah_and_her_sisters_00.56.34.443-00.56.39.014 	Lee turns and faces Frederick in the bathroom doorway.
-0049_Hannah_and_her_sisters_01.22.12.951-01.22.22.566 	A bench faces some wharf pilings; the water gently laps against them as Lee walks into view, the wind blowing her hair.
-0049_Hannah_and_her_sisters_01.22.15.697-01.22.23.424 	She stands and faces the water and the distant skyline across the bay.
-0049_Hannah_and_her_sisters_01.25.50.463-01.25.54.337 	She stops at the corner of the table and faces Hannah.
-0049_Hannah_and_her_sisters_01.27.13.514-01.27.15.639 	Norma's face can be seen in the porthole window on the other side of the pantry's swinging door.
-0050_Indiana_Jones_and_the_last_crusade_00.08.50.527-00.08.51.564 	He stands to face them as Rough Rider points a gun in his direction.
-0050_Indiana_Jones_and_the_last_crusade_00.22.37.663-00.22.38.495 	Brody sees Indy's face and opens the other half.
-0050_Indiana_Jones_and_the_last_crusade_00.52.48.990-00.52.50.960 	Elsa crosses the room toward a high-backed chair facing the fireplace.
-0050_Indiana_Jones_and_the_last_crusade_01.32.43.585-01.32.44.498 	Indy's face is pressed up against the lens of the periscope.
-0050_Indiana_Jones_and_the_last_crusade_01.50.58.384-01.51.02.214 	Donovan turns to face the display of cups.
-0051_Men_in_black_00.17.16.299-00.17.16.876 	All he sees is Laurel, facing whoever it is in the hallway.
-0051_Men_in_black_00.41.31.238-00.41.31.556 	He steps forward, to face Rosenberg, who sets the ornate box on the table.
-0051_Men_in_black_01.08.20.597-01.08.20.861 	Laurel turns the name tag to face her.
-0051_Men_in_black_01.23.00.846-01.23.03.932 	Kay steps up to him, the small human facing off against the giant alien hug.
-0053_Rendezvous_mit_Joe_Black_00.55.17.192-00.55.24.514 	Immediately indications of surprise on Board members' faces at Parrish bringing in an 'observer', Drew's reaction guarded but intense.
-1001_Flight_00.09.27.465-00.09.30.549 	Margaret sits, facing Trina.
-1001_Flight_00.39.41.570-00.39.42.692 	Whip leans against the wall facing her.
-1001_Flight_01.49.45.781-01.49.50.533 	Whip lies face down in the bathroom, a large blood stain on the toilet.
-1001_Flight_01.59.51.633-01.59.57.362 	Ellen faces Whip in the middle of the room.
-1001_Flight_02.06.42.327-02.06.54.958 	Whip sits facing a group of inmates in an Alcoholics Anonymous meeting.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.05.05.257-00.05.08.663 	Harry's face contorts as they spin.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.44.55.833-00.45.00.299 	Harry and Ginny stand facing the Gryffindor triallists.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.54.37.088-01.54.43.231 	He turns to face Slughorn.
-1002_Harry_Potter_and_the_Half-Blood_Prince_02.12.54.588-02.12.56.415 	Bellatrix faces Dumbledore.
-1003_How_to_Lose_Friends_and_Alienate_People_00.12.29.349-00.12.32.826 	Affecting a suave smile, he takes his seat facing her and leans on the bar.
-1003_How_to_Lose_Friends_and_Alienate_People_00.32.43.810-00.32.46.842 	He dutifully taps Sophie on the shoulder and she turns to face Eleanor.
-1003_How_to_Lose_Friends_and_Alienate_People_00.58.59.164-00.59.02.481 	He walks round to face him.
-1003_How_to_Lose_Friends_and_Alienate_People_01.42.42.715-01.42.43.965 	Sidney's face drops, and his shoulders sink.
-1003_How_to_Lose_Friends_and_Alienate_People_01.43.32.517-01.43.36.341 	They stand hand in hand, facing each other, just inches apart.
-1003_How_to_Lose_Friends_and_Alienate_People_01.43.59.409-01.44.03.437 	They share a look then turn to face the screen.
-1004_Juno_01.30.19.060-01.30.21.290 	Juno sits down facing him with her guitar.
-1004_Juno_01.31.55.620-01.32.00.340 	The sit facing each other in the sunshine in front of Ms. Bleeker's gable fronted house.
-1005_Signs_00.04.13.923-00.04.15.981 	Graham turns Morgan's head to face him.
-1005_Signs_00.04.23.624-00.04.28.291 	Morgan puts his hand around his father's jaw, and turns his head to face in the direction he had been staring.
-1005_Signs_00.25.24.774-00.25.25.990 	Tracy's face crumples.
-1005_Signs_00.34.56.500-00.35.00.395 	He slowly turns his body to face the crop.
-1005_Signs_00.45.58.670-00.46.02.337 	His features taut and his eyes glistening, Graham turns to face the TV.
-1005_Signs_00.46.04.670-00.46.05.337 	Then he too faces the TV.
-1005_Signs_00.57.10.403-00.57.17.240 	Graham turns to face Ray's clapboard home.
-1005_Signs_01.20.58.120-01.21.00.743 	They went around to face the door.
-1005_Signs_01.21.06.674-01.21.12.367 	He then turns to face the others.
-1005_Signs_01.32.59.621-01.33.05.839 	Graham slowly stands and turns round to face the creature.
-1005_Signs_01.35.58.010-01.36.05.813 	Graham turns slowly from the creature to face Merrill, spotting the baseball bat in its rack mounted on the wall by his brother.
-1005_Signs_01.36.49.650-01.36.53.567 	And turns back to face his assailant.
-1005_Signs_01.38.52.030-01.38.55.100 	Bo's face creases as she begins to sob.
-1006_Slumdog_Millionaire_00.18.18.443-00.18.26.462 	Jamal and Salim flee down an alley and come face to face with a young boy dressed as the Hindu god Rama.
-1006_Slumdog_Millionaire_00.19.09.196-00.19.15.341 	Jamal's mother lies face down in the pool.
-1006_Slumdog_Millionaire_00.53.43.951-00.53.51.576 	Jamal touches Arvind's face gently and runs off along the subway.
-1006_Slumdog_Millionaire_00.56.08.727-00.56.12.036 	Punnoose's face is now badly scarred.
-1006_Slumdog_Millionaire_01.01.34.103-01.01.39.043 	Salim slowly turns to face Javed, he nodes.
-1007_Spider-Man1_00.20.59.822-00.21.05.181 	Harry rushes into the study where his father is lying face down on the floor.
+0011_Gandhi_00.51.21.290-00.51.27.074 	we see an english clergyman from the second class coaches, dipping a toe cautiously into the water, children of some british enlisted soldiers wading, splashing, faces alight with fun.
+0011_Gandhi_00.56.57.267-00.57.00.924 	he puts his glasses on and faces the convention.
+0011_Gandhi_01.16.01.117-01.16.03.428 	the secretary turns it slowly so it is facing him.
+0011_Gandhi_01.31.04.122-01.31.06.943 	dyer faces him stonily, a seed of panic taking root deep in his gut.
+0011_Gandhi_01.43.11.493-01.43.12.280 	gandhi sitting facing patel and azad, desai in the background, making notes of the discussion.
+0011_Gandhi_01.56.17.569-01.56.20.876 	as gandhi enters, he lowers his glasses, places them on his desk, and rises, facing gandhi.
+0011_Gandhi_01.56.21.333-01.56.24.069 	the clerk, confused as well as astonished, see the judge standing, facing gandhi in respect, and dutifully, he too stands.
+0011_Gandhi_02.00.01.208-02.00.04.029 	across the emptiness of the temple, ba faces him.
+0011_Gandhi_02.12.53.940-02.12.54.132 	he struggles to his feet, facing the policeman who has struck him.
+0011_Gandhi_02.14.41.342-02.14.41.518 	they face their opposition, unmoving, tense.
+0011_Gandhi_02.14.49.392-02.14.53.072 	the camera pans from them, across a sloping dip in the ground, to a huge group of volunteers lining up to face the police as tautly as the police face them.
+0011_Gandhi_02.20.29.823-02.20.31.960 	he faces gandhi stiffly.
+0011_Gandhi_02.54.25.369-02.54.26.612 	there are five men facing gandhi.
+0012_Get_Shorty_00.29.50.118-00.29.55.594 	harry waves them right into the two cracked red leather chairs facing the desk.
+0012_Get_Shorty_01.15.29.136-01.15.32.473 	he faces escobar on the opposite seat.
+0012_Get_Shorty_01.35.46.503-01.35.58.283 	bones motions with the gun and he turns to face the painting over the sofa.
+0014_Ist_das_Leben_nicht_schoen_00.19.53.289-00.19.56.887 	violet bick comes into the scene and turns to face george.
+0014_Ist_das_Leben_nicht_schoen_00.26.54.822-00.26.58.389 	they have stopped walking and now face one another.
+0014_Ist_das_Leben_nicht_schoen_00.41.40.691-00.41.43.800 	they stop walking and face one another.
+0016_O_Brother_Where_Art_Thou_00.07.21.859-00.07.31.958 	the three convicts, faces upturned, listen raptly to the blind prophet.
+0016_O_Brother_Where_Art_Thou_00.15.00.694-00.15.01.844 	he turns to face us and hollers.
+0016_O_Brother_Where_Art_Thou_00.30.43.494-00.30.45.616 	various police vehicles have pulled up facing the barn, and armed men, their backs to us, train guns on it, some taking cover on the near side of their parked cars.
+0016_O_Brother_Where_Art_Thou_00.33.36.729-00.33.42.668 	george nelson, now fully outside and facing the pursuit vehicles, has one hand clamped on the car roof and waves to delmar with the other.
+0016_O_Brother_Where_Art_Thou_01.14.34.129-01.14.39.151 	at length they stop in perfect formation, still chanting, to face the imperial wizard, who stands in front of the burning cross dressed in a red satin robe and hood trimmed with gold.
+0016_O_Brother_Where_Art_Thou_01.14.34.854-01.14.35.127 	the backmost row has stopped, facing away, only a few yards from the bushes that hide delmar, pete and everett.
+0016_O_Brother_Where_Art_Thou_01.23.13.343-01.23.15.032 	penny and waldrip are facing the hall with their backs to the stage as the four bearded band members - everett, pete, delmar and tommy - take their places.
+0017_Pianist_02.14.05.793-02.14.06.825 	szpilman faces the german captain.
+0019_Pulp_Fiction_00.12.38.567-00.13.36.234 	they move a little away from the door, facing each other, still whispering.
+0019_Pulp_Fiction_00.50.33.488-00.50.33.856 	the two just stand face to face looking at each other.
+0020_Raising_Arizona_00.01.15.050-00.01.17.224 	panning a circle of men who sit facing each other in folding chairs.
+0020_Raising_Arizona_00.03.45.998-00.03.50.539 	hi faces the same three parole officers across the same table.
+0020_Raising_Arizona_00.08.07.720-00.08.09.570 	hi and ed are seated on folding chairs facing an agent's desk.
+0020_Raising_Arizona_00.16.55.587-00.16.56.489 	the baby, peeping out over her shoulder, is facing the window.
+0020_Raising_Arizona_00.19.58.970-00.20.03.461 	hi sits at the other corner and ed sits in a facing chair.
+0020_Raising_Arizona_00.26.44.066-00.26.44.532 	ed lies in bed facing the wall; we see only the back of her head.
+0020_Raising_Arizona_00.26.54.770-00.26.57.555 	ed finally turns to face him.
+0020_Raising_Arizona_00.27.16.669-00.27.19.700 	hi turns to face her.
+0020_Raising_Arizona_00.30.00.374-00.30.02.299 	of a strobe going off as a flash picture is taken: we are looking over nathan jr.'s shoulder as he stands at his open front door, facing a battery of press people who stand out on the porch.
+0020_Raising_Arizona_00.38.59.088-00.39.05.434 	dot faces hi and ed across a picnic table covered with grilled hamburgers, rolls, green jello mold, cooler, etc.
+0020_Raising_Arizona_00.56.05.002-00.56.07.905 	creeping in on nathan jr. in the living room, asleep in his ottoman armchair, lit only by the snow from the tv set he is facing, a half-full glass of milk on the coffee table next to him.
+0020_Raising_Arizona_01.08.03.771-01.08.06.679 	evelle and the cashier, a late-middle-aged man (perhaps the proprietor of this small mom-and-pop store) face each other across the check-out counter.
+0020_Raising_Arizona_01.18.14.990-01.18.15.748 	facing forward, they do not see lenny approaching again through the rear window.
+0020_Raising_Arizona_01.20.04.293-01.20.05.477 	hi, unaware, is turning to face him, presenting the plank as - the knife is thrown.
+0020_Raising_Arizona_01.25.13.524-01.25.15.193 	hi turns to face him.
+0020_Raising_Arizona_01.28.27.471-01.28.28.969 	glen is leaning out the driver's window of the car talking to the state trooper who stands facing him.
+0020_Raising_Arizona_01.29.36.901-01.29.37.617 	as they face the trailer's front door, all we see of the couple is the backs of their heads.
+0020_Raising_Arizona_01.30.14.491-01.30.18.037 	the elderly couple enter from either side of the camera and stand in the foreground, backs to us, facing the table.
+0021_Rear_Window_00.06.13.589-00.06.15.167 	each apartment has three windows facing the back, one showing a hallway, one a living room, and the window on the right opening into a bedroom.
+0021_Rear_Window_00.09.00.970-00.09.03.647 	she swings the wheelchair around abruptly to face her.
+0021_Rear_Window_00.10.49.425-00.10.55.222 	he hops one step, then she lowers him, face down, on the divan.
+0021_Rear_Window_00.18.01.064-00.18.04.521 	lisa facing jeff in the chair.
+0021_Rear_Window_00.24.21.753-00.24.25.491 	she turns to face him, they look into each other's eyes a moment, and she allows herself to be kissed on the lips -- but only long enough so as to attract the attention of the other two men.
+0021_Rear_Window_00.39.08.685-00.39.08.785 	jeff in his chair, facing the window, stella beside him.
+0021_Rear_Window_00.46.00.403-00.46.00.903 	miss torso is lying, face down, on her divan bed.
+0021_Rear_Window_00.49.40.603-00.49.40.803 	the camera is now facing jeff.
+0021_Rear_Window_01.07.53.514-01.07.54.843 	jeff turns around to face the room.
+0021_Rear_Window_01.08.09.180-01.08.13.406 	the camera closes in, lisa stops, faces him.
+0021_Rear_Window_01.51.40.284-01.51.42.718 	the camera pans past jeff who is asleep in his wheelchair facing away from the window.
+0023_THE_BUTTERFLY_EFFECT_00.07.57.062-00.08.04.808 	miller's camera lens and finally to kayleigh, whose ashen face trembles slightly.
+0023_THE_BUTTERFLY_EFFECT_00.25.27.413-00.25.32.779 	his body contorts spastically like a fish on land, since he is now lying face down on the ground.
+0023_THE_BUTTERFLY_EFFECT_00.25.36.330-00.25.41.127 	evan spins to face her.
+0023_THE_BUTTERFLY_EFFECT_01.36.13.897-01.36.15.913 	kayleigh turns to face the jeering crowd.
+0023_THE_BUTTERFLY_EFFECT_01.37.38.150-01.37.42.282 	as she casually uses her foot to turn his chair to face her, she pulls out a granola bar and hands it to him.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.29.59.810-00.30.00.447 	frodo lets out a startled cry, pulls himself free and spins around to face his assailant.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.47.56.667-01.48.04.913 	a faint light rises from gandalf's staff, throwing a creepy glow across the old wizards face.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.07.10.283-02.07.10.909 	the last.pauses in the middle of the span.he faces the balrog.staff in one hand.sword in the other!
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.24.05.160-02.24.15.147 	the uruk- hai are smearing themselves in white paint.a creepy ritualistic ceremony.the white hand of isengard is smeared on bodies, faces, and armor.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.39.24.444-00.39.27.614 	gandalf still staring intently as if facing his enemy in person.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.29.09.095-01.29.26.556 	ghostly faces stare hollow-eyed at aragorn.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.59.15.564-01.59.18.901 	theoden faces his enemy.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.36.53.491-02.36.57.561 	he turns to face the others.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.54.15.556-02.54.26.792 	aragorn slowly rises, turning to face the crowd, who cheer and clap for their king.
+0026_The_Big_Fish_00.12.50.813-00.12.52.161 	the old woman turns to him slightly, still not facing him.
+0026_The_Big_Fish_01.28.32.848-01.28.40.545 	sandra steps out of her sandals and climbs into the tub, facing him.
+0026_The_Big_Fish_01.37.16.234-01.37.21.240 	she turns to face him.
+0026_The_Big_Fish_01.54.06.631-01.54.07.857 	he turns back so his father can face the crowd.
+0027_The_Big_Lebowski_00.12.17.834-00.12.22.902 	the dude sits facing him as brandt withdraws.
+0027_The_Big_Lebowski_00.41.03.693-00.41.06.787 	facing him on the couch are two uniformed policeman, one middle-aged, the other a fresh-faced rookie.
+0027_The_Big_Lebowski_00.49.11.865-00.49.12.995 	the dude is shoved in and awkwardly takes a seat facing the rear.
+0027_The_Big_Lebowski_01.24.25.451-01.24.27.193 	the dude is hurled against the chief's desk, which he bounces off of, to come to rest more or less seated in a facing chair.
+0029_The_Graduate_00.41.00.201-00.41.01.964 	a television set, facing the chair, is on.
+0029_The_Graduate_00.41.25.360-00.41.26.861 	ben is sitting on the bed, leaning against the headboard, watching the television set which is on a stand facing the bed.
+0029_The_Graduate_01.01.46.660-01.01.50.915 	ben, facing her, keeps moving from side to side, trying to get her to look at him.
+0030_The_Hustler_00.38.10.141-00.38.17.894 	eddie laughs to himself, puts his hanging bag and cue case on a chair, then turns to face his image in the mirror.
+0030_The_Hustler_00.38.35.320-00.38.43.878 	at one table, facing the lockers, is a young woman, sarah: a book is open before her, and a cup of coffee, and an ashtray filled with cigarette butts.
+0030_The_Hustler_01.17.49.068-01.17.51.340 	he is completely oblivious to the glowering faces of the group of men who have gathered around the table to watch.
+0030_The_Hustler_01.53.07.122-01.53.11.731 	she is facing away from him but her eyes are open.
+0031_The_Lost_Weekend_00.56.02.844-00.56.06.125 	the waiter takes the check which is thrust between his vest and his stiff shirt and puts it face down in front of don, then hurries on with the tray of drinks.
+0032_The_Princess_Bride_00.22.43.057-00.22.45.335 	and now, with the grace of an olympian, inigo flies off the perch, somersaults clean over the man in black's head, and lands facing his opponent.
+0032_The_Princess_Bride_00.33.15.626-00.33.16.762 	the man in black turns to face him again.
+0032_The_Princess_Bride_00.48.55.903-00.48.56.761 	humperdinck, whirling to face her.
+0032_The_Princess_Bride_00.48.56.761-00.48.58.482 	westley, whirling to face her.
+0032_The_Princess_Bride_01.07.24.880-01.07.34.306 	eyes closed, he faces the grove of trees, starts to talk, his voice low and strange.
+0033_Amadeus_00.52.31.269-00.52.32.508 	a priest faces them.
+0033_Amadeus_01.00.29.307-01.00.31.219 	the old man faces the priest.
+0033_Amadeus_02.48.34.006-02.48.35.810 	she turns and faces him.
+0038_Psycho_00.44.52.139-00.44.54.055 	he turns from the hole, faces us for a moment, continues turning until he can look out the small parlor window.
+0041_The_Sixth_Sense_00.10.39.500-00.10.50.125 	malcolm sits on a sidewalk bench facing a row of brownstone homes across the street.
+0041_The_Sixth_Sense_00.57.30.496-00.57.32.233 	a black man in britches and no shirt, face beaten to a pulp, hangs in the center.
+0041_The_Sixth_Sense_01.26.19.220-01.26.24.330 	a group of ashen faced guests stand in the distance behind him.
+0043_Thelma_and_Luise_00.53.07.839-00.53.09.570 	louise turns to face thelma.
+0043_Thelma_and_Luise_02.04.57.221-02.04.58.999 	he sees thelma and louise facing each other.
+0049_Hannah_and_her_sisters_00.03.58.959-00.04.00.994 	holly turns to face her.
+0049_Hannah_and_her_sisters_00.12.36.693-00.12.40.299 	he stands by an open dressing room, where ron, an actor, slouches, dazed, in a chair facing a makeup mirror.
+0049_Hannah_and_her_sisters_00.29.55.988-00.30.04.166 	the doctor turns his chair around to face a tense mickey sitting on the other side of his desk.
+0049_Hannah_and_her_sisters_00.31.46.992-00.31.50.148 	dr. smith, sitting behind his desk, faces the camera.
+0049_Hannah_and_her_sisters_00.56.34.443-00.56.39.014 	lee turns and faces frederick in the bathroom doorway.
+0049_Hannah_and_her_sisters_01.22.12.951-01.22.22.566 	a bench faces some wharf pilings; the water gently laps against them as lee walks into view, the wind blowing her hair.
+0049_Hannah_and_her_sisters_01.22.15.697-01.22.23.424 	she stands and faces the water and the distant skyline across the bay.
+0049_Hannah_and_her_sisters_01.25.50.463-01.25.54.337 	she stops at the corner of the table and faces hannah.
+0050_Indiana_Jones_and_the_last_crusade_00.08.50.527-00.08.51.564 	he stands to face them as rough rider points a gun in his direction.
+0050_Indiana_Jones_and_the_last_crusade_00.52.48.990-00.52.50.960 	elsa crosses the room toward a high-backed chair facing the fireplace.
+0050_Indiana_Jones_and_the_last_crusade_01.50.58.384-01.51.02.214 	donovan turns to face the display of cups.
+0051_Men_in_black_00.17.16.299-00.17.16.876 	all he sees is laurel, facing whoever it is in the hallway.
+0051_Men_in_black_00.41.31.238-00.41.31.556 	he steps forward, to face rosenberg, who sets the ornate box on the table.
+0051_Men_in_black_01.08.20.597-01.08.20.861 	laurel turns the name tag to face her.
+0051_Men_in_black_01.23.00.846-01.23.03.932 	kay steps up to him, the small human facing off against the giant alien hug.
+1001_Flight_00.09.27.465-00.09.30.549 	margaret sits, facing trina.
+1001_Flight_00.39.41.570-00.39.42.692 	whip leans against the wall facing her.
+1001_Flight_01.49.45.781-01.49.50.533 	whip lies face down in the bathroom, a large blood stain on the toilet.
+1001_Flight_02.06.42.327-02.06.54.958 	whip sits facing a group of inmates in an alcoholics anonymous meeting.
+1002_Harry_Potter_and_the_Half-Blood_Prince_00.44.55.833-00.45.00.299 	harry and ginny stand facing the gryffindor triallists.
+1002_Harry_Potter_and_the_Half-Blood_Prince_01.54.37.088-01.54.43.231 	he turns to face slughorn.
+1002_Harry_Potter_and_the_Half-Blood_Prince_02.12.54.588-02.12.56.415 	bellatrix faces dumbledore.
+1003_How_to_Lose_Friends_and_Alienate_People_00.12.29.349-00.12.32.826 	affecting a suave smile, he takes his seat facing her and leans on the bar.
+1003_How_to_Lose_Friends_and_Alienate_People_00.32.43.810-00.32.46.842 	he dutifully taps sophie on the shoulder and she turns to face eleanor.
+1003_How_to_Lose_Friends_and_Alienate_People_00.58.59.164-00.59.02.481 	he walks round to face him.
+1003_How_to_Lose_Friends_and_Alienate_People_01.43.32.517-01.43.36.341 	they stand hand in hand, facing each other, just inches apart.
+1003_How_to_Lose_Friends_and_Alienate_People_01.43.59.409-01.44.03.437 	they share a look then turn to face the screen.
+1004_Juno_01.30.19.060-01.30.21.290 	juno sits down facing him with her guitar.
+1004_Juno_01.31.55.620-01.32.00.340 	the sit facing each other in the sunshine in front of ms. bleeker's gable fronted house.
+1005_Signs_00.04.13.923-00.04.15.981 	graham turns morgan's head to face him.
+1005_Signs_00.34.56.500-00.35.00.395 	he slowly turns his body to face the crop.
+1005_Signs_00.45.58.670-00.46.02.337 	his features taut and his eyes glistening, graham turns to face the tv.
+1005_Signs_00.46.04.670-00.46.05.337 	then he too faces the tv.
+1005_Signs_00.57.10.403-00.57.17.240 	graham turns to face ray's clapboard home.
+1005_Signs_01.20.58.120-01.21.00.743 	they went around to face the door.
+1005_Signs_01.21.06.674-01.21.12.367 	he then turns to face the others.
+1005_Signs_01.32.59.621-01.33.05.839 	graham slowly stands and turns round to face the creature.
+1005_Signs_01.36.49.650-01.36.53.567 	and turns back to face his assailant.
+1006_Slumdog_Millionaire_00.19.09.196-00.19.15.341 	jamal's mother lies face down in the pool.
+1007_Spider-Man1_00.20.59.822-00.21.05.181 	harry rushes into the study where his father is lying face down on the floor.
 1007_Spider-Man1_01.03.36.653-01.03.40.790 	norman rises and faces the other ten board members.
 1007_Spider-Man1_01.52.08.899-01.52.10.480 	they stand, facing each other.
-1008_Spider-Man2_00.26.35.762-00.26.38.197 	mj's face is displayed prominently at the entrance.
 1008_Spider-Man2_00.45.26.830-00.45.28.805 	octavius lies face down on the operating table, a bandage over his eyes.
 1008_Spider-Man2_01.00.03.223-01.00.05.605 	mj turns to face him.
-1008_Spider-Man2_01.02.01.909-01.02.03.558 	he slaps peter's face a second time.
-1008_Spider-Man2_01.02.02.953-01.02.05.098 	peter's head swings to one side, then he turns to face harry.
 1008_Spider-Man2_01.03.09.001-01.03.11.082 	he lands face down in a puddle.
 1008_Spider-Man2_01.25.23.135-01.25.24.343 	he faces the door and raises his foot.
 1008_Spider-Man2_01.28.36.551-01.28.37.871 	he hands her his empty glass, and they stand facing each other.
 1008_Spider-Man2_01.50.18.634-01.50.21.276 	spider-man turns to face him.
 1008_Spider-Man2_01.54.02.168-01.54.05.028 	mj looks up, smiles and her smile fades when she turns to face octavius.
-1008_Spider-Man2_01.59.16.468-01.59.23.242 	spider-man, still without the mask, spins round to see the incredulous look on mj's face as she recognizes him.
 1008_Spider-Man2_02.02.22.375-02.02.28.633 	up on the web attached to the crane, mj turns to face spider-man once more.
-1008_Spider-Man2_02.03.39.722-02.03.45.453 	tears trickle down mj's face as she rests her head on john's shoulder.
 1008_Spider-Man2_02.06.47.022-02.06.55.589 	the church doors open, and the guests in attendance rise and face the back.
 1008_Spider-Man2_02.08.22.671-02.08.25.013 	he rises and faces her across the room.
 1009_Spider-Man3_00.06.59.485-00.07.02.274 	harry slowly turns to face him.
 1009_Spider-Man3_00.22.13.870-00.22.15.897 	a detective hands a file to tall, thin faced captain stacy.
 1009_Spider-Man3_00.25.38.960-00.25.53.911 	he turns to face the doorway and smiles as peter steps inside.
 1009_Spider-Man3_01.36.54.363-01.36.59.068 	he sits behind her, facing the on-stage back.
-1009_Spider-Man3_01.38.40.261-01.38.46.176 	they start to dance slowly, their faces close together.
 1009_Spider-Man3_01.39.42.136-01.39.46.118 	she turns to face him with scorn in her eyes.
 1009_Spider-Man3_01.51.08.209-01.51.15.300 	lit by the glow from the fire harry turns round fully to face peter revealing ugly burns on his right cheek and a scar across his eye and throat.
 1009_Spider-Man3_01.53.26.503-01.53.34.226 	a little girl in the vast crowd points up and a wave of heads turn to face spider-man swinging down on a thread.
 1009_Spider-Man3_01.57.34.396-01.57.46.590 	he lands on a horizontal girder and turns to face sandman, who slowly pulls himself up to his full height and towers over him like an elephant looking down on a mouse.
 1009_Spider-Man3_01.59.34.480-01.59.36.562 	they spin round to face their enemies.
-1009_Spider-Man3_02.05.03.392-02.05.03.448 	brock's face appears from within the symbiotic suit.
 1010_TITANIC_00.38.18.699-00.38.26.454 	gripping the railing for support, rose turns and faces the water.
 1010_TITANIC_01.05.13.513-01.05.16.180 	beneath the skylight, jack stands on the landing and faces the clock.
 1010_TITANIC_01.08.18.078-01.08.28.519 	jack and rose hold hands, then face each other and spin faster and faster
@@ -252,73 +199,53 @@
 1010_TITANIC_02.15.21.994-02.15.26.573 	murdoch faces the collapsible and finds himself staring at his mate, who gazes ahead.
 1011_The_Help_00.01.21.530-00.01.24.206 	a somber-looking black woman in her 40s turns to face the camera.
 1011_The_Help_00.02.04.321-00.02.10.155 	her eyes move across the room, settling on a framed photo, on the facing wall, of a young, black, graduate student.
-1011_The_Help_00.38.59.056-00.39.00.965 	minnie's face stiffens.
 1011_The_Help_00.42.26.801-00.42.29.840 	smoothing the back of her dress aibileen sits on the arm of an easy chair facing skeeter.
 1011_The_Help_00.43.11.919-00.43.14.287 	aibileen turns away to face the window, blanked out by the strong sun outside.
 1011_The_Help_00.48.39.198-00.48.46.588 	chubby faced sugar who towers above minnie listens obediently.
-1011_The_Help_00.54.42.510-00.54.44.748 	hilly's face softens.
 1011_The_Help_00.56.22.842-00.56.26.856 	in her kitchen, she sits facing skeeter.
-1011_The_Help_01.12.51.495-01.12.54.279 	hilly's face hardens.
 1011_The_Help_01.21.05.811-01.21.09.523 	the driver switches on the inside lights and faces the passengers.
-1011_The_Help_01.43.05.731-01.43.07.084 	skeeter's face tightens.
 1011_The_Help_02.11.02.733-02.11.06.264 	the two women stand arm-in-arm facing the packed church.
 1012_Unbreakable_00.23.09.167-00.23.13.885 	an oblong box with purple wrapping is propped on the seat of a bench facing him.
 1012_Unbreakable_00.55.39.404-00.55.43.764 	the man looks at david and slowly turns to face him.
 1012_Unbreakable_01.07.38.548-01.07.40.449 	david and audrey are sitting at a bar, facing each other.
-1012_Unbreakable_01.15.05.488-01.15.06.559 	light catches the man's face as he stares up at the wrecked carriage.
+1012_Unbreakable_01.15.08.055-01.15.13.068 	he stands quite still, looking up, grim faced, for a long time, ignoring drops of water falling from his hood.
 1012_Unbreakable_01.25.33.670-01.25.44.189 	he stands in the doorway of a bathroom, where a boy and girl, not quite teenagers, are sitting on the floor facing each other, their wrists tied above their heads.
-1012_Unbreakable_01.37.55.260-01.38.05.118 	elijah freewheels down a ramp into his office and swings the chair around to face david.
-1012_Unbreakable_01.41.06.657-01.41.09.625 	elijah swings his chair back to face david.
-1012_Unbreakable_01.41.51.720-01.41.53.387 	david's face is set, looking grim.
-1014_2012_01.15.58.195-01.16.04.154 	the fireman's face falls,
+1012_Unbreakable_01.30.52.777-01.31.00.448 	david throws off the inert form and the maintenance man falls face down, motionless.
 1014_2012_01.33.27.057-01.33.33.498 	harry pulls himself out on to the deck as the ship lists behind him until he faces the black night sky.
-1014_2012_01.52.32.707-01.52.40.394 	leaving his phone switched on, satnam crouches down and holds his son's face in his hands.
 1015_27_Dresses_00.55.03.316-00.55.13.085 	at that wedding, jane is on a horse that ends up facing the wrong way for the photo.
 1017_Bad_Santa_00.27.10.149-00.27.15.774 	she gets out of the car and faces him.
 1018_Body_Of_Lies_00.04.15.492-00.04.39.788 	in a large house, a craggy faced guy in his 40s, edward hoffman, dictates into a laptop.
-1018_Body_Of_Lies_01.02.08.395-01.02.09.780 	ferris and hani face each other.
 1018_Body_Of_Lies_01.39.21.419-01.39.27.874 	they stand facing each other.
 1018_Body_Of_Lies_01.53.06.477-01.53.09.667 	he slams ferris' face down on the table.
+1018_Body_Of_Lies_01.53.36.760-01.53.43.798 	the camera keeps filming as ferris is lifted onto the table, face down.
 1019_Confessions_Of_A_Shopaholic_00.07.25.179-00.07.28.051 	the hot dog buyer turns to face her.
-1019_Confessions_Of_A_Shopaholic_00.38.18.751-00.38.21.366 	rebecca's face brightens.
 1019_Confessions_Of_A_Shopaholic_00.48.51.377-00.48.57.327 	she sits down and faces him.
 1019_Confessions_Of_A_Shopaholic_00.56.28.290-00.56.39.728 	rebecca, wearing her sample blue gloves, faces the group.
 1019_Confessions_Of_A_Shopaholic_01.01.40.887-01.01.42.131 	she's facing alette's table.
-1019_Confessions_Of_A_Shopaholic_01.18.26.677-01.18.31.419 	rebecca's face crumples.
 1019_Confessions_Of_A_Shopaholic_01.22.50.155-01.22.56.740 	tears roll down jane's face as she watches her giant of a husband standing facing the lake, with his arm around rebecca.
 1020_Crazy_Stupid_Love_00.35.24.283-00.35.28.415 	she lays it face down and turns back to robbie.
 1020_Crazy_Stupid_Love_00.59.53.535-00.59.57.360 	emily smiles coldly and turns to face cal.
 1020_Crazy_Stupid_Love_01.20.26.353-01.20.31.908 	she turns to face the camera and undoes the ties on her dressing gown.
-1020_Crazy_Stupid_Love_01.43.47.616-01.43.50.078 	emily's face falls.
 1020_Crazy_Stupid_Love_01.45.00.951-01.45.06.922 	cal faces the audience.
-1020_Crazy_Stupid_Love_01.49.21.827-01.49.23.706 	robbie's face lights up.
-1023_Horrible_Bosses_01.12.07.954-01.12.13.978 	kurt's face drops as he recalls scrubbing his backside with bobby's toothbrush.
-1024_Identity_Thief_00.10.41.673-00.10.45.340 	staring down, a smile creeps across sandy's face as he considers.
 1024_Identity_Thief_00.20.14.982-00.20.17.345 	sandy faces his boss, who turns to the detective.
 1024_Identity_Thief_00.35.45.770-00.35.54.182 	with her lips pursed, diana faces him with wide eyes.
 1024_Identity_Thief_00.38.42.290-00.38.44.245 	he faces forward with a stern gaze.
+1024_Identity_Thief_00.47.26.168-00.47.28.835 	facing chuck, diana shimmies in place.
 1024_Identity_Thief_00.57.56.406-00.58.01.395 	sandy recovers on the other side, facing oncoming traffic.
 1024_Identity_Thief_01.14.01.500-01.14.07.669 	in the car, sandy's hardened gaze fixes ahead as diana sits on her side facing him.
 1024_Identity_Thief_01.17.29.332-01.17.31.565 	she faces the man, shielding her mouth with her hand.
 1024_Identity_Thief_01.23.13.111-01.23.17.014 	she shakes her messy hair around, then faces the mirror.
 1024_Identity_Thief_01.27.56.080-01.28.02.746 	he faces the table as she wipes her cheeks and looks down at her hands.
-1024_Identity_Thief_01.32.55.154-01.32.56.606 	sandy's face tenses.
 1026_Legion_00.08.09.289-00.08.10.956 	they sit on the swings facing in opposite directions.
-1026_Legion_00.56.59.413-00.57.02.711 	sandra's face is bathed in the golden light.
-1026_Legion_00.59.03.389-00.59.06.871 	bob's face twitches.
-1026_Legion_01.04.39.505-01.04.45.926 	charlie's face crumples and she sobs.
 1026_Legion_01.13.51.943-01.13.53.473 	charlie faces away from the child.
 1026_Legion_01.18.55.480-01.18.59.437 	in the diner, gabriel stands facing michael, who shakes his head slightly.
 1027_Les_Miserables_01.03.39.712-01.03.41.397 	high up on a tower, javert stands facing an ornate cross.
+1027_Les_Miserables_01.37.44.807-01.37.46.935 	the cavalry face the protesters, who are grouped around the hearse.
 1027_Les_Miserables_01.42.33.145-01.42.37.732 	a platoon of soldiers marches up the street to face them.
+1027_Les_Miserables_01.49.49.715-01.49.51.311 	beaten and bloody, javert stares at valjean slacked faced.
 1027_Les_Miserables_01.49.57.235-01.49.58.901 	valjean pulls his head up to face him.
 1027_Les_Miserables_01.50.14.399-01.50.17.011 	they stand facing each other.
-1028_No_Reservations_01.03.04.149-01.03.08.320 	kate's face brightens as she tastes a spoonful.
-1028_No_Reservations_01.03.49.654-01.03.51.930 	kate's face is turned towards nick.
 1028_No_Reservations_01.13.58.441-01.14.00.478 	they lie facing each other, zoe with her arm on kate's shoulder.
-1028_No_Reservations_01.19.28.685-01.19.35.556 	nick's face edges towards kate's, and this time he kisses her fully on the lips.
-1028_No_Reservations_01.19.47.334-01.19.54.149 	kate brings her hands up to cup nick's face and she stands.
-1029_Pride_And_Prejudice_Disk_One_01.25.49.907-01.25.53.573 	darcy's face drops and then returns to his usual stern composure.
 1029_Pride_And_Prejudice_Disk_One_01.28.54.243-01.28.58.889 	turning and coming to a brief halt facing each other.
 1029_Pride_And_Prejudice_Disk_One_02.41.45.885-02.41.50.571 	he takes a moment to compose himself, then turns to face her again.
 1030_Public_Enemies_00.04.28.170-00.04.29.430 	the stocky escapee faces a guard.
@@ -330,6 +257,7 @@
 1030_Public_Enemies_00.15.40.327-00.15.41.013 	dillinger faces homer's hostage.
 1030_Public_Enemies_00.16.37.562-00.16.38.250 	now, in a marble hearing room, a square jawed man faces a committee.
 1030_Public_Enemies_00.19.10.164-00.19.32.934 	hoover faces a microphone.
+1030_Public_Enemies_00.24.27.856-00.24.33.217 	dillinger gazes off shyly, then finds her lovely face.
 1030_Public_Enemies_00.25.40.976-00.25.41.669 	dillinger turns her to face him.
 1030_Public_Enemies_00.27.40.978-00.27.42.135 	now they face a coat check counter.
 1030_Public_Enemies_00.28.52.960-00.29.00.500 	the gang leader glances around the sidewalk with a frown, then faces the doorman.
@@ -342,7 +270,6 @@
 1030_Public_Enemies_00.46.09.977-00.46.12.525 	dillinger faces his girlfriend, who glares at him, then drops her gaze.
 1030_Public_Enemies_00.47.02.035-00.47.05.511 	dillinger frowns, shifts in his seat, and squarely faces billie.
 1030_Public_Enemies_00.48.15.626-00.48.20.433 	a balding clerk faces them.
-1030_Public_Enemies_00.50.45.292-00.50.50.961 	wearing a crisp suit, purvis faces dillinger's cell.
 1030_Public_Enemies_00.52.32.988-00.52.35.898 	purvis pauses on his way out and faces dillinger.
 1030_Public_Enemies_00.58.13.402-00.58.16.281 	now, dillinger faces the bars in the back of his cell.
 1030_Public_Enemies_00.59.21.274-00.59.22.455 	piquett faces the deputy.
@@ -351,44 +278,39 @@
 1030_Public_Enemies_01.24.32.733-01.24.36.079 	he pats a guy on a barstool then faces the couple.
 1030_Public_Enemies_01.35.22.859-01.35.46.556 	in a field office, purvis faces his agents.
 1030_Public_Enemies_01.41.36.497-01.41.43.987 	in the car, dillinger faces the side mirror and brushes his bangs off his forehead.
+1030_Public_Enemies_01.59.14.187-01.59.16.529 	facing a mirror, dillinger drags a razor down his lathered cheek.
 1030_Public_Enemies_02.01.48.771-02.01.49.669 	she faces the screen again, her chest heaving.
-1030_Public_Enemies_02.02.59.858-02.03.03.764 	on the movie screen, clark gable faces william powell.
 1030_Public_Enemies_02.03.47.134-02.03.54.805 	dillinger wears a faint, sad smile as gable faces a fellow convict.
 1030_Public_Enemies_02.04.42.964-02.04.48.337 	he faces the street, strikes the match, and lights his cigar.
+1030_Public_Enemies_02.06.25.550-02.06.31.772 	dillinger falls face down, eyes staring off, as blood streams from his ruptured cheek.
 1030_Public_Enemies_02.07.18.019-02.07.19.490 	the older man faces him.
 1030_Public_Enemies_02.08.57.894-02.09.07.118 	she stares guardedly at him, then takes the seat facing his.
 1030_Public_Enemies_02.09.09.213-02.09.13.874 	leaning forward, he faces her with a knitted brow.
 1030_Public_Enemies_02.10.39.893-02.10.46.983 	the agent gets to his feet, hat in hand, and faces one of the room's two doors.
 1031_Quantum_of_Solace_00.14.11.727-00.14.13.852 	the two men end up facing each other, dangling on ropes at either end of the steel gantry.
 1031_Quantum_of_Solace_00.41.56.233-00.42.01.443 	greene's friend looks around and smiles weakly at a grim faced man standing at the back of the box.
+1031_Quantum_of_Solace_01.12.20.839-01.12.22.755 	m sits stony faced.
 1033_Sherlock_Holmes_A_Game_of_Shadows_00.03.21.541-00.03.24.960 	holmes removes his spectacles as the three men facing him close in.
 1033_Sherlock_Holmes_A_Game_of_Shadows_00.10.13.009-00.10.15.871 	irene turns her head and faces him.
-1033_Sherlock_Holmes_A_Game_of_Shadows_01.56.18.510-01.56.21.393 	holmes blows ash and spot from the bulbous pipe into moriarty's face then wraps his arms around him.
-1034_Super_8_01.40.25.356-01.40.36.802 	jack cups joe's face in his hands, then hugs him tight, their faces tense with a mixture of emotion and relief.
-1035_The_Adjustment_Bureau_00.22.21.152-00.22.24.494 	two men scan charlie's face with wand-like devices.
 1035_The_Adjustment_Bureau_00.26.50.718-00.26.53.720 	as four men exit an suv, richardson sits facing david.
-1035_The_Adjustment_Bureau_00.45.58.701-00.46.01.917 	now, david rounds a corner, coming face to face with the two officers.
 1035_The_Adjustment_Bureau_00.48.22.426-00.48.25.430 	david glances to the sedan driver who checks the bloody- faced cabbie.
-1035_The_Adjustment_Bureau_00.56.02.771-00.56.08.011 	as david and elise talk, their faces close together, david grins.
 1035_The_Adjustment_Bureau_01.21.21.671-01.21.26.688 	now elise arrives at the cedar lake dance studio and faces a receptionist.
 1035_The_Adjustment_Bureau_01.24.29.725-01.24.35.108 	now at the courthouse, adrian faces a petite clerk.
-1035_The_Adjustment_Bureau_01.31.09.153-01.31.17.123 	david spots a pair of doors, crosses to them and faces elise.
 1035_The_Adjustment_Bureau_01.31.59.472-01.32.01.496 	they face a set of double doors.
 1035_The_Adjustment_Bureau_01.35.07.735-01.35.14.046 	the officers easily surround the lovers who face each other hopelessly.
 1035_The_Adjustment_Bureau_01.36.03.158-01.36.04.576 	thompson faces them.
 1037_The_Curious_Case_Of_Benjamin_Button_02.04.26.204-02.04.27.459 	he lies face down with his eyes closed.
-1037_The_Curious_Case_Of_Benjamin_Button_02.18.12.401-02.18.15.585 	her brow furrowed and her face gaunt, daisy watches as caroline wanders out into the corridor.
 1037_The_Curious_Case_Of_Benjamin_Button_02.30.31.330-02.30.37.083 	she puts her coat on and turns to face him.
 1038_The_Great_Gatsby_00.41.47.789-00.41.48.848 	wolfsheim, nick and gatsby sit at a table facing the dancers.
 1038_The_Great_Gatsby_01.06.28.773-01.06.34.126 	daisy spins around and faces nick, and they shimmy back and forth.
 1038_The_Great_Gatsby_01.35.43.581-01.35.47.615 	gatsby turns to face tom.
 1038_The_Great_Gatsby_01.36.48.007-01.36.51.511 	silently seething, tom turns to face gatsby.
 1038_The_Great_Gatsby_01.48.41.993-01.48.43.859 	tom sits facing him and hands him a drink.
-1038_The_Great_Gatsby_01.52.00.520-01.52.01.599 	gatsby's face is suddenly bathed in light.
 1038_The_Great_Gatsby_02.02.51.421-02.02.52.757 	gatsby gently floats face down in the pool.
 1039_The_Queen_01.17.33.078-01.17.36.745 	and then, turns to face the man.
 1039_The_Queen_01.21.46.583-01.21.51.249 	but turns to face the crowd with a grateful smile before turning back to the notes.
 1039_The_Queen_01.28.04.276-01.28.05.715 	the crowd is facing a pair of gaint video screens that stand at one side of the park.
+1039_The_Queen_01.28.50.999-01.28.54.260 	inside the abbey, the royal family sits stone faced.
 1039_The_Queen_01.36.10.641-01.36.14.444 	the queen returns from her reverie and faces tony.
 1040_The_Ugly_Truth_01.13.00.342-01.13.02.937 	mike turns and faces abby.
 1040_The_Ugly_Truth_01.17.22.126-01.17.24.010 	he stops and turns to face her.
@@ -409,199 +331,81 @@
 1042_Up_In_The_Air_00.24.22.733-00.24.25.747 	she sits facing ryan.
 1042_Up_In_The_Air_00.42.07.313-00.42.24.535 	he stands facing her.
 1042_Up_In_The_Air_00.47.18.048-00.47.27.705 	they sit facing each other on the hilton shuttle bus.
-1042_Up_In_The_Air_00.48.17.115-00.48.20.105 	natalie's face crumples.
 1042_Up_In_The_Air_00.56.18.022-00.56.18.941 	on the dance floor, alex and ryan face each other and shout.
 1042_Up_In_The_Air_01.27.53.732-01.28.11.740 	holding their wheelie cases, they face each other smiling.
 1043_Vantage_Point_00.13.50.524-00.13.56.626 	barnes and taylor stride across the podium and stand facing out towards the sea of yellow and red flags.
-1044_Pride_And_Prejudice_Disk_Two_00.06.30.788-00.06.33.490 	georgiana spies her brother, her face breaks into a smile.
 1044_Pride_And_Prejudice_Disk_Two_00.39.28.736-00.39.31.120 	lizzie and mrs. gardiner sit facing mr. gardiner.
-1044_Pride_And_Prejudice_Disk_Two_02.34.54.911-02.35.01.578 	lizzie's face is a picture of joy, while even mr. darcy's usual stern expression has softened into a beaming smile.
 1045_An_education_00.04.00.064-00.04.02.492 	she waves to an older fresh faced lad in the violin section.
-1045_An_education_01.29.33.625-01.29.38.630 	jenny's face crumbles.
-1045_An_education_01.31.00.066-01.31.03.917 	jenny's face falls.
 1046_Australia_00.52.27.709-00.52.29.664 	sarah faces drover in the saddle.
 1046_Australia_01.03.48.582-01.03.52.550 	nullah winces at the sight and stands alone, facing the stampede, on the cliff edge.
-1047_Defiance_01.22.46.347-01.22.54.407 	tuvia's face is full of foreboding.
+1047_Defiance_01.11.20.859-01.11.24.682 	tuvia looks around at the ashen faces of the people queuing up for food.
 1047_Defiance_01.31.36.537-01.31.42.337 	tuvia turns round to face the community, arkady behind him, smirking.
 1047_Defiance_01.52.14.387-01.52.20.519 	tuvia at the head of his flock, faced as he strides on, a machine gun is held across his body.
 1047_Defiance_02.01.18.764-02.01.25.810 	and fires on the troops who are facing away from them, killing a number of them.
-1048_Gran_Torino_01.48.00.974-01.48.01.277 	smokie's face is still bruised from where walt whacked him.
-1049_Harry_Potter_and_the_chamber_of_secrets_00.16.36.853-00.16.38.795 	suddenly, a sharp faced witch with a pointed hat grabs him by the arm.
 1049_Harry_Potter_and_the_chamber_of_secrets_00.51.20.241-00.51.22.301 	ron turns to face a smug draco.
 1049_Harry_Potter_and_the_chamber_of_secrets_01.05.36.236-01.05.38.974 	then they turn again and face each other.
+1049_Harry_Potter_and_the_chamber_of_secrets_01.06.51.470-01.06.53.426 	grim faced, harry and draco approach each other.
 1049_Harry_Potter_and_the_chamber_of_secrets_01.07.14.769-01.07.16.553 	harry and draco face each other along the platform.
-1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.28.06.630-00.28.12.957 	hermione and harry face rufus scrimgeour in the living room.
-1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.01.59.353-01.02.01.356 	she takes ron's face in her hands.
-1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.31.15.928-01.31.21.665 	the old woman's face contorts.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.45.26.364-01.45.30.460 	she faces him, her arms folded, a set expression on her face.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.56.09.989-01.56.15.464 	looking desperate he turns and faces them.
-1050_Harry_Potter_and_the_deathly_hallows_Disk_One_02.01.25.095-02.01.28.236 	harry's face is bloated, and his right eye is closed.
-1050_Harry_Potter_and_the_deathly_hallows_Disk_One_02.11.45.533-02.11.53.269 	harry's face is rapt with grief.
-1051_Harry_Potter_and_the_goblet_of_fire_00.18.18.451-00.18.20.948 	madame maxime smiles graciously, her face framed by a huge fur collar.
 1051_Harry_Potter_and_the_goblet_of_fire_01.03.29.790-01.03.35.944 	ron faces harry awkwardly.
 1051_Harry_Potter_and_the_goblet_of_fire_02.03.38.637-02.03.45.765 	as the smoke clears, voldemort faces them.
 1051_Harry_Potter_and_the_goblet_of_fire_02.08.07.335-02.08.19.405 	summoning up every ounce of courage, harry faces voldemort.
-1051_Harry_Potter_and_the_goblet_of_fire_02.08.43.537-02.08.46.527 	voldemort's face is twisted with hatred.
-1051_Harry_Potter_and_the_goblet_of_fire_02.13.05.341-02.13.08.200 	moody's face twists with agony.
-1052_Harry_Potter_and_the_order_of_phoenix_00.07.53.850-00.07.57.429 	cedric's face looms out of the darkness sweating with fear.
+1052_Harry_Potter_and_the_order_of_phoenix_00.10.30.668-00.10.39.114 	facing a terrace of georgian houses, he strikes the pavement.
 1052_Harry_Potter_and_the_order_of_phoenix_00.27.24.312-00.27.28.783 	he sees the tall, gaunt figure of voldemort facing him.
 1052_Harry_Potter_and_the_order_of_phoenix_00.58.48.470-00.58.54.283 	the student army face a metal figure dressed as a cloaked dementor holding a wand.
 1052_Harry_Potter_and_the_order_of_phoenix_00.59.53.513-00.59.55.668 	he faces harry and prepares himself.
 1052_Harry_Potter_and_the_order_of_phoenix_01.00.13.493-01.00.15.606 	ron faces hermione.
-1052_Harry_Potter_and_the_order_of_phoenix_01.09.09.831-01.09.11.739 	dumbledore turns from the moving portraits to face harry.
-1052_Harry_Potter_and_the_order_of_phoenix_01.18.02.557-01.18.04.166 	hagrid's face is red and bruised.
 1052_Harry_Potter_and_the_order_of_phoenix_01.26.49.883-01.26.54.031 	she sits on the stage facing them.
-1052_Harry_Potter_and_the_order_of_phoenix_01.37.44.066-01.37.49.230 	harry's face grows pale.
 1052_Harry_Potter_and_the_order_of_phoenix_01.45.06.865-01.45.13.619 	harry faces his friends.
 1052_Harry_Potter_and_the_order_of_phoenix_01.52.38.010-01.52.42.116 	they land face down beside a large rocky mound.
-1052_Harry_Potter_and_the_order_of_phoenix_02.00.10.102-02.00.11.844 	voldemort's face twists into a snarl.
 1052_Harry_Potter_and_the_order_of_phoenix_02.00.27.489-02.00.32.098 	dumbledore faces him, standing in front of harry to protect him.
 1053_Harry_Potter_and_the_philosophers_stone_00.39.28.860-00.39.47.927 	standing in front of huge oak doors, the tall figure of professor mcgonagall faces the first-years as they reach the top of the stairs.
 1053_Harry_Potter_and_the_philosophers_stone_02.01.17.654-02.01.23.447 	great stone chess pieces face each other across the enormous marble chessboard.
-1053_Harry_Potter_and_the_philosophers_stone_02.12.45.994-02.13.01.453 	harry's hands push against quirrell's face which also disintegrates into dust.
-1053_Harry_Potter_and_the_philosophers_stone_02.13.41.028-02.13.46.995 	voldemort's face appears and screams towards harry in a violent rushing wind, knocking him off balance.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_00.21.57.267-00.22.03.401 	the hideous cloaked figure floats into the compartment and faces harry.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_00.43.39.427-00.43.43.092 	parvarti faces a huge cobra.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_01.41.07.430-01.41.18.902 	the animals face each other growling, then both leap to the attack.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_01.44.28.522-01.44.35.081 	glowing amongst the trees, a magnificent silver stag with huge antlers stands facing him.
+1056_Rambo_00.04.27.383-00.04.32.916 	dark-haired, heavy-set, muscular and sullen faced, he wears a khaki colored smock and a red paisley bandanna.
 1056_Rambo_00.07.02.834-00.07.20.691 	surrounded by onlookers, a young snake-charmer crouches alone in an open area facing two cobras.
 1056_Rambo_01.16.38.533-01.16.44.706 	rambo faces the man.
-1056_Rambo_01.19.07.945-01.19.23.529 	sarah's face crumples and she starts to weep.
+1056_Rambo_01.16.50.000-01.16.53.781 	it rolls away and lies face down.
 1057_Seven_pounds_00.08.51.099-00.08.52.132 	they all face the front.
-1057_Seven_pounds_00.17.51.793-00.17.54.471 	inez's face is heavily lined.
-1057_Seven_pounds_00.18.56.174-00.19.00.247 	inez's face crumples.
-1057_Seven_pounds_00.35.07.324-00.35.15.829 	light from the tank illuminates ben's face as he stands in the darkness, seemingly lost in thought.
 1057_Seven_pounds_00.43.07.042-00.43.10.131 	ben pauses outside, facing the door dejectedly.
-1057_Seven_pounds_00.51.15.000-00.51.21.207 	a look of surprise crosses ezra's face as ben goes.
-1057_Seven_pounds_01.02.09.284-01.02.16.629 	connie's face is bruised.
-1057_Seven_pounds_01.19.34.061-01.19.34.716 	ben's face is bloody in the flashback.
 1057_Seven_pounds_01.20.39.238-01.20.46.559 	ben is lying face down on an examination table.
-1057_Seven_pounds_01.21.41.083-01.21.43.956 	ben's face is now stubbly.
 1057_Seven_pounds_01.30.46.029-01.30.54.650 	ben turns to face her as she scans about the workshop, trying to spot the surprise.
-1058_The_Damned_united_00.15.43.751-00.15.52.999 	blowing dust off, he reverentially positions the bottle to the right of the glasses, then turns the label to face peter by the door.
 1058_The_Damned_united_00.28.58.000-00.29.11.000 	the leeds players, in purple team track suits with their surnames on their backs form a semicircle facing brian with stout redhead bremner who dived for the penalty in the derby cup clash beside lanky giles.
-1058_The_Damned_united_00.42.00.000-00.42.02.000 	peter's face softens into a grin.
-1058_The_Damned_united_01.15.42.836-01.15.47.531 	brian traipses in last to face cussins.
 1059_The_devil_wears_prada_00.13.01.134-00.13.09.000 	andy watches emily carry the coffees into miranda's office, then hangs up her coat and hurries to her desk, which faces emily's.
 1060_Yes_man_00.16.58.873-00.17.00.566 	he sits facing carl.
-1060_Yes_man_00.35.31.637-00.35.38.925 	carl's face falls.
 1060_Yes_man_01.13.56.542-01.13.59.462 	at a check-in desk at the airport, carl and allison stand facing a uniformed woman with thick, fair hair.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.02.06.629-00.02.19.332 	shell cottage faces a white beach with a sea beyond.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.02.54.000-00.02.58.252 	harry strides in and faces bill.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.14.42.673-00.14.49.809 	bogrod, in his happy, mesmerized state, sits behind his fellow goblin, facing back of the track.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.30.47.671-00.30.50.388 	hermione turns to face harry.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.31.53.000-00.31.54.324 	neville's face is bruised and battered.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.35.03.004-00.35.04.987 	with amycus carrow and his sister, alecto, on either side of him, snape slowly turns to face the gathering.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.37.18.210-00.37.22.779 	professor mcgonagall pushes harry aside and faces the headmaster.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.41.59.000-00.42.05.514 	in the courtyard, she faces the school.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.48.09.238-00.48.11.903 	stiffly, she turns to face him.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.03.15.000-01.03.21.936 	voldemort faces his army.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.15.47.725-01.15.55.404 	two young girls stand, facing each other.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.18.50.204-01.18.55.108 	snape's face softens.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.22.36.106-01.22.39.983 	snape's face is somber.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.30.23.000-01.30.25.194 	he turns to face harry.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.37.39.268-01.37.47.849 	she turns to face voldemort, a solemn expression on her face.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.41.45.883-01.41.49.203 	voldemort's face twitches.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.47.30.000-01.47.38.573 	struggling for supremacy, they claw at each other's faces as they zoom above the school.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.49.03.016-01.49.04.965 	harry turns to face him.
 1062_Day_the_Earth_stood_still_00.51.32.000-00.51.34.000 	the old man and klaatu sit facing each other.
-1062_Day_the_Earth_stood_still_01.03.11.000-01.03.12.862 	klaatu's face appears on the cop's computer.
-2005_Signs_01.11.42.158-01.11.43.782 	morgan's face is hard, but tears start to fall anyway.
 2005_Signs_01.21.04.867-01.21.12.587 	he looks at the door and then turns and faces the lights.
-2005_Signs_01.36.39.280-01.36.42.656 	morgan's face is obscured by gas.
 2005_Signs_01.36.52.321-01.36.53.460 	the creature turns to face merrill.
-2012_Unbreakable_00.17.51.447-00.17.52.138 	we can barely see david's face under the hood.
-2012_Unbreakable_00.22.01.110-00.22.02.872 	elijah's face is tense.
 2012_Unbreakable_00.27.15.537-00.27.17.767 	elijah turns and faces the customers for the first time.
 2012_Unbreakable_00.37.54.563-00.37.55.570 	david walks to his post near the gate and faces the crowd.
-2012_Unbreakable_01.09.27.958-01.09.29.122 	audrey's face tenses.
 2017_Bad_Santa_01.17.42.155-01.17.44.721 	the two vehicles face each other nose-to-nose, several feet apart as gin opens the hood.
+2026_Legion_00.02.56.781-00.03.03.308 	michael, face tight with pain, trench coat back on, steps out of the alley, stares with determination at a dark storefront across the street.
 2026_Legion_00.05.57.722-00.05.59.490 	now it's michael who's in charge, gun to estevez's head, facing off with burton.
 2026_Legion_00.26.39.238-00.26.40.007 	jeep snatches it up and aims it at gladys who turns calmly to face him.
-2026_Legion_00.31.26.276-00.31.27.909 	charlie's face lights up when she sees the police car.
 2026_Legion_00.37.14.228-00.37.17.868 	the ice cream truck pulls to a stop with its headlights facing the diner.
 2026_Legion_00.56.50.298-00.56.55.494 	sandra turns to face the back door.
-2026_Legion_01.04.27.446-01.04.30.573 	jeep's face hardens.
-2026_Legion_01.10.40.535-01.10.43.355 	audrey looks up to see michael's expressionless face circled .
-2026_Legion_01.18.15.768-01.18.19.294 	michael lets go of jeep's hand and turns away to face gabriel, leaving jeep to contemplate those final words.
-2027_Les_Miserables_00.43.45.353-00.43.47.367 	valjean stands to face javert.
-1052_Harry_Potter_and_the_order_of_phoenix_02.00.10.102-02.00.11.844 	voldemort's face twists into a snarl.
-1052_Harry_Potter_and_the_order_of_phoenix_02.00.27.489-02.00.32.098 	dumbledore faces him, standing in front of harry to protect him.
-1053_Harry_Potter_and_the_philosophers_stone_00.39.28.860-00.39.47.927 	standing in front of huge oak doors, the tall figure of professor mcgonagall faces the first-years as they reach the top of the stairs.
-1053_Harry_Potter_and_the_philosophers_stone_02.01.17.654-02.01.23.447 	great stone chess pieces face each other across the enormous marble chessboard.
-1053_Harry_Potter_and_the_philosophers_stone_02.12.45.994-02.13.01.453 	harry's hands push against quirrell's face which also disintegrates into dust.
-1053_Harry_Potter_and_the_philosophers_stone_02.13.41.028-02.13.46.995 	voldemort's face appears and screams towards harry in a violent rushing wind, knocking him off balance.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.21.57.267-00.22.03.401 	the hideous cloaked figure floats into the compartment and faces harry.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.43.39.427-00.43.43.092 	parvarti faces a huge cobra.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_01.41.07.430-01.41.18.902 	the animals face each other growling, then both leap to the attack.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_01.44.28.522-01.44.35.081 	glowing amongst the trees, a magnificent silver stag with huge antlers stands facing him.
-1056_Rambo_00.07.02.834-00.07.20.691 	surrounded by onlookers, a young snake-charmer crouches alone in an open area facing two cobras.
-1056_Rambo_01.16.38.533-01.16.44.706 	rambo faces the man.
-1056_Rambo_01.19.07.945-01.19.23.529 	sarah's face crumples and she starts to weep.
-1057_Seven_pounds_00.08.51.099-00.08.52.132 	they all face the front.
-1057_Seven_pounds_00.17.51.793-00.17.54.471 	inez's face is heavily lined.
-1057_Seven_pounds_00.18.56.174-00.19.00.247 	inez's face crumples.
-1057_Seven_pounds_00.35.07.324-00.35.15.829 	light from the tank illuminates ben's face as he stands in the darkness, seemingly lost in thought.
-1057_Seven_pounds_00.43.07.042-00.43.10.131 	ben pauses outside, facing the door dejectedly.
-1057_Seven_pounds_00.51.15.000-00.51.21.207 	a look of surprise crosses ezra's face as ben goes.
-1057_Seven_pounds_01.02.09.284-01.02.16.629 	connie's face is bruised.
-1057_Seven_pounds_01.19.34.061-01.19.34.716 	ben's face is bloody in the flashback.
-1057_Seven_pounds_01.20.39.238-01.20.46.559 	ben is lying face down on an examination table.
-1057_Seven_pounds_01.21.41.083-01.21.43.956 	ben's face is now stubbly.
-1057_Seven_pounds_01.30.46.029-01.30.54.650 	ben turns to face her as she scans about the workshop, trying to spot the surprise.
-1058_The_Damned_united_00.15.43.751-00.15.52.999 	blowing dust off, he reverentially positions the bottle to the right of the glasses, then turns the label to face peter by the door.
-1058_The_Damned_united_00.28.58.000-00.29.11.000 	the leeds players, in purple team track suits with their surnames on their backs form a semicircle facing brian with stout redhead bremner who dived for the penalty in the derby cup clash beside lanky giles.
-1058_The_Damned_united_00.42.00.000-00.42.02.000 	peter's face softens into a grin.
-1058_The_Damned_united_01.15.42.836-01.15.47.531 	brian traipses in last to face cussins.
-1059_The_devil_wears_prada_00.13.01.134-00.13.09.000 	andy watches emily carry the coffees into miranda's office, then hangs up her coat and hurries to her desk, which faces emily's.
-1060_Yes_man_00.16.58.873-00.17.00.566 	he sits facing carl.
-1060_Yes_man_00.35.31.637-00.35.38.925 	carl's face falls.
-1060_Yes_man_01.13.56.542-01.13.59.462 	at a check-in desk at the airport, carl and allison stand facing a uniformed woman with thick, fair hair.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.02.06.629-00.02.19.332 	shell cottage faces a white beach with a sea beyond.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.02.54.000-00.02.58.252 	harry strides in and faces bill.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.14.42.673-00.14.49.809 	bogrod, in his happy, mesmerized state, sits behind his fellow goblin, facing back of the track.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.30.47.671-00.30.50.388 	hermione turns to face harry.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.31.53.000-00.31.54.324 	neville's face is bruised and battered.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.35.03.004-00.35.04.987 	with amycus carrow and his sister, alecto, on either side of him, snape slowly turns to face the gathering.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.37.18.210-00.37.22.779 	professor mcgonagall pushes harry aside and faces the headmaster.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.41.59.000-00.42.05.514 	in the courtyard, she faces the school.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.48.09.238-00.48.11.903 	stiffly, she turns to face him.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.03.15.000-01.03.21.936 	voldemort faces his army.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.15.47.725-01.15.55.404 	two young girls stand, facing each other.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.18.50.204-01.18.55.108 	snape's face softens.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.22.36.106-01.22.39.983 	snape's face is somber.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.30.23.000-01.30.25.194 	he turns to face harry.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.37.39.268-01.37.47.849 	she turns to face voldemort, a solemn expression on her face.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.41.45.883-01.41.49.203 	voldemort's face twitches.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.47.30.000-01.47.38.573 	struggling for supremacy, they claw at each other's faces as they zoom above the school.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.49.03.016-01.49.04.965 	harry turns to face him.
-1062_Day_the_Earth_stood_still_00.51.32.000-00.51.34.000 	the old man and klaatu sit facing each other.
-1062_Day_the_Earth_stood_still_01.03.11.000-01.03.12.862 	klaatu's face appears on the cop's computer.
-2005_Signs_01.11.42.158-01.11.43.782 	morgan's face is hard, but tears start to fall anyway.
-2005_Signs_01.21.04.867-01.21.12.587 	he looks at the door and then turns and faces the lights.
-2005_Signs_01.36.39.280-01.36.42.656 	morgan's face is obscured by gas.
-2005_Signs_01.36.52.321-01.36.53.460 	the creature turns to face merrill.
-2012_Unbreakable_00.17.51.447-00.17.52.138 	we can barely see david's face under the hood.
-2012_Unbreakable_00.22.01.110-00.22.02.872 	elijah's face is tense.
-2012_Unbreakable_00.27.15.537-00.27.17.767 	elijah turns and faces the customers for the first time.
-2012_Unbreakable_00.37.54.563-00.37.55.570 	david walks to his post near the gate and faces the crowd.
-2012_Unbreakable_01.09.27.958-01.09.29.122 	audrey's face tenses.
-2017_Bad_Santa_01.17.42.155-01.17.44.721 	the two vehicles face each other nose-to-nose, several feet apart as gin opens the hood.
-2026_Legion_00.05.57.722-00.05.59.490 	now it's michael who's in charge, gun to estevez's head, facing off with burton.
-2026_Legion_00.26.39.238-00.26.40.007 	jeep snatches it up and aims it at gladys who turns calmly to face him.
-2026_Legion_00.31.26.276-00.31.27.909 	charlie's face lights up when she sees the police car.
-2026_Legion_00.37.14.228-00.37.17.868 	the ice cream truck pulls to a stop with its headlights facing the diner.
-2026_Legion_00.56.50.298-00.56.55.494 	sandra turns to face the back door.
-2026_Legion_01.04.27.446-01.04.30.573 	jeep's face hardens.
-2026_Legion_01.10.40.535-01.10.43.355 	audrey looks up to see michael's expressionless face circled .
-2026_Legion_01.18.15.768-01.18.19.294 	michael lets go of jeep's hand and turns away to face gabriel, leaving jeep to contemplate those final words.
+2026_Legion_01.09.44.890-01.09.47.118 	she moves to the center of the car as gruesome faces press against the windows.
 2027_Les_Miserables_00.43.45.353-00.43.47.367 	valjean stands to face javert.
 2027_Les_Miserables_01.41.41.269-01.41.42.553 	enjolras faces javert.
 2027_Les_Miserables_01.59.26.357-01.59.27.395 	gavroche falls face down onto the barricade.
-2034_Super_8_00.10.11.319-00.10.14.309 	their faces brighten.
 2034_Super_8_00.13.28.166-00.13.30.081 	martin, in his tie, faces her.
 2034_Super_8_00.18.44.246-00.18.51.161 	joe stands up fast, faces a mountain of twisted steel -- upside-down train cars piled frighteningly around him.
+2034_Super_8_00.56.34.487-00.56.45.045 	nelec moves to the door, he remains facing camera, his back to woodward, as overmyer moves to the bed.
 2040_The_Ugly_Truth_00.13.49.663-00.13.51.999 	abby spins to face stuart.
 2051_Harry_Potter_and_the_goblet_of_fire_00.28.23.488-00.28.29.322 	they see a boy on the stairs facing the window.
-2054_Harry_Potter_and_the_prisoner_of_azkaban_01.07.49.049-01.07.49.905 	the dying sun streams through high windows, painting harry's face a fierce amber-red as he stands opposite lupin.
-2054_Harry_Potter_and_the_prisoner_of_azkaban_02.01.08.709-02.01.12.361 	harry's face changes.

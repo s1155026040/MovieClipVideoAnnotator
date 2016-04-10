@@ -1,0 +1,9 @@
+CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS618 	01:44:15,00 --> 01:44:28,50 	someone flings his shield, striking someone and smashing him into the energy mechanism which begins to spark and flicker with blue light.
+SOUL_SURFER.srt 	SOUL_SURFER_DVS266 	01:17:17,00 --> 01:17:21,50 	her eyes flickered.
+SUPER_8.srt 	SUPER_8_DVS220 	00:37:23,00 --> 00:37:32,50 	lights inside the gas station continue to flicker on and off as someone steps outside and walks toward the sheriff's car.
+SUPER_8.srt 	SUPER_8_DVS460 	01:21:06,00 --> 01:21:13,50 	standing under the bus flickering lights someone lifts the rifle.
+THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS105 	00:18:50,00 --> 00:18:55,50 	overhead fluorescents flicker on.
+THOR.srt 	THOR_DVS353 	00:54:04,00 --> 00:54:11,50 	in the crater compound, computer screens flicker as lightning flashes overhead.
+THOR.srt 	THOR_DVS555 	01:27:47,00 --> 01:27:52,50 	computer screens flicker as technicians scurry about.
+THOR.srt 	THOR_DVS627 	01:35:03,00 --> 01:35:13,50 	frost spreads over the equipment as well as through the branching bolts of electricity, forming a flickering tree of ice in the center of the chamber.
+TRUE_GRIT.srt 	TRUE_GRIT_DVS438 	01:27:19,00 --> 01:27:24,50 	someone sits down on a box by the flickering campfire.

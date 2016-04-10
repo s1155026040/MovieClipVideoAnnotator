@@ -1,1 +1,3 @@
-0007_DIE_NACHT_DES_JAEGERS_00.51.32.447-00.51.34.506 	The CHILDREN precede PREACHER, who carries a candle in holder.
+0007_DIE_NACHT_DES_JAEGERS_00.51.32.447-00.51.34.506 	the children precede preacher, who carries a candle in holder.
+0010_Frau_Ohne_Gewissen_00.59.41.556-00.59.42.152 	camera precedes him.
+0010_Frau_Ohne_Gewissen_01.29.39.809-01.29.39.968 	camera precedes him as he walks toward the entrance doors.

@@ -1,0 +1,7 @@
+CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS110 	00:25:31,00 --> 00:25:43,50 	now, in their drab basement apartment, someone sits in an armchair sewing a shirt.
+HUGO.srt 	HUGO_DVS365 	00:55:59,00 --> 00:56:04,50 	someone kisses someone, who sits and sews.
+HUGO.srt 	HUGO_DVS367 	00:56:06,00 --> 00:56:12,50 	someone glances at someone then drops her sewing onto a chair.
+JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS426 	01:23:08,00 --> 01:23:13,50 	someone sews the duck, binding it around the stuffing.
+JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS581 	01:54:35,00 --> 01:54:43,50 	later on tv, someone sews the stuffed duck shut.
+SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1212 	01:21:37,00 --> 01:21:43,50 	the gathered women sew and enjoy refreshments as they sing.
+THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS875 	01:37:37,00 --> 01:37:43,50 	she pulls the needle through to the other side then sews another stitch.

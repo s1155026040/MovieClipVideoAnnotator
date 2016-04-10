@@ -1,0 +1,5 @@
+FLIGHT.srt 	FLIGHT_DVS884 	01:44:04,00 --> 01:44:11,50 	he finds it stocked with juices and non-alcoholic beverages.
+GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS376 	00:55:22,00 --> 00:55:30,50 	he leaves a wall of cubby holes stocked with wine.
+LIFE_OF_PI.srt 	LIFE_OF_PI_DVS639 	01:08:45,00 --> 01:08:53,50 	he lowers his raft, now larger, sturdier, and stocked with supplies, over the other side of the boat.
+SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS251 	00:50:21,00 --> 00:50:40,50 	later, he descends the spiral stairway into the basement, which is now stocked with boxes and printing supplies.
+SPARKLE_2012.srt 	SPARKLE_2012_DVS432 	01:11:19,00 --> 01:11:25,50 	in her stocking feet, she slips on the floor and falls.

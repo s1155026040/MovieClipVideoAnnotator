@@ -1,0 +1,4 @@
+BRUNO.srt 	BRUNO_DVS189 	00:49:36,00 --> 00:49:43,50 	two racks topple over by an electronics store, and he struggles to right them.
+EASY_A.srt 	EASY_A_DVS213 	01:05:27,00 --> 01:05:34,50 	righting it, she finds someone in the picture.
+GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS469 	01:08:11,00 --> 01:08:17,50 	someone envisions ghost rider urinating fire from left to right.
+IRON_MAN_2.srt 	IRON_MAN_2_DVS474 	01:26:04,00 --> 01:26:12,50 	firing from left to right toward the triangular core, the beam burns a line in the wall which drips with flames.

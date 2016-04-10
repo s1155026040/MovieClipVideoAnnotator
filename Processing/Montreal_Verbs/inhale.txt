@@ -1,0 +1,7 @@
+FLIGHT.srt 	FLIGHT_DVS39 	00:05:38,00 --> 00:05:43,50 	someone inhales the oxygen.
+HUGO.srt 	HUGO_DVS51 	00:06:02,00 --> 00:06:09,50 	the man inhales sharply as he flips to drawings of a mechanical man's head and torso.
+ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS280 	01:18:33,00 --> 01:18:41,50 	he waves the joint in front of his nose and mouth, and inhales more smoke.
+PROMETHEUS.srt 	PROMETHEUS_DVS341 	00:33:17,00 --> 00:33:26,50 	straightening he inhales deeply and pulls off his skullcap.
+SANCTUM.srt 	SANCTUM_DVS538 	01:39:34,00 --> 01:39:39,50 	someone inhales once again from the tank.
+SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS135 	00:08:53,00 --> 00:09:00,50 	someone inhales the steam.
+THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1173 	02:05:23,00 --> 02:05:30,50 	the clear plastic sticks to someone's face as he inhales, and puffs out as he exhales.

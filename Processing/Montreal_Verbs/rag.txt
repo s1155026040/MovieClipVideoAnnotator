@@ -1,0 +1,3 @@
+PROMETHEUS.srt 	PROMETHEUS_DVS551 	01:01:29,00 --> 01:01:37,50 	as the storm rages outside, someone's helmet view shows fluid streaming from the urns.
+THE_CALL.srt 	THE_CALL_DVS780 	00:58:56,00 --> 00:59:02,50 	she blinks her glistening eyes and takes a few ragged breaths.
+WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS611 	01:31:56,00 --> 01:32:02,50 	someone's breath grows ragged and his chin quivers.

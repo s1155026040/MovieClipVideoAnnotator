@@ -1,0 +1,20 @@
+A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS610 	01:02:56,00 --> 01:03:06,50 	as someone surveys the scene, his son raises a pair of binoculars and focuses them on a group of men in yellow suits outside the plant.
+DISTRICT_9.srt 	DISTRICT_9_DVS486 	00:56:48,00 --> 00:57:04,50 	as the human stands, he surveys the tangles of wires crisscrossing out of electronics and over the walls.
+HUGO.srt 	HUGO_DVS174 	00:24:31,00 --> 00:24:38,50 	wearing his leg brace, the station inspector paces down a staircase and surveys the crowd.
+IRON_MAN_2.srt 	IRON_MAN_2_DVS49 	00:06:35,00 --> 00:06:41,50 	wearing a crisp black tuxedo, someone surveys the cheering crowd.
+IRON_MAN_2.srt 	IRON_MAN_2_DVS330 	00:59:23,00 --> 00:59:30,50 	the eyes of someone's helmet light up as he raises his head and surveys the destruction.
+IRON_MAN_2.srt 	IRON_MAN_2_DVS524 	01:35:15,00 --> 01:35:21,50 	someone surveys the audience, then salutes.
+KARATE_KID.srt 	KARATE_KID_DVS95 	00:08:28,00 --> 00:08:34,50 	he surveys the run-down hallway, lined with houseplants,
+SALT.srt 	SALT_DVS346 	01:01:46,00 --> 01:01:57,50 	she surveys some men working at a table beneath them.
+THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS317 	00:57:59,00 --> 00:58:04,50 	he gets out and surveys the damage.
+THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS538 	01:37:38,00 --> 01:37:45,50 	as someone surveys their surroundings, someone takes cover behind a pillar.
+THE_CALL.srt 	THE_CALL_DVS110 	00:08:34,00 --> 00:08:41,50 	he goes to the archway and briefly surveys the room before kneeling at the foot of the bed.
+THE_CALL.srt 	THE_CALL_DVS946 	01:12:48,00 --> 01:12:54,50 	lowering the flashlight, she looks at the snap hooks then surveys the surrounding area.
+THE_CALL.srt 	THE_CALL_DVS974 	01:14:39,00 --> 01:14:47,50 	she looks deeper into the chamber as she picks up her phone and swings her flashlight around to survey a narrow hallway.
+THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS534 	01:17:41,00 --> 01:17:51,50 	he idly surveys the bar, then peers over his shoulder,
+THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1144 	01:59:32,00 --> 01:59:39,50 	someone surveys his surroundings.
+THOR.srt 	THOR_DVS89 	00:11:26,00 --> 00:11:31,50 	someone surveys the corpses.
+THOR.srt 	THOR_DVS128 	00:18:31,00 --> 00:18:41,50 	eyes darting as he surveys his surroundings, someone leads the group through distant structures resembling ruins of stone pillars and arches.
+XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS135 	00:08:44,00 --> 00:08:52,50 	the doctor comes over, puts an arm around him, and surveys the devastated medical lab.
+ZOMBIELAND.srt 	ZOMBIELAND_DVS288 	00:32:29,00 --> 00:32:35,50 	he finds it empty and bends over to survey the undercarriage.
+ZOMBIELAND.srt 	ZOMBIELAND_DVS621 	01:10:53,00 --> 01:11:01,50 	with wide eyes, someone surveys the swarm of zombies.

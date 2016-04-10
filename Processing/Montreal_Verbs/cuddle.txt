@@ -1,0 +1,3 @@
+JACK_AND_JILL.srt 	JACK_AND_JILL_DVS144 	00:29:21,00 --> 00:29:29,50 	her mascara smeared, someone lies asleep cuddling poopsie among a pile of used tissues covering the bed.
+LIFE_OF_PI.srt 	LIFE_OF_PI_DVS1012 	01:39:10,00 --> 01:39:15,50 	then cuddles up with a larger one.
+PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS186 	00:35:40,00 --> 00:36:03,50 	later as they cuddle, they share a warm smile.

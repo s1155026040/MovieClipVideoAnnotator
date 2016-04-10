@@ -1,11 +1,10 @@
-0005_Chinatown_00.31.46.005-00.31.49.502 	Both Gittes and Escobar register considerable surprise at seeing one another.
-0020_Raising_Arizona_01.14.59.315-01.15.03.297 	Gale registers understanding.
-0020_Raising_Arizona_01.16.14.892-01.16.16.511 	A thought registers with Gale and Evelle at the same moment.
-0021_Rear_Window_00.43.06.862-00.43.08.362 	The thermometer outside of Jeff's window, registering 83 degrees.
-0021_Rear_Window_01.38.44.240-01.38.45.414 	Stella looks out the window and her face registers shock.
-0030_The_Hustler_00.46.41.325-00.46.54.911 	Eddie pauses a moment to register this as she limps off, then follows.
-0050_Indiana_Jones_and_the_last_crusade_00.26.04.161-00.26.05.829 	Brody registers a look of surprise.
-0050_Indiana_Jones_and_the_last_crusade_01.43.51.799-01.43.59.494 	We get silent reaction shots -- Elsa -- Sallah -- Brody -- Donovan -- registering their different emotions Indy proceeds forward.
-1006_Slumdog_Millionaire_00.31.16.403-00.31.18.111 	Shock registers on Salim's face.
-1006_Slumdog_Millionaire_01.50.24.321-01.50.34.678 	He glances to his right, where he registers the figure of Latika through the gaps in the trains.
+0021_Rear_Window_00.43.06.862-00.43.08.362 	the thermometer outside of jeff's window, registering 83 degrees.
+0021_Rear_Window_01.38.44.240-01.38.45.414 	stella looks out the window and her face registers shock.
+0030_The_Hustler_00.46.41.325-00.46.54.911 	eddie pauses a moment to register this as she limps off, then follows.
+0043_Thelma_and_Luise_00.42.57.747-00.42.59.954 	hal goes over a list of every registered green t-bird in the state.
+0050_Indiana_Jones_and_the_last_crusade_00.26.04.161-00.26.05.829 	brody registers a look of surprise.
+0050_Indiana_Jones_and_the_last_crusade_01.43.51.799-01.43.59.494 	we get silent reaction shots -- elsa -- sallah -- brody -- donovan -- registering their different emotions indy proceeds forward.
+1006_Slumdog_Millionaire_01.50.24.321-01.50.34.678 	he glances to his right, where he registers the figure of latika through the gaps in the trains.
+1031_Quantum_of_Solace_00.46.50.947-00.46.53.057 	he registers surprise.
 2012_Unbreakable_00.49.46.141-00.49.49.309 	it takes a second for david to register the question.
+2012_Unbreakable_01.02.41.979-01.02.45.767 	david becomes still as his words register.

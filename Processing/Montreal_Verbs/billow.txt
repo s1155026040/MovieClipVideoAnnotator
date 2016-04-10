@@ -1,0 +1,13 @@
+CHRONICLE.srt 	CHRONICLE_DVS498 	01:11:32,00 --> 01:11:40,50 	from a few blocks away, we see dirt and someone billow up from a roof as the boys bust through.
+CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS360 	01:27:57,00 --> 01:28:03,50 	someone holds onto her black shawl as it billows in the wind.
+COLOMBIANA.srt 	COLOMBIANA_DVS196 	00:16:53,00 --> 00:17:03,50 	dust billows into the air from their flying bullets.
+DEAR_JOHN.srt 	DEAR_JOHN_DVS296 	00:45:55,00 --> 00:46:24,50 	black smoke billows from one of new york city's twin towers.
+GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS214 	00:34:18,00 --> 00:34:45,50 	he sees his motorcycle surrounded in billowing fire, waiting for him at the end of an alley.
+GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS216 	00:35:00,00 --> 00:35:40,50 	his motorcycle's billowing fire rises and engulfs him.
+GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS235 	00:37:47,00 --> 00:37:53,50 	a mushroom cloud of flames billows into the air.
+GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS247 	00:39:17,00 --> 00:39:28,50 	a brilliant fire cloud billows high into the sky.
+IN_TIME.srt 	IN_TIME_DVS218 	00:23:12,00 --> 00:23:19,50 	he strides toward his car, his long leather jacket billowing behind him.
+IN_TIME.srt 	IN_TIME_DVS907 	01:36:00,00 --> 01:36:06,50 	both vehicles skid to a stop, billowing smoke.
+SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS47 	00:03:33,00 --> 00:03:38,50 	her tasseled scarf billowing behind her.
+SUPER_8.srt 	SUPER_8_DVS383 	01:08:24,00 --> 01:08:29,50 	a white-bearded man points to smoke billowing on the horizon.
+THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS323 	00:50:14,00 --> 00:50:21,50 	billowing black smoke, the sea plane lands on the ocean surface in the distance.

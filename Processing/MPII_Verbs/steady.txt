@@ -1,12 +1,19 @@
-0005_Chinatown_00.49.44.707-00.49.48.406 	Evelyn steadies herself on the open car door.
-0053_Rendezvous_mit_Joe_Black_02.26.02.918-02.26.10.042 	Susan is beside herself, her emotions tossed in every direction, Joe steadies her.
+0004_Charade_00.17.45.483-00.17.49.124 	he stands staring at lampert's body, swaying on his feet until he reaches out and grabs the side of the coffin to steady himself.
+0010_Frau_Ohne_Gewissen_00.51.50.441-00.52.04.291 	while he is steadying himself on the ground with the crutches, phyllis has taken out dietrichson's suitcase and overcoat.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.38.52.632-01.38.53.082 	he puts his hand to the wall to steady himself but quickly yanks it away.
+0031_The_Lost_Weekend_01.02.18.919-01.02.27.655 	steadying himself on the bedpost and holding the door frame, he slowly moves out of the bedroom.
+0050_Indiana_Jones_and_the_last_crusade_00.33.47.798-00.33.48.402 	indy reaches for a wall to steady himself and inadvertently grabs a skeleton.
+1007_Spider-Man1_01.45.11.377-01.45.13.176 	he shoots out a web to steady himself.
+1008_Spider-Man2_01.50.12.670-01.50.13.063 	these same hands steady him.
+1012_Unbreakable_00.42.09.771-00.42.19.954 	grabbing the handrail to steady himself and silhouetted against the daylight, he stares down the long steep staircase at the man striding into the tiled station.
 1014_2012_01.21.12.231-01.21.15.203 	nema's grandma steadies a chicken.
 1026_Legion_00.36.37.473-00.36.38.636 	he steadies the rifle with his claw-like metallic hand.
+1030_Public_Enemies_02.04.36.541-02.04.37.843 	he uses his left to steady it.
+1049_Harry_Potter_and_the_chamber_of_secrets_01.50.12.077-01.50.15.901 	steadying itself, the car flies high over the tops of the tall trees.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.50.55.602-00.50.59.643 	scabior steadies his men.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.11.29.881-01.11.35.028 	harry steadies himself against the glass wall.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.31.00.315-01.31.10.882 	nagini slithers past hagrid towards voldemort, who steadies himself and raises his wand.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.44.46.522-01.44.48.883 	he steadies himself, the basilisk fang in his hand.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.50.55.602-00.50.59.643 	scabior steadies his men.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.11.29.881-01.11.35.028 	harry steadies himself against the glass wall.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.31.00.315-01.31.10.882 	nagini slithers past hagrid towards voldemort, who steadies himself and raises his wand.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.44.46.522-01.44.48.883 	he steadies himself, the basilisk fang in his hand.
+1062_Day_the_Earth_stood_still_00.02.49.726-00.03.02.129 	he moves on, steadying himself with the ice ax.
+1062_Day_the_Earth_stood_still_00.32.19.331-00.32.22.681 	he uses both hands to steady the plastic beaker.
+2026_Legion_00.45.46.665-00.45.49.797 	jeep rests a hand on her shoulder, steadying her.

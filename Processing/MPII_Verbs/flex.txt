@@ -1,11 +1,19 @@
-0017_Pianist_01.36.19.642-01.36.25.092 	He flexes his fingers.
-0023_THE_BUTTERFLY_EFFECT_01.44.59.940-01.45.03.162 	Evan springs to his feet and flexes his real hands triumphantly.
-0030_The_Hustler_01.27.55.859-01.28.01.751 	Eddie flexes his fingers, then tries out a shot on one of Johnny's pool tables.
-0051_Men_in_black_01.22.10.669-01.22.14.116 	Then flexes his arms, still encased in flesh.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.18.32.485-00.18.38.455 	Narcissa releases her grip, and flexes her wrist.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.56.16.509-01.56.18.377 	Harry flexes his neck.
-1007_Spider-Man1_00.18.21.771-00.18.28.592 	He flexes his muscles.
-1007_Spider-Man1_00.27.14.599-00.27.17.987 	Palm uppermost, he flexes his wrist again and another web shoots out and falls to the ground.
+0017_Pianist_01.36.19.642-01.36.25.092 	he flexes his fingers.
+0051_Men_in_black_01.22.10.669-01.22.14.116 	then flexes his arms, still encased in flesh.
+1002_Harry_Potter_and_the_Half-Blood_Prince_00.18.32.485-00.18.38.455 	narcissa releases her grip, and flexes her wrist.
+1002_Harry_Potter_and_the_Half-Blood_Prince_01.56.16.509-01.56.18.377 	harry flexes his neck.
+1007_Spider-Man1_00.18.21.771-00.18.28.592 	he flexes his muscles.
+1007_Spider-Man1_00.27.14.599-00.27.17.987 	palm uppermost, he flexes his wrist again and another web shoots out and falls to the ground.
+1008_Spider-Man2_01.03.02.009-01.03.03.176 	he stretches out his right hand and flexes his wrist.
+1008_Spider-Man2_01.03.11.082-01.03.15.897 	rises, pulls off the mask then flexes his wrists.
+1008_Spider-Man2_01.16.54.046-01.16.55.445 	he flexes his wrists as if shooting out webs.
+1009_Spider-Man3_01.41.18.956-01.41.35.717 	perch tie up on the studded side of the steeple, black- suited spider-man looks at his hand, flexes his fist, then drops from his perch like a bird shot from a tree.
+1023_Horrible_Bosses_00.48.34.138-00.48.38.048 	dale sniffs and flexes his jaw.
+1037_The_Curious_Case_Of_Benjamin_Button_02.12.08.674-02.12.13.259 	he watches as she tries to turn but instead stumbles awkwardly, flexing her bad leg.
+1043_Vantage_Point_00.52.34.206-00.52.36.031 	javier glares at her and flexes his jaw.
+1052_Harry_Potter_and_the_order_of_phoenix_00.27.31.640-00.27.37.954 	the dark lord twists and flexes his neck.
+1052_Harry_Potter_and_the_order_of_phoenix_00.27.40.694-00.27.44.986 	he shifts uneasily, twisting and flexing his neck.
+1052_Harry_Potter_and_the_order_of_phoenix_00.34.22.197-00.34.27.912 	he twists and flexes his neck.
 1052_Harry_Potter_and_the_order_of_phoenix_01.59.20.078-01.59.23.521 	bearing its fangs, the serpent twists and flexes its fiery body.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.30.17.000-01.30.24.799 	voldemort flexes his neck and looks back over his shoulder.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.41.46.525-01.41.50.380 	he flexes the bony fingers of his left hand.

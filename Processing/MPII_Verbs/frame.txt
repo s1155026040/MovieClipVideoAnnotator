@@ -1,66 +1,57 @@
-0001_American_Beauty_00.10.11.190-00.10.11.882 	where it lands next to a framed PHOTOGRAPH of Lester, Carolyn, and a much-younger Jane, taken several years earlier at an amusement park.
-0001_American_Beauty_00.10.11.190-00.10.11.882 	where it lands next to a framed PHOTOGRAPH of Lester, Carolyn, and a much-younger Jane, taken several years earlier at an amusement park.
-0001_American_Beauty_01.51.20.994-01.51.22.282 	CLOSE on a framed PHOTOGRAPH as he picks it up: It's the photo we saw earlier of him, Carolyn and Jane, taken several years ago at an amusement park.
-0007_DIE_NACHT_DES_JAEGERS_00.22.47.761-00.22.50.784 	He looks hard towards WILLA and PREACHER o.s.from JOHN'S VIEWPOINT in tableau of decorous courtship, framed by heavy domestic bodies.
-0007_DIE_NACHT_DES_JAEGERS_00.44.57.884-00.45.06.053 	We TILT to frame him from the waist downward and follow close behind him.
-0007_DIE_NACHT_DES_JAEGERS_01.30.50.414-01.30.51.370 	She turns to her stove and is framed by Christmas garland in b.g.
-0011_Gandhi_02.49.41.594-02.49.45.237 	Outside the canopied area, Bourke-White is crouched, her camera framing the three of them.
-0013_Halloween_00.36.24.686-00.36.26.637 	Annie and LINDSEY WALLACE, a pretty little nine-year-old, stands in the doorway framed by the hall light.
-0014_Ist_das_Leben_nicht_schoen_02.06.10.064-02.06.11.805 	His lips frame their names as he greets them.
-0016_O_Brother_Where_Art_Thou_01.38.25.610-01.38.53.373 	Other objects spin slowly by; framed sepia-tinted family portraits, tree limbs, a fishing pole, an outhouse door, a frying pan, a noose, an old banjo, the wild-eyed frantically paddling bloodhound, a tire with a rope tied around it.
-0020_Raising_Arizona_01.20.57.043-01.20.57.953 	The shot is framed identically to the shot in the Arizona nursery where Hi pulled a baby from under the crib.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.13.03.343-00.13.17.314 	Gandalf stops in front of a framed map, charred in one corner.it is Thorin's map of the Lonely Mountain, Gandalf smiles to himself.
-0027_The_Big_Lebowski_00.11.56.015-00.11.58.517 	Our continuing track and pan have brought us onto a framed Life Magazine cover which is headlined ARE YOU A LEBOWSKI ACHIEVER?
-0041_The_Sixth_Sense_00.04.38.560-00.04.41.025 	Her attention slowly moves to the framed certificate.
-0049_Hannah_and_her_sisters_00.06.30.821-00.06.34.708 	The camera, leaving Elliot, moves across the room, past a wall of framed paintings, a headboard and bed, a night table and lamp, revealing Lee.
-0049_Hannah_and_her_sisters_00.14.27.205-00.14.29.061 	The doctor is framed in the doorway, looking through a file cabinet.
-0049_Hannah_and_her_sisters_00.37.38.067-00.37.39.496 	Two framed nude drawings of Lee are propped up on an easel.
-0049_Hannah_and_her_sisters_00.44.18.398-00.44.21.589 	Evan walks over to the piano, where several framed family photographs sit in a line on its top.
-0049_Hannah_and_her_sisters_00.51.27.427-00.51.29.784 	They stand very close to each other, framed by the door and a stark, subtly striped wallpapered wall.
-0049_Hannah_and_her_sisters_01.15.37.915-01.15.41.602 	He switches on the light, and walking past his spiral staircase, past several framed pictures on the wall, he makes his way to his living room coffee table.
-0049_Hannah_and_her_sisters_01.15.51.008-01.15.56.139 	Then out comes a framed picture of a saint.
-0049_Hannah_and_her_sisters_01.29.30.338-01.29.36.320 	She sits down heavily, tiredly, on the arm of the couch as the movie cuts to several framed photographs on the mantel.
-0050_Indiana_Jones_and_the_last_crusade_01.16.24.261-01.16.33.406 	Indy and Henry hurry down the catwalk until arriving at a PAIR OF DOORWAYS framed into the Zeppelin's outer skin.
-1001_Flight_00.15.41.720-00.15.43.855 	In Nicole's apartment, framed photographs on the table show a younger, smiling Nicole with her mother.
-1001_Flight_00.47.14.870-00.47.18.499 	A retro stereo sits on a cabinet against the wall with framed photos.
-1001_Flight_00.50.35.131-00.50.41.485 	He holds a framed wedding photo of himself and his wife.
-1001_Flight_01.15.30.116-01.15.38.405 	At a church, a large framed picture of Katerina stands surrounded by flowers as a coffin is carried out.
-1003_How_to_Lose_Friends_and_Alienate_People_01.13.34.931-01.13.39.958 	Sydney washes up as his father returns a framed portrait photo of a woman to a shelf.
-1005_Signs_00.02.18.402-00.02.19.332 	Inside a framed photo on a bedside table shows a smiling family.
-1007_Spider-Man1_01.32.05.598-01.32.09.507 	on the bedside cabinet is a framed photograph of her, uncle ben, and peter.
-1008_Spider-Man2_00.13.32.399-00.13.33.840 	harry looks at a framed photograph of his father with peter.
+0001_American_Beauty_00.10.11.190-00.10.11.882 	where it lands next to a framed photograph of lester, carolyn, and a much-younger jane, taken several years earlier at an amusement park.
+0001_American_Beauty_01.51.20.994-01.51.22.282 	close on a framed photograph as he picks it up: it's the photo we saw earlier of him, carolyn and jane, taken several years ago at an amusement park.
+0007_DIE_NACHT_DES_JAEGERS_00.22.47.761-00.22.50.784 	he looks hard towards willa and preacher o.s.from john's viewpoint in tableau of decorous courtship, framed by heavy domestic bodies.
+0007_DIE_NACHT_DES_JAEGERS_00.44.57.884-00.45.06.053 	we tilt to frame him from the waist downward and follow close behind him.
+0007_DIE_NACHT_DES_JAEGERS_01.30.50.414-01.30.51.370 	she turns to her stove and is framed by christmas garland in b.g.
+0011_Gandhi_02.49.41.594-02.49.45.237 	outside the canopied area, bourke-white is crouched, her camera framing the three of them.
+0013_Halloween_00.36.24.686-00.36.26.637 	annie and lindsey wallace, a pretty little nine-year-old, stands in the doorway framed by the hall light.
+0014_Ist_das_Leben_nicht_schoen_02.06.10.064-02.06.11.805 	his lips frame their names as he greets them.
+0016_O_Brother_Where_Art_Thou_01.38.25.610-01.38.53.373 	other objects spin slowly by; framed sepia-tinted family portraits, tree limbs, a fishing pole, an outhouse door, a frying pan, a noose, an old banjo, the wild-eyed frantically paddling bloodhound, a tire with a rope tied around it.
+0020_Raising_Arizona_00.10.50.102-00.10.51.036 	hi enters frame and cinches down a ladder that is tied to the roof of the car.
+0020_Raising_Arizona_00.57.16.451-00.57.17.156 	the motorcycle tire enters frame as the bike comes to a halt.
+0020_Raising_Arizona_01.06.44.800-01.06.49.076 	hi enters frame with the two handguns stuck in his belt, holding his pump-action shotgun.
+0020_Raising_Arizona_01.17.38.950-01.17.40.264 	framed against fire and smoke, he is coming directly toward us, and the baby.
+0020_Raising_Arizona_01.20.57.043-01.20.57.953 	the shot is framed identically to the shot in the arizona nursery where hi pulled a baby from under the crib.
+0021_Rear_Window_00.18.33.676-00.18.34.928 	framed in the doorway is middle-aged waiter wearing a white linen pea jacket with a red collar.
+0022_Reservoir_Dogs_01.08.40.177-01.08.46.979 	freddy enters frame from the same direction he exited in the previous scene, finishing his sentence.
+0027_The_Big_Lebowski_00.11.56.015-00.11.58.517 	our continuing track and pan have brought us onto a framed life magazine cover which is headlined are you a lebowski achiever?
+0033_Amadeus_01.27.09.977-01.27.12.336 	framed in the doorway from outside stands lorl, the maid we noticed in salieri's house.
+0041_The_Sixth_Sense_00.04.42.164-00.04.45.314 	malcolm points to the huge framed certificate propped up on a dining room chair.
+0041_The_Sixth_Sense_00.04.38.560-00.04.41.025 	her attention slowly moves to the framed certificate.
+0049_Hannah_and_her_sisters_00.06.30.821-00.06.34.708 	the camera, leaving elliot, moves across the room, past a wall of framed paintings, a headboard and bed, a night table and lamp, revealing lee.
+0049_Hannah_and_her_sisters_00.14.27.205-00.14.29.061 	the doctor is framed in the doorway, looking through a file cabinet.
+0049_Hannah_and_her_sisters_00.37.38.067-00.37.39.496 	two framed nude drawings of lee are propped up on an easel.
+0049_Hannah_and_her_sisters_00.44.18.398-00.44.21.589 	evan walks over to the piano, where several framed family photographs sit in a line on its top.
+0049_Hannah_and_her_sisters_00.51.27.427-00.51.29.784 	they stand very close to each other, framed by the door and a stark, subtly striped wallpapered wall.
+0049_Hannah_and_her_sisters_01.15.37.915-01.15.41.602 	he switches on the light, and walking past his spiral staircase, past several framed pictures on the wall, he makes his way to his living room coffee table.
+0049_Hannah_and_her_sisters_01.29.30.338-01.29.36.320 	she sits down heavily, tiredly, on the arm of the couch as the movie cuts to several framed photographs on the mantel.
+0050_Indiana_Jones_and_the_last_crusade_01.16.24.261-01.16.33.406 	indy and henry hurry down the catwalk until arriving at a pair of doorways framed into the zeppelin's outer skin.
+1001_Flight_00.15.41.720-00.15.43.855 	in nicole's apartment, framed photographs on the table show a younger, smiling nicole with her mother.
+1001_Flight_01.15.30.116-01.15.38.405 	at a church, a large framed picture of katerina stands surrounded by flowers as a coffin is carried out.
+1002_Harry_Potter_and_the_Half-Blood_Prince_00.09.32.630-00.09.40.513 	harry crosses over to a collection of framed, moving photographs.
 1009_Spider-Man3_01.31.02.116-01.31.04.566 	brock hangs up a framed glow up of the front page.
 1009_Spider-Man3_02.10.50.954-02.10.59.004 	kneeling on either side of harry's body, framed by an arc of girders and the dawn light of the clouds beyond, the two childhood friends bow their heads in shared sorrow.
 1010_TITANIC_00.14.43.357-00.14.45.912 	later, rose sets framed photographs beside the fishbowl.
-1010_TITANIC_03.04.58.199-03.05.03.207 	later, rose sleeps in her berth beside her collection of framed photographs.
-1011_The_Help_00.02.04.321-00.02.10.155 	her eyes move across the room, settling on a framed photo, on the facing wall, of a young, black, graduate student.
 1020_Crazy_Stupid_Love_00.01.49.934-00.01.52.006 	the babysitter, jessica, picks up the framed photo from the floor.
 1028_No_Reservations_01.25.39.748-01.25.42.796 	from the kitchen, they're framed in the window of the fridge door.
 1029_Pride_And_Prejudice_Disk_One_02.14.01.400-02.14.04.067 	her face framed by the straw brim of her gold-colored bonnet.
+1030_Public_Enemies_00.38.08.956-00.38.13.825 	her strawberry blonde hair frames her face in a curly bob.
 1030_Public_Enemies_01.24.39.190-01.24.46.856 	outside, purvis spies a window framing a view of two women, a tuxedoed man and a fourth person drinking and smoking inside.
 1030_Public_Enemies_01.25.01.496-01.25.03.952 	inside dillinger's room, a framed religious icon hangs on the wall over his bed as he rests.
 1035_The_Adjustment_Bureau_00.51.59.924-00.52.04.994 	they enter a wood paneled room through a door framed in green marble.
 1035_The_Adjustment_Bureau_01.34.23.390-01.34.28.187 	finding a dark green door framed in green marble, he desperately yanks it open.
 1037_The_Curious_Case_Of_Benjamin_Button_01.39.41.007-01.39.44.740 	amongst the framed photos at thomas's home is one of thomas and caroline on their wedding day.
-1037_The_Curious_Case_Of_Benjamin_Button_02.01.57.816-02.02.03.412 	they enter a bedroom decorated with framed landscape paintings.
 1037_The_Curious_Case_Of_Benjamin_Button_02.07.48.372-02.07.50.252 	the framed family photograph's on the wall.
 1038_The_Great_Gatsby_01.00.36.593-01.00.38.559 	gatsby looks at daisy, framed by the fountain.
 1038_The_Great_Gatsby_01.32.32.584-01.32.34.003 	the oculist's holding a pair of eyes framed by rusty spectacles stares down unnervingly.
 1041_This_is_40_01.04.11.966-01.04.17.772 	going to a wall, he takes down a framed piece of artwork.
 1042_Up_In_The_Air_01.33.36.016-01.33.53.791 	ryan's solitary figure is framed by one of the row of tall windows in a nondescript hotel block.
+1043_Vantage_Point_00.00.32.105-00.00.34.990 	framed within a v shape, a city skyline.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.29.24.413-01.29.30.061 	harry holds up the match beside a framed photograph.
 1051_Harry_Potter_and_the_goblet_of_fire_00.18.18.451-00.18.20.948 	madame maxime smiles graciously, her face framed by a huge fur collar.
+1057_Seven_pounds_01.14.22.446-01.14.26.496 	her long, dark hair frames her soft features.
 1057_Seven_pounds_01.53.56.358-01.54.04.118 	emily's head and shoulders are framed by the water in the tub.
 1059_The_devil_wears_prada_00.08.05.867-00.08.12.126 	andy walks nervously into the bright, airy office, which has black-and-white framed photos on the wall.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.44.10.961-00.44.19.000 	with torches on either side, luna and harry stand framed in them.
-2012_Unbreakable_00.26.05.418-00.26.09.329 	elijah starts to the back of the store which we now see is some type of art gallery where all the framed pictures are images and sketches from comic books.
-2012_Unbreakable_00.30.34.459-00.30.41.797 	elijah points at the framed comic sketches.
 2012_Unbreakable_01.37.42.886-01.37.45.789 	david turns back to the framed sketch.
-1057_Seven_pounds_01.53.56.358-01.54.04.118 	emily's head and shoulders are framed by the water in the tub.
-1059_The_devil_wears_prada_00.08.05.867-00.08.12.126 	andy walks nervously into the bright, airy office, which has black-and-white framed photos on the wall.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.44.10.961-00.44.19.000 	with torches on either side, luna and harry stand framed in them.
-2012_Unbreakable_00.26.05.418-00.26.09.329 	elijah starts to the back of the store which we now see is some type of art gallery where all the framed pictures are images and sketches from comic books.
-2012_Unbreakable_00.30.34.459-00.30.41.797 	elijah points at the framed comic sketches.
-2012_Unbreakable_01.37.42.886-01.37.45.789 	david turns back to the framed sketch.
-2041_This_is_40_01.04.12.941-01.04.17.523 	pete takes a framed item off of his wall.
 2041_This_is_40_01.04.25.347-01.04.27.360 	pete is there with a framed drawing made by john lennon.

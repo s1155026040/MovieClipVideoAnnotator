@@ -1,24 +1,20 @@
-0007_DIE_NACHT_DES_JAEGERS_00.54.22.633-00.54.23.160 	BIRDIE rears on one elbow and looks up at him.
-0016_O_Brother_Where_Art_Thou_00.53.29.669-00.53.32.666 	Big Dan rears back and whacks at his head.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.07.54.885-00.07.59.803 	The shambling OLD PONY snorts and rears as.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.57.17.077-01.57.20.393 	The huge club descends for the killing blow.suddenly, in a flash of steel, Boromir's long sword slices into the Scaly arm of the troll; it rears back, spewing green blood!
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.56.56.651-00.57.00.423 	LOSE ON: GOLLUM rears back in shock tenses like a CAT.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.12.30.691-01.12.34.859 	HORSES rearing in terror as ROHAN SOLDIERS try to quieten them.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.02.45.121-02.02.54.949 	ANGLE ON: SHADOWFAX rears up and STRIKES at DENETHOR who falls back onto the PYRE.
+0007_DIE_NACHT_DES_JAEGERS_00.54.22.633-00.54.23.160 	birdie rears on one elbow and looks up at him.
+0007_DIE_NACHT_DES_JAEGERS_01.28.13.735-01.28.15.414 	we track them along side of jail to rear of jail.
+0011_Gandhi_00.34.04.952-00.34.10.885 	the horses cannot bring themselves to gallop over the human carpet; they rear, plunge, swerve.
+0016_O_Brother_Where_Art_Thou_00.53.29.669-00.53.32.666 	big dan rears back and whacks at his head.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.57.17.077-01.57.20.393 	the huge club descends for the killing blow.suddenly, in a flash of steel, boromir's long sword slices into the scaly arm of the troll; it rears back, spewing green blood!
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.56.56.651-00.57.00.423 	lose on: gollum rears back in shock tenses like a cat.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.12.30.691-01.12.34.859 	horses rearing in terror as rohan soldiers try to quieten them.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.24.37.763-01.24.44.284 	the horses rear and buck in terror, turning and the three horses disappear.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.02.45.121-02.02.54.949 	angle on: shadowfax rears up and strikes at denethor who falls back onto the pyre.
 1008_Spider-Man2_01.22.55.975-01.23.00.181 	as he looks over the parapet, one of the mechanical limbs rears up and throws him off his feet.
+1009_Spider-Man3_01.58.31.233-01.58.33.562 	sandman rear up for another blow.
 1014_2012_00.46.00.171-00.46.02.654 	the creeks off the road rears up savagely behind them.
 1033_Sherlock_Holmes_A_Game_of_Shadows_01.15.06.462-01.15.13.563 	as the gypsies walk the horses along a narrow track, one of them rears up.
 1046_Australia_00.19.08.014-00.19.11.280 	they just miss the horse, which rears up.
+1049_Harry_Potter_and_the_chamber_of_secrets_02.14.10.264-02.14.12.659 	rearing into the act the serpent ranks in agony.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.32.22.612-01.32.24.050 	the snake rears up and attacks.
 1052_Harry_Potter_and_the_order_of_phoenix_02.02.47.492-02.02.51.194 	voldemort's image hulls with fury and rears away.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.38.04.874-00.38.08.151 	buckbeak rears and attacks malfoy.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_01.59.40.373-01.59.44.440 	it moves forward and rears up, about to strike.
 1056_Rambo_00.04.37.226-00.04.41.220 	a cobra rears in the grass.
-1056_Rambo_00.07.15.000-00.07.18.000 	one of the cobras rears and strikes at the dark-haired wrangler.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.46.09.093-01.46.11.498 	the snake rears up between him and hermione.
-1052_Harry_Potter_and_the_order_of_phoenix_02.02.47.492-02.02.51.194 	voldemort's image hulls with fury and rears away.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.38.04.874-00.38.08.151 	buckbeak rears and attacks malfoy.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_01.59.40.373-01.59.44.440 	it moves forward and rears up, about to strike.
-1056_Rambo_00.04.37.226-00.04.41.220 	a cobra rears in the grass.
-1056_Rambo_00.07.15.000-00.07.18.000 	one of the cobras rears and strikes at the dark-haired wrangler.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.46.09.093-01.46.11.498 	the snake rears up between him and hermione.

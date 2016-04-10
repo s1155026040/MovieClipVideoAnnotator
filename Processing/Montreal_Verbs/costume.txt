@@ -1,0 +1,3 @@
+BURLESQUE.srt 	BURLESQUE_DVS257 	00:36:39,00 --> 00:36:46,50 	onstage, a spotlight sweeps across the costumed girls.
+KATY_PERRY_PART_OF_ME.srt 	KATY_PERRY_PART_OF_ME_DVS40 	00:06:25,00 --> 00:06:33,50 	in a hallway backstage, two costumed women practice dance moves.
+SUPER_8.srt 	SUPER_8_DVS662 	01:45:43,00 --> 01:45:48,50 	costumed as a zombie, someone creeps up behind him.

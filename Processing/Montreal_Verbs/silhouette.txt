@@ -1,0 +1,29 @@
+ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS195 	00:26:42,00 --> 00:26:49,50 	silhouetted against the moonlit mist, someone puts on his stovepipe hat.
+BURLESQUE.srt 	BURLESQUE_DVS541 	01:17:55,00 --> 01:18:01,50 	silhouetted by an offstage light, she strolls away stoically.
+BURLESQUE.srt 	BURLESQUE_DVS625 	01:33:35,00 --> 01:33:42,50 	silhouetted against a brilliant spotlight, someone closes her hands and gently lowers her arms.
+CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS155 	00:27:58,00 --> 00:28:05,50 	who stands silhouetted in front of large windows.
+CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS887 	01:26:35,00 --> 01:26:43,50 	silhouetted against the blue sky, someone and his three surfing buddies gaze out at the water.
+CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS292 	01:10:04,00 --> 01:10:09,50 	sunlight silhouettes the two women.
+DEAR_JOHN.srt 	DEAR_JOHN_DVS144 	00:23:15,00 --> 00:23:24,50 	later, silhouetted by a dusky sky, someone frolics on the beach, playfully evading someone's grasp.
+DEAR_JOHN.srt 	DEAR_JOHN_DVS186 	00:29:37,00 --> 00:29:44,50 	silhouetted against the gray sky, someone bows his head.
+DEAR_JOHN.srt 	DEAR_JOHN_DVS611 	01:23:58,00 --> 01:24:06,50 	her form still silhouetted against the stables rear open doorway.
+JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS318 	01:41:58,00 --> 01:42:05,50 	now silhouetted against the moonlit ocean, a pod of dolphins leap from the water.
+KARATE_KID.srt 	KARATE_KID_DVS232 	00:20:09,00 --> 00:20:22,50 	now, a classical chinese tower, with stacked roofs, stands silhouetted against a golden sky and low sun.
+KARATE_KID.srt 	KARATE_KID_DVS273 	00:24:47,00 --> 00:24:56,50 	now, twin skyscrapers under construction stand silhouetted against a rising sun that glows through the smog.
+KARATE_KID.srt 	KARATE_KID_DVS836 	01:09:18,00 --> 01:09:22,50 	the spotlight silhouettes them as they move closer and touch foreheads, then press their lips together in a gentle steady kiss.
+KARATE_KID.srt 	KARATE_KID_DVS1250 	01:41:52,00 --> 01:41:57,50 	silhouetting the pair, as someone tugs someone outside.
+NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS494 	01:39:58,00 --> 01:40:18,50 	silhouetted against the sunny sky, the magical woman slowly descends out of view.
+PROMETHEUS.srt 	PROMETHEUS_DVS166 	00:10:50,00 --> 00:10:59,50 	lawrence, peter o'toole extinguishes a match with his fingertips, silhouetted against the screen, someone watches.
+PROMETHEUS.srt 	PROMETHEUS_DVS575 	01:04:23,00 --> 01:04:31,50 	silhouetted against the windows of someone's quarters, holloway hunches over and rubs his face.
+ROBIN_HOOD.srt 	ROBIN_HOOD_DVS320 	01:17:28,00 --> 01:17:54,50 	form silhouetted against the fire.
+RUBY_SPARKS.srt 	RUBY_SPARKS_DVS407 	01:04:08,00 --> 01:04:13,50 	silhouetted against the soft lamplight.
+SALT.srt 	SALT_DVS532 	01:30:49,00 --> 01:31:09,50 	the helicopters rise high above the city, silhouetted against a rose and indigo sky.
+SANCTUM.srt 	SANCTUM_DVS225 	00:48:31,00 --> 00:48:47,50 	now underwater, we peer up at four pairs of legs silhouetted against the light above the surface.
+SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1190 	01:20:29,00 --> 01:20:34,50 	silhouetted against a window, she swallows hard,
+SPARKLE_2012.srt 	SPARKLE_2012_DVS347 	00:57:05,00 --> 00:57:11,50 	her sisters remain silhouetted by backdrops of large lit squares.
+SPARKLE_2012.srt 	SPARKLE_2012_DVS360 	01:00:32,00 --> 01:00:41,50 	someone and someone shimmy backwards, silhouetted on either side of sister as she walks with her back to the audience.
+THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS425 	01:01:21,00 --> 01:01:27,50 	sir someone glares at the silhouetted figure as he approaches.
+THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS683 	01:31:54,00 --> 01:32:01,50 	silhouetted by bright lights, sakharin strides down a section of broken crane toward him.
+THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS56 	00:13:09,00 --> 00:13:17,50 	now, leafless trees silhouette the dusky horizon where someone stops and gazes off.
+TRUE_GRIT.srt 	TRUE_GRIT_DVS537 	01:37:03,00 --> 01:37:08,50 	silhouetted against the pale sky, someone gallops on across the dusty plain.
+TRUE_GRIT.srt 	TRUE_GRIT_DVS549 	01:38:13,00 --> 01:38:18,50 	she sees a silhouetted horseman up ahead.

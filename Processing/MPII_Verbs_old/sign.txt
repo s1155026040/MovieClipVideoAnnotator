@@ -1,0 +1,24 @@
+0005_Chinatown_00.59.54.299-00.59.57.494 	She signs it.
+0010_Frau_Ohne_Gewissen_00.14.34.761-00.14.38.783 	Gorlopis hesitates, then signs laboriously.
+0010_Frau_Ohne_Gewissen_00.35.11.734-00.35.13.250 	Casually Neff lifts the briefcase and signed applications off Dietrichson's lap.
+0011_Gandhi_00.40.05.521-00.40.08.969 	Smuts signs the last document, then sees Gandhi's doubt -- and misreads it.
+0014_Ist_das_Leben_nicht_schoen_01.32.19.424-01.32.20.537 	He is signing some papers.
+0026_The_Big_Fish_00.52.05.271-00.52.16.103 	Amos leans over so Karl can sign a contract on his back.
+0026_The_Big_Fish_01.42.16.516-01.42.22.629 	She finds a pen and hastily signs the deed to the house.
+0046_Chasing_Amy_00.03.44.917-00.03.46.658 	BANKY signs the book of another COLLECTOR.
+0050_Indiana_Jones_and_the_last_crusade_01.09.59.891-01.10.02.510 	Hitler pauses to sign them.
+0050_Indiana_Jones_and_the_last_crusade_01.10.13.138-01.10.31.495 	Hitler breaks the spell by taking the Grail Diary from him, opens it to the first page and signs his autograph.
+0051_Men_in_black_00.50.17.315-00.50.18.262 	Laurel signs his clipboard.
+1004_Juno_00.38.34.360-00.38.39.329 	The woman grudgingly signs a pink form and hands it to Juno.
+1006_Slumdog_Millionaire_00.13.13.850-00.13.17.191 	Amitabh signs the photo and hands it back to Jamal.
+1030_Public_Enemies_00.48.24.321-00.48.29.066 	the gang leader signs a guest register.
+1033_Sherlock_Holmes_A_Game_of_Shadows_00.36.35.666-00.36.59.583 	as moriarty sits at his desk and signs the book, holmes walks behind him and looks at a blackboard covered in calculations.
+1033_Sherlock_Holmes_A_Game_of_Shadows_00.51.48.051-00.51.53.191 	in a grand building, moriarty is signing a copy of his book on asteroids for an admirer.
+1033_Sherlock_Holmes_A_Game_of_Shadows_00.52.09.451-00.52.18.907 	moriarty looks at the note then puts it in a leather covered notebook before signing another book.
+1039_The_Queen_00.52.50.497-00.53.02.688 	the queen signs the letter.
+1046_Australia_01.19.20.197-01.19.28.193 	the building starts to shake as the captain signs the agreement.
+1046_Australia_02.06.21.620-02.06.22.987 	fletcher signs the contract to buy faraway downs.
+1057_Seven_pounds_00.36.23.002-00.36.26.393 	ben signs a document.
+1057_Seven_pounds_01.04.25.000-01.04.28.057 	her hand hovers over a document, then she signs it.
+1057_Seven_pounds_00.36.23.002-00.36.26.393 	ben signs a document.
+1057_Seven_pounds_01.04.25.000-01.04.28.057 	her hand hovers over a document, then she signs it.

@@ -1,0 +1,19 @@
+0005_Chinatown_00.36.41.856-00.36.49.399 	They begin to walk slowly, again have to move out of the way as some other corpse is being wheeled out of one of the Coroner cubicles.
+0006_Clerks_01.15.00.412-01.15.07.262 	The stretcher is wheeled out.
+0009_Forrest_Gump_00.57.03.835-00.57.08.454 	Forrest holds two ice cream cones in his hands as he is wheeled on a rolling stretcher.
+0009_Forrest_Gump_00.57.07.250-00.57.14.539 	Forrest, lying on his stomach, is wheeled to his bed.
+0009_Forrest_Gump_00.57.53.258-00.57.55.023 	Forrest looks up at Lt. Dan as he is wheeled away.
+0014_Ist_das_Leben_nicht_schoen_01.15.29.216-01.15.32.198 	Potter is wheeled in toward a long table around which several men are seated.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.37.09.512-01.37.10.907 	The Orc are chanting as the BEAST is wheeled closer and closer to the.
+1008_Spider-Man2_00.39.45.952-00.39.51.429 	equipment units are wheeled aside.
+1008_Spider-Man2_00.43.55.527-00.43.59.538 	lying on a stretcher trolley, rosie's dead body is covered and wheeled over to an ambulance.
+1019_Confessions_Of_A_Shopaholic_00.20.57.436-00.21.02.648 	the clothes rail is wheeled away, leaving rebecca lying on the floor, clutching her letter.
+1031_Quantum_of_Solace_00.39.20.511-00.39.23.624 	a huge glitter ball and other equipment is being wheeled on trolleys and a poster advertising tosca.
+1037_The_Curious_Case_Of_Benjamin_Button_02.38.02.597-02.38.07.145 	patients are wheeled hastily through the hospital corridors.
+1052_Harry_Potter_and_the_order_of_phoenix_02.07.18.193-02.07.21.944 	trunks and suitcases are wheeled along the platform.
+1057_Seven_pounds_01.50.24.746-01.50.29.536 	emily is wheeled down a hospital corridor on a gurney.
+1062_Day_the_Earth_stood_still_00.24.25.000-00.24.29.000 	a sarcophagus-like gurney is wheeled to a prefab hut in a hanger.
+1052_Harry_Potter_and_the_order_of_phoenix_02.07.18.193-02.07.21.944 	trunks and suitcases are wheeled along the platform.
+1057_Seven_pounds_01.50.24.746-01.50.29.536 	emily is wheeled down a hospital corridor on a gurney.
+1062_Day_the_Earth_stood_still_00.24.25.000-00.24.29.000 	a sarcophagus-like gurney is wheeled to a prefab hut in a hanger.
+2027_Les_Miserables_01.39.53.896-01.39.55.480 	the barricade is now complete: an impressive wall up to twelve feet high, with one heavily guarded section that can be wheeled open to allow access.

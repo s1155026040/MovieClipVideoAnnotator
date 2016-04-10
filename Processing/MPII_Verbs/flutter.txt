@@ -1,58 +1,27 @@
-0001_American_Beauty_01.53.40.384-01.53.43.053 	Ghostly LEAVES FLUTTER slowly toward pavement.
-0011_Gandhi_02.34.46.860-02.34.47.007 	Ba's eyes flutter open.
-0016_O_Brother_Where_Art_Thou_00.32.15.997-00.32.18.740 	It crashes back onto all four and, as it speeds along, dollar bills snap and flutter out its windows.
-0016_O_Brother_Where_Art_Thou_00.32.29.146-00.32.33.219 	Delmar plucks a fluttering dollar bill out of the air and looks at it wonderingly.
-0016_O_Brother_Where_Art_Thou_00.32.27.129-00.32.31.140 	Like a child gazing at soap bubbles, Delmar looks around at the wafting currency, and yanks another fluttering bill out of the air.
-0016_O_Brother_Where_Art_Thou_00.33.10.008-00.33.12.823 	Delmar reacts to the paper currency fluttering inside the car.
-0016_O_Brother_Where_Art_Thou_01.18.42.478-01.18.43.508 	The only sound is the fluttering flag.
-0020_Raising_Arizona_01.16.25.904-01.16.26.910 	Blue dollar bills snap and flutter around the inside of the car.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.50.57.648-02.51.08.218 	FRODO'S eyes flutter open.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_03.03.32.487-03.03.34.986 	BILBO'S eyes flutter OPEN.
-0031_The_Lost_Weekend_01.25.56.848-01.25.59.917 	The top of the bat's hooked wing nicks his forehead as it speeds in swift but fluttering flight straight at the mouse.
-0049_Hannah_and_her_sisters_00.43.33.812-00.43.37.199 	A station wagon on the opposite side of the street pulls away as Hannah, a white scarf fluttering over her shoulder, gets out of the cab.
-0053_Rendezvous_mit_Joe_Black_00.02.32.418-00.02.41.810 	Parrish closes his eyes but then they flutter open, he glances up at the ceiling and finally, exhausted, falls back asleep.
-1003_How_to_Lose_Friends_and_Alienate_People_00.37.39.187-00.37.43.854 	Flustered, he looks down at Elizabeth, then lifts his chin, flutters his eyelids and steps over her.
-1006_Slumdog_Millionaire_01.48.44.683-01.48.47.524 	Rupee notes flutter into the air.
-1007_Spider-Man1_01.55.39.928-01.55.49.505 	he flips up and somersaults, landing on a rooftop flagpole by the fluttering stars and stripes.
+0016_O_Brother_Where_Art_Thou_00.32.15.997-00.32.18.740 	it crashes back onto all four and, as it speeds along, dollar bills snap and flutter out its windows.
+0016_O_Brother_Where_Art_Thou_00.33.10.008-00.33.12.823 	delmar reacts to the paper currency fluttering inside the car.
+0020_Raising_Arizona_01.16.25.904-01.16.26.910 	blue dollar bills snap and flutter around the inside of the car.
+0031_The_Lost_Weekend_01.25.56.848-01.25.59.917 	the top of the bat's hooked wing nicks his forehead as it speeds in swift but fluttering flight straight at the mouse.
+0032_The_Princess_Bride_00.10.02.600-00.10.05.730 	inigo is at the helm, fezzik stands near the body of the princess, whose eyelids flutter slightly--or do they?
+0053_Rendezvous_mit_Joe_Black_00.02.32.418-00.02.41.810 	parrish closes his eyes but then they flutter open, he glances up at the ceiling and finally, exhausted, falls back asleep.
+1003_How_to_Lose_Friends_and_Alienate_People_00.37.39.187-00.37.43.854 	flustered, he looks down at elizabeth, then lifts his chin, flutters his eyelids and steps over her.
+1006_Slumdog_Millionaire_01.48.44.683-01.48.47.524 	rupee notes flutter into the air.
 1009_Spider-Man3_01.53.41.247-01.53.43.551 	spider-man leaps onto a building with the stars and stripes fluttering behind him, then launches himself towards the action.
 1010_TITANIC_00.27.14.410-00.27.22.050 	white seagulls appear no larger than insects as they flutter past the titanic's massive crowd.
-1011_The_Help_00.04.47.400-00.04.50.175 	a flag flutters on the roof of the substantial offices of the jackson journal.
 1017_Bad_Santa_00.00.47.519-00.00.49.479 	a few flakes of snow gently flutter out of a night sky past a christmas tree made of fairy lights atop an establishment advertising itself as o'hara's pub.
 1019_Confessions_Of_A_Shopaholic_00.50.53.368-00.50.56.811 	luke looks both startled and pleased as she flutters her eyelashes at him from behind the fan.
 1028_No_Reservations_01.33.31.014-01.33.36.351 	amid the faded flowers on the grave is zoe's peacock feather, fluttering in the breeze.
 1030_Public_Enemies_01.15.36.355-01.15.47.071 	a stiff wind flutters the awnings of a storefront.
-1035_The_Adjustment_Bureau_00.51.18.251-00.51.20.081 	elise balances on one foot, bends over, and briefly flutters her other foot high behind her.
-1043_Vantage_Point_00.15.12.817-00.15.17.243 	barnes sees the man in the checked shirt pointing his camera at the upper floors behind him to where barnes saw the fluttering curtain.
-1046_Australia_01.06.52.920-01.06.56.503 	flynn's eyes flutter and close.
-1049_Harry_Potter_and_the_chamber_of_secrets_00.35.03.650-00.35.06.896 	the howler shreds itself into tiny pieces and flutters down onto the table.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.32.07.334-00.32.10.614 	butterflies flutter around them.
-1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.22.35.783-01.22.38.946 	the fluttering wings slow then fold away.
+1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.47.43.422-00.47.50.489 	harry stares at the snitch fluttering in front of him.
 1051_Harry_Potter_and_the_goblet_of_fire_00.17.54.926-00.17.57.715 	tiny bluebirds flutter around them.
-1051_Harry_Potter_and_the_goblet_of_fire_00.32.09.427-00.32.11.817 	a piece of charred parchment flutters down into his hand.
 1051_Harry_Potter_and_the_goblet_of_fire_00.33.45.090-00.33.48.499 	it flutters down into dumbledore's hand.
-1051_Harry_Potter_and_the_goblet_of_fire_01.22.50.564-01.22.57.092 	a large black crow flutters down onto the windowsill and peers in.
 1052_Harry_Potter_and_the_order_of_phoenix_00.34.58.586-00.35.02.902 	it becomes an intricate paper bird and flutters its wings.
 1053_Harry_Potter_and_the_philosophers_stone_01.05.50.000-01.05.56.763 	and it flutters above harry's head.
-1053_Harry_Potter_and_the_philosophers_stone_01.23.36.602-01.23.55.296 	as his teammate swoop around the arena on their broomsticks, celebrating their success, harry holds the fluttering golden snitch, triumphing above his head and slowly turns, displaying his prize to his ecstatic supporters.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.51.17.300-00.51.33.155 	a single autumn leaf flutters down from the whomping willow, then all the leaves fall at once and the tree shakes its bare branches.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.54.20.062-00.54.22.851 	barely visible, a golden snitch flutters past.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_01.43.05.040-01.43.12.081 	a swarm of hooded dementors are circling above their heads, their black cloaks fluttering behind them.
 1059_The_devil_wears_prada_01.11.24.956-01.11.29.536 	the scarves flutter around her.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.16.09.571-01.16.14.655 	snape bends down and picks a plant with two leaves, which flutter like wings.
-1062_Day_the_Earth_stood_still_01.16.38.000-01.16.46.101 	deep in the minute cracks of the damaged drill, tiny black bugs flutter and multiply by dividing in two.
-2027_Les_Miserables_00.14.17.744-00.14.19.780 	the scraps flutter in the wind.
-1053_Harry_Potter_and_the_philosophers_stone_01.05.50.000-01.05.56.763 	and it flutters above harry's head.
-1053_Harry_Potter_and_the_philosophers_stone_01.23.36.602-01.23.55.296 	as his teammate swoop around the arena on their broomsticks, celebrating their success, harry holds the fluttering golden snitch, triumphing above his head and slowly turns, displaying his prize to his ecstatic supporters.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.51.17.300-00.51.33.155 	a single autumn leaf flutters down from the whomping willow, then all the leaves fall at once and the tree shakes its bare branches.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.54.20.062-00.54.22.851 	barely visible, a golden snitch flutters past.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_01.43.05.040-01.43.12.081 	a swarm of hooded dementors are circling above their heads, their black cloaks fluttering behind them.
-1059_The_devil_wears_prada_01.11.24.956-01.11.29.536 	the scarves flutter around her.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.16.09.571-01.16.14.655 	snape bends down and picks a plant with two leaves, which flutter like wings.
-1062_Day_the_Earth_stood_still_01.16.38.000-01.16.46.101 	deep in the minute cracks of the damaged drill, tiny black bugs flutter and multiply by dividing in two.
-2027_Les_Miserables_00.14.17.744-00.14.19.780 	the scraps flutter in the wind.
-2027_Les_Miserables_01.40.49.895-01.40.50.306 	a single flaming torch atop the barricade caged in by cobbles underlights a fluttering red flag.
-2054_Harry_Potter_and_the_prisoner_of_azkaban_00.53.17.376-00.53.18.649 	as he opens them, a moth flutters from his palms.
+1062_Day_the_Earth_stood_still_00.27.46.988-00.27.55.067 	she peers in and sees the man's eyes fluttering.
+2004_Juno_01.25.48.230-01.25.50.760 	juno looks at the baby in awe, then her eyes begin to flutter.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_01.07.09.710-01.07.10.617 	butterflies flutter over the great green lawn.
-2054_Harry_Potter_and_the_prisoner_of_azkaban_01.13.27.860-01.13.31.692 	all except harry, who lies in bed, studying the photo of his parents, barely visible in the fluttering light of a guttering candle.
-2054_Harry_Potter_and_the_prisoner_of_azkaban_01.35.51.411-01.35.53.424 	his hands flutter nervously, reveal a missing index finger.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_02.00.12.627-02.00.15.816 	eerie shadows flutter over the moon, greasy as smoke.

@@ -1,0 +1,8 @@
+BURLESQUE.srt 	BURLESQUE_DVS738 	01:51:06,00 --> 01:51:17,50 	strobe lights flash and giant block letters spelling burlesque light up onstage.
+JACK_AND_JILL.srt 	JACK_AND_JILL_DVS204 	00:39:54,00 --> 00:39:58,50 	mustard spells out call me.
+PROMETHEUS.srt 	PROMETHEUS_DVS85 	00:05:00,00 --> 00:05:06,50 	clean white lines appear, gradually forming letters that spell a title.
+RUBY_SPARKS.srt 	RUBY_SPARKS_DVS262 	00:40:40,00 --> 00:40:48,50 	a reluctant someone starts typing and we glimpse his words as they spell out on the page.
+THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS98 	00:18:25,00 --> 00:18:34,50 	at dusk, a red car passes terrain decorated with names spelled out in white stones.
+THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS652 	01:33:04,00 --> 01:33:09,50 	behind the glass of a large frame, wooden block letters spell out "kikila".
+THE_VOW.srt 	THE_VOW_DVS100 	00:09:40,00 --> 00:09:46,50 	someone serves her pancakes with words spelled in blueberries.
+WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS248 	00:40:24,00 --> 00:40:30,50 	big loopy letters spell, hey someone.

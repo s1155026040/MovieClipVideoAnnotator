@@ -1,0 +1,18 @@
+CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS388 	01:10:55,00 --> 01:11:02,50 	someone smiles at someone as they walk past lines of cheering soldiers.
+CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS394 	01:11:57,00 --> 01:12:03,50 	still smiling, someone locks her eyes on someone as he gazes at the faces of the cheering soldiers all around him.
+CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS647 	01:48:48,00 --> 01:48:59,50 	in trafalgar square, planes streak over cheering crowds waving british flags.
+CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS1114 	01:46:44,00 --> 01:46:49,50 	up on the bluff, onlookers cheer and clap.
+DEAR_JOHN.srt 	DEAR_JOHN_DVS142 	00:22:55,00 --> 00:23:10,50 	trying another wave, someone manages to stand briefly as someone cheers her on.
+KARATE_KID.srt 	KARATE_KID_DVS1453 	01:58:38,00 --> 01:58:43,50 	from the sidelines, his classmates cheer wildly.
+KARATE_KID.srt 	KARATE_KID_DVS1539 	02:04:37,00 --> 02:04:45,50 	in the stands, someone cranes her neck for a view of her son, as the spectators cheer him on.
+KATY_PERRY_PART_OF_ME.srt 	KATY_PERRY_PART_OF_ME_DVS32 	00:05:38,00 --> 00:05:47,50 	young women cheer and wave.
+KATY_PERRY_PART_OF_ME.srt 	KATY_PERRY_PART_OF_ME_DVS40 	00:06:25,00 --> 00:06:33,50 	lights flash among the crowd of cheering men and women.
+KATY_PERRY_PART_OF_ME.srt 	KATY_PERRY_PART_OF_ME_DVS48 	00:07:53,00 --> 00:07:58,50 	audience members cheer, scream, and wave.
+KATY_PERRY_PART_OF_ME.srt 	KATY_PERRY_PART_OF_ME_DVS132 	00:36:00,00 --> 00:36:09,50 	cheering fans fill a large arena.
+KATY_PERRY_PART_OF_ME.srt 	KATY_PERRY_PART_OF_ME_DVS291 	01:09:10,00 --> 01:09:16,50 	cheering people standing behind a security barricade wave their arms.
+KATY_PERRY_PART_OF_ME.srt 	KATY_PERRY_PART_OF_ME_DVS312 	01:11:33,00 --> 01:11:39,50 	as fans cheer the performers stack their hands in a pile.
+KATY_PERRY_PART_OF_ME.srt 	KATY_PERRY_PART_OF_ME_DVS364 	01:25:36,00 --> 01:25:41,50 	spotlights shine over a sea of cheering fans.
+THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS115 	00:23:10,00 --> 00:23:34,50 	two young women cheer.
+THOR.srt 	THOR_DVS63 	00:07:42,00 --> 00:07:50,50 	smiling as he strides past lines of guards, the man casually flips the hammer and points to cheering onlookers.
+WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS618 	01:24:42,00 --> 01:24:50,50 	the beaming bride and groom envelope each other in a passionate kiss, as the guests and bridesmaids cheer 	joyfully.
+XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS336 	00:25:25,00 --> 00:25:33,50 	in a pub, young men and women cheer on someone as he drains a yard glass of beer.

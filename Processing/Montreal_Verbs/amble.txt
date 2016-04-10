@@ -1,0 +1,28 @@
+21_JUMP_STREET.srt 	21_JUMP_STREET_DVS499 	01:19:06,00 --> 01:19:10,50 	loading the hatchback, someone spots someone ambling across the front lawn.
+ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS89 	00:10:04,00 --> 00:10:10,50 	leaving, he steps over the body and ambles around a corner of the dock.
+DEAR_JOHN.srt 	DEAR_JOHN_DVS32 	00:04:14,00 --> 00:04:18,50 	someone ambles off.
+DEAR_JOHN.srt 	DEAR_JOHN_DVS90 	00:13:19,00 --> 00:13:30,50 	he pulls out a set of keys and hands them to someone, who ambles toward the door.
+FLIGHT.srt 	FLIGHT_DVS506 	01:13:00,00 --> 01:13:04,50 	he ambles toward her.
+GREEN_ZONE.srt 	GREEN_ZONE_DVS167 	00:44:02,00 --> 00:44:15,50 	as someone makes his way around the pool, two guys in board shorts amble past, both casually toting semi-automatics.
+JACK_AND_JILL.srt 	JACK_AND_JILL_DVS393 	01:13:00,00 --> 01:13:04,50 	and she ambles over.
+JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS366 	01:09:51,00 --> 01:09:59,50 	the tabby jumps off the couch and ambles away.
+KARATE_KID.srt 	KARATE_KID_DVS107 	00:09:57,00 --> 00:10:05,50 	later, someone moves a suitcase into the apartment, then ambles over to the windows lining the hallway.
+KARATE_KID.srt 	KARATE_KID_DVS341 	00:30:58,00 --> 00:31:04,50 	now, someone steps outside and ambles along with a smile.
+KARATE_KID.srt 	KARATE_KID_DVS847 	01:10:05,00 --> 01:10:09,50 	someone ambles back into the room.
+LIFE_OF_PI.srt 	LIFE_OF_PI_DVS1054 	01:44:56,00 --> 01:45:01,50 	the tiger awkwardly ambles across the sand.
+MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS56 	00:09:08,00 --> 00:09:14,50 	someone ambles into the living room and stuffs his hands in his pockets.
+PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS258 	00:48:44,00 --> 00:49:19,50 	the gang leader takes off his suit coat and handgun, then ambles to a set of closed double doors.
+PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS268 	00:50:55,00 --> 00:51:01,50 	he stands and ambles toward the bars.
+RUBY_SPARKS.srt 	RUBY_SPARKS_DVS56 	00:09:45,00 --> 00:09:50,50 	he ambles across the foyer.
+RUBY_SPARKS.srt 	RUBY_SPARKS_DVS512 	01:20:28,00 --> 01:20:33,50 	someone ambles past someone.
+SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS672 	00:43:55,00 --> 00:44:02,50 	he turns and ambles across the room to a window, posts his arm on the wall, and hangs his head.
+SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS761 	00:50:17,00 --> 00:50:22,50 	someone turns away and ambles off alone.
+THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS87 	00:19:48,00 --> 00:20:02,50 	wearing his trench coat someone slowly ambles along with a briefcase in hand.
+THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS578 	01:44:30,00 --> 01:44:38,50 	pursing his mouth regretfully, someone waves goodbye to the cop and ambles out.
+THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS312 	00:47:12,00 --> 00:47:18,50 	someone ambles into the hospital room, her eyes fixed on her mother.
+THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS403 	01:00:52,00 --> 01:00:58,50 	now, at the beach, he ambles over to a blanket where alexandra suns her back and someone lies with her head on someone's shoulder.
+THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS733 	01:43:19,00 --> 01:43:25,50 	then ambles across the room and stands at her bedside.
+THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1178 	02:05:49,00 --> 02:05:57,50 	someone meets his terrified gaze then ambles back to the counter.
+XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1344 	02:03:38,00 --> 02:03:42,50 	someone ambles into the cell.
+ZOMBIELAND.srt 	ZOMBIELAND_DVS374 	00:42:19,00 --> 00:42:26,50 	as someone ambles to a postcard rack behind him, someone sniffs another bottle.
+ZOOKEEPER.srt 	ZOOKEEPER_DVS126 	00:27:17,00 --> 00:27:25,50 	someone ambles off with a bucket still in hand.

@@ -1,3 +1,8 @@
-0007_DIE_NACHT_DES_JAEGERS_00.19.41.980-00.19.43.201 	They are impressed in their different ways.
-0011_Gandhi_01.19.38.134-01.19.40.549 	It impresses each one of them.
-0050_Indiana_Jones_and_the_last_crusade_00.30.11.106-00.30.16.917 	Indy is impressed with Elsa's spirit, and cooperates agreeably -- holding her by the hands and lowering her into the hole.
+0002_As_Good_As_It_Gets_00.10.07.173-00.10.09.662 	melvin appears impressed.
+0007_DIE_NACHT_DES_JAEGERS_00.19.41.980-00.19.43.201 	they are impressed in their different ways.
+0011_Gandhi_01.19.38.134-01.19.40.549 	it impresses each one of them.
+0049_Hannah_and_her_sisters_00.20.03.604-00.20.08.112 	holly chuckles as david, listening to april, impressed, walks over to her.
+0050_Indiana_Jones_and_the_last_crusade_00.30.11.106-00.30.16.917 	indy is impressed with elsa's spirit, and cooperates agreeably -- holding her by the hands and lowering her into the hole.
+1017_Bad_Santa_00.06.35.919-00.06.38.415 	santa mooches inside past his less than impressed elf.
+1045_An_education_01.02.00.304-01.02.02.250 	david's less than impressed, then takes another photo.
+2017_Bad_Santa_00.07.33.107-00.07.35.703 	both men are impressed.

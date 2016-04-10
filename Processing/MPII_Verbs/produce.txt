@@ -1,19 +1,21 @@
-0001_American_Beauty_01.15.25.348-01.15.26.283 	His working out is beginning to produce results.
-0003_CASABLANCA_01.04.11.990-01.04.13.999 	He produces a glass from a back pocket.
-0011_Gandhi_00.07.27.629-00.07.32.469 	He reaches into this waistcoat and produces a card which he presents to the conductor.
-0011_Gandhi_00.40.46.818-00.40.53.340 	Still a little confused, Daniels reaches in his pocket and produces a shilling.
-0011_Gandhi_01.17.50.040-01.17.50.946 	Again the temper of it produces a little silence.
-0011_Gandhi_01.18.59.373-01.19.00.815 	His stand has produced a little shock of surprise.
-0017_Pianist_01.08.38.545-01.08.56.503 	He glowers at Szpilman, reaches in again, produces a handful of oatmeal.
-0017_Pianist_01.37.45.856-01.37.48.470 	Szalas produces a quarter bottle of vodka, thumps the back of the bottle so that the cork flies out.
-0020_Raising_Arizona_00.57.49.925-00.57.55.329 	Swinging as he walks, the Biker's hand produces a fresh cheroot from no apparent source-either sleight-of-hand or magic.
-0020_Raising_Arizona_00.57.55.329-00.57.57.215 	Similarly producing a long wooden match.
-0027_The_Big_Lebowski_01.43.02.680-01.43.03.991 	With a ring of steel, Dieter produces a glinting saber.
-0033_Amadeus_00.28.40.060-00.28.41.033 	He produces a paper.
-0050_Indiana_Jones_and_the_last_crusade_00.20.51.068-00.20.55.642 	Donovan produces an ANCIENT LEATHER-BOUND VOLUME with very brittle pages.
-0050_Indiana_Jones_and_the_last_crusade_01.13.13.211-01.13.18.980 	Everyone else with a ticket quickly produces it and waves it in Indy's face.
+0001_American_Beauty_01.15.25.348-01.15.26.283 	his working out is beginning to produce results.
+0003_CASABLANCA_01.04.11.990-01.04.13.999 	he produces a glass from a back pocket.
+0011_Gandhi_00.07.27.629-00.07.32.469 	he reaches into this waistcoat and produces a card which he presents to the conductor.
+0011_Gandhi_00.40.46.818-00.40.53.340 	still a little confused, daniels reaches in his pocket and produces a shilling.
+0011_Gandhi_01.17.50.040-01.17.50.946 	again the temper of it produces a little silence.
+0011_Gandhi_01.18.59.373-01.19.00.815 	his stand has produced a little shock of surprise.
+0017_Pianist_01.08.38.545-01.08.56.503 	he glowers at szpilman, reaches in again, produces a handful of oatmeal.
+0017_Pianist_01.37.45.856-01.37.48.470 	szalas produces a quarter bottle of vodka, thumps the back of the bottle so that the cork flies out.
+0020_Raising_Arizona_00.57.49.925-00.57.55.329 	swinging as he walks, the biker's hand produces a fresh cheroot from no apparent source-either sleight-of-hand or magic.
+0020_Raising_Arizona_00.57.55.329-00.57.57.215 	similarly producing a long wooden match.
+0021_Rear_Window_00.19.02.746-00.19.04.890 	produces two glasses, hold them up.
+0027_The_Big_Lebowski_01.43.02.680-01.43.03.991 	with a ring of steel, dieter produces a glinting saber.
+0033_Amadeus_00.28.40.060-00.28.41.033 	he produces a paper.
+0050_Indiana_Jones_and_the_last_crusade_00.20.51.068-00.20.55.642 	donovan produces an ancient leather-bound volume with very brittle pages.
+0050_Indiana_Jones_and_the_last_crusade_01.13.13.211-01.13.18.980 	everyone else with a ticket quickly produces it and waves it in indy's face.
 1008_Spider-Man2_00.29.34.279-00.29.37.035 	he produces the ticket.
 1011_The_Help_00.44.15.962-00.44.22.153 	aibileen produces a notebook and her reading glasses.
+1018_Body_Of_Lies_00.58.16.313-00.58.21.080 	hordes of people swarm on the street, where traders sell produce from barrows.
 1019_Confessions_Of_A_Shopaholic_00.06.15.816-00.06.17.881 	she produces a second card.
 1019_Confessions_Of_A_Shopaholic_01.30.50.962-01.30.52.944 	miss korch produces the green scarf.
 1030_Public_Enemies_02.03.37.398-02.03.41.291 	from his breast pocket, he produces a cigar and holds it ready.
@@ -24,5 +26,4 @@
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.27.01.335-01.27.07.829 	she produces a wreath of white roses.
 1051_Harry_Potter_and_the_goblet_of_fire_00.24.57.796-00.24.59.484 	he produces his wand.
 1052_Harry_Potter_and_the_order_of_phoenix_01.22.42.707-01.22.52.162 	luna produces a hare, which leaps joyfully over their heads.
-1052_Harry_Potter_and_the_order_of_phoenix_02.00.13.086-02.00.19.946 	he sends the jagged pieces of broken glass hurling towards harry and dumbledore, who produces a force field to protect them.
 1052_Harry_Potter_and_the_order_of_phoenix_02.00.13.086-02.00.19.946 	he sends the jagged pieces of broken glass hurling towards harry and dumbledore, who produces a force field to protect them.

@@ -1,7 +1,12 @@
-0005_Chinatown_00.15.22.877-00.15.26.179 	Turns again and they row past Mulwray and the girl, Gittes again clicking off several fast shots.
-0016_O_Brother_Where_Art_Thou_01.06.16.134-01.06.27.834 	With much clanking they file into one row and then, that row filled, the one behind it.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.25.12.779-02.25.19.876 	They row away from the Lothlorien Shore into the Silverlode river.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.47.51.195-02.47.59.673 	The two Hobbits row through the water.
+0004_Charade_00.45.12.940-00.45.13.366 	almost as far as the eye can see, row upon row of beef sides, hung on hooks.
+0005_Chinatown_00.14.55.763-00.15.01.376 	duffy is rowing, gittes seated in the stern.
+0005_Chinatown_00.15.22.877-00.15.26.179 	turns again and they row past mulwray and the girl, gittes again clicking off several fast shots.
+0011_Gandhi_00.25.55.248-00.25.56.122 	the front rows near the stage are held by rich muslim merchants, the back of the stalls with small traders, peddlers, artisans -- muslim, hindu, parsee, sikh.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.25.12.779-02.25.19.876 	they row away from the lothlorien shore into the silverlode river.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.47.51.195-02.47.59.673 	the two hobbits row through the water.
 1010_TITANIC_02.52.50.117-02.53.01.308 	leaning over the front of the boat, a sailor pushes bodies out of their path as they row forward slowly.
+1010_TITANIC_02.55.41.580-02.55.44.117 	the lifeboat rows further away.
 1010_TITANIC_02.59.29.398-02.59.37.384 	below the sky along the horizon, lifeboats row toward a waiting ship anchored amid floating icebergs.
 1010_TITANIC_02.59.38.228-02.59.43.680 	rose opens her eyes as they row up alongside the ship carpathia.
+1033_Sherlock_Holmes_A_Game_of_Shadows_01.19.13.762-01.19.20.502 	in the dim light, he sees row upon row of artillery shells.
+1037_The_Curious_Case_Of_Benjamin_Button_00.06.15.009-00.06.24.283 	grainy footage of mr. gateau rowing out to sea in a wooden boat.

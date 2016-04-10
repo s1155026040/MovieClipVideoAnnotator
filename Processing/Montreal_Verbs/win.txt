@@ -1,0 +1,4 @@
+JACK_AND_JILL.srt 	JACK_AND_JILL_DVS102 	00:21:55,00 --> 00:22:03,50 	he looks outside to find someone riding her newly won jet ski in the backyard swimming pool.
+KARATE_KID.srt 	KARATE_KID_DVS564 	00:50:47,00 --> 00:50:53,50 	the winning student approaches his instructor, his eyes averted.
+KARATE_KID.srt 	KARATE_KID_DVS1499 	02:01:51,00 --> 02:02:00,50 	if he's unable to return, the fighting someone win by default.
+KARATE_KID.srt 	KARATE_KID_DVS1630 	02:12:35,00 --> 02:12:40,50 	his beaming teacher mouths, you won.

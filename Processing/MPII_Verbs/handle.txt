@@ -1,41 +1,5 @@
-0002_As_Good_As_It_Gets_00.13.01.947-00.13.02.350 	There is in Carol's attitude toward Melvin some ingredient of self-satisfaction -- that she is the only one in the place who can handle him.
-0002_As_Good_As_It_Gets_00.42.59.388-00.43.01.894 	The MANAGER comes over, gesturing to the table of police that he can handle it.
-0012_Get_Shorty_00.55.29.574-00.55.34.574 	Karen is starting to enjoy Chili's handling of Martin.
-0016_O_Brother_Where_Art_Thou_00.07.33.062-00.07.36.618 	The cloudy eyes of the old man stare sightlessly down the track as the seesaw handle rises and falls through frame.
-0017_Pianist_00.17.36.337-00.17.37.794 	Henryk drops the two volumes into the basket, takes a handle one side of the basket, Szpilman the other.
-0020_Raising_Arizona_01.13.16.014-01.13.19.309 	The front door handle clicks open and Smalls stands in the doorway.
-0026_The_Big_Fish_00.57.19.118-00.57.23.225 	A beat, then the door handle begins to RATTLE.
-0027_The_Big_Lebowski_00.56.50.005-00.56.52.060 	The policeman hands the Dude a door handle and an exterior rear-view mirror.
-0041_The_Sixth_Sense_00.55.00.528-00.55.03.842 	He slowly reaches for the toilet handle and flushes.
-1002_Harry_Potter_and_the_Half-Blood_Prince_02.09.33.844-02.09.37.050 	The door handle turns.
-1010_TITANIC_01.38.32.613-01.38.36.572 	murdoch rushes over to the engine room telegraph and shifts the handle to full speed astern.
-1010_TITANIC_02.06.00.887-02.06.01.972 	rose grips the axe handle with both hands.
-1017_Bad_Santa_00.14.12.707-00.14.16.608 	later he fiddles with the handle of the un-flushing toilet.
-1023_Horrible_Bosses_00.19.44.825-00.19.46.550 	he frantically rattles the handle of the locked door.
-1030_Public_Enemies_00.11.33.899-00.11.43.947 	he removes the trigger handle and pulls out a coil.
+0002_As_Good_As_It_Gets_00.13.01.947-00.13.02.350 	there is in carol's attitude toward melvin some ingredient of self-satisfaction -- that she is the only one in the place who can handle him.
+0002_As_Good_As_It_Gets_00.42.59.388-00.43.01.894 	the manager comes over, gesturing to the table of police that he can handle it.
 1033_Sherlock_Holmes_A_Game_of_Shadows_00.27.49.228-00.27.54.894 	holmes dodges the attack and hooks the umbrella handle around the man's throat.
-1033_Sherlock_Holmes_A_Game_of_Shadows_01.03.47.683-01.03.51.350 	sacks are used as counterweights and a door handle is disguised as a coat peg.
-1035_The_Adjustment_Bureau_01.28.42.297-01.28.45.390 	in the courthouse ladies room david braces a mop handle behind a radiator barring the door.
-1042_Up_In_The_Air_01.43.34.300-01.43.36.814 	he releases his grip on the handle of his suitcase.
-1047_Defiance_00.52.05.687-00.52.06.353 	malbin is using an axe handle to secure a nail.
-1051_Harry_Potter_and_the_goblet_of_fire_02.00.28.826-02.00.32.006 	it traps him fast behind the handle of the scythe.
-1053_Harry_Potter_and_the_philosophers_stone_01.21.06.835-01.21.09.211 	but he manages to grab the handle and hangs underneath, holding on with only one hand.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.09.34.065-00.09.46.905 	stan shunpike turns the handle of his machine and gives harry a bus ticket.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.55.16.743-00.55.24.612 	as he reaches out, thick ice begins to form on the handle of his broomstick.
-2005_Signs_01.19.29.944-01.19.30.413 	merrill clips the light bulb with the end of the wooden handle as he crosses the room.
-2005_Signs_01.36.34.558-01.36.37.391 	merrill's hands tighten around the handle as he walks forward.
-2012_Unbreakable_00.43.08.776-00.43.12.813 	the silver handle of a gun peeks out from the belt of his pants.
-2012_Unbreakable_00.49.13.181-00.49.17.933 	a set of two unopened mab satin finish paint cans are dangling by their metal handles on the outside of each side of the weights.
 2012_Unbreakable_01.21.20.896-01.21.21.923 	the man inside the house grabs the door handle on the inside to stop him.
-2026_Legion_01.11.12.769-01.11.15.098 	they slip off the handle and run right down the blade.
-1053_Harry_Potter_and_the_philosophers_stone_01.21.06.835-01.21.09.211 	but he manages to grab the handle and hangs underneath, holding on with only one hand.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.09.34.065-00.09.46.905 	stan shunpike turns the handle of his machine and gives harry a bus ticket.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.55.16.743-00.55.24.612 	as he reaches out, thick ice begins to form on the handle of his broomstick.
-2005_Signs_01.19.29.944-01.19.30.413 	merrill clips the light bulb with the end of the wooden handle as he crosses the room.
-2005_Signs_01.36.34.558-01.36.37.391 	merrill's hands tighten around the handle as he walks forward.
-2012_Unbreakable_00.43.08.776-00.43.12.813 	the silver handle of a gun peeks out from the belt of his pants.
-2012_Unbreakable_00.49.13.181-00.49.17.933 	a set of two unopened mab satin finish paint cans are dangling by their metal handles on the outside of each side of the weights.
-2012_Unbreakable_01.21.20.896-01.21.21.923 	the man inside the house grabs the door handle on the inside to stop him.
-2026_Legion_01.11.12.769-01.11.15.098 	they slip off the handle and run right down the blade.
-2034_Super_8_01.21.54.139-01.21.56.173 	joe moves to the locked bulletproof glass door -- tries the handle -- but it's never gonna open.
 2041_This_is_40_01.28.59.085-01.29.03.756 	pete thinks for a moment, not sure how to handle this.

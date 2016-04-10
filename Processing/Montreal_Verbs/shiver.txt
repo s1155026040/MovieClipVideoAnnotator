@@ -1,0 +1,6 @@
+HUGO.srt 	HUGO_DVS107 	00:14:19,00 --> 00:14:27,50 	shivering against the cold, someone follows several paces behind the shopkeeper as he crosses a wide brick street.
+KARATE_KID.srt 	KARATE_KID_DVS120 	00:11:03,00 --> 00:11:11,50 	he mimes using a showerhead to spray himself down, hugs himself, and pretends to shiver.
+LIFE_OF_PI.srt 	LIFE_OF_PI_DVS381 	00:45:33,00 --> 00:45:43,50 	with the life preserver looped over the prow beam, a huddled, shivering someone sits in the rain while clinging to the mast with his hands.
+PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS96 	00:15:42,00 --> 00:15:54,50 	someone notices his young hostage shivering.
+THE_CALL.srt 	THE_CALL_DVS1133 	01:25:25,00 --> 01:25:31,50 	someone looks over the hole at someone, who stands shivering.
+THE_VOW.srt 	THE_VOW_DVS486 	01:08:53,00 --> 01:09:00,50 	someone wraps a blanket around his shivering shoulders and laughs with someone.

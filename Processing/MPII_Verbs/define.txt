@@ -1,2 +1,2 @@
-0020_Raising_Arizona_00.33.31.615-00.33.33.090 	The shafts of light pouring in are defined by motes of dust dancing in the air.
-0050_Indiana_Jones_and_the_last_crusade_01.40.48.276-01.40.50.736 	GIANT COLUMNS define the Temple's perimeter.
+0020_Raising_Arizona_00.33.31.615-00.33.33.090 	the shafts of light pouring in are defined by motes of dust dancing in the air.
+0050_Indiana_Jones_and_the_last_crusade_01.40.48.276-01.40.50.736 	giant columns define the temple's perimeter.

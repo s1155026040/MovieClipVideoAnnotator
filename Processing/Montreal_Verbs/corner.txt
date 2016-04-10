@@ -1,0 +1,6 @@
+HUGO.srt 	HUGO_DVS761 	01:50:45,00 --> 01:50:51,50 	someone exits onto the opposite platform but is cornered by someone.
+IN_TIME.srt 	IN_TIME_DVS506 	00:54:30,00 --> 00:54:35,50 	someone corners her against a wall as he listens.
+SALT.srt 	SALT_DVS172 	00:29:27,00 --> 00:29:38,50 	stretches her leg across a cornered gap to another windowsill.
+SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS273 	00:55:15,00 --> 00:55:19,50 	someone corners him.
+THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS303 	00:44:54,00 --> 00:44:59,50 	the inspectors hurry forward and corner him on a doorstep.
+ZOMBIELAND.srt 	ZOMBIELAND_DVS167 	00:16:42,00 --> 00:16:48,50 	cornered against the refrigerator, someone grabs a blender.

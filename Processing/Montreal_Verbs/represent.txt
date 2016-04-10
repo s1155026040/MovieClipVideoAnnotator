@@ -1,0 +1,3 @@
+IRON_MAN_2.srt 	IRON_MAN_2_DVS583 	01:40:44,00 --> 01:40:56,50 	on the screen, three triangles representing air force drones move off together.
+PROMETHEUS.srt 	PROMETHEUS_DVS877 	01:36:46,00 --> 01:36:53,50 	the hologram represents an elaborate crescent shaped vessel with blunted ends.
+THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS125 	00:28:37,00 --> 00:28:44,50 	shades of peach represent the subject's

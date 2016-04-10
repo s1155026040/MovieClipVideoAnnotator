@@ -1,0 +1,5 @@
+CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS850 	01:23:45,00 --> 01:23:50,50 	grinning proudly, someone pours orange juice.
+LIFE_OF_PI.srt 	LIFE_OF_PI_DVS410 	00:47:57,00 --> 00:48:03,50 	pulls out a stray banana and tosses it to orange juice.
+LIFE_OF_PI.srt 	LIFE_OF_PI_DVS450 	00:51:24,00 --> 00:51:33,50 	he takes one out and tosses it to orange juice.
+LIFE_OF_PI.srt 	LIFE_OF_PI_DVS468 	00:52:40,00 --> 00:52:46,50 	our view sweeps down to orange juice's body as it grows still.
+SANCTUM.srt 	SANCTUM_DVS476 	01:28:41,00 --> 01:28:55,50 	later, orange light from someone's torch flickers on the rock walls as he leads his father through the tunnel.

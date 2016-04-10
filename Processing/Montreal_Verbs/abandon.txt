@@ -1,0 +1,12 @@
+30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS18 	00:03:39,00 --> 00:03:46,50 	now the mustang drives an empty road lined with abandoned warehouses.
+30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS236 	00:56:16,00 --> 00:56:25,50 	the black car rolls up and parks between an abandoned building and the railroad tracks, about 20 feet away from someone's car.
+CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS348 	00:32:32,00 --> 00:32:38,50 	now outside an abandoned house, a hammock hangs over a back patio.
+CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS728 	01:12:24,00 --> 01:12:30,50 	now, autumn leaves cover the back patio of the abandoned house.
+DISTRICT_9.srt 	DISTRICT_9_DVS790 	01:33:29,00 --> 01:33:41,50 	abandoning the metal hatch, he races up a narrow path.
+FLIGHT.srt 	FLIGHT_DVS890 	01:44:58,00 --> 01:45:02,50 	he abandons it.
+GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS214 	00:34:18,00 --> 00:34:45,50 	someone begins to change as he races through the warehouse's abandoned rooms.
+IN_TIME.srt 	IN_TIME_DVS95 	00:10:27,00 --> 00:10:35,50 	as someone angrily scans the alley, someone leads his companion up an abandoned stairway.
+PROMETHEUS.srt 	PROMETHEUS_DVS1069 	01:57:04,00 --> 01:57:13,50 	in the abandoned lifeboat the last engineer's body convulses on the floor, surrounded by the creature's motionless tentacles.
+SANCTUM.srt 	SANCTUM_DVS482 	01:29:25,00 --> 01:29:35,50 	he crouches to examine some abandoned gear.
+THE_CALL.srt 	THE_CALL_DVS560 	00:42:49,00 --> 00:42:58,50 	now, two squad cars speed toward the abandoned sedan and screech to a halt.
+THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS836 	01:34:59,00 --> 01:35:04,50 	entering through a different door, he glances around the abandoned cabin lit meagerly by daylight.

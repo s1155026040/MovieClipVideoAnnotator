@@ -1,0 +1,4 @@
+CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS403 	01:13:43,00 --> 01:13:49,50 	dernier addresses someone, then converses with someone.
+FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS67 	00:17:31,00 --> 00:17:36,50 	they clap along as they converse.
+SALT.srt 	SALT_DVS78 	00:17:16,00 --> 00:17:32,50 	through a window she observes the two men conversing animatedly in the hall.
+SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS328 	01:07:15,00 --> 01:07:26,50 	he spies someone inside, conversing cheerfully with a group of girlfriends.

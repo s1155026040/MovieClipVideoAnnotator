@@ -1,271 +1,717 @@
-0001_American_Beauty_00.13.44.002-00.13.49.804 	She walks out calmly, leaving us alone in the dark, empty room.
-0001_American_Beauty_00.13.44.002-00.13.49.804 	She walks out calmly, leaving us alone in the dark, empty room.
-0001_American_Beauty_00.22.02.845-00.22.09.179 	She quickly TURNS OFF THE LIGHT that's been left on for her, then peeks through a window.
-0001_American_Beauty_01.29.19.289-01.29.28.643 	Buddy's Jaguar speeds off, leaving the Mercedes alone in the parking lot.
-0001_American_Beauty_01.35.10.831-01.35.16.219 	Ricky grabs his backpack, turns and walks out the door, leaving the Colonel standing there, glassy-eyed and breathing heavily.
-0001_American_Beauty_01.36.06.014-01.36.16.319 	He kisses her cheek softly, then exits out the back door, leaving her standing alone, still clutching her dish.
-0002_As_Good_As_It_Gets_01.23.08.550-01.23.10.111 	Frank starts to leave -- Simon stops him.
-0002_As_Good_As_It_Gets_01.47.02.540-01.47.04.240 	He leaves the bed.
-0002_As_Good_As_It_Gets_02.06.29.387-02.06.31.065 	Melvin, of course, cannot leave well enough alone.
-0003_CASABLANCA_00.12.06.148-00.12.08.031 	Ugarte leaves the table just as the waiter comes up.
-0003_CASABLANCA_00.12.40.411-00.12.43.458 	Rick leaves the gambling room and goes into the main room.
-0003_CASABLANCA_01.04.43.918-01.04.45.275 	Annina meets Renault in the hallway as she leaves the Gambling room.
-0003_CASABLANCA_01.08.21.220-01.08.22.260 	He has only three chips left and seems bewildered.
-0003_CASABLANCA_01.14.33.011-01.14.36.567 	This display of nerve leaves Rick at a loss.
-0003_CASABLANCA_01.18.38.018-01.18.52.433 	Ilsa gets a cloak from the bedroom, and leaves the hotel room.
-0004_Charade_00.30.43.665-00.30.44.560 	She steps back, leaving GIDEON holding the orange, foolishly, under his chin, his eyes still closed.
-0004_Charade_00.42.24.258-00.42.28.345 	As PETER (now called DYLE) leaves REGGIE's room and closes the door.
-0004_Charade_00.48.52.975-00.48.59.713 	DYLE leaves the hotel and turns into the Place.
-0004_Charade_00.49.31.337-00.49.32.404 	As he opens his mouth to make a sound, REGGIE, her eyes on DYLE, rises quickly from the table and goes, leaving a very confused TOURIST with his mouth open.
-0004_Charade_00.49.32.564-00.49.35.931 	He blinks, then leaves some money on the table and starts after her.
-0004_Charade_00.49.54.956-00.50.01.648 	She leaves him standing there, more confused than ever, as she starts after DYLE again.
-0004_Charade_00.57.26.421-00.57.30.133 	DYLE turns and leaves going down the stairs.
-0004_Charade_00.57.30.275-00.57.34.830 	DYLE leaves the elevator and goes to his own door.
-0004_Charade_01.19.37.904-01.19.42.398 	Who, like everyone else, leave the table and stand together at the rail watching.
-0004_Charade_01.37.38.989-01.37.43.341 	As REGGIE leaves her room and goes to the elevator.
-0004_Charade_01.38.02.287-01.38.02.661 	REGGIE leaves the hotel and runs to it.
-0004_Charade_01.42.13.114-01.42.16.266 	Through the glass ADAM can be seen, leaving the Sortie area.
-0004_Charade_01.45.50.186-01.45.50.296 	As the deflected bullet rips the shoulder of his coat, leaving him unharmed.
-0005_Chinatown_00.07.30.185-00.07.34.689 	Mulwray leaves the overleaf board and sits down.
-0005_Chinatown_00.25.43.776-00.25.47.306 	The Butler takes it and disappears, leaving Gittes standing in the doorway.
-0005_Chinatown_00.27.17.183-00.27.22.713 	The Gardener nods, and is off, leaving Gittes staring at the object in the bottom of the pond that is gleaming.
-0005_Chinatown_00.42.25.972-00.42.35.972 	The smaller man thrusts a switchblade knife about an inch and a half up Gittes' left nostril.
-0005_Chinatown_00.42.40.956-00.42.42.095 	With a quick flick the Smaller Man pulls back on the blade, laying Gittes' left nostril open about an inch further.
-0005_Chinatown_00.50.36.075-00.50.39.463 	He drives off into the Wilshire traffic, leaving Evelyn looking after him.
-0005_Chinatown_00.56.37.930-00.56.41.616 	Gittes smiles, leaves an unsmiling Yelburton.
-0005_Chinatown_01.20.16.527-01.20.20.866 	After a moment she takes one hand off the wheel and rubs her left eye a little.
-0006_Clerks_00.54.42.638-00.54.47.464 	The CUSTOMER lets it sink in, and then leaves in a huff.
-0006_Clerks_01.27.29.197-01.27.31.452 	RANDAL gets up, leaving DANTE to contemplate his strong words alone.
-0007_DIE_NACHT_DES_JAEGERS_00.11.06.735-00.11.09.926 	The GUARD leaves the SHOT; BART goes in.
-0007_DIE_NACHT_DES_JAEGERS_00.12.14.062-00.12.14.916 	The tree-shaded dirt street of a small, one-street river town; a picturesque, mid-19th-century remnant of the old river civilization, which general progress has left behind.
-0007_DIE_NACHT_DES_JAEGERS_00.21.11.195-00.21.24.237 	ICEY enters the SHOT and whispers and beckons WILLA and, as the singing continues, they leave the group and start towards a shade tree in MEDIUM GROUND, which we PAN TO CENTER.
-0007_DIE_NACHT_DES_JAEGERS_00.25.26.719-00.25.31.654 	JOHN leaves the SHOT.
-0007_DIE_NACHT_DES_JAEGERS_00.45.06.188-00.45.12.791 	As he leaves the tree and walks along the side of the house; we TILT DOWNWARD and CLOSE IN, to follow only his feet; he steps past a tiny cellar window and we PAN and TIGHTEN IN CLOSE ON IT, into.
-0007_DIE_NACHT_DES_JAEGERS_00.51.02.605-00.51.03.999 	His eyes never leave JOHN'S.
-0007_DIE_NACHT_DES_JAEGERS_00.51.54.860-00.51.57.519 	PREACHER starts toward it, leaving them at foot of stairs, then turns, catching JOHN'S ruse.
-0007_DIE_NACHT_DES_JAEGERS_00.53.35.112-00.53.38.749 	A pretty, pastoral shot of the house in light mist, as they run across and leave the shot.
-0007_DIE_NACHT_DES_JAEGERS_00.59.22.583-00.59.23.524 	Woman leaves shot briefly (we HOLD on CHILDREN) She re-enters and goes to them with a bowl of steaming potatoes.
-0007_DIE_NACHT_DES_JAEGERS_01.18.57.070-01.18.57.208 	His eyes never leave hers.
-0007_DIE_NACHT_DES_JAEGERS_01.21.47.110-01.21.48.200 	RUBY leaves the SHOT.
-0007_DIE_NACHT_DES_JAEGERS_01.27.03.508-01.27.04.063 	ICEY leaves door to yell at mob.
-0007_DIE_NACHT_DES_JAEGERS_01.29.30.906-01.29.37.741 	Embarrassed, JOHN leaves the shot.
-0007_DIE_NACHT_DES_JAEGERS_01.29.42.883-01.30.08.976 	From a fruit bowl, he selects the biggest apple, shines it on his shirt, wraps it in the doily under his bowl, opens a drawer and gets out a clip clothespin, clips his package, and leaves shot.
-0009_Forrest_Gump_00.10.22.856-00.10.25.739 	A MAN WITH A CANE steps left across the hall.
-0009_Forrest_Gump_00.11.14.637-00.11.15.930 	Mrs. Gump leaves and closes the door.
-0009_Forrest_Gump_00.20.10.315-00.20.12.289 	Jenny steps left and gets out of the way.
-0009_Forrest_Gump_00.20.47.588-00.20.54.222 	Forrest looks left as he continues telling his life story.
-0009_Forrest_Gump_01.22.32.639-01.22.36.196 	Carla and Lenore laugh as they leave the apartment.
-0009_Forrest_Gump_01.39.29.062-01.39.31.233 	The doctor leaves and closes the door.
-0010_Frau_Ohne_Gewissen_00.25.35.530-00.25.36.085 	A low glass-and- china cabinet is built between the dinette and kitchen, leaving a space like a doorway.
-0010_Frau_Ohne_Gewissen_00.47.38.242-00.47.46.588 	He leaves the office, with his briefcase under his arm.
-0010_Frau_Ohne_Gewissen_01.45.32.859-01.45.34.458 	Neff goes out, leaving the door wide open.
-0011_Gandhi_00.16.37.126-00.16.40.604 	The boys bow and leave like boys used to household discipline.
-0011_Gandhi_01.50.33.435-01.50.38.050 	Then Ba straightens, and leaves without looking back.
-0011_Gandhi_02.14.21.344-02.14.23.846 	As he turns to leave Irwin speaks -- almost offhandedly.
-0011_Gandhi_02.35.40.720-02.35.43.152 	Jinnah's anger is clearly too deep to be left at the conference table.
-0011_Gandhi_02.52.05.171-02.52.06.110 	Mirabehn is rising, leaving the magazine at her feet.
-0012_Get_Shorty_00.09.08.222-00.09.13.961 	The two guys leave as the Black Guy steps up to Chili.
-0012_Get_Shorty_00.50.53.174-00.50.56.104 	He hugs her and hangs on, leaving Nicki and Chili standing there like idiots.
-0013_Halloween_01.02.38.602-01.02.40.802 	Empty beer cans leave a trail from the door to the bed.
-0013_Halloween_01.05.44.386-01.05.45.266 	Bob's feet leave the floor.
-0013_Halloween_01.22.39.312-01.22.42.716 	Laurie shoves them into the bathroom and pulls the door shut, leaving herself outside in the bedroom.
-0013_Halloween_01.26.07.243-01.26.08.415 	As they leave frame we see Loomis on the other side of the street.
-0014_Ist_das_Leben_nicht_schoen_00.15.18.870-00.15.21.077 	She follows Harry into the kitchen, leaving Pop and George.
-0014_Ist_das_Leben_nicht_schoen_00.24.08.778-00.24.10.727 	Each is carrying their wet clothes tied into a bundle that leaves a trail of dripping water.
-0014_Ist_das_Leben_nicht_schoen_00.27.50.654-00.27.56.068 	As he speaks, the man leaves the porch and goes into his house, slamming the front door.
-0014_Ist_das_Leben_nicht_schoen_00.30.42.191-00.30.52.644 	George and Uncle Billy start to collect their papers and leave the table.
-0014_Ist_das_Leben_nicht_schoen_00.33.51.666-00.33.52.940 	George leaves the room, followed by the jubilant Uncle Billy.
-0014_Ist_das_Leben_nicht_schoen_00.37.52.284-00.37.59.480 	The crowd enters the front door of the house, leaving George and Uncle Billy on the porch.
-0014_Ist_das_Leben_nicht_schoen_00.46.32.424-00.46.38.541 	As George leaves the room, the telephone in the hall starts ringing.
-0014_Ist_das_Leben_nicht_schoen_01.07.09.126-01.07.19.704 	The big black limousine glides away, leaving George standing with his arm around Mary, gazing broodingly after it.
-0014_Ist_das_Leben_nicht_schoen_01.21.11.461-01.21.14.160 	George coming from room where he has just left the bank examiner.
-0014_Ist_das_Leben_nicht_schoen_01.22.20.592-01.22.22.441 	She reaches up and kisses him on the cheek, leaving lipstick.
-0014_Ist_das_Leben_nicht_schoen_01.45.31.552-01.45.35.734 	George and Clarence come into shot and up to the spot where George had left his car smashed against the tree.
-0014_Ist_das_Leben_nicht_schoen_01.46.52.230-01.46.53.577 	Two people leave the bar as they approach.
-0016_O_Brother_Where_Art_Thou_00.05.30.128-00.05.32.916 	Everett, just finishing his speech, flips forward in turn, smashes his chin onto the floor and is sucked out the open doorway, his clawing fingernails leaving parallel grooves on the boxcar floorboards.
-0016_O_Brother_Where_Art_Thou_00.05.41.435-00.05.43.005 	Its fading clatter leaves the baying of hounds.
-0016_O_Brother_Where_Art_Thou_00.37.02.352-00.37.06.504 	George has turned woodenly and walks away, leaving the campfire's flickering circle of light.
-0016_O_Brother_Where_Art_Thou_01.32.13.474-01.32.17.239 	He raises Penny's left hand with his own to display their wedding bands - but Penny's finger is bare.
-0017_Pianist_01.23.42.301-01.23.43.289 	Autumn leaves falling and gusting in the wind.
-0017_Pianist_01.43.32.397-01.43.35.741 	The Doctor and Michal leave his line of vision.
-0019_Pulp_Fiction_00.29.19.479-00.29.21.427 	Jody continues talking to Trudi, leaving Vincent to ponder the truth of her statement.
-0019_Pulp_Fiction_00.58.47.389-00.58.50.653 	Lance angrily knocks over a pile of shit and leaves the SHOT heading for the living room.
-0019_Pulp_Fiction_01.00.21.009-01.00.25.063 	The needle leaves frame, THRUSTING down hard.
-0019_Pulp_Fiction_01.40.48.293-01.41.18.280 	Zed continues his silent sing-song with his finger moving left to right, then it stops.
-0019_Pulp_Fiction_01.49.11.345-01.49.14.336 	Butch leaves Russell's old room through the red curtains.
-0019_Pulp_Fiction_02.05.18.828-02.05.20.170 	The Wolf and Jimmie turn, heading for the bedroom, leaving Vincent and Jules standing in the kitchen.
-0020_Raising_Arizona_00.05.26.175-00.05.29.470 	A sudden flash whitens and fades to leave the image of Ed, smiling behind her camera, softly supered on the underside of the bunk.
-0020_Raising_Arizona_00.26.17.950-00.26.19.159 	There is an awkward silence as she leaves and slams the bedroom door.
-0020_Raising_Arizona_00.28.47.899-00.28.49.158 	We are left looking at the empty street and the faraway Arizona house.
-0020_Raising_Arizona_00.28.49.158-00.28.50.279 	The receding roar has left behind eerily beautiful singing, a woman singing a lullaby.
-0020_Raising_Arizona_00.42.20.377-00.42.21.053 	Glen's feet leave the ground.
-0020_Raising_Arizona_00.43.41.815-00.43.45.366 	He puts the car in park but leaves it running.
-0020_Raising_Arizona_00.58.02.675-00.58.03.875 	Dragging the kitchen match along the unfinished wood surface of an expensive bureau, leaving an ugly black scar.
-0020_Raising_Arizona_01.06.38.960-01.06.43.098 	Hi is leaving frame again, continuing to talk as we hear him rummaging offscreen.
-0020_Raising_Arizona_01.18.46.670-01.18.52.916 	Dragged several yards before the boot shakes him off, leaving him on his stomach in the middle of the road.
-0021_Rear_Window_00.07.31.502-00.07.34.826 	We see the man who left his apartment in anger come out of the doorway into the backyard.
-0021_Rear_Window_00.08.10.228-00.08.10.890 	His anger seems to have left him, replaced by the kind of peace that flowers bring many people.
-0021_Rear_Window_00.09.11.005-00.09.15.060 	As she leaves him holding the thermometer THE CAMERA PULLS BACK as she crosses to a divan.
-0021_Rear_Window_00.25.13.398-00.25.16.498 	He starts to answer her back, but decides better of it, and instead, leaves the room.
-0021_Rear_Window_00.26.10.367-00.26.11.964 	Finally, he leaves the room, goes into the living room, back into the kitchen and has another drink.
-0021_Rear_Window_00.52.25.072-00.52.26.175 	He opens it, and after a short exchange of dialogue, he admits the two men, leaving the door open behind them.
-0021_Rear_Window_01.02.17.956-01.02.27.206 	Then she leaves the apartment, with a show of determination.
-0021_Rear_Window_01.26.19.411-01.26.20.981 	The viewer moves away, and we are left with the identical scene, but not quite so still, a slight breeze stirring the foliage.
-0021_Rear_Window_01.31.31.184-01.31.35.096 	Stella lifts her left hand, and looks fondly at her ring finger.
-0021_Rear_Window_01.37.28.295-01.37.29.496 	Stella has abandoned the shovel and left the flowers and dirt strewn over the walk.
-0021_Rear_Window_01.41.59.371-01.42.00.353 	In the brief pause while the two policemen speak to each other, Lisa starts to wave her left hand behind her back.
-0021_Rear_Window_01.42.56.318-01.42.59.417 	We see Thorwald leave his apartment and proceed down the corridor.
-0022_Reservoir_Dogs_00.26.21.537-00.26.22.823 	Pink exits frame, leaving Mr. White alone.
-0022_Reservoir_Dogs_01.13.30.094-01.13.33.419 	Mr. Orange looking from left to right.
-0022_Reservoir_Dogs_01.22.51.527-01.22.52.098 	CAMERA leaves the team and goes to the blackboard with the layout of the jewelry store on it.
-0022_Reservoir_Dogs_01.35.12.772-01.35.14.854 	Mr. White is BLOWN out of frame, leaving it empty.
-0023_THE_BUTTERFLY_EFFECT_00.33.20.778-00.33.23.086 	After getting his bearings, he grabs his jacket and exits, leaving her dumbfounded.
-0023_THE_BUTTERFLY_EFFECT_00.58.49.118-00.58.51.700 	Thumper walks away, leaving Evan dumbfounded.
-0023_THE_BUTTERFLY_EFFECT_01.11.31.636-01.11.35.562 	Carlos leaves the cell without another word.
-0023_THE_BUTTERFLY_EFFECT_01.32.37.061-01.32.41.005 	She opens Evan's wallet and leaves a twenty on the table.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.15.52.329-02.15.57.185 	They lie on soft couches as Elves leave food and wine for them.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.33.08.991-00.33.18.801 	GANDALF and PIPPIN dismount, leaving the GUARDS of the CITADEL to tend to SHADOWFAX.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.14.16.326-01.14.21.698 	As EOWYN and MERRY leave the tent, EOMER and GAMLING are sitting nearby, finishing a meal.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.19.27.911-01.19.34.054 	As ARAGORN readies BREGO for leaving EOWYN approaches.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.25.04.395-01.25.06.025 	GIMLI left ALONE.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.43.26.715-01.43.33.029 	FRODO leaves the SWORD and THROWS HIMSELF through a narrow CREVICE.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.52.09.791-01.52.24.389 	JERKING and QUIVERING, SHELOB crawls to her HOLE, leaving a trail of GREEN-YELLOW SLIME.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_03.00.11.384-03.00.25.352 	SAM steels himself and leaves to go and TALK to ROSIE.
-0026_The_Big_Fish_00.12.33.492-00.12.37.692 	He could leave now, but curiosity gets the better of him.
-0026_The_Big_Fish_00.15.12.846-00.15.14.402 	The illness has been quick, and left him largely intact.
-0026_The_Big_Fish_00.18.49.216-00.18.53.724 	As he leaves frame, we STAY BEHIND to look inside.
-0026_The_Big_Fish_00.27.40.143-00.27.47.202 	Edward and Karl come to a bend, where the paved road veers left and an overgrown dirt road runs straight.
-0026_The_Big_Fish_00.32.06.192-00.32.18.396 	He and Beamen are joined by NORTHER WINSLOW (30), who fancies himself a cultured artist, though he's never left the state.
-0026_The_Big_Fish_00.49.44.257-00.50.00.254 	As Amos pulls Karl aside to give him the hard sell, Edward notices a BEAUTIFUL YOUNG WOMAN (16) leaving with her family.
-0026_The_Big_Fish_01.01.43.554-01.01.45.300 	On her left ring finger, we see a diamond.
-0026_The_Big_Fish_01.02.54.604-01.02.58.545 	He EXITS FRAME, leaving only the sorority house in the background.
-0027_The_Big_Lebowski_00.03.53.832-00.03.54.602 	Going into the bedroom the outflung satchel catches a piece of doorframe and wallboard and rips through it, leaving a hole.
-0027_The_Big_Lebowski_00.30.32.630-00.30.32.835 	Led by the bowling ball, he zooms past the camera leaving us in black.
-0027_The_Big_Lebowski_00.48.31.620-00.48.33.240 	He takes a sip of a freshly-mixed White Russian, which leaves milk on his mustache.
-0027_The_Big_Lebowski_00.54.13.824-00.54.18.539 	The Dude has left frame; Walter calls after him.
-0027_The_Big_Lebowski_00.59.20.652-00.59.23.912 	They leave the Dude sitting morosely at the bar.
-0027_The_Big_Lebowski_01.15.01.685-01.15.09.223 	She falls past the camera, leaving blackness, then after a beat reappears, rising into the night sky.
-0027_The_Big_Lebowski_01.23.21.401-01.23.41.878 	As she drops out of frame, leaving blackness again, three men are entering from the background, emerging into a pool of light.
-0027_The_Big_Lebowski_01.31.35.781-01.31.37.037 	The Dude is leaving the bedroom.
-0028_The_Crying_Game_00.40.55.041-00.40.57.676 	She leaves the salon.
-0029_The_Graduate_00.25.22.045-00.25.39.129 	He stands up in the booth, looks around, moves about uncomfortably for a few moments, removes his jacket and carrying it folded across his arm in front of him, leaves the phone booth and crosses to the doors that lead to the main lobby.
-0029_The_Graduate_00.32.47.832-00.32.52.744 	He leaves the phone booth and walks back into the main lobby.
-0029_The_Graduate_01.28.34.372-01.28.35.636 	Ben is left in the hall.
-0029_The_Graduate_01.39.02.491-01.39.06.017 	SHOT the CAR leaving the freeway under a SANTA BARBARA sign.
-0030_The_Hustler_00.00.30.725-00.00.42.000 	Eddie leaves the car parked at the gas station and heads for the bar.
-0030_The_Hustler_00.17.17.354-00.17.36.195 	The balls are returned and Eddie makes his break shot, a glancing blow that leaves the pack of balls nearly intact and the white cue ball lying far away at the end of the table.
-0030_The_Hustler_00.36.53.405-00.37.17.725 	Then Eddie returns to his bed, leaves the keys to the Packard and some money on the night table next to Charlie.
-0030_The_Hustler_00.48.36.679-00.48.39.515 	He leaves her there in the hall and walks off.
-0030_The_Hustler_00.54.36.310-00.54.39.039 	A woman runs out of the store to give her a parcel she left behind.
-0030_The_Hustler_01.18.09.972-01.18.15.250 	He drops the cash on the table and leaves quickly.
-0030_The_Hustler_01.41.33.539-01.41.36.513 	The bellboy leaves as she moves to close the other.
-0030_The_Hustler_01.50.53.907-01.50.59.603 	Findley steps up to the bar, leaving Bert and Eddie alone.
-0030_The_Hustler_02.05.37.614-02.05.44.126 	Fats makes a good break, leaving the cue ball teetering over the far corner pocket.
-0031_The_Lost_Weekend_00.13.35.879-00.13.39.415 	He puts it down and starts playing the nonchalant, casual drinker -- the man who can take it or leave it.
-0031_The_Lost_Weekend_00.14.03.137-00.14.05.152 	Nat has come up with the bar towel to wipe off the wet ring left by the glass.
-0031_The_Lost_Weekend_00.17.57.739-00.17.58.144 	THE CAMERA is on the wet rings which the wet glass has left on the bar.
-0031_The_Lost_Weekend_00.33.04.629-00.33.09.638 	He rises and, to the irritation of his neighbors, leaves his seat amid some disapproving shushings from the row behind.
-0031_The_Lost_Weekend_00.35.14.468-00.35.16.915 	Helen is left with the leopard coat and his bowler.
-0031_The_Lost_Weekend_00.38.29.126-00.38.29.989 	As we have left it, empty save for Nat and Don.
-0031_The_Lost_Weekend_00.42.24.599-00.42.26.190 	He leaves through one of the side doors.
-0031_The_Lost_Weekend_00.59.33.816-00.59.36.903 	He fishes what money he has left from his pocket.
-0031_The_Lost_Weekend_01.00.15.864-01.00.31.233 	Don drags himself up the last few steps, unlocks the door and goes in, leaving paper, bottle and note untouched.
-0031_The_Lost_Weekend_01.11.11.598-01.11.17.961 	She slips into the apartment, leaving the door about three inches a jar.
-0031_The_Lost_Weekend_01.25.01.434-01.25.09.386 	In the wall above the couch, close to the door, there is a hole in the plaster, as if left by a large nail carelessly withdrawn so that some of the plaster went with it.
-0032_The_Princess_Bride_00.09.07.441-00.09.12.122 	Vizzini glares at him, then turns, leaves them.
-0032_The_Princess_Bride_00.38.46.152-00.39.05.348 	A moment later, she too is falling, spinning and twisting, crashing and torn, cartwheeling down toward what is left of her beloved.
-0032_The_Princess_Bride_01.22.07.658-01.22.10.569 	INIGO, momentarily surprised, then taking off after him, leaving Westley and FEZZIK to exchange curious looks and Rugen, running through a half-open heavy wooden door, shutting it and locking it just as Inigo throws himself against it.
-0032_The_Princess_Bride_01.25.57.239-01.26.02.973 	Inigo watches the Count approach, and the Count flicks his sword at Inigo's heart, and there's not much Inigo can do, just kind of vaguely parry the thrust with the six-fingered sword and Count Rugen's blade sinks deeply into Inigo's left shoulder.
-0032_The_Princess_Bride_01.27.25.470-01.27.27.137 	Buttercup is alongside the bed; her eyes never leave his face.
-0033_Amadeus_00.22.21.427-00.22.24.847 	Mozart does it with a furious grace, then leaves the room.
-0033_Amadeus_00.47.19.447-00.47.22.585 	He nods pleasantly to all and leaves the stage, with his Chamberlain.
-0033_Amadeus_00.47.36.708-00.47.39.926 	Cavalieri turns with a savage look at Mozart and leaves the stage the opposite way, to her dressing room, tossing her plumed head.
-0033_Amadeus_01.16.03.668-01.16.11.208 	He bows to them and leaves the room.
-0033_Amadeus_02.34.35.019-02.34.38.019 	Salieri leaves the room.
-0038_Psycho_00.28.13.727-00.28.20.682 	Mary leaves her car, starts a dash for the shelter of the porch.
-0038_Psycho_01.12.22.096-01.12.25.853 	The car pulls up and Arbogast gets out of car, leaving motor running.
-0038_Psycho_01.25.31.728-01.25.45.528 	Norman goes up, pauses one moment outside his mother's door, then opens it and goes in, leaving the door open.
-0038_Psycho_01.37.08.670-01.37.14.549 	After a moment, she enters, leaving the door open behind her.
-0041_The_Sixth_Sense_01.03.12.272-01.03.16.261 	Cole gets up -- never taking his eyes off his mother -- and leaves the room.
-0043_Thelma_and_Luise_01.08.31.120-01.08.35.034 	They are both leaving the restaurant now.
-0046_Chasing_Amy_00.12.13.776-00.12.17.992 	Banky and Hooper exit, leaving Alyssa and Holden alone at the table.
-0049_Hannah_and_her_sisters_00.06.30.821-00.06.34.708 	The camera, leaving Elliot, moves across the room, past a wall of framed paintings, a headboard and bed, a night table and lamp, revealing Lee.
-0049_Hannah_and_her_sisters_00.10.52.956-00.10.57.839 	Frederick, leaving his work area, walks past Lee; his hands are in his pockets.
-0049_Hannah_and_her_sisters_00.28.56.410-00.29.01.268 	The film leaves Elliot's face and cuts back to the loft, where Lee, having finished the poem, sits up in the bed, staring pensively, lost in her thoughts.
-0049_Hannah_and_her_sisters_00.30.22.507-00.30.35.827 	Mickey is seen leaving the hospital.
-0049_Hannah_and_her_sisters_00.37.45.535-00.37.53.858 	The camera leaves Elliot to follow the enthusiastic Lee as she takes Dusty by the arm and starts leading him to the door.
-0049_Hannah_and_her_sisters_00.37.59.410-00.37.59.910 	The camera now moves back to Elliot, still staring at the nude drawings, as the sounds of Frederick's and Dusty's footsteps are heard leaving the loft.
-0049_Hannah_and_her_sisters_00.46.03.399-00.46.23.918 	The camera leaves Hannah's face as she continues to reflect; it moves to the den, to the row of family photos on the piano: one of a present-day Evan and Norma, others where both Norma and Evan are young, beautiful, hopeful.
-0049_Hannah_and_her_sisters_00.49.13.672-00.49.16.744 	Once again, Mickey is seen leaving the building, but this time he bounds down the steps, jumping for joy.
-0049_Hannah_and_her_sisters_00.50.09.593-00.50.12.739 	The camera follows her, leaving Mickey briefly.
-0049_Hannah_and_her_sisters_00.58.26.421-00.58.28.273 	Elliot frantically stands up and leaves the room.
-0049_Hannah_and_her_sisters_01.39.53.145-01.39.57.466 	As Mavis leaves the kitchen, Lee enters, carrying some empty glasses.
-0049_Hannah_and_her_sisters_01.40.12.169-01.40.14.119 	The movie leaves the kitchen and cuts to the doorway between the dining room and the living room.
-0050_Indiana_Jones_and_the_last_crusade_00.15.10.122-00.15.13.517 	Brody approaches as the last of the students leaves the lecture hall.
-0050_Indiana_Jones_and_the_last_crusade_00.17.19.393-00.17.22.191 	Indy is ushered into a large Art Deco apartment and left alone.
-0050_Indiana_Jones_and_the_last_crusade_00.55.01.687-00.55.05.742 	The Woman walks away, leaving Brody alone in the crowd.
-0050_Indiana_Jones_and_the_last_crusade_01.01.47.042-01.01.48.988 	As they struggle they fall against the rotating wall and disappear into the next room, leaving a frightened Henry behind.
-0050_Indiana_Jones_and_the_last_crusade_01.26.58.110-01.26.59.265 	Brody has been left alone in the tank.
-0050_Indiana_Jones_and_the_last_crusade_01.31.47.714-01.31.50.236 	The bullet not only passes through the Nazi, but passes through two other Nazis standing directly behind him on the crowded tank top and three bodies fall away, leaving Indy to stare at the gun in disbelief.
-0051_Men_in_black_00.05.39.501-00.05.50.671 	Kay and Dee escort their captive across the road and over a small rise, leaving the stunned INS agents standing alone in the roadway.
-0051_Men_in_black_00.36.15.115-00.36.18.091 	They leave the room.
-0051_Men_in_black_01.10.41.497-01.10.45.688 	And he continues into the morgue, leaving Kay waiting outside.
-0053_Rendezvous_mit_Joe_Black_00.25.45.120-00.25.49.290 	Allison is about to press the point, but then drifts into disappointed silence as Parrish leaves the room.
-0053_Rendezvous_mit_Joe_Black_01.23.48.019-01.23.52.905 	Susan is left alone now with Parrish who is fixing a drink at a sidebar.
-0053_Rendezvous_mit_Joe_Black_01.26.48.389-01.26.54.479 	Drew leans over to Felicia, speaks quietly and she leaves the room.
-0053_Rendezvous_mit_Joe_Black_01.42.40.676-01.42.45.773 	The elevator door opens, Parrish and Joe step inside and the door closes, leaving Sloane behind.
-0053_Rendezvous_mit_Joe_Black_02.28.56.929-02.29.03.859 	She smiles wanly, Joe leaves her.
-1001_Flight_00.31.12.117-00.31.29.987 	Craig takes his recorder and leaves with the others, but Charlie stays back.
-1001_Flight_00.35.31.160-00.35.39.537 	The nurse leaves the room.
-1001_Flight_01.23.24.816-01.23.27.606 	Ken's left leg lies on a brace.
-1001_Flight_01.32.03.194-01.32.11.404 	She leaves an envelope with Whip's name on it between his lighter and a bottle of whiskey.
-1001_Flight_01.44.52.869-01.44.55.886 	He tries to open the thick file Hugh left for him, and it spreads like an accordion.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.04.59.474-00.05.01.655 	Harry sees the waitress leave the cafe.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.05.04.008-00.05.05.257 	Harry holds Dumbledore's left arm.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.25.34.850-00.25.37.376 	Pansy and Blaise wait for Draco at the carriage door, finally leave their compartment.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.25.41.550-00.25.43.091 	Ron and Hermione leave their compartment.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.32.23.135-00.32.27.138 	He leaves Ron and goes to McGonagall.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.14.47.320-01.14.51.542 	Tonks walks away and Remus Lupin follows her, leaving Harry with Mr. Weasley.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.33.29.276-01.33.31.202 	Harry is the last to leave the ward.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.33.58.742-01.34.03.613 	Draco leaves the upper corridor with the bird cage hangs, now only one bird remains in the cage.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.57.13.967-01.57.17.313 	Snape abruptly leaves the astronomy tower.
-1002_Harry_Potter_and_the_Half-Blood_Prince_02.20.37.128-02.20.42.464 	Harry leaves the study.
-1003_How_to_Lose_Friends_and_Alienate_People_00.11.25.495-00.11.26.455 	She leaves with her nose in the air.
-1003_How_to_Lose_Friends_and_Alienate_People_00.47.36.794-00.47.40.391 	The search party heads off, leaving a relieved Sidney slumped against a wall by the window.
-1003_How_to_Lose_Friends_and_Alienate_People_01.05.37.202-01.05.40.992 	Alison strides off tearfully, leaving a dumbstruck Sydney staring after her.
-1003_How_to_Lose_Friends_and_Alienate_People_01.16.13.066-01.16.15.927 	Sydney's eyes dart left and right as he retreats from the room.
-1003_How_to_Lose_Friends_and_Alienate_People_01.24.18.996-01.24.21.786 	The car pulls away, leaving a dispirited Sydney at the roadside, his hands clasped together, as if in prayer.
-1003_How_to_Lose_Friends_and_Alienate_People_01.31.39.521-01.31.43.225 	Sophie and Elena leave Sydney alone.
-1004_Juno_00.05.41.624-00.05.50.070 	She rolls her eyes at the counter clerk and leaves the store, stick in one hand.
-1004_Juno_00.11.26.688-00.11.31.035 	She gets on her bike and rides off, leaving Bleeker clutching his sandwich.
-1004_Juno_00.13.53.308-00.13.56.143 	Amanda leaves Josh open mouth.
-1004_Juno_00.38.18.523-00.38.20.099 	Vijay speeds up leaving Bleeker alone on the running track.
-1004_Juno_00.41.19.790-00.41.23.457 	With a look that could kill, the ultrasound technician leaves the room.
-1004_Juno_01.05.28.884-01.05.37.175 	She strides away with her canvas bag over her shoulder, leaving Bleeker standing by his locker, watching her glumly.
-1005_Signs_00.38.58.782-00.39.01.375 	Morgan steps falteringly up to the table, leaving Bo at the sink.
-1005_Signs_00.53.25.030-00.53.27.697 	Stepping back from the door, his keen eye scanning from left to right.
-1005_Signs_01.05.48.386-01.05.52.556 	Now, in broad daylight, Merrill leaves his converted barn holding a large white cotton sack.
-1005_Signs_01.08.21.545-01.08.24.907 	He wanders off, leaving Merrill alone with Morgan and Bo.
-1005_Signs_01.31.20.588-01.31.24.783 	Merrill turns left and disappears from Graham's view.
-1006_Slumdog_Millionaire_00.41.52.787-00.42.03.536 	Jamal notices the hundreds of pairs of shoes left by visiting tourists.
-1006_Slumdog_Millionaire_00.59.59.669-01.00.04.126 	Salim suddenly looks solemn and leaves the room.
-1006_Slumdog_Millionaire_01.16.14.180-01.16.17.461 	Salim leaves his apartment block and heads for his car.
-1006_Slumdog_Millionaire_01.28.22.060-01.28.23.080 	He leaves the toilets.
-1006_Slumdog_Millionaire_01.35.27.087-01.35.32.191 	The inspector makes to leave the room.
-1006_Slumdog_Millionaire_01.36.54.220-01.36.56.689 	Latika leaves the room.
-1006_Slumdog_Millionaire_01.37.23.974-01.37.33.457 	He leaves and joins Latika next door.
-1006_Slumdog_Millionaire_01.44.47.489-01.44.50.485 	Latika realizes she's left Salim's phone in the car.
-1007_Spider-Man1_00.12.26.377-00.12.30.120 	The general walks away, leaving a pensive Norman.
-1007_Spider-Man1_00.19.58.067-00.20.05.842 	She reaches the school bus stop and grinds the sole of her left boot on the ground.
-1007_Spider-Man1_00.20.42.214-00.20.42.658 	The bus zooms on leaving Peter in the middle of the street with a large portion of the poster sticking to his fingers.
+0001_American_Beauty_00.09.34.576-00.09.37.813 	jane puts her plate in the dishwasher and leaves.
+0001_American_Beauty_00.13.44.002-00.13.49.804 	she walks out calmly, leaving us alone in the dark, empty room.
+0001_American_Beauty_00.22.02.845-00.22.09.179 	she quickly turns off the light that's been left on for her, then peeks through a window.
+0001_American_Beauty_01.08.57.541-01.09.00.439 	embarrassed, she quickly leaves.
+0001_American_Beauty_01.12.55.686-01.13.06.028 	he leaves.
+0001_American_Beauty_01.29.19.289-01.29.28.643 	buddy's jaguar speeds off, leaving the mercedes alone in the parking lot.
+0001_American_Beauty_01.35.10.831-01.35.16.219 	ricky grabs his backpack, turns and walks out the door, leaving the colonel standing there, glassy-eyed and breathing heavily.
+0001_American_Beauty_01.36.06.014-01.36.16.319 	he kisses her cheek softly, then exits out the back door, leaving her standing alone, still clutching her dish.
+0001_American_Beauty_01.53.40.384-01.53.43.053 	ghostly leaves flutter slowly toward pavement.
+0002_As_Good_As_It_Gets_00.25.43.586-00.25.48.941 	the three attackers leave.
+0002_As_Good_As_It_Gets_01.14.24.596-01.14.24.863 	after carol leaves.
+0002_As_Good_As_It_Gets_01.23.08.550-01.23.10.111 	frank starts to leave -- simon stops him.
+0002_As_Good_As_It_Gets_01.37.52.476-01.37.54.242 	sandbagged in extreme, she gets up -- actually ready to leave.
+0002_As_Good_As_It_Gets_01.47.02.540-01.47.04.240 	he leaves the bed.
+0002_As_Good_As_It_Gets_02.05.55.756-02.05.57.619 	he half turns to leave.
+0002_As_Good_As_It_Gets_02.06.29.387-02.06.31.065 	melvin, of course, cannot leave well enough alone.
+0003_CASABLANCA_00.12.06.148-00.12.08.031 	ugarte leaves the table just as the waiter comes up.
+0003_CASABLANCA_00.12.40.411-00.12.43.458 	rick leaves the gambling room and goes into the main room.
+0003_CASABLANCA_00.20.35.065-00.20.35.538 	renault starts to leave.
+0003_CASABLANCA_00.22.39.192-00.22.42.105 	a few customers are on the point of leaving.
+0003_CASABLANCA_01.04.43.918-01.04.45.275 	annina meets renault in the hallway as she leaves the gambling room.
+0003_CASABLANCA_01.07.54.248-01.07.55.780 	he shakes his head as rick leaves.
+0003_CASABLANCA_01.08.21.220-01.08.22.260 	he has only three chips left and seems bewildered.
+0003_CASABLANCA_01.14.30.688-01.14.32.493 	people get up and begin to leave.
+0003_CASABLANCA_01.14.33.011-01.14.36.567 	this display of nerve leaves rick at a loss.
+0003_CASABLANCA_01.18.38.018-01.18.52.433 	ilsa gets a cloak from the bedroom, and leaves the hotel room.
+0004_Charade_00.08.14.520-00.08.15.379 	the driver leaves.
+0004_Charade_00.11.51.934-00.11.57.302 	the door opens and the policeman enters again, this time carrying a wicker basket which he deposits on grandpierre's desk, and leaves.
+0004_Charade_00.30.43.665-00.30.44.560 	she steps back, leaving gideon holding the orange, foolishly, under his chin, his eyes still closed.
+0004_Charade_00.42.24.258-00.42.28.345 	as peter (now called dyle) leaves reggie's room and closes the door.
+0004_Charade_00.48.52.975-00.48.59.713 	dyle leaves the hotel and turns into the place.
+0004_Charade_00.49.31.337-00.49.32.404 	as he opens his mouth to make a sound, reggie, her eyes on dyle, rises quickly from the table and goes, leaving a very confused tourist with his mouth open.
+0004_Charade_00.49.32.564-00.49.35.931 	he blinks, then leaves some money on the table and starts after her.
+0004_Charade_00.49.54.956-00.50.01.648 	she leaves him standing there, more confused than ever, as she starts after dyle again.
+0004_Charade_00.57.26.421-00.57.30.133 	dyle turns and leaves going down the stairs.
+0004_Charade_00.57.30.275-00.57.34.830 	dyle leaves the elevator and goes to his own door.
+0004_Charade_01.14.30.694-01.14.33.114 	she turns and leaves, slamming the door after her.
+0004_Charade_01.19.37.904-01.19.42.398 	who, like everyone else, leave the table and stand together at the rail watching.
+0004_Charade_01.37.38.989-01.37.43.341 	as reggie leaves her room and goes to the elevator.
+0004_Charade_01.38.02.287-01.38.02.661 	reggie leaves the hotel and runs to it.
+0004_Charade_01.42.13.114-01.42.16.266 	through the glass adam can be seen, leaving the sortie area.
+0004_Charade_01.45.50.186-01.45.50.296 	as the deflected bullet rips the shoulder of his coat, leaving him unharmed.
+0005_Chinatown_00.07.30.185-00.07.34.689 	mulwray leaves the overleaf board and sits down.
+0005_Chinatown_00.25.43.776-00.25.47.306 	the butler takes it and disappears, leaving gittes standing in the doorway.
+0005_Chinatown_00.27.05.791-00.27.08.931 	gittes is left standing by the pond.
+0005_Chinatown_00.27.17.183-00.27.22.713 	the gardener nods, and is off, leaving gittes staring at the object in the bottom of the pond that is gleaming.
+0005_Chinatown_00.50.36.075-00.50.39.463 	he drives off into the wilshire traffic, leaving evelyn looking after him.
+0005_Chinatown_00.56.37.930-00.56.41.616 	gittes smiles, leaves an unsmiling yelburton.
+0006_Clerks_00.54.42.638-00.54.47.464 	the customer lets it sink in, and then leaves in a huff.
+0006_Clerks_00.56.39.944-00.56.45.616 	the customer leaves, wiping water from his face.
+0006_Clerks_01.21.51.734-01.21.54.333 	silent bob leaves.
+0006_Clerks_01.27.29.197-01.27.31.452 	randal gets up, leaving dante to contemplate his strong words alone.
+0007_DIE_NACHT_DES_JAEGERS_00.11.06.735-00.11.09.926 	the guard leaves the shot; bart goes in.
+0007_DIE_NACHT_DES_JAEGERS_00.12.14.062-00.12.14.916 	the tree-shaded dirt street of a small, one-street river town; a picturesque, mid-19th-century remnant of the old river civilization, which general progress has left behind.
+0007_DIE_NACHT_DES_JAEGERS_00.21.11.195-00.21.24.237 	icey enters the shot and whispers and beckons willa and, as the singing continues, they leave the group and start towards a shade tree in medium ground, which we pan to center.
+0007_DIE_NACHT_DES_JAEGERS_00.25.26.719-00.25.31.654 	john leaves the shot.
+0007_DIE_NACHT_DES_JAEGERS_00.26.15.431-00.26.16.949 	a tall, narrow shooting-frame; right and left thirds of screen are black.
+0007_DIE_NACHT_DES_JAEGERS_00.45.06.188-00.45.12.791 	as he leaves the tree and walks along the side of the house; we tilt downward and close in, to follow only his feet; he steps past a tiny cellar window and we pan and tighten in close on it, into.
+0007_DIE_NACHT_DES_JAEGERS_00.51.02.605-00.51.03.999 	his eyes never leave john's.
+0007_DIE_NACHT_DES_JAEGERS_00.51.54.860-00.51.57.519 	preacher starts toward it, leaving them at foot of stairs, then turns, catching john's ruse.
+0007_DIE_NACHT_DES_JAEGERS_00.53.35.112-00.53.38.749 	a pretty, pastoral shot of the house in light mist, as they run across and leave the shot.
+0007_DIE_NACHT_DES_JAEGERS_00.59.22.583-00.59.23.524 	woman leaves shot briefly (we hold on children) she re-enters and goes to them with a bowl of steaming potatoes.
+0007_DIE_NACHT_DES_JAEGERS_01.18.57.070-01.18.57.208 	his eyes never leave hers.
+0007_DIE_NACHT_DES_JAEGERS_01.21.47.110-01.21.48.200 	ruby leaves the shot.
+0007_DIE_NACHT_DES_JAEGERS_01.27.03.508-01.27.04.063 	icey leaves door to yell at mob.
+0007_DIE_NACHT_DES_JAEGERS_01.27.04.063-01.27.06.074 	as rachel leaves shot, the cashier shuts and locks the door.
+0007_DIE_NACHT_DES_JAEGERS_01.29.30.906-01.29.37.741 	embarrassed, john leaves the shot.
+0007_DIE_NACHT_DES_JAEGERS_01.29.42.883-01.30.08.976 	from a fruit bowl, he selects the biggest apple, shines it on his shirt, wraps it in the doily under his bowl, opens a drawer and gets out a clip clothespin, clips his package, and leaves shot.
+0008_Fargo_00.10.20.676-00.10.21.633 	he rises, and, as he leaves.
+0009_Forrest_Gump_00.06.50.969-00.06.57.471 	a row of mailboxes stands left.
+0009_Forrest_Gump_00.10.22.856-00.10.25.739 	a man with a cane steps left across the hall.
+0009_Forrest_Gump_00.11.26.933-00.11.29.525 	forrest stands left, and looks himself in a mirror.
+0009_Forrest_Gump_00.20.10.315-00.20.12.289 	jenny steps left and gets out of the way.
+0009_Forrest_Gump_00.20.47.588-00.20.54.222 	forrest looks left as he continues telling his life story.
+0009_Forrest_Gump_00.24.40.547-00.24.41.688 	a white woman with a bay sits left.
+0009_Forrest_Gump_00.40.49.598-00.40.53.402 	the solider looks left, forrest and bubba ride in the helicopter.
+0009_Forrest_Gump_01.22.32.639-01.22.36.196 	carla and lenore laugh as they leave the apartment.
+0009_Forrest_Gump_01.39.29.062-01.39.31.233 	the doctor leaves and closes the door.
+0010_Frau_Ohne_Gewissen_00.25.35.530-00.25.36.085 	a low glass-and- china cabinet is built between the dinette and kitchen, leaving a space like a doorway.
+0010_Frau_Ohne_Gewissen_00.45.13.810-00.45.14.128 	he makes a gesture as if expecting keyes to leave.
+0010_Frau_Ohne_Gewissen_00.47.38.242-00.47.46.588 	he leaves the office, with his briefcase under his arm.
+0010_Frau_Ohne_Gewissen_01.32.50.539-01.32.51.792 	all the employees have now left.
+0010_Frau_Ohne_Gewissen_01.45.32.859-01.45.34.458 	neff goes out, leaving the door wide open.
+0011_Gandhi_00.16.37.126-00.16.40.604 	the boys bow and leave like boys used to household discipline.
+0011_Gandhi_00.46.23.008-00.46.24.067 	as gandhi leaves, jinnah, nehru and prakash watch him clinically.
+0011_Gandhi_01.31.18.141-01.31.21.620 	and finally the camera comes to a close shot of gandhi, matching that of dyer, whom we have just left.
+0011_Gandhi_01.50.33.435-01.50.38.050 	then ba straightens, and leaves without looking back.
+0011_Gandhi_02.08.24.729-02.08.27.523 	both sides of the track are lined with peasants holding flower petals and leaves, all gazing expectantly down the road.
+0011_Gandhi_02.14.21.344-02.14.23.846 	as he turns to leave irwin speaks -- almost offhandedly.
+0011_Gandhi_02.35.40.720-02.35.43.152 	jinnah's anger is clearly too deep to be left at the conference table.
+0011_Gandhi_02.52.05.171-02.52.06.110 	mirabehn is rising, leaving the magazine at her feet.
+0011_Gandhi_02.54.40.654-02.54.57.599 	they glance at suhrawardy; he smiles tautly and they start to leave, but one (nahari) lingers.
+0012_Get_Shorty_00.09.08.222-00.09.13.961 	the two guys leave as the black guy steps up to chili.
+0012_Get_Shorty_00.45.12.283-00.45.20.897 	people start getting up to leave.
+0012_Get_Shorty_00.50.53.174-00.50.56.104 	he hugs her and hangs on, leaving nicki and chili standing there like idiots.
+0013_Halloween_01.02.38.602-01.02.40.802 	empty beer cans leave a trail from the door to the bed.
+0013_Halloween_01.04.18.473-01.04.23.034 	he leaves.
+0013_Halloween_01.05.44.386-01.05.45.266 	bob's feet leave the floor.
+0013_Halloween_01.22.39.312-01.22.42.716 	laurie shoves them into the bathroom and pulls the door shut, leaving herself outside in the bedroom.
+0013_Halloween_01.26.07.243-01.26.08.415 	as they leave frame we see loomis on the other side of the street.
+0014_Ist_das_Leben_nicht_schoen_00.15.18.870-00.15.21.077 	she follows harry into the kitchen, leaving pop and george.
+0014_Ist_das_Leben_nicht_schoen_00.24.08.778-00.24.10.727 	each is carrying their wet clothes tied into a bundle that leaves a trail of dripping water.
+0014_Ist_das_Leben_nicht_schoen_00.27.50.654-00.27.56.068 	as he speaks, the man leaves the porch and goes into his house, slamming the front door.
+0014_Ist_das_Leben_nicht_schoen_00.30.42.191-00.30.52.644 	george and uncle billy start to collect their papers and leave the table.
+0014_Ist_das_Leben_nicht_schoen_00.31.30.412-00.31.36.942 	george is at the door of the office, holding his coat and papers, ready to leave.
+0014_Ist_das_Leben_nicht_schoen_00.33.51.666-00.33.52.940 	george leaves the room, followed by the jubilant uncle billy.
+0014_Ist_das_Leben_nicht_schoen_00.37.52.284-00.37.59.480 	the crowd enters the front door of the house, leaving george and uncle billy on the porch.
+0014_Ist_das_Leben_nicht_schoen_00.45.30.854-00.45.32.893 	he looks at his watch, as though about to leave.
+0014_Ist_das_Leben_nicht_schoen_00.46.32.424-00.46.38.541 	as george leaves the room, the telephone in the hall starts ringing.
+0014_Ist_das_Leben_nicht_schoen_01.07.09.126-01.07.19.704 	the big black limousine glides away, leaving george standing with his arm around mary, gazing broodingly after it.
+0014_Ist_das_Leben_nicht_schoen_01.21.11.461-01.21.14.160 	george coming from room where he has just left the bank examiner.
+0014_Ist_das_Leben_nicht_schoen_01.22.20.592-01.22.22.441 	she reaches up and kisses him on the cheek, leaving lipstick.
+0014_Ist_das_Leben_nicht_schoen_01.26.52.970-01.27.00.440 	tommy leaves, and mary turns to the stove.
+0014_Ist_das_Leben_nicht_schoen_01.45.31.552-01.45.35.734 	george and clarence come into shot and up to the spot where george had left his car smashed against the tree.
+0014_Ist_das_Leben_nicht_schoen_01.46.52.230-01.46.53.577 	two people leave the bar as they approach.
+0016_O_Brother_Where_Art_Thou_00.05.30.128-00.05.32.916 	everett, just finishing his speech, flips forward in turn, smashes his chin onto the floor and is sucked out the open doorway, his clawing fingernails leaving parallel grooves on the boxcar floorboards.
+0016_O_Brother_Where_Art_Thou_00.05.41.435-00.05.43.005 	its fading clatter leaves the baying of hounds.
+0016_O_Brother_Where_Art_Thou_00.37.02.352-00.37.06.504 	george has turned woodenly and walks away, leaving the campfire's flickering circle of light.
+0016_O_Brother_Where_Art_Thou_00.49.47.853-00.49.49.611 	the big man appears as she leaves.
+0017_Pianist_00.41.21.335-00.41.23.377 	then, he turns to those who are left.
+0017_Pianist_01.23.42.301-01.23.43.289 	autumn leaves falling and gusting in the wind.
+0017_Pianist_01.41.51.288-01.41.57.195 	he leaves.
+0017_Pianist_01.43.32.397-01.43.35.741 	the doctor and michal leave his line of vision.
+0017_Pianist_02.16.03.303-02.16.06.162 	he comes to a decision and starts to leave.
+0019_Pulp_Fiction_00.29.19.479-00.29.21.427 	jody continues talking to trudi, leaving vincent to ponder the truth of her statement.
+0019_Pulp_Fiction_00.58.47.389-00.58.50.653 	lance angrily knocks over a pile of shit and leaves the shot heading for the living room.
+0019_Pulp_Fiction_01.00.21.009-01.00.25.063 	the needle leaves frame, thrusting down hard.
+0019_Pulp_Fiction_01.40.48.293-01.41.18.280 	zed continues his silent sing-song with his finger moving left to right, then it stops.
+0019_Pulp_Fiction_01.49.11.345-01.49.14.336 	butch leaves russell's old room through the red curtains.
+0019_Pulp_Fiction_01.55.02.268-01.55.05.334 	vincent prepares to leave.
+0019_Pulp_Fiction_02.05.18.828-02.05.20.170 	the wolf and jimmie turn, heading for the bedroom, leaving vincent and jules standing in the kitchen.
+0019_Pulp_Fiction_02.12.51.510-02.12.52.920 	winston turns to leave.
+0020_Raising_Arizona_00.05.26.175-00.05.29.470 	a sudden flash whitens and fades to leave the image of ed, smiling behind her camera, softly supered on the underside of the bunk.
+0020_Raising_Arizona_00.10.26.237-00.10.31.111 	the businessman takes his newspaper and releases the machine door as he turns to leave.
+0020_Raising_Arizona_00.26.17.950-00.26.19.159 	there is an awkward silence as she leaves and slams the bedroom door.
+0020_Raising_Arizona_00.28.47.899-00.28.49.158 	we are left looking at the empty street and the faraway arizona house.
+0020_Raising_Arizona_00.28.49.158-00.28.50.279 	the receding roar has left behind eerily beautiful singing, a woman singing a lullaby.
+0020_Raising_Arizona_00.42.20.377-00.42.21.053 	glen's feet leave the ground.
+0020_Raising_Arizona_00.43.41.815-00.43.45.366 	he puts the car in park but leaves it running.
+0020_Raising_Arizona_00.45.42.089-00.45.44.685 	leaving the huggies, hi takes off through a well-manicured yard.
+0020_Raising_Arizona_00.58.02.675-00.58.03.875 	dragging the kitchen match along the unfinished wood surface of an expensive bureau, leaving an ugly black scar.
+0020_Raising_Arizona_01.06.32.204-01.06.36.271 	he snaps the chamber shut and leaves frame, still talking.
+0020_Raising_Arizona_01.06.38.960-01.06.43.098 	hi is leaving frame again, continuing to talk as we hear him rummaging offscreen.
+0020_Raising_Arizona_01.18.46.670-01.18.52.916 	dragged several yards before the boot shakes him off, leaving him on his stomach in the middle of the road.
+0020_Raising_Arizona_01.19.47.319-01.19.47.780 	with a whipcrack effect he looks left, then right.
+0021_Rear_Window_00.07.31.502-00.07.34.826 	we see the man who left his apartment in anger come out of the doorway into the backyard.
+0021_Rear_Window_00.08.10.228-00.08.10.890 	his anger seems to have left him, replaced by the kind of peace that flowers bring many people.
+0021_Rear_Window_00.09.11.005-00.09.15.060 	as she leaves him holding the thermometer the camera pulls back as she crosses to a divan.
+0021_Rear_Window_00.25.13.398-00.25.16.498 	he starts to answer her back, but decides better of it, and instead, leaves the room.
+0021_Rear_Window_00.26.10.367-00.26.11.964 	finally, he leaves the room, goes into the living room, back into the kitchen and has another drink.
+0021_Rear_Window_00.30.10.606-00.30.18.904 	lisa begins to move around the room assembling her possessions preparatory to leaving.
+0021_Rear_Window_00.48.49.350-00.48.50.350 	she turns the wheelchair slightly to her left so that he can see the newlyweds' apartment.
+0021_Rear_Window_00.52.25.072-00.52.26.175 	he opens it, and after a short exchange of dialogue, he admits the two men, leaving the door open behind them.
+0021_Rear_Window_01.02.17.956-01.02.27.206 	then she leaves the apartment, with a show of determination.
+0021_Rear_Window_01.20.27.516-01.20.31.945 	he leaves, slamming the door behind him.
+0021_Rear_Window_01.26.19.411-01.26.20.981 	the viewer moves away, and we are left with the identical scene, but not quite so still, a slight breeze stirring the foliage.
+0021_Rear_Window_01.37.28.295-01.37.29.496 	stella has abandoned the shovel and left the flowers and dirt strewn over the walk.
+0021_Rear_Window_01.42.56.318-01.42.59.417 	we see thorwald leave his apartment and proceed down the corridor.
+0021_Rear_Window_01.50.36.893-01.50.41.803 	beginning on jeff's window thermometer, the camera pans from right to left around the neighborhood.
+0022_Reservoir_Dogs_00.18.11.492-00.18.12.283 	mr. white turns to leave.
+0022_Reservoir_Dogs_00.26.21.537-00.26.22.823 	pink exits frame, leaving mr. white alone.
+0022_Reservoir_Dogs_01.13.30.094-01.13.33.419 	mr. orange looking from left to right.
+0022_Reservoir_Dogs_01.22.51.527-01.22.52.098 	camera leaves the team and goes to the blackboard with the layout of the jewelry store on it.
+0022_Reservoir_Dogs_01.35.12.772-01.35.14.854 	mr. white is blown out of frame, leaving it empty.
+0023_THE_BUTTERFLY_EFFECT_00.22.52.598-00.22.55.032 	evan discreetly watches her leave through the window.
+0023_THE_BUTTERFLY_EFFECT_00.33.20.778-00.33.23.086 	after getting his bearings, he grabs his jacket and exits, leaving her dumbfounded.
+0023_THE_BUTTERFLY_EFFECT_00.58.49.118-00.58.51.700 	thumper walks away, leaving evan dumbfounded.
+0023_THE_BUTTERFLY_EFFECT_01.11.31.636-01.11.35.562 	carlos leaves the cell without another word.
+0023_THE_BUTTERFLY_EFFECT_01.32.37.061-01.32.41.005 	she opens evan's wallet and leaves a twenty on the table.
+0023_THE_BUTTERFLY_EFFECT_01.33.21.725-01.33.24.115 	she tosses his wallet over her shoulder at him and leaves.
+0023_THE_BUTTERFLY_EFFECT_01.33.53.539-01.33.57.640 	thumper and the co-ed quickly cover themselves in the blankets and leave.
+0023_THE_BUTTERFLY_EFFECT_01.47.31.803-01.47.36.273 	evan runs into dr. redfield's office just as another patient is leaving.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.34.47.935-00.34.49.883 	frodo is preparing to leave.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.15.52.329-02.15.57.185 	they lie on soft couches as elves leave food and wine for them.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.31.53.660-02.31.55.638 	frodo turns to leave.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.25.35.274-00.25.39.954 	pippin is dumped unceremoniously onto the back of shadowfax as gandalf hurriedly prepares to leave.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.33.08.991-00.33.18.801 	gandalf and pippin dismount, leaving the guards of the citadel to tend to shadowfax.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.37.03.176-00.37.03.901 	gandalf looks at denethor closely for a moment, then turns on his heel to leave, pippin follows.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.00.48.561-01.01.01.240 	faramir bows low to denethor, then turns to leave, stops, turns back.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.14.16.326-01.14.21.698 	as eowyn and merry leave the tent, eomer and gamling are sitting nearby, finishing a meal.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.14.24.362-01.14.27.003 	eomer watches the young hobbit leave.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.16.03.250-01.16.13.241 	theoden bows slightly to the hooded figure and leaves, shooting aragorn a strange look as he goes.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.19.27.911-01.19.34.054 	as aragorn readies brego for leaving eowyn approaches.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.25.04.395-01.25.06.025 	gimli left alone.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.43.26.715-01.43.33.029 	frodo leaves the sword and throws himself through a narrow crevice.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.52.09.791-01.52.24.389 	jerking and quivering, shelob crawls to her hole, leaving a trail of green-yellow slime.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_03.00.11.384-03.00.25.352 	sam steels himself and leaves to go and talk to rosie.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_03.10.16.484-03.10.26.436 	sam in growing darkness, still follows the departing ship with his eyes, merry and pippin are already preparing to leave.
+0026_The_Big_Fish_00.02.39.716-00.02.40.786 	will, now 17 with braces, is fuming and ready to leave.
+0026_The_Big_Fish_00.03.32.258-00.03.35.198 	as he leaves, will mutters in perfect unison with his father.
+0026_The_Big_Fish_00.12.33.492-00.12.37.692 	he could leave now, but curiosity gets the better of him.
+0026_The_Big_Fish_00.15.12.846-00.15.14.402 	the illness has been quick, and left him largely intact.
+0026_The_Big_Fish_00.18.49.216-00.18.53.724 	as he leaves frame, we stay behind to look inside.
+0026_The_Big_Fish_00.27.40.143-00.27.47.202 	edward and karl come to a bend, where the paved road veers left and an overgrown dirt road runs straight.
+0026_The_Big_Fish_00.30.01.052-00.30.04.809 	even then, he still keeps twitching, convinced another one is left behind.
+0026_The_Big_Fish_00.32.06.192-00.32.18.396 	he and beamen are joined by norther winslow (30), who fancies himself a cultured artist, though he's never left the state.
+0026_The_Big_Fish_00.45.19.086-00.45.27.301 	josephine leaves, heading down the hall to get her camera.
+0026_The_Big_Fish_00.49.44.257-00.50.00.254 	as amos pulls karl aside to give him the hard sell, edward notices a beautiful young woman (16) leaving with her family.
+0026_The_Big_Fish_01.02.54.604-01.02.58.545 	he exits frame, leaving only the sorority house in the background.
+0026_The_Big_Fish_01.17.59.661-01.18.04.935 	it settles for a beat after they leave.
+0026_The_Big_Fish_01.38.19.851-01.38.21.883 	young jenny hill watches barefoot edward leave spectre for the first time.
+0026_The_Big_Fish_01.38.56.253-01.38.59.585 	edward pulls the door shut behind him as he leaves, but it breaks off in his hands.
+0027_The_Big_Lebowski_00.03.53.832-00.03.54.602 	going into the bedroom the outflung satchel catches a piece of doorframe and wallboard and rips through it, leaving a hole.
+0027_The_Big_Lebowski_00.05.32.073-00.05.34.778 	they turn to leave.
+0027_The_Big_Lebowski_00.30.32.630-00.30.32.835 	led by the bowling ball, he zooms past the camera leaving us in black.
+0027_The_Big_Lebowski_00.48.31.620-00.48.33.240 	he takes a sip of a freshly-mixed white russian, which leaves milk on his mustache.
+0027_The_Big_Lebowski_00.54.13.824-00.54.18.539 	the dude has left frame; walter calls after him.
+0027_The_Big_Lebowski_00.56.11.337-00.56.15.704 	the three men turn to leave.
+0027_The_Big_Lebowski_00.59.20.652-00.59.23.912 	they leave the dude sitting morosely at the bar.
+0027_The_Big_Lebowski_01.15.01.685-01.15.09.223 	she falls past the camera, leaving blackness, then after a beat reappears, rising into the night sky.
+0027_The_Big_Lebowski_01.23.21.401-01.23.41.878 	as she drops out of frame, leaving blackness again, three men are entering from the background, emerging into a pool of light.
+0027_The_Big_Lebowski_01.31.35.781-01.31.37.037 	the dude is leaving the bedroom.
+0028_The_Crying_Game_00.12.15.227-00.12.17.804 	jody's head follows fergus while he leaves.
+0028_The_Crying_Game_00.40.55.041-00.40.57.676 	she leaves the salon.
+0028_The_Crying_Game_00.52.49.190-00.52.52.233 	fergus stands and looks down at dave, who turns to leave.
+0028_The_Crying_Game_00.53.26.834-00.53.34.632 	a waiter places drinks on their table, then leaves.
+0028_The_Crying_Game_01.01.17.994-01.01.20.924 	dave stands up to leave.
+0028_The_Crying_Game_01.18.25.432-01.18.29.167 	she leaves.
+0029_The_Graduate_00.25.22.045-00.25.39.129 	he stands up in the booth, looks around, moves about uncomfortably for a few moments, removes his jacket and carrying it folded across his arm in front of him, leaves the phone booth and crosses to the doors that lead to the main lobby.
+0029_The_Graduate_00.32.47.832-00.32.52.744 	he leaves the phone booth and walks back into the main lobby.
+0029_The_Graduate_01.28.34.372-01.28.35.636 	ben is left in the hall.
+0029_The_Graduate_01.39.02.491-01.39.06.017 	shot the car leaving the freeway under a santa barbara sign.
+0030_The_Hustler_00.00.30.725-00.00.42.000 	eddie leaves the car parked at the gas station and heads for the bar.
+0030_The_Hustler_00.17.17.354-00.17.36.195 	the balls are returned and eddie makes his break shot, a glancing blow that leaves the pack of balls nearly intact and the white cue ball lying far away at the end of the table.
+0030_The_Hustler_00.24.31.797-00.24.35.136 	he nods to preacher who then leaves.
+0030_The_Hustler_00.36.53.405-00.37.17.725 	then eddie returns to his bed, leaves the keys to the packard and some money on the night table next to charlie.
+0030_The_Hustler_00.41.23.528-00.41.35.307 	she pays, collects her purse and book, and rises to leave.
+0030_The_Hustler_00.48.36.679-00.48.39.515 	he leaves her there in the hall and walks off.
+0030_The_Hustler_00.50.12.067-00.50.14.956 	from his pocket he pulls out the few crumpled bills he has left.
+0030_The_Hustler_00.54.36.310-00.54.39.039 	a woman runs out of the store to give her a parcel she left behind.
+0030_The_Hustler_01.04.23.617-01.04.29.136 	charlie puts on his hat and leaves.
+0030_The_Hustler_01.18.09.972-01.18.15.250 	he drops the cash on the table and leaves quickly.
+0030_The_Hustler_01.31.39.115-01.31.42.492 	eddie nods and drinks down the last of his brandy as the waiter leaves.
+0030_The_Hustler_01.41.33.539-01.41.36.513 	the bellboy leaves as she moves to close the other.
+0030_The_Hustler_01.45.27.161-01.45.30.564 	he nods to them all, and leaves.
+0030_The_Hustler_01.49.07.176-01.49.15.121 	the woman takes her coat and leaves.
+0030_The_Hustler_01.50.53.907-01.50.59.603 	findley steps up to the bar, leaving bert and eddie alone.
+0030_The_Hustler_01.56.38.584-01.56.40.805 	eddie moves to leave.
+0030_The_Hustler_02.05.37.614-02.05.44.126 	fats makes a good break, leaving the cue ball teetering over the far corner pocket.
+0030_The_Hustler_02.07.58.268-02.08.02.005 	eddie sinks shots right and left -- some tricky, some not.
+0031_The_Lost_Weekend_00.03.38.729-00.03.42.531 	left alone, he acts with lightning rapidity.
+0031_The_Lost_Weekend_00.13.35.879-00.13.39.415 	he puts it down and starts playing the nonchalant, casual drinker -- the man who can take it or leave it.
+0031_The_Lost_Weekend_00.14.03.137-00.14.05.152 	nat has come up with the bar towel to wipe off the wet ring left by the glass.
+0031_The_Lost_Weekend_00.17.57.739-00.17.58.144 	the camera is on the wet rings which the wet glass has left on the bar.
+0031_The_Lost_Weekend_00.33.04.629-00.33.09.638 	he rises and, to the irritation of his neighbors, leaves his seat amid some disapproving shushings from the row behind.
+0031_The_Lost_Weekend_00.33.18.253-00.33.20.540 	the attendant takes the check and leaves.
+0031_The_Lost_Weekend_00.35.14.468-00.35.16.915 	helen is left with the leopard coat and his bowler.
+0031_The_Lost_Weekend_00.38.29.126-00.38.29.989 	as we have left it, empty save for nat and don.
+0031_The_Lost_Weekend_00.42.24.599-00.42.26.190 	he leaves through one of the side doors.
+0031_The_Lost_Weekend_00.56.29.741-00.56.36.918 	taking the check, the waiter leaves.
+0031_The_Lost_Weekend_00.59.33.816-00.59.36.903 	he fishes what money he has left from his pocket.
+0031_The_Lost_Weekend_01.00.15.864-01.00.31.233 	don drags himself up the last few steps, unlocks the door and goes in, leaving paper, bottle and note untouched.
+0031_The_Lost_Weekend_01.11.11.598-01.11.17.961 	she slips into the apartment, leaving the door about three inches a jar.
+0031_The_Lost_Weekend_01.25.01.434-01.25.09.386 	in the wall above the couch, close to the door, there is a hole in the plaster, as if left by a large nail carelessly withdrawn so that some of the plaster went with it.
+0032_The_Princess_Bride_00.03.13.247-00.03.17.803 	she leaves; his eyes stay on her.
+0032_The_Princess_Bride_00.09.07.441-00.09.12.122 	vizzini glares at him, then turns, leaves them.
+0032_The_Princess_Bride_00.23.11.314-00.23.17.489 	a rocky staircase leading to a turret-shaped plateau, and the man in black is retreating like mad up the steps and he can't stop inigo--nothing can stop inigo--and in a frenzy, the man in black makes every feint, tries every thrust, lets go with all he has left.
+0032_The_Princess_Bride_00.38.46.152-00.39.05.348 	a moment later, she too is falling, spinning and twisting, crashing and torn, cartwheeling down toward what is left of her beloved.
+0032_The_Princess_Bride_01.22.07.658-01.22.10.569 	inigo, momentarily surprised, then taking off after him, leaving westley and fezzik to exchange curious looks and rugen, running through a half-open heavy wooden door, shutting it and locking it just as inigo throws himself against it.
+0032_The_Princess_Bride_01.27.25.470-01.27.27.137 	buttercup is alongside the bed; her eyes never leave his face.
+0033_Amadeus_00.22.21.427-00.22.24.847 	mozart does it with a furious grace, then leaves the room.
+0033_Amadeus_00.47.19.447-00.47.22.585 	he nods pleasantly to all and leaves the stage, with his chamberlain.
+0033_Amadeus_00.47.36.708-00.47.39.926 	cavalieri turns with a savage look at mozart and leaves the stage the opposite way, to her dressing room, tossing her plumed head.
+0033_Amadeus_01.16.03.668-01.16.11.208 	he bows to them and leaves the room.
+0033_Amadeus_02.34.35.019-02.34.38.019 	salieri leaves the room.
+0038_Psycho_00.28.13.727-00.28.20.682 	mary leaves her car, starts a dash for the shelter of the porch.
+0038_Psycho_01.12.22.096-01.12.25.853 	the car pulls up and arbogast gets out of car, leaving motor running.
+0038_Psycho_01.25.31.728-01.25.45.528 	norman goes up, pauses one moment outside his mother's door, then opens it and goes in, leaving the door open.
+0038_Psycho_01.37.08.670-01.37.14.549 	after a moment, she enters, leaving the door open behind her.
+0041_The_Sixth_Sense_00.19.09.387-00.19.11.376 	he walks back and takes them from her before leaving.
+0041_The_Sixth_Sense_01.03.12.272-01.03.16.261 	cole gets up -- never taking his eyes off his mother -- and leaves the room.
+0043_Thelma_and_Luise_00.12.21.373-00.12.23.047 	as the waitress leaves.
+0043_Thelma_and_Luise_00.13.54.316-00.13.59.321 	harlan leaves.
+0043_Thelma_and_Luise_01.08.31.120-01.08.35.034 	they are both leaving the restaurant now.
+0043_Thelma_and_Luise_01.23.08.211-01.23.18.147 	max agrees and opens the door for the others to leave.
+0046_Chasing_Amy_00.12.13.776-00.12.17.992 	banky and hooper exit, leaving alyssa and holden alone at the table.
+0046_Chasing_Amy_01.13.00.983-01.13.06.607 	the kid leaves, hooper slips back into his real voice.
+0046_Chasing_Amy_01.45.21.290-01.45.26.282 	the fan leaves, but banky is watching holden go.
+0049_Hannah_and_her_sisters_00.06.30.821-00.06.34.708 	the camera, leaving elliot, moves across the room, past a wall of framed paintings, a headboard and bed, a night table and lamp, revealing lee.
+0049_Hannah_and_her_sisters_00.10.52.956-00.10.57.839 	frederick, leaving his work area, walks past lee; his hands are in his pockets.
+0049_Hannah_and_her_sisters_00.17.05.371-00.17.07.828 	as they leave, gail calls out after them.
+0049_Hannah_and_her_sisters_00.25.10.926-00.25.21.828 	lee eventually crosses a street, lost in thought, looking right and left, as elliot, pretending nonchalance, waits on the corner, looking at his watch.
+0049_Hannah_and_her_sisters_00.28.56.410-00.29.01.268 	the film leaves elliot's face and cuts back to the loft, where lee, having finished the poem, sits up in the bed, staring pensively, lost in her thoughts.
+0049_Hannah_and_her_sisters_00.30.22.507-00.30.35.827 	mickey is seen leaving the hospital.
+0049_Hannah_and_her_sisters_00.37.45.535-00.37.53.858 	the camera leaves elliot to follow the enthusiastic lee as she takes dusty by the arm and starts leading him to the door.
+0049_Hannah_and_her_sisters_00.37.59.410-00.37.59.910 	the camera now moves back to elliot, still staring at the nude drawings, as the sounds of frederick's and dusty's footsteps are heard leaving the loft.
+0049_Hannah_and_her_sisters_00.46.03.399-00.46.23.918 	the camera leaves hannah's face as she continues to reflect; it moves to the den, to the row of family photos on the piano: one of a present-day evan and norma, others where both norma and evan are young, beautiful, hopeful.
+0049_Hannah_and_her_sisters_00.49.13.672-00.49.16.744 	once again, mickey is seen leaving the building, but this time he bounds down the steps, jumping for joy.
+0049_Hannah_and_her_sisters_00.50.09.593-00.50.12.739 	the camera follows her, leaving mickey briefly.
+0049_Hannah_and_her_sisters_00.58.26.421-00.58.28.273 	elliot frantically stands up and leaves the room.
+0049_Hannah_and_her_sisters_01.05.33.871-01.05.36.923 	the adopted children leave, the twins going off with them.
+0049_Hannah_and_her_sisters_01.17.25.881-01.17.27.933 	the hostess leaves.
+0049_Hannah_and_her_sisters_01.27.00.125-01.27.05.042 	she puts them down as lee and elliot stand awkwardly near the door, waiting for her to leave.
+0049_Hannah_and_her_sisters_01.28.54.726-01.28.57.646 	he leaves.
+0049_Hannah_and_her_sisters_01.39.53.145-01.39.57.466 	as mavis leaves the kitchen, lee enters, carrying some empty glasses.
+0049_Hannah_and_her_sisters_01.40.12.169-01.40.14.119 	the movie leaves the kitchen and cuts to the doorway between the dining room and the living room.
+0050_Indiana_Jones_and_the_last_crusade_00.15.10.122-00.15.13.517 	brody approaches as the last of the students leaves the lecture hall.
+0050_Indiana_Jones_and_the_last_crusade_00.17.19.393-00.17.22.191 	indy is ushered into a large art deco apartment and left alone.
+0050_Indiana_Jones_and_the_last_crusade_00.51.39.357-00.51.43.199 	indy and henry rush back into the room where elsa had been left, only to find: a nazi colonel holding elsa hostage.
+0050_Indiana_Jones_and_the_last_crusade_00.55.01.687-00.55.05.742 	the woman walks away, leaving brody alone in the crowd.
+0050_Indiana_Jones_and_the_last_crusade_01.01.47.042-01.01.48.988 	as they struggle they fall against the rotating wall and disappear into the next room, leaving a frightened henry behind.
+0050_Indiana_Jones_and_the_last_crusade_01.26.58.110-01.26.59.265 	brody has been left alone in the tank.
+0050_Indiana_Jones_and_the_last_crusade_01.31.47.714-01.31.50.236 	the bullet not only passes through the nazi, but passes through two other nazis standing directly behind him on the crowded tank top and three bodies fall away, leaving indy to stare at the gun in disbelief.
+0050_Indiana_Jones_and_the_last_crusade_01.58.23.683-01.58.27.388 	the grail knight lowers his arm as he watches them leave.
+0051_Men_in_black_00.05.39.501-00.05.50.671 	kay and dee escort their captive across the road and over a small rise, leaving the stunned ins agents standing alone in the roadway.
+0051_Men_in_black_00.36.15.115-00.36.18.091 	they leave the room.
+0051_Men_in_black_00.38.03.020-00.38.03.860 	kay punches a couple keys, and the cursor begins to sweep from right to left, starting to eliminate the rightmost letters of edwards's name.
+0051_Men_in_black_00.50.19.001-00.50.20.410 	laurel gives him a dirty look, but he laughs and leaves.
+0051_Men_in_black_01.10.41.497-01.10.45.688 	and he continues into the morgue, leaving kay waiting outside.
+0053_Rendezvous_mit_Joe_Black_00.25.45.120-00.25.49.290 	allison is about to press the point, but then drifts into disappointed silence as parrish leaves the room.
+0053_Rendezvous_mit_Joe_Black_01.23.48.019-01.23.52.905 	susan is left alone now with parrish who is fixing a drink at a sidebar.
+0053_Rendezvous_mit_Joe_Black_01.26.48.389-01.26.54.479 	drew leans over to felicia, speaks quietly and she leaves the room.
+0053_Rendezvous_mit_Joe_Black_01.42.40.676-01.42.45.773 	the elevator door opens, parrish and joe step inside and the door closes, leaving sloane behind.
+0053_Rendezvous_mit_Joe_Black_02.28.56.929-02.29.03.859 	she smiles wanly, joe leaves her.
+1001_Flight_00.30.00.844-00.30.07.006 	the doctor leaves.
+1001_Flight_00.31.12.117-00.31.29.987 	craig takes his recorder and leaves with the others, but charlie stays back.
+1001_Flight_00.35.31.160-00.35.39.537 	the nurse leaves the room.
+1001_Flight_00.38.06.760-00.38.13.552 	harling places his hand on whip's head and leaves.
+1001_Flight_00.39.14.931-00.39.16.838 	she rises to leave.
+1001_Flight_00.56.51.749-00.56.54.305 	whip rises to leave.
+1001_Flight_01.19.24.540-01.19.29.764 	he kisses her and leaves.
+1001_Flight_01.22.13.367-01.22.21.314 	whip leaves.
+1001_Flight_01.25.37.879-01.25.40.220 	whip arises to leave.
+1001_Flight_01.32.03.194-01.32.11.404 	she leaves an envelope with whip's name on it between his lighter and a bottle of whiskey.
+1001_Flight_01.44.52.869-01.44.55.886 	he tries to open the thick file hugh left for him, and it spreads like an accordion.
+1002_Harry_Potter_and_the_Half-Blood_Prince_00.04.59.474-00.05.01.655 	harry sees the waitress leave the cafe.
+1002_Harry_Potter_and_the_Half-Blood_Prince_00.20.55.900-00.21.03.747 	the trio leave ollivander's and peek round the corner, where there's a wanted poster for fenrir greyback: the beardy death-eater who attacked the shop.
+1002_Harry_Potter_and_the_Half-Blood_Prince_00.25.34.850-00.25.37.376 	pansy and blaise wait for draco at the carriage door, finally leave their compartment.
+1002_Harry_Potter_and_the_Half-Blood_Prince_00.25.41.550-00.25.43.091 	ron and hermione leave their compartment.
+1002_Harry_Potter_and_the_Half-Blood_Prince_00.32.23.135-00.32.27.138 	he leaves ron and goes to mcgonagall.
+1002_Harry_Potter_and_the_Half-Blood_Prince_00.48.37.260-00.48.39.947 	both girls watch him leave.
+1002_Harry_Potter_and_the_Half-Blood_Prince_01.14.47.320-01.14.51.542 	tonks walks away and remus lupin follows her, leaving harry with mr. weasley.
+1002_Harry_Potter_and_the_Half-Blood_Prince_01.33.18.162-01.33.20.939 	madame pomfrey leaves.
+1002_Harry_Potter_and_the_Half-Blood_Prince_01.33.29.276-01.33.31.202 	harry is the last to leave the ward.
+1002_Harry_Potter_and_the_Half-Blood_Prince_01.33.58.742-01.34.03.613 	draco leaves the upper corridor with the bird cage hangs, now only one bird remains in the cage.
+1002_Harry_Potter_and_the_Half-Blood_Prince_01.57.13.967-01.57.17.313 	snape abruptly leaves the astronomy tower.
+1002_Harry_Potter_and_the_Half-Blood_Prince_02.20.37.128-02.20.42.464 	harry leaves the study.
+1003_How_to_Lose_Friends_and_Alienate_People_00.11.25.495-00.11.26.455 	she leaves with her nose in the air.
+1003_How_to_Lose_Friends_and_Alienate_People_00.13.18.159-00.13.20.090 	the blonde leaves.
+1003_How_to_Lose_Friends_and_Alienate_People_00.33.47.149-00.33.50.804 	eleanor speaks on her cell phone as they leave.
+1003_How_to_Lose_Friends_and_Alienate_People_00.47.36.794-00.47.40.391 	the search party heads off, leaving a relieved sidney slumped against a wall by the window.
+1003_How_to_Lose_Friends_and_Alienate_People_00.49.34.082-00.49.36.200 	sidney leaves, then steps back in.
+1003_How_to_Lose_Friends_and_Alienate_People_01.05.37.202-01.05.40.992 	alison strides off tearfully, leaving a dumbstruck sydney staring after her.
+1003_How_to_Lose_Friends_and_Alienate_People_01.16.13.066-01.16.15.927 	sydney's eyes dart left and right as he retreats from the room.
+1003_How_to_Lose_Friends_and_Alienate_People_01.24.18.996-01.24.21.786 	the car pulls away, leaving a dispirited sydney at the roadside, his hands clasped together, as if in prayer.
+1003_How_to_Lose_Friends_and_Alienate_People_01.31.39.521-01.31.43.225 	sophie and elena leave sydney alone.
+1004_Juno_00.05.41.624-00.05.50.070 	she rolls her eyes at the counter clerk and leaves the store, stick in one hand.
+1004_Juno_00.11.26.688-00.11.31.035 	she gets on her bike and rides off, leaving bleeker clutching his sandwich.
+1004_Juno_00.13.53.308-00.13.56.143 	amanda leaves josh open mouth.
+1004_Juno_00.38.18.523-00.38.20.099 	vijay speeds up leaving bleeker alone on the running track.
+1004_Juno_00.41.19.790-00.41.23.457 	with a look that could kill, the ultrasound technician leaves the room.
+1004_Juno_01.05.28.884-01.05.37.175 	she strides away with her canvas bag over her shoulder, leaving bleeker standing by his locker, watching her glumly.
+1004_Juno_01.16.53.435-01.16.58.460 	at his feet, he finds the note she left.
+1005_Signs_00.38.58.782-00.39.01.375 	morgan steps falteringly up to the table, leaving bo at the sink.
+1005_Signs_00.51.39.532-00.51.40.927 	taking the book, he leaves.
+1005_Signs_00.53.25.030-00.53.27.697 	stepping back from the door, his keen eye scanning from left to right.
+1005_Signs_01.05.48.386-01.05.52.556 	now, in broad daylight, merrill leaves his converted barn holding a large white cotton sack.
+1005_Signs_01.08.21.545-01.08.24.907 	he wanders off, leaving merrill alone with morgan and bo.
+1006_Slumdog_Millionaire_00.35.56.086-00.35.58.916 	latika is left standing on the tracks.
+1006_Slumdog_Millionaire_00.41.52.787-00.42.03.536 	jamal notices the hundreds of pairs of shoes left by visiting tourists.
+1006_Slumdog_Millionaire_00.59.59.669-01.00.04.126 	salim suddenly looks solemn and leaves the room.
+1006_Slumdog_Millionaire_01.16.14.180-01.16.17.461 	salim leaves his apartment block and heads for his car.
+1006_Slumdog_Millionaire_01.28.22.060-01.28.23.080 	he leaves the toilets.
+1006_Slumdog_Millionaire_01.33.48.361-01.33.55.601 	backstage, the host waits for jamal to leave.
+1006_Slumdog_Millionaire_01.35.27.087-01.35.32.191 	the inspector makes to leave the room.
+1006_Slumdog_Millionaire_01.35.54.414-01.35.56.854 	the inspector leaves.
+1006_Slumdog_Millionaire_01.36.54.220-01.36.56.689 	latika leaves the room.
+1006_Slumdog_Millionaire_01.37.23.974-01.37.33.457 	he leaves and joins latika next door.
+1006_Slumdog_Millionaire_01.44.47.489-01.44.50.485 	latika realizes she's left salim's phone in the car.
+1007_Spider-Man1_00.12.26.377-00.12.30.120 	the general walks away, leaving a pensive norman.
+1007_Spider-Man1_00.13.58.816-00.14.11.391 	leaving his concerned aunt and uncle downstairs, peter absently makes his way upstairs to his room.
+1007_Spider-Man1_00.20.42.214-00.20.42.658 	the bus zooms on leaving peter in the middle of the street with a large portion of the poster sticking to his fingers.
+1007_Spider-Man1_01.26.34.874-01.26.36.927 	the others leave norman in peter's room.
+1008_Spider-Man2_00.21.52.978-00.21.59.545 	harry leaves peter with doctor octavius.
+1008_Spider-Man2_00.29.11.064-00.29.12.867 	peter leaves the car, then enters the theater.
+1008_Spider-Man2_00.43.32.657-00.43.35.993 	two singed scientists leave the building.
+1008_Spider-Man2_01.17.27.352-01.17.34.635 	peter turns his back away, leaving the muggers punching and kicking their fallen victim.
+1008_Spider-Man2_01.28.51.238-01.28.53.530 	ursula takes the plates and the glasses with her as she leaves.
+1008_Spider-Man2_01.37.15.049-01.37.17.303 	her eyes flit left and right.
+1008_Spider-Man2_01.46.42.869-01.46.52.707 	spider-man leaps anxiously from side to side, then shoots webs right and left.
+1008_Spider-Man2_01.50.37.691-01.50.43.493 	using two of the limbs, he sweeps them aside, leaving a clear route to spider-man.
+1008_Spider-Man2_01.51.39.529-01.51.42.542 	octavius has taken the tritium sphere, and leaves via the balcony.
+1009_Spider-Man3_00.07.07.644-00.07.19.590 	harry gets into the back of his chauffeur driven limo and is driven away, leaving peter standing helplessly on the pavement.
+1009_Spider-Man3_00.25.22.807-00.25.25.208 	the dark haired, bearded doctor goes, leaving peter looking pensive.
+1009_Spider-Man3_00.32.24.343-00.32.30.914 	she leaves the apartment and the slimy, black mass drops to the floor.
+1009_Spider-Man3_01.00.52.247-01.00.55.509 	the accomplice drives away, leaving flint behind.
+1009_Spider-Man3_01.35.15.425-01.35.24.874 	on the outskirts of the city water from a sewer outfall drops into a pond, a line of bubbles cleave the water, leaving a trail behind.
+1009_Spider-Man3_01.41.13.540-01.41.18.956 	the storm clouds slowly drift away, leaving a lowering gray sky.
+1009_Spider-Man3_01.47.09.890-01.47.19.025 	as she softly leaves the room peter turns his doleful gaze back to the window.
+1009_Spider-Man3_01.51.37.985-01.51.40.885 	peter turns away rebuffed and leaves by the balcony.
+1009_Spider-Man3_01.58.47.791-01.58.51.796 	half of sandman's head is blown away, and what's left of it looks like a bowl of burning coals.
+1009_Spider-Man3_02.02.13.153-02.02.24.500 	as his huge left arm crumples into the ground leaving out of dust, the crowd whoop their delight.
+1010_TITANIC_00.34.43.106-00.34.45.125 	rose stands and leaves the table.
+1010_TITANIC_00.44.47.775-00.44.50.335 	rose glances at jack before leaving with cal.
+1010_TITANIC_01.19.17.583-01.19.23.655 	jack watches her leave through a wavy window glass, then gazes downward.
+1010_TITANIC_01.34.37.193-01.34.41.477 	the titanic leaves a long wake in the dark ocean.
+1010_TITANIC_01.40.32.235-01.40.34.482 	in the bridge, hichens keeps the wheel turned hard left.
+1010_TITANIC_01.41.56.899-01.42.01.040 	the door closes, leaving several stokers behind.
+1010_TITANIC_01.50.52.966-01.50.53.916 	the maids leave.
+1010_TITANIC_01.52.10.916-01.52.13.437 	as he leaves with the crewman, the master-at-arms hands lovejoy the handcuff key.
+1010_TITANIC_01.56.05.062-01.56.11.104 	lovejoy picks up the handcuff key from the table, places it in his breast pocket, and leaves.
+1010_TITANIC_03.02.19.815-03.02.26.256 	the submersibles rise, leaving the wreck and darkness.
+1011_The_Help_00.23.05.708-00.23.08.894 	his tall, angular wife pats him on the shoulder and leaves the room.
+1011_The_Help_00.48.51.055-00.48.54.703 	sugar gets on the bus leaving minnie behind.
+1011_The_Help_01.02.56.378-01.02.59.476 	hilly ushers her husband away from the table leaving skeeter alone with stuart.
+1011_The_Help_01.04.03.416-01.04.08.758 	skeeter leaves the table and barges out much to bourbon- drinking stuart's amusement.
+1011_The_Help_01.10.15.967-01.10.19.552 	she gets up from the table and leaves the room.
+1011_The_Help_01.23.12.929-01.23.24.291 	minnie's children leave the kitchen.
+1011_The_Help_01.55.51.069-01.55.57.201 	she slips the envelope into the front of the dress and runs out, leaving the chicken to burn.
+1011_The_Help_01.58.22.030-01.58.28.888 	he turns on his heel and marches off towards his jeep, leaving skeeter looking bemused and tearful.
+1012_Unbreakable_00.03.50.795-00.03.51.485 	the little hair he has is close shaved, leaving just a dark shadow.
+1012_Unbreakable_00.24.58.622-00.25.06.004 	as he looks down again, the words and colors fade, leaving a more detailed black and white version of the comic cover.
+1012_Unbreakable_01.07.10.790-01.07.14.456 	the assistant leaves elijah by the display he's run into.
+1012_Unbreakable_01.11.09.725-01.11.13.764 	she throws a little brown jacket over her hair and leaves.
+1012_Unbreakable_01.20.25.930-01.20.28.105 	the boy leaves, closing the door behind him.
+1012_Unbreakable_01.30.00.742-01.30.03.409 	david's back leaves a dent in the plaster wall.
+1014_2012_00.08.00.264-00.08.03.036 	an interpreter leaves the station.
+1014_2012_00.40.16.503-00.40.18.055 	sultan spots uri leaving.
+1014_2012_01.01.11.518-01.01.17.730 	a fireball hits the back of the rv and leaving a flaming hole
+1014_2012_01.08.39.182-01.08.44.051 	two agents close the doors leaving adrian and wilson in the gloom.
+1014_2012_01.37.47.033-01.37.51.009 	jackson and yuri climb down the steps, leaving gordon in the cockpit with sasha.
+1014_2012_01.52.32.707-01.52.40.394 	leaving his phone switched on, satnam crouches down and holds his son's face in his hands.
+1014_2012_02.27.52.426-02.28.02.428 	the three arks, leaving a wide wake behind them, move across the calm ocean under a sky of a few mottled clouds.
+1015_27_Dresses_00.18.34.623-00.18.38.721 	casey stalks off, leaving jane sorting out some unruly adhesive notes.
+1015_27_Dresses_00.24.34.423-00.24.38.248 	as tess and george leave, kevin walks up.
+1015_27_Dresses_00.38.02.757-00.38.08.213 	looking crushed, she leaves them to it and goes out again.
+1015_27_Dresses_00.39.40.740-00.39.46.232 	consulting his appointments, she heaves a sigh and leaves.
+1015_27_Dresses_01.10.07.177-01.10.11.844 	kevin jumps down, leaving jane dancing wildly to the delight of the crowd.
+1015_27_Dresses_01.12.52.117-01.12.56.415 	jane crumples up the paper, throws it at kevin, and leaves.
+1015_27_Dresses_01.13.05.277-01.13.11.173 	she stares at him with bitter disappointment, then turns on her heel and leaves.
+1015_27_Dresses_01.13.40.306-01.13.42.973 	he leaves, angry and frustrated.
+1017_Bad_Santa_00.28.30.620-00.28.34.946 	sometime later wille gives fat ass a lift and left home in his knacker old car.
+1017_Bad_Santa_00.44.49.437-00.44.56.575 	jimmy's mum scoops him up and hurries away, leaving dear old santa to his salad.
+1017_Bad_Santa_01.20.42.611-01.20.46.059 	they exchange a smile and leave grandma to slumber on.
+1018_Body_Of_Lies_00.37.39.950-00.37.43.008 	the doctor leaves and the pretty young nurse, aisha, walks in.
+1018_Body_Of_Lies_00.47.39.951-00.47.45.504 	one of the men gives karami a bicycle and he leaves.
+1018_Body_Of_Lies_01.39.13.520-01.39.20.718 	hani leaves his attractive female companion and walks off with ferris.
+1018_Body_Of_Lies_01.43.45.425-01.44.01.669 	the van travels across the barren and scorched land leaving a trail of dust.
+1018_Body_Of_Lies_01.44.33.785-01.44.48.379 	the driver gets in the van and leaves.
+1019_Confessions_Of_A_Shopaholic_00.20.57.436-00.21.02.648 	the clothes rail is wheeled away, leaving rebecca lying on the floor, clutching her letter.
+1019_Confessions_Of_A_Shopaholic_00.43.44.784-00.43.47.363 	luke leaves her to it.
+1019_Confessions_Of_A_Shopaholic_01.08.27.410-01.08.28.723 	long-legged alicia is left holding the bag.
+1019_Confessions_Of_A_Shopaholic_01.39.11.141-01.39.20.295 	the screen fades to black, leaving just the green scarf.
+1020_Crazy_Stupid_Love_00.10.57.307-00.11.00.024 	people are leaving the upmarket bar hannah and liz were in.
+1020_Crazy_Stupid_Love_00.17.54.485-00.18.02.862 	and heads over to jacob's table, just as the woman gets up to leave.
+1020_Crazy_Stupid_Love_00.20.45.658-00.20.52.353 	cal turns to watch them leave, then relaxes into his chair.
+1020_Crazy_Stupid_Love_00.31.08.925-00.31.21.364 	cal watches jacob leave with all the different women, including two at the same time.
+1020_Crazy_Stupid_Love_00.42.23.088-00.42.23.982 	the waitress leaves.
+1020_Crazy_Stupid_Love_00.45.08.922-00.45.13.272 	she leaves.
+1020_Crazy_Stupid_Love_01.06.00.184-01.06.03.066 	the woman he was flirting with earlier stares at them incredulously as they leave.
+1020_Crazy_Stupid_Love_01.32.36.705-01.32.37.988 	the police officers leave.
+1020_Crazy_Stupid_Love_01.47.59.610-01.48.01.609 	they leave the podium.
+1023_Horrible_Bosses_00.26.28.040-00.26.32.220 	she winks and leaves the room.
+1023_Horrible_Bosses_00.28.38.169-00.28.41.070 	dale answers, leaving the security chain fastened.
+1023_Horrible_Bosses_00.35.34.150-00.35.36.059 	a guy eyes them as they leave.
+1023_Horrible_Bosses_01.00.40.217-01.00.41.910 	the guys leave.
+1023_Horrible_Bosses_01.01.12.776-01.01.18.501 	as nick drives off to the right, dale goes to turn left, blocking kurt who brakes jerkily.
+1023_Horrible_Bosses_01.01.38.409-01.01.41.909 	two thai sex workers leave bobby's.
+1024_Identity_Thief_00.09.52.903-00.09.56.570 	sandy watches the man leave.
+1024_Identity_Thief_00.17.57.372-00.18.00.315 	he leaves sandy shaking his head.
+1024_Identity_Thief_00.20.19.312-00.20.22.065 	the detective leaves, while the boss lingers with his arms folded.
+1024_Identity_Thief_00.20.24.892-00.20.28.595 	sandy gazes at the floor, then rises and watches the men leave.
+1024_Identity_Thief_00.42.11.879-00.42.14.045 	she glares at sandy and leaves.
+1024_Identity_Thief_00.42.49.309-00.42.54.085 	as the waitress leaves, diana takes a large bite of ribs.
+1024_Identity_Thief_00.43.55.469-00.43.57.155 	she leaves.
+1024_Identity_Thief_01.16.29.772-01.16.30.668 	the businessman closes his locker with the code and leaves.
+1024_Identity_Thief_01.30.58.809-01.31.01.476 	as the squad car leaves, he quickly follows.
+1024_Identity_Thief_01.38.43.169-01.38.44.835 	the redhead leaves the kitchen.
+1024_Identity_Thief_01.39.59.979-01.40.04.416 	as he slowly leaves, our view moves down to diana and frannie's joined hands.
+1024_Identity_Thief_01.42.20.663-01.42.21.565 	the cops leave.
+1024_Identity_Thief_01.43.09.697-01.43.12.094 	diana leaves in handcuffs and her flowing black dress.
+1024_Identity_Thief_01.47.16.927-01.47.19.069 	sandy shakes his head and leaves.
+1026_Legion_00.53.07.968-00.53.17.398 	michael leaves a thoughtful-looking jeep.
+1026_Legion_01.26.36.068-01.26.42.001 	the car leaves the road, hits a hump, and rolls into a ditch, landing on its roof.
+1027_Les_Miserables_00.27.06.518-00.27.10.386 	once finished, he gets off her and saunters away, leaving her on her back.
+1027_Les_Miserables_02.02.42.929-02.02.44.309 	they aim their weapons at enjolras and a fellow student, the only ones left standing.
+1028_No_Reservations_00.20.29.148-00.20.32.800 	kate's smile fades and she looks disappointed, as zoe gets up and leaves the table.
+1028_No_Reservations_00.40.38.529-00.40.40.122 	they leave the fridge.
+1028_No_Reservations_00.43.21.141-00.43.24.726 	she has a change of heart and leaves it open.
+1028_No_Reservations_00.45.13.748-00.45.18.513 	zoe watches him a little shyly, as nick sprinkles some of the basil leaves over his meal.
+1028_No_Reservations_00.47.05.993-00.47.06.993 	leah, wearing a thick winter coat, slings her bag over her shoulder as she leaves the staff changing room.
+1028_No_Reservations_01.22.32.000-01.22.34.000 	they leave the shop.
+1028_No_Reservations_01.26.08.000-01.26.10.000 	kate is left thoughtful.
+1028_No_Reservations_01.39.57.391-01.40.05.740 	a joyful zoe leaves the trio to their breakfasts and passes back around the corner of the restaurant, acknowledging an elderly man who considers a leaflet.
+1029_Pride_And_Prejudice_Disk_One_00.49.36.792-00.49.42.458 	darcy leaves himself out of the bath and into a dressing gown held open for him by a servant.
+1029_Pride_And_Prejudice_Disk_One_00.53.41.549-00.53.45.269 	as the carriage leaves, darcy watches its progress from a window.
+1029_Pride_And_Prejudice_Disk_One_01.17.17.655-01.17.23.200 	mr. collins reluctantly follows jane leaving wickham and lizzie alone.
+1029_Pride_And_Prejudice_Disk_One_01.20.36.008-01.20.38.997 	mr. collins is leaving his room.
+1029_Pride_And_Prejudice_Disk_One_01.27.34.659-01.27.37.494 	he bows once more and leaves.
+1029_Pride_And_Prejudice_Disk_One_01.27.56.883-01.28.02.701 	lizzie resignedly leaves charlotte's sight.
+1029_Pride_And_Prejudice_Disk_One_01.33.37.272-01.33.38.938 	he bows curtly and leaves.
+1029_Pride_And_Prejudice_Disk_One_01.34.00.450-01.34.05.882 	lizzie smiles and leaves them, meeting miss bingley.
+1029_Pride_And_Prejudice_Disk_One_01.38.56.483-01.39.01.133 	mary peels off her glasses and leaves the piano, head bowed.
+1029_Pride_And_Prejudice_Disk_One_01.54.52.519-01.54.57.611 	the housekeeper curtsies, then leaves the room.
+1029_Pride_And_Prejudice_Disk_One_01.59.34.650-01.59.37.156 	he nods politely towards her mother, then the three officers leave.
+1029_Pride_And_Prejudice_Disk_One_02.19.54.560-02.19.55.099 	charlotte and lizzie are left alone again.
+1029_Pride_And_Prejudice_Disk_One_02.33.09.251-02.33.14.032 	the maid curtsies and leaves the room.
+1029_Pride_And_Prejudice_Disk_One_02.35.37.452-02.35.44.582 	and in an instant, he's gone, leaving lizzie with a somewhat perplexed expression.
+1030_Public_Enemies_00.04.35.700-00.04.41.784 	outside, red leaves the metal gate behind and crosses the open ground towards the sedan.
+1030_Public_Enemies_00.05.05.920-00.05.11.372 	inside the criminals run out, leaving their hostages behind.
+1030_Public_Enemies_00.06.17.712-00.06.23.385 	walter's body slides to a stop in the dirt as the car drives off, leaving a cloud of dust behind.
+1030_Public_Enemies_00.07.56.464-00.07.58.637 	all of the men leave.
+1030_Public_Enemies_00.11.56.462-00.12.00.369 	he gets up and leaves the garage.
+1030_Public_Enemies_00.12.46.591-00.12.50.014 	dillinger leaves the kitchen.
+1030_Public_Enemies_00.16.19.417-00.16.23.927 	the bank robbers leave their hostages and stride out of the trees.
+1030_Public_Enemies_00.23.00.148-00.23.04.815 	anna follows red and veronica as they stroll away, leaving dillinger alone.
+1030_Public_Enemies_00.41.05.946-00.41.07.612 	he rises, leaving a lifeless barton.
+1030_Public_Enemies_00.52.55.871-00.53.02.136 	inspecting dillinger, purvis barely slows his leisurely stride, then leaves with his agents.
+1030_Public_Enemies_01.17.29.731-01.17.34.398 	with its door still open, the car pulls out of the town square, leaving the hostages lying helplessly in the street.
+1030_Public_Enemies_01.20.27.740-01.20.34.278 	he stows the cash in his bag and leaves.
+1030_Public_Enemies_01.22.51.444-01.22.54.192 	purvis closes his door most of the way but leaves it cracked open.
+1030_Public_Enemies_01.33.14.748-01.33.15.926 	homer leaves baby face stuck behind the jammed front door.
+1030_Public_Enemies_01.43.17.715-01.43.23.624 	dillinger leaves the remaining agents behind.
+1030_Public_Enemies_01.45.20.297-01.45.26.302 	the two agents leave her.
+1030_Public_Enemies_01.48.11.179-01.48.15.345 	interrogation room, winstead lowers his arm from the burly agent's throat and leaves.
+1030_Public_Enemies_01.54.31.908-01.54.34.186 	they leave.
+1030_Public_Enemies_02.00.17.446-02.00.21.266 	entering the packed house, the crime boss leaves anna at her seat, then proceeds down the aisle with polly.
+1030_Public_Enemies_02.05.28.358-02.05.30.701 	across the street, winstead and hurt leave the recessed storefront.
+1030_Public_Enemies_02.08.16.344-02.08.28.082 	purvis leaves the scene, silhouetted against the flares sallow light.
+1031_Quantum_of_Solace_00.01.53.297-00.01.58.192 	approaching a traffic jam he swerves left, flying down another tunnel to chase a track's vision off.
+1031_Quantum_of_Solace_01.04.21.210-01.04.27.931 	they walk off, leaving the body slumped amid the rubbish bags in the dumpster.
+1031_Quantum_of_Solace_01.20.40.780-01.20.47.940 	she gives a half smile as bond leaves the building.
+1031_Quantum_of_Solace_01.29.11.304-01.29.20.149 	he leaves the table as green and his men grin smugly.
+1033_Sherlock_Holmes_A_Game_of_Shadows_00.03.06.005-00.03.07.427 	she leaves him with the loaf.
+1033_Sherlock_Holmes_A_Game_of_Shadows_00.09.18.297-00.09.29.009 	the bearded man clinks a teaspoon against a glass, and all the clientele and staff, with the exception of him and the man behind the curtain, rise and leave the dining room.
+1033_Sherlock_Holmes_A_Game_of_Shadows_00.28.23.554-00.28.27.530 	as holmes and sim leave, a man and two couples come in.
+1033_Sherlock_Holmes_A_Game_of_Shadows_00.31.19.147-00.31.22.814 	as watson struggles with the other gamblers, mycroft leaves the men he was chatting to.
+1033_Sherlock_Holmes_A_Game_of_Shadows_00.34.29.222-00.34.35.624 	as watson and his bride leave the church, they walk beneath the raised swords of several guardsmen.
+1033_Sherlock_Holmes_A_Game_of_Shadows_00.45.09.155-00.45.11.822 	he leaves the loo just as the train enters a tunnel.
+1033_Sherlock_Holmes_A_Game_of_Shadows_00.50.30.235-00.50.34.901 	black smoke belches from the funnels of a paddle-steamer as it leaves the white cliffs of dover behind.
+1033_Sherlock_Holmes_A_Game_of_Shadows_01.18.51.404-01.18.58.366 	watson leaves the telegraph office and comes down the steps.
+1033_Sherlock_Holmes_A_Game_of_Shadows_01.20.34.742-01.20.41.144 	watson returns to the spot where he left holmes.
+1033_Sherlock_Holmes_A_Game_of_Shadows_01.32.27.544-01.32.30.549 	one of the other gypsies watches from the boxcar as his dead comrade is left behind.
+1033_Sherlock_Holmes_A_Game_of_Shadows_01.43.06.189-01.43.08.035 	holmes leaves the ballroom.
+1033_Sherlock_Holmes_A_Game_of_Shadows_01.49.27.867-01.49.31.135 	watson spots moran leaving.
+1034_Super_8_00.31.01.797-00.31.07.415 	alice follows louis back into the house, leaving an awkward looking joe standing on the veranda.
+1034_Super_8_00.35.23.907-00.35.27.573 	the sheriff goes, leaving jack looking nonplussed.
+1034_Super_8_00.53.26.951-00.53.33.626 	jack turns away and marches out of the house, leaving joe looking bleak.
+1034_Super_8_01.01.57.247-01.02.04.465 	the cube shoots of the table and smashes through the wall leaving a hole in the wall and a poster of the space shuttle that pinned to it.
+1034_Super_8_01.08.51.804-01.08.59.420 	a convoy leaves town lead by several military vehicles.
+1034_Super_8_01.14.13.470-01.14.16.876 	the boys leave donnie in the car park and scramble over a chain link fence.
+1034_Super_8_01.33.47.172-01.33.53.715 	he lights a firecracker and leaves it beside a pile of other fireworks, then legs it off back down the tunnel.
+1035_The_Adjustment_Bureau_00.06.14.918-00.06.16.558 	david leaves the elegant function room.
+1035_The_Adjustment_Bureau_00.33.18.175-00.33.20.095 	harry dons his newsboy cap and leaves.
+1035_The_Adjustment_Bureau_00.49.09.058-00.49.12.960 	david strides off, leaving an ambulance and a squad car behind.
+1035_The_Adjustment_Bureau_00.49.48.881-00.49.50.628 	the taxi leaves the adjustment bureau servants behind.
+1035_The_Adjustment_Bureau_00.56.19.081-00.56.23.383 	now they leave the party.
+1035_The_Adjustment_Bureau_01.02.48.749-01.02.53.680 	her shoulders sag as the man leaves, and she collects her belongings.
+1035_The_Adjustment_Bureau_01.02.54.972-01.02.57.248 	now as david leaves the studio, the man in the ball cap opens the door for him.
+1035_The_Adjustment_Bureau_01.11.43.574-01.11.45.084 	as he leaves, he tips his hat at one of the men in the waiting room.
+1035_The_Adjustment_Bureau_01.14.00.224-01.14.13.637 	richardson puts on his fedora, gives harry a pat on the arm, and walks off, leaving the younger officer alone at the window of the mid-century high-rise.
+1035_The_Adjustment_Bureau_01.15.38.090-01.15.42.283 	as he leaves, charlie gazes after him with pursed lips.
+1035_The_Adjustment_Bureau_01.25.55.465-01.26.01.449 	a bewildered customer peers at the rainy street left exposed in the open doorway.
+1035_The_Adjustment_Bureau_01.26.53.399-01.26.59.513 	leaving his other belongings, he halts under a rotundas decorated ceiling.
+1035_The_Adjustment_Bureau_01.32.42.055-01.32.45.483 	leaving elise behind him, he shoves another.
+1035_The_Adjustment_Bureau_01.38.05.102-01.38.08.204 	smiling, he gives elise's arm a squeeze and leaves them.
+1037_The_Curious_Case_Of_Benjamin_Button_00.04.05.172-00.04.13.418 	he wipes his mouth and leaves the table.
+1037_The_Curious_Case_Of_Benjamin_Button_00.04.29.621-00.04.32.948 	they leave the grave.
+1037_The_Curious_Case_Of_Benjamin_Button_00.10.26.596-00.10.29.053 	thomas looks left along the river path, then breaks into a run.
+1037_The_Curious_Case_Of_Benjamin_Button_00.10.47.044-00.10.52.358 	the policeman glances left and right, then gathers speed, as thomas darts through a gateway in a concrete wall.
+1037_The_Curious_Case_Of_Benjamin_Button_00.41.35.929-00.41.39.553 	caroline leaves daisy's bedside.
+1037_The_Curious_Case_Of_Benjamin_Button_00.45.10.520-00.45.16.500 	grinning, mike takes the helm and sharply steers the boat left.
+1037_The_Curious_Case_Of_Benjamin_Button_00.47.51.055-00.47.53.566 	he leaves.
+1037_The_Curious_Case_Of_Benjamin_Button_00.48.12.995-00.48.17.874 	as he disappears into a crowded back alley, his father, thomas, leaves a hooker outside an adjacent building and spots benjamin.
+1037_The_Curious_Case_Of_Benjamin_Button_01.13.54.672-01.14.00.694 	elizabeth kisses him twice as they leave the room.
+1037_The_Curious_Case_Of_Benjamin_Button_01.32.55.240-01.33.03.186 	benjamin watches as she leans to her left then slowly raises her right leg into the air.
+1037_The_Curious_Case_Of_Benjamin_Button_01.45.20.459-01.45.25.738 	the spotlights shift to follow their movements as they pranced left and right.
+1037_The_Curious_Case_Of_Benjamin_Button_01.45.28.501-01.45.31.452 	her feet leave the floor as she swept them into an effortless turn.
+1037_The_Curious_Case_Of_Benjamin_Button_01.48.41.171-01.48.44.246 	with an arm around david, daisy looks up to see benjamin leave.
+1037_The_Curious_Case_Of_Benjamin_Button_01.52.15.506-01.52.20.009 	benjamin stands on the front porch and opens the telegram as the postman leaves.
+1037_The_Curious_Case_Of_Benjamin_Button_01.52.26.468-01.52.32.390 	benjamin leaves a taxi and strides through a grassy courtyard.
+1037_The_Curious_Case_Of_Benjamin_Button_01.53.04.005-01.53.07.702 	a woman leaves her apartment.
+1037_The_Curious_Case_Of_Benjamin_Button_01.59.42.684-01.59.47.012 	he leaves a woman's doorstep.
+1037_The_Curious_Case_Of_Benjamin_Button_02.00.37.612-02.00.43.636 	she watches as he jogs up the steps on which he was left as a baby.
+1037_The_Curious_Case_Of_Benjamin_Button_02.01.34.270-02.01.37.147 	she leaves.
+1037_The_Curious_Case_Of_Benjamin_Button_02.15.53.775-02.15.58.093 	they leave the diner.
+1037_The_Curious_Case_Of_Benjamin_Button_02.18.03.803-02.18.09.190 	caroline puts down the diary and leaves daisy's bedside.
+1037_The_Curious_Case_Of_Benjamin_Button_02.21.04.187-02.21.07.984 	benjamin retreats into the shadows and leaves the room.
+1037_The_Curious_Case_Of_Benjamin_Button_02.36.03.528-02.36.06.368 	daisy kisses him as autumn leaves fall around them.
+1038_The_Great_Gatsby_00.31.32.904-00.31.36.847 	the older, distinguished-looking man, herzog, leaves jordan looking bewildered.
+1038_The_Great_Gatsby_00.51.48.081-00.51.54.277 	gatsby frowns and goes inside, leaving nick holding his tray of little cakes.
+1038_The_Great_Gatsby_01.07.17.152-01.07.20.300 	nick walks over to them as they gently sway, then leaves them.
+1038_The_Great_Gatsby_02.04.41.019-02.04.44.314 	daisy, tom and their daughter pammy leave the buchanan mansion.
+1039_The_Queen_00.09.54.625-00.09.57.130 	on leaving, tony and cherie smile at the staff.
+1039_The_Queen_00.15.27.605-00.15.32.272 	charles turns and leaves the room.
+1039_The_Queen_00.17.23.255-00.17.25.292 	charles sees her and leaves the room.
+1039_The_Queen_00.19.21.580-00.19.23.208 	prince phillip leaves the room.
+1039_The_Queen_00.33.42.915-00.33.46.042 	after seeing the newspapers, tony moves to leave.
+1039_The_Queen_00.37.02.796-00.37.06.085 	robin leaves a notepad on the table close by.
+1039_The_Queen_00.41.35.180-00.41.38.924 	charles drives away leaving the queen with the dogs.
+1039_The_Queen_00.51.28.926-00.51.33.918 	tony leaves cherie with her paperwork.
+1039_The_Queen_00.57.42.299-00.57.48.791 	then, leaves his office, stroking his chin thoughtfully.
+1039_The_Queen_01.07.48.692-01.07.55.103 	the staff leave while a servant places a phone on a table.
+1039_The_Queen_01.12.26.456-01.12.30.975 	charles turns and leaves the study.
+1039_The_Queen_01.15.55.041-01.15.57.708 	tony looks up at alastair as he leaves the room.
+1039_The_Queen_01.34.46.386-01.34.59.397 	the queen and tony leave the room and walk down a corridor.
+1040_The_Ugly_Truth_01.21.13.385-01.21.20.287 	colin frowns as she takes it off, leaving her real hair, which falls, tousled, onto her shoulders.
+1041_This_is_40_00.14.52.913-00.14.56.580 	debbie snatches his computer tablet and leaves.
+1041_This_is_40_00.29.18.409-00.29.21.076 	leaving the door open, charlotte sulks away.
+1041_This_is_40_00.39.38.699-00.39.41.797 	he steps away, leaving his phone on the table.
+1041_This_is_40_01.09.12.096-01.09.13.763 	leaving, she carelessly slides the door shut.
+1041_This_is_40_01.16.00.985-01.16.06.957 	the two rockers leave, patting each other's backs.
+1041_This_is_40_01.24.27.243-01.24.29.909 	debbie raises her arms, then leaves the room.
+1041_This_is_40_01.25.21.163-01.25.25.548 	charlotte jumps off the bed and scurries away, leaving a wide gap between her parents.
+1041_This_is_40_01.28.21.552-01.28.23.525 	he starts to leave.
+1041_This_is_40_01.36.12.756-01.36.18.894 	she places sadie's computer, phone and tablet on her bed, then leaves.
+1041_This_is_40_01.41.10.458-01.41.13.119 	they quickly leave.
+1041_This_is_40_01.55.26.019-01.55.30.698 	oliver leaves past debbie.
+1041_This_is_40_01.58.48.626-01.58.53.872 	left onto a quiet side street, he soars down a winding hilly road.
+1042_Up_In_The_Air_00.56.11.780-00.56.14.238 	dave holds natalie up as they leave the photo area.
+1042_Up_In_The_Air_01.27.26.619-01.27.32.976 	as the guests start to leave, alex and ryan sit together.
+1042_Up_In_The_Air_01.27.39.965-01.27.44.038 	they leave.
+1042_Up_In_The_Air_01.31.50.450-01.31.52.808 	ryan leaves the building.
+1042_Up_In_The_Air_01.32.39.659-01.32.53.311 	leaving the lights on, ryan gets out of the car, jogs along a pavement and walks up to a large suburban town house.
+1043_Vantage_Point_00.25.22.165-00.25.26.392 	the young man leaves her.
+1043_Vantage_Point_01.04.09.760-01.04.17.314 	a flashback to taylor leaving barnes and howard.
+1043_Vantage_Point_01.07.30.785-01.07.36.640 	javier relents and leaves veronica in the elevator, then touches his stomach in the corridor.
+1043_Vantage_Point_01.07.56.287-01.08.02.918 	outside, sam spots veronica leaving the elevator with the covered gurney and rushes to help.
+1043_Vantage_Point_01.08.08.021-01.08.11.230 	javier leaves the annex.
+1044_Pride_And_Prejudice_Disk_Two_00.08.31.756-00.08.38.335 	lizzy heads out, leaving the others to resume their breakfast.
+1044_Pride_And_Prejudice_Disk_Two_00.24.58.675-00.25.02.215 	he leaves the room.
+1044_Pride_And_Prejudice_Disk_Two_00.51.09.862-00.51.14.291 	darcy comes over to her, leaving the gardiners to their admiration of the countryside.
+1044_Pride_And_Prejudice_Disk_Two_00.56.30.209-00.56.33.149 	mr. darcy nods and leaves the room.
+1044_Pride_And_Prejudice_Disk_Two_00.58.03.467-00.58.06.146 	georgiana curtsies and leaves them to it.
+1044_Pride_And_Prejudice_Disk_Two_01.06.06.698-01.06.09.975 	they head out, leaving lizzie alone with her letters.
+1044_Pride_And_Prejudice_Disk_Two_01.14.07.029-01.14.12.695 	he turns and leaves the room.
+1044_Pride_And_Prejudice_Disk_Two_01.15.48.665-01.15.53.032 	with a look of utter contempt, mr. darcy leaves the room.
+1044_Pride_And_Prejudice_Disk_Two_01.23.23.977-01.23.28.856 	jane looks away with a serious expression, and lizzie leaves the room.
+1044_Pride_And_Prejudice_Disk_Two_01.38.08.246-01.38.13.105 	seeing kitty's distress, mr. bennet's face falls, and he leaves the room.
+1044_Pride_And_Prejudice_Disk_Two_01.39.34.233-01.39.38.290 	mr. bennet leaves the letter on the desk until the housekeeper has left.
+1044_Pride_And_Prejudice_Disk_Two_02.11.22.414-02.11.27.416 	she nods to mr. bingley, then leaves the room, followed by mary and kitty.
+1044_Pride_And_Prejudice_Disk_Two_02.11.27.416-02.11.30.687 	once they have left, mr. bingley sits back down.
+1044_Pride_And_Prejudice_Disk_Two_02.11.49.858-02.11.55.363 	lizzie puts down her embroidery, smiles at mr. bingley, then leaves the room.
+1044_Pride_And_Prejudice_Disk_Two_02.11.56.344-02.12.00.382 	she gives jane a warning glance as she leaves.
+1044_Pride_And_Prejudice_Disk_Two_02.13.54.345-02.14.01.402 	she kisses her sister on the cheek, then leaves the room.
+1044_Pride_And_Prejudice_Disk_Two_02.23.52.356-02.24.01.380 	she climbs into her carriage, leaving lizzie breathless with anger.
+1044_Pride_And_Prejudice_Disk_Two_02.26.59.162-02.27.05.382 	lizzie and mr. darcy are left to walk onwards alone.
+1045_An_education_00.04.29.172-00.04.33.097 	she leaves orchestra practice.
+1045_An_education_01.04.05.797-01.04.10.818 	the teacher looks up as she leaves.
+1045_An_education_01.09.13.280-01.09.18.475 	helen and danny watch them leave.
+1045_An_education_01.17.12.442-01.17.14.596 	david and jenny leave danny's place.
+1045_An_education_01.26.30.444-01.26.32.098 	stunned, jenny turns to leave.
+1045_An_education_01.34.30.103-01.34.34.405 	she puts the envelope down and leaves the kitchen.
+1046_Australia_00.26.26.656-00.26.32.361 	fletcher peers in through the shutters, but seeing nothing and leaves.
+1046_Australia_01.28.53.618-01.28.59.405 	he looks her in the eye and walks off, leaving her uncomfortable and disappointed.
+1046_Australia_01.39.28.000-01.39.31.817 	at the outdoor theater, the audience leave their seats.
+1046_Australia_01.47.23.084-01.47.25.322 	she frowns as he leaves.
+1046_Australia_02.19.27.749-02.19.30.481 	he walks off, leaving drover standing with the children.
+1047_Defiance_00.10.10.574-00.10.13.214 	tuvia sets off leaving zus looking unconvinced.
+1047_Defiance_00.32.18.184-00.32.19.892 	tuvia leaves zus on the ground where he pushed him.
+1047_Defiance_00.41.50.620-00.41.56.383 	benzion nods respectfully and leaves tuvia alone.
+1047_Defiance_01.01.23.405-01.01.31.337 	asael ushers them out through a hole in the wall and into the street, leaving behind a pile of yellow fabric stars.
+1047_Defiance_01.29.18.104-01.29.20.298 	zus leaves the tent.
+1047_Defiance_01.45.01.643-01.45.04.537 	zus turns to leave the commander's hut.
+1047_Defiance_01.50.24.195-01.50.27.417 	leaving a few men and women standing behind the mossy roots of their bunkers with weapons poised, keeping their sights fixed on the woodland ahead of them.
+1047_Defiance_01.57.14.650-01.57.20.657 	tuvia pulls the old man onto his back, leaving the leather bag of books behind.
+1047_Defiance_02.03.15.274-02.03.21.821 	with not one left standing, zus gets to his feet on the side of the tank, his eyes anxiously searching the trees.
+1048_Gran_Torino_00.08.56.600-00.09.08.136 	as mourners leave, walt uses jump leads to get a woman's car started.
+1048_Gran_Torino_00.18.48.376-00.18.51.015 	they leave the others at the bar.
+1048_Gran_Torino_00.21.51.958-00.21.59.114 	thao runs out of the garage, leaving walt sprawling on the ground.
+1048_Gran_Torino_00.27.06.800-00.27.07.900 	the hmongs leave.
+1048_Gran_Torino_00.53.48.183-00.53.54.928 	walt matches off, leaving thao looking dejected but thoughtful.
+1048_Gran_Torino_00.54.11.000-00.54.16.865 	as the neighbors leave the flowers, walt carries on mowing.
+1048_Gran_Torino_00.56.55.781-00.56.59.230 	walt leaves him to it and wanders off towards his garage.
+1048_Gran_Torino_01.18.45.511-01.18.50.615 	they leave tim's portacabin,
+1048_Gran_Torino_01.48.21.379-01.48.29.073 	thao, sue and their mother leave their house.
+1049_Harry_Potter_and_the_chamber_of_secrets_00.10.24.244-00.10.26.815 	the suburbs are left far behind.
+1049_Harry_Potter_and_the_chamber_of_secrets_00.28.38.732-00.28.49.948 	it rolls down a cobbled passageway and zooms away towards the forest, leaving ron and harry far behind.
+1049_Harry_Potter_and_the_chamber_of_secrets_00.28.50.500-00.28.56.950 	later, they haul their luggage into school and leave it on the landing.
+1049_Harry_Potter_and_the_chamber_of_secrets_00.42.48.000-00.42.53.401 	leaving lockhart's room, harry stops as he hears the voice again.
+1049_Harry_Potter_and_the_chamber_of_secrets_01.16.39.100-01.16.43.573 	the huge giant leaves the room.
+1049_Harry_Potter_and_the_chamber_of_secrets_01.42.20.466-01.42.22.243 	they leave.
+1049_Harry_Potter_and_the_chamber_of_secrets_01.55.08.853-01.55.13.591 	the worried teachers leave.
+1049_Harry_Potter_and_the_chamber_of_secrets_02.16.01.276-02.16.09.811 	in a flash of light, riddle completely disintegrates leaving behind only a few faint sparks floating in the air.
+1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.23.49.192-00.23.55.021 	his rucksack on his back he secretly leaves the weasley's house.
+1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.58.37.221-00.58.43.558 	harry and ron leave the lift at courtroom level.
+1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.29.47.070-01.29.50.587 	leaving hermione in the filthy living room.
+1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.58.01.736-01.58.04.937 	leaving their bags behind, ron and harry follow her.
+1051_Harry_Potter_and_the_goblet_of_fire_00.01.50.799-00.02.00.163 	he takes a bunch of keys from a hook, and leaves the cottage, lighting his way, with a large torch.
+1051_Harry_Potter_and_the_goblet_of_fire_00.28.05.268-00.28.17.230 	leaving the classroom, ron follows hermione and harry down a circular stone staircase.
+1051_Harry_Potter_and_the_goblet_of_fire_00.32.24.724-00.32.26.220 	he leaves the hall.
+1051_Harry_Potter_and_the_goblet_of_fire_00.59.28.820-00.59.35.634 	harry leaves the rock, leaps away from the dragon, and jumps onto his firebolt as it swoops down into the arena.
+1051_Harry_Potter_and_the_goblet_of_fire_01.20.21.381-01.20.22.767 	viktor leaves her.
+1051_Harry_Potter_and_the_goblet_of_fire_01.29.43.285-01.29.46.000 	he and hermione leave reluctantly.
+1051_Harry_Potter_and_the_goblet_of_fire_01.29.56.271-01.30.00.517 	moody leaves them alone.
+1051_Harry_Potter_and_the_goblet_of_fire_01.41.25.257-01.41.33.448 	a man lies on his back among the fallen leaves heaped-in and lifeless.
+1051_Harry_Potter_and_the_goblet_of_fire_01.48.39.726-01.48.48.125 	leaving dumbledore's room, harry hears voices from the open door of snape's store room.
+1051_Harry_Potter_and_the_goblet_of_fire_01.48.53.113-01.48.57.510 	karkaroff leaves quickly.
+1051_Harry_Potter_and_the_goblet_of_fire_01.56.33.518-01.56.38.681 	a howling wind lashes the branches sending dust and leaves into the air.
+1051_Harry_Potter_and_the_goblet_of_fire_01.58.46.686-01.58.51.470 	a strong wind flings leaves high into the air and the hedges advance.
+1051_Harry_Potter_and_the_goblet_of_fire_02.21.00.048-02.21.11.646 	he looks at harry reassuringly and leaves.
+1052_Harry_Potter_and_the_order_of_phoenix_00.01.18.196-00.01.19.662 	everyone leaves.
+1052_Harry_Potter_and_the_order_of_phoenix_00.34.11.842-00.34.16.654 	ron goes, leaving harry alone.
+1052_Harry_Potter_and_the_order_of_phoenix_00.41.41.582-00.41.49.067 	harry walks off, leaving hermione and ron looking bewildered.
+1052_Harry_Potter_and_the_order_of_phoenix_00.48.28.243-00.48.33.913 	umbridge ticks a box and leaves the classroom.
+1052_Harry_Potter_and_the_order_of_phoenix_01.01.02.441-01.01.06.812 	nigel keeps watch as everyone leaves the room through another door.
+1052_Harry_Potter_and_the_order_of_phoenix_01.04.14.225-01.04.16.668 	the students start to leave.
+1052_Harry_Potter_and_the_order_of_phoenix_01.04.55.144-01.04.59.125 	fred and george leave the room of requirement.
+1052_Harry_Potter_and_the_order_of_phoenix_01.27.21.484-01.27.25.470 	hesitantly, cho approaches the last person to leave.
+1052_Harry_Potter_and_the_order_of_phoenix_01.39.29.046-01.39.32.212 	the white cat leaves his china plate through a cat flap.
 1052_Harry_Potter_and_the_order_of_phoenix_02.02.49.902-02.02.51.078 	a faint black vapor leaves his body.
+1053_Harry_Potter_and_the_philosophers_stone_01.48.58.545-01.49.03.908 	as the centaur leaves them, they look sadly at the body of the dead unicorn.
+1053_Harry_Potter_and_the_philosophers_stone_01.52.20.545-01.52.26.793 	slowly, they turn and leave.
+1053_Harry_Potter_and_the_philosophers_stone_01.54.21.545-01.54.32.780 	leaving neville, they all huddle under the invisibility cloak.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_00.06.54.066-00.06.59.111 	harry leaves the house dragging his trunk on a small set of wheels.
+1054_Harry_Potter_and_the_prisoner_of_azkaban_00.27.00.620-00.27.02.596 	leaving the hall.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_00.45.25.607-00.45.32.971 	ron and hermione follow the other students, leaving harry alone in the quadrangle.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_01.05.52.394-01.05.57.211 	he leaves the pub.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_01.22.56.999-01.23.07.015 	they leave the school, walk through the cloister and into the grounds.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_01.39.52.198-01.39.57.743 	pettigrew turns back into a rat and runs off, leaving only a pile of clothes.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_01.45.12.066-01.45.20.811 	harry watches the bright light fade away, leaving only the faint image of a figure standing on the far shore.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_01.52.09.447-01.52.21.214 	quickly, they run into the forest and observe themselves and ron leave the cottage and hide behind the pumpkins.
+1054_Harry_Potter_and_the_prisoner_of_azkaban_01.55.47.000-01.56.02.075 	leaving the hippogriff in a clearing, they run out of the trees until they see the whomping willow in the distance, flailing its branches.
+1054_Harry_Potter_and_the_prisoner_of_azkaban_02.08.18.011-02.08.25.871 	he smiles at harry, picks up his bag and walking stick, and leaves.
 1055_Marley_and_me_00.05.52.634-00.05.57.783 	jenny's waiting by the car as he leaves the sun-sentinel offices.
 1055_Marley_and_me_00.15.35.548-00.15.37.932 	he leaves the garage with marley slung over his shoulder.
 1055_Marley_and_me_00.29.01.914-00.29.05.839 	john leaves the glass-fronted office with a grin.
@@ -276,46 +722,66 @@
 1055_Marley_and_me_01.25.46.881-01.25.51.922 	marley watches him leave and settles back down next to the sleeping lad.
 1055_Marley_and_me_01.26.16.876-01.26.20.727 	he leaves the editor's glass-fronted office.
 1055_Marley_and_me_01.32.43.758-01.32.49.322 	close to tears, john leaves the surgery.
+1055_Marley_and_me_01.42.40.000-01.42.51.093 	she closes the door and presses her hand to the glass as john drives away down the winding drive through trees adorned with golden brown autumn leaves.
+1055_Marley_and_me_01.51.58.897-01.52.01.969 	the trees in the garden are covered with brown and gold autumn leaves.
 1056_Rambo_00.12.38.000-00.12.47.919 	he leaves the workshop and walks out into the night air, where it's raining heavily.
 1056_Rambo_00.17.55.320-00.17.59.171 	rambo's gaze does not waver from the pirates as the boat leaves the pirate dock behind.
+1056_Rambo_00.22.46.053-00.22.51.687 	rambo watches the volunteers leave.
 1056_Rambo_00.59.19.351-00.59.20.907 	one of the women's' dresses is torn away, leaving her topless.
+1056_Rambo_01.02.48.211-01.02.52.833 	the commander takes a few short breaths and leaves again.
 1057_Seven_pounds_00.24.15.952-00.24.25.132 	ben puts her files back in his briefcase and leaves with a polite smile.
 1057_Seven_pounds_00.43.10.131-00.43.16.980 	after a moment, he leaves the modest clapboard house.
 1057_Seven_pounds_00.52.48.534-00.52.52.512 	he leaves his motel.
+1057_Seven_pounds_00.59.45.278-00.59.49.325 	dr. briar strokes emily's hair, gives her a reassuring smile and leaves.
+1057_Seven_pounds_01.01.10.932-01.01.14.555 	long-haired larry is left outside, looking indignant.
 1057_Seven_pounds_01.09.16.871-01.09.20.929 	emily takes them to the sink, leaving the nurse, kate, at the table.
 1057_Seven_pounds_01.18.55.635-01.19.06.709 	ben leaves the workshop with duke, who escorts him down the side of the house to the gate.
-1057_Seven_pounds_01.29.55.193-01.29.58.285 	emily's left hand is on ben's right shoulder.
 1057_Seven_pounds_01.40.26.399-01.40.34.606 	tim leaves the house by the french windows.
 1057_Seven_pounds_01.47.47.639-01.47.50.551 	he's left a note on the floor beside the tub.
 1057_Seven_pounds_01.55.40.510-01.55.48.916 	she cranes her neck to keep track of ezra as he leaves the stage and moves effortlessly towards members of the audience.
 1058_The_Damned_united_00.17.19.528-00.17.27.746 	don sweeps past to meet his entourage, leaving brian standing to one side at the entrance.
 1058_The_Damned_united_00.41.52.579-00.42.00.000 	jimmy strolls off, leaving peter frowning at brian.
 1058_The_Damned_united_00.49.12.000-00.49.17.000 	bremner trudges out after the officials, leaving brian sitting alone, brooding.
+1058_The_Damned_united_00.50.49.472-00.50.54.000 	brian is left hunched over on his hotel bed, head in hand.
 1058_The_Damned_united_00.55.29.100-00.55.40.674 	longson glares at brian, then turns on his heel, leaving a rueful brian to meet peter's concerned look.
 1058_The_Damned_united_01.13.43.227-01.13.53.282 	peter marches off along the jetty away from brian, leaving him pacing furiously, hands on hips then on his head in despair.
 1058_The_Damned_united_01.15.26.723-01.15.30.000 	cussins leaves brian with his hands on his hips.
 1059_The_devil_wears_prada_00.02.07.582-00.02.16.127 	the fashionable ladies scoop up their designer phones and bags and leave their swanky uptown apartments.
+1059_The_devil_wears_prada_00.05.12.793-00.05.14.400 	creative director nigel leaves.
 1059_The_devil_wears_prada_00.36.32.000-00.36.36.208 	nate leaves the restaurant he chefs in.
+1059_The_devil_wears_prada_00.44.55.000-00.44.57.000 	leaving the showroom.
 1059_The_devil_wears_prada_00.48.14.378-00.48.20.165 	she leaves the book on the top step, and hurries away.
+1059_The_devil_wears_prada_00.51.57.000-00.52.00.453 	emily has miranda's coat and bag for her as she leaves.
 1059_The_devil_wears_prada_00.57.15.470-00.57.17.600 	he leaves andy thoughtful.
 1059_The_devil_wears_prada_01.07.01.593-01.07.13.176 	she puts the dry cleaning into the correct closet and is about to leave the book when.
+1059_The_devil_wears_prada_01.08.27.088-01.08.34.266 	andy stands and stares at her with her big doe eyes for a moment, then leaves.
+1059_The_devil_wears_prada_01.14.38.150-01.14.42.698 	andy closes her eyes as rugged, fair-haired christian kisses her cheek before leaving.
 1059_The_devil_wears_prada_01.43.55.400-01.44.04.220 	out on the street, andy's smile fades as she see miranda leaving the building.
 1060_Yes_man_00.05.03.749-00.05.08.666 	as he leaves his apartment, a small white-haired woman creeps up behind him.
+1060_Yes_man_00.32.03.312-00.32.12.589 	he stands on a platform with arrows to the right, left, back and front.
 1060_Yes_man_00.36.04.013-00.36.07.707 	carl leaves his apartment and locks his door.
+1060_Yes_man_00.54.37.702-00.54.41.422 	carl and allison stand up to leave.
 1060_Yes_man_01.16.46.000-01.16.48.913 	peter, tweed and multack leave the room.
 1060_Yes_man_01.17.49.065-01.17.51.922 	without looking at him, she leaves the room.
+1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.10.19.279-00.10.22.892 	they leave.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.13.16.848-00.13.19.490 	he turns and leaves his desk.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.19.50.000-00.19.57.000 	griphook runs off, leaving the grinning bogrod alone with the dragon.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.16.44.884-01.16.51.072 	the fluttering leaves skim over the water.
+1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.22.21.000-01.22.24.102 	longingly, snape watches it leave.
 1062_Day_the_Earth_stood_still_00.38.29.000-00.38.32.088 	the agents leave the room.
 1062_Day_the_Earth_stood_still_01.13.07.074-01.13.14.227 	helen, klaatu, and jacob leave the house and run for the car through the rain.
+1062_Day_the_Earth_stood_still_01.17.52.099-01.17.55.760 	he's about to leave, when he notices the old drill bit.
 1062_Day_the_Earth_stood_still_01.17.57.413-01.18.02.086 	he drops it and hurriedly makes to leave the chamber.
+1062_Day_the_Earth_stood_still_01.25.00.000-01.25.03.965 	jacob kicks leaves away from one of the graves and dust off the headstone with his glove.
 1062_Day_the_Earth_stood_still_01.38.20.685-01.38.28.226 	the sphere heads out into space leaving the earth behind.
+2004_Juno_00.37.07.631-00.37.08.936 	juno and mac have put their coats on and are in the process of leaving.
 2004_Juno_00.37.44.073-00.37.46.536 	the track team jogs in formation, leaving tracks in the snow.
+2004_Juno_01.10.28.865-01.10.33.966 	juno turns to leave, then shoots one furious look back at mark.
 2004_Juno_01.17.06.162-01.17.09.006 	a porch light's been left on for her, and the place looks cozy and inviting.
-2005_Signs_01.36.45.526-01.36.46.633 	merrill's left leg goes out.
+2005_Signs_00.38.27.221-00.38.27.998 	another sudden turn, this time left.
 2012_Unbreakable_00.34.36.571-00.34.37.719 	he replaces it back to the top shelf and leaves the closet.
 2012_Unbreakable_00.53.24.435-00.53.26.744 	his shoulder leaves the wall.
+2012_Unbreakable_01.06.29.233-01.06.31.459 	his immobilized left leg hits a rack of comic books.
 2012_Unbreakable_01.10.30.844-01.10.36.601 	the babysitter with the black dyed hair and buddy holly glasses stands ready to leave in the doorway.
 2012_Unbreakable_01.23.52.104-01.23.55.295 	cabinets are left open.
 2017_Bad_Santa_00.31.55.303-00.32.02.513 	at the cut a new mercedes screeches through the frame and, as we hear it recede, we are left looking at the kid, who stands at the curb, waving happily.
@@ -323,31 +789,36 @@
 2017_Bad_Santa_01.27.42.621-01.27.45.286 	the hand finally leaves with the purple elephant.
 2026_Legion_00.06.35.716-00.06.37.618 	estevez drops, leaving michael without cover.
 2026_Legion_00.06.38.551-00.06.45.682 	and down he goes, leaving michael the only one left standing.
+2026_Legion_00.10.58.686-00.11.05.720 	the headband doubling as her mini-skirt reveals her knock-out figure in a way that really doesn't leave much up to the imagination.
 2026_Legion_00.50.12.021-00.50.15.596 	the moment the words leave her mouth, the grief hits her again.
 2026_Legion_00.53.16.908-00.53.22.620 	michael heads for the roof, leaving jeep to stare after him, deep in thought.
 2026_Legion_01.04.40.370-01.04.46.886 	and with that, jeep walks away, leaving charlie to stare after him, disturbed and surprised by his response.
 2026_Legion_01.18.15.768-01.18.19.294 	michael lets go of jeep's hand and turns away to face gabriel, leaving jeep to contemplate those final words.
+2027_Les_Miserables_00.09.59.682-00.10.03.631 	silenced by the bishop's gentle tones, the policemen turn and leave.
 2027_Les_Miserables_00.14.27.327-00.14.29.161 	we follow this and accelerate upwards leaving valjean and the town of digne far below, towards the sun gloriously breaking through the heavens with the alps beyond.
 2027_Les_Miserables_00.27.09.293-00.27.11.101 	close on a man's hand leaving money.
-2027_Les_Miserables_01.23.07.859-01.23.08.912 	valjean leaves and goes into his own bedroom.
-2027_Les_Miserables_01.28.20.393-01.28.21.131 	valjean leaves to start packing.
 2034_Super_8_00.04.14.323-00.04.17.935 	hundreds of kids eagerly leave their last day of school for the year, winter a memory.
 2034_Super_8_00.11.04.307-00.11.06.379 	the buick crosses the nighttime horizon, leaving the small town, driving through a rural landscape.
 2034_Super_8_00.51.16.346-00.51.22.865 	jack opens the car's back door -- joe gets in -- jack slams it shut, then throws the camera and tripod into the passenger seat and slams that door, heading to the house, leaving joe in the back.
 2034_Super_8_00.52.39.724-00.52.43.993 	jack turns to leave -- but joe, enraged, says.
 2034_Super_8_01.03.15.939-01.03.18.437 	this kills her -- but she does: she leaves the house.
 2034_Super_8_01.25.45.728-01.25.47.919 	joe quickly turns left into a driveway -- but we push in tight on him -- from the direction they just came are more tanks and military vehicles -- joe's eyes go wide -- they're stuck.
+2034_Super_8_01.42.32.490-01.42.40.555 	street as the majestic ship completes its formation -- and that's when joe sees the creature, leaving -- climbing up the.
+2041_This_is_40_00.02.24.157-00.02.27.003 	she wants to be left alone.
+2041_This_is_40_00.06.03.664-00.06.05.071 	debbie leaves.
 2041_This_is_40_00.54.06.685-00.54.10.377 	charlotte leaves with the triplets.
-2041_This_is_40_01.25.17.363-01.25.21.242 	sadie leaves and slams her door.
 2041_This_is_40_01.33.29.271-01.33.43.790 	pete and debbie leave the school together, surpressing smiles.
 2041_This_is_40_01.41.12.150-01.41.16.749 	they leave ronnie and jason alone.
+2041_This_is_40_01.51.03.505-01.51.05.034 	oliver gets up to leave.
+2041_This_is_40_01.52.59.065-01.52.59.876 	debbie looks over and sees that oliver never actually left.
 2051_Harry_Potter_and_the_goblet_of_fire_00.01.48.265-00.02.10.730 	he leaves the house and heads towards the light.
 2051_Harry_Potter_and_the_goblet_of_fire_00.08.27.921-00.08.34.727 	five green and white figures fly through the air on their brooms leaving a colored trail behind them.
 2051_Harry_Potter_and_the_goblet_of_fire_00.16.40.189-00.16.49.506 	a man runs up the aisle limping in a comical way, he whispers something to dumbledore and leaves in the same fashion.
-2051_Harry_Potter_and_the_goblet_of_fire_00.55.39.497-00.55.43.537 	rita leaves and dumbledore enters.
 2051_Harry_Potter_and_the_goblet_of_fire_01.42.36.448-01.42.42.582 	harry is left alone in the room.
 2051_Harry_Potter_and_the_goblet_of_fire_02.22.07.791-02.22.19.032 	the beauxbatons girls leave in uniform, the crowd applauds.
 2051_Harry_Potter_and_the_goblet_of_fire_02.22.19.032-02.22.23.045 	the durmstrang boys leave too, shaking hands as they go.
+2054_Harry_Potter_and_the_prisoner_of_azkaban_00.08.06.545-00.08.08.661 	in the trees above, leaves tremble.
+2054_Harry_Potter_and_the_prisoner_of_azkaban_00.23.14.934-00.23.25.301 	as he leaves, harry turns to ron and hermione.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_00.31.16.211-00.31.18.716 	the tea leaves shift.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_00.33.58.904-00.34.01.279 	the entire class steps back, leaving harry in front.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_01.34.04.431-01.34.07.092 	as the others start to go, harry glances at the table where lupin has left harry's wand.

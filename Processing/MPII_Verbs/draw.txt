@@ -1,141 +1,149 @@
-0001_American_Beauty_01.15.46.318-01.15.48.332 	She pulls back automatically, but it's clear she's drawn to him.
-0002_As_Good_As_It_Gets_00.41.58.129-00.41.59.546 	Melvin passes through -- visibly drawn and upset.
-0003_CASABLANCA_01.15.52.255-01.15.58.086 	Laszlo watches him, then draws down the shade.
-0004_Charade_00.45.10.582-00.45.12.807 	BARTHOLOMEW looks at her for a moment, then glances around; his attention is drawn inside the doorway.
-0005_Chinatown_00.33.25.956-00.33.26.755 	Escobar has the sheet drawn back.
-0005_Chinatown_01.30.26.818-01.30.29.529 	The curtains are drawn except for one of the small windows on the side of the house.
-0007_DIE_NACHT_DES_JAEGERS_00.12.26.624-00.12.27.178 	Another, next the door, is drawing something on the wall.
-0008_Fargo_00.19.43.076-00.19.48.463 	The shower curtain is drawn around the tub.
-0008_Fargo_00.27.31.586-00.27.35.703 	Carl opens his window as the trooper draws up.
-0010_Frau_Ohne_Gewissen_00.09.57.285-00.10.06.579 	She turns away from the mirror and sits in a big chair with her legs drawn up sideways, the anklet now clearly visible.
-0010_Frau_Ohne_Gewissen_00.25.02.998-00.25.03.960 	He draws her to him slowly and kisses her.
-0010_Frau_Ohne_Gewissen_01.09.26.407-01.09.28.123 	He looks around the room and crosses to lower the venetian blinds and draw the curtains.
-0010_Frau_Ohne_Gewissen_01.24.45.858-01.24.48.326 	Phyllis draws close again.
-0010_Frau_Ohne_Gewissen_01.37.11.743-01.37.15.149 	He goes quietly over to the window and shuts it and draws the curtain.
-0010_Frau_Ohne_Gewissen_01.40.23.528-01.40.24.715 	Neff draws her close to him.
-0011_Gandhi_00.04.21.925-00.04.25.524 	We see the two hundred men of the Army, Navy and Air Force drawing the Army weapon-carrier that bears the body of Gandhi.
-0011_Gandhi_00.11.40.281-00.11.41.347 	Before them, a small crowd, mostly Indian (Hindus, Sikhs, Muslims), but with a few Whites drawn by curiosity.
-0011_Gandhi_00.11.15.026-00.11.16.396 	A horse-drawn paddy wagon is drawn up beside them.
-0011_Gandhi_00.12.27.767-00.12.29.629 	Three or four committed supporters applaud as on cue, but his technique is so inexpert that it draws nothing but blank faces from the bulk of them.
-0011_Gandhi_00.15.33.972-00.15.37.908 	The sergeant draws a breath, grasping the club, but he bites his lip as he sees Gandhi lift his head feebly, his shaking hands, stained with his own blood, groping for another card.
-0011_Gandhi_01.05.44.014-01.05.44.970 	We feature a man in middle age, but one who looks ill and drawn (Meha).
-0011_Gandhi_02.07.32.618-02.07.36.576 	To one side we see two police cars drawn up, and several policemen (a British officer, a British sergeant, and four Indian constables) lined up near them.
-0011_Gandhi_02.31.14.535-02.31.14.701 	Two military ambulances are drawn up nearby.
-0011_Gandhi_02.39.46.287-02.39.48.243 	And Jinnah has drawn himself up.
-0011_Gandhi_03.02.25.191-03.02.33.493 	Godse is making the pranam to him and he suddenly, wildly draws his gun and fires.
-0013_Halloween_00.38.34.356-00.38.37.390 	Brackett draws his gun and the two men step inside.
-0014_Ist_das_Leben_nicht_schoen_00.05.11.413-00.05.12.992 	Their attention is drawn to an elaborate horsedrawn carriage proceeding down the other side of the street.
-0014_Ist_das_Leben_nicht_schoen_00.06.59.989-00.07.01.501 	She draws back quickly and looks down, terrified at what she has said.
-0014_Ist_das_Leben_nicht_schoen_00.09.23.778-00.09.24.991 	George's father is seated behind his desk, nervously drawing swirls on a pad.
-0014_Ist_das_Leben_nicht_schoen_01.30.35.165-01.30.38.302 	George goes over to a corner of the room where his workshop is set up a drawing table, several models of modern buildings, bridges, etc.
-0016_O_Brother_Where_Art_Thou_00.06.33.704-00.06.34.651 	As it draws closer it resolves into a human-propelled flatcar.
-0016_O_Brother_Where_Art_Thou_00.06.40.356-00.06.42.325 	The flatcar draws even and slows.
-0016_O_Brother_Where_Art_Thou_00.49.57.797-00.50.00.545 	Big Dan chuckles as he draws up a chair.
-0016_O_Brother_Where_Art_Thou_01.06.56.740-01.06.59.547 	A hissing whisper from behind draws Everett and Delmar's attention.
-0016_O_Brother_Where_Art_Thou_01.17.04.636-01.17.09.196 	The color guard hustles up the aisle to draw up behind the two men leading Tommy to the gibbet.
-0016_O_Brother_Where_Art_Thou_01.32.57.409-01.32.59.998 	His attention, and everyone else's, is drawn by a procession on the street below.
-0017_Pianist_01.46.29.172-01.46.30.316 	He is about to draw back when he sees, directly beneath him, a man and woman walking with their hands in the air.
-0019_Pulp_Fiction_00.34.29.056-00.34.30.037 	Mia draws a square with her hands.
-0020_Raising_Arizona_00.28.32.710-00.28.33.612 	Of the Biker approaching, craning down as he draws near.
-0020_Raising_Arizona_00.29.00.182-00.29.00.721 	We are rushing toward the house, toward the base of the ladder, the sustained scream drawing us on.
-0020_Raising_Arizona_00.57.37.595-00.57.37.968 	As we come closer, eventually drawing in to a close shot of his face, we gradually realize something peculiar about his eyes: He seems to have none.
-0020_Raising_Arizona_01.21.52.331-01.21.53.348 	On the guns as Lenny's thumbs draw them back.
-0020_Raising_Arizona_01.30.31.486-01.30.39.190 	The elderly man drapes an arm around his wife's shoulder and draws her close.
-0021_Rear_Window_00.04.07.495-00.04.09.773 	At this moment, his attention is drawn to something across the way.
-0021_Rear_Window_00.05.05.492-00.05.08.818 	Jeff's attention is now drawn to another feature of his backyard entertainment.
-0021_Rear_Window_00.07.30.493-00.07.32.002 	As he replaces it on the windowsill, his attention is drawn back to the scene outside the window.
-0021_Rear_Window_00.24.47.024-00.24.50.506 	There is a slight, but warm, smile on Jeff's face as he looks at the drawn shade.
-0021_Rear_Window_00.27.37.810-00.27.39.810 	Lisa draws back one leg, and points a finger challengingly.
-0021_Rear_Window_00.43.32.857-00.43.33.357 	There are no lights burning behind the drawn shade of the bedroom, but the living room and the kitchen are lighted.
-0021_Rear_Window_00.48.50.350-00.48.50.850 	The drawn shades of the newlyweds' apartment.
-0021_Rear_Window_01.23.42.487-01.23.44.887 	Miss Lonely Hearts puts the dog in the basket, and watches as the husband draws it slowly up.
-0021_Rear_Window_01.24.25.282-01.24.28.082 	The newlyweds draw their shades again.
-0021_Rear_Window_01.42.14.385-01.42.17.906 	As Thorwald's attention is drawn back to the second policeman to answer further questions, the first policeman takes Lisa by the arm and leads her out of the apartment.
-0023_THE_BUTTERFLY_EFFECT_01.17.47.361-01.17.51.288 	All of the children draw colorful pictures.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.01.38.486-00.01.53.942 	An ancient PARCHMENT MAP of MIDDLE EARTH.moving slowly across the MAP as if drawn by an unseen force the CAMERA closes in on a PLACE NAME.MORDOR.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.16.26.049-00.16.31.911 	Gandalf as he sets alight a particularly spectacular firework that draws gasps of admiration from the party guests.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.45.24.972-00.45.25.280 	A long drawn WAIL comes down the wind, like the cry of some evil and lonely creature.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.46.22.896-00.46.24.939 	He is drawing the ring out of his pocket, with trembling hands.his face fevered and sweating as if in the grip of some terrible INTERNAL STRUGGLE.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.12.06.551-01.12.11.985 	THE WITCH KING SCREECHES ANGRILY, draws his sword, and leads the Ringwraiths across the Ford.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.23.01.732-01.23.07.519 	Boromir's eyes are drawn to an old Fresco on the wall.depicting Isildur defeating Sauron.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.55.53.816-01.55.57.370 	Frodo draws the Sword.and stares at its glowing blade.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.07.52.615-02.07.58.088 	Frodo watches as the Balrog puts one foot on the bridge and draws up to Full Height, wings spreading from wall-to-wall.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.18.53.538-02.18.57.747 	Frodo follows her.as if drawn by an invisible force.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.34.05.460-02.34.19.621 	It glints, gold and beautiful in the afternoon sun.Aragorn's eyes are drawn to it.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.35.01.684-02.35.03.136 	He draws his sword.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.14.00.077-01.14.01.761 	In his EXCITEMENT, he draws his SWORD.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.18.06.316-01.18.08.124 	ARAGORN'S eyes fall to a PLAIN BLACK SCABBARD, which ELROND draws from beneath his robes.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.18.10.585-01.18.12.635 	ELROND'S long white fingers draw the hilt of a SWORD from the scabbard to reveal.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.18.32.207-01.18.47.746 	ARAGORN draws the long blade from its sheath.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.19.08.132-02.19.20.572 	GORBAG draws his SWORD, but SHAGRAT KICKS him BACKWARDS with his foot!
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.23.56.204-02.23.56.377 	Their eyes are drawn to the OMINOUS SILHOUETTE of MOUNT DOOM.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.24.05.719-02.24.09.750 	THEIR eyes are drawn to a DARK LOOMING SHAPE.
-0027_The_Big_Lebowski_01.43.24.083-01.43.25.578 	He rushes Franz but draws up short as Franz sends out karate kicks, his leather pants squeaking and popping.
-0028_The_Crying_Game_00.04.08.026-00.04.11.652 	Jody follows her, as she walks backward, drawing him on.
-0028_The_Crying_Game_00.51.11.994-00.51.13.374 	She draws him away.
-0028_The_Crying_Game_00.56.52.702-00.56.54.038 	He draws up her dress with his hands.
-0028_The_Crying_Game_00.57.24.856-00.57.37.300 	Fergus tries to draw her up toward him, but her hand reaches up to his mouth and presses his head back while her other hand undoes his pants.
-0028_The_Crying_Game_01.00.23.844-01.00.26.301 	She draws back and looks at him.
-0028_The_Crying_Game_01.01.28.465-01.01.31.738 	Dil draws Fergus back to the bar.
-0028_The_Crying_Game_01.02.46.406-01.02.53.463 	She draws him behind a curtain toward the bed, pulls him down.
-0028_The_Crying_Game_01.03.36.523-01.03.39.688 	He draws her toward him.
-0028_The_Crying_Game_01.19.52.118-01.19.57.326 	She draws him down an alley where the same car is waiting.
-0028_The_Crying_Game_01.21.13.859-01.21.22.814 	The car draws to a halt in a sedate square.
-0028_The_Crying_Game_01.28.30.575-01.28.34.324 	Fergus draws her slowly up to a standing position.
-0028_The_Crying_Game_01.36.48.268-01.36.50.263 	She ties the other and is drawing it upward when he wakes.
-0030_The_Hustler_00.23.18.458-00.23.23.697 	Fats draws himself slowly out of his chair and hands the money to Charlie.
-0030_The_Hustler_00.25.37.618-00.25.41.573 	As Fats bends over to shoot, Henry draws the Venetian blinds.
-0030_The_Hustler_00.35.22.438-00.35.43.655 	The blinds are drawn and the light strikes Eddie in the eyes, but still he stumbles after Fats, holding his money out before him, pleading.
-0030_The_Hustler_00.47.48.358-00.47.54.198 	She closes her eyes, then draws back against the door, fearful, like a threatened animal.
-0030_The_Hustler_02.03.36.103-02.03.51.698 	When Bert sees Eddie push open the glass doors, he draws himself up fearfully like a turtle, and motions with his eyes to his men for protection.
-0030_The_Hustler_02.05.20.588-02.05.22.113 	Preacher, Big John draw up their chairs around the table.
-0031_The_Lost_Weekend_01.04.42.144-01.04.44.936 	A steel gate is drawn across its entrance.
-0031_The_Lost_Weekend_01.25.13.613-01.25.21.524 	At first Don draws back, repelled, but the mouse is such a friendly, harmless creature that after a moment his face relaxes and he half smiles at it.
-0032_The_Princess_Bride_00.17.43.086-00.17.49.384 	Inigo steps away, draws his sword, loosens up with a few perfect thrusts.
-0041_The_Sixth_Sense_00.53.07.861-00.53.13.035 	Her attention is drawn to the sweater.
-0041_The_Sixth_Sense_01.38.21.569-01.38.23.638 	His eyes are drawn to the dining table.
-0046_Chasing_Amy_00.08.09.579-00.08.15.561 	Hooper explodes, He pulls a nine millimeter from his belt, draws on Banky and fires.
-0046_Chasing_Amy_00.45.18.808-00.45.22.641 	He puts the controller down and crosses to the drawing table.
-0046_Chasing_Amy_00.46.00.399-00.46.02.845 	He starts drawing something.
-0046_Chasing_Amy_00.46.03.462-00.46.06.543 	Banky draws a four-way stop.
-0049_Hannah_and_her_sisters_00.09.41.149-00.09.45.614 	Frederick can be seen working at a drawing board on the other side of the clear plastic screen.
-0050_Indiana_Jones_and_the_last_crusade_00.36.47.724-00.36.54.038 	Indy's delight, however, is short-lived since Kazim and TWO OTHER TURKISH AGENTS are running towards them with drawn guns.
-0050_Indiana_Jones_and_the_last_crusade_00.38.59.115-00.39.04.557 	As Indy's boat drifts toward the GIANT, TURNING PROPELLERS at the STERN of ANOTHER STEAMER, Kazim's boat draws up alongside and hits them.
-0050_Indiana_Jones_and_the_last_crusade_01.35.57.339-01.35.59.608 	Sallah draws his horse next to the treads.
-0051_Men_in_black_00.46.20.893-00.46.25.852 	Kay pulls a black card from his wallet and extends it to her as she draws close.
-0051_Men_in_black_01.04.30.851-01.04.33.136 	Kay gestures to a group of ONLOOKERS, drawn by the curious blasts from the store.
-0051_Men_in_black_01.10.55.051-01.10.56.177 	As they draw close, ORION the cat bolts from underneath it, races between their legs, and leapfrogs over several small cabinets, landing on top of a very tall one with only six inches clearance between it and the ceiling.
-0051_Men_in_black_01.12.14.256-01.12.14.490 	He raises it to his cigarette, but as it draws close, the match goes out with a sharp.
-0051_Men_in_black_01.12.39.131-01.12.39.793 	Jay leaps back and draws the Noisy Cricket, Kay pulls out his series four deatomizer, and Edgar holds his shotgun under Laurel's chin, using her body to shield his own.
-1001_Flight_01.46.40.385-01.46.43.203 	A gentle breeze blows through the balcony doors ruffling drawn curtains.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.38.27.703-01.38.29.514 	Draco draws his wand and cast a spell.
-1003_How_to_Lose_Friends_and_Alienate_People_01.31.01.395-01.31.05.965 	A snow dusted black limousine draws up.
-1005_Signs_00.02.35.781-00.02.41.898 	He walks along the landing in his bare feet and comes to a closed door with some hand drawn children's pictures stuck to it.
-1005_Signs_00.10.19.890-00.10.21.016 	Bo sits up on a platform on the climbing frame, with her knees drawn tightly up to her chin.
-1005_Signs_01.06.00.970-01.06.04.366 	As he takes a drag on the cigarette, his attention is drawn to the field of maize.
-1006_Slumdog_Millionaire_00.31.24.724-00.31.30.157 	Maman draws closer to him.
-1006_Slumdog_Millionaire_00.56.39.068-00.56.43.302 	Salim draws a revolver from behind his back and points it at the men.
-1006_Slumdog_Millionaire_00.56.50.920-00.56.56.413 	Maman draws closer.
-1006_Slumdog_Millionaire_01.47.55.929-01.47.58.549 	Javed's men draw their weapons.
-1007_Spider-Man1_00.28.25.232-00.28.33.265 	His attention is drawn to the argument across at MJ's.
-1007_Spider-Man1_00.32.43.021-00.32.44.735 	Now he draws spiders on the page.
+0001_American_Beauty_01.15.46.318-01.15.48.332 	she pulls back automatically, but it's clear she's drawn to him.
+0002_As_Good_As_It_Gets_00.41.58.129-00.41.59.546 	melvin passes through -- visibly drawn and upset.
+0003_CASABLANCA_01.15.52.255-01.15.58.086 	laszlo watches him, then draws down the shade.
+0004_Charade_00.45.10.582-00.45.12.807 	bartholomew looks at her for a moment, then glances around; his attention is drawn inside the doorway.
+0005_Chinatown_00.16.23.868-00.16.25.368 	in the style of the hearst yellow press, there is a heart- shaped drawing around one of the photos that gittes had taken.
+0005_Chinatown_01.30.26.818-01.30.29.529 	the curtains are drawn except for one of the small windows on the side of the house.
+0005_Chinatown_01.31.14.975-01.31.19.848 	he moves to one where the blind is not completely drawn.
+0007_DIE_NACHT_DES_JAEGERS_00.12.26.624-00.12.27.178 	another, next the door, is drawing something on the wall.
+0007_DIE_NACHT_DES_JAEGERS_00.12.27.422-00.12.27.658 	over these lines we cut briefly to -- chanting, drawing.
+0008_Fargo_00.19.43.076-00.19.48.463 	the shower curtain is drawn around the tub.
+0008_Fargo_00.27.31.586-00.27.35.703 	carl opens his window as the trooper draws up.
+0010_Frau_Ohne_Gewissen_00.09.57.285-00.10.06.579 	she turns away from the mirror and sits in a big chair with her legs drawn up sideways, the anklet now clearly visible.
+0010_Frau_Ohne_Gewissen_00.25.02.998-00.25.03.960 	he draws her to him slowly and kisses her.
+0010_Frau_Ohne_Gewissen_01.09.26.407-01.09.28.123 	he looks around the room and crosses to lower the venetian blinds and draw the curtains.
+0010_Frau_Ohne_Gewissen_01.24.45.858-01.24.48.326 	phyllis draws close again.
+0010_Frau_Ohne_Gewissen_01.37.11.743-01.37.15.149 	he goes quietly over to the window and shuts it and draws the curtain.
+0010_Frau_Ohne_Gewissen_01.40.23.528-01.40.24.715 	neff draws her close to him.
+0011_Gandhi_00.04.21.925-00.04.25.524 	we see the two hundred men of the army, navy and air force drawing the army weapon-carrier that bears the body of gandhi.
+0011_Gandhi_00.11.40.281-00.11.41.347 	before them, a small crowd, mostly indian (hindus, sikhs, muslims), but with a few whites drawn by curiosity.
+0011_Gandhi_00.11.15.026-00.11.16.396 	a horse-drawn paddy wagon is drawn up beside them.
+0011_Gandhi_00.12.27.767-00.12.29.629 	three or four committed supporters applaud as on cue, but his technique is so inexpert that it draws nothing but blank faces from the bulk of them.
+0011_Gandhi_00.15.33.972-00.15.37.908 	the sergeant draws a breath, grasping the club, but he bites his lip as he sees gandhi lift his head feebly, his shaking hands, stained with his own blood, groping for another card.
+0011_Gandhi_02.07.32.618-02.07.36.576 	to one side we see two police cars drawn up, and several policemen (a british officer, a british sergeant, and four indian constables) lined up near them.
+0011_Gandhi_02.31.14.535-02.31.14.701 	two military ambulances are drawn up nearby.
+0011_Gandhi_02.39.46.287-02.39.48.243 	and jinnah has drawn himself up.
+0011_Gandhi_03.02.25.191-03.02.33.493 	godse is making the pranam to him and he suddenly, wildly draws his gun and fires.
+0013_Halloween_00.38.34.356-00.38.37.390 	brackett draws his gun and the two men step inside.
+0014_Ist_das_Leben_nicht_schoen_00.05.11.413-00.05.12.992 	their attention is drawn to an elaborate horsedrawn carriage proceeding down the other side of the street.
+0014_Ist_das_Leben_nicht_schoen_00.06.59.989-00.07.01.501 	she draws back quickly and looks down, terrified at what she has said.
+0014_Ist_das_Leben_nicht_schoen_00.09.23.778-00.09.24.991 	george's father is seated behind his desk, nervously drawing swirls on a pad.
+0016_O_Brother_Where_Art_Thou_00.06.33.704-00.06.34.651 	as it draws closer it resolves into a human-propelled flatcar.
+0016_O_Brother_Where_Art_Thou_00.06.40.356-00.06.42.325 	the flatcar draws even and slows.
+0016_O_Brother_Where_Art_Thou_00.49.57.797-00.50.00.545 	big dan chuckles as he draws up a chair.
+0016_O_Brother_Where_Art_Thou_01.17.04.636-01.17.09.196 	the color guard hustles up the aisle to draw up behind the two men leading tommy to the gibbet.
+0016_O_Brother_Where_Art_Thou_01.32.57.409-01.32.59.998 	his attention, and everyone else's, is drawn by a procession on the street below.
+0017_Pianist_01.46.29.172-01.46.30.316 	he is about to draw back when he sees, directly beneath him, a man and woman walking with their hands in the air.
+0019_Pulp_Fiction_00.34.29.056-00.34.30.037 	mia draws a square with her hands.
+0020_Raising_Arizona_00.28.32.710-00.28.33.612 	of the biker approaching, craning down as he draws near.
+0020_Raising_Arizona_00.29.00.182-00.29.00.721 	we are rushing toward the house, toward the base of the ladder, the sustained scream drawing us on.
+0020_Raising_Arizona_00.57.37.595-00.57.37.968 	as we come closer, eventually drawing in to a close shot of his face, we gradually realize something peculiar about his eyes: he seems to have none.
+0020_Raising_Arizona_01.21.52.331-01.21.53.348 	on the guns as lenny's thumbs draw them back.
+0020_Raising_Arizona_01.30.31.486-01.30.39.190 	the elderly man drapes an arm around his wife's shoulder and draws her close.
+0021_Rear_Window_00.04.07.495-00.04.09.773 	at this moment, his attention is drawn to something across the way.
+0021_Rear_Window_00.05.05.492-00.05.08.818 	jeff's attention is now drawn to another feature of his backyard entertainment.
+0021_Rear_Window_00.07.30.493-00.07.32.002 	as he replaces it on the windowsill, his attention is drawn back to the scene outside the window.
+0021_Rear_Window_00.24.46.260-00.24.46.524 	the newlyweds's apartment has the shades still drawn.
+0021_Rear_Window_00.27.37.810-00.27.39.810 	lisa draws back one leg, and points a finger challengingly.
+0021_Rear_Window_00.43.55.757-00.44.01.757 	the camera moves on much farther to the left, and eventually comes to rest on the newly-weds' apartment with the shade still drawn.
+0021_Rear_Window_01.23.42.487-01.23.44.887 	miss lonely hearts puts the dog in the basket, and watches as the husband draws it slowly up.
+0021_Rear_Window_01.24.25.282-01.24.28.082 	the newlyweds draw their shades again.
+0021_Rear_Window_01.42.14.385-01.42.17.906 	as thorwald's attention is drawn back to the second policeman to answer further questions, the first policeman takes lisa by the arm and leads her out of the apartment.
+0023_THE_BUTTERFLY_EFFECT_01.17.47.361-01.17.51.288 	all of the children draw colorful pictures.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.01.38.486-00.01.53.942 	an ancient parchment map of middle earth.moving slowly across the map as if drawn by an unseen force the camera closes in on a place name.mordor.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.16.26.049-00.16.31.911 	gandalf as he sets alight a particularly spectacular firework that draws gasps of admiration from the party guests.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.46.22.896-00.46.24.939 	he is drawing the ring out of his pocket, with trembling hands.his face fevered and sweating as if in the grip of some terrible internal struggle.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.55.28.069-00.55.29.899 	the four ringwraiths rush into the prancing pony with wicked swords drawn.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.12.06.551-01.12.11.985 	the witch king screeches angrily, draws his sword, and leads the ringwraiths across the ford.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.23.01.732-01.23.07.519 	boromir's eyes are drawn to an old fresco on the wall.depicting isildur defeating sauron.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.55.53.816-01.55.57.370 	frodo draws the sword.and stares at its glowing blade.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.07.52.615-02.07.58.088 	frodo watches as the balrog puts one foot on the bridge and draws up to full height, wings spreading from wall-to-wall.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.18.53.538-02.18.57.747 	frodo follows her.as if drawn by an invisible force.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.34.05.460-02.34.19.621 	it glints, gold and beautiful in the afternoon sun.aragorn's eyes are drawn to it.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.35.01.684-02.35.03.136 	he draws his sword.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.14.00.077-01.14.01.761 	in his excitement, he draws his sword.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.18.10.585-01.18.12.635 	elrond's long white fingers draw the hilt of a sword from the scabbard to reveal.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.38.16.075-01.38.22.064 	drawing a deep breath, frodo follows gollum into the tunnel.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.19.08.132-02.19.20.572 	gorbag draws his sword, but shagrat kicks him backwards with his foot!
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.23.56.204-02.23.56.377 	their eyes are drawn to the ominous silhouette of mount doom.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.24.05.719-02.24.09.750 	their eyes are drawn to a dark looming shape.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_03.02.24.454-03.02.27.877 	he is drawn and pale.
+0027_The_Big_Lebowski_01.43.24.083-01.43.25.578 	he rushes franz but draws up short as franz sends out karate kicks, his leather pants squeaking and popping.
+0028_The_Crying_Game_00.04.08.026-00.04.11.652 	jody follows her, as she walks backward, drawing him on.
+0028_The_Crying_Game_00.51.11.994-00.51.13.374 	she draws him away.
+0028_The_Crying_Game_00.56.52.702-00.56.54.038 	he draws up her dress with his hands.
+0028_The_Crying_Game_00.57.24.856-00.57.37.300 	fergus tries to draw her up toward him, but her hand reaches up to his mouth and presses his head back while her other hand undoes his pants.
+0028_The_Crying_Game_01.00.23.844-01.00.26.301 	she draws back and looks at him.
+0028_The_Crying_Game_01.01.28.465-01.01.31.738 	dil draws fergus back to the bar.
+0028_The_Crying_Game_01.02.46.406-01.02.53.463 	she draws him behind a curtain toward the bed, pulls him down.
+0028_The_Crying_Game_01.03.36.523-01.03.39.688 	he draws her toward him.
+0028_The_Crying_Game_01.19.52.118-01.19.57.326 	she draws him down an alley where the same car is waiting.
+0028_The_Crying_Game_01.21.13.859-01.21.22.814 	the car draws to a halt in a sedate square.
+0028_The_Crying_Game_01.28.30.575-01.28.34.324 	fergus draws her slowly up to a standing position.
+0028_The_Crying_Game_01.36.48.268-01.36.50.263 	she ties the other and is drawing it upward when he wakes.
+0030_The_Hustler_00.23.18.458-00.23.23.697 	fats draws himself slowly out of his chair and hands the money to charlie.
+0030_The_Hustler_00.25.37.618-00.25.41.573 	as fats bends over to shoot, henry draws the venetian blinds.
+0030_The_Hustler_00.35.22.438-00.35.43.655 	the blinds are drawn and the light strikes eddie in the eyes, but still he stumbles after fats, holding his money out before him, pleading.
+0030_The_Hustler_00.47.48.358-00.47.54.198 	she closes her eyes, then draws back against the door, fearful, like a threatened animal.
+0030_The_Hustler_02.03.36.103-02.03.51.698 	when bert sees eddie push open the glass doors, he draws himself up fearfully like a turtle, and motions with his eyes to his men for protection.
+0030_The_Hustler_02.05.20.588-02.05.22.113 	preacher, big john draw up their chairs around the table.
+0031_The_Lost_Weekend_01.04.42.144-01.04.44.936 	a steel gate is drawn across its entrance.
+0031_The_Lost_Weekend_01.25.13.613-01.25.21.524 	at first don draws back, repelled, but the mouse is such a friendly, harmless creature that after a moment his face relaxes and he half smiles at it.
+0032_The_Princess_Bride_00.17.43.086-00.17.49.384 	inigo steps away, draws his sword, loosens up with a few perfect thrusts.
+0032_The_Princess_Bride_00.22.57.314-00.22.59.608 	and behind him now, drawing closer all the time, is the deadly edge of the cliffs of insanity.
+0041_The_Sixth_Sense_00.53.07.861-00.53.13.035 	her attention is drawn to the sweater.
+0041_The_Sixth_Sense_01.38.21.569-01.38.23.638 	his eyes are drawn to the dining table.
+0046_Chasing_Amy_00.08.09.579-00.08.15.561 	hooper explodes, he pulls a nine millimeter from his belt, draws on banky and fires.
+0046_Chasing_Amy_00.16.46.371-00.16.48.215 	holden answers it, while still drawing.
+0046_Chasing_Amy_00.46.00.399-00.46.02.845 	he starts drawing something.
+0046_Chasing_Amy_00.46.03.462-00.46.06.543 	banky draws a four-way stop.
+0046_Chasing_Amy_00.46.24.002-00.46.27.654 	banky finishes drawing.
+0049_Hannah_and_her_sisters_00.09.41.149-00.09.45.614 	frederick can be seen working at a drawing board on the other side of the clear plastic screen.
+0050_Indiana_Jones_and_the_last_crusade_00.38.59.115-00.39.04.557 	as indy's boat drifts toward the giant, turning propellers at the stern of another steamer, kazim's boat draws up alongside and hits them.
+0050_Indiana_Jones_and_the_last_crusade_01.01.30.285-01.01.32.785 	all four radiomen now have their guns drawn.
+0050_Indiana_Jones_and_the_last_crusade_01.35.57.339-01.35.59.608 	sallah draws his horse next to the treads.
+0051_Men_in_black_00.46.20.893-00.46.25.852 	kay pulls a black card from his wallet and extends it to her as she draws close.
+0051_Men_in_black_01.04.30.851-01.04.33.136 	kay gestures to a group of onlookers, drawn by the curious blasts from the store.
+0051_Men_in_black_01.10.55.051-01.10.56.177 	as they draw close, orion the cat bolts from underneath it, races between their legs, and leapfrogs over several small cabinets, landing on top of a very tall one with only six inches clearance between it and the ceiling.
+0051_Men_in_black_01.12.14.256-01.12.14.490 	he raises it to his cigarette, but as it draws close, the match goes out with a sharp.
+0051_Men_in_black_01.12.39.131-01.12.39.793 	jay leaps back and draws the noisy cricket, kay pulls out his series four deatomizer, and edgar holds his shotgun under laurel's chin, using her body to shield his own.
+0053_Rendezvous_mit_Joe_Black_00.06.47.892-00.07.01.385 	drew ushers everybody on, first parrish, then susan and quince, drew the last to climb on, shuts the door behind him as allison hurries away from the whirling rotors.
+0053_Rendezvous_mit_Joe_Black_00.38.36.881-00.38.40.086 	she kisses drew in some light, humorous way they have ob- viously done before, their heads bobbing like plastic water toys and their lips meeting mid-air.
+0053_Rendezvous_mit_Joe_Black_00.55.17.192-00.55.24.514 	immediately indications of surprise on board members' faces at parrish bringing in an 'observer', drew's reaction guarded but intense.
+0053_Rendezvous_mit_Joe_Black_01.00.13.393-01.00.21.243 	the board is provoked and mystified by joe and even more by his presence, they cast meaningful glances at parrish, drew coolly grasps the irritation of the members.
+0053_Rendezvous_mit_Joe_Black_01.09.23.389-01.09.34.977 	a knock, the door opens and drew enters, looks at parrish, then at joe, stands poised in the doorway.
+0053_Rendezvous_mit_Joe_Black_01.10.48.239-01.10.55.069 	drew heads for the door, turns around.
+0053_Rendezvous_mit_Joe_Black_01.28.05.904-01.28.11.389 	quince hesitates, then realizes what drew has on his mind.
+0053_Rendezvous_mit_Joe_Black_01.28.52.591-01.28.58.762 	he nods confidently to drew, then turns importantly to the board.
+0053_Rendezvous_mit_Joe_Black_01.37.32.881-01.37.40.711 	parrish and joe enter, the entire board is assembled, includ- ing drew, quince and sloane.
+0053_Rendezvous_mit_Joe_Black_02.31.02.830-02.31.07.227 	drew enters with quince, quince nods, excusing himself, and closes the door behind him.
+1002_Harry_Potter_and_the_Half-Blood_Prince_01.13.02.202-01.13.18.932 	she breathes on the glass then draws, with her finger, the shape of a heart with an arrow through it.
+1002_Harry_Potter_and_the_Half-Blood_Prince_01.38.27.703-01.38.29.514 	draco draws his wand and cast a spell.
+1003_How_to_Lose_Friends_and_Alienate_People_01.31.01.395-01.31.05.965 	a snow dusted black limousine draws up.
+1005_Signs_00.02.35.781-00.02.41.898 	he walks along the landing in his bare feet and comes to a closed door with some hand drawn children's pictures stuck to it.
+1005_Signs_00.10.19.890-00.10.21.016 	bo sits up on a platform on the climbing frame, with her knees drawn tightly up to her chin.
+1005_Signs_01.06.00.970-01.06.04.366 	as he takes a drag on the cigarette, his attention is drawn to the field of maize.
+1006_Slumdog_Millionaire_00.31.24.724-00.31.30.157 	maman draws closer to him.
+1006_Slumdog_Millionaire_00.56.39.068-00.56.43.302 	salim draws a revolver from behind his back and points it at the men.
+1006_Slumdog_Millionaire_00.56.50.920-00.56.56.413 	maman draws closer.
+1006_Slumdog_Millionaire_01.47.55.929-01.47.58.549 	javed's men draw their weapons.
 1007_Spider-Man1_00.28.25.232-00.28.33.265 	his attention is drawn to the argument across at mj's.
 1007_Spider-Man1_00.32.43.021-00.32.44.735 	now he draws spiders on the page.
+1007_Spider-Man1_00.43.09.660-00.43.11.096 	he watches police cares draw up.
 1007_Spider-Man1_00.49.51.618-00.49.55.132 	at quest proving grounds, bunker six, a car draws up.
 1007_Spider-Man1_01.20.02.759-01.20.03.039 	one guy draws a switchblade.
+1007_Spider-Man1_01.49.15.022-01.49.17.649 	with blades drawn, it targets spider-man.
 1008_Spider-Man2_00.27.17.462-00.27.22.072 	a convertible smashes into a chasing police car, which is drawn alongside, then heads straight for peter.
 1008_Spider-Man2_00.35.14.242-00.35.17.914 	he's drawn his face, half peter parker and half spider-man.
-1008_Spider-Man2_01.54.53.685-01.55.00.342 	she hangs on the air, the chains on her leg drawn to the sphere.
 1008_Spider-Man2_01.55.54.455-01.56.00.803 	spider-man sees the severed cables, but the sphere keeps drawing metal objects to it.
-1008_Spider-Man2_01.56.10.338-01.56.23.338 	beyond the lab and on the streets of new york, lamp posts, taxis and cars are all drawn towards the building and the tritium.
-1008_Spider-Man2_02.02.41.220-02.02.48.687 	as she glides elegantly down from on high, the convoy of cars draws closer to her, their lights flashing.
 1009_Spider-Man3_01.24.32.960-01.24.35.902 	harry draws breath.
+1009_Spider-Man3_01.40.56.791-01.41.07.932 	drawn by the sound of the bells, he looks up at the torrential rain pours down.
 1009_Spider-Man3_01.42.58.596-01.43.06.852 	as if in a trance, brock is drawn to the screams of his nemesis, pushing open a door that leads to a staircase winding around the walls of the bell tower.
 1010_TITANIC_01.26.36.531-01.26.42.886 	jack peers over the top of his sketchpad, then draws a line.
+1010_TITANIC_01.26.52.551-01.26.55.217 	jack grins as he draws.
+1010_TITANIC_01.27.54.361-01.27.59.053 	rose gazes at jack as he draws.
 1011_The_Help_00.16.59.724-00.17.05.483 	skeeter's attention is drawn to the voice on the tv.
 1012_Unbreakable_01.26.46.056-01.26.47.723 	her knees are drawn up.
-1014_2012_02.06.11.951-02.06.15.055 	jackson reaches out in desperation as the hydraulic wall draws near to the gate.
-1014_2012_02.09.57.627-02.09.59.755 	the clock counts down from 10 seconds as the water draws in.
 1019_Confessions_Of_A_Shopaholic_01.10.20.023-01.10.24.033 	as rebecca runs down the street with two store bags, a black car draws up.
 1019_Confessions_Of_A_Shopaholic_01.33.31.761-01.33.34.274 	an employee, seeing him draw near, ducks into an unseen office.
 1020_Crazy_Stupid_Love_00.00.42.270-00.00.44.834 	feet slide towards each other, as if drawn together magically.
@@ -148,13 +156,9 @@
 1028_No_Reservations_00.56.22.277-00.56.29.950 	later, kate draws back a curtain to look down at zoe, who is pacing on the wintry street outside the apartment.
 1028_No_Reservations_01.19.06.000-01.19.10.262 	nick draws the spoon away a couple of times and watches her full lips open and close.
 1028_No_Reservations_01.30.12.046-01.30.14.642 	in her room, zoe sits on her bed with a scarlet-haired smiling rag doll resting on her drawn up knees.
-1029_Pride_And_Prejudice_Disk_One_00.43.34.325-00.43.37.843 	now lizzie is reading a book in the drawing room.
 1029_Pride_And_Prejudice_Disk_One_01.26.43.937-01.26.47.326 	his eyes once more drawn back to lizzie, skipping in a circle with her dance set,
 1029_Pride_And_Prejudice_Disk_One_01.33.04.784-01.33.08.450 	lizzie looks a little pleased with herself as the dance draws to a close.
-1029_Pride_And_Prejudice_Disk_One_01.59.52.882-01.59.55.728 	inside, the tea things are being cleared away in the drawing room, where mr. bennet, mary and jane are sitting.
 1029_Pride_And_Prejudice_Disk_One_02.04.19.665-02.04.25.464 	a carriage, drawn by four white horses pulls into the drive at longbourn.
-1029_Pride_And_Prejudice_Disk_One_02.34.22.627-02.34.27.928 	they sit a few feet apart, seeming to take a particular interest in the carpet and walls of the drawing room.
-1029_Pride_And_Prejudice_Disk_One_02.38.52.567-02.38.58.339 	rises from her seat, and stands in the center of the drawing room, prepared to greet any visitors.
 1030_Public_Enemies_00.42.31.285-00.42.33.654 	without breaking his stride, dillinger draws a gun in each hand.
 1030_Public_Enemies_01.10.12.178-01.10.16.004 	as the blonde man draws closer, dillinger grabs him in a chokehold and aims a gun at gilbert.
 1030_Public_Enemies_01.30.34.364-01.30.42.223 	baby face turns his back to the vehicle as its glaring headlights draw closer.
@@ -162,19 +166,17 @@
 1030_Public_Enemies_02.07.53.234-02.07.57.015 	the scene draws more chicagoans from across the street, and more flares illuminate the area with searing light.
 1031_Quantum_of_Solace_00.03.07.788-00.03.13.861 	the alfa draws alongside and the two cars trade dusty paintwork.
 1031_Quantum_of_Solace_00.03.23.468-00.03.26.077 	bond draws a machine-gun.
-1033_Sherlock_Holmes_A_Game_of_Shadows_00.07.46.318-00.07.53.148 	outside, the scruffy holmes draws glances from a well- dressed queue of people.
+1031_Quantum_of_Solace_00.44.30.020-00.44.32.099 	on stage guns are drawn.
 1033_Sherlock_Holmes_A_Game_of_Shadows_00.09.37.670-00.09.41.252 	the man behind the curtain draws it open.
 1033_Sherlock_Holmes_A_Game_of_Shadows_00.31.26.882-00.31.28.714 	she rolls out of the fall and draws a knife.
 1033_Sherlock_Holmes_A_Game_of_Shadows_00.41.58.676-00.42.01.342 	the steward draws a knife and lunges at watson.
 1033_Sherlock_Holmes_A_Game_of_Shadows_01.04.19.303-01.04.22.970 	watson draws a sword from a stick and cuts the rope holding the sandbag.
 1033_Sherlock_Holmes_A_Game_of_Shadows_01.47.58.837-01.47.59.571 	he shoves her aside and draws a gun.
 1034_Super_8_00.10.14.108-00.10.16.943 	the yellow coupe that had pulled up outside the house for the wake draws up.
-1034_Super_8_00.22.33.198-00.22.35.865 	the boys watch as alice draws closer to him.
 1034_Super_8_00.40.03.478-00.40.13.451 	waving her arms around jerkily, she draws closer.
 1034_Super_8_01.36.31.846-01.36.37.935 	joe stands his ground as it draws closer.
 1034_Super_8_01.36.43.427-01.36.49.391 	the alien draws itself up to its full height of about 25 feet and joe steps towards it.
 1034_Super_8_01.38.26.750-01.38.31.760 	strange magnetic force pulls metal items up off the ground and draws them towards the water tower.
-1034_Super_8_01.38.31.760-01.38.44.441 	a bin, oil barrels, a table lamp, a bicycle and numerous other objects are all drawn irresistibly towards the tower.
 1034_Super_8_01.38.49.864-01.38.54.520 	a soldier finds his rifle relentlessly drawn to the tower.
 1034_Super_8_01.41.18.576-01.41.23.442 	joe separates from his father and is just in time to grab his mother's locket, which is being drawn towards the tower.
 1034_Super_8_01.44.22.137-01.44.23.324 	a chalk outline of a body is drawn on the floor.
@@ -184,20 +186,18 @@
 1039_The_Queen_00.00.44.498-00.00.48.235 	as she sits for a portrait wearing formal robes of state, the queen's attention is drawn by television news coverage of tony blair.
 1043_Vantage_Point_01.02.08.783-01.02.13.280 	javier kills the agent, then draws his gun.
 1044_Pride_And_Prejudice_Disk_Two_00.00.51.981-00.00.57.456 	darcy emerges from the parsonage, lips drawn tight, and pulls on his dark leather gloves.
-1044_Pride_And_Prejudice_Disk_Two_00.01.01.774-00.01.08.515 	inside, lizzie begins to pace around the drawing room.
 1044_Pride_And_Prejudice_Disk_Two_00.34.40.616-00.34.43.959 	a carriage drawn by four white horses arrives at longbourn.
 1044_Pride_And_Prejudice_Disk_Two_00.52.55.523-00.52.59.577 	as the carriage draws away, darcy stands watching it.
 1044_Pride_And_Prejudice_Disk_Two_01.02.11.263-01.02.16.004 	moments later, he and mr. bingley stride back into the drawing room, where mrs. hurst and miss bingley are waiting.
-1044_Pride_And_Prejudice_Disk_Two_01.15.18.676-01.15.27.647 	at pemberley, mr. darcy is sitting in the drawing room, watching georgiana practice her piano playing.
 1044_Pride_And_Prejudice_Disk_Two_01.49.51.630-01.49.57.720 	an open-topped carriage pulls up, drawn by two white horses.
 1046_Australia_01.11.46.839-01.11.51.622 	very slowly, their faces draw closer.
 1046_Australia_01.14.24.039-01.14.28.438 	he draws near her, and she looks up at him.
+1046_Australia_02.12.17.000-02.12.18.840 	a woman glares at him, drawing on a cigarette, the tip glowing in the gloom.
 1046_Australia_02.26.14.173-02.26.20.489 	she runs down the peer as the boat draws alongside.
 1047_Defiance_00.04.40.667-00.04.49.414 	aron, sitting with his legs drawn up in front of him, slowly gets up to his feet, and throws the cloth bundle over his shoulder.
 1047_Defiance_00.11.28.097-00.11.29.555 	an official car draws up.
 1047_Defiance_00.16.53.796-00.16.54.120 	tuvia draws the gun.
-1047_Defiance_00.39.27.045-00.39.31.343 	an elderly russian in a horse drawn cart trundles along the dirt track.
-1047_Defiance_01.25.32.292-01.25.41.172 	arkady stares at tuvia's drawn pale face and the black rings under his eyes and he sheathes his knife.
+1047_Defiance_01.25.18.422-01.25.19.805 	both draw knives.
 1047_Defiance_02.02.57.303-02.02.59.053 	as the tank operator fires again, zus clambers up onto the tank and draws his pistol.
 1048_Gran_Torino_01.23.47.362-01.23.50.444 	a cat scampers past and walt draws his gun.
 1049_Harry_Potter_and_the_chamber_of_secrets_01.05.22.384-01.05.29.176 	snape and lockhart draw their wands and solemnly salute each other.
@@ -205,9 +205,7 @@
 1049_Harry_Potter_and_the_chamber_of_secrets_01.33.07.129-01.33.09.629 	a wind seems to draw him away.
 1049_Harry_Potter_and_the_chamber_of_secrets_02.11.45.422-02.11.48.384 	distracted the psycho serpent draws back.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.16.20.290-00.16.23.197 	the decoys draw some death eaters away.
-1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.18.03.845-00.18.05.482 	the dark figure draws level.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.35.21.641-00.35.23.869 	the guests draw back.
-1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.13.15.047-01.13.26.404 	as they journey through fields and past devastated homes, ron grows more drawn and suspicious.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.20.30.250-01.20.33.428 	her knees drawn up to her chest, hermione stares blankly at ron's radio.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.20.56.397-01.21.07.216 	his eyes fixed on hers, he draws her away from the radio.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.22.39.627-01.22.46.824 	harry draws the snitch down and holds it against his mouth.
@@ -227,12 +225,9 @@
 1052_Harry_Potter_and_the_order_of_phoenix_01.56.06.392-01.56.08.502 	lucius draws a wand from his stick and aims it at harry.
 1052_Harry_Potter_and_the_order_of_phoenix_01.56.50.200-01.56.56.974 	he gives harry a faint smile, then is drawn away through the stone archway and gradually disappears.
 1052_Harry_Potter_and_the_order_of_phoenix_01.59.35.562-01.59.42.432 	dumbledore draws a great wave of water from the pools surrounding the fountain and submerges voldemort.
-1053_Harry_Potter_and_the_philosophers_stone_00.37.50.067-00.37.59.553 	the train draws into a small country station.
-1053_Harry_Potter_and_the_philosophers_stone_02.01.25.855-02.01.28.689 	fierce warriors bar their way with drawn swords.
 1053_Harry_Potter_and_the_philosophers_stone_02.08.57.484-02.09.08.848 	and harry is reluctantly drawn towards him.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_00.08.19.759-00.08.29.458 	a purple triple-decker bus draws up.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_00.22.07.264-00.22.11.317 	it seems to draw the energy out of him.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_01.45.14.094-01.45.17.766 	the light draws back across the lake.
 1056_Rambo_00.05.29.356-00.05.31.625 	he draws the bow-string.
 1056_Rambo_00.48.46.707-00.49.30.654 	rambo draws an arrow on lewis and aims it at the bald man's right eye.
 1056_Rambo_00.53.27.181-00.53.32.229 	rambo draws his homemade machete and runs up to the cage.
@@ -246,46 +241,16 @@
 1060_Yes_man_00.57.35.033-00.57.37.228 	she draws back and smiles impishly.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.37.17.612-00.37.20.807 	snape draws his wand.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.51.47.044-00.51.50.339 	she draws back her arm and plunges the fang in to the cup.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.58.28.530-00.58.39.921 	he walks very slowly and deliberately, drawn towards a clothed table.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.42.49.850-01.42.53.443 	as he draws the sword from the sorting hat, harry leaps from hagrid's arms.
 1062_Day_the_Earth_stood_still_00.20.32.354-00.20.34.856 	police vehicles draw up in convoy.
 1062_Day_the_Earth_stood_still_00.32.07.000-00.32.10.000 	he takes it and draws it shakily towards him.
 1062_Day_the_Earth_stood_still_01.08.28.613-01.08.31.357 	klaatu draws a sweeping arrow across the board, connecting the formulae.
 2017_Bad_Santa_01.30.58.016-01.31.00.059 	cops yell, draw their guns and fire as willie clips a couple cars, skids and slues, and finally is clear of the pack.
-2026_Legion_00.12.41.370-00.12.41.471 	kyle grabs a crumpled hand drawn map from the front seat and flattens it out on the roof of the car.
-2027_Les_Miserables_00.25.16.234-00.25.17.643 	the whores cluster round her, hands reaching out to draw her in to their world.
-2027_Les_Miserables_00.43.54.670-00.43.56.048 	javert draws his sword and aims it at valjean.
-1052_Harry_Potter_and_the_order_of_phoenix_01.59.35.562-01.59.42.432 	dumbledore draws a great wave of water from the pools surrounding the fountain and submerges voldemort.
-1053_Harry_Potter_and_the_philosophers_stone_00.37.50.067-00.37.59.553 	the train draws into a small country station.
-1053_Harry_Potter_and_the_philosophers_stone_02.01.25.855-02.01.28.689 	fierce warriors bar their way with drawn swords.
-1053_Harry_Potter_and_the_philosophers_stone_02.08.57.484-02.09.08.848 	and harry is reluctantly drawn towards him.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.08.19.759-00.08.29.458 	a purple triple-decker bus draws up.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.22.07.264-00.22.11.317 	it seems to draw the energy out of him.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_01.45.14.094-01.45.17.766 	the light draws back across the lake.
-1056_Rambo_00.05.29.356-00.05.31.625 	he draws the bow-string.
-1056_Rambo_00.48.46.707-00.49.30.654 	rambo draws an arrow on lewis and aims it at the bald man's right eye.
-1056_Rambo_00.53.27.181-00.53.32.229 	rambo draws his homemade machete and runs up to the cage.
-1057_Seven_pounds_00.21.55.025-00.22.00.650 	he looks up from his book and watches a woman with two young boys who are drawing at a table nearby.
-1057_Seven_pounds_00.56.52.446-00.56.59.415 	ben puts emily's phone on the bed, draws up a chair and sits at her bedside.
-1057_Seven_pounds_01.01.19.254-01.01.30.135 	the fish is immediately partially paralyzed and drawn up towards the body of the jellyfish.
-1057_Seven_pounds_01.14.28.051-01.14.31.044 	she draws a strand of hair back behind her ear.
-1057_Seven_pounds_01.32.23.623-01.32.34.862 	ben gently draws her to him and plants a lingering kiss on her lips.
-1057_Seven_pounds_01.35.40.772-01.35.44.525 	ever-persistent, she draws his face to her and kisses his cheek.
-1060_Yes_man_00.26.53.447-00.26.54.903 	she draws back.
-1060_Yes_man_00.57.35.033-00.57.37.228 	she draws back and smiles impishly.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.37.17.612-00.37.20.807 	snape draws his wand.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.51.47.044-00.51.50.339 	she draws back her arm and plunges the fang in to the cup.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.58.28.530-00.58.39.921 	he walks very slowly and deliberately, drawn towards a clothed table.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.42.49.850-01.42.53.443 	as he draws the sword from the sorting hat, harry leaps from hagrid's arms.
-1062_Day_the_Earth_stood_still_00.20.32.354-00.20.34.856 	police vehicles draw up in convoy.
-1062_Day_the_Earth_stood_still_00.32.07.000-00.32.10.000 	he takes it and draws it shakily towards him.
-1062_Day_the_Earth_stood_still_01.08.28.613-01.08.31.357 	klaatu draws a sweeping arrow across the board, connecting the formulae.
-2017_Bad_Santa_01.30.58.016-01.31.00.059 	cops yell, draw their guns and fire as willie clips a couple cars, skids and slues, and finally is clear of the pack.
-2026_Legion_00.12.41.370-00.12.41.471 	kyle grabs a crumpled hand drawn map from the front seat and flattens it out on the roof of the car.
 2027_Les_Miserables_00.25.16.234-00.25.17.643 	the whores cluster round her, hands reaching out to draw her in to their world.
 2027_Les_Miserables_00.43.54.670-00.43.56.048 	javert draws his sword and aims it at valjean.
 2027_Les_Miserables_01.11.05.000-01.11.05.570 	as if drawn by marius's gaze, cosette looks up and meets his eyes.
 2027_Les_Miserables_01.12.36.904-01.12.37.336 	marius watches, as does gavroche, drawn by the rumpus.
+2027_Les_Miserables_01.36.17.684-01.36.18.671 	into frame comes a team of black horses stepping slowly, black plumes nodding, drawing behind them a gun carriage draped in the tricolour flag.
 2027_Les_Miserables_01.36.27.613-01.36.30.983 	as the coffin on its carriage draws level with the students, enjolras suddenly steps out in front of the horses drawing the carriage and waves the red flag, stopping the horses and the procession.
 2027_Les_Miserables_02.06.43.806-02.06.45.873 	javert draws his pistol and holds it to valjean's head.
 2041_This_is_40_00.59.54.698-00.59.58.274 	ronnie is drawing on a blackboard behind his desk.

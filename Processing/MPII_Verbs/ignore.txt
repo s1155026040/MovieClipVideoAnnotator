@@ -1,36 +1,37 @@
-0001_American_Beauty_00.28.47.038-00.28.50.004 	Angela shoots a wide-eyed look at Jane, who ignores it.
-0002_As_Good_As_It_Gets_00.01.09.359-00.01.11.284 	Melvin lets the elevator door close and advances on the mutt who has ignores him.
-0002_As_Good_As_It_Gets_00.29.08.285-00.29.13.769 	ignoring Verdell he sits at the piano and his one key repeatedly.
-0002_As_Good_As_It_Gets_00.45.16.266-00.45.22.761 	Melvin ignores the question, instead answering a charge he had imagined she might make.
-0005_Chinatown_00.34.21.552-00.34.23.485 	Escobar sees him, ignores him.
-0011_Gandhi_00.11.32.321-00.11.33.984 	Gandhi whispers, trying to ignore the crowd.
-0011_Gandhi_01.48.54.283-01.48.54.603 	And Nehru ignores the thought too, because like Azad his mind is already on the real danger.
-0011_Gandhi_02.48.22.599-02.48.29.951 	He is writing, Pyarelal taking the pages as he finishes, both ignoring all the people, the sounds of gunfire and distant shouting, but he looks tired and tightens his jaw occasionally in pain.
-0012_Get_Shorty_00.29.52.864-00.29.56.567 	Sitting down, he nods to Chili who ignores him.
-0014_Ist_das_Leben_nicht_schoen_00.53.14.693-00.53.15.842 	The people ignore George and remain standing in front of the teller's window.
-0014_Ist_das_Leben_nicht_schoen_01.39.44.379-01.39.45.971 	He is sipping a mug of hot coffee, staring at the stove, cold, gloomy and drunk, ignoring Clarence and the tollkeeper, preoccupied by his near suicide and his unsolved problems.
-0021_Rear_Window_01.13.52.613-01.13.53.213 	Doyle stares after her, ignoring her remark, still not recovered from the fist sight of her attractiveness.
-0023_THE_BUTTERFLY_EFFECT_00.49.22.021-00.49.25.893 	He ignores Thumper, who sits on Evan's bed sucking furiously from a gurgling bong.
-0023_THE_BUTTERFLY_EFFECT_01.26.28.952-01.26.34.106 	Evan is ignored by several Theta Chi pledges as he plops himself by a tree and hunts through his journal to find the entry from when he was seven and visited Jason at Sunnyvale.
-0023_THE_BUTTERFLY_EFFECT_01.36.09.915-01.36.14.215 	Evan focuses on Lenny, but it's hard to ignore the crowd that titters and snickers in the background.
-0027_The_Big_Lebowski_01.42.00.685-01.42.08.106 	Walter ignores the Dude, addresses the Germans.
-0030_The_Hustler_00.39.26.001-00.39.28.143 	She ignores him.
-0030_The_Hustler_00.47.23.276-00.47.24.488 	He tries to ignore her halting gait.
-0030_The_Hustler_02.00.58.319-02.01.04.130 	He walks through the lobby, ignoring the uniformed policeman standing nearby, and stops at the desk.
-0030_The_Hustler_02.08.31.369-02.08.35.575 	Eddie moves to take his shot, ignoring Fats altogether.
-0032_The_Princess_Bride_00.01.17.026-00.01.18.383 	The Mother ignores it, beats a retreat.
-0033_Amadeus_02.53.55.787-02.53.59.921 	Salieri ignores him and stares only at the priest, who stares back.
-0038_Psycho_00.08.07.948-00.08.14.417 	Mary glances, cannot bring herself to smile or make some remark, continues sorting out the deed copies, tries to ignore the man's hot-breath closeness.
-0049_Hannah_and_her_sisters_00.12.42.812-00.12.44.465 	Inside, a man and a woman talk, ignoring Ron.
-0049_Hannah_and_her_sisters_00.44.12.175-00.44.18.398 	The camera moves to Evan, who continues to tell his story, ignoring his wife's outburst, as he walks away from the kitchen doorway into the den.
-0049_Hannah_and_her_sisters_00.44.49.892-00.44.53.963 	Hannah, choosing to ignore Evan's remark, hands her mother a cup of coffee; she puts her mother's hands on the cup.
-0049_Hannah_and_her_sisters_01.24.44.411-01.24.47.068 	Hannah opens the refrigerator, totally ignoring Holly.
-0053_Rendezvous_mit_Joe_Black_00.16.14.969-00.16.20.200 	It is sharp but brief, he notices it but what it does not continue, he ignores it.
-0053_Rendezvous_mit_Joe_Black_00.23.03.436-00.23.10.415 	Parrish ignores her, his attention has been taken by the Voice.
-0053_Rendezvous_mit_Joe_Black_00.32.54.751-00.33.06.500 	Parrish ignores her at first, finally he looks at Luisa then at the Young Man, then once more at both of them as if to verify the Young Man's presence has been acknowledged by Luisa.
-1001_Flight_01.29.40.252-01.29.45.994 	She ignores Whip.
-1003_How_to_Lose_Friends_and_Alienate_People_00.38.43.791-00.38.46.807 	He tries to ignore Sidney, who's tapping a notebook with a pen.
-1006_Slumdog_Millionaire_01.01.14.692-01.01.21.120 	They ignore Salim as he takes out his gun from behind his back.
+0001_American_Beauty_00.28.47.038-00.28.50.004 	angela shoots a wide-eyed look at jane, who ignores it.
+0002_As_Good_As_It_Gets_00.01.09.359-00.01.11.284 	melvin lets the elevator door close and advances on the mutt who has ignores him.
+0002_As_Good_As_It_Gets_00.29.08.285-00.29.13.769 	ignoring verdell he sits at the piano and his one key repeatedly.
+0002_As_Good_As_It_Gets_00.45.16.266-00.45.22.761 	melvin ignores the question, instead answering a charge he had imagined she might make.
+0005_Chinatown_00.34.21.552-00.34.23.485 	escobar sees him, ignores him.
+0011_Gandhi_00.03.41.400-00.03.44.001 	ignoring her, his nerves even more taut, godse joins his hands together and bows in greeting to the mahatma.
+0011_Gandhi_00.11.32.321-00.11.33.984 	gandhi whispers, trying to ignore the crowd.
+0011_Gandhi_02.48.22.599-02.48.29.951 	he is writing, pyarelal taking the pages as he finishes, both ignoring all the people, the sounds of gunfire and distant shouting, but he looks tired and tightens his jaw occasionally in pain.
+0012_Get_Shorty_00.29.52.864-00.29.56.567 	sitting down, he nods to chili who ignores him.
+0014_Ist_das_Leben_nicht_schoen_00.53.14.693-00.53.15.842 	the people ignore george and remain standing in front of the teller's window.
+0014_Ist_das_Leben_nicht_schoen_01.39.44.379-01.39.45.971 	he is sipping a mug of hot coffee, staring at the stove, cold, gloomy and drunk, ignoring clarence and the tollkeeper, preoccupied by his near suicide and his unsolved problems.
+0021_Rear_Window_01.13.52.613-01.13.53.213 	doyle stares after her, ignoring her remark, still not recovered from the fist sight of her attractiveness.
+0023_THE_BUTTERFLY_EFFECT_00.49.22.021-00.49.25.893 	he ignores thumper, who sits on evan's bed sucking furiously from a gurgling bong.
+0023_THE_BUTTERFLY_EFFECT_01.26.28.952-01.26.34.106 	evan is ignored by several theta chi pledges as he plops himself by a tree and hunts through his journal to find the entry from when he was seven and visited jason at sunnyvale.
+0023_THE_BUTTERFLY_EFFECT_01.36.09.915-01.36.14.215 	evan focuses on lenny, but it's hard to ignore the crowd that titters and snickers in the background.
+0027_The_Big_Lebowski_01.42.00.685-01.42.08.106 	walter ignores the dude, addresses the germans.
+0030_The_Hustler_00.39.26.001-00.39.28.143 	she ignores him.
+0030_The_Hustler_00.47.23.276-00.47.24.488 	he tries to ignore her halting gait.
+0030_The_Hustler_02.00.58.319-02.01.04.130 	he walks through the lobby, ignoring the uniformed policeman standing nearby, and stops at the desk.
+0030_The_Hustler_02.08.31.369-02.08.35.575 	eddie moves to take his shot, ignoring fats altogether.
+0032_The_Princess_Bride_00.01.17.026-00.01.18.383 	the mother ignores it, beats a retreat.
+0033_Amadeus_02.53.55.787-02.53.59.921 	salieri ignores him and stares only at the priest, who stares back.
+0038_Psycho_00.08.07.948-00.08.14.417 	mary glances, cannot bring herself to smile or make some remark, continues sorting out the deed copies, tries to ignore the man's hot-breath closeness.
+0049_Hannah_and_her_sisters_00.12.42.812-00.12.44.465 	inside, a man and a woman talk, ignoring ron.
+0049_Hannah_and_her_sisters_00.44.12.175-00.44.18.398 	the camera moves to evan, who continues to tell his story, ignoring his wife's outburst, as he walks away from the kitchen doorway into the den.
+0049_Hannah_and_her_sisters_00.44.49.892-00.44.53.963 	hannah, choosing to ignore evan's remark, hands her mother a cup of coffee; she puts her mother's hands on the cup.
+0049_Hannah_and_her_sisters_01.24.44.411-01.24.47.068 	hannah opens the refrigerator, totally ignoring holly.
+0053_Rendezvous_mit_Joe_Black_00.16.14.969-00.16.20.200 	it is sharp but brief, he notices it but what it does not continue, he ignores it.
+0053_Rendezvous_mit_Joe_Black_00.23.03.436-00.23.10.415 	parrish ignores her, his attention has been taken by the voice.
+0053_Rendezvous_mit_Joe_Black_00.32.54.751-00.33.06.500 	parrish ignores her at first, finally he looks at luisa then at the young man, then once more at both of them as if to verify the young man's presence has been acknowledged by luisa.
+1001_Flight_01.29.40.252-01.29.45.994 	she ignores whip.
+1003_How_to_Lose_Friends_and_Alienate_People_00.24.01.314-00.24.04.861 	ignoring sidney she opens a book and starts to read.
+1003_How_to_Lose_Friends_and_Alienate_People_00.38.43.791-00.38.46.807 	he tries to ignore sidney, who's tapping a notebook with a pen.
+1006_Slumdog_Millionaire_01.01.14.692-01.01.21.120 	they ignore salim as he takes out his gun from behind his back.
 1008_Spider-Man2_01.13.02.124-01.13.06.495 	she ignores the prompt.
 1008_Spider-Man2_01.24.51.450-01.25.00.642 	inside, he ignores the flames and runs up the stairs.
 1012_Unbreakable_00.17.39.910-00.17.41.577 	she returns to her work, still ignoring him.
@@ -44,28 +45,21 @@
 1029_Pride_And_Prejudice_Disk_One_00.50.29.635-00.50.32.987 	he ignores her and turns the page.
 1030_Public_Enemies_00.41.30.866-00.41.33.532 	he ignores the panic maul and leans out an open window.
 1031_Quantum_of_Solace_00.10.51.584-00.10.53.813 	bond ignores the stairs and takes a flying leap after him.
+1031_Quantum_of_Solace_00.15.35.916-00.15.43.553 	ignoring a stolid guard, bond enters a flat, passes masked forensics officers, and joins m on the balcony.
 1033_Sherlock_Holmes_A_Game_of_Shadows_01.06.01.223-01.06.04.890 	a couple of them try to stop them but they ignore the men's protests.
 1035_The_Adjustment_Bureau_00.47.32.917-00.47.35.250 	a mini-van taxi ignores him.
 1041_This_is_40_00.29.09.437-00.29.11.365 	her sister ignores her.
 1047_Defiance_00.11.03.423-00.11.04.698 	she ignores him.
+1048_Gran_Torino_00.04.52.106-00.04.58.115 	ignoring them, walt picks up two metal folding chairs,
 1049_Harry_Potter_and_the_chamber_of_secrets_01.44.00.931-01.44.04.768 	harry ignores him and keeps on walking.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.46.43.483-01.46.47.025 	she ignores ron, rushing past him.
 1052_Harry_Potter_and_the_order_of_phoenix_00.30.28.883-00.30.32.061 	he looks over at seamus, who pointedly ignores him.
+1052_Harry_Potter_and_the_order_of_phoenix_00.44.50.870-00.44.57.506 	ignoring the apple, the baby thestral flaps its wings and gobbles up the meat.
 1056_Rambo_00.39.16.925-00.39.21.709 	he looks at rambo, who ignores him.
 1057_Seven_pounds_00.14.52.591-00.14.56.089 	inez ignores him.
 1057_Seven_pounds_00.16.35.840-00.16.39.750 	she ignores him and merely sighs.
 1057_Seven_pounds_01.21.07.613-01.21.12.956 	ben ignores him.
 1057_Seven_pounds_01.21.33.962-01.21.37.870 	ben ignores his phone.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.34.14.000-00.34.16.000 	ginny ignores ron.
-1062_Day_the_Earth_stood_still_00.10.26.852-00.10.32.000 	she stares at the expressionless agent who stares straight ahead ignoring her.
-2004_Juno_00.56.54.709-00.56.57.497 	the other kids wander over toward the play area while their mothers ignore them.
-2027_Les_Miserables_00.22.24.237-00.22.29.010 	fantine presses on down the steps, trying to ignore the sailors.
-1056_Rambo_00.39.16.925-00.39.21.709 	he looks at rambo, who ignores him.
-1057_Seven_pounds_00.14.52.591-00.14.56.089 	inez ignores him.
-1057_Seven_pounds_00.16.35.840-00.16.39.750 	she ignores him and merely sighs.
-1057_Seven_pounds_01.21.07.613-01.21.12.956 	ben ignores him.
-1057_Seven_pounds_01.21.33.962-01.21.37.870 	ben ignores his phone.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.34.14.000-00.34.16.000 	ginny ignores ron.
 1062_Day_the_Earth_stood_still_00.10.26.852-00.10.32.000 	she stares at the expressionless agent who stares straight ahead ignoring her.
 2004_Juno_00.56.54.709-00.56.57.497 	the other kids wander over toward the play area while their mothers ignore them.
 2027_Les_Miserables_00.22.24.237-00.22.29.010 	fantine presses on down the steps, trying to ignore the sailors.

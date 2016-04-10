@@ -1,5 +1,5 @@
-0008_Fargo_00.19.56.686-00.19.58.122 	Jean rushes toward the door, cloaked by the shower curtain but awkwardly trying to push it off.
-1051_Harry_Potter_and_the_goblet_of_fire_01.23.08.962-01.23.11.734 	the cloaked skeleton clutches the long scythe.
-1052_Harry_Potter_and_the_order_of_phoenix_00.04.06.445-00.04.09.505 	he grabs it as the cloaked figure swoops again.
-1053_Harry_Potter_and_the_philosophers_stone_01.21.41.088-01.21.49.910 	snape's cloak starts to burn.
-1053_Harry_Potter_and_the_philosophers_stone_01.21.41.088-01.21.49.910 	snape's cloak starts to burn.
+0008_Fargo_00.19.56.686-00.19.58.122 	jean rushes toward the door, cloaked by the shower curtain but awkwardly trying to push it off.
+1051_Harry_Potter_and_the_goblet_of_fire_00.10.51.191-00.10.57.757 	harry sees ominous cloaked figures with skeleton masks and tall pointed hats, carrying flaming torches.
+1052_Harry_Potter_and_the_order_of_phoenix_00.03.26.877-00.03.30.640 	a cloaked figure swoops in and grabs harry.
+1054_Harry_Potter_and_the_prisoner_of_azkaban_00.21.57.267-00.22.03.401 	the hideous cloaked figure floats into the compartment and faces harry.
+1054_Harry_Potter_and_the_prisoner_of_azkaban_00.28.40.131-00.28.47.275 	as the storm rages around hogwarts castle, the black- cloaked dementors hover outside the grounds of the school.

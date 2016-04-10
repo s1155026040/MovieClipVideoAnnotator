@@ -1,12 +1,14 @@
-0004_Charade_00.31.51.714-00.31.54.385 	She shrinks back.
-0005_Chinatown_00.17.16.491-00.17.17.325 	The Customer is shrinking back into the chair.
-0013_Halloween_01.16.23.916-01.16.25.455 	Laurie shrinks back into a dark corner.
-0017_Pianist_00.30.10.684-00.30.14.837 	Mother SCREAMS, Father shrinks back, Halina comforts him and Regina comforts Mother.
-0050_Indiana_Jones_and_the_last_crusade_01.17.11.987-01.17.14.298 	Shrink in their seats as the MESSERSCHMIDTS (going three times as fast as they are) SCREAM past on either side.
-0053_Rendezvous_mit_Joe_Black_00.26.29.962-00.26.37.433 	Parrish is startled, he shrinks backward for a moment, his eyes searching the room for the Voice, the timbre and pitch of which is exactly what he has heard before.
-1001_Flight_00.16.32.949-00.16.38.264 	Her dilated pupils shrink to tiny dots.
+0004_Charade_00.31.51.714-00.31.54.385 	she shrinks back.
+0005_Chinatown_00.17.16.491-00.17.17.325 	the customer is shrinking back into the chair.
+0013_Halloween_01.16.23.916-01.16.25.455 	laurie shrinks back into a dark corner.
+0017_Pianist_00.30.10.684-00.30.14.837 	mother screams, father shrinks back, halina comforts him and regina comforts mother.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.33.12.776-02.33.15.158 	frodo peers out from the seat.the world seems to shrink.
+0053_Rendezvous_mit_Joe_Black_00.26.29.962-00.26.37.433 	parrish is startled, he shrinks backward for a moment, his eyes searching the room for the voice, the timbre and pitch of which is exactly what he has heard before.
+1001_Flight_00.16.32.949-00.16.38.264 	her dilated pupils shrink to tiny dots.
 1033_Sherlock_Holmes_A_Game_of_Shadows_00.05.09.670-00.05.11.198 	he makes to attack the leader, who shrinks back.
 1043_Vantage_Point_00.42.44.041-00.42.51.546 	the firey explosion shrinks into nothing, blackness.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.06.28.529-00.06.32.541 	she shrinks back.
+1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.13.39.249-00.13.45.985 	he sips, grimaces, passes the flask to george, and starts to shrink.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.36.39.087-01.36.45.195 	the shape of the doe shrinks to a ball of light.
 2027_Les_Miserables_01.27.50.204-01.27.58.935 	thenardier and his gang shrink into the shadows, as eponine's scream ends at last.
+2054_Harry_Potter_and_the_prisoner_of_azkaban_01.04.22.169-01.04.23.642 	three shrunken heads swing into view.

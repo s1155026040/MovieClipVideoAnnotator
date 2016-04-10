@@ -1,0 +1,6 @@
+JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS177 	00:33:18,00 --> 00:33:22,50 	she resumes practicing.
+KARATE_KID.srt 	KARATE_KID_DVS150 	00:13:03,00 --> 00:13:08,50 	someone notices a pre-teen chinese girl sitting on a bench, practicing finger positions on a violin.
+KARATE_KID.srt 	KARATE_KID_DVS337 	00:30:42,00 --> 00:30:48,50 	as someone scrambles away, someone resumes practicing.
+KARATE_KID.srt 	KARATE_KID_DVS913 	01:14:23,00 --> 01:14:31,50 	he continues sweeping the jacket around his body, practicing as he heads out of the courtyard.
+KATY_PERRY_PART_OF_ME.srt 	KATY_PERRY_PART_OF_ME_DVS40 	00:06:25,00 --> 00:06:33,50 	in a hallway backstage, two costumed women practice dance moves.
+ZOMBIELAND.srt 	ZOMBIELAND_DVS441 	00:50:02,00 --> 00:50:09,50 	in the sitting room, someone swings a golf club, practicing her drives.

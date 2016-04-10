@@ -1,0 +1,4 @@
+BRUNO.srt 	BRUNO_DVS52 	00:10:13,00 --> 00:10:31,50 	the agent responds with a bemused frown.
+DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS64 	00:10:30,00 --> 00:10:37,50 	slightly bemused, someone looks around the plush office and smiles to himself.
+IN_TIME.srt 	IN_TIME_DVS110 	00:12:28,00 --> 00:12:34,50 	someone faces the rich man with a bemused frown.
+LITTLE_FOCKERS.srt 	LITTLE_FOCKERS_DVS13 	00:03:13,00 --> 00:03:18,50 	someone gives someone a bemused frown.

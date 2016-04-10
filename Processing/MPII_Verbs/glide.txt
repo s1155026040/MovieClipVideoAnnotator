@@ -1,44 +1,34 @@
-0006_Clerks_00.44.00.065-00.44.03.170 	From across the street we get the full, odd perspective: a store with many men gliding around on the roof.
-0009_Forrest_Gump_01.29.41.106-01.29.46.171 	Forrest stands at the helm as the boat glides across the water.
-0013_Halloween_00.04.06.132-00.04.15.124 	The POV glides silently through the house into the kitchen, up to a drawer.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_03.09.50.786-03.10.07.527 	SAM, MERRY and PIPPIN comfort each other as the WHITE SHIP glides away from the DOCK.
+0006_Clerks_00.44.00.065-00.44.03.170 	from across the street we get the full, odd perspective: a store with many men gliding around on the roof.
+0009_Forrest_Gump_01.29.41.106-01.29.46.171 	forrest stands at the helm as the boat glides across the water.
+0013_Halloween_00.04.06.132-00.04.15.124 	the pov glides silently through the house into the kitchen, up to a drawer.
+0014_Ist_das_Leben_nicht_schoen_01.07.09.126-01.07.19.704 	the big black limousine glides away, leaving george standing with his arm around mary, gazing broodingly after it.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_03.09.50.786-03.10.07.527 	sam, merry and pippin comfort each other as the white ship glides away from the dock.
 0027_The_Big_Lebowski_00.06.35.317-00.06.35.955 	balls gliding down lanes
-0027_The_Big_Lebowski_01.22.51.715-01.22.58.090 	The Dude twists his body around, performing a barrel-roll so that he is now gliding along the lane face-up.
-0027_The_Big_Lebowski_01.23.03.311-01.23.09.973 	The Dude smiles dreamily and does a backstroke motion so that he is once again gliding face-down.
-0032_The_Princess_Bride_01.00.03.390-01.00.05.982 	As she glides out.
-0043_Thelma_and_Luise_00.49.02.000-00.49.12.366 	She glides along as the cop car passes on the other side without seeing them.
-0043_Thelma_and_Luise_00.49.20.614-00.49.26.555 	Louise glides right back onto the road as if nothing unusual has happened at all.
-0050_Indiana_Jones_and_the_last_crusade_00.44.41.499-00.44.53.034 	A Mercedes-Benz glides through the sharp mountain curves.
-0053_Rendezvous_mit_Joe_Black_00.15.53.647-00.15.56.153 	Drew, on his way out, glides past Jennifer's desk.
-0053_Rendezvous_mit_Joe_Black_02.48.38.269-02.48.45.838 	She hesitates, now glides away from the party, her step quickens as she walks up towards the hill.
-1001_Flight_00.26.48.197-00.26.56.075 	It glides overhead, both engines on fire.
-1003_How_to_Lose_Friends_and_Alienate_People_00.27.14.610-00.27.17.723 	Night, Sidney gazes out through the window of a sleek black automobile as it glides through Manhattan.
-1003_How_to_Lose_Friends_and_Alienate_People_01.24.14.413-01.24.17.370 	Drenched by the rain, he stares at them with window glides up.
-1007_Spider-Man1_00.16.05.021-00.16.10.587 	The trolley glides into a large, glass chamber.
-1007_Spider-Man1_00.46.06.930-00.46.14.366 	down below, the hijacked car takes a right gliding behind him and sending water into the air.
-1007_Spider-Man1_01.30.54.259-01.30.56.387 	the green goblin glides in.
+0027_The_Big_Lebowski_01.22.51.715-01.22.58.090 	the dude twists his body around, performing a barrel-roll so that he is now gliding along the lane face-up.
+0027_The_Big_Lebowski_01.23.03.311-01.23.09.973 	the dude smiles dreamily and does a backstroke motion so that he is once again gliding face-down.
+0032_The_Princess_Bride_01.00.03.390-01.00.05.982 	as she glides out.
+0043_Thelma_and_Luise_00.49.02.000-00.49.12.366 	she glides along as the cop car passes on the other side without seeing them.
+0053_Rendezvous_mit_Joe_Black_00.15.53.647-00.15.56.153 	drew, on his way out, glides past jennifer's desk.
+0053_Rendezvous_mit_Joe_Black_02.48.38.269-02.48.45.838 	she hesitates, now glides away from the party, her step quickens as she walks up towards the hill.
+1001_Flight_00.26.48.197-00.26.56.075 	it glides overhead, both engines on fire.
+1003_How_to_Lose_Friends_and_Alienate_People_00.27.14.610-00.27.17.723 	night, sidney gazes out through the window of a sleek black automobile as it glides through manhattan.
+1007_Spider-Man1_00.16.05.021-00.16.10.587 	the trolley glides into a large, glass chamber.
+1007_Spider-Man1_01.07.41.711-01.07.43.139 	the green goblin glides up.
 1007_Spider-Man1_01.40.08.370-01.40.10.468 	he glides over the ducking mj.
-1007_Spider-Man1_01.44.13.408-01.44.19.975 	the green goblin glides in for the kill as spider-man is lowering the cable car towards the barge.
-1008_Spider-Man2_00.27.13.045-00.27.16.556 	peter glides serenely along a street on his moped.
 1008_Spider-Man2_02.02.41.220-02.02.48.687 	as she glides elegantly down from on high, the convoy of cars draws closer to her, their lights flashing.
 1009_Spider-Man3_00.48.30.564-00.48.34.118 	he glides onto the stage upside down.
 1009_Spider-Man3_00.50.45.092-00.50.47.706 	he hits wreckage and glides off it as if it were a ramp.
 1009_Spider-Man3_01.58.57.480-01.59.01.395 	a searchlight picks out the new goblin gliding through the air on his sky stick.
 1009_Spider-Man3_01.59.09.432-01.59.14.957 	his mask peeling back to reveal harry's disfigured face, he glides up alongside battered peter.
-1010_TITANIC_00.03.24.134-00.03.32.713 	both subs glide of the wreck and illuminate twisted metal shapes encrusted with grayish growth
-1010_TITANIC_00.05.17.919-00.05.24.568 	powered by a small propeller, duncan glides past the door.
 1010_TITANIC_00.05.54.039-00.05.55.706 	snoop dog glides up a corridor.
 1010_TITANIC_00.07.06.045-00.07.11.749 	snoop dog glides into a room.
 1010_TITANIC_00.26.57.366-00.27.10.128 	turning up clouds of silt, on the dock, a bearded man turns a crank on a movie camera as the ship glides forward.
 1010_TITANIC_00.27.21.977-00.27.27.615 	four rows of portholes line the sides of the ocean liner which glides past a small two-manned sailboat.
-1020_Crazy_Stupid_Love_00.35.07.030-00.35.09.594 	she glances up as robbie glides past her desk on an office chair.
-1029_Pride_And_Prejudice_Disk_One_00.13.32.226-00.13.36.759 	then, in unison, glide across the floor, back and forth, a blaze of color and feathers.
 1029_Pride_And_Prejudice_Disk_One_01.30.48.124-01.30.58.334 	the women hold out their arms gracefully forming delicate arcs before gliding back into their starting positions.
-1030_Public_Enemies_01.08.20.234-01.08.29.371 	behind them, an el train glides across a bridge, its interior lights glowing in the darkness.
 1030_Public_Enemies_01.56.29.419-01.56.32.594 	the door glides shut.
 1035_The_Adjustment_Bureau_01.07.44.325-01.07.48.616 	david rides in the back of a cab, his eyes shifting to his window as the city's glimmering lights glide past.
 1037_The_Curious_Case_Of_Benjamin_Button_00.30.33.360-00.30.35.084 	he waves a crutch in the air as the tram glides off.
-1038_The_Great_Gatsby_00.32.06.998-00.32.08.571 	jordan glides across the confetti-covered dance floor and up the stairs.
+1038_The_Great_Gatsby_00.25.57.330-00.25.58.785 	an extremely attractive young woman glides through the proceedings.
 1049_Harry_Potter_and_the_chamber_of_secrets_02.03.42.501-02.03.50.218 	one snake glides around the circumference, unlocking the mechanism.
 1049_Harry_Potter_and_the_chamber_of_secrets_02.11.45.725-02.11.48.820 	it glides of backwards and makes it way down a different tunnel.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.09.33.318-00.09.42.512 	it glides on to the table and slithers towards the dead woman.
@@ -48,12 +38,6 @@
 1053_Harry_Potter_and_the_philosophers_stone_00.39.11.950-00.39.18.403 	it towers above them as the fleet of little boats glides closer to the cliff on which it stands.
 1053_Harry_Potter_and_the_philosophers_stone_02.05.12.545-02.05.21.869 	he clings onto the reins, shaking with fear, as the queen gets closer and closer, gliding over the smooth marble floor.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_02.02.34.701-02.02.47.837 	swooping over hogwarts castle, the hippogriff glides down towards the dark tower where sirius is imprisoned.
-1057_Seven_pounds_00.07.06.641-00.07.12.091 	traffic glides along a sunny freeway.
-1057_Seven_pounds_01.48.14.717-01.48.23.716 	the box jellyfish glides through the water and up to tim's hand.
-1053_Harry_Potter_and_the_philosophers_stone_00.00.34.231-00.00.38.618 	as it glides silently away through the trees, an upright elderly gentleman appears out of the shadows.
-1053_Harry_Potter_and_the_philosophers_stone_00.39.11.950-00.39.18.403 	it towers above them as the fleet of little boats glides closer to the cliff on which it stands.
-1053_Harry_Potter_and_the_philosophers_stone_02.05.12.545-02.05.21.869 	he clings onto the reins, shaking with fear, as the queen gets closer and closer, gliding over the smooth marble floor.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_02.02.34.701-02.02.47.837 	swooping over hogwarts castle, the hippogriff glides down towards the dark tower where sirius is imprisoned.
-1057_Seven_pounds_00.07.06.641-00.07.12.091 	traffic glides along a sunny freeway.
-1057_Seven_pounds_01.48.14.717-01.48.23.716 	the box jellyfish glides through the water and up to tim's hand.
+2054_Harry_Potter_and_the_prisoner_of_azkaban_00.24.17.802-00.24.24.091 	the camera as it glides toward the windows of the great hall, toward the candlelit silhouettes glimmering within, passing through the glass.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_01.22.29.270-01.22.37.239 	we fade up on a moving pov of a crow as it glides to the flock circling the feet of a pot-bellied man (the executioner) sitting in the courtyard.
+2054_Harry_Potter_and_the_prisoner_of_azkaban_01.55.37.132-01.55.41.551 	subjective pov, gliding through a thicket of trees, to the forest's edge, the trees thinning, revealing.

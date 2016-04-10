@@ -1,20 +1,21 @@
-0001_American_Beauty_00.04.01.342-00.04.02.858 	Carolyn looks down at us, contemptuous but also bored, as if she gave up expecting anything more long ago.
-0001_American_Beauty_00.04.01.342-00.04.02.858 	Carolyn looks down at us, contemptuous but also bored, as if she gave up expecting anything more long ago.
-0001_American_Beauty_00.25.56.289-00.25.56.933 	A beat, as Ricky continues his calculations, before he realizes a response is expected from him.
-0001_American_Beauty_01.33.06.884-01.33.12.269 	She places her hand on his arm flirtatiously, looks up at him and smiles, fully expecting to intimidate him by doing so.
-0002_As_Good_As_It_Gets_01.40.46.164-01.40.50.695 	Carol never expected the kind of praise which would so slip under her guard.
-0005_Chinatown_01.43.48.279-01.43.51.967 	VIEW WIDENS TO INCLUDE Escobar, Gittes, and two Plain clothesmen, standing and staring at the empty pipe as if they expect it to talk.
-0007_DIE_NACHT_DES_JAEGERS_00.28.48.408-00.28.52.480 	His hand comes up; she puts out her own, expecting a loving hand-clasp; but PREACHER points to the window.
-0010_Frau_Ohne_Gewissen_00.45.13.810-00.45.14.128 	He makes a gesture as if expecting Keyes to leave.
-0011_Gandhi_00.12.22.661-00.12.26.790 	This last has come more firmly, and he lifts his head to the crowd, as though expecting a reaction.
-0011_Gandhi_00.12.58.313-00.12.59.076 	At last Gandhi has got a reaction, but the dropping of the card has been as matter-of-fact as his speaking, with none of the drama one might expect from so startling a gesture.
-0011_Gandhi_00.39.44.520-00.39.49.763 	He measures Gandhi challengingly, obviously expecting some contest.
-0026_The_Big_Fish_01.31.04.432-01.31.08.373 	While Will sips his iced tea, Jenny flips through a form she never expected to see again.
-0031_The_Lost_Weekend_00.56.24.494-00.56.29.741 	At that moment the waiter returns, expecting to be paid.
-0032_The_Princess_Bride_01.26.05.900-01.26.07.785 	COUNT RUGEN, stepping back for just a moment, watching as Inigo continues to inch his way to his feet and then, just before the Count is about to strike again, Inigo manages a little flick of his own and Rugen hadn't expected it, and he jumps back, makes a little involuntary cry of surprise and.
-0038_Psycho_00.27.38.486-00.27.43.320 	Mary, having seen the woman, expects now that she will get some attention.
-0051_Men_in_black_00.13.23.398-00.13.29.152 	Edgar is everything his voice led us to expect -- a nasty, bug-eyed redneck carrying a twelve-gauge shotgun.
+0001_American_Beauty_00.04.01.342-00.04.02.858 	carolyn looks down at us, contemptuous but also bored, as if she gave up expecting anything more long ago.
+0001_American_Beauty_00.25.56.289-00.25.56.933 	a beat, as ricky continues his calculations, before he realizes a response is expected from him.
+0001_American_Beauty_01.33.06.884-01.33.12.269 	she places her hand on his arm flirtatiously, looks up at him and smiles, fully expecting to intimidate him by doing so.
+0002_As_Good_As_It_Gets_01.40.46.164-01.40.50.695 	carol never expected the kind of praise which would so slip under her guard.
+0005_Chinatown_01.43.48.279-01.43.51.967 	view widens to include escobar, gittes, and two plain clothesmen, standing and staring at the empty pipe as if they expect it to talk.
+0007_DIE_NACHT_DES_JAEGERS_00.28.48.408-00.28.52.480 	his hand comes up; she puts out her own, expecting a loving hand-clasp; but preacher points to the window.
+0010_Frau_Ohne_Gewissen_00.45.13.810-00.45.14.128 	he makes a gesture as if expecting keyes to leave.
+0011_Gandhi_00.12.22.661-00.12.26.790 	this last has come more firmly, and he lifts his head to the crowd, as though expecting a reaction.
+0011_Gandhi_00.12.58.313-00.12.59.076 	at last gandhi has got a reaction, but the dropping of the card has been as matter-of-fact as his speaking, with none of the drama one might expect from so startling a gesture.
+0011_Gandhi_00.39.44.520-00.39.49.763 	he measures gandhi challengingly, obviously expecting some contest.
+0019_Pulp_Fiction_01.00.31.416-01.00.33.629 	lance, on this knees right beside vincent, does not know what to expect.
+0026_The_Big_Fish_01.31.04.432-01.31.08.373 	while will sips his iced tea, jenny flips through a form she never expected to see again.
+0031_The_Lost_Weekend_00.56.24.494-00.56.29.741 	at that moment the waiter returns, expecting to be paid.
+0032_The_Princess_Bride_00.48.27.551-00.48.28.467 	something we hadn't expected: humperdinck on his horse, rugen beside him.
+0032_The_Princess_Bride_01.26.05.900-01.26.07.785 	count rugen, stepping back for just a moment, watching as inigo continues to inch his way to his feet and then, just before the count is about to strike again, inigo manages a little flick of his own and rugen hadn't expected it, and he jumps back, makes a little involuntary cry of surprise and.
+0038_Psycho_00.27.38.486-00.27.43.320 	mary, having seen the woman, expects now that she will get some attention.
+0051_Men_in_black_00.13.23.398-00.13.29.152 	edgar is everything his voice led us to expect -- a nasty, bug-eyed redneck carrying a twelve-gauge shotgun.
 1008_Spider-Man2_00.31.32.363-00.31.34.019 	mj looks around briefly as if expecting to see peter, but there's nobody there.
-2026_Legion_00.32.08.572-00.32.09.631 	michael looks at her, as if she was exactly who he expected to see.
+1059_The_devil_wears_prada_01.38.43.539-01.38.48.000 	expecting andy to be behind her, miranda turns back to address her.
 2026_Legion_00.32.08.572-00.32.09.631 	michael looks at her, as if she was exactly who he expected to see.
 2027_Les_Miserables_01.36.56.026-01.36.57.105 	they turn off the main street away from the expected course of the funeral procession.

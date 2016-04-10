@@ -1,0 +1,21 @@
+CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS313 	00:59:30,00 --> 00:59:37,50 	he dashes across the yard and scurries up one of the armored vehicles, then climbs onto the roof of a low building.
+COLOMBIANA.srt 	COLOMBIANA_DVS967 	01:33:10,00 --> 01:33:16,50 	scurrying to a row of luxury cars, they climb into a mercedes.
+HUGO.srt 	HUGO_DVS23 	00:03:00,00 --> 00:03:08,50 	at the bottom, he runs past damp brick walls then scurries through a labyrinth of pipes and machinery.
+IN_TIME.srt 	IN_TIME_DVS746 	01:19:02,00 --> 01:19:07,50 	someone and someone scurry down a slanted roof.
+KARATE_KID.srt 	KARATE_KID_DVS449 	00:40:16,00 --> 00:40:23,50 	he scurries from the cab to a parked car and crouches behind it.
+LIFE_OF_PI.srt 	LIFE_OF_PI_DVS501 	00:55:32,00 --> 00:55:40,50 	his enormous mass knocks someone onto his back on the canvas and the rat scurries along the cover.
+LIFE_OF_PI.srt 	LIFE_OF_PI_DVS782 	01:20:08,00 --> 01:20:13,50 	someone charges and the tiger scurries below.
+MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS439 	00:51:29,00 --> 00:51:35,50 	the penguin turns back, then scurries out as someone joins them.
+PROMETHEUS.srt 	PROMETHEUS_DVS978 	01:47:38,00 --> 01:47:48,50 	she falls on her rear, scurries back toward some jagged rocks, then watches one end of the ship come down with no chance of escape.
+PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS464 	01:28:53,00 --> 01:29:03,50 	a view through the leafy canopy shows the criminals scurrying off.
+SALT.srt 	SALT_DVS154 	00:26:54,00 --> 00:27:17,50 	she scurries to her apartment door where she slides a hidden key from the frame.
+SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS55 	00:11:26,00 --> 00:11:32,50 	the last roaches melt into his skin and scurry into his mouth.
+SPARKLE_2012.srt 	SPARKLE_2012_DVS44 	00:07:38,00 --> 00:07:46,50 	the girls scurry into a queen-size bed and pull over the blankets, pretending to sleep.
+SUPER_8.srt 	SUPER_8_DVS102 	00:17:23,00 --> 00:17:31,50 	as the front train cars rise into the air and crash into poll, the boys drop the camera and scurry down the platform.
+THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS343 	01:04:03,00 --> 01:04:07,50 	he scurries down some steps.
+THE_WATCH.srt 	THE_WATCH_DVS350 	01:01:11,00 --> 01:01:16,50 	the guys scurry across the street to someone's house.
+THOR.srt 	THOR_DVS350 	00:53:24,00 --> 00:53:32,50 	while scientist in white lab coats scurry around someone still embedded in stone.
+THOR.srt 	THOR_DVS499 	01:21:46,00 --> 01:21:52,50 	as agents scurry for cover, the destroyer incinerates several vehicles.
+THOR.srt 	THOR_DVS555 	01:27:47,00 --> 01:27:52,50 	computer screens flicker as technicians scurry about.
+TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS291 	00:35:22,00 --> 00:35:31,50 	someone scurries away.
+TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS441 	00:46:47,00 --> 00:46:52,50 	someone watches as someone scurries away.

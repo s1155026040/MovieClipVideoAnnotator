@@ -1,0 +1,27 @@
+A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS336 	00:59:33,00 --> 00:59:40,50 	frowning someone snatches his watch back from the nun, who both make the sign of the cross.
+CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS588 	00:56:50,00 --> 00:56:55,50 	frowning resentfully, someone paddles away.
+GET_HIM_TO_THE_GREEK.srt 	GET_HIM_TO_THE_GREEK_DVS149 	01:25:49,00 --> 01:26:01,50 	he frowns.
+IRON_MAN_2.srt 	IRON_MAN_2_DVS676 	01:51:47,00 --> 01:51:58,50 	pepper tilts her head and, frowning, stares at the drone's flashing reactor.
+JACK_AND_JILL.srt 	JACK_AND_JILL_DVS178 	00:34:57,00 --> 00:35:01,50 	she frowns to herself.
+JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS533 	01:46:00,00 --> 01:46:04,50 	she frowns.
+JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS69 	00:24:09,00 --> 00:24:14,50 	she frowns as he coldly approaches.
+KARATE_KID.srt 	KARATE_KID_DVS1189 	01:37:31,00 --> 01:37:36,50 	someone looks to someone, who frowns through the windshield,
+LAND_OF_THE_LOST.srt 	LAND_OF_THE_LOST_DVS182 	01:05:27,00 --> 01:05:39,50 	she stops, frowning.
+LITTLE_FOCKERS.srt 	LITTLE_FOCKERS_DVS126 	00:46:06,00 --> 00:46:11,50 	she unzips his jacket and he frowns.
+MORNING_GLORY.srt 	MORNING_GLORY_DVS396 	01:26:50,00 --> 01:26:54,50 	he frowns thoughtfully.
+NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS160 	00:26:10,00 --> 00:26:14,50 	he frowns heavily.
+NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS496 	01:32:00,00 --> 01:32:04,50 	she frowns.
+PROMETHEUS.srt 	PROMETHEUS_DVS604 	01:07:05,00 --> 01:07:10,50 	he pauses, frowning gravely.
+ROBIN_HOOD.srt 	ROBIN_HOOD_DVS205 	00:49:44,00 --> 00:49:55,50 	he frowns at king someone who dismisses him.
+RUBY_SPARKS.srt 	RUBY_SPARKS_DVS449 	01:08:42,00 --> 01:08:46,50 	he frowns shamefully.
+SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS295 	00:19:54,00 --> 00:20:00,50 	her mother pauses as she eats, frowning at her daughter's sullen downcast gaze.
+THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS63 	00:12:02,00 --> 00:12:12,50 	she frowns.
+THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS121 	00:24:23,00 --> 00:24:31,50 	someone looks away, shifting her wary gaze then frowns at him again.
+THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS430 	01:05:10,00 --> 01:05:15,50 	the teen shuts his eyes, frowning against the light.
+THE_VOW.srt 	THE_VOW_DVS71 	00:06:26,00 --> 00:06:32,50 	she frowns at a box left on a table by a window.
+THE_VOW.srt 	THE_VOW_DVS456 	01:05:58,00 --> 01:06:02,50 	she frowns.
+THOR.srt 	THOR_DVS515 	01:23:11,00 --> 01:23:19,50 	sitting atop it's back, someone grins then frowns as the destroyer's hollow head glows once again.
+TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS263 	00:33:41,00 --> 00:33:46,50 	then frowns uncertainly at the towering bed.
+TRUE_GRIT.srt 	TRUE_GRIT_DVS93 	00:24:08,00 --> 00:24:13,50 	she frowns restlessly and wakes.
+TRUE_GRIT.srt 	TRUE_GRIT_DVS194 	00:43:10,00 --> 00:43:16,50 	someone watches, frowning as someone rides off across the plains.
+ZOOKEEPER.srt 	ZOOKEEPER_DVS286 	01:02:52,00 --> 01:03:00,50 	he frowns to himself as the groom walks off.

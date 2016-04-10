@@ -1,0 +1,3 @@
+JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS455 	01:28:49,00 --> 01:28:57,50 	she highlights the last sentence, deletes it, and determinedly resumes typing.
+KARATE_KID.srt 	KARATE_KID_DVS1159 	01:35:46,00 --> 01:35:53,50 	someone pushes a button and the display reads, message deleted.
+THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS82 	00:16:17,00 --> 00:16:36,50 	someone deletes saved episodes of weeds and 30 rock from someone's tivo.

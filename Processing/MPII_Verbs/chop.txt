@@ -1,6 +1,15 @@
-0002_As_Good_As_It_Gets_00.28.55.169-00.29.00.344 	Melvin breaks two eggs over a large pile of prime chopped meat, sticks raw pieces of bacon into it and exits the room.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.28.53.275-00.29.01.120 	FARMER MAGGOT is chopping wood in his garden
-0032_The_Princess_Bride_00.03.02.071-00.03.04.547 	WESTLEY, outside, chopping wood.
-0050_Indiana_Jones_and_the_last_crusade_00.39.28.268-00.39.41.459 	By now half the boat has been chopped up into matchwood and the blades are getting closer.
-1005_Signs_01.00.30.346-01.00.37.190 	He spots some chopped vegetables sitting on a work top and lying next to them, a large kitchen knife.
+0002_As_Good_As_It_Gets_00.28.55.169-00.29.00.344 	melvin breaks two eggs over a large pile of prime chopped meat, sticks raw pieces of bacon into it and exits the room.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.28.53.275-00.29.01.120 	farmer maggot is chopping wood in his garden
+0032_The_Princess_Bride_00.03.02.071-00.03.04.547 	westley, outside, chopping wood.
+0050_Indiana_Jones_and_the_last_crusade_00.39.28.268-00.39.41.459 	by now half the boat has been chopped up into matchwood and the blades are getting closer.
+0053_Rendezvous_mit_Joe_Black_00.05.40.738-00.05.44.560 	the helicopter chops in overhead.
+1009_Spider-Man3_01.17.05.367-01.17.16.488 	he spoons chopped peppers into one pan, melts butter in another, and turns up the music with a remote.
+1009_Spider-Man3_01.17.16.488-01.17.18.720 	grinning cheerfully, he looks over his shoulder at mary jane chopping vegetables on the simple kitchen table.
+1014_2012_01.21.37.019-01.21.38.661 	grandma chops the chicken's head off.
+1017_Bad_Santa_00.10.34.809-00.10.40.495 	willie, now in a hawaiian shirt, stands behind the counter of a beachfront bar, chopping up some lemons and limes.
+1017_Bad_Santa_01.26.17.430-01.26.28.600 	eventually he gives up, and using the club like an ax, starts to chop the dummy's legs off.
+1028_No_Reservations_00.53.26.017-00.53.26.280 	three black truffles sit on one side of her chopping board.
+1028_No_Reservations_00.54.21.000-00.54.24.941 	he chats to zoe as he chops onions.
+1047_Defiance_00.10.48.086-00.10.49.099 	the wife is chopping meat.
+1047_Defiance_00.15.39.826-00.15.41.136 	zus is chopping at a tree.
 2017_Bad_Santa_01.26.40.102-01.26.49.629 	marcus, having chopped down the mannequin, drags off its stole.

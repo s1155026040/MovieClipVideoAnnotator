@@ -1,0 +1,4 @@
+SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1189 	01:20:25,00 --> 01:20:31,50 	she stares off with a dazed, stricken expression.
+THE_CALL.srt 	THE_CALL_DVS277 	00:24:26,00 --> 00:24:33,50 	opening her eyes, the dazed teen faces the interior of a car's trunk.
+WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS442 	01:09:11,00 --> 01:09:16,50 	someone looks on, dazed.
+XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS600 	00:55:58,00 --> 00:56:07,50 	the russian man blinks as if dazed, then shifts his gaze to someone as she greets a mustached general.

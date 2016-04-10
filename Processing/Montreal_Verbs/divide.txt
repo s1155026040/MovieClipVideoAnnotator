@@ -1,0 +1,4 @@
+DEAR_JOHN.srt 	DEAR_JOHN_DVS307 	00:47:55,00 --> 00:48:06,50 	she ducks under a dividing rope, and hurries around to the other side.
+IN_TIME.srt 	IN_TIME_DVS892 	01:34:34,00 --> 01:34:43,50 	spinning the wheel, he skids around a grassy island dividing the two directions of traffic and speeds after the limo.
+INSIDE_MAN.srt 	INSIDE_MAN_DVS56 	00:15:43,00 --> 00:15:48,50 	the hostages divide into two groups standing of a wide alcove that opens to the vault.
+THOR.srt 	THOR_DVS456 	01:14:16,00 --> 01:14:23,50 	someone smiles at someone as he draws lines dividing the cosmos into branching regions.

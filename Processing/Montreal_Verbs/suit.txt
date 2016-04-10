@@ -1,0 +1,10 @@
+IN_TIME.srt 	IN_TIME_DVS249 	00:25:41,00 --> 00:25:54,50 	suited men in sunglasses escort well-dressed citizens and chauffeurs assist patrons into cars.
+IN_TIME.srt 	IN_TIME_DVS257 	00:26:21,00 --> 00:26:29,50 	a suited man with sunglasses and a two-way radio earpiece leans toward the young woman.
+IN_TIME.srt 	IN_TIME_DVS259 	00:26:37,00 --> 00:26:43,50 	someone glances at the suited men escorting the hotel's patrons.
+IN_TIME.srt 	IN_TIME_DVS300 	00:30:55,00 --> 00:31:00,50 	someone glances at the suited men posted nearby.
+IN_TIME.srt 	IN_TIME_DVS844 	01:29:29,00 --> 01:29:37,50 	the suited men surround their charge and the group heads up a broad flight of stairs in the building's lobby.
+THE_CALL.srt 	THE_CALL_DVS493 	00:38:02,00 --> 00:38:09,50 	glancing over, the suited driver watches the mysterious man as the light turns.
+THE_CALL.srt 	THE_CALL_DVS518 	00:39:43,00 --> 00:39:52,50 	turning, he sees the suited driver beside his town car and tucks the bottle into his back pocket.
+THE_CALL.srt 	THE_CALL_DVS527 	00:40:48,00 --> 00:40:54,50 	with his brow tensed, the suited driver retrieves his cellphone.
+THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS124 	00:36:01,00 --> 00:36:09,50 	at the ritz-carlton residences, two suited men open the front double doors for someone as she strides out,
+TRUE_GRIT.srt 	TRUE_GRIT_DVS68 	00:17:24,00 --> 00:17:34,50 	black suited someone cogburn sits in a wooden chair.

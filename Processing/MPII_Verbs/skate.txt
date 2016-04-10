@@ -1,10 +1,6 @@
-0006_Clerks_00.43.11.732-00.43.13.090 	SANFORD skates up and skids to a halt.
-0006_Clerks_00.43.59.963-00.44.04.256 	ON THE ROOF they jump off the ladder and skate around.
-0006_Clerks_00.44.11.245-00.44.13.499 	On the roof DANTE skates and passes with another player.
-0006_Clerks_00.44.25.321-00.44.25.384 	SANFORD skates in and takes a shot, which RANDAL blocks.
-0006_Clerks_00.45.04.362-00.45.06.213 	DANTE skates to his side.
-0006_Clerks_00.46.26.557-00.46.27.755 	SANFORD skates up to him.
-0006_Clerks_00.46.52.267-00.46.53.319 	DANTE skates off.
-1060_Yes_man_01.39.44.000-01.39.59.658 	carl and allison skate down the winding road on their bellies.
+0006_Clerks_00.43.11.732-00.43.13.090 	sanford skates up and skids to a halt.
+0006_Clerks_00.43.59.963-00.44.04.256 	on the roof they jump off the ladder and skate around.
+0006_Clerks_00.46.26.557-00.46.27.755 	sanford skates up to him.
+0006_Clerks_00.46.52.267-00.46.53.319 	dante skates off.
 1060_Yes_man_01.39.44.000-01.39.59.658 	carl and allison skate down the winding road on their bellies.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_01.10.29.280-01.10.30.993 	the hair skates off harry's scar.

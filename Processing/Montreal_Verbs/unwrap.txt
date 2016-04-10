@@ -1,0 +1,13 @@
+A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS647 	01:06:42,00 --> 01:06:48,50 	with gloved hands, someone unwraps it as someone watches.
+DISTRICT_9.srt 	DISTRICT_9_DVS305 	00:33:39,00 --> 00:33:48,50 	two men unwrap an alien body part.
+DISTRICT_9.srt 	DISTRICT_9_DVS867 	01:44:10,00 --> 01:44:19,50 	now, someone gingerly unwraps a bundle of pink tissue, revealing a delicate metal sculpture of a flower.
+HUGO.srt 	HUGO_DVS163 	00:23:03,00 --> 00:23:07,50 	someone unwraps the automaton.
+ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS25 	00:06:56,00 --> 00:07:28,50 	she unwraps a white shawl from her shoulders, tosses it on to a dining room chair, and removes an earring.
+ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS269 	01:16:16,00 --> 01:16:22,50 	she unwraps the slender book with the bright cover.
+JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS131 	00:23:24,00 --> 00:23:29,50 	she unwraps it, revealing a thick book.
+LIFE_OF_PI.srt 	LIFE_OF_PI_DVS491 	00:54:45,00 --> 00:54:50,50 	unwrapping a nutritional biscuit, he takes a big bite.
+LIFE_OF_PI.srt 	LIFE_OF_PI_DVS995 	01:37:51,00 --> 01:37:59,50 	looking down, he stops and unties someone's string bracelet, unwrapping it from his wrist.
+MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS326 	00:41:40,00 --> 00:41:46,50 	someone unwraps his bottle and pops the cork.
+SALT.srt 	SALT_DVS229 	00:39:20,00 --> 00:39:44,50 	facing a mirror, she unwraps it.
+WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS246 	00:40:14,00 --> 00:40:21,50 	someone removes the seal decorated with magic marker then unwraps the sandwich.
+XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS58 	00:04:47,00 --> 00:04:52,50 	he unwraps the candy.

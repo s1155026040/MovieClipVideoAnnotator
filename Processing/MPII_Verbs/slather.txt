@@ -1,1 +1,2 @@
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.26.45.660-01.26.49.591 	Thousands of FLAMING TORCHES light the snarling, slathering MORGUL ORCS.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.26.45.660-01.26.49.591 	thousands of flaming torches light the snarling, slathering morgul orcs.
+1026_Legion_00.35.06.558-00.35.08.069 	kyle looks out through slathered blinds.

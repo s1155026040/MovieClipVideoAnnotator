@@ -1,0 +1,7 @@
+ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS84 	00:09:29,00 --> 00:09:34,50 	as he loads a bullet, a shove of the door jostles him.
+ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS615 	01:26:38,00 --> 01:26:52,50 	as someone ducks a punch, the pair gets jostled atop the last railcar.
+ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS633 	01:29:15,00 --> 01:29:34,50 	jostling inside a railcar, someone braces himself and someone rises to his knees.
+CHRONICLE.srt 	CHRONICLE_DVS367 	00:56:31,00 --> 00:56:36,50 	his jostling camera view heads down some stairs.
+COLOMBIANA.srt 	COLOMBIANA_DVS843 	01:20:53,00 --> 01:21:00,50 	agent someone stands calmly in an elevator that jostles with the force of the explosion.
+RUBY_SPARKS.srt 	RUBY_SPARKS_DVS577 	01:26:48,00 --> 01:26:55,50 	the typewriter bounces, jostling the sentence's period.
+THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS376 	00:57:50,00 --> 00:57:56,50 	heading uphill, the jeep jostles its passengers.

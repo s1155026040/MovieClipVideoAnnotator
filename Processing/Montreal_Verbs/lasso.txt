@@ -1,0 +1,4 @@
+IRON_MAN_2.srt 	IRON_MAN_2_DVS655 	01:49:45,00 --> 01:50:04,50 	someone lassos someone and slings him against a rock.
+IRON_MAN_2.srt 	IRON_MAN_2_DVS659 	01:50:17,00 --> 01:50:23,50 	someone punches someone, who head butts someone, then lassos him again with a pulse whip.
+KARATE_KID.srt 	KARATE_KID_DVS1240 	01:41:30,00 --> 01:41:35,50 	the kung fu master lifts his head and finds another rope handle lassoing his other hand.
+TRUE_GRIT.srt 	TRUE_GRIT_DVS297 	01:03:20,00 --> 01:03:25,50 	one of them lassoes him with a rope, pulls him over, he drags him along the ground.

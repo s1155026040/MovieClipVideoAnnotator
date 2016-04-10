@@ -1,31 +1,24 @@
-0005_Chinatown_01.56.07.831-01.56.15.857 	Escobar's unmarked car pulls up to a stop in front of a Spanish duplex perched on the steep hillside.
-0011_Gandhi_00.22.12.476-00.22.16.602 	But they have come by a site where a building is being erected, and a European (Kallenbach) is perched above a doorway on the half-completed structure, getting a level.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.33.05.600-02.33.06.932 	Frodo suddenly finds himself on the stone steps.he clambers up the stairs, onto a high seat, perched on four stone pillars.
-0032_The_Princess_Bride_00.22.34.942-00.22.38.831 	The Man In Black is now perched at the edge of the elevated castle ruin.
-0032_The_Princess_Bride_00.40.39.608-00.40.41.298 	perched on top of the cliff, looking down at Westley and Buttercup.
-0038_Psycho_01.25.07.575-01.25.09.614 	He is staring at the shrike- like bird which is perched on the lamp shade.
-1003_How_to_Lose_Friends_and_Alienate_People_00.21.14.977-00.21.18.046 	In an open-plan office Sidney crosses to Alison and perches on her desk.
-1004_Juno_00.00.32.849-00.00.35.458 	Beneath it, a low-rise bungalow perched on a gentle slope looks out over an uneven lawn under a cloudy sky.
+0001_American_Beauty_00.11.02.154-00.11.21.276 	we see carolyn, working with fierce concentration as she: cleans glass doors that overlook the patio and pool; doggedly scrubs countertops in the kitchen; perches on a stepladder to dust a cheap-looking ceiling fan in the master bedroom; and vacuums a dirty carpet that will never be clean.
+0005_Chinatown_01.56.07.831-01.56.15.857 	escobar's unmarked car pulls up to a stop in front of a spanish duplex perched on the steep hillside.
+0011_Gandhi_00.22.12.476-00.22.16.602 	but they have come by a site where a building is being erected, and a european (kallenbach) is perched above a doorway on the half-completed structure, getting a level.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.33.05.600-02.33.06.932 	frodo suddenly finds himself on the stone steps.he clambers up the stairs, onto a high seat, perched on four stone pillars.
+0026_The_Big_Fish_01.29.30.815-01.29.32.059 	perched awkwardly on a canoe, will's made it through another file cabinet.
+0032_The_Princess_Bride_00.22.34.942-00.22.38.831 	the man in black is now perched at the edge of the elevated castle ruin.
+0032_The_Princess_Bride_00.40.39.608-00.40.41.298 	perched on top of the cliff, looking down at westley and buttercup.
+0038_Psycho_01.25.07.575-01.25.09.614 	he is staring at the shrike- like bird which is perched on the lamp shade.
+1004_Juno_00.00.32.849-00.00.35.458 	beneath it, a low-rise bungalow perched on a gentle slope looks out over an uneven lawn under a cloudy sky.
 1009_Spider-Man3_00.48.22.692-00.48.25.382 	he perches on top of the stage.
 1018_Body_Of_Lies_00.28.00.982-00.28.06.032 	an older agent, holiday, perches on a desk in a meeting room.
 1030_Public_Enemies_01.04.20.799-01.04.25.095 	outside, four officers talk to each other on a porch, their guns perched casually against their shoulders.
-1030_Public_Enemies_01.08.50.517-01.08.55.085 	red perches on the side of the car, his gun raised.
 1033_Sherlock_Holmes_A_Game_of_Shadows_00.01.29.940-00.01.35.607 	the pretty, dark-haired woman with a hat perched jauntily on her head is irene adler.
 1033_Sherlock_Holmes_A_Game_of_Shadows_01.36.33.666-01.36.38.867 	in switzerland, an imposing castle is perched on a mountainside.
 1039_The_Queen_00.06.57.437-00.07.01.339 	cherie and the equerry is perched on chairs either side of the grand doors.
-1040_The_Ugly_Truth_00.50.28.091-00.50.30.882 	abby perches on the arm of a chair.
 1041_This_is_40_02.04.21.104-02.04.23.715 	she perches beside him on the edge of the bed.
 1042_Up_In_The_Air_01.34.13.232-01.34.20.382 	he perches on the edge of a seat, looking morose.
 1044_Pride_And_Prejudice_Disk_Two_01.26.42.732-01.26.46.399 	the curricle continues on its way, mr. collins perched on the back.
 1048_Gran_Torino_01.30.51.938-01.30.55.783 	father j perches on a coffee table beside an open photograph album.
-1053_Harry_Potter_and_the_philosophers_stone_00.10.10.673-00.10.13.417 	she stares at the owls perched on the car roof rack.
-1053_Harry_Potter_and_the_philosophers_stone_00.11.10.000-00.11.14.761 	hundreds of owls are perched on the rooftops and cars in privet drive.
-1053_Harry_Potter_and_the_philosophers_stone_00.31.53.022-00.32.12.182 	but his pet snowy owl perched in its cage on top of his luggage.
-1053_Harry_Potter_and_the_philosophers_stone_00.38.52.084-00.39.02.467 	in the distance, the children see the turrets and towers of a vast castle perched high on the other side.
-1053_Harry_Potter_and_the_philosophers_stone_00.42.07.429-00.42.09.984 	professor mcgonagall stops beside a patched and battered wizard's hat perched on a stool in front of the high table.
-1053_Harry_Potter_and_the_philosophers_stone_01.36.43.979-01.36.58.636 	dressed in a warm black cloak, and wearing his red and gold gryffindor scarf, harry crosses the snow covered courtyard with his pet white owl perched on his arm.
-1055_Marley_and_me_00.28.01.402-00.28.02.628 	arnie, glasses perched on his nose, screws up his face.
-1062_Day_the_Earth_stood_still_00.39.22.022-00.39.27.466 	the polygraph operator stares fixedly at his screen through glasses perched on the end of his nose.
+1052_Harry_Potter_and_the_order_of_phoenix_01.26.49.883-01.26.54.031 	perched on dumbledore's chair.
+1053_Harry_Potter_and_the_philosophers_stone_00.09.39.700-00.09.41.994 	the big bird joins two more perched on the tv aerial.
 1053_Harry_Potter_and_the_philosophers_stone_00.10.10.673-00.10.13.417 	she stares at the owls perched on the car roof rack.
 1053_Harry_Potter_and_the_philosophers_stone_00.11.10.000-00.11.14.761 	hundreds of owls are perched on the rooftops and cars in privet drive.
 1053_Harry_Potter_and_the_philosophers_stone_00.31.53.022-00.32.12.182 	but his pet snowy owl perched in its cage on top of his luggage.

@@ -1,6 +1,15 @@
-0003_CASABLANCA_00.05.34.883-00.05.35.965 	On any occasion when MAJOR STRASSER is crossed, his expression hardens into iron.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.36.01.625-02.36.17.599 	His plain hobbit-face grows stern, almost grim, as the will hardens in him.
-1005_Signs_00.29.30.575-00.29.39.003 	His expression hardens when he sees a young dark-haired man of Asian descent strolling down the sidewalk, and opening the back door of a brown Chevrolet four by four.
-1006_Slumdog_Millionaire_01.31.15.890-01.31.18.199 	The host's face hardens suddenly.
+0003_CASABLANCA_00.05.34.883-00.05.35.965 	on any occasion when major strasser is crossed, his expression hardens into iron.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.44.55.442-00.44.59.237 	ithilien rangers take position; they are all weathered, hardened, professional soldiers.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.23.24.848-02.23.25.646 	sam's resolve hardens, a new strength takes hold.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.36.01.625-02.36.17.599 	his plain hobbit-face grows stern, almost grim, as the will hardens in him.
+0030_The_Hustler_01.48.09.144-01.48.09.521 	her face hardens.
+0051_Men_in_black_01.08.24.774-01.08.26.157 	the center is some sort of hardened, translucent material, light green in color.
+1003_How_to_Lose_Friends_and_Alienate_People_00.38.53.407-00.38.54.181 	bill's expression hardens.
+1005_Signs_00.29.30.575-00.29.39.003 	his expression hardens when he sees a young dark-haired man of asian descent strolling down the sidewalk, and opening the back door of a brown chevrolet four by four.
+1006_Slumdog_Millionaire_01.31.15.890-01.31.18.199 	the host's face hardens suddenly.
+1011_The_Help_01.12.51.495-01.12.54.279 	hilly's face hardens.
 1024_Identity_Thief_01.14.01.500-01.14.07.669 	in the car, sandy's hardened gaze fixes ahead as diana sits on her side facing him.
-1047_Defiance_00.09.35.321-00.09.39.625 	tuvia's hardened eyes flicker as he looks up aron and the people he has brought.
+1026_Legion_01.04.26.916-01.04.32.171 	jeep's expression hardens.
+1033_Sherlock_Holmes_A_Game_of_Shadows_01.44.46.279-01.44.48.946 	then moriarty's expression hardens.
+1034_Super_8_00.51.38.639-00.51.41.118 	the colonel's expression hardens.
+2026_Legion_01.04.27.446-01.04.30.573 	jeep's face hardens.

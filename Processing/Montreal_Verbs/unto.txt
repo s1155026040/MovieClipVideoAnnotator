@@ -1,0 +1,5 @@
+DEAR_JOHN.srt 	DEAR_JOHN_DVS473 	01:09:29,00 --> 01:09:38,50 	a humvee passes a man leading a camel and maneuvers unto a busier road.
+DEAR_JOHN.srt 	DEAR_JOHN_DVS578 	01:21:42,00 --> 01:21:50,50 	someone gently collapses unto the man's chest.
+EASY_A.srt 	EASY_A_DVS109 	00:36:37,00 --> 00:36:45,50 	someone bonds unto her bed and opens the box.
+JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS184 	00:34:49,00 --> 00:34:54,50 	someone pulls her unto his lap, and kisses her.
+THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS26 	00:05:55,00 --> 00:06:14,50 	now he emerges from a stairwell unto the school roof.

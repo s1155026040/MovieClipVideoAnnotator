@@ -1,0 +1,5 @@
+LAND_OF_THE_LOST.srt 	LAND_OF_THE_LOST_DVS106 	00:34:09,00 --> 00:34:16,50 	clawed reptilian feet step out from a row of niches along a rock wall.
+LIFE_OF_PI.srt 	LIFE_OF_PI_DVS878 	01:28:39,00 --> 01:28:53,50 	the tiger flails around in the boat, desperately clawing at the side to keep his head above water.
+LIFE_OF_PI.srt 	LIFE_OF_PI_DVS898 	01:30:24,00 --> 01:30:32,50 	he desperately claws at the bench but the water in the rocking boat sweeps him back to the stern.
+ZOMBIELAND.srt 	ZOMBIELAND_DVS609 	01:10:02,00 --> 01:10:11,50 	someone fires into the clawing zombie mass.
+ZOMBIELAND.srt 	ZOMBIELAND_DVS680 	01:15:17,00 --> 01:15:23,50 	as she claws at him, someone shoots her in the stomach.

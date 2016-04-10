@@ -1,0 +1,4 @@
+21_JUMP_STREET.srt 	21_JUMP_STREET_DVS522 	01:22:07,00 --> 01:22:14,50 	outside, someone takes out the trash while someone mows the front lawn.
+NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS446 	01:32:35,00 --> 01:32:41,50 	magical wind mows a curving path through the barley.
+XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1149 	01:42:48,00 --> 01:42:57,50 	tumbling across the beach, the submarine mows down several palm trees, creating a cloud of sand.
+ZOMBIELAND.srt 	ZOMBIELAND_DVS648 	01:13:11,00 --> 01:13:17,50 	as he mows down a group of zombies, someone watches.

@@ -1,0 +1,30 @@
+A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS821 	01:21:49,00 --> 01:22:09,50 	shielding his face, he rushes toward the loading ramp as the rotor intensifies.
+A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS890 	01:26:29,00 --> 01:26:34,50 	he shields his face from the smoke.
+CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS199 	00:35:55,00 --> 00:36:02,50 	someone shields his eyes as bright light shines out of the pod's window, filling the room.
+CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS201 	00:36:38,00 --> 00:36:50,50 	shielding his eyes with one hand, dr.
+CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS362 	01:05:52,00 --> 01:05:58,50 	someone punches back, denting someone' shield.
+CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS418 	01:16:03,00 --> 01:16:08,50 	shielded behind a blast screen, stark uses mechanical claws to touch a wire to the glowing pellet.
+CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS433 	01:18:42,00 --> 01:18:49,50 	someone slips the concave shield onto his left arm.
+CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS572 	01:39:13,00 --> 01:39:18,50 	propeller blades strike someone' shield.
+CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS1031 	01:39:53,00 --> 01:39:58,50 	someone shields her eyes.
+CHRONICLE.srt 	CHRONICLE_DVS518 	01:13:46,00 --> 01:14:01,50 	with an arm shielding his eyes, he gazes skyward toward the chopper.
+COLOMBIANA.srt 	COLOMBIANA_DVS679 	01:04:25,00 --> 01:04:31,50 	as a man passes, she bows her head, letting her hair shield her face.
+DISTRICT_9.srt 	DISTRICT_9_DVS448 	00:50:18,00 --> 00:50:40,50 	with his human arm, he lifts his collar to shield his face from nearby aliens.
+DISTRICT_9.srt 	DISTRICT_9_DVS790 	01:33:29,00 --> 01:33:41,50 	limps away, shielding himself against an onslaught of bullets.
+DISTRICT_9.srt 	DISTRICT_9_DVS861 	01:42:00,00 --> 01:42:26,50 	bowing his head, he shields his face.
+GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS82 	00:13:10,00 --> 00:13:33,50 	someone staggers back, shielding his eyes.
+GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS84 	00:13:38,00 --> 00:13:46,50 	shielding her face, she shoots blindly.
+GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS566 	01:21:18,00 --> 01:21:51,50 	someone shields her face from the flying glass shards.
+JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS268 	00:52:02,00 --> 00:52:09,50 	someone shields his head with a pillow.
+LIFE_OF_PI.srt 	LIFE_OF_PI_DVS718 	01:14:46,00 --> 01:14:53,50 	someone someone frantically swipes at the small fish as someone shields his face.
+LITTLE_FOCKERS.srt 	LITTLE_FOCKERS_DVS133 	00:49:45,00 --> 00:49:49,50 	someone shields his eyes.
+MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS350 	00:44:21,00 --> 00:44:28,50 	someone shields someone's view as they all crash into a band.
+NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS130 	00:30:06,00 --> 00:30:11,50 	she shields the elephant from someone.
+PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS271 	01:04:21,00 --> 01:04:31,50 	someone hugs his grandson and shields him with his body.
+PROMETHEUS.srt 	PROMETHEUS_DVS925 	01:41:48,00 --> 01:41:58,50 	the helmet shields his face, then more armor shields his body.
+PROMETHEUS.srt 	PROMETHEUS_DVS925 	01:41:48,00 --> 01:41:58,50 	the helmet shields his face, then more armor shields his body.
+PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS396 	01:16:14,00 --> 01:16:24,50 	gangster shield themselves with the hostages as they exit the bank.
+THOR.srt 	THOR_DVS159 	00:22:35,00 --> 00:22:41,50 	someone stabs another giant then shields herself against a bally of ice shards.
+THOR.srt 	THOR_DVS474 	01:17:53,00 --> 01:18:00,50 	on a rooftop across the street from the lab, shield agents use binoculars and listening equipment.
+THOR.srt 	THOR_DVS495 	01:21:18,00 --> 01:21:25,50 	as the dust settles, shield agents peek over a car at the destroyer.
+XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS742 	01:07:30,00 --> 01:07:35,50 	he shields her with his body and turns to stone.

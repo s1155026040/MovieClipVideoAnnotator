@@ -1,0 +1,27 @@
+21_JUMP_STREET.srt 	21_JUMP_STREET_DVS682 	01:42:35,00 --> 01:42:40,50 	he presents a framed arrest report.
+ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS263 	00:38:43,00 --> 00:38:49,50 	someone presents a silver pocket watch with an engraving.
+ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS464 	01:06:00,00 --> 01:06:07,50 	his hand close to hers, he presents a gleaming toy sword made of silver.
+BLINDDATING.srt 	BLINDDATING_DVS339 	01:21:22,00 --> 01:21:40,50 	someone sets down his champagne flute and presents a small tray to his son.
+COLOMBIANA.srt 	COLOMBIANA_DVS309 	00:26:35,00 --> 00:26:40,50 	she presents a folded paper to the girl.
+EASY_A.srt 	EASY_A_DVS229 	01:12:03,00 --> 01:12:08,50 	he presents a gift card.
+FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS214 	00:57:04,00 --> 00:57:14,50 	someone presents a large graphic art canvas, featuring a rider on a horse.
+GREEN_ZONE.srt 	GREEN_ZONE_DVS225 	00:56:11,00 --> 00:56:16,50 	someone presents some paperwork.
+HUGO.srt 	HUGO_DVS231 	00:33:56,00 --> 00:34:00,50 	he presents it to the automaton.
+JACK_AND_JILL.srt 	JACK_AND_JILL_DVS220 	00:44:17,00 --> 00:44:25,50 	everyone suddenly acts casual as someone presents a giant cake, ringed with candles.
+JACK_AND_JILL.srt 	JACK_AND_JILL_DVS368 	01:08:32,00 --> 01:08:37,50 	the servant presents a liquor bottle.
+JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS130 	00:23:13,00 --> 00:23:22,50 	someone presents her with a gift.
+MORNING_GLORY.srt 	MORNING_GLORY_DVS491 	01:41:10,00 --> 01:41:15,50 	someone presents a gift bag to her friend, someone.
+PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS298 	01:14:52,00 --> 01:14:58,50 	a waitress presents a tray of lotus flowers to them.
+PROMETHEUS.srt 	PROMETHEUS_DVS191 	00:13:14,00 --> 00:13:19,50 	someone presents her with a robe.
+RUBY_SPARKS.srt 	RUBY_SPARKS_DVS100 	00:17:13,00 --> 00:17:17,50 	someone presents a bra.
+RUBY_SPARKS.srt 	RUBY_SPARKS_DVS274 	00:41:49,00 --> 00:41:55,50 	he returns to the kitchen presenting a bottle of wine.
+SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS17 	00:03:47,00 --> 00:03:56,50 	he presents the figurine to a young swami.
+SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS198 	00:38:09,00 --> 00:38:15,50 	he presents a matchbox-sized book.
+SPARKLE_2012.srt 	SPARKLE_2012_DVS425 	01:10:47,00 --> 01:10:57,50 	it reads, "presenting someone struthers, 8:00 pm."
+SPARKLE_2012.srt 	SPARKLE_2012_DVS597 	01:38:24,00 --> 01:38:30,50 	someone presents her with a candy ring set in a tasteful jewelry box.
+THE_VOW.srt 	THE_VOW_DVS453 	01:05:37,00 --> 01:05:41,50 	he presents chocolates.
+THE_VOW.srt 	THE_VOW_DVS597 	01:23:23,00 --> 01:23:32,50 	out in the night, a gliding view of chicagos streets and high rises presents a vast expanse of speckled lights.
+THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS517 	01:28:56,00 --> 01:29:01,50 	he presents himself to her humbly.
+TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS576 	01:03:36,00 --> 01:03:45,50 	he presents her with a tooth box and leaves.
+TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS796 	01:24:53,00 --> 01:24:58,50 	he presents someone with a shiny new guitar.
+WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS540 	01:14:45,00 --> 01:14:51,50 	at the table behind her, a waiter presents a dish flamb.

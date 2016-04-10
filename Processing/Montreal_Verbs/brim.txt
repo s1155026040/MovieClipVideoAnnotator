@@ -1,0 +1,3 @@
+CHRONICLE.srt 	CHRONICLE_DVS73 	00:08:55,00 --> 00:09:11,50 	a guy wearing a brimmed hat steps down to the floor and confronts the cameraman.
+INSIDE_MAN.srt 	INSIDE_MAN_DVS424 	02:00:55,00 --> 02:01:12,50 	a shadow shows a figure in a brimmed hat.
+SUPER_8.srt 	SUPER_8_DVS91 	00:15:13,00 --> 00:15:21,50 	the tall bespectacled someone wearing a suit, tie, and brimmed hat stares trance-like at someone.

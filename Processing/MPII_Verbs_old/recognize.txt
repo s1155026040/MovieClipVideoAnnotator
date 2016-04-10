@@ -1,0 +1,36 @@
+0001_American_Beauty_00.30.34.753-00.30.35.531 	We recognize the Man as BUDDY KANE, The Real Estate King.
+0004_Charade_01.33.26.075-01.33.26.214 	She recognizes him from these fragments.
+0005_Chinatown_00.31.38.461-00.31.41.422 	He recognizes Gittes and is visibly shocked.
+0005_Chinatown_00.50.50.921-00.50.51.774 	She recognizes Gittes again and is not happy to see him.
+0009_Forrest_Gump_01.07.09.961-01.07.14.458 	Forrest recognizes her.
+0010_Frau_Ohne_Gewissen_01.13.57.487-01.13.58.298 	Lola sees him and stands up, and as he is about to pass through the anteroom without recognizing her she stops him.
+0010_Frau_Ohne_Gewissen_01.18.14.945-01.18.15.297 	Neff recognizes him immediately but Jackson does not look up.
+0011_Gandhi_00.45.40.639-00.45.41.984 	The other with a haunting face -- beard, flowing dark hair, the air of a poet or a ruthlessly dedicated radical (Prakash -- whom we recognize from the opening sequence in Delhi at Gandhi's assassination).
+0011_Gandhi_01.19.43.173-01.19.44.084 	Patel is the first to recognize the implications.
+0011_Gandhi_01.36.08.432-01.36.10.076 	Chelmsford is realist enough to recognize that a faux pas has been made, and he strives to get the meeting back on the course he intends.
+0011_Gandhi_02.49.57.105-02.50.04.377 	He glances at Patel, and we see that they recognize that their bland conviction that they could talk him out of the fast was deeply misplaced.
+0013_Halloween_01.10.16.896-01.10.18.286 	He recognizes it and races forward.
+0014_Ist_das_Leben_nicht_schoen_02.00.06.122-02.00.09.017 	She looks up, surprised, but, not recognizing him, continues on.
+0023_THE_BUTTERFLY_EFFECT_00.45.18.991-00.45.24.474 	She's startled at first, but eventually recognizes him.
+0026_The_Big_Fish_01.37.21.240-01.37.23.151 	Edward still doesn't recognize her.
+0027_The_Big_Lebowski_00.59.59.188-00.59.59.396 	We recognize the voice of The Stranger whose narration opened the movie.
+0033_Amadeus_02.47.40.670-02.47.52.667 	She looks at it and recognizes it.
+0051_Men_in_black_00.29.22.199-00.29.24.046 	Edwards recognizes him from last night.
+0053_Rendezvous_mit_Joe_Black_02.49.37.513-02.49.42.929 	He is heading straight for her, she tries to make him out, seems to recognize him, starts to walk towards him as if pulled by a magnet.
+0053_Rendezvous_mit_Joe_Black_02.49.58.807-02.50.06.868 	It is a man, he keeps coming, and now that he is close and recognizes him.
+1002_Harry_Potter_and_the_Half-Blood_Prince_00.12.28.861-00.12.35.057 	He smiles when he recognizes the Weasley house.
+1006_Slumdog_Millionaire_00.52.15.979-00.52.24.073 	Jamal stops and recognizes Arvind.
+1008_Spider-Man2_01.59.16.468-01.59.23.242 	spider-man, still without the mask, spins round to see the incredulous look on mj's face as she recognizes him.
+1019_Confessions_Of_A_Shopaholic_00.10.02.467-00.10.12.433 	as he sits down, he recognizes her.
+1027_Les_Miserables_00.33.58.399-00.34.02.054 	fantine recognizes valjean and moves away.
+1034_Super_8_01.18.44.536-01.18.46.155 	a boy recognizes him.
+1037_The_Curious_Case_Of_Benjamin_Button_01.24.49.086-01.24.50.052 	she takes a few seconds to recognize him.
+1051_Harry_Potter_and_the_goblet_of_fire_00.18.58.983-00.19.01.813 	ron recognizes his quidditch hero.
+1051_Harry_Potter_and_the_goblet_of_fire_00.20.49.979-00.20.53.508 	ron recognizes him.
+1052_Harry_Potter_and_the_order_of_phoenix_00.08.50.131-00.08.54.159 	harry recognizes one of them.
+1053_Harry_Potter_and_the_philosophers_stone_00.44.31.128-00.44.40.418 	it recognizes him at once.
+2004_Juno_00.16.44.267-00.16.53.959 	juno recognizes the protester as a classmate of hers.
+1053_Harry_Potter_and_the_philosophers_stone_00.44.31.128-00.44.40.418 	it recognizes him at once.
+2004_Juno_00.16.44.267-00.16.53.959 	juno recognizes the protester as a classmate of hers.
+2027_Les_Miserables_01.11.48.407-01.11.55.253 	as valjean bends down to look at madame thenardier she recognizes him.
+2027_Les_Miserables_01.12.45.222-01.12.46.808 	he sees man with his arm protectively round a girl but does not recognize valjean as valjean has averted his face.

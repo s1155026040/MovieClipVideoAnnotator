@@ -1,0 +1,5 @@
+GREEN_ZONE.srt 	GREEN_ZONE_DVS362 	01:23:12,00 --> 01:23:25,50 	as he stares at his imposing superior, someone nods him toward the door.
+PROMETHEUS.srt 	PROMETHEUS_DVS917 	01:41:06,00 --> 01:41:12,50 	the engineer faces the imposing device.
+ROBIN_HOOD.srt 	ROBIN_HOOD_DVS63 	00:18:02,00 --> 00:18:10,50 	an imposing man with a closely trimmed beard greets him.
+ROBIN_HOOD.srt 	ROBIN_HOOD_DVS65 	00:18:22,00 --> 00:18:30,50 	the imposing man presents someone who lowers his hood to reveal a bald head and raven like features.
+ROBIN_HOOD.srt 	ROBIN_HOOD_DVS86 	00:23:22,00 --> 00:23:27,50 	the imposing frenchman joins him.

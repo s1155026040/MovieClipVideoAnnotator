@@ -1,23 +1,16 @@
-0005_Chinatown_00.09.03.825-00.09.06.155 	He seems to be concentrating on it.
-0011_Gandhi_00.04.48.623-00.04.57.719 	We concentrate on one, let us say the most distinguished American broadcaster of the time, Edward R.
-0014_Ist_das_Leben_nicht_schoen_00.23.16.543-00.23.18.412 	Spotlights concentrate on them.
-0021_Rear_Window_00.21.37.509-00.21.39.438 	Jeff's attention is concentrated on an apartment we have not seen before.
-0021_Rear_Window_00.21.59.082-00.22.00.639 	A nearer view show us a more intimate picture of the woman Jeff is concentrating on.
-0021_Rear_Window_01.00.53.666-01.00.54.666 	THE CAMERA is concentrating on the long-focus lens camera which fills the screen.
-0023_THE_BUTTERFLY_EFFECT_01.20.08.319-01.20.12.803 	Evan locates an entry and concentrates on the words just as the other supremacists force the door open -- Evan focuses on the words.
-0031_The_Lost_Weekend_00.30.59.357-00.31.05.604 	Thirst in his eyes, he looks away from the stage, tries to concentrate on the ceiling of the Metropolitan.
-0050_Indiana_Jones_and_the_last_crusade_00.48.23.870-00.48.25.021 	Henry has clearly been concentrating entirely on the vase.
-1006_Slumdog_Millionaire_00.15.22.121-00.15.26.495 	Jamal concentrates hard.
-1008_Spider-Man2_00.38.47.315-00.38.51.526 	octavius concentrates hard and stares up at the ceiling.
+0001_American_Beauty_00.15.31.643-00.15.32.727 	jane performs well, concentrating.
+0005_Chinatown_00.09.03.825-00.09.06.155 	he seems to be concentrating on it.
+0011_Gandhi_00.04.48.623-00.04.57.719 	we concentrate on one, let us say the most distinguished american broadcaster of the time, edward r.
+0014_Ist_das_Leben_nicht_schoen_00.23.16.543-00.23.18.412 	spotlights concentrate on them.
+0020_Raising_Arizona_00.33.13.362-00.33.14.079 	he squints, concentrating.
+0021_Rear_Window_00.21.37.509-00.21.39.438 	jeff's attention is concentrated on an apartment we have not seen before.
+0021_Rear_Window_00.21.59.082-00.22.00.639 	a nearer view show us a more intimate picture of the woman jeff is concentrating on.
+0021_Rear_Window_01.00.53.666-01.00.54.666 	the camera is concentrating on the long-focus lens camera which fills the screen.
+0031_The_Lost_Weekend_00.30.59.357-00.31.05.604 	thirst in his eyes, he looks away from the stage, tries to concentrate on the ceiling of the metropolitan.
+0050_Indiana_Jones_and_the_last_crusade_00.48.23.870-00.48.25.021 	henry has clearly been concentrating entirely on the vase.
 1011_The_Help_00.22.33.463-00.22.38.777 	skeeter fixes her eyes on her mother, who is concentrating on her soup.
-1031_Quantum_of_Solace_01.07.11.083-01.07.12.719 	camille looks alarmed and bond concentrates hard as they skim the valley floor.
-1045_An_education_00.19.58.952-00.20.01.332 	danny concentrates serenely.
-1049_Harry_Potter_and_the_chamber_of_secrets_01.58.33.014-01.58.37.029 	staring at the tiny snake, harry concentrates hard.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_02.01.47.014-02.01.56.348 	harry concentrates even harder, and they retreat.
-1055_Marley_and_me_01.47.58.175-01.48.05.578 	patrick concentrates on the old video footage of his mother laughing and a close up of marley, staring puzzled into the camera.
+1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.56.38.000-00.56.39.000 	he concentrates.
 1062_Day_the_Earth_stood_still_00.06.57.843-00.07.02.313 	she crosses to the bed where he's concentrating on the game, and sits beside him.
-1062_Day_the_Earth_stood_still_00.21.18.283-00.21.33.247 	the apache circles the sphere as lights blaze out from the interior then concentrate at the base of the towering object.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_02.01.47.014-02.01.56.348 	harry concentrates even harder, and they retreat.
-1055_Marley_and_me_01.47.58.175-01.48.05.578 	patrick concentrates on the old video footage of his mother laughing and a close up of marley, staring puzzled into the camera.
-1062_Day_the_Earth_stood_still_00.06.57.843-00.07.02.313 	she crosses to the bed where he's concentrating on the game, and sits beside him.
-1062_Day_the_Earth_stood_still_00.21.18.283-00.21.33.247 	the apache circles the sphere as lights blaze out from the interior then concentrate at the base of the towering object.
+1062_Day_the_Earth_stood_still_00.19.35.309-00.19.47.278 	she stands still concentrating.
+1062_Day_the_Earth_stood_still_00.58.32.000-00.58.37.000 	helen watches from a distance as he concentrates, his hand resting on the sphere's surface.
+1062_Day_the_Earth_stood_still_01.33.46.976-01.33.50.611 	he closes his eyes, concentrating.

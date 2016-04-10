@@ -1,0 +1,4 @@
+CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS319 	01:00:22,00 --> 01:00:30,50 	he examines a chest-high cylindrical object studded with glowing blue components, then grabs a small device about the size of a cigarette lighter and slips it into his pants pocket.
+KARATE_KID.srt 	KARATE_KID_DVS408 	00:37:15,00 --> 00:37:28,50 	two huge, gleaming, red doors open, each studded from top to bottom with domed gold caps.
+KARATE_KID.srt 	KARATE_KID_DVS410 	00:37:28,00 --> 00:37:39,50 	as someone trudges through the gates, the only student not wearing his uniform, his eyes lock on the golden caps studding the doors.
+SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS46 	00:09:33,00 --> 00:09:39,50 	a green gemstone studs its back.

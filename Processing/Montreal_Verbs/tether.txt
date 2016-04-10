@@ -1,0 +1,5 @@
+CHRONICLE.srt 	CHRONICLE_DVS473 	01:08:34,00 --> 01:08:40,50 	we tether backwards off the roof, then plummet.
+LIFE_OF_PI.srt 	LIFE_OF_PI_DVS477 	00:53:36,00 --> 00:53:43,50 	someone leaps from the boat, following a rope, tethering the raft to the lifeboat.
+LIFE_OF_PI.srt 	LIFE_OF_PI_DVS506 	00:55:53,00 --> 00:56:03,50 	as someone slurps it down, someone jumps off the boat, he tries to push away on the raft but finds a line tethering him closely to the boat's prow.
+LIFE_OF_PI.srt 	LIFE_OF_PI_DVS537 	00:58:25,00 --> 00:58:32,50 	tethered a few yards off, the lifeboat appears empty and peaceful.
+SALT.srt 	SALT_DVS441 	01:15:46,00 --> 01:15:57,50 	with them, a military aide carries a briefcase, its handle tethered to his wrist.

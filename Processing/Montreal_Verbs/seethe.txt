@@ -1,0 +1,6 @@
+CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS519 	00:50:36,00 --> 00:50:43,50 	the young surfer trembles, frantically scanning the seething ocean for someone's buddy.
+CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS605 	00:58:20,00 --> 00:58:27,50 	someone seethes on his board as someone joyfully surfaces and shakes his hair out.
+CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS546 	02:08:24,00 --> 02:08:34,50 	someone seethes his head and shoulders hunched forward.
+GREEN_ZONE.srt 	GREEN_ZONE_DVS468 	01:42:22,00 --> 01:42:28,50 	someone backs off, seething at the corrupt official.
+LIFE_OF_PI.srt 	LIFE_OF_PI_DVS271 	00:36:08,00 --> 00:36:18,50 	ramping off a wave, the ship's bow lands hard on the seething surface.
+MORNING_GLORY.srt 	MORNING_GLORY_DVS310 	01:07:59,00 --> 01:08:03,50 	she seethes.

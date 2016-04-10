@@ -1,2 +1,25 @@
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.40.25.448-02.40.27.943 	FRODO a STRANGE EXPRESSION on his face.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_03.09.02.830-03.09.22.031 	FRODO a look of WONDERMENT crosses his face as he STEPS FORWARD and ACCEPTS GANDALF'S HAND.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.08.04.002-00.08.05.422 	suddenly frodo appears on a bank above the cart.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.26.03.024-00.26.09.271 	he hands it to frodo.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.26.18.962-00.26.25.585 	gandalf is already at the door, he turns to frodo.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.57.13.529-00.57.16.298 	strider, merry, pippin, and frodo march through a gloomy, overgrown forest.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.03.09.273-01.03.16.797 	the witch king extends a haggard hand towards frodo, reaching for the ring on his finger.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.15.52.495-01.15.53.153 	sam runs to frodo's bedside.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.31.22.784-01.31.24.358 	with a huge effort or will, frodo tears his gaze upon the ring.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.33.45.528-01.33.46.875 	bilbo offers sting to frodo.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.00.57.728-02.00.59.936 	aragorn rushes to frodo's side as he slumps to the floor.frodo appears to be dead.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.01.06.610-02.01.09.080 	suddenly frodo coughs.takes a huge breath.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.25.23.596-02.25.27.069 	galadriel gives frodo a small crystal phial.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.33.18.955-02.33.33.099 	with a huge effort, frodo wrenches the ring off his finger.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.07.58.619-00.07.58.894 	he holds up a piece of dried lembas bread to frodo.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.42.42.469-00.42.44.559 	rank upon rank of armour clad orcs, moving swiftly and silently, pass close to frodo and sam in an endless stream of ragged columns.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.57.48.214-00.57.51.592 	gollum creeps close to frodo and whispers in his ear.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.37.24.459-01.37.28.837 	gollum leads frodo up a long ravine between columns of torn and weathered rock.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.53.55.610-01.53.58.604 	gorbag spies frodo's body.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.21.31.135-02.21.32.886 	gorbag grabs frodo's hair and pulls his head back, exposing his neck.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.22.01.305-02.22.06.851 	sam quickly cuts frodo free.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.24.14.228-02.24.21.311 	sam cannot see what frodo sees.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.28.28.105-02.28.32.578 	sam offers frodo his hand and pulls him up.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.34.13.802-02.34.18.911 	sam crawls to frodo who lies slumped against the rock-face.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.36.01.625-02.36.17.599 	with that, sam lifts frodo on to his shoulders and starts to climb mount doom!
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.40.25.448-02.40.27.943 	frodo a strange expression on his face.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_03.09.02.830-03.09.22.031 	frodo a look of wonderment crosses his face as he steps forward and accepts gandalf's hand.

@@ -1,25 +1,28 @@
-0004_Charade_00.26.55.072-00.26.56.492 	PUNCH's head appears on the other side of the stage, says something, then ducks out.
-0004_Charade_01.47.07.233-01.47.09.406 	We catch a quick glimpse of REGGIE as she ducks down out of sight.
-0007_DIE_NACHT_DES_JAEGERS_00.53.03.383-00.53.07.315 	PREACHER makes a lunge across JOHN for the doll; JOHN ducking under his arm, pulls PEARL forward with his left hand; he turns backwards and with his free hand, in one movement, knocks over the candle and pulls out the support on the shelf.
-0013_Halloween_01.22.50.428-01.22.52.780 	Laurie dashes to a clothes closet and ducks inside.
-0023_THE_BUTTERFLY_EFFECT_00.24.45.977-00.24.52.121 	Evan ducks back at the last minute and Tommy accidentally connects with Kayleigh's head.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.56.57.467-01.57.00.465 	Gimli ducks a blow and immediately buries his Axes in 2 Goblin helmets.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.50.35.025-01.50.39.492 	SAM ducks inside the arch of her LEGS and STABS STING into one of her EYE CLUSTERS!
-0026_The_Big_Fish_00.26.46.074-00.26.47.523 	Edward ducks a bit so the Mayor can put the key around his neck.
-0026_The_Big_Fish_00.40.15.829-00.40.16.577 	As he ducks under branches, the chain holding the Key to the City gets caught.
-0026_The_Big_Fish_00.50.34.980-00.50.53.831 	Only Edward is free to move, winding his way between the frozen bodies, ducking underneath arms to get closer and closer to this woman.
-0028_The_Crying_Game_00.42.16.470-00.42.20.497 	He walks off through the crowds and then ducks into a doorway.
-0033_Amadeus_00.16.46.836-00.16.47.969 	He ducks down behind the pastry table.
-0046_Chasing_Amy_00.42.24.489-00.42.26.177 	Holden ducks as the ball comes sailing back at his head.
-0050_Indiana_Jones_and_the_last_crusade_01.35.23.640-01.35.33.869 	Vogel pulls himself back atop the tank armed again with the shovel which he swings at Indy, who ducks and grabs Vogel's arm.
+0004_Charade_00.26.55.072-00.26.56.492 	punch's head appears on the other side of the stage, says something, then ducks out.
+0004_Charade_01.47.07.233-01.47.09.406 	we catch a quick glimpse of reggie as she ducks down out of sight.
+0007_DIE_NACHT_DES_JAEGERS_00.53.03.383-00.53.07.315 	preacher makes a lunge across john for the doll; john ducking under his arm, pulls pearl forward with his left hand; he turns backwards and with his free hand, in one movement, knocks over the candle and pulls out the support on the shelf.
+0023_THE_BUTTERFLY_EFFECT_00.24.45.977-00.24.52.121 	evan ducks back at the last minute and tommy accidentally connects with kayleigh's head.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.56.57.467-01.57.00.465 	gimli ducks a blow and immediately buries his axes in 2 goblin helmets.
+0026_The_Big_Fish_00.26.46.074-00.26.47.523 	edward ducks a bit so the mayor can put the key around his neck.
+0026_The_Big_Fish_00.40.15.829-00.40.16.577 	as he ducks under branches, the chain holding the key to the city gets caught.
+0026_The_Big_Fish_00.50.34.980-00.50.53.831 	only edward is free to move, winding his way between the frozen bodies, ducking underneath arms to get closer and closer to this woman.
+0027_The_Big_Lebowski_00.43.23.438-00.43.25.136 	as it roars overhead he ducks, and spins to watch it pass.
+0028_The_Crying_Game_00.42.16.470-00.42.20.497 	he walks off through the crowds and then ducks into a doorway.
+0032_The_Princess_Bride_01.02.29.867-01.02.33.502 	without a word fezzik stuffs inigo's head into the icy water, then, after a reasonable amount of time, pulls him out, ducks him into the steaming stuff, and, a short time after that, puts him back in the cold again, then back in the hot.
+0033_Amadeus_00.16.46.836-00.16.47.969 	he ducks down behind the pastry table.
+0046_Chasing_Amy_00.42.20.162-00.42.26.212 	it pops off one of the circles and shoots back at them, missing them as they duck.
+0050_Indiana_Jones_and_the_last_crusade_01.35.23.640-01.35.33.869 	vogel pulls himself back atop the tank armed again with the shovel which he swings at indy, who ducks and grabs vogel's arm.
+1002_Harry_Potter_and_the_Half-Blood_Prince_00.22.13.136-00.22.22.095 	harry, hermione and ron duck down, as a thin-faced man with a beard looks out.
+1002_Harry_Potter_and_the_Half-Blood_Prince_01.38.36.035-01.38.38.061 	draco appears round and ducks back.
+1007_Spider-Man1_00.23.05.149-00.23.06.635 	he ducks, it flies over his head and lands on the back of flash thompson who is with mj.
 1007_Spider-Man1_01.40.08.370-01.40.10.468 	he glides over the ducking mj.
 1009_Spider-Man3_00.17.25.817-00.17.27.186 	he ducks to avoid them.
 1009_Spider-Man3_02.00.31.427-02.00.33.224 	peter and harry duck sandman's huge fists.
 1010_TITANIC_02.04.33.820-02.04.34.441 	she steps down into the water, grabs and overhead frame, and ducks her head out into the hallway.
+1011_The_Help_01.32.20.518-01.32.25.277 	hilly takes control and duck out of sight.
 1019_Confessions_Of_A_Shopaholic_00.19.27.216-00.19.35.776 	she steps aside to let him pass, then ducks down behind it so that she can get through the door.
-1023_Horrible_Bosses_01.03.18.150-01.03.23.026 	dale ducks down in his car seat as harken drives past in his suv.
+1019_Confessions_Of_A_Shopaholic_01.33.31.761-01.33.34.274 	an employee, seeing him draw near, ducks into an unseen office.
 1023_Horrible_Bosses_01.05.14.523-01.05.19.873 	he ducks down in his car as harken flees the scene in his 4x4.
-1026_Legion_00.37.09.633-00.37.12.410 	charlie ducks down behind the counter, the pistol michael gave her in her hand.
 1030_Public_Enemies_01.26.42.889-01.26.47.556 	upstairs red and johnny duck aside of their shattered windows and re-open fire.
 1030_Public_Enemies_01.37.04.868-01.37.09.535 	the stranger ducks down a narrow passage and reaches out with a delicate hand to a brick wall.
 1030_Public_Enemies_02.01.54.484-02.01.58.151 	winstead and hurt duck into a storefront's recessed entryway.
@@ -30,29 +33,22 @@
 1037_The_Curious_Case_Of_Benjamin_Button_00.27.30.740-00.27.33.430 	he turns to see benjamin, who ducks out of sight.
 1037_The_Curious_Case_Of_Benjamin_Button_01.20.56.432-01.20.57.792 	benjamin ducks his face around.
 1040_The_Ugly_Truth_01.11.07.287-01.11.12.072 	he turns and ducks under her arm and pulls her close.
-1041_This_is_40_00.20.41.171-00.20.43.297 	later, debbie ducks down in her car as she smokes a cigarette.
 1043_Vantage_Point_01.02.36.063-01.02.42.596 	then ducks inside and guns down cavic, mccullough and heinkin.
 1046_Australia_00.15.30.681-00.15.35.000 	they mime keeping each other warm, and she ducks back into her tent.
 1046_Australia_00.42.18.134-00.42.23.993 	daisy is about to get in with the boy, but has to duck down and stay on the ladder to avoid being seen as the truck comes to a halt.
-1049_Harry_Potter_and_the_chamber_of_secrets_00.54.11.181-00.54.12.625 	harry ducks as a wood bat narrowly misses his head.
-1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.58.52.482-01.58.55.778 	harry ducks under a fallen tree.
+1049_Harry_Potter_and_the_chamber_of_secrets_00.55.36.423-00.55.38.565 	they both duck as the bludger hurtles past.
+1049_Harry_Potter_and_the_chamber_of_secrets_00.56.37.354-00.56.38.285 	he ducks.
+1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.15.43.713-00.15.48.734 	hagrid rides his motorbike up into the air, forcing moody to duck.
+1052_Harry_Potter_and_the_order_of_phoenix_00.47.41.286-00.47.43.353 	students duck.
 1052_Harry_Potter_and_the_order_of_phoenix_00.47.45.055-00.47.47.099 	they duck again.
 1053_Harry_Potter_and_the_philosophers_stone_01.17.49.624-01.17.52.594 	the spectators duck as the players swoop low over their heads.
 1056_Rambo_00.55.48.826-00.55.50.646 	rambo ducks out of sight as they go by.
-1056_Rambo_01.13.23.650-01.13.26.750 	rambo ducks down and finds a box of ammo.
 1056_Rambo_01.13.51.000-01.13.53.000 	he ducks as hot metal whizzes by.
-1058_The_Damned_united_00.15.57.881-00.15.59.305 	jimmy ducks in.
 1060_Yes_man_00.32.28.094-00.32.29.839 	people have to duck out of the way.
 2005_Signs_01.01.25.579-01.01.36.127 	graham lets go of the doorknob -- he turns and walks quickly across the kitchen -- he picks up the butcher knife -- he kneels down next to the pantry -- he ducks his head under the slanted kitchen table -- he places his cheek to the floor, only inches from the bottom of the door, and looks into the pantry.
 2017_Bad_Santa_00.28.39.791-00.28.45.705 	willie answers absently, his head slightly ducked and his eyes darting side to side, checking for road signs.
-1053_Harry_Potter_and_the_philosophers_stone_01.17.49.624-01.17.52.594 	the spectators duck as the players swoop low over their heads.
-1056_Rambo_00.55.48.826-00.55.50.646 	rambo ducks out of sight as they go by.
-1056_Rambo_01.13.23.650-01.13.26.750 	rambo ducks down and finds a box of ammo.
-1056_Rambo_01.13.51.000-01.13.53.000 	he ducks as hot metal whizzes by.
-1058_The_Damned_united_00.15.57.881-00.15.59.305 	jimmy ducks in.
-1060_Yes_man_00.32.28.094-00.32.29.839 	people have to duck out of the way.
-2005_Signs_01.01.25.579-01.01.36.127 	graham lets go of the doorknob -- he turns and walks quickly across the kitchen -- he picks up the butcher knife -- he kneels down next to the pantry -- he ducks his head under the slanted kitchen table -- he places his cheek to the floor, only inches from the bottom of the door, and looks into the pantry.
-2017_Bad_Santa_00.28.39.791-00.28.45.705 	willie answers absently, his head slightly ducked and his eyes darting side to side, checking for road signs.
+2017_Bad_Santa_01.30.04.052-01.30.06.097 	he ducks, clutching the elephant to his chest, and scurries behind a counter.
 2034_Super_8_01.11.45.702-01.11.49.552 	the boys duck as soldiers pass by.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_00.34.48.003-00.34.53.620 	buckbeak ducks his beak.
+2054_Harry_Potter_and_the_prisoner_of_azkaban_00.38.43.666-00.38.44.686 	ducks its beak.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_01.30.04.519-01.30.11.378 	harry and hermione make their way through the primitive passageway, ducking the roots that dangle overhead.

@@ -1,34 +1,30 @@
-0006_Clerks_00.04.36.887-00.04.44.005 	DANTE stands on a garbage can and tucks a corner of the sheet under the awning.
-0012_Get_Shorty_00.32.17.569-00.32.18.569 	Ronnie opens his coat so that Harry can see a gun tucked in his belt.
-0012_Get_Shorty_01.18.47.054-01.18.49.289 	Ronnie opens his jacket so that Ray Bones can see the .357 Ronnie's got tucked into his belt.
-0020_Raising_Arizona_00.44.07.513-00.44.08.607 	Hi is approaching the check-out island with a gun in one hand, the carton of Huggies tucked under the other.
-0020_Raising_Arizona_00.45.00.529-00.45.01.006 	The carton of Huggies is still tucked under one arm.
-0023_THE_BUTTERFLY_EFFECT_01.45.12.374-01.45.13.775 	He tucks it into his sock but it won't fit.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.45.47.068-02.45.49.511 	With renewed determination, Frodo tucks the ring inside his vest pocket.
-0026_The_Big_Fish_00.08.30.687-00.08.32.277 	Her head is propped against Will's shoulder, her hands tucked under her belly.
-0026_The_Big_Fish_01.22.01.933-01.22.08.249 	Looking for a place to put it, he tucks it into a strange mechanical hand on the desk.
-0027_The_Big_Lebowski_00.03.51.371-00.03.52.695 	His head is grabbed from behind and tucked into an armpit.
-0030_The_Hustler_01.20.15.891-01.20.26.246 	She opens the door, then looks up to see him leaning against the wall, his arms tucked into his chest, with one hand covering the other.
-0030_The_Hustler_01.40.27.767-01.40.31.399 	He tucks his cue case under his arm and turns to Bert and Sarah who join him.
-0030_The_Hustler_02.04.08.483-02.04.11.618 	Eddie, his cue case tucked under his arm, walks straight toward him.
-0031_The_Lost_Weekend_00.57.25.474-00.57.32.140 	He pulls it to his armpit and holds it there, tucked close to his ribs.
-0032_The_Princess_Bride_00.01.13.275-00.01.16.260 	He has a wrapped package tucked under one arm as be immediately goes to The Kid, pinches his cheek.
-0032_The_Princess_Bride_00.07.50.153-00.07.53.023 	Vizzini rips some tiny pieces of fabric from an army jacket and tucks them along the saddle of Buttercup's horse.
-0033_Amadeus_00.12.40.001-00.12.40.617 	Father Salieri sits at the head of the table, a napkin tucked into his chin.
-0043_Thelma_and_Luise_00.03.29.250-00.03.30.576 	Thelma has the phone tucked under her chin, as she cuts out coupons from the newspaper and pins them on a bulletin board already covered with them.
-0049_Hannah_and_her_sisters_01.21.13.912-01.21.16.783 	It's Mickey, as the camera soon shows, wearing a short-sleeved shirt, a paper tucked under his arm.
-0050_Indiana_Jones_and_the_last_crusade_01.20.23.329-01.20.24.898 	Indy reaches for his gun, tucked in his pants.
-1004_Juno_01.15.11.793-01.15.20.840 	 On the bonnet of the van, her head resting on the sloping front windscreen, with her hands tuck behind her back staring up at the sky.
-1005_Signs_01.11.52.470-01.11.55.707 	Merrill watches in disbelief as Graham tucks into his mount of food.
-1005_Signs_01.12.19.601-01.12.25.537 	Merrill is staring self-consciously at his plate when Graham's hand reaches out, and tucks him in the family embrace.
-1012_Unbreakable_00.04.44.190-00.04.55.628 	the young woman sits down, glances at some leaflets, drops them in the seat pocket, straightens her shoulder-length brown hair, tucks down her top, sits back, and closes her eyes.
+0006_Clerks_00.04.36.887-00.04.44.005 	dante stands on a garbage can and tucks a corner of the sheet under the awning.
+0012_Get_Shorty_00.32.17.569-00.32.18.569 	ronnie opens his coat so that harry can see a gun tucked in his belt.
+0012_Get_Shorty_01.18.47.054-01.18.49.289 	ronnie opens his jacket so that ray bones can see the .357 ronnie's got tucked into his belt.
+0020_Raising_Arizona_00.44.07.513-00.44.08.607 	hi is approaching the check-out island with a gun in one hand, the carton of huggies tucked under the other.
+0020_Raising_Arizona_00.45.00.529-00.45.01.006 	the carton of huggies is still tucked under one arm.
+0023_THE_BUTTERFLY_EFFECT_01.45.12.374-01.45.13.775 	he tucks it into his sock but it won't fit.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.45.47.068-02.45.49.511 	with renewed determination, frodo tucks the ring inside his vest pocket.
+0026_The_Big_Fish_00.08.30.687-00.08.32.277 	her head is propped against will's shoulder, her hands tucked under her belly.
+0026_The_Big_Fish_01.22.01.933-01.22.08.249 	looking for a place to put it, he tucks it into a strange mechanical hand on the desk.
+0027_The_Big_Lebowski_00.03.51.371-00.03.52.695 	his head is grabbed from behind and tucked into an armpit.
+0030_The_Hustler_01.20.15.891-01.20.26.246 	she opens the door, then looks up to see him leaning against the wall, his arms tucked into his chest, with one hand covering the other.
+0030_The_Hustler_01.40.27.767-01.40.31.399 	he tucks his cue case under his arm and turns to bert and sarah who join him.
+0030_The_Hustler_02.04.08.483-02.04.11.618 	eddie, his cue case tucked under his arm, walks straight toward him.
+0031_The_Lost_Weekend_00.57.25.474-00.57.32.140 	he pulls it to his armpit and holds it there, tucked close to his ribs.
+0032_The_Princess_Bride_00.01.13.275-00.01.16.260 	he has a wrapped package tucked under one arm as be immediately goes to the kid, pinches his cheek.
+0032_The_Princess_Bride_00.07.50.153-00.07.53.023 	vizzini rips some tiny pieces of fabric from an army jacket and tucks them along the saddle of buttercup's horse.
+0033_Amadeus_00.12.40.001-00.12.40.617 	father salieri sits at the head of the table, a napkin tucked into his chin.
+0043_Thelma_and_Luise_00.03.29.250-00.03.30.576 	thelma has the phone tucked under her chin, as she cuts out coupons from the newspaper and pins them on a bulletin board already covered with them.
+0049_Hannah_and_her_sisters_01.21.13.912-01.21.16.783 	it's mickey, as the camera soon shows, wearing a short-sleeved shirt, a paper tucked under his arm.
+0050_Indiana_Jones_and_the_last_crusade_01.20.23.329-01.20.24.898 	indy reaches for his gun, tucked in his pants.
+1004_Juno_01.15.11.793-01.15.20.840 	 on the bonnet of the van, her head resting on the sloping front windscreen, with her hands tuck behind her back staring up at the sky.
+1005_Signs_01.12.19.601-01.12.25.537 	merrill is staring self-consciously at his plate when graham's hand reaches out, and tucks him in the family embrace.
 1012_Unbreakable_00.06.42.463-00.06.50.225 	she looks up, her smile gone, folds and unfolds her arms, tucks her fist under her chin, shows him her wedding ring.
 1015_27_Dresses_00.40.37.302-00.40.40.916 	there's a small white box tucked in the dog's collar.
-1015_27_Dresses_01.22.26.356-01.22.28.277 	tess tucks into a helping of ribs.
 1028_No_Reservations_00.09.28.231-00.09.31.128 	she sits down as he tucks in.
 1028_No_Reservations_00.35.55.089-00.35.59.186 	hungrily tucking into their food, leah and bernadette watch nick and kate.
 1028_No_Reservations_00.41.29.426-00.41.29.872 	a tea towel tucked into her apron has caught fire.
-1028_No_Reservations_00.54.57.008-00.55.02.236 	the staff tuck in hungrily.
 1030_Public_Enemies_00.02.57.790-00.03.00.456 	they stealthily tucked the weapons in their pants.
 1033_Sherlock_Holmes_A_Game_of_Shadows_00.11.12.304-00.11.16.517 	he glances around and tucks his napkin down the front of his shirt.
 1047_Defiance_00.10.38.901-00.10.40.545 	and tucks the gun into his belt.
@@ -40,17 +36,6 @@
 1053_Harry_Potter_and_the_philosophers_stone_00.13.14.734-00.13.23.148 	he steps inside, tucking his pink umbrella into his coat.
 1053_Harry_Potter_and_the_philosophers_stone_00.49.59.000-00.50.07.000 	he is sitting in his pajamas on the wide-stone sill gazing out of the window with his knees tucked up under his chin.
 1053_Harry_Potter_and_the_philosophers_stone_01.34.47.217-01.35.07.442 	with his knees tucked under his chin, harry sits alone on the stone floor of the empty classroom, gazing into the mirror.
-1055_Marley_and_me_01.06.18.164-01.06.28.118 	later, jenny tucks the baby into his cot, then goes over to kiss patrick, who's snug in his little bed.
-1056_Rambo_00.20.07.985-00.20.13.363 	rambo sees a pistol tucked into the second pirate's waistband.
-1058_The_Damned_united_00.38.06.168-00.38.16.943 	the derby players tuck the white shirts of their home kit into their shorts and sit on benches as brian strolls in.
-1059_The_devil_wears_prada_01.11.56.808-01.11.59.814 	emily tucks into a jelly pot and some bread.
-2005_Signs_00.27.56.312-00.27.57.581 	merrill tucks the pamphlet in his jacket.
-2005_Signs_00.51.43.806-00.51.45.727 	he tucks the book under his arm and picks up the phone.
-2012_Unbreakable_01.25.44.075-01.25.44.575 	he knees tucked up to her chest.
-1053_Harry_Potter_and_the_philosophers_stone_00.13.14.734-00.13.23.148 	he steps inside, tucking his pink umbrella into his coat.
-1053_Harry_Potter_and_the_philosophers_stone_00.49.59.000-00.50.07.000 	he is sitting in his pajamas on the wide-stone sill gazing out of the window with his knees tucked up under his chin.
-1053_Harry_Potter_and_the_philosophers_stone_01.34.47.217-01.35.07.442 	with his knees tucked under his chin, harry sits alone on the stone floor of the empty classroom, gazing into the mirror.
-1055_Marley_and_me_01.06.18.164-01.06.28.118 	later, jenny tucks the baby into his cot, then goes over to kiss patrick, who's snug in his little bed.
 1056_Rambo_00.20.07.985-00.20.13.363 	rambo sees a pistol tucked into the second pirate's waistband.
 1058_The_Damned_united_00.38.06.168-00.38.16.943 	the derby players tuck the white shirts of their home kit into their shorts and sit on benches as brian strolls in.
 1059_The_devil_wears_prada_01.11.56.808-01.11.59.814 	emily tucks into a jelly pot and some bread.

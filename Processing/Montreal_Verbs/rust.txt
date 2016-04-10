@@ -1,0 +1,4 @@
+21_JUMP_STREET.srt 	21_JUMP_STREET_DVS406 	01:08:45,00 --> 01:08:50,50 	near a rusted out wreck across the lot
+CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS140 	00:11:26,00 --> 00:11:32,50 	surfboards lean against a rusted metal guardrail.
+GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS439 	01:02:44,00 --> 01:03:11,50 	as the tattoo faced monk looks for him, someone grabs the swords hilt, causing its blade to rust and crumble.
+THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS507 	01:12:53,00 --> 01:12:59,50 	in a forest, a rusted metal bridge spans a green brook.

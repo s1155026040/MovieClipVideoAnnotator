@@ -1,153 +1,180 @@
-0001_American_Beauty_00.23.30.902-00.23.35.597 	She speaks into the phone, but we can't hear her.
-0001_American_Beauty_00.31.17.739-00.31.34.018 	And he kisses her--a soft, warm kiss that speaks unmistakably of sex--then turns to the others and grins.
-0002_As_Good_As_It_Gets_00.17.16.131-00.17.17.996 	She barks a laugh to cover her embarrassment but speaks the truth.
-0003_CASABLANCA_00.13.56.274-00.14.00.757 	At the end of the number Ferrari goes to the bar to speak to Rick.
-0003_CASABLANCA_00.20.58.406-00.21.07.020 	The officer salutes and goes off to speak to the guards.
-0003_CASABLANCA_00.22.38.808-00.22.44.502 	Rick speaks in a very calm voice.
-0003_CASABLANCA_01.08.24.468-01.08.27.387 	As Rick comes up the croupier speaks to Jan.
-0003_CASABLANCA_01.12.43.734-01.12.45.779 	Laszlo speaks to the orchestra.
-0004_Charade_00.27.38.204-00.27.42.307 	He stands on the dance floor in front of a five piece Latin dance band, a spotlight on him, wearing his professional smile as he speaks into a mike.
-0004_Charade_00.30.43.031-00.30.43.755 	He speaks while holding the orange.
-0004_Charade_00.31.56.950-00.32.00.287 	As he continues to speak he punctuates each phrase or so with another lit match.
-0004_Charade_01.01.50.874-01.01.57.202 	TEX speaks into the phone.
-0004_Charade_01.27.55.386-01.28.05.699 	She turns back to the conference, flips a switch and starts speaking into her headset.
-0004_Charade_01.41.09.773-01.41.16.793 	An OPERATOR speaking into a headset.
-0007_DIE_NACHT_DES_JAEGERS_00.04.53.519-00.04.55.461 	He bends down and speaks quietly next PREACHER'S ear.
-0007_DIE_NACHT_DES_JAEGERS_00.11.17.724-00.11.19.257 	Across this his wife speaks o.s.
-0007_DIE_NACHT_DES_JAEGERS_00.16.24.126-00.16.29.476 	As BIRDIE speaks we PAN JOHN, and foundered skiff, into TWO-SHOT with.
-0007_DIE_NACHT_DES_JAEGERS_00.45.22.002-00.45.22.749 	He speaks very quietly, but calmly and cheerfully, as to an invalid.
-0007_DIE_NACHT_DES_JAEGERS_00.48.32.212-00.48.33.373 	He turns and speaks to the picture.
-0007_DIE_NACHT_DES_JAEGERS_01.13.22.939-01.13.25.483 	Our heroine would like to thank the Lord openly, but she knows she must not show her feelings; she speaks gruffly.
-0009_Forrest_Gump_00.23.12.611-00.23.18.317 	A football coach looks at a black and white television as a newsman outside the schoolhouse speaks to the camera.
-0009_Forrest_Gump_00.23.19.454-00.23.24.974 	The footage cuts to Governor Wallace as he speaks to General Graham.
-0009_Forrest_Gump_00.34.04.155-00.34.14.647 	Bubba speaks to Forrest.
-0009_Forrest_Gump_01.06.11.854-01.06.14.052 	Forrest continues to speak into the microphone, even though no one can hear what he is saying.
-0009_Forrest_Gump_01.06.26.405-01.06.28.139 	Forrest continues to speak into the microphone.
-0009_Forrest_Gump_01.15.30.602-01.15.33.597 	Forrest steps, an then stops as he hears s man sitting in a wheelchair speak to him.
-0009_Forrest_Gump_01.20.17.741-01.20.19.759 	Lenore leans and speaks into Forrest's ear.
-0009_Forrest_Gump_01.24.28.413-01.24.46.235 	Forrest speaks on the phone.
-0010_Frau_Ohne_Gewissen_00.08.40.921-00.08.42.163 	He speaks to the maid while still looking up.
-0010_Frau_Ohne_Gewissen_00.44.52.884-00.44.53.996 	He speaks into the phone as calmly as possible.
-0010_Frau_Ohne_Gewissen_01.21.34.668-01.21.38.867 	Keyes picks up the telephone on his desk and speaks into it.
-0010_Frau_Ohne_Gewissen_01.43.31.637-01.43.32.590 	He looks at Keyes with a faint, tired grin and speaks very slowly.
-0011_Gandhi_00.03.38.228-00.03.40.290 	He is only a few steps away, but turned to speak to someone on the other side, and Manu half obscures him.
-0011_Gandhi_00.20.09.601-00.20.12.731 	He has paused before an office and a young girl (Sonja) has come from it to speak to him about something of urgency, but she hovers, not interrupting.
-0011_Gandhi_00.38.06.045-00.38.09.146 	We have seen it before when Walker spoke to Smuts, but now we see its full breadth -- and the imposing figure Smuts makes as he stands behind the grand desk.
-0011_Gandhi_00.42.27.800-00.42.30.227 	He speaks with an uncertainty and tentativeness that he had lost in South Africa, patently overwhelmed by the reception.
-0011_Gandhi_00.43.20.091-00.43.20.478 	Finally he speaks out.
-0011_Gandhi_00.48.12.374-00.48.15.850 	When he speaks his voice is thick with feeling.
-0011_Gandhi_01.05.56.033-01.05.56.701 	Meha tries to speak unemotionally but under Gandhi's sympathetic gaze his despair keeps cracking through.
-0011_Gandhi_01.10.47.874-01.10.49.233 	Then he speaks with a determined purposefulness, a friend's trust.
-0011_Gandhi_01.19.27.239-01.19.29.791 	They all stare at him, startled by his words and the fervor with which he speaks to them.
-0011_Gandhi_01.35.12.038-01.35.15.122 	This time Gandhi is in the middle and speaks with the full authority of a leader.
-0011_Gandhi_01.35.19.052-01.35.30.822 	It is spoken with the cold determination of a man still angry.
-0011_Gandhi_01.38.19.223-01.38.27.129 	But it is Ba who is speaking at the microphone, who has brought the shout of defiance from the crowd.
-0011_Gandhi_01.51.52.720-01.52.04.342 	She bends so she is looking at the floor and he is speaking almost into her ear.
-0011_Gandhi_01.56.49.190-01.56.54.583 	The Advocate General is speaking from a folded journal.
-0011_Gandhi_02.14.21.344-02.14.23.846 	As he turns to leave Irwin speaks -- almost offhandedly.
-0011_Gandhi_02.18.35.866-02.18.41.938 	He speaks it trying only half successfully to keep the emotion from his voice.
-0011_Gandhi_02.25.13.545-02.25.19.080 	As a detail marches up to them, the colonel's adjutant speaks gently to Ba.
-0011_Gandhi_02.52.07.220-02.52.08.638 	Mirabehn speaks softly.
-0014_Ist_das_Leben_nicht_schoen_00.56.38.908-00.56.40.549 	CAMERA PANS WITH George as he vaults over the counter quickly, speaking to the people.
-0014_Ist_das_Leben_nicht_schoen_00.58.04.200-00.58.08.355 	George hands the two hundred and forty-two dollars to Tom, and speaks to Ed, the next in line.
-0014_Ist_das_Leben_nicht_schoen_01.21.30.400-01.21.35.189 	Uncle Billy picks up the phone and speaks distractedly, without knowing what he is saying.
-0014_Ist_das_Leben_nicht_schoen_01.29.45.681-01.29.47.820 	Mary speaks quickly in to the phone.
-0014_Ist_das_Leben_nicht_schoen_01.39.41.225-01.39.42.029 	The man in the water is Clarence, the angel whose voice we have heard speaking from Heaven.
-0014_Ist_das_Leben_nicht_schoen_01.44.18.574-01.44.20.545 	As Clarence speaks this line, the snow stops falling outside the building, a strong wind springs up which blows open the door to the shack.
-0019_Pulp_Fiction_01.04.16.996-01.04.22.267 	When Koons speaks, he speaks with a slight Texas accent.
-0019_Pulp_Fiction_01.16.43.508-01.17.46.627 	When Butch and Fabienne speak to each other, they speak in babytalk.
-0020_Raising_Arizona_00.58.36.922-00.58.39.109 	When the Biker speaks it is still without looking at Nathan, and with a surprisingly soft voice and mild, unhurried manner.
-0020_Raising_Arizona_01.09.41.608-01.09.45.118 	Gale, choked up, speaks in a low unsteady voice.
-0020_Raising_Arizona_01.14.23.490-01.14.28.588 	An Old Hayseed with his hands in the air speaks up.
-0020_Raising_Arizona_01.25.15.193-01.25.16.861 	He speaks in a rush.
-0021_Rear_Window_00.25.51.988-00.25.55.582 	He speaks quickly into the phone, and hangs up.
-0021_Rear_Window_00.53.20.426-00.53.21.762 	The salesman speaks some words to the operator.
-0021_Rear_Window_01.15.09.244-01.15.11.644 	He speaks without looking at them.
-0021_Rear_Window_01.16.42.027-01.16.42.908 	Lisa speaks again with continuing sarcasm.
-0021_Rear_Window_01.24.43.878-01.24.45.743 	Jeff speaks without looking up.
-0021_Rear_Window_01.41.59.371-01.42.00.353 	In the brief pause while the two policemen speak to each other, Lisa starts to wave her left hand behind her back.
-0022_Reservoir_Dogs_01.14.33.032-01.14.34.306 	CLOSEUP - Nice Guy Eddie speaking into the car phone.
-0023_THE_BUTTERFLY_EFFECT_00.05.43.370-00.05.45.188 	Andrea, meanwhile, speaks into the phone as she pours Lucky Charms into a cereal bowl for Evan.
-0023_THE_BUTTERFLY_EFFECT_00.10.03.467-00.10.06.054 	He smiles warmly and speaks in over-enunciated tones.
-0023_THE_BUTTERFLY_EFFECT_00.52.30.723-00.52.34.201 	Mr. Miller lowers his voice and speaks to Evan and Kayleigh.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.31.24.358-01.31.27.026 	Frodo suddenly stands.he speaks in a strong, clear voice.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.28.11.691-00.28.16.719 	ELROND speaking to his daughter.
-0026_The_Big_Fish_00.15.51.755-00.15.52.840 	Will almost speaks again to fill the silence.
-0027_The_Big_Lebowski_01.34.59.172-01.35.03.616 	The woman speaks to Dieter in German.
-0028_The_Crying_Game_01.36.52.933-01.36.54.592 	Dil speaks unnaturally quietly.
-0029_The_Graduate_00.06.29.593-00.06.48.091 	We can see through the windows of the house, Ben making his way through people trying to stop him and speak to him as he goes through rooms, up the stairs and to his room.
-0029_The_Graduate_00.21.21.395-00.21.24.122 	He speaks quickly -- in a fake sotto voce -- towards the window.
-0029_The_Graduate_01.02.58.187-01.03.02.650 	Ben leans across Elaine and speaks through the window to the kid behind the wheel.
-0031_The_Lost_Weekend_01.09.31.917-01.09.32.979 	There stands the wooden Indian Gloria spoke about, pointing up.
-0032_The_Princess_Bride_00.49.41.849-00.49.44.317 	Buttercup tries to speak again, can't, and is swooped off her feet onto Humperdinck's horse, and off they go.
-0032_The_Princess_Bride_01.30.03.321-01.30.09.197 	WESTLEY, speaking to Buttercup as Humperdinck sits.
-0033_Amadeus_00.49.54.295-00.49.56.941 	The old man speaks passionately to the priest.
-0038_Psycho_00.05.09.741-00.05.19.657 	Sam smiles reassuringly, places his hands gently on her arms, speaks with gentle and simple sincerity.
-0038_Psycho_00.09.38.148-00.09.47.154 	He rises, reels toward Lowery's office, pauses, turns, speaks to Mary, meaningfully.
-0038_Psycho_00.28.27.456-00.28.29.313 	He is NORMAN BATES, somewhere in his late twenties, thin and tall, soft- spoken and hesitant.
-0038_Psycho_01.01.53.117-01.01.54.858 	Sam goes closer to Lila, speaks with soft seriousness.
-0038_Psycho_01.24.54.412-01.25.01.328 	The Sheriff stares at both of them, and when he finally speaks there is an almost inaudible tone or irony in his voice.
-0038_Psycho_01.42.13.738-01.42.17.711 	He speaks as he removes lid from coffee container.
-0041_The_Sixth_Sense_01.15.16.858-01.15.25.364 	Her face contorted in deep sadness as she speaks in her sleep.
-0043_Thelma_and_Luise_00.15.11.210-00.15.16.343 	Thelma's mind goes too fast for her mouth, and the speed at which she speaks can be staggering.
-0046_Chasing_Amy_00.21.33.234-00.21.36.058 	The SINGER on stage speaks into the microphone.
-0049_Hannah_and_her_sisters_00.44.20.589-00.44.22.473 	He picks one up as Norma speaks offscreen in the kitchen.
-0049_Hannah_and_her_sisters_01.16.35.887-01.16.40.720 	She talks offscreen as Lee alone is seen, reacting and speaking as well.
-0050_Indiana_Jones_and_the_last_crusade_00.11.37.475-00.11.41.767 	He turns and speaks to Indy in an ironic man-to-man way.
-0050_Indiana_Jones_and_the_last_crusade_00.57.33.588-00.57.36.358 	Elsa bends to speak quietly into Indy's ear which is near enough to Henry's ear.
-0051_Men_in_black_00.03.23.624-00.03.26.533 	He speaks in Spanish, which is subtitled.
-0051_Men_in_black_00.41.39.264-00.41.43.146 	They speak in a bizarre alien tongue, which is subtitled.
-0051_Men_in_black_00.50.10.007-00.50.13.314 	LAUREL WEAVER, the woman who tried to speak to Jay before.
-0053_Rendezvous_mit_Joe_Black_01.04.12.930-01.04.17.852 	But when he looks and speaks to Easter again, it is with concern and even regret.
-0053_Rendezvous_mit_Joe_Black_01.26.48.389-01.26.54.479 	Drew leans over to Felicia, speaks quietly and she leaves the room.
-1001_Flight_00.14.51.213-00.14.56.427 	Whip speaks into the intercom.
-1001_Flight_01.38.04.521-01.38.10.680 	A man watches Whip from a parked car and speaks into his cell phone.
-1003_How_to_Lose_Friends_and_Alienate_People_00.33.47.149-00.33.50.804 	Eleanor speaks on her cell phone as they leave.
+0001_American_Beauty_00.22.48.667-00.22.52.317 	lester is frozen, unable to speak.
+0001_American_Beauty_00.23.30.902-00.23.35.597 	she speaks into the phone, but we can't hear her.
+0001_American_Beauty_00.31.17.739-00.31.34.018 	and he kisses her--a soft, warm kiss that speaks unmistakably of sex--then turns to the others and grins.
+0002_As_Good_As_It_Gets_00.17.16.131-00.17.17.996 	she barks a laugh to cover her embarrassment but speaks the truth.
+0003_CASABLANCA_00.13.56.274-00.14.00.757 	at the end of the number ferrari goes to the bar to speak to rick.
+0003_CASABLANCA_00.20.58.406-00.21.07.020 	the officer salutes and goes off to speak to the guards.
+0004_Charade_00.13.24.827-00.13.30.208 	he slides a sheet of paper and pen across to her, then starts to put the things back into the basket while he speaks.
+0004_Charade_00.27.38.204-00.27.42.307 	he stands on the dance floor in front of a five piece latin dance band, a spotlight on him, wearing his professional smile as he speaks into a mike.
+0004_Charade_00.30.43.031-00.30.43.755 	he speaks while holding the orange.
+0004_Charade_00.31.56.950-00.32.00.287 	as he continues to speak he punctuates each phrase or so with another lit match.
+0004_Charade_00.49.29.908-00.49.30.545 	the tourist has finally found the courage to speak.
+0004_Charade_01.26.40.208-01.26.43.529 	the italian delegate is speaking.
+0004_Charade_01.26.47.809-01.26.51.634 	the british delegate rises to speak, continuing through the next scene.
+0004_Charade_01.27.55.386-01.28.05.699 	she turns back to the conference, flips a switch and starts speaking into her headset.
+0004_Charade_01.41.09.773-01.41.16.793 	an operator speaking into a headset.
+0005_Chinatown_00.05.46.704-00.05.49.721 	former mayor sam bagby is speaking.
+0005_Chinatown_00.05.51.176-00.05.54.125 	some of the councilmen are reading funny papers and gossip columns while bagby is speaking.
+0005_Chinatown_01.31.30.823-01.31.32.987 	she's looking up to evelyn, speaking in spanish.
+0007_DIE_NACHT_DES_JAEGERS_00.04.53.519-00.04.55.461 	he bends down and speaks quietly next preacher's ear.
+0007_DIE_NACHT_DES_JAEGERS_00.11.17.724-00.11.19.257 	across this his wife speaks o.s.
+0007_DIE_NACHT_DES_JAEGERS_00.45.22.002-00.45.22.749 	he speaks very quietly, but calmly and cheerfully, as to an invalid.
+0007_DIE_NACHT_DES_JAEGERS_00.48.32.212-00.48.33.373 	he turns and speaks to the picture.
+0007_DIE_NACHT_DES_JAEGERS_00.49.18.975-00.49.19.816 	john stands to preacher's right, around corner of table; he remains expressionless and immobile, until he speaks.
+0007_DIE_NACHT_DES_JAEGERS_00.51.03.999-00.51.05.895 	pearl gapes up at john as he speaks.
+0007_DIE_NACHT_DES_JAEGERS_00.52.11.326-00.52.12.415 	she seems about to speak.
+0007_DIE_NACHT_DES_JAEGERS_01.13.22.939-01.13.25.483 	our heroine would like to thank the lord openly, but she knows she must not show her feelings; she speaks gruffly.
+0007_DIE_NACHT_DES_JAEGERS_01.27.11.131-01.27.12.203 	as she speaks, a man rushes up to walt and gives him a rope.
+0009_Forrest_Gump_00.23.12.611-00.23.18.317 	a football coach looks at a black and white television as a newsman outside the schoolhouse speaks to the camera.
+0009_Forrest_Gump_00.23.19.454-00.23.24.974 	the footage cuts to governor wallace as he speaks to general graham.
+0009_Forrest_Gump_01.05.42.033-01.06.03.153 	forrest looks at the crowd as he speaks.
+0009_Forrest_Gump_01.06.11.854-01.06.14.052 	forrest continues to speak into the microphone, even though no one can hear what he is saying.
+0009_Forrest_Gump_01.06.26.405-01.06.28.139 	forrest continues to speak into the microphone.
+0010_Frau_Ohne_Gewissen_00.05.01.865-00.05.08.151 	he begins to speak.
+0010_Frau_Ohne_Gewissen_00.08.40.921-00.08.42.163 	he speaks to the maid while still looking up.
+0010_Frau_Ohne_Gewissen_00.44.52.884-00.44.53.996 	he speaks into the phone as calmly as possible.
+0010_Frau_Ohne_Gewissen_01.21.34.668-01.21.38.867 	keyes picks up the telephone on his desk and speaks into it.
+0011_Gandhi_00.03.38.228-00.03.40.290 	he is only a few steps away, but turned to speak to someone on the other side, and manu half obscures him.
+0011_Gandhi_00.20.09.601-00.20.12.731 	he has paused before an office and a young girl (sonja) has come from it to speak to him about something of urgency, but she hovers, not interrupting.
+0011_Gandhi_00.38.06.045-00.38.09.146 	we have seen it before when walker spoke to smuts, but now we see its full breadth -- and the imposing figure smuts makes as he stands behind the grand desk.
+0011_Gandhi_00.42.27.800-00.42.30.227 	he speaks with an uncertainty and tentativeness that he had lost in south africa, patently overwhelmed by the reception.
+0011_Gandhi_00.43.20.091-00.43.20.478 	finally he speaks out.
+0011_Gandhi_00.48.12.374-00.48.15.850 	when he speaks his voice is thick with feeling.
+0011_Gandhi_01.05.56.033-01.05.56.701 	meha tries to speak unemotionally but under gandhi's sympathetic gaze his despair keeps cracking through.
+0011_Gandhi_01.10.47.874-01.10.49.233 	then he speaks with a determined purposefulness, a friend's trust.
+0011_Gandhi_01.18.57.732-01.19.01.069 	as he speaks, he rises and walks to the servant.
+0011_Gandhi_01.19.27.239-01.19.29.791 	they all stare at him, startled by his words and the fervor with which he speaks to them.
+0011_Gandhi_01.35.19.052-01.35.30.822 	it is spoken with the cold determination of a man still angry.
+0011_Gandhi_01.38.19.223-01.38.27.129 	but it is ba who is speaking at the microphone, who has brought the shout of defiance from the crowd.
+0011_Gandhi_01.51.52.720-01.52.04.342 	she bends so she is looking at the floor and he is speaking almost into her ear.
+0011_Gandhi_01.52.07.080-01.52.51.205 	we intercut their faces, very close, as he speaks.
+0011_Gandhi_01.56.49.190-01.56.54.583 	the advocate general is speaking from a folded journal.
+0011_Gandhi_02.05.15.424-02.05.21.722 	a moment as irwin considers it, then it is the general who speaks.
+0011_Gandhi_02.18.35.866-02.18.41.938 	he speaks it trying only half successfully to keep the emotion from his voice.
+0011_Gandhi_02.53.40.569-02.53.59.700 	we see surly knots of belligerent rowdies, mostly young, but not all, hanging on the fringes as we move over the heads of the mass of listening people to a platform where nehru speaks.
+0012_Get_Shorty_00.02.12.612-00.02.15.540 	the manager looks off screen, and begins speaking in italian.
+0012_Get_Shorty_00.20.11.771-00.20.16.136 	chili starts to speak, but harry cuts him off.
+0012_Get_Shorty_01.18.03.015-01.18.09.641 	harry can't speak; his jaw is broken.
+0013_Halloween_00.37.14.673-00.37.15.465 	for a moment bracket doesn't speak.
+0014_Ist_das_Leben_nicht_schoen_00.06.53.857-00.06.57.013 	she leans over, speaking softly.
+0014_Ist_das_Leben_nicht_schoen_00.27.50.654-00.27.56.068 	as he speaks, the man leaves the porch and goes into his house, slamming the front door.
+0014_Ist_das_Leben_nicht_schoen_00.56.38.908-00.56.40.549 	camera pans with george as he vaults over the counter quickly, speaking to the people.
+0014_Ist_das_Leben_nicht_schoen_00.58.04.200-00.58.08.355 	george hands the two hundred and forty-two dollars to tom, and speaks to ed, the next in line.
+0014_Ist_das_Leben_nicht_schoen_01.21.30.400-01.21.35.189 	uncle billy picks up the phone and speaks distractedly, without knowing what he is saying.
+0014_Ist_das_Leben_nicht_schoen_01.39.41.225-01.39.42.029 	the man in the water is clarence, the angel whose voice we have heard speaking from heaven.
+0014_Ist_das_Leben_nicht_schoen_01.44.18.574-01.44.20.545 	as clarence speaks this line, the snow stops falling outside the building, a strong wind springs up which blows open the door to the shack.
+0017_Pianist_00.32.05.123-00.32.11.824 	she's shivering, almost unable to speak.
+0019_Pulp_Fiction_00.19.10.024-00.19.11.633 	brett still can't speak.
+0019_Pulp_Fiction_01.04.16.996-01.04.22.267 	when koons speaks, he speaks with a slight texas accent.
+0019_Pulp_Fiction_01.16.43.508-01.17.46.627 	when butch and fabienne speak to each other, they speak in babytalk.
+0019_Pulp_Fiction_01.25.19.455-01.25.21.700 	fabienne can hardly speak, she's never seen butch this way.
+0020_Raising_Arizona_00.58.36.922-00.58.39.109 	when the biker speaks it is still without looking at nathan, and with a surprisingly soft voice and mild, unhurried manner.
+0020_Raising_Arizona_01.14.23.490-01.14.28.588 	an old hayseed with his hands in the air speaks up.
+0020_Raising_Arizona_01.25.15.193-01.25.16.861 	he speaks in a rush.
+0021_Rear_Window_00.08.12.436-00.08.15.190 	he notices her, but doesn't speak.
+0021_Rear_Window_00.16.35.461-00.16.36.773 	she speaks.
+0021_Rear_Window_00.25.51.988-00.25.55.582 	he speaks quickly into the phone, and hangs up.
+0021_Rear_Window_00.28.12.161-00.28.13.161 	she looks at him for a moment without speaking.
+0021_Rear_Window_00.44.06.757-00.44.07.757 	her lips are brushing lightly against his cheek as she speaks.
+0021_Rear_Window_00.51.17.994-00.51.23.994 	jeff is just lifting a piece of bacon to his lips when stella speaks.
+0021_Rear_Window_00.53.20.426-00.53.21.762 	the salesman speaks some words to the operator.
+0021_Rear_Window_01.15.09.244-01.15.11.644 	he speaks without looking at them.
+0021_Rear_Window_01.16.42.027-01.16.42.908 	lisa speaks again with continuing sarcasm.
+0021_Rear_Window_01.27.16.182-01.27.19.047 	halfway through lisa's speech, jeff begins speaking.
+0021_Rear_Window_01.41.59.371-01.42.00.353 	in the brief pause while the two policemen speak to each other, lisa starts to wave her left hand behind her back.
+0021_Rear_Window_01.48.03.107-01.48.03.599 	jeff still doesn't speak.
+0022_Reservoir_Dogs_01.14.33.032-01.14.34.306 	closeup - nice guy eddie speaking into the car phone.
+0023_THE_BUTTERFLY_EFFECT_00.05.43.370-00.05.45.188 	andrea, meanwhile, speaks into the phone as she pours lucky charms into a cereal bowl for evan.
+0023_THE_BUTTERFLY_EFFECT_00.52.30.723-00.52.34.201 	mr. miller lowers his voice and speaks to evan and kayleigh.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.27.41.730-02.27.43.693 	he speaks, almost as if to himself.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.24.02.924-00.24.04.559 	he knows gandalf speaks the truth.
+0026_The_Big_Fish_00.15.51.755-00.15.52.840 	will almost speaks again to fill the silence.
+0026_The_Big_Fish_00.41.39.902-00.41.50.469 	as will scoops out another serving of potatoes, edward suddenly speaks.
+0027_The_Big_Lebowski_01.34.59.172-01.35.03.616 	the woman speaks to dieter in german.
+0029_The_Graduate_00.06.29.593-00.06.48.091 	we can see through the windows of the house, ben making his way through people trying to stop him and speak to him as he goes through rooms, up the stairs and to his room.
+0029_The_Graduate_00.21.21.395-00.21.24.122 	he speaks quickly -- in a fake sotto voce -- towards the window.
+0031_The_Lost_Weekend_01.09.31.917-01.09.32.979 	there stands the wooden indian gloria spoke about, pointing up.
+0032_The_Princess_Bride_00.49.41.849-00.49.44.317 	buttercup tries to speak again, can't, and is swooped off her feet onto humperdinck's horse, and off they go.
+0032_The_Princess_Bride_01.30.03.321-01.30.09.197 	westley, speaking to buttercup as humperdinck sits.
+0033_Amadeus_00.49.54.295-00.49.56.941 	the old man speaks passionately to the priest.
+0033_Amadeus_01.46.24.424-01.46.25.746 	finally, the emperor speaks, in a whisper.
+0038_Psycho_00.09.38.148-00.09.47.154 	he rises, reels toward lowery's office, pauses, turns, speaks to mary, meaningfully.
+0038_Psycho_01.03.08.847-01.03.11.906 	and arbogast studies it, then speaks.
+0038_Psycho_01.24.54.412-01.25.01.328 	the sheriff stares at both of them, and when he finally speaks there is an almost inaudible tone or irony in his voice.
+0038_Psycho_01.42.13.738-01.42.17.711 	he speaks as he removes lid from coffee container.
+0041_The_Sixth_Sense_00.25.58.861-00.26.00.664 	malcolm takes his time before speaking.
+0041_The_Sixth_Sense_01.15.16.858-01.15.25.364 	her face contorted in deep sadness as she speaks in her sleep.
+0043_Thelma_and_Luise_00.15.11.210-00.15.16.343 	thelma's mind goes too fast for her mouth, and the speed at which she speaks can be staggering.
+0049_Hannah_and_her_sisters_00.03.35.144-00.03.40.278 	hannah, licking her fingers, walks past a memo-cluttered refrigerator to the stove as holly, behind her, begins to speak.
+0049_Hannah_and_her_sisters_00.08.15.367-00.08.26.299 	the guests, sipping their wine, quiet down as norma continues to speak.
+0049_Hannah_and_her_sisters_00.16.41.890-00.16.47.933 	he is in his office; he leans back in his chair, dangling his stethoscope as he speaks.
+0049_Hannah_and_her_sisters_00.44.20.589-00.44.22.473 	he picks one up as norma speaks offscreen in the kitchen.
+0049_Hannah_and_her_sisters_00.50.47.206-00.50.50.799 	she pops a piece of gum into her mouth as mickey continues to speak.
+0049_Hannah_and_her_sisters_01.16.35.887-01.16.40.720 	she talks offscreen as lee alone is seen, reacting and speaking as well.
+0049_Hannah_and_her_sisters_01.19.39.705-01.19.47.359 	she is equally intense, looking at both sisters as she speaks.
+0050_Indiana_Jones_and_the_last_crusade_00.11.37.475-00.11.41.767 	he turns and speaks to indy in an ironic man-to-man way.
+0050_Indiana_Jones_and_the_last_crusade_00.57.33.588-00.57.36.358 	elsa bends to speak quietly into indy's ear which is near enough to henry's ear.
+0051_Men_in_black_00.03.23.624-00.03.26.533 	he speaks in spanish, which is subtitled.
+0051_Men_in_black_00.41.39.264-00.41.43.146 	they speak in a bizarre alien tongue, which is subtitled.
+0051_Men_in_black_00.50.10.007-00.50.13.314 	laurel weaver, the woman who tried to speak to jay before.
+0053_Rendezvous_mit_Joe_Black_01.04.12.930-01.04.17.852 	but when he looks and speaks to easter again, it is with concern and even regret.
+0053_Rendezvous_mit_Joe_Black_01.26.48.389-01.26.54.479 	drew leans over to felicia, speaks quietly and she leaves the room.
+1001_Flight_00.14.51.213-00.14.56.427 	whip speaks into the intercom.
+1001_Flight_01.38.04.521-01.38.10.680 	a man watches whip from a parked car and speaks into his cell phone.
+1004_Juno_00.26.02.181-00.26.05.746 	juno meets her dad's bewildered gaze, then lets her head drop for a second before speaking.
+1007_Spider-Man1_01.32.15.385-01.32.22.691 	he shifts his gaze back onto his aunt and swallow, before speaking.
+1008_Spider-Man2_00.17.38.862-00.17.40.825 	peter starts to speak.
 1009_Spider-Man3_00.36.40.866-00.36.45.948 	jameson calms down and speaks into an intercom.
-1012_Unbreakable_00.37.50.356-00.37.52.791 	david stops at the head of the queue and speaks to another security.
+1010_TITANIC_00.59.33.404-00.59.36.125 	a dark haired woman speaking with a white-haired man.
+1010_TITANIC_01.48.09.188-01.48.15.860 	cal stares at her and opens his mouth, as if to speak, then slaps her face.
+1012_Unbreakable_01.06.30.586-01.06.34.252 	the assistant looks at elijah as if about to speak, his hands moving feebly.
 1014_2012_01.55.02.737-01.55.06.331 	gordon stares ahead and speaks without looking at jackson.
-1018_Body_Of_Lies_00.19.39.910-00.19.46.229 	ferris speaks arabic.
 1018_Body_Of_Lies_01.10.49.845-01.10.59.148 	in an office on a construction site, he speaks to a bald agent posing as a construction worker.
 1019_Confessions_Of_A_Shopaholic_00.05.12.344-00.05.17.710 	the mannequin speaks to her.
+1020_Crazy_Stupid_Love_00.01.21.840-00.01.23.794 	emily opens her mouth to speak, but falters.
+1020_Crazy_Stupid_Love_00.02.13.695-00.02.20.070 	she opens and closes her mouth several times before she finally speaks.
 1024_Identity_Thief_00.10.59.533-00.11.01.765 	he speaks to her with his hands gently holding her face.
-1024_Identity_Thief_01.22.20.408-01.22.22.865 	now, trish speaks on her phone.
 1028_No_Reservations_00.11.55.994-00.11.59.271 	she stops at the reception desk and speaks to a nurse, who points to a room opposite.
 1029_Pride_And_Prejudice_Disk_One_00.19.01.620-00.19.04.563 	sir william goes to speak to him, but then thinks better of it.
 1029_Pride_And_Prejudice_Disk_One_00.44.33.676-00.44.36.578 	darcy realizes he is being spoken to.
 1030_Public_Enemies_00.45.55.035-00.46.08.368 	homer speaks up.
+1035_The_Adjustment_Bureau_00.04.49.034-00.04.55.484 	the eldest one speaks.
+1039_The_Queen_00.21.10.938-00.21.12.365 	then, raises the phone to speak.
 1039_The_Queen_00.27.14.531-00.27.21.583 	a priest can be glimpsed speaking while charles has his hand over his mouth and looks in grief at the casket before him.
+1042_Up_In_The_Air_01.35.43.713-01.35.49.448 	ryan opens his mouth as if he's about to speak, but instead he shuts his eyes and hangs up.
 1043_Vantage_Point_00.14.30.021-00.14.35.617 	barnes goes to speak into a mic in his cuff, but stops.
 1043_Vantage_Point_00.14.41.733-00.14.50.565 	he speaks into his mic.
 1043_Vantage_Point_00.21.21.305-00.21.24.503 	he speaks into his cuff mike.
 1043_Vantage_Point_00.34.11.075-00.34.15.703 	howard's camera pans to take in barnes looking upward and speaking into his cuff mic.
-1043_Vantage_Point_00.59.48.619-00.59.51.731 	barnes speaks into his radio.
 1046_Australia_02.32.52.053-02.33.02.000 	fletcher tries to speak and then collapses over a piece of wreckage.
+1049_Harry_Potter_and_the_chamber_of_secrets_01.08.24.335-01.08.32.055 	harry moves slowly towards it and starts to speak.
 1049_Harry_Potter_and_the_chamber_of_secrets_01.08.39.976-01.08.42.344 	harry speaks again.
 1049_Harry_Potter_and_the_chamber_of_secrets_01.08.49.885-01.08.52.082 	harry speaks again.
-1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.41.03.569-01.41.22.011 	ghostly images of harry and hermione speak to ron.
-1053_Harry_Potter_and_the_philosophers_stone_00.47.32.919-00.47.35.270 	percy speaks to the ghost on the gryffindor table.
-1056_Rambo_00.48.31.789-00.48.38.789 	rambo joins them and speaks to bn.
-1057_Seven_pounds_00.50.00.466-00.50.04.387 	a pretty, blonde waitress speaks to him.
+1049_Harry_Potter_and_the_chamber_of_secrets_01.14.23.060-01.14.27.687 	as he stares at the crumpled hat, it starts to speak.
+1049_Harry_Potter_and_the_chamber_of_secrets_02.03.31.400-02.03.39.962 	he goes towards it, and starts to speak.
+1051_Harry_Potter_and_the_goblet_of_fire_01.21.10.545-01.21.16.395 	she goes to speak, thinks better of it, turns her back, and walks off.
+1052_Harry_Potter_and_the_order_of_phoenix_00.06.30.457-00.06.36.964 	the envelope speaks.
+1053_Harry_Potter_and_the_philosophers_stone_00.43.20.694-00.43.30.693 	the hat speaks.
+1057_Seven_pounds_00.22.35.495-00.22.44.903 	emily, wearing a short strappy dress over a vest top, approaches ben's table and glances over at the shaven-headed boy before speaking.
+1057_Seven_pounds_00.37.39.000-00.37.44.312 	he glares at ben and falters, before he starts to speak.
+1057_Seven_pounds_01.15.02.077-01.15.10.135 	ben studies her as she speaks, then lowers his eyes.
 1058_The_Damned_united_01.29.17.753-01.29.21.677 	brian is wide eyed as he speaks into peter's ear.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.25.09.000-00.25.10.000 	he speaks to his snake.
-2004_Juno_00.16.11.916-00.16.17.682 	bren speaks in her strong city accent.
+2005_Signs_00.10.28.671-00.10.29.730 	he lowers the inhaler so he can speak.
 2005_Signs_00.25.24.980-00.25.28.785 	when tracey speaks her voice is a bit shaky.
+2005_Signs_01.14.04.471-01.14.09.614 	graham keeps hammering as he speaks.
+2005_Signs_01.17.18.452-01.17.23.012 	morgan looks at his father, unable to speak.
 2005_Signs_01.25.38.470-01.25.40.021 	he speaks to no one.
 2012_Unbreakable_00.02.03.600-00.02.07.311 	the older saleswoman speaks up.
-1053_Harry_Potter_and_the_philosophers_stone_00.47.32.919-00.47.35.270 	percy speaks to the ghost on the gryffindor table.
-1056_Rambo_00.48.31.789-00.48.38.789 	rambo joins them and speaks to bn.
-1057_Seven_pounds_00.50.00.466-00.50.04.387 	a pretty, blonde waitress speaks to him.
-1058_The_Damned_united_01.29.17.753-01.29.21.677 	brian is wide eyed as he speaks into peter's ear.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.25.09.000-00.25.10.000 	he speaks to his snake.
-2004_Juno_00.16.11.916-00.16.17.682 	bren speaks in her strong city accent.
-2005_Signs_00.25.24.980-00.25.28.785 	when tracey speaks her voice is a bit shaky.
-2005_Signs_01.25.38.470-01.25.40.021 	he speaks to no one.
-2012_Unbreakable_00.02.03.600-00.02.07.311 	the older saleswoman speaks up.
+2012_Unbreakable_00.27.48.779-00.27.51.181 	when elijah speaks, his voice has a whispery quality to it.
+2027_Les_Miserables_00.39.42.413-00.39.43.671 	before the judge has a chance to speak, the doors open and valjean bursts in.
 2034_Super_8_00.46.01.607-00.46.10.607 	currently, mrs. babbit, 52, speaks into the microphone on the floor.
+2034_Super_8_00.46.22.678-00.46.25.930 	a short, bald man of 65, mr. mccandless speaks.
 2034_Super_8_01.18.26.256-01.18.31.251 	staying hidden from the remaining military, donny scrambles for his cb, turns to channel 9, grabs the mike, speaks quietly, frantic.
-2040_The_Ugly_Truth_00.42.23.873-00.42.24.909 	abby realizes she's spoken aloud.
 2041_This_is_40_00.15.02.347-00.15.04.354 	pete stands on stage speaking to a small crowd.
 2041_This_is_40_01.39.20.914-01.39.21.790 	debbie is speaking with barb as they set up the kitchen for a barbecue for pete's fortieth birthday.
-2054_Harry_Potter_and_the_prisoner_of_azkaban_01.23.22.877-01.23.25.732 	she turns, surprised ron's spoken to her.
+2051_Harry_Potter_and_the_goblet_of_fire_00.46.08.742-00.46.23.352 	it's clear ron and harry are not on speaking with each other
+2054_Harry_Potter_and_the_prisoner_of_azkaban_00.01.09.598-00.01.11.328 	once again, he speaks.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_01.27.05.139-01.27.10.714 	dumbledore speaks briefly -- unintelligible from this distance, then -- caw!
 2054_Harry_Potter_and_the_prisoner_of_azkaban_01.50.57.761-01.50.59.934 	as he starts to rise, hermione grabs him, speaks fiercely.
+2054_Harry_Potter_and_the_prisoner_of_azkaban_02.09.04.968-02.09.07.465 	the others turn, begin all speaking at once.

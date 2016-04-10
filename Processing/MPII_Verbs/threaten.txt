@@ -1,7 +1,6 @@
-0030_The_Hustler_00.47.48.358-00.47.54.198 	She closes her eyes, then draws back against the door, fearful, like a threatened animal.
+0030_The_Hustler_00.47.48.358-00.47.54.198 	she closes her eyes, then draws back against the door, fearful, like a threatened animal.
+0051_Men_in_black_00.19.53.827-00.19.55.433 	kay raises the weapon again, threatening.
 1008_Spider-Man2_00.50.52.812-00.50.55.498 	a pincer threatens him.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.41.38.215-00.41.48.470 	harry dreams of voldemort threatening the wand maker, ollivander.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_01.23.19.115-01.23.22.223 	furious, hermione threatens malfoy, her wand at his throat.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_01.31.07.844-01.31.15.453 	pushing hermione aside, harry knocks the man down and threatens him with his wand.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_01.23.19.115-01.23.22.223 	furious, hermione threatens malfoy, her wand at his throat.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_01.31.07.844-01.31.15.453 	pushing hermione aside, harry knocks the man down and threatens him with his wand.

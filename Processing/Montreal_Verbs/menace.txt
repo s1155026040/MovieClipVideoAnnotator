@@ -1,0 +1,3 @@
+PROMETHEUS.srt 	PROMETHEUS_DVS715 	01:15:59,00 --> 01:16:06,50 	as the door lowers, someone stops halfway down, wielding the menacing weapon.
+SPARKLE_2012.srt 	SPARKLE_2012_DVS372 	01:03:09,00 --> 01:03:16,50 	he slowly turns away, keeping his menacing eyes locked on hers.
+THE_CALL.srt 	THE_CALL_DVS116 	00:09:00,00 --> 00:09:09,50 	his face obscured by a ball cap, the menacing man turns.

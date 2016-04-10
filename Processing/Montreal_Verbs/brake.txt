@@ -1,0 +1,3 @@
+FLIGHT.srt 	FLIGHT_DVS771 	01:37:09,00 --> 01:37:15,50 	he brakes when he sees news crews outside the farm house.
+THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS159 	00:24:30,00 --> 00:24:39,50 	at an intersection the van driver brakes suddenly.
+THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS572 	01:43:38,00 --> 01:43:46,50 	someone skids around a corner, pulls into a curbside spot, and brakes hard.

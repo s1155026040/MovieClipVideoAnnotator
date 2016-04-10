@@ -1,0 +1,52 @@
+0003_CASABLANCA_01.02.39.561-01.02.42.997 	She indicates with her hand where she wants them.
+0004_Charade_00.13.35.515-00.13.36.323 	The cover indicates that it is Swiss.
+0004_Charade_01.38.18.545-01.38.19.260 	REGGIE stops and pauses for a moment at a sign indicating two different directions, an arrow for each.
+0008_Fargo_01.32.29.359-01.32.31.812 	Cop one indicates the open bathroom door.
+0010_Frau_Ohne_Gewissen_01.13.54.736-01.13.55.367 	She's wearing a simple black suit and hat, indicating mourning.
+0010_Frau_Ohne_Gewissen_01.20.19.724-01.20.20.662 	He indicates the cigar he himself is smoking.
+0010_Frau_Ohne_Gewissen_01.20.34.667-01.20.36.973 	Jackson indicates the file folder he is holding.
+0010_Frau_Ohne_Gewissen_01.43.50.744-01.43.55.744 	Neff makes a motion indicating the used cylinders standing on the desk.
+0011_Gandhi_00.37.50.840-00.37.53.119 	The tall white doors open, the tall civil servant indicates that Gandhi enter.
+0011_Gandhi_01.12.23.587-01.12.27.298 	He indicates that the clerk take his place.
+0011_Gandhi_02.55.32.673-02.55.36.203 	Almost reflexively he holds his hand out to indicate the height of his son.
+0011_Gandhi_02.56.02.634-02.56.06.972 	He raises his hand to the height Nahari has indicated as his son's.
+0012_Get_Shorty_01.14.46.033-01.14.51.921 	Ray indicates the nice red sunset.
+0014_Ist_das_Leben_nicht_schoen_01.20.35.208-01.20.37.442 	Then, to his goon, indicating the office door.
+0014_Ist_das_Leben_nicht_schoen_01.44.37.745-01.44.40.282 	George indicates his bad ear.
+0014_Ist_das_Leben_nicht_schoen_01.54.47.714-01.54.51.010 	Attracting his attention, he motions to Bert to follow him, indicating he has a nut in the back.
+0017_Pianist_01.07.45.404-01.07.49.738 	He indicates the sacks with his chin.
+0020_Raising_Arizona_01.26.27.640-01.26.33.562 	He indicates Ed with a nod of the head.
+0021_Rear_Window_01.41.38.252-01.41.40.105 	The first policeman indicates that Lisa is to come along with him.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.52.07.586-00.52.14.680 	Sam indicates a BROODING STRANGER who sits alone at a table in the far corner, smoking a curiously carved long stemmed pipe, peering from beneath a travel stained cowl with gleaming eyes.
+0031_The_Lost_Weekend_00.27.20.652-00.27.25.369 	With his thumb, Nat indicates Gloria.
+0033_Amadeus_00.58.21.619-00.58.23.584 	He indicates a dish piled high with glazed chestnuts.
+0033_Amadeus_02.21.54.902-02.21.57.167 	Nervously, Mozart indicates her.
+0038_Psycho_00.28.20.355-00.28.25.080 	He gestures her into the office, standing back to indicate that he will go after her.
+0038_Psycho_01.36.56.366-01.37.01.893 	She stands on the threshold, looking in at the room, instantly disturbed by it, almost chilled, her expression indicating an impulse to close the door and go away from this room forever.
+0050_Indiana_Jones_and_the_last_crusade_00.27.06.159-00.27.10.158 	She indicates FOUR HUGE MARBLE COLUMNS that go from floor to ceiling.
+0051_Men_in_black_00.59.17.074-00.59.19.368 	He indicates the three stars that make up the belt.
+0053_Rendezvous_mit_Joe_Black_00.56.25.068-00.56.27.989 	Drew indicates to the Board's Stenographer to arrange Joe's refreshments.
+1002_Harry_Potter_and_the_Half-Blood_Prince_01.14.41.744-01.14.44.427 	Nymphadora Tonks indicates to Harry to remain quiet.
+1008_Spider-Man2_01.50.43.493-01.50.50.077 	spider-man indicates to those around him with a raised palm and a nod of the head, and staggers forward.
+1011_The_Help_00.38.39.849-00.38.43.327 	hilly eyes the pie and loftily indicates she should wait.
+1011_The_Help_01.38.42.591-01.38.45.470 	minnie's round black eyes indicate the pie.
+1015_27_Dresses_01.05.59.578-01.06.04.147 	jane checks the public telephone, but indicates with a roll of her eyes that it's not working.
+1033_Sherlock_Holmes_A_Game_of_Shadows_00.54.07.036-00.54.11.585 	the gypsy man indicates a bearded man holding a goose.
+1033_Sherlock_Holmes_A_Game_of_Shadows_01.24.09.790-01.24.15.988 	moriarty indicates to a henchman to lower holmes to the ground.
+1039_The_Queen_00.45.32.103-00.45.36.333 	allister indicates a nearby room.
+1044_Pride_And_Prejudice_Disk_Two_00.18.51.831-00.18.55.395 	lydia indicates that she'll come down and meet them then closes the window.
+1044_Pride_And_Prejudice_Disk_Two_00.56.03.459-00.56.03.874 	he indicates a young woman standing on the other side of the room.
+1044_Pride_And_Prejudice_Disk_Two_01.34.40.839-01.34.42.506 	she indicates the road he should take.
+1045_An_education_00.43.04.233-00.43.07.475 	he indicates that's a yes.
+1045_An_education_01.26.20.567-01.26.25.196 	jenny indicates that she's not.
+1047_Defiance_01.28.14.555-01.28.16.215 	zus indicates gramov who doesn't appear to be paying attention.
+1049_Harry_Potter_and_the_chamber_of_secrets_00.45.42.135-00.45.45.121 	he indicates harry, ron, and hermione.
+1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.37.45.612-00.37.48.976 	hermione indicates her bag.
+1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.43.18.047-00.43.21.263 	ron indicates the name of the door.
+1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.30.50.289-01.30.53.338 	she indicates something, across the room.
+1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.42.55.162-01.42.56.783 	he indicates ron.
+1054_Harry_Potter_and_the_prisoner_of_azkaban_01.18.33.908-01.18.35.479 	he indicates the marauder's map.
+2027_Les_Miserables_00.34.49.555-00.34.50.382 	javert indicates to the two policemen to drag fantine away.
+1054_Harry_Potter_and_the_prisoner_of_azkaban_01.18.33.908-01.18.35.479 	he indicates the marauder's map.
+2027_Les_Miserables_00.34.49.555-00.34.50.382 	javert indicates to the two policemen to drag fantine away.
+2034_Super_8_00.12.27.730-00.12.30.380 	he indicates the sponge: it's for the make-up.

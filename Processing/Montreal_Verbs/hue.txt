@@ -1,0 +1,5 @@
+A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS429 	00:41:43,00 --> 00:41:52,50 	dining chairs stand on tables with champagne hued tablecloth.
+CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS700 	01:07:52,00 --> 01:08:00,50 	now, someone and someone propel their paddleboards over sunlit glassy waters hued a deep peacock blue.
+CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS863 	01:24:48,00 --> 01:24:55,50 	now beneath a stormy sky, slate hued waves roil and churn along the coast,
+PROMETHEUS.srt 	PROMETHEUS_DVS672 	01:12:35,00 --> 01:12:41,50 	as the pilot works the controls, more emerald hued fields of energy appear above them.
+THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS122 	00:28:05,00 --> 00:28:18,50 	he flips back several pages and studies a red hued painting of a figure standing under bare trees before a distant building.

@@ -1,0 +1,3 @@
+KARATE_KID.srt 	KARATE_KID_DVS271 	00:24:41,00 --> 00:24:47,50 	someone mopes down the sidewalk, passing between two cramped rows of parked bicycles.
+KARATE_KID.srt 	KARATE_KID_DVS660 	00:56:01,00 --> 00:56:06,50 	dirty dishes clutter the cramped kitchen.
+PROMETHEUS.srt 	PROMETHEUS_DVS439 	00:45:43,00 --> 00:45:59,50 	the two trapped men move on through the dark cramped space.

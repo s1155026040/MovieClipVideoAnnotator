@@ -1,26 +1,45 @@
-0001_American_Beauty_00.12.54.460-00.13.13.477 	Standing very still, with the blinds casting shadows across her face, she starts to cry: brief, staccato SOBS that seemingly escape against her will.
-0001_American_Beauty_00.12.54.460-00.13.13.477 	Standing very still, with the blinds casting shadows across her face, she starts to cry: brief, staccato SOBS that seemingly escape against her will.
-0009_Forrest_Gump_02.08.45.627-02.08.53.994 	The morning light casts an orange glow over the desert.
-0013_Halloween_01.15.56.133-01.15.56.844 	A Jack-O-Lantern casts and eerie glow around the room.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.58.00.683-00.58.01.611 	Strider stops, casts a glance back at Sam.
+0001_American_Beauty_00.12.54.460-00.13.13.477 	standing very still, with the blinds casting shadows across her face, she starts to cry: brief, staccato sobs that seemingly escape against her will.
+0009_Forrest_Gump_02.08.45.627-02.08.53.994 	the morning light casts an orange glow over the desert.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.58.00.683-00.58.01.611 	strider stops, casts a glance back at sam.
 0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.03.08.758-02.03.09.097 	the pillars casting eerie shadows.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.29.44.094-02.29.47.412 	Legolas casts a glance around into the Parth Galen forest.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.15.31.250-00.15.32.236 	SMEAGOL casts a quick glance over his SHOULDER to the SLEEPING figures of FRODO and SAM as he clambers off his ROCK.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.13.38.878-01.13.44.270 	ARAGORN casts another look back at the ANCIENT STANDING STONES before following GIMLI.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.37.08.411-01.37.09.512 	a MASSIVE IRON HEAD, cast in the likeness of a SNARLING WOLF.this is GROND.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.43.25.237-02.43.25.903 	The FIERY LAVA casting an EVIL LIGHT.
-0026_The_Big_Fish_00.08.34.359-00.08.41.231 	Off the glow of the reading light, the boy is using his hands to cast shadows on the seat back.
-0026_The_Big_Fish_00.08.54.704-00.08.56.110 	The endtable lamp lies between them, its shade off to cast big shadows on the wall.
-0026_The_Big_Fish_00.09.29.518-00.09.30.606 	The moon hangs low, casting long shadows.
-0030_The_Hustler_01.23.47.611-01.23.50.868 	Eddie seems happy to be out with her, almost as if he has forgotten the casts on his hands.
-0030_The_Hustler_01.27.34.045-01.27.35.831 	The casts are off.
-0050_Indiana_Jones_and_the_last_crusade_00.04.45.839-00.04.47.716 	He casts a disgusted glance in the direction of his fleeing companions -- then sets off after Indy.
-0053_Rendezvous_mit_Joe_Black_01.00.13.393-01.00.21.243 	The Board is provoked and mystified by Joe and even more by his presence, they cast meaningful glances at Parrish, Drew coolly grasps the irritation of the members.
-1001_Flight_00.10.49.000-00.10.51.973 	Ken casts an uneasy sideways glance at Whip.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.33.37.696-01.33.39.511 	The shadow of a figure climbing stairs is cast on a wall.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.38.27.703-01.38.29.514 	Draco draws his wand and cast a spell.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.38.33.224-01.38.34.330 	Draco casts another.
-1005_Signs_01.10.49.520-01.10.54.870 	Shifting awkwardly in his chair, Graham casts a fleeting glance at the others.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.29.44.094-02.29.47.412 	legolas casts a glance around into the parth galen forest.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.15.31.250-00.15.32.236 	smeagol casts a quick glance over his shoulder to the sleeping figures of frodo and sam as he clambers off his rock.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.37.08.411-01.37.09.512 	a massive iron head, cast in the likeness of a snarling wolf.this is grond.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.43.25.237-02.43.25.903 	the fiery lava casting an evil light.
+0026_The_Big_Fish_00.08.34.359-00.08.41.231 	off the glow of the reading light, the boy is using his hands to cast shadows on the seat back.
+0026_The_Big_Fish_00.08.54.704-00.08.56.110 	the endtable lamp lies between them, its shade off to cast big shadows on the wall.
+0026_The_Big_Fish_00.09.29.518-00.09.30.606 	the moon hangs low, casting long shadows.
+0026_The_Big_Fish_00.27.08.240-00.27.09.316 	the ruckus slows and quiets, as if a strange spell has been cast.
+0050_Indiana_Jones_and_the_last_crusade_00.04.45.839-00.04.47.716 	he casts a disgusted glance in the direction of his fleeing companions -- then sets off after indy.
+0053_Rendezvous_mit_Joe_Black_01.00.13.393-01.00.21.243 	the board is provoked and mystified by joe and even more by his presence, they cast meaningful glances at parrish, drew coolly grasps the irritation of the members.
+1001_Flight_00.10.49.000-00.10.51.973 	ken casts an uneasy sideways glance at whip.
+1002_Harry_Potter_and_the_Half-Blood_Prince_01.33.37.696-01.33.39.511 	the shadow of a figure climbing stairs is cast on a wall.
+1002_Harry_Potter_and_the_Half-Blood_Prince_01.38.27.703-01.38.29.514 	draco draws his wand and cast a spell.
+1002_Harry_Potter_and_the_Half-Blood_Prince_01.38.33.224-01.38.34.330 	draco casts another.
+1005_Signs_01.10.49.520-01.10.54.870 	shifting awkwardly in his chair, graham casts a fleeting glance at the others.
+1007_Spider-Man1_01.51.28.385-01.51.29.821 	the bare trees have cast their autumnal leaves.
+1008_Spider-Man2_00.31.48.392-00.31.49.486 	he pulls on the red mask, leaps into the air, casting a web line to pull him self up.
+1009_Spider-Man3_01.04.01.867-01.04.13.302 	the unseen presence glides across the door and up onto the bed, casting a tangled black shadow on the wall.
+1011_The_Help_02.16.43.546-02.16.49.620 	at the front door, aibileen casts one last look at hilly, who seems to have lost all her puff.
+1012_Unbreakable_00.41.29.876-00.41.38.957 	through alternate pools of light and shadows cast by the arches but the man walks fast enough to disappear from sight around the curve of the building.
+1018_Body_Of_Lies_01.25.04.551-01.25.08.101 	pale light glows in the windows of the hangar and casts a sheen across the tarmac.
+1026_Legion_00.22.42.249-00.22.45.345 	the old woman's shadow is cast on the diner door.
+1030_Public_Enemies_01.18.26.707-01.18.28.551 	the night casts a turquoise hue over dillinger who clutches his shoulder in the backseat.
+1031_Quantum_of_Solace_00.55.11.604-00.55.17.633 	she stands looking lost as he casts a critical eye over the bedroom and marble on-suite bathroom.
+1037_The_Curious_Case_Of_Benjamin_Button_01.12.52.651-01.12.56.963 	elizabeth wears a fur coat and a hat with a broad brim, which casts her face in shadow.
+1037_The_Curious_Case_Of_Benjamin_Button_02.11.13.303-02.11.19.592 	they're cast in a warm glow as the sun rises.
+1039_The_Queen_00.17.51.968-00.17.53.875 	the queen casts her eyes downward.
+1039_The_Queen_00.35.37.435-00.35.38.625 	robin casts his eyes down.
+1039_The_Queen_00.55.48.074-00.55.49.292 	tony casts his eyes skyward.
+1039_The_Queen_01.02.56.143-01.03.03.741 	the queen casts her gaze skyward, dabs some tears with a handkerchief, then, wipes her nose.
+1039_The_Queen_01.30.23.889-01.30.29.497 	the queen casts her eyes downward and gently scratches her brow.
+1041_This_is_40_01.03.36.337-01.03.41.273 	now, the sunlight casts a bright glow off of debbie's long, golden blonde hair as she drives.
+1044_Pride_And_Prejudice_Disk_Two_00.07.38.262-00.07.42.172 	outside, the sun is setting, casting a salmon pink glow over rosings.
+1046_Australia_00.01.35.000-00.01.38.540 	dawn glows orange, casting two people and a tree in silhouette.
+1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.42.20.702-00.42.26.542 	his shadow is cast on the wall.
+1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.50.30.676-00.50.31.395 	harry casts a spell.
+1051_Harry_Potter_and_the_goblet_of_fire_00.02.24.170-00.02.36.812 	grasping the wooden banister, he starts to climb the un-carpeted stairs, his torch casting eerie shadows over the paneled walls.
+1051_Harry_Potter_and_the_goblet_of_fire_00.11.54.582-00.11.57.058 	the figure points a wand into the dark sky and casts a spell.
 1053_Harry_Potter_and_the_philosophers_stone_00.38.44.000-00.38.51.034 	half hidden by clouds, the moon casts a faint blue light.
 1056_Rambo_00.06.52.223-00.07.01.675 	the sun casts an orange glow on the river water.
 1056_Rambo_00.18.42.839-00.18.54.795 	pirates in vests and bandannas cast ropes with grappling hooks tied to the ends over to rambo's boat.
@@ -29,14 +48,12 @@
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.06.32.942-01.06.36.948 	hermione casts a spell knocking fenrir greyback through a window.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.25.33.000-01.25.40.185 	the remnants of flickering fires cast his shadow before him.
 1062_Day_the_Earth_stood_still_00.17.36.567-00.17.40.849 	trees cast eerie shadows across the grass.
-1062_Day_the_Earth_stood_still_00.19.12.467-00.19.15.658 	the object casts in eerie green glow in the haze.
 1062_Day_the_Earth_stood_still_00.41.27.412-00.41.34.000 	helen, glancing around warily, runs down a corridor full of shadows cast by the flickering lights.
 2051_Harry_Potter_and_the_goblet_of_fire_00.03.41.815-00.03.45.393 	a loud spell is cast and harry wakes up in a flash of panic.
 2051_Harry_Potter_and_the_goblet_of_fire_00.11.55.495-00.12.04.395 	he casts a spell which causes a bright flash and a large ghostly skull forms in the sky with a snake crawling from it.
 2051_Harry_Potter_and_the_goblet_of_fire_00.20.42.731-00.20.48.834 	a strange man stands in the doorway, he casts some magic upwards and seals the roof.
-2051_Harry_Potter_and_the_goblet_of_fire_00.22.01.192-00.22.20.755 	dumbledore casts magic over a box which melds into a goblet containing a blue flame.
 2051_Harry_Potter_and_the_goblet_of_fire_00.27.22.833-00.27.28.636 	he casts a spell and the spider disintegrates.
 2051_Harry_Potter_and_the_goblet_of_fire_00.50.51.100-00.50.58.690 	harry walks away and draco angrily tries casting a spell.
 2051_Harry_Potter_and_the_goblet_of_fire_01.37.37.435-01.37.56.252 	underwater harry casts a spell which propels him towards the surface, he flies out and lands on the decking where the crowd are.
 2051_Harry_Potter_and_the_goblet_of_fire_02.00.16.325-02.00.21.691 	wormtail casts a spell and kills cedric.
-2051_Harry_Potter_and_the_goblet_of_fire_02.07.02.730-02.07.10.318 	voldemort casts at harry and he wriggles in pain.
+2051_Harry_Potter_and_the_goblet_of_fire_02.08.22.361-02.09.49.103 	they both cast and their streams of magic meet.

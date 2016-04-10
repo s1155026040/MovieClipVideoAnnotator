@@ -1,18 +1,7 @@
-0007_DIE_NACHT_DES_JAEGERS_00.27.09.710-00.27.16.780 	He gawks at his own folly, covers his mouth with his hand and looks up at PREACHER stiffens, relaxes, and chuckles softly.
-0012_Get_Shorty_01.25.59.482-01.26.02.043 	Karen sits down, looks about at all of the gawking diners.
-0030_The_Hustler_01.48.15.770-01.48.16.978 	Eddie shoves through the gawking crowd.
-1003_How_to_Lose_Friends_and_Alienate_People_00.37.36.001-00.37.38.866 	Slack-jawed, Sidney gawks at her and she raises her eyebrows.
-1011_The_Help_00.59.13.860-00.59.20.654 	skeeter gawks nervously as minnie heaves her full round hips onto the table and folds her arms.
+0007_DIE_NACHT_DES_JAEGERS_00.27.09.710-00.27.16.780 	he gawks at his own folly, covers his mouth with his hand and looks up at preacher stiffens, relaxes, and chuckles softly.
 1015_27_Dresses_01.07.46.346-01.07.51.755 	she gawks at him.
-1020_Crazy_Stupid_Love_01.00.33.177-01.00.38.884 	emily gawks at him.
 1020_Crazy_Stupid_Love_01.09.29.494-01.09.32.435 	she gawks at him.
-1020_Crazy_Stupid_Love_01.34.00.074-01.34.01.674 	emily gawks at him.
 1024_Identity_Thief_01.28.44.190-01.28.45.856 	the restaurant patrons gawk from their tables.
-1035_The_Adjustment_Bureau_01.20.47.800-01.20.55.549 	david obeys, gawks at the jarring change in location, and follows his guide down the damp corridor.
-1038_The_Great_Gatsby_00.29.57.353-00.30.02.945 	nick gawks at gatsby, a handsome, fine-featured man with bright eyes and swept-back, wavy brown hair.
-1041_This_is_40_01.54.13.582-01.54.15.915 	sadie gawks at her mom as she storms away.
-1051_Harry_Potter_and_the_goblet_of_fire_00.17.49.860-00.17.53.047 	ron gawks at the girls.
-1060_Yes_man_00.28.59.840-00.29.01.954 	she gawks at him.
-1060_Yes_man_00.39.13.573-00.39.16.183 	beaming, he gawks at the screen.
+1060_Yes_man_00.03.37.168-00.03.39.155 	they all turn to gawk.
 1060_Yes_man_00.28.59.840-00.29.01.954 	she gawks at him.
 1060_Yes_man_00.39.13.573-00.39.16.183 	beaming, he gawks at the screen.

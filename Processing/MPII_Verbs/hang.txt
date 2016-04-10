@@ -1,204 +1,197 @@
-0001_American_Beauty_00.22.55.095-00.22.57.373 	Lester hangs up and exits quickly.
+0001_American_Beauty_00.22.55.095-00.22.57.373 	lester hangs up and exits quickly.
 0002_As_Good_As_It_Gets_00.12.15.703-00.12.16.020 	he hangs near their table.
-0002_As_Good_As_It_Gets_01.45.08.593-01.45.09.424 	He hangs up.
-0002_As_Good_As_It_Gets_01.47.11.164-01.47.19.308 	he takes the blotter from the desk set and a pen from his jacket pocket which hangs on the chair and with vigor and faint pain moves to the other side of the bed where he turns on the light and stares at Carol.
-0002_As_Good_As_It_Gets_01.52.19.416-01.52.32.110 	He hangs up, totally satisfied with himself and rips over to Carol and Melvin.
-0002_As_Good_As_It_Gets_01.52.58.960-01.53.01.844 	Melvin hangs up the phone.
-0003_CASABLANCA_01.35.10.235-01.35.12.622 	He hangs up the receiver and presses a BUZZER on his desk.
-0003_CASABLANCA_01.35.21.903-01.35.24.531 	He hangs up the receiver and, grabbing for his cap, hurriedly exits.
-0003_CASABLANCA_01.35.43.263-01.35.49.298 	He hangs up and moves to a car that has just pulled up outside the hangar.
-0004_Charade_00.17.38.433-00.17.39.438 	A bulldurham tag hangs from his outside breast pocket, dangling from its string.
-0004_Charade_00.41.37.008-00.41.38.109 	He hangs up.
-0004_Charade_00.41.39.894-00.41.44.876 	Slowly, REGGIE lowers the 'phone from her ear and hangs it up.
-0004_Charade_00.45.12.940-00.45.13.366 	Almost as far as the eye can see, row upon row of beef sides, hung on hooks.
-0004_Charade_00.52.11.453-00.52.12.241 	The receiver hangs by its cord, swinging back and forth.
-0004_Charade_01.06.05.039-01.06.11.915 	She hangs up and turns to JEAN-LOUIS.
-0004_Charade_01.21.11.396-01.21.17.041 	He hangs up, swings his feet out of bed and spears his slippers, reaching for his robe at the same time.
-0004_Charade_01.23.55.919-01.23.58.306 	ADAM, before hanging up, reflects on TEX's words, then looks behind him.
-0004_Charade_01.23.59.874-01.24.08.281 	Smiling softly, he hangs up the phone and starts for REGGIE's door.
-0004_Charade_01.37.34.852-01.37.38.847 	She hangs up, looks briefly at TEX's body, shudders, then hurries to the door.
-0005_Chinatown_00.41.25.007-00.41.28.081 	Then he's inundated with a rush of water which pours over him, knocks off his hat, carries him down the channel, banging into its banks, as he desperately tries to grab some of the overgrowth to hang on and pull himself out.
-0005_Chinatown_01.36.54.236-01.36.58.687 	He hangs up, falls back down.
-0005_Chinatown_01.55.03.535-01.55.13.458 	Gittes hangs up and goes to the door.
-0006_Clerks_00.26.12.331-00.26.13.849 	DANTE hangs up.
-0006_Clerks_00.41.30.276-00.41.31.313 	He hangs up.
-0007_DIE_NACHT_DES_JAEGERS_00.11.13.304-00.11.17.380 	He hangs up his coat and hat.
-0007_DIE_NACHT_DES_JAEGERS_00.30.14.223-00.30.17.317 	WILLA is in HEAD CLOSE-UP; bulb hangs at center; PREACHER, in his nightshirt, is beyond it.
-0007_DIE_NACHT_DES_JAEGERS_00.47.16.884-00.47.22.532 	JOHN'S head is hung in defeat.
-0007_DIE_NACHT_DES_JAEGERS_01.01.36.603-01.01.39.879 	A wire bird-cage hangs close to the shade, silhouetted.
-0007_DIE_NACHT_DES_JAEGERS_01.08.35.623-01.08.37.804 	She wears man's shoes, heavy with mud; a rough skirt; a shapeless sweater hangs over her shoulders; she is in her middle sixties and wears a man's old hat.
-0007_DIE_NACHT_DES_JAEGERS_01.24.16.900-01.24.17.885 	RACHEL, her gun slung sportily under one arm, talks into wall phone which hangs just within the box stairway.
-0007_DIE_NACHT_DES_JAEGERS_01.25.47.777-01.25.47.913 	His head hangs back over her arm.
-0008_Fargo_00.33.01.107-00.33.07.490 	The room in which it hangs is dark.
-0008_Fargo_00.34.10.489-00.34.12.298 	She hangs up.
-0008_Fargo_01.20.07.460-01.20.13.040 	Jerry looks up and freezes, mouth hanging open, brow knit with worry.
-0009_Forrest_Gump_00.14.59.450-00.15.02.414 	Forrest hangs upside down from a branch and swings back and forth.
-0009_Forrest_Gump_00.58.24.766-00.58.27.008 	A group of wounded soldiers hang out in the hospital, recuperating.
-0009_Forrest_Gump_01.14.05.665-01.14.11.547 	A large mural of Mao Tse-tung hangs on the wall.
-0009_Forrest_Gump_01.24.46.735-01.24.48.677 	Forrest hangs up the phone.
-0010_Frau_Ohne_Gewissen_00.07.56.958-00.07.57.119 	A fringed Mexican shawl hangs down over the landing.
-0010_Frau_Ohne_Gewissen_00.07.57.285-00.07.57.460 	A large tapestry hangs on the wall.
-0010_Frau_Ohne_Gewissen_00.22.21.096-00.22.25.831 	Shooting past Neff sitting behind the wheel of his car The car hop hangs a tray on the door and serves him a bottle of beer.
-0010_Frau_Ohne_Gewissen_00.53.05.140-00.53.06.748 	Neff still hangs back and keeps his head down, the way a man using crutches might naturally do.
-0010_Frau_Ohne_Gewissen_00.55.53.267-00.55.55.703 	Neff is hanging onto the railing.
-0010_Frau_Ohne_Gewissen_01.09.22.379-01.09.25.363 	He hangs up, takes off his hat and drops hat and briefcase on the davenport.
-0010_Frau_Ohne_Gewissen_01.23.55.641-01.23.58.216 	Neff hangs up.
-0010_Frau_Ohne_Gewissen_01.33.45.837-01.34.00.675 	Neff hangs up and stands beside the desk with a grim expression on his face, takes a handkerchief out and wipes perspiration from his forehead and the palms of his hands.
-0010_Frau_Ohne_Gewissen_01.41.01.539-01.41.04.845 	His left arm hangs limp.
-0010_Frau_Ohne_Gewissen_01.43.28.228-01.43.31.361 	Neff hangs up the dictaphone horn.
-0011_Gandhi_00.51.26.155-00.51.27.977 	The clothes they wear, which looked normal from the distance, are rags -- literally, shredded rages, one hung on another.
-0011_Gandhi_01.28.37.758-01.28.39.246 	A group of men are hurling themselves at a breach in the top of the wall, hanging there, scrabbling for a purchase, some disappearing, a few heroic individuals astride the wall reaching down to assist their women and children in the swirling crowd below.
-0011_Gandhi_01.41.45.148-01.41.45.365 	The child's mother with two little ones hanging on her has followed him out.
-0012_Get_Shorty_00.16.00.964-00.16.02.202 	Chili leans forward, hangs up the phone with his index finger, casually reaches for the receiver.
-0012_Get_Shorty_00.16.01.738-00.16.02.623 	Chili hangs up the phone.
-0012_Get_Shorty_00.50.53.174-00.50.56.104 	He hugs her and hangs on, leaving Nicki and Chili standing there like idiots.
-0012_Get_Shorty_01.02.45.865-01.02.47.365 	Harry hangs up at the other end.
-0012_Get_Shorty_01.15.11.005-01.15.12.495 	Bo Catlett hangs up, gets to his feet as the men all look into the office now.
-0012_Get_Shorty_01.31.37.942-01.31.42.010 	She struggles, but Bo hangs on to her.
-0013_Halloween_00.43.08.899-00.43.10.076 	Annie hangs up.
-0013_Halloween_01.01.58.397-01.01.59.077 	Lynda hangs up the phone and grins.
-0013_Halloween_01.06.02.167-01.06.21.338 	Bob hangs there, impaled on the wall, eyes still open in horror, dead.
-0013_Halloween_01.08.33.750-01.08.36.166 	Laurie stares at the receiver, then hangs up.
-0013_Halloween_01.09.01.805-01.09.02.797 	Laurie finally hangs up the phone.
-0013_Halloween_01.26.25.776-01.26.27.515 	Laurie just hangs there on the doorframe.
-0014_Ist_das_Leben_nicht_schoen_00.10.32.316-00.10.37.843 	He hangs up the phone and turns to George.
-0014_Ist_das_Leben_nicht_schoen_00.47.54.929-00.47.57.670 	As she hears this, she hastily hangs up the extension phone on which she has been listening.
-0014_Ist_das_Leben_nicht_schoen_00.54.45.497-00.54.47.245 	He realizes George has hung up, and clicks the phone furiously.
-0014_Ist_das_Leben_nicht_schoen_01.21.35.189-01.21.41.938 	He hangs up agitatedly, muttering to himself as he goes into his own office.
-0014_Ist_das_Leben_nicht_schoen_01.24.18.069-01.24.22.907 	Uncle Billy stands before him like a frisked criminal, all his pockets hanging out, empty.
-0014_Ist_das_Leben_nicht_schoen_01.26.32.160-01.26.33.171 	They exit with Tommy hanging onto George's coat-tails, and pulling at him.
-0014_Ist_das_Leben_nicht_schoen_01.51.01.238-01.51.02.666 	Clarence sort of hangs his head.
-0014_Ist_das_Leben_nicht_schoen_01.55.03.674-01.55.04.352 	Windows are broken, the porch sags, one section of the roof has fallen, doors and shutters hang askew on their hinges.
-0016_O_Brother_Where_Art_Thou_01.39.27.274-01.39.29.048 	The men hang onto the coffin, which bears them downstream.
-0017_Pianist_00.30.11.416-00.30.12.910 	He seems to hang in the air for a second then drops out of the chair and out of sight.
-0017_Pianist_02.03.31.864-02.03.35.661 	Szpilman follows the German Captain through a double door, hanging off its hinges, into a room with a broken table in the centre, what once was the dining room.
-0019_Pulp_Fiction_00.50.40.750-00.50.42.531 	Vincent hangs up his overcoat on a big bronze coat rack in the alcove.
-0019_Pulp_Fiction_00.59.39.092-00.59.42.091 	Jody stumbles back in the room, hanging back from the action.
-0019_Pulp_Fiction_01.14.50.226-01.14.51.570 	Butch hangs up the phone.
-0019_Pulp_Fiction_01.30.34.421-01.30.36.908 	Sure enough, there's the watch just like he said it was: On the bedside table, hanging on his little kangaroo statue.
-0019_Pulp_Fiction_01.40.39.705-01.40.40.193 	Maynard hangs back while Zed appraises the two men.
-0019_Pulp_Fiction_01.46.30.932-01.46.33.448 	Butch lowers the sword and hangs back.
-0019_Pulp_Fiction_02.02.10.278-02.02.11.559 	He hangs up.
-0019_Pulp_Fiction_02.03.12.383-02.03.55.961 	The three men hang back as The Wolf examines the car.
-0020_Raising_Arizona_00.18.30.613-00.18.31.136 	The room is hung with streamers.
-0021_Rear_Window_00.06.55.469-00.06.56.990 	He hangs up and resumes his attention on the apartment of the salesman.
-0021_Rear_Window_00.08.39.409-00.08.42.228 	She takes off her hat coat, and hangs them on a chair.
-0021_Rear_Window_00.21.42.839-00.21.43.839 	She is quite flat-chested, and the dress hangs unattractively.
-0021_Rear_Window_00.25.51.988-00.25.55.582 	He speaks quickly into the phone, and hangs up.
-0021_Rear_Window_00.50.58.704-00.51.00.204 	He hangs up.
-0021_Rear_Window_00.51.52.846-00.51.55.846 	Miss Torso, in ballet outfit, is hanging up a small wash on a clothes line.
-0021_Rear_Window_01.34.09.323-01.34.11.655 	Thorwald looks at the receiver a moment, then he slowly hangs up.
-0021_Rear_Window_01.34.10.823-01.34.11.489 	He hangs up before Thorwald can reply.
-0021_Rear_Window_01.44.47.907-01.44.53.948 	He hangs up, and just as he does, Jeff looks toward Thorwald's apartment.
-0021_Rear_Window_01.49.34.219-01.49.36.260 	From Doyle's viewpoint, Jeff hanging out the window and Thorwald hammering at his hands and arms with bare fists.
-0023_THE_BUTTERFLY_EFFECT_00.05.43.670-00.05.48.386 	Andrea hangs up the phone and walks into the next room.
-0023_THE_BUTTERFLY_EFFECT_00.58.36.662-00.58.39.755 	Evan hangs up the phone, then checks his watch.
-0023_THE_BUTTERFLY_EFFECT_01.05.42.692-01.05.48.331 	The most unnerving thing, however, is a SPIKED LEATHER DOG COLLAR hangs off the rearview mirror.
-0023_THE_BUTTERFLY_EFFECT_01.13.40.573-01.13.43.879 	He hangs up, Andrea still pressing her phone to her ear.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.12.32.303-00.12.35.107 	Bilbo hangs up Gandalf's hat on a peg and trots off down the hall.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.27.53.422-00.27.54.676 	around the CHILD'S neck hangs the EVENSTAR.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.16.41.763-01.16.45.892 	ELROND'S eyes fall to the EVENSTAR which hangs around ARAGORN'S neck.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.19.08.845-01.19.10.649 	A HEAVY SILENCE hangs in the room.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.38.14.463-01.38.16.075 	GOLLUM, his sparse oily hair hanging like rank weed over his hooded eyes.
-0026_The_Big_Fish_00.09.29.518-00.09.30.606 	The moon hangs low, casting long shadows.
-0026_The_Big_Fish_00.36.47.028-00.37.02.759 	Lanterns and streamers hang on cables across the street, and a small stage has been built at one end to hold FIDDLERS.
-0026_The_Big_Fish_00.50.31.724-00.50.34.980 	A spilled box of popcorn hangs in mid-air, each kernel like a snowflake.
-0026_The_Big_Fish_01.14.04.766-01.14.06.000 	Sandra hangs sheets to dry on the clotheslines, forming a tunnel of fabric.
-0026_The_Big_Fish_01.14.20.986-01.14.22.952 	With all the strength she can gather, she hangs up that dress and digs another one out of the basket.
-0026_The_Big_Fish_01.29.04.745-01.29.08.744 	When they separate, she has tears hanging in her eyes.
-0026_The_Big_Fish_01.40.48.347-01.40.53.075 	Finished with his work, he takes his hat off the chair and hangs it on the rack.
-0026_The_Big_Fish_01.45.16.630-01.45.17.820 	She hangs up.
-0026_The_Big_Fish_01.49.31.411-01.49.35.628 	It's like he's only half-there, fighting to hang on to this world.
-0026_The_Big_Fish_01.56.12.647-01.56.26.616 	Will has tears hanging in the corners of his eyes.
-0028_The_Crying_Game_01.02.21.281-01.02.24.258 	He looks from the cricket whites that are hanging up behind a curtain to the photographs.
-0029_The_Graduate_00.25.16.901-00.25.22.045 	Ben hangs up slowly.
-0029_The_Graduate_00.32.40.306-00.32.42.186 	He hangs up.
-0029_The_Graduate_01.02.28.425-01.02.28.962 	Her hands move slowly to his wrists and hang on.
-0029_The_Graduate_01.36.04.428-01.36.05.758 	She hangs up.
-0030_The_Hustler_00.09.22.999-00.09.24.974 	Eddie's arrival is noted by Big John and Preacher, a gambler and an addict, who hang out at Ames at all hours, waiting for action.
-0031_The_Lost_Weekend_00.32.42.946-00.32.43.922 	They hang from hangers and sway slowly to Verdi's rhythm.
-0031_The_Lost_Weekend_00.42.11.204-00.42.15.054 	Helen has hung up too.
-0032_The_Princess_Bride_00.17.58.722-00.18.00.653 	And he just hangs there in space, resting, gathering his strength.
-0032_The_Princess_Bride_00.18.55.108-00.18.55.805 	It hangs close to the Man In Black.
-0032_The_Princess_Bride_00.18.55.805-00.19.01.525 	He releases the rocks, grabs the rope, hangs helplessly in space a moment, then looks up at Inigo and.
-0033_Amadeus_00.11.46.199-00.11.47.225 	A large and austere Christ on the cross hangs over the altar.
-0038_Psycho_01.14.08.408-01.14.10.650 	He hangs up, gets out of the phone booth.
-0038_Psycho_01.25.04.822-01.25.07.875 	Norman sits in the dim, one-lamp light, the phone next to him, his hand still near it as if he had not been able to move his hand after hanging up.
-0038_Psycho_01.37.25.019-01.37.28.969 	Fresh, clean, well pressed dresses hang neatly.
-0041_The_Sixth_Sense_00.57.31.634-00.57.32.519 	Climbing ropes hang from the wood beamed ceiling.
-0041_The_Sixth_Sense_00.57.30.496-00.57.32.233 	A BLACK MAN in britches and no shirt, face beaten to a pulp, hangs in the center.
-0041_The_Sixth_Sense_00.57.32.233-00.57.32.363 	A WHITE WOMAN in a torn white frilly dress -- tears soaking her face, hangs to the right.
-0041_The_Sixth_Sense_00.57.32.363-00.57.32.717 	A small MIXED RACE CHILD in half pants, hangs to their left.
-0043_Thelma_and_Luise_00.06.11.412-00.06.15.028 	They both hang up.
-0043_Thelma_and_Luise_00.37.00.478-00.37.03.382 	Louise is hanging up the phone.
-0043_Thelma_and_Luise_00.39.28.813-00.39.30.320 	She hangs up on him.
-0043_Thelma_and_Luise_01.26.47.336-01.26.49.785 	Thelma hangs up the phone.
-0043_Thelma_and_Luise_01.28.34.262-01.28.35.879 	Louise hangs up the phone.
-0043_Thelma_and_Luise_01.45.04.124-01.45.07.910 	A FINGER reaches up and presses down the lever and hangs up the phone.
-0049_Hannah_and_her_sisters_00.09.32.462-00.09.39.705 	Lamps hang down from the ceiling.
-0049_Hannah_and_her_sisters_00.17.24.512-00.17.26.607 	Gail hangs up the phone.
-0049_Hannah_and_her_sisters_00.26.21.219-00.26.22.701 	A nude print hangs at the end of one of the library shelf- like bookcases, which are packed, row after row, with books.
-0049_Hannah_and_her_sisters_00.26.25.691-00.26.31.626 	Pictures hang on the aisle ends of the shelves.
-0049_Hannah_and_her_sisters_00.41.46.384-00.41.51.675 	When no one answers, Frederick, reacting, hangs up, and the film moves back outside to the phone booth, where Elliot, the phone receiver to his ear, listens for a moment, then hangs up.
-0049_Hannah_and_her_sisters_00.53.25.601-00.53.32.847 	Lee passes a restaurant well lit inside by hanging lamps.
-0049_Hannah_and_her_sisters_00.53.46.587-00.54.07.917 	She takes off her coat, hanging it on a hook, then begins to dry her hair with a towel.
-0049_Hannah_and_her_sisters_00.59.30.680-00.59.34.289 	Lee hangs up the phone and the movie cuts back to Elliot, standing in his living room.
-0049_Hannah_and_her_sisters_01.23.27.678-01.23.30.744 	Holly hangs up the phone and takes a drag on her cigarette.
-0049_Hannah_and_her_sisters_01.37.39.239-01.37.43.079 	An old publicity photo hangs inside.
-0050_Indiana_Jones_and_the_last_crusade_00.07.55.998-00.07.58.699 	With Indy hanging on, feet kicking, the water spout deposits him back on the train, onto the ROOF OF A STOCKCAR, where he looks up to see Fedora walking toward him.
-0050_Indiana_Jones_and_the_last_crusade_00.46.46.887-00.46.50.897 	Indy carries a gun in his hand and his whip hangs from his belt.
-0050_Indiana_Jones_and_the_last_crusade_01.34.15.732-01.34.18.065 	Vogel raises the shovel above his head and brings it crashing down on Indy, still hanging from the protruding gun.
-0050_Indiana_Jones_and_the_last_crusade_01.34.18.065-01.34.22.218 	Indy loses his grip and now hangs from the gun suspended only by the strap of his leather pouch.
-0050_Indiana_Jones_and_the_last_crusade_01.35.00.952-01.35.02.320 	Indy still hangs from the strap of his leather pouch as the tank swerves, barely missing the rocks and causing Vogel to fall.
-0051_Men_in_black_00.10.42.426-00.10.50.307 	He pulls out his badge that hangs from a chain under his shirt.
-0051_Men_in_black_00.37.30.561-00.37.32.041 	EDWARDS reaches out and opens a white locker, revealing a BLACK SUIT hung from a hanger in the middle.
-0051_Men_in_black_00.39.00.181-00.39.03.268 	A flap of skin, now getting gray and crusty with age, hangs off EDGAR's neck as he sits in the front of his Orkin van.
-0051_Men_in_black_01.17.28.199-01.17.28.535 	It swerves up, onto the wall and hangs there, racing by the traffic below.
-0051_Men_in_black_01.18.55.150-01.18.56.429 	She hits hard, the branches rattling, and reaches out and hangs on for dear life, high above the ground.
-0053_Rendezvous_mit_Joe_Black_00.11.56.778-00.12.12.415 	The Young Man hangs up, turns around and sits down to an overflowing plate of eggs and meat, potatoes and toast, the counterman refills his cup and the Young Man ties into the breakfast, eating it with such relish that Susan can't take her eyes off him.
-1001_Flight_00.34.49.614-00.34.52.160 	Wearing Bermuda shorts and dark glasses, with earphone wires hanging on each side of his head.
-1001_Flight_00.50.07.115-00.50.12.106 	He looks at a group of photos hanging above a work station off to one side of the hangar.
-1001_Flight_01.45.20.318-01.45.26.453 	The clock shows 2.08 AM as he hangs a suit in a wardrobe.
-1001_Flight_01.52.07.381-01.52.10.093 	A torn piece of toilet paper, with a spot of blood, hangs over his eye.
-1001_Flight_02.09.29.353-02.09.31.068 	A board hangs above the desk covered in photographs and cards.
-1001_Flight_02.10.00.991-02.10.02.737 	In between the photos hangs a copy of the serenity prayer.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.06.02.903-00.06.06.675 	Pictures hang at angles.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.43.48.631-00.43.56.526 	Two birds in a cage hang in a shadowy corridor.
-1003_How_to_Lose_Friends_and_Alienate_People_00.23.03.373-00.23.05.378 	She hangs up.
-1003_How_to_Lose_Friends_and_Alienate_People_01.24.23.948-01.24.26.976 	His long cape hangs in a puddle on the pavement.
-1003_How_to_Lose_Friends_and_Alienate_People_01.24.43.956-01.24.49.102 	Breathing heavily, he hangs his head as the rain beats down on the dark street.
-1003_How_to_Lose_Friends_and_Alienate_People_01.30.45.983-01.30.46.422 	Sydney's mouth hangs open.
-1004_Juno_01.17.06.670-01.17.16.515 	Juno parks the Previa in the street outside the family's wooden slatted house, where the porch light illuminates a straw heart hanging on the door knocker.
-1005_Signs_00.11.37.799-00.11.43.779 	A wire wind chime in the shape of a beaming sun hangs on the veranda and swings mournfully in the soft breeze.
-1005_Signs_01.21.59.713-01.22.01.998 	A dry and faded flowery hangs on a hook.
-1005_Signs_01.22.02.094-01.22.05.262 	A wire-framed basket hangs on another peg.
+0002_As_Good_As_It_Gets_01.45.08.593-01.45.09.424 	he hangs up.
+0002_As_Good_As_It_Gets_01.47.11.164-01.47.19.308 	he takes the blotter from the desk set and a pen from his jacket pocket which hangs on the chair and with vigor and faint pain moves to the other side of the bed where he turns on the light and stares at carol.
+0002_As_Good_As_It_Gets_01.52.19.416-01.52.32.110 	he hangs up, totally satisfied with himself and rips over to carol and melvin.
+0002_As_Good_As_It_Gets_01.52.58.960-01.53.01.844 	melvin hangs up the phone.
+0003_CASABLANCA_01.35.10.235-01.35.12.622 	he hangs up the receiver and presses a buzzer on his desk.
+0003_CASABLANCA_01.35.21.903-01.35.24.531 	he hangs up the receiver and, grabbing for his cap, hurriedly exits.
+0003_CASABLANCA_01.35.43.263-01.35.49.298 	he hangs up and moves to a car that has just pulled up outside the hangar.
+0004_Charade_00.08.38.536-00.08.41.239 	there are squares of the wall's original color where paintings used to hang, the hooks still in the wall.
+0004_Charade_00.17.38.433-00.17.39.438 	a bulldurham tag hangs from his outside breast pocket, dangling from its string.
+0004_Charade_00.41.37.008-00.41.38.109 	he hangs up.
+0004_Charade_00.41.39.894-00.41.44.876 	slowly, reggie lowers the 'phone from her ear and hangs it up.
+0004_Charade_00.45.12.940-00.45.13.366 	almost as far as the eye can see, row upon row of beef sides, hung on hooks.
+0004_Charade_00.45.13.511-00.45.15.480 	as reggie looks at the hanging beef.
+0004_Charade_00.52.11.453-00.52.12.241 	the receiver hangs by its cord, swinging back and forth.
+0004_Charade_01.06.05.039-01.06.11.915 	she hangs up and turns to jean-louis.
+0004_Charade_01.21.11.396-01.21.17.041 	he hangs up, swings his feet out of bed and spears his slippers, reaching for his robe at the same time.
+0004_Charade_01.23.55.919-01.23.58.306 	adam, before hanging up, reflects on tex's words, then looks behind him.
+0004_Charade_01.23.59.874-01.24.08.281 	smiling softly, he hangs up the phone and starts for reggie's door.
+0004_Charade_01.37.34.852-01.37.38.847 	she hangs up, looks briefly at tex's body, shudders, then hurries to the door.
+0005_Chinatown_00.41.25.007-00.41.28.081 	then he's inundated with a rush of water which pours over him, knocks off his hat, carries him down the channel, banging into its banks, as he desperately tries to grab some of the overgrowth to hang on and pull himself out.
+0005_Chinatown_01.36.54.236-01.36.58.687 	he hangs up, falls back down.
+0005_Chinatown_01.55.03.535-01.55.13.458 	gittes hangs up and goes to the door.
+0006_Clerks_00.26.12.331-00.26.13.849 	dante hangs up.
+0006_Clerks_00.41.30.276-00.41.31.313 	he hangs up.
+0007_DIE_NACHT_DES_JAEGERS_00.11.13.304-00.11.17.380 	he hangs up his coat and hat.
+0007_DIE_NACHT_DES_JAEGERS_00.12.27.930-00.12.30.279 	the artist completes in chalk, a large simple sketch of a man hanging from gallows.
+0007_DIE_NACHT_DES_JAEGERS_00.47.16.884-00.47.22.532 	john's head is hung in defeat.
+0007_DIE_NACHT_DES_JAEGERS_01.24.16.900-01.24.17.885 	rachel, her gun slung sportily under one arm, talks into wall phone which hangs just within the box stairway.
+0007_DIE_NACHT_DES_JAEGERS_01.25.47.777-01.25.47.913 	his head hangs back over her arm.
+0008_Fargo_00.13.30.779-00.13.33.962 	he stops by an indian in blue jeans who is looking at the underside of a car that sits on a hydraulic lift with a cage light hanging off its innards.
+0008_Fargo_00.33.01.107-00.33.07.490 	the room in which it hangs is dark.
+0008_Fargo_00.34.10.489-00.34.12.298 	she hangs up.
+0008_Fargo_01.20.07.460-01.20.13.040 	jerry looks up and freezes, mouth hanging open, brow knit with worry.
+0009_Forrest_Gump_00.58.24.766-00.58.27.008 	a group of wounded soldiers hang out in the hospital, recuperating.
+0010_Frau_Ohne_Gewissen_00.22.21.096-00.22.25.831 	shooting past neff sitting behind the wheel of his car the car hop hangs a tray on the door and serves him a bottle of beer.
+0010_Frau_Ohne_Gewissen_00.53.05.140-00.53.06.748 	neff still hangs back and keeps his head down, the way a man using crutches might naturally do.
+0010_Frau_Ohne_Gewissen_00.55.53.267-00.55.55.703 	neff is hanging onto the railing.
+0010_Frau_Ohne_Gewissen_01.09.22.379-01.09.25.363 	he hangs up, takes off his hat and drops hat and briefcase on the davenport.
+0010_Frau_Ohne_Gewissen_01.23.55.641-01.23.58.216 	neff hangs up.
+0010_Frau_Ohne_Gewissen_01.33.45.837-01.34.00.675 	neff hangs up and stands beside the desk with a grim expression on his face, takes a handkerchief out and wipes perspiration from his forehead and the palms of his hands.
+0010_Frau_Ohne_Gewissen_01.43.28.228-01.43.31.361 	neff hangs up the dictaphone horn.
+0011_Gandhi_00.54.41.238-00.54.42.628 	gandhi and charlie are riding on the outside of the coach, hanging on through the door, and both enjoying it immensely.
+0011_Gandhi_01.28.37.758-01.28.39.246 	a group of men are hurling themselves at a breach in the top of the wall, hanging there, scrabbling for a purchase, some disappearing, a few heroic individuals astride the wall reaching down to assist their women and children in the swirling crowd below.
+0011_Gandhi_01.41.45.148-01.41.45.365 	the child's mother with two little ones hanging on her has followed him out.
+0011_Gandhi_02.53.40.569-02.53.59.700 	we see surly knots of belligerent rowdies, mostly young, but not all, hanging on the fringes as we move over the heads of the mass of listening people to a platform where nehru speaks.
+0012_Get_Shorty_00.16.00.964-00.16.02.202 	chili leans forward, hangs up the phone with his index finger, casually reaches for the receiver.
+0012_Get_Shorty_00.16.01.738-00.16.02.623 	chili hangs up the phone.
+0012_Get_Shorty_00.50.53.174-00.50.56.104 	he hugs her and hangs on, leaving nicki and chili standing there like idiots.
+0012_Get_Shorty_01.02.45.865-01.02.47.365 	harry hangs up at the other end.
+0012_Get_Shorty_01.15.11.005-01.15.12.495 	bo catlett hangs up, gets to his feet as the men all look into the office now.
+0013_Halloween_00.43.08.899-00.43.10.076 	annie hangs up.
+0013_Halloween_01.01.58.397-01.01.59.077 	lynda hangs up the phone and grins.
+0013_Halloween_01.08.33.750-01.08.36.166 	laurie stares at the receiver, then hangs up.
+0013_Halloween_01.09.01.805-01.09.02.797 	laurie finally hangs up the phone.
+0013_Halloween_01.26.25.776-01.26.27.515 	laurie just hangs there on the doorframe.
+0014_Ist_das_Leben_nicht_schoen_00.10.32.316-00.10.37.843 	he hangs up the phone and turns to george.
+0014_Ist_das_Leben_nicht_schoen_00.47.54.929-00.47.57.670 	as she hears this, she hastily hangs up the extension phone on which she has been listening.
+0014_Ist_das_Leben_nicht_schoen_00.54.45.497-00.54.47.245 	he realizes george has hung up, and clicks the phone furiously.
+0014_Ist_das_Leben_nicht_schoen_01.14.54.457-01.14.59.366 	mary is busy hanging wallpaper and painting the old place.
+0014_Ist_das_Leben_nicht_schoen_01.21.35.189-01.21.41.938 	he hangs up agitatedly, muttering to himself as he goes into his own office.
+0014_Ist_das_Leben_nicht_schoen_01.24.18.069-01.24.22.907 	uncle billy stands before him like a frisked criminal, all his pockets hanging out, empty.
+0014_Ist_das_Leben_nicht_schoen_01.26.32.160-01.26.33.171 	they exit with tommy hanging onto george's coat-tails, and pulling at him.
+0014_Ist_das_Leben_nicht_schoen_01.51.01.238-01.51.02.666 	clarence sort of hangs his head.
+0014_Ist_das_Leben_nicht_schoen_01.55.03.674-01.55.04.352 	windows are broken, the porch sags, one section of the roof has fallen, doors and shutters hang askew on their hinges.
+0016_O_Brother_Where_Art_Thou_01.07.01.827-01.07.03.622 	everett, jaw hanging open, can only stare, as if at a ghost.
+0016_O_Brother_Where_Art_Thou_01.39.27.274-01.39.29.048 	the men hang onto the coffin, which bears them downstream.
+0017_Pianist_00.30.11.416-00.30.12.910 	he seems to hang in the air for a second then drops out of the chair and out of sight.
+0017_Pianist_02.03.31.864-02.03.35.661 	szpilman follows the german captain through a double door, hanging off its hinges, into a room with a broken table in the centre, what once was the dining room.
+0019_Pulp_Fiction_00.50.40.750-00.50.42.531 	vincent hangs up his overcoat on a big bronze coat rack in the alcove.
+0019_Pulp_Fiction_00.59.39.092-00.59.42.091 	jody stumbles back in the room, hanging back from the action.
+0019_Pulp_Fiction_01.14.50.226-01.14.51.570 	butch hangs up the phone.
+0019_Pulp_Fiction_01.30.34.421-01.30.36.908 	sure enough, there's the watch just like he said it was: on the bedside table, hanging on his little kangaroo statue.
+0019_Pulp_Fiction_01.40.39.705-01.40.40.193 	maynard hangs back while zed appraises the two men.
+0019_Pulp_Fiction_01.46.30.932-01.46.33.448 	butch lowers the sword and hangs back.
+0019_Pulp_Fiction_02.02.10.278-02.02.11.559 	he hangs up.
+0019_Pulp_Fiction_02.03.12.383-02.03.55.961 	the three men hang back as the wolf examines the car.
+0020_Raising_Arizona_00.18.30.613-00.18.31.136 	the room is hung with streamers.
+0020_Raising_Arizona_00.58.15.335-00.58.16.343 	the door swings open and nathan stands looking in, his middle- aged secretary hanging at his elbow.
+0021_Rear_Window_00.06.55.469-00.06.56.990 	he hangs up and resumes his attention on the apartment of the salesman.
+0021_Rear_Window_00.08.39.409-00.08.42.228 	she takes off her hat coat, and hangs them on a chair.
+0021_Rear_Window_00.21.42.839-00.21.43.839 	she is quite flat-chested, and the dress hangs unattractively.
+0021_Rear_Window_00.25.51.988-00.25.55.582 	he speaks quickly into the phone, and hangs up.
+0021_Rear_Window_00.50.58.704-00.51.00.204 	he hangs up.
+0021_Rear_Window_00.51.52.846-00.51.55.846 	miss torso, in ballet outfit, is hanging up a small wash on a clothes line.
+0021_Rear_Window_01.34.09.323-01.34.11.655 	thorwald looks at the receiver a moment, then he slowly hangs up.
+0021_Rear_Window_01.34.10.823-01.34.11.489 	he hangs up before thorwald can reply.
+0021_Rear_Window_01.44.47.907-01.44.53.948 	he hangs up, and just as he does, jeff looks toward thorwald's apartment.
+0021_Rear_Window_01.49.34.219-01.49.36.260 	from doyle's viewpoint, jeff hanging out the window and thorwald hammering at his hands and arms with bare fists.
+0021_Rear_Window_01.49.40.195-01.49.41.134 	jeff, as seen from doyle's angle, hanging, somehow weathering thorwald's insane attack.
+0023_THE_BUTTERFLY_EFFECT_00.05.43.670-00.05.48.386 	andrea hangs up the phone and walks into the next room.
+0023_THE_BUTTERFLY_EFFECT_00.58.36.662-00.58.39.755 	evan hangs up the phone, then checks his watch.
+0023_THE_BUTTERFLY_EFFECT_01.05.42.692-01.05.48.331 	the most unnerving thing, however, is a spiked leather dog collar hangs off the rearview mirror.
+0023_THE_BUTTERFLY_EFFECT_01.13.40.573-01.13.43.879 	he hangs up, andrea still pressing her phone to her ear.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.12.32.303-00.12.35.107 	bilbo hangs up gandalf's hat on a peg and trots off down the hall.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.27.53.422-00.27.54.676 	around the child's neck hangs the evenstar.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.56.30.326-00.56.37.476 	frodo's foot slips and for a brief moment he is hanging precariously from the rock-face.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.16.41.763-01.16.45.892 	elrond's eyes fall to the evenstar which hangs around aragorn's neck.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.38.14.463-01.38.16.075 	gollum, his sparse oily hair hanging like rank weed over his hooded eyes.
+0026_The_Big_Fish_00.09.29.518-00.09.30.606 	the moon hangs low, casting long shadows.
+0026_The_Big_Fish_00.36.47.028-00.37.02.759 	lanterns and streamers hang on cables across the street, and a small stage has been built at one end to hold fiddlers.
+0026_The_Big_Fish_01.14.20.986-01.14.22.952 	with all the strength she can gather, she hangs up that dress and digs another one out of the basket.
+0026_The_Big_Fish_01.29.04.745-01.29.08.744 	when they separate, she has tears hanging in her eyes.
+0026_The_Big_Fish_01.40.48.347-01.40.53.075 	finished with his work, he takes his hat off the chair and hangs it on the rack.
+0026_The_Big_Fish_01.45.16.630-01.45.17.820 	she hangs up.
+0026_The_Big_Fish_01.49.31.411-01.49.35.628 	it's like he's only half-there, fighting to hang on to this world.
+0026_The_Big_Fish_01.56.12.647-01.56.26.616 	will has tears hanging in the corners of his eyes.
+0028_The_Crying_Game_01.02.21.281-01.02.24.258 	he looks from the cricket whites that are hanging up behind a curtain to the photographs.
+0029_The_Graduate_00.25.16.901-00.25.22.045 	ben hangs up slowly.
+0029_The_Graduate_00.32.40.306-00.32.42.186 	he hangs up.
+0029_The_Graduate_01.36.04.428-01.36.05.758 	she hangs up.
+0030_The_Hustler_00.09.22.999-00.09.24.974 	eddie's arrival is noted by big john and preacher, a gambler and an addict, who hang out at ames at all hours, waiting for action.
+0030_The_Hustler_00.37.23.770-00.37.24.817 	he picks up his valise, his hanging bag, and his leather cue case.
+0030_The_Hustler_00.38.10.141-00.38.17.894 	eddie laughs to himself, puts his hanging bag and cue case on a chair, then turns to face his image in the mirror.
+0031_The_Lost_Weekend_00.32.42.946-00.32.43.922 	they hang from hangers and sway slowly to verdi's rhythm.
+0031_The_Lost_Weekend_00.42.11.204-00.42.15.054 	helen has hung up too.
+0031_The_Lost_Weekend_01.40.11.287-01.40.33.069 	the camera moves away, goes down the wall to the bottle hanging there, and moves on along the back of the facade of the apartment to the splendid panorama of new york.
+0032_The_Princess_Bride_00.16.19.434-00.16.21.814 	the man in black, hanging suspended hundreds of feet in the air, holding to the jagged rocks, desperately trying to cling to life.
+0032_The_Princess_Bride_00.17.58.722-00.18.00.653 	and he just hangs there in space, resting, gathering his strength.
+0032_The_Princess_Bride_00.18.55.108-00.18.55.805 	it hangs close to the man in black.
+0032_The_Princess_Bride_00.18.55.805-00.19.01.525 	he releases the rocks, grabs the rope, hangs helplessly in space a moment, then looks up at inigo and.
+0033_Amadeus_00.11.46.199-00.11.47.225 	a large and austere christ on the cross hangs over the altar.
+0038_Psycho_00.28.15.973-00.28.19.883 	he stops short, looks at her, then at the umbrella hanging useless in his hand, then back to her.
+0038_Psycho_00.44.26.204-00.44.29.990 	now norman looks at a picture hanging on the far end of the wall he is leaning against.
+0038_Psycho_01.14.08.408-01.14.10.650 	he hangs up, gets out of the phone booth.
+0038_Psycho_01.25.04.822-01.25.07.875 	norman sits in the dim, one-lamp light, the phone next to him, his hand still near it as if he had not been able to move his hand after hanging up.
+0038_Psycho_01.37.25.019-01.37.28.969 	fresh, clean, well pressed dresses hang neatly.
+0041_The_Sixth_Sense_00.57.32.233-00.57.32.363 	a white woman in a torn white frilly dress -- tears soaking her face, hangs to the right.
+0043_Thelma_and_Luise_00.06.11.412-00.06.15.028 	they both hang up.
+0043_Thelma_and_Luise_00.37.00.478-00.37.03.382 	louise is hanging up the phone.
+0043_Thelma_and_Luise_00.39.28.813-00.39.30.320 	she hangs up on him.
+0043_Thelma_and_Luise_01.26.47.336-01.26.49.785 	thelma hangs up the phone.
+0043_Thelma_and_Luise_01.28.34.262-01.28.35.879 	louise hangs up the phone.
+0043_Thelma_and_Luise_01.45.04.124-01.45.07.910 	a finger reaches up and presses down the lever and hangs up the phone.
+0049_Hannah_and_her_sisters_00.03.37.989-00.03.49.833 	as holly talks, sipping her drink, hannah busily works in the kitchen, which contains a large center table stacked with bowls and plates of food, hanging pots and pans, and general party clutter.
+0049_Hannah_and_her_sisters_00.09.32.462-00.09.39.705 	lamps hang down from the ceiling.
+0049_Hannah_and_her_sisters_00.17.24.512-00.17.26.607 	gail hangs up the phone.
+0049_Hannah_and_her_sisters_00.26.25.691-00.26.31.626 	pictures hang on the aisle ends of the shelves.
+0049_Hannah_and_her_sisters_00.41.46.384-00.41.51.675 	when no one answers, frederick, reacting, hangs up, and the film moves back outside to the phone booth, where elliot, the phone receiver to his ear, listens for a moment, then hangs up.
+0049_Hannah_and_her_sisters_00.53.25.601-00.53.32.847 	lee passes a restaurant well lit inside by hanging lamps.
+0049_Hannah_and_her_sisters_00.53.46.587-00.54.07.917 	she takes off her coat, hanging it on a hook, then begins to dry her hair with a towel.
+0049_Hannah_and_her_sisters_00.59.30.680-00.59.34.289 	lee hangs up the phone and the movie cuts back to elliot, standing in his living room.
+0049_Hannah_and_her_sisters_01.23.27.678-01.23.30.744 	holly hangs up the phone and takes a drag on her cigarette.
+0049_Hannah_and_her_sisters_01.37.39.239-01.37.43.079 	an old publicity photo hangs inside.
+0050_Indiana_Jones_and_the_last_crusade_00.04.28.348-00.04.39.393 	as fedora stands watching the other men digging, indy puts the cross in his pants and begins to pull himself up a rope hanging nearby.
+0050_Indiana_Jones_and_the_last_crusade_00.07.55.998-00.07.58.699 	with indy hanging on, feet kicking, the water spout deposits him back on the train, onto the roof of a stockcar, where he looks up to see fedora walking toward him.
+0050_Indiana_Jones_and_the_last_crusade_00.46.46.887-00.46.50.897 	indy carries a gun in his hand and his whip hangs from his belt.
+0050_Indiana_Jones_and_the_last_crusade_01.34.15.732-01.34.18.065 	vogel raises the shovel above his head and brings it crashing down on indy, still hanging from the protruding gun.
+0050_Indiana_Jones_and_the_last_crusade_01.34.18.065-01.34.22.218 	indy loses his grip and now hangs from the gun suspended only by the strap of his leather pouch.
+0050_Indiana_Jones_and_the_last_crusade_01.35.00.952-01.35.02.320 	indy still hangs from the strap of his leather pouch as the tank swerves, barely missing the rocks and causing vogel to fall.
+0051_Men_in_black_00.10.42.426-00.10.50.307 	he pulls out his badge that hangs from a chain under his shirt.
+0051_Men_in_black_00.39.00.181-00.39.03.268 	a flap of skin, now getting gray and crusty with age, hangs off edgar's neck as he sits in the front of his orkin van.
+0053_Rendezvous_mit_Joe_Black_00.11.56.778-00.12.12.415 	the young man hangs up, turns around and sits down to an overflowing plate of eggs and meat, potatoes and toast, the counterman refills his cup and the young man ties into the breakfast, eating it with such relish that susan can't take her eyes off him.
+1001_Flight_00.34.49.614-00.34.52.160 	wearing bermuda shorts and dark glasses, with earphone wires hanging on each side of his head.
+1001_Flight_00.43.49.867-00.43.58.186 	cigarette hanging out of his mouth, the man picks up the iv pole and walks down the stairs.
+1001_Flight_00.50.07.115-00.50.12.106 	he looks at a group of photos hanging above a work station off to one side of the hangar.
+1001_Flight_01.33.07.831-01.33.11.877 	it explodes against the hanging photo of his son, which stares at it motionless.
+1001_Flight_01.45.20.318-01.45.26.453 	the clock shows 2.08 am as he hangs a suit in a wardrobe.
+1001_Flight_01.52.07.381-01.52.10.093 	a torn piece of toilet paper, with a spot of blood, hangs over his eye.
+1001_Flight_02.09.29.353-02.09.31.068 	a board hangs above the desk covered in photographs and cards.
+1001_Flight_02.10.00.991-02.10.02.737 	in between the photos hangs a copy of the serenity prayer.
+1002_Harry_Potter_and_the_Half-Blood_Prince_00.06.02.903-00.06.06.675 	pictures hang at angles.
+1003_How_to_Lose_Friends_and_Alienate_People_00.23.03.373-00.23.05.378 	she hangs up.
+1003_How_to_Lose_Friends_and_Alienate_People_01.24.43.956-01.24.49.102 	breathing heavily, he hangs his head as the rain beats down on the dark street.
+1004_Juno_01.17.06.670-01.17.16.515 	juno parks the previa in the street outside the family's wooden slatted house, where the porch light illuminates a straw heart hanging on the door knocker.
+1005_Signs_01.32.10.889-01.32.11.457 	a picture hanging below a mounted baseball bat is askew, but otherwise the room is untouched.
+1005_Signs_01.35.48.445-01.35.55.366 	his eyes glazed with tears, graham stares at the alien as it rocks back and forth, leaning over its captive hanging limply over its arm.
 1007_Spider-Man1_01.11.23.404-01.11.26.011 	mj hangs up on him.
 1007_Spider-Man1_01.15.32.733-01.15.37.770 	vapor seeps out from the back of the green goblin's gloves straight into the face of spider-man who's hanging upside down.
+1008_Spider-Man2_00.25.58.380-00.25.59.876 	hanging on the rail, a spider-man outfit, and a suit, shirt and tie.
 1008_Spider-Man2_00.28.07.015-00.28.10.709 	cowering, they all look closely at the squad car seemingly hanging in midair.
+1008_Spider-Man2_00.32.05.226-00.32.08.391 	hanging mid-swing, he flicks his wrists.
 1008_Spider-Man2_00.37.21.781-00.37.25.010 	he hangs up.
-1008_Spider-Man2_00.52.31.409-00.52.33.978 	aunt may's mouth hangs open.
-1008_Spider-Man2_01.41.02.929-01.41.04.679 	the spider-man costume hangs on the wall.
+1008_Spider-Man2_00.41.34.229-00.41.39.842 	air ducts on the ceiling swing towards the machine, as do the hanging lights.
+1008_Spider-Man2_00.44.43.879-00.44.47.173 	a pulley hanging from the ceiling swings.
 1008_Spider-Man2_01.54.53.685-01.55.00.342 	she hangs on the air, the chains on her leg drawn to the sphere.
-1009_Spider-Man3_00.18.10.287-00.18.18.711 	peter hangs on as it plummets towards the street below, but harry swoops down after him, smashing the chunk of wall into fragments.
 1009_Spider-Man3_00.33.02.766-00.33.12.939 	gwen and the other two models turn to the window as an enormous steel girder hanging from a chain swings towards them.
 1009_Spider-Man3_00.33.54.753-00.33.57.792 	gwen slides down the tilting floor and just manages to hang onto a telephone cable.
-1009_Spider-Man3_00.48.40.201-00.48.54.467 	as spider-man hangs upside down in front of her, gwen peels back his mask, exposing his mouth and plants a passionate kiss on him.
-1009_Spider-Man3_01.04.58.423-01.05.10.213 	peter, his spider-man suit completely black, hangs upside down from a skyscraper, looking at his reflection in a dark- mirrored window.
+1009_Spider-Man3_01.06.45.990-01.06.49.505 	he crosses to his spider-man suit hanging on a rail and reaches for it.
 1009_Spider-Man3_01.15.27.196-01.15.33.201 	he drops a coin in the slot, sighs, and hangs up.
 1009_Spider-Man3_01.31.02.116-01.31.04.566 	brock hangs up a framed glow up of the front page.
 1009_Spider-Man3_01.58.27.888-01.58.31.233 	she looks down helplessly as sandman smashes his fist down on peter, whose hand hangs limply at his side.
 1009_Spider-Man3_02.00.46.509-02.00.49.677 	she hangs on by a thread.
 1010_TITANIC_01.38.23.178-01.38.28.345 	moody hangs up and turns to murdoch as he runs to the bridge door.
 1010_TITANIC_02.04.35.009-02.04.43.649 	she glances both ways down the flooded hallway, then steps back and hangs the axe on the frame.
-1010_TITANIC_02.18.44.674-02.18.46.619 	rose leaps from the boat and hangs from the ship's rail, several decks below jack.
 1010_TITANIC_02.34.12.406-02.34.21.464 	some passengers hang from ropes or leap into the icy sea.
 1010_TITANIC_02.42.48.529-02.42.58.912 	one man bounces off a cab stand before slamming into other people hanging on below, creating a domino effect of falling bodies.
 1011_The_Help_01.36.18.783-01.36.21.969 	a color photograph of john f. kennedy now hangs next to the photograph of aibileen's son.
 1012_Unbreakable_00.08.48.466-00.09.06.341 	in a living room, a boy is lies over a sofa, his feet over the back, his head hanging down to the floor, flicking through tv channels with the remote, upside down.
+1012_Unbreakable_00.42.33.166-00.42.39.645 	using his stick and hanging onto the rail, elijah tries to stay balanced, but his feet don't land accurately.
 1012_Unbreakable_00.45.03.723-00.45.11.222 	joseph, his fringe hanging to his eyebrows, gazes down at david, who looks around at the weights on the ends of the bar.
 1012_Unbreakable_01.15.54.795-01.15.56.462 	audrey's arm is hanging out of the window.
-1012_Unbreakable_01.29.08.582-01.29.18.249 	the pole slides away, and david hangs on grimly for a moment before hauling himself out of the water and crawling painfully slowly away from it.
-1014_2012_00.28.21.707-00.28.28.457 	in his darkened office at the white house, anheuser hangs up the phone and looks out of the french windows.
+1014_2012_00.11.31.276-00.11.34.693 	he shines a troch on the hanging replica.
 1014_2012_00.54.34.696-00.54.38.505 	adrian frowns sadly as harry hangs up.
 1014_2012_01.11.11.535-01.11.17.528 	anheuser hangs up his cell phone in the busy control room which is lined with computer equipment and terminals.
 1014_2012_01.20.18.503-01.20.21.170 	prayer flags hanging from the eaves of the roof billow.
@@ -210,48 +203,39 @@
 1015_27_Dresses_00.56.43.727-00.56.55.938 	later, jane, still looking unhappy, hangs the dresses back in the closet.
 1018_Body_Of_Lies_00.15.08.788-00.15.17.031 	ferris hangs up, puts on his shades and walks down the track to bassam and nizar.
 1018_Body_Of_Lies_00.26.23.470-00.26.26.138 	ferris hangs up and looks down.
-1018_Body_Of_Lies_00.42.51.226-00.42.55.429 	smoke hangs over the marketplace.
-1018_Body_Of_Lies_00.45.19.110-00.45.27.756 	a cloud of dust hangs in the air.
 1018_Body_Of_Lies_00.46.48.466-00.46.58.493 	karami hangs up and hani takes the phone.
-1018_Body_Of_Lies_01.43.35.712-01.43.45.425 	a golden sun hangs above mountains in the distance.
 1018_Body_Of_Lies_01.52.43.732-01.52.51.043 	the men gather around ferris, who hangs his head.
+1019_Confessions_Of_A_Shopaholic_00.19.41.696-00.19.46.569 	rebecca's slipped an arm into a coat hanging on the rail, and she's trying to reach the letter.
 1020_Crazy_Stupid_Love_00.08.37.858-00.08.40.725 	she hangs her head and gazes down again.
 1020_Crazy_Stupid_Love_01.01.25.266-01.01.27.382 	cal hangs his head and shakes it.
-1020_Crazy_Stupid_Love_01.02.13.525-01.02.16.023 	a large black and white abstract painting hangs behind him.
 1020_Crazy_Stupid_Love_01.16.58.565-01.16.59.737 	she hangs up.
 1020_Crazy_Stupid_Love_01.24.10.294-01.24.13.808 	emily hangs up and looks down sadly.
-1020_Crazy_Stupid_Love_01.24.13.808-01.24.19.209 	cal hangs up, still watching her from the garden.
 1020_Crazy_Stupid_Love_01.47.35.527-01.47.38.906 	jessica hangs her head, giggling.
-1023_Horrible_Bosses_00.46.46.962-00.46.49.945 	a cocaine cloud hangs in the air.
+1023_Horrible_Bosses_00.52.44.538-00.52.45.585 	hanging in the lounge is a portrait of harken with his wife and their cat.
 1023_Horrible_Bosses_00.53.20.902-00.53.22.428 	a porcelain cat's face hangs on the wall.
 1023_Horrible_Bosses_01.22.42.340-01.22.45.382 	kurt hangs a sharp left into an empty street.
-1024_Identity_Thief_00.01.36.089-00.01.39.380 	along a mirror, fake ids with the redhead's photo hang from a string.
 1024_Identity_Thief_00.38.17.910-00.38.19.205 	her mouth hangs open.
-1024_Identity_Thief_01.35.12.244-01.35.14.998 	he yanks her up by the hair and diana's mouth hangs open.
-1026_Legion_00.08.13.289-00.08.15.925 	jeep wears a hang dog expression.
 1026_Legion_00.51.11.591-00.51.14.344 	michael hangs his head.
-1026_Legion_01.15.58.741-01.16.01.941 	something hangs overhead, looking down at the diner.
 1027_Les_Miserables_02.02.57.916-02.03.00.747 	he hangs upside down from the ledge still clutching the red flag.
 1027_Les_Miserables_02.17.09.286-02.17.10.250 	valjean hangs his head.
 1028_No_Reservations_00.05.39.725-00.05.42.026 	her long hair, previously tied up in a bun, now hangs loose under a black beret.
+1028_No_Reservations_00.50.46.467-00.50.48.402 	her long, dark hair hanging loose in large, soft waves.
 1028_No_Reservations_00.50.48.402-00.50.55.000 	she hangs her bag on a hook by the door, drops her keys into the bowl and begins to remove her coat.
 1029_Pride_And_Prejudice_Disk_One_01.30.16.463-01.30.18.963 	the nine couples move in unison watched by other guests, a magnificent chandelier hanging over their heads.
-1030_Public_Enemies_00.05.50.710-00.06.20.040 	his body dragging across the dirt, walter hangs onto dillinger's arm, grimacing in pain.
-1030_Public_Enemies_00.07.23.664-00.07.27.142 	strands of his greasy black hair hang over his forehead.
 1030_Public_Enemies_00.47.06.046-00.47.07.329 	she hangs her head.
+1030_Public_Enemies_00.53.27.628-00.53.30.901 	a three-propeller plane cruises through the sky, it's curved, boxy underbelly hanging below thick wings.
 1030_Public_Enemies_01.01.08.283-01.01.09.950 	later, he hangs up his coat.
 1030_Public_Enemies_01.09.52.202-01.09.59.537 	small overhead lights with green lampshades hang from above next to dangling clusters of phone wires.
-1030_Public_Enemies_01.19.21.948-01.19.28.068 	as they both clear out of the room, homer hangs by in the doorway.
 1030_Public_Enemies_01.21.44.910-01.21.48.577 	on the other end, a boyish agent, sam cowley, nods, hangs up, and grabs some maps.
-1030_Public_Enemies_01.25.01.496-01.25.03.952 	inside dillinger's room, a framed religious icon hangs on the wall over his bed as he rests.
-1030_Public_Enemies_01.39.23.608-01.39.25.315 	her hair hangs in her face.
-1030_Public_Enemies_01.44.48.687-01.44.49.354 	billie's mouth hangs open.
-1030_Public_Enemies_01.49.10.226-01.49.11.893 	her weary gaze hangs straight ahead.
 1030_Public_Enemies_01.56.58.145-01.57.06.232 	he turns to a bulletin board where multiple mug shots of familiar criminals hang posted.
+1031_Quantum_of_Solace_00.13.44.753-00.13.47.062 	hanging by one hand, bond tries to pull down the scaffolding beneath his adversary.
 1031_Quantum_of_Solace_01.21.49.902-01.21.53.415 	felix puffs on his cigar as bond hangs up.
+1033_Sherlock_Holmes_A_Game_of_Shadows_00.30.37.595-00.30.40.024 	holmes shins up a rope hanging from a block-and-tackle on the side of the building.
 1033_Sherlock_Holmes_A_Game_of_Shadows_01.24.22.083-01.24.26.969 	watson looks around and sees a pair of ear defenders hanging on the wall.
 1034_Super_8_00.22.50.568-00.22.52.235 	she touches his arm and it hangs limply.
+1034_Super_8_01.31.29.922-01.31.34.588 	as they creep a bit closer, they come across the sheriff hanging upside down from the roof of the tunnel.
 1034_Super_8_01.31.48.742-01.31.51.045 	more bodies hang from the ceiling.
+1034_Super_8_01.33.38.172-01.33.41.838 	it stops what it's doing and takes alice down from where she's hanging.
 1034_Super_8_01.38.54.520-01.38.57.440 	he hangs onto it and is lifted up off the ground.
 1034_Super_8_01.41.23.791-01.41.27.453 	it hangs in the air, pulled by an invisible force.
 1035_The_Adjustment_Bureau_00.05.43.091-00.05.46.372 	later, charlie and david hang their heads.
@@ -265,26 +249,16 @@
 1037_The_Curious_Case_Of_Benjamin_Button_00.05.52.826-00.05.57.190 	on the concourse, the president hangs his head.
 1037_The_Curious_Case_Of_Benjamin_Button_02.09.05.314-02.09.09.581 	benjamin hangs a picture and makes popcorn.
 1037_The_Curious_Case_Of_Benjamin_Button_02.25.17.312-02.25.18.807 	daisy hangs her head.
-1038_The_Great_Gatsby_00.06.48.617-00.06.49.681 	an ornate crystal chandelier hangs from the ceiling.
 1038_The_Great_Gatsby_00.24.45.959-00.24.46.846 	a dancer hangs upside-down from the ceiling.
-1038_The_Great_Gatsby_00.48.13.225-00.48.16.270 	a bright moon hangs in the night sky.
-1038_The_Great_Gatsby_02.02.19.424-02.02.23.574 	gatsby's mouth hangs open.
 1038_The_Great_Gatsby_02.02.50.061-02.02.50.995 	daisy hangs up her telephone.
-1038_The_Great_Gatsby_02.07.38.803-02.07.40.440 	rain pours and mist hangs over the bay.
 1039_The_Queen_01.00.50.150-01.00.53.360 	the queen hangs up the phone.
 1039_The_Queen_01.16.41.021-01.16.43.548 	it is the stag which hangs from the ceiling by its feet in the center of the room.
 1040_The_Ugly_Truth_00.24.21.179-00.24.23.561 	she hangs upside down.
-1040_The_Ugly_Truth_00.25.26.073-00.25.30.113 	abby's mouth hangs open in a big, toothy grin.
-1040_The_Ugly_Truth_00.33.24.508-00.33.26.826 	mike hangs abby up.
-1040_The_Ugly_Truth_00.39.16.008-00.39.20.329 	her long, blonde hair hangs loose in flowing curls.
 1040_The_Ugly_Truth_00.58.20.555-00.58.27.675 	her mouth hangs open, and she and joy do a little dance.
-1040_The_Ugly_Truth_01.14.26.154-01.14.31.569 	mike's mouth hangs open, and he walks off, looking shocked.
 1040_The_Ugly_Truth_01.22.54.637-01.23.04.995 	several colorful hot-air balloons hang in midair with baskets suspended beneath.
 1041_This_is_40_00.03.03.410-00.03.08.230 	meanwhile, her family hangs streamers, sets out presents and puts candles shaped like the number 38 on a cake.
 1041_This_is_40_00.13.00.716-00.13.04.000 	at the front of the store, desi hangs a christmas garland.
-1041_This_is_40_01.14.12.466-01.14.13.572 	his mouth hangs open.
 1041_This_is_40_01.16.14.885-01.16.17.551 	he hangs his head and squeezes his eyes shut.
-1041_This_is_40_01.23.56.023-01.23.59.115 	pete's mouth hangs open as he glares at his wife.
 1041_This_is_40_01.25.39.593-01.25.42.220 	she hangs it on sadie's door.
 1041_This_is_40_01.26.49.192-01.26.52.595 	in the morning, pete awakens on the couch, hanging off in an awkward position.
 1042_Up_In_The_Air_00.16.41.046-00.16.42.955 	he hangs a sign on the handle.
@@ -298,118 +272,73 @@
 1043_Vantage_Point_00.54.28.725-00.54.32.291 	felipe the bellboy hangs up the phone.
 1044_Pride_And_Prejudice_Disk_Two_00.51.05.363-00.51.08.020 	when they stop to look at the view, lizzie hangs back.
 1044_Pride_And_Prejudice_Disk_Two_02.02.43.687-02.02.53.423 	they're in the kitchen, hanging up bunches of herbs.
-1044_Pride_And_Prejudice_Disk_Two_02.15.36.556-02.15.41.625 	as they all head inside, jane hangs back for a moment and turns to lizzie.
 1045_An_education_00.57.55.392-00.57.58.189 	david hangs his head.
 1045_An_education_01.00.42.714-01.00.48.760 	he smiles apologetically and hangs his head.
 1045_An_education_01.24.10.456-01.24.13.363 	jenny hangs her head.
 1046_Australia_00.03.58.628-00.03.59.347 	an animal skull hangs from a dry branch.
 1046_Australia_00.46.05.000-00.46.12.626 	drover hangs his head as nullah clings to the body.
 1046_Australia_01.18.58.302-01.19.02.557 	fletcher hangs up the phone in the cattle pen as the captain pauses over a purchase agreement.
-1046_Australia_02.04.23.912-02.04.28.884 	smiling unpleasantly, fletcher hangs up the phone in his office overlooking the whole of darwin.
 1046_Australia_02.17.41.967-02.17.44.370 	nullah hangs his head sadly.
-1046_Australia_02.33.52.865-02.34.00.047 	smoke hangs in palls over the destruction of darwin.
 1047_Defiance_00.35.48.965-00.35.51.903 	koscik's wife is in the garden hanging up washing.
 1047_Defiance_00.36.14.907-00.36.16.660 	koscik is hanging from a rafter, with a wooden sign around his neck,
 1047_Defiance_01.10.57.928-01.10.58.509 	frozen washing hangs heavily on the line.
 1048_Gran_Torino_00.23.19.000-00.23.19.900 	walt hangs up.
 1048_Gran_Torino_01.03.22.510-01.03.27.697 	as mitch hangs up, he looks troubled.
+1048_Gran_Torino_01.29.08.369-01.29.15.052 	appalled, walt stares at sue, his mouth hanging open.
 1049_Harry_Potter_and_the_chamber_of_secrets_00.11.27.418-00.11.29.501 	next to an armchair, a pair of needles hang in mid-air knitting a multi-colored garment.
 1049_Harry_Potter_and_the_chamber_of_secrets_00.25.18.688-00.25.20.840 	he hangs on precariously above the train.
 1049_Harry_Potter_and_the_chamber_of_secrets_00.37.00.359-00.37.04.588 	the creatures hang neville by the back of his cloak from the light fitting.
 1049_Harry_Potter_and_the_chamber_of_secrets_00.37.54.812-00.37.59.024 	still hanging from the ceiling, neville looks down at them mournfully.
 1049_Harry_Potter_and_the_chamber_of_secrets_00.44.33.463-00.44.37.784 	a cat, stiff as a board, is hanging by its tail from a lamp racket.
+1049_Harry_Potter_and_the_chamber_of_secrets_01.11.57.930-01.12.19.552 	lit by flaming torchlight, he sees the ghost of nearly headless nick hanging stiffly in mid-air, and a boy, justin, lying petrified on the ground, his eyes wide open, his arms stuck out in front of him.
 1049_Harry_Potter_and_the_chamber_of_secrets_01.13.58.000-01.14.01.772 	the walls hung with moving portraits of elderly wizards.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.04.33.383-00.04.35.862 	at the end of the table, a woman hangs horizontally in mid-air.
-1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.42.06.032-00.42.09.619 	her left hand's hanging over the edge almost touching ron's hand.
+1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.17.02.899-00.17.07.482 	hanging out of the sidecar, harry runs over the bus and drops back in when the bike returns to the road.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.56.45.313-00.56.48.232 	the walls at the office are hung with china plates showing pictures of cats.
 1051_Harry_Potter_and_the_goblet_of_fire_00.37.56.441-00.38.01.376 	ron hangs a wet towel beside the stove.
 1051_Harry_Potter_and_the_goblet_of_fire_01.01.03.150-01.01.09.471 	he hangs on desperately as the sill collapses under him.
+1051_Harry_Potter_and_the_goblet_of_fire_01.08.14.765-01.08.19.185 	ron gets up reluctantly, his shirt hanging out.
 1051_Harry_Potter_and_the_goblet_of_fire_01.33.09.680-01.33.16.228 	he swims through ropes of dark green weed hanging like curtains in front of him.
 1051_Harry_Potter_and_the_goblet_of_fire_02.22.33.277-02.22.38.704 	the boys turn to go, but hermione hangs back.
 1052_Harry_Potter_and_the_order_of_phoenix_00.00.43.218-00.00.49.220 	a heat haze hangs over suburban london.
 1052_Harry_Potter_and_the_order_of_phoenix_00.46.09.486-00.46.14.131 	filch hammers in a nail and hangs a decree.
-1052_Harry_Potter_and_the_order_of_phoenix_02.06.54.829-02.06.58.712 	a pair of sneakers hangs from an archway.
 1053_Harry_Potter_and_the_philosophers_stone_00.56.35.027-00.56.39.159 	he hangs on for dear life.
-1053_Harry_Potter_and_the_philosophers_stone_01.11.01.000-01.11.05.686 	harry hangs on with one hand.
 1053_Harry_Potter_and_the_philosophers_stone_01.16.42.384-01.16.44.955 	other spectators are seated at the top of tall towers hung with heraldic designs.
-1053_Harry_Potter_and_the_philosophers_stone_01.21.06.835-01.21.09.211 	but he manages to grab the handle and hangs underneath, holding on with only one hand.
+1053_Harry_Potter_and_the_philosophers_stone_01.39.50.412-01.39.53.310 	wearing oven gloves, hagrid takes something out of a pot hanging there at the fire.
 1053_Harry_Potter_and_the_philosophers_stone_01.58.32.545-01.58.54.312 	a shabby broomstick is hanging in the air.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.09.22.223-00.09.27.062 	above his head, harry sees galleries and a chandelier hanging from the roof.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_00.09.43.972-00.09.45.925 	the rastafarian shrunken head, hanging above the driver, laughs.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_00.24.19.110-00.24.22.746 	lighted candles hang above their heads as they sit at the long tables listening to the choir.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.36.01.058-00.36.05.416 	harry hangs on desperately to buckbeak's feathery neck.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_01.06.20.146-01.06.31.161 	ron hangs back as hermione walks across a clearing in the trees towards the sound of crying.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_01.24.06.000-01.24.08.832 	a line of dead ferrets is hanging nearby.
 1056_Rambo_00.10.15.989-00.10.16.557 	he hangs the towel on a hook.
-1056_Rambo_00.17.13.580-00.17.17.450 	lights hang from the soffit of a dock house on the distant riverside.
 1056_Rambo_00.44.50.696-00.44.52.668 	a woman's severed head hangs from a post.
 1056_Rambo_00.44.56.809-00.44.59.861 	there are two bodies hanging from bare rafters in the remains of a hut.
 1056_Rambo_00.53.11.487-00.53.12.787 	a man hangs crucified on a timber frame.
 1057_Seven_pounds_00.13.51.751-00.13.55.421 	he pulls up in a parking spot outside a large institutional- looking building with the stars and stripes hanging over the door.
-1057_Seven_pounds_00.47.28.502-00.47.31.731 	his mouth hangs open loosely.
 1057_Seven_pounds_01.45.42.515-01.45.43.539 	tim hangs up.
 1058_The_Damned_united_00.38.56.988-00.39.02.212 	the young man smiles bashfully and hangs his head, as brian rises to his feet and looks around the other players.
 1058_The_Damned_united_00.50.43.000-00.50.46.382 	he hangs up.
 1058_The_Damned_united_01.28.37.685-01.28.39.000 	peter looks at brian, then hangs his head and shakes it.
 1059_The_devil_wears_prada_00.13.01.134-00.13.09.000 	andy watches emily carry the coffees into miranda's office, then hangs up her coat and hurries to her desk, which faces emily's.
+1059_The_devil_wears_prada_01.06.32.000-01.06.36.427 	hanging his head, he turns and mooches off into the bedroom.
 1059_The_devil_wears_prada_01.32.46.000-01.32.50.000 	they had gathered in a plush banqueting suite with chandeliers hanging from the ceiling.
 1059_The_devil_wears_prada_01.43.39.449-01.43.43.000 	emily hangs up, looking genuinely touched.
 1060_Yes_man_00.00.41.993-00.00.44.046 	he hangs up again.
-1060_Yes_man_00.02.21.000-00.02.23.000 	grumpily, carl hangs up.
 1060_Yes_man_00.06.22.000-00.06.24.398 	norman hangs up.
+1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.02.27.000-00.02.30.970 	luna lovegood saunters up to a set of hanging chimes.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.21.41.200-00.21.56.067 	the three friends hang onto the dragon's horny spikes.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.58.52.515-00.58.54.349 	another stone hangs from it in the shape of a tear.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.56.10.037-01.56.12.725 	young potter hangs back, then bends down to tie his shoelace.
 2005_Signs_01.03.16.628-01.03.19.241 	the words hang in the air.
-2005_Signs_01.18.28.114-01.18.30.673 	a tiny rope hangs from the rectangle.
-2005_Signs_01.19.28.352-01.19.29.060 	 a single light bulb hangs from a wire in the ceiling which is the only light in the room
-2005_Signs_01.38.29.625-01.38.30.127 	his tiny mouth hangs open unnaturally.
-2012_Unbreakable_01.20.37.288-01.20.39.923 	david watches the teenager with baggy jeans hanging off his hip.
-2026_Legion_00.15.59.164-00.16.17.759 	jeep looks up at his father, his words hanging heavily.
-1052_Harry_Potter_and_the_order_of_phoenix_02.06.54.829-02.06.58.712 	a pair of sneakers hangs from an archway.
-1053_Harry_Potter_and_the_philosophers_stone_00.56.35.027-00.56.39.159 	he hangs on for dear life.
-1053_Harry_Potter_and_the_philosophers_stone_01.11.01.000-01.11.05.686 	harry hangs on with one hand.
-1053_Harry_Potter_and_the_philosophers_stone_01.16.42.384-01.16.44.955 	other spectators are seated at the top of tall towers hung with heraldic designs.
-1053_Harry_Potter_and_the_philosophers_stone_01.21.06.835-01.21.09.211 	but he manages to grab the handle and hangs underneath, holding on with only one hand.
-1053_Harry_Potter_and_the_philosophers_stone_01.58.32.545-01.58.54.312 	a shabby broomstick is hanging in the air.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.09.22.223-00.09.27.062 	above his head, harry sees galleries and a chandelier hanging from the roof.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.09.43.972-00.09.45.925 	the rastafarian shrunken head, hanging above the driver, laughs.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.24.19.110-00.24.22.746 	lighted candles hang above their heads as they sit at the long tables listening to the choir.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.36.01.058-00.36.05.416 	harry hangs on desperately to buckbeak's feathery neck.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_01.06.20.146-01.06.31.161 	ron hangs back as hermione walks across a clearing in the trees towards the sound of crying.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_01.24.06.000-01.24.08.832 	a line of dead ferrets is hanging nearby.
-1056_Rambo_00.10.15.989-00.10.16.557 	he hangs the towel on a hook.
-1056_Rambo_00.17.13.580-00.17.17.450 	lights hang from the soffit of a dock house on the distant riverside.
-1056_Rambo_00.44.50.696-00.44.52.668 	a woman's severed head hangs from a post.
-1056_Rambo_00.44.56.809-00.44.59.861 	there are two bodies hanging from bare rafters in the remains of a hut.
-1056_Rambo_00.53.11.487-00.53.12.787 	a man hangs crucified on a timber frame.
-1057_Seven_pounds_00.13.51.751-00.13.55.421 	he pulls up in a parking spot outside a large institutional- looking building with the stars and stripes hanging over the door.
-1057_Seven_pounds_00.47.28.502-00.47.31.731 	his mouth hangs open loosely.
-1057_Seven_pounds_01.45.42.515-01.45.43.539 	tim hangs up.
-1058_The_Damned_united_00.38.56.988-00.39.02.212 	the young man smiles bashfully and hangs his head, as brian rises to his feet and looks around the other players.
-1058_The_Damned_united_00.50.43.000-00.50.46.382 	he hangs up.
-1058_The_Damned_united_01.28.37.685-01.28.39.000 	peter looks at brian, then hangs his head and shakes it.
-1059_The_devil_wears_prada_00.13.01.134-00.13.09.000 	andy watches emily carry the coffees into miranda's office, then hangs up her coat and hurries to her desk, which faces emily's.
-1059_The_devil_wears_prada_01.32.46.000-01.32.50.000 	they had gathered in a plush banqueting suite with chandeliers hanging from the ceiling.
-1059_The_devil_wears_prada_01.43.39.449-01.43.43.000 	emily hangs up, looking genuinely touched.
-1060_Yes_man_00.00.41.993-00.00.44.046 	he hangs up again.
-1060_Yes_man_00.02.21.000-00.02.23.000 	grumpily, carl hangs up.
-1060_Yes_man_00.06.22.000-00.06.24.398 	norman hangs up.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.21.41.200-00.21.56.067 	the three friends hang onto the dragon's horny spikes.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.58.52.515-00.58.54.349 	another stone hangs from it in the shape of a tear.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.56.10.037-01.56.12.725 	young potter hangs back, then bends down to tie his shoelace.
-2005_Signs_01.03.16.628-01.03.19.241 	the words hang in the air.
-2005_Signs_01.18.28.114-01.18.30.673 	a tiny rope hangs from the rectangle.
-2005_Signs_01.19.28.352-01.19.29.060 	 a single light bulb hangs from a wire in the ceiling which is the only light in the room
-2005_Signs_01.38.29.625-01.38.30.127 	his tiny mouth hangs open unnaturally.
 2012_Unbreakable_01.20.37.288-01.20.39.923 	david watches the teenager with baggy jeans hanging off his hip.
 2026_Legion_00.15.59.164-00.16.17.759 	jeep looks up at his father, his words hanging heavily.
 2034_Super_8_00.47.45.864-00.47.47.384 	he closes the closet and hangs a bath towel on his desk chair.
 2034_Super_8_01.27.58.109-01.28.00.674 	charles wants the tie around the curtains, still hanging on the wall that now has a hole in it; military vehicles can be seen driving past outside.
+2034_Super_8_01.31.36.722-01.31.37.825 	cary bumps into a hanging sheriff pruitt.
+2034_Super_8_01.31.42.033-01.31.51.377 	makeshift hanging bulbs provide some light; a number of other tunnels are visible from here, too.
+2034_Super_8_01.32.22.578-01.32.25.968 	joe moves away from cary to get a better view of the other side of the machinery -- and there he sees, in an inset section of the rock-wall, three human bodies, hanging.
 2040_The_Ugly_Truth_00.10.17.243-00.10.19.661 	mike hangs up the phone.
 2040_The_Ugly_Truth_00.35.55.629-00.35.57.852 	mike hangs up the phone.
 2041_This_is_40_00.40.27.190-00.40.31.126 	the family's hanging out, relaxing at dinner.
 2051_Harry_Potter_and_the_goblet_of_fire_01.00.32.328-01.00.38.211 	the dragon cuts him off and whips him off his broom, he lands on the roof of hogwarts, hanging on for dear life.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_01.27.21.734-01.27.24.751 	the ax hangs seemingly forever, etched against the sky, then drops from sight.
-2054_Harry_Potter_and_the_prisoner_of_azkaban_01.27.28.378-01.27.33.554 	slowly, hermione's hand falls onto ron's shoulder and camera falls with her, continuing down the length of ron's arm to his hand, where a drop of blood hangs from his finger, drops like a tear.
-2054_Harry_Potter_and_the_prisoner_of_azkaban_01.30.59.896-01.31.01.686 	filthy, matted hair hangs to his shoulders.

@@ -1,24 +1,20 @@
-0007_DIE_NACHT_DES_JAEGERS_00.59.17.328-00.59.17.681 	JOHN and PEARL proceed towards the house.
-0011_Gandhi_01.10.29.925-01.10.30.546 	Gandhi proceeds more gently.
-0014_Ist_das_Leben_nicht_schoen_00.05.11.413-00.05.12.992 	Their attention is drawn to an elaborate horsedrawn carriage proceeding down the other side of the street.
-0014_Ist_das_Leben_nicht_schoen_00.08.58.375-00.09.01.128 	The office vibrates with an aura of crisis as George enters and proceeds directly toward his father's office.
-0014_Ist_das_Leben_nicht_schoen_00.10.12.204-00.10.13.627 	George proceeds toward the door, with his father's hand on his shoulder.
-0014_Ist_das_Leben_nicht_schoen_00.24.26.071-00.24.33.191 	CAMERA MOVES WITH them as they proceed down the street.
-0014_Ist_das_Leben_nicht_schoen_00.26.48.894-00.26.51.328 	George joins her in the singing as they proceed down the street.
-0014_Ist_das_Leben_nicht_schoen_01.46.22.273-01.46.22.683 	The owner proceeds toward his house.
-0020_Raising_Arizona_00.45.45.704-00.45.46.971 	The police car is proceeding on down the street to catch him around the corner, the driver still drawling over his loudspeaker.
-0021_Rear_Window_00.38.31.659-00.38.36.659 	Hands him his shirt, which he proceeds to put on.
-0021_Rear_Window_01.03.56.508-01.04.00.075 	He proceeds to the bedroom, and the lights go on there.
-0021_Rear_Window_01.04.07.129-01.04.12.227 	Then he goes to the dresser, and instead of putting the laundry away, he proceeds to take out the contents of the drawers -- pajamas, shirts, sox, etc.
-0021_Rear_Window_01.30.33.275-01.30.34.172 	She sits at the table, and by the light of the candle proceeds to open a black-covered book, and read it.
-0021_Rear_Window_01.42.56.318-01.42.59.417 	We see Thorwald leave his apartment and proceed down the corridor.
-0022_Reservoir_Dogs_00.46.08.250-00.46.10.518 	Pink and Mr. Blonde surround him and proceed to beat the shit out of him.
-0026_The_Big_Fish_01.05.02.946-01.05.05.051 	Then proceeds to kick Edward's ass nine ways to Sunday.
-0031_The_Lost_Weekend_01.31.47.769-01.31.58.280 	Helen stands looking after him for a moment, then turns angrily and proceeds toward the pawn shop.
-0050_Indiana_Jones_and_the_last_crusade_01.43.51.799-01.43.59.494 	We get silent reaction shots -- Elsa -- Sallah -- Brody -- Donovan -- registering their different emotions Indy proceeds forward.
+0011_Gandhi_00.03.08.818-00.03.17.373 	we do not see him clearly until the very last moment -- only glimpses of him as he smiles, and exchanges little jokes with some of the crowd and the two young women who support him, occasionally joining his hands together in greeting to someone in particular, then once more proceeding with a hand on the shoulder of each of the girls.
+0014_Ist_das_Leben_nicht_schoen_00.05.11.413-00.05.12.992 	their attention is drawn to an elaborate horsedrawn carriage proceeding down the other side of the street.
+0014_Ist_das_Leben_nicht_schoen_00.24.26.071-00.24.33.191 	camera moves with them as they proceed down the street.
+0014_Ist_das_Leben_nicht_schoen_00.26.48.894-00.26.51.328 	george joins her in the singing as they proceed down the street.
+0020_Raising_Arizona_00.45.45.704-00.45.46.971 	the police car is proceeding on down the street to catch him around the corner, the driver still drawling over his loudspeaker.
+0021_Rear_Window_00.38.31.659-00.38.36.659 	hands him his shirt, which he proceeds to put on.
+0021_Rear_Window_01.03.56.508-01.04.00.075 	he proceeds to the bedroom, and the lights go on there.
+0021_Rear_Window_01.04.07.129-01.04.12.227 	then he goes to the dresser, and instead of putting the laundry away, he proceeds to take out the contents of the drawers -- pajamas, shirts, sox, etc.
+0021_Rear_Window_01.42.56.318-01.42.59.417 	we see thorwald leave his apartment and proceed down the corridor.
+0022_Reservoir_Dogs_00.46.08.250-00.46.10.518 	pink and mr. blonde surround him and proceed to beat the shit out of him.
+0026_The_Big_Fish_01.05.02.946-01.05.05.051 	then proceeds to kick edward's ass nine ways to sunday.
+0031_The_Lost_Weekend_01.31.47.769-01.31.58.280 	helen stands looking after him for a moment, then turns angrily and proceeds toward the pawn shop.
+0053_Rendezvous_mit_Joe_Black_01.15.12.524-01.15.14.635 	silence, everyone waiting for parrish to proceed.
 1017_Bad_Santa_00.51.48.492-00.51.58.103 	he then proceeds to tear open the remaining doors on the calendar and scarf the chocolate inside.
 1024_Identity_Thief_00.28.28.581-00.28.34.227 	he pays the driver and eyes the house, then proceeds in a stealthy jog along the side.
 1024_Identity_Thief_01.28.46.190-01.28.56.461 	the group proceeds past the hostess and into the hall, where an elevator arrives.
 1030_Public_Enemies_02.00.17.446-02.00.21.266 	entering the packed house, the crime boss leaves anna at her seat, then proceeds down the aisle with polly.
-1035_The_Adjustment_Bureau_01.33.56.551-01.33.58.912 	david offers a staffer a cordial wave as he and elise proceed through the offices.
 1043_Vantage_Point_01.15.15.277-01.15.21.568 	as they proceed along the underpass in the shadow of an elevated road, enrique steps from behind a pillar.
+1046_Australia_00.50.08.000-00.50.09.922 	she's not sure how to proceed.
+1047_Defiance_01.55.36.767-01.55.39.817 	as they proceed, the water level rises to their knees.

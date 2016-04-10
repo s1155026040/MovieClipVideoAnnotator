@@ -1,40 +1,25 @@
-0004_Charade_00.17.45.483-00.17.49.124 	He stands staring at LAMPERT's body, swaying on his feet until he reaches out and grabs the side of the coffin to steady himself.
-0010_Frau_Ohne_Gewissen_01.44.34.950-01.44.38.783 	They stare at each other for a long moment, then, with intense effort Neff gets up on his feet and stands there swaying a little.
-0016_O_Brother_Where_Art_Thou_01.09.36.435-01.09.39.029 	His face is blacked and he sways as if standing on a boat.
-0021_Rear_Window_00.05.11.321-00.05.15.419 	With swaying body, she puts down the chicken leg, and gracefully and rhythmically butters a slice of bread.
-0027_The_Big_Lebowski_01.19.33.974-01.19.37.082 	He is getting to his feet, but sways woozily.
-0030_The_Hustler_01.06.07.509-01.06.09.909 	Eddie stares at Sarah as she sways limply on her knees, unmindful of her open robe.
-0031_The_Lost_Weekend_00.32.40.088-00.32.42.834 	The swaying echelon of choristers SLOWLY DISSOLVES to a row of raincoats, exactly like the one Don wore.
-0031_The_Lost_Weekend_00.32.42.946-00.32.43.922 	They hang from hangers and sway slowly to Verdi's rhythm.
-0031_The_Lost_Weekend_00.32.47.654-00.32.48.845 	The raincoats swaying slowly.
-0033_Amadeus_02.43.01.051-02.43.04.379 	They are sleepless and sway to the motion of the vehicle.
-0049_Hannah_and_her_sisters_01.38.40.076-01.38.45.381 	The four brothers are now swaying and singing and strutting, their voices indistinct over Mickey's narration.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.18.52.703-01.19.00.150 	Harry stands still, surrounded by the swaying reeds.
-1004_Juno_01.08.22.276-01.08.29.650 	With his hands round her waist, her belly touching his, she closes her eyes and rests her head on his chest, as they slowly sway together.
+0004_Charade_00.17.45.483-00.17.49.124 	he stands staring at lampert's body, swaying on his feet until he reaches out and grabs the side of the coffin to steady himself.
+0010_Frau_Ohne_Gewissen_01.44.34.950-01.44.38.783 	they stare at each other for a long moment, then, with intense effort neff gets up on his feet and stands there swaying a little.
+0021_Rear_Window_00.05.11.321-00.05.15.419 	with swaying body, she puts down the chicken leg, and gracefully and rhythmically butters a slice of bread.
+0027_The_Big_Lebowski_00.54.54.463-00.55.08.049 	the dude looks stuporously up, his head swaying.
+0030_The_Hustler_01.06.07.509-01.06.09.909 	eddie stares at sarah as she sways limply on her knees, unmindful of her open robe.
+0031_The_Lost_Weekend_00.32.40.088-00.32.42.834 	the swaying echelon of choristers slowly dissolves to a row of raincoats, exactly like the one don wore.
+0031_The_Lost_Weekend_00.32.42.946-00.32.43.922 	they hang from hangers and sway slowly to verdi's rhythm.
+0031_The_Lost_Weekend_00.32.47.654-00.32.48.845 	the raincoats swaying slowly.
+0033_Amadeus_02.43.01.051-02.43.04.379 	they are sleepless and sway to the motion of the vehicle.
+0049_Hannah_and_her_sisters_01.38.40.076-01.38.45.381 	the four brothers are now swaying and singing and strutting, their voices indistinct over mickey's narration.
+1004_Juno_01.08.22.276-01.08.29.650 	with his hands round her waist, her belly touching his, she closes her eyes and rests her head on his chest, as they slowly sway together.
 1007_Spider-Man1_01.07.11.182-01.07.16.507 	mj is stranded on a swaying piece of balcony.
-1012_Unbreakable_01.06.07.769-01.06.11.759 	his head sways from side to side, looking for a reaction.
 1014_2012_01.29.19.326-01.29.25.017 	it sways and starts to fall like a felled tree.
 1015_27_Dresses_00.09.17.677-00.09.23.539 	she sways unsteadily, clutching her head.
 1019_Confessions_Of_A_Shopaholic_00.51.14.778-00.51.22.346 	suddenly, she disappears only to reappear behind him, swaying wildly from side to side, all the while waving the fan in front of her.
 1030_Public_Enemies_00.24.13.548-00.24.20.444 	they sway together.
 1030_Public_Enemies_00.24.36.968-00.24.37.085 	her dark eyes probe his as they sway with the music.
-1037_The_Curious_Case_Of_Benjamin_Button_01.57.46.495-01.57.48.390 	a dangling triangular support sways above her.
-1038_The_Great_Gatsby_00.21.29.852-00.21.32.427 	nick sways on the spot with glazed, drunken eyes.
-1038_The_Great_Gatsby_00.27.07.643-00.27.08.525 	her tassels swish and sway as she moves frenetically.
-1040_The_Ugly_Truth_01.11.58.799-01.12.04.672 	abby sways rhythmically to the music as mike caresses her hair and runs his hands down her sides.
-1041_This_is_40_00.18.31.172-00.18.35.995 	as his wife and daughters look on, pete sways awkwardly, letting his head rock side to side.
-1041_This_is_40_01.12.46.366-01.12.49.032 	now, desi sways between two hockey players.
-1048_Gran_Torino_00.21.35.739-00.21.47.973 	by its drunken swaying light, he aims the rifle at thao, who backs away.
-1057_Seven_pounds_01.03.54.903-01.04.01.566 	in the house, curtains sway in the breeze as connie sits reading a letter.
+1038_The_Great_Gatsby_01.07.17.152-01.07.20.300 	nick walks over to them as they gently sway, then leaves them.
+1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.21.05.000-00.21.11.076 	above their heads, a chandelier starts to sway.
 2004_Juno_01.07.58.363-01.08.00.355 	they sway slowly to the music.
 2005_Signs_01.13.28.004-01.13.30.892 	watches the top of the corn stalks swaying slightly with the wind.
 2012_Unbreakable_00.49.17.957-00.49.20.059 	the fours cans sway a little as the bar is heaved off of david's chest.
 2026_Legion_00.10.58.686-00.11.05.312 	a stunning looking sixteen-year-old girl with dyed-black hair and a piercing or three, is leaning seductively over the jukebox, swaying gently to the music.
-2026_Legion_00.45.42.380-00.45.42.671 	charlie sways on her feet.
-1057_Seven_pounds_01.03.54.903-01.04.01.566 	in the house, curtains sway in the breeze as connie sits reading a letter.
-2004_Juno_01.07.58.363-01.08.00.355 	they sway slowly to the music.
-2005_Signs_01.13.28.004-01.13.30.892 	watches the top of the corn stalks swaying slightly with the wind.
-2012_Unbreakable_00.49.17.957-00.49.20.059 	the fours cans sway a little as the bar is heaved off of david's chest.
-2026_Legion_00.10.58.686-00.11.05.312 	a stunning looking sixteen-year-old girl with dyed-black hair and a piercing or three, is leaning seductively over the jukebox, swaying gently to the music.
-2026_Legion_00.45.42.380-00.45.42.671 	charlie sways on her feet.
-2054_Harry_Potter_and_the_prisoner_of_azkaban_00.07.48.872-00.07.51.381 	harry turns, studies the swaying swings, the carousel.
+2034_Super_8_01.27.23.502-01.27.24.960 	another crazy loud and bright explosion -- the light fixtures sway.
+2054_Harry_Potter_and_the_prisoner_of_azkaban_00.09.51.332-00.09.53.075 	harry drops onto the bed nearest, peers up at the chandelier swaying directly above his head.

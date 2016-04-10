@@ -1,0 +1,17 @@
+BURLESQUE.srt 	BURLESQUE_DVS396 	00:55:23,00 --> 00:55:30,50 	a different panel spins and someone rotates into the room, then whirls away again.
+DEAR_JOHN.srt 	DEAR_JOHN_DVS698 	01:34:03,00 --> 01:34:10,50 	someone rises and starts out of the room, then whirls around.
+EASY_A.srt 	EASY_A_DVS304 	01:27:12,00 --> 01:27:19,50 	he whirls her around, then sets her down.
+GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS239 	00:38:06,00 --> 00:38:30,50 	he whirls the chain above his head, then strikes another.
+GREEN_ZONE.srt 	GREEN_ZONE_DVS277 	01:04:31,00 --> 01:04:38,50 	someone whirls away.
+IRON_MAN_2.srt 	IRON_MAN_2_DVS180 	00:33:44,00 --> 00:34:06,50 	someone whirls a whip which strikes the ground behind someone, who leaps onto an overturned race car, then falls onto the road.
+KARATE_KID.srt 	KARATE_KID_DVS709 	00:59:35,00 --> 00:59:42,50 	wincing, someone wearily whirls the jacket around his shoulders, pauses,
+KARATE_KID.srt 	KARATE_KID_DVS734 	01:02:17,00 --> 01:02:22,50 	someone whirls around sheepishly.
+KARATE_KID.srt 	KARATE_KID_DVS853 	01:10:22,00 --> 01:10:30,50 	he pulls the garment down, flings it to the ground, then picks it up and whirls it around his shoulders.
+KARATE_KID.srt 	KARATE_KID_DVS870 	01:11:44,00 --> 01:11:51,50 	someone sneers and yanks his jacket off his shoulder, then whirls it toward his back.
+KARATE_KID.srt 	KARATE_KID_DVS911 	01:14:14,00 --> 01:14:21,50 	the student retrieves his jacket and whirls it around his shoulders.
+KARATE_KID.srt 	KARATE_KID_DVS1293 	01:44:35,00 --> 01:44:44,50 	in the courtyard, someone whirls a staff.
+KARATE_KID.srt 	KARATE_KID_DVS1423 	01:54:47,00 --> 01:55:00,50 	he whirls toward a boy in gray, kicking his opponent in the head.
+THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS58 	00:04:21,00 --> 00:04:27,50 	he whirls around to watch wennerstrom's statement.
+THE_SITTER.srt 	THE_SITTER_DVS82 	00:43:50,00 --> 00:43:56,50 	someone's view whirls to the bathroom, as the pajama-clad
+TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS627 	01:09:21,00 --> 01:09:28,50 	his coach swaggers closer and averts his eyes, then whirls to face someone.
+ZOMBIELAND.srt 	ZOMBIELAND_DVS378 	00:43:03,00 --> 00:43:10,50 	someone whirls around, fuming.

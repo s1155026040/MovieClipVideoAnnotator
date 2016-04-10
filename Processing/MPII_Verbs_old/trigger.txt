@@ -1,0 +1,4 @@
+0003_CASABLANCA_01.31.16.684-01.31.18.692 	Renault presses a button on his desk, triggering a BUZZER.
+1007_Spider-Man1_01.49.14.462-01.49.15.322 	the remote has triggered the glider.
+1033_Sherlock_Holmes_A_Game_of_Shadows_00.46.18.615-00.46.23.411 	a soldier makes his way into watson's compartment, unwittingly triggering the booby-trapped grenade.
+1035_The_Adjustment_Bureau_00.42.40.557-00.42.41.629 	richardson triggers a text to charlie.

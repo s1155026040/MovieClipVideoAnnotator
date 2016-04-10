@@ -1,54 +1,52 @@
-0001_American_Beauty_01.28.28.660-01.28.32.185 	Wind whips garbage across the parking lot as Carolyn's Mercedes pulls in next to Buddy's Jaguar.
-0005_Chinatown_01.47.15.687-01.47.20.043 	Gittes in Mulwray's Buick whips into the driveway.
-0006_Clerks_00.33.30.626-00.33.31.658 	He hops over the counter and whips the door open.
-0013_Halloween_00.50.58.461-00.51.00.668 	The wind blows strong and whips the negligee around Annie's legs.
-0013_Halloween_01.11.24.457-01.11.26.207 	The wind whips her clothes and hair.
-0016_O_Brother_Where_Art_Thou_00.35.12.079-00.35.14.369 	He whips open his suitcoat to reveal a half-dozen sticks of dynamite.
-0016_O_Brother_Where_Art_Thou_00.51.36.426-00.51.39.596 	Pappy whips off his hat and slaps at Junior with it.
-0016_O_Brother_Where_Art_Thou_00.51.55.194-00.51.57.947 	Pappy whips him back down with his hat.
-0016_O_Brother_Where_Art_Thou_01.08.04.117-01.08.07.965 	Pappy whips at him with his hat.
-0016_O_Brother_Where_Art_Thou_01.18.03.985-01.18.07.947 	Whoosh - arriving Big Dan whips the hood from Everett's head.
-0016_O_Brother_Where_Art_Thou_01.18.10.170-01.18.20.597 	Big Dan whips off the other two hoods - Delmar and Pete, in blackface.
-0017_Pianist_00.33.03.302-00.33.04.773 	The Jewish policemen using batons and whips to herd the men.
-0020_Raising_Arizona_01.29.07.985-01.29.10.916 	He whips off his helmet and we track in on the face of the rosy-cheeked high-school bruiser.
-0022_Reservoir_Dogs_00.04.17.880-00.04.22.141 	Everybody whips out a buck, and throws it on the table.
-0022_Reservoir_Dogs_01.24.40.666-01.24.42.157 	A car whips around the corner, into the alley.
-0023_THE_BUTTERFLY_EFFECT_00.55.17.167-00.55.18.283 	Evan whips around to see Kayleigh watching him.
-0023_THE_BUTTERFLY_EFFECT_01.08.49.438-01.08.54.819 	As Tommy prepares to bash his brains in, Evan whips out the Pepper Spray and nails Tommy in the face.
-0023_THE_BUTTERFLY_EFFECT_01.18.07.114-01.18.15.097 	She looks over in time to see Evan using all of his seven- year old strength to WHIP his hands down toward the spindles!
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.41.55.490-01.42.08.281 	They whip and snap back into FRODO'S FACE as he cuts himself free.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.59.28.714-01.59.29.968 	he whips out his LITTLE SWORD.
-0026_The_Big_Fish_00.58.26.605-00.58.27.566 	Its tail whips back and forth.
-0028_The_Crying_Game_01.06.39.850-01.06.40.713 	She whips her arm away.
-0032_The_Princess_Bride_01.20.41.768-01.20.44.738 	And he whips it out, hands it to FEZZIK.
-0033_Amadeus_00.03.49.526-00.03.54.260 	The driver whips up the horse, and the wagon dashes off through the still-falling snow.
-0033_Amadeus_01.25.34.624-01.25.35.869 	SMASH CUT: Salieri's masked face whips around and looks at her.
-0046_Chasing_Amy_00.06.36.240-00.06.38.770 	Hooper whips his head around, looking for the source of the comment.
-0046_Chasing_Amy_00.42.16.976-00.42.20.162 	Alyssa picks up a ball, squints to aim, and whips it overhand.
-0046_Chasing_Amy_00.42.48.707-00.42.50.027 	Holden whips the ball in surprise.
-0050_Indiana_Jones_and_the_last_crusade_00.27.24.997-00.27.32.931 	Indy whips out the Grail Diary and opens it to the sketch he noticed in the airplane.
-0050_Indiana_Jones_and_the_last_crusade_01.35.48.791-01.35.53.347 	As Henry speeds toward the front of the tank to certain doom, Indy, with lightning speed, whips out his bullwhip, wrapping the end of the whip around Henry's right ankle.
-0051_Men_in_black_00.06.41.401-00.06.41.858 	One of the alien's eyes, on a tall stalk, whips around too.
-0051_Men_in_black_00.44.13.008-00.44.13.349 	Suddenly a TENTACLE whips out from between Mrs. 
-0051_Men_in_black_00.44.15.100-00.44.16.469 	Now a SECOND TENTACLE whips out, but this one wraps around Jay's neck and pulls tight.
-0051_Men_in_black_00.56.34.474-00.56.36.735 	Without even looking at her, Kay whips out his neuralyzer and blanks her out.
-1003_How_to_Lose_Friends_and_Alienate_People_00.28.50.453-00.28.52.812 	Party guests whip out their mobile phones in response to the ring tone.
+0001_American_Beauty_01.02.02.609-01.02.04.920 	we follow it as the wind carries it in a circle around us, sometimes whipping it about violently, or, without warning, sending it soaring skyward, then letting it float gracefully down to the ground.
+0001_American_Beauty_01.55.21.331-01.55.26.316 	the wind carries it in a circle around us, sometimes whipping it about violently, or, without warning, sending it soaring skyward, then letting it float gracefully down to the ground.
+0005_Chinatown_00.11.05.536-00.11.08.510 	even as gittes watches mulwray watching, the volume and velocity seem to increase until it gushes in spurts, cascading into the sea, whipping it into a foam.
+0006_Clerks_00.33.30.626-00.33.31.658 	he hops over the counter and whips the door open.
+0008_Fargo_01.07.43.952-01.07.55.035 	shep knees carl repeatedly, then dumps him onto the floor and starts whipping him with the buckle end of the belt.
+0013_Halloween_00.50.58.461-00.51.00.668 	the wind blows strong and whips the negligee around annie's legs.
+0013_Halloween_01.11.24.457-01.11.26.207 	the wind whips her clothes and hair.
+0016_O_Brother_Where_Art_Thou_00.35.12.079-00.35.14.369 	he whips open his suitcoat to reveal a half-dozen sticks of dynamite.
+0016_O_Brother_Where_Art_Thou_00.51.55.194-00.51.57.947 	pappy whips him back down with his hat.
+0016_O_Brother_Where_Art_Thou_01.18.03.985-01.18.07.947 	whoosh - arriving big dan whips the hood from everett's head.
+0019_Pulp_Fiction_02.02.13.800-02.02.23.505 	a silver porsche whips the corner leading to jimmie's home, in hyper drive.
+0020_Raising_Arizona_00.48.30.865-00.48.32.888 	tracking on him as he runs down the broad front aisle, head whipping as he runs, looking up each perpendicular lane, searching for something.
+0020_Raising_Arizona_01.09.24.420-01.09.26.442 	the two men's heads whip around to look in the back seat.
+0020_Raising_Arizona_01.29.07.985-01.29.10.916 	he whips off his helmet and we track in on the face of the rosy-cheeked high-school bruiser.
+0022_Reservoir_Dogs_00.04.17.880-00.04.22.141 	everybody whips out a buck, and throws it on the table.
+0022_Reservoir_Dogs_01.31.04.114-01.31.06.313 	he whips out a revolver and aims it at mr. orange.
+0023_THE_BUTTERFLY_EFFECT_01.18.07.114-01.18.15.097 	she looks over in time to see evan using all of his seven- year old strength to whip his hands down toward the spindles!
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.41.55.490-01.42.08.281 	they whip and snap back into frodo's face as he cuts himself free.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.59.28.714-01.59.29.968 	he whips out his little sword.
+0026_The_Big_Fish_00.58.26.605-00.58.27.566 	its tail whips back and forth.
+0027_The_Big_Lebowski_00.29.56.759-00.30.01.664 	the dude is flying over the city, his arms thrown out in front of him, the wind whipping his hair and billowing his bowling shirt.
+0028_The_Crying_Game_00.37.11.644-00.37.14.944 	jody runs, whipping through the trees--always ahead of him.
+0028_The_Crying_Game_01.06.39.850-01.06.40.713 	she whips her arm away.
+0032_The_Princess_Bride_01.20.41.768-01.20.44.738 	and he whips it out, hands it to fezzik.
+0033_Amadeus_00.03.49.526-00.03.54.260 	the driver whips up the horse, and the wagon dashes off through the still-falling snow.
+0033_Amadeus_01.25.34.624-01.25.35.869 	smash cut: salieri's masked face whips around and looks at her.
+0046_Chasing_Amy_00.06.36.240-00.06.38.770 	hooper whips his head around, looking for the source of the comment.
+0046_Chasing_Amy_00.42.16.976-00.42.20.162 	alyssa picks up a ball, squints to aim, and whips it overhand.
+0050_Indiana_Jones_and_the_last_crusade_01.35.48.791-01.35.53.347 	as henry speeds toward the front of the tank to certain doom, indy, with lightning speed, whips out his bullwhip, wrapping the end of the whip around henry's right ankle.
+0051_Men_in_black_00.06.41.401-00.06.41.858 	one of the alien's eyes, on a tall stalk, whips around too.
+0051_Men_in_black_00.44.13.008-00.44.13.349 	suddenly a tentacle whips out from between mrs. 
+0051_Men_in_black_00.44.15.100-00.44.16.469 	now a second tentacle whips out, but this one wraps around jay's neck and pulls tight.
+1001_Flight_00.46.02.873-00.46.06.958 	he hands whip a package.
+1001_Flight_01.02.13.116-01.02.16.985 	carrying the pillow, she walks to whip.
+1001_Flight_01.52.42.545-01.52.48.270 	harling sucks on the cigarette and hands it to whip.
+1002_Harry_Potter_and_the_Half-Blood_Prince_02.08.10.562-02.08.16.480 	dumbledore is on his feet flourishing his wand around his head, whipping up the fire.
+1003_How_to_Lose_Friends_and_Alienate_People_00.28.50.453-00.28.52.812 	party guests whip out their mobile phones in response to the ring tone.
+1005_Signs_00.37.49.708-00.37.52.376 	whipping round, he drops the torch and the light goes out.
 1007_Spider-Man1_01.24.50.693-01.24.56.334 	he whips back up, smashes the goblin in the face, pulls him back with a webbed thread and then volleys him with his left foot through a partition.
 1007_Spider-Man1_01.26.14.002-01.26.14.686 	he whips off his mask.
 1007_Spider-Man1_01.35.41.434-01.35.42.843 	mj whips her hand out of peter's.
 1007_Spider-Man1_01.40.50.907-01.40.58.630 	a massive metal wheel flies into the air, a cable whips free, and the roosevelt island cable car starts to free-fall.
 1008_Spider-Man2_00.05.58.617-00.06.00.201 	the man goes to eat the pizza slice as it's whipped from his hand by a web.
 1010_TITANIC_00.38.26.854-00.38.29.246 	the wind whips her curly, auburn hair around her face.
-1011_The_Help_00.59.25.700-00.59.27.265 	skeeter whips off her specs.
 1018_Body_Of_Lies_00.41.23.898-00.41.46.261 	a man whips him.
-1019_Confessions_Of_A_Shopaholic_01.34.55.129-01.34.56.041 	with a relieved smile, rebecca whips off her spotted shrug.
 1024_Identity_Thief_00.48.14.588-00.48.17.175 	big chuck whips off his belt.
-1026_Legion_00.53.30.088-00.53.31.041 	wind whips through his hair.
 1030_Public_Enemies_00.40.34.155-00.40.39.217 	baum whips out his gun, then peers at a car parked in the alley.
-1030_Public_Enemies_00.54.23.733-00.54.29.169 	wind whips two trench-coated lawmen as they escort a shackled dillinger across the tarmac.
 1035_The_Adjustment_Bureau_01.03.03.014-01.03.04.818 	he whips around to the closed door, but finds it locked.
 1038_The_Great_Gatsby_01.05.42.289-01.05.44.692 	outside, a strong swelling breeze whips up on the balcony.
-1046_Australia_01.23.56.475-01.24.02.399 	he looks nervous, then blinks as she cracks her whip right in front of his face.
 1047_Defiance_01.15.31.231-01.15.32.718 	and whips off his hat.
 1047_Defiance_01.37.54.092-01.37.54.668 	he whips back a curtain across the door of a cabin.
 1048_Gran_Torino_01.45.40.928-01.45.48.144 	he slowly reaches inside his jacket, then whips his hand out again.
@@ -56,13 +54,8 @@
 1051_Harry_Potter_and_the_goblet_of_fire_01.33.28.758-01.33.31.954 	something whips past her face.
 1056_Rambo_01.10.21.000-01.10.23.000 	the commander whips them with his stick.
 1060_Yes_man_01.20.18.437-01.20.24.523 	he free-falls hundreds of feet towards a river, then gets whipped back up by the heavy-duty elastic.
+2005_Signs_01.37.46.107-01.37.49.156 	his powerful muscles pull his shoulders whipping around.
 2026_Legion_00.26.06.574-00.26.09.229 	from behind the counter, he whips a heavy metal frying pan at gladys that knocks her head sideways.
 2026_Legion_00.33.53.994-00.33.56.074 	michael whips the gun away from bob's head and thrusts it back into his hands.
-2026_Legion_00.57.47.421-00.58.00.198 	sandra whips open the back door and that's when the world hits slow motion.
-1056_Rambo_01.10.21.000-01.10.23.000 	the commander whips them with his stick.
-1060_Yes_man_01.20.18.437-01.20.24.523 	he free-falls hundreds of feet towards a river, then gets whipped back up by the heavy-duty elastic.
-2026_Legion_00.26.06.574-00.26.09.229 	from behind the counter, he whips a heavy metal frying pan at gladys that knocks her head sideways.
-2026_Legion_00.33.53.994-00.33.56.074 	michael whips the gun away from bob's head and thrusts it back into his hands.
-2026_Legion_00.57.47.421-00.58.00.198 	sandra whips open the back door and that's when the world hits slow motion.
 2034_Super_8_01.29.14.598-01.29.17.531 	cary opens his backpack, whips out a fourth of july sparkler.
 2051_Harry_Potter_and_the_goblet_of_fire_01.00.32.328-01.00.38.211 	the dragon cuts him off and whips him off his broom, he lands on the roof of hogwarts, hanging on for dear life.

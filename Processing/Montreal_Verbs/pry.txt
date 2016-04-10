@@ -1,0 +1,11 @@
+ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS357 	00:50:56,00 --> 00:51:04,50 	someone turns someone' hand palm up and pries his fingers from someone's pocket watch.
+BLINDDATING.srt 	BLINDDATING_DVS79 	00:24:22,00 --> 00:24:30,50 	someone snatches the knife, pries out the blade and runs the blunt side across his palm.
+DEAR_JOHN.srt 	DEAR_JOHN_DVS464 	01:08:00,00 --> 01:08:09,50 	as he pries off its cover, he fumbles it, and it falls to the ground.
+JACK_AND_JILL.srt 	JACK_AND_JILL_DVS109 	00:22:40,00 --> 00:22:45,50 	they pry straight popcorn kernels out of their mouths, then eat them.
+LIFE_OF_PI.srt 	LIFE_OF_PI_DVS708 	01:13:57,00 --> 01:14:03,50 	someone tries to pry a grappling tool from the canvas cover.
+ROBIN_HOOD.srt 	ROBIN_HOOD_DVS69 	00:19:44,00 --> 00:19:48,50 	he pries at it with a knife.
+SALT.srt 	SALT_DVS429 	01:14:19,00 --> 01:14:31,50 	she pries the doors open and peers down into the shaft of the descending car.
+THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS108 	00:15:19,00 --> 00:15:23,50 	someone pries the ship out of the other man's grip.
+THE_CALL.srt 	THE_CALL_DVS407 	00:31:50,00 --> 00:32:08,50 	she pries off the tail light's back cover, then grabs a short-handled paint roller.
+XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS350 	00:28:07,00 --> 00:28:13,50 	he reaches out and pries the explosive from someone's grasp.
+ZOMBIELAND.srt 	ZOMBIELAND_DVS267 	00:29:34,00 --> 00:29:41,50 	he pries it loose.

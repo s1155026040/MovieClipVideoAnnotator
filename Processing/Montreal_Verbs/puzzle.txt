@@ -1,0 +1,5 @@
+NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS238 	00:49:42,00 --> 00:49:58,50 	farmer someone watches with a puzzled frown.
+PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS125 	00:31:53,00 --> 00:31:59,50 	wearing a puzzled frown, someone claps slowly.
+SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS166 	00:12:21,00 --> 00:12:26,50 	someone sets it aside with a puzzled frown.
+SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS867 	00:57:31,00 --> 00:57:38,50 	she peers down toward the lower floor, then shifts her puzzled gaze and gets up.
+TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS858 	01:31:15,00 --> 01:31:20,50 	he gazes off with a puzzled frown.

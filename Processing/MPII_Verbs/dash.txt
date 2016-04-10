@@ -1,11 +1,52 @@
-0014_Ist_das_Leben_nicht_schoen_02.03.37.659-02.03.40.522 	George comes dashing in the front door.
-0017_Pianist_00.56.23.482-00.56.27.958 	He jumps down, is about to dash towards Janina, but stops dead.
-0032_The_Princess_Bride_01.23.16.922-01.23.19.311 	And he's running, dashing through corridors and as he glances back.
-0033_Amadeus_01.13.16.802-01.13.21.831 	The hall is full of dogs, at least five, all jumping up and dashing about and making a terrific racket.
+0001_American_Beauty_01.23.38.575-01.23.40.266 	we're almost on top of the burnham house now, as lester, wearing sweatpants and running shoes, bursts out of the front door and dashes up the driveway.
+0003_CASABLANCA_01.01.23.020-01.01.25.120 	he dashes off and collides with carl.
+0013_Halloween_00.42.10.842-00.42.16.127 	tommy dashes up to the front window and looks out.
+0014_Ist_das_Leben_nicht_schoen_00.08.44.859-00.08.48.890 	with an inspiration, george dashes out the door and down the street.
+0014_Ist_das_Leben_nicht_schoen_01.56.21.753-01.56.25.186 	george dashes out of the house and down the street, as bert grapples with clarence, and they fall to the ground, wrestling.
+0014_Ist_das_Leben_nicht_schoen_02.00.27.933-02.00.31.148 	mary breaks away from him, and dashes into the first door she comes to, the blue moon bar.
+0014_Ist_das_Leben_nicht_schoen_02.02.53.107-02.02.55.285 	he comes running into shot, sees the car, lets out a triumphant yell, pats the car, and dashes on.
+0014_Ist_das_Leben_nicht_schoen_02.03.37.659-02.03.40.522 	george comes dashing in the front door.
+0017_Pianist_00.02.56.172-00.02.58.202 	mother dashes out of the kitchen.
+0017_Pianist_00.56.23.482-00.56.27.958 	he jumps down, is about to dash towards janina, but stops dead.
+0021_Rear_Window_00.18.20.334-00.18.23.537 	she turns around quickly and dashes to the door, dropping the cigarette box on the table as she passes, the camera panning with her.
+0021_Rear_Window_01.06.24.447-01.06.25.063 	jeff abruptly turns back to the window, as lisa dashes into the picture behind him, and looks out.
+0021_Rear_Window_01.39.32.390-01.39.35.904 	lisa dashes back into the bedroom just in time to avoid being seen by thorwald as he opens the door and enters the apartment.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.11.52.553-00.11.53.862 	wearing a dashing brocade waist coat, he looks every inch the eccentric gentleman.
+0026_The_Big_Fish_01.51.05.548-01.51.07.022 	will dashes to catch up with him.
+0031_The_Lost_Weekend_00.09.18.238-00.09.26.472 	he puts the chain on the door to insure his privacy, then dashes into the bathroom.
+0032_The_Princess_Bride_00.18.45.150-00.18.47.853 	he dashes to the giant rock the rope was originally tied to.
+0032_The_Princess_Bride_00.28.26.947-00.28.33.665 	and he nimbly scoops up his sword with his foot, catches it and as he dashes off up along the mountain path.
+0032_The_Princess_Bride_01.23.16.922-01.23.19.311 	and he's running, dashing through corridors and as he glances back.
+0033_Amadeus_00.03.49.526-00.03.54.260 	the driver whips up the horse, and the wagon dashes off through the still-falling snow.
+0033_Amadeus_01.13.16.802-01.13.21.831 	the hall is full of dogs, at least five, all jumping up and dashing about and making a terrific racket.
+0038_Psycho_00.27.43.571-00.27.51.737 	she dashes out into the rain, to her car, gets in, opens the side window, begins to honk the horn.
+0046_Chasing_Amy_01.33.04.273-01.33.10.392 	he jumps up and dashes out of the park.
+0046_Chasing_Amy_01.45.48.234-01.45.49.189 	alyssa dashes off signatures in the copies of her comic.
+0049_Hannah_and_her_sisters_00.18.57.562-00.19.01.567 	april, holding the stroganoff, dashes out of the kitchen to serve the party guests.
+0050_Indiana_Jones_and_the_last_crusade_00.04.16.806-00.04.18.671 	indy releases the scarf, gives herman a pat and herman dashes off.
+0050_Indiana_Jones_and_the_last_crusade_00.04.48.495-00.04.51.186 	he hears running footsteps behind him and dashes off.
+1006_Slumdog_Millionaire_00.12.41.479-00.12.44.838 	he dashes towards amitabh making his way through the crowds of photographers and onlookers.
+1006_Slumdog_Millionaire_00.29.07.876-00.29.12.353 	he dashes to the tap.
+1006_Slumdog_Millionaire_01.39.01.370-01.39.04.208 	she dashes towards his car.
+1006_Slumdog_Millionaire_01.45.01.073-01.45.03.848 	latika dashes back in the direction of the abandoned car.
 1010_TITANIC_00.26.18.643-00.26.21.430 	carrying sacks over their shoulder, jack and, fabrizio dashed into the ship.
 1010_TITANIC_00.30.05.567-00.30.11.173 	men dashed along catwalks as turning gears pumped huge pistons up and down.
+1010_TITANIC_00.37.00.946-00.37.06.606 	rose opens a gate then dashes down the lower deck leading to the rear of the ship.
 1010_TITANIC_01.31.21.808-01.31.22.365 	they dash into the elevator.
-1059_The_devil_wears_prada_00.02.58.568-00.03.03.457 	andi makes her way down a busy city street, as smartly dressed businesspeople dash this way and that.
-1059_The_devil_wears_prada_00.02.58.568-00.03.03.457 	andi makes her way down a busy city street, as smartly dressed businesspeople dash this way and that.
+1019_Confessions_Of_A_Shopaholic_00.07.35.564-00.07.40.380 	with the green scarf flowing behind her, she dashes towards a tall, glass-topped building.
+1019_Confessions_Of_A_Shopaholic_01.06.02.239-01.06.06.963 	she dashes for the stairs.
+1019_Confessions_Of_A_Shopaholic_01.29.54.033-01.30.00.068 	with crazed eyes, haley jumps out of a cab, and dashes to join a queue of women standing outside the church building where the sale is taking place.
+1028_No_Reservations_01.10.34.079-01.10.38.210 	in the pouring rain, nick dashes out of his truck outside kate's apartment building.
+1035_The_Adjustment_Bureau_01.25.16.276-01.25.21.041 	david bursts out a door with a brief stumble and dashes down a rainy alleyway.
+1035_The_Adjustment_Bureau_01.26.17.310-01.26.23.615 	he dashes across the street and climbs the courthouse steps two at a time.
+1043_Vantage_Point_00.16.03.265-00.16.06.107 	a bearded young man dashes to the podium.
+1043_Vantage_Point_00.29.09.947-00.29.14.974 	enrique sprints upstairs and dashes into an apartment building.
+1043_Vantage_Point_00.29.37.841-00.29.42.008 	enrique dashes away from the apartment building and sprints along the street.
+1044_Pride_And_Prejudice_Disk_Two_00.02.35.596-00.02.42.919 	he dashes over to a bureau and pulls out a sheet of paper.
+1047_Defiance_00.29.29.136-00.29.31.883 	he picks up another rifle and dashes into the bushes.
+1048_Gran_Torino_01.26.47.335-01.26.56.842 	walt watches it go, then runs down off the porch and dashes into thao's house.
+1059_The_devil_wears_prada_00.05.18.745-00.05.22.923 	emily dashes into miranda's office, puts a glass down on her desk, and fills it with mineral water.
+2017_Bad_Santa_01.30.38.902-01.30.42.736 	a brief open space separates him from a stairwell; he dashes across as gunfire redoubles and plunges down the stairs.
+2026_Legion_01.07.51.540-01.07.56.061 	the father dashes to the driver's side.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_00.49.01.702-00.49.10.052 	the students dash to the landing, where all the paintings whisper fearfully.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_01.30.28.782-01.30.36.552 	they dash to the stairs.

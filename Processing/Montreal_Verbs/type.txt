@@ -1,0 +1,6 @@
+ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS230 	01:07:33,00 --> 01:07:52,50 	he surreptitiously takes the phone, creeps toward the door leaving someone typing on her laptop by a sleeping someone.
+LARRY_CROWNE.srt 	LARRY_CROWNE_DVS317 	01:14:44,00 --> 01:14:48,50 	booth consulting notes and typing on a laptop.
+MORNING_GLORY.srt 	MORNING_GLORY_DVS274 	01:00:43,00 --> 01:00:50,50 	he goes into the living room where someone is watching the news and typing on her laptop.
+PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS623 	01:57:05,00 --> 01:57:12,50 	he crosses to a desk and halts briefly by a secretary busy typing.
+RUBY_SPARKS.srt 	RUBY_SPARKS_DVS262 	00:40:40,00 --> 00:40:48,50 	a reluctant someone starts typing and we glimpse his words as they spell out on the page.
+XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS249 	00:19:06,00 --> 00:19:11,50 	among the files, she finds a document typed in russian.

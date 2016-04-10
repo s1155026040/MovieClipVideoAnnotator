@@ -1,0 +1,18 @@
+FLIGHT.srt 	FLIGHT_DVS173 	00:38:28,00 --> 00:38:34,50 	he looks around the dark room, then clicks on the light.
+JACK_AND_JILL.srt 	JACK_AND_JILL_DVS133 	00:26:54,00 --> 00:26:58,50 	someone clicks the mouse.
+JACK_AND_JILL.srt 	JACK_AND_JILL_DVS229 	00:45:45,00 --> 00:45:49,50 	he clicks a remote.
+JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS472 	01:31:43,00 --> 01:31:51,50 	she moves the cursor to the publish button on screen and clicks it, then turns off the desk lamp.
+MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS582 	01:09:45,00 --> 01:09:52,50 	later, he gazes sadly at his laptop as he clicks through photos of the penguins.
+NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS488 	01:30:14,00 --> 01:30:18,50 	someone stands with her shirt hanging off and clicks her fingers.
+PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS141 	00:36:55,00 --> 00:37:00,50 	someone clicks a remote turning it off.
+PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS209 	00:51:51,00 --> 00:51:57,50 	his gaze wistful, he clicks the remote.
+SPARKLE_2012.srt 	SPARKLE_2012_DVS78 	00:13:18,00 --> 00:13:23,50 	someone rolls her eyes and clicks the tv off.
+THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS586 	01:04:49,00 --> 01:04:56,50 	someone goes to a tv and clicks a remote.
+THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS590 	01:05:16,00 --> 01:05:21,50 	clicking the remote, she mutes the video.
+THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS775 	01:29:17,00 --> 01:29:24,50 	someone gives an exasperated look as he clicks incorrect icons.
+WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS480 	01:14:47,00 --> 01:14:56,50 	clicking it, someone opens an album displaying thumbnail images of family photos.
+WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS602 	01:31:25,00 --> 01:31:32,50 	now at his laptop, he clicks an arrow on his iphoto application.
+WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS605 	01:31:39,00 --> 01:31:46,50 	he clicks to the next image, which shows him and someone sharing a kiss.
+WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS656 	01:36:03,00 --> 01:36:08,50 	he clicks a remote, popping his trunk.
+YOUNG_ADULT.srt 	YOUNG_ADULT_DVS26 	00:02:59,00 --> 00:03:04,50 	the woman clicks on a message titled
+YOUNG_ADULT.srt 	YOUNG_ADULT_DVS32 	00:03:25,00 --> 00:03:31,50 	absentmindedly tugging on a lock of hair, she clicks on the print button.

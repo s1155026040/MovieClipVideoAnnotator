@@ -1,43 +1,32 @@
-0005_Chinatown_00.49.42.393-00.49.44.707 	He talks quietly but spits it out.
-0006_Clerks_00.56.23.510-00.56.24.939 	RANDAL spits a mist of water at the customer, drenching him.
-0007_DIE_NACHT_DES_JAEGERS_00.59.47.222-00.59.49.151 	Then the old man spits into the fire.
-0019_Pulp_Fiction_02.19.47.737-02.19.49.213 	Jules sits with his .45 ready to spit under the table.
-0020_Raising_Arizona_01.03.11.912-01.03.14.333 	He spits on the dirt in front of him.
-0020_Raising_Arizona_01.18.02.035-01.18.03.546 	The shotgun spits orange flame and the windshield explodes in.
-0020_Raising_Arizona_01.18.20.222-01.18.21.893 	- The second shotgun roars and the back window spits in.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.34.14.973-01.34.21.729 	He side-steps CALMLY out of the way spitting on the BOULDER in CONTEMPT.
-0026_The_Big_Fish_00.06.37.217-00.06.40.239 	A beat, then the Beast spits out Edward's gold ring.
-0026_The_Big_Fish_00.25.02.575-00.25.04.643 	But the giant spits it back out.
-0027_The_Big_Lebowski_01.30.40.182-01.30.42.232 	The Dude spits some White Russian.
-0050_Indiana_Jones_and_the_last_crusade_00.10.42.956-00.10.44.441 	Herman continues to spit -- right into Indy's face.
-1003_How_to_Lose_Friends_and_Alienate_People_00.16.24.297-00.16.25.335 	He spits in the sink.
-1003_How_to_Lose_Friends_and_Alienate_People_00.16.31.367-00.16.33.115 	He spits it out over the mirror.
-1006_Slumdog_Millionaire_00.05.51.309-00.05.52.967 	He spits blood.
-1006_Slumdog_Millionaire_01.22.22.354-01.22.26.656 	He looks disgusted and spits it out onto the plate.
-1010_TITANIC_01.57.40.867-01.57.43.045 	rose spits in cal's face and runs off.
+0005_Chinatown_00.49.42.393-00.49.44.707 	he talks quietly but spits it out.
+0006_Clerks_00.56.23.510-00.56.24.939 	randal spits a mist of water at the customer, drenching him.
+0007_DIE_NACHT_DES_JAEGERS_00.59.47.222-00.59.49.151 	then the old man spits into the fire.
+0014_Ist_das_Leben_nicht_schoen_01.40.39.995-01.40.41.633 	throughout the scene he attempts to spit, but each time is stopped by some amazing thing clarence does or says.
+0019_Pulp_Fiction_02.19.47.737-02.19.49.213 	jules sits with his .45 ready to spit under the table.
+0020_Raising_Arizona_01.03.11.912-01.03.14.333 	he spits on the dirt in front of him.
+0020_Raising_Arizona_01.18.02.035-01.18.03.546 	the shotgun spits orange flame and the windshield explodes in.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.34.14.973-01.34.21.729 	he side-steps calmly out of the way spitting on the boulder in contempt.
+0026_The_Big_Fish_00.06.37.217-00.06.40.239 	a beat, then the beast spits out edward's gold ring.
+0026_The_Big_Fish_00.25.02.575-00.25.04.643 	but the giant spits it back out.
+0027_The_Big_Lebowski_01.30.40.182-01.30.42.232 	the dude spits some white russian.
+0050_Indiana_Jones_and_the_last_crusade_00.10.42.956-00.10.44.441 	herman continues to spit -- right into indy's face.
+0050_Indiana_Jones_and_the_last_crusade_00.35.58.944-00.35.59.831 	elsa surfaces into the air pocket created by the coffin, sputtering and spitting.
+1003_How_to_Lose_Friends_and_Alienate_People_00.16.24.297-00.16.25.335 	he spits in the sink.
+1003_How_to_Lose_Friends_and_Alienate_People_00.16.31.367-00.16.33.115 	he spits it out over the mirror.
+1006_Slumdog_Millionaire_00.05.51.309-00.05.52.967 	he spits blood.
+1006_Slumdog_Millionaire_01.22.22.354-01.22.26.656 	he looks disgusted and spits it out onto the plate.
 1012_Unbreakable_01.29.42.742-01.29.49.409 	looming over her, beer bottle in hand, the huge maintenance man spits a stream of liquid at her bruised face.
-1018_Body_Of_Lies_01.03.46.200-01.03.47.921 	ferris spits at him and walks off.
 1018_Body_Of_Lies_01.52.11.520-01.52.13.627 	he spits in al-saleem's face.
 1018_Body_Of_Lies_01.53.04.455-01.53.06.477 	he spits in ferris' face.
 1024_Identity_Thief_00.01.41.927-00.01.43.196 	a machine spits out a credit card with sandy's name on it.
 1027_Les_Miserables_00.34.46.797-00.34.48.868 	he recoils as she spits in his face.
 1030_Public_Enemies_01.21.20.810-01.21.22.695 	the gangster spits at his tormentor.
-1033_Sherlock_Holmes_A_Game_of_Shadows_00.03.54.920-00.04.02.586 	as the leader closes in with a crate, holmes spits coffee beans into his face.
 1040_The_Ugly_Truth_00.57.32.956-00.57.37.986 	she chews, winces, spits the caviar out, and grimaces.
-1047_Defiance_00.56.17.693-00.56.21.018 	zus spits and whacks his brother again with another kick.
-1047_Defiance_01.41.17.829-01.41.19.862 	tuvia has his back turned as a bearded jew spits on a man.
 1048_Gran_Torino_00.06.16.082-00.06.23.750 	he spits and wanders away.
 1048_Gran_Torino_00.07.17.800-00.07.22.194 	he spits and walks out.
-1048_Gran_Torino_00.12.18.493-00.12.19.744 	grandma spits copiously.
-1048_Gran_Torino_00.22.08.132-00.22.11.592 	walt spits out some blood,
+1048_Gran_Torino_00.34.34.794-00.34.36.419 	he spits.
 1048_Gran_Torino_01.00.18.269-01.00.22.427 	he spits blood in to the sink,
 1049_Harry_Potter_and_the_chamber_of_secrets_00.39.34.899-00.39.37.576 	ron spits out a huge slug.
-1049_Harry_Potter_and_the_chamber_of_secrets_00.39.46.158-00.39.47.590 	ron spits out another slug.
 1053_Harry_Potter_and_the_philosophers_stone_01.23.02.999-01.23.04.208 	harry spits out the snitch.
 1056_Rambo_00.39.53.006-00.39.56.290 	rambo turns away and spits into the river before staring ahead again.
-1056_Rambo_01.11.22.491-01.11.23.822 	en-joo spits on the ground.
-1060_Yes_man_00.31.45.358-00.31.48.027 	carl spits out a lime.
-1053_Harry_Potter_and_the_philosophers_stone_01.23.02.999-01.23.04.208 	harry spits out the snitch.
-1056_Rambo_00.39.53.006-00.39.56.290 	rambo turns away and spits into the river before staring ahead again.
-1056_Rambo_01.11.22.491-01.11.23.822 	en-joo spits on the ground.
 1060_Yes_man_00.31.45.358-00.31.48.027 	carl spits out a lime.

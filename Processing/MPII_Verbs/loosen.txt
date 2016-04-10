@@ -1,18 +1,21 @@
-0007_DIE_NACHT_DES_JAEGERS_00.22.24.370-00.22.24.774 	JOHN looks up from pebble-skimming and loosens his tie.
-0010_Frau_Ohne_Gewissen_00.04.02.648-00.04.05.787 	His good hand flips the overcoat back, he unbuttons his jacket, loosens his tie and shirt.
-0028_The_Crying_Game_00.36.59.080-00.37.02.327 	Jody suddenly sprints, and, loosening the ties on his hands, then freeing them, he is off like a hare.
-0031_The_Lost_Weekend_00.03.46.004-00.03.46.648 	He tries to loosen the noose but he's nervous and loses a precious second.
-0031_The_Lost_Weekend_00.03.52.712-00.03.56.785 	Don sees he can't loosen the string in time.
-0031_The_Lost_Weekend_00.43.23.782-00.43.28.270 	Wick has bent over Don and loosened his tie.
-0032_The_Princess_Bride_00.17.43.086-00.17.49.384 	Inigo steps away, draws his sword, loosens up with a few perfect thrusts.
-0032_The_Princess_Bride_00.18.48.424-00.18.50.821 	THE MAN IN BLACK, as his grip loosens a moment, trying to cling to the side of the cliff.
-0033_Amadeus_02.30.46.853-02.30.48.602 	He struggles to loosen his cravat.
-1005_Signs_01.39.43.310-01.39.47.790 	The light brown curtains flap in the breeze like loosened sails.
+0007_DIE_NACHT_DES_JAEGERS_00.22.24.370-00.22.24.774 	john looks up from pebble-skimming and loosens his tie.
+0007_DIE_NACHT_DES_JAEGERS_00.53.22.588-00.53.24.254 	john's astonished eyes peer through the crack in the door; the door loosens; preacher yanks his hand loose and sucks it, groaning; the door slams to; the bolt is shot home.
+0010_Frau_Ohne_Gewissen_00.04.02.648-00.04.05.787 	his good hand flips the overcoat back, he unbuttons his jacket, loosens his tie and shirt.
+0028_The_Crying_Game_00.36.59.080-00.37.02.327 	jody suddenly sprints, and, loosening the ties on his hands, then freeing them, he is off like a hare.
+0031_The_Lost_Weekend_00.03.46.004-00.03.46.648 	he tries to loosen the noose but he's nervous and loses a precious second.
+0031_The_Lost_Weekend_00.03.52.712-00.03.56.785 	don sees he can't loosen the string in time.
+0031_The_Lost_Weekend_00.43.23.782-00.43.28.270 	wick has bent over don and loosened his tie.
+0032_The_Princess_Bride_00.17.43.086-00.17.49.384 	inigo steps away, draws his sword, loosens up with a few perfect thrusts.
+0032_The_Princess_Bride_00.18.48.424-00.18.50.821 	the man in black, as his grip loosens a moment, trying to cling to the side of the cliff.
+0033_Amadeus_02.30.46.853-02.30.48.602 	he struggles to loosen his cravat.
+1002_Harry_Potter_and_the_Half-Blood_Prince_01.37.50.644-01.38.01.049 	loosening his tie, draco rushes into the boy lavatories, leans over a basin then pulls off his sweater.
 1007_Spider-Man1_00.44.10.248-00.44.17.522 	his grip on peter's hand loosens until his hand slips out of the youth's grasp.
 1007_Spider-Man1_00.52.27.231-00.52.31.735 	that night, he's sitting up in his bedroom, his tie loosened a little but still on.
 1008_Spider-Man2_01.58.20.504-01.58.23.936 	the pincer round peter's neck loosens off.
+1024_Identity_Thief_01.21.46.746-01.21.48.825 	loosening his tie, sandy enters a room and removes his suit coat.
 1035_The_Adjustment_Bureau_00.11.12.245-00.11.14.003 	she loosens his tie.
 1040_The_Ugly_Truth_01.13.12.677-01.13.18.177 	mike presses buttons and loosens his jacket.
 1040_The_Ugly_Truth_01.29.34.815-01.29.36.773 	stuart loosens his collar.
 1051_Harry_Potter_and_the_goblet_of_fire_01.58.13.133-01.58.13.486 	the roots and branches loosen their hold.
+2027_Les_Miserables_00.26.30.797-00.26.33.565 	fantine, pale and frail, her bodice loosened, leads the captain down to the damp dregs of the ship.
 2051_Harry_Potter_and_the_goblet_of_fire_01.36.43.038-01.36.49.620 	he loosens her rope too and starts heading for the surface with the both of them.

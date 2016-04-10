@@ -1,0 +1,4 @@
+BURLESQUE.srt 	BURLESQUE_DVS744 	01:52:50,00 --> 01:52:55,50 	all of the girls cluster together, with someone at the center.
+MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS559 	01:06:04,00 --> 01:06:10,50 	behind him, in the apartment, the penguins cluster together and watch him.
+PROMETHEUS.srt 	PROMETHEUS_DVS434 	00:44:12,00 --> 00:44:23,50 	the clustered trio bobs and bounces as the line carries them through the harsh wind and flying shards.
+TRUE_GRIT.srt 	TRUE_GRIT_DVS597 	01:44:00,00 --> 01:44:07,50 	snow drifts down on the plot where a small number of gravestones are clustered.

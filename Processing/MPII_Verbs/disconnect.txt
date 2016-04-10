@@ -1,8 +1,6 @@
-0001_American_Beauty_00.04.58.860-00.05.00.441 	Lester disconnects the call, obviously irritated.
-0001_American_Beauty_00.04.58.860-00.05.00.441 	Lester disconnects the call, obviously irritated.
-0001_American_Beauty_01.47.04.638-01.47.07.970 	She seems disconnected from what's happening.
-0026_The_Big_Fish_01.09.26.124-01.09.27.492 	He barely grabs on, disconnecting his chute just as the curtain goes up.
-1014_2012_00.26.56.357-00.26.59.485 	satnam disconnects and turns to his wife aponna.
+0001_American_Beauty_00.04.58.860-00.05.00.441 	lester disconnects the call, obviously irritated.
+0001_American_Beauty_01.47.04.638-01.47.07.970 	she seems disconnected from what's happening.
+0026_The_Big_Fish_01.09.26.124-01.09.27.492 	he barely grabs on, disconnecting his chute just as the curtain goes up.
+1035_The_Adjustment_Bureau_00.45.25.530-00.45.28.441 	it reads disconnected, call failed, searching for signal.
 1043_Vantage_Point_01.10.15.946-01.10.22.999 	ashton disconnects the metal bar and holds it against his chest.
-1057_Seven_pounds_00.05.13.805-00.05.15.759 	ezra disconnects the call.
 1057_Seven_pounds_00.05.13.805-00.05.15.759 	ezra disconnects the call.

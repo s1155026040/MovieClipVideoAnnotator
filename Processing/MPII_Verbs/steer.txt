@@ -1,61 +1,37 @@
-0005_Chinatown_01.33.35.714-01.33.40.817 	Evelyn's head sinks onto the steering wheel, her hair covering her face.
-0007_DIE_NACHT_DES_JAEGERS_01.05.12.037-01.05.22.741 	JOHN steers through turbulent, moonlit water.
-0009_Forrest_Gump_01.28.23.081-01.28.30.497 	Forrest steers his shrimping boat.
-0009_Forrest_Gump_01.35.30.701-01.35.35.143 	Forrest slides back and forth as he attempts to steer the boat.
-0010_Frau_Ohne_Gewissen_00.36.52.767-00.36.53.912 	Sitting there in the dark corner of the car, away from the steering wheel, is Lola.
-0010_Frau_Ohne_Gewissen_01.17.47.413-01.17.53.439 	CLOSE SHOT OF NEFF behind the steering wheel.
-0011_Gandhi_01.59.26.575-01.59.28.817 	Collins glances at him in surprise as he steers the car around another procession of camels heading toward the port.
-0016_O_Brother_Where_Art_Thou_00.35.46.456-00.35.49.926 	Delmar lays a hand on George's shoulder and tries to steer him toward the door.
-0023_THE_BUTTERFLY_EFFECT_01.05.28.830-01.05.33.580 	The seats and tires have been slashed, the hood has been mysteriously yanked off and the steering wheel sits on the roof.
-0023_THE_BUTTERFLY_EFFECT_01.17.42.892-01.17.50.310 	As he heads over to them, Mrs. Boswell firmly grabs his shoulders and steers him back to his own desk.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.32.20.022-00.32.24.608 	GANDALF steering SHADOWFAX up the STEEP STREETS of MINAS.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.44.32.513-00.44.36.611 	On board several HUNCHED FIGURES steer with LONG OARS.
-0029_The_Graduate_00.04.25.162-00.04.30.835 	They move out of the door, Mr. Braddock steering Ben.
-0029_The_Graduate_01.05.36.176-01.05.38.663 	He puts his head down on the steering wheel.
-0038_Psycho_00.16.27.471-00.16.31.252 	The Patrolman peers in, checks the car registration on the steering wheel, returns Mary's wallet.
-0043_Thelma_and_Luise_00.18.42.505-00.18.47.624 	He steers her towards the door.
-0043_Thelma_and_Luise_00.46.30.646-00.46.32.602 	She keeps her eyes on the road but she's holding the steering wheel so tightly, her knuckles are white.
-0050_Indiana_Jones_and_the_last_crusade_00.25.29.390-00.25.35.178 	Indy and Brody disembark from the Water Bus onto the Boat Landing as other Gondoliers steer their boats in the water.
-0050_Indiana_Jones_and_the_last_crusade_00.37.23.111-00.37.30.113 	Elsa grabs the wheel and begins to steer the boat while Indy and the Turk trade punches.
-0050_Indiana_Jones_and_the_last_crusade_00.44.28.135-00.44.31.788 	A GONDOLIER SINGS as he steers his gondola carrying two passengers past Indy's window.
-0050_Indiana_Jones_and_the_last_crusade_01.19.05.028-01.19.07.270 	Indy has the throttle down, both hands tightly gripping the steering wheel.
-0051_Men_in_black_00.29.52.324-00.29.57.320 	Kay steers Edwards to the right, down another corridor, just as long as the first.
-1001_Flight_00.07.04.965-00.07.10.057 	She leans on the steering wheel and lowers the phone to the passenger seat.
-1001_Flight_00.12.18.108-00.12.22.115 	With eyes on the horizon, as he steers the plane through rough air.
-1001_Flight_00.24.45.404-00.24.53.324 	Whip steers the plane away from the church's steeple, but the wing grazes the top.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.00.39.155-00.00.44.699 	He puts his left arm protectively around Harry's shoulder, and steers him through the crowd.
-1004_Juno_01.15.37.217-01.15.39.831 	She smoothes it out on the steering wheel of the van and starts to write on it.
-1004_Juno_01.24.32.310-01.24.37.291 	In the hospital, Leah jokingly steers Juno's wheelchair into a gown trolley.
-1005_Signs_00.54.25.994-00.54.29.713 	Ray, the Asian man who stayed in town, sits with one hand clamped to the steering wheel, rocking nervously and staring numbly ahead.
+0005_Chinatown_01.33.35.714-01.33.40.817 	evelyn's head sinks onto the steering wheel, her hair covering her face.
+0009_Forrest_Gump_01.35.30.701-01.35.35.143 	forrest slides back and forth as he attempts to steer the boat.
+0010_Frau_Ohne_Gewissen_00.36.52.767-00.36.53.912 	sitting there in the dark corner of the car, away from the steering wheel, is lola.
+0011_Gandhi_01.59.26.575-01.59.28.817 	collins glances at him in surprise as he steers the car around another procession of camels heading toward the port.
+0016_O_Brother_Where_Art_Thou_00.35.46.456-00.35.49.926 	delmar lays a hand on george's shoulder and tries to steer him toward the door.
+0023_THE_BUTTERFLY_EFFECT_01.17.42.892-01.17.50.310 	as he heads over to them, mrs. boswell firmly grabs his shoulders and steers him back to his own desk.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.32.20.022-00.32.24.608 	gandalf steering shadowfax up the steep streets of minas.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.44.32.513-00.44.36.611 	on board several hunched figures steer with long oars.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.55.14.310-00.55.16.229 	faramir steers his horse through the crowd towards.
+0026_The_Big_Fish_01.09.15.364-01.09.15.786 	he can't steer.
+0029_The_Graduate_00.04.25.162-00.04.30.835 	they move out of the door, mr. braddock steering ben.
+0038_Psycho_00.16.27.471-00.16.31.252 	the patrolman peers in, checks the car registration on the steering wheel, returns mary's wallet.
+0043_Thelma_and_Luise_00.18.42.505-00.18.47.624 	he steers her towards the door.
+0043_Thelma_and_Luise_00.46.30.646-00.46.32.602 	she keeps her eyes on the road but she's holding the steering wheel so tightly, her knuckles are white.
+0050_Indiana_Jones_and_the_last_crusade_00.25.29.390-00.25.35.178 	indy and brody disembark from the water bus onto the boat landing as other gondoliers steer their boats in the water.
+0050_Indiana_Jones_and_the_last_crusade_00.37.23.111-00.37.30.113 	elsa grabs the wheel and begins to steer the boat while indy and the turk trade punches.
+0050_Indiana_Jones_and_the_last_crusade_00.44.28.135-00.44.31.788 	a gondolier sings as he steers his gondola carrying two passengers past indy's window.
+1001_Flight_00.07.04.965-00.07.10.057 	she leans on the steering wheel and lowers the phone to the passenger seat.
+1001_Flight_00.12.18.108-00.12.22.115 	with eyes on the horizon, as he steers the plane through rough air.
+1001_Flight_00.24.45.404-00.24.53.324 	whip steers the plane away from the church's steeple, but the wing grazes the top.
+1002_Harry_Potter_and_the_Half-Blood_Prince_00.00.39.155-00.00.44.699 	he puts his left arm protectively around harry's shoulder, and steers him through the crowd.
+1004_Juno_01.15.37.217-01.15.39.831 	she smoothes it out on the steering wheel of the van and starts to write on it.
+1004_Juno_01.24.32.310-01.24.37.291 	in the hospital, leah jokingly steers juno's wheelchair into a gown trolley.
 1010_TITANIC_02.59.09.388-02.59.13.695 	elsewhere, ruth huddles against molly, who steers out to see with a blank expression.
-1020_Crazy_Stupid_Love_01.27.52.958-01.27.56.090 	bernie speeds along the road, gripping the steering wheel.
-1024_Identity_Thief_00.12.50.405-00.12.54.005 	in his car, sandy smiles and bobs his head as he taps his thumbs on the steering wheel.
 1024_Identity_Thief_00.58.53.066-00.58.56.465 	diana punches him in the throat and he falls limply against the steering wheel.
 1024_Identity_Thief_00.59.21.206-00.59.22.872 	gripping the steering wheel, he takes a breath.
-1024_Identity_Thief_01.32.19.159-01.32.21.826 	the skiptracer steers through oncoming traffic.
 1030_Public_Enemies_01.30.31.542-01.30.34.364 	headed his way in a car, baum peers ahead, over the steering wheel.
 1030_Public_Enemies_01.43.09.397-01.43.14.997 	gripping the steering wheel, he bows his head and collects his breath.
 1033_Sherlock_Holmes_A_Game_of_Shadows_01.41.05.250-01.41.14.927 	holmes looked thoughtfully at sim and steers her back over to watson.
 1037_The_Curious_Case_Of_Benjamin_Button_00.45.10.520-00.45.16.500 	grinning, mike takes the helm and sharply steers the boat left.
-1041_This_is_40_01.03.56.776-01.04.00.405 	debbie takes the steering wheel in both hands and allows a hopeful smile.
 1043_Vantage_Point_01.13.06.976-01.13.12.689 	he wrestles with his steering wheel as javier looks back and sees barnes lose a little bit of ground.
-1046_Australia_01.09.06.179-01.09.09.005 	nullah rounds up a lone steer which strays off.
-1046_Australia_01.14.59.157-01.15.03.127 	in daylight, a steer lies dead next to a watering hole.
-1046_Australia_01.24.07.128-01.24.13.492 	nullah chases the last steer onto the ship.
-1048_Gran_Torino_00.44.31.019-00.44.33.208 	sue steers him away.
 1049_Harry_Potter_and_the_chamber_of_secrets_00.24.21.746-00.24.31.701 	ron changes gear and steers the car down towards the railway line.
-1052_Harry_Potter_and_the_order_of_phoenix_00.10.04.831-00.10.06.196 	nymphadora steers to the right of it.
 1053_Harry_Potter_and_the_philosophers_stone_00.58.37.403-00.58.39.493 	harry steers his broom.
-1053_Harry_Potter_and_the_philosophers_stone_01.59.37.545-01.59.48.759 	harry climbs onto the broomstick and steers it upwards.
+1056_Rambo_00.06.00.000-00.06.03.776 	rambo is at the tiller, steering.
 1056_Rambo_00.22.29.798-00.22.38.351 	the boat is steered towards a riverbank.
 2004_Juno_01.13.33.405-01.13.37.106 	juno buckles over the steering wheel, crying, unwinding for the first time since she became pregnant.
-2005_Signs_00.54.28.914-00.54.30.082 	ray clutches the steering wheel tightly, turning his knuckles a yellow white.
-2012_Unbreakable_00.41.04.416-00.41.06.032 	the steering wheel and gear shift have the same padding.
-1053_Harry_Potter_and_the_philosophers_stone_00.58.37.403-00.58.39.493 	harry steers his broom.
-1053_Harry_Potter_and_the_philosophers_stone_01.59.37.545-01.59.48.759 	harry climbs onto the broomstick and steers it upwards.
-1056_Rambo_00.22.29.798-00.22.38.351 	the boat is steered towards a riverbank.
-2004_Juno_01.13.33.405-01.13.37.106 	juno buckles over the steering wheel, crying, unwinding for the first time since she became pregnant.
-2005_Signs_00.54.28.914-00.54.30.082 	ray clutches the steering wheel tightly, turning his knuckles a yellow white.
-2012_Unbreakable_00.41.04.416-00.41.06.032 	the steering wheel and gear shift have the same padding.
 2034_Super_8_00.22.45.851-00.22.51.231 	but he's apparently dead; when she nudges him, he leans, his arm drops limp from the steering wheel, where he was holding a paper, that has now fallen onto the ground.
-2034_Super_8_01.13.56.119-01.14.01.178 	donny yanks the steering wheel -- he turns onto a dirt road -- the car rumbles away from camera.

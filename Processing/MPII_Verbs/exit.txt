@@ -1,25 +1,99 @@
-0006_Clerks_00.33.35.040-00.33.39.251 	RANDAL closes the door and stands there, momentarily, totally appalled by her exiting remark, then shakes his head.
-0006_Clerks_00.37.05.708-00.37.08.746 	DANTE frantically apologizes to the rapidly exiting CUSTOMER.
-0012_Get_Shorty_00.45.37.239-00.45.42.252 	As Karen and Chili exit the theater, stand there a moment.
-0014_Ist_das_Leben_nicht_schoen_01.26.32.160-01.26.33.171 	They exit with Tommy hanging onto George's coat-tails, and pulling at him.
-0022_Reservoir_Dogs_01.08.40.177-01.08.46.979 	Freddy enters frame from the same direction he exited in the previous scene, finishing his sentence.
-0023_THE_BUTTERFLY_EFFECT_00.24.27.192-00.24.28.688 	They exit the woods to find.
-0023_THE_BUTTERFLY_EFFECT_00.56.44.243-00.56.48.995 	Evan turns around and sees Gwen, one of the sorority brats from the bar, exit the shower naked.
+0001_American_Beauty_01.36.06.014-01.36.16.319 	he kisses her cheek softly, then exits out the back door, leaving her standing alone, still clutching her dish.
+0001_American_Beauty_01.38.24.116-01.38.26.435 	and she exits, slamming the door behind her.
+0002_As_Good_As_It_Gets_00.23.18.525-00.23.21.687 	she exits.
+0002_As_Good_As_It_Gets_00.28.55.169-00.29.00.344 	melvin breaks two eggs over a large pile of prime chopped meat, sticks raw pieces of bacon into it and exits the room.
+0002_As_Good_As_It_Gets_00.42.05.307-00.42.08.671 	he exits.
+0002_As_Good_As_It_Gets_01.09.02.449-01.09.08.454 	he exits -- simon puzzled and concerned.
+0002_As_Good_As_It_Gets_01.16.03.155-01.16.05.956 	she exits.
+0002_As_Good_As_It_Gets_01.32.25.065-01.32.27.976 	she exits the room.
+0002_As_Good_As_It_Gets_01.33.21.657-01.33.22.570 	they exit.
+0002_As_Good_As_It_Gets_01.44.16.217-01.44.19.685 	but she has already turned away and exits the restaurant.
+0003_CASABLANCA_00.56.41.250-00.56.43.831 	as he exits, laszlo looks after him with a puzzled expression.
+0003_CASABLANCA_01.15.17.485-01.15.24.356 	he bows and exits as laszlo arrives at the table.
+0003_CASABLANCA_01.29.06.518-01.29.15.203 	renault hands some forms to the orderly, who then exits, and the conversation continues.
+0006_Clerks_00.10.30.961-00.10.32.381 	she blasts him with more chemical as he exits.
+0006_Clerks_00.10.36.347-00.10.41.639 	the crowd sheepishly exits, one by one, offering apologetic glances.
+0006_Clerks_00.10.57.512-00.10.58.476 	the last of the crowd exits.
+0006_Clerks_00.18.08.278-00.18.11.098 	she exits in a huff.
+0006_Clerks_00.28.46.055-00.28.48.004 	the man exits as randal enters.
+0006_Clerks_00.32.05.833-00.32.06.526 	the blue-collar man exits.
+0006_Clerks_00.33.35.040-00.33.39.251 	randal closes the door and stands there, momentarily, totally appalled by her exiting remark, then shakes his head.
+0006_Clerks_00.37.05.708-00.37.08.746 	dante frantically apologizes to the rapidly exiting customer.
+0006_Clerks_00.39.40.151-00.39.41.236 	he exits.
+0006_Clerks_00.40.18.207-00.40.18.967 	she exits.
+0006_Clerks_01.17.14.583-01.17.15.629 	he exits.
+0006_Clerks_01.28.40.653-01.28.42.426 	he exits.
+0010_Frau_Ohne_Gewissen_00.55.28.075-00.55.40.535 	he rises and exits into the parlor car.
+0012_Get_Shorty_01.12.25.582-01.12.27.202 	he straightens up as chili exits the stairwell and walks up to him.
+0014_Ist_das_Leben_nicht_schoen_00.16.16.772-00.16.18.275 	she exits.
+0014_Ist_das_Leben_nicht_schoen_00.55.08.955-00.55.09.987 	george and uncle billy exit from george's office.
+0014_Ist_das_Leben_nicht_schoen_01.15.56.453-01.15.58.713 	he waves as he exits through the door.
+0014_Ist_das_Leben_nicht_schoen_01.22.35.488-01.22.37.199 	she exits.
+0014_Ist_das_Leben_nicht_schoen_01.26.32.160-01.26.33.171 	they exit with tommy hanging onto george's coat-tails, and pulling at him.
+0014_Ist_das_Leben_nicht_schoen_01.37.35.059-01.37.37.240 	george opens the door and exits to the street.
+0019_Pulp_Fiction_01.21.04.079-01.21.06.186 	butch exits the bathroom.
+0022_Reservoir_Dogs_01.08.40.177-01.08.46.979 	freddy enters frame from the same direction he exited in the previous scene, finishing his sentence.
+0022_Reservoir_Dogs_01.16.13.576-01.16.15.326 	he exits frame.
+0023_THE_BUTTERFLY_EFFECT_00.22.48.744-00.22.51.189 	andrea, in her nurse uniform, exits the house to her car.
+0023_THE_BUTTERFLY_EFFECT_00.24.27.192-00.24.28.688 	they exit the woods to find.
+0023_THE_BUTTERFLY_EFFECT_00.45.09.204-00.45.14.389 	kayleigh struggles with the zipper of a shabby coat as she exits.
+0023_THE_BUTTERFLY_EFFECT_00.56.44.243-00.56.48.995 	evan turns around and sees gwen, one of the sorority brats from the bar, exit the shower naked.
+0023_THE_BUTTERFLY_EFFECT_00.57.11.970-00.57.13.731 	she pats his ass and exits the bathroom.
+0026_The_Big_Fish_01.02.54.604-01.02.58.545 	he exits frame, leaving only the sorority house in the background.
+0029_The_Graduate_00.41.43.629-00.41.51.389 	mrs. robinson, now fully dressed and carrying her purse, passes through again and, without looking at ben, goes to the door of the hotel room, opens it and exits.
+0029_The_Graduate_00.57.12.501-00.57.14.421 	mr. robinson exits.
+0029_The_Graduate_01.30.43.844-01.30.47.518 	he pays for it and exits past camera, whistling.
+0030_The_Hustler_01.36.30.593-01.36.34.507 	the redcap exits, carrying the luggage.
+0046_Chasing_Amy_00.19.13.845-00.19.15.686 	holden smacks banky and moves to exit.
+0046_Chasing_Amy_00.32.32.918-00.32.35.266 	alyssa waves at him as he exits.
+0046_Chasing_Amy_00.38.37.800-00.38.39.977 	she exits.
+0049_Hannah_and_her_sisters_00.08.11.673-00.08.18.667 	mavis the maid exits, carrying some trays, as the group starts to cheer and applaud.
+0050_Indiana_Jones_and_the_last_crusade_01.19.46.694-01.19.48.398 	the car exits the tunnel at top speed and veers off the road.
+0053_Rendezvous_mit_Joe_Black_00.33.07.524-00.33.10.429 	luisa nods perfunctorily and exits.
+1001_Flight_00.15.33.576-00.15.41.539 	he takes a long drink as margaret exits the toilet and he goes in.
+1001_Flight_01.01.42.490-01.01.55.860 	he picks up a glass of whiskey as nicole, fresh from taking a shower, exits the bathroom.
+1001_Flight_01.22.45.685-01.22.49.450 	whip exits the bar.
+1001_Flight_01.33.28.807-01.33.35.685 	he exits the car and enters a large hangar.
+1001_Flight_01.48.54.318-01.48.57.934 	charlie exits an elevator carrying three coffees.
+1006_Slumdog_Millionaire_01.28.28.123-01.28.31.063 	jamal exits the cubiclal and approaches the sink to wash his hands.
+1010_TITANIC_01.42.38.388-01.42.38.818 	moody glances at a wall clock as he exits.
+1023_Horrible_Bosses_00.19.49.604-00.19.51.274 	he exits.
+1024_Identity_Thief_00.28.23.869-00.28.24.857 	sandy exits the back holding the pink slip.
 1024_Identity_Thief_01.20.44.972-01.20.47.775 	now, sandy and diana exit the building through an unmarked alley door.
 1024_Identity_Thief_01.29.20.489-01.29.21.156 	they exit into the lobby.
 1024_Identity_Thief_01.33.33.449-01.33.36.616 	they exit the overpass through a construction gate and down a staircase.
+1028_No_Reservations_01.39.39.601-01.39.42.954 	zoe exits the corner restaurant, which has a red door and windows.
 1030_Public_Enemies_00.14.53.713-00.14.55.399 	red waits in his car as the robbers exit with four hostages.
+1030_Public_Enemies_00.18.39.039-00.18.41.317 	as hoover exits a nearby office, purvis stands.
+1030_Public_Enemies_00.41.41.618-00.41.42.595 	outside, two agents pull their car up as their superior exits the building.
 1030_Public_Enemies_01.15.19.137-01.15.23.185 	as they exit the theater, red moves closer to dillinger.
 1030_Public_Enemies_01.16.13.781-01.16.16.448 	the gangsters shield themselves with the hostages as they exit the bank.
 1030_Public_Enemies_01.24.47.190-01.24.54.511 	as he stalks closer, the tree working class men exit the lodge.
 1030_Public_Enemies_01.42.04.331-01.42.05.784 	more armed agents exit a building directly in front of him.
-1030_Public_Enemies_02.04.25.100-02.04.30.500 	outside, purvis watches the exiting patrons.
 1030_Public_Enemies_02.04.38.964-02.04.42.630 	near the cinema door, purvis watches movie patrons exiting the lobby.
+1030_Public_Enemies_02.06.19.662-02.06.27.709 	the bullet pierces the back of dillinger's skull and exits through his cheek, spewing blood and tissue.
 1035_The_Adjustment_Bureau_00.26.50.718-00.26.53.720 	as four men exit an suv, richardson sits facing david.
-1035_The_Adjustment_Bureau_00.50.29.138-00.50.33.115 	heading outside, they see david exit the cab and enter a building.
-1037_The_Curious_Case_Of_Benjamin_Button_02.17.01.238-02.17.06.615 	a uniformed man and a female doctor exit the bedroom through separate doors.
+1035_The_Adjustment_Bureau_00.43.09.589-00.43.19.762 	david exits a town car and shakes many hands.
+1035_The_Adjustment_Bureau_01.12.52.661-01.13.00.673 	exiting the er, david walks down a corridor, his pained eyes staring straight ahead.
+1037_The_Curious_Case_Of_Benjamin_Button_01.44.55.983-01.45.00.311 	on stage, a woman in a headdress is lifted up by two men who exits stage right.
 1039_The_Queen_00.11.32.233-00.11.36.305 	two men exit through the revolving doors.
+1039_The_Queen_00.13.41.118-00.13.43.642 	the queen exits the bedroom and robin bows.
 1039_The_Queen_00.31.28.401-00.31.33.145 	she watches as two men exit from the lead vehicle.
+1039_The_Queen_00.58.05.489-00.58.09.542 	at balmoral, the queen exits a land rover and enters a building.
+1039_The_Queen_01.31.05.147-01.31.08.465 	tony exits the car and extends his hand.
 1041_This_is_40_01.33.30.831-01.33.35.497 	now, they exit the school and walk side by side, both wearing mischievous grins.
+1043_Vantage_Point_00.10.27.863-00.10.33.779 	as he exits, he hears two other colleagues, holden and matthews, with taylor.
+2004_Juno_00.38.43.351-00.38.46.783 	juno exits the head office and bumps into bleeker.
+2004_Juno_00.40.09.991-00.40.10.532 	the ultrasound tech exits in a huff.
+2017_Bad_Santa_00.05.36.583-00.05.39.758 	the guard exits the store, locks the door and heads home.
+2017_Bad_Santa_00.15.45.573-00.15.57.355 	as she exits, he activates the machine.
+2027_Les_Miserables_01.10.52.614-01.10.55.900 	marius is stopped as he exits the front door of the gorbeau tenement by a passing carriage.
+2034_Super_8_00.36.03.660-00.36.04.783 	he exits the store.
+2040_The_Ugly_Truth_00.28.00.745-00.28.03.183 	mike exits the stage door and walks into the alley, followed by the confused camera crew.
+2041_This_is_40_00.39.38.315-00.39.40.920 	he exits.
+2041_This_is_40_01.20.04.884-01.20.07.655 	she exits into the bathroom.
+2041_This_is_40_01.56.35.948-01.56.38.797 	pete exits his home riding his bike.
 2041_This_is_40_01.59.28.021-01.59.29.454 	he rides down the street when suddenly a man in a range rover opens his door to exit his car and pete slams directly into the man's car door -- hard, breaking the man's window and falling to the ground.
+2054_Harry_Potter_and_the_prisoner_of_azkaban_00.16.14.065-00.16.24.478 	harry exits his room as the witch knocks on a door.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_00.27.00.798-00.27.08.210 	students exit the great hall, scale the marble staircase.
+2054_Harry_Potter_and_the_prisoner_of_azkaban_01.20.05.731-01.20.14.983 	rising gracelessly, she exits, knocking her crystal ball to the floor.

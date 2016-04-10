@@ -1,0 +1,5 @@
+INSIDE_MAN.srt 	INSIDE_MAN_DVS430 	02:01:49,00 --> 02:02:01,50 	it reads awarded to keith someone, detective first grade.
+KARATE_KID.srt 	KARATE_KID_DVS1401 	01:52:47,00 --> 01:53:00,50 	the scoreboard replays someone's counter-offensive and awards him a point.
+KARATE_KID.srt 	KARATE_KID_DVS1561 	02:06:20,00 --> 02:06:32,50 	the big screen shows a point awarded to someone.
+KARATE_KID.srt 	KARATE_KID_DVS1566 	02:07:06,00 --> 02:07:18,50 	the big screen shows a point awarded to someone, tying the score at 1 to 1.
+KARATE_KID.srt 	KARATE_KID_DVS1590 	02:09:46,00 --> 02:09:52,50 	the score display shows a point being awarded to someone,

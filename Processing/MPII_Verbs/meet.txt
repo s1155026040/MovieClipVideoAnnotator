@@ -1,69 +1,76 @@
-0001_American_Beauty_01.10.56.487-01.10.56.917 	As soon as his eyes meet his father's, he knows what's up.
-0002_As_Good_As_It_Gets_00.23.40.385-00.23.42.057 	Vincent quickly and expertly picks a CD to meet his immediate needs and puts it on -- dying a little at every second of silence during the transition.
-0003_CASABLANCA_00.09.57.229-00.09.58.774 	Rick meets Ugarte on his way back to his table.
-0003_CASABLANCA_01.04.43.918-01.04.45.275 	Annina meets Renault in the hallway as she leaves the Gambling room.
-0003_CASABLANCA_01.19.37.558-01.19.40.625 	Ilsa comes over to meet him.
-0003_CASABLANCA_01.37.34.863-01.37.37.670 	Rick puts his hand to her chin and raises her face to meet his own.
-0007_DIE_NACHT_DES_JAEGERS_00.30.00.398-00.30.10.564 	WILLA walks to meet her image in the mirror; her eyes on.
-0008_Fargo_01.02.02.885-01.02.07.634 	A waitress meets them at the table.
-0009_Forrest_Gump_00.19.26.408-00.19.32.989 	Jenny's grandmother meets Jenny outside and leads her toward the trailer.
-0010_Frau_Ohne_Gewissen_00.07.23.592-00.07.23.665 	Neff's coupe meets and passes the ice cream wagon and stops before one of the Spanish houses.
-0010_Frau_Ohne_Gewissen_00.37.25.091-00.37.26.800 	Lola meets his glance.
-0010_Frau_Ohne_Gewissen_01.03.54.169-01.03.55.434 	Mr. Norton goes to meet her.
-0010_Frau_Ohne_Gewissen_01.05.00.362-01.05.01.459 	Their eyes meet for a fraction of a second.
-0011_Gandhi_00.02.37.218-00.02.39.702 	Two young men (Apte and Karkare) meet Godse's gaze, and again we get the sense of imminent danger.
-0011_Gandhi_00.45.30.407-00.45.31.455 	Behind her, Gandhi's reception is in full spate -- silver trays, tables covered in fine linen, Indian servants, a swimming pool, a small fountain, the grounds filled with Indian millionaires and dignitaries gathered with their wives to meet the new hero from South Africa.
-0011_Gandhi_00.46.06.763-00.46.08.653 	He meets Prakash's gaze firmly, the first moment we have seen any sign of the Gandhi of South Africa.
-0011_Gandhi_01.01.25.897-01.01.40.854 	He meets Nehru's gaze, and for a moment something deeper than argument passes between them.
-0011_Gandhi_01.11.41.608-01.11.43.634 	Gandhi meets his eyes -- a smile that shelters Charlie's vulnerability, returns his love.
-0011_Gandhi_02.55.59.988-02.56.04.066 	A long moment, as Gandhi meets his pain and wrath.
-0014_Ist_das_Leben_nicht_schoen_00.54.24.644-00.54.26.497 	George bangs the receiver down and turns to meet Uncle Billy's anxious look.
-0014_Ist_das_Leben_nicht_schoen_02.04.41.796-02.04.44.321 	Mary races up the stairs, where George meets her in a fierce embrace.
-0016_O_Brother_Where_Art_Thou_01.33.01.394-01.33.06.994 	Everett and the rest of the Soggy Bottom Boys descend the last couple of steps to meet the oncoming criminal.
-0017_Pianist_00.37.21.767-00.37.32.707 	Szpilman, shabby and unshaven, hurries along and meets Jehuda Zyskind coming towards him, accompanied by the small man, Majorek.
-0021_Rear_Window_00.21.53.155-00.21.55.828 	As if she's preparing to meet someone.
-0023_THE_BUTTERFLY_EFFECT_01.26.36.170-01.26.38.617 	Seven-year old Evan comes to during the time he first met his father, Jason.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.42.17.297-01.42.19.915 	Frodo meets Gandalf's eye.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.36.39.061-02.36.40.635 	Merry's eyes meet Frodo's.
-0026_The_Big_Fish_01.33.43.001-01.33.49.547 	He puts his up to meet hers.
-0027_The_Big_Lebowski_01.34.35.180-01.34.39.204 	The Dude steps out to meet Walter's car as it pulls up, its passenger window open and the pomeranian leaning out and yapping.
-0031_The_Lost_Weekend_00.07.51.201-00.07.53.301 	His eyes meet Helen's.
-0050_Indiana_Jones_and_the_last_crusade_00.55.07.191-00.55.15.682 	They meet and hug, then begin to walk.
-0051_Men_in_black_01.09.56.832-01.09.58.447 	Tony flicks the fly swatter again, sending another bug to meet its maker.
-0053_Rendezvous_mit_Joe_Black_00.38.36.881-00.38.40.086 	She kisses Drew in some light, humorous way they have ob- viously done before, their heads bobbing like plastic water toys and their lips meeting mid-air.
-0053_Rendezvous_mit_Joe_Black_02.45.46.164-02.45.52.828 	Joe rises to meet Parrish as he approaches.
-1001_Flight_01.03.17.038-01.03.26.491 	They look into each other's eyes and their lips meet again.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.57.17.213-01.57.19.713 	Descending the stairs, he meets Harry who has overheard his exchange with Dumbledore.
-1003_How_to_Lose_Friends_and_Alienate_People_00.18.39.489-00.18.41.793 	Sidney's smile fades as he meets with an indifferent stare.
-1004_Juno_00.26.02.181-00.26.05.746 	Juno meets her dad's bewildered gaze, then lets her head drop for a second before speaking.
-1004_Juno_00.35.22.670-00.35.25.337 	Mac's attempted conversation is met with a baffled look.
-1004_Juno_01.21.26.515-01.21.30.964 	Smiling, he jogs to meet her.
-1005_Signs_00.14.49.640-00.14.51.307 	The brothers meet up again at the front of the house.
-1005_Signs_00.41.30.500-00.41.33.020 	He meets Merrill's gaze.
-1005_Signs_00.45.11.970-00.45.13.926 	His eyes meet with Merrill's.
-1005_Signs_00.46.32.627-00.46.35.498 	Caroline walks up to meet him.
+0001_American_Beauty_01.10.56.487-01.10.56.917 	as soon as his eyes meet his father's, he knows what's up.
+0001_American_Beauty_01.17.04.108-01.17.05.954 	then, just before their lips meet.
+0002_As_Good_As_It_Gets_00.23.40.385-00.23.42.057 	vincent quickly and expertly picks a cd to meet his immediate needs and puts it on -- dying a little at every second of silence during the transition.
+0003_CASABLANCA_01.19.37.558-01.19.40.625 	ilsa comes over to meet him.
+0003_CASABLANCA_01.37.34.863-01.37.37.670 	rick puts his hand to her chin and raises her face to meet his own.
+0004_Charade_01.37.52.244-01.37.52.417 	for a moment, she stops and their eyes meet.
+0007_DIE_NACHT_DES_JAEGERS_00.30.00.398-00.30.10.564 	willa walks to meet her image in the mirror; her eyes on.
+0007_DIE_NACHT_DES_JAEGERS_00.38.04.041-00.38.08.498 	their eyes meet.
+0008_Fargo_01.02.02.885-01.02.07.634 	a waitress meets them at the table.
+0009_Forrest_Gump_00.19.26.408-00.19.32.989 	jenny's grandmother meets jenny outside and leads her toward the trailer.
+0010_Frau_Ohne_Gewissen_00.37.25.091-00.37.26.800 	lola meets his glance.
+0010_Frau_Ohne_Gewissen_01.03.54.169-01.03.55.434 	mr. norton goes to meet her.
+0010_Frau_Ohne_Gewissen_01.05.00.362-01.05.01.459 	their eyes meet for a fraction of a second.
+0011_Gandhi_00.02.37.218-00.02.39.702 	two young men (apte and karkare) meet godse's gaze, and again we get the sense of imminent danger.
+0011_Gandhi_00.45.30.407-00.45.31.455 	behind her, gandhi's reception is in full spate -- silver trays, tables covered in fine linen, indian servants, a swimming pool, a small fountain, the grounds filled with indian millionaires and dignitaries gathered with their wives to meet the new hero from south africa.
+0011_Gandhi_00.46.06.763-00.46.08.653 	he meets prakash's gaze firmly, the first moment we have seen any sign of the gandhi of south africa.
+0011_Gandhi_01.01.25.897-01.01.40.854 	he meets nehru's gaze, and for a moment something deeper than argument passes between them.
+0011_Gandhi_01.11.41.608-01.11.43.634 	gandhi meets his eyes -- a smile that shelters charlie's vulnerability, returns his love.
+0011_Gandhi_01.56.36.142-01.56.37.654 	for a minute their eyes meet, the judge makes a little bow to gandhi.
+0011_Gandhi_02.00.52.304-02.00.54.163 	near to meeting now.
+0011_Gandhi_02.55.59.988-02.56.04.066 	a long moment, as gandhi meets his pain and wrath.
+0014_Ist_das_Leben_nicht_schoen_00.54.24.644-00.54.26.497 	george bangs the receiver down and turns to meet uncle billy's anxious look.
+0014_Ist_das_Leben_nicht_schoen_02.04.41.796-02.04.44.321 	mary races up the stairs, where george meets her in a fierce embrace.
+0016_O_Brother_Where_Art_Thou_01.33.01.394-01.33.06.994 	everett and the rest of the soggy bottom boys descend the last couple of steps to meet the oncoming criminal.
+0019_Pulp_Fiction_02.10.40.611-02.10.43.833 	they look a million miles away from the black-suited, bad-asses we first met.
+0021_Rear_Window_00.21.53.155-00.21.55.828 	as if she's preparing to meet someone.
+0023_THE_BUTTERFLY_EFFECT_01.26.36.170-01.26.38.617 	seven-year old evan comes to during the time he first met his father, jason.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.36.39.061-02.36.40.635 	merry's eyes meet frodo's.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.13.09.005-00.13.17.319 	as she proffers the chalice their eyes meet.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.59.28.135-00.59.29.152 	denethor's eyes meet.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.53.05.096-02.53.14.420 	frodo's and sam's eyes meet.
+0026_The_Big_Fish_01.33.43.001-01.33.49.547 	he puts his up to meet hers.
+0027_The_Big_Lebowski_01.34.35.180-01.34.39.204 	the dude steps out to meet walter's car as it pulls up, its passenger window open and the pomeranian leaning out and yapping.
+0030_The_Hustler_01.29.30.235-01.29.30.817 	eddie and sarah had walked past it the first day they met.
+0031_The_Lost_Weekend_00.07.51.201-00.07.53.301 	his eyes meet helen's.
+0041_The_Sixth_Sense_01.26.24.330-01.26.30.270 	husband and wife's eyes meet.
+0050_Indiana_Jones_and_the_last_crusade_00.55.07.191-00.55.15.682 	they meet and hug, then begin to walk.
+0051_Men_in_black_01.09.56.832-01.09.58.447 	tony flicks the fly swatter again, sending another bug to meet its maker.
+0053_Rendezvous_mit_Joe_Black_00.38.36.881-00.38.40.086 	she kisses drew in some light, humorous way they have ob- viously done before, their heads bobbing like plastic water toys and their lips meeting mid-air.
+0053_Rendezvous_mit_Joe_Black_02.45.46.164-02.45.52.828 	joe rises to meet parrish as he approaches.
+1001_Flight_01.03.17.038-01.03.26.491 	they look into each other's eyes and their lips meet again.
+1002_Harry_Potter_and_the_Half-Blood_Prince_01.41.18.368-01.41.19.068 	the ends of the cloth don't quite meet.
+1002_Harry_Potter_and_the_Half-Blood_Prince_01.57.17.213-01.57.19.713 	descending the stairs, he meets harry who has overheard his exchange with dumbledore.
+1003_How_to_Lose_Friends_and_Alienate_People_00.18.39.489-00.18.41.793 	sidney's smile fades as he meets with an indifferent stare.
+1004_Juno_00.26.02.181-00.26.05.746 	juno meets her dad's bewildered gaze, then lets her head drop for a second before speaking.
+1004_Juno_00.35.22.670-00.35.25.337 	mac's attempted conversation is met with a baffled look.
+1004_Juno_01.21.26.515-01.21.30.964 	smiling, he jogs to meet her.
+1005_Signs_00.14.49.640-00.14.51.307 	the brothers meet up again at the front of the house.
+1005_Signs_00.41.30.500-00.41.33.020 	he meets merrill's gaze.
+1005_Signs_00.45.11.970-00.45.13.926 	his eyes meet with merrill's.
+1005_Signs_00.46.32.627-00.46.35.498 	caroline walks up to meet him.
 1007_Spider-Man1_01.05.45.643-01.05.48.992 	harry meets an oscorp board member who's in a wheelchair.
 1007_Spider-Man1_01.53.16.763-01.53.32.110 	standing in the middle of the graveyard with tears in her windblown face, mj pulls his head towards her and their lips meet in a long and passionate embrace.
 1009_Spider-Man3_01.18.36.156-01.18.46.474 	mary jane brushes harry's dark hair back from his brow then lets her gaze meet his adoring eyes.
 1009_Spider-Man3_01.22.27.097-01.22.34.561 	he hurries on to meet her.
 1009_Spider-Man3_01.24.25.197-01.24.27.173 	later, he meets peter in a coffee shop.
 1009_Spider-Man3_02.08.12.482-02.08.16.982 	he looks back at flint who meets his steadfast gaze.
+1009_Spider-Man3_02.09.41.885-02.09.42.791 	their eyes meet.
+1010_TITANIC_02.37.44.457-02.37.47.726 	they grab onto the railing at the exact spot they first met.
+1011_The_Help_01.11.26.517-01.11.29.877 	aibileen looks across at yule mae and their eyes meet.
 1011_The_Help_01.52.00.497-01.52.02.544 	charlotte's brown eyes meet her gaze for a second.
 1011_The_Help_02.11.27.247-02.11.31.948 	she hesitates to meet their gaze.
 1012_Unbreakable_01.17.24.806-01.17.28.515 	he has a thoughtful expression on his face and doesn't meet the man's eyes.
-1015_27_Dresses_00.13.45.388-00.13.49.819 	crossing a street, jane meets casey getting out of a cab.
-1015_27_Dresses_00.42.51.179-00.42.55.943 	jane meets up with kevin in a bar.
 1015_27_Dresses_01.01.17.819-01.01.21.885 	jane hurries to meet george on the terrace of the boat house.
 1015_27_Dresses_01.29.15.437-01.29.19.425 	jane can't meet tess' furious gaze.
-1018_Body_Of_Lies_00.44.11.432-00.44.13.755 	ferris meets marwan.
-1018_Body_Of_Lies_01.15.26.356-01.15.28.571 	marwan meets ferris on a corridor.
-1018_Body_Of_Lies_01.16.22.242-01.16.34.945 	ferris meets skip.
+1019_Confessions_Of_A_Shopaholic_01.05.56.194-01.05.59.093 	he looks up, and their eyes meet.
 1019_Confessions_Of_A_Shopaholic_01.17.48.586-01.17.51.221 	suze bursts out of the front door to meet her.
 1023_Horrible_Bosses_01.05.45.885-01.05.50.750 	the guys meet in a bar.
 1027_Les_Miserables_01.15.54.483-01.15.56.042 	the students meet in a tavern.
 1028_No_Reservations_00.21.39.819-00.21.43.159 	she meets bernadette coming out with two plates.
 1029_Pride_And_Prejudice_Disk_One_01.06.02.023-01.06.06.169 	denny crosses to meet them with his companion.
 1029_Pride_And_Prejudice_Disk_One_01.13.38.871-01.13.42.393 	her eyes meet mr. wickham's and they smile at each other warmly.
+1029_Pride_And_Prejudice_Disk_One_01.34.00.450-01.34.05.882 	lizzie smiles and leaves them, meeting miss bingley.
 1029_Pride_And_Prejudice_Disk_One_02.14.07.537-02.14.09.366 	lydia comes running out to meet her.
 1029_Pride_And_Prejudice_Disk_One_02.17.32.966-02.17.41.577 	mr. collins and charlotte hurry out to meet them as lizzie, maria, and sir william emerge from the cab.
 1029_Pride_And_Prejudice_Disk_One_02.36.05.351-02.36.08.591 	he strides over to meet her, beaming.
@@ -72,13 +79,14 @@
 1030_Public_Enemies_01.12.05.092-01.12.08.758 	dillinger tilts his head, his eyes narrowing as he meets d'andrea's gaze.
 1030_Public_Enemies_01.51.48.706-01.51.50.372 	he steps out to meet piquett.
 1030_Public_Enemies_01.58.05.169-01.58.06.071 	dillinger lowers his shades and meets his mug shot's stern gaze.
+1030_Public_Enemies_02.10.33.733-02.10.38.602 	meeting winstead's gaze, she gives a small, grateful nod.
 1033_Sherlock_Holmes_A_Game_of_Shadows_01.45.16.309-01.45.17.976 	inside, watson and sim meet up again.
 1034_Super_8_01.40.17.930-01.40.22.601 	the dads walk towards them and joe and alice go to meet them.
 1035_The_Adjustment_Bureau_00.24.48.187-00.24.49.620 	the balding man meets his gaze.
 1035_The_Adjustment_Bureau_01.00.49.807-01.00.53.175 	she meets david's gaze.
 1035_The_Adjustment_Bureau_01.01.18.546-01.01.20.341 	her eyes glimmer with tears as she meets his gaze.
 1035_The_Adjustment_Bureau_01.27.03.427-01.27.09.941 	now as thompson meets his team in the rotunda, david races past elise's friend outside the courtroom.
-1035_The_Adjustment_Bureau_01.35.14.046-01.35.19.376 	they envelope each other in a profound embrace their lips meeting passionately.
+1037_The_Curious_Case_Of_Benjamin_Button_00.17.33.042-00.17.40.624 	tizzy and queenie put an arm around each other and their eyes meet.
 1037_The_Curious_Case_Of_Benjamin_Button_00.27.43.189-00.27.48.975 	benjamin turns gingerly to meet his gaze.
 1037_The_Curious_Case_Of_Benjamin_Button_01.27.49.563-01.27.51.824 	he goes out to meet her.
 1037_The_Curious_Case_Of_Benjamin_Button_01.58.51.988-01.58.55.578 	her aged mother meets her eye.
@@ -90,7 +98,6 @@
 1038_The_Great_Gatsby_01.16.18.342-01.16.20.510 	he meets daisy's gaze.
 1039_The_Queen_00.28.26.931-00.28.31.861 	charles and airlie walk over to meet various uniform men standing nearby.
 1039_The_Queen_01.22.27.373-01.22.30.039 	she walks up to the barriers to meet the people.
-1041_This_is_40_01.44.40.912-01.44.42.255 	the three meet in the middle.
 1042_Up_In_The_Air_00.44.37.435-00.44.51.635 	ryan and natalie meet several employees.
 1043_Vantage_Point_00.53.18.703-00.53.21.681 	javier's eyes meet with enrique's as they pass each other.
 1044_Pride_And_Prejudice_Disk_Two_00.18.51.831-00.18.55.395 	lydia indicates that she'll come down and meet them then closes the window.
@@ -108,10 +115,9 @@
 1047_Defiance_01.35.58.937-01.36.03.674 	lilka steps out of the water to meet her.
 1047_Defiance_01.37.36.262-01.37.37.723 	malbin hurries up to meet him.
 1047_Defiance_01.39.40.214-01.39.42.975 	he smiles and their lips meet again.
-1048_Gran_Torino_01.21.36.930-01.21.41.489 	thao meets walt near the house.
+1047_Defiance_02.03.53.704-02.03.54.368 	their eyes meet.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.22.04.377-01.22.07.310 	they meet each others gaze.
 1051_Harry_Potter_and_the_goblet_of_fire_00.36.39.763-00.36.49.264 	in a high tower, the hogwarts professors meet and consult together.
-1051_Harry_Potter_and_the_goblet_of_fire_02.08.28.532-02.08.34.865 	the power from their wands collides and meets like molten lava in a burst of bright flame.
 1052_Harry_Potter_and_the_order_of_phoenix_00.39.52.574-00.39.58.208 	harry boldly meets her gaze then blinks.
 1052_Harry_Potter_and_the_order_of_phoenix_01.06.10.560-01.06.22.547 	their lips meet in a gentle kiss.
 1052_Harry_Potter_and_the_order_of_phoenix_01.44.29.526-01.44.33.777 	neville, luna, ginny and ron run to meet them.
@@ -129,22 +135,4 @@
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.36.36.000-00.36.42.145 	the students who met harry, including cho, ginny, and seamus, stand looking at the floor.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.48.13.185-01.48.20.862 	a burst of green energy from the elder wand is met by a burst of red from harry, resulting in a bright white ball of light.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.49.08.052-01.49.25.675 	red and green blasts meet again in a brilliant white and orange glow.
-2004_Juno_00.13.02.866-00.13.13.136 	juno looks up and meets eyes with her longtime lab partner: bleeker.
-1052_Harry_Potter_and_the_order_of_phoenix_01.58.59.744-01.59.06.027 	the two powerful forces meet like molten lava in a burst of flashing sparks and flame.
-1056_Rambo_00.55.46.000-00.55.49.000 	it rises to meet the ground of the camp and is bordered by bushes.
-1057_Seven_pounds_01.07.57.213-01.08.00.524 	ben meets her gaze blankly.
-1057_Seven_pounds_01.12.29.000-01.12.32.011 	ben meets her gaze.
-1057_Seven_pounds_01.41.51.795-01.42.00.663 	tim looks up when dr. briar enters the corridor and walks to meet her.
-1058_The_Damned_united_00.17.19.528-00.17.27.746 	don sweeps past to meet his entourage, leaving brian standing to one side at the entrance.
-1058_The_Damned_united_00.39.02.212-00.39.03.826 	his eyes meet dave mackay's.
-1058_The_Damned_united_00.55.29.100-00.55.40.674 	longson glares at brian, then turns on his heel, leaving a rueful brian to meet peter's concerned look.
-1058_The_Damned_united_00.56.58.000-00.57.03.601 	their eyes meet and hold a loaded look for a moment, before each drops his gaze.
-1059_The_devil_wears_prada_00.06.26.298-00.06.30.131 	emily's running to meet her.
-1059_The_devil_wears_prada_01.04.09.059-01.04.15.078 	later, andy is hurrying out of the benefit when she meets christian coming up the steps.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.36.36.000-00.36.42.145 	the students who met harry, including cho, ginny, and seamus, stand looking at the floor.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.48.13.185-01.48.20.862 	a burst of green energy from the elder wand is met by a burst of red from harry, resulting in a bright white ball of light.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.49.08.052-01.49.25.675 	red and green blasts meet again in a brilliant white and orange glow.
-2004_Juno_00.13.02.866-00.13.13.136 	juno looks up and meets eyes with her longtime lab partner: bleeker.
 2027_Les_Miserables_01.11.05.000-01.11.05.570 	as if drawn by marius's gaze, cosette looks up and meets his eyes.
-2027_Les_Miserables_01.49.05.920-01.49.07.138 	javert looks up and meets valjean's eyes.
-2027_Les_Miserables_02.06.53.769-02.06.56.984 	valjean meets his eyes.

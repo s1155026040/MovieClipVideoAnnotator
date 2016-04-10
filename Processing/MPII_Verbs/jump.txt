@@ -1,238 +1,99 @@
-0001_American_Beauty_00.14.03.671-00.14.04.816 	Perky cheerleaders jump up and down as the CROWD goes wild.
-0001_American_Beauty_00.14.03.671-00.14.04.816 	Perky cheerleaders jump up and down as the CROWD goes wild.
-0001_American_Beauty_01.27.30.123-01.27.32.353 	Carolyn almost jumps out of her skin.
-0001_American_Beauty_01.37.12.248-01.37.14.958 	Jane jumps up and opens the door and lets him in.
-0003_CASABLANCA_00.27.54.029-00.27.55.406 	Renault jumps to his feet as Strasser enters.
-0003_CASABLANCA_01.13.13.843-01.13.21.273 	Yvonne jumps up and sings with tears in her eyes.
-0003_CASABLANCA_01.40.33.500-01.40.35.222 	Four gendarmes hurriedly jump out.
-0004_Charade_00.36.27.280-00.36.28.621 	PETER, high above, jumps to the next balcony.
-0004_Charade_00.36.53.756-00.36.56.356 	From the GROUND as PETER jumps to the next balcony.
-0004_Charade_01.26.45.059-01.26.47.635 	SYLVIE jumps up and rushes next door into her booth, shutting the door after her.
-0005_Chinatown_01.20.03.603-01.20.07.011 	Gittes jumps in and she takes off across the lawn, tilting the elegant little neon sign on the lawn as she goes.
-0006_Clerks_00.04.44.005-00.04.44.878 	He jumps down.
-0006_Clerks_00.10.12.243-00.10.17.237 	VERONICA jumps off the freezer case, training the nozzle of the extinguisher on the ACTIVIST.
-0006_Clerks_00.25.32.698-00.25.39.028 	A black cat suddenly jumps into it and starts pawing around.
-0006_Clerks_00.43.59.963-00.44.04.256 	ON THE ROOF they jump off the ladder and skate around.
-0006_Clerks_01.24.26.128-01.24.29.086 	RANDAL jumps to his feet as DANTE comes at him again.
-0007_DIE_NACHT_DES_JAEGERS_01.28.36.607-01.28.36.867 	The car jumps fast out of SHOT and we PAN PAST BART and CENTER RACHEL and GROUP, walking fast away from us.
-0009_Forrest_Gump_00.20.08.743-00.20.09.818 	The teenage boy jumps into the back of the pickup truck with another boy as the truck speeds after Forrest.
-0009_Forrest_Gump_00.41.08.109-00.41.24.443 	Bubba and Forrest jump out of the helicopter with their gear/ They walk and look around oddly.
-0009_Forrest_Gump_00.48.34.976-00.48.40.450 	She hugs a hippie guy, then jumps into the back of a Volkswagen bus with another guy.
-0009_Forrest_Gump_01.07.16.646-01.07.24.005 	Forrest jumps down into the crowd and runs.
-0009_Forrest_Gump_01.37.56.788-01.38.06.018 	Lt. Dan pulls himself out of his chair to the railing and jumps into the water.
-0011_Gandhi_00.54.36.178-00.54.38.106 	Ahead of him other passengers are looking too; some have jumped down.
-0011_Gandhi_00.55.24.070-00.55.27.615 	The camera has been moving in; now it jumps to Jinnah in close shot and intercuts with the impact of his fervid delivery on the audience.
-0011_Gandhi_01.25.54.094-01.25.56.622 	Dyer jumps down lightly -- a man in splendid condition.
-0011_Gandhi_01.41.25.108-01.41.27.435 	As people start to jump off the train he moves forward.
-0011_Gandhi_02.08.35.205-02.08.37.719 	The crowd starts to jump up to see, and the flower petals begin to float in the sky.
-0013_Halloween_00.03.17.237-00.03.19.357 	She GIGGLES as the BOYFRIEND jumps into the room.
-0013_Halloween_00.10.01.767-00.10.06.775 	Loomis jumps out.
-0013_Halloween_00.55.11.861-00.55.16.136 	Tommy hides, preparing to jump out and scare Lindsey.
-0013_Halloween_00.55.47.745-00.55.51.991 	Tommy SCREAMS and jumps out from the curtain, scaring the hell out of Lindsey, who also SCREAMS and begins crying.
-0013_Halloween_00.57.23.022-00.57.23.968 	Loomis jumps and spins around.
-0013_Halloween_01.05.32.004-01.05.33.381 	Bob tries to jump away, but the shape has a firm hold on his neck.
-0013_Halloween_01.16.11.281-01.16.13.211 	Laurie jumps back to the door.
-0013_Halloween_01.20.23.248-01.20.23.599 	Laurie suddenly jumps backward, raising her arm instictively.
-0014_Ist_das_Leben_nicht_schoen_00.04.53.177-00.04.55.375 	George jumps into the water and grabs Harry.
-0014_Ist_das_Leben_nicht_schoen_00.06.20.235-00.06.22.835 	Violet jumps down off her stool and exits.
-0014_Ist_das_Leben_nicht_schoen_00.27.34.468-00.27.36.387 	As George finishes talking, he jumps up out of his chair.
-0014_Ist_das_Leben_nicht_schoen_00.57.47.114-00.57.49.003 	George jumps over the counter and takes the money from Mary.
-0014_Ist_das_Leben_nicht_schoen_01.58.47.301-01.58.49.262 	George jumps up.
-0014_Ist_das_Leben_nicht_schoen_02.01.18.525-02.01.19.319 	The same part of the bridge where George was standing before Clarence jumped in.
-0017_Pianist_00.56.23.482-00.56.27.958 	He jumps down, is about to dash towards Janina, but stops dead.
-0020_Raising_Arizona_01.16.02.622-01.16.03.006 	Siren jumps in loud at the cut.
-0023_THE_BUTTERFLY_EFFECT_00.43.42.517-00.43.46.897 	Thumper jumps off the bed and snatches the journal away.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.32.54.990-01.32.59.613 	Merry and Pippin jump up from behind another bush.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.03.51.105-00.04.31.051 	SMEAGOL jumps on DEAGOL.STRANGLING HIM!
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.11.30.929-00.11.42.061 	ARAGORN turns as, quick as a FLASH, PIPPIN has jumped off his horse and picked up -- the PALANTIR.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.38.09.023-02.38.17.355 	SAM jumps on a STUNNED SMEAGOL.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.43.25.903-02.43.27.070 	He jumps about in.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.51.44.266-02.52.12.384 	Laughter as MERRY and PIPPIN run in jumping on the bed and hugging FRODO.
-0026_The_Big_Fish_01.08.03.598-01.08.18.186 	One by one the men jump out, their chutes clipped to a main line.
-0026_The_Big_Fish_01.08.28.428-01.08.31.694 	Edward jumps from the plane.
-0029_The_Graduate_00.17.00.151-00.17.03.805 	Ben jumps up, gets the glass he had been drinking from and sits down again.
-0029_The_Graduate_01.09.02.269-01.09.05.874 	Then he grabs the keys out of the ignition, opens the door on his side and jumps out of the car, carrying the package.
-0029_The_Graduate_01.29.03.796-01.29.07.835 	Elaine jumps up, applauding a shot.
-0031_The_Lost_Weekend_00.52.35.804-00.52.37.098 	Don jumps up.
-0031_The_Lost_Weekend_00.54.00.229-00.54.04.629 	He jumps up, runs back to the bookcase, starts pulling out books, row by row.
-0032_The_Princess_Bride_00.27.08.932-00.27.12.164 	FEZZIK, as he jumps forward with stunning speed for anyone his size and reaches for the Man In Black who drops to his knees, spins loose, and slips between the Giant's legs.
-0032_The_Princess_Bride_00.27.14.970-00.27.28.022 	FEZZIK considers this a moment, then attacks, and if he moved quickly last time, this time he is blinding and as the Man In Black slips down to avoid the charge, FEZZIK moves right with him, only instead of twisting free and jumping to his feet, this time the Man In Black jumps for FEZZIK's back and in a moment he is riding him, and his arms have FEZZIK's throat, locked across FEZZIK's windpipe, one in front, one behind.
-0032_The_Princess_Bride_01.26.05.900-01.26.07.785 	COUNT RUGEN, stepping back for just a moment, watching as Inigo continues to inch his way to his feet and then, just before the Count is about to strike again, Inigo manages a little flick of his own and Rugen hadn't expected it, and he jumps back, makes a little involuntary cry of surprise and.
-0032_The_Princess_Bride_01.31.15.999-01.31.22.377 	What's happening, of course, is that she's jumping from the balcony so FEZZIK can catch her.
-0033_Amadeus_01.13.16.802-01.13.21.831 	The hall is full of dogs, at least five, all jumping up and dashing about and making a terrific racket.
-0038_Psycho_01.19.32.551-01.19.40.226 	The tiny figure jumps up and runs all the way from the back room down the aisle of hardware and comes into a BIG HEAD.
-0043_Thelma_and_Luise_01.36.25.747-01.36.28.971 	Thelma jumps awake.
-0046_Chasing_Amy_00.08.16.416-00.08.19.702 	The crowd screams and starts to scatter, Hooper jumps over the table and raises his fists in the air.
-0046_Chasing_Amy_00.25.20.442-00.25.21.475 	She jumps off the stage.
-0046_Chasing_Amy_01.33.04.273-01.33.10.392 	He jumps up and dashes out of the park.
-0049_Hannah_and_her_sisters_00.49.13.672-00.49.16.744 	Once again, Mickey is seen leaving the building, but this time he bounds down the steps, jumping for joy.
-0049_Hannah_and_her_sisters_01.38.59.166-01.39.01.247 	They jump down from the bench, still singing.
-0050_Indiana_Jones_and_the_last_crusade_00.03.18.011-00.03.19.816 	Halfbreed pushes Roscoe as he jumps with excitement.
-0050_Indiana_Jones_and_the_last_crusade_00.05.01.687-00.05.03.400 	Indy jumps from one rock to another; the SCOUT TROOP HORSES are below.
-0050_Indiana_Jones_and_the_last_crusade_00.13.34.750-00.13.38.663 	He jumps into the rollicking ocean, still holding onto the cross.
-0050_Indiana_Jones_and_the_last_crusade_00.30.37.410-00.30.39.534 	Indy jumps down a steep step.
-0050_Indiana_Jones_and_the_last_crusade_00.35.56.263-00.35.58.187 	They jump into the water beside the bobbing, overturned coffin.
-0050_Indiana_Jones_and_the_last_crusade_00.39.52.976-00.40.03.099 	Indy grabs Kazim just in time and jumps into the motorboat, driven by Elsa, which gets alongside in the nick of time.
-1001_Flight_01.27.12.011-01.27.21.902 	He jumps off a ladder and hustles over to Nicole, kissing her.
-1001_Flight_01.50.51.228-01.50.57.574 	Hugh jumps back, and Charlie raises his hands.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.37.00.368-01.37.02.480 	Harry jumps to his feet.
-1005_Signs_00.03.11.113-00.03.14.827 	He jumps to his feet and strains to listen.
-1005_Signs_00.08.11.863-00.08.12.546 	Bo jumps back in shock.
-1005_Signs_00.13.24.743-00.13.25.478 	Graham jumps to his feet.
-1005_Signs_00.34.45.500-00.34.52.167 	Agitated, Isabel shifts and jumps about, pulling at the chain, and barking into the quivering field of maize.
-1005_Signs_00.51.28.648-00.51.30.709 	They all jump back.
-1006_Slumdog_Millionaire_01.16.44.376-01.16.53.430 	He jumps out then watches Salim approach a beautiful woman in dark glasses standing on a balcony.
-1006_Slumdog_Millionaire_01.24.39.198-01.24.40.986 	He jumps off.
-1006_Slumdog_Millionaire_01.51.24.430-01.51.26.599 	He jumps down to cross the train tracks.
-1007_Spider-Man1_00.36.48.539-00.36.57.244 	From the balcony, he watches as Bone Saw McGraw, the master of disaster,slams an opponent on the floor then jumps on him leading with an arm to his throat.
-1007_Spider-Man1_00.40.35.205-00.40.36.549 	Bone Saw jumps up.
+0001_American_Beauty_00.14.03.671-00.14.04.816 	perky cheerleaders jump up and down as the crowd goes wild.
+0001_American_Beauty_01.27.30.123-01.27.32.353 	carolyn almost jumps out of her skin.
+0003_CASABLANCA_01.40.33.500-01.40.35.222 	four gendarmes hurriedly jump out.
+0004_Charade_00.36.14.187-00.36.15.806 	shooting straight down; there is no one on the street and it is too far to jump.
+0004_Charade_00.36.23.388-00.36.25.019 	as he straightens up and prepares to jump.
+0006_Clerks_00.04.44.005-00.04.44.878 	he jumps down.
+0006_Clerks_00.25.32.698-00.25.39.028 	a black cat suddenly jumps into it and starts pawing around.
+0006_Clerks_00.43.59.963-00.44.04.256 	on the roof they jump off the ladder and skate around.
+0011_Gandhi_00.54.36.178-00.54.38.106 	ahead of him other passengers are looking too; some have jumped down.
+0011_Gandhi_00.55.24.070-00.55.27.615 	the camera has been moving in; now it jumps to jinnah in close shot and intercuts with the impact of his fervid delivery on the audience.
+0011_Gandhi_01.41.25.108-01.41.27.435 	as people start to jump off the train he moves forward.
+0011_Gandhi_02.08.35.205-02.08.37.719 	the crowd starts to jump up to see, and the flower petals begin to float in the sky.
+0013_Halloween_00.55.11.861-00.55.16.136 	tommy hides, preparing to jump out and scare lindsey.
+0013_Halloween_01.05.32.004-01.05.33.381 	bob tries to jump away, but the shape has a firm hold on his neck.
+0013_Halloween_01.20.23.248-01.20.23.599 	laurie suddenly jumps backward, raising her arm instictively.
+0014_Ist_das_Leben_nicht_schoen_00.27.34.468-00.27.36.387 	as george finishes talking, he jumps up out of his chair.
+0014_Ist_das_Leben_nicht_schoen_01.38.55.826-01.39.06.132 	he leans over looking at the water, fascinated, glances furtively around him, hunches himself as though about to jump.
+0014_Ist_das_Leben_nicht_schoen_02.01.18.525-02.01.19.319 	the same part of the bridge where george was standing before clarence jumped in.
+0017_Pianist_00.56.23.482-00.56.27.958 	he jumps down, is about to dash towards janina, but stops dead.
+0017_Pianist_01.26.00.354-01.26.03.004 	szpilman steels himself, ready to jump.
+0019_Pulp_Fiction_01.00.42.671-01.00.49.996 	vincent, lance and jody, who were in sitting positions in front of mia, jump back, scared to death.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.11.30.929-00.11.42.061 	aragorn turns as, quick as a flash, pippin has jumped off his horse and picked up -- the palantir.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.43.25.903-02.43.27.070 	he jumps about in.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.51.44.266-02.52.12.384 	laughter as merry and pippin run in jumping on the bed and hugging frodo.
+0026_The_Big_Fish_01.08.03.598-01.08.18.186 	one by one the men jump out, their chutes clipped to a main line.
+0031_The_Lost_Weekend_00.54.00.229-00.54.04.629 	he jumps up, runs back to the bookcase, starts pulling out books, row by row.
+0032_The_Princess_Bride_00.27.08.932-00.27.12.164 	fezzik, as he jumps forward with stunning speed for anyone his size and reaches for the man in black who drops to his knees, spins loose, and slips between the giant's legs.
+0032_The_Princess_Bride_00.27.14.970-00.27.28.022 	fezzik considers this a moment, then attacks, and if he moved quickly last time, this time he is blinding and as the man in black slips down to avoid the charge, fezzik moves right with him, only instead of twisting free and jumping to his feet, this time the man in black jumps for fezzik's back and in a moment he is riding him, and his arms have fezzik's throat, locked across fezzik's windpipe, one in front, one behind.
+0032_The_Princess_Bride_01.26.05.900-01.26.07.785 	count rugen, stepping back for just a moment, watching as inigo continues to inch his way to his feet and then, just before the count is about to strike again, inigo manages a little flick of his own and rugen hadn't expected it, and he jumps back, makes a little involuntary cry of surprise and.
+0032_The_Princess_Bride_01.31.15.999-01.31.22.377 	what's happening, of course, is that she's jumping from the balcony so fezzik can catch her.
+0033_Amadeus_01.13.16.802-01.13.21.831 	the hall is full of dogs, at least five, all jumping up and dashing about and making a terrific racket.
+0046_Chasing_Amy_00.25.20.442-00.25.21.475 	she jumps off the stage.
+0046_Chasing_Amy_01.33.04.273-01.33.10.392 	he jumps up and dashes out of the park.
+0049_Hannah_and_her_sisters_00.49.13.672-00.49.16.744 	once again, mickey is seen leaving the building, but this time he bounds down the steps, jumping for joy.
+0049_Hannah_and_her_sisters_01.38.59.166-01.39.01.247 	they jump down from the bench, still singing.
+0050_Indiana_Jones_and_the_last_crusade_00.03.18.011-00.03.19.816 	halfbreed pushes roscoe as he jumps with excitement.
+0050_Indiana_Jones_and_the_last_crusade_00.05.12.340-00.05.14.520 	indy prepares to jump into the saddle.
+0050_Indiana_Jones_and_the_last_crusade_00.05.13.620-00.05.14.743 	he jumps.
+0050_Indiana_Jones_and_the_last_crusade_00.13.34.750-00.13.38.663 	he jumps into the rollicking ocean, still holding onto the cross.
+0050_Indiana_Jones_and_the_last_crusade_00.35.56.263-00.35.58.187 	they jump into the water beside the bobbing, overturned coffin.
+1001_Flight_01.27.12.011-01.27.21.902 	he jumps off a ladder and hustles over to nicole, kissing her.
+1005_Signs_00.03.11.113-00.03.14.827 	he jumps to his feet and strains to listen.
+1005_Signs_00.51.28.648-00.51.30.709 	they all jump back.
+1006_Slumdog_Millionaire_01.16.44.376-01.16.53.430 	he jumps out then watches salim approach a beautiful woman in dark glasses standing on a balcony.
+1006_Slumdog_Millionaire_01.24.39.198-01.24.40.986 	he jumps off.
+1006_Slumdog_Millionaire_01.51.24.430-01.51.26.599 	he jumps down to cross the train tracks.
+1007_Spider-Man1_00.27.36.023-00.27.42.697 	then studies himself, ready to jump.
 1007_Spider-Man1_00.36.48.539-00.36.57.244 	from the balcony, he watches as bone saw mcgraw, the master of disaster,slams an opponent on the floor then jumps on him leading with an arm to his throat.
-1007_Spider-Man1_00.40.35.205-00.40.36.549 	bone saw jumps up.
-1007_Spider-Man1_00.45.10.162-00.45.17.443 	he spots a flag pole on a building opposite and jumps sailing through the air, grabbing the pole with both hands, then like a gymnast swings round and round until he builds the momentum to catapult him through the air on to the adjoining rooftop.
 1007_Spider-Man1_01.01.09.378-01.01.12.067 	spider-man kicks a gun from a robber's hand then jumps on him.
-1008_Spider-Man2_01.43.05.668-01.43.10.451 	spider-man somersaults back, jumps to avoid the mechanical limbs and limbos under a bridge.
-1008_Spider-Man2_01.46.33.629-01.46.40.470 	spider-man jumps back onto the train, clutching his right knee as the train continues its relentless surge through the city.
-1008_Spider-Man2_01.54.20.472-01.54.24.689 	spider-man jumps over octavius and his limbs.
-1009_Spider-Man3_00.17.20.808-00.17.23.475 	peter jumps free of the hoverboard and shoots a web thread to the top of a skyscraper.
+1007_Spider-Man1_01.24.29.103-01.24.40.530 	as he jumps, ducks and weaves, so the goblin attacks with his gloved fists.
 1009_Spider-Man3_00.20.28.798-00.20.33.926 	he jumps off a pipe and swings back the way he came, just missing harry.
-1009_Spider-Man3_01.00.35.078-01.00.38.662 	the accomplice jumps into uncle ben's car.
-1009_Spider-Man3_01.07.29.877-01.07.39.579 	eddie brock jumps out of a camp, camera at the ready as black spider-man tears the heavy grill from the ground.
 1009_Spider-Man3_01.07.50.531-01.07.52.393 	he jumps down the manhole.
-1010_TITANIC_01.43.17.511-01.43.20.915 	in his cabin, fabrizio jumps down from his bunk into inch- deep water and turns on the overhead light.
 1010_TITANIC_02.12.38.127-02.12.40.163 	he waves his revolver at men on the decks as they try to jump into the boat.
 1010_TITANIC_02.20.21.565-02.20.27.275 	jack and rose run down another staircase, then jump into waist-high water.
-1012_Unbreakable_00.12.41.246-00.12.46.170 	his son sees him, jumps up from the bench, and runs to him.
 1014_2012_00.13.42.501-00.13.44.948 	kids jump over it.
-1014_2012_00.42.38.293-00.42.40.766 	and jumps out.
-1014_2012_01.28.15.550-01.28.19.417 	a female paramedic jumps to her feet to salute him.
-1015_27_Dresses_01.10.07.177-01.10.11.844 	kevin jumps down, leaving jane dancing wildly to the delight of the crowd.
-1015_27_Dresses_01.36.00.429-01.36.13.883 	she hurriedly jumps into the cab, then notices it's the same driver as the night of the two weddings.
 1017_Bad_Santa_00.05.52.356-00.05.56.642 	the smallest snowman suddenly jumps up, but after a quick look to see the coast is clear, runs off, knocking mary and jesus over in the process.
 1017_Bad_Santa_01.26.06.970-01.26.11.637 	after jumping up and down a bit, he catches his breath and spots another mannequin holding a golf club.
 1017_Bad_Santa_01.30.38.265-01.30.50.433 	later, he jumps out of the store's backdoor, and, still clutching the toy elephant, leaps into the bmw.
 1017_Bad_Santa_01.35.03.499-01.35.09.902 	he jumps on his bike and rides off, displaying the tee shirt willie sent him.
 1018_Body_Of_Lies_00.55.47.583-00.55.48.634 	two men jump out and skip bangs on the door.
-1019_Confessions_Of_A_Shopaholic_00.31.42.825-00.31.44.865 	rebecca jumps on her.
-1019_Confessions_Of_A_Shopaholic_01.29.54.033-01.30.00.068 	with crazed eyes, haley jumps out of a cab, and dashes to join a queue of women standing outside the church building where the sale is taking place.
-1023_Horrible_Bosses_01.03.25.675-01.03.29.716 	nick watches from his car as bobby jumps around by the window in silk pajamas, flailing a pair of nunchucks.
 1024_Identity_Thief_00.10.56.143-00.10.57.407 	she jumps back with surprise.
 1024_Identity_Thief_00.11.03.253-00.11.06.920 	holding her hand over her mouth, she jumps with joy and gives sandy a hug.
-1026_Legion_00.03.21.768-00.03.23.338 	the man in the black coat jumps through the skylight onto him.
-1026_Legion_01.08.19.750-01.08.22.999 	kyle swings over the wall and jumps down from the front of the diner.
-1028_No_Reservations_00.51.12.696-00.51.16.805 	kate jumps out of the taxi and hurries towards the school.
-1028_No_Reservations_00.55.59.850-00.56.03.557 	zoe jumps down and walks ahead.
-1029_Pride_And_Prejudice_Disk_One_01.19.01.339-01.19.06.059 	they watch as kitty jumps from the swing into the arms of an officer.
 1029_Pride_And_Prejudice_Disk_One_01.38.37.146-01.38.40.242 	he jumps up from his seat,
-1030_Public_Enemies_01.16.55.781-01.16.59.448 	as baby face raises his gun to fire again, a guy jumps on his back.
-1031_Quantum_of_Solace_00.12.29.529-00.12.36.081 	he lands, slides down the tiles, then jumps again, landing heavily on a ledge.
 1031_Quantum_of_Solace_00.12.38.788-00.12.49.704 	he jumps down onto a balcony, leaps onto another, and holds himself up on the metal railings.
 1031_Quantum_of_Solace_00.12.54.685-00.13.00.610 	he jumps from a window onto the roof of a bus.
-1031_Quantum_of_Solace_00.13.02.335-00.13.07.463 	he gets to his feet and jumps from the vehicle onto another ledge, then shins off a drainpipe.
 1031_Quantum_of_Solace_00.21.59.670-00.22.02.795 	then, as the moped gets closer, he jumps out of the car.
-1031_Quantum_of_Solace_00.29.22.268-00.29.26.346 	bond jumps the bike off the quay into a boat.
-1031_Quantum_of_Solace_00.29.26.346-00.29.31.559 	rides over some crates, jumps onto another boat then abandons the machine.
-1031_Quantum_of_Solace_00.30.04.406-00.30.05.450 	dominic watches in disbelief as the crew on the cruise grab weapons and jump into an inflatable.
-1031_Quantum_of_Solace_01.23.40.869-01.23.44.248 	another opens up, sprints off and jumps from one building to another.
 1033_Sherlock_Holmes_A_Game_of_Shadows_00.17.52.682-00.17.55.548 	the dog jumps up and runs off.
 1035_The_Adjustment_Bureau_00.17.05.736-00.17.08.761 	he jumps to his feet, spotting david, who boards a bus.
-1035_The_Adjustment_Bureau_00.56.09.922-00.56.16.009 	elise jumps up and down, pumping her hands round his head.
 1038_The_Great_Gatsby_00.15.31.172-00.15.39.252 	they jump from the train and run off.
 1038_The_Great_Gatsby_00.28.38.396-00.28.40.788 	people jump into the round pool for a dip.
 1039_The_Queen_00.41.28.055-00.41.31.450 	and the three black labradors jump out.
 1039_The_Queen_01.15.29.421-01.15.33.088 	three bodyguards quickly jump into a nearby car and follow her.
 1040_The_Ugly_Truth_00.47.45.288-00.47.49.169 	she jumps up and down, grinning.
-1041_This_is_40_00.43.45.104-00.43.49.249 	now, in bathing suits, the couple jumps into a pool.
 1041_This_is_40_00.46.52.172-00.46.53.019 	now jumping on the bed.
-1041_This_is_40_01.25.21.163-01.25.25.548 	charlotte jumps off the bed and scurries away, leaving a wide gap between her parents.
-1042_Up_In_The_Air_00.56.20.740-00.56.27.640 	everyone points in the air and jumps around.
-1043_Vantage_Point_00.25.54.497-00.26.00.820 	enrique jumps up onto the podium and runs across it, only to be tackled by barnes.
 1044_Pride_And_Prejudice_Disk_Two_00.06.24.274-00.06.27.696 	he jumps down and peers over a wall.
 1046_Australia_01.20.55.475-01.21.01.460 	fletcher stares in angry disbelief as the drover jumps his horse into the holding yard.
 1046_Australia_01.22.00.436-01.22.08.548 	he jumps the fence around the yard, knocking out the top slat, and rides into the street outside the territory hotel.
-1046_Australia_01.42.37.495-01.42.39.892 	nullah jumps in
 1046_Australia_02.26.37.564-02.26.43.136 	he jumps up and down excitedly and runs off the boat onto the jetty.
-1047_Defiance_00.16.53.322-00.16.53.796 	berniscki jumps up
 1047_Defiance_00.29.41.120-00.29.44.280 	soldiers jump off the back and run after asael who's haring across a field.
-1047_Defiance_01.05.51.227-01.05.52.209 	zus nearly jumps up out of his skin.
+1048_Gran_Torino_00.08.56.600-00.09.08.136 	as mourners leave, walt uses jump leads to get a woman's car started.
 1049_Harry_Potter_and_the_chamber_of_secrets_00.03.05.363-00.03.10.080 	he finds a small wizened creature with floppy ears and a long pointed nose jumping on his bed.
-1049_Harry_Potter_and_the_chamber_of_secrets_01.00.30.635-01.00.32.286 	dobby jumps down.
-1049_Harry_Potter_and_the_chamber_of_secrets_01.02.14.500-01.02.18.275 	harry jumps back into bed as shadows appear in the doorway.
-1049_Harry_Potter_and_the_chamber_of_secrets_01.32.46.985-01.32.53.423 	a spider, bigger than a man's hand, jumps out of the box and scuttles past harry and off down the corridor.
-1049_Harry_Potter_and_the_chamber_of_secrets_01.48.13.765-01.48.17.507 	fang jumps into the back seat, ron into the front.
 1049_Harry_Potter_and_the_chamber_of_secrets_01.49.54.304-01.49.57.965 	spiders lurk in the trees ready to jump on the car.
-1049_Harry_Potter_and_the_chamber_of_secrets_02.04.12.900-02.04.19.018 	he climbs down the few rungs of a short metal ladder and jumps off at the bottom.
-1051_Harry_Potter_and_the_goblet_of_fire_00.59.28.820-00.59.35.634 	harry leaves the rock, leaps away from the dragon, and jumps onto his firebolt as it swoops down into the arena.
-1052_Harry_Potter_and_the_order_of_phoenix_00.25.26.444-00.25.28.664 	harry jumps to his feet.
-1053_Harry_Potter_and_the_philosophers_stone_00.11.36.206-00.11.37.983 	terrified, dudley jumps onto his mother's lap.
+1051_Harry_Potter_and_the_goblet_of_fire_01.19.23.428-01.19.30.733 	the hall is jumping.
 1053_Harry_Potter_and_the_philosophers_stone_01.13.43.213-01.13.46.914 	he jumps as the troll gives a snot.
-1053_Harry_Potter_and_the_philosophers_stone_01.47.18.981-01.47.21.672 	suddenly, something jumps over his head in a flurry of hooves.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.15.27.569-00.15.29.760 	harry jumps up onto the bed.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.16.08.818-00.16.09.881 	harry jumps onto the book with both feet.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.44.13.015-00.44.16.333 	lupin jumps in front of him.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_01.29.03.684-01.29.10.015 	hermione jumps over a swinging branch, but the next one lifts her off the ground.
-1055_Marley_and_me_00.16.17.279-00.16.21.500 	as rain lashes the house, marley jumps up at a window.
 1055_Marley_and_me_00.24.21.405-00.24.27.051 	marley wags his tail, then jumps up at john.
-1055_Marley_and_me_00.43.14.724-00.43.16.701 	marley jumps up at him, but he pushes the dog aside.
-1055_Marley_and_me_00.51.10.288-00.51.16.339 	marley jumps on the bed and watches as jenny hurriedly packs some clothes.
-1055_Marley_and_me_00.52.59.294-00.53.02.874 	marley jumps up at the table with the baby on it.
 1055_Marley_and_me_00.53.42.916-00.53.52.411 	she jumps to save marley from the attentions of toddler patrick.
-1056_Rambo_00.51.43.964-00.51.46.917 	reese jumps off the truck, rolls and hides.
-1056_Rambo_00.51.47.442-00.51.53.000 	en-joo jumps off, rounds the corner of a hut with his weapon raised and takes cover.
-1056_Rambo_00.51.55.430-00.51.58.489 	rambo clamps lewis on the shoulder and the hooded man jumps off, taking cover between the two huts.
-1056_Rambo_00.52.08.150-00.52.18.045 	as the truck passes over a low wooden bridge above a stream, rambo jumps off and rolls in the mud and takes position at the side of a hut.
 1056_Rambo_00.54.33.142-00.54.34.763 	the soldiers jump and wave their arms ecstatically.
-1056_Rambo_01.14.51.143-01.14.55.219 	bn jumps over a tree trunk, rolls and fires on troops.
 1057_Seven_pounds_01.03.46.724-01.03.50.099 	they all jump up and down on the bed.
-1057_Seven_pounds_01.39.20.011-01.39.27.340 	the pulse in emily's neck jumps rhythmically.
 1057_Seven_pounds_01.40.46.427-01.40.50.037 	he jumps over it.
-1060_Yes_man_00.14.41.087-00.14.43.315 	carl jumps out of his skin.
 1060_Yes_man_00.39.25.669-00.39.27.821 	norman hides behind a wall then jumps out.
-1060_Yes_man_00.40.21.060-00.40.26.449 	carl jumps on his new bed.
 1060_Yes_man_01.10.51.611-01.10.54.463 	a mascot jumps up and down.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.47.14.125-01.47.21.672 	high on the ramparts, harry flings his arms around voldemort's neck, and clinging onto him, jumps off the edge.
+1060_Yes_man_01.11.20.001-01.11.25.434 	jumping up and down amongst the crowd, carl's wearing giant yellow corncobs on his head and arms.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.53.15.731-01.53.20.921 	once again he nods to himself, then turns to the others, before jumping down onto the bridge.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.55.00.588-01.55.01.827 	the trolley stops, and the girl jumps off.
-2004_Juno_00.47.25.364-00.47.29.150 	juno jumps up and rushes out.
 2017_Bad_Santa_01.26.02.605-01.26.08.206 	marcus is in evening wear, jumping to try to pull a stole off a mannequin.
-2017_Bad_Santa_01.31.43.926-01.31.49.279 	cops leap out of their cars just as willie jumps from his.
-2026_Legion_01.07.01.598-01.07.04.004 	a well dressed man in his mid-thirties jumps out of the car.
-1053_Harry_Potter_and_the_philosophers_stone_00.11.36.206-00.11.37.983 	terrified, dudley jumps onto his mother's lap.
-1053_Harry_Potter_and_the_philosophers_stone_01.13.43.213-01.13.46.914 	he jumps as the troll gives a snot.
-1053_Harry_Potter_and_the_philosophers_stone_01.47.18.981-01.47.21.672 	suddenly, something jumps over his head in a flurry of hooves.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.15.27.569-00.15.29.760 	harry jumps up onto the bed.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.16.08.818-00.16.09.881 	harry jumps onto the book with both feet.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.44.13.015-00.44.16.333 	lupin jumps in front of him.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_01.29.03.684-01.29.10.015 	hermione jumps over a swinging branch, but the next one lifts her off the ground.
-1055_Marley_and_me_00.16.17.279-00.16.21.500 	as rain lashes the house, marley jumps up at a window.
-1055_Marley_and_me_00.24.21.405-00.24.27.051 	marley wags his tail, then jumps up at john.
-1055_Marley_and_me_00.43.14.724-00.43.16.701 	marley jumps up at him, but he pushes the dog aside.
-1055_Marley_and_me_00.51.10.288-00.51.16.339 	marley jumps on the bed and watches as jenny hurriedly packs some clothes.
-1055_Marley_and_me_00.52.59.294-00.53.02.874 	marley jumps up at the table with the baby on it.
-1055_Marley_and_me_00.53.42.916-00.53.52.411 	she jumps to save marley from the attentions of toddler patrick.
-1056_Rambo_00.51.43.964-00.51.46.917 	reese jumps off the truck, rolls and hides.
-1056_Rambo_00.51.47.442-00.51.53.000 	en-joo jumps off, rounds the corner of a hut with his weapon raised and takes cover.
-1056_Rambo_00.51.55.430-00.51.58.489 	rambo clamps lewis on the shoulder and the hooded man jumps off, taking cover between the two huts.
-1056_Rambo_00.52.08.150-00.52.18.045 	as the truck passes over a low wooden bridge above a stream, rambo jumps off and rolls in the mud and takes position at the side of a hut.
-1056_Rambo_00.54.33.142-00.54.34.763 	the soldiers jump and wave their arms ecstatically.
-1056_Rambo_01.14.51.143-01.14.55.219 	bn jumps over a tree trunk, rolls and fires on troops.
-1057_Seven_pounds_01.03.46.724-01.03.50.099 	they all jump up and down on the bed.
-1057_Seven_pounds_01.39.20.011-01.39.27.340 	the pulse in emily's neck jumps rhythmically.
-1057_Seven_pounds_01.40.46.427-01.40.50.037 	he jumps over it.
-1060_Yes_man_00.14.41.087-00.14.43.315 	carl jumps out of his skin.
-1060_Yes_man_00.39.25.669-00.39.27.821 	norman hides behind a wall then jumps out.
-1060_Yes_man_00.40.21.060-00.40.26.449 	carl jumps on his new bed.
-1060_Yes_man_01.10.51.611-01.10.54.463 	a mascot jumps up and down.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.47.14.125-01.47.21.672 	high on the ramparts, harry flings his arms around voldemort's neck, and clinging onto him, jumps off the edge.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.53.15.731-01.53.20.921 	once again he nods to himself, then turns to the others, before jumping down onto the bridge.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.55.00.588-01.55.01.827 	the trolley stops, and the girl jumps off.
-2004_Juno_00.47.25.364-00.47.29.150 	juno jumps up and rushes out.
-2017_Bad_Santa_01.26.02.605-01.26.08.206 	marcus is in evening wear, jumping to try to pull a stole off a mannequin.
-2017_Bad_Santa_01.31.43.926-01.31.49.279 	cops leap out of their cars just as willie jumps from his.
-2026_Legion_01.07.01.598-01.07.04.004 	a well dressed man in his mid-thirties jumps out of the car.
-2027_Les_Miserables_01.08.44.806-01.08.46.488 	gavroche jumps off as the carriage stops and joins the crowd.
-2041_This_is_40_00.28.20.201-00.28.22.228 	charlotte jumps around in front of sadie's door.
-2041_This_is_40_00.34.30.934-00.34.34.095 	two other identical children enter and jump on larry.
-2041_This_is_40_00.46.51.657-00.46.55.091 	stoned, pete and debbie jump up and down on the bed.
-2041_This_is_40_01.39.29.673-01.39.33.177 	desi jumps in the pool in a small bikini.
+2034_Super_8_01.29.21.434-01.29.25.054 	the thing falls far enough to tell them it's too far to jump.
 2051_Harry_Potter_and_the_goblet_of_fire_00.30.14.873-00.30.19.296 	they jump inside the age line, and cheer.
 2051_Harry_Potter_and_the_goblet_of_fire_00.59.34.093-00.59.42.457 	he jumps on and flies off, the dragon gives chase.
+2051_Harry_Potter_and_the_goblet_of_fire_01.19.33.605-01.19.50.368 	the crowd is jumping.

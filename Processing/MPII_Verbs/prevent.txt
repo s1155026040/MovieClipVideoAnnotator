@@ -1,4 +1,9 @@
-0006_Clerks_00.04.11.507-00.04.14.801 	The lock is gummed up with gum or something hard and obtrusive like gum, preventing the key from being inserted.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.38.39.270-00.38.46.182 	He is almost talking to himself now, like a man unable to prevent a sure disaster.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.18.23.685-01.18.27.339 	It closes, preventing Remus giving chase.
-1005_Signs_00.33.42.130-00.33.44.797 	And Graham sits on the bonnet to prevent her from getting any further.
+0006_Clerks_00.04.11.507-00.04.14.801 	the lock is gummed up with gum or something hard and obtrusive like gum, preventing the key from being inserted.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.38.39.270-00.38.46.182 	he is almost talking to himself now, like a man unable to prevent a sure disaster.
+1002_Harry_Potter_and_the_Half-Blood_Prince_01.18.23.685-01.18.27.339 	it closes, preventing remus giving chase.
+1005_Signs_00.33.42.130-00.33.44.797 	and graham sits on the bonnet to prevent her from getting any further.
+1008_Spider-Man2_01.48.20.556-01.48.22.439 	hands reach out to prevent him from falling.
+1014_2012_02.08.09.258-02.08.13.338 	the coms officer spots a hydraulic malfunction preventing the gate from closing.
+1028_No_Reservations_00.25.34.024-00.25.36.417 	a chair has been propped up against the bedroom door to prevent anyone from entering.
+1035_The_Adjustment_Bureau_00.42.44.049-00.42.46.068 	his interjection prevents the kiss.
+1046_Australia_01.51.36.067-01.51.44.287 	in the paddock, drover works the wild horse, hauling on the rope to prevent it from bucking.

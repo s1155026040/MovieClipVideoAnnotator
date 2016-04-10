@@ -1,0 +1,9 @@
+COLOMBIANA.srt 	COLOMBIANA_DVS80 	00:05:41,00 --> 00:05:50,50 	someone turns over a framed family photo, removes a computer chip from under a piece of tape, then opens a drawer and rifles through it.
+COLOMBIANA.srt 	COLOMBIANA_DVS831 	01:20:03,00 --> 01:20:10,50 	in the bathroom, someone takes a huge assault rifle down from the crawl space.
+GREEN_ZONE.srt 	GREEN_ZONE_DVS271 	01:03:16,00 --> 01:03:21,50 	she paces and rifles through some papers.
+GREEN_ZONE.srt 	GREEN_ZONE_DVS371 	01:26:49,00 --> 01:27:02,50 	the high ranking iraqi lets go and nods to his gunman who rifle butts someone in the face.
+KARATE_KID.srt 	KARATE_KID_DVS1214 	01:39:22,00 --> 01:39:27,50 	someone clenches his jaw, staring off, as the boy rifles through the photos.
+NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS159 	00:36:23,00 --> 00:36:33,50 	she rifles through floral sundresses hanging inside.
+PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS91 	00:14:57,00 --> 00:15:13,50 	down the road, lawmen aim rifles over the car's hood.
+THE_VOW.srt 	THE_VOW_DVS682 	01:35:17,00 --> 01:35:27,50 	rifling through an unpacked box, someone finds the someone mnemonic menu with her vows written on it.
+ZOOKEEPER.srt 	ZOOKEEPER_DVS42 	00:07:03,00 --> 00:07:07,50 	he opens a drawer and rifles through it.

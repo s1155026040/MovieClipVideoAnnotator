@@ -1,40 +1,75 @@
-0002_As_Good_As_It_Gets_00.45.16.266-00.45.22.761 	Melvin ignores the question, instead answering a charge he had imagined she might make.
-0002_As_Good_As_It_Gets_01.06.11.789-01.06.21.681 	Well, he'll never get credit for the brief but intense inner struggle -- the struggle not to scream -- Not to cry -- to process the sudden and stunning hurt during his half turn away from her -- and then answer hoarsely.
-0004_Charade_01.14.33.691-01.14.36.495 	The PHONE rings and she answers it.
-0005_Chinatown_00.25.37.235-00.25.39.836 	A powerful CHINESE BUTLER with heavy hair and a half-jacket of gold on one front tooth, answers the door.
-0005_Chinatown_00.33.59.454-00.34.01.197 	Evelyn looks at Escobar but doesn't know how to answer him.
-0011_Gandhi_00.23.12.643-00.23.13.581 	Gandhi is disconcerted by her attitude, but he tries to answer Walker.
-0011_Gandhi_00.42.23.520-00.42.27.800 	Gandhi is smiling, trying to move on, but answering the questions of an Indian journalist.
-0011_Gandhi_02.11.23.728-02.11.26.878 	Finally, Irwin turns to the senior police officer, who fidgets, but answers the implied questions.
-0013_Halloween_00.40.49.601-00.40.53.076 	Laurie goes to answer it.
-0013_Halloween_00.51.16.793-00.51.17.650 	Tommy runs to answer it.
-0013_Halloween_01.01.25.686-01.01.30.406 	Laurie gets up to answer it.
-0013_Halloween_01.07.46.734-01.07.47.955 	Laurie crosses to answer the phone.
-0013_Halloween_01.07.52.995-01.07.54.385 	Laurie answers the telephone.
-0014_Ist_das_Leben_nicht_schoen_00.09.10.494-00.09.14.463 	During the foregoing, Cousin Tilly has answered the telephone, and now she calls out.
-0017_Pianist_00.07.38.576-00.07.42.174 	Szpilman is on the public telephone, waiting for someone to answer his call.
-0021_Rear_Window_00.25.13.398-00.25.16.498 	He starts to answer her back, but decides better of it, and instead, leaves the room.
-0021_Rear_Window_00.26.05.239-00.26.10.566 	She is laughing, and he is answering her in angry tones.
-0021_Rear_Window_01.04.22.314-01.04.26.696 	The phone buzzes on filter, then is picked up and answered by a woman.
-0021_Rear_Window_01.14.34.877-01.14.36.377 	His head moves back to Lisa as she answers with a touch of pride in her voice.
-0021_Rear_Window_01.26.53.888-01.26.55.130 	Her face sobers as she answers their unasked question.
-0021_Rear_Window_01.33.22.780-01.33.23.755 	He approaches the phone hesitantly, undecided whether or not to answer it.
-0021_Rear_Window_01.42.14.385-01.42.17.906 	As Thorwald's attention is drawn back to the second policeman to answer further questions, the first policeman takes Lisa by the arm and leads her out of the apartment.
-0022_Reservoir_Dogs_01.14.23.528-01.14.25.206 	Freddy answers it, we FOLLOW the receiver up to his face.
-0023_THE_BUTTERFLY_EFFECT_01.01.10.403-01.01.17.062 	The PHONE RINGS and he automatically answers it.
-0027_The_Big_Lebowski_00.20.23.236-00.20.25.621 	At the table next to the answering machine the Dude is mixing kalhua, rum and milk.
-0041_The_Sixth_Sense_00.35.31.092-00.35.34.783 	He's just about to answer his own question when he sees a hand go up.
-0046_Chasing_Amy_00.16.46.371-00.16.48.215 	Holden answers it, while still drawing.
-0049_Hannah_and_her_sisters_00.14.28.145-00.14.31.281 	While Mickey answers him offscreen, Dr. Abel turns and walks toward him.
-0049_Hannah_and_her_sisters_00.16.47.933-00.16.57.468 	The movie cuts back and forth between Mickey in his phone booth asking questions and Dr. Wilkes in his office answering them.
-0049_Hannah_and_her_sisters_01.36.53.563-01.36.56.222 	Mickey runs offscreen briefly to answer the door.
-0051_Men_in_black_00.30.44.892-00.30.46.284 	One of the Worm Aliens answers him in their native tongue and points to the counter.
-0051_Men_in_black_01.06.40.838-01.06.43.930 	A voice answers him, but not the Vendor's.
-1005_Signs_00.51.44.287-00.51.45.588 	And answers the phone on the landing.
-1059_The_devil_wears_prada_00.49.45.000-00.49.48.149 	miranda answers her mobile.
+0002_As_Good_As_It_Gets_00.45.16.266-00.45.22.761 	melvin ignores the question, instead answering a charge he had imagined she might make.
+0002_As_Good_As_It_Gets_00.58.44.739-00.58.52.117 	he grunts with pain, hope and anxiety as he answers.
+0002_As_Good_As_It_Gets_01.06.11.789-01.06.21.681 	well, he'll never get credit for the brief but intense inner struggle -- the struggle not to scream -- not to cry -- to process the sudden and stunning hurt during his half turn away from her -- and then answer hoarsely.
+0004_Charade_01.14.33.691-01.14.36.495 	the phone rings and she answers it.
+0005_Chinatown_00.25.37.235-00.25.39.836 	a powerful chinese butler with heavy hair and a half-jacket of gold on one front tooth, answers the door.
+0005_Chinatown_00.33.59.454-00.34.01.197 	evelyn looks at escobar but doesn't know how to answer him.
+0005_Chinatown_00.39.11.691-00.39.12.603 	the boy doesn't answer.
+0010_Frau_Ohne_Gewissen_00.02.31.575-00.02.33.938 	neff walks in past him without answering.
+0010_Frau_Ohne_Gewissen_00.30.28.514-00.30.29.460 	neff still does not answer.
+0010_Frau_Ohne_Gewissen_01.43.33.236-01.43.34.868 	keyes moves towards him a few steps and stands without answering.
+0010_Frau_Ohne_Gewissen_01.43.35.027-01.43.37.738 	keyes, staring at him, still does not answer.
+0011_Gandhi_00.23.12.643-00.23.13.581 	gandhi is disconcerted by her attitude, but he tries to answer walker.
+0011_Gandhi_00.42.23.520-00.42.27.800 	gandhi is smiling, trying to move on, but answering the questions of an indian journalist.
+0011_Gandhi_02.11.23.728-02.11.26.878 	finally, irwin turns to the senior police officer, who fidgets, but answers the implied questions.
+0012_Get_Shorty_00.34.10.137-00.34.12.339 	karen looks caught, doesn't answer right away.
+0012_Get_Shorty_00.50.18.479-00.50.25.712 	karen starts to answer, but nicki's already hustling chili inside.
+0013_Halloween_00.40.49.601-00.40.53.076 	laurie goes to answer it.
+0013_Halloween_00.51.16.793-00.51.17.650 	tommy runs to answer it.
+0013_Halloween_01.01.25.686-01.01.30.406 	laurie gets up to answer it.
+0013_Halloween_01.06.47.389-01.06.49.160 	the ghost doesn't answer.
+0013_Halloween_01.07.46.734-01.07.47.955 	laurie crosses to answer the phone.
+0014_Ist_das_Leben_nicht_schoen_00.09.10.494-00.09.14.463 	during the foregoing, cousin tilly has answered the telephone, and now she calls out.
+0016_O_Brother_Where_Art_Thou_00.43.35.007-00.43.46.705 	strangely, the three laundresses do not answer, though they do smile at him as they continue to sing.
+0017_Pianist_00.07.38.576-00.07.42.174 	szpilman is on the public telephone, waiting for someone to answer his call.
+0019_Pulp_Fiction_00.45.24.585-00.45.25.790 	vincent is slow to answer.
+0021_Rear_Window_00.25.13.398-00.25.16.498 	he starts to answer her back, but decides better of it, and instead, leaves the room.
+0021_Rear_Window_00.26.05.239-00.26.10.566 	she is laughing, and he is answering her in angry tones.
+0021_Rear_Window_01.04.22.314-01.04.26.696 	the phone buzzes on filter, then is picked up and answered by a woman.
+0021_Rear_Window_01.14.28.377-01.14.29.877 	he turns his head to lisa, who answers.
+0021_Rear_Window_01.14.30.877-01.14.32.377 	his head snaps back to jeff, who answers.
+0021_Rear_Window_01.14.34.877-01.14.36.377 	his head moves back to lisa as she answers with a touch of pride in her voice.
+0021_Rear_Window_01.26.53.888-01.26.55.130 	her face sobers as she answers their unasked question.
+0021_Rear_Window_01.33.22.780-01.33.23.755 	he approaches the phone hesitantly, undecided whether or not to answer it.
+0021_Rear_Window_01.42.14.385-01.42.17.906 	as thorwald's attention is drawn back to the second policeman to answer further questions, the first policeman takes lisa by the arm and leads her out of the apartment.
+0023_THE_BUTTERFLY_EFFECT_01.01.10.403-01.01.17.062 	the phone rings and he automatically answers it.
+0026_The_Big_Fish_01.45.27.122-01.45.30.812 	how can she answer?
+0026_The_Big_Fish_01.51.00.617-01.51.05.548 	before he can answer, will spots edward rolling the chair himself, pumping both arms.
+0031_The_Lost_Weekend_01.12.48.994-01.12.52.234 	the man looks at don but doesn't answer.
+0041_The_Sixth_Sense_00.35.31.092-00.35.34.783 	he's just about to answer his own question when he sees a hand go up.
+0049_Hannah_and_her_sisters_00.16.47.933-00.16.57.468 	the movie cuts back and forth between mickey in his phone booth asking questions and dr. wilkes in his office answering them.
+0049_Hannah_and_her_sisters_00.41.46.384-00.41.51.675 	when no one answers, frederick, reacting, hangs up, and the film moves back outside to the phone booth, where elliot, the phone receiver to his ear, listens for a moment, then hangs up.
+0049_Hannah_and_her_sisters_01.36.53.563-01.36.56.222 	mickey runs offscreen briefly to answer the door.
+0050_Indiana_Jones_and_the_last_crusade_01.35.44.272-01.35.46.535 	before indy can answer, vogel is up and swinging with the shovel.
+0051_Men_in_black_01.06.40.838-01.06.43.930 	a voice answers him, but not the vendor's.
+0053_Rendezvous_mit_Joe_Black_00.39.48.532-00.39.52.571 	joe has heard susan's question but, as he studies her, doesn't answer.
+0053_Rendezvous_mit_Joe_Black_01.39.22.141-01.39.25.883 	a moment as parrish looks around, the moment extends, it appears he may not ever answer.
+0053_Rendezvous_mit_Joe_Black_01.48.02.064-01.48.05.979 	she laughs at the earnestness with which he answers.
+0053_Rendezvous_mit_Joe_Black_01.53.30.603-01.53.32.379 	parrish, in a state of shock, doesn't answer for a moment.
+0053_Rendezvous_mit_Joe_Black_01.54.02.502-01.54.04.775 	joe senses parrish's tone, doesn't answer.
+1005_Signs_00.51.44.287-00.51.45.588 	and answers the phone on the landing.
+1009_Spider-Man3_00.59.15.426-00.59.19.000 	he spins around and answers the phone.
+1010_TITANIC_01.38.15.847-01.38.20.507 	officer moody steps onto the bridge and answers the phone.
+1014_2012_00.12.45.387-00.12.48.429 	he answers the phone on his way out.
+1014_2012_00.16.39.000-00.16.44.324 	in bed, laura wakes and answers her phone.
+1017_Bad_Santa_00.55.27.173-00.55.30.283 	he answers his phone.
+1019_Confessions_Of_A_Shopaholic_00.44.04.720-00.44.07.394 	she answers her mobile.
+1019_Confessions_Of_A_Shopaholic_00.53.07.662-00.53.19.517 	her chin resting on one blue cashmere-gloved hand, she answers her mobile.
+1023_Horrible_Bosses_01.04.18.137-01.04.20.479 	he answers his phone.
+1024_Identity_Thief_00.09.14.563-00.09.22.011 	on the computer, he types cornish's name onto a check, then answers his cell phone.
+1028_No_Reservations_00.07.07.571-00.07.11.305 	she hurries to answer the phone.
+1028_No_Reservations_01.17.55.000-01.18.00.825 	she rises and, wearing her dressing gown, answers the intercom.
+1035_The_Adjustment_Bureau_00.03.11.311-00.03.17.749 	he folds it shut, and answers his cell phone.
+1035_The_Adjustment_Bureau_00.59.00.838-00.59.02.796 	she answers her cell.
+1038_The_Great_Gatsby_01.05.21.204-01.05.27.741 	gatsby goes to the other side of the room to answer the phone.
+1043_Vantage_Point_00.54.09.605-00.54.13.278 	a bellboy answers a phone in the hotel reception.
+1043_Vantage_Point_00.54.42.437-00.54.44.505 	javier answers his mobile.
+1043_Vantage_Point_01.21.54.925-01.21.58.747 	howard wears a dazed expression as he answers his ringing cell phone.
+1045_An_education_00.55.21.086-00.55.24.490 	jack gets up to answer the door.
+1053_Harry_Potter_and_the_philosophers_stone_00.53.02.000-00.53.08.968 	hermione is desperate to answer.
 1060_Yes_man_00.00.48.975-00.00.51.922 	he accidentally answers it and sighs.
 1060_Yes_man_00.47.10.439-00.47.20.841 	he scowls at his phone, then answers it.
-2004_Juno_00.42.29.728-00.42.32.840 	mark answers the door, dressed in a t-shirt and jeans.
 2012_Unbreakable_01.24.19.260-01.24.20.390 	the same man who answered the door in the flashback lays partly in the shadow, partly in the light.
+2026_Legion_00.35.53.354-00.35.55.780 	michael is about to answer, when.
 2040_The_Ugly_Truth_00.34.22.021-00.34.24.402 	she answers the phone.
 2041_This_is_40_01.04.23.245-01.04.25.347 	larry answers the door.

@@ -1,0 +1,4 @@
+ROBIN_HOOD.srt 	ROBIN_HOOD_DVS23 	00:03:25,00 --> 00:03:35,50 	her statuesque features, sullen.
+SANCTUM.srt 	SANCTUM_DVS308 	01:02:35,00 --> 01:02:41,50 	someone's gaze grows mildly sullen and distant.
+SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS295 	00:19:54,00 --> 00:20:00,50 	her mother pauses as she eats, frowning at her daughter's sullen downcast gaze.
+THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS32 	00:06:13,00 --> 00:06:23,50 	sharing her mother's round face and sullen pout, she faces her visitors.

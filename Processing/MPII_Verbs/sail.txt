@@ -1,15 +1,29 @@
-0006_Clerks_00.46.11.250-00.46.15.130 	The ball sails off the court, through the air, and into a faraway yard.
-0011_Gandhi_02.20.57.005-02.21.05.124 	Gandhi, Mirabehn and Gandhi's secretary, Desai, waving goodbye from the boat deck of their ship as it sails -- Mirabehn is holding the tether of a goat -- all of them smiling at the camera like voyagers everywhere.
-0020_Raising_Arizona_01.19.39.701-01.19.42.932 	It sails off a step into the sunken atrium, and lands with a CRASH amidst the hayseeds.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.15.27.580-00.15.35.020 	A tiny sailing ship with masts and sails glides through the Center of Bilbo's smoke ring.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.38.31.225-00.38.34.102 	CORSAIR SHIPS sail up the RIVER.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_03.10.07.527-03.10.16.484 	The WHITE BOAT sails away towards the HEADLANDS, disappearing into the GOLDEN LIGHT of the SETTING SUN.
-0032_The_Princess_Bride_00.09.46.074-00.09.50.932 	As they sail off, we hear their voices as the boat recedes.
-0032_The_Princess_Bride_00.13.23.754-00.13.27.740 	The boat at dawn, being followed closely by the black sailboat, which we can see for the first time is being sailed by a MAN IN BLACK, and his boat almost seems to be flying.
-0032_The_Princess_Bride_00.13.42.672-00.13.45.500 	in a wild race for the Cliffs and the Man In Black is closing faster than ever, but not fast enough, the lead was too great to overcome, and as Inigo sails with great precision straight at the Cliffs.
-0038_Psycho_01.03.52.400-01.04.00.583 	He nods, takes down the closed-for-lunch sign, sails it to the counter, opens door, goes out into the street.
-0050_Indiana_Jones_and_the_last_crusade_01.35.39.914-01.35.41.026 	Vogel's hat sails in and falls to the floor.
-0051_Men_in_black_01.08.37.912-01.08.46.775 	Her face goes beatifically blank as she sails through a massive starfield, millions of stars, billions of green, verdant planets, all racing by her at the speed of light.
+0006_Clerks_00.46.11.250-00.46.15.130 	the ball sails off the court, through the air, and into a faraway yard.
+0011_Gandhi_02.20.57.005-02.21.05.124 	gandhi, mirabehn and gandhi's secretary, desai, waving goodbye from the boat deck of their ship as it sails -- mirabehn is holding the tether of a goat -- all of them smiling at the camera like voyagers everywhere.
+0020_Raising_Arizona_01.19.39.701-01.19.42.932 	it sails off a step into the sunken atrium, and lands with a crash amidst the hayseeds.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.31.57.405-00.32.00.115 	pippin, huddled in front of gandalf, the wind sailing through his hair.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.38.31.225-00.38.34.102 	corsair ships sail up the river.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.10.47.815-02.10.53.441 	a sinister black sailed ship glides into the docks.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_03.10.07.527-03.10.16.484 	the white boat sails away towards the headlands, disappearing into the golden light of the setting sun.
+0026_The_Big_Fish_00.55.26.571-00.55.31.477 	one of the hydra cars hits him square in the gut, throwing him up and away, sailing 200 feet through the air.
+0032_The_Princess_Bride_00.09.46.074-00.09.50.932 	as they sail off, we hear their voices as the boat recedes.
+0032_The_Princess_Bride_00.13.23.754-00.13.27.740 	the boat at dawn, being followed closely by the black sailboat, which we can see for the first time is being sailed by a man in black, and his boat almost seems to be flying.
+0032_The_Princess_Bride_00.14.22.691-00.14.26.125 	the man in black, sailing in toward the cliffs of insanity, watching as fezzik rises swiftly through the first moments of dawn.
+0038_Psycho_01.03.52.400-01.04.00.583 	he nods, takes down the closed-for-lunch sign, sails it to the counter, opens door, goes out into the street.
+0046_Chasing_Amy_00.42.24.489-00.42.26.177 	holden ducks as the ball comes sailing back at his head.
+0050_Indiana_Jones_and_the_last_crusade_01.35.39.914-01.35.41.026 	vogel's hat sails in and falls to the floor.
+0050_Indiana_Jones_and_the_last_crusade_01.36.24.865-01.36.29.744 	we see his hat blow off and sail over the cliff's edge.
+0051_Men_in_black_01.08.37.912-01.08.46.775 	her face goes beatifically blank as she sails through a massive starfield, millions of stars, billions of green, verdant planets, all racing by her at the speed of light.
+1007_Spider-Man1_00.45.10.162-00.45.17.443 	he spots a flag pole on a building opposite and jumps sailing through the air, grabbing the pole with both hands, then like a gymnast swings round and round until he builds the momentum to catapult him through the air on to the adjoining rooftop.
+1010_TITANIC_00.56.43.394-00.56.49.061 	at dusk, the titanic trails black smoke from its four smoke stacks, the funnels, as it sails toward the setting sun.
+1024_Identity_Thief_00.24.00.436-00.24.03.139 	now, a plane sails across the sky.
+1034_Super_8_01.42.41.370-01.42.45.709 	hobbling through town, charles and martin sit sailing up into the night sky.
+1037_The_Curious_Case_Of_Benjamin_Button_01.59.23.481-01.59.28.740 	he sails on the calm lake.
+1046_Australia_01.59.28.114-01.59.36.782 	fletcher leans on the railing next to her, as the boat sails away.
+1046_Australia_02.00.22.391-02.00.32.604 	the children's boat sails away from the wharf between huge, grey navy vessels.
+1046_Australia_02.14.53.283-02.15.01.625 	drover releases the mooring, taking a chain out of bull's unconscious hand, and runs onto the small mission island sailing boat.
+1046_Australia_02.23.28.922-02.23.35.323 	the boys' boat sails into darwin.
+1046_Australia_02.23.51.246-02.23.55.106 	the small boat sails past a huge burning ship.
 1053_Harry_Potter_and_the_philosophers_stone_01.17.58.471-01.18.01.671 	and the quaffle sails straight through the middle.
 1053_Harry_Potter_and_the_philosophers_stone_01.19.33.595-01.19.35.709 	a slytherin sails over the beaters head and shoots accurately at the hoop.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_00.05.33.662-00.05.37.168 	she sails out into the garden.

@@ -1,0 +1,7 @@
+21_JUMP_STREET.srt 	21_JUMP_STREET_DVS670 	01:40:49,00 --> 01:40:57,50 	she perks her head up as someone comes over.
+BAD_TEACHER.srt 	BAD_TEACHER_DVS59 	00:18:23,00 --> 00:18:30,50 	someone perks up.
+JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS567 	01:51:50,00 --> 01:51:54,50 	someone perks up.
+LIFE_OF_PI.srt 	LIFE_OF_PI_DVS780 	01:19:55,00 --> 01:20:01,50 	someone's ears perk up as he shifts his gaze away from someone.
+WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS174 	00:30:06,00 --> 00:30:10,50 	a tiger perks up.
+ZOOKEEPER.srt 	ZOOKEEPER_DVS61 	00:12:00,00 --> 00:12:04,50 	he perks up.
+ZOOKEEPER.srt 	ZOOKEEPER_DVS313 	01:10:13,00 --> 01:10:17,50 	she perks up.

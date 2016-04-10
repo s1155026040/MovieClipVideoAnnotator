@@ -1,2 +1,4 @@
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.08.44.210-02.08.49.354 	GANDALF and PIPPIN'S faces turn as the WOODEN DOORS shudder under another BLOW.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.12.04.552-02.12.20.666 	A shuddering CRY, fading into a SHRILL WAIL passes with the WIND.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.08.44.210-02.08.49.354 	gandalf and pippin's faces turn as the wooden doors shudder under another blow.
+0028_The_Crying_Game_01.41.57.605-01.41.59.468 	she shudders with weeping.
+0033_Amadeus_01.02.12.486-01.02.13.086 	we see his agonized and wondering face: he shudders as if in a rough and tumbling sea; he experiences the point where beauty and great pain coalesce.
+1030_Public_Enemies_01.44.49.687-01.44.50.905 	she shudders.

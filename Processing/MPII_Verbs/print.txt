@@ -1,12 +1,9 @@
-0011_Gandhi_00.20.46.195-00.20.47.231 	Beneath the signature we see the boldly printed identification: Jan Christian Smuts.
-0011_Gandhi_00.21.21.189-00.21.21.645 	This is where the magazine Indian Opinion is printed and we see stacks of it lying around.
-0030_The_Hustler_00.38.49.450-00.38.50.344 	Her eyes return to the printed page.
-0041_The_Sixth_Sense_00.04.50.768-00.04.52.301 	It's printed on aged parchment-type paper.
-0049_Hannah_and_her_sisters_00.26.17.713-00.26.21.219 	They begin to walk again as the movie cuts to the interior of the Pageant Book & Print Shop, an old, serious bookstore.
-1003_How_to_Lose_Friends_and_Alienate_People_00.22.07.889-00.22.14.622 	With a phone to his ear Sidney pulls over a sheet of printed photographic negatives.
+0011_Gandhi_00.21.21.189-00.21.21.645 	this is where the magazine indian opinion is printed and we see stacks of it lying around.
+0030_The_Hustler_00.38.49.450-00.38.50.344 	her eyes return to the printed page.
+0041_The_Sixth_Sense_00.04.50.768-00.04.52.301 	it's printed on aged parchment-type paper.
+1003_How_to_Lose_Friends_and_Alienate_People_00.22.07.889-00.22.14.622 	with a phone to his ear sidney pulls over a sheet of printed photographic negatives.
 1020_Crazy_Stupid_Love_01.20.51.225-01.20.54.111 	she prints out one of the photos,
+1024_Identity_Thief_01.20.20.621-01.20.25.024 	the burner finishes processing and prints out the card.
+1033_Sherlock_Holmes_A_Game_of_Shadows_01.04.37.903-01.04.44.506 	they look around the secret room and see a printing press and, on a table, sticks of dynamite.
 1057_Seven_pounds_00.07.01.140-00.07.04.130 	he prints out her details.
 1057_Seven_pounds_01.11.58.573-01.12.03.269 	she printed an angelic woman with butterfly wings.
-1057_Seven_pounds_00.07.01.140-00.07.04.130 	he prints out her details.
-1057_Seven_pounds_01.11.58.573-01.12.03.269 	she printed an angelic woman with butterfly wings.
-2027_Les_Miserables_01.08.58.172-01.09.01.907 	the students hand out printed leaflets and try to excite the crowd.

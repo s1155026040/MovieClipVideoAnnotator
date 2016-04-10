@@ -1,2 +1,2 @@
-0007_DIE_NACHT_DES_JAEGERS_00.24.57.141-00.24.57.602 	Ben's skiff is inverted on trestles in FOREGROUND.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.52.20.668-01.52.25.431 	As he inverts the wand, Harry steady Slughorn's hand.
+0007_DIE_NACHT_DES_JAEGERS_00.24.57.141-00.24.57.602 	ben's skiff is inverted on trestles in foreground.
+1002_Harry_Potter_and_the_Half-Blood_Prince_01.52.20.668-01.52.25.431 	as he inverts the wand, harry steady slughorn's hand.

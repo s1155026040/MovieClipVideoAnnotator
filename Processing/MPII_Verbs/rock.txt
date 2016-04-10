@@ -1,18 +1,38 @@
-0001_American_Beauty_01.48.33.840-01.48.43.438 	He hugs her, letting her put her head on his shoulder, stroking her hair and rocking her gently.
-0007_DIE_NACHT_DES_JAEGERS_00.16.45.077-00.16.49.858 	BIRDIE, in a ramshackle rocking chair, pours coffee.
-0007_DIE_NACHT_DES_JAEGERS_00.17.11.847-00.17.18.976 	He fetches a liquor bottle from beneath the rocking chair; about to pour he does a take at BESS'S PHOTOGRAPH.
-0009_Forrest_Gump_00.10.59.217-00.11.01.248 	Forrest's legs rock back and forth to the guitar.
-0009_Forrest_Gump_01.52.00.232-01.52.14.503 	Forrest sit on a rocking chair with his running shoes on.
-0011_Gandhi_00.50.00.355-00.50.07.042 	Gandhi's solemn eyes are studying the huddled humanity in the rocking coach.
-0014_Ist_das_Leben_nicht_schoen_00.26.02.684-00.26.03.620 	We see a grumpy old man in shirt sleeves in a rocking chair on the porch.
-0026_The_Big_Fish_00.57.13.672-00.57.19.118 	Suddenly, the rocking and moaning stop.
-0027_The_Big_Lebowski_00.57.27.803-00.57.30.400 	The Dude looks sadly through his window at the policeman rocking back on his heels, his raucous laughter muffled by the glass.
-0032_The_Princess_Bride_01.18.07.120-01.18.11.325 	Westley can't even do that, but after a bit of rocking back and forth, he manages to get enough momentum to catapult his arm over and onto his friend's.
-0053_Rendezvous_mit_Joe_Black_01.02.23.812-01.02.27.851 	Visible now behind them are a Caribbean woman in her mid- thirties, TEENA, an arm around her mother, EASTER, who is holding her stomach and rocking back and forth in her seat, in great pain.
-1001_Flight_01.13.05.687-01.13.12.663 	He sits in a rocking chair.
-1003_How_to_Lose_Friends_and_Alienate_People_01.04.49.782-01.04.52.982 	Sydney limps up to Alison who sits alone in the half-light with a bottle of wine in her lap, gently rocking on a swing.
-1004_Juno_01.28.54.085-01.28.58.437 	An antique rocking chair in the baby's nursery.
-1005_Signs_00.54.25.994-00.54.29.713 	Ray, the Asian man who stayed in town, sits with one hand clamped to the steering wheel, rocking nervously and staring numbly ahead.
+0001_American_Beauty_01.48.33.840-01.48.43.438 	he hugs her, letting her put her head on his shoulder, stroking her hair and rocking her gently.
+0007_DIE_NACHT_DES_JAEGERS_00.16.45.077-00.16.49.858 	birdie, in a ramshackle rocking chair, pours coffee.
+0007_DIE_NACHT_DES_JAEGERS_00.17.11.847-00.17.18.976 	he fetches a liquor bottle from beneath the rocking chair; about to pour he does a take at bess's photograph.
+0007_DIE_NACHT_DES_JAEGERS_00.48.15.234-00.48.20.529 	we begin with head close-up of birdie as he rocks, and pull back he is rocking; and drunk.
+0007_DIE_NACHT_DES_JAEGERS_00.49.10.157-00.49.12.991 	birdie rocks heavily; liquor gurgles from bottle to floor.
+0009_Forrest_Gump_01.31.06.282-01.31.12.986 	jenny rocks back and forth as she cries.
+0009_Forrest_Gump_01.52.00.232-01.52.14.503 	forrest sit on a rocking chair with his running shoes on.
+0011_Gandhi_00.50.00.355-00.50.07.042 	gandhi's solemn eyes are studying the huddled humanity in the rocking coach.
+0014_Ist_das_Leben_nicht_schoen_00.26.02.684-00.26.03.620 	we see a grumpy old man in shirt sleeves in a rocking chair on the porch.
+0020_Raising_Arizona_01.18.14.284-01.18.14.414 	shooting through where the windshield used to be, cutting in at the end of the skid as the car rocks to a halt.
+0026_The_Big_Fish_00.56.51.625-00.57.08.601 	under a full moon, edward walks up to the battered camper, and is about to knock when he notices it's rocking.
+0027_The_Big_Lebowski_00.57.27.803-00.57.30.400 	the dude looks sadly through his window at the policeman rocking back on his heels, his raucous laughter muffled by the glass.
+0032_The_Princess_Bride_01.18.07.120-01.18.11.325 	westley can't even do that, but after a bit of rocking back and forth, he manages to get enough momentum to catapult his arm over and onto his friend's.
+0053_Rendezvous_mit_Joe_Black_01.02.23.812-01.02.27.851 	visible now behind them are a caribbean woman in her mid- thirties, teena, an arm around her mother, easter, who is holding her stomach and rocking back and forth in her seat, in great pain.
+1003_How_to_Lose_Friends_and_Alienate_People_01.04.49.782-01.04.52.982 	sydney limps up to alison who sits alone in the half-light with a bottle of wine in her lap, gently rocking on a swing.
+1004_Juno_01.28.54.085-01.28.58.437 	an antique rocking chair in the baby's nursery.
+1005_Signs_00.54.25.994-00.54.29.713 	ray, the asian man who stayed in town, sits with one hand clamped to the steering wheel, rocking nervously and staring numbly ahead.
+1005_Signs_01.35.48.445-01.35.55.366 	his eyes glazed with tears, graham stares at the alien as it rocks back and forth, leaning over its captive hanging limply over its arm.
+1011_The_Help_01.59.07.018-01.59.12.540 	elizabeth, sitting in a rocking chair, is reading it as she bottle feeds her baby.
+1014_2012_00.45.08.289-00.45.09.657 	the house rocks unpredictably.
+1014_2012_01.01.42.231-01.01.44.835 	the flaming rocks hammer the area.
+1027_Les_Miserables_02.10.14.373-02.10.15.948 	nearby is a child's rocking horse.
+1033_Sherlock_Holmes_A_Game_of_Shadows_01.43.48.099-01.43.50.766 	the rocking back fall stumble into the darkness nearby.
+1034_Super_8_01.22.31.959-01.22.34.895 	the alien rocks the bus as nelec gets on the radio.
+1035_The_Adjustment_Bureau_00.25.50.357-00.25.56.468 	david presses his hands to his face and rocks himself.
+1039_The_Queen_01.01.31.863-01.01.39.800 	her body gently rocks as she start to sob.
+1048_Gran_Torino_00.50.01.677-00.50.02.950 	it rocks under his weight.
+1049_Harry_Potter_and_the_chamber_of_secrets_00.26.49.700-00.26.52.230 	high in the tree, the car rocks precariously.
+1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.18.16.663-00.18.19.074 	an explosion rocks the bike.
+1050_Harry_Potter_and_the_deathly_hallows_Disk_One_02.12.13.110-02.12.21.030 	he lowers his head and gently rocks the house elf's tiny body.
 1056_Rambo_00.52.32.467-00.52.34.187 	at the dance show, some of the watching soldiers rock drunkenly back and forth in time with the music.
+1057_Seven_pounds_00.01.16.952-00.01.29.868 	he rocks back and forth.
+1057_Seven_pounds_01.46.19.490-01.46.30.696 	tim rocks back a forth.
+1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.22.29.772-01.22.36.106 	snape rocks lily's lifeless body in his arms.
 1062_Day_the_Earth_stood_still_01.15.34.000-01.15.38.000 	as he backs away from the advancing alien, a rocking board breaks under him.
+2026_Legion_01.24.59.543-01.25.05.242 	the massive explosion rocks the slow moving vehicle.
 2027_Les_Miserables_02.01.09.471-02.01.10.961 	the bombardment hits the barricade, rocking it.
+2034_Super_8_01.20.02.411-01.20.03.638 	the entire bus is rocked, charles screams, hurt -- at the front of the bus, nelec falls -- hits a bench, then.

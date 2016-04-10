@@ -1,10 +1,4 @@
-0010_Frau_Ohne_Gewissen_00.35.33.490-00.35.34.260 	Dietrichson trundles off towards the archway.
-0017_Pianist_01.16.18.912-01.16.24.348 	Szpilman and Gebczynski wait with others at the stop as the tram trundles towards them and comes to a halt.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_03.03.13.152-03.03.15.609 	The WAGON trundles along at a SEDATE PACE.
-0050_Indiana_Jones_and_the_last_crusade_01.31.26.240-01.31.29.200 	He moves out of the saddle and leaps from the speeding horse onto the trundling tank.
-0050_Indiana_Jones_and_the_last_crusade_01.36.33.817-01.36.42.863 	The tank trundles over the cliff and PLUMMETS TO THE BOTTOM.
-1044_Pride_And_Prejudice_Disk_Two_01.52.34.794-01.52.39.760 	an open-topped carriage trundles down the long driveway at longbourn.
+0050_Indiana_Jones_and_the_last_crusade_01.36.33.817-01.36.42.863 	the tank trundles over the cliff and plummets to the bottom.
 1047_Defiance_00.02.08.572-00.02.11.244 	the bony cheek ss officer puffs on a cigarette as a truckload of people trundles past.
 1047_Defiance_00.39.27.045-00.39.31.343 	an elderly russian in a horse drawn cart trundles along the dirt track.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.15.33.490-00.15.41.735 	all five get to their feet and look up at the cart as it trundles away.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.15.33.490-00.15.41.735 	all five get to their feet and look up at the cart as it trundles away.

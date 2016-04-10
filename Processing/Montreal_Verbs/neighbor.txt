@@ -1,0 +1,3 @@
+COLOMBIANA.srt 	COLOMBIANA_DVS933 	01:30:02,00 --> 01:30:08,50 	he peeks out and finds someone crouched behind a rifle on a neighboring balcony.
+PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS165 	00:30:38,00 --> 00:30:45,50 	someone gazes out a window at a neighboring high-rise, then faces his men.
+WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS762 	01:41:42,00 --> 01:41:51,50 	our view continues to retract over a neighboring rooftop, until it encompasses several city blocks worth of apartment buildings.

@@ -1,0 +1,3 @@
+COLOMBIANA.srt 	COLOMBIANA_DVS543 	00:49:24,00 --> 00:49:29,50 	a female agent distributes clipboards.
+DEAR_JOHN.srt 	DEAR_JOHN_DVS430 	01:04:18,00 --> 01:04:24,50 	at the army camp, he distributes letters to soldiers.
+LARRY_CROWNE.srt 	LARRY_CROWNE_DVS377 	01:30:11,00 --> 01:30:16,50 	someone glances at his friends then slumps in his seat, as someone distributes a handout.

@@ -1,0 +1,6 @@
+THE_CALL.srt 	THE_CALL_DVS68 	00:03:53,00 --> 00:04:00,50 	call disconnected.
+THE_CALL.srt 	THE_CALL_DVS141 	00:11:34,00 --> 00:11:39,50 	call disconnected.
+THE_CALL.srt 	THE_CALL_DVS778 	00:58:46,00 --> 00:58:56,50 	the call disconnects as a flashback shows someone bringing a fist down toward someone.
+THE_SITTER.srt 	THE_SITTER_DVS119 	01:05:46,00 --> 01:05:55,50 	she glances around, then kicks the chain link finding a section disconnected from
+UGLY_TRUTH.srt 	UGLY_TRUTH_DVS143 	00:12:24,00 --> 00:12:28,50 	he disconnects her.
+UGLY_TRUTH.srt 	UGLY_TRUTH_DVS315 	00:33:24,00 --> 00:33:30,50 	someone disconnects the call.

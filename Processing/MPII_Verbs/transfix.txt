@@ -1,8 +1,23 @@
-0001_American_Beauty_00.36.17.414-00.36.30.666 	He turns, and is instantly transfixed by: Angela leans against the counter, twirling her hair.
-0032_The_Princess_Bride_00.38.42.050-00.38.43.062 	BUTTERCUP, staring transfixed at what she has wrought.
-1006_Slumdog_Millionaire_01.22.19.214-01.22.22.955 	Javed, still transfixed by the cricket game, takes a bite of his sandwich.
+0001_American_Beauty_00.16.25.897-00.16.26.639 	we zoom slowly toward lester as he watches, transfixed.
+0001_American_Beauty_00.36.17.414-00.36.30.666 	he turns, and is instantly transfixed by: angela leans against the counter, twirling her hair.
+0001_American_Beauty_01.38.58.471-01.39.00.361 	we zoom slowly in on him as he watches, transfixed.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.39.01.087-01.39.09.530 	he stares at the ring, as if transfixed.
+0026_The_Big_Fish_00.13.08.504-00.13.09.593 	he stares transfixed, perplexed and amused.
+0032_The_Princess_Bride_00.38.42.050-00.38.43.062 	buttercup, staring transfixed at what she has wrought.
+0046_Chasing_Amy_00.38.32.771-00.38.33.913 	holden is transfixed.
+1005_Signs_00.41.12.590-00.41.15.257 	later, with the lights out, graham and merrill are still transfixed.
+1006_Slumdog_Millionaire_01.22.19.214-01.22.22.955 	javed, still transfixed by the cricket game, takes a bite of his sandwich.
 1007_Spider-Man1_01.51.01.773-01.51.04.975 	peter stares, transfixed at harry.
+1008_Spider-Man2_00.17.34.999-00.17.38.862 	the two of them stand as if transfixed.
+1028_No_Reservations_00.14.13.915-00.14.19.632 	transfixed, kate stands in the hallway, clutching her coat.
+1033_Sherlock_Holmes_A_Game_of_Shadows_01.08.24.176-01.08.30.590 	moriarty watches, transfixed, as demons surround don giovanni.
 1037_The_Curious_Case_Of_Benjamin_Button_01.32.28.882-01.32.33.256 	benjamin watches, transfixed as daisy dances.
 1038_The_Great_Gatsby_01.23.08.400-01.23.11.629 	they stand transfixed by each other.
+1039_The_Queen_01.01.58.116-01.02.03.610 	the queen stares at it, as if transfixed.
+1043_Vantage_Point_00.49.22.545-00.49.26.568 	ashton is transfixed.
+1046_Australia_01.39.32.947-01.39.36.489 	all except nullah, who continues to stare, transfixed, at the screen.
+1051_Harry_Potter_and_the_goblet_of_fire_01.46.31.372-01.46.35.477 	mr. crouch is transfixed, horrified.
+1060_Yes_man_00.19.13.069-00.19.18.601 	transfixed, carl stares at him.
 1060_Yes_man_01.33.22.050-01.33.26.112 	allison's transfixed as carl does another donut.
-1060_Yes_man_01.33.22.050-01.33.26.112 	allison's transfixed as carl does another donut.
+2054_Harry_Potter_and_the_prisoner_of_azkaban_00.44.07.309-00.44.10.816 	harry starts to raise his wand, then freezes, transfixed.
+2054_Harry_Potter_and_the_prisoner_of_azkaban_02.00.59.277-02.01.00.449 	he is transfixed, staring hungrily toward the outcrop.

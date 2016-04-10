@@ -1,9 +1,24 @@
-0011_Gandhi_02.37.40.950-02.37.42.941 	It's cross -- he's worried about other things.
-0014_Ist_das_Leben_nicht_schoen_00.34.03.585-00.34.05.228 	He is worried about the outcome of the meeting.
-0014_Ist_das_Leben_nicht_schoen_01.54.16.127-01.54.19.075 	Ernie turns to driving, but he's worried about his passenger.
-0023_THE_BUTTERFLY_EFFECT_01.05.18.014-01.05.20.166 	Evan and Kayleigh exchange worried looks.
+0011_Gandhi_02.37.40.950-02.37.42.941 	it's cross -- he's worried about other things.
+0014_Ist_das_Leben_nicht_schoen_00.34.03.585-00.34.05.228 	he is worried about the outcome of the meeting.
+0014_Ist_das_Leben_nicht_schoen_01.27.19.476-01.27.25.453 	george paces about the kitchen, worried.
+0014_Ist_das_Leben_nicht_schoen_01.54.16.127-01.54.19.075 	ernie turns to driving, but he's worried about his passenger.
+0016_O_Brother_Where_Art_Thou_01.30.45.314-01.30.48.692 	the band beams, but delmar leans into everett, worried.
+0023_THE_BUTTERFLY_EFFECT_01.05.18.014-01.05.20.166 	evan and kayleigh exchange worried looks.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.24.54.240-02.24.57.036 	gandalf -- still troubled, still worried.
+0026_The_Big_Fish_00.01.11.678-00.01.14.496 	the beast isn't worried.
 0027_The_Big_Lebowski_01.43.34.254-01.43.34.467 	still worrying the ear.
-0027_The_Big_Lebowski_01.43.35.763-01.43.36.557 	Growling as Dieter screams, he worries his ear, waggling his head with his jaws clamped.
-0038_Psycho_00.18.44.843-00.18.49.268 	She stares at the papers, turns away, as if what she is fearing would have to be impossible, then, having to satisfy herself, goes to the stand, drops a dime in the iron slot, picks up a LOS ANGELES newspaper, starts back into the car lot as she glances worried at the front page.
-0050_Indiana_Jones_and_the_last_crusade_00.42.57.016-00.42.58.977 	He is worried for her, knocks and calls out.
-2017_Bad_Santa_00.18.19.003-00.18.21.273 	willie's reaction worries marcus.
+0027_The_Big_Lebowski_01.43.35.763-01.43.36.557 	growling as dieter screams, he worries his ear, waggling his head with his jaws clamped.
+0033_Amadeus_00.00.53.728-00.00.55.574 	both men are desperately worried: the valet is thin and middle-aged; the cook, plump and italian.
+0038_Psycho_00.18.44.843-00.18.49.268 	she stares at the papers, turns away, as if what she is fearing would have to be impossible, then, having to satisfy herself, goes to the stand, drops a dime in the iron slot, picks up a los angeles newspaper, starts back into the car lot as she glances worried at the front page.
+0050_Indiana_Jones_and_the_last_crusade_00.42.57.016-00.42.58.977 	he is worried for her, knocks and calls out.
+0051_Men_in_black_00.43.51.424-00.43.53.060 	redgick gets out of the car, worried.
+1006_Slumdog_Millionaire_00.17.18.573-00.17.21.474 	she looks worried and scared.
+1015_27_Dresses_01.20.32.116-01.20.36.055 	tess looks worried as jane strides off, then turns and grins at her.
+1018_Body_Of_Lies_01.21.02.035-01.21.04.035 	aisha looks at cala, worried.
+1042_Up_In_The_Air_00.22.42.804-00.22.47.417 	ryan frowns, worried.
+1045_An_education_01.17.07.439-01.17.12.142 	danny looks worried.
+1052_Harry_Potter_and_the_order_of_phoenix_01.34.59.223-01.35.04.457 	ron sighs and looks worried.
+1053_Harry_Potter_and_the_philosophers_stone_00.21.44.000-00.21.49.501 	harry looks worried.
+1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.04.12.887-01.04.18.831 	harry looks worried.
+2040_The_Ugly_Truth_00.05.15.649-00.05.19.277 	abby looks worried.
+2040_The_Ugly_Truth_00.54.13.877-00.54.19.173 	stuart watches, worried, as abby rises from underneath the table, clutching her head and looking around frantically, trying to figure out who has the remote.

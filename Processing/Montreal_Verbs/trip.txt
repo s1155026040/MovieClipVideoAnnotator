@@ -1,0 +1,6 @@
+BLINDDATING.srt 	BLINDDATING_DVS54 	00:16:26,00 --> 00:16:44,50 	he trips over a student's knees, knocking a laptop over as he falls.
+DEAR_JOHN.srt 	DEAR_JOHN_DVS72 	00:10:07,00 --> 00:10:13,50 	he missteps, almost tripping into the fire.
+MORNING_GLORY.srt 	MORNING_GLORY_DVS390 	01:25:47,00 --> 01:25:51,50 	he trips.
+PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS50 	00:08:35,00 --> 00:08:52,50 	he trips, then climbs to his feet and runs on.
+THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS138 	00:21:40,00 --> 00:21:45,50 	one inspector trips over the cat and falls downstairs.
+TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS356 	00:39:33,00 --> 00:39:42,50 	he trips and falls face first.

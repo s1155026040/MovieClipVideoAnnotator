@@ -1,22 +1,41 @@
-0004_Charade_01.14.10.229-01.14.13.046 	He flicks a little water in her face, then takes the nail- brush and scrubs his watch and watch-band.
-0006_Clerks_00.03.07.956-00.03.10.775 	Suddenly, the lights flick on, revealing the glorious interior of the convenience store.
-0006_Clerks_00.03.22.107-00.03.23.467 	The switch is flicked and the machine comes to life.
-0011_Gandhi_00.18.46.100-00.18.47.168 	One youth has flicked his cigarette -- hard.
-0013_Halloween_00.58.49.873-00.58.52.001 	Its lights flick off.
-0017_Pianist_00.08.14.912-00.08.20.567 	She flicks admiring, almost loving glances at him as they walk and talk.
-0019_Pulp_Fiction_01.15.49.499-01.15.51.484 	Butch flicks the switch back, making the room dark again.
-0020_Raising_Arizona_01.00.59.724-01.01.01.240 	He flicks the fly away.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.16.10.320-00.16.13.797 	Frodo and SAM sit at a table drinking ale.Frodo notices Sam's eyes keep flicking to another pretty Hobbit, Rosie Cotton, sitting some distance away.
-0027_The_Big_Lebowski_00.03.41.865-00.03.47.396 	The Dude enters and flicks on a light.
-0028_The_Crying_Game_00.03.36.414-00.03.37.735 	Her eyes flick around the carnival.
-0032_The_Princess_Bride_01.25.57.239-01.26.02.973 	Inigo watches the Count approach, and the Count flicks his sword at Inigo's heart, and there's not much Inigo can do, just kind of vaguely parry the thrust with the six-fingered sword and Count Rugen's blade sinks deeply into Inigo's left shoulder.
-0043_Thelma_and_Luise_01.17.48.587-01.17.50.914 	He flicks his tongue at them.
-0051_Men_in_black_01.00.06.000-01.00.06.131 	He reaches out and flicks a switch.
-0051_Men_in_black_01.09.56.832-01.09.58.447 	Tony flicks the fly swatter again, sending another bug to meet its maker.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.39.33.638-00.39.35.853 	Dumbledore flicks his hand in the air and the lights dim.
-1003_How_to_Lose_Friends_and_Alienate_People_01.34.32.184-01.34.41.784 	Drinking whiskey at the foot of his bed and half watching a monster movie on TV, he flicks through the channels.
-1005_Signs_00.51.25.108-00.51.27.070 	Graham's eyes flick pensively from side-to-side.
+0004_Charade_01.14.10.229-01.14.13.046 	he flicks a little water in her face, then takes the nail- brush and scrubs his watch and watch-band.
+0006_Clerks_00.03.07.956-00.03.10.775 	suddenly, the lights flick on, revealing the glorious interior of the convenience store.
+0006_Clerks_00.03.22.107-00.03.23.467 	the switch is flicked and the machine comes to life.
+0011_Gandhi_00.18.46.100-00.18.47.168 	one youth has flicked his cigarette -- hard.
+0013_Halloween_00.58.49.873-00.58.52.001 	its lights flick off.
+0017_Pianist_00.08.14.912-00.08.20.567 	she flicks admiring, almost loving glances at him as they walk and talk.
+0019_Pulp_Fiction_01.15.49.499-01.15.51.484 	butch flicks the switch back, making the room dark again.
+0020_Raising_Arizona_01.00.59.724-01.01.01.240 	he flicks the fly away.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.16.10.320-00.16.13.797 	frodo and sam sit at a table drinking ale.frodo notices sam's eyes keep flicking to another pretty hobbit, rosie cotton, sitting some distance away.
+0027_The_Big_Lebowski_00.43.26.222-00.43.31.163 	she is holding a paint bucket in one hand and a brush in the other, with which she flicks paint down at the canvas.
+0028_The_Crying_Game_00.03.36.414-00.03.37.735 	her eyes flick around the carnival.
+0032_The_Princess_Bride_01.25.57.239-01.26.02.973 	inigo watches the count approach, and the count flicks his sword at inigo's heart, and there's not much inigo can do, just kind of vaguely parry the thrust with the six-fingered sword and count rugen's blade sinks deeply into inigo's left shoulder.
+0043_Thelma_and_Luise_01.17.48.587-01.17.50.914 	he flicks his tongue at them.
+0051_Men_in_black_01.00.06.000-01.00.06.131 	he reaches out and flicks a switch.
+0051_Men_in_black_01.09.56.832-01.09.58.447 	tony flicks the fly swatter again, sending another bug to meet its maker.
+0051_Men_in_black_01.29.22.294-01.29.28.269 	close on various tabloid headlines as a hand flicks through them.
+1002_Harry_Potter_and_the_Half-Blood_Prince_00.39.33.638-00.39.35.853 	dumbledore flicks his hand in the air and the lights dim.
+1003_How_to_Lose_Friends_and_Alienate_People_01.34.32.184-01.34.41.784 	drinking whiskey at the foot of his bed and half watching a monster movie on tv, he flicks through the channels.
+1005_Signs_00.51.25.108-00.51.27.070 	graham's eyes flick pensively from side-to-side.
+1008_Spider-Man2_00.32.05.226-00.32.08.391 	hanging mid-swing, he flicks his wrists.
+1008_Spider-Man2_01.11.14.711-01.11.19.783 	he flicks them open, puts them on, and sets off a little wet.
+1008_Spider-Man2_01.42.18.251-01.42.22.703 	he flicks web balls off the face, then catches the falling hand with another web.
+1008_Spider-Man2_01.55.35.985-01.55.37.630 	one pincer flicks out a blade.
+1009_Spider-Man3_01.17.58.199-01.18.00.655 	he flicks the omelette in half.
+1012_Unbreakable_00.08.48.466-00.09.06.341 	in a living room, a boy is lies over a sofa, his feet over the back, his head hanging down to the floor, flicking through tv channels with the remote, upside down.
+1012_Unbreakable_00.15.59.406-00.16.03.780 	he turns the envelope over, frowning, before flicking open the unsealed flap.
+1015_27_Dresses_00.38.16.833-00.38.21.325 	she gamely flicks the heavy metal devil horns at george and tess, who, grinning, do the same.
+1018_Body_Of_Lies_00.38.43.557-00.38.58.256 	ferris studies her as she holds up the syringe and flicks it.
+1019_Confessions_Of_A_Shopaholic_00.50.50.863-00.50.52.710 	she leans back seductively and flicks the fan.
+1033_Sherlock_Holmes_A_Game_of_Shadows_00.24.48.165-00.24.56.166 	he takes the pack from her and flicks through them.
+1041_This_is_40_01.52.54.766-01.52.59.494 	now, debbie hides behind some bushes with a cigarette in her mouth, desperately flicking and shaking a lighter.
+1049_Harry_Potter_and_the_chamber_of_secrets_01.27.30.216-01.27.32.048 	he flicks through the book again.
+1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.09.15.507-00.09.16.952 	voldemort flicks the wand.
+1051_Harry_Potter_and_the_goblet_of_fire_00.25.14.330-00.25.15.533 	moody flicks his wand.
+1052_Harry_Potter_and_the_order_of_phoenix_01.51.35.836-01.51.38.856 	pursued, hermione flicks her wand.
+1052_Harry_Potter_and_the_order_of_phoenix_01.58.51.993-01.58.56.243 	voldemort flicks his wand.
 1053_Harry_Potter_and_the_philosophers_stone_00.00.48.000-00.00.58.330 	in his hand, he holds a small metal object which he flicks open.
+1053_Harry_Potter_and_the_philosophers_stone_00.01.12.926-00.01.20.057 	when all the lights in the road have been extinguished, the old gentleman lowers the metal object and flicks it shut.
 1053_Harry_Potter_and_the_philosophers_stone_00.06.34.466-00.06.37.393 	it flicks its tongue and nods.
 1053_Harry_Potter_and_the_philosophers_stone_01.06.36.945-01.06.41.176 	ron flicks his wand.
 1053_Harry_Potter_and_the_philosophers_stone_01.06.55.177-01.06.59.677 	hermione flicks her wand.

@@ -1,25 +1,31 @@
-0009_Forrest_Gump_02.15.03.035-02.15.23.009 	The feather soars up into the sky and travels up and down, then covers the camera lens.
-0011_Gandhi_01.25.36.189-01.25.38.443 	He is traveling slowly, steadily in an armored car at the head of fifty armed sepoys -- Gurkhas and Baluchis -- immaculate, precise, awesome.
-0011_Gandhi_01.58.39.314-01.58.43.032 	From far above the hills we see a car traveling along the road.
-0014_Ist_das_Leben_nicht_schoen_00.01.45.481-00.02.06.641 	CAMERA PULLS UP from the Bailey home and travels up through the sky until it is above the falling snow and moving slowly toward a firmament full of stars.
-0014_Ist_das_Leben_nicht_schoen_00.50.17.585-00.50.19.064 	Mary and George appear at the top of the stairs in traveling clothes, with Mrs. Hatch, red-eyed, behind them.
-0016_O_Brother_Where_Art_Thou_00.47.10.631-00.47.14.348 	The rhythmic rising and falling now travels up the shirt.
-0017_Pianist_01.14.21.192-01.14.24.032 	A rickshaw carrying Szpilman and Bogucki travels along the dark streets.
-0021_Rear_Window_00.14.21.498-00.14.22.041 	Jeff's eyes travel up to the ballet dancer's window.
-0021_Rear_Window_00.42.59.886-00.43.03.386 	Then his eye travels briefly back to the kitchen; then return to the living room.
-0021_Rear_Window_01.03.31.578-01.03.39.034 	He lowers the lens, and we see Jeff's eyes travel across the screen, as he imagines Thorwald's progression.
-0021_Rear_Window_01.13.57.815-01.13.59.287 	Slowly Doyle's eyes travel back to Jeff.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.12.51.753-01.12.53.159 	GIMLI'S eyes travel to a ROW of ANCIENT STANDING STONES that mark the ENTRANCE to a ROAD leading away from the ENCAMPMENT and INTO the MOUNTAIN.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.24.00.787-02.24.01.776 	FRODO's eyes travel down towards the HUNDREDS of FIRES which glow on the PLAINS beneath them thousands upon thousands of ORCS are encamped there.
-0028_The_Crying_Game_00.57.06.543-00.57.22.631 	She opens the buttons on his shirt and her mouth travels down his chest.
-0028_The_Crying_Game_01.03.58.421-01.04.00.889 	The camera travels with it, and we see, in a close-up, that she is a man.
-0028_The_Crying_Game_01.27.40.293-01.27.42.568 	His hands travel up to her blouse.
-0030_The_Hustler_00.38.01.523-00.38.04.108 	The residue of a full day's traveling is in evidence: crumpled paper towels, cigarette butts, etc.
-0031_The_Lost_Weekend_00.02.25.219-00.02.28.197 	His eyes travel to the window.
-0038_Psycho_00.49.33.886-00.49.39.380 	CAMERA FOLLOWS away from the body, travels slowly across the bathroom, past the toilet, out into the bedroom.
-0049_Hannah_and_her_sisters_01.24.10.872-01.24.21.160 	The man takes one, mouthing his thanks, as the camera travels past the open bookshelf, past two boys in suits who are drinking soda and munching, to reveal Lee.
-0050_Indiana_Jones_and_the_last_crusade_00.28.09.885-00.28.12.014 	Indy's eyes travel up one of the four huge marble columns.
+0009_Forrest_Gump_02.15.03.035-02.15.23.009 	the feather soars up into the sky and travels up and down, then covers the camera lens.
+0011_Gandhi_00.33.56.306-00.33.57.659 	close fast traveling, the sergeant's point of view.
+0011_Gandhi_01.25.36.189-01.25.38.443 	he is traveling slowly, steadily in an armored car at the head of fifty armed sepoys -- gurkhas and baluchis -- immaculate, precise, awesome.
+0011_Gandhi_01.58.39.314-01.58.43.032 	from far above the hills we see a car traveling along the road.
+0014_Ist_das_Leben_nicht_schoen_00.50.17.585-00.50.19.064 	mary and george appear at the top of the stairs in traveling clothes, with mrs. hatch, red-eyed, behind them.
+0016_O_Brother_Where_Art_Thou_00.47.10.631-00.47.14.348 	the rhythmic rising and falling now travels up the shirt.
+0016_O_Brother_Where_Art_Thou_01.42.09.614-01.42.12.508 	the second-to-last girl is the oldest; she holds a piece of string along which we travel, still listening to penny and everett, off.
+0021_Rear_Window_00.14.21.498-00.14.22.041 	jeff's eyes travel up to the ballet dancer's window.
+0021_Rear_Window_00.42.59.886-00.43.03.386 	then his eye travels briefly back to the kitchen; then return to the living room.
+0021_Rear_Window_01.03.31.578-01.03.39.034 	he lowers the lens, and we see jeff's eyes travel across the screen, as he imagines thorwald's progression.
+0021_Rear_Window_01.13.57.815-01.13.59.287 	slowly doyle's eyes travel back to jeff.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.12.51.753-01.12.53.159 	gimli's eyes travel to a row of ancient standing stones that mark the entrance to a road leading away from the encampment and into the mountain.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.24.00.787-02.24.01.776 	frodo's eyes travel down towards the hundreds of fires which glow on the plains beneath them thousands upon thousands of orcs are encamped there.
+0028_The_Crying_Game_00.57.06.543-00.57.22.631 	she opens the buttons on his shirt and her mouth travels down his chest.
+0028_The_Crying_Game_01.03.58.421-01.04.00.889 	the camera travels with it, and we see, in a close-up, that she is a man.
+0028_The_Crying_Game_01.27.40.293-01.27.42.568 	his hands travel up to her blouse.
+0031_The_Lost_Weekend_00.02.25.219-00.02.28.197 	his eyes travel to the window.
+0038_Psycho_01.17.07.118-01.17.09.480 	camera follows, remaining on floor level but travelling along the stairway as arbogast makes his way up.
+0049_Hannah_and_her_sisters_01.24.10.872-01.24.21.160 	the man takes one, mouthing his thanks, as the camera travels past the open bookshelf, past two boys in suits who are drinking soda and munching, to reveal lee.
+0050_Indiana_Jones_and_the_last_crusade_00.28.09.885-00.28.12.014 	indy's eyes travel up one of the four huge marble columns.
+1002_Harry_Potter_and_the_Half-Blood_Prince_00.02.02.800-00.02.07.919 	traveling down narrow alleys, back streets, and through solid walls, they hurtle into diagon alley, where they swoop into a shop.
+1018_Body_Of_Lies_01.43.45.425-01.44.01.669 	the van travels across the barren and scorched land leaving a trail of dust.
+1031_Quantum_of_Solace_00.05.15.385-00.05.18.932 	a red dot travels sideways.
+1034_Super_8_01.13.17.939-01.13.20.864 	he sees a convoy of vehicles traveling along an adjacent road.
+1035_The_Adjustment_Bureau_00.19.20.060-00.19.22.509 	a line travels at right angles across a map.
+1044_Pride_And_Prejudice_Disk_Two_00.36.17.427-00.36.25.710 	lizzie and the gardiners are traveling through the rolling hills of the peaks.
+1044_Pride_And_Prejudice_Disk_Two_01.18.48.614-01.18.54.247 	meanwhile, mr. darcy is traveling in a carriage, his expression thoughtful and determined.
 1053_Harry_Potter_and_the_philosophers_stone_00.23.09.168-00.23.12.034 	they travel on an under ground railway
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.19.42.573-00.19.53.157 	steam billows from the funnel as the hogwarts express travels through the rain beside the edge of a vast lake.
 1059_The_devil_wears_prada_00.16.49.000-00.16.58.000 	miranda's eyes travel down andy's body, taking in her plaid skirt, black tights, and fixing on her sensible, black flat shoes.
 1059_The_devil_wears_prada_01.17.49.049-01.17.54.000 	andy is sitting in the back of a chic, chauffeur-driven car as they travel through the paris streets and among the champs elysees.
+1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.14.59.813-00.15.03.212 	traveling at incredible speed, the cart's single headlight illuminates a waterfall gushing beneath the track.

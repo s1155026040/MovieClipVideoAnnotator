@@ -1,245 +1,422 @@
-0001_American_Beauty_00.03.48.439-00.03.50.495 	Lester hurries out the front door, carrying a BRIEFCASE.
-0001_American_Beauty_00.06.32.358-00.06.33.947 	Movers carry furniture toward the house.
-0001_American_Beauty_00.15.28.609-00.15.29.176 	They're well-rehearsed, but too young to carry off the ambitious Vegas routine they're attempting.
-0001_American_Beauty_00.03.48.439-00.03.50.495 	Lester hurries out the front door, carrying a BRIEFCASE.
-0001_American_Beauty_00.06.32.358-00.06.33.947 	Movers carry furniture toward the house.
-0001_American_Beauty_00.15.28.609-00.15.29.176 	They're well-rehearsed, but too young to carry off the ambitious Vegas routine they're attempting.
-0001_American_Beauty_00.32.05.260-00.32.06.732 	Ricky approaches him, wearing a waiter's uniform, carrying a tray of empty glasses.
-0001_American_Beauty_00.50.06.280-00.50.12.359 	Carolyn, carrying a basket of fresh cut ROSES, passes by the GARAGE WINDOW.
-0001_American_Beauty_01.02.02.609-01.02.04.920 	We follow it as the wind carries it in a circle around us, sometimes whipping it about violently, or, without warning, sending it soaring skyward, then letting it float gracefully down to the ground.
-0001_American_Beauty_01.55.21.331-01.55.26.316 	The wind carries it in a circle around us, sometimes whipping it about violently, or, without warning, sending it soaring skyward, then letting it float gracefully down to the ground.
-0002_As_Good_As_It_Gets_02.01.50.169-02.01.55.135 	We enters the room carrying Verdell who strains to be allowed closer to Melvin.
-0004_Charade_00.08.06.506-00.08.07.216 	REGGIE walks toward the house with the driver, who carries her cases.
-0004_Charade_00.11.51.934-00.11.57.302 	The door opens and the POLICEMAN enters again, this time carrying a wicker basket which he deposits on GRANDPIERRE's desk, and leaves.
-0004_Charade_00.55.35.163-00.55.35.767 	Then, to his amazement, DYLE is lifted into the air and, unable to break the bear-hold, carried toward the edge of the roof.
-0004_Charade_00.56.01.051-00.56.02.728 	With nothing restraining him, SCOBIE lurches forward, tumbling past the gun, his momentum carrying him onto the sloping part of the roof, where he begins sliding down.
-0005_Chinatown_00.41.25.007-00.41.28.081 	Then he's inundated with a rush of water which pours over him, knocks off his hat, carries him down the channel, banging into its banks, as he desperately tries to grab some of the overgrowth to hang on and pull himself out.
-0005_Chinatown_00.41.28.681-00.41.32.111 	But the force of the stream batters him and carries him with it until he's brought rudely to the chainlink fence.
-0005_Chinatown_01.20.29.163-01.20.31.259 	Evelyn comes out to the veranda, carrying a tray with whiskey and an ice bucket on it.
-0005_Chinatown_01.31.39.265-01.31.42.423 	In a moment he re-emerges back through the living room carrying a tray with a glass and pitcher on it.
-0006_Clerks_00.10.09.708-00.10.11.273 	The ACTIVIST carries his briefcase surreptitiously toward the door.
-0006_Clerks_00.39.04.275-00.39.04.677 	VERONICA enters the store, carrying books and something covered with aluminum foil.
-0006_Clerks_00.58.26.393-00.58.29.671 	A SUITED MAN carrying a notebook comes to the counter.
-0006_Clerks_01.08.34.068-01.08.35.464 	RANDAL enters carrying videos.
-0007_DIE_NACHT_DES_JAEGERS_00.46.20.196-00.46.31.978 	The door opens; PREACHER'S head, carrying a candle in holder; a white-washed wall and stairs are lighted.
-0007_DIE_NACHT_DES_JAEGERS_00.51.32.447-00.51.34.506 	The CHILDREN precede PREACHER, who carries a candle in holder.
-0007_DIE_NACHT_DES_JAEGERS_01.07.24.976-01.07.25.104 	She carries a berry- basket on her arm.
-0007_DIE_NACHT_DES_JAEGERS_01.07.55.571-01.07.58.414 	The three girls enter, their backs to us, carrying baskets of tomatoes.
-0007_DIE_NACHT_DES_JAEGERS_01.08.56.486-01.09.00.010 	All carry baskets.
-0007_DIE_NACHT_DES_JAEGERS_01.21.33.944-01.21.35.741 	RUBY enters SHOT carrying a candle.
-0007_DIE_NACHT_DES_JAEGERS_01.25.46.588-01.25.47.777 	She carries JOHN towards the house.
-0007_DIE_NACHT_DES_JAEGERS_01.27.09.600-01.27.09.907 	ICEY carries a torch.
-0007_DIE_NACHT_DES_JAEGERS_01.27.09.907-01.27.11.131 	She is flanked by rabid faces and by smiling LOAFERS, one of whom carries an axe.
-0008_Fargo_00.06.34.964-00.06.40.215 	He is carrying a bag of groceries which he deposits on the kitchen counter.
-0008_Fargo_00.08.35.169-00.08.41.086 	The highway carries one moving car.
-0008_Fargo_00.23.18.664-00.23.21.130 	The scrape-scrape-scrape sound carries in the frigid air.
-0008_Fargo_00.25.33.091-00.25.36.273 	It is a flannel-shirt woodsman carrying a double-edged axe over one shoulder.
-0009_Forrest_Gump_00.33.00.399-00.33.01.823 	Bubba's mother, a robust woman in a cook's uniform, carries a bowl of shrimp into a dining room.
-0009_Forrest_Gump_00.33.04.186-00.33.06.019 	Bubba's grandmother carries a bowl of shrimp into a dining room.
-0009_Forrest_Gump_00.37.54.464-00.38.00.052 	Forrest climbs up onto the stage and picks Jenny up, guitar and all, and carries her.
-0009_Forrest_Gump_00.51.42.689-00.52.00.486 	Forrest carries Tex out of the jungle and into the clearing.
-0009_Forrest_Gump_00.54.49.833-00.55.01.112 	Forrest carries Bubba through the jungle.
-0009_Forrest_Gump_00.55.12.556-00.55.22.387 	Forrest runs, carrying Bubba.
-0009_Forrest_Gump_00.55.30.941-00.55.38.213 	Forrest carries Bubba to the bank of the river.
-0009_Forrest_Gump_01.11.22.628-01.11.26.140 	Jenny carries a backpack as she prepares to board a bus back to Berkeley.
-0009_Forrest_Gump_01.50.53.122-01.50.59.793 	Jenny carries her purse and walks toward a waiting cab.
-0009_Forrest_Gump_02.07.20.872-02.07.23.987 	He carries a tray with breakfast on it.
-0010_Frau_Ohne_Gewissen_00.07.27.289-00.07.28.932 	He carries a briefcase, his hat is a little on the back of his head.
-0010_Frau_Ohne_Gewissen_00.35.43.840-00.35.44.837 	In the BACKGROUND Dietrichson begins to ascend the stairs, carrying his coat and glass.
-0010_Frau_Ohne_Gewissen_00.53.00.455-00.53.01.333 	Phyllis, carrying the suitcase and overcoat, and Neff, still a little behind her, come TOWARDS THE CAMERA.
-0010_Frau_Ohne_Gewissen_01.00.50.398-01.00.51.313 	He is carrying a file of papers and smoking a cigar.
-0010_Frau_Ohne_Gewissen_01.03.52.189-01.03.53.124 	She wears a gray tailored suit, small black hat with a veil, black gloves, and carries a black bag.
-0010_Frau_Ohne_Gewissen_01.13.56.620-01.13.57.487 	Several people come out, among them Neff, carrying his briefcase.
-0010_Frau_Ohne_Gewissen_01.29.38.946-01.29.39.284 	A stream of office employees is coming out of an elevator; a second elevator reaches the lobby and some more office employees come out, among them Neff, wearing his hat and carrying his briefcase.
-0010_Frau_Ohne_Gewissen_01.34.07.908-01.34.09.463 	She wears white lounging pajamas, and she is carrying something small and heavy concealed in a scarf in her right hand.
-0010_Frau_Ohne_Gewissen_01.40.35.924-01.40.38.321 	Slowly he lifts her and carries her to the davenport.
-0011_Gandhi_00.18.09.597-00.18.11.449 	Ahead of them three youths (twenty, twenty-one) in working clothes, carrying lunch boxes, lean indolently against a building directly in their path.
-0011_Gandhi_00.21.57.806-00.21.58.783 	This carries a weight and apprehension that none of the rest of the conversation has.
-0011_Gandhi_00.22.11.560-00.22.12.476 	Reluctant as it is, it too carries commitment and Walker senses it.
-0011_Gandhi_00.34.29.860-00.34.30.069 	It is a command, and angry in its own way, but it carries all the weight of his influence on them.
-0011_Gandhi_00.51.01.134-00.51.02.777 	Some carry infants on their backs.
-0011_Gandhi_01.01.55.359-01.01.58.496 	They watch Gandhi as he carries his bowl of potatoes to Ba.
-0011_Gandhi_01.01.59.850-01.02.01.411 	Gandhi plods on toward the kitchen, carrying the bowl of potatoes.
-0011_Gandhi_01.37.56.353-01.37.57.299 	As their defiant roar carries through the night air we see that Gandhi sits cross-legged on the platform.
-0011_Gandhi_01.41.45.024-01.41.45.148 	He is carrying a baby wrapped in rags.
-0011_Gandhi_01.49.17.933-01.49.19.736 	She carries a small tray with a pitcher and a glass.
-0011_Gandhi_01.59.15.048-01.59.17.098 	We see from Walker's point of view an Indian woman walking along the road, leading a tall camel that carries sacks of produce.
-0011_Gandhi_02.47.09.980-02.47.14.486 	A surging gang of youths, many carrying torches, and far outnumbering the little group of police and soldiers, are shouting up at the roof.
-0013_Halloween_00.12.06.759-00.12.12.987 	She carries a large bundle of school books in her arms.
-0013_Halloween_00.28.30.359-00.28.35.309 	She carries a totebag with schoolbooks and knitting needles stuck inside, and a large pumpkin.
-0013_Halloween_00.45.57.781-00.45.59.573 	She is wearing a nylon robe and carrying her clothes to be washed.
-0013_Halloween_00.50.51.836-00.50.53.964 	Lindsey carries a bowl of popcorn.
-0013_Halloween_00.55.29.667-00.55.36.076 	The figure of a MAN carries what seems to be a BODY across the Wallace's back yard.
-0013_Halloween_00.59.30.777-00.59.33.569 	Bob picks Lynda up and carries her up to the front door.
-0013_Halloween_01.00.42.083-01.00.43.947 	As it gets closer, we see that Laurie is carrying a Jack-O-Lantern, with a candle illuminating from the center of the pumpkin.
-0014_Ist_das_Leben_nicht_schoen_00.15.47.903-00.15.51.142 	Harry and his mother come out of the kitchen, Harry carrying a pie in each hand and balancing one on his head.
-0014_Ist_das_Leben_nicht_schoen_00.19.04.397-00.19.04.939 	He and Harry are carrying plates and pies.
-0014_Ist_das_Leben_nicht_schoen_00.24.08.778-00.24.10.727 	Each is carrying their wet clothes tied into a bundle that leaves a trail of dripping water.
-0014_Ist_das_Leben_nicht_schoen_01.03.51.924-01.03.58.049 	Martini and George, assisted by three of the Martini children, are carrying out the last of the furniture.
-0014_Ist_das_Leben_nicht_schoen_02.05.03.658-02.05.10.598 	Mary leads George, who is carrying a couple of the kids on his back, to a position in front of the Christmas tree.
-0014_Ist_das_Leben_nicht_schoen_02.05.24.021-02.05.25.619 	Uncle Billy, face flushed, covered with snow, and carrying a clothes basket filled with money, bursts in.
-0016_O_Brother_Where_Art_Thou_00.39.54.320-00.40.00.303 	In the foreground two little black boys are walking home, each carrying a block of ice.
-0016_O_Brother_Where_Art_Thou_01.05.47.800-01.05.50.713 	A man carrying a shotgun enters the auditorium.
-0016_O_Brother_Where_Art_Thou_01.21.18.716-01.21.19.583 	Each is carrying a musical-instrument case.
-0016_O_Brother_Where_Art_Thou_01.33.06.994-01.33.15.171 	A crowd carrying torches jogs behind a man in clanking leg irons and wrist manacles who is being escorted by four policemen trotting alongside, their nightsticks held across their chests in riot-ready formation.
-0017_Pianist_00.02.25.884-00.02.27.278 	And he, too, is carried with the flow into the lobby.
-0017_Pianist_00.11.29.819-00.11.33.942 	Father, wearing the Star of David armband, walks slowly along, carrying a string bag containing potatoes and carrots, his eyes fixed on the pavement as if his thoughts are a million miles away.
-0017_Pianist_00.17.40.912-00.17.48.113 	As they walk, carrying the basket between them, passing beggars and children asking for food.
-0017_Pianist_00.30.00.926-00.30.06.917 	Without warning, the SS men seize the chair with the old man in it, carry him out on to the balcony.
-0017_Pianist_00.34.44.928-00.34.48.694 	Szpilman waits and watches, and then a POOR WOMAN passes, carrying a can wrapped in newspaper followed by a RAGGED OLD MAN, dragging himself along.
-0017_Pianist_00.39.16.080-00.39.22.503 	A great mass of agitated people crossing only one way: from the small ghetto to the large ghetto, carrying their belongings.
-0017_Pianist_00.39.49.556-00.39.52.535 	They carry the stuff into the warehouse.
-0017_Pianist_00.43.44.093-00.43.46.545 	Women carrying dehydrated children drag themselves from group to group.
-0017_Pianist_01.14.21.192-01.14.24.032 	A rickshaw carrying Szpilman and Bogucki travels along the dark streets.
-0017_Pianist_01.34.20.937-01.34.32.431 	Michal carries a bag of provisions and puts them on a table while Szpilman goes immediately to the window and looks out.
-0017_Pianist_01.44.13.293-01.44.14.849 	Last, three young Poles, carrying long objects wrapped in newspaper.
-0017_Pianist_01.44.14.849-01.44.16.719 	One of the men looks at his watch, glances around, then suddenly kneels and puts the package he's carrying to his shoulder.
-0017_Pianist_02.13.48.456-02.13.54.037 	Men carry out boxes, filing cabinets, desks, papers and load them into trucks.
-0017_Pianist_02.13.56.104-02.14.05.793 	He opens the trapdoor to see the German Captain in the attic, carrying a package.
-0019_Pulp_Fiction_00.24.26.031-00.24.29.219 	Vincent, carrying the black briefcase from the scene between Vincent and Jules, steps inside.
-0019_Pulp_Fiction_01.20.01.470-01.20.04.648 	Butch's head goes down out of frame to carry out the oral pleasure.
-0019_Pulp_Fiction_01.34.40.511-01.34.42.986 	The big man himself, Marsellus Wallace, exit Teriyaki Donut, carrying a box of a dozen donuts and two large styrofoam cups of coffee.
-0021_Rear_Window_00.06.12.254-00.06.15.529 	He carries a large aluminum sample case common to salesmen.
-0021_Rear_Window_00.07.35.178-00.07.36.588 	In one hand the man carries a small garden hoe and rake, and in the other a pair of trimming shears.
-0021_Rear_Window_00.07.43.680-00.07.44.661 	She carries a copy of the Herald Tribune, and still wears her hearing aid.
-0021_Rear_Window_00.08.35.078-00.08.35.437 	She carries a small black bag.
-0021_Rear_Window_00.15.06.474-00.15.10.226 	When they reappear, he is carrying her in his arms, over the threshold.
-0021_Rear_Window_00.17.57.735-00.18.01.064 	She turns to look at him, and moves toward him, carrying the cigarette box.
-0021_Rear_Window_00.18.37.915-00.18.38.992 	He's carrying in one hand a large portable warming oven, and in the other hand an ice bucket containing a bottle of wine covered with a napkin.
-0021_Rear_Window_00.19.07.285-00.19.09.980 	Carl comes out of the kitchen carrying the empty warming oven.
-0021_Rear_Window_00.24.53.162-00.25.01.475 	The salesman has prepared a dinner tray, and is carrying it from the kitchen, through the living room, into the bedroom.
-0021_Rear_Window_00.26.24.720-00.26.28.240 	Lisa is emerging from the kitchen, carrying the serving dish of their lobster thermidor.
-0021_Rear_Window_00.42.36.586-00.42.40.086 	Having completed his job, he emerges from the kitchen carrying the newspaper- wrapped parcel.
-0021_Rear_Window_00.42.45.386-00.42.45.886 	He is not carrying anything.
-0021_Rear_Window_00.50.28.348-00.50.29.848 	She is carrying a tray with breakfast on it.
-0021_Rear_Window_00.51.22.994-00.51.30.494 	The hand carrying the bacon to Jeff's mouth hesitates for a moment.
-0021_Rear_Window_00.52.20.061-00.52.20.561 	One of them carries a clipboard.
-0021_Rear_Window_00.52.30.862-00.52.52.701 	A close view shows the two man carrying the trunk across the living room toward the corridor.
-0021_Rear_Window_01.02.34.311-01.02.36.555 	She pauses as she crosses the room carrying a tray of food.
-0021_Rear_Window_01.03.22.153-01.03.23.345 	It is Thorwald, carrying a light-weight cardboard box under his arm.
-0021_Rear_Window_01.03.48.705-01.03.51.162 	As he hesitates, we are able to see the cardboard box he is carrying has the name of a laundry on it.
-0021_Rear_Window_01.06.05.311-01.06.09.974 	Having completed his call, Thorwald returns to the bedroom carrying the handbag.
-0021_Rear_Window_01.24.19.492-01.24.21.846 	He turns to carry it's into the apartment.
-0021_Rear_Window_01.35.18.914-01.35.22.284 	She looks, waves at Jeff as Stella comes up to her carrying a shovel.
-0022_Reservoir_Dogs_00.11.10.535-00.11.17.164 	Then the door swings open, and Mr. White carries the bloody body of Mr. Orange inside.
-0022_Reservoir_Dogs_00.58.00.986-00.58.10.259 	He walks back inside the warehouse carrying the can of gas.
-0023_THE_BUTTERFLY_EFFECT_00.13.40.739-00.13.42.084 	Kayleigh and Tommy are helping Lenny up and carrying him.
-0023_THE_BUTTERFLY_EFFECT_00.29.10.302-00.29.11.705 	Plenty of underage students carry pitchers of beer to their tables.
-0023_THE_BUTTERFLY_EFFECT_01.35.54.881-01.35.57.307 	Kayleigh carries a pair of prosthetic arms in her hands.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.36.41.536-00.36.42.298 	Gandalf leads his Horse.Frodo and Sam are carrying knapsacks.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.04.23.792-01.04.26.340 	A DISTANT CRY of a RINGWRAITH carries through the air.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.15.24.423-01.15.32.519 	Gwaihir the Eagle soars majestically over the mountains, carrying Gandalf towards the dawn.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.09.17.170-02.09.30.188 	Boromir scoops him up and carries him away.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.24.59.999-02.25.02.338 	Lurtz is leading 200 URUK-HAI out of Isengard.they run fast, their powerful legs carrying them at speed.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.26.00.756-02.26.11.662 	The Three Elven boats carry the Fellowship steadily southward.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.32.59.165-02.33.01.098 	Somewhere behind him, Boromir's distraught voice carries from another dimension.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.26.18.123-00.26.21.504 	SHADOWFAX carried GANDALF and PIPPIN out of the GATE and down the WINDING ROAD towards the PLAINS QF ROHAN.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.32.51.113-00.32.58.262 	AERIAL SHOT: SHADOWFAX, carrying GANDALF and PIPPIN up towards the 7th LEVEL.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.38.25.846-00.38.29.358 	GIANT MUMAKIL carrying ARMIES upon their backs.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.44.28.381-00.44.32.508 	MANY BOATS, carrying MURDEROUS-LOOKING ORCS, are quietly tracking down the RIVER.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.47.08.749-01.47.14.595 	PIPPIN watches as FARAMIR'S UNCONSCIOUS BODY is carried on the STRETCHER by DENETHOR'S SERVANTS lead by DENETHOR.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.54.35.037-01.54.43.707 	and CARRY him back towards the WATCH TOWER.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.54.46.285-01.54.48.545 	FRODO is carried up the steep STAIRS.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.55.20.497-01.55.28.768 	He roughly carries him towards the door.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.04.07.398-02.04.17.487 	MASSIVE elephant-like CREATURES, each carrying a WAR-TOWER, packed with HARADRIM ARCHERS.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.55.51.946-02.55.55.035 	A BANNER carried aloft bearing the WHITE TREE of GONDOR in FULL FLOWER.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.56.01.824-02.56.19.079 	carrying the STANDARD of GONDOR.
-0026_The_Big_Fish_00.07.36.551-00.07.38.597 	The door swings open to reveal a drenched Will (29) carrying four sacks of groceries, the bottoms collapsing from the rain.
-0026_The_Big_Fish_00.21.33.008-00.21.41.994 	Edward carries a dog out of a burning house.
-0026_The_Big_Fish_00.30.57.256-00.30.58.051 	He's carrying a clipboard.
-0026_The_Big_Fish_00.46.17.223-00.46.18.388 	He's still carrying the backpack we saw earlier, and scratched up from his trip through Spectre.
-0026_The_Big_Fish_01.09.47.479-01.09.49.603 	Ping sings melody while an off-stage voice carries perfect harmony.
-0026_The_Big_Fish_01.52.56.461-01.52.57.823 	Will carries him easily.
-0027_The_Big_Lebowski_01.46.37.575-01.46.45.616 	Walter is carrying a bright red coffee can with a blue plastic lid.
-0028_The_Crying_Game_00.11.20.307-00.11.21.062 	She is carrying a pot of tea and two cups.
-0029_The_Graduate_00.25.22.045-00.25.39.129 	He stands up in the booth, looks around, moves about uncomfortably for a few moments, removes his jacket and carrying it folded across his arm in front of him, leaves the phone booth and crosses to the doors that lead to the main lobby.
-0029_The_Graduate_00.39.21.206-00.39.24.897 	Mrs. Braddock is going toward him from the house, carrying some ominously large thing wrapped in tinfoil.
-0029_The_Graduate_00.41.43.629-00.41.51.389 	Mrs. Robinson, now fully dressed and carrying her purse, passes through again and, without looking at Ben, goes to the door of the hotel room, opens it and exits.
-0029_The_Graduate_01.09.02.269-01.09.05.874 	Then he grabs the keys out of the ignition, opens the door on his side and jumps out of the car, carrying the package.
-0029_The_Graduate_01.09.22.212-01.09.23.750 	He still carries the package.
-0029_The_Graduate_01.09.24.625-01.09.25.417 	She is wearing a skirt and slip and carrying one shoe.
-0029_The_Graduate_01.16.02.874-01.16.06.598 	She walks, carrying her books, in Ben's direction.
-0029_The_Graduate_01.24.49.819-01.24.53.289 	He goes back to the bureau, gets some socks and underwear and carries them to the suitcase.
-0029_The_Graduate_01.24.53.289-01.24.55.610 	He goes back to the bureau, opens a drawer, takes out some T- shirts and the beer can and carries them to the suitcase.
-0029_The_Graduate_01.30.49.211-01.30.52.113 	Ben enters carrying four oddly shaped boxes and some flowers.
-0030_The_Hustler_00.37.32.899-00.37.39.935 	As Eddie enters, carrying his bags, a few early morning travelers -- some soldiers and a man in a Stetson hat -- pass him by.
-0030_The_Hustler_01.06.15.081-01.06.21.243 	Taking her ashtray, Eddie rises, runs his hand through her hair for a moment, and then carries off the ashtray and empties it in the garbage bag.
-0030_The_Hustler_01.36.30.593-01.36.34.507 	The redcap exits, carrying the luggage.
-0031_The_Lost_Weekend_00.29.57.188-00.30.08.327 	They are wearing raincoats, carrying umbrellas.
-0031_The_Lost_Weekend_00.35.47.437-00.36.00.933 	As they go on talking, they walk from the cloak room, through the vestibule, to the street, Don carrying his coat over his arm.
-0031_The_Lost_Weekend_00.42.31.306-00.42.32.006 	He wears a hat and carries a brief-case.
-0031_The_Lost_Weekend_00.57.50.958-00.57.52.349 	Don carries the bag under his open coat by the pressure of his upper arm.
-0031_The_Lost_Weekend_01.14.47.485-01.14.51.594 	At this moment the door is opened by another male nurse, carrying a pile of clean sheets and pillow cases.
-0031_The_Lost_Weekend_01.37.59.852-01.38.11.216 	Helen takes the typewriter, carries it toward the desk.
-0032_The_Princess_Bride_00.07.59.019-00.07.59.838 	The giant Fezzik carries Buttercup, unconscious, on board.
-0032_The_Princess_Bride_00.14.20.188-00.14.22.691 	And he starts to ascend the rope, carrying them all along with him as he goes.
-0032_The_Princess_Bride_00.25.10.425-00.25.11.327 	FEZZIK, carrying the Princess, stands alongside.
-0032_The_Princess_Bride_00.43.30.107-00.43.40.090 	Westley picks her up, carrying her across some swamp water that is bridged by a narrow, rickety tree branch.
-0032_The_Princess_Bride_00.50.30.460-00.50.42.729 	Dead pale, he silently enters the pit, carrying a tray of food and medication.
-0032_The_Princess_Bride_01.10.52.914-01.10.53.134 	FEZZIK carries Westley who is just starting to stiffen up a little.
-0033_Amadeus_00.03.22.552-00.03.25.646 	As the fast music returns, we see Old Salieri being carried out of his house on a stretcher by two attendants, and placed in a horse-drawn wagon under the supervision of a middle- aged doctor in a tall hat.
-0033_Amadeus_01.17.46.266-01.17.47.643 	He carries the bag across the room.
-0033_Amadeus_01.31.03.324-01.31.07.935 	To its lively music, the door of the house bursts open and a grand forte-piano augmented with a pedal is carried out of it by six men, who run off with it down the street.
-0038_Psycho_00.33.20.853-00.33.22.215 	We see Norman coming down the path, carrying a napkin-covered tray.
-0038_Psycho_01.14.14.357-01.14.18.167 	He carries sheets on his arm.
-0038_Psycho_01.47.08.399-01.47.10.825 	The Guard is carrying a folded blanket over his arm.
-0038_Psycho_01.47.18.610-01.47.23.622 	The Police Guard, carrying the blanket, comes down this corridor, goes to the door.
-0041_The_Sixth_Sense_00.52.19.890-00.52.25.284 	The front door opens, Lynn carries Cole in.
-0041_The_Sixth_Sense_00.52.36.595-00.52.49.548 	She carries him down the hall to his BEDROOM.
-0041_The_Sixth_Sense_00.52.46.103-00.52.48.218 	Lynn has been carrying Cole's sweater from over her shoulder.
-0041_The_Sixth_Sense_01.06.20.987-01.06.24.311 	He's carrying an antique bench in his arms.
-0041_The_Sixth_Sense_01.24.31.935-01.24.35.993 	We see it carried away by Kyra.
-0041_The_Sixth_Sense_01.24.46.514-01.24.51.848 	She carries in a tray of soup and a sandwich.
-0041_The_Sixth_Sense_01.28.56.236-01.29.02.573 	They scoop him up and carry him around the stage in celebration.
-0046_Chasing_Amy_00.57.06.760-00.57.08.479 	Banky carries a bag in one arm and pulls out his keys with the other.
-0049_Hannah_and_her_sisters_00.02.07.992-00.02.09.988 	Everyone is talking at once, carrying on easy, familiar conversation.
-0049_Hannah_and_her_sisters_00.02.38.097-00.02.42.128 	Both are holding drinks as Lee, carrying a tray of hors d'oeuvres and two drinks, walks between them.
-0049_Hannah_and_her_sisters_00.02.50.263-00.02.53.201 	Hannah, carrying a tray of hors d'oeuvres, walks up behind the distracted Elliot.
-0049_Hannah_and_her_sisters_00.04.28.392-00.04.30.474 	As they continue to sing, the film cuts back to the kitchen, where Lee, carrying some glasses, enters through the doorway.
-0049_Hannah_and_her_sisters_00.05.22.611-00.05.26.121 	Hannah's children are playing in the room as Hannah enters, carrying a huge roast turkey.
-0049_Hannah_and_her_sisters_00.05.23.482-00.05.28.877 	Behind her is Holly, carrying a casserole.
-0049_Hannah_and_her_sisters_00.08.11.673-00.08.18.667 	Mavis the maid exits, carrying some trays, as the group starts to cheer and applaud.
-0049_Hannah_and_her_sisters_00.19.17.380-00.19.22.511 	As Holly carries the quiche outside to the party, April comes back into the kitchen from another doorway.
-0049_Hannah_and_her_sisters_00.26.21.219-00.26.31.637 	An unseen Elliot and Lee carry on a conversation as the camera moves down an aisle, past the rows of books.
-0049_Hannah_and_her_sisters_01.08.05.111-01.08.09.032 	A man carrying a shopping bag walks down the steps; he passes them.
-0049_Hannah_and_her_sisters_01.13.40.420-01.13.44.275 	His father walks into view, carrying a teacup and a candy dish.
-0049_Hannah_and_her_sisters_01.14.25.396-01.14.35.278 	Mickey's father comes back on screen; he's carrying a plate of hors d'oeuvres and an empty glass towards the kitchen.
-0049_Hannah_and_her_sisters_01.15.03.828-01.15.10.033 	Father Flynn puts the books on top of Mickey's pile; Mickey, flipping through the top one, awkwardly carries his bundle to the door.
-0049_Hannah_and_her_sisters_01.15.33.658-01.15.37.985 	He closes the door and walks through his dark foyer; he carries a brown bag.
-0049_Hannah_and_her_sisters_01.20.29.506-01.20.35.361 	Lee, wearing jeans and carrying an armful of books, is running up a broad set of steps in the sunlight, greeting other students as she passes.
-0049_Hannah_and_her_sisters_01.24.43.474-01.24.44.975 	She carries two tomatoes.
-0049_Hannah_and_her_sisters_01.25.22.221-01.25.27.652 	Holly wipes her hand on the towel as Hannah reenters the kitchen, carrying even more vegetables.
-0049_Hannah_and_her_sisters_01.26.00.491-01.26.06.546 	Hannah picks up a large bowl and carries it, as well as her armload of spices, into the pantry area.
-0049_Hannah_and_her_sisters_01.39.53.145-01.39.57.466 	As Mavis leaves the kitchen, Lee enters, carrying some empty glasses.
-0049_Hannah_and_her_sisters_01.40.33.415-01.40.35.829 	The camera shows his point of view: Guests stand in clusters, enjoying themselves; one woman chats with a little boy; another woman, carrying a drink, walks over to a group of other guests.
-0050_Indiana_Jones_and_the_last_crusade_00.33.09.081-00.33.15.607 	Indy lifts her and carries Elsa as he moves forward.
-0050_Indiana_Jones_and_the_last_crusade_00.44.28.135-00.44.31.788 	A GONDOLIER SINGS as he steers his gondola carrying two passengers past Indy's window.
-0050_Indiana_Jones_and_the_last_crusade_00.46.46.887-00.46.50.897 	Indy carries a gun in his hand and his whip hangs from his belt.
-0050_Indiana_Jones_and_the_last_crusade_01.24.21.517-01.24.22.954 	The Turkish soldiers wear native dress and carry both carbines and sabers.
-0050_Indiana_Jones_and_the_last_crusade_01.24.26.253-01.24.27.402 	Brody sits alongside Elsa in the rear of the car carrying Donovan.
-0051_Men_in_black_00.13.23.398-00.13.29.152 	Edgar is everything his voice led us to expect -- a nasty, bug-eyed redneck carrying a twelve-gauge shotgun.
-0051_Men_in_black_00.38.40.989-00.38.41.194 	The Older Man (ROSENBERG), is carrying a cat and an ornate rosewood jewelry box.
-0051_Men_in_black_00.41.06.133-00.41.09.400 	ROSENBERG, the jewelry store owner, steps out of a cab in the meat-packing district, still carrying the ornate box and his beloved cat.
-0051_Men_in_black_01.16.51.679-01.16.52.223 	Behind him, abandoned on the front seat of the cab, we finally see the front of the postcard he's been carrying around.
-0053_Rendezvous_mit_Joe_Black_00.06.27.532-00.06.41.213 	A BUTLER and May carry the overnight bags for the family as led by Parrish, they hurry towards the helicopter.
-1001_Flight_00.34.50.660-00.34.56.148 	He strides to the corridors carrying a bag in his hand and another slung over his shoulder.
-1001_Flight_00.47.26.625-00.47.36.750 	Whip carries a plastic bag into the kitchen and places it on a dining table.
-1001_Flight_00.49.32.890-00.49.45.542 	He lifts the bulging plastic trash bag out of the trash can and carries it outside.
-1001_Flight_01.15.30.116-01.15.38.405 	At a church, a large framed picture of Katerina stands surrounded by flowers as a coffin is carried out.
-1001_Flight_01.32.15.510-01.32.21.021 	She carries a suitcase and a basket, and walks away from the house.
-1001_Flight_01.48.54.318-01.48.57.934 	Charlie exits an elevator carrying three coffees.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.39.51.845-00.39.54.001 	A figure carrying an umbrella marches towards the building.
-1002_Harry_Potter_and_the_Half-Blood_Prince_02.02.04.768-02.02.10.986 	The boat slowly carries them across the still water towards the island.
-1003_How_to_Lose_Friends_and_Alienate_People_00.28.07.184-00.28.13.650 	Sidney saunters over to Alison carrying a plate piled high with finger foods.
-1003_How_to_Lose_Friends_and_Alienate_People_01.21.40.495-01.21.48.439 	With white face paint, fangs and a cape, he carries a glass of wine as he finds Elena dressed as Marlene Dietrich.
-1004_Juno_01.20.36.485-01.20.39.569 	Mac smiles to himself and carries on tinkering.
-1005_Signs_00.04.28.300-00.04.38.017 	Graham stands and slowly walks through the maize, followed by Merrill, who's still carrying Bo in his arms.
-1005_Signs_00.11.00.017-00.11.08.179 	He carries Bo back to the farmhouse as Merrill emerges, carrying a bowl and a bag of feed.
-1005_Signs_01.31.39.870-01.31.51.703 	Graham carries Morgan slowly up the stairs and into the kitchen, where chairs are strewn across the floor, and the fridge door is open.
-1005_Signs_01.31.52.995-01.32.03.369 	Bo follows her father and then wanders out into the hallway as Graham carries Morgan through the dining room and into the living room, staring at the broken planks across the windows.
-1006_Slumdog_Millionaire_01.06.28.143-01.06.35.428 	Jamal carries a tray of tea at the call center.
-1006_Slumdog_Millionaire_01.52.07.445-01.52.11.288 	The car carrying a bleeding Latika reverses to the station.
-1007_Spider-Man1_00.24.47.143-00.24.49.873 	Then he slides on his back down the corridor, collides with a teacher carrying the tray and ends up with more food on him.
+0001_American_Beauty_00.03.48.439-00.03.50.495 	lester hurries out the front door, carrying a briefcase.
+0001_American_Beauty_00.06.32.358-00.06.33.947 	movers carry furniture toward the house.
+0001_American_Beauty_00.15.28.609-00.15.29.176 	they're well-rehearsed, but too young to carry off the ambitious vegas routine they're attempting.
+0001_American_Beauty_00.32.05.260-00.32.06.732 	ricky approaches him, wearing a waiter's uniform, carrying a tray of empty glasses.
+0001_American_Beauty_00.50.06.280-00.50.12.359 	carolyn, carrying a basket of fresh cut roses, passes by the garage window.
+0001_American_Beauty_01.02.02.609-01.02.04.920 	we follow it as the wind carries it in a circle around us, sometimes whipping it about violently, or, without warning, sending it soaring skyward, then letting it float gracefully down to the ground.
+0001_American_Beauty_01.55.21.331-01.55.26.316 	the wind carries it in a circle around us, sometimes whipping it about violently, or, without warning, sending it soaring skyward, then letting it float gracefully down to the ground.
+0002_As_Good_As_It_Gets_02.01.50.169-02.01.55.135 	we enters the room carrying verdell who strains to be allowed closer to melvin.
+0004_Charade_00.08.06.506-00.08.07.216 	reggie walks toward the house with the driver, who carries her cases.
+0004_Charade_00.11.51.934-00.11.57.302 	the door opens and the policeman enters again, this time carrying a wicker basket which he deposits on grandpierre's desk, and leaves.
+0004_Charade_00.55.35.163-00.55.35.767 	then, to his amazement, dyle is lifted into the air and, unable to break the bear-hold, carried toward the edge of the roof.
+0004_Charade_00.56.01.051-00.56.02.728 	with nothing restraining him, scobie lurches forward, tumbling past the gun, his momentum carrying him onto the sloping part of the roof, where he begins sliding down.
+0005_Chinatown_00.41.25.007-00.41.28.081 	then he's inundated with a rush of water which pours over him, knocks off his hat, carries him down the channel, banging into its banks, as he desperately tries to grab some of the overgrowth to hang on and pull himself out.
+0005_Chinatown_00.41.28.681-00.41.32.111 	but the force of the stream batters him and carries him with it until he's brought rudely to the chainlink fence.
+0005_Chinatown_01.20.29.163-01.20.31.259 	evelyn comes out to the veranda, carrying a tray with whiskey and an ice bucket on it.
+0005_Chinatown_01.31.39.265-01.31.42.423 	in a moment he re-emerges back through the living room carrying a tray with a glass and pitcher on it.
+0006_Clerks_00.10.09.708-00.10.11.273 	the activist carries his briefcase surreptitiously toward the door.
+0006_Clerks_00.39.04.275-00.39.04.677 	veronica enters the store, carrying books and something covered with aluminum foil.
+0006_Clerks_00.58.26.393-00.58.29.671 	a suited man carrying a notebook comes to the counter.
+0006_Clerks_01.08.34.068-01.08.35.464 	randal enters carrying videos.
+0007_DIE_NACHT_DES_JAEGERS_00.07.23.110-00.07.23.785 	carrying a shopping bag, their mother, willa, runs up from background between the children, looking always to cars o.s.
+0007_DIE_NACHT_DES_JAEGERS_00.46.20.196-00.46.31.978 	the door opens; preacher's head, carrying a candle in holder; a white-washed wall and stairs are lighted.
+0007_DIE_NACHT_DES_JAEGERS_00.51.32.447-00.51.34.506 	the children precede preacher, who carries a candle in holder.
+0007_DIE_NACHT_DES_JAEGERS_01.07.24.976-01.07.25.104 	she carries a berry- basket on her arm.
+0007_DIE_NACHT_DES_JAEGERS_01.07.55.571-01.07.58.414 	the three girls enter, their backs to us, carrying baskets of tomatoes.
+0007_DIE_NACHT_DES_JAEGERS_01.08.56.486-01.09.00.010 	all carry baskets.
+0007_DIE_NACHT_DES_JAEGERS_01.21.33.944-01.21.35.741 	ruby enters shot carrying a candle.
+0007_DIE_NACHT_DES_JAEGERS_01.25.46.588-01.25.47.777 	she carries john towards the house.
+0007_DIE_NACHT_DES_JAEGERS_01.27.09.600-01.27.09.907 	icey carries a torch.
+0007_DIE_NACHT_DES_JAEGERS_01.27.09.907-01.27.11.131 	she is flanked by rabid faces and by smiling loafers, one of whom carries an axe.
+0008_Fargo_00.06.34.964-00.06.40.215 	he is carrying a bag of groceries which he deposits on the kitchen counter.
+0008_Fargo_00.08.35.169-00.08.41.086 	the highway carries one moving car.
+0008_Fargo_00.23.18.664-00.23.21.130 	the scrape-scrape-scrape sound carries in the frigid air.
+0008_Fargo_00.25.33.091-00.25.36.273 	it is a flannel-shirt woodsman carrying a double-edged axe over one shoulder.
+0009_Forrest_Gump_00.33.00.399-00.33.01.823 	bubba's mother, a robust woman in a cook's uniform, carries a bowl of shrimp into a dining room.
+0009_Forrest_Gump_00.33.04.186-00.33.06.019 	bubba's grandmother carries a bowl of shrimp into a dining room.
+0009_Forrest_Gump_00.37.54.464-00.38.00.052 	forrest climbs up onto the stage and picks jenny up, guitar and all, and carries her.
+0009_Forrest_Gump_00.51.42.689-00.52.00.486 	forrest carries tex out of the jungle and into the clearing.
+0009_Forrest_Gump_00.54.49.833-00.55.01.112 	forrest carries bubba through the jungle.
+0009_Forrest_Gump_00.55.12.556-00.55.22.387 	forrest runs, carrying bubba.
+0009_Forrest_Gump_00.55.30.941-00.55.38.213 	forrest carries bubba to the bank of the river.
+0009_Forrest_Gump_01.11.22.628-01.11.26.140 	jenny carries a backpack as she prepares to board a bus back to berkeley.
+0009_Forrest_Gump_01.50.53.122-01.50.59.793 	jenny carries her purse and walks toward a waiting cab.
+0009_Forrest_Gump_02.07.20.872-02.07.23.987 	he carries a tray with breakfast on it.
+0010_Frau_Ohne_Gewissen_00.07.27.289-00.07.28.932 	he carries a briefcase, his hat is a little on the back of his head.
+0010_Frau_Ohne_Gewissen_00.35.43.840-00.35.44.837 	in the background dietrichson begins to ascend the stairs, carrying his coat and glass.
+0010_Frau_Ohne_Gewissen_00.53.00.455-00.53.01.333 	phyllis, carrying the suitcase and overcoat, and neff, still a little behind her, come towards the camera.
+0010_Frau_Ohne_Gewissen_01.00.50.398-01.00.51.313 	he is carrying a file of papers and smoking a cigar.
+0010_Frau_Ohne_Gewissen_01.03.52.189-01.03.53.124 	she wears a gray tailored suit, small black hat with a veil, black gloves, and carries a black bag.
+0010_Frau_Ohne_Gewissen_01.13.56.620-01.13.57.487 	several people come out, among them neff, carrying his briefcase.
+0010_Frau_Ohne_Gewissen_01.29.38.946-01.29.39.284 	a stream of office employees is coming out of an elevator; a second elevator reaches the lobby and some more office employees come out, among them neff, wearing his hat and carrying his briefcase.
+0010_Frau_Ohne_Gewissen_01.34.07.908-01.34.09.463 	she wears white lounging pajamas, and she is carrying something small and heavy concealed in a scarf in her right hand.
+0010_Frau_Ohne_Gewissen_01.40.35.924-01.40.38.321 	slowly he lifts her and carries her to the davenport.
+0011_Gandhi_00.18.09.597-00.18.11.449 	ahead of them three youths (twenty, twenty-one) in working clothes, carrying lunch boxes, lean indolently against a building directly in their path.
+0011_Gandhi_00.21.57.806-00.21.58.783 	this carries a weight and apprehension that none of the rest of the conversation has.
+0011_Gandhi_00.22.11.560-00.22.12.476 	reluctant as it is, it too carries commitment and walker senses it.
+0011_Gandhi_00.34.29.860-00.34.30.069 	it is a command, and angry in its own way, but it carries all the weight of his influence on them.
+0011_Gandhi_00.51.01.134-00.51.02.777 	some carry infants on their backs.
+0011_Gandhi_01.01.55.359-01.01.58.496 	they watch gandhi as he carries his bowl of potatoes to ba.
+0011_Gandhi_01.01.59.850-01.02.01.411 	gandhi plods on toward the kitchen, carrying the bowl of potatoes.
+0011_Gandhi_01.37.56.353-01.37.57.299 	as their defiant roar carries through the night air we see that gandhi sits cross-legged on the platform.
+0011_Gandhi_01.41.45.024-01.41.45.148 	he is carrying a baby wrapped in rags.
+0011_Gandhi_01.49.17.933-01.49.19.736 	she carries a small tray with a pitcher and a glass.
+0011_Gandhi_01.59.15.048-01.59.17.098 	we see from walker's point of view an indian woman walking along the road, leading a tall camel that carries sacks of produce.
+0011_Gandhi_02.47.09.980-02.47.14.486 	a surging gang of youths, many carrying torches, and far outnumbering the little group of police and soldiers, are shouting up at the roof.
+0013_Halloween_00.12.06.759-00.12.12.987 	she carries a large bundle of school books in her arms.
+0013_Halloween_00.28.30.359-00.28.35.309 	she carries a totebag with schoolbooks and knitting needles stuck inside, and a large pumpkin.
+0013_Halloween_00.45.57.781-00.45.59.573 	she is wearing a nylon robe and carrying her clothes to be washed.
+0013_Halloween_00.50.51.836-00.50.53.964 	lindsey carries a bowl of popcorn.
+0013_Halloween_00.55.29.667-00.55.36.076 	the figure of a man carries what seems to be a body across the wallace's back yard.
+0013_Halloween_00.59.30.777-00.59.33.569 	bob picks lynda up and carries her up to the front door.
+0013_Halloween_01.00.42.083-01.00.43.947 	as it gets closer, we see that laurie is carrying a jack-o-lantern, with a candle illuminating from the center of the pumpkin.
+0014_Ist_das_Leben_nicht_schoen_00.15.47.903-00.15.51.142 	harry and his mother come out of the kitchen, harry carrying a pie in each hand and balancing one on his head.
+0014_Ist_das_Leben_nicht_schoen_00.19.04.397-00.19.04.939 	he and harry are carrying plates and pies.
+0014_Ist_das_Leben_nicht_schoen_00.24.08.778-00.24.10.727 	each is carrying their wet clothes tied into a bundle that leaves a trail of dripping water.
+0014_Ist_das_Leben_nicht_schoen_01.03.51.924-01.03.58.049 	martini and george, assisted by three of the martini children, are carrying out the last of the furniture.
+0014_Ist_das_Leben_nicht_schoen_02.05.03.658-02.05.10.598 	mary leads george, who is carrying a couple of the kids on his back, to a position in front of the christmas tree.
+0014_Ist_das_Leben_nicht_schoen_02.05.24.021-02.05.25.619 	uncle billy, face flushed, covered with snow, and carrying a clothes basket filled with money, bursts in.
+0016_O_Brother_Where_Art_Thou_00.39.54.320-00.40.00.303 	in the foreground two little black boys are walking home, each carrying a block of ice.
+0016_O_Brother_Where_Art_Thou_01.05.47.800-01.05.50.713 	a man carrying a shotgun enters the auditorium.
+0016_O_Brother_Where_Art_Thou_01.21.18.716-01.21.19.583 	each is carrying a musical-instrument case.
+0016_O_Brother_Where_Art_Thou_01.33.06.994-01.33.15.171 	a crowd carrying torches jogs behind a man in clanking leg irons and wrist manacles who is being escorted by four policemen trotting alongside, their nightsticks held across their chests in riot-ready formation.
+0017_Pianist_00.02.25.884-00.02.27.278 	and he, too, is carried with the flow into the lobby.
+0017_Pianist_00.11.29.819-00.11.33.942 	father, wearing the star of david armband, walks slowly along, carrying a string bag containing potatoes and carrots, his eyes fixed on the pavement as if his thoughts are a million miles away.
+0017_Pianist_00.17.40.912-00.17.48.113 	as they walk, carrying the basket between them, passing beggars and children asking for food.
+0017_Pianist_00.30.00.926-00.30.06.917 	without warning, the ss men seize the chair with the old man in it, carry him out on to the balcony.
+0017_Pianist_00.34.44.928-00.34.48.694 	szpilman waits and watches, and then a poor woman passes, carrying a can wrapped in newspaper followed by a ragged old man, dragging himself along.
+0017_Pianist_00.39.16.080-00.39.22.503 	a great mass of agitated people crossing only one way: from the small ghetto to the large ghetto, carrying their belongings.
+0017_Pianist_00.39.49.556-00.39.52.535 	they carry the stuff into the warehouse.
+0017_Pianist_00.43.44.093-00.43.46.545 	women carrying dehydrated children drag themselves from group to group.
+0017_Pianist_01.14.21.192-01.14.24.032 	a rickshaw carrying szpilman and bogucki travels along the dark streets.
+0017_Pianist_01.34.20.937-01.34.32.431 	michal carries a bag of provisions and puts them on a table while szpilman goes immediately to the window and looks out.
+0017_Pianist_01.44.13.293-01.44.14.849 	last, three young poles, carrying long objects wrapped in newspaper.
+0017_Pianist_01.44.14.849-01.44.16.719 	one of the men looks at his watch, glances around, then suddenly kneels and puts the package he's carrying to his shoulder.
+0017_Pianist_02.13.48.456-02.13.54.037 	men carry out boxes, filing cabinets, desks, papers and load them into trucks.
+0017_Pianist_02.13.56.104-02.14.05.793 	he opens the trapdoor to see the german captain in the attic, carrying a package.
+0019_Pulp_Fiction_00.24.26.031-00.24.29.219 	vincent, carrying the black briefcase from the scene between vincent and jules, steps inside.
+0019_Pulp_Fiction_01.20.01.470-01.20.04.648 	butch's head goes down out of frame to carry out the oral pleasure.
+0019_Pulp_Fiction_01.34.40.511-01.34.42.986 	the big man himself, marsellus wallace, exit teriyaki donut, carrying a box of a dozen donuts and two large styrofoam cups of coffee.
+0021_Rear_Window_00.06.12.254-00.06.15.529 	he carries a large aluminum sample case common to salesmen.
+0021_Rear_Window_00.07.35.178-00.07.36.588 	in one hand the man carries a small garden hoe and rake, and in the other a pair of trimming shears.
+0021_Rear_Window_00.07.43.680-00.07.44.661 	she carries a copy of the herald tribune, and still wears her hearing aid.
+0021_Rear_Window_00.08.35.078-00.08.35.437 	she carries a small black bag.
+0021_Rear_Window_00.15.06.474-00.15.10.226 	when they reappear, he is carrying her in his arms, over the threshold.
+0021_Rear_Window_00.17.57.735-00.18.01.064 	she turns to look at him, and moves toward him, carrying the cigarette box.
+0021_Rear_Window_00.18.37.915-00.18.38.992 	he's carrying in one hand a large portable warming oven, and in the other hand an ice bucket containing a bottle of wine covered with a napkin.
+0021_Rear_Window_00.19.07.285-00.19.09.980 	carl comes out of the kitchen carrying the empty warming oven.
+0021_Rear_Window_00.24.53.162-00.25.01.475 	the salesman has prepared a dinner tray, and is carrying it from the kitchen, through the living room, into the bedroom.
+0021_Rear_Window_00.26.24.720-00.26.28.240 	lisa is emerging from the kitchen, carrying the serving dish of their lobster thermidor.
+0021_Rear_Window_00.42.36.586-00.42.40.086 	having completed his job, he emerges from the kitchen carrying the newspaper- wrapped parcel.
+0021_Rear_Window_00.42.45.386-00.42.45.886 	he is not carrying anything.
+0021_Rear_Window_00.50.28.348-00.50.29.848 	she is carrying a tray with breakfast on it.
+0021_Rear_Window_00.51.22.994-00.51.30.494 	the hand carrying the bacon to jeff's mouth hesitates for a moment.
+0021_Rear_Window_00.52.20.061-00.52.20.561 	one of them carries a clipboard.
+0021_Rear_Window_00.52.30.862-00.52.52.701 	a close view shows the two man carrying the trunk across the living room toward the corridor.
+0021_Rear_Window_01.02.34.311-01.02.36.555 	she pauses as she crosses the room carrying a tray of food.
+0021_Rear_Window_01.03.22.153-01.03.23.345 	it is thorwald, carrying a light-weight cardboard box under his arm.
+0021_Rear_Window_01.03.48.705-01.03.51.162 	as he hesitates, we are able to see the cardboard box he is carrying has the name of a laundry on it.
+0021_Rear_Window_01.06.05.311-01.06.09.974 	having completed his call, thorwald returns to the bedroom carrying the handbag.
+0021_Rear_Window_01.24.19.492-01.24.21.846 	he turns to carry it's into the apartment.
+0021_Rear_Window_01.35.18.914-01.35.22.284 	she looks, waves at jeff as stella comes up to her carrying a shovel.
+0022_Reservoir_Dogs_00.11.10.535-00.11.17.164 	then the door swings open, and mr. white carries the bloody body of mr. orange inside.
+0022_Reservoir_Dogs_00.58.00.986-00.58.10.259 	he walks back inside the warehouse carrying the can of gas.
+0023_THE_BUTTERFLY_EFFECT_00.13.40.739-00.13.42.084 	kayleigh and tommy are helping lenny up and carrying him.
+0023_THE_BUTTERFLY_EFFECT_00.29.10.302-00.29.11.705 	plenty of underage students carry pitchers of beer to their tables.
+0023_THE_BUTTERFLY_EFFECT_01.35.54.881-01.35.57.307 	kayleigh carries a pair of prosthetic arms in her hands.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.36.41.536-00.36.42.298 	gandalf leads his horse.frodo and sam are carrying knapsacks.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.04.23.792-01.04.26.340 	a distant cry of a ringwraith carries through the air.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.15.24.423-01.15.32.519 	gwaihir the eagle soars majestically over the mountains, carrying gandalf towards the dawn.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.09.17.170-02.09.30.188 	boromir scoops him up and carries him away.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.24.59.999-02.25.02.338 	lurtz is leading 200 uruk-hai out of isengard.they run fast, their powerful legs carrying them at speed.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.26.00.756-02.26.11.662 	the three elven boats carry the fellowship steadily southward.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.32.59.165-02.33.01.098 	somewhere behind him, boromir's distraught voice carries from another dimension.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.26.18.123-00.26.21.504 	shadowfax carried gandalf and pippin out of the gate and down the winding road towards the plains qf rohan.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.32.51.113-00.32.58.262 	aerial shot: shadowfax, carrying gandalf and pippin up towards the 7th level.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.38.25.846-00.38.29.358 	giant mumakil carrying armies upon their backs.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.44.28.381-00.44.32.508 	many boats, carrying murderous-looking orcs, are quietly tracking down the river.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.47.08.749-01.47.14.595 	pippin watches as faramir's unconscious body is carried on the stretcher by denethor's servants lead by denethor.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.54.35.037-01.54.43.707 	and carry him back towards the watch tower.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.54.46.285-01.54.48.545 	frodo is carried up the steep stairs.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.55.20.497-01.55.28.768 	he roughly carries him towards the door.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.04.07.398-02.04.17.487 	massive elephant-like creatures, each carrying a war-tower, packed with haradrim archers.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.55.51.946-02.55.55.035 	a banner carried aloft bearing the white tree of gondor in full flower.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.56.01.824-02.56.19.079 	carrying the standard of gondor.
+0026_The_Big_Fish_00.07.36.551-00.07.38.597 	the door swings open to reveal a drenched will (29) carrying four sacks of groceries, the bottoms collapsing from the rain.
+0026_The_Big_Fish_00.21.33.008-00.21.41.994 	edward carries a dog out of a burning house.
+0026_The_Big_Fish_00.28.26.132-00.28.33.567 	karl perks up, even though it means more for him to carry.
+0026_The_Big_Fish_00.30.57.256-00.30.58.051 	he's carrying a clipboard.
+0026_The_Big_Fish_00.46.17.223-00.46.18.388 	he's still carrying the backpack we saw earlier, and scratched up from his trip through spectre.
+0026_The_Big_Fish_01.09.47.479-01.09.49.603 	ping sings melody while an off-stage voice carries perfect harmony.
+0026_The_Big_Fish_01.34.46.402-01.34.50.165 	carrying his busted suitcase, a tired edward walks toward a one-street town in the distance.
+0026_The_Big_Fish_01.52.56.461-01.52.57.823 	will carries him easily.
+0027_The_Big_Lebowski_01.46.37.575-01.46.45.616 	walter is carrying a bright red coffee can with a blue plastic lid.
+0028_The_Crying_Game_00.11.20.307-00.11.21.062 	she is carrying a pot of tea and two cups.
+0029_The_Graduate_00.25.22.045-00.25.39.129 	he stands up in the booth, looks around, moves about uncomfortably for a few moments, removes his jacket and carrying it folded across his arm in front of him, leaves the phone booth and crosses to the doors that lead to the main lobby.
+0029_The_Graduate_00.39.21.206-00.39.24.897 	mrs. braddock is going toward him from the house, carrying some ominously large thing wrapped in tinfoil.
+0029_The_Graduate_00.41.43.629-00.41.51.389 	mrs. robinson, now fully dressed and carrying her purse, passes through again and, without looking at ben, goes to the door of the hotel room, opens it and exits.
+0029_The_Graduate_01.09.02.269-01.09.05.874 	then he grabs the keys out of the ignition, opens the door on his side and jumps out of the car, carrying the package.
+0029_The_Graduate_01.09.22.212-01.09.23.750 	he still carries the package.
+0029_The_Graduate_01.09.24.625-01.09.25.417 	she is wearing a skirt and slip and carrying one shoe.
+0029_The_Graduate_01.16.02.874-01.16.06.598 	she walks, carrying her books, in ben's direction.
+0029_The_Graduate_01.24.49.819-01.24.53.289 	he goes back to the bureau, gets some socks and underwear and carries them to the suitcase.
+0029_The_Graduate_01.24.53.289-01.24.55.610 	he goes back to the bureau, opens a drawer, takes out some t- shirts and the beer can and carries them to the suitcase.
+0029_The_Graduate_01.30.49.211-01.30.52.113 	ben enters carrying four oddly shaped boxes and some flowers.
+0030_The_Hustler_00.37.32.899-00.37.39.935 	as eddie enters, carrying his bags, a few early morning travelers -- some soldiers and a man in a stetson hat -- pass him by.
+0030_The_Hustler_01.06.15.081-01.06.21.243 	taking her ashtray, eddie rises, runs his hand through her hair for a moment, and then carries off the ashtray and empties it in the garbage bag.
+0030_The_Hustler_01.36.30.593-01.36.34.507 	the redcap exits, carrying the luggage.
+0031_The_Lost_Weekend_00.29.57.188-00.30.08.327 	they are wearing raincoats, carrying umbrellas.
+0031_The_Lost_Weekend_00.35.47.437-00.36.00.933 	as they go on talking, they walk from the cloak room, through the vestibule, to the street, don carrying his coat over his arm.
+0031_The_Lost_Weekend_00.42.31.306-00.42.32.006 	he wears a hat and carries a brief-case.
+0031_The_Lost_Weekend_00.57.50.958-00.57.52.349 	don carries the bag under his open coat by the pressure of his upper arm.
+0031_The_Lost_Weekend_01.14.47.485-01.14.51.594 	at this moment the door is opened by another male nurse, carrying a pile of clean sheets and pillow cases.
+0031_The_Lost_Weekend_01.37.59.852-01.38.11.216 	helen takes the typewriter, carries it toward the desk.
+0032_The_Princess_Bride_00.07.59.019-00.07.59.838 	the giant fezzik carries buttercup, unconscious, on board.
+0032_The_Princess_Bride_00.14.20.188-00.14.22.691 	and he starts to ascend the rope, carrying them all along with him as he goes.
+0032_The_Princess_Bride_00.25.10.425-00.25.11.327 	fezzik, carrying the princess, stands alongside.
+0032_The_Princess_Bride_00.43.30.107-00.43.40.090 	westley picks her up, carrying her across some swamp water that is bridged by a narrow, rickety tree branch.
+0032_The_Princess_Bride_00.50.30.460-00.50.42.729 	dead pale, he silently enters the pit, carrying a tray of food and medication.
+0032_The_Princess_Bride_01.10.52.914-01.10.53.134 	fezzik carries westley who is just starting to stiffen up a little.
+0033_Amadeus_00.03.22.552-00.03.25.646 	as the fast music returns, we see old salieri being carried out of his house on a stretcher by two attendants, and placed in a horse-drawn wagon under the supervision of a middle- aged doctor in a tall hat.
+0033_Amadeus_01.17.46.266-01.17.47.643 	he carries the bag across the room.
+0033_Amadeus_01.31.03.324-01.31.07.935 	to its lively music, the door of the house bursts open and a grand forte-piano augmented with a pedal is carried out of it by six men, who run off with it down the street.
+0038_Psycho_00.33.20.853-00.33.22.215 	we see norman coming down the path, carrying a napkin-covered tray.
+0038_Psycho_01.14.14.357-01.14.18.167 	he carries sheets on his arm.
+0038_Psycho_01.47.08.399-01.47.10.825 	the guard is carrying a folded blanket over his arm.
+0038_Psycho_01.47.18.610-01.47.23.622 	the police guard, carrying the blanket, comes down this corridor, goes to the door.
+0041_The_Sixth_Sense_00.52.19.890-00.52.25.284 	the front door opens, lynn carries cole in.
+0041_The_Sixth_Sense_00.52.36.595-00.52.49.548 	she carries him down the hall to his bedroom.
+0041_The_Sixth_Sense_00.52.46.103-00.52.48.218 	lynn has been carrying cole's sweater from over her shoulder.
+0041_The_Sixth_Sense_01.06.20.987-01.06.24.311 	he's carrying an antique bench in his arms.
+0041_The_Sixth_Sense_01.24.31.935-01.24.35.993 	we see it carried away by kyra.
+0041_The_Sixth_Sense_01.24.46.514-01.24.51.848 	she carries in a tray of soup and a sandwich.
+0041_The_Sixth_Sense_01.28.56.236-01.29.02.573 	they scoop him up and carry him around the stage in celebration.
+0046_Chasing_Amy_00.57.06.760-00.57.08.479 	banky carries a bag in one arm and pulls out his keys with the other.
+0049_Hannah_and_her_sisters_00.02.07.992-00.02.09.988 	everyone is talking at once, carrying on easy, familiar conversation.
+0049_Hannah_and_her_sisters_00.02.38.097-00.02.42.128 	both are holding drinks as lee, carrying a tray of hors d'oeuvres and two drinks, walks between them.
+0049_Hannah_and_her_sisters_00.02.50.263-00.02.53.201 	hannah, carrying a tray of hors d'oeuvres, walks up behind the distracted elliot.
+0049_Hannah_and_her_sisters_00.04.28.392-00.04.30.474 	as they continue to sing, the film cuts back to the kitchen, where lee, carrying some glasses, enters through the doorway.
+0049_Hannah_and_her_sisters_00.05.22.611-00.05.26.121 	hannah's children are playing in the room as hannah enters, carrying a huge roast turkey.
+0049_Hannah_and_her_sisters_00.05.23.482-00.05.28.877 	behind her is holly, carrying a casserole.
+0049_Hannah_and_her_sisters_00.08.11.673-00.08.18.667 	mavis the maid exits, carrying some trays, as the group starts to cheer and applaud.
+0049_Hannah_and_her_sisters_00.19.17.380-00.19.22.511 	as holly carries the quiche outside to the party, april comes back into the kitchen from another doorway.
+0049_Hannah_and_her_sisters_00.26.21.219-00.26.31.637 	an unseen elliot and lee carry on a conversation as the camera moves down an aisle, past the rows of books.
+0049_Hannah_and_her_sisters_01.08.05.111-01.08.09.032 	a man carrying a shopping bag walks down the steps; he passes them.
+0049_Hannah_and_her_sisters_01.13.40.420-01.13.44.275 	his father walks into view, carrying a teacup and a candy dish.
+0049_Hannah_and_her_sisters_01.14.25.396-01.14.35.278 	mickey's father comes back on screen; he's carrying a plate of hors d'oeuvres and an empty glass towards the kitchen.
+0049_Hannah_and_her_sisters_01.15.03.828-01.15.10.033 	father flynn puts the books on top of mickey's pile; mickey, flipping through the top one, awkwardly carries his bundle to the door.
+0049_Hannah_and_her_sisters_01.15.33.658-01.15.37.985 	he closes the door and walks through his dark foyer; he carries a brown bag.
+0049_Hannah_and_her_sisters_01.20.29.506-01.20.35.361 	lee, wearing jeans and carrying an armful of books, is running up a broad set of steps in the sunlight, greeting other students as she passes.
+0049_Hannah_and_her_sisters_01.24.43.474-01.24.44.975 	she carries two tomatoes.
+0049_Hannah_and_her_sisters_01.25.22.221-01.25.27.652 	holly wipes her hand on the towel as hannah reenters the kitchen, carrying even more vegetables.
+0049_Hannah_and_her_sisters_01.26.00.491-01.26.06.546 	hannah picks up a large bowl and carries it, as well as her armload of spices, into the pantry area.
+0049_Hannah_and_her_sisters_01.39.53.145-01.39.57.466 	as mavis leaves the kitchen, lee enters, carrying some empty glasses.
+0049_Hannah_and_her_sisters_01.40.33.415-01.40.35.829 	the camera shows his point of view: guests stand in clusters, enjoying themselves; one woman chats with a little boy; another woman, carrying a drink, walks over to a group of other guests.
+0050_Indiana_Jones_and_the_last_crusade_00.31.05.627-00.31.12.622 	three men carrying guns make their way down the spiral staircase toward an unsuspecting brody.
+0050_Indiana_Jones_and_the_last_crusade_00.33.09.081-00.33.15.607 	indy lifts her and carries elsa as he moves forward.
+0050_Indiana_Jones_and_the_last_crusade_00.44.28.135-00.44.31.788 	a gondolier sings as he steers his gondola carrying two passengers past indy's window.
+0050_Indiana_Jones_and_the_last_crusade_00.46.46.887-00.46.50.897 	indy carries a gun in his hand and his whip hangs from his belt.
+0050_Indiana_Jones_and_the_last_crusade_01.24.21.517-01.24.22.954 	the turkish soldiers wear native dress and carry both carbines and sabers.
+0050_Indiana_Jones_and_the_last_crusade_01.24.26.253-01.24.27.402 	brody sits alongside elsa in the rear of the car carrying donovan.
+0051_Men_in_black_00.13.23.398-00.13.29.152 	edgar is everything his voice led us to expect -- a nasty, bug-eyed redneck carrying a twelve-gauge shotgun.
+0051_Men_in_black_00.38.40.989-00.38.41.194 	the older man (rosenberg), is carrying a cat and an ornate rosewood jewelry box.
+0051_Men_in_black_00.41.06.133-00.41.09.400 	rosenberg, the jewelry store owner, steps out of a cab in the meat-packing district, still carrying the ornate box and his beloved cat.
+0051_Men_in_black_01.16.51.679-01.16.52.223 	behind him, abandoned on the front seat of the cab, we finally see the front of the postcard he's been carrying around.
+0053_Rendezvous_mit_Joe_Black_00.06.27.532-00.06.41.213 	a butler and may carry the overnight bags for the family as led by parrish, they hurry towards the helicopter.
+1001_Flight_00.06.45.877-00.06.51.582 	carrying up a folded-up massage table.
+1001_Flight_00.34.50.660-00.34.56.148 	he strides to the corridors carrying a bag in his hand and another slung over his shoulder.
+1001_Flight_00.47.26.625-00.47.36.750 	whip carries a plastic bag into the kitchen and places it on a dining table.
+1001_Flight_00.49.32.890-00.49.45.542 	he lifts the bulging plastic trash bag out of the trash can and carries it outside.
+1001_Flight_01.02.13.116-01.02.16.985 	carrying the pillow, she walks to whip.
+1001_Flight_01.15.30.116-01.15.38.405 	at a church, a large framed picture of katerina stands surrounded by flowers as a coffin is carried out.
+1001_Flight_01.32.15.510-01.32.21.021 	she carries a suitcase and a basket, and walks away from the house.
+1001_Flight_01.48.54.318-01.48.57.934 	charlie exits an elevator carrying three coffees.
+1002_Harry_Potter_and_the_Half-Blood_Prince_00.39.51.845-00.39.54.001 	a figure carrying an umbrella marches towards the building.
+1002_Harry_Potter_and_the_Half-Blood_Prince_02.02.04.768-02.02.10.986 	the boat slowly carries them across the still water towards the island.
+1003_How_to_Lose_Friends_and_Alienate_People_00.28.07.184-00.28.13.650 	sidney saunters over to alison carrying a plate piled high with finger foods.
+1003_How_to_Lose_Friends_and_Alienate_People_01.21.40.495-01.21.48.439 	with white face paint, fangs and a cape, he carries a glass of wine as he finds elena dressed as marlene dietrich.
+1004_Juno_01.20.36.485-01.20.39.569 	mac smiles to himself and carries on tinkering.
+1005_Signs_00.04.28.300-00.04.38.017 	graham stands and slowly walks through the maize, followed by merrill, who's still carrying bo in his arms.
+1005_Signs_00.11.00.017-00.11.08.179 	he carries bo back to the farmhouse as merrill emerges, carrying a bowl and a bag of feed.
+1005_Signs_00.34.29.350-00.34.36.017 	carrying a metal dish of dog food for isabel in one hand, graham steps out of the farmhouse through a screen door and into the dark.
+1005_Signs_01.31.39.870-01.31.51.703 	graham carries morgan slowly up the stairs and into the kitchen, where chairs are strewn across the floor, and the fridge door is open.
+1005_Signs_01.31.52.995-01.32.03.369 	bo follows her father and then wanders out into the hallway as graham carries morgan through the dining room and into the living room, staring at the broken planks across the windows.
+1006_Slumdog_Millionaire_01.06.28.143-01.06.35.428 	jamal carries a tray of tea at the call center.
+1006_Slumdog_Millionaire_01.52.07.445-01.52.11.288 	the car carrying a bleeding latika reverses to the station.
+1007_Spider-Man1_00.24.47.143-00.24.49.873 	then he slides on his back down the corridor, collides with a teacher carrying the tray and ends up with more food on him.
+1007_Spider-Man1_00.52.08.125-00.52.09.340 	aunt may in a floral suit, hat, and carrying her gloves.
+1008_Spider-Man2_00.06.15.960-00.06.16.931 	from it emerges peter, carrying the pizzas.
+1008_Spider-Man2_00.34.31.727-00.34.40.180 	he looks at the images briefly, then carries on going, a preoccupied look on his face.
+1008_Spider-Man2_00.47.14.525-00.47.18.395 	later, with the long mechanical limbs acting as legs, octavius is carried onto a bridge tower.
+1008_Spider-Man2_01.24.01.550-01.24.04.444 	the four mighty limbs start to move away with octavius carried in midair.
+1008_Spider-Man2_01.29.01.723-01.29.03.368 	she looks up, sees him and carries on with her work.
+1008_Spider-Man2_01.58.43.985-01.58.52.868 	the unmasked spider-man watches as the four limbs raise octavius aloft and carry him, as they lumber towards the golden orb floating in the fusion chamber.
+1008_Spider-Man2_02.00.57.424-02.01.04.328 	holding mj in his arms, he leaps up and uses a web to carry them away from the sinking laboratory.
+1008_Spider-Man2_02.03.31.319-02.03.39.374 	he looks at the city, then round to mj, before leaping into the night sky carried by a web.
+1008_Spider-Man2_02.07.15.834-02.07.18.488 	a young woman with long hair and a dark dress runs in carrying a note.
+1009_Spider-Man3_00.16.59.884-00.17.06.040 	a marked figure, in dark green, swoops down on a hoverboard and carries him up on the rooftops.
+1009_Spider-Man3_00.21.52.520-00.21.55.989 	he carries his friend to an emergency room.
+1009_Spider-Man3_01.08.08.192-01.08.13.859 	flint marko strides along the tracks of a subway tunnel, carrying two clear sacks of banknotes.
+1009_Spider-Man3_01.08.32.108-01.08.35.525 	flint turns and carries on walking.
+1009_Spider-Man3_01.24.14.097-01.24.15.791 	mary jane turns away angrily and carries on.
+1009_Spider-Man3_02.01.14.710-02.01.20.941 	the watching crowd go wild as he swings away on a thread carrying mary jane in his arms and lands back on the half-built skyscraper.
+1009_Spider-Man3_02.06.12.256-02.06.14.682 	up above, peter drops the tube he was carrying, his expression numb.
+1010_TITANIC_00.10.51.671-00.10.55.713 	elsewhere, in a home, a young, long-haired woman walks past a small dog as she carries teacups to a table.
+1010_TITANIC_00.26.18.643-00.26.21.430 	carrying sacks over their shoulder, jack and, fabrizio dashed into the ship.
+1010_TITANIC_00.28.30.475-00.28.34.553 	a porter carries in a pair of suitcases as cal enters from the adjoining promenade deck.
+1010_TITANIC_01.43.41.958-01.43.43.625 	andrews hurries past, carrying blueprints.
+1010_TITANIC_02.22.38.389-02.22.48.508 	a wave knocks them over, and rushing water carries them away
+1010_TITANIC_02.30.02.254-02.30.14.224 	carrying their instruments, three of the quartet members walk away as people run past.
+1010_TITANIC_02.30.33.177-02.30.37.943 	the bass player carries his bass back, then stands on the other side of hartley.
+1010_TITANIC_02.35.00.650-02.35.05.358 	as the water rises, some are carried up the staircase while others are trapped against the ceiling of the room below.
+1011_The_Help_00.07.07.659-00.07.13.165 	skeeter, carrying a basket of readers' letters, comes out of blackly's office with a happy smile.
+1011_The_Help_00.08.09.719-00.08.27.013 	minnie, carrying a pie, follows the ladies to their car.
+1011_The_Help_00.10.38.103-00.10.45.907 	minnie picks up a tray and a tv set, which she carries off towards the lounge.
+1011_The_Help_00.33.04.334-00.33.12.442 	minnie, carrying her handbag, strides out of the front door, into the pouring rain.
+1011_The_Help_00.34.59.183-00.35.07.058 	minnie, in a green straw hat and spotty dress and carrying a pie and a fan, peers out from the door of an empty bus.
+1011_The_Help_00.54.12.928-00.54.16.836 	later, skeeter pulls up outside brent's drug store diner and hurries in carrying her briefcase.
+1011_The_Help_01.12.14.869-01.12.16.323 	hilly comes in, carrying her little boy billy.
+1011_The_Help_01.18.56.784-01.19.01.609 	cradles her yard of the month sign and carries it inside to the amusement of the onlookers.
+1011_The_Help_01.19.20.986-01.19.28.491 	tenderly carrying mae mobley in her arms, aibileen sets her down on the lawn surrounded by a dozen toilets.
+1011_The_Help_01.31.53.404-01.32.00.434 	celia, wearing a low-cut fitted plum top over a tight pink skirt, sachets up the garden path carrying a pie.
+1012_Unbreakable_00.10.06.230-00.10.15.823 	a white coated man carrying a clipboard, who has been standing by the other figure, walks towards david and is replaced by other medical staff.
+1012_Unbreakable_00.43.22.937-00.43.33.205 	a sunny afternoon, a white bus stops on a hill at a suburban street, and david gets out still in his security uniform of green jacket and maroon cap and carrying a holdall.
+1012_Unbreakable_01.31.36.774-01.31.44.441 	audrey's sleeping body in a white night dress is carried from the shadowy light of her room to the foot of the stairs.
+1012_Unbreakable_01.31.44.774-01.31.50.441 	she opens her eyes in the brighter light of the hall, and lifts her head as david carries her up the staircase.
+1012_Unbreakable_01.32.06.774-01.32.23.223 	he carries her along the landing and into the bedroom, where he lays her softly on the bed.
+1012_Unbreakable_01.35.49.934-01.36.01.641 	at the limited edition gallery, a bored security man looks at a picture, and a waitress carries a tray of food amongst the smartly dressed guests.
+1014_2012_01.45.14.789-01.45.21.743 	a fleet of helicopters carries wild animals in suspended harnesses.
+1015_27_Dresses_00.03.03.441-00.03.10.865 	carrying the bulky dress in a bag, adult jane, in a formal purple dress, hurries out of the shop onto a busy new york street.
+1015_27_Dresses_00.12.51.919-00.12.56.863 	kevin, carrying coffees, arrives at the offices of the new york journal.
+1015_27_Dresses_01.10.40.917-01.10.47.976 	they carry on kissing in the volvo and tearing off each others' soaking wet clothes.
+1015_27_Dresses_01.10.57.592-01.11.00.544 	the next day, kevin strolls down the grassy slope carrying two coffees.
+1015_27_Dresses_01.39.39.072-01.39.43.525 	they remain wrapped in each other's arms as the smiling reception guests carry on with the party.
+1015_27_Dresses_01.41.26.542-01.41.35.459 	the wedding party is led in by casey and tess in figure- hugging cream dresses, carrying bouquets of yellow and white flowers.
+1018_Body_Of_Lies_00.17.21.948-00.17.26.505 	the four men pick up the injured nizar and carry him to the back of the van.
+1018_Body_Of_Lies_01.17.44.001-01.17.48.278 	carrying the box of pastries, he walks upstairs to an apartment.
+1018_Body_Of_Lies_01.30.08.260-01.30.12.330 	carrying a case and laptop, sadiki rushes out of the building.
+1019_Confessions_Of_A_Shopaholic_01.36.44.524-01.36.47.659 	a second mannequin knocks on the glass and shows her the orange bag she's carrying.
+1020_Crazy_Stupid_Love_01.06.20.223-01.06.28.055 	jacob goes into the living room carrying two drinks.
+1023_Horrible_Bosses_01.03.40.551-01.03.42.117 	carrying a jar of peanuts, dale sneaks through harken's house.
+1024_Identity_Thief_00.06.28.310-00.06.31.072 	he carries her out of the room.
+1024_Identity_Thief_00.06.39.022-00.06.42.614 	later, carrying a briefcase, the well-groomed businessman walks through an enclosed courtyard and enters an office building.
+1024_Identity_Thief_01.43.40.158-01.43.50.463 	now, trish carries a cake across the yard to a table where sandy cradles their newborn.
+1026_Legion_00.03.05.783-00.03.14.163 	inside the building, a man in a suit and carrying a torch walks along between stacking shelf, some covered with cellophane.
+1026_Legion_00.30.48.256-00.30.51.466 	bob and jeep carry gladys out.
+1026_Legion_01.13.57.508-01.14.02.094 	audrey carries the baby over to sandra, who stares at it, frowning.
+1026_Legion_01.31.15.815-01.31.18.676 	he helps charlie down as she carries the baby.
+1027_Les_Miserables_00.52.38.998-00.52.48.571 	in the dark wood, the urchin-like cosette is carrying a bucket.
+1027_Les_Miserables_00.53.26.124-00.53.29.148 	she takes his arm and he carries the bucket full of water through town.
+1027_Les_Miserables_00.57.34.451-00.57.39.397 	he carries cosette away.
+1027_Les_Miserables_01.02.20.570-01.02.23.208 	he climbs down himself and carries cosette.
+1027_Les_Miserables_01.46.40.349-01.46.46.609 	marius helps him pick eponine up and carry her away.
+1027_Les_Miserables_01.59.34.984-01.59.37.401 	one of the students goes to pick him up and carries him back behind the barricade.
+1027_Les_Miserables_02.17.52.333-02.18.01.602 	valjean carries a large trunk out to a waiting carriage.
+1027_Les_Miserables_02.20.52.380-02.21.12.693 	the thenardiers are carried to the front door.
+1028_No_Reservations_00.05.27.569-00.05.29.345 	the busy chefs carry on with what they're doing.
+1028_No_Reservations_00.08.39.893-00.08.45.138 	kate carries on down the stairs, as sean goes into his apartment.
+1028_No_Reservations_00.19.38.121-00.19.40.601 	a large, lifelike, cuddly toy giraffe is carried up the steps of kate's brownstone.
+1028_No_Reservations_00.19.44.812-00.19.45.581 	zoe carries a stuffed elephant.
+1028_No_Reservations_00.47.21.145-00.47.26.172 	kate carries zoe through the kitchen.
+1028_No_Reservations_01.00.55.656-01.01.00.656 	his shadow casts on the side of the sheet tent as he carries her out.
+1028_No_Reservations_01.01.06.212-01.01.10.213 	she pauses to look down the hallway and watch nick, as he gently carries zoe to her bedroom.
+1028_No_Reservations_01.39.33.790-01.39.39.601 	carrying the plate away, zoe greets leah with her baby.
+1028_No_Reservations_01.39.42.954-01.39.45.777 	she carries the plate to one of several busy al fresco tables.
+1029_Pride_And_Prejudice_Disk_One_00.38.22.553-00.38.26.102 	she gives a good-natured shrug and carries on her way.
+1029_Pride_And_Prejudice_Disk_One_02.35.51.014-02.35.54.142 	she's carrying a letter.
+1030_Public_Enemies_00.02.22.158-00.02.26.775 	as he carries it across the room, he glances at a presiding guard.
+1030_Public_Enemies_01.01.20.283-01.01.24.950 	carrying a mop and bucket, he crosses a hallway and waits for another guard to open another barred door.
+1030_Public_Enemies_01.26.32.889-01.26.35.556 	john hustles down stairs, carrying two tommy guns.
+1030_Public_Enemies_01.37.16.828-01.37.28.771 	carrying the brown paper bag, she steps off the sidewalk between parked cars and looks around in the middle of the street.
+1030_Public_Enemies_01.47.59.327-01.48.06.520 	purvis glances at the other interrogator, then lifts billie from the chair and carries her out.
+1031_Quantum_of_Solace_00.23.05.860-00.23.11.423 	bond rides onto the quay, and clocks the guard in a floral shirt, carrying a sub-machine gun.
+1031_Quantum_of_Solace_00.33.04.746-00.33.10.206 	he stops the boat at the jetty and carries camille through crowds of retirement-aged tourists.
+1031_Quantum_of_Solace_00.36.01.704-00.36.09.334 	the plane carrying greene beam black agent with a beard takes off.
+1031_Quantum_of_Solace_00.40.15.025-00.40.16.647 	greene's crony is carrying a bag.
+1031_Quantum_of_Solace_00.41.03.368-00.41.05.551 	greene and his friend carrying their gift bags are welcomed into a private box.
+1031_Quantum_of_Solace_01.21.06.538-01.21.15.111 	in a dingy building, two men are carrying a heavy box downstairs.
+1031_Quantum_of_Solace_01.26.52.708-01.26.58.787 	green's party arrive, his grim-faced driver carrying two metal attache cases.
+1033_Sherlock_Holmes_A_Game_of_Shadows_00.01.17.395-00.01.20.528 	a man in a frock coat carries a brown paper package under his right arm.
+1033_Sherlock_Holmes_A_Game_of_Shadows_00.11.33.859-00.11.38.526 	underground-railway construction work is carried out on baker street.
+1033_Sherlock_Holmes_A_Game_of_Shadows_00.23.40.249-00.23.51.695 	as watson enjoys himself at the gaming tables and mycroft chats to some other men, holmes goes upstairs to investigate where he saw a bearded man carrying a nosegay appear from behind the curtains earlier.
+1033_Sherlock_Holmes_A_Game_of_Shadows_00.29.39.458-00.29.43.136 	he lands heavily on a barge carrying sand on the canal outside.
+1033_Sherlock_Holmes_A_Game_of_Shadows_01.32.31.300-01.32.35.429 	moran stares after the train as it carries holmes and the others to safety.
+1034_Super_8_01.08.59.420-01.09.04.813 	they pass the military container lorries carrying the white cubes recovered from the crash site on their way into town.
+1034_Super_8_01.33.29.252-01.33.32.855 	the alien carries on working, oblivious to cary or joe.
+1035_The_Adjustment_Bureau_00.16.26.173-00.16.32.495 	later, david carries a to-go cup of coffee as he crosses a park.
+1035_The_Adjustment_Bureau_00.23.45.448-00.23.51.298 	through groggy eyes, he sees the helmeted men carrying him under a high ceiling with bright lights.
+1035_The_Adjustment_Bureau_01.10.02.429-01.10.08.882 	as david rushes toward the stage, a male dancer picks elise up and carries her off the platform.
+1035_The_Adjustment_Bureau_01.10.19.203-01.10.27.943 	they pull up to a hospital, and david carries elise inside.
+1037_The_Curious_Case_Of_Benjamin_Button_00.13.05.162-00.13.06.558 	she carries the baby into the house.
+1037_The_Curious_Case_Of_Benjamin_Button_00.15.43.344-00.15.49.286 	she carries the baby into the retirement home lounge.
+1037_The_Curious_Case_Of_Benjamin_Button_00.20.10.721-00.20.16.159 	tizzy climbs the stairs, carrying frail, child-sized benjamin in his arms.
+1037_The_Curious_Case_Of_Benjamin_Button_00.39.33.664-00.39.38.471 	carrying a suitcase, oti crosses the road below, bathed in the orange glow of a streetlamp.
+1037_The_Curious_Case_Of_Benjamin_Button_00.56.51.672-00.56.59.409 	carrying a kit bag and a suitcase, benjamin, who now looks in his late 60s, walks along the sidewalk.
+1037_The_Curious_Case_Of_Benjamin_Button_00.57.21.954-00.57.29.742 	benjamin carries on up the road.
+1037_The_Curious_Case_Of_Benjamin_Button_01.03.32.012-01.03.41.205 	he puts the fly-ridden honey pot down and carries the tea glasses and the teapot over to a table.
+1037_The_Curious_Case_Of_Benjamin_Button_01.42.59.041-01.43.12.595 	in front of the lake house, benjamin lifts thomas out of the wheelchair and carries him over his shoulders down to a jetty which leads out into the waters of the vast lake.
+1037_The_Curious_Case_Of_Benjamin_Button_02.01.48.779-02.01.57.816 	benjamin carries two of daisy's suitcases as they walk side by side through the silent shadowy corridors of the home.
+1037_The_Curious_Case_Of_Benjamin_Button_02.06.05.225-02.06.10.088 	looking tanned and healthy, benjamin and daisy carry luggage up the front steps of the retirement home.
+1037_The_Curious_Case_Of_Benjamin_Button_02.10.42.126-02.10.45.321 	wearing a patchwork blanket around his shoulders and carrying two mugs, benjamin walks up from behind the parked motorbike.
+1037_The_Curious_Case_Of_Benjamin_Button_02.24.03.672-02.24.09.895 	now a young man, he carries groceries down a street.
+1038_The_Great_Gatsby_00.51.18.073-00.51.19.021 	the staff members carry flower arrangements.
+1038_The_Great_Gatsby_00.51.33.719-00.51.36.703 	the flowers are carried into the cottage.
+1038_The_Great_Gatsby_00.55.41.085-00.55.44.339 	nick carries a tray with a shiny silver tea set on it into the room.
+1038_The_Great_Gatsby_01.24.58.187-01.25.03.453 	gatsby carries on up the grand staircase.
+1039_The_Queen_00.28.38.581-00.28.41.248 	a line of soldiers carry a casket about their heads.
+1039_The_Queen_00.32.54.614-00.33.00.167 	outside 10 downing street, a car stops and allister emerges from a backseat door, carrying some papers.
+1039_The_Queen_00.46.24.074-00.46.30.051 	the queen strolls through some woods, carrying a lunch box and accompanied by some corgis.
+1039_The_Queen_01.28.05.715-01.28.11.553 	a video screen shows guardsmen carrying a casket on their shoulders.
+1039_The_Queen_01.31.44.530-01.31.49.683 	tony smiles and unzips the document file he is carrying.
+1040_The_Ugly_Truth_00.19.59.659-00.20.03.773 	larry throws georgia over his shoulder and carries her off.
+1040_The_Ugly_Truth_01.12.53.756-01.12.58.162 	abby carries her shoes as she walks with mike to an elevator.
+1041_This_is_40_00.02.40.685-00.02.43.418 	he carries her down the hall.
+1041_This_is_40_00.29.39.759-00.29.42.426 	pete comes out the same door with a plate carrying three cupcakes.
+1043_Vantage_Point_00.16.20.679-00.16.24.867 	taylor helps carry the president away.
+1043_Vantage_Point_00.29.53.657-00.30.00.005 	he runs across a road to an underpass carrying highway traffic.
+1043_Vantage_Point_00.39.12.796-00.39.15.463 	howard still carrying anna runs after them.
+1044_Pride_And_Prejudice_Disk_Two_00.25.11.825-00.25.17.305 	now, lizzie's out in the garden, carrying a basket full of flowers.
+1044_Pride_And_Prejudice_Disk_Two_00.26.17.389-00.26.21.339 	jane sets off back towards the house, carrying her basket of flowers.
+1044_Pride_And_Prejudice_Disk_Two_01.49.58.955-01.50.02.678 	lydia gets out, dressed in a simple, empire line wedding dress and bonnet, and carrying a bunch of flowers.
+1044_Pride_And_Prejudice_Disk_Two_02.02.34.979-02.02.38.691 	a procession of servants troop inside, carrying baskets of food and provisions.
+1045_An_education_01.15.35.575-01.15.42.458 	jenny walks down a corridor carrying her blazer and satchel.
+1046_Australia_00.41.36.824-00.41.41.000 	nullah and daisy are carrying items of luggage for sarah.
+1047_Defiance_00.01.21.227-00.01.22.216 	women carrying cases are herded from their village.
+1047_Defiance_00.02.58.033-00.03.00.505 	carrying a small axe, tall, dark-haired, unshaven zus creeps across the farmhouse.
+1047_Defiance_00.03.44.551-00.03.47.688 	zus puts down the saw he's carrying, noticing something in the doorway of the farmhouse.
+1047_Defiance_00.05.42.483-00.05.43.474 	zus appears carrying kindling.
+1047_Defiance_00.27.06.401-00.27.08.494 	carry it to the side of the road
+1047_Defiance_00.40.15.194-00.40.18.590 	later, wearing the man's coat and carrying two churns, zus leads the way back through the woods.
+1047_Defiance_00.45.15.993-00.45.17.638 	one of the bielski group carries a goat across the stream.
+1047_Defiance_00.45.23.291-00.45.26.096 	carrying bags and baskets, the people scramble up a slope.
+1047_Defiance_01.01.34.196-01.01.43.320 	at daybreak, carrying bags and cases, they walk in single file across the wintry landscape towards a windmill and on into the birchwood forest.
+1047_Defiance_01.06.55.761-01.06.57.426 	bella and asaell look across at chaya, as she appears carrying a basket.
+1047_Defiance_01.32.36.076-01.32.40.178 	and bend down to carry off arkady's lifeless body.
+1047_Defiance_01.32.43.829-01.32.46.430 	they carry him away past lilka, chaya, and rachel.
+1047_Defiance_01.56.25.653-01.56.28.193 	children are carried on the adults' shoulders,
+1048_Gran_Torino_00.08.48.804-00.08.56.581 	most carry plates or bowls of food.
+1048_Gran_Torino_00.54.11.000-00.54.16.865 	as the neighbors leave the flowers, walt carries on mowing.
+1048_Gran_Torino_01.03.39.994-01.03.45.703 	day, thao carries a bundle of garden waste out to the front of his house.
+1048_Gran_Torino_01.20.04.846-01.20.18.639 	carrying his new stuff, thao gets off a bus and jogs down a back alley heading home.
+1049_Harry_Potter_and_the_chamber_of_secrets_00.36.48.407-00.36.55.150 	they lift neville longbottom into the air by his ears and carry him across the room.
+1049_Harry_Potter_and_the_chamber_of_secrets_01.02.24.392-01.02.27.632 	a patient is carried in on a stretcher.
+1049_Harry_Potter_and_the_chamber_of_secrets_01.17.49.435-01.17.54.756 	hermione carries her meal down the hall and sits opposite them.
+1049_Harry_Potter_and_the_chamber_of_secrets_01.30.14.520-01.30.22.239 	harry follows his gaze and sees four people carrying down a stretcher covered with a sheet.
+1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.03.17.747-00.03.22.895 	she carries a small beaded bag.
+1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.19.47.396-00.19.50.681 	he's carried inside.
+1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.21.00.073-00.21.04.689 	a thestral lands, carrying bill and fleur.
+1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.50.37.296-00.50.42.444 	ron helps harry to carry her inside.
+1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.56.01.422-00.56.05.896 	he passes with a herd of minions carrying papers.
+1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.11.23.418-01.11.30.309 	she freezes as men approach, one carrying a woman.
+1050_Harry_Potter_and_the_deathly_hallows_Disk_One_02.12.33.382-02.12.43.222 	she is carrying dobby's body, wrapped in a white cloth.
+1051_Harry_Potter_and_the_goblet_of_fire_00.10.51.191-00.10.57.757 	harry sees ominous cloaked figures with skeleton masks and tall pointed hats, carrying flaming torches.
+1051_Harry_Potter_and_the_goblet_of_fire_00.18.37.806-00.18.41.412 	each carries a long staff.
+1051_Harry_Potter_and_the_goblet_of_fire_01.34.43.001-01.34.49.669 	unfriendly looking merpeople lurk, ominously close, carrying sharp tridents, and lashing their tails.
+1051_Harry_Potter_and_the_goblet_of_fire_01.54.31.808-01.54.42.535 	meanwhile, viktor plods along in his steady boots, carrying his wand.
+1052_Harry_Potter_and_the_order_of_phoenix_00.05.23.201-00.05.28.215 	harry half carries the stupefied dudley to number four privet drive.
+1052_Harry_Potter_and_the_order_of_phoenix_00.19.04.844-00.19.11.245 	carrying briefcases and bundles of papers, they join the throngs of other witches and wizards hurrying to work through the great underground hall.
+1052_Harry_Potter_and_the_order_of_phoenix_00.28.47.941-00.28.54.687 	as they wait for another carriage, neville joins them, carrying a cactus.
+1052_Harry_Potter_and_the_order_of_phoenix_01.44.06.774-01.44.12.119 	she is carried off.
 1053_Harry_Potter_and_the_philosophers_stone_00.25.52.521-00.25.57.441 	he carries it to the counter.
 1053_Harry_Potter_and_the_philosophers_stone_00.26.58.644-00.27.05.499 	he carries the slim box to the counter and carefully opens it.
 1053_Harry_Potter_and_the_philosophers_stone_00.53.48.000-00.53.55.659 	owls carrying mail flutter in through a high window.
@@ -248,15 +425,16 @@
 1053_Harry_Potter_and_the_philosophers_stone_00.59.16.876-00.59.24.849 	still carrying his broomstick, harry trails after professor mcgonagall.
 1053_Harry_Potter_and_the_philosophers_stone_01.03.48.769-01.03.57.016 	oliver and harry carry a trunk out into the school grounds.
 1053_Harry_Potter_and_the_philosophers_stone_01.28.33.545-01.28.40.685 	in the library, a floating hand carries a lantern between the bookshelves.
+1053_Harry_Potter_and_the_philosophers_stone_01.42.35.293-01.42.54.012 	carrying a lantern, filch leads the four children out of the school.
 1053_Harry_Potter_and_the_philosophers_stone_01.46.40.545-01.46.46.440 	followed by fang, malfoy turns and runs, still carrying the lamp.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_00.36.25.188-00.36.31.473 	in the distance, harry can see a river winding its way down the valley, the strong wings of the hippogriff carrying them even higher.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_00.38.33.569-00.38.43.436 	as hagrid carries malfoy away, the hippogriff gently nudges harry.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_00.38.48.934-00.38.54.191 	back at hogwarts, a ghostly knight crashes through a window carrying a severed head.
+1054_Harry_Potter_and_the_prisoner_of_azkaban_01.20.34.896-01.20.49.435 	carrying the crystal ball, harry goes back up the stairs and along the corridor.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_01.27.05.906-01.27.10.680 	he walks across the garden, carrying his sharp axe over his shoulder.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_02.02.53.304-02.03.03.865 	buckbeak carries hermione, sirius and harry away from the dark tower.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_02.04.49.502-02.04.57.797 	silhouetted against the moon, he carries sirius away to safety.
 1055_Marley_and_me_00.44.19.387-00.44.23.817 	a young dark-haired woman gets out carrying a bag and a suitcase.
-1055_Marley_and_me_00.52.45.436-00.52.47.506 	jenny's indoors with the baby in a carry seat.
 1055_Marley_and_me_01.42.03.021-01.42.12.073 	he carries marley out to the car and gently lays the old dog down in the boot.
 1055_Marley_and_me_01.48.36.736-01.48.40.140 	the grogans walk across their leaf-strewn lawn, john carrying colleen on his shoulders.
 1056_Rambo_00.23.14.107-00.23.15.260 	he carries a small bundle.
@@ -264,9 +442,10 @@
 1056_Rambo_00.28.34.474-00.28.38.919 	a volunteer carrying a child in each arm is cut down.
 1056_Rambo_00.55.19.632-00.55.20.462 	he carries a spirit-type bottle of golden-brown booze in his hand.
 1056_Rambo_01.05.04.870-01.05.09.666 	michael and the mercenaries carry lewis on a hastily- constructed stretcher.
+1057_Seven_pounds_00.09.08.088-00.09.10.992 	ben waits and stops the lift door closing with the briefcase he's carrying.
 1057_Seven_pounds_00.19.22.364-00.19.33.316 	he hurriedly carries inez out of the room, and puts her into a wheelchair and wheels her past reception.
 1057_Seven_pounds_00.25.11.063-00.25.16.544 	ben lets himself into a dark room and carries in his cases.
-1057_Seven_pounds_00.34.28.885-00.34.37.288 	the motel receptionist, larry, helps ben carry gear.
+1057_Seven_pounds_00.34.55.899-00.35.06.199 	in his motel room, ben uses a small hose to fill up the large cylindrical fish tank that larry was carrying.
 1057_Seven_pounds_01.10.12.561-01.10.17.095 	he smiles and carries on working.
 1057_Seven_pounds_01.17.34.500-01.17.43.125 	soft light shines out from the house as ben, carrying a shoulder bag, sneaks through emily's pretty garden towards the workshop.
 1057_Seven_pounds_01.25.19.593-01.25.24.278 	ben, wearing his customary gray suit and shirt and tie, enters emily's bedroom carrying the gift.
@@ -285,6 +464,7 @@
 1059_The_devil_wears_prada_01.20.05.000-01.20.13.094 	later, andy enters miranda's suite carrying some boxes.
 1059_The_devil_wears_prada_01.38.55.000-01.39.00.856 	looking slightly perturbed, miranda carries on inside.
 1059_The_devil_wears_prada_01.44.30.907-01.44.34.743 	andy grins, then carries on walking.
+1060_Yes_man_00.23.31.464-00.23.37.767 	carrying a jerrycan, he reaches a garage.
 1060_Yes_man_01.09.08.858-01.09.15.668 	he picks her up around her waist with one arm and carries her to a check-in desk.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.22.24.000-00.22.35.226 	the dragon's outstretched wings barely move as the currents of air carry it along.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.13.15.971-01.13.21.000 	two students carry someone out on a stretcher.

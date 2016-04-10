@@ -1,11 +1,4 @@
-0003_CASABLANCA_01.33.47.121-01.33.48.276 	Laszlo deposits his hat on a a nearby table.
-0004_Charade_00.10.55.862-00.11.06.351 	She begins separating the shells with her thumb nail and eating the nuts, depositing the shells in the ashtray.
-0004_Charade_00.11.51.934-00.11.57.302 	The door opens and the POLICEMAN enters again, this time carrying a wicker basket which he deposits on GRANDPIERRE's desk, and leaves.
-0008_Fargo_00.06.34.964-00.06.40.215 	He is carrying a bag of groceries which he deposits on the kitchen counter.
-0014_Ist_das_Leben_nicht_schoen_00.14.42.676-00.14.47.997 	They bring her into the dining room and deposit her gracefully into Pop's lap.
-0020_Raising_Arizona_01.22.47.226-01.22.50.721 	As we pull back from the headboard Ed's arms are gently depositing the sleeping Nathan Jr.into the crib.
-0031_The_Lost_Weekend_00.41.26.760-00.41.37.358 	Don deposits a nickel and dials the number of the Hotel Manhattan, which is above the mouthpiece of the phone.
-0032_The_Princess_Bride_00.13.02.257-00.13.04.030 	The boat and FEZZIK, Buttercup being deposited on the deck.
-1008_Spider-Man2_01.45.07.239-01.45.13.061 	he tosses a woman at spider-man who swoops down, catches her then deposits her into a web safety net.
-1011_The_Help_00.49.16.028-00.49.20.065 	he deposits her outside a set of gates and a long drive beyond.
-1037_The_Curious_Case_Of_Benjamin_Button_02.11.48.126-02.11.52.289 	she locks up and deposits her keys by a desk.
+0004_Charade_00.10.55.862-00.11.06.351 	she begins separating the shells with her thumb nail and eating the nuts, depositing the shells in the ashtray.
+0014_Ist_das_Leben_nicht_schoen_00.14.42.676-00.14.47.997 	they bring her into the dining room and deposit her gracefully into pop's lap.
+0020_Raising_Arizona_01.22.47.226-01.22.50.721 	as we pull back from the headboard ed's arms are gently depositing the sleeping nathan jr.into the crib.
+0032_The_Princess_Bride_00.13.02.257-00.13.04.030 	the boat and fezzik, buttercup being deposited on the deck.

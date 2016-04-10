@@ -1,0 +1,8 @@
+ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS606 	01:24:13,00 --> 01:24:35,50 	someone boots it out.
+ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS623 	01:27:46,00 --> 01:27:53,50 	someone boots someone back into a corner.
+BRUNO.srt 	BRUNO_DVS203 	00:54:19,00 --> 00:54:25,50 	someone boots it.
+CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS609 	01:43:36,00 --> 01:43:42,50 	they trade punches, then someone boots someone into the far wall.
+KARATE_KID.srt 	KARATE_KID_DVS217 	00:18:36,00 --> 00:18:46,50 	the bully punches him in the solar plexus, then boots him backward with a kick to the chest.
+KARATE_KID.srt 	KARATE_KID_DVS1408 	01:53:35,00 --> 01:53:52,50 	on a mat, someone's teammate with close-cropped hair jumps, and boots his opponent in the chest, knocking him flat, and scoring a point.
+SALT.srt 	SALT_DVS288 	00:50:38,00 --> 00:50:56,50 	she boots him backward.
+TRUE_GRIT.srt 	TRUE_GRIT_DVS207 	00:44:06,00 --> 00:44:13,50 	someone boots the kid with the stick off the porch and goes into the shack.

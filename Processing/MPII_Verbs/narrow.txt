@@ -1,11 +1,33 @@
-0001_American_Beauty_00.36.55.201-00.37.00.502 	CLOSE on Lester: his eyes narrow slightly, then: He cups her face in his hands and kisses her.
-0012_Get_Shorty_00.53.44.715-00.54.09.871 	Chili watches as the movie star hunches over, narrows his shoulders.
-0016_O_Brother_Where_Art_Thou_00.51.31.774-00.51.32.910 	Pappy narrows his eyes at him, wondering what he's getting at.
-0026_The_Big_Fish_00.28.44.419-00.28.45.945 	The road has narrowed to a rough path.
-1001_Flight_00.56.25.893-00.56.28.201 	Whip narrows his eyes.
-1003_How_to_Lose_Friends_and_Alienate_People_00.23.48.700-00.23.52.101 	She narrows her eyes disapprovingly.
-1005_Signs_01.34.14.469-01.34.19.207 	Graham narrows his eyes slightly as he remembers crouching by the front of Ray's pickup.
-1053_Harry_Potter_and_the_philosophers_stone_00.55.02.135-00.55.04.104 	hermione looks at them both with narrowed eyes.
+0012_Get_Shorty_00.53.44.715-00.54.09.871 	chili watches as the movie star hunches over, narrows his shoulders.
+0016_O_Brother_Where_Art_Thou_00.51.31.774-00.51.32.910 	pappy narrows his eyes at him, wondering what he's getting at.
+0017_Pianist_00.25.37.229-00.25.38.758 	the wall runs the length of the street, dividing it in half and narrowing it.
+0026_The_Big_Fish_00.28.44.419-00.28.45.945 	the road has narrowed to a rough path.
+1001_Flight_00.56.25.893-00.56.28.201 	whip narrows his eyes.
+1003_How_to_Lose_Friends_and_Alienate_People_00.23.48.700-00.23.52.101 	she narrows her eyes disapprovingly.
+1005_Signs_01.34.14.469-01.34.19.207 	graham narrows his eyes slightly as he remembers crouching by the front of ray's pickup.
+1010_TITANIC_00.24.17.257-00.24.21.924 	eyes narrowed, jack smokes a cigarette as he peers across the table to sven's partner.
+1012_Unbreakable_00.37.36.369-00.37.41.474 	a few paces further on, he looks back, eyes narrowed.
+1018_Body_Of_Lies_00.41.41.006-00.41.49.258 	ferris watches the flogging, his eyes narrowed.
+1018_Body_Of_Lies_01.28.36.362-01.28.42.520 	al-saleem studies the photo and narrows his eyes.
+1018_Body_Of_Lies_01.55.04.557-01.55.06.640 	al-saleem waves his hand and narrows his eyes.
+1026_Legion_00.59.33.326-00.59.38.431 	sandra narrows her eyes and fixes her with a cold, bitter stare.
+1030_Public_Enemies_01.08.56.882-01.08.59.805 	dillinger narrows his eyes and tilts his head.
+1030_Public_Enemies_01.12.05.092-01.12.08.758 	dillinger tilts his head, his eyes narrowing as he meets d'andrea's gaze.
+1030_Public_Enemies_02.06.53.107-02.06.59.043 	the agent narrows his eyes, glances at the fallen man and withdraws, revealing dillinger's lifeless stare.
+1030_Public_Enemies_02.10.00.509-02.10.06.150 	billie narrows her eyes.
+1037_The_Curious_Case_Of_Benjamin_Button_02.33.50.741-02.33.56.432 	she takes a seat beside him, and he narrows his eyes.
+1037_The_Curious_Case_Of_Benjamin_Button_02.37.17.145-02.37.21.824 	in the hospital, daisy lies staring up through narrowed eyes.
+1040_The_Ugly_Truth_01.30.12.612-01.30.21.236 	she looks at mike and narrows her eyes, skeptically.
+1041_This_is_40_01.31.13.451-01.31.15.605 	jodi narrows her eyes.
+1043_Vantage_Point_00.43.38.806-00.43.41.472 	the man, ted heinkin, hangs it up and narrows his eyes.
+1043_Vantage_Point_00.56.31.454-00.56.34.961 	spotting howard with his camera, sam narrows his eyes.
+1048_Gran_Torino_00.01.52.243-00.01.53.694 	walt watches the kids, tight-lipped, eyes narrowed.
+1048_Gran_Torino_00.06.08.300-00.06.13.522 	walt stares at the house, eyes narrowed.
+1049_Harry_Potter_and_the_chamber_of_secrets_00.39.08.245-00.39.10.463 	draco narrows his eyes and glares at hermione.
+1049_Harry_Potter_and_the_chamber_of_secrets_02.14.30.892-02.14.39.147 	he looks up and narrows his eyes as harry staggers towards him holding the bloody sword in one hand and the poison fang in the other.
+1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.10.55.872-01.11.01.127 	narrowing her eyes, she peers towards the dark shadows under the trees.
+1051_Harry_Potter_and_the_goblet_of_fire_00.34.44.898-00.34.48.389 	snape narrows his eyes as harry passes him.
+1051_Harry_Potter_and_the_goblet_of_fire_02.17.36.006-02.17.38.624 	barty narrows his eyes and flickers out his tongue.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_01.32.03.051-01.32.04.856 	lupin narrows his eyes.
 1057_Seven_pounds_01.07.41.556-01.07.46.360 	emily studies him through slightly narrowed eyes.
 1060_Yes_man_01.16.01.341-01.16.03.892 	thick-set tweed narrows his eyes.

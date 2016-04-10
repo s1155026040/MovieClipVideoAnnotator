@@ -1,0 +1,4 @@
+JACK_AND_JILL.srt 	JACK_AND_JILL_DVS367 	01:08:27,00 --> 01:08:33,50 	someone addresses a mustached servant, who struggles to understand him.
+JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS168 	00:30:38,00 --> 00:30:47,50 	i still don't understand why you're doing this.
+SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1099 	01:15:09,00 --> 01:15:14,50 	someone gives a solemn, understanding nod,
+SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1126 	01:16:48,00 --> 01:16:53,50 	there are matters you do not understand.

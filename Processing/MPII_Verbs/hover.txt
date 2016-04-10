@@ -1,21 +1,29 @@
-0004_Charade_00.05.48.802-00.05.49.837 	She stops as she is aware of a weird figure hovering over her.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.27.09.547-00.27.17.523 	She sees a cloud of silvery dust hovering above the floor and pulls out her wand.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.39.26.475-00.39.29.548 	He goes to a pensive, a hovering shallow metal basin.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.52.10.496-00.52.19.519 	She shoots up into the air and hovers with arms outstretched, her mouth open in a muted scream.
-1005_Signs_00.39.31.603-00.39.34.817 	On the screen, lights hover in a night sky.
-1007_Spider-Man1_00.23.38.924-00.23.44.685 	He hears a paper airplane zooming down the corridor towards a fly hovering by the fire alarm bell.
+0004_Charade_00.05.48.802-00.05.49.837 	she stops as she is aware of a weird figure hovering over her.
+0011_Gandhi_00.20.09.601-00.20.12.731 	he has paused before an office and a young girl (sonja) has come from it to speak to him about something of urgency, but she hovers, not interrupting.
+1002_Harry_Potter_and_the_Half-Blood_Prince_00.27.09.547-00.27.17.523 	she sees a cloud of silvery dust hovering above the floor and pulls out her wand.
+1007_Spider-Man1_00.23.38.924-00.23.44.685 	he hears a paper airplane zooming down the corridor towards a fly hovering by the fire alarm bell.
+1009_Spider-Man3_01.21.17.697-01.21.19.720 	hovering on his sky stick, he holds up in against the wall.
+1014_2012_02.12.11.921-02.12.15.795 	on the bridge anheuser spots a wrecked planning hovering through the crashing waves.
+1017_Bad_Santa_00.40.22.169-00.40.25.855 	willie lies in bed, the kid hovering at the bedside.
+1033_Sherlock_Holmes_A_Game_of_Shadows_00.53.05.144-00.53.08.811 	the rough looking bloke is hovering nearby with another identical man.
+1034_Super_8_00.32.05.737-00.32.09.404 	news crew helicopters hover in the air above the scene.
+1049_Harry_Potter_and_the_chamber_of_secrets_00.53.44.000-00.53.48.433 	he hovers watching as well-aimed slytherin pass sends the quaffle flying straight through the goal.
+1049_Harry_Potter_and_the_chamber_of_secrets_00.55.27.533-00.55.32.024 	harry flies back over the arena to see draco hovering in front of him.
+1049_Harry_Potter_and_the_chamber_of_secrets_01.03.54.525-01.04.01.960 	a ghostly girl in school uniform shouts in ron's face, then hovers high above their heads.
+1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.31.49.657-00.31.52.931 	the snitch is hovering beside him.
+1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.35.23.869-00.35.32.021 	images and voices emerge from the hovering light.
+1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.22.27.089-01.22.31.647 	his arms folded, idly watching the snitch hovering above his head.
+1051_Harry_Potter_and_the_goblet_of_fire_00.09.07.264-00.09.13.124 	he hovers in front of a waving flag proclaming the name krum.
+1051_Harry_Potter_and_the_goblet_of_fire_00.13.34.400-00.13.45.934 	they gaze up nervously at the ghostly skull, a dark mark still hovering above their heads.
+1052_Harry_Potter_and_the_order_of_phoenix_01.59.28.941-01.59.30.864 	hovered against the wall, harry shields his face from the heat.
 1052_Harry_Potter_and_the_order_of_phoenix_02.02.58.574-02.03.05.517 	he looks up and see voldemort hovering above him.
-1053_Harry_Potter_and_the_philosophers_stone_01.16.59.000-01.17.09.771 	the players hover above the quidditch trunk, which stands quivering in the center of the pitch.
-1053_Harry_Potter_and_the_philosophers_stone_01.46.49.545-01.46.57.348 	in the shadowy moon light, the hooded figure seems to rise up and hover above the dead unicorn.
+1053_Harry_Potter_and_the_philosophers_stone_01.20.19.908-01.20.25.368 	hovering high above the pitch, harry is following the game anxiously.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_00.28.40.131-00.28.47.275 	as the storm rages around hogwarts castle, the black- cloaked dementors hover outside the grounds of the school.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_00.55.09.246-00.55.11.221 	he hovers for a moment until the golden snitch appears in front of him.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_01.43.54.277-01.44.06.118 	again, the dementors circle overhead, then swoop lower and lower, hovering over the two figures lying helpless below as life is gradually sucked out of them.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_02.01.00.988-02.01.02.914 	the dementors hover above sirius.
-1056_Rambo_00.03.50.842-00.03.54.086 	low clouds hover above mountains.
 1057_Seven_pounds_01.04.25.000-01.04.28.057 	her hand hovers over a document, then she signs it.
+1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.00.58.000-00.01.10.287 	hovering dementors, with trailing, tattered black robes, encircle hogwarts.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.44.48.902-00.44.56.460 	harry sees a ghostly dark-haired woman in a gray dress hovering by a window.
-1062_Day_the_Earth_stood_still_01.14.30.000-01.14.34.800 	as the two remaining choppers hover above, klaatu strides past the stunned jacob into a clearing.
 2005_Signs_00.50.57.441-00.51.05.273 	a space ship is hovering over the home shooting laser beams at it.
-2051_Harry_Potter_and_the_goblet_of_fire_02.00.49.827-02.00.55.739 	a bone hovers in the air under wormtail's control, he drops it into the cauldron.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_01.10.38.970-01.10.52.644 	-- a huge silver shadow bursts from the end of his wand, hovering between him and the dementor.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_02.01.20.029-02.01.23.126 	a wisp of silver escapes his wand, hovering like a mist, then blooms magnificently.

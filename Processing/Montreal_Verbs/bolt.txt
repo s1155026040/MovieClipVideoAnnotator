@@ -1,0 +1,6 @@
+COLOMBIANA.srt 	COLOMBIANA_DVS826 	01:19:45,00 --> 01:19:49,50 	he bolts up as she enters.
+LIFE_OF_PI.srt 	LIFE_OF_PI_DVS176 	00:23:21,00 --> 00:23:26,50 	the tiger bolts away.
+ROBIN_HOOD.srt 	ROBIN_HOOD_DVS308 	01:14:31,00 --> 01:14:42,50 	they bolt upright.
+ROBIN_HOOD.srt 	ROBIN_HOOD_DVS429 	01:46:36,00 --> 01:46:47,50 	bolted shut.
+THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS294 	00:57:01,00 --> 00:57:08,50 	night falls as he bolts down someone's street and into her apartment building.
+WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS702 	01:42:05,00 --> 01:42:11,50 	someone finishes the lock, slips out, and bolts the gate.

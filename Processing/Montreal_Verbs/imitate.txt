@@ -1,0 +1,10 @@
+A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS133 	00:28:43,00 --> 00:28:47,50 	the clerk imitates him.
+BRUNO.srt 	BRUNO_DVS114 	00:25:16,00 --> 00:25:41,50 	he imitates pulling down the zipper, parting the flaps on someone's pants, and removing them.
+BURLESQUE.srt 	BURLESQUE_DVS750 	01:53:31,00 --> 01:53:38,50 	as they shake their butts at the audience, someone imitates them and someone grins.
+KARATE_KID.srt 	KARATE_KID_DVS997 	01:21:28,00 --> 01:21:32,50 	he imitates the woman.
+KATY_PERRY_PART_OF_ME.srt 	KATY_PERRY_PART_OF_ME_DVS190 	00:51:07,00 --> 00:51:16,50 	on the arena floor, a blond woman wearing a hooded jacket watches a man in a burgundy tank top dance then imitates his moves.
+LAND_OF_THE_LOST.srt 	LAND_OF_THE_LOST_DVS59 	00:19:14,00 --> 00:19:20,50 	the primate imitates her by resting a hand on someone's breast.
+MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS224 	00:32:08,00 --> 00:32:13,50 	one penguin waddles, then turns imitating someone.
+MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS250 	00:36:08,00 --> 00:36:14,50 	the penguins imitate him.
+ROBIN_HOOD.srt 	ROBIN_HOOD_DVS210 	00:50:28,00 --> 00:50:43,50 	as he heads away, he spreads his arms imitating someone.
+SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS319 	01:04:59,00 --> 01:05:05,50 	as he covers his face, both sneaky mops imitate him.

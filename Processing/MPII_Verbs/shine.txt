@@ -1,15 +1,12 @@
-0008_Fargo_00.31.46.751-00.31.48.659 	The wrecked car's headlights shine off into a snowfield abutting the highway.
-0009_Forrest_Gump_00.34.54.836-00.35.04.908 	Bubba and Forrest shine their boots.
-0043_Thelma_and_Luise_01.36.55.552-01.37.00.651 	The lights shine brightly in through the windows.
-0050_Indiana_Jones_and_the_last_crusade_00.33.22.725-00.33.30.693 	Kazim and his men step to the opening Indy made earlier and shine their flashlights through to the rat-infested water.
+0008_Fargo_00.31.46.751-00.31.48.659 	the wrecked car's headlights shine off into a snowfield abutting the highway.
+0009_Forrest_Gump_00.34.54.836-00.35.04.908 	bubba and forrest shine their boots.
+0043_Thelma_and_Luise_01.36.55.552-01.37.00.651 	the lights shine brightly in through the windows.
+0050_Indiana_Jones_and_the_last_crusade_00.33.22.725-00.33.30.693 	kazim and his men step to the opening indy made earlier and shine their flashlights through to the rat-infested water.
 1010_TITANIC_00.06.11.411-00.06.13.099 	snoop dog's lamps shine into a bunk room.
 1010_TITANIC_02.57.32.177-02.57.53.208 	rose continues to blow into the whistle as the rescuers shine their lights on her.
 1010_TITANIC_03.02.13.465-03.02.19.512 	on the ocean floor, the two submersibles shine their lights on the titanic's remains.
 1012_Unbreakable_01.28.51.139-01.28.55.135 	above the pole, bright lights shine into the pool.
 1014_2012_02.00.50.954-02.00.56.986 	inside, jackson, gordon and the others shine torches as tenzen shoulders a pneumatic drill.
-1030_Public_Enemies_01.37.31.922-01.37.34.432 	a car's headlights illuminate and shine on her anxious face.
 1031_Quantum_of_Solace_01.16.50.362-01.16.53.384 	the bus red tail lights shine through the dusty.
 1034_Super_8_01.41.14.256-01.41.17.190 	many bright lights on the arms shine out.
 1051_Harry_Potter_and_the_goblet_of_fire_01.14.44.823-01.14.49.456 	lights shine from the durmstrang galleon on the frozen lake.
-1062_Day_the_Earth_stood_still_01.09.30.208-01.09.34.632 	lights shine in the dark at mount weather flash facility, bluemont, virginia.
-1062_Day_the_Earth_stood_still_01.09.30.208-01.09.34.632 	lights shine in the dark at mount weather flash facility, bluemont, virginia.
