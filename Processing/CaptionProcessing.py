@@ -66,6 +66,7 @@ def build_captions_MVAD(actions_path, actions_ext='txt'):
     print 'File filter: %s'%(action_list_str)
 
     for action_filename in glob.glob(action_list_str):
+        print action_filename
         action = splitext(basename(action_filename))[0]
         action_file = open( action_filename)
         caption_reader = csv.reader(action_file, delimiter='\t')
@@ -100,6 +101,7 @@ def build_captions_MPII(actions_path, actions_ext='txt'):
     action_list_str = os.path.join(actions_path, '*.%s'%(actions_ext))
 
     for action_filename in glob.glob(action_list_str):
+        print action_filename
         action = splitext(basename(action_filename))[0]
         action_file = open(action_filename)
         caption_reader = csv.reader(action_file, delimiter='\t')
@@ -144,14 +146,14 @@ def main():
     # MVAD
     print 'Processing caption files for MVAD'
     mvad_actions_path = './Montreal_Verbs'
-    print 'Storing captions in DB'
     mvad_captions = build_captions_MVAD(mvad_actions_path, 'txt')
+    print 'Storing captions in DB'
     store_in_db(mvad_captions)
     print 'Finished uploading the MVAD captions'
     
     # MPII
     print 'Processing caption files for MPII'
-    mpii_actions_path = './MPII_Verbs'    
+    mpii_actions_path = './MPII_Verbs'
     mpii_captions = build_captions_MPII(mpii_actions_path, 'txt')
     print 'Storing captions in DB'
     store_in_db(mpii_captions)
