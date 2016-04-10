@@ -1,0 +1,5 @@
+21_JUMP_STREET.srt  	21_JUMP_STREET_DVS610  	01:33:38,00 --> 01:33:44,50  	His braid twirling as he twists around and falls.
+A_GOOD_DAY_TO_DIE_HARD.srt  	A_GOOD_DAY_TO_DIE_HARD_DVS660  	01:07:43,00 --> 01:07:50,50  	The prisoner twists the key, another quarter turn to the right.
+A_THOUSAND_WORDS.srt  	A_THOUSAND_WORDS_DVS166  	00:31:09,00 --> 00:31:13,50  	SOMEONE twists his mouth.
+BRUNO.srt  	BRUNO_DVS197  	00:53:33,00 --> 00:53:39,50  	SOMEONE twists his arm, and forces him to the floor.
+COLOMBIANA.srt  	COLOMBIANA_DVS1044  	01:38:27,00 --> 01:38:34,50  	He grabs her wrists, holding her back, but she twists free and slashes at him.

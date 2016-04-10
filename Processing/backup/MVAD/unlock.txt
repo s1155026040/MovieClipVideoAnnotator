@@ -1,0 +1,4 @@
+ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt  	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS334  	00:47:42,00 --> 00:47:48,50  	As he unlocks the front door, someone approaches him from behind.
+CAPTAIN_AMERICA.srt  	CAPTAIN_AMERICA_DVS323  	01:01:19,00 --> 01:01:34,50  	SOMEONE unlocks the cell doors and releases prisoners including an Asian man.
+COLOMBIANA.srt  	COLOMBIANA_DVS825  	01:19:39,00 --> 01:19:47,50  	She races to a door, unlocks it, and slips into a living room where a long haired man watches TV.
+COLOMBIANA.srt  	COLOMBIANA_DVS874  	01:23:08,00 --> 01:23:13,50  	She finds one unlocked and opens it.

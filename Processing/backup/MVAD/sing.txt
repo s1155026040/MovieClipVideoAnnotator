@@ -1,0 +1,9 @@
+BRUNO.srt  	BRUNO_DVS147  	00:37:25,00 --> 00:37:29,50  	SOMEONE sings lullaby.
+BURLESQUE.srt  	BURLESQUE_DVS28  	00:02:53,00 --> 00:02:57,50  	She sings in the empty dive.
+BURLESQUE.srt  	BURLESQUE_DVS34  	00:03:34,00 --> 00:03:42,50  	As the sequined-clad dancers command their stage, the blonde sings to empty chairs in SOMEONE's bar.
+BURLESQUE.srt  	BURLESQUE_DVS352  	00:48:34,00 --> 00:48:47,50  	The crowd claps and the two dancers behind SOMEONE sing backup as they step from side to side.
+BURLESQUE.srt  	BURLESQUE_DVS616  	01:30:12,00 --> 01:30:18,50  	Onstage, SOMEONE sings in a satiny chartreuse gown.
+BURLESQUE.srt  	BURLESQUE_DVS621  	01:31:12,00 --> 01:31:17,50  	Onstage, SOMEONE sings to a full house.
+BURLESQUE.srt  	BURLESQUE_DVS742  	01:52:29,00 --> 01:52:44,50  	SOMEONE and SOMEONE sing backup from atop the bar.
+CHASING_MAVERICKS.srt  	CHASING_MAVERICKS_DVS709  	01:10:05,00 --> 01:10:13,50  	At night, SOMEONE and SOMEONE dance together by a campfire as two women sing and play ukuleles.
+DEAR_JOHN.srt  	DEAR_JOHN_DVS146  	00:23:46,00 --> 00:23:52,50  	In a living room, SOMEONE sings and plays guitar for SOMEONE.

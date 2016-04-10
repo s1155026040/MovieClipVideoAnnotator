@@ -1,0 +1,4 @@
+A_GOOD_DAY_TO_DIE_HARD.srt  	A_GOOD_DAY_TO_DIE_HARD_DVS818  	01:21:26,00 --> 01:21:34,50  	The flames settle throughout the incinerated room.
+CAPTAIN_AMERICA.srt  	CAPTAIN_AMERICA_DVS532  	01:35:12,00 --> 01:35:27,50  	SOMEONE pulls a trooper in front of himself as SOMEONE fires, incinerating the trooper.
+CAPTAIN_AMERICA.srt  	CAPTAIN_AMERICA_DVS540  	01:35:54,00 --> 01:36:06,50  	Hydra guards and troopers fire blaster weapons, incinerating some soldiers as they approach the base.
+CAPTAIN_AMERICA.srt  	CAPTAIN_AMERICA_DVS545  	01:36:21,00 --> 01:36:29,50  	As Allied soldiers pour in, SOMEONE picks up a blaster and incinerates several of them before running off.

@@ -1,0 +1,7 @@
+21_JUMP_STREET.srt  	21_JUMP_STREET_DVS450  	01:14:06,00 --> 01:14:12,50  	We dramatically zoom back from the tanker ad glide above the truss bridge.
+A_GOOD_DAY_TO_DIE_HARD.srt  	A_GOOD_DAY_TO_DIE_HARD_DVS407  	00:38:20,00 --> 00:38:26,50  	Beneath an over cast sky, we zoom back from the steeple of the Ukraina Hotel.
+ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt  	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS503  	01:11:01,00 --> 01:11:08,50  	On SOMEONE's plantation, we zoom up the path leading to his door.
+ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt  	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS509  	01:11:39,00 --> 01:11:55,50  	Our view zooms in on a red stain north of Gettysburg which becomes a smoking field beneath an overcast sky.
+BRUNO.srt  	BRUNO_DVS92  	00:20:31,00 --> 00:20:37,50  	Who zooms into it.
+CHRONICLE.srt  	CHRONICLE_DVS140  	00:20:41,00 --> 00:20:45,50  	SOMEONE zooms in on him.
+COLOMBIANA.srt  	COLOMBIANA_DVS770  	01:14:53,00 --> 01:15:00,50  	A satellite map of Chicago appears then zooms in several times.
