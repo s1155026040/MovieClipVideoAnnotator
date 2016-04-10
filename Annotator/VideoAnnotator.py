@@ -434,6 +434,7 @@ def start_annotation_mode():
         print 'Host:     %s'%cfg.get('Database', 'db_ip')
         print 'DB Name:  %s'%cfg.get('Database', 'db_name')
         users = ['Unconnected']
+        return
     
     print ''
     
