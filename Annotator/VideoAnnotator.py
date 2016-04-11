@@ -20,9 +20,10 @@ import select
 import pickle
 import nltk
 import ConfigParser
-import VideoToGif as v2g
 import tkFileDialog
 import unicodedata
+import VideoToGif as v2g
+import TaskManager as tskm
 from Tkinter import Tk
 from AnnotationDB import *
 from os.path import basename, join, splitext
@@ -426,7 +427,7 @@ def start_annotation_mode():
                  cfg.get('Database', 'db_username'), 
                  cfg.get('Database', 'db_password'), 
                  cfg.get('Database', 'db_name')):
-        users = anno_db.get_users()
+        users = anno_db.get_all_users()
     else:
         print 'ERROR: Could not connect to database'
         print 'User:     %s'%cfg.get('Database', 'db_username')
