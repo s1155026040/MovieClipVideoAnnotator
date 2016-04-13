@@ -2,44 +2,25 @@
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS583 	01:31:16,00 --> 01:31:23,50 	the bikers riddle the dea agents with bullet holes and they collapse side by side.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS473 	01:21:20,00 --> 01:21:27,50 	someone winces, then collapses on the grass as raindrops stream down on him.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS289 	00:42:08,00 --> 00:42:27,50 	standing over him, someone collapses his modified weapon and readies himself for a final strike.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS633 	01:29:15,00 --> 01:29:34,50 	as what's left of the train races onward, the burning bridge collapses in its wake.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS640 	01:30:19,00 --> 01:31:04,50 	someone and someone notice the track collapsing above them.
 CHRONICLE.srt 	CHRONICLE_DVS101 	00:14:07,00 --> 00:14:14,50 	he collapses.
 COLOMBIANA.srt 	COLOMBIANA_DVS430 	00:37:49,00 --> 00:37:59,50 	blood splatters the wall behind someone as he collapses.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS485 	01:11:30,00 --> 01:11:35,50 	soldiers fire at his shooter, who collapses.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS578 	01:21:42,00 --> 01:21:50,50 	someone gently collapses unto the man's chest.
-DISTRICT_9.srt 	DISTRICT_9_DVS331 	00:36:17,00 --> 00:36:28,50 	he grabs a napkin and starts to mop it up, but collapses onto the table and rolls to the floor.
-DISTRICT_9.srt 	DISTRICT_9_DVS480 	00:55:45,00 --> 00:55:58,50 	he grabs the refugee with his alien hand, then collapses.
-FLIGHT.srt 	FLIGHT_DVS128 	00:25:27,00 --> 00:25:32,50 	someone is slumped next to someone's still body, her head crushed by a collapsed bulkhead.
 FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS130 	00:35:19,00 --> 00:35:24,50 	they collapse on a chair.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS401 	00:59:11,00 --> 00:59:19,50 	he collapses to his knees.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS439 	01:02:44,00 --> 01:03:11,50 	the monk grabs someone's throat and he collapses to his knees, waving his hands in surrender.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS500 	01:12:38,00 --> 01:12:42,50 	he collapses.
-HUGO.srt 	HUGO_DVS807 	01:57:40,00 --> 01:57:48,50 	a man pulls off a bearded sheik's robes and skin, leaving a skeleton which collapses into a chair.
 IN_TIME.srt 	IN_TIME_DVS710 	01:15:56,00 --> 01:16:03,50 	the man collapses.
 IN_TIME.srt 	IN_TIME_DVS711 	01:16:02,00 --> 01:16:06,50 	the man collapses.
-IN_TIME.srt 	IN_TIME_DVS779 	01:22:06,00 --> 01:22:12,50 	as he collapses, someone tilts his head with a smirk.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS593 	01:41:38,00 --> 01:41:50,50 	turning as she slides across the floor, she throws taser darts at the second guard, who collapses.
 LAND_OF_THE_LOST.srt 	LAND_OF_THE_LOST_DVS194 	01:09:56,00 --> 01:10:01,50 	the someone collapses.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS1049 	01:44:14,00 --> 01:44:20,50 	someone collapses onto the sand as the boat sways with the waves.
 MORNING_GLORY.srt 	MORNING_GLORY_DVS237 	00:52:19,00 --> 00:52:24,50 	she collapses over onto the sofa.
-MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS48 	00:07:58,00 --> 00:08:05,50 	the boy kicks the ball into his groin and he collapses on the floor.
-PROMETHEUS.srt 	PROMETHEUS_DVS367 	00:36:02,00 --> 00:36:11,50 	holloway and someone arrive in time to watch it collapse at a doorway.
 PROMETHEUS.srt 	PROMETHEUS_DVS751 	01:21:11,00 --> 01:21:19,50 	someone races from the room but almost immediately collapses against the wall in pain.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS420 	01:44:46,00 --> 01:44:51,50 	he collapses face down.
-RUBY_SPARKS.srt 	RUBY_SPARKS_DVS638 	01:31:41,00 --> 01:31:50,50 	he steps into the closet, stares at the bare shelves then collapses to his knees and bows his head to the floor.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS454 	01:36:06,00 --> 01:36:11,50 	someone collapses onto the ground.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS525 	01:17:04,00 --> 01:17:11,50 	reaching his table, he collapses into a chair and leans back heavily.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1280 	02:14:32,00 --> 02:14:37,50 	she collapses over his right side.
-THE_WATCH.srt 	THE_WATCH_DVS499 	01:28:35,00 --> 01:28:41,50 	someone collapses to his knees, then falls face down on the floor.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS323 	00:58:49,00 --> 00:59:01,50 	someone's knees slowly buckle and he collapses to the couch.
-THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS342 	01:01:22,00 --> 01:01:28,50 	his little nephew spins around with a bucket on his head then collapses.
 THOR.srt 	THOR_DVS186 	00:24:46,00 --> 00:24:54,50 	the shockwave spreads, toppling rock formations and collapsing the ground beneath the frost giants feet.
 THOR.srt 	THOR_DVS188 	00:24:55,00 --> 00:25:04,50 	someone's fleeing companions race just ahead of the collapsing ice, which exposes an immense underground cavern.
-THOR.srt 	THOR_DVS195 	00:25:34,00 --> 00:25:40,50 	the beast's eyes roll backward as it collapses onto the ground.
-THOR.srt 	THOR_DVS293 	00:41:45,00 --> 00:41:51,50 	collapsing to the floor, someone reaches up toward someone then falls motionless.
 THOR.srt 	THOR_DVS444 	01:11:47,00 --> 01:11:53,50 	someone grins as he collapses onto someone's bed.
-THOR.srt 	THOR_DVS669 	01:39:57,00 --> 01:40:05,50 	as the end of the bridge collapses, flames rip apart the spinning observatory, which then crashes into the water.
 TRUE_GRIT.srt 	TRUE_GRIT_DVS493 	01:33:16,00 --> 01:33:21,50 	she collapses back despairingly.
-ZOMBIELAND.srt 	ZOMBIELAND_DVS277 	00:30:22,00 --> 00:30:27,50 	the roof collapses as the hummer speeds off.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS463 	00:53:43,00 --> 00:53:47,50 	someone collapses into a seat.

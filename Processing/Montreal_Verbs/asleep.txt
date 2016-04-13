@@ -1,4 +1,1 @@
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS36 	00:03:56,00 --> 00:04:03,50 	someone peeks down from a loft glimpsing his parents asleep in bed.
-LAND_OF_THE_LOST.srt 	LAND_OF_THE_LOST_DVS170 	01:02:23,00 --> 01:02:30,50 	someone turns, finding all the hatchlings asleep behind him.
-RUBY_SPARKS.srt 	RUBY_SPARKS_DVS622 	01:30:36,00 --> 01:30:42,50 	the next morning, someone lies asleep on his side.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS354 	00:39:28,00 --> 00:39:34,50 	"kids asleep at 2631 castle heights."

@@ -1,8 +1,5 @@
-0003_CASABLANCA_00.06.36.128-00.06.36.417 	Again we isolate on the neon sign.
-0011_Gandhi_01.25.28.124-01.25.36.189 	The camera pulls back from the dome, revealing the rooftops, the trees and then suddenly, center of frame, the face of General Dyer -- blunt, cold, isolated in a cocoon of vengeful military righteousness.
-0020_Raising_Arizona_01.28.20.571-01.28.21.642 	We have been isolating in on one of the children peeling the wrappings off a package marked to Nathan Jr.
-0049_Hannah_and_her_sisters_01.35.46.619-01.35.49.107 	Next, the film cuts to an almost isolated path in Central Park, complete, with old-fashioned streetlamps and scattered leaves.
-1030_Public_Enemies_00.50.06.145-00.50.08.811 	a lawman shuts a door, showing an isolated cellblock.
-1034_Super_8_00.11.28.891-00.11.39.696 	the car pulls up outside an isolated railway station, and the kids get out.
-1041_This_is_40_01.07.16.526-01.07.20.715 	walking a more isolated path, debbie spots a blonde boy with a prop.
-1051_Harry_Potter_and_the_goblet_of_fire_00.41.43.846-00.41.46.285 	it heads towards a tall, isolated tower.
+0001_American_Beauty_00.05.13.069-00.05.18.464 	lester sits across from him, looking small and isolated.
+0003_CASABLANCA_00.06.36.128-00.06.36.417 	again we isolate on the neon sign.
+0011_Gandhi_01.25.28.124-01.25.36.189 	the camera pulls back from the dome, revealing the rooftops, the trees and then suddenly, center of frame, the face of general dyer -- blunt, cold, isolated in a cocoon of vengeful military righteousness.
+0020_Raising_Arizona_01.28.20.571-01.28.21.642 	we have been isolating in on one of the children peeling the wrappings off a package marked to nathan jr.
+0049_Hannah_and_her_sisters_01.35.46.619-01.35.49.107 	next, the film cuts to an almost isolated path in central park, complete, with old-fashioned streetlamps and scattered leaves.

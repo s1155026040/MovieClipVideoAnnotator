@@ -12,7 +12,6 @@ A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS390 	00:35:38,00 --> 00:35
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS432 	00:41:58,00 --> 00:42:03,50 	a threshold shows the three men venturing through a pair of tall glass doors.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS438 	00:42:15,00 --> 00:42:21,50 	the tall windows show a fog-enshrouded city outside,as they cross the room.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS585 	00:59:47,00 --> 00:59:51,50 	he shows someone a set of keys.
-A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS140 	00:29:31,00 --> 00:29:37,50 	he steps to the curb, then glances at the crosswalk sign, which shows a red hand.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS57 	00:05:39,00 --> 00:05:45,50 	someone shows her one of the pages.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS127 	00:15:16,00 --> 00:15:20,50 	he shows a modified rifle.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS150 	00:18:43,00 --> 00:18:49,50 	a mirror shows someone a shadow with no one before it.
@@ -31,7 +30,6 @@ BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS243 	00:
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS310 	00:50:32,00 --> 00:50:39,50 	outside a public high school, someone shows someone's cd to passing students.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS461 	01:12:35,00 --> 01:12:40,50 	a montage shows their game play.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS483 	01:14:29,00 --> 01:14:34,50 	someone shows someone her studio.
-BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS679 	01:43:38,00 --> 01:43:46,50 	a skyward view shows puffy clouds behind someone, someone, and someone who wear sunglasses and lip sync.
 BLINDDATING.srt 	BLINDDATING_DVS122 	00:33:04,00 --> 00:33:11,50 	behind her back, someone shows a picture of a sexual pose.
 BLINDDATING.srt 	BLINDDATING_DVS285 	01:11:18,00 --> 01:11:35,50 	a microscopic view shows blood flow along a y-shaped pathway.
 BLINDDATING.srt 	BLINDDATING_DVS292 	01:12:44,00 --> 01:12:51,50 	a monitor shows a transmitter fitted in to someone's temple.
@@ -42,7 +40,6 @@ BRUNO.srt 	BRUNO_DVS87 	00:19:03,00 --> 00:19:07,50 	he shows an ultrasound.
 BRUNO.srt 	BRUNO_DVS123 	00:28:36,00 --> 00:28:41,50 	a globe shows the middle east.
 BRUNO.srt 	BRUNO_DVS155 	00:41:44,00 --> 00:41:48,50 	another shows baby o.j.-
 BRUNO.srt 	BRUNO_DVS157 	00:43:28,00 --> 00:43:44,50 	a flashback shows the cardboard box arriving at the baggage claim carousel.
-BRUNO.srt 	BRUNO_DVS159 	00:44:08,00 --> 00:44:13,50 	it shows him holding a boy.
 BRUNO.srt 	BRUNO_DVS191 	00:49:55,00 --> 00:50:01,50 	tvs in the store window, show celebrities on red carpets.
 BRUNO.srt 	BRUNO_DVS220 	01:01:31,00 --> 01:01:44,50 	now, a time appears - 2:23 a.m. a green-hued night-vision vision shows four tents glows from within.
 BURLESQUE.srt 	BURLESQUE_DVS36 	00:03:55,00 --> 00:04:08,50 	other views show the glitzy athletic dancers in unison, then the blonde rocking out in someone's empty bar.
@@ -53,32 +50,21 @@ BURLESQUE.srt 	BURLESQUE_DVS270 	00:37:59,00 --> 00:38:03,50 	it shows a glamoro
 BURLESQUE.srt 	BURLESQUE_DVS439 	01:00:38,00 --> 01:00:44,50 	she shows an engagement ring.
 BURLESQUE.srt 	BURLESQUE_DVS507 	01:10:17,00 --> 01:10:22,50 	the photo shows someone with coco and another dancer.
 BURLESQUE.srt 	BURLESQUE_DVS736 	01:50:36,00 --> 01:50:42,50 	the title reads, show me how you burlesque, by someone.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS86 	00:13:06,00 --> 00:13:16,50 	in a nearby recruitment booth, a man steps in front of a mirror which shows his reflected face on a body of a soldier.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS344 	00:32:12,00 --> 00:32:19,50 	in the window glass, a reflection shows blond passing something off to two of thuggish bullies.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS395 	00:37:03,00 --> 00:37:07,50 	one shows him on skis in the snow.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS396 	00:37:05,00 --> 00:37:11,50 	another shows his boyhood-self sitting close to a father figure.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS431 	00:40:51,00 --> 00:40:59,50 	sitting on his board, someone holds two arms in the air and someone shows a beaming smile from the beach.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS936 	01:31:41,00 --> 01:31:47,50 	he shows someone a surfing magazine exposing the existence of mavericks.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS1127 	01:48:13,00 --> 01:48:18,50 	a photo shows someone and someone together.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS1158 	01:49:49,00 --> 01:49:55,50 	an aerial view shows their multi-colored surfboards in a circle.
 CHRONICLE.srt 	CHRONICLE_DVS28 	00:03:45,00 --> 00:03:51,50 	campaign posters show a smiling young man.
 CHRONICLE.srt 	CHRONICLE_DVS44 	00:05:06,00 --> 00:05:11,50 	the mirror shows him peering through the eyepiece.
-CHRONICLE.srt 	CHRONICLE_DVS49 	00:06:09,00 --> 00:06:15,50 	a stationary view shows someone sitting at a desk in his bedroom.
 CHRONICLE.srt 	CHRONICLE_DVS102 	00:14:13,00 --> 00:14:21,50 	the camera's view jostles, showing the illuminated crystalline sunburst, then goes black.
-CHRONICLE.srt 	CHRONICLE_DVS157 	00:23:52,00 --> 00:23:57,50 	someone holds it up, showing its bent tines.
-CHRONICLE.srt 	CHRONICLE_DVS196 	00:28:55,00 --> 00:29:02,50 	the mind-controlled camera view shows someone seated close to us, looking in our direction.
 CHRONICLE.srt 	CHRONICLE_DVS392 	00:59:34,00 --> 00:59:40,50 	now, a crooked view shows a pharmacists nametag.
 CHRONICLE.srt 	CHRONICLE_DVS404 	01:00:42,00 --> 01:00:48,50 	only his eyes show behind the curved window on the face shield.
-CHRONICLE.srt 	CHRONICLE_DVS423 	01:02:22,00 --> 01:02:28,50 	surveillance footage shows someone taking off his backpack.
 CHRONICLE.srt 	CHRONICLE_DVS426 	01:02:40,00 --> 01:02:47,50 	the security footage shows the clerk hopping over his counter with a shotgun.
 CHRONICLE.srt 	CHRONICLE_DVS429 	01:02:52,00 --> 01:03:01,50 	security footage shows the gun flying from the clerk's grasp and discharging into a propane tank.
-CHRONICLE.srt 	CHRONICLE_DVS432 	01:03:05,00 --> 01:03:13,50 	now, a hospital surveillance camera shows a policeman walking mr.
-CHRONICLE.srt 	CHRONICLE_DVS434 	01:03:25,00 --> 01:03:31,50 	a surveillance camera shows the cop leaving the room.
-CHRONICLE.srt 	CHRONICLE_DVS438 	01:03:44,00 --> 01:03:50,50 	the tripod camera shows him taking someone's hand.
 CHRONICLE.srt 	CHRONICLE_DVS444 	01:05:16,00 --> 01:05:22,50 	the surveillance camera shows him leaning over someone and jabbing a finger at him.
 CHRONICLE.srt 	CHRONICLE_DVS492 	01:11:01,00 --> 01:11:09,50 	a bank's black and white security footage shows them smashing through a wall in its lobby.
 CHRONICLE.srt 	CHRONICLE_DVS512 	01:13:13,00 --> 01:13:20,50 	the police chopper's camera shows the boys landing in a plaza near a statue.
-CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS49 	00:09:42,00 --> 00:09:58,50 	as his wife looks over from the stove, he shows her the past
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS131 	00:28:54,00 --> 00:29:03,50 	view shows him choose another.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS158 	00:34:31,00 --> 00:34:45,50 	a billboard shows a rosy-cheeked lady smiling over her steering wheel next to a chipper dog.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS257 	01:03:17,00 --> 01:03:26,50 	motioning someone aside, someone shows him a sports page headline.
@@ -101,12 +87,10 @@ COLOMBIANA.srt 	COLOMBIANA_DVS624 	00:58:58,00 --> 00:59:05,50 	a view through t
 COLOMBIANA.srt 	COLOMBIANA_DVS694 	01:05:26,00 --> 01:05:32,50 	two clips show someone at the police station, her face obscured.
 COLOMBIANA.srt 	COLOMBIANA_DVS757 	01:13:18,00 --> 01:13:22,50 	he shows the photo on his cell.
 COLOMBIANA.srt 	COLOMBIANA_DVS808 	01:18:28,00 --> 01:18:35,50 	a surveillance feed shows the swat truck arriving outside.
-COLOMBIANA.srt 	COLOMBIANA_DVS907 	01:25:44,00 --> 01:25:49,50 	he sits as she shows the disconnected cameras.
 COLOMBIANA.srt 	COLOMBIANA_DVS914 	01:27:03,00 --> 01:27:07,50 	then shows a photo on a cellphone.
 COLOMBIANA.srt 	COLOMBIANA_DVS917 	01:27:43,00 --> 01:27:49,50 	it shows agent someone with his wife and two young children.
 COLOMBIANA.srt 	COLOMBIANA_DVS985 	01:34:24,00 --> 01:34:30,50 	a beefy gunman shows him a grenade and the bearded gangster nods.
 COLOMBIANA.srt 	COLOMBIANA_DVS1071 	01:40:52,00 --> 01:40:57,50 	a view from outside shows the van shaking.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS216 	00:34:07,00 --> 00:34:17,50 	a window shows someone's car pulling away.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS224 	00:34:48,00 --> 00:34:58,50 	its long side window shows mr.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS389 	01:00:29,00 --> 01:00:39,50 	a wider view shows warm sunlight glinting through spanish moss on a tree, as the couple embraces in front of the stables.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS427 	01:03:56,00 --> 01:04:03,50 	a close-up shows her pen gracefully filling a page with elegant cursive.
@@ -114,18 +98,13 @@ DEAR_JOHN.srt 	DEAR_JOHN_DVS432 	01:04:29,00 --> 01:04:35,50 	now, a close-up sh
 DEAR_JOHN.srt 	DEAR_JOHN_DVS644 	01:27:33,00 --> 01:27:38,50 	one photograph shows someone in a wedding dress.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS770 	01:41:26,00 --> 01:41:33,50 	a view through a cafe window shows someone seated at a table by herself.
 DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS244 	00:59:50,00 --> 00:59:56,50 	the first shows two mice getting married.
-DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS245 	00:59:53,00 --> 01:00:03,50 	the next shows the specky boy mouse returning home and finding the girl mouse in bed with a bearded mouse that wears a polo neck bib.
-DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS246 	01:00:03,00 --> 01:00:12,50 	the next shows the boy mouse sitting alone at the kitchen table with a photo of the girl mouse propped up in front of him.
 DISTRICT_9.srt 	DISTRICT_9_DVS40 	00:05:24,00 --> 00:05:29,50 	showing a police officer.
 DISTRICT_9.srt 	DISTRICT_9_DVS183 	00:21:15,00 --> 00:21:25,50 	a helicopter view outside shows someone's team approaching their shack.
 DISTRICT_9.srt 	DISTRICT_9_DVS350 	00:38:42,00 --> 00:38:56,50 	four security cameras show fast-motion footage of someone getting worked on.
 DISTRICT_9.srt 	DISTRICT_9_DVS358 	00:39:37,00 --> 00:39:47,50 	he shows a machine gun-like alien weapon.
-DISTRICT_9.srt 	DISTRICT_9_DVS538 	01:03:20,00 --> 01:03:26,50 	he watches someone show his son the mnu.
 DISTRICT_9.srt 	DISTRICT_9_DVS552 	01:04:59,00 --> 01:05:03,50 	he shows someone with the alien.
 DISTRICT_9.srt 	DISTRICT_9_DVS850 	01:40:47,00 --> 01:40:53,50 	it shows a saucer-like jet at its perimeter.
 EASY_A.srt 	EASY_A_DVS34 	00:08:33,00 --> 00:08:37,50 	he shows a title.
-EASY_A.srt 	EASY_A_DVS36 	00:09:02,00 --> 00:09:12,50 	where a girl turns to show a text to a friend at a desk behind her.
-EASY_A.srt 	EASY_A_DVS126 	00:39:41,00 --> 00:39:52,50 	with a bustier showing off her narrow waist, she halts facing someone and someone.
 EASY_A.srt 	EASY_A_DVS151 	00:48:06,00 --> 00:48:12,50 	someone shows another page to her webcam.
 EASY_A.srt 	EASY_A_DVS162 	00:52:44,00 --> 00:52:48,50 	she shows a plaque.
 EASY_A.srt 	EASY_A_DVS269 	01:21:19,00 --> 01:21:23,50 	someone shows her scarf.
@@ -171,7 +150,6 @@ IN_TIME.srt 	IN_TIME_DVS274 	00:28:04,00 --> 00:28:12,50 	later, a view through 
 IN_TIME.srt 	IN_TIME_DVS296 	00:30:25,00 --> 00:30:31,50 	a cube at its center shows 600 years in the pot.
 IN_TIME.srt 	IN_TIME_DVS309 	00:32:08,00 --> 00:32:14,50 	his clock shows over 9000 years.
 IN_TIME.srt 	IN_TIME_DVS440 	00:47:19,00 --> 00:47:25,50 	someone checks his body clock which shows an hour and ten minutes.
-IN_TIME.srt 	IN_TIME_DVS478 	00:51:51,00 --> 00:51:57,50 	someone's clock shows three and a half minutes left.
 IN_TIME.srt 	IN_TIME_DVS553 	00:59:36,00 --> 00:59:41,50 	a flashback shows her in bed.
 IN_TIME.srt 	IN_TIME_DVS719 	01:16:50,00 --> 01:16:59,50 	someone shows a hand of cards.
 IN_TIME.srt 	IN_TIME_DVS720 	01:17:02,00 --> 01:17:06,50 	he shows his hand.
@@ -197,7 +175,6 @@ INSIDE_MAN.srt 	INSIDE_MAN_DVS417 	02:00:00,00 --> 02:00:04,50 	he shows the rin
 INSIDE_MAN.srt 	INSIDE_MAN_DVS424 	02:00:55,00 --> 02:01:12,50 	a shadow shows a figure in a brimmed hat.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS76 	00:23:30,00 --> 00:23:38,50 	it shows assembled guests.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS167 	00:54:05,00 --> 00:54:11,50 	someone eyes his cell, shows it to someone, and answers.
-ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS240 	01:09:03,00 --> 01:09:21,50 	picture windows show someone trudging past and turning off lights in the house.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS266 	01:15:41,00 --> 01:15:46,50 	she shows a big slice of chocolate cake.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS344 	01:37:43,00 --> 01:37:47,50 	he shows someone in a patterned sweater.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS379 	01:46:28,00 --> 01:46:38,50 	large windows show him talking on a phone.
@@ -206,27 +183,21 @@ JACK_AND_JILL.srt 	JACK_AND_JILL_DVS25 	00:02:58,00 --> 00:03:05,50 	now, the pr
 JACK_AND_JILL.srt 	JACK_AND_JILL_DVS26 	00:03:03,00 --> 00:03:09,50 	his sister passes and shows a bushy patch under her arm.
 JACK_AND_JILL.srt 	JACK_AND_JILL_DVS37 	00:03:37,00 --> 00:03:41,50 	a stomach puppet shows up.
 JACK_AND_JILL.srt 	JACK_AND_JILL_DVS136 	00:27:32,00 --> 00:27:38,50 	the photo shows someone about the chow down on a greasy sandwich.
-JACK_AND_JILL.srt 	JACK_AND_JILL_DVS137 	00:27:58,00 --> 00:28:04,50 	now, an ad shows shaquille o'neal wearing a long gray wig.
 JACK_AND_JILL.srt 	JACK_AND_JILL_DVS191 	00:37:24,00 --> 00:37:32,50 	a jumbo screen on the digital scoreboard shows a celebrity cam image of the two stars.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS84 	00:11:59,00 --> 00:12:07,50 	now, a poster shows someone, three others, and the title - portrait of a lost generation.
-JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS132 	00:23:27,00 --> 00:23:32,50 	she turns it, showing the title.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS137 	00:23:48,00 --> 00:23:53,50 	photos show poultry being prepared.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS305 	01:00:19,00 --> 01:00:29,50 	outside, upstairs windows show a crowded cocktail party within.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS362 	01:09:33,00 --> 01:09:41,50 	later, the timer shows one minute remaining.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS496 	01:35:11,00 --> 01:35:17,50 	someone shows her a letter.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS502 	01:37:49,00 --> 01:37:56,50 	a book entitled, real home-cooking, shows a chubby american woman.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS506 	01:39:23,00 --> 01:39:43,50 	someone's laptop screen shows her write, "so last night i made floating."
-JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS606 	01:57:14,00 --> 01:57:20,50 	opening her purse, she pulls out a pound of butter, and shows to the portrait.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS607 	01:57:18,00 --> 01:57:21,50 	and shows to the portrait.
 JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS72 	00:25:27,00 --> 00:25:37,50 	from a stairway, someone ascends into view in a white sheet dress that shows off her long tan legs and graceful curves.
-JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS259 	01:27:23,00 --> 01:27:34,50 	someone looks to someone, who gestures forward to show off her own moves.
 KARATE_KID.srt 	KARATE_KID_DVS47 	00:04:02,00 --> 00:04:06,50 	he shows a magazine.
-KARATE_KID.srt 	KARATE_KID_DVS70 	00:05:52,00 --> 00:06:01,50 	in an airport, a statue shows four serpentine dragons holding up a globe.
 KARATE_KID.srt 	KARATE_KID_DVS72 	00:06:05,00 --> 00:06:10,50 	a nearby sign shows a chinese character.
 KARATE_KID.srt 	KARATE_KID_DVS167 	00:14:02,00 --> 00:14:08,50 	he shows it to the aging players at the table, who nod.
 KARATE_KID.srt 	KARATE_KID_DVS658 	00:55:38,00 --> 00:55:53,50 	an aerial view shows mr.
 KARATE_KID.srt 	KARATE_KID_DVS786 	01:06:27,00 --> 01:06:38,50 	the cover shows a photo of someone on a hand-drawn background that reads, "play along.
-KARATE_KID.srt 	KARATE_KID_DVS828 	01:08:46,00 --> 01:08:52,50 	the performance screen shows puppets of the goddess and her lover holding hands.
 KARATE_KID.srt 	KARATE_KID_DVS1037 	01:24:10,00 --> 01:24:16,50 	now, a child's drawing shows a coiled cobra with a fanned hood.
 KARATE_KID.srt 	KARATE_KID_DVS1182 	01:37:08,00 --> 01:37:15,50 	the clipping shows photos of a smiling young woman and a pudgy-cheeked young boy.
 KARATE_KID.srt 	KARATE_KID_DVS1184 	01:37:13,00 --> 01:37:18,50 	a third photo shows a wrecked scirocco,
@@ -236,12 +207,10 @@ KARATE_KID.srt 	KARATE_KID_DVS1231 	01:40:59,00 --> 01:41:05,50 	it shows someon
 KARATE_KID.srt 	KARATE_KID_DVS1273 	01:43:04,00 --> 01:43:10,50 	his shadow shows him raise one knee and balance on one leg.
 KARATE_KID.srt 	KARATE_KID_DVS1278 	01:43:18,00 --> 01:43:26,50 	their shadows show someone puppet someone through a series of fluid movements.
 KARATE_KID.srt 	KARATE_KID_DVS1282 	01:43:36,00 --> 01:43:44,50 	someone's shadow shows the high-kick pose, as he balances easily on his other leg.
-KARATE_KID.srt 	KARATE_KID_DVS1399 	01:52:39,00 --> 01:52:47,50 	someone stares up at the video scoreboard, which shows an instant replay of him running from his opponent.
 KARATE_KID.srt 	KARATE_KID_DVS1438 	01:56:44,00 --> 01:56:51,50 	the big screen shows the names and photos of the four semifinalists.
 KARATE_KID.srt 	KARATE_KID_DVS1439 	01:56:48,00 --> 01:56:55,50 	next, it shows someone versus the mohawk boy, named someone ping.
 KARATE_KID.srt 	KARATE_KID_DVS1561 	02:06:20,00 --> 02:06:32,50 	the big screen shows a point awarded to someone.
 KARATE_KID.srt 	KARATE_KID_DVS1566 	02:07:06,00 --> 02:07:18,50 	the big screen shows a point awarded to someone, tying the score at 1 to 1.
-KARATE_KID.srt 	KARATE_KID_DVS1589 	02:09:35,00 --> 02:09:48,50 	as master someone looks to the big screen, it shows a slow-motion replay of the brutal kick.
 KARATE_KID.srt 	KARATE_KID_DVS1590 	02:09:46,00 --> 02:09:52,50 	the score display shows a point being awarded to someone,
 KNOCKED_UP.srt 	KNOCKED_UP_DVS42 	00:26:51,00 --> 00:26:55,50 	the screen shows the guys email address.
 KNOCKED_UP.srt 	KNOCKED_UP_DVS91 	00:55:28,00 --> 00:55:36,50 	a baby bjorn baby sling box shows a couple beaming at each other.
@@ -301,9 +270,7 @@ PROMETHEUS.srt 	PROMETHEUS_DVS511 	00:54:34,00 --> 00:54:45,50 	meanwhile, on th
 PROMETHEUS.srt 	PROMETHEUS_DVS551 	01:01:29,00 --> 01:01:37,50 	as the storm rages outside, someone's helmet view shows fluid streaming from the urns.
 PROMETHEUS.srt 	PROMETHEUS_DVS614 	01:07:40,00 --> 01:07:49,50 	as someone ventures forward, the doorway shows thousands of urns stacked in giant hourglass-shaped units.
 PROMETHEUS.srt 	PROMETHEUS_DVS618 	01:08:00,00 --> 01:08:06,50 	someone's screen shows the countless supply.
-PROMETHEUS.srt 	PROMETHEUS_DVS660 	01:11:50,00 --> 01:11:56,50 	showing a helmetless engineer stepping up on the disk.
 PROMETHEUS.srt 	PROMETHEUS_DVS875 	01:36:38,00 --> 01:36:44,50 	a hologram shows the tunnel system without the surrounding terrain.
-PROMETHEUS.srt 	PROMETHEUS_DVS906 	01:40:20,00 --> 01:40:26,50 	on the bridge someone watches a video feed showing her father's heart rate.
 PROMETHEUS.srt 	PROMETHEUS_DVS999 	01:49:28,00 --> 01:49:36,50 	on the far end, the false windows show the video of the little girl playing the violin.
 PROMETHEUS.srt 	PROMETHEUS_DVS1007 	01:50:01,00 --> 01:50:10,50 	wet with condensation, the doors windows show the med pod moving on its own in the flickering light.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS162 	00:29:24,00 --> 00:29:29,50 	fbi field office, a chubby agent shows a jacket.
@@ -312,10 +279,7 @@ PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS186 	00:35:40,00 --> 00:36:03,50 	another 
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS205 	00:39:08,00 --> 00:39:14,50 	returning, the woman shows off her shoes.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS263 	00:50:07,00 --> 00:50:18,50 	the door showing an isolated cell block.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS283 	00:53:57,00 --> 00:54:05,50 	a black-and-white view through one shows a police officer.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS451 	01:27:11,00 --> 01:27:17,50 	an adjacent windows shows a gangster taking aim.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS464 	01:28:53,00 --> 01:29:03,50 	a view through the leafy canopy shows the criminals scurrying off.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS507 	01:36:09,00 --> 01:36:16,50 	someone checks her watch then turns up a radio, windows behind her show the passing train.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS625 	01:57:18,00 --> 01:58:13,50 	further along the bulletin board, he finds black and white photos of himself - others show more buildings.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS625 	01:57:18,00 --> 01:58:13,50 	now, he crosses to a bulletin board showing mugshots of someone.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS625 	01:57:18,00 --> 01:58:13,50 	someone's gaze roves down a line of mugshots showing makley, someone, someone, homer, someone, gil, and youngblood, all stamped with the word deceased.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS210 	00:50:28,00 --> 00:50:43,50 	someone shifts his weight and extends his arm showing someone the oval ring in his hand.
@@ -347,10 +311,8 @@ SANCTUM.srt 	SANCTUM_DVS469 	01:27:09,00 --> 01:27:19,50 	later, a view through 
 SANCTUM.srt 	SANCTUM_DVS474 	01:28:20,00 --> 01:28:29,50 	now, a wide view shows pale light shining through the hole casting the cavern in a purple-tinged glow.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS598 	00:39:43,00 --> 00:39:51,50 	now, a view through a barred upper floor window shows a man lying dead in the street below.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1274 	01:26:07,00 --> 01:26:14,50 	on the opposite page, an illustration shows light from an oncoming train shining brightly from a round tunnel.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1423 	01:36:45,00 --> 01:36:52,50 	a view of a bustling sidewalk shows two girls walking arm in arm.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS61 	00:12:30,00 --> 00:12:35,50 	the innermost doll now shows a man with a high forehead and long fingernail
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS82 	00:15:55,00 --> 00:16:00,50 	someone shows a wolf calendar.
-SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS156 	00:30:44,00 --> 00:30:55,50 	someone's smoky vision shows an old chinese woman finding the someone.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS156 	00:30:44,00 --> 00:30:55,50 	its outermost portrait still shows the man with long fingernails.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS179 	00:35:04,00 --> 00:35:10,50 	someone shows a smidge with his fingers.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS184 	00:36:04,00 --> 00:36:13,50 	the next doll shows a puritan girl.
@@ -361,15 +323,12 @@ SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS375 	01:19:14,00 --> 01:19:18,
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS464 	01:38:20,00 --> 01:38:28,50 	an aerial view shows plasma flick.
 SOUL_SURFER.srt 	SOUL_SURFER_DVS41 	00:12:53,00 --> 00:13:03,50 	in the gazebo, the young woman shows an image on a tv.
 SOUL_SURFER.srt 	SOUL_SURFER_DVS307 	01:32:31,00 --> 01:32:35,50 	the timer shows less than two minutes.
-SPARKLE_2012.srt 	SPARKLE_2012_DVS402 	01:08:07,00 --> 01:08:13,50 	he sits down at the table and shows her a notebook.
-SPARKLE_2012.srt 	SPARKLE_2012_DVS575 	01:34:33,00 --> 01:34:39,50 	she takes it out of her purse, unfolds it and shows it to the women.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS717 	01:35:48,00 --> 01:35:53,50 	the butler nestor shows them inside.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS36 	00:08:15,00 --> 00:08:23,50 	his drawing shows a fist punching the teeth out of the bearded teacher's grotesque caricature.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS79 	00:18:00,00 --> 00:18:05,50 	his drawing shows the demon punching through the page.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS81 	00:18:43,00 --> 00:18:53,50 	now a film shows a man and boy descending a spiral staircase on the eiffel tower.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS95 	00:22:28,00 --> 00:22:33,50 	a monitor shows an abstract painting.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS187 	00:36:45,00 --> 00:36:52,50 	one last glimpse shows the dresser without someone in front of it.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS217 	00:42:04,00 --> 00:42:14,50 	the sharp perspective canvas shows six rows of plates each holding a slice of cake or pie identical to the others in its row.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS47 	00:08:45,00 --> 00:08:55,50 	he shows a badge on his belt.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS106 	00:21:11,00 --> 00:21:22,50 	now, a bird's-eye view shows someone's car exiting a tunnel and approaching a toll plaza.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS191 	00:39:28,00 --> 00:39:32,50 	he shows her the dice.
@@ -387,19 +346,16 @@ THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS42 	00:07:59,00 --> 00:08:07,50 	one sho
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS61 	00:13:23,00 --> 00:13:29,50 	a distant doorway shows a nurse making a bed.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS254 	00:40:16,00 --> 00:40:20,50 	someone shows his black eye.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS277 	00:43:36,00 --> 00:43:45,50 	the real estate sign lists the name someone speer and shows a happy photo of a beady-eyed man with a toothy grin.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS280 	00:43:52,00 --> 00:43:59,50 	a central photo shows a smiling someone wearing a race number on her shirt.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS296 	00:45:11,00 --> 00:45:19,50 	in the hospital, a pair of windowed doors show someone arriving with his daughters in tow.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS311 	00:47:03,00 --> 00:47:09,50 	another photo shows a radiantly smiling someone.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS331 	00:51:03,00 --> 00:51:09,50 	someone shows the cellphone to someone and her eyes widen.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS407 	01:01:39,00 --> 01:01:47,50 	later, strolling the beach, someone shows someone a photo of someone speer from a real estate ad.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS464 	01:09:03,00 --> 01:09:11,50 	seen from inside, the gap shows someone darting across to take cover behind the opposite hedge.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS534 	01:17:41,00 --> 01:17:51,50 	his weary profile shows against the backdrop of the lively performers.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS649 	01:32:52,00 --> 01:32:57,50 	another shows a frizzy-haired woman.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS792 	01:47:05,00 --> 01:47:12,50 	a skyward view from the ashes shows a breeze blowing through his grey hair.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS159 	00:16:50,00 --> 00:16:57,50 	a flashback shows a young woman on the beach.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS313 	00:37:58,00 --> 00:38:09,50 	as the door slides shut a view through its window shows her enraged face.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS359 	00:44:16,00 --> 00:44:21,50 	its shattered screen shows a blinking question someone.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS409 	00:47:53,00 --> 00:48:00,50 	as the view descends, showing her upside down, she stares vacantly.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS483 	00:55:25,00 --> 00:55:31,50 	four wallet size photos show the young vanger women.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS527 	00:59:34,00 --> 00:59:40,50 	the blinds show her silhouette.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS545 	01:01:23,00 --> 01:01:33,50 	one shows the blurred figure of a young woman at a window.
@@ -411,12 +367,10 @@ THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS789 	01:
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS799 	01:32:01,00 --> 01:32:05,50 	he shows a photo.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS806 	01:32:38,00 --> 01:32:46,50 	his gaze stops on a picture showing the back of someone's head and the people across the street from her.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS829 	01:34:41,00 --> 01:34:47,50 	the image of the drowning site shows a dock on the vanger estate.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS856 	01:36:10,00 --> 01:36:16,50 	its black and white view shows the young woman staring up at it.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS859 	01:36:17,00 --> 01:36:23,50 	its view shows a blurry image of her face washed out by light.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS880 	01:37:59,00 --> 01:38:11,50 	a view through the glass panes of his bedroom doors show him stripping off his pants.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS915 	01:41:56,00 --> 01:42:02,50 	a series of photos shows the parade then the hedestad bridge.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS981 	01:47:42,00 --> 01:47:48,50 	a newspaper photo shows gottfried at a podium.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS987 	01:48:02,00 --> 01:48:08,50 	one shows a partially obscured figure wearing a prep school blazer.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1059 	01:52:22,00 --> 01:52:29,50 	its glass door shows a rack built for four rifles.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1150 	02:01:21,00 --> 02:01:26,50 	which shows the photo of young someone at the parade.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1154 	02:01:42,00 --> 02:01:49,50 	a monitor shows the prisoner.
@@ -432,7 +386,6 @@ THE_SITTER.srt 	THE_SITTER_DVS17 	00:09:05,00 --> 00:09:09,50 	upstairs the tv s
 THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS34 	00:10:15,00 --> 00:10:18,50 	it shows the group and the young women.
 THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS99 	00:31:59,00 --> 00:32:03,50 	he shows the envelope.
 THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS101 	00:32:39,00 --> 00:32:47,50 	someone shows the twins an e-mail.
-THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS209 	01:25:36,00 --> 01:25:44,50 	pulling to show hollandia barely in the lead.
 THE_VOW.srt 	THE_VOW_DVS85 	00:07:15,00 --> 00:07:22,50 	someones reflection in the window shows her loving smile as she waves back.
 THE_VOW.srt 	THE_VOW_DVS106 	00:10:35,00 --> 00:10:48,50 	grinning, someone shows her identical someone mnemonic menu.
 THE_VOW.srt 	THE_VOW_DVS116 	00:12:03,00 --> 00:12:11,50 	a wider view shows people strolling the plaza around the 40-foot high sculpture.
@@ -465,7 +418,6 @@ TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS69 	00:09:03,00 --> 00:09:07,50 	someone shows h
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS154 	00:19:39,00 --> 00:19:43,50 	someone shows someone a spray canister.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS260 	00:33:30,00 --> 00:33:36,50 	a few toys show in silhouette underneath his bed.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS383 	00:42:04,00 --> 00:42:09,50 	she shows the disoriented family members wandering around.
-TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS484 	00:52:51,00 --> 00:52:56,50 	he opens a display pouch and shows magic supplies.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS587 	01:04:56,00 --> 01:05:01,50 	another cutout shows a child.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS592 	01:05:11,00 --> 01:05:17,50 	at the obstacle course, cutouts showing a family pop up.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS605 	01:06:05,00 --> 01:06:15,50 	he climbs up the staged window and shows a prop tooth.
@@ -483,7 +435,6 @@ UGLY_TRUTH.srt 	UGLY_TRUTH_DVS496 	01:04:00,00 --> 01:04:07,50 	now an aerial vi
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS636 	01:28:13,00 --> 01:28:18,50 	the control room monitor shows someone and someone in the basket.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS50 	00:09:36,00 --> 00:09:42,50 	a drawing shows a man with his head flying off his sliced neck.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS71 	00:12:32,00 --> 00:12:38,50 	one shows a bald burly man with a menacing look
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS78 	00:12:54,00 --> 00:13:02,50 	the sketch on the opposite page shows a woman cradling a baby while a figure watches from a doorway.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS207 	00:35:44,00 --> 00:36:05,50 	someone interrupts to show him a ledger.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS297 	00:47:05,00 --> 00:47:11,50 	someone shows the sweatshirt and someone nods.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS388 	01:01:22,00 --> 01:01:30,50 	a wide view shows the high-reaching beam, its glow shifting with someone's hand movements.
@@ -497,7 +448,6 @@ WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS214 	00:27:17,00 --> 00:27:26,50 	no
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS529 	01:13:59,00 --> 01:14:05,50 	at ally's, another magazine photo shows a sleek ponytail.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS570 	01:18:29,00 --> 01:18:34,50 	she shows a photo of someone and someone as teenagers.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS693 	01:34:42,00 --> 01:34:50,50 	a photo shows the smiling wedding party.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS168 	00:12:35,00 --> 00:12:42,50 	she faces a doorway, which shows her adopted brother hunched over paperwork on a desk.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS287 	00:22:40,00 --> 00:22:46,50 	on a wall, a photo shows the two men with a third between them.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS423 	00:36:47,00 --> 00:36:54,50 	now a bespectacled young man shows a model of the stealth jet.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS439 	00:38:23,00 --> 00:38:29,50 	now a tv in a living room shows a news broadcast.
@@ -511,7 +461,6 @@ XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1246 	01:52:12,00 --> 01:52:23,50 	fra
 ZOMBIELAND.srt 	ZOMBIELAND_DVS76 	00:06:20,00 --> 00:06:26,50 	the rear view mirror shows another one in the back seat.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS264 	00:29:19,00 --> 00:29:25,50 	the driver's side window shows hands gripping the steering wheel.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS274 	00:30:08,00 --> 00:30:16,50 	as someone waits patiently in the passenger seat, the rear window shows his companion jumping giddily up and down.
-ZOMBIELAND.srt 	ZOMBIELAND_DVS278 	00:30:54,00 --> 00:31:04,50 	a flashback shows him serving a terrier mutt pancakes, giving him a bath, and swaying as he cradles the dog in his arms.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS309 	00:34:29,00 --> 00:34:34,50 	her tight skirts shows the curves of her toned rear.
 ZOOKEEPER.srt 	ZOOKEEPER_DVS40 	00:06:39,00 --> 00:06:44,50 	a heart monitor shows a flat line.
 ZOOKEEPER.srt 	ZOOKEEPER_DVS437 	01:34:13,00 --> 01:34:19,50 	a small screen shows the animals singing along with the music.

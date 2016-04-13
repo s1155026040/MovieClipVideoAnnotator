@@ -1,0 +1,5 @@
+A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS846 	01:23:42,00 --> 01:23:48,50 	looking out a side door, someone sees the guns engaging.
+ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS664 	01:33:35,00 --> 01:33:48,50 	and his men engage the enemy with silver bayonets.
+DISTRICT_9.srt 	DISTRICT_9_DVS659 	01:17:16,00 --> 01:17:32,50 	someone sits in the chair and pulls down a harness, which engages the seat to move forward to a control station.
+THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS45 	00:10:28,00 --> 00:10:35,50 	where middle-aged men and women are mingling with each other and engaging in conversation.
+WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS116 	00:11:34,00 --> 00:11:40,50 	someone spins to face the engaged couple and flourishes her free hand.

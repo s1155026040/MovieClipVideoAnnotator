@@ -1,3 +1,1 @@
 IN_TIME.srt 	IN_TIME_DVS400 	00:42:01,00 --> 00:42:08,50 	the timekeeper and suspect stare at each other, neither betraying a hint of emotion.
-KARATE_KID.srt 	KARATE_KID_DVS378 	00:33:48,00 --> 00:33:56,50 	their faces betray no sign of emotion as they pivot on their feet, kick, and crouch.
-KARATE_KID.srt 	KARATE_KID_DVS1600 	02:10:23,00 --> 02:10:30,50 	someone looks up at someone, who looks away, his gaze betraying a hint of contrition.

@@ -1,30 +1,17 @@
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS211 	00:29:29,00 --> 00:29:45,50 	as he swings his ax, the man turns and vanishes.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS391 	00:55:08,00 --> 00:55:18,50 	as he swings at one, it vanishes.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS516 	01:12:36,00 --> 01:12:53,50 	as the general shoots, the confederates vanish.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS638 	01:30:04,00 --> 01:30:12,50 	he vanishes.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS283 	00:21:34,00 --> 00:21:44,50 	someone reaches the foot of the wave, briefly vanishing from view within the rolling tides before he emerges to take more of the face.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS994 	01:37:17,00 --> 01:37:23,50 	it quickly curls over him and he vanishes in the barrel.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS590 	01:22:24,00 --> 01:22:32,50 	his head sinks beneath the surface and he vanishes.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS439 	01:02:44,00 --> 01:03:11,50 	someone catches his wrist then vanishes.
-HUGO.srt 	HUGO_DVS637 	01:32:12,00 --> 01:32:24,50 	one man uses an umbrella to hit the alien, who vanishes in a puff of red smoke.
-HUGO.srt 	HUGO_DVS688 	01:39:37,00 --> 01:39:46,50 	in the edited movie, the skeletons appear to vanish in a puff of smoke as the warriors chop through them.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS357 	01:40:50,00 --> 01:41:00,50 	his image vanishes from someone's screen.
-JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS48 	00:13:41,00 --> 00:13:49,50 	her smile vanishes as she holds it up.
-KARATE_KID.srt 	KARATE_KID_DVS27 	00:02:43,00 --> 00:02:48,50 	vanishing from view, as the van continues onward.
 LAND_OF_THE_LOST.srt 	LAND_OF_THE_LOST_DVS246 	01:28:39,00 --> 01:28:46,50 	someone and someone jump through the vortex, which vanish
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS1128 	01:58:57,00 --> 01:59:02,50 	he vanishes within the thick, jungle growth.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS238 	00:49:42,00 --> 00:49:58,50 	her unibrow vanishes.
-PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS246 	00:58:14,00 --> 00:58:20,50 	as someone and the kids try the meal, their smiles vanish.
 PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS75 	00:19:19,00 --> 00:19:35,50 	the minotaur crushes someone with its fist and she vanishes in a plume of bright smoke.
 PROMETHEUS.srt 	PROMETHEUS_DVS81 	00:04:39,00 --> 00:04:48,50 	the swarm of black particles swirls in the air above the bank as the plunging figure vanishes into the mists.
-PROMETHEUS.srt 	PROMETHEUS_DVS218 	00:17:32,00 --> 00:17:38,50 	the holographic man vanishes, ending the playback.
 PROMETHEUS.srt 	PROMETHEUS_DVS322 	00:31:28,00 --> 00:31:33,50 	the last scanning pup vanishes around a turn.
 PROMETHEUS.srt 	PROMETHEUS_DVS367 	00:36:02,00 --> 00:36:11,50 	it's ghostly hatch lowers on top of him and he vanishes.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS467 	01:38:53,00 --> 01:39:02,50 	it vanishes in a puff.
 THOR.srt 	THOR_DVS217 	00:29:27,00 --> 00:29:36,50 	someone vanishes in a flash of gold light.
-THOR.srt 	THOR_DVS487 	01:20:36,00 --> 01:20:42,50 	someone waves his hands and the casket vanishes.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS736 	01:20:54,00 --> 01:21:03,50 	the announcers gawk as someone flies toward the vortex then vanishes inside it with a flash of light.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS828 	01:28:00,00 --> 01:28:07,50 	she sprinkles an arc of sparkling dust before him and his wings vanish.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS269 	00:20:51,00 --> 00:20:57,50 	the colonel takes his hand and they vanish.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS819 	01:14:00,00 --> 01:14:06,50 	blossoming mushroom clouds fill the panels, which vanish.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS147 	00:13:06,00 --> 00:13:12,50 	it vanishes in a puff of smoke and someone relaxes.

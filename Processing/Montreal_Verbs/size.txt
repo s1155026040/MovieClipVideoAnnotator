@@ -1,8 +1,2 @@
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS1028 	01:39:45,00 --> 01:39:50,50 	he sizes up the wave one more time
-IRON_MAN_2.srt 	IRON_MAN_2_DVS451 	01:22:58,00 --> 01:23:05,50 	glowing golf ball sized holographic dots radiating pulsing rings float around him.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS452 	01:23:17,00 --> 01:23:26,50 	as he claps his hands together, the giant element condenses into a single golf ball sized holograph.
-NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS420 	01:28:18,00 --> 01:28:23,50 	she has a doll sized replica of someone.
-PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS326 	01:21:23,00 --> 01:21:29,50 	where the earth grumbles away to make a door sized fissure.
-THE_VOW.srt 	THE_VOW_DVS235 	00:30:07,00 --> 00:30:14,50 	an artfully made, queen sized bed lies unoccupied behind her.
-THE_WATCH.srt 	THE_WATCH_DVS330 	00:56:56,00 --> 00:57:06,50 	in a park, someone emerges from behind a tree and flicks open his butterfly knife as he sizes up a group of elderly people performing tai chi.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS798 	01:25:06,00 --> 01:25:11,50 	someone sizes up someone's outfit.

@@ -1,0 +1,11 @@
+FLIGHT.srt 	FLIGHT_DVS380 	01:01:26,00 --> 01:01:32,50 	she fidgets as she smiles to herself, and observes someone as he drives.
+GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS492 	01:11:35,00 --> 01:11:41,50 	he lays his hand on her shoulder and she meets his gaze, fidgeting anxiously.
+GREEN_ZONE.srt 	GREEN_ZONE_DVS143 	00:34:17,00 --> 00:34:23,50 	someone fidgets then looks at someone.
+LARRY_CROWNE.srt 	LARRY_CROWNE_DVS229 	00:51:50,00 --> 00:51:55,50 	he fidgets with the paper slip.
+MORNING_GLORY.srt 	MORNING_GLORY_DVS50 	00:08:17,00 --> 00:08:22,50 	she fidgets and stares into space.
+PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS351 	01:06:52,00 --> 01:06:59,50 	now at her apartment, someone sits in a chair, her hands fidgeting anxiously.
+SALT.srt 	SALT_DVS87 	00:18:36,00 --> 00:18:48,50 	as the men hurry out of sight, she fidgets.
+THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS68 	00:15:36,00 --> 00:15:42,50 	under the teacher's beaming gaze he fidgets.
+THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS169 	00:56:11,00 --> 00:56:15,50 	someone starts to fidget.
+WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS96 	00:08:24,00 --> 00:08:31,50 	she fidgets self-consciously, then takes a breath and trots across a driveway.
+ZOMBIELAND.srt 	ZOMBIELAND_DVS159 	00:16:11,00 --> 00:16:16,50 	he quickly moves his hand to his hoodie and fidgets with it.

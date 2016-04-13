@@ -1,9 +1,4 @@
 COLOMBIANA.srt 	COLOMBIANA_DVS115 	00:09:22,00 --> 00:09:28,50 	someone flinches slightly at the gun shots.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS357 	00:55:57,00 --> 00:56:02,50 	she flinches and shifts away from him.
-DISTRICT_9.srt 	DISTRICT_9_DVS749 	01:28:39,00 --> 01:28:58,50 	he flinches as another grenade lands in the shack and deploys.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS241 	00:38:30,00 --> 00:38:47,50 	ghost rider looks at one who flinches.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS928 	01:32:31,00 --> 01:32:39,50 	as he touches the fur of someone's brow, the cat briefly flinches then lies still.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS373 	00:45:43,00 --> 00:45:48,50 	someone flinches as it hits the floor.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS774 	01:29:13,00 --> 01:29:19,50 	she flinches.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS821 	01:34:08,00 --> 01:34:12,50 	he flinches from her.
 THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS200 	01:19:57,00 --> 01:20:02,50 	sharon one she flinches away.

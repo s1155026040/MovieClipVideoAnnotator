@@ -1,24 +1,155 @@
-0001_American_Beauty_01.26.11.024-01.26.12.387 	He stands and looks around, his eyes finally landing on: The DIGICAM and a stack of CASSETTES on a shelf.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.33.35.335-01.33.37.029 	As the GREAT BOULDERS land among them the ORC start to PANIC.
-0046_Chasing_Amy_01.17.37.070-01.17.41.046 	ON THE ICE - Player One staggers a bit, then quickly rights his jersey and lunges at Player Two, landing a barrage of his own punches.
-0050_Indiana_Jones_and_the_last_crusade_01.36.09.103-01.36.17.622 	Indy finally frees himself of Vogel's grasp, twisting his arm painfully away from Indy's neck, then landing a hard blow to Vogel's head.
-0051_Men_in_black_00.29.50.523-00.29.51.674 	Yet another photograph, this one showing a young KAY, in a shirt and tie, holding a bouquet of flowers, staring at the open door of the landed flying saucer.
+0001_American_Beauty_00.10.11.190-00.10.11.882 	where it lands next to a framed photograph of lester, carolyn, and a much-younger jane, taken several years earlier at an amusement park.
+0001_American_Beauty_00.19.21.512-00.19.22.394 	the rose petal drifts into view, landing on his pillow.
+0001_American_Beauty_01.26.11.024-01.26.12.387 	he stands and looks around, his eyes finally landing on: the digicam and a stack of cassettes on a shelf.
+0003_CASABLANCA_00.05.13.757-00.05.15.103 	as the plane lands a swastika on its tail is clearly visible.
+0004_Charade_00.55.38.604-00.55.39.776 	both men look around for the gun, spot it simultaneously and leap for it, both landing short of the mark.
+0004_Charade_01.11.01.769-01.11.04.714 	it lands right next to his lapel, over his outside breast pocket.
+0009_Forrest_Gump_00.40.57.532-00.41.08.045 	the helicopter circles overhead, then lands at the firebase.
+0009_Forrest_Gump_01.22.30.519-01.22.31.863 	lt. dan falls out of his wheelchair and lands down on the floor.
+0009_Forrest_Gump_02.12.33.150-02.12.53.837 	as forrest walks away, a flock of birds flies overhead and lands in the tree.
+0011_Gandhi_00.18.52.539-00.18.52.893 	it lands at gandhi's feet.
+0011_Gandhi_00.34.25.916-00.34.26.739 	he lands heavily, scrambles up, furious, darts after it.
+0014_Ist_das_Leben_nicht_schoen_01.39.06.132-01.39.08.939 	from above george a body hurtles past and lands in the water with a loud splash.
+0014_Ist_das_Leben_nicht_schoen_01.50.43.613-01.50.46.447 	they remain for a moment as they landed, looking at each other.
+0016_O_Brother_Where_Art_Thou_00.13.58.053-00.14.00.305 	it lands harmlessly in some scattered straw.
+0016_O_Brother_Where_Art_Thou_00.14.59.583-00.15.00.843 	it lands shy as pete yells.
+0020_Raising_Arizona_00.42.21.053-00.42.22.135 	he flies back and lands in a heap.
+0020_Raising_Arizona_01.19.39.701-01.19.42.932 	it sails off a step into the sunken atrium, and lands with a crash amidst the hayseeds.
+0020_Raising_Arizona_01.20.42.797-01.20.44.084 	as hi lands against it, banging his head.
+0023_THE_BUTTERFLY_EFFECT_00.21.21.929-00.21.23.132 	tommy lands a flurry of punches before the teen punk can even defend himself, frequently taking opportunities to eyeball evan.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.23.41.204-00.23.42.258 	the tiny ring lands with a heavy thud on the wooden floor.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.31.19.841-01.31.28.499 	horror sweeps through the streets of minas tirith as the severed heads of faramir's horsemen land amongst the soldiers.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.33.35.335-01.33.37.029 	as the great boulders land among them the orc start to panic.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.50.39.517-01.50.41.826 	sam lands heavily.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.12.32.465-02.12.40.724 	he lands on his feet in front of gimli.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.19.41.028-02.19.47.528 	the dead uruk-hai topples backwards over the parapet landing on top of uruk-hai and orcs in the courtyard below.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.26.45.972-02.26.49.767 	frodo and sam, still disguised in the orc armour, slide down scree bank and land on the road below.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.43.44.111-02.43.46.180 	the huge foot of the cave troll lands on aragorn's chest.
+0026_The_Big_Fish_01.09.18.420-01.09.26.124 	he lands with a clang on the lighting catwalk above the stage.
+0029_The_Graduate_00.42.58.232-00.43.00.631 	ben surfaces and, in one movement, pulls himself up on the raft and lands on top of mrs. robinson on the bed.
+0032_The_Princess_Bride_00.22.43.057-00.22.45.335 	and now, with the grace of an olympian, inigo flies off the perch, somersaults clean over the man in black's head, and lands facing his opponent.
+0032_The_Princess_Bride_00.23.35.232-00.23.38.502 	he swings out, lands, and scrambles to his sword and we.
+0046_Chasing_Amy_01.17.37.070-01.17.41.046 	on the ice - player one staggers a bit, then quickly rights his jersey and lunges at player two, landing a barrage of his own punches.
+0050_Indiana_Jones_and_the_last_crusade_00.06.39.131-00.06.39.889 	he lands hard, with a splash into a vat of water.
+0050_Indiana_Jones_and_the_last_crusade_01.36.09.103-01.36.17.622 	indy finally frees himself of vogel's grasp, twisting his arm painfully away from indy's neck, then landing a hard blow to vogel's head.
+0050_Indiana_Jones_and_the_last_crusade_01.38.49.366-01.38.52.654 	suddenly the fedora, borne on the wind, blows into scene and lands at indy's feet.
+0051_Men_in_black_00.10.09.415-00.10.11.759 	he, too, hurdles the guard rail and lands on.
+0051_Men_in_black_00.46.02.509-00.46.03.419 	the ltd pulls to a stop at the end of the driveway that leads to beatrice's farmhouse, where the alien ship landed.
+0051_Men_in_black_00.48.52.344-00.48.52.653 	kay is in the hole where the ship landed, investigating.
+0051_Men_in_black_01.00.59.243-01.01.00.839 	jay and kay cross back toward the lad (landed alien display), where each of the thousand or so aliens who live on earth are represented by a flickering light.
+0051_Men_in_black_01.08.12.054-01.08.13.779 	in the morgue, laurel is working at a desk when suddenly rosenberg's cat leaps up onto it from nowhere, the way cats do, landing right in the middle of the file she's studying.
+0051_Men_in_black_01.10.55.051-01.10.56.177 	as they draw close, orion the cat bolts from underneath it, races between their legs, and leapfrogs over several small cabinets, landing on top of a very tall one with only six inches clearance between it and the ceiling.
+0051_Men_in_black_01.18.54.520-01.18.54.978 	she falls, tumbling through the air -- -- and lands in the branches of a tree.
+1002_Harry_Potter_and_the_Half-Blood_Prince_00.06.41.825-00.06.43.130 	a drop lands on his forehead.
+1003_How_to_Lose_Friends_and_Alienate_People_00.25.14.934-00.25.16.533 	a glob of chewed burger shoots out of his mouth and lands with a splat on the back of the woman's cream jacket.
+1005_Signs_01.37.49.925-01.37.53.474 	the creature topples over, landing on his back and knocking against a small sideboard.
+1007_Spider-Man1_00.10.26.929-00.10.33.157 	it lands on the gray, carpeted floor and scuttles away.
+1007_Spider-Man1_00.23.05.149-00.23.06.635 	he ducks, it flies over his head and lands on the back of flash thompson who is with mj.
+1007_Spider-Man1_00.23.54.443-00.23.55.431 	he swerves to his side as flash's punch lands on the locker door.
+1007_Spider-Man1_00.24.28.742-00.24.32.010 	to avoid flash's colleague peter flips into the air, somersaults and lands on his feet.
+1007_Spider-Man1_00.26.32.820-00.26.34.917 	he lands on another roof and comes to a halt at the edge.
+1007_Spider-Man1_00.27.42.272-00.27.50.708 	clinging for dear life to the web, he swings to the air like tarzan on a creeper and lands running on the roof opposite.
+1007_Spider-Man1_00.45.17.443-00.45.21.552 	he leaps from roof to roof until he lands on top of a dome.
+1007_Spider-Man1_00.46.50.164-00.46.54.266 	spider-man vaults into the air, across the bridge, and lands back on the roof of the truck.
 1007_Spider-Man1_00.48.42.190-00.48.47.091 	it moves down to pick out where he has landed face down.
+1007_Spider-Man1_01.07.50.937-01.07.53.337 	the goblin lands on top of a marquee.
 1007_Spider-Man1_01.10.11.269-01.10.22.797 	he swing past the twin spires of st. patrick's cathedral and land on the rocket rockefeller center roof garden nearby to the surprise of a canoodling couple.
+1007_Spider-Man1_01.23.02.948-01.23.04.027 	he lands on the sidewalk, baby in arms.
+1007_Spider-Man1_01.41.30.477-01.41.32.919 	he lands on a metal strut.
+1007_Spider-Man1_01.44.48.117-01.44.51.681 	the cable car lands safely on the barge, mj still clinging to it.
+1007_Spider-Man1_01.45.24.897-01.45.28.203 	he's thrust through a brick wall and lands on the ground.
+1007_Spider-Man1_01.45.51.145-01.45.56.421 	a punch sends spider-man high into the air and he lands heavily.
+1007_Spider-Man1_01.55.39.928-01.55.49.505 	he flips up and somersaults, landing on a rooftop flagpole by the fluttering stars and stripes.
+1008_Spider-Man2_00.05.56.866-00.05.57.561 	he lands on a building nearby.
 1008_Spider-Man2_00.06.01.225-00.06.06.620 	inside the building spider-man landed on, a receptionist sits at a desk in a hallway with black-and-white checkered flooring.
+1008_Spider-Man2_00.28.38.875-00.28.39.744 	he lands on the car's boot.
+1008_Spider-Man2_00.32.09.196-00.32.12.815 	he falls 10 stories, landing on some metal.
+1008_Spider-Man2_00.46.53.300-00.47.00.475 	octavius cringes, then seems surprised when mechanical limbs lift the cab up and through to the air, it lands on another yellow taxi.
 1008_Spider-Man2_00.56.06.363-00.56.08.530 	aunt may's feet land on a ledge.
+1008_Spider-Man2_01.03.09.001-01.03.11.082 	he lands face down in a puddle.
+1008_Spider-Man2_01.38.31.905-01.38.34.590 	it lands upside down on its roof in the middle of the cafe.
+1008_Spider-Man2_01.43.22.604-01.43.23.258 	landing on octavius and knocks him off the roof.
+1008_Spider-Man2_01.44.20.317-01.44.21.875 	he shoots web at octavius and lands on him.
+1008_Spider-Man2_01.54.30.168-01.54.37.637 	spider-man shoots a web onto the building, and swings back in through a huge oil window, landing on octavius.
+1008_Spider-Man2_02.02.58.569-02.03.01.949 	as she lands on the bridge of a boat, john races towards her.
+1009_Spider-Man3_00.22.57.685-00.23.00.710 	flint tumbles down a concrete wall and lands heavily on a pile of sand in the bottom of the pit.
+1009_Spider-Man3_00.50.48.933-00.50.53.354 	he lands on top of the van, hitting flint with a volley of wet balls.
+1009_Spider-Man3_01.09.43.422-01.09.46.790 	both he and flint fall down a white shaft, landing on a pipe halfway down.
+1009_Spider-Man3_01.09.50.648-01.09.55.264 	flint lands in a muddy puddle close to his money.
+1009_Spider-Man3_01.10.06.047-01.10.13.357 	above him, black spider-man lands on a ledge and swings down onto a huge water pipe.
+1009_Spider-Man3_01.43.42.218-01.43.45.515 	a globule lands in the palm of brock's hand and spreads around him.
+1009_Spider-Man3_01.54.04.380-01.54.08.940 	spider-man launches himself through the air, the night lights twinkling all around and lands on the bonnet of the yellow cab.
+1009_Spider-Man3_01.54.47.881-01.54.50.000 	spider-man's wrists are lashed to the web with webbing fired by brock, who lands on top of him and tears off the spider- man mask.
+1009_Spider-Man3_01.56.08.632-01.56.13.370 	he lands in a deserted construction site, his suit ripped and torn.
+1009_Spider-Man3_01.57.15.903-01.57.21.551 	mary jane loses her grip, landing on the lower section of webs splayed out like a sacrificial victim.
+1009_Spider-Man3_01.57.34.396-01.57.46.590 	he lands on a horizontal girder and turns to face sandman, who slowly pulls himself up to his full height and towers over him like an elephant looking down on a mouse.
+1009_Spider-Man3_02.01.14.710-02.01.20.941 	the watching crowd go wild as he swings away on a thread carrying mary jane in his arms and lands back on the half-built skyscraper.
 1010_TITANIC_01.41.06.077-01.41.09.995 	in the front well deck, jack pushes rose back as the ship breaks off chunks of ice, which land on the deck and knock down two men.
+1012_Unbreakable_00.42.33.166-00.42.39.645 	using his stick and hanging onto the rail, elijah tries to stay balanced, but his feet don't land accurately.
+1012_Unbreakable_01.02.30.020-01.02.31.237 	the gun lands on the table.
+1012_Unbreakable_01.27.31.017-01.27.32.772 	he lands on his face in water.
+1014_2012_00.49.28.529-00.49.28.893 	jackson lands gordons hands on the throttle.
+1014_2012_01.02.00.845-01.02.04.350 	the ground falls away as the rv lands narrowly between the widening canyon.
 1014_2012_01.10.28.851-01.10.30.804 	they land on a chaotic runway.
+1014_2012_01.41.33.691-01.41.36.155 	jackson and yuri are standing behind the others as the plane approaches to land.
 1014_2012_01.43.58.202-01.44.06.526 	as the plane continues landing the cars are tossed out of the cargo door
+1018_Body_Of_Lies_00.23.24.209-00.23.25.461 	one of the choppers lands.
+1018_Body_Of_Lies_01.24.55.785-01.25.04.551 	at the military airbase, a chopper lands in front of a hangar.
+1019_Confessions_Of_A_Shopaholic_00.29.03.238-00.29.10.796 	as she strides down a street, a piece of paper floats down towards her and lands on her chest.
+1024_Identity_Thief_00.03.19.865-00.03.24.531 	she leaps for the chandelier and lands flat on the floor.
+1024_Identity_Thief_00.58.21.958-00.58.30.668 	it lands on its tires in the grass and sandy rejoins the van on the right side of the road.
+1024_Identity_Thief_01.32.22.159-01.32.26.826 	following diana, sandy trips off the curb and lands in a closed-off lane.
+1026_Legion_01.26.36.068-01.26.42.001 	the car leaves the road, hits a hump, and rolls into a ditch, landing on its roof.
+1026_Legion_01.27.39.082-01.27.42.833 	gabriel swoops down out of the light sky and lands just in front of jeep.
 1026_Legion_01.28.17.326-01.28.17.994 	they land on the ground below.
-1042_Up_In_The_Air_00.58.44.824-00.58.50.252 	everyone gets a ride back to land in a small pontoon boat.
+1027_Les_Miserables_02.04.31.229-02.04.32.793 	he and marius plummet into the cavernous sewers landing unconscious in dark sludge.
+1029_Pride_And_Prejudice_Disk_One_00.38.21.094-00.38.21.512 	she lands in a quagmire.
+1030_Public_Enemies_00.06.55.281-00.06.57.480 	shouse lands on the side of the road, face down in the grass.
+1031_Quantum_of_Solace_00.07.21.170-00.07.26.929 	the bullet lands in an explosion of sand.
+1031_Quantum_of_Solace_00.12.29.529-00.12.36.081 	he lands, slides down the tiles, then jumps again, landing heavily on a ledge.
+1031_Quantum_of_Solace_00.14.35.169-00.14.39.692 	the rogue agent lands on a scaffold tower, as bond pulls at the rope around his leg.
+1031_Quantum_of_Solace_00.45.39.673-00.45.41.412 	he lands on greene's car.
+1033_Sherlock_Holmes_A_Game_of_Shadows_00.29.39.458-00.29.43.136 	he lands heavily on a barge carrying sand on the canal outside.
+1033_Sherlock_Holmes_A_Game_of_Shadows_01.54.46.357-01.54.52.794 	they take blows and holmes lands a punch on moriarty's face.
+1034_Super_8_00.44.47.103-00.44.54.597 	rooney watches with mounting concern as a huge hunk of junk sails overhead and lands in the road.
+1043_Vantage_Point_01.16.44.925-01.16.53.756 	they both land shoulder hits, and javier grabs the door of taylor's car.
+1049_Harry_Potter_and_the_chamber_of_secrets_00.10.00.306-00.10.01.862 	vernon lands flat on his back in a bush.
+1049_Harry_Potter_and_the_chamber_of_secrets_00.27.43.749-00.27.45.985 	it lands on the grass.
+1049_Harry_Potter_and_the_chamber_of_secrets_00.57.02.933-00.57.10.319 	he somersaults into the air and lands heavily on the grass of the arena.
+1049_Harry_Potter_and_the_chamber_of_secrets_00.57.30.005-00.57.34.477 	then he overbalances, falls off, and lands on his back on the soft sand beneath the goal post.
+1049_Harry_Potter_and_the_chamber_of_secrets_01.33.24.822-01.33.27.082 	harry lands back in his chair.
+1049_Harry_Potter_and_the_chamber_of_secrets_01.50.18.184-01.50.23.865 	it zooms over the forest and lands heavily on the grass beside hagrid's cottage.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.16.37.304-00.16.39.397 	they land on the motorway.
+1051_Harry_Potter_and_the_goblet_of_fire_00.05.45.938-00.05.53.882 	ginny, hermione, ron, harry, and the twins let go, and land heavily.
+1051_Harry_Potter_and_the_goblet_of_fire_00.25.03.279-00.25.08.762 	it lands on a desk, then on a boy's head.
+1051_Harry_Potter_and_the_goblet_of_fire_01.43.52.182-01.44.01.756 	he lands in a chair, sitting next to someone he recognizes.
+1051_Harry_Potter_and_the_goblet_of_fire_01.56.45.490-01.56.48.502 	he dives head first through a closing gap and lands on the ground.
 1051_Harry_Potter_and_the_goblet_of_fire_01.59.12.210-01.59.14.839 	they land beside a statue in the cemetery.
+1051_Harry_Potter_and_the_goblet_of_fire_02.10.02.157-02.10.04.323 	harry lands with cedric in the arena.
 1052_Harry_Potter_and_the_order_of_phoenix_01.52.38.010-01.52.42.116 	they land face down beside a large rocky mound.
+1053_Harry_Potter_and_the_philosophers_stone_01.19.19.680-01.19.22.140 	he hurdles downwards landing heavily on the dry sand below the goal.
 1053_Harry_Potter_and_the_philosophers_stone_01.56.20.859-01.56.24.824 	they have landed on something soft.
+1054_Harry_Potter_and_the_prisoner_of_azkaban_00.37.34.732-00.37.42.833 	the hippogriff soars down through the treetops, flaps its wings as a brake and lands in a clearing.
+1054_Harry_Potter_and_the_prisoner_of_azkaban_01.26.08.556-01.26.13.988 	a crow lands beside them as they anxiously watch the cottage.
+1054_Harry_Potter_and_the_prisoner_of_azkaban_01.29.52.876-01.29.57.289 	hermione lands on top of him.
+1055_Marley_and_me_00.20.47.445-00.20.48.907 	she lands in front of another dog owner.
+1060_Yes_man_00.12.28.694-00.12.32.988 	a fly lands on carl's eye.
+1060_Yes_man_01.08.03.432-01.08.05.478 	he lands on his back.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.15.28.713-00.15.32.157 	they stops falling, then land safely.
+1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.42.04.927-00.42.15.750 	massive stone statues of warriors wielding huge weapons land on the paved terrace by the main entrance.
+1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.15.13.000-01.15.24.993 	he follows the spinning basin, the pensieve, to the desk, where it lands, lightly.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.47.38.573-01.47.50.828 	harry seems to split voldemort's head in two, revealing only the black smoke, as they land in the courtyard and roll away from each other across the cobbles.
-1053_Harry_Potter_and_the_philosophers_stone_01.56.20.859-01.56.24.824 	they have landed on something soft.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.15.28.713-00.15.32.157 	they stops falling, then land safely.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.47.38.573-01.47.50.828 	harry seems to split voldemort's head in two, revealing only the black smoke, as they land in the courtyard and roll away from each other across the cobbles.
-2051_Harry_Potter_and_the_goblet_of_fire_00.15.36.691-00.15.44.077 	we see four flying horses flying through the air pulling a carriage coming in to land at hogwarts.
+1062_Day_the_Earth_stood_still_00.11.59.058-00.12.02.653 	the chopper lands mid-field.
+1062_Day_the_Earth_stood_still_00.18.23.991-00.18.26.773 	the scientist chopper lands in a park.
+2026_Legion_00.24.53.529-00.24.54.799 	a fly lands on gladys's steak.
+2026_Legion_00.24.56.038-00.24.57.343 	but another one lands in its place.
+2026_Legion_01.11.25.960-01.11.31.433 	michael leaps over the counter, landing in front of charlie, guns ready for action.
+2027_Les_Miserables_01.08.12.219-01.08.16.427 	gavroche, bounding over their heads, evading the swipes of liveried footmen, lands on the running board of one particularly grand carriage and begs or taunts the rich .
+2034_Super_8_00.33.35.649-00.33.37.874 	this lands for joe -- for all of them -- as we cut to.
+2034_Super_8_00.51.29.705-00.51.32.103 	this lands on nelec.
+2034_Super_8_01.30.28.469-01.30.30.220 	joe lands on the bottom.
+2041_This_is_40_00.13.42.994-00.13.44.942 	she does a full flip and lands on her feet.
+2051_Harry_Potter_and_the_goblet_of_fire_01.00.32.328-01.00.38.211 	the dragon cuts him off and whips him off his broom, he lands on the roof of hogwarts, hanging on for dear life.
+2054_Harry_Potter_and_the_prisoner_of_azkaban_00.24.36.897-00.24.41.199 	we track along the faces of the choir, singing to the strains of a harpsichord, and land on a quintet of toads (one of which -- trevor -- belongs to neville longbottom, who looks on with pride).
+2054_Harry_Potter_and_the_prisoner_of_azkaban_01.03.06.625-01.03.08.412 	-- they both go flying, land on their pants in the snow.
+2054_Harry_Potter_and_the_prisoner_of_azkaban_01.23.37.076-01.23.38.654 	-- quick as lightning, lands a looping right to malfoy's jaw, putting him flat on his back.

@@ -1,202 +1,145 @@
-0001_American_Beauty_00.06.51.611-00.06.54.696 	She heads into the house, followed by Lester.
-0001_American_Beauty_00.06.51.611-00.06.54.696 	She heads into the house, followed by Lester.
-0001_American_Beauty_00.24.39.388-00.24.43.534 	The Colonel heads toward the living room, a little puffed up.
-0001_American_Beauty_00.47.40.147-00.47.41.233 	He heads into the house.
-0001_American_Beauty_01.25.22.005-01.25.23.377 	Ricky emerges from the house, followed by the Colonel, who watches his son as he heads toward the Burnham house.
-0001_American_Beauty_01.30.24.270-01.30.24.948 	He heads into the hall.
-0001_American_Beauty_01.33.20.181-01.33.22.282 	And she heads out quickly.
-0003_CASABLANCA_00.50.51.234-00.50.53.949 	Rick's head slumps over the table.
-0004_Charade_00.35.16.821-00.35.17.308 	His head bangs against the wall but he manages to raise a foot and push PETER violently away, sending him sprawling back, toppling across the bed and over, head first, onto the floor on the other side, where he disappears.
-0004_Charade_01.28.32.789-01.28.32.963 	Inside the booth, REGGIE and ADAM can be seen heading for the door in a hurry.
-0005_Chinatown_00.40.00.289-00.40.02.781 	It is headed above toward the Hollywood Hills, where the sun is setting.
-0005_Chinatown_00.54.00.576-00.54.02.683 	Gittes heads toward the door.
-0005_Chinatown_01.57.51.757-01.58.03.740 	They head out the back door and down the steps toward the garage.
-0006_Clerks_00.03.29.883-00.03.30.529 	The empty newspaper rack with the heading ASBURY PARK PRESS seems out of place among all the other stacks of papers.
-0006_Clerks_00.48.38.720-00.48.43.142 	DANTE heads back to the counter.
-0006_Clerks_00.54.22.539-00.54.43.525 	They head back to the counter.
-0006_Clerks_01.08.08.271-01.08.08.751 	She heads toward the back.
-0007_DIE_NACHT_DES_JAEGERS_00.17.47.458-00.17.49.192 	He heads for the door.
-0008_Fargo_01.30.15.344-01.30.19.379 	Grimsrud's head bobs with bumps on the road; otherwise he is motionless, reaction less, scowling and gazing out.
-0009_Forrest_Gump_00.07.25.193-00.07.28.012 	Mrs. Gump heads Forrest to the porch.
-0010_Frau_Ohne_Gewissen_00.17.20.796-00.17.24.102 	She heads toward a low tea table which stands in front of the davenport, with tall glasses, ice cubes, lemon, a pot of tea, etc.
-0011_Gandhi_01.00.48.365-01.00.59.322 	His friends watch with amusement, but they too rise to follow as they head for the kitchen.
-0011_Gandhi_01.59.26.575-01.59.28.817 	Collins glances at him in surprise as he steers the car around another procession of camels heading toward the port.
-0014_Ist_das_Leben_nicht_schoen_00.38.26.632-00.38.33.499 	They descend the porch steps, and George turns his uncle around and heads him down the street.
-0014_Ist_das_Leben_nicht_schoen_01.14.45.553-01.14.48.142 	George is crossing the street, heading for the offices of the Building and Loan.
-0014_Ist_das_Leben_nicht_schoen_01.24.30.138-01.24.31.724 	George turns and heads for the door, kicking viciously at a waste basket on the floor as he goes.
-0016_O_Brother_Where_Art_Thou_01.18.40.758-01.18.42.478 	The crowd gasps and watches, heads tilted back, in silence.
-0019_Pulp_Fiction_00.58.47.389-00.58.50.653 	Lance angrily knocks over a pile of shit and leaves the SHOT heading for the living room.
-0019_Pulp_Fiction_02.05.18.828-02.05.20.170 	The Wolf and Jimmie turn, heading for the bedroom, leaving Vincent and Jules standing in the kitchen.
-0019_Pulp_Fiction_02.20.15.106-02.20.20.945 	Pumpkin heads his way.
-0020_Raising_Arizona_00.49.39.623-00.49.41.625 	THWAK - Ed gives him a good hard slap and Hi's head rolls toward the camera.
-0020_Raising_Arizona_00.55.00.955-00.55.04.314 	From behind the Biker's head as he rides through the night.
-0020_Raising_Arizona_01.09.24.420-01.09.26.442 	The two men's heads whip around to look in the back seat.
-0020_Raising_Arizona_01.18.28.590-01.18.31.099 	As the two front doors fly open and Hi and Ed spill out - Hi from the driver's side, heading for the far side of the road, and Ed from the passenger side.
-0021_Rear_Window_01.02.39.956-01.02.41.842 	Jeff's head turns in this new direction.
-0022_Reservoir_Dogs_00.36.44.477-00.36.45.579 	Mr. Blonde heads for the door.
-0022_Reservoir_Dogs_01.03.53.501-01.04.01.700 	We see Mr. Orange, now known as FREDDY NEWENDYKE, wearing a high school letterman jacket, enter the coffee shop, spot Holdaway, and head his way.
-0023_THE_BUTTERFLY_EFFECT_00.05.48.386-00.05.52.202 	Andrea grabs the pocket book off the coffee table and heads back into the kitchen.
-0023_THE_BUTTERFLY_EFFECT_00.23.19.366-00.23.22.510 	The station wagon finally heads into the driveway.
-0023_THE_BUTTERFLY_EFFECT_00.56.42.680-00.56.45.340 	Evan frowns with distaste, grabs a towel and heads out.
-0023_THE_BUTTERFLY_EFFECT_01.17.42.892-01.17.50.310 	As he heads over to them, Mrs. Boswell firmly grabs his shoulders and steers him back to his own desk.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.10.20.210-01.10.24.539 	THE HORSES HEAD BOBBING.trees sliding by.moonlight flickers through the trees.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.11.09.359-01.11.10.485 	They head straight towards MINAS TIRITH.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.26.06.922-01.26.11.028 	He stands, head down -- a TINY DEJECTED FIGURE -- as the MIGHTY ROHIRRIM on their LARGE HORSES ride by.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.52.52.201-01.53.08.823 	FRODO'S head LOLLS LIFELESSLY in SAM'S ARMS. 
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.53.48.700-01.53.55.610 	A SMALL PARTY of ORCS and URUK-HAI heading down the STAIRS from the WATCH TOWER.SHAGRAT leads the URUK- HAI, and GORBAG leads the ORCS.
-0026_The_Big_Fish_00.38.55.803-00.38.57.835 	A beat, then he heads for the edge of the crowd.
-0026_The_Big_Fish_00.45.19.086-00.45.27.301 	Josephine leaves, heading down the hall to get her camera.
-0026_The_Big_Fish_00.46.18.388-00.46.24.229 	Joining the crowd, he heads into the big-top.
-0026_The_Big_Fish_01.51.09.611-01.51.21.344 	Seeing SECURITY GUARDS heading their way, a quick-thinking Sandra shoves a nearby cart into them, bowling them down.
-0026_The_Big_Fish_01.55.14.433-01.55.24.914 	We watch as the catfish circles, then heads for deeper water, disappearing.
-0027_The_Big_Lebowski_00.04.21.684-00.04.23.043 	The inquisitor hauls the Dude's head out one last time and flops him over so that he sits on the floor, back against the toilet.
-0027_The_Big_Lebowski_00.14.44.232-00.14.46.119 	The Dude is heading for the door.
-0027_The_Big_Lebowski_01.11.54.916-01.11.55.855 	He is heading for the door.
-0031_The_Lost_Weekend_00.14.23.336-00.14.33.756 	From the table in the background comes Gloria, headed for the powder room.
-0032_The_Princess_Bride_00.47.00.550-00.47.03.789 	stampedes on, changing its target, heading right for-- Buttercup, and she's scared to death and.
-0032_The_Princess_Bride_01.02.29.867-01.02.33.502 	Without a word FEZZIK stuffs Inigo's head into the icy water, then, after a reasonable amount of time, pulls him out, ducks him into the steaming stuff, and, a short time after that, puts him back in the cold again, then back in the hot.
-0032_The_Princess_Bride_01.22.47.450-01.22.49.630 	And Inigo flies through as FEZZIK heads back to Westley.
-0032_The_Princess_Bride_01.23.53.699-01.23.55.701 	INIGO, closing the gap, closer, closer and he's down the stairs and heading into a dining hall and.
-0038_Psycho_01.34.41.701-01.34.48.414 	Sam remains at the door, then turns right, heading for the path.
-0038_Psycho_01.47.16.391-01.47.20.164 	Guard moves through the waiting men, heading down the corridor.
-0043_Thelma_and_Luise_00.18.02.230-00.18.03.617 	Louise heads off to the bathroom.
-0043_Thelma_and_Luise_00.18.38.203-00.18.42.505 	Louise is heading towards the bathroom, where there is a line of at least fifteen women in front of her.
-0043_Thelma_and_Luise_00.24.25.163-00.24.29.375 	Thelma's head moves almost imperceptibly.
-0046_Chasing_Amy_00.08.37.122-00.08.46.391 	Hooper steps off the stage and picks Banky's head up off the floor.
-0046_Chasing_Amy_00.22.19.817-00.22.22.643 	Alyssa shakes her head and relents, heading through the crowd.
-0046_Chasing_Amy_00.41.32.464-00.41.36.255 	They head toward the skee-ball runs.
-0046_Chasing_Amy_00.56.11.694-00.56.15.688 	Then he turns and heads back to his car.
-0046_Chasing_Amy_01.37.47.369-01.37.49.345 	Alyssa's head drops.
-0049_Hannah_and_her_sisters_00.39.16.252-00.39.24.487 	Lee, smiling, continues to listen to the music, her head down; Elliot stares at her.
-0049_Hannah_and_her_sisters_01.24.43.474-01.24.44.770 	Hannah walks into view, headed for the refrigerator.
-0050_Indiana_Jones_and_the_last_crusade_00.02.29.591-00.02.33.550 	The two boys head down the passageway.
-0051_Men_in_black_00.19.38.238-00.19.38.883 	Kay blows Jeebs' head off and Jeebs' body collapses to the floor.
-0051_Men_in_black_00.41.14.348-00.41.16.833 	He heads into Leshko's, a Russian diner.
-0053_Rendezvous_mit_Joe_Black_00.54.45.348-00.55.05.033 	Everyone sits when Parrish does but Joe, right at home, spots a tray of refreshments: coffee, pas- tries, he heads for them.
-0053_Rendezvous_mit_Joe_Black_01.10.48.239-01.10.55.069 	Drew heads for the door, turns around.
-0053_Rendezvous_mit_Joe_Black_01.16.15.820-01.16.20.075 	Coyle heads for the kitchen.
-0053_Rendezvous_mit_Joe_Black_01.23.00.839-01.23.17.316 	They are inches apart now, the smell of each other surrounds them, a heaviness to the moment, now Joe turns to head up the stairs.
-0053_Rendezvous_mit_Joe_Black_02.17.23.203-02.17.28.260 	He heads out, Parrish and Joe fall silent.
-0053_Rendezvous_mit_Joe_Black_02.39.25.329-02.39.35.548 	He heads towards her, they are somehow situated as if they were alone in this crowd.
-0053_Rendezvous_mit_Joe_Black_02.44.46.745-02.44.50.287 	Now she heads out with the crowd for the fireworks.
-0053_Rendezvous_mit_Joe_Black_02.44.56.527-02.45.14.574 	When Parrish senses she is on her way, he turns and heads up towards Joe.
-0053_Rendezvous_mit_Joe_Black_02.49.37.513-02.49.42.929 	He is heading straight for her, she tries to make him out, seems to recognize him, starts to walk towards him as if pulled by a magnet.
-1001_Flight_00.24.42.455-00.24.45.104 	They head towards a church sitting on an expanse of open land.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.46.05.920-00.46.10.053 	Ron almost slips off his broomstick as he heads for the opposing goal.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.21.31.834-01.21.35.074 	She heads back the way they came.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.44.28.510-01.44.31.628 	Slughorn's head appears.
-1003_How_to_Lose_Friends_and_Alienate_People_00.34.55.731-00.34.58.984 	And they head towards a waiting car.
-1003_How_to_Lose_Friends_and_Alienate_People_00.47.36.794-00.47.40.391 	The search party heads off, leaving a relieved Sidney slumped against a wall by the window.
-1003_How_to_Lose_Friends_and_Alienate_People_00.54.33.226-00.54.35.064 	He heads off.
-1003_How_to_Lose_Friends_and_Alienate_People_00.55.55.562-00.55.59.750 	He grins broadly then heads off before turning back heavy- browed.
-1003_How_to_Lose_Friends_and_Alienate_People_01.21.11.941-01.21.13.395 	She watches him head off.
-1003_How_to_Lose_Friends_and_Alienate_People_01.22.12.361-01.22.15.307 	He heads over to Alison, who wears a black wig and holds a cigarette in a long.
-1003_How_to_Lose_Friends_and_Alienate_People_01.35.33.487-01.35.39.968 	Sophie, Elena and Sydney get out and head down the red carpet towards the entrance.
-1005_Signs_00.04.13.923-00.04.15.981 	Graham turns Morgan's head to face him.
-1005_Signs_00.22.42.420-00.22.47.910 	Graham stands and watches as Caroline pulls around an island of grass in the middle of a stretch of gravel and heads off down the driveway.
-1005_Signs_00.23.52.500-00.23.55.167 	Morgan and Bo head off down the sidewalk together.
-1005_Signs_00.39.05.227-00.39.14.545 	Getting up, he heads into the kitchen, stopping just short of the table.
-1005_Signs_01.32.32.650-01.32.40.224 	He heads to the cupboard under the stairs.
-1005_Signs_01.37.24.297-01.37.28.293 	On the veranda, Bo looks back into the living room through a broken window as Graham heads out onto the lawn.
-1006_Slumdog_Millionaire_00.50.00.625-00.50.07.705 	From an aerial view, we see the boys are heading toward the distance skyscrapers of Mumbai.
-1007_Spider-Man1_00.17.06.646-00.17.10.789 	Norman's head shakes and only the whites of his eye show.
-1007_Spider-Man1_00.19.29.564-00.19.30.393 	Peter heads out.
+0001_American_Beauty_00.06.51.611-00.06.54.696 	she heads into the house, followed by lester.
+0001_American_Beauty_00.47.40.147-00.47.41.233 	he heads into the house.
+0001_American_Beauty_01.25.22.005-01.25.23.377 	ricky emerges from the house, followed by the colonel, who watches his son as he heads toward the burnham house.
+0001_American_Beauty_01.30.24.270-01.30.24.948 	he heads into the hall.
+0001_American_Beauty_01.33.20.181-01.33.22.282 	and she heads out quickly.
+0004_Charade_01.28.32.789-01.28.32.963 	inside the booth, reggie and adam can be seen heading for the door in a hurry.
+0005_Chinatown_00.40.00.289-00.40.02.781 	it is headed above toward the hollywood hills, where the sun is setting.
+0005_Chinatown_01.57.51.757-01.58.03.740 	they head out the back door and down the steps toward the garage.
+0006_Clerks_00.03.29.883-00.03.30.529 	the empty newspaper rack with the heading asbury park press seems out of place among all the other stacks of papers.
+0006_Clerks_00.48.38.720-00.48.43.142 	dante heads back to the counter.
+0006_Clerks_00.54.22.539-00.54.43.525 	they head back to the counter.
+0006_Clerks_01.08.08.271-01.08.08.751 	she heads toward the back.
+0007_DIE_NACHT_DES_JAEGERS_00.17.47.458-00.17.49.192 	he heads for the door.
+0010_Frau_Ohne_Gewissen_00.17.20.796-00.17.24.102 	she heads toward a low tea table which stands in front of the davenport, with tall glasses, ice cubes, lemon, a pot of tea, etc.
+0011_Gandhi_01.00.48.365-01.00.59.322 	his friends watch with amusement, but they too rise to follow as they head for the kitchen.
+0011_Gandhi_01.59.26.575-01.59.28.817 	collins glances at him in surprise as he steers the car around another procession of camels heading toward the port.
+0014_Ist_das_Leben_nicht_schoen_00.38.26.632-00.38.33.499 	they descend the porch steps, and george turns his uncle around and heads him down the street.
+0014_Ist_das_Leben_nicht_schoen_01.14.45.553-01.14.48.142 	george is crossing the street, heading for the offices of the building and loan.
+0019_Pulp_Fiction_00.58.47.389-00.58.50.653 	lance angrily knocks over a pile of shit and leaves the shot heading for the living room.
+0019_Pulp_Fiction_02.05.18.828-02.05.20.170 	the wolf and jimmie turn, heading for the bedroom, leaving vincent and jules standing in the kitchen.
+0019_Pulp_Fiction_02.20.15.106-02.20.20.945 	pumpkin heads his way.
+0020_Raising_Arizona_01.18.28.590-01.18.31.099 	as the two front doors fly open and hi and ed spill out - hi from the driver's side, heading for the far side of the road, and ed from the passenger side.
+0022_Reservoir_Dogs_00.36.44.477-00.36.45.579 	mr. blonde heads for the door.
+0022_Reservoir_Dogs_01.03.53.501-01.04.01.700 	we see mr. orange, now known as freddy newendyke, wearing a high school letterman jacket, enter the coffee shop, spot holdaway, and head his way.
+0023_THE_BUTTERFLY_EFFECT_00.05.48.386-00.05.52.202 	andrea grabs the pocket book off the coffee table and heads back into the kitchen.
+0023_THE_BUTTERFLY_EFFECT_00.23.19.366-00.23.22.510 	the station wagon finally heads into the driveway.
+0023_THE_BUTTERFLY_EFFECT_00.56.42.680-00.56.45.340 	evan frowns with distaste, grabs a towel and heads out.
+0023_THE_BUTTERFLY_EFFECT_01.17.42.892-01.17.50.310 	as he heads over to them, mrs. boswell firmly grabs his shoulders and steers him back to his own desk.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.10.20.210-01.10.24.539 	the horses head bobbing.trees sliding by.moonlight flickers through the trees.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.11.09.359-01.11.10.485 	they head straight towards minas tirith.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.26.06.922-01.26.11.028 	he stands, head down -- a tiny dejected figure -- as the mighty rohirrim on their large horses ride by.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.53.48.700-01.53.55.610 	a small party of orcs and uruk-hai heading down the stairs from the watch tower.shagrat leads the uruk- hai, and gorbag leads the orcs.
+0026_The_Big_Fish_00.13.58.322-00.14.04.278 	heading back to the house.
+0026_The_Big_Fish_00.18.42.568-00.18.49.216 	heading for the stairs, will walks past an open door.
+0026_The_Big_Fish_00.38.55.803-00.38.57.835 	a beat, then he heads for the edge of the crowd.
+0026_The_Big_Fish_00.45.19.086-00.45.27.301 	josephine leaves, heading down the hall to get her camera.
+0026_The_Big_Fish_00.46.18.388-00.46.24.229 	joining the crowd, he heads into the big-top.
+0026_The_Big_Fish_01.51.09.611-01.51.21.344 	seeing security guards heading their way, a quick-thinking sandra shoves a nearby cart into them, bowling them down.
+0026_The_Big_Fish_01.55.14.433-01.55.24.914 	we watch as the catfish circles, then heads for deeper water, disappearing.
+0027_The_Big_Lebowski_00.14.44.232-00.14.46.119 	the dude is heading for the door.
+0027_The_Big_Lebowski_01.11.54.916-01.11.55.855 	he is heading for the door.
+0031_The_Lost_Weekend_00.14.23.336-00.14.33.756 	from the table in the background comes gloria, headed for the powder room.
+0032_The_Princess_Bride_00.47.00.550-00.47.03.789 	stampedes on, changing its target, heading right for-- buttercup, and she's scared to death and.
+0032_The_Princess_Bride_01.23.53.699-01.23.55.701 	inigo, closing the gap, closer, closer and he's down the stairs and heading into a dining hall and.
+0038_Psycho_01.34.41.701-01.34.48.414 	sam remains at the door, then turns right, heading for the path.
+0038_Psycho_01.47.16.391-01.47.20.164 	guard moves through the waiting men, heading down the corridor.
+0043_Thelma_and_Luise_00.18.38.203-00.18.42.505 	louise is heading towards the bathroom, where there is a line of at least fifteen women in front of her.
+0046_Chasing_Amy_00.22.19.817-00.22.22.643 	alyssa shakes her head and relents, heading through the crowd.
+0046_Chasing_Amy_00.41.32.464-00.41.36.255 	they head toward the skee-ball runs.
+0046_Chasing_Amy_00.56.11.694-00.56.15.688 	then he turns and heads back to his car.
+0049_Hannah_and_her_sisters_01.24.43.474-01.24.44.770 	hannah walks into view, headed for the refrigerator.
+0050_Indiana_Jones_and_the_last_crusade_00.02.29.591-00.02.33.550 	the two boys head down the passageway.
+0051_Men_in_black_00.41.14.348-00.41.16.833 	he heads into leshko's, a russian diner.
+0053_Rendezvous_mit_Joe_Black_00.54.45.348-00.55.05.033 	everyone sits when parrish does but joe, right at home, spots a tray of refreshments: coffee, pas- tries, he heads for them.
+0053_Rendezvous_mit_Joe_Black_01.23.00.839-01.23.17.316 	they are inches apart now, the smell of each other surrounds them, a heaviness to the moment, now joe turns to head up the stairs.
+0053_Rendezvous_mit_Joe_Black_02.17.23.203-02.17.28.260 	he heads out, parrish and joe fall silent.
+0053_Rendezvous_mit_Joe_Black_02.39.25.329-02.39.35.548 	he heads towards her, they are somehow situated as if they were alone in this crowd.
+0053_Rendezvous_mit_Joe_Black_02.44.46.745-02.44.50.287 	now she heads out with the crowd for the fireworks.
+0053_Rendezvous_mit_Joe_Black_02.44.56.527-02.45.14.574 	when parrish senses she is on her way, he turns and heads up towards joe.
+0053_Rendezvous_mit_Joe_Black_02.49.37.513-02.49.42.929 	he is heading straight for her, she tries to make him out, seems to recognize him, starts to walk towards him as if pulled by a magnet.
+1001_Flight_00.24.42.455-00.24.45.104 	they head towards a church sitting on an expanse of open land.
+1002_Harry_Potter_and_the_Half-Blood_Prince_00.46.05.920-00.46.10.053 	ron almost slips off his broomstick as he heads for the opposing goal.
+1002_Harry_Potter_and_the_Half-Blood_Prince_01.21.31.834-01.21.35.074 	she heads back the way they came.
+1003_How_to_Lose_Friends_and_Alienate_People_00.34.55.731-00.34.58.984 	and they head towards a waiting car.
+1003_How_to_Lose_Friends_and_Alienate_People_00.54.33.226-00.54.35.064 	he heads off.
+1003_How_to_Lose_Friends_and_Alienate_People_00.55.55.562-00.55.59.750 	he grins broadly then heads off before turning back heavy- browed.
+1003_How_to_Lose_Friends_and_Alienate_People_01.21.11.941-01.21.13.395 	she watches him head off.
+1003_How_to_Lose_Friends_and_Alienate_People_01.22.12.361-01.22.15.307 	he heads over to alison, who wears a black wig and holds a cigarette in a long.
+1003_How_to_Lose_Friends_and_Alienate_People_01.35.33.487-01.35.39.968 	sophie, elena and sydney get out and head down the red carpet towards the entrance.
+1005_Signs_00.39.05.227-00.39.14.545 	getting up, he heads into the kitchen, stopping just short of the table.
+1005_Signs_01.32.32.650-01.32.40.224 	he heads to the cupboard under the stairs.
+1005_Signs_01.37.24.297-01.37.28.293 	on the veranda, bo looks back into the living room through a broken window as graham heads out onto the lawn.
+1006_Slumdog_Millionaire_00.50.00.625-00.50.07.705 	from an aerial view, we see the boys are heading toward the distance skyscrapers of mumbai.
 1007_Spider-Man1_00.42.54.992-00.43.04.206 	then heads back along the corridor after the security guard.
-1007_Spider-Man1_00.47.45.010-00.47.50.627 	he smashes the car thief's head into the glass panels on the door then sends him flying across the room.
-1007_Spider-Man1_00.50.42.297-00.50.43.620 	a shape heads for the bunker.
-1007_Spider-Man1_00.58.00.950-00.58.07.015 	they look awkwardly at each other as enrique heads back to the diner.
 1007_Spider-Man1_01.06.30.731-01.06.43.386 	the glider circles the tall singular building then heads towards the balcony weaving this way and that, past giant balloon figures floating above the festival.
 1007_Spider-Man1_01.24.28.277-01.24.38.027 	they head for spider-man, who leaps acrobatically to avoid them.
 1007_Spider-Man1_01.35.58.085-01.36.08.002 	hearing voices, he heads for the stairs.
 1007_Spider-Man1_01.49.18.057-01.49.18.307 	it heads for norman.
 1008_Spider-Man2_00.27.17.462-00.27.22.072 	a convertible smashes into a chasing police car, which is drawn alongside, then heads straight for peter.
 1008_Spider-Man2_00.42.51.339-00.42.53.355 	it heads straight for her eye.
-1008_Spider-Man2_00.55.37.824-00.55.42.677 	the limbs grab spider-man's head and toss him about.
-1008_Spider-Man2_01.02.02.953-01.02.05.098 	peter's head swings to one side, then he turns to face harry.
 1009_Spider-Man3_00.01.13.915-00.01.19.985 	peter having fun with red headed mary jane and crawling up a wall like a spider.
 1009_Spider-Man3_00.51.07.835-00.51.12.616 	the van's heading for a collision and spider-man pulls the guards out.
 1009_Spider-Man3_01.13.59.179-01.14.08.063 	with a glum expression, she gazes out into the gray daylight, pulls her coat collar around her neck, and heads away down the street.
-1009_Spider-Man3_01.29.22.756-01.29.25.753 	peter pushes harry's head up into the path of the sky stick.
-1010_TITANIC_01.39.43.009-01.39.45.992 	in the crow's nest, the men stare at the iceberg as the ship heads straight toward it.
-1012_Unbreakable_00.15.45.102-00.15.48.769 	outside the church, david heads towards his car.
+1012_Unbreakable_00.22.39.874-00.22.41.225 	he's hunched forward, head down.
+1012_Unbreakable_01.24.17.600-01.24.20.189 	the house owner is lying head down on the basement steps, and david sees again the maintenance man's violent entry into the house.
 1014_2012_00.22.17.943-00.22.22.617 	they head down to the cordoned off basin which is bubbly and marshy underfoot.
-1014_2012_00.45.06.830-00.45.08.289 	jackson heads indoors.
-1014_2012_01.43.01.511-01.43.03.828 	gordon turns and heads for the steps.
 1014_2012_01.51.37.123-01.51.43.021 	they stop and look around to see a gigantic tsunami heading for the coastline.
-1014_2012_01.58.08.925-01.58.09.687 	jackson and noah head up the lunchpad.
 1015_27_Dresses_00.06.16.821-00.06.24.471 	a handsome, dark-haired guy who was at the ceremony watches her with raised eyebrows as she heads off in the cab again.
-1015_27_Dresses_00.14.36.894-00.14.40.411 	jane grins and heads for her cluttered desk.
 1015_27_Dresses_00.39.21.695-00.39.26.980 	she smiles after him and heads back to her desk.
 1015_27_Dresses_01.06.04.895-01.06.08.045 	they head to the bar.
+1017_Bad_Santa_00.27.20.187-00.27.21.853 	she gives him a smile and heads off.
+1017_Bad_Santa_00.28.03.958-00.28.12.795 	curly head fat ass pulls mr. not gay off willie.
 1017_Bad_Santa_00.51.29.712-00.51.32.337 	she heads off into the night.
 1017_Bad_Santa_00.57.27.324-00.57.28.991 	the kid heads off to get it.
-1017_Bad_Santa_00.59.49.044-00.59.50.711 	marcus heads off.
-1017_Bad_Santa_01.07.13.063-01.07.16.729 	willie's head lolls to one side as he inhales the noxious fumes.
+1017_Bad_Santa_01.16.19.032-01.16.22.698 	thurman picks up his report card and heads out of the kitchen.
 1017_Bad_Santa_01.17.33.051-01.17.35.718 	gin heads back to his car and marcus smiles.
+1017_Bad_Santa_01.22.40.481-01.22.47.876 	she makes a minor adjust to its position and heads off.
 1017_Bad_Santa_01.23.44.031-01.23.50.427 	 he plunges down the duct heading straight down and smashes through a vent, which is above the table of sweaters lois had repositioned to break his fall.
 1017_Bad_Santa_01.27.20.286-01.27.27.903 	willie heads out of the office, and marcus begins filling a sack with wads of dollar bills from the safe.
 1018_Body_Of_Lies_00.49.45.600-00.50.09.640 	they head along corridors to join hani in the meeting room.
 1018_Body_Of_Lies_01.01.05.748-01.01.11.627 	the suv heads down a dark street, turns a corner and stops near the burning safe house.
-1018_Body_Of_Lies_01.03.47.243-01.03.51.776 	ferris heads off up the slope.
 1018_Body_Of_Lies_01.12.09.652-01.12.17.089 	he heads upstairs and along a corridor.
-1018_Body_Of_Lies_01.12.40.489-01.12.43.940 	ferris heads to a laptop on the dressing table.
 1018_Body_Of_Lies_01.38.08.107-01.38.13.983 	he heads up the stairs with his phone pressed to his ear.
 1018_Body_Of_Lies_01.53.11.490-01.53.15.289 	al-saleem and one of his men head downstairs and through a market.
-1020_Crazy_Stupid_Love_00.13.14.162-00.13.15.465 	cal heads out.
 1020_Crazy_Stupid_Love_00.16.48.879-00.16.52.135 	bernie heads out of the bar.
-1020_Crazy_Stupid_Love_00.17.54.485-00.18.02.862 	and heads over to jacob's table, just as the woman gets up to leave.
 1020_Crazy_Stupid_Love_00.20.41.724-00.20.45.658 	he heads off with the pretty dark-haired woman, who smiles at cal.
-1020_Crazy_Stupid_Love_00.24.32.622-00.24.34.406 	liz heads off.
-1020_Crazy_Stupid_Love_00.37.33.061-00.37.33.856 	david heads back to emily's office.
-1020_Crazy_Stupid_Love_00.46.08.261-00.46.13.175 	cal heads out hand-in-hand with an attractive young woman in a slinky green dress.
+1020_Crazy_Stupid_Love_00.37.22.870-00.37.23.980 	emily heads off.
 1020_Crazy_Stupid_Love_00.48.08.524-00.48.09.859 	the girl heads off down the corridor.
-1020_Crazy_Stupid_Love_00.49.45.631-00.49.48.484 	madison heads out.
 1020_Crazy_Stupid_Love_01.04.59.163-01.05.00.781 	she heads off.
-1020_Crazy_Stupid_Love_01.07.13.485-01.07.16.079 	jacob heads over to a coffee table to put them down.
+1020_Crazy_Stupid_Love_01.17.50.355-01.17.58.482 	heading back to her house,
 1020_Crazy_Stupid_Love_01.18.32.414-01.18.36.769 	he heads off.
-1020_Crazy_Stupid_Love_01.18.38.351-01.18.40.417 	emily heads in.
 1020_Crazy_Stupid_Love_01.24.19.209-01.24.23.443 	emily heads back to the kids.
 1020_Crazy_Stupid_Love_01.26.06.998-01.26.10.286 	they head off.
 1020_Crazy_Stupid_Love_01.32.23.290-01.32.31.785 	they head off.
-1020_Crazy_Stupid_Love_01.34.27.729-01.34.30.622 	cal heads off.
 1020_Crazy_Stupid_Love_01.36.26.845-01.36.28.896 	but robbie eyes him balefully and heads off on another direction.
 1020_Crazy_Stupid_Love_01.41.33.886-01.41.39.444 	he heads upstairs and makes his way to a seat on the other side of the structure.
-1020_Crazy_Stupid_Love_01.48.03.148-01.48.09.607 	emily, molly, jacob and hannah head over to cal and robbie.
 1020_Crazy_Stupid_Love_01.52.19.377-01.52.20.874 	then heads off.
 1023_Horrible_Bosses_00.34.44.314-00.34.46.414 	kurt nods to a musclebound guy as they head to the bar.
 1023_Horrible_Bosses_00.43.59.892-00.44.04.505 	nick picks up the plastic bin and heads out.
-1024_Identity_Thief_00.23.25.661-00.23.29.493 	sandy heads out.
+1023_Horrible_Bosses_01.02.02.810-01.02.08.079 	as sultry julia heads indoors, kurt's phone rings.
 1024_Identity_Thief_01.32.27.159-01.32.30.505 	the skiptracer crashes through the dividers, heading straight for him.
-1024_Identity_Thief_01.41.00.968-01.41.08.238 	giving someone else a weak wave, sandy heads to his office and pauses and looks at his name placard on the glass door.
 1024_Identity_Thief_01.46.50.644-01.46.54.575 	he looks up at diana as she heads for a pair of prison guards standing by a chain-link fence.
 1026_Legion_00.28.09.856-00.28.15.449 	then it goes back onto the road, heading for the dark cloud in the distance.
 1027_Les_Miserables_01.51.57.511-01.52.04.716 	javert stops and looks back then heads off into the dark.
 1028_No_Reservations_00.24.37.875-00.24.44.302 	kate shakes her head at paula in disbelief, then grabs her bag and heads out.
 1028_No_Reservations_00.48.22.026-00.48.24.147 	she heads towards the front door.
-1028_No_Reservations_00.56.15.714-00.56.21.095 	nick heads into the kitchen, donning his white apron.
 1028_No_Reservations_00.56.50.698-00.56.55.492 	zoe runs to the apartment door, flings it open and heads downstairs.
 1028_No_Reservations_01.27.25.154-01.27.27.423 	she heads towards her bedroom.
-1029_Pride_And_Prejudice_Disk_One_00.21.06.021-00.21.07.183 	bingley heads off.
 1029_Pride_And_Prejudice_Disk_One_01.20.59.733-01.21.06.536 	knowing the laughter is at him, he regains his composure before heading down the stairs.
 1029_Pride_And_Prejudice_Disk_One_01.48.40.542-01.48.42.878 	outside, lydia and kitty are heading out.
-1029_Pride_And_Prejudice_Disk_One_01.49.28.919-01.49.31.038 	charlotte heads towards the house.
 1029_Pride_And_Prejudice_Disk_One_01.59.37.156-01.59.41.774 	just as the girls are heading back inside, lydia chases after them.
 1029_Pride_And_Prejudice_Disk_One_02.35.33.587-02.35.36.640 	he heads for the door.
 1030_Public_Enemies_00.11.28.586-00.11.30.109 	they head inside.
 1030_Public_Enemies_00.14.45.328-00.14.50.811 	inside, a young female teller hurries to dillinger and they head back down the stairs.
 1030_Public_Enemies_00.15.59.153-00.16.01.876 	the car heads down a dirt road leading toward a forest of leafless trees.
-1030_Public_Enemies_00.22.10.484-00.22.13.000 	alvin nods and heads off.
 1030_Public_Enemies_00.48.44.185-00.48.49.292 	dillinger picks up a suitcase and heads off with billie.
 1030_Public_Enemies_00.50.21.796-00.50.23.766 	wearing cowboy hats, the officers head out.
 1030_Public_Enemies_00.58.03.101-00.58.07.642 	dillinger scowls toward his cell then heads over.
-1030_Public_Enemies_01.12.54.212-01.13.04.750 	outside, hoover turns from purvis and heads over to a group of well-dressed boys standing in two lines.
-1030_Public_Enemies_01.28.10.679-01.28.12.346 	baum heads off.
+1030_Public_Enemies_01.30.31.542-01.30.34.364 	headed his way in a car, baum peers ahead, over the steering wheel.
 1030_Public_Enemies_01.52.35.830-01.52.37.826 	piquett puts on his hat and heads off in the opposite direction.
-1030_Public_Enemies_02.03.17.739-02.03.24.893 	on screen, gable turns away from powell, who draws a deep breath and heads into a cellblock.
-1030_Public_Enemies_02.05.07.614-02.05.13.280 	shoving a bystander aside, purvis heads down the sidewalk after them.
 1030_Public_Enemies_02.07.24.944-02.07.28.610 	marty leans in for a good look at dillinger's body, then heads off.
-1031_Quantum_of_Solace_00.02.19.392-00.02.27.378 	coming out of the tunnel and rounding a corner, bond skids the car to avoid the police land rover which blocks the road in front of him and heads off through the dusty quarry, the alfa still on his tail.
-1031_Quantum_of_Solace_00.03.50.853-00.03.58.339 	bond heads down a long, straight brick tunnel.
+1031_Quantum_of_Solace_00.02.14.412-00.02.17.131 	the land rover heads off, blue lights flashing.
 1031_Quantum_of_Solace_00.13.25.056-00.13.30.857 	bond pulls on the bell ropes, then heads up to the belfry, gun up and ready.
 1031_Quantum_of_Solace_00.19.55.140-00.20.01.742 	barely glancing at the body, he grabs the door keys, and heads downstairs.
 1031_Quantum_of_Solace_00.29.31.917-00.29.34.268 	the launch is heading towards a huge luxury cruiser.
@@ -206,39 +149,37 @@
 1031_Quantum_of_Solace_00.43.54.883-00.43.56.597 	he heads back downstairs.
 1031_Quantum_of_Solace_00.48.05.353-00.48.14.868 	the boat is heading towards a promontory topped by a grand villa overlooking the turquoise blue sea.
 1031_Quantum_of_Solace_00.54.12.422-00.54.18.725 	bond heading back to the taxi.
+1031_Quantum_of_Solace_00.55.59.594-00.56.04.487 	tousle-headed bond puts down his champagne glass and heads back to the bedroom.
 1031_Quantum_of_Solace_01.04.28.453-01.04.36.608 	the range rover heads down a desert highway.
 1031_Quantum_of_Solace_01.17.40.464-01.17.52.356 	he heads unhurriedly upstairs, makes his way across the landing and approaches the door of his room.
 1031_Quantum_of_Solace_01.29.20.775-01.29.23.169 	inside the building, camille is heading in their direction.
 1031_Quantum_of_Solace_01.29.33.237-01.29.37.486 	the police chief heads downstairs to his four by four and dumps the money on the backseat.
 1031_Quantum_of_Solace_01.37.45.062-01.37.57.209 	he drives away as she heads for the station.
-1033_Sherlock_Holmes_A_Game_of_Shadows_00.06.50.650-00.06.54.448 	irene heads out.
+1033_Sherlock_Holmes_A_Game_of_Shadows_00.28.40.672-00.28.46.506 	he somersaults off it down to a lower level, and heads off holmes and sim.
 1033_Sherlock_Holmes_A_Game_of_Shadows_00.52.54.427-00.52.57.795 	the man heads off.
-1033_Sherlock_Holmes_A_Game_of_Shadows_01.04.57.903-01.05.01.570 	leading the way with his flaming torch, holmes heads off down a dark corridor.
 1033_Sherlock_Holmes_A_Game_of_Shadows_01.05.47.233-01.05.55.330 	he gets up and, puffing on a dark cigarette, watches them go by before heading off in the opposite direction.
+1033_Sherlock_Holmes_A_Game_of_Shadows_01.15.47.462-01.15.51.695 	sim, watson, and holmes exchange nods, then holmes and watson head up.
 1033_Sherlock_Holmes_A_Game_of_Shadows_01.29.18.741-01.29.23.408 	they keep running, heading towards the railway line.
-1035_The_Adjustment_Bureau_00.29.11.576-00.29.15.720 	as david heads out, charlie gapes at him, then follows.
-1035_The_Adjustment_Bureau_00.35.13.434-00.35.21.429 	now david heads down a crowded sidewalk.
+1034_Super_8_00.26.11.058-00.26.14.724 	then alice gets into the coupe's driving seat and heads off.
+1034_Super_8_01.09.06.801-01.09.09.699 	the evacuation convoy heads out of town.
 1035_The_Adjustment_Bureau_00.36.17.486-00.36.24.618 	he heads to them and sits.
+1035_The_Adjustment_Bureau_00.50.29.138-00.50.33.115 	heading outside, they see david exit the cab and enter a building.
 1035_The_Adjustment_Bureau_01.13.52.050-01.13.53.484 	they head out.
-1035_The_Adjustment_Bureau_01.14.46.126-01.14.48.845 	charlie heads outside.
+1035_The_Adjustment_Bureau_01.33.19.137-01.33.27.782 	harry grimly takes it, heads back down the hall and turns out of view.
 1037_The_Curious_Case_Of_Benjamin_Button_00.13.11.461-00.13.15.579 	she heads for her room.
 1037_The_Curious_Case_Of_Benjamin_Button_00.56.38.736-00.56.43.889 	red-haired daisy watches as he heads off.
 1037_The_Curious_Case_Of_Benjamin_Button_01.02.33.310-01.02.40.564 	he heads towards the kitchen, then turns back to her.
 1037_The_Curious_Case_Of_Benjamin_Button_01.07.11.843-01.07.16.171 	she looks a little flustered and heads off.
 1037_The_Curious_Case_Of_Benjamin_Button_01.15.52.949-01.16.01.721 	looking awkward, mr. mayes heads out of the bar, past benjamin.
-1037_The_Curious_Case_Of_Benjamin_Button_02.15.07.997-02.15.13.310 	wearing an autumnal-colored poncho, daisy heads off to the toilet.
 1037_The_Curious_Case_Of_Benjamin_Button_02.21.07.984-02.21.17.903 	daisy sits up in bed as he heads for the front door.
 1038_The_Great_Gatsby_00.39.14.209-00.39.16.115 	they head towards the queensboro bridge.
-1038_The_Great_Gatsby_01.24.40.912-01.24.44.215 	gatsby heads up the steps to the house.
 1038_The_Great_Gatsby_01.32.36.403-01.32.37.903 	they head to wilson's garage.
 1038_The_Great_Gatsby_01.33.48.154-01.33.49.634 	they head across the queensboro bridge side-by-side.
-1038_The_Great_Gatsby_02.00.12.308-02.00.13.019 	nick heads off along the gravel path beneath the terrace, leading through the ornamental garden.
 1039_The_Queen_00.59.22.967-00.59.29.001 	as she heads across the ford, rocks and potholes on the riverbed jolts the car.
 1040_The_Ugly_Truth_00.08.10.265-00.08.14.651 	she heads along a path through the pretty ornamental gardens outside her apartment building.
 1040_The_Ugly_Truth_00.29.33.005-00.29.38.294 	the babes head off.
 1040_The_Ugly_Truth_00.56.55.196-00.57.12.028 	they head along a winding road through mountains, across a steel girder bridge, and through rolling countryside.
 1040_The_Ugly_Truth_01.12.45.911-01.12.51.277 	abby smiles nervously and heads off.
-1041_This_is_40_00.24.13.885-00.24.15.498 	graham heads out.
 1042_Up_In_The_Air_00.14.51.603-00.14.53.442 	they head to a room.
 1042_Up_In_The_Air_00.32.14.745-00.32.18.543 	office workers stare at them as they head to a private office.
 1042_Up_In_The_Air_01.09.36.999-01.09.44.322 	he stops, turns around and heads back the way he came.
@@ -246,25 +187,17 @@
 1043_Vantage_Point_00.11.06.582-00.11.11.189 	the convoy, headed by the two motorcycles, sets off from the underground garage.
 1043_Vantage_Point_01.01.32.631-01.01.34.517 	a secret service agent heads downstairs.
 1043_Vantage_Point_01.01.41.421-01.01.46.683 	javier watches more agents pass beneath him in the stairwell, then heads downstairs.
-1043_Vantage_Point_01.04.38.067-01.04.41.097 	taylor changes into a spanish policeman's outfit and heads down an outside staircase with the packed up rifle.
 1043_Vantage_Point_01.05.08.307-01.05.13.542 	as barnes rounds a corner, he heads down a quiet street.
-1043_Vantage_Point_01.07.50.445-01.07.55.187 	javier heads down the stairwell in the hotel dressed in a spanish policeman's uniform.
 1043_Vantage_Point_01.12.41.485-01.12.49.208 	policemen frantically direct scared members of the public away from the chase as both cars head through a junction.
-1043_Vantage_Point_01.21.49.013-01.21.50.537 	howard reaches out and waves as marie heads off holding anna, who waves back.
-1044_Pride_And_Prejudice_Disk_Two_00.08.31.756-00.08.38.335 	lizzy heads out, leaving the others to resume their breakfast.
 1044_Pride_And_Prejudice_Disk_Two_00.09.26.118-00.09.30.841 	he hands it to her, bows, then heads off.
-1044_Pride_And_Prejudice_Disk_Two_00.12.47.686-00.12.52.524 	darcy watches from above as jane heads out dressed in a grey cloak and bonnet.
 1044_Pride_And_Prejudice_Disk_Two_00.34.30.882-00.34.34.285 	he heads inside and the girls follow him.
 1044_Pride_And_Prejudice_Disk_Two_00.44.23.840-00.44.25.916 	they head up a grand, white staircase.
-1044_Pride_And_Prejudice_Disk_Two_00.55.41.149-00.55.47.222 	she goes inside and heads straight into the parlor, where mr. darcy is sitting waiting for her.
+1044_Pride_And_Prejudice_Disk_Two_01.01.59.181-01.02.03.550 	mr. bingley and georgiana head inside together, arm in arm.
 1044_Pride_And_Prejudice_Disk_Two_01.06.06.698-01.06.09.975 	they head out, leaving lizzie alone with her letters.
 1044_Pride_And_Prejudice_Disk_Two_01.33.57.585-01.34.08.531 	he steps inside, takes off his top hat and black cloak, and heads into his study, closing the door behind him.
 1044_Pride_And_Prejudice_Disk_Two_01.39.19.152-01.39.26.286 	she heads back inside, studying the unopened letter, and goes to knock on the door of mr. bennet's study.
-1044_Pride_And_Prejudice_Disk_Two_01.50.06.142-01.50.11.625 	beaming, she takes mr. gardiner's hand and heads up the steps.
-1044_Pride_And_Prejudice_Disk_Two_01.53.58.270-01.54.02.937 	jane and lizzie exchange glances, then head inside, followed by mary and kitty.
 1044_Pride_And_Prejudice_Disk_Two_02.15.36.556-02.15.41.625 	as they all head inside, jane hangs back for a moment and turns to lizzie.
 1044_Pride_And_Prejudice_Disk_Two_02.18.19.648-02.18.25.985 	lady catherine heads out and lizzie follows her, looking puzzled.
-1045_An_education_00.14.42.541-00.14.47.187 	jenny heads back to her friends.
 1045_An_education_01.17.14.296-01.17.16.597 	they head for the car.
 1045_An_education_01.33.51.291-01.33.55.937 	at breakfast, her father is heading off to work.
 1046_Australia_00.11.21.447-00.11.24.869 	she heads for the door.
@@ -274,52 +207,45 @@
 1046_Australia_01.09.12.395-01.09.16.895 	they head towards the golden glow of the sunset.
 1046_Australia_01.37.10.880-01.37.13.073 	arm-in-arm, they head for the dance floor.
 1046_Australia_02.30.35.532-02.30.41.897 	the tailgate is raised and the trucks head off.
-1048_Gran_Torino_00.04.35.026-00.04.36.205 	walt heads down to the basement.
 1048_Gran_Torino_00.24.13.677-00.24.14.970 	he calls to his dog as he heads inside.
 1048_Gran_Torino_00.26.35.400-00.26.38.166 	walt heads back into his house.
 1048_Gran_Torino_01.20.00.573-01.20.02.537 	as they head off, walt winces slightly.
 1048_Gran_Torino_01.20.04.846-01.20.18.639 	carrying his new stuff, thao gets off a bus and jogs down a back alley heading home.
-1048_Gran_Torino_01.42.11.471-01.42.14.016 	walt heads off.
+1049_Harry_Potter_and_the_chamber_of_secrets_00.09.58.699-00.10.00.306 	vernon falls head first out of the window.
 1049_Harry_Potter_and_the_chamber_of_secrets_00.19.34.709-00.19.37.030 	they head for the door.
 1049_Harry_Potter_and_the_chamber_of_secrets_00.26.19.494-00.26.21.692 	it heads straight towards the ground.
 1049_Harry_Potter_and_the_chamber_of_secrets_00.26.41.059-00.26.43.686 	the car heads towards an ancient willow tree standing in the school grounds.
 1049_Harry_Potter_and_the_chamber_of_secrets_00.33.52.009-00.33.58.910 	swooping low over the table, it heads for ron, but collides with a bowl, scattering crisps everywhere.
 1049_Harry_Potter_and_the_chamber_of_secrets_00.54.42.254-00.54.49.762 	then it turns and heads straight for harry, chasing after him.
 1049_Harry_Potter_and_the_chamber_of_secrets_01.35.44.781-01.35.46.960 	they head for the pitch.
-1049_Harry_Potter_and_the_chamber_of_secrets_02.10.20.852-02.10.26.222 	the phoenix flies at the serpent's head flapping its wings the brave bird pecks repeated the other creature's huge yellow eyes.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.16.55.617-00.16.59.760 	still on the wrong carriageway, he heads into a tunnel.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.25.30.505-00.25.57.357 	they head back towards the house.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.32.32.930-00.32.35.016 	he heads towards him.
-1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.31.53.167-01.31.54.989 	he smashes the snake's head with it.
-1050_Harry_Potter_and_the_deathly_hallows_Disk_One_02.11.10.147-02.11.19.946 	dobby's head lolls back, and his huge wide eyes glaze over.
 1051_Harry_Potter_and_the_goblet_of_fire_00.41.43.846-00.41.46.285 	it heads towards a tall, isolated tower.
 1051_Harry_Potter_and_the_goblet_of_fire_01.33.02.106-01.33.09.680 	he heads through a narrow channel, peering uncertainly through the cloudy water.
+1051_Harry_Potter_and_the_goblet_of_fire_01.56.57.115-01.57.02.658 	heading towards it, he emerges onto a path between cedric and viktor.
 1052_Harry_Potter_and_the_order_of_phoenix_01.36.42.093-01.36.49.424 	with a flash, the head of a flaming, fiery dragon appears and heads for umbridge.
 1052_Harry_Potter_and_the_order_of_phoenix_01.52.23.529-01.52.26.113 	they head for the door at the end of a long narrow passage.
 1052_Harry_Potter_and_the_order_of_phoenix_02.00.46.675-02.00.48.873 	it heads towards harry.
+1053_Harry_Potter_and_the_philosophers_stone_01.19.33.595-01.19.35.709 	a slytherin sails over the beaters head and shoots accurately at the hoop.
 1053_Harry_Potter_and_the_philosophers_stone_02.05.10.057-02.05.21.478 	she moves steadily across the board, heading straight towards ron's black horse.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_01.14.49.128-01.14.56.754 	harry watches them as they run this way and that, then appear to be heading down the corridor straight towards him.
-1055_Marley_and_me_00.16.02.954-00.16.05.824 	john heads for the car in the driveway.
 1055_Marley_and_me_00.50.07.772-00.50.13.695 	he then head butts open his food bin, knocking some books off a shelf in the process.
-1055_Marley_and_me_01.27.14.831-01.27.23.380 	john, the boys and marley head back to the house.
-1055_Marley_and_me_01.48.16.000-01.48.17.227 	john continues to stroke marley's head as the vet takes off the stethoscope and turns away.
 1055_Marley_and_me_01.51.56.804-01.51.58.897 	john heads back to the house.
+1056_Rambo_00.55.29.000-00.55.43.900 	he plants his hands on his head and heads away across the sodden compound.
 1056_Rambo_01.01.40.000-01.01.48.727 	he stands on his veranda, watching the boy trudge away across the compound before turning and heading back inside.
 1056_Rambo_01.03.38.000-01.03.39.000 	they head into the forest.
-1056_Rambo_01.07.02.125-01.07.05.425 	rambo heads through the forest at full tilt.
 1057_Seven_pounds_00.10.07.852-00.10.13.084 	ben smiles and gives the stout nurse a brief wave as he heads away.
 1057_Seven_pounds_00.31.41.594-00.31.46.572 	ben smiles broadly and heads out.
 1057_Seven_pounds_01.03.03.271-01.03.10.752 	she heads down the leafy drive to ben's beach house, pulls up and looks awestruck.
-1057_Seven_pounds_01.15.35.495-01.15.44.462 	duke's head sticks out of ben's car window as they drive along the avenue of palm trees to emily's quaint clapboard house, and pull up outside it.
-1059_The_devil_wears_prada_00.02.33.532-00.02.54.373 	the fashionable ladies flag down taxicabs and get into chauffeur-driven cars, whilst andi heads cheerfully down into the subway in her rather shapeless brown coat and clunky black heels.
 1059_The_devil_wears_prada_00.10.04.794-00.10.13.979 	andy hands her pass in at the reception desk on the ground floor and is heading for the doors, when emily appears.
 1059_The_devil_wears_prada_00.49.41.000-00.49.45.000 	andy smiles nervously, and heads back to her desk.
 1059_The_devil_wears_prada_01.07.20.000-01.07.24.917 	she yanks her cap off and smooths her fringe before heading in.
 1059_The_devil_wears_prada_01.09.36.785-01.09.47.345 	nate's shoulders sag and he heads back into the bedroom and turns out the light.
 1059_The_devil_wears_prada_01.19.13.436-01.19.19.420 	andy follows miranda and nigel as they head into another function past the press pack.
-1060_Yes_man_00.12.11.377-00.12.15.173 	peter heads over towards the sofa.
 1060_Yes_man_00.26.02.240-00.26.07.376 	they head up a tree-lined hill.
-1060_Yes_man_01.31.05.619-01.31.10.954 	carl heads out.
+1060_Yes_man_00.28.39.982-00.28.42.706 	a corpulent woman heads over.
+1060_Yes_man_01.31.52.000-01.31.57.000 	up on the back wheel, carl crashes through a barrier and heads out of the hospital car park.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.22.08.135-00.22.21.853 	the wind ruffles their hair as the dragon flies off, heading west along the river.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.38.21.333-01.38.33.738 	he heads the procession as it trudges towards the school
 1062_Day_the_Earth_stood_still_00.57.05.000-00.57.11.000 	a frog and a lizard leap into the water heading towards it.
@@ -327,58 +253,12 @@
 1062_Day_the_Earth_stood_still_01.00.39.000-01.00.46.000 	from all over the world, glowing spheres head into space, away from earth's atmosphere.
 1062_Day_the_Earth_stood_still_01.29.02.000-01.29.08.506 	the mass, now a vast swirling gray sea, is heading for new york.
 1062_Day_the_Earth_stood_still_01.38.20.685-01.38.28.226 	the sphere heads out into space leaving the earth behind.
-2004_Juno_00.51.29.909-00.51.30.544 	juno heads to the urn by the door
 2005_Signs_00.50.55.692-00.50.57.151 	graham looks at an illustration of a small, bulbous headed figure shaking hands with a bearded human.
 2012_Unbreakable_00.41.14.303-00.41.17.305 	elijah quickly turns and sees the man moving through the parked cars heading out of the parking lot.
-2012_Unbreakable_01.04.41.637-01.04.45.761 	the top of the man's head doesn't move.
 2012_Unbreakable_01.22.20.319-01.22.27.973 	he heads toward a back exit.
-2017_Bad_Santa_00.05.29.810-00.05.34.486 	the security guard heads for a panel near the doorway and punches a key labeled arm.
-2017_Bad_Santa_01.22.46.468-01.22.49.003 	satisfied with her placement of the table, lois heads out the door.
+2017_Bad_Santa_00.05.36.583-00.05.39.758 	the guard exits the store, locks the door and heads home.
 2026_Legion_00.04.24.711-00.04.33.690 	he reaches the street just in time to see a fleet of police cars tearing around the corner, sirens wailing, heading this way.
 2026_Legion_00.24.11.367-00.24.14.167 	he heads straight for a quiet huddle with bob.
-2027_Les_Miserables_00.24.33.499-00.24.34.938 	fantine heads to the tooth man.
-2027_Les_Miserables_00.52.43.902-00.52.45.688 	cosette has filled her buckets at the well in the wood, and is now heading back.
-1052_Harry_Potter_and_the_order_of_phoenix_02.00.46.675-02.00.48.873 	it heads towards harry.
-1053_Harry_Potter_and_the_philosophers_stone_02.05.10.057-02.05.21.478 	she moves steadily across the board, heading straight towards ron's black horse.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_01.14.49.128-01.14.56.754 	harry watches them as they run this way and that, then appear to be heading down the corridor straight towards him.
-1055_Marley_and_me_00.16.02.954-00.16.05.824 	john heads for the car in the driveway.
-1055_Marley_and_me_00.50.07.772-00.50.13.695 	he then head butts open his food bin, knocking some books off a shelf in the process.
-1055_Marley_and_me_01.27.14.831-01.27.23.380 	john, the boys and marley head back to the house.
-1055_Marley_and_me_01.48.16.000-01.48.17.227 	john continues to stroke marley's head as the vet takes off the stethoscope and turns away.
-1055_Marley_and_me_01.51.56.804-01.51.58.897 	john heads back to the house.
-1056_Rambo_01.01.40.000-01.01.48.727 	he stands on his veranda, watching the boy trudge away across the compound before turning and heading back inside.
-1056_Rambo_01.03.38.000-01.03.39.000 	they head into the forest.
-1056_Rambo_01.07.02.125-01.07.05.425 	rambo heads through the forest at full tilt.
-1057_Seven_pounds_00.10.07.852-00.10.13.084 	ben smiles and gives the stout nurse a brief wave as he heads away.
-1057_Seven_pounds_00.31.41.594-00.31.46.572 	ben smiles broadly and heads out.
-1057_Seven_pounds_01.03.03.271-01.03.10.752 	she heads down the leafy drive to ben's beach house, pulls up and looks awestruck.
-1057_Seven_pounds_01.15.35.495-01.15.44.462 	duke's head sticks out of ben's car window as they drive along the avenue of palm trees to emily's quaint clapboard house, and pull up outside it.
-1059_The_devil_wears_prada_00.02.33.532-00.02.54.373 	the fashionable ladies flag down taxicabs and get into chauffeur-driven cars, whilst andi heads cheerfully down into the subway in her rather shapeless brown coat and clunky black heels.
-1059_The_devil_wears_prada_00.10.04.794-00.10.13.979 	andy hands her pass in at the reception desk on the ground floor and is heading for the doors, when emily appears.
-1059_The_devil_wears_prada_00.49.41.000-00.49.45.000 	andy smiles nervously, and heads back to her desk.
-1059_The_devil_wears_prada_01.07.20.000-01.07.24.917 	she yanks her cap off and smooths her fringe before heading in.
-1059_The_devil_wears_prada_01.09.36.785-01.09.47.345 	nate's shoulders sag and he heads back into the bedroom and turns out the light.
-1059_The_devil_wears_prada_01.19.13.436-01.19.19.420 	andy follows miranda and nigel as they head into another function past the press pack.
-1060_Yes_man_00.12.11.377-00.12.15.173 	peter heads over towards the sofa.
-1060_Yes_man_00.26.02.240-00.26.07.376 	they head up a tree-lined hill.
-1060_Yes_man_01.31.05.619-01.31.10.954 	carl heads out.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.22.08.135-00.22.21.853 	the wind ruffles their hair as the dragon flies off, heading west along the river.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.38.21.333-01.38.33.738 	he heads the procession as it trudges towards the school
-1062_Day_the_Earth_stood_still_00.57.05.000-00.57.11.000 	a frog and a lizard leap into the water heading towards it.
-1062_Day_the_Earth_stood_still_00.59.58.000-01.00.04.713 	she gets out of the car and follows the boy as he heads into the darkness.
-1062_Day_the_Earth_stood_still_01.00.39.000-01.00.46.000 	from all over the world, glowing spheres head into space, away from earth's atmosphere.
-1062_Day_the_Earth_stood_still_01.29.02.000-01.29.08.506 	the mass, now a vast swirling gray sea, is heading for new york.
-1062_Day_the_Earth_stood_still_01.38.20.685-01.38.28.226 	the sphere heads out into space leaving the earth behind.
-2004_Juno_00.51.29.909-00.51.30.544 	juno heads to the urn by the door
-2005_Signs_00.50.55.692-00.50.57.151 	graham looks at an illustration of a small, bulbous headed figure shaking hands with a bearded human.
-2012_Unbreakable_00.41.14.303-00.41.17.305 	elijah quickly turns and sees the man moving through the parked cars heading out of the parking lot.
-2012_Unbreakable_01.04.41.637-01.04.45.761 	the top of the man's head doesn't move.
-2012_Unbreakable_01.22.20.319-01.22.27.973 	he heads toward a back exit.
-2017_Bad_Santa_00.05.29.810-00.05.34.486 	the security guard heads for a panel near the doorway and punches a key labeled arm.
-2017_Bad_Santa_01.22.46.468-01.22.49.003 	satisfied with her placement of the table, lois heads out the door.
-2026_Legion_00.04.24.711-00.04.33.690 	he reaches the street just in time to see a fleet of police cars tearing around the corner, sirens wailing, heading this way.
-2026_Legion_00.24.11.367-00.24.14.167 	he heads straight for a quiet huddle with bob.
-2027_Les_Miserables_00.24.33.499-00.24.34.938 	fantine heads to the tooth man.
 2027_Les_Miserables_00.52.43.902-00.52.45.688 	cosette has filled her buckets at the well in the wood, and is now heading back.
 2034_Super_8_00.04.30.577-00.04.35.814 	they head across the street to the 7-eleven.
 2034_Super_8_00.20.55.980-00.21.08.414 	joe looks -- they all move to preston (except cary, who heads off): crates have spilled from a nearby split car; many shattered, revealing thousands of small white-metal cubes which now litter the ground.
@@ -386,7 +266,6 @@
 2034_Super_8_00.47.16.025-00.47.23.298 	he heads for his office, seeing louis, who is being escorted out by an officer across the room.
 2034_Super_8_00.47.32.096-00.47.36.956 	louis heads out -- hold on jack as he turns, enters his office, and as that door opens, we cut to.
 2034_Super_8_00.51.16.346-00.51.22.865 	jack opens the car's back door -- joe gets in -- jack slams it shut, then throws the camera and tripod into the passenger seat and slams that door, heading to the house, leaving joe in the back.
-2034_Super_8_00.51.28.887-00.51.29.705 	nelec heads outside -- jack moves to him.
 2034_Super_8_00.51.41.719-00.51.44.863 	jack heads off.
 2034_Super_8_00.53.25.029-00.53.33.086 	more upset at himself than joe, he heads out.
 2034_Super_8_01.05.18.905-01.05.21.422 	charles heads off -- joe follows.
@@ -394,5 +273,4 @@
 2034_Super_8_01.24.39.675-01.24.44.602 	as the two soldiers head off, jack wraps louis' arm over his shoulders, heads off in the other direction, as louis looks him over, confused.
 2041_This_is_40_00.48.03.819-00.48.12.858 	they pull up to their house, shut off the car and sit for a beat, knowing they're about to head back into the stress of the real world, not wanting their peaceful, loving time to end.
 2051_Harry_Potter_and_the_goblet_of_fire_01.36.43.038-01.36.49.620 	he loosens her rope too and starts heading for the surface with the both of them.
-2054_Harry_Potter_and_the_prisoner_of_azkaban_00.34.33.805-00.34.37.481 	buckbeak's head cocks, eagle eyes studying harry cannily.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_01.50.01.294-01.50.02.250 	seconds later, harry emerges, marvels at the sight of himself and hermione, and ron heading down the slope to hagrid's hut.

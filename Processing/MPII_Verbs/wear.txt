@@ -1,206 +1,78 @@
-0001_American_Beauty_00.01.37.227-00.01.38.586 	we're looking down at a king-sized bed from overhead: lester burnham lies sleeping amidst expensive bed linens, face down, wearing pajamas.
-0001_American_Beauty_00.02.29.298-00.02.30.004 	a very well-put together woman of forty, she wears color-coordinated gardening togs and has lots of useful and expensive tools.
 0001_American_Beauty_00.11.21.829-00.11.22.831 	carolyn stands in front of the mirror, wearing her suit once more, applying lipstick.
 0001_American_Beauty_00.13.57.956-00.14.02.886 	one team wearing pale blue and white uniforms scores a basket.
 0001_American_Beauty_00.32.05.260-00.32.06.732 	ricky approaches him, wearing a waiter's uniform, carrying a tray of empty glasses.
-0001_American_Beauty_00.46.25.636-00.46.28.352 	still running, the jims turn back in perfect unison, as lester runs into frame, wearing a baggy sweatshirt and a pair of faded old sweatpants.
-0001_American_Beauty_00.57.00.933-00.57.04.372 	he pulls the car around to the window, where a teenage girl wearing a headset is waiting.
 0001_American_Beauty_00.57.22.287-00.57.22.658 	lester sits at a booth with the manager, a greasy kid wearing a white short sleeve shirt and a tie covered with the mr. 
-0001_American_Beauty_01.13.29.905-01.13.35.396 	carolyn, wearing protective headgear, is holding a glock 19 automatic revolver with both hands, firing it directly at us.
 0001_American_Beauty_01.17.50.035-01.17.51.813 	jane lays in ricky's bed, wearing a tank top.
-0001_American_Beauty_01.23.38.575-01.23.40.266 	we're almost on top of the burnham house now, as lester, wearing sweatpants and running shoes, bursts out of the front door and dashes up the driveway.
 0001_American_Beauty_01.26.55.169-01.26.55.667 	lester, wearing a mr. 
-0001_American_Beauty_01.38.47.821-01.38.48.336 	through the window, we see lester, wearing only his sweatpants, performing bench presses.
 0001_American_Beauty_01.54.13.414-01.54.14.419 	he's wearing latex gloves.
 0003_CASABLANCA_00.07.21.475-00.07.23.715 	turks wearing fezzes.
-0003_CASABLANCA_00.25.20.247-00.25.21.002 	they are victor laszlo, the czech resistance leader, and a very pretty young woman wearing a simple white gown, miss ilsa lund.
 0004_Charade_00.17.37.566-00.17.38.276 	he wears a velvet-corduroy suit, string tie and a bright yellow flower in his lapel.
-0004_Charade_00.20.11.363-00.20.14.784 	he wears heavy tortoise-framed glasses which fall down his nose and cause him to push them back in place every so often with a quick automatic motion.
 0004_Charade_00.26.26.303-00.26.35.172 	finally, judy knocks punch out of sight and a puppet wearing a three-cornered hat appears.
-0004_Charade_00.26.36.674-00.26.41.356 	wearing a hat, he stands off in the background, watching.
-0004_Charade_00.27.38.204-00.27.42.307 	he stands on the dance floor in front of a five piece latin dance band, a spotlight on him, wearing his professional smile as he speaks into a mike.
-0004_Charade_01.26.39.560-01.26.40.065 	they are all wearing earphones.
-0005_Chinatown_00.06.55.073-00.06.55.791 	he is a slender man in his sixties, who wears glasses and moves with surprising fluidity.
-0005_Chinatown_00.28.06.665-00.28.08.109 	evelyn is wearing jeans that are lathered white on the inside of the thighs and laced with brown horsehair.
-0005_Chinatown_00.28.07.113-00.28.07.540 	she's wearing riding boots, is perspiring a little, but looks younger than she did in the office.
 0006_Clerks_00.32.26.484-00.32.28.706 	the indecisive customer wears a face that belies utter disbelief in the audacity of this most lackadaisical video clerk.
 0006_Clerks_00.42.56.167-00.42.57.189 	randal enters, wearing his equipment.
 0007_DIE_NACHT_DES_JAEGERS_00.10.45.857-00.10.45.971 	bart wears a hard derby.
-0007_DIE_NACHT_DES_JAEGERS_00.27.36.643-00.27.37.991 	they are awfully spic-and-span; they even wear shoes.
-0007_DIE_NACHT_DES_JAEGERS_01.08.35.623-01.08.37.804 	she wears man's shoes, heavy with mud; a rough skirt; a shapeless sweater hangs over her shoulders; she is in her middle sixties and wears a man's old hat.
-0008_Fargo_00.33.33.072-00.33.35.680 	his arms are flung over a woman in her thirties, wearing a nightie, mouth also open, not snoring.
-0008_Fargo_00.34.54.914-00.34.57.242 	wider, we see marge now wearing a beige police uniform.
-0008_Fargo_00.34.59.457-00.35.00.562 	she wears a heavy belt holding a revolver, walkie-talkie and various other jangling police impedimenta.
-0008_Fargo_01.25.51.739-01.25.52.105 	grimsrud is bounding out wearing mittens and a red hunter's cap, but no overcoat.
-0009_Forrest_Gump_00.27.45.078-00.27.46.199 	she is only wearing her bra and panties.
-0009_Forrest_Gump_00.43.25.741-00.43.26.689 	a distant relative of lt. dan's, wearing a revolutionary war uniform, falls dead in the snow.
-0009_Forrest_Gump_00.43.27.847-00.43.28.753 	another relative, wearing a civil war uniform and bearing a striking resemblance to lt. dan, falls down dead.
-0009_Forrest_Gump_00.43.30.384-00.43.32.136 	another relative, wearing a world war ii, falls down dead on the beach at normandy.
-0009_Forrest_Gump_01.25.58.303-01.26.06.497 	forrest walks up to the house, wearing his uniform.
-0009_Forrest_Gump_01.51.35.618-01.51.39.009 	forrest holds a glass of milk and wears his bathrobe.
 0009_Forrest_Gump_02.05.12.265-02.05.14.787 	she wears a white dress.
 0010_Frau_Ohne_Gewissen_00.07.55.230-00.07.55.382 	she wears no stockings, no nothing.
 0010_Frau_Ohne_Gewissen_00.09.08.770-00.09.11.274 	mr. dietrichson, age about fifty-one, a big, blocky man with glasses and a rotarian look about him; lola dietrichson, age nineteen, wearing a filmy party dress and a yearning look in her pretty eyes.
-0010_Frau_Ohne_Gewissen_00.09.40.684-00.09.43.456 	she is wearing a pale blue summer dress.
 0010_Frau_Ohne_Gewissen_00.17.02.063-00.17.02.222 	she wears a gay print dress with a wide sash over her hips.
-0010_Frau_Ohne_Gewissen_00.17.04.071-00.17.04.740 	outside is neff, wearing a sport coat, flannel slacks.
 0010_Frau_Ohne_Gewissen_00.36.54.272-00.36.54.593 	she wears a coat but no hat.
-0010_Frau_Ohne_Gewissen_00.39.50.631-00.39.50.870 	she wears a simple house dress, no hat, and has a large envelope pocketbook under her arm.
-0010_Frau_Ohne_Gewissen_00.42.26.749-00.42.27.505 	he is wearing a light grey suit and has his hat on.
-0010_Frau_Ohne_Gewissen_00.59.11.760-00.59.13.836 	neff comes from the bedroom, wearing the light grey suit he wore before the murder, only with out a tie.
-0010_Frau_Ohne_Gewissen_01.00.48.827-01.00.49.681 	keyes is wearing his vest and hat, no coat.
 0010_Frau_Ohne_Gewissen_01.03.52.189-01.03.53.124 	she wears a gray tailored suit, small black hat with a veil, black gloves, and carries a black bag.
 0010_Frau_Ohne_Gewissen_01.13.54.736-01.13.55.367 	she's wearing a simple black suit and hat, indicating mourning.
-0010_Frau_Ohne_Gewissen_01.17.43.225-01.17.44.080 	neff is wearing a light summer suit, very much in contrast to lola's mourning.
-0010_Frau_Ohne_Gewissen_01.18.13.815-01.18.14.376 	he is wearing his stetson hat and smoking a cigar.
-0010_Frau_Ohne_Gewissen_01.29.38.946-01.29.39.284 	a stream of office employees is coming out of an elevator; a second elevator reaches the lobby and some more office employees come out, among them neff, wearing his hat and carrying his briefcase.
-0010_Frau_Ohne_Gewissen_01.34.07.908-01.34.09.463 	she wears white lounging pajamas, and she is carrying something small and heavy concealed in a scarf in her right hand.
-0011_Gandhi_00.36.26.130-00.36.26.417 	he too wears a prison uniform and there is a bandage on his head.
-0011_Gandhi_00.51.26.155-00.51.27.977 	the clothes they wear, which looked normal from the distance, are rags -- literally, shredded rages, one hung on another.
-0011_Gandhi_01.09.20.153-01.09.22.407 	he is wearing only a white loincloth, the shawl over his shoulders and sandals -- the costume he will wear for the rest of his life.
 0011_Gandhi_01.17.46.287-01.17.46.823 	the handsome europeanized nehru now wears an indian tunic -- much like the one that gandhi once wore.
-0011_Gandhi_01.41.30.104-01.41.32.424 	despite the indian tunic he now wears he cannot help but look and act like the incisive, patrician lawyer he is under the skin.
 0011_Gandhi_02.08.14.708-02.08.16.416 	walker too wears a knapsack.
 0011_Gandhi_02.26.50.467-02.26.51.780 	meaning he doesn't wear many clothes.
 0011_Gandhi_02.54.26.612-02.54.27.174 	they wear black trousers and black knit vests.
-0012_Get_Shorty_00.56.01.780-00.56.04.280 	harry looks up to see bo catlett, dressed up as usual, standing there with the bear, wearing a hawaiian shirt.
 0013_Halloween_00.03.16.647-00.03.17.237 	alan, 18, he wears a halloween mask and a costume.
-0013_Halloween_00.45.57.781-00.45.59.573 	she is wearing a nylon robe and carrying her clothes to be washed.
-0013_Halloween_01.05.31.060-01.05.31.268 	right behind the door stands the shape wearing the rubber mask.
-0013_Halloween_01.17.06.398-01.17.07.192 	it is the shape, wearing the mask, the butcher knife in his hand, gleaming.
-0014_Ist_das_Leben_nicht_schoen_00.19.15.117-00.19.16.503 	sam is assured and breezy, wearing very collegiate clothes.
-0014_Ist_das_Leben_nicht_schoen_00.29.38.943-00.29.44.597 	as the car drives off, mary, now wearing the robe, rises up from the bush and follows the car with her eyes.
 0016_O_Brother_Where_Art_Thou_00.09.14.574-00.09.16.424 	the grimy-faced boy, about eight years old, wears tattered overalls.
 0016_O_Brother_Where_Art_Thou_00.12.24.311-00.12.27.262 	everett wears a hairnet over his painstakingly arranged hair.
-0016_O_Brother_Where_Art_Thou_00.23.34.996-00.23.41.498 	everett strides up to a portly middle-aged man who wears dark glasses and holds a white cane.
 0016_O_Brother_Where_Art_Thou_00.53.27.453-00.53.28.574 	everett wears a puzzled smile.
-0016_O_Brother_Where_Art_Thou_01.21.17.447-01.21.18.716 	the blackface has been scrubbed off but all four now wear long gray beards as disguise, clumsily affixed with spirit gum.
-0017_Pianist_00.11.29.819-00.11.33.942 	father, wearing the star of david armband, walks slowly along, carrying a string bag containing potatoes and carrots, his eyes fixed on the pavement as if his thoughts are a million miles away.
 0017_Pianist_00.14.56.073-00.14.57.558 	all wear armbands.
-0017_Pianist_01.13.59.809-01.14.06.706 	szpilman, now wearing bogucki's suit and clean-shaven, watches the clothes burn while he spoons hot soup into his mouth.
 0017_Pianist_02.15.49.917-02.16.01.008 	szpilman, wearing the german captain's coat and under the eiderdown, hears the strange sound of the music, which he recognises.
-0019_Pulp_Fiction_00.07.05.343-00.07.09.206 	in the front seat are two young fellas one white, one black both wearing cheap black suits with thin black ties under long green dusters.
 0019_Pulp_Fiction_00.21.16.047-00.21.19.889 	butch sits at a table wearing a red and blue high school athletic jacket.
 0019_Pulp_Fiction_00.51.01.498-00.51.40.879 	she dances her way around the room and finds herself wearing vincent's overcoat
 0019_Pulp_Fiction_00.53.15.560-00.53.26.960 	wearing a big smile, mia brings the bag of heroin up to her face.
 0019_Pulp_Fiction_00.57.37.341-00.57.43.705 	she's wearing a long tee-shirt with a picture of fred flintstone on it.
-0020_Raising_Arizona_00.06.20.038-00.06.21.964 	a congregation is seated behind her - the bride's side wearing police blues; the groom's side, hawaiian shirts.
-0020_Raising_Arizona_00.06.32.433-00.06.35.394 	hi is working the drill press, wearing goggles and sweat- stained overalls.
-0020_Raising_Arizona_00.07.20.893-00.07.21.912 	both are wearing sunglasses, looking at the setting sun.
 0020_Raising_Arizona_00.08.09.570-00.08.10.771 	hi wears a sport coat over his hawaiian shirt.
 0020_Raising_Arizona_00.27.41.623-00.27.41.993 	the chains worn by the biker clank ominously as he rides.
-0020_Raising_Arizona_00.35.43.839-00.35.44.792 	glen is a short stocky blond man in his early thirties, wearing bermuda shorts.
-0020_Raising_Arizona_00.35.44.792-00.35.45.631 	dot is wearing slacks, heels, and a scarf over her hair.
-0020_Raising_Arizona_00.40.16.424-00.40.17.002 	glen is sopping wet, wearing only swimming suit and wing- tipped shoes.
 0020_Raising_Arizona_00.44.59.737-00.45.00.529 	hi bursts out the door, still wearing the stocking.
 0020_Raising_Arizona_01.29.38.077-01.29.38.505 	the old man wears a cardigan, the woman a shawl.
 0021_Rear_Window_00.04.25.545-00.04.26.551 	each wears a terrycloth robe.
 0021_Rear_Window_00.07.43.680-00.07.44.661 	she carries a copy of the herald tribune, and still wears her hearing aid.
-0021_Rear_Window_00.08.39.526-00.08.39.709 	it is worn, and looks as if it belongs more to a fighter than a nurse.
-0021_Rear_Window_00.14.36.307-00.14.36.700 	the boy, who like the girl is perhaps twenty years old, wears a dark blue serge suit and a grey felt hat.
-0021_Rear_Window_00.18.33.676-00.18.34.928 	framed in the doorway is middle-aged waiter wearing a white linen pea jacket with a red collar.
-0021_Rear_Window_00.23.51.282-00.23.54.001 	her every movement is followed admiringly by the eyes of the three men -- one wearing black tie, with a touch of grey in his hair, a long island socialite -- a young rather handsome, actor in grey flannel suit -- and last, a bright, pleasant, young man who might possibly be from wall street, wearing a blue-pin-striped suit.
-0021_Rear_Window_00.23.53.567-00.23.57.769 	miss torso is now wearing a cocktail dress, which shows off her figure to great advantage, especially when she leans toward three assorted men to offer them a plate of hors d' oeuvres.
-0021_Rear_Window_00.39.49.835-00.39.50.335 	the old lady is wearing a faded house-robe.
-0021_Rear_Window_00.43.35.357-00.43.36.857 	also wearing pajamas, with a fluffy handkerchief in the left pocket, the wife is leaning over the railing holding onto the rope which leads to the dog's basket now on the floor of the courtyard.
-0021_Rear_Window_00.43.36.857-00.43.37.357 	he is wearing striped pajamas.
-0021_Rear_Window_00.43.54.257-00.43.55.257 	she wears a short smock, although her legs are still bare.
-0021_Rear_Window_00.46.01.403-00.46.02.403 	her back is bare, and all she wears is a pair of brief dark blue shorts.
-0021_Rear_Window_00.52.05.830-00.52.06.830 	he is wearing only his pajama bottoms, because of the heat, and we see that he is a well-muscled, attractive young man.
-0021_Rear_Window_00.52.15.902-00.52.20.561 	two men wearing tan coveralls are standing outside thorwald's door.
-0021_Rear_Window_01.01.14.079-01.01.14.906 	she is wearing a kelly green suit, and is seated at her dressing table.
-0021_Rear_Window_01.07.41.810-01.07.46.079 	as she light increases, we see that she is wearing another extravagantly beautiful dress.
 0021_Rear_Window_01.33.08.013-01.33.09.143 	he wears a light summer coat and tie, despite the heat.
 0021_Rear_Window_01.51.10.211-01.51.11.337 	she wears a white leotard.
 0021_Rear_Window_01.51.58.401-01.52.01.560 	she wears levis and a plaid cotton shirt.
-0022_Reservoir_Dogs_01.03.53.501-01.04.01.700 	we see mr. orange, now known as freddy newendyke, wearing a high school letterman jacket, enter the coffee shop, spot holdaway, and head his way.
 0023_THE_BUTTERFLY_EFFECT_00.02.27.796-00.02.33.627 	andrea, wearing a mechanic's jumpsuit, works impatiently on the carburetor of a toyota celica.
 0023_THE_BUTTERFLY_EFFECT_00.57.20.272-00.57.21.376 	kayleigh, wearing a long skirt and tight red sweater, catches the eye of every guy on campus.
 0023_THE_BUTTERFLY_EFFECT_01.10.03.518-01.10.08.477 	evan, now wearing his standard issue inmate uniform, enters the general population area of the prison.
 0023_THE_BUTTERFLY_EFFECT_01.36.26.705-01.36.29.339 	evan now wears prosthetic arms.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.11.52.553-00.11.53.862 	wearing a dashing brocade waist coat, he looks every inch the eccentric gentleman.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.25.41.907-01.25.43.831 	he is wearing an oversized helmet and rohirrim clothing.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.26.19.528-02.26.22.482 	aragorn wearing a breast plate emblazoned with the.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.28.53.097-02.28.54.840 	they are no longer wearing the orc armour.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_03.03.06.580-03.03.09.508 	all are wearing their grey elven robes.
 0026_The_Big_Fish_00.27.37.784-00.27.39.421 	each wears a backpack with all his earthly possessions.
 0026_The_Big_Fish_00.50.18.254-00.50.20.007 	she's wearing a blue dress and hat.
 0027_The_Big_Lebowski_00.07.53.440-00.07.53.710 	he also wears a khaki army surplus shirt with the sleeves cut off over an old bowling shirt.
-0027_The_Big_Lebowski_00.09.48.091-00.09.51.140 	the dude, also holding a large plastic cup of bud, wears some of its foam on his mustache.
-0027_The_Big_Lebowski_00.10.12.253-00.10.13.307 	the dude, wearing shorts and a bowling shirt, turns to look.
-0027_The_Big_Lebowski_00.10.16.618-00.10.19.850 	he wears a suit and has his hands clasped in front of his groin.
 0027_The_Big_Lebowski_00.15.46.211-00.15.46.409 	he wears black leather pants and a black leather jacket, open, shirtless, exposing fine blond chest hair and pale skin.
 0027_The_Big_Lebowski_00.25.24.778-00.25.26.043 	he wears an all-in-one dacron-polyester stretch bowling outfit with a racing stripe down each side.
 0027_The_Big_Lebowski_00.29.30.836-00.29.31.238 	he wears a walkman headset.
-0027_The_Big_Lebowski_00.32.15.801-00.32.16.694 	though he is wearing khaki shorts and shirt, the fact that he holds a battered brown briefcase makes him look oddly like a commuter.
-0027_The_Big_Lebowski_00.59.57.937-00.59.58.241 	he has a large western-style mustache and wears denims, a yoked shirt and a cowboy hat.
-0027_The_Big_Lebowski_01.03.39.262-01.03.39.807 	they are wearing severe but modishly retro suits.
-0027_The_Big_Lebowski_01.15.13.995-01.15.24.068 	a crowd of mostly tanned middle-aged men with blow-dried hair, wearing jogging outfits and other expensively casual attire, are blanket-tossing the squealing young woman in nightmarish slow motion.
-0027_The_Big_Lebowski_01.15.41.367-01.15.42.706 	he is handsome, fiftyish, wearing cotton twill pants and a turnbull & asher shirt with a foulard knotted at the neck.
-0027_The_Big_Lebowski_01.21.50.147-01.21.54.958 	she wears an armored breastplate and norse headgear, has braided pigtails, and holds a trident.
-0027_The_Big_Lebowski_01.27.52.418-01.27.53.500 	she is wearing a bathrobe.
-0027_The_Big_Lebowski_01.32.46.750-01.32.47.618 	he is wearing a cheap blue serge suit.
-0027_The_Big_Lebowski_01.34.42.212-01.34.43.225 	four people sit at a booth: dieter, kieffer, franz, all in black leather, and a young woman with long stringy blonde hair, wearing torn and patched jeans and a ribbed sleeveless tee-shirt, worn thin with age.
-0028_The_Crying_Game_01.28.19.894-01.28.21.692 	she is wearing suspender-belts underneath her skirt.
-0029_The_Graduate_00.20.03.356-00.20.04.462 	she is now wearing the dress she wore earlier.
-0029_The_Graduate_00.39.53.633-00.39.54.579 	he is wearing his shirt, buttoned, and no trousers.
-0029_The_Graduate_01.09.24.625-01.09.25.417 	she is wearing a skirt and slip and carrying one shoe.
 0031_The_Lost_Weekend_00.04.40.477-00.04.41.474 	she's wearing a three-quarter- length leopard coat.
-0031_The_Lost_Weekend_00.04.41.474-00.04.42.295 	the indian summer day is a good ten degrees too warm for the coat, but that doesn't stop helen from wearing her beloved.
 0031_The_Lost_Weekend_00.26.12.470-00.26.17.142 	from the street enters gloria, wearing a shirtwaist and skirt, another foolish little hat, and high-heeled shoes with bows.
-0031_The_Lost_Weekend_00.29.57.188-00.30.08.327 	they are wearing raincoats, carrying umbrellas.
-0031_The_Lost_Weekend_00.29.57.562-00.29.59.013 	he is alone and wears a bowler and a straight raincoat.
-0031_The_Lost_Weekend_00.40.18.316-00.40.21.320 	mr. st. james is wearing a linen suit and a good but yellowing panama hat, the brim turned up.
 0031_The_Lost_Weekend_00.42.31.306-00.42.32.006 	he wears a hat and carries a brief-case.
-0031_The_Lost_Weekend_01.10.06.285-01.10.07.969 	she is wearing a dressing gown and bedroom slippers.
-0031_The_Lost_Weekend_01.14.22.914-01.14.24.012 	he is wearing flannel pajamas like all the rest of the patients.
 0031_The_Lost_Weekend_01.14.34.995-01.14.35.877 	they wear terry-cloth bathrobes over their pajamas, canvas slippers on their feet.
-0031_The_Lost_Weekend_01.30.19.107-01.30.23.525 	he wears the dark suit (the one he wore to the opera) and as his eyes shift from helen to the coat, he is just tying his tie.
-0031_The_Lost_Weekend_01.30.37.516-01.30.38.852 	she is wearing wick's foulard dressing gown.
-0031_The_Lost_Weekend_01.30.42.089-01.30.42.588 	she is barefooted, just wearing the foulard dressing gown.
 0033_Amadeus_00.00.55.574-00.00.58.583 	they wear shawls over their night-dresses and clogs on their feet.
 0033_Amadeus_00.04.45.265-00.04.45.976 	all patients wear white linen smocks.
 0033_Amadeus_00.04.52.443-00.04.53.374 	doctor gulden wears a dark frock-coat; vogler, a cassock.
-0033_Amadeus_00.15.27.179-00.15.28.749 	and wearing their employer's livery - are laying out music on stands at one end of the room.
-0033_Amadeus_00.17.16.400-00.17.16.601 	he is age twenty-six, wearing a fine wig and a brilliant coat with the insignia of the archbishop of salzburg upon it.
-0033_Amadeus_00.24.35.810-00.24.36.615 	he is an intelligent, dapper man of forty, wearing a military uniform.
 0033_Amadeus_00.24.50.060-00.24.51.214 	and salieri, wearing decorous black, as usual.
 0033_Amadeus_01.25.28.920-01.25.29.808 	a repetition of the shot of mozart at the forte-piano, wearing constanze's wig and emitting a shrill giggle.
-0033_Amadeus_02.20.57.019-02.20.58.702 	mozart now looks very ill; his wife appears worn out.
-0033_Amadeus_02.34.51.441-02.34.52.711 	he still wears his bird make-up and under his street cloak, his feathered costume is clearly seen.
-0041_The_Sixth_Sense_00.23.52.110-00.23.54.098 	cole is wearing a large silver watch.
 0041_The_Sixth_Sense_01.18.30.245-01.18.32.426 	they're both wearing suits.
 0046_Chasing_Amy_00.33.42.356-00.33.44.687 	banky leans back into the couch, wearing a thoughtful face.
 0049_Hannah_and_her_sisters_00.12.58.924-00.13.00.400 	he's wearing sunglasses and headphones.
 0049_Hannah_and_her_sisters_00.13.21.064-00.13.23.334 	mickey wears his coat.
-0049_Hannah_and_her_sisters_00.16.58.612-00.17.01.988 	gail, wearing her glasses, stands behind a crowded but well- ordered desk.
-0049_Hannah_and_her_sisters_00.18.41.205-00.18.43.983 	she holds an almost empty tray of hors d'oeuvres; she wears a uniform.
 0049_Hannah_and_her_sisters_00.18.58.204-00.19.00.853 	she wears the same uniform as holly: black skirt, white shirt, and black bowtie.
-0049_Hannah_and_her_sisters_00.24.06.131-00.24.07.601 	the movie briefly holds on a ripped, red, paint-splattered door as elliot, wearing a raincoat, appears nearby.
 0049_Hannah_and_her_sisters_00.28.31.588-00.28.44.510 	elliot enters, wearing a robe, crossing the room in the dark.
-0049_Hannah_and_her_sisters_00.29.11.515-00.29.17.984 	he is wearing a set of headphones.
-0049_Hannah_and_her_sisters_00.29.30.563-00.29.33.580 	the film then cuts to a bser test room, where mickey, sitting in a corner chair, wears another set of headphones.
-0049_Hannah_and_her_sisters_00.36.52.899-00.36.54.982 	lee, wearing a baggy plaid shirt and jeans, has opened the door for elliot and his client, wealthy rock star dusty frye.
-0049_Hannah_and_her_sisters_00.36.58.544-00.37.00.254 	lee chuckles as she looks at him; he is wearing sunglasses, a red-imprinted t-shirt, and a baggy coat.
 0049_Hannah_and_her_sisters_00.43.51.041-00.43.57.225 	she wears a robe over a slip and stockings; she's drinking.
-0049_Hannah_and_her_sisters_00.57.28.194-00.57.31.307 	hannah, wearing a plaid shirt, sits up in bed, a book propped up on her knees.
-0049_Hannah_and_her_sisters_01.20.12.225-01.20.14.496 	a man wearing a summer suit walks by as the film moves inside the building, to elliot's analyst's office.
-0049_Hannah_and_her_sisters_01.20.23.862-01.20.27.129 	he holds a long, thin cigarette; he wears a gold rolex watch.
-0049_Hannah_and_her_sisters_01.20.29.506-01.20.35.361 	lee, wearing jeans and carrying an armful of books, is running up a broad set of steps in the sunlight, greeting other students as she passes.
 0049_Hannah_and_her_sisters_01.21.13.912-01.21.16.783 	it's mickey, as the camera soon shows, wearing a short-sleeved shirt, a paper tucked under his arm.
 0050_Indiana_Jones_and_the_last_crusade_00.03.16.986-00.03.18.877 	and the fourth man wears a leather waist jacket and brown felt fedora hat.
 0050_Indiana_Jones_and_the_last_crusade_00.41.20.413-00.41.22.337 	indy, wearing a bathrobe, leans over to study the impression.
-0050_Indiana_Jones_and_the_last_crusade_00.43.00.752-00.43.03.224 	elsa is standing before a mirror, wearing a silk bathrobe.
-0050_Indiana_Jones_and_the_last_crusade_00.45.17.249-00.45.19.774 	he glances up to the beret elsa is wearing.
-0050_Indiana_Jones_and_the_last_crusade_00.45.29.292-00.45.30.760 	she now wears indy's fedora; indy is wearing elsa's beret.
-0050_Indiana_Jones_and_the_last_crusade_01.00.45.339-01.00.49.727 	where a nazi radioman wearing headphones sits at an elaborate panel of dials, switches and meters, and a woman stands over a map plotting coordinates.
 0050_Indiana_Jones_and_the_last_crusade_01.08.30.849-01.08.32.458 	indy wears the uniform of a nazi soldier.
-0050_Indiana_Jones_and_the_last_crusade_01.21.01.325-01.21.05.789 	indy wears a proud expression as he watches henry walk down the beach.
 0050_Indiana_Jones_and_the_last_crusade_01.24.21.517-01.24.22.954 	the turkish soldiers wear native dress and carry both carbines and sabers.
-0051_Men_in_black_00.07.56.593-00.07.57.407 	behind him, six more men in black, all wearing black suits and sunglasses, come over the hill.
-1001_Flight_00.06.41.839-00.06.44.373 	she wears a dress and has a small tattoo on her shoulder.
-1001_Flight_00.27.27.683-00.27.32.991 	the man wears a suit with the collar open, and is staring intently at his cell phone.
-1001_Flight_00.28.40.756-00.28.46.355 	a man walks in wearing an ntsb jacket, followed by a few law officers, a nurse and a doctor.
 1001_Flight_00.34.49.614-00.34.52.160 	wearing bermuda shorts and dark glasses, with earphone wires hanging on each side of his head.
 1001_Flight_00.52.11.242-00.52.20.849 	he enters a dining area with a buffet to one side and approached charlie seated with a man wearing glasses.
 1001_Flight_01.27.03.493-01.27.06.143 	still wearing his tie, his shirt's sleeves rolled up.
@@ -208,172 +80,92 @@
 1002_Harry_Potter_and_the_Half-Blood_Prince_00.00.44.478-00.00.46.998 	dumbledore wears two rings on his left hand.
 1002_Harry_Potter_and_the_Half-Blood_Prince_00.02.15.249-00.02.16.089 	two wear metal masks.
 1002_Harry_Potter_and_the_Half-Blood_Prince_00.27.06.318-00.27.07.601 	it's luna, wearing the blue and white spectrespecs, advertised on the quibbler.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.45.25.096-00.45.26.671 	ron stands stiffly wearing a protective leather helmet.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.09.28.484-01.09.32.424 	wearing a waiter's jacket, neville walks away.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.17.31.872-01.17.33.682 	wearing a pink dressing gown, ginny finds harry sitting on the stairs.
-1003_How_to_Lose_Friends_and_Alienate_People_00.23.57.120-00.24.01.314 	she strides out in a huff to alison, who is wearing sharp suit.
-1003_How_to_Lose_Friends_and_Alienate_People_00.24.59.084-00.25.02.783 	alison lowers her eyes as a golden haired woman in her mid- 40s wearing expensive sunglasses steps into the lift and turns her back on them.
-1003_How_to_Lose_Friends_and_Alienate_People_01.11.44.904-01.11.46.142 	wearing sydney's jacket, alison puts a song on in his bedroom.
-1003_How_to_Lose_Friends_and_Alienate_People_01.16.30.856-01.16.34.742 	alison comes in wearing his oversized pajamas.
-1003_How_to_Lose_Friends_and_Alienate_People_01.19.09.544-01.19.10.857 	wearing a wry smile, sydney starts to dance.
-1003_How_to_Lose_Friends_and_Alienate_People_01.22.12.361-01.22.15.307 	he heads over to alison, who wears a black wig and holds a cigarette in a long.
 1003_How_to_Lose_Friends_and_Alienate_People_01.27.25.949-01.27.30.975 	wearing a white robe, sydney sits in a steam room.
-1003_How_to_Lose_Friends_and_Alienate_People_01.28.31.031-01.28.32.526 	wearing a stripey robe, sydney opens his door.
 1003_How_to_Lose_Friends_and_Alienate_People_01.32.37.858-01.32.40.476 	a billboard sports an image of a pouting sophie wearing a nun's habit.
-1003_How_to_Lose_Friends_and_Alienate_People_01.37.19.723-01.37.23.725 	he looks up from his seat to see that sophie's wearing his mother's ring.
 1004_Juno_00.01.01.451-00.01.09.023 	wearing just a t-shirt, the girl gives a tentative smile as she straddles the boy's lap and brings her rosebud lipped mouth close to his faith.
-1004_Juno_00.22.45.280-00.22.46.907 	scrunched in his fingers, he's holding the knickers she wore and discarded on the day they had sex.
 1004_Juno_00.27.45.780-00.27.54.319 	as the woman carefully adjust the buttons on her pristine white cuffs, mac and juno wearing everyday casual clothes stroll up to the double-fronted door flanked by two slim furs.
-1004_Juno_00.42.20.438-00.42.22.955 	as she runs up to the lorings' front door, she smoothes down the hem of the skirt she wears over her jeans.
-1004_Juno_01.00.11.053-01.00.13.472 	juno, wearing the adapted jeans, comes down the school.
-1004_Juno_01.28.38.843-01.28.46.653 	juno, wearing her birthing gown and her striped woolen socks and bleeker in his sports kit and trainers held up like to spoons on the bed.
 1005_Signs_00.02.20.071-00.02.22.027 	the dad wears a clerical collar.
-1005_Signs_00.02.33.383-00.02.35.781 	the man, graham hess, comes out of his bedroom wearing a black t-shirt and pajama bottoms.
 1005_Signs_00.10.21.016-00.10.23.765 	she wears blue sneakers and jeans under her pale flowery dress.
-1005_Signs_00.27.53.450-00.27.56.351 	he has stubble on his chin and wears a t-shirt and sleeveless biker jacket.
 1005_Signs_00.46.12.910-00.46.16.245 	now, a fresh-faced graham, dressed in black, and wearing a white dog collar, drives slowly down a country road at night.
 1005_Signs_00.48.51.252-00.48.55.907 	later, graham, wearing a blue dressing gown, pads out of the bathroom, drying his ear with a towel.
-1005_Signs_00.49.17.557-00.49.18.066 	morgan and bo are sitting on a bed, wearing pointy cone shaped hats made of silver foil.
-1005_Signs_01.02.05.830-01.02.12.497 	he stops dead and stares, seeing bo, morgan, and now merrill on the sofa wearing silver foil cone hats.
 1006_Slumdog_Millionaire_00.28.11.723-00.28.15.224 	latika wears an eye patch and begs at a stationary car window.
 1006_Slumdog_Millionaire_00.28.20.584-00.28.25.554 	latika wearing rubber gloves picks up a fist full of chillies.
-1006_Slumdog_Millionaire_01.07.25.777-01.07.27.858 	they all sit at computers, wearing headsets.
-1006_Slumdog_Millionaire_01.12.48.162-01.12.54.107 	jamal sees a guy dressed in an expensive shirt, wearing jewelry and dark glasses.
 1006_Slumdog_Millionaire_01.50.33.269-01.50.40.646 	she wears a yellow headscarf.
-1007_Spider-Man1_00.04.14.538-00.04.16.540 	a girl, with her hair in bunches and wearing big spectacles, puts her books in the empty seat beside her.
-1007_Spider-Man1_00.19.48.386-00.19.53.645 	he sets off down the street after the pretty young red head who is wearing calfland's boots, short skirt and a zipped cardigan.
-1007_Spider-Man1_00.39.48.464-00.39.57.523 	peter wear the spider and web brazened on his sweatshirt looks up as the cage is slowly lowered around the ring trapping him in.
-1007_Spider-Man1_01.04.57.353-01.05.01.059 	he sees harry up there with mj who's wearing a high-colored chinese dress.
 1008_Spider-Man2_00.43.38.755-00.43.41.668 	he wears an angry expression.
 1008_Spider-Man2_00.50.25.595-00.50.27.663 	then whirls around wearing a menacing.
-1008_Spider-Man2_00.52.17.983-00.52.23.171 	on the other side of the banking hall octavious wearing a long coat and a triveil is standing in front of the steel vault door.
 1008_Spider-Man2_01.04.29.763-01.04.32.266 	octavius raises the dark glasses he's wearing from his eyes.
-1008_Spider-Man2_02.06.29.454-02.06.36.905 	in a dressing room, mrs. watson, in a mauve satin outfit with a wide-brimmed hat, is attending a stony-faced mj, who's wearing a white off-the-shoulder dress with short layered sleeves.
 1009_Spider-Man3_00.05.12.632-00.05.20.549 	mary jane descends a staircase wearing a glamorous, long, white dress.
 1009_Spider-Man3_00.08.24.520-00.08.28.695 	harry, wearing just a pair of shorts, steps out of the chamber.
-1009_Spider-Man3_00.12.03.036-00.12.09.937 	he turns sharply as the light comes on and looks at a blond woman in her 40s with her arms folded, wearing a disenchanted expression.
 1009_Spider-Man3_00.16.54.871-00.16.59.884 	after dark, peter, wearing a dopey smile, rides along a city street.
-1009_Spider-Man3_01.22.20.495-01.22.27.097 	peter, wearing a blue jumper over a blue shirt and jeans and clutching a small posy of flowers, stops in his tracks as he spots mary jane standing alone in the middle of a graceful cast iron bridge.
 1009_Spider-Man3_01.27.53.702-01.27.58.559 	peter, wearing the black suit under his normal clothes, punches harry.
-1009_Spider-Man3_01.34.46.694-01.35.00.998 	he swaggers into a clothes shop and comes out wearing a sharp black suit and black open neck shirt.
 1009_Spider-Man3_02.12.00.361-02.12.12.089 	sometime later, mary jane wearing a red dress sings on the stage at the crowded jazz club.
 1010_TITANIC_00.00.29.664-00.00.36.267 	in sepia tone film footage, people wearing early 20th century clothing stand on a dock and wave toward a massive ocean liner, the rms titanic.
 1010_TITANIC_00.10.27.176-00.10.31.622 	reclining on a settee, the naked woman wears a large pendant around her neck.
-1010_TITANIC_00.10.39.411-00.10.41.453 	the same necklace the woman in the drawing is wearing.
-1010_TITANIC_00.19.47.003-00.19.48.271 	in a flashback, two men wearing tuxedos smile and nod as they open a pair of doors with leaded glass windows.
-1010_TITANIC_00.21.47.838-00.21.52.637 	a chauffeur wearing a tweed uniform and black leather gloves steps out of the driver's seat and opens the car's back door.
 1010_TITANIC_00.21.56.487-00.22.00.992 	the brown haired woman, who wears a white dress with thin black stripes and a large brimmed hat, gazes up at the enormous ship.
 1010_TITANIC_00.22.07.883-00.22.10.299 	a black haired man wearing a bowler hat and grey suit steps out behind her.
-1010_TITANIC_00.36.49.636-00.36.56.654 	wearing a ruby-colored evening gown, rose shoves past other passengers as she runs down a deck.
 1010_TITANIC_00.56.54.854-00.56.58.521 	wearing a white tie and shirt, jack smiles at the steward as he steps inside.
-1010_TITANIC_00.57.34.104-00.57.37.771 	couples wearing forming evening wear stroll or stand about chatting.
-1010_TITANIC_00.58.17.894-00.58.21.838 	he turns and looks up at rose who wears a floor length black lace dress.
 1010_TITANIC_01.14.54.991-01.14.56.604 	one steward wearing a dark suit steps in front of jack.
 1010_TITANIC_01.16.11.992-01.16.17.938 	outside, jack climbs a railing, then hops onto a deck where a boy wearing a cap winds a string around a top.
-1010_TITANIC_01.17.15.682-01.17.18.349 	wearing the hat and coat, jack grabs rose's arm.
-1010_TITANIC_01.30.40.478-01.30.44.405 	wearing an evening dress, rose joins him.
 1010_TITANIC_02.31.38.066-02.31.45.986 	elsewhere, a degas painting of a woman wearing a long tutu floats beneath water.
-1010_TITANIC_02.33.03.711-02.33.08.183 	guggenheim, wearing a top hat and formal wear.sits in a chair, watching with wide eyes.
 1010_TITANIC_02.35.17.825-02.35.22.397 	wearing a life vest, fabrizio swims past one of the broken window suction slams against the side of the ship, but he braces himself against the windowed frame.
 1010_TITANIC_03.03.20.618-03.03.34.017 	later that night, wearing only a nightgown, across the desolate deck, her loose white hair blows in the wind
-1010_TITANIC_03.05.14.091-03.05.18.469 	in a third, rose wears a long scarf around her neck as she poses beside a biplane.
-1010_TITANIC_03.06.36.979-03.06.37.624 	at the top of the stairs, jack, wearing his trousers held up by suspenders, stands and stares at the wall clock.
-1010_TITANIC_03.06.46.893-03.06.51.320 	wearing a sparkling white gown and choker, young rose beams as she takes jack's hand.
 1011_The_Help_00.22.31.144-00.22.32.876 	carlton, wearing a stiff smile, glances from one parent to the other.
-1011_The_Help_00.41.18.503-00.41.24.650 	skeeter sits down on the sofa and unties the headscarf she's wearing.
 1011_The_Help_01.31.53.404-01.32.00.434 	celia, wearing a low-cut fitted plum top over a tight pink skirt, sachets up the garden path carrying a pie.
 1011_The_Help_01.36.11.564-01.36.12.833 	they're both wearing black.
 1012_Unbreakable_00.03.47.147-00.03.48.645 	he's wearing a dark gray suit.
 1012_Unbreakable_00.04.21.452-00.04.26.118 	a slim women in her late 20s, wearing a blue top, stretches up to place her coat on the overhead rack.
 1012_Unbreakable_00.37.30.369-00.37.36.035 	david brushes past a tall, slim man wearing a pale, sandy green and gray camouflage jacket.
-1012_Unbreakable_00.37.41.474-00.37.46.802 	when they move on again, elijah, who's wearing a long black leather coat and his usual black gloves, and walking with the help of his stick, glances back too.
-1012_Unbreakable_00.44.46.890-00.44.54.788 	in the dim light of a basement, david wearing a light grey sweatshirt is laying flat on a narrow bench, pushing up a weight's bar.
-1012_Unbreakable_01.05.06.861-01.05.08.291 	he has thick, curly hair, wears black jeans and a black motorhead t-shirt.
-1012_Unbreakable_01.19.05.966-01.19.07.051 	he sees, watching from above, the same woman wearing a different shiny jacket in a jewellery shop.
 1012_Unbreakable_01.19.36.038-01.19.42.428 	a man in a check shirt worn outside his trousers brushes into david's extended hand.
 1012_Unbreakable_01.20.32.850-01.20.36.517 	a group of college students files past him, all wearing maroon baseball caps.
-1012_Unbreakable_01.20.36.850-01.20.43.517 	he looks beyond them and sees the young man wearing a green jacket embrace his mother and turn to smile at his father.
-1012_Unbreakable_01.22.12.985-01.22.16.192 	the door opens and the maintenance man reappears, wearing a cap and with a bag slung across his body.
 1012_Unbreakable_01.33.47.152-01.33.50.819 	she's wearing a white t-shirt and green and white striped pajama bottoms.
 1012_Unbreakable_01.36.04.739-01.36.12.405 	david wanders in wearing a casual brown jacket and open-neck shirt, glances around him, and stops in front of a picture.
 1012_Unbreakable_01.38.05.118-01.38.06.801 	he's wearing a tight black leather zip-up jacket with short glittering blue lapels.
 1014_2012_00.10.06.876-00.10.10.135 	the prince wears a pair of sunglasses, the techs reflected in them.
 1014_2012_00.25.41.877-00.25.44.755 	he talks a great expression worn by satnam and west.
 1014_2012_01.39.52.371-01.39.53.038 	lily wears her winter hat.
-1015_27_Dresses_00.03.14.045-00.03.18.950 	pausing for breath on a street corner, another young woman walks up wearing the same purple dress.
-1015_27_Dresses_00.04.52.017-00.04.56.749 	she gets out of the cab wearing a red sari.
 1015_27_Dresses_00.54.48.370-00.54.51.037 	the bridesmaids wear tiny pink strapless mini-dresses.
-1015_27_Dresses_01.32.45.212-01.32.50.888 	george's eyes widen as she walks in wearing a stylish black dress.
-1015_27_Dresses_01.42.56.535-01.43.15.307 	twenty-seven former brides have lined up wearing the dresses from jane's closet.
-1017_Bad_Santa_00.00.05.159-00.00.09.689 	the light beams from a torch held aloft by a statuesque woman wearing grecian style robes.
-1017_Bad_Santa_00.01.39.164-00.01.43.764 	at the far end of the bar, a seedy, unshaven man in his late 40s, wearing a santa costume, sits alone, enjoying two glasses of an entirely different kind of spirit.
-1017_Bad_Santa_00.31.05.381-00.31.12.118 	grandma walks past willie, apparently unmoved by the fact that santa is wearing a black balaclava.
-1017_Bad_Santa_00.49.31.358-00.49.39.111 	still wearing his festive red cap, willie energetically humps sue, the barmaid up against the side of the hot tub putting in smokes and foam.
 1017_Bad_Santa_01.12.50.922-01.12.53.237 	a bare-chested willie sits astride her, wearing his jeans and a santa hat.
 1018_Body_Of_Lies_00.00.22.550-00.00.25.217 	a shaky animation of a figure wearing a long coat and a hat.
 1018_Body_Of_Lies_00.00.57.228-00.00.59.961 	al-saleem, a bearded man wearing a loose-fitting robe and a pale cream cap.
-1018_Body_Of_Lies_00.06.55.994-00.07.00.995 	ferris, wearing jeans, shirt, casual top, and a baseball cap, sits at an iraqi street cafe, sipping coffee.
 1018_Body_Of_Lies_00.19.24.066-00.19.36.753 	wearing traditional robes, a jacket and skull cap, ferris walks down the hill, towards the iraqi by the fire.
-1018_Body_Of_Lies_00.26.58.097-00.27.01.778 	ferris is in a dirty black bmw with a heavy-set guy wearing shades, skip.
 1018_Body_Of_Lies_00.41.54.581-00.41.59.760 	a young man wearing a black kufi wheels a bicycle with heavily laden panniers out onto a street.
 1018_Body_Of_Lies_00.55.16.053-00.55.21.811 	wearing shades, karami walks purposefully through the marketplace.
 1018_Body_Of_Lies_00.58.21.855-00.58.23.931 	ferris walks along the street with aisha, who wears a headscarf.
 1018_Body_Of_Lies_01.17.42.550-01.17.45.310 	he wears brown trousers and a white shirt.
-1018_Body_Of_Lies_01.29.36.179-01.29.40.573 	below the message is a photograph of someone wearing a balaclava.
 1018_Body_Of_Lies_01.53.01.886-01.53.04.455 	the executioner, a man wearing a black cloak and hat, yanks ferris's head up by his hair.
-1019_Confessions_Of_A_Shopaholic_00.04.21.842-00.04.28.832 	rebecca, her long, red hair loose around her shoulders and wearing a stylish tartan cape, comes down a fashionable shopping street.
-1019_Confessions_Of_A_Shopaholic_00.25.18.400-00.25.29.844 	rebecca, wearing pink, bends the article, turns to her pink laptop, and types something in google.
 1019_Confessions_Of_A_Shopaholic_00.39.06.247-00.39.09.780 	she wears a flirty fishing for something kind of expression.
 1019_Confessions_Of_A_Shopaholic_00.56.28.290-00.56.39.728 	rebecca, wearing her sample blue gloves, faces the group.
 1019_Confessions_Of_A_Shopaholic_01.34.16.469-01.34.18.372 	one of them wears blue, the other pale green.
-1019_Confessions_Of_A_Shopaholic_01.34.33.135-01.34.36.603 	rebecca, wearing a pink tulle veil, looks imploringly at suze.
 1020_Crazy_Stupid_Love_00.00.19.176-00.00.22.438 	the feet of a woman wearing high heels and a man in brogues under a table in a restaurant.
-1020_Crazy_Stupid_Love_00.00.44.834-00.00.48.768 	a man wearing running shoes and a woman wearing high heels sit, their feet far apart from each other.
 1020_Crazy_Stupid_Love_00.06.11.571-00.06.23.886 	he wears smart, polished brown leather shoes and a maroon suit.
-1020_Crazy_Stupid_Love_00.25.08.634-00.25.10.436 	cal wears a baggy striped polo shirt, blue jeans and running trainers.
-1020_Crazy_Stupid_Love_00.29.23.174-00.29.27.040 	cal is wearing a sharp blue suit.
-1020_Crazy_Stupid_Love_00.31.31.134-00.31.34.158 	she wears a low-cut black dress and makes a beeline for him.
 1020_Crazy_Stupid_Love_00.51.57.173-00.51.57.503 	he wears jeans and a white t-shirt with a deep v.
 1020_Crazy_Stupid_Love_00.52.58.698-00.53.02.925 	they both wear baseball gloves.
-1020_Crazy_Stupid_Love_01.12.21.705-01.12.29.689 	still wearing his trousers, he lies between her open legs.
 1020_Crazy_Stupid_Love_01.49.15.006-01.49.20.569 	he spots jessica, who's wearing a pretty, orange dress.
 1023_Horrible_Bosses_00.17.35.915-00.17.40.214 	she's wearing nothing but lacy knickers, stockings, and suspenders beneath an open lab coat.
 1023_Horrible_Bosses_00.28.30.493-00.28.34.088 	clean-shaven with short, dark brown hair, he wears jeans and a shirt with the sleeves rolled up.
 1023_Horrible_Bosses_00.30.24.953-00.30.25.660 	the sharp-suited man wears dark glasses.
 1023_Horrible_Bosses_00.39.33.891-00.39.42.915 	wearing a black hoodie and dark glasses, dale withdraws money from a cash point in a gas station mini-mart.
-1023_Horrible_Bosses_00.47.07.033-00.47.10.162 	nick, who wears a short sleeved t shirt, watches dale pick up the tray.
 1024_Identity_Thief_00.06.49.220-00.06.54.012 	a co-worker wearing a suit approaches.
 1024_Identity_Thief_00.45.16.671-00.45.18.972 	he wears a turquoise bolo.
 1024_Identity_Thief_01.24.12.677-01.24.16.378 	wearing a chic black dress, diana rounds the corner in slow motion, she steps forwad with her auburn hair straightened and makeup beautifully applied.
 1024_Identity_Thief_01.28.58.169-01.29.00.493 	wearing a nice suit and a sleek, black dress, julian and marisol enter as the doors close.
 1026_Legion_00.08.13.289-00.08.15.925 	jeep wears a hang dog expression.
-1026_Legion_00.10.37.859-00.10.41.525 	his chef is a tall, bald black guy, who wears a crucifix and couple of dog tags around his neck.
 1026_Legion_00.12.04.058-00.12.06.725 	he wears a brown beanie hat, a scarf around his neck, and a casual jacket.
 1026_Legion_00.23.05.429-00.23.07.988 	charlie, who wears a name badge, saunters over.
 1026_Legion_00.37.30.990-00.37.34.109 	he wears a light shirt and dark floppy bow tie, with matching light trousers.
 1026_Legion_00.52.33.221-00.52.36.177 	jeep stares frowning at michael, who wears a benign expression.
 1026_Legion_00.58.35.361-00.58.39.987 	bob leans on the covered corpse and wears a wretched expression.
 1027_Les_Miserables_00.26.18.492-00.26.20.648 	he's wearing a captain's hat.
-1027_Les_Miserables_01.53.56.316-01.53.58.490 	standing nearby, valjean wears a fraught serious expression.
 1027_Les_Miserables_02.07.05.958-02.07.15.049 	wearing a troubled frown, javert stares at the pistol for a moment, then drops it into the sewer.
 1028_No_Reservations_00.07.05.163-00.07.06.735 	kate wears a blue apron over her black top and jeans.
-1028_No_Reservations_00.29.09.063-00.29.13.067 	zoe, wearing a red woolen hat and multicolored scarf, gives a brief nod then looks away.
-1028_No_Reservations_00.47.05.993-00.47.06.993 	leah, wearing a thick winter coat, slings her bag over her shoulder as she leaves the staff changing room.
 1028_No_Reservations_01.12.37.751-01.12.39.669 	wearing pajamas, kate wanders down the hallway towards a dull, flickering light emanating from the lounge.
-1028_No_Reservations_01.17.55.000-01.18.00.825 	she rises and, wearing her dressing gown, answers the intercom.
 1028_No_Reservations_01.30.41.232-01.30.46.373 	wearing a white dressing gown and with damp hair, kate strides down the hallway.
 1029_Pride_And_Prejudice_Disk_One_00.01.54.764-00.02.00.654 	wearing a straw bonnet and simple day dress, lizzie sets off down a country lane.
-1029_Pride_And_Prejudice_Disk_One_00.12.40.840-00.12.42.708 	followed by miss bingley, who's wearing a grand ball gown and feather hat.
 1029_Pride_And_Prejudice_Disk_One_00.18.39.217-00.18.40.088 	bingley wears a dark tailcoat with pale satin breeches.
 1029_Pride_And_Prejudice_Disk_One_00.18.41.202-00.18.43.193 	she wears long white evening gloves.
 1029_Pride_And_Prejudice_Disk_One_00.42.14.000-00.42.15.319 	she's wearing a white silk gown.
-1029_Pride_And_Prejudice_Disk_One_02.35.45.452-02.35.51.014 	later, she's out taking a walk in the park, wearing an apricot day dress with matching overdress and bonnet.
 1030_Public_Enemies_00.00.47.351-00.00.52.792 	wearing 50 black and white stripped uniforms, prisoners march in lockstep single file across the dirt.
-1030_Public_Enemies_00.01.20.490-00.01.24.006 	the driver's door opens and a tall man with bony features steps out wearing a badge.
-1030_Public_Enemies_00.01.29.313-00.01.33.600 	both wearing long overcoats, they walk across the street toward the prison.
 1030_Public_Enemies_00.07.59.931-00.08.03.807 	without his overcoat, he wears a black vest and a leather gun holster.
-1030_Public_Enemies_00.08.44.238-00.08.50.503 	a clean-cut man wearing suspenders swiftly moves after him, toting a rifle.
-1030_Public_Enemies_00.49.41.435-00.49.45.405 	as another lawman handcuffs him, billie runs out wearing a towel.
 1030_Public_Enemies_00.50.21.796-00.50.23.766 	wearing cowboy hats, the officers head out.
 1030_Public_Enemies_00.50.45.292-00.50.50.961 	wearing a crisp suit, purvis faces dillinger's cell.
 1030_Public_Enemies_00.54.35.714-00.54.41.381 	wearing a button-down shirt and open vest, dillinger stumbles forward, jostled by his retinue of armed men.
@@ -385,147 +177,85 @@
 1030_Public_Enemies_02.04.58.994-02.05.01.660 	his younger friend wears a carefree grin.
 1030_Public_Enemies_02.08.48.406-02.08.51.211 	clad in a simple gray dress, she wears a dull expression.
 1031_Quantum_of_Solace_00.17.51.052-00.17.52.835 	he's wearing shades in the back of a taxi, driving down a dusty street.
-1031_Quantum_of_Solace_00.39.07.372-00.39.09.714 	he and the german are wearing tuxedos.
 1031_Quantum_of_Solace_00.40.06.307-00.40.12.286 	bond joins the theatergoers wearing a tuxedo.
-1031_Quantum_of_Solace_01.01.54.467-01.02.03.502 	bond hands over his license to the cop who is wearing dark glasses at night.
 1033_Sherlock_Holmes_A_Game_of_Shadows_00.13.00.847-00.13.05.276 	holmes wears a two-colored garment and a brown hood, which melds perfectly with the furniture.
-1033_Sherlock_Holmes_A_Game_of_Shadows_01.25.32.456-01.25.37.110 	as the dust settles, watson sits up on the platform wearing the ear defenders.
 1033_Sherlock_Holmes_A_Game_of_Shadows_01.39.34.719-01.39.35.986 	they're all wearing white tie and tails.
-1033_Sherlock_Holmes_A_Game_of_Shadows_01.39.35.986-01.39.38.775 	samantha is wearing a deep red dress.
 1033_Sherlock_Holmes_A_Game_of_Shadows_01.43.20.420-01.43.22.197 	moriarty chats with a delegate, wearing an orange saf.
 1033_Sherlock_Holmes_A_Game_of_Shadows_02.00.05.198-02.00.05.852 	it's holmes wearing one of his camouflage outfits.
 1035_The_Adjustment_Bureau_00.02.40.450-00.02.41.908 	he wears a newsboy cap, v-neck, and tie.
-1035_The_Adjustment_Bureau_01.10.27.943-01.10.33.155 	now still in costume, elise wears a protective lead apron around her waist as she lies on an x-ray table.
 1035_The_Adjustment_Bureau_01.15.51.599-01.15.57.295 	seated outside a waterfront warehouse, he wears a sober frown.
 1037_The_Curious_Case_Of_Benjamin_Button_00.00.42.198-00.00.45.325 	she wears a tight turban.
 1037_The_Curious_Case_Of_Benjamin_Button_00.03.20.819-00.03.22.006 	he wears dark glasses.
 1037_The_Curious_Case_Of_Benjamin_Button_00.13.26.700-00.13.37.153 	queenie closes her door on the old lady, who's wearing a pearl necklace, then peels the blanket from over the baby's face.
 1037_The_Curious_Case_Of_Benjamin_Button_00.17.08.158-00.17.10.825 	she wears a white nightdress.
-1037_The_Curious_Case_Of_Benjamin_Button_00.18.36.263-00.18.42.157 	he wears round glasses and has wispy, white hair around the sides of his shiny, bald head.
 1037_The_Curious_Case_Of_Benjamin_Button_00.23.02.300-00.23.11.835 	queenie, who wears a pale orange dress, places her purse beside benjamin and whispers something to the bespectacled preacher.
 1037_The_Curious_Case_Of_Benjamin_Button_00.28.25.227-00.28.31.570 	wearing a large, ill-fitting fedora, benjamin struggles to keep up with him on crutches.
-1037_The_Curious_Case_Of_Benjamin_Button_00.36.37.229-00.36.40.299 	wearing a nightgown, she starts up the stairs, using her cane.
 1037_The_Curious_Case_Of_Benjamin_Button_00.44.33.425-00.44.37.143 	benjamin wears a searching expression.
 1037_The_Curious_Case_Of_Benjamin_Button_00.53.41.527-00.53.43.664 	benjamin, who wears a woolen hat, glances back at daisy.
-1037_The_Curious_Case_Of_Benjamin_Button_01.08.12.738-01.08.15.846 	at night in the hotel, benjamin comes downstairs into the lobby and finds elizabeth wearing an evening dress.
-1037_The_Curious_Case_Of_Benjamin_Button_01.11.19.354-01.11.26.418 	wearing a suit, benjamin takes the lift down to the hotel lobby.
 1037_The_Curious_Case_Of_Benjamin_Button_01.12.52.651-01.12.56.963 	elizabeth wears a fur coat and a hat with a broad brim, which casts her face in shadow.
 1037_The_Curious_Case_Of_Benjamin_Button_01.14.43.502-01.14.48.430 	as the night wears on, benjamin drifts off to sleep.
-1037_The_Curious_Case_Of_Benjamin_Button_01.45.07.366-01.45.14.556 	benjamin, no longer wearing spectacles, takes a seat and stares fixedly at them as the dancer turns gracefully with daisy reclining in his arms.
 1037_The_Curious_Case_Of_Benjamin_Button_01.51.49.172-01.51.55.890 	benjamin wears a brown leather jacket in dark glasses as he cruises along a tree-lined road on a cherry red motorcycle.
 1037_The_Curious_Case_Of_Benjamin_Button_01.51.59.742-01.52.06.865 	wearing white overalls and a cap, benjamin nods soberly and descends a stepladder.
 1037_The_Curious_Case_Of_Benjamin_Button_01.58.47.444-01.58.50.765 	caroline wears a harrowed expression.
-1037_The_Curious_Case_Of_Benjamin_Button_02.00.02.971-02.00.07.634 	fresh-faced with short cropped hair and wearing a bright white t-shirt, benjamin stares wistfully then goes to his window.
-1037_The_Curious_Case_Of_Benjamin_Button_02.02.42.421-02.02.47.912 	benjamin pulls his sweater off and climbs onto the bed as daisy reclines, wearing a sultry black slip.
 1037_The_Curious_Case_Of_Benjamin_Button_02.06.57.687-02.07.00.299 	queenie's daughter wears a black veil.
 1037_The_Curious_Case_Of_Benjamin_Button_02.09.33.947-02.09.36.477 	wearing a white shirt, benjamin appears at the pool side and observes.
 1037_The_Curious_Case_Of_Benjamin_Button_02.10.28.106-02.10.32.101 	wearing a headscarf, daisy rides as benjamin half down the winding road on his motorcycle.
-1037_The_Curious_Case_Of_Benjamin_Button_02.10.42.126-02.10.45.321 	wearing a patchwork blanket around his shoulders and carrying two mugs, benjamin walks up from behind the parked motorbike.
 1037_The_Curious_Case_Of_Benjamin_Button_02.13.18.577-02.13.20.708 	daisy wears a searching expression.
 1037_The_Curious_Case_Of_Benjamin_Button_02.15.07.997-02.15.13.310 	wearing an autumnal-colored poncho, daisy heads off to the toilet.
 1037_The_Curious_Case_Of_Benjamin_Button_02.30.20.596-02.30.24.369 	wearing only a bra and knickers, daisy stands with her back to benjamin, who's propped up in bed.
 1038_The_Great_Gatsby_00.17.47.188-00.17.48.543 	there's a sexy, young woman wearing lots of dark eye shadow and a green dress leaning on the door frame
 1038_The_Great_Gatsby_00.25.42.772-00.25.44.496 	he wears beige boots, white trousers and shirt, a dark-blue blazer and a bowtie.
-1038_The_Great_Gatsby_00.51.05.989-00.51.11.481 	wearing a white suit, gatsby walks up with a line of staff all holding up umbrellas.
 1038_The_Great_Gatsby_00.53.16.232-00.53.17.925 	she wears blue and gold shoes, a flouncy purple and pale blue dress with frills, and a hat to match.
 1038_The_Great_Gatsby_01.28.09.860-01.28.11.017 	gatsby wears a pale-pink suit.
 1038_The_Great_Gatsby_02.01.10.111-02.01.13.311 	wearing a swimming costume, gatsby dives into the round, azure pool.
-1039_The_Queen_00.00.44.498-00.00.48.235 	as she sits for a portrait wearing formal robes of state, the queen's attention is drawn by television news coverage of tony blair.
-1039_The_Queen_00.02.17.425-00.02.21.553 	she is wearing a white embroidered dress and black velvet cloak ornamented with the star and shield of st. george's cross.
 1039_The_Queen_00.23.22.503-00.23.24.952 	prince phillip enters the study wearing a kilt.
-1039_The_Queen_01.00.53.693-01.00.56.965 	then, removes the head scarf that she is wearing.
 1039_The_Queen_01.06.41.145-01.06.43.583 	and wears a worried expression on her face.
-1040_The_Ugly_Truth_00.00.02.000-00.00.08.667 	a bright white light is held aloft by a statuesque woman wearing a long, white robe with a blue sash draped around her.
-1040_The_Ugly_Truth_00.39.15.223-00.39.16.008 	she wears black stilettos and a figure-hugging, low-cut black dress that stops at her knees.
 1040_The_Ugly_Truth_00.46.03.479-00.46.07.570 	on the show, he's wearing a gorilla suit.
-1040_The_Ugly_Truth_00.59.46.542-00.59.49.360 	mike's checking out an attractive woman wearing a crop top, who's standing at the bar, drinking a shot.
-1040_The_Ugly_Truth_01.18.57.985-01.19.02.581 	colin's sitting on the edge of the bed, wearing a fresh, unbuttoned shirt.
 1041_This_is_40_00.06.02.424-00.06.07.712 	wearing biking gear, he kisses her goodbye then sneaks over to the kitchen sink.
-1041_This_is_40_00.37.40.598-00.37.43.058 	she points to a balding man wearing a jacket and tie sitting alone.
 1041_This_is_40_00.46.12.425-00.46.15.782 	now, they wear robes.
 1041_This_is_40_01.11.44.171-01.11.46.100 	at the bar, pete wears a furrowed brow.
-1041_This_is_40_01.33.30.831-01.33.35.497 	now, they exit the school and walk side by side, both wearing mischievous grins.
 1041_This_is_40_01.56.38.447-01.56.44.113 	he races down a suburban street wearing his helmet and yellow-tinted sunglasses.
 1042_Up_In_The_Air_00.03.03.389-00.03.15.021 	a thick-set man wearing a suit.
 1042_Up_In_The_Air_00.27.24.155-00.27.30.382 	wearing a sharp charcoal gray suit, ryan walks trough the airport, dragging the case.
-1042_Up_In_The_Air_00.38.19.144-00.38.26.580 	wearing a white dressing gown, he sits on the bed in his hotel room.
 1042_Up_In_The_Air_01.02.36.959-01.02.39.384 	in his hotel room wearing a white towel and robe, ryan dries the cut-out with a hair dryer.
 1042_Up_In_The_Air_01.20.16.800-01.20.17.360 	the bridesmaids wear cerise.
 1042_Up_In_The_Air_01.21.14.124-01.21.16.513 	wearing suit trousers, white shirt and a maroon waistcoat, jim sits reading a children's book.
-1043_Vantage_Point_00.00.09.813-00.00.15.480 	the light is held aloft by a statuesque woman wearing a long white robe with a blue sash draped around her.
 1043_Vantage_Point_00.13.14.905-00.13.20.731 	barnes spots a man wearing dark glasses slip his hand into an inside pocket.
 1043_Vantage_Point_00.22.38.531-00.22.48.686 	the bearded man, enrique, a handsome man in his 30s wearing a light open shirt over a dark tee shirt and with a bag over his shoulder, marches past the protestors on his way to the plaza.
 1043_Vantage_Point_00.57.29.764-00.57.35.431 	wearing a backpack, javier screws a silencer onto his pistol as he climbs a flight of steps in the hotel.
 1043_Vantage_Point_01.11.02.961-01.11.10.393 	barnes wears a focused expression as he drifts around the corner and weaves through traffic right behind them.
 1043_Vantage_Point_01.21.54.925-01.21.58.747 	howard wears a dazed expression as he answers his ringing cell phone.
 1044_Pride_And_Prejudice_Disk_Two_00.07.50.455-00.07.56.261 	he's still wearing the same white shirt from the night before, with the top few buttons undone.
-1045_An_education_00.01.34.099-00.01.37.852 	she is wearing school uniform.
 1045_An_education_00.38.36.022-00.38.39.780 	wearing helen's little bright dress, jenny smiles nervously.
-1045_An_education_00.38.42.031-00.38.45.988 	jenny is wearing a stylish coat.
-1045_An_education_00.49.16.965-00.49.21.121 	wearing a tight smile, she doesn't look at him.
 1046_Australia_00.03.40.000-00.03.52.133 	wearing only shorts, his long hair streaming out behind him, he rides through a dusty landscape of thinly spread out trees and soaring rocky crags.
-1046_Australia_00.27.17.908-00.27.25.000 	wearing an orange dress, she looks at fletcher, then walks away from him and the cabin.
-1046_Australia_01.35.54.812-01.36.00.198 	at the top of the steps leading to the garden, clean-shaven and wearing a white tuxedo, is the drover.
 1047_Defiance_00.40.15.194-00.40.18.590 	later, wearing the man's coat and carrying two churns, zus leads the way back through the woods.
-1047_Defiance_00.42.40.053-00.42.41.346 	her dark hair cut short and wearing a grey wool coat, she sits down on the log.
 1047_Defiance_00.49.05.916-00.49.07.968 	tuvia nods, and the two of them set off, both wearing caps and scarves wrapped around their necks.
-1047_Defiance_00.57.58.297-00.58.03.982 	at nowogrodek, nazi soldiers stand guard as jewish men and women wearing yellow stars file into the ghetto.
 1048_Gran_Torino_00.01.36.182-00.01.40.068 	shley a pretty girl with red hair wears a short top exposing her pierced belly button.
 1048_Gran_Torino_00.03.00.205-00.03.04.918 	a young priest, wearing a flowing white surplice, steps up to his lectern beside the altar.
-1048_Gran_Torino_00.04.23.263-00.04.32.470 	steve follows walt, who wears a permanent frown.
-1048_Gran_Torino_00.13.53.027-00.13.55.654 	the driver, spider, has long black hair and wears a bandanna.
 1048_Gran_Torino_01.01.24.272-01.01.26.158 	a muslim nurse appears wearing a headscarf.
 1048_Gran_Torino_01.48.29.073-01.48.30.357 	sue and thao wear traditional hmong dress of lavishly embroidered clothing.
 1048_Gran_Torino_01.48.33.590-01.48.35.530 	sue also wears a turban-like headdress.
 1048_Gran_Torino_01.49.05.855-01.49.07.565 	wearing his new suit, walt lies in an open casket in front of the altar.
-1049_Harry_Potter_and_the_chamber_of_secrets_00.00.54.000-00.00.59.000 	in the bedroom, a dark-haired boy wearing round glasses is looking at an unusual photo album.
-1049_Harry_Potter_and_the_chamber_of_secrets_00.03.15.000-00.03.17.635 	the creature is wearing a filthy rag.
-1049_Harry_Potter_and_the_chamber_of_secrets_00.14.19.196-00.14.26.283 	wearing his school cloak, ron steps into the fireplace and takes a handful of powder.
 1049_Harry_Potter_and_the_chamber_of_secrets_00.31.28.689-00.31.30.569 	she's wearing a pair of earmuffs.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.32.53.685-00.32.59.104 	luna's father wears a pendant, a triangle containing a circle with a vertical line through it.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.37.15.899-00.37.17.384 	she's wearing earphones.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.59.15.794-00.59.19.320 	umbridge wears the locket around her neck.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.03.42.226-01.03.44.497 	still wearing albert's clothes, harry wakes.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.25.04.627-01.25.19.725 	wearing winter clothes, they wander down a deserted street.
-1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.27.55.470-01.27.56.218 	she is wearing a knitted cape, with a hood.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.32.57.806-01.32.59.828 	they're both wearing warm winter sweaters.
-1051_Harry_Potter_and_the_goblet_of_fire_00.07.32.773-00.07.39.615 	the spectators take their seats in the stands, many of them wearing colorful national costumes.
 1051_Harry_Potter_and_the_goblet_of_fire_00.08.26.857-00.08.28.124 	hermione and the twins wear green and white scarves.
 1051_Harry_Potter_and_the_goblet_of_fire_00.18.34.728-00.18.43.028 	the durmstrang students stride dramatically into the hall, wearing slavic, military-style uniforms.
 1051_Harry_Potter_and_the_goblet_of_fire_00.19.08.542-00.19.15.727 	wearing a long, white coat and a russian hat, high master karkaroff greets dumbledore.
 1051_Harry_Potter_and_the_goblet_of_fire_01.08.58.375-01.09.13.485 	later, harry and ron find neville waltzing by himself around the bedroom, wearing his pajamas and a pair of shiny dancing shoes.
-1051_Harry_Potter_and_the_goblet_of_fire_01.10.17.633-01.10.22.984 	krum strides past wearing a singlet, followed by a group of giggling girls.
 1051_Harry_Potter_and_the_goblet_of_fire_01.14.56.652-01.15.00.836 	the girls wear long gowns, the boys dress robes.
-1051_Harry_Potter_and_the_goblet_of_fire_01.15.12.816-01.15.15.726 	harry comes in wearing a smart black robe and a white bow tie.
-1051_Harry_Potter_and_the_goblet_of_fire_01.18.52.816-01.19.02.472 	exposing his metal leg, mad-eye moody sits in an alcove, wearing a kilt and a ferret sporran.
 1051_Harry_Potter_and_the_goblet_of_fire_01.32.56.750-01.32.59.132 	he's wearing shorts and a singlet with potter written on the back.
-1051_Harry_Potter_and_the_goblet_of_fire_02.03.25.029-02.03.38.637 	it twists and turns downwards, dividing in to separate plumes, each revealing a black-robed death eater, wearing a tall pointed hood, and a skeleton mask.
-1052_Harry_Potter_and_the_order_of_phoenix_00.04.33.270-00.04.40.220 	a elderly woman wearing a plastic mac and rain hat enters the tunnel pulling a shopping trolley.
-1052_Harry_Potter_and_the_order_of_phoenix_00.12.31.677-00.12.34.488 	it has skinny arms, long pointed nose and ears and wears a ragged vest.
 1052_Harry_Potter_and_the_order_of_phoenix_01.11.30.687-01.11.33.366 	he's wearing a paper hat.
-1052_Harry_Potter_and_the_order_of_phoenix_01.17.46.197-01.17.49.393 	they hide as umbridge comes out, wearing a fluffy purple coat over her pink dress.
 1052_Harry_Potter_and_the_order_of_phoenix_01.19.32.002-01.19.42.732 	the woman, wearing striped prison clothes, escapes through a gaping hole.
-1053_Harry_Potter_and_the_philosophers_stone_00.00.39.308-00.00.43.065 	he has a flowing white beard and long, silky white hair, and wears a pointed black hat.
-1053_Harry_Potter_and_the_philosophers_stone_00.01.34.228-00.01.41.005 	it turns into a stern-looking woman wearing a cloak and a tall pointed black hat with a large brim.
-1053_Harry_Potter_and_the_philosophers_stone_00.38.07.343-00.38.18.891 	wearing black cloaks over their school uniforms, the pupils are dwarfed by the giant hagrid.
-1053_Harry_Potter_and_the_philosophers_stone_00.48.59.024-00.49.06.996 	the large lady in the picture has ringlets and wears a pink -silk dress.
 1053_Harry_Potter_and_the_philosophers_stone_01.15.31.346-01.15.50.869 	wearing leather gloves and scarlett and gold cloaks, the gryffindor quidditch team assemble in the player's tunnel.
-1053_Harry_Potter_and_the_philosophers_stone_01.16.36.302-01.16.43.951 	in the stands, the gryffindor supporters wear red and gold scarfs, slytherin's colors are green and white.
 1053_Harry_Potter_and_the_philosophers_stone_01.25.18.545-01.25.25.545 	wearing a huge fur coat, hagrid plots across the snow covered courtyard, dragging behind him an enormous christmas tree.
 1053_Harry_Potter_and_the_philosophers_stone_01.36.43.979-01.36.58.636 	dressed in a warm black cloak, and wearing his red and gold gryffindor scarf, harry crosses the snow covered courtyard with his pet white owl perched on his arm.
-1053_Harry_Potter_and_the_philosophers_stone_01.39.50.412-01.39.53.310 	wearing oven gloves, hagrid takes something out of a pot hanging there at the fire.
-1053_Harry_Potter_and_the_philosophers_stone_02.04.44.184-02.04.49.423 	ron looks nervously at the white king, who wears a silver helmet.
-1053_Harry_Potter_and_the_philosophers_stone_02.07.14.404-02.07.25.476 	as he descends the stairs, he touches the scar on his forehead and he sees a figure wearing a turban looking into the mirror of erised, professor quirrell.
-1053_Harry_Potter_and_the_philosophers_stone_02.17.30.316-02.17.36.806 	wearing his black cloak, harry walks along a corridor, and sees ron and hermione talking together on an upper landing.
-1053_Harry_Potter_and_the_philosophers_stone_02.17.54.737-02.18.03.511 	at a bank, within the great hall, the students are wearing their robes and pointed hats.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.00.48.396-00.00.53.175 	uncle vernon, wearing a dressing gown, puts on the light and glares around the room.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_00.43.22.387-00.43.24.850 	it wears roller-skates.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.54.34.620-00.54.40.601 	wearing goggles as protection from the rain, harry swoops past the stand where the professors follow the action.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_01.01.16.578-01.01.22.426 	wearing his invisibility cloak, he climbs a wooden staircase.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_01.22.52.772-01.22.56.700 	a man wearing a black hood is sharpening the curved blade of a huge axe.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_01.47.39.641-01.47.44.874 	hermione is wearing a long chain necklace.
-1055_Marley_and_me_01.13.30.000-01.13.32.000 	he walks back outside wearing a towel.
-1056_Rambo_00.02.29.319-00.02.38.254 	the troops are dressed in khaki fatigues and wear wide- brimmed hats with a gold-colored burmese military emblem fixed to the front.
 1056_Rambo_00.04.21.453-00.04.25.510 	a second man, wearing a bandana and a red shirt does likewise.
 1056_Rambo_00.04.27.383-00.04.32.916 	dark-haired, heavy-set, muscular and sullen faced, he wears a khaki colored smock and a red paisley bandanna.
 1056_Rambo_00.06.25.223-00.06.28.424 	one man wears a white t-shirt and a black hat.
@@ -537,79 +267,43 @@
 1056_Rambo_00.47.23.000-00.47.28.000 	bn watches horrified, while the mercenaries each wear grim expressions.
 1056_Rambo_00.51.28.685-00.51.29.494 	bn wears a frown of concentration as the camp nears the camp guard post.
 1056_Rambo_00.56.29.633-00.56.33.735 	the commander wears a tunic decorated with ribbons.
-1056_Rambo_00.56.30.000-00.56.33.000 	it is open and he wears a white vest and dog tags underneath.
 1056_Rambo_01.19.50.000-01.19.56.000 	he wears a pair of dark boots, blue denims and a khaki parka over a black t-shirt.
-1057_Seven_pounds_00.00.06.465-00.00.09.830 	the light is held aloft by a statuesque woman wearing a long, white robe with a blue sash draped around her.
-1057_Seven_pounds_00.02.59.778-00.03.07.404 	in a call center cubicle, a man wearing a headset sits at a computer.
-1057_Seven_pounds_00.08.37.051-00.08.43.905 	he stands aside as two doctors wearing stethoscopes get in with him.
-1057_Seven_pounds_00.09.02.684-00.09.08.088 	emily, who is slender and wearing a nightdress, gets out of the lift and walks listlessly down a hospital corridor.
-1057_Seven_pounds_00.09.24.313-00.09.27.123 	he sees emily, who is wearing ugg boots with her nighty, shuffle down onto a ward.
 1057_Seven_pounds_00.21.57.094-00.21.59.076 	he's wearing a dressing gown and pajamas.
 1057_Seven_pounds_00.22.35.495-00.22.44.903 	emily, wearing a short strappy dress over a vest top, approaches ben's table and glances over at the shaven-headed boy before speaking.
-1057_Seven_pounds_01.20.08.390-01.20.10.827 	she's wearing a pink dress, then smiling gently as she looks down at something.
 1057_Seven_pounds_01.25.19.593-01.25.24.278 	ben, wearing his customary gray suit and shirt and tie, enters emily's bedroom carrying the gift.
-1057_Seven_pounds_01.26.02.012-01.26.08.008 	ben comes out of the bedroom wearing polo shirt and jeans.
 1057_Seven_pounds_01.47.35.337-01.47.36.559 	he's wearing the jeans and polo shirt.
-1057_Seven_pounds_01.51.00.500-01.51.07.827 	emily, anesthetized and wearing a theater cap, lies on the operating table.
-1057_Seven_pounds_01.54.29.212-01.54.39.929 	wearing a delicate summer dress, emily walks in a sunny park.
 1058_The_Damned_united_01.10.24.777-01.10.28.000 	wearing aviator shades, brian nods smiling.
-1058_The_Damned_united_01.11.20.000-01.11.27.000 	still wearing his shades and an intrigued expression, brian raises himself up onto his elbows, looking up at archer.
-1058_The_Damned_united_01.26.24.000-01.26.29.732 	his eyes fixed on peter, brian gets out wearing a heavy frown.
-1059_The_devil_wears_prada_00.13.09.000-00.13.12.000 	andy is wearing a bright blue jumper.
 1059_The_devil_wears_prada_00.37.08.488-00.37.12.397 	andy walks to the subway wearing a stylish green coat and shades, with white gloves on and a cute bag.
 1059_The_devil_wears_prada_00.37.43.640-00.37.57.558 	now, wearing a gorgeous flowing black outfit with knee length boots and a long pendant necklace, andy's arranging magazines on miranda's desk when miranda arrives.
-1059_The_devil_wears_prada_00.43.32.000-00.43.37.000 	she's wearing a crisp black suit and her shock of grey- white hair is expertly coiffured.
 1059_The_devil_wears_prada_01.02.15.000-01.02.18.000 	miranda's wearing a black, off-the-shoulder gown.
 1059_The_devil_wears_prada_01.06.59.000-01.07.01.593 	she's wearing a cool monochrome outfit with black trousers and pale boots and a big, floppy cap on her head.
-1059_The_devil_wears_prada_01.20.23.729-01.20.25.753 	she's wearing a dressing gown and has no makeup on.
-1059_The_devil_wears_prada_01.24.03.358-01.24.08.323 	nigel comes in and studies the outfit she's wearing.
 1059_The_devil_wears_prada_01.31.39.316-01.31.44.617 	she's changed into a black dress with a scoop neck, a full skirt with petticoats, and wears black gloves and a silver necklace.
 1059_The_devil_wears_prada_01.42.37.133-01.42.42.413 	dressed in smart jeans, a black polo neck and a brown jacket, and still wearing a large grin, andy walks down a busy street.
-1059_The_devil_wears_prada_01.44.14.220-01.44.22.500 	as miranda, who's wearing large jackie o-style sunglasses, makes to get into the car, she suddenly spots andy standing across the street.
 1060_Yes_man_00.25.26.096-00.25.28.223 	he wears the helmet and clings onto her.
 1060_Yes_man_00.26.46.705-00.26.49.697 	wearing the helmet, she marches over to him.
 1060_Yes_man_00.42.14.119-00.42.19.545 	on stage, a band who wears seahorses on their heads.
 1060_Yes_man_00.43.41.921-00.43.45.020 	she wears a spangly mini top hat.
-1060_Yes_man_01.09.06.293-01.09.08.858 	carl walks up to allison, who's wearing a dark blue coat with red piping.
 1060_Yes_man_01.11.20.001-01.11.25.434 	jumping up and down amongst the crowd, carl's wearing giant yellow corncobs on his head and arms.
 1060_Yes_man_01.11.25.434-01.11.27.303 	allison wears a massive red stetson.
-1060_Yes_man_01.21.13.168-01.21.17.189 	norm wears a red cape and holds a shield and spear.
 1060_Yes_man_01.21.30.556-01.21.33.060 	norm's wearing a false beard and mustache.
-1060_Yes_man_01.30.53.671-01.30.57.002 	wearing a hospital gown, terrence goes.
 1060_Yes_man_01.36.19.241-01.36.21.042 	norm and the vagrant guy both wear pleated trousers.
-1060_Yes_man_01.38.31.434-01.38.33.491 	on a coast road, carl and allison are wearing specially designed suits with roller-blade wheels on the chest, arms and legs.
 1060_Yes_man_01.39.19.417-01.39.37.252 	both wearing helmets, they whiz down the road on their stomachs.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.12.20.486-00.12.32.731 	wearing a long, black coat, ron walks behind her, his head bowed.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.36.42.145-00.36.50.352 	one student wearing a gown steps forward to stand in front of snape.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.16.55.173-01.16.58.255 	lily wears the sorting hat.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.32.30.000-01.32.38.040 	dumbledore wears a silvery white robe in the vista of white.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.54.43.652-01.54.54.683 	inside nearby king's cross station, a dark-haired boy of 11, wearing a striped shirt, wheels a trolley piled with luggage and an animal cage along a platform.
-1062_Day_the_Earth_stood_still_00.18.32.396-00.18.39.273 	the scientists follow wearing hazmat protective suits.
 1062_Day_the_Earth_stood_still_00.27.04.337-00.27.09.748 	the surgeon wearing a suit which even covers his feet drops lumbs of blubbery flesh into a basin.
-1062_Day_the_Earth_stood_still_00.31.36.151-00.31.40.934 	the being is lying on a gurney wearing gray hospital pajamas and an oxygen mask.
-1062_Day_the_Earth_stood_still_00.40.53.227-00.40.57.856 	still seated but wearing a suit, klaatu looks up as the lights flicker and the power fluctuates all over the building.
 2004_Juno_00.04.12.085-00.04.12.314 	he wears a polyester uniform vest.
 2004_Juno_00.04.13.882-00.04.15.217 	an eavesdropping tough girl wearing an oversized jacket and lots of makeup gapes at juno from the beauty aisle.
-2004_Juno_00.56.30.286-00.56.31.317 	juno is wearing one of mac's giant hockey jerseys in lieu of actual maternity wear.
-2005_Signs_00.27.58.677-00.28.02.866 	when he does, the words are soft and worn; they've been said a hundred times.
-2012_Unbreakable_00.36.46.108-00.36.46.841 	the baby is wearing an eagles uniform.
 2012_Unbreakable_00.37.29.991-00.37.34.931 	david bumps a guy in line wearing an army jacket.
 2012_Unbreakable_01.21.34.289-01.21.35.819 	he's wearing a one piece orange uniform.
 2012_Unbreakable_01.22.15.558-01.22.16.425 	he's wearing a baseball hat with his uniform now.
 2017_Bad_Santa_00.15.19.547-00.15.21.009 	he's now wearing a rolex and some gaudy ring.
 2017_Bad_Santa_00.18.02.104-00.18.13.152 	a beautiful girl wearing skin-tight pants walks by, catching willie's eye.
-2017_Bad_Santa_00.31.06.623-00.31.09.304 	she wears a bathrobe and thick glasses and has another pair of glasses on a chain around her neck.
-2017_Bad_Santa_00.49.21.457-00.49.26.756 	he is wearing his santa hat.
 2017_Bad_Santa_00.53.59.219-00.54.01.330 	willie wears a forbearing smile.
-2017_Bad_Santa_01.22.23.808-01.22.28.430 	behind jesse, in men's wear, is lois, wearing a frown of pruney disapproval.
 2017_Bad_Santa_01.28.06.464-01.28.07.433 	she wears a pair of sunglasses from which a price tag dangles, and a long ermine stole.
 2027_Les_Miserables_00.26.02.268-00.26.05.333 	the pimp leads the captain down the middle of the whores to fantine who wears a filthy white dress.
-2034_Super_8_00.13.26.613-00.13.28.166 	alice has been made up, wears a coat with purse.
-2034_Super_8_00.13.47.503-00.13.49.887 	joe, observing, holds the boom mike (a condenser mike taped to a broom handle), preston wears an overcoat.
-2040_The_Ugly_Truth_00.22.25.842-00.22.32.238 	mike's sister, elizabeth, 40's, walks in, wearing a nurse's uniform and holding a cake box.
 2040_The_Ugly_Truth_00.30.11.421-00.30.14.498 	close on stuart, wearing a grave expression.
-2040_The_Ugly_Truth_00.24.06.323-00.24.12.773 	abby leans closer to see colin start flossing, wearing only a towel.
 2040_The_Ugly_Truth_01.14.40.666-01.14.46.517 	abby sinks down onto her bed, wearing the same expression.
 2041_This_is_40_00.05.58.556-00.06.02.054 	pete enters wearing a lycra outfit with all sorts of logos on it.
 2041_This_is_40_00.23.11.751-00.23.15.854 	angle on graham and a journalist wearing a yarmulke.
-2041_This_is_40_01.56.30.735-01.56.35.948 	from the side of the house we see pete storming by on his bike, wearing his street clothes and a helmet.

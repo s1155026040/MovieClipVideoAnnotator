@@ -1,5 +1,8 @@
-0004_Charade_01.39.02.900-01.39.03.066 	Then the bell rings, announcing the arrival of a train.
-0004_Charade_01.43.05.026-01.43.05.691 	As the bell rings announcing the next train.
-0026_The_Big_Fish_00.20.17.313-00.20.19.354 	The CRACK of a bat announces the game-winning home run.
-0026_The_Big_Fish_01.06.34.224-01.06.45.649 	Will quietly approaches the door, not exactly sneaking, but not exactly announcing his presence.
-1003_How_to_Lose_Friends_and_Alienate_People_01.37.04.894-01.37.08.394 	The woman onstage announces the winner, Sophie Maes.
+0004_Charade_01.39.02.900-01.39.03.066 	then the bell rings, announcing the arrival of a train.
+0004_Charade_01.43.05.026-01.43.05.691 	as the bell rings announcing the next train.
+0026_The_Big_Fish_00.20.17.313-00.20.19.354 	the crack of a bat announces the game-winning home run.
+0026_The_Big_Fish_01.06.34.224-01.06.45.649 	will quietly approaches the door, not exactly sneaking, but not exactly announcing his presence.
+0033_Amadeus_01.43.35.860-01.43.36.318 	a servant opens the door to announce.
+1003_How_to_Lose_Friends_and_Alienate_People_01.37.04.894-01.37.08.394 	the woman onstage announces the winner, sophie maes.
+1015_27_Dresses_01.36.23.983-01.36.31.283 	they pull up beside an illuminated sign announcing the wedding reception.
+1051_Harry_Potter_and_the_goblet_of_fire_00.54.27.574-00.54.39.790 	the triwizard competitors pace restlessly in their tent as dumbledore announces the contest.

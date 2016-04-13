@@ -8,19 +8,12 @@
 500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS139 	00:26:57,00 --> 00:27:02,50 	someone drops his head in embarrassment.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS380 	00:34:59,00 --> 00:35:11,50 	the intruders drop under the gunfire, but more stream in behind them.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS399 	00:36:32,00 --> 00:36:37,50 	someone drops it on the ground and stomps on it repeatedly, smashing it to pieces.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS475 	00:46:16,00 --> 00:46:24,50 	someone drops his shotgun and his son reluctantly follows suit.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS516 	00:50:13,00 --> 00:50:20,50 	the agent fires back, then drops the blonde man's body and runs to his father.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS543 	00:52:48,00 --> 00:52:58,50 	someone and someone run side-by-side, and someone drops his gun as they take a flying leap out of the window.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS648 	01:06:45,00 --> 01:06:52,50 	someone drops the cloth and paper wrappings, and holds up a dark metal cylinder.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS680 	01:09:52,00 --> 01:09:59,50 	as she reaches the back wall, the tablet readings steadily drop to almost nothing.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS156 	00:30:34,00 --> 00:30:39,50 	someone points at the doctor, then drops his hand.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS220 	00:43:09,00 --> 00:43:13,50 	two leaves drop off.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS243 	00:47:06,00 --> 00:47:13,50 	her mouth drops open as she peers inside.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS401 	01:10:12,00 --> 01:10:18,50 	someone steps to the base of the tree and drops to his knees.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS425 	01:13:39,00 --> 01:13:44,50 	another leaf drops to the ground.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS432 	01:14:18,00 --> 01:14:23,50 	another leaf drops to the ground.
-A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS455 	01:18:52,00 --> 01:18:57,50 	someone's mouth drops open as she gazes at her son.
-A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS457 	01:19:05,00 --> 01:19:11,50 	back at the house, several more bodhi leaves drop off.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS210 	00:29:18,00 --> 00:29:25,50 	now at the store, someone drops a letter before him.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS309 	00:44:42,00 --> 00:45:03,50 	he drops his dagger, catches it with his free hand, then slashes and leg sweeps his foe.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS390 	00:54:38,00 --> 00:55:09,50 	swinging at a third, someone drops his ax.
@@ -34,61 +27,47 @@ BLINDDATING.srt 	BLINDDATING_DVS11 	00:03:51,00 --> 00:03:58,50 	she drops her s
 BRUNO.srt 	BRUNO_DVS216 	01:00:13,00 --> 01:00:20,50 	blinking uncomfortably, someone puffs a cigarette and drops his gaze.
 BURLESQUE.srt 	BURLESQUE_DVS174 	00:25:10,00 --> 00:25:20,50 	she enters her ransacked studio apartment, then drops her purse and hurries into the bathroom.
 BURLESQUE.srt 	BURLESQUE_DVS268 	00:37:50,00 --> 00:37:57,50 	someone drops her bag back on the floor and plops into her chair at the dressing table.
-BURLESQUE.srt 	BURLESQUE_DVS343 	00:47:05,00 --> 00:47:11,50 	as the curtain continues to drop, she opens her mouth.
 BURLESQUE.srt 	BURLESQUE_DVS534 	01:14:11,00 --> 01:14:16,50 	she drops the costumes, then removes her
 BURLESQUE.srt 	BURLESQUE_DVS674 	01:44:57,00 --> 01:45:02,50 	smiling, she drops an envelope in front of him.
 BURLESQUE.srt 	BURLESQUE_DVS712 	01:48:07,00 --> 01:48:13,50 	someone slaps her hands away, her jaw dropping in exasperation.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS44 	00:06:02,00 --> 00:06:08,50 	he turns to the bearded man and drops the cube onto the floor, shattering it.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS331 	01:02:18,00 --> 01:02:24,50 	out in the yard, someone, an african-american gi, drops beside dugan inside the armored vehicle.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS481 	01:24:49,00 --> 01:24:59,50 	someone drops the shield as he flies backward out of the train.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS586 	01:41:04,00 --> 01:41:11,50 	the bomb drops out of the plane with someone and the other trooper clinging to its canopy.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS604 	01:42:51,00 --> 01:43:03,50 	using his shield as cover, someone runs up and punches someone in the stomach causing him to drop his blaster.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS626 	01:45:12,00 --> 01:45:19,50 	the cube drops onto the floor.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS47 	00:03:21,00 --> 00:03:27,50 	as a 15-foot wave begins to crest, he drops down through the face of it.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS150 	00:12:04,00 --> 00:12:11,50 	someone, on his bright yellow long board, drops into a gentle five-foot curl.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS420 	00:39:32,00 --> 00:39:39,50 	now, the young surfer stumbles onto the sand, drops his board, and collapses.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS444 	00:42:59,00 --> 00:43:05,50 	blond drops his pants and front flips off the roof.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS513 	00:50:03,00 --> 00:50:08,50 	someone drops his notebook and quickly stands.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS532 	00:51:33,00 --> 00:51:38,50 	as he drops an essay in the mailbox, someone's wife emerges from the garage.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS993 	01:37:11,00 --> 01:37:19,50 	as the water swells, one of the surfers drops down the face of a glossy 25-foot wave.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS1069 	01:42:19,00 --> 01:42:24,50 	someone sighs, dropping his head.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS1106 	01:46:08,00 --> 01:46:12,50 	someone's face drops.
 CHRONICLE.srt 	CHRONICLE_DVS113 	00:15:48,00 --> 00:15:53,50 	the ball drops as it touches his nose.
-CHRONICLE.srt 	CHRONICLE_DVS136 	00:20:07,00 --> 00:20:12,50 	someone gives a worried look, then drops his gaze.
-CHRONICLE.srt 	CHRONICLE_DVS284 	00:43:45,00 --> 00:43:54,50 	as his friend reaches for it, the balls drop on his head.
 CHRONICLE.srt 	CHRONICLE_DVS295 	00:44:39,00 --> 00:44:45,50 	the ball drops and rolls along the rope after him.
 CHRONICLE.srt 	CHRONICLE_DVS304 	00:46:04,00 --> 00:46:11,50 	our view drops onto a coffee table and records someone and someone on a couch.
 CHRONICLE.srt 	CHRONICLE_DVS457 	01:07:16,00 --> 01:07:20,50 	he drops him.
 CHRONICLE.srt 	CHRONICLE_DVS500 	01:11:41,00 --> 01:11:51,50 	sparks fly as he drops onto a parked car and rolls to the street.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS32 	00:07:39,00 --> 00:07:46,50 	he removes a wristwatch, then drops a stack of cash across an open jewelry box.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS177 	00:38:18,00 --> 00:38:22,50 	he drops change on the table.
-CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS197 	00:41:21,00 --> 00:41:27,50 	the humble father looks at the men then drops his gaze.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS205 	00:42:37,00 --> 00:42:57,50 	another gentleman drops in a few bills.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS333 	01:23:47,00 --> 01:24:20,50 	someone drops some coins on the form and slides it all to the clerk.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS462 	01:48:13,00 --> 01:48:19,50 	in the locker room, someone drops some cash on his bag.
-COLOMBIANA.srt 	COLOMBIANA_DVS97 	00:07:44,00 --> 00:07:52,50 	as his wife rushes into the next room, someone takes his daughter's hands and drops to one knee.
-COLOMBIANA.srt 	COLOMBIANA_DVS117 	00:09:30,00 --> 00:09:36,50 	he turns away from the stairs and drops to his knees.
-COLOMBIANA.srt 	COLOMBIANA_DVS119 	00:09:36,00 --> 00:09:44,50 	he lifts a trembling hand toward his face, then drops to the floor beside his dying wife.
 COLOMBIANA.srt 	COLOMBIANA_DVS139 	00:12:49,00 --> 00:12:56,50 	racing into a bathroom, she slides open a window, pulls herself out and drops onto a ledge.
 COLOMBIANA.srt 	COLOMBIANA_DVS144 	00:13:13,00 --> 00:13:18,50 	she drops onto the roof of a parked car.
 COLOMBIANA.srt 	COLOMBIANA_DVS275 	00:22:55,00 --> 00:23:02,50 	as he drops to his knees and embraces her, she allows herself to cry.
 COLOMBIANA.srt 	COLOMBIANA_DVS478 	00:42:20,00 --> 00:42:25,50 	she drops it on the pavement.
 COLOMBIANA.srt 	COLOMBIANA_DVS524 	00:47:23,00 --> 00:47:31,50 	scanning the feeds, she plucks out some more noodles, tilts her head back, then drops some into her mouth.
-COLOMBIANA.srt 	COLOMBIANA_DVS667 	01:02:38,00 --> 01:02:45,50 	walking onto the glass, someone picks up the orchid and drops it into the pool.
 COLOMBIANA.srt 	COLOMBIANA_DVS798 	01:17:13,00 --> 01:17:17,50 	she drops it in a glass of water.
 COLOMBIANA.srt 	COLOMBIANA_DVS809 	01:18:39,00 --> 01:18:44,50 	she drops her cell and rummages through a drawer.
 COLOMBIANA.srt 	COLOMBIANA_DVS894 	01:24:28,00 --> 01:24:32,50 	the gun drops from her hand.
 COLOMBIANA.srt 	COLOMBIANA_DVS1075 	01:41:04,00 --> 01:41:12,50 	warm sunlight washes over her face as she drops to her knees in the grass under a towering tree.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS60 	00:07:55,00 --> 00:08:02,50 	someone drops his gaze, and someone studies him with a warm smile.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS428 	01:04:01,00 --> 01:04:08,50 	back in afghanistan, a pallet drops from a plane, and a parachute opens above it.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS434 	01:04:33,00 --> 01:04:47,50 	someone drops some letters on top of others in a metal box.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS498 	01:12:39,00 --> 01:12:50,50 	he drops the sling on the floor.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS584 	01:22:08,00 --> 01:22:15,50 	he swings his legs into the water, and drops his unhooked ankle leash onto his board.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS623 	01:25:05,00 --> 01:25:12,50 	someone swallows, dropping his gaze, then shakes his head and locks eyes with someone.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS624 	01:25:10,00 --> 01:25:14,50 	her jaw drops.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS636 	01:26:54,00 --> 01:26:59,50 	smiling, someone drops his gaze.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS662 	01:29:30,00 --> 01:29:34,50 	someone drops his eyes.
-DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS200 	00:47:51,00 --> 00:47:56,50 	someone's head was resting on the door and it drops,
 DISTRICT_9.srt 	DISTRICT_9_DVS254 	00:28:07,00 --> 00:28:11,50 	moves out and drops to his knees.
 DISTRICT_9.srt 	DISTRICT_9_DVS612 	01:11:48,00 --> 01:11:53,50 	someone drops his gun completely.
 DISTRICT_9.srt 	DISTRICT_9_DVS714 	01:24:08,00 --> 01:24:15,50 	a new chopper lands in district 9 and drops off a handful of reinforcements.
@@ -104,7 +83,6 @@ FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS212 	00:56:04,00 --> 00:56:1
 FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS362 	01:36:23,00 --> 01:36:29,50 	his dad bumps into someone and drops his bag.
 GET_HIM_TO_THE_GREEK.srt 	GET_HIM_TO_THE_GREEK_DVS27 	00:19:41,00 --> 00:19:47,50 	someone's stares slack-jawed, then drops his gaze.
 GET_HIM_TO_THE_GREEK.srt 	GET_HIM_TO_THE_GREEK_DVS32 	00:20:59,00 --> 00:21:07,50 	the lanky rock-star drops a hand on someone's shoulder.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS106 	00:17:04,00 --> 00:17:20,50 	looking along, the heavyset thug drops his rifle and sinks to his knees.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS144 	00:22:49,00 --> 00:22:56,50 	someone drops the phone and staggers back.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS239 	00:38:06,00 --> 00:38:30,50 	dropping his gun, a guard races away.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS336 	00:50:52,00 --> 00:51:01,50 	as the bike comes to a full stop, its rear wheels stay up in the air for a moment then drops back to the ground.
@@ -115,26 +93,19 @@ GREEN_ZONE.srt 	GREEN_ZONE_DVS391 	01:29:32,00 --> 01:29:39,50 	he's hit a wall 
 GROWN_UPS.srt 	GROWN_UPS_DVS118 	00:37:43,00 --> 00:37:49,50 	someone drops the rock back on the ground.
 GROWN_UPS.srt 	GROWN_UPS_DVS168 	00:48:03,00 --> 00:48:07,50 	and drops to his knees.
 GROWN_UPS.srt 	GROWN_UPS_DVS294 	01:33:33,00 --> 01:33:41,50 	hitting the backboard, it drops onto the basket's rim then bounces away from the net.
-HUGO.srt 	HUGO_DVS155 	00:21:20,00 --> 00:21:26,50 	claude takes a drag from his cigarette, burns his finger, and drops it.
-HUGO.srt 	HUGO_DVS205 	00:30:45,00 --> 00:30:53,50 	without glancing away from the boy, he reaches under the counter then drops the broken wind-up mouse in front of someone.
 HUGO.srt 	HUGO_DVS228 	00:33:38,00 --> 00:33:45,50 	someone attempts it with a deck of his own but fumbles and drops the cards.
-HUGO.srt 	HUGO_DVS251 	00:35:39,00 --> 00:35:45,50 	someone pulls off a thin metal rod and drops it onto his worktable.
 HUGO.srt 	HUGO_DVS307 	00:47:09,00 --> 00:47:14,50 	someone's mouth drops open.
 HUGO.srt 	HUGO_DVS324 	00:50:16,00 --> 00:50:23,50 	a tumbler of notched plates rotates into a new configuration then drops slightly.
 HUGO.srt 	HUGO_DVS344 	00:52:32,00 --> 00:52:38,50 	someone punches a stuffed chair then drops into it and sobs.
 HUGO.srt 	HUGO_DVS367 	00:56:06,00 --> 00:56:12,50 	someone glances at someone then drops her sewing onto a chair.
 HUGO.srt 	HUGO_DVS428 	01:02:36,00 --> 01:02:44,50 	someone stares at someone as he draws a deep breath then drops his head and covers his face with his hand.
 HUGO.srt 	HUGO_DVS439 	01:03:56,00 --> 01:04:00,50 	he drops several books.
-HUGO.srt 	HUGO_DVS509 	01:14:46,00 --> 01:14:52,50 	a stagehand wearing a cap drops lobsters into a tank.
 HUGO.srt 	HUGO_DVS522 	01:17:17,00 --> 01:17:27,50 	bending toward the clock's gears, someone drops a wrench through an opening.
 HUGO.srt 	HUGO_DVS640 	01:32:29,00 --> 01:32:34,50 	it drops into the ocean and sinks to the bottom of the sea.
-HUGO.srt 	HUGO_DVS663 	01:36:05,00 --> 01:36:11,50 	someone's mouth drops open as he watches the screen.
 HUGO.srt 	HUGO_DVS744 	01:49:16,00 --> 01:49:23,50 	someone hangs on tightly as the minute hand drops about a foot.
 HUGO.srt 	HUGO_DVS764 	01:51:07,00 --> 01:51:11,50 	the automaton drops onto the tracks.
 IN_TIME.srt 	IN_TIME_DVS87 	00:09:38,00 --> 00:09:44,50 	climbing after his companion, someone drops down on the other side as the car arrives.
-IN_TIME.srt 	IN_TIME_DVS195 	00:20:36,00 --> 00:20:45,50 	his thoughtful eyes shift to a truck heading in the opposite direction and he drops his flowers taking off after it.
 IN_TIME.srt 	IN_TIME_DVS206 	00:21:39,00 --> 00:21:44,50 	dropping to his knees, he cradles her limp body.
-IN_TIME.srt 	IN_TIME_DVS272 	00:27:56,00 --> 00:28:03,50 	lying back down, he lets his head drop onto the pillow and closes his eyes.
 IN_TIME.srt 	IN_TIME_DVS532 	00:57:23,00 --> 00:57:28,50 	someone drops her gaze to her outfit.
 IN_TIME.srt 	IN_TIME_DVS676 	01:13:24,00 --> 01:13:33,50 	at the arrival of two timekeeper cruisers, a few drop their empty capsules and stroll off with affected nonchalance.
 IN_TIME.srt 	IN_TIME_DVS910 	01:36:13,00 --> 01:36:18,50 	he hands her the capsule and her jaw drops.
@@ -142,15 +113,10 @@ IN_TIME.srt 	IN_TIME_DVS956 	01:40:35,00 --> 01:40:42,50 	as she clings to him, 
 INSIDE_MAN.srt 	INSIDE_MAN_DVS279 	01:26:09,00 --> 01:26:15,50 	someone exits the white sack and the hostage drops to the floor.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS456 	01:23:46,00 --> 01:24:00,50 	he drops the cables through the ceiling, down to the lab floor.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS622 	01:46:45,00 --> 01:46:52,50 	other military drones drop down and surround them.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS644 	01:49:05,00 --> 01:49:15,50 	a person wearing a bulky, black armored suit drops inside the dome and lands in front of someone and someone.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS9 	00:04:01,00 --> 00:04:10,50 	now, a young woman carries a box across the well-kept lawn of the spanish-style home and drops it in the trunk of a hatchback.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS157 	00:52:18,00 --> 00:52:22,50 	drops it in a drawer.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS199 	01:00:47,00 --> 01:00:54,50 	the bathrobe drops around her ankles.
-ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS273 	01:17:31,00 --> 01:17:36,50 	she glances at them and drops it.
-ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS335 	01:35:13,00 --> 01:35:17,50 	he smile and drops his gaze.
-ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS375 	01:45:52,00 --> 01:45:57,50 	she drops her gaze and gives a pensive nod.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS385 	01:48:47,00 --> 01:48:52,50 	she drops her eyes and shifts uncomfortably.
-ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS400 	01:52:29,00 --> 01:52:38,50 	someone gives a broad shrug then drops his hands into his lap.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS402 	01:52:43,00 --> 01:53:01,50 	her fingertips drop from his shoulder and her arm rests on the back of the bench.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS410 	01:53:38,00 --> 01:53:43,50 	someone's eyes widened and her jaw drops open.
 JACK_AND_JILL.srt 	JACK_AND_JILL_DVS347 	01:06:22,00 --> 01:06:28,50 	in the stall, someone drops the bag on the toilet.
@@ -165,13 +131,9 @@ JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS241 	01:24:16,00 --> 01:24:21,50 	he dro
 JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS263 	01:28:08,00 --> 01:28:16,50 	someone does the same, until someone does an aerial cartwheel, twirls and drops into a split.
 JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS275 	01:30:13,00 --> 01:30:19,50 	someone and someone drop their coconut on the floor.
 JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS281 	01:31:12,00 --> 01:31:19,50 	someone drops hers.
-JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS309 	01:38:56,00 --> 01:39:05,50 	the bed-headed boy drops his shorts, then sits on the bowl hunched forward with his arms dangling between his knees.
-KARATE_KID.srt 	KARATE_KID_DVS99 	00:08:53,00 --> 00:08:59,50 	someone drops his jacket on the floor and turns on the tv.
 KARATE_KID.srt 	KARATE_KID_DVS334 	00:30:28,00 --> 00:30:32,50 	someone drops his backpack.
 KARATE_KID.srt 	KARATE_KID_DVS344 	00:31:08,00 --> 00:31:15,50 	he drops his bag.
 KARATE_KID.srt 	KARATE_KID_DVS517 	00:47:02,00 --> 00:47:12,50 	someone watches as someone drops the flaming cotton ball into a bowl, and dips a hand in, gathering a dancing blue flame in his palm.
-KARATE_KID.srt 	KARATE_KID_DVS554 	00:50:15,00 --> 00:50:23,50 	grabbing him by his shirt, the aggressor lifts the boy, then drops on his back, and flings him over his head.
-KARATE_KID.srt 	KARATE_KID_DVS667 	00:56:31,00 --> 00:56:37,50 	someone takes off his jacket and drops it in the doorway.
 KARATE_KID.srt 	KARATE_KID_DVS688 	00:58:41,00 --> 00:58:45,50 	someone drops it on to the tile.
 KARATE_KID.srt 	KARATE_KID_DVS717 	01:00:01,00 --> 01:00:06,50 	drops it on the ground, picks it up, and hangs it.
 KARATE_KID.srt 	KARATE_KID_DVS741 	01:02:41,00 --> 01:02:46,50 	drops it on the ground, and hangs it up.
@@ -181,12 +143,9 @@ KARATE_KID.srt 	KARATE_KID_DVS1195 	01:37:47,00 --> 01:37:52,50 	someone glances
 KARATE_KID.srt 	KARATE_KID_DVS1389 	01:52:12,00 --> 01:52:21,50 	the official drops the flags and the boys circle each other.
 KARATE_KID.srt 	KARATE_KID_DVS1412 	01:53:57,00 --> 01:54:07,50 	the flag drops, and someone attacks before his opponent even breaks his bow.
 KARATE_KID.srt 	KARATE_KID_DVS1424 	01:54:59,00 --> 01:55:15,50 	an official drops the flags and the boy leaps at someone.
-KARATE_KID.srt 	KARATE_KID_DVS1452 	01:58:20,00 --> 01:58:40,50 	as his opponent falls on his back, the bully drops on top of him, slamming his elbow into his sternum.
 KARATE_KID.srt 	KARATE_KID_DVS1558 	02:05:48,00 --> 02:06:17,50 	someone drops to his knees and slides under the boy's aerial kick.
 KARATE_KID.srt 	KARATE_KID_DVS1565 	02:06:47,00 --> 02:07:08,50 	someone drops to his knees and spins, sweeping someone's legs out from under him.
 KARATE_KID.srt 	KARATE_KID_DVS1621 	02:11:53,00 --> 02:12:00,50 	as the american tilts his head, someone drops his fists and matches him.
-KATY_PERRY_PART_OF_ME.srt 	KATY_PERRY_PART_OF_ME_DVS200 	00:52:15,00 --> 00:52:21,50 	she drops the jump rope then walks out of the room.
-KNOCKED_UP.srt 	KNOCKED_UP_DVS110 	01:09:29,00 --> 01:09:43,50 	dropping it, she finds a bank statement with someone's name on it.
 KNOCKED_UP.srt 	KNOCKED_UP_DVS117 	01:10:26,00 --> 01:10:31,50 	with her mouth agape she drops the books
 LAND_OF_THE_LOST.srt 	LAND_OF_THE_LOST_DVS78 	00:26:24,00 --> 00:26:28,50 	he drops to one knee.
 LAND_OF_THE_LOST.srt 	LAND_OF_THE_LOST_DVS162 	01:00:11,00 --> 01:00:15,50 	he drops his backpack.
@@ -196,7 +155,6 @@ LIFE_OF_PI.srt 	LIFE_OF_PI_DVS391 	00:46:20,00 --> 00:46:27,50 	someone drops th
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS397 	00:46:48,00 --> 00:46:54,50 	someone drops the oar and retreats to the prow beam.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS420 	00:48:57,00 --> 00:49:02,50 	he drops to all fours and picks up the bucket.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS488 	00:54:31,00 --> 00:54:39,50 	he fits a plastic lid on top, then drops it into a sack nestled at the center of his makeshift raft.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS489 	00:54:37,00 --> 00:54:43,50 	someone takes a handful of cans from the supply hatch and drops those in as well.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS616 	01:07:05,00 --> 01:07:16,50 	the tiger hangs off the far spokes, adding to its weight then drops into the water.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS641 	01:08:58,00 --> 01:09:03,50 	he drops the slatted pallet overboard.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS979 	01:36:37,00 --> 01:36:43,50 	he tests the water with his toes then drops in.
@@ -210,13 +168,11 @@ MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS497 	01:00:09,00 --> 01:00:17,50
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS588 	01:10:05,00 --> 01:10:10,50 	in his apartment, someone drops his keys.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS646 	01:18:32,00 --> 01:18:41,50 	captain swoops to the limo and drops into its open sunroof.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS688 	01:25:23,00 --> 01:25:29,50 	their penguins drop to their bellies and slide past their feet.
-NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS19 	00:05:02,00 --> 00:05:17,50 	the elevator drops down to one and the piglets stand.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS219 	00:45:39,00 --> 00:45:46,50 	together mouth three, two, one and drop the veil like a net.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS272 	00:59:34,00 --> 00:59:49,50 	someone drops his full glass of ginger beer and someone collapses behind their mother.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS382 	01:20:28,00 --> 01:20:38,50 	as he sneezes, the pilot's head bobs, dropping dangerously close to a red control button.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS480 	01:38:15,00 --> 01:38:24,50 	he drops a duffle bag.
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS42 	00:09:57,00 --> 00:10:06,50 	she listens for a moment then drops it.
-PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS232 	00:55:21,00 --> 00:55:28,50 	going after him someone falls over the balcony railing and drops six feet.
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS236 	00:55:46,00 --> 00:55:54,50 	someone drops to all fours too.
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS273 	01:04:33,00 --> 01:04:42,50 	now in a park, someone drops his hip clothes into a trashcan then joins his grandson on a nearby bench.
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS331 	01:18:39,00 --> 01:18:46,50 	someone's eyes shift to someone and someone and his mouth drops open.
@@ -225,28 +181,21 @@ PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS139 	00:32
 PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS188 	00:45:04,00 --> 00:45:10,50 	someone drops the shoe in the box and the newcomer quickly closes it.
 PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS301 	01:15:18,00 --> 01:15:24,50 	he drops into a split, then springs up using only his goat legs.
 PROMETHEUS.srt 	PROMETHEUS_DVS70 	00:03:59,00 --> 00:04:05,50 	it drops from his grasp and plummets over the falls.
-PROMETHEUS.srt 	PROMETHEUS_DVS99 	00:06:01,00 --> 00:06:08,50 	holloway glances back at two colleagues, then drops a pan and dashes up the slope.
 PROMETHEUS.srt 	PROMETHEUS_DVS338 	00:32:31,00 --> 00:32:37,50 	a pup doubles back from the far wall and drops down the pit.
 PROMETHEUS.srt 	PROMETHEUS_DVS719 	01:16:49,00 --> 01:16:57,50 	his body completely engulfed holloway drops to his knees.
-PROMETHEUS.srt 	PROMETHEUS_DVS812 	01:27:10,00 --> 01:27:17,50 	meanwhile, someone gives herself another shot, then drops the auto-injector.
 PROMETHEUS.srt 	PROMETHEUS_DVS899 	01:39:38,00 --> 01:39:46,50 	the aide shoots the engineer, and he drops the head.
-PROMETHEUS.srt 	PROMETHEUS_DVS912 	01:40:50,00 --> 01:40:58,50 	the center of the disc drops, then rotates counter clockwise and opens for a head and pillar to emerge.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS19 	00:02:46,00 --> 00:03:13,50 	crossing between two rows of workbenches, the sandy-haired man drops a load of shirts.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS166 	00:30:50,00 --> 00:30:55,50 	one agent briefly drops his gaze.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS172 	00:32:20,00 --> 00:32:32,50 	the exotic beauty drops her gaze and someone throws the coat at its owner.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS175 	00:33:05,00 --> 00:33:25,50 	now in an apartment, a hand drops a rabbit's foot key chain by a tabletop sculpture of two racing greyhounds.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS249 	00:46:10,00 --> 00:46:15,50 	glares at him, then drops her gaze.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS497 	01:33:47,00 --> 01:34:00,50 	baby face drops onto his back.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS152 	00:38:10,00 --> 00:38:17,50 	reaching her, he drops to one knee and holds out the covered crown.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS155 	00:38:42,00 --> 00:38:51,50 	prince someone drops to one knee and prayerfully folds his hands.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS161 	00:39:45,00 --> 00:39:55,50 	someone drops on to one knee.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS257 	00:59:29,00 --> 00:59:53,50 	someone crouches, tugging it off over his head, then falls on her rear when it finally drops to the floor.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS328 	01:20:00,00 --> 01:20:08,50 	dropping an iron chandelier on him.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS393 	01:37:23,00 --> 01:37:30,50 	dropping his eyes to the ground, he crouches and plants one hand in the mud.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS428 	01:46:31,00 --> 01:46:37,50 	sword belt dropped from his waist.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS54 	00:09:39,00 --> 00:09:45,50 	he drops a book on the floor then shuts the door behind him.
-RUBY_SPARKS.srt 	RUBY_SPARKS_DVS84 	00:13:17,00 --> 00:13:23,50 	someone takes the shoe and drops it on the desk.
-RUBY_SPARKS.srt 	RUBY_SPARKS_DVS363 	00:59:06,00 --> 00:59:13,50 	holding a cooking utensil in each hand, someone drops them on a plate.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS457 	01:10:06,00 --> 01:10:12,50 	then playfully drops the spoons into the dishwasher.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS580 	01:27:08,00 --> 01:27:13,50 	the writer drops his head on the typewriter.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS644 	01:32:27,00 --> 01:32:32,50 	someone drops to the floor again.
@@ -256,7 +205,6 @@ SALT.srt 	SALT_DVS301 	00:52:47,00 --> 00:52:54,50 	she raises her hands, aiming
 SALT.srt 	SALT_DVS375 	01:06:57,00 --> 01:07:12,50 	she checks a corridor for survivors then drops her gaze downstairs.
 SALT.srt 	SALT_DVS489 	01:25:03,00 --> 01:25:16,50 	she drops her emptied handgun and raises an automatic rifle.
 SANCTUM.srt 	SANCTUM_DVS331 	01:06:14,00 --> 01:06:20,50 	a slack-jawed someone drops his hand on his lap.
-SANCTUM.srt 	SANCTUM_DVS483 	01:29:36,00 --> 01:29:46,50 	he glances at someone who drops his supply bag and crouches by the equipment as well.
 SANCTUM.srt 	SANCTUM_DVS511 	01:35:26,00 --> 01:35:33,50 	his father's side, someone drops to his knees and cradles his head in his hand.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS600 	00:39:57,00 --> 00:40:08,50 	now, a woman with a cloth over her nose and mouth uses a stick to pick up an article of clothing from a pile and drop it into a small fire burning in the middle of a patio.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1193 	01:20:40,00 --> 01:20:45,50 	the fan drops from her grasp.
@@ -267,10 +215,8 @@ SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS120 	00:23:39,00 --> 00:23:45,
 SOUL_SURFER.srt 	SOUL_SURFER_DVS74 	00:24:47,00 --> 00:24:54,50 	she drops the cordless phone and sprints across the room.
 SOUL_SURFER.srt 	SOUL_SURFER_DVS93 	00:33:34,00 --> 00:33:38,50 	someone drops his fork.
 SOUL_SURFER.srt 	SOUL_SURFER_DVS185 	00:56:05,00 --> 00:56:10,50 	she lets it drop to her chest and blinks back tears.
-SUPER_8.srt 	SUPER_8_DVS28 	00:03:05,00 --> 00:03:10,50 	someone drops his gaze as the man walks inside.
 SUPER_8.srt 	SUPER_8_DVS102 	00:17:23,00 --> 00:17:31,50 	as the front train cars rise into the air and crash into poll, the boys drop the camera and scurry down the platform.
 SUPER_8.srt 	SUPER_8_DVS161 	00:25:47,00 --> 00:25:53,50 	later, someone drops the boys off on a street outside someone's house.
-SUPER_8.srt 	SUPER_8_DVS255 	00:43:04,00 --> 00:43:09,50 	someone drops a flashlight, the men turn and stare at him.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS61 	00:08:57,00 --> 00:09:03,50 	behind him a cat pushes open a window and drops inside.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS125 	00:19:48,00 --> 00:19:54,50 	someone drops to the floor as bullets rip through the front door.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS128 	00:20:00,00 --> 00:20:06,50 	the mustached american drops a newspaper as he keels forward,
@@ -278,18 +224,14 @@ THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS161 	00:24:39,00 --> 0
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS276 	00:40:11,00 --> 00:40:21,50 	meanwhile avoiding the gunfire someone drops to a lower level, then kicks a thug down a staircase.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS282 	00:40:40,00 --> 00:40:50,50 	the lifeboat drops into the ocean with everyone aboard.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS341 	00:52:38,00 --> 00:52:45,50 	the plane drops into a step dive.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS346 	00:53:01,00 --> 00:53:08,50 	snowy drops to the floor of the plane as it rises steeply upwards, then stalls and falls again.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS376 	00:56:00,00 --> 00:56:06,50 	kicking his legs he drops onto the back of the plane as it pitches forward.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS380 	00:56:21,00 --> 00:56:32,50 	the propeller slows to a stop then drops off.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS383 	00:56:48,00 --> 00:56:52,50 	someone drops to his knees.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS391 	00:57:55,00 --> 00:58:00,50 	snowy drags a large bone then drops it.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS463 	01:07:36,00 --> 01:07:42,50 	he catches the feather in his mouth then drops it to his hand.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS470 	01:08:38,00 --> 01:08:43,50 	he cuts a rope, dropping a lantern and lighting the gun powder.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS481 	01:09:29,00 --> 01:09:34,50 	the pirate drops to his knees then falls over.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS579 	01:19:42,00 --> 01:19:51,50 	the falcon breaks of its center mast,snowy raises after the falcon, which grabs the boat model in its talons then drops it on the floor.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS597 	01:21:20,00 --> 01:21:27,50 	he drops the launcher.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS24 	00:05:17,00 --> 00:05:22,50 	someone drops his gaze.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS197 	00:37:55,00 --> 00:38:01,50 	he glances at someone, then drops his head.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS208 	00:39:17,00 --> 00:39:37,50 	his jaw drops as he spots an eviction notice taped to it.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS49 	00:09:31,00 --> 00:09:36,50 	someone drops his taco on his plate.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS81 	00:15:53,00 --> 00:16:20,50 	in the bathroom, he drops someone's toothbrush in the toilet, then places it back in its holder.
@@ -297,107 +239,77 @@ THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS350 	01:05:08,00 --> 01:05:14,50 	dr
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS378 	01:11:57,00 --> 01:12:04,50 	someone drops her gaze, fiddling with her silky honey-brown hair.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS406 	01:16:36,00 --> 01:16:40,50 	someone drops by.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS556 	01:39:33,00 --> 01:39:40,50 	someone drops his gun.
-THE_CALL.srt 	THE_CALL_DVS539 	00:41:39,00 --> 00:41:44,50 	backing away, he drops the shovel and turns.
 THE_CALL.srt 	THE_CALL_DVS920 	01:10:34,00 --> 01:10:40,50 	someone picks up a green rubber glove, then drops it disgustedly.
 THE_CALL.srt 	THE_CALL_DVS951 	01:13:14,00 --> 01:13:20,50 	she rubs the broken face of the phone and drops it back on the ground.
-THE_CALL.srt 	THE_CALL_DVS962 	01:13:52,00 --> 01:13:59,50 	taking out her phone, she fumbles with it over the hole and drops it.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS52 	00:11:21,00 --> 00:11:27,50 	hunched forward, someone drops his hollow gaze.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS205 	00:33:35,00 --> 00:33:41,50 	his gaze fixes on someone, then drops morosely.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS351 	00:53:56,00 --> 00:54:02,50 	he drops to his hands and knees, hanging his head low to the ground.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS487 	01:10:33,00 --> 01:10:39,50 	she drops a large, fashionable tote in the sand, walks to the water's edge, and cups her hands around her mouth.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS673 	01:34:14,00 --> 01:34:20,50 	two more cousins drop off folded slips of paper into the wooden bowl.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS819 	01:49:00,00 --> 01:49:05,50 	someone drops her arms to her sides, then steps around the couch and takes a seat
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS205 	00:25:27,00 --> 00:25:33,50 	then drops her bag,
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS225 	00:27:12,00 --> 00:27:16,50 	he drops the phone to his side.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS372 	00:45:40,00 --> 00:45:46,50 	he lifts the bag away and then lets it drop.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS461 	00:53:39,00 --> 00:53:46,50 	jamming a pillow under her hips, he drops her upon it.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS469 	00:54:16,00 --> 00:54:22,50 	as her captor drops his pants, she thrashes wrathfully.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS508 	00:57:01,00 --> 00:57:05,50 	unlocking it she drops her keys.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS509 	00:57:03,00 --> 00:57:09,50 	her bag drops onto the floor and her keys and the check plunk onto a table.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS541 	01:01:08,00 --> 01:01:15,50 	moving a box of research materials someone drops some folders and envelopes.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS714 	01:19:57,00 --> 01:20:08,50 	taking them, she curtly drops them on the table as she heads out of the room.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS919 	01:42:13,00 --> 01:42:19,50 	our view drops to someone's information right below it.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1119 	01:57:25,00 --> 01:57:32,50 	under someone's cold stare he takes the knife from his coat and drops it on the counter.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1120 	01:57:30,00 --> 01:57:33,50 	meanwhile, hurrying from the archives someone drops off the keys at the empty security booth.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1146 	02:01:08,00 --> 02:01:15,50 	at the cottage someone drops her helmet and bag then looks around for someone.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1306 	02:19:17,00 --> 02:19:22,50 	he drops it on his desk.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1379 	02:27:57,00 --> 02:28:02,50 	she removes her earrings and lets them drop down a sink's drain.
 THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS224 	01:14:29,00 --> 01:14:34,50 	then drops his head and sighs.
 THE_SITTER.srt 	THE_SITTER_DVS97 	00:52:18,00 --> 00:52:23,50 	rolls over and drops the keys in his palms.
-THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS98 	00:31:53,00 --> 00:31:59,50 	drops his gaze then smiles and swings his arms.
-THE_VOW.srt 	THE_VOW_DVS58 	00:04:40,00 --> 00:04:46,50 	she smiles, he drops his gaze and grins sheepishly.
 THE_VOW.srt 	THE_VOW_DVS110 	00:11:43,00 --> 00:11:52,50 	hurrying up a flight of stairs, someone drops his someone mnemonic menu and pauses to snatch it up.
 THE_VOW.srt 	THE_VOW_DVS157 	00:16:28,00 --> 00:16:33,50 	someone drops his dejected gaze.
 THE_VOW.srt 	THE_VOW_DVS391 	00:55:07,00 --> 00:55:13,50 	she drops her admonished gaze.
 THE_VOW.srt 	THE_VOW_DVS523 	01:13:33,00 --> 01:13:41,50 	in the apartment, someone drops a jacket on a chair and carries a stack of mail to a coffee table.
-THE_VOW.srt 	THE_VOW_DVS613 	01:24:26,00 --> 01:24:32,50 	he twists the pen shut, drops it and leaves the table.
-THE_VOW.srt 	THE_VOW_DVS651 	01:30:36,00 --> 01:30:42,50 	someone shakes her head and drops her face in her hands.
 THE_WATCH.srt 	THE_WATCH_DVS181 	00:32:56,00 --> 00:33:01,50 	he drops the egg and shoves off on his board.
 THE_WATCH.srt 	THE_WATCH_DVS335 	00:58:00,00 --> 00:58:05,50 	someone grabs several boxes and drops one.
 THE_WATCH.srt 	THE_WATCH_DVS378 	01:06:43,00 --> 01:06:47,50 	she drops out of sight.
 THE_WATCH.srt 	THE_WATCH_DVS489 	01:27:30,00 --> 01:27:36,50 	several aliens drop from the ceiling.
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS78 	00:23:26,00 --> 00:23:30,50 	he drops his pizza box.
-THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS236 	00:59:23,00 --> 00:59:30,50 	he flips a record between his hands, sets it on the player, and gently drops the needle.
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS403 	01:34:49,00 --> 01:34:55,50 	dropping the book on the coffee table,
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS454 	01:44:58,00 --> 01:45:02,50 	he drops to one knee.
-THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS29 	00:03:52,00 --> 00:04:05,50 	he grabs someone who drops the case with the device over the roof.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS57 	00:08:05,00 --> 00:08:10,50 	she drops her face in the towel.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS196 	00:37:38,00 --> 00:37:46,50 	he drops the file in front of someone.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS230 	00:42:50,00 --> 00:42:55,50 	dropping to the floor, the agent shoot their assailants.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS234 	00:43:10,00 --> 00:43:20,50 	someone drops to the floor as someone shoots.
-THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS234 	00:43:10,00 --> 00:43:20,50 	someone and someone give chase, dropping the bald man.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS299 	00:54:47,00 --> 00:54:54,50 	someone drops onto the roof and throws in a canister.
-THOR.srt 	THOR_DVS233 	00:31:24,00 --> 00:31:31,50 	as the truck pulls away, a glowing object drops out of the sky and crashes in the distance.
-THOR.srt 	THOR_DVS471 	01:17:32,00 --> 01:17:40,50 	at a table, someone sits beside someone, who drops a digestive tablet into a glass of water.
-THOR.srt 	THOR_DVS483 	01:19:03,00 --> 01:19:11,50 	someone's mouth drops open as he turns toward his four friends standing outside the labs glass entrance.
 THOR.srt 	THOR_DVS483 	01:19:03,00 --> 01:19:11,50 	someone drops a coffee mug.
-THOR.srt 	THOR_DVS655 	01:38:03,00 --> 01:38:13,50 	the real someone flies backward and drops his spear as he falls onto the bridge.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS243 	00:32:06,00 --> 00:32:11,50 	he drops a rolled up dollar.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS246 	00:32:20,00 --> 00:32:26,50 	he drops the rolled up dollar and slides back to retrieve it.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS547 	01:00:24,00 --> 01:00:28,50 	the ref drops the puck.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS572 	01:03:20,00 --> 01:03:24,50 	someone drops his gaze and works his lips.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS659 	01:13:44,00 --> 01:13:48,50 	at a game, a ref drops the puck.
-TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS718 	01:19:29,00 --> 01:19:36,50 	someone drops his stick, shakes off his gloves, and removes his helmet.
-TRUE_GRIT.srt 	TRUE_GRIT_DVS125 	00:32:47,00 --> 00:32:52,50 	she drops the money on a table and leaves.
 TRUE_GRIT.srt 	TRUE_GRIT_DVS174 	00:38:05,00 --> 00:38:10,50 	then drops a pile of logs on the fire.
 TRUE_GRIT.srt 	TRUE_GRIT_DVS223 	00:48:04,00 --> 00:48:08,50 	the corpse drops.
 TRUE_GRIT.srt 	TRUE_GRIT_DVS398 	01:19:25,00 --> 01:19:31,50 	someone drops the bucket and it floats away on the water.
 TRUE_GRIT.srt 	TRUE_GRIT_DVS572 	01:40:20,00 --> 01:40:24,50 	someone staggers to a halt and drops to his knees.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS264 	00:25:26,00 --> 00:25:31,50 	someone's jaw drops into a gleeful grin.
-UGLY_TRUTH.srt 	UGLY_TRUTH_DVS339 	00:39:02,00 --> 00:39:08,50 	he drops it aside with a smirk, then glances up toward the
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS210 	00:36:23,00 --> 00:36:31,50 	someone drops his posts, hurdles the fence, and lands in a thicket of nettles.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS236 	00:39:31,00 --> 00:39:39,50 	she drops a stack of invoices in front of him and saunters off in her puppy-appliqued sweatshirt.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS355 	00:57:13,00 --> 00:57:25,50 	he drops back down to 	all fours and sniffs the side mirror.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS373 	00:59:49,00 --> 00:59:56,50 	its door drops shut.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS411 	01:04:30,00 --> 01:04:38,50 	his jaw drops as he examines some pie charts, and he gives someone an amazed look.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS430 	01:07:52,00 --> 01:07:56,50 	someone drops his knife.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS149 	00:19:01,00 --> 00:19:07,50 	her jaw drops open and she moves his arm off of her.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS153 	00:19:12,00 --> 00:19:17,50 	she drops down on her knees.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS444 	01:02:08,00 --> 01:02:17,50 	someone watches as he drops his jeans.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS450 	01:02:51,00 --> 01:03:02,50 	the ball drops in the hoop three times.
-WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS458 	01:04:28,00 --> 01:04:34,50 	following him, someone drops her high heels and loses the button-down shirt.
-WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS502 	01:11:36,00 --> 01:11:41,50 	she drops the cell phone on him and walks out.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS380 	00:32:04,00 --> 00:32:11,50 	someone clutches his head and drops to his knees, as memories of someone torturing him flood his mind.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS625 	00:58:09,00 --> 00:58:15,50 	the russian's eyes close and his head drops.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS797 	01:11:38,00 --> 01:11:44,50 	the mutant lightly taps it and it drops out of the window.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS881 	01:20:28,00 --> 01:20:33,50 	lowering his arms, he drops his head.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1032 	01:33:17,00 --> 01:33:21,50 	someone drops someone to the floor.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1147 	01:42:35,00 --> 01:42:43,50 	someone loses control and the submarine drops to the edge of the sandy shore, landing on its side.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1222 	01:49:14,00 --> 01:49:27,50 	beast throws someone, then strikes his chest, dropping him face down on the sand.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1251 	01:52:52,00 --> 01:52:59,50 	someone lets him drop onto the sand.
-YOUNG_ADULT.srt 	YOUNG_ADULT_DVS83 	00:12:24,00 --> 00:12:30,50 	she opens her suitcase and drops some clothing onto the floor.
 YOUNG_ADULT.srt 	YOUNG_ADULT_DVS85 	00:12:34,00 --> 00:12:41,50 	someone carries an armful of toiletries into the bathroom and drops them onto the counter.
 YOUNG_ADULT.srt 	YOUNG_ADULT_DVS162 	00:30:26,00 --> 00:30:31,50 	someone smiles and drops her eyes.
 YOUNG_ADULT.srt 	YOUNG_ADULT_DVS196 	00:37:54,00 --> 00:37:59,50 	someone drops the figurine.
 YOUNG_ADULT.srt 	YOUNG_ADULT_DVS386 	01:14:19,00 --> 01:14:24,50 	he drops the sticks then hurries toward someone.
-YOUNG_ADULT.srt 	YOUNG_ADULT_DVS397 	01:17:27,00 --> 01:17:33,50 	someone takes off her sweater and dress and drops them on the floor.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS69 	00:05:52,00 --> 00:05:59,50 	circling back to his car door, the narrator drops his keys.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS140 	00:12:14,00 --> 00:12:20,50 	someone picks one up then drops it.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS381 	00:43:35,00 --> 00:43:41,50 	he drops another.
-ZOMBIELAND.srt 	ZOMBIELAND_DVS473 	00:55:20,00 --> 00:55:25,50 	but drop him before they reach the railing.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS572 	01:06:46,00 --> 01:06:53,50 	someone drops one with a keen shot.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS757 	01:21:16,00 --> 01:21:21,50 	someone drops the twinkie remnants.
 ZOOKEEPER.srt 	ZOOKEEPER_DVS97 	00:20:29,00 --> 00:20:34,50 	a wire basket drops from his hand.
 ZOOKEEPER.srt 	ZOOKEEPER_DVS99 	00:20:55,00 --> 00:21:00,50 	he drops into the rock ledge and lands on his back.
-ZOOKEEPER.srt 	ZOOKEEPER_DVS347 	01:17:54,00 --> 01:18:14,50 	someone drops his pained gaze then returns it to someone who looks away.
 ZOOKEEPER.srt 	ZOOKEEPER_DVS380 	01:24:04,00 --> 01:24:09,50 	dropping to one knee, someone falters then straightens.

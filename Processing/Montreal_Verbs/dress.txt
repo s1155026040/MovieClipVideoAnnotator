@@ -1,88 +1,33 @@
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS389 	01:05:56,00 --> 01:06:03,50 	now in a theater dressing room someone curls her hair into ringlets.
-40_YEAR_OLD_VIRGIN.srt 	40_YEAR_OLD_VIRGIN_DVS58 	00:32:59,00 --> 00:33:09,50 	morning, dressed for work, someone uses tongs to put a waffle on a plate with some bacon.
 500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS412 	01:11:16,00 --> 01:11:20,50 	he's in his dressing gown.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS161 	00:14:47,00 --> 00:14:54,50 	two masked snipers dressed in all black, survey from the courthouse rooftop,
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS119 	00:12:52,00 --> 00:12:56,50 	he gets dressed.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS494 	01:09:11,00 --> 01:09:18,50 	looking past someone, someone finds someone arriving in the doorway dressed in mourning.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS678 	01:43:19,00 --> 01:43:25,50 	someone struts toward us, dressed in his someone disguise.
 BLINDDATING.srt 	BLINDDATING_DVS93 	00:26:58,00 --> 00:27:06,50 	outside, someone, dressed as a valet, helps someone in to a taxi.
-BLINDDATING.srt 	BLINDDATING_DVS276 	01:08:07,00 --> 01:08:21,50 	someone cleans her eyeglasses as she sits fully dressed.
-BURLESQUE.srt 	BURLESQUE_DVS268 	00:37:50,00 --> 00:37:57,50 	someone drops her bag back on the floor and plops into her chair at the dressing table.
 BURLESQUE.srt 	BURLESQUE_DVS438 	01:00:33,00 --> 01:00:39,50 	now someone hurries into the dressing room with a giddy smile.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS94 	00:14:55,00 --> 00:15:03,50 	as someone dresses in an examination room, a nurse walks in and whispers into a doctor's ear.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS451 	01:46:36,00 --> 01:46:42,50 	stadium, some dressed in suits, others in everyday clothes.
-COLOMBIANA.srt 	COLOMBIANA_DVS493 	00:43:26,00 --> 00:43:33,50 	a blonde woman turns from a mirror as a now casually dressed someone emerges.
 COLOMBIANA.srt 	COLOMBIANA_DVS738 	01:09:53,00 --> 01:09:57,50 	she dresses.
-DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS292 	01:12:43,00 --> 01:12:48,50 	someone appears behind her, dressed as a goat-man.
 DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS446 	01:48:55,00 --> 01:49:01,50 	someone's dressed as sherlock holmes.
-FLIGHT.srt 	FLIGHT_DVS27 	00:03:50,00 --> 00:03:58,50 	the man walks out of the room, dressed in a black suit and sporting dark glasses under a pilot's cap.
 FLIGHT.srt 	FLIGHT_DVS599 	01:22:58,00 --> 01:23:03,50 	a nurse dresses someone's wounds.
-FLIGHT.srt 	FLIGHT_DVS677 	01:31:46,00 --> 01:31:51,50 	in the morning, someone lies sleeping on the bed, fully dressed.
 FLIGHT.srt 	FLIGHT_DVS965 	01:54:20,00 --> 01:54:25,50 	a band aid on his forehead, and dressed in a suit.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS124 	00:20:07,00 --> 00:20:26,50 	now fully dressed, he slips out of his room and hurries down the hall.
-HUGO.srt 	HUGO_DVS136 	00:18:08,00 --> 00:18:14,50 	now well dressed and clean, someone stands with a blonde man with glasses.
-HUGO.srt 	HUGO_DVS506 	01:14:38,00 --> 01:14:43,50 	people dressed as lobsters march with tall spears.
 IN_TIME.srt 	IN_TIME_DVS386 	00:40:27,00 --> 00:40:32,50 	he encounters a fully dressed someone.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS262 	01:20:43,00 --> 01:21:07,50 	all dressed in the same baggy coveralls, the men and women line the small office.
-JACK_AND_JILL.srt 	JACK_AND_JILL_DVS86 	00:19:49,00 --> 00:19:57,50 	now, someone and someone exits a shop called my tiny me dressed in costumes.
-JACK_AND_JILL.srt 	JACK_AND_JILL_DVS166 	00:33:20,00 --> 00:33:27,50 	someone holds a doll that looks exactly like someone dressed in a matching outfit.
-JACK_AND_JILL.srt 	JACK_AND_JILL_DVS352 	01:06:42,00 --> 01:06:52,50 	now dressed as someone, someone exits the stall.
-JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS74 	00:09:19,00 --> 00:09:28,50 	someone rushes into a someone bistro and greets a table of three smartly dressed women, one of whom talks on her cellphone.
-JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS227 	00:42:31,00 --> 00:42:38,50 	dressed like someone child, someone puts her hands on her hips and faces her guests.
-JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS354 	01:07:53,00 --> 01:07:59,50 	dressed like someone child, dan aykroyd faces the camera.
 KARATE_KID.srt 	KARATE_KID_DVS241 	00:21:09,00 --> 00:21:14,50 	a smartly dressed administrator waits for them.
 KATY_PERRY_PART_OF_ME.srt 	KATY_PERRY_PART_OF_ME_DVS38 	00:06:13,00 --> 00:06:19,50 	performers dress backstage.
-KATY_PERRY_PART_OF_ME.srt 	KATY_PERRY_PART_OF_ME_DVS229 	00:56:53,00 --> 00:57:05,50 	she descends a set of steps, then joins the colorfully dressed dancers.
 KATY_PERRY_PART_OF_ME.srt 	KATY_PERRY_PART_OF_ME_DVS250 	00:58:55,00 --> 00:59:03,50 	four men dressed like someone.
-KATY_PERRY_PART_OF_ME.srt 	KATY_PERRY_PART_OF_ME_DVS315 	01:11:46,00 --> 01:11:52,50 	a male performer dressed in a sequined costume stands with his hands over his mouth.
 KNOCKED_UP.srt 	KNOCKED_UP_DVS16 	00:16:55,00 --> 00:17:03,50 	someone, standing and dressed, wrinkles her brow at someone's butt.
-LITTLE_FOCKERS.srt 	LITTLE_FOCKERS_DVS20 	00:07:09,00 --> 00:07:41,50 	a framed photo shows someone with a bedouin, dressed as a bedouin.
-MORNING_GLORY.srt 	MORNING_GLORY_DVS55 	00:09:39,00 --> 00:09:45,50 	now dressed in a suit, someone runs off a bus towards a ferry.
-MORNING_GLORY.srt 	MORNING_GLORY_DVS142 	00:33:16,00 --> 00:33:21,50 	someone goes from one dressing room to the other.
-MORNING_GLORY.srt 	MORNING_GLORY_DVS240 	00:52:39,00 --> 00:52:44,50 	someone's wearing a cream dressing gown.
-MORNING_GLORY.srt 	MORNING_GLORY_DVS328 	01:13:59,00 --> 01:14:04,50 	live on daybreak, someone is dressed in a sumo suit.
 MORNING_GLORY.srt 	MORNING_GLORY_DVS371 	01:21:20,00 --> 01:21:25,50 	someone's in his dressing room on the phone.
-MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS76 	00:11:51,00 --> 00:11:59,50 	now fully dressed, someone opens his front door and finds a wooden crate waiting for him in a hallway.
-NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS155 	00:25:25,00 --> 00:25:31,50 	later they get dressed and someone hand someone his top.
-NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS189 	00:33:21,00 --> 00:33:28,50 	as she gets dressed she smiles and steps closer to someone who's sitting up in bed.
-NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS349 	01:05:39,00 --> 01:05:46,50 	a smartly dressed someone sits on the bonnet of his car waiting outside the hospital,
-NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS396 	01:12:55,00 --> 01:13:02,50 	still in her pretty silver dress someone walks into the hospital.
 NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS443 	01:19:40,00 --> 01:19:46,50 	someone and someone both elegantly dressed in white kiss passionately.
 PROMETHEUS.srt 	PROMETHEUS_DVS817 	01:27:37,00 --> 01:27:42,50 	a man dressed in white notices her,
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS409 	01:19:08,00 --> 01:19:14,50 	someone unrolls a bandage and dresses someone's wound.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS341 	01:23:21,00 --> 01:23:42,50 	the sheriff's male servants depart, but a crone dressed in black remains at the table.
-RUBY_SPARKS.srt 	RUBY_SPARKS_DVS520 	01:21:08,00 --> 01:21:15,50 	someone faces him, dressed to leave with her bag slung over her shoulder.
 SALT.srt 	SALT_DVS364 	01:04:47,00 --> 01:04:58,50 	in a flashback, someone glimpses young boys dressed in identical stripe shirts.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS45 	00:03:28,00 --> 00:03:33,50 	the casually dressed young woman rides a bicycle.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS235 	00:16:20,00 --> 00:16:29,50 	a plump woman dressed in a colorful someone robe pushes aside the curtain on the enclosed litter and steps out.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS440 	00:29:14,00 --> 00:29:18,50 	a short-haired woman dressed in all black
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS771 	00:51:30,00 --> 00:51:37,50 	now dressed for an interview, someone stands up as sebastian walks another female applicant out of his office.
-SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS188 	00:36:31,00 --> 00:36:38,50 	as two cops approach, someone and someone are suddenly dressed as policemen.
-SPARKLE_2012.srt 	SPARKLE_2012_DVS216 	00:34:09,00 --> 00:34:15,50 	backstage in an overcoat, sister approaches her sisters already dressed.
-SPARKLE_2012.srt 	SPARKLE_2012_DVS642 	01:45:38,00 --> 01:45:45,50 	a partition rises, revealing a gospel choir of singers dressed in white robes.
-SUPER_8.srt 	SUPER_8_DVS188 	00:31:19,00 --> 00:31:25,50 	on a grassy hill, someone fires a cap gun at someone who is dressed like a zombie.
-SUPER_8.srt 	SUPER_8_DVS656 	01:44:16,00 --> 01:44:24,50 	dressed in a suit and hat, someone walks up to the chalk outline of a body drawn around a pool of blood.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS218 	00:43:54,00 --> 00:44:03,50 	he flops onto his back fully dressed and in his shoes and scooches around getting comfy.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS156 	00:25:59,00 --> 00:26:08,50 	fully dressed and curled up on a sofa, someone faces its back and rests her chin on her folded arms.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS699 	01:38:24,00 --> 01:38:30,50 	a gauze dressing covers the stoma in her trachea,
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS77 	00:07:11,00 --> 00:07:21,50 	dressed in black with a matching leather jacket she enters avoiding their gaze and takes a seat at the far end of the conference table.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS102 	00:10:34,00 --> 00:10:41,50 	listening as a richly dressed older woman punches in an entry code.
-THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS98 	00:34:40,00 --> 00:34:46,50 	he looks over to see someone, dressed in a plum-colored robe,
-THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS86 	00:26:36,00 --> 00:26:47,50 	wearing shorts, he briefly hugs himself then hops around and faces his warmly dressed friend.
 THE_VOW.srt 	THE_VOW_DVS222 	00:28:25,00 --> 00:28:33,50 	at a dressing table, someones fingers glide over a drawing of a reclined female figure in a sketchbook.
-THE_VOW.srt 	THE_VOW_DVS233 	00:30:00,00 --> 00:30:05,50 	someone remains at the dressing table.
-THE_VOW.srt 	THE_VOW_DVS445 	01:04:07,00 --> 01:04:13,50 	later, he walks a demurely dressed someone to his wagoneer.
 THE_WATCH.srt 	THE_WATCH_DVS294 	00:53:24,00 --> 00:53:29,50 	they dress it in a wig and lingerie.
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS43 	00:11:59,00 --> 00:12:04,50 	he dresses hastily.
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS125 	00:36:06,00 --> 00:36:11,50 	dressed in the form-fitting cocktail dress.
-THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS129 	00:36:32,00 --> 00:36:38,50 	dressed in a chauffeur's uniform, someone turns forward and drives off.
-THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS373 	01:29:08,00 --> 01:29:16,50 	finding a photo of someone as a boy, dressed in a football uniform and posing on one knee, she picks it up.
-THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS414 	01:36:15,00 --> 01:36:23,50 	later, someone gazes at a framed photo of himself and someone dressed as blue na'vi from avatar.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS358 	01:04:54,00 --> 01:05:01,50 	dressed for work, someone tiptoes out from her bathroom and gathers her things.
-THOR.srt 	THOR_DVS103 	00:15:14,00 --> 00:15:21,50 	where a man dressed in gleaming gold armor and clutching a sword stands outside.
 TRUE_GRIT.srt 	TRUE_GRIT_DVS578 	01:40:42,00 --> 01:40:50,50 	a figure dressed in white long-johns steps out onto the front porch with a lantern.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS155 	00:19:15,00 --> 00:19:20,50 	a crisply dressed someone walks with someone.
-WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS526 	01:13:48,00 --> 01:13:55,50 	at a dressing table, someone faces a mirror as she backcombs her hair.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS629 	00:58:23,00 --> 00:58:29,50 	dressed in only her underwear, she nibbles a cracker.
-YOUNG_ADULT.srt 	YOUNG_ADULT_DVS284 	00:55:27,00 --> 00:55:32,50 	still dressed, she lies sideways across her bed.
-ZOMBIELAND.srt 	ZOMBIELAND_DVS408 	00:46:45,00 --> 00:46:52,50 	as someone and someone hop out, a zombie dressed as someone runs at them.

@@ -1,6 +1,3 @@
-BAD_TEACHER.srt 	BAD_TEACHER_DVS235 	01:04:59,00 --> 01:05:07,50 	now she visits someone who paces.
-FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS213 	00:56:11,00 --> 00:56:18,50 	later she visits someone as he packs for his trip.
-HUGO.srt 	HUGO_DVS117 	00:15:21,00 --> 00:15:28,50 	the girl who visited the shopkeeper earlier is visible in an upper window.
 HUGO.srt 	HUGO_DVS164 	00:23:18,00 --> 00:23:23,50 	claude and someone visit a grave site.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS110 	00:18:48,00 --> 00:18:53,50 	in paris, someone visits an outdoor market.
 MORNING_GLORY.srt 	MORNING_GLORY_DVS214 	00:48:21,00 --> 00:48:26,50 	next she visits the algonquin.

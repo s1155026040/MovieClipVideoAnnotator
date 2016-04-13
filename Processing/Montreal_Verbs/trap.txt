@@ -1,11 +1,3 @@
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS190 	00:25:42,00 --> 00:26:00,50 	as the trapped hunter looks on, the vampire opens a gleaming straight razor, turns it over and touches the blade.
 DISTRICT_9.srt 	DISTRICT_9_DVS696 	01:21:51,00 --> 01:21:56,50 	the pickup's tail gate trapping them.
-PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS127 	00:32:45,00 --> 00:32:54,50 	someone mimes being trapped in a box, changing facial expressions with the sweep of the hand and tugging a rope.
-PROMETHEUS.srt 	PROMETHEUS_DVS439 	00:45:43,00 --> 00:45:59,50 	the two trapped men move on through the dark cramped space.
-PROMETHEUS.srt 	PROMETHEUS_DVS787 	01:24:35,00 --> 01:24:43,50 	the doors close back up, trapping the baby alien inside, and a white mist fills the chamber.
-SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS281 	00:57:37,00 --> 00:57:45,50 	meanwhile, trapped in the mirror, someone sees a student walk by.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS212 	00:42:59,00 --> 00:43:11,50 	trapped by the handcuffs, she plops onto the bed.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS447 	01:19:37,00 --> 01:19:46,50 	trapping the car.
-TRUE_GRIT.srt 	TRUE_GRIT_DVS468 	01:31:19,00 --> 01:31:24,50 	his leg is trapped beneath it
 TRUE_GRIT.srt 	TRUE_GRIT_DVS484 	01:32:23,00 --> 01:32:27,50 	and traps him in her sights.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1227 	01:50:19,00 --> 01:50:26,50 	the girder trapping someone falls and he steps around the someone to face him.

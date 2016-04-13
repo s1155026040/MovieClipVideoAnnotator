@@ -1,11 +1,81 @@
-0002_As_Good_As_It_Gets_01.25.04.031-01.25.04.951 	Simon and Carol stunned by the manners.
-0011_Gandhi_01.35.36.396-01.35.40.860 	The British are stunned almost to speechlessness -- the audacity, the impossibility of it -- and from Gandhi of all people.
-0014_Ist_das_Leben_nicht_schoen_01.30.55.350-01.30.56.040 	Mary and the children stare at him, stunned by his furious outburst.
+0001_American_Beauty_00.45.46.244-00.45.48.309 	she sinks into a chair, stunned.
+0001_American_Beauty_01.25.00.941-01.25.01.297 	jane is stunned.
+0001_American_Beauty_01.38.20.848-01.38.24.116 	angela stares at him, stunned, then starts toward the door.
+0001_American_Beauty_01.41.18.866-01.41.20.263 	lester is momentarily stunned, and then he pushes the colonel away.
+0002_As_Good_As_It_Gets_01.25.04.031-01.25.04.951 	simon and carol stunned by the manners.
+0011_Gandhi_01.10.28.165-01.10.29.925 	charlie is stunned, and obviously hurt.
+0011_Gandhi_01.35.36.396-01.35.40.860 	the british are stunned almost to speechlessness -- the audacity, the impossibility of it -- and from gandhi of all people.
+0014_Ist_das_Leben_nicht_schoen_01.30.55.350-01.30.56.040 	mary and the children stare at him, stunned by his furious outburst.
+0014_Ist_das_Leben_nicht_schoen_01.57.45.334-01.57.46.251 	george stands a moment, stunned.
+0016_O_Brother_Where_Art_Thou_00.15.15.870-00.15.18.941 	everett is stunned.
+0016_O_Brother_Where_Art_Thou_00.53.30.191-00.53.30.270 	delmar, though stunned, is faster to size things up.
+0016_O_Brother_Where_Art_Thou_01.11.39.753-01.11.42.970 	now it is pete's turn to be stunned.
+0016_O_Brother_Where_Art_Thou_01.18.09.478-01.18.10.170 	the crowd is stunned.
+0016_O_Brother_Where_Art_Thou_01.20.11.723-01.20.15.518 	everett is stunned.
+0016_O_Brother_Where_Art_Thou_01.24.20.440-01.24.25.510 	everett, still trying to get penny's attention, looks up, stunned at the ovation.
+0023_THE_BUTTERFLY_EFFECT_00.06.02.554-00.06.06.025 	he seems stunned to find himself holding the knife and drops it.
+0023_THE_BUTTERFLY_EFFECT_00.55.23.301-00.55.25.140 	evan, still stunned, can do little but stare from the floor.
+0023_THE_BUTTERFLY_EFFECT_01.14.00.102-01.14.02.817 	evan stands there, stunned, unable to react when -- another neo-nazi, rick, swats evan's journals out of his hands and onto the floor.
+0023_THE_BUTTERFLY_EFFECT_01.48.45.518-01.48.46.706 	evan looks stunned.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.16.56.975-00.16.57.215 	stunned gasps from his young audience greet his astonishing feat!
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.29.25.292-01.29.27.327 	stunned silence.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.28.53.545-00.28.54.789 	elrond stands -- stunned.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.09.43.897-02.09.50.728 	stunned, eowyn tries to stand and is hit once again with another crippling blow.
+0026_The_Big_Fish_00.49.06.975-00.49.09.321 	angle on amos, stunned, megaphone dangling.
+0026_The_Big_Fish_01.05.34.422-01.05.35.886 	don stands stunned, his mind reeling.
+0027_The_Big_Lebowski_01.32.59.264-01.33.00.346 	the dude is stunned.
+0030_The_Hustler_01.20.26.970-01.20.45.229 	sarah is stunned and moves to him.
+0032_The_Princess_Bride_00.16.21.814-00.16.28.721 	vizzini, stunned, turning to the others, looking down.
+0032_The_Princess_Bride_00.23.04.501-00.23.04.884 	the man in black, stunned, doing everything be can to keep inigo by the cliff edge.
+0032_The_Princess_Bride_00.53.42.071-00.53.43.132 	buttercup, touched as before, but then she seems stunned as we.
+0032_The_Princess_Bride_00.54.58.116-00.55.00.643 	just stunned.
+0033_Amadeus_02.48.27.127-02.48.30.237 	he stares at her, stunned.
+0043_Thelma_and_Luise_01.13.28.003-01.13.31.179 	louise is completely stunned.
+0049_Hannah_and_her_sisters_00.59.34.289-00.59.38.646 	stunned, he slowly lowers the phone receiver.
+0049_Hannah_and_her_sisters_01.29.02.763-01.29.04.658 	she is stunned.
+0050_Indiana_Jones_and_the_last_crusade_00.47.50.202-00.47.53.740 	stunned, indy sinks to one knee.
+0050_Indiana_Jones_and_the_last_crusade_00.52.36.621-00.52.41.404 	indy is stunned.
+0051_Men_in_black_00.37.01.451-00.37.04.200 	edwards, stunned, looks at kay as 4-eyes boots her onto the screen: mean face, cat glasses.
+0053_Rendezvous_mit_Joe_Black_00.25.13.219-00.25.18.558 	parrish is stunned.
+0053_Rendezvous_mit_Joe_Black_00.32.00.566-00.32.07.000 	parrish is shocked, stunned, terrified at the word, by what he has comprehended.
+0053_Rendezvous_mit_Joe_Black_01.10.20.375-01.10.22.979 	drew is stunned.
+1005_Signs_01.22.19.096-01.22.23.972 	merrill and graham stand and stare at him, stunned.
+1006_Slumdog_Millionaire_00.36.28.940-00.36.31.859 	jamal looked stunned.
+1014_2012_00.16.13.030-00.16.18.031 	standing on the garnd way, the barrel looks stunned as the moored ship lists up and down dramatically in san francisco harbor.
+1030_Public_Enemies_01.26.11.249-01.26.16.095 	purvis stares, stunned, then opens a rear door.
 1033_Sherlock_Holmes_A_Game_of_Shadows_01.31.09.321-01.31.13.988 	holmes lies still for a few moments, temporarily stunned by the blast.
+1033_Sherlock_Holmes_A_Game_of_Shadows_01.56.26.749-01.56.38.133 	stunned, watson stares blankly as they disappear from view then closes his eyes.
+1043_Vantage_Point_00.07.52.234-00.07.54.579 	the gallery is stunned.
+1043_Vantage_Point_00.15.53.170-00.15.56.887 	taylor yells to a stunned barnes.
+1045_An_education_00.33.31.014-00.33.34.560 	stunned jenny looks to her mother.
+1045_An_education_01.26.30.444-01.26.32.098 	stunned, jenny turns to leave.
+1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.22.31.723-00.22.35.297 	stunned, everyone looks at each other in shock.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.32.22.550-01.32.24.734 	hermione's spell stuns the snake.
-1050_Harry_Potter_and_the_deathly_hallows_Disk_One_02.08.48.821-02.08.57.578 	harry snatches the wands from draco and stuns lucius.
+1051_Harry_Potter_and_the_goblet_of_fire_00.34.31.997-00.34.44.898 	looking stunned, harry walks the length of the hall, uncomfortably aware of unfriendly looks from his fellow students.
+1051_Harry_Potter_and_the_goblet_of_fire_01.37.14.220-01.37.20.333 	sparks fly, stunning the grindylows and sending them flying in all directions.
 1051_Harry_Potter_and_the_goblet_of_fire_02.11.34.472-02.11.44.464 	the students stand, stunned into silence.
 1052_Harry_Potter_and_the_order_of_phoenix_01.51.15.179-01.51.17.987 	neville stuns a death eater.
+1053_Harry_Potter_and_the_philosophers_stone_02.20.45.597-02.20.51.372 	he looks completely stunned.
+1059_The_devil_wears_prada_01.18.18.000-01.18.23.000 	models in an array of stunning gowns sashay down the runway as cameras flash.
+1059_The_devil_wears_prada_01.34.50.307-01.34.56.363 	andy glances over at christian, who looks stunned.
+1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.46.33.109-01.46.35.528 	mouth agape, the stunned death eater raises her hands in the air.
+1062_Day_the_Earth_stood_still_00.58.41.363-00.58.47.159 	she gets into the driver's seat and sits looking stunned.
 2026_Legion_00.26.43.404-00.26.48.123 	jeep freezes, stunned by her words, overwhelming fear paralyzing him where he stands.
-2026_Legion_00.26.43.404-00.26.48.123 	jeep freezes, stunned by her words, overwhelming fear paralyzing him where he stands.
+2027_Les_Miserables_00.40.08.078-00.40.08.988 	the judge is too stunned to respond.
+2034_Super_8_00.07.44.920-00.07.46.138 	stunned and heartsick.
+2034_Super_8_00.19.04.330-00.19.07.711 	joe turns to see it -- stunned -- then back to the direction of the noise -- but it is gone.
 2034_Super_8_00.21.56.710-00.21.59.673 	push in on them as they arrive at the truck and stop; what they see makes joe's heart pound -- they're stunned -- all of them.
+2034_Super_8_00.28.17.792-00.28.18.993 	both stare at the train crash, stunned.
+2034_Super_8_00.49.34.380-00.49.39.018 	jack is stunned.
+2034_Super_8_00.51.12.100-00.51.16.346 	joe is stunned -- instantly humiliated in front of alice -- he's taken back to the squad car.
+2034_Super_8_00.52.43.993-00.52.47.327 	jack stops -- stunned -- joe's heart pounds.
+2034_Super_8_00.57.18.284-00.57.19.653 	joe is half asleep, but also stunned.
+2034_Super_8_00.59.57.330-01.00.02.628 	watching his mother, joe is quietly stunned.
+2034_Super_8_01.01.57.383-01.02.02.489 	she screams -- they both fall to the floor, stunned -- push in on joe, his heart pounding.
+2034_Super_8_01.11.23.069-01.11.27.201 	utterly stunned.
+2040_The_Ugly_Truth_01.14.20.156-01.14.24.415 	abby is flushed and stunned.
+2040_The_Ugly_Truth_01.21.51.491-01.21.57.104 	abby is hurt and stunned, but overcomes it with fierce and abiding hatred.
+2041_This_is_40_01.55.16.536-01.55.18.162 	debbie is stunned.
+2041_This_is_40_02.00.22.705-02.00.22.771 	pete looks stunned.
+2054_Harry_Potter_and_the_prisoner_of_azkaban_01.23.38.654-01.23.44.173 	stunned, he leaps to his feet and runs, crabbe and goyle huffing and puffing behind.
+2054_Harry_Potter_and_the_prisoner_of_azkaban_02.02.46.372-02.02.49.360 	stunned to see them.

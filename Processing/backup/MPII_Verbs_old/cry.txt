@@ -1,59 +1,90 @@
-0002_As_Good_As_It_Gets_01.06.11.789-01.06.21.681 	Well, he'll never get credit for the brief but intense inner struggle -- the struggle not to scream -- Not to cry -- to process the sudden and stunning hurt during his half turn away from her -- and then answer hoarsely.
-0005_Chinatown_01.34.01.988-01.34.08.111 	She begins to cry softly.
-0009_Forrest_Gump_01.41.23.406-01.41.25.750 	The woman is crying and wipes her eyes with a hankie.
-0010_Frau_Ohne_Gewissen_01.28.03.995-01.28.05.369 	She begins to cry again.
-0013_Halloween_00.56.16.170-00.56.18.651 	Almost instantly, Lindsey stops crying and follows him.
-0013_Halloween_01.20.19.867-01.20.20.175 	She begins crying softly, her eyes wide with fear.
-0013_Halloween_01.27.29.793-01.27.33.242 	Laurie begins to cry again, harder and harder.
-0014_Ist_das_Leben_nicht_schoen_00.11.29.099-00.11.37.076 	George is crying too.
-0014_Ist_das_Leben_nicht_schoen_01.25.36.848-01.25.40.668 	During this scene, George has been sitting in the chair, hugging Tommy to him, and crying quietly.
-0014_Ist_das_Leben_nicht_schoen_01.39.31.695-01.39.38.445 	The toll house keeper, hearing the cries for help, comes running out on the bridge with a flashlight, which he shines on the two figures struggling in the water below.
-0016_O_Brother_Where_Art_Thou_01.33.14.484-01.33.15.582 	Delmar cries out.
-0017_Pianist_00.31.11.752-00.31.14.905 	The only sounds, the weeping of the people opposite and, nearer, Mother crying softly.
-0017_Pianist_00.43.01.943-00.43.09.947 	Her cries continue at intervals.
-0017_Pianist_00.46.43.980-00.46.47.788 	The wailing of women and the cries of children.
-0019_Pulp_Fiction_00.18.48.068-00.18.50.841 	He's not crying or whimpering, but he's so full of fear, it's as if his body is imploding.
-0019_Pulp_Fiction_01.26.05.350-01.26.09.298 	Fabienne is crying and scared.
-0020_Raising_Arizona_00.12.00.385-00.12.01.533 	The baby stops crying and Florence's attention returns to her book.
-0020_Raising_Arizona_00.12.28.277-00.12.31.129 	Close on the crying baby as Hi bounces it, gently but desperately.
-0020_Raising_Arizona_01.25.00.957-01.25.03.476 	Ed starts crying softly as she gazes into the crib.
-0021_Rear_Window_01.24.16.438-01.24.20.766 	She breaks out sobbing anew, and returns to her apartment and out of sight, the crying growing fainter with her retreat.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.09.17.170-02.09.30.188 	Frodo cries out!
-0026_The_Big_Fish_01.25.23.728-01.25.26.569 	The Teller Woman is crying as she works the combination.
-0028_The_Crying_Game_01.41.17.164-01.41.20.853 	She begins to cry and lays the gun gently on his chest.
-0030_The_Hustler_01.48.11.420-01.48.13.286 	Then she starts to cry and starts to fall, but Bert holds her up by the shoulders.
-0031_The_Lost_Weekend_01.26.10.665-01.26.13.444 	Don cries out so hard his throat seems to burst apart, buries his horrified eyes in the back of his chair.
-0032_The_Princess_Bride_00.44.17.818-00.44.23.907 	Buttercup, perplexed, is about to reply but the ground she steps on gives way--it's Lightning Sand--a great patch of it, and it has her--a cloud of powder rises and she sinks into the stuff crying Westley's name but then she is gone as we.
-0032_The_Princess_Bride_01.27.05.273-01.27.06.263 	COUNT RUGEN, crying out in fear and panic as the sword hits home dead center and.
-0033_Amadeus_01.53.59.009-01.53.59.782 	The crowd all flock to Salieri with cries and words of approval.
-0041_The_Sixth_Sense_00.09.52.960-00.09.58.882 	VINCENT is fully crying now.
-0041_The_Sixth_Sense_01.08.13.114-01.08.26.409 	Cole is crying now.
-0043_Thelma_and_Luise_00.22.57.618-00.23.02.896 	Thelma starts to cry quietly.
-0049_Hannah_and_her_sisters_01.27.41.348-01.27.45.198 	They cry indistinctly with excitement.
-1010_TITANIC_02.07.28.547-02.07.31.366 	an auburn-haired woman cries and kisses a brown-haired man.
-1010_TITANIC_02.26.14.149-02.26.19.223 	cal peers down at a crying young girl, then walks away.
+0001_American_Beauty_00.12.54.460-00.13.13.477 	standing very still, with the blinds casting shadows across her face, she starts to cry: brief, staccato sobs that seemingly escape against her will.
+0001_American_Beauty_00.13.18.656-00.13.35.574 	she slaps herself repeatedly until she stops crying.
+0001_American_Beauty_01.07.59.166-01.08.05.522 	she stares at jane, then starts to cry.
+0001_American_Beauty_01.25.01.458-01.25.02.930 	she quickly rises, trying to get out of the kitchen before she starts crying.
+0001_American_Beauty_01.29.12.477-01.29.18.540 	she starts to cry.
+0001_American_Beauty_01.38.36.891-01.38.43.853 	angela sits on the stairs, shaken, crying.
+0001_American_Beauty_01.43.08.131-01.43.08.719 	she's been crying; her face is puffy, and her hair mussed.
+0001_American_Beauty_01.48.28.453-01.48.33.840 	humiliated, angela starts to cry.
+0001_American_Beauty_01.48.43.438-01.48.46.255 	but she keeps crying.
+0001_American_Beauty_01.54.54.005-01.54.59.246 	she sinks to her knees, pulling several items of clothing down with her, and she begins to cry.
+0002_As_Good_As_It_Gets_01.01.16.131-01.01.20.301 	as simon works to stop crying, melvin is weird with discomfort.
+0002_As_Good_As_It_Gets_01.06.11.789-01.06.21.681 	well, he'll never get credit for the brief but intense inner struggle -- the struggle not to scream -- not to cry -- to process the sudden and stunning hurt during his half turn away from her -- and then answer hoarsely.
+0005_Chinatown_01.34.01.988-01.34.08.111 	she begins to cry softly.
+0009_Forrest_Gump_01.31.06.282-01.31.12.986 	jenny rocks back and forth as she cries.
+0009_Forrest_Gump_01.41.23.406-01.41.25.750 	the woman is crying and wipes her eyes with a hankie.
+0010_Frau_Ohne_Gewissen_01.16.43.701-01.16.50.130 	she turns again to the window so he won't see that she is crying.
+0010_Frau_Ohne_Gewissen_01.27.59.987-01.28.01.292 	she is crying.
+0010_Frau_Ohne_Gewissen_01.28.03.995-01.28.05.369 	she begins to cry again.
+0013_Halloween_00.55.47.745-00.55.51.991 	tommy screams and jumps out from the curtain, scaring the hell out of lindsey, who also screams and begins crying.
+0013_Halloween_00.56.16.170-00.56.18.651 	almost instantly, lindsey stops crying and follows him.
+0013_Halloween_01.20.19.867-01.20.20.175 	she begins crying softly, her eyes wide with fear.
+0013_Halloween_01.27.29.793-01.27.33.242 	laurie begins to cry again, harder and harder.
+0014_Ist_das_Leben_nicht_schoen_00.11.29.099-00.11.37.076 	george is crying too.
+0014_Ist_das_Leben_nicht_schoen_00.49.50.858-00.49.53.132 	mary begins to cry.
+0014_Ist_das_Leben_nicht_schoen_00.50.13.930-00.50.14.732 	cousin tilly's face fills the screen as she cries.
+0014_Ist_das_Leben_nicht_schoen_01.25.36.848-01.25.40.668 	during this scene, george has been sitting in the chair, hugging tommy to him, and crying quietly.
+0017_Pianist_00.13.29.752-00.13.32.092 	father is asleep but mother is sitting on the bed, holding a purse, crying.
+0017_Pianist_00.31.11.752-00.31.14.905 	the only sounds, the weeping of the people opposite and, nearer, mother crying softly.
+0019_Pulp_Fiction_00.18.48.068-00.18.50.841 	he's not crying or whimpering, but he's so full of fear, it's as if his body is imploding.
+0019_Pulp_Fiction_01.26.05.350-01.26.09.298 	fabienne is crying and scared.
+0019_Pulp_Fiction_01.50.46.445-01.50.50.695 	fabienne starts to cry.
+0020_Raising_Arizona_00.11.52.127-00.11.53.473 	from somewhere upstairs we hear an infant start to cry.
+0020_Raising_Arizona_00.12.00.385-00.12.01.533 	the baby stops crying and florence's attention returns to her book.
+0020_Raising_Arizona_00.12.22.313-00.12.24.390 	another baby starts crying.
+0020_Raising_Arizona_00.12.28.277-00.12.31.129 	close on the crying baby as hi bounces it, gently but desperately.
+0020_Raising_Arizona_01.25.00.957-01.25.03.476 	ed starts crying softly as she gazes into the crib.
+0023_THE_BUTTERFLY_EFFECT_00.20.17.625-00.20.18.890 	she begins to cry.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.08.54.443-02.09.00.273 	theoden tries to rally his men amid the sea of crying men and neighing horses.
+0026_The_Big_Fish_01.25.23.728-01.25.26.569 	the teller woman is crying as she works the combination.
+0028_The_Crying_Game_01.41.17.164-01.41.20.853 	she begins to cry and lays the gun gently on his chest.
+0029_The_Graduate_01.01.52.660-01.01.55.761 	she starts to cry.
+0030_The_Hustler_01.20.47.869-01.20.49.893 	he starts to cry.
+0030_The_Hustler_01.48.11.420-01.48.13.286 	then she starts to cry and starts to fall, but bert holds her up by the shoulders.
+0031_The_Lost_Weekend_00.18.44.755-00.18.50.774 	helen turns away from wick, leans against the wall, hoping he won't see that she's crying.
+0032_The_Princess_Bride_00.44.17.818-00.44.23.907 	buttercup, perplexed, is about to reply but the ground she steps on gives way--it's lightning sand--a great patch of it, and it has her--a cloud of powder rises and she sinks into the stuff crying westley's name but then she is gone as we.
+0032_The_Princess_Bride_00.59.11.851-00.59.12.589 	helpless, he cries.
+0032_The_Princess_Bride_01.27.05.273-01.27.06.263 	count rugen, crying out in fear and panic as the sword hits home dead center and.
+0041_The_Sixth_Sense_00.09.52.960-00.09.58.882 	vincent is fully crying now.
+0041_The_Sixth_Sense_01.08.13.114-01.08.26.409 	cole is crying now.
+0041_The_Sixth_Sense_01.35.05.816-01.35.18.072 	lynn begins to cry.
+0043_Thelma_and_Luise_00.22.57.618-00.23.02.896 	thelma starts to cry quietly.
+0043_Thelma_and_Luise_00.38.56.753-00.38.59.685 	thelma is trying not to cry.
+0043_Thelma_and_Luise_01.34.51.323-01.34.56.247 	thelma has just crossed the line from laughing to crying.
+0046_Chasing_Amy_01.22.27.068-01.22.27.572 	she cries.
+0049_Hannah_and_her_sisters_00.32.33.406-00.32.44.647 	hannah, crying, blows her nose.
+0049_Hannah_and_her_sisters_01.27.41.348-01.27.45.198 	they cry indistinctly with excitement.
+1002_Harry_Potter_and_the_Half-Blood_Prince_00.57.36.947-00.57.37.823 	she's been crying.
+1005_Signs_01.12.25.870-01.12.28.630 	graham's body rocks as he cries.
 1010_TITANIC_02.27.40.615-02.27.46.674 	cal picks up a crying girl, then steps toward the crowd of passengers.
-1037_The_Curious_Case_Of_Benjamin_Button_02.17.33.048-02.17.37.774 	benjamin watches as daisy pops her little finger in the infant's mouth to stop her crying and looks back at benjamin through teary eyes.
 1039_The_Queen_01.21.38.583-01.21.40.249 	another is a crying face.
+1042_Up_In_The_Air_01.20.10.914-01.20.16.414 	he walks into the church and finds julie sitting with her bridesmaids, crying.
+1045_An_education_01.23.16.215-01.23.24.194 	his lower lip trembles as he starts to cry.
+1046_Australia_01.04.42.640-01.04.49.314 	as sarah and drover arrive, nullah starts to cry.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.17.43.309-00.17.46.634 	harry suddenly cries out in pain.
 1051_Harry_Potter_and_the_goblet_of_fire_00.26.51.131-00.26.54.849 	hermione cries out.
 1052_Harry_Potter_and_the_order_of_phoenix_01.34.02.131-01.34.15.666 	he hears crying in the corridor and finds the twins comforting a small boy.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_01.43.43.100-01.43.46.096 	he cries out in horror as he falls back onto the stony beach beside sirius.
-1056_Rambo_00.11.11.220-00.11.12.120 	women cry and hide their eyes.
-1060_Yes_man_00.19.42.606-00.19.49.707 	carl laughs and cries alternately.
+1055_Marley_and_me_00.43.48.655-00.43.50.831 	as she starts to cry, she leans forward and hugs the big labrador.
+1062_Day_the_Earth_stood_still_01.26.20.000-01.26.28.170 	as he kneels crying, helen rushes up to him, kneels down, puts her arms around him, and hugs him tightly.
+2004_Juno_01.13.33.405-01.13.37.106 	juno buckles over the steering wheel, crying, unwinding for the first time since she became pregnant.
+2005_Signs_00.10.05.141-00.10.07.920 	as graham and officer paski get closer, they see morgan is crying.
+2005_Signs_00.10.43.931-00.10.46.654 	he starts crying.
 2005_Signs_00.11.00.432-00.11.04.042 	graham carries bo as she cry in his arms.
 2005_Signs_01.11.43.782-01.11.46.892 	graham watches as both his children cry at the table.
+2005_Signs_01.25.37.367-01.25.38.470 	he starts crying.
+2005_Signs_01.34.48.537-01.34.49.488 	she starts crying.
+2005_Signs_01.38.51.694-01.38.54.459 	bo is crying.
+2005_Signs_01.39.03.734-01.39.06.339 	graham starts crying.
+2012_Unbreakable_00.35.22.309-00.35.30.136 	she starts crying.
 2012_Unbreakable_01.00.33.160-01.00.34.322 	he's crying hard.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_01.43.43.100-01.43.46.096 	he cries out in horror as he falls back onto the stony beach beside sirius.
-1056_Rambo_00.11.11.220-00.11.12.120 	women cry and hide their eyes.
-1060_Yes_man_00.19.42.606-00.19.49.707 	carl laughs and cries alternately.
-2005_Signs_00.11.00.432-00.11.04.042 	graham carries bo as she cry in his arms.
-2005_Signs_01.11.43.782-01.11.46.892 	graham watches as both his children cry at the table.
-2012_Unbreakable_01.00.33.160-01.00.34.322 	he's crying hard.
+2026_Legion_01.16.23.161-01.16.25.663 	the baby cries louder.
 2027_Les_Miserables_01.11.38.879-01.11.42.052 	thenardier approaches valjean and lures him into the mouth of the alleyway where madame thenardier is sat on the ground holding the crying infant.
 2034_Super_8_00.09.02.716-00.09.03.680 	jack wants to cry again.
 2034_Super_8_00.14.36.261-00.14.43.767 	and holy shit, alice actually starts to cry as she performs her lines.
 2034_Super_8_01.03.47.576-01.03.52.489 	alice makes a daring stop -- turns back up the hill, pedals hard, crying and hyperventilating.
 2034_Super_8_01.30.08.957-01.30.11.818 	louis wants to cry again, but just accepts it.
+2034_Super_8_01.30.36.425-01.30.37.607 	now cry lands too.
 2041_This_is_40_00.48.30.870-00.48.33.796 	charlotte is crying really hard.
+2041_This_is_40_01.30.15.082-01.30.17.163 	debbie is talking to jodi, who is crying.
 2041_This_is_40_02.03.07.523-02.03.08.424 	she hugs him and starts to cry a little bit.

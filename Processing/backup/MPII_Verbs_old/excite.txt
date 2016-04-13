@@ -1,9 +1,25 @@
-0002_As_Good_As_It_Gets_01.48.46.261-01.48.50.913 	He's excited -- smiling.
-0011_Gandhi_01.41.09.739-01.41.14.153 	They look at each other with a kind of fear a rampant crowd can excite in those who must hold it.
-0014_Ist_das_Leben_nicht_schoen_00.43.26.677-00.43.27.797 	She is plainly excited at George's visit.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.13.57.321-01.14.00.077 	MERRY exhales -- excited and terrified in equal measure.
-0026_The_Big_Fish_00.09.08.860-00.09.12.424 	Will smiles, excited to hear the forbidden story.
-0032_The_Princess_Bride_01.08.53.325-01.08.57.309 	He is terribly excited and looks stronger than we've yet seen him.
-1059_The_devil_wears_prada_01.34.27.811-01.34.30.256 	nigel's excited smile fades and he looks up at miranda crestfallen.
+0002_As_Good_As_It_Gets_01.48.46.261-01.48.50.913 	he's excited -- smiling.
+0011_Gandhi_01.41.17.611-01.41.21.163 	a huge triangular pile burns before the platform, an excited half-naked crowd swirling in the shadows around it.
+0011_Gandhi_01.41.09.739-01.41.14.153 	they look at each other with a kind of fear a rampant crowd can excite in those who must hold it.
+0014_Ist_das_Leben_nicht_schoen_00.34.31.966-00.34.34.403 	dr. campbell comes running out, all excited.
+0014_Ist_das_Leben_nicht_schoen_00.43.26.677-00.43.27.797 	she is plainly excited at george's visit.
+0014_Ist_das_Leben_nicht_schoen_02.04.33.499-02.04.35.977 	as mary comes through the door, breathless and excited.
+0014_Ist_das_Leben_nicht_schoen_02.05.23.005-02.05.24.021 	ad lib sounds of an excited crowd can be heard.
+0021_Rear_Window_00.57.00.777-00.57.01.777 	she is exciting and desirable.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.57.34.804-00.57.36.122 	sam looks excited.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.29.14.450-01.29.14.678 	gimli suddenly stands, excited.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.13.57.321-01.14.00.077 	merry exhales -- excited and terrified in equal measure.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.25.43.831-01.25.45.327 	he looks at once nervous and excited.
+0026_The_Big_Fish_00.09.08.860-00.09.12.424 	will smiles, excited to hear the forbidden story.
+0032_The_Princess_Bride_01.08.53.325-01.08.57.309 	he is terribly excited and looks stronger than we've yet seen him.
+0033_Amadeus_02.27.29.548-02.27.30.978 	an audience of ordinary german citizens stands in the pit area, or sits: they are rapt and excited.
+0049_Hannah_and_her_sisters_00.18.54.670-00.18.58.204 	holly, excited, runs over to april, who is busy taking the stroganoff out of the oven.
+0053_Rendezvous_mit_Joe_Black_01.12.43.939-01.12.53.229 	an excited quince drains his drink and heads for drew as allison appears.
+1034_Super_8_00.04.13.928-00.04.16.418 	excited pupils spill out of lillian middle school as it closes for the summer holidays.
+1049_Harry_Potter_and_the_chamber_of_secrets_00.18.04.803-00.18.08.889 	a queue of excited customers are waiting to get their book signed.
+1049_Harry_Potter_and_the_chamber_of_secrets_00.53.12.100-00.53.19.023 	the players swoop above the arena on their broomsticks, high over the heads of the excited crowd.
+1051_Harry_Potter_and_the_goblet_of_fire_01.17.20.405-01.17.27.010 	hermione takes his arm and gives harry an excited little wave.
+1053_Harry_Potter_and_the_philosophers_stone_02.20.23.480-02.20.27.730 	as the gryffindors celebrate, hermione looks excited.
 1059_The_devil_wears_prada_01.34.27.811-01.34.30.256 	nigel's excited smile fades and he looks up at miranda crestfallen.
 2027_Les_Miserables_01.08.58.172-01.09.01.907 	the students hand out printed leaflets and try to excite the crowd.
+2051_Harry_Potter_and_the_goblet_of_fire_00.08.40.624-00.08.45.221 	everyone is excited.

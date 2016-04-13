@@ -1,12 +1,5 @@
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS797 	01:20:03,00 --> 01:20:14,50 	as the bald shirtless thug fires wildly, bullets pierce the hoses, spraying chemicals into the air.
-COLOMBIANA.srt 	COLOMBIANA_DVS934 	01:30:06,00 --> 01:30:13,50 	a bullet pierces the glass and hits a photo of someone with president someone w. bush.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS28 	00:04:27,00 --> 00:04:40,50 	one of someone's bullets pierces the vehicle back tire, causing the suv to tip on its side.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS249 	00:39:38,00 --> 00:40:01,50 	as shots pierce his chest, the bullet holes glow.
-PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS265 	01:08:22,00 --> 01:08:32,50 	she draws another arrow, shoots again and pierces one of the hydra's eyes.
-PROMETHEUS.srt 	PROMETHEUS_DVS958 	01:45:56,00 --> 01:46:04,50 	someone's nose pierces the outer wall of the larger ship, creating a fiery explosion.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS497 	02:04:53,00 --> 02:04:57,50 	a dead soldier pierced by arrows.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS147 	00:14:34,00 --> 00:14:40,50 	in the distance, twin lights barely pierce the storm on either side of the road.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS306 	00:36:13,00 --> 00:36:19,50 	he glances haughtily at the heavily pierced woman as he reviews her file.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS426 	00:51:16,00 --> 00:51:25,50 	someone's pierced lip curls aggressively as she listens.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS874 	01:37:31,00 --> 01:37:37,50 	she pierces his skin on one side of the cut.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1242 	01:51:50,00 --> 01:51:55,50 	the coin pierces someone's forehead.

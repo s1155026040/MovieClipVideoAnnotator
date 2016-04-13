@@ -1,6 +1,8 @@
-0026_The_Big_Fish_00.54.55.013-00.54.57.088 	Edward shakes Amos's hand before he can retract the offer.
-1003_How_to_Lose_Friends_and_Alienate_People_00.23.39.030-00.23.39.728 	Quickly retracts her hand as the door slams shut.
+0026_The_Big_Fish_00.54.55.013-00.54.57.088 	edward shakes amos's hand before he can retract the offer.
+1001_Flight_00.22.13.268-00.22.15.371 	one wheel gets stuck while retracting.
+1003_How_to_Lose_Friends_and_Alienate_People_00.23.39.030-00.23.39.728 	quickly retracts her hand as the door slams shut.
+1008_Spider-Man2_00.40.03.092-00.40.04.626 	the pincer retracts.
 1034_Super_8_01.37.39.138-01.37.44.593 	it leans in close and retracts some protective membranes from over its eyes and its expression softens.
 1037_The_Curious_Case_Of_Benjamin_Button_00.18.57.528-00.19.06.882 	the old man retracts the stick, and benjamin wheels himself to the top of the front steps, where he watches children playing in the street.
-2026_Legion_01.17.54.414-01.17.57.540 	the angel's wings retract with clockwork-like precision.
+1039_The_Queen_00.17.32.898-00.17.35.564 	the queen extends her hand briefly, then, retracts it.
 2026_Legion_01.17.54.414-01.17.57.540 	the angel's wings retract with clockwork-like precision.

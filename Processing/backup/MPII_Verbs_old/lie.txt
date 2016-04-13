@@ -1,270 +1,272 @@
-0001_American_Beauty_00.01.37.227-00.01.38.586 	We're looking down at a king-sized BED from OVERHEAD: LESTER BURNHAM lies sleeping amidst expensive bed linens, face down, wearing PAJAMAS.
-0001_American_Beauty_00.01.37.227-00.01.38.586 	We're looking down at a king-sized BED from OVERHEAD: LESTER BURNHAM lies sleeping amidst expensive bed linens, face down, wearing PAJAMAS.
-0001_American_Beauty_00.42.31.906-00.42.32.928 	Carolyn lies sleeping.
-0001_American_Beauty_00.50.24.795-00.50.26.167 	Lester, in a T-shirt and gym shorts, lies on a new WEIGHT BENCH, doing bench presses with shiny new BARBELLS.
-0001_American_Beauty_01.47.53.152-01.47.55.109 	Angela lies beneath us, embarrassed and vulnerable.
-0002_As_Good_As_It_Gets_00.48.34.875-00.48.35.748 	Verdell lies just inside the front door whimpering for Melvin.
-0004_Charade_00.05.12.710-00.05.16.790 	An open balcony running around two sides of the pool, sun- worshippers lying in deck-chairs.
-0004_Charade_01.08.04.141-01.08.05.809 	SCOBIE, still dressed in his raincoat, lies face up, his head submerged in the filled tub, the water now pouring over the edge.
-0005_Chinatown_01.12.30.637-01.12.33.479 	Gittes is knocked to the ground and lies still beside the Big Farmer who is writhing in agony in the dirt.
-0005_Chinatown_01.12.40.400-01.12.42.833 	Is staring down at Gittes who's lying in the screened in porch of the farmers.
-0005_Chinatown_01.31.24.133-01.31.26.464 	After a moment someone rises INTO SHOT, obviously from lying on a bed.
-0005_Chinatown_01.39.26.492-01.39.28.509 	Just inside the kitchen some radishes and onions lie on the linoleum.
-0005_Chinatown_01.39.30.645-01.39.33.471 	Clearing the kitchen counter, Gittes sees IDA SESSIONS lying on her back on the floor, surrounded by the groceries from a broken bag.
-0005_Chinatown_01.53.19.182-01.53.22.996 	Then he follows her gaze to the glasses lying on his handkerchief.
-0006_Clerks_01.14.30.240-01.14.33.299 	THE OLD MAN'S FACE is serene, almost happy, as he lies on a stretcher.
-0006_Clerks_01.24.01.855-01.24.04.286 	DANTE lies on the floor alone.
-0006_Clerks_01.25.04.491-01.25.21.881 	DANTE lies on the floor, bacon held against a sort of crushed cookies, ripped-open candies, broken bread, and other damaged goods.
-0007_DIE_NACHT_DES_JAEGERS_00.07.56.716-00.08.00.255 	He lies on his back, chuckling and murmuring indistinctly in his sleep.
-0007_DIE_NACHT_DES_JAEGERS_00.08.00.580-00.08.04.772 	BEN lies in profile.
-0007_DIE_NACHT_DES_JAEGERS_00.11.55.820-00.12.00.983 	Two rose-and-gold little GIRLS lie in sleep; BART'S hands enter the SHOT and gently rearrange the covers so that their mouths and throats are free.
-0007_DIE_NACHT_DES_JAEGERS_00.14.16.673-00.14.16.800 	PEARL lies in their bed, her doll snug on her shoulder.
-0007_DIE_NACHT_DES_JAEGERS_00.33.07.693-00.33.12.740 	It lies face down on arbor bricks, its back wide open; money spilling out.
-0007_DIE_NACHT_DES_JAEGERS_01.24.33.862-01.24.37.760 	They lie huddled in calm sleep.
-0008_Fargo_00.25.49.408-00.25.50.467 	Jean lies bound and curled on the back seat underneath a tarpaulin.
-0009_Forrest_Gump_00.10.06.010-00.10.12.767 	Forrest lies down on his bed and looks up.
-0009_Forrest_Gump_00.19.46.499-00.19.46.921 	Jenny lies in bed next to young Forrest.
-0009_Forrest_Gump_00.24.36.979-00.24.39.014 	Wallace lies wounded on the ground.
-0009_Forrest_Gump_00.35.22.141-00.35.26.375 	Bubba lies in his bunk and looks up quietly.
-0009_Forrest_Gump_00.35.26.875-00.35.35.705 	Forrest lies in his bunk and looks up.
-0009_Forrest_Gump_00.45.27.535-00.45.32.455 	He lies down on the dirt road and crawls.
-0009_Forrest_Gump_00.48.15.352-00.48.29.480 	Forrest lies in a pup tent and writes a litter as the rain pours down.
-0009_Forrest_Gump_00.49.27.969-00.49.32.349 	Forrest rolls over and pulls his pack off Lt. Dan lies next to Forrest.
-0009_Forrest_Gump_00.51.37.567-00.51.39.737 	Tex lies on the ground, his face distorted with pain.
-0009_Forrest_Gump_00.54.21.125-00.54.23.197 	Bubba looks up as he lies on the ground.
-0009_Forrest_Gump_00.57.07.250-00.57.14.539 	Forrest, lying on his stomach, is wheeled to his bed.
-0009_Forrest_Gump_00.57.13.408-00.57.14.788 	Forrest looks at Lt. Dan lying on the bed.
-0009_Forrest_Gump_00.59.49.727-00.59.55.308 	Forrest lies in his bed asleep.
-0009_Forrest_Gump_01.02.30.301-01.02.32.335 	A heavily bandaged soldier with bloodstains lies there.
-0009_Forrest_Gump_01.30.34.495-01.30.36.571 	A busy street lies many stories below.
-0009_Forrest_Gump_01.31.28.654-01.31.35.350 	Forrest lies in a hammock on his boat.
-0009_Forrest_Gump_01.45.17.113-01.45.25.230 	Jenny lies asleep in bed.
-0009_Forrest_Gump_01.49.53.154-01.49.58.895 	Forrest lies in his bed as the door opens.
-0009_Forrest_Gump_01.51.29.195-01.51.32.061 	The Congressional Medal lies on a table by a ping-pong paddle.
-0009_Forrest_Gump_02.14.26.674-02.14.35.442 	The camera cranes down, revealing the feather as it lies at Forrest's feet.
-0010_Frau_Ohne_Gewissen_00.30.17.612-00.30.23.306 	She gets up slowly and crosses to her rain coat, lying over a chair.
-0010_Frau_Ohne_Gewissen_00.33.10.123-00.33.12.190 	His coat and tie are over the back of the chair, and the evening paper is lying tumbled on the floor beside him.
-0010_Frau_Ohne_Gewissen_01.09.31.691-01.09.33.564 	He gathers up the morning paper which is lying untidily on the floor and puts it in the waste-paper basket.
-0010_Frau_Ohne_Gewissen_01.18.28.839-01.18.30.227 	Keyes, his coat off, is lying on his office couch, chewing on a cigar, as usual.
-0011_Gandhi_00.04.08.785-00.04.15.631 	And finally we see Gandhi lying on the weapon-carrier, surrounded by flowers, a tiny figure in this ocean of grief and reverence.
-0011_Gandhi_00.21.21.189-00.21.21.645 	This is where the magazine Indian Opinion is printed and we see stacks of it lying around.
-0011_Gandhi_00.34.34.351-00.34.34.680 	Full shot, the sergeant wheeling his horse, angrily -- surveying the whole of the procession as they lie sprawled on the ground, his mounted police circling in front of them, not knowing what to do.
-0011_Gandhi_01.05.44.970-01.05.49.942 	He lies on a straw mat.
-0011_Gandhi_01.47.30.052-01.47.30.853 	It is a New York Times and we just glimpse the picture of the severed head lying in the smoldering ashes.
-0011_Gandhi_01.49.41.375-01.49.45.691 	When he is finished, he lies almost limp in her arms and she gently lowers him to the mat.
-0011_Gandhi_02.31.36.873-02.31.38.927 	Ba lies on a mat, a pillow beneath her head, her eyes closed, her breathing short.
-0011_Gandhi_02.48.49.841-02.48.51.352 	Gandhi lies curled awkwardly on his side of the cot.
-0011_Gandhi_02.52.03.565-02.52.04.698 	On the cover is a picture of rioting men fighting and diagonally a cut-out of Gandhi lying on his cot.
-0012_Get_Shorty_01.18.03.141-01.18.09.324 	He looks sad lying there pinned beneath Ray Bones' shoe, wondering how it all went so wrong.
-0012_Get_Shorty_01.21.07.679-01.21.12.180 	Karen and Chili lie in bed together.
-0012_Get_Shorty_01.22.15.088-01.22.16.760 	Where Harry lies in bed in a pain-killer stupor.
-0012_Get_Shorty_01.29.29.412-01.29.31.035 	Chili lies asleep beside her.
-0013_Halloween_01.15.56.844-01.15.58.186 	There is SOMEONE lying on the bed but from this position Laurie can't see.
-0013_Halloween_01.24.51.911-01.24.55.874 	The shape lies on the floor by the bed, the butcher knife protruding from his stomach.
+0001_American_Beauty_00.01.37.227-00.01.38.586 	we're looking down at a king-sized bed from overhead: lester burnham lies sleeping amidst expensive bed linens, face down, wearing pajamas.
+0001_American_Beauty_00.42.31.906-00.42.32.928 	carolyn lies sleeping.
+0001_American_Beauty_00.50.24.795-00.50.26.167 	lester, in a t-shirt and gym shorts, lies on a new weight bench, doing bench presses with shiny new barbells.
+0001_American_Beauty_01.46.50.248-01.47.03.736 	ricky and jane, fully clothed, lie curled up on jane's bed.
+0001_American_Beauty_01.47.53.152-01.47.55.109 	angela lies beneath us, embarrassed and vulnerable.
+0002_As_Good_As_It_Gets_00.48.34.875-00.48.35.748 	verdell lies just inside the front door whimpering for melvin.
+0004_Charade_00.05.12.710-00.05.16.790 	an open balcony running around two sides of the pool, sun- worshippers lying in deck-chairs.
+0004_Charade_00.10.21.015-00.10.22.375 	a photograph of charles lampert lies face up in the drawer.
+0004_Charade_01.08.04.141-01.08.05.809 	scobie, still dressed in his raincoat, lies face up, his head submerged in the filled tub, the water now pouring over the edge.
+0005_Chinatown_01.12.30.637-01.12.33.479 	gittes is knocked to the ground and lies still beside the big farmer who is writhing in agony in the dirt.
+0005_Chinatown_01.12.40.400-01.12.42.833 	is staring down at gittes who's lying in the screened in porch of the farmers.
+0005_Chinatown_01.31.24.133-01.31.26.464 	after a moment someone rises into shot, obviously from lying on a bed.
+0005_Chinatown_01.39.26.492-01.39.28.509 	just inside the kitchen some radishes and onions lie on the linoleum.
+0005_Chinatown_01.39.30.645-01.39.33.471 	clearing the kitchen counter, gittes sees ida sessions lying on her back on the floor, surrounded by the groceries from a broken bag.
+0005_Chinatown_01.53.19.182-01.53.22.996 	then he follows her gaze to the glasses lying on his handkerchief.
+0006_Clerks_01.14.30.240-01.14.33.299 	the old man's face is serene, almost happy, as he lies on a stretcher.
+0006_Clerks_01.24.01.855-01.24.04.286 	dante lies on the floor alone.
+0006_Clerks_01.25.04.491-01.25.21.881 	dante lies on the floor, bacon held against a sort of crushed cookies, ripped-open candies, broken bread, and other damaged goods.
+0007_DIE_NACHT_DES_JAEGERS_00.07.56.716-00.08.00.255 	he lies on his back, chuckling and murmuring indistinctly in his sleep.
+0007_DIE_NACHT_DES_JAEGERS_00.08.00.580-00.08.04.772 	ben lies in profile.
+0007_DIE_NACHT_DES_JAEGERS_00.11.55.820-00.12.00.983 	two rose-and-gold little girls lie in sleep; bart's hands enter the shot and gently rearrange the covers so that their mouths and throats are free.
+0007_DIE_NACHT_DES_JAEGERS_00.33.07.693-00.33.12.740 	it lies face down on arbor bricks, its back wide open; money spilling out.
+0007_DIE_NACHT_DES_JAEGERS_01.24.33.862-01.24.37.760 	they lie huddled in calm sleep.
+0008_Fargo_00.25.49.408-00.25.50.467 	jean lies bound and curled on the back seat underneath a tarpaulin.
+0009_Forrest_Gump_00.10.06.010-00.10.12.767 	forrest lies down on his bed and looks up.
+0009_Forrest_Gump_00.19.46.499-00.19.46.921 	jenny lies in bed next to young forrest.
+0009_Forrest_Gump_00.24.36.979-00.24.39.014 	wallace lies wounded on the ground.
+0009_Forrest_Gump_00.35.22.141-00.35.26.375 	bubba lies in his bunk and looks up quietly.
+0009_Forrest_Gump_00.45.27.535-00.45.32.455 	he lies down on the dirt road and crawls.
+0009_Forrest_Gump_00.49.27.969-00.49.32.349 	forrest rolls over and pulls his pack off lt. dan lies next to forrest.
+0009_Forrest_Gump_00.51.37.567-00.51.39.737 	tex lies on the ground, his face distorted with pain.
+0009_Forrest_Gump_00.54.21.125-00.54.23.197 	bubba looks up as he lies on the ground.
+0009_Forrest_Gump_00.57.07.250-00.57.14.539 	forrest, lying on his stomach, is wheeled to his bed.
+0009_Forrest_Gump_00.57.13.408-00.57.14.788 	forrest looks at lt. dan lying on the bed.
+0009_Forrest_Gump_01.02.30.301-01.02.32.335 	a heavily bandaged soldier with bloodstains lies there.
+0009_Forrest_Gump_01.30.34.495-01.30.36.571 	a busy street lies many stories below.
+0009_Forrest_Gump_01.45.17.113-01.45.25.230 	jenny lies asleep in bed.
+0009_Forrest_Gump_01.51.29.195-01.51.32.061 	the congressional medal lies on a table by a ping-pong paddle.
+0009_Forrest_Gump_02.14.26.674-02.14.35.442 	the camera cranes down, revealing the feather as it lies at forrest's feet.
+0010_Frau_Ohne_Gewissen_00.30.17.612-00.30.23.306 	she gets up slowly and crosses to her rain coat, lying over a chair.
+0010_Frau_Ohne_Gewissen_00.33.10.123-00.33.12.190 	his coat and tie are over the back of the chair, and the evening paper is lying tumbled on the floor beside him.
+0010_Frau_Ohne_Gewissen_01.09.31.691-01.09.33.564 	he gathers up the morning paper which is lying untidily on the floor and puts it in the waste-paper basket.
+0010_Frau_Ohne_Gewissen_01.18.28.839-01.18.30.227 	keyes, his coat off, is lying on his office couch, chewing on a cigar, as usual.
+0011_Gandhi_00.04.08.785-00.04.15.631 	and finally we see gandhi lying on the weapon-carrier, surrounded by flowers, a tiny figure in this ocean of grief and reverence.
+0011_Gandhi_00.21.21.189-00.21.21.645 	this is where the magazine indian opinion is printed and we see stacks of it lying around.
+0011_Gandhi_00.34.34.351-00.34.34.680 	full shot, the sergeant wheeling his horse, angrily -- surveying the whole of the procession as they lie sprawled on the ground, his mounted police circling in front of them, not knowing what to do.
+0011_Gandhi_01.05.44.970-01.05.49.942 	he lies on a straw mat.
+0011_Gandhi_01.47.30.052-01.47.30.853 	it is a new york times and we just glimpse the picture of the severed head lying in the smoldering ashes.
+0011_Gandhi_01.49.41.375-01.49.45.691 	when he is finished, he lies almost limp in her arms and she gently lowers him to the mat.
+0011_Gandhi_02.31.36.873-02.31.38.927 	ba lies on a mat, a pillow beneath her head, her eyes closed, her breathing short.
+0011_Gandhi_02.48.49.841-02.48.51.352 	gandhi lies curled awkwardly on his side of the cot.
+0011_Gandhi_02.52.03.565-02.52.04.698 	on the cover is a picture of rioting men fighting and diagonally a cut-out of gandhi lying on his cot.
+0012_Get_Shorty_01.18.03.141-01.18.09.324 	he looks sad lying there pinned beneath ray bones' shoe, wondering how it all went so wrong.
+0012_Get_Shorty_01.22.15.088-01.22.16.760 	where harry lies in bed in a pain-killer stupor.
+0012_Get_Shorty_01.29.29.412-01.29.31.035 	chili lies asleep beside her.
+0013_Halloween_01.15.56.844-01.15.58.186 	there is someone lying on the bed but from this position laurie can't see.
+0013_Halloween_01.24.51.911-01.24.55.874 	the shape lies on the floor by the bed, the butcher knife protruding from his stomach.
 0013_Halloween_01.25.53.456-01.25.54.336 	lies the shape.
-0014_Ist_das_Leben_nicht_schoen_00.04.58.195-00.05.00.030 	The other boys lie flat on the ice, forming a human chain.
-0014_Ist_das_Leben_nicht_schoen_01.50.41.925-01.50.42.236 	George and Clarence lying in the snow.
-0017_Pianist_00.25.33.651-00.25.35.948 	He steps over the corpses lying on the sidewalk.
-0017_Pianist_00.26.26.486-00.26.28.407 	The boy lies moaning.
-0017_Pianist_00.41.36.242-00.41.40.501 	He marches off while she lies on the ground with blood spurting out of her.
-0017_Pianist_00.43.33.621-00.43.39.777 	Old people lying down, exhausted, impossible to tell whether some of them are alive or dead.
-0017_Pianist_00.52.27.989-00.52.29.264 	Furniture, torn mattresses and pillows lie scattered.
-0017_Pianist_01.01.19.395-01.01.25.113 	After a dozen or so strokes, Szpilman falls forward and lies in the dirt.
-0017_Pianist_01.13.26.781-01.13.29.016 	Szpilman lies in a steaming bath, eyes closed, as though he's in a trance.
-0017_Pianist_01.18.21.636-01.18.24.252 	He goes to it, slips off his other shoe and lies down, testing the divan's springiness with his whole body.
-0017_Pianist_01.21.30.110-01.21.33.637 	Corpses lie scattered on the pavement.
-0017_Pianist_01.26.30.691-01.26.32.754 	Szpilman lies on the divan.
-0017_Pianist_01.41.31.224-01.41.33.436 	Szpilman lies inert on the bed, weak, starving, ill.
-0017_Pianist_01.45.54.011-01.45.57.188 	Szpilman, lying on the bed, staring at the ceiling.
-0019_Pulp_Fiction_00.57.37.260-00.57.44.307 	As she walks in the living room, she sees Vincent and Lance standing over Mia, who's lying on the floor in the middle of the room.
-0019_Pulp_Fiction_01.08.06.244-01.08.17.439 	He lies on a table catching a few zzzzzz's before his big fight.
-0019_Pulp_Fiction_01.19.27.588-01.19.29.446 	Fabienne lies her head back.
-0019_Pulp_Fiction_01.31.18.293-01.31.22.995 	What he sees is a small compact Czech M61 submachine gun with a huge silencer on it, lying on his kitchen counter.
-0019_Pulp_Fiction_01.34.58.180-01.35.02.005 	Marsellus Wallace lies sprawled out in the street.
-0019_Pulp_Fiction_02.28.33.671-02.28.39.670 	Jules lowers his gun, lying it on the table.
-0020_Raising_Arizona_00.09.05.900-00.09.07.312 	Her hands lie palm-up in her lap, like two dead fish.
-0020_Raising_Arizona_00.26.44.066-00.26.44.532 	Ed lies in bed facing the wall; we see only the back of her head.
-0020_Raising_Arizona_00.55.51.002-00.55.52.545 	Creeping in on the pimply-faced Cashier, sitting asleep behind the counter, a dirty magazine lying face-down, open on his chest.
-0020_Raising_Arizona_01.19.36.419-01.19.38.277 	From where he lies prone.
-0021_Rear_Window_00.04.26.521-00.04.32.672 	Then they spread the robes in front of them, and lie down on the roof, and out of sight.
-0021_Rear_Window_00.06.36.763-00.06.37.460 	We can see a woman lying on the far bed.
-0021_Rear_Window_00.07.09.163-00.07.11.759 	He reaches for a long, Chinese back scratcher lying on the windowsill.
-0021_Rear_Window_00.51.37.702-00.51.40.702 	We are now aware that the salesman is now in his living room, lying out of sight on the sofa, because the smoke from a newly lighted cigar is starting to ascend toward the ceiling of his room.
-0021_Rear_Window_01.03.59.575-01.03.59.806 	A number of suits and top coats are lying on an orderly pile on the bed.
-0021_Rear_Window_01.06.09.974-01.06.11.229 	He goes to a pile of coats lying on the bed.
-0021_Rear_Window_01.08.02.722-01.08.04.073 	We see that she has brought an oversized handbag with her, which lies prominently on the table.
-0021_Rear_Window_01.18.59.611-01.19.02.074 	Miss Torso's apartment has the door closed, and all that we can see of her, as she is lying on the divan, is her legs swinging in arcs as she exercise to record music.
-0021_Rear_Window_01.37.26.817-01.37.27.104 	The shovel is lying on the ground beside Lisa.
-0022_Reservoir_Dogs_00.09.42.503-00.09.44.367 	He lies in the backseat.
-0022_Reservoir_Dogs_01.32.04.736-01.32.07.971 	Mr. Orange lies perfectly still, except for his chest heaving.
-0023_THE_BUTTERFLY_EFFECT_00.16.34.236-00.16.37.385 	Evan lies on a couch.
-0023_THE_BUTTERFLY_EFFECT_00.25.27.413-00.25.32.779 	His body contorts spastically like a fish on land, since he is now lying face down on the ground.
-0023_THE_BUTTERFLY_EFFECT_00.43.34.903-00.43.38.867 	Thumper, lying on his bed, quietly watches Evan with growing concern.
-0023_THE_BUTTERFLY_EFFECT_01.40.55.039-01.40.58.542 	Evan, fully clothed, lies in a bathtub that's filling with water.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.05.41.279-00.05.46.383 	Bathed in COLD MOONLIGHT, the WORLD lies DARK and STILL.the unsettled quiet before the storm.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.06.51.711-00.06.55.135 	A YOUNGISH LOOKING BILBO BAGGINS peers down at what lies in his hand, PERPLEXED by what he has found.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.08.00.675-00.08.00.790 	SHIRE.60 YEARS LATER CAMERA TRACKS TO: a Figure lies beneath the dappled sunlight of an old tree.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.31.25.722-00.31.29.279 	The ring lies between them on the table.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.46.52.163-00.46.57.124 	Frodo is staring, a look of shock on his face at the ring lying in the palm of his hand.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.13.51.397-01.13.56.836 	Frodo's eyes flicker Open He is lying in bed next to an Open Window.Dappled sunlight plays on richly carved timbers.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.23.09.188-01.23.18.222 	Boromir looks with Wonderment at Narsil, the Broken Blade of Elendil, which lies on a cloth-covered plinth.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.13.51.566-02.13.57.389 	The Sun that lies on Lothlorien has not power to enlighten the shadows that lie beyond step onto a wide fleet filled with a soft light.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.15.52.329-02.15.57.185 	They lie on soft couches as Elves leave food and wine for them.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.23.21.039-02.23.22.090 	The Ring lies in the palm of Frodo's hand.his fingers close over it.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.30.01.885-02.30.10.246 	Sam sits up with a start.Aragorn's head snaps round.his eyes fly to Boromir's shield which lies abandoned by his camp bed.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.33.34.128-02.33.38.956 	Frodo lies gasping on the summit of Amon Hen.below the ancient ruins of the seeing seat.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.34.05.460-02.34.19.621 	Frodo uncurls his fist.in is palm lies the ring!
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.48.03.655-02.48.03.797 	He is lying in one of the boats, his arms across his chest.his broken horn at his side.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.48.31.829-02.48.35.606 	Aragorn looks towards the far shore; Frodo and Sam's small Boat can be seen lying on the distant Riverbank as Frodo and Sam make off into the forest beyond.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.09.56.713-00.09.58.820 	They PUFF on long pipes as they lie back in the SUN.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.11.26.304-00.11.28.511 	PIPPIN, his eye caught by something lying in the water.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.15.10.671-00.15.12.183 	FRODO and SAM lie asleep amidst scrubby bushes near a stagnant pool.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.15.14.741-00.15.16.467 	SMEAGOL lies nearby, muttering in his sleep.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.19.58.175-00.20.05.650 	A sleeping GANDALF lies with eyes wide open!
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.45.17.730-00.45.31.755 	FARAMIR and his SOLDIERS lie in wait.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.26.54.142-01.26.56.459 	MINAS TIRITH lies ahead -- only.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.37.29.580-01.37.32.352 	AHEAD is a GREAT GREY WALL, a last huge mass of mountainstone and in the SHADOWS at the base of the TOWERING ROCK lies a TUNNEL.
+0014_Ist_das_Leben_nicht_schoen_00.04.58.195-00.05.00.030 	the other boys lie flat on the ice, forming a human chain.
+0014_Ist_das_Leben_nicht_schoen_01.50.41.925-01.50.42.236 	george and clarence lying in the snow.
+0017_Pianist_00.25.33.651-00.25.35.948 	he steps over the corpses lying on the sidewalk.
+0017_Pianist_00.26.26.486-00.26.28.407 	the boy lies moaning.
+0017_Pianist_00.41.36.242-00.41.40.501 	he marches off while she lies on the ground with blood spurting out of her.
+0017_Pianist_00.43.33.621-00.43.39.777 	old people lying down, exhausted, impossible to tell whether some of them are alive or dead.
+0017_Pianist_00.52.27.989-00.52.29.264 	furniture, torn mattresses and pillows lie scattered.
+0017_Pianist_00.52.44.179-00.52.48.182 	lying outside the door, the bodies of jehuda, mrs. zyskind, their two sons and the toddler.
+0017_Pianist_01.01.19.395-01.01.25.113 	after a dozen or so strokes, szpilman falls forward and lies in the dirt.
+0017_Pianist_01.13.26.781-01.13.29.016 	szpilman lies in a steaming bath, eyes closed, as though he's in a trance.
+0017_Pianist_01.18.21.636-01.18.24.252 	he goes to it, slips off his other shoe and lies down, testing the divan's springiness with his whole body.
+0017_Pianist_01.21.30.110-01.21.33.637 	corpses lie scattered on the pavement.
+0017_Pianist_01.26.30.691-01.26.32.754 	szpilman lies on the divan.
+0017_Pianist_01.41.31.224-01.41.33.436 	szpilman lies inert on the bed, weak, starving, ill.
+0017_Pianist_01.45.54.011-01.45.57.188 	szpilman, lying on the bed, staring at the ceiling.
+0019_Pulp_Fiction_00.57.37.260-00.57.44.307 	as she walks in the living room, she sees vincent and lance standing over mia, who's lying on the floor in the middle of the room.
+0019_Pulp_Fiction_01.08.06.244-01.08.17.439 	he lies on a table catching a few zzzzzz's before his big fight.
+0019_Pulp_Fiction_01.19.27.588-01.19.29.446 	fabienne lies her head back.
+0019_Pulp_Fiction_01.31.18.293-01.31.22.995 	what he sees is a small compact czech m61 submachine gun with a huge silencer on it, lying on his kitchen counter.
+0019_Pulp_Fiction_02.28.33.671-02.28.39.670 	jules lowers his gun, lying it on the table.
+0020_Raising_Arizona_00.09.05.900-00.09.07.312 	her hands lie palm-up in her lap, like two dead fish.
+0020_Raising_Arizona_00.26.44.066-00.26.44.532 	ed lies in bed facing the wall; we see only the back of her head.
+0020_Raising_Arizona_00.55.51.002-00.55.52.545 	creeping in on the pimply-faced cashier, sitting asleep behind the counter, a dirty magazine lying face-down, open on his chest.
+0020_Raising_Arizona_01.19.36.419-01.19.38.277 	from where he lies prone.
+0021_Rear_Window_00.04.26.521-00.04.32.672 	then they spread the robes in front of them, and lie down on the roof, and out of sight.
+0021_Rear_Window_00.06.36.763-00.06.37.460 	we can see a woman lying on the far bed.
+0021_Rear_Window_00.07.09.163-00.07.11.759 	he reaches for a long, chinese back scratcher lying on the windowsill.
+0021_Rear_Window_00.46.00.403-00.46.00.903 	miss torso is lying, face down, on her divan bed.
+0021_Rear_Window_00.51.37.702-00.51.40.702 	we are now aware that the salesman is now in his living room, lying out of sight on the sofa, because the smoke from a newly lighted cigar is starting to ascend toward the ceiling of his room.
+0021_Rear_Window_01.03.59.575-01.03.59.806 	a number of suits and top coats are lying on an orderly pile on the bed.
+0021_Rear_Window_01.06.09.974-01.06.11.229 	he goes to a pile of coats lying on the bed.
+0021_Rear_Window_01.08.02.722-01.08.04.073 	we see that she has brought an oversized handbag with her, which lies prominently on the table.
+0021_Rear_Window_01.18.59.611-01.19.02.074 	miss torso's apartment has the door closed, and all that we can see of her, as she is lying on the divan, is her legs swinging in arcs as she exercise to record music.
+0021_Rear_Window_01.37.26.817-01.37.27.104 	the shovel is lying on the ground beside lisa.
+0022_Reservoir_Dogs_00.09.42.503-00.09.44.367 	he lies in the backseat.
+0022_Reservoir_Dogs_01.32.04.736-01.32.07.971 	mr. orange lies perfectly still, except for his chest heaving.
+0022_Reservoir_Dogs_01.33.09.093-01.33.15.165 	he somehow makes it to where mr. orange lies.
+0023_THE_BUTTERFLY_EFFECT_00.16.34.236-00.16.37.385 	evan lies on a couch.
+0023_THE_BUTTERFLY_EFFECT_00.25.27.413-00.25.32.779 	his body contorts spastically like a fish on land, since he is now lying face down on the ground.
+0023_THE_BUTTERFLY_EFFECT_00.43.34.903-00.43.38.867 	thumper, lying on his bed, quietly watches evan with growing concern.
+0023_THE_BUTTERFLY_EFFECT_01.40.55.039-01.40.58.542 	evan, fully clothed, lies in a bathtub that's filling with water.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.05.41.279-00.05.46.383 	bathed in cold moonlight, the world lies dark and still.the unsettled quiet before the storm.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.06.51.711-00.06.55.135 	a youngish looking bilbo baggins peers down at what lies in his hand, perplexed by what he has found.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.08.00.675-00.08.00.790 	shire.60 years later camera tracks to: a figure lies beneath the dappled sunlight of an old tree.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.31.25.722-00.31.29.279 	the ring lies between them on the table.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.46.52.163-00.46.57.124 	frodo is staring, a look of shock on his face at the ring lying in the palm of his hand.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.13.51.397-01.13.56.836 	frodo's eyes flicker open he is lying in bed next to an open window.dappled sunlight plays on richly carved timbers.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.23.09.188-01.23.18.222 	boromir looks with wonderment at narsil, the broken blade of elendil, which lies on a cloth-covered plinth.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.13.51.566-02.13.57.389 	the sun that lies on lothlorien has not power to enlighten the shadows that lie beyond step onto a wide fleet filled with a soft light.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.15.52.329-02.15.57.185 	they lie on soft couches as elves leave food and wine for them.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.23.21.039-02.23.22.090 	the ring lies in the palm of frodo's hand.his fingers close over it.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.30.01.885-02.30.10.246 	sam sits up with a start.aragorn's head snaps round.his eyes fly to boromir's shield which lies abandoned by his camp bed.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.33.34.128-02.33.38.956 	frodo lies gasping on the summit of amon hen.below the ancient ruins of the seeing seat.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.34.05.460-02.34.19.621 	frodo uncurls his fist.in is palm lies the ring!
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.48.03.655-02.48.03.797 	he is lying in one of the boats, his arms across his chest.his broken horn at his side.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.48.31.829-02.48.35.606 	aragorn looks towards the far shore; frodo and sam's small boat can be seen lying on the distant riverbank as frodo and sam make off into the forest beyond.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.09.56.713-00.09.58.820 	they puff on long pipes as they lie back in the sun.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.11.26.304-00.11.28.511 	pippin, his eye caught by something lying in the water.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.15.10.671-00.15.12.183 	frodo and sam lie asleep amidst scrubby bushes near a stagnant pool.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.15.14.741-00.15.16.467 	smeagol lies nearby, muttering in his sleep.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.19.58.175-00.20.05.650 	a sleeping gandalf lies with eyes wide open!
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.45.17.730-00.45.31.755 	faramir and his soldiers lie in wait.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.01.11.672-01.01.16.373 	aerial shot: high above minas morgul, on the small ledge next to the stairs, lie the figures of frodo, sam and gollum.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.15.21.216-01.15.36.524 	as arwen lies dying, the evenstar falls from her fingers.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.26.54.142-01.26.56.459 	minas tirith lies ahead -- only.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.37.29.580-01.37.32.352 	ahead is a great grey wall, a last huge mass of mountainstone and in the shadows at the base of the towering rock lies a tunnel.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.46.07.974-01.46.10.164 	torn, not wanting to go on, wanting to lie down.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.47.33.152-01.47.37.990 	Upon each TOMB lies a SLEEPING FORM, carved in STONE, hands folded.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.57.39.589-01.57.41.115 	MINAS TIRITH lies less than a MILE AWAY, down a gentle slope.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.09.14.141-02.09.16.855 	THEODEN lies DYING beneath it.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.23.56.094-02.23.56.204 	Before them lies the PLAIN of GORGOROTH.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.28.24.538-02.28.28.105 	A moment of EYE CONTACT between FRODO and SAM as they acknowledge what lies ahead.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.34.13.802-02.34.18.911 	SAM crawls to FRODO who lies SLUMPED against the rock-face.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.37.37.988-02.37.38.850 	The PLAIN of GORGOROTH lies 1000 FEET BELOW, wrapped in fume and shadow.
-0026_The_Big_Fish_00.08.54.704-00.08.56.110 	The endtable lamp lies between them, its shade off to cast big shadows on the wall.
-0026_The_Big_Fish_00.11.35.506-00.11.39.853 	She looks like she's been dead for years, but too stubborn to lie down.
-0026_The_Big_Fish_00.15.10.179-00.15.11.507 	Edward Bloom, 61, lies asleep on the bed.
-0026_The_Big_Fish_00.19.36.792-00.19.40.408 	Young Edward lies in bed, his limbs connected to various pulleys and levers to support his weight.
-0026_The_Big_Fish_00.30.14.979-00.30.20.324 	Ahead lies a tiny one-street town -- smaller even than Ashton -- with powerlines emerging from the woods to feed it.
-0026_The_Big_Fish_00.40.36.250-00.40.41.159 	Edward is lying shoeless and torn in a muddy puddle, staring up at the rain.
-0026_The_Big_Fish_01.05.59.311-01.06.01.888 	His head lies on the daffodils.
-0027_The_Big_Lebowski_00.20.03.397-00.20.20.125 	A large, brilliant Persian rug lies beneath the Dude's beat- up old furniture.
-0027_The_Big_Lebowski_00.29.41.036-00.29.41.725 	In his outflung hand lies a cassette case labeled VENICE.
-0027_The_Big_Lebowski_00.43.25.137-00.43.26.052 	We see the backside of a naked woman in a sling suspended from a ceiling track rumbling over a canvas that lies on the floor.
-0028_The_Crying_Game_01.03.26.717-01.03.30.456 	Fergus lies there, looking at the picture, listening to the sound of running water.
-0028_The_Crying_Game_01.14.16.467-01.14.21.363 	She lies down on the bed beside him, takes off a black leather glove, and puts her hand on his crotch.
-0028_The_Crying_Game_01.34.07.631-01.34.09.159 	Dil is lying back on it.
-0028_The_Crying_Game_01.35.38.797-01.35.50.313 	They are lying on the bed together, fully clothed.
-0029_The_Graduate_00.03.22.628-00.03.27.768 	Now the bed on which he is lying moves as though someone has sat down upon it next to him.
-0029_The_Graduate_00.38.21.065-00.38.44.392 	The midsummer sun beats down on the Braddock swimming pool and on Ben who lies on a rubber raft in the middle of the pool.
-0030_The_Hustler_00.03.32.688-00.03.38.964 	Stung, Eddie lies across the table and sets them up himself.
-0030_The_Hustler_00.17.17.354-00.17.36.195 	The balls are returned and Eddie makes his break shot, a glancing blow that leaves the pack of balls nearly intact and the white cue ball lying far away at the end of the table.
-0030_The_Hustler_00.20.19.618-00.20.23.211 	Fats peers at the pack of balls huddled together, then points to one that lies in the middle of the pack.
-0030_The_Hustler_00.36.13.172-00.36.17.464 	Eddie is lying on his bed staring at the ceiling, the crashing of pool balls sounding in his head.
-0030_The_Hustler_01.48.47.971-01.48.50.330 	A Negro maid sits patiently in the room, watching over Sarah and the coats that Sarah is lying on.
-0031_The_Lost_Weekend_00.06.54.026-00.06.56.746 	None of the three see, but we do, that it doesn't fall out the window but ricochets against the opened casement to the window sill, where it lies smouldering.
-0031_The_Lost_Weekend_00.37.42.462-00.37.42.967 	On the sidewalk lies the pint of whiskey, broken.
-0031_The_Lost_Weekend_00.42.27.641-00.42.28.725 	In the dim fore- ground stands a small table, beyond it the vague contours of Don lying on the couch.
-0031_The_Lost_Weekend_00.55.41.758-00.55.42.232 	Behind the glass lies the folder of matches.
-0031_The_Lost_Weekend_00.56.43.935-00.56.49.554 	Next him the couple is cooing away like Spring, -- but on the bench between him and the girl lies her bag.
-0031_The_Lost_Weekend_01.00.52.052-01.01.02.718 	In a stupor of shame and misery he stumbles over to the living room couch, flings himself down on it and lies covering his face with his arms.
-0031_The_Lost_Weekend_01.16.58.835-01.17.00.352 	On his cot lies Don, his eyes wide open.
-0031_The_Lost_Weekend_01.18.15.095-01.18.21.459 	Don looks after the doctor, then is fascinated by the coat lying beside him.
-0031_The_Lost_Weekend_01.30.13.634-01.30.14.510 	On the armchair near the kitchen door lies Helen's leopard coat.
-0031_The_Lost_Weekend_01.30.15.131-01.30.15.995 	Helen lies asleep on the couch, using the pillow and the comforter from Wick's bed.
-0031_The_Lost_Weekend_01.32.26.759-01.32.32.376 	On it lies a revolver and the second page of a letter on which Don is writing.But amid all the grimness can we share one little joke, dear Wick: I did finish something, didn't I?
-0032_The_Princess_Bride_00.28.03.993-00.28.06.414 	FEZZIK goes to earth and lies still.
-0032_The_Princess_Bride_00.34.13.926-00.34.26.790 	THE MAN IN BLACK, stepping past the corpse, taking the blindfold and bindings off Buttercup, who notices Vizzini lying dead.
-0032_The_Princess_Bride_00.39.23.589-00.39.25.371 	TWO BODIES lie a few feet apart, not moving.
-0032_The_Princess_Bride_00.50.42.031-00.50.43.868 	Westley lies in the center of the cage, chained and helpless.
-0032_The_Princess_Bride_00.58.17.045-00.58.25.064 	WESTLEY, and he's lying on the table, and he's only flesh and the chains are metal and thick, but such is his desperation it almost seems he might break them.
-0032_The_Princess_Bride_01.25.08.623-01.25.10.625 	WESTLEY, lying on the bed.
-0032_The_Princess_Bride_01.27.16.105-01.27.17.320 	RUGEN, lying dead.
-0032_The_Princess_Bride_01.27.24.456-01.27.25.470 	WESTLEY lies as before, not a muscle has moved, his head is still on the headboard, Yellin's sword at his side.
-0032_The_Princess_Bride_01.28.04.395-01.28.05.549 	WESTLEY, lying there comfortably, his words quiet at first.
-0032_The_Princess_Bride_01.29.21.208-01.29.22.684 	WESTLEY, lying there, staring at him.
-0033_Amadeus_00.02.18.801-00.02.21.530 	Old Salieri lies on the floor in a pool of blood, an open razor in his hand.
-0033_Amadeus_01.08.56.646-01.08.59.256 	In it lies the olivewood Christ on the cross, burning.
-0033_Amadeus_01.17.57.383-01.17.57.998 	Constanze lies in bed.
-0033_Amadeus_02.19.50.263-02.19.50.890 	Papers litter the table; dirty dishes are piled in the fireplace; on the forte-piano lies Mozart's Masonic apron, woven with symbols.
-0033_Amadeus_02.20.26.338-02.20.29.710 	We watch him stand beside Constanze, who lies asleep.
-0033_Amadeus_02.20.33.181-02.20.41.708 	Then he moves to the cot where his son Karl lies asleep and kneels, pulls up the child's little blanket and for a moment lays his own head down beside the boy's.
-0033_Amadeus_02.42.29.497-02.42.31.114 	Mozart lying in bed exhausted, but still dictating urgently.
-0033_Amadeus_02.45.38.351-02.45.39.026 	Mozart lies asleep in the bed, holding the last pages of the manuscript.
-0033_Amadeus_02.45.43.418-02.45.44.504 	Salieri lies across from him on Karl's small bed in his shirt sleeves and waistcoat.
-0038_Psycho_00.48.39.480-00.48.42.324 	Lying half in, half out of the tub, the head tumbled over, touching the floor, the hair wet, one eye wide open as if popped, one arm lying limp and wet along the tile floor.
-0046_Chasing_Amy_01.02.48.083-01.02.50.266 	Holden and Alyssa lie in each other's arms, moonlight bathing them.
-0049_Hannah_and_her_sisters_00.29.19.285-00.29.30.563 	Graph paper rolls out of a machine, and after a brief glimpse of the rolling paper, the camera moves over to show Mickey lying terrified, without his glasses, on a couch, with electrodes stuck all over his head.
-0049_Hannah_and_her_sisters_00.29.40.889-00.29.50.873 	The camera moves down the giant cranelike device to reveal Mickey, once again lying down, this time on a table, his eyes closed, underneath it.
-0049_Hannah_and_her_sisters_00.30.58.429-00.31.03.472 	The dark bedroom is abruptly lit as Mickey, lying in his bed, wakes up with a start and turns on his night-table lamp.
-0049_Hannah_and_her_sisters_00.48.16.386-00.48.22.320 	There is a science- fiction feel to this scene, as if Mickey is lying in the center of a huge, white, futuristic circle.
-0049_Hannah_and_her_sisters_00.52.21.161-00.52.38.955 	The harpsichord music begins to play again as the camera moves over the bed covers to reveal Lee, lying contentedly under the sheets, her hair fanned out on the pillows, one arm near her head.
-0049_Hannah_and_her_sisters_01.30.08.012-01.30.14.317 	Elliot turns the lamp back on, then turns to Hannah; she is lying on her side of the bed, partially in shadow.
-0050_Indiana_Jones_and_the_last_crusade_00.10.13.483-00.10.15.168 	In fact, he is studying a very ancient parchment volume which lies open on the desk.
-0050_Indiana_Jones_and_the_last_crusade_00.44.32.088-00.44.33.832 	Indy lies on top of Elsa, kissing her.
-0050_Indiana_Jones_and_the_last_crusade_01.26.26.089-01.26.32.285 	They look down at Kazim who lies mortally wounded on the ground at their feet.
-0050_Indiana_Jones_and_the_last_crusade_01.44.52.689-01.44.53.803 	The two decapitated men lie a few yards in front of him.
-0050_Indiana_Jones_and_the_last_crusade_01.46.02.831-01.46.04.834 	Still lies in Sallah's arms.
-0050_Indiana_Jones_and_the_last_crusade_01.57.20.829-01.57.22.339 	Now the ledge Indy lies upon begins to break apart.
-0051_Men_in_black_00.52.06.986-00.52.10.981 	Jay and Laurel cross the room, to where ROSENBERG's corpse lies out on another gurney.
-0053_Rendezvous_mit_Joe_Black_01.52.08.036-01.52.19.670 	Joe seems to drift away now, they lie together as one but for the first time, she feels separate from him, sensing him gone to some distant, distant land.
-1001_Flight_00.02.39.099-00.02.44.687 	The man lies on his back.
-1001_Flight_00.21.05.567-00.21.07.719 	Cammie lies still.
-1001_Flight_00.26.02.911-00.26.10.810 	The broken-off spire from the church lies some distance away from an ambulance as rescue workers help survivors.
-1001_Flight_01.01.37.577-01.01.45.790 	A cassette labeled Soul Funk number two plays on the stereo as Whip lies back with a pack of ice on his knee.
-1001_Flight_01.11.29.053-01.11.32.174 	He lies prone on the carpet.
-1001_Flight_01.23.24.816-01.23.27.606 	Ken's left leg lies on a brace.
-1001_Flight_01.31.49.656-01.31.51.656 	In the morning, Whip lies sleeping on the bed fully dressed.
-1001_Flight_01.44.30.994-01.44.41.498 	He lies in bed surfing channels on the TV.
-1001_Flight_01.49.36.947-01.49.38.817 	Bottles lie everywhere.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.02.10.065-00.02.15.966 	People lie injured, as the Death Eaters emerge from the shop, one holding a man with a bag over his head.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.52.01.255-00.52.06.192 	Ahead of them, Katie Bell lies on her back in the snow.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.52.21.620-00.52.27.533 	She crashes down onto the snow and lies on her back, her head shaking.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.52.40.616-00.52.42.620 	Harry walks towards something lying on the ground.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.52.48.281-00.52.50.581 	A necklace of blue stones lies on the snow, tipped out of its box.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.52.53.990-00.52.57.287 	Back inside its box, the necklace lies on a desk.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.54.59.688-00.55.01.492 	Harry lies on his bed with the Marauder's Map.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.55.48.246-00.55.50.818 	Ron's lying in bed with his hands behind his head.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.30.35.290-01.30.38.699 	He leans over Ron, who lies on his back, no longer breathing.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.30.45.332-01.30.48.475 	Ron sits up, then lies back weakly on the floor.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.40.01.540-01.40.08.531 	In the Gryffindor common room, the potions book lies on the table in front of Harry.
-1002_Harry_Potter_and_the_Half-Blood_Prince_02.05.37.628-02.05.38.844 	He picks up a locket and chain lying at the bottom.
-1002_Harry_Potter_and_the_Half-Blood_Prince_02.08.29.181-02.08.33.725 	The flames part, a clear channel of water lies ahead.
-1002_Harry_Potter_and_the_Half-Blood_Prince_02.08.34.200-02.08.37.514 	Draco Malfoy lies in bed wide awake.
-1002_Harry_Potter_and_the_Half-Blood_Prince_02.15.43.207-02.15.43.885 	Harry lies on his back on the hillside.
-1002_Harry_Potter_and_the_Half-Blood_Prince_02.16.28.031-02.16.28.657 	Harry lies motionless on the grassy hillside.
-1002_Harry_Potter_and_the_Half-Blood_Prince_02.18.28.525-02.18.31.310 	Dumbledore lies before them, his face serene and peaceful.
-1002_Harry_Potter_and_the_Half-Blood_Prince_02.19.43.103-02.19.44.627 	Apair of half-moon spectacles lies on an open book.
-1003_How_to_Lose_Friends_and_Alienate_People_01.05.59.218-01.06.02.640 	Sydney lies on his belly by the water's edge.
-1003_How_to_Lose_Friends_and_Alienate_People_01.06.33.725-01.06.37.487 	She lies down beside him on her belly.
-1003_How_to_Lose_Friends_and_Alienate_People_01.07.42.620-01.07.46.574 	Smiling, she turns her head to look at Sydney, who lies on his side, gazing at her.
-1003_How_to_Lose_Friends_and_Alienate_People_01.15.58.456-01.15.59.988 	Leaning his head against the door frame, he peers into the dark room, where Alison lies sleeping.
-1003_How_to_Lose_Friends_and_Alienate_People_01.44.32.867-01.44.33.531 	Alison's notebook lies on top of a lit candle.
-1004_Juno_00.07.02.720-00.07.07.984 	A girl lying on her bad with a rabbit on her chest answers.
-1004_Juno_00.21.59.660-00.22.04.404 	Bleeker is lying on his bed, looking at the photo of Juno in his yearbook.
-1004_Juno_00.41.30.125-00.41.45.847 	In her room, with its walls covered in drawings, Juno lies on her bed, her legs propped up on cushions, gazing at the ultrasound print.
-1004_Juno_01.26.14.677-01.26.23.194 	In the hospital room, Mac is gently stroking Juno's hair as she lies on her side in bed.
-1005_Signs_00.05.13.892-00.05.18.709 	Another crop circle lies beside it.
-1005_Signs_00.06.18.472-00.06.19.973 	One of the dogs lies on the floor near a puddle of liquid.
-1005_Signs_00.07.36.606-00.07.37.524 	The other one, Houdini, lies slumped in the yard with Bo kneeling in front of him.
-1005_Signs_00.09.58.537-00.10.02.204 	Houdini lies motionless on the ground near the climbing frame, with Morgan kneeling beside him.
-1005_Signs_00.11.58.099-00.11.58.299 	Graham lies on his side in bed.
-1005_Signs_00.12.19.280-00.12.26.060 	They come to the open bedroom door and step into the darkened room, where Morgan lies half off his bed in an uncomfortable looking heap.
-1005_Signs_00.12.27.420-00.12.34.774 	Bo shuffles off to her bed as Graham gently lifts Morgan up and lies him on his back.
-1005_Signs_00.53.46.792-00.53.47.946 	Graham's gaze alights on a wooden chair lying upturned on the floor beside the lampshade.
-1005_Signs_00.58.56.697-00.59.02.600 	He steps timidly into the room, where chairs lie turned on the floor and the tables being wedged against the door leading into the pantry.
-1005_Signs_01.00.30.346-01.00.37.190 	He spots some chopped vegetables sitting on a work top and lying next to them, a large kitchen knife.
-1005_Signs_01.01.32.331-01.01.35.246 	He lies on his stomach by the pantry door.
-1005_Signs_01.10.35.232-01.10.39.323 	On a worktop lies a sharp knife along with a skinned onion, some potato peel on top of tomato.
-1005_Signs_01.25.37.470-01.25.40.240 	Morgan lies back, his breathing returning to normal.
-1005_Signs_01.38.05.353-01.38.10.912 	The broken head of the bat lies on the floor, shards of glass around it.
-1006_Slumdog_Millionaire_00.21.17.899-00.21.27.949 	Jamal looks out at Latika in the rain for a moment then lies down.
-1006_Slumdog_Millionaire_00.21.38.500-00.21.42.182 	Salim lies with his back to Jamal, but he's wide awake.
-1006_Slumdog_Millionaire_00.22.34.025-00.22.37.200 	Latika lies down next to Jamal.
-1006_Slumdog_Millionaire_00.22.40.615-00.22.46.274 	The three children lie on the floor out of the rain shivering in the cold.
-1006_Slumdog_Millionaire_00.24.18.050-00.24.20.870 	Jamal and Salim lie dosing in the tent amidst the rubbish.
-1006_Slumdog_Millionaire_00.36.46.568-00.36.52.086 	Men are lying down watching them.
-1006_Slumdog_Millionaire_01.01.57.845-01.02.02.559 	In the hotel room, Jamal and Latika lie on a mattress on the floor.
-1006_Slumdog_Millionaire_01.15.38.319-01.15.45.875 	Jamal opens his eyes but lies still.
-1006_Slumdog_Millionaire_01.46.35.544-01.46.40.070 	Salim lies in the bath of money with his gun.
-1007_Spider-Man1_00.14.24.871-00.14.31.288 	He grabs the tartan blanket lying on top of the bed and hauls it over him.
-1007_Spider-Man1_00.15.46.225-00.15.54.895 	Having flung the bottle to the floor, Norman lifts opens the metal with strengths on the sliding trolley and lies down on it.
-1007_Spider-Man1_00.20.59.822-00.21.05.181 	Harry rushes into the study where his father is lying face down on the floor.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.47.33.152-01.47.37.990 	upon each tomb lies a sleeping form, carved in stone, hands folded.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.54.53.333-01.54.59.640 	from the shadows pippin watches, aghast, as faramir is lain on a funeral pyre.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.57.39.589-01.57.41.115 	minas tirith lies less than a mile away, down a gentle slope.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.09.14.141-02.09.16.855 	theoden lies dying beneath it.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.23.56.094-02.23.56.204 	before them lies the plain of gorgoroth.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.28.24.538-02.28.28.105 	a moment of eye contact between frodo and sam as they acknowledge what lies ahead.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.34.13.802-02.34.18.911 	sam crawls to frodo who lies slumped against the rock-face.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.37.37.988-02.37.38.850 	the plain of gorgoroth lies 1000 feet below, wrapped in fume and shadow.
+0026_The_Big_Fish_00.08.54.704-00.08.56.110 	the endtable lamp lies between them, its shade off to cast big shadows on the wall.
+0026_The_Big_Fish_00.11.35.506-00.11.39.853 	she looks like she's been dead for years, but too stubborn to lie down.
+0026_The_Big_Fish_00.15.10.179-00.15.11.507 	edward bloom, 61, lies asleep on the bed.
+0026_The_Big_Fish_00.19.36.792-00.19.40.408 	young edward lies in bed, his limbs connected to various pulleys and levers to support his weight.
+0026_The_Big_Fish_00.30.14.979-00.30.20.324 	ahead lies a tiny one-street town -- smaller even than ashton -- with powerlines emerging from the woods to feed it.
+0026_The_Big_Fish_00.40.36.250-00.40.41.159 	edward is lying shoeless and torn in a muddy puddle, staring up at the rain.
+0026_The_Big_Fish_01.05.59.311-01.06.01.888 	his head lies on the daffodils.
+0027_The_Big_Lebowski_00.20.03.397-00.20.20.125 	a large, brilliant persian rug lies beneath the dude's beat- up old furniture.
+0027_The_Big_Lebowski_00.29.41.036-00.29.41.725 	in his outflung hand lies a cassette case labeled venice.
+0027_The_Big_Lebowski_00.43.25.137-00.43.26.052 	we see the backside of a naked woman in a sling suspended from a ceiling track rumbling over a canvas that lies on the floor.
+0028_The_Crying_Game_00.05.37.990-00.05.40.004 	on the floor of the car jody lies, with three pairs of feet on top of him, a black bag over his head and the barrel of a gun dangling close to his face.
+0028_The_Crying_Game_01.03.26.717-01.03.30.456 	fergus lies there, looking at the picture, listening to the sound of running water.
+0028_The_Crying_Game_01.14.16.467-01.14.21.363 	she lies down on the bed beside him, takes off a black leather glove, and puts her hand on his crotch.
+0028_The_Crying_Game_01.34.07.631-01.34.09.159 	dil is lying back on it.
+0028_The_Crying_Game_01.35.38.797-01.35.50.313 	they are lying on the bed together, fully clothed.
+0029_The_Graduate_00.03.22.628-00.03.27.768 	now the bed on which he is lying moves as though someone has sat down upon it next to him.
+0029_The_Graduate_00.38.21.065-00.38.44.392 	the midsummer sun beats down on the braddock swimming pool and on ben who lies on a rubber raft in the middle of the pool.
+0030_The_Hustler_00.17.17.354-00.17.36.195 	the balls are returned and eddie makes his break shot, a glancing blow that leaves the pack of balls nearly intact and the white cue ball lying far away at the end of the table.
+0030_The_Hustler_00.20.19.618-00.20.23.211 	fats peers at the pack of balls huddled together, then points to one that lies in the middle of the pack.
+0030_The_Hustler_00.36.13.172-00.36.17.464 	eddie is lying on his bed staring at the ceiling, the crashing of pool balls sounding in his head.
+0030_The_Hustler_01.48.47.971-01.48.50.330 	a negro maid sits patiently in the room, watching over sarah and the coats that sarah is lying on.
+0031_The_Lost_Weekend_00.06.54.026-00.06.56.746 	none of the three see, but we do, that it doesn't fall out the window but ricochets against the opened casement to the window sill, where it lies smouldering.
+0031_The_Lost_Weekend_00.37.42.462-00.37.42.967 	on the sidewalk lies the pint of whiskey, broken.
+0031_The_Lost_Weekend_00.42.27.641-00.42.28.725 	in the dim fore- ground stands a small table, beyond it the vague contours of don lying on the couch.
+0031_The_Lost_Weekend_00.55.41.758-00.55.42.232 	behind the glass lies the folder of matches.
+0031_The_Lost_Weekend_00.56.43.935-00.56.49.554 	next him the couple is cooing away like spring, -- but on the bench between him and the girl lies her bag.
+0031_The_Lost_Weekend_01.00.52.052-01.01.02.718 	in a stupor of shame and misery he stumbles over to the living room couch, flings himself down on it and lies covering his face with his arms.
+0031_The_Lost_Weekend_01.16.58.835-01.17.00.352 	on his cot lies don, his eyes wide open.
+0031_The_Lost_Weekend_01.18.15.095-01.18.21.459 	don looks after the doctor, then is fascinated by the coat lying beside him.
+0031_The_Lost_Weekend_01.30.13.634-01.30.14.510 	on the armchair near the kitchen door lies helen's leopard coat.
+0031_The_Lost_Weekend_01.30.15.131-01.30.15.995 	helen lies asleep on the couch, using the pillow and the comforter from wick's bed.
+0031_The_Lost_Weekend_01.32.26.759-01.32.32.376 	on it lies a revolver and the second page of a letter on which don is writing.but amid all the grimness can we share one little joke, dear wick: i did finish something, didn't i?
+0032_The_Princess_Bride_00.28.03.993-00.28.06.414 	fezzik goes to earth and lies still.
+0032_The_Princess_Bride_00.34.13.926-00.34.26.790 	the man in black, stepping past the corpse, taking the blindfold and bindings off buttercup, who notices vizzini lying dead.
+0032_The_Princess_Bride_00.39.23.589-00.39.25.371 	two bodies lie a few feet apart, not moving.
+0032_The_Princess_Bride_00.50.42.031-00.50.43.868 	westley lies in the center of the cage, chained and helpless.
+0032_The_Princess_Bride_00.58.17.045-00.58.25.064 	westley, and he's lying on the table, and he's only flesh and the chains are metal and thick, but such is his desperation it almost seems he might break them.
+0032_The_Princess_Bride_01.25.08.623-01.25.10.625 	westley, lying on the bed.
+0032_The_Princess_Bride_01.27.16.105-01.27.17.320 	rugen, lying dead.
+0032_The_Princess_Bride_01.27.24.456-01.27.25.470 	westley lies as before, not a muscle has moved, his head is still on the headboard, yellin's sword at his side.
+0032_The_Princess_Bride_01.28.04.395-01.28.05.549 	westley, lying there comfortably, his words quiet at first.
+0032_The_Princess_Bride_01.29.21.208-01.29.22.684 	westley, lying there, staring at him.
+0033_Amadeus_00.02.18.801-00.02.21.530 	old salieri lies on the floor in a pool of blood, an open razor in his hand.
+0033_Amadeus_01.08.56.646-01.08.59.256 	in it lies the olivewood christ on the cross, burning.
+0033_Amadeus_01.17.57.383-01.17.57.998 	constanze lies in bed.
+0033_Amadeus_02.19.50.263-02.19.50.890 	papers litter the table; dirty dishes are piled in the fireplace; on the forte-piano lies mozart's masonic apron, woven with symbols.
+0033_Amadeus_02.20.26.338-02.20.29.710 	we watch him stand beside constanze, who lies asleep.
+0033_Amadeus_02.20.33.181-02.20.41.708 	then he moves to the cot where his son karl lies asleep and kneels, pulls up the child's little blanket and for a moment lays his own head down beside the boy's.
+0033_Amadeus_02.42.29.497-02.42.31.114 	mozart lying in bed exhausted, but still dictating urgently.
+0033_Amadeus_02.45.38.351-02.45.39.026 	mozart lies asleep in the bed, holding the last pages of the manuscript.
+0033_Amadeus_02.45.43.418-02.45.44.504 	salieri lies across from him on karl's small bed in his shirt sleeves and waistcoat.
+0038_Psycho_00.48.39.480-00.48.42.324 	lying half in, half out of the tub, the head tumbled over, touching the floor, the hair wet, one eye wide open as if popped, one arm lying limp and wet along the tile floor.
+0038_Psycho_01.29.17.156-01.29.22.744 	norman walks past sam, giving him the sort of quick, disapproving glance one gives a man who is obviously lying, goes onto the porch and into the office.
+0049_Hannah_and_her_sisters_00.29.19.285-00.29.30.563 	graph paper rolls out of a machine, and after a brief glimpse of the rolling paper, the camera moves over to show mickey lying terrified, without his glasses, on a couch, with electrodes stuck all over his head.
+0049_Hannah_and_her_sisters_00.29.40.889-00.29.50.873 	the camera moves down the giant cranelike device to reveal mickey, once again lying down, this time on a table, his eyes closed, underneath it.
+0049_Hannah_and_her_sisters_00.30.58.429-00.31.03.472 	the dark bedroom is abruptly lit as mickey, lying in his bed, wakes up with a start and turns on his night-table lamp.
+0049_Hannah_and_her_sisters_00.48.16.386-00.48.22.320 	there is a science- fiction feel to this scene, as if mickey is lying in the center of a huge, white, futuristic circle.
+0049_Hannah_and_her_sisters_00.52.21.161-00.52.38.955 	the harpsichord music begins to play again as the camera moves over the bed covers to reveal lee, lying contentedly under the sheets, her hair fanned out on the pillows, one arm near her head.
+0049_Hannah_and_her_sisters_01.30.08.012-01.30.14.317 	elliot turns the lamp back on, then turns to hannah; she is lying on her side of the bed, partially in shadow.
+0050_Indiana_Jones_and_the_last_crusade_00.10.13.483-00.10.15.168 	in fact, he is studying a very ancient parchment volume which lies open on the desk.
+0050_Indiana_Jones_and_the_last_crusade_00.34.39.267-00.34.42.365 	lie the decomposed remains of a knight in armor.
+0050_Indiana_Jones_and_the_last_crusade_00.44.32.088-00.44.33.832 	indy lies on top of elsa, kissing her.
+0050_Indiana_Jones_and_the_last_crusade_01.26.26.089-01.26.32.285 	they look down at kazim who lies mortally wounded on the ground at their feet.
+0050_Indiana_Jones_and_the_last_crusade_01.40.55.990-01.41.05.718 	is about to approach the spot where a turkish soldier lies dead.
+0050_Indiana_Jones_and_the_last_crusade_01.44.52.689-01.44.53.803 	the two decapitated men lie a few yards in front of him.
+0050_Indiana_Jones_and_the_last_crusade_01.46.02.831-01.46.04.834 	still lies in sallah's arms.
+0050_Indiana_Jones_and_the_last_crusade_01.57.20.829-01.57.22.339 	now the ledge indy lies upon begins to break apart.
+0051_Men_in_black_00.52.06.986-00.52.10.981 	jay and laurel cross the room, to where rosenberg's corpse lies out on another gurney.
+0053_Rendezvous_mit_Joe_Black_01.52.08.036-01.52.19.670 	joe seems to drift away now, they lie together as one but for the first time, she feels separate from him, sensing him gone to some distant, distant land.
+1001_Flight_00.02.39.099-00.02.44.687 	the man lies on his back.
+1001_Flight_00.21.05.567-00.21.07.719 	cammie lies still.
+1001_Flight_00.26.02.911-00.26.10.810 	the broken-off spire from the church lies some distance away from an ambulance as rescue workers help survivors.
+1001_Flight_01.01.37.577-01.01.45.790 	a cassette labeled soul funk number two plays on the stereo as whip lies back with a pack of ice on his knee.
+1001_Flight_01.11.29.053-01.11.32.174 	he lies prone on the carpet.
+1001_Flight_01.23.24.816-01.23.27.606 	ken's left leg lies on a brace.
+1001_Flight_01.31.49.656-01.31.51.656 	in the morning, whip lies sleeping on the bed fully dressed.
+1001_Flight_01.44.30.994-01.44.41.498 	he lies in bed surfing channels on the tv.
+1001_Flight_01.45.59.428-01.46.10.120 	lying in bed he's awakened by the same sound.
+1001_Flight_01.49.36.947-01.49.38.817 	bottles lie everywhere.
+1001_Flight_01.49.45.781-01.49.50.533 	whip lies face down in the bathroom, a large blood stain on the toilet.
+1002_Harry_Potter_and_the_Half-Blood_Prince_00.02.10.065-00.02.15.966 	people lie injured, as the death eaters emerge from the shop, one holding a man with a bag over his head.
+1002_Harry_Potter_and_the_Half-Blood_Prince_00.52.21.620-00.52.27.533 	she crashes down onto the snow and lies on her back, her head shaking.
+1002_Harry_Potter_and_the_Half-Blood_Prince_00.52.40.616-00.52.42.620 	harry walks towards something lying on the ground.
+1002_Harry_Potter_and_the_Half-Blood_Prince_00.52.48.281-00.52.50.581 	a necklace of blue stones lies on the snow, tipped out of its box.
+1002_Harry_Potter_and_the_Half-Blood_Prince_00.52.53.990-00.52.57.287 	back inside its box, the necklace lies on a desk.
+1002_Harry_Potter_and_the_Half-Blood_Prince_00.54.59.688-00.55.01.492 	harry lies on his bed with the marauder's map.
+1002_Harry_Potter_and_the_Half-Blood_Prince_00.55.48.246-00.55.50.818 	ron's lying in bed with his hands behind his head.
+1002_Harry_Potter_and_the_Half-Blood_Prince_01.30.35.290-01.30.38.699 	he leans over ron, who lies on his back, no longer breathing.
+1002_Harry_Potter_and_the_Half-Blood_Prince_01.30.45.332-01.30.48.475 	ron sits up, then lies back weakly on the floor.
+1002_Harry_Potter_and_the_Half-Blood_Prince_01.40.01.540-01.40.08.531 	in the gryffindor common room, the potions book lies on the table in front of harry.
+1002_Harry_Potter_and_the_Half-Blood_Prince_02.05.37.628-02.05.38.844 	he picks up a locket and chain lying at the bottom.
+1002_Harry_Potter_and_the_Half-Blood_Prince_02.08.34.200-02.08.37.514 	draco malfoy lies in bed wide awake.
+1002_Harry_Potter_and_the_Half-Blood_Prince_02.15.43.207-02.15.43.885 	harry lies on his back on the hillside.
+1002_Harry_Potter_and_the_Half-Blood_Prince_02.16.28.031-02.16.28.657 	harry lies motionless on the grassy hillside.
+1002_Harry_Potter_and_the_Half-Blood_Prince_02.18.28.525-02.18.31.310 	dumbledore lies before them, his face serene and peaceful.
+1002_Harry_Potter_and_the_Half-Blood_Prince_02.19.43.103-02.19.44.627 	apair of half-moon spectacles lies on an open book.
+1003_How_to_Lose_Friends_and_Alienate_People_01.05.59.218-01.06.02.640 	sydney lies on his belly by the water's edge.
+1003_How_to_Lose_Friends_and_Alienate_People_01.06.33.725-01.06.37.487 	she lies down beside him on her belly.
+1003_How_to_Lose_Friends_and_Alienate_People_01.07.42.620-01.07.46.574 	smiling, she turns her head to look at sydney, who lies on his side, gazing at her.
+1003_How_to_Lose_Friends_and_Alienate_People_01.15.58.456-01.15.59.988 	leaning his head against the door frame, he peers into the dark room, where alison lies sleeping.
+1003_How_to_Lose_Friends_and_Alienate_People_01.44.32.867-01.44.33.531 	alison's notebook lies on top of a lit candle.
+1004_Juno_00.07.02.720-00.07.07.984 	a girl lying on her bad with a rabbit on her chest answers.
+1004_Juno_00.21.59.660-00.22.04.404 	bleeker is lying on his bed, looking at the photo of juno in his yearbook.
+1004_Juno_01.26.14.677-01.26.23.194 	in the hospital room, mac is gently stroking juno's hair as she lies on her side in bed.
+1005_Signs_00.05.13.892-00.05.18.709 	another crop circle lies beside it.
+1005_Signs_00.06.18.472-00.06.19.973 	one of the dogs lies on the floor near a puddle of liquid.
+1005_Signs_00.07.36.606-00.07.37.524 	the other one, houdini, lies slumped in the yard with bo kneeling in front of him.
+1005_Signs_00.08.32.440-00.08.35.380 	the stalks all lie in the same direction.
+1005_Signs_00.09.58.537-00.10.02.204 	houdini lies motionless on the ground near the climbing frame, with morgan kneeling beside him.
+1005_Signs_00.11.58.099-00.11.58.299 	graham lies on his side in bed.
+1005_Signs_00.12.19.280-00.12.26.060 	they come to the open bedroom door and step into the darkened room, where morgan lies half off his bed in an uncomfortable looking heap.
+1005_Signs_00.12.27.420-00.12.34.774 	bo shuffles off to her bed as graham gently lifts morgan up and lies him on his back.
+1005_Signs_00.51.14.470-00.51.20.451 	lying on the lawn of the pictured house are three shadowy bodies, an adult and two children.
+1005_Signs_00.53.46.792-00.53.47.946 	graham's gaze alights on a wooden chair lying upturned on the floor beside the lampshade.
+1005_Signs_00.58.56.697-00.59.02.600 	he steps timidly into the room, where chairs lie turned on the floor and the tables being wedged against the door leading into the pantry.
+1005_Signs_01.00.30.346-01.00.37.190 	he spots some chopped vegetables sitting on a work top and lying next to them, a large kitchen knife.
+1005_Signs_01.01.32.331-01.01.35.246 	he lies on his stomach by the pantry door.
+1005_Signs_01.10.35.232-01.10.39.323 	on a worktop lies a sharp knife along with a skinned onion, some potato peel on top of tomato.
+1005_Signs_01.25.37.470-01.25.40.240 	morgan lies back, his breathing returning to normal.
+1005_Signs_01.38.05.353-01.38.10.912 	the broken head of the bat lies on the floor, shards of glass around it.
+1006_Slumdog_Millionaire_00.19.09.196-00.19.15.341 	jamal's mother lies face down in the pool.
+1006_Slumdog_Millionaire_00.21.17.899-00.21.27.949 	jamal looks out at latika in the rain for a moment then lies down.
+1006_Slumdog_Millionaire_00.21.38.500-00.21.42.182 	salim lies with his back to jamal, but he's wide awake.
+1006_Slumdog_Millionaire_00.22.34.025-00.22.37.200 	latika lies down next to jamal.
+1006_Slumdog_Millionaire_00.22.40.615-00.22.46.274 	the three children lie on the floor out of the rain shivering in the cold.
+1006_Slumdog_Millionaire_00.36.46.568-00.36.52.086 	men are lying down watching them.
+1006_Slumdog_Millionaire_01.15.38.319-01.15.45.875 	jamal opens his eyes but lies still.
+1006_Slumdog_Millionaire_01.46.35.544-01.46.40.070 	salim lies in the bath of money with his gun.
+1007_Spider-Man1_00.14.24.871-00.14.31.288 	he grabs the tartan blanket lying on top of the bed and hauls it over him.
+1007_Spider-Man1_00.15.46.225-00.15.54.895 	having flung the bottle to the floor, norman lifts opens the metal with strengths on the sliding trolley and lies down on it.
+1007_Spider-Man1_00.20.59.822-00.21.05.181 	harry rushes into the study where his father is lying face down on the floor.
 1007_Spider-Man1_00.43.34.263-00.43.35.734 	he's lying on the ground.
 1007_Spider-Man1_00.48.21.263-00.48.24.830 	he reflects on uncle ben lying on the ground then backs away.
 1007_Spider-Man1_01.30.56.687-01.30.58.692 	aunt may is lying on the floor, leaning against her bed.
 1007_Spider-Man1_01.49.46.810-01.49.50.152 	on the ground beside him lies the mask of the green goblin.
+1008_Spider-Man2_00.43.55.527-00.43.59.538 	lying on a stretcher trolley, rosie's dead body is covered and wheeled over to an ambulance.
 1008_Spider-Man2_00.45.26.830-00.45.28.805 	octavius lies face down on the operating table, a bandage over his eyes.
 1008_Spider-Man2_01.34.58.511-01.35.00.207 	he's lying on the sofa.
 1008_Spider-Man2_01.50.51.302-01.50.52.942 	a punch from a mechanical limb sends spider-man to the floor where he lies helpless.
@@ -288,8 +290,9 @@
 1010_TITANIC_01.35.23.148-01.35.25.336 	naked and his face dripping with sweat, jack lies on top of rose.
 1010_TITANIC_02.31.16.604-02.31.19.309 	an elderly couple lies in bed as water streams beneath them.
 1010_TITANIC_02.31.25.013-02.31.36.012 	a red-haired woman leans over two young children lying a bed.
+1010_TITANIC_02.43.25.920-02.43.32.888 	dozens of passengers still dangle from poles or lie against railings and staircases.
+1010_TITANIC_02.47.00.982-02.47.06.280 	lying on her stomach on the panel, rose moves toward jack and leans her forehead against his face
 1010_TITANIC_02.53.41.549-02.53.45.215 	elsewhere in the debris field rose lies on her back atop the floating wooden panel.
-1010_TITANIC_03.05.32.105-03.05.38.972 	rose lies in her bed with her eyes closed.
 1010_TITANIC_03.05.41.306-03.05.50.043 	beyond the wall behind her, deep below the ocean surface, the broken titanic lies on the sea floor.
 1010_TITANIC_03.05.56.167-03.06.07.014 	a beam lies across her severed hulls, split open to reveal a ghostly corridor littered with debri
 1011_The_Help_01.14.23.402-01.14.38.923 	in the morning, she's lying asleep on her bed fully clothed as charlotte in skull cap and dressing gown burst into her room and starts pulling clothes from the wardrobe.
@@ -310,19 +313,21 @@
 1014_2012_00.48.26.225-00.48.27.207 	in the airport the pilot lies dead near the petrol station.
 1014_2012_01.54.37.046-01.54.42.141 	little noah lies asleep, his head resting on gordon's shoulder.
 1017_Bad_Santa_00.40.22.169-00.40.25.855 	willie lies in bed, the kid hovering at the bedside.
+1017_Bad_Santa_00.51.33.153-00.51.41.447 	willie shuts the front door and, vodka bottle in hand, reaches over to the hall table where the kids advent calendar is lying.
 1017_Bad_Santa_00.52.27.326-00.52.33.321 	he belches, falls backwards, and lies unconscious on the hall carpet.
 1017_Bad_Santa_00.53.35.315-00.53.40.825 	then he spots the tattered remains of the advent calendar lying on the hall table.
 1017_Bad_Santa_01.04.29.866-01.04.34.342 	a semi-comatose santa is on his way as he lies on the escalator clutching a broken bottle.
+1017_Bad_Santa_01.11.16.241-01.11.22.749 	he hits marcus in the nuts and all three combatants lie, writhing in agony, on the canvas.
 1017_Bad_Santa_01.11.49.310-01.11.58.399 	granny lies back on the sofa, deathly still, with her mouth agape.
 1017_Bad_Santa_01.12.44.922-01.12.46.589 	on it lies odd discarded clothes.
 1017_Bad_Santa_01.12.46.922-01.12.50.528 	nearby, sue lies on her back in her bra and jeans.
 1017_Bad_Santa_01.32.22.150-01.32.26.259 	he collapses and lies motionless.
 1018_Body_Of_Lies_00.03.23.333-00.03.44.478 	a casually dressed young man dressed with a beard lies on a bed.
 1018_Body_Of_Lies_00.23.56.585-00.23.58.626 	ferris lies by the open hatch.
+1018_Body_Of_Lies_00.24.07.120-00.24.10.118 	lying in a hospital, ferris remembers being with bassam and his family.
 1018_Body_Of_Lies_01.33.22.361-01.33.22.784 	skip lies on the ground covered in blood.
 1018_Body_Of_Lies_01.35.14.786-01.35.19.072 	sadiki lies dead amongst piles of rubbish.
 1018_Body_Of_Lies_01.35.22.550-01.35.26.646 	skip lies unconscious in a hospital bed with a breathing tube in his throat.
-1018_Body_Of_Lies_01.42.43.404-01.42.45.609 	ferris climbs in beneath the back seats and lies in the storage area.
 1019_Confessions_Of_A_Shopaholic_00.20.57.436-00.21.02.648 	the clothes rail is wheeled away, leaving rebecca lying on the floor, clutching her letter.
 1019_Confessions_Of_A_Shopaholic_01.40.09.696-01.40.12.033 	graham lies on his back.
 1020_Crazy_Stupid_Love_00.03.36.579-00.03.38.648 	she races back to where cal lies on the road.
@@ -331,6 +336,7 @@
 1020_Crazy_Stupid_Love_01.13.11.796-01.13.21.260 	they lie on the bed laughing.
 1020_Crazy_Stupid_Love_01.15.49.350-01.15.55.970 	then lies back down resting her head on his shoulder, nuzzles into him and closes her eyes.
 1020_Crazy_Stupid_Love_01.27.16.350-01.27.19.235 	jessica, who is lying on the floor nearby, spots the envelope.
+1024_Identity_Thief_00.52.03.697-00.52.05.222 	lying on the floor, sandy kicks the wall.
 1024_Identity_Thief_00.54.23.027-00.54.26.776 	taking off the backpack, diana lies down next to big chuck.
 1024_Identity_Thief_00.58.05.576-00.58.08.415 	guardrails lie on both sides of the road trapping sandy with the oncoming traffic.
 1024_Identity_Thief_00.59.55.236-00.59.59.991 	looking through the passenger side window, he sees the skiptracer lying groggily against the wheel.
@@ -338,7 +344,6 @@
 1024_Identity_Thief_01.09.27.184-01.09.30.175 	diana applies makeup while sandy lies on a bench in a pair of dirt-covered khakis.
 1024_Identity_Thief_01.30.15.909-01.30.25.015 	now, the two thugs lie in a car's trunk.
 1024_Identity_Thief_01.38.50.868-01.38.54.535 	now, in bed, sandy lies on his side.
-1024_Identity_Thief_01.39.08.238-01.39.10.905 	trish lies on her back and gazes up at the ceiling.
 1024_Identity_Thief_01.39.38.158-01.39.40.835 	rubbing his shoulder, she lies down behind him.
 1026_Legion_00.06.51.457-00.06.56.057 	burton's body lies on the sidewalk.
 1026_Legion_00.27.04.659-00.27.06.338 	howard lies in a puddle of blood on the floor, gasping for a breath.
@@ -346,6 +351,7 @@
 1026_Legion_00.58.25.428-00.58.32.584 	in the storeroom, percy lies under a white sheet.
 1026_Legion_01.23.32.083-01.23.36.993 	michael lies with his arms outstretched, eyes wide open, twitching slightly, a bloody wound in his chest.
 1027_Les_Miserables_00.07.25.345-00.07.30.256 	he wanders through a churchyard and lies down by the church.
+1027_Les_Miserables_00.08.45.835-00.08.48.874 	lying in a bed, he stares up at an ornate ceiling.
 1027_Les_Miserables_00.26.57.320-00.27.01.836 	he lies on top of fantine, and her lips tremble.
 1027_Les_Miserables_00.27.10.387-00.27.14.066 	she lies motionless, her head on a pillow.
 1027_Les_Miserables_00.40.13.980-00.40.16.497 	at the hospital a nurse tends to fantine, who lies on her back.
@@ -377,6 +383,7 @@
 1033_Sherlock_Holmes_A_Game_of_Shadows_01.34.13.426-01.34.22.768 	watson looks down sadly at holmes, who lies motionless in the boxcar.
 1034_Super_8_00.18.49.989-00.18.51.885 	he looks at a carriage lying on its side.
 1034_Super_8_01.09.57.156-01.10.02.886 	he sees louis lying on a bed in a sick bay area.
+1034_Super_8_01.24.26.431-01.24.31.088 	lying in a ditch, the boys watch as the alien leaps of the bus and disappears into the woods.
 1034_Super_8_01.34.11.921-01.34.16.179 	joe breaks cover and runs over to alice, who lies un-moving on the chamber floor.
 1035_The_Adjustment_Bureau_00.03.41.467-00.03.45.139 	later still, its contents lie untouched on a table as david stares out a window at the city.
 1035_The_Adjustment_Bureau_00.35.29.157-00.35.39.069 	david lies on his back in bed and gazes out a window with a faraway look.
@@ -388,6 +395,7 @@
 1037_The_Curious_Case_Of_Benjamin_Button_00.12.08.988-00.12.11.159 	the baby lies just feet away on the steps.
 1037_The_Curious_Case_Of_Benjamin_Button_00.16.41.237-00.16.48.157 	he takes off his suit jacket and stares at benjamin, who lies in the drawer at queenie's bedside.
 1037_The_Curious_Case_Of_Benjamin_Button_00.19.24.731-00.19.28.269 	he lies at queenie's bedside.
+1037_The_Curious_Case_Of_Benjamin_Button_00.37.59.843-00.38.03.852 	lying in his bed, daws exhales a cloud of wispy, white cigarette smoke and stares off in thought.
 1037_The_Curious_Case_Of_Benjamin_Button_00.52.36.132-00.52.40.111 	the tattooed mariner lies in a deep, alcohol-induced slumber.
 1037_The_Curious_Case_Of_Benjamin_Button_01.02.11.581-01.02.15.264 	benjamin lies in bed in the hotel.
 1037_The_Curious_Case_Of_Benjamin_Button_01.17.37.551-01.17.43.847 	benjamin lies on his bed, reading a magazine.
@@ -412,17 +420,16 @@
 1038_The_Great_Gatsby_01.26.33.307-01.26.36.797 	gatsby and daisy lie next to each other in bed.
 1038_The_Great_Gatsby_01.46.32.817-01.46.34.530 	one of them lays a sheet over myrtle's body, which lies on a table.
 1038_The_Great_Gatsby_02.03.29.184-02.03.33.275 	gatsby lies in a coffin.
-1038_The_Great_Gatsby_02.05.11.725-02.05.15.989 	in low light, gatsby lies in the open coffin at the bottom of the spiral staircase.
 1038_The_Great_Gatsby_02.05.58.333-02.05.58.886 	nick lies sleeping on a couch.
-1038_The_Great_Gatsby_02.07.00.867-02.07.03.554 	a chandelier lies smashed.
 1039_The_Queen_00.02.43.625-00.02.46.875 	the queen lies in bed in a darkened room.
 1039_The_Queen_00.12.34.515-00.12.38.025 	robin lies in bed in a dark room.
 1040_The_Ugly_Truth_00.20.17.948-00.20.22.854 	abby's lying on the floor in her office closet.
 1041_This_is_40_00.02.17.358-00.02.19.511 	as she lies unresponsive, he barrages her with lazy slaps.
 1041_This_is_40_00.02.35.505-00.02.39.549 	later, he lies close to a little blonde girl and kisses her cheek.
 1041_This_is_40_00.44.01.386-00.44.03.100 	they lie in bed and share a long embrace.
+1041_This_is_40_00.46.57.428-00.46.59.898 	lying down, they passionately kiss.
 1041_This_is_40_00.49.47.172-00.49.48.867 	in the bathroom, pete lies back with his legs in the air.
-1041_This_is_40_01.18.58.624-01.19.02.404 	now, pete lies on the bed using his tablet as debbie enters.
+1041_This_is_40_01.24.38.127-01.24.40.999 	lying between her parents, charlotte sucks her fingers.
 1041_This_is_40_01.24.41.333-01.24.45.185 	sadie lies at the foot of the bed and turns around.
 1041_This_is_40_01.26.00.794-01.26.03.537 	now, debbie lies with charlotte in her bed.
 1041_This_is_40_01.38.11.499-01.38.15.906 	a main character, jack, lies on the ground dying as a plane flies overhead.
@@ -437,14 +444,17 @@
 1043_Vantage_Point_01.20.16.335-01.20.21.659 	he spots president ashton lying face down.
 1044_Pride_And_Prejudice_Disk_Two_01.17.02.332-01.17.04.285 	in her bedroom, mrs. bennet is lying back in her chair, fanning herself.
 1044_Pride_And_Prejudice_Disk_Two_02.01.33.113-02.01.41.325 	mrs. bennet is lying back on a chaise lounge in her room, fanning herself and ordering the servants about.
+1045_An_education_00.09.44.093-00.09.49.433 	lying on the floor of her room.
 1045_An_education_00.59.00.937-00.59.04.566 	later they are lying in bed together.
 1045_An_education_00.59.09.902-00.59.14.569 	they lie kissing face to face.
 1045_An_education_01.02.21.502-01.02.25.116 	they lie cheek to cheek.
 1045_An_education_01.33.32.971-01.33.35.374 	snow lies on a street light.
 1046_Australia_00.02.53.023-00.03.01.000 	the boy lies wide-eyed on the bottom as a white man in a suit falls face-first into the water.
+1046_Australia_00.03.01.000-00.03.08.811 	he floats lifelessly over where the boy is lying, his blood staining the water.
 1046_Australia_00.16.36.434-00.16.40.498 	he lies in a heap in the dust.
 1046_Australia_00.48.36.169-00.48.39.525 	he's lying curled up on the ground on a mattress.
 1046_Australia_01.05.37.000-01.05.41.464 	drover gallops to flynn, lying twisted and bloody in the dust.
+1046_Australia_01.14.59.157-01.15.03.127 	in daylight, a steer lies dead next to a watering hole.
 1046_Australia_01.27.01.647-01.27.04.254 	he gets the mare to lie down.
 1046_Australia_01.41.55.000-01.42.02.474 	they lie in each other's arms, naked, covered by just a sheet.
 1046_Australia_01.47.49.744-01.48.01.096 	she wakes up in bed, frowns and then looks across at drover lying next to her and smiles, running a hand down his bearded cheek.
@@ -458,26 +468,26 @@
 1048_Gran_Torino_01.42.22.542-01.42.25.700 	sue is lying in bed.
 1048_Gran_Torino_01.46.16.214-01.46.32.824 	the cigarette lies unlit beside walt's dead body, which lies in a cruciform.
 1048_Gran_Torino_01.48.52.001-01.48.56.319 	she looks over at daisy, who lies forlornly on the porch at the top of the steps.
-1048_Gran_Torino_01.49.05.855-01.49.07.565 	wearing his new suit, walt lies in an open casket in front of the altar.
 1049_Harry_Potter_and_the_chamber_of_secrets_00.59.24.005-00.59.27.761 	late at night, harry is lying fast asleep when a strange noise wakes him.
 1049_Harry_Potter_and_the_chamber_of_secrets_01.11.57.930-01.12.19.552 	lit by flaming torchlight, he sees the ghost of nearly headless nick hanging stiffly in mid-air, and a boy, justin, lying petrified on the ground, his eyes wide open, his arms stuck out in front of him.
 1049_Harry_Potter_and_the_chamber_of_secrets_01.27.08.790-01.27.16.142 	as she floats past, harry notices a book with a limp, black leather cover lying on the stone floor.
+1049_Harry_Potter_and_the_chamber_of_secrets_01.36.09.577-01.36.13.516 	madam pomfrey is standing next to a bed where a petrified girl is lying.
 1049_Harry_Potter_and_the_chamber_of_secrets_01.44.33.000-01.44.35.956 	the tunnel lies dark and glow making it impossible to stand up right.
 1049_Harry_Potter_and_the_chamber_of_secrets_02.00.56.210-02.01.01.110 	the pipe leads to a low cave where something scaly is lying on the ground.
+1049_Harry_Potter_and_the_chamber_of_secrets_02.02.38.914-02.02.44.947 	lying on the ground, lockhart smiles vacantly.
 1049_Harry_Potter_and_the_chamber_of_secrets_02.04.42.640-02.04.45.513 	he sees the still figure of a girl lying on the wet stone floor.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.23.38.952-00.23.44.103 	ashen-faced he lies on his back.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.39.26.606-00.39.31.855 	hermione moves slowly towards the dark-haired man in overalls lying on the floor.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.41.57.600-00.42.02.262 	he's lying fully clothed on a sofa.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.03.44.497-01.03.48.523 	he's lying on a carpet of dead leaves in a forest.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.06.07.269-01.06.10.895 	the locket lies unscathed amongst the dead leaves.
-1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.14.31.649-01.14.39.210 	at night, ron lies awake.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.22.26.384-01.22.31.647 	inside the tent, harry lies on a bunk.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.28.32.177-01.28.33.855 	both bodies lying on the floor.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.32.08.157-01.32.11.037 	harry's wand, dropped in the struggle, is lying at the top of the stairs.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.37.16.705-01.37.19.770 	a sword lies gleaming under the ice.
+1050_Harry_Potter_and_the_deathly_hallows_Disk_One_02.01.12.604-02.01.15.169 	lying on the ground, ron lowers his head.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_02.11.19.946-02.11.24.360 	harry gazes down at the small still body, lying in his arms.
 1051_Harry_Potter_and_the_goblet_of_fire_00.11.24.962-00.11.29.917 	light from the burning tents flickers across his face, as he lies unconscious on the muddy ground.
-1051_Harry_Potter_and_the_goblet_of_fire_00.39.00.773-00.39.05.597 	ron lies awake, his face buried in his pillow.
 1051_Harry_Potter_and_the_goblet_of_fire_01.12.14.500-01.12.21.675 	a blanket of snow lies over hogwarts.
 1051_Harry_Potter_and_the_goblet_of_fire_01.13.49.551-01.13.54.937 	harry lies moodily in the common room, clutching the golden egg.
 1051_Harry_Potter_and_the_goblet_of_fire_01.41.12.941-01.41.17.641 	harry sees a black hat lying on the ground.
@@ -538,8 +548,10 @@
 1057_Seven_pounds_00.12.09.438-00.12.16.386 	ben lies lethargically on his couch, staring at his mobile phone on the coffee table.
 1057_Seven_pounds_00.16.29.676-00.16.35.725 	frail and white-haired, inez is lying in bed.
 1057_Seven_pounds_00.43.39.992-00.43.45.301 	in his motel bathroom, ben lies fully clothed in a bath that is too short for him.
+1057_Seven_pounds_00.46.45.517-00.46.54.997 	lying in bed, beautiful dark-haired sarah smiles up at ben beside her.
 1057_Seven_pounds_00.47.11.117-00.47.13.307 	he's lying on his stomach and looks woozy.
 1057_Seven_pounds_00.47.19.546-00.47.30.688 	the figure of a dream-like sarah gradually lies back down.
+1057_Seven_pounds_00.51.57.049-00.52.01.416 	lying in bed with air tubes running from her nose, emily fiddles with his card.
 1057_Seven_pounds_00.56.23.650-00.56.26.012 	emily lies fast asleep, surrounded by machines and monitors.
 1057_Seven_pounds_00.56.31.394-00.56.32.062 	emily lies on her side.
 1057_Seven_pounds_00.56.32.062-00.56.35.332 	her ear pressed against her phone, which lies on a pillow beneath her.
@@ -550,7 +562,6 @@
 1057_Seven_pounds_01.21.31.706-01.21.41.083 	ben lies on his side in the motel room bed.
 1057_Seven_pounds_01.21.46.114-01.21.50.264 	ben lies asleep on his side.
 1057_Seven_pounds_01.21.54.771-01.21.59.128 	he stares at the mobile, which lies beside him on the bed.
-1057_Seven_pounds_01.37.40.233-01.37.44.899 	emily and tim lie in each other's arms in bed.
 1057_Seven_pounds_01.39.27.340-01.39.35.512 	golden light bathes her face as she lies sleeping peacefully.
 1057_Seven_pounds_01.39.35.512-01.39.51.072 	tim lies beside emily, watching her closely.
 1057_Seven_pounds_01.43.37.555-01.43.39.715 	dan and michelle lie asleep in each other's arms.
@@ -558,17 +569,18 @@
 1057_Seven_pounds_01.49.02.730-01.49.05.140 	tim lurches toward sarah, who's been thrown from the car and lies on the dark road.
 1057_Seven_pounds_01.49.17.990-01.49.22.387 	he lies on the road, cuddling her and weeping.
 1057_Seven_pounds_01.49.22.387-01.49.26.665 	in the motel, tim lies on his back in the tub.
+1057_Seven_pounds_01.50.05.929-01.50.12.782 	lying on her stomach, she reaches out for the pager, then raises herself a little to look at it.
 1057_Seven_pounds_01.51.00.500-01.51.07.827 	emily, anesthetized and wearing a theater cap, lies on the operating table.
 1057_Seven_pounds_01.51.23.129-01.51.26.512 	emily's new heart lies still in the open cavity of her chest.
 1057_Seven_pounds_01.51.42.914-01.52.03.844 	emily lies peacefully on the operating table, eyes closed.
 1057_Seven_pounds_01.53.46.681-01.53.56.358 	glum and pensive, emily lies in a bathtub.
 1057_Seven_pounds_01.54.25.626-01.54.29.212 	emily lies with her eyes closed, listening.
-1058_The_Damned_united_01.06.36.000-01.06.40.055 	alone in his stark hotel room, brian lies on his bed, smoking and drinking.
 1058_The_Damned_united_01.11.01.000-01.11.02.000 	brian's now lying on his back in the sun.
 1059_The_devil_wears_prada_01.11.39.310-01.11.46.954 	later she's with emily, who's lying in bed with a broken leg and some cuts and bruises.
 1060_Yes_man_00.35.38.631-00.35.43.891 	at home, carl lies beside his toilet.
 1060_Yes_man_01.28.52.551-01.28.56.442 	carl lies unconscious in a hospital bed with grazes on his face.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.16.27.896-00.16.32.216 	a huge, gray, spiky dragon lies chained on the ground.
+1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.25.33.000-00.25.35.000 	griphook lies dead, still clutching the sword of gryffindor.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.02.35.994-01.02.38.772 	harry sees the diadem lying on the ground.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.06.10.162-01.06.11.870 	they hide inside the huge bell, which lies on its side.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.14.22.847-01.14.25.942 	harry glances to his left, and sees the bodies of nymphadora and remus, lying side by side on stretchers.
@@ -583,118 +595,13 @@
 1062_Day_the_Earth_stood_still_00.31.36.151-00.31.40.934 	the being is lying on a gurney wearing gray hospital pajamas and an oxygen mask.
 1062_Day_the_Earth_stood_still_00.39.48.665-00.39.58.820 	half lying under the table, he twitches, then slowly slides back upright, staring blankly.
 2004_Juno_00.22.01.021-00.22.02.282 	bleeker lies on his car-bed in his track uniform, listening to the same lp from when he and juno went all the way.
+2004_Juno_01.10.40.570-01.10.43.060 	it's obvious from juno's tears and flushed face that she's lying.
+2004_Juno_01.10.58.653-01.11.02.096 	vanessa looks at juno's expression and knows mark is lying.
 2004_Juno_01.29.12.129-01.29.14.494 	we see her lying in bed with a burp cloth draped over her shoulder, feeding the baby.
 2005_Signs_00.11.58.933-00.12.00.169 	graham lies in bed.
 2005_Signs_00.12.00.169-00.12.03.132 	he rests his cheek against the pillow as he lies by himself.
 2005_Signs_00.51.21.544-00.51.23.180 	there are three bodies lying dead on the front lawn.two are children.
 2005_Signs_01.30.04.965-01.30.07.953 	graham looks at morgan lying limp on the ground.
-2012_Unbreakable_01.24.18.665-01.24.19.260 	his crumpled tie lies folded over itself on his still chest.
-2017_Bad_Santa_00.39.47.928-00.39.57.047 	willie lies in the tub, also motionless, a wet washcloth over his face, fingers of one hand resting against a tumbler filled with ice and amber liquid that sits on the edge of the tub.
-2017_Bad_Santa_00.49.04.233-00.49.04.342 	the kid lies in bed, sleeping peacefully.
-2026_Legion_00.26.54.759-00.26.56.051 	gladys lies dead in a smoldering, bloody heap at his feet.
-2026_Legion_00.58.26.587-00.58.40.700 	percy's body lies covered on the table.
-2026_Legion_01.24.46.810-01.24.52.753 	he steps behind the counter and finds bob lying in a massive pool of blood.
-2027_Les_Miserables_00.06.31.146-00.06.32.618 	behind and below him lies toulon at the sea's edge.
-2027_Les_Miserables_00.14.25.199-00.14.27.327 	below lies the steep drop down the mountainside to the dark valley below.
-2027_Les_Miserables_00.27.12.134-00.27.14.458 	move to find fantine lying alone on the mattress.
-1052_Harry_Potter_and_the_order_of_phoenix_02.01.07.355-02.01.08.980 	cedric lying dead.
-1052_Harry_Potter_and_the_order_of_phoenix_02.01.55.498-02.01.59.968 	harry lies still.
-1052_Harry_Potter_and_the_order_of_phoenix_02.03.30.147-02.03.34.970 	dumbledore still kneels beside harry, who is lying unconscious.
-1053_Harry_Potter_and_the_philosophers_stone_00.04.07.000-00.04.11.579 	a boy with a jacket scar in his forehead lies fast to sleep.
-1053_Harry_Potter_and_the_philosophers_stone_00.10.17.605-00.10.20.770 	five more letters lie on the path at their feet.
-1053_Harry_Potter_and_the_philosophers_stone_01.19.55.265-01.20.05.003 	she collides with one of the tall spectator towers, tumbles down behind the canvas covering, and lies without moving on the gravel path below.
-1053_Harry_Potter_and_the_philosophers_stone_01.46.30.251-01.46.33.532 	a hooded figure is crouching over a large white animal lying on the ground.
-1053_Harry_Potter_and_the_philosophers_stone_01.47.10.545-01.47.17.934 	he lies helpless on the ground, as the hooded figure advances.
-1053_Harry_Potter_and_the_philosophers_stone_02.00.34.545-02.00.42.591 	huge broken stone statues lie about the floor.
-1053_Harry_Potter_and_the_philosophers_stone_02.05.33.067-02.05.34.281 	she looks anxiously towards ron, who is lying unconscious.
-1053_Harry_Potter_and_the_philosophers_stone_02.06.02.188-02.06.06.272 	it lies on the marble floor at harry's feet.
-1053_Harry_Potter_and_the_philosophers_stone_02.13.16.708-02.13.19.629 	the dark red crystal is lying on the stairs.
-1053_Harry_Potter_and_the_philosophers_stone_02.13.57.653-02.13.59.460 	harry lies unconscious.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.15.33.238-00.15.38.573 	harry lies down and peers under the bed.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.15.38.873-00.15.44.529 	the book lies still, then snaps once more and slithers out, turning this way and that.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.22.37.543-00.22.41.003 	he is lying on the seat.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_01.42.37.043-01.42.39.916 	sirius is lying on his back, his eyes closed, a bloody claw mark on his shoulder.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_01.43.54.277-01.44.06.118 	again, the dementors circle overhead, then swoop lower and lower, hovering over the two figures lying helpless below as life is gradually sucked out of them.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_01.45.27.642-01.45.35.542 	they lie next to each other, sprawled unconscious on the stony beach.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_01.51.26.863-01.51.30.731 	hermione sees a pebble lying on the pumpkin in front of her.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_02.00.29.660-02.00.35.349 	on the stony shore at the far side, he sees himself and sirius lying unconscious beside him.
-1055_Marley_and_me_00.15.12.740-00.15.16.930 	john switches off the bathroom light and goes to bed, lying with the pillow clamped to his ears.
-1055_Marley_and_me_00.50.25.033-00.50.39.132 	he then trots back into the bedroom and settles himself on his bed, enjoying a scratch before lying down.
-1055_Marley_and_me_00.54.15.569-00.54.19.680 	he wistfully chews a toothpick as marley lies down on the sand.
-1055_Marley_and_me_01.06.36.552-01.06.39.000 	she walks softly on bare feet to her and john's room, where marley is lying on the bed.
-1055_Marley_and_me_01.06.45.052-01.06.48.193 	she puts a pillow next to the dog and lies down on her back.
-1055_Marley_and_me_01.06.48.693-01.06.51.352 	marley lies with his head in her lap, gently wagging his tail.
-1055_Marley_and_me_01.25.32.331-01.25.35.645 	marley's lying next to connor.
-1055_Marley_and_me_01.30.40.000-01.30.44.994 	he flashes the torch around and spots marley lying by a tree.
-1055_Marley_and_me_01.39.41.549-01.39.47.471 	he's lying by the fire.
-1055_Marley_and_me_01.40.03.845-01.40.07.135 	he lies down next to marley.
-1055_Marley_and_me_01.40.43.275-01.40.46.255 	marley's lying under a tree.
-1055_Marley_and_me_01.44.12.000-01.44.16.000 	he goes back into the surgery where marley is lying on the table.
-1056_Rambo_00.12.14.479-00.12.16.400 	a rusty metal fan on a rod lies on a bench nearby.
-1056_Rambo_00.24.27.596-00.24.29.935 	a single corpse lies on the deck near the abandoned machine gun.
-1056_Rambo_00.27.20.035-00.27.26.161 	sarah finds michael with another patient who lies on the floor of the hut.
-1056_Rambo_00.32.08.125-00.32.12.646 	rambo lies in a hammock.
-1056_Rambo_00.37.30.941-00.37.33.945 	sarah lies bound beneath one.
-1056_Rambo_00.44.25.000-00.44.29.000 	a decomposing human corpse lies partially submerged in the water.
-1056_Rambo_00.44.29.000-00.44.35.005 	a dead buffalo lies beyond it.
-1056_Rambo_00.44.45.968-00.44.48.624 	more corpses lie at the edge of the field.
-1056_Rambo_00.57.28.172-00.57.30.258 	he sees sarah lying prone in the pig sty.
-1056_Rambo_01.16.50.000-01.16.53.781 	it rolls away and lies face down.
-1057_Seven_pounds_00.10.24.997-00.10.31.438 	30-something emily lies asleep in her hospital bed in shadowy light.
-1057_Seven_pounds_00.12.09.438-00.12.16.386 	ben lies lethargically on his couch, staring at his mobile phone on the coffee table.
-1057_Seven_pounds_00.16.29.676-00.16.35.725 	frail and white-haired, inez is lying in bed.
-1057_Seven_pounds_00.43.39.992-00.43.45.301 	in his motel bathroom, ben lies fully clothed in a bath that is too short for him.
-1057_Seven_pounds_00.47.11.117-00.47.13.307 	he's lying on his stomach and looks woozy.
-1057_Seven_pounds_00.47.19.546-00.47.30.688 	the figure of a dream-like sarah gradually lies back down.
-1057_Seven_pounds_00.56.23.650-00.56.26.012 	emily lies fast asleep, surrounded by machines and monitors.
-1057_Seven_pounds_00.56.31.394-00.56.32.062 	emily lies on her side.
-1057_Seven_pounds_00.56.32.062-00.56.35.332 	her ear pressed against her phone, which lies on a pillow beneath her.
-1057_Seven_pounds_01.18.45.652-01.18.51.126 	duke lies snoozing nearby, as ben reassembles the machine.
-1057_Seven_pounds_01.20.00.660-01.20.03.140 	and an inert, blood-smeared hand lying on earth.
-1057_Seven_pounds_01.20.24.187-01.20.28.143 	ben, dressed, lies on his back on the bed.
-1057_Seven_pounds_01.20.39.238-01.20.46.559 	ben is lying face down on an examination table.
-1057_Seven_pounds_01.21.31.706-01.21.41.083 	ben lies on his side in the motel room bed.
-1057_Seven_pounds_01.21.46.114-01.21.50.264 	ben lies asleep on his side.
-1057_Seven_pounds_01.21.54.771-01.21.59.128 	he stares at the mobile, which lies beside him on the bed.
-1057_Seven_pounds_01.37.40.233-01.37.44.899 	emily and tim lie in each other's arms in bed.
-1057_Seven_pounds_01.39.27.340-01.39.35.512 	golden light bathes her face as she lies sleeping peacefully.
-1057_Seven_pounds_01.39.35.512-01.39.51.072 	tim lies beside emily, watching her closely.
-1057_Seven_pounds_01.43.37.555-01.43.39.715 	dan and michelle lie asleep in each other's arms.
-1057_Seven_pounds_01.47.56.261-01.48.09.521 	tim recalls a blissful-looking emily lying in bed with him and stroking his face.
-1057_Seven_pounds_01.49.02.730-01.49.05.140 	tim lurches toward sarah, who's been thrown from the car and lies on the dark road.
-1057_Seven_pounds_01.49.17.990-01.49.22.387 	he lies on the road, cuddling her and weeping.
-1057_Seven_pounds_01.49.22.387-01.49.26.665 	in the motel, tim lies on his back in the tub.
-1057_Seven_pounds_01.51.00.500-01.51.07.827 	emily, anesthetized and wearing a theater cap, lies on the operating table.
-1057_Seven_pounds_01.51.23.129-01.51.26.512 	emily's new heart lies still in the open cavity of her chest.
-1057_Seven_pounds_01.51.42.914-01.52.03.844 	emily lies peacefully on the operating table, eyes closed.
-1057_Seven_pounds_01.53.46.681-01.53.56.358 	glum and pensive, emily lies in a bathtub.
-1057_Seven_pounds_01.54.25.626-01.54.29.212 	emily lies with her eyes closed, listening.
-1058_The_Damned_united_01.06.36.000-01.06.40.055 	alone in his stark hotel room, brian lies on his bed, smoking and drinking.
-1058_The_Damned_united_01.11.01.000-01.11.02.000 	brian's now lying on his back in the sun.
-1059_The_devil_wears_prada_01.11.39.310-01.11.46.954 	later she's with emily, who's lying in bed with a broken leg and some cuts and bruises.
-1060_Yes_man_00.35.38.631-00.35.43.891 	at home, carl lies beside his toilet.
-1060_Yes_man_01.28.52.551-01.28.56.442 	carl lies unconscious in a hospital bed with grazes on his face.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.16.27.896-00.16.32.216 	a huge, gray, spiky dragon lies chained on the ground.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.02.35.994-01.02.38.772 	harry sees the diadem lying on the ground.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.06.10.162-01.06.11.870 	they hide inside the huge bell, which lies on its side.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.14.22.847-01.14.25.942 	harry glances to his left, and sees the bodies of nymphadora and remus, lying side by side on stretchers.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.21.45.990-01.21.49.974 	he gazes at her lying lifeless on the floor.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.36.38.489-01.36.44.149 	voldemort lies on the ground in the forest.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.36.51.157-01.36.55.662 	he sees harry lying motionless.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.43.57.406-01.43.59.495 	three bodies lie on the ground.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.47.52.280-01.47.55.607 	they lie on the ground, some distance apart.
-1062_Day_the_Earth_stood_still_00.04.16.514-00.04.19.858 	the eye sac lies on the snow.
-1062_Day_the_Earth_stood_still_00.04.22.000-00.04.26.982 	the climber lies next to it, his eyes closed.
-1062_Day_the_Earth_stood_still_00.27.25.645-00.27.31.888 	the patient lies under a protective tent attended by a technician.
-1062_Day_the_Earth_stood_still_00.31.36.151-00.31.40.934 	the being is lying on a gurney wearing gray hospital pajamas and an oxygen mask.
-1062_Day_the_Earth_stood_still_00.39.48.665-00.39.58.820 	half lying under the table, he twitches, then slowly slides back upright, staring blankly.
-2004_Juno_00.22.01.021-00.22.02.282 	bleeker lies on his car-bed in his track uniform, listening to the same lp from when he and juno went all the way.
-2004_Juno_01.29.12.129-01.29.14.494 	we see her lying in bed with a burp cloth draped over her shoulder, feeding the baby.
-2005_Signs_00.11.58.933-00.12.00.169 	graham lies in bed.
-2005_Signs_00.12.00.169-00.12.03.132 	he rests his cheek against the pillow as he lies by himself.
-2005_Signs_00.51.21.544-00.51.23.180 	there are three bodies lying dead on the front lawn.two are children.
-2005_Signs_01.30.04.965-01.30.07.953 	graham looks at morgan lying limp on the ground.
-2012_Unbreakable_01.24.18.665-01.24.19.260 	his crumpled tie lies folded over itself on his still chest.
 2017_Bad_Santa_00.39.47.928-00.39.57.047 	willie lies in the tub, also motionless, a wet washcloth over his face, fingers of one hand resting against a tumbler filled with ice and amber liquid that sits on the edge of the tub.
 2017_Bad_Santa_00.49.04.233-00.49.04.342 	the kid lies in bed, sleeping peacefully.
 2026_Legion_00.26.54.759-00.26.56.051 	gladys lies dead in a smoldering, bloody heap at his feet.

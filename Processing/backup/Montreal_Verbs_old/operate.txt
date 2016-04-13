@@ -1,0 +1,10 @@
+21_JUMP_STREET.srt 	21_JUMP_STREET_DVS277 	00:48:01,00 --> 00:48:06,50 	two teens struggle to operate the keg.
+CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS81 	00:12:30,00 --> 00:12:38,50 	as stark operates a control panel, devices in the car's wheel wells levitate the vehicle off the ground.
+CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS109 	00:18:25,00 --> 00:18:32,50 	someone operates a control panel, the machine glows with blue light.
+CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS172 	00:31:33,00 --> 00:31:42,50 	an mp eyes them as they walk down the hallway into a large operating theater filled with machines and electronic devices.
+CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS252 	00:45:02,00 --> 00:45:07,50 	someone operates a mechanical cannon.
+COLOMBIANA.srt 	COLOMBIANA_DVS577 	00:52:30,00 --> 00:52:37,50 	looking around, he moves to a coin operated washing machine and starts a load.
+PROMETHEUS.srt 	PROMETHEUS_DVS622 	01:08:11,00 --> 01:08:16,50 	he operates it successfully and a door rises before him.
+SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS160 	00:31:22,00 --> 00:31:26,50 	a team of puppeteers operating.
+THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS653 	01:28:17,00 --> 01:28:23,50 	the car swings past the crane cab where someone operates the controls.
+THE_CALL.srt 	THE_CALL_DVS1148 	01:26:17,00 --> 01:26:24,50 	someone fights to free himself from the chair in his own makeshift operating room.

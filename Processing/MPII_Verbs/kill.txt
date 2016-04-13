@@ -1,28 +1,9 @@
 0009_Forrest_Gump_00.49.15.304-00.49.16.840 	a bullet kills the soldier standing next to forrest.
-0009_Forrest_Gump_00.50.04.644-00.50.06.196 	a rocket explodes on the machine gunner and the other soldier, killing them.
-0010_Frau_Ohne_Gewissen_00.06.59.681-00.07.02.037 	he takes his lighted cigarette from the ash tray, puffs it two or three times, and kills it.
-0011_Gandhi_02.55.49.909-02.55.57.662 	he is sobbing, but in his anger it seems almost as though he means to kill gandhi in retaliation.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.57.17.077-01.57.20.393 	the huge club descends for the killing blow.suddenly, in a flash of steel, boromir's long sword slices into the scaly arm of the troll; it rears back, spewing green blood!
-0032_The_Princess_Bride_01.25.55.861-01.25.57.239 	rugen is pushing off from the table, sword in hand, moving in to kill inigo.
-0033_Amadeus_02.27.07.798-02.27.17.508 	on stage we see the queen of the night fantastically costumed, furiously urging her daughter to kill sarastro.
-0043_Thelma_and_Luise_00.41.36.391-00.41.40.832 	although her face is basically expressionless, we see that it's possible she might kill thelma.
-0050_Indiana_Jones_and_the_last_crusade_01.25.59.500-01.26.01.812 	they explode, killing one of kazim's brethren.
-1004_Juno_00.41.19.790-00.41.23.457 	with a look that could kill, the ultrasound technician leaves the room.
-1008_Spider-Man2_02.03.53.004-02.03.56.944 	harry sits alone in the apartment, fondling the blade of the dagger with which he'd intended to kill spider-man.
 1017_Bad_Santa_00.37.48.402-00.37.50.045 	he kills the lights of the car.
 1018_Body_Of_Lies_00.20.14.304-00.20.15.825 	ferris kills the man by the fire.
-1031_Quantum_of_Solace_01.34.28.560-01.34.33.664 	he is about to kill them.
-1033_Sherlock_Holmes_A_Game_of_Shadows_00.28.11.438-00.28.16.544 	sim kills the corsac by throwing a knife into his chest.
-1033_Sherlock_Holmes_A_Game_of_Shadows_01.27.46.741-01.27.48.235 	one of the gypsies is killed by the rough-looking twins.
 1033_Sherlock_Holmes_A_Game_of_Shadows_01.27.48.235-01.27.51.249 	holmes and watson return fire, killing them both.
 1037_The_Curious_Case_Of_Benjamin_Button_01.19.14.672-01.19.16.449 	in the wheelhouse, the wheelman kills the engines.
-1043_Vantage_Point_01.02.08.783-01.02.13.280 	javier kills the agent, then draws his gun.
-1047_Defiance_01.22.02.668-01.22.05.956 	benzion fires back, killing two policemen.
-1047_Defiance_02.01.18.764-02.01.25.810 	and fires on the troops who are facing away from them, killing a number of them.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.08.23.952-01.08.26.746 	voldemort kills him.
 1051_Harry_Potter_and_the_goblet_of_fire_02.09.05.972-02.09.12.781 	first cedric, then bryce, the old caretaker, killed in the mansion.
-1056_Rambo_01.16.09.331-01.16.11.913 	bullets smash through its windscreen, killing captain and helmsman.
 1057_Seven_pounds_00.25.37.648-00.25.40.768 	beneath, the photos of the seven people killed.
-1057_Seven_pounds_01.17.25.012-01.17.34.500 	he kills the lights and removes his seat belt.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.03.28.836-01.03.30.957 	the spell kills thicknesse.
-2034_Super_8_01.03.15.939-01.03.18.437 	this kills her -- but she does: she leaves the house.

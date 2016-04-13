@@ -1,4 +1,5 @@
-0001_American_Beauty_00.04.03.037-00.04.04.552 	Lester smiles sheepishly, trying to lighten the moment.
-0001_American_Beauty_00.04.03.037-00.04.04.552 	Lester smiles sheepishly, trying to lighten the moment.
-1057_Seven_pounds_00.00.04.990-00.00.06.465 	the screen lightens to reveal clouds and a blue sky.
+0001_American_Beauty_00.04.03.037-00.04.04.552 	lester smiles sheepishly, trying to lighten the moment.
+1001_Flight_00.03.59.917-00.04.03.771 	lightening flashes in the distance.
+1002_Harry_Potter_and_the_Half-Blood_Prince_00.01.35.535-00.01.38.453 	lightening flashes behind the clouds.
+1038_The_Great_Gatsby_01.56.35.601-01.56.39.481 	the sky lightens.
 1057_Seven_pounds_00.00.04.990-00.00.06.465 	the screen lightens to reveal clouds and a blue sky.

@@ -1,28 +1,17 @@
-0009_Forrest_Gump_00.34.03.447-00.34.04.155 	The recruits are sitting at the base of their bunks assembling their rifles.
-0009_Forrest_Gump_00.34.14.647-00.34.17.921 	Forrest finishes assembling his rifle as the other recruits are still working on theirs.
-0014_Ist_das_Leben_nicht_schoen_00.37.46.037-00.37.49.313 	Cousin Eustace is taking a photograph of the family group assembled on the porch.
-0017_Pianist_01.02.27.739-01.02.31.771 	The Jewish workers start to assemble on the site in haphazard ranks as an SS Captain strides in.
-0021_Rear_Window_00.30.10.606-00.30.18.904 	Lisa begins to move around the room assembling her possessions preparatory to leaving.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.28.08.596-01.28.09.071 	assembled around the CAVERN!
+0009_Forrest_Gump_00.34.03.447-00.34.04.155 	the recruits are sitting at the base of their bunks assembling their rifles.
+0009_Forrest_Gump_00.34.14.647-00.34.17.921 	forrest finishes assembling his rifle as the other recruits are still working on theirs.
+0014_Ist_das_Leben_nicht_schoen_00.37.46.037-00.37.49.313 	cousin eustace is taking a photograph of the family group assembled on the porch.
+0017_Pianist_01.02.27.739-01.02.31.771 	the jewish workers start to assemble on the site in haphazard ranks as an ss captain strides in.
+0021_Rear_Window_00.30.10.606-00.30.18.904 	lisa begins to move around the room assembling her possessions preparatory to leaving.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.51.26.165-00.51.34.257 	eomer astride his horse, calls to the assembled.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.28.08.596-01.28.09.071 	assembled around the cavern!
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.57.36.653-02.57.47.918 	followed by all assembled there.
-1001_Flight_01.33.50.940-01.33.55.737 	The crashed South Jet Aircraft stands almost completely assembled with parts strewn around beside it.
-1006_Slumdog_Millionaire_01.40.15.703-01.40.20.181 	The studio lights come on as technicians assemble equipment.
-1030_Public_Enemies_00.29.41.907-00.30.17.366 	purvis paces, then addresses his assembled task force.
+0053_Rendezvous_mit_Joe_Black_01.37.32.881-01.37.40.711 	parrish and joe enter, the entire board is assembled, includ- ing drew, quince and sloane.
+1001_Flight_01.33.50.940-01.33.55.737 	the crashed south jet aircraft stands almost completely assembled with parts strewn around beside it.
 1031_Quantum_of_Solace_01.25.11.178-01.25.14.605 	behind a rock overlooking the geometrically laid out compound, camille expertly assembles and loads an automatic.
 1033_Sherlock_Holmes_A_Game_of_Shadows_01.47.52.495-01.47.54.553 	another man continues assembling the hyperemic cartridge.
-1047_Defiance_00.57.01.242-00.57.10.181 	straightening his jacket, he looks around at the assembled people staring at him.
-1047_Defiance_01.35.20.109-01.35.24.381 	a camera lens is set on a tripod, and the whole bielski camp assembles for a group photograph.
-1051_Harry_Potter_and_the_goblet_of_fire_00.31.23.850-00.31.33.138 	the students assemble excitedly in the great hall.
 1051_Harry_Potter_and_the_goblet_of_fire_02.18.06.847-02.18.11.077 	the entire school is assembled in the great hall.
-1053_Harry_Potter_and_the_philosophers_stone_01.15.31.346-01.15.50.869 	wearing leather gloves and scarlett and gold cloaks, the gryffindor quidditch team assemble in the player's tunnel.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_00.24.18.221-00.24.21.210 	they assemble in the great hall for the welcoming feast.
 1058_The_Damned_united_00.55.46.169-00.55.47.649 	brian addresses the press assembled in the tunnel of juve's comunale stadium.
-1058_The_Damned_united_01.02.59.254-01.03.04.760 	brian stand beside three grinning young men before the assembled press below the leeds united sign in front of the stadium.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.34.54.143-00.35.00.251 	staff and students are assembled in the hall.
-1062_Day_the_Earth_stood_still_01.20.02.000-01.20.07.174 	huge array of men in vehicles has assembled nearby.
-1053_Harry_Potter_and_the_philosophers_stone_01.15.31.346-01.15.50.869 	wearing leather gloves and scarlett and gold cloaks, the gryffindor quidditch team assemble in the player's tunnel.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.24.18.221-00.24.21.210 	they assemble in the great hall for the welcoming feast.
-1058_The_Damned_united_00.55.46.169-00.55.47.649 	brian addresses the press assembled in the tunnel of juve's comunale stadium.
-1058_The_Damned_united_01.02.59.254-01.03.04.760 	brian stand beside three grinning young men before the assembled press below the leeds united sign in front of the stadium.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.34.54.143-00.35.00.251 	staff and students are assembled in the hall.
 1062_Day_the_Earth_stood_still_01.20.02.000-01.20.07.174 	huge array of men in vehicles has assembled nearby.

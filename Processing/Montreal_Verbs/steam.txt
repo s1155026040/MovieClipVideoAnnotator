@@ -1,5 +1,2 @@
-HUGO.srt 	HUGO_DVS73 	00:09:33,00 --> 00:09:51,50 	meanwhile, the boy jogs up a grimy corridor filled with gears and steaming pipes.
 HUGO.srt 	HUGO_DVS168 	00:23:40,00 --> 00:23:45,50 	someone peers through the vent at a tray of steaming croissants.
-NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS399 	01:23:51,00 --> 01:24:06,50 	someone stands on a ladder over its steaming tail vent.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS176 	00:25:39,00 --> 00:25:44,50 	later the ship steams out of the harbor and into the ocean.
-THE_WATCH.srt 	THE_WATCH_DVS478 	01:25:54,00 --> 01:26:01,50 	rounding a corner, he leads his friends past walls of steaming pipes.

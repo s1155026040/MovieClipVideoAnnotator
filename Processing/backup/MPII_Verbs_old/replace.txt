@@ -1,22 +1,37 @@
 0002_As_Good_As_It_Gets_00.00.43.769-00.00.44.080 	replaced by repulsion and that quickly she has reversed herself and re-entered her apartment.
-0005_Chinatown_01.40.16.408-01.40.19.700 	Gittes nods, turns, carefully replaces the items in the purse.
-0006_Clerks_00.47.02.671-00.47.15.696 	DANTE standing on a ladder, replaces a fluorescent light.
-0010_Frau_Ohne_Gewissen_01.03.37.993-01.03.38.087 	He replaces the earpiece.
-0010_Frau_Ohne_Gewissen_01.32.43.955-01.32.44.762 	At last he remembers to replace the horn.
-0014_Ist_das_Leben_nicht_schoen_00.11.05.754-00.11.07.704 	Gower looks at the large brown bottle which has not been replaced on the shelf.
-0014_Ist_das_Leben_nicht_schoen_01.27.50.750-01.27.53.835 	Then, he replaces the knob, and goes on up the stairs.
-0017_Pianist_00.54.10.668-00.54.12.244 	Benek replaces a plank and they are hidden from view.
-0019_Pulp_Fiction_01.38.43.818-01.38.49.061 	After taking in their predicament, Butch and Marsellus look at each other, all traces of hostility gone, replaced by a terror they both share at what they've gotten themselves into.
-0020_Raising_Arizona_00.12.17.819-00.12.20.906 	He starts to replace the receiver but brings it back with an afterthought.
-0021_Rear_Window_00.07.30.493-00.07.32.002 	As he replaces it on the windowsill, his attention is drawn back to the scene outside the window.
-0021_Rear_Window_00.08.10.228-00.08.10.890 	His anger seems to have left him, replaced by the kind of peace that flowers bring many people.
-0021_Rear_Window_00.23.53.682-00.23.55.067 	All kitchen utensils have been put away, replaced by more attractive effects, and lamp light softens the surroundings.
-0028_The_Crying_Game_01.07.19.163-01.07.22.096 	A man removes a large number six from a huge scoreboard with a pole and replaces it with a number nine.
-0030_The_Hustler_00.05.05.892-00.05.14.600 	Sheepishly, the bartender replaces the balls in their original positions.
-0030_The_Hustler_00.26.05.673-00.26.07.869 	Bert replaces the billfold in his coat pocket.
-0032_The_Princess_Bride_00.02.23.595-00.02.29.330 	The story he's reading about, as the monochromatic look of the bedroom is replaced by the dazzling color of the English countryside.
-1001_Flight_01.48.20.203-01.48.36.998 	He replaces the cap, then slowly stands up and sets the bottle on top of the fridge.
-1003_How_to_Lose_Friends_and_Alienate_People_00.15.14.243-00.15.17.682 	He replaces it.
+0005_Chinatown_01.40.16.408-01.40.19.700 	gittes nods, turns, carefully replaces the items in the purse.
+0006_Clerks_00.47.02.671-00.47.15.696 	dante standing on a ladder, replaces a fluorescent light.
+0010_Frau_Ohne_Gewissen_01.03.37.993-01.03.38.087 	he replaces the earpiece.
+0010_Frau_Ohne_Gewissen_01.32.43.955-01.32.44.762 	at last he remembers to replace the horn.
+0014_Ist_das_Leben_nicht_schoen_00.11.05.754-00.11.07.704 	gower looks at the large brown bottle which has not been replaced on the shelf.
+0014_Ist_das_Leben_nicht_schoen_01.27.50.750-01.27.53.835 	then, he replaces the knob, and goes on up the stairs.
+0017_Pianist_00.54.10.668-00.54.12.244 	benek replaces a plank and they are hidden from view.
+0019_Pulp_Fiction_01.38.43.818-01.38.49.061 	after taking in their predicament, butch and marsellus look at each other, all traces of hostility gone, replaced by a terror they both share at what they've gotten themselves into.
+0020_Raising_Arizona_00.12.17.819-00.12.20.906 	he starts to replace the receiver but brings it back with an afterthought.
+0021_Rear_Window_00.07.30.493-00.07.32.002 	as he replaces it on the windowsill, his attention is drawn back to the scene outside the window.
+0021_Rear_Window_00.08.10.228-00.08.10.890 	his anger seems to have left him, replaced by the kind of peace that flowers bring many people.
+0021_Rear_Window_00.23.53.682-00.23.55.067 	all kitchen utensils have been put away, replaced by more attractive effects, and lamp light softens the surroundings.
+0028_The_Crying_Game_01.07.19.163-01.07.22.096 	a man removes a large number six from a huge scoreboard with a pole and replaces it with a number nine.
+0030_The_Hustler_00.05.05.892-00.05.14.600 	sheepishly, the bartender replaces the balls in their original positions.
+0030_The_Hustler_00.26.05.673-00.26.07.869 	bert replaces the billfold in his coat pocket.
+0032_The_Princess_Bride_00.02.23.595-00.02.29.330 	the story he's reading about, as the monochromatic look of the bedroom is replaced by the dazzling color of the english countryside.
+1001_Flight_01.48.20.203-01.48.36.998 	he replaces the cap, then slowly stands up and sets the bottle on top of the fridge.
+1003_How_to_Lose_Friends_and_Alienate_People_00.15.14.243-00.15.17.682 	he replaces it.
+1011_The_Help_00.27.44.522-00.27.46.312 	skeeter replaces the receiver, grinning as if she'd just won the jackpot.
+1012_Unbreakable_00.10.06.230-00.10.15.823 	a white coated man carrying a clipboard, who has been standing by the other figure, walks towards david and is replaced by other medical staff.
+1012_Unbreakable_00.33.12.087-00.33.24.807 	he lays the cloth on his newspaper, unwraps the stubby, black revolver, looks at it, re-wraps it, and replaces it.
+1012_Unbreakable_00.34.30.397-00.34.35.705 	he glances across the room, quickly closes, and replaces the folder under his jeans.
+1012_Unbreakable_00.48.43.175-00.48.51.140 	he repeats the press and replaces the bar.
+1012_Unbreakable_01.34.29.081-01.34.33.747 	he replaces the cap and stands to remove the carton from the table.
+1014_2012_00.11.12.163-00.11.17.103 	the workers replace the mona lisa with the replica.
+1017_Bad_Santa_00.13.34.135-00.13.41.268 	he replaces the disk, starts engine, and drives away.
+1017_Bad_Santa_00.13.56.514-00.14.04.575 	upstairs, in a smart kitchen, he drinks milk from the bottle, then replaces it in the well-stocked fridge.
+1018_Body_Of_Lies_01.30.44.847-01.30.54.281 	sitting with a cigarette burning in an ashtray beside him, al-saleem slots a sim card into a mobile phone and replaces the battery.
+1028_No_Reservations_01.30.24.272-01.30.29.534 	zoe considers the words with downcast eyes, then replaces the doll's clothing.
+1033_Sherlock_Holmes_A_Game_of_Shadows_00.45.15.155-00.45.23.151 	he replaces a cartridge in one of the men's bandoliers with his lipstick and shoves the lipstick case into the muzzle of one of the men's rifles.
+1043_Vantage_Point_00.13.26.726-00.13.30.077 	the presidential party continues, holden replacing barnes at the front.
+1046_Australia_01.42.18.968-01.42.28.000 	the dusty plains have been replaced by rivers, lakes and islands.
+1046_Australia_02.12.44.000-02.12.48.276 	reluctantly, ivan replaces the cup with another glass.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_01.48.06.629-01.48.10.885 	she replaces the necklace.
 1056_Rambo_00.12.22.842-00.12.25.629 	he replaces it with his creation, a new fan.
 1062_Day_the_Earth_stood_still_01.16.34.511-01.16.38.000 	the chipped drill bit is removed and replaced with a new one.

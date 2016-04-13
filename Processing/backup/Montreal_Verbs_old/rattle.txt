@@ -1,0 +1,4 @@
+ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS569 	01:19:25,00 --> 01:19:35,50 	a net of chains rattles over someone's head as he returns the gaze with a faint smile.
+KARATE_KID.srt 	KARATE_KID_DVS474 	00:42:31,00 --> 00:42:38,50 	he glances around frantically, then hurries to the maintenance shed's doors and rattles them.
+TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS79 	00:10:03,00 --> 00:10:08,50 	someone rattles a fist.
+WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS232 	00:39:09,00 --> 00:39:13,50 	rattling her fist.

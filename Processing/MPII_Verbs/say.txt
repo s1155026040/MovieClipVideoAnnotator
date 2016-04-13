@@ -1,161 +1,59 @@
-0001_American_Beauty_00.09.14.020-00.09.23.758 	we're looking through greenhouse windows at lester and jane in the kitchen we can't hear what they're saying, but it's obvious it's not going well.
-0001_American_Beauty_00.11.25.089-00.11.30.847 	she says this as if it were a threat, then notices a smudge on the mirror and wipes it off.
 0001_American_Beauty_01.17.07.334-01.17.11.119 	she's immediately sorry she said it, but it's too late.
-0001_American_Beauty_01.44.53.895-01.44.57.507 	she's trying to be seductive as she says this, but she's pretty bad at it.
-0002_As_Good_As_It_Gets_02.09.52.910-02.09.56.026 	it forces him to half-whisper something he hasn't at all said to himself.
-0003_CASABLANCA_00.15.27.220-00.15.28.959 	she looks at him bitterly, without saying a word.
-0003_CASABLANCA_01.26.44.961-01.26.46.210 	he looks at rick and says nothing.
-0004_Charade_00.26.55.072-00.26.56.492 	punch's head appears on the other side of the stage, says something, then ducks out.
 0004_Charade_01.50.12.560-01.50.14.641 	adam says nothing.
 0005_Chinatown_00.08.53.816-00.08.55.181 	mulwray says something to the boy.
 0005_Chinatown_00.34.47.558-00.34.49.292 	gittes says nothing.
-0005_Chinatown_01.06.58.697-01.07.01.650 	gittes sees the clerk turn to another, say something.
 0005_Chinatown_01.13.12.042-01.13.12.544 	gittes says nothing.
-0005_Chinatown_01.36.13.670-01.36.26.778 	gittes lets it go on for a moment, then picks it up without saying anything.
 0005_Chinatown_01.37.27.931-01.37.34.178 	before gittes can say anything, the phone clicks dead.
-0005_Chinatown_01.49.55.087-01.49.58.892 	he's been charged with anger and when evelyn says this it explodes.
 0006_Clerks_01.16.25.776-01.16.43.307 	dante says nothing.
 0006_Clerks_01.16.27.165-01.16.32.253 	dante says even less than nothing.
 0007_DIE_NACHT_DES_JAEGERS_01.08.37.804-01.08.38.030 	her face says.
-0008_Fargo_00.54.06.146-00.54.08.543 	he stares for a beat as he finishes chewing, and them swallows and says.
-0008_Fargo_00.58.12.779-00.58.13.778 	the attendant doesn't say anything.
 0008_Fargo_00.58.56.617-00.58.59.282 	shep says nothing.
 0008_Fargo_01.24.01.771-01.24.04.379 	grimsrud says nothing.
-0009_Forrest_Gump_01.06.11.854-01.06.14.052 	forrest continues to speak into the microphone, even though no one can hear what he is saying.
-0010_Frau_Ohne_Gewissen_00.58.14.110-00.58.16.546 	their lips are seen moving but what they say is not heard.
 0011_Gandhi_00.04.48.623-00.04.57.719 	we concentrate on one, let us say the most distinguished american broadcaster of the time, edward r.
-0011_Gandhi_00.09.27.993-00.09.29.585 	it is said with a dignity and strength that makes the statement all the more bewildering.
-0011_Gandhi_00.24.17.956-00.24.19.749 	she says it derisively and it stings, but gandhi is aware of walker and he fights to hold his temper.
-0011_Gandhi_01.06.45.560-01.06.46.357 	the words are said bleakly, not to raise false hopes.
-0011_Gandhi_01.55.58.473-01.56.00.831 	the clerk turns and says in a moderately loud voice.
-0012_Get_Shorty_00.41.00.373-00.41.03.260 	chili says nothing, sits down in one of the red leather chairs.
-0012_Get_Shorty_00.59.28.322-00.59.29.822 	keeps his eyes up there as he says.
-0012_Get_Shorty_01.13.22.500-01.13.23.940 	the bear keeps staring, but doesn't say anything.
-0013_Halloween_00.35.13.083-00.35.23.311 	through the windshield we see laurie get out of annie's car, say goodbye and walk up to the doyle house.
-0013_Halloween_00.51.58.088-00.52.00.247 	before laurie can say anything else, annie rushes out the door.
-0014_Ist_das_Leben_nicht_schoen_00.06.59.989-00.07.01.501 	she draws back quickly and looks down, terrified at what she has said.
-0014_Ist_das_Leben_nicht_schoen_00.08.11.736-00.08.13.316 	george picks up the capsule box, not knowing what to do or say.
-0014_Ist_das_Leben_nicht_schoen_00.32.04.411-00.32.15.495 	george puts down his coat and comes around to the table, incensed by what potter is saying about his father.
-0014_Ist_das_Leben_nicht_schoen_01.21.30.400-01.21.35.189 	uncle billy picks up the phone and speaks distractedly, without knowing what he is saying.
-0014_Ist_das_Leben_nicht_schoen_01.22.16.856-01.22.19.760 	she looks at him, then says a strange thing.
-0014_Ist_das_Leben_nicht_schoen_01.40.39.995-01.40.41.633 	throughout the scene he attempts to spit, but each time is stopped by some amazing thing clarence does or says.
-0014_Ist_das_Leben_nicht_schoen_01.44.30.692-01.44.33.060 	as clarence speaks, george cocks his head curiously, favoring his deaf ear, more interested in his hearing than in what clarence has said.
-0014_Ist_das_Leben_nicht_schoen_01.47.53.864-01.47.56.984 	as he says this, nick leans over the counter and puts his left fist nearly in clarence's eye.
-0016_O_Brother_Where_Art_Thou_01.07.31.712-01.07.43.686 	pete squints and cocks his head as if to say, what was that?
-0017_Pianist_00.43.00.243-00.43.01.943 	a young man, beside her, whispers to her, but she does not seem to take in what he's saying.
-0017_Pianist_01.07.01.034-01.07.03.057 	majorek takes the paper but says nothing.
 0019_Pulp_Fiction_00.18.57.261-00.19.01.406 	brett can't say a word.
-0019_Pulp_Fiction_00.29.19.400-00.29.20.575 	jody looks at him and says as if it were the most obvious thing in the world.
-0019_Pulp_Fiction_01.00.50.083-01.00.55.345 	mia, still breathing, not looking up at them, says in a relatively normal voice.
-0019_Pulp_Fiction_01.30.34.421-01.30.36.908 	sure enough, there's the watch just like he said it was: on the bedside table, hanging on his little kangaroo statue.
-0019_Pulp_Fiction_01.38.29.144-01.38.37.974 	without saying another word, maynard climbs up the stairs.
 0019_Pulp_Fiction_01.38.57.844-01.39.02.777 	he inspects them for a long time, then says.
-0019_Pulp_Fiction_01.51.48.869-01.51.57.279 	the fourth man is pacing around the small room, listening hard to what's being said on the other side of the door, tightly clutching his huge silver .357 magnum.
 0020_Raising_Arizona_00.26.02.977-00.26.08.357 	gale leans in close to hi, a look of sincere concern on his face, and says under his breath.
 0021_Rear_Window_00.20.06.996-00.20.14.058 	she sips her drink then says.
 0021_Rear_Window_00.28.12.176-00.28.15.544 	after a moment of silence, jeff says earnestly.
 0021_Rear_Window_00.28.14.801-00.28.16.540 	jeff says, as if remembering some old experience.
-0021_Rear_Window_00.28.25.050-00.28.31.055 	lisa, still looking out into the room, and without turning, says.
-0021_Rear_Window_00.30.09.553-00.30.13.708 	she moves away from the camera into the center of the room, as she says.
-0021_Rear_Window_00.30.46.686-00.30.48.357 	jeff starts to say something then thinks better of it, and remains silent.
-0021_Rear_Window_00.39.49.046-00.39.50.494 	we can faintly hear her voice saying something to the effect that he'll get into trouble.
 0021_Rear_Window_00.39.53.931-00.39.55.154 	behind him, stella moves to the center of the room, saying.
-0021_Rear_Window_00.40.30.251-00.40.34.279 	stella sniffs, then goes to the door, as she says.
-0021_Rear_Window_01.05.45.023-01.05.47.400 	jeff lowers his camera lens and edges his chair forward in an effort to hear what thorwald is saying.
-0021_Rear_Window_01.18.42.088-01.18.44.488 	he puts on his hat, smiles, and says.
-0021_Rear_Window_01.26.26.230-01.26.27.744 	lisa, still looking out, says.
-0022_Reservoir_Dogs_01.27.37.517-01.27.40.994 	there's a long pause while he rolls over what mr. orange has said.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.27.16.285-01.27.20.017 	strider says nothing and boromir turns away dismissively.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.23.55.930-00.23.57.335 	theoden listens intently, saying nothing.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.35.12.995-00.35.14.028 	pippin starts forward unable to say nothing.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.38.59.920-00.39.07.427 	gandalf looks down at pippin, he says nothing.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.12.22.256-01.12.23.486 	theoden realising what aragorn is saying -- no matter the numbers he must commit to war by the morning.
-0026_The_Big_Fish_00.15.20.549-00.15.28.191 	he tries to say something, but no words come out.
-0026_The_Big_Fish_00.22.24.744-00.22.27.029 	everyone turns to see who said that.
 0026_The_Big_Fish_00.54.45.149-00.54.47.364 	ultimately, there's no way he can say no.
-0026_The_Big_Fish_01.01.36.455-01.01.37.763 	all she can finally think of to say is.
-0026_The_Big_Fish_01.08.43.786-01.08.58.630 	we have no idea what they're saying to each other, but every act is fundamentally the same.
-0026_The_Big_Fish_01.25.52.602-01.25.54.969 	edward winces, but doesn't say anything yet.
-0026_The_Big_Fish_01.36.41.486-01.36.44.992 	without turning, she says.
 0026_The_Big_Fish_01.38.35.275-01.38.39.220 	before he can say anything more.
 0028_The_Crying_Game_00.07.12.688-00.07.17.747 	jody sits as still as a grave, saying nothing.
 0028_The_Crying_Game_00.23.15.316-00.23.16.555 	fergus says nothing.
 0028_The_Crying_Game_00.23.40.136-00.23.50.068 	fergus says nothing and keeps feeding him.
-0028_The_Crying_Game_00.23.42.285-00.23.45.778 	fergus shakes his head and says nothing.
 0028_The_Crying_Game_00.24.03.506-00.24.07.876 	fergus says nothing.
 0028_The_Crying_Game_00.41.51.182-00.41.53.754 	she imitates his accent saying it.
 0028_The_Crying_Game_00.49.19.828-00.49.21.076 	fergus says nothing.
 0028_The_Crying_Game_01.04.02.337-01.04.05.292 	fergus says nothing.
-0028_The_Crying_Game_01.13.18.990-01.13.20.657 	he stares at her, says nothing.
 0028_The_Crying_Game_01.16.04.472-01.16.06.789 	then says quietly.
 0028_The_Crying_Game_01.35.26.815-01.35.32.391 	she says very slowly and sleepily.
-0028_The_Crying_Game_01.42.40.212-01.42.43.219 	as she raises the gun, dil shoots her repeatedly, saying.
-0029_The_Graduate_00.04.15.330-00.04.19.109 	as ben says this, the door to the bedroom opens and mrs. braddock looks in.
-0029_The_Graduate_00.26.32.214-00.26.33.884 	one of the boys at the front of the group leans in and says something to the clerk behind the desk.
-0029_The_Graduate_00.26.33.884-00.26.35.810 	the clerk points across the lobby and says something to him.
-0029_The_Graduate_01.03.48.157-01.03.51.910 	they sit there for a long time without saying anything, ben's hand touching her shoulder.
-0030_The_Hustler_00.28.01.103-00.28.04.453 	fats and bert exchange glances but nothing is said.
 0030_The_Hustler_01.04.19.259-01.04.23.617 	sarah, her cheek wet, says nothing.
 0030_The_Hustler_01.04.38.965-01.04.44.858 	she pours it out, saying nothing.
-0031_The_Lost_Weekend_00.09.00.092-00.09.04.762 	don steps quickly to the door, presses his ear against it to hear what the two are saying outside.
 0031_The_Lost_Weekend_01.07.37.095-01.07.38.776 	it says five minutes of four.
 0032_The_Princess_Bride_00.12.23.413-00.12.24.627 	his grandfather says nothing, just waits.
 0032_The_Princess_Bride_00.13.31.824-00.13.32.749 	and once he's said the name.
 0032_The_Princess_Bride_00.33.43.943-00.33.45.245 	there's nothing he can say.
 0032_The_Princess_Bride_00.36.58.848-00.37.01.058 	the man in black says nothing.
-0032_The_Princess_Bride_00.46.24.252-00.46.25.170 	and as he says that, a r.o.u.s comes flying at him from off- screen.
-0032_The_Princess_Bride_00.57.56.632-00.57.58.132 	he says nothing, keeps control of himself.
-0032_The_Princess_Bride_01.07.10.000-01.07.11.434 	the albino shakes his head, says nothing.
-0033_Amadeus_00.25.07.567-00.25.11.248 	at a side-table, two imperial secretaries, using quill pens and inkstands, write down everything of importance that is said.
 0033_Amadeus_00.27.56.371-00.27.59.113 	all bow and say, good morning, your majesty.
-0033_Amadeus_01.46.14.469-01.46.15.720 	mozart strains to hear what they are saying but cannot.
-0033_Amadeus_02.42.46.522-02.42.49.126 	we do not hear what he is saying to salieri, who still sits writing assiduously.
 0041_The_Sixth_Sense_00.18.14.819-00.18.16.608 	neither says anything for a beat.
-0041_The_Sixth_Sense_01.26.49.142-01.26.51.731 	the two children don't say anything for a while.
-0041_The_Sixth_Sense_01.32.15.402-01.32.19.448 	the way he says the words gives lynn a chill.
 0043_Thelma_and_Luise_00.39.21.277-00.39.23.376 	neither one of them say anything for a moment.
 0043_Thelma_and_Luise_01.09.11.910-01.09.15.144 	neither one says anything for a moment.
-0043_Thelma_and_Luise_01.41.33.807-01.41.37.159 	a cop walks into the kitchen and hands hal a file that says louise elizabeth sawyer on the outside.
-0046_Chasing_Amy_00.22.39.030-00.22.43.995 	she turns to the band and says something which they nod.
-0046_Chasing_Amy_01.44.57.074-01.45.01.470 	holden shrugs slightly, then crosses his fingers - as if to say 'hopefully'.
 0046_Chasing_Amy_01.45.03.111-01.45.04.561 	then he offers his own thumbs up - as to say 'good luck'.
-0049_Hannah_and_her_sisters_00.23.32.028-00.23.41.773 	holly continues her ruminations as april leans over to say something to david.
 0049_Hannah_and_her_sisters_01.34.00.873-01.34.04.207 	mickey smiles and shrugs, not knowing what to say.
-0050_Indiana_Jones_and_the_last_crusade_00.45.36.510-00.45.38.912 	as indy says this he pushes his way past the startled butler, pulling a handkerchief from the man's pocket.
 0051_Men_in_black_00.17.17.040-00.17.17.854 	the someone says something else and laurel steps forward, now also out of edwards's line of vision.
-0051_Men_in_black_01.11.33.026-01.11.35.432 	she seems irritated with him, but it doesn't go with what she's saying.
-0053_Rendezvous_mit_Joe_Black_02.46.54.236-02.47.00.852 	joe regards parrish, waits until he has a sense that parrish has accepted what joe has said, then joe continues.
-1006_Slumdog_Millionaire_01.09.18.390-01.09.26.500 	the read out say it has found over 26,000 latikas as the name scroll across the screen.
-1006_Slumdog_Millionaire_01.43.24.943-01.43.35.273 	jamal smiles as he recollects his teacher beating him with the book and sheltering from the rain as a child saying she could be the third musketeer.
-1011_The_Help_01.45.50.059-01.45.53.024 	hilly is at the bottom of the stairs, saying goodnight to her guests.
 1012_Unbreakable_00.19.00.189-00.19.06.769 	a clock on the other side of the bed says a quarter to one.
 1014_2012_01.59.50.297-01.59.51.363 	yuri says something
 1017_Bad_Santa_00.04.55.979-00.05.06.699 	the security guard says farewell to the last shoppers.
-1019_Confessions_Of_A_Shopaholic_00.27.52.094-00.27.56.135 	luke grins, as he didn't mean her to say that.
-1023_Horrible_Bosses_00.30.15.023-00.30.19.449 	kurt pauses to compose himself, then opens the door and says.
-1029_Pride_And_Prejudice_Disk_One_02.39.28.262-02.39.31.929 	darcy takes a couple of steps forward, looking like he's about to say something.
 1037_The_Curious_Case_Of_Benjamin_Button_00.56.25.178-00.56.29.198 	daisy watches as he says his goodbyes.
-1037_The_Curious_Case_Of_Benjamin_Button_01.03.14.996-01.03.16.460 	elizabeth opens her mouth, as if about to say something.
 1047_Defiance_00.51.10.528-00.51.13.040 	says the commander with a smirk.
 1047_Defiance_01.29.07.839-01.29.09.598 	says viktor, dismissing the incident with a wave of his hand.
 1051_Harry_Potter_and_the_goblet_of_fire_02.21.11.646-02.21.22.023 	in the courtyard, students say goodbye at the end of term.
-1051_Harry_Potter_and_the_goblet_of_fire_02.21.47.198-02.21.58.967 	harry walks along the cloisters as the hogwarts' students say goodbye to the durmstrang and beauxbatons visitors.
-2005_Signs_00.27.57.581-00.27.58.628 	looks like he's not going to say anything.
-2005_Signs_00.27.58.677-00.28.02.866 	when he does, the words are soft and worn; they've been said a hundred times.
 2012_Unbreakable_00.22.05.930-00.22.21.541 	elijah's mother says the next words in almost a whisper.
 2012_Unbreakable_00.22.28.478-00.22.32.310 	neither says anything for a while.
-2017_Bad_Santa_00.52.52.677-00.52.57.755 	as willie drags him to the sink and runs water over the cut, the kid takes great gulping breaths and finally manages to say.
-2026_Legion_00.12.00.612-00.12.02.455 	kyle's expression says this is not good news.
-2026_Legion_00.42.27.315-00.42.30.612 	she's about to say something when -- kyle rushes into the room.
 2026_Legion_00.50.30.929-00.50.35.790 	michael pauses a beat, as if unsure how much to say
-2027_Les_Miserables_00.22.13.998-00.22.16.061 	valjean holds javert's gaze, challenging him to say more.
-2034_Super_8_00.50.59.373-00.51.12.100 	joe spins around as jack arrives, grabs his camera from charles and saying firmly, to joe.
-2034_Super_8_00.51.59.792-00.52.01.672 	joe closes the door hard and says, angrily, but restrained.
-2034_Super_8_00.52.39.724-00.52.43.993 	jack turns to leave -- but joe, enraged, says.
-2034_Super_8_00.53.02.395-00.53.06.282 	jack suddenly stops himself, realizing what he's saying.
 2034_Super_8_00.53.06.282-00.53.10.280 	and to whom he's saying it.
 2034_Super_8_01.10.12.173-01.10.15.689 	in a voice desperate and heartsick, he says.
-2034_Super_8_01.14.39.712-01.14.47.984 	now we cut to darkness -- we're inside the dungeon as it opens -- the boys look directly at us -- their faces say it all: the mother lode.
 2034_Super_8_01.24.16.311-01.24.22.670 	and as the creature descends upon him, in the silence before the final lunge -- nelec says, eerily quietly, terrified.
 2051_Harry_Potter_and_the_goblet_of_fire_00.30.40.821-00.30.41.719 	fred you said.
-2051_Harry_Potter_and_the_goblet_of_fire_00.49.11.214-00.49.18.220 	as harry walks along other pupils aim insults at him saying he stinks.

@@ -1,206 +1,102 @@
-0001_American_Beauty_00.01.43.985-00.01.48.384 	he rolls over, looks up at us and sighs.
 0001_American_Beauty_01.07.41.949-01.07.47.281 	jane rolls her eyes, crosses to the door and lets carolyn in.
-0001_American_Beauty_01.31.58.809-01.32.00.247 	we see only ricky's back and shoulders as he rolls the joint.
 0001_American_Beauty_01.32.57.272-01.32.59.410 	jane rolls her eyes and exits.
 0003_CASABLANCA_00.41.29.627-00.41.35.211 	c) tanks rolling down the road toward paris.
 0004_Charade_00.30.45.712-00.30.46.210 	slowly, his eyes open and tears stream from them, rolling down his cheeks.
-0005_Chinatown_01.14.47.692-01.14.48.793 	it sits on the rolling green lawns.
 0006_Clerks_00.03.31.644-00.03.32.895 	he rolls his eyes as it occurs to him.
 0006_Clerks_00.42.30.666-00.42.31.686 	dante rolls his eyes to the ceiling.
-0006_Clerks_00.42.49.311-00.42.53.246 	tape is rolled around the top of a stick.
-0007_DIE_NACHT_DES_JAEGERS_00.53.15.744-00.53.16.878 	he makes one step forward, steps on a rolling jar, and falls.
-0009_Forrest_Gump_00.57.03.835-00.57.08.454 	forrest holds two ice cream cones in his hands as he is wheeled on a rolling stretcher.
-0010_Frau_Ohne_Gewissen_00.22.32.137-00.22.38.340 	he rolls the ball with an effort at concentration, but his mind is not really on the game.
-0010_Frau_Ohne_Gewissen_00.52.04.828-00.52.05.478 	she walks around the car and rolls up the right front window.
 0011_Gandhi_00.34.31.829-00.34.32.807 	close shot, the horse's head, its eyes rolling as it swerves again.
-0011_Gandhi_00.43.47.774-00.43.49.280 	nehru has slammed the door of a gleaming rolls royce touring car, the top down.
-0011_Gandhi_00.51.21.819-00.51.24.819 	charlie, his trousers rolled up, plays a tentative splashing game with a skinny little indian boy.
-0011_Gandhi_02.34.24.017-02.34.26.876 	we cut from the pennant to see the aircraft stopping before a reception area, a carpet rolled out toward its door.
-0012_Get_Shorty_00.13.24.425-00.13.26.205 	the shape stirs, rolls over, and we see harry zimm, balding, overweight; a movie producer.
-0013_Halloween_00.32.27.151-00.32.27.986 	they quickly roll down the windows and begin wildly clearing out the marijuana smoke.
 0013_Halloween_01.17.26.064-01.17.28.032 	she crawls to the kitchen, rolls inside an slams the kitchen door behind her.
 0013_Halloween_01.20.23.611-01.20.25.719 	the shape springs backward, clawing at the needle, rolling his head back and forth.
-0014_Ist_das_Leben_nicht_schoen_01.01.07.526-01.01.08.670 	this has been accomplished by rolling up his pants and putting on an old coachman's hat.
-0016_O_Brother_Where_Art_Thou_01.13.04.389-01.13.10.627 	they have rolled through some brush and their bodies are now halfway into a clearing.
-0019_Pulp_Fiction_00.19.39.086-00.19.45.680 	jules' eyes go to vincent, vincent smirks, jules rolls his eyes and shoot brett in the shoulder.
 0019_Pulp_Fiction_00.37.47.304-00.37.50.665 	he hands her the rolled smoke.
-0019_Pulp_Fiction_00.38.14.367-00.38.14.674 	he begins rolling one for himself.
-0019_Pulp_Fiction_00.52.39.015-00.52.40.311 	imitating what he did earlier, licks the paper and rolls it into a pretty good cigarette.
-0020_Raising_Arizona_00.04.27.337-00.04.34.887 	we see his right hand being efficiently manipulated by ed's two hands: she is rolling each of his inked fingers into the appropriate space on an exemplar sheet.
-0020_Raising_Arizona_00.16.33.951-00.16.38.043 	ed is rolling up the window and locking the door.
-0020_Raising_Arizona_00.30.50.634-00.30.52.892 	byrum has taken nathan's right hand and is rolling its fingers onto the inkpad.
-0020_Raising_Arizona_00.45.14.744-00.45.16.246 	he rolls on the pavement, then hurriedly rights himself and takes up a half-kneeling shooting stance.
 0020_Raising_Arizona_01.18.45.255-01.18.46.251 	he rolls.
 0021_Rear_Window_00.06.27.904-00.06.39.650 	he rolls up his sleeves, and his well- muscled arms heavy with hair confirm his dark, husky build.
-0022_Reservoir_Dogs_01.27.37.517-01.27.40.994 	there's a long pause while he rolls over what mr. orange has said.
 0023_THE_BUTTERFLY_EFFECT_00.17.15.653-00.17.19.614 	evan's eyes suddenly roll back in his head.
 0023_THE_BUTTERFLY_EFFECT_00.23.09.939-00.23.15.738 	as a station wagon rolls up the street, evan and kayleigh duck in nearby bushes.
 0023_THE_BUTTERFLY_EFFECT_01.37.09.364-01.37.12.936 	evan allows kayleigh to roll him away from the others.
-0023_THE_BUTTERFLY_EFFECT_01.46.32.252-01.46.34.373 	mr. miller knocks the blockbuster from evan's hand and it rolls towards the other side of the room, resting peacefully against the video camera.
 0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.10.23.958-00.10.30.150 	as the cart rattles into the small village of hobbiton.a quaint rustic settlement, nestled amongst rolling green hills and large trees.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.21.34.991-00.21.36.961 	the palantir rolls across the floor, causing everyone in the room to cower back.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.26.38.023-01.26.42.648 	great siege towers and catapults are rolling across the pelennor fields.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.27.54.490-01.27.58.449 	the fog suddenly rolls back, forming a retreating wall of grey vapour.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.43.48.665-01.43.54.515 	rolling on the ground towards the edge of a precipice.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.50.24.327-01.50.27.370 	he rolls down the stairs in his web cocoon.
 0026_The_Big_Fish_00.16.25.605-00.16.28.120 	a beat, then edward rolls his eyes.
 0026_The_Big_Fish_00.45.16.941-00.45.18.765 	he rolls his eyes, why not.
-0026_The_Big_Fish_00.47.23.408-00.47.31.983 	from behind amos, carnies start rolling a massive ball towards the crowd.
 0026_The_Big_Fish_00.57.52.259-00.57.53.949 	he rolls to his feet.
 0026_The_Big_Fish_01.51.00.617-01.51.05.548 	before he can answer, will spots edward rolling the chair himself, pumping both arms.
-0027_The_Big_Lebowski_00.30.37.842-00.30.39.938 	the dude looks up, up, up at the looming ball, its mass rolling a huge shadow across his face.
 0027_The_Big_Lebowski_00.30.40.529-00.30.41.717 	the gleaming ball shows three dead black holes rolling toward us--finger holes.
-0027_The_Big_Lebowski_00.30.45.842-00.30.48.829 	the black rolls away and we are spinning--spinning down a bowling lane--our point of view that of someone trapped in the thumbhole of the rolling ball.
-0027_The_Big_Lebowski_00.48.47.900-00.48.51.879 	the limo has rolled to a stop.
-0027_The_Big_Lebowski_01.22.48.992-01.22.49.581 	but it is no longer a bowling ball rolling between their legs--it is the dude himself, levitating inches off the lane, the tools from his utility belt swinging free.
 0029_The_Graduate_00.39.24.897-00.39.35.212 	he rolls off the raft and swims to the end of the pool.
 0029_The_Graduate_01.03.14.937-01.03.26.357 	ben and elaine roll their windows up.
-0029_The_Graduate_01.03.31.447-01.03.32.837 	their windows are rolled up.
 0030_The_Hustler_00.09.58.374-00.10.04.923 	eddie selects a house cue, then rolls it over the table top to test the roll.
-0030_The_Hustler_00.16.57.555-00.17.00.698 	two balls are rolled to the end of the table, and fats and eddie, like two duelers, prepare to shoot for the break.
 0030_The_Hustler_00.17.07.934-00.17.11.578 	the balls roll down the table, bank off the far shoulder, and slowly return toward the two players.
-0030_The_Hustler_00.19.37.588-00.19.43.930 	as it rolls in, the crowd breaks into applause, and fats bangs the butt of his cue stick on the floor to show his appreciation.
-0030_The_Hustler_00.36.29.833-00.36.39.853 	he rolls out of bed and goes to the window.
-0030_The_Hustler_01.04.00.979-01.04.03.013 	a tear rolls down sarah's cheek as she hears this.
-0030_The_Hustler_02.07.45.917-02.07.50.037 	bert shifts uneasily in his chair and we hear the pool balls knock together, then slowly roll down the track through the belly of the table.
 0031_The_Lost_Weekend_00.30.06.154-00.30.11.330 	with a quick gesture he transfers the bottle to the pocket of the raincoat, rolls the raincoat up like swaddling clothes around a precious infant.
 0031_The_Lost_Weekend_00.33.18.712-00.33.21.335 	don rolls his program and sticks it into the sand of the cuspidor.
-0031_The_Lost_Weekend_00.43.59.651-00.44.12.835 	he snaps on the lights in the living room, rolls the empty bottle under the couch, takes the glass of whiskey, puts it behind the pile of records.
-0031_The_Lost_Weekend_00.45.01.561-00.45.04.600 	as he is starting towards the door, the bottle rolls from under the couch.
-0031_The_Lost_Weekend_00.45.02.306-00.45.04.208 	from under the couch has rolled the bottle.
-0031_The_Lost_Weekend_00.45.12.546-00.45.21.045 	wick stops and rolls it back again, then goes into the hall and opens the door.
-0032_The_Princess_Bride_00.46.37.768-00.46.40.625 	westley drives a fist into the beast's face, rolling it off.
 0033_Amadeus_00.17.43.067-00.17.44.471 	they roll on the floor.
-0041_The_Sixth_Sense_00.47.37.342-00.47.44.914 	he slowly moves the rolling chair closer to cole's bed.
 0041_The_Sixth_Sense_01.35.39.158-01.35.42.133 	the tears roll out through her fingers.
-0046_Chasing_Amy_00.23.45.364-00.23.51.310 	holden is smiling, being seduced, banky rolls his eyes.
 0046_Chasing_Amy_00.42.00.091-00.42.02.459 	holden rolls the ball.
-0046_Chasing_Amy_01.24.25.175-01.24.29.629 	jay looks over his shoulder, as he begins rolling a joint.
 0046_Chasing_Amy_01.39.49.285-01.39.50.825 	a tear rolls down her cheek.
-0049_Hannah_and_her_sisters_00.29.19.285-00.29.30.563 	graph paper rolls out of a machine, and after a brief glimpse of the rolling paper, the camera moves over to show mickey lying terrified, without his glasses, on a couch, with electrodes stuck all over his head.
-0050_Indiana_Jones_and_the_last_crusade_00.06.28.809-00.06.32.113 	halfbreed grabs at indy's feet again; indy rolls away and we see large bins of squirming snakes.
-0050_Indiana_Jones_and_the_last_crusade_00.07.22.046-00.07.23.402 	the two struggle, rolling from side to side, coming perilously close to rolling right off the edge.
-0050_Indiana_Jones_and_the_last_crusade_00.13.42.391-00.13.45.548 	on the ship, a giant fuel drum rolls wildly, falling directly onto a crate of tnt.
 0050_Indiana_Jones_and_the_last_crusade_01.02.27.935-01.02.31.625 	he rolls down the stairs.
-0050_Indiana_Jones_and_the_last_crusade_01.45.19.212-01.45.20.573 	instinctively he rolls forward on the ground out of harm's way and looks up.
-0051_Men_in_black_00.06.53.924-00.06.54.846 	dee struggles to roll over and change the controls on his gun, which fell out of his hand as he hit the ground.
 0051_Men_in_black_01.11.54.442-01.11.54.967 	laurel rolls her eyes.
-0053_Rendezvous_mit_Joe_Black_00.02.48.930-00.02.56.089 	the great lawn infested with workmen, planting stakes, un- rolling a huge canvas tent, gardeners fashioning topiary and adding landscaping of their own, crews setting up platforms, speakers, lights.
-0053_Rendezvous_mit_Joe_Black_00.26.15.858-00.26.20.178 	a beautiful, classic room, areas of dim, warm light, club chairs, books reaching to the ceiling, a rolling library ladder, a weathered dictionary on a stand, a model boat carved of bone set into the stacks which are separated from the reading area by a seven-foot high partition of obscured glass.
-1001_Flight_01.27.03.493-01.27.06.143 	still wearing his tie, his shirt's sleeves rolled up.
-1001_Flight_02.03.36.885-02.03.42.492 	whip rolls his tongue and looks briefly at hugh and charlie.
 1002_Harry_Potter_and_the_Half-Blood_Prince_00.36.07.019-00.36.07.641 	it rolls away.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.59.08.155-01.59.10.214 	white-tipped waves roll towards a pinnacle rising out of the sea.
 1002_Harry_Potter_and_the_Half-Blood_Prince_02.17.46.148-02.17.49.560 	a tear rolls down hermione's cheek.
 1003_How_to_Lose_Friends_and_Alienate_People_00.25.50.202-00.25.51.277 	sidney rolls his eyes as he listens in.
-1003_How_to_Lose_Friends_and_Alienate_People_01.06.02.640-01.06.08.204 	sophie's reflection appears like a mirage on the water and he rolls over to look up.
 1003_How_to_Lose_Friends_and_Alienate_People_01.06.44.250-01.06.48.810 	she rolls onto her back and moves closer to him.
-1004_Juno_00.05.41.624-00.05.50.070 	she rolls her eyes at the counter clerk and leaves the store, stick in one hand.
 1004_Juno_01.23.50.950-01.23.54.680 	the little car slips from her grasp and she rolls her eyes.
-1005_Signs_01.21.36.586-01.21.40.995 	morgan sets the white-headed silver torch on the ground and rolls it across to his father.
-1005_Signs_01.22.34.680-01.22.43.347 	as he runs away from the call shoot, he kicks the torch which rolls around to pick out bo's legs, poking out from beneath her silky blue dress as she presses herself up against the wall.
 1007_Spider-Man1_00.14.19.414-00.14.25.399 	he collapses on his bed then rolls off onto the floor.
-1007_Spider-Man1_00.52.27.535-00.52.36.300 	tears rolling slowly down his cheeks, he gazes distantly ahead.
-1007_Spider-Man1_01.54.44.971-01.54.46.889 	when she closes her lids, the tears roll down her cheeks.
-1008_Spider-Man2_00.20.32.828-00.20.38.529 	he rolls off the satchel strapped to his back, sits down on the bed, his face glum.
 1008_Spider-Man2_00.42.21.794-00.42.23.835 	an equipment unit rolls towards harry.
 1008_Spider-Man2_00.53.28.942-00.53.33.226 	a gold coin rolls over to the bank clerk, who's about to pocket it when aunt may smacks him.
 1008_Spider-Man2_01.11.35.325-01.11.38.353 	the wheel rolls off the front forks and bounces out of the open window.
-1008_Spider-Man2_01.33.54.406-01.33.55.009 	onto the roof of a car, rolls off it and hits another vehicle.
 1010_TITANIC_01.05.51.775-01.06.01.305 	jack, now with his tie removed and sleeves rolled up, dances with cora, a little girl with dark hair.
-1010_TITANIC_02.57.10.558-02.57.13.875 	rose slides on her stomach to the edge of the platform, then rolls into the water.
-1010_TITANIC_03.03.09.675-03.03.15.553 	he turns and watches lights glint off the surface of rolling waves.
 1011_The_Help_01.03.07.854-01.03.09.616 	skeeter rolls her eyes.
 1011_The_Help_01.16.48.215-01.16.50.663 	in a diner, shirt sleeves rolled up, he's ordered oysters.
 1012_Unbreakable_01.17.35.476-01.17.45.143 	elijah rolls his wheelchair along a darkened corridor, his right leg still sticking straight out with its two long rows of shiny bolts protruding from the metal frame around it.
-1012_Unbreakable_01.20.09.602-01.20.13.565 	she rolls over, unhearing, the dress revealing her thighs.
 1014_2012_00.10.41.652-00.10.42.708 	a group of workers roll a storage crate through a darkened exhibition hall.
 1014_2012_00.49.59.088-00.50.07.297 	gordon pilots the plane between tumbling sections of the freeway, then rolls to the right.
-1014_2012_01.32.49.054-01.32.56.609 	the trolley with the television on it starts to roll, as do other filled trolleys around.
 1015_27_Dresses_00.36.50.965-00.36.53.809 	jane rolls her eyes in disbelief.
 1015_27_Dresses_00.53.14.215-00.53.16.695 	jane rolls her eyes self-consciously.
-1017_Bad_Santa_00.20.15.148-00.20.20.851 	marcus rolls his eyes, shakes his head, then turns to the kids.
 1018_Body_Of_Lies_01.42.28.995-01.42.33.212 	a van rolls up.
-1019_Confessions_Of_A_Shopaholic_01.22.50.155-01.22.56.740 	tears roll down jane's face as she watches her giant of a husband standing facing the lake, with his arm around rebecca.
 1020_Crazy_Stupid_Love_01.51.58.924-01.52.02.456 	emily laughs as tears roll down her cheeks.
-1023_Horrible_Bosses_00.28.30.493-00.28.34.088 	clean-shaven with short, dark brown hair, he wears jeans and a shirt with the sleeves rolled up.
 1023_Horrible_Bosses_00.50.22.448-00.50.24.875 	dale rolls his shoulders.
 1024_Identity_Thief_00.24.09.161-00.24.11.065 	sandy rolls up his window in a gold sedan.
 1024_Identity_Thief_00.34.00.640-00.34.02.535 	sandy rolls his eyes.
 1024_Identity_Thief_01.38.54.868-01.38.58.675 	he rolls to his right and sidles up next to his wife, who lightly touches his shoulder.
 1026_Legion_00.38.59.487-00.39.01.638 	the car rolls over in flames.
 1026_Legion_01.13.51.031-01.13.51.943 	a tear rolls down charlie's cheek.
-1026_Legion_01.26.36.068-01.26.42.001 	the car leaves the road, hits a hump, and rolls into a ditch, landing on its roof.
 1027_Les_Miserables_01.46.26.018-01.46.28.406 	young gavroche watches, a tear rolling down his cheek.
-1027_Les_Miserables_02.00.37.745-02.00.46.607 	as cannons are rolled forward, the students shoot down a few soldiers.
 1028_No_Reservations_00.13.32.116-00.13.34.173 	tears roll down zoe's face.
-1029_Pride_And_Prejudice_Disk_One_00.02.46.790-00.02.53.080 	father and daughter roll their eyes amd smile.
 1029_Pride_And_Prejudice_Disk_One_00.07.09.066-00.07.10.844 	lydia rolls her eyes.
-1029_Pride_And_Prejudice_Disk_One_01.05.07.603-01.05.20.850 	they make their way into the village, carriages rolling past and people talking on corners.
-1030_Public_Enemies_00.36.07.614-00.36.13.154 	rolling over to face her, he strokes her cheek and neck.
 1031_Quantum_of_Solace_00.19.25.069-00.19.38.706 	bond's completely unmoved as the guy rolls his eyes in agony, then dies, blood pooling beneath his head.
-1031_Quantum_of_Solace_00.32.39.713-00.33.04.746 	with camille unconscious in the bottom of the boat, he heads away from a quiet inlet with rolling tree covered highlands towards a landing stage near a development of populant white building.
-1033_Sherlock_Holmes_A_Game_of_Shadows_00.31.26.882-00.31.28.714 	she rolls out of the fall and draws a knife.
 1033_Sherlock_Holmes_A_Game_of_Shadows_00.35.05.987-00.35.07.865 	the agent rolls a cigarette.
 1033_Sherlock_Holmes_A_Game_of_Shadows_01.24.38.722-01.24.49.993 	moriarty rolls his eyes wearily and bends over holmes, gripping the meat hook embedded in his shoulder with one hand and holmes' uninjured arm with the other.
 1034_Super_8_00.53.33.626-00.53.40.450 	a tear rolls down his cheek and he wipes it away with his hand.
 1034_Super_8_01.00.37.490-01.00.40.918 	her shoulders heave and tears roll down her face.
 1035_The_Adjustment_Bureau_00.57.59.247-00.58.04.619 	now he rolls on top of her in bed, his lips still pressed to hers.
 1035_The_Adjustment_Bureau_01.31.49.092-01.31.50.758 	a tear rolls down her cheek.
-1037_The_Curious_Case_Of_Benjamin_Button_02.02.28.814-02.02.31.499 	she carefully rolls down her stocking, revealing a scar beneath her right knee.
 1038_The_Great_Gatsby_00.23.41.645-00.23.49.558 	cars loaded with party goers roll up.
-1038_The_Great_Gatsby_00.48.46.216-00.48.50.006 	the cab rolls up and nick gets out.
-1038_The_Great_Gatsby_01.45.09.879-01.45.16.736 	she rolls up the bonnet, hits the windscreen and is thrown in the air.
 1038_The_Great_Gatsby_01.49.01.828-01.49.12.123 	with tears rolling down his face, wilson drinks and absently presses the glass against his face.
 1040_The_Ugly_Truth_00.15.25.973-00.15.27.771 	she rolls her eyes.
 1040_The_Ugly_Truth_01.03.58.911-01.04.02.192 	she rolls her eyes.
-1041_This_is_40_00.37.44.544-00.37.50.007 	debbie stares at him as she takes a deep breath and rolls her shoulders.
-1041_This_is_40_00.50.38.227-00.50.39.894 	debbie rolls her eyes and crosses her arms.
 1041_This_is_40_00.58.44.347-00.58.45.885 	pete rolls his eyes.
 1041_This_is_40_01.50.47.388-01.50.49.143 	debbie and pete roll their eyes.
-1044_Pride_And_Prejudice_Disk_Two_00.36.17.427-00.36.25.710 	lizzie and the gardiners are traveling through the rolling hills of the peaks.
-1044_Pride_And_Prejudice_Disk_Two_00.41.12.968-00.41.17.950 	the carriage rolls beneath a grand, ornate arch leading to pemberley.
-1045_An_education_01.15.14.330-01.15.17.361 	jenny rolls her tear filled eyes.
 1045_An_education_01.28.44.419-01.28.48.652 	tears roll down jenny's cheeks.
 1046_Australia_00.11.09.186-00.11.10.042 	the barman rolls his eyes.
 1046_Australia_02.12.38.564-02.12.41.643 	tears roll down drover's cheeks.
-1046_Australia_02.23.26.118-02.23.28.635 	eyes closed, tears roll down her cheeks.
-1048_Gran_Torino_00.05.27.000-00.05.31.000 	ashley rolls her eyes and looks at karen, who beckons her over.
 1048_Gran_Torino_00.07.22.949-00.07.26.839 	ashley rolls her eyes.
-1049_Harry_Potter_and_the_chamber_of_secrets_00.28.38.732-00.28.49.948 	it rolls down a cobbled passageway and zooms away towards the forest, leaving ron and harry far behind.
-1049_Harry_Potter_and_the_chamber_of_secrets_01.19.28.540-01.19.32.279 	their eyes roll up and they both fall over backwards and hit the floor.
 1051_Harry_Potter_and_the_goblet_of_fire_01.40.20.932-01.40.23.509 	wild-haired moody glares at crouch with his mad, rolling eye and flickers his tongue.
 1051_Harry_Potter_and_the_goblet_of_fire_02.16.26.928-02.16.35.313 	he wrenches off the leather patch with the mad, rolling eye, and flings it down.
 1052_Harry_Potter_and_the_order_of_phoenix_00.02.24.604-00.02.28.863 	heavy storm clouds roll overhead blocking out the sun.
 1052_Harry_Potter_and_the_order_of_phoenix_00.44.24.358-00.44.27.248 	she rolls the apple to the baby.
 1052_Harry_Potter_and_the_order_of_phoenix_01.59.43.606-01.59.47.963 	the water forms a huge rolling ball with voldemort trapped inside.
-1055_Marley_and_me_00.34.17.982-00.34.22.125 	they tumble, fully clothed, onto their bed, kissing and rolling around.
 1056_Rambo_00.52.03.989-00.52.08.150 	diaz leaps from the truck and rolls uncomfortably.
 1056_Rambo_01.15.51.742-01.15.53.246 	he rolls in the sand.
-1056_Rambo_01.16.50.000-01.16.53.781 	it rolls away and lies face down.
-1057_Seven_pounds_00.33.30.979-00.33.39.263 	tears rolls down ben's cheeks as he stands looking out to sea.
-1057_Seven_pounds_00.59.53.706-01.00.02.331 	tears roll down emily's cheeks as she puts a hand to her mouth.
-1057_Seven_pounds_01.10.30.600-01.10.39.472 	ben, whose shirt sleeves are rolled up to his elbows, follows her to double wooden doors.
 1057_Seven_pounds_01.36.15.079-01.36.18.343 	tears roll down his cheeks.
 1057_Seven_pounds_01.56.40.414-01.56.48.323 	emily smiles through her tears, which roll down her cheeks.
-1058_The_Damned_united_00.20.31.863-00.20.42.091 	the clough family sits at a dining table in a semi-detached house in the rolling derbyshire countryside.
 1059_The_devil_wears_prada_00.17.19.300-00.17.20.813 	miranda rolls her eyes.
-1059_The_devil_wears_prada_01.11.22.803-01.11.24.934 	emily is hit by a taxi and rolls onto its bonnet.
-1059_The_devil_wears_prada_01.28.52.820-01.29.03.546 	she rolls over and consults her watch on the bedside table.
 1059_The_devil_wears_prada_01.44.54.877-01.44.57.872 	miranda rolls her eyes and slides her sunglasses back on.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.10.12.306-01.10.16.836 	a tear rolls down snape's cheek.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.47.38.573-01.47.50.828 	harry seems to split voldemort's head in two, revealing only the black smoke, as they land in the courtyard and roll away from each other across the cobbles.
-1062_Day_the_Earth_stood_still_00.10.32.903-00.10.39.470 	more vehicles join the convoy rolling down the empty night- time highway.
 1062_Day_the_Earth_stood_still_00.37.05.827-00.37.10.128 	she rolls up his sleeve and jabs the hypodermic into his arm.
 1062_Day_the_Earth_stood_still_01.04.59.837-01.05.07.000 	the officer rolls over.
-1062_Day_the_Earth_stood_still_01.31.07.889-01.31.17.082 	an explosion lifts the car, rolling it over several times before it comes to rest against the tree.
-2005_Signs_01.21.36.300-01.21.38.354 	morgan puts the flashlight on the ground and rolls it across .
 2026_Legion_00.10.35.105-00.10.37.027 	he deftly rolls an engraved silver zippo back and forth over the nicotine stained fingers of his right hand.
 2026_Legion_00.36.16.201-00.36.18.812 	and sure enough, an ice cream truck rolls slowly toward the diner.
 2026_Legion_01.06.13.038-01.06.17.892 	bob's tv glows with bright rolling static.
-2040_The_Ugly_Truth_00.45.43.878-00.45.54.179 	abby rolls her eyes with a smile and goes inside.
 2040_The_Ugly_Truth_00.55.27.074-00.55.29.326 	abby's eyes roll back.
 2051_Harry_Potter_and_the_goblet_of_fire_00.30.41.719-00.30.58.945 	they roll around fighting on the floor and the crowd cheer.
-2051_Harry_Potter_and_the_goblet_of_fire_01.23.29.640-01.23.34.663 	a sleeve is rolled up and a marking of a skull and snake in on the arm.
-2051_Harry_Potter_and_the_goblet_of_fire_02.17.00.755-02.17.07.625 	barty jr rolls up his sleeve to reveal a skull and snake marking.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_01.19.27.316-01.19.31.348 	as trelawney eyes harry's crystal, hermione rolls her eyes.

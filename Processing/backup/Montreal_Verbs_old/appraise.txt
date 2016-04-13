@@ -1,0 +1,4 @@
+500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS493 	01:20:52,00 --> 01:20:57,50 	someone stands back and appraises the complex skyline
+BAD_TEACHER.srt 	BAD_TEACHER_DVS48 	00:15:57,00 --> 00:16:03,50 	she fondles them with an appraising frown.
+IN_TIME.srt 	IN_TIME_DVS291 	00:29:53,00 --> 00:29:57,50 	someone appraises the host.
+ROBIN_HOOD.srt 	ROBIN_HOOD_DVS234 	00:54:07,00 --> 00:54:14,50 	someone looks over her shoulder, appraises someone, then resumes her work.

@@ -1,9 +1,1 @@
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS450 	01:52:07,00 --> 01:52:31,50 	now, laid out in an open wicker coffin, sir someone's body lies clad in snowy robes and surrounded by greenery.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS396 	00:58:28,00 --> 00:58:37,50 	on the deck of the ship sir someone peers through a spyglass as the unicorn sails through a rough sea.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS449 	01:05:15,00 --> 01:05:22,50 	someone tears of his cape and drapes it over sir someone, who falls onto his back.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS454 	01:06:23,00 --> 01:06:34,50 	inside the ship sir someone tilts a book in a bookcase, opening a secret compartment in the floor.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS461 	01:07:30,00 --> 01:07:36,50 	on the ship, sir someone tied to the mast jerks back his head.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS464 	01:07:39,00 --> 01:07:44,50 	grasping the blade firmly, sir someone cuts through his ropes.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS467 	01:08:17,00 --> 01:08:24,50 	walking backward, sir someone pours out a trail of gunpowder from a barrel.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS472 	01:08:47,00 --> 01:08:56,50 	as they swordfight, sir someone kicks more gunpowder at the lantern.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS482 	01:09:31,00 --> 01:09:39,50 	with his sword, sir someone flicks away red someone's bandana, revealing someone's face.

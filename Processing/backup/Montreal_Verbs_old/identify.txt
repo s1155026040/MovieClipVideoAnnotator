@@ -1,0 +1,1 @@
+GREEN_ZONE.srt 	GREEN_ZONE_DVS183 	00:47:10,00 --> 00:47:42,50 	magellan identified specific site locations.

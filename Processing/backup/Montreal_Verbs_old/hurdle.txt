@@ -1,0 +1,6 @@
+A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS333 	00:29:41,00 --> 00:29:48,50 	on the overpass, someone hurdles a low barrier and cuts across traffic.
+GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS22 	00:03:32,00 --> 00:03:38,50 	someone hurdles a low wall and runs to him motorcycle.
+GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS518 	01:14:07,00 --> 01:14:13,50 	he hurdles the low edge of a stone window and peers around a column.
+THOR.srt 	THOR_DVS118 	00:17:36,00 --> 00:17:44,50 	someone, out in front of himself as he hurdles headlong through vibrating streams of colored light.
+TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS589 	01:05:00,00 --> 01:05:05,50 	at the obstacle course, someone hurdles a fence.
+WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS210 	00:36:23,00 --> 00:36:31,50 	someone drops his posts, hurdles the fence, and lands in a thicket of nettles.

@@ -1,346 +1,161 @@
-0002_As_Good_As_It_Gets_00.10.47.403-00.10.51.940 	The Mother nods too sympathetically that she does, but Carol interrupts her.
-0002_As_Good_As_It_Gets_00.34.31.765-00.34.33.553 	Melvin nods -- a bit frustrated about not being able to finish his dog story.
-0002_As_Good_As_It_Gets_01.10.28.848-01.10.34.012 	wide-eyed with apprehension, she looks at her mother, who, in return, only nods permission for Carol to let it go.
-0003_CASABLANCA_00.09.14.466-00.09.15.580 	He nods approval to Abdul.
-0003_CASABLANCA_00.22.45.434-00.22.46.788 	Sam nods and begins to play.
-0003_CASABLANCA_00.22.58.431-00.22.59.863 	Rick nods to Strasser and Heinze.
-0003_CASABLANCA_01.12.45.779-01.12.48.793 	Members of the orchestra glance toward the steps, toward Rick, who nods to them.
-0003_CASABLANCA_01.40.03.329-01.40.04.439 	Renault nods toward the field.
-0004_Charade_00.10.01.207-00.10.02.283 	She nods again.
-0004_Charade_00.10.09.580-00.10.10.211 	GRANDPIERRE nods as he turns to the unseen ATTENDANT.
-0005_Chinatown_00.34.49.787-00.34.51.140 	Evelyn nods slightly Escobar coughs.
-0005_Chinatown_00.54.01.437-00.54.02.844 	Gittes nods graciously, heads on into Yelburton's office.
-0005_Chinatown_01.53.54.446-01.53.57.796 	He nods slowly.
-0006_Clerks_00.10.29.519-00.10.31.988 	He nods again.
-0008_Fargo_01.32.17.174-01.32.18.738 	One of the policemen upholsters his gun and nods to someone whose back enters.
-0009_Forrest_Gump_00.15.26.892-00.15.27.595 	Forrest nods as he remembers.
-0009_Forrest_Gump_02.14.01.542-02.14.03.287 	Forrest nods approvingly.
-0010_Frau_Ohne_Gewissen_00.46.19.574-00.46.21.659 	Keyes nods slowly, a little sad and a little ashamed.
-0010_Frau_Ohne_Gewissen_00.53.27.652-00.53.28.618 	Phyllis nods and takes the ticket back.
-0010_Frau_Ohne_Gewissen_01.04.15.548-01.04.17.140 	Phyllis nods silently.
-0011_Gandhi_00.17.45.083-00.17.45.414 	Charlie nods uncertainly.
-0011_Gandhi_00.26.55.567-00.26.58.627 	Khan leans towards Singh, nodding to Gandhi.
-0011_Gandhi_00.31.46.533-00.31.50.373 	Tyeb Mohammed suddenly touches Gandhi's arm and nods ahead.
-0011_Gandhi_00.38.12.748-00.38.16.001 	He nods to the tall civil servant, who bows and closes the door.
-0011_Gandhi_00.42.05.135-00.42.06.619 	He glances at him and the well-dressed Indian simply nods slightly and moves off a little.
-0011_Gandhi_00.45.34.276-00.45.36.054 	She nods lightly toward Nehru.
-0011_Gandhi_00.56.43.820-00.56.44.430 	Gandhi nods to him and acknowledges the residue of applause.
-0011_Gandhi_01.44.39.392-01.44.41.022 	Mirabehn nods and looks resignedly at Ba.
-0011_Gandhi_01.55.56.647-01.55.58.473 	At last, he shuts the folder and nods to the clerk.
-0011_Gandhi_02.07.49.311-02.07.52.556 	Gandhi nods to them amiably as he passes along in front of them.
-0011_Gandhi_02.08.19.065-02.08.19.954 	He nods politely toward the British police officer at the end of the police line.
-0011_Gandhi_02.32.42.419-02.32.45.279 	He looks across at Mirabehn and nods for her to go.
-0011_Gandhi_02.33.26.162-02.33.29.369 	He pauses, nods amiably to Gandhi, though Gandhi does not react to his presence at all.
-0011_Gandhi_02.37.50.488-02.37.50.588 	She nods obediently, the flicker of a smile around her mouth, youthful, irrepressible.
-0011_Gandhi_02.48.19.164-02.48.22.584 	Nehru thinks on it solemnly, then nods yes.
-0011_Gandhi_02.49.49.949-02.49.50.805 	Gandhi nods to Nehru, accepting the news with a sad wistfulness.
-0011_Gandhi_02.58.29.448-02.58.30.849 	Nehru just nods tautly.
-0011_Gandhi_03.01.00.182-03.01.07.384 	Patel nods soberly and Gandhi starts for the door, Bourke- White moving with him.
-0012_Get_Shorty_00.08.50.565-00.08.52.295 	Ray Bones eyes Chili, then nods to Fred and Ed.
-0012_Get_Shorty_00.10.39.582-00.10.41.473 	Ray Bones then nods to his man who grabs Chili, holds the point of the scissors to Chili's throat.
-0012_Get_Shorty_00.29.52.864-00.29.56.567 	Sitting down, he nods to Chili who ignores him.
-0012_Get_Shorty_00.30.00.716-00.30.01.839 	The limo guys nod to Chili and Chili nods back, trying to catch Harry's eye.
-0012_Get_Shorty_00.51.10.398-00.51.10.584 	Nicki nods solemnly.
-0014_Ist_das_Leben_nicht_schoen_00.39.33.172-00.39.37.367 	She nods toward the house, where Harry and Ruth, among a crowd of other couples, are dancing to the MUSIC of a phonograph, and can be seen through the front door.
-0014_Ist_das_Leben_nicht_schoen_01.14.39.611-01.14.40.870 	Mary nods her head happily.
-0016_O_Brother_Where_Art_Thou_00.06.10.602-00.06.15.332 	He looks from Pete to Everett, and nods agreeably.
-0017_Pianist_00.21.01.672-00.21.04.814 	Heller remains seated, just nods at the brothers.
-0017_Pianist_00.23.28.872-00.23.34.843 	Satisfied, the customer beams, nods his thanks to Szpilman, who resumes his piano playing.
-0017_Pianist_01.35.08.058-01.35.26.008 	He nods and goes.
-0020_Raising_Arizona_00.17.40.366-00.17.43.368 	Hi nods as he pulls away from the curb.
-0020_Raising_Arizona_00.41.55.303-00.41.59.558 	Glen nods energetically.
-0020_Raising_Arizona_01.11.41.815-01.11.43.189 	He is nodding to himself.
-0020_Raising_Arizona_01.19.58.748-01.20.02.968 	Lenny is rising to his feet beyond them as Hi nods encouragement to Ed.
-0020_Raising_Arizona_01.25.55.441-01.25.59.403 	Finally he nods and sighs.
-0021_Rear_Window_00.18.35.110-00.18.38.697 	He smiles, nods enters.
-0021_Rear_Window_01.25.01.760-01.25.02.331 	He nods solemnly and then turns back to the window, as both he and Lisa look again towards.
-0023_THE_BUTTERFLY_EFFECT_00.06.55.416-00.06.57.703 	Evan nods and sticks his arms straight up in the air.
-0023_THE_BUTTERFLY_EFFECT_00.46.06.239-00.46.11.095 	Kayleigh nods and they walk down the street.
-0023_THE_BUTTERFLY_EFFECT_00.45.45.401-00.45.48.050 	Evan nods and scrutinizes her face with his next question.
-0023_THE_BUTTERFLY_EFFECT_01.00.34.724-01.00.37.655 	Evan nods and smiles as exams are passed down his row.
-0023_THE_BUTTERFLY_EFFECT_01.19.49.046-01.19.54.142 	Evan nods reluctantly and peacefully drops to his knees.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.21.05.994-00.21.10.194 	Bilbo.he gives Gandalf a look and nods toward the mantelpiece.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.11.16.925-00.11.21.013 	THE OLD ENT nods his head wisely.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.01.57.669-02.02.03.370 	DENETHOR nods to them: The SERVANTS approach the PYRE, TORCHES held firmly.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.29.44.383-02.29.45.286 	He nods at ARAGORN.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_03.03.53.295-03.03.59.806 	BILBO nods back to sleep.
-0027_The_Big_Lebowski_00.29.27.859-00.29.29.131 	Walter nods sadly.
-0028_The_Crying_Game_00.56.12.735-00.56.13.503 	He nods toward the picture.
-0028_The_Crying_Game_01.21.31.320-01.21.32.942 	He nods toward the building.
-0028_The_Crying_Game_01.21.40.798-01.21.41.895 	He nods toward a car, a Daimler, parked some distance away.
-0029_The_Graduate_00.23.23.206-00.23.27.950 	The figures, through the slightly distorted glass of the mask of Mrs. Arnold and Mrs. Braddock, watching and smiling; the neighbors on each side of the house, looking over their fences and laughing and pointing; Mr. Arnold nodding encouragement and talking; Mr. Braddock on his knees, smiling and trying to reach out far enough to push us under.
-0030_The_Hustler_00.24.31.797-00.24.35.136 	He nods to Preacher who then leaves.
-0030_The_Hustler_01.31.39.115-01.31.42.492 	Eddie nods and drinks down the last of his brandy as the waiter leaves.
-0030_The_Hustler_01.45.27.161-01.45.30.564 	He nods to them all, and leaves.
-0032_The_Princess_Bride_00.29.50.969-00.29.51.995 	The Man In Black nods and comes nearer.
-0033_Amadeus_00.31.54.254-00.31.55.077 	Orsini-Rosenberg nods without enthusiasm.
-0033_Amadeus_00.35.22.980-00.35.26.120 	He nods - he has wanted this result all the time.
-0033_Amadeus_00.47.19.447-00.47.22.585 	He nods pleasantly to all and leaves the stage, with his Chamberlain.
-0033_Amadeus_00.53.16.829-00.53.18.256 	Out of breath, the Princess nods nervously.
-0038_Psycho_01.07.07.458-01.07.12.923 	He takes a slip of paper out of his pocket, lays it beside the signature in the registry book, all the while nodding and smiling nicely, as if this discovery will make Norman as happy as it is making him.
-0038_Psycho_01.27.59.571-01.28.02.096 	The Sheriff nods as he goes.
-0038_Psycho_01.31.55.266-01.31.58.654 	Sam considers a moment, nods agreement, rises.
-0038_Psycho_01.34.38.034-01.34.42.075 	Lila nods quickly, hurries to the door.
-0041_The_Sixth_Sense_00.14.06.213-00.14.13.574 	Malcolm nods at the information.
-0041_The_Sixth_Sense_01.33.46.031-01.33.47.524 	She nods with grave understanding.
-0043_Thelma_and_Luise_00.41.45.728-00.41.50.979 	The Hitchhiker just nods and starts walking towards the road.
-0046_Chasing_Amy_00.10.45.237-00.10.46.924 	Then he nods to Hooper.
-0046_Chasing_Amy_01.45.13.542-01.45.19.607 	Holden smiles back, nods 'bye', and walks off.
-0049_Hannah_and_her_sisters_01.40.13.476-01.40.18.538 	He passes the women and walks through the doorway into the living room, nodding hello to a guest who is walking the other way.
-0051_Men_in_black_00.55.40.296-00.55.42.233 	The Baltian nods vigorously.
-0051_Men_in_black_00.55.43.407-00.55.48.516 	The Baltian nods again, falls, and dies.
-0053_Rendezvous_mit_Joe_Black_00.33.07.524-00.33.10.429 	Luisa nods perfunctorily and exits.
-0053_Rendezvous_mit_Joe_Black_01.28.52.591-01.28.58.762 	He nods confidently to Drew, then turns importantly to the Board.
-0053_Rendezvous_mit_Joe_Black_02.06.58.819-02.07.04.730 	Quince smiles, nods embarrassedly.
-0053_Rendezvous_mit_Joe_Black_02.32.42.990-02.32.47.699 	He looks at Joe pleadingly, shaking his head imperceptibly, but Joe nods to him blithely -- and then commandingly.
-1001_Flight_00.29.16.479-00.29.19.015 	Whip nods weakly.
-1001_Flight_02.02.20.349-02.02.27.244 	Ellen nods and leafs through a file.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.43.30.787-00.43.35.587 	Harry nods and stares resolutely ahead.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.21.33.891-01.21.37.356 	Harry nods to Ron, then walks along the corridor.
-1003_How_to_Lose_Friends_and_Alienate_People_00.40.45.816-00.40.49.462 	Clayton nods and Sidney leaves.
-1003_How_to_Lose_Friends_and_Alienate_People_01.26.08.839-01.26.11.955 	He nods with a grateful smile as he looks it over.
-1003_How_to_Lose_Friends_and_Alienate_People_01.39.25.586-01.39.31.597 	The bespectacled mop-head guy nods for Sydney to pass and he does, racing off through the crowd.
-1004_Juno_00.18.27.074-00.18.30.270 	Juno nods obediently.
-1004_Juno_01.20.19.450-01.20.22.117 	Juno nods wryly, then her expression brightens.
-1004_Juno_01.26.33.910-01.26.35.620 	She nods sleepily.
-1005_Signs_00.15.43.706-00.15.44.827 	Caroline smiles warmly and nods back.
-1005_Signs_00.22.29.341-00.22.32.270 	Caroline nods and opens the driver's door of her police car.
-1005_Signs_00.29.26.161-00.29.28.635 	Graham sighs and nods back.
-1005_Signs_00.56.53.180-00.57.00.536 	His lips curled and features crumpled, he nods sufferingly.
-1005_Signs_00.59.38.170-00.59.40.741 	He nods to himself.
-1005_Signs_01.29.35.871-01.29.39.739 	Graham nods numbly, his mouth agape.
-1007_Spider-Man1_00.04.19.503-00.04.21.490 	A guy, Flash Tompson is armed around Mary Jane, nods to another student.
-1007_Spider-Man1_00.16.24.547-00.16.25.968 	Norman nods to his colleague.
-1007_Spider-Man1_00.36.09.712-00.36.10.995 	He nods of his head slightly.
+0002_As_Good_As_It_Gets_00.51.14.621-00.51.18.155 	she nods, pissed, waves and leaves.
+0003_CASABLANCA_00.09.14.466-00.09.15.580 	he nods approval to abdul.
+0003_CASABLANCA_01.12.45.779-01.12.48.793 	members of the orchestra glance toward the steps, toward rick, who nods to them.
+0004_Charade_00.09.57.291-00.09.58.586 	she nods.
+0004_Charade_00.10.01.207-00.10.02.283 	she nods again.
+0005_Chinatown_01.16.08.445-01.16.12.227 	she manages to nod.
+0005_Chinatown_01.34.13.679-01.34.14.600 	she nods.
+0005_Chinatown_01.51.20.141-01.51.21.376 	she nods.
+0005_Chinatown_01.53.54.446-01.53.57.796 	he nods slowly.
+0006_Clerks_00.10.23.191-00.10.25.561 	he nods.
+0006_Clerks_00.10.29.519-00.10.31.988 	he nods again.
+0007_DIE_NACHT_DES_JAEGERS_00.03.05.643-00.03.08.430 	he nods, smiles, and touches his hat.
+0007_DIE_NACHT_DES_JAEGERS_01.15.09.212-01.15.10.865 	she nods.
+0010_Frau_Ohne_Gewissen_00.41.16.974-00.41.17.696 	she nods.
+0011_Gandhi_00.21.45.967-00.21.47.388 	they nod.
+0011_Gandhi_00.26.55.567-00.26.58.627 	khan leans towards singh, nodding to gandhi.
+0011_Gandhi_00.38.12.748-00.38.16.001 	he nods to the tall civil servant, who bows and closes the door.
+0011_Gandhi_00.42.05.135-00.42.06.619 	he glances at him and the well-dressed indian simply nods slightly and moves off a little.
+0011_Gandhi_00.45.34.276-00.45.36.054 	she nods lightly toward nehru.
+0011_Gandhi_01.11.28.008-01.11.28.971 	he nods.
+0011_Gandhi_02.08.19.065-02.08.19.954 	he nods politely toward the british police officer at the end of the police line.
+0011_Gandhi_02.37.50.488-02.37.50.588 	she nods obediently, the flicker of a smile around her mouth, youthful, irrepressible.
+0011_Gandhi_02.52.26.535-02.52.28.236 	gandhi looks up at suhrawardy, who nods.
+0012_Get_Shorty_00.10.39.582-00.10.41.473 	ray bones then nods to his man who grabs chili, holds the point of the scissors to chili's throat.
+0012_Get_Shorty_00.29.52.864-00.29.56.567 	sitting down, he nods to chili who ignores him.
+0014_Ist_das_Leben_nicht_schoen_00.39.33.172-00.39.37.367 	she nods toward the house, where harry and ruth, among a crowd of other couples, are dancing to the music of a phonograph, and can be seen through the front door.
+0017_Pianist_00.23.28.872-00.23.34.843 	satisfied, the customer beams, nods his thanks to szpilman, who resumes his piano playing.
+0017_Pianist_01.31.15.421-01.31.17.096 	he nods.
+0020_Raising_Arizona_01.11.41.815-01.11.43.189 	he is nodding to himself.
+0020_Raising_Arizona_01.25.55.441-01.25.59.403 	finally he nods and sighs.
+0021_Rear_Window_01.25.01.760-01.25.02.331 	he nods solemnly and then turns back to the window, as both he and lisa look again towards.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.11.16.925-00.11.21.013 	the old ent nods his head wisely.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.29.44.383-02.29.45.286 	he nods at aragorn.
+0026_The_Big_Fish_00.43.06.097-00.43.10.295 	he nods.
+0026_The_Big_Fish_00.55.24.564-00.55.26.571 	nodding off, edward falls backward, into the path of the spinning arms.
+0028_The_Crying_Game_00.03.39.144-00.03.40.572 	he nods.
+0028_The_Crying_Game_00.56.12.735-00.56.13.503 	he nods toward the picture.
+0028_The_Crying_Game_01.21.31.320-01.21.32.942 	he nods toward the building.
+0028_The_Crying_Game_01.21.40.798-01.21.41.895 	he nods toward a car, a daimler, parked some distance away.
+0029_The_Graduate_00.10.47.577-00.10.50.537 	she nods.
+0029_The_Graduate_01.05.41.728-01.05.47.415 	she nods.
+0029_The_Graduate_01.27.06.707-01.27.08.811 	she nods.
+0029_The_Graduate_01.30.42.905-01.30.43.844 	he nods, she takes it off, puts it in a box and gives it to him.
+0030_The_Hustler_00.24.31.797-00.24.35.136 	he nods to preacher who then leaves.
+0030_The_Hustler_00.30.07.229-00.30.13.261 	fats emerges from the washroom, dries his hands, looks at eddie and then at bert who nods.
+0030_The_Hustler_01.45.27.161-01.45.30.564 	he nods to them all, and leaves.
+0032_The_Princess_Bride_00.14.52.879-00.15.09.283 	he prods fezzik, who nods, increases his pace.
+0032_The_Princess_Bride_00.56.14.296-00.56.16.304 	and she nods.
+0033_Amadeus_00.35.22.980-00.35.26.120 	he nods - he has wanted this result all the time.
+0033_Amadeus_00.47.19.447-00.47.22.585 	he nods pleasantly to all and leaves the stage, with his chamberlain.
+0038_Psycho_01.03.52.400-01.04.00.583 	he nods, takes down the closed-for-lunch sign, sails it to the counter, opens door, goes out into the street.
+0041_The_Sixth_Sense_01.33.46.031-01.33.47.524 	she nods with grave understanding.
+0046_Chasing_Amy_00.10.45.237-00.10.46.924 	then he nods to hooper.
+0046_Chasing_Amy_00.22.39.030-00.22.43.995 	she turns to the band and says something which they nod.
+0049_Hannah_and_her_sisters_00.13.20.087-00.13.29.750 	hannah continues to nod patiently, patting mickey on the back, as they make their way across the foyer into the den, where the twins are playing.
+0049_Hannah_and_her_sisters_01.40.13.476-01.40.18.538 	he passes the women and walks through the doorway into the living room, nodding hello to a guest who is walking the other way.
+0053_Rendezvous_mit_Joe_Black_01.28.52.591-01.28.58.762 	he nods confidently to drew, then turns importantly to the board.
+1001_Flight_01.14.47.549-01.14.49.372 	she nods.
+1002_Harry_Potter_and_the_Half-Blood_Prince_00.39.29.548-00.39.32.677 	he glances at the elderly professor who nods.
+1003_How_to_Lose_Friends_and_Alienate_People_00.38.46.807-00.38.51.043 	he nods.
+1003_How_to_Lose_Friends_and_Alienate_People_01.26.08.839-01.26.11.955 	he nods with a grateful smile as he looks it over.
+1004_Juno_01.26.33.910-01.26.35.620 	she nods sleepily.
+1005_Signs_00.15.43.706-00.15.44.827 	caroline smiles warmly and nods back.
+1005_Signs_00.17.55.545-00.17.57.243 	she nods.
+1005_Signs_00.50.33.560-00.50.42.147 	nodding dubiously, graham takes the book from morgan and starts to leaf through the pages.
+1005_Signs_00.56.53.180-00.57.00.536 	his lips curled and features crumpled, he nods sufferingly.
+1005_Signs_00.59.38.170-00.59.40.741 	he nods to himself.
+1006_Slumdog_Millionaire_01.01.34.103-01.01.39.043 	salim slowly turns to face javed, he nodes.
 1007_Spider-Man1_00.36.09.712-00.36.10.995 	he nods of his head slightly.
 1007_Spider-Man1_00.51.53.330-00.51.55.269 	peter nods his head stiffly and manages a weak smile.
-1007_Spider-Man1_00.58.52.643-00.58.56.331 	once again, he simply nods and turns to watch her go.
 1007_Spider-Man1_01.35.15.602-01.35.20.321 	peter averts his gaze, nods his head, then looks down at the floor.
 1007_Spider-Man1_01.50.36.925-01.50.39.568 	harry turns and nods acknowledgement.
 1008_Spider-Man2_00.33.31.521-00.33.35.000 	the man nods understandingly.
 1008_Spider-Man2_01.08.15.283-01.08.18.593 	he nods again, and peter reflects.
 1008_Spider-Man2_01.19.00.552-01.19.01.766 	he nods his head.
 1008_Spider-Man2_01.30.16.364-01.30.17.953 	she nods and moves away.
+1008_Spider-Man2_02.00.15.765-02.00.18.002 	he nods.
+1009_Spider-Man3_00.31.55.366-00.31.58.333 	she nods, sadly.
+1009_Spider-Man3_01.52.34.879-01.52.44.554 	with the disfigured side of his face in shadow, a tear glistens in harry's good eye and he nods.
 1009_Spider-Man3_02.01.33.632-02.01.36.673 	he nods through his torn mask.
-1009_Spider-Man3_02.08.04.568-02.08.09.623 	then lowers his grief-stricken eyes and nods to himself.
+1009_Spider-Man3_02.06.09.582-02.06.11.994 	she nods.
 1009_Spider-Man3_02.08.43.399-02.08.49.519 	his eyes brimming, flint looks sorrowfully but steadily at peter, who nods with a look of understanding.
-1009_Spider-Man3_02.09.03.779-02.09.19.256 	flint nods faintly and starts to disintegrate into a whirling eddy of sand.
-1009_Spider-Man3_02.10.15.299-02.10.18.407 	peter nods and smiles, close to tears.
-1010_TITANIC_00.52.36.295-00.52.38.885 	ruth nods at molly then strides off.
-1010_TITANIC_00.57.50.414-00.57.53.081 	jack nods to the man as he and a woman stroll past.
-1010_TITANIC_01.51.38.413-01.51.53.862 	andrews nods and walks off.
-1010_TITANIC_02.44.08.821-02.44.18.331 	rose nods as the bubbling water covers the tail rudder and surges up the whole deck
-1010_TITANIC_02.46.54.539-02.47.00.982 	jack looks down, then blinks and nods to himself.
-1010_TITANIC_03.06.33.116-03.06.36.979 	standing at the bottom of the stairs, mr. andrews nods and then moves aside.
-1011_The_Help_00.01.50.109-00.01.58.673 	the maid nods with a smile and a long, penetrating gaze.
-1011_The_Help_00.08.53.721-00.09.07.111 	elizabeth leefolt looks through her front curtains and then nods to aibileen, who slides the chicken dish over a crack in the veneer of the dining table.
-1011_The_Help_00.43.18.976-00.43.32.806 	aibileen puts down the cutlery she's holding and nods mutely.
+1010_TITANIC_01.54.22.411-01.54.28.370 	the mother glances at her young daughter, who nods.
 1011_The_Help_01.49.32.395-01.49.35.741 	she winks at constantine, who is nodding approvingly by the door.
-1011_The_Help_02.04.38.796-02.04.45.874 	looking at her handsome, regal looking mother, skeeter nods in acknowledgement, but then lowers her eyes.
-1011_The_Help_02.12.40.544-02.12.46.059 	skeeter smiles and nods through her tears.
-1012_Unbreakable_00.11.31.333-00.11.37.000 	david nods abstractedly as the crimson stain quickly spreads.
 1012_Unbreakable_00.14.02.397-00.14.06.985 	he nods slightly as he brings the spoon under control.
-1012_Unbreakable_00.50.24.401-00.50.26.648 	elijah nods almost imperceptibly.
-1012_Unbreakable_01.34.58.081-01.35.03.747 	joseph looks up at his father, who almost imperceptibly nods down at the story.
-1012_Unbreakable_01.35.21.081-01.35.24.385 	david nods expressionlessly.
-1012_Unbreakable_01.35.33.457-01.35.42.364 	david puts a finger to his lips, and joseph nods and wipes away a tear.
+1012_Unbreakable_01.12.02.242-01.12.05.605 	she nods, turns, and goes.
+1012_Unbreakable_01.34.11.081-01.34.19.309 	david continues to read, at last looking up and nodding.
 1014_2012_00.34.02.005-00.34.05.065 	jackson frowns dubiously then nods calmly.
-1014_2012_01.23.29.511-01.23.33.310 	jackson nods and raises his eyebrows.
-1014_2012_01.59.03.671-01.59.08.017 	tenzen nods to jackson.
+1015_27_Dresses_00.39.13.253-00.39.15.605 	he nods, tight-lipped, as she knots the tie.
 1017_Bad_Santa_00.25.55.887-00.25.57.835 	she nods and looks at his glass.
-1017_Bad_Santa_00.49.11.177-00.49.25.875 	as grandma nods off in front of the tv, willie is outside entertaining the barmaid in the hot tub.
 1017_Bad_Santa_00.50.58.597-00.51.07.485 	she laughs to herself, and he nods off.
 1017_Bad_Santa_00.56.28.704-00.56.30.465 	gin nods his head and gets up.
-1017_Bad_Santa_01.14.34.612-01.14.36.425 	he looks at her and nods to himself.
-1017_Bad_Santa_01.18.07.426-01.18.17.473 	marcus nods to lois and she drops the van into gear, hits the gas, and crushes gin between the two vechicles.
-1018_Body_Of_Lies_00.31.42.953-00.31.48.208 	hani nods and glances at the building.
-1018_Body_Of_Lies_00.48.08.184-00.48.10.583 	ferris nods thoughtfully.
-1018_Body_Of_Lies_01.19.47.819-01.19.48.177 	yousef nods in approval of the next dish.
-1020_Crazy_Stupid_Love_00.04.12.542-00.04.14.715 	robbie nods ruefully,
+1018_Body_Of_Lies_00.34.03.143-00.34.06.277 	he studies ferris, and they both nod.
+1018_Body_Of_Lies_01.19.07.337-01.19.09.288 	they nod.
+1020_Crazy_Stupid_Love_00.09.13.517-00.09.14.161 	she nods.
+1020_Crazy_Stupid_Love_00.10.39.702-00.10.43.060 	she nods.
 1020_Crazy_Stupid_Love_00.19.56.219-00.20.03.523 	he nods at cal.
+1020_Crazy_Stupid_Love_00.31.04.758-00.31.06.258 	she nods.
 1020_Crazy_Stupid_Love_00.36.12.295-00.36.14.982 	she nods somberly.
-1020_Crazy_Stupid_Love_00.56.07.286-00.56.10.498 	cal nods and looks down.
 1020_Crazy_Stupid_Love_01.00.42.919-01.00.48.279 	she opens and closes her mouth, and nods her head.
-1020_Crazy_Stupid_Love_01.05.52.673-01.05.55.083 	hannah nods curtly and kisses him again.
-1020_Crazy_Stupid_Love_01.08.23.357-01.08.25.706 	he nods and smiles.
-1020_Crazy_Stupid_Love_01.34.48.050-01.34.52.527 	cal nods and leaves.
-1020_Crazy_Stupid_Love_01.40.23.320-01.40.29.152 	jacob nods and turns away.
-1023_Horrible_Bosses_00.34.44.314-00.34.46.414 	kurt nods to a musclebound guy as they head to the bar.
-1024_Identity_Thief_00.37.53.041-00.37.56.365 	the stylist nods and smiles as he eyes the salon.
+1020_Crazy_Stupid_Love_01.15.05.472-01.15.06.725 	he nods.
+1020_Crazy_Stupid_Love_01.18.28.187-01.18.30.982 	they both nod awkwardly.
 1024_Identity_Thief_00.44.36.072-00.44.38.745 	he nods to himself as diana sips her green beverage.
-1024_Identity_Thief_01.40.56.057-01.41.00.635 	he walks past men and women in suits, and nods curtly as he passes the receptionist desk.
-1024_Identity_Thief_01.42.05.316-01.42.08.011 	sandy nods stiffly.
-1028_No_Reservations_00.13.36.652-00.13.38.776 	kate nods sadly.
-1028_No_Reservations_00.33.57.828-00.33.59.532 	kate nods slowly.
+1026_Legion_00.08.20.179-00.08.21.525 	he nods.
 1028_No_Reservations_00.46.47.293-00.46.48.377 	he nods with a smile.
 1028_No_Reservations_00.54.37.660-00.54.43.138 	she tastes it and nods her approval.
-1028_No_Reservations_00.55.25.680-00.55.27.802 	kate nods and smiles at him warmly.
 1029_Pride_And_Prejudice_Disk_One_01.23.00.502-01.23.08.354 	nodding greetings to uniformed officers and finely attired ladies.
 1029_Pride_And_Prejudice_Disk_One_01.59.34.650-01.59.37.156 	he nods politely towards her mother, then the three officers leave.
 1030_Public_Enemies_00.10.34.862-00.10.40.390 	purvis studies the dead outlaw then nods at his men.
-1030_Public_Enemies_00.11.52.099-00.11.56.462 	dillinger glances at the door where the blonde nods to him.
-1030_Public_Enemies_00.22.10.484-00.22.13.000 	alvin nods and heads off.
 1030_Public_Enemies_01.13.53.617-01.13.55.380 	dillinger nods his head at shouse.
-1030_Public_Enemies_01.48.17.296-01.48.19.142 	purvis nods to doris.
-1033_Sherlock_Holmes_A_Game_of_Shadows_01.19.59.713-01.20.05.572 	he tosses a magazine to holmes and nods for him to load it.
-1033_Sherlock_Holmes_A_Game_of_Shadows_01.43.04.028-01.43.05.856 	footman nods and takes it.
+1033_Sherlock_Holmes_A_Game_of_Shadows_01.47.36.416-01.47.39.652 	she looks over at watson, who nods.
 1034_Super_8_00.39.12.492-00.39.14.449 	she nods pensively.
 1034_Super_8_01.25.35.012-01.25.38.001 	donnie has nodded off.
-1035_The_Adjustment_Bureau_00.42.47.028-00.42.52.415 	david nods amiably, then gives elise a long kiss on the cheek.
+1035_The_Adjustment_Bureau_00.09.57.134-00.10.03.654 	as david faintly nods, the smiling woman shakes her head.
+1035_The_Adjustment_Bureau_00.27.33.544-00.27.35.966 	he stares down at david, who nods.
 1035_The_Adjustment_Bureau_00.43.01.451-00.43.03.877 	she nods smiling radiantly.
 1035_The_Adjustment_Bureau_00.59.13.340-00.59.14.016 	she nods at the phone.
-1035_The_Adjustment_Bureau_01.37.29.148-01.37.31.281 	david nods at the envelope in harry's hands.
+1035_The_Adjustment_Bureau_01.30.09.785-01.30.11.504 	she nods.
+1035_The_Adjustment_Bureau_01.31.51.092-01.31.53.717 	she swallows and nodes bravely.
+1037_The_Curious_Case_Of_Benjamin_Button_00.43.31.846-00.43.35.154 	he nods.
+1037_The_Curious_Case_Of_Benjamin_Button_00.52.04.734-00.52.05.997 	she nods.
 1037_The_Curious_Case_Of_Benjamin_Button_01.43.40.958-01.43.43.280 	he nods to himself as he takes in the view.
-1037_The_Curious_Case_Of_Benjamin_Button_01.51.59.742-01.52.06.865 	wearing white overalls and a cap, benjamin nods soberly and descends a stepladder.
-1038_The_Great_Gatsby_00.30.55.942-00.30.58.377 	gatsby nods to them both and goes.
-1038_The_Great_Gatsby_00.50.29.838-00.50.31.605 	gatsby nods and looks slightly at a loss.
+1037_The_Curious_Case_Of_Benjamin_Button_02.29.12.534-02.29.13.876 	she nods.
 1038_The_Great_Gatsby_00.55.14.799-00.55.16.160 	he nods slightly.
+1038_The_Great_Gatsby_00.55.32.009-00.55.34.799 	they both nod slightly.
 1038_The_Great_Gatsby_00.57.31.831-00.57.36.008 	he nods to nick and takes a deep breathe.
-1038_The_Great_Gatsby_01.13.10.263-01.13.11.696 	he raises his eyebrows and nods to her.
-1038_The_Great_Gatsby_01.14.24.722-01.14.27.596 	gatsby nods to a couple of servants and follows daisy across the terrace.
-1038_The_Great_Gatsby_01.35.08.820-01.35.10.546 	frowning, gatsby nods at tom.
-1038_The_Great_Gatsby_01.53.54.104-01.53.56.016 	nick nods sharply and attempts a smile.
-1039_The_Queen_00.44.39.373-00.44.41.855 	a distracted queen nods faintly.
+1038_The_Great_Gatsby_01.24.49.255-01.24.53.710 	nick turns to gatsby, who nodes
 1039_The_Queen_01.30.15.859-01.30.21.885 	cherie looks from the royal family to tony, who is nodding in recognition.
 1039_The_Queen_01.32.51.947-01.32.56.125 	the queen continues staring at tony, who nods stiffly in response.
 1040_The_Ugly_Truth_00.35.39.728-00.35.44.031 	he nods and looks at the timer on abby's phone display.
-1041_This_is_40_00.12.58.333-00.13.00.351 	jodi nods behind her large, round glasses.
+1040_The_Ugly_Truth_01.08.53.756-01.08.55.477 	he nods.
+1040_The_Ugly_Truth_01.12.39.948-01.12.45.404 	mike forces himself to nod.
 1041_This_is_40_01.02.57.576-01.03.00.405 	fighting tears, she nods then shakes her head.
-1041_This_is_40_01.24.00.713-01.24.02.615 	debbie nods with a disheartened gaze.
-1041_This_is_40_01.33.28.422-01.33.29.620 	pete nods slowly.
-1041_This_is_40_01.47.39.098-01.47.41.325 	larry nods and eyes pete and debbie.
-1041_This_is_40_01.47.59.348-01.48.00.872 	pete nods with her.
-1041_This_is_40_01.51.20.308-01.51.21.535 	oliver nods at pete.
-1042_Up_In_The_Air_00.35.54.971-00.35.58.407 	ryan nods to natalie, who picks up one of the strategy packets and hands it to bob.
+1042_Up_In_The_Air_00.42.50.613-00.42.53.667 	she nods.
 1042_Up_In_The_Air_00.42.57.378-00.42.58.879 	she nods stiffly.
-1042_Up_In_The_Air_00.54.36.520-00.54.40.577 	she nods and smiles.
 1042_Up_In_The_Air_01.07.17.229-01.07.18.135 	she nods slightly.
-1042_Up_In_The_Air_01.17.11.450-01.17.14.527 	julie nods and looks down sadly.
 1043_Vantage_Point_00.09.15.355-00.09.20.968 	he nods to his colleague ken taylor, then turns back to gaze out of the window as he puts on a shirt.
 1043_Vantage_Point_00.38.38.447-00.38.39.920 	she nods ok.
-1044_Pride_And_Prejudice_Disk_Two_00.41.06.541-00.41.09.767 	lizzie nods with a broad smile.
-1044_Pride_And_Prejudice_Disk_Two_00.56.30.209-00.56.33.149 	mr. darcy nods and leaves the room.
 1044_Pride_And_Prejudice_Disk_Two_02.11.22.414-02.11.27.416 	she nods to mr. bingley, then leaves the room, followed by mary and kitty.
-1045_An_education_00.09.22.578-00.09.24.781 	david nods and gives a tight smile.
 1046_Australia_00.29.22.000-00.29.25.000 	she smiles and nods nervously.
-1046_Australia_01.23.40.650-01.23.44.199 	she nods and smiles triumphantly as nullah rides behind the last of the herd.
-1046_Australia_01.28.47.331-01.28.51.627 	he breaks eye contact, and nods thoughtfully.
-1046_Australia_01.40.56.726-01.40.59.427 	fletcher nods slowly, watching him go.
 1046_Australia_02.15.38.814-02.15.42.000 	he nods to magarri, who moves off.
-1046_Australia_02.30.09.588-02.30.15.676 	he nods and walks away.
-1047_Defiance_00.05.50.435-00.05.52.035 	tuvia nods bitterly
-1047_Defiance_00.41.50.620-00.41.56.383 	benzion nods respectfully and leaves tuvia alone.
+1047_Defiance_00.13.39.419-00.13.43.799 	koscik's soulful dark eyes look at tuvia with compassion and he nods.
 1047_Defiance_00.43.41.421-00.43.48.782 	his dark eyes hold her in his gaze, and she nods faintly.
 1047_Defiance_00.58.37.680-00.58.40.859 	panchenko nods at zus who nods back.
-1047_Defiance_01.04.14.825-01.04.15.605 	malbin nods approvingly.
-1047_Defiance_01.07.40.079-01.07.44.371 	asael nods and exhales, shyly she takes his hand.
-1048_Gran_Torino_00.30.57.091-00.31.00.893 	father janovich nods slightly.
-1048_Gran_Torino_00.38.20.081-00.38.24.924 	walt nods thoughtfully.
-1048_Gran_Torino_01.07.13.159-01.07.15.366 	thao nods at the gran torino.
-1048_Gran_Torino_01.34.55.546-01.34.57.530 	thao nods reluctantly.
-1049_Harry_Potter_and_the_chamber_of_secrets_00.48.09.501-00.48.12.277 	a portrait on the wall nods in agreement.
+1048_Gran_Torino_00.47.18.089-00.47.20.683 	troubled walt looks up at the diminutive kor khue, who nods.
 1049_Harry_Potter_and_the_chamber_of_secrets_01.47.10.812-01.47.12.702 	he nods politely to aragog.
-1049_Harry_Potter_and_the_chamber_of_secrets_02.20.51.348-02.20.53.710 	harry nods thoughtfully.
 1049_Harry_Potter_and_the_chamber_of_secrets_02.29.03.049-02.29.09.594 	ron looks guiltily at professor dumbledore who nods benignly.
-1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.24.47.000-01.24.52.572 	harry nods and grins after her, as she walks away.
-1051_Harry_Potter_and_the_goblet_of_fire_00.14.21.950-00.14.24.487 	harry nods to a young chinese girl.
-1051_Harry_Potter_and_the_goblet_of_fire_01.35.11.503-01.35.21.845 	harry nods and draws his wand to release hermione, but a sharp, pointed trident is held at his throat.
-1052_Harry_Potter_and_the_order_of_phoenix_00.20.40.341-00.20.44.419 	harry nods nervously.
-1052_Harry_Potter_and_the_order_of_phoenix_00.58.55.533-00.58.57.685 	harry nods to neville.
-1052_Harry_Potter_and_the_order_of_phoenix_01.21.39.939-01.21.42.545 	harry nods reassuringly.
-1052_Harry_Potter_and_the_order_of_phoenix_01.31.03.404-01.31.06.090 	hagrid nods encouragement.
-1053_Harry_Potter_and_the_philosophers_stone_01.32.59.355-01.33.06.334 	she nods and smiles.
-1053_Harry_Potter_and_the_philosophers_stone_02.21.35.281-02.21.42.072 	harry beams at hagrid, who raises his bushy eyebrows, nods and smiles.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.25.08.968-00.25.13.789 	professor lupin stands and nods to the students.
 1055_Marley_and_me_00.56.43.255-00.56.47.589 	she nods tearfully.
-1055_Marley_and_me_01.00.55.295-01.00.57.711 	john half smiles and nods hesitantly.
-1055_Marley_and_me_01.09.53.782-01.09.58.794 	he looks out of the window at the city as sebastian nods awkwardly.
-1056_Rambo_00.03.30.494-00.03.32.814 	the commander nods to a soldier.
-1056_Rambo_00.45.07.000-00.45.11.069 	the boy nods and leaves.
-1057_Seven_pounds_00.16.02.561-00.16.06.061 	ben nods and cocks his head to one side as he continues staring at goodman.
-1057_Seven_pounds_00.18.14.891-00.18.18.898 	inez nods and writes some more.
 1057_Seven_pounds_00.41.25.694-00.41.27.383 	he nods towards her ribs.
-1057_Seven_pounds_01.13.50.000-01.13.53.000 	ben nods faintly and watches her intently.
-1057_Seven_pounds_01.26.17.011-01.26.20.135 	emily nods and smiles.
-1057_Seven_pounds_01.26.40.000-01.26.42.885 	she nods and smiles at him.
+1057_Seven_pounds_01.02.25.000-01.02.26.696 	she nods.
+1057_Seven_pounds_01.16.05.000-01.16.07.102 	she nods.
 1057_Seven_pounds_01.27.12.288-01.27.14.692 	she nods encouragingly.
-1057_Seven_pounds_01.46.13.414-01.46.19.490 	tim covers his face with his hand and nods as he weeps.
-1057_Seven_pounds_01.56.23.940-01.56.27.219 	emily nods and blinks back tears.
-1058_The_Damned_united_00.20.05.000-00.20.07.000 	brian nods ruefully.
-1058_The_Damned_united_00.31.10.028-00.31.12.000 	brian nods emphatically.
-1058_The_Damned_united_00.52.38.000-00.52.42.307 	brian nods sagely, then leans close.
-1058_The_Damned_united_01.10.24.777-01.10.28.000 	wearing aviator shades, brian nods smiling.
-1058_The_Damned_united_01.16.43.000-01.16.46.456 	brian nods and swallows hard.
-1058_The_Damned_united_01.23.57.372-01.24.12.372 	brian nods bitterly as don and the presenter rise from their seats and stroll away across the studio floor.
-1058_The_Damned_united_01.29.44.187-01.29.46.000 	peter nods over brian's shoulder towards the boys in the car.
-1059_The_devil_wears_prada_01.10.14.117-01.10.20.403 	andy nods and holds her hand out to receive the coat, but miranda tosses it and her handbag onto emily's desk and marches into her office.
-1060_Yes_man_00.15.16.096-00.15.18.968 	carl holds up his hand expectantly and then nods knowingly.
-1060_Yes_man_00.22.46.152-00.22.53.152 	carl nods pensively, then reverses his car.
-1060_Yes_man_00.27.19.359-00.27.23.157 	he scrutinizes the photo, nods and smiles.
+1057_Seven_pounds_01.30.28.031-01.30.30.880 	he nods.
 1060_Yes_man_00.51.05.921-00.51.08.268 	he nods thoughtfully.
-1060_Yes_man_01.03.53.191-01.03.53.801 	carl nods sympathetically.
+1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.30.45.000-00.30.46.647 	he nods.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.51.50.537-01.51.58.746 	he nods to himself.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.53.15.731-01.53.20.921 	once again he nods to himself, then turns to the others, before jumping down onto the bridge.
-2004_Juno_01.16.17.935-01.16.19.636 	mark nods and sits down.
-2005_Signs_00.06.50.844-00.06.54.747 	officer edgar paski nods that he knows.
-2005_Signs_00.23.18.170-00.23.22.118 	morgan nods and then plops back into the backseat.
-2005_Signs_01.25.40.021-01.25.41.183 	graham nods without looking over.
-2005_Signs_01.31.51.625-01.31.53.028 	merrill nods as he begins to search the piles of things that have fallen from the cabinets.
-2012_Unbreakable_00.36.21.002-00.36.24.637 	audrey nods and walks down the stairs as she wipes her face.
 2012_Unbreakable_00.50.24.537-00.50.28.441 	elijah's head nods the slightest bit up and down.
-2017_Bad_Santa_00.04.38.075-00.04.40.036 	the elf nods as he peels off a pointed prosthetic ear.
-2026_Legion_00.23.35.063-00.23.40.589 	sandra nods at the old woman, unsure of what to make of that response.
-2026_Legion_01.16.22.119-01.16.22.510 	michael nods grimly.
-2027_Les_Miserables_00.03.01.941-00.03.03.617 	javert nods to the guards, and they begin to form the chained men into lines to return to their prison.
-1053_Harry_Potter_and_the_philosophers_stone_01.32.59.355-01.33.06.334 	she nods and smiles.
-1053_Harry_Potter_and_the_philosophers_stone_02.21.35.281-02.21.42.072 	harry beams at hagrid, who raises his bushy eyebrows, nods and smiles.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.25.08.968-00.25.13.789 	professor lupin stands and nods to the students.
-1055_Marley_and_me_00.56.43.255-00.56.47.589 	she nods tearfully.
-1055_Marley_and_me_01.00.55.295-01.00.57.711 	john half smiles and nods hesitantly.
-1055_Marley_and_me_01.09.53.782-01.09.58.794 	he looks out of the window at the city as sebastian nods awkwardly.
-1056_Rambo_00.03.30.494-00.03.32.814 	the commander nods to a soldier.
-1056_Rambo_00.45.07.000-00.45.11.069 	the boy nods and leaves.
-1057_Seven_pounds_00.16.02.561-00.16.06.061 	ben nods and cocks his head to one side as he continues staring at goodman.
-1057_Seven_pounds_00.18.14.891-00.18.18.898 	inez nods and writes some more.
-1057_Seven_pounds_00.41.25.694-00.41.27.383 	he nods towards her ribs.
-1057_Seven_pounds_01.13.50.000-01.13.53.000 	ben nods faintly and watches her intently.
-1057_Seven_pounds_01.26.17.011-01.26.20.135 	emily nods and smiles.
-1057_Seven_pounds_01.26.40.000-01.26.42.885 	she nods and smiles at him.
-1057_Seven_pounds_01.27.12.288-01.27.14.692 	she nods encouragingly.
-1057_Seven_pounds_01.46.13.414-01.46.19.490 	tim covers his face with his hand and nods as he weeps.
-1057_Seven_pounds_01.56.23.940-01.56.27.219 	emily nods and blinks back tears.
-1058_The_Damned_united_00.20.05.000-00.20.07.000 	brian nods ruefully.
-1058_The_Damned_united_00.31.10.028-00.31.12.000 	brian nods emphatically.
-1058_The_Damned_united_00.52.38.000-00.52.42.307 	brian nods sagely, then leans close.
-1058_The_Damned_united_01.10.24.777-01.10.28.000 	wearing aviator shades, brian nods smiling.
-1058_The_Damned_united_01.16.43.000-01.16.46.456 	brian nods and swallows hard.
-1058_The_Damned_united_01.23.57.372-01.24.12.372 	brian nods bitterly as don and the presenter rise from their seats and stroll away across the studio floor.
-1058_The_Damned_united_01.29.44.187-01.29.46.000 	peter nods over brian's shoulder towards the boys in the car.
-1059_The_devil_wears_prada_01.10.14.117-01.10.20.403 	andy nods and holds her hand out to receive the coat, but miranda tosses it and her handbag onto emily's desk and marches into her office.
-1060_Yes_man_00.15.16.096-00.15.18.968 	carl holds up his hand expectantly and then nods knowingly.
-1060_Yes_man_00.22.46.152-00.22.53.152 	carl nods pensively, then reverses his car.
-1060_Yes_man_00.27.19.359-00.27.23.157 	he scrutinizes the photo, nods and smiles.
-1060_Yes_man_00.51.05.921-00.51.08.268 	he nods thoughtfully.
-1060_Yes_man_01.03.53.191-01.03.53.801 	carl nods sympathetically.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.51.50.537-01.51.58.746 	he nods to himself.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.53.15.731-01.53.20.921 	once again he nods to himself, then turns to the others, before jumping down onto the bridge.
-2004_Juno_01.16.17.935-01.16.19.636 	mark nods and sits down.
-2005_Signs_00.06.50.844-00.06.54.747 	officer edgar paski nods that he knows.
-2005_Signs_00.23.18.170-00.23.22.118 	morgan nods and then plops back into the backseat.
-2005_Signs_01.25.40.021-01.25.41.183 	graham nods without looking over.
-2005_Signs_01.31.51.625-01.31.53.028 	merrill nods as he begins to search the piles of things that have fallen from the cabinets.
-2012_Unbreakable_00.36.21.002-00.36.24.637 	audrey nods and walks down the stairs as she wipes her face.
-2012_Unbreakable_00.50.24.537-00.50.28.441 	elijah's head nods the slightest bit up and down.
-2017_Bad_Santa_00.04.38.075-00.04.40.036 	the elf nods as he peels off a pointed prosthetic ear.
-2026_Legion_00.23.35.063-00.23.40.589 	sandra nods at the old woman, unsure of what to make of that response.
-2026_Legion_01.16.22.119-01.16.22.510 	michael nods grimly.
-2027_Les_Miserables_00.03.01.941-00.03.03.617 	javert nods to the guards, and they begin to form the chained men into lines to return to their prison.
-2034_Super_8_00.06.23.255-00.06.25.428 	joe just nods and looks at the magazine.
-2034_Super_8_00.07.40.856-00.07.43.366 	joe nods as jack forces a smile and closes the bathroom door.
-2034_Super_8_01.28.07.531-01.28.10.338 	charles nods -- joe looks to cary.
-2054_Harry_Potter_and_the_prisoner_of_azkaban_00.08.42.952-00.08.47.414 	stan eyes harry suspiciously, nods slowly.
-2054_Harry_Potter_and_the_prisoner_of_azkaban_00.11.33.646-00.11.34.846 	harry nods and, as he does, black's eyes shift.
-2054_Harry_Potter_and_the_prisoner_of_azkaban_00.34.03.884-00.34.07.183 	unsure, harry nods anyway.
-2054_Harry_Potter_and_the_prisoner_of_azkaban_00.41.38.553-00.41.40.744 	lupin nods thoughtfully.
-2054_Harry_Potter_and_the_prisoner_of_azkaban_00.42.15.185-00.42.16.253 	neville nods nervously, takes a deep breath.
+2027_Les_Miserables_01.36.17.684-01.36.18.671 	into frame comes a team of black horses stepping slowly, black plumes nodding, drawing behind them a gun carriage draped in the tricolour flag.
+2040_The_Ugly_Truth_01.19.48.658-01.19.52.443 	abby looks at him, nodding, then.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_01.04.52.120-01.04.53.013 	she nods grimly.

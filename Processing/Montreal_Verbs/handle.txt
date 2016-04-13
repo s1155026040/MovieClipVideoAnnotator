@@ -1,6 +1,2 @@
-21_JUMP_STREET.srt 	21_JUMP_STREET_DVS308 	00:52:23,00 --> 00:52:31,50 	someone turns, revealing an ornate south-western knife handle sticking out of his back.
 MORNING_GLORY.srt 	MORNING_GLORY_DVS335 	01:14:25,00 --> 01:14:31,50 	she handles a sugar glider, a raven, and a skunk.
-SALT.srt 	SALT_DVS456 	01:18:26,00 --> 01:18:31,50 	a general picks up a red handled phone.
-SALT.srt 	SALT_DVS550 	01:34:47,00 --> 01:35:09,50 	it bears a semi-circular emergency release handle.
-SUPER_8.srt 	SUPER_8_DVS225 	00:38:15,00 --> 00:38:21,50 	someone lifts the gas pump handle off the ground then turns and freezes.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1205 	02:07:45,00 --> 02:07:56,50 	someone hunches over her bikes handle bars.

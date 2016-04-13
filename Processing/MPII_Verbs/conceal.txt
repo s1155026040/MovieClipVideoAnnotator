@@ -1,15 +1,3 @@
 0005_Chinatown_01.16.03.685-01.16.06.369 	evelyn can't quite conceal her surprise at the question.
-0007_DIE_NACHT_DES_JAEGERS_00.21.31.531-00.21.35.630 	they sit on the bench, their backs to us, partly concealed by the tree trunk.
-0007_DIE_NACHT_DES_JAEGERS_00.24.04.943-00.24.11.724 	he desperately conceals his reaction; he thinks ben has betrayed him.
 0007_DIE_NACHT_DES_JAEGERS_00.24.11.824-00.24.13.940 	he now conceals his new reaction.
-0010_Frau_Ohne_Gewissen_01.34.07.908-01.34.09.463 	she wears white lounging pajamas, and she is carrying something small and heavy concealed in a scarf in her right hand.
-0021_Rear_Window_00.23.50.617-00.23.55.088 	the ice box is now skillfully concealed by a large chinese screen.
-0050_Indiana_Jones_and_the_last_crusade_00.05.30.419-00.05.31.055 	his face is concealed by the hat's wide brim.
-1030_Public_Enemies_00.02.52.089-00.02.58.591 	they each pulled out a gun, and using the spools to conceal them, passed them to the young inmate and a man sitting next to him.
-1030_Public_Enemies_00.03.13.323-00.03.15.755 	crossing between two rows of work benches, the sandy-haired man drops a load of shirts concealing his weapon and grabs one of the guards.
-1030_Public_Enemies_01.08.02.392-01.08.07.059 	outside her apartment, two men watch from inside a car concealed underneath a bridge.
-1033_Sherlock_Holmes_A_Game_of_Shadows_01.06.56.180-01.06.59.930 	inside the plinth he finds a black chess piece concealed in the o.
-1033_Sherlock_Holmes_A_Game_of_Shadows_01.46.45.359-01.46.50.144 	hyperemic needle is concealed inside an especially-adapted winchester cartridge case.
-1048_Gran_Torino_00.47.47.509-00.47.58.143 	he quickly conceals it from sue and hurries away upstairs.
-2027_Les_Miserables_02.16.46.533-02.16.47.149 	marius can't conceal that he's disturbed by this revelation.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_00.08.13.407-00.08.15.110 	darker than the shadows which conceal it.

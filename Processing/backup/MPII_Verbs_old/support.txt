@@ -1,13 +1,22 @@
-0011_Gandhi_00.03.08.818-00.03.17.373 	We do not see him clearly until the very last moment -- only glimpses of him as he smiles, and exchanges little jokes with some of the crowd and the two young women who support him, occasionally joining his hands together in greeting to someone in particular, then once more proceeding with a hand on the shoulder of each of the girls.
-0016_O_Brother_Where_Art_Thou_01.37.30.601-01.37.34.745 	The mournfully building song is now supported by a bass more palpable than audible - the song, it seems, rising out of the earth itself.
-0017_Pianist_00.36.42.240-00.36.47.408 	Szpilman supports Henryk, helps him towards the back of the cafe.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.09.53.433-01.09.55.370 	Arwen looks down at Strider as she supports Frodo with one hand.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.28.59.660-02.29.00.934 	His right HAND is pressed against his CHEST supporting a HEAVY WEIGHT.
-0026_The_Big_Fish_00.19.36.792-00.19.40.408 	Young Edward lies in bed, his limbs connected to various pulleys and levers to support his weight.
-0030_The_Hustler_01.28.01.751-01.28.07.049 	He uses the simpler, open hand bridge to support his cue.
-0032_The_Princess_Bride_01.19.12.354-01.19.16.752 	and he seems to be floating because he's standing in the wheelbarrow, as Inigo, hidden behind him, busts a gut by pushing it and supporting Westley.
-1001_Flight_00.46.52.704-00.46.59.323 	Whip places a bag beside the door and reaches above one of the wooden posts supporting the veranda roof.
-1005_Signs_01.20.17.190-01.20.28.620 	Merrill finds another flashlight and directs its beam around the walls of the basement, illuminating old wooden shelves, supporting neatly-arranged pickling jars, bowls, ski boots, roller skates, and disordered clatter.
-1006_Slumdog_Millionaire_00.46.50.380-00.46.56.318 	Salim, Jamal, and their gang of urchins scamper across scaffolding supporting rows of seats above.
+0011_Gandhi_00.03.08.818-00.03.17.373 	we do not see him clearly until the very last moment -- only glimpses of him as he smiles, and exchanges little jokes with some of the crowd and the two young women who support him, occasionally joining his hands together in greeting to someone in particular, then once more proceeding with a hand on the shoulder of each of the girls.
+0016_O_Brother_Where_Art_Thou_01.37.30.601-01.37.34.745 	the mournfully building song is now supported by a bass more palpable than audible - the song, it seems, rising out of the earth itself.
+0017_Pianist_00.36.42.240-00.36.47.408 	szpilman supports henryk, helps him towards the back of the cafe.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.09.53.433-01.09.55.370 	arwen looks down at strider as she supports frodo with one hand.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.28.59.660-02.29.00.934 	his right hand is pressed against his chest supporting a heavy weight.
+0026_The_Big_Fish_00.19.36.792-00.19.40.408 	young edward lies in bed, his limbs connected to various pulleys and levers to support his weight.
+0030_The_Hustler_01.28.01.751-01.28.07.049 	he uses the simpler, open hand bridge to support his cue.
+0032_The_Princess_Bride_01.19.12.354-01.19.16.752 	and he seems to be floating because he's standing in the wheelbarrow, as inigo, hidden behind him, busts a gut by pushing it and supporting westley.
+1001_Flight_00.46.52.704-00.46.59.323 	whip places a bag beside the door and reaches above one of the wooden posts supporting the veranda roof.
+1005_Signs_01.20.17.190-01.20.28.620 	merrill finds another flashlight and directs its beam around the walls of the basement, illuminating old wooden shelves, supporting neatly-arranged pickling jars, bowls, ski boots, roller skates, and disordered clatter.
+1006_Slumdog_Millionaire_00.46.50.380-00.46.56.318 	salim, jamal, and their gang of urchins scamper across scaffolding supporting rows of seats above.
+1007_Spider-Man1_01.43.46.967-01.43.52.315 	like a gymnast on rings, spider-man's arms are stretched wide, one attached to the web supporting them all, the hand of the other still grasping the cable tightly.
+1008_Spider-Man2_01.48.31.467-01.48.54.583 	willing hands reaching out to support him, until he reaches the center of the carriage, where he's gently lowered to the floor.
+1014_2012_01.59.35.077-01.59.38.776 	outside the enormous rear life supports move into position.
+1026_Legion_01.27.16.656-01.27.18.815 	charlie shakes her head and supports him.
+1033_Sherlock_Holmes_A_Game_of_Shadows_01.26.12.371-01.26.18.038 	watson helps holmes up and supports him as the pair make their way back across the factory floor.
+1047_Defiance_01.56.16.700-01.56.18.767 	shimon is being supported by rachel and malbin.
+1049_Harry_Potter_and_the_chamber_of_secrets_00.55.49.586-00.55.54.528 	the snitch disappears under the wooden scaffolding supporting the spectators' stands.
+1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.19.40.413-00.19.46.255 	lupin, supporting george.
+1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.54.07.000-00.54.18.266 	a spell from neville's wand ignites charges in the joints of the bridge supports.
 2027_Les_Miserables_01.36.47.649-01.36.52.387 	the crowd supports them and surround the coffin carriage, blocking the attempts of the police to intervene, singing with passion.
 2027_Les_Miserables_02.13.57.347-02.14.04.276 	cosette holds marius, supporting him, as he enters the house.

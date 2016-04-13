@@ -1,0 +1,6 @@
+CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS539 	02:06:58,00 --> 02:07:04,50 	at the arena, a spectator shouts through his cupped hand.
+LIFE_OF_PI.srt 	LIFE_OF_PI_DVS324 	00:40:20,00 --> 00:40:26,50 	someone climbs back up and scrambles around as the others shout at him.
+LIFE_OF_PI.srt 	LIFE_OF_PI_DVS335 	00:40:59,00 --> 00:41:07,50 	it carries him past the shouting men at the edge of the ship's deck.
+SPARKLE_2012.srt 	SPARKLE_2012_DVS467 	01:16:45,00 --> 01:16:51,50 	someone in a bright yellow turtleneck, shouts up to someone.
+THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS209 	01:25:36,00 --> 01:25:44,50 	the hollandia coxman and shouts into a headpiece microphone.
+TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS676 	01:15:41,00 --> 01:15:50,50 	at the ice wolves' bench, the coach shouts impatiently.

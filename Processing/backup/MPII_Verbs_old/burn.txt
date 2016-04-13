@@ -1,25 +1,69 @@
-0011_Gandhi_02.24.32.100-02.24.37.668 	Jinnah takes it less philosophically and his eyes burn with anger as he watches Gandhi head for the young girl with the injured goat.
-0016_O_Brother_Where_Art_Thou_01.10.35.978-01.10.36.835 	Pete's eyes burn into Everett's.
-0017_Pianist_01.13.59.809-01.14.06.706 	Szpilman, now wearing Bogucki's suit and clean-shaven, watches the clothes burn while he spoons hot soup into his mouth.
-0021_Rear_Window_00.43.32.857-00.43.33.357 	There are no lights burning behind the drawn shade of the bedroom, but the living room and the kitchen are lighted.
-0023_THE_BUTTERFLY_EFFECT_00.49.09.886-00.49.16.483 	Evan, tired and depressed, sits on the lawn nearby, fingering the new burn scar on his belly.
-0028_The_Crying_Game_00.57.46.917-00.57.56.537 	Jody's eyes seem to burn through him.
-0041_The_Sixth_Sense_00.09.48.747-00.09.52.960 	Vincent's eyes burn at Malcolm.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.20.31.502-00.20.39.044 	They enter the empty and burned out shop the Death Eaters attacked.
-1006_Slumdog_Millionaire_00.30.27.248-00.30.29.409 	The bearded man burns a sizzling liquid in a spoon over the flame.
+0011_Gandhi_01.41.17.611-01.41.21.163 	a huge triangular pile burns before the platform, an excited half-naked crowd swirling in the shadows around it.
+0011_Gandhi_02.06.17.024-02.06.20.957 	and around the ashram many fires are burning, people are cooking breakfast, some are packing knapsacks for the journey, others are strewing the path from the ashram with leaves.
+0011_Gandhi_02.24.32.100-02.24.37.668 	jinnah takes it less philosophically and his eyes burn with anger as he watches gandhi head for the young girl with the injured goat.
+0016_O_Brother_Where_Art_Thou_01.10.35.978-01.10.36.835 	pete's eyes burn into everett's.
+0017_Pianist_01.13.51.336-01.13.54.528 	szpilman's ghetto clothes, torn into strips, are being stuffed into it and burned.
+0017_Pianist_01.13.59.809-01.14.06.706 	szpilman, now wearing bogucki's suit and clean-shaven, watches the clothes burn while he spoons hot soup into his mouth.
+0021_Rear_Window_00.43.32.857-00.43.33.357 	there are no lights burning behind the drawn shade of the bedroom, but the living room and the kitchen are lighted.
+0021_Rear_Window_00.48.50.350-00.48.50.850 	a dim light burning behind them.
+0021_Rear_Window_01.18.20.384-01.18.21.384 	lisa, still burning.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.55.51.414-01.55.53.036 	passing soldiers running back from the burning city.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.33.05.200-02.33.09.048 	looking .straight up the steep slopes of mount doom, a huge mass of ash and slag and burned stone!
+0027_The_Big_Lebowski_01.42.42.290-01.42.45.002 	walter's eyes, burning with hatred, are locked on dieter's.
+0028_The_Crying_Game_00.57.46.917-00.57.56.537 	jody's eyes seem to burn through him.
+0031_The_Lost_Weekend_00.09.07.691-00.09.09.285 	every so often down the stair there is a light bracket, always burning.
+0031_The_Lost_Weekend_01.24.05.881-01.24.09.226 	the electric lights, burning on heedlessly, offend him and he snaps off the light switch.
+0041_The_Sixth_Sense_00.09.48.747-00.09.52.960 	vincent's eyes burn at malcolm.
+0049_Hannah_and_her_sisters_01.03.24.181-01.03.24.865 	mickey and holly sit at one of the tables; a candle burns in its holder on the tabletop.
+0050_Indiana_Jones_and_the_last_crusade_00.59.04.727-00.59.06.013 	henry yelps as the cigarette lighter burns his hand.
+0050_Indiana_Jones_and_the_last_crusade_00.59.14.706-00.59.18.704 	the rug starts to burn.
+0050_Indiana_Jones_and_the_last_crusade_01.07.54.388-01.08.00.157 	the mound of burning books is ten feet tall and growing by the minute as college students and nazi brownshirts continually toss more books onto the fire.
+1002_Harry_Potter_and_the_Half-Blood_Prince_00.20.31.502-00.20.39.044 	they enter the empty and burned out shop the death eaters attacked.
+1002_Harry_Potter_and_the_Half-Blood_Prince_00.41.48.871-00.41.53.377 	tom removes a metal box from the burning wardrobe.
+1002_Harry_Potter_and_the_Half-Blood_Prince_02.15.42.076-02.15.48.333 	illuminated by the flames from the burning cottage, snape stands alone.
+1006_Slumdog_Millionaire_00.20.28.000-00.20.35.661 	five-year-old jamal and salim stand on high ground looking down on their slum burning amidst the riots.
+1006_Slumdog_Millionaire_00.30.27.248-00.30.29.409 	the bearded man burns a sizzling liquid in a spoon over the flame.
+1007_Spider-Man1_01.22.06.659-01.22.09.280 	fire trucks surround a burning apartment building.
+1007_Spider-Man1_01.45.28.203-01.45.28.330 	half his mask is burnt off.
+1008_Spider-Man2_01.24.44.486-01.24.47.458 	peter hares across the street and races into the burning building.
+1008_Spider-Man2_01.25.26.113-01.25.31.143 	burning timbers fall from the ceiling.
 1008_Spider-Man2_01.45.56.764-01.46.01.828 	a further explosion burns the mask which spider-man peels off.
+1011_The_Help_01.55.51.069-01.55.57.201 	she slips the envelope into the front of the dress and runs out, leaving the chicken to burn.
+1012_Unbreakable_01.15.26.194-01.15.30.861 	the light is coming from a burning car, upside down behind him.
 1014_2012_01.10.06.511-01.10.10.075 	buildings burn by a deep chasm through town.
+1018_Body_Of_Lies_00.19.04.456-00.19.11.157 	a man stands by a fire on which a pile of cds and cassettes is burning.
 1018_Body_Of_Lies_00.21.31.916-00.21.33.724 	ferris burns his hand as he grabs cds and cassettes from the fire.
+1018_Body_Of_Lies_01.01.05.748-01.01.11.627 	the suv heads down a dark street, turns a corner and stops near the burning safe house.
+1026_Legion_00.58.22.007-00.58.24.177 	his back has been burnt off.
 1037_The_Curious_Case_Of_Benjamin_Button_01.18.37.731-01.18.42.327 	up ahead of them, they see several burning ships on the dark horizon.
-1037_The_Curious_Case_Of_Benjamin_Button_01.20.57.489-01.21.00.342 	dann burns fire.
+1044_Pride_And_Prejudice_Disk_Two_00.07.58.497-00.08.00.408 	he snuffs out last night's candle, which is all but burned out.
+1046_Australia_02.07.35.000-02.07.43.000 	as the soldiers stand helpless in their truck and smoke billows over the town, king george walks slowly out through the burning prison gates.
+1046_Australia_02.10.02.000-02.10.09.852 	drover staggers, distraught, through the burning wreck of the carney house, sobbing in uncontrollable grief.
+1046_Australia_02.10.36.084-02.10.42.841 	he looks out across the bay at the broken, burning hulks of ships.
 1046_Australia_02.15.22.997-02.15.30.455 	the wooden buildings of the mission burn fiercely in the night.
+1046_Australia_02.15.50.160-02.15.56.161 	weapons raised, they pass burning buildings and approach the tree line.
 1046_Australia_02.23.15.301-02.23.17.773 	bomb ships burn in the bay.
+1047_Defiance_00.26.23.709-00.26.30.453 	together with tuvia, asael, peretz, and jacov, he tosses the old man's body into the burning bed of the truck.
+1049_Harry_Potter_and_the_chamber_of_secrets_01.13.12.439-01.13.19.261 	harry follows her towards an archway with a fiery torch burning on each side.
+1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.28.17.732-01.28.21.858 	harry slows and stops, beside a burned out, roof-less house.
+1051_Harry_Potter_and_the_goblet_of_fire_00.11.24.962-00.11.29.917 	light from the burning tents flickers across his face, as he lies unconscious on the muddy ground.
+1051_Harry_Potter_and_the_goblet_of_fire_00.22.40.714-00.22.47.952 	the flame continues to burn.
+1051_Harry_Potter_and_the_goblet_of_fire_00.45.22.365-00.45.25.434 	the newspaper starts to burn.
+1052_Harry_Potter_and_the_order_of_phoenix_01.14.00.911-01.14.06.753 	sirius's image has been burnt away.
 1053_Harry_Potter_and_the_philosophers_stone_00.10.20.924-00.10.36.634 	inside the house, harry watches helplessly as his uncle burns the envelopes one by one.
+1053_Harry_Potter_and_the_philosophers_stone_01.21.41.088-01.21.49.910 	snape's cloak starts to burn.
 1055_Marley_and_me_01.39.21.872-01.39.23.708 	lights burn in the house at night.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.39.14.000-00.39.17.000 	the flaming torches in the great hall burn brightly again.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.12.56.784-01.13.09.548 	pockets of fire burn throughout the school and grounds as the three friends make their way back up the path, to the courtyard.
-1053_Harry_Potter_and_the_philosophers_stone_00.10.20.924-00.10.36.634 	inside the house, harry watches helplessly as his uncle burns the envelopes one by one.
-1055_Marley_and_me_01.39.21.872-01.39.23.708 	lights burn in the house at night.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.39.14.000-00.39.17.000 	the flaming torches in the great hall burn brightly again.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.12.56.784-01.13.09.548 	pockets of fire burn throughout the school and grounds as the three friends make their way back up the path, to the courtyard.
+1056_Rambo_00.29.21.362-00.29.26.843 	a small child is torn from its mother and tossed into the burning building.
+1056_Rambo_01.17.19.879-01.17.22.309 	smoke billows and some of the foliage is burnt.
+1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.37.47.932-00.37.51.536 	torches burn.
+1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.52.41.266-00.52.50.423 	professor mcgonagall and ginny stare upwards, as parts of the shield start to burn.
+1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.53.28.929-00.53.32.742 	the disintegrating shield fills the skies with burning debris.
+1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.01.02.000-01.01.03.758 	goyle tries to extinguish the flames from the tip of his burning wand.
+1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.02.26.356-01.02.28.126 	hermione leads the way, as they swerve to avoid tumbling, burning furniture.
+2026_Legion_00.38.39.528-00.38.45.538 	dark shapes bolt from the burning vehicles, scattering.
+2026_Legion_00.58.22.601-00.58.25.605 	the entire back side of percy's body burned away.
+2026_Legion_01.14.35.797-01.14.35.929 	she stares at him, a burning spite in her eyes.
+2027_Les_Miserables_02.21.25.516-02.21.26.845 	next to the crucifix on the altar are valjean's two silver candlesticks, in which two candles burn.
+2034_Super_8_00.25.00.098-00.25.01.159 	we push in on his burning eyes and.
+2034_Super_8_01.29.25.054-01.29.29.028 	but burning on the dirt floor of the nearly-dug hole, it lights up a tunnel at the bottom.
 2051_Harry_Potter_and_the_goblet_of_fire_00.22.57.790-00.23.09.240 	we see a suspicious character enter the room where the goblet is still burning and close the door behind him.

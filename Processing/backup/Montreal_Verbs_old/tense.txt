@@ -1,0 +1,8 @@
+CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS923 	01:30:22,00 --> 01:30:28,50 	his jaw muscles tense as he peruses his father's words.
+CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS413 	01:40:23,00 --> 01:40:30,50 	jaw tensed, someone shifts on his feet.
+JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS551 	01:49:15,00 --> 01:49:22,50 	later, the editor faces the pot, skeptically tensing her lips.
+PROMETHEUS.srt 	PROMETHEUS_DVS476 	00:50:15,00 --> 00:50:24,50 	tensing her jaw, someone takes a deep breath through her nose and moves her hand towards someone's mouth as if to smother him.
+PROMETHEUS.srt 	PROMETHEUS_DVS776 	01:23:31,00 --> 01:23:37,50 	her head relaxes back, then tenses again as the forceps dip into her open abdomen.
+THE_CALL.srt 	THE_CALL_DVS527 	00:40:48,00 --> 00:40:54,50 	with his brow tensed, the suited driver retrieves his cellphone.
+THE_VOW.srt 	THE_VOW_DVS420 	00:58:28,00 --> 00:58:32,50 	her smile tenses.
+ZOMBIELAND.srt 	ZOMBIELAND_DVS145 	00:12:57,00 --> 00:13:02,50 	now perched on a toilet, he tenses.

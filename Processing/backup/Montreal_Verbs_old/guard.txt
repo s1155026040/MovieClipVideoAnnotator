@@ -1,0 +1,11 @@
+A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS138 	00:13:10,00 --> 00:13:18,50 	at the courthouse, two police motorcycles lead the heavily guarded motorcade to the front entrance.
+COLOMBIANA.srt 	COLOMBIANA_DVS67 	00:04:32,00 --> 00:04:38,50 	meanwhile, someone hurries to a car guarded by armed men.
+GREEN_ZONE.srt 	GREEN_ZONE_DVS368 	01:25:06,00 --> 01:25:17,50 	outside, in the adaiah district, two of someone's armed followers guard the gated garage door.
+IRON_MAN_2.srt 	IRON_MAN_2_DVS338 	01:00:32,00 --> 01:00:43,50 	on the ground below, an armed soldier guarding a stealth bomber stares into the sky.
+LAND_OF_THE_LOST.srt 	LAND_OF_THE_LOST_DVS231 	01:24:10,00 --> 01:24:15,50 	he guards the humans.
+PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS167 	00:36:45,00 --> 00:36:50,50 	the two opponents guarding the red flag.
+THE_WATCH.srt 	THE_WATCH_DVS452 	01:21:44,00 --> 01:21:50,50 	an alien guards the grate near the refrigerated section.
+THOR.srt 	THOR_DVS597 	01:31:35,00 --> 01:31:43,50 	someone bursts free in a shower of ice crystals then quickly kills two frost giants guarding him.
+XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS576 	00:54:22,00 --> 00:54:29,50 	craning his neck, someone looks down at the road and sees soldiers guarding a roadblock up ahead.
+XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS613 	00:57:15,00 --> 00:57:25,50 	meanwhile, someone, someone, and someone watch through binoculars as coils of the barbed-wire fence wrap around soldiers guarding it
+ZOOKEEPER.srt 	ZOOKEEPER_DVS21 	00:03:19,00 --> 00:03:25,50 	is guarding a grand entryway.

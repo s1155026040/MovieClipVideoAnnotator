@@ -1,9 +1,3 @@
-CHRONICLE.srt 	CHRONICLE_DVS109 	00:15:23,00 --> 00:15:29,50 	someone throws off to the side, but the ball curves around and hits someone in the head.
-CHRONICLE.srt 	CHRONICLE_DVS404 	01:00:42,00 --> 01:00:48,50 	only his eyes show behind the curved window on the face shield.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS434 	01:02:19,00 --> 01:02:27,50 	the tattoo faced monk draws a sword and taps its long curved blade to the back of someone's neck.
-IN_TIME.srt 	IN_TIME_DVS47 	00:05:14,00 --> 00:05:24,50 	as he repeats the process, a complete portable time capsule rolls down a conveyor sporting the curved receptor at one end.
-PROMETHEUS.srt 	PROMETHEUS_DVS390 	00:39:13,00 --> 00:39:19,50 	someone and someone aim their flashlights at the curved ceiling.
 PROMETHEUS.srt 	PROMETHEUS_DVS651 	01:11:13,00 --> 01:11:24,50 	at the edge of the giant disk, someone circles around a curved, throne-like chair to a control panel with rows of buttons the size and shape of eggs.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS376 	01:11:56,00 --> 01:12:06,50 	someone glares at someone, his lips curved into a frown.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS408 	01:04:10,00 --> 01:04:16,50 	his lanky figure curves softly in a melancholy slouch.
-THE_SITTER.srt 	THE_SITTER_DVS103 	00:55:53,00 --> 00:55:57,50 	the minivan parks along a curved

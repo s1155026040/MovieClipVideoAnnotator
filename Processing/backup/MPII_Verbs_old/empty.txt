@@ -1,35 +1,30 @@
-0001_American_Beauty_00.48.39.997-00.48.41.813 	Ricky, having emptied the drawer, now removes a FALSE BOTTOM, revealing rows of MARIJUANA, tightly packed in ZIP-LOC BAGS.
-0001_American_Beauty_01.13.36.210-01.13.37.211 	She empties a round and stands there, exhilarated.
-0004_Charade_01.04.48.702-01.04.50.362 	GIDEON empties the contents of the bag on the table, then starts examining the various items.
-0004_Charade_01.12.13.163-01.12.17.922 	He calls to her through the closed door as he empties his pockets.
-0009_Forrest_Gump_01.33.53.971-01.33.54.764 	Forrest empties the net.
-0009_Forrest_Gump_01.36.19.550-01.36.19.943 	Lt. Dan and Forrest empty their net.
-0019_Pulp_Fiction_00.20.56.564-00.21.02.816 	The two men EMPTY their guns at the same time on the sitting Brett.
-0030_The_Hustler_01.04.31.930-01.04.35.268 	Eddie empties his glass and slaps it on the shelf next to Sarah.
-0030_The_Hustler_01.06.15.081-01.06.21.243 	Taking her ashtray, Eddie rises, runs his hand through her hair for a moment, and then carries off the ashtray and empties it in the garbage bag.
-0031_The_Lost_Weekend_01.03.06.745-01.03.13.403 	Don puts down the two bottles, picks up the glass, empties the pitiable three drops into the parched desert of his throat.
-0050_Indiana_Jones_and_the_last_crusade_00.22.58.023-00.23.03.645 	He immediately empties his pockets of his own mail taken earlier in the day from his college office and finds the envelope with the Venice postmark.
-1001_Flight_00.48.37.042-00.48.41.684 	He empties the bottles in the sink.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.43.20.567-01.43.28.239 	Watched by Hermione and Ron, he empties its contents into his mouth.
+0001_American_Beauty_00.48.39.997-00.48.41.813 	ricky, having emptied the drawer, now removes a false bottom, revealing rows of marijuana, tightly packed in zip-loc bags.
+0001_American_Beauty_01.13.36.210-01.13.37.211 	she empties a round and stands there, exhilarated.
+0004_Charade_01.04.48.702-01.04.50.362 	gideon empties the contents of the bag on the table, then starts examining the various items.
+0004_Charade_01.12.13.163-01.12.17.922 	he calls to her through the closed door as he empties his pockets.
+0009_Forrest_Gump_01.33.53.971-01.33.54.764 	forrest empties the net.
+0009_Forrest_Gump_01.36.19.550-01.36.19.943 	lt. dan and forrest empty their net.
+0019_Pulp_Fiction_00.20.56.564-00.21.02.816 	the two men empty their guns at the same time on the sitting brett.
+0030_The_Hustler_00.02.12.360-00.02.14.364 	the bartender refills the glasses as soon as they are emptied.
+0030_The_Hustler_01.04.31.930-01.04.35.268 	eddie empties his glass and slaps it on the shelf next to sarah.
+0030_The_Hustler_01.06.15.081-01.06.21.243 	taking her ashtray, eddie rises, runs his hand through her hair for a moment, and then carries off the ashtray and empties it in the garbage bag.
+0030_The_Hustler_01.55.20.652-01.55.22.318 	a bucket of iced champagne sits on the desk, ready to be emptied.
+0031_The_Lost_Weekend_00.08.27.125-00.08.29.428 	the bottle emptied, wick puts it in the sink.
+0031_The_Lost_Weekend_01.03.06.745-01.03.13.403 	don puts down the two bottles, picks up the glass, empties the pitiable three drops into the parched desert of his throat.
+0050_Indiana_Jones_and_the_last_crusade_00.22.58.023-00.23.03.645 	he immediately empties his pockets of his own mail taken earlier in the day from his college office and finds the envelope with the venice postmark.
+1001_Flight_00.48.37.042-00.48.41.684 	he empties the bottles in the sink.
+1002_Harry_Potter_and_the_Half-Blood_Prince_01.43.20.567-01.43.28.239 	watched by hermione and ron, he empties its contents into his mouth.
 1010_TITANIC_00.09.24.243-00.09.34.315 	brow furrowed, he empties the safe.
-1010_TITANIC_02.00.07.002-02.00.08.457 	water empties out of the elevator as it rises.
 1012_Unbreakable_01.21.30.951-01.21.37.765 	still looking shocked, he gazes around the concourse and spots the maintenance man emptying the trash can on the far side.
 1024_Identity_Thief_00.49.52.078-00.49.55.744 	she empties out a mini bottle and bites the top off another.
 1028_No_Reservations_00.41.54.466-00.41.58.841 	she picks it up and empties the cigarette butts into the bin.
-1028_No_Reservations_00.44.58.312-00.45.02.304 	later, nick empties a pan of spaghetti and tomato sauce into a large pasta bowl.
 1030_Public_Enemies_01.33.44.529-01.33.48.535 	purvis empties his pistol into the man.
 1031_Quantum_of_Solace_00.41.05.551-00.41.07.680 	bond empties the bag into a basin.
 1031_Quantum_of_Solace_01.02.26.338-01.02.34.106 	with his colleague's gun, throws the other down, calmly shoots him and empties the gun and tosses it aside.
 1033_Sherlock_Holmes_A_Game_of_Shadows_00.05.05.937-00.05.09.670 	holmes empties the gun and hands it back.
-1034_Super_8_01.32.56.672-01.33.00.338 	cary empties out his bag of pyrotechnics.
 1035_The_Adjustment_Bureau_01.26.45.034-01.26.50.301 	in the lobby, he races to a metal detector, and wrenches off his jacket and empties his pockets.
 1049_Harry_Potter_and_the_chamber_of_secrets_01.35.09.270-01.35.10.306 	drawers have been emptied out.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.14.15.730-00.14.19.424 	he empties clothes onto the floor.
 1056_Rambo_00.07.52.230-00.07.58.111 	he empties the bag containing the cobra into a wooden crate.
 1058_The_Damned_united_00.26.52.619-00.27.04.000 	having emptied a bottle of champagne into the silver cup, brian pours it into the players' glasses.
-2004_Juno_01.01.36.275-01.01.37.694 	juno and leah are sitting inside an emptied awards case on the wall, eating their lunch.
-2012_Unbreakable_00.17.47.420-00.17.49.047 	david stands at the entrance to a tunnel that empties out onto the field.
-1056_Rambo_00.07.52.230-00.07.58.111 	he empties the bag containing the cobra into a wooden crate.
-1058_The_Damned_united_00.26.52.619-00.27.04.000 	having emptied a bottle of champagne into the silver cup, brian pours it into the players' glasses.
-2004_Juno_01.01.36.275-01.01.37.694 	juno and leah are sitting inside an emptied awards case on the wall, eating their lunch.
 2012_Unbreakable_00.17.47.420-00.17.49.047 	david stands at the entrance to a tunnel that empties out onto the field.

@@ -2,5 +2,3 @@ CHRONICLE.srt 	CHRONICLE_DVS398 	01:00:23,00 --> 01:00:28,50 	someone fetches th
 FLIGHT.srt 	FLIGHT_DVS942 	01:52:18,00 --> 01:52:22,50 	someone fetches the water.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS262 	01:00:27,00 --> 01:00:34,50 	someone fetches the wine in a pitcher of water.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS325 	01:06:48,00 --> 01:06:52,50 	he fetches his sneakers.
-THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS222 	01:14:00,00 --> 01:14:06,50 	someone regards her son, then fetches her handbag from the hallway.
-TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS147 	00:17:57,00 --> 00:18:04,50 	as someone fetches it, someone finds an elderly fairy in a cardigan descending a ladder.

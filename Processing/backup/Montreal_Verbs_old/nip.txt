@@ -1,0 +1,4 @@
+DISTRICT_9.srt 	DISTRICT_9_DVS285 	00:31:53,00 --> 00:32:13,50 	then standing in front of a mirror, nips at his other fingernails.
+MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS221 	00:31:50,00 --> 00:31:58,50 	as he stows a wine bottle, bitey nips him.
+MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS496 	01:00:07,00 --> 01:00:11,50 	bitey nips someone's leg.
+THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS378 	00:56:10,00 --> 00:56:15,50 	the spinning blades nip the tips of someone's hair.

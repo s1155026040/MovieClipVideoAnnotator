@@ -1,0 +1,3 @@
+BAD_TEACHER.srt 	BAD_TEACHER_DVS304 	01:21:01,00 --> 01:21:08,50 	with a haughty look someone retires to the arm of a couch.
+LITTLE_FOCKERS.srt 	LITTLE_FOCKERS_DVS156 	00:55:32,00 --> 00:56:04,50 	the retired cia man reads the caption, "crazy night at the hilton."
+LITTLE_FOCKERS.srt 	LITTLE_FOCKERS_DVS199 	01:11:58,00 --> 01:12:04,50 	the retired cia agent gets out and marches gravely toward the house.

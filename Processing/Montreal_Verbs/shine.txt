@@ -1,14 +1,7 @@
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS662 	01:07:51,00 --> 01:08:05,50 	they shine flashlights into the large hidden chamber, revealing dozens of aluminum cases stacked throughout.
 BRUNO.srt 	BRUNO_DVS254 	01:09:07,00 --> 01:09:21,50 	spotlights shine in a packed arena.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS21 	00:02:57,00 --> 00:03:04,50 	the men shine their lights on a desk-sized object covered with snow.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS406 	01:02:21,00 --> 01:02:26,50 	tears shine in her red rimmed eyes.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS747 	01:38:13,00 --> 01:38:17,50 	tears shine on his face.
-INSIDE_MAN.srt 	INSIDE_MAN_DVS326 	01:36:33,00 --> 01:36:39,50 	he beams shine brightly from their riflescopes.
-KARATE_KID.srt 	KARATE_KID_DVS1216 	01:39:38,00 --> 01:39:44,50 	tears shine on someone's cheeks as he hunches toward the wheel.
-KATY_PERRY_PART_OF_ME.srt 	KATY_PERRY_PART_OF_ME_DVS364 	01:25:36,00 --> 01:25:41,50 	spotlights shine over a sea of cheering fans.
-PROMETHEUS.srt 	PROMETHEUS_DVS320 	00:31:10,00 --> 00:31:20,50 	spinning, they shine red scanner beams in all directions as they fly down the corridor.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1001 	01:05:26,00 --> 01:05:33,50 	the tightly-packed headlights shine brightly beneath the night sky.
 SUPER_8.srt 	SUPER_8_DVS612 	01:39:42,00 --> 01:39:47,50 	the ship's spotlights shine down on the street.
 THE_VOW.srt 	THE_VOW_DVS699 	01:37:36,00 --> 01:37:41,50 	his eyes shine with tears.
 THE_WATCH.srt 	THE_WATCH_DVS152 	00:29:29,00 --> 00:29:33,50 	bright lights shine in their eyes.
-THE_WATCH.srt 	THE_WATCH_DVS254 	00:47:43,00 --> 00:47:51,50 	its headlights shine on someone and someone as they peer through the windows of a charming brick house.

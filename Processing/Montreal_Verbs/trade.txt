@@ -1,17 +1,13 @@
-21_JUMP_STREET.srt 	21_JUMP_STREET_DVS298 	00:51:19,00 --> 00:51:28,50 	as someone and the two teen thugs trade expert fighting moves, someone twirls his hand stylistically.
 BURLESQUE.srt 	BURLESQUE_DVS133 	00:17:56,00 --> 00:18:04,50 	then they trade phrases.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS609 	01:43:36,00 --> 01:43:42,50 	they trade punches, then someone boots someone into the far wall.
 FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS352 	01:33:38,00 --> 01:33:50,50 	a man and woman trade a sober look.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS23 	00:03:35,00 --> 00:03:57,50 	someone glances over his shoulder then trades a look with someone.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS512 	01:13:48,00 --> 01:13:53,50 	two guards trade a look.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS35 	00:08:49,00 --> 00:08:53,50 	peter trade an eyebrow raise.
-KARATE_KID.srt 	KARATE_KID_DVS171 	00:14:26,00 --> 00:14:40,50 	they trade easy shots over a row of rocks taking the place of a net.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS30 	00:03:19,00 --> 00:03:24,50 	the brothers trade a wry smirk.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS269 	00:40:59,00 --> 00:41:05,50 	the brothers trade a look.
-SPARKLE_2012.srt 	SPARKLE_2012_DVS219 	00:34:38,00 --> 00:34:44,50 	swaying to the music, someone trades a look with someone.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS239 	00:37:17,00 --> 00:37:24,50 	someone waves to sister, then trades a nod with someone.
 THE_CALL.srt 	THE_CALL_DVS73 	00:04:36,00 --> 00:04:41,50 	she trades a smile with an older woman.
 THE_SITTER.srt 	THE_SITTER_DVS95 	00:51:21,00 --> 00:51:25,50 	she trades a look with her
 THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS81 	00:24:00,00 --> 00:24:05,50 	the club members trade quizzical looks.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS153 	00:26:06,00 --> 00:26:12,50 	she trades a look with her bearded colleague.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS737 	01:06:55,00 --> 01:07:02,50 	the young men trade angry shove

@@ -1,11 +1,3 @@
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS282 	00:21:29,00 --> 00:21:35,50 	the wave breaks behind him, forming an oncoming mass of churning white water.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS863 	01:24:48,00 --> 01:24:55,50 	now beneath a stormy sky, slate hued waves roil and churn along the coast,
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS885 	01:26:29,00 --> 01:26:34,50 	now, a wetsuit-clad figure treads churning water.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS916 	01:29:50,00 --> 01:29:54,50 	the sea churns violently in its wake.
-COLOMBIANA.srt 	COLOMBIANA_DVS989 	01:34:37,00 --> 01:34:44,50 	the explosion tears into the floor and churning fire surges through the crawl space.
-COLOMBIANA.srt 	COLOMBIANA_DVS1065 	01:39:44,00 --> 01:39:50,50 	the van fishtails, its spinning tires leaving a wake of churning dust.
-GREEN_ZONE.srt 	GREEN_ZONE_DVS476 	01:44:47,00 --> 01:44:54,50 	an aerial view of the parched landscape shows the convoy churning up dust on the
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS270 	00:35:57,00 --> 00:36:07,50 	as we push through thick, churning storm clouds, deck lights illuminate a freighter in the night.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS334 	00:40:49,00 --> 00:41:02,50 	someone lands on his belly and struggles to hold on as the boat bucks on the churning waters.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS374 	00:44:54,00 --> 00:45:01,50 	he watches helplessly as the ship sinks further beneath the churning waves.
-SANCTUM.srt 	SANCTUM_DVS349 	01:09:45,00 --> 01:09:53,50 	down at the churning pool, gets a hold on the wall, and leans out far under a light waterfall.

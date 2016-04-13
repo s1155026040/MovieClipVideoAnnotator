@@ -1,63 +1,26 @@
-500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS545 	01:30:30,00 --> 01:30:35,50 	the sun shines on the line drawing city.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS399 	01:10:05,00 --> 01:10:11,50 	with the sun shining brightly overhead, someone walks outside.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS519 	01:12:57,00 --> 01:13:06,50 	he holds up a shaking hand and a shaft of light shining through a hole in his chest hits his palm.
-BURLESQUE.srt 	BURLESQUE_DVS737 	01:50:39,00 --> 01:50:47,50 	now on a dark stage, a spotlight shines down on someone, who wears a sparkling outfit and her platinum wig.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS46 	00:06:30,00 --> 00:06:38,50 	the bearded man gazes toward bright light shining through the hole in the tower, then glances at a wall panel.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS643 	01:48:13,00 --> 01:48:20,50 	the sun shines low in the sky across a windblown expanse of ice and snow.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS758 	01:16:04,00 --> 01:16:11,50 	now, the sun shines wanly through a thick haze and gleams on a calm grey sea.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS940 	01:32:12,00 --> 01:32:20,50 	now, the sun shines brightly on a slate blue sea rolling beyond the meteorological complex.
-COLOMBIANA.srt 	COLOMBIANA_DVS281 	00:23:38,00 --> 00:23:44,50 	now a sunbeam shines on someone's face as she sleeps.
-COLOMBIANA.srt 	COLOMBIANA_DVS712 	01:07:46,00 --> 01:07:51,50 	she stares off, her eyes shining with tears.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS401 	00:59:11,00 --> 00:59:19,50 	a brilliant light flashes then shines down on him.
-INSIDE_MAN.srt 	INSIDE_MAN_DVS258 	01:19:28,00 --> 01:19:41,50 	with only the police floodlights shining dimly through the windows, the pistol-wielding robber follows behind the detective.
-KARATE_KID.srt 	KARATE_KID_DVS1245 	01:41:39,00 --> 01:41:45,50 	someone locks eyes with him and draws him forward, tears shining on his cheeks.
-KARATE_KID.srt 	KARATE_KID_DVS1566 	02:07:06,00 --> 02:07:18,50 	someone stands, his face shining with sweat.
 KARATE_KID.srt 	KARATE_KID_DVS1645 	02:13:42,00 --> 02:13:47,50 	his face shining with sweat.
 KATY_PERRY_PART_OF_ME.srt 	KATY_PERRY_PART_OF_ME_DVS322 	01:14:33,00 --> 01:14:40,50 	fans in the audience, some with tears shining in their eyes, applaud wildly.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS636 	01:08:39,00 --> 01:08:44,50 	shining it over the side, he finds someone clinging to the whole rope.
-LITTLE_FOCKERS.srt 	LITTLE_FOCKERS_DVS132 	00:49:38,00 --> 00:49:47,50 	as he slides off his coat, a lamp shines its light on him.
-MORNING_GLORY.srt 	MORNING_GLORY_DVS261 	00:59:24,00 --> 00:59:29,50 	he's getting his shoes shined.
 MORNING_GLORY.srt 	MORNING_GLORY_DVS282 	01:01:47,00 --> 01:01:52,50 	the moon still shines in the sky.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS274 	01:00:02,00 --> 01:00:17,50 	now the sun shines cheerily on the barn.
-NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS214 	00:36:20,00 --> 00:36:29,50 	someone shines a light on his naked body and runs her finger along his leg.
 PROMETHEUS.srt 	PROMETHEUS_DVS119 	00:07:17,00 --> 00:07:23,50 	he shines the flashlight on her pretty elfin face.
-PROMETHEUS.srt 	PROMETHEUS_DVS129 	00:07:48,00 --> 00:07:52,50 	a beam shines brightly from a chunky spacecraft as it turns.
-PROMETHEUS.srt 	PROMETHEUS_DVS252 	00:24:11,00 --> 00:24:18,50 	they pass jagged mountains peeking from thick mist as the sun shines through the clouds.
-PROMETHEUS.srt 	PROMETHEUS_DVS318 	00:30:49,00 --> 00:30:55,50 	they pause, shining their lights in either direction.
-PROMETHEUS.srt 	PROMETHEUS_DVS332 	00:32:07,00 --> 00:32:15,50 	as he leads them on, someone curiously shines her flashlight at the etched stone walls.
 PROMETHEUS.srt 	PROMETHEUS_DVS625 	01:08:20,00 --> 01:08:26,50 	someone shines his light on the apparent corpses.
-PROMETHEUS.srt 	PROMETHEUS_DVS662 	01:12:00,00 --> 01:12:08,50 	someone shines his flashlight at the first, who bends over at one of the sarcophagus-like pods.
-PROMETHEUS.srt 	PROMETHEUS_DVS871 	01:36:01,00 --> 01:36:12,50 	as she shines her flashlight over the urns, someone watches a video feed from the bridge.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS650 	02:02:34,00 --> 02:02:57,50 	someone watches with shining eyes.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS655 	02:03:58,00 --> 02:04:05,50 	someone wears a faint half-smile, his eyes shining.
 SALT.srt 	SALT_DVS296 	00:52:08,00 --> 00:52:20,50 	in the crypt, someone shines his flashlight at a dead guard.
 SANCTUM.srt 	SANCTUM_DVS77 	00:16:30,00 --> 00:16:34,50 	it shines in through the distant aperture.
 SANCTUM.srt 	SANCTUM_DVS85 	00:17:32,00 --> 00:17:41,50 	someone follow, shining her flashlight over the rock walls.
 SANCTUM.srt 	SANCTUM_DVS130 	00:26:24,00 --> 00:26:28,50 	someone shines a flashlight.
-SANCTUM.srt 	SANCTUM_DVS293 	00:59:11,00 --> 00:59:24,50 	someone steps out from behind a pitch black wall and shines his helmet light across a rocky passage.
 SANCTUM.srt 	SANCTUM_DVS370 	01:12:30,00 --> 01:12:35,50 	someone shines a flashlight on her.
-SANCTUM.srt 	SANCTUM_DVS474 	01:28:20,00 --> 01:28:29,50 	now, a wide view shows pale light shining through the hole casting the cavern in a purple-tinged glow.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS286 	00:19:17,00 --> 00:19:23,50 	a bedside lamp shines its harsh light on someone's bruised face.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS599 	00:39:48,00 --> 00:39:55,50 	someone peers outside with the soft daylight shining on her face.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1218 	01:21:54,00 --> 01:22:02,50 	someone lifts her gaze, her eyes shining, as someone comes in with her jintian sisters.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1226 	01:22:21,00 --> 01:22:27,50 	someone watches her estranged laotong with shining eyes.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1274 	01:26:07,00 --> 01:26:14,50 	on the opposite page, an illustration shows light from an oncoming train shining brightly from a round tunnel.
-SUPER_8.srt 	SUPER_8_DVS304 	00:54:21,00 --> 00:54:29,50 	leaping to his feet, he takes his flashlight out of his backpack and shines it across the cemetery onto a shed.
 SUPER_8.srt 	SUPER_8_DVS575 	01:35:25,00 --> 01:35:31,50 	back in the large chamber, sheriff someone shines a flashlight.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS90 	00:12:51,00 --> 00:13:00,50 	someone shines his flashlight over the house's ivory covered exterior, then onto a fish carved above the front door.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS91 	00:13:18,00 --> 00:13:28,50 	as snowy wanders off someone turns and shines his flashlight onto a snarling rottweiler.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS404 	01:17:49,00 --> 01:18:02,50 	she offers a little smile and he regards her with shining eyes.
-THE_CALL.srt 	THE_CALL_DVS901 	01:09:36,00 --> 01:09:43,50 	now, someone slowly pushes the front door open and shines a flashlight inside.
 THE_CALL.srt 	THE_CALL_DVS940 	01:12:29,00 --> 01:12:36,50 	now, someone shines her flashlight as she traverses a path through a small field.
 THE_CALL.srt 	THE_CALL_DVS955 	01:13:28,00 --> 01:13:34,50 	she shines her light over it and examines the small grip.
-THE_CALL.srt 	THE_CALL_DVS959 	01:13:40,00 --> 01:13:48,50 	someone shines her flashlight into the hole and sees a metal ladder leading down several feet.
-THE_CALL.srt 	THE_CALL_DVS986 	01:15:46,00 --> 01:15:52,50 	she looks at a light shining through a half open door.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS629 	01:31:45,00 --> 01:31:50,50 	and shines down on a lush mountain ridge.
-THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS292 	01:47:52,00 --> 01:47:59,50 	they step inside, shining their flashlights.
-THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS296 	01:48:58,00 --> 01:49:06,50 	the officer grabs someone's hand and shines his light on it, finding it dusted with coke.
-THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS299 	01:49:39,00 --> 01:49:49,50 	the first cop shines his light on someone, who turns away and runs a hand over his hair.
 THE_VOW.srt 	THE_VOW_DVS237 	00:30:14,00 --> 00:30:21,50 	now, the sun shines brightly outside their converted warehouse building.
 THE_WATCH.srt 	THE_WATCH_DVS41 	00:05:33,00 --> 00:05:37,50 	he shines his flashlight across the store.
-THE_WATCH.srt 	THE_WATCH_DVS46 	00:05:57,00 --> 00:06:04,50 	he shines his light on a torn open box, then continues at a weary pace.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS765 	01:48:41,00 --> 01:48:49,50 	outside, the sun shines brightly through a row of tall leafy trees.
-WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS403 	00:57:46,00 --> 00:57:53,50 	someone turns on a spotlight, which shines over a group of someone sculptures.

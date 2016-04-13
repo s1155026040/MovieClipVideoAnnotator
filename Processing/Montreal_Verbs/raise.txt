@@ -1,21 +1,14 @@
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS33 	00:03:48,00 --> 00:03:53,50 	he slams him down on the mat and raises his fist.
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS199 	00:34:47,00 --> 00:34:52,50 	someone raises his hand.
-40_YEAR_OLD_VIRGIN.srt 	40_YEAR_OLD_VIRGIN_DVS178 	01:27:29,00 --> 01:27:34,50 	someone raises her hand, then lowers it
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS68 	00:04:49,00 --> 00:04:54,50 	he raises his gun to the man in the booth.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS89 	00:07:52,00 --> 00:07:56,50 	she raises her eyebrows slightly.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS175 	00:15:46,00 --> 00:15:53,50 	they round a raised curb by a side entrance and park in a line along the courthouse.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS610 	01:02:56,00 --> 01:03:06,50 	as someone surveys the scene, his son raises a pair of binoculars and focuses them on a group of men in yellow suits outside the plant.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS786 	01:18:33,00 --> 01:18:39,50 	someone raises his brow as someone seethes.
-A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS106 	00:27:03,00 --> 00:27:10,50 	he raises his head and looks at the other half of the bed, which is empty.
-A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS124 	00:28:07,00 --> 00:28:13,50 	smiling, someone turns toward the tree and raises his middle finger.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS158 	00:30:38,00 --> 00:30:43,50 	someone squints at the doctor, then raises his eyebrows.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS159 	00:30:41,00 --> 00:30:45,50 	the doctor raises his.
-A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS199 	00:38:20,00 --> 00:38:26,50 	the teacher raises his eyebrows and stares at someone who sits frozen.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS351 	01:00:53,00 --> 01:00:58,50 	raises his hand, pinches his fingertips together,
-A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS372 	01:05:34,00 --> 01:05:40,50 	raising his eyebrows someone shrugs and walks off.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS487 	01:23:49,00 --> 01:23:54,50 	someone raises his eyebrow.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS583 	01:20:44,00 --> 01:20:51,50 	stepping past, someone pauses, raises his ax and turns.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS589 	01:21:33,00 --> 01:21:37,50 	turning, he raises his weapon.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS654 	01:32:37,00 --> 01:32:51,50 	our view raises from their tent, ascending a flagpole for a glimpse of the entire camp as runaway slaves arm the union soldiers with the silver-outfitted weaponry.
 BAD_TEACHER.srt 	BAD_TEACHER_DVS28 	00:11:29,00 --> 00:11:34,50 	no students raise their hands.
 BAD_TEACHER.srt 	BAD_TEACHER_DVS177 	00:49:41,00 --> 00:49:46,50 	someone raises his eyebrows.
@@ -25,8 +18,6 @@ BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS394 	01:
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS396 	01:04:29,00 --> 01:04:36,50 	as they spin around again, someone crouches by the window and raises his binoculars.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS545 	01:24:40,00 --> 01:24:50,50 	the car's tail end raises ten feet off of the pavement and it slides to a stop on its nose.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS604 	01:34:52,00 --> 01:34:58,50 	slowing his pace, he sweeps his gaze around the area, gun raised,
-BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS618 	01:36:11,00 --> 01:36:16,50 	someone steps out, gun raised.
-BLINDDATING.srt 	BLINDDATING_DVS50 	00:15:17,00 --> 00:15:28,50 	gazing out the window, she sees someone raising his hand in a perfectly timed wave.
 BLINDDATING.srt 	BLINDDATING_DVS88 	00:26:04,00 --> 00:26:09,50 	raises his eyebrows.
 BLINDDATING.srt 	BLINDDATING_DVS99 	00:27:47,00 --> 00:27:51,50 	later, the woman raises a beer.
 BLINDDATING.srt 	BLINDDATING_DVS103 	00:28:20,00 --> 00:28:26,50 	someone raise the fork to his mouth.
@@ -34,96 +25,66 @@ BLINDDATING.srt 	BLINDDATING_DVS109 	00:29:36,00 --> 00:29:41,50 	the raised par
 BLINDDATING.srt 	BLINDDATING_DVS347 	01:23:22,00 --> 01:23:29,50 	someone reluctantly raises her champagne and forces a smile.
 BRUNO.srt 	BRUNO_DVS130 	00:30:54,00 --> 00:30:59,50 	the israeli raises his eyebrows.
 BRUNO.srt 	BRUNO_DVS135 	00:31:46,00 --> 00:31:56,50 	he raises their hands, and places them each on their own heads.
-BRUNO.srt 	BRUNO_DVS160 	00:44:25,00 --> 00:44:53,50 	someone raises a fork full of pie, pauses, then takes his first bite.
 BURLESQUE.srt 	BURLESQUE_DVS79 	00:07:34,00 --> 00:07:40,50 	onstage, the reclined dancers snap then raise their arms in the air.
 BURLESQUE.srt 	BURLESQUE_DVS222 	00:33:20,00 --> 00:33:29,50 	someone returns to the table, where someone raises an eyebrow.
 BURLESQUE.srt 	BURLESQUE_DVS445 	01:01:04,00 --> 01:01:10,50 	as she flings them away, her backup dancers raise two more in their place.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS68 	00:10:03,00 --> 00:10:09,50 	blood streaming from his mouth, someone stands and raises his fists.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS257 	00:45:38,00 --> 00:45:45,50 	as nearby guards raise both of their fists in salute, someone faces dr.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS405 	01:13:53,00 --> 01:13:58,50 	dugan raises his glass of beer.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS503 	01:29:17,00 --> 01:29:25,50 	someone drinks, then raises his glass toward the pilots as they pump both of their fists in the air.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS546 	01:36:26,00 --> 01:36:33,50 	a hydra trooper charges toward the entering soldiers with his blaster raised.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS585 	01:40:58,00 --> 01:41:07,50 	someone leaps on to the bomb and raises his shield, but a trooper dives onto someone from behind, knocking his shield to the floor.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS285 	00:21:50,00 --> 00:21:55,50 	someone joyfully raises both fists.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS475 	00:45:52,00 --> 00:45:57,50 	someone's wife glances at her husband who raises his brow.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS533 	00:51:52,00 --> 00:51:56,50 	someone raises her brow.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS622 	00:59:59,00 --> 01:00:05,50 	someone struggles to pull him off and raises a fist.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS989 	01:36:49,00 --> 01:36:55,50 	high on the bluffs with someone by his side, someone raises a pair of binoculars to his eyes.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS1032 	01:39:56,00 --> 01:40:03,50 	someone raises his binoculars to see someone arrowing down the face of a cresting wave.
-CHRONICLE.srt 	CHRONICLE_DVS282 	00:43:18,00 --> 00:43:36,50 	someone raises a finger then holds out his hand.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS26 	00:06:48,00 --> 00:06:56,50 	she raises his arms overhead.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS499 	01:55:21,00 --> 01:55:31,50 	as the timekeeper raises a mallet, sporty looks toward someone's corner.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS545 	02:08:20,00 --> 02:08:26,50 	ringside, the timekeeper raises his mallet.
 COLOMBIANA.srt 	COLOMBIANA_DVS118 	00:09:33,00 --> 00:09:38,50 	raising his helpless gaze to his daughter,
-COLOMBIANA.srt 	COLOMBIANA_DVS123 	00:10:04,00 --> 00:10:09,50 	he steps into the kitchen with his gun raised.
-COLOMBIANA.srt 	COLOMBIANA_DVS525 	00:47:33,00 --> 00:47:40,50 	she sets the cup down then claps her hands and raises her arms above her head.
-COLOMBIANA.srt 	COLOMBIANA_DVS727 	01:09:01,00 --> 01:09:11,50 	she raises her arms letting him lift off her shirt.
 COLOMBIANA.srt 	COLOMBIANA_DVS839 	01:20:35,00 --> 01:20:40,50 	she pauses by the door and raises a detonator.
 COLOMBIANA.srt 	COLOMBIANA_DVS888 	01:24:10,00 --> 01:24:15,50 	raises her gun and rushes through the house.
 COLOMBIANA.srt 	COLOMBIANA_DVS966 	01:33:05,00 --> 01:33:12,50 	with their weapons raised, four gunmen rush into a spacious garage.
-COLOMBIANA.srt 	COLOMBIANA_DVS970 	01:33:27,00 --> 01:33:33,50 	someone climbs out with a sub machine gun raised.
 COLOMBIANA.srt 	COLOMBIANA_DVS1013 	01:36:22,00 --> 01:36:26,50 	his weapon raised, someone closes himself into a bathroom.
 COLOMBIANA.srt 	COLOMBIANA_DVS1023 	01:36:56,00 --> 01:37:01,50 	someone enters with her gun raised.
-COLOMBIANA.srt 	COLOMBIANA_DVS1027 	01:37:18,00 --> 01:37:25,50 	he raises it and she grabs a glass off a shelf and hurls it at him.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS311 	00:48:12,00 --> 00:48:25,50 	later while someone drives, someone raises her free hand to his lips.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS475 	01:10:02,00 --> 01:10:09,50 	a man runs in front of their humvee with his arms raised over his head.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS569 	01:21:02,00 --> 01:21:09,50 	his father limply raises one hand and rests it against someone's shoulder.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS575 	01:21:32,00 --> 01:21:38,50 	someone raises his other hand to his son.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS591 	01:22:29,00 --> 01:22:37,50 	his arms raised limply over his head.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS735 	01:37:33,00 --> 01:37:39,50 	she takes a few steps toward him and raises her tearful eyes.
 DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS163 	00:38:16,00 --> 00:38:23,50 	he bares his teeth and raises an eyebrow.
 DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS388 	01:35:05,00 --> 01:35:10,50 	someone raises his brows and beams.
 DISTRICT_9.srt 	DISTRICT_9_DVS87 	00:10:16,00 --> 00:10:34,50 	in one of the trucks, the mercenaries raise masks over their mouths and prepare their weapons.
-DISTRICT_9.srt 	DISTRICT_9_DVS307 	00:33:48,00 --> 00:33:54,50 	the gang leader watches the witch raise an alien arm in a ritual.
 DISTRICT_9.srt 	DISTRICT_9_DVS454 	00:51:22,00 --> 00:51:30,50 	he rocks forward and raises a shaking hand to his lips.
 DISTRICT_9.srt 	DISTRICT_9_DVS463 	00:53:30,00 --> 00:53:45,50 	rolling up his sleeve, he places his alien arm on the block and raises the ax.
-DISTRICT_9.srt 	DISTRICT_9_DVS464 	00:53:45,00 --> 00:53:53,50 	he lowers, adjusts his hand on the block, then determinedly raises the ax above his head.
 DISTRICT_9.srt 	DISTRICT_9_DVS827 	01:37:37,00 --> 01:37:42,50 	someone arrives behind it, his rifle raised.
-DISTRICT_9.srt 	DISTRICT_9_DVS838 	01:39:00,00 --> 01:39:12,50 	spotting the colonel, someone rolls over to face him and raises his trembling human hand.
 EASY_A.srt 	EASY_A_DVS39 	00:09:39,00 --> 00:09:45,50 	they pat their hearts and raise their hands to the sky.
-EASY_A.srt 	EASY_A_DVS168 	00:53:44,00 --> 00:53:52,50 	she kisses her fingers, pats her hand over her heart, then raises it skyward.
 EASY_A.srt 	EASY_A_DVS309 	01:27:33,00 --> 01:27:38,50 	someone raises an arm victoriously, and so does someone.
-FLIGHT.srt 	FLIGHT_DVS391 	01:02:46,00 --> 01:02:52,50 	he raises the glass, as if to take a drink, but stops midway.
 FLIGHT.srt 	FLIGHT_DVS406 	01:03:58,00 --> 01:04:03,50 	someone partially raises his hands.
 FLIGHT.srt 	FLIGHT_DVS591 	01:21:22,00 --> 01:21:27,50 	someone does not raise his hand, crosses his arms.
-FLIGHT.srt 	FLIGHT_DVS670 	01:30:27,00 --> 01:30:32,50 	someone walks past someone, raising a hand to her head before she sits on the bed.
 FLIGHT.srt 	FLIGHT_DVS935 	01:50:53,00 --> 01:50:58,50 	someone jumps back, and someone raises his hands.
 FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS63 	00:16:32,00 --> 00:16:39,50 	she raises her arms and waves them in unison with the dancers.
 FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS66 	00:17:13,00 --> 00:17:24,50 	the dancers straighten and raise their arms skyward, some with jazz hands.
 FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS199 	00:53:05,00 --> 00:53:15,50 	he raises a finger, gesturing for her to pause.
 GET_HIM_TO_THE_GREEK.srt 	GET_HIM_TO_THE_GREEK_DVS46 	00:29:26,00 --> 00:29:36,50 	licking his lips he raises both hands in a shrug.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS103 	00:16:02,00 --> 00:16:18,50 	he raises his fist to his opposite shoulder, then lifts his other hand and at angle.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS254 	00:40:19,00 --> 00:40:33,50 	shifting the levers, he raises the wheel high into the air, then smashes it onto a watchtower.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS435 	01:02:24,00 --> 01:02:32,50 	with both hands, the executioner raises the sword overhead.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS486 	01:10:42,00 --> 01:10:51,50 	someone faces his acolytes then raises both arms, gesturing for them to rise from their seats.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS521 	01:14:19,00 --> 01:14:26,50 	the boy raises his head, his eyes bloodshot with black irises.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS615 	01:27:31,00 --> 01:27:38,50 	someone raises a skeletal hand enveloped in blue flames.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS62 	00:14:05,00 --> 00:14:11,50 	someone frowns and raises his hand.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS107 	00:27:01,00 --> 00:27:08,50 	someone raises his hand, capturing the group's attention.
-GREEN_ZONE.srt 	GREEN_ZONE_DVS440 	01:36:48,00 --> 01:37:08,50 	still holding a pistol, the general raises his hands.
 GROWN_UPS.srt 	GROWN_UPS_DVS261 	01:14:39,00 --> 01:14:46,50 	morning, the families raise the american flag on the boathouse's rooftop patio.
 GROWN_UPS.srt 	GROWN_UPS_DVS291 	01:31:56,00 --> 01:32:04,50 	bending over, riley lowers his raised arms.
 HUGO.srt 	HUGO_DVS196 	00:28:18,00 --> 00:28:25,50 	the white-haired bookseller raises his eyebrows as he examines someone.
-HUGO.srt 	HUGO_DVS375 	00:57:00,00 --> 00:57:07,50 	she glances at someone then back at the drawing, while raising one hand to her mouth.
-HUGO.srt 	HUGO_DVS376 	00:57:33,00 --> 00:57:39,50 	someone raises her hand toward her own neck then looks at someone.
 HUGO.srt 	HUGO_DVS452 	01:05:29,00 --> 01:05:34,50 	he raises his eyebrows and bares his teeth.
-HUGO.srt 	HUGO_DVS485 	01:11:35,00 --> 01:11:41,50 	the man raises his eyebrows as he stares down at someone.
-HUGO.srt 	HUGO_DVS653 	01:33:53,00 --> 01:33:58,50 	someone raises someone's hands to his lips and kisses it.
 HUGO.srt 	HUGO_DVS670 	01:37:37,00 --> 01:37:42,50 	a platform raises him up again.
 HUGO.srt 	HUGO_DVS679 	01:38:25,00 --> 01:38:30,50 	weapons raised, the actors creep across the set.
 HUGO.srt 	HUGO_DVS684 	01:39:03,00 --> 01:39:10,50 	as the skeletons cartwheel and dance in place, the warriors raise their weapons.
 IN_TIME.srt 	IN_TIME_DVS471 	00:50:48,00 --> 00:50:55,50 	later, he raises a scanner by his seat and sticks his wrist through it.
-IN_TIME.srt 	IN_TIME_DVS477 	00:51:42,00 --> 00:51:50,50 	someone stands by as someone raises a fist to a screen door fitted with protective iron bars.
 IN_TIME.srt 	IN_TIME_DVS593 	01:03:24,00 --> 01:03:28,50 	he raises a gun.
 IN_TIME.srt 	IN_TIME_DVS847 	01:29:44,00 --> 01:29:49,50 	he raises his weapon.
 IN_TIME.srt 	IN_TIME_DVS930 	01:37:54,00 --> 01:38:01,50 	as someone and someone close in on the border, someone cuts them off, his gun raised.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS59 	00:16:02,00 --> 00:16:19,50 	as the dark haired executive hands over his keys to the female robber, she stops and raises her arm.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS266 	01:22:41,00 --> 01:22:46,50 	someone raises his gun.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS72 	00:12:28,00 --> 00:12:35,50 	sitting nearby, brown-haired someone raises a water glass toward someone and takes a sip.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS166 	00:31:18,00 --> 00:31:54,50 	a red racecar speeds up to someone, who raises his right arm and slices off the front of the car with a whip.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS193 	00:35:35,00 --> 00:36:10,50 	iron man turns and raises his left hand toward someone.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS250 	00:46:28,00 --> 00:46:36,50 	someone raises his wine glass.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS327 	00:58:39,00 --> 00:58:46,50 	balanced on one knee, he turns and raises his palm weapon toward someone.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS327 	00:58:39,00 --> 00:58:46,50 	someone raises his own hand.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS330 	00:59:23,00 --> 00:59:30,50 	the eyes of someone's helmet light up as he raises his head and surveys the destruction.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS535 	01:36:26,00 --> 01:36:30,50 	the drones each raise one arm.
@@ -138,33 +99,22 @@ JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS588 	01:55:18,00 --> 01:55:23,50 	someon
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS593 	01:55:51,00 --> 01:55:55,50 	someone raises his glass.
 JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS105 	00:38:53,00 --> 00:39:00,50 	soaked with soda, the pregnant woman raises her hands overhand and yells after him.
 JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS134 	00:47:56,00 --> 00:48:15,50 	someone and someone raise their hands.
-JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS256 	01:27:06,00 --> 01:27:12,50 	someone raises her arms overhead and shakes her hips.
 JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS264 	01:28:13,00 --> 01:28:19,50 	she raises her arm in a final pose.
-JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS265 	01:28:21,00 --> 01:28:29,50 	someone hulas in front of someone, then shakes her hips while raising her arms overhead.
 JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS271 	01:29:38,00 --> 01:29:44,50 	both couples struggle to raise their coconuts above their bellies.
-KARATE_KID.srt 	KARATE_KID_DVS133 	00:11:55,00 --> 00:12:03,50 	raising his chopsticks, he follows its movements.
 KARATE_KID.srt 	KARATE_KID_DVS136 	00:12:06,00 --> 00:12:10,50 	someone raises his chopsticks.
 KARATE_KID.srt 	KARATE_KID_DVS206 	00:17:43,00 --> 00:17:48,50 	someone stands and raises his fists.
 KARATE_KID.srt 	KARATE_KID_DVS216 	00:18:31,00 --> 00:18:38,50 	the bully glares at someone, who wipes his sleeve across his eyes and raises his fists again.
 KARATE_KID.srt 	KARATE_KID_DVS566 	00:50:56,00 --> 00:51:03,50 	the instructor ceremoniously raises his open hand and smacks the boy's cheek.
 KARATE_KID.srt 	KARATE_KID_DVS1114 	01:32:37,00 --> 01:32:42,50 	she raises her violin and bow.
 KARATE_KID.srt 	KARATE_KID_DVS1256 	01:42:06,00 --> 01:42:13,50 	using both hands, someone angles a pole upward, raising someone's hand to his face.
-KARATE_KID.srt 	KARATE_KID_DVS1273 	01:43:04,00 --> 01:43:10,50 	his shadow shows him raise one knee and balance on one leg.
-KARATE_KID.srt 	KARATE_KID_DVS1281 	01:43:31,00 --> 01:43:39,50 	someone steps closer, raising the pole, and lifting the boy's leg into a near-vertical position.
 KARATE_KID.srt 	KARATE_KID_DVS1419 	01:54:33,00 --> 01:54:44,50 	he downs his opponent with two powerful kicks, and the official raises his arm triumphantly.
 KARATE_KID.srt 	KARATE_KID_DVS1436 	01:56:31,00 --> 01:56:39,50 	now, workers unroll a single kung fu mat, on a raised platform in the center of the arena.
-KARATE_KID.srt 	KARATE_KID_DVS1476 	02:00:01,00 --> 02:00:07,50 	the referee raises his flag and the fighting someone lifts his fists.
 KARATE_KID.srt 	KARATE_KID_DVS1534 	02:04:17,00 --> 02:04:23,50 	returning to the center of the mat, he raises the microphone.
 KARATE_KID.srt 	KARATE_KID_DVS1563 	02:06:39,00 --> 02:06:48,50 	the bully's expression hardens and he raises his fists.
 KARATE_KID.srt 	KARATE_KID_DVS1582 	02:08:57,00 --> 02:09:02,50 	raising his fists, he wipes his nose.
 KARATE_KID.srt 	KARATE_KID_DVS1584 	02:09:03,00 --> 02:09:15,50 	raising his hands, someone tensely licks his lips and blinks the sweat out of his eyes.
-KARATE_KID.srt 	KARATE_KID_DVS1613 	02:11:17,00 --> 02:11:26,50 	raising his injured knee to his chest, he lifts both hands before him, palms upturned.
 KATY_PERRY_PART_OF_ME.srt 	KATY_PERRY_PART_OF_ME_DVS47 	00:07:50,00 --> 00:07:55,50 	the platform ascends, raising her to the stage.
 KATY_PERRY_PART_OF_ME.srt 	KATY_PERRY_PART_OF_ME_DVS112 	00:27:05,00 --> 00:27:11,50 	backstage someone and her performers join hands then raise their arms in unison.
-KATY_PERRY_PART_OF_ME.srt 	KATY_PERRY_PART_OF_ME_DVS116 	00:27:37,00 --> 00:27:46,50 	someone steps off an airplane, performers raise their arms in their pre-show circle.
-KATY_PERRY_PART_OF_ME.srt 	KATY_PERRY_PART_OF_ME_DVS320 	01:12:49,00 --> 01:12:57,50 	smiling, she holds the microphone up like a torch as the platform raises her on to the stage.
-KATY_PERRY_PART_OF_ME.srt 	KATY_PERRY_PART_OF_ME_DVS325 	01:14:56,00 --> 01:15:04,50 	smiling at her audience, someone raises one fist in the air, choking back tears.
-KATY_PERRY_PART_OF_ME.srt 	KATY_PERRY_PART_OF_ME_DVS359 	01:24:57,00 --> 01:25:04,50 	dancers pose around someone as she stands center stage with one arm raised straight up.
 KNOCKED_UP.srt 	KNOCKED_UP_DVS34 	00:23:27,00 --> 00:23:32,50 	raising his hands overhead.
 KNOCKED_UP.srt 	KNOCKED_UP_DVS46 	00:28:57,00 --> 00:29:01,50 	someone raises both arms.
 KNOCKED_UP.srt 	KNOCKED_UP_DVS133 	01:21:08,00 --> 01:21:12,50 	leaves with his middle finger raised.
@@ -174,87 +124,53 @@ LARRY_CROWNE.srt 	LARRY_CROWNE_DVS126 	00:29:31,00 --> 00:29:36,50 	someone shyl
 LARRY_CROWNE.srt 	LARRY_CROWNE_DVS181 	00:42:50,00 --> 00:42:56,50 	she raises her window.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS571 	01:03:26,00 --> 01:03:37,50 	he lunges forward, his arms raised and spread.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS586 	01:04:32,00 --> 01:04:37,50 	he raises the whistle to his lips.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS620 	01:07:24,00 --> 01:07:31,50 	he glances around, then beats someone at the side of the boat and raises the hatchet.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS748 	01:17:47,00 --> 01:17:54,50 	someone someone beats his tail against the bench, then sits up and raises a front paw.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS803 	01:22:06,00 --> 01:22:11,50 	facing the ship, he cocks the gun and raises it in the air.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS812 	01:22:53,00 --> 01:23:00,50 	someone raises the flare gun beside his sullen face and fires upward.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS980 	01:36:41,00 --> 01:36:46,50 	he raises his head from the pond and looks around.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS1083 	01:50:09,00 --> 01:50:14,50 	the older man nods and raises his eyebrows.
-LITTLE_FOCKERS.srt 	LITTLE_FOCKERS_DVS240 	01:22:09,00 --> 01:22:17,50 	someone raises his fists and the two men face off.
 MORNING_GLORY.srt 	MORNING_GLORY_DVS94 	00:19:05,00 --> 00:19:09,50 	she raises her brows.
 MORNING_GLORY.srt 	MORNING_GLORY_DVS131 	00:31:25,00 --> 00:31:30,50 	someone raises his brows.
 MORNING_GLORY.srt 	MORNING_GLORY_DVS220 	00:48:51,00 --> 00:48:55,50 	she raises her brows.
-MORNING_GLORY.srt 	MORNING_GLORY_DVS298 	01:05:38,00 --> 01:05:47,50 	she glances disapprovingly at someone, then reads the note, raises her hand, and points upwards.
 MORNING_GLORY.srt 	MORNING_GLORY_DVS326 	01:13:28,00 --> 01:13:34,50 	he raises his brows and shoves a pastry into his mouth.
-MORNING_GLORY.srt 	MORNING_GLORY_DVS407 	01:29:18,00 --> 01:29:25,50 	she eyes him with anticipation wearing a slight smile and raising her brows.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS85 	00:12:59,00 --> 00:13:04,50 	he raises his cell phone.
-MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS359 	00:45:12,00 --> 00:45:19,50 	watching from a parked suv, someone raises a cell phone to his ear.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS124 	00:28:34,00 --> 00:28:48,50 	she produces her walking stick from inside her frock and raises it.
-NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS173 	00:39:17,00 --> 00:39:24,50 	she lifts her brow and raises her stick, then leans it gently against the table.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS439 	01:31:21,00 --> 01:31:27,50 	someone raises her walking stick.
-NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS480 	01:38:15,00 --> 01:38:24,50 	with one arm in a sling, he raises the other in a wave and runs forward.
-NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS100 	00:14:42,00 --> 00:14:47,50 	someone raises his brows and vanessa runs off.
 NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS338 	01:03:45,00 --> 01:03:49,50 	someone raises his eyebrows
 NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS439 	01:19:24,00 --> 01:19:27,50 	as the number comes to a close, dancers surround the male and female leads, someone and someone, and slowly raise their arms.
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS247 	00:58:19,00 --> 00:58:24,50 	everyone raises their hands.
-PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS169 	00:37:05,00 --> 00:37:12,50 	beside him, someone gives a nod and raises his staff in congratulations.
 PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS273 	01:09:35,00 --> 01:09:54,50 	as the hydra spews twinjets of fire at him, he raises the dead woman's sunglasses, exposing her eyes.
-PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS295 	01:13:51,00 --> 01:13:59,50 	with a raised eyebrow someone looks around as he slowly chews, then grins merrily.
 PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS461 	01:50:53,00 --> 01:50:57,50 	then raises his hand.
 PROMETHEUS.srt 	PROMETHEUS_DVS957 	01:45:54,00 --> 01:45:59,50 	the three shipmates raise their arms overhead.
-PROMETHEUS.srt 	PROMETHEUS_DVS1004 	01:49:51,00 --> 01:49:59,50 	pausing at its threshold, she raises the axe and gazes down a brief passageway ending in a sealed door with two small windows.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS180 	00:34:01,00 --> 00:34:24,50 	she swallows, then raises her tender gaze to meet someone's.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS219 	00:40:34,00 --> 00:40:47,50 	inside, someone enters the hallway and raises his gun.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS221 	00:40:50,00 --> 00:41:17,50 	the baby-faced shooter raises a someone gun.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS317 	01:00:51,00 --> 01:01:18,50 	a guard unlocks a barred door, then raises his baton to a second metal door just inside.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS334 	01:03:41,00 --> 01:04:03,50 	with his rifle raised, someone cautiously opens a metal door in the hallway.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS359 	01:08:50,00 --> 01:08:58,50 	someone perches on the side of the car, his gun raised.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS665 	02:05:14,00 --> 02:05:22,50 	burly agent joins the flow of foot traffic with his gun raised.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS288 	01:08:29,00 --> 01:08:41,50 	the noble man raises a magnifying lens and reads news of the french soldiers landing.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS433 	01:47:27,00 --> 01:47:50,50 	in the shed, someone raises her skirts above her knee boot revealing her milky white leg.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS433 	01:47:27,00 --> 01:47:50,50 	as he leans his head toward her raised skirts, a sickened scowl overtakes someone's face and she plunges a dagger into the back of his neck.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS498 	02:05:15,00 --> 02:05:24,50 	standing beside her, he raises his bow.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS503 	02:05:50,00 --> 02:06:03,50 	as he raises her visor, a drop of his blood falls on her pale skin.
-RUBY_SPARKS.srt 	RUBY_SPARKS_DVS219 	00:35:04,00 --> 00:35:09,50 	someone raises her arms and shakes her head.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS405 	01:04:01,00 --> 01:04:07,50 	he halts, raises his hands, and rests them in his lap.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS452 	01:09:35,00 --> 01:09:40,50 	someone raises his beer to his lips.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS462 	01:11:00,00 --> 01:11:05,50 	someone raises her arms over her head.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS487 	01:14:05,00 --> 01:14:13,50 	she meets his gaze and he raises his champagne flute.
-SALT.srt 	SALT_DVS21 	00:03:38,00 --> 00:03:50,50 	as they pass the south korean soldiers at the raised barricade, she blinks tearfully.
 SALT.srt 	SALT_DVS64 	00:13:15,00 --> 00:13:23,50 	a child with a scarred cheek raises his hand.
-SALT.srt 	SALT_DVS301 	00:52:47,00 --> 00:52:54,50 	she raises her hands, aiming the gun harmlessly at the ceiling then lets it drop.
 SALT.srt 	SALT_DVS351 	01:02:29,00 --> 01:02:46,50 	the thugs step aside from the raised hatch.
-SALT.srt 	SALT_DVS489 	01:25:03,00 --> 01:25:16,50 	she drops her emptied handgun and raises an automatic rifle.
-SANCTUM.srt 	SANCTUM_DVS274 	00:55:32,00 --> 00:55:39,50 	the young man climbs up on an underwater ledge and raises his flippered feet.
-SANCTUM.srt 	SANCTUM_DVS537 	01:39:21,00 --> 01:39:28,50 	rise from the valve as he raises it to his lips and takes a hit.
 SANCTUM.srt 	SANCTUM_DVS548 	01:40:52,00 --> 01:40:58,50 	as someone squeezes through a small opening, he raises the canister valve.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS868 	00:57:36,00 --> 00:57:42,50 	someone approaches it, raising a hand over her nose and mouth as she peers out.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1066 	01:11:54,00 --> 01:12:02,50 	she raises her fingers to her lips, shifts her coquettish gaze, and grants him a chaste kiss.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1160 	01:18:44,00 --> 01:18:50,50 	she raises her club and beats the laundry stoically.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1188 	01:20:22,00 --> 01:20:28,50 	clutching the fan in one hand, she raises it to her waist and rests it on her other palm.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1246 	01:23:44,00 --> 01:23:49,50 	she raises her head slowly and looks at someone.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1370 	01:33:37,00 --> 01:33:42,50 	someone hobbles to the raised bed,
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS205 	00:38:52,00 --> 00:39:02,50 	standing in the center of the turnaround-circular platform, someone raises his hands.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS423 	01:29:36,00 --> 01:29:43,50 	she closes her dark-lashed eyes and raises both arms.
-SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS470 	01:39:36,00 --> 01:39:57,50 	taking a seat on one of the steps to the fountain, he thoughtfully raises his hands, then lets them flop back down.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS479 	01:41:12,00 --> 01:41:38,50 	as he raises the necklace, she sweeps her hair out of the way, allowing him to fasten it around her neck.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS67 	00:11:54,00 --> 00:11:59,50 	someone raises her brow.
-SPARKLE_2012.srt 	SPARKLE_2012_DVS72 	00:12:48,00 --> 00:12:54,50 	someone raises her brow, and sets her bible down.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS124 	00:19:52,00 --> 00:19:56,50 	she raises an eyebrow.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS436 	01:11:31,00 --> 01:11:38,50 	behind her, someone raises his belt and brings it down hard on her back.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS454 	01:14:32,00 --> 01:14:39,50 	now rain falls as someone raises her bedroom window and props it open with a red book.
-SUPER_8.srt 	SUPER_8_DVS266 	00:44:58,00 --> 00:45:05,50 	using a joystick someone raises the lift bucket as high as it someone go.
 SUPER_8.srt 	SUPER_8_DVS566 	01:34:22,00 --> 01:34:28,50 	someone raises his hand and hesitates then slaps someone.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS169 	00:25:11,00 --> 00:25:16,50 	snowy raises his head and hits it on the cows utters.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS243 	00:37:07,00 --> 00:37:11,50 	as he raises the bottle into the air
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS444 	01:04:47,00 --> 01:04:55,50 	on the burning ship the pirate stares down at sir someone who raises his sword against an attacker.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS453 	01:06:13,00 --> 01:06:19,50 	face covered by a red bandana, red someone raises his sword.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS579 	01:19:42,00 --> 01:19:51,50 	the falcon breaks of its center mast,snowy raises after the falcon, which grabs the boat model in its talons then drops it on the floor.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS595 	01:21:08,00 --> 01:21:14,50 	someone raises the rocket launcher to his shoulder and aims.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS706 	01:34:13,00 --> 01:34:17,50 	someone raises his hands.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS152 	00:32:45,00 --> 00:32:53,50 	he pleasantly raises his bottle of champagne then backs away disappearing within the crowd.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS156 	00:33:10,00 --> 00:33:15,50 	they all raise shots.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS220 	00:44:09,00 --> 00:44:20,50 	raising her brow, she looks around thoughtfully, then sits up and peeks over at someone.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS231 	00:45:56,00 --> 00:46:01,50 	he raises his gun in front of her face.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS237 	00:46:25,00 --> 00:46:31,50 	someone raises a golf club to let ray pass.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS284 	00:53:05,00 --> 00:53:16,50 	he shifts into park and raises both hands innocently.
@@ -264,18 +180,13 @@ THE_CALL.srt 	THE_CALL_DVS68 	00:03:53,00 --> 00:04:00,50 	she raises her arms a
 THE_CALL.srt 	THE_CALL_DVS1125 	01:24:52,00 --> 01:24:57,50 	he raises the bloody blades to eye level.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS263 	00:41:35,00 --> 00:41:41,50 	someone raises an eyebrow and blinks at his daughter.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS251 	00:29:32,00 --> 00:29:36,50 	gunnar raises his mug.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS588 	01:04:57,00 --> 01:05:04,50 	now helpless, he raises his head and sees himself unfastening his pants on screen.
 THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS78 	00:27:29,00 --> 00:27:34,50 	someone frowns and raises an eyebrow at his mother.
-THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS188 	01:02:23,00 --> 01:02:27,50 	she stands and raises the glass.
 THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS242 	01:18:48,00 --> 01:18:53,50 	someone raises her eyebrows.
 THE_VOW.srt 	THE_VOW_DVS318 	00:42:07,00 --> 00:42:12,50 	someone raises his glass with the others.
 THE_WATCH.srt 	THE_WATCH_DVS86 	00:11:12,00 --> 00:11:16,50 	he raises his own hand.
-THE_WATCH.srt 	THE_WATCH_DVS327 	00:56:45,00 --> 00:56:52,50 	the postal worker leisurely raises his head from a stack of mail and looks directly at him.
 THE_WATCH.srt 	THE_WATCH_DVS353 	01:01:24,00 --> 01:01:33,50 	he notices them, smiles, and raises a can in a toast.
-THE_WATCH.srt 	THE_WATCH_DVS429 	01:18:41,00 --> 01:19:01,50 	in slow motion, he raises his middle finger to his mother, who watches tv in the living room.
 THE_WATCH.srt 	THE_WATCH_DVS448 	01:21:32,00 --> 01:21:38,50 	guns raised, someone and someone patrol another area.
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS34 	00:09:37,00 --> 00:09:42,50 	everyone but someone raises their beer.
-THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS364 	01:28:35,00 --> 01:28:43,50 	on the wall behind her, a framed painting shows a boxer with both gloves raised triumphantly in the air.
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS528 	01:55:54,00 --> 01:56:01,50 	now leslie checks the ball to someone who raises an arm in a signal to his team.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS20 	00:03:00,00 --> 00:03:05,50 	someone hands one off as he raise his pass.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS260 	00:48:38,00 --> 00:48:45,50 	someone raises both hands, someone grabs the wheel.
@@ -285,22 +196,16 @@ THOR.srt 	THOR_DVS263 	00:35:44,00 --> 00:35:51,50 	a bald man grilling hot dogs
 THOR.srt 	THOR_DVS327 	00:48:40,00 --> 00:48:48,50 	after a moments hesitation, someone raises his right fist to his own breast and kneels on one knee.
 THOR.srt 	THOR_DVS377 	00:56:33,00 --> 00:56:41,50 	outside, the crane raises the man with the crossbow above the crater with a direct view of someone.
 THOR.srt 	THOR_DVS406 	01:02:08,00 --> 01:02:14,50 	someone raises his eyes for the first time and glares at someone.
-THOR.srt 	THOR_DVS486 	01:20:25,00 --> 01:20:36,50 	someone raised his sword, but someone unveils the casket and opens it.
 THOR.srt 	THOR_DVS617 	01:33:36,00 --> 01:33:45,50 	as someone raises an ice dagger, a bolt of energy strikes him down.
 THOR.srt 	THOR_DVS630 	01:35:22,00 --> 01:35:28,50 	someone raises someone, but someone knocks him to the floor with a blast from his spear.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS175 	00:23:18,00 --> 00:23:24,50 	someone reluctantly raises his hand and glares at the winged clerk.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS192 	00:25:28,00 --> 00:25:33,50 	someone raises her brow thoughtfully and nods.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS241 	00:31:47,00 --> 00:31:52,50 	someone raises his foot at someone.
-TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS327 	00:38:11,00 --> 00:38:23,50 	in the center of the rink, someone raises his arms to the crowd and lifts a gloved hand to his ear.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS621 	01:08:47,00 --> 01:08:52,50 	someone hesitates, his stick raised and the puck at his feet.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS701 	01:17:33,00 --> 01:17:39,50 	someone stands and raises his arms.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS787 	01:24:34,00 --> 01:24:38,50 	someone shifts his sober gaze, nods, then raises a finger.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS864 	01:31:49,00 --> 01:31:56,50 	the boy arrives at center stage and raises his strumming hand to the guitar strings.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS876 	01:32:56,00 --> 01:33:03,50 	dancing with someone, someone raises her hand high and someone beams.
-TRUE_GRIT.srt 	TRUE_GRIT_DVS55 	00:09:56,00 --> 00:10:01,50 	he smiles and raises his eyebrows.
-TRUE_GRIT.srt 	TRUE_GRIT_DVS260 	00:53:37,00 --> 00:53:45,50 	someone raises his hand to someone who puts someone's coat over the chimney top, stifling the smoke.
-TRUE_GRIT.srt 	TRUE_GRIT_DVS405 	01:20:11,00 --> 01:20:19,50 	he looks away, then raises his eyebrows.
-UGLY_TRUTH.srt 	UGLY_TRUTH_DVS293 	00:29:38,00 --> 00:29:43,50 	he gives someone a proud grin and raises his brow.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS367 	00:43:27,00 --> 00:43:32,50 	she nods and raises the hot dog.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS467 	00:57:20,00 --> 00:57:26,50 	as someone beams at their surroundings, someone raises a cracker.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS488 	01:01:32,00 --> 01:01:37,50 	the producer smiles and raises her glass.
@@ -308,25 +213,16 @@ UGLY_TRUTH.srt 	UGLY_TRUTH_DVS534 	01:11:52,00 --> 01:11:56,50 	he raises her ar
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS575 	01:16:26,00 --> 01:16:32,50 	he strides determinedly to someone's door and raises his fist.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS598 	01:19:25,00 --> 01:19:29,50 	he raises his brow.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS384 	01:00:39,00 --> 01:00:43,50 	someone raises her glass.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS385 	01:00:54,00 --> 01:01:07,50 	he raises his beer bottle in a toast, then shakes his head.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS286 	00:40:21,00 --> 00:40:27,50 	he raises his eyebrows.
-WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS648 	01:29:51,00 --> 01:29:57,50 	who raises his glass and gives a gentle encouraging nod.
-WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS750 	01:40:13,00 --> 01:40:19,50 	behind them, several boys run out to watch, while the wedding guests raise their glasses to the bride and groom.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS162 	00:11:15,00 --> 00:11:21,50 	the blonde approaches the two as they raise their glasses.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS314 	00:23:57,00 --> 00:24:05,50 	as he raises his glass to his lips, the other two follow suit, swapping uneasy looks.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS583 	00:54:45,00 --> 00:54:52,50 	as someone heads to the back, the soldiers inside raise their gun
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS597 	00:55:47,00 --> 00:55:54,50 	as he touches his temple, someone and someone raise their binoculars again.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS803 	01:12:27,00 --> 01:12:33,50 	around the ring-shaped table, officials raise their hands unanimously.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS882 	01:20:39,00 --> 01:20:44,50 	raising his fingers, he wiggles them questioningly.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS983 	01:30:09,00 --> 01:30:16,50 	he leans in and kisses her on the lips, then gently raises his hand to her neck.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1274 	01:54:50,00 --> 01:55:00,50 	with the mutants behind him, someone raises a hand and the rockets stop in mid-air within a 100 feet of the shore.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1337 	02:02:36,00 --> 02:02:42,50 	he kisses her lips, then raises his fingers to his temple.
 YOUNG_ADULT.srt 	YOUNG_ADULT_DVS50 	00:07:11,00 --> 00:07:18,50 	someone raises her head and stares at the birth notice sticking out of her purse on the floor.
-YOUNG_ADULT.srt 	YOUNG_ADULT_DVS155 	00:27:37,00 --> 00:27:43,50 	standing at the bar, someone raises one finger.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS642 	01:12:38,00 --> 01:12:44,50 	someone raises portable air horn above his head.
-ZOMBIELAND.srt 	ZOMBIELAND_DVS652 	01:13:26,00 --> 01:13:31,50 	he grabs a swing and raises his gun.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS708 	01:17:36,00 --> 01:17:41,50 	trembling, he raises his shotgun at a clown zombie.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS716 	01:18:13,00 --> 01:18:20,50 	someone raises the mallet once again and smashes the clown's head.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS731 	01:19:12,00 --> 01:19:16,50 	he raises his brow.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS756 	01:21:10,00 --> 01:21:14,50 	he raises a finger.
-ZOOKEEPER.srt 	ZOOKEEPER_DVS332 	01:14:15,00 --> 01:14:25,50 	someone hits his head on the car's raised scissor door as he tries to climb inside.

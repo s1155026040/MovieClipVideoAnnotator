@@ -1,9 +1,5 @@
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS393 	00:55:20,00 --> 00:55:46,50 	propelling himself off another pillar, someone takes out two vamps in a single swing.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS375 	01:07:40,00 --> 01:07:48,50 	rockets spin three large fins like a fan, propelling the craft into the sky.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS700 	01:07:52,00 --> 01:08:00,50 	now, someone and someone propel their paddleboards over sunlit glassy waters hued a deep peacock blue.
-COLOMBIANA.srt 	COLOMBIANA_DVS440 	00:39:01,00 --> 00:39:06,50 	her feet scramble up the brick wall, propelling her over.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS246 	00:39:10,00 --> 00:39:20,50 	in midair, the missile extinguishes ghost rider's flames, then propels him to the ground.
-SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS271 	00:54:38,00 --> 00:54:44,50 	someone flexes his fingers, then propels his hands forward.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS279 	00:57:04,00 --> 00:57:09,50 	someone propels someone into a stall.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS345 	01:12:19,00 --> 01:12:23,50 	now, someone magically propels four throwing knives at someone.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS865 	01:19:16,00 --> 01:19:21,50 	they propel someone high into the air.

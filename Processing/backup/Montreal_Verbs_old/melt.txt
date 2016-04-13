@@ -1,0 +1,4 @@
+ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS530 	01:15:17,00 --> 01:15:23,50 	in a factory, someone watches workers melt the silver.
+HUGO.srt 	HUGO_DVS694 	01:41:26,00 --> 01:41:31,50 	film strips melt in a bucket.
+JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS150 	00:25:51,00 --> 00:25:55,50 	she melts a chunk in her pan.
+PROMETHEUS.srt 	PROMETHEUS_DVS572 	01:04:08,00 --> 01:04:17,50 	as he straightens, his melting helmet collapses on his face.

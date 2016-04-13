@@ -1,0 +1,4 @@
+LARRY_CROWNE.srt 	LARRY_CROWNE_DVS26 	00:07:57,00 --> 00:08:16,50 	later, he gazes worriedly into the mirror, as he blots his skin with a towel.
+LIFE_OF_PI.srt 	LIFE_OF_PI_DVS521 	00:57:06,00 --> 00:57:16,50 	as the boat and raft float of gently rolling waves, the clouds gradually blot out the moonlight leaving the boy and tiger in darkness.
+PROMETHEUS.srt 	PROMETHEUS_DVS925 	01:41:48,00 --> 01:41:58,50 	smoke blasts from a circle of ports, blotting out our view of the ship's underbelly.
+ROBIN_HOOD.srt 	ROBIN_HOOD_DVS451 	01:52:30,00 --> 01:52:41,50 	the fire and smoke soon blot the dead nobleman from view.

@@ -1,20 +1,6 @@
-BRUNO.srt 	BRUNO_DVS19 	00:03:58,00 --> 00:04:03,50 	a bespectacled man holds a cup.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS353 	00:32:56,00 --> 00:33:00,50 	the bespectacled kid wipes out.
-COLOMBIANA.srt 	COLOMBIANA_DVS949 	01:31:25,00 --> 01:31:34,50 	now as we peer down a hallway's polished floor, we find a portly bespectacled man marching toward us, a briefcase in hand.
-GET_HIM_TO_THE_GREEK.srt 	GET_HIM_TO_THE_GREEK_DVS131 	01:18:54,00 --> 01:19:07,50 	the musician gazes at the cheerful bespectacled boy
-HUGO.srt 	HUGO_DVS484 	01:11:30,00 --> 01:11:35,50 	a bearded bespectacled man stand behind them.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS546 	01:37:24,00 --> 01:37:32,50 	a bespectacled it man works at a computer.
-JACK_AND_JILL.srt 	JACK_AND_JILL_DVS36 	00:03:27,00 --> 00:03:35,50 	now at a commercial shoot, a dark-haired man sits in the producer's chair, followed by a bespectacled assistant.
-JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS497 	01:36:10,00 --> 01:36:19,50 	they peer across the terminal to an entrance, where a bespectacled woman in a plaid jacket hurries in and stops.
-JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS125 	00:45:05,00 --> 00:45:12,50 	a bespectacled someone kisses someone on the lips until she pushes him off.
 PROMETHEUS.srt 	PROMETHEUS_DVS206 	00:14:45,00 --> 00:14:49,50 	a bespectacled man sits.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS106 	00:17:42,00 --> 00:17:47,50 	hoover whispers to a bespectacled man.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS107 	00:18:11,00 --> 00:18:19,50 	out with the bespectacled suydam and a slender young man.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS734 	00:48:43,00 --> 00:48:49,50 	the bespectacled man produces and envelope and hands it to her.
-SUPER_8.srt 	SUPER_8_DVS91 	00:15:13,00 --> 00:15:21,50 	the tall bespectacled someone wearing a suit, tie, and brimmed hat stares trance-like at someone.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS72 	00:06:10,00 --> 00:06:18,50 	now a bespectacled old man waits in a conference room with a stylish businessman.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS667 	01:13:05,00 --> 01:13:10,50 	the bespectacled man steps inside.
-THE_SITTER.srt 	THE_SITTER_DVS73 	00:40:41,00 --> 00:40:47,50 	the bespectacled man faces his older son.
 THOR.srt 	THOR_DVS274 	00:36:42,00 --> 00:36:46,50 	bespectacled someone stares at him.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS423 	00:36:47,00 --> 00:36:54,50 	now a bespectacled young man shows a model of the stealth jet.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1027 	01:32:39,00 --> 01:32:48,50 	the bespectacled mutant steps out of the shadows to reveal his pale-blue face framed by a coat of blue fur.

@@ -1,17 +1,16 @@
-0007_DIE_NACHT_DES_JAEGERS_00.24.30.257-00.24.32.933 	The hand named LOVE and the hand named HATE come in to straighten the necktie.
-0007_DIE_NACHT_DES_JAEGERS_00.47.39.439-00.47.41.691 	JOHN looks to PEARL and we PAN HER IN as PREACHER'S hand named LOVE moves through her locks.
-0009_Forrest_Gump_00.22.35.881-00.22.38.314 	An anchorman named CHET HUNTLEY appears over the television.
-0009_Forrest_Gump_00.43.05.471-00.43.08.288 	Lt. Dan steps over to a large black soldier named SERGEANT.
-0009_Forrest_Gump_01.07.57.077-01.07.58.285 	A Black Panther, named RUBEN, steps over and pulls the shades down.
-0009_Forrest_Gump_01.08.02.615-01.08.05.507 	Another Black Panther named MASAI grabs Forrest and pats him down.
-0009_Forrest_Gump_01.19.46.668-01.19.51.131 	Two sleazy women, named LENORE and CARLA, walk up to Lt. Dan.
-0009_Forrest_Gump_01.27.00.862-01.27.05.755 	Bubba's mother named MRS. BLUE and her other children look at Forrest.
-0019_Pulp_Fiction_00.26.59.398-00.27.09.883 	Jody, Vincent and a young woman named TRUDI sit at the kitchen table of a suburban house in Echo Park.
-0026_The_Big_Fish_00.30.56.316-00.30.56.753 	A forty-year old man named BEAMEN comes out of the seed store to greet Edward.
-0026_The_Big_Fish_00.31.14.504-00.31.17.345 	A helpful woman named MILDRED chimes in.
-0030_The_Hustler_01.18.16.573-01.18.20.874 	Then one of the other men steps forward, a thick-fleshed, obscene-looking man named Turk.
-0032_The_Princess_Bride_00.58.02.472-00.58.03.510 	Count Rugen, dragging Westley up alongside the thing--Levers and wheels and wires, you name it, it's there.
-0043_Thelma_and_Luise_00.16.22.118-00.16.26.179 	Louise has been dancing with a quiet guy named DAN.
-2026_Legion_00.10.37.027-00.10.45.047 	behind the counter, a black man named percy walker (60's) is cooking up a storm on the grill with spectacular one-handed dexterity.
+0007_DIE_NACHT_DES_JAEGERS_00.24.30.257-00.24.32.933 	the hand named love and the hand named hate come in to straighten the necktie.
+0007_DIE_NACHT_DES_JAEGERS_00.47.39.439-00.47.41.691 	john looks to pearl and we pan her in as preacher's hand named love moves through her locks.
+0009_Forrest_Gump_00.22.35.881-00.22.38.314 	an anchorman named chet huntley appears over the television.
+0009_Forrest_Gump_00.43.05.471-00.43.08.288 	lt. dan steps over to a large black soldier named sergeant.
+0009_Forrest_Gump_01.07.57.077-01.07.58.285 	a black panther, named ruben, steps over and pulls the shades down.
+0009_Forrest_Gump_01.08.02.615-01.08.05.507 	another black panther named masai grabs forrest and pats him down.
+0009_Forrest_Gump_01.19.46.668-01.19.51.131 	two sleazy women, named lenore and carla, walk up to lt. dan.
+0009_Forrest_Gump_01.27.00.862-01.27.05.755 	bubba's mother named mrs. blue and her other children look at forrest.
+0019_Pulp_Fiction_00.26.59.398-00.27.09.883 	jody, vincent and a young woman named trudi sit at the kitchen table of a suburban house in echo park.
+0026_The_Big_Fish_00.30.56.316-00.30.56.753 	a forty-year old man named beamen comes out of the seed store to greet edward.
+0026_The_Big_Fish_00.31.14.504-00.31.17.345 	a helpful woman named mildred chimes in.
+0030_The_Hustler_01.18.16.573-01.18.20.874 	then one of the other men steps forward, a thick-fleshed, obscene-looking man named turk.
+0032_The_Princess_Bride_00.58.02.472-00.58.03.510 	count rugen, dragging westley up alongside the thing--levers and wheels and wires, you name it, it's there.
+0043_Thelma_and_Luise_00.16.22.118-00.16.26.179 	louise has been dancing with a quiet guy named dan.
 2026_Legion_00.10.37.027-00.10.45.047 	behind the counter, a black man named percy walker (60's) is cooking up a storm on the grill with spectacular one-handed dexterity.
 2041_This_is_40_01.13.07.930-01.13.09.428 	debbie is talking to a hockey player named jay who is twenty- four and cute.

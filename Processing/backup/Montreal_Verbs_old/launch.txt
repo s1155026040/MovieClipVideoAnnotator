@@ -1,0 +1,24 @@
+21_JUMP_STREET.srt 	21_JUMP_STREET_DVS580 	01:31:05,00 --> 01:31:14,50 	as the bikers and dea agents launch into a gunfight, someone takes more bullets.
+40_YEAR_OLD_VIRGIN.srt 	40_YEAR_OLD_VIRGIN_DVS162 	01:21:37,00 --> 01:21:45,50 	his front tire hits a pothole when he gets launched over the handle
+A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS296 	00:25:36,00 --> 00:25:46,50 	he accelerates through the off-ramp's concrete wall, plummeting 15 feet on to a taxi, which launches upward into the overpass.
+A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS487 	00:47:31,00 --> 00:47:38,50 	someone chucks the remaining carrot aside, then launches into a soft shoe dance.
+CHRONICLE.srt 	CHRONICLE_DVS417 	01:01:51,00 --> 01:01:57,50 	someone launches himself into the air and grabs the camera.
+DISTRICT_9.srt 	DISTRICT_9_DVS732 	01:26:29,00 --> 01:26:36,50 	a projectile the size of a soda can launches.
+EASY_A.srt 	EASY_A_DVS29 	00:07:42,00 --> 00:07:56,50 	launching off a trampoline, he flips and dunks a basketball then hangs from the hoop.
+EASY_A.srt 	EASY_A_DVS33 	00:08:23,00 --> 00:08:29,50 	he launches off the trampoline for a dunk, but falls on his face.
+GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS27 	00:04:10,00 --> 00:04:29,50 	he shoots out the hatchback's rear window, then the motorcycle's back tire, launching someone over a safety railing.
+IN_TIME.srt 	IN_TIME_DVS955 	01:40:30,00 --> 01:40:38,50 	someone launches into his arms.
+IRON_MAN_2.srt 	IRON_MAN_2_DVS652 	01:49:28,00 --> 01:49:43,50 	a thruster ignites on the back of the missile and launches it toward someone.
+KARATE_KID.srt 	KARATE_KID_DVS165 	00:13:39,00 --> 00:13:49,50 	someone's teammate passes to him and he launches the ball into the air.
+KARATE_KID.srt 	KARATE_KID_DVS1369 	01:50:27,00 --> 01:50:39,50 	as someone watches, the boy crouches, then launches his foot upward.
+MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS349 	00:44:17,00 --> 00:44:24,50 	reaching a smooth silver sculpture, the penguins launch into the air.
+NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS14 	00:03:52,00 --> 00:04:01,50 	dirty water gets launched from a barn doorway.
+PROMETHEUS.srt 	PROMETHEUS_DVS1028 	01:51:54,00 --> 01:52:01,50 	the mouth launches a serpentine appendage down the engineer's throat.
+SUPER_8.srt 	SUPER_8_DVS112 	00:18:10,00 --> 00:18:18,50 	one train car slams into the back of a tanker car launching the cylindrical tank into the sky.
+THE_WATCH.srt 	THE_WATCH_DVS521 	01:31:32,00 --> 01:31:39,50 	a smoky blast launches the refrigerator across the room.
+TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS307 	00:36:45,00 --> 00:36:52,50 	someone scurries across the kitchen and launches himself against the plastic cat door flap.
+WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS816 	01:54:38,00 --> 01:54:53,50 	and a woman a launches her own identical one.
+XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS658 	01:00:16,00 --> 01:00:24,50 	warheads soar around a globe, launching from the united states and landing in russia.
+XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS701 	01:03:23,00 --> 01:03:32,50 	someone launches his captive into the air and the team fires.
+XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1068 	01:36:39,00 --> 01:36:44,50 	a rocket launches from the ship.
+ZOMBIELAND.srt 	ZOMBIELAND_DVS603 	01:09:30,00 --> 01:09:37,50 	the seats launch up the tower then gently drift back down.

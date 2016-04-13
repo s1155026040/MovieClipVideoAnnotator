@@ -1,22 +1,11 @@
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS671 	01:41:40,00 --> 01:41:45,50 	she cracks a smile.
-30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS136 	00:37:37,00 --> 00:37:43,50 	they peer through a cracked open window at a maroon datsun inside.
 CHRONICLE.srt 	CHRONICLE_DVS379 	00:58:05,00 --> 00:58:09,50 	he cracks his knuckles.
-DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS376 	01:32:10,00 --> 01:32:15,50 	someone, someone and someone are cracking up.
-DISTRICT_9.srt 	DISTRICT_9_DVS708 	01:23:05,00 --> 01:23:17,50 	in the transport, someone stands with his arms bound behind him, and peers out a cracked window at the abduction.
-IN_TIME.srt 	IN_TIME_DVS925 	01:37:37,00 --> 01:37:43,50 	a wide view shows someone and someone running on cracked pavement.
-JACK_AND_JILL.srt 	JACK_AND_JILL_DVS111 	00:22:55,00 --> 00:23:00,50 	watching the movie, the twins crack up.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS159 	00:28:34,00 --> 00:28:38,50 	she cracks an egg into the water.
-KARATE_KID.srt 	KARATE_KID_DVS1237 	01:41:16,00 --> 01:41:21,50 	he circles around the front of the car, watching someone through the cracked windshield.
-KNOCKED_UP.srt 	KNOCKED_UP_DVS151 	01:34:43,00 --> 01:34:48,50 	she nods to herself then cracks up.
 LARRY_CROWNE.srt 	LARRY_CROWNE_DVS204 	00:47:12,00 --> 00:47:16,50 	now someone cracks an egg.
 LITTLE_FOCKERS.srt 	LITTLE_FOCKERS_DVS154 	00:54:39,00 --> 00:54:47,50 	daytime, someone peers out the cracked open door of the guest bedroom while on his cell.
-MORNING_GLORY.srt 	MORNING_GLORY_DVS323 	01:12:01,00 --> 01:12:06,50 	watching the tv, the attendant is cracking up.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS433 	01:22:44,00 --> 01:22:57,50 	someone closes his door most of the way, but leaves it cracked open.
 SALT.srt 	SALT_DVS288 	00:50:38,00 --> 00:50:56,50 	in the crypt, a door cracks open and someone peeks out.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS546 	00:36:33,00 --> 00:36:39,50 	someone spies on him from a cracked open door.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS565 	01:33:17,00 --> 01:33:21,50 	someone cracks a smile.
-SUPER_8.srt 	SUPER_8_DVS464 	01:21:35,00 --> 01:21:41,50 	the rifle fires a dart which strikes the glass door of the holding cell cracking it.
-SUPER_8.srt 	SUPER_8_DVS481 	01:23:07,00 --> 01:23:12,50 	someone glances up at a cracked window.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS570 	01:19:01,00 --> 01:19:06,50 	the lenses of someone salaad's eyeglasses crack.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS80 	00:18:10,00 --> 00:18:20,50 	he cracks a smile.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1174 	02:05:28,00 --> 02:05:34,50 	someone studies his prisoner, cracking a subtle smile.
@@ -24,8 +13,4 @@ THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS33 	00:09:42,00 --> 00:09:45,50 	h
 THE_VOW.srt 	THE_VOW_DVS248 	00:31:15,00 --> 00:31:19,50 	someone cracks up.
 THE_VOW.srt 	THE_VOW_DVS463 	01:06:38,00 --> 01:06:42,50 	they both crack up.
 THOR.srt 	THOR_DVS660 	01:39:09,00 --> 01:39:15,50 	he swings his hammer down upon the bridge, cracking it.
-TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS139 	00:17:29,00 --> 00:17:34,50 	she leans and someone mimes cracking an egg.
-TRUE_GRIT.srt 	TRUE_GRIT_DVS463 	01:30:58,00 --> 01:31:05,50 	the man tumbles from his horse, cracking his head against a rock in a shower of blood.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS742 	01:46:14,00 --> 01:46:21,50 	panting, he stares back, then cracks an undaunted smile.
-WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS296 	00:40:49,00 --> 00:40:54,50 	she shoots a look at someone, who cracks up.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS708 	01:03:58,00 --> 01:04:06,50 	in the atrium, someone stomps his foot and a glowing pulse of energy cracks the floor underneath.

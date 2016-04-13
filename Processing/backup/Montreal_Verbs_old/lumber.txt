@@ -1,0 +1,5 @@
+GREEN_ZONE.srt 	GREEN_ZONE_DVS450 	01:38:37,00 --> 01:38:43,50 	someone gives someone a parting look then lumbers away.
+GREEN_ZONE.srt 	GREEN_ZONE_DVS470 	01:42:38,00 --> 01:42:51,50 	turning away, the soldier lumbers out.
+LARRY_CROWNE.srt 	LARRY_CROWNE_DVS272 	01:05:06,00 --> 01:05:12,50 	he lumbers on to the sidewalk and approaches the apartment building.
+THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS506 	00:56:55,00 --> 00:57:00,50 	she lumbers up a flight of outdoor stairs.
+WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS262 	00:42:55,00 --> 00:43:00,50 	he lumbers wearily with the bucket and butter.

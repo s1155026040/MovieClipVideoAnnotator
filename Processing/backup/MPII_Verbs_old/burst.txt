@@ -1,112 +1,79 @@
-0002_As_Good_As_It_Gets_00.06.30.072-00.06.31.856 	He burst from his chair.
-0002_As_Good_As_It_Gets_00.40.59.015-00.41.02.758 	Melvin bursts in on the psychiatrist and emits one word.
-0005_Chinatown_00.17.28.615-00.17.37.088 	Gittes comes bursting in, slapping a newspapers on his thigh.
-0012_Get_Shorty_01.05.32.396-01.05.33.440 	As Bones bursts out of the john and grabs the phone.
-0016_O_Brother_Where_Art_Thou_00.14.47.469-00.14.51.806 	The car speeds for the far wall, sheeted in flame, and bursts through.
-0016_O_Brother_Where_Art_Thou_00.26.49.447-00.26.53.046 	A caravan of two oversize cars is pulling into the lot just as Tommy and the three convicts burst out of the station door, whooping it up.
-0016_O_Brother_Where_Art_Thou_01.06.02.226-01.06.16.134 	At his whistle the back doors burst open and a line of chained men trot in at double-time.
-0017_Pianist_00.29.45.562-00.29.46.831 	The SS men burst in, machine pistols at the ready.
-0020_Raising_Arizona_00.18.15.176-00.18.19.014 	Ed suddenly bursts out crying.
-0020_Raising_Arizona_00.28.24.991-00.28.25.979 	As the Biker roars away, the foreground flower bends with his draft and then bursts into flame.
-0020_Raising_Arizona_00.40.24.129-00.40.25.631 	Glen bursts out laughing; Hi walks on in silence.
-0020_Raising_Arizona_00.44.59.737-00.45.00.529 	Hi bursts out the door, still wearing the stocking.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.27.14.289-00.27.20.890 	NINE BLACK RIDERS burst out of Minas Morgul and charge toward Camera.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.48.08.906-00.48.10.962 	SUDDENLY, A RINGWRAITH bursts out of the forest TOWARD THEM.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.45.56.292-02.46.01.220 	Sam bursts through the trees and runs toward the lake.Frodo is already paddling away.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.47.39.706-00.47.41.102 	GANDALF as the BEACONS burst into FLAMES.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.49.36.942-00.49.39.853 	ARAGORN bursts into the GOLDEN HALL.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.11.49.955-02.11.57.319 	MERRY'S SWORD bursts into FLAME and his ARM is shot with PAIN.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.47.40.906-02.47.42.472 	The SKIES burst into THUNDER, seared with LIGHTNING.
-0026_The_Big_Fish_00.48.17.618-00.48.17.867 	A foot suddenly bursts out from within.
-0026_The_Big_Fish_01.43.22.879-01.43.27.297 	Shoots burst up through the planks in the porch.
-0030_The_Hustler_01.52.58.462-01.53.07.122 	He bursts into the room, goes past Sarah, stretched out on the bed, and takes the money out of her purse.
-0031_The_Lost_Weekend_01.26.10.665-01.26.13.444 	Don cries out so hard his throat seems to burst apart, buries his horrified eyes in the back of his chair.
-0032_The_Princess_Bride_00.01.10.582-00.01.12.297 	THE KID'S GRANDFATHER bursting into the room.
-0032_The_Princess_Bride_00.41.59.567-00.42.01.612 	He examines where the flames burst over her.
-0032_The_Princess_Bride_00.44.58.325-00.45.05.166 	THE LIGHTNING SAND, as Westley, lungs long past the bursting point, explodes out; he has Buttercup across his shoulders and as he pulls to the edge of the lightning sand pit, using the vine.
-0032_The_Princess_Bride_00.54.39.865-00.54.46.695 	BUTTERCUP, bursting into the Prince's chambers.
-0033_Amadeus_00.31.28.655-00.31.30.318 	Embarrassed, Mozart bursts into a wild giggle.
-0033_Amadeus_01.31.03.324-01.31.07.935 	To its lively music, the door of the house bursts open and a grand forte-piano augmented with a pedal is carried out of it by six men, who run off with it down the street.
-0033_Amadeus_02.00.36.620-02.00.38.316 	Flames burst from obviously artificial rocks.
-0053_Rendezvous_mit_Joe_Black_01.30.39.409-01.30.57.246 	She bursts into tears all over again.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.02.07.919-00.02.10.065 	It bursts into flames.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.20.42.991-01.20.44.696 	They attack the Weasley house, which bursts into flames.
-1003_How_to_Lose_Friends_and_Alienate_People_00.05.45.780-00.05.51.610 	She bursts out laughing and pats him at the thigh.
-1003_How_to_Lose_Friends_and_Alienate_People_01.39.04.059-01.39.09.242 	Clayton bursts out laughing, then sharply resumes a serious look.
-1004_Juno_01.29.24.413-01.29.25.149 	Trees are bursting with blossom as the track team jogged down a winding path.
-1006_Slumdog_Millionaire_00.55.27.275-00.55.28.861 	The boys burst into the room.
-1006_Slumdog_Millionaire_01.48.29.337-01.48.30.840 	Javed bursts in.
+0001_American_Beauty_01.23.38.575-01.23.40.266 	we're almost on top of the burnham house now, as lester, wearing sweatpants and running shoes, bursts out of the front door and dashes up the driveway.
+0002_As_Good_As_It_Gets_00.06.30.072-00.06.31.856 	he burst from his chair.
+0005_Chinatown_00.17.28.615-00.17.37.088 	gittes comes bursting in, slapping a newspapers on his thigh.
+0007_DIE_NACHT_DES_JAEGERS_01.25.32.922-01.25.36.300 	the doll has burst open and the money has spilled over preacher.
+0011_Gandhi_00.26.19.702-00.26.23.436 	and again the audience bursts into applause.
+0011_Gandhi_02.31.01.843-02.31.09.129 	she looks at them soberly and then they all burst into laughter like girls.
+0012_Get_Shorty_01.05.32.396-01.05.33.440 	as bones bursts out of the john and grabs the phone.
+0016_O_Brother_Where_Art_Thou_00.26.49.447-00.26.53.046 	a caravan of two oversize cars is pulling into the lot just as tommy and the three convicts burst out of the station door, whooping it up.
+0016_O_Brother_Where_Art_Thou_01.06.02.226-01.06.16.134 	at his whistle the back doors burst open and a line of chained men trot in at double-time.
+0017_Pianist_00.29.45.562-00.29.46.831 	the ss men burst in, machine pistols at the ready.
+0019_Pulp_Fiction_01.52.42.813-01.52.48.889 	bursting out the door and blowing them all away while they're fuckin' around is the way to go.
+0020_Raising_Arizona_00.18.15.176-00.18.19.014 	ed suddenly bursts out crying.
+0020_Raising_Arizona_00.28.24.991-00.28.25.979 	as the biker roars away, the foreground flower bends with his draft and then bursts into flame.
+0020_Raising_Arizona_00.33.29.729-00.33.31.615 	crash - the bathroom door flies open as the biker bursts in astride his hog, bright daylight streaming in with him to throw him into imposing silhouette.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.27.14.289-00.27.20.890 	nine black riders burst out of minas morgul and charge toward camera.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.48.08.906-00.48.10.962 	suddenly, a ringwraith bursts out of the forest toward them.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.47.39.706-00.47.41.102 	gandalf as the beacons burst into flames.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.11.49.955-02.11.57.319 	merry's sword bursts into flame and his arm is shot with pain.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.47.40.906-02.47.42.472 	the skies burst into thunder, seared with lightning.
+0026_The_Big_Fish_00.48.17.618-00.48.17.867 	a foot suddenly bursts out from within.
+0026_The_Big_Fish_01.43.22.879-01.43.27.297 	shoots burst up through the planks in the porch.
+0030_The_Hustler_01.52.58.462-01.53.07.122 	he bursts into the room, goes past sarah, stretched out on the bed, and takes the money out of her purse.
+0031_The_Lost_Weekend_01.26.10.665-01.26.13.444 	don cries out so hard his throat seems to burst apart, buries his horrified eyes in the back of his chair.
+0032_The_Princess_Bride_00.01.10.582-00.01.12.297 	the kid's grandfather bursting into the room.
+0032_The_Princess_Bride_00.54.39.865-00.54.46.695 	buttercup, bursting into the prince's chambers.
+0033_Amadeus_01.21.57.662-01.21.58.957 	everybody bursts into applause.
+0033_Amadeus_01.31.03.324-01.31.07.935 	to its lively music, the door of the house bursts open and a grand forte-piano augmented with a pedal is carried out of it by six men, who run off with it down the street.
+0053_Rendezvous_mit_Joe_Black_01.30.39.409-01.30.57.246 	she bursts into tears all over again.
+1002_Harry_Potter_and_the_Half-Blood_Prince_00.02.07.919-00.02.10.065 	it bursts into flames.
+1002_Harry_Potter_and_the_Half-Blood_Prince_00.41.36.448-00.41.37.813 	the wardrobe by the door bursts into flames.
+1002_Harry_Potter_and_the_Half-Blood_Prince_01.20.42.991-01.20.44.696 	they attack the weasley house, which bursts into flames.
+1003_How_to_Lose_Friends_and_Alienate_People_00.05.45.780-00.05.51.610 	she bursts out laughing and pats him at the thigh.
+1003_How_to_Lose_Friends_and_Alienate_People_01.39.04.059-01.39.09.242 	clayton bursts out laughing, then sharply resumes a serious look.
+1004_Juno_01.29.24.413-01.29.25.149 	trees are bursting with blossom as the track team jogged down a winding path.
 1008_Spider-Man2_00.43.15.429-00.43.19.080 	the sphere implodes, then bursts into a cloud of fiery particles before imploding again.
-1010_TITANIC_01.31.03.830-01.31.05.497 	lovejoy bursts into another room.
-1011_The_Help_00.49.31.248-00.49.33.547 	celia bursts barefoot through the door with a cheery wave.
-1011_The_Help_01.00.42.116-01.00.47.313 	skeeter bursts excitedly through her door in her pajamas almost slipping on the stairs.
+1010_TITANIC_02.22.19.831-02.22.24.339 	the man picks up a suitcase, then gapes at the door, which bursts.
 1011_The_Help_01.25.48.595-01.25.50.860 	she burst through the bathroom door and finds celia sitting in a pool of blood.
 1015_27_Dresses_00.11.55.242-00.12.02.070 	at her apartment jane is wrestling the evening's dresses into a closet filled to bursting with a colorful riot of party gowns.
-1018_Body_Of_Lies_01.01.07.628-01.01.08.821 	golden flames burst from the windows and rise from the roof.
 1019_Confessions_Of_A_Shopaholic_01.04.17.636-01.04.31.845 	she struts away coolly, then bursts into a run and dives into a lift.
 1019_Confessions_Of_A_Shopaholic_01.17.48.586-01.17.51.221 	suze bursts out of the front door to meet her.
+1024_Identity_Thief_00.30.57.810-00.31.03.591 	sandy and diana bolt as the woman bursts in with her male partner wielding a short gun.
 1027_Les_Miserables_02.02.11.060-02.02.11.691 	soldiers burst into the building with guns blazing.
 1029_Pride_And_Prejudice_Disk_One_01.52.17.790-01.52.20.168 	they burst through the front door.
-1030_Public_Enemies_00.41.29.814-00.41.31.453 	back indoors, purvis bursts into the apartment.
-1031_Quantum_of_Solace_00.01.14.032-00.01.17.216 	the tire on a truck bursts and gets swerved into the aston's path sliding along the wall as james bond, the steely-eyed aston driver bakes hard.
 1031_Quantum_of_Solace_00.12.49.704-00.12.54.685 	he bursts into a room, runs through the apartment and sees mitchell climbing onto another roof a short distance away.
 1031_Quantum_of_Solace_00.45.02.497-00.45.05.791 	he tips over a pan of oil which bursts into flames and gets past the gunman as the hero dies bloodily on stage.
 1031_Quantum_of_Solace_01.18.43.876-01.18.46.096 	he bursts into the bedroom.
 1033_Sherlock_Holmes_A_Game_of_Shadows_00.29.43.136-00.29.46.855 	the corsac bursts up out of the sand and grabs him.
 1034_Super_8_01.17.22.173-01.17.26.339 	air force soldiers burst in on the boys.
 1034_Super_8_01.39.06.200-01.39.07.515 	suddenly, the back of one of the military container lorries bursts open and the white cubes flood out of it.
-1035_The_Adjustment_Bureau_01.25.16.276-01.25.21.041 	david bursts out a door with a brief stumble and dashes down a rainy alleyway.
 1035_The_Adjustment_Bureau_01.27.13.938-01.27.16.291 	he bursts into the ladies room.
-1039_The_Queen_01.15.33.421-01.15.36.042 	alastair bursts into tony's office.
 1041_This_is_40_01.16.28.585-01.16.32.168 	he bursts into tears all over again.
 1044_Pride_And_Prejudice_Disk_Two_01.33.19.024-01.33.21.648 	she bursts into mrs. bennet's room.
 1044_Pride_And_Prejudice_Disk_Two_02.09.41.541-02.09.42.954 	she bursts into lizzie's room.
 1045_An_education_01.05.42.884-01.05.46.237 	gray hounds burst out of starting gates into the track.
+1047_Defiance_01.22.32.061-01.22.35.746 	a policeman bursts in and plants benzion with bullets.
 1049_Harry_Potter_and_the_chamber_of_secrets_01.15.09.396-01.15.14.050 	to his dismay, it suddenly bursts into flames.
 1049_Harry_Potter_and_the_chamber_of_secrets_02.28.40.900-02.28.45.805 	the doors burst open and hagrid appears.
-1051_Harry_Potter_and_the_goblet_of_fire_00.35.16.781-00.35.21.470 	dumbledore bursts into the room, followed by karkaroff, snape, crouch, moody, professor mcgonagall, and madame maxime.
-1051_Harry_Potter_and_the_goblet_of_fire_00.48.10.633-00.48.14.558 	huge flames burst from four enormous crates standing in a clearing.
 1051_Harry_Potter_and_the_goblet_of_fire_00.55.02.001-00.55.05.612 	she bursts in and throws her arms around his neck.
 1051_Harry_Potter_and_the_goblet_of_fire_00.59.54.327-01.00.00.018 	he bursts out through the stands over the heads of the startled onlookers, wings tearing through the canopy, scattering professors.
 1051_Harry_Potter_and_the_goblet_of_fire_01.28.10.114-01.28.14.256 	he bursts to the surface.
 1051_Harry_Potter_and_the_goblet_of_fire_02.10.55.782-02.11.02.616 	mr. diggory bursts through the spectators.
-1051_Harry_Potter_and_the_goblet_of_fire_02.15.12.595-02.15.16.357 	the door bursts open, and moody is flung hard against the stone wall.
-1052_Harry_Potter_and_the_order_of_phoenix_00.35.13.509-00.35.16.851 	it burst into flames.
 1052_Harry_Potter_and_the_order_of_phoenix_01.36.51.140-01.37.02.301 	the dragon bursts out after her and explodes destroying the hundreds of decrees that filch has nailed to the wall.
 1052_Harry_Potter_and_the_order_of_phoenix_01.59.49.524-01.59.52.564 	he bursts out.
 1053_Harry_Potter_and_the_philosophers_stone_00.12.03.000-00.12.14.000 	more letters burst through the letterbox.
-1053_Harry_Potter_and_the_philosophers_stone_01.08.27.326-01.08.35.170 	suddenly, professor quirrell bursts into the hall.
-1053_Harry_Potter_and_the_philosophers_stone_01.10.27.164-01.10.28.823 	the boys burst into the bathroom.
-1053_Harry_Potter_and_the_philosophers_stone_01.40.18.545-01.40.26.680 	the huge egg, shredders and twitches and suddenly bursts open.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_00.05.06.617-00.05.08.136 	she bursts out of the chair.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_01.40.09.785-01.40.16.882 	he bursts out of his clothes.
 1056_Rambo_00.25.59.769-00.26.15.038 	from his own boat, he tosses the lighter into the pirate boat, which bursts into flame.
-1057_Seven_pounds_01.41.02.406-01.41.11.786 	soaked to the skin, tim bursts into a hospital corridor and strides down it to the nurses' station.
 1060_Yes_man_01.05.11.061-01.05.22.841 	he bursts into the tall, red brick apartment building and runs up a central staircase.
-1060_Yes_man_01.05.22.044-01.05.24.886 	carl bursts into an apartment.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.21.13.075-00.21.18.675 	the dragon bursts through a grating in the floor.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.21.33.000-00.21.40.290 	the three cling on as the dragon bursts its way through a glass dome onto the roof.
+1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.55.35.278-00.55.36.631 	death eaters burst in to a tower.
 1062_Day_the_Earth_stood_still_01.20.13.466-01.20.17.993 	they burst open and one is hurled high in the air.
+2012_Unbreakable_00.36.41.719-00.36.43.740 	the walkie talkie on david's hip bursts to life.
 2017_Bad_Santa_01.30.44.123-01.30.46.335 	willie bursts out onto the loading dock still holding the elephant.
-2026_Legion_00.03.20.944-00.03.24.926 	michael bursts in.
-1052_Harry_Potter_and_the_order_of_phoenix_01.59.49.524-01.59.52.564 	he bursts out.
-1053_Harry_Potter_and_the_philosophers_stone_00.12.03.000-00.12.14.000 	more letters burst through the letterbox.
-1053_Harry_Potter_and_the_philosophers_stone_01.08.27.326-01.08.35.170 	suddenly, professor quirrell bursts into the hall.
-1053_Harry_Potter_and_the_philosophers_stone_01.10.27.164-01.10.28.823 	the boys burst into the bathroom.
-1053_Harry_Potter_and_the_philosophers_stone_01.40.18.545-01.40.26.680 	the huge egg, shredders and twitches and suddenly bursts open.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.05.06.617-00.05.08.136 	she bursts out of the chair.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_01.40.09.785-01.40.16.882 	he bursts out of his clothes.
-1056_Rambo_00.25.59.769-00.26.15.038 	from his own boat, he tosses the lighter into the pirate boat, which bursts into flame.
-1057_Seven_pounds_01.41.02.406-01.41.11.786 	soaked to the skin, tim bursts into a hospital corridor and strides down it to the nurses' station.
-1060_Yes_man_01.05.11.061-01.05.22.841 	he bursts into the tall, red brick apartment building and runs up a central staircase.
-1060_Yes_man_01.05.22.044-01.05.24.886 	carl bursts into an apartment.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.21.13.075-00.21.18.675 	the dragon bursts through a grating in the floor.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.21.33.000-00.21.40.290 	the three cling on as the dragon bursts its way through a glass dome onto the roof.
-1062_Day_the_Earth_stood_still_01.20.13.466-01.20.17.993 	they burst open and one is hurled high in the air.
-2017_Bad_Santa_01.30.44.123-01.30.46.335 	willie bursts out onto the loading dock still holding the elephant.
-2026_Legion_00.03.20.944-00.03.24.926 	michael bursts in.
 2027_Les_Miserables_01.16.42.413-01.16.43.833 	they burst into laughter.
+2027_Les_Miserables_02.01.19.105-02.01.22.719 	the big gun has been lined up with the gate and has burst right through in the first hit.
 2027_Les_Miserables_02.02.00.260-02.02.06.127 	the latest cannonade bursts a hole in the barricade and now the soldiers are storming through.
-2034_Super_8_00.03.21.107-00.03.39.243 	then the house back door bursts open -- joe cranes his neck -- and what he sees he'll never forget: his father, jack, leading an in-pain and hand-cuffed louis dainard from the house and into the rear of the squad car.
-2051_Harry_Potter_and_the_goblet_of_fire_00.59.42.457-00.59.53.023 	the dragon bursts through the crowd and they look stunned.
+2034_Super_8_01.17.21.602-01.17.25.834 	the doors burst open and armed commandos.
 2051_Harry_Potter_and_the_goblet_of_fire_02.01.35.432-02.02.19.957 	the cauldron bursts into flame and a reformed voldemort emerges.
+2054_Harry_Potter_and_the_prisoner_of_azkaban_00.42.16.707-00.42.24.875 	sparks jet from lupin's wand, strike the doorknob, and the wardrobe bursts open.

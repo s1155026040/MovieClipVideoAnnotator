@@ -1,23 +1,7 @@
 30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS19 	00:03:44,00 --> 00:03:50,50 	the shaggy-haired driver drums on his steering wheel with his thumb.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS330 	00:29:20,00 --> 00:29:33,50 	pressing his lips together, he steers the van in a u-turn across the highway.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS229 	00:40:09,00 --> 00:40:15,50 	jerking the steering wheel, someone weaves through traffic.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS594 	01:41:35,00 --> 01:41:44,50 	he steers the flying bomb clockwise around someone's plane.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS635 	01:46:39,00 --> 01:46:47,50 	he stares at the photo then pushes down on the steering yoke causing the plane to dive steeply.
-CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS158 	00:34:31,00 --> 00:34:45,50 	a billboard shows a rosy-cheeked lady smiling over her steering wheel next to a chipper dog.
-COLOMBIANA.srt 	COLOMBIANA_DVS1061 	01:39:26,00 --> 01:39:32,50 	spinning its wheel, he steers past the destroyed mercedes
-FLIGHT.srt 	FLIGHT_DVS47 	00:07:05,00 --> 00:07:11,50 	she leans on the steering wheel, and lowers the phone to the passenger seat.
 FLIGHT.srt 	FLIGHT_DVS59 	00:12:15,00 --> 00:12:21,50 	someone eyes the horizon as he steers the plane through rough air.
 FLIGHT.srt 	FLIGHT_DVS123 	00:24:45,00 --> 00:24:50,50 	someone steers the plane away from the church's steeple,
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS23 	00:03:35,00 --> 00:03:57,50 	someone peers intensely over the steering wheel.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS592 	01:25:21,00 --> 01:25:28,50 	his limbs flailing, he steers helplessly as the flames eat away at his flesh.
-IN_TIME.srt 	IN_TIME_DVS888 	01:33:56,00 --> 01:34:03,50 	meanwhile, someone distractedly chews gum as he steers a cruiser through new greenwich.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS162 	00:30:33,00 --> 00:30:40,50 	someone and the other driver steer their racecars along the course's winding road.
 PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS400 	01:37:28,00 --> 01:37:34,50 	he steers himself toward an unfinished skyscraper.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS477 	01:30:25,00 --> 01:30:45,50 	headed his way in a car, someone peers ahead over the steering wheel.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS75 	00:14:16,00 --> 00:14:21,50 	teacher steers him back outside.
-SUPER_8.srt 	SUPER_8_DVS144 	00:21:59,00 --> 00:22:05,50 	a bald man covered in blood sits slumped against the truck's steering wheel.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS303 	00:54:50,00 --> 00:54:57,50 	he backs the car away from the pedicab, steers around it, and drives off.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS349 	01:05:00,00 --> 01:05:09,50 	someone steers the cart in the caddy's direction.
-THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS263 	01:27:38,00 --> 01:27:47,50 	listening to someone's audio book, they arrive at the airport car rental and steer into the return lane.
-THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS159 	00:41:47,00 --> 00:41:51,50 	he hits a button on his steering wheel.
-ZOOKEEPER.srt 	ZOOKEEPER_DVS400 	01:28:55,00 --> 01:28:59,50 	steering wheel turning sharply around a bend.

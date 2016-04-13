@@ -3,36 +3,27 @@
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS591 	01:31:56,00 --> 01:32:03,50 	someone listens in.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS758 	01:15:18,00 --> 01:15:23,50 	a sadistic grin spreads on someone's face as he listens to someone gurgle his final breath.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS784 	01:18:27,00 --> 01:18:31,50 	someone listens on the radio.
-BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS225 	00:37:18,00 --> 00:37:25,50 	someone listens through the door as he slips backward and lands in the bath tub.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS608 	00:58:36,00 --> 00:58:41,50 	opening it, she pauses and listens.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS894 	01:27:29,00 --> 01:27:34,50 	now, someone listens to his weather radio at work.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS525 	02:03:39,00 --> 02:03:45,50 	at alice's, several ladies listen to the radio.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS534 	02:04:46,00 --> 02:04:52,50 	dozens listen intently at the bar, at the church, and aunt someone's.
 COLOMBIANA.srt 	COLOMBIANA_DVS802 	01:17:30,00 --> 01:17:34,50 	the fbi listens in.
-COLOMBIANA.srt 	COLOMBIANA_DVS930 	01:29:33,00 --> 01:29:41,50 	listening to the caller, he looks out the windows as he makes his way back to someone's desk.
 COLOMBIANA.srt 	COLOMBIANA_DVS1009 	01:36:08,00 --> 01:36:14,50 	meanwhile, someone listens on his phone.
 DISTRICT_9.srt 	DISTRICT_9_DVS525 	01:02:33,00 --> 01:02:38,50 	someone listens in.
 EASY_A.srt 	EASY_A_DVS37 	00:09:11,00 --> 00:09:22,50 	listening to the chatter.
 EASY_A.srt 	EASY_A_DVS289 	01:25:52,00 --> 01:25:57,50 	her brother stares, listening in.
 FLIGHT.srt 	FLIGHT_DVS408 	01:05:00,00 --> 01:05:06,50 	a small congregation listens to a sermon in a cordoned off area.
-HUGO.srt 	HUGO_DVS727 	01:47:15,00 --> 01:47:19,50 	he stops and listens.
 IN_TIME.srt 	IN_TIME_DVS506 	00:54:30,00 --> 00:54:35,50 	someone corners her against a wall as he listens.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS16 	00:04:41,00 --> 00:04:51,50 	back inside, a woman listens to music.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS156 	00:46:35,00 --> 00:46:41,50 	command truck, the police listen intently to a radio transmission.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS175 	00:50:16,00 --> 00:50:37,50 	now, in the command truck, a stout officer listens to the radio.
-INSIDE_MAN.srt 	INSIDE_MAN_DVS216 	01:00:23,00 --> 01:00:28,50 	he gives a thumbs up to his listening team.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS65 	00:07:53,00 --> 00:07:58,50 	now, someone listens carefully.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS287 	00:56:25,00 --> 00:56:29,50 	someone listens intently.
-JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS479 	01:32:29,00 --> 01:32:33,50 	she turns it on again and listens.
 KARATE_KID.srt 	KARATE_KID_DVS1120 	01:32:58,00 --> 01:33:04,50 	someone's instructor listens, stone-faced.
-LARRY_CROWNE.srt 	LARRY_CROWNE_DVS255 	01:01:29,00 --> 01:01:35,50 	someone's brow furrows as he listens.
 LITTLE_FOCKERS.srt 	LITTLE_FOCKERS_DVS99 	00:40:12,00 --> 00:40:17,50 	someone listens from under the bed.
 MORNING_GLORY.srt 	MORNING_GLORY_DVS25 	00:03:31,00 --> 00:03:36,50 	she listens to one of them.
-MORNING_GLORY.srt 	MORNING_GLORY_DVS26 	00:03:37,00 --> 00:03:42,50 	staff listen to headphones and watch screens.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS554 	01:05:45,00 --> 01:05:51,50 	someone watches as the zookeeper listens carefully.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS315 	01:09:03,00 --> 01:09:08,50 	lord someone listens.
 NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS490 	01:30:42,00 --> 01:30:51,50 	someone drives along the freeway listening to someone's period mix.
-PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS42 	00:09:57,00 --> 00:10:06,50 	she listens for a moment then drops it.
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS46 	00:10:59,00 --> 00:11:07,50 	inside, someone listens to the ipod.
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS160 	00:40:23,00 --> 00:40:31,50 	in the guest room someone sulks listening to his ipod.
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS221 	00:53:44,00 --> 00:53:48,50 	the other men listen in.
@@ -40,37 +31,19 @@ PROMETHEUS.srt 	PROMETHEUS_DVS678 	01:12:54,00 --> 01:12:58,50 	someone listens 
 PROMETHEUS.srt 	PROMETHEUS_DVS1038 	01:53:43,00 --> 01:53:47,50 	he listens uncertainly.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS349 	01:06:39,00 --> 01:06:46,50 	elsewhere, hoover listens on the radio and pinches the bridge of his nose.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS521 	01:38:23,00 --> 01:38:28,50 	someone listens to the radio.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS611 	01:54:48,00 --> 01:54:56,50 	as he listens, someone looks up from a newspaper.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS366 	01:31:11,00 --> 01:31:17,50 	someone listens, seated at someone's bedside.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS716 	00:47:07,00 --> 00:47:12,50 	a heading reads "listening comprehension".
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1095 	01:14:50,00 --> 01:14:57,50 	someone listens with a gentle gaze, her head tilted to one side.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1311 	01:30:31,00 --> 01:30:37,50 	the burly bathhouse attendant stops eating and listens with a lifted brow.
 SUPER_8.srt 	SUPER_8_DVS204 	00:35:33,00 --> 00:35:39,50 	inside, the young clerk reads while listening through headphones to a portable cassette player.
 SUPER_8.srt 	SUPER_8_DVS216 	00:37:02,00 --> 00:37:11,50 	inside, someone bobs his head as he listens through his headphones.
-SUPER_8.srt 	SUPER_8_DVS427 	01:17:26,00 --> 01:17:34,50 	outside in his car, someone smokes a joint and listens to the radio with his eyes closed as military vehicles drive past.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS259 	00:49:38,00 --> 00:49:45,50 	meanwhile someone listens on her phone.
-THE_CALL.srt 	THE_CALL_DVS766 	00:57:59,00 --> 00:58:06,50 	at the hive, someone listens to another phone and watches someone.
-THE_CALL.srt 	THE_CALL_DVS818 	01:01:47,00 --> 01:01:57,50 	in the hive, someone and her coworkers listen as the office ers move through the dark cottage.
-THE_CALL.srt 	THE_CALL_DVS939 	01:12:18,00 --> 01:12:23,50 	she turns alertly, listening.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS358 	00:55:26,00 --> 00:55:30,50 	someone listens to music.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS102 	00:10:34,00 --> 00:10:41,50 	listening as a richly dressed older woman punches in an entry code.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS408 	00:47:50,00 --> 00:47:56,50 	she smokes a cigarette and listens to ear buds.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS426 	00:51:16,00 --> 00:51:25,50 	someone's pierced lip curls aggressively as she listens.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1365 	02:26:56,00 --> 02:27:03,50 	sitting on her bed someone listens to the report as she counts stacks of bonds.
 THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS101 	00:34:53,00 --> 00:34:59,50 	back on the road, they resume listening to middlesex.
-THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS263 	01:27:38,00 --> 01:27:47,50 	listening to someone's audio book, they arrive at the airport car rental and steer into the return lane.
 THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS302 	01:49:54,00 --> 01:49:59,50 	someone listens gravely.
 THE_VOW.srt 	THE_VOW_DVS678 	01:34:44,00 --> 01:34:50,50 	someone listens as a band records in his studio.
-THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS162 	00:42:16,00 --> 00:42:22,50 	as someone gazes off, his eyes forlorn, someone listens intently.
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS452 	01:44:32,00 --> 01:44:37,50 	the couple listens in.
-THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS48 	00:06:33,00 --> 00:06:40,50 	now in workout clothes, someone listens to headphones as she walks down a sidewalk.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS250 	00:46:54,00 --> 00:46:59,50 	both men listen worriedly.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS403 	01:12:10,00 --> 01:12:15,50 	someone listens in.
-THOR.srt 	THOR_DVS474 	01:17:53,00 --> 01:18:00,50 	on a rooftop across the street from the lab, shield agents use binoculars and listening equipment.
-TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS871 	01:32:29,00 --> 01:32:36,50 	as the audience listens appreciatively, the band members peek out from backstage.
-TRUE_GRIT.srt 	TRUE_GRIT_DVS66 	00:16:55,00 --> 00:17:00,50 	someone stands watching and listening.
-UGLY_TRUTH.srt 	UGLY_TRUTH_DVS229 	00:21:21,00 --> 00:21:29,50 	in a guest house, someone tosses a bag to the floor, swigs from a can of pepsi, and listens to an answering machine.
-UGLY_TRUTH.srt 	UGLY_TRUTH_DVS309 	00:32:42,00 --> 00:32:47,50 	someone grabs a cordless and listens in.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS191 	00:33:16,00 --> 00:33:23,50 	ambles to the railing with his hands stuffed in his pockets, and listens.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS539 	01:23:02,00 --> 01:23:06,50 	someone listens in.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS769 	01:49:45,00 --> 01:49:51,50 	the uniformed staffers listen with fond respectful gazes.

@@ -1,1 +1,4 @@
-0050_Indiana_Jones_and_the_last_crusade_01.34.55.581-01.34.57.442 	The Soldier falls, discharging the gun into the air.
+0050_Indiana_Jones_and_the_last_crusade_01.34.55.581-01.34.57.442 	the soldier falls, discharging the gun into the air.
+1009_Spider-Man3_02.07.27.708-02.07.28.769 	the gun discharges.
+1030_Public_Enemies_01.33.42.628-01.33.46.295 	baby face half recovers, getting to his knees, and discharges tommy rounds.
+1048_Gran_Torino_01.26.28.593-01.26.33.334 	as it passes thao's house, gang members discharge a couple of mac-10 machine guns into the building.

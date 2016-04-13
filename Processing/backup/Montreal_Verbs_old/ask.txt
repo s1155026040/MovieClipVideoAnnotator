@@ -1,0 +1,7 @@
+21_JUMP_STREET.srt 	21_JUMP_STREET_DVS374 	01:02:44,00 --> 01:02:52,50 	someone remembers asking out melody in high school.
+DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS128 	00:30:14,00 --> 00:30:18,50 	someone asks
+KARATE_KID.srt 	KARATE_KID_DVS1418 	01:54:28,00 --> 01:54:34,50 	someone asks someone if that was okay and his teacher nods.
+LARRY_CROWNE.srt 	LARRY_CROWNE_DVS143 	00:32:17,00 --> 00:32:23,50 	hovers on the movie screen, asking, scoot?
+LIFE_OF_PI.srt 	LIFE_OF_PI_DVS240 	00:32:37,00 --> 00:32:42,50 	she asked if you have something vegetarian.
+MORNING_GLORY.srt 	MORNING_GLORY_DVS212 	00:48:13,00 --> 00:48:20,50 	someone asks a tubby, middle-aged woman sitting at the bar in her lines.
+SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1165 	01:19:05,00 --> 01:19:10,50 	my sister asked me to return this to you.

@@ -1,15 +1,6 @@
 BLINDDATING.srt 	BLINDDATING_DVS92 	00:26:45,00 --> 00:26:54,50 	someone's brow creases uncertainly.
 CHRONICLE.srt 	CHRONICLE_DVS253 	00:38:37,00 --> 00:38:41,50 	someone wearily creases his lips.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS166 	00:35:39,00 --> 00:35:46,50 	her lips crease into a deep frown.
-COLOMBIANA.srt 	COLOMBIANA_DVS113 	00:09:09,00 --> 00:09:20,50 	someone watches with a creased brow, a hint of tears glistening in her wide eyes.
-COLOMBIANA.srt 	COLOMBIANA_DVS644 	01:00:29,00 --> 01:00:35,50 	with his brow creased worriedly, he tries to rub it off
-FLIGHT.srt 	FLIGHT_DVS581 	01:19:19,00 --> 01:19:24,50 	someone watches him, her brow creased and her eyes soft with sympathy.
-JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS378 	01:11:31,00 --> 01:11:36,50 	he briefly creases his lips.
-KARATE_KID.srt 	KARATE_KID_DVS397 	00:35:48,00 --> 00:35:54,50 	he gives his mother an anguished look, his brow creased.
-RUBY_SPARKS.srt 	RUBY_SPARKS_DVS403 	01:03:51,00 --> 01:03:59,50 	with a creased brow he types, someone was miserable without someone.
 SALT.srt 	SALT_DVS541 	01:33:11,00 --> 01:33:28,50 	his brow creased.
 SANCTUM.srt 	SANCTUM_DVS143 	00:29:41,00 --> 00:29:48,50 	someone steps into view, his brow creased in anguish.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1376 	01:33:53,00 --> 01:33:58,50 	brow creased, someone stares down at her weakened sister.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS252 	00:48:27,00 --> 00:48:33,50 	his mother stares at him, her brow creased.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS242 	00:38:16,00 --> 00:38:21,50 	creasing his lips, he lifts his mournful gaze.
-THE_WATCH.srt 	THE_WATCH_DVS250 	00:47:12,00 --> 00:47:17,50 	someone creases his brow and looks away.

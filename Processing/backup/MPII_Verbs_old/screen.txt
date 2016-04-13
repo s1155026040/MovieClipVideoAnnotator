@@ -1,2 +1,3 @@
-0005_Chinatown_01.12.40.400-01.12.42.833 	Is staring down at Gittes who's lying in the screened in porch of the farmers.
-0007_DIE_NACHT_DES_JAEGERS_01.24.18.649-01.24.20.239 	RACHEL sits on the screened porch, awake, gun on knees.
+0005_Chinatown_01.12.40.400-01.12.42.833 	is staring down at gittes who's lying in the screened in porch of the farmers.
+0007_DIE_NACHT_DES_JAEGERS_01.24.18.649-01.24.20.239 	rachel sits on the screened porch, awake, gun on knees.
+0031_The_Lost_Weekend_00.12.29.794-00.12.34.211 	screening his gesture from the ladies with his back, he picks up three apples and puts them in the top of the bag, to camouflage the bottles.

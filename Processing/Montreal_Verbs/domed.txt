@@ -1,4 +1,2 @@
-PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS163 	00:41:17,00 --> 00:41:23,50 	now we float over atlanta's gold domed capital building.
 PROMETHEUS.srt 	PROMETHEUS_DVS756 	01:22:00,00 --> 01:22:06,50 	the clear domed lid opens in three sections.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS148 	00:29:18,00 --> 00:29:22,50 	he swings under a domed ceiling.
-THOR.srt 	THOR_DVS101 	00:15:04,00 --> 00:15:11,50 	the road extends over the sea to a domed metal building sitting on an island.

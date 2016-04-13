@@ -1,5 +1,2 @@
-CHRONICLE.srt 	CHRONICLE_DVS184 	00:27:23,00 --> 00:27:31,50 	kneeling with his arms around the injured man, someone lifts his gaze to someone's viewfinder.
 IN_TIME.srt 	IN_TIME_DVS609 	01:05:22,00 --> 01:05:27,50 	the injured timekeeper emerges.
-SALT.srt 	SALT_DVS227 	00:38:46,00 --> 00:38:53,50 	evelyn someone was injured during the moscow car crash that killed her parents.
-SANCTUM.srt 	SANCTUM_DVS214 	00:46:51,00 --> 00:46:56,50 	he crouches by his gravely injured colleague.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1472 	01:39:22,00 --> 01:39:27,50 	the injured woman's eyelids slowly lift.

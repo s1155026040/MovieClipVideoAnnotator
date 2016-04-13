@@ -1,27 +1,47 @@
-0003_CASABLANCA_00.54.21.374-00.54.25.318 	Renault rings a buzzer and the door is opened for them.
-0004_Charade_01.01.35.359-01.01.39.042 	The phone continues to ring and she continues to kiss him.
-0005_Chinatown_01.44.54.130-01.44.57.432 	He rings the doorbell.
-0006_Clerks_00.36.28.582-00.36.37.002 	DANTE rings her up.
-0010_Frau_Ohne_Gewissen_00.07.35.556-00.07.38.006 	He inspects the house, checks the number, goes up on the front porch and rings the bell.
-0014_Ist_das_Leben_nicht_schoen_01.50.36.952-01.50.41.252 	Nick at the cash register, busily ringing the bell.
-0017_Pianist_01.29.41.804-01.30.01.138 	He goes to the front door, rings the bell and waits.
-0020_Raising_Arizona_01.08.09.948-01.08.11.423 	The Cashier is ringing them up.
-0031_The_Lost_Weekend_01.09.55.176-01.09.57.711 	Don rings the bell beside it.
-0031_The_Lost_Weekend_01.26.37.981-01.26.38.617 	Helen stands outside, ringing the bell.
-0038_Psycho_00.27.29.961-00.27.30.073 	Mary goes to the desk, rings a small pushbell.
-1009_Spider-Man3_00.18.41.210-00.18.44.861 	as peter floats out of the other shattered window, he sees aunt may's ring spinning through the air in front of him.
+0003_CASABLANCA_00.03.34.029-00.03.37.618 	a shot rings out, and the man falls to the ground.
+0003_CASABLANCA_00.54.21.374-00.54.25.318 	renault rings a buzzer and the door is opened for them.
+0004_Charade_01.01.35.359-01.01.39.042 	the phone continues to ring and she continues to kiss him.
+0004_Charade_01.43.05.026-01.43.05.691 	as the bell rings announcing the next train.
+0005_Chinatown_01.44.54.130-01.44.57.432 	he rings the doorbell.
+0006_Clerks_00.36.28.582-00.36.37.002 	dante rings her up.
+0010_Frau_Ohne_Gewissen_00.07.35.556-00.07.38.006 	he inspects the house, checks the number, goes up on the front porch and rings the bell.
+0013_Halloween_00.47.29.604-00.47.32.562 	she lets the phone ring away.
+0013_Halloween_01.12.28.894-01.12.35.790 	she knocks on the door and rings the doorbell.
+0014_Ist_das_Leben_nicht_schoen_01.50.36.952-01.50.41.252 	nick at the cash register, busily ringing the bell.
+0016_O_Brother_Where_Art_Thou_00.56.48.613-00.56.49.561 	we distantly hear picks ringing and male chanting.
+0017_Pianist_01.29.41.804-01.30.01.138 	he goes to the front door, rings the bell and waits.
+0020_Raising_Arizona_01.08.09.948-01.08.11.423 	the cashier is ringing them up.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.46.22.896-00.46.24.939 	he is drawing the ring out of his pocket, with trembling hands.his face fevered and sweating as if in the grip of some terrible internal struggle.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.36.08.846-02.36.10.157 	frodo stumbles and falls.quickly he crawls behind a tree.above him the sound of uruk-hai crashing through the forest rings out.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.50.08.875-00.50.14.900 	a soldier ringing the great bell in alarm as below, in the courtyard, soldiers mount their steeds amid great activity.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.05.14.576-01.05.16.286 	frodo pushes sam away, clutching at the ring beneath his shirt.
+0026_The_Big_Fish_00.07.38.597-00.07.39.920 	as it keeps ringing, we look to see the apartment is mostly empty, just a few half-unpacked boxes.
+0031_The_Lost_Weekend_01.02.27.502-01.02.37.944 	he seems to be going straight to the ringing telephone, only he isn't.
+0031_The_Lost_Weekend_01.09.55.176-01.09.57.711 	don rings the bell beside it.
+0031_The_Lost_Weekend_01.26.37.981-01.26.38.617 	helen stands outside, ringing the bell.
+0033_Amadeus_01.29.59.803-01.30.03.070 	on its finger we see the gold signet ring belonging to salieri.
+0038_Psycho_00.27.29.961-00.27.30.073 	mary goes to the desk, rings a small pushbell.
+0038_Psycho_01.23.00.047-01.23.03.848 	he takes it, reluctantly, listens to the dim sound of ringing on the other end.
+0041_The_Sixth_Sense_01.04.49.488-01.04.53.065 	an antique engagement ring sits on a velvet stand.
+0041_The_Sixth_Sense_01.37.49.972-01.37.52.472 	an identical gold wedding ring sits on her finger.
+0049_Hannah_and_her_sisters_00.17.07.457-00.17.08.937 	the telephone starts to ring, gail pauses, looking offscreen.
+1008_Spider-Man2_01.38.03.055-01.38.04.103 	her engagement rings shines brightly.
 1009_Spider-Man3_00.51.54.243-00.52.04.900 	later in the evening, peter dressed smartly in a sober suit, his dark hair swept across in a neat side parting, stops a few feet away from the entrance of the restaurant constellation and pulls aunt may's ring out of his breast pocket.
-1009_Spider-Man3_00.59.06.524-00.59.09.344 	mary jane picks up the phone, but peter's rung off.
+1009_Spider-Man3_00.58.16.035-00.58.26.046 	as a violinist serenades him, peter picks up mary jane's glass and fishes the ring out of it with a fork.
 1009_Spider-Man3_02.05.30.781-02.05.36.403 	peter strikes the bells to make them ring then grabs a pumpkin bomb.
-1010_TITANIC_01.21.02.002-01.21.10.426 	they both step onto the lowest rung of the railing.
 1010_TITANIC_01.38.06.884-01.38.13.800 	fleet rings the lookout bell three times and grabs a telephone, which rings on the bridge.
+1011_The_Help_00.00.12.961-00.00.15.226 	a fisherman's float plops onto the surface creating a ring around it.
+1011_The_Help_00.13.40.383-00.13.45.408 	as platinum blonde celia, in a yellow playsuit, rings off, her husband creeps up behind her.
+1011_The_Help_00.38.26.155-00.38.30.339 	minnie with her pie rings hilly's doorbell.
 1014_2012_02.07.05.502-02.07.09.630 	lama rings the monastery bell as the water quickly closes in.
 1037_The_Curious_Case_Of_Benjamin_Button_01.18.15.801-01.18.30.298 	up on deck, benjamin and the other crew members walk towards the prow of the tug, passing mike, who's ringing the alarm bell.
 1042_Up_In_The_Air_01.32.53.311-01.32.55.046 	he rings the doorbell.
+1043_Vantage_Point_01.21.54.925-01.21.58.747 	howard wears a dazed expression as he answers his ringing cell phone.
 1052_Harry_Potter_and_the_order_of_phoenix_01.31.06.090-01.31.09.085 	hermione rings the rusty bell.
+1057_Seven_pounds_01.21.50.264-01.21.58.079 	his mobile flashes as it rings.
+1057_Seven_pounds_01.43.52.517-01.43.54.258 	tim rings off.
 1059_The_devil_wears_prada_00.40.27.582-00.40.29.268 	she rings the bell.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.19.39.000-00.19.42.000 	griphook rings the bells to keep the dragon at bay.
 2004_Juno_00.42.22.178-00.42.28.737 	juno rings the doorbell, shifting her weight in the cold.
-1059_The_devil_wears_prada_00.40.27.582-00.40.29.268 	she rings the bell.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.19.39.000-00.19.42.000 	griphook rings the bells to keep the dragon at bay.
-2004_Juno_00.42.22.178-00.42.28.737 	juno rings the doorbell, shifting her weight in the cold.
+2017_Bad_Santa_00.11.55.455-00.11.58.465 	of an alarm clock ringing with a jolt.
+2040_The_Ugly_Truth_00.28.12.731-00.28.19.644 	as abby looks horrified, the phones in the control room start ringing off the hook.

@@ -1,62 +1,33 @@
-0006_Clerks_00.28.27.646-00.28.28.568 	The can pops off and DANTE staggers back a few steps.
-0007_DIE_NACHT_DES_JAEGERS_01.23.56.040-01.24.03.798 	PREACHER staggers out and runs yelping with pain into the barn.
-0010_Frau_Ohne_Gewissen_01.45.21.317-01.45.27.676 	Neff starts to move towards the door, staggering a little, holding himself upright with great effort.
-0014_Ist_das_Leben_nicht_schoen_01.38.02.953-01.38.07.928 	George staggers off down the street, paying no attention to the man.
-0016_O_Brother_Where_Art_Thou_00.53.26.321-00.53.27.453 	He swings at Delmar who staggers back with a grunt.
-0016_O_Brother_Where_Art_Thou_00.54.45.154-00.54.55.576 	Delmar staggers to his feet and stumbles over to the carcass of the frog, weeping.
-0020_Raising_Arizona_01.16.55.982-01.16.56.945 	Evelle is staggering around in shock, looking in disbelief at his own blue body.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.23.43.263-00.23.46.808 	Bilbo staggering out of Bag end.he braces himself in the night air, Pale and Trembling, as if his loss of the ring has weakened him.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.17.59.305-00.18.01.099 	FRODO staggers over to SAM and PULLS HIM OFF GOLLUM.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.40.52.772-00.40.57.941 	FRODO staggers across the ROAD, as if some FORCE, other than his own will, is at work!
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.31.21.655-02.31.31.834 	FRODO and SAM stagger to their feet and move off.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.39.37.908-02.39.42.175 	SAM staggers into it.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.47.35.054-02.47.37.683 	FRODO and SAM stagger out of the SAMMATH NAUR.
-0028_The_Crying_Game_00.03.40.572-00.03.42.056 	He staggers out, buttoning up.
-0028_The_Crying_Game_00.50.24.886-00.50.25.423 	She staggers away from him.
-0028_The_Crying_Game_01.19.04.331-01.19.06.935 	She staggers out of the pub.
-0028_The_Crying_Game_01.44.45.019-01.44.50.962 	Looks out the window to where he can see Dil staggering down the street, through the crowds that have gathered.
-0038_Psycho_01.17.27.505-01.17.33.916 	He stumbles back and staggers down the whole of the staircase.
-0046_Chasing_Amy_01.17.37.070-01.17.41.046 	ON THE ICE - Player One staggers a bit, then quickly rights his jersey and lunges at Player Two, landing a barrage of his own punches.
-0051_Men_in_black_00.11.03.575-00.11.04.961 	Edwards staggers after him, in pain.
-0051_Men_in_black_00.54.51.452-00.54.53.866 	He staggers up out of a small control room inside Rosenberg's head, with gearshifts and viewing screens all around the inside of the skull.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.21.37.356-01.21.43.577 	Lavender leaps on Ron's back and he staggers away with her.
-1002_Harry_Potter_and_the_Half-Blood_Prince_02.15.54.436-02.15.56.411 	Harry staggers forward.
-1003_How_to_Lose_Friends_and_Alienate_People_00.15.05.774-00.15.08.968 	Bobby staggers off into the bedroom like a schoolboy.
-1003_How_to_Lose_Friends_and_Alienate_People_00.17.08.971-00.17.14.274 	He collides with an immovable turnstile, then staggers round.
-1003_How_to_Lose_Friends_and_Alienate_People_01.42.28.958-01.42.36.533 	He staggers around, looking left and right, then stops to stare up a grassy incline.
+0005_Chinatown_00.19.07.037-00.19.10.343 	gittes is staggered.
+0010_Frau_Ohne_Gewissen_01.45.21.317-01.45.27.676 	neff starts to move towards the door, staggering a little, holding himself upright with great effort.
+0016_O_Brother_Where_Art_Thou_00.53.26.321-00.53.27.453 	he swings at delmar who staggers back with a grunt.
+0020_Raising_Arizona_01.16.55.982-01.16.56.945 	evelle is staggering around in shock, looking in disbelief at his own blue body.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.23.43.263-00.23.46.808 	bilbo staggering out of bag end.he braces himself in the night air, pale and trembling, as if his loss of the ring has weakened him.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.28.50.762-02.28.53.097 	frodo and sam staggering across the tortured landscape.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.37.36.162-02.37.37.319 	sam staggering under frodo's weight.
+0028_The_Crying_Game_00.03.40.572-00.03.42.056 	he staggers out, buttoning up.
+0028_The_Crying_Game_00.50.24.886-00.50.25.423 	she staggers away from him.
+0028_The_Crying_Game_01.19.04.331-01.19.06.935 	she staggers out of the pub.
+0028_The_Crying_Game_01.44.45.019-01.44.50.962 	looks out the window to where he can see dil staggering down the street, through the crowds that have gathered.
+0046_Chasing_Amy_01.17.37.070-01.17.41.046 	on the ice - player one staggers a bit, then quickly rights his jersey and lunges at player two, landing a barrage of his own punches.
+0051_Men_in_black_00.54.51.452-00.54.53.866 	he staggers up out of a small control room inside rosenberg's head, with gearshifts and viewing screens all around the inside of the skull.
+1002_Harry_Potter_and_the_Half-Blood_Prince_01.21.37.356-01.21.43.577 	lavender leaps on ron's back and he staggers away with her.
+1003_How_to_Lose_Friends_and_Alienate_People_00.17.08.971-00.17.14.274 	he collides with an immovable turnstile, then staggers round.
+1003_How_to_Lose_Friends_and_Alienate_People_01.42.28.958-01.42.36.533 	he staggers around, looking left and right, then stops to stare up a grassy incline.
 1007_Spider-Man1_00.48.35.455-00.48.37.931 	the thief staggers back and trips.
-1008_Spider-Man2_01.01.35.247-01.01.38.283 	back inside, harry staggers up to him.
-1008_Spider-Man2_01.50.43.493-01.50.50.077 	spider-man indicates to those around him with a raised palm and a nod of the head, and staggers forward.
 1009_Spider-Man3_00.51.16.382-00.51.22.858 	flint watches from the edge of a building above as spider- man staggers out of the red van, looking around frantically.
+1009_Spider-Man3_02.02.07.440-02.02.10.709 	they hit their target, and the enormous sand creature staggers back, crumbling and disintegrating.
 1012_Unbreakable_01.15.31.194-01.15.36.273 	he staggers towards it, stumbling on his knees, crawling.
 1012_Unbreakable_01.30.14.596-01.30.19.145 	he staggers across the room, lifting and twisting david, still trying to throw him off.
-1024_Identity_Thief_01.34.02.908-01.34.16.278 	now, in a parking lot, sandy and diana stagger toward the chevy caprice.
+1024_Identity_Thief_00.52.45.157-00.52.47.824 	outside, she staggers away.
 1027_Les_Miserables_00.05.02.880-00.05.21.847 	javert's eyes are fixed on valjean, who staggers away from the dry dock.
-1037_The_Curious_Case_Of_Benjamin_Button_00.51.14.067-00.51.19.728 	benjamin staggers through the darkened hallway, where queenie stands with her arms folded.
-1037_The_Curious_Case_Of_Benjamin_Button_01.21.43.011-01.21.46.139 	benjamin staggers into the wheelhouse.
-1043_Vantage_Point_00.19.43.863-00.19.46.638 	holden staggers over.
 1043_Vantage_Point_00.25.49.885-00.25.54.497 	the president staggers back and falls.
-1043_Vantage_Point_00.40.22.401-00.40.25.988 	enrique staggers to his feet and runs.
-1046_Australia_01.40.04.277-01.40.07.850 	smiling, fletcher staggers towards the soaking dance floor, trips over a plant pot and falls flat on his face.
 1047_Defiance_00.18.43.021-00.18.46.280 	picking up the bottle, he staggers to his feet.
 1049_Harry_Potter_and_the_chamber_of_secrets_01.20.28.207-01.20.30.842 	he staggers to the marble sink and leans on it.
 1049_Harry_Potter_and_the_chamber_of_secrets_01.50.25.608-01.50.32.322 	they stagger out.
-1049_Harry_Potter_and_the_chamber_of_secrets_02.14.30.892-02.14.39.147 	he looks up and narrows his eyes as harry staggers towards him holding the bloody sword in one hand and the poison fang in the other.
-1050_Harry_Potter_and_the_deathly_hallows_Disk_One_02.09.50.906-02.09.55.062 	harry staggers to his feet.
-1052_Harry_Potter_and_the_order_of_phoenix_00.05.40.508-00.05.43.860 	harry staggers in with dudley.
 1053_Harry_Potter_and_the_philosophers_stone_01.40.38.108-01.40.39.483 	it staggers and stretches spiky wings.
 1053_Harry_Potter_and_the_philosophers_stone_01.55.30.321-01.55.35.837 	the dog breathes out, and they stagger back.
 1056_Rambo_01.00.21.000-01.00.22.813 	boozy soldiers stagger from it, grinning.
 1056_Rambo_01.00.32.691-01.00.39.324 	they hide there briefly, as drunken troopers stagger over it.
 1056_Rambo_01.00.51.000-01.00.53.565 	the last of the soldiers stagger away from the dance hut.
 1057_Seven_pounds_01.48.50.495-01.48.52.419 	tim hurriedly staggers through undergrowth.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.37.50.330-01.37.58.494 	a lone figure staggers over rubble in the courtyard.
-2026_Legion_01.17.29.236-01.17.31.520 	sandra staggers back, blood dripping from the hole in her forehead, and.
-1053_Harry_Potter_and_the_philosophers_stone_01.40.38.108-01.40.39.483 	it staggers and stretches spiky wings.
-1053_Harry_Potter_and_the_philosophers_stone_01.55.30.321-01.55.35.837 	the dog breathes out, and they stagger back.
-1056_Rambo_01.00.21.000-01.00.22.813 	boozy soldiers stagger from it, grinning.
-1056_Rambo_01.00.32.691-01.00.39.324 	they hide there briefly, as drunken troopers stagger over it.
-1056_Rambo_01.00.51.000-01.00.53.565 	the last of the soldiers stagger away from the dance hut.
-1057_Seven_pounds_01.48.50.495-01.48.52.419 	tim hurriedly staggers through undergrowth.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.37.50.330-01.37.58.494 	a lone figure staggers over rubble in the courtyard.
-2026_Legion_01.17.29.236-01.17.31.520 	sandra staggers back, blood dripping from the hole in her forehead, and.

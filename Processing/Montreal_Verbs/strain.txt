@@ -1,7 +1,2 @@
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS482 	01:51:22,00 --> 01:51:27,50 	her strained grin fades to a misty
-JACK_AND_JILL.srt 	JACK_AND_JILL_DVS381 	01:11:21,00 --> 01:11:26,50 	one body builder strains to curl the heavy bar.
-KNOCKED_UP.srt 	KNOCKED_UP_DVS134 	01:21:11,00 --> 01:21:16,50 	someone strains to regain her composure.
-LITTLE_FOCKERS.srt 	LITTLE_FOCKERS_DVS209 	01:15:11,00 --> 01:15:16,50 	straining with effort, he pulls himself up.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS586 	01:04:49,00 --> 01:04:56,50 	someone strains against his bonds.
-THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS181 	00:59:07,00 --> 00:59:13,50 	he blocks someone's view, who strains to look around him.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1241 	01:51:44,00 --> 01:51:51,50 	as someone expels strained breaths, someone stays focused on someone.

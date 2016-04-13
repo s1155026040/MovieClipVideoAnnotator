@@ -1,4 +1,4 @@
-0010_Frau_Ohne_Gewissen_01.03.52.189-01.03.53.124 	She wears a gray tailored suit, small black hat with a veil, black gloves, and carries a black bag.
-0021_Rear_Window_00.14.36.053-00.14.36.307 	We now see that the girl has a small hat with a veil, and an ornate corsage pinned to her light blue tailored suit.
-0030_The_Hustler_00.13.11.801-00.13.12.865 	Fats' clothes reflect his high station at Ames Pool Hall: a gray felt bowler hat, and an expensive, tailored overcoat, with a carnation in its lapel and two silk handkerchiefs peeking up from its breast pocket.
-1058_The_Damned_united_00.16.37.653-00.16.43.074 	brian smooths his coiffed, dark hair and straightens his tailored suit jacket as he stands with peter and jimmy in the entrance gateway.
+0005_Chinatown_00.45.50.382-00.45.50.826 	she's wearing dove gray gabardine, subdued, tailored.
+0010_Frau_Ohne_Gewissen_01.03.52.189-01.03.53.124 	she wears a gray tailored suit, small black hat with a veil, black gloves, and carries a black bag.
+0021_Rear_Window_00.14.36.053-00.14.36.307 	we now see that the girl has a small hat with a veil, and an ornate corsage pinned to her light blue tailored suit.
+0030_The_Hustler_00.13.11.801-00.13.12.865 	fats' clothes reflect his high station at ames pool hall: a gray felt bowler hat, and an expensive, tailored overcoat, with a carnation in its lapel and two silk handkerchiefs peeking up from its breast pocket.

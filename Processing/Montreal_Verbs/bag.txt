@@ -1,6 +1,3 @@
-21_JUMP_STREET.srt 	21_JUMP_STREET_DVS128 	00:21:02,00 --> 00:21:08,50 	now the pickup bagged lunches with the names someone and doug written in quotes.
 DISTRICT_9.srt 	DISTRICT_9_DVS120 	00:14:02,00 --> 00:14:09,50 	later, soldiers bag their comrade's arm.
 DISTRICT_9.srt 	DISTRICT_9_DVS209 	00:23:48,00 --> 00:23:52,50 	he bags the canister.
-INSIDE_MAN.srt 	INSIDE_MAN_DVS411 	01:55:58,00 --> 01:56:13,50 	he bags the note with the other items, then shuts the maroon drawer and slides it back into box 392.
-THE_CALL.srt 	THE_CALL_DVS1041 	01:19:01,00 --> 01:19:08,50 	he throws the hair into a mini fridge with several other bagged scalps.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS61 	00:11:51,00 --> 00:11:55,50 	she bags the sandwiches.

@@ -1,10 +1,3 @@
-21_JUMP_STREET.srt 	21_JUMP_STREET_DVS416 	01:10:18,00 --> 01:10:26,50 	as someone recoils, the car rams the bearded biker's rear tire.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS281 	00:24:11,00 --> 00:24:20,50 	spinning out of control, someone's truck rams off a motorcycle and barrel rolls over a line of parked cars.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS324 	00:28:47,00 --> 00:28:54,50 	the truck rams off a concrete barrier, flipping the massive vehicle through the air.
-A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS151 	00:30:13,00 --> 00:30:19,50 	a car swerves sideways, another car rams into it.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS506 	01:56:36,00 --> 01:56:39,50 	the opponent rams his stomach.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS81 	00:12:51,00 --> 00:13:12,50 	the suv rams the hatchback against a wall.
-IN_TIME.srt 	IN_TIME_DVS432 	00:46:12,00 --> 00:46:19,50 	lowering his chin, he braces himself and rams the roadster's rear bumper.
 SALT.srt 	SALT_DVS319 	00:55:51,00 --> 00:55:56,50 	one ramming his head into the window.
-SUPER_8.srt 	SUPER_8_DVS527 	01:28:47,00 --> 01:28:53,50 	they moved to a set of double doors and ram them with their shoulders.
-THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS437 	01:18:08,00 --> 01:18:14,50 	someone uses the pole to ram someone backward through a glass partition.

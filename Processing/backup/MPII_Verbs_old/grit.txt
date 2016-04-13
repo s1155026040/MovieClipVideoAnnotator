@@ -1,9 +1,10 @@
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.11.15.152-01.11.17.325 	Arwen grits her teeth.urges the white horse to greater speed.
-0051_Men_in_black_01.09.58.610-01.10.00.675 	Edgar grits his teeth.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.36.11.140-01.36.16.910 	Ron, Hermione, and Harry look across at Lavender, who lifts her chin and grits her teeth.
-1006_Slumdog_Millionaire_01.32.59.910-01.33.04.790 	A smile appears fleetingly on Jamal's face as the host grins through gritted teeth.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.11.15.152-01.11.17.325 	arwen grits her teeth.urges the white horse to greater speed.
+0051_Men_in_black_01.09.58.610-01.10.00.675 	edgar grits his teeth.
+1002_Harry_Potter_and_the_Half-Blood_Prince_01.36.11.140-01.36.16.910 	ron, hermione, and harry look across at lavender, who lifts her chin and grits her teeth.
+1006_Slumdog_Millionaire_01.32.59.910-01.33.04.790 	a smile appears fleetingly on jamal's face as the host grins through gritted teeth.
 1007_Spider-Man1_01.46.52.559-01.46.56.124 	spider-man's eyes flare and he grits his teeth.
+1008_Spider-Man2_01.33.19.440-01.33.21.755 	his jaw clenched, his teeth gritted.
 1026_Legion_00.24.05.042-00.24.07.337 	sandra smiles through gritted teeth.
 1037_The_Curious_Case_Of_Benjamin_Button_01.20.44.983-01.20.49.618 	captain mike grits his teeth, then sets the engines full ahead and steams towards the u-boat.
-1047_Defiance_02.02.18.785-02.02.22.783 	with gritted teeth, malbin urges from behind the tree and runs at the tank, but is shot.
 1049_Harry_Potter_and_the_chamber_of_secrets_00.56.12.000-00.56.14.494 	determined to stay ahead, draco grits his teeth.
+1052_Harry_Potter_and_the_order_of_phoenix_01.26.55.042-01.27.01.428 	gritting their teeth, fred and george glare at her.

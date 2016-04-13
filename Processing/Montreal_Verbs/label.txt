@@ -1,25 +1,5 @@
-21_JUMP_STREET.srt 	21_JUMP_STREET_DVS247 	00:40:57,00 --> 00:41:07,50 	now at school, someone arrives at a classroom door colorfully labeled science.
-BURLESQUE.srt 	BURLESQUE_DVS44 	00:04:42,00 --> 00:04:47,50 	she marks one specifically, and labels it.
-BURLESQUE.srt 	BURLESQUE_DVS537 	01:14:23,00 --> 01:14:30,50 	someone puts on a cd labeled, instrumental only, last of me.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS577 	01:39:50,00 --> 01:40:02,50 	he hops onto a railed catwalk between two bombs with small cockpits and propellers labelled chicago and new york.
-COLOMBIANA.srt 	COLOMBIANA_DVS380 	00:34:15,00 --> 00:34:24,50 	someone cautiously scans her surroundings as she backs away, then faces a door labeled electrical room.
-FLIGHT.srt 	FLIGHT_DVS229 	00:49:24,00 --> 00:49:31,50 	he places his packet of money, wrapped in white paper labeled veal, and removes the bottle.
 FLIGHT.srt 	FLIGHT_DVS382 	01:01:37,00 --> 01:01:43,50 	a cassette labeled soul funk no.
-IN_TIME.srt 	IN_TIME_DVS229 	00:24:07,00 --> 00:24:13,50 	the sedan reaches a booth labeled time zone 12 border.
-INSIDE_MAN.srt 	INSIDE_MAN_DVS84 	00:21:56,00 --> 00:22:03,50 	someone is putting on bullet proof vests labeled nypd esu.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS556 	01:49:38,00 --> 01:49:48,50 	now, words label a two-story colonial house - cambridge, massachusetts.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS69 	00:05:52,00 --> 00:06:00,50 	in a flashback, a sign labels a complex surrounding a pristine public pool.
-PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS311 	01:13:22,00 --> 01:13:32,50 	at home, someone searches a digital jukebox and finds the book of love in a playlist labeled someone's most played.
-SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS389 	01:21:48,00 --> 01:22:06,50 	he sees a map spread out on the desk, with a someone circle drawn around one section labeled, forbidden domain.
-SUPER_8.srt 	SUPER_8_DVS422 	01:15:34,00 --> 01:15:40,50 	someone places a cassette labeled april 8th in a tape player.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS309 	00:47:27,00 --> 00:47:38,50 	the inspectors hold a wallet labeled property of someone pinched on 17-9.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS558 	01:40:02,00 --> 01:40:18,50 	one labeled, gotti, k and the other gotti, v. a long flat box beneath them reads handle with care.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1344 	02:24:20,00 --> 02:24:27,50 	from a display rack she grabs a package labeled, shape inserts.
-THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS32 	00:04:11,00 --> 00:04:16,50 	he holds up a labeled spray bottle.
 THE_VOW.srt 	THE_VOW_DVS610 	01:24:11,00 --> 01:24:20,50 	next to a notarys embossed stamp, he locates someones signature on a line labeled plaintiff.
 THE_WATCH.srt 	THE_WATCH_DVS241 	00:43:50,00 --> 00:43:58,50 	by a photo of the crazy old shotgun guy, a note labels him as manfred salisbury.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS709 	01:42:33,00 --> 01:42:40,50 	someone holds a pen between two checkboxes labeled, denied and approved.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS49 	00:03:25,00 --> 00:03:30,50 	later, a door labeled "6c" opens.
-ZOMBIELAND.srt 	ZOMBIELAND_DVS555 	01:05:10,00 --> 01:05:18,50 	she opens a door labeled with a voltage sign.
-ZOMBIELAND.srt 	ZOMBIELAND_DVS722 	01:18:31,00 --> 01:18:40,50 	someone notices a lever labeled, emergency break release.
-ZOOKEEPER.srt 	ZOOKEEPER_DVS35 	00:05:24,00 --> 00:05:31,50 	she sees someone standing at a dry erase board labeled things to do.

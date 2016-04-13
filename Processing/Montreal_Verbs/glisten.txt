@@ -1,23 +1,9 @@
 BLINDDATING.srt 	BLINDDATING_DVS360 	01:28:35,00 --> 01:28:44,50 	her lips tremble, and tears glisten in her eyes.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS680 	01:06:11,00 --> 01:06:18,50 	she watches with glistening eyes as someone shuffles to a partially open door at the end of the hall.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS769 	01:16:42,00 --> 01:16:48,50 	someone regards her grieving friend with glistening eyes.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS971 	01:35:25,00 --> 01:35:30,50 	his eyes glistening tearfully, someone pats the youth and stands.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS92 	00:17:05,00 --> 00:17:10,50 	someone's face glistens with sweat.
-COLOMBIANA.srt 	COLOMBIANA_DVS113 	00:09:09,00 --> 00:09:20,50 	someone watches with a creased brow, a hint of tears glistening in her wide eyes.
 COLOMBIANA.srt 	COLOMBIANA_DVS635 	00:59:50,00 --> 00:59:58,50 	someone marches quietly toward the bed, water still glistening on her slender neck.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS219 	00:34:26,00 --> 00:34:32,50 	with glistening eyes, someone watches him through her rear-view mirror.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS385 	01:00:13,00 --> 01:00:17,50 	glistening in the light.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS767 	01:41:08,00 --> 01:41:14,50 	tears glisten in her eyes as she stares at the moon.
-DISTRICT_9.srt 	DISTRICT_9_DVS505 	00:59:19,00 --> 00:59:27,50 	his eyes glisten as he glances at someone's son.
 DISTRICT_9.srt 	DISTRICT_9_DVS861 	01:42:00,00 --> 01:42:26,50 	from the ground, someone stares upward, his mismatched eyes glistening.
 EASY_A.srt 	EASY_A_DVS206 	01:03:45,00 --> 01:03:50,50 	someone's large green eyes glisten.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS37 	00:06:30,00 --> 00:06:42,50 	his face glistening with sweat, he turns his head toward the noise outside.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS576 	01:23:07,00 --> 01:23:32,50 	his cocky smirk gone, someone stares fearfully through glistening bloodshot eyes.
-HUGO.srt 	HUGO_DVS615 	01:29:15,00 --> 01:29:21,50 	someone's eyes glisten as she smiles and turns away.
-IN_TIME.srt 	IN_TIME_DVS119 	00:14:22,00 --> 00:14:27,50 	someone gives a small nod, his eyes glistening.
-KARATE_KID.srt 	KARATE_KID_DVS1442 	01:57:00,00 --> 01:57:15,50 	someone's brow glistens with sweat as he stands at mr.
-KARATE_KID.srt 	KARATE_KID_DVS1610 	02:10:57,00 --> 02:11:06,50 	his brow furrowed, someone faces someone with glistening eyes.
-KARATE_KID.srt 	KARATE_KID_DVS1632 	02:12:40,00 --> 02:12:46,50 	someone gives a proud nod, his eyes glistening.
 KNOCKED_UP.srt 	KNOCKED_UP_DVS62 	00:38:20,00 --> 00:38:25,50 	her eyes glisten tearfully.
 KNOCKED_UP.srt 	KNOCKED_UP_DVS99 	00:59:29,00 --> 00:59:33,50 	someone's eyes glisten.
 LARRY_CROWNE.srt 	LARRY_CROWNE_DVS20 	00:06:41,00 --> 00:06:47,50 	larrys eyes glisten in a helpless stare.
@@ -28,35 +14,16 @@ LIFE_OF_PI.srt 	LIFE_OF_PI_DVS1112 	01:56:57,00 --> 01:57:03,50 	his deep set ey
 MORNING_GLORY.srt 	MORNING_GLORY_DVS483 	01:40:14,00 --> 01:40:20,50 	tears glisten in her eyes.
 NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS391 	01:12:09,00 --> 01:12:14,50 	tears glistened in someone's eyes.
 NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS523 	01:37:35,00 --> 01:37:39,50 	someone stares at her with tears glistening in his eyes.
-PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS352 	01:24:32,00 --> 01:24:37,50 	her eyes glisten as someone sits back down.
 PROMETHEUS.srt 	PROMETHEUS_DVS1037 	01:53:39,00 --> 01:53:45,50 	in the ship, light wavers on someone's glistening face.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS336 	01:22:32,00 --> 01:22:49,50 	with glistening eyes, someone looks down to find someone holding a dagger to her own heart.
 SALT.srt 	SALT_DVS535 	01:31:29,00 --> 01:31:42,50 	her narrowed eyes glistening.
-SALT.srt 	SALT_DVS544 	01:33:42,00 --> 01:33:54,50 	as he looks up at her blood stained face, her eyes glisten and she displays a big smile.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS706 	00:46:12,00 --> 00:46:18,50 	someone's eyes glisten with tears and she lowers her saddened gaze.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS973 	01:03:20,00 --> 01:03:25,50 	she regards her friend compassionately, her eyes glistening.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1135 	01:17:11,00 --> 01:17:17,50 	eyes glistening, someone faces her laotong imploringly.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1140 	01:17:36,00 --> 01:17:43,50 	the noblewoman's eyes glisten but she gives an accepting nod and bows her head.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1171 	01:19:22,00 --> 01:19:27,50 	she looks up at someone with glistening eyes.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1196 	01:20:47,00 --> 01:20:53,50 	she sets one page aside and peruses the next with glistening eyes.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS22 	00:03:10,00 --> 00:03:17,50 	someone stage lights glisten on her shiny silver dress, as she swings her hips.
-SPARKLE_2012.srt 	SPARKLE_2012_DVS621 	01:40:24,00 --> 01:40:29,50 	her eyes glisten, and she gives an appreciative nod.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS281 	00:54:23,00 --> 00:54:30,50 	with glistening eyes, someone looks up at someone who avoids his gaze.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS305 	00:58:09,00 --> 00:58:14,50 	someone pouts, his eyes glistening.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS350 	01:10:02,00 --> 01:10:08,50 	someone's eyes glisten and he presses his lip.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS399 	01:16:56,00 --> 01:17:21,50 	his mother beams proudly, her eyes glistening.
 THE_CALL.srt 	THE_CALL_DVS135 	00:11:01,00 --> 00:11:07,50 	someone's glistening eyes dart.
-THE_CALL.srt 	THE_CALL_DVS200 	00:16:32,00 --> 00:16:38,50 	she tilts her head toward her boyfriend and looks at him with glistening eyes.
 THE_CALL.srt 	THE_CALL_DVS615 	00:48:44,00 --> 00:48:48,50 	someone's eyes glisten.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS53 	00:11:31,00 --> 00:11:36,50 	his eyes glisten and he hangs his head.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS206 	00:33:56,00 --> 00:34:02,50 	someone's eyes glisten and he gives a shaky nod.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS317 	00:48:42,00 --> 00:48:48,50 	someone's glistening eyes glance between her father and mother.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS526 	01:17:08,00 --> 01:17:13,50 	he stares off with glistening eyes.
-THE_VOW.srt 	THE_VOW_DVS480 	01:08:23,00 --> 01:08:29,50 	joining hands they run further out into the glistening lake.
 THE_VOW.srt 	THE_VOW_DVS570 	01:18:51,00 --> 01:18:55,50 	someones eyes glisten.
-THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS461 	01:45:31,00 --> 01:45:37,50 	someone lifts his glistening eyes to hers.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS516 	01:28:45,00 --> 01:28:51,50 	her wide eyes glistening.
 TRUE_GRIT.srt 	TRUE_GRIT_DVS371 	01:17:37,00 --> 01:17:42,50 	and tears glisten in her eyes.
 TRUE_GRIT.srt 	TRUE_GRIT_DVS547 	01:38:04,00 --> 01:38:12,50 	his neck glistening with sweat in the moonlight.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS635 	01:33:53,00 --> 01:33:59,50 	the skin around his eyes glistening with traces of tears
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1246 	01:52:12,00 --> 01:52:23,50 	framed by the metal helmet, someone's parted lips and glistening eyes show his gaze to be strangely tense and tranquil.

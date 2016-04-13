@@ -48,7 +48,6 @@ A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS50 	00:03:47,00 --> 00:03:
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS53 	00:03:57,00 --> 00:04:05,50 	a tiny window opens, a chef takes a scrap of paper and lets the young man in.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS55 	00:04:08,00 --> 00:04:15,50 	without breaking his stride, he lifts a napkin on the counter and takes a gun hidden beneath it.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS88 	00:07:25,00 --> 00:07:31,50 	someone smirks as he takes it.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS107 	00:09:01,00 --> 00:09:07,50 	he looks at the file, then takes out a pack of cigarettes.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS113 	00:09:25,00 --> 00:09:30,50 	he takes a drag off his cigarette.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS241 	00:19:52,00 --> 00:20:03,50 	someone takes off, leaving his father on the street.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS251 	00:21:51,00 --> 00:21:58,50 	someone takes a hard right turn.
@@ -111,7 +110,6 @@ ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS524 	01:13
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS541 	01:16:23,00 --> 01:16:28,50 	wearing a vulnerable frown, she takes a deep breath.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS549 	01:17:11,00 --> 01:17:17,50 	he crosses to it slowly taking out a key.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS551 	01:17:24,00 --> 01:17:33,50 	someone pensively takes out his specialized ax and finds the silver along the blade untarnished.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS570 	01:19:33,00 --> 01:19:50,50 	removing a pair of spectacles, the president takes up his ax and turns away.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS591 	01:21:44,00 --> 01:21:53,50 	he takes aim and reaches out to open it.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS596 	01:22:12,00 --> 01:22:46,50 	grabbing his guns, someone fires taking him down.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS608 	01:24:36,00 --> 01:25:32,50 	someone takes out two vampires then twirls the ax behind his back to someone who spins the versatile weapon and strikes another vampire with its butt.
@@ -198,7 +196,6 @@ CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS657 	01:50:02,00 --> 01:50:10,50 	taking
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS657 	01:50:02,00 --> 01:50:10,50 	taking a deep breath, she takes out the photo which depicts someone before his transformation, just a skinny kid from brooklyn.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS92 	00:07:15,00 --> 00:07:19,50 	he takes the bottle.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS94 	00:07:24,00 --> 00:07:32,50 	taking off his shirt, someone passes a couch and a divider that separates the living room from his bed.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS97 	00:07:33,00 --> 00:07:40,50 	he turns on the light and takes it in his hands, looking down at it.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS137 	00:11:20,00 --> 00:11:25,50 	he takes a rundown path, passing graffiti that reads, "surf where you live."
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS161 	00:12:53,00 --> 00:12:58,50 	someone takes a deep breath and lowers his head.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS202 	00:16:26,00 --> 00:16:30,50 	someone takes off.
@@ -221,7 +218,6 @@ CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS631 	01:00:42,00 --> 01:00:48,50 	so
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS665 	01:04:33,00 --> 01:04:39,50 	at night, someone takes out the trash behind pleasure pizza.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS715 	01:10:40,00 --> 01:10:44,50 	someone takes someone's hand.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS771 	01:16:49,00 --> 01:16:53,50 	taking deep breaths, someone marches off.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS779 	01:17:14,00 --> 01:17:19,50 	the teen turns and takes a few steps back
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS809 	01:19:55,00 --> 01:20:02,50 	someone hurriedly takes down the other board, ducks down, and carries it from the shed.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS830 	01:22:16,00 --> 01:22:20,50 	someone takes it and sips.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS847 	01:23:32,00 --> 01:23:37,50 	someone takes the money uneasily.
@@ -230,7 +226,6 @@ CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS918 	01:29:55,00 --> 01:30:01,50 	th
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS943 	01:32:30,00 --> 01:32:38,50 	taking his new surfboard down from the van's roof, someone pauses at the sight of blond approaching.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS961 	01:34:29,00 --> 01:34:36,50 	someone takes in the roiling foamy waters crashing the bone yard then faces someone.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS962 	01:34:35,00 --> 01:34:41,50 	taking in his resolute expression, someone backs off.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS969 	01:35:20,00 --> 01:35:26,50 	someone takes this in, then turns his gaze out toward the water.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS973 	01:35:31,00 --> 01:35:37,50 	he gives it to his mentor then takes up his board and marches off.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS1037 	01:40:13,00 --> 01:40:20,50 	with the board jutting out perpendicular over the wave, someone takes a wide stance.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS1046 	01:40:45,00 --> 01:40:51,50 	someone takes a step forward, his eyes locked on the surf.
@@ -243,7 +238,6 @@ CHRONICLE.srt 	CHRONICLE_DVS308 	00:46:36,00 --> 00:46:41,50 	a guy in a varsity
 CHRONICLE.srt 	CHRONICLE_DVS415 	01:01:44,00 --> 01:01:49,50 	takes out his wallet, and pilfers the cash inside.
 CHRONICLE.srt 	CHRONICLE_DVS416 	01:01:46,00 --> 01:01:52,50 	returning to the first thug, he takes his money, too.
 CHRONICLE.srt 	CHRONICLE_DVS423 	01:02:22,00 --> 01:02:28,50 	surveillance footage shows someone taking off his backpack.
-CHRONICLE.srt 	CHRONICLE_DVS427 	01:02:44,00 --> 01:02:51,50 	someone halts by the gas pumps and turns back to find him taking aim.
 CHRONICLE.srt 	CHRONICLE_DVS437 	01:03:42,00 --> 01:03:47,50 	he takes a seat at his son's bedside.
 CHRONICLE.srt 	CHRONICLE_DVS438 	01:03:44,00 --> 01:03:50,50 	the tripod camera shows him taking someone's hand.
 CHRONICLE.srt 	CHRONICLE_DVS458 	01:07:17,00 --> 01:07:21,50 	someone suddenly takes flight.
@@ -373,7 +367,6 @@ FLIGHT.srt 	FLIGHT_DVS222 	00:48:43,00 --> 00:48:50,50 	he takes a case of coron
 FLIGHT.srt 	FLIGHT_DVS224 	00:49:01,00 --> 00:49:08,50 	he takes a bag of marijuana from a wooden box in a drawer, and flushes it.
 FLIGHT.srt 	FLIGHT_DVS237 	00:50:11,00 --> 00:50:17,50 	then takes a picture of a young african american boy, wedged in a frame.
 FLIGHT.srt 	FLIGHT_DVS346 	00:57:46,00 --> 00:57:50,50 	he picks it up, and takes a drink.
-FLIGHT.srt 	FLIGHT_DVS368 	00:59:17,00 --> 00:59:22,50 	he takes a sip from his beer and looks up.
 FLIGHT.srt 	FLIGHT_DVS373 	01:00:17,00 --> 01:00:22,50 	someone takes out some money.
 FLIGHT.srt 	FLIGHT_DVS384 	01:01:44,00 --> 01:01:52,50 	someone fresh from taking a shower, exits the bathroom.
 FLIGHT.srt 	FLIGHT_DVS391 	01:02:46,00 --> 01:02:52,50 	he raises the glass, as if to take a drink, but stops midway.
@@ -399,7 +392,6 @@ GET_HIM_TO_THE_GREEK.srt 	GET_HIM_TO_THE_GREEK_DVS57 	00:32:53,00 --> 00:33:00,5
 GET_HIM_TO_THE_GREEK.srt 	GET_HIM_TO_THE_GREEK_DVS60 	00:33:19,00 --> 00:33:24,50 	takes another drag and reels.
 GET_HIM_TO_THE_GREEK.srt 	GET_HIM_TO_THE_GREEK_DVS69 	00:40:58,00 --> 00:41:01,50 	he takes someone's cell.
 GET_HIM_TO_THE_GREEK.srt 	GET_HIM_TO_THE_GREEK_DVS80 	00:47:00,00 --> 00:47:04,50 	he takes the phone.
-GET_HIM_TO_THE_GREEK.srt 	GET_HIM_TO_THE_GREEK_DVS130 	01:18:00,00 --> 01:18:05,50 	someone looks him in the eye and takes a deep breath.
 GET_HIM_TO_THE_GREEK.srt 	GET_HIM_TO_THE_GREEK_DVS136 	01:20:52,00 --> 01:20:58,50 	the stunned woman takes in the romantic setting.
 GET_HIM_TO_THE_GREEK.srt 	GET_HIM_TO_THE_GREEK_DVS139 	01:22:16,00 --> 01:22:24,50 	someone flops onto the couch and take his sunglasses off.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS27 	00:04:10,00 --> 00:04:29,50 	in slow motion, someone twists his body and takes aim at the suv with only the distant forest floor below him.
@@ -410,15 +402,12 @@ GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS170 	00:
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS215 	00:34:45,00 --> 00:35:01,50 	his nose and eyes take skull form and he blows fire from his nostrils.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS294 	00:45:27,00 --> 00:45:34,50 	he clears the inside of his cheek with his tongue, then takes another drink.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS313 	00:47:33,00 --> 00:47:42,50 	as they stare, the emt furrows his brow and takes a step back.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS339 	00:51:13,00 --> 00:51:26,50 	glancing into the lunch box, he takes out an apple and watches the bright green fruit turn grey and crumble.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS371 	00:54:32,00 --> 00:54:36,50 	he takes a swig.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS381 	00:56:09,00 --> 00:56:15,50 	at a cubby hole, he takes out an ancient bottle of ruddy wine.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS389 	00:57:51,00 --> 00:57:57,50 	someone turns to his bag and takes out a small loaf of bread.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS393 	00:58:21,00 --> 00:58:26,50 	someone takes it from him.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS394 	00:58:25,00 --> 00:58:31,50 	he takes a bite then shifts his gaze.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS428 	01:01:46,00 --> 01:01:51,50 	"take them away until the thing is done."
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS467 	01:07:56,00 --> 01:08:02,50 	she takes the sniper rifle.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS476 	01:09:17,00 --> 01:09:23,50 	he takes out a syringe then turns to his son.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS481 	01:09:43,00 --> 01:09:54,50 	someone takes a knee.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS502 	01:12:41,00 --> 01:12:46,50 	someone reloads and takes aim at a third.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS506 	01:13:15,00 --> 01:13:21,50 	he takes a swig of 2000 year old wine.
@@ -448,7 +437,6 @@ HUGO.srt 	HUGO_DVS177 	00:24:50,00 --> 00:24:57,50 	he freezes as the inspector 
 HUGO.srt 	HUGO_DVS210 	00:31:33,00 --> 00:31:40,50 	he takes off the toy' outer shell and uses a small hammer to pound it back into shape.
 HUGO.srt 	HUGO_DVS266 	00:39:17,00 --> 00:39:24,50 	someone stares at someone then smiles and takes his hand as they walk around a giant stack of books.
 HUGO.srt 	HUGO_DVS272 	00:39:56,00 --> 00:40:02,50 	taking out a set of small tools, someone picks the lock.
-HUGO.srt 	HUGO_DVS286 	00:42:33,00 --> 00:42:39,50 	he takes a step forward then turns and points into the distance.
 HUGO.srt 	HUGO_DVS290 	00:43:12,00 --> 00:43:18,50 	someone takes off someone's beret and places it over his own head.
 HUGO.srt 	HUGO_DVS315 	00:49:06,00 --> 00:49:11,50 	someone takes off the key from around her neck
 HUGO.srt 	HUGO_DVS379 	00:57:52,00 --> 00:57:56,50 	someone takes the drawing.
@@ -548,7 +536,6 @@ JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS206 	00:39:18,00 --> 00:39:22,50 	she ta
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS208 	00:39:49,00 --> 00:39:58,50 	an employee takes a live lobster from a tank and bags it, someone and someone swap a look.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS213 	00:40:51,00 --> 00:40:59,50 	she dons a rubber glove, removes the lid from a pot of boiling water, and takes a lobster out of the bag.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS221 	00:41:50,00 --> 00:41:57,50 	as she cautiously approaches the kitchen, someone grabs an apple and takes a bite.
-JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS233 	00:43:58,00 --> 00:44:04,50 	someone takes the present and looks someone in the eyes.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS290 	00:56:57,00 --> 00:57:01,50 	someone takes someone's handbag.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS333 	01:04:22,00 --> 01:04:27,50 	as someone snacks obliviously, she takes a seat.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS367 	01:09:57,00 --> 01:10:04,50 	it strolls into the kitchen and takes a seat, staring at the oven.
@@ -591,7 +578,6 @@ KARATE_KID.srt 	KARATE_KID_DVS750 	01:03:25,00 --> 01:03:30,50 	the boy takes th
 KARATE_KID.srt 	KARATE_KID_DVS789 	01:06:41,00 --> 01:06:48,50 	as she takes a seat on a bench beside the lantern, she points someone to a bench opposite.
 KARATE_KID.srt 	KARATE_KID_DVS860 	01:10:55,00 --> 01:11:01,50 	someone shuffles off and takes a seat on a shaded stoop.
 KARATE_KID.srt 	KARATE_KID_DVS929 	01:16:11,00 --> 01:16:22,50 	the teacher smiles at the boy, who happily takes in the stunning terrain.
-KARATE_KID.srt 	KARATE_KID_DVS1030 	01:23:40,00 --> 01:23:46,50 	he gives someone a gentle pat, then looks away, and takes a deep breath.
 KARATE_KID.srt 	KARATE_KID_DVS1075 	01:28:01,00 --> 01:28:05,50 	someone takes her by the wrist.
 KARATE_KID.srt 	KARATE_KID_DVS1111 	01:32:22,00 --> 01:32:29,50 	her instructor urges the girl forward, then takes a seat near the back of the house.
 KARATE_KID.srt 	KARATE_KID_DVS1113 	01:32:30,00 --> 01:32:40,50 	as her parents take seats near the front of the house, she steps center stage, bows first to the judges, then to the orchestra.
@@ -610,7 +596,6 @@ KATY_PERRY_PART_OF_ME.srt 	KATY_PERRY_PART_OF_ME_DVS317 	01:12:21,00 --> 01:12:2
 KNOCKED_UP.srt 	KNOCKED_UP_DVS37 	00:23:55,00 --> 00:24:00,50 	she takes another swipe at her mouth, then freezes
 KNOCKED_UP.srt 	KNOCKED_UP_DVS79 	00:46:01,00 --> 00:46:07,50 	takes a long sip of coffee.
 LAND_OF_THE_LOST.srt 	LAND_OF_THE_LOST_DVS17 	00:06:54,00 --> 00:07:03,50 	the scientist takes a flip-top lighter from his pocket and eyes the inscription: big cat.
-LAND_OF_THE_LOST.srt 	LAND_OF_THE_LOST_DVS77 	00:26:15,00 --> 00:26:21,50 	someone turns into the cave, and takes in its ridged high-rising walls.
 LAND_OF_THE_LOST.srt 	LAND_OF_THE_LOST_DVS83 	00:27:36,00 --> 00:27:43,50 	someone takes a piece of someone's pants over to a blanket, where he sits and flails around.
 LAND_OF_THE_LOST.srt 	LAND_OF_THE_LOST_DVS142 	00:51:13,00 --> 00:51:23,50 	pterodactyl swoops down and grabs it, taking the amplifier with it.
 LAND_OF_THE_LOST.srt 	LAND_OF_THE_LOST_DVS179 	01:05:10,00 --> 01:05:15,50 	she takes a few steps away from the pool.
@@ -625,8 +610,6 @@ LARRY_CROWNE.srt 	LARRY_CROWNE_DVS234 	00:54:48,00 --> 00:54:54,50 	someone take
 LARRY_CROWNE.srt 	LARRY_CROWNE_DVS258 	01:01:42,00 --> 01:01:48,50 	facing her, someone takes in her drunken grin.
 LARRY_CROWNE.srt 	LARRY_CROWNE_DVS360 	01:26:18,00 --> 01:26:22,50 	taking a sip, she stares to someone.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS101 	00:12:17,00 --> 00:12:24,50 	taking a disc of naan, he notices his host's eyes closed in prayer.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS133 	00:16:02,00 --> 00:16:12,50 	scooping up water from a basin with his hand, he takes a few sips then turns and takes in the space with a curious reverent gaze.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS133 	00:16:02,00 --> 00:16:12,50 	scooping up water from a basin with his hand, he takes a few sips then turns and takes in the space with a curious reverent gaze.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS138 	00:16:36,00 --> 00:16:43,50 	staring at the glass, someone cautiously accepts the drink and takes a tiny sip.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS227 	00:31:19,00 --> 00:31:23,50 	the young beauty takes his hand.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS257 	00:33:50,00 --> 00:34:00,50 	the larger one takes the smaller one's hand and comforts it.
@@ -700,7 +683,6 @@ NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS291 	00:53:05,00 --> 00:53:09,50
 NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS366 	01:08:11,00 --> 01:08:15,50 	she takes the shot,
 NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS368 	01:08:14,00 --> 01:08:22,50 	takes a shot, left turn, nudges against the concrete curb, and heads straight for the hole.
 NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS500 	01:32:42,00 --> 01:32:47,50 	someone takes freckles and walks off.
-NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS541 	01:40:18,00 --> 01:40:25,50 	with a wry smile he looks down and takes her hand in his
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS42 	00:09:57,00 --> 00:10:06,50 	she hesitantly takes it and dials.
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS57 	00:13:53,00 --> 00:13:59,50 	smiling someone takes his wife's hand.
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS179 	00:43:50,00 --> 00:43:54,50 	he takes a big bite.
@@ -758,7 +740,6 @@ PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS107 	00:18:11,00 --> 00:18:19,50 	as they 
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS112 	00:19:33,00 --> 00:19:39,50 	hoover motions for someone to take his place at the mic.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS116 	00:20:55,00 --> 00:21:02,50 	the scrawny someone takes a seat beside someone and leans close.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS130 	00:24:10,00 --> 00:24:18,50 	he takes her hand and she places her other hand on his shoulder.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS175 	00:33:05,00 --> 00:33:25,50 	as she takes in the space, he sets a chair near a sofa and looks to her.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS222 	00:41:19,00 --> 00:41:24,50 	he takes cover behind a garden plant.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS242 	00:44:40,00 --> 00:44:47,50 	pause taking in their surroundings.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS243 	00:44:48,00 --> 00:44:54,50 	older newcomer takes a seat, someone approaches.
@@ -788,7 +769,6 @@ ROBIN_HOOD.srt 	ROBIN_HOOD_DVS244 	00:55:34,00 --> 00:55:44,50 	someone takes a 
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS306 	01:14:21,00 --> 01:14:26,50 	they each take a swig of the friar's concoction.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS336 	01:22:32,00 --> 01:22:49,50 	he closes his hand over hers and stares into her eyes, taking in her earnest gaze.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS341 	01:23:21,00 --> 01:23:42,50 	he takes out a letter and offers it to the sheriff.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS348 	01:25:15,00 --> 01:25:35,50 	someone looks over her shoulder to find her companion pausing to take in his surroundings.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS456 	01:53:15,00 --> 01:53:39,50 	someone joyfully plants another kiss on his lips and takes a step back.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS480 	01:59:56,00 --> 02:00:00,50 	the archers take aim.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS68 	00:11:09,00 --> 00:11:14,50 	the young woman takes out a sketch book.
@@ -884,11 +864,9 @@ SOUL_SURFER.srt 	SOUL_SURFER_DVS66 	00:23:51,00 --> 00:23:56,50 	he takes the ce
 SOUL_SURFER.srt 	SOUL_SURFER_DVS116 	00:39:06,00 --> 00:39:10,50 	someone takes a package of deli meat from the refrigerator.
 SOUL_SURFER.srt 	SOUL_SURFER_DVS150 	00:46:12,00 --> 00:46:18,50 	someone takes the surfboard from his son.
 SOUL_SURFER.srt 	SOUL_SURFER_DVS155 	00:46:35,00 --> 00:46:41,50 	someone takes up the board and rubs his father's shoulder.
-SOUL_SURFER.srt 	SOUL_SURFER_DVS191 	01:00:39,00 --> 01:00:45,50 	someone arrives, turns in a form and takes a gray t-shirt.
 SOUL_SURFER.srt 	SOUL_SURFER_DVS234 	01:12:06,00 --> 01:12:15,50 	as someone takes in her surroundings, someone glances over her shoulder, her stricken expression mirroring the team.
 SOUL_SURFER.srt 	SOUL_SURFER_DVS249 	01:15:04,00 --> 01:15:12,50 	someone takes two bottles and hands some out to the kids.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS130 	00:21:26,00 --> 00:21:31,50 	he smiles, then takes her face in his hands.
-SPARKLE_2012.srt 	SPARKLE_2012_DVS148 	00:25:29,00 --> 00:25:34,50 	she takes a drag on her cigarette and looks down at the table.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS166 	00:27:59,00 --> 00:28:06,50 	he takes a flash photo of her, then lowers his camera and smiles.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS210 	00:33:31,00 --> 00:33:40,50 	he takes a seat at a booth with someone and their dates.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS214 	00:33:49,00 --> 00:33:54,50 	an mc steps to the stage and takes the mic.
@@ -897,7 +875,6 @@ SPARKLE_2012.srt 	SPARKLE_2012_DVS256 	00:39:43,00 --> 00:39:59,50 	someone take
 SPARKLE_2012.srt 	SPARKLE_2012_DVS285 	00:45:45,00 --> 00:45:50,50 	someone stares at them as they take their seats.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS375 	01:03:36,00 --> 01:03:41,50 	someone gently takes her hand.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS379 	01:03:47,00 --> 01:03:53,50 	someone takes sister by the hand and leads her out of the room.
-SPARKLE_2012.srt 	SPARKLE_2012_DVS381 	01:04:03,00 --> 01:04:14,50 	sister takes the fur coat from someone and turns toward the party with a glowing smile.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS382 	01:04:11,00 --> 01:04:17,50 	someone takes her picture as she hurries into his arms.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS409 	01:08:55,00 --> 01:09:00,50 	she takes the notebook with her into the house.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS416 	01:09:39,00 --> 01:09:45,50 	someone takes a puff on his cigarette.
@@ -936,7 +913,6 @@ THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS296 	00:42:51,00 --> 0
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS302 	00:44:49,00 --> 00:44:55,50 	the gray haired goateed pickpocket quickens his pace and takes out a set of keys.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS311 	00:47:58,00 --> 00:48:02,50 	smiling he takes out a bottle of whiskey.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS340 	00:52:33,00 --> 00:52:39,50 	someone quickly takes the bottle of medicinal spirits and uncaps it.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS639 	01:25:03,00 --> 01:25:10,50 	someone takes the scroll, then turns and walks off.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS30 	00:06:28,00 --> 00:06:33,50 	someone quickly takes out a cigarette.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS34 	00:07:54,00 --> 00:08:05,50 	he takes his leave.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS69 	00:15:42,00 --> 00:15:56,50 	someone catches his eye as someone starts to take a seat at an empty table.
@@ -971,7 +947,6 @@ THE_CALL.srt 	THE_CALL_DVS316 	00:26:56,00 --> 00:27:02,50 	someone waves brooke
 THE_CALL.srt 	THE_CALL_DVS603 	00:46:40,00 --> 00:46:46,50 	the officer removes his sunglasses and takes a few steps forward.
 THE_CALL.srt 	THE_CALL_DVS780 	00:58:56,00 --> 00:59:02,50 	she blinks her glistening eyes and takes a few ragged breaths.
 THE_CALL.srt 	THE_CALL_DVS815 	01:01:40,00 --> 01:01:47,50 	a swat team takes the lead and smashes the front door in with a battering ram.
-THE_CALL.srt 	THE_CALL_DVS849 	01:04:36,00 --> 01:04:41,50 	sitting beside her, she looks away as he takes a comb off the tray.
 THE_CALL.srt 	THE_CALL_DVS962 	01:13:52,00 --> 01:13:59,50 	taking out her phone, she fumbles with it over the hole and drops it.
 THE_CALL.srt 	THE_CALL_DVS1016 	01:17:41,00 --> 01:17:49,50 	someone takes it out of his mouth and places it on the finger of a white mannequin hand sitting on the vanity.
 THE_CALL.srt 	THE_CALL_DVS1045 	01:19:14,00 --> 01:19:21,50 	someone takes a few measured steps towards the wardrobe, his shirt soaked with sweat.
@@ -1024,9 +999,7 @@ THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS444 	00:
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS448 	00:52:54,00 --> 00:52:59,50 	someone takes her hand.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS470 	00:54:20,00 --> 00:54:27,50 	someone takes hold of her hips and buries his face between her butt cheeks.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS471 	00:54:25,00 --> 00:54:33,50 	he positions himself directly over her, sweeps his bathrobe back like a cape and takes out a condom.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS498 	00:56:30,00 --> 00:56:35,50 	someone takes it without looking at him.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS517 	00:57:19,00 --> 00:57:25,50 	later, she takes off her shirt.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS548 	01:01:40,00 --> 01:01:48,50 	next, someone takes a stack of snapshots from a wax paper envelope and looks through them.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS567 	01:02:58,00 --> 01:03:04,50 	the archivist takes two large binders from a shelf.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS593 	01:05:29,00 --> 01:05:36,50 	her gaze cold and business like, someone takes it to someone
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS641 	01:09:49,00 --> 01:09:55,50 	someone sets two plates on the table and they each take a seat.
@@ -1108,7 +1081,6 @@ THE_WATCH.srt 	THE_WATCH_DVS49 	00:06:17,00 --> 00:06:23,50 	the sweaty security
 THE_WATCH.srt 	THE_WATCH_DVS146 	00:28:26,00 --> 00:28:29,50 	someone takes it.
 THE_WATCH.srt 	THE_WATCH_DVS373 	01:05:26,00 --> 01:05:31,50 	someone nervously glances back, then takes a step down.
 THE_WATCH.srt 	THE_WATCH_DVS413 	01:14:19,00 --> 01:14:23,50 	she takes a deep breath.
-THE_WATCH.srt 	THE_WATCH_DVS469 	01:24:41,00 --> 01:24:46,50 	someone and someone take turns shooting the alien.
 THE_WATCH.srt 	THE_WATCH_DVS482 	01:26:27,00 --> 01:26:33,50 	the guys take cover.
 THE_WATCH.srt 	THE_WATCH_DVS484 	01:26:56,00 --> 01:27:04,50 	he takes out someone's legs, then strikes again.
 THE_WATCH.srt 	THE_WATCH_DVS514 	01:30:34,00 --> 01:31:11,50 	someone takes out another creature.
@@ -1165,7 +1137,6 @@ TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS809 	01:26:06,00 --> 01:26:12,50 	holding someon
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS816 	01:26:54,00 --> 01:26:59,50 	someone takes out a pinch of dust,
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS861 	01:31:32,00 --> 01:31:38,50 	young members of a band wave and take their bows.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS884 	01:33:33,00 --> 01:33:42,50 	the boy takes a bow and someone gives a thumbs up.
-TRUE_GRIT.srt 	TRUE_GRIT_DVS63 	00:13:58,00 --> 00:14:03,50 	she turns over, taking the covers with her.
 TRUE_GRIT.srt 	TRUE_GRIT_DVS73 	00:21:05,00 --> 00:21:09,50 	he takes out tobacco.
 TRUE_GRIT.srt 	TRUE_GRIT_DVS75 	00:21:51,00 --> 00:21:56,50 	he takes out her father's revolver.
 TRUE_GRIT.srt 	TRUE_GRIT_DVS98 	00:24:22,00 --> 00:24:26,50 	someone stares at him as he takes a puff.
@@ -1194,13 +1165,11 @@ UGLY_TRUTH.srt 	UGLY_TRUTH_DVS527 	01:11:04,00 --> 01:11:15,50 	someone takes he
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS591 	01:18:35,00 --> 01:18:40,50 	she takes a breath and heads back to her room.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS628 	01:25:07,00 --> 01:25:12,50 	she takes someone's place in the basket.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS631 	01:26:31,00 --> 01:26:35,50 	he takes the mic.
-UGLY_TRUTH.srt 	UGLY_TRUTH_DVS647 	01:30:10,00 --> 01:30:16,50 	someone looks away, shakes his head, and takes a few deep breaths.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS23 	00:03:43,00 --> 00:03:47,50 	he takes his daughter's hand.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS47 	00:08:28,00 --> 00:08:37,50 	steadying it, he takes out a tool on his keychain.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS68 	00:12:20,00 --> 00:12:27,50 	entering the room, someone gently lifts his son's hand and takes the book.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS123 	00:20:39,00 --> 00:20:47,50 	someone takes a seat on a rock and watches his daughter sprinkle her crackers on the ground.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS178 	00:31:14,00 --> 00:31:17,50 	he takes notes.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS277 	00:44:25,00 --> 00:44:32,50 	the boy takes a recoiling step back, then looks around uneasily as he advances.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS285 	00:45:15,00 --> 00:45:19,50 	he takes a few toys off of her.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS298 	00:47:10,00 --> 00:47:15,50 	she gently takes it from her father's grip.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS324 	00:52:32,00 --> 00:52:44,50 	later, as they hike up a grassy sun-kissed slope, someone snidely takes in his 	surroundings through sunglasses.
@@ -1216,7 +1185,6 @@ WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS562 	01:27:11,00 --> 01:27:18,50 	the zo
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS590 	01:30:11,00 --> 01:30:19,50 	seeing someone throw an arm around his son's shoulder, she takes a deep warm-hearted breath.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS599 	01:31:10,00 --> 01:31:16,50 	someone's lips part as he takes in the evocative image.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS601 	01:31:17,00 --> 01:31:25,50 	taking a deep breath, someone returns his gaze to the portrait, and blinks back tears.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS626 	01:32:55,00 --> 01:33:13,50 	looking up from the computer, he remembers taking photos in the field as his wife and children frolic around him.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS655 	01:35:53,00 --> 01:35:57,50 	he takes off his shades.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS658 	01:36:41,00 --> 01:36:50,50 	someone strides past and takes a screwdriver to a water fountain.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS681 	01:39:23,00 --> 01:39:33,50 	glancing around, she pulls the gate shut and hurriedly takes a key from a ring on her belt.
@@ -1230,7 +1198,6 @@ WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS780 	01:51:09,00 --> 01:51:14,50 	someon
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS75 	00:06:17,00 --> 00:06:24,50 	on the train, someone sets her box aside, then takes out a magazine and flips through it.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS96 	00:08:24,00 --> 00:08:31,50 	she fidgets self-consciously, then takes a breath and trots across a driveway.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS104 	00:10:01,00 --> 00:10:07,50 	someone takes her notebook from her purse and writes.
-WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS235 	00:31:17,00 --> 00:31:26,50 	wearing a t-shirt that reads "free licks," someone looks down at the sandwich, then takes an enormous bite.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS293 	00:40:41,00 --> 00:40:47,50 	she takes a deep breath and scrunches up her face.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS329 	00:47:56,00 --> 00:48:04,50 	she takes out a someone purple thong and matching bra, and gently lays them on a chair with her clothes.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS336 	00:48:51,00 --> 00:48:56,50 	someone leans down and takes a look between her legs.
@@ -1251,7 +1218,6 @@ WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS689 	01:34:32,00 --> 01:34:39,50 	a 
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS742 	01:38:21,00 --> 01:38:26,50 	she takes someone's hand and leads him off the stage.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS61 	00:04:53,00 --> 00:04:59,50 	the aging man breaks off a hunk of chocolate and takes a bite.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS153 	00:09:52,00 --> 00:09:58,50 	we take in the space and find it to be a modest hotel room.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS173 	00:13:02,00 --> 00:13:08,50 	looking up from his work, he takes in her natural scaly form.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS212 	00:15:53,00 --> 00:15:59,50 	he takes the gold bar, picks up a briefcase, and heads for the door.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS226 	00:17:17,00 --> 00:17:23,50 	its patrons take notice as the women arrive behind them.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS241 	00:18:27,00 --> 00:18:32,50 	he takes a seat on a sprawling couch.
@@ -1282,7 +1248,6 @@ YOUNG_ADULT.srt 	YOUNG_ADULT_DVS89 	00:12:56,00 --> 00:13:01,50 	someone takes o
 YOUNG_ADULT.srt 	YOUNG_ADULT_DVS98 	00:14:17,00 --> 00:14:24,50 	she takes a dress off a hanger, puts on a coat, then drives in her car.
 YOUNG_ADULT.srt 	YOUNG_ADULT_DVS102 	00:15:18,00 --> 00:15:23,50 	she stops and takes out her phone.
 YOUNG_ADULT.srt 	YOUNG_ADULT_DVS117 	00:20:25,00 --> 00:20:31,50 	someone takes a swig of bottled cider.
-YOUNG_ADULT.srt 	YOUNG_ADULT_DVS182 	00:34:50,00 --> 00:34:55,50 	someone looks up and takes off the goggles.
 YOUNG_ADULT.srt 	YOUNG_ADULT_DVS186 	00:35:35,00 --> 00:35:39,50 	she takes another pull.
 YOUNG_ADULT.srt 	YOUNG_ADULT_DVS187 	00:35:42,00 --> 00:35:47,50 	he takes back the flask then pour someone a drink from a bottle.
 YOUNG_ADULT.srt 	YOUNG_ADULT_DVS355 	01:08:01,00 --> 01:08:07,50 	she takes off her sunglasses then slowly moves through the living room.

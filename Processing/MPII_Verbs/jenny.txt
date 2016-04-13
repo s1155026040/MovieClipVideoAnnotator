@@ -1,11 +1,6 @@
 0009_Forrest_Gump_00.14.03.934-00.14.07.010 	forrest sits down next to jenny.
 0009_Forrest_Gump_00.18.22.268-00.18.27.589 	forrest runs to jenny.
 0009_Forrest_Gump_00.26.54.601-00.26.58.171 	jenny and forrest sneak to jenny's door.
-0009_Forrest_Gump_01.51.39.009-01.51.42.728 	he looks at the medal he had give to jenny.
 0009_Forrest_Gump_02.00.31.880-02.00.33.687 	forrest hands jenny the box of chocolates.
-0009_Forrest_Gump_02.06.49.446-02.06.59.064 	forrest jr. stands next to jenny.
 1045_An_education_01.01.47.839-01.01.56.276 	david boxes jenny into position for a photo of her with notre dame cathedral in the background.
-1045_An_education_01.22.44.363-01.22.50.334 	indoors jenny stands for lonely in the hallway.
 1055_Marley_and_me_00.20.45.688-00.20.47.445 	an older marley drags jenny through a hedge.
-1055_Marley_and_me_00.40.47.587-00.40.48.427 	the doctor holds a probe to jenny's stomach.
-1055_Marley_and_me_01.34.58.793-01.35.02.049 	he turns to jenny and smiles.

@@ -1,6 +1,2 @@
 KARATE_KID.srt 	KARATE_KID_DVS1401 	01:52:47,00 --> 01:53:00,50 	the scoreboard replays someone's counter-offensive and awards him a point.
 KARATE_KID.srt 	KARATE_KID_DVS1634 	02:12:46,00 --> 02:12:56,50 	it replays his masterful kick in slow motion.
-PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS287 	01:09:02,00 --> 01:09:07,50 	as someone replays it, someone covers his eyes.
-SANCTUM.srt 	SANCTUM_DVS142 	00:29:36,00 --> 00:29:43,50 	sitting on the rock, the monitor replays someone's struggle with someone.
-THE_CALL.srt 	THE_CALL_DVS877 	01:07:11,00 --> 01:07:18,50 	she stops the track and adjusts the audio levels, then replays the recording with her eyes closed.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS624 	01:08:40,00 --> 01:08:46,50 	the computer replays the ghostly sequence of someone reacting and her smile becoming a frightened stare.

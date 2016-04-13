@@ -1,0 +1,5 @@
+BURLESQUE.srt 	BURLESQUE_DVS34 	00:03:34,00 --> 00:03:42,50 	as the sequined-clad dancers command their stage, the blonde sings to empty chairs in someone's bar.
+SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS133 	00:25:10,00 --> 00:25:16,50 	commands a newspaper to fly flat onto the train driver's
+XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS620 	00:57:51,00 --> 00:57:59,50 	as two soldiers aim their weapons, he commands the guns to disassemble, then hurls them into the ground.
+XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS642 	00:59:09,00 --> 00:59:14,50 	someone commands its bars to wrap around her wrists.
+XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS645 	00:59:27,00 --> 00:59:33,50 	he commands two more and they each bind an arm just below the shoulder.

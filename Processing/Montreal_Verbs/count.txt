@@ -1,26 +1,15 @@
 30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS81 	00:21:04,00 --> 00:21:09,50 	the timer counts down to zero.
 BURLESQUE.srt 	BURLESQUE_DVS43 	00:04:41,00 --> 00:04:45,50 	she counts up several windows,
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS335 	01:02:54,00 --> 01:03:02,50 	someone flips several switches, activating timers which count down from seven minutes.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS372 	00:34:57,00 --> 00:35:02,50 	while another counts 4 minutes in 30-second increments.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS563 	00:54:35,00 --> 00:54:41,50 	someone saunters toward her son as he counts out one-dollar bills.
-CHRONICLE.srt 	CHRONICLE_DVS418 	01:01:57,00 --> 01:02:05,50 	now, he sits with his back to a fence and his respirator mask off, counting out the cash.
-CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS183 	00:39:11,00 --> 00:39:16,50 	window, a chestnut haired clerk counts out
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS210 	00:43:43,00 --> 00:43:48,50 	someone picks through his cap and counts the donations.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS199 	00:32:14,00 --> 00:32:23,50 	in a back room, the tacky man addresses thugs counting cash.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS200 	00:32:20,00 --> 00:32:28,50 	"count every dollar.
-IN_TIME.srt 	IN_TIME_DVS202 	00:21:11,00 --> 00:21:19,50 	rounding a corner, she lifts her arm and finds her clock counting down from ten seconds.
-IN_TIME.srt 	IN_TIME_DVS232 	00:24:22,00 --> 00:24:29,50 	he slips his wrist into the cuff-like scanner and watches his clock's balance count down.
 IN_TIME.srt 	IN_TIME_DVS323 	00:33:14,00 --> 00:33:21,50 	his clock counts up to 1100 years and one second.
-IN_TIME.srt 	IN_TIME_DVS540 	00:58:22,00 --> 00:58:29,50 	someone looks at someone's clock which counts down from seven seconds.
-IN_TIME.srt 	IN_TIME_DVS555 	00:59:39,00 --> 00:59:47,50 	as her clock begins to count down, someone lifts her head off the pillow and gazes at it.
-IN_TIME.srt 	IN_TIME_DVS939 	01:39:03,00 --> 01:39:11,50 	lowering his gun, he checks his own clock, which counts down from five seconds.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS234 	00:43:11,00 --> 00:43:22,50 	the readout counts down.
 LARRY_CROWNE.srt 	LARRY_CROWNE_DVS71 	00:18:54,00 --> 00:18:59,50 	she counts the meager number of students.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS256 	00:36:40,00 --> 00:36:45,50 	someone counts his cash.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS188 	00:44:46,00 --> 00:44:51,50 	someone counts coins.
 SOUL_SURFER.srt 	SOUL_SURFER_DVS309 	01:32:38,00 --> 01:33:00,50 	the timer counts down past a minute and 45 seconds.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1365 	02:26:56,00 --> 02:27:03,50 	sitting on her bed someone listens to the report as she counts stacks of bonds.
 THE_SITTER.srt 	THE_SITTER_DVS61 	00:34:42,00 --> 00:34:51,50 	farther down the platform someone counts money from the bar mitzvah cards.
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS31 	00:07:15,00 --> 00:07:19,50 	someone counts down on his fingers.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS324 	00:35:41,00 --> 00:35:47,50 	the digital display counts past 37 seconds.
-WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS105 	00:10:21,00 --> 00:10:26,50 	as someone leaves, someone counts the entries on her list.

@@ -1,0 +1,3 @@
+21_JUMP_STREET.srt 	21_JUMP_STREET_DVS112 	00:15:13,00 --> 00:15:22,50 	the teen dances, rips the clothes from his closet, trashes a piano keyboard and then leans close to the camera.
+GET_HIM_TO_THE_GREEK.srt 	GET_HIM_TO_THE_GREEK_DVS43 	00:27:24,00 --> 00:27:32,50 	someone groggily wakes up and finds his suite trashed.
+LAND_OF_THE_LOST.srt 	LAND_OF_THE_LOST_DVS34 	00:12:07,00 --> 00:12:12,50 	store clerk tosses trash out of the way.

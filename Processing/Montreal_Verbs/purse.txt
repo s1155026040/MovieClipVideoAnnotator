@@ -1,42 +1,23 @@
 500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS463 	01:18:34,00 --> 01:18:39,50 	someone purses her lips.
 BLINDDATING.srt 	BLINDDATING_DVS100 	00:27:50,00 --> 00:27:55,50 	someone purses his lips.
-BURLESQUE.srt 	BURLESQUE_DVS601 	01:28:33,00 --> 01:28:40,50 	she lowers her disappointed gaze and purses her lips, then gets up from the daybed.
-BURLESQUE.srt 	BURLESQUE_DVS706 	01:47:41,00 --> 01:47:47,50 	with her lips pursed in a haughty expression, the diva looks away.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS157 	00:12:43,00 --> 00:12:48,50 	someone purses his lips with determination and heads in.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS90 	00:13:19,00 --> 00:13:30,50 	someone's father purses his lips into a thoughtful frown, and digs in his pocket.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS609 	01:23:48,00 --> 01:23:55,50 	nervously pursing his lips.
 DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS152 	00:36:49,00 --> 00:36:54,50 	someone purses his lips in annoyance.
 IN_TIME.srt 	IN_TIME_DVS431 	00:46:08,00 --> 00:46:14,50 	at the wheel, someone drives with narrowed eyes and pursed lips.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS68 	00:19:11,00 --> 00:19:15,50 	someone purses her lips.
-ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS370 	01:43:29,00 --> 01:43:35,50 	the lovelorn woman shakes her and bravely purses her lips.
-JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS408 	01:18:49,00 --> 01:18:54,50 	someone shakes her head, her lips pursed in a frown.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS463 	01:29:55,00 --> 01:30:00,50 	she purses her lips and rises.
-JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS547 	01:48:50,00 --> 01:49:02,50 	someone exhales wearily through pursed lips, then picks up the box containing the manuscript and leans back in her chair.
-KARATE_KID.srt 	KARATE_KID_DVS1341 	01:48:26,00 --> 01:48:31,50 	pursing his lips, he shifts his gaze.
-KARATE_KID.srt 	KARATE_KID_DVS1562 	02:06:29,00 --> 02:06:37,50 	holding his gaze, someone exhales through pursed lips, then springs back onto the platform.
 LAND_OF_THE_LOST.srt 	LAND_OF_THE_LOST_DVS244 	01:28:19,00 --> 01:28:24,50 	someone purses his lips.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS339 	01:14:29,00 --> 01:14:38,50 	cyril's lips purse into an uncertain smirk.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS448 	01:51:27,00 --> 01:51:48,50 	someone purses her lips as she stares at the fallen man's weapon.
 SALT.srt 	SALT_DVS539 	01:32:46,00 --> 01:32:53,50 	his lips tightly pursed.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1270 	01:25:52,00 --> 01:25:57,50 	we drift closer to her and find her lips slightly pursed as she reads.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS280 	00:54:21,00 --> 00:54:26,50 	the english teacher purses her lip.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS365 	01:11:51,00 --> 01:11:57,50 	he stares off, his lips pursed in a thoughtful pout.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS193 	00:39:42,00 --> 00:39:47,50 	she reluctantly purses her lips and blows on the dice.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS298 	00:54:29,00 --> 00:54:34,50 	the bounty hunter purses his lips.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS578 	01:44:30,00 --> 01:44:38,50 	pursing his mouth regretfully, someone waves goodbye to the cop and ambles out.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS761 	01:45:21,00 --> 01:45:27,50 	gazing up from her chair, someone purses her lips.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS785 	01:46:42,00 --> 01:46:49,50 	the peaceful young woman looks at the ashes and purses her lips.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS680 	01:15:49,00 --> 01:15:55,50 	the hacker purses her lips then glances aside bashfully.
 THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS64 	00:19:35,00 --> 00:19:40,50 	someone nods repeatedly, his lips pursed.
 THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS128 	00:47:07,00 --> 00:47:12,50 	someone purses his lips.
 THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS228 	01:14:45,00 --> 01:14:49,50 	someone purses his lips.
-THE_VOW.srt 	THE_VOW_DVS81 	00:07:04,00 --> 00:07:11,50 	holding it up, she purses her lips and mocks a seductive expression.
 THE_WATCH.srt 	THE_WATCH_DVS401 	01:12:29,00 --> 01:12:33,50 	someone purses his lips.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS655 	01:12:58,00 --> 01:13:03,50 	then purses his lips.
-TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS705 	01:18:05,00 --> 01:18:12,50 	someone reaches the center line with his teammates and exhales through pursed lips.
-UGLY_TRUTH.srt 	UGLY_TRUTH_DVS413 	00:50:24,00 --> 00:50:31,50 	irritably pursing her lips, she picks up a glass of white wine and takes a seat.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS181 	00:32:28,00 --> 00:32:34,50 	he lowers his thoughtful gaze and purses his lips.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS580 	01:29:04,00 --> 01:29:11,50 	blinking thoughtfully, someone purses his lips tightly and nods.
-WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS71 	00:06:07,00 --> 00:06:14,50 	someone purses her lips receptively, then sweeps her long bangs out of her face.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS655 	01:32:01,00 --> 01:32:05,50 	she purses her lips.
 ZOOKEEPER.srt 	ZOOKEEPER_DVS289 	01:03:30,00 --> 01:03:37,50 	someone purses his lips and puffs out his cheeks.

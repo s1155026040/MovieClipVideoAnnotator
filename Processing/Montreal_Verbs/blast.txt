@@ -1,26 +1,12 @@
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS185 	00:16:24,00 --> 00:16:38,50 	blasting through a courtroom wall.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS386 	00:35:19,00 --> 00:35:26,50 	the frame blasts a large hole in the wall.
 BURLESQUE.srt 	BURLESQUE_DVS250 	00:36:13,00 --> 00:36:18,50 	it blasts him with gold confetti.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS351 	01:04:52,00 --> 01:05:01,50 	outside, several prisoners follow alongside the stolen armored vehicle as it blasts through the front gate.
-CHRONICLE.srt 	CHRONICLE_DVS472 	01:08:27,00 --> 01:08:35,50 	floating nearby, someone uses his power to blast out the windshield and suck someone from the car.
 COLOMBIANA.srt 	COLOMBIANA_DVS958 	01:32:34,00 --> 01:32:39,50 	then blasts out doors and windows.
 COLOMBIANA.srt 	COLOMBIANA_DVS995 	01:35:02,00 --> 01:35:07,50 	then jumps into the crawl space, his weapon still blasting.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS562 	01:20:11,00 --> 01:20:32,50 	they blast holes in the asphalt around the flaming motorcycle but fail to impede it.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS297 	00:55:32,00 --> 00:55:40,50 	as someone points toward the door, a fireball blasts from his palm and shatters a glass wall surrounding a fountain.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS300 	00:55:42,00 --> 00:55:51,50 	someone blasts it with his palm weapon.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS302 	00:55:53,00 --> 00:56:04,50 	the blond woman throws another bottle in the air and someone blasts it.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS303 	00:56:03,00 --> 00:56:11,50 	upstairs, someone blasts another flying bottle.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS305 	00:56:15,00 --> 00:56:22,50 	someone uses his chest weapon to blast the watermelon to bits.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS571 	01:39:42,00 --> 01:39:53,50 	as the drone's shoulder-mounted gun lowers and aims at the child, someone lands and blasts the drone to pieces.
 PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS390 	01:36:24,00 --> 01:36:32,50 	with a power hungry smile, someone blasts away a chunk of the deck.
-PROMETHEUS.srt 	PROMETHEUS_DVS436 	00:44:26,00 --> 00:44:33,50 	later as they move through the hanger, a crew member blasts the floor with a flame thrower.
-PROMETHEUS.srt 	PROMETHEUS_DVS439 	00:45:43,00 --> 00:45:59,50 	a white mist blasts it, filling the chamber and an image appears on a monitor.
-SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS58 	00:12:01,00 --> 00:12:06,50 	someone grabs his cane and blasts him backwards.
-THE_WATCH.srt 	THE_WATCH_DVS490 	01:27:33,00 --> 01:27:41,50 	they shoot, to no avail, even blasting a hole in one's head.
 THOR.srt 	THOR_DVS618 	01:33:49,00 --> 01:33:55,50 	someone blasts him again.
-THOR.srt 	THOR_DVS621 	01:34:35,00 --> 01:34:40,50 	someone aims his spear at someone and blasts him through a wall.
 TRUE_GRIT.srt 	TRUE_GRIT_DVS462 	01:30:56,00 --> 01:31:01,50 	someone blasts him through the chest.
 TRUE_GRIT.srt 	TRUE_GRIT_DVS488 	01:32:34,00 --> 01:32:46,50 	she blasts him off the cliff edge.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1166 	01:44:24,00 --> 01:44:30,50 	someone blasts him against the submarine.
-ZOMBIELAND.srt 	ZOMBIELAND_DVS409 	00:46:49,00 --> 00:46:55,50 	they blast two others and someone grabs a star map.
-ZOMBIELAND.srt 	ZOMBIELAND_DVS602 	01:09:27,00 --> 01:09:33,50 	then blast away several charging zombies.

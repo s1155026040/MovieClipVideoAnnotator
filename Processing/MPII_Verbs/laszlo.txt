@@ -1,10 +1,2 @@
-0003_CASABLANCA_00.28.03.261-00.28.04.938 	there is not the slightest recognition from either ilsa or laszlo.
-0003_CASABLANCA_00.29.19.761-00.29.22.238 	meanwhile, laszlo looks about with apparent casualness.
-0003_CASABLANCA_00.30.38.926-00.30.40.898 	he stops when sacha brings the drink to laszlo.
-0003_CASABLANCA_00.56.17.145-00.56.22.468 	rick looks out of the window and sees ilsa at the linen bazaar, then laszlo walking toward the cafe.
-0003_CASABLANCA_01.26.19.976-01.26.21.012 	rick sees carl attending to laszlo, who appears to be injured.
-0003_CASABLANCA_01.33.54.567-01.33.56.221 	he hands them to laszlo, who takes them gratefully.
 0003_CASABLANCA_01.36.07.325-01.36.08.665 	the orderly escorts laszlo off in the direction of the plane.
-0003_CASABLANCA_01.37.53.904-01.37.56.055 	he walks back out to laszlo.
-0003_CASABLANCA_01.38.31.250-01.38.32.440 	rick hands the letters to laszlo.
 0003_CASABLANCA_01.38.54.383-01.38.55.581 	then laszlo breaks the silence.

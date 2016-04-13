@@ -1,12 +1,3 @@
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS260 	00:48:56,00 --> 00:49:00,50 	he unbuttons his shirt.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS366 	00:58:30,00 --> 00:58:41,50 	inside, she leans back against a wall as she unbuttons his dress shirt.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS709 	01:35:50,00 --> 01:35:56,50 	someone unbuttons his wet sleeve as he heads into a bathroom.
-HUGO.srt 	HUGO_DVS586 	01:24:54,00 --> 01:25:01,50 	someone glances around himself, feels his own chest, then unbuttons his shirt.
 IN_TIME.srt 	IN_TIME_DVS368 	00:38:41,00 --> 00:38:46,50 	someone unbuttons his shirt and grins.
-IN_TIME.srt 	IN_TIME_DVS649 	01:10:18,00 --> 01:10:23,50 	someone unbuttons a cuff and adjusts his sleeve.
-NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS486 	01:29:33,00 --> 01:29:38,50 	she stands and unbuttons her shirt.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS256 	00:59:16,00 --> 00:59:25,50 	the archer stands stiff as she unbuttons a clasp at this throat.
-SUPER_8.srt 	SUPER_8_DVS397 	01:12:14,00 --> 01:12:19,50 	with his shirt unbuttoned someone waits in a holding cell.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1177 	02:05:40,00 --> 02:05:48,50 	someone unbuttons someone's pants then stands upright and steps back, gazing thoughtfully.
-THE_VOW.srt 	THE_VOW_DVS468 	01:07:02,00 --> 01:07:08,50 	someone unbuttons his shirt and someones smile fades.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS466 	01:05:41,00 --> 01:05:45,50 	he unbuttons the shirt.

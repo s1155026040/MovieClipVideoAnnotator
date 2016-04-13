@@ -1,21 +1,2 @@
-30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS85 	00:21:31,00 --> 00:21:37,50 	across a dirt clearing lies a shed with lights on inside.
-30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS87 	00:21:43,00 --> 00:21:47,50 	he marches up to the shed.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS113 	00:09:10,00 --> 00:09:16,50 	he opens the doors of a shed and pads inside barefoot.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS130 	00:10:45,00 --> 00:10:51,50 	the woman opens the doors of a well-stocked surf shed and walks to the back.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS302 	00:24:05,00 --> 00:24:10,50 	he backs the teen against the shed.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS309 	00:25:23,00 --> 00:25:28,50 	coming out of the shed, he gazes after someone.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS316 	00:26:27,00 --> 00:26:33,50 	other boards rest in a rack at the back of the shed.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS750 	01:14:12,00 --> 01:14:19,50 	now, someone marches into someone's shed where his mentor tends to a board.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS809 	01:19:55,00 --> 01:20:02,50 	someone hurriedly takes down the other board, ducks down, and carries it from the shed.
-CHRONICLE.srt 	CHRONICLE_DVS176 	00:26:36,00 --> 00:26:43,50 	shedding his jacket and shoes, someone dives into the water.
-FLIGHT.srt 	FLIGHT_DVS200 	00:46:42,00 --> 00:46:49,50 	the car passes a dilapidated shed on the right, and pulls up to a large, older farmhouse.
-FLIGHT.srt 	FLIGHT_DVS233 	00:49:50,00 --> 00:49:55,50 	he slides the doors of the shed open,
-KARATE_KID.srt 	KARATE_KID_DVS472 	00:42:10,00 --> 00:42:30,50 	someone reaches the outer gate of his apartment complex, and races through its wide green doors, into a courtyard by the maintenance shed.
-KARATE_KID.srt 	KARATE_KID_DVS474 	00:42:31,00 --> 00:42:38,50 	he glances around frantically, then hurries to the maintenance shed's doors and rattles them.
-KARATE_KID.srt 	KARATE_KID_DVS475 	00:42:35,00 --> 00:42:42,50 	turning from the locked shed, he sees someone and his cronies enter the courtyard.
-SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS457 	01:36:55,00 --> 01:37:01,50 	as he fires them, the shoot past someone and hit a power shed.
-SUPER_8.srt 	SUPER_8_DVS304 	00:54:21,00 --> 00:54:29,50 	leaping to his feet, he takes his flashlight out of his backpack and shines it across the cemetery onto a shed.
-THE_CALL.srt 	THE_CALL_DVS902 	01:09:43,00 --> 01:09:47,50 	she hits a light switch, which turns on a single lamp that barely sheds light on the room.
-THE_WATCH.srt 	THE_WATCH_DVS275 	00:50:53,00 --> 00:51:01,50 	it backhands him, sending him flying against a shed.
 THOR.srt 	THOR_DVS552 	01:27:30,00 --> 01:27:35,50 	someone sheds a single tear.
-ZOMBIELAND.srt 	ZOMBIELAND_DVS687 	01:15:53,00 --> 01:15:59,50 	with a gun in each hand, he spreads his arms, shedding the tactical vest.

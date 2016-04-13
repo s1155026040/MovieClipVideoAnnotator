@@ -1,10 +1,3 @@
-BLINDDATING.srt 	BLINDDATING_DVS162 	00:41:54,00 --> 00:42:00,50 	tears flood someone's eyes as she retrieves her bag from the bench.
 KARATE_KID.srt 	KARATE_KID_DVS408 	00:37:15,00 --> 00:37:28,50 	students flood through to a vast palatial courtyard.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS295 	00:38:26,00 --> 00:38:32,50 	it leaves the upper deck flooded as he recovers.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS304 	00:38:56,00 --> 00:39:04,50 	finding his level flooded, he dives into the water and swims.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS411 	00:48:00,00 --> 00:48:08,50 	the orangutan lets it bounce off her shoulder and land on the flooded floor of the boat.
 PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS272 	01:09:14,00 --> 01:09:35,50 	water gushes out, quickly flooding the floor.
 SALT.srt 	SALT_DVS160 	00:27:52,00 --> 00:27:58,50 	outside, agents flood out of vehicles and head toward the building.
-SALT.srt 	SALT_DVS377 	01:07:17,00 --> 01:07:26,50 	she stares at the dark shimmering water flooding the chamber below.
-SANCTUM.srt 	SANCTUM_DVS195 	00:44:08,00 --> 00:44:20,50 	later, the team arrives back at the dark, flooded base camp.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS380 	00:32:04,00 --> 00:32:11,50 	someone clutches his head and drops to his knees, as memories of someone torturing him flood his mind.

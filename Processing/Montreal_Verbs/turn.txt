@@ -50,7 +50,6 @@ A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS123 	00:28:01,00 --> 00:28:09,50 	some
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS123 	00:28:01,00 --> 00:28:09,50 	someone turns, strides across the room, picks up his briefcase, then turns back to face the tree.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS124 	00:28:07,00 --> 00:28:13,50 	smiling, someone turns toward the tree and raises his middle finger.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS146 	00:30:00,00 --> 00:30:06,50 	turned around, the blind man now walks down the middle of the street.
-A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS207 	00:39:56,00 --> 00:40:01,50 	she turns and looks into the backyard.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS295 	00:54:22,00 --> 00:54:27,50 	someone turns to a blond woman beside him.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS329 	00:58:48,00 --> 00:58:54,50 	someone turns and stares up at the tree's leaves.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS423 	01:13:06,00 --> 01:13:11,50 	he stares at someone then turns and walks off.
@@ -60,7 +59,6 @@ ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS109 	00:11
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS151 	00:18:50,00 --> 00:18:54,50 	someone turns.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS161 	00:21:22,00 --> 00:21:34,50 	someone turns the thiefs inside out coat back the right way then shakes out the wrinkles.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS183 	00:24:53,00 --> 00:25:06,50 	as he turns, someone narrows his eyes.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS190 	00:25:42,00 --> 00:26:00,50 	as the trapped hunter looks on, the vampire opens a gleaming straight razor, turns it over and touches the blade.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS205 	00:27:53,00 --> 00:27:58,50 	she turns and scans the room.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS211 	00:29:29,00 --> 00:29:45,50 	as he swings his ax, the man turns and vanishes.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS220 	00:31:11,00 --> 00:31:17,50 	someone turns her head away and presses her lips together suppressing a smile.
@@ -73,7 +71,6 @@ ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS336 	00:47
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS357 	00:50:56,00 --> 00:51:04,50 	someone turns someone' hand palm up and pries his fingers from someone's pocket watch.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS361 	00:51:13,00 --> 00:51:18,50 	he turns back and ambles over to someone.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS429 	01:01:44,00 --> 01:01:51,50 	the men turn.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS440 	01:03:43,00 --> 01:03:48,50 	the men turn and the boy looks up from his play.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS448 	01:04:18,00 --> 01:04:25,50 	turning around, he returns to his father's desk and kisses his sunken cheek.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS469 	01:06:44,00 --> 01:06:49,50 	someone turns and faces him questioningly.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS480 	01:07:42,00 --> 01:07:47,50 	turning, he finds someone sitting on the concrete.
@@ -102,10 +99,8 @@ BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS112 	00:
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS218 	00:36:31,00 --> 00:36:39,50 	turning on the light, he pulls the door shut, then hikes up his skirt to find his padded girdle in the way.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS230 	00:38:20,00 --> 00:38:26,50 	someone turns around and widens his eyes.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS231 	00:38:25,00 --> 00:38:32,50 	now, a bald heavyset guard turns up a boombox on top of his security control panel.
-BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS239 	00:38:58,00 --> 00:39:03,50 	he turns off his music and looks at someone with interest.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS242 	00:40:19,00 --> 00:40:24,50 	he goes into his office and turns on the lights.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS252 	00:42:25,00 --> 00:42:31,50 	someone turns for someone to wrap the necklace around her neck.
-BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS318 	00:53:29,00 --> 00:53:35,50 	everyone turns to look at him.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS354 	00:57:44,00 --> 00:57:48,50 	he turns to her.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS355 	00:57:48,00 --> 00:57:53,50 	someone turns away.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS382 	01:01:17,00 --> 01:01:21,50 	someone turns.
@@ -192,7 +187,6 @@ CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS65 	00:05:37,00 --> 00:05:44,50 	as 
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS67 	00:05:49,00 --> 00:05:53,50 	he turns away.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS88 	00:06:55,00 --> 00:06:59,50 	as he turns to go, she reaches for his hand.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS91 	00:07:14,00 --> 00:07:18,50 	she turns away.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS97 	00:07:33,00 --> 00:07:40,50 	he turns on the light and takes it in his hands, looking down at it.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS176 	00:13:59,00 --> 00:14:05,50 	on the beach, someone turns around and watches.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS212 	00:17:05,00 --> 00:17:10,50 	the older surfer turns away.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS306 	00:25:09,00 --> 00:25:13,50 	someone turns away.
@@ -201,7 +195,6 @@ CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS310 	00:25:29,00 --> 00:25:35,50 	tu
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS378 	00:35:32,00 --> 00:35:38,50 	as he turns away, she leaves the table,
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS380 	00:35:54,00 --> 00:35:59,50 	someone turns to face her, his gaze receptive.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS388 	00:36:42,00 --> 00:36:47,50 	someone opens her door then turns on a shower.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS482 	00:46:14,00 --> 00:46:19,50 	someone turns the page and looks up.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS547 	00:53:03,00 --> 00:53:09,50 	at his desk, the young surfer pulls out the cigar box and turns on a lamp.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS551 	00:53:18,00 --> 00:53:23,50 	someone grabs the letter and gazes longingly then turns it over in the box.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS566 	00:54:47,00 --> 00:54:52,50 	his mom snatches it and turns.
@@ -218,8 +211,6 @@ CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS1029 	01:39:47,00 --> 01:39:53,50 	t
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS1079 	01:43:06,00 --> 01:43:11,50 	the photographer smiles, then turns.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS1092 	01:44:02,00 --> 01:44:08,50 	sitting on his board, someone turns as someone sits up next to him.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS1120 	01:47:27,00 --> 01:47:34,50 	as someone slows down, he turns to see the veterans sitting on their boards smiling.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS1131 	01:48:22,00 --> 01:48:27,50 	he turns around and looks up at the surface.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS1141 	01:49:00,00 --> 01:49:06,50 	he turns to see someone looking up at him with pain in her eyes.
 CHRONICLE.srt 	CHRONICLE_DVS163 	00:24:36,00 --> 00:24:41,50 	he turns it around to face a different space.
 CHRONICLE.srt 	CHRONICLE_DVS191 	00:28:29,00 --> 00:28:35,50 	as someone faces someone, someone turns away.
 CHRONICLE.srt 	CHRONICLE_DVS274 	00:41:51,00 --> 00:41:55,50 	he turns and smiles.
@@ -234,7 +225,6 @@ CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS169 	00:36:06,00 --> 00:36:22,50 	sheltere
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS204 	00:42:27,00 --> 00:42:36,50 	they turn their heads and walk away.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS248 	01:01:56,00 --> 01:02:05,50 	someone sits wearily, his gaze turned downward.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS253 	01:02:43,00 --> 01:02:58,50 	pressing against him, someone puts her free hand on his shoulder as she turns the meat.
-CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS345 	01:26:04,00 --> 01:26:11,50 	someone turns, looking all around.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS404 	01:37:58,00 --> 01:38:04,50 	someone turns in his seat, facing the large man fully.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS457 	01:47:36,00 --> 01:47:41,50 	someone turns her stunned gaze from the priest.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS486 	01:51:48,00 --> 01:51:54,50 	as someone's gaze lowers, she turns around and walks out.
@@ -252,7 +242,6 @@ COLOMBIANA.srt 	COLOMBIANA_DVS313 	00:27:07,00 --> 00:27:12,50 	turning, he find
 COLOMBIANA.srt 	COLOMBIANA_DVS326 	00:28:41,00 --> 00:28:47,50 	someone turns his niece away by the shoulder.
 COLOMBIANA.srt 	COLOMBIANA_DVS372 	00:33:36,00 --> 00:33:42,50 	at his station, the guard turns on a portable radio.
 COLOMBIANA.srt 	COLOMBIANA_DVS415 	00:36:44,00 --> 00:36:49,50 	she kicks him as he turns, knocking him out cold.
-COLOMBIANA.srt 	COLOMBIANA_DVS451 	00:39:43,00 --> 00:39:50,50 	the someone lands behind two cops in an alley who turn and look up.
 COLOMBIANA.srt 	COLOMBIANA_DVS458 	00:40:15,00 --> 00:40:21,50 	someone warren turns away and faces the desk sergeant.
 COLOMBIANA.srt 	COLOMBIANA_DVS470 	00:41:25,00 --> 00:41:30,50 	the sergeant glances past her and she turns.
 COLOMBIANA.srt 	COLOMBIANA_DVS493 	00:43:26,00 --> 00:43:33,50 	a blonde woman turns from a mirror as a now casually dressed someone emerges.
@@ -307,12 +296,9 @@ DEAR_JOHN.srt 	DEAR_JOHN_DVS736 	01:37:36,00 --> 01:37:44,50 	as someone turns, 
 DEAR_JOHN.srt 	DEAR_JOHN_DVS751 	01:38:25,00 --> 01:38:32,50 	he accidentally turns on his wipers and they glide across the windshield.
 DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS95 	00:22:48,00 --> 00:22:53,50 	someone turns to someone.
 DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS285 	01:10:41,00 --> 01:10:49,50 	open-mouthed, someone turns to someone who snaps out of his death impersonation.
-DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS288 	01:11:01,00 --> 01:11:06,50 	someone turns away, looking fed up.
-DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS300 	01:14:51,00 --> 01:14:58,50 	someone looks at some goats in front of them then turns back to someone.
 DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS311 	01:17:23,00 --> 01:17:29,50 	someone turns and wades out of the pond.
 DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS320 	01:18:07,00 --> 01:18:12,50 	he turns around and switches on another light.
 DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS373 	01:30:54,00 --> 01:31:00,50 	someone mouths "thank you" then turns back to someone.
-DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS384 	01:33:34,00 --> 01:33:40,50 	someone turns to look in at the others through the french windows.
 DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS386 	01:34:01,00 --> 01:34:05,50 	someone turns back to him.
 DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS390 	01:35:09,00 --> 01:35:14,50 	someone turns back towards the room the others are in.
 DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS405 	01:41:02,00 --> 01:41:07,50 	he turns a light illuminating the painting off.
@@ -320,7 +306,6 @@ DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS414 	01:42:50,00 --> 01:42:54,50
 DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS427 	01:44:38,00 --> 01:44:46,50 	then turns slowly towards the door where someone is standing, tears in her eyes.
 DISTRICT_9.srt 	DISTRICT_9_DVS327 	00:35:47,00 --> 00:36:00,50 	pale and sickly, he briefly turns away from the surrounding guests, wipes his mouth then grabs a knife.
 DISTRICT_9.srt 	DISTRICT_9_DVS438 	00:48:20,00 --> 00:48:31,50 	he turns abruptly and lowers himself into the grass.
-DISTRICT_9.srt 	DISTRICT_9_DVS440 	00:48:40,00 --> 00:48:56,50 	someone turns his head toward the sky, his eyes tracking the helicopter above, then looks back at the mnu vehicle.
 DISTRICT_9.srt 	DISTRICT_9_DVS448 	00:50:18,00 --> 00:50:40,50 	he finds a can of cat food and turns it upside down over his tilted back head.
 DISTRICT_9.srt 	DISTRICT_9_DVS486 	00:56:48,00 --> 00:57:04,50 	someone stomps his foot and turns his back to someone.
 DISTRICT_9.srt 	DISTRICT_9_DVS487 	00:57:03,00 --> 00:57:14,50 	someone turns.
@@ -358,7 +343,6 @@ FLIGHT.srt 	FLIGHT_DVS1250 	02:11:34,00 --> 02:11:39,50 	someone turns on his ce
 FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS19 	00:05:16,00 --> 00:05:21,50 	she jerks his seat up and turns away.
 FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS35 	00:09:52,00 --> 00:09:57,50 	he turns away, staring at his cell.
 FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS221 	00:59:37,00 --> 00:59:50,50 	they turn away.
-FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS320 	01:24:15,00 --> 01:24:27,50 	he turns to look at the actual structures.
 FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS339 	01:29:42,00 --> 01:30:01,50 	that night, someone walks into his kitchen, throws down his bag and turns on the lights.
 FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS349 	01:33:08,00 --> 01:33:14,50 	someone turns away and finds his father gone.
 GET_HIM_TO_THE_GREEK.srt 	GET_HIM_TO_THE_GREEK_DVS9 	00:06:30,00 --> 00:06:34,50 	turns the clock radio off.
@@ -388,8 +372,6 @@ GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS389 	00:
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS399 	00:58:55,00 --> 00:59:04,50 	he reaches the end of the passage and a huge slab blocks him from turning back.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS476 	01:09:17,00 --> 01:09:23,50 	he takes out a syringe then turns to his son.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS495 	01:12:12,00 --> 01:12:19,50 	she glances down then heads off and he turns to watch her go.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS527 	01:14:59,00 --> 01:15:10,50 	someone turns and looks up, his eyes returning to normal.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS540 	01:16:52,00 --> 01:17:13,50 	the devil turns and his minion looks up.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS555 	01:18:56,00 --> 01:19:05,50 	at her post, someone turns to find someone's motorcycle erupting flames as the engine starts by itself.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS566 	01:21:18,00 --> 01:21:51,50 	the rider turns.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS596 	01:25:54,00 --> 01:25:58,50 	he turns his head.
@@ -422,7 +404,6 @@ HUGO.srt 	HUGO_DVS178 	00:24:54,00 --> 00:25:03,50 	someone ducks as the inspect
 HUGO.srt 	HUGO_DVS183 	00:25:50,00 --> 00:25:56,50 	he glances toward the flower seller then turns and limps off in the other direction.
 HUGO.srt 	HUGO_DVS185 	00:26:10,00 --> 00:26:14,50 	he turns and faces someone.
 HUGO.srt 	HUGO_DVS194 	00:27:19,00 --> 00:27:25,50 	turning the corner, he barrels into the brown-haired girl.
-HUGO.srt 	HUGO_DVS237 	00:34:23,00 --> 00:34:32,50 	she looks up and smiles at someone, who gasps and turns away.
 HUGO.srt 	HUGO_DVS249 	00:35:22,00 --> 00:35:27,50 	he forces it to turn, but still nothing happens.
 HUGO.srt 	HUGO_DVS286 	00:42:33,00 --> 00:42:39,50 	he takes a step forward then turns and points into the distance.
 HUGO.srt 	HUGO_DVS291 	00:43:22,00 --> 00:43:28,50 	the station inspector passes them then pauses and turns.
@@ -433,7 +414,6 @@ HUGO.srt 	HUGO_DVS364 	00:55:52,00 --> 00:55:57,50 	someone steps down a hallway
 HUGO.srt 	HUGO_DVS369 	00:56:18,00 --> 00:56:23,50 	she inspects him intently then turns to someone.
 HUGO.srt 	HUGO_DVS383 	00:58:26,00 --> 00:58:32,50 	someone turns someone and someone around then herds them into another room.
 HUGO.srt 	HUGO_DVS386 	00:58:39,00 --> 00:58:44,50 	someone turns and eyes an armoire standing against a wall.
-HUGO.srt 	HUGO_DVS391 	00:59:17,00 --> 00:59:22,50 	someone looks up at someone as she turns her gaze toward the hallway.
 HUGO.srt 	HUGO_DVS398 	00:59:54,00 --> 00:59:59,50 	then turns and smiles at someone.
 HUGO.srt 	HUGO_DVS401 	01:00:16,00 --> 01:00:23,50 	smiling, she hands the panel to someone then turns toward a wooden box sitting in the exposed space.
 HUGO.srt 	HUGO_DVS406 	01:00:40,00 --> 01:00:45,50 	wide-eyed, someone watches as someone turns toward him.
@@ -471,7 +451,6 @@ IN_TIME.srt 	IN_TIME_DVS37 	00:04:16,00 --> 00:04:23,50 	turning a corner, someo
 IN_TIME.srt 	IN_TIME_DVS113 	00:12:48,00 --> 00:12:57,50 	as someone turns away, someone stares ahead with a haunted expression.
 IN_TIME.srt 	IN_TIME_DVS130 	00:15:13,00 --> 00:15:19,50 	the rich man wakes and turn toward his rescuer.
 IN_TIME.srt 	IN_TIME_DVS166 	00:18:03,00 --> 00:18:09,50 	a faint smile touches his lips as he turns to someone.
-IN_TIME.srt 	IN_TIME_DVS182 	00:19:42,00 --> 00:19:50,50 	someone's mother looks at the other passengers who either avoid her gaze or turn away with disengaged expressions.
 IN_TIME.srt 	IN_TIME_DVS255 	00:26:12,00 --> 00:26:20,50 	standing at a car's open door, she turns as he passes and stares after him.
 IN_TIME.srt 	IN_TIME_DVS341 	00:35:15,00 --> 00:35:23,50 	at night, the roadster turns, pulls through an open gate, and passes a marble statue.
 IN_TIME.srt 	IN_TIME_DVS369 	00:38:52,00 --> 00:38:58,50 	someone starts for the ocean, then pauses and turns back, unbuckling his belt.
@@ -583,7 +562,6 @@ JACK_AND_JILL.srt 	JACK_AND_JILL_DVS438 	01:21:34,00 --> 01:21:38,50 	someone tu
 JACK_AND_JILL.srt 	JACK_AND_JILL_DVS446 	01:22:21,00 --> 01:22:25,50 	without turning, someone punches her out.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS83 	00:11:34,00 --> 00:11:40,50 	someone turns back to annabelle, who checks her datebook.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS132 	00:23:27,00 --> 00:23:32,50 	she turns it, showing the title.
-JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS172 	00:31:51,00 --> 00:32:02,50 	a chef with a snowy mustache looks up, and his male students turn.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS243 	00:45:15,00 --> 00:45:21,50 	he turns off a lamp and leaves her sleeping peacefully.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS391 	01:15:52,00 --> 01:16:04,50 	she sits at the small entryway table, where someone turns on a lamp, and sets down his hat.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS442 	01:27:36,00 --> 01:27:41,50 	someone turns questioningly to his wife.
@@ -619,7 +597,6 @@ KARATE_KID.srt 	KARATE_KID_DVS509 	00:46:09,00 --> 00:46:21,50 	as he turns back
 KARATE_KID.srt 	KARATE_KID_DVS510 	00:46:23,00 --> 00:46:31,50 	his chest heaves as he turns from the group.
 KARATE_KID.srt 	KARATE_KID_DVS523 	00:47:35,00 --> 00:47:39,50 	he turns away.
 KARATE_KID.srt 	KARATE_KID_DVS581 	00:51:41,00 --> 00:51:47,50 	with a hard expression, the instructor turns to the visitors.
-KARATE_KID.srt 	KARATE_KID_DVS582 	00:51:44,00 --> 00:51:50,50 	as they approach, someone's cohorts turn to look at them.
 KARATE_KID.srt 	KARATE_KID_DVS620 	00:53:20,00 --> 00:53:25,50 	he turns to his students.
 KARATE_KID.srt 	KARATE_KID_DVS728 	01:01:49,00 --> 01:01:55,50 	halting, he turns back and sets down his skateboard.
 KARATE_KID.srt 	KARATE_KID_DVS981 	01:20:12,00 --> 01:20:19,50 	the boy turns, wide-eyed.
@@ -632,7 +609,6 @@ KARATE_KID.srt 	KARATE_KID_DVS1123 	01:33:11,00 --> 01:33:25,50 	he turns into t
 KARATE_KID.srt 	KARATE_KID_DVS1131 	01:34:07,00 --> 01:34:12,50 	the instructor's eyes widen and he turns.
 KARATE_KID.srt 	KARATE_KID_DVS1486 	02:01:05,00 --> 02:01:11,50 	someone turns away remorsefully and shuffles across the mat.
 KARATE_KID.srt 	KARATE_KID_DVS1624 	02:12:06,00 --> 02:12:17,50 	someone turns away, then back-flips off his one good leg.
-KARATE_KID.srt 	KARATE_KID_DVS1634 	02:12:46,00 --> 02:12:56,50 	as someone turns away with his head bowed, someone looks to the big screen.
 KARATE_KID.srt 	KARATE_KID_DVS1642 	02:13:30,00 --> 02:13:37,50 	grinning, the boy sets the trophy before his mother, then turns and locates his beaming teacher.
 KATY_PERRY_PART_OF_ME.srt 	KATY_PERRY_PART_OF_ME_DVS84 	00:16:47,00 --> 00:16:54,50 	in fast motion night turns to day revealing the cityscape of las vegas, nevada.
 KNOCKED_UP.srt 	KNOCKED_UP_DVS71 	00:43:09,00 --> 00:43:20,50 	brushing his teeth he turns to face her.
@@ -641,7 +617,6 @@ LAND_OF_THE_LOST.srt 	LAND_OF_THE_LOST_DVS39 	00:13:41,00 --> 00:13:45,50 	he tu
 LAND_OF_THE_LOST.srt 	LAND_OF_THE_LOST_DVS77 	00:26:15,00 --> 00:26:21,50 	someone turns into the cave, and takes in its ridged high-rising walls.
 LAND_OF_THE_LOST.srt 	LAND_OF_THE_LOST_DVS81 	00:27:20,00 --> 00:27:28,50 	continues to turn on the phonograph.
 LAND_OF_THE_LOST.srt 	LAND_OF_THE_LOST_DVS95 	00:31:23,00 --> 00:31:28,50 	someone turns off the camera as someone and someone enter.
-LAND_OF_THE_LOST.srt 	LAND_OF_THE_LOST_DVS112 	00:35:59,00 --> 00:36:07,50 	someone grips someone's chin and turns his head to look at dozens of lizard-like creatures emerging from niches in the plaza wall.
 LAND_OF_THE_LOST.srt 	LAND_OF_THE_LOST_DVS161 	00:59:59,00 --> 01:00:03,50 	he turns to find his primitive friend feigning
 LAND_OF_THE_LOST.srt 	LAND_OF_THE_LOST_DVS166 	01:01:14,00 --> 01:01:25,50 	someone fearfully turns and one of the eggshells cracks.
 LAND_OF_THE_LOST.srt 	LAND_OF_THE_LOST_DVS170 	01:02:23,00 --> 01:02:30,50 	someone turns, finding all the hatchlings asleep behind him.
@@ -675,7 +650,6 @@ LIFE_OF_PI.srt 	LIFE_OF_PI_DVS419 	00:48:47,00 --> 00:48:52,50 	standing on the 
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS451 	00:51:34,00 --> 00:51:40,50 	the orangutan picks it up, turning it in her hands and feet as she examines it.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS460 	00:52:09,00 --> 00:52:16,50 	someone turns and stalks the orangutan who backs against the canvas' edge.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS497 	00:55:09,00 --> 00:55:16,50 	someone turns his gaze out over the slate-grey water surrounding them.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS536 	00:58:21,00 --> 00:58:26,50 	the boy turns, looking over his shoulder.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS551 	00:59:37,00 --> 00:59:46,50 	standing along in the vast, isolated expanse, he turns his gaze toward the sunlit clouds above.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS576 	01:03:57,00 --> 01:04:02,50 	he turns, putting his tail to someone.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS606 	01:06:23,00 --> 01:06:30,50 	shaking water out of his pressed back ears, someone turns toward him.
@@ -683,11 +657,9 @@ LIFE_OF_PI.srt 	LIFE_OF_PI_DVS684 	01:12:19,00 --> 01:12:25,50 	he turns and pee
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS717 	01:14:40,00 --> 01:14:47,50 	as they turn, hundreds of flying fish soar directly at them.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS728 	01:15:45,00 --> 01:16:00,50 	he heaves it onto the canvas and turns starting down someone someone as fish continue flying by.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS750 	01:17:57,00 --> 01:18:03,50 	standing his ground, someone slowly turns his head.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS823 	01:23:59,00 --> 01:24:07,50 	someone's ear twitches and he slowly turns his head looking down into the dark ocean.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS971 	01:35:56,00 --> 01:36:01,50 	he turns his head and approaches a crest.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS990 	01:37:25,00 --> 01:37:32,50 	he turns to see someone someone walking through the field of attentive little creatures.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS1003 	01:38:25,00 --> 01:38:34,50 	someone turns his head and sees someone someone springing toward the lifeboat.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS1072 	01:48:12,00 --> 01:48:17,50 	someone looks off then turns.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS1079 	01:49:12,00 --> 01:49:18,50 	the younger japanese man stares at someone as the older one turns to him.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS1100 	01:54:27,00 --> 01:54:33,50 	his expression hardens and someone turns his earnest gaze on the older man.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS1114 	01:57:10,00 --> 01:57:16,50 	the writers eyes sparkle and the corners of his lips turn up.
@@ -705,8 +677,6 @@ MORNING_GLORY.srt 	MORNING_GLORY_DVS96 	00:20:59,00 --> 00:21:07,50 	someone lic
 MORNING_GLORY.srt 	MORNING_GLORY_DVS110 	00:24:54,00 --> 00:25:00,50 	someone rolls his eyes sardonically as he turns to camera.
 MORNING_GLORY.srt 	MORNING_GLORY_DVS121 	00:26:47,00 --> 00:26:51,50 	he turns to her.
 MORNING_GLORY.srt 	MORNING_GLORY_DVS133 	00:31:33,00 --> 00:31:39,50 	she smiles and turns back to the rest of the studio.
-MORNING_GLORY.srt 	MORNING_GLORY_DVS158 	00:37:05,00 --> 00:37:09,50 	everyone turns to look at someone.
-MORNING_GLORY.srt 	MORNING_GLORY_DVS172 	00:40:07,00 --> 00:40:12,50 	she poses and looks over at someone who turns.
 MORNING_GLORY.srt 	MORNING_GLORY_DVS193 	00:43:58,00 --> 00:44:04,50 	she stops and turns to regard herself in the mirror.
 MORNING_GLORY.srt 	MORNING_GLORY_DVS228 	00:51:44,00 --> 00:51:49,50 	he stops and turns back to wish her goodnight.
 MORNING_GLORY.srt 	MORNING_GLORY_DVS295 	01:04:36,00 --> 01:04:41,50 	someone scowls, then turns away.
@@ -765,7 +735,6 @@ NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS456 	01:34:11,00 --> 01:34:19,
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS493 	01:39:47,00 --> 01:39:59,50 	someone beams at the bird, then turns her back to us and strolls toward a gentle valley.
 NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS132 	00:21:24,00 --> 00:21:30,50 	someone turns away someone sits on her bed and pulls on his jeans.
 NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS343 	01:04:09,00 --> 01:04:13,50 	she turns and gives someone an inquiring look,
-NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS392 	01:12:12,00 --> 01:12:17,50 	she turns towards someone, but doesn't look at him.
 NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS432 	01:18:48,00 --> 01:18:53,50 	they turn up a driveway through lush gardens.
 NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS540 	01:40:12,00 --> 01:40:17,50 	someone turns to someone smiling nervously.
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS30 	00:06:41,00 --> 00:06:50,50 	in a large suburban home a wall mounted screen turns on.
@@ -806,7 +775,6 @@ PROMETHEUS.srt 	PROMETHEUS_DVS829 	01:29:56,00 --> 01:30:02,50 	someone turns aw
 PROMETHEUS.srt 	PROMETHEUS_DVS900 	01:39:46,00 --> 01:39:53,50 	the engineer turns someone around and palms her chest, knocking her off the platform.
 PROMETHEUS.srt 	PROMETHEUS_DVS947 	01:45:02,00 --> 01:45:11,50 	the crescent shaped ship rotates, its blunted ends turning toward the human's vessel as it rises into the sky.
 PROMETHEUS.srt 	PROMETHEUS_DVS963 	01:46:12,00 --> 01:46:18,50 	the crescent shaped ship turns sideways and descends to the ground.
-PROMETHEUS.srt 	PROMETHEUS_DVS981 	01:48:05,00 --> 01:48:12,50 	she looks at her wrist then turns on her side and glances around.
 PROMETHEUS.srt 	PROMETHEUS_DVS986 	01:48:29,00 --> 01:48:36,50 	turning, someone sees the lifeboat and staggers over the someone littered ground.
 PROMETHEUS.srt 	PROMETHEUS_DVS1012 	01:50:42,00 --> 01:50:49,50 	as someone turns, the remaining engineer forces a pair of side doors open and leans through.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS48 	00:08:08,00 --> 00:08:30,50 	as someone turns and walks away from the farmhouse, the woman continues to gaze after him.
@@ -889,7 +857,6 @@ SANCTUM.srt 	SANCTUM_DVS51 	00:11:12,00 --> 00:11:19,50 	lowering his gaze, he t
 SANCTUM.srt 	SANCTUM_DVS136 	00:28:56,00 --> 00:29:03,50 	virgil glides over to someone who turns, peering out at someone from the monitor.
 SANCTUM.srt 	SANCTUM_DVS150 	00:31:38,00 --> 00:31:42,50 	someone turns off the radio.
 SANCTUM.srt 	SANCTUM_DVS215 	00:47:02,00 --> 00:47:07,50 	someone queasily turns away.
-SANCTUM.srt 	SANCTUM_DVS264 	00:54:18,00 --> 00:54:24,50 	someone turns to look as someone crawls into view.
 SANCTUM.srt 	SANCTUM_DVS271 	00:55:08,00 --> 00:55:17,50 	on to the rocky bank, he pulls of an elastic band strapping a flashlight to his arm and turns on his helmet's secondary light.
 SANCTUM.srt 	SANCTUM_DVS422 	01:21:20,00 --> 01:21:28,50 	smiling, he turns to his father and smears some of the sludge on his cheek.
 SANCTUM.srt 	SANCTUM_DVS431 	01:22:22,00 --> 01:22:31,50 	drops of water splash against their helmets, someone turns to his father and meets his gaze with a broad grin.
@@ -904,7 +871,6 @@ SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS252 	00:17:23,00 --> 00:17:28,50 	the plum
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS353 	00:23:50,00 --> 00:23:55,50 	someone turns back to her parents.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS364 	00:24:22,00 --> 00:24:27,50 	the young bride turns to her laotong, the beaded fringe on her veil swaying back and forth.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS421 	00:28:13,00 --> 00:28:19,50 	he rests the cup just below his lips as he swallows, then turns to someone with a furrowed brow and finds her gazing at him.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS479 	00:31:24,00 --> 00:31:31,50 	she looks up at her mother-in-law, who turns to her with an unyielding expression.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS497 	00:32:17,00 --> 00:32:22,50 	then turns her look.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS506 	00:32:56,00 --> 00:33:03,50 	someone makes her way across a bridge outside a temple, then turns to the young servant.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS625 	00:41:32,00 --> 00:41:37,50 	she turns for the exit.
@@ -915,7 +881,6 @@ SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1029 	01:07:06,00 --> 01:07:12,50 	someone
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1065 	01:11:51,00 --> 01:11:56,50 	as someone leans in, someone turns away.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1080 	01:14:07,00 --> 01:14:11,50 	she turns away.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1127 	01:16:51,00 --> 01:16:56,50 	someone abruptly turns away and marches through the gate.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1138 	01:17:22,00 --> 01:17:27,50 	someone slowly turns and looks at her.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1169 	01:19:18,00 --> 01:19:23,50 	someone turns the fan in her hands, her chest heaving.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1175 	01:19:32,00 --> 01:19:36,50 	her features set in a dazed expression, someone turns away.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1192 	01:20:36,00 --> 01:20:43,50 	she sinks down, turning her back to us as she rests her head against her hand.
@@ -978,7 +943,6 @@ SPARKLE_2012.srt 	SPARKLE_2012_DVS536 	01:28:56,00 --> 01:29:03,50 	in a houseco
 SPARKLE_2012.srt 	SPARKLE_2012_DVS543 	01:29:39,00 --> 01:29:44,50 	she smiles to herself and turns the page, stopping.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS583 	01:35:23,00 --> 01:35:31,50 	seated at a grand piano, someone glances over, then turns her attention to her song journal.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS630 	01:42:46,00 --> 01:42:51,50 	someone gently taps her on the chin, and turns away.
-SPARKLE_2012.srt 	SPARKLE_2012_DVS636 	01:43:33,00 --> 01:43:38,50 	turning, she looks to someone in the wings.
 SUPER_8.srt 	SUPER_8_DVS39 	00:05:15,00 --> 00:05:21,50 	he turns and slams the blond boy against several nails protruding from a wall.
 SUPER_8.srt 	SUPER_8_DVS41 	00:05:25,00 --> 00:05:30,50 	sitting in a bedroom, someone turns to the burly boy.
 SUPER_8.srt 	SUPER_8_DVS57 	00:08:26,00 --> 00:08:31,50 	someone turns and studies the brochure.
@@ -1002,7 +966,6 @@ SUPER_8.srt 	SUPER_8_DVS278 	00:48:30,00 --> 00:48:35,50 	someone turns and star
 SUPER_8.srt 	SUPER_8_DVS288 	00:51:42,00 --> 00:51:46,50 	someone turns to leave.
 SUPER_8.srt 	SUPER_8_DVS293 	00:53:21,00 --> 00:53:26,50 	someone's face twitches as he stares back then turns and leaves.
 SUPER_8.srt 	SUPER_8_DVS306 	00:54:37,00 --> 00:54:41,50 	someone turns and runs.
-SUPER_8.srt 	SUPER_8_DVS335 	00:59:59,00 --> 01:00:05,50 	she looks up at the camera and smiles then turns away.
 SUPER_8.srt 	SUPER_8_DVS339 	01:01:19,00 --> 01:01:25,50 	someone's mother pushes him on a swing as the screen turns white
 SUPER_8.srt 	SUPER_8_DVS341 	01:01:29,00 --> 01:01:35,50 	both children turn as the white cube on someone's desk begins to vibrate.
 SUPER_8.srt 	SUPER_8_DVS348 	01:02:25,00 --> 01:02:30,50 	later, someone turns the key in her front door and slips inside.
@@ -1045,8 +1008,6 @@ THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS435 	01:02:49,00 --> 0
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS445 	01:05:02,00 --> 01:05:11,50 	swinging the sword, someone turns into sir someone.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS450 	01:05:20,00 --> 01:05:27,50 	a spar falls toward sir someone, which turns into a ceiling fan falling onto someone.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS473 	01:08:53,00 --> 01:09:00,50 	red someone leaps below decks, then turns and thrusts his sword at sir someone,
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS554 	01:17:29,00 --> 01:17:33,50 	people turn and look at him.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS566 	01:18:45,00 --> 01:18:52,50 	then turns his head sharply and looks at the glass case holding the unicorn model.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS597 	01:21:20,00 --> 01:21:27,50 	someone turns around, smoke pours from the dam's sluice gate.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS601 	01:21:47,00 --> 01:21:54,50 	someone swats the swooping falcon, then turns onto a narrow village street.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS639 	01:25:03,00 --> 01:25:10,50 	someone takes the scroll, then turns and walks off.
@@ -1066,7 +1027,6 @@ THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS284 	00:55:07,00 --> 00:55:1
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS304 	00:58:04,00 --> 00:58:10,50 	the boy turns around with a wounded glare.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS313 	00:59:19,00 --> 00:59:31,50 	someone turns around and mopes off down the block of brown stone buildings.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS332 	01:04:23,00 --> 01:04:45,50 	he stares at the daunting stack of folders and assignment books for a moment then turns on a lamp and opens up his laptop.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS380 	01:13:26,00 --> 01:13:42,50 	working facing the wall, the administrator turns and looks up at someone.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS399 	01:16:56,00 --> 01:17:21,50 	elsewhere someone turns, her surroundings washed out by sunlight.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS403 	01:17:39,00 --> 01:17:52,50 	turning away, someone sets his diploma and graduation robes on a chair.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS404 	01:17:49,00 --> 01:18:02,50 	as he turns back he halts and stares.
@@ -1110,10 +1070,8 @@ THE_CALL.srt 	THE_CALL_DVS995 	01:16:21,00 --> 01:16:27,50 	she turns on her fla
 THE_CALL.srt 	THE_CALL_DVS1033 	01:18:46,00 --> 01:18:51,50 	turning it over, he pulls out a thin purple extension.
 THE_CALL.srt 	THE_CALL_DVS1043 	01:19:08,00 --> 01:19:14,50 	she turns slightly and the agitated killer appears.
 THE_CALL.srt 	THE_CALL_DVS1047 	01:19:21,00 --> 01:19:28,50 	he turns to face the hanging clothes and sets his hand on top of the open door.
-THE_CALL.srt 	THE_CALL_DVS1055 	01:19:36,00 --> 01:19:53,50 	someone abruptly turns away and looks at the wig form on the bed.
 THE_CALL.srt 	THE_CALL_DVS1095 	01:21:58,00 --> 01:22:09,50 	he turns to her and she bashes him again.
 THE_CALL.srt 	THE_CALL_DVS1100 	01:22:43,00 --> 01:23:03,50 	someone turns to see someone behind her.
-THE_CALL.srt 	THE_CALL_DVS1103 	01:23:12,00 --> 01:23:19,50 	someone looks at her wrists, then at someone, his back turned to the wakening girl.
 THE_CALL.srt 	THE_CALL_DVS1121 	01:24:32,00 --> 01:24:37,50 	someone slows her pace and turns around.
 THE_CALL.srt 	THE_CALL_DVS1152 	01:26:31,00 --> 01:26:37,50 	he turns as someone and someone come into view.
 THE_CALL.srt 	THE_CALL_DVS1164 	01:27:07,00 --> 01:27:12,50 	someone turns to someone.
@@ -1168,7 +1126,6 @@ THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1134 	01
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1135 	01:58:41,00 --> 01:58:49,50 	turning, someone finds him covering his own face with an oxygen mask as he flips a switch.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1183 	02:06:21,00 --> 02:06:27,50 	he turns and she strikes him in the face knocking him to the tile floor.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1194 	02:07:04,00 --> 02:07:10,50 	she turns a corner, peers down another hallway,
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1226 	02:09:11,00 --> 02:09:17,50 	she looks at the gun, releases its trigger, then turns away.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1307 	02:19:22,00 --> 02:19:29,50 	someone turns the wennerstrom file his way.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1401 	02:30:02,00 --> 02:30:07,50 	she turns from the window.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1405 	02:31:04,00 --> 02:31:10,50 	turning his back to the tv he opens a newspaper.
@@ -1177,7 +1134,6 @@ THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS54 	00:11:12,00 --> 00:11:22,50 	someone s
 THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS72 	00:25:38,00 --> 00:25:44,50 	someone's expression softens, then turns thoughtful again.
 THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS92 	00:33:41,00 --> 00:33:47,50 	they both settle into their twin beds and someone turns out the light.
 THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS102 	00:35:06,00 --> 00:35:10,50 	someone turns it off.
-THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS125 	00:46:49,00 --> 00:46:56,50 	people at the other tables turn to look and someone's face falls.
 THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS207 	01:07:41,00 --> 01:07:47,50 	their expressions soon turned bored and inattentive.
 THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS255 	01:25:00,00 --> 01:25:06,50 	she turns aside and someone places a hand on her shoulder.
 THE_SITTER.srt 	THE_SITTER_DVS34 	00:20:03,00 --> 00:20:07,50 	he turns to someone.
@@ -1242,7 +1198,6 @@ THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS214 	00:53:49,00 --> 00:53:59,50 	he t
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS215 	00:53:57,00 --> 00:54:01,50 	he turns.
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS216 	00:54:00,00 --> 00:54:06,50 	someone turns back to his friends, leaning his hands on his knees.
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS222 	00:55:11,00 --> 00:55:22,50 	as he turns to leave, he knocks over another server.
-THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS345 	01:24:49,00 --> 01:24:55,50 	sliding on a suit jacket he turns and looks at someone.
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS353 	01:27:33,00 --> 01:27:38,50 	she turns off the tv.
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS427 	01:38:37,00 --> 01:38:41,50 	he turns to someone.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS16 	00:02:42,00 --> 00:02:51,50 	he turns and shoots into the air.
@@ -1256,7 +1211,6 @@ THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS284 	00:52:52,00 --> 00:52:57,50 	turning,
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS331 	01:00:31,00 --> 01:00:35,50 	who turns to their prisoner.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS336 	01:00:49,00 --> 01:00:55,50 	he turns his harsh eyes on someone who gives a cool smirk.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS443 	01:19:04,00 --> 01:19:09,50 	with disappointment in her eyes, someone turns away.
-THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS491 	01:25:31,00 --> 01:25:37,50 	as someone looks on, they both turn their attention to him.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS500 	01:26:46,00 --> 01:26:52,50 	heading off, he pauses and turns back to face his approaching friend.
 THOR.srt 	THOR_DVS72 	00:08:36,00 --> 00:08:43,50 	the blonde man turns and smiles toward three men standing to the right of the king.
 THOR.srt 	THOR_DVS144 	00:21:11,00 --> 00:21:18,50 	his chest heaving, someone continues to stare at the someone, then turns his back to him.
@@ -1281,7 +1235,6 @@ THOR.srt 	THOR_DVS681 	01:41:23,00 --> 01:41:29,50 	someone glances at someone t
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS132 	00:14:58,00 --> 00:15:07,50 	everyone turns.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS198 	00:25:59,00 --> 00:26:03,50 	he turns away.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS223 	00:28:29,00 --> 00:28:34,50 	as he turns away, he knocks over a lamp.
-TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS284 	00:34:50,00 --> 00:34:57,50 	as he straightens, he looks at the boy, then turns to the edge of the bed.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS423 	00:45:08,00 --> 00:45:14,50 	he turns back to someone.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS460 	00:49:50,00 --> 00:49:55,50 	someone turns the nozzle to face someone.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS491 	00:53:39,00 --> 00:53:44,50 	he turns see through but doesn't disappear.
@@ -1293,9 +1246,7 @@ TRUE_GRIT.srt 	TRUE_GRIT_DVS63 	00:13:58,00 --> 00:14:03,50 	she turns over, tak
 TRUE_GRIT.srt 	TRUE_GRIT_DVS77 	00:22:36,00 --> 00:22:41,50 	he turns and goes.
 TRUE_GRIT.srt 	TRUE_GRIT_DVS88 	00:23:44,00 --> 00:23:52,50 	another night in bed with grandma someone who turns over and steals the bed clothes.
 TRUE_GRIT.srt 	TRUE_GRIT_DVS374 	01:17:49,00 --> 01:17:55,50 	he touches his hat, turns his horse, and rides off through the trees.
-TRUE_GRIT.srt 	TRUE_GRIT_DVS394 	01:19:14,00 --> 01:19:18,50 	the man turns to look at her.
 TRUE_GRIT.srt 	TRUE_GRIT_DVS431 	01:25:06,00 --> 01:25:10,50 	someone turns to someone,
-TRUE_GRIT.srt 	TRUE_GRIT_DVS509 	01:34:29,00 --> 01:34:33,50 	she turns to look at the corpse, her head now level with its fleshless skull.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS151 	00:12:44,00 --> 00:12:49,50 	someone turns on a tv.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS153 	00:12:51,00 --> 00:12:55,50 	she turns it off.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS361 	00:42:39,00 --> 00:42:43,50 	someone turns to a vendor.
@@ -1335,7 +1286,6 @@ WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS684 	01:39:40,00 --> 01:39:47,50 	someon
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS687 	01:40:04,00 --> 01:40:09,50 	someone turns off his walkie-talkie.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS693 	01:40:59,00 --> 01:41:07,50 	the lion turns.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS704 	01:42:18,00 --> 01:42:25,50 	someone peers into the enclosure, then turns his suspicious gaze on the others.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS730 	01:44:47,00 --> 01:44:52,50 	someone turns and someone looks up.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS731 	01:44:50,00 --> 01:44:59,50 	the storm quickly picks up, turning the dirt into mud.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS796 	01:52:58,00 --> 01:53:04,50 	turning, he finds himself face to face with someone.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS811 	01:54:16,00 --> 01:54:25,50 	she turns to her older cousin.
@@ -1356,7 +1306,6 @@ WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS588 	01:20:19,00 --> 01:20:24,50 	tu
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS620 	01:24:56,00 --> 01:25:02,50 	turning away from someone, someone grabs her in a sisterly embrace.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS740 	01:37:47,00 --> 01:38:14,50 	he tries to wave her off the stage, but she turns to his band.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS100 	00:06:51,00 --> 00:06:57,50 	he slides the coin toward someone, then turns his aim on the boy's mother.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS116 	00:07:40,00 --> 00:07:46,50 	with hesitation, the boy turns and looks down at his mother.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS300 	00:23:16,00 --> 00:23:21,50 	with a cold scowl, he turns to face the stranger.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS316 	00:24:10,00 --> 00:24:17,50 	someone turns his arm over revealing his concentration camp number.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS331 	00:25:04,00 --> 00:25:09,50 	the holocaust survivor turns.
@@ -1409,7 +1358,6 @@ ZOMBIELAND.srt 	ZOMBIELAND_DVS25 	00:02:47,00 --> 00:02:52,50 	bumps and turns k
 ZOMBIELAND.srt 	ZOMBIELAND_DVS82 	00:06:45,00 --> 00:06:54,50 	the narrator turns on his wipers to keep him at bay, then finishes reloading and shoots him in the shoulder.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS176 	00:17:19,00 --> 00:17:25,50 	turning, he sits up and slams her against the wall.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS240 	00:25:47,00 --> 00:25:52,50 	turning away, someone plugs his ears with his fingers.
-ZOMBIELAND.srt 	ZOMBIELAND_DVS346 	00:39:45,00 --> 00:39:51,50 	someone eyes someone then looks away just as she turns to face him.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS440 	00:49:58,00 --> 00:50:05,50 	the scraggly haired man stiffly shifts one shoulder then turns a corner.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS466 	00:54:17,00 --> 00:54:23,50 	someone turns his sad wry gaze on someone.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS641 	01:12:28,00 --> 01:12:35,50 	he smiles then turns to someone who wears a tactical vest loaded with weapons.

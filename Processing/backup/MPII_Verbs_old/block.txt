@@ -1,30 +1,29 @@
-0001_American_Beauty_01.14.42.022-01.14.43.647 	A 1970 PONTIAC FIREBIRD with racing stripes blocks our access to the garage.
-0002_As_Good_As_It_Gets_01.00.21.172-01.00.22.409 	Simon blocks him.
-0003_CASABLANCA_00.09.40.384-00.09.41.113 	At this moment UGARTE, a small, thin man with a nervous air, tries to squeeze through the doorway blocked by the German.
-0004_Charade_01.40.47.323-01.40.49.914 	He finds his way blocked by FIVE NUNS in large, white butterfly hats.
-0009_Forrest_Gump_00.31.56.107-00.31.58.230 	Forrest tries to sit on the next seat, but the 2nd recruit slides over, blocking him.
-0012_Get_Shorty_01.22.45.550-01.22.49.811 	They step back as the Resident pulls the curtain shut, blocking their view of Harry.
-0014_Ist_das_Leben_nicht_schoen_00.52.42.373-00.52.43.731 	An iron grill blocks the street entrance to the Building and Loan.
-0016_O_Brother_Where_Art_Thou_00.14.58.374-00.15.00.694 	His walk is unsteady, the wood blocks still strapped to his feet.
-0017_Pianist_01.28.20.660-01.28.23.719 	KITTY, young and fierce, stands on the stairs, blocking his way.
-0020_Raising_Arizona_01.19.21.048-01.19.21.388 	Ed stepping into his line of fire, blocking Lenny.
-0021_Rear_Window_00.53.25.755-00.53.27.255 	In momentarily blocks out the side of our freight truck.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.02.20.312-01.02.21.377 	He swings his sword at the Witch King, who blocks the blow with his own sword.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.10.27.537-02.10.30.593 	EOWYN tries to block the BLOW but her SHIELD shatters into MANY PIECES!
-0026_The_Big_Fish_00.24.12.411-00.24.13.321 	Karl leans over Edward, blocking the sun.
-0026_The_Big_Fish_00.27.52.184-00.27.56.325 	The old road is blocked with signs and warnings of danger.
-0026_The_Big_Fish_00.40.02.786-00.40.08.372 	At first, it just seems to be the wind blowing the branches, but as we hear the wood CRACKING and GROANING, there's no mistaking it: they're trying to block him.
-0026_The_Big_Fish_00.40.14.648-00.40.15.829 	Now all the trees are moving to block him, their dark shapes towering over him in the flashes of LIGHTNING.
-0031_The_Lost_Weekend_01.31.11.564-01.31.13.581 	Helen overtakes him and blocks his way.
-0032_The_Princess_Bride_00.40.52.938-00.40.54.132 	Great trees block the sun.
-0032_The_Princess_Bride_00.48.54.253-00.48.55.903 	A THIRD WARRIOR, crossbow stretched, ready to shoot; this one is hidden in a tree blocking any escape Westley might try.
-0049_Hannah_and_her_sisters_01.04.47.684-01.04.52.106 	Both a bus and a taxi drive down the street, blocking Mickey from view.
-0050_Indiana_Jones_and_the_last_crusade_00.11.47.027-00.11.48.652 	The hat blocks Indy's face.
-1001_Flight_00.25.33.666-00.25.49.294 	Smoke blocks Whip's vision as he is pulled away from the plane as people in white robes help the passengers.
-1003_How_to_Lose_Friends_and_Alienate_People_01.39.09.866-01.39.17.625 	Sydney races outside, where his escape is blocked by the fans and photographers amassed behind a red rope cordon.
-1005_Signs_01.09.15.444-01.09.17.784 	He then takes a plank of old wood and secures it over the window, blocking out the light completely.
-1005_Signs_01.16.35.720-01.16.43.720 	Slowly, the family turns to watch the figures block out the soft light, diffusing through the gaps between the boards on another window at the front of the house.
-1009_Spider-Man3_01.26.24.923-01.26.27.200 	a truck briefly blocks peter's view.
+0001_American_Beauty_01.14.42.022-01.14.43.647 	a 1970 pontiac firebird with racing stripes blocks our access to the garage.
+0002_As_Good_As_It_Gets_01.00.21.172-01.00.22.409 	simon blocks him.
+0003_CASABLANCA_00.09.40.384-00.09.41.113 	at this moment ugarte, a small, thin man with a nervous air, tries to squeeze through the doorway blocked by the german.
+0004_Charade_01.40.47.323-01.40.49.914 	he finds his way blocked by five nuns in large, white butterfly hats.
+0009_Forrest_Gump_00.31.56.107-00.31.58.230 	forrest tries to sit on the next seat, but the 2nd recruit slides over, blocking him.
+0012_Get_Shorty_01.22.45.550-01.22.49.811 	they step back as the resident pulls the curtain shut, blocking their view of harry.
+0014_Ist_das_Leben_nicht_schoen_00.52.42.373-00.52.43.731 	an iron grill blocks the street entrance to the building and loan.
+0017_Pianist_01.28.20.660-01.28.23.719 	kitty, young and fierce, stands on the stairs, blocking his way.
+0020_Raising_Arizona_01.19.21.048-01.19.21.388 	ed stepping into his line of fire, blocking lenny.
+0023_THE_BUTTERFLY_EFFECT_00.10.19.844-00.10.20.816 	blocking his view of the ceiling is jason, whose face is now monstrous with rage, and whose cuffed hands are wrapped around evan's throat, choking the life out of him.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.02.20.312-01.02.21.377 	he swings his sword at the witch king, who blocks the blow with his own sword.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.10.27.537-02.10.30.593 	eowyn tries to block the blow but her shield shatters into many pieces!
+0026_The_Big_Fish_00.24.12.411-00.24.13.321 	karl leans over edward, blocking the sun.
+0026_The_Big_Fish_00.27.52.184-00.27.56.325 	the old road is blocked with signs and warnings of danger.
+0026_The_Big_Fish_00.40.02.786-00.40.08.372 	at first, it just seems to be the wind blowing the branches, but as we hear the wood cracking and groaning, there's no mistaking it: they're trying to block him.
+0026_The_Big_Fish_00.40.14.648-00.40.15.829 	now all the trees are moving to block him, their dark shapes towering over him in the flashes of lightning.
+0026_The_Big_Fish_00.57.36.191-00.57.37.444 	blocking with an arm, edward tries to push himself free, but the creature's hands -- it has hands instead of paws -- hold on tight.
+0031_The_Lost_Weekend_01.31.11.564-01.31.13.581 	helen overtakes him and blocks his way.
+0032_The_Princess_Bride_00.40.52.938-00.40.54.132 	great trees block the sun.
+0032_The_Princess_Bride_00.48.54.253-00.48.55.903 	a third warrior, crossbow stretched, ready to shoot; this one is hidden in a tree blocking any escape westley might try.
+0049_Hannah_and_her_sisters_01.04.47.684-01.04.52.106 	both a bus and a taxi drive down the street, blocking mickey from view.
+0050_Indiana_Jones_and_the_last_crusade_00.11.47.027-00.11.48.652 	the hat blocks indy's face.
+1003_How_to_Lose_Friends_and_Alienate_People_01.39.09.866-01.39.17.625 	sydney races outside, where his escape is blocked by the fans and photographers amassed behind a red rope cordon.
+1005_Signs_01.09.15.444-01.09.17.784 	he then takes a plank of old wood and secures it over the window, blocking out the light completely.
+1005_Signs_01.16.35.720-01.16.43.720 	slowly, the family turns to watch the figures block out the soft light, diffusing through the gaps between the boards on another window at the front of the house.
+1009_Spider-Man3_00.46.15.686-00.46.31.952 	as bits of sandman crumble away in the gunfire, he sweeps down at the cops bursts in a bucket of sand blocking cars over as if they were toys.
 1011_The_Help_02.14.16.197-02.14.17.880 	hilly blocks her.
 1015_27_Dresses_00.57.12.000-00.57.15.445 	jane becomes suspicious as tess stands blocking the doorway.
 1018_Body_Of_Lies_00.55.46.326-00.55.47.058 	the van blocks skip's way.
@@ -34,8 +33,10 @@
 1026_Legion_01.22.48.010-01.22.49.577 	gabriel lunges with the mace, but michael blocks the blow.
 1027_Les_Miserables_01.39.09.582-01.39.12.290 	a couch and a cart the barricade, which blocks the street.
 1030_Public_Enemies_02.07.58.981-02.07.59.549 	someone's hand blocks our view.
+1031_Quantum_of_Solace_00.01.44.515-00.01.46.196 	the two lanes ahead are blocked.
 1031_Quantum_of_Solace_00.02.19.392-00.02.27.378 	coming out of the tunnel and rounding a corner, bond skids the car to avoid the police land rover which blocks the road in front of him and heads off through the dusty quarry, the alfa still on his tail.
 1039_The_Queen_00.12.24.026-00.12.27.703 	as her hand blocks out the sunlight, a tunnel looms ahead of the mercedes.
+1049_Harry_Potter_and_the_chamber_of_secrets_02.02.10.175-02.02.19.631 	the passage between ron and harry is completely blocked.
 1049_Harry_Potter_and_the_chamber_of_secrets_02.11.09.878-02.11.12.598 	grounding a corner he finds to hurdle that the tunnel is blocked by an iron gating.
 1049_Harry_Potter_and_the_chamber_of_secrets_02.11.14.905-02.11.26.531 	the serpent appears behind him all those blocking the tunnel tract.
 1051_Harry_Potter_and_the_goblet_of_fire_01.53.12.336-01.53.15.468 	suddenly, the hedges close together behind him, blocking the way out.
@@ -46,12 +47,7 @@
 1053_Harry_Potter_and_the_philosophers_stone_02.10.57.882-02.11.02.077 	a sheet of flame blocks his way.
 2026_Legion_00.33.02.270-00.33.03.325 	michael steps toward charlie with a sense of purpose, but bob blocks his path, brandishing the shotgun.
 2026_Legion_00.56.54.309-00.56.56.486 	a desk blocks it.
-2026_Legion_01.17.26.557-01.17.28.299 	she raises a hand to block the light.
-1053_Harry_Potter_and_the_philosophers_stone_00.09.55.045-00.10.02.316 	harry peeps out of his cupboard and sees his uncle blocking up the letter box.
-1053_Harry_Potter_and_the_philosophers_stone_01.10.09.971-01.10.13.235 	terrified, she stares up with horror at the troll's lumpy, green body blocking the doorway.
-1053_Harry_Potter_and_the_philosophers_stone_02.10.57.882-02.11.02.077 	a sheet of flame blocks his way.
-2026_Legion_00.33.02.270-00.33.03.325 	michael steps toward charlie with a sense of purpose, but bob blocks his path, brandishing the shotgun.
-2026_Legion_00.56.54.309-00.56.56.486 	a desk blocks it.
+2026_Legion_01.09.36.068-01.09.46.912 	blocked by advancing creatures.
 2026_Legion_01.17.26.557-01.17.28.299 	she raises a hand to block the light.
 2027_Les_Miserables_01.36.47.649-01.36.52.387 	the crowd supports them and surround the coffin carriage, blocking the attempts of the police to intervene, singing with passion.
 2040_The_Ugly_Truth_01.14.04.631-01.14.14.443 	in the midst of this, the elevators try to close but their furious groping blocks it, until -- a shrill buzzing begins.

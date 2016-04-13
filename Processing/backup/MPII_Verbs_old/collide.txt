@@ -1,22 +1,17 @@
-0009_Forrest_Gump_01.56.49.719-01.56.50.674 	It collides with a car.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.46.25.802-00.46.28.174 	Two players collide and fall.
-1003_How_to_Lose_Friends_and_Alienate_People_00.17.08.971-00.17.14.274 	He collides with an immovable turnstile, then staggers round.
-1004_Juno_00.33.11.970-00.33.18.641 	As she comes out of the bathroom, she collides with Mark.
-1006_Slumdog_Millionaire_00.08.18.870-00.08.20.876 	The boys run off as the guard then collides with the car.
-1007_Spider-Man1_00.24.47.143-00.24.49.873 	Then he slides on his back down the corridor, collides with a teacher carrying the tray and ends up with more food on him.
-1008_Spider-Man2_00.09.47.455-00.09.51.215 	peter runs through the campus and collides with a student.
+0009_Forrest_Gump_01.56.49.719-01.56.50.674 	it collides with a car.
+0023_THE_BUTTERFLY_EFFECT_01.18.07.114-01.18.15.097 	the moment before his palms reach them there's a brief instant where soundscapes collide and the world behind him vibrates.
+1003_How_to_Lose_Friends_and_Alienate_People_00.17.08.971-00.17.14.274 	he collides with an immovable turnstile, then staggers round.
+1004_Juno_00.33.11.970-00.33.18.641 	as she comes out of the bathroom, she collides with mark.
+1006_Slumdog_Millionaire_00.08.18.870-00.08.20.876 	the boys run off as the guard then collides with the car.
+1007_Spider-Man1_00.24.47.143-00.24.49.873 	then he slides on his back down the corridor, collides with a teacher carrying the tray and ends up with more food on him.
 1018_Body_Of_Lies_00.22.08.926-00.22.10.752 	they collide on a bend and ram into a rock.
 1019_Confessions_Of_A_Shopaholic_00.12.41.001-00.12.42.857 	she collides with a glass partition.
 1028_No_Reservations_00.10.51.082-00.10.52.706 	the waitress collides with a colleague.
-1028_No_Reservations_00.38.13.694-00.38.15.837 	she turns away from her workspace and almost collides with nick.
 1033_Sherlock_Holmes_A_Game_of_Shadows_01.12.04.152-01.12.13.701 	nearly colliding with another waiter, he dons a bellhop's uniform and removes his mustache just in time to intercept moriarty and moran in the lobby.
-1034_Super_8_00.18.12.869-00.18.17.535 	more trucks and carriages fly off the line and collide with one another.
+1034_Super_8_00.17.21.299-00.17.22.275 	the vehicles collide.
 1049_Harry_Potter_and_the_chamber_of_secrets_00.33.52.009-00.33.58.910 	swooping low over the table, it heads for ron, but collides with a bowl, scattering crisps everywhere.
 1051_Harry_Potter_and_the_goblet_of_fire_01.00.11.734-01.00.15.950 	he narrowly avoids colliding with a tall stone tower.
-1051_Harry_Potter_and_the_goblet_of_fire_02.08.28.532-02.08.34.865 	the power from their wands collides and meets like molten lava in a burst of bright flame.
 1053_Harry_Potter_and_the_philosophers_stone_01.19.55.265-01.20.05.003 	she collides with one of the tall spectator towers, tumbles down behind the canvas covering, and lies without moving on the gravel path below.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_01.41.14.774-01.41.20.804 	they collide in mid air, then fall, snarling and biting.
-1057_Seven_pounds_01.46.57.205-01.47.00.561 	the corvette spins and collides with a van full of people.
-1053_Harry_Potter_and_the_philosophers_stone_01.19.55.265-01.20.05.003 	she collides with one of the tall spectator towers, tumbles down behind the canvas covering, and lies without moving on the gravel path below.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_01.41.14.774-01.41.20.804 	they collide in mid air, then fall, snarling and biting.
-1057_Seven_pounds_01.46.57.205-01.47.00.561 	the corvette spins and collides with a van full of people.
+1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.59.55.000-00.59.56.000 	the spells collide.
+2026_Legion_00.38.39.528-00.38.45.538 	vehicles swerve and collide!

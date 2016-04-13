@@ -1,23 +1,21 @@
-0004_Charade_01.24.41.005-01.24.51.134 	He takes the bag to the bed where he dumps out the contents.
-0008_Fargo_01.07.43.952-01.07.55.035 	Shep knees Carl repeatedly, then dumps him onto the floor and starts whipping him with the buckle end of the belt.
-0009_Forrest_Gump_01.34.34.432-01.34.37.134 	A catch of junk is dumped onto the deck.
-0010_Frau_Ohne_Gewissen_00.04.14.381-00.04.17.177 	He wheels himself back to the desk and dumps the loose cigarettes out of the packet.
-0010_Frau_Ohne_Gewissen_00.25.47.618-00.25.49.389 	He dumps some ice cubes into the glasses.
-0013_Halloween_00.46.48.499-00.46.53.348 	She opens the top and dumps her clothes inside.
-0014_Ist_das_Leben_nicht_schoen_01.16.31.533-01.16.34.118 	Wheelbarrow full of junk being dumped onto pile.
-0014_Ist_das_Leben_nicht_schoen_02.05.29.000-02.05.30.263 	Uncle Billy dumps the basketful of money out onto the table the money overflows and falls all over.
-0014_Ist_das_Leben_nicht_schoen_02.06.05.651-02.06.07.071 	Martini dumps his money on the table.
-0017_Pianist_00.39.40.075-00.39.41.328 	Three Jews inside the van start to unload the stuff, dumping it in the yard.
-0023_THE_BUTTERFLY_EFFECT_01.44.12.140-01.44.15.481 	Evan watches Lenny eagerly as he dumps tons of Evan's junk on the floor.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.29.58.325-02.30.00.045 	Sam has slumped asleep.Merry dumps a small pile of kindling at Gimli's feet.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.25.35.274-00.25.39.954 	PIPPIN is dumped unceremoniously onto the back of SHADOWFAX as GANDALF hurriedly prepares to leave.
-1001_Flight_00.48.13.193-00.48.20.888 	Using a cane for support, he strides into the bathroom and dumps the pills down the toilet.
-1001_Flight_00.48.41.784-00.48.42.915 	Then, he dumps the empties in the garbage.
-1001_Flight_00.48.57.849-00.48.58.839 	He dumps the cans in a bin.
-1006_Slumdog_Millionaire_01.20.51.816-01.20.57.234 	Jamal spreads a concoction of preservatives onto a slice of bread as Latika dumps a limp piece of lettuce on the plate.
-1006_Slumdog_Millionaire_01.41.54.042-01.42.01.534 	in the street, Latika decides to dump the car and walk.
-1023_Horrible_Bosses_00.48.06.914-00.48.10.944 	in the open plan living space, nick dumps the contents of the dustbuster into the cocaine tray.
-1031_Quantum_of_Solace_00.07.37.055-00.07.39.721 	bond dumps the man from the boot on a chair in a cellar.
+0004_Charade_01.24.41.005-01.24.51.134 	he takes the bag to the bed where he dumps out the contents.
+0008_Fargo_01.07.43.952-01.07.55.035 	shep knees carl repeatedly, then dumps him onto the floor and starts whipping him with the buckle end of the belt.
+0009_Forrest_Gump_01.34.34.432-01.34.37.134 	a catch of junk is dumped onto the deck.
+0010_Frau_Ohne_Gewissen_00.04.14.381-00.04.17.177 	he wheels himself back to the desk and dumps the loose cigarettes out of the packet.
+0010_Frau_Ohne_Gewissen_00.25.47.618-00.25.49.389 	he dumps some ice cubes into the glasses.
+0013_Halloween_00.46.48.499-00.46.53.348 	she opens the top and dumps her clothes inside.
+0014_Ist_das_Leben_nicht_schoen_01.16.31.533-01.16.34.118 	wheelbarrow full of junk being dumped onto pile.
+0014_Ist_das_Leben_nicht_schoen_02.05.29.000-02.05.30.263 	uncle billy dumps the basketful of money out onto the table the money overflows and falls all over.
+0014_Ist_das_Leben_nicht_schoen_02.06.05.651-02.06.07.071 	martini dumps his money on the table.
+0017_Pianist_00.39.40.075-00.39.41.328 	three jews inside the van start to unload the stuff, dumping it in the yard.
+0023_THE_BUTTERFLY_EFFECT_01.44.12.140-01.44.15.481 	evan watches lenny eagerly as he dumps tons of evan's junk on the floor.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.25.35.274-00.25.39.954 	pippin is dumped unceremoniously onto the back of shadowfax as gandalf hurriedly prepares to leave.
+0027_The_Big_Lebowski_01.27.31.866-01.27.33.563 	furniture has been overturned, upholstery slashed, drawers dumped.
+1001_Flight_00.48.13.193-00.48.20.888 	using a cane for support, he strides into the bathroom and dumps the pills down the toilet.
+1001_Flight_00.48.41.784-00.48.42.915 	then, he dumps the empties in the garbage.
+1001_Flight_00.48.57.849-00.48.58.839 	he dumps the cans in a bin.
+1005_Signs_01.06.16.931-01.06.23.628 	dumping the cotton sack, he reaches down, picks up a stone, and launches it into the field of maize.
+1006_Slumdog_Millionaire_01.41.54.042-01.42.01.534 	in the street, latika decides to dump the car and walk.
 1031_Quantum_of_Solace_00.33.10.206-00.33.13.656 	he dumps her on a puzzled member of staff.
 1031_Quantum_of_Solace_01.29.33.237-01.29.37.486 	the police chief heads downstairs to his four by four and dumps the money on the backseat.
 1031_Quantum_of_Solace_01.32.58.450-01.33.03.587 	bond hauls green back up by the hair and dumps him on the floor.
@@ -25,7 +23,6 @@
 1040_The_Ugly_Truth_00.39.04.403-00.39.06.500 	he frowns and quickly dumps it back on the floor.
 1055_Marley_and_me_00.34.40.675-00.34.42.213 	john picks up a pillow and dumps it on the dog's head.
 1057_Seven_pounds_01.45.57.301-01.46.04.040 	he slits it open, dumps it into the bathtub, and turns on the shower.
-1055_Marley_and_me_00.34.40.675-00.34.42.213 	john picks up a pillow and dumps it on the dog's head.
-1057_Seven_pounds_01.45.57.301-01.46.04.040 	he slits it open, dumps it into the bathtub, and turns on the shower.
+1059_The_devil_wears_prada_00.25.48.364-00.25.51.220 	dumping coat and bag.
 2040_The_Ugly_Truth_00.50.00.039-00.50.05.920 	she opens the box, dumping out a pair of underwear and a remote control.
 2041_This_is_40_00.30.00.442-00.30.12.809 	he takes another bite, holds it over the garbage, then takes one last bite before dumping what little remains.

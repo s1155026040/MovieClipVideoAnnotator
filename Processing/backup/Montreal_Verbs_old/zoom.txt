@@ -1,0 +1,18 @@
+21_JUMP_STREET.srt 	21_JUMP_STREET_DVS450 	01:14:06,00 --> 01:14:12,50 	we dramatically zoom back from the tanker ad glide above the truss bridge.
+A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS407 	00:38:20,00 --> 00:38:26,50 	beneath an over cast sky, we zoom back from the steeple of the ukraina hotel.
+ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS503 	01:11:01,00 --> 01:11:08,50 	on someone's plantation, we zoom up the path leading to his door.
+BRUNO.srt 	BRUNO_DVS92 	00:20:31,00 --> 00:20:37,50 	who zooms into it.
+EASY_A.srt 	EASY_A_DVS36 	00:09:02,00 --> 00:09:12,50 	we zoom out the window, then zip around the building into another class.
+EASY_A.srt 	EASY_A_DVS148 	00:45:52,00 --> 00:46:08,50 	we zoom through tennis courts, through a locker room, and into the gym.
+IRON_MAN_2.srt 	IRON_MAN_2_DVS43 	00:05:15,00 --> 00:05:31,50 	he free-falls toward the city below, then as two small thrusters on his feet flare up, he zooms and spins through the sky.
+IRON_MAN_2.srt 	IRON_MAN_2_DVS166 	00:31:18,00 --> 00:31:54,50 	on the road, a car zooms past someone as he rips open his orange shirt, revealing the arc reactor attached to his body frame.
+IRON_MAN_2.srt 	IRON_MAN_2_DVS171 	00:32:12,00 --> 00:32:22,50 	approaching racecars zoom around the limousine as someone drives faster.
+IRON_MAN_2.srt 	IRON_MAN_2_DVS577 	01:40:05,00 --> 01:40:14,50 	air force drones follow someone as he zooms high into the sky.
+IRON_MAN_2.srt 	IRON_MAN_2_DVS579 	01:40:21,00 --> 01:40:36,50 	as someone and the drones zoom over parked vehicles, car alarms set off flashing tail lights.
+IRON_MAN_2.srt 	IRON_MAN_2_DVS594 	01:41:47,00 --> 01:42:29,50 	at the expo, air force drones follow someone as he zooms overhead.
+LIFE_OF_PI.srt 	LIFE_OF_PI_DVS269 	00:35:51,00 --> 00:35:55,50 	we zoom to the mariana trench.
+LIFE_OF_PI.srt 	LIFE_OF_PI_DVS845 	01:25:35,00 --> 01:25:43,50 	a pink creature swims before her smiling face as we zoom through her forehead into the blackness.
+PROMETHEUS.srt 	PROMETHEUS_DVS223 	00:18:48,00 --> 00:18:53,50 	he zooms the map in.
+SUPER_8.srt 	SUPER_8_DVS511 	01:26:45,00 --> 01:26:53,50 	the boys change direction, soldiers run down the street past a large two-story houses as missiles zoom around them.
+THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS422 	01:15:44,00 --> 01:15:51,50 	a zoomed in image clarifies, revealing the shadowy face of the driver.
+XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS487 	00:44:08,00 --> 00:44:17,50 	as the man in black holds someone's smug gaze, our view zooms out a window, which frames the transmitter.

@@ -1,29 +1,52 @@
-0002_As_Good_As_It_Gets_01.03.58.102-01.03.59.227 	the fabric clinging to her breasts, like the old movie poster of The Deep.
-0007_DIE_NACHT_DES_JAEGERS_01.28.10.834-01.28.12.361 	JOHN and PEARL flank RACHEL, clinging to her wide skirts.
-0011_Gandhi_00.04.17.239-00.04.19.025 	People everywhere, clinging to monuments, lamp standards, trees -- and as the camera pulls back from the funeral cortege it reveals more and more.
-0011_Gandhi_00.54.37.255-00.54.38.851 	People cling to the outside of each door and many more are seated on the central wooden planks on the roofs of the two coaches.
-0016_O_Brother_Where_Art_Thou_01.40.46.866-01.40.51.367 	Tommy has indeed just surfaced downstream, clinging to a half-submerged piece of furniture.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.54.13.361-00.54.15.566 	PIPPIN clings tightly to the great horses MANE.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.56.22.647-00.56.30.326 	They are so STEEP that FRODO and SAM climb as if on a LADDER -- their desperate FINGERS clinging to the STEPS ABOVE -- trying not to look at the LONG BLACK FALL below them.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.44.42.470-02.44.44.874 	he can't reach WITH HIS BLEEDING hand, and falls back, still clinging valiantly to the ROCK with his good hand.
-0026_The_Big_Fish_00.36.14.716-00.36.16.934 	He pulls up his pant legs to reveal three shiny leeches clinging to his skin.
-0031_The_Lost_Weekend_00.43.48.598-00.43.51.930 	Don, clinging to Wick's arm, pulls himself up.
-0032_The_Princess_Bride_00.16.19.434-00.16.21.814 	THE MAN IN BLACK, hanging suspended hundreds of feet in the air, holding to the jagged rocks, desperately trying to cling to life.
-0032_The_Princess_Bride_00.18.48.424-00.18.50.821 	THE MAN IN BLACK, as his grip loosens a moment, trying to cling to the side of the cliff.
-0032_The_Princess_Bride_00.27.47.785-00.27.48.819 	And the power of the charge is terrible, the pain enormous, but he clings to his grip at FEZZIK's windpipe.
-0050_Indiana_Jones_and_the_last_crusade_00.06.01.853-00.06.05.421 	He clings to the side of a BOXCAR, as Halfbreed and Rough Rider leap from the truck onto the train.
-0051_Men_in_black_01.17.27.554-01.17.28.025 	Instead of banging off the wall of the tunnel, the LTD actually clings to it.
-0051_Men_in_black_01.17.28.704-01.17.28.908 	It keeps going, turning all the way over and driving upside down, wheels clinging to the roof of the tunnel.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.02.28.044-00.02.31.689 	They cling on, desperately.
-1003_How_to_Lose_Friends_and_Alienate_People_00.33.31.174-00.33.35.998 	She pulls herself up out of the water, her wet dress clinging to the sinuous curves of her lean, shapely body.
-1005_Signs_01.14.05.870-01.14.09.819 	Bo remains motionless, clinging to her brother.
-1053_Harry_Potter_and_the_philosophers_stone_01.20.59.545-01.21.02.549 	harry clings desperately to the bucking broomstick.
+0002_As_Good_As_It_Gets_01.03.58.102-01.03.59.227 	the fabric clinging to her breasts, like the old movie poster of the deep.
+0007_DIE_NACHT_DES_JAEGERS_01.28.10.834-01.28.12.361 	john and pearl flank rachel, clinging to her wide skirts.
+0011_Gandhi_00.04.17.239-00.04.19.025 	people everywhere, clinging to monuments, lamp standards, trees -- and as the camera pulls back from the funeral cortege it reveals more and more.
+0011_Gandhi_00.54.37.255-00.54.38.851 	people cling to the outside of each door and many more are seated on the central wooden planks on the roofs of the two coaches.
+0016_O_Brother_Where_Art_Thou_01.40.46.866-01.40.51.367 	tommy has indeed just surfaced downstream, clinging to a half-submerged piece of furniture.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.56.22.647-00.56.30.326 	they are so steep that frodo and sam climb as if on a ladder -- their desperate fingers clinging to the steps above -- trying not to look at the long black fall below them.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.40.53.815-01.40.57.135 	he falls, trapped in the sticky substance which clings to him.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.44.19.348-02.44.22.104 	frodo clinging onto the rock face with his one.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.44.42.470-02.44.44.874 	he can't reach with his bleeding hand, and falls back, still clinging valiantly to the rock with his good hand.
+0026_The_Big_Fish_00.36.14.716-00.36.16.934 	he pulls up his pant legs to reveal three shiny leeches clinging to his skin.
+0031_The_Lost_Weekend_00.43.48.598-00.43.51.930 	don, clinging to wick's arm, pulls himself up.
+0032_The_Princess_Bride_00.16.19.434-00.16.21.814 	the man in black, hanging suspended hundreds of feet in the air, holding to the jagged rocks, desperately trying to cling to life.
+0032_The_Princess_Bride_00.18.48.424-00.18.50.821 	the man in black, as his grip loosens a moment, trying to cling to the side of the cliff.
+0032_The_Princess_Bride_00.27.47.785-00.27.48.819 	and the power of the charge is terrible, the pain enormous, but he clings to his grip at fezzik's windpipe.
+0050_Indiana_Jones_and_the_last_crusade_00.06.01.853-00.06.05.421 	he clings to the side of a boxcar, as halfbreed and rough rider leap from the truck onto the train.
+0051_Men_in_black_01.17.27.554-01.17.28.025 	instead of banging off the wall of the tunnel, the ltd actually clings to it.
+0051_Men_in_black_01.17.28.704-01.17.28.908 	it keeps going, turning all the way over and driving upside down, wheels clinging to the roof of the tunnel.
+1002_Harry_Potter_and_the_Half-Blood_Prince_00.02.28.044-00.02.31.689 	they cling on, desperately.
+1003_How_to_Lose_Friends_and_Alienate_People_00.33.31.174-00.33.35.998 	she pulls herself up out of the water, her wet dress clinging to the sinuous curves of her lean, shapely body.
+1005_Signs_01.14.05.870-01.14.09.819 	bo remains motionless, clinging to her brother.
+1007_Spider-Man1_00.27.42.272-00.27.50.708 	clinging for dear life to the web, he swings to the air like tarzan on a creeper and lands running on the roof opposite.
+1007_Spider-Man1_01.20.09.593-01.20.10.195 	spider-man, without his mask, is clinging to a wall.
+1007_Spider-Man1_01.44.48.117-01.44.51.681 	the cable car lands safely on the barge, mj still clinging to it.
+1009_Spider-Man3_00.18.07.315-00.18.10.287 	harry prices out the section of wall peter is clinging to.
+1009_Spider-Man3_00.34.00.895-00.34.03.957 	the cable snaps but she clings onto the very edge of the floor.
+1009_Spider-Man3_01.05.48.609-01.05.53.972 	he clings to one huge lantern, looks out over the city and pulls off his black hood.
+1009_Spider-Man3_01.57.05.424-01.57.07.996 	who looks up at mary jane, clinging onto the web.
+1010_TITANIC_02.36.31.086-02.36.32.400 	inside people cling to columns at the top of the grand staircase.
+1010_TITANIC_02.39.48.067-02.39.53.353 	one man jumps and free falls into the icy water where small groups of survivors cling to floating debris.
+1010_TITANIC_02.47.18.609-02.47.21.454 	clinging to a nearby piece of debris, a crewman blows into a whistle.
+1010_TITANIC_02.49.18.709-02.49.23.375 	still clinging to wreckage, the crewman with the whistle in his mouth floats motionless with his eyes closed.
+1012_Unbreakable_01.29.00.762-01.29.08.249 	david struggles to the surface, clinging to the pole, lets go of it to claw his fingers over the pool edge.
+1014_2012_01.29.16.429-01.29.19.326 	the president clinging to a drip stand, fixes his eyes on the tall pointed washington monument.
+1014_2012_01.33.19.831-01.33.23.244 	and slithers along the floor away from harry still clinging to the hammock.
+1014_2012_02.05.12.460-02.05.17.895 	jackson struggles to help the injured tenzen and gordon, who cling on just above grinding gears.
+1026_Legion_00.37.18.795-00.37.25.511 	two long, bony hands cling on to the door frame as the ice cream man with a blue forage cap emerges.
+1031_Quantum_of_Solace_01.29.56.222-01.30.00.294 	he clings to the bumper as the driver reverses.
+1035_The_Adjustment_Bureau_01.35.24.597-01.35.30.366 	the intervention officers stand motionless, looking on stoically as the lovers cling to each other.
+1041_This_is_40_02.03.01.366-02.03.03.825 	he gives her back a fatherly pat as she clings to him.
+1044_Pride_And_Prejudice_Disk_Two_00.46.47.690-00.46.52.306 	darcy is striding towards pemberley, his wet shirt clinging to his broad chest.
+1046_Australia_00.43.22.004-00.43.23.543 	daisy and nullah cling frantically to the ladder.
+1046_Australia_02.27.57.016-02.28.06.126 	they cling to each other tears running down their cheeks
+1047_Defiance_01.52.02.102-01.52.07.442 	asael looks behind him and sees a female shoot a hit, her arm still clinging to her machine gun.
 1053_Harry_Potter_and_the_philosophers_stone_02.05.12.545-02.05.21.869 	he clings onto the reins, shaking with fear, as the queen gets closer and closer, gliding over the smooth marble floor.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_00.05.33.662-00.05.35.102 	vernon struggles after her with ripper clinging to his leg.
+1054_Harry_Potter_and_the_prisoner_of_azkaban_00.36.44.000-00.36.54.137 	clinging to the creature's neck, harry sees his reflection in the water as buckbeak skims low over the lake, one huge claw just touching the surface.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_01.29.24.762-01.29.28.664 	scratched by the sharp twigs, hermione is twisted this way and that as she clings to the branch.
+1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.20.23.000-00.20.26.906 	clinging to its spikes, she hauls herself up.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.20.41.960-00.20.53.592 	the three friends cling on desperately as the dragon climbs towards the light.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.21.33.000-00.21.40.290 	the three cling on as the dragon bursts its way through a glass dome onto the roof.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.01.57.111-01.01.58.266 	they cling to a carpet by their fingertips.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.13.56.812-01.13.58.675 	weeping, george clings to his father and hugs ron, desperately.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.47.14.125-01.47.21.672 	high on the ramparts, harry flings his arms around voldemort's neck, and clinging onto him, jumps off the edge.
 2005_Signs_00.51.28.422-00.51.29.606 	the children scream and cling to their father.

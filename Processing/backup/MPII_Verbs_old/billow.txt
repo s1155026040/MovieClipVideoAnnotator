@@ -1,18 +1,17 @@
-0013_Halloween_00.29.09.984-00.29.12.870 	The wind blows their costumes, billowing them outward.
-0023_THE_BUTTERFLY_EFFECT_00.24.17.029-00.24.28.671 	As Evan and Kayleigh absorb this in silence, they see a column of smoke billowing in the horizon.
-0027_The_Big_Lebowski_00.29.56.759-00.30.01.664 	The Dude is flying over the city, his arms thrown out in front of him, the wind whipping his hair and billowing his bowling shirt.
-1001_Flight_00.24.05.961-00.24.07.190 	Fire and smoke billow from the left engine.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.01.40.568-00.01.47.611 	They billow forward in the shape of a skull, from which three dark trails of smoke appear.
-1007_Spider-Man1_01.50.14.123-01.50.17.263 	the net curtains billow in the wind.
+0013_Halloween_00.29.09.984-00.29.12.870 	the wind blows their costumes, billowing them outward.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.45.31.422-02.45.46.873 	towers fall and walls crumble; vast spires of smoke and spouting steam billow up!
+0027_The_Big_Lebowski_00.29.56.759-00.30.01.664 	the dude is flying over the city, his arms thrown out in front of him, the wind whipping his hair and billowing his bowling shirt.
+1002_Harry_Potter_and_the_Half-Blood_Prince_00.01.40.568-00.01.47.611 	they billow forward in the shape of a skull, from which three dark trails of smoke appear.
 1010_TITANIC_02.38.50.616-02.38.55.316 	inside a submerged portion of the ship, a woman's lifeless body drifts beneath a large chandelier, her gauzy dress billowing in the water.
-1014_2012_00.01.14.304-00.01.21.375 	tendrils of white hot flame flicker around the billowing molten components.
+1014_2012_01.17.05.817-01.17.10.762 	the antonov taxis into the position as the ash cloud billows across the airport.
+1030_Public_Enemies_01.17.06.781-01.17.09.448 	dust billows around it as bullets hit the exterior stone wall.
+1031_Quantum_of_Solace_00.05.57.230-00.06.01.827 	bond falls in billowing sand.
+1031_Quantum_of_Solace_00.06.07.191-00.06.15.965 	the grid flexes turns and walks as the sand billows against starry darkness.
 1037_The_Curious_Case_Of_Benjamin_Button_02.03.07.216-02.03.12.529 	benjamin looks up to see a space rocket rise over billowing mountainous clouds on the horizon.
 1038_The_Great_Gatsby_00.06.46.353-00.06.47.142 	long white drapes billow across the room in the breeze.
 1038_The_Great_Gatsby_00.08.48.363-00.08.49.618 	the drapes billow into the room.
-1038_The_Great_Gatsby_01.26.24.252-01.26.26.419 	curtains billow in the open windows.
-1053_Harry_Potter_and_the_philosophers_stone_01.53.07.545-01.53.13.946 	snape stalks away along the corridor, his black cloak billowing behind him.
-1056_Rambo_00.58.44.692-00.58.53.254 	another trooper runs through the throng, brandishing a flare billowing red smoke.
-1062_Day_the_Earth_stood_still_00.17.47.793-00.17.51.969 	powerful blasts of energy slows decent, generating clouds of billowing vapor.
+1046_Australia_00.24.24.943-00.24.29.249 	as he strikes a pose, the curtains billowed.
+1046_Australia_00.26.57.268-00.27.00.204 	the curtain is billowing.
 1053_Harry_Potter_and_the_philosophers_stone_01.53.07.545-01.53.13.946 	snape stalks away along the corridor, his black cloak billowing behind him.
 1056_Rambo_00.58.44.692-00.58.53.254 	another trooper runs through the throng, brandishing a flare billowing red smoke.
 1062_Day_the_Earth_stood_still_00.17.47.793-00.17.51.969 	powerful blasts of energy slows decent, generating clouds of billowing vapor.

@@ -1,0 +1,10 @@
+CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS528 	01:34:47,00 --> 01:34:53,50 	someone punches someone, backhands him, and jabs him in the chest.
+CHRONICLE.srt 	CHRONICLE_DVS444 	01:05:16,00 --> 01:05:22,50 	the surveillance camera shows him leaning over someone and jabbing a finger at him.
+GREEN_ZONE.srt 	GREEN_ZONE_DVS358 	01:22:30,00 --> 01:22:35,50 	he jabs a pistol into someone's shoulder.
+HUGO.srt 	HUGO_DVS682 	01:38:52,00 --> 01:38:57,50 	the actors jab at the dragon with their prop weapons.
+KARATE_KID.srt 	KARATE_KID_DVS1052 	01:25:28,00 --> 01:25:33,50 	he jabs someone's stomach.
+KARATE_KID.srt 	KARATE_KID_DVS1053 	01:25:33,00 --> 01:25:40,50 	on the roof, he jabs again.
+KARATE_KID.srt 	KARATE_KID_DVS1055 	01:25:40,00 --> 01:25:46,50 	he jabs someone again, then steps around the sheet and faces him.
+KARATE_KID.srt 	KARATE_KID_DVS1302 	01:45:12,00 --> 01:45:19,50 	someone repeatedly jabs the boxing glove at someone, who easily deflects it.
+THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS307 	00:55:42,00 --> 00:55:47,50 	the vet jabs the needle into someone's neck.
+THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS555 	01:39:26,00 --> 01:39:35,50 	someone sidles down an aisle, grabs someone's shoulder, and jabs his gun against the bounty hunter's neck.

@@ -1,135 +1,113 @@
-0001_American_Beauty_00.31.43.967-00.31.44.890 	A bartender pours him a drink.
-0001_American_Beauty_01.33.27.368-01.33.33.672 	Ricky enters, wet from the pouring rain, and crosses to his bureau, pulling the wad of CASH out of his pocket as he goes.
-0001_American_Beauty_01.48.51.401-01.49.01.855 	She turns her head to look out the window: The RED DOOR of the Burnham house stands out, even in the pouring rain.
-0003_CASABLANCA_00.42.50.120-00.42.53.584 	Rick pours the champagne.
-0003_CASABLANCA_00.46.56.850-00.46.57.207 	Rain pours over his head and shoulders, but he doesn't seem to notice.
-0003_CASABLANCA_00.47.20.571-00.47.23.676 	Raindrops pour down the letter, smudging the writing.
-0003_CASABLANCA_00.48.34.181-00.48.38.094 	Rick reaches for the bottle, and pours himself another drink.
-0003_CASABLANCA_01.01.56.149-01.02.00.093 	He pours a drink for Renault.
-0003_CASABLANCA_01.05.12.492-01.05.15.060 	Rick pours himself a drink.
-0003_CASABLANCA_01.10.20.841-01.10.25.681 	Carl pours a brandy for Rick.
-0003_CASABLANCA_01.26.51.480-01.27.11.144 	Rick walks to the bar, picks up a bottle, and pours a drink.
-0003_CASABLANCA_01.31.41.099-01.31.51.349 	Ferrari pours a cup for Rick, who takes a sip.
-0003_CASABLANCA_01.41.17.819-01.41.24.848 	As he pours the water into a glass, Renault sees the Vichy label and quickly DROPS the bottle into a trash basket which he then KICKS over.
-0004_Charade_01.08.04.141-01.08.05.809 	SCOBIE, still dressed in his raincoat, lies face up, his head submerged in the filled tub, the water now pouring over the edge.
-0005_Chinatown_00.02.54.532-00.02.57.077 	Gittes pours a large shot.
-0005_Chinatown_00.41.25.007-00.41.28.081 	Then he's inundated with a rush of water which pours over him, knocks off his hat, carries him down the channel, banging into its banks, as he desperately tries to grab some of the overgrowth to hang on and pull himself out.
-0005_Chinatown_01.35.32.723-01.35.33.981 	Gittes is so exhausted he's literally holding onto the nozzle as the water pours down.
-0007_DIE_NACHT_DES_JAEGERS_00.16.45.077-00.16.49.858 	BIRDIE, in a ramshackle rocking chair, pours coffee.
-0007_DIE_NACHT_DES_JAEGERS_00.17.11.847-00.17.18.976 	He fetches a liquor bottle from beneath the rocking chair; about to pour he does a take at BESS'S PHOTOGRAPH.
-0007_DIE_NACHT_DES_JAEGERS_00.20.28.163-00.20.32.689 	ICEY pours fudge into a buttered pan.
-0009_Forrest_Gump_00.31.42.861-00.31.49.320 	Rain pours outside as the army bus driver yells at Forrest.
-0009_Forrest_Gump_00.46.44.113-00.46.49.629 	The rain pours down on Forrest and Bubba as they sit in a foxhole.
-0009_Forrest_Gump_00.46.50.129-00.46.53.611 	ANOTHER DAY - The platoon walks through the jungle as rain pours down on them.
-0009_Forrest_Gump_00.47.02.001-00.47.05.784 	The rain pours down on the men of the platoon as they sit in a camp.
-0009_Forrest_Gump_00.48.15.352-00.48.29.480 	Forrest lies in a pup tent and writes a litter as the rain pours down.
-0010_Frau_Ohne_Gewissen_00.17.27.838-00.17.31.591 	She pours herself a glass of tea.
-0010_Frau_Ohne_Gewissen_00.35.13.317-00.35.19.096 	Dietrichson has poured some more whisky into his glass.
-0011_Gandhi_01.19.30.681-01.19.38.134 	As it sinks in, Gandhi pours some tea then looks up at them with a pleading warmth -- first to Jinnah.
-0011_Gandhi_01.50.50.845-01.50.53.739 	She looks at him nervously, then pours a glass from the pitcher.
-0011_Gandhi_01.52.56.498-01.52.58.479 	She starts to pour water from the pitcher into the glass again, then she turns suddenly, her attention caught.
-0013_Halloween_00.07.37.826-00.07.42.678 	Two headlights appear in the darkness, backlighting the rain that pours down on a lonely strip of highway.
-0013_Halloween_00.43.01.542-00.43.03.321 	Annie starts to pour the butter over the popcorn but instead pours it on herself.
-0014_Ist_das_Leben_nicht_schoen_01.00.16.009-01.00.16.587 	The rain is pouring down.
-0014_Ist_das_Leben_nicht_schoen_01.48.27.628-01.48.29.469 	Nick stops pouring the drinks, bottle poised in his hand.
-0014_Ist_das_Leben_nicht_schoen_02.05.32.008-02.05.32.301 	Money pours onto the table pennies, dimes, quarters, dollar bills small money, but lots of it.
-0017_Pianist_00.04.49.705-00.04.52.788 	Father pours liqueur into glasses.
-0017_Pianist_00.28.50.141-00.28.52.069 	Helmeted, jackbooted SS MEN, led by an NCO, pour out of the vehicle.
-0017_Pianist_00.29.05.891-00.29.08.641 	The SS men pouring into the building opposite.
-0017_Pianist_01.39.34.265-01.39.40.800 	Szalas shrugs, finds the vodka, pours two glasses.
-0019_Pulp_Fiction_00.01.07.174-00.01.11.019 	The Waitress pours the Young Woman's coffee.
-0019_Pulp_Fiction_00.02.49.661-00.02.54.537 	The Waitress comes by, pouring him some more.
-0020_Raising_Arizona_00.33.31.615-00.33.33.090 	The shafts of light pouring in are defined by motes of dust dancing in the air.
+0001_American_Beauty_00.31.43.967-00.31.44.890 	a bartender pours him a drink.
+0001_American_Beauty_01.33.27.368-01.33.33.672 	ricky enters, wet from the pouring rain, and crosses to his bureau, pulling the wad of cash out of his pocket as he goes.
+0003_CASABLANCA_00.42.50.120-00.42.53.584 	rick pours the champagne.
+0003_CASABLANCA_00.47.20.571-00.47.23.676 	raindrops pour down the letter, smudging the writing.
+0003_CASABLANCA_00.48.34.181-00.48.38.094 	rick reaches for the bottle, and pours himself another drink.
+0003_CASABLANCA_01.01.56.149-01.02.00.093 	he pours a drink for renault.
+0003_CASABLANCA_01.05.12.492-01.05.15.060 	rick pours himself a drink.
+0003_CASABLANCA_01.10.20.841-01.10.25.681 	carl pours a brandy for rick.
+0003_CASABLANCA_01.26.51.480-01.27.11.144 	rick walks to the bar, picks up a bottle, and pours a drink.
+0003_CASABLANCA_01.31.41.099-01.31.51.349 	ferrari pours a cup for rick, who takes a sip.
+0003_CASABLANCA_01.41.17.819-01.41.24.848 	as he pours the water into a glass, renault sees the vichy label and quickly drops the bottle into a trash basket which he then kicks over.
+0004_Charade_01.08.04.141-01.08.05.809 	scobie, still dressed in his raincoat, lies face up, his head submerged in the filled tub, the water now pouring over the edge.
+0005_Chinatown_00.02.54.532-00.02.57.077 	gittes pours a large shot.
+0005_Chinatown_00.41.25.007-00.41.28.081 	then he's inundated with a rush of water which pours over him, knocks off his hat, carries him down the channel, banging into its banks, as he desperately tries to grab some of the overgrowth to hang on and pull himself out.
+0005_Chinatown_01.35.32.723-01.35.33.981 	gittes is so exhausted he's literally holding onto the nozzle as the water pours down.
+0007_DIE_NACHT_DES_JAEGERS_00.16.45.077-00.16.49.858 	birdie, in a ramshackle rocking chair, pours coffee.
+0007_DIE_NACHT_DES_JAEGERS_00.17.11.847-00.17.18.976 	he fetches a liquor bottle from beneath the rocking chair; about to pour he does a take at bess's photograph.
+0007_DIE_NACHT_DES_JAEGERS_00.41.19.559-00.41.23.438 	he pours, snaps it down; weak-defiance.
+0009_Forrest_Gump_00.46.44.113-00.46.49.629 	the rain pours down on forrest and bubba as they sit in a foxhole.
+0009_Forrest_Gump_00.47.02.001-00.47.05.784 	the rain pours down on the men of the platoon as they sit in a camp.
+0009_Forrest_Gump_00.48.15.352-00.48.29.480 	forrest lies in a pup tent and writes a litter as the rain pours down.
+0010_Frau_Ohne_Gewissen_00.17.27.838-00.17.31.591 	she pours herself a glass of tea.
+0010_Frau_Ohne_Gewissen_00.35.13.317-00.35.19.096 	dietrichson has poured some more whisky into his glass.
+0011_Gandhi_01.19.30.681-01.19.38.134 	as it sinks in, gandhi pours some tea then looks up at them with a pleading warmth -- first to jinnah.
+0011_Gandhi_01.50.50.845-01.50.53.739 	she looks at him nervously, then pours a glass from the pitcher.
+0011_Gandhi_01.52.56.498-01.52.58.479 	she starts to pour water from the pitcher into the glass again, then she turns suddenly, her attention caught.
+0013_Halloween_00.07.37.826-00.07.42.678 	two headlights appear in the darkness, backlighting the rain that pours down on a lonely strip of highway.
+0013_Halloween_00.43.01.542-00.43.03.321 	annie starts to pour the butter over the popcorn but instead pours it on herself.
+0014_Ist_das_Leben_nicht_schoen_01.00.16.009-01.00.16.587 	the rain is pouring down.
+0014_Ist_das_Leben_nicht_schoen_01.48.27.628-01.48.29.469 	nick stops pouring the drinks, bottle poised in his hand.
+0014_Ist_das_Leben_nicht_schoen_02.05.32.008-02.05.32.301 	money pours onto the table pennies, dimes, quarters, dollar bills small money, but lots of it.
+0017_Pianist_00.04.49.705-00.04.52.788 	father pours liqueur into glasses.
+0017_Pianist_00.28.50.141-00.28.52.069 	helmeted, jackbooted ss men, led by an nco, pour out of the vehicle.
+0017_Pianist_00.29.05.891-00.29.08.641 	the ss men pouring into the building opposite.
+0017_Pianist_01.39.34.265-01.39.40.800 	szalas shrugs, finds the vodka, pours two glasses.
+0019_Pulp_Fiction_00.01.07.174-00.01.11.019 	the waitress pours the young woman's coffee.
+0019_Pulp_Fiction_00.02.49.661-00.02.54.537 	the waitress comes by, pouring him some more.
 0020_Raising_Arizona_01.18.32.445-01.18.33.678 	- their car explodes and bounces, pouring black smoke.
-0021_Rear_Window_00.05.08.941-00.05.09.808 	Loud ballet music is pouring from her open window.
-0021_Rear_Window_00.22.43.933-00.22.51.155 	She sits down, pours two drinks.
-0021_Rear_Window_00.25.30.518-00.25.37.018 	He goes to the kitchen reaches up to a wall cabinet, takes down a bottle and pours himself a drink.
-0021_Rear_Window_01.02.03.026-01.02.16.080 	She goes straight for a bottle of liquor, and pours out a final neat slug, and tosses it off.
-0021_Rear_Window_01.06.28.762-01.06.30.939 	The lights are out in Thorwald's bedroom, and Thorwald is in the act of pouring himself out a drink in the living room.
-0023_THE_BUTTERFLY_EFFECT_00.05.43.370-00.05.45.188 	Andrea, meanwhile, speaks into the phone as she pours Lucky Charms into a cereal bowl for Evan.
-0023_THE_BUTTERFLY_EFFECT_01.35.27.380-01.35.35.817 	Evan screams as blood pours from his nose.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.19.10.144-02.19.19.266 	Galadriel pours water into the basin from a silver jug.a glow rises from the water.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.01.33.363-02.01.38.432 	DENETHOR standing on the table astride FARAMIR, pouring OIL over his OWN HEAD.
-0026_The_Big_Fish_00.15.32.384-00.15.41.311 	Will pours him a glass of water, helping him hold it to his parched lips.
-0026_The_Big_Fish_01.49.17.077-01.49.20.793 	Will pours a glass from the pitcher on the nightstand.
-0028_The_Crying_Game_00.13.33.545-00.13.44.676 	Fergus pours out a cup of tea and brings it to his lips.
-0028_The_Crying_Game_00.38.47.539-00.38.47.922 	The old man pouring whiskey into a teacup.
-0028_The_Crying_Game_00.38.57.025-00.39.03.167 	He pours Fergus more whiskey.
-0028_The_Crying_Game_00.39.42.882-00.39.44.433 	Daylight pours through the clouds of dust and the growing hole.
-0028_The_Crying_Game_01.01.34.517-01.01.39.465 	Col, the barman, pours her drink.
-0028_The_Crying_Game_01.01.39.465-01.01.44.319 	Col pours and smiles.
-0028_The_Crying_Game_01.09.00.028-01.09.04.332 	She takes out a thermos and pours him some tea.
-0029_The_Graduate_00.10.56.706-00.11.01.852 	She pours herself a drink.
-0030_The_Hustler_01.04.38.965-01.04.44.858 	She pours it out, saying nothing.
-0030_The_Hustler_01.05.00.182-01.05.05.419 	She pours herself a very stiff drink as Eddie moves about restlessly.
-0030_The_Hustler_01.21.17.359-01.21.38.285 	Sarah pours him some coffee and he tries to bring the cup to his lips, but he cannot manage it.
-0030_The_Hustler_01.31.05.922-01.31.16.303 	The waiter pours out the sherry as Eddie and Sarah stare at each other over their glasses.
-0030_The_Hustler_01.50.28.409-01.50.37.066 	Findley has a mischievous look on his face as he brings out a cloth bag and pours out the three billiard balls on the table.
-0030_The_Hustler_01.52.30.865-01.52.33.376 	Findley pours a drink as Eddie approaches.
-0030_The_Hustler_01.58.02.369-01.58.22.906 	He pours himself a drink and downs it in one gulp, walks to the door, listens, and opens it himself without knocking.
-0031_The_Lost_Weekend_00.13.27.521-00.13.31.360 	Nat pours the drink, then returns to squeezing lemons.
-0031_The_Lost_Weekend_00.15.18.152-00.15.21.357 	Without a change of expression, Nat pours the second drink.
-0031_The_Lost_Weekend_00.24.08.776-00.24.11.756 	Nat pours a jiggerful.
-0031_The_Lost_Weekend_00.26.12.800-00.26.15.170 	He pours another drink.
-0031_The_Lost_Weekend_00.28.06.260-00.28.09.022 	Nat does break down and pours a drink.
-0031_The_Lost_Weekend_00.31.12.725-00.31.18.717 	Powdered footmen are pouring wine into the glasses of the over-vivacious guests.
-0031_The_Lost_Weekend_01.06.11.716-01.06.12.309 	Sweat pours from his forehead.
-0031_The_Lost_Weekend_01.24.22.333-01.24.28.617 	Without winking an eyelash, he pours his glass half full, lifts it so that glass and hand obscure his face.
-0032_The_Princess_Bride_00.58.05.630-00.58.11.901 	And then he opens the flood gate, water pours down the chute, turning the wheel, which in turn really gets The Machine going.
-0032_The_Princess_Bride_01.27.17.320-01.27.18.445 	His skin is ashen and the blood still pours from the parallel cuts on his cheeks and his eyes are bulging wide, full of fear.
-0033_Amadeus_01.06.36.737-01.06.43.201 	She looks at him inquiringly, and drops the portfolio on the floor; pages of music pour out of it.
-0033_Amadeus_02.35.46.856-02.35.49.987 	Salieri pours the coins out of the bag onto the coverlet.
-0033_Amadeus_02.42.49.522-02.42.50.861 	Mozart is looking very sick: sweat is pouring from his forehead.
-0038_Psycho_00.34.57.985-00.35.06.574 	As Norman goes about spreading out the bread and ham and pouring the milk, we follow Mary across the room.
-0041_The_Sixth_Sense_00.32.55.792-00.32.56.478 	Malcolm pours over a thick reference book.
-0041_The_Sixth_Sense_01.25.11.926-01.25.17.535 	The mother pours some into the cap.
-0049_Hannah_and_her_sisters_00.33.14.150-00.33.16.826 	The sun pours through the windows he passes.
-0049_Hannah_and_her_sisters_00.36.23.099-00.36.37.322 	He uncorks the wine and pours some in both their glasses.
-0049_Hannah_and_her_sisters_01.13.22.052-01.13.29.555 	He begins to pour the tea into china cups.
-0049_Hannah_and_her_sisters_01.27.35.209-01.27.41.348 	The uncle pours more beer from his bottle into the kids' outstretched glasses.
-0049_Hannah_and_her_sisters_01.40.07.258-01.40.13.702 	Norma unscrews the liquor bottle and pours some into her empty glass as Hannah stops her mashing, reacting.
-0050_Indiana_Jones_and_the_last_crusade_00.18.31.870-00.18.39.230 	Donovan pours champagne into several fluted glasses as Indy reads.
-0050_Indiana_Jones_and_the_last_crusade_01.30.55.169-01.30.58.459 	Smoke pours from the top of the tank as the turret pops open.
-0050_Indiana_Jones_and_the_last_crusade_01.54.49.592-01.54.53.278 	Finally Indy pours the water over the wound and everyone watches in astonishment as the wound and the blood stain disappear before their eyes.
-0053_Rendezvous_mit_Joe_Black_00.04.25.070-00.04.34.453 	But Parrish only pours coffee.
-0053_Rendezvous_mit_Joe_Black_02.06.26.264-02.06.32.915 	Quince sips the red, now the white, now he pours some of each into one glass.
-1001_Flight_00.14.56.686-00.15.01.864 	He pours the contents of a small vodka bottle into a juice container hidden from the passengers' view.
-1001_Flight_00.49.28.512-00.49.30.860 	He pours it down the sink.
-1001_Flight_01.33.20.007-01.33.24.897 	Rain falls steadily as Whip sits in the car and pours alcohol into a bottle of juice and takes a drink.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.37.01.439-00.37.03.215 	Harry pours in a clear liquid.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.39.33.189-00.39.37.107 	Harry pours the contents of the vial into the basin.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.34.44.896-01.34.46.614 	Rain pours down on the Borgin and Burke shop sign.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.52.30.230-01.52.37.583 	In his study, Dumbledore pours it into the pensive.
-1004_Juno_00.51.31.233-00.51.38.246 	As Bren goes back to her paper dogs, Juno pours the dregs of her drink into Bren's ornament.
-1005_Signs_00.07.56.991-00.08.11.237 	Bo carefully pours the water into a metal dog bowl, and slides it across the grass to Houdini.
-1005_Signs_00.51.02.340-00.51.05.290 	Flames pouring from the upstairs windows.
-1005_Signs_01.30.52.210-01.31.01.460 	Gingerly, he starts to climb the gloomy stairwell leading up into the kitchen, thick rays of sunlight pouring through irregular holes punched into the wooden planks across the window.
-1006_Slumdog_Millionaire_00.30.42.532-00.30.48.298 	He opens Arvind's eyelids and pours in the liquid.
-1006_Slumdog_Millionaire_00.59.33.537-00.59.41.227 	Inside the hotel room, Salim gleefully pours two bottles of spirit into a pot while Jamal picks a towel out of a cupboard.
+0021_Rear_Window_00.05.08.941-00.05.09.808 	loud ballet music is pouring from her open window.
+0021_Rear_Window_00.22.43.933-00.22.51.155 	she sits down, pours two drinks.
+0021_Rear_Window_00.25.30.518-00.25.37.018 	he goes to the kitchen reaches up to a wall cabinet, takes down a bottle and pours himself a drink.
+0021_Rear_Window_01.02.03.026-01.02.16.080 	she goes straight for a bottle of liquor, and pours out a final neat slug, and tosses it off.
+0021_Rear_Window_01.06.28.762-01.06.30.939 	the lights are out in thorwald's bedroom, and thorwald is in the act of pouring himself out a drink in the living room.
+0022_Reservoir_Dogs_00.58.40.019-00.58.52.999 	mr. blonde pours the gasoline all over the cop, who's begging him not to do this.
+0023_THE_BUTTERFLY_EFFECT_00.05.43.370-00.05.45.188 	andrea, meanwhile, speaks into the phone as she pours lucky charms into a cereal bowl for evan.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.47.10.074-00.47.39.706 	pippin as he stealthily manages to pour oil on the wood and set a flame to it!
+0026_The_Big_Fish_00.15.32.384-00.15.41.311 	will pours him a glass of water, helping him hold it to his parched lips.
+0026_The_Big_Fish_01.49.17.077-01.49.20.793 	will pours a glass from the pitcher on the nightstand.
+0028_The_Crying_Game_00.38.47.539-00.38.47.922 	the old man pouring whiskey into a teacup.
+0028_The_Crying_Game_00.38.57.025-00.39.03.167 	he pours fergus more whiskey.
+0028_The_Crying_Game_01.01.34.517-01.01.39.465 	col, the barman, pours her drink.
+0028_The_Crying_Game_01.09.00.028-01.09.04.332 	she takes out a thermos and pours him some tea.
+0029_The_Graduate_00.10.56.706-00.11.01.852 	she pours herself a drink.
+0030_The_Hustler_01.04.38.965-01.04.44.858 	she pours it out, saying nothing.
+0030_The_Hustler_01.05.00.182-01.05.05.419 	she pours herself a very stiff drink as eddie moves about restlessly.
+0030_The_Hustler_01.21.17.359-01.21.38.285 	sarah pours him some coffee and he tries to bring the cup to his lips, but he cannot manage it.
+0030_The_Hustler_01.31.05.922-01.31.16.303 	the waiter pours out the sherry as eddie and sarah stare at each other over their glasses.
+0030_The_Hustler_01.50.28.409-01.50.37.066 	findley has a mischievous look on his face as he brings out a cloth bag and pours out the three billiard balls on the table.
+0030_The_Hustler_01.52.30.865-01.52.33.376 	findley pours a drink as eddie approaches.
+0030_The_Hustler_01.58.02.369-01.58.22.906 	he pours himself a drink and downs it in one gulp, walks to the door, listens, and opens it himself without knocking.
+0031_The_Lost_Weekend_00.13.27.521-00.13.31.360 	nat pours the drink, then returns to squeezing lemons.
+0031_The_Lost_Weekend_00.15.18.152-00.15.21.357 	without a change of expression, nat pours the second drink.
+0031_The_Lost_Weekend_00.24.08.776-00.24.11.756 	nat pours a jiggerful.
+0031_The_Lost_Weekend_00.26.12.800-00.26.15.170 	he pours another drink.
+0031_The_Lost_Weekend_00.28.06.260-00.28.09.022 	nat does break down and pours a drink.
+0031_The_Lost_Weekend_00.31.12.725-00.31.18.717 	powdered footmen are pouring wine into the glasses of the over-vivacious guests.
+0031_The_Lost_Weekend_01.24.22.333-01.24.28.617 	without winking an eyelash, he pours his glass half full, lifts it so that glass and hand obscure his face.
+0032_The_Princess_Bride_01.27.17.320-01.27.18.445 	his skin is ashen and the blood still pours from the parallel cuts on his cheeks and his eyes are bulging wide, full of fear.
+0033_Amadeus_01.06.36.737-01.06.43.201 	she looks at him inquiringly, and drops the portfolio on the floor; pages of music pour out of it.
+0033_Amadeus_02.35.46.856-02.35.49.987 	salieri pours the coins out of the bag onto the coverlet.
+0033_Amadeus_02.42.49.522-02.42.50.861 	mozart is looking very sick: sweat is pouring from his forehead.
+0038_Psycho_00.34.57.985-00.35.06.574 	as norman goes about spreading out the bread and ham and pouring the milk, we follow mary across the room.
+0041_The_Sixth_Sense_00.32.55.792-00.32.56.478 	malcolm pours over a thick reference book.
+0041_The_Sixth_Sense_01.25.11.926-01.25.17.535 	the mother pours some into the cap.
+0049_Hannah_and_her_sisters_00.33.14.150-00.33.16.826 	the sun pours through the windows he passes.
+0049_Hannah_and_her_sisters_00.36.23.099-00.36.37.322 	he uncorks the wine and pours some in both their glasses.
+0049_Hannah_and_her_sisters_01.13.22.052-01.13.29.555 	he begins to pour the tea into china cups.
+0049_Hannah_and_her_sisters_01.27.35.209-01.27.41.348 	the uncle pours more beer from his bottle into the kids' outstretched glasses.
+0049_Hannah_and_her_sisters_01.40.07.258-01.40.13.702 	norma unscrews the liquor bottle and pours some into her empty glass as hannah stops her mashing, reacting.
+0050_Indiana_Jones_and_the_last_crusade_00.18.31.870-00.18.39.230 	donovan pours champagne into several fluted glasses as indy reads.
+0050_Indiana_Jones_and_the_last_crusade_01.54.49.592-01.54.53.278 	finally indy pours the water over the wound and everyone watches in astonishment as the wound and the blood stain disappear before their eyes.
+0053_Rendezvous_mit_Joe_Black_00.04.25.070-00.04.34.453 	but parrish only pours coffee.
+0053_Rendezvous_mit_Joe_Black_02.06.26.264-02.06.32.915 	quince sips the red, now the white, now he pours some of each into one glass.
+1001_Flight_00.14.56.686-00.15.01.864 	he pours the contents of a small vodka bottle into a juice container hidden from the passengers' view.
+1001_Flight_00.49.28.512-00.49.30.860 	he pours it down the sink.
+1001_Flight_01.33.20.007-01.33.24.897 	rain falls steadily as whip sits in the car and pours alcohol into a bottle of juice and takes a drink.
+1002_Harry_Potter_and_the_Half-Blood_Prince_00.39.33.189-00.39.37.107 	harry pours the contents of the vial into the basin.
+1002_Harry_Potter_and_the_Half-Blood_Prince_01.52.30.230-01.52.37.583 	in his study, dumbledore pours it into the pensive.
+1004_Juno_00.51.31.233-00.51.38.246 	as bren goes back to her paper dogs, juno pours the dregs of her drink into bren's ornament.
+1005_Signs_00.07.56.991-00.08.11.237 	bo carefully pours the water into a metal dog bowl, and slides it across the grass to houdini.
+1005_Signs_00.51.02.340-00.51.05.290 	flames pouring from the upstairs windows.
+1005_Signs_01.30.52.210-01.31.01.460 	gingerly, he starts to climb the gloomy stairwell leading up into the kitchen, thick rays of sunlight pouring through irregular holes punched into the wooden planks across the window.
+1006_Slumdog_Millionaire_00.59.33.537-00.59.41.227 	inside the hotel room, salim gleefully pours two bottles of spirit into a pot while jamal picks a towel out of a cupboard.
 1007_Spider-Man1_01.12.13.419-01.12.21.492 	at the osborn home, norman is pouring himself a drink from a decanter.
-1007_Spider-Man1_01.21.50.259-01.21.56.524 	she has the broadest of grins as she stands in the pouring rain, looking up into the sky.
 1008_Spider-Man2_00.58.07.727-00.58.09.472 	harry's poured a drink.
 1008_Spider-Man2_01.18.19.541-01.18.23.642 	she strides up to the table and pours a cup of tea.
 1009_Spider-Man3_00.08.22.557-00.08.24.520 	the door of a glass chamber slides open and green smoke pours out.
 1009_Spider-Man3_01.17.45.956-01.17.52.360 	harry turns back to the stove and pours his egg.
 1009_Spider-Man3_01.27.10.706-01.27.15.606 	in his father's study, harry pours himself a martini and adds a couple of olives.
-1009_Spider-Man3_01.40.56.791-01.41.07.932 	drawn by the sound of the bells, he looks up at the torrential rain pours down.
-1009_Spider-Man3_02.05.53.524-02.05.57.720 	behind him flint materializes, sand pouring from his arm.
 1009_Spider-Man3_02.10.38.902-02.10.46.555 	peter's lip trembles, and tears pour down his cheeks.
-1010_TITANIC_01.41.16.528-01.41.27.190 	in the engine room, water pours in as a man scrambles past furnace stokers swept across.
 1010_TITANIC_01.59.45.338-01.59.55.729 	the elevator descends into rising water, which pours into the elevator.
-1010_TITANIC_02.21.45.574-02.21.53.313 	water pours down the steps, and then they run towards the boy.
-1010_TITANIC_02.22.54.173-02.22.57.177 	water pours around them as lights flicker.
-1010_TITANIC_02.30.56.709-02.30.58.887 	water pours in beneath the door.
-1010_TITANIC_02.35.09.823-02.35.17.120 	as sea water pours into the openings passengers back into the sinking ship.
 1010_TITANIC_03.00.58.128-03.01.02.794 	her hair wet and stringy, rose stands in pouring rain on the deck of the ship.
 1011_The_Help_00.33.04.334-00.33.12.442 	minnie, carrying her handbag, strides out of the front door, into the pouring rain.
 1011_The_Help_00.41.47.595-00.41.53.257 	visibly nervous she pours tea from a white china pot into a china cup spilling a drop on the saucer.
 1011_The_Help_01.37.33.926-01.37.40.495 	she pours a whiskey.
 1012_Unbreakable_01.34.20.311-01.34.28.347 	joseph unscrews the cap of a big carton of orange juice and carefully pours himself half a glass full.
-1014_2012_00.03.59.837-00.04.04.553 	gurdeep pours ice around doctor lokesh's feet.
 1014_2012_00.54.53.999-00.54.57.339 	kevin, the waiter, pours harry the double.
 1014_2012_01.19.46.447-01.19.49.845 	and then pours out some tea for both of them.
+1014_2012_01.19.57.731-01.19.58.430 	nema reaches out to stop him pouring.
+1014_2012_01.19.58.430-01.20.00.567 	rinpoche stops pouring.
 1017_Bad_Santa_00.10.40.999-00.10.48.602 	he puts them under the counter and pours a generous measure of vodka into a tumbler.
 1017_Bad_Santa_00.25.42.104-00.25.45.212 	she pours out a shot for herself as well as willie's.
 1017_Bad_Santa_00.25.59.245-00.26.04.134 	she pours him another shot, and then one for herself.
@@ -138,52 +116,35 @@
 1018_Body_Of_Lies_00.32.03.799-00.32.10.641 	he pours ferris a cup of coffee.
 1018_Body_Of_Lies_01.33.36.557-01.33.38.406 	al-saleem's lieutenant pours a drink.
 1019_Confessions_Of_A_Shopaholic_00.43.57.694-00.43.59.673 	alicia, pouring champagne, misses the glass as she watches in horror.
-1020_Crazy_Stupid_Love_01.06.06.854-01.06.10.832 	jacob pours liquor onto a sugar lump in a glass, then crushes the lump with a pestle.
 1020_Crazy_Stupid_Love_01.06.10.832-01.06.13.675 	he pours in more liquor and some ice cubes.
 1020_Crazy_Stupid_Love_01.36.09.264-01.36.13.037 	at school, students pour out of the building.
-1023_Horrible_Bosses_00.06.50.390-00.06.58.221 	harken pours nick a big measure of whiskey from a cut-glass decanter and hands it to him.
 1024_Identity_Thief_00.38.00.390-00.38.06.010 	lifting a glass container, he casually pours out the barbicide disinfectant and drops it on the floor.
 1024_Identity_Thief_00.49.46.851-00.49.51.385 	diana drops a pill into his cup, then pours two drinks as he twitches drunkenly.
 1024_Identity_Thief_00.55.36.979-00.55.45.195 	as sandy pours himself a cup of coffee, the brown utility van pulls into the motel parking lot.
-1027_Les_Miserables_01.28.49.466-01.28.52.516 	rain pours down, soaking the cobbled street.
-1028_No_Reservations_01.10.34.079-01.10.38.210 	in the pouring rain, nick dashes out of his truck outside kate's apartment building.
 1029_Pride_And_Prejudice_Disk_One_00.49.02.114-00.49.10.635 	a servant enters and pours a large jug of water over his head and back.
 1030_Public_Enemies_00.36.13.154-00.36.20.245 	his gaze pours over her face.
-1030_Public_Enemies_01.34.10.906-01.34.15.175 	dillinger pours antiseptic over red's wounded abdomen.
-1034_Super_8_01.46.01.639-01.46.05.633 	blood pours from cary's mouth.
+1033_Sherlock_Holmes_A_Game_of_Shadows_00.08.54.685-00.08.57.423 	her tea is poured.
 1035_The_Adjustment_Bureau_01.17.00.907-01.17.04.533 	at dusk, under pouring rain, he holds his jacket over his head as he runs along a dock to a warehouse.
 1037_The_Curious_Case_Of_Benjamin_Button_01.03.41.205-01.03.47.925 	elizabeth takes a seat as benjamin pours the tea.
 1037_The_Curious_Case_Of_Benjamin_Button_01.04.27.706-01.04.35.682 	elizabeth looks a little awkward as he pours her a cup.
 1038_The_Great_Gatsby_00.21.19.529-00.21.22.833 	he shakes the bottle, fizzing the champagne up, then pours some into his wide-open mouth.
-1038_The_Great_Gatsby_00.21.23.336-00.21.24.244 	tom pours champagne into the seated nick's mouth from a ceramic goblet.
 1038_The_Great_Gatsby_00.51.04.935-00.51.05.989 	it's pouring with rain.
 1038_The_Great_Gatsby_00.55.45.799-00.55.49.099 	as he pours tea, daisy sits on a couch and gatsby stands leaning against the mantelpiece where the wooden clock sits.
 1038_The_Great_Gatsby_00.55.49.099-00.55.50.230 	nick finishes pouring tea through a strainer.
-1038_The_Great_Gatsby_01.06.53.750-01.06.56.562 	rain pours down on the terrace and the long, narrow dock that juts out into the bay.
-1038_The_Great_Gatsby_02.07.38.803-02.07.40.440 	rain pours and mist hangs over the bay.
-1044_Pride_And_Prejudice_Disk_Two_01.33.52.462-01.33.55.253 	mr. bennet arrives home in the pouring rain.
 1044_Pride_And_Prejudice_Disk_Two_01.35.17.427-01.35.22.455 	jane puts down her book and is just going to pour the tea when mr. bennet comes in.
-1044_Pride_And_Prejudice_Disk_Two_02.02.27.455-02.02.34.479 	inside the house, shutters are opened and smoke pours out of the chimney as the fires are lit.
 1046_Australia_00.15.01.587-00.15.08.953 	sarah pops her head out of her tent, staring as the water pours off his rippling muscles.
 1046_Australia_00.44.25.045-00.44.28.013 	but more continues to pour from the tower.
 1046_Australia_01.39.13.903-01.39.24.922 	they kiss as it starts to pour down.
 1046_Australia_01.42.02.862-01.42.14.217 	the door to the room swings closed, as lightning flashes and the rain pours down on nighttime darwin.
-1047_Defiance_00.06.41.214-00.06.47.066 	the four of them huddle together in the pouring rain.
 1047_Defiance_00.10.16.892-00.10.19.982 	in a dimly lit cottage, as tuvia pours out two vodkas.
 1047_Defiance_00.10.52.308-00.10.56.229 	the men clink glasses, pours some away and down the rest.
 1047_Defiance_00.16.22.931-00.16.32.165 	at night in pouring rain with the collar of his jacket pulled up, tuvia stands staring at a cottage in the clearing, his lips pursed.
 1047_Defiance_01.28.06.515-01.28.08.866 	viktor pours another glass of vodka
 1049_Harry_Potter_and_the_chamber_of_secrets_01.38.15.310-01.38.17.481 	his hand shakes as he pours it out.
-1051_Harry_Potter_and_the_goblet_of_fire_00.36.25.000-00.36.31.583 	outside, rain pours from the mouth of a gargoyle.
-1051_Harry_Potter_and_the_goblet_of_fire_02.15.20.794-02.15.24.096 	snape pours truth serum into moody's mouth.
-1055_Marley_and_me_00.16.28.866-00.16.31.253 	john arrives at the airport in the pouring rain.
 1056_Rambo_00.54.54.248-00.54.58.970 	the soldier on stage continues to humiliate a terrified dancing woman by pouring his can of drink over her head.
 1056_Rambo_01.14.26.580-01.14.35.631 	a collection of people in khaki and civilian colors pour down the hill.
-1057_Seven_pounds_01.40.34.606-01.40.46.427 	he sets off slowly across the dark garden in the pouring rain, then jogs to the picket fence.
 1057_Seven_pounds_01.48.12.851-01.48.14.717 	he pours the contents into the water.
-1058_The_Damned_united_00.26.52.619-00.27.04.000 	having emptied a bottle of champagne into the silver cup, brian pours it into the players' glasses.
 1060_Yes_man_00.26.12.000-00.26.15.645 	he pours petrol into his car.
-1062_Day_the_Earth_stood_still_00.46.06.703-00.46.13.061 	in the pouring rain, she opens the passenger door of her car and he gets in.
 2004_Juno_00.16.17.836-00.16.19.937 	we see liberty bell blithely pouring bacon bits onto her dinner.
 2004_Juno_00.42.49.575-00.43.10.072 	mark leads juno into the kitchen, where he pours two drinks.
 2004_Juno_00.51.36.537-00.51.38.924 	and defiantly pours the remains of her blue slushie into the urn.
@@ -191,26 +152,7 @@
 2005_Signs_00.07.30.220-00.07.30.319 	bo is about to pour the glass of water into the dog bowl.
 2005_Signs_00.07.57.977-00.08.01.823 	bo shrugs and pours it into the bowl.
 2017_Bad_Santa_00.25.39.904-00.25.45.703 	she pours two.
+2017_Bad_Santa_00.25.59.375-00.26.04.296 	as she pours.
 2017_Bad_Santa_00.53.01.775-00.53.06.952 	willie grabs a vodka bottle standing open on the counter and liberally pours some on the hand.
-2026_Legion_00.27.08.566-00.27.11.799 	blood pours freely from his neck.
-2026_Legion_01.17.05.198-01.17.06.833 	a brilliant spectral light pours into the diner.
-1055_Marley_and_me_00.16.28.866-00.16.31.253 	john arrives at the airport in the pouring rain.
-1056_Rambo_00.54.54.248-00.54.58.970 	the soldier on stage continues to humiliate a terrified dancing woman by pouring his can of drink over her head.
-1056_Rambo_01.14.26.580-01.14.35.631 	a collection of people in khaki and civilian colors pour down the hill.
-1057_Seven_pounds_01.40.34.606-01.40.46.427 	he sets off slowly across the dark garden in the pouring rain, then jogs to the picket fence.
-1057_Seven_pounds_01.48.12.851-01.48.14.717 	he pours the contents into the water.
-1058_The_Damned_united_00.26.52.619-00.27.04.000 	having emptied a bottle of champagne into the silver cup, brian pours it into the players' glasses.
-1060_Yes_man_00.26.12.000-00.26.15.645 	he pours petrol into his car.
-1062_Day_the_Earth_stood_still_00.46.06.703-00.46.13.061 	in the pouring rain, she opens the passenger door of her car and he gets in.
-2004_Juno_00.16.17.836-00.16.19.937 	we see liberty bell blithely pouring bacon bits onto her dinner.
-2004_Juno_00.42.49.575-00.43.10.072 	mark leads juno into the kitchen, where he pours two drinks.
-2004_Juno_00.51.36.537-00.51.38.924 	and defiantly pours the remains of her blue slushie into the urn.
-2004_Juno_00.52.38.659-00.52.40.879 	he nervously cracks open a container of orange tic-tacs and pours them into his mouth.
-2005_Signs_00.07.30.220-00.07.30.319 	bo is about to pour the glass of water into the dog bowl.
-2005_Signs_00.07.57.977-00.08.01.823 	bo shrugs and pours it into the bowl.
-2017_Bad_Santa_00.25.39.904-00.25.45.703 	she pours two.
-2017_Bad_Santa_00.53.01.775-00.53.06.952 	willie grabs a vodka bottle standing open on the counter and liberally pours some on the hand.
-2026_Legion_00.27.08.566-00.27.11.799 	blood pours freely from his neck.
-2026_Legion_01.17.05.198-01.17.06.833 	a brilliant spectral light pours into the diner.
 2040_The_Ugly_Truth_00.09.00.874-00.09.08.006 	he drops the books on the floor, picks up a can of gasoline and pours it on the books.
 2041_This_is_40_00.04.34.943-00.04.37.644 	he turns on the faucet and pours water on the cupcake.

@@ -1,0 +1,9 @@
+DEAR_JOHN.srt 	DEAR_JOHN_DVS611 	01:23:58,00 --> 01:24:06,50 	her form still silhouetted against the stables rear open doorway.
+GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS565 	01:20:53,00 --> 01:21:18,50 	ghost rider rear ends it and it explodes.
+GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS574 	01:22:26,00 --> 01:23:00,50 	shifting gears, someone accelerates and rear ends an suv knocking it off the road.
+HUGO.srt 	HUGO_DVS215 	00:32:00,00 --> 00:32:10,50 	the mouse scuttles over the counter in a figure-eight, rears up on a spring and peers at someone, forms another figure-eight, and peers at someone,
+PROMETHEUS.srt 	PROMETHEUS_DVS560 	01:02:40,00 --> 01:02:45,50 	as he edges closer, it rears up.
+SUPER_8.srt 	SUPER_8_DVS270 	00:45:35,00 --> 00:45:42,50 	a huge creature rears up, something strikes the truck smashing the windshield, someone vanishes.
+THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS232 	00:46:00,00 --> 00:46:04,50 	she rears back.
+THOR.srt 	THOR_DVS194 	00:25:26,00 --> 00:25:35,50 	as the beast rears up onto its hind legs, someone flies like a missile into the creatures open mouth and out through the back of its head.
+TRUE_GRIT.srt 	TRUE_GRIT_DVS115 	00:29:14,00 --> 00:29:19,50 	and the horse bucks his head and rears up.

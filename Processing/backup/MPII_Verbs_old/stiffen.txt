@@ -1,9 +1,13 @@
-0004_Charade_00.30.38.526-00.30.39.474 	He stiffens as the pain registers.
-0011_Gandhi_00.02.52.121-00.02.54.743 	He stiffens himself, cautiously touches something under his khaki jacket, then glances back at the stoic face of Prakash.
-0011_Gandhi_01.49.46.599-01.49.47.281 	Mirabehn stiffens herself.
-0031_The_Lost_Weekend_01.26.00.354-01.26.00.908 	Don stiffens against the back of his chair.
-0032_The_Princess_Bride_01.10.52.914-01.10.53.134 	FEZZIK carries Westley who is just starting to stiffen up a little.
-0050_Indiana_Jones_and_the_last_crusade_00.19.26.441-00.19.30.468 	Indy stiffens slightly at the mention of his father, nods.
-1010_TITANIC_00.33.46.658-00.33.48.692 	ruth stiffens as rose lights a cigarette in a holder.
+0004_Charade_00.30.38.526-00.30.39.474 	he stiffens as the pain registers.
+0011_Gandhi_00.02.52.121-00.02.54.743 	he stiffens himself, cautiously touches something under his khaki jacket, then glances back at the stoic face of prakash.
+0011_Gandhi_00.11.10.373-00.11.13.053 	gandhi glances at tyeb mohammed and baker, then stiffens, plainly frightened by the challenge, but just as plainly determined to take it.
+0011_Gandhi_01.49.46.599-01.49.47.281 	mirabehn stiffens herself.
+0011_Gandhi_02.56.20.998-02.56.30.116 	his face stiffens, he swallows, fighting any show of emotion; then he turns to go.
+0031_The_Lost_Weekend_01.26.00.354-01.26.00.908 	don stiffens against the back of his chair.
+0032_The_Princess_Bride_01.10.52.914-01.10.53.134 	fezzik carries westley who is just starting to stiffen up a little.
+1011_The_Help_00.38.59.056-00.39.00.965 	minnie's face stiffens.
 1011_The_Help_00.56.17.957-00.56.22.118 	as she unpins the nappy, her face stiffens with displeasure.
 1030_Public_Enemies_01.46.04.750-01.46.08.140 	the burly agent stiffens his jaw.
+1047_Defiance_00.22.51.378-00.22.52.909 	the brothers stiffen.
+1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.39.31.855-00.39.34.523 	his body's stiffened, unmoving.
+2054_Harry_Potter_and_the_prisoner_of_azkaban_00.00.42.675-00.00.47.184 	instantly, the shadow stiffens, the blankets dim, and the tent flattens.

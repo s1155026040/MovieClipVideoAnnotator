@@ -7,7 +7,6 @@
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS410 	01:09:18,00 --> 01:09:24,50 	someone pulls someone's head toward his lap.
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS413 	01:09:49,00 --> 01:09:56,50 	the driver's ed car pulls up behind them.
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS431 	01:11:57,00 --> 01:12:05,50 	someone pulls him out then gets behind the wheel.
-21_JUMP_STREET.srt 	21_JUMP_STREET_DVS433 	01:12:12,00 --> 01:12:27,50 	a biker pulls out a handgun and takes aim.
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS441 	01:13:14,00 --> 01:13:18,50 	he pulls the driver out.
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS451 	01:14:16,00 --> 01:14:24,50 	yielding a silver revolver, the gang leader pulls up alongside the beetle and shoots out the driver side window.
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS456 	01:14:49,00 --> 01:14:56,50 	someone grabs someone's pistol and pulls the trigger himself.
@@ -58,7 +57,6 @@ A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS433 	01:14:29,00 --> 01:14:36,50 	the 
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS44 	00:04:24,00 --> 00:04:32,50 	he pulls back the rug and peeks through a hole in the floorboards for a partial view of the floor below.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS185 	00:25:14,00 --> 00:25:29,50 	we pull back to find someone in a room full of victims, each suspended upside down.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS199 	00:27:06,00 --> 00:27:11,50 	someone pulls out dress pants.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS336 	00:47:54,00 --> 00:47:59,50 	pulling his ax from his jacket, he turns to strike.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS413 	00:59:17,00 --> 00:59:23,50 	he and someone pull the raft up on shore then follow the woman with someone.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS592 	01:21:50,00 --> 01:21:59,50 	someone falls back and the vampire starts to pull him out.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS602 	01:23:09,00 --> 01:23:40,50 	he pulls the weapon out then ducks past another lapping off his head.
@@ -72,23 +70,19 @@ BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS40 	00:0
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS71 	00:11:02,00 --> 00:11:07,50 	another suv pulls into the lot.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS75 	00:11:21,00 --> 00:11:28,50 	digging into a pocket, he pulls out a flash drive and hands it over.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS165 	00:27:27,00 --> 00:27:33,50 	someone pulls out a chair at the head of their long table.
-BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS218 	00:36:31,00 --> 00:36:39,50 	turning on the light, he pulls the door shut, then hikes up his skirt to find his padded girdle in the way.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS224 	00:37:13,00 --> 00:37:18,50 	someone struggles to pull up his girdle.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS327 	00:54:59,00 --> 00:55:04,50 	someone pulls a fire alarm.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS346 	00:57:12,00 --> 00:57:19,50 	meanwhile in a clothing store, someone pulls a sweater off a rack,
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS350 	00:57:25,00 --> 00:57:31,50 	grabbing someone's hand, she pulls him into a dressing room.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS352 	00:57:37,00 --> 00:57:42,50 	she pulls the curtains closed.
-BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS353 	00:57:39,00 --> 00:57:46,50 	facing a full-length mirror, someone gawks at someone's reflection as she pulls off her pants.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS584 	01:32:13,00 --> 01:32:20,50 	as someone glances back at the stage, someone pulls off someone's wig.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS603 	01:34:43,00 --> 01:34:55,50 	unzipping it, he pulls out his regular clothes.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS661 	01:40:56,00 --> 01:41:01,50 	with a smile, he pulls someone's papers from his pocket.
 BLINDDATING.srt 	BLINDDATING_DVS35 	00:12:00,00 --> 00:12:06,50 	a little girl pulls papers off the reception desk.
 BLINDDATING.srt 	BLINDDATING_DVS77 	00:23:59,00 --> 00:24:03,50 	someone pulls away.
 BLINDDATING.srt 	BLINDDATING_DVS210 	00:52:41,00 --> 00:52:46,50 	someone pulls out the other chair.
-BLINDDATING.srt 	BLINDDATING_DVS342 	01:22:03,00 --> 01:22:11,50 	reaching the sidewalk, he takes a few steps to his right and pulls out a phone.
 BLINDDATING.srt 	BLINDDATING_DVS356 	01:27:35,00 --> 01:27:53,50 	someone's big brown eyes brim with tears and she pulls someone into a passionate kiss.
 BLINDDATING.srt 	BLINDDATING_DVS358 	01:28:11,00 --> 01:28:29,50 	someone's mother pulls someone close and they step over to a waiting area.
-BLINDDATING.srt 	BLINDDATING_DVS363 	01:29:13,00 --> 01:29:20,50 	someone's mother takes someone's hand in hers, then pulls her into
 BRUNO.srt 	BRUNO_DVS114 	00:25:16,00 --> 00:25:41,50 	he imitates pulling down the zipper, parting the flaps on someone's pants, and removing them.
 BRUNO.srt 	BRUNO_DVS156 	00:43:22,00 --> 00:43:26,50 	four men pull him off the stage.
 BRUNO.srt 	BRUNO_DVS183 	00:48:47,00 --> 00:48:57,50 	he pulls his blanket tighter.
@@ -99,7 +93,6 @@ BURLESQUE.srt 	BURLESQUE_DVS338 	00:46:31,00 --> 00:46:38,50 	as the red spotlig
 BURLESQUE.srt 	BURLESQUE_DVS347 	00:47:32,00 --> 00:47:38,50 	the stagehand pulls a rope and the curtain rises back to the ceiling.
 BURLESQUE.srt 	BURLESQUE_DVS354 	00:49:01,00 --> 00:49:07,50 	someone grabs a musician out of the band and pulls him onstage.
 BURLESQUE.srt 	BURLESQUE_DVS456 	01:02:41,00 --> 01:02:47,50 	later it pulls up outside a glamorous party.
-BURLESQUE.srt 	BURLESQUE_DVS471 	01:04:57,00 --> 01:05:05,50 	as the other girls look on, she opens the present and pulls out a pair of louboutin shoes just like someone's.
 BURLESQUE.srt 	BURLESQUE_DVS555 	01:20:10,00 --> 01:20:15,50 	someone rolls her eyes resentfully and pulls the doors shut.
 BURLESQUE.srt 	BURLESQUE_DVS618 	01:30:56,00 --> 01:31:02,50 	someone lies in bed with a camera as someone pulls a black stocking over her knee.
 BURLESQUE.srt 	BURLESQUE_DVS619 	01:31:05,00 --> 01:31:11,50 	she pulls the stocking back down her leg, then bites her bottom lip.
@@ -109,15 +102,11 @@ BURLESQUE.srt 	BURLESQUE_DVS731 	01:50:04,00 --> 01:50:10,50 	he moves in to kis
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS32 	00:04:21,00 --> 00:04:28,50 	outside, a large tank backs up as a long, black convertible car pulls to a stop.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS71 	00:10:20,00 --> 00:10:30,50 	a dark-haired man wearing an army uniform pulls the thug away.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS87 	00:13:16,00 --> 00:13:25,50 	as a woman pulls the man away, someone steps up, only his eyes and forehead are reflected above the soldier's collar.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS132 	00:22:41,00 --> 00:22:49,50 	she turns and smiles at him as they pull away.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS136 	00:23:44,00 --> 00:23:50,50 	he pulls the pin and rolls the grenade onto the field full of recruits.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS164 	00:30:36,00 --> 00:30:43,50 	their car pulls up to a curb.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS189 	00:35:04,00 --> 00:35:09,50 	standing nearby, someone stark pulls a switch.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS244 	00:42:28,00 --> 00:42:36,50 	someone pulls out a knife and swings it at someone who kicks him on the face.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS281 	00:53:11,00 --> 00:53:18,50 	they both turn as a military ambulance pulls to a stop beside a medical tent.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS341 	01:03:22,00 --> 01:03:39,50 	someone scans his surroundings, then pulls out his pistol as he continues on.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS364 	01:06:11,00 --> 01:06:23,50 	someone pulls a lever and the catwalk slides apart, leaving someone and someone on opposite sides.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS380 	01:08:26,00 --> 01:08:32,50 	he pulls himself up onto the catwalk and looks back at someone on the opposite side.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS424 	01:17:04,00 --> 01:17:09,50 	she grabs his tie and pulls him behind a bookcase.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS425 	01:17:06,00 --> 01:17:14,50 	she pulls him closer and kisses him.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS437 	01:19:08,00 --> 01:19:24,50 	someone pulls a piece of paper from his pocket and hands it to him.
@@ -133,7 +122,6 @@ CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS569 	01:38:59,00 --> 01:39:04,50 	someon
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS590 	01:41:18,00 --> 01:41:24,50 	pulling back on the joystick, the pilot flies straight up.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS593 	01:41:28,00 --> 01:41:35,50 	someone forces open the cockpit hatch and pulls the eject handle.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS611 	01:43:42,00 --> 01:43:51,50 	as the plane dives through a layer of clouds, someone pulls himself to the controls and re-engages the autopilot.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS614 	01:43:55,00 --> 01:44:02,50 	someone turns and pulls out a pistol blaster as he scans the room.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS44 	00:03:04,00 --> 00:03:10,50 	as a yellow shape floats overhead, a hand reaches down and pulls him up by the scruff of his collar.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS58 	00:04:50,00 --> 00:04:55,50 	the van pulls up beside a small house.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS64 	00:05:35,00 --> 00:05:40,50 	the man nods and pulls away.
@@ -145,7 +133,6 @@ CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS410 	00:38:51,00 --> 00:38:57,50 	he
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS425 	00:40:25,00 --> 00:40:29,50 	someone pulls up his hood.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS451 	00:43:50,00 --> 00:43:56,50 	swimming underwater, he grabs her ankle and pulls her back.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS471 	00:45:32,00 --> 00:45:38,50 	someone pulls the essay from his sweatshirt and hands it to someone.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS547 	00:53:03,00 --> 00:53:09,50 	at his desk, the young surfer pulls out the cigar box and turns on a lamp.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS562 	00:54:31,00 --> 00:54:37,50 	he pulls the cigar box from the drawer and grabs his wad of cash.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS622 	00:59:59,00 --> 01:00:05,50 	someone struggles to pull him off and raises a fist.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS675 	01:05:33,00 --> 01:05:39,50 	now someone's van pulls up outside him home,
@@ -155,12 +142,10 @@ CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS965 	01:34:44,00 --> 01:34:48,50 	gl
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS1086 	01:43:29,00 --> 01:43:34,50 	a grin pulls at the corner of his mouth.
 CHRONICLE.srt 	CHRONICLE_DVS23 	00:03:18,00 --> 00:03:23,50 	they pull into a bustling high school parking lot.
 CHRONICLE.srt 	CHRONICLE_DVS321 	00:49:15,00 --> 00:49:20,50 	someone quickly pulls up his pants.
-CHRONICLE.srt 	CHRONICLE_DVS326 	00:49:47,00 --> 00:49:55,50 	as he holds it in suspension, the spider's legs all helplessly splay outward, pulled taut.
 CHRONICLE.srt 	CHRONICLE_DVS340 	00:51:35,00 --> 00:51:42,50 	he pulls the boy to his feet, but someone forces him up against the wall.
 CHRONICLE.srt 	CHRONICLE_DVS395 	01:00:07,00 --> 01:00:14,50 	next, he pulls out a pair of fireproof and waterproof suspender pants.
 CHRONICLE.srt 	CHRONICLE_DVS474 	01:08:39,00 --> 01:08:44,50 	someone flies down and pulls us out.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS24 	00:05:41,00 --> 00:05:46,50 	someone leans forward and pulls his wife closer.
-CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS42 	00:09:00,00 --> 00:09:08,50 	as she holds them out to the groggy boxer, he grabs her arm and pulls her in for a kiss.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS159 	00:34:43,00 --> 00:34:48,50 	someone and the children pull lattice boards off its base.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS180 	00:38:37,00 --> 00:38:47,50 	outside, someone pulls his coat tight and walks off.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS485 	01:51:44,00 --> 01:51:50,50 	she gently strokes his face then pulls back with a weak smile.
@@ -178,11 +163,9 @@ COLOMBIANA.srt 	COLOMBIANA_DVS488 	00:43:11,00 --> 00:43:17,50 	she opens a lock
 COLOMBIANA.srt 	COLOMBIANA_DVS519 	00:47:02,00 --> 00:47:07,50 	she pulls off her hat then removes her flannel shirt,
 COLOMBIANA.srt 	COLOMBIANA_DVS558 	00:51:17,00 --> 00:51:25,50 	grinning, she pulls her dress off over her head to reveal her black bra and matching panties.
 COLOMBIANA.srt 	COLOMBIANA_DVS569 	00:51:55,00 --> 00:52:01,50 	padding into the living area, she picks her dress up off the floor and pulls it on.
-COLOMBIANA.srt 	COLOMBIANA_DVS574 	00:52:15,00 --> 00:52:23,50 	turning, he pulls up onto a sidewalk and parks beneath an overhanging roof at a building's entrance.
 COLOMBIANA.srt 	COLOMBIANA_DVS615 	00:58:19,00 --> 00:58:25,50 	outside, a van pulls into the estate and stops in front of the mansion.
 COLOMBIANA.srt 	COLOMBIANA_DVS618 	00:58:37,00 --> 00:58:41,50 	as someone supervises the men, someone rolls out from the under the van just before it pulls away.
 COLOMBIANA.srt 	COLOMBIANA_DVS762 	01:13:44,00 --> 01:13:49,50 	in a police station, someone pulls it up on her computer.
-COLOMBIANA.srt 	COLOMBIANA_DVS911 	01:26:25,00 --> 01:26:31,50 	she pulls out a newspaper clipping and tearfully holds it out.
 COLOMBIANA.srt 	COLOMBIANA_DVS946 	01:31:12,00 --> 01:31:18,50 	now the truck's headlights switch on and the vehicle pulls out of its spot.
 COLOMBIANA.srt 	COLOMBIANA_DVS986 	01:34:28,00 --> 01:34:34,50 	the gunman tosses it over and someone pulls its pin.
 COLOMBIANA.srt 	COLOMBIANA_DVS1028 	01:37:22,00 --> 01:37:32,50 	she wraps a towel around his gun wielding wrist and pulls down as if operating a lever, using her own shoulder as a fulcrum to break his arm.
@@ -204,11 +187,9 @@ DEAR_JOHN.srt 	DEAR_JOHN_DVS373 	00:59:23,00 --> 00:59:29,50 	propped up by his 
 DEAR_JOHN.srt 	DEAR_JOHN_DVS503 	01:13:09,00 --> 01:13:19,50 	standing in front of the mirror in his uniform, he pulls his belt tight around his waist.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS538 	01:16:51,00 --> 01:16:59,50 	now, he pulls open a drawer and finds a jumble of dozens of coins in small boxes.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS571 	01:21:17,00 --> 01:21:24,50 	someone pulls his hand away and places his palm against someone's cheek.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS580 	01:21:52,00 --> 01:21:59,50 	someone sits beside his surfboard with his knees pulled up, and his head bowed.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS604 	01:23:27,00 --> 01:23:36,50 	the car pulls through the gate of someone's family home.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS605 	01:23:33,00 --> 01:23:40,50 	slowing, the car pulls up alongside the corral beside the modest stables.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS699 	01:34:54,00 --> 01:34:59,50 	someone pulls her into his arms.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS716 	01:36:15,00 --> 01:36:23,50 	someone turns away pulls a flannel shirt over her shoulders.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS754 	01:38:35,00 --> 01:38:43,50 	then pulls them out.
 DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS99 	00:24:07,00 --> 00:24:12,50 	she pulls the jesus mouse out of his pocket.
 DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS111 	00:29:22,00 --> 00:29:26,50 	he pulls himself along.
@@ -217,7 +198,6 @@ DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS184 	00:42:19,00 --> 00:42:24,50
 DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS236 	00:59:25,00 --> 00:59:31,50 	someone pulls a pillow over his head to block out someone's laughter.
 DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS260 	01:03:05,00 --> 01:03:10,50 	someone pulls a face and gets the phone.
 DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS267 	01:04:42,00 --> 01:04:47,50 	someone seethes and pulls up a chair.
-DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS278 	01:09:51,00 --> 01:09:58,50 	as someone watches her go, someone pulls up in someone's porsche boxster.
 DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS332 	01:19:11,00 --> 01:19:17,50 	he pulls a cloth cover off it and undoes the catches.
 DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS337 	01:20:10,00 --> 01:20:19,50 	the porsche pulls up in front of someone's palatial home.
 DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS417 	01:43:06,00 --> 01:43:10,50 	fire trucks pull up
@@ -231,18 +211,14 @@ DISTRICT_9.srt 	DISTRICT_9_DVS521 	01:00:48,00 --> 01:00:58,50 	he pulls hard on
 DISTRICT_9.srt 	DISTRICT_9_DVS561 	01:06:24,00 --> 01:06:29,50 	they pull someone's jacket off.
 DISTRICT_9.srt 	DISTRICT_9_DVS562 	01:06:29,00 --> 01:06:39,50 	the gang leader pulls out a knife and pricks the alien flesh.
 DISTRICT_9.srt 	DISTRICT_9_DVS629 	01:13:44,00 --> 01:13:52,50 	someone pulls out and speeds through the garage.
-DISTRICT_9.srt 	DISTRICT_9_DVS659 	01:17:16,00 --> 01:17:32,50 	someone sits in the chair and pulls down a harness, which engages the seat to move forward to a control station.
 DISTRICT_9.srt 	DISTRICT_9_DVS748 	01:28:32,00 --> 01:28:40,50 	a mercenary pulls the pin from a smoke grenade and tosses it.
 EASY_A.srt 	EASY_A_DVS71 	00:25:39,00 --> 00:25:43,50 	she pulls him inside.
 EASY_A.srt 	EASY_A_DVS110 	00:36:47,00 --> 00:36:53,50 	she pulls out a phallic object wrapped in tissue.
-EASY_A.srt 	EASY_A_DVS116 	00:38:25,00 --> 00:38:32,50 	pulling bustiers from the shopping bags, she sits to work with a needle and thread.
 EASY_A.srt 	EASY_A_DVS195 	01:00:50,00 --> 01:00:57,50 	someone pulls her into a hug.
 EASY_A.srt 	EASY_A_DVS232 	01:12:28,00 --> 01:12:33,50 	she pulls back.
-EASY_A.srt 	EASY_A_DVS251 	01:16:49,00 --> 01:16:55,50 	as she pulls away, he holds on to her hand.
 EASY_A.srt 	EASY_A_DVS252 	01:16:56,00 --> 01:17:03,50 	she pulls it away, and opens the door.
 EASY_A.srt 	EASY_A_DVS280 	01:23:51,00 --> 01:23:59,50 	someone pulls the slide of a band member's trombone, and poses with someone.
 FLIGHT.srt 	FLIGHT_DVS44 	00:06:42,00 --> 00:06:47,50 	she pulls some bills from a bundle of cash.
-FLIGHT.srt 	FLIGHT_DVS55 	00:09:59,00 --> 00:10:03,50 	someone takes the yoke and pulls back.
 FLIGHT.srt 	FLIGHT_DVS67 	00:13:23,00 --> 00:13:30,50 	she pulls out a key as she reaches the door, only to discover it is slightly open.
 FLIGHT.srt 	FLIGHT_DVS130 	00:25:37,00 --> 00:25:43,50 	smoke blocks someone's vision, as he is pulled away from the plane.
 FLIGHT.srt 	FLIGHT_DVS200 	00:46:42,00 --> 00:46:49,50 	the car passes a dilapidated shed on the right, and pulls up to a large, older farmhouse.
@@ -257,7 +233,6 @@ FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS114 	00:31:16,00 --> 00:31:2
 FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS115 	00:31:31,00 --> 00:31:38,50 	she grabs his head by the hair, pulls his head to hers and pinches his tongue.
 FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS202 	00:53:37,00 --> 00:53:54,50 	clad in a t-shirt and panties, she digs behind a sofa cushion, pulls out her cellphone.
 FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS267 	01:09:26,00 --> 01:09:31,50 	he slips out of bed without waking her and pulls his hand.
-FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS353 	01:33:48,00 --> 01:33:55,50 	he removes his shoes, pulls out a chair at the table, and takes off his own pants.
 GET_HIM_TO_THE_GREEK.srt 	GET_HIM_TO_THE_GREEK_DVS84 	00:48:02,00 --> 00:48:15,50 	the suv limo pulls over to a curb.
 GET_HIM_TO_THE_GREEK.srt 	GET_HIM_TO_THE_GREEK_DVS127 	01:15:56,00 --> 01:16:03,50 	they share a kiss and someone pulls him into the modern industrial home.
 GET_HIM_TO_THE_GREEK.srt 	GET_HIM_TO_THE_GREEK_DVS148 	01:25:39,00 --> 01:25:46,50 	someone crawls up behind someone and she pulls away from someone.
@@ -269,7 +244,6 @@ GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS136 	00:
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS216 	00:35:00,00 --> 00:35:40,50 	the trucks pull into an area surrounded by towering stacks of shipping containers.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS223 	00:36:22,00 --> 00:36:26,50 	she pulls it off.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS239 	00:38:06,00 --> 00:38:30,50 	as another guard pulls the pin on a grenade, ghost rider whips him and the grenade drops.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS252 	00:40:05,00 --> 00:40:13,50 	sitting in the control seat between two levers, he pulls one back and pushes the other forward.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS269 	00:42:05,00 --> 00:42:18,50 	pulling her out through the driver's side window, he dismounts his motorcycle and grips her by the arms.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS328 	00:49:58,00 --> 00:50:03,50 	he pulls up to the driver's side window.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS332 	00:50:20,00 --> 00:50:32,50 	it pulls up beside then passes someone who shakes his head at someone.
@@ -290,19 +264,16 @@ HUGO.srt 	HUGO_DVS98 	00:12:56,00 --> 00:13:00,50 	the white-haired man pulls do
 HUGO.srt 	HUGO_DVS171 	00:24:08,00 --> 00:24:13,50 	her dog pulls her away from the cafe.
 HUGO.srt 	HUGO_DVS251 	00:35:39,00 --> 00:35:45,50 	someone pulls off a thin metal rod and drops it onto his worktable.
 HUGO.srt 	HUGO_DVS305 	00:47:03,00 --> 00:47:08,50 	reaching out his hand, he pulls her up off the floor.
-HUGO.srt 	HUGO_DVS370 	00:56:31,00 --> 00:56:38,50 	they look at someone, who pulls a folded piece of paper from an inner-jacket pocket.
 HUGO.srt 	HUGO_DVS384 	00:58:33,00 --> 00:58:38,50 	someone pulls the door almost shut but immediately opens it.
 HUGO.srt 	HUGO_DVS402 	01:00:21,00 --> 01:00:26,50 	someone grabs the box with both hands and pulls it forward.
 HUGO.srt 	HUGO_DVS472 	01:09:06,00 --> 01:09:12,50 	someone pulls a tall, thick book from a shelf.
 HUGO.srt 	HUGO_DVS539 	01:20:56,00 --> 01:21:01,50 	later, someone pulls a metal grate over the front of his shop.
-HUGO.srt 	HUGO_DVS587 	01:25:05,00 --> 01:25:15,50 	pulling his shirt open with both hands, someone looks down at his torso, which is now a metallic framework filled with pistons and moving parts.
 HUGO.srt 	HUGO_DVS622 	01:30:43,00 --> 01:30:48,50 	someone pulls his chair closer to a screen.
 HUGO.srt 	HUGO_DVS770 	01:51:32,00 --> 01:51:42,50 	the inspector reaches down and pulls someone and the automaton safely onto the platform.
 HUGO.srt 	HUGO_DVS773 	01:51:52,00 --> 01:51:56,50 	he pulls the boy through the crowd.
 HUGO.srt 	HUGO_DVS807 	01:57:40,00 --> 01:57:48,50 	a man pulls off a bearded sheik's robes and skin, leaving a skeleton which collapses into a chair.
 IN_TIME.srt 	IN_TIME_DVS46 	00:05:10,00 --> 00:05:17,50 	someone sets a flat metal box on a platform, then pulls a lever.
 IN_TIME.srt 	IN_TIME_DVS89 	00:09:56,00 --> 00:10:03,50 	someone yanks him through the doorway, then uses the chain to pull the door shut behind them.
-IN_TIME.srt 	IN_TIME_DVS118 	00:14:05,00 --> 00:14:12,50 	someone pulls up his sleeve and watches his clock seconds tick away.
 IN_TIME.srt 	IN_TIME_DVS134 	00:15:25,00 --> 00:15:29,50 	pulling back his sleeve,
 IN_TIME.srt 	IN_TIME_DVS163 	00:17:30,00 --> 00:17:34,50 	glancing around, he pulls it up.
 IN_TIME.srt 	IN_TIME_DVS172 	00:18:40,00 --> 00:18:46,50 	pulling away, he gives his friend an expectant look.
@@ -310,10 +281,7 @@ IN_TIME.srt 	IN_TIME_DVS184 	00:19:52,00 --> 00:19:56,50 	the bus pulls away.
 IN_TIME.srt 	IN_TIME_DVS248 	00:25:29,00 --> 00:25:43,50 	it pulls into a business plaza where luxury vehicles wait a curb.
 IN_TIME.srt 	IN_TIME_DVS252 	00:26:00,00 --> 00:26:07,50 	stopping by a hotel's front doors, he pulls up his sleeve and checks his clock.
 IN_TIME.srt 	IN_TIME_DVS342 	00:35:20,00 --> 00:35:27,50 	it pulls up to a vast opulent mansion with a column-framed entrance.
-IN_TIME.srt 	IN_TIME_DVS422 	00:45:23,00 --> 00:45:34,50 	turning, he pulls through a corridor and out onto the front driveway.
 IN_TIME.srt 	IN_TIME_DVS443 	00:47:56,00 --> 00:48:00,50 	she pulls up her long glove.
-IN_TIME.srt 	IN_TIME_DVS586 	01:02:40,00 --> 01:02:47,50 	turning back, she places her hand against someone's neck and pulls him into a kiss.
-IN_TIME.srt 	IN_TIME_DVS684 	01:14:07,00 --> 01:14:14,50 	she pulls out a time capsule and looks around.
 IN_TIME.srt 	IN_TIME_DVS757 	01:20:07,00 --> 01:20:13,50 	the bus pulls away, revealing someone as he arrives at the curb.
 IN_TIME.srt 	IN_TIME_DVS764 	01:20:45,00 --> 01:20:52,50 	behind the desk, the clerk pulls her sleeve down over her clock.
 IN_TIME.srt 	IN_TIME_DVS768 	01:20:58,00 --> 01:21:04,50 	the minutemen's car pulls up next to a group of guys who scatter.
@@ -349,13 +317,10 @@ IRON_MAN_2.srt 	IRON_MAN_2_DVS662 	01:50:23,00 --> 01:50:29,50 	someone pulls so
 IRON_MAN_2.srt 	IRON_MAN_2_DVS666 	01:50:30,00 --> 01:50:39,50 	on someone's right, someone pulls someone toward him.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS680 	01:52:08,00 --> 01:52:14,50 	pulling away from pepper, someone yanks off his sparking helmet and throws it down.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS161 	00:53:28,00 --> 00:53:33,50 	someone pulls away from him.
-ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS198 	01:00:41,00 --> 01:00:47,50 	as she pulls the robe off her other shoulder she looks up and
-ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS225 	01:06:11,00 --> 01:06:24,50 	at the firm, someone pulls two tickets from his pocket then faces a young coworker.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS235 	01:08:12,00 --> 01:08:26,50 	she pulls off her t-shirt and smiles at him in her amply filled black bra.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS351 	01:39:07,00 --> 01:39:14,50 	then pulls the laptop closer.
 JACK_AND_JILL.srt 	JACK_AND_JILL_DVS85 	00:18:58,00 --> 00:19:02,50 	she pulls a slip of paper from her bra.
 JACK_AND_JILL.srt 	JACK_AND_JILL_DVS211 	00:41:28,00 --> 00:41:32,50 	she pulls a hunk of wax from her ear.
-JACK_AND_JILL.srt 	JACK_AND_JILL_DVS340 	01:05:56,00 --> 01:06:03,50 	he pulls a dress off its hanger then takes a pair of shoes, a purse, and jewelry.
 JACK_AND_JILL.srt 	JACK_AND_JILL_DVS418 	01:17:58,00 --> 01:18:04,50 	now, a car pulls up across the street from a neighborhood restaurant.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS33 	00:03:39,00 --> 00:03:59,50 	the jeep pulls up to a small two-story brick building.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS125 	00:21:37,00 --> 00:21:50,50 	she picks up a ribbon and pulls one end through the other with a dissatisfied pout.
@@ -386,7 +351,6 @@ KATY_PERRY_PART_OF_ME.srt 	KATY_PERRY_PART_OF_ME_DVS295 	01:09:53,00 --> 01:09:5
 KATY_PERRY_PART_OF_ME.srt 	KATY_PERRY_PART_OF_ME_DVS309 	01:11:21,00 --> 01:11:27,50 	a woman pulls a sheer wig cap over someone's scalp.
 KNOCKED_UP.srt 	KNOCKED_UP_DVS63 	00:39:29,00 --> 00:39:34,50 	now someone pulls into the driveway of the rental house.
 KNOCKED_UP.srt 	KNOCKED_UP_DVS75 	00:43:57,00 --> 00:44:01,50 	someone pulls away.
-KNOCKED_UP.srt 	KNOCKED_UP_DVS76 	00:44:28,00 --> 00:44:34,50 	someone sits on the bed and pulls someone down beside her.
 KNOCKED_UP.srt 	KNOCKED_UP_DVS78 	00:45:19,00 --> 00:45:28,50 	pulling away slightly.
 LAND_OF_THE_LOST.srt 	LAND_OF_THE_LOST_DVS130 	00:44:53,00 --> 00:45:01,50 	our view pulls back through the broken window of a british phone booth.
 LAND_OF_THE_LOST.srt 	LAND_OF_THE_LOST_DVS192 	01:09:17,00 --> 01:09:24,50 	she pulls one of the eggs from the mound and clear goo drips from its bottom.
@@ -405,9 +369,7 @@ LIFE_OF_PI.srt 	LIFE_OF_PI_DVS801 	01:22:01,00 --> 01:22:07,50 	he pulls a flare
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS872 	01:28:05,00 --> 01:28:19,50 	he stares into the sky with a huge smile then pulls himself to a crouching position on the bench.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS886 	01:29:31,00 --> 01:29:38,50 	someone glances behind him and pulls himself up, then crawls to his feet at the bow.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS887 	01:29:36,00 --> 01:29:45,50 	up ahead, the violent ocean surface pulls the raft farther from the boat.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS931 	01:32:51,00 --> 01:32:57,50 	he holds his hand still for a moment then pulls away.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS1046 	01:43:49,00 --> 01:43:56,50 	underwater, his feet graze the sand as he pulls the boat to shore.
-LITTLE_FOCKERS.srt 	LITTLE_FOCKERS_DVS88 	00:33:49,00 --> 00:34:00,50 	later, they pull up to the new house where some construction workers take a break in the yard.
 LITTLE_FOCKERS.srt 	LITTLE_FOCKERS_DVS181 	01:03:28,00 --> 01:03:32,50 	someone pulls him aside.
 LITTLE_FOCKERS.srt 	LITTLE_FOCKERS_DVS209 	01:15:11,00 --> 01:15:16,50 	straining with effort, he pulls himself up.
 LITTLE_FOCKERS.srt 	LITTLE_FOCKERS_DVS253 	01:23:42,00 --> 01:23:47,50 	pulled over, someone kicks his leg back and hits again to a bouncy castle.
@@ -433,7 +395,6 @@ NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS251 	00:52:13,00 --> 00:52:33,
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS252 	00:52:33,00 --> 00:52:52,50 	someone pulls out some brown velveteen pants and a crisp white blouse, both neatly folded.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS378 	01:19:59,00 --> 01:20:04,50 	someone pulls someone aside.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS436 	01:30:49,00 --> 01:30:57,50 	someone and someone pull an iv bottle of pink fluid from their medical bag.
-NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS132 	00:21:24,00 --> 00:21:30,50 	someone turns away someone sits on her bed and pulls on his jeans.
 NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS141 	00:23:28,00 --> 00:23:34,50 	he lays her on her back, gets on top of her, and pulls off her robe.
 NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS409 	01:15:55,00 --> 01:15:59,50 	in someone's bedroom, he pulls a chair up for her.
 NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS527 	01:38:12,00 --> 01:38:17,50 	someone cups her hands around the back of someone's neck and pulls him closer.
@@ -444,12 +405,9 @@ PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS60 	00:14:36,00 --> 00:14:43,50 	the
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS85 	00:22:41,00 --> 00:22:49,50 	someone clings to someone as someone struggles to pull her away.
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS91 	00:24:36,00 --> 00:24:42,50 	pulling them from a toaster oven, someone tosses them to someone.
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS108 	00:28:07,00 --> 00:28:21,50 	now the family suv pulls up outside another school.
-PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS118 	00:30:44,00 --> 00:30:50,50 	someone pulls up and faces her through the window.
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS308 	01:12:30,00 --> 01:12:41,50 	someone pulls someone into the bathroom.
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS318 	01:15:36,00 --> 01:15:42,50 	someone twirls her then pulls her close for a picture.
-PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS326 	01:17:38,00 --> 01:17:43,50 	as the officer looks under the car a taxi pulls up.
 PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS76 	00:19:34,00 --> 00:20:19,50 	someone pulls out the horn tip and stabs the charging beast in the chest.
-PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS164 	00:36:14,00 --> 00:36:21,50 	then pulls someone's sword from her grasp and turns its blade against the back of her neck.
 PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS191 	00:46:54,00 --> 00:47:00,50 	a greyhound bus pulls over at a deserted stop.
 PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS211 	00:53:57,00 --> 00:54:05,50 	as someone reaches for his sword, someone kicks it away, hauls him to his feet and pulls him close.
 PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS242 	01:04:32,00 --> 01:04:40,50 	later someone drags the janitor across the polished floor, pulling him behind a line of columns.
@@ -475,7 +433,6 @@ PROMETHEUS.srt 	PROMETHEUS_DVS808 	01:26:41,00 --> 01:26:52,50 	as the men escap
 PROMETHEUS.srt 	PROMETHEUS_DVS937 	01:42:48,00 --> 01:42:53,50 	she pulls herself up, then finds her path blocked for certain.
 PROMETHEUS.srt 	PROMETHEUS_DVS1025 	01:51:42,00 --> 01:51:49,50 	in the lifeboat, the engineer snarls at the creature pulling him ever closer.
 PROMETHEUS.srt 	PROMETHEUS_DVS1029 	01:51:58,00 --> 01:52:04,50 	it pulls him close, then lowers itself on top of him.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS19 	00:02:46,00 --> 00:03:13,50 	they each pull out a gun and using the spools to conceal them, pass them to the young inmate and man sitting next to him.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS67 	00:11:35,00 --> 00:11:40,50 	trigger handle and pulls out a coil.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS195 	00:37:03,00 --> 00:37:13,50 	later, the pierce-arrow pulls up to a curb.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS222 	00:41:19,00 --> 00:41:24,50 	pulling out.
@@ -498,18 +455,15 @@ ROBIN_HOOD.srt 	ROBIN_HOOD_DVS503 	02:05:50,00 --> 02:06:03,50 	someone pulls he
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS505 	02:06:05,00 --> 02:06:15,50 	he pulls away and strokes her face.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS203 	00:34:03,00 --> 00:34:09,50 	someone pulls back, his brow knitted emotionally.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS229 	00:35:28,00 --> 00:35:34,50 	from the top of her dress, someone pulls out panties and twirls them on her finger.
-RUBY_SPARKS.srt 	RUBY_SPARKS_DVS284 	00:44:24,00 --> 00:44:30,50 	he holds his brother's gaze then pulls the door shut.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS394 	01:03:11,00 --> 01:03:15,50 	he pulls out the manuscript.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS483 	01:13:29,00 --> 01:13:33,50 	someone pulls someone away.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS522 	01:21:19,00 --> 01:21:23,50 	he pulls in his chair.
 SALT.srt 	SALT_DVS130 	00:24:10,00 --> 00:24:20,50 	pulls the pin from a gas canister.
 SALT.srt 	SALT_DVS185 	00:32:13,00 --> 00:32:22,50 	back in the present, she walks down a sidewalk, a knit cap pulled over her hair.
 SALT.srt 	SALT_DVS254 	00:43:39,00 --> 00:44:13,50 	someone crosses to a window, pulls the drapes aside a few inches and peers out.
-SANCTUM.srt 	SANCTUM_DVS151 	00:31:41,00 --> 00:31:49,50 	he sits heavily beside his son, pulls the cork from his tequila bottle, and takes a swig.
 SANCTUM.srt 	SANCTUM_DVS200 	00:44:54,00 --> 00:45:05,50 	someone rushes to a floating body bag and gently pulls it open to reveal someone' lifeless face.
 SANCTUM.srt 	SANCTUM_DVS211 	00:46:41,00 --> 00:46:49,50 	pulling him into the light, someone finds someone's face pulverized beyond recognition.
 SANCTUM.srt 	SANCTUM_DVS237 	00:50:43,00 --> 00:51:01,50 	someone swims into view, pulling at the rocks beneath him.
-SANCTUM.srt 	SANCTUM_DVS271 	00:55:08,00 --> 00:55:17,50 	on to the rocky bank, he pulls of an elastic band strapping a flashlight to his arm and turns on his helmet's secondary light.
 SANCTUM.srt 	SANCTUM_DVS282 	00:56:45,00 --> 00:57:00,50 	stepping away, someone reaches into his supply pack and pulls out a knife with a six inch blade.
 SANCTUM.srt 	SANCTUM_DVS387 	01:16:41,00 --> 01:16:47,50 	pulling someone close, he hugs him.
 SANCTUM.srt 	SANCTUM_DVS390 	01:17:03,00 --> 01:17:08,50 	shifting his jaw, someone pulls away.
@@ -518,12 +472,9 @@ SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS163 	00:12:10,00 --> 00:12:20,50 	now, som
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS167 	00:12:24,00 --> 00:12:30,50 	digging deeper in the satchel, she pulls out a dark gray garment.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS171 	00:12:36,00 --> 00:12:41,50 	next, she pulls out a manuscript.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS216 	00:15:19,00 --> 00:15:24,50 	her mother grabs her hand and pulls her forward.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS395 	00:26:20,00 --> 00:26:26,50 	someone tries to pull it away, but he holds tight.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS399 	00:26:40,00 --> 00:26:45,50 	someone tries to pull it away but he holds firm.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS999 	01:05:18,00 --> 01:05:25,50 	staring off, she shifts her attention to the traffic ahead and pulls her car forward.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1068 	01:12:09,00 --> 01:12:18,50 	as someone stares tensely, someone seizes the club owner's head and pulls him into a long, sensual kiss.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1282 	01:27:25,00 --> 01:27:30,50 	she pulls it out.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1300 	01:29:56,00 --> 01:30:03,50 	looking down, she pulls out a small brass key with a circular toggle
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS252 	00:50:38,00 --> 00:50:49,50 	opening it, he pulls a canvas bag from compartment, reaches inside, and pulls out a roll of muslin.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS252 	00:50:38,00 --> 00:50:49,50 	opening it, he pulls a canvas bag from compartment, reaches inside, and pulls out a roll of muslin.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS399 	01:23:51,00 --> 01:24:02,50 	a winch reels in the chain, pulling him free.
@@ -537,7 +488,6 @@ SPARKLE_2012.srt 	SPARKLE_2012_DVS243 	00:38:17,00 --> 00:38:22,50 	someone shut
 SPARKLE_2012.srt 	SPARKLE_2012_DVS283 	00:45:00,00 --> 00:45:04,50 	she pulls her hand back.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS391 	01:06:27,00 --> 01:06:32,50 	she pulls out someone's red song journal.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS427 	01:10:57,00 --> 01:11:03,50 	pulling her fur stole around her, and tossing her cigarette butt.
-SPARKLE_2012.srt 	SPARKLE_2012_DVS430 	01:11:06,00 --> 01:11:11,50 	as the car pulls away, someone watches it go.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS495 	01:20:01,00 --> 01:20:07,50 	someone gets to her feet, then pulls someone off the floor.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS524 	01:26:54,00 --> 01:26:58,50 	as the cab pulls away.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS604 	01:39:11,00 --> 01:39:17,50 	pulling back, he gazes solemnly into her eyes.
@@ -549,13 +499,10 @@ SUPER_8.srt 	SUPER_8_DVS227 	00:38:29,00 --> 00:38:36,50 	in a spray of breaking
 SUPER_8.srt 	SUPER_8_DVS283 	00:50:54,00 --> 00:51:02,50 	inside someone's house, someone points through a window at the children on the street as someone pulls up in his cruiser.
 SUPER_8.srt 	SUPER_8_DVS413 	01:14:19,00 --> 01:14:25,50 	someone hurries over to a small trailer and pulls on its locked doors.
 SUPER_8.srt 	SUPER_8_DVS432 	01:17:58,00 --> 01:18:04,50 	someone reaches into someone's pocket and pulls out the locket necklace.
-SUPER_8.srt 	SUPER_8_DVS436 	01:18:16,00 --> 01:18:21,50 	someone watches the bus pull away in his rearview mirror.
 SUPER_8.srt 	SUPER_8_DVS466 	01:21:42,00 --> 01:21:49,50 	someone reaches toward the driver as the creature pulls someone out through the bus door, someone vomits.
 SUPER_8.srt 	SUPER_8_DVS476 	01:22:40,00 --> 01:22:44,50 	someone pulls on the bus' rear door.
-SUPER_8.srt 	SUPER_8_DVS477 	01:22:46,00 --> 01:22:54,50 	as someone returns to the holding cell door someone approaches and pulls on it from the opposite side.
 SUPER_8.srt 	SUPER_8_DVS486 	01:23:44,00 --> 01:23:49,50 	someone helps pull out someone and someone who kicks someone in the face.
 SUPER_8.srt 	SUPER_8_DVS497 	01:24:49,00 --> 01:24:56,50 	kneeling on the road near the bus someone pulls the locket necklace from someone's jacket pocket.
-SUPER_8.srt 	SUPER_8_DVS500 	01:25:10,00 --> 01:25:16,50 	someone stands as someone pulls up and steps out of his car.
 SUPER_8.srt 	SUPER_8_DVS518 	01:27:57,00 --> 01:28:02,50 	someone pulls a tie back off a curtain and hands it to someone.
 SUPER_8.srt 	SUPER_8_DVS525 	01:28:40,00 --> 01:28:45,50 	they pull up on one door which doesn't budge.
 SUPER_8.srt 	SUPER_8_DVS546 	01:31:41,00 --> 01:31:47,50 	someone clamps his hand over someone's mouth and pulls him behind a rock.
@@ -567,7 +514,6 @@ THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS120 	00:18:13,00 --> 0
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS150 	00:23:25,00 --> 00:23:32,50 	using their hooked canes, the inspectors pull snowy and someone off the road.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS180 	00:26:26,00 --> 00:26:31,50 	someone pulls a sword out of his cane.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS293 	00:42:21,00 --> 00:42:27,50 	a crewman pulled the tarp of the sea plane and swiveled the track over the side of the boat.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS329 	00:51:04,00 --> 00:51:10,50 	sitting in the cockpit someone pulls a knob and starts the plane.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS344 	00:52:58,00 --> 00:53:02,50 	the plane pulls out of a dive.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS349 	00:53:18,00 --> 00:53:25,50 	the plane pulls out of the dive just a few feet above the ocean surface and arises into the air.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS386 	00:57:11,00 --> 00:57:15,50 	someone pulls free.
@@ -580,9 +526,7 @@ THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS660 	01:29:21,00 --> 0
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS685 	01:32:09,00 --> 01:32:16,50 	someone pulls his sword out of his cane.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS183 	00:36:30,00 --> 00:36:37,50 	she pulls her dress up over her head, revealing her bra.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS206 	00:39:08,00 --> 00:39:14,50 	the people waiting around him stir as a bus pulls up.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS270 	00:51:54,00 --> 00:52:08,50 	as she pulls him in and starts to dance he sits again.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS360 	01:11:22,00 --> 01:11:27,50 	pulling back someone beams at someone.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS366 	01:11:55,00 --> 01:12:03,50 	back in charlotte's empty apartment someone pulls away abruptly and looks up at someone.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS379 	01:13:20,00 --> 01:13:29,50 	a black luxury car with tinted windows pulls into view and parks at the curb.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS51 	00:09:58,00 --> 00:10:02,50 	a cab pulls up.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS60 	00:11:47,00 --> 00:11:52,50 	he pulls someone out of his car.
@@ -602,19 +546,15 @@ THE_CALL.srt 	THE_CALL_DVS114 	00:08:55,00 --> 00:09:01,50 	he slowly pulls it c
 THE_CALL.srt 	THE_CALL_DVS216 	00:18:03,00 --> 00:18:08,50 	autumn pulls out a second phone.
 THE_CALL.srt 	THE_CALL_DVS652 	00:50:38,00 --> 00:50:44,50 	now, the kidnapper pulls into an empty gas station with old style pumps.
 THE_CALL.srt 	THE_CALL_DVS674 	00:52:23,00 --> 00:52:30,50 	someone grips the front seats and tries pulling her hips through the opening.
-THE_CALL.srt 	THE_CALL_DVS753 	00:56:56,00 --> 00:57:04,50 	through the window, we watch the killer pull someone out.
 THE_CALL.srt 	THE_CALL_DVS840 	01:03:51,00 --> 01:04:05,50 	he removes her sandals and grips her ankles as she pulls away.
 THE_CALL.srt 	THE_CALL_DVS919 	01:10:30,00 --> 01:10:36,50 	she pulls the flaps open and finds it packed with medical equipment.
 THE_CALL.srt 	THE_CALL_DVS926 	01:11:01,00 --> 01:11:06,50 	the operator pulls out a photo album.
 THE_CALL.srt 	THE_CALL_DVS1024 	01:18:12,00 --> 01:18:18,50 	he caresses the hair tenderly, then pulls it off of the head.
-THE_CALL.srt 	THE_CALL_DVS1033 	01:18:46,00 --> 01:18:51,50 	turning it over, he pulls out a thin purple extension.
 THE_CALL.srt 	THE_CALL_DVS1084 	01:21:27,00 --> 01:21:34,50 	the killer pulls back someone's shower cap, revealing a dotted marker line on her forehead.
-THE_CALL.srt 	THE_CALL_DVS1100 	01:22:43,00 --> 01:23:03,50 	she pulls away with all her might and someone takes her head and shoves it into the utility sink full of water.
 THE_CALL.srt 	THE_CALL_DVS1118 	01:24:17,00 --> 01:24:25,50 	pulling herself out of the hole, she staggers away from it with someone close behind.
 THE_CALL.srt 	THE_CALL_DVS1135 	01:25:31,00 --> 01:25:38,50 	the operator searches her pockets and pulls her phone out of her jeans.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS58 	00:13:10,00 --> 00:13:18,50 	he pulls the door open and passes through with a thunderstruck expression on his face.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS180 	00:29:43,00 --> 00:29:50,50 	he hops and hobbles as he pulls them over his heels one at a time.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS203 	00:33:28,00 --> 00:33:35,50 	someone pulls a chair out from a nearby table and sits facing his friends.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS256 	00:40:32,00 --> 00:40:36,50 	someone pulls over.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS271 	00:43:05,00 --> 00:43:10,50 	his car's break lights blink on and he pulls away.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS374 	00:57:44,00 --> 00:57:49,50 	our view pulls back to encompass the landscape, which includes lush trees and rolling hills.
@@ -622,7 +562,6 @@ THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS393 	01:00:01,00 --> 01:00:06,50 	now, w
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS445 	01:07:42,00 --> 01:07:48,50 	someone hunkers down and pulls his blanket up to his chin.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS615 	01:30:45,00 --> 01:30:49,50 	he pulls the door closed.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS639 	01:32:23,00 --> 01:32:31,50 	on the other, grazing ducks scatter as someone pulls over onto a well-manicured lawn and parks.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS116 	00:11:18,00 --> 00:11:23,50 	she turns abruptly as a car pulls up.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS150 	00:14:47,00 --> 00:14:53,50 	as it pulls up next to a utilitarian pickup with a covered bed,
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS213 	00:26:05,00 --> 00:26:10,50 	as he carries his luggage inside, the driver pulls out.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS243 	00:28:43,00 --> 00:28:49,50 	wrapping himself in one of the blankets he pulls it out from under the cat.
@@ -667,7 +606,6 @@ THE_WATCH.srt 	THE_WATCH_DVS323 	00:56:29,00 --> 00:56:34,50 	someone and someon
 THE_WATCH.srt 	THE_WATCH_DVS352 	01:01:19,00 --> 01:01:25,50 	as they stare up at the front door, someone pulls out a pop top can.
 THE_WATCH.srt 	THE_WATCH_DVS392 	01:09:24,00 --> 01:09:31,50 	now, someone sits on someone's front steps as his pickup pulls into the driveway.
 THE_WATCH.srt 	THE_WATCH_DVS453 	01:21:47,00 --> 01:21:52,50 	someone pulls out the pink walkie talkie.
-THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS100 	00:29:41,00 --> 00:29:52,50 	stopped at a red light, someone watches it in her rear view mirror as it slows and pulls up to her right side.
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS217 	00:54:17,00 --> 00:54:26,50 	he hangs on it, pulling with his full weight, then falls to the floor.
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS315 	01:21:39,00 --> 01:21:44,50 	someone pulls out of the driveway.
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS338 	01:24:08,00 --> 01:24:12,50 	a battered sedan pulls up.
@@ -703,7 +641,6 @@ THOR.srt 	THOR_DVS584 	01:30:34,00 --> 01:30:40,50 	back in asgard, someone pull
 THOR.srt 	THOR_DVS601 	01:31:53,00 --> 01:31:59,50 	someone approaches someone, who pulls her close to him.
 THOR.srt 	THOR_DVS616 	01:33:09,00 --> 01:33:16,50 	standing over the ailing king, someone pulls one of someone's eyes open.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS61 	00:07:49,00 --> 00:07:55,50 	someone reaches under her pillow and pulls out a dollar someone.
-TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS168 	00:22:32,00 --> 00:22:38,50 	duke pulls a lever and someone takes off.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS229 	00:29:43,00 --> 00:29:51,50 	now, his wing sticks out of the driver's window of his corvette as he pulls up in front of a house.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS250 	00:32:43,00 --> 00:32:46,50 	he pulls back.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS305 	00:36:36,00 --> 00:36:43,50 	he reaches into his pouch, pulls out his cat away canister, and presses the nozzle button.
@@ -718,8 +655,6 @@ TRUE_GRIT.srt 	TRUE_GRIT_DVS502 	01:33:57,00 --> 01:34:03,50 	she instead pulls 
 TRUE_GRIT.srt 	TRUE_GRIT_DVS508 	01:34:24,00 --> 01:34:30,50 	someone pulls away but the corpse slides closer.
 TRUE_GRIT.srt 	TRUE_GRIT_DVS529 	01:36:01,00 --> 01:36:08,50 	someone walks little blackie away from the cave, pulling someone and someone up on the rope.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS398 	00:48:00,00 --> 00:48:06,50 	an assistant pulls off the rest of his costume.
-UGLY_TRUTH.srt 	UGLY_TRUTH_DVS527 	01:11:04,00 --> 01:11:15,50 	someone takes her hand and spins her away, then twirls underneath their joined hands, and pulls her into a tight embrace.
-UGLY_TRUTH.srt 	UGLY_TRUTH_DVS529 	01:11:15,00 --> 01:11:22,50 	holding both of her hands, he pushes her away, then pulls her in with her back against him.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS603 	01:20:32,00 --> 01:20:38,50 	he glances down at his exposed chest and pulls his shirt closed.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS102 	00:16:32,00 --> 00:16:42,50 	they pull up in front of a ranch-style house with a yard 	covered in native-california plants.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS205 	00:34:58,00 --> 00:35:03,50 	he pulls out a chair for someone.
@@ -730,7 +665,6 @@ WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS487 	01:15:34,00 --> 01:15:39,50 	he rem
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS527 	01:20:46,00 --> 01:20:51,50 	someone's suv pulls up.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS654 	01:35:42,00 --> 01:35:50,50 	a boxy older-style mercedes pulls up nearby.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS665 	01:37:48,00 --> 01:37:54,50 	ferris' truck pulls up nearby.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS681 	01:39:23,00 --> 01:39:33,50 	glancing around, she pulls the gate shut and hurriedly takes a key from a ring on her belt.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS801 	01:53:23,00 --> 01:53:32,50 	as he pulls away slightly, someone leans closer, her eyes still closed, and lets her lips graze his.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS85 	00:07:33,00 --> 00:07:38,50 	she reaches into the box and pulls out a small notebook and pen.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS95 	00:08:20,00 --> 00:08:26,50 	now a taxi pulls away revealing someone in a navy blue sheath dress.
@@ -740,7 +674,6 @@ WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS244 	00:33:08,00 --> 00:33:15,50 	he
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS250 	00:33:42,00 --> 00:33:47,50 	he pulls a coin out from behind her ear.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS342 	00:50:19,00 --> 00:50:23,50 	she pulls out a pantsuit.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS353 	00:52:00,00 --> 00:52:06,50 	someone enters in her slim gray pantsuit, her hair pulled back into a bun.
-WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS390 	00:56:02,00 --> 00:56:07,50 	he takes her hand and pulls her aside.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS441 	01:01:56,00 --> 01:02:01,50 	someone reaches to help him up, but pulls away.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS471 	01:06:09,00 --> 01:06:14,50 	she unbuckles his belt and he pulls her close.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS528 	01:13:56,00 --> 01:14:01,50 	a hand pulls a suit jacket from a rack.
@@ -760,10 +693,8 @@ XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS899 	01:22:10,00 --> 01:22:20,50 	some
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1014 	01:31:29,00 --> 01:31:34,50 	someone pulls it down and enters the lab.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1154 	01:43:06,00 --> 01:43:11,50 	someone pulls him into the cabin.
 YOUNG_ADULT.srt 	YOUNG_ADULT_DVS53 	00:07:30,00 --> 00:07:36,50 	she pulls a suitcase out of her closet and tosses some clothes into it.
-YOUNG_ADULT.srt 	YOUNG_ADULT_DVS60 	00:08:08,00 --> 00:08:16,50 	driving a red mini cooper, she pulls to a stop, takes out the cassette tape, and inserts it into a dashboard player.
 YOUNG_ADULT.srt 	YOUNG_ADULT_DVS75 	00:11:07,00 --> 00:11:13,50 	someone pulls into a hampton inn beside a strip mall.
 YOUNG_ADULT.srt 	YOUNG_ADULT_DVS141 	00:24:45,00 --> 00:24:52,50 	someone pulls into the parking lot of champion o'malley's and parks near a side entrance.
-YOUNG_ADULT.srt 	YOUNG_ADULT_DVS146 	00:25:46,00 --> 00:25:51,50 	she looks down and pulls up the front of her dress.
 YOUNG_ADULT.srt 	YOUNG_ADULT_DVS170 	00:32:30,00 --> 00:32:37,50 	someone pulls a hair out off the back of her head then sets it down beside several other hairs.
 YOUNG_ADULT.srt 	YOUNG_ADULT_DVS225 	00:42:46,00 --> 00:42:50,50 	later, she pulls into someone's driveway.
 YOUNG_ADULT.srt 	YOUNG_ADULT_DVS267 	00:51:00,00 --> 00:51:05,50 	later, someone's jeep pulls into his driveway.

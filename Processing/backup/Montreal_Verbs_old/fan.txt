@@ -1,0 +1,9 @@
+HUGO.srt 	HUGO_DVS227 	00:33:30,00 --> 00:33:36,50 	later, he demonstrates how to fan out a deck of cards.
+JACK_AND_JILL.srt 	JACK_AND_JILL_DVS305 	00:58:48,00 --> 00:58:53,50 	he swings another door, fanning the air.
+JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS43 	00:05:07,00 --> 00:05:14,50 	back in paris, someone roams their elegant apartment, fanning herself.
+KARATE_KID.srt 	KARATE_KID_DVS704 	00:59:19,00 --> 00:59:25,50 	later, someone sits on his patio, fanning himself.
+KARATE_KID.srt 	KARATE_KID_DVS968 	01:19:08,00 --> 01:19:16,50 	she crouches, revealing a cobra poised before her, its hood fanned out.
+KARATE_KID.srt 	KARATE_KID_DVS1037 	01:24:10,00 --> 01:24:16,50 	now, a child's drawing shows a coiled cobra with a fanned hood.
+PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS602 	01:53:28,00 --> 01:53:35,50 	now, someone sits at a kitchen table fanning herself with a magazine.
+TRUE_GRIT.srt 	TRUE_GRIT_DVS457 	01:30:40,00 --> 01:30:48,50 	charging, someone's men fan out.
+ZOMBIELAND.srt 	ZOMBIELAND_DVS447 	00:51:24,00 --> 00:51:29,50 	someone mimes fanning away tears.

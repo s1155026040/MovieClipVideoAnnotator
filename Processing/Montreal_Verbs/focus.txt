@@ -1,26 +1,13 @@
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS610 	01:02:56,00 --> 01:03:06,50 	as someone surveys the scene, his son raises a pair of binoculars and focuses them on a group of men in yellow suits outside the plant.
-BRUNO.srt 	BRUNO_DVS109 	00:23:43,00 --> 00:24:01,50 	he glances around the room, then focuses on the paper.
 BURLESQUE.srt 	BURLESQUE_DVS540 	01:14:31,00 --> 01:14:37,50 	someone focuses a blue-tinted spotlight on her.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS525 	00:51:11,00 --> 00:51:18,50 	focusing ardently, someone puts the finishing touches on a pencil drawn picture.
 CHRONICLE.srt 	CHRONICLE_DVS302 	00:45:46,00 --> 00:45:52,50 	indoors, it focuses on someone on a couch.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS131 	00:28:54,00 --> 00:29:03,50 	the view focuses on someone.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS173 	00:28:19,00 --> 00:28:27,50 	we focus on the clasped hands.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS448 	01:04:10,00 --> 01:04:18,50 	as a butterfly lands on a sprouting mushroom, the image focuses on a moss ridden monk.
-GREEN_ZONE.srt 	GREEN_ZONE_DVS183 	00:47:10,00 --> 00:47:42,50 	focusing intently on the screen, someone reads an article entitled, news source confirms iraq wmd program.
 IN_TIME.srt 	IN_TIME_DVS951 	01:40:07,00 --> 01:40:13,50 	he frantically sprints ahead, his eyes focused on the top of the hill.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS205 	00:58:35,00 --> 00:58:39,50 	someone focuses on ten black small bags.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS570 	01:39:34,00 --> 01:39:45,50 	the drone's camera focuses on the mask.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS730 	01:16:01,00 --> 01:16:07,50 	someone someone backs away and focuses on the smaller fish.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS431 	01:22:22,00 --> 01:22:30,50 	someone's profile grows blurry as the view focuses on the radio beyond.
 SALT.srt 	SALT_DVS471 	01:20:45,00 --> 01:20:54,50 	her eyes focused on her old colleague as he types.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1418 	01:36:26,00 --> 01:36:33,50 	an aerial view focuses on gleaming traffic and crowded highway lanes.
-SPARKLE_2012.srt 	SPARKLE_2012_DVS572 	01:34:05,00 --> 01:34:11,50 	someone sits on the couch with someone, who focuses on a tv show.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS285 	00:41:04,00 --> 00:41:11,50 	someone grabs a searchlight and focuses it on to a drifting lifeboat.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS567 	01:18:54,00 --> 01:18:59,50 	someone focuses on the label reading bulletproof.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS124 	00:28:29,00 --> 00:28:40,50 	the transfixed teen focuses on the boy's dark eyes,
-THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS183 	01:00:07,00 --> 01:00:14,50 	someone approaches the stage and pulls up a chair beside someone, who is focused on eating.
-THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS100 	00:32:07,00 --> 00:32:15,50 	someone takes a seat at his desk and focuses on his work.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS422 	01:07:03,00 --> 01:07:10,50 	as someone focuses on his drawing, someone watches with heartbroken eyes.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS156 	00:10:00,00 --> 00:10:07,50 	his gaze hardens as it focuses on a sketch of his childhood tormentor.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS501 	00:45:47,00 --> 00:45:55,50 	then focuses on a black-haired young woman in booty shoots and a bra with dangling fringe.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1241 	01:51:44,00 --> 01:51:51,50 	as someone expels strained breaths, someone stays focused on someone.

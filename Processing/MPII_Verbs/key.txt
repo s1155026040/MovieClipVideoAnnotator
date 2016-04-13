@@ -1,12 +1,4 @@
 0006_Clerks_00.02.32.117-00.02.33.204 	a hand grabs keys from atop a vcr.
 0010_Frau_Ohne_Gewissen_00.44.18.703-00.44.21.235 	automatically keyes grabs the phone and answers.
-0010_Frau_Ohne_Gewissen_00.45.11.772-00.45.13.810 	he covers the receiver with his hand and turns to keyes, who is now standing at the window.
-0010_Frau_Ohne_Gewissen_01.01.39.458-01.01.41.408 	he and keyes pass the legal looking men and follow norton into his office.
 0010_Frau_Ohne_Gewissen_01.10.38.254-01.10.40.694 	keyes prods his stomach again.
-0010_Frau_Ohne_Gewissen_01.10.58.954-01.10.59.177 	finally keyes continues.
-0010_Frau_Ohne_Gewissen_01.18.16.295-01.18.23.217 	neff controls his expression and goes on to open the door to keyes' office.
-0010_Frau_Ohne_Gewissen_01.29.40.319-01.29.40.806 	he is stopped by keyes' voice, off to one side.
-0010_Frau_Ohne_Gewissen_01.32.48.045-01.32.48.672 	neff has just come out of keyes' office.
-0021_Rear_Window_01.19.05.594-01.19.06.794 	he is much younger than she, and a little more keyed up to the promise of an adventure still fresh to him.
 1017_Bad_Santa_00.05.29.639-00.05.33.306 	as santa shuffles off, the guard keys a code into an alarm system.
-2004_Juno_00.04.21.199-00.04.22.799 	rollo pulls the bathroom key out of reach.

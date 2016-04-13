@@ -1,35 +1,34 @@
-0001_American_Beauty_01.14.49.635-01.14.52.282 	Lester's REMOTE-CONTROLLED MODEL JEEP is zooming across the floor of the family room, expertly maneuvering corners and narrowly avoiding crashing.
-0001_American_Beauty_01.24.27.830-01.24.30.292 	Carolyn quickly rinses off her coffee cup, avoiding his eyes, and starts out.
-0002_As_Good_As_It_Gets_00.10.30.093-00.10.35.136 	We will be very pointed in the fact that he avoids stepping on cracks.
-0002_As_Good_As_It_Gets_00.34.50.388-00.34.51.773 	Verdell is avoiding the cracks in the sidewalk.
+0001_American_Beauty_01.14.49.635-01.14.52.282 	lester's remote-controlled model jeep is zooming across the floor of the family room, expertly maneuvering corners and narrowly avoiding crashing.
+0001_American_Beauty_01.24.27.830-01.24.30.292 	carolyn quickly rinses off her coffee cup, avoiding his eyes, and starts out.
+0002_As_Good_As_It_Gets_00.10.30.093-00.10.35.136 	we will be very pointed in the fact that he avoids stepping on cracks.
+0002_As_Good_As_It_Gets_00.34.50.388-00.34.51.773 	verdell is avoiding the cracks in the sidewalk.
 0002_As_Good_As_It_Gets_00.34.54.316-00.34.57.203 	again carefully placing his paws to avoid a crack in the sidewalk.
-0002_As_Good_As_It_Gets_02.09.24.394-02.09.28.707 	Melvin walking and though we can see an improvement it is still decidedly strange as he conspicuously avoids stepping on the lines.
-0002_As_Good_As_It_Gets_02.13.09.958-02.13.12.747 	and the ALMOST in unison begin to walk away FROM CAMERA, Melvin following a path that avoids cracks.
-0002_As_Good_As_It_Gets_02.13.21.329-02.13.26.743 	They walk to the bakery, Melvin avoiding the cracks.
-0003_CASABLANCA_01.25.41.448-01.25.42.888 	They flatten themselves against a wall to avoid detection.
-0004_Charade_01.07.30.562-01.07.36.383 	The MEN avoid looking at one another.
-0011_Gandhi_00.07.25.892-00.07.26.725 	The porter, wanting to avoid trouble, reaches for Gandhi's suitcases.
-0013_Halloween_01.17.00.112-01.17.00.683 	She leaps backward to avoid the blade and slips over the edge of the railing.
-0013_Halloween_01.24.59.018-01.25.12.715 	Laurie emerges from the closet and carefully crosses the bedroom, avoiding the shape's body.
-0021_Rear_Window_00.50.52.207-00.50.52.707 	He has moved back a little to avoid getting the phone cable tangled in the food and dishes.
-0021_Rear_Window_01.39.32.390-01.39.35.904 	Lisa dashes back into the bedroom just in time to avoid being seen by Thorwald as he opens the door and enters the apartment.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.12.15.934-00.12.19.595 	Gandalf has to stoop to avoid hitting his head on the low ceiling.
-0028_The_Crying_Game_00.43.20.655-00.43.23.303 	She stares at the mirror, staring at Fergus, who is trying to avoid her eyes.
-0028_The_Crying_Game_00.53.54.867-00.53.56.843 	Fergus pulls her into a doorway to avoid it.
-0030_The_Hustler_00.22.27.596-00.22.28.845 	Charlie looks away, avoiding his eyes.
-0032_The_Princess_Bride_00.27.14.970-00.27.28.022 	FEZZIK considers this a moment, then attacks, and if he moved quickly last time, this time he is blinding and as the Man In Black slips down to avoid the charge, FEZZIK moves right with him, only instead of twisting free and jumping to his feet, this time the Man In Black jumps for FEZZIK's back and in a moment he is riding him, and his arms have FEZZIK's throat, locked across FEZZIK's windpipe, one in front, one behind.
-0050_Indiana_Jones_and_the_last_crusade_00.13.16.992-00.13.21.367 	He struggles to his feet, managing to avoid the giant fuel drums sliding across the deck around him.
-0050_Indiana_Jones_and_the_last_crusade_00.13.31.621-00.13.35.350 	He grabs a hold of the hook and uses it to swing all the way across the deck, narrowly avoiding a huge wave behind him.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.39.32.611-01.39.40.774 	Snape glares at Harry, who avoids his gaze and Harry's off.
-1005_Signs_00.52.57.960-00.53.00.551 	Bo avoids eye contact.
-1006_Slumdog_Millionaire_00.56.22.345-00.56.25.274 	She avoids Maman's eyes but doesn't move.
-1007_Spider-Man1_00.24.28.742-00.24.32.010 	To avoid Flash's colleague Peter flips into the air, somersaults and lands on his feet.
+0002_As_Good_As_It_Gets_02.09.24.394-02.09.28.707 	melvin walking and though we can see an improvement it is still decidedly strange as he conspicuously avoids stepping on the lines.
+0002_As_Good_As_It_Gets_02.13.09.958-02.13.12.747 	and the almost in unison begin to walk away from camera, melvin following a path that avoids cracks.
+0002_As_Good_As_It_Gets_02.13.21.329-02.13.26.743 	they walk to the bakery, melvin avoiding the cracks.
+0003_CASABLANCA_01.25.41.448-01.25.42.888 	they flatten themselves against a wall to avoid detection.
+0004_Charade_01.07.30.562-01.07.36.383 	the men avoid looking at one another.
+0011_Gandhi_00.07.25.892-00.07.26.725 	the porter, wanting to avoid trouble, reaches for gandhi's suitcases.
+0013_Halloween_01.17.00.112-01.17.00.683 	she leaps backward to avoid the blade and slips over the edge of the railing.
+0013_Halloween_01.24.59.018-01.25.12.715 	laurie emerges from the closet and carefully crosses the bedroom, avoiding the shape's body.
+0021_Rear_Window_00.50.52.207-00.50.52.707 	he has moved back a little to avoid getting the phone cable tangled in the food and dishes.
+0021_Rear_Window_01.39.32.390-01.39.35.904 	lisa dashes back into the bedroom just in time to avoid being seen by thorwald as he opens the door and enters the apartment.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.12.15.934-00.12.19.595 	gandalf has to stoop to avoid hitting his head on the low ceiling.
+0028_The_Crying_Game_00.43.20.655-00.43.23.303 	she stares at the mirror, staring at fergus, who is trying to avoid her eyes.
+0028_The_Crying_Game_00.53.54.867-00.53.56.843 	fergus pulls her into a doorway to avoid it.
+0030_The_Hustler_00.22.27.596-00.22.28.845 	charlie looks away, avoiding his eyes.
+0032_The_Princess_Bride_00.27.14.970-00.27.28.022 	fezzik considers this a moment, then attacks, and if he moved quickly last time, this time he is blinding and as the man in black slips down to avoid the charge, fezzik moves right with him, only instead of twisting free and jumping to his feet, this time the man in black jumps for fezzik's back and in a moment he is riding him, and his arms have fezzik's throat, locked across fezzik's windpipe, one in front, one behind.
+0050_Indiana_Jones_and_the_last_crusade_00.13.16.992-00.13.21.367 	he struggles to his feet, managing to avoid the giant fuel drums sliding across the deck around him.
+0050_Indiana_Jones_and_the_last_crusade_00.13.31.621-00.13.35.350 	he grabs a hold of the hook and uses it to swing all the way across the deck, narrowly avoiding a huge wave behind him.
+1002_Harry_Potter_and_the_Half-Blood_Prince_01.39.32.611-01.39.40.774 	snape glares at harry, who avoids his gaze and harry's off.
+1006_Slumdog_Millionaire_00.56.22.345-00.56.25.274 	she avoids maman's eyes but doesn't move.
+1007_Spider-Man1_00.24.28.742-00.24.32.010 	to avoid flash's colleague peter flips into the air, somersaults and lands on his feet.
 1007_Spider-Man1_01.24.28.277-01.24.38.027 	they head for spider-man, who leaps acrobatically to avoid them.
-1007_Spider-Man1_01.24.48.085-01.24.50.203 	in a limber darting move, arching his back, spider-man avoids another blade.
 1008_Spider-Man2_00.27.56.785-00.27.58.490 	the third swerves to avoid it.
 1008_Spider-Man2_00.28.28.200-00.28.33.113 	spider-man soars, dives and weaves to avoid the bullets being pumped directly at him.
 1008_Spider-Man2_01.43.05.668-01.43.10.451 	spider-man somersaults back, jumps to avoid the mechanical limbs and limbos under a bridge.
 1008_Spider-Man2_01.43.46.836-01.43.49.867 	he presses himself to the side of the train to avoid an oncoming one.
+1008_Spider-Man2_02.05.27.058-02.05.34.383 	avoiding the jagged pieces of broken mirror, harry slides through into a brick chamber.
 1009_Spider-Man3_00.17.25.817-00.17.27.186 	he ducks to avoid them.
 1014_2012_00.50.53.358-00.50.54.117 	narrowly avoiding the falling tower behind them.
 1014_2012_01.01.04.058-01.01.07.795 	he swerves to avoid crashing rock then straightens the vehicle.
@@ -46,27 +45,19 @@
 1037_The_Curious_Case_Of_Benjamin_Button_01.13.32.602-01.13.36.037 	benjamin avoids his gaze as the lift rises.
 1041_This_is_40_01.33.39.501-01.33.43.985 	they continue walking, coyly avoiding each other's gaze.
 1041_This_is_40_01.56.47.949-01.56.52.443 	continuing onto a busy street, pete cuts off a car that narrowly avoids him.
-1041_This_is_40_01.57.16.933-01.57.19.491 	joseph avoids her gaze.
 1043_Vantage_Point_00.42.17.936-00.42.21.603 	a white car swerves to avoid her.
 1043_Vantage_Point_01.13.03.519-01.13.06.976 	barnes swerves to avoid a collision and mounts the pavement.
 1043_Vantage_Point_01.19.02.321-01.19.13.738 	howard sprints toward her as sam grimaces with the effort of turning the wheel to avoid the little girl, whose mother screams at the side of the road.
 1045_An_education_00.05.29.661-00.05.32.227 	she avoids eye-contact with the handsome driver.
-1045_An_education_00.43.20.717-00.43.27.223 	embarrassed, jenny avoids eye contact.
 1046_Australia_00.42.18.134-00.42.23.993 	daisy is about to get in with the boy, but has to duck down and stay on the ladder to avoid being seen as the truck comes to a halt.
 1046_Australia_00.48.21.873-00.48.26.560 	he frowns and she avoids his gaze.
 1049_Harry_Potter_and_the_chamber_of_secrets_00.55.51.228-00.55.58.748 	draco flies after it, closely followed by harry who swerves to avoid a solid wooden beam.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.16.49.460-00.16.53.967 	hagrid swerves into oncoming traffic to avoid it.
 1051_Harry_Potter_and_the_goblet_of_fire_01.00.11.734-01.00.15.950 	he narrowly avoids colliding with a tall stone tower.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_00.55.45.661-00.55.49.047 	he twists and turns to avoid them.
+1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.56.28.000-00.56.32.000 	avoiding the falling rubble, he stops suddenly as he reaches a black stone wall.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.02.26.356-01.02.28.126 	hermione leads the way, as they swerve to avoid tumbling, burning furniture.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.57.13.819-01.57.20.856 	on the train, albus ducks to avoid a whiz-bang, and enters a compartment.
 2012_Unbreakable_00.07.48.857-00.07.55.715 	david leans towards the window to avoid eye contact.
 2012_Unbreakable_00.41.54.539-00.42.00.261 	he avoids the hard chrome bumpers and tailpipes that jut out from the cars as he quickens his pace through the lot.
 2026_Legion_01.25.52.489-01.25.53.492 	audrey desperately tries to load a flare while avoiding gabriel's grasp.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.55.45.661-00.55.49.047 	he twists and turns to avoid them.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.02.26.356-01.02.28.126 	hermione leads the way, as they swerve to avoid tumbling, burning furniture.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.57.13.819-01.57.20.856 	on the train, albus ducks to avoid a whiz-bang, and enters a compartment.
-2012_Unbreakable_00.07.48.857-00.07.55.715 	david leans towards the window to avoid eye contact.
-2012_Unbreakable_00.41.54.539-00.42.00.261 	he avoids the hard chrome bumpers and tailpipes that jut out from the cars as he quickens his pace through the lot.
-2026_Legion_01.25.52.489-01.25.53.492 	audrey desperately tries to load a flare while avoiding gabriel's grasp.
-2034_Super_8_00.24.27.906-00.24.44.056 	as the flashlight men approach, joe runs and gets in the front seat, the other boys in back -- alice slams the car into reverse, screech-backs up, narrowly avoids debris, then rides off -- the flashlight men arrive -- soldiers -- their adrenaline pumping.

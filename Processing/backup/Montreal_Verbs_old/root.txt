@@ -1,0 +1,5 @@
+21_JUMP_STREET.srt 	21_JUMP_STREET_DVS36 	00:04:07,00 --> 00:04:14,50 	on an obstacle course, someone finishes a tire run then roots for someone.
+HUGO.srt 	HUGO_DVS105 	00:14:07,00 --> 00:14:14,50 	someone stands rooted to the floor, gazing out at the snowy paris streets beyond.
+SUPER_8.srt 	SUPER_8_DVS104 	00:17:32,00 --> 00:17:39,50 	someone stands rooted.
+THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS64 	00:12:18,00 --> 00:12:40,50 	as he follows the sidewalk, he roots around in the pocket of his cargo shorts and pulls out a set of keys.
+THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS247 	01:35:11,00 --> 01:35:15,50 	he roots through a bag.

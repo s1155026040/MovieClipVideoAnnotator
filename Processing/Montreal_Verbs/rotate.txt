@@ -1,29 +1,12 @@
-BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS394 	01:03:58,00 --> 01:04:03,50 	with one foot raised, they rotate.
 BURLESQUE.srt 	BURLESQUE_DVS396 	00:55:23,00 --> 00:55:30,50 	a different panel spins and someone rotates into the room, then whirls away again.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS334 	01:02:38,00 --> 01:02:44,50 	he rotates a security camera and watches someone as he fights his way past several hydra soldiers.
 DISTRICT_9.srt 	DISTRICT_9_DVS798 	01:34:38,00 --> 01:34:46,50 	the mother ship hovers directly above their craft, rotating slowly.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS241 	00:38:30,00 --> 00:38:47,50 	as it fades, they see ghost rider's horizontal body rotating three feet above the ground.
-HUGO.srt 	HUGO_DVS148 	00:20:25,00 --> 00:20:32,50 	standing by a rotating film reel, he glances back over his shoulder and frowns.
-HUGO.srt 	HUGO_DVS324 	00:50:16,00 --> 00:50:23,50 	a tumbler of notched plates rotates into a new configuration then drops slightly.
-HUGO.srt 	HUGO_DVS527 	01:18:06,00 --> 01:18:14,50 	later she sits against a wall as someone rotates a large crank.
 HUGO.srt 	HUGO_DVS595 	01:25:49,00 --> 01:25:55,50 	above him, a large gear slowly rotates.
 IN_TIME.srt 	IN_TIME_DVS25 	00:03:21,00 --> 00:03:28,50 	he and his mother clasp each other's forearms, then rotate his over hers.
-IN_TIME.srt 	IN_TIME_DVS811 	01:26:09,00 --> 01:26:18,50 	he starts to rotate his arm over the gangster's.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS255 	01:18:56,00 --> 01:19:01,50 	our view rotates around someone.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS278 	01:25:55,00 --> 01:26:10,50 	the device rotates.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS415 	01:17:56,00 --> 01:18:02,50 	a toy with a rotating pole.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS426 	01:20:27,00 --> 01:20:36,50 	as he lets go of the toy, the arm rotates again.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS473 	01:25:59,00 --> 01:26:07,50 	using a pipe wrench, someone turns a wheel which rotates the prism, directing the beam outside the tubing.
-KARATE_KID.srt 	KARATE_KID_DVS1487 	02:01:09,00 --> 02:01:17,50 	now in the stadium's infirmary, a doctor gently tries to rotate someone's bruised swollen knee.
-PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS289 	01:12:18,00 --> 01:12:27,50 	inside a lavish buffet with a chocolate fountain overlooks a brand new black maserati on a rotating platform.
 PROMETHEUS.srt 	PROMETHEUS_DVS265 	00:25:43,00 --> 00:25:49,50 	the ship's jets rotate downward.
-PROMETHEUS.srt 	PROMETHEUS_DVS667 	01:12:16,00 --> 01:12:23,50 	curiously looking on as the alien rotates the chair to face the controls.
 PROMETHEUS.srt 	PROMETHEUS_DVS698 	01:14:20,00 --> 01:14:27,50 	rotating inches above a translucent cone-shaped face the image fades.
 PROMETHEUS.srt 	PROMETHEUS_DVS773 	01:23:19,00 --> 01:23:29,50 	a large pair of forceps rotates into position at the top of the arched scanner.
-PROMETHEUS.srt 	PROMETHEUS_DVS912 	01:40:50,00 --> 01:40:58,50 	the center of the disc drops, then rotates counter clockwise and opens for a head and pillar to emerge.
-SANCTUM.srt 	SANCTUM_DVS559 	01:41:56,00 --> 01:42:04,50 	as his near-motionless body rotates underwater, the young man shuts his eyes.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS440 	01:04:13,00 --> 01:04:21,50 	as someone reaches for his water, snowy rotates a bedside tray.
 THOR.srt 	THOR_DVS112 	00:16:41,00 --> 00:16:47,50 	outside, the dome's exterior rotates more and more quickly.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS145 	00:09:16,00 --> 00:09:25,50 	as the rest of the scene fades to black, the nazi coin hovers in the darkness, then rotates.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS902 	01:22:22,00 --> 01:22:27,50 	rotating the dish toward the mansion.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1281 	01:55:15,00 --> 01:55:21,50 	the rockets rotate to face their points of origin.

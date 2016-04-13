@@ -1,8 +1,4 @@
 BLINDDATING.srt 	BLINDDATING_DVS43 	00:13:35,00 --> 00:13:43,50 	she fiddles with her top button.
-ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS41 	00:10:22,00 --> 00:10:30,50 	she begins to fiddle with a piece of equipment.
 MORNING_GLORY.srt 	MORNING_GLORY_DVS284 	01:02:10,00 --> 01:02:14,50 	fiddling with a strand of hair.
-PROMETHEUS.srt 	PROMETHEUS_DVS498 	00:51:59,00 --> 00:52:08,50 	now, someone enters the mess hall with a bottle of liquor and sees holloway drunkenly fiddling with balls on the pool table.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS445 	01:12:56,00 --> 01:13:01,50 	she fiddles with her tangled hair.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS378 	01:11:57,00 --> 01:12:04,50 	someone drops her gaze, fiddling with her silky honey-brown hair.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS436 	00:53:26,00 --> 00:53:31,50 	the boy fiddles with the controls.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS48 	00:08:41,00 --> 00:08:48,50 	entering the office, the principal furrows his brow as he sees someone fiddling with his window.

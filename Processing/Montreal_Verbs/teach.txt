@@ -1,4 +1,2 @@
-IN_TIME.srt 	IN_TIME_DVS656 	01:11:13,00 --> 01:11:18,50 	now, someone teaches someone how to shoot.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS283 	00:55:24,00 --> 00:55:28,50 	they teach.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS100 	00:12:00,00 --> 00:12:05,50 	elsewhere, a beautiful woman teaches gardening.
-THOR.srt 	THOR_DVS267 	00:35:59,00 --> 00:36:05,50 	the truck drives forward, and the chain snaps taught.

@@ -1,9 +1,7 @@
-CHRONICLE.srt 	CHRONICLE_DVS127 	00:19:18,00 --> 00:19:26,50 	filming himself in the mirror, he lowers his arms from the camera and lets it hover in front of him.
 CHRONICLE.srt 	CHRONICLE_DVS135 	00:20:04,00 --> 00:20:08,50 	she films him.
 CHRONICLE.srt 	CHRONICLE_DVS172 	00:25:56,00 --> 00:26:01,50 	someone films a tailgating truck.
 CHRONICLE.srt 	CHRONICLE_DVS307 	00:46:34,00 --> 00:46:39,50 	he films the beer pong match.
 CHRONICLE.srt 	CHRONICLE_DVS318 	00:48:39,00 --> 00:48:45,50 	now, someone films himself on a stairway landing.
 CHRONICLE.srt 	CHRONICLE_DVS358 	00:54:31,00 --> 00:54:36,50 	afterward, someone films the gravesite.
-SANCTUM.srt 	SANCTUM_DVS107 	00:21:39,00 --> 00:21:51,50 	meanwhile, someone climbs out of shallow water onto a rock ledge where someone stands filming a cavern with a video camera.
 SOUL_SURFER.srt 	SOUL_SURFER_DVS177 	00:54:08,00 --> 00:54:13,50 	filmed by a tv crew, someone glances at her parents.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS117 	00:12:04,00 --> 00:12:08,50 	the woman filming her grins and nods.

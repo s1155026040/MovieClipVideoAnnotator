@@ -1,0 +1,16 @@
+ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS224 	00:32:02,00 --> 00:32:09,50 	the reach a house gate and face each other, sharing a warm smile.
+CHRONICLE.srt 	CHRONICLE_DVS229 	00:32:51,00 --> 00:33:01,50 	sharing his point-of-view, we peer out from the rippling folds of someone's coat while making a controlled descent toward the landscape below.
+CHRONICLE.srt 	CHRONICLE_DVS273 	00:41:46,00 --> 00:41:52,50 	sharing another camera's perspective, we approach someone.
+DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS323 	01:18:22,00 --> 01:18:33,50 	he stares at the pair of mice in the pergola who are posed sucking on a piece of cheese through straws like teenagers sharing a milkshake.
+KARATE_KID.srt 	KARATE_KID_DVS831 	01:08:56,00 --> 01:09:01,50 	their faces press together as if sharing a kiss.
+KNOCKED_UP.srt 	KNOCKED_UP_DVS78 	00:45:19,00 --> 00:45:28,50 	face each other sharing a warm smile.
+LIFE_OF_PI.srt 	LIFE_OF_PI_DVS431 	00:49:43,00 --> 00:49:52,50 	someone sits at the bow sharing a vigilant gaze with the hyena who remains back at the edge of the canvas.
+PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS259 	01:01:47,00 --> 01:01:58,50 	we ride a half pipe sharing the perspective of a skateboard's wheels.
+PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS452 	01:47:23,00 --> 01:47:30,50 	poseidon extends his arm and they shake hands while sharing an amicable stare.
+PROMETHEUS.srt 	PROMETHEUS_DVS312 	00:30:32,00 --> 00:30:40,50 	on the other side, someone and the mohawked man linger, sharing an uneasy gaze.
+ROBIN_HOOD.srt 	ROBIN_HOOD_DVS455 	01:53:04,00 --> 01:53:14,50 	someone moves in close and her lips meet his repeatedly sharing eager tender kisses.
+SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS756 	00:49:59,00 --> 00:50:05,50 	elsewhere at the airport, the two friends face each by a window, sharing a long gaze.
+SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1055 	01:10:26,00 --> 01:10:32,50 	sharing a table, sebastian and someone applaud.
+THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS118 	00:23:52,00 --> 00:23:57,50 	someone finds someone sharing her bench.
+THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS32 	00:06:13,00 --> 00:06:23,50 	sharing her mother's round face and sullen pout, she faces her visitors.
+WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS605 	01:31:39,00 --> 01:31:46,50 	he clicks to the next image, which shows him and someone sharing a kiss.

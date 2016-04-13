@@ -1,10 +1,51 @@
-0004_Charade_01.44.07.357-01.44.07.811 	REGGIE stands out in the open, the stamps in her hand, confused as to which man she should go to).
-0011_Gandhi_01.56.21.333-01.56.24.069 	The clerk, confused as well as astonished, see the judge standing, facing Gandhi in respect, and dutifully, he too stands.
-0019_Pulp_Fiction_01.35.25.393-01.35.28.811 	Butch sits dazed and confused in the crumpled mess of what at one time was Fabienne's Honda.
-0023_THE_BUTTERFLY_EFFECT_00.32.19.816-00.32.23.342 	Evan looks around, utterly confused by his surroundings.
-0053_Rendezvous_mit_Joe_Black_00.32.59.665-00.33.01.467 	A hopelessly confused Parrish does not respond for a moment.
-1007_Spider-Man1_00.25.05.464-00.25.07.070 	And Peter looks confused and a little frightened.
+0001_American_Beauty_00.25.26.734-00.25.27.618 	the colonel looks at them, confused.
+0001_American_Beauty_00.43.09.903-00.43.17.966 	lester looks around, confused, then focuses on: across from us, in a pedestal bathtub, is angela.
+0001_American_Beauty_01.25.42.701-01.25.43.277 	close on the colonel's face: he looks confused.
+0002_As_Good_As_It_Gets_01.14.16.635-01.14.23.772 	she takes it and walks back to the service area where, embarrassed, confused, and messed with -- she tosses the note.
+0004_Charade_00.49.54.956-00.50.01.648 	she leaves him standing there, more confused than ever, as she starts after dyle again.
+0004_Charade_00.52.12.410-00.52.18.557 	as she looks at it, confused.
+0004_Charade_01.22.02.503-01.22.03.050 	seeing this, gideon looks confused.
+0004_Charade_01.28.33.093-01.28.33.240 	as the delegates look at one another, confused.
+0004_Charade_01.44.07.357-01.44.07.811 	reggie stands out in the open, the stamps in her hand, confused as to which man she should go to).
+0004_Charade_01.51.49.258-01.51.59.552 	reggie stares at him, unbelievingly, then looks around, confused.
+0006_Clerks_01.12.57.542-01.13.05.251 	randal and dante stare at caitlin, confused.
+0011_Gandhi_01.56.21.333-01.56.24.069 	the clerk, confused as well as astonished, see the judge standing, facing gandhi in respect, and dutifully, he too stands.
+0014_Ist_das_Leben_nicht_schoen_01.12.48.441-01.13.04.669 	as george comes in, his head is filled with many confusing thoughts, relating to incidents in his past life.
+0014_Ist_das_Leben_nicht_schoen_01.44.58.642-01.45.01.402 	he is now thoroughly confused.
+0017_Pianist_00.50.31.727-00.50.37.803 	szpilman stands for a moment, confused, terrified.
+0017_Pianist_01.27.44.015-01.27.47.551 	the hammering continues as szpilman stumbles into the room, looks around, confused, not knowing what to do.
+0019_Pulp_Fiction_01.35.25.393-01.35.28.811 	butch sits dazed and confused in the crumpled mess of what at one time was fabienne's honda.
+0023_THE_BUTTERFLY_EFFECT_00.32.19.816-00.32.23.342 	evan looks around, utterly confused by his surroundings.
+0026_The_Big_Fish_00.27.17.357-00.27.21.909 	the advice only succeeds in confusing edward.
+0026_The_Big_Fish_00.31.04.949-00.31.06.227 	still confused.
+0026_The_Big_Fish_00.33.30.645-00.33.37.848 	the gathered citizens of spectre cheer for edward, who is confused and overwhelmed.
+0026_The_Big_Fish_01.04.14.071-01.04.18.915 	she's smiling, confused, joyful and scared.
+0026_The_Big_Fish_01.49.05.282-01.49.07.982 	his eyes are open, scared and confused.
+0026_The_Big_Fish_01.49.51.381-01.49.52.444 	edward looks around, confused and increasingly scared.
+0030_The_Hustler_01.00.23.999-01.00.27.243 	sarah watches them both, curious, confused.
+0050_Indiana_Jones_and_the_last_crusade_00.55.51.969-00.55.53.139 	brody looks confused.
+0050_Indiana_Jones_and_the_last_crusade_01.03.00.059-01.03.02.684 	henry looks confused.
+0050_Indiana_Jones_and_the_last_crusade_01.12.43.713-01.12.46.428 	henry looks confused.
+0051_Men_in_black_00.08.41.711-00.08.43.824 	the agents look around, confused.
+0053_Rendezvous_mit_Joe_Black_00.32.59.665-00.33.01.467 	a hopelessly confused parrish does not respond for a moment.
+1002_Harry_Potter_and_the_Half-Blood_Prince_01.13.46.460-01.13.48.673 	ron looks confused.
+1002_Harry_Potter_and_the_Half-Blood_Prince_01.44.17.746-01.44.18.927 	hermione and ron look confused.
+1005_Signs_00.52.23.780-00.52.26.406 	merrill's confused.
+1007_Spider-Man1_00.25.05.464-00.25.07.070 	and peter looks confused and a little frightened.
+1017_Bad_Santa_00.56.35.874-00.56.38.438 	roger looks confused.
+1037_The_Curious_Case_Of_Benjamin_Button_02.25.57.035-02.25.59.186 	robert looks confused.
+1038_The_Great_Gatsby_00.54.05.514-00.54.07.399 	confused, he looks to the chair and the window.
+1049_Harry_Potter_and_the_chamber_of_secrets_00.15.06.819-00.15.09.733 	mrs. weasley looks confused.
+1049_Harry_Potter_and_the_chamber_of_secrets_00.42.12.810-00.42.14.160 	lockhart looks confused.
+1049_Harry_Potter_and_the_chamber_of_secrets_01.42.11.479-01.42.12.150 	fudge looks confused.
+1049_Harry_Potter_and_the_chamber_of_secrets_02.16.17.965-02.16.30.856 	looking confused, she sits up and sees harry who is clutching his arm in pain.
+1051_Harry_Potter_and_the_goblet_of_fire_01.40.23.509-01.40.32.166 	crouch stares back into moody's scarred face, then walks away looking confused.
 1051_Harry_Potter_and_the_goblet_of_fire_01.54.05.491-01.54.08.886 	as confused as harry, he runs along the narrow paths between the neatly clipped hedges.
+1053_Harry_Potter_and_the_philosophers_stone_00.09.26.000-00.09.29.042 	harry looks confused.
 1053_Harry_Potter_and_the_philosophers_stone_01.19.51.000-01.19.55.265 	slytherin captain and his teammate, one on each side, jostling and confusing her.
-1053_Harry_Potter_and_the_philosophers_stone_01.19.51.000-01.19.55.265 	slytherin captain and his teammate, one on each side, jostling and confusing her.
+1054_Harry_Potter_and_the_prisoner_of_azkaban_00.22.45.593-00.22.52.047 	looking confused, harry takes the piece of chocolate from professor lupin.
+2034_Super_8_01.24.39.675-01.24.44.602 	as the two soldiers head off, jack wraps louis' arm over his shoulders, heads off in the other direction, as louis looks him over, confused.
 2034_Super_8_01.40.21.118-01.41.22.215 	formed -- but here, as he is being hugged by his father, joe looks down: something in his pocket is moving -- he considers it, confused for a moment -- but he reaches in and pulls it out.
+2040_The_Ugly_Truth_00.30.06.012-00.30.11.421 	confused by her reaction, he follows.
+2040_The_Ugly_Truth_01.02.54.543-01.02.56.965 	abby looks at the agent, confused.
+2054_Harry_Potter_and_the_prisoner_of_azkaban_01.30.13.640-01.30.17.496 	confused, harry and hermione glance about, then -- as one -- peer up.

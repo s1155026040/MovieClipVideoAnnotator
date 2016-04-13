@@ -1,0 +1,2 @@
+SALT.srt 	SALT_DVS435 	01:15:15,00 --> 01:15:23,50 	now the heavily reinforced bunker door swings open.
+SALT.srt 	SALT_DVS477 	01:22:02,00 --> 01:22:11,50 	who uses a blowtorch on the reinforced door.

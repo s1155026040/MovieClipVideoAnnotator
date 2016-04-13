@@ -1,0 +1,5 @@
+JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS147 	00:56:59,00 --> 00:57:09,50 	someone scales a steep hill, while the others lag behind.
+KARATE_KID.srt 	KARATE_KID_DVS464 	00:41:09,00 --> 00:41:29,50 	someone scales a pile of boxes beside them and climbs onto a roof.
+PROMETHEUS.srt 	PROMETHEUS_DVS807 	01:26:31,00 --> 01:26:41,50 	on fire, the mutant speedily scales a smooth wall, then leaps down, tackling a crewman.
+THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS80 	00:15:40,00 --> 00:15:51,50 	someone scales a wall and lands in a muddy flowerbed.
+UGLY_TRUTH.srt 	UGLY_TRUTH_DVS245 	00:23:14,00 --> 00:23:21,50 	he scales a tree and perches on a high branch.

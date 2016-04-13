@@ -1,11 +1,8 @@
 500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS411 	01:11:13,00 --> 01:11:19,50 	someone buys blackjack bourbon, juice, and twinkies.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS271 	00:49:53,00 --> 00:50:08,50 	later, children buy comics featuring captain america from a newsstand.
-CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS158 	00:34:31,00 --> 00:34:45,50 	it reads, buy at the esso sign for happy motoring.
 COLOMBIANA.srt 	COLOMBIANA_DVS901 	01:24:59,00 --> 01:25:03,50 	at a store, he buys a frozen dinner.
 FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS209 	00:55:00,00 --> 00:55:05,50 	someone buys coffees.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS112 	00:19:12,00 --> 00:19:16,50 	now she buys nuts.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS153 	00:26:29,00 --> 00:26:33,50 	now she buys cheese.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1342 	02:24:09,00 --> 02:24:15,50 	someone buys designer clothes and expensive luggage.
-THE_WATCH.srt 	THE_WATCH_DVS80 	00:10:36,00 --> 00:10:45,50 	now, at a high school football game, the tall man who bought the 3d tv at costco sits in the crowded bleachers.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS252 	00:35:03,00 --> 00:35:08,50 	now, people buy produce at a bustling farmers' market.
 ZOOKEEPER.srt 	ZOOKEEPER_DVS19 	00:03:10,00 --> 00:03:14,50 	someone buys a waist-high tire.

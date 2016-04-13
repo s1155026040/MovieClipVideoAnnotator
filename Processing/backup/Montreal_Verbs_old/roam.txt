@@ -1,0 +1,5 @@
+BAD_TEACHER.srt 	BAD_TEACHER_DVS239 	01:05:48,00 --> 01:05:56,50 	later visitors roam the state house lobby.
+JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS35 	00:04:01,00 --> 00:04:09,50 	as the woman roams the empty apartment, the dark-haired man climbs the stairs with a box.
+JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS43 	00:05:07,00 --> 00:05:14,50 	back in paris, someone roams their elegant apartment, fanning herself.
+KARATE_KID.srt 	KARATE_KID_DVS996 	01:21:14,00 --> 01:21:20,50 	he watches his teacher roaming the chamber wistfully.
+WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS358 	00:57:53,00 --> 00:58:03,50 	meanwhile, buster roams a sunny 	woodland path.

@@ -1,20 +1,13 @@
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS124 	00:10:07,00 --> 00:10:13,50 	reading from the guidebook, he addresses the driver.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS255 	00:37:21,00 --> 00:37:28,50 	on a street corner, someone addresses a crowd from a soapbox.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS479 	01:14:14,00 --> 01:14:18,50 	someone addresses him.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS403 	01:13:43,00 --> 01:13:49,50 	dernier addresses someone, then converses with someone.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS500 	01:28:29,00 --> 01:28:37,50 	standing beneath the wing of a huge airplane, he addresses a small group of masked pilots.
-CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS476 	01:49:51,00 --> 01:49:55,50 	as someone goes to address his manager, halts his open mouth with his palm.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS239 	00:37:25,00 --> 00:37:50,50 	one of them addressed to someone curtis.
-DISTRICT_9.srt 	DISTRICT_9_DVS124 	00:14:40,00 --> 00:14:49,50 	as someone addresses another resident, the caption reads - district 9, zone 4.
 FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS92 	00:24:04,00 --> 00:24:09,50 	someone now addresses three executives.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS199 	00:32:14,00 --> 00:32:23,50 	in a back room, the tacky man addresses thugs counting cash.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS75 	00:18:45,00 --> 00:18:55,50 	inside, clark addresses high ranking soldiers and officials in a video conference.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS458 	01:40:39,00 --> 01:40:51,50 	someone addresses his new associates.
-IN_TIME.srt 	IN_TIME_DVS680 	01:13:42,00 --> 01:13:49,50 	someone gets out of his car, faces the plundered vault, and addresses the staring crowd.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS281 	01:18:42,00 --> 01:18:46,50 	he addresses the joint.
-JACK_AND_JILL.srt 	JACK_AND_JILL_DVS367 	01:08:27,00 --> 01:08:33,50 	someone addresses a mustached servant, who struggles to understand him.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS423 	01:22:16,00 --> 01:22:24,50 	someone addresses a postcard version of the valentine.
-JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS424 	01:22:27,00 --> 01:22:38,50 	someone ink stamps the postcard, wish you were here, and addresses it.
 KARATE_KID.srt 	KARATE_KID_DVS583 	00:51:48,00 --> 00:51:53,50 	someone addresses the instructor.
 KARATE_KID.srt 	KARATE_KID_DVS1140 	01:34:43,00 --> 01:34:50,50 	the father clasps his hands behind his back and addresses someone sternly.
 KATY_PERRY_PART_OF_ME.srt 	KATY_PERRY_PART_OF_ME_DVS34 	00:05:52,00 --> 00:05:57,50 	a woman dj addresses the cheering fans.
@@ -22,11 +15,7 @@ KATY_PERRY_PART_OF_ME.srt 	KATY_PERRY_PART_OF_ME_DVS128 	00:32:17,00 --> 00:32:2
 KATY_PERRY_PART_OF_ME.srt 	KATY_PERRY_PART_OF_ME_DVS170 	00:47:49,00 --> 00:47:54,50 	elsewhere, someone addresses five children.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS662 	01:21:54,00 --> 01:21:59,50 	captain addresses the others.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS163 	00:29:42,00 --> 00:29:48,50 	someone paces, then addresses his assembled task force.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS403 	01:18:30,00 --> 01:18:38,50 	as baby face pulls the car to a halt, someone addresses him with a frown.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS641 	02:00:44,00 --> 02:00:50,50 	outside, someone addresses his agents.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS170 	00:41:09,00 --> 00:41:15,50 	someone finds the bearded wavy haired nobleman addressing him and steps closer.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS275 	01:06:01,00 --> 01:06:09,50 	she strides to the center of the room to address him.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS332 	01:21:28,00 --> 01:21:35,50 	now, someone's mistress sits in the light of a blazing fire as someone addresses her.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS453 	01:52:47,00 --> 01:52:53,50 	later, someone addresses someone as he readies his horse.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS40 	00:06:10,00 --> 00:06:15,50 	on stage, someone addresses the audience.
 SALT.srt 	SALT_DVS436 	01:15:21,00 --> 01:15:26,50 	he addresses a bunker guard.

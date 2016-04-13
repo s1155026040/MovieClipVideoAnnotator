@@ -1,9 +1,4 @@
-500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS424 	01:15:04,00 --> 01:15:10,50 	someone exits the lift past a sign that reads, thank you for 75 years,
-DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS373 	01:30:54,00 --> 01:31:00,50 	someone mouths "thank you" then turns back to someone.
 JACK_AND_JILL.srt 	JACK_AND_JILL_DVS435 	01:21:06,00 --> 01:21:11,50 	someone mouths thank you to someone.
 JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS121 	00:42:40,00 --> 00:42:45,50 	someone mouths, thank you.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS448 	01:51:27,00 --> 01:51:48,50 	facing the servants, someone thanks them with a nod.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1223 	01:22:09,00 --> 01:22:15,50 	thank you for traveling all this way to celebrate our daughter's wedding.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS32 	00:06:42,00 --> 00:06:48,50 	the blond mouths thank you as she leaves.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1292 	01:56:35,00 --> 01:56:40,50 	comrades, thank you for your service.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS450 	00:51:52,00 --> 00:51:56,50 	someone bows and mouths, "thank you."

@@ -1,5 +1,1 @@
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS357 	00:50:56,00 --> 00:51:04,50 	someone turns someone' hand palm up and pries his fingers from someone's pocket watch.
-CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS248 	01:01:56,00 --> 01:02:05,50 	he reaches into his vest pocket, takes something out, and palms it.
 DISTRICT_9.srt 	DISTRICT_9_DVS207 	00:23:20,00 --> 00:23:32,50 	he palms the camera.
-PROMETHEUS.srt 	PROMETHEUS_DVS900 	01:39:46,00 --> 01:39:53,50 	the engineer turns someone around and palms her chest, knocking her off the platform.
-TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS526 	00:58:17,00 --> 00:58:22,50 	he turns his hand palm up demandingly.

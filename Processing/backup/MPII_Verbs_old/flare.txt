@@ -1,9 +1,11 @@
-0017_Pianist_00.30.48.138-00.30.49.199 	It flares into light, swivels and finds the man.
-1002_Harry_Potter_and_the_Half-Blood_Prince_02.00.54.930-02.01.10.824 	Dumbledore sends a ball of light across the lake, it rises and falls over the surface of the water then flares up illuminating a tiny island in the distance.
-1007_Spider-Man1_01.46.52.559-01.46.56.124 	spider-man's eyes flare and he grits his teeth.
+0017_Pianist_00.30.48.138-00.30.49.199 	it flares into light, swivels and finds the man.
+0021_Rear_Window_00.49.37.003-00.49.40.203 	suddenly a match flares, and we see the salesman light a cigar.
+1002_Harry_Potter_and_the_Half-Blood_Prince_00.36.46.172-00.36.50.252 	seamus's cauldron flares up, blackening his face.
+1002_Harry_Potter_and_the_Half-Blood_Prince_02.00.54.930-02.01.10.824 	dumbledore sends a ball of light across the lake, it rises and falls over the surface of the water then flares up illuminating a tiny island in the distance.
 1030_Public_Enemies_00.07.02.721-00.07.14.264 	gathering himself, he sniffs, flaring his nostrils, and stares forward with a steely gaze.
-1031_Quantum_of_Solace_00.07.17.428-00.07.23.541 	sun flares behind a pile of naked women.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.46.31.477-01.46.33.199 	the flame flared and died.
+1051_Harry_Potter_and_the_goblet_of_fire_00.32.27.639-00.32.31.198 	the flame flares again.
+1053_Harry_Potter_and_the_philosophers_stone_01.01.40.001-01.01.42.189 	a torch flares.
 1053_Harry_Potter_and_the_philosophers_stone_02.01.08.683-02.01.16.714 	torches flare up showing a floor of huge black and white squares.
-1053_Harry_Potter_and_the_philosophers_stone_02.01.08.683-02.01.16.714 	torches flare up showing a floor of huge black and white squares.
+1062_Day_the_Earth_stood_still_00.41.45.232-00.41.47.761 	flame flares from a stack at a refinery behind him.
 2051_Harry_Potter_and_the_goblet_of_fire_00.43.09.137-00.43.23.352 	the fire flares up a little, a face appears in it.

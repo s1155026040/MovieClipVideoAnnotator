@@ -1,0 +1,6 @@
+IRON_MAN_2.srt 	IRON_MAN_2_DVS263 	00:48:38,00 --> 00:48:44,50 	someone picks up his arc reactor from the desk and ejects a half-melted ingot.
+PROMETHEUS.srt 	PROMETHEUS_DVS948 	01:45:11,00 --> 01:45:18,50 	the lifeboat section ejects from the ship.
+PROMETHEUS.srt 	PROMETHEUS_DVS952 	01:45:34,00 --> 01:45:38,50 	the pod ejects from the ship
+SALT.srt 	SALT_DVS254 	00:43:39,00 --> 00:44:13,50 	by her open laptop, a printer ejects a page headed, subway system access tunnels.
+THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS767 	01:28:21,00 --> 01:28:31,50 	a printer ejects images of crime scene photos.
+XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS122 	00:07:57,00 --> 00:08:06,50 	a tall file cabinet in a corner ejects its drawers, then buckles.

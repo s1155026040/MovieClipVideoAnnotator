@@ -1,143 +1,161 @@
-0001_American_Beauty_00.13.55.541-00.13.57.956 	Teenage boys play a fast and furious game.
-0001_American_Beauty_00.17.17.897-00.17.19.950 	The HIGH SCHOOL BAND plays its last note, the Dancing Spartanettes strike their final pose, and the audience .
-0001_American_Beauty_00.13.55.541-00.13.57.956 	Teenage boys play a fast and furious game.
-0001_American_Beauty_00.17.17.897-00.17.19.950 	The HIGH SCHOOL BAND plays its last note, the Dancing Spartanettes strike their final pose, and the audience .
-0003_CASABLANCA_00.09.07.491-00.09.09.608 	We now see RICK, sitting at a table alone playing solitary chess.
-0003_CASABLANCA_00.31.35.456-00.31.38.211 	Sam begins to play a number.
-0003_CASABLANCA_00.32.38.688-00.32.40.359 	Sam begins to play it very softly.
-0003_CASABLANCA_00.37.15.060-00.37.25.085 	Sam sits down at the piano and starts to play softly, improvising.
-0004_Charade_01.29.00.858-01.29.02.630 	2.Rond Point de Champs-Elys es with fountains playing
-0006_Clerks_00.56.26.206-00.56.31.858 	DANTE plays block.
-0007_DIE_NACHT_DES_JAEGERS_01.00.22.474-01.00.25.521 	PEARL plays with doll JOHN unsnarls line.
-0009_Forrest_Gump_00.10.55.055-00.10.56.728 	Mrs. Gump opens the door, revealing a young man with long sideburns as he plays the guitar and sings.
-0009_Forrest_Gump_00.11.24.589-00.11.27.333 	Forrest begins to dance again as Elvis plays the guitar and sings.
-0009_Forrest_Gump_00.59.31.293-00.59.34.192 	A group of wounded soldier sit and watch Forrest play with himself.
-0009_Forrest_Gump_01.02.06.104-01.02.10.596 	Forrest plays ping-pong by himself.
-0009_Forrest_Gump_01.11.03.937-01.11.08.770 	Jenny plays the guitar.
-0009_Forrest_Gump_01.14.05.665-01.14.11.547 	Forrest plays ping-pong against a Chinese player.
-0009_Forrest_Gump_01.21.49.699-01.21.51.562 	They kiss and play around.
-0009_Forrest_Gump_01.26.20.093-01.26.25.142 	In the house are stacks of ping-pong paddles and life-sized cardboard cutouts of Forrest playing ping-pong.
-0009_Forrest_Gump_01.26.54.617-01.26.58.034 	A group of black kids play in the front yard.
-0009_Forrest_Gump_02.10.29.683-02.10.33.593 	Forrest tries to teach Forrest Jr. how to play ping-pong.
-0011_Gandhi_00.51.21.819-00.51.24.819 	Charlie, his trousers rolled up, plays a tentative splashing game with a skinny little Indian boy.
-0011_Gandhi_01.14.59.672-01.15.00.522 	But even so the Governor feels the game has not quite been played fairly.
-0011_Gandhi_02.41.42.053-02.41.47.074 	A band plays the Indian National Anthem loudly and there is the roar of a tremendous crowd as the green, white and saffron flag of India is raised on the flagpole.
-0011_Gandhi_02.41.49.750-02.41.51.914 	A band plays the new Pakistani National Anthem loudly and there is the roar of a tremendous crowd as the white, green with white crescent, flag of Pakistan is raised on the flagpole.
-0012_Get_Shorty_00.08.23.918-00.08.48.052 	Chili and Tommy each sit in a barber chair, reading the newspaper while Fred and Ed sit nearby playing checkers.
-0012_Get_Shorty_01.14.28.977-01.14.32.789 	Scrambling now to play it the way Chili taught him, Harry quickly gestures to the red leather chair arross the desk.
-0014_Ist_das_Leben_nicht_schoen_00.45.16.852-00.45.25.230 	There is silence for a moment, then Mary joins in singing with the phonograph record which has been playing all through the above scene.
-0014_Ist_das_Leben_nicht_schoen_01.30.25.369-01.30.27.469 	He yells at Tommy, noisily playing with his vacuum cleaner.
-0016_O_Brother_Where_Art_Thou_00.12.30.802-00.12.38.350 	A spotlight plays over the hayloft ceiling and a voice booms.
-0016_O_Brother_Where_Art_Thou_00.25.23.433-00.25.27.192 	The three singing convicts form a semi-circle behind Tommy, who plays his guitar into a can microphone.
-0016_O_Brother_Where_Art_Thou_00.27.55.395-00.28.05.509 	Tommy sits in the background, playing and singing a slow blues.
-0016_O_Brother_Where_Art_Thou_01.04.47.150-01.05.00.623 	Romantic music tinnily plays as Delmar and Everett watch, Everett slumped down and angrily hissing.
-0017_Pianist_00.12.22.784-00.12.25.862 	He plays, makes adjustments with a pencil to the manuscript, plays again.
-0017_Pianist_00.13.49.385-00.13.50.394 	They play an octave, harsh, toneless, with straight fingers.
-0017_Pianist_00.19.05.155-00.19.09.571 	Meanwhile, a street band begins to play a waltz.
-0017_Pianist_00.31.18.233-00.31.23.253 	Szpilman, as if in another world, playing the piano.
-0017_Pianist_01.19.20.822-01.19.23.969 	Then the sound of a piano being played with great feeling but a lot of wrong notes.
-0017_Pianist_01.33.15.038-01.33.18.786 	Dorota, partially turned away from him, plays Bach on the cello.
-0017_Pianist_02.04.18.084-02.04.47.052 	Szpilman glances surreptitiously at his hands, and then he plays Chopin.
-0017_Pianist_02.19.17.783-02.19.25.948 	Szpilman playing the piano.
-0017_Pianist_02.21.38.507-02.21.56.597 	Szpilman plays Chopin's Piano Concerto No 1 with full orchestra and conductor.
-0017_Pianist_02.22.00.385-02.22.03.183 	He plays superbly.
-0019_Pulp_Fiction_00.35.59.997-00.36.14.355 	The YUPPIES are dancing, the DINERS are biting into big, juicy hamburgers, and the icons are playing their parts.
-0019_Pulp_Fiction_00.51.01.498-00.51.13.245 	The speakers BLAST OUT a high energy country number, which Mia plays air-guitar to.
-0019_Pulp_Fiction_00.53.38.536-00.53.41.272 	Like a little girl playing cowboy, she spreads the tobacco on some rolling paper.
-0019_Pulp_Fiction_02.01.37.525-02.01.42.469 	We SEE a crap game being played on a fancy crap table by GAMBLERS in tuxedos and LUCKY LADIES in fancy evening gowns.
-0020_Raising_Arizona_00.26.50.343-00.26.51.121 	Hi sits gingerly on the edge of the bed and, smiling, sticks a finger through the bars of the crib to play with the baby.
-0020_Raising_Arizona_00.47.59.303-00.47.59.588 	He emerges into a rec room where he and we rush past two kids playing ping-pong.
-0021_Rear_Window_00.06.00.652-00.06.02.062 	It is a simple, but broken, melody as if someone was just learning to play the piano, or carefully composing a song.
-0021_Rear_Window_00.43.13.362-00.43.14.485 	He plays a couple of notes with one hand, while he stands.
-0021_Rear_Window_00.43.14.485-00.43.18.582 	Listens, plays them again.
-0021_Rear_Window_00.46.22.833-00.46.23.833 	Although it is not complete, it is farther along then before, and he plays his theme a number of different ways, trying to move it note by note to its completion.
-0021_Rear_Window_01.02.36.739-01.02.37.382 	She comments on it to the songwriter, who starts from the beginning again, playing it more fully.
-0022_Reservoir_Dogs_01.12.52.108-01.13.01.456 	THE CAMERA PANS away from the sheriffs to Freddy, up against the urinal, playing possum, pretending to piss.
-0023_THE_BUTTERFLY_EFFECT_00.02.20.686-00.02.28.194 	In the driveway, 7-year old Evan plays with CRICKETT, a frisky cocker spaniel puppy.
-0023_THE_BUTTERFLY_EFFECT_00.29.27.078-00.29.35.026 	Evan and Thumper play pool against two young women.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.54.56.456-00.55.03.905 	STRIDER SHEATHS his sword, a slight smile playing on his lips.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.13.51.397-01.13.56.836 	Frodo's eyes flicker Open He is lying in bed next to an Open Window.Dappled sunlight plays on richly carved timbers.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.48.00.735-00.48.03.309 	GANDALF, a strange smile plays on his face.
-0026_The_Big_Fish_00.23.59.996-00.24.03.452 	Edward picks up a stone, ready to play David to Goliath.
-0026_The_Big_Fish_00.58.14.919-00.58.16.272 	It bounces excitedly, ready to play fetch.
-0026_The_Big_Fish_00.58.35.590-00.58.36.684 	Exhausted from playing fetch all night, Edward throws the stick into the woods.
-0026_The_Big_Fish_01.36.38.750-01.36.39.981 	With her back turned to him, Jenny Hill plays the piano.
-0027_The_Big_Lebowski_00.06.10.617-00.06.15.487 	Music and head credits play over various bowling shots--pins flying, etc.
-0027_The_Big_Lebowski_00.32.13.962-00.32.15.624 	The headlights play over Walter standing waiting in front of the storefront of SOBCHAK SECURITY.
-0028_The_Crying_Game_00.37.07.671-00.37.14.367 	Fergus gains on him--stretches his arm out--but Jody sprints ahead again--as if he has been playing with him.
-0028_The_Crying_Game_01.41.59.468-01.42.03.660 	The music of the song plays in the background.
-0028_The_Crying_Game_01.42.27.006-01.42.30.204 	Dil shoots again, like a child, playing with a toy.
-0029_The_Graduate_01.02.57.696-01.02.58.187 	Its RADIO is tuned into a rock and roll station and it is playing LOUDLY.
-0030_The_Hustler_00.18.09.984-00.18.23.938 	Fats plays quickly, moving from shot to shot with studied authority, his eyes and hands working fluidly together.
-0030_The_Hustler_00.24.09.575-00.24.14.040 	They stand up, remove their jackets, and prepare to play again.
-0030_The_Hustler_00.24.14.567-00.24.16.516 	As Preacher opens the door to the back room, clutching a paper bag filled with bottles to his chest, we see six men seated around a table, playing poker.
-0030_The_Hustler_01.53.25.608-01.53.29.141 	Bert eyes Eddie with controlled rage as the two get ready to play again.
-0031_The_Lost_Weekend_00.13.35.879-00.13.39.415 	He puts it down and starts playing the nonchalant, casual drinker -- the man who can take it or leave it.
-0031_The_Lost_Weekend_00.42.41.620-00.42.44.715 	From now on the scene plays in dimness, save for the shaft of light from the entrance hall.
-0033_Amadeus_00.05.29.701-00.05.31.359 	He propels his wheelchair to the forte-piano, and plays an unrecognizable melody.
-0033_Amadeus_00.07.02.128-00.07.04.740 	He plays another tune.
-0033_Amadeus_00.07.32.593-00.07.37.720 	He plays it with growing enthusiasm.
-0033_Amadeus_00.08.41.484-00.08.49.154 	Slyly he plays the opening measure of Mozart's Eine Kleine Nachtmusik.
-0033_Amadeus_00.10.11.482-00.10.16.469 	We see the six-year-old MOZART, also blindfolded, seated in a gilded chair on a pile of books, playing the harpsichord for the POPE and a suite of CARDINALS and other churchmen.
-0033_Amadeus_00.14.47.721-00.14.49.322 	A small group of Gypsy musicians is playing in the background.
-0033_Amadeus_00.28.41.993-00.28.48.426 	The Emperor goes to the instrument, sits and plays the first bars of it.
-0033_Amadeus_00.29.39.351-00.29.43.032 	He plays a wrong note.
-0033_Amadeus_00.35.53.158-00.35.58.692 	Mozart plays the first half of the march with deadly accuracy.
-0033_Amadeus_00.36.15.654-00.36.32.553 	He plays the first half again but stops in the middle of a phrase, which he repeats dubiously.
-0033_Amadeus_00.37.18.543-00.37.19.484 	He plays another phrase.
-0033_Amadeus_00.37.17.370-00.37.18.543 	He plays another phrase.
-0033_Amadeus_00.37.13.963-00.37.16.365 	He plays it with increasing abandon and virtuosity.
-0033_Amadeus_01.15.45.485-01.15.45.963 	Amazed, Mozart starts to play the Rondo again.
-0033_Amadeus_01.26.37.847-01.26.40.213 	Saremo cosi plays in the background.
-0033_Amadeus_01.31.33.236-01.31.35.949 	Mozart is actually playing the final movement of his E-flat concerto with an orchestra.
-0033_Amadeus_01.31.44.024-01.31.45.199 	Leopold and Constanze listen to Mozart, who plays his own work brilliantly.
-0033_Amadeus_01.32.00.936-01.32.06.736 	Mozart is conducting and playing in a reflective mood.
-0041_The_Sixth_Sense_00.12.41.292-00.12.46.467 	Malcolm finds Cole playing in his pew with a set of green and beige plastic soldiers.
-0041_The_Sixth_Sense_00.30.42.007-00.30.52.368 	Cole is playing behind the couch.
-0041_The_Sixth_Sense_00.30.58.603-00.31.01.773 	Every now and then we get glimpses of things Cole is playing with peeking over the back of the couch, but we can't quite make out what he's doing.
-0043_Thelma_and_Luise_01.14.56.839-01.15.02.957 	Hal, Max, various other cops, and Darryl all watch as TV plays back VCR TAPE of Thelma in the convenience store pulling a gun.
-0049_Hannah_and_her_sisters_00.05.09.736-00.05.11.838 	And the film cuts briefly back to the living room, where Evan is still playing the piano and singing.
-0049_Hannah_and_her_sisters_00.05.22.611-00.05.26.121 	Hannah's children are playing in the room as Hannah enters, carrying a huge roast turkey.
-0049_Hannah_and_her_sisters_00.08.57.747-00.09.02.303 	Classical string music plays as the film cuts to.
-0049_Hannah_and_her_sisters_00.09.32.176-00.09.42.681 	The classical music still plays in the background.
-0049_Hannah_and_her_sisters_00.24.34.109-00.25.10.573 	The jazz plays on as the movie cuts back and forth between the fast-moving Elliot, rushing down the SoHo streets, past a truck waiting for a light to change, past some pedestrians, some garbage cans, turning corners, and the strolling Lee, walking up different streets, past different buildings.
-0049_Hannah_and_her_sisters_00.29.01.268-00.29.09.863 	Upbeat jazz begins to play and the film cuts to: The facade of Mount Sinai Hospital.
-0049_Hannah_and_her_sisters_00.39.06.359-00.39.13.737 	The record plays for a few moments in the quiet room, as Elliot walks over to Lee and leans against the shelf near her.
-0049_Hannah_and_her_sisters_00.39.51.519-00.39.57.972 	Lee looks down again; the music plays softly and Elliot continues to stare at her, thinking.
-0049_Hannah_and_her_sisters_00.46.45.169-00.46.51.384 	Evan can be seen playing the piano as they continue their conversation.
-0049_Hannah_and_her_sisters_00.52.21.161-00.52.38.955 	The harpsichord music begins to play again as the camera moves over the bed covers to reveal Lee, lying contentedly under the sheets, her hair fanned out on the pillows, one arm near her head.
-0049_Hannah_and_her_sisters_01.01.17.603-01.01.27.009 	As the band loudly plays on, the camera moves across the spellbound audience, sitting at crowded, smoky, small tables, to reveal a stricken Mickey and a mesmerized Holly squeezed together at one of them.
-0049_Hannah_and_her_sisters_01.03.48.018-01.03.53.935 	The film cuts back briefly to Bobby Short playing the piano.
-0049_Hannah_and_her_sisters_01.15.19.717-01.15.26.036 	The hymn plays on, loudly, as the camera moves back, revealing Mickey, standing outside a barber shop window, looking at the Christ playing and shuffling from side to side to gets its eyes' 3-D effect.
-0049_Hannah_and_her_sisters_01.23.58.117-01.24.00.395 	Evan continues to laugh with everyone as he starts to play the piano.
-0049_Hannah_and_her_sisters_01.24.04.379-01.24.07.964 	Evan is playing the piano with exuberance.
-0049_Hannah_and_her_sisters_01.37.46.632-01.37.53.447 	The film abruptly cuts to the theater's black-and-white screen, where the Marx Brothers, in Duck Soup, play the helmets of several soldiers standing in a line like a live xylophone.
-0049_Hannah_and_her_sisters_01.38.54.930-01.39.00.475 	The Marx Brothers are sitting on a judge's bench, playing banjos and singing with the other cast members.
-0049_Hannah_and_her_sisters_01.40.20.883-01.40.22.823 	It is crowded with guests; Hannah's children play in their midst.
-0050_Indiana_Jones_and_the_last_crusade_00.10.40.640-00.10.41.720 	just as Herman comes through the front door, still playing the trumpet.
-1001_Flight_01.55.20.338-01.55.28.517 	In the hearing room, cell phone footage of the plane crash is played on a large screen.
-1001_Flight_02.09.06.073-02.09.09.440 	A smile plays on his lips.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.02.03.184-01.02.03.530 	The game is played in a snowstorm.
-1003_How_to_Lose_Friends_and_Alienate_People_00.01.25.687-00.01.31.087 	Seated guests clap as a movie clip plays at an award ceremony.
-1003_How_to_Lose_Friends_and_Alienate_People_01.05.54.692-01.05.58.608 	Shimmering lights play on the rippling surface of the swimming pool.
-1003_How_to_Lose_Friends_and_Alienate_People_01.27.30.975-01.27.34.742 	A wide smile plays on his lips.
-1004_Juno_00.06.45.714-00.06.47.692 	There's a photo of Bleeker playing his guitar.
-1004_Juno_00.57.09.876-00.57.17.607 	She stands up and looks elsewhere, but Juno stays where she is, gazing down at Vanessa playing with the little girl.
-1004_Juno_01.14.54.939-01.15.01.302 	Up in his room, Bleeker is playing his guitar.
-1006_Slumdog_Millionaire_00.06.01.615-00.06.05.832 	A group of scruffy young boys in filthy t-shirts and shorts play cricket on a runway.
-1006_Slumdog_Millionaire_00.18.54.617-00.18.56.183 	The policemen are playing cards.
-1006_Slumdog_Millionaire_00.25.09.158-00.25.11.722 	The bus arrives at a large dilapidated residence where numerous children of all ages run around playing in the yard.
-1006_Slumdog_Millionaire_00.25.14.984-00.25.16.180 	Others play on swings.
-1006_Slumdog_Millionaire_00.27.03.877-00.27.08.664 	Jamal stops playing and watches his brother.
-1006_Slumdog_Millionaire_00.48.54.360-00.48.56.292 	The video plays in the police station.
-1006_Slumdog_Millionaire_01.00.55.946-01.01.03.781 	On a large balcony above the cinema, six men are drinking and playing a gambling game.
-1007_Spider-Man1_00.26.31.229-00.26.33.029 	Two children playing with a skipping rope are oblivious as Peter lounges himself into the air way above their heads.
+0001_American_Beauty_00.13.55.541-00.13.57.956 	teenage boys play a fast and furious game.
+0001_American_Beauty_00.17.17.897-00.17.19.950 	the high school band plays its last note, the dancing spartanettes strike their final pose, and the audience .
+0003_CASABLANCA_00.09.07.491-00.09.09.608 	we now see rick, sitting at a table alone playing solitary chess.
+0003_CASABLANCA_00.22.45.434-00.22.46.788 	sam nods and begins to play.
+0003_CASABLANCA_00.31.20.603-00.31.26.809 	he sits down and is ready to play.
+0003_CASABLANCA_00.31.35.456-00.31.38.211 	sam begins to play a number.
+0003_CASABLANCA_00.32.38.688-00.32.40.359 	sam begins to play it very softly.
+0003_CASABLANCA_00.33.38.458-00.33.40.738 	sam stops playing.
+0003_CASABLANCA_00.37.15.060-00.37.25.085 	sam sits down at the piano and starts to play softly, improvising.
+0003_CASABLANCA_00.40.20.229-00.40.30.533 	they appear to be very much in love as the music plays.
+0003_CASABLANCA_01.12.49.131-01.12.55.861 	laszlo and corina sing as they start to play.
+0004_Charade_01.29.00.858-01.29.02.630 	2.rond point de champs-elys es with fountains playing
+0009_Forrest_Gump_00.10.55.055-00.10.56.728 	mrs. gump opens the door, revealing a young man with long sideburns as he plays the guitar and sings.
+0009_Forrest_Gump_00.11.24.589-00.11.27.333 	forrest begins to dance again as elvis plays the guitar and sings.
+0009_Forrest_Gump_01.02.06.104-01.02.10.596 	forrest plays ping-pong by himself.
+0009_Forrest_Gump_01.11.03.937-01.11.08.770 	jenny plays the guitar.
+0009_Forrest_Gump_01.14.05.665-01.14.11.547 	forrest plays ping-pong against a chinese player.
+0009_Forrest_Gump_01.21.49.699-01.21.51.562 	they kiss and play around.
+0009_Forrest_Gump_01.26.20.093-01.26.25.142 	in the house are stacks of ping-pong paddles and life-sized cardboard cutouts of forrest playing ping-pong.
+0009_Forrest_Gump_01.26.54.617-01.26.58.034 	a group of black kids play in the front yard.
+0009_Forrest_Gump_02.10.29.683-02.10.33.593 	forrest tries to teach forrest jr. how to play ping-pong.
+0011_Gandhi_00.51.21.819-00.51.24.819 	charlie, his trousers rolled up, plays a tentative splashing game with a skinny little indian boy.
+0011_Gandhi_01.14.59.672-01.15.00.522 	but even so the governor feels the game has not quite been played fairly.
+0011_Gandhi_02.08.33.529-02.08.35.205 	a little band of drummers and flute players suddenly begins to play.
+0011_Gandhi_02.41.42.053-02.41.47.074 	a band plays the indian national anthem loudly and there is the roar of a tremendous crowd as the green, white and saffron flag of india is raised on the flagpole.
+0011_Gandhi_02.41.49.750-02.41.51.914 	a band plays the new pakistani national anthem loudly and there is the roar of a tremendous crowd as the white, green with white crescent, flag of pakistan is raised on the flagpole.
+0012_Get_Shorty_00.08.23.918-00.08.48.052 	chili and tommy each sit in a barber chair, reading the newspaper while fred and ed sit nearby playing checkers.
+0012_Get_Shorty_01.14.28.977-01.14.32.789 	scrambling now to play it the way chili taught him, harry quickly gestures to the red leather chair arross the desk.
+0014_Ist_das_Leben_nicht_schoen_00.19.00.269-00.19.03.215 	at one end of the room an orchestra is playing.
+0014_Ist_das_Leben_nicht_schoen_00.45.16.852-00.45.25.230 	there is silence for a moment, then mary joins in singing with the phonograph record which has been playing all through the above scene.
+0014_Ist_das_Leben_nicht_schoen_01.14.51.737-01.14.53.158 	mary sitting on the floor playing with a baby.
+0014_Ist_das_Leben_nicht_schoen_01.30.25.369-01.30.27.469 	he yells at tommy, noisily playing with his vacuum cleaner.
+0016_O_Brother_Where_Art_Thou_00.12.30.802-00.12.38.350 	a spotlight plays over the hayloft ceiling and a voice booms.
+0016_O_Brother_Where_Art_Thou_00.25.23.433-00.25.27.192 	the three singing convicts form a semi-circle behind tommy, who plays his guitar into a can microphone.
+0016_O_Brother_Where_Art_Thou_01.04.47.150-01.05.00.623 	romantic music tinnily plays as delmar and everett watch, everett slumped down and angrily hissing.
+0016_O_Brother_Where_Art_Thou_01.20.48.938-01.20.52.465 	headlights play; the men suck back into the alley as a car passes by.
+0017_Pianist_00.12.22.784-00.12.25.862 	he plays, makes adjustments with a pencil to the manuscript, plays again.
+0017_Pianist_00.13.49.385-00.13.50.394 	they play an octave, harsh, toneless, with straight fingers.
+0017_Pianist_00.19.05.155-00.19.09.571 	meanwhile, a street band begins to play a waltz.
+0017_Pianist_00.31.18.233-00.31.23.253 	szpilman, as if in another world, playing the piano.
+0017_Pianist_01.19.20.822-01.19.23.969 	then the sound of a piano being played with great feeling but a lot of wrong notes.
+0017_Pianist_01.33.15.038-01.33.18.786 	dorota, partially turned away from him, plays bach on the cello.
+0017_Pianist_01.36.25.749-01.36.35.778 	then, without touching the keys, his fingers floating just above them, he plays.
+0017_Pianist_02.04.18.084-02.04.47.052 	szpilman glances surreptitiously at his hands, and then he plays chopin.
+0017_Pianist_02.19.17.783-02.19.25.948 	szpilman playing the piano.
+0017_Pianist_02.21.38.507-02.21.56.597 	szpilman plays chopin's piano concerto no 1 with full orchestra and conductor.
+0017_Pianist_02.22.00.385-02.22.03.183 	he plays superbly.
+0019_Pulp_Fiction_00.35.59.997-00.36.14.355 	the yuppies are dancing, the diners are biting into big, juicy hamburgers, and the icons are playing their parts.
+0019_Pulp_Fiction_00.51.01.498-00.51.13.245 	the speakers blast out a high energy country number, which mia plays air-guitar to.
+0019_Pulp_Fiction_00.53.38.536-00.53.41.272 	like a little girl playing cowboy, she spreads the tobacco on some rolling paper.
+0019_Pulp_Fiction_02.01.37.525-02.01.42.469 	we see a crap game being played on a fancy crap table by gamblers in tuxedos and lucky ladies in fancy evening gowns.
+0020_Raising_Arizona_00.26.50.343-00.26.51.121 	hi sits gingerly on the edge of the bed and, smiling, sticks a finger through the bars of the crib to play with the baby.
+0020_Raising_Arizona_00.26.51.526-00.26.54.770 	hi is momentarily startled, then goes on playing with the baby.
+0020_Raising_Arizona_00.47.59.303-00.47.59.588 	he emerges into a rec room where he and we rush past two kids playing ping-pong.
+0021_Rear_Window_00.06.00.652-00.06.02.062 	it is a simple, but broken, melody as if someone was just learning to play the piano, or carefully composing a song.
+0021_Rear_Window_00.43.13.362-00.43.14.485 	he plays a couple of notes with one hand, while he stands.
+0021_Rear_Window_00.43.14.485-00.43.18.582 	listens, plays them again.
+0021_Rear_Window_00.46.22.833-00.46.23.833 	although it is not complete, it is farther along then before, and he plays his theme a number of different ways, trying to move it note by note to its completion.
+0021_Rear_Window_01.02.36.739-01.02.37.382 	she comments on it to the songwriter, who starts from the beginning again, playing it more fully.
+0022_Reservoir_Dogs_01.12.52.108-01.13.01.456 	the camera pans away from the sheriffs to freddy, up against the urinal, playing possum, pretending to piss.
+0023_THE_BUTTERFLY_EFFECT_00.02.20.686-00.02.28.194 	in the driveway, 7-year old evan plays with crickett, a frisky cocker spaniel puppy.
+0023_THE_BUTTERFLY_EFFECT_00.03.46.960-00.03.51.465 	evan is surprised to see his mother enter with mrs. boswell, but continues playing with kayleigh, now seven, a quiet, sweet-looking girl.
+0023_THE_BUTTERFLY_EFFECT_00.04.16.449-00.04.19.192 	andrea sees evan playing with lenny, harmless as a bunny, and struggles to control her concern.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.48.00.735-00.48.03.309 	gandalf, a strange smile plays on his face.
+0026_The_Big_Fish_00.23.59.996-00.24.03.452 	edward picks up a stone, ready to play david to goliath.
+0026_The_Big_Fish_00.58.14.919-00.58.16.272 	it bounces excitedly, ready to play fetch.
+0026_The_Big_Fish_00.58.35.590-00.58.36.684 	exhausted from playing fetch all night, edward throws the stick into the woods.
+0026_The_Big_Fish_01.36.38.750-01.36.39.981 	with her back turned to him, jenny hill plays the piano.
+0026_The_Big_Fish_01.36.44.992-01.37.04.130 	she keeps playing.
+0026_The_Big_Fish_01.37.15.215-01.37.16.234 	jenny stops playing, her piece not quite finished.
+0027_The_Big_Lebowski_00.06.10.617-00.06.15.487 	music and head credits play over various bowling shots--pins flying, etc.
+0027_The_Big_Lebowski_00.32.13.962-00.32.15.624 	the headlights play over walter standing waiting in front of the storefront of sobchak security.
+0028_The_Crying_Game_00.37.07.671-00.37.14.367 	fergus gains on him--stretches his arm out--but jody sprints ahead again--as if he has been playing with him.
+0028_The_Crying_Game_01.42.27.006-01.42.30.204 	dil shoots again, like a child, playing with a toy.
+0029_The_Graduate_01.02.57.696-01.02.58.187 	its radio is tuned into a rock and roll station and it is playing loudly.
+0030_The_Hustler_00.00.53.415-00.00.54.550 	the few people in armstead's this day are not playing; they sit and read the papers.
+0030_The_Hustler_00.20.50.462-00.20.54.677 	charlie, swallowing hard; eddie, looking on, waiting to play;
+0030_The_Hustler_00.24.09.575-00.24.14.040 	they stand up, remove their jackets, and prepare to play again.
+0030_The_Hustler_00.24.14.567-00.24.16.516 	as preacher opens the door to the back room, clutching a paper bag filled with bottles to his chest, we see six men seated around a table, playing poker.
+0030_The_Hustler_00.25.07.324-00.25.09.381 	eddie squirms out of his seat, eager to play, eager to go on winning.
+0030_The_Hustler_01.08.58.535-01.08.59.269 	four men are playing.
+0030_The_Hustler_01.28.11.109-01.28.16.587 	bert gordon enters, and watches him play.
+0030_The_Hustler_01.53.25.608-01.53.29.141 	bert eyes eddie with controlled rage as the two get ready to play again.
+0030_The_Hustler_02.04.59.220-02.05.02.438 	fats rises, ready to play.
+0030_The_Hustler_02.06.45.132-02.06.50.148 	as he plays, he talks to bert.
+0031_The_Lost_Weekend_00.13.35.879-00.13.39.415 	he puts it down and starts playing the nonchalant, casual drinker -- the man who can take it or leave it.
+0031_The_Lost_Weekend_00.42.41.620-00.42.44.715 	from now on the scene plays in dimness, save for the shaft of light from the entrance hall.
+0033_Amadeus_00.05.29.701-00.05.31.359 	he propels his wheelchair to the forte-piano, and plays an unrecognizable melody.
+0033_Amadeus_00.07.02.128-00.07.04.740 	he plays another tune.
+0033_Amadeus_00.07.32.593-00.07.37.720 	he plays it with growing enthusiasm.
+0033_Amadeus_00.08.41.484-00.08.49.154 	slyly he plays the opening measure of mozart's eine kleine nachtmusik.
+0033_Amadeus_00.10.11.482-00.10.16.469 	we see the six-year-old mozart, also blindfolded, seated in a gilded chair on a pile of books, playing the harpsichord for the pope and a suite of cardinals and other churchmen.
+0033_Amadeus_00.14.47.721-00.14.49.322 	a small group of gypsy musicians is playing in the background.
+0033_Amadeus_00.20.17.011-00.20.27.469 	guests turn around as mozart appears - bowing to the archbishop - and walks with an attempt at dignity to the dais where the wind band is playing.
+0033_Amadeus_00.28.41.993-00.28.48.426 	the emperor goes to the instrument, sits and plays the first bars of it.
+0033_Amadeus_00.29.39.351-00.29.43.032 	he plays a wrong note.
+0033_Amadeus_00.35.53.158-00.35.58.692 	mozart plays the first half of the march with deadly accuracy.
+0033_Amadeus_00.36.15.654-00.36.32.553 	he plays the first half again but stops in the middle of a phrase, which he repeats dubiously.
+0033_Amadeus_00.37.18.543-00.37.19.484 	he plays another phrase.
+0033_Amadeus_00.37.17.370-00.37.18.543 	he plays another phrase.
+0033_Amadeus_00.37.13.963-00.37.16.365 	he plays it with increasing abandon and virtuosity.
+0033_Amadeus_01.15.45.485-01.15.45.963 	amazed, mozart starts to play the rondo again.
+0033_Amadeus_01.26.40.213-01.26.41.517 	standing at the billiard table, mozart is dreamily hearing the music and playing shots on the table.
+0033_Amadeus_01.31.33.236-01.31.35.949 	mozart is actually playing the final movement of his e-flat concerto with an orchestra.
+0033_Amadeus_01.31.44.024-01.31.45.199 	leopold and constanze listen to mozart, who plays his own work brilliantly.
+0033_Amadeus_01.32.00.936-01.32.06.736 	mozart is conducting and playing in a reflective mood.
+0041_The_Sixth_Sense_00.12.41.292-00.12.46.467 	malcolm finds cole playing in his pew with a set of green and beige plastic soldiers.
+0041_The_Sixth_Sense_00.30.42.007-00.30.52.368 	cole is playing behind the couch.
+0041_The_Sixth_Sense_00.30.58.603-00.31.01.773 	every now and then we get glimpses of things cole is playing with peeking over the back of the couch, but we can't quite make out what he's doing.
+0046_Chasing_Amy_00.18.48.443-00.18.53.295 	it's a club - people are mingling, a band is playing, it's loud.
+0049_Hannah_and_her_sisters_00.05.09.736-00.05.11.838 	and the film cuts briefly back to the living room, where evan is still playing the piano and singing.
+0049_Hannah_and_her_sisters_00.05.22.611-00.05.26.121 	hannah's children are playing in the room as hannah enters, carrying a huge roast turkey.
+0049_Hannah_and_her_sisters_00.09.02.257-00.09.10.049 	a taxi moves down broadway towards the camera, passing a truck on the right, the winter garden marquee advertising cats, and several buildings, and as the taxi moves offscreen, the classical music still playing, the movie cuts to the taxi's backseat.
+0049_Hannah_and_her_sisters_00.09.32.176-00.09.42.681 	the classical music still plays in the background.
+0049_Hannah_and_her_sisters_00.13.20.087-00.13.29.750 	hannah continues to nod patiently, patting mickey on the back, as they make their way across the foyer into the den, where the twins are playing.
+0049_Hannah_and_her_sisters_00.24.34.109-00.25.10.573 	the jazz plays on as the movie cuts back and forth between the fast-moving elliot, rushing down the soho streets, past a truck waiting for a light to change, past some pedestrians, some garbage cans, turning corners, and the strolling lee, walking up different streets, past different buildings.
+0049_Hannah_and_her_sisters_00.29.01.268-00.29.09.863 	upbeat jazz begins to play and the film cuts to: the facade of mount sinai hospital.
+0049_Hannah_and_her_sisters_00.39.06.359-00.39.13.737 	the record plays for a few moments in the quiet room, as elliot walks over to lee and leans against the shelf near her.
+0049_Hannah_and_her_sisters_00.39.51.519-00.39.57.972 	lee looks down again; the music plays softly and elliot continues to stare at her, thinking.
+0049_Hannah_and_her_sisters_00.46.45.169-00.46.51.384 	evan can be seen playing the piano as they continue their conversation.
+0049_Hannah_and_her_sisters_00.52.21.161-00.52.38.955 	the harpsichord music begins to play again as the camera moves over the bed covers to reveal lee, lying contentedly under the sheets, her hair fanned out on the pillows, one arm near her head.
+0049_Hannah_and_her_sisters_01.01.17.603-01.01.27.009 	as the band loudly plays on, the camera moves across the spellbound audience, sitting at crowded, smoky, small tables, to reveal a stricken mickey and a mesmerized holly squeezed together at one of them.
+0049_Hannah_and_her_sisters_01.03.48.018-01.03.53.935 	the film cuts back briefly to bobby short playing the piano.
+0049_Hannah_and_her_sisters_01.15.19.717-01.15.26.036 	the hymn plays on, loudly, as the camera moves back, revealing mickey, standing outside a barber shop window, looking at the christ playing and shuffling from side to side to gets its eyes' 3-d effect.
+0049_Hannah_and_her_sisters_01.15.30.334-01.15.31.408 	with the hymn still playing, the screen goes black briefly.
+0049_Hannah_and_her_sisters_01.23.58.117-01.24.00.395 	evan continues to laugh with everyone as he starts to play the piano.
+0049_Hannah_and_her_sisters_01.24.00.075-01.24.05.547 	the camera moves around the room as he plays, showing the various guests, chattering over the music.
+0049_Hannah_and_her_sisters_01.24.04.379-01.24.07.964 	evan is playing the piano with exuberance.
+0049_Hannah_and_her_sisters_01.37.46.632-01.37.53.447 	the film abruptly cuts to the theater's black-and-white screen, where the marx brothers, in duck soup, play the helmets of several soldiers standing in a line like a live xylophone.
+0049_Hannah_and_her_sisters_01.38.54.930-01.39.00.475 	the marx brothers are sitting on a judge's bench, playing banjos and singing with the other cast members.
+0049_Hannah_and_her_sisters_01.40.20.883-01.40.22.823 	it is crowded with guests; hannah's children play in their midst.
+0050_Indiana_Jones_and_the_last_crusade_00.10.40.640-00.10.41.720 	just as herman comes through the front door, still playing the trumpet.
+1001_Flight_01.55.20.338-01.55.28.517 	in the hearing room, cell phone footage of the plane crash is played on a large screen.
+1001_Flight_02.09.06.073-02.09.09.440 	a smile plays on his lips.
+1002_Harry_Potter_and_the_Half-Blood_Prince_01.02.03.184-01.02.03.530 	the game is played in a snowstorm.
+1003_How_to_Lose_Friends_and_Alienate_People_00.01.25.687-00.01.31.087 	seated guests clap as a movie clip plays at an award ceremony.
+1003_How_to_Lose_Friends_and_Alienate_People_01.05.54.692-01.05.58.608 	shimmering lights play on the rippling surface of the swimming pool.
+1004_Juno_00.06.45.714-00.06.47.692 	there's a photo of bleeker playing his guitar.
+1004_Juno_00.56.06.880-00.56.11.869 	playing nervously with the chain around her neck, vanessa turns to the wall behind her.
+1004_Juno_00.57.09.876-00.57.17.607 	she stands up and looks elsewhere, but juno stays where she is, gazing down at vanessa playing with the little girl.
+1004_Juno_01.14.54.939-01.15.01.302 	up in his room, bleeker is playing his guitar.
+1006_Slumdog_Millionaire_00.06.01.615-00.06.05.832 	a group of scruffy young boys in filthy t-shirts and shorts play cricket on a runway.
+1006_Slumdog_Millionaire_00.18.54.617-00.18.56.183 	the policemen are playing cards.
+1006_Slumdog_Millionaire_00.25.14.984-00.25.16.180 	others play on swings.
+1006_Slumdog_Millionaire_00.27.03.877-00.27.08.664 	jamal stops playing and watches his brother.
+1006_Slumdog_Millionaire_01.00.55.946-01.01.03.781 	on a large balcony above the cinema, six men are drinking and playing a gambling game.
+1007_Spider-Man1_00.26.31.229-00.26.33.029 	two children playing with a skipping rope are oblivious as peter lounges himself into the air way above their heads.
+1008_Spider-Man2_00.19.40.080-00.19.41.713 	a man playing cards looks out at him.
 1009_Spider-Man3_01.37.44.667-01.37.48.949 	gwen looks up and realizes it's peter playing the piano.
 1010_TITANIC_00.23.43.267-00.23.57.558 	inside a saloon with a view of the titanic men smoke and drink as they play a game of cards.
 1010_TITANIC_01.14.03.332-01.14.23.547 	in the dining room, a man plays piano as first class passengers, holding sheet music, sing.
+1010_TITANIC_01.50.13.654-01.50.21.222 	andrews enters the a deck foyer, where dozens of passengers chat and drink as musicians play.
+1010_TITANIC_01.53.46.937-01.53.54.711 	the band plays.
 1010_TITANIC_02.13.24.373-02.13.25.499 	meanwhile, as the band plays on deck, a passenger bumps into one of the violinists.
+1011_The_Help_00.12.02.811-00.12.06.099 	the bridge is now in full swing, with skeeter playing with hilly, elizabeth, and jolene.
 1012_Unbreakable_00.23.03.496-00.23.05.675 	outside in the sunshine, children are playing in a park with a high chain link fence.
 1012_Unbreakable_00.43.35.761-00.43.43.428 	he turns and walks slowly and smiling towards a small green park where a group of boys are playing american football on the grass.
+1012_Unbreakable_01.05.18.638-01.05.24.225 	joseph's playing with two toy figures, a caped superhero and a green reptilian villain.
 1014_2012_01.31.59.406-01.32.02.510 	adrian father harry plays the piano
 1017_Bad_Santa_00.11.24.269-00.11.29.395 	sometime later he's sitting alone having a good leech at some more bikini clad lovelies playing volleyball.
 1017_Bad_Santa_00.46.41.459-00.46.43.469 	back at his new digs, willie is playing checkers with the kid.
@@ -145,7 +163,6 @@
 1018_Body_Of_Lies_00.54.57.522-00.54.58.859 	kids play football in the patch of ground in front of the safe house.
 1018_Body_Of_Lies_01.29.56.567-01.30.04.112 	sadiki looks at a tv which plays news footage of the bombing.
 1020_Crazy_Stupid_Love_00.24.37.797-00.24.41.966 	hannah regards her boyfriend, who is playing with his phone and sitting next to another guy doing the same thing.
-1020_Crazy_Stupid_Love_00.52.48.937-00.52.57.611 	cal plays catch with robbie.
 1023_Horrible_Bosses_00.26.43.320-00.26.44.513 	nick and kurt are playing video games.
 1024_Identity_Thief_00.24.38.511-00.24.38.615 	now, on on a freeway, sandy tails the thief while she plays with her smartphone.
 1024_Identity_Thief_00.36.17.438-00.36.22.967 	sandy glares as she mimes playing instruments.
@@ -155,43 +172,44 @@
 1028_No_Reservations_00.24.44.302-00.24.45.250 	a flicker of a smile plays on paula's lips.
 1028_No_Reservations_00.59.52.006-00.59.56.550 	the three then play pick-up sticks with bread sticks.
 1028_No_Reservations_01.08.10.245-01.08.17.052 	as zoe flicks through the album, she finds a peacock feather like the one she was playing with shortly before the car crash.
-1029_Pride_And_Prejudice_Disk_One_00.01.50.357-00.01.54.764 	up on the hillside, she turns away from the scene with a smile playing on her lips.
 1029_Pride_And_Prejudice_Disk_One_00.26.37.980-00.26.42.643 	at the party, mary is playing the piano.
 1029_Pride_And_Prejudice_Disk_One_00.43.15.605-00.43.17.636 	she enters the billiard room where darcy is playing alone.
 1029_Pride_And_Prejudice_Disk_One_00.49.53.860-00.49.59.045 	she's playing with a dog, trying to wrestle a stick from its mouth.
 1029_Pride_And_Prejudice_Disk_One_01.03.46.189-01.03.49.641 	lydia and kitty are playing a game with hoops,
 1029_Pride_And_Prejudice_Disk_One_01.09.13.892-01.09.15.982 	mary starts playing the piano.
 1029_Pride_And_Prejudice_Disk_One_01.22.47.972-01.22.53.536 	musicians are playing at one end of a large wooden-floored room.
-1029_Pride_And_Prejudice_Disk_One_01.23.13.355-01.23.22.854 	a hopeful smile plays across her lips when she spots a group of red-coated officers gathered in a corner.
 1029_Pride_And_Prejudice_Disk_One_01.28.39.373-01.28.43.039 	a slight smile is playing across lizzie's lips.
 1029_Pride_And_Prejudice_Disk_One_02.07.51.326-02.07.56.961 	mary prepares to play and the men quickly take their places opposite their partners.
 1029_Pride_And_Prejudice_Disk_One_02.29.22.071-02.29.28.740 	later, fitzwilliam sits with lizzie as she plays the piano.
 1030_Public_Enemies_00.30.59.084-00.31.13.740 	now in a telephone exchange with baum, he plays a 78 record.
 1030_Public_Enemies_01.13.20.281-01.13.22.948 	in a movie theatre, the event plays on a newsreel.
 1030_Public_Enemies_02.01.31.447-02.01.34.075 	in the movie house, the crowd watches figures on screen playing hockey, then clark gable washing his hands in a men's room.
-1031_Quantum_of_Solace_00.56.30.253-00.56.34.267 	dj plays under a full moon.
+1031_Quantum_of_Solace_01.21.57.602-01.22.03.033 	in a rundown part of town, men are drinking, smoking and playing games in a bar.
 1033_Sherlock_Holmes_A_Game_of_Shadows_00.28.53.993-00.28.58.954 	meanwhile, on the ground floor, watson is still playing cards.
+1033_Sherlock_Holmes_A_Game_of_Shadows_00.33.00.883-00.33.04.398 	holmes spots two pipers outside the church and gestures for them to play.
+1033_Sherlock_Holmes_A_Game_of_Shadows_00.35.46.647-00.35.49.313 	holmes walks into a room where a gramophone is playing.
 1034_Super_8_00.05.09.137-00.05.10.103 	in it one of the boys, martin, is playing a detective character.
 1034_Super_8_00.08.52.895-00.09.02.113 	joe gives jack a cool unconvinced look, then returns his attention to the pamphlet which features pictures of pumped-up boys apparently having a fantastic time playing baseball.
-1034_Super_8_00.59.55.644-01.00.00.458 	he watches somberly as on screen, his mother picks him up and plays with him in the garden.
+1034_Super_8_00.15.15.279-00.15.18.115 	playing the detective, martin stares at her.
+1034_Super_8_01.00.17.182-01.00.21.503 	captured together on the home movie, joe and his mother play together on some distant summer's day.
 1034_Super_8_01.47.47.881-01.47.50.281 	charles is playing a doctor.
 1037_The_Curious_Case_Of_Benjamin_Button_00.18.57.528-00.19.06.882 	the old man retracts the stick, and benjamin wheels himself to the top of the front steps, where he watches children playing in the street.
-1037_The_Curious_Case_Of_Benjamin_Button_00.26.19.297-00.26.20.144 	music plays from a gramophone beside a grave.
+1037_The_Curious_Case_Of_Benjamin_Button_00.25.50.438-00.25.52.730 	a white-robed pianist starts to play.
 1037_The_Curious_Case_Of_Benjamin_Button_00.28.20.037-00.28.24.925 	outside, on the sunny street, mr. oti tips his hat to one of three children playing baseball.
 1037_The_Curious_Case_Of_Benjamin_Button_00.41.08.089-00.41.13.415 	they play together.
 1037_The_Curious_Case_Of_Benjamin_Button_01.26.30.162-01.26.34.904 	benjamin plays the piano.
-1037_The_Curious_Case_Of_Benjamin_Button_02.03.36.225-02.03.40.176 	they dive off the prowl of the boat as moonlight plays on the glittering surface of the sea.
 1037_The_Curious_Case_Of_Benjamin_Button_02.19.26.825-02.19.28.210 	chubby-cheeked caroline plays with a toy caterpillar.
 1037_The_Curious_Case_Of_Benjamin_Button_02.26.56.607-02.26.59.816 	a smile plays on benjamin's lips.
 1037_The_Curious_Case_Of_Benjamin_Button_02.35.36.553-02.35.41.141 	benjamin's legs dangle over the end of the bed as he plays with a digital clock.
+1038_The_Great_Gatsby_00.05.39.234-00.05.50.860 	men play polo on the lawn.
 1038_The_Great_Gatsby_00.20.29.617-00.20.31.497 	a guy plays trumpet on a fire escape.
 1038_The_Great_Gatsby_00.22.13.180-00.22.24.267 	scenes play out in windows.
 1038_The_Great_Gatsby_00.25.19.300-00.25.22.571 	he plays the massive organ.
 1038_The_Great_Gatsby_01.06.20.987-01.06.22.396 	klipspringer, a wild-haired young man with glasses, plays the organ.
-1040_The_Ugly_Truth_00.08.36.177-00.08.38.339 	as she gets ready for bed, a tv plays in her bedroom.
+1038_The_Great_Gatsby_01.12.28.925-01.12.36.644 	as the band plays, gatsby and tom share a polite smile.
 1040_The_Ugly_Truth_00.21.22.244-00.21.28.597 	he dumps his bag on a chair and presses play on his answer phone.
 1041_This_is_40_00.05.39.791-00.05.43.131 	now in the room, the younger daughter plays a larger keyboard.
-1041_This_is_40_00.13.53.463-00.13.56.130 	sitting on a toilet, pete plays online scrabble.
+1041_This_is_40_00.29.01.959-00.29.09.437 	playing air guitar, charlotte advances toward sadie's bed, then retreats to the doorway and flings one arm out.
 1041_This_is_40_01.09.00.726-01.09.02.233 	now, sitting on the toilet, pete plays a game on his tablet.
 1041_This_is_40_01.22.13.082-01.22.16.235 	in her room, charlotte plays her keyboard.
 1042_Up_In_The_Air_01.27.01.496-01.27.03.036 	they play pat-a-cake.
@@ -202,78 +220,47 @@
 1044_Pride_And_Prejudice_Disk_Two_01.26.22.402-01.26.25.069 	the next day, kitty is playing with a cup and bowl in the garden.
 1045_An_education_00.01.42.534-00.01.47.971 	girls playing hula hoop in the playground.
 1045_An_education_00.02.01.760-00.02.06.126 	they play lacrosse.
+1045_An_education_00.04.22.530-00.04.27.051 	jenny and the violinist exchanged glances as they play.
 1045_An_education_00.45.19.017-00.45.26.308 	jenny stops playing ball with some children and harries over.
-1045_An_education_01.02.11.486-01.02.19.911 	they join another couples slow dancing in the sunshine to a record playing on a small portable turntable.
-1045_An_education_01.24.15.570-01.24.21.845 	danny's playing with a cricket ball as helen sits with jenny.
+1046_Australia_02.25.17.603-02.25.19.708 	drover strokes the lad's hair as he plays.
 1047_Defiance_00.42.06.333-00.42.08.248 	a young boy plays the violin.
+1047_Defiance_01.06.02.789-01.06.05.219 	gramov retrieve his playing card and follows him
 1047_Defiance_01.27.49.836-01.27.52.040 	in his tent, viktor, bleary-eyed, is playing the accordion.
 1048_Gran_Torino_00.00.50.904-00.00.53.535 	a balding man plays the organ.
 1052_Harry_Potter_and_the_order_of_phoenix_00.47.19.509-00.47.23.336 	the twins play tricks with a firework.
 1052_Harry_Potter_and_the_order_of_phoenix_01.31.28.730-01.31.31.360 	gwarp sits playing with the bell and smiling innocently.
 1053_Harry_Potter_and_the_philosophers_stone_01.50.32.352-01.50.38.271 	harry sees hagrid sitting outside his cottage playing a tune.
 1053_Harry_Potter_and_the_philosophers_stone_01.54.41.545-01.54.48.507 	a harp is playing by itself.
+1053_Harry_Potter_and_the_philosophers_stone_02.03.51.920-02.03.55.683 	watching the merciless white queen, harry suddenly understands the game that ron is playing.
 1055_Marley_and_me_00.51.50.696-00.51.58.654 	he leaves marley playing happily with a big chewy bone and hurries out of the house.
-1055_Marley_and_me_01.12.48.775-01.12.55.960 	colleen sleeps in a swinging seat as the rest of the family and marley play ball in the pool.
 1055_Marley_and_me_01.17.00.263-01.17.11.521 	john grins as the dogs play together in the shallows and more join the fun.
 1055_Marley_and_me_01.26.21.645-01.26.27.827 	the children are playing ball in the garden with jenny when john arrives home.
 1056_Rambo_00.18.58.400-00.18.59.890 	a floodlight plays on rambo's face.
 1056_Rambo_00.26.34.855-00.26.39.197 	an old man plays a stringed instrument.
+1057_Seven_pounds_00.40.35.274-00.40.39.883 	a little boy of about eight and a slightly older girl are in the living room, playing cards and listening.
+1057_Seven_pounds_00.41.14.212-00.41.15.807 	the children listen as they play.
 1057_Seven_pounds_00.48.40.902-00.48.46.612 	ezra sits playing the piano in the foyer of a modern glass and steel mall.
-1057_Seven_pounds_01.12.58.033-01.13.03.379 	in a large, sunny field, emily sits in long grass watching ben play with duke, who bounds to retrieve something.
 1057_Seven_pounds_01.13.58.606-01.14.02.377 	emily glances at ben and plays with a blade of grass.
 1057_Seven_pounds_01.38.34.000-01.38.42.008 	emily plays gently with his ear, then lowers her eyes and lightly touches his lips with her fingertips.
 1057_Seven_pounds_01.54.53.665-01.55.00.020 	ezra is playing the piano.
-1058_The_Damned_united_00.31.45.237-00.31.50.000 	brian plays with the team.
-1058_The_Damned_united_01.09.42.248-01.09.46.095 	bare-chested, brian plays football with his kids.
-1060_Yes_man_00.31.59.597-00.32.04.358 	carl plays on an arcade dance game.
+1058_The_Damned_united_01.06.40.840-01.06.45.000 	he's staring at the little girl playing noughts and crosses with the toy clown on the television test-card.
 1060_Yes_man_00.40.39.367-00.40.49.416 	in a guy's room, carl learns to play guitar.
 1060_Yes_man_00.43.38.930-00.43.49.210 	allison plays a keyboard.
 1060_Yes_man_00.53.51.253-00.53.56.255 	guests play a game of mock quidditch.
 1060_Yes_man_01.10.46.062-01.10.51.611 	a uniformed band plays at the packed nebraska cornhuskers memorial stadium.
 1062_Day_the_Earth_stood_still_01.09.06.000-01.09.10.967 	walks across the room, and looks up at the speaker which the music is playing through.
-2004_Juno_00.27.01.333-00.27.10.077 	music plays as we see sparse images of vanessa loring's hands preparing the house for juno's arrival -- sprucing a vase of flowers.
 2004_Juno_00.35.42.787-00.35.43.479 	they play little riffs.
 2004_Juno_01.15.01.998-01.15.03.603 	he's playing a theme that we will soon recognise.
 2004_Juno_01.29.32.166-01.29.33.012 	she waves goodbye to bren, who is playing in the yard with two weimaraners.
+2004_Juno_01.30.37.154-01.30.42.154 	she and bleeker exchange glances as they play.
 2005_Signs_00.38.56.363-00.39.02.810 	the children stop playing and look up to graham.
 2017_Bad_Santa_00.20.00.326-00.20.04.266 	he plays to the crowd.
-2026_Legion_00.49.00.098-00.49.04.877 	bob plays with his trusty zippo with one hand and grills up some steaks with the other.
-1053_Harry_Potter_and_the_philosophers_stone_01.50.32.352-01.50.38.271 	harry sees hagrid sitting outside his cottage playing a tune.
-1053_Harry_Potter_and_the_philosophers_stone_01.54.41.545-01.54.48.507 	a harp is playing by itself.
-1055_Marley_and_me_00.51.50.696-00.51.58.654 	he leaves marley playing happily with a big chewy bone and hurries out of the house.
-1055_Marley_and_me_01.12.48.775-01.12.55.960 	colleen sleeps in a swinging seat as the rest of the family and marley play ball in the pool.
-1055_Marley_and_me_01.17.00.263-01.17.11.521 	john grins as the dogs play together in the shallows and more join the fun.
-1055_Marley_and_me_01.26.21.645-01.26.27.827 	the children are playing ball in the garden with jenny when john arrives home.
-1056_Rambo_00.18.58.400-00.18.59.890 	a floodlight plays on rambo's face.
-1056_Rambo_00.26.34.855-00.26.39.197 	an old man plays a stringed instrument.
-1057_Seven_pounds_00.48.40.902-00.48.46.612 	ezra sits playing the piano in the foyer of a modern glass and steel mall.
-1057_Seven_pounds_01.12.58.033-01.13.03.379 	in a large, sunny field, emily sits in long grass watching ben play with duke, who bounds to retrieve something.
-1057_Seven_pounds_01.13.58.606-01.14.02.377 	emily glances at ben and plays with a blade of grass.
-1057_Seven_pounds_01.38.34.000-01.38.42.008 	emily plays gently with his ear, then lowers her eyes and lightly touches his lips with her fingertips.
-1057_Seven_pounds_01.54.53.665-01.55.00.020 	ezra is playing the piano.
-1058_The_Damned_united_00.31.45.237-00.31.50.000 	brian plays with the team.
-1058_The_Damned_united_01.09.42.248-01.09.46.095 	bare-chested, brian plays football with his kids.
-1060_Yes_man_00.31.59.597-00.32.04.358 	carl plays on an arcade dance game.
-1060_Yes_man_00.40.39.367-00.40.49.416 	in a guy's room, carl learns to play guitar.
-1060_Yes_man_00.43.38.930-00.43.49.210 	allison plays a keyboard.
-1060_Yes_man_00.53.51.253-00.53.56.255 	guests play a game of mock quidditch.
-1060_Yes_man_01.10.46.062-01.10.51.611 	a uniformed band plays at the packed nebraska cornhuskers memorial stadium.
-1062_Day_the_Earth_stood_still_01.09.06.000-01.09.10.967 	walks across the room, and looks up at the speaker which the music is playing through.
-2004_Juno_00.27.01.333-00.27.10.077 	music plays as we see sparse images of vanessa loring's hands preparing the house for juno's arrival -- sprucing a vase of flowers.
-2004_Juno_00.35.42.787-00.35.43.479 	they play little riffs.
-2004_Juno_01.15.01.998-01.15.03.603 	he's playing a theme that we will soon recognise.
-2004_Juno_01.29.32.166-01.29.33.012 	she waves goodbye to bren, who is playing in the yard with two weimaraners.
-2005_Signs_00.38.56.363-00.39.02.810 	the children stop playing and look up to graham.
-2017_Bad_Santa_00.20.00.326-00.20.04.266 	he plays to the crowd.
-2026_Legion_00.49.00.098-00.49.04.877 	bob plays with his trusty zippo with one hand and grills up some steaks with the other.
 2034_Super_8_00.06.32.723-00.06.35.785 	tv in the living room plays a match game.
 2034_Super_8_01.06.22.383-01.06.25.800 	the scene plays as they filmed it.
 2040_The_Ugly_Truth_00.27.45.765-00.27.51.321 	beside the table, a man plays violin.
 2041_This_is_40_00.05.39.739-00.05.43.798 	charlotte plays the theme from the office on her keyboard.
 2041_This_is_40_00.13.40.919-00.13.42.994 	we see quick cuts of debbie playing with the kids on the trampoline outside.
 2041_This_is_40_00.13.57.700-00.14.02.050 	pete is on the toilet playing scrabble on his ipad.
-2041_This_is_40_00.29.01.533-00.29.09.145 	charlotte plays air guitar.
-2041_This_is_40_01.09.00.937-01.09.07.394 	debbie pulls open the door, pete is on the toilet playing on his ipad.
-2041_This_is_40_01.22.15.014-01.22.20.372 	charlotte plays piano in her room alone.
+2041_This_is_40_00.26.00.284-00.26.09.235 	pete picks up a guitar and starts playing with it.
 2041_This_is_40_01.39.33.177-01.39.36.680 	she is playing in the water with the kids.
 2041_This_is_40_01.57.59.949-01.58.00.950 	oliver and the kids are playing with an iphone.

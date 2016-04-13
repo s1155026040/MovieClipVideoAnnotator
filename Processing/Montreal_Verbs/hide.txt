@@ -1,83 +1,42 @@
 30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS217 	00:52:25,00 --> 00:52:30,50 	someone and someone quickly hide their faces from the window.
 40_YEAR_OLD_VIRGIN.srt 	40_YEAR_OLD_VIRGIN_DVS200 	01:38:59,00 --> 01:39:04,50 	someone hides a smile.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS42 	00:03:19,00 --> 00:03:29,50 	a young man saunters out of a parked blue van and hides something in the rear tire well.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS55 	00:04:08,00 --> 00:04:15,50 	without breaking his stride, he lifts a napkin on the counter and takes a gun hidden beneath it.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS408 	00:38:23,00 --> 00:38:34,50 	leaning out from hiding and craning his neck, the young agent peers up at the hotel.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS418 	00:40:23,00 --> 00:40:28,50 	now in the hotel laundry, the men hide.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS408 	00:58:47,00 --> 00:59:01,50 	trees hide them as the horsemen ride past with a colony of bats swooping overhead.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS578 	01:20:24,00 --> 01:20:33,50 	behind the first lady, dozens of african-americans emerge from hiding with sacks and baskets.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS658 	01:33:02,00 --> 01:33:09,50 	someone comes out of hiding and faces her squarely standing about ten yards away.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS82 	00:12:31,00 --> 00:12:40,50 	in a smaller adjacent lot partially hidden behind a fence, someone watches from the driver's seat of the other suv.
-BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS90 	00:13:17,00 --> 00:13:23,50 	he follows the informant through a gate into an industrial complex, then parks his car behind stacks of pallets, hiding it from view.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS104 	00:15:02,00 --> 00:15:13,50 	someone yanks the informant away and someone jumps out from a hiding place.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS108 	00:15:18,00 --> 00:15:27,50 	hiding in an alley around the corner, someone flinches.
-BLINDDATING.srt 	BLINDDATING_DVS123 	00:33:08,00 --> 00:33:15,50 	as someone glances back, someone hides the book and waves innocently at her.
 BURLESQUE.srt 	BURLESQUE_DVS593 	01:27:40,00 --> 01:27:45,50 	a chair, then a lamp conveniently hide his groin.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS312 	00:59:25,00 --> 00:59:33,50 	someone hops on to the dock, then runs and hides amid several parked vehicles marked with the hydra symbol.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS318 	01:00:13,00 --> 01:00:24,50 	hiding amid large mechanical parts, someone draws a pistol as he creeps around the factory's main floor.
-CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS347 	01:26:19,00 --> 01:26:26,50 	seeing a group of cops beating a man with clubs, someone hides back against a wall.
-COLOMBIANA.srt 	COLOMBIANA_DVS417 	00:36:49,00 --> 00:36:57,50 	a monitor shows someone standing at the door to the secure cell block with his face hidden by his arshal's cap.
 COLOMBIANA.srt 	COLOMBIANA_DVS472 	00:41:39,00 --> 00:41:46,50 	from the security camera's point of view, someone's wig hides her face.
-COLOMBIANA.srt 	COLOMBIANA_DVS1000 	01:35:23,00 --> 01:35:29,50 	hiding behind a pillar, someone lowers his phone.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS574 	01:21:28,00 --> 01:21:35,50 	someone hunches down and hides his face in the crook of the man's frail arm.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS614 	01:24:09,00 --> 01:24:17,50 	the shadows hiding someone's face fade, as she steps outside into the gentle sunlight.
 DISTRICT_9.srt 	DISTRICT_9_DVS224 	00:25:10,00 --> 00:25:16,50 	as the hiding alien watches, the helicopter descends.
 DISTRICT_9.srt 	DISTRICT_9_DVS231 	00:25:52,00 --> 00:25:58,50 	the hiding alien backs around the corner.
 DISTRICT_9.srt 	DISTRICT_9_DVS416 	00:45:46,00 --> 00:45:52,50 	he hides behind a car, then cautiously peeks over
-DISTRICT_9.srt 	DISTRICT_9_DVS448 	00:50:18,00 --> 00:50:40,50 	now, he exits the shack, his left arm hidden inside his coat.
 EASY_A.srt 	EASY_A_DVS123 	00:39:17,00 --> 00:39:38,50 	dark sunglasses hide her eyes above her coy smile.
 FLIGHT.srt 	FLIGHT_DVS74 	00:14:56,00 --> 00:15:04,50 	he pours the contents of a small vodka bottle into a juice container, hidden from the passenger's view.
 FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS241 	01:05:49,00 --> 01:06:09,50 	later still, as he snoozes, she dips his hand in a glass of wine, then hides.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS447 	01:37:54,00 --> 01:38:02,50 	his features mostly hidden in shadow, someone stares at the american with a knitted brow.
-GROWN_UPS.srt 	GROWN_UPS_DVS32 	00:08:08,00 --> 00:08:15,50 	a heavy-set blond on a massage table looks up, her hair hiding her face.
-HUGO.srt 	HUGO_DVS680 	01:38:27,00 --> 01:38:34,50 	they hide behind a panel of scenery then retreat as men push the dragon puppet along on a track.
-IN_TIME.srt 	IN_TIME_DVS91 	00:10:02,00 --> 00:10:13,50 	hidden in a shadowy space, someone gets a firm grip on the chain.
 IN_TIME.srt 	IN_TIME_DVS380 	00:39:55,00 --> 00:40:00,50 	they swim around behind one and hide.
 IN_TIME.srt 	IN_TIME_DVS496 	00:53:40,00 --> 00:53:46,50 	later, they hide.
-IN_TIME.srt 	IN_TIME_DVS583 	01:02:27,00 --> 01:02:33,50 	he takes the gun hidden at his back and places her hand around it.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS34 	00:07:36,00 --> 00:07:41,50 	his nose and mouth hidden by cloth.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS292 	01:29:36,00 --> 01:29:41,50 	then hides in the safety deposit vault.
-ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS204 	01:01:23,00 --> 01:01:30,50 	he dashes away, hiding his face with his hand he crosses toward the reception desk.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS298 	01:25:51,00 --> 01:25:58,50 	someone bashfully hides her face with her hand then grows serious.
 KARATE_KID.srt 	KARATE_KID_DVS176 	00:14:57,00 --> 00:15:08,50 	as he hides his face behind his paddle, the ball bounces off of it.
-KARATE_KID.srt 	KARATE_KID_DVS319 	00:28:37,00 --> 00:28:43,50 	he glances after the bullies, then ventures from his hiding spot.
 KARATE_KID.srt 	KARATE_KID_DVS445 	00:39:56,00 --> 00:40:05,50 	someone hides around the corner and watches.
-KARATE_KID.srt 	KARATE_KID_DVS447 	00:40:06,00 --> 00:40:14,50 	using the cab as a moving shield to hide from the boys, someone walks at a crouch alongside it.
-KARATE_KID.srt 	KARATE_KID_DVS729 	01:01:52,00 --> 01:02:01,50 	he quickly takes off his jacket and hides it beneath a giant gourd in a pile of items just outside the door.
 KARATE_KID.srt 	KARATE_KID_DVS1348 	01:48:58,00 --> 01:49:02,50 	someone hides nearby.
-KARATE_KID.srt 	KARATE_KID_DVS1366 	01:50:20,00 --> 01:50:25,50 	someone lifts his brow and looks to someone, who stands hiding in the bushes.
-LAND_OF_THE_LOST.srt 	LAND_OF_THE_LOST_DVS54 	00:18:25,00 --> 00:18:41,50 	as it spots them, the primate hides itself behind the block.
 LAND_OF_THE_LOST.srt 	LAND_OF_THE_LOST_DVS203 	01:11:21,00 --> 01:11:28,50 	they hide behind a wall.
 NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS501 	01:32:44,00 --> 01:32:51,50 	with freckles hidden inside his blue cardigan
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS365 	01:30:38,00 --> 01:31:05,50 	they hide behind a short rise and spy on the village festivities.
-RUBY_SPARKS.srt 	RUBY_SPARKS_DVS516 	01:20:47,00 --> 01:20:54,50 	lifting the typewriter, he grabs the key to the desk drawer hidden underneath.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS581 	01:27:13,00 --> 01:27:20,50 	with someone still on the floor, hidden by a low wall and someone still hunched over his desk.
 SALT.srt 	SALT_DVS130 	00:24:10,00 --> 00:24:20,50 	hiding behind a corner, someone peeks around at the sealed interrogation room doors.
-SALT.srt 	SALT_DVS171 	00:29:14,00 --> 00:29:25,50 	presses her back to the wall, hiding behind the air conditioner.
-SALT.srt 	SALT_DVS323 	00:57:25,00 --> 00:57:46,50 	as two men rush to help the driver, she hides and unlocks the handcuffs.
-SALT.srt 	SALT_DVS423 	01:13:44,00 --> 01:13:53,50 	meanwhile hiding against the wall by the stairs, someone peers around the corner and sees a tactical team shuffling pass.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS337 	00:22:56,00 --> 00:23:07,50 	now, in the daytime, a procession of women with their faces hidden behind red scarves exit someone's home through a doorway adorned on each side with a red banner.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS26 	00:05:34,00 --> 00:05:43,50 	someone grins and marks the note, hiding her answer.
-SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS174 	00:34:08,00 --> 00:34:21,50 	as someone hides around a corner, the strands of a beaded curtain take the someone by the neck and arms.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS46 	00:08:11,00 --> 00:08:18,50 	someone hides a smile as someone glares at her.
-SPARKLE_2012.srt 	SPARKLE_2012_DVS88 	00:14:08,00 --> 00:14:14,50 	someone steps out from his hiding place, and peers around the corner.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS123 	00:19:25,00 --> 00:19:30,50 	someone hides a pistol behind his back as his neighbor leaves.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS94 	00:17:52,00 --> 00:17:57,50 	the cat hides under a chair.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS300 	00:54:37,00 --> 00:54:47,50 	in the passenger seat, someone wipes her eyes then rests her forehead on the back of her hand, hiding her face.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS347 	01:04:54,00 --> 01:04:59,50 	the caddy crawls out from hiding.
 THE_CALL.srt 	THE_CALL_DVS999 	01:16:40,00 --> 01:16:46,50 	she hides as someone enters.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS589 	01:05:02,00 --> 01:05:10,50 	sitting partially hidden in a chair on the other side of a bureau, someone huddles up and lights a cigarette.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1298 	02:18:22,00 --> 02:18:26,50 	the teen hides in the trunk of a car.
 THE_SITTER.srt 	THE_SITTER_DVS18 	00:10:06,00 --> 00:10:10,50 	she hides perfume behind her back.
 THE_VOW.srt 	THE_VOW_DVS65 	00:05:53,00 --> 00:05:59,50 	someone hides two chocolates from a box behind his back.
 THE_WATCH.srt 	THE_WATCH_DVS204 	00:37:39,00 --> 00:37:44,50 	someone hides it behind his back.
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS55 	00:13:30,00 --> 00:13:36,50 	she hides her someone harvey book under a kitten calendar.
-THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS294 	00:54:18,00 --> 00:54:26,50 	crouching on a deck, he shoots the players hiding beneath then beacons someone with the wave.
-THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS486 	01:25:07,00 --> 01:25:14,50 	a bird's-eye-view shows the black smoke hiding the end of the unfinished roadway.
-THOR.srt 	THOR_DVS77 	00:09:58,00 --> 00:10:05,50 	hidden in shadows, a blue hand slides across a thick column, leaving a thin layer of frost.
-THOR.srt 	THOR_DVS138 	00:20:19,00 --> 00:20:25,50 	thick spikes of ice form over frost giants fists as they step out of hiding.
-THOR.srt 	THOR_DVS526 	01:24:27,00 --> 01:24:34,50 	they leap apart as an energy beam flips over the car they were hiding behind.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS361 	00:39:55,00 --> 00:40:00,50 	someone hides it.
-UGLY_TRUTH.srt 	UGLY_TRUTH_DVS422 	00:51:13,00 --> 00:51:20,50 	someone hides her white panties in the gift box, then rushes to the front door with her purse.
-ZOOKEEPER.srt 	ZOOKEEPER_DVS262 	00:57:38,00 --> 00:57:45,50 	someone briefly hides her face then dramatically gets up.
-ZOOKEEPER.srt 	ZOOKEEPER_DVS303 	01:06:45,00 --> 01:06:53,50 	as he leaves, someone puts down the two slices of cake and self-consciously hides her thumb.

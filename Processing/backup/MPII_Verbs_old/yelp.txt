@@ -1,3 +1,2 @@
-0007_DIE_NACHT_DES_JAEGERS_01.23.56.040-01.24.03.798 	PREACHER staggers out and runs yelping with pain into the barn.
-0050_Indiana_Jones_and_the_last_crusade_00.59.04.727-00.59.06.013 	Henry yelps as the cigarette lighter burns his hand.
-0051_Men_in_black_01.06.47.771-01.06.48.866 	He yelps like, well, a dog.
+0007_DIE_NACHT_DES_JAEGERS_01.23.56.040-01.24.03.798 	preacher staggers out and runs yelping with pain into the barn.
+0051_Men_in_black_01.06.47.771-01.06.48.866 	he yelps like, well, a dog.

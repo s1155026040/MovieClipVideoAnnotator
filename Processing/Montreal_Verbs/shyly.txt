@@ -1,10 +1,1 @@
-DEAR_JOHN.srt 	DEAR_JOHN_DVS100 	00:15:07,00 --> 00:15:14,50 	eyes the rosy-cheeked young woman, then shyly bows his head.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS727 	01:37:06,00 --> 01:37:11,50 	she looks to someone, then shyly shifts her gaze.
-FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS245 	01:07:07,00 --> 01:07:12,50 	he shyly zips his
 JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS162 	00:59:06,00 --> 00:59:12,50 	someone shyly whispers to his mother.
-LARRY_CROWNE.srt 	LARRY_CROWNE_DVS126 	00:29:31,00 --> 00:29:36,50 	someone shyly raises a hand.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS346 	01:25:07,00 --> 01:25:11,50 	someone shyly looks away.
-THE_VOW.srt 	THE_VOW_DVS213 	00:27:14,00 --> 00:27:19,50 	he shyly walks her to their apartments entrance.
-THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS351 	01:03:56,00 --> 01:04:01,50 	they both glance away shyly then look each other in the eyes.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS168 	00:29:19,00 --> 00:29:23,50 	someone shyly averts his gaze.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS226 	00:38:41,00 --> 00:38:47,50 	someone bites his lip and shyly glances away.

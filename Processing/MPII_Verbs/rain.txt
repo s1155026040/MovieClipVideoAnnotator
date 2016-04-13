@@ -1,37 +1,12 @@
 0001_American_Beauty_01.30.26.619-01.30.27.764 	it's raining outside.
 0003_CASABLANCA_00.46.33.140-00.46.36.313 	it's raining very hard at the train station.
-0009_Forrest_Gump_00.46.35.536-00.46.43.613 	it begins to rain.
-0014_Ist_das_Leben_nicht_schoen_00.50.26.911-00.50.29.839 	as they come out onto the porch, we see that it is raining.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.15.45.668-00.16.05.409 	with glowing flowers as they rain down from the branches.evaporating just above the up turned faces of the delighted party-goers 144 hobbits, feasting and drinking carts of beer and wine are scattered about, and the tables are piled high with steaming scones and savories.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.04.06.023-01.04.09.428 	sending lembas crumbs raining down.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.33.49.342-01.33.49.684 	gandalf walks the battlements as the huge boulders rain onto the orc army below.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.46.31.997-01.46.34.635 	flaming missiles rain down on the city.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.49.53.573-02.49.54.005 	fireballs rain down from the sky.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.50.27.778-02.50.29.091 	the eagles bravely fly amid the raining ash and molten rocks.
-0029_The_Graduate_01.07.55.598-01.07.58.779 	it is raining.
-0030_The_Hustler_01.32.24.903-01.32.26.635 	it is raining heavily.
 0046_Chasing_Amy_00.54.47.373-00.54.48.440 	it's raining pretty hard now.
-0046_Chasing_Amy_00.55.57.245-00.55.59.136 	she looks at him, rain drenching the pair.
-0049_Hannah_and_her_sisters_00.16.25.611-00.16.30.958 	it is raining.
-0050_Indiana_Jones_and_the_last_crusade_01.24.52.962-01.24.56.777 	indy, henry and sallah cover their heads as automobile fragments rain down upon them.
 1007_Spider-Man1_01.47.46.263-01.47.55.107 	now it's spider-man's turn to rain blades on his opponent.
-1009_Spider-Man3_01.55.13.656-01.55.21.403 	peter's eyes widen as a truck suspended above the yellow cab starts shedding its load of breeze blocks which rain down like giant hailstones, ripping a door off the cab.
-1010_TITANIC_03.05.50.043-03.05.56.313 	sediment rains down like snow over the wreck, which appears covered in a layer of grayish ash.
-1014_2012_01.00.18.226-01.00.25.751 	charlie clambers back to his feet as fireballs rain down behind him throwing from massive eruption.
-1018_Body_Of_Lies_00.02.37.062-00.02.48.089 	police and civilians dive for cover as debris rains down.
 1020_Crazy_Stupid_Love_00.13.26.728-00.13.28.912 	it's raining.
-1020_Crazy_Stupid_Love_01.01.55.174-01.01.59.727 	it starts to rain.
-1031_Quantum_of_Solace_00.13.53.650-00.14.00.097 	it swings, knocking over a pane of glass which shatters, sending vicious shards raining down.
 1031_Quantum_of_Solace_00.15.15.535-00.15.19.413 	it's raining.
 1035_The_Adjustment_Bureau_00.00.24.345-00.00.27.012 	now letters rain down into two boxes, spelling out a logo.
 1035_The_Adjustment_Bureau_00.31.37.621-00.31.41.505 	now rains falls on the sidewalk in front of a ragtag neighborhood bar.
-1048_Gran_Torino_00.59.06.183-00.59.08.892 	it's raining hard and walt stands on his porch, watching
-1048_Gran_Torino_01.24.10.890-01.24.13.955 	vening, it's raining as walt drives his pickup truck back to his house.
-1052_Harry_Potter_and_the_order_of_phoenix_00.04.33.270-00.04.40.220 	a elderly woman wearing a plastic mac and rain hat enters the tunnel pulling a shopping trolley.
-1056_Rambo_00.12.38.000-00.12.47.919 	he leaves the workshop and walks out into the night air, where it's raining heavily.
 1056_Rambo_00.12.52.146-00.12.53.952 	rambo wipes rain away from his face.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.46.49.000-00.47.02.881 	like shooting stars, they rain down on the protective shield.
-1062_Day_the_Earth_stood_still_01.36.29.871-01.36.35.477 	the dead swarm continues to rain down on the half-destroyed buildings of manhattan.
-2012_Unbreakable_01.11.07.636-01.11.09.262 	it's started to rain.
 2026_Legion_00.02.06.846-00.02.11.897 	then rain starts to hammer down.
-2034_Super_8_01.23.25.583-01.23.38.002 	glass chunks rain down on the boys -- all covering their face -- cary seeing the creature.

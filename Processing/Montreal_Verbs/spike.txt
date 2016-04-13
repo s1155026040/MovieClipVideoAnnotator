@@ -1,5 +1,3 @@
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS235 	00:38:49,00 --> 00:38:54,50 	in the band room, someone spikes a trumpet.
 BLINDDATING.srt 	BLINDDATING_DVS71 	00:22:41,00 --> 00:22:47,50 	now at home, someone spikes someone's hair.
-IN_TIME.srt 	IN_TIME_DVS40 	00:04:44,00 --> 00:04:49,50 	opening a flask, someone spikes his coffee.
-THOR.srt 	THOR_DVS87 	00:11:10,00 --> 00:11:20,50 	as someone, someone, and someone's black-haired brother step into the subterranean vault, the armored guardian steps back behind the spiked grid which closes.
 THOR.srt 	THOR_DVS183 	00:24:29,00 --> 00:24:35,50 	the creature swings its spiked tail toward someone, but misses.

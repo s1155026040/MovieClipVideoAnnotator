@@ -1,0 +1,12 @@
+21_JUMP_STREET.srt 	21_JUMP_STREET_DVS451 	01:14:16,00 --> 01:14:24,50 	yielding a silver revolver, the gang leader pulls up alongside the beetle and shoots out the driver side window.
+A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS925 	01:30:12,00 --> 01:30:18,50 	someone yields a smile as he limps alongside his father.
+BLINDDATING.srt 	BLINDDATING_DVS49 	00:15:08,00 --> 00:15:14,50 	she pauses, yielding a smile.
+CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS851 	01:23:50,00 --> 01:23:56,50 	yielding a smile, the teen goes to the table and sits.
+ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS221 	01:05:08,00 --> 01:05:12,50 	then yields a smile.
+RUBY_SPARKS.srt 	RUBY_SPARKS_DVS199 	00:33:42,00 --> 00:33:50,50 	staring up at him tearfully, someone yields a smile.
+THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS416 	01:19:13,00 --> 01:19:26,50 	someone yields a coy smile and turns toward the painting.
+THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS332 	01:00:53,00 --> 01:01:08,50 	someone glares then yields a smile.
+THE_VOW.srt 	THE_VOW_DVS209 	00:26:40,00 --> 00:26:48,50 	noting her husbands earnest expression, someone yields a shy smile.
+TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS720 	01:19:37,00 --> 01:19:43,50 	someone yields a stoic shrug and faces his case worker.
+WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS740 	01:45:47,00 --> 01:45:53,50 	someone solemnly shakes her head, then yields a smile.
+XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS792 	01:11:06,00 --> 01:11:11,50 	someone yields a faint comforting smile.

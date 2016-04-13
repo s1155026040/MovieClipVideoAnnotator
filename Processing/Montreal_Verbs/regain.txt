@@ -1,11 +1,4 @@
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS308 	00:27:05,00 --> 00:27:10,50 	struggling, someone regains control of the wheel.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS889 	01:26:21,00 --> 01:26:30,50 	regaining control, someone loops the chopper around.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS604 	01:23:45,00 --> 01:24:02,50 	he regains his footing and hurries on to a vampire turning a hand wheel.
-BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS542 	01:24:09,00 --> 01:24:19,50 	sparks fly as someone regains control of the vehicle.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS94 	00:14:33,00 --> 00:14:46,50 	her attacker regains control of the gun and pistol whips her.
-HUGO.srt 	HUGO_DVS275 	00:40:20,00 --> 00:40:26,50 	he regains his footing and climbs up the corner of the building.
 KNOCKED_UP.srt 	KNOCKED_UP_DVS134 	01:21:11,00 --> 01:21:16,50 	someone strains to regain her composure.
-PROMETHEUS.srt 	PROMETHEUS_DVS170 	00:11:43,00 --> 00:11:52,50 	quickly regaining his balance, he observes racked silver billiard balls and a cue rolling across a blue felt table.
 THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS76 	00:26:52,00 --> 00:26:57,50 	someone regains his composure.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1187 	01:45:56,00 --> 01:46:03,50 	she regains her balance, then chases the young mutant across the sky.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1289 	01:56:13,00 --> 01:56:23,50 	as he holds someone down, he regains control of the missiles.

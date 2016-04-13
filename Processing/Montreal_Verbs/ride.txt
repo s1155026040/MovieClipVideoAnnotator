@@ -1,18 +1,13 @@
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS411 	01:09:22,00 --> 01:09:27,50 	one by one the bikers ride off on their choppers.
 40_YEAR_OLD_VIRGIN.srt 	40_YEAR_OLD_VIRGIN_DVS158 	01:21:06,00 --> 01:21:11,50 	they ride a bike.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS373 	00:52:47,00 --> 00:52:58,50 	now, spanish moss hangs low from the branches of surrounding trees as someone and someone ride a modest horse drawn carriage up a narrow path.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS408 	00:58:47,00 --> 00:59:01,50 	trees hide them as the horsemen ride past with a colony of bats swooping overhead.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS577 	01:20:20,00 --> 01:20:27,50 	someone stares as the vampires ride off from whence they came.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS666 	01:04:36,00 --> 01:04:42,50 	a large group of teens ride past on bicycles.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS692 	01:07:25,00 --> 01:07:31,50 	they ascend a cresting wave and ride down the other side.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS248 	00:39:05,00 --> 00:39:08,50 	now they ride horses.
-EASY_A.srt 	EASY_A_DVS307 	01:27:23,00 --> 01:27:29,50 	she wraps her arm around his chest and they ride off.
 HUGO.srt 	HUGO_DVS659 	01:35:34,00 --> 01:35:41,50 	people ride a carousel near a stage with strongman and a fire juggler.
 JACK_AND_JILL.srt 	JACK_AND_JILL_DVS89 	00:20:02,00 --> 00:20:07,50 	the kids ride pass someone and an employee.
 JACK_AND_JILL.srt 	JACK_AND_JILL_DVS313 	00:59:45,00 --> 00:59:49,50 	children ride a merry-go-round.
 LARRY_CROWNE.srt 	LARRY_CROWNE_DVS336 	01:17:40,00 --> 01:17:44,50 	two kids ride past them.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS98 	00:11:21,00 --> 00:11:28,50 	in a flashback, two stylish blondes ride bicycles down a street.
-NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS308 	01:06:50,00 --> 01:07:21,50 	sergeant jeffreys leads someone and someone down a corridor to an elevator where they ride to the 100th floor.
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS259 	01:01:47,00 --> 01:01:58,50 	we ride a half pipe sharing the perspective of a skateboard's wheels.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS213 	00:51:14,00 --> 00:51:20,50 	green forest, someone and his men ride their horses along a path.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS296 	01:11:15,00 --> 01:11:22,50 	someone nods and glances uncomfortably at someone as they ride on.
@@ -21,19 +16,14 @@ ROBIN_HOOD.srt 	ROBIN_HOOD_DVS469 	01:56:02,00 --> 01:56:08,50 	across a rolling
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS500 	02:05:33,00 --> 02:05:37,50 	we ride the
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS516 	02:09:15,00 --> 02:09:24,50 	the sheriff and his men ride into town.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS53 	00:03:48,00 --> 00:03:52,50 	as we ride with her, the vehicles blur and distort.
-SOUL_SURFER.srt 	SOUL_SURFER_DVS17 	00:02:43,00 --> 00:02:50,50 	now standing together on one surfboard, the girls ride a gentle wave.
-SOUL_SURFER.srt 	SOUL_SURFER_DVS258 	01:16:27,00 --> 01:16:32,50 	she pretends to ride a surfboard.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS115 	00:23:10,00 --> 00:23:34,50 	jockeys ride their horses toward the starting gate.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS268 	00:50:51,00 --> 00:50:56,50 	they ride away.
 THE_CALL.srt 	THE_CALL_DVS213 	00:17:20,00 --> 00:17:27,50 	now, patrons ride an escalator in the center of an indoor sunlit mall.
 THE_CALL.srt 	THE_CALL_DVS214 	00:17:26,00 --> 00:17:34,50 	on the lower level, children ride a miniature train around a display of oversized lollipops.
 THE_CALL.srt 	THE_CALL_DVS215 	00:17:31,00 --> 00:17:37,50 	amid the shoppers, two teenage girls ride up the escalator.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS366 	00:56:53,00 --> 00:57:00,50 	the kids ride in back with the wind in their hair.
-THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS323 	01:22:14,00 --> 01:22:19,50 	someone helps duke ride a bike.
 THOR.srt 	THOR_DVS98 	00:14:51,00 --> 00:14:56,50 	ride out of asgard on horseback.
 TRUE_GRIT.srt 	TRUE_GRIT_DVS320 	01:08:23,00 --> 01:08:28,50 	they slowly ride across the someone plains.
 TRUE_GRIT.srt 	TRUE_GRIT_DVS348 	01:11:54,00 --> 01:11:58,50 	they ride through longer grass beside a river.
-TRUE_GRIT.srt 	TRUE_GRIT_DVS435 	01:26:52,00 --> 01:26:56,50 	the men ride off on horseback leaving someone alone with someone.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS425 	00:51:44,00 --> 00:51:48,50 	later they ride in a car with someone.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1059 	01:35:35,00 --> 01:35:40,50 	the others ride in the cabin.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS564 	01:05:54,00 --> 01:06:04,50 	meanwhile, the uninfected girls ride on the rear most seat of a swinging pirate ship with an egyptian pharaoh head on one end.

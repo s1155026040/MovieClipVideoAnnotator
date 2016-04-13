@@ -1,12 +1,6 @@
-CHRONICLE.srt 	CHRONICLE_DVS280 	00:43:05,00 --> 00:43:18,50 	he gives a shy wave, then fumbles in his jacket pocket, produces a deck of playing cards, and faces someone.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS464 	01:08:00,00 --> 01:08:09,50 	as he pries off its cover, he fumbles it, and it falls to the ground.
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS110 	00:28:46,00 --> 00:28:52,50 	someone grins and waves, then frantically fumbles at the buckles.
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS177 	00:43:29,00 --> 00:43:38,50 	the orange team fumbles their way through a warmup game of catch.
-SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS77 	00:14:59,00 --> 00:15:07,50 	a young man fumbles to turn it off, then finds a full-grown bulldog lying on his chest.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS236 	00:46:02,00 --> 00:46:10,50 	his lips part fumbling.
-THE_CALL.srt 	THE_CALL_DVS962 	01:13:52,00 --> 01:13:59,50 	taking out her phone, she fumbles with it over the hole and drops it.
-THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS297 	01:49:15,00 --> 01:49:21,50 	someone fumbles two items from his pocket and sets them on the table.
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS286 	01:16:28,00 --> 01:16:32,50 	he fumbles the trays lid.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS295 	00:54:26,00 --> 00:54:30,50 	she fumbles with goggles.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS472 	00:50:42,00 --> 00:50:48,50 	someone fumbles the powder onto the coffee table.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS209 	00:36:06,00 --> 00:36:13,50 	an approaching porcupine startles the rookie and he backs away, fumbling a few posts.

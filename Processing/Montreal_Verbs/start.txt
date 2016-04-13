@@ -1,167 +1,60 @@
-21_JUMP_STREET.srt 	21_JUMP_STREET_DVS213 	00:36:25,00 --> 00:36:30,50 	the coach starts to give the pass back, then pauses.
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS228 	00:38:10,00 --> 00:38:15,50 	lined up to start, someone boogies.
-21_JUMP_STREET.srt 	21_JUMP_STREET_DVS248 	00:41:09,00 --> 00:41:14,50 	as the door starts to open he forces his way in.
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS399 	01:08:03,00 --> 01:08:14,50 	he starts the engine.
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS399 	01:08:03,00 --> 01:08:14,50 	the revving vintage car starts to backup then lurches to a halt.
-21_JUMP_STREET.srt 	21_JUMP_STREET_DVS504 	01:19:22,00 --> 01:19:27,50 	someone starts to go but turns back.
-21_JUMP_STREET.srt 	21_JUMP_STREET_DVS581 	01:31:11,00 --> 01:31:15,50 	someone starts to follow.
-30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS16 	00:03:28,00 --> 00:03:33,50 	he starts for his car, then turns back.
-30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS79 	00:20:50,00 --> 00:20:58,50 	the delivery guy goes to his car, starts the timer and drives out of the vito's pizza parking lot.
 30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS101 	00:25:09,00 --> 00:25:15,50 	as he starts a timer on the vest the image briefly freezes.
 500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS88 	00:13:06,00 --> 00:13:13,50 	as he starts a drawing, someone glances across the office towards him.
-500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS188 	00:32:19,00 --> 00:32:24,50 	he tosses his bag to a woman and starts to dance.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS87 	00:07:19,00 --> 00:07:24,50 	she starts to speak then swallows.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS213 	00:18:17,00 --> 00:18:25,50 	as someone starts away, someone pulls him toward the blue van.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS630 	01:05:18,00 --> 01:05:24,50 	someone starts to speak, then stops himself.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS152 	00:18:56,00 --> 00:19:02,50 	someone starts to go.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS498 	01:10:09,00 --> 01:10:14,50 	someone starts to go then pauses in the doorway.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS592 	01:21:50,00 --> 01:21:59,50 	someone falls back and the vampire starts to pull him out.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS625 	01:28:06,00 --> 01:28:18,50 	they start for the locomotive but stop short.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS640 	01:30:19,00 --> 01:31:04,50 	just before it slips off the edge, the locomotive starts to climb the angled track.
 BAD_TEACHER.srt 	BAD_TEACHER_DVS33 	00:11:58,00 --> 00:12:04,50 	as the movie starts someone wraps her sweater.
-BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS86 	00:12:46,00 --> 00:12:51,50 	sitting back up, he starts his engine.
-BURLESQUE.srt 	BURLESQUE_DVS111 	00:14:46,00 --> 00:14:54,50 	collecting empty glasses, the ambitious girl starts taking drink orders.
 BURLESQUE.srt 	BURLESQUE_DVS282 	00:38:48,00 --> 00:38:52,50 	as someone starts up again,
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS289 	00:55:34,00 --> 00:55:39,50 	he climbs behind the wheel and starts the engine.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS461 	00:44:48,00 --> 00:44:55,50 	later, someone starts a timer on his watch and skateboards beside a bus.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS511 	00:49:50,00 --> 00:49:57,50 	someone smiles enviously as the veteran starts a 30-foot drop.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS1016 	01:38:49,00 --> 01:38:57,50 	as the 30 foot monster starts to break, the group paddles up and over it in the someone of time.
-CHRONICLE.srt 	CHRONICLE_DVS175 	00:26:28,00 --> 00:26:33,50 	the truck starts to move.
-CHRONICLE.srt 	CHRONICLE_DVS281 	00:43:16,00 --> 00:43:21,50 	someone starts to cross the stage with the cards.
 CHRONICLE.srt 	CHRONICLE_DVS448 	01:05:35,00 --> 01:05:40,50 	someone's nose starts to bleed.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS376 	01:32:31,00 --> 01:32:40,50 	someone starts a film projector.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS386 	01:33:47,00 --> 01:34:20,50 	the promoter starts the projector again, playing the reel forward.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS400 	01:37:24,00 --> 01:37:29,50 	a waiter starts to clear the table.
-CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS491 	01:52:38,00 --> 01:52:46,50 	with a nervous look, he glances back at someone then starts toward the ring.
-COLOMBIANA.srt 	COLOMBIANA_DVS353 	00:32:13,00 --> 00:32:18,50 	the prisoner starts to enter the cell then pauses.
-COLOMBIANA.srt 	COLOMBIANA_DVS446 	00:39:23,00 --> 00:39:30,50 	she starts to reach up but withdraws her hand as an officer arrives above her.
-COLOMBIANA.srt 	COLOMBIANA_DVS577 	00:52:30,00 --> 00:52:37,50 	looking around, he moves to a coin operated washing machine and starts a load.
-COLOMBIANA.srt 	COLOMBIANA_DVS746 	01:11:04,00 --> 01:11:08,50 	he starts to leave.
-COLOMBIANA.srt 	COLOMBIANA_DVS920 	01:28:19,00 --> 01:28:24,50 	she starts the microwave then leaves.
-COLOMBIANA.srt 	COLOMBIANA_DVS963 	01:32:50,00 --> 01:32:55,50 	he hurries over and starts to lift him.
 COLOMBIANA.srt 	COLOMBIANA_DVS1036 	01:37:46,00 --> 01:37:54,50 	he shoves her away but she wraps the towel around his neck and starts to choke him from behind.
-COLOMBIANA.srt 	COLOMBIANA_DVS1039 	01:38:00,00 --> 01:38:12,50 	standing behind her, he wraps the towel around her neck and starts to choke her.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS127 	00:20:32,00 --> 00:20:36,50 	it starts to rain.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS175 	00:28:39,00 --> 00:28:44,50 	someone starts to speak, then turns away.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS198 	00:31:15,00 --> 00:31:33,50 	his father looks on as he starts to put the silverware away.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS212 	00:33:23,00 --> 00:33:29,50 	she gives him an envelope and he starts to open it.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS698 	01:34:03,00 --> 01:34:10,50 	someone rises and starts out of the room, then whirls around.
-DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS206 	00:49:56,00 --> 00:50:02,50 	someone starts for the door then stops.
-DISTRICT_9.srt 	DISTRICT_9_DVS282 	00:31:25,00 --> 00:31:34,50 	he coughs into a napkin, and starts filling out a form.
-DISTRICT_9.srt 	DISTRICT_9_DVS331 	00:36:17,00 --> 00:36:28,50 	he grabs a napkin and starts to mop it up, but collapses onto the table and rolls to the floor.
-EASY_A.srt 	EASY_A_DVS198 	01:01:40,00 --> 01:01:47,50 	as someone starts to leave, she bumps into someone.
-EASY_A.srt 	EASY_A_DVS228 	01:11:59,00 --> 01:12:04,50 	she starts to open the passenger door, but he shuts it.
 FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS37 	00:10:25,00 --> 00:10:31,50 	she starts across the street, but someone remains on the sidewalk.
-FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS59 	00:15:44,00 --> 00:15:53,50 	nearby a man holds up a boom box while another starts break dancing.
 FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS77 	00:19:50,00 --> 00:19:55,50 	he starts off, then backtracks.
-FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS143 	00:38:02,00 --> 00:38:07,50 	she starts to lie down.
 FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS150 	00:39:15,00 --> 00:39:22,50 	she grins and they start to have sex.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS249 	00:39:38,00 --> 00:40:01,50 	he starts to climb the ladder to the control cab, then pauses and turns to someone who gawks.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS363 	00:53:32,00 --> 00:53:39,50 	someone gives an uncertain look as she and someone start off with the monks.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS555 	01:18:56,00 --> 01:19:05,50 	at her post, someone turns to find someone's motorcycle erupting flames as the engine starts by itself.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS567 	01:21:50,00 --> 01:22:03,50 	someone grabs the chains which start to rot in his grasp.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS150 	00:39:09,00 --> 00:39:13,50 	someone starts off.
-GREEN_ZONE.srt 	GREEN_ZONE_DVS276 	01:04:01,00 --> 01:04:10,50 	facing someone earnestly, she starts to bite her lip then stifles the action.
-GREEN_ZONE.srt 	GREEN_ZONE_DVS400 	01:30:25,00 --> 01:30:33,50 	now, someone reaches the same junction and starts for the hall.
 HUGO.srt 	HUGO_DVS280 	00:40:42,00 --> 00:40:47,50 	the clock face starts to detach from the building.
-HUGO.srt 	HUGO_DVS293 	00:43:31,00 --> 00:43:37,50 	someone starts to slide away but someone grabs the hem of his coat.
 IN_TIME.srt 	IN_TIME_DVS88 	00:09:44,00 --> 00:09:56,50 	the stranger starts to wander off.
 IN_TIME.srt 	IN_TIME_DVS251 	00:25:55,00 --> 00:26:02,50 	he starts to jog down the walkway and the people strolling past glance at him.
-IN_TIME.srt 	IN_TIME_DVS369 	00:38:52,00 --> 00:38:58,50 	someone starts for the ocean, then pauses and turns back, unbuckling his belt.
-IN_TIME.srt 	IN_TIME_DVS412 	00:44:24,00 --> 00:44:31,50 	someone starts to go.
 IN_TIME.srt 	IN_TIME_DVS811 	01:26:09,00 --> 01:26:18,50 	he starts to rotate his arm over the gangster's.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS22 	00:06:44,00 --> 00:06:49,50 	as she starts toward the house,
-ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS211 	01:03:24,00 --> 01:03:33,50 	someone starts to salt his, but someone takes the shaker away.
-ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS219 	01:04:47,00 --> 01:04:52,50 	she starts to push her tray away then leans back.
-ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS220 	01:04:54,00 --> 01:05:08,50 	as she starts to get up someone takes her hand and she waits.
-ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS312 	01:30:13,00 --> 01:30:18,50 	they start to kiss again.
 JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS249 	01:26:04,00 --> 01:26:12,50 	the ladies start to dance.
-KARATE_KID.srt 	KARATE_KID_DVS201 	00:17:21,00 --> 00:17:31,50 	someone starts to return the music to the girl.
-KARATE_KID.srt 	KARATE_KID_DVS202 	00:17:29,00 --> 00:17:35,50 	as the girl starts to put her violin away, someone picks up the music again.
-KARATE_KID.srt 	KARATE_KID_DVS311 	00:27:53,00 --> 00:28:02,50 	he starts to get a tray, then pauses.
-KARATE_KID.srt 	KARATE_KID_DVS344 	00:31:08,00 --> 00:31:15,50 	the american starts to go, but the bullies surround him.
 KARATE_KID.srt 	KARATE_KID_DVS624 	00:53:32,00 --> 00:53:37,50 	someone starts for the door.
 KARATE_KID.srt 	KARATE_KID_DVS1442 	01:57:00,00 --> 01:57:15,50 	on the platform, someone saunters to his starting position.
 KARATE_KID.srt 	KARATE_KID_DVS1563 	02:06:39,00 --> 02:06:48,50 	someone limps to his starting position as someone regards him wearily.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS459 	00:52:03,00 --> 00:52:12,50 	perching atop the zebra's carcass, he starts to take a bite.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS499 	00:55:18,00 --> 00:55:24,50 	with the animal distracted, someone starts to climb from the prow.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS728 	01:15:45,00 --> 01:16:00,50 	he heaves it onto the canvas and turns starting down someone someone as fish continue flying by.
 LITTLE_FOCKERS.srt 	LITTLE_FOCKERS_DVS82 	00:30:54,00 --> 00:30:58,50 	a slide show starts.
 LITTLE_FOCKERS.srt 	LITTLE_FOCKERS_DVS169 	00:59:33,00 --> 00:59:37,50 	someone starts the timer.
 LITTLE_FOCKERS.srt 	LITTLE_FOCKERS_DVS225 	01:20:21,00 --> 01:20:26,50 	he starts to cry.
-MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS213 	00:31:17,00 --> 00:31:22,50 	he glares, then starts to walk away.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS665 	01:22:15,00 --> 01:22:22,50 	he starts a round of applause.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS134 	00:30:45,00 --> 00:30:50,50 	someone starts for the door.
-NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS337 	01:14:11,00 --> 01:14:15,50 	they start to run.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS381 	01:20:21,00 --> 01:20:26,50 	below, in the house, someone starts to sign the deed.
-NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS551 	01:41:38,00 --> 01:41:43,50 	and the door starts to close.
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS106 	00:27:34,00 --> 00:27:39,50 	someone starts over.
-PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS350 	01:23:57,00 --> 01:24:02,50 	someone starts to go.
-PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS135 	00:31:50,00 --> 00:31:59,50 	someone starts to run away but the soldier jumps out and strikes at him.
-PROMETHEUS.srt 	PROMETHEUS_DVS374 	00:36:57,00 --> 00:37:01,50 	someone starts to leave.
 PROMETHEUS.srt 	PROMETHEUS_DVS784 	01:24:17,00 --> 01:24:24,50 	the med pot starts to tilt upright and someone slams a button beside her.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS472 	01:29:44,00 --> 01:29:48,50 	both men start off.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS317 	01:16:32,00 --> 01:16:43,50 	it starts gently, then quickly gathers force as lightning flashes overhead.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS262 	00:40:40,00 --> 00:40:48,50 	a reluctant someone starts typing and we glimpse his words as they spell out on the page.
-RUBY_SPARKS.srt 	RUBY_SPARKS_DVS398 	01:03:36,00 --> 01:03:42,50 	someone slides the carriage to its starting position.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS411 	01:04:23,00 --> 01:04:28,50 	he starts to sidle out from under her.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS472 	01:11:52,00 --> 01:12:00,50 	someone starts toward the couch.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS555 	01:25:12,00 --> 01:25:17,50 	she starts to panic.
-RUBY_SPARKS.srt 	RUBY_SPARKS_DVS603 	01:28:59,00 --> 01:29:04,50 	someone slides the carriage and starts a new line.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS100 	00:07:03,00 --> 00:07:09,50 	someone starts to follow, but someone discreetly steps in her path.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS107 	00:07:24,00 --> 00:07:31,50 	leaving the turntable, she starts to cross the tastefully decorated room.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS350 	00:23:41,00 --> 00:23:48,50 	someone starts to guide the bride away, but someone stops.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS28 	00:05:52,00 --> 00:06:00,50 	someone starts toward it.
-SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS169 	00:33:21,00 --> 00:33:32,50 	it starts to move.
 SOUL_SURFER.srt 	SOUL_SURFER_DVS125 	00:40:55,00 --> 00:40:59,50 	someone starts to eat.
-SOUL_SURFER.srt 	SOUL_SURFER_DVS180 	00:54:39,00 --> 00:54:47,50 	as her parents watch, someone lays a short board across the table and starts to lean down.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS490 	01:19:07,00 --> 01:19:11,50 	she starts cpr.
 SUPER_8.srt 	SUPER_8_DVS467 	01:21:54,00 --> 01:21:59,50 	the creature rocks the bus as the driver tries to start the engine.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS329 	00:51:04,00 --> 00:51:10,50 	sitting in the cockpit someone pulls a knob and starts the plane.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS591 	01:20:49,00 --> 01:20:55,50 	someone starts the motorcycle and they race down a narrow road after the jeep.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS69 	00:15:42,00 --> 00:15:56,50 	someone catches his eye as someone starts to take a seat at an empty table.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS270 	00:51:54,00 --> 00:52:08,50 	as she pulls him in and starts to dance he sits again.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS337 	01:05:43,00 --> 01:05:50,50 	he now takes a brush to his canvas and starts his painting.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS115 	00:23:10,00 --> 00:23:34,50 	jockeys ride their horses toward the starting gate.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS124 	00:24:42,00 --> 00:24:46,50 	she starts to go.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS126 	00:26:10,00 --> 00:26:16,50 	a race starts and someone runs too.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS201 	00:40:58,00 --> 00:41:02,50 	she starts off.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS397 	01:15:30,00 --> 01:15:36,50 	someone starts to open her mouth, then shakes her head and smiles.
-THE_CALL.srt 	THE_CALL_DVS535 	00:41:27,00 --> 00:41:33,50 	the enraged man starts off, then turns as the helpless driver crawls away.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS90 	00:16:37,00 --> 00:16:43,50 	he glances at her, starts to go, but hesitates.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS306 	00:46:35,00 --> 00:46:41,50 	someone starts to gesture with it, then hurls it across the room.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS437 	00:52:06,00 --> 00:52:12,50 	someone starts to move past his ward then stops in front of her.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS444 	00:52:35,00 --> 00:52:39,50 	someone starts to take it from her.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS568 	01:03:02,00 --> 01:03:11,50 	he starts on the next binder.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS642 	01:09:52,00 --> 01:10:00,50 	he starts to cut into his sandwich before noticing his daughter's head bowed in prayer.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS713 	01:19:47,00 --> 01:19:53,50 	someone stubs out her cigarette and starts to walk away.
 THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS169 	00:56:11,00 --> 00:56:15,50 	someone starts to fidget.
-THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS279 	01:31:37,00 --> 01:31:48,50 	the end credits start to roll over the scene, as a man pushes his mother on a wheelchair, and a teenager offers his mom a sip from his juice box.
-THE_VOW.srt 	THE_VOW_DVS693 	01:36:22,00 --> 01:36:29,50 	turning from the entrance someone starts to walk off, but spots someone approaching.
-THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS264 	01:10:28,00 --> 01:10:33,50 	someone starts toward him, and someone quickly leaves.
-THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS281 	00:52:26,00 --> 00:52:31,50 	someone starts to open it.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS354 	01:04:16,00 --> 01:04:33,50 	they start tearing off each other's clothes.
-THOR.srt 	THOR_DVS258 	00:35:22,00 --> 00:35:28,50 	someone starts the truck, puts it into reverse, and backs into someone.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS77 	00:09:56,00 --> 00:10:00,50 	she starts off.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS137 	00:17:14,00 --> 00:17:18,50 	she grins, then starts off.
-TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS280 	00:34:38,00 --> 00:34:43,50 	he grabs it and starts to wriggle back out.
-TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS353 	00:39:25,00 --> 00:39:31,50 	as a player charges someone, someone starts over, then reads a message on the scoreboard.
-TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS768 	01:23:16,00 --> 01:23:21,50 	an ear bud wire trails from someone starts to approach, then pauses.
-TRUE_GRIT.srt 	TRUE_GRIT_DVS263 	00:54:07,00 --> 00:54:14,50 	the men start shooting from the cabin and someone returns fire.
-TRUE_GRIT.srt 	TRUE_GRIT_DVS408 	01:20:58,00 --> 01:21:05,50 	she shoots him as he starts towards her and the recoil puts her on her backside in the water.
-TRUE_GRIT.srt 	TRUE_GRIT_DVS507 	01:34:17,00 --> 01:34:21,50 	it starts to move.
-TRUE_GRIT.srt 	TRUE_GRIT_DVS514 	01:34:52,00 --> 01:34:58,50 	someone throws a rope into the cave and starts down the slope.
-UGLY_TRUTH.srt 	UGLY_TRUTH_DVS552 	01:13:50,00 --> 01:13:55,50 	the doors start to slide shut.
-UGLY_TRUTH.srt 	UGLY_TRUTH_DVS554 	01:13:59,00 --> 01:14:04,50 	the doors start to close again and someone pushes them open.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS461 	01:12:53,00 --> 01:12:57,50 	he starts to leave.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS719 	01:43:29,00 --> 01:43:36,50 	as someone starts to go, someone stops him.
-WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS66 	00:05:39,00 --> 00:05:43,50 	someone starts to remove her coat.
-WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS495 	01:10:33,00 --> 01:10:40,50 	she picks up a cell phone and reads a string of text messages starting with someone's phone number.
-WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS501 	01:11:07,00 --> 01:11:13,50 	he hops on the couch, then grabs a magazine from a coffee table and starts to read.
-WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS599 	01:21:20,00 --> 01:21:26,50 	as he continues down, someone starts to speak, then stops herself.
-WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS672 	01:33:41,00 --> 01:33:52,50 	someone takes the list, then dashes around a few tables, and starts across the lawn.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS975 	01:29:28,00 --> 01:29:37,50 	starting at her hand, she shifts into her natural form, with scaly blue skin, slick dark-red hair, and pale-yellow eye
-YOUNG_ADULT.srt 	YOUNG_ADULT_DVS167 	00:32:09,00 --> 00:32:14,50 	someone shuts his door and starts his car.
-ZOOKEEPER.srt 	ZOOKEEPER_DVS205 	00:46:13,00 --> 00:46:18,50 	he starts to turn away.
 ZOOKEEPER.srt 	ZOOKEEPER_DVS263 	00:57:47,00 --> 00:57:53,50 	someone mouths along to the lyrics as the couple starts dancing.
 ZOOKEEPER.srt 	ZOOKEEPER_DVS278 	01:00:24,00 --> 01:00:28,50 	he starts to sway a little.

@@ -1,27 +1,4 @@
-21_JUMP_STREET.srt 	21_JUMP_STREET_DVS228 	00:38:10,00 --> 00:38:15,50 	lined up to start, someone boogies.
-30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS18 	00:03:39,00 --> 00:03:46,50 	now the mustang drives an empty road lined with abandoned warehouses.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS560 	01:37:47,00 --> 01:38:04,50 	propellers lining the back of the boomerang-shaped bomber spin to life as the plane fires twin thrusters and rolls down the hangar's runway.
-CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS34 	00:07:53,00 --> 00:08:08,50 	now our view keeps moving to a white washed dresser top lined with a simple lace runner.
-HUGO.srt 	HUGO_DVS108 	00:14:27,00 --> 00:14:36,50 	someone rubs his hands together as the man trudges up stone steps then turns down a street lined with tall tenements.
-HUGO.srt 	HUGO_DVS470 	01:08:29,00 --> 01:08:38,50 	elsewhere, in a cavernous library lined with long tables and reading lamps, sunlight filters in through tall arched windows.
-INSIDE_MAN.srt 	INSIDE_MAN_DVS175 	00:50:16,00 --> 00:50:37,50 	she moves a tile into a trash bag lined box, gets to her feet and removes a pair of rubber gloves.
-INSIDE_MAN.srt 	INSIDE_MAN_DVS221 	01:02:30,00 --> 01:02:44,50 	in the bank's supply room, one of the robbers digs more at the hole in the corner and scoops dirt into the trash bag lined box.
-JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS134 	00:47:56,00 --> 00:48:15,50 	now on a palm tree lined beach, someone steps out of the water in a yellow string bikini.
 KARATE_KID.srt 	KARATE_KID_DVS95 	00:08:28,00 --> 00:08:34,50 	he surveys the run-down hallway, lined with houseplants,
-KARATE_KID.srt 	KARATE_KID_DVS107 	00:09:57,00 --> 00:10:05,50 	later, someone moves a suitcase into the apartment, then ambles over to the windows lining the hallway.
-KARATE_KID.srt 	KARATE_KID_DVS1649 	02:13:54,00 --> 02:14:03,50 	lined up behind him, his fellow students sidestep into view, copy the gesture, and bow solemnly.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS144 	00:18:11,00 --> 00:18:23,50 	now young someone walks down a dirt road lined with grimy homes.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS498 	00:55:13,00 --> 00:55:21,50 	he walks along the benches lining the boat's perimeter, pausing to paw at the zebra carcass.
-PROMETHEUS.srt 	PROMETHEUS_DVS1020 	01:51:24,00 --> 01:51:34,50 	flaps on its underside blossom outward like petals, revealing egg-shaped buds surrounding a vertical mouth lined with dagger-like teeth.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS75 	00:12:46,00 --> 00:13:05,50 	reaching the top, someone stops, scanning a huge bank with angular walls lined with tellers.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS400 	01:17:30,00 --> 01:17:55,50 	now, the car speeds down an empty road lined with tall evergreens that just into the pale blue sky.
-RUBY_SPARKS.srt 	RUBY_SPARKS_DVS177 	00:29:14,00 --> 00:29:22,50 	now, someone slumps miserably as he drives down a street lined with quaint storefronts.
-SALT.srt 	SALT_DVS326 	00:58:05,00 --> 00:58:16,50 	and her shoulders wrapped in a knee length fur lined shawl.
-SUPER_8.srt 	SUPER_8_DVS355 	01:03:30,00 --> 01:03:35,50 	she races down a street lined with cars.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS101 	00:14:20,00 --> 00:14:26,50 	someone steps into another room lined with scaffolding.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS119 	00:27:44,00 --> 00:27:56,50 	traffic drives past the median lined with christmas trees.
-THE_CALL.srt 	THE_CALL_DVS752 	00:56:49,00 --> 00:56:56,50 	from the other side of a grimy window lined with figurines, we watch the car slow to a stop.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS82 	00:08:53,00 --> 00:08:58,50 	she stares through darkly lined eyes.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS170 	00:29:29,00 --> 00:29:43,50 	someone leads the group down a trail lined with tall bushes.
-WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS57 	00:04:44,00 --> 00:04:52,50 	as she reaches the other side, our view lifts to the densely packed skyscrapers lining the street.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS411 	00:46:56,00 --> 00:47:04,50 	later on a street lined with palm trees,

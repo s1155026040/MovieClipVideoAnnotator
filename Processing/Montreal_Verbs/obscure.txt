@@ -1,17 +1,6 @@
-BRUNO.srt 	BRUNO_DVS260 	01:14:57,00 --> 01:15:03,50 	someone enters, wearing a wedding dress with a veil obscuring his face.
-COLOMBIANA.srt 	COLOMBIANA_DVS694 	01:05:26,00 --> 01:05:32,50 	two clips show someone at the police station, her face obscured.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS156 	00:24:35,00 --> 00:24:43,50 	as our view drifts upward, his armed uniform obscures them from view.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS185 	00:29:29,00 --> 00:29:40,50 	his feature obscured by shadow.
 DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS160 	00:38:00,00 --> 00:38:10,50 	a chair obscures someone from his view.
 KARATE_KID.srt 	KARATE_KID_DVS1190 	01:37:33,00 --> 01:37:39,50 	his face nearly obscured by a milky haze of cracks.
-KATY_PERRY_PART_OF_ME.srt 	KATY_PERRY_PART_OF_ME_DVS205 	00:53:14,00 --> 00:53:24,50 	elsewhere, lady gaga wearing a huge hat obscuring her face high fives someone.
-MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS683 	01:24:59,00 --> 01:25:08,50 	a gust of snowflakes obscures our view, then clears to reveal the family in goggles and winter coats with fur-lined hoods.
-SUPER_8.srt 	SUPER_8_DVS262 	00:44:32,00 --> 00:44:40,50 	he turns and stares toward the adjacent junkyard which is obscured behind trees then returns to his repairs.
-THE_CALL.srt 	THE_CALL_DVS116 	00:09:00,00 --> 00:09:09,50 	his face obscured by a ball cap, the menacing man turns.
 THE_CALL.srt 	THE_CALL_DVS828 	01:03:08,00 --> 01:03:12,50 	now darkness obscures our view.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS709 	01:39:03,00 --> 01:39:09,50 	her face obscured by a large bouquet held in front of it.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS477 	00:54:55,00 --> 00:55:01,50 	her black chin length hair obscuring her face.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS818 	01:33:37,00 --> 01:33:45,50 	obscured by a sweatshirt's pulled up hood.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS987 	01:48:02,00 --> 01:48:08,50 	one shows a partially obscured figure wearing a prep school blazer.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS483 	01:15:07,00 --> 01:15:13,50 	a lens flare obscures her angelic face with brilliant sunlight.
-WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS94 	00:08:14,00 --> 00:08:22,50 	she steps out of the shower, obscured by steam, bends over her open notebook, and adds the name to the list.

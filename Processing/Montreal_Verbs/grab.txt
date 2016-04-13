@@ -1,4 +1,3 @@
-21_JUMP_STREET.srt 	21_JUMP_STREET_DVS26 	00:03:12,00 --> 00:03:18,50 	he gives the trashcan a kick then grabs his aching leg.
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS523 	01:22:11,00 --> 01:22:18,50 	inside, someone grabs a set of handcuffs.
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS570 	01:29:04,00 --> 01:29:08,50 	someone grabs her.
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS586 	01:31:32,00 --> 01:31:36,50 	he grabs the biker's bag.
@@ -6,14 +5,11 @@
 30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS56 	00:12:10,00 --> 00:12:19,50 	now in an apartment the shaggy-haired delivery guy grabs a rolling rock from a refrigerator, then enters the living room.
 30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS58 	00:12:32,00 --> 00:12:37,50 	someone grabs a remote and shuts off the tv.
 30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS74 	00:19:19,00 --> 00:19:25,50 	he grabs a component from a cluttered workbench.
-30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS243 	00:58:11,00 --> 00:58:17,50 	someone pulls her down and slams her into someone's car, then grabs the bag.
 30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS255 	01:00:48,00 --> 01:00:52,50 	he grabs his phone.
 30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS278 	01:05:04,00 --> 01:05:10,50 	from a desk he grabs a pen with a plunger at its end.
 30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS290 	01:06:35,00 --> 01:06:41,50 	the hit man grabs his own gun and pistol-whips him.
-30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS306 	01:10:07,00 --> 01:10:14,50 	someone sits in the passenger seat while someone grabs the loot and gets behind the wheel.
 40_YEAR_OLD_VIRGIN.srt 	40_YEAR_OLD_VIRGIN_DVS64 	00:35:37,00 --> 00:35:43,50 	she grabs one end of the cloth.
 500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS108 	00:18:40,00 --> 00:18:49,50 	someone smiles as she sings, then grabs another couple of beers and chasers from the bar.
-500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS146 	00:27:44,00 --> 00:27:50,50 	she grabs a dummy remote from a coffee table and pretends to watch tv.
 500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS190 	00:32:32,00 --> 00:32:38,50 	someone grabs a baseball bat and knocks an imaginary ball out of the park.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS203 	00:17:34,00 --> 00:17:41,50 	someone grabs a pistol from a deceased officer and pushes someone forward.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS245 	00:20:27,00 --> 00:20:35,50 	reaching over, he grabs an earpiece from the glove box and puts it on.
@@ -24,7 +20,6 @@ A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS919 	01:28:35,00 --> 01:28
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS149 	00:30:09,00 --> 00:30:13,50 	someone grabs the man.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS239 	00:45:25,00 --> 00:45:31,50 	someone knocks down a passing man then grabs another doll of a blond woman's desk.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS274 	00:51:35,00 --> 00:51:41,50 	as someone steps toward the door, someone hurries after her and grabs her arm.
-A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS287 	00:53:06,00 --> 00:53:12,50 	staring at him, a nearby woman grabs a young girls hand and leads her away.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS366 	01:03:27,00 --> 01:03:31,50 	he grabs someone's collar.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS30 	00:03:35,00 --> 00:03:42,50 	he grabs the cane revealing its handle as a secret pistol aimed at his chest.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS98 	00:10:50,00 --> 00:10:55,50 	he grabs someone by the hair and flips him.
@@ -39,20 +34,16 @@ ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS312 	00:45
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS322 	00:46:21,00 --> 00:46:37,50 	baring his newfound fangs, someone grabs his dagger and charges the vampire.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS403 	00:58:20,00 --> 00:58:30,50 	he grabs his ax.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS592 	01:21:50,00 --> 01:21:59,50 	hands burst through the baseboards and grab his ankles.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS596 	01:22:12,00 --> 01:22:46,50 	grabbing his guns, someone fires taking him down.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS596 	01:22:12,00 --> 01:22:46,50 	he fights his way free then grabs a huge pistol and blows the monster away.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS608 	01:24:36,00 --> 01:25:32,50 	he grabs his partner's weapon and attacks the new arrival knocking the monster over the edge.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS611 	01:25:54,00 --> 01:26:01,50 	as he slides head first over the edge, someone grabs his ankle.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS657 	01:32:57,00 --> 01:33:03,50 	she grabs a nearby rifle and heads after the vampire.
 BAD_TEACHER.srt 	BAD_TEACHER_DVS133 	00:35:16,00 --> 00:35:27,50 	sticking the joint between his lips he jumps up and grabs the rope.
-BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS34 	00:02:52,00 --> 00:03:02,50 	the fbi agent grabs the bulky duke university letter and stands.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS102 	00:14:51,00 --> 00:14:56,50 	he grabs someone and aims his gun at the thug's neck.
-BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS112 	00:15:45,00 --> 00:15:50,50 	he grabs his phone from his pocket and turns it off.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS265 	00:44:55,00 --> 00:45:01,50 	someone and someone grab his arms and urge him to his feet.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS305 	00:49:59,00 --> 00:50:04,50 	out of breath, he grabs a curtain to brace himself.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS318 	00:53:29,00 --> 00:53:35,50 	he quickly grabs his radio.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS347 	00:57:16,00 --> 00:57:24,50 	she grabs another top.
-BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS350 	00:57:25,00 --> 00:57:31,50 	grabbing someone's hand, she pulls him into a dressing room.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS361 	00:58:20,00 --> 00:58:25,50 	someone grabs a product.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS448 	01:11:30,00 --> 01:11:34,50 	he grabs the spinner.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS532 	01:23:08,00 --> 01:23:12,50 	he gets in and grabs her cell.
@@ -62,20 +53,15 @@ BRUNO.srt 	BRUNO_DVS142 	00:33:54,00 --> 00:34:07,50 	someone grabs an elephant 
 BRUNO.srt 	BRUNO_DVS142 	00:33:54,00 --> 00:34:07,50 	his assistant grabs the box, and someone helps him set it down.
 BRUNO.srt 	BRUNO_DVS173 	00:47:26,00 --> 00:47:30,50 	someone grabs a man's sign.
 BURLESQUE.srt 	BURLESQUE_DVS110 	00:14:39,00 --> 00:14:48,50 	so she doffs her brown-leather jacket and grabs an empty tray from the bar.
-BURLESQUE.srt 	BURLESQUE_DVS195 	00:29:24,00 --> 00:29:29,50 	she grabs a newspaper and holds it overhead.
 BURLESQUE.srt 	BURLESQUE_DVS303 	00:41:15,00 --> 00:41:20,50 	someone watches as someone grabs his phone off the bed.
-BURLESQUE.srt 	BURLESQUE_DVS354 	00:49:01,00 --> 00:49:07,50 	someone grabs a musician out of the band and pulls him onstage.
-BURLESQUE.srt 	BURLESQUE_DVS380 	00:52:58,00 --> 00:53:04,50 	as someone grabs her stuff, someone self-consciously looks away.
 BURLESQUE.srt 	BURLESQUE_DVS452 	01:01:51,00 --> 01:01:54,50 	he grabs her bag.
 BURLESQUE.srt 	BURLESQUE_DVS472 	01:05:09,00 --> 01:05:14,50 	someone marches over and grabs the card.
 BURLESQUE.srt 	BURLESQUE_DVS652 	01:40:59,00 --> 01:41:03,50 	she grabs her jacket.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS196 	00:35:40,00 --> 00:35:48,50 	putting on a pair of glasses with dark lenses, he grabs a metal wheel and turns it with both hands.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS218 	00:38:50,00 --> 00:39:08,50 	someone cuts down the agents with machine gun fire as he passes, then grabs his wounded shoulder.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS297 	00:56:46,00 --> 00:56:54,50 	as anti-aircraft shells burst in the sky, someone grabs his shield and moves toward the plane door.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS319 	01:00:22,00 --> 01:00:30,50 	he examines a chest-high cylindrical object studded with glowing blue components, then grabs a small device about the size of a cigarette lighter and slips it into his pants pocket.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS342 	01:03:39,00 --> 01:03:47,50 	someone grabs a grenade from an open crate and hurls it into enemy ranks, exploding several hydra soldiers.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS380 	01:08:26,00 --> 01:08:32,50 	someone runs and leaps, grabbing on to the far railing just before the beam falls.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS424 	01:17:04,00 --> 01:17:09,50 	she grabs his tie and pulls him behind a bookcase.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS459 	01:22:36,00 --> 01:22:41,50 	someone grabs a handle attached to the cable.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS481 	01:24:49,00 --> 01:24:59,50 	someone grabs the shield and hurls it into the trooper.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS519 	01:33:07,00 --> 01:33:14,50 	grabbing his shield, someone leaps off the moving motorcycle and tackles a trooper.
@@ -86,32 +72,23 @@ CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS205 	00:16:38,00 --> 00:16:42,50 	so
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS223 	00:17:52,00 --> 00:17:58,50 	someone hurriedly grabs his things and rushes out the door.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS405 	00:38:01,00 --> 00:38:07,50 	someone grabs the cupcake from him, eyes it, then tosses it in the back.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS426 	00:40:30,00 --> 00:40:35,50 	he grabs his board and heads to the water.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS451 	00:43:50,00 --> 00:43:56,50 	swimming underwater, he grabs her ankle and pulls her back.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS478 	00:46:00,00 --> 00:46:05,50 	she grabs a pot from the stove as someone continues feasting.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS562 	00:54:31,00 --> 00:54:37,50 	he pulls the cigar box from the drawer and grabs his wad of cash.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS652 	01:02:42,00 --> 01:02:48,50 	as the creature swims away, the mentor grabs the teen and urges him up toward the surface.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS670 	01:05:09,00 --> 01:05:15,50 	someone leans behind the counter and grabs his stuff.
-CHRONICLE.srt 	CHRONICLE_DVS32 	00:04:03,00 --> 00:04:08,50 	watching the girls, he grabs a bag of chips.
 CHRONICLE.srt 	CHRONICLE_DVS83 	00:11:24,00 --> 00:11:31,50 	someone grabs the cameraman.
 CHRONICLE.srt 	CHRONICLE_DVS228 	00:32:48,00 --> 00:32:53,50 	with his free hand, he grabs the camera.
 CHRONICLE.srt 	CHRONICLE_DVS235 	00:33:28,00 --> 00:33:34,50 	someone grabs him.
-CHRONICLE.srt 	CHRONICLE_DVS389 	00:59:14,00 --> 00:59:20,50 	left alone, someone grabs his backpack and heads out.
 CHRONICLE.srt 	CHRONICLE_DVS445 	01:05:26,00 --> 01:05:30,50 	someone grabs his wrist.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS26 	00:06:48,00 --> 00:06:56,50 	letting them back down, she grabs him by the collar and kisses him.
-CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS42 	00:09:00,00 --> 00:09:08,50 	as she holds them out to the groggy boxer, he grabs her arm and pulls her in for a kiss.
-CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS49 	00:09:42,00 --> 00:09:58,50 	wearing suspenders over his t-shirt, he grabs the bottles.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS58 	00:11:26,00 --> 00:11:31,50 	he grabs a coat and heads to the door.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS74 	00:14:24,00 --> 00:14:29,50 	the boy gets up and grabs the salami off the
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS466 	01:48:37,00 --> 01:48:42,50 	he peels off his dress shirt and grabs a coat hanger.
 COLOMBIANA.srt 	COLOMBIANA_DVS138 	00:12:44,00 --> 00:12:50,50 	someone grabs the hidden knife and stabs his hand to the table.
 COLOMBIANA.srt 	COLOMBIANA_DVS142 	00:13:03,00 --> 00:13:09,50 	someone grabs the gunman.
-COLOMBIANA.srt 	COLOMBIANA_DVS175 	00:15:29,00 --> 00:15:35,50 	stepping onto a stack of wooden crates, she grabs the first rung.
 COLOMBIANA.srt 	COLOMBIANA_DVS214 	00:18:26,00 --> 00:18:30,50 	he grabs a tissue.
 COLOMBIANA.srt 	COLOMBIANA_DVS231 	00:19:40,00 --> 00:19:45,50 	with a frown, she grabs the passport and money.
 COLOMBIANA.srt 	COLOMBIANA_DVS351 	00:32:04,00 --> 00:32:09,50 	he grabs a thermos.
-COLOMBIANA.srt 	COLOMBIANA_DVS648 	01:00:46,00 --> 01:00:53,50 	staring cautiously, someone grabs a gun resting in one of men's hands.
 COLOMBIANA.srt 	COLOMBIANA_DVS665 	01:02:31,00 --> 01:02:38,50 	as the sharks attack, he flails and grabs futily at the glass.
-COLOMBIANA.srt 	COLOMBIANA_DVS723 	01:08:48,00 --> 01:08:53,50 	someone grabs her arms and holds her at bay.
 COLOMBIANA.srt 	COLOMBIANA_DVS734 	01:09:30,00 --> 01:09:37,50 	grabbing his phone, he heads over and gazes down at the slumbering beauty.
 COLOMBIANA.srt 	COLOMBIANA_DVS760 	01:13:32,00 --> 01:13:39,50 	his friend grabs his left behind phone off the table and makes a call with it.
 COLOMBIANA.srt 	COLOMBIANA_DVS1024 	01:37:06,00 --> 01:37:13,50 	as she kicks his pistol away, he grabs her wrist and redirects her aim.
@@ -120,7 +97,6 @@ COLOMBIANA.srt 	COLOMBIANA_DVS1027 	01:37:18,00 --> 01:37:25,50 	he raises it an
 COLOMBIANA.srt 	COLOMBIANA_DVS1032 	01:37:38,00 --> 01:37:43,50 	then grabs the towel's other end.
 COLOMBIANA.srt 	COLOMBIANA_DVS1038 	01:37:55,00 --> 01:38:02,50 	as he grabs the gun from the tub, she knocks it to the floor.
 COLOMBIANA.srt 	COLOMBIANA_DVS1041 	01:38:14,00 --> 01:38:24,50 	she grabs a toothbrush on the ground and stabs him with it.
-COLOMBIANA.srt 	COLOMBIANA_DVS1044 	01:38:27,00 --> 01:38:34,50 	he grabs her wrists, holding her back, but she twists free and slashes at him.
 COLOMBIANA.srt 	COLOMBIANA_DVS1046 	01:38:34,00 --> 01:38:37,50 	he charges, grabbing her around the waist.
 COLOMBIANA.srt 	COLOMBIANA_DVS1049 	01:38:40,00 --> 01:38:48,50 	she lands a punch, sending someone crumpling to the floor where he grabs the abandoned gun.
 COLOMBIANA.srt 	COLOMBIANA_DVS1084 	01:42:55,00 --> 01:42:59,50 	he grabs the phone.
@@ -130,7 +106,6 @@ DEAR_JOHN.srt 	DEAR_JOHN_DVS303 	00:47:12,00 --> 00:47:19,50 	later in a confere
 DEAR_JOHN.srt 	DEAR_JOHN_DVS324 	00:50:18,00 --> 00:50:30,50 	grimacing, he grabs at the door.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS481 	01:11:03,00 --> 01:11:12,50 	he grabs noodles by the vest and drags him out of harms way.
 DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS396 	01:36:47,00 --> 01:36:59,50 	someone grabs an imaginary weapon from a woman's cleavage and lobs it at someone who catches it, throws it back and it gets someone in the heart.
-DISTRICT_9.srt 	DISTRICT_9_DVS327 	00:35:47,00 --> 00:36:00,50 	pale and sickly, he briefly turns away from the surrounding guests, wipes his mouth then grabs a knife.
 DISTRICT_9.srt 	DISTRICT_9_DVS331 	00:36:17,00 --> 00:36:28,50 	he grabs a napkin and starts to mop it up, but collapses onto the table and rolls to the floor.
 DISTRICT_9.srt 	DISTRICT_9_DVS480 	00:55:45,00 --> 00:55:58,50 	he grabs the refugee with his alien hand, then collapses.
 DISTRICT_9.srt 	DISTRICT_9_DVS518 	01:00:25,00 --> 01:00:42,50 	noticing his reddened chest, someone grabs a broken mirror.
@@ -142,10 +117,8 @@ DISTRICT_9.srt 	DISTRICT_9_DVS687 	01:20:37,00 --> 01:20:45,50 	grabbing someone
 EASY_A.srt 	EASY_A_DVS170 	00:54:51,00 --> 00:54:56,50 	someone grabs her.
 EASY_A.srt 	EASY_A_DVS234 	01:12:44,00 --> 01:12:48,50 	he grabs her.
 FLIGHT.srt 	FLIGHT_DVS75 	00:15:28,00 --> 00:15:34,50 	he tosses three miniature bottles as he grabs the spiked orange juice.
-FLIGHT.srt 	FLIGHT_DVS92 	00:16:39,00 --> 00:16:45,50 	she grabs the packet of cocaine that kip gave her, and falls on her side.
 FLIGHT.srt 	FLIGHT_DVS203 	00:46:58,00 --> 00:47:02,50 	he grabs a hidden key.
 FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS72 	00:18:15,00 --> 00:18:20,50 	he grabs his bags.
-FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS115 	00:31:31,00 --> 00:31:38,50 	she grabs his head by the hair, pulls his head to hers and pinches his tongue.
 FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS216 	00:57:44,00 --> 00:57:50,50 	he grabs her ankles.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS39 	00:06:46,00 --> 00:06:55,50 	someone grabs him, slams him into a shelving unit, then clutches the collar of his leather jackets and peers into his eyes.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS42 	00:07:14,00 --> 00:07:21,50 	someone grabs a new empty bottle of wine from a table and smells its contents.
@@ -160,51 +133,40 @@ GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS268 	00:
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS306 	00:46:35,00 --> 00:46:40,50 	grabbing the slab, someone lifts it.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS314 	00:47:39,00 --> 00:47:48,50 	someone grabs his head.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS370 	00:54:24,00 --> 00:54:30,50 	someone grabs a bottle from a table in the middle of a rotunda.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS385 	00:57:01,00 --> 00:57:09,50 	someone grabs the possessed man's shoulder and they sit down.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS425 	01:01:15,00 --> 01:01:22,50 	someone swipes at another monk with his free hand but the monk grabs his throat.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS437 	01:02:37,00 --> 01:02:45,50 	as another monk gropes in the dark, someone grabs him from behind, rip him and lets him fall.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS439 	01:02:44,00 --> 01:03:11,50 	he grabs another from behind.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS439 	01:02:44,00 --> 01:03:11,50 	the monk grabs someone's throat and he collapses to his knees, waving his hands in surrender.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS441 	01:03:16,00 --> 01:03:34,50 	someone smashes the monk's hand, grabs his jaw, then slams him onto his back.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS511 	01:13:38,00 --> 01:13:47,50 	he grabs his bag and leaves.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS567 	01:21:50,00 --> 01:22:03,50 	someone grabs the chains which start to rot in his grasp.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS568 	01:22:01,00 --> 01:22:11,50 	recovering, someone grabs him from behind.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS140 	00:32:12,00 --> 00:32:16,50 	someone grabs the notebook.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS192 	00:49:29,00 --> 00:49:41,50 	in a neglected, once luxurious bedroom, someone slings a backpack over his shoulder, closes the laptop, and grabs his gun from the bed.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS353 	01:20:12,00 --> 01:20:19,50 	someone grabs a pistol from under his sedan's backseat and hustles off.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS390 	01:29:26,00 --> 01:29:30,50 	his foe, both grab the gun.
-GROWN_UPS.srt 	GROWN_UPS_DVS226 	01:05:47,00 --> 01:05:52,50 	he steps up to the platform and grabs the handles.
 HUGO.srt 	HUGO_DVS279 	00:40:37,00 --> 00:40:45,50 	in an apartment, a man swings out the bottom of his window, forcing someone to grab onto the hands of a nearby clock.
 HUGO.srt 	HUGO_DVS282 	00:40:50,00 --> 00:40:56,50 	a mustached man sneaks up behind someone and someone and grabs their shoulders.
 HUGO.srt 	HUGO_DVS293 	00:43:31,00 --> 00:43:37,50 	someone starts to slide away but someone grabs the hem of his coat.
-HUGO.srt 	HUGO_DVS402 	01:00:21,00 --> 01:00:26,50 	someone grabs the box with both hands and pulls it forward.
 HUGO.srt 	HUGO_DVS423 	01:01:54,00 --> 01:02:01,50 	someone furiously crumples the drawings as someone tries to grab his hands.
-HUGO.srt 	HUGO_DVS597 	01:26:02,00 --> 01:26:08,50 	a policeman grabs the flask and turns it upside down.
 HUGO.srt 	HUGO_DVS712 	01:45:01,00 --> 01:45:05,50 	the inspector grabs someone.
 HUGO.srt 	HUGO_DVS737 	01:48:21,00 --> 01:48:32,50 	he reaches up and grabs onto the clock's giant minute hand - a thin metal beam pointed at the number three.
 IN_TIME.srt 	IN_TIME_DVS171 	00:18:38,00 --> 00:18:43,50 	someone grabs him into a hug.
 IN_TIME.srt 	IN_TIME_DVS414 	00:44:40,00 --> 00:44:47,50 	someone springs up, grabs a timekeeper's gun and punches both officers flanking him.
 IN_TIME.srt 	IN_TIME_DVS418 	00:44:56,00 --> 00:45:06,50 	someone flings a guard to the floor, then grabs someone.
-IN_TIME.srt 	IN_TIME_DVS465 	00:50:18,00 --> 00:50:24,50 	he grabs her forearm and gives her a few minutes.
 IN_TIME.srt 	IN_TIME_DVS485 	00:52:47,00 --> 00:52:58,50 	he grabs her hand and leads her down the steps.
 IN_TIME.srt 	IN_TIME_DVS561 	01:00:14,00 --> 01:00:22,50 	he grabs two guns off the table, tucking one into the back of his waistband as he strides out of the room.
-IN_TIME.srt 	IN_TIME_DVS915 	01:36:37,00 --> 01:36:45,50 	grabbing someone's hand, someone pulls her against the flow of the crowd which now hurries toward the mission.
 IN_TIME.srt 	IN_TIME_DVS918 	01:37:01,00 --> 01:37:08,50 	grabbing him, he hurls him to the ground, climbs into the cruiser, and speeds off.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS311 	01:33:00,00 --> 01:33:04,50 	he grabs a radio handset.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS133 	00:25:05,00 --> 00:25:11,50 	someone jabs at someone, who grabs his glove and pulls his arm, flipping him onto his back.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS199 	00:36:51,00 --> 00:37:01,50 	officers in black uniforms and helmets rush over and grab someone by the shoulders.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS220 	00:42:17,00 --> 00:42:22,50 	someone stands, picks up the tray, and grabs a note lying on it.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS234 	00:43:11,00 --> 00:43:22,50 	someone grabs the key, reaches through the cell bars, and unlocks the door.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS238 	00:43:41,00 --> 00:43:49,50 	the dark-haired guard and another man rush down the stairs, grab someone, and place a white bag over his head.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS312 	00:56:55,00 --> 00:57:07,50 	he grabs someone's arm.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS315 	00:57:28,00 --> 00:57:32,50 	someone grabs a post.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS316 	00:57:31,00 --> 00:57:43,50 	someone hits someone in the chest and head with the post, which someone then grabs.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS425 	01:20:23,00 --> 01:20:30,50 	someone leans back in his chair, then leans forward and grabs the toy's rotating arm.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS427 	01:20:34,00 --> 01:20:40,50 	he stands and grabs the basket of strawberries.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS493 	01:28:41,00 --> 01:28:45,50 	one man grabs the bird
 IRON_MAN_2.srt 	IRON_MAN_2_DVS496 	01:28:49,00 --> 01:28:53,50 	the other man grabs someone's pillows.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS507 	01:31:36,00 --> 01:31:42,50 	someone grabs the reactor containing the new element and pops it into his chest.
-ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS115 	00:35:09,00 --> 00:35:19,50 	wearing only boxers someone grabs his shirt then faces her and slaps his ample belly.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS148 	00:48:24,00 --> 00:48:28,50 	he slides in and grabs her waist.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS353 	01:39:44,00 --> 01:39:58,50 	someone aims the laptop at someone, then grabs his robe.
 JACK_AND_JILL.srt 	JACK_AND_JILL_DVS38 	00:04:45,00 --> 00:04:49,50 	someone grabs a bottle of pepto.
@@ -230,7 +192,6 @@ KARATE_KID.srt 	KARATE_KID_DVS488 	00:44:05,00 --> 00:44:11,50 	his friends grab
 KARATE_KID.srt 	KARATE_KID_DVS491 	00:44:17,00 --> 00:44:24,50 	someone lunges with a punch, but a hand grabs his wrist.
 KARATE_KID.srt 	KARATE_KID_DVS508 	00:46:00,00 --> 00:46:11,50 	someone grabs the arms of a boy in a warm-up jacket.
 KARATE_KID.srt 	KARATE_KID_DVS511 	00:46:28,00 --> 00:46:34,50 	he crouches and gently grabs someone's arm.
-KARATE_KID.srt 	KARATE_KID_DVS516 	00:46:55,00 --> 00:47:04,50 	grabbing another, he briefly holds the flame inside it, then places it on someone's skin, next to the first bulb-shaped cup.
 KARATE_KID.srt 	KARATE_KID_DVS554 	00:50:15,00 --> 00:50:23,50 	grabbing him by his shirt, the aggressor lifts the boy, then drops on his back, and flings him over his head.
 KARATE_KID.srt 	KARATE_KID_DVS556 	00:50:23,00 --> 00:50:30,50 	as one boy attacks, the other blocks him, then grabs his arm, and flips him to the floor.
 KARATE_KID.srt 	KARATE_KID_DVS603 	00:52:38,00 --> 00:52:46,50 	as the instructor grabs him by the wrist, mr.
@@ -244,7 +205,6 @@ KARATE_KID.srt 	KARATE_KID_DVS890 	01:12:52,00 --> 01:13:00,50 	he grabs someone
 KARATE_KID.srt 	KARATE_KID_DVS1101 	01:31:16,00 --> 01:31:29,50 	grabbing her violin case, she rushes off.
 KARATE_KID.srt 	KARATE_KID_DVS1449 	01:57:57,00 --> 01:58:08,50 	grabbing his opponent's arm, he flips himself around someone ping's body, and pins him to his knees.
 LAND_OF_THE_LOST.srt 	LAND_OF_THE_LOST_DVS25 	00:08:20,00 --> 00:08:25,50 	he grabs a french fry.
-LAND_OF_THE_LOST.srt 	LAND_OF_THE_LOST_DVS142 	00:51:13,00 --> 00:51:23,50 	pterodactyl swoops down and grabs it, taking the amplifier with it.
 LARRY_CROWNE.srt 	LARRY_CROWNE_DVS104 	00:25:06,00 --> 00:25:17,50 	with her eyes averted, she grabs her bag off the table and strides to the back of the classroom.
 LARRY_CROWNE.srt 	LARRY_CROWNE_DVS109 	00:25:46,00 --> 00:25:53,50 	she grabs two bottles from a liquor cabinet.
 LARRY_CROWNE.srt 	LARRY_CROWNE_DVS111 	00:25:56,00 --> 00:26:01,50 	he grabs a book and enters the kitchen.
@@ -257,7 +217,6 @@ LIFE_OF_PI.srt 	LIFE_OF_PI_DVS608 	01:06:29,00 --> 01:06:36,50 	grabbing the tet
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS663 	01:10:26,00 --> 01:10:40,50 	someone pins it down on an oar beam, stretches one arm out and grabs the hatchet from the edge of the supply pallet.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS713 	01:14:22,00 --> 01:14:30,50 	glancing around with wide eyes, someone backs away from the tiger and grabs the flailing fish.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS728 	01:15:45,00 --> 01:16:00,50 	trembling, someone grabs his grappling tool and sticks it in the large fish.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS731 	01:16:04,00 --> 01:16:14,50 	grabbing the handle of the boat hook, someone stands tall atop the canvas.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS806 	01:22:23,00 --> 01:22:29,50 	he glances toward the ship then swiftly grabs another flare.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS863 	01:27:00,00 --> 01:27:06,50 	someone secures his tools in the bow and grabs the journal.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS888 	01:29:43,00 --> 01:29:51,50 	someone gazes longingly after it, then glances back at someone someone and grabs the canvas cover.
@@ -270,19 +229,16 @@ MORNING_GLORY.srt 	MORNING_GLORY_DVS268 	01:00:02,00 --> 01:00:06,50 	he grabs i
 MORNING_GLORY.srt 	MORNING_GLORY_DVS389 	01:25:44,00 --> 01:25:49,50 	someone grabs a weather vane.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS42 	00:06:23,00 --> 00:06:27,50 	he grabs a chair.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS90 	00:13:29,00 --> 00:13:34,50 	he carefully grabs the penguin by the waist and picks it up.
-MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS97 	00:14:14,00 --> 00:14:19,50 	he grabs his briefcase and leaves.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS144 	00:21:32,00 --> 00:21:37,50 	he grabs the bird.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS478 	00:57:38,00 --> 00:57:42,50 	he grabs the sandwich.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS491 	00:59:45,00 --> 00:59:53,50 	someone steps into the doorway and sees someone slipping in the snow as he grabs his son.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS100 	00:24:04,00 --> 00:24:07,50 	fireplace and grabs the letters.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS295 	01:04:45,00 --> 01:04:50,50 	they each grab a shoulder.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS413 	01:26:22,00 --> 01:26:34,50 	he frees up a hand and grabs a shaker off the table to season his eggs.
-NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS262 	00:47:03,00 --> 00:47:08,50 	he looks away from her and grabs his coat.
 NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS375 	01:09:03,00 --> 01:09:09,50 	someone grabs a handful of straws and has a big slurp of the chocolate milkshake.
 NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS451 	01:22:13,00 --> 01:22:20,50 	she grabs someone's phone and hands it to her.
 NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS493 	01:31:03,00 --> 01:31:09,50 	she grabs her phone, a message from someone reads, "call me."
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS361 	01:27:00,00 --> 01:27:07,50 	grabbing the milk, someone pours it all over the box then sets on tofu dog.
-PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS387 	01:28:32,00 --> 01:28:39,50 	stepping around the hole, someone grabs a shovel and pats the restaurant owner on the back.
 PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS57 	00:13:27,00 --> 00:13:37,50 	with someone on the floor, he grabs his shoulder, then scoots away as the monster bares her fangs at him.
 PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS76 	00:19:34,00 --> 00:20:19,50 	someone spots his sword near the minotaur then hurries around the tree and grabs the horn.
 PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS118 	00:26:43,00 --> 00:26:49,50 	he grabs the three-pronged spear by its shaft and examines it.
@@ -294,7 +250,6 @@ PROMETHEUS.srt 	PROMETHEUS_DVS757 	01:22:03,00 --> 01:22:12,50 	someone quickly 
 PROMETHEUS.srt 	PROMETHEUS_DVS780 	01:23:56,00 --> 01:24:06,50 	she quickly grabs the umbilical cord and yanks it out.
 PROMETHEUS.srt 	PROMETHEUS_DVS789 	01:24:43,00 --> 01:24:48,50 	she grabs some more auto-injectors from a cart,
 PROMETHEUS.srt 	PROMETHEUS_DVS898 	01:39:30,00 --> 01:39:38,50 	with both hands, he grabs someone by the throat, then lifts him off his feet and breaks his neck.
-PROMETHEUS.srt 	PROMETHEUS_DVS944 	01:44:25,00 --> 01:44:35,50 	reaching the escape pods she opens a pod door and grabs a space suit.
 PROMETHEUS.srt 	PROMETHEUS_DVS1018 	01:51:15,00 --> 01:51:22,50 	grabbing her helmet, someone rushes back to the airlock compartment.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS332 	01:03:14,00 --> 01:03:31,50 	someone steps into the closet-sized safe, discards his fake, waxy gun, and grabs a pistol from the wall.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS333 	01:03:34,00 --> 01:03:42,50 	someone grabs a hat and coat from a nearby rack.
@@ -313,22 +268,18 @@ ROBIN_HOOD.srt 	ROBIN_HOOD_DVS439 	01:48:39,00 --> 01:48:47,50 	grabbing its lea
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS189 	00:32:04,00 --> 00:32:09,50 	someone grabs a busboy.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS194 	00:32:24,00 --> 00:32:29,50 	she whacks him with her purse and he grabs her.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS327 	00:52:58,00 --> 00:53:08,50 	someone's mom points to her breasts then pushes away the men and grabs her behind.
-RUBY_SPARKS.srt 	RUBY_SPARKS_DVS420 	01:05:24,00 --> 01:05:32,50 	someone grabs his hand, nearly yanking him off balance, he gives a bewildered nod.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS516 	01:20:47,00 --> 01:20:54,50 	lifting the typewriter, he grabs the key to the desk drawer hidden underneath.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS517 	01:20:56,00 --> 01:21:02,50 	someone grabs an article of clothing from a hanger and packs a bag.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS683 	01:39:24,00 --> 01:39:29,50 	she grabs the book back from him.
 SALT.srt 	SALT_DVS154 	00:26:54,00 --> 00:27:17,50 	as she enters the apartment, she grabs a tan overcoat from the hall and puts it on.
 SALT.srt 	SALT_DVS161 	00:27:56,00 --> 00:28:04,50 	she grabs it.
 SALT.srt 	SALT_DVS170 	00:29:08,00 --> 00:29:16,50 	she grabs an air conditioning unit and crosses to its other side.
-SALT.srt 	SALT_DVS405 	01:10:49,00 --> 01:11:02,50 	the impostor grabs her service cap and attach case from a security conveyor belt then walks beside someone.
 SALT.srt 	SALT_DVS414 	01:12:36,00 --> 01:12:43,50 	she grabs a set of keys and a gun off a fallen agent then hurries upstairs.
 SANCTUM.srt 	SANCTUM_DVS224 	00:48:26,00 --> 00:48:32,50 	someone's hand grabs his shoulder again, flexes weakly, and goes limp.
 SANCTUM.srt 	SANCTUM_DVS427 	01:22:01,00 --> 01:22:06,50 	someone grabs a piece of jutting rock.
 SANCTUM.srt 	SANCTUM_DVS437 	01:23:19,00 --> 01:23:26,50 	body, and grabs a ledge.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS216 	00:15:19,00 --> 00:15:24,50 	her mother grabs her hand and pulls her forward.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS375 	00:25:00,00 --> 00:25:06,50 	her friend grabs her wrist and lowers her hand from the veil.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS389 	00:25:47,00 --> 00:25:52,50 	he gently grabs the skirt of her robe
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS398 	00:26:34,00 --> 00:26:41,50 	sitting up next to his bride again, he tosses his braid over his shoulder and grabs her hand.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS708 	00:46:22,00 --> 00:46:29,50 	someone grabs her friend's arm.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS880 	00:58:04,00 --> 00:58:08,50 	someone grabs her friend.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS962 	01:02:28,00 --> 01:02:35,50 	the butcher shoves her away, then grabs her by the tunic and flings her aside.
@@ -337,7 +288,6 @@ SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS58 	00:12:01,00 --> 00:12:06,5
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS70 	00:13:37,00 --> 00:13:41,50 	he grabs someone's leg and reels into the urn,
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS269 	00:54:16,00 --> 00:54:21,50 	grabbing someone by the collar
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS385 	01:21:26,00 --> 01:21:33,50 	he grabs her pentagram necklace.
-SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS394 	01:22:37,00 --> 01:22:46,50 	he abruptly grabs the someone and looks around warily.
 SOUL_SURFER.srt 	SOUL_SURFER_DVS57 	00:18:50,00 --> 00:18:54,50 	someone grabs a snack.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS25 	00:04:30,00 --> 00:04:36,50 	someone lip syncs as someone grabs the mic and a tambourine.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS96 	00:15:52,00 --> 00:15:56,50 	she grabs her book from him.
@@ -347,14 +297,11 @@ SPARKLE_2012.srt 	SPARKLE_2012_DVS304 	00:51:29,00 --> 00:51:38,50 	sister close
 SPARKLE_2012.srt 	SPARKLE_2012_DVS312 	00:52:06,00 --> 00:52:13,50 	with a soft smile, she touches someone's cheek and grabs her suitcases.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS480 	01:18:17,00 --> 01:18:26,50 	someone grabs a poker from the fireplace.
 SUPER_8.srt 	SUPER_8_DVS153 	00:24:17,00 --> 00:24:25,50 	someone grabs his makeup kit.
-SUPER_8.srt 	SUPER_8_DVS353 	01:03:15,00 --> 01:03:21,50 	someone runs outside, grabs her bike, and takes off down the dark street.
 SUPER_8.srt 	SUPER_8_DVS381 	01:08:05,00 --> 01:08:12,50 	someone stares at someone then runs and grabs the reel of film off the projector.
-SUPER_8.srt 	SUPER_8_DVS400 	01:12:30,00 --> 01:12:37,50 	someone turns and elbows the soldier in the face, he grabs the soldier's rifle, and knocks him out with its butt.
 SUPER_8.srt 	SUPER_8_DVS415 	01:14:35,00 --> 01:14:40,50 	someone grabs the tire iron and breaks the lock.
 SUPER_8.srt 	SUPER_8_DVS463 	01:21:31,00 --> 01:21:37,50 	the creature grabs someone and knocks him from one side of the bus to the other.
 SUPER_8.srt 	SUPER_8_DVS561 	01:33:45,00 --> 01:33:52,50 	he lights the fuse on a chain of fireworks, grabs his backpack, and runs off.
 SUPER_8.srt 	SUPER_8_DVS580 	01:35:59,00 --> 01:36:06,50 	the creature appears behind someone, grabs him, and tosses him far away.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS73 	00:10:11,00 --> 00:10:16,50 	grabbing his coat, someone leaves with snowy.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS187 	00:27:52,00 --> 00:27:59,50 	now free, someone grabs a crowbar and jams the door, then covers its window.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS267 	00:39:33,00 --> 00:39:40,50 	someone punches someone and grabs the gun.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS285 	00:41:04,00 --> 00:41:11,50 	someone grabs a searchlight and focuses it on to a drifting lifeboat.
@@ -371,9 +318,7 @@ THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS617 	01:22:57,00 --> 0
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS618 	01:23:11,00 --> 01:23:16,50 	someone shoots from a from a side chute and grabs the falcon.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS657 	01:28:58,00 --> 01:29:14,50 	someone grabs his arm.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS698 	01:33:35,00 --> 01:33:40,50 	someone swings past and grabs the scrolls.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS134 	00:29:55,00 --> 00:30:03,50 	someone watches his frustrated stepfather set one page aside and grab another.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS175 	00:35:29,00 --> 00:35:34,50 	she grabs a pillow and a comforter.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS203 	00:38:45,00 --> 00:39:04,50 	slowing his pace, he watches his stepfather grab a newspaper off the top of a trash can then cross the street.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS289 	00:56:38,00 --> 00:56:44,50 	someone grabs him roughly and they wrestle to the floor.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS29 	00:04:03,00 --> 00:04:08,50 	someone grabs the young man and cuffs him.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS86 	00:16:47,00 --> 00:16:56,50 	someone defensively grabs a picture frame and presses her back to a wall by a white-trim doorway.
@@ -389,7 +334,6 @@ THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS516 	01:33:13,00 --> 01:33:24,50 	as
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS533 	01:37:11,00 --> 01:37:17,50 	someone grabs the clerk through a window.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS535 	01:37:21,00 --> 01:37:33,50 	someone releases the clerk, who grabs a phone.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS555 	01:39:26,00 --> 01:39:35,50 	someone sidles down an aisle, grabs someone's shoulder, and jabs his gun against the bounty hunter's neck.
-THE_CALL.srt 	THE_CALL_DVS261 	00:22:06,00 --> 00:22:11,50 	she grabs the phone and stands, looking after autumn.
 THE_CALL.srt 	THE_CALL_DVS407 	00:31:50,00 --> 00:32:08,50 	she pries off the tail light's back cover, then grabs a short-handled paint roller.
 THE_CALL.srt 	THE_CALL_DVS591 	00:45:53,00 --> 00:46:00,50 	clenching his jaw, the killer rips off the release lever and grabs the frightened teen.
 THE_CALL.srt 	THE_CALL_DVS956 	01:13:32,00 --> 01:13:39,50 	with her free hand, she grabs the handle and yanks on it,
@@ -415,9 +359,6 @@ THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1375 	02
 THE_SITTER.srt 	THE_SITTER_DVS147 	01:14:46,00 --> 01:14:50,50 	someone grabs his bike at the bottom and sets it upright.
 THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS27 	00:08:05,00 --> 00:08:10,50 	it's a small refrigerator and grabs a bottle of beer.
 THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS109 	00:35:20,00 --> 00:35:27,50 	he hits escape on the computer and grabs his bag.
-THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS123 	00:38:46,00 --> 00:38:52,50 	someone looks over at it then grabs her computer.
-THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS222 	01:29:20,00 --> 01:29:25,50 	holding the phone with his shoulder, he grabs some drinks.
-THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS296 	01:48:58,00 --> 01:49:06,50 	the officer grabs someone's hand and shines his light on it, finding it dusted with coke.
 THE_VOW.srt 	THE_VOW_DVS477 	01:08:06,00 --> 01:08:16,50 	grabbing blankets and towels he hustles after her and does high steps to get out of his jeans.
 THE_VOW.srt 	THE_VOW_DVS479 	01:08:19,00 --> 01:08:26,50 	clad in biker briefs, someone grabs her around the waist and carries her back in.
 THE_VOW.srt 	THE_VOW_DVS484 	01:08:38,00 --> 01:08:43,50 	grabbing a towel and blanket, he wraps both around her.
@@ -440,9 +381,6 @@ THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS328 	01:22:30,00 --> 01:22:35,50 	he g
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS29 	00:03:52,00 --> 00:04:05,50 	he grabs someone who drops the case with the device over the roof.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS113 	00:20:02,00 --> 00:20:07,50 	now, someone and someone grab the same movie.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS151 	00:29:28,00 --> 00:29:36,50 	hanging on by their legs, they grab each other's wrists.
-THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS180 	00:33:38,00 --> 00:33:43,50 	she grabs someone as he walks away.
-THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS301 	00:55:02,00 --> 00:55:09,50 	he yanks a man from the tower, grabs the flag and proudly shows it to someone.
-THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS317 	00:58:17,00 --> 00:58:27,50 	someone watches her go then excitedly grabs a wine bottle and two glasses and hurries over to the coffee table.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS413 	01:14:41,00 --> 01:14:47,50 	pockets his phone and grabs his jacket.
 THOR.srt 	THOR_DVS26 	00:02:44,00 --> 00:02:57,50 	someone grabs the steering wheel with one hand, lightning arcs from the spinning column of dark vapor and strikes the ground around the truck.
 THOR.srt 	THOR_DVS152 	00:21:53,00 --> 00:22:06,50 	someone swings someone at an armored giant, but the feen grabs someone's wrist and headbutts him.
@@ -450,7 +388,6 @@ THOR.srt 	THOR_DVS169 	00:23:18,00 --> 00:23:24,50 	someone grabs his sword agai
 THOR.srt 	THOR_DVS239 	00:32:17,00 --> 00:32:22,50 	three men grab someone and shove him against a door.
 THOR.srt 	THOR_DVS371 	00:56:09,00 --> 00:56:16,50 	in an armory, a man reaches for a sniper rifle then grabs a composite bow instead.
 THOR.srt 	THOR_DVS392 	00:58:30,00 --> 00:58:37,50 	in slow motion, someone smiles as he reaches out and grabs the hammer's handle.
-THOR.srt 	THOR_DVS394 	00:58:43,00 --> 00:58:49,50 	someone grabs the handle with both hands, and pulls to no avail.
 THOR.srt 	THOR_DVS496 	01:21:27,00 --> 01:21:34,50 	grabbing a bullhorn, someone steps out to meet the approaching destroyer.
 THOR.srt 	THOR_DVS604 	01:32:14,00 --> 01:32:20,50 	someone grabs his face and kisses him passionately.
 THOR.srt 	THOR_DVS670 	01:40:03,00 --> 01:40:11,50 	as someone falls he grabs someone's spear.
@@ -466,22 +403,16 @@ TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS438 	00:46:30,00 --> 00:46:34,50 	someone grabs 
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS475 	00:51:08,00 --> 00:51:13,50 	two fairy assistant go to grab the dog.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS554 	01:01:14,00 --> 01:01:18,50 	someone grabs his throat.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS668 	01:14:40,00 --> 01:14:45,50 	straightening out of a slouch, someone grabs his helmet.
-TRUE_GRIT.srt 	TRUE_GRIT_DVS160 	00:36:37,00 --> 00:36:41,50 	he grabs her coat, pulls her to the ground.
 TRUE_GRIT.srt 	TRUE_GRIT_DVS205 	00:43:53,00 --> 00:43:59,50 	he grabs the kid with the broom, throws him to the ground,
 TRUE_GRIT.srt 	TRUE_GRIT_DVS482 	01:32:18,00 --> 01:32:24,50 	someone quickly grabs his rifle but someone gets hold of the barrel.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS89 	00:10:01,00 --> 00:10:07,50 	he grabs a skewered marshmallow and swallows it whole.
-UGLY_TRUTH.srt 	UGLY_TRUTH_DVS288 	00:28:54,00 --> 00:29:01,50 	she watches on the monitors as someone grabs one of the women's hands and sucks on her finger.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS307 	00:32:16,00 --> 00:32:24,50 	she grabs someone's business card, puts the phone to her ear and dials.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS309 	00:32:42,00 --> 00:32:47,50 	someone grabs a cordless and listens in.
-UGLY_TRUTH.srt 	UGLY_TRUTH_DVS375 	00:44:48,00 --> 00:44:55,50 	as someone watches from the bush, someone turns away, but someone grabs her arm and kisses her.
-UGLY_TRUTH.srt 	UGLY_TRUTH_DVS473 	00:57:55,00 --> 00:58:07,50 	someone mimes grabbing someone's waist, repeatedly thrusts her hips, then holds her heart.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS24 	00:03:50,00 --> 00:03:56,50 	his son grabs his lunch and hurries off.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS400 	01:03:14,00 --> 01:03:20,50 	as he grabs a book and flops onto the bed,
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS410 	01:04:24,00 --> 01:04:33,50 	someone grabs his coat.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS473 	01:14:24,00 --> 01:14:30,50 	standing, he grabs his tool bag and strides past her to the door.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS106 	00:10:36,00 --> 00:10:42,50 	someone grabs a glass of champagne and gulps down half its content
-WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS150 	00:19:04,00 --> 00:19:10,50 	someone grabs a t-shirt off the floor and pulls it on.
-WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS219 	00:27:42,00 --> 00:27:48,50 	someone grabs a sheet of paper and spies someone opening his door.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS228 	00:29:03,00 --> 00:29:10,50 	she grabs her jacket and wrenches it on as she races back to someone's door.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS420 	00:59:00,00 --> 00:59:06,50 	he hurries over to a keyboard and grabs an electric guitar.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS423 	01:00:14,00 --> 01:00:19,50 	she grabs his hands and he helps her up.
@@ -495,9 +426,7 @@ XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS746 	01:07:42,00 --> 01:07:49,50 	some
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS833 	01:16:16,00 --> 01:16:22,50 	he grabs an extinguisher and hurriedly puts out the fire.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1167 	01:44:27,00 --> 01:44:33,50 	as someone attacks beast, his tail grabs someone's throat.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1340 	02:03:20,00 --> 02:03:27,50 	one man grabs a phone.
-YOUNG_ADULT.srt 	YOUNG_ADULT_DVS221 	00:41:37,00 --> 00:41:42,50 	as he walks off, she grabs more books from the clearance table.
 YOUNG_ADULT.srt 	YOUNG_ADULT_DVS351 	01:07:42,00 --> 01:07:49,50 	she stops and grabs a package of plain white burp cloths.
-YOUNG_ADULT.srt 	YOUNG_ADULT_DVS379 	01:12:00,00 --> 01:12:07,50 	someone wipes her mouth on a napkin then grabs another drink and walks outside.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS72 	00:06:04,00 --> 00:06:12,50 	reaching his car again, the narrator grabs his keys and notices that the door is already unlocked.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS146 	00:13:02,00 --> 00:13:08,50 	he grabs his gun.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS167 	00:16:42,00 --> 00:16:48,50 	cornered against the refrigerator, someone grabs a blender.

@@ -1,4 +1,2 @@
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS332 	00:29:38,00 --> 00:29:44,50 	below, someone and his men recover from their collision.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS295 	00:38:26,00 --> 00:38:32,50 	it leaves the upper deck flooded as he recovers.
 THE_VOW.srt 	THE_VOW_DVS217 	00:27:50,00 --> 00:27:55,50 	the lovely woman recovers her smile.
-THOR.srt 	THOR_DVS452 	01:13:23,00 --> 01:13:28,50 	he pats his pockets then hands her the notebook he recovered.

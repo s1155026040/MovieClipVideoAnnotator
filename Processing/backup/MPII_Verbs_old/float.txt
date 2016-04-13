@@ -1,27 +1,27 @@
-0001_American_Beauty_01.02.00.693-01.02.01.497 	Something is floating across from us.
-0001_American_Beauty_01.02.02.609-01.02.04.920 	We follow it as the wind carries it in a circle around us, sometimes whipping it about violently, or, without warning, sending it soaring skyward, then letting it float gracefully down to the ground.
-0001_American_Beauty_01.55.21.331-01.55.26.316 	The wind carries it in a circle around us, sometimes whipping it about violently, or, without warning, sending it soaring skyward, then letting it float gracefully down to the ground.
-0009_Forrest_Gump_02.14.39.274-02.14.45.768 	The feather floats up into the air.
-0009_Forrest_Gump_02.14.49.832-02.14.59.468 	The feather floats higher into the air.
-0011_Gandhi_02.08.35.205-02.08.37.719 	The crowd starts to jump up to see, and the flower petals begin to float in the sky.
-0013_Halloween_01.00.39.962-01.00.42.083 	Then an orange light floats around the room.
-0016_O_Brother_Where_Art_Thou_01.39.09.068-01.39.13.904 	The coffin floats downstream for a beat and then Everett pops out of the water next to it, gasping for air, shaking his head clear of water, and moving his shoulders to finish freeing himself from the rope round his wrists.
-0017_Pianist_01.36.25.749-01.36.35.778 	Then, without touching the keys, his fingers floating just above them, he plays.
-0020_Raising_Arizona_00.10.49.168-00.10.50.102 	We are floating in toward Ed who is seated, waiting, in the driver's seat of Hi's Chevy.
-0020_Raising_Arizona_00.28.51.708-00.28.54.955 	The camera starts floating forward very close to the ground, moving slowly toward the Arizona house.
-0020_Raising_Arizona_00.54.51.781-00.54.54.714 	The camera has floated in to a close shot of Hi, staring glumly at GALE.
-0020_Raising_Arizona_00.57.34.897-00.57.37.595 	We are floating in toward him.
-0020_Raising_Arizona_01.27.48.151-01.27.49.767 	We are floating in over the field, abutting the prison, that Gale and Evelle popped out of.
-0020_Raising_Arizona_01.27.52.499-01.27.53.152 	Still floating forward but now much closer to the two walking men.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.10.45.539-00.10.51.246 	GANDALF leads the company through the flotsam and jetsam which floats upon the muddied waters surrounding the TOWER.
-0026_The_Big_Fish_01.03.45.380-01.03.47.803 	We look up to the blue sky, where a giant sky-written heart floats in the wind.
-0029_The_Graduate_00.42.55.987-00.42.56.305 	The raft floats in the center of the pool.
-0030_The_Hustler_00.21.05.933-00.21.08.359 	and the bills endlessly unfolding out of Charlie's hands and floating onto the table.
-0032_The_Princess_Bride_01.19.09.471-01.19.12.354 	And it is a bit unnerving--a GIANT seems to be floating toward them out of the darkness, a Giant in a strange cloak, and with a voice that would crumble walls.
-0032_The_Princess_Bride_01.31.15.679-01.31.17.454 	Buttercup floating through the air.
-0050_Indiana_Jones_and_the_last_crusade_00.23.54.432-00.23.55.986 	One Crusader, however, floats safely in midair because he holds the Grail in his hands.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.28.17.283-01.28.20.125 	Little hearts float from it.
-1002_Harry_Potter_and_the_Half-Blood_Prince_02.14.16.175-02.14.18.237 	The white-haired professor seems to float gently downwards.
+0001_American_Beauty_00.43.35.483-00.43.36.126 	rose petals float on the surface of the water, obscuring her naked body.
+0001_American_Beauty_01.02.00.693-01.02.01.497 	something is floating across from us.
+0001_American_Beauty_01.02.02.609-01.02.04.920 	we follow it as the wind carries it in a circle around us, sometimes whipping it about violently, or, without warning, sending it soaring skyward, then letting it float gracefully down to the ground.
+0001_American_Beauty_01.55.21.331-01.55.26.316 	the wind carries it in a circle around us, sometimes whipping it about violently, or, without warning, sending it soaring skyward, then letting it float gracefully down to the ground.
+0009_Forrest_Gump_02.14.39.274-02.14.45.768 	the feather floats up into the air.
+0009_Forrest_Gump_02.14.49.832-02.14.59.468 	the feather floats higher into the air.
+0011_Gandhi_02.08.35.205-02.08.37.719 	the crowd starts to jump up to see, and the flower petals begin to float in the sky.
+0014_Ist_das_Leben_nicht_schoen_01.38.45.713-01.38.49.540 	camera shooting down from george's angle to the water, dotted with floating ice, passing under the bridge.
+0016_O_Brother_Where_Art_Thou_01.39.09.068-01.39.13.904 	the coffin floats downstream for a beat and then everett pops out of the water next to it, gasping for air, shaking his head clear of water, and moving his shoulders to finish freeing himself from the rope round his wrists.
+0017_Pianist_01.36.25.749-01.36.35.778 	then, without touching the keys, his fingers floating just above them, he plays.
+0020_Raising_Arizona_00.10.49.168-00.10.50.102 	we are floating in toward ed who is seated, waiting, in the driver's seat of hi's chevy.
+0020_Raising_Arizona_00.28.51.708-00.28.54.955 	the camera starts floating forward very close to the ground, moving slowly toward the arizona house.
+0020_Raising_Arizona_00.54.51.781-00.54.54.714 	the camera has floated in to a close shot of hi, staring glumly at gale.
+0020_Raising_Arizona_00.57.34.897-00.57.37.595 	we are floating in toward him.
+0020_Raising_Arizona_01.27.48.151-01.27.49.767 	we are floating in over the field, abutting the prison, that gale and evelle popped out of.
+0020_Raising_Arizona_01.27.52.499-01.27.53.152 	still floating forward but now much closer to the two walking men.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.10.45.539-00.10.51.246 	gandalf leads the company through the flotsam and jetsam which floats upon the muddied waters surrounding the tower.
+0026_The_Big_Fish_01.03.45.380-01.03.47.803 	we look up to the blue sky, where a giant sky-written heart floats in the wind.
+0030_The_Hustler_00.21.05.933-00.21.08.359 	and the bills endlessly unfolding out of charlie's hands and floating onto the table.
+0032_The_Princess_Bride_01.19.09.471-01.19.12.354 	and it is a bit unnerving--a giant seems to be floating toward them out of the darkness, a giant in a strange cloak, and with a voice that would crumble walls.
+0032_The_Princess_Bride_01.19.12.354-01.19.16.752 	and he seems to be floating because he's standing in the wheelbarrow, as inigo, hidden behind him, busts a gut by pushing it and supporting westley.
+0032_The_Princess_Bride_01.31.15.679-01.31.17.454 	buttercup floating through the air.
+0050_Indiana_Jones_and_the_last_crusade_00.23.54.432-00.23.55.986 	one crusader, however, floats safely in midair because he holds the grail in his hands.
+1002_Harry_Potter_and_the_Half-Blood_Prince_02.14.16.175-02.14.18.237 	the white-haired professor seems to float gently downwards.
 1003_How_to_Lose_Friends_and_Alienate_People_00.28.00.758-00.28.06.245 	white flowers float on the surface of the rooftop swimming pool as immaculately dressed glitterati mingle and sip champagne.
 1007_Spider-Man1_01.06.30.731-01.06.43.386 	the glider circles the tall singular building then heads towards the balcony weaving this way and that, past giant balloon figures floating above the festival.
 1008_Spider-Man2_00.40.21.773-00.40.24.522 	the small pincer releases the sphere, which floats in the air between the four pillars of the machine.
@@ -32,99 +32,56 @@
 1010_TITANIC_02.00.25.247-02.00.38.538 	rose pauses at a staircase, then turns left and walks down another floated corridor, littered with floating furniture.
 1010_TITANIC_02.31.38.066-02.31.45.986 	elsewhere, a degas painting of a woman wearing a long tutu floats beneath water.
 1010_TITANIC_02.34.03.621-02.34.07.434 	railings will pull themselves onto pieces of floating debris.
+1010_TITANIC_02.39.48.067-02.39.53.353 	one man jumps and free falls into the icy water where small groups of survivors cling to floating debris.
 1010_TITANIC_02.46.23.758-02.46.29.824 	jack leads her to a flat piece of wood floating on the surface.
 1010_TITANIC_02.46.48.455-02.46.53.404 	jack holds onto the panel as he floats in the water beside her.
 1010_TITANIC_02.49.18.709-02.49.23.375 	still clinging to wreckage, the crewman with the whistle in his mouth floats motionless with his eyes closed.
 1010_TITANIC_02.52.21.818-02.52.28.606 	frozen bodies float amid pieces of furniture, barrels and other wreckage.
-1010_TITANIC_02.53.13.452-02.53.18.570 	the crewman's flashlight beam illuminates a dead woman and infant floating in the water.
-1010_TITANIC_02.53.45.549-02.53.49.795 	jack floats in the sea beside her, his head and arms propped above water.
+1010_TITANIC_02.53.41.549-02.53.45.215 	elsewhere in the debris field rose lies on her back atop the floating wooden panel.
 1010_TITANIC_02.54.49.847-02.54.51.238 	he floats motionless with his eyes closed.
-1010_TITANIC_02.54.54.653-02.54.57.696 	between them, the dead crewman floats with the whistle still in his mouth.
 1010_TITANIC_02.59.29.398-02.59.37.384 	below the sky along the horizon, lifeboats row toward a waiting ship anchored amid floating icebergs.
-1011_The_Help_00.00.12.961-00.00.15.226 	a fisherman's float plops onto the surface creating a ring around it.
 1014_2012_02.17.26.738-02.17.30.565 	the ark floats towards everest.
 1017_Bad_Santa_00.12.08.578-00.12.23.745 	having smashed the clock and several empties, he sits down on the bed, and, in need of refreshment, drinks from a half-full bottle with a cigarette end floating about it in.
-1019_Confessions_Of_A_Shopaholic_00.29.03.238-00.29.10.796 	as she strides down a street, a piece of paper floats down towards her and lands on her chest.
-1026_Legion_01.18.48.710-01.18.49.848 	mist floats above their bowed heads.
 1031_Quantum_of_Solace_00.06.24.632-00.06.33.044 	they dissolve away, hence floating through space.
 1031_Quantum_of_Solace_00.24.45.907-00.24.50.171 	there's a body floating in the water under the quay.
 1034_Super_8_01.41.50.186-01.41.55.631 	joe lets go of the locket's chain and it floats up towards the water tower.
 1037_The_Curious_Case_Of_Benjamin_Button_01.24.02.387-01.24.05.853 	as it floats in the water, a hummingbird flies past it.
 1037_The_Curious_Case_Of_Benjamin_Button_02.20.13.910-02.20.14.861 	it floats away into the sky.
-1038_The_Great_Gatsby_00.28.21.281-00.28.22.896 	colorful confetti floats down from the ceiling.
 1038_The_Great_Gatsby_00.32.32.554-00.32.34.862 	they float down on the guests as they relax in a lounge with cushions on the floor.
 1038_The_Great_Gatsby_02.02.51.421-02.02.52.757 	gatsby gently floats face down in the pool.
 1038_The_Great_Gatsby_02.06.09.677-02.06.14.144 	white typed letters appear to float through the air like snow flakes.
-1040_The_Ugly_Truth_01.28.36.606-01.28.37.057 	many more balloons float in the clear, blue sky.
-1042_Up_In_The_Air_00.00.44.119-00.00.51.991 	fluffy white clouds float in a blue sky.
-1042_Up_In_The_Air_00.45.14.173-00.45.16.702 	a few, small clouds float in the clear sky above miami, set against the deep, blue ocean.
 1042_Up_In_The_Air_00.54.26.335-00.54.26.953 	people stand at small white tables with shiny balloons floating on ribbons above them.
 1046_Australia_00.03.01.000-00.03.08.811 	he floats lifelessly over where the boy is lying, his blood staining the water.
 1049_Harry_Potter_and_the_chamber_of_secrets_00.07.21.480-00.07.22.906 	the gateau floats out of the kitchen.
 1049_Harry_Potter_and_the_chamber_of_secrets_00.33.20.902-00.33.24.418 	the ghost of sir nicolas floats into the great hall where the students are sitting at long tables.
-1049_Harry_Potter_and_the_chamber_of_secrets_01.17.41.106-01.17.48.175 	huge snowflakes float above the heads of the students sitting at the long, polished dining tables.
 1049_Harry_Potter_and_the_chamber_of_secrets_01.18.58.991-01.19.01.789 	the two cakes float into the air.
-1049_Harry_Potter_and_the_chamber_of_secrets_01.25.12.800-01.25.15.060 	myrtle floats past.
+1049_Harry_Potter_and_the_chamber_of_secrets_01.19.08.768-01.19.16.312 	they see the floating cakes and grab them.
 1049_Harry_Potter_and_the_chamber_of_secrets_01.27.08.790-01.27.16.142 	as she floats past, harry notices a book with a limp, black leather cover lying on the stone floor.
 1049_Harry_Potter_and_the_chamber_of_secrets_01.57.47.896-01.57.54.288 	she points across the room and floats away.
 1049_Harry_Potter_and_the_chamber_of_secrets_02.16.01.276-02.16.09.811 	in a flash of light, riddle completely disintegrates leaving behind only a few faint sparks floating in the air.
 1049_Harry_Potter_and_the_chamber_of_secrets_02.26.43.528-02.26.47.586 	he floats between the tables.
 1049_Harry_Potter_and_the_chamber_of_secrets_02.31.04.000-02.31.06.014 	lighted candles float in the air high above the long tables which are already prepared for the feast.
-1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.09.50.742-00.09.56.449 	the white-haired professor floats gently downwards.
+1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.08.10.643-00.08.19.422 	lucius trembles as voldemort points the wand at the floating woman.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.28.29.129-00.28.34.139 	it floats in front of him opening as it does so.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.37.05.361-01.37.08.782 	as he nears the light, it floats towards him, then sinks below the ice.
-1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.48.23.496-01.48.26.893 	the plums float in the air like orange balloons.
 1051_Harry_Potter_and_the_goblet_of_fire_00.12.01.795-00.12.04.693 	it floats above his head.
 1051_Harry_Potter_and_the_goblet_of_fire_01.27.02.965-01.27.11.268 	she floats towards him.
 1051_Harry_Potter_and_the_goblet_of_fire_01.34.32.555-01.34.37.488 	four people in black cloaks float upright in front of him - - ron, hermione, cho, and a small girl with long fair hair.
 1051_Harry_Potter_and_the_goblet_of_fire_01.35.48.037-01.35.51.536 	he looks at the girl with long, fair hair, now, floating alone.
 1052_Harry_Potter_and_the_order_of_phoenix_00.03.38.985-00.03.42.822 	a second skeletal figure floats closer above his face.
-1052_Harry_Potter_and_the_order_of_phoenix_00.03.54.657-00.03.58.556 	the second dementor floats above dudley, sucking vapor from him.
 1052_Harry_Potter_and_the_order_of_phoenix_00.19.24.380-00.19.26.406 	he looks up at a gigantic silken banner floating above.
-1052_Harry_Potter_and_the_order_of_phoenix_01.01.38.162-01.01.39.916 	nigel floats in mid-air.
 1053_Harry_Potter_and_the_philosophers_stone_00.41.56.910-00.42.01.523 	hundreds of lighted candles floating mid-air above their heads, below a moonlit sky.
-1053_Harry_Potter_and_the_philosophers_stone_00.47.16.322-00.47.33.343 	more ghostly figures float around the great hall.
 1053_Harry_Potter_and_the_philosophers_stone_00.47.40.220-00.47.42.780 	he floats away.
-1053_Harry_Potter_and_the_philosophers_stone_01.06.59.000-01.07.08.787 	a white feather rises from the desk and floats across the room towards tiny professor flitwick, who is standing on a pile of books.
-1053_Harry_Potter_and_the_philosophers_stone_01.07.56.934-01.08.01.860 	candles flicker and glow from the mouths of grinning pumpkins, which float above the heads of the students.
-1053_Harry_Potter_and_the_philosophers_stone_01.37.25.545-01.37.34.041 	fluffy white clouds float in the blue sky.
+1053_Harry_Potter_and_the_philosophers_stone_01.28.13.545-01.28.16.495 	his head is floating.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_00.05.20.075-00.05.21.759 	she floats even higher and hits the ceiling.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.05.23.476-00.05.26.246 	aunt marge turns upside down showing her bloomers and floats into the conservatory.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_00.05.57.649-00.06.01.198 	aunt marge floats away like a huge balloon.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_00.21.22.472-00.21.32.795 	something appears out in the corridor floating towards the door, something black, shapeless and mysterious.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_00.21.57.267-00.22.03.401 	the hideous cloaked figure floats into the compartment and faces harry.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_00.40.02.162-00.40.06.534 	a dementor floats past.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_01.44.07.662-01.44.15.248 	a faint, silvery breath floats from sirius' half-open mouth, illuminating his face.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_01.44.19.217-01.44.24.822 	to his surprise, the dementors are floating harmlessly.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_01.45.00.337-01.45.06.464 	a tiny, silvery breath floats back into sirius' mouth and his chest heaves.
+1055_Marley_and_me_01.19.17.526-01.19.21.130 	the pool is covered with floating flower candles.
 1056_Rambo_00.24.19.820-00.24.23.247 	rambo's boat rounds a headland and comes upon the pirates' motorboat, floating near a bank.
-1057_Seven_pounds_00.51.22.060-00.51.23.880 	a single box jellyfish floats in ben's aquarium in the motel.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.47.32.000-00.47.38.789 	having confronted harry, she recedes, floating away from him.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.47.39.576-00.47.46.899 	she floats out into the walkway.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.48.34.447-00.48.49.603 	she floats away from him.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.15.05.002-01.15.24.993 	it floats towards the desk at the far side of the room.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.26.36.803-01.26.44.244 	the stone floats out of the snitch.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.45.25.582-01.45.27.209 	a burning body floats past him.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.49.48.000-01.50.09.891 	his mouth gaping in horror, he looks up as his body and clothes disintegrate into thousands of tiny pieces which float upwards.
-1062_Day_the_Earth_stood_still_01.06.28.000-01.06.31.000 	the robot is floating down a deep, concrete-walled shaft.
-2017_Bad_Santa_00.12.14.887-00.12.19.602 	he finds one last bottle in his hand, half-full with a cigarette butt floating in it.
-1053_Harry_Potter_and_the_philosophers_stone_00.41.56.910-00.42.01.523 	hundreds of lighted candles floating mid-air above their heads, below a moonlit sky.
-1053_Harry_Potter_and_the_philosophers_stone_00.47.16.322-00.47.33.343 	more ghostly figures float around the great hall.
-1053_Harry_Potter_and_the_philosophers_stone_00.47.40.220-00.47.42.780 	he floats away.
-1053_Harry_Potter_and_the_philosophers_stone_01.06.59.000-01.07.08.787 	a white feather rises from the desk and floats across the room towards tiny professor flitwick, who is standing on a pile of books.
-1053_Harry_Potter_and_the_philosophers_stone_01.07.56.934-01.08.01.860 	candles flicker and glow from the mouths of grinning pumpkins, which float above the heads of the students.
-1053_Harry_Potter_and_the_philosophers_stone_01.37.25.545-01.37.34.041 	fluffy white clouds float in the blue sky.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.05.20.075-00.05.21.759 	she floats even higher and hits the ceiling.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.05.23.476-00.05.26.246 	aunt marge turns upside down showing her bloomers and floats into the conservatory.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.05.57.649-00.06.01.198 	aunt marge floats away like a huge balloon.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.21.22.472-00.21.32.795 	something appears out in the corridor floating towards the door, something black, shapeless and mysterious.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.21.57.267-00.22.03.401 	the hideous cloaked figure floats into the compartment and faces harry.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.40.02.162-00.40.06.534 	a dementor floats past.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_01.44.07.662-01.44.15.248 	a faint, silvery breath floats from sirius' half-open mouth, illuminating his face.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_01.44.19.217-01.44.24.822 	to his surprise, the dementors are floating harmlessly.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_01.45.00.337-01.45.06.464 	a tiny, silvery breath floats back into sirius' mouth and his chest heaves.
-1056_Rambo_00.24.19.820-00.24.23.247 	rambo's boat rounds a headland and comes upon the pirates' motorboat, floating near a bank.
-1057_Seven_pounds_00.51.22.060-00.51.23.880 	a single box jellyfish floats in ben's aquarium in the motel.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.47.32.000-00.47.38.789 	having confronted harry, she recedes, floating away from him.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.47.39.576-00.47.46.899 	she floats out into the walkway.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.48.34.447-00.48.49.603 	she floats away from him.

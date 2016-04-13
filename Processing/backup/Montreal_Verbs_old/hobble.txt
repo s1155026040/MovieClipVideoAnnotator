@@ -1,0 +1,10 @@
+ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS646 	01:31:40,00 --> 01:31:44,50 	someone hobbles over to him.
+BLINDDATING.srt 	BLINDDATING_DVS184 	00:48:05,00 --> 00:48:09,50 	he hobbles down the sidewalk.
+KARATE_KID.srt 	KARATE_KID_DVS1342 	01:48:32,00 --> 01:48:37,50 	someone breaks the embrace and hobbles away.
+KARATE_KID.srt 	KARATE_KID_DVS1541 	02:04:47,00 --> 02:04:51,50 	he hobbles toward the rival teacher with a mocking limp.
+LITTLE_FOCKERS.srt 	LITTLE_FOCKERS_DVS227 	01:20:39,00 --> 01:20:47,50 	as he hobbles off, a boy offers him his cotton candy.
+SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS204 	00:14:44,00 --> 00:14:50,50 	hobbling forward, the little girl tries to run outside.
+SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS221 	00:15:28,00 --> 00:15:34,50 	as the little girl turns and hobbles in the other direction,
+THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS215 	00:43:31,00 --> 00:43:44,50 	the drunken man takes a rest then hobbles forward and bends over his door lock.
+THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS180 	00:29:43,00 --> 00:29:50,50 	he hops and hobbles as he pulls them over his heels one at a time.
+ZOMBIELAND.srt 	ZOMBIELAND_DVS187 	00:18:19,00 --> 00:18:25,50 	she hobbles at him, her broken ankle dragging behind her.

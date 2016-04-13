@@ -1,0 +1,13 @@
+A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS96 	00:08:20,00 --> 00:08:24,50 	by the dim light above his seat, he peruses the documents written in russian.
+A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS620 	01:03:53,00 --> 01:04:01,50 	now, someone and someone open the maybach's trunk, and peruse their stockpile of military grade weaponry.
+BRUNO.srt 	BRUNO_DVS96 	00:21:44,00 --> 00:21:55,50 	later, someone sits in a hallway perusing the questionnaires.
+CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS673 	01:05:27,00 --> 01:05:32,50 	blond peruses his friend's surfing related sketches
+CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS923 	01:30:22,00 --> 01:30:28,50 	his jaw muscles tense as he peruses his father's words.
+GREEN_ZONE.srt 	GREEN_ZONE_DVS465 	01:41:32,00 --> 01:41:45,50 	as he peruses the report, someone watches him coldly.
+SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1196 	01:20:47,00 --> 01:20:53,50 	she sets one page aside and peruses the next with glistening eyes.
+THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS337 	00:51:53,00 --> 00:52:00,50 	someone and someone peruse the buffet table while other guests convene in the next room.
+THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS57 	00:04:11,00 --> 00:04:18,50 	dawning glasses he peruses a file as the news broadcasts behind him.
+THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1343 	02:24:14,00 --> 02:24:19,50 	she peruses wigs.
+THOR.srt 	THOR_DVS337 	00:50:08,00 --> 00:50:15,50 	someone smiles as he peruses images from norse mythology.
+TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS390 	00:42:46,00 --> 00:42:52,50 	a young fairy reads, while another peruses food in a display case at a counter.
+YOUNG_ADULT.srt 	YOUNG_ADULT_DVS92 	00:13:22,00 --> 00:13:27,50 	and peruses containers of ice cream.

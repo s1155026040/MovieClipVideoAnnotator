@@ -1,0 +1,4 @@
+DEAR_JOHN.srt 	DEAR_JOHN_DVS81 	00:12:30,00 --> 00:12:36,50 	now, someone opens the front door and enters a room veiled in shadow.
+ROBIN_HOOD.srt 	ROBIN_HOOD_DVS282 	01:07:07,00 --> 01:07:41,50 	back lit by the candle, the sheer fabric offers a thinly veiled view of someone stepping out of her dress.
+SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS340 	00:23:16,00 --> 00:23:20,50 	veiling her face.
+THE_VOW.srt 	THE_VOW_DVS674 	01:34:10,00 --> 01:34:19,50 	snow veils someones clay scrap pile.

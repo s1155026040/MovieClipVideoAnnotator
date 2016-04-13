@@ -1,7 +1,2 @@
-FLIGHT.srt 	FLIGHT_DVS29 	00:04:03,00 --> 00:04:09,50 	people run across the tarmac, as rain lashes the airport.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS578 	01:23:55,00 --> 01:24:07,50 	it lashes around the undercarriage's central rod.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS180 	00:33:44,00 --> 00:34:06,50 	someone strikes the ground with his whips, as someone rolls out of the way, then spreads his legs as a whip lashes the asphalt inches from his groin.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS655 	01:49:45,00 --> 01:50:04,50 	swinging the pulse whips, someone lashes the ground in front of someone and someone.
 PROMETHEUS.srt 	PROMETHEUS_DVS567 	01:03:29,00 --> 01:03:34,50 	it's serpentine body lashes around his arm.
-PROMETHEUS.srt 	PROMETHEUS_DVS1014 	01:50:52,00 --> 01:51:03,50 	she pounds a touchscreen, a tentacle shoots out through the med pod station doors lashes around the engineer's throat and tackles him, taking someone down with them.
-PROMETHEUS.srt 	PROMETHEUS_DVS1027 	01:51:50,00 --> 01:51:57,50 	the buds shoot out tendrils that lash around his skull and hold him still.

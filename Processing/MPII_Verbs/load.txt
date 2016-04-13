@@ -1,65 +1,23 @@
-0001_American_Beauty_00.33.45.933-00.33.47.881 	this situation is loaded and they both know it.
-0003_CASABLANCA_00.03.03.904-00.03.13.430 	some try to escape but are caught by the police and loaded into a police wagon.
-0007_DIE_NACHT_DES_JAEGERS_00.49.20.814-00.49.21.093 	the table is loaded with good food.
-0010_Frau_Ohne_Gewissen_00.39.48.343-00.39.48.957 	the shelves are loaded with canned goods and other merchandise.
-0011_Gandhi_00.20.15.998-00.20.16.846 	sonja's tone is loaded with foreboding.
-0011_Gandhi_02.12.24.617-02.12.26.283 	the truck is loaded with boxes that contain salt packets and nehru and eight or nine others are selling them to people who flock about the truck.
-0014_Ist_das_Leben_nicht_schoen_01.16.30.188-01.16.31.033 	george is helping load his old car with scrap paper.
-0017_Pianist_00.14.36.318-00.14.42.101 	on foot, on bicycles, on horse-drawn platforms, some pushing prams loaded with belongings.
-0017_Pianist_02.13.48.456-02.13.54.037 	men carry out boxes, filing cabinets, desks, papers and load them into trucks.
 0022_Reservoir_Dogs_01.25.07.043-01.25.09.250 	mr. white loads his two .45 automatics.
 0023_THE_BUTTERFLY_EFFECT_00.14.02.872-00.14.04.796 	lenny's mother, mrs. kagan, frantically loads lenny into an ambulance.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.31.59.300-01.32.01.513 	trolls load the catapults with rocks.
-0030_The_Hustler_00.54.36.199-00.54.36.310 	sarah emerges from a neighborhood grocery store loaded down with a cheese doodles carton full of food.
-0031_The_Lost_Weekend_01.32.35.782-01.32.54.814 	he puts down the pen, gets up, stands the letter conspicuously on the desk, picks up the revolver, gets the cartridges from the drawer and loads the gun.
-0033_Amadeus_00.16.30.446-00.16.31.628 	several tables, dressed to the floor with cloths are loaded with many plates of confectionery.
 0043_Thelma_and_Luise_00.07.55.422-00.08.25.362 	they load everything into the car.
-0043_Thelma_and_Luise_01.15.24.679-01.15.30.705 	as he's loading the purse with bills, she's taking beef jerky from the display and putting it in there, too, while she points the gun at the cashier.
 0051_Men_in_black_01.19.20.757-01.19.21.840 	kay loads up the clip.
-1004_Juno_01.10.34.899-01.10.35.933 	vanessa, loaded down with shopping, comes into her pristine white kitchen.
 1006_Slumdog_Millionaire_01.15.46.973-01.15.54.011 	jamal sneaks to the landing to spy on salim downstairs as he loads a gun.
 1009_Spider-Man3_00.49.26.000-00.49.31.958 	elsewhere in the city, security guards load up an armored van with cash bags.
 1010_TITANIC_00.21.24.176-00.21.29.461 	a crane loads an antique car onto the ship.
 1010_TITANIC_02.11.59.017-02.12.04.286 	lightoller loads his revolver, while lowe boards the lifeboat.
 1010_TITANIC_02.13.44.734-02.13.46.135 	elsewhere, murdoch and several seamen load a small boat
-1010_TITANIC_02.14.46.454-02.14.49.985 	murdoch turns to cal and lovejoy, while ismay helps load the collapsible.
 1011_The_Help_02.12.47.980-02.12.52.238 	back on duty, aibileen lets herself into elizabeth's kitchen through the back door, her arms loaded with groceries.
-1014_2012_01.58.46.650-01.58.48.402 	chancellor looks out over the loading bay.
 1017_Bad_Santa_00.54.07.918-00.54.12.585 	the gift-wrapped safe-breaking equipment loaded into the sack, willie and marcus head for the mall.
-1018_Body_Of_Lies_01.25.11.339-01.25.16.690 	soldiers lift bodies in body bags from the chopper and load them onto the troop carrier.
 1026_Legion_00.27.55.712-00.27.59.902 	they load him into the back with sandra and audrey.
-1026_Legion_00.46.07.285-00.46.09.268 	he loads an assault rifle, turns, and walks away from them.
 1030_Public_Enemies_01.32.49.199-01.32.50.705 	homer loads his next round.
-1031_Quantum_of_Solace_01.25.11.178-01.25.14.605 	behind a rock overlooking the geometrically laid out compound, camille expertly assembles and loads an automatic.
-1033_Sherlock_Holmes_A_Game_of_Shadows_00.47.16.105-00.47.19.772 	the weapon is fixed onto its tripod and the belt-fed ammunition loaded into the breech.
-1033_Sherlock_Holmes_A_Game_of_Shadows_01.10.32.593-01.10.35.634 	moran loads his martini action rifle and aims it at meinhard.
-1033_Sherlock_Holmes_A_Game_of_Shadows_01.19.59.713-01.20.05.572 	he tosses a magazine to holmes and nods for him to load it.
-1033_Sherlock_Holmes_A_Game_of_Shadows_01.30.16.741-01.30.18.408 	a massive shell is loaded into the breach.
-1033_Sherlock_Holmes_A_Game_of_Shadows_01.30.18.741-01.30.22.408 	the elevation of the barrel is adjusted, and a powder charge is loaded.
-1033_Sherlock_Holmes_A_Game_of_Shadows_01.32.24.015-01.32.25.975 	he loads his rifle and takes aim.
-1033_Sherlock_Holmes_A_Game_of_Shadows_01.48.31.109-01.48.33.815 	the hyperemic cartridge is loaded into a weapon.
-1034_Super_8_00.16.01.949-00.16.02.616 	the camera is loaded.
-1034_Super_8_00.33.43.377-00.33.47.625 	they repack them in crates, which are, in turn, loaded onto military lorries.
 1034_Super_8_01.08.30.371-01.08.33.242 	panicked families load their cars in preparation to evacuate.
 1034_Super_8_01.23.26.424-01.23.28.369 	nelec loads an assault rifle.
-1035_The_Adjustment_Bureau_01.03.04.818-01.03.07.437 	he tries another one, then attempts to lift a loading bay door.
-1038_The_Great_Gatsby_00.23.41.645-00.23.49.558 	cars loaded with party goers roll up.
 1042_Up_In_The_Air_01.19.06.379-01.19.08.666 	outside by a loading bay.
-1043_Vantage_Point_00.16.32.625-00.16.36.165 	the president is loaded into an ambulance.
-1043_Vantage_Point_00.57.01.454-00.57.06.785 	he loads the pistol and puts an earpiece in.
-1043_Vantage_Point_01.00.17.027-01.00.22.189 	sam loads a pistol and proffers it to veronica, who is dressing herself in a nurse's uniform.
-1046_Australia_00.19.32.013-00.19.35.000 	as he loads, the boy climbs into the water tower.
-1046_Australia_01.22.11.172-01.22.14.809 	drover looks across at the carney herd being loaded.
 1047_Defiance_01.46.52.188-01.46.53.703 	guns and grenades loaded into baskets and bags.
-1048_Gran_Torino_00.21.13.400-00.21.21.755 	he opens the breech and loads a magazine into it, then cocks it.
-1048_Gran_Torino_00.48.44.487-00.48.58.394 	as he sits at the table, women fuss around him and load his plate with food.
 1048_Gran_Torino_00.58.44.706-00.58.47.483 	and loads rubble into a wheelbarrow.
-1048_Gran_Torino_01.47.23.297-01.47.26.241 	sue, thao and father janovich watch as a body bag is loaded into an ambulance.
 1052_Harry_Potter_and_the_order_of_phoenix_02.07.18.077-02.07.21.525 	owls in cages loaded onto the hogwarts express.
 1056_Rambo_01.14.23.024-01.14.26.580 	a man in an orange top loads a mortar rocket into a launcher on the hill.
-1056_Rambo_01.14.45.308-01.14.47.722 	on the hill, a rebel loads another mortar into the launcher and covers his ears.
 1062_Day_the_Earth_stood_still_00.10.48.622-00.10.52.543 	it's loaded rack down.
-2017_Bad_Santa_01.27.21.771-01.27.29.134 	marcus starts removing stacks of cash and loading them into the santa sack.
-2026_Legion_00.06.45.589-00.06.49.343 	with soldier-like efficiency, michael picks up the rifle bags and begins to load them into the trunk of the squad car.
-2026_Legion_01.25.52.489-01.25.53.492 	audrey desperately tries to load a flare while avoiding gabriel's grasp.
 2034_Super_8_01.08.30.623-01.08.34.561 	others quickly load up cars, strapping belongings to the roof.

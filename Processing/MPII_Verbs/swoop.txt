@@ -1,50 +1,26 @@
 0003_CASABLANCA_00.05.09.681-00.05.11.489 	the plane swoops down past a sign atop a building at the edge of the airport.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.54.01.161-00.54.05.893 	tilt down: following the nazgul as it swoops out of lowlying, murky clouds tossing men in the air like limp rag-dolls!
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.09.16.855-02.09.22.458 	the witch-king swooping down on his fell-beast!
-0031_The_Lost_Weekend_01.25.28.622-01.25.34.092 	it is a bat, swooping in slow loops around the room.
-0032_The_Princess_Bride_00.49.41.849-00.49.44.317 	buttercup tries to speak again, can't, and is swooped off her feet onto humperdinck's horse, and off they go.
 1001_Flight_01.48.51.567-01.48.54.007 	whip swoops up the bottle.
 1002_Harry_Potter_and_the_Half-Blood_Prince_00.01.47.663-00.01.54.904 	they swoop through the clouds, down towards the thames, then across trafalgar square.
 1002_Harry_Potter_and_the_Half-Blood_Prince_00.02.02.800-00.02.07.919 	traveling down narrow alleys, back streets, and through solid walls, they hurtle into diagon alley, where they swoop into a shop.
-1008_Spider-Man2_00.56.54.834-00.57.01.911 	he catches her, and they swoop and swing down the street.
-1008_Spider-Man2_01.45.07.239-01.45.13.061 	he tosses a woman at spider-man who swoops down, catches her then deposits her into a web safety net.
-1009_Spider-Man3_00.16.59.884-00.17.06.040 	a marked figure, in dark green, swoops down on a hoverboard and carries him up on the rooftops.
-1009_Spider-Man3_00.18.10.287-00.18.18.711 	peter hangs on as it plummets towards the street below, but harry swoops down after him, smashing the chunk of wall into fragments.
-1009_Spider-Man3_00.19.15.931-00.19.22.134 	peter opens his fist and looks down at the ring nestled in his palm, then turns and runs as harry swoops down.
 1009_Spider-Man3_00.20.37.918-00.20.45.218 	he yanks it out, zooms upwards into the air, and swoops on after peter.
 1031_Quantum_of_Solace_01.08.05.213-01.08.11.474 	bond nurses the stricken aircraft as the hunter swoops in for the kill.
 1049_Harry_Potter_and_the_chamber_of_secrets_00.24.56.635-00.25.01.717 	the car swerves away from the track and swoops under the viaduct.
 1049_Harry_Potter_and_the_chamber_of_secrets_00.26.11.974-00.26.18.831 	ron struggles with the wheel as the car swoops out of control, zooming close to the brightly lit windows of the great hall.
-1049_Harry_Potter_and_the_chamber_of_secrets_00.33.52.009-00.33.58.910 	swooping low over the table, it heads for ron, but collides with a bowl, scattering crisps everywhere.
 1049_Harry_Potter_and_the_chamber_of_secrets_00.53.12.100-00.53.19.023 	the players swoop above the arena on their broomsticks, high over the heads of the excited crowd.
 1049_Harry_Potter_and_the_chamber_of_secrets_02.10.40.887-02.10.42.673 	fawkes swoops off.
-1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.17.25.836-00.17.31.159 	the owl swoops to attack again and is hit by a bolt of green light.
-1051_Harry_Potter_and_the_goblet_of_fire_00.15.43.209-00.15.52.033 	students crowd into the school cloisters and gaze up in excitement as it swoops down towards them.
 1051_Harry_Potter_and_the_goblet_of_fire_00.41.32.732-00.41.43.846 	a small black owl swoops over hogwarts school.
-1051_Harry_Potter_and_the_goblet_of_fire_00.59.28.820-00.59.35.634 	harry leaves the rock, leaps away from the dragon, and jumps onto his firebolt as it swoops down into the arena.
 1051_Harry_Potter_and_the_goblet_of_fire_01.00.15.950-01.00.21.974 	the dragon launches after him, as harry swoops low of the hogwards.
 1051_Harry_Potter_and_the_goblet_of_fire_01.22.36.922-01.22.45.311 	they swoop between the tall towers past one or two lighted windows.
 1051_Harry_Potter_and_the_goblet_of_fire_02.23.16.615-02.23.38.344 	the seven winged horses swoop down past the tall sails of the galleon and away over the lake.
-1052_Harry_Potter_and_the_order_of_phoenix_00.04.06.445-00.04.09.505 	he grabs it as the cloaked figure swoops again.
 1052_Harry_Potter_and_the_order_of_phoenix_00.09.54.771-00.09.59.266 	they swoop by hms belfast and head upriver towards westminster.
 1052_Harry_Potter_and_the_order_of_phoenix_00.19.40.458-00.19.46.082 	paper airplanes swoop around their heads.
 1052_Harry_Potter_and_the_order_of_phoenix_01.25.08.680-01.25.10.197 	fawkes the phoenix swoops down.
-1052_Harry_Potter_and_the_order_of_phoenix_01.53.22.281-01.53.28.690 	they raise their wands for protection as a group of black- cloaked figures swoops down.
 1052_Harry_Potter_and_the_order_of_phoenix_01.56.18.263-01.56.24.624 	death eaters swoop above their heads, trailing black smoke.
-1053_Harry_Potter_and_the_philosophers_stone_00.00.28.490-00.00.31.774 	the owl takes wing, and swoops low along the misty road.
 1053_Harry_Potter_and_the_philosophers_stone_00.47.25.219-00.47.33.467 	they swoop above the tables.
-1053_Harry_Potter_and_the_philosophers_stone_00.53.58.000-00.54.24.249 	the graceful birds swoop amongst the carved oak beams and fly from one end of the great hall to the other, delivering letters and parcels to their delighted owners.
-1053_Harry_Potter_and_the_philosophers_stone_01.16.15.725-01.16.29.206 	one after the other, they fly out of the player's tunnel, and swoop around between the tall spectator towers, which surround the oval grassy arena.
-1053_Harry_Potter_and_the_philosophers_stone_01.17.49.624-01.17.52.594 	the spectators duck as the players swoop low over their heads.
 1053_Harry_Potter_and_the_philosophers_stone_01.20.25.368-01.20.27.547 	suddenly, the golden snitch swoops past.
 1053_Harry_Potter_and_the_philosophers_stone_01.37.03.545-01.37.15.228 	harry watches, as it soars above his head, swooping around the courtyard, then up and over the grey stone tars of the school.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_00.29.01.151-00.29.08.305 	it swoops down a grassy slope towards a crooked willow tree.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.54.34.620-00.54.40.601 	wearing goggles as protection from the rain, harry swoops past the stand where the professors follow the action.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_01.43.12.300-01.43.20.455 	one swoops down and attacks sirius.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_01.43.54.277-01.44.06.118 	again, the dementors circle overhead, then swoop lower and lower, hovering over the two figures lying helpless below as life is gradually sucked out of them.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_01.44.38.188-01.44.51.534 	as the dementors start to move again, they are turned back by a powerful invisible shield and swoop away over harry's head.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_02.00.43.605-02.00.56.305 	the dementors swoop down again and again as they attack the two helpless figures.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_02.02.34.701-02.02.47.837 	swooping over hogwarts castle, the hippogriff glides down towards the dark tower where sirius is imprisoned.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_02.03.04.195-02.03.13.475 	beating its huge wings, the hippogriff swoops down towards the ground.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.55.07.779-00.55.11.211 	death eaters swoop down, aiming blasts of green light at the stone warriors.
-2026_Legion_01.08.48.915-01.08.50.636 	kyle swoops down and gathers the boy into his arms.

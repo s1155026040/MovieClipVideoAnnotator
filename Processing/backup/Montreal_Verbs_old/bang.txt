@@ -1,0 +1,16 @@
+COLOMBIANA.srt 	COLOMBIANA_DVS68 	00:04:35,00 --> 00:04:42,50 	inside, he bangs his hand on the dashboard.
+DEAR_JOHN.srt 	DEAR_JOHN_DVS35 	00:04:54,00 --> 00:05:01,50 	as someone stares at someone, he accidentally bangs his board on the someone.
+DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS272 	01:07:15,00 --> 01:07:21,50 	someone bangs his glass to attract everyone's attention.
+FLIGHT.srt 	FLIGHT_DVS125 	00:25:04,00 --> 00:25:12,50 	someone flies past the cockpit, as someone bangs his head and passes out.
+IN_TIME.srt 	IN_TIME_DVS198 	00:20:57,00 --> 00:21:03,50 	banging on the door, she sees the man glance back then hurry off.
+INSIDE_MAN.srt 	INSIDE_MAN_DVS282 	01:27:03,00 --> 01:27:08,50 	banging it, they stand inches apart.
+MORNING_GLORY.srt 	MORNING_GLORY_DVS192 	00:43:53,00 --> 00:43:58,50 	in the toilet, she bangs her head against the dryer.
+MORNING_GLORY.srt 	MORNING_GLORY_DVS199 	00:44:51,00 --> 00:44:58,50 	she bangs her head on a lamp above her.
+NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS185 	00:41:11,00 --> 00:41:20,50 	she bangs her walking stick on the ground, creating sparks.
+NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS192 	00:41:58,00 --> 00:42:02,50 	someone bangs her stick again.
+NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS360 	01:17:26,00 --> 01:17:31,50 	someone bangs the stick.
+PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS230 	00:42:12,00 --> 00:42:34,50 	someone encounters a guard, sucker punches him, and bangs his head against the counter.
+THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS553 	01:17:27,00 --> 01:17:32,50 	someone bangs his head on the seat in front of him.
+TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS24 	00:02:56,00 --> 00:03:00,50 	fans bang on the glass.
+TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS672 	01:15:12,00 --> 01:15:19,50 	his rivals bang their sticks.
+WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS497 	01:17:01,00 --> 01:17:07,50 	later, the zoo staffers bang on buckets, pots, and pans.

@@ -1,9 +1,4 @@
-0007_DIE_NACHT_DES_JAEGERS_00.26.39.784-00.26.40.528 	From JOHN, just a questioning helpless reaction.
-0011_Gandhi_00.19.17.964-00.19.18.355 	A snickering response from the other youths -- but they are embarrassed by the questioning disapproval of Colin's mother's attitude.
-0053_Rendezvous_mit_Joe_Black_00.39.48.532-00.39.52.571 	Joe has heard Susan's question but, as he studies her, doesn't answer.
-1006_Slumdog_Millionaire_00.50.49.333-00.50.54.515 	He questions some young boys his age.
-1006_Slumdog_Millionaire_00.54.05.321-00.54.07.029 	Salim questions a woman.
-1006_Slumdog_Millionaire_00.54.38.940-00.54.42.537 	Salim and Jamal questioned two women who direct the boys to an entrance down the busy corridor.
-1034_Super_8_00.39.05.496-00.39.08.167 	alice gives joe a questioning look.
-1057_Seven_pounds_01.23.41.354-01.23.45.345 	the home nurse gives emily a questioning look.
-1057_Seven_pounds_01.23.41.354-01.23.45.345 	the home nurse gives emily a questioning look.
+0003_CASABLANCA_00.03.14.336-00.03.20.407 	at a street corner two policemen stop a white civilian and question him.
+0007_DIE_NACHT_DES_JAEGERS_00.26.39.784-00.26.40.528 	from john, just a questioning helpless reaction.
+0011_Gandhi_00.19.17.964-00.19.18.355 	a snickering response from the other youths -- but they are embarrassed by the questioning disapproval of colin's mother's attitude.
+1006_Slumdog_Millionaire_00.54.38.940-00.54.42.537 	salim and jamal questioned two women who direct the boys to an entrance down the busy corridor.

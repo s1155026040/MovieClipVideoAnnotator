@@ -1,11 +1,25 @@
-0002_As_Good_As_It_Gets_00.52.11.999-00.52.18.189 	A depleted, exhausted Carol approaches her home.
-0005_Chinatown_01.35.32.723-01.35.33.981 	Gittes is so exhausted he's literally holding onto the nozzle as the water pours down.
-0013_Halloween_01.25.49.216-01.25.52.027 	She watches for a moment as they walk down the stairs, then slumps down against the door frame in an exhausted heap.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.03.02.732-01.03.06.614 	Too exhausted to argue, SAM turns away.
-0026_The_Big_Fish_00.41.09.835-00.41.14.598 	He's exhausted from the trip downstairs, but determined to maintain the family dinner ritual.
-0030_The_Hustler_00.29.43.653-00.29.53.238 	A drunken, exhausted Eddie nods, looks up at Bert, grins maliciously, and takes a drink.
+0002_As_Good_As_It_Gets_00.52.11.999-00.52.18.189 	a depleted, exhausted carol approaches her home.
+0010_Frau_Ohne_Gewissen_00.04.01.565-00.04.02.498 	for a moment he stays like this, exhausted, then his eyes open slowly and look down at his left shoulder.
+0017_Pianist_00.43.33.621-00.43.39.777 	old people lying down, exhausted, impossible to tell whether some of them are alive or dead.
+0023_THE_BUTTERFLY_EFFECT_00.33.38.012-00.33.41.916 	evan, exhausted, finally pulls into lenny's driveway.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.00.32.391-01.00.37.460 	frodo, merry, and pippin collapse into a small hollow, halfway up weathertop.they are muddy and exhausted.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.03.02.732-01.03.06.614 	too exhausted to argue, sam turns away.
+0026_The_Big_Fish_00.41.09.835-00.41.14.598 	he's exhausted from the trip downstairs, but determined to maintain the family dinner ritual.
+0026_The_Big_Fish_00.58.35.590-00.58.36.684 	exhausted from playing fetch all night, edward throws the stick into the woods.
+0028_The_Crying_Game_01.38.55.069-01.38.56.359 	fergus collapsed back on the bed, exhausted.
+0030_The_Hustler_00.29.43.653-00.29.53.238 	a drunken, exhausted eddie nods, looks up at bert, grins maliciously, and takes a drink.
+0031_The_Lost_Weekend_00.35.21.264-00.35.26.062 	his patience exhausted, don stops again, takes the umbrella and tosses it in helen's direction.
+0031_The_Lost_Weekend_00.55.22.473-00.55.29.135 	he goes back to the big chair, throws himself down, exhausted.
+0032_The_Princess_Bride_01.14.10.135-01.14.16.016 	pull back to reveal max and valerie, exhausted, looking at the lump with beautific pleasure, as valerie, cooking utensil in hand, covers the thing with what looks like chocolate.
+0033_Amadeus_02.42.29.497-02.42.31.114 	mozart lying in bed exhausted, but still dictating urgently.
+0050_Indiana_Jones_and_the_last_crusade_01.49.36.676-01.49.40.210 	until the knight, exhausted, drops the sword and collapses.
+0053_Rendezvous_mit_Joe_Black_00.02.32.418-00.02.41.810 	parrish closes his eyes but then they flutter open, he glances up at the ceiling and finally, exhausted, falls back asleep.
+1004_Juno_01.17.16.901-01.17.21.031 	she gets out of the vehicle looking emotionally and physically exhausted.
+1006_Slumdog_Millionaire_01.35.58.650-01.36.01.240 	jamal looks down at the ground, exhausted.
+1028_No_Reservations_01.16.27.620-01.16.29.980 	exhausted, the pair collapse onto the hall floor.
 1029_Pride_And_Prejudice_Disk_One_01.05.03.450-01.05.05.117 	he's exhausted from the walk.
 1030_Public_Enemies_01.34.28.478-01.34.39.819 	red trains his puffy, exhausted eyes on dillinger.
-1046_Australia_00.11.53.000-00.11.55.149 	sarah looks appalled at the exhausted drover.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.50.19.323-01.50.23.917 	inside, exhausted students sit on the stairs.
+1048_Gran_Torino_00.59.30.026-00.59.32.368 	exhausted, thao seats down by the stump.
+1051_Harry_Potter_and_the_goblet_of_fire_01.58.19.671-01.58.25.900 	exhausted and trembling, he scrambles to his feet.
+1054_Harry_Potter_and_the_prisoner_of_azkaban_01.44.15.852-01.44.19.679 	exhausted, harry lifts his head.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.50.19.323-01.50.23.917 	inside, exhausted students sit on the stairs.

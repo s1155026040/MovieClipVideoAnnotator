@@ -1,0 +1,6 @@
+GROWN_UPS.srt 	GROWN_UPS_DVS79 	00:23:49,00 --> 00:24:00,50 	exploring the room, someone and someone find an old tv set and knock on its bulky casing.
+HUGO.srt 	HUGO_DVS265 	00:38:35,00 --> 00:38:41,50 	later, someone explores the bookstore with someone.
+PROMETHEUS.srt 	PROMETHEUS_DVS305 	00:29:58,00 --> 00:30:05,50 	a view through a helmet camera shows a few of the team exploring the cavernous space.
+THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1046 	01:51:42,00 --> 01:51:48,50 	meanwhile, someone continues to explore his sleek modern home.
+THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1069 	01:53:01,00 --> 01:53:07,50 	as someone explores his house light sweeps across a nearby wall.
+THE_VOW.srt 	THE_VOW_DVS377 	00:52:58,00 --> 00:53:02,50 	they explore the room.

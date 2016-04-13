@@ -1,13 +1,14 @@
-0016_O_Brother_Where_Art_Thou_01.18.29.948-01.18.32.240 	The mob pursues in full cry.
-0016_O_Brother_Where_Art_Thou_01.18.36.064-01.18.40.461 	He javelins the flagpole up and out toward the pursuing crowd.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.02.16.850-00.02.23.880 	A GREAT SHADOW falls across the MAP.closing in around the realm of GONDOR from their homes, pursued by ARMIES OF HIDEOUS ORCS.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.10.42.482-01.10.49.137 	AERIAL SHOT: 3 MORE RINGWRAITHS enter frame from different directions.a total of 9 RINGWRAITHS now pursuing Frodo and Arwen!
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.53.57.709-00.54.01.161 	in the SKY above DARK SHAPES pursue them.
-0053_Rendezvous_mit_Joe_Black_01.42.29.830-01.42.34.816 	Sloane has pursued Parrish and Joe.
+0016_O_Brother_Where_Art_Thou_01.18.36.064-01.18.40.461 	he javelins the flagpole up and out toward the pursuing crowd.
+0020_Raising_Arizona_00.42.27.450-00.42.31.322 	with hi pursuing in the background.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.02.16.850-00.02.23.880 	a great shadow falls across the map.closing in around the realm of gondor from their homes, pursued by armies of hideous orcs.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.10.42.482-01.10.49.137 	aerial shot: 3 more ringwraiths enter frame from different directions.a total of 9 ringwraiths now pursuing frodo and arwen!
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.53.57.709-00.54.01.161 	in the sky above dark shapes pursue them.
+0053_Rendezvous_mit_Joe_Black_01.42.29.830-01.42.34.816 	sloane has pursued parrish and joe.
 1007_Spider-Man1_00.46.14.366-00.46.16.748 	still, the police pursued the stolen car.
 1007_Spider-Man1_01.08.40.466-01.08.44.348 	the goblin pursues the running spider-man, firing at it.
 1008_Spider-Man2_00.28.18.223-00.28.22.501 	spider-man slips between the cab and trailer of a truck as he pursues the convertible.
 1017_Bad_Santa_00.45.31.366-00.45.35.050 	again, gin, the security chief, walks up behind a boy pursuing a shelf of video games.
+1017_Bad_Santa_01.31.12.942-01.31.25.790 	he glances back at the pursuing cruisers.
 1018_Body_Of_Lies_00.22.50.714-00.22.53.845 	an iraqi in each of the pursuing four-by-fours loads a rocket-propelled grenade into a launcher.
 1027_Les_Miserables_01.23.39.820-01.23.41.921 	marius walks down a dark street pursued by eponine.
 1031_Quantum_of_Solace_01.31.04.494-01.31.10.095 	but green runs up the stairs, pursued by bond.
@@ -15,11 +16,10 @@
 1043_Vantage_Point_00.40.04.096-00.40.06.763 	the agents pursue enrique out into the street.
 1047_Defiance_00.30.17.079-00.30.19.268 	asael pursued like an animal.
 1049_Harry_Potter_and_the_chamber_of_secrets_00.57.14.400-00.57.15.464 	harry is still pursuing the golden snitch.
+1051_Harry_Potter_and_the_goblet_of_fire_01.00.06.813-01.00.11.734 	pursued by the dragon, harry flies over the valley towards the school.
 1051_Harry_Potter_and_the_goblet_of_fire_01.01.31.479-01.01.37.826 	harry falls from a great height, pursued by the horntail.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.00.48.888-01.00.51.651 	it unites with a second wave, and pursues harry, ron, and hermione.
+1052_Harry_Potter_and_the_order_of_phoenix_01.51.35.836-01.51.38.856 	pursued, hermione flicks her wand.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.01.15.446-01.01.18.745 	in a different aisle, harry is pursued by a flaming serpent.
 1062_Day_the_Earth_stood_still_01.30.20.723-01.30.26.000 	they're pursued by hummers with machine guns.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.00.48.888-01.00.51.651 	it unites with a second wave, and pursues harry, ron, and hermione.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.01.15.446-01.01.18.745 	in a different aisle, harry is pursued by a flaming serpent.
-1062_Day_the_Earth_stood_still_01.30.20.723-01.30.26.000 	they're pursued by hummers with machine guns.
+2017_Bad_Santa_01.31.00.059-01.31.02.651 	he roars up the road as policemen leap for their vehicles, crank up their sirens and pursue.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_00.16.25.837-00.16.29.266 	looking, he spies a rather ragged-looking rat (scabbers), pursued by a decidedly ugly orange cat (crookshanks).

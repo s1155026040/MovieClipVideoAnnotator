@@ -1,9 +1,5 @@
-COLOMBIANA.srt 	COLOMBIANA_DVS303 	00:26:03,00 --> 00:26:08,50 	he stares at her then affects a casual gaze.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS72 	00:10:07,00 --> 00:10:13,50 	then affects a cool recovery.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS169 	00:38:01,00 --> 00:38:07,50 	someone mouths ew, affecting a mock fearful expression.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS255 	00:59:05,00 --> 00:59:11,50 	her gaze darts as she arches her brow, affecting an air of indifference.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS253 	00:39:42,00 --> 00:39:48,50 	the cross to the door with an affected breezy air.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS119 	00:24:00,00 --> 00:24:06,50 	he affects a nonchalant shake of the head.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS348 	00:56:12,00 --> 00:56:20,50 	noticing the others watching, someone affects a stoic demeanor and holds his hand up in a wave.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS596 	01:20:38,00 --> 01:20:42,50 	then affects a breezy smile.
-ZOMBIELAND.srt 	ZOMBIELAND_DVS519 	01:01:16,00 --> 01:01:25,50 	affecting the awkwardness of a middle schooler, someone plunks her wrists on someone's shoulders and stands at arm's length from him.

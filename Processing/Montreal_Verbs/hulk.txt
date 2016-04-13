@@ -1,4 +1,2 @@
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS306 	00:57:47,00 --> 00:58:02,50 	now, a hulking black inmate strides past a row of cells and enters a common room where someone reads a newspaper.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS306 	00:57:47,00 --> 00:58:02,50 	the hulking man leans to someone's ear.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS307 	00:58:03,00 --> 00:58:12,50 	the hulking inmate positions himself just outside.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS162 	00:32:59,00 --> 00:33:15,50 	the hulking goateed guy, someone, arrives sporting two black eyes and a gash across his nose he heads inside and lumbers to the rear.

@@ -1,15 +1,9 @@
 DEAR_JOHN.srt 	DEAR_JOHN_DVS145 	00:23:21,00 --> 00:23:34,50 	she swats her hand in front of him, as he hammers it in place.
 EASY_A.srt 	EASY_A_DVS180 	00:56:58,00 --> 00:57:03,50 	his mother swats him.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS276 	00:42:42,00 --> 00:43:07,50 	the fire dancing around his skull dims in a billow of smoke and ghost rider staggers, swatting at it.
-JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS66 	00:23:53,00 --> 00:23:59,50 	someone gives her a playful shove, and she swats at him.
 JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS97 	00:36:07,00 --> 00:36:13,50 	she swats him away, then answers.
-KARATE_KID.srt 	KARATE_KID_DVS171 	00:14:26,00 --> 00:14:40,50 	someone gently hits the ball to the man, who gently swats it back.
 KARATE_KID.srt 	KARATE_KID_DVS900 	01:13:22,00 --> 01:13:43,50 	someone blocks, deflects, and swats his teacher's attacks.
 KARATE_KID.srt 	KARATE_KID_DVS1291 	01:44:22,00 --> 01:44:33,50 	now in the courtyard, someone rapidly swats tennis balls at someone.
-KARATE_KID.srt 	KARATE_KID_DVS1298 	01:44:55,00 --> 01:45:04,50 	someone thrusts a pillow at him, and someone swats it aside, then refocuses his attacks on the padded pole.
 KATY_PERRY_PART_OF_ME.srt 	KATY_PERRY_PART_OF_ME_DVS73 	00:14:25,00 --> 00:14:32,50 	someone swats her back with some clothing.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS474 	00:53:18,00 --> 00:53:23,50 	someone swats it from his grasp.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS749 	01:17:52,00 --> 01:17:56,50 	he swats at the spear.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS752 	01:18:05,00 --> 01:18:10,50 	someone someone swats it away.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS601 	01:21:47,00 --> 01:21:54,50 	someone swats the swooping falcon, then turns onto a narrow village street.
-TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS231 	00:29:59,00 --> 00:30:04,50 	someone swats a bent wing into place as he stands.

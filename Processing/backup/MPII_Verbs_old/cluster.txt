@@ -1,4 +1,5 @@
-0003_CASABLANCA_00.41.57.479-00.41.58.939 	Nearby, a group of frightened French people cluster around a loudspeaker on a wagon.
-1004_Juno_00.06.44.389-00.06.45.563 	Naked dolls are clustered on the mantelpiece.
+0003_CASABLANCA_00.41.57.479-00.41.58.939 	nearby, a group of frightened french people cluster around a loudspeaker on a wagon.
+1004_Juno_00.06.44.389-00.06.45.563 	naked dolls are clustered on the mantelpiece.
+1031_Quantum_of_Solace_01.15.58.283-01.16.01.895 	people cluster around.
 2027_Les_Miserables_00.15.03.745-00.15.04.883 	as the riders enter the walled town we see the poor clustered around the gates - destitute and sick people clammering to get in.
 2027_Les_Miserables_00.25.16.234-00.25.17.643 	the whores cluster round her, hands reaching out to draw her in to their world.

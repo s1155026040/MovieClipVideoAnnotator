@@ -1,7 +1,4 @@
 DEAR_JOHN.srt 	DEAR_JOHN_DVS606 	01:23:38,00 --> 01:23:45,50 	inside, someone's slender long-legged silhouette stands, petting a horse.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS492 	01:39:42,00 --> 01:39:46,50 	she pets her shoulder.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS282 	01:07:07,00 --> 01:07:41,50 	someone lies down in front of the fire and pets a wolf hound lying next to him.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS36 	00:04:23,00 --> 00:04:29,50 	the person sitting on the stool reaches down and pets a small white dog.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS50 	00:05:39,00 --> 00:05:44,50 	the young man kneels and pets the dog beside a mirror.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS733 	01:21:10,00 --> 01:21:15,50 	he heads over and pets the cat.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS51 	00:08:27,00 --> 00:08:32,50 	bending over, someone pets the cat.

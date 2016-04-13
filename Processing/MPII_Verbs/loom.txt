@@ -1,28 +1,13 @@
-0005_Chinatown_00.22.34.003-00.22.35.775 	gittes spots a shadow looming in front of the translucent pane.
 0006_Clerks_00.05.02.510-00.05.05.800 	the store, with its makeshift banner looming in the dim morning hour, just after dawn.
 0010_Frau_Ohne_Gewissen_00.56.04.312-00.56.05.446 	beside it looms the dark bulk of the dietrichson sedan.
 0013_Halloween_01.11.56.937-01.12.01.931 	the house looms closer and closer.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.03.16.759-00.03.18.519 	the huge, dark figure of saruron, bearing the one ring on his finger, looms over the field of battle.
 0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.29.01.144-00.29.03.144 	snorting horse nostrils.as the shadow of a black rider looms over a hobbit house.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.29.59.298-00.29.59.810 	a large figure looms out of the shadows, reaching for frodo.
 0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.28.01.951-02.28.04.156 	they loom over the boats with power and majesty.
-0027_The_Big_Lebowski_00.30.37.842-00.30.39.938 	the dude looks up, up, up at the looming ball, its mass rolling a huge shadow across his face.
-0027_The_Big_Lebowski_01.03.37.420-01.03.39.039 	on it is the group's name, autobahn, the album name, nagelbett, and a picture of three young germans, their foreheads looming below slicked-back hair, gazing upward in thin-lipped epiphany.
 0050_Indiana_Jones_and_the_last_crusade_00.38.15.120-00.38.20.062 	it's purely academic at this point since the hulls of the two freighters loom up on either side of them like cavern walls.
-0051_Men_in_black_01.16.25.921-01.16.30.138 	there, on the wall in front of them, where it has loomed for the entire movie, is the enormous mural of the 1964 world's fair grounds.
 1010_TITANIC_00.01.59.734-00.02.05.654 	ahead of the submersible, a prowl of the sunken ocean liner looms up.
-1012_Unbreakable_01.14.17.391-01.14.27.058 	to his left, beyond a set of stairs, two looming shapes appear and become recognizable as the ends of two train carriages, slightly bent and twisted.
-1012_Unbreakable_01.29.42.742-01.29.49.409 	looming over her, beer bottle in hand, the huge maintenance man spits a stream of liquid at her bruised face.
-1039_The_Queen_00.12.24.026-00.12.27.703 	as her hand blocks out the sunlight, a tunnel looms ahead of the mercedes.
 1049_Harry_Potter_and_the_chamber_of_secrets_01.50.04.700-01.50.05.945 	huge spiders loom ahead of them.
 1052_Harry_Potter_and_the_order_of_phoenix_00.07.53.850-00.07.57.429 	cedric's face looms out of the darkness sweating with fear.
 1052_Harry_Potter_and_the_order_of_phoenix_01.29.06.492-01.29.10.346 	a young giant looms out of the shadows.
-1053_Harry_Potter_and_the_philosophers_stone_01.44.36.545-01.44.41.421 	twisted branches loom out of the darkness, throwing weird and frightening shadows.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_00.08.06.054-00.08.09.957 	in front of him, a huge black dog looms out of the bushes.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.55.00.000-00.55.07.513 	looming above him, they form the menacing shape of a huge, black dog.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.56.03.456-00.56.10.627 	a dementor looms over harry and opens its great mouth as if to suck his energy.
 1059_The_devil_wears_prada_00.03.03.457-00.03.08.310 	skyscrapers loom overhead on either side of the street.
-1062_Day_the_Earth_stood_still_00.23.24.000-00.23.32.353 	it strides forward and looms over helen, who's still holding the wounded visitor.
-2026_Legion_00.04.40.420-00.04.49.165 	burton stares out at the city's rain soaked denizens with a deep hatred, the shadows looming in doorways, the streetwalkers.
-2034_Super_8_01.30.30.220-01.30.36.425 	dark as hell -- looks up -- at cary climbing down into the hole -- the barn roof looming above him.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_00.44.11.948-00.44.12.800 	the dementor looms closer and closer, when.

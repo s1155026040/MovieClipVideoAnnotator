@@ -1,3 +1,1 @@
 LITTLE_FOCKERS.srt 	LITTLE_FOCKERS_DVS156 	00:55:32,00 --> 00:56:04,50 	he minimizes the page as someone enters.
-MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS130 	00:20:35,00 --> 00:20:42,50 	as the bird tilts his head curiously, someone minimizes the recipe window.
-YOUNG_ADULT.srt 	YOUNG_ADULT_DVS25 	00:02:51,00 --> 00:02:57,50 	she minimizes her word processor program and opens an email inbox.

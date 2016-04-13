@@ -1,3 +1,1 @@
-DISTRICT_9.srt 	DISTRICT_9_DVS445 	00:50:01,00 --> 00:50:08,50 	a white hen and her chicks peck at the ground, while a rooster struts nearby.
-MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS105 	00:15:40,00 --> 00:15:48,50 	at the apartment, the penguin pecks at the tub, then tries to hop on a ledge and accidentally turns on a faucet.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS221 	00:31:50,00 --> 00:31:58,50 	a penguin pecks at a remote.

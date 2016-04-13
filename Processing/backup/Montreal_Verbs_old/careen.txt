@@ -1,0 +1,6 @@
+CHRONICLE.srt 	CHRONICLE_DVS487 	01:10:43,00 --> 01:10:52,50 	the vehicle flies through the air and careens into a building's fifth story.
+IN_TIME.srt 	IN_TIME_DVS448 	00:48:17,00 --> 00:48:28,50 	the car careens off the road and tumbles end over end into the basin.
+PROMETHEUS.srt 	PROMETHEUS_DVS959 	01:46:02,00 --> 01:46:08,50 	as the engineer's ship careens a brilliant burst flashes,
+THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS31 	00:04:09,00 --> 00:04:14,50 	the vehicle careens into another car.
+THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS482 	01:24:43,00 --> 01:24:51,50 	a deploying airbag wallops heinrich's face and he careens into a mobile construction light.
+THOR.srt 	THOR_DVS221 	00:29:47,00 --> 00:29:54,50 	meanwhile, someone careens along the light beam through outer space.

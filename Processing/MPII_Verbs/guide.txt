@@ -1,16 +1,3 @@
-0011_Gandhi_00.42.59.761-00.43.00.744 	charlie helps to guide her.
-0011_Gandhi_00.43.07.623-00.43.09.513 	he has guided gandhi to the first step of the platform.
-0011_Gandhi_01.04.19.895-01.04.23.125 	shukla guides him, ba and charlie a step or two behind.
-0011_Gandhi_02.29.39.760-02.29.47.157 	he pivots around, moving beside her, and slowly demonstrates the process, taking her hands, guiding her.
-0013_Halloween_01.25.46.814-01.25.49.216 	she stands up and carefully guides the children across the bedroom to the door and ushers them outside.
-0033_Amadeus_00.21.04.510-00.21.07.513 	mozart is conducting the adagio from his serenade (k. 361), guiding the thirteen wind instrumentalists.
-0050_Indiana_Jones_and_the_last_crusade_00.32.40.855-00.32.45.982 	using the cloth-wrapped bone torch to guide their way, indy and elsa come upon a narrow passageway.
-1006_Slumdog_Millionaire_00.42.07.312-00.42.10.092 	a sign reads guided tours visitors are requested to collect receipts.
-1010_TITANIC_02.16.52.579-02.16.56.409 	the crewman grabs rose and guides her toward the lifeboat.
-1011_The_Help_02.07.22.788-02.07.29.210 	with a gentle guiding hand at her back and a good-natured smile, he walks her towards the house.
-1030_Public_Enemies_00.15.46.918-00.15.50.652 	he wraps his overcoat around her and guides her into the backseat.
-1030_Public_Enemies_00.27.33.358-00.27.40.978 	dillinger stands and holds her chair as she gets up, then guides her through the restaurant with a hand at her back.
-1030_Public_Enemies_00.57.45.144-00.57.51.010 	later, a guard unlocks a cellblock door and a deputy guides a portly lawyer inside.
 1030_Public_Enemies_01.16.03.331-01.16.11.253 	he guides the bank president by the shoulder.
 1038_The_Great_Gatsby_00.20.01.570-00.20.04.546 	catherine guides nick's glass to his lips.
 1051_Harry_Potter_and_the_goblet_of_fire_00.15.52.028-00.15.57.994 	hagrid guides the horses into land.

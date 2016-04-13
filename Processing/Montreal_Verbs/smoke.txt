@@ -1,51 +1,22 @@
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS309 	00:52:39,00 --> 00:52:47,50 	in their mini-van someone's parents smoke pot.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS318 	00:28:19,00 --> 00:28:26,50 	he swerves repeatedly into the truck's side, and smoke billows from its front end.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS28 	00:02:47,00 --> 00:02:56,50 	as someone's mother and father help the boys to their feet, a pipe smoking man steps out.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS29 	00:03:21,00 --> 00:03:28,50 	as someone approaches, the pipe smoking man stops him with the butt of his cane.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS178 	00:24:15,00 --> 00:24:29,50 	at night, we swoop low over the streets of springfield passing smoking chimneys as lightning flashes in the distance.
-BRUNO.srt 	BRUNO_DVS125 	00:28:54,00 --> 00:28:59,50 	a man looks up to find him smoking up.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS624 	01:44:53,00 --> 01:45:01,50 	an intensifying beam shoots out of the top of the cube and someone's fingers begin to smoke.
-COLOMBIANA.srt 	COLOMBIANA_DVS788 	01:16:07,00 --> 01:16:15,50 	nearby, a car's side mirror reflects a man smoking a cigar as he watches someone's uncle through sunglasses.
 COLOMBIANA.srt 	COLOMBIANA_DVS848 	01:21:09,00 --> 01:21:14,50 	agent someone waves smoke out of his face.
-COLOMBIANA.srt 	COLOMBIANA_DVS973 	01:33:34,00 --> 01:33:42,50 	as the barrage of bullets kills the men inside, smoking casings pop out of her gun and shower the ground.
 FLIGHT.srt 	FLIGHT_DVS25 	00:03:32,00 --> 00:03:36,50 	he smokes his cigarette.
-FLIGHT.srt 	FLIGHT_DVS46 	00:06:54,00 --> 00:07:00,50 	she smokes as she makes a call from the drivers seat.
 FLIGHT.srt 	FLIGHT_DVS119 	00:24:07,00 --> 00:24:12,50 	fire and smoke billow from the left engine.
-FLIGHT.srt 	FLIGHT_DVS177 	00:38:59,00 --> 00:39:05,50 	he sees someone sitting on the stairs, smoking a cigarette.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS105 	00:16:21,00 --> 00:16:59,50 	a smudge of smoking embers stands in place of the goateed henchman.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS39 	00:09:06,00 --> 00:09:13,50 	now outside, a soldier smokes a cigarette as he lounges near a humvee.
-HUGO.srt 	HUGO_DVS798 	01:57:02,00 --> 01:57:09,50 	on screen, a young someone wearing a top hat and smoking a cigarette
-INSIDE_MAN.srt 	INSIDE_MAN_DVS202 	00:57:54,00 --> 00:58:11,50 	he smokes as she takes a set of picks to a second lock set in the small door.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS316 	01:34:13,00 --> 01:34:18,50 	watches smoke filter from the bank.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS289 	01:23:17,00 --> 01:23:25,50 	someone blows smoke out of the joint and into someone's mouth.
-JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS252 	00:46:39,00 --> 00:46:45,50 	inside, someone sits at a vanity, smoking a cigarette.
 KNOCKED_UP.srt 	KNOCKED_UP_DVS44 	00:27:01,00 --> 00:27:08,50 	now in their backyard the guys smoke.
 LARRY_CROWNE.srt 	LARRY_CROWNE_DVS288 	01:09:07,00 --> 01:09:17,50 	now at the yard sale, he smokes a pipe with lamar.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS808 	01:22:33,00 --> 01:22:40,50 	orange signal smoke wafts from the raft as someone waves a different type of flare.
 MORNING_GLORY.srt 	MORNING_GLORY_DVS395 	01:26:35,00 --> 01:26:41,50 	someone smokes a cigar.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS72 	00:12:22,00 --> 00:12:31,50 	a woman smokes at the table.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS543 	00:36:23,00 --> 00:36:30,50 	in another room, an old man lies on his side, smoking a long-stemmed pipe.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS609 	00:40:26,00 --> 00:40:31,50 	who now wears a mustache and smokes a pipe.
-SPARKLE_2012.srt 	SPARKLE_2012_DVS66 	00:11:36,00 --> 00:11:43,50 	now someone finds someone smoking a cigarette.
-SPARKLE_2012.srt 	SPARKLE_2012_DVS210 	00:33:31,00 --> 00:33:40,50 	someone crosses the room, smoking a cigarette.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS333 	00:54:16,00 --> 00:54:22,50 	now inside someone's mansion, sister rubs her nose while smoking a cigarette.
-SPARKLE_2012.srt 	SPARKLE_2012_DVS400 	01:07:57,00 --> 01:08:02,50 	someone comes out smoking a cigarette.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS500 	01:20:53,00 --> 01:20:58,50 	now at night, she smokes on the banquette.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS545 	01:29:52,00 --> 01:30:00,50 	at night alone at home, someone smokes a cigarette on her couch.
-SPARKLE_2012.srt 	SPARKLE_2012_DVS563 	01:32:41,00 --> 01:32:54,50 	someone comes downstairs, and a cigar smoking building manager directs his attention to the visitor.
-SUPER_8.srt 	SUPER_8_DVS221 	00:37:43,00 --> 00:37:49,50 	the police cruiser's smoking hood is smashed in and one of the front tires lies nearly sideways.
-SUPER_8.srt 	SUPER_8_DVS383 	01:08:24,00 --> 01:08:29,50 	a white-bearded man points to smoke billowing on the horizon.
-SUPER_8.srt 	SUPER_8_DVS427 	01:17:26,00 --> 01:17:34,50 	outside in his car, someone smokes a joint and listens to the radio with his eyes closed as military vehicles drive past.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS597 	01:21:20,00 --> 01:21:27,50 	someone turns around, smoke pours from the dam's sluice gate.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS160 	00:32:47,00 --> 00:32:53,50 	in his car, someone notices smoke wafting from the back.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS670 	01:33:57,00 --> 01:34:02,50 	wink smokes a cigar.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS408 	00:47:50,00 --> 00:47:56,50 	she smokes a cigarette and listens to ear buds.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS935 	01:43:42,00 --> 01:43:50,50 	from an upper landing a hunched old man smokes a cigar as he rides a motorized chair down a staircase.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1261 	02:12:35,00 --> 02:12:41,50 	in the back the techie lights a cigarette and blows smoke at the tall young man.
-THE_SITTER.srt 	THE_SITTER_DVS126 	01:08:37,00 --> 01:08:40,50 	smoking crotch as he races.
 THE_WATCH.srt 	THE_WATCH_DVS216 	00:39:16,00 --> 00:39:22,50 	dust and smoke blast several stories high.
-THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS151 	00:39:39,00 --> 00:39:45,50 	now lying back on the bed beside someone, someone exhales smoke.
-TRUE_GRIT.srt 	TRUE_GRIT_DVS96 	00:24:15,00 --> 00:24:21,50 	the man from the porch sits by the window smoking his pipe.
 TRUE_GRIT.srt 	TRUE_GRIT_DVS221 	00:47:40,00 --> 00:47:45,50 	someone smokes a cigarette.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS86 	00:06:58,00 --> 00:07:03,50 	words ping out from his shotgun's smoking barrel, rule number 2, double tap.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS626 	01:11:27,00 --> 01:11:33,50 	someone proudly eyes his smoking gun then reverses the suv.

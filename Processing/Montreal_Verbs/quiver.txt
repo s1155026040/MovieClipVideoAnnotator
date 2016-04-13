@@ -1,8 +1,3 @@
-A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS34 	00:09:02,00 --> 00:09:06,50 	someone begins to quiver.
 COLOMBIANA.srt 	COLOMBIANA_DVS1057 	01:39:06,00 --> 01:39:11,50 	her body quivering with emotional sobs.
-KARATE_KID.srt 	KARATE_KID_DVS1087 	01:29:27,00 --> 01:29:37,50 	as he quivers his body side to side, he twirls his arms in front of his chest, then waggles his legs, making them look like rubber.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS518 	00:56:57,00 --> 00:57:01,50 	his lips quivering.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS974 	01:36:13,00 --> 01:36:21,50 	their whiskered snouts quiver as their darkly inset eyes peer in someone's directly.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS109 	00:28:19,00 --> 00:28:27,50 	his blood stained lips quivering.
-THE_CALL.srt 	THE_CALL_DVS1021 	01:17:55,00 --> 01:18:00,50 	his mouth quivering, the killer gazes at the mannequin's impassive face.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS134 	00:08:41,00 --> 00:08:47,50 	his thin stooping shoulders quiver with sob

@@ -1,0 +1,4 @@
+CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS283 	00:54:00,00 --> 00:54:06,50 	someone gazes at agent someone, then stands and leafs through a stack of documents.
+JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS136 	00:23:44,00 --> 00:23:51,50 	later in bed, she leafs through the book.
+MORNING_GLORY.srt 	MORNING_GLORY_DVS406 	01:29:14,00 --> 01:29:21,50 	she sits opposite someone in his office, as he leafs through graphs and charts.
+THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS77 	00:11:25,00 --> 00:11:30,50 	as someone leafs through several more books,

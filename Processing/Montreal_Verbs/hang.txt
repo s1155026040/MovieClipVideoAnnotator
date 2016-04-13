@@ -1,4 +1,3 @@
-21_JUMP_STREET.srt 	21_JUMP_STREET_DVS495 	01:18:52,00 --> 01:18:58,50 	someone hangs up, sitting alone on a weightlifting bench.
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS507 	01:20:01,00 --> 01:20:05,50 	his cohort hangs back.
 30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS228 	00:54:36,00 --> 00:54:40,50 	someone hangs up.
 30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS250 	00:59:37,00 --> 00:59:41,50 	someone hangs up.
@@ -6,95 +5,58 @@
 30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS305 	01:09:11,00 --> 01:09:15,50 	someone hangs up.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS48 	00:03:37,00 --> 00:03:44,50 	he hangs up and crosses the street toward a colored blue-lit nightclub.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS454 	00:44:19,00 --> 00:44:23,50 	someone hangs back, keeping an eye on someone.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS565 	00:54:35,00 --> 00:54:44,50 	in slow motion, someone hangs up his phone and leads a pack of lawyers and judges in suits and robes.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS652 	01:07:08,00 --> 01:07:13,50 	someone's weapon hangs at his side.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS861 	01:24:35,00 --> 01:24:41,50 	someone sees the truck hanging out and hurls the radio aside.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS873 	01:25:12,00 --> 01:25:19,50 	the truck smashes into the building and the door shoots open, someone barely hangs on.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS450 	01:18:04,00 --> 01:18:08,50 	someone hangs his head.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS46 	00:04:33,00 --> 00:04:40,50 	her open hand hangs off the edge of the bed, her wrist exposed to the intruder.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS185 	00:25:14,00 --> 00:25:29,50 	nearby, a naked man hanging upside down shows no sign of life.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS317 	00:45:59,00 --> 00:46:06,50 	he watches the attack in a stupor, his jaw hanging slack.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS373 	00:52:47,00 --> 00:52:58,50 	now, spanish moss hangs low from the branches of surrounding trees as someone and someone ride a modest horse drawn carriage up a narrow path.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS375 	00:53:05,00 --> 00:53:10,50 	a pot hangs over a stack of firewood.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS44 	00:05:17,00 --> 00:05:21,50 	someone hangs up.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS63 	00:10:32,00 --> 00:10:37,50 	he hangs up his phone and hurries off.
-BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS351 	00:57:28,00 --> 00:57:34,50 	he watches confusedly as she hangs their selections on a hook.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS446 	01:11:21,00 --> 01:11:26,50 	someone hangs up while someone drives.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS502 	01:20:16,00 --> 01:20:20,50 	someone hangs up.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS677 	01:43:13,00 --> 01:43:22,50 	now the divas strut to the center of a dance floor, while students hang from scaffoldings, and someone dances behind someone.
-BRUNO.srt 	BRUNO_DVS183 	00:48:47,00 --> 00:48:57,50 	his jaw hanging slack, as he turns and trudges away.
-BURLESQUE.srt 	BURLESQUE_DVS298 	00:40:43,00 --> 00:40:50,50 	now someone reaches out of the shower and finds bras and stockings hanging on a hook.
 BURLESQUE.srt 	BURLESQUE_DVS375 	00:51:45,00 --> 00:51:52,50 	after hours, someone and the other dancers hang out at the bar with someone and someone.
-BURLESQUE.srt 	BURLESQUE_DVS667 	01:43:22,00 --> 01:43:26,50 	as he hangs up, the women sit.
-BURLESQUE.srt 	BURLESQUE_DVS689 	01:46:00,00 --> 01:46:06,50 	someone hangs her head, then lifts her tearful gaze.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS73 	00:10:59,00 --> 00:11:04,50 	someone hangs his head.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS84 	00:12:54,00 --> 00:13:03,50 	an army recruitment poster featuring uncle someone hangs on a column.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS232 	00:40:25,00 --> 00:40:33,50 	someone hangs on to the top of the cab as someone swerves several times, then turns sharply down an alley.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS181 	00:14:13,00 --> 00:14:18,50 	hunched over and jaw hanging slack, someone looks up.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS293 	00:22:42,00 --> 00:22:47,50 	a short board hangs over the garage door.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS348 	00:32:32,00 --> 00:32:38,50 	now outside an abandoned house, a hammock hangs over a back patio.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS373 	00:35:00,00 --> 00:35:06,50 	he hangs the poster on two panels of corkboard on his wall.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS383 	00:36:10,00 --> 00:36:15,50 	someone hangs his head and nods.
-CHRONICLE.srt 	CHRONICLE_DVS336 	00:50:25,00 --> 00:50:33,50 	he leaves a coat hanging on an armoire door and steps directly toward the camera.
 CHRONICLE.srt 	CHRONICLE_DVS442 	01:04:16,00 --> 01:04:21,50 	his brow furrowed, he hangs his head and swallows.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS19 	00:04:03,00 --> 00:04:15,50 	as someone approaches, he hangs his head.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS556 	02:10:26,00 --> 02:10:44,50 	at someone's bar, someone hangs his head.
 COLOMBIANA.srt 	COLOMBIANA_DVS156 	00:13:58,00 --> 00:14:05,50 	in a courtyard, someone weaves around sheets hanging on clotheslines
-COLOMBIANA.srt 	COLOMBIANA_DVS218 	00:18:40,00 --> 00:18:47,50 	his mouth hanging agape, he shifts his astonished gaze to someone.
-COLOMBIANA.srt 	COLOMBIANA_DVS283 	00:23:44,00 --> 00:23:50,50 	as she sits up, we notice guns hanging on the wall behind her.
-COLOMBIANA.srt 	COLOMBIANA_DVS497 	00:44:01,00 --> 00:44:07,50 	she hangs up, runs to the bus, and turns in her ticket.
 COLOMBIANA.srt 	COLOMBIANA_DVS673 	01:03:41,00 --> 01:03:47,50 	agent someone hangs up.
 COLOMBIANA.srt 	COLOMBIANA_DVS753 	01:12:30,00 --> 01:12:34,50 	she hangs her head.
 COLOMBIANA.srt 	COLOMBIANA_DVS764 	01:14:27,00 --> 01:14:32,50 	someone hangs up then glances outside at his friend.
 COLOMBIANA.srt 	COLOMBIANA_DVS769 	01:14:49,00 --> 01:14:55,50 	he hangs up and types a command into his computer.
 COLOMBIANA.srt 	COLOMBIANA_DVS1085 	01:42:59,00 --> 01:43:04,50 	depressing the payphone's hook, someone hangs up.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS48 	00:06:08,00 --> 00:06:14,50 	someone hangs his head with a subdued smile.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS161 	00:25:10,00 --> 00:25:16,50 	someone hangs back, pensively taking in the cheerful scene.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS361 	00:56:41,00 --> 00:56:51,50 	someone watches her go, then swallows hard and hangs his head.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS447 	01:05:43,00 --> 01:05:48,50 	someone hangs his head as the soldier walks away.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS693 	01:33:37,00 --> 01:33:41,50 	someone hangs her head.
 DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS225 	00:56:23,00 --> 00:56:27,50 	crushed, someone hangs his head.
-DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS255 	01:01:36,00 --> 01:01:44,50 	he stands up, still hanging onto the chair, and scuttles crablike over to the door.
-DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS337 	01:20:10,00 --> 01:20:19,50 	someone hangs up and looks thoughtful.
 DISTRICT_9.srt 	DISTRICT_9_DVS437 	00:48:17,00 --> 00:48:22,50 	he hangs up with a frustrated look.
 DISTRICT_9.srt 	DISTRICT_9_DVS511 	00:59:42,00 --> 00:59:48,50 	he hangs his head and massages his temple with his thumb.
-DISTRICT_9.srt 	DISTRICT_9_DVS521 	01:00:48,00 --> 01:00:58,50 	he pulls hard on a bloody flap of human skin on his love handle, then lets it hang loose.
 DISTRICT_9.srt 	DISTRICT_9_DVS521 	01:00:48,00 --> 01:00:58,50 	someone sits and hangs his head over his fist.
-EASY_A.srt 	EASY_A_DVS15 	00:04:07,00 --> 00:04:12,50 	she reaches for it, letting her breasts hang out.
 EASY_A.srt 	EASY_A_DVS29 	00:07:42,00 --> 00:07:56,50 	launching off a trampoline, he flips and dunks a basketball then hangs from the hoop.
 EASY_A.srt 	EASY_A_DVS83 	00:30:53,00 --> 00:30:58,50 	she hangs them on the doorknob, blocking the keyhole.
 EASY_A.srt 	EASY_A_DVS187 	00:58:11,00 --> 00:58:15,50 	someone hangs up.
-FLIGHT.srt 	FLIGHT_DVS165 	00:34:36,00 --> 00:34:47,50 	a heavy man with a goatee walks into the hospital, wearing bermuda shorts and dark glasses, with earphone wires hanging on each side of his head.
-FLIGHT.srt 	FLIGHT_DVS189 	00:43:54,00 --> 00:44:01,50 	cigarette hanging out of his mouth, the man picks up the iv pole and walks downstairs.
-FLIGHT.srt 	FLIGHT_DVS236 	00:50:06,00 --> 00:50:13,50 	he looks at a group of photos hanging above a workstation off to one side of the hanger,
 FLIGHT.srt 	FLIGHT_DVS689 	01:33:02,00 --> 01:33:08,50 	it explodes against a hanging photo of his son.
-FLIGHT.srt 	FLIGHT_DVS892 	01:45:21,00 --> 01:45:27,50 	the clock shows 2:08 a.m. as he hangs a suit in a wardrobe.
 FLIGHT.srt 	FLIGHT_DVS941 	01:52:06,00 --> 01:52:13,50 	a torn piece of toilet paper, with a spot of blood, hangs over his eye.
 FLIGHT.srt 	FLIGHT_DVS1226 	02:09:28,00 --> 02:09:33,50 	a board hangs above the desk, covered in photographs and cards.
 FLIGHT.srt 	FLIGHT_DVS1237 	02:10:04,00 --> 02:10:08,50 	in between the photos, hangs a copy of the serenity prayer.
 FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS330 	01:27:25,00 --> 01:27:30,50 	she hangs up and speed dials a number
 FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS331 	01:27:32,00 --> 01:27:42,50 	she hangs up and strides out of the lady's room.
-FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS351 	01:33:24,00 --> 01:33:39,50 	he finds his father hanging his trousers over a railing, then sitting down at an empty table in his shirt, jacket, and boxers.
 FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS360 	01:35:35,00 --> 01:35:42,50 	his son hangs his head.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS27 	00:04:10,00 --> 00:04:29,50 	the wavy haired man hangs out the passenger window with his revolver in hand.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS354 	00:52:42,00 --> 00:52:48,50 	someone's fingers caress the cross hanging around his neck.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS155 	00:41:02,00 --> 00:41:06,50 	someone hangs up.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS229 	00:56:50,00 --> 00:57:05,50 	a man hangs his hands into the hall through a slot at the bottom of his door.
-GREEN_ZONE.srt 	GREEN_ZONE_DVS268 	01:02:40,00 --> 01:02:45,50 	she hangs up and leads him in.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS328 	01:14:15,00 --> 01:14:20,50 	he hangs up and strides into someone's cubicle.
-HUGO.srt 	HUGO_DVS92 	00:11:56,00 --> 00:12:11,50 	inching around some stray pigeons, the boy climbs a stepladder beside the mechanism and switches on a lightbulb hanging from a chain.
 HUGO.srt 	HUGO_DVS281 	00:40:45,00 --> 00:40:51,50 	someone's legs kick wildly as he hangs by only a few springs.
 HUGO.srt 	HUGO_DVS551 	01:21:57,00 --> 01:22:04,50 	in the attic, he winds a pocket watch then hangs it from a post near his bed.
-HUGO.srt 	HUGO_DVS601 	01:26:46,00 --> 01:26:52,50 	the inspector hangs up the phone then stares intently at someone.
-IN_TIME.srt 	IN_TIME_DVS59 	00:06:43,00 --> 00:06:49,50 	nearby, a man starring at his exposed body clock hangs up a phone.
-IN_TIME.srt 	IN_TIME_DVS513 	00:55:33,00 --> 00:55:39,50 	with a puzzled look, someone lowers the receiver and hangs it up.
-IN_TIME.srt 	IN_TIME_DVS646 	01:09:18,00 --> 01:09:26,50 	he hangs up, then shifts his gaze to someone, who examines the data tables on the digital map.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS100 	00:27:25,00 --> 00:27:33,50 	someone hangs up, then rises from his chair with the aid of a cane.
-INSIDE_MAN.srt 	INSIDE_MAN_DVS157 	00:46:44,00 --> 00:46:51,50 	as someone hangs his head, someone holds his brow wrinkled.
-INSIDE_MAN.srt 	INSIDE_MAN_DVS200 	00:57:16,00 --> 00:57:43,50 	scotch tape holds snapshots to a window and keys hang on a dirty pegboard.
-INSIDE_MAN.srt 	INSIDE_MAN_DVS256 	01:19:00,00 --> 01:19:09,50 	someone swaps looks with his partner, then hangs up the receiver.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS105 	00:20:43,00 --> 00:20:50,50 	someone hops onto a counter, removes a painting from a wall, and hangs the iron man poster.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS359 	01:06:09,00 --> 01:06:18,50 	standing beside someone, short-haired general someone studies the silver someone ii suit hanging inside.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS503 	01:30:46,00 --> 01:30:53,50 	in his room, someone talks on the phone while the two dead guards hang from the ceiling behind him.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS603 	01:43:47,00 --> 01:44:08,50 	inside, the two guards hang by their necks from the ceiling.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS70 	00:21:45,00 --> 00:21:53,50 	someone flops on to a bed his shirt hanging open.
@@ -108,24 +70,17 @@ JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS407 	01:18:44,00 --> 01:18:50,50 	someon
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS476 	01:32:20,00 --> 01:32:24,50 	in the apartment, someone hangs up.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS480 	01:32:35,00 --> 01:32:38,50 	she hangs up.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS483 	01:33:34,00 --> 01:33:39,50 	someone hangs up and glares at the phone.
-JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS532 	01:45:55,00 --> 01:46:01,50 	someone hangs up and looks at someone sitting up attentively.
 JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS123 	00:44:07,00 --> 00:44:13,50 	someone grins at him, then hangs his head and cries.
 KARATE_KID.srt 	KARATE_KID_DVS104 	00:09:41,00 --> 00:09:46,50 	she hangs it on a coat rack.
 KARATE_KID.srt 	KARATE_KID_DVS551 	00:49:52,00 --> 00:50:01,50 	someone and someone pass through the gates to the kung fu school, where the throngs of red-clad students hang out.
-KARATE_KID.srt 	KARATE_KID_DVS662 	00:56:10,00 --> 00:56:19,50 	scanning the space, the boy finds an antique curio cabinet and several chinese paintings hanging on a wall.
 KARATE_KID.srt 	KARATE_KID_DVS676 	00:57:57,00 --> 00:58:02,50 	someone hangs his jacket on the peg.
 KARATE_KID.srt 	KARATE_KID_DVS685 	00:58:32,00 --> 00:58:40,50 	arching his brow indulgently, he hangs the jacket on the makeshift coat rack.
 KARATE_KID.srt 	KARATE_KID_DVS690 	00:58:48,00 --> 00:58:52,50 	he hangs it on the peg.
-KARATE_KID.srt 	KARATE_KID_DVS705 	00:59:23,00 --> 00:59:28,50 	he watches coolly as someone hangs his jacket on the peg, then takes it back off.
 KARATE_KID.srt 	KARATE_KID_DVS710 	00:59:39,00 --> 00:59:44,50 	then hangs it off the utility pole.
 KARATE_KID.srt 	KARATE_KID_DVS714 	00:59:48,00 --> 00:59:52,50 	he hangs up his jacket.
-KARATE_KID.srt 	KARATE_KID_DVS715 	00:59:50,00 --> 00:59:58,50 	as he mopes into his room, someone stares at the hanging jacket and shifts her wide-eyed gaze.
-KARATE_KID.srt 	KARATE_KID_DVS717 	01:00:01,00 --> 01:00:06,50 	drops it on the ground, picks it up, and hangs it.
-KARATE_KID.srt 	KARATE_KID_DVS741 	01:02:41,00 --> 01:02:46,50 	drops it on the ground, and hangs it up.
 KARATE_KID.srt 	KARATE_KID_DVS743 	01:02:52,00 --> 01:02:57,50 	someone glumly hangs up his jacket.
 KARATE_KID.srt 	KARATE_KID_DVS755 	01:03:40,00 --> 01:03:46,50 	someone hangs his jacket with a sarcastic sneer.
 KARATE_KID.srt 	KARATE_KID_DVS763 	01:04:33,00 --> 01:04:45,50 	now at the shi shi festival, delicate lanterns shaped like birds and flowers hang from trees above the throngs of guests.
-KARATE_KID.srt 	KARATE_KID_DVS852 	01:10:19,00 --> 01:10:25,50 	someone stands facing the utility pole, hanging his jacket on the peg.
 KARATE_KID.srt 	KARATE_KID_DVS1047 	01:24:57,00 --> 01:25:21,50 	someone hangs a bell high above someone's head.
 KARATE_KID.srt 	KARATE_KID_DVS1277 	01:43:16,00 --> 01:43:21,50 	her jaw hangs slack.
 KATY_PERRY_PART_OF_ME.srt 	KATY_PERRY_PART_OF_ME_DVS150 	00:41:21,00 --> 00:41:27,50 	someone points to large cloud props hanging over an outdoor stage.
@@ -133,35 +88,23 @@ KATY_PERRY_PART_OF_ME.srt 	KATY_PERRY_PART_OF_ME_DVS241 	00:58:04,00 --> 00:58:1
 KATY_PERRY_PART_OF_ME.srt 	KATY_PERRY_PART_OF_ME_DVS313 	01:11:40,00 --> 01:11:44,50 	someone hangs her head and sobs.
 LAND_OF_THE_LOST.srt 	LAND_OF_THE_LOST_DVS143 	00:51:28,00 --> 00:51:44,50 	hanging his head, the scientist sulks off.
 LAND_OF_THE_LOST.srt 	LAND_OF_THE_LOST_DVS183 	01:05:42,00 --> 01:05:52,50 	now, clumps of vines hang from the rough-hewn walls of the cavern.
-LAND_OF_THE_LOST.srt 	LAND_OF_THE_LOST_DVS248 	01:28:54,00 --> 01:29:00,50 	the two scientists face each other, their jaws hanging slack.
-LARRY_CROWNE.srt 	LARRY_CROWNE_DVS24 	00:07:19,00 --> 00:07:38,50 	standing in a closet of mostly empty hangers, someone hangs up his red u-mart polo shirt.
 LARRY_CROWNE.srt 	LARRY_CROWNE_DVS90 	00:22:14,00 --> 00:22:23,50 	he hangs up.
 LARRY_CROWNE.srt 	LARRY_CROWNE_DVS207 	00:48:28,00 --> 00:48:33,50 	someone hangs his head, someone wipes her brow.
 LARRY_CROWNE.srt 	LARRY_CROWNE_DVS238 	00:56:28,00 --> 00:56:34,50 	someone stares ahead, her jaw hanging open.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS191 	00:25:13,00 --> 00:25:20,50 	someone slowly turns the corner and eyes the goat with his mouth hanging open.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS207 	00:27:33,00 --> 00:27:44,50 	his mouth hanging open slightly.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS212 	00:27:58,00 --> 00:28:10,50 	a girl spots him and he quickly ducks behind colorful hanging items.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS311 	00:39:23,00 --> 00:39:31,50 	someone hangs onto the door frame and tries futilely to pull himself into his family's quarters.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS322 	00:40:10,00 --> 00:40:21,50 	someone tumbles across the canvas cover and hangs off the edge.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS442 	00:50:35,00 --> 00:50:42,50 	he falls back into the water, hanging by his knees from the life preserver.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS568 	01:03:09,00 --> 01:03:16,50 	blinking his amber eyes, the tiger hangs his head and convulses nauseously.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS616 	01:07:05,00 --> 01:07:16,50 	the tiger hangs off the far spokes, adding to its weight then drops into the water.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS621 	01:07:32,00 --> 01:07:40,50 	the tiger hangs on by ropes draped around the hull.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS1008 	01:38:57,00 --> 01:39:04,50 	at night, a meerkat yawns with his hind legs hanging over a branch.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS1095 	01:53:45,00 --> 01:53:54,50 	as the young survivor hangs his head, the older insurance investigator faces his partner with a softened gaze.
 LITTLE_FOCKERS.srt 	LITTLE_FOCKERS_DVS136 	00:50:09,00 --> 00:50:14,50 	someone hangs up his coat.
 MORNING_GLORY.srt 	MORNING_GLORY_DVS80 	00:14:16,00 --> 00:14:20,50 	she hangs up the phone.
-MORNING_GLORY.srt 	MORNING_GLORY_DVS428 	01:33:22,00 --> 01:33:29,50 	he hangs his head, glances up briefly, then walks away, putting on his sunglasses.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS456 	00:54:02,00 --> 00:54:05,50 	he hangs up.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS693 	01:25:50,00 --> 01:25:56,50 	the lone penguin flaps her flippers, then hangs her head.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS106 	00:24:47,00 --> 00:24:53,50 	hanging his head, the bird trudges away.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS159 	00:36:23,00 --> 00:36:33,50 	she rifles through floral sundresses hanging inside.
-NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS236 	00:49:13,00 --> 00:49:19,50 	as someone stares at it, someone remorsefully hangs her head.
-NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS246 	00:51:14,00 --> 00:51:22,50 	under someone's compassionate gaze, someone hangs her head then steps away.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS253 	00:52:54,00 --> 00:54:08,50 	back in the present, someone hangs the tattered veil on a clothesline.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS332 	01:12:58,00 --> 01:13:02,50 	someone hangs his head.
-NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS454 	01:23:04,00 --> 01:23:11,50 	someone hangs up and sits on a bench.
-NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS488 	01:30:14,00 --> 01:30:18,50 	someone stands with her shirt hanging off and clicks her fingers.
 PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS78 	00:20:20,00 --> 00:20:27,50 	with his eyes closed, someone's head hangs to the side.
 PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS140 	00:32:41,00 --> 00:32:49,50 	palms to his face he notices a red flag hanging from a pole on the opposite bank.
 PROMETHEUS.srt 	PROMETHEUS_DVS792 	01:24:52,00 --> 01:25:00,50 	inside the med pod blood drips from the alien's long egg-shaped head as it hangs motionless.
@@ -170,25 +113,19 @@ PROMETHEUS.srt 	PROMETHEUS_DVS1010 	01:50:16,00 --> 01:50:25,50 	someone backs a
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS252 	00:47:02,00 --> 00:47:10,50 	she hangs her head.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS317 	01:00:51,00 --> 01:01:18,50 	later, he hangs up his coat.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS365 	01:09:46,00 --> 01:10:04,50 	small overhead lights with green lampshades hang from above next to dangling clusters of phone wires.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS622 	01:56:58,00 --> 01:57:06,50 	he turns to a bulletin board where multiple mugshots of familiar criminals hang posted.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS112 	00:28:46,00 --> 00:28:56,50 	someone notices a small rectangular case hanging from someone's shoulder.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS196 	00:46:47,00 --> 00:46:53,50 	his crown, hangs it at the back of his throne and sits.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS248 	00:56:54,00 --> 00:56:58,50 	hunter's jaw hangs slack.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS313 	01:15:42,00 --> 01:15:46,50 	hanging from a tree, someone
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS355 	01:28:01,00 --> 01:28:09,50 	someone's jaw hangs slack.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS375 	01:33:03,00 --> 01:33:11,50 	he hangs his head.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS449 	01:51:49,00 --> 01:52:04,50 	she holds up the sword and hangs her head.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS76 	00:12:52,00 --> 00:12:57,50 	his eyes open wide and his jaw hanging slack.
-RUBY_SPARKS.srt 	RUBY_SPARKS_DVS575 	01:26:38,00 --> 01:26:44,50 	someone watches her, his mouth hanging open.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS578 	01:26:52,00 --> 01:26:58,50 	hanging his head, someone pounds the desk even harder.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS590 	01:27:55,00 --> 01:28:01,50 	his jaw hanging slack, someone steps over to her.
 SALT.srt 	SALT_DVS461 	01:19:02,00 --> 01:19:07,50 	the general hangs up.
 SANCTUM.srt 	SANCTUM_DVS333 	01:06:34,00 --> 01:06:40,50 	someone fixes the collar of his vest and hangs his head.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS313 	00:21:28,00 --> 00:21:32,50 	she hangs up.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS339 	00:23:13,00 --> 00:23:19,50 	a red scarf hangs over someone's bridal crown,
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS433 	00:28:46,00 --> 00:28:57,50 	with a nod, she heads back to an exhibit room where she finds a gallery worker hanging black and white images of disfigured feet on a crisp white wall.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS534 	00:35:02,00 --> 00:35:07,50 	she watches sympathetically as someone hangs her head.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS672 	00:43:55,00 --> 00:44:02,50 	he turns and ambles across the room to a window, posts his arm on the wall, and hangs his head.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS751 	00:49:44,00 --> 00:49:48,50 	someone hangs her head.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS804 	00:53:38,00 --> 00:53:46,50 	beyond a steaming wok over a fire pit, slaughtered animal carcasses hang from hooks.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS992 	01:04:44,00 --> 01:04:50,50 	her jackets hangs slung over her chair's backrest
@@ -198,7 +135,6 @@ SPARKLE_2012.srt 	SPARKLE_2012_DVS452 	01:14:24,00 --> 01:14:29,50 	someone lean
 SPARKLE_2012.srt 	SPARKLE_2012_DVS532 	01:28:26,00 --> 01:28:33,50 	then hangs up the phone.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS534 	01:28:36,00 --> 01:28:41,50 	someone sighs and hangs up the phone.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS560 	01:31:49,00 --> 01:31:53,50 	he hangs up the phone.
-SUPER_8.srt 	SUPER_8_DVS545 	01:31:32,00 --> 01:31:40,50 	as they move closer someone turns and finds himself face-to-face with sheriff pruit who hangs upside down.
 SUPER_8.srt 	SUPER_8_DVS547 	01:31:47,00 --> 01:31:52,50 	dozens of bodies hang upside down in the chamber.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS62 	00:09:03,00 --> 00:09:08,50 	framed newspapers hang on the office wall.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS99 	00:14:04,00 --> 00:14:08,50 	crystal chandeliers hang from the ceiling.
@@ -210,49 +146,30 @@ THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS37 	00:06:42,00 --> 00:06:47,50 	in 
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS53 	00:10:49,00 --> 00:10:52,50 	he hangs up.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS419 	01:19:27,00 --> 01:19:31,50 	someone hangs up then stares at her reflection in the mirror.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS424 	01:20:07,00 --> 01:20:12,50 	his back to someone, someone hangs up.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS502 	01:30:51,00 --> 01:30:57,50 	someone watches someone with her captors and hangs up.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS568 	01:42:44,00 --> 01:42:48,50 	someone hangs up.
-THE_CALL.srt 	THE_CALL_DVS547 	00:42:09,00 --> 00:42:14,50 	the killer faces the sedan with his mouth hanging open.
-THE_CALL.srt 	THE_CALL_DVS588 	00:45:41,00 --> 00:45:49,50 	with his mouth hanging open, the killer lowers the body onto someone and leans over the trunk.
-THE_CALL.srt 	THE_CALL_DVS867 	01:05:51,00 --> 01:05:56,50 	she steps forward, her jaw hanging slack.
-THE_CALL.srt 	THE_CALL_DVS882 	01:08:24,00 --> 01:08:29,50 	he hangs up and approaches a line of cars.
 THE_CALL.srt 	THE_CALL_DVS1055 	01:19:36,00 --> 01:19:53,50 	his fingers hang over the thin door above someone.
-THE_CALL.srt 	THE_CALL_DVS1066 	01:20:21,00 --> 01:20:27,50 	someone hangs up and faces the officers leaning over someone's body.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS53 	00:11:31,00 --> 00:11:36,50 	his eyes glisten and he hangs his head.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS57 	00:13:03,00 --> 00:13:12,50 	at the end of a hallway, a door's window frames a view of someone shambling closer, his arms hanging at his sides.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS333 	00:51:30,00 --> 00:51:33,50 	she hangs up.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS351 	00:53:56,00 --> 00:54:02,50 	he drops to his hands and knees, hanging his head low to the ground.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS577 	01:26:35,00 --> 01:26:42,50 	her father turns away and hangs his head.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS585 	01:27:00,00 --> 01:27:08,50 	she lies with each hand curled around a rolled up towel and her mouth hanging slack.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS701 	01:38:30,00 --> 01:38:36,50 	her mouth hangs open, her lips dry and slightly parched,
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS182 	00:23:27,00 --> 00:23:33,50 	someone's jaw hangs slack.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS228 	00:27:22,00 --> 00:27:29,50 	later, he steps out front with a grocery bag and a cigarette hanging from his mouth.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS741 	01:23:33,00 --> 01:23:37,50 	a detective hangs up his phone.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS867 	01:36:49,00 --> 01:36:54,50 	later, he sits shirtless in a tub with his legs hanging over its side as water showers onto his head.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS939 	01:44:00,00 --> 01:44:06,50 	three rifles hang on a rack by the door.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1247 	02:11:47,00 --> 02:11:53,50 	where the heavy set techie sleeps with his mouth hanging open.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1283 	02:14:47,00 --> 02:14:53,50 	he peeks around a corner then approaches someone who hangs up her desk phone.
 THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS33 	00:04:47,00 --> 00:04:53,50 	someone hangs his head and repacks his briefcase.
 THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS61 	00:18:15,00 --> 00:18:21,50 	someone hangs up and furrows his brow.
-THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS74 	00:26:28,00 --> 00:26:34,50 	she takes a small hook out of her purse and hangs the bag on the table.
 THE_SITTER.srt 	THE_SITTER_DVS50 	00:28:19,00 --> 00:28:23,50 	he hangs up.
 THE_VOW.srt 	THE_VOW_DVS193 	00:22:58,00 --> 00:23:02,50 	someone hangs his head.
-THE_VOW.srt 	THE_VOW_DVS198 	00:23:56,00 --> 00:24:02,50 	someone briefly hangs his head then takes a deep breath.
 THE_VOW.srt 	THE_VOW_DVS274 	00:35:27,00 --> 00:35:32,50 	someone hangs his head unhappily.
 THE_VOW.srt 	THE_VOW_DVS376 	00:52:41,00 --> 00:52:58,50 	sketches hang out of a few half-open drawers and a dresser 10 drawers high.
 THE_VOW.srt 	THE_VOW_DVS423 	00:58:37,00 --> 00:58:41,50 	the young woman briefly hangs her head.
 THE_VOW.srt 	THE_VOW_DVS581 	01:20:42,00 --> 01:20:49,50 	his suit jacket dangling from one hand, and his tie hanging from the other.
-THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS24 	00:05:02,00 --> 00:05:10,50 	cooking in her kitchen, someone gets a text: mind if i hang with the guys?
-THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS217 	00:54:17,00 --> 00:54:26,50 	he hangs on it, pulling with his full weight, then falls to the floor.
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS433 	01:41:03,00 --> 01:41:07,50 	he hangs up.
-THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS540 	01:57:00,00 --> 01:57:08,50 	as he hangs from the hoop, his legs knock against someone who stands under the basket.
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS542 	01:57:11,00 --> 01:57:18,50 	someone alley-oops to butler who hangs from the hoop by one hand.
-THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS151 	00:29:28,00 --> 00:29:36,50 	hanging on by their legs, they grab each other's wrists.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS148 	00:18:06,00 --> 00:18:10,50 	he hangs up a cellphone.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS265 	00:33:46,00 --> 00:33:52,50 	on the nearby bed, the blanket hangs over the side.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS478 	00:52:25,00 --> 00:52:29,50 	fairy godmother's jaw hangs slack.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS624 	01:09:07,00 --> 01:09:11,50 	someone hangs his head.
-TRUE_GRIT.srt 	TRUE_GRIT_DVS35 	00:05:16,00 --> 00:05:21,50 	a crowd watches three men get hanged.
 TRUE_GRIT.srt 	TRUE_GRIT_DVS153 	00:35:51,00 --> 00:35:59,50 	her long neat pigtails hang down over the front of her dark sodden brown coat.
 TRUE_GRIT.srt 	TRUE_GRIT_DVS346 	01:11:42,00 --> 01:11:49,50 	fluffy white clouds hang in a blue sky above the trio as their horses plod on across a largely featureless landscape.
 TRUE_GRIT.srt 	TRUE_GRIT_DVS440 	01:27:26,00 --> 01:27:33,50 	he hangs his head and stares at the ground.
@@ -266,24 +183,14 @@ WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS464 	01:13:08,00 --> 01:13:15,50 	the ti
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS717 	01:43:17,00 --> 01:43:21,50 	someone hangs her head.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS253 	00:35:06,00 --> 00:35:14,50 	in an alley, several kids play with a ball as white clothes hang on a sun-drenched clothesline nearby.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS377 	00:54:42,00 --> 00:54:46,50 	someone hangs up.
-WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS456 	01:03:15,00 --> 01:03:22,50 	he scans the empty arena, but finds only someone's red dress hanging from the hoop.
-WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS503 	01:12:10,00 --> 01:12:15,50 	someone puts his hands on his hips and hangs his head.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS152 	00:09:47,00 --> 00:09:54,50 	on the far wall, snapshots hang posted to various spots on a map.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS281 	00:22:23,00 --> 00:22:30,50 	the broodingly handsome man hangs up his jacket and hat, and approaches the bar.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS333 	00:25:10,00 --> 00:25:17,50 	someone swaggers to the photo hanging on the wall and stares at it piercingly.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS435 	00:38:10,00 --> 00:38:14,50 	he hangs upside down.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS563 	00:53:13,00 --> 00:53:20,50 	angel hovers in the air beside someone, who hangs upside-down from the ceiling.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS788 	01:10:28,00 --> 01:10:33,50 	someone hangs his head and someone looks away.
 YOUNG_ADULT.srt 	YOUNG_ADULT_DVS308 	00:58:43,00 --> 00:58:49,50 	she fingers strings of beads hanging from a desk lamp,
-YOUNG_ADULT.srt 	YOUNG_ADULT_DVS321 	00:59:33,00 --> 00:59:38,50 	she stops to gaze at framed photographs hanging on the wall.
 YOUNG_ADULT.srt 	YOUNG_ADULT_DVS396 	01:17:17,00 --> 01:17:21,50 	she hangs her head.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS228 	00:25:04,00 --> 00:25:09,50 	behind someone, someone hangs her head.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS415 	00:47:41,00 --> 00:47:46,50 	crystal chandeliers hang from the ceiling.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS545 	01:04:00,00 --> 01:04:05,50 	the sun hangs low in the sky
-ZOMBIELAND.srt 	ZOMBIELAND_DVS653 	01:13:31,00 --> 01:13:45,50 	hanging off the swing by one arm, he shoots the zombies as they approach the fence.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS675 	01:14:58,00 --> 01:15:03,50 	fake bloody animal carcasses hang from the ceiling.
 ZOOKEEPER.srt 	ZOOKEEPER_DVS30 	00:04:48,00 --> 00:05:02,50 	someone hangs the tire from a rope on a tree.
-ZOOKEEPER.srt 	ZOOKEEPER_DVS46 	00:07:49,00 --> 00:07:56,50 	that night, a banner hanging over a party over the zoo reads, congratulations.
-ZOOKEEPER.srt 	ZOOKEEPER_DVS85 	00:18:54,00 --> 00:19:02,50 	the next day, someone peers into someone's pit to find someone hanging a giant whiffle ball from the tree.
-ZOOKEEPER.srt 	ZOOKEEPER_DVS272 	00:59:51,00 --> 00:59:59,50 	someone grabs two of the hanging silk drapes.
 ZOOKEEPER.srt 	ZOOKEEPER_DVS292 	01:04:31,00 --> 01:04:35,50 	someone hangs up.

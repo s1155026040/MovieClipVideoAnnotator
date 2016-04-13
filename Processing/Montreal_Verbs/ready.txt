@@ -1,26 +1,14 @@
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS528 	01:22:24,00 --> 01:22:29,50 	each man readies themselves at a mirror.
 40_YEAR_OLD_VIRGIN.srt 	40_YEAR_OLD_VIRGIN_DVS67 	00:36:35,00 --> 00:36:41,50 	she readies the cloth on the other side of his chest.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS423 	00:41:12,00 --> 00:41:18,50 	he hands it off to his father, then readies an assault rifle for use.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS791 	01:19:41,00 --> 01:19:47,50 	stepping through the rounded vault entrance, someone readies his weapon.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS83 	00:09:24,00 --> 00:09:28,50 	he readies the hammer.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS289 	00:42:08,00 --> 00:42:27,50 	standing over him, someone collapses his modified weapon and readies himself for a final strike.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS587 	01:21:23,00 --> 01:21:29,50 	someone frowns and gets to his feet, readying his gun.
 DISTRICT_9.srt 	DISTRICT_9_DVS116 	00:13:45,00 --> 00:13:54,50 	in the helicopter, a soldier readies his rifle.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS257 	00:40:53,00 --> 00:41:00,50 	the bearded supplier readies a launcher then spots the wheel above him.
 IN_TIME.srt 	IN_TIME_DVS723 	01:17:30,00 --> 01:17:34,50 	someone readies his gun.
-LITTLE_FOCKERS.srt 	LITTLE_FOCKERS_DVS142 	00:51:59,00 --> 00:52:06,50 	as he readies the needle, two slippered feet walk down the hall.
-MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS645 	01:18:25,00 --> 01:18:33,50 	as she soars over someone, he readies his catch-pole.
 PROMETHEUS.srt 	PROMETHEUS_DVS319 	00:31:01,00 --> 00:31:05,50 	the mohawked man readies orbs.
-PROMETHEUS.srt 	PROMETHEUS_DVS829 	01:29:56,00 --> 01:30:02,50 	someone turns away from someone and his aide readies his wheelchair.
 PROMETHEUS.srt 	PROMETHEUS_DVS948 	01:45:11,00 --> 01:45:18,50 	someone readies her space suit.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS199 	00:37:43,00 --> 00:38:05,50 	someone leads agent barton to a door, then readies his hand on his gun.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS453 	01:52:47,00 --> 01:52:53,50 	later, someone addresses someone as he readies his horse.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS256 	00:39:59,00 --> 00:40:05,50 	someone readies the typewriter.
 SOUL_SURFER.srt 	SOUL_SURFER_DVS315 	01:34:24,00 --> 01:34:31,50 	a judge readies the air horn and consults a stopwatch.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS264 	00:39:22,00 --> 00:39:28,50 	someone moves to a neighboring lifeboat and checks under its tarp as he readies it.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS148 	00:28:32,00 --> 00:28:38,50 	inside, someone's captor readies a needle.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS529 	00:59:47,00 --> 00:59:55,50 	now at a tattoo shop an artist with round 2-inch earlobe plugs readies his electric needle.
-THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS173 	00:58:12,00 --> 00:58:18,50 	someone readies a napkin and picks the greens off her plate.
 TRUE_GRIT.srt 	TRUE_GRIT_DVS281 	00:59:38,00 --> 00:59:43,50 	someone readies his rifle and pistol.
-WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS335 	00:48:46,00 --> 00:48:53,50 	as he readies a bright light at the end of the exam table, someone solemnly lies back.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS134 	00:11:42,00 --> 00:11:49,50 	the older man readies his gun as they near the abandoned delivery truck.

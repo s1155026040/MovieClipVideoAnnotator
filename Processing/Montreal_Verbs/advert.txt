@@ -1,3 +1,2 @@
 IN_TIME.srt 	IN_TIME_DVS353 	00:37:19,00 --> 00:37:23,50 	someone adverts his gaze,
 PROMETHEUS.srt 	PROMETHEUS_DVS289 	00:28:37,00 --> 00:28:42,50 	someone adverts her troubled gaze.
-PROMETHEUS.srt 	PROMETHEUS_DVS526 	00:58:46,00 --> 00:58:51,50 	someone adverts her wounded gaze.

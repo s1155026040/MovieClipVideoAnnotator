@@ -1,144 +1,49 @@
-0001_American_Beauty_00.12.42.535-00.12.53.110 	she locks the sliding glass door and starts to pull the vertical blinds shut, then stops.
 0001_American_Beauty_00.21.51.934-00.21.53.074 	jane enters, closes and locks the door.
 0001_American_Beauty_00.42.16.889-00.42.20.708 	ricky smiles, shuts and locks his door.
-0001_American_Beauty_00.47.53.421-00.47.58.454 	he gives the urine specimen to lester, then locks the door.
-0001_American_Beauty_01.54.30.647-01.54.39.170 	she shuts the door and locks it, then takes the glock 19 out of her purse.
-0002_As_Good_As_It_Gets_00.37.47.324-00.37.49.351 	then checks that they are locked.
-0003_CASABLANCA_00.44.19.933-00.44.21.361 	while they are locked in an embrace they hear the dull boom of cannons.
-0004_Charade_01.12.09.629-01.12.10.658 	she unlocks it, tries to open it, but finds it locked.
-0004_Charade_01.12.42.501-01.12.43.419 	he wheels as the door is slammed and reggie, who had been standing behind it, locks it and pockets the key.
-0004_Charade_01.12.43.540-01.12.43.686 	he goes to the door leading to the hall and finds that locked as well.
 0004_Charade_01.28.34.871-01.28.44.007 	by the locked gate.
-0004_Charade_01.46.55.455-01.46.56.141 	he tries the knob -- the door is locked.
 0005_Chinatown_01.45.06.775-01.45.08.431 	it's locked.
-0006_Clerks_00.27.54.102-00.28.08.115 	randal locks the door and walks away, while olaf sings for the small crowd.
-0006_Clerks_00.33.44.285-00.33.47.720 	exiting, he locks the door behind him from the outside, gives it a tug to ensure its security, and storms off in the opposite direction from the woman.
 0006_Clerks_01.24.08.800-01.24.15.425 	randal exits and locks the door behind him.
 0007_DIE_NACHT_DES_JAEGERS_00.37.30.131-00.37.35.317 	as preacher's hand locks the door.
-0007_DIE_NACHT_DES_JAEGERS_01.27.04.063-01.27.06.074 	as rachel leaves shot, the cashier shuts and locks the door.
 0008_Fargo_01.23.03.650-01.23.06.566 	her look abruptly locks.
-0010_Frau_Ohne_Gewissen_00.52.06.009-00.52.10.219 	she closes and locks the car door.
-0011_Gandhi_00.04.17.138-00.04.21.925 	we see the soldiers and sailors lining the route, their hands locked together in one seemingly endless chain.
-0011_Gandhi_00.14.22.835-00.14.30.695 	for a second, his eyes lock with the sergeant's -- and then nervously, he takes a card and drops it in the wire basket, and another.
 0011_Gandhi_01.07.04.923-01.07.09.010 	gandhi rides on an open howdah on an elephant, his mind locked in sober reflection.
-0011_Gandhi_02.03.52.958-02.04.07.409 	featuring gandhi staring out to sea, his mind locked in reflection, and suddenly his head lifts, his eyes become alert, he is caught by some excitement which he weighs for a moment, then he stands, his manner suddenly tingling with optimism.
-0013_Halloween_01.11.14.504-01.11.17.814 	laurie locks the doyle house and walks away out into the street.
-0013_Halloween_01.22.42.716-01.22.43.294 	there is a click as the bathroom door is locked.
-0014_Ist_das_Leben_nicht_schoen_00.41.17.951-00.41.18.503 	violet is locking up for the night.
-0014_Ist_das_Leben_nicht_schoen_00.52.46.702-00.52.48.099 	it has been locked.
-0014_Ist_das_Leben_nicht_schoen_00.58.49.343-00.58.52.643 	cousin eustace slams and locks the door, and scurries around the counter to join the others.
-0014_Ist_das_Leben_nicht_schoen_01.59.55.308-01.59.57.533 	mary comes out the door, then turns and locks it.
 0016_O_Brother_Where_Art_Thou_00.53.40.123-00.53.46.033 	big dan walks awkwardly over to everett with delmar still attached to him like a hunting dog locked on to a bear.
 0016_O_Brother_Where_Art_Thou_01.09.43.443-01.09.47.748 	he locks the nose onto pete's chain and levers the arms.
 0017_Pianist_00.11.02.235-00.11.04.354 	silence, each locked in their own thoughts.
-0017_Pianist_01.40.49.871-01.40.56.541 	hie padlock is locked on the other side.
-0019_Pulp_Fiction_01.41.41.638-01.41.48.641 	as marsellus is dragged away, he locks eyes with butch before he disappears behind the door of russell's old room.
 0020_Raising_Arizona_00.04.13.309-00.04.14.169 	locked.
 0020_Raising_Arizona_00.04.14.877-00.04.15.759 	locked.
-0020_Raising_Arizona_00.10.02.113-00.10.03.366 	eyes still locked on the set, ed reaches her hand out to hi.
-0020_Raising_Arizona_00.10.03.366-00.10.05.293 	eyes still locked on the set, hi takes her hand in his.
-0020_Raising_Arizona_00.16.33.951-00.16.38.043 	ed is rolling up the window and locking the door.
-0020_Raising_Arizona_01.15.24.354-01.15.25.319 	the camera is locked down on the roof of the rocketing squad car, looking past its flashing gumballs.
-0020_Raising_Arizona_01.17.49.910-01.17.50.885 	the extremely low wide shot, locked down to the speeding bike, shows us rushing toward the rear of nathan jr's car seat.
-0021_Rear_Window_01.34.21.274-01.34.23.642 	after he goes out he tests the door to make certain it is locked.
-0022_Reservoir_Dogs_00.20.59.733-00.21.01.290 	pink tries to open the driver's side door, but it's locked.
 0022_Reservoir_Dogs_01.31.48.604-01.31.50.155 	eddie scared shitless for his father, gun locked on mr. white.
-0023_THE_BUTTERFLY_EFFECT_00.21.06.662-00.21.12.021 	tommy slowly gets up, locks eyes with evan.
-0023_THE_BUTTERFLY_EFFECT_01.06.08.363-01.06.11.654 	he then locks the door, reaches into his desk and finds a tiny canister of pepper spray.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.25.15.079-00.25.23.592 	gandalf continues staring into the fire, as if locked in thought.
 0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.25.41.476-00.25.46.458 	gandalf turns.his eyes locking onto the ring in frodo's fingers.
 0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.13.11.016-02.13.15.708 	haldir's eyes lock onto frodo.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.16.07.652-00.16.08.278 	fingers locked tight around his throat.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.28.43.273-01.28.48.366 	aragorn keeps moving forward, his eyes locked on the spectre.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.43.29.984-02.43.31.932 	his eyes lock on gollum.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.43.42.318-02.43.44.111 	frodo and gollum locked in struggle plummet over the edge of the chasm.
-0026_The_Big_Fish_00.50.23.879-00.50.27.868 	a fiery baton remains mid-twirl, flames locked in place.
-0027_The_Big_Lebowski_01.42.42.290-01.42.45.002 	walter's eyes, burning with hatred, are locked on dieter's.
-0028_The_Crying_Game_00.42.22.602-00.42.43.239 	she locks the glass door and walks down the street, across the road, and into a pub called the metro.
 0030_The_Hustler_00.38.52.351-00.38.54.930 	he locks his bags in a locker.
-0031_The_Lost_Weekend_01.14.50.094-01.14.58.627 	don tries to take advantage of the opening of the door to get out, but the guard pulls him by the arm, while the entering nurse locks the door with his own key.
-0032_The_Princess_Bride_00.04.07.019-00.04.10.852 	they are locked in a passionate kiss.
-0032_The_Princess_Bride_00.04.32.636-00.04.38.952 	they stand near the gate to the farm, locked in an embrace.
-0032_The_Princess_Bride_00.27.14.970-00.27.28.022 	fezzik considers this a moment, then attacks, and if he moved quickly last time, this time he is blinding and as the man in black slips down to avoid the charge, fezzik moves right with him, only instead of twisting free and jumping to his feet, this time the man in black jumps for fezzik's back and in a moment he is riding him, and his arms have fezzik's throat, locked across fezzik's windpipe, one in front, one behind.
-0032_The_Princess_Bride_01.22.07.658-01.22.10.569 	inigo, momentarily surprised, then taking off after him, leaving westley and fezzik to exchange curious looks and rugen, running through a half-open heavy wooden door, shutting it and locking it just as inigo throws himself against it.
-0038_Psycho_01.47.28.892-01.47.33.183 	after a moment, the guard comes out and the uniformed guard closes and locks the door and we.
 0041_The_Sixth_Sense_00.07.52.762-00.07.55.954 	his eyes lock on malcolm.
 0041_The_Sixth_Sense_00.11.23.767-00.11.28.263 	cole carefully locks the door behind him.
-0041_The_Sixth_Sense_01.09.38.602-01.09.44.227 	malcolm's eyes are locked on the spool of audio tape as it spins in the player.
 0041_The_Sixth_Sense_01.34.19.785-01.34.23.467 	lynn's eyes lock on cole's.
 0041_The_Sixth_Sense_01.38.34.144-01.38.39.832 	his eyes search again -- they finally lock on the wedding video playing.
-0043_Thelma_and_Luise_00.46.50.834-00.46.57.523 	suddenly she reaches over and locks her door.
-0046_Chasing_Amy_00.56.34.688-00.56.46.103 	as he reaches the door and turns to look back at her, alyssa pounces on him, grabs his face and locks lips with him, big time.
 0051_Men_in_black_00.11.52.545-00.11.53.824 	it's locked.
 0051_Men_in_black_00.11.59.429-00.12.00.157 	it's locked too.
-0051_Men_in_black_00.38.41.266-00.38.47.563 	carefully, he sets the box down and lovingly places the cat on top of it while he locks all five locks on the door to his distinctive shop.
-0053_Rendezvous_mit_Joe_Black_01.16.32.662-01.16.34.133 	joe is locked on susan, it is as if there is nobody else in the room.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.26.25.614-01.26.30.299 	slughorn closes the spyhole and locks the door.
-1004_Juno_01.22.49.210-01.22.52.610 	their eyes lock and he smiles.
-1005_Signs_01.01.58.678-01.02.05.497 	locking the door behind him, he hurriedly checks the handle, then, walks off past the open living room door.
 1006_Slumdog_Millionaire_00.11.51.482-00.11.53.901 	salim jams his chair against the door locking jamal in.
 1007_Spider-Man1_00.16.16.151-00.16.18.287 	norman all the while firmly locked into it.
 1008_Spider-Man2_00.30.09.669-00.30.12.288 	the usher gestures, locking his mouth.
 1008_Spider-Man2_01.42.45.699-01.42.47.988 	locked together, they crash onto the roof of a passing train.
-1010_TITANIC_02.10.08.678-02.10.11.671 	cal closes the safe, locks it, and walks out.
-1010_TITANIC_02.10.23.925-02.10.36.210 	jack leads rose and his friends down another corridor and up a stairway to another locked gate.
-1010_TITANIC_02.23.19.810-02.23.22.085 	rose grabs the railings and climbs to another locked gate
-1012_Unbreakable_01.30.23.776-01.30.32.485 	he thrashes about, pulling desperately at the arm locked around his neck, and makes another backward rush into the wall before falling forward onto his knees.
-1018_Body_Of_Lies_00.42.22.629-00.42.31.807 	a young man with his black hair swept back locks a car, then notices a tourist lining up a photograph.
-1020_Crazy_Stupid_Love_01.05.34.783-01.05.40.007 	he pulls her to him and lifts her gently off the ground, still locked in a passionate embrace.
 1024_Identity_Thief_00.56.08.776-00.56.11.443 	the skiptracer locks the door and hurries to the wheel.
 1027_Les_Miserables_02.01.46.140-02.01.47.287 	students hammer on the door of a house but it's locked.
-1028_No_Reservations_01.26.36.979-01.26.44.585 	kate locks the apartment door, turns out the hall lights and saunters back into the room.
-1030_Public_Enemies_00.23.05.362-00.23.13.362 	the gang leader sips his drink and stands, keeping his eyes locked on the exotic woman.
-1030_Public_Enemies_00.23.44.230-00.23.46.294 	he warily locks eyes with her, then looks away.
-1030_Public_Enemies_00.50.12.353-00.50.23.626 	inside, the officers lock dillinger inside a holding cell and remove his handcuffs through the bars.
-1030_Public_Enemies_02.03.24.534-02.03.28.365 	a guard follows, closes a prison door, and locks it.
-1030_Public_Enemies_02.06.59.264-02.07.05.134 	winstead gets to his feet, his sober gaze locked on the dead man.
 1031_Quantum_of_Solace_00.01.23.368-00.01.27.148 	a piece of metal protruding at the front of the truck, punches into the cars door, locking the two vehicles together.
 1031_Quantum_of_Solace_00.01.46.985-00.01.47.495 	he locks into a gap.
-1031_Quantum_of_Solace_00.32.10.957-00.32.18.062 	with the two boats locked together bond grabs a grappling hook and throws it into the inflatable.
-1034_Super_8_01.22.47.361-01.22.49.646 	joe tries to open the holding cell door but it's locked.
-1034_Super_8_01.28.48.932-01.28.51.335 	they try all the doors, but they're firmly locked.
 1035_The_Adjustment_Bureau_00.23.06.068-00.23.08.852 	david hurries into charlie's office and locks the door.
 1035_The_Adjustment_Bureau_01.02.03.766-01.02.09.168 	he juts out his jaw, then locks eyes with her.
-1035_The_Adjustment_Bureau_01.03.03.014-01.03.04.818 	he whips around to the closed door, but finds it locked.
-1037_The_Curious_Case_Of_Benjamin_Button_01.53.33.978-01.53.37.621 	a man takes it as she turns to lock her door.
 1037_The_Curious_Case_Of_Benjamin_Button_02.11.48.126-02.11.52.289 	she locks up and deposits her keys by a desk.
-1041_This_is_40_00.32.39.609-00.32.42.275 	trying the sitting room door, charlotte finds it locked.
 1041_This_is_40_00.43.55.934-00.44.00.409 	with their lips locked, they sink under water.
 1042_Up_In_The_Air_01.17.57.564-01.17.58.458 	it's locked.
 1045_An_education_01.08.07.657-01.08.12.183 	jenny and danny dance with their eyes locked together.
-1046_Australia_01.40.25.000-01.40.30.542 	their eyes lock together, but closes the cab door rather then get in.
 1047_Defiance_00.05.34.069-00.05.40.587 	tuvia beckons to their youngest brother, and all three stand locked in a hug.
-1048_Gran_Torino_01.40.22.415-01.40.27.812 	thao hurries up the stairs and finds that walt has locked him in the basement.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_02.04.06.787-02.04.10.965 	peter pettigrew, wormtail, locks harry and ron in a cellar.
-1051_Harry_Potter_and_the_goblet_of_fire_02.15.36.132-02.15.37.917 	moody looks towards the locked trunk.
 1053_Harry_Potter_and_the_philosophers_stone_00.08.26.791-00.08.30.395 	vernon locks him into the cupboard under the stairs.
-1053_Harry_Potter_and_the_philosophers_stone_00.24.09.000-00.24.17.306 	the goblin guide runs a long shaft fingernail down the center of the locking mechanism on the door of vault 713.
 1053_Harry_Potter_and_the_philosophers_stone_01.10.16.346-01.10.19.761 	hermione locks herself in a toilet.
-1056_Rambo_00.18.44.792-00.18.49.648 	the hooks catch and lock.
-1056_Rambo_00.25.13.124-00.25.15.081 	rambo locks off the motor and brings the pirate boat to a halt.
-1057_Seven_pounds_00.07.29.068-00.07.35.432 	ben gets out of the car, and locks it with a remote.
 1057_Seven_pounds_00.43.02.597-00.43.05.506 	she slams the door on ben and locks it.
 1057_Seven_pounds_01.08.25.448-01.08.26.878 	their eyes lock.
-1057_Seven_pounds_01.30.10.990-01.30.17.171 	their eyes are locked in an intense gaze, their faces close.
-1058_The_Damned_united_00.46.14.000-00.46.21.478 	brian smirks wryly as he locks looks with don, who looks away imperiously.
-1060_Yes_man_00.36.04.013-00.36.07.707 	carl leaves his apartment and locks his door.
-1060_Yes_man_00.55.55.114-00.55.57.010 	it has a gate which is locked.
 1060_Yes_man_00.57.48.888-00.57.52.132 	they stay locked in an embrace and sink to the floor.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.26.27.794-00.26.30.687 	they reach a locked, barred gate.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.44.29.365-01.44.42.712 	they lock energy blasts.
-1062_Day_the_Earth_stood_still_00.48.48.040-00.48.51.409 	beams from the robot are locked on the reapers.
-2005_Signs_01.13.23.537-01.13.25.271 	graham's eyes stay locked on the crops which go on and on into darkness.
-2012_Unbreakable_00.25.04.132-00.25.05.962 	two figures are depicted on the top of a building locked in fierce battle.
-2012_Unbreakable_00.42.58.524-00.43.02.388 	his jaw is locked in a.
-2012_Unbreakable_00.48.42.537-00.48.53.798 	his face is locked in a grimace as he brings the bar down to his chest and back up again two times before dropping it onto the armrest.
-2017_Bad_Santa_00.05.36.583-00.05.39.758 	the guard exits the store, locks the door and heads home.
-2026_Legion_00.04.23.257-00.04.24.498 	the place is locked up tight.
-2026_Legion_00.20.06.577-00.20.07.122 	everybody's eyes are locked on the tv.
 2034_Super_8_00.03.41.826-00.03.44.032 	sort of freezes as their eyes lock.
-2034_Super_8_01.07.47.795-01.07.51.373 	but joe has slapped charles' arm, his eyes locked to the screen -- charles looks too -- and now we see it: through the.
-2034_Super_8_01.14.18.241-01.14.23.071 	they move fast across the alley, to a trailer locked with a padlock -- the dungeon.
-2034_Super_8_01.21.54.139-01.21.56.173 	joe moves to the locked bulletproof glass door -- tries the handle -- but it's never gonna open.
-2034_Super_8_01.28.50.103-01.28.51.402 	the third is a barn door -- they try it: locked.
-2041_This_is_40_00.32.40.467-00.32.42.704 	charlotte tries to open the door, it's locked.

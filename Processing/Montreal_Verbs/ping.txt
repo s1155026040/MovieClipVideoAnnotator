@@ -1,8 +1,1 @@
 40_YEAR_OLD_VIRGIN.srt 	40_YEAR_OLD_VIRGIN_DVS138 	01:10:59,00 --> 01:11:03,50 	he pings a die cast figure.
-KARATE_KID.srt 	KARATE_KID_DVS1442 	01:57:00,00 --> 01:57:15,50 	with an icy glare, he gives someone ping a perfunctory bow.
-KARATE_KID.srt 	KARATE_KID_DVS1444 	01:57:18,00 --> 01:57:36,50 	someone ping executes a series of roundhouse kicks, but someone back-handsprings out of harm's way.
-KARATE_KID.srt 	KARATE_KID_DVS1445 	01:57:33,00 --> 01:57:40,50 	the referee pulls someone ping aside, and someone's pounding fist hits the mat.
-KARATE_KID.srt 	KARATE_KID_DVS1446 	01:57:38,00 --> 01:57:47,50 	he rushes at someone ping again, but the referee forces him back, gestures firmly for him to stay, and signals him with a flag.
-KARATE_KID.srt 	KARATE_KID_DVS1447 	01:57:44,00 --> 01:57:51,50 	someone ping stands, clutching his stomach, and eyes someone resentfully.
-PROMETHEUS.srt 	PROMETHEUS_DVS513 	00:54:48,00 --> 00:54:54,50 	the pinging probe sits motionless at what appears to be a dead end.
-ZOMBIELAND.srt 	ZOMBIELAND_DVS86 	00:06:58,00 --> 00:07:03,50 	words ping out from his shotgun's smoking barrel, rule number 2, double tap.

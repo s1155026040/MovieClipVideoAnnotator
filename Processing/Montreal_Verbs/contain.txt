@@ -1,26 +1,6 @@
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS342 	01:03:39,00 --> 01:03:47,50 	in the control room, someone picks up a clear canister containing the glowing blue energy source as the timers continue to countdown.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS558 	01:37:27,00 --> 01:37:37,50 	in the cockpit, someone inserts the canister containing the blue energy source into a large mechanism, then climbs into the pilot's seat.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS600 	01:42:32,00 --> 01:42:39,50 	passing the mechanism containing the glowing blue energy source, he creeps toward the back of the chair.
-DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS328 	01:18:54,00 --> 01:19:00,50 	then opens a box containing mouse wedding-wear.
-DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS352 	01:24:58,00 --> 01:25:06,50 	he takes out a case containing stuffed mice in evolution of man style poses.
-DISTRICT_9.srt 	DISTRICT_9_DVS289 	00:32:26,00 --> 00:32:31,50 	find it, it contains the fluid.
-DISTRICT_9.srt 	DISTRICT_9_DVS628 	01:13:37,00 --> 01:13:45,50 	the breach opens onto a motor pool containing dozens of armored mnu pickups.
-INSIDE_MAN.srt 	INSIDE_MAN_DVS95 	00:24:36,00 --> 00:24:47,50 	he leads his three accomplices through a suite of offices, each containing a number of captives.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS226 	01:06:12,00 --> 01:06:18,50 	our view drifts to another containing five captives.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS168 	00:31:54,00 --> 00:32:03,50 	she turns to face the entrance where someone stands holding a red case containing someone's iron man suit.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS262 	00:48:35,00 --> 00:48:40,50 	someone opens a box containing palladium ingots.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS458 	01:24:01,00 --> 01:24:10,50 	in the lab, he opens a wooden crate containing massive tubes.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS482 	01:26:44,00 --> 01:26:50,50 	he gazes at the triangle, which contains the glowing element.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS507 	01:31:36,00 --> 01:31:42,50 	someone grabs the reactor containing the new element and pops it into his chest.
-JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS202 	00:38:48,00 --> 00:38:55,50 	someone opens a padded envelope, which contains a small bottle and a note.
-JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS547 	01:48:50,00 --> 01:49:02,50 	someone exhales wearily through pursed lips, then picks up the box containing the manuscript and leans back in her chair.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS1120 	01:57:58,00 --> 01:58:05,50 	it contains a news clipping featuring someone at the end of his journey.
-SALT.srt 	SALT_DVS249 	00:43:06,00 --> 00:43:20,50 	someone retrieves a jewelry box from a plastic bag containing cash and passports.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS437 	01:33:34,00 --> 01:33:38,50 	gram containing arcane rune
 SUPER_8.srt 	SUPER_8_DVS608 	01:38:59,00 --> 01:39:07,50 	the doors on a cargo truck containing containers of cubes burst open.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1059 	01:52:22,00 --> 01:52:29,50 	it contains only three.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS196 	00:37:38,00 --> 00:37:46,50 	it contains a photo of the blunt-featured someone.
-THOR.srt 	THOR_DVS82 	00:10:48,00 --> 00:10:56,50 	three frost giants run up the corridor to the translucent box, which contains a swirling orb of glowing blue mist.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS354 	00:28:19,00 --> 00:28:30,50 	someone's clothes flutter as he contains the explosion between his hands, then absorbs it.
-ZOMBIELAND.srt 	ZOMBIELAND_DVS137 	00:11:52,00 --> 00:12:00,50 	hundreds of double serving packages spill out, all containing pink round snack cakes.
-ZOMBIELAND.srt 	ZOMBIELAND_DVS487 	00:57:26,00 --> 00:57:33,50 	the open wallet contains two cherished snapshots of the bright faced boy.

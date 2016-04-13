@@ -1,0 +1,9 @@
+BAD_TEACHER.srt 	BAD_TEACHER_DVS112 	00:30:25,00 --> 00:30:31,50 	unrolling her window a third of the way someone reaches out.
+IRON_MAN_2.srt 	IRON_MAN_2_DVS386 	01:13:00,00 --> 01:13:10,50 	he unrolls the blueprint and places it behind himself.
+KARATE_KID.srt 	KARATE_KID_DVS1322 	01:46:59,00 --> 01:47:10,50 	in a shadowy arena, workers unroll kung fu mats decorated with yin-yang symbols.
+KARATE_KID.srt 	KARATE_KID_DVS1436 	01:56:31,00 --> 01:56:39,50 	now, workers unroll a single kung fu mat, on a raised platform in the center of the arena.
+PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS409 	01:19:08,00 --> 01:19:14,50 	someone unrolls a bandage and dresses someone's wound.
+ROBIN_HOOD.srt 	ROBIN_HOOD_DVS288 	01:08:29,00 --> 01:08:41,50 	someone carefully unrolls the scroll as the aid looks on behind him.
+ROBIN_HOOD.srt 	ROBIN_HOOD_DVS518 	02:09:29,00 --> 02:09:34,50 	he unrolls a document and reads.
+SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS252 	00:50:38,00 --> 00:50:49,50 	he gingerly unrolls it to reveal an arcane depiction of a spell being cast.
+WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS649 	01:35:05,00 --> 01:35:09,50 	he unrolls a poster.

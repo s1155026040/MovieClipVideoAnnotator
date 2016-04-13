@@ -1,3 +1,2 @@
 GREEN_ZONE.srt 	GREEN_ZONE_DVS349 	01:19:16,00 --> 01:19:21,50 	someone radios his team.
-GREEN_ZONE.srt 	GREEN_ZONE_DVS369 	01:25:17,00 --> 01:25:30,50 	he relaxes his aim and radios the humvee convoy.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1262 	01:53:57,00 --> 01:54:02,50 	onboard, she radios the american ship.

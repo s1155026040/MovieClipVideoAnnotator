@@ -1,8 +1,4 @@
-CHRONICLE.srt 	CHRONICLE_DVS229 	00:32:51,00 --> 00:33:01,50 	sharing his point-of-view, we peer out from the rippling folds of someone's coat while making a controlled descent toward the landscape below.
 HUGO.srt 	HUGO_DVS92 	00:11:56,00 --> 00:12:11,50 	each controlled by a single mechanism with immense gears.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS522 	01:34:39,00 --> 01:34:44,50 	in a dark room, someone controls a drone by a computer.
 KARATE_KID.srt 	KARATE_KID_DVS1270 	01:42:52,00 --> 01:42:58,50 	behind him, someone controls his movements.
-PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS248 	00:58:21,00 --> 00:58:28,50 	later, someone finds someone controlling a computer game with a huge touch screen.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS431 	01:17:34,00 --> 01:17:40,50 	in a posh ladies room, someone controls her breath.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS648 	00:59:37,00 --> 00:59:43,50 	sucking in ragged breaths, he controls the bar around someone's neck,
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS899 	01:22:10,00 --> 01:22:20,50 	someone's shoulders heave as he controls the satellite dish, his face pulled into an expression of both sadness and triumph.

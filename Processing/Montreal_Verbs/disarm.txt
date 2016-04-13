@@ -1,5 +1,2 @@
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS390 	00:54:38,00 --> 00:55:09,50 	someone disarms him, but three more surround him.
-PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS256 	01:07:12,00 --> 01:07:18,50 	another head disarms someone, who scrambles back.
-THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS238 	00:43:34,00 --> 00:43:46,50 	arriving, someone disarms someone and slams him against the pole.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS293 	00:54:16,00 --> 00:54:21,50 	he disarms another.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS318 	00:24:18,00 --> 00:24:26,50 	he plunges the knife at someone, who disarms him, pins his wrist on the table, and reads an inscription on the blade "blood and honor".

@@ -1,27 +1,36 @@
-0001_American_Beauty_00.45.49.576-00.45.52.172 	It's clear he knows where she's most vulnerable.
-0002_As_Good_As_It_Gets_00.13.02.350-00.13.02.447 	She starts to clear the table.
-0008_Fargo_00.34.27.526-00.34.31.985 	The man stirs and clears his throat with a long deep rumble.
-0008_Fargo_00.34.42.343-00.34.44.381 	He clears his throat with another deep rumble.
-0011_Gandhi_02.48.38.783-02.48.39.125 	Azad clears someone aside and ushers Nehru and Patel under the canopy awning.
-0013_Halloween_00.32.27.151-00.32.27.986 	They quickly roll down the windows and begin wildly clearing out the marijuana smoke.
-0014_Ist_das_Leben_nicht_schoen_01.41.47.878-01.41.50.809 	George rubs his head with his hand, to clear his mind.
-0016_O_Brother_Where_Art_Thou_00.11.55.923-00.12.00.135 	Everett clears his throat.
-0016_O_Brother_Where_Art_Thou_00.34.32.717-00.34.35.615 	The car is speeding into town, dodging and weaving through light traffic as George fires into the air - perhaps a means of clearing a path, perhaps an expression of high spirits.
-0016_O_Brother_Where_Art_Thou_01.40.41.409-01.40.42.827 	He shakes off the vision and clears his throat.
-0017_Pianist_00.19.35.726-00.19.37.498 	Jewish policemen and German soldiers are clearing a space, shoving Jews out of the way, including Szpilman, Henryk and the nervous man.
-0017_Pianist_00.19.37.498-00.19.38.790 	Other soldiers are clearing a space.
-0017_Pianist_00.19.38.790-00.19.45.003 	Two GERMAN SOLDIERS pull out of the crowd a tall woman and a short man and haul them into the cleared space.
-0020_Raising_Arizona_00.24.40.755-00.24.42.522 	Hi clears his throat.
-0020_Raising_Arizona_01.12.21.503-01.12.24.464 	Hi clears his throat.
-0020_Raising_Arizona_01.27.02.633-01.27.10.570 	He clears his throat and turns to the door.
-0026_The_Big_Fish_01.52.36.387-01.52.37.821 	It's Karl the Giant, clearing a path by brute force.
-0027_The_Big_Lebowski_00.23.41.638-00.23.42.991 	He clears his throat.
-0029_The_Graduate_00.35.19.812-00.35.27.684 	He clears his throat and then he kisses her.
-0051_Men_in_black_00.03.02.367-00.03.13.257 	He squirts some wiper fluid onto the glass, which clears it up a bit, but now he sees something worse up ahead.
-1001_Flight_01.51.16.178-01.51.19.489 	Hugh clears the table.
-1004_Juno_01.00.14.880-01.00.17.272 	Her fellow students, staring at her belly, clear a path to let her pass.
-1006_Slumdog_Millionaire_00.41.11.328-00.41.15.532 	The dust clears revealing the majestic white marbled palace of the Taj Mahal in the distance.
+0002_As_Good_As_It_Gets_00.13.02.350-00.13.02.447 	she starts to clear the table.
+0004_Charade_00.55.33.640-00.55.34.751 	following through, dyle punches the large man full in the jaw, but instead of falling, scobie wraps his arm around dyle, holding on tightly until his head clears.
+0005_Chinatown_01.04.13.533-01.04.19.728 	cross starts to reply, then there's the sound of a mariachi band and some men in formation clear a bluff about a hundred yards off.
+0005_Chinatown_01.39.30.645-01.39.33.471 	clearing the kitchen counter, gittes sees ida sessions lying on her back on the floor, surrounded by the groceries from a broken bag.
+0008_Fargo_00.34.27.526-00.34.31.985 	the man stirs and clears his throat with a long deep rumble.
+0008_Fargo_00.34.42.343-00.34.44.381 	he clears his throat with another deep rumble.
+0011_Gandhi_02.48.38.783-02.48.39.125 	azad clears someone aside and ushers nehru and patel under the canopy awning.
+0013_Halloween_00.32.27.151-00.32.27.986 	they quickly roll down the windows and begin wildly clearing out the marijuana smoke.
+0014_Ist_das_Leben_nicht_schoen_01.41.47.878-01.41.50.809 	george rubs his head with his hand, to clear his mind.
+0016_O_Brother_Where_Art_Thou_00.11.55.923-00.12.00.135 	everett clears his throat.
+0016_O_Brother_Where_Art_Thou_00.34.32.717-00.34.35.615 	the car is speeding into town, dodging and weaving through light traffic as george fires into the air - perhaps a means of clearing a path, perhaps an expression of high spirits.
+0016_O_Brother_Where_Art_Thou_00.57.34.473-00.57.36.016 	everett shakes his head as if to clear it.
+0016_O_Brother_Where_Art_Thou_01.40.41.409-01.40.42.827 	he shakes off the vision and clears his throat.
+0017_Pianist_00.19.35.726-00.19.37.498 	jewish policemen and german soldiers are clearing a space, shoving jews out of the way, including szpilman, henryk and the nervous man.
+0017_Pianist_00.19.37.498-00.19.38.790 	other soldiers are clearing a space.
+0020_Raising_Arizona_00.24.40.755-00.24.42.522 	hi clears his throat.
+0020_Raising_Arizona_01.12.21.503-01.12.24.464 	hi clears his throat.
+0020_Raising_Arizona_01.27.02.633-01.27.10.570 	he clears his throat and turns to the door.
+0026_The_Big_Fish_00.46.54.737-00.47.01.135 	as the performers clear away, the circus' owner-and-ringmaster amos calloway (50) approaches the stands.
+0026_The_Big_Fish_01.21.15.705-01.21.20.019 	clearing a path, sandra leads will to a roll-top desk, its ribs covered in dust.
+0026_The_Big_Fish_01.52.36.387-01.52.37.821 	it's karl the giant, clearing a path by brute force.
+0027_The_Big_Lebowski_00.23.41.638-00.23.42.991 	he clears his throat.
+0028_The_Crying_Game_00.39.44.093-00.39.45.328 	the dust begins to clear.
+0029_The_Graduate_00.35.19.812-00.35.27.684 	he clears his throat and then he kisses her.
+0049_Hannah_and_her_sisters_01.17.45.997-01.17.59.857 	other diners are seen in the background; a waiter is taking the order of a couple sitting on a banquette; other waiters clear off a table.
+0051_Men_in_black_00.03.02.367-00.03.13.257 	he squirts some wiper fluid onto the glass, which clears it up a bit, but now he sees something worse up ahead.
+0051_Men_in_black_00.53.53.600-00.53.54.731 	from the other side of the room, kay clears his throat.
+0051_Men_in_black_01.21.12.902-01.21.18.056 	in front of them, the dust clears.
+1001_Flight_01.51.16.178-01.51.19.489 	hugh clears the table.
+1004_Juno_01.00.14.880-01.00.17.272 	her fellow students, staring at her belly, clear a path to let her pass.
+1006_Slumdog_Millionaire_00.41.11.328-00.41.15.532 	the dust clears revealing the majestic white marbled palace of the taj mahal in the distance.
 1008_Spider-Man2_01.46.01.053-01.46.08.276 	blinks to clear his eyes and realizes the train is hurdling through the city towards the end of the line.
+1009_Spider-Man3_02.05.48.087-02.05.52.720 	when the spot clears, there's nothing left of the brook or the symbiote.
 1011_The_Help_00.16.28.485-00.16.32.474 	she wanders across to aibileen, who is clearing up.
 1011_The_Help_00.46.09.286-00.46.13.430 	her eyes shoot up at yule mae who is clearing away some dishes.
 1014_2012_00.50.33.326-00.50.35.727 	the plane clears the canyon.
@@ -32,6 +41,7 @@
 1029_Pride_And_Prejudice_Disk_One_01.59.52.882-01.59.55.728 	inside, the tea things are being cleared away in the drawing room, where mr. bennet, mary and jane are sitting.
 1030_Public_Enemies_01.19.21.948-01.19.28.068 	as they both clear out of the room, homer hangs by in the doorway.
 1031_Quantum_of_Solace_00.44.06.937-00.44.10.408 	upstairs, greene clears out of his box.
+1033_Sherlock_Holmes_A_Game_of_Shadows_00.06.48.522-00.06.50.650 	the auction house clears.
 1034_Super_8_00.33.37.377-00.33.43.044 	at the crash site, air force personnel are busy clearing up the cargo of strange white cubes.
 1034_Super_8_01.07.48.490-01.08.05.049 	on screen the smoke is cleared and they see footage of a giant spider-like creature creeping out of a carriage.
 1037_The_Curious_Case_Of_Benjamin_Button_00.49.56.037-00.50.00.600 	later, the bar staff are clearing up.
@@ -39,23 +49,23 @@
 1038_The_Great_Gatsby_01.19.09.979-01.19.18.043 	as his staff busy themselves clearing up the mess, gatsby stands on the terrace looking out across the bay.
 1041_This_is_40_01.14.37.436-01.14.39.357 	at the belasco, the band sits at a table while roadies clear the stage.
 1042_Up_In_The_Air_00.04.26.731-00.04.27.208 	steve clears the table.
-1047_Defiance_01.36.36.388-01.36.38.835 	lilka's clear blue eyes look searchingly at tamara whose face crumples.
+1042_Up_In_The_Air_00.43.17.746-00.43.22.521 	ryan and natalie walk into a large open-plan office which has already been cleared, apart from a few chairs and a couple of desks.
+1043_Vantage_Point_00.08.04.829-00.08.11.658 	as the smoke clears, the director catches sight of angie lying on the ground.
+1043_Vantage_Point_00.18.36.150-00.18.36.817 	the smoke clears.
+1046_Australia_00.19.51.257-00.19.53.687 	the smoke clears, revealing a large house.
+1049_Harry_Potter_and_the_chamber_of_secrets_00.24.04.600-00.24.09.384 	thick cloud gradually clears, revealing low green hills far below.
+1051_Harry_Potter_and_the_goblet_of_fire_02.03.38.637-02.03.45.765 	as the smoke clears, voldemort faces them.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_00.02.41.058-00.02.43.425 	harry clears the table.
 1057_Seven_pounds_01.09.12.277-01.09.16.871 	emily clears the plates.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.02.28.993-01.02.30.916 	she clears a path.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.15.40.746-01.15.47.725 	the swirling black clears to reveal a meadow.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.23.41.807-01.23.52.804 	harry walks downstairs along pathways cleared amongst the rubble.
-2017_Bad_Santa_00.59.07.614-00.59.12.817 	a bus clears frame, revealing the kid as he walks toward the mall.
-2026_Legion_01.10.00.779-01.10.05.570 	bob springs into action, clearing the door and flipping the dead bolt.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.02.41.058-00.02.43.425 	harry clears the table.
-1057_Seven_pounds_01.09.12.277-01.09.16.871 	emily clears the plates.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.02.28.993-01.02.30.916 	she clears a path.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.15.40.746-01.15.47.725 	the swirling black clears to reveal a meadow.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.23.41.807-01.23.52.804 	harry walks downstairs along pathways cleared amongst the rubble.
+1062_Day_the_Earth_stood_still_01.31.31.400-01.31.36.813 	as the smoke clears, the sphere is completely intact.
 2017_Bad_Santa_00.59.07.614-00.59.12.817 	a bus clears frame, revealing the kid as he walks toward the mall.
 2026_Legion_01.10.00.779-01.10.05.570 	bob springs into action, clearing the door and flipping the dead bolt.
 2027_Les_Miserables_01.43.45.158-01.43.46.825 	but already the soldiers have cleared out.
 2034_Super_8_01.07.51.373-01.08.01.522 	too damn big -- mostly out of frame, its shape and flesh too bizarre -- we only see the legs as it clears frame.
 2041_This_is_40_00.04.20.330-00.04.24.432 	pete clears the breakfast dishes.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_00.02.36.943-00.02.43.027 	as harry clears the dishes, uncle vernon brings out a bottle of brandy.
+2054_Harry_Potter_and_the_prisoner_of_azkaban_02.08.59.384-02.09.01.521 	as harry arrives, he glances at hermione, who clears her throat loudly.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_02.09.05.365-02.09.06.575 	mystified, harry steps forward, the boys peeling away, clearing his view of the broomstick in ron's hands.

@@ -1,10 +1,6 @@
-30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS170 	00:44:43,00 --> 00:44:49,50 	in the datsun someone chugs a 5-hour energy shot while eating a cheeseburger.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS406 	01:13:56,00 --> 01:14:01,50 	dugan chugs a beer and slams down his empty mug.
 FLIGHT.srt 	FLIGHT_DVS774 	01:37:45,00 --> 01:37:49,50 	he chugs on the bottle of juice.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS291 	00:44:49,00 --> 00:44:53,50 	he chugs obliviously.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS511 	01:13:38,00 --> 01:13:47,50 	now someone reaches an entryway and chugs his wine.
 JACK_AND_JILL.srt 	JACK_AND_JILL_DVS39 	00:04:50,00 --> 00:04:54,50 	he chugs some down.
 JACK_AND_JILL.srt 	JACK_AND_JILL_DVS339 	01:05:41,00 --> 01:05:49,50 	chugging someone's, poopsie tips over.
 SUPER_8.srt 	SUPER_8_DVS515 	01:27:28,00 --> 01:27:32,50 	someone chugs a soda.
-THE_WATCH.srt 	THE_WATCH_DVS28 	00:04:35,00 --> 00:04:41,50 	he snatches the bottle then chugs from it and spits vodka overhead.
 YOUNG_ADULT.srt 	YOUNG_ADULT_DVS185 	00:35:22,00 --> 00:35:26,50 	someone chugs the whiskey.

@@ -1,0 +1,4 @@
+DISTRICT_9.srt 	DISTRICT_9_DVS562 	01:06:29,00 --> 01:06:39,50 	the gang leader pulls out a knife and pricks the alien flesh.
+EASY_A.srt 	EASY_A_DVS117 	00:38:30,00 --> 00:38:34,50 	she pricks herself.
+HUGO.srt 	HUGO_DVS744 	01:49:16,00 --> 01:49:23,50 	someone's ears prick up.
+IRON_MAN_2.srt 	IRON_MAN_2_DVS54 	00:09:15,00 --> 00:09:21,50 	backstage, someone pricks his finger and uses a scanner.

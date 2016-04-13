@@ -1,0 +1,3 @@
+SALT.srt 	SALT_DVS374 	01:06:45,00 --> 01:06:54,50 	as the terrified survivor struggles to crawl away, someone moves over him.
+THE_CALL.srt 	THE_CALL_DVS548 	00:42:11,00 --> 00:42:17,50 	the terrified teen keeps her eyes on the roof.
+TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS494 	00:53:50,00 --> 00:53:54,50 	the terrified woman gapes.

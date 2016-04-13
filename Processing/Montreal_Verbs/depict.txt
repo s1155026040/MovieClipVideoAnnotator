@@ -1,18 +1,9 @@
-21_JUMP_STREET.srt 	21_JUMP_STREET_DVS117 	00:16:59,00 --> 00:17:05,50 	where a statue depicts jesus reaching from the cross.
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS160 	00:27:35,00 --> 00:27:43,50 	next to a sticker depicting poop with a halo, a hand-scrawled arrow points to a phone number.
-21_JUMP_STREET.srt 	21_JUMP_STREET_DVS187 	00:32:29,00 --> 00:32:35,50 	a pencil case holds wafers depicting the haloed poop logo.
-21_JUMP_STREET.srt 	21_JUMP_STREET_DVS334 	00:55:47,00 --> 00:55:56,50 	now at the police firing range, the two cops shoot at a cutout depicting a gunman using a woman as a human shield.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS657 	01:50:02,00 --> 01:50:10,50 	taking a deep breath, she takes out the photo which depicts someone before his transformation, just a skinny kid from brooklyn.
-CHRONICLE.srt 	CHRONICLE_DVS526 	01:14:44,00 --> 01:14:52,50 	his gaze lands on a nearby statue which depicts a shirtless warrior aiming a spear.
-COLOMBIANA.srt 	COLOMBIANA_DVS527 	00:47:43,00 --> 00:47:53,50 	to her right, a large square painting depicting a pink someone orchid at the center of a gold rimmed medallion stands propped against the wall.
 KARATE_KID.srt 	KARATE_KID_DVS1324 	01:47:10,00 --> 01:47:19,50 	a transparent silhouette of a warrior in a kung fu pose tops each, the tallest trophy depicting a nearly-vertical high kick.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS119 	00:13:39,00 --> 00:13:46,50 	someone turns the pages of a comic book depicting the krishna story.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1272 	01:26:01,00 --> 01:26:08,50 	in the notebook, a pen and ink sketch depicts a delicate tree amidst a desolate landscape.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS89 	00:17:52,00 --> 00:18:07,50 	the urn's side depicts the fighting sorcerers.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS203 	00:38:34,00 --> 00:38:40,50 	it depicts someone in a cowardly scream.
 THE_CALL.srt 	THE_CALL_DVS744 	00:56:05,00 --> 00:56:14,50 	several depict her and a smiling young boy.
-THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS271 	00:50:47,00 --> 00:50:52,50 	it depicts a man kissing a woman's face.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS72 	00:12:35,00 --> 00:12:40,50 	and the other depicts a hollow-cheeked face
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS594 	01:30:44,00 --> 01:30:51,50 	the top sketch depicts a human figure with taloned hands and a spiraling worm-like head.
-WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS407 	00:57:56,00 --> 00:58:03,50 	she looks over the first group of sculptures, which depicts a wedding party.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS415 	00:58:19,00 --> 00:58:24,50 	the sculpture depicts a shabby old man.

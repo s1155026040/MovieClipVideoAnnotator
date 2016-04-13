@@ -3,9 +3,7 @@ BRUNO.srt 	BRUNO_DVS237 	01:05:00,00 --> 01:05:04,50 	man demonstrates.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS64 	00:08:41,00 --> 00:08:46,50 	as he demonstrates, she copies him.
 DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS49 	00:05:19,00 --> 00:05:24,50 	one demonstrates his golf swing.
 HUGO.srt 	HUGO_DVS227 	00:33:30,00 --> 00:33:36,50 	later, he demonstrates how to fan out a deck of cards.
-HUGO.srt 	HUGO_DVS235 	00:34:13,00 --> 00:34:21,50 	in the shop, someone looks up from his work at someone, who demonstrates dance steps for a group of girls.
 HUGO.srt 	HUGO_DVS677 	01:38:14,00 --> 01:38:19,50 	he demonstrates a sword thrust for one of the actors.
-KARATE_KID.srt 	KARATE_KID_DVS458 	00:40:47,00 --> 00:40:58,50 	on the stoop, someone demonstrates kung fu moves to his friends.
 KARATE_KID.srt 	KARATE_KID_DVS1060 	01:25:53,00 --> 01:26:10,50 	in the rain, the teacher demonstrates a squatting leg sweep.
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS136 	00:35:39,00 --> 00:35:44,50 	someone demonstrates a pinched pout.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS600 	01:05:42,00 --> 01:05:47,50 	later, someone demonstrates invisibility spray.

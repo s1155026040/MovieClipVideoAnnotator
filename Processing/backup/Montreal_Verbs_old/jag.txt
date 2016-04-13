@@ -1,0 +1,5 @@
+GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS120 	00:19:20,00 --> 00:19:28,50 	jagged pink scars mar his flesh.
+PROMETHEUS.srt 	PROMETHEUS_DVS252 	00:24:11,00 --> 00:24:18,50 	they pass jagged mountains peeking from thick mist as the sun shines through the clouds.
+PROMETHEUS.srt 	PROMETHEUS_DVS256 	00:24:27,00 --> 00:24:35,50 	we gaze down on the someone as it progresses past jagged blades of rock.
+PROMETHEUS.srt 	PROMETHEUS_DVS420 	00:42:33,00 --> 00:42:42,50 	as the storm engulfs us, jagged shards whip around then block out our view of the fleeing vehicles.
+SALT.srt 	SALT_DVS22 	00:03:52,00 --> 00:04:37,50 	jagged geometric pieces of the image separate from each other like shards of glass.

@@ -5,24 +5,15 @@
 30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS159 	00:41:56,00 --> 00:42:04,50 	now someone sprints across a bridge, crossing the river in his buttoned up green army jacket.
 30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS213 	00:52:13,00 --> 00:52:17,50 	they cross the street.
 30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS221 	00:53:48,00 --> 00:53:52,50 	they cross the street.
-30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS270 	01:04:24,00 --> 01:04:30,50 	leaning forward she spots men's shoes crossing the checkered floor.
 30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS298 	01:07:27,00 --> 01:07:34,50 	he searches a workbench, then crosses the room and ransacks a bookshelf.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS48 	00:03:37,00 --> 00:03:44,50 	he hangs up and crosses the street toward a colored blue-lit nightclub.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS433 	00:42:00,00 --> 00:42:07,50 	they cross a brief red-carpeted lobby.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS438 	00:42:15,00 --> 00:42:21,50 	the tall windows show a fog-enshrouded city outside,as they cross the room.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS529 	00:51:18,00 --> 00:51:26,50 	inside the hotel, someone and someone jump over the bar and cross the hazy room.
-A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS29 	00:07:38,00 --> 00:07:47,50 	inside an open sided pavilion chanting people wearing white clothing sit on the ground with their legs crossed and eyes closed.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS227 	00:44:13,00 --> 00:44:17,50 	he crosses his heart.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS315 	00:57:15,00 --> 00:57:19,50 	someone crosses his hands over his chest.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS108 	00:11:39,00 --> 00:11:46,50 	weakly clutching his bruised side, he crosses to a desk where he finds his journal.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS124 	00:14:20,00 --> 00:14:27,50 	crossing to a front door, someone puts on sunglasses.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS181 	00:24:35,00 --> 00:24:43,50 	he crosses the floor between two service counters quickening his pace as he nears the back.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS277 	00:39:39,00 --> 00:39:51,50 	an aerial view shows the herd crossing a riverside field.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS314 	00:45:43,00 --> 00:45:55,50 	as someone crosses to the dark haired woman, a dazed someone rises to his feet but struggles to maintain his balance.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS331 	00:47:24,00 --> 00:47:30,50 	now through a downpour, the tall, young man crosses a street.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS333 	00:47:36,00 --> 00:47:44,50 	he steps onto a curb and crosses a sidewalk heading for the general store.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS483 	01:07:50,00 --> 01:07:58,50 	someone crosses to his lifelong friend and drapes his jacket around his shoulders.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS549 	01:17:11,00 --> 01:17:17,50 	he crosses to it slowly taking out a key.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS621 	01:27:25,00 --> 01:27:35,50 	he tosses the rock and crosses to another crate.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS634 	01:29:31,00 --> 01:29:41,50 	emerging from thick smoke, he crosses the support structure and kicks out a beam.
 BAD_TEACHER.srt 	BAD_TEACHER_DVS187 	00:52:39,00 --> 00:52:46,50 	she crosses out fucking.
@@ -31,227 +22,134 @@ BLINDDATING.srt 	BLINDDATING_DVS267 	01:05:37,00 --> 01:05:47,50 	later, crossin
 BLINDDATING.srt 	BLINDDATING_DVS284 	01:11:03,00 --> 01:11:20,50 	a laser dot crosses an x-ray of someone's skull and dr.
 BLINDDATING.srt 	BLINDDATING_DVS322 	01:17:28,00 --> 01:17:36,50 	a hint of a smile crosses his lips.
 BLINDDATING.srt 	BLINDDATING_DVS337 	01:20:43,00 --> 01:20:49,50 	a little smile briefly crosses someone's lips.
-BRUNO.srt 	BRUNO_DVS217 	01:00:58,00 --> 01:01:11,50 	his legs crossed tightly, and his hands folded neatly on his knee, lowering his stare.
 BURLESQUE.srt 	BURLESQUE_DVS54 	00:05:18,00 --> 00:05:25,50 	the blonde enters another building, then exits and crosses off the ad in her paper.
-BURLESQUE.srt 	BURLESQUE_DVS147 	00:20:00,00 --> 00:20:06,50 	sitting on the edge of the stage, someone crosses her legs.
-BURLESQUE.srt 	BURLESQUE_DVS369 	00:51:10,00 --> 00:51:17,50 	he heads away, passing someone, who stares at someone, her arms crossed.
-BURLESQUE.srt 	BURLESQUE_DVS393 	00:54:24,00 --> 00:54:36,50 	facing the audience, she quickly spreads her knees, then crosses her legs.
-BURLESQUE.srt 	BURLESQUE_DVS553 	01:20:02,00 --> 01:20:09,50 	eyeing the daybed, she pauses briefly, then crosses to the french doors and opens them.
-BURLESQUE.srt 	BURLESQUE_DVS585 	01:26:59,00 --> 01:27:04,50 	she watches him cross back to the bedroom.
 BURLESQUE.srt 	BURLESQUE_DVS655 	01:41:18,00 --> 01:41:25,50 	inside someone crosses a dim hallway adorned with memorabilia.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS458 	00:44:32,00 --> 00:44:38,50 	at home, he crosses week two off his maverick's chart.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS503 	00:49:01,00 --> 00:49:05,50 	they sit quietly with arms crossed,
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS559 	00:53:55,00 --> 00:54:02,50 	later, he crosses week four off the chart and colors the breath-holding graph just under two minutes.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS746 	01:14:01,00 --> 01:14:08,50 	amid the envelopes, he finds one with his name scrawled in red ink beside someone's crossed out name.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS921 	01:30:12,00 --> 01:30:18,50 	crossing the room, he flips open the lid and dumps out its contents.
 CHRONICLE.srt 	CHRONICLE_DVS281 	00:43:16,00 --> 00:43:21,50 	someone starts to cross the stage with the cards.
 CHRONICLE.srt 	CHRONICLE_DVS290 	00:44:18,00 --> 00:44:24,50 	with small heel-toe steps, he crosses the rope nimbly.
-CHRONICLE.srt 	CHRONICLE_DVS324 	00:49:41,00 --> 00:49:46,50 	he watches a spider crossing in front of him.
-CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS60 	00:11:33,00 --> 00:11:45,50 	as one of its doors opens, someone crosses a dingy lot nearby where a crude tent sits near campfires.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS169 	00:36:06,00 --> 00:36:22,50 	in her sweater and scarf, someone crosses the snow to an alcove between buildings.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS189 	00:39:55,00 --> 00:40:03,50 	men and women in elegant attire carry wrapped presents as they cross from under an awning to a rolls royce.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS276 	01:06:50,00 --> 01:07:20,50 	someone crosses a carpet to a residential building's posh entry.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS323 	01:20:42,00 --> 01:21:11,50 	the bulldog grins, blood trickling from his mouth as he crosses the ring.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS374 	01:32:16,00 --> 01:32:22,50 	scowling, someone's manager watches mills cross the room.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS405 	01:38:03,00 --> 01:38:10,50 	winks as he crosses the room with a group of well-dressed friends.
-CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS409 	01:38:39,00 --> 01:38:49,50 	as his fighter crosses the room, someone gives someone a reassuring gesture.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS413 	01:40:23,00 --> 01:40:30,50 	a smile crosses his face.
-COLOMBIANA.srt 	COLOMBIANA_DVS246 	00:20:42,00 --> 00:20:49,50 	a trailways bus crosses a bridge and a bird's eye view follows it up a street.
-COLOMBIANA.srt 	COLOMBIANA_DVS284 	00:23:48,00 --> 00:23:54,50 	she gets out of bed, crosses to a window, and peers outside.
 COLOMBIANA.srt 	COLOMBIANA_DVS291 	00:24:16,00 --> 00:24:22,50 	she crosses to the girl and kneels before her.
-COLOMBIANA.srt 	COLOMBIANA_DVS413 	00:36:32,00 --> 00:36:39,50 	later in a men's room, the young someone sets the thermos on a sink and crosses to a urinal.
 COLOMBIANA.srt 	COLOMBIANA_DVS444 	00:39:15,00 --> 00:39:22,50 	crossing to the roof's edge, she leaps over and grabs onto a pipe just beneath the other side.
 COLOMBIANA.srt 	COLOMBIANA_DVS484 	00:42:58,00 --> 00:43:04,50 	she discreetly brushes her hair over her face as she crosses the polished floor.
-COLOMBIANA.srt 	COLOMBIANA_DVS509 	00:46:07,00 --> 00:46:15,50 	his boss exhales a plume of smoke as he crosses to a railing and gazes out over his grounds.
 COLOMBIANA.srt 	COLOMBIANA_DVS513 	00:46:42,00 --> 00:46:50,50 	she pauses, most of her hair tucked under a hat and her features disguised by large sunglasses pushing them up on her nose, she crosses the sunny atrium.
 COLOMBIANA.srt 	COLOMBIANA_DVS522 	00:47:12,00 --> 00:47:19,50 	she eats some with her hands as she crosses to a complex media console
-DEAR_JOHN.srt 	DEAR_JOHN_DVS198 	00:31:15,00 --> 00:31:33,50 	his father closes the oven door, crosses to an island counter and watches him.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS233 	00:36:12,00 --> 00:36:24,50 	at dusk, the platoon crosses the airfield and climbs the boarding steps of a cargo plane.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS296 	00:45:55,00 --> 00:46:24,50 	a horse-drawn cart, a woman on a bicycle, and a man on a scooter crosses path.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS337 	00:51:37,00 --> 00:51:47,50 	a stylish brunette woman in a white dress, crosses the front porch of a colonial plantation home, and greets arriving guests as she passes.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS392 	01:00:45,00 --> 01:00:51,50 	as the couple draws closer, a grin crosses someone's face.
 DISTRICT_9.srt 	DISTRICT_9_DVS285 	00:31:53,00 --> 00:32:13,50 	now he crosses the office floor.
 DISTRICT_9.srt 	DISTRICT_9_DVS548 	01:04:39,00 --> 01:04:44,50 	someone crosses a dirt road.
 DISTRICT_9.srt 	DISTRICT_9_DVS604 	01:11:04,00 --> 01:11:07,50 	they cross the lab.
-FLIGHT.srt 	FLIGHT_DVS591 	01:21:22,00 --> 01:21:27,50 	someone does not raise his hand, crosses his arms.
-FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS217 	00:57:48,00 --> 00:57:54,50 	she sets it down and crosses her home.
 FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS324 	01:26:30,00 --> 01:26:35,50 	at night, someone cries as she crosses a street.
 FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS391 	01:42:39,00 --> 01:42:46,50 	someone and someone cross the street to pershing square central cafe and have their date.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS41 	00:07:08,00 --> 00:07:14,50 	someone lets him go then crosses the grungy room.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS55 	00:09:50,00 --> 00:09:56,50 	now pedestrians cross a bustling town square.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS109 	00:17:47,00 --> 00:18:11,50 	our vision doubles as the thug's eyes cross and he sinks down.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS594 	01:25:29,00 --> 01:25:47,50 	in the light of a high bright sun, ghost rider crosses his arms over his chest.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS618 	01:27:42,00 --> 01:27:48,50 	someone crosses a protective arm over her son.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS25 	00:07:10,00 --> 00:07:14,50 	the warehouse and cross over to the alley.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS118 	00:28:27,00 --> 00:28:31,50 	the pickup crosses to a dirty
-GREEN_ZONE.srt 	GREEN_ZONE_DVS133 	00:30:39,00 --> 00:30:47,50 	they cross into a kitchen where the dead gunman lies on his back.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS348 	01:18:48,00 --> 01:19:14,50 	someone crosses another intersection, his gaze searching for a visual on the stranger.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS416 	01:32:14,00 --> 01:32:23,50 	the general and his aide cross a dim alcove and disappear through a bead curtain doorway.
 GROWN_UPS.srt 	GROWN_UPS_DVS76 	00:22:15,00 --> 00:22:21,50 	she crosses the porch.
 GROWN_UPS.srt 	GROWN_UPS_DVS206 	00:56:33,00 --> 00:56:39,50 	someone crosses to his beaming wife.
-HUGO.srt 	HUGO_DVS79 	00:10:27,00 --> 00:10:34,50 	the boy crosses to a small area in front of three large windows which has been swept clean.
-HUGO.srt 	HUGO_DVS107 	00:14:19,00 --> 00:14:27,50 	shivering against the cold, someone follows several paces behind the shopkeeper as he crosses a wide brick street.
-HUGO.srt 	HUGO_DVS124 	00:16:20,00 --> 00:16:25,50 	the girl stares at someone with her arms crossed.
 HUGO.srt 	HUGO_DVS437 	01:03:43,00 --> 01:03:49,50 	later, he crosses a cobble-stoned street near a statue of a lion.
-HUGO.srt 	HUGO_DVS604 	01:27:15,00 --> 01:27:22,50 	he steps through the arched gate and crosses a narrow street, where he meets rene someone.
 IN_TIME.srt 	IN_TIME_DVS99 	00:10:48,00 --> 00:10:58,50 	now, in a large abandoned space, someone shoves the stranger onto a leather bench, then crosses to a wall of dirty broken windows.
-IN_TIME.srt 	IN_TIME_DVS938 	01:38:57,00 --> 01:39:04,50 	a look of realization crosses his face and he shifts his worried eyes.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS48 	00:13:06,00 --> 00:13:19,50 	a brunette woman clad in pastels acknowledges a valet as she crosses toward a lone figure at a full-length window.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS336 	01:37:35,00 --> 01:37:41,50 	cross the alcove to the safety deposit room.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS368 	01:46:43,00 --> 01:46:59,50 	now, he descends a half moon spiral staircase, crossing a floors elevator lobby to another flight.
-INSIDE_MAN.srt 	INSIDE_MAN_DVS398 	01:53:37,00 --> 01:53:50,50 	someone heads up toward the first floor, crossing paths with the woman.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS635 	01:47:48,00 --> 01:47:56,50 	someone crosses his wrists and fires a repulsor beam which swivels, hits the remaining drones, and slices a tree in half.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS41 	00:10:22,00 --> 00:10:30,50 	in a doctor's examining room, someone crosses her jittery legs.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS55 	00:16:08,00 --> 00:16:12,50 	later, they cross the hotel lobby.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS204 	01:01:23,00 --> 01:01:30,50 	he dashes away, hiding his face with his hand he crosses toward the reception desk.
-ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS239 	01:08:51,00 --> 01:09:05,50 	her legs crossed, she idly bounces her foot, and stares off.
-ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS366 	01:42:48,00 --> 01:43:02,50 	she stares up at the night sky with her hands crossed protectively over her chest.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS379 	01:46:28,00 --> 01:46:38,50 	now at someone's architecture firm, someone enters and crosses the bustling floor to someone's office.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS393 	01:50:01,00 --> 01:50:07,50 	someone crosses the walkway, sets down her purse,
-JACK_AND_JILL.srt 	JACK_AND_JILL_DVS344 	01:06:13,00 --> 01:06:19,50 	crossing the room, someone looks again at the balding man twice.
-JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS488 	01:34:10,00 --> 01:34:18,50 	she slows down as she approaches the apartment, and notices someone crossing the street toward her.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS495 	01:34:46,00 --> 01:34:52,50 	now, someone and someone cross a train station.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS499 	01:36:23,00 --> 01:36:29,50 	with open arms, the two cross the floor and embrace.
 JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS103 	00:38:37,00 --> 00:38:45,50 	in slow motion, someone, someone and the kids try to cross the parking lot.
 JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS134 	00:47:56,00 --> 00:48:15,50 	someone and someone check her out as they cross the sand.
 JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS150 	00:57:22,00 --> 00:57:29,50 	now as all six of them cross a rope bridge, a family of four spots them from below.
-JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS291 	01:34:54,00 --> 01:35:02,50 	now someone steps off of an elevator and crosses a hallway, with his hand shoved in his pockets.
-KARATE_KID.srt 	KARATE_KID_DVS322 	00:28:55,00 --> 00:29:02,50 	someone crosses to a window separating the lobby from the house, pulls a curtain aside, and peers through.
 KARATE_KID.srt 	KARATE_KID_DVS503 	00:45:04,00 --> 00:45:10,50 	someone waits in a fighting stance, his wrists crossed in an x shape.
 KARATE_KID.srt 	KARATE_KID_DVS929 	01:16:11,00 --> 01:16:22,50 	the taxi crosses a lofty stone bridge spanning the tranquil river.
-LAND_OF_THE_LOST.srt 	LAND_OF_THE_LOST_DVS148 	00:53:44,00 --> 00:53:53,50 	someone crosses to someone, who sits forlornly on his own.
-LARRY_CROWNE.srt 	LARRY_CROWNE_DVS226 	00:51:22,00 --> 00:51:31,50 	she puts down a box then crosses to her desk at the back of the room.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS149 	00:19:05,00 --> 00:19:11,50 	someone crosses himself and prays as his family begins dining.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS187 	00:24:56,00 --> 00:25:04,50 	someone crosses his arms and stares ahead as selvam spins the metal wheel.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS640 	01:08:51,00 --> 01:08:59,50 	he keeps hold of it with a rope as he crosses back to someone's side and puts the whistle to his lips.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS71 	00:11:04,00 --> 00:11:09,50 	someone sits and crosses his legs.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS305 	00:39:19,00 --> 00:39:27,50 	crossing a row of street vendors he notices a five foot tall stuffed penguin standing at the end.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS313 	00:40:28,00 --> 00:40:35,50 	outside the penguins cross a wet sidewalk bordered by mounds of snow.
-MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS415 	00:48:21,00 --> 00:48:27,50 	as someone crosses the room, the penguins follow.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS433 	00:51:02,00 --> 00:51:10,50 	someone crosses to the living room where the penguins gather around a scattering of stones from a hearth.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS530 	01:03:30,00 --> 01:03:37,50 	he brushes some snow off a couch and sits, crossing his legs casually.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS676 	01:24:01,00 --> 01:24:07,50 	someone gins as he crosses his path with a pitcher of water.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS313 	01:08:38,00 --> 01:08:51,50 	with his arms crossed at his back, he regards the boys frankly.
-NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS403 	01:24:41,00 --> 01:24:51,50 	in the house without a chair, someone balances on one foot, crosses the other over as if sitting, and props an elbow on his crooked knee.
-PROMETHEUS.srt 	PROMETHEUS_DVS303 	00:29:53,00 --> 00:29:58,50 	crossing the threshold, they head down the slope.
 PROMETHEUS.srt 	PROMETHEUS_DVS620 	01:08:07,00 --> 01:08:12,50 	crossing the mist enshrouded floor, someone arrives at another code panel.
 PROMETHEUS.srt 	PROMETHEUS_DVS866 	01:35:14,00 --> 01:35:18,50 	someone crosses the room.
 PROMETHEUS.srt 	PROMETHEUS_DVS881 	01:37:45,00 --> 01:37:48,50 	crosses the disc.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS19 	00:02:46,00 --> 00:03:13,50 	crossing between two rows of workbenches, the sandy-haired man drops a load of shirts.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS28 	00:04:36,00 --> 00:04:46,50 	outside, someone leaves the metal gate behind and crosses the open ground toward the sedan.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS70 	00:11:57,00 --> 00:12:08,50 	as he crosses to the house, someone tosses a set of keys to someone who joins someone to see the new car.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS110 	00:18:52,00 --> 00:18:56,50 	they cross an fbi bullpen.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS318 	01:01:17,00 --> 01:01:27,50 	carrying a mop and bucket, he crosses a hallway and waits for another guard to open the door.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS434 	01:22:56,00 --> 01:23:09,50 	armed with their rifles and sub machine guns, the g-men cross the shadowy woods.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS508 	01:36:19,00 --> 01:36:47,50 	someone crosses the roomy rundown apartment then doubles back to a door.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS559 	01:44:35,00 --> 01:44:40,50 	he crosses to her and grabs her chin again.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS604 	01:53:37,00 --> 01:53:45,50 	he crosses the room.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS609 	01:54:36,00 --> 01:54:43,50 	now, someone crosses the field office to someone who sits on a desk.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS620 	01:56:33,00 --> 01:56:50,50 	on another floor, someone crosses a hall to a door bearing the words detective bureau someone squad.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS623 	01:57:05,00 --> 01:57:12,50 	he crosses to a desk and halts briefly by a secretary busy typing.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS625 	01:57:18,00 --> 01:58:13,50 	a smile crosses someone's lips as he passes through a brilliant shot of sunlight.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS625 	01:57:18,00 --> 01:58:13,50 	now, he crosses to a bulletin board showing mugshots of someone.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS391 	01:36:55,00 --> 01:37:10,50 	the intricately carved stone cross stands unharmed in the deserted village center.
-RUBY_SPARKS.srt 	RUBY_SPARKS_DVS46 	00:07:50,00 --> 00:07:59,50 	as a crowd crosses the other end, he turns back and walks in the opposite direction.
-RUBY_SPARKS.srt 	RUBY_SPARKS_DVS429 	01:06:06,00 --> 01:06:13,50 	crossing the street, someone lets go of someone's hand to answer his phone.
-RUBY_SPARKS.srt 	RUBY_SPARKS_DVS513 	01:20:31,00 --> 01:20:40,50 	she watches him cross the upper floor then lowers her frustrated gaze and feels her brow with both hands.
-RUBY_SPARKS.srt 	RUBY_SPARKS_DVS531 	01:22:18,00 --> 01:22:27,50 	someone glances aside then crosses to the desk and takes the page from his hand.
-RUBY_SPARKS.srt 	RUBY_SPARKS_DVS547 	01:24:45,00 --> 01:24:50,50 	someone crosses to the desk and looks at the page.
-RUBY_SPARKS.srt 	RUBY_SPARKS_DVS589 	01:27:48,00 --> 01:27:54,50 	finding her ankles crossed over the hardwood floor.
-SALT.srt 	SALT_DVS170 	00:29:08,00 --> 00:29:16,50 	she grabs an air conditioning unit and crosses to its other side.
-SALT.srt 	SALT_DVS254 	00:43:39,00 --> 00:44:13,50 	someone crosses to a window, pulls the drapes aside a few inches and peers out.
 SALT.srt 	SALT_DVS310 	00:54:38,00 --> 00:54:53,50 	later, it crosses the 59th street bridge.
 SANCTUM.srt 	SANCTUM_DVS292 	00:59:03,00 --> 00:59:13,50 	now, we drift over a rippling subterranean pond as the group crosses a cavern as big as a covered stadium.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS107 	00:07:24,00 --> 00:07:31,50 	leaving the turntable, she starts to cross the tastefully decorated room.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS675 	00:44:11,00 --> 00:44:19,50 	she crosses to him, shuffling past a mantle adorned with framed pictures and an ornamental clock.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS708 	00:46:22,00 --> 00:46:29,50 	now at school, they cross the hallway with other students.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS767 	00:51:13,00 --> 00:51:20,50 	now, someone crosses a courtyard to a wooden mailbox on a wall.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS853 	00:56:40,00 --> 00:56:45,50 	her other arm crosses her chest, she gathers the blanket up close to her chin.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1021 	01:06:43,00 --> 01:06:49,50 	someone crosses to someone's door, opens it, and passes through.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1057 	01:10:53,00 --> 01:11:01,50 	as an amused someone and sebastian watch from their distant table, someone crosses the dance floor.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1307 	01:30:17,00 --> 01:30:23,50 	she crosses a waiting area and approaches a front desk.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS174 	00:34:08,00 --> 00:34:21,50 	meanwhile, someone crosses the curio shop.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS390 	01:22:06,00 --> 01:22:10,50 	as he crosses a black persian carpet.
 SOUL_SURFER.srt 	SOUL_SURFER_DVS63 	00:23:38,00 --> 00:23:42,50 	descend on the others as they cross.
 SOUL_SURFER.srt 	SOUL_SURFER_DVS123 	00:40:05,00 --> 00:40:09,50 	that, crossing to one of her surf.
-SPARKLE_2012.srt 	SPARKLE_2012_DVS172 	00:28:59,00 --> 00:29:07,50 	now a girl wearing knee-high boots and a mini-dress crosses a busy street and enters a record store.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS210 	00:33:31,00 --> 00:33:40,50 	someone crosses the room, smoking a cigarette.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS241 	00:37:39,00 --> 00:37:46,50 	they cross their wrists over their chest, then freeze with them crossed at an angle overhead.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS241 	00:37:39,00 --> 00:37:46,50 	they cross their wrists over their chest, then freeze with them crossed at an angle overhead.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS251 	00:39:16,00 --> 00:39:24,50 	now the club owner crosses the floor and greets the comedian as he and someone arrive on another night.
-SPARKLE_2012.srt 	SPARKLE_2012_DVS540 	01:29:15,00 --> 01:29:20,50 	she crosses to a window and looks outside.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS549 	01:30:23,00 --> 01:30:30,50 	arriving at columbia records, she crosses to the desk of the blonde haired receptionist.
-SPARKLE_2012.srt 	SPARKLE_2012_DVS564 	01:32:55,00 --> 01:33:00,50 	someone crosses the lobby and faces someone.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS711 	01:34:48,00 --> 01:34:55,50 	later, gulls cross a blue sky as wind ruffles snowy's fur and blows someone's hair.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS69 	00:15:42,00 --> 00:15:56,50 	now he crosses the lunchroom where someone sits with her two friends, a dark haired girl and a preppy guy.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS171 	00:34:50,00 --> 00:34:58,50 	crossing the street, someone picks up her pace as she finds her lost friend.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS203 	00:38:45,00 --> 00:39:04,50 	slowing his pace, he watches his stepfather grab a newspaper off the top of a trash can then cross the street.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS103 	00:20:21,00 --> 00:20:27,50 	now, on her cell, she crosses the verrazano-narrows bridge.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS106 	00:21:11,00 --> 00:21:22,50 	later, the baby blue ragtop crosses the bridge.
 THE_CALL.srt 	THE_CALL_DVS923 	01:10:51,00 --> 01:10:59,50 	in it, the lively teen poses on her belly, chin in her hands and ankles crossed up behind her.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS332 	00:51:07,00 --> 00:51:12,50 	she grabs it from him and crosses the room.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS347 	00:53:38,00 --> 00:53:43,50 	that evening, he crosses the driveway.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS751 	01:44:50,00 --> 01:44:55,50 	someone crosses the hallway toward her family.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS757 	01:45:08,00 --> 01:45:15,50 	he kisses her temple, then stands aside as she crosses to someone.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS183 	00:23:34,00 --> 00:23:41,50 	now, pedestrians cross paths outside someone's apartment building.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS218 	00:26:28,00 --> 00:26:36,50 	attempting another call, he crosses to a bedroom where pillows and folded towels lie stacked at the foot of the bed.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS219 	00:26:36,00 --> 00:26:44,50 	someone looks over his shoulder then crosses to a window where a tabby waits on the sill in the cold.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS253 	00:29:42,00 --> 00:29:47,50 	under falling snow they cross the front yard.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS258 	00:31:22,00 --> 00:31:34,50 	now in the cottage, someone crosses the living room to a family tree he's created on a wall, and attaches current photos of someone and someone besides various sticky notes.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS259 	00:31:31,00 --> 00:31:36,50 	he crosses to a map on another wall
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS317 	00:38:43,00 --> 00:38:47,50 	they cross the chic and minimalist home.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS654 	01:11:19,00 --> 01:11:26,50 	he crosses to a windowsill as the cat watches him from a chair.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS714 	01:19:57,00 --> 01:20:08,50 	now a taxi crosses the bridge back to the island.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1031 	01:50:50,00 --> 01:50:57,50 	it crosses the bridge into hedestad.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1107 	01:55:45,00 --> 01:55:53,50 	someone crosses to the island counter.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1147 	02:01:12,00 --> 02:01:20,50 	she crosses to his laptop and finds the photograph of young someone among the search party,
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1151 	02:01:24,00 --> 02:01:29,50 	she looks up from the laptop then crosses the room,
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1191 	02:06:54,00 --> 02:07:01,50 	with her gun at the ready, someone crosses the kitchen in search of the someone.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1257 	02:12:18,00 --> 02:12:25,50 	they cross the street with their hands in their pockets and climb into the van.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1262 	02:12:39,00 --> 02:12:45,50 	someone crosses the street and walks up to the front door.
-THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS258 	01:26:58,00 --> 01:27:05,50 	outside, someone holds on to her son's arm, as they cross the street and head toward their car.
 THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS156 	00:54:44,00 --> 00:54:50,50 	seat at the table and crosses her legs.
 THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS293 	01:48:22,00 --> 01:48:28,50 	he crosses a room on the other side.
 THE_VOW.srt 	THE_VOW_DVS343 	00:46:33,00 --> 00:46:43,50 	riding on board, someone glances out her window, as her train crosses an intersecting rail line.
-THE_WATCH.srt 	THE_WATCH_DVS25 	00:04:25,00 --> 00:04:30,50 	crossing the store, he slides to a stop.
-THE_WATCH.srt 	THE_WATCH_DVS38 	00:05:17,00 --> 00:05:23,50 	he crosses to a circuit breaker panel and opens its door.
-THE_WATCH.srt 	THE_WATCH_DVS125 	00:21:14,00 --> 00:21:19,50 	someone watches his new neighbor cross the street.
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS53 	00:13:16,00 --> 00:13:28,50 	the successful business woman crosses paths with her and rolls her eyes.
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS357 	01:28:08,00 --> 01:28:14,50 	as she embraces her, a horrified look crosses his face.
-THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS98 	00:15:20,00 --> 00:15:26,50 	crossing the office, he glances over her outfit.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS178 	00:32:43,00 --> 00:32:55,50 	outside, as someone crosses the street, someone catches up.
-THOR.srt 	THOR_DVS336 	00:50:01,00 --> 00:50:09,50 	he crosses the room and selects a book from a cart, then puts it down and opens a thicker volume beside it.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS186 	00:24:49,00 --> 00:24:54,50 	he crosses his arms and feels his back for wings.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS775 	01:23:25,00 --> 01:23:29,50 	and crosses to the bed.
 TRUE_GRIT.srt 	TRUE_GRIT_DVS351 	01:12:13,00 --> 01:12:17,50 	they cross a river.
-TRUE_GRIT.srt 	TRUE_GRIT_DVS389 	01:18:48,00 --> 01:18:57,50 	she passes between slender leafless trees crossing the snow dappled ground to the edge of a shallow, fast moving river.
 TRUE_GRIT.srt 	TRUE_GRIT_DVS464 	01:31:03,00 --> 01:31:08,50 	someone and someone each fire as they cross paths.
-UGLY_TRUTH.srt 	UGLY_TRUTH_DVS230 	00:21:33,00 --> 00:21:40,50 	someone closes his eyes and crosses himself, then takes off his jacket.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS387 	00:46:18,00 --> 00:46:25,50 	as someone crosses off items on a list, someone spies someone's nephew.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS399 	00:48:26,00 --> 00:48:31,50 	they cross the set to a coffee station.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS444 	00:54:01,00 --> 00:54:08,50 	under the table, someone crosses her legs.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS54 	00:10:18,00 --> 00:10:29,50 	turning thoughtfully to his son, someone sees him leaning against the bank of lockers with his arms crossed.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS165 	00:28:38,00 --> 00:28:49,50 	we glimpse a binturong crossing a branch, a fox lying in tall grass, one parrot grooming another, a camel licking its 	mouth, and a grizzly bear.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS449 	01:10:21,00 --> 01:10:36,50 	later, the hand crosses off june 10th.
-WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS409 	00:58:07,00 --> 00:58:13,50 	he watches her cross the living room and approach the urban scene.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS571 	01:18:39,00 --> 01:18:43,50 	she crosses her finger
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS695 	01:34:50,00 --> 01:34:56,50 	driving, someone crosses a third wedding off her list.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS703 	01:35:22,00 --> 01:35:28,50 	driving again, she violently crosses another wedding off her list.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS52 	00:04:31,00 --> 00:04:36,50 	the owner crosses to a desk.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS232 	00:17:43,00 --> 00:17:48,50 	the agent crosses the floor.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS441 	00:38:59,00 --> 00:39:05,50 	someone crosses to a large hard case sitting on a desk.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS452 	00:39:48,00 --> 00:39:54,50 	she takes the glass and crosses the stylish room to a hatch.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS836 	01:16:45,00 --> 01:16:52,50 	sitting on the window's ledge, someone crosses himself, then spreads his wings.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS970 	01:29:08,00 --> 01:29:14,50 	he crosses the room.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1040 	01:34:12,00 --> 01:34:22,50 	meanwhile on a russian battleship, the captain lowers a pair of binoculars, then crosses to a radioman, who shakes his head.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1055 	01:35:09,00 --> 01:35:19,50 	do not cross the line.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1067 	01:36:34,00 --> 01:36:42,50 	with wide eyes, he crosses the bridge, pushes a fellow officer out of his way, and presses a button.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1142 	01:42:13,00 --> 01:42:25,50 	someone peers at the someone, who twirls, engulfing himself in a cyclone, which grows tremendously in size and crosses onto the surface of the sea.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1161 	01:43:33,00 --> 01:43:38,50 	someone crosses the cabin.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1176 	01:45:07,00 --> 01:45:15,50 	someone crosses the submarine and reaches a control panel.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1188 	01:46:00,00 --> 01:46:06,50 	in the submarine, someone crosses the office.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1258 	01:53:41,00 --> 01:53:47,50 	crossing the beach, someone, someone, and someone all face the distant fleet.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1316 	01:59:22,00 --> 01:59:30,50 	as someone crosses the beach, she glances at someone and someone, then sets her gaze on someone.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS543 	01:03:43,00 --> 01:03:48,50 	at dusk, the hummer crosses a vast parking lot.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS565 	01:06:06,00 --> 01:06:14,50 	now zombies cross the play land parking lot, but the girls remain oblivious.
 ZOOKEEPER.srt 	ZOOKEEPER_DVS157 	00:35:29,00 --> 00:35:35,50 	the wolf crosses to a nearby fence, averting his gaze.

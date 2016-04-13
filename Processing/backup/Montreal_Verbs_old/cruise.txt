@@ -1,0 +1,12 @@
+30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS80 	00:21:00,00 --> 00:21:06,50 	he taps his steering wheel with his thumb as he cruises an empty street.
+A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS665 	01:08:25,00 --> 01:08:35,50 	now, a massive cylindrical tank in a steel cage with wheels, hangs beneath the helicopter as it cruises toward the sprawling facility.
+BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS65 	00:10:41,00 --> 00:10:46,50 	someone's suv cruises down a quiet road,
+FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS276 	01:11:00,00 --> 01:11:07,50 	the two riders cruise by floating kelp.
+GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS337 	00:50:59,00 --> 00:51:12,50 	the tow truck cruises past.
+GREEN_ZONE.srt 	GREEN_ZONE_DVS116 	00:28:09,00 --> 00:28:14,50 	a car cruises down a street followed by the white truck.
+THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS269 	00:32:02,00 --> 00:32:07,50 	the patrol boat cruises along the coast.
+THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1199 	02:07:27,00 --> 02:07:32,50 	the suv cruises a forest road.
+THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS207 	01:24:31,00 --> 01:24:41,50 	white tents line the shore and varied boats cruise the river passing under an arched bridge.
+WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS99 	00:16:13,00 --> 00:16:20,50 	now, someone lifts the camera as they cruise past a tudor-style house.
+WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS704 	01:35:27,00 --> 01:35:31,50 	she cruises across a truss bridge.
+ZOOKEEPER.srt 	ZOOKEEPER_DVS394 	01:28:13,00 --> 01:28:18,50 	later, it cruises down a residential street.

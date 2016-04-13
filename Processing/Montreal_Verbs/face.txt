@@ -20,34 +20,25 @@
 40_YEAR_OLD_VIRGIN.srt 	40_YEAR_OLD_VIRGIN_DVS176 	01:25:36,00 --> 01:25:41,50 	woman faces a group of teenagers and their parents.
 40_YEAR_OLD_VIRGIN.srt 	40_YEAR_OLD_VIRGIN_DVS205 	01:41:24,00 --> 01:41:30,50 	with soaps in her arms and faces someone.
 500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS160 	00:29:25,00 --> 00:29:29,50 	they face each other on the bed.
-500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS290 	00:53:34,00 --> 00:53:39,50 	he turns around to face a mime in a top hat
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS63 	00:04:36,00 --> 00:04:40,50 	the young man faces the man in the booth.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS79 	00:05:18,00 --> 00:05:23,50 	someone faces a man with a badge around his neck.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS153 	00:14:18,00 --> 00:14:23,50 	the judge faces a soldier.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS168 	00:15:17,00 --> 00:15:24,50 	the prisoners simultaneously sit in their adjacent glass cells, and someone faces someone.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS170 	00:15:25,00 --> 00:15:30,50 	the old man averts his gaze and faces the courtroom.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS192 	00:17:01,00 --> 00:17:06,50 	someone leaps a half wall and faces someone.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS361 	00:32:48,00 --> 00:32:54,50 	pausing, someone faces someone who wears a solemn gaze.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS364 	00:33:31,00 --> 00:33:37,50 	someone takes a deep breath then faces.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS375 	00:34:28,00 --> 00:34:33,50 	someone faces his own reflection in a mirrored cabinet.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS424 	00:41:16,00 --> 00:41:28,50 	someone faces someone, who lifts his brow sheepishly.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS444 	00:42:48,00 --> 00:42:53,50 	with a crooked smirk, someone faces the russian.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS449 	00:43:22,00 --> 00:43:26,50 	his eyes wide, someone turns his head to face his father.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS458 	00:44:28,00 --> 00:44:35,50 	someone faces him distractedly, then nods.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS471 	00:45:46,00 --> 00:45:52,50 	facing someone and the americans, someone munches a carrot.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS476 	00:46:22,00 --> 00:46:30,50 	with a clenched jaw, someone faces someone who glares out at him from behind her father's shoulder.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS484 	00:47:06,00 --> 00:47:12,50 	as someone leaves with someone, someone faces someone and someone.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS533 	00:51:44,00 --> 00:51:51,50 	at an open side of the chopper, someone and someone sit facing out.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS571 	00:55:54,00 --> 00:56:00,50 	someone stares thoughtfully ahead, his young face caked with blood.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS606 	01:02:23,00 --> 01:02:30,50 	as they inspect the area with their flashlights, he faces a wall of safety deposit boxes.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS716 	01:12:29,00 --> 01:12:36,50 	moving forward, they approach two masked guards, both facing the roof's edge.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS767 	01:15:52,00 --> 01:15:58,50 	the russian freezes, then turns to face someone and someone.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS785 	01:18:30,00 --> 01:18:34,50 	he faces someone.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS845 	01:23:40,00 --> 01:23:44,50 	the chopper turns to face the roof.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS936 	01:30:54,00 --> 01:31:00,50 	facing his sister, the young agent gives a broad smile.
-A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS50 	00:15:11,00 --> 00:15:16,50 	someone looks away, shakes his head then faces his mother.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS476 	01:21:42,00 --> 01:21:48,50 	at the cemetery someone lies face down and motionless.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS95 	00:10:34,00 --> 00:10:39,50 	as he turns, someone faces him.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS159 	00:20:38,00 --> 00:20:49,50 	finding himself in a well-kept general store, he faces the owner who puts on a smile.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS161 	00:21:22,00 --> 00:21:34,50 	he faces the window thoughtfully.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS172 	00:23:21,00 --> 00:23:28,50 	douglas faces him and his condescending smile fades.
@@ -57,15 +48,11 @@ ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS262 	00:38
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS279 	00:39:58,00 --> 00:40:22,50 	he rolls to a stop and stands up to find himself facing the oncoming stampede.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS319 	00:46:09,00 --> 00:46:14,50 	trembling, face down, someone watches his dead love.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS411 	00:59:10,00 --> 00:59:17,50 	later, the raft arrives at a shore facing a stately brick church.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS469 	01:06:44,00 --> 01:06:49,50 	someone turns and faces him questioningly.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS514 	01:12:25,00 --> 01:12:36,50 	the thin soldier faces his general.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS532 	01:15:32,00 --> 01:15:42,50 	someone faces his old friend who looks down with a thoughtful gaze.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS538 	01:16:10,00 --> 01:16:15,50 	she rolls her head to face him.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS570 	01:19:33,00 --> 01:19:50,50 	facing them, ms. tubman stays someone who draws up her cloaks hood.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS591 	01:21:44,00 --> 01:21:53,50 	someone slides it shut then turns to face another shuttered hatch.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS615 	01:26:38,00 --> 01:26:52,50 	he kicks off the passing rock wall and lands facing his rival.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS658 	01:33:02,00 --> 01:33:09,50 	someone comes out of hiding and faces her squarely standing about ten yards away.
-BAD_TEACHER.srt 	BAD_TEACHER_DVS311 	01:24:08,00 --> 01:24:15,50 	he turns his back to her, closes his eyes for a moment, then faces her again.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS188 	00:31:51,00 --> 00:31:56,50 	someone faces someone and crouches.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS353 	00:57:39,00 --> 00:57:46,50 	facing a full-length mirror, someone gawks at someone's reflection as she pulls off her pants.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS390 	01:03:13,00 --> 01:03:17,50 	someone faces him.
@@ -79,14 +66,11 @@ BLINDDATING.srt 	BLINDDATING_DVS64 	00:19:39,00 --> 00:19:44,50 	someone with pl
 BLINDDATING.srt 	BLINDDATING_DVS87 	00:25:49,00 --> 00:26:00,50 	as he faces forward, the grin fades and his eyes widen tensely.
 BLINDDATING.srt 	BLINDDATING_DVS140 	00:38:39,00 --> 00:38:46,50 	they stop and face each other.
 BLINDDATING.srt 	BLINDDATING_DVS147 	00:39:27,00 --> 00:39:32,50 	comes out from under his limo and faces someone.
-BLINDDATING.srt 	BLINDDATING_DVS211 	00:52:45,00 --> 00:52:54,50 	someone holds it up and faces it critically.
 BLINDDATING.srt 	BLINDDATING_DVS235 	00:57:30,00 --> 00:57:38,50 	someone faces straight ahead, as his date's smile fades, he faces her.
 BLINDDATING.srt 	BLINDDATING_DVS235 	00:57:30,00 --> 00:57:38,50 	someone faces straight ahead, as his date's smile fades, he faces her.
-BLINDDATING.srt 	BLINDDATING_DVS271 	01:06:19,00 --> 01:06:31,50 	someone sits first and faces forward.
 BLINDDATING.srt 	BLINDDATING_DVS275 	01:07:58,00 --> 01:08:04,50 	his gaze stays facing forward.
 BRUNO.srt 	BRUNO_DVS52 	00:10:13,00 --> 00:10:31,50 	he jumps around to face the agent.
 BRUNO.srt 	BRUNO_DVS97 	00:21:57,00 --> 00:22:01,50 	someone squats facing someone.
-BRUNO.srt 	BRUNO_DVS115 	00:25:43,00 --> 00:26:13,50 	he pretends to turn someone back to face him, and simulates oral sex, moving his head up and down.
 BRUNO.srt 	BRUNO_DVS193 	00:50:24,00 --> 00:50:31,50 	now, in alabama, someone faces pastor someone trautwein, gay converter.
 BRUNO.srt 	BRUNO_DVS194 	00:52:01,00 --> 00:52:10,50 	he faces someone shirley, martial arts master - a stocky man with a mullet.
 BURLESQUE.srt 	BURLESQUE_DVS81 	00:07:38,00 --> 00:07:44,50 	behind them, a woman with dark curly hair and high cheek bones faces us.
@@ -99,13 +83,9 @@ BURLESQUE.srt 	BURLESQUE_DVS511 	01:10:39,00 --> 01:10:43,50 	coco faces someone
 BURLESQUE.srt 	BURLESQUE_DVS572 	01:25:10,00 --> 01:25:15,50 	they face each other on the dance floor.
 BURLESQUE.srt 	BURLESQUE_DVS610 	01:29:10,00 --> 01:29:15,50 	facing each other, someone runs his fingers through her hair.
 BURLESQUE.srt 	BURLESQUE_DVS684 	01:45:33,00 --> 01:45:38,50 	someone swivels her stool to face the same direction.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS37 	00:04:51,00 --> 00:04:58,50 	the soldiers stop pushing and turned to face the nazi officer as he strides into the tower.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS159 	00:29:09,00 --> 00:29:13,50 	someone stops and turns to face someone.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS170 	00:31:23,00 --> 00:31:30,50 	someone and someone walk into a backroom and face a bookcase which swings open,
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS231 	00:40:21,00 --> 00:40:27,50 	he hurtles himself off the truck and lands face down on the roof of the taxicab.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS249 	00:43:39,00 --> 00:43:45,50 	someone stops and slowly turns to face the other men.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS257 	00:45:38,00 --> 00:45:45,50 	as nearby guards raise both of their fists in salute, someone faces dr.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS309 	00:58:44,00 --> 00:58:55,50 	hydra soldiers turn to face him.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS311 	00:59:11,00 --> 00:59:21,50 	the truck backs up to a loading dock where an armed soldier lifts the tarp and peers inside to face the captain america shield.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS435 	01:18:50,00 --> 01:18:55,50 	smiling, someone faces someone.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS45 	00:03:12,00 --> 00:03:19,50 	a shaggy haired man with the same colored beard lays the boy, face first, on his surfboard.
@@ -114,13 +94,10 @@ CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS168 	00:13:17,00 --> 00:13:21,50 	th
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS267 	00:20:35,00 --> 00:20:42,50 	the older surfer faces a cresting wave that towers stories above him.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS291 	00:22:27,00 --> 00:22:32,50 	someone shifts his gaze and gulps, then faces him.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS368 	00:34:46,00 --> 00:34:51,50 	someone shakes his head and faces the sea.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS380 	00:35:54,00 --> 00:35:59,50 	someone turns to face her, his gaze receptive.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS477 	00:45:57,00 --> 00:46:01,50 	holding a half-eaten chicken leg, someone faces her and smiles.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS571 	00:55:20,00 --> 00:55:28,50 	paddling on a surfboard, the scowling boy faces a wave, bites his lip, and picks up his pace.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS615 	00:59:05,00 --> 00:59:11,50 	someone rolls his eyes and faces someone whose smile vanishes.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS632 	01:00:53,00 --> 01:00:59,50 	someone faces his mentor with wide eyes and finds him beaming.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS640 	01:02:11,00 --> 01:02:16,50 	facing someone, he jerks his thumb upward.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS648 	01:02:29,00 --> 01:02:35,50 	noticing someone's rising panic, someone turns the boy to face him and gives calming gestures.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS655 	01:02:58,00 --> 01:03:05,50 	climbing on board, someone removes his mask and faces his breathless protege.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS689 	01:07:13,00 --> 01:07:18,50 	facing her, someone smiles and shrugs it off.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS717 	01:11:34,00 --> 01:11:41,50 	facing forward, someone spies someone hiking up from the water with a fishing pole in one hand and a huge fish in the other.
@@ -133,23 +110,18 @@ CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS806 	01:19:37,00 --> 01:19:46,50 	in
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS834 	01:22:34,00 --> 01:22:40,50 	he faces his protege with a surprised delighted smile.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS876 	01:25:21,00 --> 01:25:25,50 	a square faced man greets them.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS893 	01:27:20,00 --> 01:27:27,50 	as a giant wave rolls over the teen, a surfing buddy with longer hair faces someone solemnly.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS961 	01:34:29,00 --> 01:34:36,50 	someone takes in the roiling foamy waters crashing the bone yard then faces someone.
 CHRONICLE.srt 	CHRONICLE_DVS35 	00:04:13,00 --> 00:04:20,50 	now, a dark-haired cheerleader marches over and faces him from a lower railing.
 CHRONICLE.srt 	CHRONICLE_DVS162 	00:24:29,00 --> 00:24:36,50 	facing the parked car, someone telekinetically drags it out of its spot.
-CHRONICLE.srt 	CHRONICLE_DVS163 	00:24:36,00 --> 00:24:41,50 	he turns it around to face a different space.
-CHRONICLE.srt 	CHRONICLE_DVS191 	00:28:29,00 --> 00:28:35,50 	as someone faces someone, someone turns away.
 CHRONICLE.srt 	CHRONICLE_DVS197 	00:28:59,00 --> 00:29:03,50 	he faces someone.
 CHRONICLE.srt 	CHRONICLE_DVS265 	00:40:41,00 --> 00:40:47,50 	facing the tired man, we spy empty beer bottles beside him.
 CHRONICLE.srt 	CHRONICLE_DVS280 	00:43:05,00 --> 00:43:18,50 	he gives a shy wave, then fumbles in his jacket pocket, produces a deck of playing cards, and faces someone.
 CHRONICLE.srt 	CHRONICLE_DVS314 	00:46:58,00 --> 00:47:03,50 	later, someone faces our view.
 CHRONICLE.srt 	CHRONICLE_DVS483 	01:09:29,00 --> 01:09:37,50 	they hover around him in the helicopter's spotlights as he spreads his arms and faces his cousin.
 CHRONICLE.srt 	CHRONICLE_DVS513 	01:13:18,00 --> 01:13:25,50 	both lie face down on the stone tiles as several police cars surround the area.
-CHRONICLE.srt 	CHRONICLE_DVS519 	01:14:07,00 --> 01:14:13,50 	the teenager turns to face the semi-circle of police.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS18 	00:03:55,00 --> 00:04:05,50 	the front door opens and a doll faced brunette woman appears
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS59 	00:11:30,00 --> 00:11:33,50 	his round faced wife watches him go.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS70 	00:13:49,00 --> 00:14:00,50 	he faces someone.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS72 	00:14:14,00 --> 00:14:20,50 	facing her husband, someone shakes her head.
-CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS118 	00:27:30,00 --> 00:27:39,50 	someone returns to his chair facing someone and takes a rag from the box.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS164 	00:35:29,00 --> 00:35:36,50 	weakly rolls his head to face her.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS182 	00:38:48,00 --> 00:38:59,50 	a man faces a clerk's grid wire window.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS195 	00:40:52,00 --> 00:40:59,50 	more men face someone.
@@ -159,15 +131,11 @@ CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS307 	01:14:08,00 --> 01:14:18,50 	she face
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS312 	01:14:46,00 --> 01:14:59,50 	now in a ring, someone faces an african-american boxer.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS330 	01:23:10,00 --> 01:23:20,50 	the bare chested champion faces baer.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS391 	01:35:11,00 --> 01:35:15,50 	blinking, he faces someone.
-CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS404 	01:37:58,00 --> 01:38:04,50 	someone turns in his seat, facing the large man fully.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS493 	01:53:00,00 --> 01:53:27,50 	as someone faces the crowd, his wife grins in a bright red hat and waves.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS513 	01:59:58,00 --> 02:00:04,50 	as the boxers face off, someone hits below the waist.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS535 	02:04:57,00 --> 02:05:03,50 	as someone stands alone, someone faces someone in his corner.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS562 	02:12:02,00 --> 02:12:08,50 	facing someone.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS568 	02:13:42,00 --> 02:13:47,50 	crosses toward the judges, someone faces jeanette.
-COLOMBIANA.srt 	COLOMBIANA_DVS54 	00:03:03,00 --> 00:03:12,50 	on a covered patio, a man with thick dark hair and a beard sits across a small table from a younger stubble faced man.
-COLOMBIANA.srt 	COLOMBIANA_DVS73 	00:05:12,00 --> 00:05:17,50 	the stubble faced man looks out on the city,
-COLOMBIANA.srt 	COLOMBIANA_DVS200 	00:17:14,00 --> 00:17:23,50 	cars and pedestrians take little notice as they bustle past the dirty faced girl in her sullied school uniform.
 COLOMBIANA.srt 	COLOMBIANA_DVS296 	00:25:04,00 --> 00:25:09,50 	mama pauses and faces the table gravely.
 COLOMBIANA.srt 	COLOMBIANA_DVS308 	00:26:22,00 --> 00:26:27,50 	someone and someone sit facing her.
 COLOMBIANA.srt 	COLOMBIANA_DVS317 	00:27:37,00 --> 00:27:43,50 	as fearful bystanders scatter, someone angrily faces his niece.
@@ -175,34 +143,24 @@ COLOMBIANA.srt 	COLOMBIANA_DVS352 	00:32:07,00 --> 00:32:13,50 	a someone unhood
 COLOMBIANA.srt 	COLOMBIANA_DVS380 	00:34:15,00 --> 00:34:24,50 	someone cautiously scans her surroundings as she backs away, then faces a door labeled electrical room.
 COLOMBIANA.srt 	COLOMBIANA_DVS419 	00:36:56,00 --> 00:37:03,50 	as the door opens, the unconscious someone sinks to his knees then falls face down.
 COLOMBIANA.srt 	COLOMBIANA_DVS429 	00:37:41,00 --> 00:37:47,50 	the hatchet faced criminal hastily opens his gaudy shirt.
-COLOMBIANA.srt 	COLOMBIANA_DVS458 	00:40:15,00 --> 00:40:21,50 	someone warren turns away and faces the desk sergeant.
 COLOMBIANA.srt 	COLOMBIANA_DVS467 	00:40:59,00 --> 00:41:05,50 	he eyes the markings then faces a tall powerfully built colleague.
 COLOMBIANA.srt 	COLOMBIANA_DVS480 	00:42:27,00 --> 00:42:35,50 	facing the cop, the fbi agent aims an imaginary gun and visualizes the murdered criminal.
 COLOMBIANA.srt 	COLOMBIANA_DVS505 	00:45:35,00 --> 00:45:40,50 	someone gestures and someone sits facing him.
 COLOMBIANA.srt 	COLOMBIANA_DVS555 	00:50:44,00 --> 00:50:51,50 	someone abruptly ends the kiss and faces a stylized portrait of an old man.
-COLOMBIANA.srt 	COLOMBIANA_DVS659 	01:01:52,00 --> 01:01:57,50 	someone shakes his head as he turns to face her.
-COLOMBIANA.srt 	COLOMBIANA_DVS705 	01:06:22,00 --> 01:06:28,50 	he gazes at food on a nearby table then sits facing her.
-COLOMBIANA.srt 	COLOMBIANA_DVS780 	01:15:33,00 --> 01:15:40,50 	the older woman turns to face someone who keeps his gaze fixed forward.
-COLOMBIANA.srt 	COLOMBIANA_DVS872 	01:23:02,00 --> 01:23:07,50 	agent someone turns to face them.
 COLOMBIANA.srt 	COLOMBIANA_DVS1039 	01:38:00,00 --> 01:38:12,50 	removing her belt, she flips it over her head, wraps it around the back of his neck, and faces him.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS70 	00:09:39,00 --> 00:09:46,50 	then faces someone.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS147 	00:23:55,00 --> 00:24:04,50 	he turns her to face him, and they share a tender kiss.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS173 	00:27:42,00 --> 00:27:47,50 	he stops and faces her.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS183 	00:29:19,00 --> 00:29:29,50 	someone faces her briefly, then leaves.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS206 	00:32:22,00 --> 00:32:32,50 	he turns, facing a window.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS207 	00:32:32,00 --> 00:32:41,50 	getting out of her car, someone faces him with an affectionate smirk.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS358 	00:55:59,00 --> 00:56:04,50 	someone bows his head and faces her from the side.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS359 	00:56:15,00 --> 00:56:20,50 	she looks at him ascant, then faces him fully.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS396 	01:01:07,00 --> 01:01:11,50 	he faces his father.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS400 	01:01:32,00 --> 01:01:47,50 	as she faces someone, mr.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS609 	01:23:48,00 --> 01:23:55,50 	someone gets out and faces the stables.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS655 	01:28:51,00 --> 01:28:55,50 	someone faces her husband.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS721 	01:36:37,00 --> 01:36:46,50 	as someone turns to face him, he halts in the doorway and stares at her resolutely.
 DISTRICT_9.srt 	DISTRICT_9_DVS153 	00:17:51,00 --> 00:17:58,50 	he faces someone, who wears a surgical mask.
 DISTRICT_9.srt 	DISTRICT_9_DVS274 	00:30:13,00 --> 00:30:25,50 	he faces his assistant.
 DISTRICT_9.srt 	DISTRICT_9_DVS314 	00:34:38,00 --> 00:34:44,50 	someone faces someone.
 DISTRICT_9.srt 	DISTRICT_9_DVS323 	00:35:31,00 --> 00:35:37,50 	someone faces someone's parents.
-DISTRICT_9.srt 	DISTRICT_9_DVS759 	01:29:43,00 --> 01:29:59,50 	the robot turns to face him.
 DISTRICT_9.srt 	DISTRICT_9_DVS814 	01:35:57,00 --> 01:36:06,50 	scrambling to his feet, someone faces a soldier.
 DISTRICT_9.srt 	DISTRICT_9_DVS831 	01:37:49,00 --> 01:38:07,50 	the facial frame lifts, and he slams forward landing face down in the dirt.
 DISTRICT_9.srt 	DISTRICT_9_DVS838 	01:39:00,00 --> 01:39:12,50 	spotting the colonel, someone rolls over to face him and raises his trembling human hand.
@@ -211,11 +169,9 @@ EASY_A.srt 	EASY_A_DVS72 	00:25:42,00 --> 00:25:46,50 	she faces a stairway.
 EASY_A.srt 	EASY_A_DVS98 	00:33:28,00 --> 00:33:35,50 	facing the door, someone halts.
 EASY_A.srt 	EASY_A_DVS126 	00:39:41,00 --> 00:39:52,50 	with a bustier showing off her narrow waist, she halts facing someone and someone.
 EASY_A.srt 	EASY_A_DVS130 	00:40:37,00 --> 00:40:46,50 	as they scramble away, someone finds herself facing someone, who snares and heads off.
-EASY_A.srt 	EASY_A_DVS153 	00:48:21,00 --> 00:48:26,50 	she takes a seat facing his desk.
 EASY_A.srt 	EASY_A_DVS254 	01:17:04,00 --> 01:17:11,50 	facing the car once again, she leans down to peak at someone through the window.
 EASY_A.srt 	EASY_A_DVS286 	01:24:41,00 --> 01:24:49,50 	later she faces her webcam as her classmates, teachers, and family watch her webcast.
 EASY_A.srt 	EASY_A_DVS288 	01:25:39,00 --> 01:25:44,50 	she faces her webcam once again.
-FLIGHT.srt 	FLIGHT_DVS52 	00:09:27,00 --> 00:09:31,50 	someone sits facing someone.
 FLIGHT.srt 	FLIGHT_DVS180 	00:39:26,00 --> 00:39:31,50 	someone leans against the wall, facing her.
 FLIGHT.srt 	FLIGHT_DVS921 	01:49:45,00 --> 01:49:51,50 	someone lies face down in the bathroom, a large blood stain on the toilet.
 FLIGHT.srt 	FLIGHT_DVS1084 	01:59:50,00 --> 01:59:55,50 	someone faces someone in the middle of the room.
@@ -225,7 +181,6 @@ FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS246 	01:07:20,00 --> 01:07:3
 FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS342 	01:30:31,00 --> 01:30:36,50 	someone faces his reflection in a window.
 FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS385 	01:41:12,00 --> 01:41:16,50 	he stands facing her.
 GET_HIM_TO_THE_GREEK.srt 	GET_HIM_TO_THE_GREEK_DVS53 	00:32:17,00 --> 00:32:22,50 	someone faces farrell someone who wears red jacket.
-GET_HIM_TO_THE_GREEK.srt 	GET_HIM_TO_THE_GREEK_DVS93 	00:51:22,00 --> 00:51:32,50 	someone sits stiffly facing him.
 GET_HIM_TO_THE_GREEK.srt 	GET_HIM_TO_THE_GREEK_DVS121 	01:13:08,00 --> 01:13:13,50 	someone gets to his feet and faces them.
 GET_HIM_TO_THE_GREEK.srt 	GET_HIM_TO_THE_GREEK_DVS123 	01:15:01,00 --> 01:15:04,50 	someone faces the driver.
 GET_HIM_TO_THE_GREEK.srt 	GET_HIM_TO_THE_GREEK_DVS124 	01:15:15,00 --> 01:15:21,50 	later, someone faces him and shifts on his feet.
@@ -270,11 +225,8 @@ GREEN_ZONE.srt 	GREEN_ZONE_DVS449 	01:38:17,00 --> 01:38:28,50 	he faces someone
 GROWN_UPS.srt 	GROWN_UPS_DVS127 	00:40:04,00 --> 00:40:12,50 	someone stands facing the water and wrinkles his brow.
 GROWN_UPS.srt 	GROWN_UPS_DVS177 	00:50:25,00 --> 00:50:32,50 	she faces someone with a wide-eyed glare.
 HUGO.srt 	HUGO_DVS92 	00:11:56,00 --> 00:12:11,50 	at the top, large clocks face out from every side.
-HUGO.srt 	HUGO_DVS99 	00:13:08,00 --> 00:13:13,50 	the man turns and faces the boy.
-HUGO.srt 	HUGO_DVS185 	00:26:10,00 --> 00:26:14,50 	he turns and faces someone.
 HUGO.srt 	HUGO_DVS318 	00:49:39,00 --> 00:49:45,50 	they stare at one another then both face the automaton.
 HUGO.srt 	HUGO_DVS431 	01:03:00,00 --> 01:03:08,50 	at the front door, someone stands on the landing as someone faces him from the doorway.
-HUGO.srt 	HUGO_DVS436 	01:03:34,00 --> 01:03:40,50 	facing someone, someone nods then turns and walks away.
 HUGO.srt 	HUGO_DVS440 	01:03:59,00 --> 01:04:06,50 	crouching, someone quickly picks up the books then stands and faces the bearded bookseller.
 HUGO.srt 	HUGO_DVS462 	01:07:28,00 --> 01:07:33,50 	the inspector straightens then faces someone.
 HUGO.srt 	HUGO_DVS593 	01:25:39,00 --> 01:25:45,50 	across the room, the automaton faces toward someone.
@@ -287,7 +239,6 @@ IN_TIME.srt 	IN_TIME_DVS145 	00:15:58,00 --> 00:16:04,50 	facing the windows, he
 IN_TIME.srt 	IN_TIME_DVS149 	00:16:14,00 --> 00:16:23,50 	the melancholy man faces the river and distant mountains as his body clock ticks down under 15 seconds.
 IN_TIME.srt 	IN_TIME_DVS433 	00:46:17,00 --> 00:46:28,50 	the small convertible spins out and stops, facing someone's front end.
 IN_TIME.srt 	IN_TIME_DVS453 	00:49:02,00 --> 00:49:10,50 	he faces his underlings defensively.
-IN_TIME.srt 	IN_TIME_DVS462 	00:49:40,00 --> 00:49:47,50 	he faces his companion and gently turns her face with his hand.
 IN_TIME.srt 	IN_TIME_DVS483 	00:52:38,00 --> 00:52:43,50 	someone paces, then faces someone.
 IN_TIME.srt 	IN_TIME_DVS536 	00:57:51,00 --> 00:57:57,50 	setting down his drink, someone sits on the couch and faces her.
 IN_TIME.srt 	IN_TIME_DVS563 	01:00:24,00 --> 01:00:29,50 	standing at the window facing the mission,
@@ -303,14 +254,11 @@ IN_TIME.srt 	IN_TIME_DVS725 	01:17:35,00 --> 01:17:41,50 	he faces his companion
 IN_TIME.srt 	IN_TIME_DVS749 	01:19:18,00 --> 01:19:28,50 	someone and someone reach the end of the network and face a broad gap at their feet.
 IN_TIME.srt 	IN_TIME_DVS754 	01:19:43,00 --> 01:19:53,50 	the driver faces a sign picturing them.
 IN_TIME.srt 	IN_TIME_DVS780 	01:22:09,00 --> 01:22:15,50 	he faces the man next to the traveler and skips up to him.
-IN_TIME.srt 	IN_TIME_DVS793 	01:23:36,00 --> 01:23:42,50 	she turns to face him and they share a tender kiss.
-IN_TIME.srt 	IN_TIME_DVS801 	01:25:03,00 --> 01:25:08,50 	rolling up his shirt sleeve, he sits facing someone.
 IN_TIME.srt 	IN_TIME_DVS821 	01:27:16,00 --> 01:27:23,50 	now, someone gazes at the four dead minutemen who lie face down on a sidewalk.
 IN_TIME.srt 	IN_TIME_DVS943 	01:39:19,00 --> 01:39:25,50 	facing a city on the horizon, someone checks his clock.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS25 	00:06:04,00 --> 00:06:09,50 	a black guard faces the cell phone user.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS86 	00:22:44,00 --> 00:22:52,50 	several hostages lie face down in a break room.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS191 	00:54:49,00 --> 00:55:09,50 	now, inside the vault, we circle someone as he faces the shelves of money.
-INSIDE_MAN.srt 	INSIDE_MAN_DVS193 	00:55:16,00 --> 00:55:29,50 	someone turns to face the outer room and leans lazily on the vault doorframe.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS238 	01:10:30,00 --> 01:10:35,50 	the masked someone faces her through a teller window.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS262 	01:20:43,00 --> 01:21:07,50 	someone faces someone.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS268 	01:23:05,00 --> 01:23:09,50 	someone stops and faces him.
@@ -322,13 +270,9 @@ INSIDE_MAN.srt 	INSIDE_MAN_DVS432 	02:02:16,00 --> 02:02:27,50 	someone stares w
 IRON_MAN_2.srt 	IRON_MAN_2_DVS50 	00:06:52,00 --> 00:07:03,50 	the women dancing onstage pause to strike various poses, then rush over and form a semicircle around someone, who faces them as they each punch out one hand.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS85 	00:16:51,00 --> 00:16:57,50 	someone stands and faces the rows of people behind him.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS135 	00:25:18,00 --> 00:25:23,50 	someone climbs down from the ring and faces someone.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS157 	00:29:27,00 --> 00:29:32,50 	someone turns to face someone on tv.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS168 	00:31:54,00 --> 00:32:03,50 	she turns to face the entrance where someone stands holding a red case containing someone's iron man suit.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS173 	00:32:22,00 --> 00:32:39,50 	someone speeds around a curve and faces someone, who swings the whips.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS308 	00:56:27,00 --> 00:56:33,50 	everyone turns to face someone, who wears the suit with the mask flipped up.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS309 	00:56:31,00 --> 00:56:38,50 	someone faces someone as he approaches.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS453 	01:23:33,00 --> 01:23:41,50 	facing someone, the robotic arm taps its three fingers together.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS695 	01:54:33,00 --> 01:54:37,50 	someone sits facing someone.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS89 	00:26:39,00 --> 00:26:45,50 	someone eyeballs him, then faces their children.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS97 	00:28:23,00 --> 00:28:31,50 	she faces forward and chuckles.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS115 	00:35:09,00 --> 00:35:19,50 	wearing only boxers someone grabs his shirt then faces her and slaps his ample belly.
@@ -343,7 +287,6 @@ ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS320 	01:31:18,00 --> 01:31:35,50 	she ca
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS382 	01:47:01,00 --> 01:47:11,50 	she slides the door close behind her then faces him clutching the strap of her purse with both hands.
 JACK_AND_JILL.srt 	JACK_AND_JILL_DVS343 	01:06:09,00 --> 01:06:16,50 	now he enters a public restroom and faces an attendant who bows politely.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS41 	00:04:58,00 --> 00:05:03,50 	the redhead faces someone somberly.
-JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS80 	00:11:13,00 --> 00:11:19,50 	as two of the women take calls, the redhaired friend faces someone.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS105 	00:17:40,00 --> 00:17:45,50 	someone and someone face a laptop.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS121 	00:20:30,00 --> 00:20:35,50 	someone refrains from digging in and faces someone.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS169 	00:30:48,00 --> 00:30:54,50 	at le cordon bleu in paris, someone and two other women face a teacher.
@@ -374,7 +317,6 @@ KARATE_KID.srt 	KARATE_KID_DVS109 	00:10:14,00 --> 00:10:19,50 	now in the lobby
 KARATE_KID.srt 	KARATE_KID_DVS170 	00:14:17,00 --> 00:14:23,50 	someone accepts the paddle and faces a paunchy man in an old tank top.
 KARATE_KID.srt 	KARATE_KID_DVS196 	00:17:05,00 --> 00:17:13,50 	he backs someone off with a glare, then faces the girl.
 KARATE_KID.srt 	KARATE_KID_DVS417 	00:38:06,00 --> 00:38:11,50 	he faces her and they share a smile.
-KARATE_KID.srt 	KARATE_KID_DVS490 	00:44:12,00 --> 00:44:20,50 	someone faces the fallen american boy who looks up, his face grimacing helplessly.
 KARATE_KID.srt 	KARATE_KID_DVS555 	00:50:21,00 --> 00:50:25,50 	the boy stands and they face off.
 KARATE_KID.srt 	KARATE_KID_DVS565 	00:50:50,00 --> 00:50:58,50 	the square-jawed man rises from his bench and faces the boy, who shifts his eyes nervously.
 KARATE_KID.srt 	KARATE_KID_DVS577 	00:51:32,00 --> 00:51:38,50 	the instructor faces someone, who returns his attention to his teacher.
@@ -412,10 +354,8 @@ KARATE_KID.srt 	KARATE_KID_DVS1640 	02:13:13,00 --> 02:13:25,50 	someone leaves 
 KARATE_KID.srt 	KARATE_KID_DVS1640 	02:13:13,00 --> 02:13:25,50 	master someone leads his students away and someone faces the crowd.
 KARATE_KID.srt 	KARATE_KID_DVS1647 	02:13:49,00 --> 02:13:53,50 	someone faces him.
 KATY_PERRY_PART_OF_ME.srt 	KATY_PERRY_PART_OF_ME_DVS113 	00:27:09,00 --> 00:27:14,50 	someone rides up on a platform to face her cheering audience.
-KATY_PERRY_PART_OF_ME.srt 	KATY_PERRY_PART_OF_ME_DVS196 	00:52:02,00 --> 00:52:10,50 	facing each other, someone and her trainer squat as they hold arms straight out in front.
 KNOCKED_UP.srt 	KNOCKED_UP_DVS25 	00:18:24,00 --> 00:18:29,50 	someone faces the baby.
 KNOCKED_UP.srt 	KNOCKED_UP_DVS71 	00:43:09,00 --> 00:43:20,50 	now someone and someone stand in their bathroom facing opposite directions.
-KNOCKED_UP.srt 	KNOCKED_UP_DVS71 	00:43:09,00 --> 00:43:20,50 	brushing his teeth he turns to face her.
 KNOCKED_UP.srt 	KNOCKED_UP_DVS97 	00:58:27,00 --> 00:58:33,50 	he remains behind and sits facing someone who thoughtfully tokes on a joint.
 KNOCKED_UP.srt 	KNOCKED_UP_DVS139 	01:24:04,00 --> 01:24:08,50 	someone faces someone.
 KNOCKED_UP.srt 	KNOCKED_UP_DVS153 	01:35:40,00 --> 01:35:46,50 	now standing away from the party someone faces someone.
@@ -430,7 +370,6 @@ LAND_OF_THE_LOST.srt 	LAND_OF_THE_LOST_DVS248 	01:28:54,00 --> 01:29:00,50 	the 
 LARRY_CROWNE.srt 	LARRY_CROWNE_DVS102 	00:24:53,00 --> 00:25:01,50 	another classroom miss someone writes care on a blackboard then faces two males and two females.
 LARRY_CROWNE.srt 	LARRY_CROWNE_DVS156 	00:35:48,00 --> 00:35:52,50 	someone faces someone.
 LARRY_CROWNE.srt 	LARRY_CROWNE_DVS173 	00:39:51,00 --> 00:39:57,50 	someone faces him.
-LARRY_CROWNE.srt 	LARRY_CROWNE_DVS258 	01:01:42,00 --> 01:01:48,50 	facing her, someone takes in her drunken grin.
 LARRY_CROWNE.srt 	LARRY_CROWNE_DVS373 	01:29:26,00 --> 01:29:37,50 	she faces a handful of students.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS128 	00:15:44,00 --> 00:15:53,50 	facing his sad-eyed, skinny brother, an adolescent someone points out a church at the rim of the misty valley.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS157 	00:21:00,00 --> 00:21:07,50 	his father stops eating and faces his wife who returns an amused smile.
@@ -439,14 +378,10 @@ LIFE_OF_PI.srt 	LIFE_OF_PI_DVS181 	00:23:58,00 --> 00:24:05,50 	securing its rop
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS186 	00:24:36,00 --> 00:24:40,50 	someone faces someone.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS189 	00:25:04,00 --> 00:25:09,50 	the family stands together facing the gate.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS220 	00:29:27,00 --> 00:29:31,50 	he faces them with his ears pointed back.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS230 	00:31:40,00 --> 00:31:46,50 	he faces forward then looks back at the sun as his mother approaches.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS235 	00:32:11,00 --> 00:32:17,50 	now in the eating quarters, someone faces a husky, larged-nosed cook.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS267 	00:35:32,00 --> 00:35:37,50 	facing the river, he leans forward.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS280 	00:37:10,00 --> 00:37:15,50 	turning, he faces a door with a port hole.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS354 	00:43:05,00 --> 00:43:11,50 	turning, he finds himself facing the completely submerged ship.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS412 	00:48:05,00 --> 00:48:12,50 	facing someone, she grimly works her lips and folds her long arms.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS414 	00:48:15,00 --> 00:48:27,50 	as someone faces her with a concerned expression, the orangutan lowers her gaze and sighs.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS463 	00:52:22,00 --> 00:52:30,50 	orange juice peers down at the hyena, then sits on steadily and faces her human companion.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS471 	00:52:52,00 --> 00:52:57,50 	facing someone, he swings the knife.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS472 	00:52:59,00 --> 00:53:15,50 	as he pushes it overboard, the tiger faces him with a snarl.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS562 	01:01:13,00 --> 01:01:18,50 	pausing, he faces the boat.
@@ -458,7 +393,6 @@ LIFE_OF_PI.srt 	LIFE_OF_PI_DVS756 	01:18:17,00 --> 01:18:22,50 	facing the beast
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS803 	01:22:06,00 --> 01:22:11,50 	facing the ship, he cocks the gun and raises it in the air.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS857 	01:26:34,00 --> 01:26:39,50 	someone glares at it, then faces someone someone.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS1092 	01:52:58,00 --> 01:53:03,50 	the younger insurance rep solemnly faces his partner.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS1094 	01:53:36,00 --> 01:53:41,50 	someone faces the older man earnestly then looks away.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS1095 	01:53:45,00 --> 01:53:54,50 	as the young survivor hangs his head, the older insurance investigator faces his partner with a softened gaze.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS1102 	01:54:45,00 --> 01:54:52,50 	facing the young investigator, someone sniffles and shakes his head.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS1106 	01:55:34,00 --> 01:55:40,50 	the middle aged someone faces his guest with a careworn gaze.
@@ -475,27 +409,20 @@ MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS389 	00:47:05,00 --> 00:47:12,50
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS454 	00:53:34,00 --> 00:53:38,50 	someone faces all the penguins
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS470 	00:56:14,00 --> 00:56:18,50 	he faces her.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS527 	01:02:49,00 --> 01:02:57,50 	someone sleeps curled up on the floor facing the unhatched egg in captain's rocky nest.
-MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS563 	01:06:22,00 --> 01:06:29,50 	turning slightly he gives someone a nod, then faces the city again.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS28 	00:07:16,00 --> 00:07:25,50 	he faces two platinum blondes - one large, one small.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS73 	00:16:57,00 --> 00:17:02,50 	someone faces him and someone bolts.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS175 	00:39:43,00 --> 00:39:56,50 	someone summons a breath, picks up her gnarled walking stick, and faces the girl.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS196 	00:42:19,00 --> 00:42:26,50 	then faces them.
-NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS242 	00:50:26,00 --> 00:50:39,50 	someone looks on sympathetically as his sister faces someone.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS247 	00:51:20,00 --> 00:51:25,50 	the chauffeur sadly faces forward.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS252 	00:52:33,00 --> 00:52:52,50 	the farm girl faces her cousin and finds her expression sincere.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS266 	00:58:40,00 --> 00:58:50,50 	someone faces someone and the children.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS268 	00:59:01,00 --> 00:59:07,50 	someone faces mrs.
-NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS275 	01:00:16,00 --> 01:00:24,50 	someone turns to face him.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS277 	01:00:29,00 --> 01:00:34,50 	someone faces his cousin.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS333 	01:13:08,00 --> 01:13:20,50 	lord someone faces someone.
-NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS338 	01:14:13,00 --> 01:14:26,50 	he faces someone and takes a breath.
-NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS456 	01:34:11,00 --> 01:34:19,50 	turning on the spot, someone stops, facing the field and stares.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS466 	01:35:26,00 --> 01:35:32,50 	she tenderly faces mrs.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS467 	01:35:35,00 --> 01:35:56,50 	someone gazes after her tearfully, then faces the children with a sobbing breath.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS488 	01:39:02,00 --> 01:39:09,50 	facing them, rory warmly extends a hand to his nephew.
 NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS384 	01:10:05,00 --> 01:10:09,50 	they stand facing each other.
-NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS390 	01:12:07,00 --> 01:12:11,50 	they both sit staring ahead stony faced.
-NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS411 	01:16:12,00 --> 01:16:17,50 	she smiles he sits facing her.
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS88 	00:23:38,00 --> 00:23:43,50 	someone kisses her and faces the driver.
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS118 	00:30:44,00 --> 00:30:50,50 	someone pulls up and faces her through the window.
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS139 	00:36:23,00 --> 00:36:29,50 	someone enters the room and finds someone lying face down on a bed.
@@ -517,29 +444,23 @@ PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS353 	01:26
 PROMETHEUS.srt 	PROMETHEUS_DVS112 	00:06:52,00 --> 00:06:56,50 	holloway faces his colleague.
 PROMETHEUS.srt 	PROMETHEUS_DVS120 	00:07:20,00 --> 00:07:25,50 	she faces him amazedly.
 PROMETHEUS.srt 	PROMETHEUS_DVS257 	00:24:42,00 --> 00:24:47,50 	someone faces the scottish woman.
-PROMETHEUS.srt 	PROMETHEUS_DVS282 	00:28:04,00 --> 00:28:11,50 	as the mohawked man sits, someone takes the seat facing him.
-PROMETHEUS.srt 	PROMETHEUS_DVS549 	01:01:09,00 --> 01:01:15,50 	someone looks away then faces him with a coy smirk.
 PROMETHEUS.srt 	PROMETHEUS_DVS572 	01:04:08,00 --> 01:04:17,50 	someone falls face first into the black fluid.
 PROMETHEUS.srt 	PROMETHEUS_DVS577 	01:04:33,00 --> 01:04:43,50 	facing his reflection, he blinks his bleary eyes.
 PROMETHEUS.srt 	PROMETHEUS_DVS580 	01:04:47,00 --> 01:04:53,50 	facing the mirror again, he peers at his beady bloodshot eyes.
 PROMETHEUS.srt 	PROMETHEUS_DVS642 	01:09:40,00 --> 01:09:47,50 	as someone stares, someone finds a body lying face down in his suit.
-PROMETHEUS.srt 	PROMETHEUS_DVS667 	01:12:16,00 --> 01:12:23,50 	curiously looking on as the alien rotates the chair to face the controls.
 PROMETHEUS.srt 	PROMETHEUS_DVS676 	01:12:49,00 --> 01:12:55,50 	in the recording, the leader walks over to the pilot and crouches to face him.
 PROMETHEUS.srt 	PROMETHEUS_DVS720 	01:16:56,00 --> 01:17:02,50 	as holloway's fiery body falls face first and lies still,
 PROMETHEUS.srt 	PROMETHEUS_DVS917 	01:41:06,00 --> 01:41:12,50 	the engineer faces the imposing device.
 PROMETHEUS.srt 	PROMETHEUS_DVS970 	01:47:03,00 --> 01:47:08,50 	someone trips and falls face down.
-PROMETHEUS.srt 	PROMETHEUS_DVS997 	01:49:23,00 --> 01:49:28,50 	facing forward, she reaches into low tool compartment and takes out a fire ax with a curved handle.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS49 	00:08:30,00 --> 00:08:35,50 	he faces forward and glances at someone.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS87 	00:14:29,00 --> 00:14:35,50 	and change set out on the counter, and faces the customer it belongs to.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS95 	00:15:35,00 --> 00:15:39,50 	someone faces homer's hostage.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS102 	00:16:38,00 --> 00:16:45,50 	now in a marble hearing room, a square-jawed man faces a committee.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS111 	00:19:03,00 --> 00:19:11,50 	hoover faces a microphone.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS132 	00:24:27,00 --> 00:24:33,50 	someone gazes off shyly, then finds her lovely face.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS141 	00:25:40,00 --> 00:25:45,50 	a gust of wind, someone turns her to face him.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS150 	00:27:34,00 --> 00:27:48,50 	now, they face a coat check counter.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS164 	00:30:17,00 --> 00:30:21,50 	he faces a secretary.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS165 	00:30:38,00 --> 00:30:45,50 	someone gazes out a window at a neighboring high-rise, then faces his men.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS179 	00:33:43,00 --> 00:34:01,50 	someone sits facing someone and lays his hand on the large box.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS187 	00:36:04,00 --> 00:36:12,50 	rolling over to face her, he strokes her cheek and neck.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS197 	00:37:30,00 --> 00:37:35,50 	someone faces someone.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS198 	00:37:38,00 --> 00:37:44,50 	he points, then gets out and faces the young g-man.
@@ -558,11 +479,9 @@ PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS654 	02:03:47,00 --> 02:03:54,50 	someone 
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS661 	02:04:31,00 --> 02:04:50,50 	he faces the street, strikes the match, and lights his cigar.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS673 	02:06:23,00 --> 02:06:44,50 	someone falls face down, eyes staring off as blood streams from his ruptured cheek.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS678 	02:07:16,00 --> 02:07:20,50 	the older man faces him.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS687 	02:08:50,00 --> 02:09:04,50 	she stares guardedly at him, then takes the seat facing his.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS688 	02:09:06,00 --> 02:09:14,50 	leaning forward, he faces her with a knitted brow.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS56 	00:15:49,00 --> 00:15:58,50 	someone faces the archer.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS115 	00:29:17,00 --> 00:29:22,50 	someone faces each of his companions.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS118 	00:30:36,00 --> 00:30:42,50 	friar turns as someone arrives and faces a second clergyman.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS157 	00:39:14,00 --> 00:39:20,50 	he faces someone whose head remains bowed.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS189 	00:45:21,00 --> 00:45:26,50 	someone solemnly faces his friends.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS199 	00:47:41,00 --> 00:47:47,50 	someone gives him a look, then faces king someone.
@@ -598,8 +517,6 @@ SALT.srt 	SALT_DVS359 	01:04:01,00 --> 01:04:10,50 	blinking, she clears her eye
 SALT.srt 	SALT_DVS385 	01:08:27,00 --> 01:08:32,50 	in a seat facing her.
 SALT.srt 	SALT_DVS514 	01:28:05,00 --> 01:28:11,50 	someone lies face down watching tensely.
 SANCTUM.srt 	SANCTUM_DVS29 	00:06:55,00 --> 00:07:02,50 	someone gets up from his station and faces her with his hands on his hips.
-SANCTUM.srt 	SANCTUM_DVS34 	00:07:53,00 --> 00:07:59,50 	the balding man takes off his hat and faces someone.
-SANCTUM.srt 	SANCTUM_DVS51 	00:11:12,00 --> 00:11:19,50 	lowering his gaze, he turns to face him.
 SANCTUM.srt 	SANCTUM_DVS70 	00:15:39,00 --> 00:15:44,50 	he steps off of the edge and falls face down.
 SANCTUM.srt 	SANCTUM_DVS79 	00:16:48,00 --> 00:16:56,50 	at forward base, someone faces someone.
 SANCTUM.srt 	SANCTUM_DVS258 	00:53:28,00 --> 00:53:36,50 	in the cathedral, someone faces someone worriedly.
@@ -610,8 +527,6 @@ SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS102 	00:07:12,00 --> 00:07:18,50 	facing s
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS108 	00:07:28,00 --> 00:07:33,50 	she pauses and faces her guest.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS183 	00:13:22,00 --> 00:13:27,50 	she faces someone, her bare feet resting on a stool.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS201 	00:14:33,00 --> 00:14:40,50 	the little girl faces a pair of doors.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS228 	00:15:53,00 --> 00:15:59,50 	turning onto her other side, she faces a sleeping sibling.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS401 	00:26:56,00 --> 00:27:04,50 	an elderly couple sits on either side of a table facing us.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS737 	00:49:00,00 --> 00:49:05,50 	later, she faces her pigtailed daughter.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS756 	00:49:59,00 --> 00:50:05,50 	elsewhere at the airport, the two friends face each by a window, sharing a long gaze.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS805 	00:53:44,00 --> 00:53:48,50 	someone faces someone.
@@ -619,14 +534,10 @@ SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS847 	00:56:07,00 --> 00:56:13,50 	someone 
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS920 	00:59:47,00 --> 00:59:52,50 	at night, someone faces her laotong.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1061 	01:11:21,00 --> 01:11:27,50 	then brushes her hair back and faces him with a coy hint of a smile.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1075 	01:12:40,00 --> 01:12:48,50 	now facing a mirror, someone dabs tinted gloss on her full lips, then smiles at herself.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1090 	01:14:32,00 --> 01:14:37,50 	someone faces her and takes her hand.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1101 	01:15:14,00 --> 01:15:18,50 	someone shuffles around to face her.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1135 	01:17:11,00 --> 01:17:17,50 	eyes glistening, someone faces her laotong imploringly.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1433 	01:37:13,00 --> 01:37:20,50 	at home, facing a window, someone holds the fan and traces characters with her fingertip on the glass pane.
-SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS23 	00:05:03,00 --> 00:05:20,50 	now outside, the kids sit facing new york harbor.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS39 	00:08:14,00 --> 00:08:22,50 	the stringy-haired sorcerer slowly faces the boy, studying him, then brushes past.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS331 	01:07:49,00 --> 01:08:15,50 	he joggles it in his cupped hand as he faces the breathtaking cityscape.
-SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS408 	01:25:18,00 --> 01:25:24,50 	the sorcerer turns, facing someone and someone.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS456 	01:36:44,00 --> 01:36:50,50 	someone stares at him worriedly, then faces
 SOUL_SURFER.srt 	SOUL_SURFER_DVS134 	00:42:15,00 --> 00:42:19,50 	her mother faces someone.
 SOUL_SURFER.srt 	SOUL_SURFER_DVS167 	00:49:54,00 --> 00:50:04,50 	as someone faces her parents with a hopeful smile they swap looks, then beam proudly at her.
@@ -641,9 +552,7 @@ SPARKLE_2012.srt 	SPARKLE_2012_DVS489 	01:19:02,00 --> 01:19:07,50 	someone knee
 SPARKLE_2012.srt 	SPARKLE_2012_DVS505 	01:21:25,00 --> 01:21:32,50 	someone rests her head across her arm, as she lies face down on her bed.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS564 	01:32:55,00 --> 01:33:00,50 	someone crosses the lobby and faces someone.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS601 	01:39:04,00 --> 01:39:09,50 	as someone faces someone.
-SPARKLE_2012.srt 	SPARKLE_2012_DVS613 	01:39:52,00 --> 01:39:57,50 	sister takes the seat facing hers and slumps.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS614 	01:39:54,00 --> 01:40:01,50 	someone removes her sunglasses and faces her daughter with puffy eyes.
-SPARKLE_2012.srt 	SPARKLE_2012_DVS632 	01:43:10,00 --> 01:43:18,50 	someone lays her hands over her heart, then faces a full-length mirror and takes in her own striking reflection.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS635 	01:43:30,00 --> 01:43:36,50 	now on stage, she adjusts her microphone and faces the house.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS639 	01:43:46,00 --> 01:43:53,50 	facing the house, she finds her mother giving an encouraging smile.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS650 	01:48:26,00 --> 01:48:34,50 	beaming joyfully, the young singer songwriter faces the cheering audience.
@@ -653,29 +562,23 @@ THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS89 	00:12:43,00 --> 00
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS271 	00:39:52,00 --> 00:39:58,50 	someone skids to a stop beside an armed thug who spins and faces him.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS369 	00:55:29,00 --> 00:55:35,50 	someone loses his grip on the tail and lands face first in a powdery dune.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS468 	01:08:23,00 --> 01:08:30,50 	he climbs the steps to the deck where red someone faces him with his sword drawn.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS123 	00:28:20,00 --> 00:28:28,50 	turning to the next page he studies an oil painting of a woman in a ruffled dress facing a mirror.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS124 	00:28:29,00 --> 00:28:40,50 	he turns the page again and studies a portrait of a sickly somber faced boy.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS147 	00:32:11,00 --> 00:32:24,50 	facing him, someone brushes back her hair.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS210 	00:40:26,00 --> 00:40:40,50 	now in a gallery at the whitney museum, someone and someone face a gray canvas covered with chalky scribbles.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS284 	00:55:07,00 --> 00:55:16,50 	the sober faced teachers stay put as someone gets up from the couch and exits.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS327 	01:03:48,00 --> 01:03:53,50 	someone stops and faces her.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS380 	01:13:26,00 --> 01:13:42,50 	working facing the wall, the administrator turns and looks up at someone.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS385 	01:14:11,00 --> 01:14:17,50 	the art teacher faces someone with a cocked eyebrow.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS386 	01:14:14,00 --> 01:14:31,50 	the teen gives a dimpled smile as he returns the hug, then faces his work with gleaming eyes.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS399 	01:16:56,00 --> 01:17:21,50 	as he faces the audience, sunlight flares in brightly through a window behind him.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS411 	01:18:37,00 --> 01:18:47,50 	she joins him at his side then faces the portrait again.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS414 	01:18:56,00 --> 01:19:03,50 	as they linger facing the painting together she glances at him fondly.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS415 	01:19:06,00 --> 01:19:15,50 	she faces someone intently then looks back at the painting.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS138 	00:27:30,00 --> 00:27:36,50 	as someone swaggers over, she tensely faces him.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS163 	00:33:12,00 --> 00:33:23,50 	as he arrives at a desk, an aging blonde swivels to face him.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS225 	00:44:40,00 --> 00:44:50,50 	someone braces herself on the headboard, digs her feet into the comforter, and makes her downward facing body as stiff as a board.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS291 	00:53:55,00 --> 00:54:01,50 	he shifts the car into park, gets out, and faces his ex-wife.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS368 	01:08:16,00 --> 01:08:24,50 	later, they face a three-story victorian style house with a wrap-around porch.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS391 	01:14:53,00 --> 01:15:00,50 	someone looks away then faces him defenselessly.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS410 	01:17:02,00 --> 01:17:07,50 	someone faces someone, who waits in the hall.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS518 	01:33:27,00 --> 01:33:33,50 	ray faces the dancer.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS583 	01:45:35,00 --> 01:45:47,50 	someone shrugs and faces his ex-wife through the bars.
-THE_CALL.srt 	THE_CALL_DVS147 	00:11:54,00 --> 00:12:00,50 	her boss enters the room and she turns to face her.
 THE_CALL.srt 	THE_CALL_DVS172 	00:13:59,00 --> 00:14:05,50 	she nods to her friend and they both face their terminals.
 THE_CALL.srt 	THE_CALL_DVS174 	00:14:06,00 --> 00:14:16,50 	facing the screens, she relaxes her shoulders.
 THE_CALL.srt 	THE_CALL_DVS226 	00:18:59,00 --> 00:19:05,50 	now in a conference room, someone faces a table of trainees.
@@ -687,9 +590,7 @@ THE_CALL.srt 	THE_CALL_DVS547 	00:42:09,00 --> 00:42:14,50 	the killer faces the
 THE_CALL.srt 	THE_CALL_DVS899 	01:09:31,00 --> 01:09:36,50 	the car faces someone's childhood cottage.
 THE_CALL.srt 	THE_CALL_DVS963 	01:13:58,00 --> 01:14:03,50 	the phone lands face up at the foot of the ladder.
 THE_CALL.srt 	THE_CALL_DVS976 	01:15:02,00 --> 01:15:09,50 	rounding a corner, she faces a wall with an exposed wooden frame.
-THE_CALL.srt 	THE_CALL_DVS1047 	01:19:21,00 --> 01:19:28,50 	he turns to face the hanging clothes and sets his hand on top of the open door.
 THE_CALL.srt 	THE_CALL_DVS1066 	01:20:21,00 --> 01:20:27,50 	someone hangs up and faces the officers leaning over someone's body.
-THE_CALL.srt 	THE_CALL_DVS1110 	01:23:38,00 --> 01:23:44,50 	someone takes a step back as someone rises to face them.
 THE_CALL.srt 	THE_CALL_DVS1122 	01:24:34,00 --> 01:24:39,50 	someone looks behind him, facing someone.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS32 	00:06:13,00 --> 00:06:23,50 	sharing her mother's round face and sullen pout, she faces her visitors.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS37 	00:06:55,00 --> 00:06:59,50 	the mother faces her daughter inquiringly.
@@ -697,16 +598,12 @@ THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS51 	00:11:03,00 --> 00:11:07,50 	a baldi
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS56 	00:12:55,00 --> 00:13:00,50 	the doctor unhappily faces him.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS73 	00:14:42,00 --> 00:14:48,50 	wearing a yellow swim mask, she undulates face down in the water.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS156 	00:25:59,00 --> 00:26:08,50 	fully dressed and curled up on a sofa, someone faces its back and rests her chin on her folded arms.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS161 	00:26:35,00 --> 00:26:41,50 	someone sits up, then scoots around to face him fully.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS178 	00:29:32,00 --> 00:29:38,50 	facing someone, he rubs his chin and nose.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS199 	00:32:41,00 --> 00:32:47,50 	someone screws his jaw to one side and faces someone.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS203 	00:33:28,00 --> 00:33:35,50 	someone pulls a chair out from a nearby table and sits facing his friends.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS231 	00:35:38,00 --> 00:35:43,50 	someone faces someone.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS250 	00:39:06,00 --> 00:39:10,50 	someone eyes him, then faces his wife.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS258 	00:40:42,00 --> 00:40:47,50 	glaring, someone withdraws his hand and faces someone.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS301 	00:45:34,00 --> 00:45:38,50 	he faces his wife.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS318 	00:48:45,00 --> 00:48:48,50 	she turns to face to bed.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS320 	00:49:17,00 --> 00:49:25,50 	later, someone sits next to someone, while someone reads in a chair facing the foot of the bed.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS362 	00:55:37,00 --> 00:55:44,50 	someone abruptly faces forward.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS497 	01:11:31,00 --> 01:11:37,50 	someone bites back a comment and faces the water.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS500 	01:12:02,00 --> 01:12:06,50 	the mother faces the water.
@@ -714,24 +611,18 @@ THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS518 	01:16:01,00 --> 01:16:07,50 	someon
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS530 	01:17:18,00 --> 01:17:26,50 	someone, who is seated between his daughters, faces us as though we're in someone's position.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS558 	01:22:32,00 --> 01:22:37,50 	someone faces someone anxiously.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS563 	01:23:45,00 --> 01:23:49,50 	straightening, he faces someone.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS592 	01:27:44,00 --> 01:27:50,50 	her lips trembling, the girl turns back to face her.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS692 	01:37:54,00 --> 01:38:00,50 	rising from his chair, someone faces the group and gives them a nod.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS752 	01:44:56,00 --> 01:45:01,50 	someone rises from his chair and faces her.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS760 	01:45:19,00 --> 01:45:24,50 	someone faces her younger sister.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS66 	00:05:10,00 --> 00:05:16,50 	as he enters, a staff of employees halt and face him.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS79 	00:07:32,00 --> 00:07:36,50 	she faces someone.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS81 	00:08:39,00 --> 00:08:45,50 	someone faces someone who wearily meets his gaze.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS88 	00:09:12,00 --> 00:09:17,50 	someone sits facing a laptop.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS96 	00:09:48,00 --> 00:09:56,50 	now, at a christmas gathering, someone faces his lover, her husband and a brunette.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS127 	00:13:07,00 --> 00:13:13,50 	sitting in his briefs, someone turns to face her.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS153 	00:15:12,00 --> 00:15:17,50 	the journalist sits facing his host.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS332 	00:40:58,00 --> 00:41:05,50 	a caretaker removes a tray from the table in front of the blank faced man.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS368 	00:45:19,00 --> 00:45:27,50 	as he sits on the edge facing her, someone anxiously shifts in her seat and avoids looking at him.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS442 	00:52:30,00 --> 00:52:36,50 	someone sets her bag in a chair facing it.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS457 	00:53:20,00 --> 00:53:28,50 	now, someone wakes face down on the bed with a thick black gag separating her upper and lower teeth.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS536 	01:00:48,00 --> 01:00:53,50 	a cashier faces someone.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS574 	01:03:48,00 --> 01:03:53,50 	someone topples falling face first on the floor.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS597 	01:05:50,00 --> 01:05:55,50 	someone turns back to face her rapist.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS599 	01:05:55,00 --> 01:06:01,50 	she tases him and he faces her with wide eyes.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS814 	01:33:20,00 --> 01:33:27,50 	he pans over the blurry faces of people standing across the street from someone.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS818 	01:33:37,00 --> 01:33:45,50 	standing in a corner the passenger faces away from him.
@@ -757,12 +648,10 @@ THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS170 	01:06:24,00 --> 01:06:28,50 	
 THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS230 	01:31:33,00 --> 01:31:43,50 	he shoots someone a glare then faces someone.
 THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS241 	01:33:59,00 --> 01:34:04,50 	two businessmen face someone.
 THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS275 	01:43:31,00 --> 01:43:41,50 	someone faces someone.
-THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS282 	01:45:14,00 --> 01:45:24,50 	turning on the spot, someone faces the staff and shrugs playfully.
 THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS283 	01:45:35,00 --> 01:45:40,50 	facing someone, someone puts a hand on his shoulder.
 THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS288 	01:46:38,00 --> 01:46:44,50 	grinning, someone stands and faces his staffer.
 THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS298 	01:49:29,00 --> 01:49:33,50 	the cops face the others.
 THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS311 	01:51:25,00 --> 01:51:29,50 	he faces an open laptop and punches.
-THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS312 	01:51:32,00 --> 01:51:37,50 	he turns to face the young attorney.
 THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS314 	01:51:46,00 --> 01:51:51,50 	shuts his laptop then face to.
 THE_VOW.srt 	THE_VOW_DVS40 	00:03:06,00 --> 00:03:11,50 	she lands halfway outside, face down on the hood.
 THE_VOW.srt 	THE_VOW_DVS140 	00:14:31,00 --> 00:14:37,50 	sunlight glows through the studio windows as someone lies asleep face down on someones chest.
@@ -770,7 +659,6 @@ THE_VOW.srt 	THE_VOW_DVS208 	00:26:27,00 --> 00:26:37,50 	now, as he drives her 
 THE_VOW.srt 	THE_VOW_DVS346 	00:47:02,00 --> 00:47:08,50 	facing his ex, he grins from ear to ear.
 THE_VOW.srt 	THE_VOW_DVS398 	00:55:34,00 --> 00:55:39,50 	then faces her towering, treelike sculpture.
 THE_VOW.srt 	THE_VOW_DVS405 	00:56:09,00 --> 00:56:16,50 	someone faces the bathroom.
-THE_VOW.srt 	THE_VOW_DVS458 	01:06:13,00 --> 01:06:18,50 	she turns the box of chocolates to face someone.
 THE_VOW.srt 	THE_VOW_DVS504 	01:10:26,00 --> 01:10:30,50 	she faces him.
 THE_VOW.srt 	THE_VOW_DVS577 	01:20:13,00 --> 01:20:18,50 	pausing by the door he faces his wife.
 THE_VOW.srt 	THE_VOW_DVS595 	01:23:13,00 --> 01:23:19,50 	he wipes one away, sets his guitar down and faces his friend.
@@ -789,8 +677,6 @@ THE_WATCH.srt 	THE_WATCH_DVS548 	01:34:16,00 --> 01:34:20,50 	someone faces some
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS59 	00:15:09,00 --> 00:15:15,50 	she faces him with a surprised expression, then allows a hopeful smile.
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS292 	01:17:20,00 --> 01:17:24,50 	then faces someone.
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS415 	01:36:21,00 --> 01:36:25,50 	he sets it face down on a table.
-THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS46 	00:06:24,00 --> 00:06:34,50 	later a desks facing each other, someone watches his gun spin as he reclines with his feet up while someone sits face down at his desk.
-THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS46 	00:06:24,00 --> 00:06:34,50 	later a desks facing each other, someone watches his gun spin as he reclines with his feet up while someone sits face down at his desk.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS72 	00:12:16,00 --> 00:12:20,50 	two boys face each other.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS78 	00:13:07,00 --> 00:13:14,50 	as someone faces him, the aggressive father stares into his eyes.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS134 	00:26:27,00 --> 00:26:38,50 	in the dimly lit backroom of a tailor shop, a tailor lays out a work in progress over a table then stands upright and finds heinrich facing him.
@@ -801,19 +687,16 @@ THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS273 	00:50:58,00 --> 00:51:05,50 	the agen
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS280 	00:52:22,00 --> 00:52:27,50 	she faces a tiny mutt's cage.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS430 	01:17:31,00 --> 01:17:37,50 	someone faces someone then delivers a fast right hook.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS494 	01:25:56,00 --> 01:26:02,50 	later, a paramedic faces someone.
-THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS500 	01:26:46,00 --> 01:26:52,50 	heading off, he pauses and turns back to face his approaching friend.
 THOR.srt 	THOR_DVS41 	00:04:41,00 --> 00:04:47,50 	faces the red eyed, blue skinned leader of the frost giants.
 THOR.srt 	THOR_DVS45 	00:04:59,00 --> 00:05:07,50 	a spiky ball of ice crystals forms in his hand, and he hurls it into a warriors face.
 THOR.srt 	THOR_DVS220 	00:29:43,00 --> 00:29:50,50 	standing beside the tunnel, the blank faced someone turns and faces his father.
 THOR.srt 	THOR_DVS220 	00:29:43,00 --> 00:29:50,50 	standing beside the tunnel, the blank faced someone turns and faces his father.
-THOR.srt 	THOR_DVS290 	00:39:41,00 --> 00:39:46,50 	someone turns and faces someone.
 THOR.srt 	THOR_DVS395 	00:58:57,00 --> 00:59:05,50 	someone staggers backward while staring at his hands, then faces skyward and squints into the falling rain.
 THOR.srt 	THOR_DVS550 	01:27:23,00 --> 01:27:29,50 	someone strokes someones face as the destroyer recedes into the distance.
 THOR.srt 	THOR_DVS694 	01:44:11,00 --> 01:44:15,50 	someone smiles then faces his son.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS112 	00:12:20,00 --> 00:12:25,50 	a gangly geeky man faces him.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS356 	00:39:33,00 --> 00:39:42,50 	he trips and falls face first.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS417 	00:44:52,00 --> 00:44:56,50 	someone faces.
-TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS460 	00:49:50,00 --> 00:49:55,50 	someone turns the nozzle to face someone.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS473 	00:50:49,00 --> 00:50:54,50 	at the front door, someone faces a small dog.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS601 	01:05:46,00 --> 01:05:50,50 	they face the parent cutouts.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS627 	01:09:21,00 --> 01:09:28,50 	his coach swaggers closer and averts his eyes, then whirls to face someone.
@@ -830,7 +713,6 @@ TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS877 	01:33:01,00 --> 01:33:06,50 	someone faces 
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS889 	01:33:54,00 --> 01:34:00,50 	she shares an elated smile with him, then faces the stage.
 TRUE_GRIT.srt 	TRUE_GRIT_DVS43 	00:07:56,00 --> 00:08:02,50 	in an outhouse, someone stands facing the small wooden building.
 TRUE_GRIT.srt 	TRUE_GRIT_DVS247 	00:50:51,00 --> 00:50:56,50 	the rider stops facing someone.
-TRUE_GRIT.srt 	TRUE_GRIT_DVS293 	01:02:34,00 --> 01:02:43,50 	someone walks out of the cabin and steps up to the four riders who sit side by side on their horses facing him.
 TRUE_GRIT.srt 	TRUE_GRIT_DVS418 	01:21:54,00 --> 01:21:59,50 	an ugly rat faced man has someone by the wrist.
 TRUE_GRIT.srt 	TRUE_GRIT_DVS594 	01:43:19,00 --> 01:43:26,50 	ashen faced, someone stands at his grave.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS36 	00:04:23,00 --> 00:04:29,50 	spinning wearily in his chair, the director faces someone.
@@ -838,7 +720,6 @@ UGLY_TRUTH.srt 	UGLY_TRUTH_DVS216 	00:19:04,00 --> 00:19:08,50 	someone faces so
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS240 	00:22:53,00 --> 00:22:58,50 	now in her bathroom, someone faces a mirror.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS289 	00:28:58,00 --> 00:29:05,50 	he faces the camera.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS470 	00:57:35,00 --> 00:57:41,50 	someone faces her with a smile and she grins.
-UGLY_TRUTH.srt 	UGLY_TRUTH_DVS473 	00:57:55,00 --> 00:58:07,50 	as he turns away to pay the barista, someone faces someone and bounces girlishly.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS648 	01:30:15,00 --> 01:30:21,50 	someone stares at him out of the corners of her narrowed eyes, then faces him.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS30 	00:04:26,00 --> 00:04:36,50 	later, he strolls a neighborhood with a rugged-	faced man.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS323 	00:52:27,00 --> 00:52:35,50 	as someone moves off, someone faces his colleagues and emphatically mouths, wow.
@@ -858,7 +739,6 @@ WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS700 	01:41:52,00 --> 01:41:57,50 	someon
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS714 	01:43:02,00 --> 01:43:09,50 	facing someone, the inspector lifts his brow, smirks, and marks the report.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS837 	01:57:42,00 --> 01:57:53,50 	he strides up to the table, faces a seat, then stares wistfully.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS45 	00:02:47,00 --> 00:02:54,50 	he faces her with an eager smile, then dumps his stuff as she serves up his breakfast.
-WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS48 	00:03:04,00 --> 00:03:09,50 	the woman sits facing him.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS61 	00:05:03,00 --> 00:05:08,50 	a coworker faces a windowed office.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS63 	00:05:19,00 --> 00:05:24,50 	the boss faces them through his office window and stands.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS116 	00:11:34,00 --> 00:11:40,50 	someone spins to face the engaged couple and flourishes her free hand.
@@ -866,17 +746,13 @@ WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS119 	00:12:18,00 --> 00:12:23,50 	fa
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS144 	00:18:39,00 --> 00:18:45,50 	in the morning, someone sleeps curled up in bed, facing her nightstand.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS192 	00:23:17,00 --> 00:23:22,50 	someone faces the entrance and frowns.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS206 	00:25:47,00 --> 00:25:52,50 	someone halts and her sister faces her.
-WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS208 	00:26:06,00 --> 00:26:14,50 	she sets the bottle down with a glass already poured, puts down the books, and sits facing a computer.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS260 	00:36:19,00 --> 00:36:24,50 	she faces someone's laptop.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS300 	00:41:14,00 --> 00:41:18,50 	she faces someone.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS368 	00:53:01,00 --> 00:53:07,50 	she grimaces, then faces the others at the large table.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS421 	00:59:11,00 --> 00:59:21,50 	still in her tight cocktail dress, someone dances around the couch and faces someone, wildly waving her arms overhead and kicking her feet.
-WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS451 	01:03:00,00 --> 01:03:07,50 	he playfully keeps the ball away, then faces her, holding the ball behind her head.
-WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS465 	01:05:30,00 --> 01:05:36,50 	as they face each other, he looks into her eyes, then lowers his gaze.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS477 	01:07:08,00 --> 01:07:18,50 	the next morning, our view descends to the bed, where someone and someone sleep facing each other, her hand gently resting on his cheek.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS526 	01:13:48,00 --> 01:13:55,50 	at a dressing table, someone faces a mirror as she backcombs her hair.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS530 	01:14:02,00 --> 01:14:08,50 	facing her mirror, the young woman copies the hairstyle.
-WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS617 	01:23:32,00 --> 01:23:40,50 	the bride and groom smile at the officiant, then face each other lovingly, and hold each other's hands.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS628 	01:26:12,00 --> 01:26:18,50 	their expressions grow pensive and they both face the stage.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS637 	01:28:04,00 --> 01:28:08,50 	someone faces someone.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS104 	00:07:01,00 --> 00:07:05,50 	he faces his mother.
@@ -891,7 +767,6 @@ XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS177 	00:14:05,00 --> 00:14:11,50 	now 
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS210 	00:15:46,00 --> 00:15:52,50 	he calmly strolls back around the desk, then faces the banker.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS259 	00:19:56,00 --> 00:20:01,50 	in the study, the agent ducks and faces a bookcase,
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS272 	00:21:40,00 --> 00:21:44,50 	mactaggert faces her partner.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS300 	00:23:16,00 --> 00:23:21,50 	with a cold scowl, he turns to face the stranger.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS330 	00:24:58,00 --> 00:25:03,50 	someone faces him gravely.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS346 	00:27:26,00 --> 00:27:32,50 	someone faces someone, who reclines on a lounge chair.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS357 	00:29:12,00 --> 00:29:16,50 	someone faces someone.
@@ -915,7 +790,6 @@ XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS855 	01:18:25,00 --> 01:18:32,50 	faci
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS872 	01:19:54,00 --> 01:20:00,50 	someone faces someone.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS895 	01:21:49,00 --> 01:21:54,50 	someone faces the satellite dish.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS971 	01:29:13,00 --> 01:29:21,50 	someone faces a sultry woman, slightly older, with wavy blonde hair.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS993 	01:30:35,00 --> 01:30:40,50 	she faces someone, who takes a bottle out of a refrigerator.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS993 	01:30:35,00 --> 01:30:40,50 	he faces her, slack-jawed.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1035 	01:33:37,00 --> 01:33:44,50 	on either side of the cargo ship, the opposing fleets face each other.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1041 	01:34:19,00 --> 01:34:23,50 	an officer faces him.
@@ -930,14 +804,11 @@ XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1335 	02:01:38,00 --> 02:01:44,50 	som
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1342 	02:03:29,00 --> 02:03:36,50 	clad in white, the blonde mutant rises from her bed and faces a metal door.
 YOUNG_ADULT.srt 	YOUNG_ADULT_DVS123 	00:22:23,00 --> 00:22:30,50 	the next morning, someone lies face down on her hotel bed still wearing the clothes from the previous night.
 YOUNG_ADULT.srt 	YOUNG_ADULT_DVS274 	00:52:58,00 --> 00:53:03,50 	without facing her, someone waves and disappears inside.
-YOUNG_ADULT.srt 	YOUNG_ADULT_DVS385 	01:14:17,00 --> 01:14:22,50 	someone holds up the drumsticks and faces the crowd.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS127 	00:11:05,00 --> 00:11:14,50 	he pauses, facing someone.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS203 	00:22:01,00 --> 00:22:05,50 	now they face the entrance.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS267 	00:29:34,00 --> 00:29:41,50 	facing someone, he extends the middle finger.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS324 	00:36:36,00 --> 00:36:41,50 	back the present, someone faces someone.
-ZOMBIELAND.srt 	ZOMBIELAND_DVS346 	00:39:45,00 --> 00:39:51,50 	someone eyes someone then looks away just as she turns to face him.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS487 	00:57:26,00 --> 00:57:33,50 	the open wallet contains two cherished snapshots of the bright faced boy.
-ZOMBIELAND.srt 	ZOMBIELAND_DVS589 	01:08:06,00 --> 01:08:14,50 	back at someone murray's, someone faces someone who sits astride a customized motorcycle.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS611 	01:10:14,00 --> 01:10:19,50 	little someone faces her sister.
 ZOOKEEPER.srt 	ZOOKEEPER_DVS107 	00:22:14,00 --> 00:22:41,50 	the zookeeper awkwardly steps out and faces the indifferent lion.
 ZOOKEEPER.srt 	ZOOKEEPER_DVS154 	00:35:11,00 --> 00:35:16,50 	he faces the pole.

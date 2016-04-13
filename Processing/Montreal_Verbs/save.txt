@@ -1,5 +1,3 @@
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS263 	00:47:29,00 --> 00:47:35,50 	a newspaper headline, mystery man saves child.
 DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS395 	01:36:42,00 --> 01:36:48,50 	someone saves someone from an arrow.
-PROMETHEUS.srt 	PROMETHEUS_DVS980 	01:47:58,00 --> 01:48:06,50 	someone lies in a pocket left underneath the ship, saved by the formation of jagged rocks behind her.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS82 	00:16:17,00 --> 00:16:36,50 	someone deletes saved episodes of weeds and 30 rock from someone's tivo.
-WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS46 	00:02:51,00 --> 00:02:57,50 	the man flops down at the table, his t-shirt reading, "save the fucking earth."

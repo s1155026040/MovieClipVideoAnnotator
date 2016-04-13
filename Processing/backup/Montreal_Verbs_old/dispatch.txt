@@ -1,0 +1,4 @@
+THOR.srt 	THOR_DVS154 	00:22:11,00 --> 00:22:23,50 	meanwhile, another giant knocks down someone, but someone dispatches him with a flying knife.
+XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS720 	01:04:46,00 --> 01:04:52,50 	the mutant easily dispatches him, stabbing him in the back.
+XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS810 	01:13:14,00 --> 01:13:21,50 	dear comrades, the united states have dispatched warships for cuba.
+XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS816 	01:13:38,00 --> 01:13:42,50 	dispatch the fleet.

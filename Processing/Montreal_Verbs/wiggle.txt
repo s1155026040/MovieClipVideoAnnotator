@@ -1,16 +1,6 @@
-BURLESQUE.srt 	BURLESQUE_DVS390 	00:54:10,00 --> 00:54:20,50 	she tosses her head and shoulders back with each beat, then wiggles her hips at the crowd.
-COLOMBIANA.srt 	COLOMBIANA_DVS1029 	01:37:30,00 --> 01:37:36,50 	yanking her ponytail back, someone wiggles out of her hold.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS174 	00:32:37,00 --> 00:32:46,50 	upside down, with his right shoulder touching the ground, someone places his left hand on the road as he tries to wiggle free.
-JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS294 	00:58:13,00 --> 00:58:22,50 	the sisters hook pinkies, tap their thumbs together, then wiggle their hands away.
 JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS100 	00:37:34,00 --> 00:37:39,50 	he wiggles his finger from his chin.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS763 	01:18:47,00 --> 01:18:55,50 	closing his mouth, someone someone wiggles his nose and lip at the dangling morsel.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS659 	01:21:36,00 --> 01:21:44,50 	as someone wiggles the sardine.
-NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS133 	00:21:45,00 --> 00:21:51,50 	she wiggles her hips and waves her hand around provocatively.
 NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS235 	00:39:49,00 --> 00:39:53,50 	he wiggles his toes.
 PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS378 	01:33:35,00 --> 01:33:39,50 	she wiggles an inviting finger.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS38 	00:04:31,00 --> 00:04:37,50 	a nearby man slips on a pair of leather gloves, then wiggles his fingers.
-THE_WATCH.srt 	THE_WATCH_DVS26 	00:04:29,00 --> 00:04:34,50 	strutting down an aisle, he wiggles his fingers and bobs his head.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS87 	00:10:27,00 --> 00:10:31,50 	someone wiggles his shoulder.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS328 	00:53:13,00 --> 00:53:20,50 	the inspector shifts his gaze to someone and wiggles his eyebrows.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS882 	01:20:39,00 --> 01:20:44,50 	raising his fingers, he wiggles them questioningly.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS950 	01:28:06,00 --> 01:28:11,50 	someone wiggles his normal-looking toes.

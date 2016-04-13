@@ -1,3 +1,1 @@
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS285 	00:54:44,00 --> 00:54:51,50 	someone walks off, someone eyes a war map tacked to the back of the tent.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS258 	00:38:46,00 --> 00:38:52,50 	he slips the brochure into a pocket then studies a map tacked to a wall.
 THE_WATCH.srt 	THE_WATCH_DVS242 	00:43:56,00 --> 00:44:01,50 	someone tacks a photo of octopus sushi onto the board.

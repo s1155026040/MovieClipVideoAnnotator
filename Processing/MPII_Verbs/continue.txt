@@ -1,15 +1,7 @@
-0001_American_Beauty_00.02.50.856-00.02.55.759 	jim #1 and carolyn continue to chat, unaware that lester is watching them.
 0001_American_Beauty_00.13.15.080-00.13.16.324 	but the tears continue.
-0001_American_Beauty_00.25.56.289-00.25.56.933 	a beat, as ricky continues his calculations, before he realizes a response is expected from him.
-0001_American_Beauty_00.54.15.719-00.54.28.530 	carolyn picks hers up mechanically, but continues to stare at him, enraptured, like a fervent christian who's just come face to face with jesus.
-0001_American_Beauty_01.24.34.678-01.24.35.708 	jane continues staring at her father.
-0002_As_Good_As_It_Gets_00.48.43.636-00.48.47.021 	as their conversation continues -- the dog is distressed.
 0002_As_Good_As_It_Gets_00.57.49.523-00.57.54.310 	thrown by the abruptness  pausing briefly outside simon's door then continues on her way
-0003_CASABLANCA_01.09.00.924-01.09.02.119 	carl continues to watch.
 0003_CASABLANCA_01.29.06.518-01.29.15.203 	renault hands some forms to the orderly, who then exits, and the conversation continues.
-0004_Charade_00.05.09.368-00.05.12.519 	reggie and sylvie are passing through, their conversation continuing.
 0004_Charade_00.05.17.971-00.05.24.109 	reggie and sylvie appear, their conversation continuing.
-0004_Charade_00.10.17.368-00.10.19.140 	blackness comes with a loud clang and continues while the echo dies.
 0004_Charade_00.31.56.950-00.32.00.287 	as he continues to speak he punctuates each phrase or so with another lit match.
 0004_Charade_00.49.36.964-00.49.37.160 	she continues after dyle.
 0004_Charade_00.49.37.307-00.49.37.596 	the tourist hesitates, then continues after her.
@@ -18,108 +10,61 @@
 0004_Charade_00.58.47.793-00.59.15.748 	she continues working on his back, cleaning it, then bandaging it while they talk.
 0004_Charade_01.01.31.786-01.01.34.538 	he tries to talk as she continues kissing him.
 0004_Charade_01.01.35.359-01.01.39.042 	the phone continues to ring and she continues to kiss him.
-0004_Charade_01.05.06.921-01.05.09.069 	they continue going through the items from the bag.
-0004_Charade_01.26.47.809-01.26.51.634 	the british delegate rises to speak, continuing through the next scene.
-0004_Charade_01.37.54.971-01.37.55.295 	as reggie continues to run.
-0005_Chinatown_00.40.11.991-00.40.15.131 	he turns at a fork in the road which allows him to continue following the flood channel.
-0005_Chinatown_01.31.33.726-01.31.35.009 	continues to watch.
-0005_Chinatown_01.47.59.003-01.48.07.072 	gittes continues to look around.
-0005_Chinatown_02.01.12.584-02.01.14.287 	stares at the bifocal lenses as cross continues to look through the obituary column.
 0006_Clerks_00.32.22.105-00.32.26.354 	randal hardly stirs and continues to read his paper.
-0006_Clerks_00.32.51.490-00.32.52.219 	randal continues to read his paper, not looking up.
 0006_Clerks_00.32.51.852-00.32.53.859 	randal continues to read.
 0006_Clerks_00.32.57.474-00.33.00.119 	randal continues to read.
 0006_Clerks_01.01.57.641-01.02.02.104 	a customer pays for something while dante continues to talk.
-0007_DIE_NACHT_DES_JAEGERS_00.18.22.050-00.18.22.784 	they look casually to john, and continue talking.
-0007_DIE_NACHT_DES_JAEGERS_00.21.11.195-00.21.24.237 	icey enters the shot and whispers and beckons willa and, as the singing continues, they leave the group and start towards a shade tree in medium ground, which we pan to center.
 0007_DIE_NACHT_DES_JAEGERS_00.22.18.990-00.22.20.134 	singing continues o.s.
 0007_DIE_NACHT_DES_JAEGERS_00.33.47.340-00.33.54.536 	she continues to gather the money together.
-0007_DIE_NACHT_DES_JAEGERS_00.44.12.790-00.44.15.846 	we continue to follow the line up, and bring in, close, the stern of ben harper's skiff.
-0007_DIE_NACHT_DES_JAEGERS_01.12.11.825-01.12.16.113 	as she continues, she puts aside the book and takes up her mending.
 0008_Fargo_00.25.37.312-00.25.39.207 	as we hear the rumble of an approaching car, the continuing tilt and boom down brings us down the woodsman's body to a pedestal.
 0008_Fargo_00.33.20.086-00.33.23.975 	the continuing track reveals a couple in bed, sleeping.
 0009_Forrest_Gump_00.09.06.768-00.09.10.408 	forrest sits on the swing as the grunts continue.
 0009_Forrest_Gump_00.12.04.027-00.12.13.629 	elvis continues to perform over the television.
-0009_Forrest_Gump_00.13.34.083-00.13.45.955 	forrest continues talking as he sits on the bus bench.
 0009_Forrest_Gump_00.15.27.595-00.15.30.395 	forrest continues talking to the black woman.
-0009_Forrest_Gump_00.16.14.615-00.16.15.111 	forrest continues running as the boys chase him.
-0009_Forrest_Gump_00.16.44.639-00.16.46.530 	forrest continues to run faster as the metal braces and straps fly off his legs.
 0009_Forrest_Gump_00.17.07.309-00.17.08.025 	the black woman continues to read her magazine.
-0009_Forrest_Gump_00.20.47.588-00.20.54.222 	forrest looks left as he continues telling his life story.
 0009_Forrest_Gump_00.20.59.390-00.21.07.098 	the truck continues to chase him as the boys pound on the roof.
-0009_Forrest_Gump_00.22.18.118-00.22.20.719 	forrest continues to run, smashing through the band members, then all the way toward the team tunnel.
 0009_Forrest_Gump_00.34.42.558-00.34.53.694 	bubba continues talking about shrimp in his slow southern drawl.
 0009_Forrest_Gump_00.56.28.939-00.56.32.346 	forrest continues with his life story.
-0009_Forrest_Gump_01.06.11.854-01.06.14.052 	forrest continues to speak into the microphone, even though no one can hear what he is saying.
 0009_Forrest_Gump_01.06.26.405-01.06.28.139 	forrest continues to speak into the microphone.
 0009_Forrest_Gump_02.01.58.933-02.02.21.931 	forrest continues to stare at forrest jr.
 0010_Frau_Ohne_Gewissen_00.13.08.165-00.13.17.011 	he hands her his hat and briefcase and continues right on, camera with him, to a door lettered.
-0010_Frau_Ohne_Gewissen_00.40.23.058-00.40.27.808 	during the ensuing low-spoken dialogue, they continue to face the shelves, not looking at each other.
 0010_Frau_Ohne_Gewissen_01.10.58.954-01.10.59.177 	finally keyes continues.
-0011_Gandhi_00.04.56.629-00.04.59.131 	as the cortege continues on its way, we get shots of the marching soldiers, of the faces of sikhs, and tamils, anglo- indians, moslems from the north, marathas from the south, blue-eyed parsees, dark-skinned keralans.
-0011_Gandhi_00.12.10.646-00.12.20.939 	it is flat and dull, like someone reading a speech to themselves, and those in the crowd who had hesitated before wandering off shrug and continue on their way.
 0011_Gandhi_01.31.32.109-01.31.33.523 	the camera continues its pan -- bits of human hair matted in the dried blood, and the bullet-ripped foliage, the well, trampled ground around it, little pieces of clothing.
 0011_Gandhi_01.48.31.573-01.48.36.467 	nehru feels helpless but he continues to try.
-0011_Gandhi_02.03.55.596-02.03.58.236 	he turns from the sea to walker, his eyes confident, elated, then he continues on down the promontory.
-0012_Get_Shorty_01.00.12.435-01.00.14.718 	chili continues up the stairs to where bo catlett stands beside the table.
 0013_Halloween_00.06.04.950-00.06.05.237 	the sister continues to stare incredulously.
-0013_Halloween_00.14.12.035-00.14.16.051 	laurie and tommy continue walking down the street.
 0013_Halloween_01.00.31.680-01.00.34.129 	they continue kissing, unaware of the shape of a man on the stairway watching.
 0013_Halloween_01.00.45.364-01.00.49.028 	the procession continues through the house.
 0013_Halloween_01.00.49.393-01.00.50.225 	the procession continues to the front window.
-0013_Halloween_01.03.16.237-01.03.27.804 	camera moves back from the bed as their lovemaking continues, back through the bedroom doorway.
 0013_Halloween_01.07.58.540-01.08.00.557 	laurie continues to hear weird sounds.
 0013_Halloween_01.18.29.339-01.18.30.095 	laurie continues to pound on the door.
-0014_Ist_das_Leben_nicht_schoen_00.05.22.164-00.05.26.352 	the boys continue until they reach gower's drugstore.
-0014_Ist_das_Leben_nicht_schoen_00.23.04.143-00.23.04.629 	some are so engrossed in dancing they continue at top speed.
 0014_Ist_das_Leben_nicht_schoen_00.36.39.931-00.36.42.163 	uncle billy and ruth continue out of shot.
 0014_Ist_das_Leben_nicht_schoen_00.41.34.748-00.41.38.404 	she links her arm in his and continues on down the street with him.
 0014_Ist_das_Leben_nicht_schoen_01.23.32.843-01.23.33.718 	they continue on down the street on their search.
 0014_Ist_das_Leben_nicht_schoen_01.23.37.103-01.23.42.406 	george and uncle billy continue their search.
-0014_Ist_das_Leben_nicht_schoen_01.51.56.917-01.52.00.393 	george feverishly continues to turn his pockets inside out.
-0014_Ist_das_Leben_nicht_schoen_02.00.06.122-02.00.09.017 	she looks up, surprised, but, not recognizing him, continues on.
-0014_Ist_das_Leben_nicht_schoen_02.01.00.248-02.01.03.108 	he grabs for george, who lets him have one square on the button, knocking him down, then continues running down the street yelling for clarence.
-0014_Ist_das_Leben_nicht_schoen_02.04.10.113-02.04.13.547 	he kisses it lovingly and puts it back, then continues up the stairs.
 0016_O_Brother_Where_Art_Thou_00.18.39.756-00.18.43.382 	white-robed people continue to drift past them.
 0016_O_Brother_Where_Art_Thou_00.30.43.558-00.30.45.286 	the man with the bullhorn continues, directing his comments at the distant barn.
-0016_O_Brother_Where_Art_Thou_00.43.35.007-00.43.46.705 	strangely, the three laundresses do not answer, though they do smile at him as they continue to sing.
 0016_O_Brother_Where_Art_Thou_00.44.21.649-00.44.52.591 	none of the women respond but, as all continue to sing, one brings a jug marked with three xes to everett.
 0016_O_Brother_Where_Art_Thou_00.48.42.036-00.48.44.107 	delmar continues to whimper.
-0016_O_Brother_Where_Art_Thou_00.49.30.945-00.49.34.409 	he thus reveals a cream-colored eyepatch with powder-blue trim; his good eye is looking intently off - at everett and delmar, who continue arguing, out of earshot.
 0016_O_Brother_Where_Art_Thou_01.14.48.920-01.14.50.864 	as the chanting continues, two klansmen lead a black man, whom they grasp by either arm, up the aisle toward the gibbet.
-0016_O_Brother_Where_Art_Thou_01.23.44.954-01.23.46.562 	she shakes her head vigorously and looks down at her plate as everett continues pleading to her back.
 0016_O_Brother_Where_Art_Thou_01.27.25.415-01.27.28.246 	a disgruntled audience member yanks out the microphone plug; stokes continues to mouth the inaudible words.
 0017_Pianist_00.03.01.364-00.03.04.137 	the others continue to bustle and pack.
-0017_Pianist_00.16.00.264-00.16.03.556 	he looks back, but dorota is lost to sight and the procession continues on its way.
 0017_Pianist_00.18.25.458-00.18.28.859 	szpilman and henryk, too, continue on their way.
-0017_Pianist_00.26.15.339-00.26.17.034 	szpilman continues to try to pull the boy through.
-0017_Pianist_00.26.17.034-00.26.18.878 	the sound of the german voice swearing and the dull, crunching noise made by the boot smashing into the boy continues, and with every thud the boy screams in terrible pain.
 0017_Pianist_00.33.17.054-00.33.26.408 	heller shoves someone aside so that szpilman can approach, but he continues to beat and manhandle people.
 0017_Pianist_00.43.01.943-00.43.09.947 	her cries continue at intervals.
 0017_Pianist_00.54.25.458-00.54.28.044 	he can't continue.
-0017_Pianist_01.19.23.969-01.19.26.280 	the piano continues for a moment, but suddenly stops.
 0017_Pianist_01.27.40.839-01.27.43.260 	he continues to try to cut the bread, when there's a loud hammering on the front door.
-0017_Pianist_01.27.44.015-01.27.47.551 	the hammering continues as szpilman stumbles into the room, looks around, confused, not knowing what to do.
 0017_Pianist_01.44.11.370-01.44.13.293 	the tram continues on its way, now revealing the few passengers who alighted '97 women, an old man with a stick.
 0017_Pianist_02.16.49.893-02.16.53.551 	szpilman runs, the firing continuing.
-0019_Pulp_Fiction_00.29.19.479-00.29.21.427 	jody continues talking to trudi, leaving vincent to ponder the truth of her statement.
 0019_Pulp_Fiction_00.53.27.716-00.53.38.658 	vincent dries his hands on a towel while he continues his dialogue with the mirror.
 0019_Pulp_Fiction_00.54.32.178-00.54.39.328 	vince continues.
 0019_Pulp_Fiction_00.58.28.155-00.58.33.385 	lance continues his frenzied search.
 0019_Pulp_Fiction_00.58.28.160-00.58.29.248 	as he continues searching, flipping and knocking over shit, jody appears in the doorway.
 0019_Pulp_Fiction_01.09.08.399-01.09.21.429 	the sportscasters continue their coverage.
 0019_Pulp_Fiction_01.19.29.446-01.19.31.676 	butch continues to massage her crotch.
-0019_Pulp_Fiction_01.34.33.384-01.34.35.719 	when marsellus is in front of butch's car, he casually glances to his left, sees butch, continues walking.
-0019_Pulp_Fiction_01.40.48.293-01.41.18.280 	zed continues his silent sing-song with his finger moving left to right, then it stops.
 0019_Pulp_Fiction_02.03.30.599-02.03.55.988 	the wolf continues his examination.
 0020_Raising_Arizona_00.07.25.154-00.07.26.609 	hi and ed continue to stare at the point where it disappeared.
 0020_Raising_Arizona_00.21.12.645-00.21.13.897 	through his teeth as he continues to grin at the offscreen camera.
-0020_Raising_Arizona_00.58.32.252-00.58.36.868 	his eyes continue to follow some phantom movement.
-0020_Raising_Arizona_01.06.38.960-01.06.43.098 	hi is leaving frame again, continuing to talk as we hear him rummaging offscreen.
-0021_Rear_Window_00.04.20.145-00.04.22.032 	while jeff is continuing his phone conversation, we see the object of his look.
-0021_Rear_Window_00.05.29.527-00.05.38.408 	she picks up both bread and chicken leg and continues her interpretive dance, alternately munching the bread and butter and chicken leg.
 0021_Rear_Window_00.06.20.428-00.06.25.421 	with his eyes still focused on the distant apartments, jeff continues talking with gunnison.
-0021_Rear_Window_00.31.13.008-00.31.16.163 	continues smiling as she close the door softly behind her.
 0021_Rear_Window_00.40.05.060-00.40.14.162 	jeff continues to what the salesman, his face showing a great concentration of thought.
 0021_Rear_Window_00.43.33.857-00.43.35.857 	the camera continues its pan to the left, to include the couple who sleep on the fire escape in the hot weather.
 0021_Rear_Window_01.13.40.078-01.13.41.078 	she continues rotating the brandy.
@@ -127,111 +72,55 @@
 0021_Rear_Window_01.36.25.801-01.36.27.902 	jeff's conversation continues over the action of the two women.
 0022_Reservoir_Dogs_01.12.11.820-01.12.16.767 	sheriff #2 continues with his story.
 0023_THE_BUTTERFLY_EFFECT_00.01.25.509-00.01.32.026 	fatigue overwhelms him, but he continues writing.
-0023_THE_BUTTERFLY_EFFECT_00.03.46.960-00.03.51.465 	evan is surprised to see his mother enter with mrs. boswell, but continues playing with kayleigh, now seven, a quiet, sweet-looking girl.
 0023_THE_BUTTERFLY_EFFECT_01.18.49.018-01.18.51.957 	they continue to stare.
 0023_THE_BUTTERFLY_EFFECT_01.34.17.164-01.34.18.486 	mrs. halpern, startled, stares at the young kid skeptically as she absently continues toward the mailbox.
 0023_THE_BUTTERFLY_EFFECT_01.50.41.680-01.50.47.131 	fatigue overwhelms him, but he continues writing.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.25.15.079-00.25.23.592 	gandalf continues staring into the fire, as if locked in thought.
 0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.38.08.388-00.38.12.790 	frodo and sam continue their journey.
 0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.48.44.060-01.48.51.126 	they continue up a steep stair, passing through a dwarf cemetery.
 0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.39.06.054-02.39.22.897 	amazingly, boromir continues fighting, but another arrow.and another, brings him to his knees.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.27.19.386-00.27.20.107 	the boy continues running.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.01.05.428-01.01.06.950 	denethor continues with his meal.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.10.33.413-01.10.36.284 	throughout the above sequence denethor has continued to eat.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.10.39.355-01.10.44.986 	he looks up at denethor who continues as if he has not sent his son to his death.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.30.00.315-01.30.07.496 	thousands of orcs continue moving relentlessly forward.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.38.22.064-01.38.26.828 	they continue on, deep into the dark tunnel.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.47.59.878-01.48.04.247 	rows of archers fire off a volley of arrows but the trolls continue to smash the foot soldiers with their giant clubs.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.56.41.600-01.56.51.170 	the pitched battle continues.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.00.25.922-02.00.51.176 	the charge continues.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.20.41.101-02.20.44.637 	he grips sting and continues charging up -- screaming at the top of his lungs!
-0026_The_Big_Fish_00.01.55.284-00.02.09.040 	a few years later, and will sits with the other indian guides as edward continues telling the story to the tribe.
 0026_The_Big_Fish_00.11.09.074-00.11.12.121 	the boards squeal and creak, but he continues on.
 0026_The_Big_Fish_00.33.45.714-00.33.49.195 	the townsfolk continue to congratulate edward.
 0026_The_Big_Fish_01.03.19.307-01.03.22.371 	the tweedy economics professor continues his explanation.
 0026_The_Big_Fish_01.05.05.051-01.05.07.895 	as the ass-whupping continues, we.
 0026_The_Big_Fish_01.05.21.833-01.05.24.702 	the thrashing continues.
 0026_The_Big_Fish_01.27.06.324-01.27.09.760 	edward continues his narration.
-0027_The_Big_Lebowski_00.11.56.015-00.11.58.517 	our continuing track and pan have brought us onto a framed life magazine cover which is headlined are you a lebowski achiever?
-0027_The_Big_Lebowski_00.16.23.875-00.16.26.633 	he continues to lead away the dude, who looks back over his.
 0027_The_Big_Lebowski_00.31.08.528-00.31.09.468 	as the picture fades in the bowling noises continue, but filtered and faint.
-0028_The_Crying_Game_00.53.56.522-00.53.58.373 	the car continues down the road, stops, and then screeches off.
-0028_The_Crying_Game_01.07.40.329-01.07.48.372 	as the whistles continue, we see dil in the site's lift, which rises up.
-0029_The_Graduate_00.20.58.548-00.21.09.822 	ben continues to walk toward us.
 0029_The_Graduate_00.41.29.107-00.41.29.772 	ben continues to stare at the set.
-0029_The_Graduate_00.55.23.546-00.55.28.327 	benjamin looks at his father for a moment, then continues eating and reading.
-0029_The_Graduate_01.17.14.139-01.17.25.268 	he looks at ben searchingly, then turns and continues up the stairs and down the hall.
 0030_The_Hustler_00.35.58.682-00.36.02.281 	after a moment, fats continues on toward the door.
 0030_The_Hustler_01.55.02.292-01.55.03.563 	the men return to the table to continue their game.
-0031_The_Lost_Weekend_01.05.42.279-01.05.48.405 	when a trolley car gets out of his way, he continues to cross the street.
-0032_The_Princess_Bride_00.45.06.972-00.45.13.027 	as westley continues to pull them to safety.
 0032_The_Princess_Bride_00.46.01.831-00.46.02.421 	he continues to work on her as.
-0032_The_Princess_Bride_01.26.05.900-01.26.07.785 	count rugen, stepping back for just a moment, watching as inigo continues to inch his way to his feet and then, just before the count is about to strike again, inigo manages a little flick of his own and rugen hadn't expected it, and he jumps back, makes a little involuntary cry of surprise and.
-0038_Psycho_00.05.01.567-00.05.03.375 	she stares at him, surprised at his willingness to continue the affair on her terms, as girls are so often surprised when they discover men will continue to want them even after the sexual bait has been pulled in.
-0038_Psycho_00.08.07.948-00.08.14.417 	mary glances, cannot bring herself to smile or make some remark, continues sorting out the deed copies, tries to ignore the man's hot-breath closeness.
-0038_Psycho_00.44.52.139-00.44.54.055 	he turns from the hole, faces us for a moment, continues turning until he can look out the small parlor window.
-0038_Psycho_01.30.38.962-01.30.41.369 	she closes it quickly as she hears sam and norman coming out of the motel office, continues on down the porch.
 0038_Psycho_01.47.47.353-01.47.48.420 	norman continues to gaze ahead into nothing.
 0041_The_Sixth_Sense_00.57.02.834-00.57.04.384 	they continue down the hall in silence.
-0043_Thelma_and_Luise_00.11.09.567-00.11.13.462 	louise realizes that thelma is going to revert to a teenager and continue whining unless she gives in.
-0043_Thelma_and_Luise_00.41.30.118-00.41.33.871 	she sees thelma talking to this guy and, for one moment, stops dead in her tracks as she takes this in, then continues toward the car.
 0043_Thelma_and_Luise_01.57.31.071-01.57.34.069 	she continues barreling towards it without slowing down.
 0046_Chasing_Amy_00.03.53.138-00.03.59.395 	he composes himself and continues signing.
 0046_Chasing_Amy_00.26.05.046-00.26.08.084 	holden continues to stare - mouth agape.
 0046_Chasing_Amy_00.26.18.585-00.26.20.365 	alyssa and the girl continue to kiss.
-0046_Chasing_Amy_00.26.23.455-00.26.28.134 	alyssa and the girl continue to make out.
-0049_Hannah_and_her_sisters_00.02.36.276-00.02.38.097 	elliot's voice-over continues as he is actually seen, standing in a doorway having a conversation with a gesturing, rotund man.
-0049_Hannah_and_her_sisters_00.02.40.628-00.02.42.762 	elliot watches lee walk off; the other man, oblivious, continues to talk.
 0049_Hannah_and_her_sisters_00.02.49.173-00.02.50.263 	in the background, guests continue to chatter warmly with each other.
-0049_Hannah_and_her_sisters_00.04.28.392-00.04.30.474 	as they continue to sing, the film cuts back to the kitchen, where lee, carrying some glasses, enters through the doorway.
-0049_Hannah_and_her_sisters_00.06.07.649-00.06.09.003 	as holly continues to tease her sister, hannah opens a drawer in the cabinet.
-0049_Hannah_and_her_sisters_00.06.26.550-00.06.31.488 	elliot walks into the bedroom as lee continues to talk offscreen.
 0049_Hannah_and_her_sisters_00.08.11.818-00.08.14.666 	the group continues to cheer as they all toast hannah.
 0049_Hannah_and_her_sisters_00.08.15.367-00.08.26.299 	the guests, sipping their wine, quiet down as norma continues to speak.
-0049_Hannah_and_her_sisters_00.09.38.962-00.09.44.593 	lee continues to walk, past a modern chaise, a bookcase, some sofas, two columns.
-0049_Hannah_and_her_sisters_00.11.34.831-00.11.40.103 	without missing a beat, he takes mary's wrist and continues walking.
-0049_Hannah_and_her_sisters_00.13.20.087-00.13.29.750 	hannah continues to nod patiently, patting mickey on the back, as they make their way across the foyer into the den, where the twins are playing.
-0049_Hannah_and_her_sisters_00.14.28.521-00.14.37.727 	it moves across a dark examining-room wall to a second doorway, where mickey sits on a stool, continuing to talk to the offscreen dr. abel.
 0049_Hannah_and_her_sisters_00.17.15.700-00.17.19.219 	he continues to wring his hands as gail stares at him, concerned.
 0049_Hannah_and_her_sisters_00.23.32.028-00.23.41.773 	holly continues her ruminations as april leans over to say something to david.
 0049_Hannah_and_her_sisters_00.26.52.192-00.26.56.114 	he continues to talk to her as she remains offscreen in a nearby row.
 0049_Hannah_and_her_sisters_00.28.19.757-00.28.31.588 	as lee continues to read aloud, the movie cuts to elliot's darkened den, lit by a light in the hallway.
-0049_Hannah_and_her_sisters_00.30.26.018-00.30.42.921 	his voice is heard over the screen as he crosses the street, continuing his self-absorbed walk on the opposite side.
-0049_Hannah_and_her_sisters_00.36.21.116-00.36.23.099 	the aria continues as david hands a smiling holly a glass.
 0049_Hannah_and_her_sisters_00.39.16.252-00.39.24.487 	lee, smiling, continues to listen to the music, her head down; elliot stares at her.
-0049_Hannah_and_her_sisters_00.39.44.416-00.39.49.621 	elliot stares at lee, who continues to look down, her arms around her chest.
-0049_Hannah_and_her_sisters_00.39.51.519-00.39.57.972 	lee looks down again; the music plays softly and elliot continues to stare at her, thinking.
-0049_Hannah_and_her_sisters_00.44.12.175-00.44.18.398 	the camera moves to evan, who continues to tell his story, ignoring his wife's outburst, as he walks away from the kitchen doorway into the den.
-0049_Hannah_and_her_sisters_00.46.03.399-00.46.23.918 	the camera leaves hannah's face as she continues to reflect; it moves to the den, to the row of family photos on the piano: one of a present-day evan and norma, others where both norma and evan are young, beautiful, hopeful.
-0049_Hannah_and_her_sisters_00.46.45.169-00.46.51.384 	evan can be seen playing the piano as they continue their conversation.
-0049_Hannah_and_her_sisters_00.47.23.793-00.47.33.863 	the piano music continues in the background as the movie cuts to: lee walking along a wharf by the waterfront.
-0049_Hannah_and_her_sisters_00.47.33.863-00.47.41.291 	she stops at the edge of the wharf; the camera continues to move, to a group of wooden pilings nearby, lapped by the water.
 0049_Hannah_and_her_sisters_00.47.48.516-00.47.52.125 	the quiet continues as the film cuts to a close-up of a large, circular cat-scan module in an antiseptic hospital room.
-0049_Hannah_and_her_sisters_00.50.13.964-00.50.18.509 	as mickey continues to talk offscreen, gail closes the cabinet drawer and walks to a file cabinet behind mickey's desk.
 0049_Hannah_and_her_sisters_00.50.47.206-00.50.50.799 	she pops a piece of gum into her mouth as mickey continues to speak.
 0049_Hannah_and_her_sisters_00.53.32.668-00.53.33.692 	the baroque music continues as she enters the loft, her head soaked.
-0049_Hannah_and_her_sisters_00.54.18.390-00.54.54.533 	as frederick continues his monologue, lee is busy in the background: striking a wooden match and lighting a burner on the stove for the kettle, taking a glass out of the cupboard, walking into the bathroom for some pills, filling the glass with water in the kitchen sink, and taking her pills.
-0049_Hannah_and_her_sisters_00.57.31.462-00.57.43.772 	she continues to read her book as he sits down at the edge of the bed and muses.
 0049_Hannah_and_her_sisters_01.00.34.714-01.00.54.317 	several joggers pass mickey; he continues to ruminate.
-0049_Hannah_and_her_sisters_01.01.04.418-01.01.08.964 	mickey continues to look through the fence at the water and the distant skyline.
-0049_Hannah_and_her_sisters_01.02.10.979-01.02.14.955 	she then picks up her lit cigarette and continues to smoke.
 0049_Hannah_and_her_sisters_01.05.16.362-01.05.24.256 	they embrace tightly, continuing to dance.
-0049_Hannah_and_her_sisters_01.09.26.829-01.09.38.710 	they continue to walk.
-0049_Hannah_and_her_sisters_01.10.25.030-01.11.03.221 	the film moves from the audience to the stage where holly, her hands clasped in front of her, continues to sing her song.
-0049_Hannah_and_her_sisters_01.14.55.000-01.14.58.469 	the music continues as the film moves inside, where the choir is seen singing behind an altar glowing warm gold.
 0049_Hannah_and_her_sisters_01.15.01.768-01.15.03.605 	the choir continues to sing as the movie cuts to father flynn in his office.
-0049_Hannah_and_her_sisters_01.23.51.936-01.23.58.117 	the guest continue to laugh; they are charmed.
-0049_Hannah_and_her_sisters_01.23.58.117-01.24.00.395 	evan continues to laugh with everyone as he starts to play the piano.
-0049_Hannah_and_her_sisters_01.28.33.698-01.28.40.545 	he dries his hands as hannah, standing behind him, continues to talk.
-0049_Hannah_and_her_sisters_01.32.48.603-01.33.07.670 	the two of them are partially obscured by a large white jazz sign imprinted with a large red circle as they continue their conversation.
-0049_Hannah_and_her_sisters_01.37.31.829-01.37.36.507 	his reflection walks towards the theater entrance; he continues his story.
 0049_Hannah_and_her_sisters_01.38.11.146-01.38.11.912 	the film cuts back to the black-and-white movie screen as mickey continues to talk.
 0049_Hannah_and_her_sisters_01.38.50.984-01.38.54.930 	as mickey continues, the film cuts back to duck soup on the black-and-white screen.
 0049_Hannah_and_her_sisters_01.40.45.041-01.40.52.109 	they continue talking.
 0049_Hannah_and_her_sisters_01.42.39.296-01.42.49.110 	mickey continues to kiss holly.
 0049_Hannah_and_her_sisters_01.42.50.781-01.43.23.954 	mickey continues to kiss holly's neck; he chuckles.
 0050_Indiana_Jones_and_the_last_crusade_00.03.53.107-00.03.57.606 	fedora continues to admire the cross, then places it on the rock next to its box and the lantern.
-0050_Indiana_Jones_and_the_last_crusade_00.04.22.414-00.04.27.288 	as the robbers continue to search for additional valuables, indy is able to work his way unseen to within arm's reach of the cross.
 0050_Indiana_Jones_and_the_last_crusade_00.07.26.120-00.07.27.602 	indy and roscoe stare at the horn in amazement as they continue to struggle.
 0050_Indiana_Jones_and_the_last_crusade_00.10.42.956-00.10.44.441 	herman continues to spit -- right into indy's face.
 0050_Indiana_Jones_and_the_last_crusade_00.29.38.309-00.29.42.312 	indy continues to pound at the tile as the librarian resumes his stamping, still puzzled by the sound echoing through the library.
@@ -240,99 +129,52 @@
 0050_Indiana_Jones_and_the_last_crusade_01.19.30.657-01.19.34.088 	the flaming fuselage continues to rocket through the tunnel like a bullet down the muzzle of a gun.
 0050_Indiana_Jones_and_the_last_crusade_01.25.27.933-01.25.30.055 	kazim's men, brethren of the cruciform sword, continue to fire.
 0050_Indiana_Jones_and_the_last_crusade_01.26.03.002-01.26.05.979 	the battle continues -- a fierce exchange of gunshots, grenades and machine gun fire with losses on both sides.
-0050_Indiana_Jones_and_the_last_crusade_01.48.37.600-01.48.47.387 	it is a perfect forced perspective image of the rocks below with lines from a hundred feet continuing six feet below his sight line where his feet are stepping.
 0050_Indiana_Jones_and_the_last_crusade_01.59.33.140-01.59.38.381 	a moment passes as they all ready their mounts and sallah continues to laugh at indy.
-0051_Men_in_black_00.06.03.826-00.06.04.198 	it's propped up by a stick, like a puppet, and it continues to make expressions as he holds it.
 0051_Men_in_black_00.24.21.894-00.24.39.177 	zed continues addressing the recruits.
 0051_Men_in_black_00.37.36.267-00.37.40.431 	zed's voice continues.
-0051_Men_in_black_01.10.41.497-01.10.45.688 	and he continues into the morgue, leaving kay waiting outside.
 0051_Men_in_black_01.24.34.253-01.24.41.374 	jay watches as the bug continues its howl of triumph.he feels totally defeated.
-0053_Rendezvous_mit_Joe_Black_00.03.53.906-00.03.59.509 	parrish grins, continues on, is intercepted by allison who, on catching sight of him, bounces in from the terrace.
-0053_Rendezvous_mit_Joe_Black_00.16.14.969-00.16.20.200 	it is sharp but brief, he notices it but what it does not continue, he ignores it.
-0053_Rendezvous_mit_Joe_Black_00.25.36.640-00.25.41.603 	parrish, spinning with anxiety, tries to summon up his courage to go as allison continues.
 0053_Rendezvous_mit_Joe_Black_00.47.40.153-00.47.46.176 	joe continues to nibble at his peanut butter.
-0053_Rendezvous_mit_Joe_Black_02.46.54.236-02.47.00.852 	joe regards parrish, waits until he has a sense that parrish has accepted what joe has said, then joe continues.
 0053_Rendezvous_mit_Joe_Black_02.48.10.662-02.48.14.540 	in tandem they continue on and disappear over the crest of the hill.
-1001_Flight_00.49.11.174-00.49.19.352 	he continues his chore with determination as he moves from cabinet to cabinet, removing and tossing bottles and cans.
 1001_Flight_01.29.38.048-01.29.44.977 	she ends a call and continues packing her things in the bedroom.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.03.51.085-01.03.56.639 	as the kiss continues, she turns abruptly and walks out.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.05.57.360-01.06.03.041 	the celebration continues without ron and lavender, who run together up a flight of stairs.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.57.18.193-01.57.24.374 	he stops in front of harry for a moment then continues his descent.
-1003_How_to_Lose_Friends_and_Alienate_People_01.16.58.162-01.16.59.194 	he turns back to the stove and continues to cook.
-1005_Signs_00.30.20.550-00.30.27.040 	graham turns back to the table and takes a bite of pizza, while merrill, morgan, and bo continue looking out at the street.
-1005_Signs_01.08.05.530-01.08.10.197 	standing rooted to the floor, graham continues to scrutinize the images on the tv.
 1006_Slumdog_Millionaire_00.54.51.589-00.54.54.416 	the dancing girl continues her steps under the watchful gaze of an elderly male teacher who claps to maintain her tempo.
 1007_Spider-Man1_00.02.09.794-00.02.22.772 	the opening titles continue now with the animated background of skyscrapers.
 1007_Spider-Man1_00.10.00.859-00.10.02.553 	mary jane continues to pose.
-1007_Spider-Man1_01.09.57.188-01.10.06.187 	they continue on, high above the streets of manhattan as people stand and stare.
 1007_Spider-Man1_01.36.36.448-01.36.44.356 	a sullen harry continues up the stairs.
 1007_Spider-Man1_01.44.32.180-01.44.37.959 	the crowd on the bridge continue to throw debris.
 1008_Spider-Man2_01.42.51.515-01.42.59.224 	the train continues its way between the city buildings, as the two men rise and face eachother.
 1008_Spider-Man2_01.46.33.629-01.46.40.470 	spider-man jumps back onto the train, clutching his right knee as the train continues its relentless surge through the city.
-1008_Spider-Man2_01.48.09.445-01.48.10.309 	he continues to hold the webs attached to the buildings behind them.
-1010_TITANIC_01.13.54.905-01.14.03.456 	she turns rose back around, then continues lacing the corset.
-1010_TITANIC_01.41.08.311-01.41.13.290 	the ship continues moving alongside the iceberg.
-1010_TITANIC_02.36.12.272-02.36.29.460 	jack and rose continue to fight their way through the crowd which slowly funnels up another staircase.
-1010_TITANIC_02.37.28.501-02.37.31.775 	jack and rose continue on, pressing passed a group of people kneeling around a priest.
 1010_TITANIC_02.37.47.570-02.37.50.715 	water streams down the exposed propellers as they continue to tilt upward.
 1010_TITANIC_02.40.46.490-02.40.53.831 	as the rear of the ship continues to tilled upward
-1010_TITANIC_02.57.32.177-02.57.53.208 	rose continues to blow into the whistle as the rescuers shine their lights on her.
-1010_TITANIC_03.01.18.379-03.01.27.458 	rose continues to stare up at the giant statue as the crewman moves on.
 1012_Unbreakable_00.14.50.439-00.14.52.106 	he continues upstairs.
 1012_Unbreakable_00.24.37.801-00.24.40.065 	the boy continues to stare down at the comic.
-1012_Unbreakable_01.22.48.231-01.22.58.897 	the man continues up a street on a gentle incline, where large houses are set back from the road, and turns and walks up the path to a detached house with a mature tree in the front garden.
 1012_Unbreakable_01.34.05.081-01.34.06.747 	david continues to read the paper.
-1012_Unbreakable_01.34.11.081-01.34.19.309 	david continues to read, at last looking up and nodding.
-1014_2012_01.28.41.950-01.28.48.378 	outside the ash continues to fall as crowds mill around.
-1014_2012_01.43.58.202-01.44.06.526 	as the plane continues landing the cars are tossed out of the cargo door
 1014_2012_02.23.12.601-02.23.19.135 	the ark continues on its voyage away from the world's highest mountain.
 1017_Bad_Santa_00.05.58.589-00.06.04.018 	the snowman slides down between the escalators as the alarm system continues its arming countdown.
 1020_Crazy_Stupid_Love_00.02.28.205-00.02.30.689 	he continues to stare ahead.
-1020_Crazy_Stupid_Love_00.35.52.913-00.35.58.258 	she smiles, takes a deep breath and continues typing.
-1024_Identity_Thief_00.47.22.168-00.47.25.835 	she stands and they continue dancing with her eyes on sandy, who motions toward the door.
-1024_Identity_Thief_00.59.31.753-00.59.36.362 	sandy stares wide-eyed as the van continues to flip into the median.
 1026_Legion_00.10.05.669-00.10.08.335 	before continuing on her way back to the trailer.
 1026_Legion_00.38.04.988-00.38.09.512 	as the man arrives on the ground, michael continues shooting until the twitching stops.
-1028_No_Reservations_00.46.08.870-00.46.10.567 	nick continues to watch her as he works.
-1029_Pride_And_Prejudice_Disk_One_00.35.32.968-00.35.36.609 	jane continues, making slow progress.
 1029_Pride_And_Prejudice_Disk_One_00.43.28.556-00.43.33.825 	darcy looks after her thoughtfully before continuing with his game.
-1029_Pride_And_Prejudice_Disk_One_01.23.32.128-01.23.36.071 	he continues looking at her.
 1029_Pride_And_Prejudice_Disk_One_01.30.08.775-01.30.13.355 	lizzie hides a look of amusement as the dance continues.
-1029_Pride_And_Prejudice_Disk_One_02.10.37.414-02.10.43.053 	mary king continues to dance with wickham, smiling contentedly.
 1029_Pride_And_Prejudice_Disk_One_02.14.45.558-02.14.51.473 	they continue on past the gardener, who's busily pruning a bush.
 1029_Pride_And_Prejudice_Disk_One_02.17.20.447-02.17.26.028 	the horse-drawn carriage continues on past the green canopy of trees.
 1029_Pride_And_Prejudice_Disk_One_02.28.31.276-02.28.36.942 	then, continues on under the shady canopy of leaves.
 1029_Pride_And_Prejudice_Disk_One_02.39.23.190-02.39.26.354 	she waits patiently for him to continue.
 1030_Public_Enemies_00.01.04.339-00.01.06.915 	the line of prisoners continues away from a wall 30 feet high.
 1030_Public_Enemies_00.04.43.918-00.04.45.622 	inside dillinger waits with his tommy gun as the gang continues to dress.
-1030_Public_Enemies_00.08.13.557-00.08.18.727 	as dillinger turns and walks away from the farm house, the woman continues to gaze after him.
 1030_Public_Enemies_00.25.47.092-00.25.54.376 	she grins bashfully and continues down the sidewalk with his jacket and arm around her.
 1030_Public_Enemies_01.17.23.891-01.17.26.415 	he drags baby face, who continues to shoot.
-1031_Quantum_of_Solace_01.10.39.262-01.11.00.296 	parachute, lets go of her another dive for her as the plane and they continue to fall.
-1031_Quantum_of_Solace_01.33.34.952-01.33.53.184 	he spots her through the flames, puts his arms around her as the ceiling continues to crack by fire and falling rubble.
-1033_Sherlock_Holmes_A_Game_of_Shadows_01.18.13.186-01.18.23.179 	holmes continues to wander through the machine room and comes to another metal door with a glass window in it.
 1033_Sherlock_Holmes_A_Game_of_Shadows_01.47.52.495-01.47.54.553 	another man continues assembling the hyperemic cartridge.
 1034_Super_8_00.37.26.397-00.37.29.199 	the lights continue flickering.
 1034_Super_8_01.01.53.058-01.01.54.098 	it continues vibrating.
 1034_Super_8_01.20.08.283-01.20.13.862 	it continues along the road a short way like this before righting itself.
-1034_Super_8_01.33.18.132-01.33.21.575 	he watches as the alien continues with its work.
 1035_The_Adjustment_Bureau_01.33.10.054-01.33.13.049 	 the flights of stairs seem to continue infinitely.
 1035_The_Adjustment_Bureau_01.38.47.329-01.38.55.444 	david and elise glance after him, then continue forward together.
-1038_The_Great_Gatsby_00.13.36.179-00.13.36.752 	outside, snow continues to fall.
 1038_The_Great_Gatsby_00.55.09.940-00.55.13.822 	daisy continues to gaze at gatsby, dewy-eyed.
-1038_The_Great_Gatsby_00.58.36.915-00.58.39.961 	daisy and gatsby don't notice and continue looking deep into each other's eyes, smiling at each other.
 1038_The_Great_Gatsby_01.16.03.916-01.16.11.600 	gatsby continues to cover daisy in kisses.
 1038_The_Great_Gatsby_01.26.29.962-01.26.32.175 	photographers continue to stake out the mansion.
 1039_The_Queen_00.01.24.414-00.01.27.559 	crawford continues his oil painting.
-1039_The_Queen_00.58.58.897-00.59.07.340 	the land rover continues along a long, bumpy, and barren road, which runs parallel to a river.
 1039_The_Queen_01.00.04.413-01.00.09.835 	she continues to examine other parts of the land rover.
 1039_The_Queen_01.02.14.336-01.02.16.755 	the queen continues to stare at it.
-1039_The_Queen_01.13.43.707-01.13.53.821 	the royal family continue to look at the flowers outside balmoral, and are watched by a large crowd of onlookers.
-1039_The_Queen_01.22.59.806-01.23.01.472 	the queen continues to move along.
-1039_The_Queen_01.32.51.947-01.32.56.125 	the queen continues staring at tony, who nods stiffly in response.
-1039_The_Queen_01.35.24.091-01.35.28.300 	they continue walking down the corridor.
-1040_The_Ugly_Truth_01.12.07.440-01.12.12.606 	mike pulls her close, and they continue to dance, smiling happily.
-1041_This_is_40_01.33.39.501-01.33.43.985 	they continue walking, coyly avoiding each other's gaze.
 1041_This_is_40_01.56.47.949-01.56.52.443 	continuing onto a busy street, pete cuts off a car that narrowly avoids him.
 1043_Vantage_Point_00.13.26.726-00.13.30.077 	the presidential party continues, holden replacing barnes at the front.
 1043_Vantage_Point_00.35.05.268-00.35.11.831 	despite the chaos around them, howard continues to videotape the events in front of him.
@@ -341,11 +183,8 @@
 1044_Pride_And_Prejudice_Disk_Two_00.39.39.132-00.39.44.413 	the carriage continues on its way, passing through woods in the bright sunshine.
 1044_Pride_And_Prejudice_Disk_Two_00.41.29.835-00.41.37.688 	they continue on, into the next room.
 1044_Pride_And_Prejudice_Disk_Two_00.45.19.424-00.45.24.497 	inside, the tour of pemberley continues.
-1044_Pride_And_Prejudice_Disk_Two_00.48.30.312-00.48.40.201 	he bows, then continues on his way just as the gardiners come down the hill towards lizzie, who's looking a little unsettled.
 1044_Pride_And_Prejudice_Disk_Two_00.52.30.354-00.52.35.002 	the party continue their walk through the trees.
 1044_Pride_And_Prejudice_Disk_Two_01.26.42.732-01.26.46.399 	the curricle continues on its way, mr. collins perched on the back.
-1044_Pride_And_Prejudice_Disk_Two_02.07.10.312-02.07.14.762 	mr. darcy continues looking out of the window as lizzie glares at her mother with embarrassment.
-1044_Pride_And_Prejudice_Disk_Two_02.07.57.960-02.07.59.380 	they continue on their walk, jane looking somewhat sheepish.
 1046_Australia_00.44.25.045-00.44.28.013 	but more continues to pour from the tower.
 1046_Australia_00.46.40.000-00.46.44.236 	the cop's truck continues down the long, straight, dusty truck, into the vast scrub lands of faraway downs.
 1046_Australia_01.08.52.850-01.09.00.764 	in the blazing sun, under a blue sky flecked with high white clouds, the drove continues.
@@ -354,68 +193,37 @@
 1046_Australia_01.40.16.964-01.40.22.767 	sarah and drover continue to kiss passionately.
 1046_Australia_02.05.36.287-02.05.40.571 	nullah continues to stare at the planes.
 1046_Australia_02.08.18.859-02.08.26.875 	the planes continue to completely obliterate the town.
-1049_Harry_Potter_and_the_chamber_of_secrets_01.13.41.975-01.13.45.630 	as the griffin continues to revolve, harry is gradually carried upwards.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.11.20.107-01.11.23.418 	hermione continues to prowl.
 1051_Harry_Potter_and_the_goblet_of_fire_00.22.40.714-00.22.47.952 	the flame continues to burn.
 1051_Harry_Potter_and_the_goblet_of_fire_01.01.51.759-01.01.57.245 	it continues to smolder as the dragon zooms after harry through a stone arch.
-1052_Harry_Potter_and_the_order_of_phoenix_00.08.30.766-00.08.35.056 	the key continues to turn.
-1052_Harry_Potter_and_the_order_of_phoenix_00.10.52.945-00.10.57.204 	oblivious, the people next door continue watching television.
 1052_Harry_Potter_and_the_order_of_phoenix_01.06.28.236-01.06.35.893 	above their heads, the bunch of mistletoe continues to grow.
-1053_Harry_Potter_and_the_philosophers_stone_01.46.01.545-01.46.10.665 	malfoy raises the lamp, and he and harry continue along the path, looking around them cautiously.
-1055_Marley_and_me_01.30.22.256-01.30.31.114 	patrick glumly follows his mother as john continues to search outside.
-1055_Marley_and_me_01.48.16.000-01.48.17.227 	john continues to stroke marley's head as the vet takes off the stethoscope and turns away.
 1056_Rambo_00.36.38.000-00.36.43.662 	with an angry glare at rambo, lewis returns to the prow of the boat and continues his belligerent surveillance.
 1056_Rambo_00.54.54.248-00.54.58.970 	the soldier on stage continues to humiliate a terrified dancing woman by pouring his can of drink over her head.
 1056_Rambo_00.55.44.000-00.55.46.000 	rambo continues upstream.
 1056_Rambo_01.13.45.497-01.13.47.732 	rambo continues his reloading.
-1057_Seven_pounds_00.16.02.561-00.16.06.061 	ben nods and cocks his head to one side as he continues staring at goodman.
-1057_Seven_pounds_00.17.11.365-00.17.17.496 	she continues staring vacantly ahead.
 1057_Seven_pounds_00.57.07.777-00.57.12.561 	emily continues sleeping peacefully.
 1057_Seven_pounds_01.32.34.862-01.32.42.546 	emily brushes her fingers against ben's cheek as they continue kissing passionately.
 1057_Seven_pounds_01.36.18.343-01.36.27.413 	the couple wrap their arms tightly around each other as they continue to kiss with mounting passion.
-1059_The_devil_wears_prada_00.37.58.864-00.38.05.627 	miranda takes in andy's outfit and then continues her call.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.12.50.000-00.12.53.685 	the goblin continues to write in his ledger.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.17.00.000-00.17.05.301 	they continue along a narrow passageway and reach a door.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.31.05.456-00.31.10.929 	they continue staring at the painting.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.43.26.347-00.43.39.935 	inside, harry continues making his way up a spiral staircase against the tide of students.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.44.32.102-00.44.41.811 	his shadow cast against a wall, harry continues along a dark corridor, the only light coming from tall window on his right
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.50.23.269-00.50.33.484 	illusions continue to pound against the shield.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.55.52.773-00.55.54.898 	harry continues down the stairs.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.57.39.000-00.57.42.000 	he roves around as he continues searching the vast space.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.03.42.952-01.03.46.573 	harry continues to shiver.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.07.06.000-01.07.08.000 	as aberforth, and those with him turn back to continue the fight.
-1062_Day_the_Earth_stood_still_00.43.05.000-00.43.13.006 	he stands as the boy continues to stare before being ushered away by his mother.
 1062_Day_the_Earth_stood_still_01.08.31.357-01.08.38.441 	karl continues to write as klaatu adjusts some of his equations.
 1062_Day_the_Earth_stood_still_01.36.29.871-01.36.35.477 	the dead swarm continues to rain down on the half-destroyed buildings of manhattan.
 2004_Juno_00.17.30.810-00.17.51.837 	she continues on toward the clinic entrance.
 2004_Juno_00.57.01.083-00.57.06.314 	vanessa continues to entertain the children.
-2004_Juno_01.12.14.727-01.12.16.312 	juno's face continues to fall.
-2004_Juno_01.15.48.977-01.15.50.979 	vanessa takes a sip and continues to let the days events sink in.
-2012_Unbreakable_00.37.36.869-00.37.44.605 	david looks backs at him and continues walking.
 2012_Unbreakable_00.50.38.768-00.50.45.983 	the physician's words fade away as elijah continues to gaze at an abstract point in the room.
 2012_Unbreakable_00.53.45.314-00.53.49.632 	fans continue to brush against him as they pass.
 2017_Bad_Santa_00.06.03.380-00.06.04.072 	the alarm continues to count down -- 15.
 2017_Bad_Santa_01.25.02.542-01.25.05.536 	willie continues to stare at the safe.
 2017_Bad_Santa_01.26.03.158-01.26.06.013 	marcus continues to leap at the mannequin.
 2017_Bad_Santa_01.32.57.844-01.33.03.041 	our continuing pan brings us to the open door of the bedroom and we hear the sound of the tv in the living room.
-2026_Legion_00.25.31.925-00.25.37.510 	gladys begins to laugh innocently as she continues to devour her meat.
 2027_Les_Miserables_00.18.21.536-00.18.41.251 	fantine continues to defend herself to the foreman, as the women sing - .
-2027_Les_Miserables_00.22.16.061-00.22.17.894 	javert is not yet confident enough to continue.
-2027_Les_Miserables_01.11.14.705-01.11.16.382 	marius continues on down the street and when he looks back, at that precise moment cosette looks at him again.
-2027_Les_Miserables_02.18.57.198-02.18.58.208 	they look round as the dance continues, highly satisfied with themselves and see marius.
-2034_Super_8_00.17.06.247-00.17.16.663 	alice and martin continue to yell their lines -- charles is almost laughing at how good this looks -- but joe looks desperately back toward the headlights -- the train lighting.
-2034_Super_8_00.27.28.251-00.27.29.921 	it all continues as joe has entered from the front door.
-2034_Super_8_00.46.38.421-00.46.46.447 	the mayor takes over as jack has a sidebar meeting with mr. jack continues, into.
-2034_Super_8_00.50.28.584-00.50.33.292 	as it continues, we see alice behind the camera, watching joe, smiling.
-2034_Super_8_01.05.33.638-01.05.50.279 	as we continue booming up, we arrive at the top of the water tower, where the cube has affixed itself to the side -- unseen from the street.
 2034_Super_8_01.06.25.800-01.06.33.611 	the filmed scene continues as joe and charles argue.
 2034_Super_8_01.26.02.073-01.26.06.757 	gunfire continues.
-2034_Super_8_01.31.17.819-01.31.21.591 	they continue, coming to an intersection -- where a new tunnel branches off.
-2034_Super_8_01.36.05.793-01.36.10.773 	her screams continue behind them -- they run and run and run, but then boom: they hit a dead end.
 2040_The_Ugly_Truth_00.10.25.959-00.10.42.392 	we intercut between the stage and her apartment, as mike continues his rant.
 2040_The_Ugly_Truth_01.19.35.022-01.19.39.909 	abby smiles, pleased, then he continues.
 2040_The_Ugly_Truth_01.24.26.697-01.24.30.042 	jack magnum continues to alienate his audience.
-2040_The_Ugly_Truth_01.28.09.340-01.28.10.834 	he stops climbing, as the balloon continues to float up and away.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_00.18.09.695-00.18.10.638 	mr. weasley hesitates, unable to continue.
-2054_Harry_Potter_and_the_prisoner_of_azkaban_01.27.28.378-01.27.33.554 	slowly, hermione's hand falls onto ron's shoulder and camera falls with her, continuing down the length of ron's arm to his hand, where a drop of blood hangs from his finger, drops like a tear.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_01.47.45.132-01.47.50.980 	as ron and harry exchange a curious glance, the bell continues to chime -- ding!

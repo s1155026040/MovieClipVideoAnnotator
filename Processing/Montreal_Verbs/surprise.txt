@@ -1,3 +1,1 @@
-CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS386 	01:33:47,00 --> 01:34:20,50 	someone and someone give him surprised looks.
-NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS266 	00:48:46,00 --> 00:48:51,50 	a man looks at someone surprised.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS457 	00:52:46,00 --> 00:52:51,50 	the electricity fizzles out, surprising them both.

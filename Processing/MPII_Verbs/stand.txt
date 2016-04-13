@@ -1,87 +1,53 @@
 0001_American_Beauty_00.05.21.173-00.05.23.803 	brad stands, ready to usher lester out.
 0001_American_Beauty_00.12.05.226-00.12.07.435 	carolyn stands with a different couple: african american, late twenties.
 0001_American_Beauty_00.12.54.460-00.13.13.477 	standing very still, with the blinds casting shadows across her face, she starts to cry: brief, staccato sobs that seemingly escape against her will.
-0001_American_Beauty_00.13.36.284-00.13.41.690 	she stands there, taking deep breaths until she has everything under control, then pulls the blinds shut, once again all business.
 0001_American_Beauty_00.14.54.895-00.14.56.555 	the uniformed girls now stand in formation on the gym floor.
 0001_American_Beauty_00.22.38.227-00.22.47.081 	he grabs jane's phone and dials, then stands with the receiver to his ear, nervous.
 0001_American_Beauty_00.23.52.476-00.23.55.568 	barbara fitts stands at the stove, flipping bacon strips mechanically, her eyes focused elsewhere.
-0001_American_Beauty_00.26.28.916-00.26.39.207 	jane and angela are standing with two other teenage girls.
 0001_American_Beauty_00.30.08.230-00.30.11.223 	inside the ballroom, well-dressed real estate professionals stand in clumps, chatting.
 0001_American_Beauty_00.31.43.422-00.31.43.801 	lester stands at the bar.
 0001_American_Beauty_00.32.27.083-00.32.28.751 	ricky just stands there, watching him.
 0001_American_Beauty_00.33.47.881-00.33.58.307 	ricky and lester stand next to a dumpster behind the service entrance to the hotel, smoking a joint.
-0001_American_Beauty_00.34.50.111-00.34.50.820 	carolyn is standing in the open service entrance.
 0001_American_Beauty_00.37.51.997-00.37.54.984 	lester, still in his suit, stands outside jane's room, his ear up against the door.
-0001_American_Beauty_00.39.01.430-00.39.02.783 	we see angela standing at the window in her underwear, looking down at us.
 0001_American_Beauty_00.41.34.472-00.41.36.535 	the colonel stands outside, eyeing him.
 0001_American_Beauty_00.46.44.610-00.46.47.379 	the colonel stands, scowling, as ricky comes out of the house, holding the urine sample in front of him.
 0001_American_Beauty_00.54.29.243-00.54.31.524 	ricky stands with his digicam, videotaping something on the ground at his feet.
 0001_American_Beauty_01.09.27.190-01.09.28.886 	he stands at the window with his digicam, videotaping us.
 0001_American_Beauty_01.10.18.931-01.10.32.426 	she stands there in her bra, then reaches behind her back to unhook the bra.
-0001_American_Beauty_01.10.45.760-01.10.46.781 	she stands there with her breasts exposed, trying to look defiant, but she's achingly vulnerable.
 0001_American_Beauty_01.12.36.828-01.12.41.164 	the colonel stands, still breathing heavily.
 0001_American_Beauty_01.13.36.210-01.13.37.211 	she empties a round and stands there, exhilarated.
 0001_American_Beauty_01.15.22.134-01.15.24.237 	she just stands there, staring at lester.
 0001_American_Beauty_01.17.30.708-01.17.31.672 	he stands and gestures toward all the things in the room.
-0001_American_Beauty_01.25.06.801-01.25.10.369 	we're outside ricky's room, moving slowly toward the open door, through which we can see ricky, standing at his bureau mirror, combing his hair.
-0001_American_Beauty_01.26.11.024-01.26.12.387 	he stands and looks around, his eyes finally landing on: the digicam and a stack of cassettes on a shelf.
 0001_American_Beauty_01.27.27.925-01.27.29.534 	the counter girl stands next to him, staring blankly.
 0001_American_Beauty_01.37.02.031-01.37.06.056 	jane stands across the room from her.
-0001_American_Beauty_01.39.37.593-01.39.40.441 	the colonel just stands there, looking at lester.
 0001_American_Beauty_01.43.03.632-01.43.06.302 	as we move slowly around a corner, angela comes into view, standing at the stereo, holding a cd case.
-0001_American_Beauty_01.44.17.753-01.44.20.763 	they stand there in silence; the atmosphere is charged.
-0001_American_Beauty_01.48.51.401-01.49.01.855 	she turns her head to look out the window: the red door of the burnham house stands out, even in the pouring rain.
 0001_American_Beauty_01.50.39.251-01.50.57.372 	lester watches her go, then stands there wondering why he should suddenly feel so content.
-0002_As_Good_As_It_Gets_00.26.00.443-00.26.03.428 	melvin is standing against the wall near his door a cop, ray, interviewing him.
 0002_As_Good_As_It_Gets_00.57.47.324-00.57.48.946 	she stands there.
-0002_As_Good_As_It_Gets_01.04.24.581-01.04.27.019 	his hair is static city, standing on end as he periodically gives it self-conscious pats.
 0002_As_Good_As_It_Gets_02.06.14.370-02.06.15.932 	that beverly, standing near her door down the hallway, has heard at least this last part.
-0002_As_Good_As_It_Gets_02.10.59.827-02.11.01.028 	she stands on the precipice of being transported away from the logic which has been her lifeline.
 0003_CASABLANCA_00.05.19.738-00.05.23.363 	behind them stand a detail of native soldiers keeping guard.
-0003_CASABLANCA_00.08.11.300-00.08.11.643 	he walks, tray in hand, to a private door, over which abdul, a large, burly man, stands guard.
 0003_CASABLANCA_00.15.31.949-00.15.33.206 	sacha stands at the curb on the street in front of rick's and signals for a cab.
 0003_CASABLANCA_00.20.18.894-00.20.21.727 	renault stands up.
-0003_CASABLANCA_00.22.33.445-00.22.34.549 	back to rick, still standing where he was, as a customer walks by.
 0003_CASABLANCA_01.12.10.874-01.12.17.285 	rick stands at the balcony outside his office and watches the germans below.
 0003_CASABLANCA_01.13.34.637-01.13.41.415 	finally the whole cafe stands, singing, their faces aglow.
 0003_CASABLANCA_01.15.52.183-01.15.52.255 	below and across the street, a man stands under an arch.
-0003_CASABLANCA_01.18.18.870-01.18.23.784 	she stands there for a few seconds, then crosses to look out of the window.
 0003_CASABLANCA_01.26.12.297-01.26.12.859 	ilsa stands just in back of him.
-0003_CASABLANCA_01.41.25.769-01.41.27.868 	he walks over and stands beside rick.
 0004_Charade_00.16.56.040-00.16.56.648 	he stands for a moment, then closes the door after him.
 0004_Charade_00.17.45.483-00.17.49.124 	he stands staring at lampert's body, swaying on his feet until he reaches out and grabs the side of the coffin to steady himself.
 0004_Charade_00.20.16.651-00.20.18.661 	he motions for her to enter, standing aside to let her do so.
 0004_Charade_00.20.22.873-00.20.24.739 	a can of lighter fluid stands open on the desk and a crumpled hankie beside it.
 0004_Charade_00.26.36.674-00.26.41.356 	wearing a hat, he stands off in the background, watching.
 0004_Charade_00.27.38.204-00.27.42.307 	he stands on the dance floor in front of a five piece latin dance band, a spotlight on him, wearing his professional smile as he speaks into a mike.
-0004_Charade_00.33.24.274-00.33.26.817 	it is somewhat cramped, forcing them to stand close together.
-0004_Charade_00.36.09.916-00.36.12.469 	outside the window to reggie's room is a small, false balcony, consisting mostly of railing, with barely enough room between it and the building's facade for a man to stand.
 0004_Charade_00.49.54.956-00.50.01.648 	she leaves him standing there, more confused than ever, as she starts after dyle again.
-0004_Charade_01.06.37.335-01.06.41.203 	taking one of the straight chairs to the armoire, she stands on it.
-0004_Charade_01.06.41.358-01.06.43.738 	although she is still not high enough to see anything, by standing on tip-toes she is able to reach with her hand over the top and grope around blindly.
-0004_Charade_01.12.42.501-01.12.43.419 	he wheels as the door is slammed and reggie, who had been standing behind it, locks it and pockets the key.
 0004_Charade_01.19.37.904-01.19.42.398 	who, like everyone else, leave the table and stand together at the rail watching.
 0004_Charade_01.32.47.978-01.32.57.660 	as she hurries along a row of stalls, weaving around small groups of men standing together, showing each other stamps.
-0004_Charade_01.33.26.673-01.33.26.833 	jean-louis stands looking at some stamps.
 0004_Charade_01.38.00.907-01.38.02.148 	a taxi stands by the curb.
 0004_Charade_01.40.54.133-01.40.54.721 	he stands on the platform as the train doors slam shut, the latches click, the whistle blows and the train pulls out.
-0004_Charade_01.44.07.357-01.44.07.811 	reggie stands out in the open, the stamps in her hand, confused as to which man she should go to).
-0004_Charade_01.47.48.199-01.47.58.599 	adam is listening carefully, trying to figure out where carson is standing, watching the ceiling.
-0005_Chinatown_00.23.47.995-00.23.53.994 	he goes out the door, nearly running into a man who is standing by the secretary's desk, about gittes' age only a head taller and a foot wider, dressed in a plain suit that fits him about as well as a brown paper bag.
-0005_Chinatown_00.25.43.776-00.25.47.306 	the butler takes it and disappears, leaving gittes standing in the doorway.
 0005_Chinatown_00.25.53.950-00.26.00.190 	gittes stands, and sweats, watching a japanese gardener trim a hedge.
-0005_Chinatown_00.31.41.091-00.31.43.567 	at the sound of his raised voice, a man standing at the edge of the channel, talking to two boys in swimming trunks, turns around.
-0005_Chinatown_00.33.25.885-00.33.30.531 	are standing over the body of mulwray.
-0005_Chinatown_00.34.44.785-00.34.45.826 	evelyn looks up to see gittes standing in the doorway only a foot or two from her.
-0005_Chinatown_00.45.41.120-00.45.45.329 	evelyn mulwray is standing at the table as he does so.
-0005_Chinatown_00.51.09.126-00.51.10.029 	he is standing high in the mountains, near a pass.
 0005_Chinatown_01.20.23.380-01.20.26.815 	gittes stands on the veranda, smoking a cigarette, staring off into the night.
-0005_Chinatown_02.00.33.923-02.00.39.765 	he walks toward gittes who stands by the pond, smoking.
 0006_Clerks_00.01.42.872-00.01.42.926 	he musses his hair and stands.
 0006_Clerks_00.01.52.204-00.01.55.342 	the dog stands and wags its tail.
 0006_Clerks_00.04.36.887-00.04.44.005 	dante stands on a garbage can and tucks a corner of the sheet under the awning.
 0006_Clerks_00.09.59.399-00.10.01.941 	veronica as she stands in one of the freezer cases, holding a fire extinguisher.
-0006_Clerks_00.14.46.735-00.14.48.917 	a handsome young man (willam) is standing at the counter.
 0006_Clerks_00.18.17.115-00.18.18.232 	dante stands there in silence for a moment.
 0006_Clerks_00.20.17.591-00.20.20.369 	the very anxious customer stands like a sentry at post.
 0006_Clerks_00.27.41.798-00.27.47.114 	he stands, points the remote, clicks the tv off, and ponders.
@@ -95,7 +61,6 @@
 0007_DIE_NACHT_DES_JAEGERS_00.17.19.136-00.17.24.889 	it stands in a cabinet frame: a fine-looking young woman in archaic dress, with sharp, accusing black eyes.
 0007_DIE_NACHT_DES_JAEGERS_00.18.23.044-00.18.25.632 	over this john enters the shot and stands at the fringe of the group, staring at preacher's hands and at the doll.
 0007_DIE_NACHT_DES_JAEGERS_00.19.29.352-00.19.30.816 	john stands still.
-0007_DIE_NACHT_DES_JAEGERS_00.23.29.038-00.23.30.249 	willa is standing, beckoning john.
 0007_DIE_NACHT_DES_JAEGERS_00.24.29.207-00.24.29.482 	john moves to stand in front of him; pearl, to stand beside preacher, with the doll.
 0007_DIE_NACHT_DES_JAEGERS_00.27.34.069-00.27.36.276 	it stands vibrating, then moves out of shot with receding engine sound o.s., disclosing: icey's skirts in background.
 0007_DIE_NACHT_DES_JAEGERS_00.30.49.838-00.30.57.242 	he stands watching her for a moment; then he snaps off the light and gets into bed.
@@ -109,24 +74,15 @@
 0007_DIE_NACHT_DES_JAEGERS_01.26.48.464-01.26.51.470 	everyone in the cafe stands up.
 0007_DIE_NACHT_DES_JAEGERS_01.27.34.204-01.27.43.369 	we pan rachel and children past this street and they hurry towards ruby, who stands alone in background, facing the jail.
 0007_DIE_NACHT_DES_JAEGERS_01.29.12.614-01.29.17.138 	rachel enters; the four girls stand in line, packages ready; john stands in b.g., in doorway to next room.
-0007_DIE_NACHT_DES_JAEGERS_01.30.10.077-01.30.10.478 	ruby and clary are standing aside; mary and pearl hold up a third pot-holder.
 0008_Fargo_00.17.34.261-00.17.40.201 	a morning-show host in an apron stands behind a counter on a kitchen set.
-0008_Fargo_00.25.08.005-00.25.08.395 	jerry stands in wide shot, hands on hips, looking down at a telephone.
 0008_Fargo_01.31.48.773-01.31.52.119 	it stands next to a highway on a snowy, windswept plain.
-0008_Fargo_01.32.02.741-01.32.03.079 	we are looking over the shoulders of two uniformed policemen who stand on either side of the door, their hands resting lightly on their holstered sidearms.
-0008_Fargo_01.32.22.187-01.32.24.395 	this man turns a key in the door and then stands away.
 0009_Forrest_Gump_00.06.50.969-00.06.57.471 	a row of mailboxes stands left.
 0009_Forrest_Gump_00.07.45.842-00.07.48.683 	the principal sighs, then stands up.
 0009_Forrest_Gump_00.07.58.490-00.08.00.736 	the principal stands in front of mrs. gump.
-0009_Forrest_Gump_00.11.26.933-00.11.29.525 	forrest stands left, and looks himself in a mirror.
-0009_Forrest_Gump_00.13.47.177-00.13.50.365 	young forrest is still standing in the aisle on the bus.
 0009_Forrest_Gump_00.23.24.974-00.23.31.668 	forrest stands next to george wallace and listens.
 0009_Forrest_Gump_00.23.49.115-00.23.51.960 	some of the alabama policeman and citizens clap their hands as the national guardsmen stand at attention with their weapons in front of them.
 0009_Forrest_Gump_00.24.10.605-00.24.11.716 	the television reveals forrest as he stands at the schoolhouse door.
 0009_Forrest_Gump_00.31.03.174-00.31.06.923 	archival footage - robert kennedy stands at a podium as people around him applaud.
-0009_Forrest_Gump_00.44.00.388-00.44.00.555 	lt. dan sits down out of sight in the latrine, then stands up, looking at the boys.
-0009_Forrest_Gump_00.46.06.785-00.46.20.079 	forrest stands up and begins to walk with the platoon.
-0009_Forrest_Gump_01.07.55.788-01.07.57.077 	forrest stands at an open window and looks at the white house.
 0009_Forrest_Gump_01.14.27.709-01.14.31.043 	dick cavett stands up as he introduces forrest.
 0009_Forrest_Gump_01.22.00.318-01.22.02.656 	forrest stands up nervously, causing lenore to fall down on the floor.
 0009_Forrest_Gump_01.22.02.656-01.22.04.840 	lenore stands up, angry.
@@ -135,35 +91,23 @@
 0009_Forrest_Gump_01.29.41.106-01.29.46.171 	forrest stands at the helm as the boat glides across the water.
 0009_Forrest_Gump_01.30.24.350-01.30.34.495 	she steps up on a table and stands on the edge of the balcony.
 0009_Forrest_Gump_01.31.36.071-01.31.40.635 	forrest stands at the helm of his boat and slowly glides by the docks.
-0009_Forrest_Gump_01.35.52.435-01.35.54.655 	an anchorman over tv, is standing in front of a pier.
-0009_Forrest_Gump_01.35.54.655-01.36.01.651 	the anchorman is standing in front of the ruined pier and boats.
 0009_Forrest_Gump_01.39.10.867-01.39.13.362 	forrest opens the door, the doctor stands next to mrs. gump in bed.
 0009_Forrest_Gump_01.49.42.395-01.49.46.360 	the house stands in the rain.
 0009_Forrest_Gump_01.53.39.853-01.53.42.583 	a lighthouse stands at the end of the pier.
 0009_Forrest_Gump_01.59.51.042-01.59.53.441 	forrest hastily grabs his suitcase and letter as he stands.
 0009_Forrest_Gump_02.06.49.446-02.06.59.064 	forrest jr. stands next to jenny.
-0009_Forrest_Gump_02.08.19.466-02.08.27.760 	forrest stands on his boat and looks at a deep orange and red sunset.
 0009_Forrest_Gump_02.13.33.485-02.13.35.356 	forrest stands up.
 0009_Forrest_Gump_02.14.14.248-02.14.19.000 	forrest stands next to the mailbox.
-0010_Frau_Ohne_Gewissen_00.07.54.096-00.07.54.321 	phyllis dietrichson stands looking down.
-0010_Frau_Ohne_Gewissen_00.08.55.618-00.09.04.323 	he looks around the room, then moves over to a baby grand piano with a sleazy spanish shawl dangling down one side and two cabinet photographs standing in a staggered position on top.
 0010_Frau_Ohne_Gewissen_00.17.11.225-00.17.11.468 	he stands there with a little smile.
 0010_Frau_Ohne_Gewissen_00.17.20.796-00.17.24.102 	she heads toward a low tea table which stands in front of the davenport, with tall glasses, ice cubes, lemon, a pot of tea, etc.
 0010_Frau_Ohne_Gewissen_00.31.27.381-00.31.29.433 	phyllis stands in the doorway, her lips white.
-0010_Frau_Ohne_Gewissen_00.31.58.603-00.31.59.085 	he stands there, looking down into the dark street.
 0010_Frau_Ohne_Gewissen_00.32.12.112-00.32.12.303 	he just stands there motionless.
 0010_Frau_Ohne_Gewissen_00.32.17.684-00.32.19.564 	on the desk next to him stands a used record.
-0010_Frau_Ohne_Gewissen_00.39.49.662-00.39.50.276 	phyllis is seen among them, standing by the soap section.
-0010_Frau_Ohne_Gewissen_00.42.27.505-00.42.29.268 	he is standing behind his desk opening some mail, taking a few papers out of his briefcase, checking something in his rate book, making a quick telephone call.
-0010_Frau_Ohne_Gewissen_00.45.11.772-00.45.13.810 	he covers the receiver with his hand and turns to keyes, who is now standing at the window.
 0010_Frau_Ohne_Gewissen_00.47.17.080-00.47.20.898 	he fills a paper cup and stands holding it.
 0010_Frau_Ohne_Gewissen_00.53.09.798-00.53.11.547 	the pullman conductor and porter stand at the steps.
 0010_Frau_Ohne_Gewissen_00.53.51.146-00.53.52.810 	phyllis stands there waving goodbye as the train starts moving, and the porter begins to close the car door.
-0010_Frau_Ohne_Gewissen_00.54.35.895-00.54.37.098 	he stands looking back along the rails.
 0010_Frau_Ohne_Gewissen_00.54.40.052-00.54.42.199 	neff stands silent.
 0010_Frau_Ohne_Gewissen_00.55.50.005-00.55.51.765 	he slips the crutches from under his arms and stands on both feet.
-0010_Frau_Ohne_Gewissen_00.56.17.324-00.56.19.309 	she pulls the rug off the corpse (which is not visible) and stands looking into the car, unable to take her eyes off what she sees, while at the same time her hands mechanically begin to fold the rug.
-0010_Frau_Ohne_Gewissen_01.00.01.774-01.00.02.781 	he stands like that for a moment, then turns toward the camera again.
 0010_Frau_Ohne_Gewissen_01.01.19.584-01.01.24.068 	he stands over the jar extinguishing his cigar carefully so as not to damage it.
 0010_Frau_Ohne_Gewissen_01.03.48.365-01.03.49.823 	neff stands staring at the door.
 0010_Frau_Ohne_Gewissen_01.04.27.745-01.04.28.716 	neff, behind him, stands leaning against the false mantel, completely dead-pan.
@@ -171,66 +115,39 @@
 0010_Frau_Ohne_Gewissen_01.09.38.924-01.09.45.909 	for a second he stands there motionless, then crosses to the door and opens it.
 0010_Frau_Ohne_Gewissen_01.09.46.443-01.09.47.598 	in the open door stands keyes.
 0010_Frau_Ohne_Gewissen_01.11.30.218-01.11.34.312 	finally neff can't stand the silence any longer.
-0010_Frau_Ohne_Gewissen_01.12.05.591-01.12.05.775 	the hallway is empty except for phyllis who has been standing close to the door of neff's apartment, listening.
-0010_Frau_Ohne_Gewissen_01.13.57.487-01.13.58.298 	lola sees him and stands up, and as he is about to pass through the anteroom without recognizing her she stops him.
-0010_Frau_Ohne_Gewissen_01.29.41.581-01.29.43.222 	keyes is standing there buying cigars.
-0010_Frau_Ohne_Gewissen_01.32.48.856-01.32.50.330 	he walks slowly back towards the reception room entrance, then stands there looking out through the glass doors.
-0010_Frau_Ohne_Gewissen_01.33.45.837-01.34.00.675 	neff hangs up and stands beside the desk with a grim expression on his face, takes a handkerchief out and wipes perspiration from his forehead and the palms of his hands.
-0010_Frau_Ohne_Gewissen_01.43.22.667-01.43.23.364 	keyes is standing a few steps inside it.
 0010_Frau_Ohne_Gewissen_01.43.23.515-01.43.24.104 	behind him, on the balcony outside, stands the night watchman and the colored janitor, peering curiously into the room over keyes' shoulder.
 0010_Frau_Ohne_Gewissen_01.43.33.236-01.43.34.868 	keyes moves towards him a few steps and stands without answering.
 0010_Frau_Ohne_Gewissen_01.43.50.744-01.43.55.744 	neff makes a motion indicating the used cylinders standing on the desk.
 0010_Frau_Ohne_Gewissen_01.44.34.950-01.44.38.783 	they stare at each other for a long moment, then, with intense effort neff gets up on his feet and stands there swaying a little.
 0011_Gandhi_00.11.45.248-00.11.45.574 	we feature gandhi's wife, ba, standing at the front of the women.
-0011_Gandhi_00.20.48.986-00.20.50.665 	the reporter who stands opposite him is walker, much, much younger, almost boyish compared to the way we saw him at the funeral.
 0011_Gandhi_00.23.43.817-00.23.45.057 	he crosses and stands in front of her with all the irritation of a husband.
 0011_Gandhi_00.26.15.186-00.26.16.404 	a uniformed policeman stands near them.
 0011_Gandhi_00.30.22.919-00.30.30.738 	a second, then a merchant stands, signifying his pledge.
-0011_Gandhi_00.30.41.148-00.30.48.978 	then all over the theater they begin to stand and on the stage until everyone is standing.
-0011_Gandhi_00.38.06.045-00.38.09.146 	we have seen it before when walker spoke to smuts, but now we see its full breadth -- and the imposing figure smuts makes as he stands behind the grand desk.
 0011_Gandhi_00.40.02.360-00.40.05.521 	gandhi stands, a little uncertain about the sudden change in his status.
-0011_Gandhi_00.43.23.437-00.43.25.107 	nehru is standing next to a heavy-set, well-dressed man (patel).
 0011_Gandhi_00.45.31.455-00.45.37.678 	a beautiful and beautifully dressed woman (mrs. nehru) stands next to her distinguished husband (motilal nehru).
 0011_Gandhi_00.51.02.777-00.51.03.308 	some small children stand near them.
 0011_Gandhi_00.51.35.302-00.51.55.032 	gandhi stands with ba and charlie among the third class passengers.
-0011_Gandhi_00.58.55.918-00.59.01.463 	we see one peasant face (shukla) -- which we will come to know -- watching from the crowd of outsiders who stand in the doorways.
 0011_Gandhi_01.05.04.379-01.05.07.361 	he glances at charlie who stands behind gandhi now, and it makes him all the more uncertain.
-0011_Gandhi_01.08.17.485-01.08.18.497 	a major is standing on the back seat.
 0011_Gandhi_01.17.44.500-01.17.45.027 	he stands, awaiting gandhi's attention.
 0011_Gandhi_01.18.56.628-01.18.59.373 	he moves to a servant who stands, holding a large tray with a silver service of tea.
-0011_Gandhi_01.26.08.283-01.26.13.380 	he walks through the gate and stands quietly in the at-ease position, hands clasping his swagger stick behind his back.
 0011_Gandhi_01.31.22.986-01.31.26.985 	nehru stands a few feet away from him, his mood the same, the same benumbed grief and incredulity.
 0011_Gandhi_01.41.21.833-01.41.25.108 	kallenbach stands by a new (early 1920s) ford touring car, watching as a train pulls into the station.
 0011_Gandhi_01.52.59.199-01.53.00.296 	nehru stands in it.
-0011_Gandhi_01.56.21.333-01.56.24.069 	the clerk, confused as well as astonished, see the judge standing, facing gandhi in respect, and dutifully, he too stands.
 0011_Gandhi_01.56.27.319-01.56.29.763 	a disbelieving exchange of glances, the sound of others standing around them.
-0011_Gandhi_01.58.34.452-01.58.38.742 	he stands, staring at broomfield, and now it is his face that shows the respect.
-0011_Gandhi_02.03.52.958-02.04.07.409 	featuring gandhi staring out to sea, his mind locked in reflection, and suddenly his head lifts, his eyes become alert, he is caught by some excitement which he weighs for a moment, then he stands, his manner suddenly tingling with optimism.
-0011_Gandhi_02.08.37.964-02.08.41.468 	two large policemen stand arms-akimbo at the front of them all, their postures imposing and threatening, though the impression is somewhat weakened by the children skirting around them.
 0011_Gandhi_02.12.33.774-02.12.35.712 	some of the people run, others deliberately stand fast.
-0011_Gandhi_02.15.17.772-02.15.20.029 	walker is off to one side, climbing to stand in the back of collin's car.
 0011_Gandhi_02.24.51.775-02.24.52.165 	a british captain stands before a full platoon of indian troops.
 0011_Gandhi_02.31.56.397-02.32.03.150 	for a moment he folds his hands absently, then he stands.
 0011_Gandhi_02.32.45.279-02.32.48.693 	mirabehn smiles weakly, gives ba a last little rub of farewell and stands.
-0011_Gandhi_02.34.58.713-02.35.00.621 	mirabehn, patel, azad, pyarelal, stand with other prisoners and the military wardens in solemn obeisance to the dead -- and the living, for gandhi sits a little distance from the pyre, wrapped in his shawl, staring at the dying embers in tragic and impenetrable isolation as though he may never move again.
 0011_Gandhi_02.35.31.749-02.35.37.304 	jinnah stands by one of the great pillars of the immense portico.
-0011_Gandhi_02.36.36.279-02.36.37.178 	he turns to see that mountbatten has been standing in the open door to the conference room, as torn as gandhi by the conflict, feeling it best controlled in formal discussion.
-0011_Gandhi_02.45.26.131-02.45.32.007 	he has turned and seen gandhi standing slowly.
 0011_Gandhi_02.51.54.220-02.51.56.690 	the crowd has spread from him all along the street; they stand against the walls of the houses staring at him, terrified to move.
 0011_Gandhi_02.54.59.209-02.55.00.063 	the goondas stand.
 0012_Get_Shorty_00.11.45.162-00.11.49.500 	standing with fay at epcot center.
-0012_Get_Shorty_00.13.02.966-00.13.05.839 	chili gives the driver a look then gets out of the bus, standing there in the rain, his seat getting wet, nowhere to go.
 0012_Get_Shorty_00.45.37.239-00.45.42.252 	as karen and chili exit the theater, stand there a moment.
 0012_Get_Shorty_00.47.02.872-00.47.06.373 	he stands there, watching her drive away.
 0012_Get_Shorty_00.47.12.484-00.47.21.319 	he stands watching a row of lockers.
 0012_Get_Shorty_00.50.53.174-00.50.56.104 	he hugs her and hangs on, leaving nicki and chili standing there like idiots.
-0012_Get_Shorty_00.56.01.780-00.56.04.280 	harry looks up to see bo catlett, dressed up as usual, standing there with the bear, wearing a hawaiian shirt.
-0012_Get_Shorty_00.59.36.822-00.59.44.322 	chili moves to the staircase, now sees the bear in his hawaiian shirt standing a few steps from the top.
 0012_Get_Shorty_01.00.12.435-01.00.14.718 	chili continues up the stairs to where bo catlett stands beside the table.
-0012_Get_Shorty_01.10.32.057-01.10.37.004 	chili stands there while curtis opens chili's wallet and looks at the driver's license while dunbar in the plaid shirt pulls the lakers t-shirt out of the athletic bag, feels around inside.
-0012_Get_Shorty_01.14.13.381-01.14.18.894 	harry, his hair a mess from sleeping on it, looks up at the door as it opens to reveal ray bones standing there.
 0012_Get_Shorty_01.17.27.432-01.17.31.143 	bones shakes his head, stands up.
-0012_Get_Shorty_01.18.51.829-01.18.52.709 	bones looks at the gun, looks up at ronnie standing there, hands on his hips, holding his jacket open.
 0012_Get_Shorty_01.23.06.426-01.23.08.750 	standing beside some giant mutant maggot or something.
 0012_Get_Shorty_01.32.05.677-01.32.12.801 	karen stands there with her arms folded across her chest.
 0013_Halloween_00.07.00.585-00.07.15.895 	craning up past his parents standing there, up from the neighbor's house to a high shot of the neighborhood as the sounds of police sirens rise in the distance.
@@ -239,60 +156,34 @@
 0013_Halloween_00.25.23.686-00.25.25.329 	suddenly, laurie walks right into a man standing on the sidewalk in front of her.
 0013_Halloween_00.36.24.686-00.36.26.637 	annie and lindsey wallace, a pretty little nine-year-old, stands in the doorway framed by the hall light.
 0013_Halloween_00.36.39.030-00.36.45.254 	brackett and loomis get out and stand by the front gate.
-0013_Halloween_00.37.28.401-00.37.31.085 	he stands back up and looks at loomis.
 0013_Halloween_00.43.01.088-00.43.01.484 	the shape stands close to camera watching annie make popcorn.
 0013_Halloween_00.43.21.557-00.43.22.218 	she stands in the kitchen with only her panties on.
-0013_Halloween_00.46.21.552-00.46.24.105 	annie stands motionless for a moment, then begins looking for the light switch.
-0013_Halloween_00.53.17.414-00.53.26.311 	she finds it in the front room, takes out her brush and lipstick and stands in front of the mirror primping.
 0013_Halloween_00.57.16.483-00.57.17.314 	loomis quietly stands up behind the hedge.
-0013_Halloween_00.57.23.968-00.57.25.416 	standing there is brackett.
 0013_Halloween_01.02.08.238-01.02.08.566 	lynda grabs bob's hand and stands up.
-0013_Halloween_01.03.27.804-01.03.33.199 	standing there in the darkness is the shape watching them.
 0013_Halloween_01.05.31.060-01.05.31.268 	right behind the door stands the shape wearing the rubber mask.
 0013_Halloween_01.06.31.499-01.06.32.856 	the shape stands in the doorway.
 0013_Halloween_01.07.11.426-01.07.13.858 	the ghost just stands there.
 0013_Halloween_01.07.38.173-01.07.38.339 	the ghost stands in the doorway.
-0013_Halloween_01.09.02.797-01.09.09.839 	she stands for a moment considering it, then turns and walks upstairs.
 0013_Halloween_01.10.22.584-01.10.24.597 	loomis stands by his car glancing up and down the empty street.
 0013_Halloween_01.12.36.436-01.12.39.333 	she stands there a moment, listening, as if to hear some sound of life from the inside.
 0013_Halloween_01.13.19.796-01.13.21.262 	laurie stands there a moment staring into the blackness.
-0013_Halloween_01.16.32.000-01.16.33.156 	there is lynda standing there, propped up by a chair, staring at her with glazed, dead eyes.
-0013_Halloween_01.16.49.340-01.16.54.580 	it is almost as if our eyes have suddenly begun to adjust to the darkness and we see the outline of a man standing right behind her.
 0013_Halloween_01.16.57.887-01.16.58.032 	he stands there holding up the piece of material, then raises the butcher knife and moves for her.
 0013_Halloween_01.19.54.485-01.19.56.336 	she puts down the phone and stands very still.
-0013_Halloween_01.22.35.320-01.22.38.878 	standing there is the shape, the butcher knife raised.
 0013_Halloween_01.25.46.814-01.25.49.216 	she stands up and carefully guides the children across the bedroom to the door and ushers them outside.
-0013_Halloween_01.25.58.793-01.26.02.565 	as she starts to stand the shape sits up, the head turning to laurie.
 0014_Ist_das_Leben_nicht_schoen_00.08.17.719-00.08.19.023 	george stands still, horrified.
-0014_Ist_das_Leben_nicht_schoen_00.09.25.878-00.09.26.978 	nearby, in a throne-like wheelchair, behind which stands the goon who furnishes the motive power, sits henry f. potter, his squarish derby hat on his head.
 0014_Ist_das_Leben_nicht_schoen_00.09.40.523-00.09.42.688 	george stands irresolute a moment, aware of crisis in the affairs of the bailey building and loan association, but aware more keenly of his personal crisis.
 0014_Ist_das_Leben_nicht_schoen_00.10.21.144-00.10.23.942 	george stands outside the door with the capsules in his hand.
 0014_Ist_das_Leben_nicht_schoen_00.10.29.200-00.10.31.588 	george stands in the doorway.
-0014_Ist_das_Leben_nicht_schoen_00.11.39.325-00.11.40.432 	across the counter stands joe hepner, the proprietor of the store he is showing a suitcase.
 0014_Ist_das_Leben_nicht_schoen_00.11.47.851-00.11.50.310 	suddenly, in action, as george stands with his arms outstretched in illustration, the picture freezes and becomes a still.
-0014_Ist_das_Leben_nicht_schoen_00.20.25.526-00.20.25.780 	she is standing talking to one of the boys, freddie, a glass of punch in her hand.
 0014_Ist_das_Leben_nicht_schoen_00.35.57.390-00.36.02.444 	she stands, smiling, waiting.
-0014_Ist_das_Leben_nicht_schoen_00.39.00.476-00.39.04.051 	george is standing at the garden gate.
-0014_Ist_das_Leben_nicht_schoen_00.41.13.065-00.41.13.918 	george is standing in the middle of the street, hands in his pockets.
-0014_Ist_das_Leben_nicht_schoen_00.41.20.955-00.41.25.019 	she looks up and sees george standing there.
 0014_Ist_das_Leben_nicht_schoen_00.43.42.298-00.43.45.215 	then she opens the front door and stands there waiting for george.
 0014_Ist_das_Leben_nicht_schoen_00.49.38.614-00.49.41.294 	george can stand it no longer.
-0014_Ist_das_Leben_nicht_schoen_00.52.56.099-00.52.57.699 	uncle billy is standing in the doorway to his private office, taking a drink from a bottle.
 0014_Ist_das_Leben_nicht_schoen_00.55.11.668-00.55.12.213 	their muttering stops and they stand silent and grim.
-0014_Ist_das_Leben_nicht_schoen_00.56.40.549-00.56.42.225 	the people are still trying to get out, but some of them have stood still, listening to him.
-0014_Ist_das_Leben_nicht_schoen_01.04.58.343-01.04.59.295 	sam wainwright is standing in front of his big black town car.
 0014_Ist_das_Leben_nicht_schoen_01.07.09.126-01.07.19.704 	the big black limousine glides away, leaving george standing with his arm around mary, gazing broodingly after it.
-0014_Ist_das_Leben_nicht_schoen_01.16.55.759-01.16.56.622 	george comes to where ernie, the taxi driver, is standing on the sidewalk.
-0014_Ist_das_Leben_nicht_schoen_01.22.55.520-01.22.58.341 	cousin tilly is at her switchboard, and cousin eustace standing beside her.
 0014_Ist_das_Leben_nicht_schoen_01.24.18.069-01.24.22.907 	uncle billy stands before him like a frisked criminal, all his pockets hanging out, empty.
 0014_Ist_das_Leben_nicht_schoen_01.29.10.132-01.29.17.076 	george enters shot, and stands listening to her.
 0014_Ist_das_Leben_nicht_schoen_01.37.57.094-01.37.58.426 	george stands unsteadily near the car, shaken by the accident.
-0014_Ist_das_Leben_nicht_schoen_01.37.57.419-01.37.58.080 	george stands dully looking at the damage.
-0014_Ist_das_Leben_nicht_schoen_01.39.50.529-01.39.52.869 	clarence is standing on the other side of the stove, putting on his undershirt.
-0014_Ist_das_Leben_nicht_schoen_01.54.45.597-01.54.47.714 	as he passes the burlesque house he sees bert the cop standing beside his police car.
-0014_Ist_das_Leben_nicht_schoen_01.55.49.749-01.55.50.333 	bert is standing in the entrance, with his gun in his hand.
 0014_Ist_das_Leben_nicht_schoen_01.57.45.334-01.57.46.251 	george stands a moment, stunned.
-0014_Ist_das_Leben_nicht_schoen_02.01.18.525-02.01.19.319 	the same part of the bridge where george was standing before clarence jumped in.
 0014_Ist_das_Leben_nicht_schoen_02.05.28.820-02.05.29.000 	a table stands in front of george.
 0014_Ist_das_Leben_nicht_schoen_02.05.48.704-02.05.49.761 	george stands there overcome and speechless as he holds zuzu.
 0016_O_Brother_Where_Art_Thou_00.18.14.184-00.18.18.056 	he stands belly-deep in the river, easing a white-robed man back-down into the water.
@@ -304,19 +195,16 @@
 0016_O_Brother_Where_Art_Thou_01.14.34.129-01.14.39.151 	at length they stop in perfect formation, still chanting, to face the imperial wizard, who stands in front of the burning cross dressed in a red satin robe and hood trimmed with gold.
 0016_O_Brother_Where_Art_Thou_01.22.39.040-01.22.41.025 	pappy o'daniel stands by waldrip's chair with an arm draped over his shoulder, leaning in to murmur confidentially.
 0016_O_Brother_Where_Art_Thou_01.34.23.407-01.34.24.449 	the cabin stands before them.
-0016_O_Brother_Where_Art_Thou_01.34.32.610-01.34.33.925 	standing at the far lip of each grave is a rough pine coffin.
 0016_O_Brother_Where_Art_Thou_01.35.25.076-01.35.28.193 	the gravediggers stand next to the graves, leaning on their shovels.
 0016_O_Brother_Where_Art_Thou_01.40.39.991-01.40.41.409 	it stands staring at everett, who returns the stare.
 0017_Pianist_00.12.53.195-00.12.56.228 	as she does so, the door of henryk's room opens and he stands leaning in the doorway, watching, as if amused.
 0017_Pianist_00.26.49.508-00.26.58.395 	szpilman stands quickly and hurries away.
 0017_Pianist_00.29.57.385-00.29.59.069 	the old man in the wheelchair grips the arms of the chair and tries desperately to stand.
-0017_Pianist_00.30.31.673-00.30.32.186 	the headlights of the ss vehicle are switched on and the ss men are forcing their prisoners to stand in the beam.
 0017_Pianist_00.31.55.977-00.32.05.123 	szpilman quickly brings the piece to a close, stands, steps off the platform, threads his way through to halina.
 0017_Pianist_00.33.31.305-00.33.34.767 	szpilman stands, jostled by the crowd, uncertain, forlorn.
 0017_Pianist_00.36.33.376-00.36.38.070 	szpilman gets hold of him, tries to help him stand.
 0017_Pianist_00.38.43.378-00.38.45.367 	majorek beside him, standing, chatting to him and having a quiet laugh.
 0017_Pianist_00.39.41.328-00.39.42.705 	other jews stand ready to start sorting the load, among them the szpilman family.
-0017_Pianist_00.50.21.709-00.50.23.316 	he stands, runs at the cordon, seeing between their heads, shoulders, mother, regina, henryk and halina clambering into the trucks.
 0017_Pianist_00.50.31.727-00.50.37.803 	szpilman stands for a moment, confused, terrified.
 0017_Pianist_00.53.07.793-00.53.16.601 	szpilman enters, stands, surveying the devastation.
 0017_Pianist_01.02.31.771-01.02.36.879 	the ss captain, with much jollity and jokes, hops up on to scaffolding and stands, beaming broadly, surveying the workers.
@@ -325,67 +213,40 @@
 0017_Pianist_01.30.10.729-01.30.12.865 	the door opens and dorota stands there.
 0017_Pianist_01.30.14.115-01.30.18.784 	they stand for a moment staring at each other.
 0017_Pianist_01.32.54.110-01.33.09.504 	he swings his legs off the sofa, stands, and crosses to a door.
-0017_Pianist_01.34.37.353-01.34.44.507 	there are views of the city, but in the street below, opposite, is a hospital and, on the corner, a building flying a nazi flag and guarded by a sentry, standing at his sentry-box.
 0017_Pianist_02.17.22.713-02.17.25.275 	the polish soldiers: two of the officers stand near the entrance, hearing szpilman's shouts.
-0017_Pianist_02.17.36.558-02.17.44.312 	he stands glowering at them, then sees a pow rise from a group, wretched, shabby, unshaven.
-0017_Pianist_02.19.06.474-02.19.07.671 	lednicki stands for a moment, then turns and goes.
-0017_Pianist_02.21.17.657-02.21.22.616 	szpilman stands, looking around the empty field.
 0019_Pulp_Fiction_00.04.37.265-00.04.49.664 	and with that, pumpkin and honey bunny grab their weapons, stand up and rob the restaurant.
-0019_Pulp_Fiction_00.50.33.488-00.50.33.856 	the two just stand face to face looking at each other.
 0019_Pulp_Fiction_00.57.32.878-00.57.37.341 	jody, in bed, throws off the covers and stands up.
 0019_Pulp_Fiction_01.01.04.100-01.01.15.547 	vincent's out of the car, standing on the walkway, a big distance between the two.
 0019_Pulp_Fiction_01.03.48.290-01.03.52.498 	butch's mother, 35ish, stands in the doorway leading into the living room.
-0019_Pulp_Fiction_01.35.35.032-01.35.37.812 	butch quickly takes measure of the situation, than stands next to the door.
 0019_Pulp_Fiction_01.37.56.344-01.38.01.771 	maynard stands in front of them, fire extinguisher in one hand, shotgun in the other, and marsellus' .45 sticking in his belt.
 0019_Pulp_Fiction_01.38.53.159-01.38.57.844 	zed walks in and stands in front of the two captives.
 0019_Pulp_Fiction_01.41.37.230-01.41.39.323 	zed stands up.
-0019_Pulp_Fiction_01.58.21.552-01.58.27.552 	three men are standing in jimmie's kitchen, each with a mug of coffee.
-0019_Pulp_Fiction_02.02.28.489-02.02.31.594 	we see, standing in the doorway, the tuxedo-clad man.
 0019_Pulp_Fiction_02.02.40.853-02.02.43.792 	in the dining room, jules and vincent stand up.
-0019_Pulp_Fiction_02.05.18.828-02.05.20.170 	the wolf and jimmie turn, heading for the bedroom, leaving vincent and jules standing in the kitchen.
 0019_Pulp_Fiction_02.24.39.461-02.24.45.070 	yolanda can't stand it anymore.
 0020_Raising_Arizona_00.06.35.394-00.06.39.398 	next to him idly stands bud, a veteran of the shop, with a grimy face and a pair of goggles pushed up on his forehead.
 0020_Raising_Arizona_00.09.09.882-00.09.15.554 	once again hi works as his sweaty gum-chewing colleague stands idly by.
-0020_Raising_Arizona_00.30.00.374-00.30.02.299 	of a strobe going off as a flash picture is taken: we are looking over nathan jr.'s shoulder as he stands at his open front door, facing a battery of press people who stand out on the porch.
 0020_Raising_Arizona_00.32.59.987-00.33.00.548 	he backs toward the camera and stops, standing astride the bike.
-0020_Raising_Arizona_00.44.02.410-00.44.03.414 	a hand enters to take a package of panty hose from the standing rack.
-0020_Raising_Arizona_00.58.15.335-00.58.16.343 	the door swings open and nathan stands looking in, his middle- aged secretary hanging at his elbow.
 0020_Raising_Arizona_01.13.40.088-01.13.44.775 	as he stands up with the piece of paper.
 0020_Raising_Arizona_01.21.04.642-01.21.07.698 	struggling to stand up.
 0020_Raising_Arizona_01.23.06.336-01.23.08.150 	nathan stands in his jammies, hair disheveled, holding a gun and squinting against the light.
-0020_Raising_Arizona_01.24.59.204-01.24.59.375 	she stands looking into the crib.
-0020_Raising_Arizona_01.28.27.471-01.28.28.969 	glen is leaning out the driver's window of the car talking to the state trooper who stands facing him.
 0021_Rear_Window_00.10.43.468-00.10.46.645 	she helps him stand on one foot.
-0021_Rear_Window_00.14.27.640-00.14.31.132 	having accomplished this, he turns back into the room, and we now see him approach a young man and woman who are standing just inside the doorway.
-0021_Rear_Window_00.15.32.500-00.15.34.132 	he is unaware that stella is now standing behind him.
 0021_Rear_Window_00.18.32.193-00.18.33.676 	she swings open the door and stands to one side.
-0021_Rear_Window_00.23.32.302-00.23.32.602 	he is unaware that lisa is standing behind him, and is also watching this little drama.
 0021_Rear_Window_00.24.01.020-00.24.02.220 	he stands beside her as she makes the drink.
 0021_Rear_Window_00.31.04.881-00.31.05.881 	lisa, standing in the open doorway.
 0021_Rear_Window_00.43.13.362-00.43.14.485 	he plays a couple of notes with one hand, while he stands.
-0021_Rear_Window_00.52.15.902-00.52.20.561 	two men wearing tan coveralls are standing outside thorwald's door.
-0021_Rear_Window_00.53.42.982-00.53.43.306 	the second man is standing near the divan looking out the window with the binoculars.
 0021_Rear_Window_01.01.53.232-01.01.59.235 	she puts her glasses in a handbag, then stands to put out the lights.
-0021_Rear_Window_01.02.52.787-01.02.55.664 	standing there, on the sidewalk, looking up and down the street is a kelly green clad figure.
 0021_Rear_Window_01.03.43.414-01.03.53.528 	thorwald comes up the corridor, and stands unlocking his door.
-0021_Rear_Window_01.07.03.914-01.07.04.414 	thorwald is standing at the window with his drink in his hand.
 0021_Rear_Window_01.18.49.774-01.18.50.174 	lisa stands glumly behind him.
 0021_Rear_Window_01.34.12.230-01.34.13.984 	he stands at the phone thinking.
-0021_Rear_Window_01.49.20.805-01.49.21.319 	miss lonely hearts is standing in the yard outside her apartment, looking up to the porch of miss torso.
 0021_Rear_Window_01.50.13.985-01.50.16.602 	stella tugs at doyle's arm and stands on tiptoe to whisper something into his ear.
 0022_Reservoir_Dogs_00.03.51.816-00.03.53.194 	joe stands up.
-0022_Reservoir_Dogs_00.28.39.106-00.28.51.198 	mr. white stands up and walks over to a table.
-0022_Reservoir_Dogs_01.32.19.252-01.32.22.877 	pink is standing motionless.
 0022_Reservoir_Dogs_01.32.57.740-01.33.09.093 	mr. white tries to stand but falls down.
 0023_THE_BUTTERFLY_EFFECT_00.04.11.559-00.04.14.600 	the drawing shows a child holding a bloody knife while standing on a heap of dead bodies.
 0023_THE_BUTTERFLY_EFFECT_00.25.20.323-00.25.23.949 	as the flames near crockett, evan, seething with rage, stands up with clenched fists and charges tommy at full speed.
 0023_THE_BUTTERFLY_EFFECT_00.25.51.018-00.25.56.567 	he gets no answer from lenny, who stands in the exact same spot.
-0023_THE_BUTTERFLY_EFFECT_00.52.18.002-00.52.19.218 	tommy stands at the top of the basement stairs, looking down.
 0023_THE_BUTTERFLY_EFFECT_00.55.53.309-00.55.56.016 	he stands in the middle of her bedroom, surrounded by sorority plaques and pink preppy decor.
-0023_THE_BUTTERFLY_EFFECT_01.04.21.239-01.04.23.759 	she looks up to see two more pledges standing on ladders, delicately tossing pedals.
 0023_THE_BUTTERFLY_EFFECT_01.14.00.102-01.14.02.817 	evan stands there, stunned, unable to react when -- another neo-nazi, rick, swats evan's journals out of his hands and onto the floor.
 0023_THE_BUTTERFLY_EFFECT_01.17.57.691-01.17.59.039 	soon enough, an image emerges: evan holding a knife, stands over a heap of several dead inmates karl and rick.
-0023_THE_BUTTERFLY_EFFECT_01.40.19.079-01.40.29.532 	she puts her hand on evan's shoulder, stands and goes to lenny.
 0023_THE_BUTTERFLY_EFFECT_01.45.44.893-01.45.49.881 	evan, seven again, stands in the basement dressed in his robin hood costume as mr. miller prepares for the sex scene.
 0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.10.35.134-00.10.37.735 	the children stand deflated, watching gandalf disappear up the lane.
 0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.10.55.949-00.10.57.810 	frodo stands up in the cart as gandalf reigns in the horse.
@@ -393,39 +254,30 @@
 0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.26.32.597-00.26.39.172 	gandalf hurries out the door.leaving frodo standing alone in the bag end.
 0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.56.28.678-00.56.29.883 	frodo stands next to strider by the window, peering out nervously as furious ringwraith screeches echo across the courtyard from the hobbits room.
 0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.58.36.057-00.58.38.874 	saruman stands over the palantir, his hands cupping the massive eye.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.59.50.464-00.59.52.047 	saruman stands in rain looking out into the dark night.the orc overseer sidles up to him, axe in hand, sweating with exertion.
 0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.01.30.994-01.01.37.480 	the hobbits stand back-to-back in the centre of the ring, waiting for the first assault.
 0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.14.46.881-01.14.49.196 	saruman stands over gandalf, gloating.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.26.57.747-01.27.03.030 	frodo sits amongst a council of free-peoples of middle earth, elrond stands before them, addressing gandalf, strider, legolas, and 20 other elves, dwarves, and men.
 0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.28.11.159-01.28.12.557 	legolas stands.
 0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.29.14.450-01.29.14.678 	gimli suddenly stands, excited.
 0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.38.45.445-01.38.52.515 	boromir's hand picks it up by the chain.he stands, the ring dangling before his eyes.
 0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.39.47.823-01.40.03.719 	following the crows as they race deeper and deeper, passing a vista of industry, hundreds of orcs and writhing birthsacks.flying past saruman, who stands upon a wooden gantry.
 0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.14.14.673-02.14.15.943 	next to him stands galadriel, the lady of the elves.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.14.17.888-02.14.19.179 	frodo looks at galadriel, standing silently beside celeborn.
 0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.25.42.707-02.25.50.100 	as the fellowship's boats drift past, galadriel stands alone, watching from the banks of the river.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.12.14.569-00.12.26.886 	eowyn standing alone outside the golden hall, waiting.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.27.22.331-00.27.23.187 	the boy now stands within a vision of the majestic architecture of the great gondorian city of minas.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.32.15.416-00.32.19.352 	the tower of ecthelion stands high within the topmost walls.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.33.19.977-00.33.26.505 	pippin as he takes in his surroundings, his eye caught by a dead tree that stands in the middle of the court, four solemn citadel guards standing sentry around it.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.34.01.849-00.34.07.086 	between the pillars stand a silent company of tall kings carved in cold stone.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.37.27.510-00.37.31.331 	gandalf standing quietly on a balcony that overlooks the great city.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.58.11.125-00.58.12.738 	high above osgiliath, the sinister profile of the witch king seated on a fell beast as gothmog stands, awaiting his orders.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.15.39.192-01.15.44.325 	a guard stands in the doorway.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.16.17.289-01.16.21.384 	the figure stands and pulls back the hood to reveal elrond.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.21.58.545-01.22.00.355 	theoden looks at eowyn who stands as if turned to stone.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.26.06.922-01.26.11.028 	he stands, head down -- a tiny dejected figure -- as the mighty rohirrim on their large horses ride by.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.50.16.588-01.50.20.551 	samwise gamgee stands before the giant spider -- sting clutched in one hand, the shining phial in the other.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.03.50.602-02.03.55.485 	theoden stands proud in his saddle, yelling to his rohirrim.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.09.25.469-02.09.29.096 	angle on: a rohan soldier stands before the beast.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.09.43.897-02.09.50.728 	eowyn stands before him, the fell-beast's blood dripping from her sword!
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.09.43.897-02.09.50.728 	stunned, eowyn tries to stand and is hit once again with another crippling blow.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.39.54.517-02.39.55.152 	frodo is standing on the edge of the crack of doom.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.39.58.710-02.40.03.065 	standing tense and still.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.43.31.932-02.43.35.886 	time seems to stand still as each regards the other.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.47.42.472-02.47.48.561 	the ground is shaking so violently that frodo and sam can barely stand.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.52.50.098-02.53.02.432 	finally frodo's eyes fall upon a figure standing apart from the others.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.57.08.891-02.57.16.468 	aragorn and arwen walking through the crowd towards four small figures who stand nervously at the end of the.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.57.16.468-02.57.18.648 	aragorn and arwen look on frodo, sam, merry and pippin, as they stand before them.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_03.02.16.128-03.02.23.396 	sam has entered the room and stands behind frodo.
 0026_The_Big_Fish_00.02.40.786-00.02.41.905 	his mother sandra -- from whom he gets his good looks and practicality -- stands with him at the door.
@@ -436,16 +288,12 @@
 0026_The_Big_Fish_00.58.50.220-00.58.59.037 	amos calloway stands up behind a bush, buck naked and hairy.
 0026_The_Big_Fish_01.00.32.986-01.00.37.815 	edward stands with a bouquet of daffodils in front of a half- open door.
 0026_The_Big_Fish_01.04.06.364-01.04.07.338 	edward stands amid the sea of flowers.
-0026_The_Big_Fish_01.09.35.957-01.09.37.832 	she stands with her hips turned in profile.
-0026_The_Big_Fish_01.14.22.952-01.14.25.856 	looking up, she sees not a shadow but edward himself standing before her.
 0026_The_Big_Fish_01.55.24.914-01.55.33.607 	will and his mother stand knee-deep in the water, watching edward bloom swim away into the sunlight.
 0027_The_Big_Lebowski_00.28.43.547-00.28.43.842 	behind him stands his partner, o'brien, a short fat irishman with tufted red hair.
 0027_The_Big_Lebowski_00.32.13.962-00.32.15.624 	the headlights play over walter standing waiting in front of the storefront of sobchak security.
 0027_The_Big_Lebowski_00.37.01.803-00.37.08.342 	the dude and walter stand in the middle of the road, watching the three red tail lights fishtail away.
 0027_The_Big_Lebowski_00.43.08.387-00.43.14.740 	a huge unfinished canvas, lit by standing industrial lights, dominates one wall.
-0027_The_Big_Lebowski_00.43.17.087-00.43.17.656 	the dude, standing in the middle of the loft, looks into the murky depths of the cavernous space.
 0027_The_Big_Lebowski_01.14.30.895-01.14.37.534 	he finishes hammering, rises and grabs a straightbacked chair that stands nearby.
-0027_The_Big_Lebowski_01.15.25.838-01.15.30.014 	it is a party, lit by festive beach lights and standing kerosene heaters.
 0027_The_Big_Lebowski_01.21.42.582-01.21.44.768 	in the center of the alley stands maude lebowski, singing operatic harmony to the kenny rogers song.
 0027_The_Big_Lebowski_01.22.39.746-01.22.45.406 	the dude stands behind her and, pressed up against her, helps her with her follow-through as she releases a bowling ball.
 0027_The_Big_Lebowski_01.23.45.439-01.23.45.945 	the dude, now standing in a field of black, reacts to the advancing germans.
@@ -453,8 +301,6 @@
 0027_The_Big_Lebowski_01.48.16.643-01.48.18.612 	the wind has blown all of the ashes into the dude, standing just to the side of and behind walter.
 0027_The_Big_Lebowski_01.48.18.865-01.48.23.705 	the dude stands, frozen.
 0028_The_Crying_Game_00.03.36.195-00.03.38.382 	she stands there, listening to the sound of him urinate.
-0028_The_Crying_Game_00.19.25.829-00.19.27.597 	fergus, in the dark, stands motionless, looking at him.
-0028_The_Crying_Game_00.21.51.265-00.21.54.355 	maguire, standing there in the dark, looking at fergus.
 0028_The_Crying_Game_00.44.45.354-00.44.48.983 	fergus, standing across the road from the pub.
 0028_The_Crying_Game_00.44.48.183-00.44.48.644 	fergus stands back into a shadow.
 0028_The_Crying_Game_00.45.10.469-00.45.12.590 	fergus stands there, observing.
@@ -467,54 +313,33 @@
 0028_The_Crying_Game_01.10.06.818-01.10.09.098 	fergus stands up suddenly.
 0028_The_Crying_Game_01.16.44.315-01.16.45.648 	he stands outside watching, the flowers behind his back.
 0028_The_Crying_Game_01.19.02.110-01.19.04.331 	she stands.
-0028_The_Crying_Game_01.19.48.180-01.19.48.681 	fergus looks toward it, but jude is standing there, waiting.
-0028_The_Crying_Game_01.33.33.241-01.33.35.934 	she looks at him, standing up.
 0028_The_Crying_Game_01.37.31.313-01.37.38.985 	she stands up, still pointing the gun at fergus.
 0029_The_Graduate_00.06.50.458-00.06.55.914 	ben stands with his back against the door.
-0029_The_Graduate_00.07.31.533-00.07.33.807 	they stand for a moment, looking at each other.
 0029_The_Graduate_00.20.25.056-00.20.26.380 	he stands.
 0029_The_Graduate_00.20.26.380-00.20.28.915 	mr. robinson stands up with him.
 0029_The_Graduate_00.21.17.981-00.21.18.142 	mr. braddock stands alone at the end of the pool near the house.
 0029_The_Graduate_00.22.31.807-00.22.32.223 	at the back of the hall, inside the house, stands ben, dressed in a full length skin diver's wet suit, flippers on his feet, the oxygen tank strapped to his back, the mask pushed up his forehead, the air hose dangling.
 0029_The_Graduate_00.22.52.643-00.22.55.981 	his father stands just outside the screen door.
-0029_The_Graduate_00.23.46.417-00.24.14.488 	looking down on the pool, on ben's black suited body at the bottom and the people standing around the pool, looking down into it.
-0029_The_Graduate_00.25.22.045-00.25.39.129 	he stands up in the booth, looks around, moves about uncomfortably for a few moments, removes his jacket and carrying it folded across his arm in front of him, leaves the phone booth and crosses to the doors that lead to the main lobby.
 0029_The_Graduate_00.25.45.500-00.26.12.724 	ben holds one of the doors open for them and stands politely to one side.
-0029_The_Graduate_00.30.03.234-00.30.13.820 	ben walks to the front desk and stands there.
-0029_The_Graduate_00.31.29.928-00.31.31.151 	a waiter is standing next to the table with a telephone.
-0029_The_Graduate_00.39.54.579-00.40.00.288 	pan with ben as he walks across the room past mrs. robinson who is standing in front of the bureau taking off her bracelet and watch.
 0029_The_Graduate_00.40.48.885-00.40.53.203 	ben stands, crosses back to the door to the den and shuts it.
 0029_The_Graduate_00.43.06.251-00.43.06.947 	mr. braddock standing by the side of the pool.
 0029_The_Graduate_01.04.44.601-01.04.47.235 	ben and elaine enter the lobby and stand just inside the door.
-0029_The_Graduate_01.10.20.640-01.10.23.022 	mrs. robinson stands at the end of it, looking at ben.
 0029_The_Graduate_01.11.24.376-01.11.26.401 	ben dressed differently, stands by the window overlooking the backyard.
-0029_The_Graduate_01.11.39.840-01.11.44.656 	ben is standing behind a tree watching the robinson house.
 0029_The_Graduate_01.11.47.878-01.11.50.719 	mrs. robinson stands at the door.
-0029_The_Graduate_01.12.24.779-01.12.25.797 	we see a swinging door pushed open to reveal: mr. braddock, dressed in a bathrobe, standing at the kitchen counter by the window through which we can see an orange tree.
 0029_The_Graduate_01.12.26.232-01.12.28.464 	ben stands inside door.
-0029_The_Graduate_01.21.22.523-01.21.25.019 	elaine is standing in the hall.
-0029_The_Graduate_01.29.59.625-01.30.04.882 	ben and elaine are standing at the entrance.
 0029_The_Graduate_01.30.25.794-01.30.28.798 	ben remains standing in exactly the same position.
 0029_The_Graduate_01.32.46.845-01.32.48.973 	mr. robinson stands at the door.
-0029_The_Graduate_01.33.08.988-01.33.10.226 	mr. mccleery is standing on the stairway, listening.
-0029_The_Graduate_01.43.44.918-01.43.48.084 	he turns toward the man standing in front of the door and raises the cross over his head.
 0030_The_Hustler_00.08.11.832-00.08.13.392 	it now stands at ten o'clock.
-0030_The_Hustler_00.08.32.951-00.08.36.714 	they stand before the swinging doors and look around.
 0030_The_Hustler_00.13.45.510-00.13.58.215 	fats withdraws a cigarette from his gold case, then casually strolls toward eddie's table standing apart and quietly observing the sharp, precise movements of his prospective opponent.
 0030_The_Hustler_00.24.09.575-00.24.14.040 	they stand up, remove their jackets, and prepare to play again.
 0030_The_Hustler_00.27.58.345-00.28.00.407 	he stands before fats and bert gordon, waiting for an answer.
 0030_The_Hustler_00.33.06.194-00.33.09.596 	a worried charlie picks up the case and stands by mutely, watching eddie disintegrate.
-0030_The_Hustler_00.48.22.494-00.48.30.059 	they stand there for a long moment: she looks away; he looks down at the floor.
-0030_The_Hustler_00.51.04.659-00.51.07.094 	two men, dressed in work clothes, stand around looking disgruntled.
 0030_The_Hustler_01.04.03.013-01.04.04.380 	she stands near the door, with her back to both of them.
 0030_The_Hustler_01.16.58.208-01.17.07.732 	the other two men, the losers, stand around, mutely following the play.
-0030_The_Hustler_01.21.57.738-01.22.07.955 	she is at her table, typing, while eddie stands at the window, trying to reach over his shoulder to scratch his back.
 0030_The_Hustler_01.37.34.585-01.37.37.924 	she stands there, lips pursed, absorbing the insult.
 0030_The_Hustler_01.52.21.401-01.52.22.534 	eddie stands helplessly for a moment.
 0030_The_Hustler_01.53.35.779-01.53.37.633 	she stands at the rail, listening.
 0030_The_Hustler_01.58.44.606-01.58.49.267 	he stands over her, pulling a wad of bills from his pocket.
-0030_The_Hustler_02.00.58.319-02.01.04.130 	he walks through the lobby, ignoring the uniformed policeman standing nearby, and stops at the desk.
-0030_The_Hustler_02.01.42.859-02.01.44.010 	bert, laying in bed, talks to a plainclothesman who stands over him, taking notes.
 0030_The_Hustler_02.01.44.010-02.01.45.106 	a photographer with a flash camera stands by the bathroom.
 0030_The_Hustler_02.03.16.026-02.03.20.243 	bert, in dark glasses, stands near the cashier's cage, chucking dice into a leather shaker.
 0030_The_Hustler_02.10.35.055-02.10.38.164 	bert's bodyguards stand around, waiting for the word.
@@ -523,49 +348,31 @@
 0031_The_Lost_Weekend_00.10.27.502-00.10.28.697 	at the door stands mrs. foley, a middle-aged charwoman with a large utility bag over her arm.
 0031_The_Lost_Weekend_00.10.44.487-00.10.45.676 	he stands galvanized.
 0031_The_Lost_Weekend_00.11.03.045-00.11.03.683 	on the counter under the cupboards stands the sugar bowl.
-0031_The_Lost_Weekend_00.11.40.803-00.11.47.233 	he peers into the shop to make sure there are no other customers, then quickly steps inside and stands breathing heavily.
 0031_The_Lost_Weekend_00.12.42.843-00.12.46.332 	he wants to start down the street but about twenty-five feet away stand two middle-aged hokinson ladies, one of them kerbing her dog on a leash.
 0031_The_Lost_Weekend_00.19.44.267-00.19.45.468 	don, an empty jigger in his hand, stands at the same spot, only now leaning with his back against the bar.
-0031_The_Lost_Weekend_00.31.55.201-00.32.00.377 	alfred and violetta are batting the drinking song back and forth, as the chorus, glasses in hand, stands slowly swaying, echoing each couplet.
-0031_The_Lost_Weekend_00.41.15.161-00.41.26.598 	don stands undecided, then looks around, locates the public telephone booths, steps into one of them.
 0031_The_Lost_Weekend_00.42.27.641-00.42.28.725 	in the dim fore- ground stands a small table, beyond it the vague contours of don lying on the couch.
 0031_The_Lost_Weekend_00.45.50.180-00.45.51.232 	he stands with his head against the door post, listening, harassed.
 0031_The_Lost_Weekend_00.59.04.316-00.59.07.311 	near the little piano stands don's waiter, the head waiter, the piano player and the lovers.
-0031_The_Lost_Weekend_01.02.25.433-01.02.26.820 	only the telephone, which stands on the desk next the open portable, is alive.
 0031_The_Lost_Weekend_01.03.25.782-01.03.26.810 	there on the desk stands the typewriter.
-0031_The_Lost_Weekend_01.04.49.156-01.04.49.701 	there is a woman standing nearby, wheeling a baby in a baby carriage.
 0031_The_Lost_Weekend_01.04.50.923-01.04.55.190 	don stands helpless for a moment, then, feeling the woman's intrusive stare, straightens up.
 0031_The_Lost_Weekend_01.07.01.917-01.07.04.379 	the two men stand grinning.
-0031_The_Lost_Weekend_01.07.22.368-01.07.26.727 	the camera goes slowly up to a sidewalk clock with a diadem of three balls, which stands outside the hock shop.
 0031_The_Lost_Weekend_01.09.31.917-01.09.32.979 	there stands the wooden indian gloria spoke about, pointing up.
 0031_The_Lost_Weekend_01.12.49.834-01.12.55.843 	the man stands staring at him, terrified.
 0031_The_Lost_Weekend_01.14.27.592-01.14.31.271 	bim stands quietly watching him, a great big grin on his face.
-0031_The_Lost_Weekend_01.14.55.627-01.15.02.292 	don turns, at the bend of the corridor stands bim, with a tumbler of medicine in his hand.
 0031_The_Lost_Weekend_01.16.27.948-01.16.31.882 	he points to the man with the sensitive face, who stands against the wall.
 0031_The_Lost_Weekend_01.24.17.771-01.24.18.344 	on the small table next it stand the three empty bottles.
-0031_The_Lost_Weekend_01.26.13.727-01.26.15.519 	sophie, standing beside her, is barking wildly.
 0031_The_Lost_Weekend_01.27.07.300-01.27.08.393 	mrs. deveridge stands in her door, peering up.
 0031_The_Lost_Weekend_01.28.13.499-01.28.16.995 	she stands waiting until dave and mrs. deveridge start downstairs.
 0031_The_Lost_Weekend_01.30.18.871-01.30.21.420 	in the door to the bedroom stands don.
 0031_The_Lost_Weekend_01.32.35.782-01.32.54.814 	he puts down the pen, gets up, stands the letter conspicuously on the desk, picks up the revolver, gets the cartridges from the drawer and loads the gun.
-0031_The_Lost_Weekend_01.33.01.911-01.33.07.075 	don stands and looks at himself in the mirror, the gun in his hand.
 0031_The_Lost_Weekend_01.33.30.394-01.33.34.710 	helen stands staring at him, wiping the rain from her face, and maybe some tears too.
-0031_The_Lost_Weekend_01.34.10.423-01.34.13.772 	she stands looking about.
-0031_The_Lost_Weekend_01.35.40.981-01.35.43.614 	helen stands looking at him.
 0031_The_Lost_Weekend_01.37.46.383-01.37.51.245 	nat stands outside holding something under his wet raincoat.
-0032_The_Princess_Bride_00.02.46.848-00.02.54.591 	buttercup is standing, holding the reins of her horse, while in the background, westley, in the stable doorway, looks at her.
-0032_The_Princess_Bride_00.03.51.311-00.04.01.483 	he gets it, hands it to her; they are standing very close to each other gazing into each other's eyes.
 0032_The_Princess_Bride_00.04.32.636-00.04.38.952 	they stand near the gate to the farm, locked in an embrace.
 0032_The_Princess_Bride_00.05.57.666-00.05.59.684 	prince humperdinck, a man of incredible power and bearing, standing in his royal robes on a castle balcony.
-0032_The_Princess_Bride_00.05.59.684-00.06.02.631 	three others standing behind him: an old couple with crowns, the aging king and queen, and a dark bearded man who seems the prince's match in strength: this is count rugen.
 0032_The_Princess_Bride_00.06.56.510-00.06.58.346 	she stands immobile among her subjects, blinking back tears.
 0032_The_Princess_Bride_00.07.31.689-00.07.33.119 	three men, standing close together in the path.
-0032_The_Princess_Bride_00.15.42.863-00.15.59.859 	vizzini leaps off and takes out a knife, begins to cut the rope which is tied around a great rock while inigo helps the princess to her feet and fezzik just stands around, waiting for someone to tell him to do something.
 0032_The_Princess_Bride_00.16.13.264-00.16.17.953 	fezzik, standing with inigo and buttercup by the cliff edge.
 0032_The_Princess_Bride_00.25.10.425-00.25.11.327 	fezzik, carrying the princess, stands alongside.
-0032_The_Princess_Bride_00.26.50.596-00.26.52.626 	fezzik just stands there, kind of taking in the scenery.
-0032_The_Princess_Bride_00.27.57.719-00.27.59.678 	the man in black, holding his grip as fezzik tries to stand, halfway makes it, but there is no air.
-0032_The_Princess_Bride_00.38.25.568-00.38.31.421 	the man in black is about to reply as they stand there on the edge of the sheer ravine.
 0032_The_Princess_Bride_00.38.40.736-00.38.41.914 	she stands there, alone, as from far below the words come to her, drifting on the wind.
 0032_The_Princess_Bride_00.52.38.437-00.52.42.203 	humperdinck, rugen and the queen stand high on the balcony.
 0032_The_Princess_Bride_00.55.14.107-00.55.15.492 	count rugen stands nearby.
@@ -573,102 +380,62 @@
 0032_The_Princess_Bride_01.08.11.873-01.08.14.676 	for a long moment he stands frozen.
 0032_The_Princess_Bride_01.20.54.736-01.20.55.401 	buttercup, standing there.
 0032_The_Princess_Bride_01.21.50.027-01.21.51.291 	for a moment he just stands there, sword in hand.
-0032_The_Princess_Bride_01.29.42.730-01.29.50.521 	his body turns, his feet go to the floor, he starts to stand.
-0032_The_Princess_Bride_01.29.50.521-01.29.55.916 	and now he is standing, sword in fighting position.
 0033_Amadeus_00.10.35.875-00.10.38.632 	beside the little boy stands leopold, his father, smirking with pride.
 0033_Amadeus_00.10.45.010-00.10.46.938 	leopold lowers the lid of the harpsichord and lifts up his little son to stand on it.
 0033_Amadeus_00.17.23.813-00.17.26.632 	everyone stands.
-0033_Amadeus_00.22.27.370-00.22.28.257 	a group of people who have attended the concert, among them constanze, are standing outside the private apartment.
 0033_Amadeus_00.22.33.557-00.22.36.950 	mozart stands in the corridor, out of the archbishop's line of sight, bowing and giggling, and encouraging the applause for the archbishop with conducting gestures.
-0033_Amadeus_00.22.47.347-00.22.54.237 	salieri, in this vast room, is standing and looking at the full score of the serenade.
 0033_Amadeus_00.24.10.325-00.24.11.990 	mozart stands before him as he lays down the score.
-0033_Amadeus_00.24.38.423-00.24.40.210 	around him but standing, are his chamberlain, johann von strack: stiff and highly correct.
-0033_Amadeus_00.26.55.399-00.26.57.340 	opposite this image sits salieri at his desk, on which stands a pile of music paper, quill pens and ink.
 0033_Amadeus_01.02.21.924-01.02.25.069 	he stands shaking, staring wildly.
 0033_Amadeus_01.13.20.543-01.13.21.877 	bluff, friendly and coarse-looking, he stands in his hall amidst the leaping and barking animals, greeting mozart.
 0033_Amadeus_01.26.37.141-01.26.37.847 	in the middle stands a billiard table.
-0033_Amadeus_01.26.40.213-01.26.41.517 	standing at the billiard table, mozart is dreamily hearing the music and playing shots on the table.
-0033_Amadeus_01.32.41.313-01.32.42.571 	salieri stands looking about him with tremendous curiosity.
 0033_Amadeus_01.33.29.030-01.33.35.828 	standing at mozart's desk, strewn with manuscripts, he picks up mozart's pen and strokes the feather.
 0033_Amadeus_01.54.14.460-01.54.15.443 	mozart stands there.
-0033_Amadeus_01.56.53.750-01.56.54.144 	we see salieri standing alone in the back of a box, unseen, in semi-darkness.
-0033_Amadeus_02.13.28.040-02.13.30.112 	mozart stands there looking very unwell and bewildered.
 0033_Amadeus_02.16.29.867-02.16.34.663 	schikaneder stands there, floridly dressed as usual.
 0033_Amadeus_02.20.26.338-02.20.29.710 	we watch him stand beside constanze, who lies asleep.
 0033_Amadeus_02.21.28.730-02.21.31.503 	before him stands the masked stranger.
-0033_Amadeus_02.27.29.548-02.27.30.978 	an audience of ordinary german citizens stands in the pit area, or sits: they are rapt and excited.
 0033_Amadeus_02.48.02.363-02.48.11.998 	she extends her hand for the requiem, as she stands up.
-0038_Psycho_00.19.11.221-00.19.13.608 	the car dealer is out on the lot now, standing and waiting for mary.
 0038_Psycho_00.19.57.302-00.19.59.181 	she stands in the middle of the lot, feeling like a shooting target.
-0038_Psycho_00.28.20.355-00.28.25.080 	he gestures her into the office, standing back to indicate that he will go after her.
 0038_Psycho_00.32.53.544-00.32.56.588 	mary has stood by the window, listening with mounting distress and concern and sympathy.
 0038_Psycho_01.12.13.732-01.12.17.891 	norman stands, watching him drive away.
-0038_Psycho_01.36.56.366-01.37.01.893 	she stands on the threshold, looking in at the room, instantly disturbed by it, almost chilled, her expression indicating an impulse to close the door and go away from this room forever.
-0038_Psycho_01.38.10.613-01.38.12.548 	sam has risen, is standing by the counter now.
 0041_The_Sixth_Sense_00.12.34.449-00.12.38.200 	its old stone and huge towers make it stand out from the modern buildings all around it.
 0041_The_Sixth_Sense_00.52.10.941-00.52.19.173 	he stands alone as thoughts crash like thunder in his head.
 0041_The_Sixth_Sense_00.55.07.867-00.55.09.889 	he just stands there and stares into the darkness of the hall.
 0041_The_Sixth_Sense_00.55.52.050-00.55.53.249 	the crazed woman stands at the end of the hall.
-0041_The_Sixth_Sense_01.00.33.145-01.00.34.198 	cole is standing before the beat-up twelve inch kitchen t.v.
 0041_The_Sixth_Sense_01.00.12.061-01.00.14.073 	he stands in his pajamas in a doorway.
 0041_The_Sixth_Sense_01.04.41.224-01.04.44.352 	anna stands with a young couple.
 0041_The_Sixth_Sense_01.13.12.589-01.13.15.066 	cole and malcolm stand silently in the center aisle of the back of the church.
-0041_The_Sixth_Sense_01.19.48.275-01.19.49.824 	the gathering of mourners is standing room only.
-0041_The_Sixth_Sense_01.22.47.308-01.22.53.377 	the man slowly turns and looks down at the boy standing next to him.
 0041_The_Sixth_Sense_01.26.19.220-01.26.24.330 	a group of ashen faced guests stand in the distance behind him.
 0041_The_Sixth_Sense_01.28.53.874-01.28.55.867 	malcolm watches his client, standing unafraid in the spot light for the first time.
 0043_Thelma_and_Luise_00.06.39.711-00.06.41.739 	reveal thelma, standing in front of a closet, trying to decide what else to bring, as if she's forgotten something.
-0043_Thelma_and_Luise_01.08.27.937-01.08.29.652 	she is already standing up putting money on the table.
-0043_Thelma_and_Luise_01.11.07.508-01.11.10.547 	the front door swings open and there stands darryl looking like he's been shot out of a cannon.
-0043_Thelma_and_Luise_01.29.23.784-01.29.29.472 	louise stops as she is about to get in and faces thelma who's standing on the other side of the car.
-0043_Thelma_and_Luise_01.45.09.870-01.45.11.117 	louise is still standing there holding the phone.
 0046_Chasing_Amy_00.23.54.306-00.23.57.189 	beside holden, stands a pretty girl with a short haircut, who's also riveted by alyssa's performance.
 0046_Chasing_Amy_00.41.14.230-00.41.15.689 	banky stands there, open-mouthed.
 0046_Chasing_Amy_00.56.05.652-00.56.08.044 	holden stands there, at a loss.
 0046_Chasing_Amy_00.56.55.385-00.57.01.817 	and there they stand, by the side of the road, drenched kissing.
 0046_Chasing_Amy_01.23.31.078-01.23.33.670 	jay and silent bob stand above him.
-0049_Hannah_and_her_sisters_00.02.36.276-00.02.38.097 	elliot's voice-over continues as he is actually seen, standing in a doorway having a conversation with a gesturing, rotund man.
-0049_Hannah_and_her_sisters_00.03.05.142-00.03.09.369 	she holds a drink and a plate of hors d'oeuvres; she stands at the entrance to the hallway, eating and looking at the offscreen guests.
 0049_Hannah_and_her_sisters_00.03.09.369-00.03.14.583 	holly, standing in the hallway onscreen, swallows loudly.
 0049_Hannah_and_her_sisters_00.05.47.416-00.05.50.353 	the film cuts to april, standing in the doorway of the dining room and holding a drink.
-0049_Hannah_and_her_sisters_00.12.00.389-00.12.02.039 	he is interrupted by ed smythe, an official from the standards and practices department, who's been standing in the corridor waiting for mickey.
 0049_Hannah_and_her_sisters_00.12.36.693-00.12.40.299 	he stands by an open dressing room, where ron, an actor, slouches, dazed, in a chair facing a makeup mirror.
 0049_Hannah_and_her_sisters_00.13.16.379-00.13.17.937 	mickey stands there holding two boxed gifts.
-0049_Hannah_and_her_sisters_00.14.33.577-00.14.35.315 	dr. abel sniffs and stands directly in front of the sitting mickey.
 0049_Hannah_and_her_sisters_00.15.45.635-00.15.58.456 	still standing, the doctor leans over the desk, his back to the camera, and makes a few notes in the file.
 0049_Hannah_and_her_sisters_00.16.25.611-00.16.31.655 	mickey stands in a telephone booth on a corner near dr. abel's office; he talks on the phone.
 0049_Hannah_and_her_sisters_00.16.58.612-00.17.01.988 	gail, wearing her glasses, stands behind a crowded but well- ordered desk.
 0049_Hannah_and_her_sisters_00.16.58.612-00.17.01.988 	two assistants, a man and a woman, stand around her.
-0049_Hannah_and_her_sisters_00.20.08.112-00.20.10.334 	she is standing by the table.
 0049_Hannah_and_her_sisters_00.31.09.731-00.31.15.866 	mickey, still ruminating, stands up.
-0049_Hannah_and_her_sisters_00.40.41.104-00.40.45.179 	they stride across the loft past lee, who is standing by the stereo.
-0049_Hannah_and_her_sisters_00.43.53.459-00.44.03.444 	evan stands in the doorway looking at her; he doesn't go in.
-0049_Hannah_and_her_sisters_00.44.22.473-00.44.32.513 	she is still glaring offscreen at the doorway where evan stood moments before.
-0049_Hannah_and_her_sisters_00.46.23.961-00.46.29.183 	norma stands up; hannah takes her coffee cup and sets it on the counter.
-0049_Hannah_and_her_sisters_00.47.58.197-00.48.02.786 	one of them, sitting down, taps information into a computer while the other technician stands nearby, looking from mickey to the computer screen.
-0049_Hannah_and_her_sisters_00.49.38.754-00.49.42.750 	mickey, standing behind his desk, his back to the camera, his coat still on, looks out at the manhattan skyline.
 0049_Hannah_and_her_sisters_00.51.27.427-00.51.29.784 	they stand very close to each other, framed by the door and a stark, subtly striped wallpapered wall.
 0049_Hannah_and_her_sisters_00.58.26.421-00.58.28.273 	elliot frantically stands up and leaves the room.
 0049_Hannah_and_her_sisters_00.59.19.878-00.59.25.369 	the movie cuts to lee, standing in the dark in frederick's loft.
 0049_Hannah_and_her_sisters_00.59.30.680-00.59.34.289 	lee hangs up the phone and the movie cuts back to elliot, standing in his living room.
-0049_Hannah_and_her_sisters_01.05.23.964-01.05.30.082 	hannah's two adopted children stand by her chair; she is showing them how a small camera works.
 0049_Hannah_and_her_sisters_01.06.49.757-01.07.02.640 	he stands up and begins to pace behind hannah.
 0049_Hannah_and_her_sisters_01.13.34.029-01.13.36.684 	mickey's mother stands in the front of this bureau at the hallway's end, screaming at the top of her lungs, holding her heart dramatically.
 0049_Hannah_and_her_sisters_01.14.58.469-01.15.01.768 	a fairly large congregation sits in darkened pews as the film cuts to the back, where mickey, his arms crossed, stands underneath some stained-glass windows, watching and listening to the inspiring music.
-0049_Hannah_and_her_sisters_01.15.19.717-01.15.26.036 	the hymn plays on, loudly, as the camera moves back, revealing mickey, standing outside a barber shop window, looking at the christ playing and shuffling from side to side to gets its eyes' 3-d effect.
 0049_Hannah_and_her_sisters_01.21.10.821-01.21.13.912 	the leader, holding some pamphlets, stands by a chain-link fence, a few feet away from his group, talking to someone on the other side.
 0049_Hannah_and_her_sisters_01.22.15.697-01.22.23.424 	she stands and faces the water and the distant skyline across the bay.
-0049_Hannah_and_her_sisters_01.24.00.075-01.24.04.712 	a couple stands by the window; one man gets up from his chair and walks away.
 0049_Hannah_and_her_sisters_01.24.04.379-01.24.10.968 	norma, still standing behind him, has a poignant, wistful expression on her face.
-0049_Hannah_and_her_sisters_01.24.21.160-01.24.26.161 	several people, deep in conversation, stand nearby as elliot, holding a drink, walks up behind her.
-0049_Hannah_and_her_sisters_01.24.37.240-01.24.43.553 	holly is standing in the pantry, preparing some offscreen food.
 0049_Hannah_and_her_sisters_01.27.18.123-01.27.18.983 	holly stands nearby, working in the pantry area.
 0049_Hannah_and_her_sisters_01.28.33.698-01.28.40.545 	he dries his hands as hannah, standing behind him, continues to talk.
 0049_Hannah_and_her_sisters_01.35.00.430-01.35.04.608 	holly, thrilled with mickey's overwhelming response, stands up, her hand on her head.
 0049_Hannah_and_her_sisters_01.37.46.632-01.37.53.447 	the film abruptly cuts to the theater's black-and-white screen, where the marx brothers, in duck soup, play the helmets of several soldiers standing in a line like a live xylophone.
 0049_Hannah_and_her_sisters_01.40.13.151-01.40.17.032 	two women stand by the partially set dining room table, chatting and arranging some plates, as elliot strolls into view, sipping a drink.
-0049_Hannah_and_her_sisters_01.40.33.415-01.40.35.829 	the camera shows his point of view: guests stand in clusters, enjoying themselves; one woman chats with a little boy; another woman, carrying a drink, walks over to a group of other guests.
-0049_Hannah_and_her_sisters_01.40.52.109-01.41.00.075 	as lee takes a sip of her drink, the movie cuts back to elliot, standing in the doorway and still staring straight ahead.
 0050_Indiana_Jones_and_the_last_crusade_00.04.28.348-00.04.39.393 	as fedora stands watching the other men digging, indy puts the cross in his pants and begins to pull himself up a rope hanging nearby.
 0050_Indiana_Jones_and_the_last_crusade_00.05.18.635-00.05.21.839 	indy stands up and successfully mounts his horse.
 0050_Indiana_Jones_and_the_last_crusade_00.08.50.527-00.08.51.564 	he stands to face them as rough rider points a gun in his direction.
@@ -676,7 +443,6 @@
 0050_Indiana_Jones_and_the_last_crusade_00.14.48.129-00.14.56.520 	brody enters the lecture hall and stands at the rear of the room.
 0050_Indiana_Jones_and_the_last_crusade_00.14.58.806-00.15.06.945 	indy stands at his desk as students begin to disperse.
 0050_Indiana_Jones_and_the_last_crusade_00.38.43.261-00.38.46.740 	he stands in the moving boat, firing a machine gun at indy and elsa.
-0050_Indiana_Jones_and_the_last_crusade_00.43.00.752-00.43.03.224 	elsa is standing before a mirror, wearing a silk bathrobe.
 0050_Indiana_Jones_and_the_last_crusade_00.48.49.610-00.48.52.177 	indy steps to the door and stands, listening.
 0050_Indiana_Jones_and_the_last_crusade_01.00.45.339-01.00.49.727 	where a nazi radioman wearing headphones sits at an elaborate panel of dials, switches and meters, and a woman stands over a map plotting coordinates.
 0050_Indiana_Jones_and_the_last_crusade_01.08.39.542-01.08.45.508 	where high-ranking officers of the third reich stand flanking adolf hitler as they oversee the rally.
@@ -685,34 +451,24 @@
 0050_Indiana_Jones_and_the_last_crusade_01.47.08.412-01.47.17.189 	indy stands in a small opening, just small enough for his shoulders to squeeze through and beyond that a 100 foot drop to the rocks below and 100 feet across, nothing but a rough, stony cliff wall.
 0050_Indiana_Jones_and_the_last_crusade_01.58.18.099-01.58.23.383 	indy and henry down the passageway just as a huge stone column tumbles down upon the spot where they stood.
 0051_Men_in_black_00.05.39.501-00.05.50.671 	kay and dee escort their captive across the road and over a small rise, leaving the stunned ins agents standing alone in the roadway.
-0051_Men_in_black_00.06.42.544-00.06.42.607 	all three of them see agent janus, standing just over the rise, staring in frozen amazement.
 0051_Men_in_black_00.17.06.978-00.17.07.145 	doctor laurel weaver, thirtyish, dark-haired, dark-eyed, general aura of darkness around her, stands above him.
-0051_Men_in_black_00.18.42.668-00.18.43.363 	sees they're standing in front of a pawn shop.
 0051_Men_in_black_00.28.50.897-00.28.52.153 	kay stares through the glass, at edwards, who stands alone on one side of the room, apart from the rest of the group.
-0051_Men_in_black_00.37.10.531-00.37.15.245 	zed, who was standing up close to the screen, walks over to edwards, sizing him up.
 0051_Men_in_black_00.37.40.432-00.37.40.604 	edwards stands in a cramped white booth.
-0051_Men_in_black_00.45.42.267-00.45.44.712 	kay is furiously searching through the tabs; jay is standing behind him, a little embarrassed.
-0051_Men_in_black_00.51.26.883-00.51.30.510 	jay and kay are standing there.
 0051_Men_in_black_01.16.31.596-01.16.32.987 	as they stand there, wide-eyed, staring at it, we.
-0053_Rendezvous_mit_Joe_Black_01.09.23.389-01.09.34.977 	a knock, the door opens and drew enters, looks at parrish, then at joe, stands poised in the doorway.
-0053_Rendezvous_mit_Joe_Black_01.15.03.800-01.15.12.524 	he sits, then immediately stands up again.
 1001_Flight_00.14.17.421-00.14.19.441 	he stands in the doorway.
 1001_Flight_00.40.11.409-00.40.12.798 	the gaunt man stands by his iv pole.
 1001_Flight_00.45.02.594-00.45.11.492 	she wipes a tear from her eye, offers a smile, then stands and climbs up the stairs.
-1001_Flight_00.51.24.003-00.51.50.626 	charlie stands at a table strewn with pictures of the crash as men in suits look on.
 1001_Flight_01.07.56.298-01.08.00.213 	carr stands at the far end of the large conference table opposite charlie.
 1001_Flight_01.09.56.896-01.10.03.096 	carr pushes through the double glass doors and walks towards whip, who stands.
 1001_Flight_01.11.23.975-01.11.30.723 	she watches whip try to stand, and then, fall.
 1001_Flight_01.15.34.609-01.15.38.171 	whip stands in a dark suit and watches the procession pass.
 1001_Flight_01.20.43.581-01.20.47.804 	a man stands at a podium.
-1001_Flight_01.31.51.656-01.31.55.561 	nicole stands at the bedroom entrance and looks at him.
 1001_Flight_01.33.50.940-01.33.55.737 	the crashed south jet aircraft stands almost completely assembled with parts strewn around beside it.
 1001_Flight_01.48.20.203-01.48.36.998 	he replaces the cap, then slowly stands up and sets the bottle on top of the fridge.
 1001_Flight_02.09.50.252-02.09.52.041 	photos of will and deana standing next to a christmas tree.
 1002_Harry_Potter_and_the_Half-Blood_Prince_00.18.13.998-00.18.14.996 	bellatrix stands close to him.
 1002_Harry_Potter_and_the_Half-Blood_Prince_00.25.22.660-00.25.23.190 	hagrid stands swinging a lantern on the hogwarts platform as the express pulls up.
 1002_Harry_Potter_and_the_Half-Blood_Prince_00.45.25.096-00.45.26.671 	ron stands stiffly wearing a protective leather helmet.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.57.37.823-00.57.41.902 	harry is the only one to stand as ginny comes to the table.
 1002_Harry_Potter_and_the_Half-Blood_Prince_01.03.12.204-01.03.19.070 	in the gryffindor common room, he stands on a table showered with red confetti.
 1002_Harry_Potter_and_the_Half-Blood_Prince_01.06.06.966-01.06.09.474 	standing beside a tall window, they move closer and kiss again.
 1002_Harry_Potter_and_the_Half-Blood_Prince_01.06.12.750-01.06.16.695 	draco malfoy stands alone, high up on the astronomy tower.
@@ -722,19 +478,15 @@
 1002_Harry_Potter_and_the_Half-Blood_Prince_01.24.34.600-01.24.38.855 	harry stands solemnly in front of dumbledore, and nods.
 1002_Harry_Potter_and_the_Half-Blood_Prince_01.34.05.433-01.34.09.068 	draco stands still and closes his eyes.
 1002_Harry_Potter_and_the_Half-Blood_Prince_01.39.31.351-01.39.32.611 	he stands over draco.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.41.43.018-01.41.52.935 	she walks towards him and stands close.
 1002_Harry_Potter_and_the_Half-Blood_Prince_01.51.07.452-01.51.09.116 	he stands up.
 1002_Harry_Potter_and_the_Half-Blood_Prince_01.59.13.760-01.59.25.004 	harry and dumbledore stand on top of it.
 1002_Harry_Potter_and_the_Half-Blood_Prince_02.08.59.581-02.09.01.705 	filch stands guard on the school battlements.
 1002_Harry_Potter_and_the_Half-Blood_Prince_02.15.42.076-02.15.48.333 	illuminated by the flames from the burning cottage, snape stands alone.
 1002_Harry_Potter_and_the_Half-Blood_Prince_02.18.25.490-02.18.27.027 	grief-stricken, the staff and students stand in solemn silence.
-1002_Harry_Potter_and_the_Half-Blood_Prince_02.19.45.113-02.19.57.677 	he stands and stares at the high-back chair with its padded leather arms, which sits empty behind the desk.
 1003_How_to_Lose_Friends_and_Alienate_People_00.03.02.090-00.03.02.824 	sidney stands at a red rope barrier.
 1003_How_to_Lose_Friends_and_Alienate_People_00.17.30.769-00.17.35.107 	a be-suited man with shoulder length silver hair stands at a window staring out over the city.
-1003_How_to_Lose_Friends_and_Alienate_People_00.30.06.945-00.30.11.306 	sidney approaches rachel who stands by herself looking out over the city.
 1003_How_to_Lose_Friends_and_Alienate_People_00.41.43.184-00.41.44.607 	she stands up.
 1003_How_to_Lose_Friends_and_Alienate_People_00.47.53.389-00.47.55.835 	sidney stands in the doorway of clayton's office.
-1003_How_to_Lose_Friends_and_Alienate_People_00.58.15.372-00.58.19.000 	sidney looks in at eleanor and clayton, who stand at a desk discussing an a3 mock-up of a potential magazine cover.
 1003_How_to_Lose_Friends_and_Alienate_People_01.02.58.757-01.03.01.338 	lawrence stands with alison, playfully tossing nuts into his mouth.
 1003_How_to_Lose_Friends_and_Alienate_People_01.13.27.840-01.13.30.620 	balding, brown-suited richard stands as mrs. kowalski leads alison to sydney's bedroom.
 1003_How_to_Lose_Friends_and_Alienate_People_01.21.51.084-01.21.53.183 	she stands chatting.
@@ -743,19 +495,14 @@
 1004_Juno_00.12.57.662-00.12.59.948 	another boy stands on the other side of the work table.
 1004_Juno_00.49.16.589-00.49.22.101 	vanessa stands with her arms tightly folded.
 1004_Juno_00.54.50.392-00.54.54.859 	at her home, vanessa, in an old t-shirt, her hair pulled back in a pony tail, stands before a bare wall.
-1004_Juno_00.54.55.673-00.55.04.376 	mark, standing next to her, arms folded, looks glum.
-1004_Juno_00.57.09.876-00.57.17.607 	she stands up and looks elsewhere, but juno stays where she is, gazing down at vanessa playing with the little girl.
 1004_Juno_01.23.22.300-01.23.24.967 	and standing on tiptoes, juno cups his face.
 1004_Juno_01.26.44.719-01.26.46.523 	bleeker stands in the doorway.
-1004_Juno_01.27.55.220-01.28.01.422 	a porcelain white face looking nervous, vanessa follows the nurse into the ward and stands over one.
 1004_Juno_01.32.09.580-01.32.15.247 	juno stands up and plants a kiss on bleeker's lips, just as the track team come jogging by.
 1005_Signs_00.03.47.561-00.03.49.333 	a dark haired girl of about six-years-old stands a little further down the path.
 1005_Signs_00.05.18.709-00.05.19.176 	it's the same size, but has a small semi-circle of maize still standing within it.
-1005_Signs_00.06.42.978-00.06.47.192 	then, stands and walks back across the kitchen.
 1005_Signs_00.08.23.680-00.08.25.720 	houdini stands up and bo freezes.
 1005_Signs_00.11.45.794-00.11.49.461 	that night the farmhouse stands in darkness beneath a black sky.
 1005_Signs_00.13.23.240-00.13.24.717 	a shadowing figure stands by a chimney pot on the barn roof.
-1005_Signs_00.17.20.630-00.17.24.297 	he stands upright and sees some more glasses of water on a nearby cabinet.
 1005_Signs_00.21.05.091-00.21.11.875 	footage shows people standing in some of the circles.
 1005_Signs_00.32.51.690-00.32.56.322 	graham slowly stands.
 1005_Signs_00.36.53.890-00.36.57.029 	graham stands still, his torch shooting a slender shaft of light across the circle.
@@ -764,17 +511,11 @@
 1005_Signs_01.06.23.628-01.06.28.137 	he stands immobile, watching the crop with anxious expectation.
 1005_Signs_01.07.00.360-01.07.04.740 	they stand and watch.
 1005_Signs_01.08.05.530-01.08.10.197 	standing rooted to the floor, graham continues to scrutinize the images on the tv.
-1005_Signs_01.09.34.944-01.09.39.224 	merrill sauces into the room and stops next to morgan and bo, who are standing against a wall.
 1005_Signs_01.15.20.640-01.15.26.307 	they all stare in the direction of the barking beyond the wooden mantle piece which stands at the far end of the room.
-1005_Signs_01.27.14.514-01.27.27.980 	graham walks slowly past a police car and a huddle of policemen standing over ray who's sitting on the ground head bowed.
-1005_Signs_01.27.27.980-01.27.32.507 	a little way beyond is ray's ford pickup truck smashed into the tree, stretched into any of the front and a couple of paramedics standing by.
-1005_Signs_01.32.59.621-01.33.05.839 	graham slowly stands and turns round to face the creature.
-1006_Slumdog_Millionaire_00.01.28.449-00.01.32.680 	the host turns to jamal, standing in the wings of the studio.
 1006_Slumdog_Millionaire_00.03.18.193-00.03.19.358 	a beautiful young woman stands on a train platform.
 1006_Slumdog_Millionaire_00.20.41.610-00.20.43.244 	latika stands some distance away from the boys.
 1006_Slumdog_Millionaire_00.20.49.933-00.20.55.278 	latika stands in the street drenched in the torrential rain as jamal and salim sit in a shelter.
 1006_Slumdog_Millionaire_00.21.57.864-00.21.58.974 	she stands up.
-1006_Slumdog_Millionaire_00.35.56.086-00.35.58.916 	latika is left standing on the tracks.
 1006_Slumdog_Millionaire_00.38.51.130-00.39.01.233 	jamal daydreams and remembers a young latika standing on the tracks as the train pulls away.
 1006_Slumdog_Millionaire_00.42.13.719-00.42.16.438 	jamal stands leaning against the doorway.
 1006_Slumdog_Millionaire_00.55.53.325-00.55.57.358 	maman and his henchmen stand at the door.
@@ -787,26 +528,19 @@
 1006_Slumdog_Millionaire_01.52.20.209-01.53.08.714 	finally, latika stands smiling up at jamal.
 1006_Slumdog_Millionaire_01.53.05.610-01.53.08.714 	people now stand along the platform with jamal and latika at the forefront.
 1007_Spider-Man1_00.09.41.233-00.09.48.606 	she moves to the side of the display, and he stands in front of a tv monitor.
-1007_Spider-Man1_00.10.54.709-00.10.57.398 	a man in a green, flight suit is standing on a levitating glider.
 1007_Spider-Man1_00.17.29.968-00.17.33.839 	he attempts heart massage standing up.
 1007_Spider-Man1_00.23.36.564-00.23.36.802 	peter stands staring at his unopened locker.
-1007_Spider-Man1_00.28.51.220-00.28.54.699 	she stands there for a moment, then turns to peter.
 1007_Spider-Man1_00.36.20.053-00.36.26.602 	peter combers out of the car and stands on the middle of the road.
 1007_Spider-Man1_00.42.35.059-00.42.39.759 	peter stands aside as the robber escapes in the elevator.
-1007_Spider-Man1_00.44.36.403-00.44.39.671 	he stands up and walks away.
 1007_Spider-Man1_00.51.19.055-00.51.20.948 	peter in his mortarboard and gown stands awkwardly.
 1007_Spider-Man1_00.58.42.713-00.58.45.263 	he stands there with a stupid smile and a blank expression.
 1007_Spider-Man1_01.09.57.188-01.10.06.187 	they continue on, high above the streets of manhattan as people stand and stare.
-1007_Spider-Man1_01.21.50.259-01.21.56.524 	she has the broadest of grins as she stands in the pouring rain, looking up into the sky.
-1007_Spider-Man1_01.22.39.349-01.22.41.679 	a fireman, his face and outfit blackened, stands by the mother, whose hands are closed as if in prayer.
-1007_Spider-Man1_01.50.27.275-01.50.32.461 	on the day of norman's funeral, after the interment, harry is standing alone.
 1007_Spider-Man1_01.52.08.899-01.52.10.480 	they stand, facing each other.
 1008_Spider-Man2_00.09.53.560-00.09.58.516 	one student stands on his books, the bags of others hit peter.
 1008_Spider-Man2_00.13.18.698-00.13.21.423 	he stands, hands on hips.
 1008_Spider-Man2_00.17.34.999-00.17.38.862 	the two of them stand as if transfixed.
 1008_Spider-Man2_00.39.49.455-00.39.54.251 	across the room stands a machine with a base from which four curved pillars rise.
 1008_Spider-Man2_00.52.09.844-00.52.15.289 	the bank clerk smiles, stands and limps away.
-1008_Spider-Man2_00.52.17.983-00.52.23.171 	on the other side of the banking hall octavious wearing a long coat and a triveil is standing in front of the steel vault door.
 1008_Spider-Man2_00.57.42.906-00.57.44.643 	the planetarium with its suspended glass curtain wall stands 95 foot high.
 1008_Spider-Man2_01.03.25.021-01.03.27.066 	standing alone in an alley, he moves to the building.
 1008_Spider-Man2_01.10.23.617-01.10.33.694 	outside in a dark alley with ominous clouds in the sky, peter stands with his spider-man costume held out in front of him.
@@ -819,18 +553,11 @@
 1008_Spider-Man2_01.40.08.554-01.40.10.761 	peter stands still for a moment, his jaw firm, and then he runs out onto the street.
 1008_Spider-Man2_01.49.42.277-01.49.43.901 	through tear-filled eyes, peter gazes at the two boys standing in front of him.
 1008_Spider-Man2_01.56.00.803-01.56.04.455 	he stands before it, hands apart.
-1008_Spider-Man2_01.59.42.783-01.59.44.034 	mj is lying on the floor with him standing above her.
-1008_Spider-Man2_02.06.56.971-02.07.00.797 	among them is harry, formally attired, as is john, who stands at the altar.
-1008_Spider-Man2_02.08.12.432-02.08.13.978 	he's unaware that mj is standing in the open doorway.
-1009_Spider-Man3_00.24.58.333-00.25.01.081 	he looks up and hurriedly stands as a doctor approaches.
 1009_Spider-Man3_00.28.03.432-00.28.15.719 	the undulating shape rises up as though to stand, then slumps down again.
-1009_Spider-Man3_00.32.12.656-00.32.19.998 	mary jane stands up, gathers her bag, scarf, and newspaper, and goes for the door.
-1009_Spider-Man3_00.43.20.782-00.43.29.343 	peter is standing amidst the delirious crowd, smiling to himself, drinking in the adulation.
 1009_Spider-Man3_01.03.23.151-01.03.25.961 	he stands brooding.
 1009_Spider-Man3_01.22.20.495-01.22.27.097 	peter, wearing a blue jumper over a blue shirt and jeans and clutching a small posy of flowers, stops in his tracks as he spots mary jane standing alone in the middle of a graceful cast iron bridge.
 1009_Spider-Man3_01.33.54.741-01.33.57.512 	in jameson's office, he stands very close to betty.
 1009_Spider-Man3_01.39.13.516-01.39.20.994 	she gives peter a reproving look and crosses to mary jane who's standing motionless behind the microphone.
-1009_Spider-Man3_01.48.39.647-01.48.46.645 	as peter trudges off down the street mary jane looks out of the window at the deserted corner where he was standing moments earlier.
 1009_Spider-Man3_01.57.48.987-01.57.56.549 	standing beneath the girder, venom fires a thread down spider-man's neck and pulls him onto his back, garroting him as sandman brings his fist down like a steam hammer.
 1009_Spider-Man3_02.11.13.963-02.11.20.076 	peter and aunt may stand side by side across from mary jane.
 1010_TITANIC_00.12.05.750-00.12.10.404 	brock stands on the research area
@@ -846,7 +573,6 @@
 1010_TITANIC_01.09.31.386-01.09.40.674 	jack gazes down as rose stands on her tiptoes and collapses into jack's arms.
 1010_TITANIC_01.14.45.392-01.14.52.041 	one hand in his pocket, jack strolls toward the dining room where two stewards stand outside its doors.
 1010_TITANIC_01.29.20.916-01.29.25.792 	in the first class smoking room, lovejoy approaches cal, who stands.
-1010_TITANIC_01.37.40.048-01.37.42.200 	standing at the bridge rail, murdoch glances down at them, smiles, and walks off.
 1010_TITANIC_01.43.03.326-01.43.11.323 	smith peers down from the bridge deck shelter, then stands at the bridge railing, overlooking the front well deck.
 1010_TITANIC_01.44.50.428-01.44.53.625 	holding hands, jack and rose approach lovejoy, who stands in the hallway.
 1010_TITANIC_01.47.47.867-01.47.49.920 	a ship officer enters and stands in a doorway.
@@ -856,7 +582,6 @@
 1010_TITANIC_01.54.11.801-01.54.13.742 	at the top of the stairs, a steward stands behind a locked gate.
 1010_TITANIC_01.56.45.553-01.56.48.295 	molly stands in the lifeboat.
 1010_TITANIC_02.08.58.554-02.09.04.222 	tommy and others stand at the locked gate atop the third- class stairwell.
-1010_TITANIC_02.12.32.866-02.12.33.404 	on the other side of the ship, lowe stands in a lifeboat as it is lowered.
 1010_TITANIC_02.13.10.300-02.13.13.698 	jack stands up on the railing and gazes toward the bow.
 1010_TITANIC_02.14.31.498-02.14.37.467 	meanwhile, lovejoy approaches cal, who stands beside the small boat, called a collapsible.
 1010_TITANIC_02.17.11.729-02.17.40.291 	standing at the rail, cal and jack gaze at rose as the lifeboat lowers toward the water.
@@ -871,67 +596,43 @@
 1010_TITANIC_03.06.25.075-03.06.30.240 	inside, passengers and crew members stand together and smile.
 1010_TITANIC_03.06.33.116-03.06.36.979 	standing at the bottom of the stairs, mr. andrews nods and then moves aside.
 1010_TITANIC_03.06.36.979-03.06.37.624 	at the top of the stairs, jack, wearing his trousers held up by suspenders, stands and stares at the wall clock.
-1011_The_Help_00.16.20.657-00.16.23.191 	later, hilly and her friends are standing by their cars.
 1011_The_Help_00.32.49.070-00.32.53.748 	minnie stands with her arms folded, then slams down the lid.
 1011_The_Help_00.34.03.698-00.34.06.289 	elizabeth, holding mae mobley's hand, stands outside the wooden toilet, on the back porch.
 1011_The_Help_00.35.10.734-00.35.13.151 	yule mae, standing next to aibileen, spots her.
 1011_The_Help_00.40.14.857-00.40.18.149 	in a church young preacher green invites the choir to stand.
 1011_The_Help_00.41.24.650-00.41.27.384 	aibileen stays standing.
 1011_The_Help_00.44.39.409-00.44.46.278 	she stands in front of skeeter with the notebook open in her hands.
-1011_The_Help_01.24.42.635-01.24.49.647 	at the foot mansion, minnie is hoovering down a stuffed standing grizzly bear on a corner dice.
 1011_The_Help_01.42.12.795-01.42.17.805 	celia, standing by the buffet table with another glass of bubbles, write something down.
 1011_The_Help_01.42.32.088-01.42.34.760 	elizabeth, jolene, and mary beth stand in a hostile line in front of the mantle piece.
 1011_The_Help_01.54.33.541-01.54.49.091 	skeeter drives the blue cadillac slowly along a dirt road and peers through some trees at a single-story, white clapboard house, its roof overgrown, standing in a small clearing.
-1011_The_Help_02.07.45.582-02.07.51.062 	johnny, taking off his jacket, leads the way into the dining room and stands next to his wife.
 1011_The_Help_02.09.23.754-02.09.26.891 	the whole congregation stands.
 1011_The_Help_02.10.44.204-02.10.48.868 	finally, summoning up a smile, minnie standing with the congregation lifts an approving eyebrow.
 1011_The_Help_02.11.02.733-02.11.06.264 	the two women stand arm-in-arm facing the packed church.
 1012_Unbreakable_00.07.16.928-00.07.20.595 	she stands, picks up the leaflets, and moves down the aisle of the train.
-1012_Unbreakable_00.10.06.230-00.10.15.823 	a white coated man carrying a clipboard, who has been standing by the other figure, walks towards david and is replaced by other medical staff.
-1012_Unbreakable_00.12.28.297-00.12.36.964 	david walks stiffly down a hospital corridor lined with silent people standing, sitting, leaning against walls, many of them watching him and smiling.
 1012_Unbreakable_00.13.22.267-00.13.23.532 	the three of them stand silently for a moment.
-1012_Unbreakable_00.13.38.574-00.13.43.333 	a gaggle of reporters and photographers, one holding a long boom microphone, are standing inside the big double doors at the end of the corridor.
 1012_Unbreakable_00.14.16.397-00.14.18.732 	she's standing in front of open drawer.
 1012_Unbreakable_00.15.04.415-00.15.05.751 	in the church, a priest stands in the pulpit.
-1012_Unbreakable_00.16.17.955-00.16.30.078 	he stands looking at the card for some moments before turning and gazing back at the church.
 1012_Unbreakable_00.17.45.416-00.17.51.770 	a cape hooded figure stands motionless in an archway silhouetted black against the teeming rain.
 1012_Unbreakable_00.19.07.189-00.19.11.716 	david stands at his wife's closed door.
 1012_Unbreakable_00.21.27.971-00.21.30.501 	she stands beside him, arms folded.
 1012_Unbreakable_00.22.32.295-00.22.35.694 	she stands and folds her arms again.
 1012_Unbreakable_00.46.11.307-00.46.19.974 	as he starts to push it up, his mouth contorts with effort, and a large vein stands out on his forehead from between his eyes up into his scalp.
 1012_Unbreakable_00.53.24.713-00.53.33.379 	after a moment, he pushes himself off the wall and moves to the center of the walkway and stands there with his head down and his hands in his pockets.
-1012_Unbreakable_00.54.53.507-00.54.57.173 	in the stadium, david is standing motionless in the center of the walkway.
-1012_Unbreakable_01.13.47.341-01.13.59.576 	he looks to his left, stands for a moment, a black shape against the headlights, hesitates, then grasps at links above his head and begins to climb.
-1012_Unbreakable_01.15.08.055-01.15.13.068 	he stands quite still, looking up, grim faced, for a long time, ignoring drops of water falling from his hood.
-1012_Unbreakable_01.18.28.693-01.18.33.360 	david is standing at the top of the stairs above the the concourse of philadelphia train station.
 1012_Unbreakable_01.18.52.493-01.18.58.741 	he stands at the foot of the stairs in a baseball cap and his rain cape, watching humanity ebb and flow.
-1012_Unbreakable_01.22.02.961-01.22.11.495 	david stands gazing at the door, seeing shadows of people passing back and forth inside through frosted glass panels.
-1012_Unbreakable_01.25.33.670-01.25.44.189 	he stands in the doorway of a bathroom, where a boy and girl, not quite teenagers, are sitting on the floor facing each other, their wrists tied above their heads.
-1012_Unbreakable_01.29.18.582-01.29.24.249 	the two children are standing a few paces away, drenched by the rain, watching him.
 1012_Unbreakable_01.31.15.869-01.31.20.045 	he stands over her, still in his cape, gazing down at her.
 1012_Unbreakable_01.34.29.081-01.34.33.747 	he replaces the cap and stands to remove the carton from the table.
 1014_2012_00.02.19.425-00.02.24.675 	inside the institute of astro physics university of new delhi they stand on a rickety, descending limb.
-1014_2012_00.07.29.358-00.07.37.979 	the distinguished looking 60 something us president wilson enters the g8 summit and scans around a large table where many other people are either standing or seated.
-1014_2012_00.16.13.030-00.16.18.031 	standing on the garnd way, the barrel looks stunned as the moored ship lists up and down dramatically in san francisco harbor.
-1014_2012_00.40.09.219-00.40.13.305 	and then stands and is out of the arena checking his watch as he goes.
 1014_2012_00.54.42.320-00.54.46.525 	harry stands up
 1014_2012_01.11.17.528-01.11.21.645 	adrian enters and stands before anheuser, who tries to read his expression.
 1014_2012_01.14.02.671-01.14.05.615 	his secretary, sally, stands in the doorway.
 1014_2012_01.38.10.792-01.38.18.388 	still standing by the steps, jackson wearily removes a life jacket from its container.
-1014_2012_01.41.33.691-01.41.36.155 	jackson and yuri are standing behind the others as the plane approaches to land.
-1014_2012_01.50.16.839-01.50.19.607 	he looks back down the road to where jackson stands arms raised.
 1014_2012_02.25.51.568-02.26.01.088 	as the massive door opens, hundreds of people stand staring out as daylight starts to flood the interior.
 1015_27_Dresses_00.41.34.334-00.41.40.320 	he slips the ring on her finger and they kiss as jane stands helplessly nearby.
 1015_27_Dresses_00.57.12.000-00.57.15.445 	jane becomes suspicious as tess stands blocking the doorway.
 1015_27_Dresses_01.25.05.295-01.25.11.005 	she stands awkwardly, biting her lip, her eyes brimming with tears.
-1015_27_Dresses_01.41.46.707-01.41.52.804 	the guests stand as jane, in a simple white dress, is escorted in by her father.
 1015_27_Dresses_01.42.28.902-01.42.32.002 	the wedding couples stand face to face.
 1017_Bad_Santa_00.10.34.809-00.10.40.495 	willie, now in a hawaiian shirt, stands behind the counter of a beachfront bar, chopping up some lemons and limes.
-1017_Bad_Santa_00.14.17.458-00.14.20.925 	he stands up and looks at it.
-1017_Bad_Santa_00.53.48.895-00.53.52.151 	marcus is standing beside a green van waiting for him.
 1017_Bad_Santa_01.19.45.831-01.19.49.601 	in the hall, sue stands on a chair to put decorations on the tree.
-1018_Body_Of_Lies_00.19.04.456-00.19.11.157 	a man stands by a fire on which a pile of cds and cassettes is burning.
-1018_Body_Of_Lies_00.45.08.526-00.45.16.750 	on a vast expanse of brown earth, a suited man stands beside a kneeling figure, whose head is covered with a black hood.
 1018_Body_Of_Lies_00.55.00.027-00.55.01.354 	skip stands amidst the market.
 1018_Body_Of_Lies_01.01.42.682-01.01.45.774 	men in dark suits stand around.
 1018_Body_Of_Lies_01.02.02.789-01.02.05.539 	one of hani's agents, holding a gun, stands beside a figure who kneels with his head covered in a black hood and his wrists bound behind his back.
@@ -943,18 +644,13 @@
 1018_Body_Of_Lies_01.53.55.496-01.53.56.928 	the executioner stands, watching.
 1018_Body_Of_Lies_01.55.25.682-01.55.29.577 	hani walks in and stands at the end of the bed.
 1018_Body_Of_Lies_01.58.12.046-01.58.20.551 	agents and soldiers stand around on the street.
-1018_Body_Of_Lies_02.00.33.368-02.00.39.103 	aisha is standing by the window, consulting with a colleague.
 1019_Confessions_Of_A_Shopaholic_01.05.18.855-01.05.22.492 	derek smeath stands po-faced, not moving a muscle.
-1019_Confessions_Of_A_Shopaholic_01.29.54.033-01.30.00.068 	with crazed eyes, haley jumps out of a cab, and dashes to join a queue of women standing outside the church building where the sale is taking place.
-1019_Confessions_Of_A_Shopaholic_01.34.40.521-01.34.47.149 	she turns towards the street, where the bag lady, standing with her trolley, twirls around in rebecca's favorite pattern jacket.
 1019_Confessions_Of_A_Shopaholic_01.37.12.251-01.37.13.708 	the seated one with the bag stands up.
-1019_Confessions_Of_A_Shopaholic_01.37.31.914-01.37.34.043 	luke is standing in front of her in the middle of the pavement.
 1020_Crazy_Stupid_Love_00.24.45.505-00.24.46.573 	jacob stands by a glass barrier on the roof terrace of the mall.
 1020_Crazy_Stupid_Love_00.34.02.097-00.34.04.380 	robbie stands.
 1020_Crazy_Stupid_Love_00.50.17.152-00.50.17.232 	robbie stands on a platform behind it.
 1020_Crazy_Stupid_Love_00.59.07.703-00.59.09.672 	she stands and touches her temple gently.
 1020_Crazy_Stupid_Love_01.20.25.810-01.20.26.353 	she stands a few feet away in her dressing gown.
-1020_Crazy_Stupid_Love_01.26.43.781-01.26.44.760 	robbie is standing in the front garden.
 1020_Crazy_Stupid_Love_01.44.27.122-01.44.28.065 	cal stands up.
 1020_Crazy_Stupid_Love_01.48.01.609-01.48.03.148 	in the school grounds, the kids and parents stand around chatting.
 1020_Crazy_Stupid_Love_01.51.13.882-01.51.16.352 	they both stand watching robbie.
@@ -973,41 +669,29 @@
 1024_Identity_Thief_01.24.39.691-01.24.43.357 	he smiles at diana as he stands.
 1024_Identity_Thief_01.29.00.493-01.29.03.933 	they stand in the front, with their backs to everyone.
 1024_Identity_Thief_01.39.54.158-01.39.57.825 	the young father stands over the trio and flips off a table lamp.
-1024_Identity_Thief_01.41.37.028-01.41.40.695 	diana sits across from the detective, while two officers stand and watch her.
 1024_Identity_Thief_01.43.30.401-01.43.31.965 	sandy stands alone.
 1024_Identity_Thief_01.46.43.477-01.46.50.144 	sandy gathers up the envelope and stands, glancing at the paperwork in his hands.
-1024_Identity_Thief_01.46.50.644-01.46.54.575 	he looks up at diana as she heads for a pair of prison guards standing by a chain-link fence.
 1026_Legion_00.29.06.562-00.29.07.066 	bob stands by a nearby sink.
 1026_Legion_00.35.10.768-00.35.16.407 	behind him, michael picks up an assault rifle and stands beside jeep, who glances nervously at him.
 1026_Legion_00.53.26.290-00.53.26.552 	bob stands on the roof, leaning against the wall.
-1026_Legion_00.53.47.547-00.53.51.033 	michael stands on the roof, looking pensive.
 1026_Legion_00.54.00.384-00.54.03.849 	michael stands on a roof, silhouetted against bright sunlight.
-1026_Legion_00.57.04.989-00.57.11.143 	sandra moves a chair to the wall, stands on it, and looks out of a window.
-1026_Legion_01.15.34.369-01.15.40.334 	he stands, grasps her shoulder for a moment, and walks away.
 1026_Legion_01.16.28.063-01.16.33.529 	charlie stands staring at michael, who slowly steps towards her.
 1026_Legion_01.17.13.197-01.17.14.166 	standing beside charlie, audrey shakes her head.
 1026_Legion_01.19.19.129-01.19.21.531 	they reach a figure with a bag over its head, standing in front of the police car.
 1026_Legion_01.27.12.552-01.27.14.925 	he stands up next to charlie.
 1027_Les_Miserables_00.01.11.583-00.01.22.441 	lines of men standing in the dry dock tug on heavy ropes attached to the ship.
-1027_Les_Miserables_00.01.47.839-00.01.50.504 	standing way above them on the quay side is a grave-looking man in a blue uniform, javert.
 1027_Les_Miserables_00.08.33.234-00.08.36.794 	valjean stops eating for a moment to stare at the bishop and the two women standing by the table.
 1027_Les_Miserables_00.22.26.376-00.22.29.375 	she passes people standing in the darkness.
 1027_Les_Miserables_00.35.46.840-00.35.54.132 	standing outside in the snow, javert opens the letter and reads it.
 1027_Les_Miserables_00.36.00.727-00.36.02.479 	he stands in front of valjean.
-1027_Les_Miserables_01.06.50.476-01.06.53.147 	standing in the corner of the wasteland where the bastille stood is a giant elephant, a model napoleon had constructed in preparation for a monument.
 1027_Les_Miserables_01.06.53.147-01.06.55.117 	it now stands dowdy and decaying.
 1027_Les_Miserables_01.10.15.495-01.10.17.311 	a pretty young woman stands at the door.
 1027_Les_Miserables_01.50.14.399-01.50.17.011 	they stand facing each other.
 1027_Les_Miserables_01.53.56.316-01.53.58.490 	standing nearby, valjean wears a fraught serious expression.
-1027_Les_Miserables_02.05.48.060-02.05.51.605 	he looks up and sees javert standing there waiting for him.
 1027_Les_Miserables_02.07.55.200-02.07.59.362 	javert stands at the edge of a steep drop into a massive swirling sluice.
-1027_Les_Miserables_02.12.24.182-02.12.30.511 	he stands and looks around.
 1027_Les_Miserables_02.21.23.736-02.21.26.746 	a brass crucifix stands between two candlesticks on an altar.
 1028_No_Reservations_00.08.54.590-00.09.00.879 	she unlocks the door and opens it, stands beside it for a few seconds then closes it again.
 1028_No_Reservations_00.14.13.915-00.14.19.632 	transfixed, kate stands in the hallway, clutching her coat.
-1028_No_Reservations_00.18.35.010-00.18.38.612 	zoe slings a red rucksack over her shoulder and stands looking up at kate's apartment building.
-1028_No_Reservations_00.21.15.097-00.21.20.462 	kate rounds a corner and enters the restaurant, walking straight past paula who's standing by the door chatting to two customers.
-1028_No_Reservations_00.24.30.000-00.24.32.541 	she looks over at nick, who stands grinning at her.
 1028_No_Reservations_00.31.46.447-00.31.49.635 	kate stands with the other parents and guardians on the pavement outside.
 1028_No_Reservations_00.36.29.525-00.36.35.294 	then, with a face like thunder, stands up and storms out.
 1028_No_Reservations_00.43.14.232-00.43.16.977 	kate stands up.
@@ -1019,20 +703,13 @@
 1028_No_Reservations_01.19.47.334-01.19.54.149 	kate brings her hands up to cup nick's face and she stands.
 1028_No_Reservations_01.33.19.381-01.33.22.282 	they stand.
 1028_No_Reservations_01.34.58.000-01.35.02.000 	kate stands alone in the sunlit street as a truck drives away.
-1028_No_Reservations_01.40.13.507-01.40.21.726 	now, back inside the restaurant, zoe stands up at the window and turns the triangle so that zoe's name runs across the top.
-1029_Pride_And_Prejudice_Disk_One_00.14.15.636-00.14.22.824 	as people take to the floor again, lizzie joins jane and mary, who are standing with sir william's daughter, charlotte.
 1029_Pride_And_Prejudice_Disk_One_00.38.33.094-00.38.36.761 	she trots over the field towards netherfield hall, standing proudly in the distance.
 1029_Pride_And_Prejudice_Disk_One_00.50.00.545-00.50.05.519 	standing at the window, darcy watches her every move.
 1029_Pride_And_Prejudice_Disk_One_01.22.38.886-01.22.41.531 	mr. bingley standing with jane calls over to her.
-1029_Pride_And_Prejudice_Disk_One_01.23.24.756-01.23.25.534 	darcy is standing a little behind the group.
-1029_Pride_And_Prejudice_Disk_One_01.27.18.233-01.27.21.641 	darcy is standing before them.
-1029_Pride_And_Prejudice_Disk_One_01.28.09.737-01.28.15.053 	with the men on one side of the floor and women on the other, lizzie and darcy stand opposite to each other looking serious.
 1029_Pride_And_Prejudice_Disk_One_01.30.28.963-01.30.30.186 	jane and bingely stand out amongst the dancers.
 1029_Pride_And_Prejudice_Disk_One_01.37.35.684-01.37.39.936 	mr. darcy stands, towering over mr. collins.
 1029_Pride_And_Prejudice_Disk_One_01.39.24.190-01.39.33.653 	mr. collins stands awkwardly at the piano, silenced by the playing,
-1029_Pride_And_Prejudice_Disk_One_01.47.31.980-01.47.37.295 	lizzie goes to stand closer to her father.
 1029_Pride_And_Prejudice_Disk_One_02.08.30.309-02.08.35.695 	the men stand in one line with the ladies opposite them, then briefly touch hands as they move around the other dancers.
-1029_Pride_And_Prejudice_Disk_One_02.08.56.491-02.09.05.877 	later, the girl with red hair is standing with wickham as charlotte and lizzie look on.
 1029_Pride_And_Prejudice_Disk_One_02.27.13.532-02.27.21.708 	darcy rises from his seat and comes to stand over lizzie.
 1029_Pride_And_Prejudice_Disk_One_02.27.48.541-02.27.50.475 	where he stands with his back to the room.
 1029_Pride_And_Prejudice_Disk_One_02.38.34.487-02.38.41.873 	the parsonage at hunsford stands resplendent in the sunshine.
@@ -1051,7 +728,6 @@
 1030_Public_Enemies_01.04.58.737-01.05.02.196 	he stops for a red traffic light on a corner where more national guardsmen stand together talking, their guns strapped over their shoulders.
 1030_Public_Enemies_01.07.51.312-01.07.55.465 	dillinger stands inside a phone booth with a faint, tender smile.
 1030_Public_Enemies_01.09.31.787-01.09.34.920 	gilbert stands behind one of the counters.
-1030_Public_Enemies_01.12.54.212-01.13.04.750 	outside, hoover turns from purvis and heads over to a group of well-dressed boys standing in two lines.
 1030_Public_Enemies_01.15.44.453-01.15.48.425 	inside a bank, baby face stands on a table and fires his gun through a window at the policeman.
 1030_Public_Enemies_01.21.07.900-01.21.10.785 	purvis stands with his back to the torture session.
 1030_Public_Enemies_01.30.13.418-01.30.18.395 	dillinger accosts an average man standing outside a cabin.
@@ -1070,39 +746,25 @@
 1031_Quantum_of_Solace_00.00.13.177-00.00.25.706 	light flares from a torch held aloft by a robed woman standing on a pedestal in front of a sky dominated by towering clouds.
 1031_Quantum_of_Solace_00.05.52.557-00.05.54.086 	a naked woman stands in siloutte.
 1031_Quantum_of_Solace_00.23.25.584-00.23.27.225 	she stands over the frenchman.
-1031_Quantum_of_Solace_00.41.56.233-00.42.01.443 	greene's friend looks around and smiles weakly at a grim faced man standing at the back of the box.
 1031_Quantum_of_Solace_00.43.18.793-00.43.24.117 	all over the auditorium men stand up and make their way out.
 1031_Quantum_of_Solace_00.52.37.144-00.52.38.938 	a redhead in a raincoat stands waiting.
-1031_Quantum_of_Solace_00.55.11.604-00.55.17.633 	she stands looking lost as he casts a critical eye over the bedroom and marble on-suite bathroom.
-1031_Quantum_of_Solace_01.12.49.171-01.12.56.250 	he stands, thinks for a moment and then turns to her.
 1031_Quantum_of_Solace_01.29.37.486-01.29.43.777 	the general's men stand guard at his suite as green's party head for the car park.
 1031_Quantum_of_Solace_01.30.32.464-01.30.37.970 	camille rips off her shirt and stands ready in a stroppy white top as green bounds up the stairs.
 1033_Sherlock_Holmes_A_Game_of_Shadows_00.23.59.599-00.24.02.454 	a woman stands with her back to him.
-1033_Sherlock_Holmes_A_Game_of_Shadows_00.34.05.947-00.34.06.687 	a spruced-up watson is standing beside him.
 1033_Sherlock_Holmes_A_Game_of_Shadows_00.34.35.630-00.34.42.491 	standing alone by the latched gate of the churchyard, holmes applauds.
-1033_Sherlock_Holmes_A_Game_of_Shadows_00.44.33.385-00.44.38.052 	he applies lipstick in the corridor and the conductor walks past him as he stands outside the lavatory.
-1033_Sherlock_Holmes_A_Game_of_Shadows_01.06.36.643-01.06.43.310 	he looks up and sees the word imperata is part of the print on which the statue of commendatore is standing.
 1033_Sherlock_Holmes_A_Game_of_Shadows_01.15.30.462-01.15.37.788 	holmes talks to watson as they stand beside the horses.
-1033_Sherlock_Holmes_A_Game_of_Shadows_01.26.18.371-01.26.25.795 	they pass several howitzers, which stand, ready to be shipped out of the factory.
-1033_Sherlock_Holmes_A_Game_of_Shadows_01.56.10.339-01.56.13.528 	in reality, the two men are still standing face to face.
 1034_Super_8_00.02.08.774-00.02.14.142 	some other boys stand by a buffet table.
-1034_Super_8_00.56.56.698-00.56.59.494 	the colonel stand with his back to the bed and waits for it to go quiet.
 1034_Super_8_01.07.15.072-01.07.17.811 	joe stands beside a disconsolate charles.
-1034_Super_8_01.29.28.982-01.29.31.649 	they stand at the edge of the pit, looking down.
 1034_Super_8_01.36.31.846-01.36.37.935 	joe stands his ground as it draws closer.
 1034_Super_8_01.42.19.981-01.42.27.766 	the water tower collapses and crashes down into the street, scattering soldiers standing there, and crushing their vehicles.
 1035_The_Adjustment_Bureau_00.00.42.665-00.00.48.348 	a lone figure stands under a vaulted ceiling, silhouetted against a wrought iron and plate glass door.
 1035_The_Adjustment_Bureau_00.06.29.015-00.06.37.411 	now david stands alone in a grand formal hallway.
-1035_The_Adjustment_Bureau_00.20.38.383-00.20.42.987 	she turns to david, who stands in the doorway.
-1035_The_Adjustment_Bureau_00.22.04.318-00.22.15.099 	hurrying past two men standing in a corridor and a third sitting in a waiting area, he enters the conference room.
 1035_The_Adjustment_Bureau_00.22.17.268-00.22.21.152 	inside, men in shiny black body suits and visored helmets work on his colleagues, who stand frozen in time.
-1035_The_Adjustment_Bureau_00.33.00.650-00.33.03.765 	as harry stands, david takes the ticket.
 1035_The_Adjustment_Bureau_00.51.51.174-00.51.52.210 	later, he stands before double doors marked mr. donaldson.
 1035_The_Adjustment_Bureau_00.58.20.306-00.58.24.755 	a withdrawing view of them reveals a suited man in a fedora, standing at the foot of the bed.
 1035_The_Adjustment_Bureau_01.07.11.555-01.07.16.531 	david observes thompson, who stands still, his thoughtful eyes blinking.
 1035_The_Adjustment_Bureau_01.07.53.878-01.07.57.292 	he joins a group of patrons who stand near a tiered section of stage.
 1035_The_Adjustment_Bureau_01.12.01.462-01.12.03.404 	later, he stands beside elise's bed in the emergency room.
-1035_The_Adjustment_Bureau_01.35.24.597-01.35.30.366 	the intervention officers stand motionless, looking on stoically as the lovers cling to each other.
 1037_The_Curious_Case_Of_Benjamin_Button_00.04.16.228-00.04.20.476 	they stand on a platform.
 1037_The_Curious_Case_Of_Benjamin_Button_00.04.56.499-00.04.59.262 	they stare expectantly at mr. gateau, who stands atop a raised, wooden scaffold platform.
 1037_The_Curious_Case_Of_Benjamin_Button_00.09.29.704-00.09.31.214 	a maid stands in his way.
@@ -1113,14 +775,11 @@
 1037_The_Curious_Case_Of_Benjamin_Button_00.42.02.769-00.42.07.971 	they stand by a window at the foot of the bed.
 1037_The_Curious_Case_Of_Benjamin_Button_00.43.22.382-00.43.24.453 	benjamin stands up.
 1037_The_Curious_Case_Of_Benjamin_Button_00.51.14.067-00.51.19.728 	benjamin staggers through the darkened hallway, where queenie stands with her arms folded.
-1037_The_Curious_Case_Of_Benjamin_Button_01.33.33.081-01.33.38.761 	she stands up and walks towards him.
 1037_The_Curious_Case_Of_Benjamin_Button_01.34.48.018-01.34.51.524 	she pulls away from him and stands up.
 1037_The_Curious_Case_Of_Benjamin_Button_01.38.02.990-01.38.08.211 	benjamin stares blankly at thomas who stands half hidden in shadow.
-1037_The_Curious_Case_Of_Benjamin_Button_01.41.23.360-01.41.28.049 	he stops outside the door to his room and stands looking pensive.
 1037_The_Curious_Case_Of_Benjamin_Button_01.52.15.506-01.52.20.009 	benjamin stands on the front porch and opens the telegram as the postman leaves.
 1037_The_Curious_Case_Of_Benjamin_Button_01.52.25.186-01.52.25.797 	the arc de triomphe stands in the center of the place de l'etoile around which 12 roads extend into this brawling city.
 1037_The_Curious_Case_Of_Benjamin_Button_01.58.12.663-01.58.15.314 	he stands on a street corner, staring up.
-1037_The_Curious_Case_Of_Benjamin_Button_02.00.48.996-02.00.52.129 	he turns to see her standing in the doorway opposite.
 1037_The_Curious_Case_Of_Benjamin_Button_02.03.23.310-02.03.27.360 	standing beside her on the ocean, benjamin watches daisy as she raises her head from the still waters.
 1037_The_Curious_Case_Of_Benjamin_Button_02.12.05.218-02.12.08.674 	benjamin stands with his hands in his pockets.
 1037_The_Curious_Case_Of_Benjamin_Button_02.21.34.581-02.21.43.068 	she stands at her window, watching, as he rides away.
@@ -1130,25 +789,18 @@
 1037_The_Curious_Case_Of_Benjamin_Button_02.35.18.961-02.35.22.255 	little benjamin stands on the high, gray-slate rooftop.
 1038_The_Great_Gatsby_00.13.03.647-00.13.06.157 	the suited man stands at the end of the dock by railings.
 1038_The_Great_Gatsby_00.14.43.235-00.14.45.411 	men stand on hills of coal waste, hacking away with pickaxes.
-1038_The_Great_Gatsby_00.21.57.026-00.22.02.817 	he sees himself standing in the street, looking up.
-1038_The_Great_Gatsby_00.24.38.956-00.24.39.627 	standing on a raised platform is a large pipe organ.
 1038_The_Great_Gatsby_00.25.55.634-00.25.57.170 	two flapper girls in flouncy yellow dresses do the charleston with a man who's standing on a podium.
 1038_The_Great_Gatsby_00.32.16.536-00.32.19.377 	gatsby stands at the window, smiling benignly and smoking a cigarette.
 1038_The_Great_Gatsby_00.34.15.602-00.34.19.224 	jordan stands up and waves as she's driven by.
 1038_The_Great_Gatsby_00.34.49.691-00.34.50.468 	gatsby stands with a painting of charging stags behind him.
-1038_The_Great_Gatsby_00.48.28.205-00.48.31.019 	gatsby stands amongst the trees near nick's cottage, looking up the lane.
 1038_The_Great_Gatsby_00.55.45.799-00.55.49.099 	as he pours tea, daisy sits on a couch and gatsby stands leaning against the mantelpiece where the wooden clock sits.
 1038_The_Great_Gatsby_00.58.05.727-00.58.16.388 	nick stands beneath a tree in the rain.
 1038_The_Great_Gatsby_01.12.49.828-01.12.52.003 	gatsby smiles and they stand.
 1038_The_Great_Gatsby_01.14.32.779-01.14.33.954 	nick has come outside and stands by a drinks table with a cocktail fountain on it.
-1038_The_Great_Gatsby_01.18.55.129-01.18.57.495 	standing at the window, gatsby looks thoughtful.
 1038_The_Great_Gatsby_01.22.38.567-01.22.41.319 	they stand close to each other about to kiss, then gatsby moves back.
 1038_The_Great_Gatsby_01.23.08.400-01.23.11.629 	they stand transfixed by each other.
 1038_The_Great_Gatsby_01.23.37.702-01.23.40.368 	daisy's grand house stands alone lit up at night.
-1038_The_Great_Gatsby_01.26.38.898-01.26.41.103 	they stand at the end of the dock looking across the bay.
 1038_The_Great_Gatsby_01.35.14.865-01.35.17.694 	gatsby stands across the room from tom.
-1038_The_Great_Gatsby_01.35.30.678-01.35.33.510 	gatsby has a sip of whiskey and goes and stands at a window.
-1038_The_Great_Gatsby_01.36.40.132-01.36.43.534 	tom stands with his back to gatsby, who takes daisy's hand.
 1038_The_Great_Gatsby_01.47.19.732-01.47.21.462 	tom stands, his head bowed.
 1038_The_Great_Gatsby_01.50.23.584-01.50.24.593 	nick and jordan stand on the porch.
 1038_The_Great_Gatsby_01.57.17.911-01.57.19.774 	they stand on the dock.
@@ -1161,18 +813,15 @@
 1039_The_Queen_00.21.50.342-00.21.53.009 	two maids stand aside to let her pass.
 1039_The_Queen_00.23.51.738-00.23.52.518 	tony sits on a sofa, while cherie stands close by.
 1039_The_Queen_00.27.00.142-00.27.02.809 	charles stands before a casket and waits a moment.
-1039_The_Queen_00.28.26.931-00.28.31.861 	charles and airlie walk over to meet various uniform men standing nearby.
 1039_The_Queen_00.31.39.043-00.31.41.513 	outside, charles stands with steven.
 1039_The_Queen_00.31.50.084-00.31.56.915 	monday, video footage shows a long line of people standing outside buckingham palace, laying more flowers at the gates.
 1039_The_Queen_00.42.19.153-00.42.24.897 	in the distance, over the next hill, a stag stands alone.
-1039_The_Queen_00.56.10.383-00.56.15.350 	tony stands up and looks out of the window.
 1039_The_Queen_01.01.54.896-01.01.58.116 	the stag stands still.
 1039_The_Queen_01.03.08.190-01.03.11.230 	later, tony stands before a mirror, putting on a tie.
 1039_The_Queen_01.09.18.951-01.09.21.167 	the queen mother stands up.
 1039_The_Queen_01.18.24.544-01.18.29.937 	after a moment, robin appears and stands before her.
 1039_The_Queen_01.22.30.373-01.22.32.039 	various young women stand at the front.
 1039_The_Queen_01.24.37.894-01.24.41.560 	back inside, charles enters and stands next to prince philip.
-1039_The_Queen_01.28.04.276-01.28.05.715 	the crowd is facing a pair of gaint video screens that stand at one side of the park.
 1039_The_Queen_01.30.36.270-01.30.40.125 	two months later, tony stands before a mirror, adjusting his tie.
 1039_The_Queen_01.31.21.324-01.31.24.503 	the queen stands in the room.
 1040_The_Ugly_Truth_00.00.09.000-00.00.11.667 	she stands on a cliff before a cloudy sky.
@@ -1193,82 +842,57 @@
 1041_This_is_40_01.58.57.464-01.58.59.943 	pete coasts around a corner and stands upright.
 1041_This_is_40_02.08.04.085-02.08.07.751 	standing at their table, pete and debbie hold hands and share a loving smile.
 1042_Up_In_The_Air_00.07.52.903-00.07.59.393 	ryan unzips a backpack and stands behind a lectern.
-1042_Up_In_The_Air_00.25.45.296-00.25.47.871 	ryan is standing, staring at a map of the u.s.
 1042_Up_In_The_Air_00.42.07.313-00.42.24.535 	he stands facing her.
 1042_Up_In_The_Air_00.46.28.799-00.46.35.764 	natalie stands at the back of the conference room, watching.
 1042_Up_In_The_Air_00.54.26.335-00.54.26.953 	people stand at small white tables with shiny balloons floating on ribbons above them.
-1042_Up_In_The_Air_00.54.26.953-00.54.30.483 	ryan, natalie and alex go stand around a table.
 1042_Up_In_The_Air_01.08.58.753-01.09.03.499 	standing on a moving walkway, ryan looks at the wedding invitation.
 1042_Up_In_The_Air_01.25.46.938-01.25.49.703 	jim stands waiting with the bridesmaids.
 1042_Up_In_The_Air_01.26.04.281-01.26.09.421 	everyone stands watching as jim slips the wedding ring onto julie's finger.
-1042_Up_In_The_Air_01.30.08.919-01.30.16.035 	he stands looking out of a window with a drink in his hand.
 1042_Up_In_The_Air_01.41.55.198-01.41.58.251 	natalie stands sharply, shakes it and smiles.
-1042_Up_In_The_Air_01.43.22.545-01.43.34.300 	as people come and go, ryan stands staring at the various destinations on the boards.
-1043_Vantage_Point_00.10.59.085-00.11.01.112 	the president gets into the car by which barnes and taylor are standing.
 1043_Vantage_Point_00.13.50.524-00.13.56.626 	barnes and taylor stride across the podium and stand facing out towards the sea of yellow and red flags.
-1043_Vantage_Point_00.14.07.073-00.14.14.787 	standing amongst the crowd is a chunky man in a blue and white checked shirt.
-1043_Vantage_Point_00.28.39.920-00.28.46.512 	he stands gooping and is hit by a car.
-1043_Vantage_Point_00.35.53.349-00.35.57.327 	panicking people flee and stand on the ones who are stumbled.
-1043_Vantage_Point_00.38.15.505-00.38.21.853 	he sees little anna standing alone.
 1043_Vantage_Point_00.44.52.090-00.44.57.231 	government agents stand watch outside the glass wall of the hotel vesta.
 1043_Vantage_Point_00.47.24.125-00.47.27.928 	de soto stands at the lectern.
 1043_Vantage_Point_00.59.53.825-00.59.56.420 	felipe stands at his open locker.
 1043_Vantage_Point_01.16.30.964-01.16.35.709 	veins stand out on javier's forehead as he presses the gun up to enrique forehead.
 1043_Vantage_Point_01.19.23.175-01.19.27.298 	anna stands frozen as the ambulance crashes and careens towards her on its side.
-1044_Pride_And_Prejudice_Disk_Two_00.02.21.699-00.02.35.186 	darcy hurries into a room upstairs and stands in the middle of the room, looking deeply troubled.
 1044_Pride_And_Prejudice_Disk_Two_00.09.08.359-00.09.09.277 	suddenly, she becomes aware of a man standing with his back to her, a few meters ahead.
 1044_Pride_And_Prejudice_Disk_Two_00.46.18.467-00.46.22.334 	darcy stands at the very edge of the lake, now in just his breeches and loose, white shirt.
 1044_Pride_And_Prejudice_Disk_Two_00.52.55.523-00.52.59.577 	as the carriage draws away, darcy stands watching it.
 1044_Pride_And_Prejudice_Disk_Two_00.56.03.459-00.56.03.874 	he indicates a young woman standing on the other side of the room.
-1044_Pride_And_Prejudice_Disk_Two_00.59.49.779-00.59.51.255 	georgiana is standing at lizzie's side.
-1044_Pride_And_Prejudice_Disk_Two_01.04.48.107-01.04.52.030 	as darcy is standing in front of his mirror, getting dressed, his butler brings him his frock coat.
 1044_Pride_And_Prejudice_Disk_Two_01.15.36.171-01.15.38.729 	miss bingley stands up.
-1044_Pride_And_Prejudice_Disk_Two_01.23.29.856-01.23.33.523 	now, lizzie is in her nightgown, standing in front of the mirror in her room.
-1044_Pride_And_Prejudice_Disk_Two_01.29.30.876-01.29.32.236 	the three sisters are now standing, watching him coldly.
-1044_Pride_And_Prejudice_Disk_Two_01.42.33.261-01.42.35.377 	lizzie stands up, looking perturbed.
 1044_Pride_And_Prejudice_Disk_Two_01.50.17.293-01.50.20.152 	inside, mr. wickham stands up, ready to receive his bride.
 1044_Pride_And_Prejudice_Disk_Two_01.50.32.384-01.50.37.696 	the vicar comes to stand before them.
-1044_Pride_And_Prejudice_Disk_Two_02.12.37.555-02.12.47.506 	she treads silently up to the door of the parlor, then walks inside to find her sister and mr. bingley standing together at the mantelpiece.
 1044_Pride_And_Prejudice_Disk_Two_02.14.43.218-02.14.46.781 	mr. bennet stands next to jane.
 1045_An_education_00.05.04.214-00.05.07.182 	she stands getting soaked to the bus stop.
 1045_An_education_00.43.27.223-00.43.32.334 	then david smiles, stands and moves to her.
-1045_An_education_00.44.37.213-00.44.44.206 	jenny stands completely aghast as the men walk away.
 1045_An_education_01.22.02.555-01.22.06.289 	they stand apart.
 1045_An_education_01.22.44.363-01.22.50.334 	indoors jenny stands for lonely in the hallway.
 1045_An_education_01.27.22.451-01.27.26.915 	marjorie stands unhappily on her own in the hall.
 1045_An_education_01.27.50.749-01.27.55.102 	she stands, rooted to the spot.
 1046_Australia_00.23.57.626-00.24.06.299 	something moves beneath the steps she's standing on, and king george dances by his hilltop fire.
-1046_Australia_00.26.40.126-00.26.44.300 	sarah stands up and looks around the room.
 1046_Australia_00.33.14.816-00.33.17.003 	he stands sheepishly, hands in his pockets.
 1046_Australia_01.03.48.582-01.03.52.550 	nullah winces at the sight and stands alone, facing the stampede, on the cliff edge.
 1046_Australia_01.05.19.153-01.05.24.838 	drover stands awkwardly, and backs away from the pair.
 1046_Australia_01.08.27.692-01.08.31.000 	she stands and watches him.
 1046_Australia_01.12.43.389-01.12.47.131 	they stand next to each other guiltily, as nullah climbs down from the tree.
 1046_Australia_01.16.03.752-01.16.07.586 	nullah rides up as they stand glumly at the watering hole.
-1046_Australia_01.16.16.238-01.16.21.548 	king george is standing on one leg, propped against his spear, staring at them through the swirling dust.
 1046_Australia_01.18.00.074-01.18.07.000 	he stands chanting, his long hair, beard and body caked in dust.
 1046_Australia_01.47.34.107-01.47.37.377 	nullah stands up on top of a water tower.
 1046_Australia_01.50.47.247-01.50.52.845 	she frowns and he stands expressionlessly on the verandah.
-1046_Australia_02.01.25.983-02.01.30.000 	he looks across at drover, who's standing thoughtfully by a tree.
 1046_Australia_02.05.41.416-02.05.45.000 	king george stands in his cell.
 1046_Australia_02.06.52.056-02.06.59.953 	sarah stands up and slowly removes her headset as she stares out of the window.
 1046_Australia_02.07.35.000-02.07.43.000 	as the soldiers stand helpless in their truck and smoke billows over the town, king george walks slowly out through the burning prison gates.
 1046_Australia_02.15.04.405-02.15.09.681 	magarri holds a rifle and drover stands holding a rope, as they get underway.
 1046_Australia_02.15.30.871-02.15.33.593 	drover, magarri and ivan stand staring on the beach.
-1046_Australia_02.19.27.749-02.19.30.481 	he walks off, leaving drover standing with the children.
 1046_Australia_02.24.00.103-02.24.03.686 	a black soldier stands stripped to the waist, watching the trucks.
 1046_Australia_02.25.57.000-02.25.58.610 	drover stands at the stern of the boat.
 1046_Australia_02.26.27.998-02.26.31.949 	the boy stands up on the prow of the boat and grins.
 1046_Australia_02.27.33.076-02.27.35.727 	there in the smoke stands the drover.
 1046_Australia_02.31.28.000-02.31.33.788 	fletcher stands on top of a pile of wreckage and aims the rifle.
 1046_Australia_02.34.38.978-02.34.43.515 	drover stands up, holding a water bag.
-1047_Defiance_00.09.48.761-00.09.50.616 	zus standing nearby looks uneasy.
-1047_Defiance_00.11.30.667-00.11.32.980 	koscik holding the vodka bottle is standing outside his cottage.
-1047_Defiance_00.15.43.200-00.15.48.016 	tuvia standing nearby sees the old man bearing his daughter.
 1047_Defiance_00.16.22.931-00.16.32.165 	at night in pouring rain with the collar of his jacket pulled up, tuvia stands staring at a cottage in the clearing, his lips pursed.
 1047_Defiance_00.17.51.952-00.17.52.467 	one son stands up
 1047_Defiance_00.42.20.170-00.42.26.392 	at the bottom of a leaf strewn slope tuvia stands alone by a stream grieving.
-1047_Defiance_00.49.00.358-00.49.03.163 	people huddled on the ground look up at tuvia, but only zus stands up, draping his machine gun over his shoulder.
 1047_Defiance_00.57.28.820-00.57.32.067 	zus addresses asael, who's standing with chaya.
 1047_Defiance_00.57.58.297-00.58.03.982 	at nowogrodek, nazi soldiers stand guard as jewish men and women wearing yellow stars file into the ghetto.
 1047_Defiance_00.58.32.805-00.58.36.110 	rides at the head of an infantry column toward zus and his men standing by the side of the track.
@@ -1276,40 +900,27 @@
 1047_Defiance_01.09.04.046-01.09.05.357 	standing under the chuppah, asael stamps on a glass.
 1047_Defiance_01.10.56.240-01.10.56.698 	a wheelbarrow stands marooned.
 1047_Defiance_01.11.13.794-01.11.16.006 	asael, standing in a gutter nearby.
-1047_Defiance_01.24.55.532-01.25.00.337 	at mealtime, as people huddle in groups, arkady is standing at the food table.
-1047_Defiance_01.30.38.336-01.30.42.837 	asael looks over to arkady who's standing with his back to them both, tucking into his large portion of food.
 1047_Defiance_01.34.55.523-01.34.58.034 	lilka stands with her face raised towards the sun, luxuriating in its warmth.
 1047_Defiance_01.39.08.341-01.39.09.660 	she stands in front of him unflinching.
 1047_Defiance_01.50.24.195-01.50.27.417 	leaving a few men and women standing behind the mossy roots of their bunkers with weapons poised, keeping their sights fixed on the woodland ahead of them.
-1047_Defiance_02.03.46.759-02.03.50.713 	zus, standing on the smoking tank, sees his brother walking out of the trees.
-1048_Gran_Torino_00.01.12.855-00.01.14.710 	standing beside the coffin is a tall hard-faced elderly man, walt kowalski.
 1048_Gran_Torino_00.02.22.149-00.02.25.076 	walt stands motionless like a stone statue.
-1048_Gran_Torino_00.17.19.149-00.17.26.675 	thao takes off his gardening gloves and stands with spider and smokie.
 1048_Gran_Torino_00.56.15.750-00.56.18.395 	he stands up as a sheepish-looking thao approaches.
 1048_Gran_Torino_00.58.48.654-00.58.53.349 	walt, chewing tobacco, stands across the street with daisy and watches.
 1049_Harry_Potter_and_the_chamber_of_secrets_00.06.54.832-00.06.56.260 	on the table, stands the huge meringue gateau decorated with green and mauve whipped cream and red cherries.
-1049_Harry_Potter_and_the_chamber_of_secrets_00.18.01.833-00.18.10.787 	she takes him to a bookshop where the weasley family are standing near the counter.
-1049_Harry_Potter_and_the_chamber_of_secrets_00.29.11.161-00.29.16.070 	filch, the caretaker, with his cat, mrs. norris, is standing at the top of the stairs.
 1049_Harry_Potter_and_the_chamber_of_secrets_00.31.21.500-00.31.32.050 	in one of these, a class of students stand waiting around a long bench filled with rows of potted plants.
 1049_Harry_Potter_and_the_chamber_of_secrets_01.06.56.231-01.06.58.605 	they stand face to face.
-1049_Harry_Potter_and_the_chamber_of_secrets_01.29.59.377-01.30.07.733 	a teenage boy in hogwarts uniform is standing at the bend of the stairs, staring at the landing above.
-1049_Harry_Potter_and_the_chamber_of_secrets_01.36.09.577-01.36.13.516 	madam pomfrey is standing next to a bed where a petrified girl is lying.
 1049_Harry_Potter_and_the_chamber_of_secrets_01.44.33.000-01.44.35.956 	the tunnel lies dark and glow making it impossible to stand up right.
 1049_Harry_Potter_and_the_chamber_of_secrets_02.12.18.519-02.12.20.320 	he finds tom riddle standing next to the unconscious ginny.
 1049_Harry_Potter_and_the_chamber_of_secrets_02.13.32.492-02.13.35.294 	harry stands on the very top of the curved head.
 1049_Harry_Potter_and_the_chamber_of_secrets_02.27.03.125-02.27.04.337 	hermione stands in the doorway smiling.
 1049_Harry_Potter_and_the_chamber_of_secrets_02.29.59.092-02.30.02.540 	at the high table, professor dumbledore stands and starts to applaud.
-1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.02.59.175-00.03.05.799 	harry stands alone on the path, watching them go.
-1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.03.04.799-00.03.08.991 	standing outside her front door hermione looks back for a moment.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.13.24.533-00.13.28.116 	fleur delacour's with bill, the weasley twins, remus lupin, and nymphadora tonks stand nearby.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.31.50.257-00.31.53.590 	harry stands in the covered walkway.
-1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.32.15.649-00.32.17.823 	standing beside the table is tall dark-haired madame maxime.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.36.41.572-00.36.45.079 	they stand in a doorway.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.42.39.127-00.42.44.776 	pushing the door open, he stands in the doorway.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.45.59.585-00.46.01.044 	a dark figure stands on the tread.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.46.31.060-00.46.40.414 	dressed in pink, dolores umbridge stands beside pius thicknesse.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.50.22.984-00.50.26.433 	across the street behind ron, harry stands inside a small doorway.
-1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.51.43.862-00.51.46.305 	the men are standing in lines outside cubicles.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.52.21.569-00.52.23.594 	harry stands on the edge of the toilet.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.54.53.526-00.54.55.966 	ron stands in a circular atrium.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.59.33.188-00.59.35.569 	ron stands beside mary.
@@ -1317,18 +928,13 @@
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.11.43.198-01.11.50.658 	he retraces his steps, until he stands directly in front of her.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.11.52.793-01.11.59.260 	she stands stalk still.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.14.06.710-01.14.12.097 	harry stands alone a little distance from them.
-1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.19.03.051-01.19.07.717 	she walks through dead bracken and stands beside harry.
-1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.19.48.333-01.19.53.144 	harry stands alone, looking towards the setting sun.
-1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.26.42.296-01.26.45.032 	he is standing at the far side of the graveyard.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.37.32.069-01.37.35.342 	harry stands up.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.47.32.023-01.47.35.873 	ron stands shoulder to shoulder with hermione.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.48.08.891-01.48.14.661 	a crooked house stands alone.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.57.49.565-01.57.51.491 	he stops as a man stands up in front of him.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_02.05.23.815-02.05.28.845 	he points his wand at the goblin, griphook, who stands beside ollivander.
-1050_Harry_Potter_and_the_deathly_hallows_Disk_One_02.06.20.540-02.06.25.687 	dobby stands between luna and ollivander and takes their hands.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_02.09.26.395-02.09.28.050 	dobby stands on a balustrade, his arms outstretched.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_02.13.41.052-02.13.43.649 	a dark figure stands beside the marble slab covering the grave.
-1051_Harry_Potter_and_the_goblet_of_fire_00.09.01.692-00.09.07.264 	a gigantic image of the handsome bulgarian player is projected on to the towering stands.
 1051_Harry_Potter_and_the_goblet_of_fire_00.48.10.633-00.48.14.558 	huge flames burst from four enormous crates standing in a clearing.
 1051_Harry_Potter_and_the_goblet_of_fire_00.57.58.506-00.58.05.492 	high in the wooden terraces, ron and hermione stand amongst the cheering spectators.
 1051_Harry_Potter_and_the_goblet_of_fire_01.08.53.608-01.08.56.835 	then neville stands up.
@@ -1344,13 +950,10 @@
 1052_Harry_Potter_and_the_order_of_phoenix_00.26.47.212-00.26.51.252 	in the photo, harry's parents stand beside sirius.
 1052_Harry_Potter_and_the_order_of_phoenix_00.39.43.233-00.39.52.559 	umbridge stands in front of harry and smiles sweetly down at him, her eyebrows raised.
 1052_Harry_Potter_and_the_order_of_phoenix_00.42.03.072-00.42.09.543 	standing outside hagrid's deserted cottage.
-1052_Harry_Potter_and_the_order_of_phoenix_00.48.48.372-00.48.53.037 	professor trelawney stands in the courtyard, looking devastated.
 1052_Harry_Potter_and_the_order_of_phoenix_01.06.22.547-01.06.28.236 	they're standing close together, but only their lips touch.
 1052_Harry_Potter_and_the_order_of_phoenix_01.16.36.766-01.16.42.635 	hogwarts school stands high on the cliffs above.
-1052_Harry_Potter_and_the_order_of_phoenix_01.27.07.176-01.27.15.893 	cho is standing outside the hall as the students come out.
 1052_Harry_Potter_and_the_order_of_phoenix_01.34.24.912-01.34.28.657 	umbridge stands watching them.
 1052_Harry_Potter_and_the_order_of_phoenix_01.35.04.476-01.35.09.522 	she stands on the stage in front of a huge swinging pendulum.
-1052_Harry_Potter_and_the_order_of_phoenix_01.46.48.950-01.46.54.754 	standing on the numbered shelves are thousands of cloudy glass spheres.
 1052_Harry_Potter_and_the_order_of_phoenix_01.47.06.280-01.47.11.251 	the rows of glass spheres fill the shelves, which stand close together and extend upwards high above their heads.
 1052_Harry_Potter_and_the_order_of_phoenix_01.52.56.167-01.53.00.479 	a stone archway filled with misty vapor stands on the mound.
 1052_Harry_Potter_and_the_order_of_phoenix_01.57.41.919-01.57.45.309 	harry stands over her aiming his wand.
@@ -1358,11 +961,9 @@
 1052_Harry_Potter_and_the_order_of_phoenix_02.06.03.298-02.06.06.072 	filch stands at the bottom.
 1053_Harry_Potter_and_the_philosophers_stone_00.33.55.806-00.33.58.340 	beside the platform, stands a handsome steam engine.
 1053_Harry_Potter_and_the_philosophers_stone_00.39.11.950-00.39.18.403 	it towers above them as the fleet of little boats glides closer to the cliff on which it stands.
-1053_Harry_Potter_and_the_philosophers_stone_01.06.59.000-01.07.08.787 	a white feather rises from the desk and floats across the room towards tiny professor flitwick, who is standing on a pile of books.
 1053_Harry_Potter_and_the_philosophers_stone_01.16.35.615-01.16.51.156 	standing around the oval arena, the spectators cheer on their teams.
 1053_Harry_Potter_and_the_philosophers_stone_01.16.59.000-01.17.09.771 	the players hover above the quidditch trunk, which stands quivering in the center of the pitch.
 1053_Harry_Potter_and_the_philosophers_stone_01.22.39.277-01.22.45.861 	standing precariously on the broomstick, harry stretches out his hand to catch the snitch.
-1053_Harry_Potter_and_the_philosophers_stone_01.27.03.368-01.27.05.851 	down in the gryffindor common room, ron is standing in front of a blazing fire.
 1053_Harry_Potter_and_the_philosophers_stone_01.32.33.556-01.32.36.993 	harry stands still for a moment, gazing at himself.
 1053_Harry_Potter_and_the_philosophers_stone_01.32.42.141-01.32.52.482 	to his surprise, two shadowy figures gradually appear in the mirror, standing one on each side of him.
 1053_Harry_Potter_and_the_philosophers_stone_02.09.48.223-02.10.04.544 	harry backs away, standing with his back to the mirror.
@@ -1375,14 +976,10 @@
 1054_Harry_Potter_and_the_prisoner_of_azkaban_01.31.01.753-01.31.03.609 	hermione stands in front of harry.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_01.40.20.341-01.40.24.292 	he flings sirius aside and stands whimpering.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_01.45.12.066-01.45.20.811 	harry watches the bright light fade away, leaving only the faint image of a figure standing on the far shore.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_01.50.01.500-01.50.05.655 	standing behind it, they look down the hill.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_02.01.16.200-02.01.19.789 	standing at the edge of the lake, he points his wand, summoning all his strength.
 1055_Marley_and_me_00.48.50.161-00.48.53.308 	marley stands at the front door, wagging his tail.
 1055_Marley_and_me_00.49.22.233-00.49.25.716 	marley stands, head tilted back at a rain-lashed window.
-1055_Marley_and_me_00.56.21.252-00.56.27.526 	a slim teenage girl is standing by her car in her driveway and clutching her side.
-1055_Marley_and_me_01.22.01.014-01.22.06.587 	he hefts the box under his arm and walks towards arnie, who's standing outside his office.
 1055_Marley_and_me_01.47.00.644-01.47.02.752 	marley stands expectantly next to the high chair.
-1055_Marley_and_me_01.50.59.264-01.51.14.117 	he puts a last stone on a pile on top of the filled-in grave, looks round at the house, then stands up and walks away from marley's resting place.
 1056_Rambo_00.03.24.754-00.03.30.494 	the peasants stand still.
 1056_Rambo_00.12.03.000-00.12.07.046 	veins stand out on his muscular arms.
 1056_Rambo_00.13.04.903-00.13.06.677 	she stands.
@@ -1390,27 +987,15 @@
 1056_Rambo_00.20.27.298-00.20.28.812 	rambo stands on his hand and aims at him.
 1056_Rambo_00.22.39.601-00.22.41.501 	the volunteers stand up in the boat, collect their belongings and begin to disembark.
 1056_Rambo_00.26.15.038-00.26.21.260 	stalks of rice plants stand upright in a paddy field below the village.
-1056_Rambo_00.31.12.968-00.31.14.000 	he looks up thoughtfully, then stands.
 1056_Rambo_00.32.16.939-00.32.23.611 	in the rain-soaked darkness, a figurine silhouette holds an umbrella and stands in the half-light.
-1056_Rambo_00.35.07.439-00.35.09.974 	lewis stands at the prow of the boat, looking out at the river.
 1056_Rambo_00.53.54.404-00.54.03.384 	at the dance show, one of the soldiers pulls on a cigarette, stands and throws the butt at the dancing girls.
-1056_Rambo_01.01.40.000-01.01.48.727 	he stands on his veranda, watching the boy trudge away across the compound before turning and heading back inside.
 1056_Rambo_01.03.02.515-01.03.05.192 	the commander stands in the passenger seat of the truck with a mounted machine-gun.
 1057_Seven_pounds_00.00.09.830-00.00.20.354 	she stands on a raised plinth before the cloudy sky.
 1057_Seven_pounds_00.07.24.971-00.07.29.068 	a black and white great dane stands barking at him in the garden.
 1057_Seven_pounds_00.08.37.051-00.08.43.905 	he stands aside as two doctors wearing stethoscopes get in with him.
 1057_Seven_pounds_00.10.31.438-00.10.35.869 	ben stands in the doorway watching her intently.
-1057_Seven_pounds_00.33.19.294-00.33.24.693 	ben stands, looking out from his patio.
-1057_Seven_pounds_00.33.30.979-00.33.39.263 	tears rolls down ben's cheeks as he stands looking out to sea.
 1057_Seven_pounds_00.35.07.324-00.35.15.829 	light from the tank illuminates ben's face as he stands in the darkness, seemingly lost in thought.
-1057_Seven_pounds_00.38.04.309-00.38.10.065 	he stands and stares across at a bespectacled middle-aged woman, who is sitting in a glass-fronted office.
-1057_Seven_pounds_00.46.01.550-00.46.06.999 	ben stands looking distraught, then closes his mobile.
 1057_Seven_pounds_00.49.16.054-00.49.22.590 	ben stands in a shop doorway, watching ezra play.
-1057_Seven_pounds_00.56.47.582-00.56.52.446 	ben stands, looking down at her tenderly.
-1057_Seven_pounds_01.03.18.381-01.03.21.811 	they stand in the doorway for a moment, then the girl sets off to look about.
-1057_Seven_pounds_01.08.26.878-01.08.30.802 	ben stands, looking up at her apologetically.
-1057_Seven_pounds_01.08.38.384-01.08.49.808 	ben stands looking up at the door.
-1057_Seven_pounds_01.19.21.746-01.19.30.663 	looking troubled once more, he stands beneath the fine jets of water and stares down deep in thought.
 1057_Seven_pounds_01.26.08.008-01.26.15.814 	he stands at the opened french windows.
 1057_Seven_pounds_01.32.22.067-01.32.23.623 	ben stands back.
 1057_Seven_pounds_01.32.42.546-01.32.48.684 	they break off and stand with their foreheads together.
@@ -1419,12 +1004,10 @@
 1057_Seven_pounds_01.57.02.758-01.57.09.226 	they stand, hugging, among the milling crowd.
 1058_The_Damned_united_00.16.37.653-00.16.43.074 	brian smooths his coiffed, dark hair and straightens his tailored suit jacket as he stands with peter and jimmy in the entrance gateway.
 1058_The_Damned_united_00.19.34.488-00.19.38.378 	the wine stands untouched.
-1058_The_Damned_united_00.38.27.000-00.38.33.000 	brian stands at one end of the dressing room with his arms folded, casting an eye over the players sat on benches lining the walls.
 1058_The_Damned_united_00.41.12.837-00.41.18.853 	he stands and once more peers up at the figures of the cheering derby fans.
 1058_The_Damned_united_00.45.54.300-00.45.57.828 	bremner scratches his balls as he eyes brown contemptuously, standing beside the team lined up for the national anthem.
 1058_The_Damned_united_00.55.16.930-00.55.27.779 	longson stalks angrily down the corridor, past the away dressing room, to stand beside a hangdog brian surveying his battered team.
 1058_The_Damned_united_01.11.03.000-01.11.08.057 	the man in the blazer dabs sweat from his face as he stands over brian.
-1059_The_devil_wears_prada_01.01.38.327-01.01.40.941 	emily is standing on the stairs with another couple.
 1059_The_devil_wears_prada_01.10.11.486-01.10.14.117 	she stands and stares at andy with a vaguely pleased smile.
 1059_The_devil_wears_prada_01.12.43.838-01.12.46.095 	andy stands up and grabs her clutch bag.
 1059_The_devil_wears_prada_01.13.25.900-01.13.40.928 	lily leads doug off and andy checks out the art, standing alone to admire the floor-to-ceiling, blown-up black-and-white photographs of street scenes.
@@ -1438,24 +1021,18 @@
 1060_Yes_man_00.54.37.702-00.54.41.422 	carl and allison stand up to leave.
 1060_Yes_man_01.00.59.133-01.01.01.296 	a mustachioed man stands.
 1060_Yes_man_01.05.05.346-01.05.11.061 	standing on the street, carl stares into the distance with a steely resolve.
-1060_Yes_man_01.05.29.998-01.05.32.593 	the desperate man is standing on a ledge outside the top floor.
-1060_Yes_man_01.06.11.063-01.06.14.418 	on the street, soo-mi and lucy are standing in the crowd, looking up anxiously.
 1060_Yes_man_01.20.03.977-01.20.10.220 	carl stands on the edge of a bridge.
 1060_Yes_man_01.20.11.913-01.20.15.099 	two safety guys stand by.
 1060_Yes_man_01.25.33.646-01.25.36.014 	rooney stands at the bar alone.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.01.10.287-00.01.22.471 	severus snape, in black tunic and gown, stands in an upper archway.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.02.04.653-00.02.19.425 	the grave stands amongst sand dunes behind a small house.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.10.31.000-00.10.37.166 	harry and ron are standing by dobby's grave when bellatrix approaches them.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.13.56.066-00.14.02.803 	under the cloak, harry and griphook have moved nearer the desk and stand beside bogrod.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.25.28.203-00.25.31.458 	the malfoys stand nearby.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.34.53.000-00.35.05.441 	severus snape strides between the rows and stands at the front.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.36.36.000-00.36.42.145 	the students who met harry, including cho, ginny, and seamus, stand looking at the floor.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.36.42.145-00.36.50.352 	one student wearing a gown steps forward to stand in front of snape.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.42.56.062-00.42.58.755 	students stand beside them, staring up into the sky.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.44.10.961-00.44.19.000 	with torches on either side, luna and harry stand framed in them.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.45.58.000-00.46.17.248 	amassed army of death eaters stands on a rocky outcrop, looking down at the school.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.48.02.000-00.48.09.238 	she stands with her back to him.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.50.33.634-00.50.37.337 	neville stands on a covered wooden bridge, looking out across the landscape.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.52.27.609-00.52.36.429 	they stand, as if on a bridge, with the waters on either side.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.12.25.385-01.12.46.646 	distressed, hermione and ron stand a little way behind harry.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.13.27.000-01.13.29.846 	harry stands frozen in the doorway.
@@ -1470,7 +1047,6 @@
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.53.53.431-01.54.13.674 	the ruined school behind them, they stand on the rubble- strewn bridge and gaze ahead.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.57.43.000-01.57.59.874 	the weasleys and the potters stand together, watching.
 1062_Day_the_Earth_stood_still_00.02.37.000-00.02.40.602 	he stands slowly upright.
-1062_Day_the_Earth_stood_still_00.08.57.587-00.09.00.345 	a blonde woman in a blue top is standing among the group of police officers.
 1062_Day_the_Earth_stood_still_00.10.44.847-00.10.47.000 	a chinook helicopter stands outside a large hanger.
 1062_Day_the_Earth_stood_still_00.19.35.309-00.19.47.278 	she stands still concentrating.
 1062_Day_the_Earth_stood_still_00.21.37.428-00.21.40.298 	police and soldiers stand tensely with their weapons raised.
@@ -1478,11 +1054,8 @@
 1062_Day_the_Earth_stood_still_00.24.04.613-00.24.10.000 	the vast metallic-skinned robot stands immobile, the sphere swirling in light and vapor behind it.
 1062_Day_the_Earth_stood_still_00.31.41.000-00.31.44.000 	the officials stand at a window overlooking the room.
 1062_Day_the_Earth_stood_still_00.38.33.336-00.38.35.672 	outside they join others standing guard at regular intervals along the walls of the corridor.
-1062_Day_the_Earth_stood_still_00.41.11.147-00.41.16.665 	the alien, now standing, turns to the catatonic polygraph operator sitting in his underwear.
-1062_Day_the_Earth_stood_still_00.43.05.000-00.43.13.006 	he stands as the boy continues to stare before being ushered away by his mother.
 1062_Day_the_Earth_stood_still_01.34.30.792-01.34.37.538 	he stands up and walks towards the mouth of the tunnel.
 1062_Day_the_Earth_stood_still_01.35.27.529-01.35.33.365 	with a final effort, he stands, reaches up, and touches the sphere.
-2004_Juno_01.06.18.513-01.06.19.083 	juno stands there, looking radiantly knocked-up.
 2005_Signs_00.04.05.769-00.04.09.318 	he finds morgan standing with his hands in the pockets of his pajama bottoms.
 2005_Signs_00.06.46.367-00.06.50.326 	a police officer stands on the other side of the screen door.
 2005_Signs_00.08.15.767-00.08.18.122 	bo stands up.
@@ -1490,8 +1063,6 @@
 2005_Signs_00.11.12.194-00.11.15.519 	merrill stands still with potato salad in his hands.
 2005_Signs_00.32.25.151-00.32.28.629 	everyone becomes frozen, standing next to the station wagon.
 2005_Signs_01.00.13.181-01.00.16.902 	graham bends down where he stands.
-2005_Signs_01.13.37.787-01.13.42.234 	graham turns to see merrill standing with the last board in the hall.
-2005_Signs_01.13.58.998-01.14.03.103 	bo and morgan are standing together at the top of the stairs.
 2005_Signs_01.15.16.668-01.15.17.779 	she stands close to him.
 2005_Signs_01.15.18.349-01.15.22.267 	the four of them stand quietly in a tight group.
 2005_Signs_01.30.14.449-01.30.16.812 	the two men stand under the single dangling light bulb.
@@ -1500,80 +1071,50 @@
 2012_Unbreakable_00.25.08.771-00.25.11.395 	elijah glances at the business man standing next to him and then back to the sketch.
 2012_Unbreakable_00.27.37.572-00.27.44.047 	david dunne stands with joseph.
 2012_Unbreakable_00.27.45.170-00.27.47.019 	elijah just stands staring for the longest time.
-2012_Unbreakable_00.33.01.979-00.33.02.479 	there's just enough room to stand and look around.
 2012_Unbreakable_00.36.35.219-00.36.36.061 	david dunne stands to one side with two other security guards.
 2012_Unbreakable_00.38.44.508-00.38.45.508 	elijah stands waiting in the ground tunnel by himself.
 2012_Unbreakable_00.40.34.890-00.40.37.040 	the two men stand very still in the tunnel.
-2012_Unbreakable_00.44.03.061-00.44.07.862 	david looks to the fields to see a very muscular college age man in sweats who stands with the other children.
-2012_Unbreakable_00.48.06.283-00.48.10.731 	he talks to joseph who stands in his position at the bottom of the stairs without looking at him.
 2012_Unbreakable_01.10.37.303-01.10.40.082 	audrey stands next to david as he pulls out his wallet.
 2012_Unbreakable_01.20.53.364-01.20.55.769 	he bumps the shoulder of a man standing behind him.
 2012_Unbreakable_01.21.23.095-01.21.24.743 	david stands frozen in the train station.
-2012_Unbreakable_01.21.28.303-01.21.31.405 	david is standing less than a foot away from the man he bumped.
 2012_Unbreakable_01.21.32.004-01.21.34.092 	they're standing shoulder to shoulder.
-2012_Unbreakable_01.23.18.937-01.23.25.951 	he stands in the shadows and watches silently as the man in the orange uniform looks over his massive shoulder before turning a knob and entering the white paneled house through a familiar side door with a screen on it.
 2012_Unbreakable_01.25.47.916-01.25.48.416 	he stands in the doorway for a moment before moving towards them.
-2012_Unbreakable_01.36.40.317-01.36.48.080 	david turns and looks at the striking and beautiful african american woman in her sixties who stands next to him.
 2017_Bad_Santa_00.14.11.773-00.14.15.981 	willie, standing by the toilet, finishes buckling his belt and flips the flush lever.
-2017_Bad_Santa_00.31.55.303-00.32.02.513 	at the cut a new mercedes screeches through the frame and, as we hear it recede, we are left looking at the kid, who stands at the curb, waving happily.
 2017_Bad_Santa_00.38.36.061-00.38.39.548 	the kid swings the door open to willie, who stands on the stoop holding a small grip.
 2017_Bad_Santa_00.53.01.775-00.53.06.952 	willie grabs a vodka bottle standing open on the counter and liberally pours some on the hand.
-2017_Bad_Santa_01.28.06.464-01.28.10.236 	marcus and lois are standing there presenting a grotesque picture: lois has a shopping cart filled with shoes, scarves, jewels, a salad spinner, purses, a block of ginsu knives, an abdomen exerciser.
-2026_Legion_00.07.51.903-00.07.58.317 	jeep turns to see charlie, a very pregnant girl of about twenty, standing in the trailer doorway, rubbing the sleep from her eyes.
-2026_Legion_00.21.44.875-00.21.50.604 	charlie is standing by the anderson's table, clearing dishes.
-2026_Legion_00.26.11.413-00.26.14.356 	impossibly, gladys is still standing.
 2026_Legion_00.26.43.404-00.26.48.123 	jeep freezes, stunned by her words, overwhelming fear paralyzing him where he stands.
-2026_Legion_00.58.14.766-00.58.19.929 	charlie turns to look at percy who is still standing with his back to the door, breathing heavily.
 2026_Legion_01.01.41.083-01.01.45.375 	charlie stands at the sink, cigarette to her lips, water running, stealing a private moment.
 2026_Legion_01.08.56.615-01.09.05.862 	in fact, they're just standing there watching him.
 2026_Legion_01.13.23.659-01.13.28.487 	audrey stood stunned ,standing wide eyes opned and, holding up the child.
 2027_Les_Miserables_00.02.51.015-00.02.52.738 	he stands above the men on the top of the dock, as lines of convicts labour beneath him on the steep steps of the dock wall.
 2027_Les_Miserables_00.08.22.082-00.08.23.433 	the bishop's sister madame baptistine stands.
 2027_Les_Miserables_00.24.22.096-00.24.25.133 	a man selling dentures stands by his cart and we hear fragments of his sales pitch.
-2027_Les_Miserables_00.36.01.697-00.36.03.893 	valjean is at his desk in his office, going through his papers once everyone else has gone, when javert enters and stands before him.
-2027_Les_Miserables_00.39.43.711-00.39.44.045 	the man accused of being jean valjean, a wretched down-and- out, stands before the judge.
 2027_Les_Miserables_00.48.30.846-00.48.33.902 	madame thenardier pretends to accidentally drop a comb from her hair and the customer helpfully picks it up, allowing madame thenardier to pick his wallet from a back pocket as he stands up.
-2027_Les_Miserables_01.03.47.658-01.03.49.642 	as he sings he walks out onto the roof and stands by the symbol of the hq, a monumental stone eagle.
 2027_Les_Miserables_01.09.04.688-01.09.08.541 	a student, enjolras, stands on a raised step, making an impassioned speech with fellow student marius.
 2027_Les_Miserables_01.32.05.522-01.32.07.124 	eponine stands outside marius' door.
 2027_Les_Miserables_02.02.44.140-02.02.47.446 	he stands by the window, knowing he will die now, proud and unafraid.
-2027_Les_Miserables_02.07.54.907-02.07.57.749 	here he stands, looking down at the dark water of the night river.
 2027_Les_Miserables_02.13.49.341-02.13.51.112 	there stands cosette, waiting for him.
 2027_Les_Miserables_02.15.26.199-02.15.28.220 	marius stands before valjean, alone in this more private room.
 2034_Super_8_00.10.15.523-00.10.18.985 	the boys stand as the car stops beside them -- it's the yellow buick.
 2034_Super_8_00.18.44.246-00.18.51.161 	joe stands up fast, faces a mountain of twisted steel -- upside-down train cars piled frighteningly around him.
-2034_Super_8_00.32.11.162-00.32.17.003 	alice watches joe, who peers into the camera for a long beat, finally standing up, looking out at the crash.
-2034_Super_8_00.34.44.331-00.34.47.247 	jack is with sheriff pruitt, who stands, distracted, picking up reports from his desk, on his way out.
 2034_Super_8_00.54.24.368-00.54.37.622 	he stands, pulls out his flashlight -- aims the beam down rows of graves, toward the big caretaker's shed in the distance.
-2034_Super_8_01.05.02.909-01.05.06.576 	joe stands at the counter with charles, who is in a bad mood.
 2034_Super_8_01.12.20.613-01.12.24.214 	a 32-year-old humorless, armed soldier stands there.
 2040_The_Ugly_Truth_00.41.03.520-00.41.06.361 	colin stands there.
 2040_The_Ugly_Truth_01.10.49.216-01.10.53.451 	he stands up.
-2040_The_Ugly_Truth_01.15.04.228-01.15.07.121 	opening it with a smile, she finds -- standing there, bottle of red wine in hand, is colin.
 2040_The_Ugly_Truth_01.18.55.968-01.18.59.935 	colin stands there, still shirtless.
 2040_The_Ugly_Truth_01.23.54.495-01.23.58.169 	jack magnum does his intro, now standing in a balloon basket.
-2040_The_Ugly_Truth_01.26.27.940-01.26.31.382 	she turns to see -- mike standing there.
 2041_This_is_40_00.15.02.347-00.15.04.354 	pete stands on stage speaking to a small crowd.
 2041_This_is_40_00.35.45.961-00.35.50.209 	larry stands up and walks outside.
-2041_This_is_40_01.41.25.078-01.41.25.458 	standing there is oliver.
-2041_This_is_40_01.52.59.876-01.53.00.606 	he stands in the back looking uncomfortable, quietly singing.
-2041_This_is_40_01.56.25.216-01.56.27.690 	we reveal that everyone at the party (except pete) is still standing in the foyer.
-2051_Harry_Potter_and_the_goblet_of_fire_00.03.35.507-00.03.42.645 	wormtail stands in the doorway and looks at the old man.
 2051_Harry_Potter_and_the_goblet_of_fire_00.12.08.573-00.12.18.830 	harry stirs and witnesses the man standing there.
 2051_Harry_Potter_and_the_goblet_of_fire_00.20.42.731-00.20.48.834 	a strange man stands in the doorway, he casts some magic upwards and seals the roof.
 2051_Harry_Potter_and_the_goblet_of_fire_00.26.14.365-00.26.17.256 	neville longbottom stands.
-2051_Harry_Potter_and_the_goblet_of_fire_00.39.15.124-00.39.16.581 	the four tri-wizard champions are stood together in a group.
 2051_Harry_Potter_and_the_goblet_of_fire_00.49.23.479-00.49.29.364 	harry gets to a doorway, two pupils stand in his way.
-2051_Harry_Potter_and_the_goblet_of_fire_00.49.29.283-00.49.36.872 	he approaches cedric who is standing around with his friends.
-2051_Harry_Potter_and_the_goblet_of_fire_00.54.46.052-00.55.09.695 	hermione is standing by the tent door whispering in.
-2051_Harry_Potter_and_the_goblet_of_fire_01.08.48.257-01.08.53.953 	the girls instantly stand and walk forward, the boys are all still seated.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_00.14.57.110-00.15.03.459 	a train passes and camera pulls back, reveals harry, standing with hedwig.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_00.16.54.173-00.16.54.944 	in the accompanying photo, the entire weasley family stands before the great pyramids, waving.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_00.56.43.412-00.56.47.474 	harry opens his eyes and ron, fred, george, and hermione slowly come into focus, standing at the foot of his bed in the hospital wing.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_01.02.57.098-01.02.57.630 	ron and hermione stand frozen, exchange a nervous glance, and.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_01.07.49.049-01.07.49.905 	the dying sun streams through high windows, painting harry's face a fierce amber-red as he stands opposite lupin.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_01.23.07.645-01.23.10.488 	malfoy, along with crabbe and goyle, lurks within a grouping of monolithic menhirs, binoculars in hand, spying on hagrid, who stands in the pumpkin patch, tossing dead ferrets to buckbeak.
-2054_Harry_Potter_and_the_prisoner_of_azkaban_01.30.54.484-01.31.01.912 	harry looks up slowly at the man standing in the shadows.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_01.45.15.066-01.45.19.321 	in the palm of man, standing deep in the trees.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_02.01.21.435-02.01.22.204 	harry stands utterly still, wand extended to the heavens.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_02.08.59.237-02.09.00.884 	ron stands amid a circle of excited gryffindors.

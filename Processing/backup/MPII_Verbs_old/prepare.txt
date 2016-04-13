@@ -1,51 +1,44 @@
-0002_As_Good_As_It_Gets_01.16.32.779-01.16.35.767 	Frank prepares to depart.
-0002_As_Good_As_It_Gets_01.45.58.232-01.46.02.392 	Simon laughs -- as she crosses to the bathroom and begins to prepare a bath.
-0003_CASABLANCA_00.33.30.252-00.33.31.089 	Sam prepares to move the piano away.
-0004_Charade_00.36.23.388-00.36.25.019 	As he straightens up and prepares to jump.
-0006_Clerks_00.44.04.256-00.44.09.189 	Some sit on the floor or lean against the coolers, but all are either preparing or practicing.
-0009_Forrest_Gump_00.12.25.199-00.12.33.124 	The bus pulls up as Mrs. Gump prepares Forrest for his first day of school.
-0009_Forrest_Gump_01.11.22.628-01.11.26.140 	Jenny carries a backpack as she prepares to board a bus back to Berkeley.
-0011_Gandhi_00.43.12.432-00.43.17.902 	There is a great cheer, but in the silence that follows we hear the military band from across the way as the troops prepare to march off.
-0013_Halloween_00.55.11.861-00.55.16.136 	Tommy hides, preparing to jump out and scare Lindsey.
-0014_Ist_das_Leben_nicht_schoen_00.04.01.763-00.04.03.068 	They are preparing to slide down the hill on large shovels.
-0014_Ist_das_Leben_nicht_schoen_00.04.33.568-00.04.37.215 	On top of hill, preparing to make his slide.
-0019_Pulp_Fiction_00.59.17.925-00.59.24.787 	He opens it and begins preparing the needle for injection.
-0019_Pulp_Fiction_01.55.02.268-01.55.05.334 	Vincent prepares to leave.
-0020_Raising_Arizona_00.30.46.264-00.30.49.340 	The original Policeman is leading Nathan to a table where a white-smocked technician is preparing inkpad and exemplar sheets.
-0021_Rear_Window_00.21.53.155-00.21.55.828 	As if she's preparing to meet someone.
-0021_Rear_Window_00.24.53.162-00.25.01.475 	The salesman has prepared a dinner tray, and is carrying it from the kitchen, through the living room, into the bedroom.
-0021_Rear_Window_01.02.31.127-01.02.31.809 	He is in black tie, and from the looks of the apartment he is preparing for guests.
-0021_Rear_Window_01.48.17.941-01.48.18.961 	He grips the flash holder a little more tightly, lifts it just the fraction of an inch as if he is prepared to use it.
-0023_THE_BUTTERFLY_EFFECT_01.08.49.438-01.08.54.819 	As Tommy prepares to bash his brains in, Evan whips out the Pepper Spray and nails Tommy in the face.
-0023_THE_BUTTERFLY_EFFECT_01.45.44.893-01.45.49.881 	Evan, seven again, stands in the basement dressed in his Robin Hood costume as Mr. Miller prepares for the sex scene.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.09.31.994-00.09.36.715 	Where scOrcs of Hobbits are busy preparing for the big night.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.34.47.935-00.34.49.883 	Frodo is preparing to leave.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.25.35.274-00.25.39.954 	PIPPIN is dumped unceremoniously onto the back of SHADOWFAX as GANDALF hurriedly prepares to leave.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.50.43.240-00.50.44.164 	EOWYN hurriedly pulling on RIDING GLOVES, preparing to mount her HORSE.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.25.39.983-01.25.41.907 	preparing a LITTLE PONY with a SADDLE and SUPPLIES.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.36.43.682-01.36.45.100 	BEHIND him, an ORC prepares to cut down GANDALF.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_03.10.16.484-03.10.26.436 	SAM in growing darkness, still follows the departing SHIP with his eyes, MERRY and PIPPIN are already preparing to leave.
-0030_The_Hustler_00.16.57.555-00.17.00.698 	Two balls are rolled to the end of the table, and Fats and Eddie, like two duelers, prepare to shoot for the break.
-0030_The_Hustler_00.24.09.575-00.24.14.040 	They stand up, remove their jackets, and prepare to play again.
-0030_The_Hustler_02.05.17.049-02.05.20.588 	Willie collects their stake money and prepares to toss the coin.
-0033_Amadeus_01.07.19.620-01.07.20.910 	The candle flickers over her as she removes her clothes and prepares for his embrace.
-0049_Hannah_and_her_sisters_00.20.11.589-00.20.16.200 	April chuckles as Holly walks back onscreen; she is busy preparing another tray of hors d'oeuvres.
-0049_Hannah_and_her_sisters_00.33.12.128-00.33.13.103 	Hannah is briefly seen in the background, preparing more coffee in the kitchen.
-0049_Hannah_and_her_sisters_01.24.37.240-01.24.43.553 	Holly is standing in the pantry, preparing some offscreen food.
-0050_Indiana_Jones_and_the_last_crusade_01.49.28.062-01.49.34.156 	When the Grail Knight sees Indy he gets wearily to his feet and, surprisingly, prepares to give combat.
-1001_Flight_01.52.28.808-01.52.33.198 	Harling prepares the cigarette.
-1005_Signs_01.37.43.370-01.37.48.408 	Merrill prepares for another strike.
-1006_Slumdog_Millionaire_00.31.09.561-00.31.12.242 	The bearded man prepares another spoon of liquid.
-1006_Slumdog_Millionaire_01.20.42.207-01.20.50.259 	Latika nervously prepares a sandwich for Javed.
+0002_As_Good_As_It_Gets_01.45.58.232-01.46.02.392 	simon laughs -- as she crosses to the bathroom and begins to prepare a bath.
+0003_CASABLANCA_00.33.30.252-00.33.31.089 	sam prepares to move the piano away.
+0006_Clerks_00.44.04.256-00.44.09.189 	some sit on the floor or lean against the coolers, but all are either preparing or practicing.
+0009_Forrest_Gump_00.12.25.199-00.12.33.124 	the bus pulls up as mrs. gump prepares forrest for his first day of school.
+0009_Forrest_Gump_01.11.22.628-01.11.26.140 	jenny carries a backpack as she prepares to board a bus back to berkeley.
+0011_Gandhi_00.43.12.432-00.43.17.902 	there is a great cheer, but in the silence that follows we hear the military band from across the way as the troops prepare to march off.
+0013_Halloween_00.55.11.861-00.55.16.136 	tommy hides, preparing to jump out and scare lindsey.
+0014_Ist_das_Leben_nicht_schoen_00.04.01.763-00.04.03.068 	they are preparing to slide down the hill on large shovels.
+0014_Ist_das_Leben_nicht_schoen_00.04.33.568-00.04.37.215 	on top of hill, preparing to make his slide.
+0019_Pulp_Fiction_00.59.17.925-00.59.24.787 	he opens it and begins preparing the needle for injection.
+0020_Raising_Arizona_00.30.46.264-00.30.49.340 	the original policeman is leading nathan to a table where a white-smocked technician is preparing inkpad and exemplar sheets.
+0021_Rear_Window_00.21.53.155-00.21.55.828 	as if she's preparing to meet someone.
+0021_Rear_Window_00.24.53.162-00.25.01.475 	the salesman has prepared a dinner tray, and is carrying it from the kitchen, through the living room, into the bedroom.
+0021_Rear_Window_01.02.31.127-01.02.31.809 	he is in black tie, and from the looks of the apartment he is preparing for guests.
+0023_THE_BUTTERFLY_EFFECT_01.45.44.893-01.45.49.881 	evan, seven again, stands in the basement dressed in his robin hood costume as mr. miller prepares for the sex scene.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.09.31.994-00.09.36.715 	where scorcs of hobbits are busy preparing for the big night.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.34.47.935-00.34.49.883 	frodo is preparing to leave.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.25.35.274-00.25.39.954 	pippin is dumped unceremoniously onto the back of shadowfax as gandalf hurriedly prepares to leave.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.50.41.699-00.50.42.339 	theoden watches as below the soldiers prepare.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.50.43.240-00.50.44.164 	eowyn hurriedly pulling on riding gloves, preparing to mount her horse.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.25.39.983-01.25.41.907 	preparing a little pony with a saddle and supplies.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_03.10.16.484-03.10.26.436 	sam in growing darkness, still follows the departing ship with his eyes, merry and pippin are already preparing to leave.
+0030_The_Hustler_00.16.57.555-00.17.00.698 	two balls are rolled to the end of the table, and fats and eddie, like two duelers, prepare to shoot for the break.
+0030_The_Hustler_00.24.09.575-00.24.14.040 	they stand up, remove their jackets, and prepare to play again.
+0030_The_Hustler_01.17.23.591-01.17.25.591 	preparing to break, eddie chalks his cue.
+0049_Hannah_and_her_sisters_00.20.11.589-00.20.16.200 	april chuckles as holly walks back onscreen; she is busy preparing another tray of hors d'oeuvres.
+0049_Hannah_and_her_sisters_00.33.12.128-00.33.13.103 	hannah is briefly seen in the background, preparing more coffee in the kitchen.
+0049_Hannah_and_her_sisters_01.24.37.240-01.24.43.553 	holly is standing in the pantry, preparing some offscreen food.
+0050_Indiana_Jones_and_the_last_crusade_01.49.28.062-01.49.34.156 	when the grail knight sees indy he gets wearily to his feet and, surprisingly, prepares to give combat.
+1001_Flight_01.52.28.808-01.52.33.198 	harling prepares the cigarette.
+1006_Slumdog_Millionaire_00.31.09.561-00.31.12.242 	the bearded man prepares another spoon of liquid.
+1006_Slumdog_Millionaire_01.20.42.207-01.20.50.259 	latika nervously prepares a sandwich for javed.
 1008_Spider-Man2_00.44.50.014-00.44.53.661 	edgy, the doctor prepares to cut one of the limbs.
 1018_Body_Of_Lies_00.38.15.512-00.38.21.923 	he smiles, and she prepares a syringe.
 1018_Body_Of_Lies_01.14.45.070-01.14.49.751 	his daughter prepares to throw in.
 1028_No_Reservations_01.28.17.452-01.28.19.091 	at the restaurant, paula tackles kate as she prepares dishes.
-1029_Pride_And_Prejudice_Disk_One_02.07.51.326-02.07.56.961 	mary prepares to play and the men quickly take their places opposite their partners.
 1029_Pride_And_Prejudice_Disk_One_02.38.52.567-02.38.58.339 	rises from her seat, and stands in the center of the drawing room, prepared to greet any visitors.
+1030_Public_Enemies_00.37.55.558-00.38.00.280 	we watch the agents from afar as they prepare, dwarfing their trench-coated forms.
 1034_Super_8_00.16.02.949-00.16.03.105 	as the train approaches, they prepare to film.
 1034_Super_8_01.08.45.706-01.08.49.199 	charles and joe prepare to board a bus.
-1041_This_is_40_01.39.16.657-01.39.22.396 	now, debbie prepares for the party as barb enters the kitchen.
+1041_This_is_40_00.18.58.202-00.19.02.274 	preparing their lunches, she glares at her husband.
 1042_Up_In_The_Air_01.04.13.794-01.04.15.843 	they prepare the packets.
 1047_Defiance_00.56.31.969-00.56.36.904 	he pushes zus down on his back, picks up a round stone and prepares to throw it.
 1047_Defiance_02.02.09.219-02.02.11.434 	malbin prepares an explosive.
@@ -57,10 +50,6 @@
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.40.15.126-01.40.18.914 	ron prepares himself.
 1051_Harry_Potter_and_the_goblet_of_fire_01.34.55.936-01.34.58.538 	a merman prepares to attack.
 1052_Harry_Potter_and_the_order_of_phoenix_00.59.53.513-00.59.55.668 	he faces harry and prepares himself.
-1055_Marley_and_me_01.17.30.998-01.17.32.889 	marley is circling in the shallows, preparing to poop.
-1062_Day_the_Earth_stood_still_00.09.08.228-00.09.13.584 	motorcycle outriders prepare to escort the waiting car.
-1062_Day_the_Earth_stood_still_00.22.02.401-00.22.11.648 	as the soldiers prepare to fire, helen keeps moving slowly forwards.
-2004_Juno_00.27.01.333-00.27.10.077 	music plays as we see sparse images of vanessa loring's hands preparing the house for juno's arrival -- sprucing a vase of flowers.
 1055_Marley_and_me_01.17.30.998-01.17.32.889 	marley is circling in the shallows, preparing to poop.
 1062_Day_the_Earth_stood_still_00.09.08.228-00.09.13.584 	motorcycle outriders prepare to escort the waiting car.
 1062_Day_the_Earth_stood_still_00.22.02.401-00.22.11.648 	as the soldiers prepare to fire, helen keeps moving slowly forwards.

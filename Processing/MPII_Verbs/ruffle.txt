@@ -1,21 +1,10 @@
 0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.39.35.515-01.39.37.607 	boromir smiles at frodo, ruffling his hair.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.50.41.196-02.50.43.209 	the wind ruffles his hair.
-0033_Amadeus_00.27.22.066-00.27.25.276 	he scratches notes out with his quill, and ruffles his hair - which we see without a powdered wig.
 1001_Flight_01.46.40.385-01.46.43.203 	a gentle breeze blows through the balcony doors ruffling drawn curtains.
-1002_Harry_Potter_and_the_Half-Blood_Prince_02.23.00.344-02.23.01.996 	they remain side by side at the balustrade, the breeze ruffling their hair.
 1007_Spider-Man1_00.49.14.248-00.49.17.007 	a light breeze ruffling his short dark hair.
-1007_Spider-Man1_01.19.25.970-01.19.32.808 	peter, the wind ruffling his hair, sees two youths giving her the ones-over.
-1007_Spider-Man1_01.39.40.031-01.39.44.426 	a stiff breeze is ruffling her hair and nightclothes.
-1008_Spider-Man2_01.10.33.694-01.10.36.790 	the wind ruffles his hair as he remains still for a moment.
 1010_TITANIC_01.20.04.984-01.20.08.446 	wind ruffles his hair.
 1014_2012_01.58.16.689-01.58.17.846 	the wind ruffles his hair.
-1034_Super_8_01.37.36.069-01.37.39.138 	the alien's breath ruffles joe's hair as it breathes on him.
-1039_The_Queen_00.02.34.625-00.02.39.292 	in the gray skies high above him, the royal standard flag is gentled ruffled by the breeze.
-1045_An_education_01.33.55.337-01.33.57.801 	he ruffles his daughter's hair as he walks past.
 1048_Gran_Torino_00.16.05.494-00.16.06.390 	spider ruffles thao's hair.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.03.13.000-00.03.17.747 	her long wavy hair ruffled by a breeze.
-1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.19.57.082-01.20.04.830 	the wind ruffles harry's hair as he walks over the rocks.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.24.37.542-01.24.44.048 	she ruffles his hair, and smiles at him.
-1052_Harry_Potter_and_the_order_of_phoenix_02.00.32.098-02.00.38.593 	voldemort suddenly disappears in whirlwind of sand, which ruffles dumbledore's white beard.
 1055_Marley_and_me_01.43.20.223-01.43.24.752 	jenny walks in and ruffles his blonde hair.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.22.08.135-00.22.21.853 	the wind ruffles their hair as the dragon flies off, heading west along the river.

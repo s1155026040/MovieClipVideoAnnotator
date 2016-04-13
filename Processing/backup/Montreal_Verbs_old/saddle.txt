@@ -1,0 +1,3 @@
+SANCTUM.srt 	SANCTUM_DVS302 	01:00:34,00 --> 01:00:40,50 	someone marches on, saddled with gear.
+TRUE_GRIT.srt 	TRUE_GRIT_DVS127 	00:33:28,00 --> 00:33:33,50 	she saddles up and rides off on little blackie.
+TRUE_GRIT.srt 	TRUE_GRIT_DVS192 	00:40:29,00 --> 00:40:37,50 	she walks over to someone who's by some bare trees tying leather bags to his horses saddle.

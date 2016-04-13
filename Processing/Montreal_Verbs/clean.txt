@@ -1,17 +1,9 @@
 BLINDDATING.srt 	BLINDDATING_DVS37 	00:12:07,00 --> 00:12:12,50 	she cleans up the papers.
-BLINDDATING.srt 	BLINDDATING_DVS276 	01:08:07,00 --> 01:08:21,50 	someone cleans her eyeglasses as she sits fully dressed.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS107 	00:08:39,00 --> 00:08:45,50 	inside, a cleaned up radiant someone stands before him.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS415 	01:40:39,00 --> 01:40:45,50 	now in the apartment, someone cleans a skillet.
-COLOMBIANA.srt 	COLOMBIANA_DVS216 	00:18:30,00 --> 00:18:39,50 	his older colleague watches in disbelief as he cleans it off and places it in a disk which he then inserts into his computer.
 COLOMBIANA.srt 	COLOMBIANA_DVS536 	00:48:18,00 --> 00:48:22,50 	as she cleans her handgun.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS443 	01:05:23,00 --> 01:05:27,50 	now he cleans a gun.
 EASY_A.srt 	EASY_A_DVS63 	00:22:02,00 --> 00:22:08,50 	now they clean a tennis court.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS340 	00:51:28,00 --> 00:51:35,50 	he rubs his gloved fingers against each other cleaning the dust from them.
 HUGO.srt 	HUGO_DVS195 	00:27:32,00 --> 00:27:37,50 	she cleans his face with a handkerchief.
-IN_TIME.srt 	IN_TIME_DVS674 	01:13:13,00 --> 01:13:19,50 	as the pair leaves, the customers rush into the vault and clean it out.
-KARATE_KID.srt 	KARATE_KID_DVS544 	00:49:04,00 --> 00:49:10,50 	someone continues to clean his dingy workroom.
-SALT.srt 	SALT_DVS116 	00:22:00,00 --> 00:22:07,50 	someone heads into a room with the fire extinguisher and some bottles of cleaning solutions.
-SALT.srt 	SALT_DVS122 	00:23:09,00 --> 00:23:16,50 	she pours cleaning solutions into a trashcan.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1312 	01:30:36,00 --> 01:30:41,50 	they're still cleaning.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS296 	01:01:54,00 --> 01:01:59,50 	cleaning supplies from a storage cage, a push broom
 THE_VOW.srt 	THE_VOW_DVS598 	01:23:29,00 --> 01:23:34,50 	in someones now cleaned out studio,

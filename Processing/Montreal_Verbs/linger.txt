@@ -1,25 +1,10 @@
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS101 	00:08:34,00 --> 00:08:39,50 	he lingers on the mug shot.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS93 	00:10:27,00 --> 00:10:33,50 	he lingers for a moment then continues on.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS780 	01:17:16,00 --> 01:17:20,50 	but lingers nearby.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS224 	00:34:48,00 --> 00:34:58,50 	someone lingering on the spot, staring off as he stuffs his hands into his pockets.
-IN_TIME.srt 	IN_TIME_DVS677 	01:13:31,00 --> 01:13:37,50 	many others linger on the spot staring at the authorities.
 LAND_OF_THE_LOST.srt 	LAND_OF_THE_LOST_DVS115 	00:37:13,00 --> 00:37:17,50 	they linger outside.
 LARRY_CROWNE.srt 	LARRY_CROWNE_DVS293 	01:10:23,00 --> 01:10:28,50 	lingering by the window
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS634 	01:16:49,00 --> 01:17:07,50 	someone eyes her boss lingering in a doorway.
-PROMETHEUS.srt 	PROMETHEUS_DVS123 	00:07:31,00 --> 00:07:37,50 	the beam lingers on the six floating discs.
-PROMETHEUS.srt 	PROMETHEUS_DVS148 	00:09:26,00 --> 00:09:33,50 	as the transmission ends, the man lingers with his hand on the touch screen, then steps away.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS320 	01:17:28,00 --> 01:17:54,50 	her gaze lingers on someone as she sidles away.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS582 	01:27:18,00 --> 01:27:23,50 	our view lingers on the open air office.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS621 	01:30:25,00 --> 01:30:32,50 	our lingering view lowers to the manuscript and its attached note.
-RUBY_SPARKS.srt 	RUBY_SPARKS_DVS646 	01:32:39,00 --> 01:32:45,50 	as our view lingers on the brothers, the image gradually fades to black.
-SALT.srt 	SALT_DVS518 	01:28:50,00 --> 01:28:58,50 	now the agents escort someone of a curving flight of stairs to a landing, where someone lingers with the someone.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS54 	00:12:59,00 --> 00:13:04,50 	he lingers a moment then heads inside.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS399 	01:16:56,00 --> 01:17:21,50 	at graduation, someone's eyes shine as he lingers on the stage.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS414 	01:18:56,00 --> 01:19:03,50 	as they linger facing the painting together she glances at him fondly.
-THE_CALL.srt 	THE_CALL_DVS911 	01:10:05,00 --> 01:10:12,50 	our view lingers on the operator, then ducks back as she turns toward us.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS740 	01:43:55,00 --> 01:44:01,50 	he bends down and leans over her, his fingers lingering on her brow.
-THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS391 	01:11:00,00 --> 01:11:07,50 	as someone pulls away, their noses graze and their lips linger an inch apart.
-THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS507 	01:27:39,00 --> 01:27:44,50 	they rock back and forth lingering in the embrace.
-WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS197 	00:24:09,00 --> 00:24:14,50 	lingering near the entrance, he flips through a catalog.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS633 	01:27:49,00 --> 01:27:55,50 	as they linger in the kiss, someone's eyes open and shift uncertainly.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS172 	00:12:49,00 --> 00:12:56,50 	lingering near the doorway, she faces someone with a vulnerable gaze.

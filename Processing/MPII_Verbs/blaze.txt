@@ -2,30 +2,12 @@
 0017_Pianist_01.23.40.287-01.23.41.253 	blazing sun.
 0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.42.41.456-00.42.48.142 	saruman screams, eyes blazing!
 0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.49.57.173-01.50.04.181 	and emaciated, leering creature, blazes like a silent flash of lightning.
-0031_The_Lost_Weekend_01.10.07.969-01.10.12.049 	her hair is the ruined elaborate hairdress of yesterday, and her eyes are blazing with anger.
-0032_The_Princess_Bride_00.18.37.134-00.18.41.057 	he raises his right hand high, his eyes blaze, and his voice takes on a tone we have not heard before.
-0038_Psycho_00.25.23.815-00.25.25.804 	in the dim twilight we see the neon sign of roadside restaurants and gas stations beginning to blaze on.
 0050_Indiana_Jones_and_the_last_crusade_01.18.30.710-01.18.31.813 	guns blazing.
-1008_Spider-Man2_01.24.26.115-01.24.30.432 	peter runs towards a blazing apartment building.
-1008_Spider-Man2_01.40.35.585-01.40.36.719 	then, eyes blazing, he strides on.
-1017_Bad_Santa_01.21.14.100-01.21.16.464 	willie stamps out the blazing bag.
-1026_Legion_01.10.06.487-01.10.07.493 	michael walks out, guns blazing.
 1027_Les_Miserables_00.08.02.220-00.08.05.653 	valjean crouches by a blazing fire.
-1027_Les_Miserables_02.02.11.060-02.02.11.691 	soldiers burst into the building with guns blazing.
 1031_Quantum_of_Solace_01.24.16.950-01.24.25.882 	the sun blazes down on a rocky desert.
 1046_Australia_00.46.48.458-00.46.54.000 	sarah looks tearfully out towards daisy's blazing funeral pyre.
 1046_Australia_02.08.33.247-02.08.35.831 	the drover and magarri sit on their horses amid the smoke and blazing buildings.
-1046_Australia_02.08.41.411-02.08.45.633 	fires blaze in the darkness and a pall of smoke covers the town.
-1047_Defiance_00.26.06.804-00.26.10.483 	an elderly russian runs out to his blazing truck.
 1052_Harry_Potter_and_the_order_of_phoenix_00.00.40.000-00.00.43.218 	the sun blazes down.
-1055_Marley_and_me_00.02.55.887-00.02.56.821 	sun blazes down on a motor cruiser riding on the glassy calm waters of a quiet bay.
-1056_Rambo_00.28.27.749-00.28.32.187 	the army enter the village with weapons blazing.
-1056_Rambo_00.29.56.980-00.30.01.399 	from the truck, the cool commander watches the carnage while his subordinate blazes away.
-1062_Day_the_Earth_stood_still_00.18.27.000-00.18.33.094 	soldiers file out, weapons raised torches blazing.
-1062_Day_the_Earth_stood_still_00.21.18.283-00.21.33.247 	the apache circles the sphere as lights blaze out from the interior then concentrate at the base of the towering object.
-1062_Day_the_Earth_stood_still_01.00.16.925-01.00.26.387 	both stare in amazement as the sphere from the pool, blazing with white light, rises slowly into the air.
 2026_Legion_00.11.59.210-00.12.09.904 	a black cadillac escalade blazes a path.
-2054_Harry_Potter_and_the_prisoner_of_azkaban_00.01.02.200-00.01.11.486 	as the blankets blaze, we cut inside, find a skinny boy with a crow's nest of black hair, thick glasses sitting crookedly atop his nose: harry potter.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_00.08.17.470-00.08.18.080 	the tip of his wand blazes.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_01.44.37.570-01.44.38.408 	the forest blazing with it.
-2054_Harry_Potter_and_the_prisoner_of_azkaban_02.01.27.212-02.01.30.435 	the lake blazes with reflected fire.

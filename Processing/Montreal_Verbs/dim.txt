@@ -1,5 +1,1 @@
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS201 	00:36:38,00 --> 00:36:50,50 	someone gazes at the pod as it dims, then goes dark.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS626 	01:45:12,00 --> 01:45:19,50 	the light inside the cockpit dims.
-FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS93 	00:24:07,00 --> 00:24:24,50 	as she dims the lights for a slideshow, glow-in-the-dark graffiti shows on her face, including eyebrows, the word loser and cat whiskers.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS276 	00:42:42,00 --> 00:43:07,50 	the fire dancing around his skull dims in a billow of smoke and ghost rider staggers, swatting at it.
-SANCTUM.srt 	SANCTUM_DVS337 	01:07:15,00 --> 01:07:28,50 	as someone crawls through the opening, his helmet light dims out.

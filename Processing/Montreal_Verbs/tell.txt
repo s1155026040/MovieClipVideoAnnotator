@@ -1,8 +1,4 @@
 GREEN_ZONE.srt 	GREEN_ZONE_DVS294 	01:07:58,00 --> 01:08:04,50 	tell me!
-GREEN_ZONE.srt 	GREEN_ZONE_DVS295 	01:08:04,00 --> 01:08:08,50 	knew, i would not tell you.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS106 	00:13:02,00 --> 00:13:07,50 	she tells her sons the story.
 MORNING_GLORY.srt 	MORNING_GLORY_DVS36 	00:04:58,00 --> 00:05:03,50 	her friend that told her the news, someone leaves.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS300 	01:05:49,00 --> 01:05:54,50 	someone mouths, tell him, to someone.
-SALT.srt 	SALT_DVS51 	00:10:05,00 --> 00:10:10,50 	subtitles - i came here to tell you a story.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS82 	00:18:51,00 --> 00:19:01,50 	tell me why aren't you married?
-TRUE_GRIT.srt 	TRUE_GRIT_DVS486 	01:32:30,00 --> 01:32:35,50 	scowling, he does as he's told.

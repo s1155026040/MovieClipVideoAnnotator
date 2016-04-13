@@ -1,14 +1,16 @@
-0002_As_Good_As_It_Gets_01.20.57.618-01.20.59.129 	He has almost no recent experience with receiving a nighttime phone call.
-0002_As_Good_As_It_Gets_01.42.16.286-01.42.21.371 	But now his head moves back and he receives her kiss.
-0009_Forrest_Gump_00.31.14.439-00.31.14.627 	Students in their caps and gowns step forward the podium to receive their diplomas.
-0011_Gandhi_01.12.19.876-01.12.23.587 	The magistrate receives that news with some alarm.
-0014_Ist_das_Leben_nicht_schoen_01.16.57.805-01.16.59.637 	on his way home from Washington after receiving the Congressional Medal of Honor.
-0014_Ist_das_Leben_nicht_schoen_01.44.52.854-01.44.55.365 	George feels his lip, which shows no sign of the recent cut he received from Welch.
-0020_Raising_Arizona_01.28.51.784-01.28.56.580 	Looking up, arms out at his sides, waiting to receive the kicked ball.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.01.13.363-00.01.14.764 	THREE RINGS, each set with a single GEM, are received by the HIGH ELVES-GALADRIEL, GIL-GALAD and CIRDAN.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.16.32.921-01.16.37.322 	ARAGORN receiving this news.
-0033_Amadeus_00.12.40.038-00.12.40.810 	Father Salieri receives his plate of fish and starts to eat greedily.
-1006_Slumdog_Millionaire_01.00.48.495-01.00.54.608 	He approaches a cinema kiosk, hands over a coin, and receive the ticket.
+0002_As_Good_As_It_Gets_01.20.57.618-01.20.59.129 	he has almost no recent experience with receiving a nighttime phone call.
+0002_As_Good_As_It_Gets_01.42.16.286-01.42.21.371 	but now his head moves back and he receives her kiss.
+0009_Forrest_Gump_00.31.14.439-00.31.14.627 	students in their caps and gowns step forward the podium to receive their diplomas.
+0011_Gandhi_01.12.19.876-01.12.23.587 	the magistrate receives that news with some alarm.
+0014_Ist_das_Leben_nicht_schoen_01.16.57.805-01.16.59.637 	on his way home from washington after receiving the congressional medal of honor.
+0014_Ist_das_Leben_nicht_schoen_01.44.52.854-01.44.55.365 	george feels his lip, which shows no sign of the recent cut he received from welch.
+0014_Ist_das_Leben_nicht_schoen_02.06.59.339-02.07.12.103 	ernie is reading a telegram he has just received.
+0020_Raising_Arizona_01.28.51.784-01.28.56.580 	looking up, arms out at his sides, waiting to receive the kicked ball.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.01.13.363-00.01.14.764 	three rings, each set with a single gem, are received by the high elves-galadriel, gil-galad and cirdan.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.16.32.921-01.16.37.322 	aragorn receiving this news.
+0032_The_Princess_Bride_00.09.13.059-00.09.18.140 	during this, inigo has gone close to fezzik, who is very distressed at the insults he's just received.
+0033_Amadeus_00.12.40.038-00.12.40.810 	father salieri receives his plate of fish and starts to eat greedily.
+1006_Slumdog_Millionaire_01.00.48.495-01.00.54.608 	he approaches a cinema kiosk, hands over a coin, and receive the ticket.
 1011_The_Help_02.01.09.406-02.01.16.145 	skeeter receives a letter from elain stein offering her a job as a junior editor at harper &amp; row publishers.
 1020_Crazy_Stupid_Love_00.33.25.957-00.33.29.253 	at her locker, jessica receives the text.
 1020_Crazy_Stupid_Love_00.33.42.256-00.33.43.712 	robbie receives the text.
@@ -17,8 +19,6 @@
 1043_Vantage_Point_00.52.02.639-00.52.07.031 	anna receives an ice cream cone.
 1044_Pride_And_Prejudice_Disk_Two_01.50.17.293-01.50.20.152 	inside, mr. wickham stands up, ready to receive his bride.
 1053_Harry_Potter_and_the_philosophers_stone_00.54.14.254-00.54.16.615 	ron has received a newspaper and some letters.
-1059_The_devil_wears_prada_01.10.14.117-01.10.20.403 	andy nods and holds her hand out to receive the coat, but miranda tosses it and her handbag onto emily's desk and marches into her office.
-1060_Yes_man_00.39.08.431-00.39.11.602 	in his office norman receives the response.
-1053_Harry_Potter_and_the_philosophers_stone_00.54.14.254-00.54.16.615 	ron has received a newspaper and some letters.
+1057_Seven_pounds_01.46.50.172-01.46.57.205 	as tim emails a response to the message he received, the corvette wanders into the opposite lane, narrowly missing an oncoming car.
 1059_The_devil_wears_prada_01.10.14.117-01.10.20.403 	andy nods and holds her hand out to receive the coat, but miranda tosses it and her handbag onto emily's desk and marches into her office.
 1060_Yes_man_00.39.08.431-00.39.11.602 	in his office norman receives the response.

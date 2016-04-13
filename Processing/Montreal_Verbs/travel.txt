@@ -1,27 +1,16 @@
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS136 	00:13:01,00 --> 00:13:09,50 	the three sedans travel a street along a river.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS528 	01:14:36,00 --> 01:15:00,50 	as we peer down through the clouds, we find carts loaded with silver twinkling in the sunlight as they travel through the streets.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS628 	01:00:35,00 --> 01:00:41,50 	now someone's van travels up a winding road in a light fog.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS935 	01:31:22,00 --> 01:31:27,50 	now, someone's van travels up the ocean side highway.
-CHRONICLE.srt 	CHRONICLE_DVS312 	00:46:47,00 --> 00:46:58,50 	travelling parallel, the balls bounce once and land in side-by-side cups.
 COLOMBIANA.srt 	COLOMBIANA_DVS554 	00:50:41,00 --> 00:50:47,50 	his arms envelope her and his hands travel down her back.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS239 	00:37:25,00 --> 00:37:50,50 	now multiple letters travel along four conveyor belts.
 DISTRICT_9.srt 	DISTRICT_9_DVS36 	00:04:50,00 --> 00:04:57,50 	we traveled through the city beneath a hovering ship.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS194 	00:30:37,00 --> 00:30:54,50 	covered in swirling day-glo patterns, the van sputters fumes as it travels up the road.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS278 	01:25:55,00 --> 01:26:10,50 	on top of the truck, our view travels up a pole to a camera.
-KARATE_KID.srt 	KARATE_KID_DVS928 	01:15:59,00 --> 01:16:14,50 	later, as it travels along a winding road overlooking the mountains, someone and his student ride on the rear-facing back seat.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS940 	01:33:21,00 --> 01:33:26,50 	a teardrop travels down his face and neck.
-PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS282 	01:11:02,00 --> 01:11:12,50 	now the pickup travels past an airport tarmac situated across the street from a sign reading welcome to fabulous las vegas, nevada.
 PROMETHEUS.srt 	PROMETHEUS_DVS1063 	01:56:17,00 --> 01:56:23,50 	the atv travels away from the structure along the desert valley.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1223 	01:22:09,00 --> 01:22:15,50 	thank you for traveling all this way to celebrate our daughter's wedding.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS333 	01:04:42,00 --> 01:04:50,50 	on another day, our view travels across his bedroom to find him hard at work at his desk.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS67 	00:14:24,00 --> 00:14:29,50 	later, his car travels past a park.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS265 	00:41:40,00 --> 00:41:46,50 	now, the car travels along a road overlooking the ocean.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS274 	00:43:13,00 --> 00:43:21,50 	traveling through another neighborhood, the car passes a large, beautifully landscaped house on a corner.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS373 	00:57:39,00 --> 00:57:46,50 	later, the jeep travels a winding dirt path wide enough for only one vehicle.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS696 	01:38:16,00 --> 01:38:22,50 	now, we travel up the bed quilt to someone's hands
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS130 	00:13:26,00 --> 00:13:33,50 	now in a blizzard, a train travels a mountainous snow dusted landscape.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS271 	00:32:06,00 --> 00:32:12,50 	officer someone traveled to site in patrol boat.
-THE_VOW.srt 	THE_VOW_DVS683 	01:35:47,00 --> 01:35:56,50 	a factory style window shows a nighttime view of a light snowfall and a car traveling the warmly lit street.
 THOR.srt 	THOR_DVS431 	01:08:47,00 --> 01:08:55,50 	traveling by means of a bifrost bridge, a person rockets down onto the icy surface of jotunheim.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS350 	00:56:19,00 --> 00:56:30,50 	now, someone's suv travels a winding road among verdant hills.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS218 	00:16:07,00 --> 00:16:20,50 	now as we travel along a strip of casinos, words appear: las vegas, nevada.

@@ -1,4 +1,2 @@
 PROMETHEUS.srt 	PROMETHEUS_DVS400 	00:40:09,00 --> 00:40:15,50 	a tar-like substance oozes on top.
-PROMETHEUS.srt 	PROMETHEUS_DVS454 	00:48:02,00 --> 00:48:10,50 	dark fluid oozes from small holes on either side of his brow and he grimaces painfully.
 THE_WATCH.srt 	THE_WATCH_DVS417 	01:14:56,00 --> 01:15:01,50 	green goo oozes from the wound.
-THE_WATCH.srt 	THE_WATCH_DVS465 	01:24:10,00 --> 01:24:18,50 	as the others head off, someone stands over the gunned down alien, its body oozing green slime.

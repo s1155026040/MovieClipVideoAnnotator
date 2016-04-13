@@ -1,0 +1,4 @@
+CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS148 	00:26:25,00 --> 00:26:30,50 	surrounded by flames, someone's face distorts as he screams.
+KATY_PERRY_PART_OF_ME.srt 	KATY_PERRY_PART_OF_ME_DVS48 	00:07:53,00 --> 00:07:58,50 	audience members cheer, scream, and wave.
+MORNING_GLORY.srt 	MORNING_GLORY_DVS165 	00:39:06,00 --> 00:39:11,50 	he screams silently.
+THE_CALL.srt 	THE_CALL_DVS1102 	01:23:10,00 --> 01:23:15,50 	she screams underwater.

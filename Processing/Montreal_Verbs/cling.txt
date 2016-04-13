@@ -1,26 +1,8 @@
-21_JUMP_STREET.srt 	21_JUMP_STREET_DVS473 	01:17:23,00 --> 01:17:31,50 	he leaps straight up then dangles over the stage with someone clinging to his leg.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS921 	01:28:44,00 --> 01:28:50,50 	coin-sized flecks of ash reign down on their wet clinging t-shirts.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS640 	01:30:19,00 --> 01:31:04,50 	someone and someone brace themselves, clinging to the engine.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS482 	01:24:57,00 --> 01:25:04,50 	someone leans out of the train, clinging to the side.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS486 	01:25:07,00 --> 01:25:13,50 	the metal bar someone clings to breaks and he plummets into the canyon.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS576 	01:39:41,00 --> 01:39:48,50 	someone stands and gazes up at someone clinging to the rising bomber.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS586 	01:41:04,00 --> 01:41:11,50 	the bomb drops out of the plane with someone and the other trooper clinging to its canopy.
-IN_TIME.srt 	IN_TIME_DVS956 	01:40:35,00 --> 01:40:42,50 	as she clings to him, someone drops to one knee, his arms wrapped around her limp body.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS327 	00:40:31,00 --> 00:40:38,50 	as someone clings to one set of lines, the cook unfastens another.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS370 	00:44:24,00 --> 00:44:29,50 	he leans far out, clinging to the mast.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS381 	00:45:33,00 --> 00:45:43,50 	with the life preserver looped over the prow beam, a huddled, shivering someone sits in the rain while clinging to the mast with his hands.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS398 	00:46:51,00 --> 00:46:58,50 	clinging by his arms, he swings himself around so his legs dangle over the water.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS623 	01:07:41,00 --> 01:07:46,50 	clinging to the ropes with his front claws.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS636 	01:08:39,00 --> 01:08:44,50 	shining it over the side, he finds someone clinging to the whole rope.
-LITTLE_FOCKERS.srt 	LITTLE_FOCKERS_DVS219 	01:19:02,00 --> 01:19:07,50 	clinging by his legs, he opens his arms.
-NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS253 	00:52:54,00 --> 00:54:08,50 	she clings to him, holding her shoes and wedding bouquet.
 SALT.srt 	SALT_DVS556 	01:35:52,00 --> 01:36:15,50 	her wet short hair clinging to her head.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS844 	00:55:52,00 --> 00:55:57,50 	she clings to him tightly, her eyes closed and her lips parted.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS367 	00:55:19,00 --> 00:55:26,50 	his parachute opens and drags him backward, but he clings to the plane's tail.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS615 	01:22:50,00 --> 01:22:56,50 	the falcon, with snowy clinging to its tail, flies through a window and into a grain mill.
-THOR.srt 	THOR_DVS189 	00:25:01,00 --> 00:25:12,50 	upside down now, the creature clings to the underside of the ice as it races directly beneath someone and the others, as they leap over widening cracks in the unstable terrain.
-TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS267 	00:33:53,00 --> 00:33:58,50 	clinging to the blanket, he climbs up.
-ZOMBIELAND.srt 	ZOMBIELAND_DVS24 	00:02:44,00 --> 00:02:50,50 	little girl zombies cling to her car as she speeds across an empty lot.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS580 	01:07:20,00 --> 01:07:25,50 	a few still cling to the roof.
-ZOMBIELAND.srt 	ZOMBIELAND_DVS695 	01:16:30,00 --> 01:16:38,50 	at the drop ride, someone frantically kicks the zombie in the track suit clinging to her leg.
-ZOOKEEPER.srt 	ZOOKEEPER_DVS416 	01:30:53,00 --> 01:31:03,50 	he clings to someone's back as the gorilla climbs the beam which angles nearly 45 degrees outward.

@@ -1,14 +1,14 @@
-0006_Clerks_00.44.24.850-00.44.24.925 	The PLAYERS ascend a ladder adjacent to the door, one by one.
-0010_Frau_Ohne_Gewissen_00.35.43.840-00.35.44.837 	In the BACKGROUND Dietrichson begins to ascend the stairs, carrying his coat and glass.
-0021_Rear_Window_00.51.37.702-00.51.40.702 	We are now aware that the salesman is now in his living room, lying out of sight on the sofa, because the smoke from a newly lighted cigar is starting to ascend toward the ceiling of his room.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.29.40.157-00.29.45.821 	A HOODED FIGURE ascends a CURVED STAIRCASE towards a GALLERY.
-0032_The_Princess_Bride_00.14.20.188-00.14.22.691 	And he starts to ascend the rope, carrying them all along with him as he goes.
-1006_Slumdog_Millionaire_01.12.20.683-01.12.27.830 	Jamal is ascending in a lift on the construction site of a skyscraper.
+0001_American_Beauty_01.55.26.316-01.55.52.641 	we're flying once again over robin hood trail, ascending .
+0006_Clerks_00.44.24.850-00.44.24.925 	the players ascend a ladder adjacent to the door, one by one.
+0010_Frau_Ohne_Gewissen_00.35.43.840-00.35.44.837 	in the background dietrichson begins to ascend the stairs, carrying his coat and glass.
+0021_Rear_Window_00.51.37.702-00.51.40.702 	we are now aware that the salesman is now in his living room, lying out of sight on the sofa, because the smoke from a newly lighted cigar is starting to ascend toward the ceiling of his room.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.29.40.157-00.29.45.821 	a hooded figure ascends a curved staircase towards a gallery.
+0032_The_Princess_Bride_00.14.20.188-00.14.22.691 	and he starts to ascend the rope, carrying them all along with him as he goes.
+1001_Flight_00.09.59.770-00.10.04.987 	they ascend.
+1006_Slumdog_Millionaire_01.12.20.683-01.12.27.830 	jamal is ascending in a lift on the construction site of a skyscraper.
 1010_TITANIC_01.05.21.683-01.05.23.295 	lifting her dress slightly, she ascends the stairs.
-1020_Crazy_Stupid_Love_00.22.42.376-00.22.46.960 	in the mall, cal ascends on an escalator.
 1030_Public_Enemies_00.12.51.087-00.12.58.059 	three men in fedoras and overcoats ascend a wide staircase, separated from each other by two center railings.
 1035_The_Adjustment_Bureau_00.51.33.994-00.51.43.441 	he pulls open a brass lobby door, and disappears into a midcentury high-rise, its window's number in the hundreds ascending into the sky, story after story after story.
 1039_The_Queen_00.15.42.989-00.15.49.299 	later, robin later slowly ascends some stairs.
-1062_Day_the_Earth_stood_still_00.01.59.543-00.02.09.316 	the climber carefully ascends a snowy slope.
 1062_Day_the_Earth_stood_still_00.01.59.543-00.02.09.316 	the climber carefully ascends a snowy slope.
 2027_Les_Miserables_01.34.31.078-01.34.31.805 	as he ascends the stairs, madame hucheloup tries to get him to give the tankards back.

@@ -1,6 +1,8 @@
-0008_Fargo_01.32.03.079-01.32.04.545 	One of them raps at the door.
-0011_Gandhi_00.14.11.453-00.14.12.215 	As he passes the sergeant, the sergeant takes his billy club, and faces the crowd, rapping the club menacingly against his hand.
-0030_The_Hustler_00.02.48.303-00.02.54.930 	But Eddie pats the corner pocket confidently, leans over, and raps out his shot.
-0030_The_Hustler_01.17.45.397-01.17.49.068 	He is shooting as he did at Ames, rapping in his shots with perfect control.
-0031_The_Lost_Weekend_01.26.43.765-01.26.46.338 	Still no answer and she raps on the door.
+0011_Gandhi_00.14.11.453-00.14.12.215 	as he passes the sergeant, the sergeant takes his billy club, and faces the crowd, rapping the club menacingly against his hand.
+0014_Ist_das_Leben_nicht_schoen_01.56.46.418-01.56.49.875 	george runs up the path to the front door of the house and raps on the door.
+0030_The_Hustler_00.02.48.303-00.02.54.930 	but eddie pats the corner pocket confidently, leans over, and raps out his shot.
+0030_The_Hustler_01.17.45.397-01.17.49.068 	he is shooting as he did at ames, rapping in his shots with perfect control.
+0031_The_Lost_Weekend_01.26.43.765-01.26.46.338 	still no answer and she raps on the door.
+0032_The_Princess_Bride_01.10.29.237-01.10.32.668 	they rap on the door.
+0038_Psycho_00.14.49.477-00.14.53.079 	the patrolman raps again, less gently.
 1010_TITANIC_00.24.38.877-00.24.41.135 	a black haired man raps his knuckles on the table.

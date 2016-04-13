@@ -1,4 +1,3 @@
 1008_Spider-Man2_00.47.08.190-00.47.10.326 	now, they detect a siren.
 1008_Spider-Man2_00.52.58.104-00.52.59.887 	one of the pincers detects something.
-1053_Harry_Potter_and_the_philosophers_stone_02.12.15.821-02.12.19.054 	quirrell flies through the air and detects harry who falls over backwards.
-1053_Harry_Potter_and_the_philosophers_stone_02.12.15.821-02.12.19.054 	quirrell flies through the air and detects harry who falls over backwards.
+1017_Bad_Santa_00.45.22.964-00.45.23.800 	detecting a possible sale, a saleswoman comes over to her.

@@ -1,64 +1,37 @@
 0007_DIE_NACHT_DES_JAEGERS_01.04.34.403-01.04.36.800 	he wakes her.
-0009_Forrest_Gump_02.07.28.212-02.07.30.383 	slowly she wakes up and looks at forrest.
-0012_Get_Shorty_01.14.23.160-01.14.34.477 	harry wakes up quick, nearly wets himself as bones then casually steps into the office.
 0017_Pianist_01.18.48.720-01.18.50.554 	voices wake him.
-0019_Pulp_Fiction_00.55.43.441-00.55.45.887 	jody, his wife, calls from the bedroom, obviously woken up.
-0019_Pulp_Fiction_01.08.05.354-01.08.07.605 	almost as soon as we cut to him, he wakes up with a start.
-0023_THE_BUTTERFLY_EFFECT_01.21.57.545-01.22.02.834 	kayleigh wakes up and screams when she sees blood spurt from tommy's throat.
 0023_THE_BUTTERFLY_EFFECT_01.47.12.332-01.47.16.051 	evan, twenty, wakes up with a bloody nose.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.18.31.962-02.18.35.148 	his eyes suddenly flicker and he wakes up.
 0026_The_Big_Fish_01.15.02.869-01.15.04.334 	she blinks slowly, just waking up.
 0026_The_Big_Fish_01.48.54.455-01.48.58.211 	still in his chair, will wakes up a bit at a time.
 0026_The_Big_Fish_01.49.00.192-01.49.02.157 	what woke him up?
-0028_The_Crying_Game_00.21.27.976-00.21.31.878 	maguire, walking out of the house, woken by the sound of laughter.
-0028_The_Crying_Game_01.35.56.922-01.36.04.964 	she ties them round both of fergus's feet, very gently, so as not to wake him.
-0028_The_Crying_Game_01.36.48.268-01.36.50.263 	she ties the other and is drawing it upward when he wakes.
 0030_The_Hustler_00.41.45.244-00.41.49.953 	he wakes up with a cramped neck.
-0049_Hannah_and_her_sisters_00.30.58.429-00.31.03.472 	the dark bedroom is abruptly lit as mickey, lying in his bed, wakes up with a start and turns on his night-table lamp.
-1001_Flight_00.01.04.391-00.01.09.090 	there's a naked man sleeping on his stomach wakes up.
 1005_Signs_00.46.52.839-00.46.54.238 	graham wakes up on the sofa.
 1006_Slumdog_Millionaire_00.21.34.960-00.21.37.720 	jamal wakes up.
 1006_Slumdog_Millionaire_00.24.30.280-00.24.32.747 	he wakes up.
 1006_Slumdog_Millionaire_00.29.25.608-00.29.26.740 	punnoose wakes up.
 1006_Slumdog_Millionaire_00.51.14.213-00.51.16.931 	salim wakes up.
-1009_Spider-Man3_01.19.57.486-01.20.03.897 	harry remembers falling and waking up in the hospital.
 1017_Bad_Santa_00.20.27.376-00.20.28.356 	he wakes him roughly.
-1018_Body_Of_Lies_00.24.17.546-00.24.26.227 	a doctor leans over ferris, who wakes.
 1024_Identity_Thief_01.09.30.524-01.09.37.404 	sandy wakes up and reaches for his neck.
-1026_Legion_00.55.56.252-00.55.59.645 	she wakes and looks around anxiously.
-1026_Legion_00.57.33.612-00.57.37.949 	audrey wakes up and runs to the office.
-1028_No_Reservations_00.13.05.701-00.13.11.179 	kate slowly wakes up and takes in her surroundings.
 1034_Super_8_01.34.28.480-01.34.30.200 	she wakes.
-1035_The_Adjustment_Bureau_00.15.17.813-00.15.21.802 	he wakes and turns off his alarm clock, which reads six o'clock.
-1037_The_Curious_Case_Of_Benjamin_Button_00.22.48.160-00.22.51.099 	queenie wakes him and rises primly to her feet.
 1037_The_Curious_Case_Of_Benjamin_Button_00.51.47.162-00.52.00.379 	very early, benjamin tiptoes into her room and wakes her.
-1037_The_Curious_Case_Of_Benjamin_Button_01.14.48.430-01.14.54.141 	when he wakes, people are milling around the lobby.
 1037_The_Curious_Case_Of_Benjamin_Button_02.23.34.547-02.23.39.644 	he wakes in a sleeping bag.
 1038_The_Great_Gatsby_00.22.54.752-00.23.01.737 	nick wakes up in his underwear, curled up on the porch swing outside his cottage.
 1040_The_Ugly_Truth_00.30.35.058-00.30.37.092 	abby wakes up from her naked weather-girl nightmare.
 1042_Up_In_The_Air_00.59.09.848-00.59.18.357 	ryan wakes up in bed.
-1046_Australia_01.47.49.744-01.48.01.096 	she wakes up in bed, frowns and then looks across at drover lying next to her and smiles, running a hand down his bearded cheek.
 1046_Australia_02.04.05.269-02.04.07.581 	nullah wakes up with a start.
 1047_Defiance_00.05.12.501-00.05.14.235 	asael wakes up.
 1048_Gran_Torino_00.20.58.413-00.21.00.176 	a noise wakes walt from his slumbers.
 1049_Harry_Potter_and_the_chamber_of_secrets_00.08.13.700-00.08.16.469 	asleep in bed harry suddenly wakes.
 1049_Harry_Potter_and_the_chamber_of_secrets_00.09.23.697-00.09.25.128 	the dursleys wake.
-1049_Harry_Potter_and_the_chamber_of_secrets_00.59.24.005-00.59.27.761 	late at night, harry is lying fast asleep when a strange noise wakes him.
 1049_Harry_Potter_and_the_chamber_of_secrets_02.16.13.614-02.16.14.884 	ginny suddenly wakes.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.41.52.578-00.41.57.088 	he wakes from his dream.
-1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.10.17.760-01.10.26.841 	in the tent, harry, his head resting on a table, wakes up.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.42.38.547-01.42.44.099 	she wakes.
 1053_Harry_Potter_and_the_philosophers_stone_02.14.08.439-02.14.13.509 	when harry wakes, he's in bed in the hospital wing.
 1055_Marley_and_me_00.15.43.875-00.15.50.273 	john wakes up in a cloud of feathers with marley licking his face.
-1057_Seven_pounds_01.39.55.923-01.40.02.701 	she twitches slightly but doesn't wake.
-1057_Seven_pounds_01.44.38.449-01.44.46.799 	ezra is woken by the ringing.
 1057_Seven_pounds_01.49.56.713-01.50.05.929 	emily's pager wakes her.
-1059_The_devil_wears_prada_01.28.37.687-01.28.52.820 	andy wakes up in his bed alone, and puts her hand to her head with a grimace.
 1062_Day_the_Earth_stood_still_01.34.11.169-01.34.13.975 	jacob wakes up.
-2012_Unbreakable_00.32.54.192-00.32.57.064 	joseph stirs but doesn't wake up.
 2017_Bad_Santa_00.11.57.975-00.11.59.288 	willie, in bed, blearily wakes to the insistent alarm.
 2034_Super_8_00.57.02.448-00.57.03.327 	he wakes up.
 2034_Super_8_01.35.00.891-01.35.05.199 	tina, a 24-year-old , disoriented woman with curlers in her hair, wakes up.
-2041_This_is_40_00.02.22.296-00.02.24.157 	he kisses sadie (13) as he wakes her.
-2051_Harry_Potter_and_the_goblet_of_fire_00.03.41.815-00.03.45.393 	a loud spell is cast and harry wakes up in a flash of panic.
 2051_Harry_Potter_and_the_goblet_of_fire_01.23.45.702-01.23.49.993 	harry wakes up.

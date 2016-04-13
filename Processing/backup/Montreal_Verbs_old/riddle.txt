@@ -1,0 +1,4 @@
+21_JUMP_STREET.srt 	21_JUMP_STREET_DVS583 	01:31:16,00 --> 01:31:23,50 	the bikers riddle the dea agents with bullet holes and they collapse side by side.
+COLOMBIANA.srt 	COLOMBIANA_DVS110 	00:08:58,00 --> 00:09:02,50 	more shots riddle her body.
+COLOMBIANA.srt 	COLOMBIANA_DVS983 	01:34:18,00 --> 01:34:24,50 	the shooting ceases and the bullet riddled man falls.
+PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS493 	01:33:21,00 --> 01:33:26,50 	he arrives and riddles someone with bullets.

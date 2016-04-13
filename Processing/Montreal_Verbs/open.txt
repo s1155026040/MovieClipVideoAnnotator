@@ -3,12 +3,9 @@
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS275 	00:47:46,00 --> 00:47:52,50 	now someone and his partner open the door to find the nerds on their stoop.
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS286 	00:49:34,00 --> 00:49:37,50 	in the hall, they open the door.
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS368 	01:00:53,00 --> 01:00:58,50 	he spots a laptop on a desk and opens it.
-21_JUMP_STREET.srt 	21_JUMP_STREET_DVS382 	01:04:52,00 --> 01:04:59,50 	sitting tensely behind him someone opens his desk drawer, then slams it.
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS539 	01:23:25,00 --> 01:23:38,50 	now, in slow motion the door of a white limousine opens, releasing doves.
-21_JUMP_STREET.srt 	21_JUMP_STREET_DVS553 	01:25:30,00 --> 01:25:41,50 	the teenager opens the doors of a suit to reveal coach someone who sits with a few piatas, watching tv and eating cool ranch doritos.
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS558 	01:26:23,00 --> 01:26:32,50 	he opens the door to reveal the one-percenter's leader the bearded biker and the swarthy hispanic biker.
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS585 	01:31:27,00 --> 01:31:34,50 	as the bikers reload, someone opens fire.
-30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS21 	00:03:50,00 --> 00:03:59,50 	that night sitting on a stoop, the shaggy-haired young man opens a bottle of beer, tosses the cap and takes a sip.
 30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS183 	00:47:51,00 --> 00:47:56,50 	someone opens a barred gate and enters the vault.
 30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS279 	01:05:09,00 --> 01:05:17,50 	he opens the door with the pen poised in his right hand, then cautiously steps out of the bedroom.
 30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS301 	01:07:39,00 --> 01:07:43,50 	he opens the drawer.
@@ -21,41 +18,32 @@
 500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS260 	00:48:15,00 --> 00:48:20,50 	he wanders slowly to open the front door.
 500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS339 	01:01:34,00 --> 01:01:40,50 	someone frantically packs away his headphones and opens a book.
 500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS376 	01:08:10,00 --> 01:08:17,50 	in expectations, someone opens the door, smiles, and kisses someone on the lips.
-500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS377 	01:08:24,00 --> 01:08:30,50 	in reality, she opens the door, gives him a friendly hug, and ushers him in.
 500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS379 	01:08:38,00 --> 01:08:44,50 	in reality, she opens the gift in silence.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS94 	00:08:16,00 --> 00:08:21,50 	inside the plane, the name atop a file reads, someone opens it.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS140 	00:13:20,00 --> 00:13:24,50 	as a policeman opens the truck, uniformed soldiers escort the prisoners out.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS335 	00:29:52,00 --> 00:29:58,50 	as the door opens, someone shoots the officers inside.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS405 	00:37:37,00 --> 00:37:43,50 	inside, someone opens a locker and digs through the content.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS568 	00:54:49,00 --> 00:54:55,50 	he sits on the floor and opens his jacket to look at his side.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS632 	01:05:36,00 --> 01:05:41,50 	he opens his mouth and shakes it.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS642 	01:06:29,00 --> 01:06:36,50 	another man opens the door completely to reveal a seemingly empty shelf.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS685 	01:10:20,00 --> 01:10:27,50 	someone opens an armored case, revealing two rows of metallic objects.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS858 	01:24:25,00 --> 01:24:32,50 	opening his eyes, someone sees the chopper shooting upward and losing control.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS889 	01:26:21,00 --> 01:26:30,50 	inside, someone kicks open a door to the flaming room.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS25 	00:05:57,00 --> 00:06:01,50 	someone opens a manuscript.
-A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS30 	00:07:45,00 --> 00:07:52,50 	one woman opens her eyes and peeks sideways at someone who sits in their midst.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS131 	00:28:33,00 --> 00:28:40,50 	someone mimes drinking a cup of espresso, then spreads his hands and opens his mouth wide.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS209 	00:40:15,00 --> 00:40:22,50 	he arches his eyebrows and opens his mouth as if to speak, then furrows his brow.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS213 	00:41:16,00 --> 00:41:22,50 	he chokes himself then opens and closes one hand like a jabbering mouth.
-A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS222 	00:43:22,00 --> 00:43:30,50 	at the coffee shop, someone mimes drinking, holding out his hands while opening his mouth wide, then pretends to pour something.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS232 	00:44:33,00 --> 00:44:37,50 	he opens a  desk drawer.
-A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS243 	00:47:06,00 --> 00:47:13,50 	smiling, someone takes the bag and opens it.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS251 	00:48:01,00 --> 00:48:08,50 	as the door opens, someone frowns.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS346 	01:00:25,00 --> 01:00:31,50 	he opens a family photo album and pages through the pictures.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS468 	01:20:50,00 --> 01:20:57,50 	back at the cemetery someone opens his eyes and stares at his father's headstone.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS39 	00:04:05,00 --> 00:04:09,50 	as the door opens wider.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS86 	00:09:47,00 --> 00:09:59,50 	someone kicks open the door and someone fires the retrieved bullet at pointblank range.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS109 	00:11:44,00 --> 00:11:49,50 	he opens it then turns his attention to a window.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS138 	00:17:08,00 --> 00:17:14,50 	now, light pours into a dark room as someone opens its door.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS190 	00:25:42,00 --> 00:26:00,50 	as the trapped hunter looks on, the vampire opens a gleaming straight razor, turns it over and touches the blade.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS259 	00:38:00,00 --> 00:38:06,50 	someone opens a carriage door and the man hands him his card.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS355 	00:50:47,00 --> 00:50:52,50 	someone opens the casket revealing someone inside.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS387 	00:54:10,00 --> 00:54:22,50 	someone kicks open the door and races in as a few survivors flee.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS435 	01:02:27,00 --> 01:02:36,50 	now, our view spirals from sideways to upright as a door opens and a tall, silhouetted figure strides through.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS477 	01:07:24,00 --> 01:07:31,50 	someone picks it up and opens it revealing someone's personalized inscription.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS504 	01:11:05,00 --> 01:11:11,50 	it opens as he walks out a man with a bearded chin.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS591 	01:21:44,00 --> 01:21:53,50 	he takes aim and reaches out to open it.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS596 	01:22:12,00 --> 01:22:46,50 	he opens a door behind the monster letting him fall away.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS650 	01:32:21,00 --> 01:32:29,50 	in the daytime, at a bustling military camp, someone opens a box filled with silver blades.
 BAD_TEACHER.srt 	BAD_TEACHER_DVS103 	00:28:28,00 --> 00:28:33,50 	she opens her wallet and writes out a check.
@@ -64,8 +52,6 @@ BAD_TEACHER.srt 	BAD_TEACHER_DVS297 	01:19:25,00 --> 01:19:34,50 	secretary open
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS96 	00:13:59,00 --> 00:14:03,50 	someone opens the door.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS226 	00:37:32,00 --> 00:37:37,50 	he opens the door and sees her in her nightgown.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS240 	00:39:05,00 --> 00:39:08,50 	he opens the door.
-BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS276 	00:47:51,00 --> 00:47:56,50 	he opens his magazine and gives it a shake.
-BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS284 	00:48:21,00 --> 00:48:27,50 	he opens a cd case, takes out a disc, and puts it in a stereo.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS513 	01:20:54,00 --> 01:21:01,50 	someone opens the door and they rush into the small utility room.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS608 	01:35:05,00 --> 01:35:10,50 	someone opens a window and climbs out.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS614 	01:35:41,00 --> 01:35:47,50 	as someone opens the box, someone enters and hides behind a bookshelf.
@@ -81,7 +67,6 @@ BURLESQUE.srt 	BURLESQUE_DVS138 	00:19:01,00 --> 00:19:05,50 	she opens her arms
 BURLESQUE.srt 	BURLESQUE_DVS190 	00:28:05,00 --> 00:28:12,50 	then opens his bedroom's french doors and steps out in jeans and a white tank.
 BURLESQUE.srt 	BURLESQUE_DVS343 	00:47:05,00 --> 00:47:11,50 	as the curtain continues to drop, she opens her mouth.
 BURLESQUE.srt 	BURLESQUE_DVS393 	00:54:24,00 --> 00:54:36,50 	she dances up the rest of the stairs to the platform where another curtain opens, revealing more dancers.
-BURLESQUE.srt 	BURLESQUE_DVS471 	01:04:57,00 --> 01:05:05,50 	as the other girls look on, she opens the present and pulls out a pair of louboutin shoes just like someone's.
 BURLESQUE.srt 	BURLESQUE_DVS553 	01:20:02,00 --> 01:20:09,50 	eyeing the daybed, she pauses briefly, then crosses to the french doors and opens them.
 BURLESQUE.srt 	BURLESQUE_DVS630 	01:34:43,00 --> 01:34:48,50 	now someone's wedding deejay opens a front door.
 BURLESQUE.srt 	BURLESQUE_DVS675 	01:44:59,00 --> 01:45:06,50 	he opens it and finds a check for $500,000.
@@ -89,21 +74,15 @@ BURLESQUE.srt 	BURLESQUE_DVS723 	01:49:05,00 --> 01:49:09,50 	he opens his mouth
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS53 	00:07:11,00 --> 00:07:21,50 	the bearded man's bottom lip quivers as the nazi officer opens the box and peers inside, his face illuminated by a bright blue light.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS101 	00:15:45,00 --> 00:15:51,50 	someone shakes rogers' hands then opens a folder.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS107 	00:17:54,00 --> 00:18:06,50 	as the officer opens the box and releases bright blue light, dr.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS138 	00:23:55,00 --> 00:24:03,50 	slowly, someone opens his eyes and sits up.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS209 	00:37:56,00 --> 00:38:02,50 	someone glances toward someone as he takes out a zippo lighter and opens it.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS254 	00:45:11,00 --> 00:45:21,50 	the futuristic weapon vaporizes two of the officers with beams of blue light, then swivels toward the last officer as he scrambles to open a locked door.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS316 	00:59:52,00 --> 00:59:59,50 	a nearby guard opens the door and peeks out.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS371 	01:07:17,00 --> 01:07:24,50 	the elevator opens revealing a single-person aircraft.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS468 	01:23:37,00 --> 01:23:47,50 	a hydra trooper wearing an armored suit and helmet enters someone' compartment and opens fire with a blaster.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS593 	01:41:28,00 --> 01:41:35,50 	someone forces open the cockpit hatch and pulls the eject handle.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS598 	01:42:13,00 --> 01:42:20,50 	someone opens the hatch and climbs out.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS599 	01:42:23,00 --> 01:42:32,50 	someone slowly opens a door and peers into the plane's spacious cockpit where a high-backed chair sits in front of a bank of windows.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS656 	01:49:52,00 --> 01:49:58,50 	she opens the folder, revealing a half-hidden photo.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS102 	00:07:53,00 --> 00:07:59,50 	he opens a blue cabinet and the top hinge breaks loose.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS113 	00:09:10,00 --> 00:09:16,50 	he opens the doors of a shed and pads inside barefoot.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS130 	00:10:45,00 --> 00:10:51,50 	the woman opens the doors of a well-stocked surf shed and walks to the back.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS388 	00:36:42,00 --> 00:36:47,50 	someone opens her door then turns on a shower.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS401 	00:37:29,00 --> 00:37:35,50 	someone takes a folded page from the teen and opens it.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS608 	00:58:36,00 --> 00:58:41,50 	opening it, she pauses and listens.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS672 	01:05:24,00 --> 01:05:29,50 	he opens it and flips through the pages.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS733 	01:12:55,00 --> 01:13:00,50 	sneering, he opens it and reads.
@@ -116,7 +95,6 @@ CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS389 	01:34:57,00 --> 01:35:01,50 	he opens
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS452 	01:46:48,00 --> 01:46:55,50 	elsewhere, a woman opens a door for someone and her children.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS494 	01:53:44,00 --> 01:53:51,50 	now inside her dark house, someone heads down a hallway and opens a door.
 COLOMBIANA.srt 	COLOMBIANA_DVS68 	00:04:35,00 --> 00:04:42,50 	one opens a door for him.
-COLOMBIANA.srt 	COLOMBIANA_DVS80 	00:05:41,00 --> 00:05:50,50 	someone turns over a framed family photo, removes a computer chip from under a piece of tape, then opens a drawer and rifles through it.
 COLOMBIANA.srt 	COLOMBIANA_DVS89 	00:06:57,00 --> 00:07:04,50 	he closes his eyes as he clutches his daughter, then opens them with a fearful look.
 COLOMBIANA.srt 	COLOMBIANA_DVS94 	00:07:24,00 --> 00:07:32,50 	moving past them, someone opens a back door.
 COLOMBIANA.srt 	COLOMBIANA_DVS239 	00:20:13,00 --> 00:20:17,50 	she opens it and finds it empty.
@@ -127,29 +105,22 @@ COLOMBIANA.srt 	COLOMBIANA_DVS376 	00:33:53,00 --> 00:33:59,50 	she slowly opens
 COLOMBIANA.srt 	COLOMBIANA_DVS381 	00:34:21,00 --> 00:34:27,50 	she slips in and opens a cabinet revealing circuit breakers.
 COLOMBIANA.srt 	COLOMBIANA_DVS382 	00:34:26,00 --> 00:34:33,50 	she sets the water on top then climbs a table and opens an air duct on the ceiling.
 COLOMBIANA.srt 	COLOMBIANA_DVS402 	00:35:51,00 --> 00:35:57,50 	doyle opens the cabinet as she works her shoulders through the fan.
-COLOMBIANA.srt 	COLOMBIANA_DVS419 	00:36:56,00 --> 00:37:03,50 	as the door opens, the unconscious someone sinks to his knees then falls face down.
-COLOMBIANA.srt 	COLOMBIANA_DVS429 	00:37:41,00 --> 00:37:47,50 	the hatchet faced criminal hastily opens his gaudy shirt.
 COLOMBIANA.srt 	COLOMBIANA_DVS437 	00:38:38,00 --> 00:38:45,50 	meanwhile, someone kicks open a grated vent cover leading her outside.
 COLOMBIANA.srt 	COLOMBIANA_DVS466 	00:40:54,00 --> 00:41:00,50 	agent someone opens it, revealing someone's chest.
-COLOMBIANA.srt 	COLOMBIANA_DVS488 	00:43:11,00 --> 00:43:17,50 	she opens a locker, and pulls out a purse and a travel bag.
 COLOMBIANA.srt 	COLOMBIANA_DVS521 	00:47:07,00 --> 00:47:14,50 	brushing back her long hair, she opens a brown paper bag.
 COLOMBIANA.srt 	COLOMBIANA_DVS545 	00:50:01,00 --> 00:50:09,50 	now an elevator opens and he steps out, toting a portfolio and a sack full of canvases.
 COLOMBIANA.srt 	COLOMBIANA_DVS604 	00:57:05,00 --> 00:57:11,50 	she opens a tall safe standing against a wall.
 COLOMBIANA.srt 	COLOMBIANA_DVS657 	01:01:45,00 --> 01:01:51,50 	opening his eyes, he smirks as he lifts his face from the flower.
 COLOMBIANA.srt 	COLOMBIANA_DVS714 	01:08:10,00 --> 01:08:16,50 	blinking her woeful eyes, she opens her mouth to speak
 COLOMBIANA.srt 	COLOMBIANA_DVS751 	01:12:16,00 --> 01:12:23,50 	as he leaves, she opens the paper and sees it's an old photo of herself with her parents.
-COLOMBIANA.srt 	COLOMBIANA_DVS813 	01:18:50,00 --> 01:18:55,50 	she turns on the shower then opens the birdcage.
 COLOMBIANA.srt 	COLOMBIANA_DVS874 	01:23:08,00 --> 01:23:13,50 	she finds one unlocked and opens it.
 COLOMBIANA.srt 	COLOMBIANA_DVS1058 	01:39:09,00 --> 01:39:16,50 	meanwhile, someone shifts his panicked eyes, then opens the compartment's panel.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS81 	00:12:30,00 --> 00:12:36,50 	now, someone opens the front door and enters a room veiled in shadow.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS136 	00:22:04,00 --> 00:22:09,50 	opening her mouth, she kisses him hungrily.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS212 	00:33:23,00 --> 00:33:29,50 	she gives him an envelope and he starts to open it.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS290 	00:45:08,00 --> 00:45:14,50 	his father opens the door and stands the carton upright.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS316 	00:48:50,00 --> 00:48:56,50 	behind him, the front door opens, and the couple enters.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS428 	01:04:01,00 --> 01:04:08,50 	back in afghanistan, a pallet drops from a plane, and a parachute opens above it.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS450 	01:06:08,00 --> 01:06:18,50 	later, a soldier opens a mailbag and searches its contents.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS532 	01:16:28,00 --> 01:16:34,50 	he sets one bag down, opens the screen door and heads inside.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS539 	01:16:57,00 --> 01:17:02,50 	he takes out a blue velvet box and opens it.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS689 	01:33:06,00 --> 01:33:10,50 	his mouth opens as if to speak.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS739 	01:37:46,00 --> 01:37:51,50 	he opens the screen door and steps outside.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS756 	01:39:13,00 --> 01:39:19,50 	outside, someone opens his trunk to reveal the collection.
@@ -176,11 +147,9 @@ EASY_A.srt 	EASY_A_DVS20 	00:05:00,00 --> 00:05:09,50 	sunday morning, someone r
 EASY_A.srt 	EASY_A_DVS100 	00:33:41,00 --> 00:33:47,50 	the eavesdroppers scatter as someone opens the door.
 EASY_A.srt 	EASY_A_DVS109 	00:36:37,00 --> 00:36:45,50 	someone bonds unto her bed and opens the box.
 EASY_A.srt 	EASY_A_DVS228 	01:11:59,00 --> 01:12:04,50 	she starts to open the passenger door, but he shuts it.
-EASY_A.srt 	EASY_A_DVS252 	01:16:56,00 --> 01:17:03,50 	she pulls it away, and opens the door.
 FLIGHT.srt 	FLIGHT_DVS34 	00:04:18,00 --> 00:04:22,50 	he pauses near one of the wheels, opens his mouth, and sprays some mouth freshener.
 FLIGHT.srt 	FLIGHT_DVS137 	00:26:16,00 --> 00:26:21,50 	in a hospital ward, someone slowly opens his right eye.
 FLIGHT.srt 	FLIGHT_DVS176 	00:38:55,00 --> 00:39:01,50 	he stops at a door marked stairwell, third floor, and opens it.
-FLIGHT.srt 	FLIGHT_DVS194 	00:45:53,00 --> 00:45:58,50 	someone opens a beer, and takes a swig.
 FLIGHT.srt 	FLIGHT_DVS228 	00:49:21,00 --> 00:49:26,50 	he opens a freezer, and finds a bottle of vodka.
 FLIGHT.srt 	FLIGHT_DVS687 	01:32:49,00 --> 01:32:54,50 	he picks it up and opens it.
 FLIGHT.srt 	FLIGHT_DVS777 	01:38:12,00 --> 01:38:17,50 	someone's ex-wife opens the door.
@@ -197,38 +166,31 @@ FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS387 	01:41:36,00 --> 01:41:4
 GET_HIM_TO_THE_GREEK.srt 	GET_HIM_TO_THE_GREEK_DVS15 	00:08:55,00 --> 00:09:00,50 	the sleazy man opens his cell.
 GET_HIM_TO_THE_GREEK.srt 	GET_HIM_TO_THE_GREEK_DVS29 	00:20:24,00 --> 00:20:29,50 	slender man opens the door.
 GET_HIM_TO_THE_GREEK.srt 	GET_HIM_TO_THE_GREEK_DVS126 	01:15:43,00 --> 01:15:47,50 	someone opens it.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS108 	00:17:24,00 --> 00:17:47,50 	someone opens the rear hatch of his suv, pulls out an enormous rifle and hands it off to his brutish henchman.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS124 	00:20:07,00 --> 00:20:26,50 	now he opens the cabinet and rummages through the drugs.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS133 	00:20:53,00 --> 00:21:01,50 	the heavyset thug stands nearby as someone opens someone's door and yanks him out.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS458 	01:06:34,00 --> 01:06:40,50 	someone opens the ambulance's back door.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS522 	01:14:23,00 --> 01:14:33,50 	someone opens his black bloodshot eyes.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS576 	01:23:07,00 --> 01:23:32,50 	he seizes someone by the head and brings his face close, his jaw opening wide.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS36 	00:08:29,00 --> 00:08:43,50 	someone removes his mask as two men open a pair of tall doors, letting sunlight flood into the room.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS201 	00:52:43,00 --> 00:52:46,50 	he opens a safe.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS226 	00:56:22,00 --> 00:56:27,50 	opens his backpack and a guard approaches someone.
-GREEN_ZONE.srt 	GREEN_ZONE_DVS245 	00:59:02,00 --> 00:59:16,50 	a guard opens a chain-linked gate for them and they turn a corner.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS291 	01:07:21,00 --> 01:07:30,50 	at the bottom, the lean man opens a door and peeks outside into a motionless alley.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS310 	01:10:26,00 --> 01:10:34,50 	an aide opens up and al-malik enters.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS473 	01:43:47,00 --> 01:44:30,50 	she opens the email which reads, let's get this story right this time.
 GROWN_UPS.srt 	GROWN_UPS_DVS76 	00:22:15,00 --> 00:22:21,50 	someone opens the door.
 HUGO.srt 	HUGO_DVS48 	00:05:46,00 --> 00:05:52,50 	the man releases the boy's arm then opens the notebook.
-HUGO.srt 	HUGO_DVS73 	00:09:33,00 --> 00:09:51,50 	the boy turns down a hallway then opens a metal door.
 HUGO.srt 	HUGO_DVS106 	00:14:16,00 --> 00:14:21,50 	someone throws open the doors and steps outside.
 HUGO.srt 	HUGO_DVS123 	00:15:50,00 --> 00:15:56,50 	a moment later, she opens the front door and steps outside.
 HUGO.srt 	HUGO_DVS138 	00:18:55,00 --> 00:19:02,50 	someone's father opens the automaton's shirt and exposes its interior mechanism.
-HUGO.srt 	HUGO_DVS167 	00:23:34,00 --> 00:23:41,50 	in the station, the brown-haired woman walks her little dog to the cafe and opens the door.
 HUGO.srt 	HUGO_DVS184 	00:26:03,00 --> 00:26:08,50 	meanwhile, someone opens the toyshop.
 HUGO.srt 	HUGO_DVS187 	00:26:44,00 --> 00:26:51,50 	as someone opens it, ashes and flakes of charred paper spill onto the floor.
 HUGO.srt 	HUGO_DVS273 	00:40:11,00 --> 00:40:18,50 	he opens the door.
 HUGO.srt 	HUGO_DVS372 	00:56:39,00 --> 00:56:46,50 	she opens it and gazes down at the drawing of the rocket striking the eye of the man in the moon.
 HUGO.srt 	HUGO_DVS382 	00:58:18,00 --> 00:58:24,50 	she opens the door then immediately closes it.
-HUGO.srt 	HUGO_DVS384 	00:58:33,00 --> 00:58:38,50 	someone pulls the door almost shut but immediately opens it.
 HUGO.srt 	HUGO_DVS387 	00:58:54,00 --> 00:59:01,50 	someone opens the armoire as someone places her ear against the door.
 HUGO.srt 	HUGO_DVS414 	01:01:12,00 --> 01:01:19,50 	someone's mouth opens as a drawing of the rocket crashing into the man in the moon drifts past.
 HUGO.srt 	HUGO_DVS438 	01:03:50,00 --> 01:03:57,50 	he pushes open a door to the train station, steps inside, then collides with the bookseller.
 HUGO.srt 	HUGO_DVS475 	01:09:20,00 --> 01:09:24,50 	someone opens it.
 HUGO.srt 	HUGO_DVS489 	01:11:52,00 --> 01:11:56,50 	someone's mouth opens.
-HUGO.srt 	HUGO_DVS518 	01:16:25,00 --> 01:16:31,50 	someone slides open a drawer and takes out a film canister.
 HUGO.srt 	HUGO_DVS555 	01:22:13,00 --> 01:22:19,50 	later, he lies on his back, his eyes still open.
 HUGO.srt 	HUGO_DVS596 	01:25:55,00 --> 01:26:04,50 	a gloved hand pushes open the man's coat revealing a flask in a vest pocket.
 HUGO.srt 	HUGO_DVS608 	01:27:32,00 --> 01:27:37,50 	she opens the front door.
@@ -245,21 +207,17 @@ IN_TIME.srt 	IN_TIME_DVS671 	01:12:42,00 --> 01:12:51,50 	someone opens a large 
 IN_TIME.srt 	IN_TIME_DVS980 	01:42:44,00 --> 01:42:53,50 	our view widens to reveal a broad row of pillared stone archways opening into the towering bank's courtyard.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS29 	00:06:42,00 --> 00:06:54,50 	a customer opens the door for the arriving painters.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS56 	00:15:43,00 --> 00:15:48,50 	the hostages divide into two groups standing of a wide alcove that opens to the vault.
-INSIDE_MAN.srt 	INSIDE_MAN_DVS71 	00:18:36,00 --> 00:18:41,50 	someone stops and opens the door, looking down near his feet.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS97 	00:25:14,00 --> 00:25:31,50 	a door opens.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS160 	00:47:19,00 --> 00:47:27,50 	she opens an office door and points to a row of
 INSIDE_MAN.srt 	INSIDE_MAN_DVS170 	00:48:29,00 --> 00:48:35,50 	he opens the next room.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS178 	00:51:19,00 --> 00:51:26,50 	an officer opens the barricade and a construction worker steps forward.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS180 	00:51:34,00 --> 00:51:39,50 	someone opens the door.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS261 	01:20:15,00 --> 01:20:41,50 	the mastermind opens the door revealing a group of hooded hostages seated on the floor.
-INSIDE_MAN.srt 	INSIDE_MAN_DVS262 	01:20:43,00 --> 01:21:07,50 	while someone looks around, the mastermind opens a third door.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS402 	01:54:17,00 --> 01:54:27,50 	he opens the front passenger door and hands his duffel bag to someone who passes it someone.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS407 	01:55:23,00 --> 01:55:29,50 	someone slides out the maroon drawer and opens it.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS410 	01:55:54,00 --> 01:55:59,50 	he opens up a note and reads.
-INSIDE_MAN.srt 	INSIDE_MAN_DVS411 	01:55:58,00 --> 01:56:13,50 	now, a valet holds open a door for mr. case as he enters his spacious study.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS424 	02:00:55,00 --> 02:01:12,50 	a door opens, spilling light into the room.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS43 	00:05:15,00 --> 00:05:31,50 	as the bay door opens, someone runs down a ramp and leaps out of the plane.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS116 	00:22:43,00 --> 00:22:48,50 	he takes out the envelope and opens it.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS186 	00:34:53,00 --> 00:34:58,50 	someone opens the right-rear door.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS192 	00:35:29,00 --> 00:35:38,50 	the case opens, converting into a condensed iron man suit.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS206 	00:37:44,00 --> 00:37:49,50 	an officer opens a door and someone enters a dim room.
@@ -273,7 +231,6 @@ IRON_MAN_2.srt 	IRON_MAN_2_DVS281 	00:52:24,00 --> 00:52:32,50 	she opens a comp
 IRON_MAN_2.srt 	IRON_MAN_2_DVS293 	00:54:20,00 --> 00:54:25,50 	someone closes his eyes, then opens them.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS359 	01:06:09,00 --> 01:06:18,50 	in the hangar, someone opens a storage room door.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS384 	01:12:50,00 --> 01:12:55,50 	at his house, someone opens the crate.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS387 	01:13:07,00 --> 01:13:13,50 	someone opens a round canister's lid and takes out a reel of film.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS458 	01:24:01,00 --> 01:24:10,50 	in the lab, he opens a wooden crate containing massive tubes.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS592 	01:41:32,00 --> 01:41:40,50 	someone opens the building's door and sprints inside.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS603 	01:43:47,00 --> 01:44:08,50 	at hammer industries, someone kicks open the door to someone's control room.
@@ -285,13 +242,11 @@ ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS147 	00:48:16,00 --> 00:48:22,50 	she hu
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS179 	00:57:34,00 --> 00:57:39,50 	smiling she opens her hands in his direction.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS192 	01:00:17,00 --> 01:00:23,50 	as she gazes at a door it open the door.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS265 	01:15:29,00 --> 01:15:35,50 	someone opens the door and peeks out then grins.
-ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS363 	01:41:54,00 --> 01:42:25,50 	someone gazes back at her then looks away and opens the driver side door.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS372 	01:43:42,00 --> 01:43:46,50 	someone opens the door and smiles.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS374 	01:44:02,00 --> 01:44:23,50 	she opens a door and finds someone, someone, and someone lying in bed together under a blanket.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS405 	01:53:11,00 --> 01:53:22,50 	someone steps outside and opens an umbrella.
 JACK_AND_JILL.srt 	JACK_AND_JILL_DVS160 	00:32:36,00 --> 00:32:41,50 	someone opens the door to a dower, clean cut man.
 JACK_AND_JILL.srt 	JACK_AND_JILL_DVS177 	00:34:55,00 --> 00:35:00,50 	opening the door, she finds it empty.
-JACK_AND_JILL.srt 	JACK_AND_JILL_DVS304 	00:58:35,00 --> 00:58:41,50 	he looks around then opens a door for some air.
 JACK_AND_JILL.srt 	JACK_AND_JILL_DVS354 	01:06:56,00 --> 01:07:00,50 	someone opens his arms inquisitively.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS27 	00:02:51,00 --> 00:02:59,50 	a concierge opens double doors to a courtyard.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS33 	00:03:39,00 --> 00:03:59,50 	she sets it down and opens its door.
@@ -303,8 +258,6 @@ JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS235 	00:44:08,00 --> 00:44:13,50 	openin
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS331 	01:04:17,00 --> 01:04:22,50 	someone opens a letter.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS434 	01:26:02,00 --> 01:26:08,50 	someone's concierge opens the front door as they approach.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS557 	01:49:54,00 --> 01:50:01,50 	someone opens up and shivers.
-JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS563 	01:50:24,00 --> 01:50:35,50 	she takes a seat on a cushion wicker bench, opens the envelope, and reads.
-JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS606 	01:57:14,00 --> 01:57:20,50 	opening her purse, she pulls out a pound of butter, and shows to the portrait.
 JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS260 	01:27:33,00 --> 01:27:46,50 	someone opens his arms.
 JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS296 	01:36:42,00 --> 01:36:48,50 	the elevator opens and someone freezes.
 KARATE_KID.srt 	KARATE_KID_DVS238 	00:20:46,00 --> 00:20:52,50 	the bathroom door opens, revealing someone with a cap tipped over his eyes.
@@ -317,9 +270,7 @@ KARATE_KID.srt 	KARATE_KID_DVS1129 	01:34:01,00 --> 01:34:08,50 	as someone open
 KARATE_KID.srt 	KARATE_KID_DVS1344 	01:48:39,00 --> 01:48:47,50 	someone opens the door.
 KNOCKED_UP.srt 	KNOCKED_UP_DVS138 	01:23:02,00 --> 01:23:07,50 	opens the front door and stares through red-rimmed eyes.
 LAND_OF_THE_LOST.srt 	LAND_OF_THE_LOST_DVS43 	00:15:17,00 --> 00:15:32,50 	he opens his eyes and blinks.
-LAND_OF_THE_LOST.srt 	LAND_OF_THE_LOST_DVS45 	00:15:43,00 --> 00:15:59,50 	slowly opening it, she looks around and gapes.
 LAND_OF_THE_LOST.srt 	LAND_OF_THE_LOST_DVS96 	00:31:49,00 --> 00:31:53,50 	someone breaks open a melon-like fruit.
-LARRY_CROWNE.srt 	LARRY_CROWNE_DVS61 	00:16:45,00 --> 00:16:50,50 	then opens a drawer and takes out a pill.
 LARRY_CROWNE.srt 	LARRY_CROWNE_DVS122 	00:28:28,00 --> 00:28:35,50 	she opens her mouth to speak, then strides off.
 LARRY_CROWNE.srt 	LARRY_CROWNE_DVS292 	01:10:18,00 --> 01:10:25,50 	still in her pajamas, she opens a windows blinds.
 LARRY_CROWNE.srt 	LARRY_CROWNE_DVS344 	01:19:36,00 --> 01:19:41,50 	driver side door opens someone places her heels on the ground
@@ -327,7 +278,6 @@ LARRY_CROWNE.srt 	LARRY_CROWNE_DVS351 	01:20:44,00 --> 01:20:48,50 	it opens.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS112 	00:13:19,00 --> 00:13:23,50 	so krishna opened his mouth.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS309 	00:39:14,00 --> 00:39:20,50 	reaching a door at the end of the corridor, he struggles to open it.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS448 	00:51:10,00 --> 00:51:22,50 	opening it, he finds a red booklet titled, "survival at sea" lying atop an array of supplies.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS490 	00:54:41,00 --> 00:54:47,50 	taking out small boxes, he chucks one in and opens the other.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS575 	01:03:53,00 --> 01:04:00,50 	someone opens his mouth wide in what appears to be a lazy yawn.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS982 	01:36:45,00 --> 01:36:51,50 	swimming forward, he opens his mouth wide and fills it with water.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS1017 	01:39:26,00 --> 01:39:32,50 	someone's eyes open up and he peeks over the branch.
@@ -347,11 +297,7 @@ MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS116 	00:19:11,00 --> 00:19:17,50
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS168 	00:24:05,00 --> 00:24:10,50 	opening the door, someone finds a wooden crate.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS183 	00:25:40,00 --> 00:25:45,50 	he opens a tin of sardines.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS199 	00:28:25,00 --> 00:28:29,50 	someone cracks open the door.
-MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS464 	00:55:10,00 --> 00:55:17,50 	in a flashback, young someone sits at the table with his parents and opens a gift.
-MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS466 	00:55:31,00 --> 00:55:38,50 	later, someone holds open the restaurant's door as someone walks outside.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS538 	01:04:35,00 --> 01:04:41,50 	now someone wipes snow off his laptop and opens it.
-MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS595 	01:10:30,00 --> 01:10:35,50 	opening it, he pulls out a letter and reads.
-MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS616 	01:15:03,00 --> 01:15:08,50 	someone opens a holding tank.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS621 	01:15:36,00 --> 01:15:41,50 	a guard opens the tank door
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS644 	01:18:15,00 --> 01:18:21,50 	someone fearfully opens his eyes, and gapes.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS20 	00:05:16,00 --> 00:05:23,50 	it waddles alongside her a few paces then opens its beak.
@@ -359,14 +305,11 @@ NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS45 	00:10:49,00 --> 00:10:53,5
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS60 	00:14:58,00 --> 00:15:07,50 	a third opens high above her.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS61 	00:15:14,00 --> 00:15:20,50 	her way to a shelf where a teapot's lid opens like a mouth.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS69 	00:16:24,00 --> 00:16:28,50 	he opens it.
-NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS118 	00:26:24,00 --> 00:26:28,50 	she looks at a window which opened.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS159 	00:36:23,00 --> 00:36:33,50 	someone hurries into someone's room and opens the wardrobe.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS223 	00:46:49,00 --> 00:46:54,50 	smiling, farmer someone opens the cart.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS242 	00:50:26,00 --> 00:50:39,50 	running to the car, she opens the passenger door and finds the backseat empty.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS269 	00:59:08,00 --> 00:59:25,50 	her lips pressed into a brisk smile, someone opens the envelope.
-NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS321 	01:11:09,00 --> 01:11:21,50 	the man looks into his nephew's unwavering eyes, then opens his mouth to speak.
 NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS113 	00:17:50,00 --> 00:17:54,50 	he opens his eyes.
-NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS249 	00:43:23,00 --> 00:43:30,50 	someone opens the lobby door and hurries upstairs holding a box of cupcakes.
 NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS250 	00:43:27,00 --> 00:43:32,50 	someone opens the apartment door
 NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS271 	00:49:06,00 --> 00:49:11,50 	he opens the passenger door for someone
 NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS273 	00:49:17,00 --> 00:49:23,50 	and then opens the door again, someone smiles - touched.
@@ -374,9 +317,7 @@ NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS508 	01:33:25,00 --> 01:33:31,50
 NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS548 	01:41:31,00 --> 01:41:38,50 	the door opens and she stares distastefully at an elderly gentleman.
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS65 	00:15:50,00 --> 00:15:54,50 	he opens his bag.
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS108 	00:28:07,00 --> 00:28:21,50 	as someone hops out and opens the side door, we glimpse a sign.
-PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS203 	00:50:55,00 --> 00:51:03,50 	opening it, he finds someone facing him with a coy smile.
 PROMETHEUS.srt 	PROMETHEUS_DVS183 	00:12:41,00 --> 00:12:45,50 	someone opens a pair of doors.
-PROMETHEUS.srt 	PROMETHEUS_DVS429 	00:43:32,00 --> 00:43:39,50 	as they take each other's hands amid the whirling shards, an outer door opens on the ship.
 PROMETHEUS.srt 	PROMETHEUS_DVS453 	00:47:53,00 --> 00:47:59,50 	the engineer's eyes twitch and open slightly.
 PROMETHEUS.srt 	PROMETHEUS_DVS479 	00:50:24,00 --> 00:50:31,50 	opening one,
 PROMETHEUS.srt 	PROMETHEUS_DVS722 	01:17:03,00 --> 01:17:09,50 	someone opens her mouth wide in a grief stricken wail.
@@ -392,14 +333,10 @@ PROMETHEUS.srt 	PROMETHEUS_DVS944 	01:44:25,00 --> 01:44:35,50 	reaching the esc
 PROMETHEUS.srt 	PROMETHEUS_DVS1024 	01:51:41,00 --> 01:51:45,50 	someone opens the air locked doors with her back and hand, then jumps out and lands in a hard roll.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS26 	00:04:30,00 --> 00:04:34,50 	someone opens the steel door.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS200 	00:38:06,00 --> 00:38:16,50 	it opens, revealing a young woman in a demure house dress, her strawberry blonde hair frames her face in a curly someone.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS258 	00:48:44,00 --> 00:49:19,50 	now, in a hotel room, he opens the suitcase, takes out his someone gun, and cocks it.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS258 	00:48:44,00 --> 00:49:19,50 	later, he opens a window and pulls the sheer curtains closed.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS258 	00:48:44,00 --> 00:49:19,50 	as he opens the door all the way, she seductively slides her hands up the porcelain, out of the water, then lifts one shapely leg and caresses the tub's rim with her foot.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS318 	01:01:17,00 --> 01:01:27,50 	carrying a mop and bucket, he crosses a hallway and waits for another guard to open the door.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS330 	01:02:45,00 --> 01:02:59,50 	as he opens the door, someone shoves him into max and his accomplice hits bryant with his pipe.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS334 	01:03:41,00 --> 01:04:03,50 	with his rifle raised, someone cautiously opens a metal door in the hallway.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS400 	01:17:30,00 --> 01:17:55,50 	with its doors still open, the car pulls out of the town square leaving the hostages lying helplessly in the street.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS430 	01:22:11,00 --> 01:22:21,50 	someone picks up his pocket watch off the nightstand, opens it, and admires a photo of someone on the inside of the cover.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS448 	01:26:06,00 --> 01:26:18,50 	someone stares, stunned, then opens a rear door.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS466 	01:29:11,00 --> 01:29:16,50 	someone kneels and opens fire.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS473 	01:29:47,00 --> 01:29:59,50 	agent hurt opens fire from uphill.
@@ -421,10 +358,8 @@ RUBY_SPARKS.srt 	RUBY_SPARKS_DVS165 	00:28:12,00 --> 00:28:17,50 	opening a draw
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS283 	00:44:16,00 --> 00:44:21,50 	someone opens the passenger door.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS310 	00:49:09,00 --> 00:49:17,50 	the gate opens automatically, revealing an abundance of shrubs and trees around a driveway.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS315 	00:50:05,00 --> 00:50:12,50 	someone's mom opens a wooden door and leads them pass more lush plant life.
-RUBY_SPARKS.srt 	RUBY_SPARKS_DVS654 	01:33:56,00 --> 01:34:03,50 	sitting at the desk, he opens a laptop and stares at its screen.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS661 	01:34:56,00 --> 01:35:03,50 	someone opens his new book, the girlfriend.
 SALT.srt 	SALT_DVS117 	00:22:06,00 --> 00:22:26,50 	someone opens a janitorial closet and removes a bottle from a cabinet.
-SALT.srt 	SALT_DVS229 	00:39:20,00 --> 00:39:44,50 	it opens as it lands and she takes a pad.
 SALT.srt 	SALT_DVS258 	00:45:18,00 --> 00:45:43,50 	at the curb, a secret service agent opens a car door.
 SALT.srt 	SALT_DVS370 	01:05:52,00 --> 01:06:01,50 	she strides across the room and opens several cases of weapons.
 SALT.srt 	SALT_DVS445 	01:16:57,00 --> 01:17:03,50 	and opens it and presses his thumb on a fingerprint scanner inside.
@@ -435,7 +370,6 @@ SANCTUM.srt 	SANCTUM_DVS339 	01:07:44,00 --> 01:07:52,50 	someone spots a ledge 
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS124 	00:08:19,00 --> 00:08:25,50 	now huddled by the window, someone opens the note.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS145 	00:09:42,00 --> 00:09:47,50 	a pretty, young woman opens the window and the girl ducks down.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS275 	00:18:44,00 --> 00:18:50,50 	she opens a fan with writing on it.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS460 	00:30:16,00 --> 00:30:23,50 	now, someone opens a jewelry box drawer and takes out a paper fan.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS502 	00:32:40,00 --> 00:32:50,50 	now, someone pushes open a gate's wooden doors.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS549 	00:36:45,00 --> 00:36:54,50 	the image dissolves to someone as she opens the fan to the many columns of chinese lettering in its folds.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS561 	00:37:36,00 --> 00:37:41,50 	she opens it and begins to read.
@@ -458,7 +392,6 @@ SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS51 	00:10:42,00 --> 00:10:57,5
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS115 	00:22:23,00 --> 00:22:43,50 	as he opens the fridge and peeks inside, someone watches from the other room.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS125 	00:24:13,00 --> 00:24:19,50 	open a door and leads the others onto a subway platform.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS202 	00:38:31,00 --> 00:38:35,50 	someone opens the big book.
-SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS252 	00:50:38,00 --> 00:50:49,50 	opening it, he pulls a canvas bag from compartment, reaches inside, and pulls out a roll of muslin.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS274 	00:56:07,00 --> 00:56:12,50 	someone opens his mouth to speak.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS421 	01:29:16,00 --> 01:29:22,50 	she opens her exotic eyes to reveal glowing pupils.
 SOUL_SURFER.srt 	SOUL_SURFER_DVS108 	00:37:38,00 --> 00:37:44,50 	someone hurry around to open her door.
@@ -468,33 +401,23 @@ SPARKLE_2012.srt 	SPARKLE_2012_DVS38 	00:06:56,00 --> 00:07:07,50 	a young woman
 SPARKLE_2012.srt 	SPARKLE_2012_DVS107 	00:17:38,00 --> 00:17:44,50 	she opens the window and props it up with a thick red book.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS133 	00:21:43,00 --> 00:21:47,50 	she opens her eyes.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS151 	00:26:03,00 --> 00:26:11,50 	she opens the box, revealing a small black and white picture of a ring where the ring should be.
-SPARKLE_2012.srt 	SPARKLE_2012_DVS165 	00:27:56,00 --> 00:28:02,50 	as someone opens the door for her, someone looks back at someone.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS268 	00:41:41,00 --> 00:41:48,50 	as someone glances at his lilies, sister opens the box to find a diamond ring.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS343 	00:56:32,00 --> 00:56:39,50 	as someone leaves, sister opens her compact and lines cocaine on the mirror.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS513 	01:22:59,00 --> 01:23:05,50 	someone opens her arms before the packed church.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS569 	01:33:36,00 --> 01:33:40,50 	someone opens the door.
-SUPER_8.srt 	SUPER_8_DVS79 	00:12:24,00 --> 00:12:30,50 	opening a tackle box holding makeup, someone stands in front of someone.
 SUPER_8.srt 	SUPER_8_DVS242 	00:41:20,00 --> 00:41:26,50 	a car salesman opens the hoods of cars missing their engines.
-SUPER_8.srt 	SUPER_8_DVS320 	00:57:11,00 --> 00:57:16,50 	someone opens his window for someone who stands outside.
-SUPER_8.srt 	SUPER_8_DVS332 	00:59:17,00 --> 00:59:24,50 	sitting in front of a christmas tree, the boy opens presents as the woman puts on her necklace.
 SUPER_8.srt 	SUPER_8_DVS398 	01:12:18,00 --> 01:12:24,50 	a soldier griping a rifle opens the door.
 SUPER_8.srt 	SUPER_8_DVS416 	01:14:41,00 --> 01:14:47,50 	someone opens the doors revealing film reels and other items.
 SUPER_8.srt 	SUPER_8_DVS459 	01:20:55,00 --> 01:21:03,50 	with a furrowed brow the driver glances back at someone then reaches for the handle and opens the bus door.
 SUPER_8.srt 	SUPER_8_DVS471 	01:22:22,00 --> 01:22:27,50 	someone tries to open the cell door.
 SUPER_8.srt 	SUPER_8_DVS567 	01:34:27,00 --> 01:34:31,50 	someone opens her eyes.
 SUPER_8.srt 	SUPER_8_DVS623 	01:41:14,00 --> 01:41:19,50 	someone opens his eyes and steps back.
-SUPER_8.srt 	SUPER_8_DVS626 	01:41:32,00 --> 01:41:40,50 	someone stares at the locket which opens revealing a photograph of someone's brunette mother holding someone as a baby.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS60 	00:08:47,00 --> 00:08:54,50 	slipping off his jacket, someone walks into a home office and opens a desk drawer.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS104 	00:14:36,00 --> 00:14:41,50 	someone opens the case and removes the ship.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS114 	00:17:25,00 --> 00:17:32,50 	as someone takes out his key, snowy noses opens open someone's apartment door.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS120 	00:18:13,00 --> 00:18:20,50 	moving to a lamp, someone unscrews the tube, opens it and pulls out a slip of paper.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS189 	00:28:02,00 --> 00:28:08,50 	he shoves the crate against the wall, climbs onto it and opens a porthole.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS191 	00:28:17,00 --> 00:28:23,50 	outside the burly thug tries to open the cargo hold, but the wheel won't turn.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS212 	00:31:10,00 --> 00:31:16,50 	someone opens the cabin door then peers at the captain.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS216 	00:31:39,00 --> 00:31:45,50 	the captain opens his door and punches out the attacker.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS238 	00:36:36,00 --> 00:36:41,50 	he opens the door to a store room filled with liquor bottles.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS269 	00:39:43,00 --> 00:39:51,50 	someone leaps over a railing then ducks between crates as a thug opens fire with a machine gun.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS351 	00:53:43,00 --> 00:53:50,50 	he opens the plane's side door, looks down and shuts the door again.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS352 	00:53:58,00 --> 00:54:04,50 	setting his jaw, someone opens the door and slips outside.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS357 	00:54:30,00 --> 00:54:35,50 	straddling the engine, someone opens the gas tank,
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS367 	00:55:19,00 --> 00:55:26,50 	his parachute opens and drags him backward, but he clings to the plane's tail.
@@ -505,11 +428,7 @@ THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS454 	01:06:23,00 --> 0
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS28 	00:06:20,00 --> 00:06:27,50 	as someone faintly smiles, the stairwell door opens.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS57 	00:13:18,00 --> 00:13:26,50 	he opens the door to his dimly lit apartment.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS78 	00:17:44,00 --> 00:17:49,50 	the next day he arrives at school and opens the doors which have been decorated with paper snowflakes.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS251 	00:48:02,00 --> 00:48:08,50 	she opens it and looks in.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS256 	00:49:01,00 --> 00:49:10,50 	someone opens the door and gawks.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS263 	00:50:25,00 --> 00:50:40,50 	sitting alone inside someone brushes her bangs out of her face, then glances at the door as it opens.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS300 	00:57:42,00 --> 00:57:51,50 	she pushes the door open a crack and someone takes a look inside.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS332 	01:04:23,00 --> 01:04:45,50 	he stares at the daunting stack of folders and assignment books for a moment then turns on a lamp and opens up his laptop.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS64 	00:12:18,00 --> 00:12:40,50 	he opens a gate.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS65 	00:12:42,00 --> 00:12:47,50 	someone groggily opens his eyes.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS69 	00:13:45,00 --> 00:13:53,50 	the bounty hunter opens it and finds someone's mugshot.
@@ -520,7 +439,6 @@ THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS227 	00:44:53,00 --> 00:44:58,50 	he
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS251 	00:48:25,00 --> 00:48:31,50 	as he opens the door, someone lies down and mimes a yawn.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS264 	00:49:53,00 --> 00:50:08,50 	one opens behind her and she hurries aboard, shoes in hand.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS264 	00:49:53,00 --> 00:50:08,50 	another elevator opens and the chiseled thug strides out.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS301 	00:54:44,00 --> 00:54:51,50 	someone sheepishly opens his door and takes his seat at the wheel.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS327 	01:00:04,00 --> 01:00:08,50 	he opens the covered bed.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS397 	01:15:30,00 --> 01:15:36,50 	someone starts to open her mouth, then shakes her head and smiles.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS401 	01:15:50,00 --> 01:15:57,50 	someone opens the door, revealing a narrow four-post bed on a lavender carpet.
@@ -530,10 +448,8 @@ THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS472 	01:25:55,00 --> 01:26:13,50 	no
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS480 	01:26:50,00 --> 01:27:05,50 	she undoes the lock, opens the door, and finds someone inside.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS496 	01:29:31,00 --> 01:29:37,50 	outside, someone shoots the lock of someone's trunk and opens it.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS534 	01:37:16,00 --> 01:37:23,50 	someone opens a nearby gate.
-THE_CALL.srt 	THE_CALL_DVS109 	00:08:20,00 --> 00:08:32,50 	the intruder walks down the upstairs hall and opens one of the doors.
 THE_CALL.srt 	THE_CALL_DVS144 	00:11:40,00 --> 00:11:47,50 	she opens a door marked quiet room and bursts in on a lounging coworker.
 THE_CALL.srt 	THE_CALL_DVS186 	00:15:02,00 --> 00:15:06,50 	she opens them and exhales.
-THE_CALL.srt 	THE_CALL_DVS277 	00:24:26,00 --> 00:24:33,50 	opening her eyes, the dazed teen faces the interior of a car's trunk.
 THE_CALL.srt 	THE_CALL_DVS466 	00:36:00,00 --> 00:36:14,50 	the kidnapper drives along as someone pries open a paint can with a screw driver.
 THE_CALL.srt 	THE_CALL_DVS654 	00:50:51,00 --> 00:50:56,50 	he rushes back around the car and opens the gas cap.
 THE_CALL.srt 	THE_CALL_DVS667 	00:52:04,00 --> 00:52:11,50 	to the right of the hood, the attendant opens boxes of motor oil with a box cutter.
@@ -558,25 +474,20 @@ THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS472 	00:
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS568 	01:03:02,00 --> 01:03:11,50 	someone opens the first and leafs through pages of plastic sleeved contact sheets.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS570 	01:03:21,00 --> 01:03:28,50 	now, someone opens his apartment door to find someone in the hallway with her head bowed.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS696 	01:16:51,00 --> 01:17:00,50 	she opens the door a crack and peeks out, but someone yanks it wide open.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS703 	01:17:37,00 --> 01:17:47,50 	meanwhile, someone opens a dresser drawer, takes out her taser and stuffs it in her back pocket.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS706 	01:17:58,00 --> 01:18:06,50 	someone opens the door.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS804 	01:32:26,00 --> 01:32:33,50 	she sits beside him on the couch as he puts on his glasses and opens the album.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS914 	01:41:53,00 --> 01:41:58,50 	now a file folder opens on a laptop screen.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS963 	01:46:46,00 --> 01:46:52,50 	she opens another labeled 1957.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS973 	01:47:20,00 --> 01:47:26,50 	then opens a spreadsheet charting the serial murder details.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1037 	01:51:16,00 --> 01:51:22,50 	we watch from outside as he goes to the bedroom and peeks through a partially opened door.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1054 	01:52:11,00 --> 01:52:17,50 	he cautiously approaches the room, opens its glass door and enters.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1073 	01:53:14,00 --> 01:53:21,50 	someone gets out of his suv and opens one of its back doors.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1085 	01:53:50,00 --> 01:53:56,50 	someone opens the bedroom door and slips out.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1133 	01:58:30,00 --> 01:58:35,50 	the door swings open into a dark space.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1362 	02:26:26,00 --> 02:26:30,50 	she opens her purse.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1405 	02:31:04,00 --> 02:31:10,50 	turning his back to the tv he opens a newspaper.
 THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS58 	00:16:43,00 --> 00:16:51,50 	in his room, someone opens his laptop and types "j&r advertising" into a bing search engine.
 THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS116 	00:42:44,00 --> 00:42:51,50 	someone opens her mouth as if to say something else, but stops herself.
 THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS252 	01:23:52,00 --> 01:23:57,50 	a man in his thirties opens the door.
 THE_SITTER.srt 	THE_SITTER_DVS28 	00:13:48,00 --> 00:13:53,50 	someone opens the door to a pair of redheaded twins.
 THE_SITTER.srt 	THE_SITTER_DVS155 	01:16:13,00 --> 01:16:17,50 	he opens side door for her.
-THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS96 	00:31:07,00 --> 00:31:35,50 	spinning around, he takes a seat and opens it.
 THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS198 	01:19:46,00 --> 01:19:52,50 	then someone opens the fridge.
 THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS223 	01:29:38,00 --> 01:29:45,50 	someone opens the door and finds someone outside in the rain.
 THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS292 	01:47:52,00 --> 01:47:59,50 	guest opens the door to two policemen.
@@ -616,7 +527,6 @@ THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS376 	01:29:28,00 --> 01:29:35,50 	she 
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS383 	01:30:36,00 --> 01:30:41,50 	someone opens his mouth as if to speak.
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS393 	01:34:10,00 --> 01:34:14,50 	she opens her mouth.
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS411 	01:36:06,00 --> 01:36:14,50 	he uncomfortably averts his eyes, then opens the driver's side door and a businessman climbs out.
-THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS455 	01:44:59,00 --> 01:45:07,50 	someone opens and holds out a jewelry box.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS22 	00:03:05,00 --> 00:03:29,50 	the briefcase of money opens as it hits the ground.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS281 	00:52:26,00 --> 00:52:31,50 	someone starts to open it.
 THOR.srt 	THOR_DVS36 	00:04:04,00 --> 00:04:12,50 	at the head of an army of bare chested humanoids, one frost giant opens a box which emits and icy blue light.
@@ -624,7 +534,6 @@ THOR.srt 	THOR_DVS43 	00:04:50,00 --> 00:05:00,50 	the giant's leader opens his 
 THOR.srt 	THOR_DVS113 	00:16:48,00 --> 00:16:57,50 	an elongated pyramid atop the dome tilts toward the horizon and opens like a flower.
 THOR.srt 	THOR_DVS224 	00:30:10,00 --> 00:30:15,50 	lying on the ground, someone opens his eyes.
 THOR.srt 	THOR_DVS336 	00:50:01,00 --> 00:50:09,50 	he crosses the room and selects a book from a cart, then puts it down and opens a thicker volume beside it.
-THOR.srt 	THOR_DVS403 	01:00:43,00 --> 01:00:51,50 	in the dark research lab, someone holds open a book with an illustration of someone's hammer.
 THOR.srt 	THOR_DVS441 	01:11:28,00 --> 01:11:33,50 	she jumps up and opens the door to her mobile home.
 THOR.srt 	THOR_DVS455 	01:14:06,00 --> 01:14:12,50 	someone opens the journal to a sketch of stars and planets.
 THOR.srt 	THOR_DVS486 	01:20:25,00 --> 01:20:36,50 	someone raised his sword, but someone unveils the casket and opens it.
@@ -636,7 +545,6 @@ TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS461 	00:49:54,00 --> 00:49:58,50 	someone opens 
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS484 	00:52:51,00 --> 00:52:56,50 	he opens a display pouch and shows magic supplies.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS545 	01:00:11,00 --> 01:00:20,50 	later, a door to the rink opens.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS649 	01:11:44,00 --> 01:11:49,50 	opening up, he finds someone outside.
-TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS735 	01:20:48,00 --> 01:20:57,50 	as someone watches soberly, a sparkling swirling vortex opens just beneath the ceiling.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS792 	01:24:44,00 --> 01:24:50,50 	opening his eyes, he flourishes the wand and sparkling light trails from its tip.
 TRUE_GRIT.srt 	TRUE_GRIT_DVS40 	00:05:50,00 --> 00:05:54,50 	the trap door opens.
 TRUE_GRIT.srt 	TRUE_GRIT_DVS230 	00:48:28,00 --> 00:48:34,50 	someone opens his coat revealing his pistol holstered at his side.
@@ -662,7 +570,6 @@ WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS481 	01:14:54,00 --> 01:14:57,50 	he ope
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS586 	01:29:49,00 --> 01:29:55,50 	spar opens his eyes a slit and blinks heavily.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS623 	01:32:34,00 --> 01:32:42,50 	someone imagines her opening her eyes, her chest rises and falls beneath the sheet.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS680 	01:39:17,00 --> 01:39:23,50 	now, someone arrives at someone's enclosure and opens the gate.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS682 	01:39:31,00 --> 01:39:37,50 	opening the gate again, she turns the key extending a deadbolt.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS751 	01:47:27,00 --> 01:47:35,50 	elsewhere, someone opens a flask in his living quarters and finds the vessel empty.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS825 	01:55:35,00 --> 01:55:50,50 	and someone opens his mouth.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS58 	00:04:51,00 --> 00:04:57,50 	now an elevator opens and someone hurries out.
@@ -674,11 +581,9 @@ WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS219 	00:27:42,00 --> 00:27:48,50 	so
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS229 	00:29:12,00 --> 00:29:16,50 	he opens the door.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS287 	00:40:25,00 --> 00:40:31,50 	with a wide grin, someone opens her mouth to speak.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS312 	00:44:14,00 --> 00:44:22,50 	in a flashback, a teenaged someone with chin-length hair and bangs opens her front door.
-WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS467 	01:05:55,00 --> 01:06:00,50 	he opens her shirt, looks at her naked body,
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS138 	00:08:55,00 --> 00:09:01,50 	keeping an arm around the boy, he opens the lab door.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS245 	00:18:53,00 --> 00:19:00,50 	it opens up on a warmly lit study furnished in polished wood and brown leather.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS254 	00:19:38,00 --> 00:19:44,50 	the man opens his hand, producing a miniature cyclone.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS442 	00:39:02,00 --> 00:39:08,50 	he opens it and pulls out a sleek shiny helmet the color of pewter
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS453 	00:39:52,00 --> 00:39:57,50 	opening the door, she heads into the submarine bridge.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS514 	00:47:20,00 --> 00:47:25,50 	the warden opens a cell.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS530 	00:48:45,00 --> 00:48:52,50 	she opens a small metal box on a desk and pushes a button inside.
@@ -701,7 +606,6 @@ YOUNG_ADULT.srt 	YOUNG_ADULT_DVS91 	00:13:20,00 --> 00:13:25,50 	inside a conven
 YOUNG_ADULT.srt 	YOUNG_ADULT_DVS124 	00:22:34,00 --> 00:22:41,50 	she opens a bottle of diet soda and clutches it with both hands as she drinks.
 YOUNG_ADULT.srt 	YOUNG_ADULT_DVS174 	00:33:40,00 --> 00:33:45,50 	someone's sister opens the door.
 YOUNG_ADULT.srt 	YOUNG_ADULT_DVS183 	00:34:52,00 --> 00:35:00,50 	he opens the garage door revealing an elaborate contraption of pipes, hoses, tanks, valves, and buckets.
-YOUNG_ADULT.srt 	YOUNG_ADULT_DVS203 	00:39:01,00 --> 00:39:08,50 	back in her hotel, someone opens her bathroom door and turns on the light.
 YOUNG_ADULT.srt 	YOUNG_ADULT_DVS217 	00:40:42,00 --> 00:40:47,50 	someone opens one book and signs the title page.
 YOUNG_ADULT.srt 	YOUNG_ADULT_DVS383 	01:14:06,00 --> 01:14:11,50 	someone covers her face as the garage door opens.
 YOUNG_ADULT.srt 	YOUNG_ADULT_DVS421 	01:21:17,00 --> 01:21:23,50 	she opens her eyes and glances at him then slowly slides out of bed.
@@ -718,6 +622,5 @@ ZOMBIELAND.srt 	ZOMBIELAND_DVS734 	01:19:32,00 --> 01:19:38,50 	as they separate
 ZOOKEEPER.srt 	ZOOKEEPER_DVS29 	00:04:40,00 --> 00:04:46,50 	he unlocks a door which opens at the pit's floor level.
 ZOOKEEPER.srt 	ZOOKEEPER_DVS42 	00:07:03,00 --> 00:07:07,50 	he opens a drawer and rifles through it.
 ZOOKEEPER.srt 	ZOOKEEPER_DVS344 	01:16:54,00 --> 01:17:04,50 	later, someone slides open the door to someone's enclosure and peers inside.
-ZOOKEEPER.srt 	ZOOKEEPER_DVS347 	01:17:54,00 --> 01:18:14,50 	shrugging his hands, the former zookeeper opens his mouth to speak then licks his lips and takes a step toward the door.
 ZOOKEEPER.srt 	ZOOKEEPER_DVS360 	01:20:51,00 --> 01:21:00,50 	as he draws closer, he opens his mouth.
 ZOOKEEPER.srt 	ZOOKEEPER_DVS379 	01:23:59,00 --> 01:24:04,50 	she opens a velvet box.

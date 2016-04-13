@@ -1,10 +1,10 @@
-0011_Gandhi_00.16.23.815-00.16.25.236 	A small, round ayah (an Indian nursemaid) pushes open the door and proudly admits her charges, Gandhi's sons: Harilal (ten), Manilal (six) and Ramdas (two).
-0017_Pianist_00.24.27.196-00.24.32.584 	To one of his boys: Symche - The boy opens the door to admit a short, neat man, MAJOREK.
-0021_Rear_Window_00.22.04.066-00.22.22.368 	She goes to the door, opens it, and in pantomime admits an imaginary caller.
-0021_Rear_Window_00.52.25.072-00.52.26.175 	He opens it, and after a short exchange of dialogue, he admits the two men, leaving the door open behind them.
-0021_Rear_Window_01.05.53.680-01.05.57.003 	The first four of the song-writer's guests come through the door, admitted by the song-writer's girl friend.
-0026_The_Big_Fish_00.20.25.665-00.20.28.239 	On the sidelines, a PRETTY GIRL admits the name of her secret love.
-0026_The_Big_Fish_00.35.58.155-00.35.59.543 	Embarrassed to admit it.
-0033_Amadeus_01.32.17.939-01.32.21.006 	Lorl is opening the door admitting Salieri.
-0033_Amadeus_01.54.59.631-01.55.01.726 	He opens the door wide to admit Schikaneder and the girls.
+0011_Gandhi_00.16.23.815-00.16.25.236 	a small, round ayah (an indian nursemaid) pushes open the door and proudly admits her charges, gandhi's sons: harilal (ten), manilal (six) and ramdas (two).
+0017_Pianist_00.24.27.196-00.24.32.584 	to one of his boys: symche - the boy opens the door to admit a short, neat man, majorek.
+0021_Rear_Window_00.22.04.066-00.22.22.368 	she goes to the door, opens it, and in pantomime admits an imaginary caller.
+0021_Rear_Window_00.52.25.072-00.52.26.175 	he opens it, and after a short exchange of dialogue, he admits the two men, leaving the door open behind them.
+0021_Rear_Window_01.05.53.680-01.05.57.003 	the first four of the song-writer's guests come through the door, admitted by the song-writer's girl friend.
+0026_The_Big_Fish_00.20.25.665-00.20.28.239 	on the sidelines, a pretty girl admits the name of her secret love.
+0026_The_Big_Fish_00.35.58.155-00.35.59.543 	embarrassed to admit it.
+0033_Amadeus_01.32.17.939-01.32.21.006 	lorl is opening the door admitting salieri.
+0033_Amadeus_01.54.59.631-01.55.01.726 	he opens the door wide to admit schikaneder and the girls.
 1062_Day_the_Earth_stood_still_00.10.39.470-00.10.44.391 	military vehicles and personnel maneuver as gates open to admit them.

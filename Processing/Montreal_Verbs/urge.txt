@@ -1,11 +1,3 @@
-21_JUMP_STREET.srt 	21_JUMP_STREET_DVS594 	01:32:30,00 --> 01:32:36,50 	someone urges someone to scram and takes someone with them.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS395 	00:36:04,00 --> 00:36:08,50 	landing first, someone urges the two older men onward.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS402 	00:37:05,00 --> 00:37:11,50 	someone shifts his exasperated gaze as his son helps someone to his feet and urges him onward.
-BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS265 	00:44:55,00 --> 00:45:01,50 	someone and someone grab his arms and urge him to his feet.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS652 	01:02:42,00 --> 01:02:48,50 	as the creature swims away, the mentor grabs the teen and urges him up toward the surface.
 JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS206 	01:12:21,00 --> 01:12:26,50 	someone urges someone to intervene.
-KARATE_KID.srt 	KARATE_KID_DVS1111 	01:32:22,00 --> 01:32:29,50 	her instructor urges the girl forward, then takes a seat near the back of the house.
 KARATE_KID.srt 	KARATE_KID_DVS1423 	01:54:47,00 --> 01:55:00,50 	someone urges someone toward another mat.
-MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS449 	00:52:34,00 --> 00:52:40,50 	someone urges a penguin back to reveal her egg.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS102 	00:26:01,00 --> 00:26:05,50 	someone flees, urging his goateed
-THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS484 	01:24:53,00 --> 01:25:05,50 	they both beacon someone, urging her to clear out of the way.

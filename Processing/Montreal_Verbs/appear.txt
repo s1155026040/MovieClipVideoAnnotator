@@ -5,13 +5,10 @@
 40_YEAR_OLD_VIRGIN.srt 	40_YEAR_OLD_VIRGIN_DVS226 	01:50:32,00 --> 01:50:42,50 	words appear one minute later.
 40_YEAR_OLD_VIRGIN.srt 	40_YEAR_OLD_VIRGIN_DVS230 	01:51:05,00 --> 01:51:19,50 	words appear two hours later.
 500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS306 	00:54:25,00 --> 00:54:32,50 	the word "fin" appears on the black screen.
-500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS374 	01:07:58,00 --> 01:08:05,50 	expectations appears as a subtitle on a split screen as someone climbs the stairs.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS308 	00:44:33,00 --> 00:44:45,50 	the vampire appears and someone dodges a swipe.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS438 	01:03:05,00 --> 01:03:25,50 	as a canon fires, words appear: fort sumter, 1861.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS680 	01:37:15,00 --> 01:37:25,50 	as the carriage fades away, the finished washington monument appears in the distance.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS95 	00:13:53,00 --> 00:13:58,50 	someone appears at the window.
-BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS115 	00:15:58,00 --> 00:16:05,50 	someone appears and shoots someone in the leg.
-BRUNO.srt 	BRUNO_DVS220 	01:01:31,00 --> 01:01:44,50 	now, a time appears - 2:23 a.m. a green-hued night-vision vision shows four tents glows from within.
 BRUNO.srt 	BRUNO_DVS230 	01:02:38,00 --> 01:02:45,50 	now, words appear.
 BRUNO.srt 	BRUNO_DVS234 	01:04:03,00 --> 01:04:11,50 	now words appear - swingers party.
 BRUNO.srt 	BRUNO_DVS254 	01:09:07,00 --> 01:09:21,50 	now, words appear - eight months later.
@@ -23,14 +20,10 @@ CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS550 	01:36:43,00 --> 01:36:59,50 	a hydr
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS559 	01:37:36,00 --> 01:37:46,50 	on a display screen, an image of north america appears with a blinking bull's-eye over new york city.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS57 	00:04:47,00 --> 00:04:52,50 	words appear.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS183 	00:14:23,00 --> 00:14:28,50 	words appear - "seven years later."
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS271 	00:20:46,00 --> 00:20:51,50 	from the distant bluffs, someone appears as a tiny speck as he looks on.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS522 	00:50:56,00 --> 00:51:02,50 	the veteran surfer appears uninjured as he climbs onto the rock's peak.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS821 	01:21:06,00 --> 01:21:12,50 	a lone dark shape appears on the water ahead.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS1146 	01:49:13,00 --> 01:49:18,50 	words appear.
-CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS18 	00:03:55,00 --> 00:04:05,50 	the front door opens and a doll faced brunette woman appears
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS34 	00:07:53,00 --> 00:08:08,50 	words appear, september 25th, 1933.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS229 	00:48:58,00 --> 00:49:09,50 	words appear.
-CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS323 	01:20:42,00 --> 01:21:11,50 	someone looks up at lasky who appears to sink away.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS341 	01:25:45,00 --> 01:25:51,50 	words appear.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS429 	01:44:28,00 --> 01:44:32,50 	appear.
 COLOMBIANA.srt 	COLOMBIANA_DVS50 	00:02:53,00 --> 00:02:56,50 	words appear.
@@ -53,18 +46,13 @@ DISTRICT_9.srt 	DISTRICT_9_DVS478 	00:55:24,00 --> 00:55:35,50 	his eyes widen, 
 DISTRICT_9.srt 	DISTRICT_9_DVS667 	01:17:57,00 --> 01:18:11,50 	he inserts his alien hand into one, and a holographic screen appears before his eyes.
 DISTRICT_9.srt 	DISTRICT_9_DVS739 	01:27:07,00 --> 01:27:28,50 	the choppers appear puny, like hornets before an elephant.
 DISTRICT_9.srt 	DISTRICT_9_DVS848 	01:40:26,00 --> 01:40:45,50 	within a circular blue graphic, a three-dimensional intergalactic map appears.
-DISTRICT_9.srt 	DISTRICT_9_DVS863 	01:43:30,00 --> 01:43:39,50 	words appear - someone is currently awaiting trial for exposing mnu's illegal genetic research program.
 FLIGHT.srt 	FLIGHT_DVS343 	00:57:36,00 --> 00:57:42,50 	a photo of someone appears on the tv behind the bar.
-FLIGHT.srt 	FLIGHT_DVS594 	01:22:22,00 --> 01:22:30,50 	someone parks outside a bar, and walks in as his copilot, someone, appears on the news.
 FLIGHT.srt 	FLIGHT_DVS1115 	02:01:31,00 --> 02:01:36,50 	the evidence appears onscreen.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS213 	00:34:13,00 --> 00:34:19,50 	two thugs appear and someone hurls someone into them.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS225 	00:36:35,00 --> 00:36:52,50 	as she supports him, the brutish henchman appears.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS297 	00:45:49,00 --> 00:45:54,50 	subtitles appear as he speaks.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS303 	00:46:27,00 --> 00:46:32,50 	splotches of sores appear on his skin.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS349 	00:52:11,00 --> 00:52:20,50 	they approach towering rock formations that appear constructed into, creating buildings within their natural structures.
-GREEN_ZONE.srt 	GREEN_ZONE_DVS74 	00:18:34,00 --> 00:18:47,50 	as we reach a palatial building, words appear - coalition provisional authority
 GROWN_UPS.srt 	GROWN_UPS_DVS38 	00:08:44,00 --> 00:08:56,50 	words appear.
-HUGO.srt 	HUGO_DVS482 	01:10:39,00 --> 01:10:56,50 	as someone turns the book's pages, more movie images appear.
 HUGO.srt 	HUGO_DVS633 	01:31:54,00 --> 01:32:01,50 	people appear in the sky.
 HUGO.srt 	HUGO_DVS688 	01:39:37,00 --> 01:39:46,50 	in the edited movie, the skeletons appear to vanish in a puff of smoke as the warriors chop through them.
 IN_TIME.srt 	IN_TIME_DVS159 	00:17:15,00 --> 00:17:20,50 	exiting an apartment, he appears at her side.
@@ -73,16 +61,12 @@ INSIDE_MAN.srt 	INSIDE_MAN_DVS118 	00:33:53,00 --> 00:33:57,50 	an image appears
 INSIDE_MAN.srt 	INSIDE_MAN_DVS361 	01:44:15,00 --> 01:44:26,50 	now, safety deposit box 392 appears.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS52 	00:08:52,00 --> 00:08:57,50 	a thin-mustached man appears on the giant screen.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS77 	00:15:10,00 --> 00:15:16,50 	satellite images of a facility appear on the large screen.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS79 	00:15:32,00 --> 00:15:39,50 	as someone lifts his computer, images on its touch screen appear on the large screen.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS93 	00:18:11,00 --> 00:18:15,50 	video of the hearing appears on a screen.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS130 	00:24:44,00 --> 00:24:50,50 	web pages appear.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS193 	00:35:35,00 --> 00:36:10,50 	a glowing circle appears in iron man's hand.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS254 	00:47:03,00 --> 00:47:09,50 	a dark-haired cnn reporter appears on tv.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS255 	00:47:15,00 --> 00:47:20,50 	in someone's basement, holographic web pages appear.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS439 	01:21:26,00 --> 01:21:32,50 	a holographic image of the scale model appears, overlapping the actual model.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS449 	01:22:50,00 --> 01:22:58,50 	dozens of holographic dots appear and enter the unisphere.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS517 	01:33:43,00 --> 01:33:54,50 	as footage of military aircraft and ships appear on the screen, eight drones rise from the floor on a platform at the back of stage left.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS594 	01:41:47,00 --> 01:42:29,50 	he falls as a fifth guard appears.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS596 	01:42:43,00 --> 01:43:17,50 	an eighth guard with a nightstick appears.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS608 	01:44:39,00 --> 01:44:48,50 	a message appears onscreen: "system access."
 IRON_MAN_2.srt 	IRON_MAN_2_DVS611 	01:44:57,00 --> 01:45:01,50 	someone's face appears on the monitor.
@@ -90,7 +74,6 @@ IRON_MAN_2.srt 	IRON_MAN_2_DVS613 	01:45:09,00 --> 01:45:13,50 	pepper appears o
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS107 	00:17:55,00 --> 00:18:00,50 	a new window appears.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS167 	00:30:34,00 --> 00:30:38,50 	a comment window appears.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS175 	00:32:40,00 --> 00:32:53,50 	someone appears in the doorway, recoils and rubs his eyes.
-JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS459 	01:29:18,00 --> 01:29:25,50 	as someone appears in the doorway, her boss turns from his computer and gives her a stern look.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS615 	01:57:58,00 --> 01:58:09,50 	the overhead lighting fades and shadows appear, as sunshine washes in from one side.
 KARATE_KID.srt 	KARATE_KID_DVS1424 	01:54:59,00 --> 01:55:15,50 	the official waves the score flag and someone's name appears on the leader board.
 KARATE_KID.srt 	KARATE_KID_DVS1484 	02:00:56,00 --> 02:01:04,50 	on the big screen, a word appears over someone's face, in chinese and english - disqualified.
@@ -99,12 +82,8 @@ KNOCKED_UP.srt 	KNOCKED_UP_DVS55 	00:33:28,00 --> 00:33:37,50 	an image appears 
 KNOCKED_UP.srt 	KNOCKED_UP_DVS87 	00:52:40,00 --> 00:52:46,50 	now under an ultrasound video words appear.
 LAND_OF_THE_LOST.srt 	LAND_OF_THE_LOST_DVS261 	01:32:55,00 --> 01:33:02,50 	a title appears, word by word: land of the lost.
 LARRY_CROWNE.srt 	LARRY_CROWNE_DVS41 	00:13:43,00 --> 00:13:53,50 	camera bulb flashes and a student id appears, featuring a photo of a puzzled-looking someone.
-LARRY_CROWNE.srt 	LARRY_CROWNE_DVS63 	00:16:55,00 --> 00:17:03,50 	a full-figured raven-haired woman holding a to-go cup appears in her doorway.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS537 	00:58:25,00 --> 00:58:32,50 	tethered a few yards off, the lifeboat appears empty and peaceful.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS575 	01:03:53,00 --> 01:04:00,50 	someone opens his mouth wide in what appears to be a lazy yawn.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS799 	01:21:51,00 --> 01:21:58,50 	far behind them, a large ship appears on the horizon.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS963 	01:35:17,00 --> 01:35:26,50 	a wider view reveals tall, bushy trees towering over the lifeboat and all along the edge of what appears to be an island.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS1126 	01:58:47,00 --> 01:58:54,50 	as he smiles, the tiger appears to his left facing away from us.
 LITTLE_FOCKERS.srt 	LITTLE_FOCKERS_DVS116 	00:43:45,00 --> 00:43:49,50 	someone appears behind him.
 LITTLE_FOCKERS.srt 	LITTLE_FOCKERS_DVS284 	01:28:44,00 --> 01:28:52,50 	words appear, "four months later."
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS125 	00:19:56,00 --> 00:20:01,50 	the penguin appears behind him.
@@ -116,16 +95,13 @@ NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS494 	01:39:58,00 --> 01:40:18,
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS494 	01:39:58,00 --> 01:40:18,50 	someone's silhouette appears in profile above them.
 PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS142 	00:33:27,00 --> 00:33:34,50 	as he stumbles back, someone and someone appear on the bank, some distance away.
 PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS175 	00:39:12,00 --> 00:39:21,50 	a fireball appears in the demon's hand.
-PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS178 	00:40:09,00 --> 00:40:16,50 	a ball of flames appears in his palm and he lowers it for someone to see.
 PROMETHEUS.srt 	PROMETHEUS_DVS85 	00:05:00,00 --> 00:05:06,50 	clean white lines appear, gradually forming letters that spell a title.
 PROMETHEUS.srt 	PROMETHEUS_DVS100 	00:06:05,00 --> 00:06:09,50 	words appear.
 PROMETHEUS.srt 	PROMETHEUS_DVS140 	00:08:22,00 --> 00:08:28,50 	clad in bandage-like undergarments, she appears to sleep.
 PROMETHEUS.srt 	PROMETHEUS_DVS143 	00:08:57,00 --> 00:09:02,50 	a woman's image appears then vanishes.
 PROMETHEUS.srt 	PROMETHEUS_DVS147 	00:09:23,00 --> 00:09:29,50 	the trim man appears at the vision's center.
 PROMETHEUS.srt 	PROMETHEUS_DVS213 	00:15:57,00 --> 00:16:02,50 	a living area appears before him as he advances.
-PROMETHEUS.srt 	PROMETHEUS_DVS421 	00:42:39,00 --> 00:42:50,50 	from a long distance, the storm appears as a swiftly moving wall of roiling dirt.
 PROMETHEUS.srt 	PROMETHEUS_DVS439 	00:45:43,00 --> 00:45:59,50 	a white mist blasts it, filling the chamber and an image appears on a monitor.
-PROMETHEUS.srt 	PROMETHEUS_DVS513 	00:54:48,00 --> 00:54:54,50 	the pinging probe sits motionless at what appears to be a dead end.
 PROMETHEUS.srt 	PROMETHEUS_DVS672 	01:12:35,00 --> 01:12:41,50 	as the pilot works the controls, more emerald hued fields of energy appear above them.
 PROMETHEUS.srt 	PROMETHEUS_DVS679 	01:12:56,00 --> 01:13:08,50 	a tremendous, three-dimensional holographic orb appears over the center of the disc.
 PROMETHEUS.srt 	PROMETHEUS_DVS680 	01:13:05,00 --> 01:13:12,50 	a star system appears in its midst, complete with a ringed planet.
@@ -134,11 +110,9 @@ PROMETHEUS.srt 	PROMETHEUS_DVS766 	01:22:50,00 --> 01:22:57,50 	as her stomach b
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS179 	00:33:43,00 --> 00:34:01,50 	behind her, someone appears in his undershirt and leans through an open-air interior window.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS384 	01:14:12,00 --> 01:14:19,50 	someone appears on screen.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS389 	01:14:44,00 --> 01:14:59,50 	a lion's head appears onscreen with the title ethiopia across its eyes.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS638 	02:00:03,00 --> 02:00:38,50 	they find adjacent seats as opening titles appear on the screen featuring the stars' pictures.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS31 	00:04:47,00 --> 00:05:01,50 	words appear.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS38 	00:08:36,00 --> 00:08:44,50 	now, at another castle, words appear.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS82 	00:22:22,00 --> 00:22:28,50 	words appear.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS117 	00:30:23,00 --> 00:30:37,50 	now, as a rider approaches a humble country chapel, a word appears - nottingham.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS136 	00:35:20,00 --> 00:35:27,50 	words appear - the tempts estuary, england.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS286 	01:08:17,00 --> 01:08:22,50 	dozens of armed french soldiers appear in the mist and head toward them.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS348 	01:25:15,00 --> 01:25:35,50 	now, as someone trains a horse in a muddy field, words appear.
@@ -147,7 +121,6 @@ SALT.srt 	SALT_DVS442 	01:16:15,00 --> 01:16:20,50 	satellite images appear.
 SANCTUM.srt 	SANCTUM_DVS96 	00:19:36,00 --> 00:19:41,50 	his shadow appears on the rock wall.
 SANCTUM.srt 	SANCTUM_DVS263 	00:54:14,00 --> 00:54:19,50 	a headlamp beam appears from the darkness.
 SANCTUM.srt 	SANCTUM_DVS335 	01:07:03,00 --> 01:07:08,50 	someone appears just inside it.
-SANCTUM.srt 	SANCTUM_DVS562 	01:42:13,00 --> 01:42:18,50 	now, someone appears wearing his helmet light.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS83 	00:06:07,00 --> 00:06:15,50 	words appear.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1032 	01:07:17,00 --> 01:07:22,50 	words appear.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1210 	01:21:35,00 --> 01:21:38,50 	words appear.
@@ -155,42 +128,31 @@ SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS14 	00:03:01,00 --> 00:03:06,5
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS23 	00:05:03,00 --> 00:05:20,50 	a title appears with a dragon forming an s. the sorcerer's apprentice.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS76 	00:14:37,00 --> 00:15:01,50 	words appear ten years later, to the day.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS104 	00:21:27,00 --> 00:21:31,50 	a man appears with brows and goatee.
-SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS164 	00:32:26,00 --> 00:32:31,50 	subtitles appear your hair is beautiful.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS165 	00:32:50,00 --> 00:32:56,50 	the long-finger nailed man appears.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS341 	01:11:17,00 --> 01:11:24,50 	someone appear and someone casts them across the lab to search for the someone
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS378 	01:20:24,00 --> 01:20:33,50 	as someone swivels in her chair, the girl suddenly appears beside her in puritan attire.
-SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS447 	01:35:07,00 --> 01:35:25,50 	he kisses her, sucking a fine cloud of dust into his nose and someone's face, briefly appears in the particle stream.
-SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS472 	01:40:06,00 --> 01:40:12,50 	as he throws up his hands, a ring of fire suddenly appears around someone.
 SOUL_SURFER.srt 	SOUL_SURFER_DVS88 	00:28:41,00 --> 00:28:47,50 	appears ahead.
 SOUL_SURFER.srt 	SOUL_SURFER_DVS313 	01:34:00,00 --> 01:34:09,50 	a few yards ahead a wave appears and quickly swells.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS256 	00:39:43,00 --> 00:39:59,50 	a sign out front reads, appearing tonight, sister and her sisters, sold out.
-SUPER_8.srt 	SUPER_8_DVS73 	00:11:21,00 --> 00:11:30,50 	her reflection appears in a rear-view mirror as she stares at someone in the backseat.
 SUPER_8.srt 	SUPER_8_DVS224 	00:38:07,00 --> 00:38:12,50 	someone appears upside down as something stalks him.
 SUPER_8.srt 	SUPER_8_DVS356 	01:03:35,00 --> 01:03:42,50 	someone glances over her shoulder as headlights appear behind her, she pedals faster.
-SUPER_8.srt 	SUPER_8_DVS580 	01:35:59,00 --> 01:36:06,50 	the creature appears behind someone, grabs him, and tosses him far away.
 SUPER_8.srt 	SUPER_8_DVS585 	01:36:20,00 --> 01:36:24,50 	the creature appears around the corner.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS87 	00:12:33,00 --> 00:12:38,50 	snowy appears on the other side of the gate.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS561 	01:18:12,00 --> 01:18:15,50 	someone appears.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS593 	01:20:56,00 --> 01:21:03,50 	someone and someone look behind themselves, as someone appears in their rearview mirror.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS723 	01:36:56,00 --> 01:37:01,50 	snowy appears in the hole on the other side.
 THE_CALL.srt 	THE_CALL_DVS211 	00:17:17,00 --> 00:17:21,50 	words appear.
 THE_CALL.srt 	THE_CALL_DVS988 	01:15:52,00 --> 01:15:59,50 	she retreats as someone appears in the door crack and heads in her direction.
-THE_CALL.srt 	THE_CALL_DVS1043 	01:19:08,00 --> 01:19:14,50 	she turns slightly and the agitated killer appears.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1353 	02:25:22,00 --> 02:25:27,50 	as the desk clerk scans the passport its image appears on a monitor under the fake name someone.
 THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS285 	01:32:19,00 --> 01:32:26,50 	various clips of someone and someone driving in their car appear beside the credits.
 THE_SITTER.srt 	THE_SITTER_DVS63 	00:36:02,00 --> 00:36:06,50 	appears down the tracks.
-THE_VOW.srt 	THE_VOW_DVS38 	00:02:58,00 --> 00:03:06,50 	still seen in slow motion the brunette woman appears weightless as she drifts headfirst toward the windshield.
 THE_VOW.srt 	THE_VOW_DVS46 	00:03:32,00 --> 00:03:37,50 	words appear.
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS70 	00:18:23,00 --> 00:18:29,50 	words appear: the dreamer vs.
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS523 	01:55:28,00 --> 01:55:34,50 	now credits appear with scenes of the pickup game with the nba players.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS39 	00:04:54,00 --> 00:05:10,50 	an all caps title appears, word by word filling the screen.
 THOR.srt 	THOR_DVS27 	00:02:55,00 --> 00:03:00,50 	the truck strikes a man who appears out of the fog.
 THOR.srt 	THOR_DVS200 	00:26:05,00 --> 00:26:10,50 	someone appears in full battle armor.
-THOR.srt 	THOR_DVS408 	01:02:23,00 --> 01:02:31,50 	as he steps out of the mirrored room and into the main command center, someone appears in front of someone.
 THOR.srt 	THOR_DVS468 	01:17:10,00 --> 01:17:16,50 	someone, someone, someone and someone appear in a desert.
-TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS466 	00:50:12,00 --> 00:50:19,50 	now, someone's footprints appear on a carpet as he steps into a den.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS501 	00:54:29,00 --> 00:54:33,50 	someone appears in front of him.
-TRUE_GRIT.srt 	TRUE_GRIT_DVS246 	00:50:40,00 --> 00:50:45,50 	the rider appears to be a black bear and the second horse has a dead body draped over it.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS578 	01:16:49,00 --> 01:16:53,50 	someone appears.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS851 	01:58:56,00 --> 01:59:09,50 	now, words appear.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS154 	00:09:55,00 --> 00:09:59,50 	words appear.
@@ -201,15 +163,12 @@ XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS345 	00:27:11,00 --> 00:27:17,50 	now 
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS419 	00:36:09,00 --> 00:36:17,50 	as we drift over a sprawling complex, words appear: "covert cia research base."
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS539 	00:50:35,00 --> 00:50:41,50 	as he sticks his head under water, gills appear on either side.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS572 	00:54:04,00 --> 00:54:09,50 	words appear: "russian military retreat."
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS697 	01:03:02,00 --> 01:03:09,50 	the recruits watch through the window as someone appears in the courtyard.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS703 	01:03:31,00 --> 01:03:38,50 	someone's arms appear to split at the elbow, replicate into three forearms, then rejoin.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS719 	01:04:43,00 --> 01:04:49,50 	at the other window, someone appears in front of a trembling agent.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS754 	01:08:10,00 --> 01:08:16,50 	appearing to subdue the combustion of his body.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS808 	01:13:05,00 --> 01:13:11,50 	now words appear beneath a gray, overcast public square.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS843 	01:17:11,00 --> 01:17:18,50 	in a blur of motion, someone appears behind someone, then catches up and taps his shoulder.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1033 	01:33:33,00 --> 01:33:39,50 	now as the aral sea leaves a wide wake, a word appears:
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1333 	02:01:06,00 --> 02:01:11,50 	black-and-white footage of someone f. kennedy appear
-ZOMBIELAND.srt 	ZOMBIELAND_DVS29 	00:03:08,00 --> 00:03:13,50 	as titles appear, images move in slow motion.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS189 	00:18:24,00 --> 00:18:32,50 	as her head spins toward us, the scene freezes and rule number 2 appears, double tap.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS221 	00:24:05,00 --> 00:24:13,50 	the rule appears over the door.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS260 	00:28:50,00 --> 00:28:55,50 	rule number 18 appears on the bumper, limber up.
@@ -218,5 +177,4 @@ ZOMBIELAND.srt 	ZOMBIELAND_DVS364 	00:41:30,00 --> 00:41:34,50 	the rule appears
 ZOMBIELAND.srt 	ZOMBIELAND_DVS629 	01:11:38,00 --> 01:11:44,50 	words appear, rule number 2, double tap.
 ZOOKEEPER.srt 	ZOOKEEPER_DVS16 	00:02:54,00 --> 00:02:58,50 	now, a title appears.
 ZOOKEEPER.srt 	ZOOKEEPER_DVS18 	00:03:01,00 --> 00:03:10,50 	words appear, 5 years later.
-ZOOKEEPER.srt 	ZOOKEEPER_DVS54 	00:10:03,00 --> 00:10:13,50 	in his perspective, she appears to pull away from the others around her.
 ZOOKEEPER.srt 	ZOOKEEPER_DVS429 	01:33:37,00 --> 01:33:42,50 	words appear, six months later.

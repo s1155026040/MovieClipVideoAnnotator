@@ -1,44 +1,23 @@
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS79 	00:21:22,00 --> 00:21:29,50 	cringing someone snatches the pamphlet.
-A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS336 	00:59:33,00 --> 00:59:40,50 	frowning someone snatches his watch back from the nun, who both make the sign of the cross.
-BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS474 	01:13:45,00 --> 01:13:51,50 	snatching the bag away, someone searches it and finds a bag of bird seed.
-BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS635 	01:38:03,00 --> 01:38:09,50 	blinking resignedly, someone looks at someone who snatches the gun away.
-BLINDDATING.srt 	BLINDDATING_DVS79 	00:24:22,00 --> 00:24:30,50 	someone snatches the knife, pries out the blade and runs the blunt side across his palm.
 BURLESQUE.srt 	BURLESQUE_DVS310 	00:43:02,00 --> 00:43:06,50 	she snatches the paper back.
 BURLESQUE.srt 	BURLESQUE_DVS437 	01:00:29,00 --> 01:00:35,50 	she snatches another fan from a dancer.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS566 	00:54:47,00 --> 00:54:52,50 	his mom snatches it and turns.
 COLOMBIANA.srt 	COLOMBIANA_DVS320 	00:28:11,00 --> 00:28:15,50 	he snatches her backpack.
 COLOMBIANA.srt 	COLOMBIANA_DVS322 	00:28:23,00 --> 00:28:29,50 	someone snatches the backpack from his grasp and slings it over her shoulder.
-COLOMBIANA.srt 	COLOMBIANA_DVS345 	00:30:58,00 --> 00:31:04,50 	she tries to take some candy but he snatches it away.
-COLOMBIANA.srt 	COLOMBIANA_DVS1026 	01:37:14,00 --> 01:37:21,50 	he grabs its barrel and strikes her in the head, snatching it away as she stumbles.
 DISTRICT_9.srt 	DISTRICT_9_DVS414 	00:45:41,00 --> 00:45:45,50 	he sneaks up behind a pedestrian and snatches his phone.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS53 	00:08:34,00 --> 00:08:40,50 	someone snatches the photo from the seat and gives it a look.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS585 	01:24:35,00 --> 01:24:42,50 	ghost rider's gloved hand snatches him by the shoulder then hauls him to his feet.
 HUGO.srt 	HUGO_DVS44 	00:05:01,00 --> 00:05:06,50 	the man suddenly snatches his arm.
-KARATE_KID.srt 	KARATE_KID_DVS678 	00:58:08,00 --> 00:58:15,50 	someone snatches his jacket back off the bar and faces someone skeptically.
 KARATE_KID.srt 	KARATE_KID_DVS871 	01:11:48,00 --> 01:11:54,50 	someone seizes it and snatches it out of his hands.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS723 	01:15:09,00 --> 01:15:16,50 	as two fish skitter side by side, a larger fish snatches one.
 NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS176 	00:29:29,00 --> 00:29:33,50 	she snatches the balloon.
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS138 	00:36:16,00 --> 00:36:22,50 	someone snatches it.
-PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS272 	01:09:14,00 --> 01:09:35,50 	as it pushes the creature back, someone creeps out, snatches the pearl and joins his friends.
 PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS462 	01:51:17,00 --> 01:51:22,50 	but someone snatches his sword.
-PROMETHEUS.srt 	PROMETHEUS_DVS742 	01:20:21,00 --> 01:20:27,50 	someone snatches the jar with her necklace and strides out.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS172 	00:32:20,00 --> 00:32:32,50 	yanking the man's wrist over the counter, someone snatches his claim ticket.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS341 	01:23:21,00 --> 01:23:42,50 	the lawman hesitates, then snatches it from his hand.
-RUBY_SPARKS.srt 	RUBY_SPARKS_DVS473 	01:11:57,00 --> 01:12:03,50 	someone snatches the remote back up and curls around it protectively.
-SALT.srt 	SALT_DVS247 	00:42:43,00 --> 00:42:54,50 	passing the rack, someone snatches a garment in each hand without breaking her stride.
-SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS344 	01:11:35,00 --> 01:11:42,50 	as someone reaches for it, someone magically snatches it away.
-SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS399 	01:23:51,00 --> 01:24:02,50 	back in the foyer, someone holds out someone's ring and someone magically snatches it.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS560 	01:18:00,00 --> 01:18:08,50 	someone snatches the scroll from the air.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS610 	01:22:26,00 --> 01:22:32,50 	as someone reaches for the paper, the falcon snatches it and flies off.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS417 	01:03:22,00 --> 01:03:26,50 	someone snatches the remote.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS337 	00:41:28,00 --> 00:41:35,50 	as she approaches the platform a guy snatches her backpack off her shoulder.
-THE_VOW.srt 	THE_VOW_DVS110 	00:11:43,00 --> 00:11:52,50 	hurrying up a flight of stairs, someone drops his someone mnemonic menu and pauses to snatch it up.
 THE_WATCH.srt 	THE_WATCH_DVS28 	00:04:35,00 --> 00:04:41,50 	he snatches the bottle then chugs from it and spits vodka overhead.
 THE_WATCH.srt 	THE_WATCH_DVS144 	00:28:14,00 --> 00:28:19,50 	someone snatches it and hands it back to someone.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS29 	00:03:52,00 --> 00:04:05,50 	someone snatches someone's backpack.
 THOR.srt 	THOR_DVS318 	00:46:29,00 --> 00:46:34,50 	an agent snatches someone's notebook.
 THOR.srt 	THOR_DVS423 	01:06:25,00 --> 01:06:30,50 	someone snatches someone's notebook.
-THOR.srt 	THOR_DVS559 	01:28:14,00 --> 01:28:23,50 	someone's hand shoots up and snatches someone out of the air as a bolt of lightning strikes it.
-TRUE_GRIT.srt 	TRUE_GRIT_DVS411 	01:21:25,00 --> 01:21:34,50 	someone snatches it and strikes her.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS308 	00:32:24,00 --> 00:32:30,50 	he snatches the card from her hand.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1225 	01:50:11,00 --> 01:50:16,50 	a cable snatches the helmet.

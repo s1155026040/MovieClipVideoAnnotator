@@ -1,24 +1,41 @@
-0007_DIE_NACHT_DES_JAEGERS_00.22.33.660-00.22.35.036 	We TRACK after ICEY.
-0007_DIE_NACHT_DES_JAEGERS_01.28.13.735-01.28.15.414 	We TRACK them along side of JAIL to rear of JAIL.
-0011_Gandhi_02.25.30.763-02.25.35.434 	The camera tracks across the platform and we see they are being followed by a detail of six soldiers accompanying Ba.
-0011_Gandhi_02.25.35.434-02.25.41.016 	And the camera tracks again and we see they are being followed by a detail of six soldiers accompanying Mirabehn.
-0016_O_Brother_Where_Art_Thou_01.18.57.145-01.18.59.757 	His eye tracks up - up- CREEEEEEK!
-0019_Pulp_Fiction_00.09.15.841-00.09.26.834 	We TRACK alongside.
-0020_Raising_Arizona_00.16.02.741-00.16.04.455 	We track back into the room, on her, as she approaches the crib.
-0020_Raising_Arizona_00.40.14.124-00.40.14.750 	We are tracking on Hi and Glen as they walk side by side.
-0020_Raising_Arizona_00.45.46.971-00.45.52.166 	We are tracking behind Hi as he runs up to the house and crashes through the screen door.
-0020_Raising_Arizona_00.47.54.883-00.47.56.365 	Still tracking behind him as he runs through the living room.
-0020_Raising_Arizona_00.55.06.175-00.55.07.261 	We are tracking in toward the one window that is illuminated, with a feeble yellow light.
-0020_Raising_Arizona_01.29.07.985-01.29.10.916 	He whips off his helmet and we track in on the face of the rosy-cheeked high-school bruiser.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.44.24.849-00.44.28.381 	CAMERA tracks down beneath the BRIDGE to the DARK WATERS catching a STEALTHY MOVEMENT.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.44.28.381-00.44.32.508 	MANY BOATS, carrying MURDEROUS-LOOKING ORCS, are quietly tracking down the RIVER.
-0027_The_Big_Lebowski_00.02.27.767-00.02.38.914 	We are tracking in on a fortyish man in Bermuda shorts and sunglasses at the dairy case.
-0027_The_Big_Lebowski_00.03.52.695-00.03.53.641 	We track with him as he is rushed through the living room, his arm holding the satchel flailing away from his body.
-0027_The_Big_Lebowski_00.07.50.233-00.07.52.689 	We are tracking in on the circular bench towards a big man nursing a large plastic cup of Bud.
-0028_The_Crying_Game_00.54.56.610-00.54.57.578 	The camera tracks into the soldier's smiling face.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_01.13.48.297-01.13.56.550 	harry tracks filch the caretaker's footprints around the map, then spots another name, peter pettigrew.
+0007_DIE_NACHT_DES_JAEGERS_00.22.33.660-00.22.35.036 	we track after icey.
+0007_DIE_NACHT_DES_JAEGERS_01.17.20.717-01.17.32.549 	he tethers his horse and, as we pan and track on behind him, walks to the bottom of the steps; ruby moves into side of shot: beyond preacher, rachel stands behind her screen door, hands folded under apron.
+0007_DIE_NACHT_DES_JAEGERS_01.28.13.735-01.28.15.414 	we track them along side of jail to rear of jail.
+0011_Gandhi_00.33.33.608-00.33.34.460 	tracking back before gandhi, singh and tyeb mohammed as they move forward, fear suddenly making their pace more labored.
+0011_Gandhi_00.33.35.911-00.33.36.628 	tracking back before the mounted police.
+0011_Gandhi_02.25.30.763-02.25.35.434 	the camera tracks across the platform and we see they are being followed by a detail of six soldiers accompanying ba.
+0011_Gandhi_02.25.35.434-02.25.41.016 	and the camera tracks again and we see they are being followed by a detail of six soldiers accompanying mirabehn.
+0013_Halloween_00.18.57.935-00.18.59.802 	camera slowly tracks over to a phone booth.
+0013_Halloween_00.37.08.122-00.37.09.674 	as they move through the house camera tracks with them.
+0013_Halloween_00.38.28.443-00.38.30.947 	camera slowly tracks in toward the window.
+0013_Halloween_01.10.14.692-01.10.16.192 	tracking shot with loomis as he walks up the street.
+0013_Halloween_01.14.53.069-01.14.54.665 	slowly tracking up the staircase.
+0013_Halloween_01.15.36.722-01.15.37.951 	camera slowly tracks through the darkened bedroom of the wallace house.
+0016_O_Brother_Where_Art_Thou_01.18.57.145-01.18.59.757 	his eye tracks up - up- creeeeeek!
+0019_Pulp_Fiction_00.09.15.841-00.09.26.834 	we track alongside.
+0020_Raising_Arizona_00.16.02.741-00.16.04.455 	we track back into the room, on her, as she approaches the crib.
+0020_Raising_Arizona_00.27.56.166-00.27.58.375 	tracking with and also in on the biker from behind as he roars along a strip of highway.
+0020_Raising_Arizona_00.28.28.080-00.28.30.241 	from behind, booming down as we track.
+0020_Raising_Arizona_00.40.14.124-00.40.14.750 	we are tracking on hi and glen as they walk side by side.
+0020_Raising_Arizona_00.45.46.971-00.45.52.166 	we are tracking behind hi as he runs up to the house and crashes through the screen door.
+0020_Raising_Arizona_00.47.54.883-00.47.56.365 	still tracking behind him as he runs through the living room.
+0020_Raising_Arizona_00.48.30.865-00.48.32.888 	tracking on him as he runs down the broad front aisle, head whipping as he runs, looking up each perpendicular lane, searching for something.
+0020_Raising_Arizona_00.49.23.197-00.49.23.392 	tracking from in front.
+0020_Raising_Arizona_00.55.06.175-00.55.07.261 	we are tracking in toward the one window that is illuminated, with a feeble yellow light.
+0020_Raising_Arizona_01.29.07.985-01.29.10.916 	he whips off his helmet and we track in on the face of the rosy-cheeked high-school bruiser.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.44.28.381-00.44.32.508 	many boats, carrying murderous-looking orcs, are quietly tracking down the river.
+0027_The_Big_Lebowski_00.02.27.767-00.02.38.914 	we are tracking in on a fortyish man in bermuda shorts and sunglasses at the dairy case.
+0027_The_Big_Lebowski_00.03.52.695-00.03.53.641 	we track with him as he is rushed through the living room, his arm holding the satchel flailing away from his body.
+0027_The_Big_Lebowski_00.07.50.233-00.07.52.689 	we are tracking in on the circular bench towards a big man nursing a large plastic cup of bud.
+0028_The_Crying_Game_00.54.56.610-00.54.57.578 	the camera tracks into the soldier's smiling face.
+1007_Spider-Man1_00.23.16.951-00.23.20.632 	tracking the tray behind him.
+1030_Public_Enemies_01.30.09.362-01.30.13.418 	behind them, winstead resumes tracking the pair.
+1031_Quantum_of_Solace_00.02.27.378-00.02.45.180 	he swerves past tracked excavators and down a winding bumpy track in front of a smooth new quarry rock face.
+1035_The_Adjustment_Bureau_01.16.07.180-01.16.19.425 	he carelessly tracks his feet through a large glassy puddle and stops at the dock's edge, gazing toward the low sun.
+1037_The_Curious_Case_Of_Benjamin_Button_01.27.33.181-01.27.36.487 	benjamin goes to the next window, so that he can track her progress.
 1062_Day_the_Earth_stood_still_01.10.12.000-01.10.17.996 	the light in his head is glowing orange and tracks the agent's every move.
 2017_Bad_Santa_01.33.03.041-01.33.06.258 	we track toward it.
 2017_Bad_Santa_01.33.39.514-01.33.43.666 	we track past her towards the jacuzzi area.
+2034_Super_8_01.26.58.175-01.27.04.976 	an explosion hits too close -- the boys scream as they run between houses -- and we track with them -- four boys racing through a neighborhood under siege -- power goes out -- and some explosions are much closer than others -- another big hit and they go to a back door of a house -- and go inside.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_00.24.36.897-00.24.41.199 	we track along the faces of the choir, singing to the strains of a harpsichord, and land on a quintet of toads (one of which -- trevor -- belongs to neville longbottom, who looks on with pride).
 2054_Harry_Potter_and_the_prisoner_of_azkaban_01.04.11.168-01.04.19.421 	footprints track through the snow, into the pub.

@@ -1,10 +1,29 @@
-0001_American_Beauty_01.44.34.848-01.44.42.265 	She's unnerved--this is happening too fast.
-0012_Get_Shorty_00.59.14.889-00.59.15.868 	Harry looks at Bo, can't believe what's happening to his life, thinks a moment, then.
-0021_Rear_Window_00.14.13.614-00.14.15.481 	Jeff now looks out to see what has happened to the old lady, and the man with the flowers.
-0021_Rear_Window_00.21.28.873-00.21.32.321 	He holds this attitude for just a moment, then seems to shake off his concern to lift his head and turn his attention to what might be happening in his neighborhood beyond his window.
-0026_The_Big_Fish_00.49.06.975-00.49.09.321 	There's a GASP from the crowd, along with nervous anticipation -- what will happen next?
-0032_The_Princess_Bride_00.21.56.863-00.22.04.542 	And what we are starting now is one of the two greatest sword fights in modern movies (the other one happens later on), and right from the beginning it looks different.
-0041_The_Sixth_Sense_00.44.10.691-00.44.12.828 	It happens too quick for Cole to react.
-0043_Thelma_and_Luise_00.49.20.614-00.49.26.555 	Louise glides right back onto the road as if nothing unusual has happened at all.
-0050_Indiana_Jones_and_the_last_crusade_01.08.29.258-01.08.33.892 	He is now buttoning up the tunic -- which happens to be several sizes too big.
-0051_Men_in_black_01.12.38.679-01.12.38.954 	Now everything happens at once.
+0001_American_Beauty_01.07.08.326-01.07.16.156 	he goes back to eating his meal, as if nothing unusual has happened.
+0001_American_Beauty_01.44.34.848-01.44.42.265 	she's unnerved--this is happening too fast.
+0001_American_Beauty_01.47.04.638-01.47.07.970 	she seems disconnected from what's happening.
+0011_Gandhi_01.47.59.911-01.48.01.773 	azad keeps his eyes fixed on gandhi, sensing, fearing what is going to happen.
+0011_Gandhi_02.15.16.506-02.15.17.772 	he watches, looking tensely from one group to the other, almost terrified by what seems about to happen.
+0012_Get_Shorty_00.59.14.889-00.59.15.868 	harry looks at bo, can't believe what's happening to his life, thinks a moment, then.
+0012_Get_Shorty_01.36.25.394-01.36.35.381 	chili sits back to smoke his cigarette, lets it happen.
+0014_Ist_das_Leben_nicht_schoen_01.25.13.002-01.25.14.974 	mary stares at him, aware that something unusual has happened.
+0021_Rear_Window_00.14.13.614-00.14.15.481 	jeff now looks out to see what has happened to the old lady, and the man with the flowers.
+0021_Rear_Window_00.21.28.873-00.21.32.321 	he holds this attitude for just a moment, then seems to shake off his concern to lift his head and turn his attention to what might be happening in his neighborhood beyond his window.
+0026_The_Big_Fish_00.49.06.975-00.49.09.321 	there's a gasp from the crowd, along with nervous anticipation -- what will happen next?
+0026_The_Big_Fish_01.02.34.438-01.02.35.354 	she stays in the doorway for a few beats, feeling genuinely horrible for what's happened.
+0026_The_Big_Fish_01.17.54.551-01.17.57.838 	the women clearly want this to happen.
+0030_The_Hustler_01.18.08.728-01.18.09.722 	sensing what is about to happen, the young man pays up.
+0030_The_Hustler_01.48.14.758-01.48.15.770 	the dance couples strain to get a look at what has happened.
+0032_The_Princess_Bride_00.21.56.863-00.22.04.542 	and what we are starting now is one of the two greatest sword fights in modern movies (the other one happens later on), and right from the beginning it looks different.
+0032_The_Princess_Bride_01.31.15.999-01.31.22.377 	what's happening, of course, is that she's jumping from the balcony so fezzik can catch her.
+0041_The_Sixth_Sense_00.44.10.691-00.44.12.828 	it happens too quick for cole to react.
+0043_Thelma_and_Luise_00.49.20.614-00.49.26.555 	louise glides right back onto the road as if nothing unusual has happened at all.
+0043_Thelma_and_Luise_01.51.27.848-01.51.36.272 	this is not what is supposed to be happening.
+0050_Indiana_Jones_and_the_last_crusade_01.08.29.258-01.08.33.892 	he is now buttoning up the tunic -- which happens to be several sizes too big.
+0051_Men_in_black_01.12.38.679-01.12.38.954 	now everything happens at once.
+0053_Rendezvous_mit_Joe_Black_00.02.22.814-00.02.32.581 	parrish sits up again, frightened, but still there is no one there, he seems fraught with indecision, should he get up, should he not, what is happening?
+1008_Spider-Man2_01.03.15.950-01.03.17.744 	still nothing happens.
+1023_Horrible_Bosses_01.00.29.310-01.00.31.105 	dale happens upon jars of peanuts.
+1043_Vantage_Point_01.19.14.071-01.19.16.738 	time seems to slow down as barnes spots the tragedy about to happen.
+2012_Unbreakable_00.53.50.387-00.53.52.563 	and then it happens.
+2026_Legion_00.37.45.990-00.37.48.714 	on the roof, the men wait for something to happen.
+2034_Super_8_01.06.47.271-01.06.49.700 	they watch for a moment as the train crash happens -- but it's so sudden, so fast, the camera picks up almost nothing.

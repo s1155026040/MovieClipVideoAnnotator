@@ -1,0 +1,4 @@
+500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS144 	00:27:19,00 --> 00:27:24,50 	282 rewinds to 34.
+CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS383 	01:33:25,00 --> 01:33:34,50 	someone keeps his eyes glued to the screen as the promoter rewinds the reel.
+THE_CALL.srt 	THE_CALL_DVS876 	01:06:59,00 --> 01:07:04,50 	she rewinds the recording.
+YOUNG_ADULT.srt 	YOUNG_ADULT_DVS73 	00:09:42,00 --> 00:09:47,50 	someone rewinds the cassette tape.

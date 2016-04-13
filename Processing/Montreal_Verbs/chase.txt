@@ -3,7 +3,6 @@
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS329 	00:54:21,00 --> 00:54:26,50 	she chases them with a stick.
 30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS194 	00:50:02,00 --> 00:50:08,50 	two police cars chase the datsun down a main road.
 500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS152 	00:28:42,00 --> 00:28:48,50 	someone chases her through the huge furniture store.
-500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS355 	01:04:41,00 --> 01:04:46,50 	someone leaps up and chases the young lad.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS244 	00:20:22,00 --> 00:20:26,50 	a man chases him.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS180 	00:34:13,00 --> 00:34:19,50 	meanwhile, two squirrels chase each other around the bodhi tree's trunk.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS225 	00:43:40,00 --> 00:43:45,50 	back at the office, samantha chases him.
@@ -18,47 +17,30 @@ CHRONICLE.srt 	CHRONICLE_DVS150 	00:22:58,00 --> 00:23:03,50 	the woman chases a
 DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS192 	00:46:39,00 --> 00:46:44,50 	she chases him.
 FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS25 	00:06:15,00 --> 00:06:20,50 	she chases after it.
 HUGO.srt 	HUGO_DVS637 	01:32:12,00 --> 01:32:24,50 	on screen, the explorers flee as an alien with a man's body and a lizard's head chases them.
-HUGO.srt 	HUGO_DVS722 	01:46:51,00 --> 01:47:03,50 	the doberman follows the inspector as he chases someone through the crowd.
-IN_TIME.srt 	IN_TIME_DVS427 	00:45:51,00 --> 00:45:59,50 	now, as they chase someone's car across an overpass, someone looks over her shoulder.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS599 	01:43:23,00 --> 01:43:42,50 	at the expo, someone and the drones chase someone as he speeds over a long line of reflecting pools.
 JACK_AND_JILL.srt 	JACK_AND_JILL_DVS127 	00:24:48,00 --> 00:24:53,50 	the cut grass blows at someone as he chases her.
 KARATE_KID.srt 	KARATE_KID_DVS1081 	01:28:42,00 --> 01:29:00,50 	she chases him with it.
-KARATE_KID.srt 	KARATE_KID_DVS1081 	01:28:42,00 --> 01:29:00,50 	someone clutches someone's violin case as she chases him.
 LAND_OF_THE_LOST.srt 	LAND_OF_THE_LOST_DVS101 	00:33:21,00 --> 00:33:26,50 	they chase someone.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS196 	00:28:03,00 --> 00:28:10,50 	someone chases a penguin out of the room.
-MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS354 	00:44:52,00 --> 00:44:59,50 	someone sees the penguins chasing someone to the exit.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS512 	01:01:27,00 --> 01:01:34,50 	someone ice skates from room to room, and someone chases him with a hockey stick.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS51 	00:12:50,00 --> 00:12:54,50 	someone chases him.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS182 	00:40:46,00 --> 00:40:50,50 	someone chases him.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS402 	01:24:37,00 --> 01:24:42,50 	someone chases the kids.
 NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS240 	00:41:16,00 --> 00:41:20,50 	she chases her.
-PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS151 	00:38:40,00 --> 00:38:46,50 	as someone chases the boys around in circles, someone comes in.
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS322 	01:16:29,00 --> 01:16:38,50 	as someone chases him, someone steps into the street before a delivery car.
-PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS208 	00:53:13,00 --> 00:53:26,50 	chasing him, someone halts at an intersection, then instinctively turns.
-PROMETHEUS.srt 	PROMETHEUS_DVS969 	01:46:53,00 --> 01:47:02,50 	the rolling ship chases them past a number of rocky pillars, dotting the harsh terrain, its shadow at their heels.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS32 	00:06:16,00 --> 00:06:21,50 	someone chases it, barreling around a corner
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS176 	00:34:28,00 --> 00:34:34,50 	meanwhile, the dragon chases someone.
-SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS237 	00:46:18,00 --> 00:46:23,50 	someone takes a deep breath and chases the mugger.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS433 	01:32:39,00 --> 01:32:44,50 	it chases the fleeing sorcerer.
-SUPER_8.srt 	SUPER_8_DVS583 	01:36:07,00 --> 01:36:14,50 	the creature chases them through the tunnel, grabs tina, and throws her aside.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS70 	00:09:40,00 --> 00:09:47,50 	chasing the cat across the counter, snowy knocks the model ship to the floor.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS91 	00:13:18,00 --> 00:13:28,50 	he runs into the wooded property as the large guard dog chases him.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS132 	00:20:20,00 --> 00:20:25,50 	snowy chases the car a little ways, then returns.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS293 	00:56:55,00 --> 00:57:02,50 	later, our view chases after him as he races through the park.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS26 	00:03:22,00 --> 00:03:44,50 	the rugged man chases his target to the roof's edge where the young man leaps off.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS161 	00:32:51,00 --> 00:33:02,50 	he chases her down the shoulder then tackles her.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS273 	00:51:36,00 --> 00:51:48,50 	the teenager chases her on foot.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS446 	01:22:45,00 --> 01:22:52,50 	still attached to the headboard, he chases after her.
 THE_VOW.srt 	THE_VOW_DVS109 	00:11:37,00 --> 00:11:46,50 	the guards chase them.
 THE_WATCH.srt 	THE_WATCH_DVS156 	00:29:50,00 --> 00:29:55,50 	someone chases a boy with a backpack.
-THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS472 	01:23:26,00 --> 01:23:46,50 	chased by another suv, someone throws a gas jug from the jeep.
-THOR.srt 	THOR_DVS60 	00:07:12,00 --> 00:07:18,50 	as the king strides off the boys exchange smirks then chase after him.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS55 	00:07:00,00 --> 00:07:05,50 	he chases the girl through the house.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS244 	00:23:08,00 --> 00:23:13,50 	she chases him down the stair
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1187 	01:45:56,00 --> 01:46:03,50 	she regains her balance, then chases the young mutant across the sky.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS39 	00:03:38,00 --> 00:03:44,50 	as two of the infected chase him from a burning car.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS64 	00:05:34,00 --> 00:05:44,50 	with toilet paper trailing from his shoe, the infected man chases him toward his car.
-ZOMBIELAND.srt 	ZOMBIELAND_DVS75 	00:06:16,00 --> 00:06:22,50 	the zombies chase after him but quickly fall far behind.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS166 	00:16:39,00 --> 00:16:45,50 	406 swipes at him then chases him into the kitchen.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS169 	00:16:51,00 --> 00:16:59,50 	the zombie chases someone down the hall to his room.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS172 	00:17:06,00 --> 00:17:11,50 	she squeezes in and chases him to a bathroom.

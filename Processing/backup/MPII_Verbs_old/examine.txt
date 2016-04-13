@@ -1,46 +1,45 @@
-0001_American_Beauty_00.48.22.827-00.48.23.550 	Lester picks up a CD case from a shelf and examines it.
-0001_American_Beauty_01.01.15.042-01.01.18.723 	She examines it.
-0002_As_Good_As_It_Gets_00.23.59.006-00.24.01.078 	A beat and then a strange figure crosses between the CAMERA and the scene -- gone before we can examine him further.
-0003_CASABLANCA_00.03.23.558-00.03.29.003 	The second policeman examines them.
-0003_CASABLANCA_00.56.45.786-00.56.46.931 	At the linen stall, Ilsa examines a tablecloth which an Arab vendor is endeavoring to sell.
-0004_Charade_00.46.45.514-00.46.47.736 	She hands over the newer one to BARTHOLOMEW, who sadly examines its mutilated end while REGGIE returns to the first cigarette.
-0004_Charade_01.04.48.702-01.04.50.362 	GIDEON empties the contents of the bag on the table, then starts examining the various items.
-0004_Charade_01.05.09.237-01.05.25.062 	TEX takes the list, examines it, then folds it and puts it in his pocket.
-0004_Charade_01.25.06.642-01.25.33.523 	As ADAM begins to examine the items one by one.
-0005_Chinatown_00.21.08.432-00.21.12.953 	He begins to open and close the desk drawers after quickly examining the top.
-0006_Clerks_00.33.58.497-00.34.02.566 	He grabs a carton from the cooler case, pops it open, and examines each egg carefully.
-0007_DIE_NACHT_DES_JAEGERS_00.24.58.496-00.25.02.128 	At start of scene we see only JOHN's feet; he's under the skiff, examining it.
-0007_DIE_NACHT_DES_JAEGERS_01.08.33.592-01.08.34.946 	He, and we, start to examine her from foot to head; for this is our heroine at last.
-0012_Get_Shorty_00.28.24.450-00.28.26.717 	Chili examines the cover, the first time he's ever held a movie script.
-0014_Ist_das_Leben_nicht_schoen_01.37.58.902-01.38.00.178 	He leans over to examine the damages.
-0014_Ist_das_Leben_nicht_schoen_01.45.58.426-01.46.05.809 	The owner bends down to examine the trunk of the tree, then straightens up and smells George's breath.
-0017_Pianist_00.05.30.702-00.05.36.161 	Regina is opening and closing the window, examining the frame with her fingers.
-0017_Pianist_00.13.53.349-00.13.56.081 	He sits at the piano, now examining the lacquer.
-0019_Pulp_Fiction_02.03.12.383-02.03.55.961 	The three men hang back as The Wolf examines the car.
-0019_Pulp_Fiction_02.08.53.366-02.09.14.047 	The Wolf circles the car examining it.
-0021_Rear_Window_00.17.56.690-00.17.58.734 	Picks up an old and cracked cigarette box, examines it as she talks.
-0021_Rear_Window_00.43.35.857-00.43.36.357 	We now get an opportunity to examine these people more closely.
-0021_Rear_Window_01.01.33.466-01.01.34.709 	Satisfied, she takes off the glasses, and examines her face as a whole, through squinting eyes.
-0027_The_Big_Lebowski_00.02.42.386-00.02.53.647 	He is feeling quarts of milk for coldness and examining their expiration dates.
-0027_The_Big_Lebowski_00.05.07.774-00.05.11.209 	He pulls out a bowling ball and examines it in the manner of a superstitious native.
-0030_The_Hustler_00.58.46.668-00.58.49.768 	We stay on Eddie, who examines the lighter in his hand.
-0032_The_Princess_Bride_00.41.59.567-00.42.01.612 	He examines where the flames burst over her.
-0049_Hannah_and_her_sisters_00.14.57.893-00.15.05.715 	An uptempo big-band sound is heard as the movie cuts to Mickey's examination, beginning with a close-up of Dr. Abel using an otoscope to examine the ear of a nervous Mickey.
-0049_Hannah_and_her_sisters_00.15.19.000-00.15.24.429 	Dr. Abel walks from the examining room, through the consultation room, to a second examining room across the way.
-0049_Hannah_and_her_sisters_00.15.23.597-00.15.25.958 	Dr. Abel moves offscreen in the second examining room.
-0049_Hannah_and_her_sisters_00.29.50.873-00.29.55.988 	A sitting Dr. Grey, his back to the camera, is examining a group of X-rays clipped to the light board behind his desk.
-0049_Hannah_and_her_sisters_00.37.34.202-00.37.38.067 	As Dusty talks, the camera follows Elliot, who walks past the others to examine the drawings more closely.
-0049_Hannah_and_her_sisters_00.48.10.909-00.48.14.985 	They examine the computer screen and talk indistinctly to each other.
-0050_Indiana_Jones_and_the_last_crusade_00.15.26.463-00.15.30.706 	He places it on the desk and takes off his glasses as Brody examines the Cross.
+0001_American_Beauty_00.48.22.827-00.48.23.550 	lester picks up a cd case from a shelf and examines it.
+0001_American_Beauty_01.01.15.042-01.01.18.723 	she examines it.
+0002_As_Good_As_It_Gets_00.23.59.006-00.24.01.078 	a beat and then a strange figure crosses between the camera and the scene -- gone before we can examine him further.
+0003_CASABLANCA_00.03.23.558-00.03.29.003 	the second policeman examines them.
+0003_CASABLANCA_00.56.45.786-00.56.46.931 	at the linen stall, ilsa examines a tablecloth which an arab vendor is endeavoring to sell.
+0004_Charade_00.46.45.514-00.46.47.736 	she hands over the newer one to bartholomew, who sadly examines its mutilated end while reggie returns to the first cigarette.
+0004_Charade_01.04.48.702-01.04.50.362 	gideon empties the contents of the bag on the table, then starts examining the various items.
+0004_Charade_01.05.09.237-01.05.25.062 	tex takes the list, examines it, then folds it and puts it in his pocket.
+0004_Charade_01.25.06.642-01.25.33.523 	as adam begins to examine the items one by one.
+0005_Chinatown_00.21.08.432-00.21.12.953 	he begins to open and close the desk drawers after quickly examining the top.
+0007_DIE_NACHT_DES_JAEGERS_00.24.58.496-00.25.02.128 	at start of scene we see only john's feet; he's under the skiff, examining it.
+0007_DIE_NACHT_DES_JAEGERS_01.08.33.592-01.08.34.946 	he, and we, start to examine her from foot to head; for this is our heroine at last.
+0012_Get_Shorty_00.28.24.450-00.28.26.717 	chili examines the cover, the first time he's ever held a movie script.
+0014_Ist_das_Leben_nicht_schoen_01.37.58.902-01.38.00.178 	he leans over to examine the damages.
+0014_Ist_das_Leben_nicht_schoen_01.45.58.426-01.46.05.809 	the owner bends down to examine the trunk of the tree, then straightens up and smells george's breath.
+0017_Pianist_00.05.30.702-00.05.36.161 	regina is opening and closing the window, examining the frame with her fingers.
+0017_Pianist_00.13.53.349-00.13.56.081 	he sits at the piano, now examining the lacquer.
+0019_Pulp_Fiction_02.03.12.383-02.03.55.961 	the three men hang back as the wolf examines the car.
+0019_Pulp_Fiction_02.08.53.366-02.09.14.047 	the wolf circles the car examining it.
+0021_Rear_Window_00.17.56.690-00.17.58.734 	picks up an old and cracked cigarette box, examines it as she talks.
+0021_Rear_Window_00.43.35.857-00.43.36.357 	we now get an opportunity to examine these people more closely.
+0021_Rear_Window_01.01.33.466-01.01.34.709 	satisfied, she takes off the glasses, and examines her face as a whole, through squinting eyes.
+0027_The_Big_Lebowski_00.02.42.386-00.02.53.647 	he is feeling quarts of milk for coldness and examining their expiration dates.
+0027_The_Big_Lebowski_00.05.07.774-00.05.11.209 	he pulls out a bowling ball and examines it in the manner of a superstitious native.
+0030_The_Hustler_00.58.46.668-00.58.49.768 	we stay on eddie, who examines the lighter in his hand.
+0032_The_Princess_Bride_00.41.59.567-00.42.01.612 	he examines where the flames burst over her.
+0049_Hannah_and_her_sisters_00.14.57.893-00.15.05.715 	an uptempo big-band sound is heard as the movie cuts to mickey's examination, beginning with a close-up of dr. abel using an otoscope to examine the ear of a nervous mickey.
+0049_Hannah_and_her_sisters_00.15.19.000-00.15.24.429 	dr. abel walks from the examining room, through the consultation room, to a second examining room across the way.
+0049_Hannah_and_her_sisters_00.29.50.873-00.29.55.988 	a sitting dr. grey, his back to the camera, is examining a group of x-rays clipped to the light board behind his desk.
+0049_Hannah_and_her_sisters_00.37.34.202-00.37.38.067 	as dusty talks, the camera follows elliot, who walks past the others to examine the drawings more closely.
+0049_Hannah_and_her_sisters_00.48.10.909-00.48.14.985 	they examine the computer screen and talk indistinctly to each other.
+0050_Indiana_Jones_and_the_last_crusade_00.15.26.463-00.15.30.706 	he places it on the desk and takes off his glasses as brody examines the cross.
 0050_Indiana_Jones_and_the_last_crusade_00.48.23.870-00.48.26.357 	he is examining the broken end carefully.
-0051_Men_in_black_00.52.05.078-00.52.06.809 	He begins to examine it.
-0051_Men_in_black_00.53.58.433-00.54.02.860 	He walks across the morgue to Kay, who is still examining the Arquillian.
-0053_Rendezvous_mit_Joe_Black_01.01.10.910-01.01.19.338 	Susan is busy giving instructions to a Nurse, a patient on an examining table beside them.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.37.48.487-00.37.53.087 	In his study, Professor Dumbledore examines a book with a hole burnt in it.
-1007_Spider-Man1_00.10.34.820-00.10.36.443 	Peter examines the bite.
-1007_Spider-Man1_00.23.29.676-00.23.34.926 	Later Peter strides towards his lock and examining his wrist as he goes.
-1007_Spider-Man1_00.25.25.057-00.25.26.471 	He then turns over his hand to examine again the swollen bite mark.
+0051_Men_in_black_00.52.05.078-00.52.06.809 	he begins to examine it.
+0051_Men_in_black_00.53.58.433-00.54.02.860 	he walks across the morgue to kay, who is still examining the arquillian.
+0053_Rendezvous_mit_Joe_Black_01.01.10.910-01.01.19.338 	susan is busy giving instructions to a nurse, a patient on an examining table beside them.
+1002_Harry_Potter_and_the_Half-Blood_Prince_00.37.48.487-00.37.53.087 	in his study, professor dumbledore examines a book with a hole burnt in it.
+1007_Spider-Man1_00.10.34.820-00.10.36.443 	peter examines the bite.
+1007_Spider-Man1_00.23.29.676-00.23.34.926 	later peter strides towards his lock and examining his wrist as he goes.
+1007_Spider-Man1_00.25.25.057-00.25.26.471 	he then turns over his hand to examine again the swollen bite mark.
 1008_Spider-Man2_00.32.22.415-00.32.29.009 	he takes off his spider-man mask and examines his wrist.
+1008_Spider-Man2_01.06.08.171-01.06.12.114 	peter's at his doctor being examined.
 1008_Spider-Man2_02.05.57.496-02.06.13.567 	he picks it up, examines it, then marches into another section of the secret chamber.
 1009_Spider-Man3_00.28.37.830-00.28.45.197 	sandman raises his arms and examines his bulky, paw-like hands.
 1009_Spider-Man3_00.53.13.844-00.53.18.104 	the maitre d' puts on specs to examine it.
@@ -74,15 +73,5 @@
 2004_Juno_01.16.59.926-01.17.04.594 	vanessa takes the note from his hand and turns it over, examining it.
 2012_Unbreakable_00.01.51.014-00.01.52.778 	mathison as he looks down and examines her child.
 2027_Les_Miserables_00.12.47.677-00.12.49.121 	slowly, he examines the yellow passport and raises it high, as if to the altar.
-1055_Marley_and_me_01.34.13.458-01.34.17.290 	resting his cheek on his right hand, john doesn't look at her and examines his other hand, distractedly.
-1059_The_devil_wears_prada_00.31.58.000-00.32.04.000 	she stops by the door and looks in at nigel, who is examining some contact sheets on an illuminated desktop.
-1060_Yes_man_00.13.18.720-00.13.22.543 	he examines it.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.06.40.000-00.07.02.230 	he hands a curved wand to ollivander, who examines it closely.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.04.38.780-01.04.44.552 	lucius malfoy is also there, with voldemort, who examines the skin on his own forearm.
-1062_Day_the_Earth_stood_still_01.33.01.049-01.33.05.056 	as helen crouches to examine him, he collapses in her arms.
-2004_Juno_00.14.06.284-00.14.07.284 	juno examines a large ad in the newspaper that depicts a distraught teen girl clutching her head in a moment of staged conflict.
-2004_Juno_01.06.50.040-01.06.53.078 	juno examines the comic.
-2004_Juno_01.16.59.926-01.17.04.594 	vanessa takes the note from his hand and turns it over, examining it.
-2012_Unbreakable_00.01.51.014-00.01.52.778 	mathison as he looks down and examines her child.
-2027_Les_Miserables_00.12.47.677-00.12.49.121 	slowly, he examines the yellow passport and raises it high, as if to the altar.
 2034_Super_8_01.15.45.025-01.15.47.276 	we see inside a hangar, where dozens of scientists examine large, bus-sized pieces of jagged and unearthly material.
+2041_This_is_40_00.30.29.253-00.30.35.271 	pete gets his testicles examined.

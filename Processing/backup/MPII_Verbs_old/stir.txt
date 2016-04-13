@@ -1,15 +1,25 @@
-0006_Clerks_00.32.22.105-00.32.26.354 	RANDAL hardly stirs and continues to read his paper.
-0007_DIE_NACHT_DES_JAEGERS_00.18.18.802-00.18.19.722 	ICEY in BACKGROUND, stirs fudge at a little soda-fountain stove.
-0008_Fargo_00.34.27.526-00.34.31.985 	The man stirs and clears his throat with a long deep rumble.
-0021_Rear_Window_01.26.19.411-01.26.20.981 	The viewer moves away, and we are left with the identical scene, but not quite so still, a slight breeze stirring the foliage.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.55.36.007-00.55.39.241 	PIPPIN stirs slightly, then settles back to sleep.
-0027_The_Big_Lebowski_00.52.54.113-00.52.59.594 	The Dude and Walter sit at the counter, both staring off into space, both absently stirring their coffee with little clinking noises.
-0033_Amadeus_01.04.54.172-01.04.59.146 	Salieri stirs himself.
-0041_The_Sixth_Sense_00.26.31.074-00.26.34.897 	Anna stirs sugar in her coffee as Malcolm sits in the seat across from her.
-0049_Hannah_and_her_sisters_00.09.32.176-00.09.37.377 	Lee stirs a cup of coffee on the counter of the loft's modern kitchen area; a nearby vase hold flowers.
-1001_Flight_01.03.35.382-01.03.42.259 	The next morning Whip watches Nicole as she briefly stirs in her sleep.
+0007_DIE_NACHT_DES_JAEGERS_00.18.18.802-00.18.19.722 	icey in background, stirs fudge at a little soda-fountain stove.
+0007_DIE_NACHT_DES_JAEGERS_01.30.50.414-01.30.51.370 	; banging pots about and stirring; praying as she works, which is the best way to pray.
+0008_Fargo_00.33.47.619-00.33.48.690 	the woman stirs.
+0008_Fargo_00.34.27.526-00.34.31.985 	the man stirs and clears his throat with a long deep rumble.
+0012_Get_Shorty_00.13.24.425-00.13.26.205 	the shape stirs, rolls over, and we see harry zimm, balding, overweight; a movie producer.
+0021_Rear_Window_01.26.19.411-01.26.20.981 	the viewer moves away, and we are left with the identical scene, but not quite so still, a slight breeze stirring the foliage.
+0027_The_Big_Lebowski_00.52.54.113-00.52.59.594 	the dude and walter sit at the counter, both staring off into space, both absently stirring their coffee with little clinking noises.
+0049_Hannah_and_her_sisters_00.09.32.176-00.09.37.377 	lee stirs a cup of coffee on the counter of the loft's modern kitchen area; a nearby vase hold flowers.
+1003_How_to_Lose_Friends_and_Alienate_People_01.16.08.862-01.16.12.613 	she stirs.
+1010_TITANIC_00.02.40.710-00.02.51.317 	the sub moves forward stirring up clouds of sediment as the second sub follows close behind.
+1010_TITANIC_01.10.24.593-01.10.29.345 	as rose stirs her coffee, she and cal exchange glances.
+1010_TITANIC_01.30.16.170-01.30.19.545 	captain smith looks down as he stirs a slice of lemon in his tea.
+1024_Identity_Thief_00.55.50.778-00.55.57.225 	inside, sandy stirs his coffee while the skiptracer pulls diana from the car.
+1028_No_Reservations_00.37.22.533-00.37.24.892 	later, he stirs another pan.
+1033_Sherlock_Holmes_A_Game_of_Shadows_00.32.50.167-00.32.52.834 	he nudges watson, who stirs but doesn't awake.
+1033_Sherlock_Holmes_A_Game_of_Shadows_01.21.02.539-01.21.04.115 	he stirs.
+1035_The_Adjustment_Bureau_00.17.33.743-00.17.38.284 	as david takes the seat beside her, she stirs.
+1039_The_Queen_01.29.56.859-01.30.04.526 	the queen is stirred by the applause from outside the abbey.
+1052_Harry_Potter_and_the_order_of_phoenix_00.37.48.634-00.37.53.279 	she stirs her tea.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_00.12.44.869-00.12.48.461 	inside the gloomy public house, a man sits reading a book while a spoon stirs itself around a cup.
-1055_Marley_and_me_00.50.40.421-00.50.46.141 	heavily pregnant, jenny stirs in bed.
 1056_Rambo_01.18.47.000-01.18.48.000 	lewis stirs a little.
-2012_Unbreakable_00.32.54.192-00.32.57.064 	joseph stirs but doesn't wake up.
-2051_Harry_Potter_and_the_goblet_of_fire_00.12.08.573-00.12.18.830 	harry stirs and witnesses the man standing there.
+1057_Seven_pounds_00.10.38.735-00.10.43.945 	as she stirs, ben makes a swift but calm exit.
+1060_Yes_man_00.35.45.804-00.35.48.717 	he stirs.
+2054_Harry_Potter_and_the_prisoner_of_azkaban_00.12.44.877-00.12.47.703 	a solitary wizard reads a book while, at his elbow, his coffee cup stirs itself.
+2054_Harry_Potter_and_the_prisoner_of_azkaban_01.52.58.026-01.53.05.371 	as harry vaults into the patch, the crows stir, cawing at his ankles, pecking at his feet.

@@ -2,4 +2,3 @@ DEAR_JOHN.srt 	DEAR_JOHN_DVS339 	00:52:01,00 --> 00:52:09,50 	inside, guests min
 SPARKLE_2012.srt 	SPARKLE_2012_DVS380 	01:03:50,00 --> 01:04:00,50 	in the hallway, audience members mingle backstage.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS540 	01:15:49,00 --> 01:15:55,50 	beyond it people mingle in a large covered courtyard near a fountain.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS35 	00:06:03,00 --> 00:06:11,50 	meanwhile, police officers mingle at a bar.
-THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS45 	00:10:28,00 --> 00:10:35,50 	where middle-aged men and women are mingling with each other and engaging in conversation.

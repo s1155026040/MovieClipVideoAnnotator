@@ -1,36 +1,23 @@
-0001_American_Beauty_00.22.02.845-00.22.09.179 	She quickly TURNS OFF THE LIGHT that's been left on for her, then peeks through a window.
-0001_American_Beauty_01.11.40.170-01.11.40.665 	in the window across from us, Jane peeks out from behind the drape.
-0004_Charade_01.42.09.160-01.42.11.508 	As REGGIE's head appears, peeking cautiously over the bottom of the window.
-0004_Charade_01.42.22.319-01.42.25.247 	CAMERA PANS TO REGGIE, peeking around the corner.
-0013_Halloween_01.24.46.488-01.24.51.911 	Slowly Laurie crawls around and peeks out of the closet doors.
-0020_Raising_Arizona_01.02.04.187-01.02.07.640 	He goes to the door, pulls back its shade and peeks out.
-0027_The_Big_Lebowski_00.05.28.825-00.05.30.714 	The Dude pulls his sunglasses down his nose with one finger and peeks over them.
-0027_The_Big_Lebowski_00.15.28.793-00.15.29.758 	The Dude pulls his sunglasses down his nose and peeks over them.
-0027_The_Big_Lebowski_01.41.05.074-01.41.10.316 	Walter, his head cocked, and the Dude, peeking over his shades, watch him go.
-0030_The_Hustler_00.13.11.801-00.13.12.865 	Fats' clothes reflect his high station at Ames Pool Hall: a gray felt bowler hat, and an expensive, tailored overcoat, with a carnation in its lapel and two silk handkerchiefs peeking up from its breast pocket.
-0033_Amadeus_02.16.04.663-02.16.07.737 	Lorl is seen peeking out from the kitchen.
-0041_The_Sixth_Sense_00.30.58.603-00.31.01.773 	Every now and then we get glimpses of things Cole is playing with peeking over the back of the couch, but we can't quite make out what he's doing.
-0041_The_Sixth_Sense_00.54.17.035-00.54.19.712 	Cole's tiny face peeks out.
-0049_Hannah_and_her_sisters_01.17.13.650-01.17.16.562 	The hostess appears, peeking around the corner of the coatcheck area.
-1001_Flight_00.38.38.562-00.38.44.570 	He peeks into the corridor as a nurse walks by the reception desk.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.38.39.080-01.38.43.724 	Harry peeks out, his image reflected in a mirror.
+0001_American_Beauty_00.22.02.845-00.22.09.179 	she quickly turns off the light that's been left on for her, then peeks through a window.
+0004_Charade_01.42.09.160-01.42.11.508 	as reggie's head appears, peeking cautiously over the bottom of the window.
+0004_Charade_01.42.22.319-01.42.25.247 	camera pans to reggie, peeking around the corner.
+0013_Halloween_01.24.46.488-01.24.51.911 	slowly laurie crawls around and peeks out of the closet doors.
+0016_O_Brother_Where_Art_Thou_00.30.35.186-00.30.36.593 	pete shovels dirt onto the fire as delmar and everett scramble to peek over a low ridge.
+0027_The_Big_Lebowski_01.41.05.074-01.41.10.316 	walter, his head cocked, and the dude, peeking over his shades, watch him go.
+0030_The_Hustler_00.13.11.801-00.13.12.865 	fats' clothes reflect his high station at ames pool hall: a gray felt bowler hat, and an expensive, tailored overcoat, with a carnation in its lapel and two silk handkerchiefs peeking up from its breast pocket.
+0033_Amadeus_02.16.04.663-02.16.07.737 	lorl is seen peeking out from the kitchen.
+0041_The_Sixth_Sense_00.30.58.603-00.31.01.773 	every now and then we get glimpses of things cole is playing with peeking over the back of the couch, but we can't quite make out what he's doing.
+0041_The_Sixth_Sense_00.54.17.035-00.54.19.712 	cole's tiny face peeks out.
+0049_Hannah_and_her_sisters_01.17.13.650-01.17.16.562 	the hostess appears, peeking around the corner of the coatcheck area.
+1001_Flight_00.38.38.562-00.38.44.570 	he peeks into the corridor as a nurse walks by the reception desk.
+1002_Harry_Potter_and_the_Half-Blood_Prince_01.38.39.080-01.38.43.724 	harry peeks out, his image reflected in a mirror.
 1010_TITANIC_00.36.02.399-00.36.07.967 	she peeks towards him from the corner of her eyes.
 1011_The_Help_01.10.51.451-01.10.54.793 	elain spots the pamphlet peeking out of skeeter's briefcase.
-1017_Bad_Santa_00.14.37.686-00.14.45.968 	he peeks behind the painting, then removes it from the wall revealing a safe.
 1020_Crazy_Stupid_Love_00.48.04.590-00.48.08.524 	she peeks out from behind her locker door at a girl of her own age with long blonde hair.
 1024_Identity_Thief_00.07.12.584-00.07.15.547 	he peeks into an office, where cornish beckons him to enter.
-1024_Identity_Thief_00.15.19.022-00.15.21.689 	sandy peeks out the window as one of the officers approaches.
 1030_Public_Enemies_00.49.06.740-00.49.13.041 	pushing one open, he peeks into a bathroom.
-1030_Public_Enemies_01.02.49.686-01.02.56.195 	the guard on the other side peeks through then unlocks it.
-1030_Public_Enemies_01.51.41.706-01.51.45.372 	holding a gun in his pocket, dillinger peeks around a tree.
 1030_Public_Enemies_02.01.45.484-02.01.48.771 	sitting on her own, anna turns, peeking nervously over her shoulder.
-1035_The_Adjustment_Bureau_00.40.32.906-00.40.36.673 	at their outdoor table, elise smiles to herself and peeks at david.
+1039_The_Queen_00.17.18.255-00.17.22.921 	peeking through a doorway, the queen sees charles talking to prince william and prince harry.
 1046_Australia_00.04.35.037-00.04.39.084 	he peeks through a crack in the tank.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.51.19.021-00.51.24.403 	he peeks out the door and steps out.
 2012_Unbreakable_00.05.10.050-00.05.16.364 	the woman looks over the one being offered and then points to the sports illustrated peeking out of the seat pocket.
-2012_Unbreakable_00.43.08.776-00.43.12.813 	the silver handle of a gun peeks out from the belt of his pants.
-2012_Unbreakable_00.05.10.050-00.05.16.364 	the woman looks over the one being offered and then points to the sports illustrated peeking out of the seat pocket.
-2012_Unbreakable_00.43.08.776-00.43.12.813 	the silver handle of a gun peeks out from the belt of his pants.
-2034_Super_8_01.23.38.002-01.23.44.817 	with all the boys helping, joe pulls himself up -- outside the bus, joe peeks out -- the fucking creature -- its back to joe -- just fifteen feet away, focused on the door -- and joe strains to climb out here, onto the top-side of the bus.
-2041_This_is_40_01.56.24.061-01.56.25.216 	larry opens the door and peeks out.
-2054_Harry_Potter_and_the_prisoner_of_azkaban_00.09.59.261-00.10.00.239 	stan, huddled in an armchair, peeks over the daily prophet, eyes harry coolly, before disappearing once more.

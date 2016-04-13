@@ -1,15 +1,10 @@
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS156 	00:19:38,00 --> 00:19:44,50 	a map highlights the southern states.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS424 	01:43:39,00 --> 01:43:44,50 	the overhead lamp highlights someone's pained face.
 DISTRICT_9.srt 	DISTRICT_9_DVS30 	00:04:18,00 --> 00:04:26,50 	in old video footage, a lit circle highlights an arrowhead-shaped module descending.
-GREEN_ZONE.srt 	GREEN_ZONE_DVS323 	01:12:25,00 --> 01:12:38,50 	a bar highlights the words, met-delta on a list and a satellite map shows a moving icon.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS49 	00:13:52,00 --> 00:14:01,50 	the light from the window highlights his mustache and drawn weathered face.
-JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS455 	01:28:49,00 --> 01:28:57,50 	she highlights the last sentence, deletes it, and determinedly resumes typing.
 LARRY_CROWNE.srt 	LARRY_CROWNE_DVS161 	00:37:51,00 --> 00:38:02,50 	in someone's house, the middle-aged student highlights almost every line on a textbook's pages.
 LARRY_CROWNE.srt 	LARRY_CROWNE_DVS316 	01:14:37,00 --> 01:14:44,50 	he highlights a passage near the end.
-MORNING_GLORY.srt 	MORNING_GLORY_DVS115 	00:26:28,00 --> 00:26:33,50 	she lifts the contract and highlights a line.
 SALT.srt 	SALT_DVS254 	00:43:39,00 --> 00:44:13,50 	someone subdivision, and highlights a steam vent.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS263 	00:31:47,00 --> 00:31:53,50 	he picks up a marker and highlights a line on someone's notes.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS270 	00:32:04,00 --> 00:32:09,50 	someone highlights another line.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS274 	00:32:16,00 --> 00:32:25,50 	someone highlights another line.
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS108 	00:31:14,00 --> 00:31:19,50 	now someone highlights a question in someone's book,
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS765 	01:08:46,00 --> 01:08:55,50 	he arrives at a world map highlighting the united states and soviet union, then points out the strategic location.

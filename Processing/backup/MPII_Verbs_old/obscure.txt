@@ -1,21 +1,25 @@
-0001_American_Beauty_00.43.35.483-00.43.36.126 	ROSE PETALS float on the surface of the water, obscuring her naked body.
-0011_Gandhi_00.03.17.373-00.03.21.650 	The camera keeps moving closer, and the point of view is always Godse's, but Gandhi is always in profile or half obscured by the heads and shoulders of those in front.
-0011_Gandhi_00.03.38.228-00.03.40.290 	He is only a few steps away, but turned to speak to someone on the other side, and Manu half obscures him.
-0017_Pianist_00.02.28.213-00.02.32.276 	Szpilman fights to get to the main door, when another bomb explodes, filling the air with dust and debris, obscuring him and everyone else.
-0019_Pulp_Fiction_00.26.04.649-00.26.07.771 	Vincent hugging and kissing the obscured figure that is Marsellus.
-0031_The_Lost_Weekend_00.09.08.759-00.09.10.226 	A skylight, somewhat obscured by dirt and dust, lights the fourth floor back.
-0031_The_Lost_Weekend_01.24.22.333-01.24.28.617 	Without winking an eyelash, he pours his glass half full, lifts it so that glass and hand obscure his face.
-0049_Hannah_and_her_sisters_00.02.00.602-00.02.05.523 	The camera follows her, moving across a book-and-photograph-filled bookshelf that obscures her from view as she walks into a crowded, comfortable vestibule.
-0049_Hannah_and_her_sisters_00.14.28.521-00.14.33.768 	The camera follows the doctor's movements from the other side of the wall, obscuring him briefly.
-0049_Hannah_and_her_sisters_01.28.11.752-01.28.15.143 	Elliot turns back to the sink, once again obscured by the partially closed door.
-0049_Hannah_and_her_sisters_01.28.40.028-01.28.43.237 	He closes the door, briefly obscuring Hannah and himself from view.
-0049_Hannah_and_her_sisters_01.32.48.603-01.33.07.670 	The two of them are partially obscured by a large white Jazz sign imprinted with a large red circle as they continue their conversation.
-0049_Hannah_and_her_sisters_01.37.27.784-01.37.44.980 	Occasionally, he is obscured by a tree trunk on the opposite side of the street; a few taxis go by as he talks over the scene.
-0049_Hannah_and_her_sisters_01.38.25.258-01.38.37.348 	The movie cuts back to Mickey, sitting almost obscured in the dark theater.
-0053_Rendezvous_mit_Joe_Black_00.26.15.858-00.26.20.178 	A beautiful, classic room, areas of dim, warm light, club chairs, books reaching to the ceiling, a rolling library ladder, a weathered dictionary on a stand, a model boat carved of bone set into the stacks which are separated from the reading area by a seven-foot high partition of obscured glass.
-0053_Rendezvous_mit_Joe_Black_00.27.48.724-00.27.51.745 	Now a flicker of a shadow from behind a corner of the obscured glass, the section of the room most distant from Parrish, there is a shape.
-0053_Rendezvous_mit_Joe_Black_00.30.20.122-00.30.31.515 	The figure who is the Voice takes a step forward now, no longer obscured by the glass he comes into the light, revealing himself to be the Young Man seen previously in the coffee shop, but there is a change; he seems odd, offcenter, not handsome but terrifyingly beautiful.
-1003_How_to_Lose_Friends_and_Alienate_People_00.04.21.691-00.04.24.830 	And obscuring his face with a tray of canapes, he saunters into the party past the Nazi Clipboard woman.
+0001_American_Beauty_00.43.35.483-00.43.36.126 	rose petals float on the surface of the water, obscuring her naked body.
+0011_Gandhi_00.03.17.373-00.03.21.650 	the camera keeps moving closer, and the point of view is always godse's, but gandhi is always in profile or half obscured by the heads and shoulders of those in front.
+0011_Gandhi_00.03.38.228-00.03.40.290 	he is only a few steps away, but turned to speak to someone on the other side, and manu half obscures him.
+0017_Pianist_00.02.28.213-00.02.32.276 	szpilman fights to get to the main door, when another bomb explodes, filling the air with dust and debris, obscuring him and everyone else.
+0019_Pulp_Fiction_00.26.04.649-00.26.07.771 	vincent hugging and kissing the obscured figure that is marsellus.
+0022_Reservoir_Dogs_00.17.33.579-00.17.38.188 	pink is obscured, but mr. white is in view.
+0031_The_Lost_Weekend_00.09.08.759-00.09.10.226 	a skylight, somewhat obscured by dirt and dust, lights the fourth floor back.
+0049_Hannah_and_her_sisters_00.02.00.602-00.02.05.523 	the camera follows her, moving across a book-and-photograph-filled bookshelf that obscures her from view as she walks into a crowded, comfortable vestibule.
+0049_Hannah_and_her_sisters_00.14.28.521-00.14.33.768 	the camera follows the doctor's movements from the other side of the wall, obscuring him briefly.
+0049_Hannah_and_her_sisters_01.28.11.752-01.28.15.143 	elliot turns back to the sink, once again obscured by the partially closed door.
+0049_Hannah_and_her_sisters_01.28.40.028-01.28.43.237 	he closes the door, briefly obscuring hannah and himself from view.
+0049_Hannah_and_her_sisters_01.32.48.603-01.33.07.670 	the two of them are partially obscured by a large white jazz sign imprinted with a large red circle as they continue their conversation.
+0049_Hannah_and_her_sisters_01.37.27.784-01.37.44.980 	occasionally, he is obscured by a tree trunk on the opposite side of the street; a few taxis go by as he talks over the scene.
+0049_Hannah_and_her_sisters_01.38.25.258-01.38.37.348 	the movie cuts back to mickey, sitting almost obscured in the dark theater.
+0053_Rendezvous_mit_Joe_Black_00.30.20.122-00.30.31.515 	the figure who is the voice takes a step forward now, no longer obscured by the glass he comes into the light, revealing himself to be the young man seen previously in the coffee shop, but there is a change; he seems odd, offcenter, not handsome but terrifyingly beautiful.
+1003_How_to_Lose_Friends_and_Alienate_People_00.04.21.691-00.04.24.830 	and obscuring his face with a tray of canapes, he saunters into the party past the nazi clipboard woman.
+1012_Unbreakable_01.23.16.521-01.23.22.187 	the shadow from his hood obscures all his space but a triangle from his nose to his mouth.
+1018_Body_Of_Lies_01.45.37.522-01.45.44.481 	the suvs drive in a circle around ferris churning up a dust cloud, obscuring them.
+1018_Body_Of_Lies_01.46.00.210-01.46.03.207 	on the screen, the vehicles and men are obscured by a large cloud of dust.
+1039_The_Queen_00.27.10.882-00.27.13.250 	seen from outside the room, the view of charles is obscured by the frame of the glass door.
+1046_Australia_00.19.14.632-00.19.16.829 	thick smoke obscures the house.
+1047_Defiance_02.00.24.120-02.00.24.926 	asael fires his gun blind, the smoke obscuring his vision.
 2005_Signs_01.02.25.877-01.02.29.373 	he sits obscured by the balusters.
 2005_Signs_01.36.39.280-01.36.42.656 	morgan's face is obscured by gas.
 2034_Super_8_00.23.04.203-00.23.05.365 	they hold it up, the map now backlit and obscuring woodward.

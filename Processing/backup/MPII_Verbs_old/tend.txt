@@ -1,9 +1,13 @@
-0001_American_Beauty_00.02.26.618-00.02.28.031 	CAROLYN BURNHAM tends her rose bushes in front of the Burnham house.
-0001_American_Beauty_00.02.26.618-00.02.28.031 	CAROLYN BURNHAM tends her rose bushes in front of the Burnham house.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.08.41.648-00.08.45.075 	The cart rattles past a FIELD LUPIN being tended by.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.33.08.991-00.33.18.801 	GANDALF and PIPPIN dismount, leaving the GUARDS of the CITADEL to tend to SHADOWFAX.
-0032_The_Princess_Bride_00.50.46.996-00.50.56.611 	He begins tending Westley's wounds.
-0046_Chasing_Amy_00.18.46.971-00.18.49.548 	Hooper's tending bar.
+0001_American_Beauty_00.02.26.618-00.02.28.031 	carolyn burnham tends her rose bushes in front of the burnham house.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.08.41.648-00.08.45.075 	the cart rattles past a field lupin being tended by.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.33.08.991-00.33.18.801 	gandalf and pippin dismount, leaving the guards of the citadel to tend to shadowfax.
+0032_The_Princess_Bride_00.50.46.996-00.50.56.611 	he begins tending westley's wounds.
+1014_2012_02.11.01.061-02.11.02.393 	nina tends to tenzen who has injured his leg.
+1014_2012_02.17.06.252-02.17.10.518 	kate tends to tenzen.
+1027_Les_Miserables_00.40.13.980-00.40.16.497 	at the hospital a nurse tends to fantine, who lies on her back.
+1033_Sherlock_Holmes_A_Game_of_Shadows_01.49.00.612-01.49.03.405 	the soldiers allowed him to tend to rene who's convulsing on the floor.
+1043_Vantage_Point_01.08.02.918-01.08.05.513 	sam wheels the gurney while veronica tends the drip.
+1047_Defiance_01.08.43.336-01.08.44.711 	asael tends to chaya who has a shawl over her long loose hair,
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.13.29.846-01.13.33.482 	slughorn is tending to the wounded filch.
 2017_Bad_Santa_00.20.00.682-00.20.01.712 	rudolfo the red nosed burro is tended by several santa's elf mannequins.
 2027_Les_Miserables_02.01.05.175-02.01.06.689 	valjean moves among them, tending to the wounded, lifting down the dead, regardless of his own safety.

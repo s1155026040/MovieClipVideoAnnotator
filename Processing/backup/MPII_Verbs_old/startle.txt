@@ -1,22 +1,63 @@
-0001_American_Beauty_00.29.21.137-00.29.27.614 	The Colonel CHUCKLES at a joke and startles her.
-0011_Gandhi_00.45.42.948-00.45.44.465 	Gandhi has bowed to Jinnah, now he looks a little startled at Prakash.
-0011_Gandhi_01.19.27.239-01.19.29.791 	They all stare at him, startled by his words and the fervor with which he speaks to them.
-0011_Gandhi_01.41.53.276-01.41.59.703 	The minute she turns, she stops on seeing the now startled Kallenbach.
-0013_Halloween_00.43.37.167-00.43.37.653 	Annie is startled by the crash.
-0021_Rear_Window_00.39.08.985-00.39.10.485 	Jeff nearly knocks the startled Stella off her feet with his arm.
-0021_Rear_Window_00.51.59.530-00.52.02.530 	Jeff smiles affectionately, and starts to turn his eyes away; but something startles him, and he looks quickly back.
-0023_THE_BUTTERFLY_EFFECT_00.45.18.991-00.45.24.474 	She's startled at first, but eventually recognizes him.
-0023_THE_BUTTERFLY_EFFECT_01.45.13.775-01.45.16.705 	He's still debating what to do when: ANDREA WALKS IN and is startled by the unexpected sight of Evan holding a huge knife.
-0027_The_Big_Lebowski_01.12.58.759-01.13.00.979 	He wrestles the crowbar away from the startled Walter.
-0030_The_Hustler_00.34.11.969-00.34.13.335 	The noise startles him.
-0031_The_Lost_Weekend_00.46.12.095-00.46.23.297 	Wick stands, the glass of whiskey in his hand, startled taut at the sight of Don who comes in, not too steady on his feet.
-0041_The_Sixth_Sense_01.03.20.552-01.03.22.673 	He gets startled by the SOUND.
-0043_Thelma_and_Luise_00.50.56.785-00.50.59.947 	Louise is startled and turns around quickly.
-0043_Thelma_and_Luise_01.35.04.670-01.35.07.386 	She jerks upright and startles Louise.
-0050_Indiana_Jones_and_the_last_crusade_00.36.35.309-00.36.50.633 	Cafe customers are startled to see Indy and Elsa climb out of the sewer, wet and smelly.
-0050_Indiana_Jones_and_the_last_crusade_00.45.36.510-00.45.38.912 	As Indy says this he pushes his way past the startled Butler, pulling a handkerchief from the man's pocket.
-0050_Indiana_Jones_and_the_last_crusade_00.51.15.549-00.51.19.021 	He's so pissed off, he literally RIPS A MACHINE GUN from the hands of one of the startled soldiers.
-0053_Rendezvous_mit_Joe_Black_01.01.25.112-01.01.35.970 	She is startled for the moment, quickly makes a last notation, hands a chart to the Nurse and heads down the corridor.
-1001_Flight_00.38.22.261-00.38.26.636 	Whip is startled awake.
+0001_American_Beauty_00.23.57.690-00.23.58.522 	startled, barbara turns to him.
+0001_American_Beauty_00.29.21.137-00.29.27.614 	the colonel chuckles at a joke and startles her.
+0001_American_Beauty_01.10.55.685-01.10.56.355 	startled, ricky turns around.
+0001_American_Beauty_01.33.33.672-01.33.35.024 	ricky turns, startled.
+0001_American_Beauty_01.51.22.282-01.51.23.896 	it's startling how happy they look.
+0002_As_Good_As_It_Gets_00.15.34.937-00.15.36.402 	each time startling herself with her own noise and trying to reign it in.
+0004_Charade_01.30.38.935-01.30.39.908 	tex is startled.
+0007_DIE_NACHT_DES_JAEGERS_00.28.53.085-00.28.59.443 	startled, then again tender, she moves to:she adjusts the shade, looking always towards the bed.
+0011_Gandhi_00.12.58.313-00.12.59.076 	at last gandhi has got a reaction, but the dropping of the card has been as matter-of-fact as his speaking, with none of the drama one might expect from so startling a gesture.
+0011_Gandhi_00.45.42.948-00.45.44.465 	gandhi has bowed to jinnah, now he looks a little startled at prakash.
+0011_Gandhi_01.19.27.239-01.19.29.791 	they all stare at him, startled by his words and the fervor with which he speaks to them.
+0011_Gandhi_01.41.53.276-01.41.59.703 	the minute she turns, she stops on seeing the now startled kallenbach.
+0013_Halloween_00.43.37.167-00.43.37.653 	annie is startled by the crash.
+0014_Ist_das_Leben_nicht_schoen_00.42.46.459-00.42.49.478 	george stops, startled, and looks up.
+0016_O_Brother_Where_Art_Thou_00.33.34.428-00.33.36.729 	everett slides over, startled.
+0020_Raising_Arizona_00.26.51.526-00.26.54.770 	hi is momentarily startled, then goes on playing with the baby.
+0020_Raising_Arizona_01.23.04.387-01.23.06.336 	hi and ed turn, startled.
+0021_Rear_Window_00.51.59.530-00.52.02.530 	jeff smiles affectionately, and starts to turn his eyes away; but something startles him, and he looks quickly back.
+0021_Rear_Window_00.57.09.491-00.57.14.097 	startled at being observed, doyle moves quickly away from the window, affecting nonchalance.
+0023_THE_BUTTERFLY_EFFECT_00.35.28.557-00.35.29.158 	evan, startled, drops the model on the desk.
+0023_THE_BUTTERFLY_EFFECT_00.45.18.991-00.45.24.474 	she's startled at first, but eventually recognizes him.
+0023_THE_BUTTERFLY_EFFECT_01.34.17.164-01.34.18.486 	mrs. halpern, startled, stares at the young kid skeptically as she absently continues toward the mailbox.
+0023_THE_BUTTERFLY_EFFECT_01.45.13.775-01.45.16.705 	he's still debating what to do when: andrea walks in and is startled by the unexpected sight of evan holding a huge knife.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.18.25.609-01.18.27.215 	sam looks up, startled.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.57.11.844-00.57.14.347 	startled, frodo looks down at sam, losing his footing in the process.
+0026_The_Big_Fish_01.17.10.326-01.17.15.917 	edward is startled.
+0026_The_Big_Fish_01.20.50.503-01.20.51.698 	will is so startled that he drops the pole, which disappears into the murky water.
+0027_The_Big_Lebowski_01.12.58.759-01.13.00.979 	he wrestles the crowbar away from the startled walter.
+0030_The_Hustler_00.34.11.969-00.34.13.335 	the noise startles him.
+0031_The_Lost_Weekend_00.46.12.095-00.46.23.297 	wick stands, the glass of whiskey in his hand, startled taut at the sight of don who comes in, not too steady on his feet.
+0031_The_Lost_Weekend_01.33.17.723-01.33.21.265 	startled, don puts the gun into the empty wash bowl.
+0033_Amadeus_01.14.56.283-01.14.56.981 	startled, mozart stops.
+0033_Amadeus_01.18.13.223-01.18.13.746 	she sits up, startled.
+0033_Amadeus_02.45.51.181-02.46.00.787 	startled by constanze's entrance and her young son, salieri scrambles up.
+0038_Psycho_01.37.20.446-01.37.22.882 	lila moves on, catches a glimpse of herself in the pier-glass, is startled, turns away, goes to the chiffonier, is about to open a drawer, sees the high wardrobe out of the corner of her eyes, goes to it, hesitantly.
+0041_The_Sixth_Sense_01.03.20.552-01.03.22.673 	he gets startled by the sound.
+0043_Thelma_and_Luise_00.50.56.785-00.50.59.947 	louise is startled and turns around quickly.
+0050_Indiana_Jones_and_the_last_crusade_00.36.35.309-00.36.50.633 	cafe customers are startled to see indy and elsa climb out of the sewer, wet and smelly.
+0050_Indiana_Jones_and_the_last_crusade_00.42.59.455-00.43.03.237 	she gasps, startled, as indy enters.
+0050_Indiana_Jones_and_the_last_crusade_00.45.36.510-00.45.38.912 	as indy says this he pushes his way past the startled butler, pulling a handkerchief from the man's pocket.
+0050_Indiana_Jones_and_the_last_crusade_01.19.00.603-01.19.02.650 	suddenly the wheel moves forward, startling the old man.
+0050_Indiana_Jones_and_the_last_crusade_01.26.58.110-01.27.01.486 	henry climbs down into the tank and taps brody on the shoulder, startling him.
+0053_Rendezvous_mit_Joe_Black_00.26.29.962-00.26.37.433 	parrish is startled, he shrinks backward for a moment, his eyes searching the room for the voice, the timbre and pitch of which is exactly what he has heard before.
+0053_Rendezvous_mit_Joe_Black_00.52.25.516-00.52.29.836 	parrish is startled, he regards joe carefully.
+0053_Rendezvous_mit_Joe_Black_01.01.25.112-01.01.35.970 	she is startled for the moment, quickly makes a last notation, hands a chart to the nurse and heads down the corridor.
+1001_Flight_00.38.22.261-00.38.26.636 	whip is startled awake.
+1005_Signs_01.01.36.413-01.01.38.419 	startled, graham bangs his head and drops the knife.
+1019_Confessions_Of_A_Shopaholic_00.50.53.368-00.50.56.811 	luke looks both startled and pleased as she flutters her eyelashes at him from behind the fan.
+1024_Identity_Thief_01.32.57.606-01.32.58.111 	she startles awake.
+1024_Identity_Thief_01.35.02.769-01.35.07.436 	glancing over, he startles as diana sleeps with her glazed eyes wide open.
+1027_Les_Miserables_00.07.31.070-00.07.32.730 	something startles him.
+1029_Pride_And_Prejudice_Disk_One_00.38.41.518-00.38.44.842 	then startled when darcy emerges around a corner.
+1029_Pride_And_Prejudice_Disk_One_00.38.45.039-00.38.47.603 	he is equally startled.
+1029_Pride_And_Prejudice_Disk_One_00.42.56.764-00.43.00.817 	then is startled by a footman.
+1030_Public_Enemies_01.42.06.117-01.42.06.784 	he startles slightly.
+1041_This_is_40_01.53.02.294-01.53.06.582 	she catches her mom and startles her.
+1042_Up_In_The_Air_01.06.58.758-01.07.02.454 	startled, he gets up and walks out.
+1043_Vantage_Point_01.00.39.910-01.00.43.895 	sam shoots him, startling veronica.
+1046_Australia_01.27.13.403-01.27.16.152 	he looks round, startled.
+1052_Harry_Potter_and_the_order_of_phoenix_01.12.56.320-01.12.59.658 	the house elf startles him.
 2004_Juno_00.09.43.657-00.09.45.323 	bleeker is startled to discover that juno is outside waiting for him.
-2005_Signs_00.13.19.815-00.13.20.739 	he looks to his daughter with startled eyes.
+2012_Unbreakable_00.34.31.633-00.34.33.784 	david gets startled.
+2017_Bad_Santa_00.24.42.259-00.24.55.047 	we follow his gaze all around the perimeter of the room until it connects with the drunken, glowering face of a hindustani troublemaker, sitting right across from him, startling willie for a moment.

@@ -1,56 +1,27 @@
-0006_Clerks_00.53.19.050-00.53.37.241 	dante and randal run from the front door, closely chased by a small crowd of angry mourners.
-0009_Forrest_Gump_00.16.14.615-00.16.15.111 	forrest continues running as the boys chase him.
 0009_Forrest_Gump_00.16.20.997-00.16.24.690 	forrest runs from the chasing room.
-0009_Forrest_Gump_00.18.46.889-00.18.50.678 	jenny and forrest run into a corn field as jenny's dad tries to chase her.
-0009_Forrest_Gump_00.20.59.390-00.21.07.098 	the truck continues to chase him as the boys pound on the roof.
 0009_Forrest_Gump_00.29.24.334-00.29.25.215 	forrest runs across the field as the defending team chases him.
 0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.10.30.150-00.10.31.881 	excited children, chasing after the cart.
 0026_The_Big_Fish_00.33.08.273-00.33.20.757 	he chases after her.
 0050_Indiana_Jones_and_the_last_crusade_00.37.30.433-00.37.35.189 	they chase after indy.
 0050_Indiana_Jones_and_the_last_crusade_00.38.18.562-00.38.20.483 	one enemy speedboat chases indy between the two freighters.
 0050_Indiana_Jones_and_the_last_crusade_01.31.06.914-01.31.11.391 	indy and vogel exchange shots as indy chases the tank on his horse.
-1006_Slumdog_Millionaire_00.07.05.309-00.07.07.242 	the security men dismount and give chase on foot.
 1006_Slumdog_Millionaire_00.07.28.896-00.07.37.123 	a determined guard perseveres in chasing salim and jamal down a walkway and past a river swollen with rubbish, plastic bags, and green slime.
-1006_Slumdog_Millionaire_00.34.49.105-00.35.08.491 	the three children run through a forest chased by maman, punnoose, and the bearded henchmen.
-1006_Slumdog_Millionaire_00.35.14.250-00.35.17.214 	the children come to a railway siding where they chase a departing train.
-1006_Slumdog_Millionaire_00.35.39.354-00.35.42.710 	the men close in on latika who is still chasing the back of the train.
-1006_Slumdog_Millionaire_00.44.45.179-00.44.48.572 	security guards spot the boys and chase them off.
-1006_Slumdog_Millionaire_00.47.37.112-00.47.48.266 	we suddenly seen an image of five-year-old latika chasing a train followed by an image of a very beautiful latika, now in her 20s.
 1007_Spider-Man1_00.03.48.171-00.03.55.451 	a youth chases a school bus.
 1007_Spider-Man1_00.20.23.793-00.20.29.859 	the school bus beats past now chased by peter.
-1007_Spider-Man1_00.45.23.643-00.45.28.732 	far below, he sees the automobile being chased by police.
 1007_Spider-Man1_00.57.20.160-00.57.23.923 	he chases after her.
-1008_Spider-Man2_00.27.17.462-00.27.22.072 	a convertible smashes into a chasing police car, which is drawn alongside, then heads straight for peter.
-1009_Spider-Man3_01.29.09.158-01.29.13.627 	as peter chases him through the lair, harry picks up the goblin sword and swings it at him.
 1020_Crazy_Stupid_Love_00.01.28.507-00.01.30.038 	a girl in her late teens chases a girl of about 10 through a house.
 1027_Les_Miserables_01.38.35.692-01.38.38.488 	people with guns chase the cavalry down the street.
-1028_No_Reservations_01.16.02.330-01.16.13.297 	now, zoe runs out of her bedroom and down the corridor chased by kate, who ambushes her coming out of the lounge.
-1031_Quantum_of_Solace_00.01.53.297-00.01.58.192 	approaching a traffic jam he swerves left, flying down another tunnel to chase a track's vision off.
 1031_Quantum_of_Solace_00.11.01.807-00.11.04.249 	bond chases his man down a watery tunnel, but a gate bars his way.
-1031_Quantum_of_Solace_00.44.35.198-00.44.38.774 	the hero is shot on stage as men chase bond.
-1033_Sherlock_Holmes_A_Game_of_Shadows_01.28.49.746-01.28.58.918 	the captain of the guards rallies his troops and sends them through the breach in the perimeter wall to chase the fugitives down.
 1037_The_Curious_Case_Of_Benjamin_Button_02.08.49.862-02.08.51.239 	she chases him with a brush.
 1041_This_is_40_00.53.47.351-00.53.54.364 	sadie and her friend chase the triplets into the kitchen.
 1043_Vantage_Point_00.28.50.406-00.29.00.061 	holden and the second agent, parsons, chase enrique into an arcade.
-1043_Vantage_Point_00.38.48.473-00.38.52.599 	outside, he hears holden who's chasing enrique.
 1043_Vantage_Point_00.40.13.104-00.40.15.855 	she mistakenly chases a different olive skin woman.
 1046_Australia_01.24.07.128-01.24.13.492 	nullah chases the last steer onto the ship.
 1046_Australia_01.54.42.017-01.54.44.458 	nullah's dog attacks a cop whose chasing him.
 1049_Harry_Potter_and_the_chamber_of_secrets_00.06.47.831-00.06.51.850 	harry chases him downstairs.
-1049_Harry_Potter_and_the_chamber_of_secrets_00.54.42.254-00.54.49.762 	then it turns and heads straight for harry, chasing after him.
-1049_Harry_Potter_and_the_chamber_of_secrets_00.55.11.377-00.55.14.304 	chasing after harry the bludger crashes through the towers, one by one.
-1049_Harry_Potter_and_the_chamber_of_secrets_00.56.08.283-00.56.10.126 	harry is still being chased by the heavy wooden bludger.
-1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.17.19.381-00.17.25.836 	hedwig flies towards them and attacks the chasing death eater.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.01.06.863-01.01.16.020 	the hovering dementors chase the group into the lift.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.02.29.925-01.02.32.376 	uniformed guards chase harry.
-1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.58.33.345-01.58.35.725 	scabior is chasing hermione.
 1051_Harry_Potter_and_the_goblet_of_fire_00.51.33.700-00.51.37.276 	moody chases him off.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_00.16.25.229-00.16.29.415 	a ginger cat chases a rat down the corridor.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_01.27.46.231-01.27.47.878 	ron chases the rat.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_01.41.23.448-01.41.26.319 	the dog runs off, chased by the werewolf.
-1055_Marley_and_me_00.01.08.665-00.01.12.749 	a huge dog leaps a fence and heads for the boy, chased by its owner.
-1055_Marley_and_me_00.45.47.310-00.45.52.081 	marley chases debbie around the house trying to pull off her bath towel.
 1060_Yes_man_00.59.14.365-00.59.26.533 	a fat security guard with a torch chases them.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.55.51.025-01.55.54.852 	little sister lily chases a paper bird flying up the platform.
-1062_Day_the_Earth_stood_still_00.43.33.638-00.43.40.000 	a security guard chases the thief as his colleague attends the fallen man.
-2026_Legion_00.06.49.343-00.07.06.416 	he gets in the car and floors it, roaring away, as the flickering street lamps finally go out in rapid succession, a wave chasing him, plunging the entire city into darkness.

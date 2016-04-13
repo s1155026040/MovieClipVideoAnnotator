@@ -1,5 +1,4 @@
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS136 	00:22:22,00 --> 00:22:29,50 	as someone drives at him, someone slams up on the hood, then slides to the pavement.
-21_JUMP_STREET.srt 	21_JUMP_STREET_DVS399 	01:08:03,00 --> 01:08:14,50 	someone slides over the camaros hood then gets in with his partner.
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS626 	01:34:38,00 --> 01:34:43,50 	someone slides across a white limo's hood.
 30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS137 	00:37:46,00 --> 00:37:54,50 	someone hands him the shopping bag, then slides the window up and knocks over a few plastic bottles.
 30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS178 	00:46:38,00 --> 00:46:44,50 	the guard slides his gun directly over to a mom.
@@ -9,62 +8,36 @@
 30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS321 	01:11:48,00 --> 01:11:54,50 	someone slowly unzips the vest from top to bottom then slides it off.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS327 	00:28:58,00 --> 00:29:08,50 	on its side, someone's suv slides to a stop.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS423 	00:41:12,00 --> 00:41:18,50 	as the door slides shut, someone digs in his bag and retrieves a shotgun with cartridges stored along the barrel.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS548 	00:53:13,00 --> 00:53:20,50 	as they slide down, the helicopter gets into position and fires at it.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS659 	01:07:37,00 --> 01:07:45,50 	then slides the hands of its curved outer shell together in a perfect match.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS718 	01:12:41,00 --> 01:12:50,50 	in the vault, one of someone's men slides a uranium cylinder back into the case and secures the latch.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS64 	00:18:21,00 --> 00:18:27,50 	stopping, he peers into the backyard then slides open a patio door.
-A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS71 	00:19:35,00 --> 00:19:42,50 	someone slides his hands up the trunk, then steps back and gazes up at the tall tree.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS301 	00:55:33,00 --> 00:55:39,50 	someone slides the breadstick up samantha's nose.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS212 	00:29:42,00 --> 00:29:48,50 	he notices a door sliding open and throws another handful.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS239 	00:33:43,00 --> 00:33:50,50 	she slides the paper closer and he turns.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS562 	01:18:45,00 --> 01:18:56,50 	someone slides his pocket watch over a trajectory marked on a map.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS581 	01:20:37,00 --> 01:20:43,50 	stepping into the car behind it, someone slides its door shut.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS590 	01:21:37,00 --> 01:21:44,50 	he moves to a shuttered hatch and slides it open, aiming into the darkness.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS591 	01:21:44,00 --> 01:21:53,50 	someone slides it shut then turns to face another shuttered hatch.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS597 	01:22:43,00 --> 01:22:52,50 	as he slides it shut, countless more vampires leap onto the roof.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS611 	01:25:54,00 --> 01:26:01,50 	as he slides head first over the edge, someone grabs his ankle.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS632 	01:28:54,00 --> 01:29:18,50 	left behind, the railcar teeters over a ledge sending someone and someone sliding down its roof.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS640 	01:30:19,00 --> 01:31:04,50 	more sparks fly as the train begins to slide backward.
 BAD_TEACHER.srt 	BAD_TEACHER_DVS232 	01:04:08,00 --> 01:04:16,50 	someone crouches at the desk, hesitates and slides the drawer out revealing the someone wig.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS542 	01:24:09,00 --> 01:24:19,50 	the car slides into a sharp turn, then grinds up against a stone wall.
-BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS545 	01:24:40,00 --> 01:24:50,50 	the car's tail end raises ten feet off of the pavement and it slides to a stop on its nose.
 BLINDDATING.srt 	BLINDDATING_DVS195 	00:49:23,00 --> 00:49:41,50 	as someone sips wine, his date slips her foot out of her shoe and slides her toes up his leg.
-BLINDDATING.srt 	BLINDDATING_DVS340 	01:21:38,00 --> 01:21:46,50 	someone's mother watches the young indian man slide the ring on to her daughter's slender finger.
 BURLESQUE.srt 	BURLESQUE_DVS123 	00:17:06,00 --> 00:17:10,50 	he slides her his amex.
 BURLESQUE.srt 	BURLESQUE_DVS141 	00:19:36,00 --> 00:19:44,50 	he slides her a tray of drinks.
 BURLESQUE.srt 	BURLESQUE_DVS729 	01:49:59,00 --> 01:50:06,50 	they part and someone slides her hands back down his chest as he presses his lips to her
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS52 	00:07:09,00 --> 00:07:14,50 	the nazi officer slides it out.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS108 	00:18:08,00 --> 00:18:18,50 	the nazi officer slides a clear canister into the box, then transfers the light source into a large machine, and locks it into place.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS203 	00:37:01,00 --> 00:37:09,50 	the pod slides open and reveals someone, now several inches taller and extremely muscular.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS364 	01:06:11,00 --> 01:06:23,50 	someone pulls a lever and the catwalk slides apart, leaving someone and someone on opposite sides.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS374 	01:07:36,00 --> 01:07:43,50 	on the roof, a bridge slides away from the aircraft which is shaped like an upright torpedo.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS460 	01:22:39,00 --> 01:22:44,50 	someone slides down the cable toward the tracks.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS461 	01:22:43,00 --> 01:22:52,50 	someone and someone grab handles and slide down the cable.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS467 	01:23:30,00 --> 01:23:36,50 	as someone approaches the hallway, doors slide shut.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS532 	01:35:12,00 --> 01:35:27,50 	sliding in on the cables, falsworth, dugan, and someone burst through window and fire weapons while someone flees down a long corridor.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS565 	01:38:27,00 --> 01:38:41,50 	as he slides a lever forward, the plane accelerates toward the hangar exit.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS575 	01:39:29,00 --> 01:39:39,50 	the car skids sideways out of the hangar, slides backward, and stops at the edge of a cliff.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS598 	01:42:13,00 --> 01:42:20,50 	he picks up his shield and slides it onto his left forearm.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS661 	01:51:08,00 --> 01:51:13,50 	he slides his feet to the floor and sits up.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS437 	00:41:43,00 --> 00:41:47,50 	the bike slides out from under him.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS530 	00:51:27,00 --> 00:51:33,50 	someone rides his bike into someone's driveway and slides to a stop.
 CHRONICLE.srt 	CHRONICLE_DVS41 	00:04:51,00 --> 00:04:56,50 	the camera slides across the floor and tips on its side.
 CHRONICLE.srt 	CHRONICLE_DVS86 	00:11:55,00 --> 00:12:00,50 	someone jumps on the hole and slides out of view.
 CHRONICLE.srt 	CHRONICLE_DVS89 	00:12:09,00 --> 00:12:13,50 	the young man slides out of view.
-CHRONICLE.srt 	CHRONICLE_DVS391 	00:59:22,00 --> 00:59:30,50 	as he swivels a hand aimed in her direction, her body gently turns and a blanket slides up to cover her.
-CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS184 	00:39:13,00 --> 00:39:22,50 	as she slides it into an envelope, the clerk looks into someone's eyes.
-CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS205 	00:42:37,00 --> 00:42:57,50 	the promoter reaches into his pocket then lets a handful of coins slide into the hat.
-CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS333 	01:23:47,00 --> 01:24:20,50 	someone drops some coins on the form and slides it all to the clerk.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS464 	01:48:22,00 --> 01:48:31,50 	someone slides down his suspenders.
-COLOMBIANA.srt 	COLOMBIANA_DVS139 	00:12:49,00 --> 00:12:56,50 	racing into a bathroom, she slides open a window, pulls herself out and drops onto a ledge.
-COLOMBIANA.srt 	COLOMBIANA_DVS192 	00:16:42,00 --> 00:16:48,50 	finding herself boxed in, she slides down a storm drain opening and disappears.
-COLOMBIANA.srt 	COLOMBIANA_DVS198 	00:17:04,00 --> 00:17:11,50 	sliding it aside, someone lifts her face to the bright sunlight and squints.
-COLOMBIANA.srt 	COLOMBIANA_DVS369 	00:33:23,00 --> 00:33:31,50 	she stands up, slides the cell door open and eyes a surveillance camera posted in a corner.
 COLOMBIANA.srt 	COLOMBIANA_DVS401 	00:35:46,00 --> 00:35:53,50 	in the duct, someone slides her chest between the blades then squeezes her arms down her to side.
 COLOMBIANA.srt 	COLOMBIANA_DVS425 	00:37:20,00 --> 00:37:25,50 	someone slides the door open and saunters in.
 COLOMBIANA.srt 	COLOMBIANA_DVS629 	00:59:22,00 --> 00:59:27,50 	gripping its edge, she slides it away.
-COLOMBIANA.srt 	COLOMBIANA_DVS685 	01:04:55,00 --> 01:05:01,50 	she slides off her jacket and falls back on his bed.
-COLOMBIANA.srt 	COLOMBIANA_DVS852 	01:21:28,00 --> 01:21:35,50 	someone slides down a cluster of pipes in the shaft, passing several stories.
 COLOMBIANA.srt 	COLOMBIANA_DVS939 	01:30:47,00 --> 01:30:54,50 	someone arrives in pepe's garage and slides a pair of chain link doors open.
 COLOMBIANA.srt 	COLOMBIANA_DVS1094 	01:43:26,00 --> 01:43:33,50 	meanwhile, someone brushes a tear from her eye then slides on a pair of sunglasses.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS201 	00:31:49,00 --> 00:31:58,50 	sets it at a precise angle in a wooden case, and slides a glass door close in front of it.
@@ -74,73 +47,48 @@ DEAR_JOHN.srt 	DEAR_JOHN_DVS562 	01:18:39,00 --> 01:18:46,50 	as doctors and nur
 DEAR_JOHN.srt 	DEAR_JOHN_DVS570 	01:21:06,00 --> 01:21:14,50 	as it slides off, someone catches it, and lovingly touches his chin to his father's frail fingers.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS573 	01:21:25,00 --> 01:21:31,50 	sliding his father's hand to cup the back of his neck.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS705 	01:35:21,00 --> 01:35:26,50 	someone slides out the letter inside.
-DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS190 	00:43:52,00 --> 00:44:00,50 	someone puts his hand up and she slides her tongue between his fingers.
 DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS193 	00:46:51,00 --> 00:46:55,50 	she slides over the table.
-DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS198 	00:47:27,00 --> 00:47:38,50 	he backs into a door and slides down to the floor, limp, his eyes closed.
 FLIGHT.srt 	FLIGHT_DVS81 	00:15:50,00 --> 00:15:56,50 	then pushes out a small drop that slides down the needle.
 FLIGHT.srt 	FLIGHT_DVS111 	00:22:08,00 --> 00:22:13,50 	she slides the side stick forward.
 FLIGHT.srt 	FLIGHT_DVS233 	00:49:50,00 --> 00:49:55,50 	he slides the doors of the shed open,
 FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS248 	01:07:41,00 --> 01:07:50,50 	someone's hand slides down his chest.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS28 	00:04:27,00 --> 00:04:40,50 	as the suv slides across the road, our view meets its roof.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS136 	00:21:11,00 --> 00:21:19,50 	carrying a briefcase, he pulls out a sleek cellphone, slides it open and answers it.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS283 	00:43:43,00 --> 00:43:49,50 	sitting across from him, he slides the tray over.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS299 	00:46:06,00 --> 00:46:17,50 	lowering himself to his knees, someone slides his hand between someone and the cement slab.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS345 	00:51:49,00 --> 00:51:55,50 	he slides the wrapper out.
 GROWN_UPS.srt 	GROWN_UPS_DVS70 	00:20:18,00 --> 00:20:24,50 	seated next to her, someone stares and slides away.
 HUGO.srt 	HUGO_DVS22 	00:02:51,00 --> 00:02:58,50 	he jogs up a corridor then kicks open a coal door and slides down a spiraling chute.
 HUGO.srt 	HUGO_DVS65 	00:08:35,00 --> 00:08:42,50 	up ahead, the boy dashes through the crowd then slides under a newspaper vendor's legs.
 HUGO.srt 	HUGO_DVS73 	00:09:33,00 --> 00:09:51,50 	he slides into a suitcase, which strikes him in the crotch.
 HUGO.srt 	HUGO_DVS76 	00:10:04,00 --> 00:10:10,50 	he slides a latch then shoves open the heavy door.
-HUGO.srt 	HUGO_DVS293 	00:43:31,00 --> 00:43:37,50 	someone starts to slide away but someone grabs the hem of his coat.
-HUGO.srt 	HUGO_DVS329 	00:50:43,00 --> 00:50:49,50 	he smiles again as the automaton slides its hand across the desk
 HUGO.srt 	HUGO_DVS466 	01:07:54,00 --> 01:08:05,50 	someone slides one of the flowers beneath a silver button of the inspector's jacket.
 HUGO.srt 	HUGO_DVS511 	01:15:10,00 --> 01:15:18,50 	a man slides a fake sword into his belt.
-HUGO.srt 	HUGO_DVS658 	01:34:57,00 --> 01:35:03,50 	he picks up a metal hoop, then slides it up the pole, and over someone.
 HUGO.srt 	HUGO_DVS665 	01:36:14,00 --> 01:36:20,50 	someone slides up to the projectionist and studies his contraption.
 HUGO.srt 	HUGO_DVS673 	01:37:48,00 --> 01:37:54,50 	they retreat as a large dragon puppet slides onto the set.
 HUGO.srt 	HUGO_DVS721 	01:46:43,00 --> 01:46:51,50 	the inspector hurries back into his office and slides down a fireman's pole.
-HUGO.srt 	HUGO_DVS722 	01:46:51,00 --> 01:47:03,50 	someone runs around a corner and slides beneath a staircase.
 HUGO.srt 	HUGO_DVS742 	01:49:00,00 --> 01:49:07,50 	tufts of snow fall as someone slides his fingers along the top of the minute hand.
 IN_TIME.srt 	IN_TIME_DVS180 	00:19:33,00 --> 00:19:38,50 	sliding her sleeve up, she checks the balance on her clock.
 IN_TIME.srt 	IN_TIME_DVS222 	00:23:37,00 --> 00:23:46,50 	someone glances around, then slides up the sleeve of his charcoal suit jacket and the black dress shirt underneath, displaying the balance on his clock.
 IN_TIME.srt 	IN_TIME_DVS305 	00:31:35,00 --> 00:31:42,50 	someone slides his wrist under a scanner, his eyes fixed on someone.
-IN_TIME.srt 	IN_TIME_DVS319 	00:32:59,00 --> 00:33:05,50 	the dealer slides two cards from his five giving someone a straight.
 IN_TIME.srt 	IN_TIME_DVS546 	00:58:46,00 --> 00:58:51,50 	she slides the glove over her clock.
 IN_TIME.srt 	IN_TIME_DVS587 	01:02:45,00 --> 01:02:51,50 	he slides his arm around her waist and she clutches the front of his shirt.
-IN_TIME.srt 	IN_TIME_DVS753 	01:19:36,00 --> 01:19:46,50 	someone slides down a pipe along the building, followed by her partner in crime.
-IN_TIME.srt 	IN_TIME_DVS879 	01:33:14,00 --> 01:33:20,50 	as the doors slide shut, closing someone inside,
 INSIDE_MAN.srt 	INSIDE_MAN_DVS106 	00:32:36,00 --> 00:32:46,50 	an accomplice enters as he slides away an empty shelving
 INSIDE_MAN.srt 	INSIDE_MAN_DVS202 	00:57:54,00 --> 00:58:11,50 	someone slides out a covered metal drawer painted maroon.
-INSIDE_MAN.srt 	INSIDE_MAN_DVS407 	01:55:23,00 --> 01:55:29,50 	someone slides out the maroon drawer and opens it.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS411 	01:55:58,00 --> 01:56:13,50 	he bags the note with the other items, then shuts the maroon drawer and slides it back into box 392.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS173 	00:32:22,00 --> 00:32:39,50 	the car flips into the air, lands upright, and slides into the red car, then flips over and crashes into the fence.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS465 	01:25:01,00 --> 01:25:07,50 	as someone lifts a section of the tubing, someone slides the shield underneath.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS593 	01:41:38,00 --> 01:41:50,50 	turning as she slides across the floor, she throws taser darts at the second guard, who collapses.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS594 	01:41:47,00 --> 01:42:29,50 	she slides between the legs of a fourth approaching guard and punches him in the groin.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS692 	01:54:18,00 --> 01:54:24,50 	he slides one of two folders atop the desk toward himself and studies the cover.
-ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS148 	00:48:24,00 --> 00:48:28,50 	he slides in and grabs her waist.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS309 	01:29:47,00 --> 01:29:52,50 	he tenderly slides up her sleeve.
-ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS382 	01:47:01,00 --> 01:47:11,50 	she slides the door close behind her then faces him clutching the strap of her purse with both hands.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS580 	01:54:25,00 --> 01:54:31,50 	someone slides the blade down the back of a raw duck on a cutting board.
-JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS624 	01:58:42,00 --> 01:58:49,50 	turning it over, she slides her fingers under the manila envelopes flap,
 KARATE_KID.srt 	KARATE_KID_DVS1314 	01:46:02,00 --> 01:46:28,50 	someone slides backward.
 KARATE_KID.srt 	KARATE_KID_DVS1565 	02:06:47,00 --> 02:07:08,50 	he slides across the mat to his opponent, subduing him with two fierce blows.
-LARRY_CROWNE.srt 	LARRY_CROWNE_DVS24 	00:07:19,00 --> 00:07:38,50 	he stares at it for a moment, then slides the closet door shut.
-LARRY_CROWNE.srt 	LARRY_CROWNE_DVS123 	00:28:37,00 --> 00:28:46,50 	escaping to a balcony, someone closes the sliding door and sits.
 LARRY_CROWNE.srt 	LARRY_CROWNE_DVS345 	01:19:40,00 --> 01:19:46,50 	she slides her feet into them.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS345 	00:42:05,00 --> 00:42:14,50 	he slides a long handles oar out from beneath the canvas cover and extends it over the water toward the life preserver.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS761 	01:18:37,00 --> 01:18:42,50 	glancing between the tiger and the bait, he cautiously slides it onto the spear.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS765 	01:18:55,00 --> 01:19:02,50 	he guides the cat's face to the bench and slides the food off the spear.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS934 	01:32:59,00 --> 01:33:06,50 	he places the yellow contain aside and slides closer to the tiger.
 LITTLE_FOCKERS.srt 	LITTLE_FOCKERS_DVS132 	00:49:38,00 --> 00:49:47,50 	as he slides off his coat, a lamp shines its light on him.
 LITTLE_FOCKERS.srt 	LITTLE_FOCKERS_DVS236 	01:21:48,00 --> 01:21:53,50 	someone slides off his jacket.
-MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS95 	00:14:06,00 --> 00:14:14,50 	someone walks into the crate, breaking it apart and sending an envelope sliding under a dresser.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS133 	00:20:43,00 --> 00:20:48,50 	his limp hand slides off the couch's edge.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS146 	00:21:38,00 --> 00:21:43,50 	the penguin slides away on its belly.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS339 	00:43:31,00 --> 00:43:46,50 	the penguins dive on their bellies, using the wet floor to slide down the long, sloping, continuous spiral.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS591 	01:10:18,00 --> 01:10:26,50 	furrowing his brow, he slides the envelope out and stares at the handwritten name on its front.
-MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS639 	01:17:52,00 --> 01:18:00,50 	they see captain sliding down to the edge of a high rooftop.
-MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS688 	01:25:23,00 --> 01:25:29,50 	their penguins drop to their bellies and slide past their feet.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS462 	01:35:05,00 --> 01:35:09,50 	someone slides down the tin chute.
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS49 	00:11:24,00 --> 00:11:29,50 	someone slides the phone into a dock.
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS271 	01:04:21,00 --> 01:04:31,50 	hitting the puddle, someone hawk slides out of control and flies toward someone.
@@ -148,15 +96,10 @@ PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS63 	00:17:
 PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS190 	00:46:25,00 --> 00:46:32,50 	as his friends edge away, someone slides his arm through its straps and grasps its handle.
 PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS424 	01:40:42,00 --> 01:40:55,50 	across the room two shelving units part to reveal double doors, which slide open, displaying the interior of an elevator.
 PROMETHEUS.srt 	PROMETHEUS_DVS440 	00:46:01,00 --> 00:46:07,50 	as the head slides from the chamber, someone arrives.
-PROMETHEUS.srt 	PROMETHEUS_DVS834 	01:30:23,00 --> 01:30:31,50 	she picks up holloway's ring, studies it, then slides it the ring finger of her left hand.
-PROMETHEUS.srt 	PROMETHEUS_DVS850 	01:33:05,00 --> 01:33:13,50 	someone and the others step out, then the door slides shut, leaving someone alone with the old man.
 PROMETHEUS.srt 	PROMETHEUS_DVS949 	01:45:18,00 --> 01:45:26,50 	the lifeboat lands on the barren terrains, smashing a rocky pillar before it slides to a stop.
 PROMETHEUS.srt 	PROMETHEUS_DVS954 	01:45:39,00 --> 01:45:44,50 	touching ground, it slides to a stop.
 PROMETHEUS.srt 	PROMETHEUS_DVS1011 	01:50:22,00 --> 01:50:30,50 	the tentacle rubs persistently against the window then slides down the glass.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS37 	00:06:10,00 --> 00:06:21,50 	someone's body slides to a stop in the dirt as the car drives off leaving a cloud of dust behind.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS258 	00:48:44,00 --> 00:49:19,50 	as he opens the door all the way, she seductively slides her hands up the porcelain, out of the water, then lifts one shapely leg and caresses the tub's rim with her foot.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS164 	00:40:16,00 --> 00:40:21,50 	he slides the ring back on his finger.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS205 	00:49:44,00 --> 00:49:55,50 	someone slides an oval ring from his finger and sets it in the chancellor's palm.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS78 	00:13:00,00 --> 00:13:05,50 	someone slides the typewriter's carriage repeatedly.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS81 	00:13:08,00 --> 00:13:14,50 	he types out another line, slides the carriage.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS398 	01:03:36,00 --> 01:03:42,50 	someone slides the carriage to its starting position.
@@ -167,19 +110,14 @@ RUBY_SPARKS.srt 	RUBY_SPARKS_DVS560 	01:25:23,00 --> 01:25:27,50 	he slides the 
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS603 	01:28:59,00 --> 01:29:04,50 	someone slides the carriage and starts a new line.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS606 	01:29:13,00 --> 01:29:18,50 	the carriage slides to another new line.
 SALT.srt 	SALT_DVS22 	00:03:52,00 --> 00:04:37,50 	the central pieces slide together and form a title as the picture around them fades to black.
-SALT.srt 	SALT_DVS87 	00:18:36,00 --> 00:18:48,50 	she checks her cell then slides it shut and shifts her eyes around the sparse room.
 SALT.srt 	SALT_DVS117 	00:22:06,00 --> 00:22:26,50 	she slides off her panties and uses them to cover its lens.
 SALT.srt 	SALT_DVS131 	00:24:22,00 --> 00:24:26,50 	as the doors slide open
 SALT.srt 	SALT_DVS154 	00:26:54,00 --> 00:27:17,50 	she scurries to her apartment door where she slides a hidden key from the frame.
 SALT.srt 	SALT_DVS434 	01:15:01,00 --> 01:15:12,50 	squeezing between them, she slides down like an elevator on its tracks.
-SANCTUM.srt 	SANCTUM_DVS531 	01:38:27,00 --> 01:38:38,50 	sliding his hand from his father's forehead, someone lifts his body to the surface.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS289 	00:19:33,00 --> 00:19:41,50 	sliding her own hand on top of her laotong's, someone gives it a gentle squeeze.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS368 	00:24:37,00 --> 00:24:43,50 	someone helps her slide the fan down her own sleeve.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS490 	00:31:59,00 --> 00:32:04,50 	someone slides the folded fan out from her sleeve.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS760 	00:50:14,00 --> 00:50:19,50 	the automatic doors slide shut behind someone.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1324 	01:31:12,00 --> 01:31:18,50 	she slides the key into its lock and pulls open the door.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1354 	01:32:48,00 --> 01:32:52,50 	a tear slides down her cheek.
-SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS51 	00:10:42,00 --> 00:10:57,50 	someone opens a door in the bricks and slides out someone's ancient spell book.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS377 	01:20:05,00 --> 01:20:19,50 	he slides someone's ring onto his cane and touches the jewel knob to the someone.
 SOUL_SURFER.srt 	SOUL_SURFER_DVS91 	00:29:04,00 --> 00:29:08,50 	someone slides her right hand.
 SUPER_8.srt 	SUPER_8_DVS216 	00:37:02,00 --> 00:37:11,50 	he draws his weapon as the dumpster slides across the parking lot.
@@ -193,17 +131,11 @@ THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS179 	00:36:04,00 --> 00:36:1
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS182 	00:36:26,00 --> 00:36:32,50 	with her back to him, someone slides out a dresser drawer.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS268 	00:51:48,00 --> 00:51:54,50 	someone slides out of her chair.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS222 	00:44:20,00 --> 00:44:27,50 	sliding the handcuff along the top rail of the headboard.
-THE_CALL.srt 	THE_CALL_DVS262 	00:22:12,00 --> 00:22:19,50 	smiling, the blond shakes her head and slides the phone into her back pocket.
 THE_CALL.srt 	THE_CALL_DVS521 	00:40:19,00 --> 00:40:24,50 	a tear slides down someone's cheek.
 THE_CALL.srt 	THE_CALL_DVS660 	00:51:39,00 --> 00:51:48,50 	sliding the phone into her pocket, someone peels back a velcro flap.
 THE_CALL.srt 	THE_CALL_DVS845 	01:04:17,00 --> 01:04:24,50 	now, the killer slides a cassette tape into an old boom box.
-THE_CALL.srt 	THE_CALL_DVS1015 	01:17:38,00 --> 01:17:43,50 	he slides his finger from his lips, leaving his wedding ring between his teeth.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS48 	00:10:25,00 --> 00:10:31,50 	later, he enters the hospital through sliding glass doors.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS110 	00:19:14,00 --> 00:19:21,50 	a partition slides down, revealing a groggy teen girl putting on glasses.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS599 	01:28:06,00 --> 01:28:12,50 	someone gently slides her hands down her sister's ponytail.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS297 	00:34:10,00 --> 00:34:16,50 	he takes out of the datebook and slides it toward the older man.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS299 	00:34:21,00 --> 00:34:26,50 	he slides it back to his visitor.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS313 	00:37:58,00 --> 00:38:09,50 	as the door slides shut a view through its window shows her enraged face.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS650 	01:10:58,00 --> 01:11:05,50 	a door slides shut and she mouths i love you through its window.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS711 	01:19:19,00 --> 01:19:23,50 	he slides a plate toward her.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS817 	01:33:35,00 --> 01:33:39,50 	the door slides shut.
@@ -211,49 +143,30 @@ THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS885 	01:
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS889 	01:39:11,00 --> 01:39:18,50 	she straightens to a kneeling position and slides his briefs off his waist.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS923 	01:42:46,00 --> 01:42:53,50 	she slides the printed photos across a table to someone.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1028 	01:50:38,00 --> 01:50:42,50 	he tries another door and it slides open.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1088 	01:54:00,00 --> 01:54:06,50 	someone slides the kitchen door open, gazing out.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1409 	02:31:26,00 --> 02:31:34,50 	now, at her apartment she intently writes a message inside a card then slides it into an envelope.
 THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS96 	00:31:07,00 --> 00:31:35,50 	an envelope slides under the bottom of his door.
-THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS295 	01:48:51,00 --> 01:48:55,50 	finds to slide on the others.
 THE_WATCH.srt 	THE_WATCH_DVS25 	00:04:25,00 --> 00:04:30,50 	crossing the store, he slides to a stop.
-THE_WATCH.srt 	THE_WATCH_DVS527 	01:31:54,00 --> 01:32:07,50 	before the door closes completely, they all slide underneath and into the parking lot.
-THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS345 	01:24:49,00 --> 01:24:55,50 	sliding on a suit jacket he turns and looks at someone.
-THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS362 	01:28:29,00 --> 01:28:36,50 	he gazes up at her as she slides her silky tank top over her head,
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS374 	01:29:18,00 --> 01:29:23,50 	returning it, she slides the drawer open farther.
-THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS458 	01:45:24,00 --> 01:45:30,50 	taking the ring from its box, he slides it onto someone's finger.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS21 	00:03:02,00 --> 00:03:08,50 	he slides on his knees into a guard, knocking him over.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS33 	00:04:16,00 --> 00:04:23,50 	the surviving heinrich brother lands safely and slides his parachute off his back.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS70 	00:12:07,00 --> 00:12:14,50 	sliding off his jacket, he smirks.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS368 	01:08:21,00 --> 01:08:26,50 	the elevator doors slide shut.
-THOR.srt 	THOR_DVS77 	00:09:58,00 --> 00:10:05,50 	hidden in shadows, a blue hand slides across a thick column, leaving a thin layer of frost.
-THOR.srt 	THOR_DVS109 	00:16:23,00 --> 00:16:31,50 	someone steps onto a dayus behind them and slides his sword into a slot on the floor.
 THOR.srt 	THOR_DVS196 	00:25:39,00 --> 00:25:47,50 	someone lands in front of the dead creature as it slides over the edge of the cliff and disappears.
 THOR.srt 	THOR_DVS232 	00:31:18,00 --> 00:31:23,50 	they slide someone into the back of the truck.
 THOR.srt 	THOR_DVS254 	00:34:36,00 --> 00:34:42,50 	he twists his left wrist, sliding it through the restraint.
 THOR.srt 	THOR_DVS536 	01:25:56,00 --> 01:26:03,50 	the destroyer's visor slides down and its head glows with energy.
 THOR.srt 	THOR_DVS598 	01:31:43,00 --> 01:31:50,50 	in the observatory, someone slides his sword into the bifrost control mechanism.
 THOR.srt 	THOR_DVS623 	01:34:42,00 --> 01:34:50,50 	someone rides on horseback to the observatory and slides someone's sword into the bifrost control mechanism.
-THOR.srt 	THOR_DVS658 	01:38:29,00 --> 01:38:39,50 	someone turns and staggers toward the observatory, his feet sliding on the slick bridge as tors of brilliant energy swirl around the building.
 THOR.srt 	THOR_DVS674 	01:40:37,00 --> 01:40:42,50 	someone's hand slides down the shaft of his spear.
-TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS246 	00:32:20,00 --> 00:32:26,50 	he drops the rolled up dollar and slides back to retrieve it.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS672 	01:15:12,00 --> 01:15:19,50 	someone slides into the rink wall under the opposing team's box.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS745 	01:21:46,00 --> 01:21:52,50 	then slides a rolled up someone under the pillow.
-TRUE_GRIT.srt 	TRUE_GRIT_DVS44 	00:08:04,00 --> 00:08:10,50 	a coffin is slid onto a rail wagon.
-TRUE_GRIT.srt 	TRUE_GRIT_DVS508 	01:34:24,00 --> 01:34:30,50 	someone pulls away but the corpse slides closer.
-UGLY_TRUTH.srt 	UGLY_TRUTH_DVS547 	01:13:09,00 --> 01:13:15,50 	she gives him a sidelong glance as she slides her shoes back on.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS552 	01:13:50,00 --> 01:13:55,50 	the doors start to slide shut.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS412 	01:04:56,00 --> 01:05:01,50 	he slides a letter from an envelope.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS62 	00:04:57,00 --> 00:05:02,50 	he slides the candy bar forward on his desk.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS66 	00:05:09,00 --> 00:05:16,50 	the man sternly slides the chocolate back toward himself, then licks his finger.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS100 	00:06:51,00 --> 00:06:57,50 	he slides the coin toward someone, then turns his aim on the boy's mother.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1110 	01:40:10,00 --> 01:40:17,50 	someone flips three switches, then grips a lever and slides it upward.
-YOUNG_ADULT.srt 	YOUNG_ADULT_DVS49 	00:06:52,00 --> 00:06:58,50 	she glances sideways at the man and slowly slides her right arm free.
-YOUNG_ADULT.srt 	YOUNG_ADULT_DVS52 	00:07:28,00 --> 00:07:32,50 	someone slides out of bed and stands.
-YOUNG_ADULT.srt 	YOUNG_ADULT_DVS421 	01:21:17,00 --> 01:21:23,50 	she opens her eyes and glances at him then slowly slides out of bed.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS88 	00:07:01,00 --> 00:07:07,50 	he slides down onto his butt with a small someone.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS211 	00:22:50,00 --> 00:22:54,50 	he slides on his knees.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS381 	00:43:35,00 --> 00:43:41,50 	someone slides a mug off of a display.
 ZOOKEEPER.srt 	ZOOKEEPER_DVS145 	00:32:19,00 --> 00:32:24,50 	he exits and slides the metal door shut.
 ZOOKEEPER.srt 	ZOOKEEPER_DVS333 	01:14:22,00 --> 01:14:27,50 	then finally slides his body.
-ZOOKEEPER.srt 	ZOOKEEPER_DVS347 	01:17:54,00 --> 01:18:14,50 	stepping into the corridor, he slides the door closed and starts.
-ZOOKEEPER.srt 	ZOOKEEPER_DVS369 	01:22:43,00 --> 01:22:49,50 	he watches as it slides open and.

@@ -1,0 +1,15 @@
+BURLESQUE.srt 	BURLESQUE_DVS617 	01:30:53,00 --> 01:30:58,50 	the image dissolves from someone onstage to the bedroom.
+DISTRICT_9.srt 	DISTRICT_9_DVS516 	01:00:06,00 --> 01:00:14,50 	the image dissolves to night time, where an alien tosses a blanket onto a bonfire.
+ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS365 	01:42:39,00 --> 01:42:50,50 	the image dissolves to the surface of the pool.
+PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS30 	00:04:48,00 --> 00:04:55,50 	the image dissolves to a teenage boy who sits comfortably on the bottom of a swimming pool.
+PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS357 	01:28:48,00 --> 01:28:56,50 	the shattered pieces dissolve into smoke.
+SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS549 	00:36:45,00 --> 00:36:54,50 	the image dissolves to someone as she opens the fan to the many columns of chinese lettering in its folds.
+SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS784 	00:52:36,00 --> 00:52:42,50 	the image dissolves to a  river, beyond which stands a high cliff.
+THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS102 	00:24:29,00 --> 00:24:46,50 	the image dissolves to the trees at night as more traffic crawls by.
+THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS356 	00:55:17,00 --> 00:55:26,50 	now, as a hawaiian airlines jet takes off, the image dissolves to the map of hawaii with a dashed line leading from oahu to kauai.
+THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS580 	01:26:44,00 --> 01:26:52,50 	as she stirs a little, getting comfortable, the image dissolves to a corridor in the hospital.
+THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS636 	01:32:12,00 --> 01:32:18,50 	the image dissolves to a sprawling wind-blown property.
+THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1234 	02:09:38,00 --> 02:09:44,50 	the image dissolves to someone who lies on his back in bed.
+THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1246 	02:11:44,00 --> 02:11:50,50 	the images dissolves to the cabin of an airplane
+THOR.srt 	THOR_DVS477 	01:18:12,00 --> 01:18:16,50 	behind the casket dissolves.
+XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS342 	00:26:44,00 --> 00:26:53,50 	beyond the agent, the bar dissolves into images of someone, someone frost in her diamond form, and someone appearing.

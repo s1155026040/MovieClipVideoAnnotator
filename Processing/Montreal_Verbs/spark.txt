@@ -1,7 +1,2 @@
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS83 	00:12:48,00 --> 00:12:54,50 	the devices spark as the car crashes to the stage.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS618 	01:44:15,00 --> 01:44:28,50 	someone flings his shield, striking someone and smashing him into the energy mechanism which begins to spark and flicker with blue light.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS83 	00:16:16,00 --> 00:16:22,50 	on-screen, the pilot's suit sparks.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS680 	01:52:08,00 --> 01:52:14,50 	pulling away from pepper, someone yanks off his sparking helmet and throws it down.
-KATY_PERRY_PART_OF_ME.srt 	KATY_PERRY_PART_OF_ME_DVS360 	01:25:01,00 --> 01:25:07,50 	fountains of sparking fireworks shoot up behind them.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS361 	00:54:43,00 --> 00:54:47,50 	the engine sparks to life.
-THE_WATCH.srt 	THE_WATCH_DVS174 	00:32:22,00 --> 00:32:32,50 	as he comes to a deserted intersection, he notices a large, green electricity transformer fizzing and sparking on the corner.

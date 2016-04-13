@@ -1,5 +1,4 @@
 BURLESQUE.srt 	BURLESQUE_DVS133 	00:17:56,00 --> 00:18:04,50 	now the dancers drum their hips.
-COLOMBIANA.srt 	COLOMBIANA_DVS289 	00:24:06,00 --> 00:24:13,50 	later, she arrives at a kitchen and pauses, her fingers lightly drumming her thigh.
 JACK_AND_JILL.srt 	JACK_AND_JILL_DVS172 	00:34:35,00 --> 00:34:39,50 	she idly drums her hands.
 PROMETHEUS.srt 	PROMETHEUS_DVS544 	01:00:22,00 --> 01:00:28,50 	someone drums the flat ends of his concertina.
 THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS315 	01:52:02,00 --> 01:52:06,50 	someone sighs and drums his laptop.

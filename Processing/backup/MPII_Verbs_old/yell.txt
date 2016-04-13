@@ -1,29 +1,23 @@
-0006_Clerks_00.18.11.464-00.18.14.157 	Then he swings the door open and yells out.
-0007_DIE_NACHT_DES_JAEGERS_01.27.03.508-01.27.04.063 	ICEY leaves door to yell at mob.
-0008_Fargo_01.19.22.588-01.19.27.741 	She leans out of her open window and yells at the order panel.
-0009_Forrest_Gump_00.15.54.524-00.15.55.348 	He hobbles along as Jenny yells after him.
-0009_Forrest_Gump_00.29.21.135-00.29.24.292 	The crowd yells for Forrest.
-0009_Forrest_Gump_00.31.42.861-00.31.49.320 	Rain pours outside as the army bus driver yells at Forrest.
-0009_Forrest_Gump_00.37.35.826-00.37.37.404 	He yells angrily as he sits back down, then tosses his drink on her.
-0009_Forrest_Gump_00.53.50.971-00.53.56.222 	Forrest gets up and runs as Lt. Dan yells after him.
-0012_Get_Shorty_00.40.09.619-00.40.09.837 	He gets out of the car and heads for the set where Harry is now looking up at the sky and yelling at someone.
-0014_Ist_das_Leben_nicht_schoen_01.30.25.369-01.30.27.469 	He yells at Tommy, noisily playing with his vacuum cleaner.
-0014_Ist_das_Leben_nicht_schoen_01.55.34.734-01.55.41.691 	In a voice that sounds like a cry for help, George yells out.
-0014_Ist_das_Leben_nicht_schoen_02.01.00.248-02.01.03.108 	He grabs for George, who lets him have one square on the button, knocking him down, then continues running down the street yelling for Clarence.
-0019_Pulp_Fiction_01.35.04.146-01.35.07.805 	This jerk's yelling makes Marsellus come to.
-0022_Reservoir_Dogs_01.12.02.541-01.12.03.913 	One sheriff yells at the dog.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.05.31.826-02.05.36.130 	A NARROW BRIDGE, spanning a bottomless pit.Gandalf yells to the others: Aragorn makes to throw Gimli across the Chasm.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.30.09.636-01.30.11.358 	A GUARD yells down from the PARAPET above the HUGE.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.58.26.608-01.58.32.021 	He rises in his stirrups, TALL and PROUD, yelling in a clear, LOUD.
-0043_Thelma_and_Luise_01.29.39.300-01.29.42.640 	Louise stops yelling for a moment groping for self-control.
-0050_Indiana_Jones_and_the_last_crusade_00.52.00.005-00.52.01.674 	Everyone is yelling at once.
-1010_TITANIC_01.49.44.690-01.49.48.008 	wilde yells to a man on an upper deck.
-1010_TITANIC_02.18.11.120-02.18.18.779 	on deck, another crew member with both arms raised out at his sides yells orders.
+0006_Clerks_00.18.11.464-00.18.14.157 	then he swings the door open and yells out.
+0007_DIE_NACHT_DES_JAEGERS_01.27.03.508-01.27.04.063 	icey leaves door to yell at mob.
+0009_Forrest_Gump_00.22.01.603-00.22.03.756 	the football coach runs along the sidelines as he yells.
+0009_Forrest_Gump_00.29.21.135-00.29.24.292 	the crowd yells for forrest.
+0009_Forrest_Gump_00.37.35.826-00.37.37.404 	he yells angrily as he sits back down, then tosses his drink on her.
+0014_Ist_das_Leben_nicht_schoen_00.04.55.375-00.04.58.195 	as he starts to pull him out he yells.
+0014_Ist_das_Leben_nicht_schoen_01.30.25.369-01.30.27.469 	he yells at tommy, noisily playing with his vacuum cleaner.
+0014_Ist_das_Leben_nicht_schoen_02.01.00.248-02.01.03.108 	he grabs for george, who lets him have one square on the button, knocking him down, then continues running down the street yelling for clarence.
+0016_O_Brother_Where_Art_Thou_00.14.10.378-00.14.12.841 	yelling men scurry away.
+0017_Pianist_02.16.36.988-02.16.45.527 	she runs, yelling, towards the field kitchen.
+0022_Reservoir_Dogs_01.12.02.541-01.12.03.913 	one sheriff yells at the dog.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.54.49.266-00.54.54.503 	iorlas runs towards the gates, yelling.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.10.17.405-01.10.23.672 	faramir yelling defiantly.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.30.09.636-01.30.11.358 	a guard yells down from the parapet above the huge.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.58.26.608-01.58.32.021 	he rises in his stirrups, tall and proud, yelling in a clear, loud.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.00.22.666-02.00.24.444 	as he yells at the top of his lungs !
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.03.50.602-02.03.55.485 	theoden stands proud in his saddle, yelling to his rohirrim.
+0043_Thelma_and_Luise_01.29.39.300-01.29.42.640 	louise stops yelling for a moment groping for self-control.
+0050_Indiana_Jones_and_the_last_crusade_00.52.00.005-00.52.01.674 	everyone is yelling at once.
 1018_Body_Of_Lies_00.07.05.524-00.07.06.786 	he yells to ferris.
-1018_Body_Of_Lies_00.36.07.140-00.36.09.204 	ferris yells to skip.
-1043_Vantage_Point_00.15.53.170-00.15.56.887 	taylor yells to a stunned barnes.
-1058_The_Damned_united_00.18.17.000-00.18.21.000 	peter yells beside a glowering brian as the leeds players surround the ref.
-1058_The_Damned_united_00.18.17.000-00.18.21.000 	peter yells beside a glowering brian as the leeds players surround the ref.
+2017_Bad_Santa_01.30.58.016-01.31.00.059 	cops yell, draw their guns and fire as willie clips a couple cars, skids and slues, and finally is clear of the pack.
 2034_Super_8_00.17.06.247-00.17.16.663 	alice and martin continue to yell their lines -- charles is almost laughing at how good this looks -- but joe looks desperately back toward the headlights -- the train lighting.
 2034_Super_8_00.31.25.163-00.31.27.472 	we then find charles, behind his camera, yelling out.
-2041_This_is_40_01.56.56.277-01.56.56.844 	when it does a fifteen-year-old teenager sticks his head out the window and yells to scare pete.

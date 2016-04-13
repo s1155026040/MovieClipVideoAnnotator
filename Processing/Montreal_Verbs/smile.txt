@@ -8,20 +8,11 @@
 500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS292 	00:53:43,00 --> 00:53:47,50 	the mime smiles happily
 500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS320 	00:57:32,00 --> 00:57:36,50 	she smiles at him.
 500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS361 	01:05:22,00 --> 01:05:29,50 	they join the throng of guests for a slow dance, smiling happily at one another.
-500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS516 	01:24:23,00 --> 01:24:27,50 	she smiles and looks away.
 500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS527 	01:26:50,00 --> 01:26:54,50 	she smiles sweetly at him,
-500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS540 	01:30:04,00 --> 01:30:08,50 	someone walks off she smiles to herself.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS623 	01:04:23,00 --> 01:04:27,50 	he smiles at someone.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS637 	01:06:02,00 --> 01:06:08,50 	he smiles at someone, then playfully lifts his chin in a nod.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS693 	01:11:10,00 --> 01:11:19,50 	he empties the clip in someone's dead body, then connects a hard glare with his daughter's smiling sadistic gaze.
-A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS39 	00:10:02,00 --> 00:10:09,50 	he sits and smiles at someone.
-A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS60 	00:17:35,00 --> 00:17:41,50 	standing close to someone, someone looks into his eyes, then smiles.
-A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS98 	00:26:11,00 --> 00:26:15,50 	smiling someone walks off.
-A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS162 	00:30:45,00 --> 00:30:51,50 	someone looks to his left then smiles at the doctor, who smiles back.
-A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS162 	00:30:45,00 --> 00:30:51,50 	someone looks to his left then smiles at the doctor, who smiles back.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS267 	00:49:40,00 --> 00:49:45,50 	someone squints, then smiles.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS298 	00:55:06,00 --> 00:55:15,50 	someone leans close to the blond woman, picks up a french fry from her plate, places it halfway into his mouth, then smiles at her.
-A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS307 	00:56:10,00 --> 00:56:16,50 	smiling he holds out a breadstick to samantha.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS329 	00:58:48,00 --> 00:58:54,50 	smiling someone dashes off.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS340 	00:59:54,00 --> 00:59:58,50 	smiling she cradles her cat.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS460 	01:19:19,00 --> 01:19:24,50 	smiling someone turns and leaves.
@@ -30,7 +21,6 @@ ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS56 	00:05:
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS221 	00:31:28,00 --> 00:31:32,50 	she smiles playfully.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS348 	00:49:37,00 --> 00:49:44,50 	later, the smiling bride and groom clink their glasses and sip champagne.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS456 	01:05:21,00 --> 01:05:27,50 	later, she smiles and nods demurely as she passes someone.
-BAD_TEACHER.srt 	BAD_TEACHER_DVS137 	00:36:39,00 --> 00:36:45,50 	gazing at her someone smiles.
 BAD_TEACHER.srt 	BAD_TEACHER_DVS163 	00:44:18,00 --> 00:44:23,50 	someone smiles bashfully.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS56 	00:07:21,00 --> 00:07:26,50 	someone glances over at his sullen face, then smiles.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS175 	00:29:54,00 --> 00:29:59,50 	the pretty girl chants amiably, smiling at someone.
@@ -39,51 +29,33 @@ BLINDDATING.srt 	BLINDDATING_DVS21 	00:07:05,00 --> 00:07:10,50 	someone smiles 
 BLINDDATING.srt 	BLINDDATING_DVS138 	00:38:00,00 --> 00:38:07,50 	someone smiles mischievously as they continue to dance.
 BLINDDATING.srt 	BLINDDATING_DVS166 	00:42:41,00 --> 00:42:50,50 	someone smiles across the table at someone who smiles hard.
 BLINDDATING.srt 	BLINDDATING_DVS166 	00:42:41,00 --> 00:42:50,50 	someone smiles across the table at someone who smiles hard.
-BLINDDATING.srt 	BLINDDATING_DVS195 	00:49:23,00 --> 00:49:41,50 	she smiles, sitting back in her chair.
 BLINDDATING.srt 	BLINDDATING_DVS224 	00:55:20,00 --> 00:55:25,50 	the blonde smiles up at someone.
 BLINDDATING.srt 	BLINDDATING_DVS306 	01:15:14,00 --> 01:15:27,50 	both men smile.
 BLINDDATING.srt 	BLINDDATING_DVS320 	01:17:12,00 --> 01:17:24,50 	she smiles at someone's reflection.
-BLINDDATING.srt 	BLINDDATING_DVS359 	01:28:26,00 --> 01:28:33,50 	as he smiles at her, she stares back tearful and
 BRUNO.srt 	BRUNO_DVS236 	01:04:50,00 --> 01:04:58,50 	reverse cowgirl on his lap smiling dreamily.
 BRUNO.srt 	BRUNO_DVS246 	01:06:21,00 --> 01:06:27,50 	someone smiles uncomfortably.
 BURLESQUE.srt 	BURLESQUE_DVS91 	00:10:09,00 --> 00:10:14,50 	the posed dancers frame the smiling diva.
-BURLESQUE.srt 	BURLESQUE_DVS239 	00:34:27,00 --> 00:34:36,50 	a smiling someone points her knees and pops out her hands, then swings her arms, shakes her hips, and whips her hair back.
 BURLESQUE.srt 	BURLESQUE_DVS370 	00:51:14,00 --> 00:51:18,50 	she smiles.
 BURLESQUE.srt 	BURLESQUE_DVS579 	01:26:16,00 --> 01:26:23,50 	someone smiles genteelly.
-BURLESQUE.srt 	BURLESQUE_DVS632 	01:35:14,00 --> 01:35:19,50 	someone looks up from his bed and they smile.
 BURLESQUE.srt 	BURLESQUE_DVS742 	01:52:29,00 --> 01:52:44,50 	another girl tickles the doorman's lips and he smiles.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS132 	00:22:41,00 --> 00:22:49,50 	she turns and smiles at him as they pull away.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS266 	00:48:25,00 --> 00:48:30,50 	smiling chorus girls march in place behind someone.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS394 	01:11:57,00 --> 01:12:03,50 	still smiling, someone locks her eyes on someone as he gazes at the faces of the cheering soldiers all around him.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS417 	01:15:52,00 --> 01:16:04,50 	an engineer smiles as he takes notes.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS649 	01:49:01,00 --> 01:49:07,50 	the men drink as people smile and hug one another around them.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS511 	00:49:50,00 --> 00:49:57,50 	someone smiles enviously as the veteran starts a 30-foot drop.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS535 	00:52:06,00 --> 00:52:11,50 	she smiles sweetly and looks off.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS856 	01:24:32,00 --> 01:24:37,50 	someone regards his smiling mother appreciatively.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS889 	01:26:46,00 --> 01:26:53,50 	as someone smiles proudly, someone allows one wave after another to crash down on him.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS947 	01:33:14,00 --> 01:33:19,50 	smiling at him, blond moves on.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS1120 	01:47:27,00 --> 01:47:34,50 	as someone slows down, he turns to see the veterans sitting on their boards smiling.
-CHRONICLE.srt 	CHRONICLE_DVS28 	00:03:45,00 --> 00:03:51,50 	campaign posters show a smiling young man.
 CHRONICLE.srt 	CHRONICLE_DVS51 	00:06:15,00 --> 00:06:20,50 	switches it on, and smiles to himself.
-CHRONICLE.srt 	CHRONICLE_DVS274 	00:41:51,00 --> 00:41:55,50 	he turns and smiles.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS28 	00:07:02,00 --> 00:07:07,50 	towering over him, she smiles as they
-CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS158 	00:34:31,00 --> 00:34:45,50 	a billboard shows a rosy-cheeked lady smiling over her steering wheel next to a chipper dog.
-CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS290 	01:09:40,00 --> 01:09:49,50 	as the women smile, someone glances at each then leaves them.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS333 	01:23:47,00 --> 01:24:20,50 	he smiles.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS481 	01:50:17,00 --> 01:50:27,50 	she nods, smiling broadly.
-COLOMBIANA.srt 	COLOMBIANA_DVS311 	00:26:50,00 --> 00:26:55,50 	she smiles down at the girl who coldly gets to her feet.
 COLOMBIANA.srt 	COLOMBIANA_DVS355 	00:32:19,00 --> 00:32:23,50 	the someone smiles.
 COLOMBIANA.srt 	COLOMBIANA_DVS553 	00:50:37,00 --> 00:50:43,50 	she smiles, springs up, and greets him with a hungry kiss.
 COLOMBIANA.srt 	COLOMBIANA_DVS800 	01:17:19,00 --> 01:17:23,50 	he smiles fondly.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS31 	00:03:53,00 --> 00:03:58,50 	the smiling woman shakes her drenched bag.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS97 	00:14:23,00 --> 00:14:27,50 	she smiles back.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS99 	00:14:59,00 --> 00:15:03,50 	she smiles quizzically.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS134 	00:21:56,00 --> 00:22:04,50 	he leans his face closer to her, and she smiles.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS165 	00:25:55,00 --> 00:26:00,50 	she smiles contentedly in his arms.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS240 	00:37:48,00 --> 00:37:54,50 	on finding someone's letter, she smiles.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS495 	01:12:18,00 --> 01:12:23,50 	she smiles down at the groggy soldier.
-DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS64 	00:10:30,00 --> 00:10:37,50 	slightly bemused, someone looks around the plush office and smiles to himself.
-DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS67 	00:10:39,00 --> 00:10:45,50 	someone looks through the window and spots a brunette woman, he smiles and waves at her.
 DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS389 	01:35:07,00 --> 01:35:12,50 	someone smiles back at him.
 DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS400 	01:38:50,00 --> 01:38:55,50 	someone's jaw drops and he smiles.
 DISTRICT_9.srt 	DISTRICT_9_DVS382 	00:41:45,00 --> 00:41:50,50 	the executive smiles at the monitors.
@@ -92,7 +64,6 @@ EASY_A.srt 	EASY_A_DVS97 	00:33:23,00 --> 00:33:29,50 	as she smiles and nods, h
 EASY_A.srt 	EASY_A_DVS220 	01:09:15,00 --> 01:09:19,50 	he smiles boyishly.
 EASY_A.srt 	EASY_A_DVS247 	01:15:51,00 --> 01:15:58,50 	they smile and lock eyes.
 FLIGHT.srt 	FLIGHT_DVS68 	00:14:08,00 --> 00:14:13,50 	she smiles at him.
-FLIGHT.srt 	FLIGHT_DVS79 	00:15:43,00 --> 00:15:49,50 	in someone's apartment, framed photographs on the table show a younger, smiling someone with her mother.
 FLIGHT.srt 	FLIGHT_DVS380 	01:01:26,00 --> 01:01:32,50 	she fidgets as she smiles to herself, and observes someone as he drives.
 FLIGHT.srt 	FLIGHT_DVS508 	01:13:13,00 --> 01:13:17,50 	he smiles at her.
 FLIGHT.srt 	FLIGHT_DVS940 	01:52:04,00 --> 01:52:09,50 	someone smiles up at someone.
@@ -104,30 +75,22 @@ FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS273 	01:10:37,00 --> 01:10:4
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS71 	00:11:35,00 --> 00:11:40,50 	she smiles then kisses his brow.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS221 	00:36:14,00 --> 00:36:20,50 	he smiles disbelievingly at someone, now in a storage room.
 GROWN_UPS.srt 	GROWN_UPS_DVS79 	00:23:49,00 --> 00:24:00,50 	someone smiles tightly.
-GROWN_UPS.srt 	GROWN_UPS_DVS191 	00:53:18,00 --> 00:53:32,50 	smiling bemusedly, he follows the out another door and down a hallway.
-HUGO.srt 	HUGO_DVS35 	00:03:56,00 --> 00:04:01,50 	the girl stands and smiles at the man.
 HUGO.srt 	HUGO_DVS127 	00:17:09,00 --> 00:17:13,50 	smiling, the girl nods.
 HUGO.srt 	HUGO_DVS139 	00:19:09,00 --> 00:19:14,50 	someone's father shrugs, then smiles, and hugs him.
-HUGO.srt 	HUGO_DVS266 	00:39:17,00 --> 00:39:24,50 	someone stares at someone then smiles and takes his hand as they walk around a giant stack of books.
 HUGO.srt 	HUGO_DVS268 	00:39:37,00 --> 00:39:42,50 	someone smiles back.
 HUGO.srt 	HUGO_DVS306 	00:47:08,00 --> 00:47:12,50 	they smile at one another.
 HUGO.srt 	HUGO_DVS329 	00:50:43,00 --> 00:50:49,50 	he smiles again as the automaton slides its hand across the desk
-HUGO.srt 	HUGO_DVS398 	00:59:54,00 --> 00:59:59,50 	then turns and smiles at someone.
 HUGO.srt 	HUGO_DVS407 	01:00:44,00 --> 01:00:48,50 	they smile.
 HUGO.srt 	HUGO_DVS451 	01:05:21,00 --> 01:05:25,50 	the inspector smiles weakly.
-HUGO.srt 	HUGO_DVS455 	01:05:45,00 --> 01:05:52,50 	still smiling, he steps forward then glances down at the two cups in his hands.
 HUGO.srt 	HUGO_DVS466 	01:07:54,00 --> 01:08:05,50 	she smiles at him then snaps off the tops of a handful of posies.
 HUGO.srt 	HUGO_DVS467 	01:08:13,00 --> 01:08:18,50 	he smiles at the flower then nods to someone.
 HUGO.srt 	HUGO_DVS512 	01:15:15,00 --> 01:15:22,50 	the young someone smiles at someone, who slips on a fake beard then gestures with his finger.
 HUGO.srt 	HUGO_DVS536 	01:20:45,00 --> 01:20:52,50 	someone smiles slightly.
-HUGO.srt 	HUGO_DVS615 	01:29:15,00 --> 01:29:21,50 	someone's eyes glisten as she smiles and turns away.
-HUGO.srt 	HUGO_DVS624 	01:30:53,00 --> 01:30:59,50 	he smiles and turns a crank on his film projector as the lights dim.
 HUGO.srt 	HUGO_DVS697 	01:42:37,00 --> 01:42:47,50 	someone smiles broadly.
 IN_TIME.srt 	IN_TIME_DVS54 	00:05:55,00 --> 00:06:04,50 	smiling politely, he sidles past and goes to a table where men play cards.
 IN_TIME.srt 	IN_TIME_DVS106 	00:11:35,00 --> 00:11:41,50 	he returns the flask to his smiling companion.
 IN_TIME.srt 	IN_TIME_DVS157 	00:16:57,00 --> 00:17:03,50 	now, at an apartment complex, a smiling woman cradles her baby.
 IN_TIME.srt 	IN_TIME_DVS349 	00:36:21,00 --> 00:36:26,50 	someone smiles briefly and cocks his head.
-IN_TIME.srt 	IN_TIME_DVS367 	00:38:33,00 --> 00:38:39,50 	smiling appreciatively at the ocean, someone takes his clothes off.
 IN_TIME.srt 	IN_TIME_DVS382 	00:40:09,00 --> 00:40:19,50 	he smiles at someone.
 IN_TIME.srt 	IN_TIME_DVS663 	01:12:04,00 --> 01:12:09,50 	the heiress smiles briefly,
 IN_TIME.srt 	IN_TIME_DVS705 	01:15:38,00 --> 01:15:44,50 	as someone backs off, the young man smiles triumphantly and nods.
@@ -136,28 +99,15 @@ IN_TIME.srt 	IN_TIME_DVS790 	01:23:21,00 --> 01:23:28,50 	smiling faintly, he nu
 IN_TIME.srt 	IN_TIME_DVS851 	01:30:08,00 --> 01:30:11,50 	she smiles.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS26 	00:06:20,00 --> 00:06:24,50 	she smiles.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS47 	00:06:14,00 --> 00:06:26,50 	giant robotic arms rise from the platform and remove someone's helmet, revealing his smiling face.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS111 	00:22:07,00 --> 00:22:12,50 	shaking her head, she smiles.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS156 	00:28:59,00 --> 00:29:11,50 	later wearing a blue car-racing uniform, someone walks through a crowd of smiling people.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS294 	00:54:25,00 --> 00:54:32,50 	smiling, pepper steps onstage and takes the microphone from someone.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS402 	01:15:48,00 --> 01:15:53,50 	someone stares at his mustached father, who nods and smiles.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS437 	01:21:07,00 --> 01:21:12,50 	he smiles slightly, then furrows his brow.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS557 	01:38:31,00 --> 01:38:44,50 	in his control room at hammer industries, the smiling someone watches the mayhem on two large computer monitors.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS644 	01:49:05,00 --> 01:49:15,50 	the suit's face plate flips up, revealing someone's smiling face.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS706 	01:56:47,00 --> 01:57:00,50 	they all smile.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS36 	00:09:03,00 --> 00:09:08,50 	he smiles.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS59 	00:17:25,00 --> 00:17:39,50 	alone in an elevator, a smiling couple hurries in as the doors close.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS114 	00:34:59,00 --> 00:35:05,50 	smiling at each other they press their foreheads together.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS135 	00:42:36,00 --> 00:42:42,50 	they smile out at the view.
-ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS179 	00:57:34,00 --> 00:57:39,50 	smiling she opens her hands in his direction.
-ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS218 	01:04:26,00 --> 01:04:35,50 	jakes smile fades and he stares at her.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS335 	01:35:13,00 --> 01:35:17,50 	he smile and drops his gaze.
-ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS338 	01:35:37,00 --> 01:35:42,50 	he sits between someone and someone with the third bowl and they smile at the tv.
-ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS397 	01:51:57,00 --> 01:52:02,50 	she smiles and shakes her head.
-JACK_AND_JILL.srt 	JACK_AND_JILL_DVS65 	00:11:19,00 --> 00:11:24,50 	she smiles at someone, who shakes his head.
-JACK_AND_JILL.srt 	JACK_AND_JILL_DVS83 	00:18:47,00 --> 00:18:51,50 	he smiles at her as he leaves.
 JACK_AND_JILL.srt 	JACK_AND_JILL_DVS358 	01:07:12,00 --> 01:07:17,50 	someone smiles bashfully.
-JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS45 	00:05:23,00 --> 00:05:37,50 	she smiles, takes in a savoring breath, then inspects the rest of the apartment.
-JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS67 	00:08:20,00 --> 00:08:25,50 	someone smiles gratefully and leaves.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS289 	00:56:46,00 --> 00:56:54,50 	a tall curly-haired woman with big hips gawks, smiling as she charges.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS302 	01:00:08,00 --> 01:00:15,50 	they smile and cock their heads.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS404 	01:18:24,00 --> 01:18:29,50 	she smiles broadly and nods.
@@ -173,18 +123,12 @@ KARATE_KID.srt 	KARATE_KID_DVS189 	00:16:23,00 --> 00:16:28,50 	she smiles appre
 KARATE_KID.srt 	KARATE_KID_DVS191 	00:16:37,00 --> 00:16:43,50 	he and four buddies watch, as does a smiling someone.
 KARATE_KID.srt 	KARATE_KID_DVS361 	00:32:14,00 --> 00:32:21,50 	someone heaves a sigh as she regards her son, then smiles affectionately.
 KARATE_KID.srt 	KARATE_KID_DVS832 	01:08:59,00 --> 01:09:04,50 	someone glances at someone, who smiles.
-KARATE_KID.srt 	KARATE_KID_DVS929 	01:16:11,00 --> 01:16:22,50 	the teacher smiles at the boy, who happily takes in the stunning terrain.
 KARATE_KID.srt 	KARATE_KID_DVS1034 	01:23:50,00 --> 01:23:57,50 	the mother smiles at the man, then goes to her sleeping son.she kisses someone's forehead and caresses his cheek.
-KARATE_KID.srt 	KARATE_KID_DVS1182 	01:37:08,00 --> 01:37:15,50 	the clipping shows photos of a smiling young woman and a pudgy-cheeked young boy.
-KARATE_KID.srt 	KARATE_KID_DVS1215 	01:39:24,00 --> 01:39:34,50 	one shows gong gong peeking through a beaded curtain, and another shows zhang smiling as gong gong harvests a piece of fruit from a tree.
 KARATE_KID.srt 	KARATE_KID_DVS1640 	02:13:13,00 --> 02:13:25,50 	someone, who smiles and nods to him.
-KATY_PERRY_PART_OF_ME.srt 	KATY_PERRY_PART_OF_ME_DVS41 	00:06:37,00 --> 00:06:50,50 	another smiling performer wears a pink wig and a headband topped with a cupcake.
 KATY_PERRY_PART_OF_ME.srt 	KATY_PERRY_PART_OF_ME_DVS97 	00:20:55,00 --> 00:21:00,50 	she smiles and waves while she sings.
 KATY_PERRY_PART_OF_ME.srt 	KATY_PERRY_PART_OF_ME_DVS110 	00:26:44,00 --> 00:26:51,50 	smiling someone shrugs.
-KATY_PERRY_PART_OF_ME.srt 	KATY_PERRY_PART_OF_ME_DVS111 	00:26:56,00 --> 00:27:07,50 	smiling wide, someone shakes her shoulders then falls sideways and sticks one leg in the air.
 KATY_PERRY_PART_OF_ME.srt 	KATY_PERRY_PART_OF_ME_DVS303 	01:10:49,00 --> 01:10:55,50 	a young man in the crowd smiles as he pumps one fist in the air.
 KATY_PERRY_PART_OF_ME.srt 	KATY_PERRY_PART_OF_ME_DVS325 	01:14:56,00 --> 01:15:04,50 	smiling at her audience, someone raises one fist in the air, choking back tears.
-KATY_PERRY_PART_OF_ME.srt 	KATY_PERRY_PART_OF_ME_DVS355 	01:24:26,00 --> 01:24:32,50 	sitting nearby, someone's grandmother smiles wide.
 KATY_PERRY_PART_OF_ME.srt 	KATY_PERRY_PART_OF_ME_DVS357 	01:24:36,00 --> 01:24:42,50 	someone's smiling mother claps along with the music.
 KNOCKED_UP.srt 	KNOCKED_UP_DVS49 	00:32:32,00 --> 00:32:37,50 	now in an exam room, a smiling doctor enters.
 LAND_OF_THE_LOST.srt 	LAND_OF_THE_LOST_DVS98 	00:32:13,00 --> 00:32:17,50 	he eats it, then smiles.
@@ -194,27 +138,18 @@ LARRY_CROWNE.srt 	LARRY_CROWNE_DVS99 	00:24:25,00 --> 00:24:31,50 	he smiles.
 LARRY_CROWNE.srt 	LARRY_CROWNE_DVS260 	01:02:08,00 --> 01:02:14,50 	she smiles through half closed eyes.
 LARRY_CROWNE.srt 	LARRY_CROWNE_DVS369 	01:28:08,00 --> 01:28:12,50 	she smiles sincerely.
 LARRY_CROWNE.srt 	LARRY_CROWNE_DVS375 	01:29:50,00 --> 01:29:56,50 	she smiles as someone, someone, someone, and the lacrosse player hurry in.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS120 	00:13:48,00 --> 00:13:55,50 	a large panel illustrates a smiling krishna holding his mouth open.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS210 	00:27:50,00 --> 00:27:55,50 	she keeps her eyes cast down as her classmates smile.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS223 	00:29:44,00 --> 00:29:52,50 	later at the dinner table, someone stares off in a trance, smiling to himself as his father speaks.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS798 	01:21:48,00 --> 01:21:54,50 	someone's smiling mouth hangs open as he follows their movement.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS845 	01:25:35,00 --> 01:25:43,50 	a pink creature swims before her smiling face as we zoom through her forehead into the blackness.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS984 	01:36:51,00 --> 01:36:57,50 	he smiles as he looks at the surrounding mass of water.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS1007 	01:38:54,00 --> 01:39:00,50 	he smiles as a few of them jump on top of him.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS1126 	01:58:47,00 --> 01:58:54,50 	as he smiles, the tiger appears to his left facing away from us.
 LITTLE_FOCKERS.srt 	LITTLE_FOCKERS_DVS162 	00:57:22,00 --> 00:57:34,50 	the other study a large tattoo of someone's smiling face above the banner, forever.
 LITTLE_FOCKERS.srt 	LITTLE_FOCKERS_DVS174 	01:00:37,00 --> 01:00:41,50 	someone smiles proudly toward the mirrored window.
-LITTLE_FOCKERS.srt 	LITTLE_FOCKERS_DVS278 	01:28:13,00 --> 01:28:18,50 	he smiles as he holds someone's gaze.
-MORNING_GLORY.srt 	MORNING_GLORY_DVS40 	00:05:15,00 --> 00:05:20,50 	she smiles and turns to leave.
 MORNING_GLORY.srt 	MORNING_GLORY_DVS62 	00:12:07,00 --> 00:12:12,50 	then smiles sadly.
 MORNING_GLORY.srt 	MORNING_GLORY_DVS92 	00:18:40,00 --> 00:18:44,50 	they smile.
 MORNING_GLORY.srt 	MORNING_GLORY_DVS93 	00:18:58,00 --> 00:19:03,50 	someone smiles uncertainly.
-MORNING_GLORY.srt 	MORNING_GLORY_DVS133 	00:31:33,00 --> 00:31:39,50 	she smiles and turns back to the rest of the studio.
 MORNING_GLORY.srt 	MORNING_GLORY_DVS151 	00:34:49,00 --> 00:34:55,50 	they smile and pose.
 MORNING_GLORY.srt 	MORNING_GLORY_DVS160 	00:37:56,00 --> 00:38:01,50 	someone smiles anxiously.
 MORNING_GLORY.srt 	MORNING_GLORY_DVS275 	01:01:11,00 --> 01:01:15,50 	he smiles.
 MORNING_GLORY.srt 	MORNING_GLORY_DVS277 	01:01:24,00 --> 01:01:30,50 	someone smiles gleefully.
-MORNING_GLORY.srt 	MORNING_GLORY_DVS283 	01:02:07,00 --> 01:02:13,50 	someone sits in the daybreak office and smiles to herself,
 MORNING_GLORY.srt 	MORNING_GLORY_DVS398 	01:27:06,00 --> 01:27:13,50 	she smiles at him warmly.
 MORNING_GLORY.srt 	MORNING_GLORY_DVS411 	01:30:00,00 --> 01:30:08,50 	he smiles at her.
 MORNING_GLORY.srt 	MORNING_GLORY_DVS418 	01:30:37,00 --> 01:30:44,50 	she smiles at him nervously.
@@ -223,12 +158,8 @@ MORNING_GLORY.srt 	MORNING_GLORY_DVS439 	01:34:09,00 --> 01:34:13,50 	they all s
 MORNING_GLORY.srt 	MORNING_GLORY_DVS483 	01:40:14,00 --> 01:40:20,50 	someone smiles back.
 MORNING_GLORY.srt 	MORNING_GLORY_DVS496 	01:41:29,00 --> 01:41:35,50 	she smiles proudly, tears in her eyes, and puts her hand over her mouth.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS316 	00:40:55,00 --> 00:41:01,50 	she smiles in her elegant lavender gown.
-MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS474 	00:56:41,00 --> 00:56:46,50 	she gives him an unsure look, then smiles.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS609 	01:12:58,00 --> 01:13:03,50 	someone smiles sadly.
-NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS113 	00:25:32,00 --> 00:25:42,50 	glancing at her, he smiles faintly, then turns back to face the room.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS188 	00:41:32,00 --> 00:41:40,50 	it smiles at them.
-NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS223 	00:46:49,00 --> 00:46:54,50 	smiling, farmer someone opens the cart.
-NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS280 	01:01:20,00 --> 01:01:25,50 	taking a seat, he smiles up at him.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS287 	01:03:37,00 --> 01:03:41,50 	lion statue is coming to life as someone and the boys smile.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS355 	01:16:38,00 --> 01:16:45,50 	he smiles triumphantly.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS391 	01:22:35,00 --> 01:22:41,50 	she smiles at someone, then rises and embraces him.
@@ -236,25 +167,17 @@ NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS431 	01:30:23,00 --> 01:30:29,
 NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS76 	00:10:00,00 --> 00:10:05,50 	someone and someone smiled approvingly.
 NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS128 	00:19:58,00 --> 00:20:02,50 	she smiles.
 NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS157 	00:25:45,00 --> 00:25:50,50 	she smiles and pats his arm.
-NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS189 	00:33:21,00 --> 00:33:28,50 	as she gets dressed she smiles and steps closer to someone who's sitting up in bed.
 NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS228 	00:37:53,00 --> 00:37:57,50 	he smiles.
 NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS263 	00:47:16,00 --> 00:47:21,50 	smiling bitterly he picks up his sneakers.
 NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS303 	00:54:23,00 --> 00:54:27,50 	he smiles.
-NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS346 	01:04:22,00 --> 01:04:27,50 	he smiles and steps closer for a kiss.
 NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS379 	01:09:35,00 --> 01:09:41,50 	later, someone drives along smiling.
-NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS411 	01:16:12,00 --> 01:16:17,50 	she smiles he sits facing her.
 NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS451 	01:22:13,00 --> 01:22:20,50 	someone smiles fondly.
 NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS463 	01:25:14,00 --> 01:25:18,50 	she smiles at him.
 NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS515 	01:35:41,00 --> 01:35:47,50 	he smiles.
 NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS529 	01:38:35,00 --> 01:38:39,50 	they both smile.
-NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS540 	01:40:12,00 --> 01:40:17,50 	someone turns to someone smiling nervously.
-PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS57 	00:13:53,00 --> 00:13:59,50 	smiling someone takes his wife's hand.
-PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS123 	00:31:34,00 --> 00:31:41,50 	as he gets to his feet someone smiles proudly.
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS303 	01:11:32,00 --> 01:11:43,50 	smiling, they stare into each other's eyes and share a tender kiss.
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS353 	01:26:08,00 --> 01:26:12,50 	she smiles.
-PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS384 	01:28:22,00 --> 01:28:29,50 	with wide eyes, he looks up at someone and someone who smile at their son's affection.
 PROMETHEUS.srt 	PROMETHEUS_DVS95 	00:05:35,00 --> 00:05:42,50 	clearing away more rubble, she peers through the hole again and smiles excitedly.
-PROMETHEUS.srt 	PROMETHEUS_DVS208 	00:15:05,00 --> 00:15:11,50 	someone gives an intimidated nod then smiles.
 PROMETHEUS.srt 	PROMETHEUS_DVS497 	00:51:57,00 --> 00:52:01,50 	he smiles.
 PROMETHEUS.srt 	PROMETHEUS_DVS503 	00:53:06,00 --> 00:53:10,50 	holloway smiles up at him.
 PROMETHEUS.srt 	PROMETHEUS_DVS687 	01:13:29,00 --> 01:13:40,50 	smiling wondrously in its midst,
@@ -264,65 +187,36 @@ PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS297 	00:55:36,00 --> 00:55:43,50 	someone'
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS532 	01:40:20,00 --> 01:40:24,50 	she smiles.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS384 	01:34:39,00 --> 01:34:44,50 	someone smiles his thanks as someone heads off.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS429 	01:46:36,00 --> 01:46:47,50 	smiling rakishly, he removes his gloves.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS456 	01:53:15,00 --> 01:53:39,50 	he gazes down at the noble woman who smiles at him serenely.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS528 	02:11:18,00 --> 02:11:25,50 	she smiles.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS109 	00:19:56,00 --> 00:20:01,50 	he smiles gently.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS127 	00:22:08,00 --> 00:22:13,50 	she smiles tenderly at him.
 SANCTUM.srt 	SANCTUM_DVS563 	01:42:16,00 --> 01:42:20,50 	he smiles.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1075 	01:12:40,00 --> 01:12:48,50 	now facing a mirror, someone dabs tinted gloss on her full lips, then smiles at herself.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1442 	01:37:51,00 --> 01:37:56,50 	the women smile as they stitch.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS26 	00:05:34,00 --> 00:05:43,50 	he smiles meekly.
 SOUL_SURFER.srt 	SOUL_SURFER_DVS273 	01:19:38,00 --> 01:19:42,50 	she smiles faintly.
 SOUL_SURFER.srt 	SOUL_SURFER_DVS313 	01:34:00,00 --> 01:34:09,50 	someone smiles to herself and paddles toward it.
-SPARKLE_2012.srt 	SPARKLE_2012_DVS32 	00:05:51,00 --> 00:06:02,50 	someone smiles adoringly, and follows someone past several other passengers to the back.
-SPARKLE_2012.srt 	SPARKLE_2012_DVS35 	00:06:37,00 --> 00:06:47,50 	he smiles and turns back around.
-SPARKLE_2012.srt 	SPARKLE_2012_DVS36 	00:06:44,00 --> 00:06:53,50 	gazing out the window, she smiles at the filmore marquee which reads, "msomeone gaye, saturday 9:00 pm."
-SPARKLE_2012.srt 	SPARKLE_2012_DVS45 	00:07:43,00 --> 00:07:50,50 	she smiles and shakes her head.
-SPARKLE_2012.srt 	SPARKLE_2012_DVS56 	00:09:37,00 --> 00:09:42,50 	she nervously glances around, and he smiles.
-SPARKLE_2012.srt 	SPARKLE_2012_DVS95 	00:15:35,00 --> 00:15:40,50 	she smiles and looks away.
-SPARKLE_2012.srt 	SPARKLE_2012_DVS103 	00:17:22,00 --> 00:17:27,50 	then she turns around and smiles at someone.
-SPARKLE_2012.srt 	SPARKLE_2012_DVS128 	00:21:12,00 --> 00:21:18,50 	someone looks around nervously, then smiles at someone.
-SPARKLE_2012.srt 	SPARKLE_2012_DVS130 	00:21:26,00 --> 00:21:31,50 	he smiles, then takes her face in his hands.
-SPARKLE_2012.srt 	SPARKLE_2012_DVS167 	00:28:03,00 --> 00:28:09,50 	she smiles and leaves.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS179 	00:29:41,00 --> 00:29:47,50 	he smiles and waves.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS235 	00:36:56,00 --> 00:37:04,50 	a smiling man in uniform claps his hands.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS329 	00:53:54,00 --> 00:53:59,50 	sister eyes the drugs, then smiles.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS511 	01:22:11,00 --> 01:22:16,50 	someone sings, smiling through tears.
-SPARKLE_2012.srt 	SPARKLE_2012_DVS543 	01:29:39,00 --> 01:29:44,50 	she smiles to herself and turns the page, stopping.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS556 	01:31:09,00 --> 01:31:18,50 	a receptionist wakes her and she smiles.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS566 	01:33:22,00 --> 01:33:26,50 	she smiles and they hug.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS591 	01:36:39,00 --> 01:36:43,50 	she smiles at someone.
-SUPER_8.srt 	SUPER_8_DVS98 	00:16:49,00 --> 00:16:54,50 	someone turns to someone, who smiles and nods.
-SUPER_8.srt 	SUPER_8_DVS135 	00:20:30,00 --> 00:20:36,50 	someone blinks then smiling wide turns and faces her.
 SUPER_8.srt 	SUPER_8_DVS232 	00:39:46,00 --> 00:39:52,50 	someone smiles then makes her face go slack and tilts her head sideways.
 SUPER_8.srt 	SUPER_8_DVS333 	00:59:34,00 --> 00:59:40,50 	the camera zooms in on someone's mother's face as she smiles.
 SUPER_8.srt 	SUPER_8_DVS492 	01:24:14,00 --> 01:24:20,50 	someone tosses the gun aside and smiles briefly as the creature pauses.
-SUPER_8.srt 	SUPER_8_DVS640 	01:43:04,00 --> 01:43:09,50 	still gazing skyward they both smile.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS297 	00:43:29,00 --> 00:43:34,50 	someone's eyes widen, as he smiles broadly.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS311 	00:47:58,00 --> 00:48:02,50 	smiling he takes out a bottle of whiskey.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS702 	01:33:55,00 --> 01:34:00,50 	someone paces, then smiles at someone.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS703 	01:33:57,00 --> 01:34:01,50 	he smiles back.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS28 	00:06:20,00 --> 00:06:27,50 	as someone faintly smiles, the stairwell door opens.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS52 	00:12:47,00 --> 00:12:54,50 	someone rises, smiling.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS105 	00:24:54,00 --> 00:25:03,50 	someone smiles to himself.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS143 	00:31:35,00 --> 00:31:40,50 	he smiles at his work.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS196 	00:37:48,00 --> 00:37:58,50 	he smiles.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS261 	00:49:51,00 --> 00:50:20,50 	she smiles faintly then heads over to someone who sits on a low stonewall sketching on a pad.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS319 	01:01:22,00 --> 01:01:28,50 	smiling gently she closes her eyes and lets out a breath.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS369 	01:12:26,00 --> 01:12:31,50 	he smiles down at her.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS394 	01:15:39,00 --> 01:15:58,50 	at the airport someone lowers her gaze then smiles at someone again.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS397 	01:16:41,00 --> 01:16:47,50 	smiling faintly he shakes someone's hand then leans in.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS235 	00:46:12,00 --> 00:46:16,50 	he eyes her, smiling.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS338 	01:02:51,00 --> 01:02:57,50 	someone smiles tightly and someone shakes his head.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS371 	01:09:14,00 --> 01:09:21,50 	someone smiles sadly at someone, who gives a nostalgic nod.
-THE_CALL.srt 	THE_CALL_DVS217 	00:18:24,00 --> 00:18:29,50 	smiling, autumn's blond friend shakes her head.
-THE_CALL.srt 	THE_CALL_DVS256 	00:21:44,00 --> 00:21:49,50 	she smiles and shakes her head as autumn hurries off.
-THE_CALL.srt 	THE_CALL_DVS262 	00:22:12,00 --> 00:22:19,50 	smiling, the blond shakes her head and slides the phone into her back pocket.
 THE_CALL.srt 	THE_CALL_DVS715 	00:54:38,00 --> 00:54:45,50 	her database searches briefly, then loads a smiling photo of the kidnapper.
-THE_CALL.srt 	THE_CALL_DVS758 	00:57:30,00 --> 00:57:36,50 	someone's smiling dmv photo stares back.
-THE_CALL.srt 	THE_CALL_DVS888 	01:08:49,00 --> 01:08:57,50 	glancing back up to her monitor, she finds someone's profile with a smiling photo.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS280 	00:43:52,00 --> 00:43:59,50 	a central photo shows a smiling someone wearing a race number on her shirt.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS311 	00:47:03,00 --> 00:47:09,50 	another photo shows a radiantly smiling someone.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS554 	01:21:40,00 --> 01:21:47,50 	someone smiles pleasantly.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS739 	01:43:48,00 --> 01:43:52,50 	he smiles.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS436 	00:52:01,00 --> 00:52:06,50 	he smiles.
@@ -333,10 +227,7 @@ THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1091 	01
 THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS70 	00:24:50,00 --> 00:24:54,50 	someone smiles warmly.
 THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS99 	00:34:43,00 --> 00:34:49,50 	smiling at him from her bed, flipping through a magazine.
 THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS168 	00:55:55,00 --> 00:55:59,50 	she smiles.
-THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS180 	00:59:03,00 --> 00:59:10,50 	a man in a blazer walks along the bar, smiling as he watches someone eat.
 THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS198 	01:04:24,00 --> 01:04:28,50 	he smiles gently.
-THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS212 	01:09:26,00 --> 01:09:31,50 	someone walks away, smiling.
-THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS232 	01:16:13,00 --> 01:16:21,50 	she takes off her glasses and pinches the bridge of her nose before smiling to herself.
 THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS237 	01:17:40,00 --> 01:17:44,50 	the executives smile.
 THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS273 	01:30:53,00 --> 01:30:59,50 	someone smiles again, genuinely touched by someone's declaration.
 THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS98 	00:31:53,00 --> 00:31:59,50 	drops his gaze then smiles and swings his arms.
@@ -346,28 +237,20 @@ THE_VOW.srt 	THE_VOW_DVS210 	00:26:48,00 --> 00:26:53,50 	someone smiles wistful
 THE_VOW.srt 	THE_VOW_DVS467 	01:06:51,00 --> 01:06:57,50 	he smiles at someone and directs her gaze out the windshield.
 THE_VOW.srt 	THE_VOW_DVS468 	01:07:02,00 --> 01:07:08,50 	someone unbuttons his shirt and someones smile fades.
 THE_VOW.srt 	THE_VOW_DVS491 	01:09:24,00 --> 01:09:28,50 	someone smiles fondly.
-THE_VOW.srt 	THE_VOW_DVS496 	01:09:55,00 --> 01:10:01,50 	someone smiles up at him sweetly, and his parted lips find hers.
 THE_VOW.srt 	THE_VOW_DVS513 	01:11:26,00 --> 01:11:31,50 	someone smiles sadly, her eyes welling up.
-THE_VOW.srt 	THE_VOW_DVS540 	01:14:28,00 --> 01:14:33,50 	she smiles briefly at him, then turns away.
 THE_VOW.srt 	THE_VOW_DVS698 	01:37:33,00 --> 01:37:37,50 	he smiles.
-THE_WATCH.srt 	THE_WATCH_DVS328 	00:56:50,00 --> 00:56:58,50 	in the high school parking lot, someone watches his daughter approach someone, who smiles back at someone while hugging her.
 THE_WATCH.srt 	THE_WATCH_DVS454 	01:21:54,00 --> 01:21:58,50 	she smiles at someone.
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS455 	01:44:59,00 --> 01:45:07,50 	the husband smiles.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS108 	00:18:30,00 --> 00:18:35,50 	he smiles at a dark-haired woman strolling by.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS114 	00:20:17,00 --> 00:20:21,50 	he smiles.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS188 	00:36:20,00 --> 00:36:24,50 	he smiles.
-THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS375 	01:09:19,00 --> 01:09:25,50 	someone stands by smiling as someone gives his son a hug.
-THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS516 	01:28:45,00 --> 01:28:51,50 	she smiles and glances away.
 THOR.srt 	THOR_DVS63 	00:07:42,00 --> 00:07:50,50 	smiling as he strides past lines of guards, the man casually flips the hammer and points to cheering onlookers.
-THOR.srt 	THOR_DVS66 	00:07:57,00 --> 00:08:05,50 	a blonde woman bedecked with jewels scowls then smiles at the now white-bearded king who sits upon a high golden throne.
-THOR.srt 	THOR_DVS72 	00:08:36,00 --> 00:08:43,50 	the blonde man turns and smiles toward three men standing to the right of the king.
 THOR.srt 	THOR_DVS309 	00:44:56,00 --> 00:44:59,50 	she smiles.
 THOR.srt 	THOR_DVS343 	00:51:28,00 --> 00:51:34,50 	smiling at someone, someone momentarily drives off the road.
 THOR.srt 	THOR_DVS381 	00:57:02,00 --> 00:57:10,50 	he smiles as he strides toward the hammer.
 THOR.srt 	THOR_DVS538 	01:26:11,00 --> 01:26:15,50 	someone smiles slightly.
 THOR.srt 	THOR_DVS563 	01:28:28,00 --> 01:28:32,50 	someone smiles broadly.
 THOR.srt 	THOR_DVS605 	01:32:28,00 --> 01:32:32,50 	they both smile.
-THOR.srt 	THOR_DVS694 	01:44:11,00 --> 01:44:15,50 	someone smiles then faces his son.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS54 	00:06:49,00 --> 00:06:53,50 	he smiles and they kiss.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS191 	00:25:20,00 --> 00:25:24,50 	she barely smiles.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS359 	00:39:49,00 --> 00:39:55,50 	someone frowns at someone, who smiles meagerly.
@@ -379,41 +262,31 @@ TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS884 	01:33:33,00 --> 01:33:42,50 	her boyfriend 
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS892 	01:34:17,00 --> 01:34:22,50 	smiling tearfully, she nods.
 TRUE_GRIT.srt 	TRUE_GRIT_DVS55 	00:09:56,00 --> 00:10:01,50 	he smiles and raises his eyebrows.
 TRUE_GRIT.srt 	TRUE_GRIT_DVS72 	00:21:01,00 --> 00:21:04,50 	she smiles.
-TRUE_GRIT.srt 	TRUE_GRIT_DVS104 	00:25:35,00 --> 00:25:40,50 	he smiles cockily and shows his badge.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS226 	00:21:12,00 --> 00:21:16,50 	someone smiles uncertainly.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS463 	00:56:48,00 --> 00:56:57,50 	smiling and chatting, they speed down a narrow sun-dappled road in the woods.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS485 	01:01:04,00 --> 01:01:08,50 	someone smiles to herself.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS29 	00:04:20,00 --> 00:04:25,50 	smiling politely, he heads away.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS59 	00:11:19,00 --> 00:11:29,50 	sitting at a table in a breakfast nook, he smiles.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS63 	00:12:01,00 --> 00:12:06,50 	she smiles as she resumes her work.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS94 	00:14:19,00 --> 00:14:23,50 	he smiles wistfully.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS146 	00:25:29,00 --> 00:25:35,50 	someone waves to the blonde girl, who smiles and waves back.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS175 	00:30:12,00 --> 00:30:16,50 	someone smiles a bit.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS245 	00:40:08,00 --> 00:40:17,50 	accepting, he eyes its tidy paper wrapping and smiles up at her.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS247 	00:40:18,00 --> 00:40:27,50 	tucked inside the brown paper, he finds a cheerful drawing of a smiling sun wearing shades.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS386 	01:01:09,00 --> 01:01:16,50 	he smiles back, then returns his gaze to the sky.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS426 	01:07:22,00 --> 01:07:28,50 	someone shakes his head disbelievingly and smiles to himself.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS482 	01:15:02,00 --> 01:15:09,50 	he glides the cursor across a smiling photo of someone with trees behind her.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS614 	01:32:07,00 --> 01:32:14,50 	in the next photo, the smiling beauty stands in the snow in an ankle-length coat.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS736 	01:45:14,00 --> 01:45:21,50 	someone smiles wistfully at the words, nods, and dashes off.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS792 	01:52:33,00 --> 01:52:41,50 	as he smiles at passing patrons, his gaze finds the home depot cashier in the crowd.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS799 	01:53:12,00 --> 01:53:17,50 	she smiles nervously.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS812 	01:54:22,00 --> 01:54:26,50 	she smiles.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS818 	01:54:54,00 --> 01:55:00,50 	smiling, the zookeeper crouches behind her.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS822 	01:55:18,00 --> 01:55:24,50 	his eyes crinkle at the corners as he smiles at her.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS841 	01:58:10,00 --> 01:58:17,50 	someone looks up at someone, who smiles.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS845 	01:58:29,00 --> 01:58:33,50 	she smiles tenderly at him.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS122 	00:13:05,00 --> 00:13:10,50 	someone smiles comfortingly at his fiance.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS281 	00:40:01,00 --> 00:40:11,50 	she smiles at the dashing simon.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS533 	01:14:12,00 --> 01:14:20,50 	later, she smiles at the reflection of her long smooth ponytail and flounces it against her back.
-WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS563 	01:16:28,00 --> 01:16:36,50 	she strides briskly into a restaurant, where her sister smiles sheepishly at her from a table set for four.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS579 	01:19:47,00 --> 01:19:52,50 	someone smiles sheepishly someone.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS612 	01:22:53,00 --> 01:23:00,50 	she grins girlishly at someone, who smiles from his seat among the guests.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS643 	01:29:39,00 --> 01:29:43,50 	someone smiles fondly.
-WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS693 	01:34:42,00 --> 01:34:50,50 	a photo shows the smiling wedding party.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS56 	00:04:41,00 --> 00:04:48,50 	wearing spectacles, he smiles at the thin boy through a graying mustache.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS122 	00:07:57,00 --> 00:08:06,50 	the doctor smiles approvingly at the boy.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS361 	00:30:02,00 --> 00:30:08,50 	she smiles at the staring slack-jawed agent with his face.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS416 	00:36:00,00 --> 00:36:04,50 	someone smiles warmly at him.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS433 	00:38:01,00 --> 00:38:07,50 	he smiles pleasurably, then scoots past the group.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS438 	00:38:17,00 --> 00:38:23,50 	smiling warmly, someone steps in close to someone.
@@ -422,13 +295,9 @@ XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS496 	00:45:33,00 --> 00:45:37,50 	he s
 YOUNG_ADULT.srt 	YOUNG_ADULT_DVS103 	00:15:51,00 --> 00:15:56,50 	someone smiles broadly.
 YOUNG_ADULT.srt 	YOUNG_ADULT_DVS150 	00:26:07,00 --> 00:26:12,50 	he smiles at her and approaches her table.
 YOUNG_ADULT.srt 	YOUNG_ADULT_DVS165 	00:31:51,00 --> 00:31:55,50 	she smiles and tilts her head.
-YOUNG_ADULT.srt 	YOUNG_ADULT_DVS250 	00:48:03,00 --> 00:48:10,50 	someone gazes at someone who smiles and nods his head as he watches the band.
 YOUNG_ADULT.srt 	YOUNG_ADULT_DVS279 	00:55:03,00 --> 00:55:09,50 	smiling at one another, they touch glasses then finished their drinks.
 YOUNG_ADULT.srt 	YOUNG_ADULT_DVS418 	01:20:59,00 --> 01:21:03,50 	she smiles weakly.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS523 	01:01:30,00 --> 01:01:35,50 	then smiles through an exhaled laugh.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS544 	01:03:58,00 --> 01:04:03,50 	both girls smile as they drive forward.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS557 	01:05:30,00 --> 01:05:38,50 	outside, little someone smiles at the wonderland of mini lights decorating trees, buildings, and fences.
-ZOMBIELAND.srt 	ZOMBIELAND_DVS641 	01:12:28,00 --> 01:12:35,50 	he smiles then turns to someone who wears a tactical vest loaded with weapons.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS739 	01:19:55,00 --> 01:19:59,50 	he smiles.
-ZOOKEEPER.srt 	ZOOKEEPER_DVS224 	00:50:56,00 --> 00:51:03,50 	she smiles dreamily and someone gives someone a thumbs up.
-ZOOKEEPER.srt 	ZOOKEEPER_DVS384 	01:25:37,00 --> 01:25:46,50 	he smiles and someone gives a nod.

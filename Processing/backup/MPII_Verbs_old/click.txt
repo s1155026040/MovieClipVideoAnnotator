@@ -1,28 +1,25 @@
-0004_Charade_01.46.58.570-01.47.00.233 	It makes a slight clicking sound.
-0005_Chinatown_00.15.22.877-00.15.26.179 	Turns again and they row past Mulwray and the girl, Gittes again clicking off several fast shots.
-0005_Chinatown_00.15.54.354-00.16.13.021 	Gittes is clicking off more shots when the tiles his feet are hooked over come loose.
-0005_Chinatown_01.37.27.931-01.37.34.178 	Before Gittes can say anything, the phone clicks dead.
-0006_Clerks_00.27.41.798-00.27.47.114 	He stands, points the remote, clicks the TV off, and ponders.
-0007_DIE_NACHT_DES_JAEGERS_00.40.02.833-00.40.06.856 	INSERT -- PREACHER's HAND AND KNIFE It clicks open.
-0010_Frau_Ohne_Gewissen_00.09.26.200-00.09.28.691 	His back is to the archway as he hears high heels clicking on the staircase.
-0010_Frau_Ohne_Gewissen_00.16.55.217-00.16.57.030 	THE CAMERA PANS with Phyllis Dietrichson's feet and ankles as she comes down the stairs, her high heels clicking on the tiles.
-0011_Gandhi_02.26.21.061-02.26.23.944 	He is spinning in a shaft of light -- and looking off -- as we hear a camera click and the rustle of movement.
-0011_Gandhi_02.59.49.928-02.59.50.629 	Another click of a camera.
-0014_Ist_das_Leben_nicht_schoen_00.05.37.099-00.05.38.137 	He clicks the lighter and the flame springs up.
-0014_Ist_das_Leben_nicht_schoen_00.54.45.497-00.54.47.245 	He realizes George has hung up, and clicks the phone furiously.
-0014_Ist_das_Leben_nicht_schoen_01.30.12.083-01.30.20.033 	But before he can think of an insult to top Welch's, we hear a click on the phone.
-0020_Raising_Arizona_00.23.49.063-00.23.49.656 	She listens hard at the door: Hi's footsteps cross the living room, the click of the door opening, silence.
-0020_Raising_Arizona_01.28.40.272-01.28.41.990 	The trooper is clicking open his ballpoint pen and reaching his citation book from his breast pocket.
-0028_The_Crying_Game_00.34.49.614-00.35.00.482 	Maguire opens the door to the greenhouse and clicks the chamber of his gun.
-0030_The_Hustler_01.40.26.139-01.40.27.767 	His face glows as he watches the flow of men moving in and out of the crowded room, and hears the sound of clicking pool balls.
-0049_Hannah_and_her_sisters_00.12.58.939-00.13.12.370 	He clicks his fingers in time to the music only he hears on his Walkman.
-0050_Indiana_Jones_and_the_last_crusade_00.55.26.898-00.55.29.216 	The Sinister Man clicks his heels and bows quickly.
-0051_Men_in_black_01.00.16.067-01.00.18.408 	Kay clicks off the picture of her.
-0053_Rendezvous_mit_Joe_Black_02.36.02.616-02.36.04.521 	Parrish clicks the speakerphone off.
-1001_Flight_00.38.27.897-00.38.38.206 	He looks around the dark room, then, clicks on the light.
+0004_Charade_01.40.54.133-01.40.54.721 	he stands on the platform as the train doors slam shut, the latches click, the whistle blows and the train pulls out.
+0004_Charade_01.46.58.570-01.47.00.233 	it makes a slight clicking sound.
+0005_Chinatown_00.15.22.877-00.15.26.179 	turns again and they row past mulwray and the girl, gittes again clicking off several fast shots.
+0005_Chinatown_00.15.54.354-00.16.13.021 	gittes is clicking off more shots when the tiles his feet are hooked over come loose.
+0006_Clerks_00.27.41.798-00.27.47.114 	he stands, points the remote, clicks the tv off, and ponders.
+0007_DIE_NACHT_DES_JAEGERS_00.40.02.833-00.40.06.856 	insert -- preacher's hand and knife it clicks open.
+0010_Frau_Ohne_Gewissen_00.09.26.200-00.09.28.691 	his back is to the archway as he hears high heels clicking on the staircase.
+0010_Frau_Ohne_Gewissen_00.16.55.217-00.16.57.030 	the camera pans with phyllis dietrichson's feet and ankles as she comes down the stairs, her high heels clicking on the tiles.
+0011_Gandhi_02.27.22.262-02.27.23.478 	she clicks.
+0013_Halloween_01.17.28.032-01.17.29.094 	in a flash, she leaps up and clicks the lock.
+0013_Halloween_01.17.54.219-01.17.54.785 	the shape's hand grabs the lock and clicks it open.
+0014_Ist_das_Leben_nicht_schoen_00.05.37.099-00.05.38.137 	he clicks the lighter and the flame springs up.
+0014_Ist_das_Leben_nicht_schoen_00.54.45.497-00.54.47.245 	he realizes george has hung up, and clicks the phone furiously.
+0020_Raising_Arizona_01.28.40.272-01.28.41.990 	the trooper is clicking open his ballpoint pen and reaching his citation book from his breast pocket.
+0028_The_Crying_Game_00.34.49.614-00.35.00.482 	maguire opens the door to the greenhouse and clicks the chamber of his gun.
+0030_The_Hustler_01.40.26.139-01.40.27.767 	his face glows as he watches the flow of men moving in and out of the crowded room, and hears the sound of clicking pool balls.
+0049_Hannah_and_her_sisters_00.12.58.939-00.13.12.370 	he clicks his fingers in time to the music only he hears on his walkman.
+0050_Indiana_Jones_and_the_last_crusade_00.27.02.998-00.27.08.551 	indy, brody and elsa enter, their heels clicking across the marble floor.
+0050_Indiana_Jones_and_the_last_crusade_00.55.26.898-00.55.29.216 	the sinister man clicks his heels and bows quickly.
+1009_Spider-Man3_01.38.25.749-01.38.33.866 	clicking his fingers, he salsas over to gwen holding out his hand.
 1034_Super_8_01.41.32.143-01.41.41.076 	the locket clicks open, revealing the picture inside, which is of joe's mother, holding him as a baby.
 1043_Vantage_Point_01.01.07.964-01.01.18.036 	perspiring profusely, felipe glowers intensely, then clicks a red trigger with his thumb.
-1046_Australia_01.40.59.483-01.41.01.306 	on the screen, dorothy clicks her emerald heels together.
 1049_Harry_Potter_and_the_chamber_of_secrets_00.07.01.000-00.07.02.607 	dobby clicks his fingers.
 1049_Harry_Potter_and_the_chamber_of_secrets_00.07.19.821-00.07.21.180 	he clicks his finger again.
 1049_Harry_Potter_and_the_chamber_of_secrets_00.07.37.944-00.07.38.569 	dobby clicks his fingers.
@@ -33,7 +30,6 @@
 1054_Harry_Potter_and_the_prisoner_of_azkaban_00.43.10.240-00.43.17.354 	ron's hair stands on end as it moves towards him, clicking its pincers.
 1060_Yes_man_00.28.30.188-00.28.32.131 	he clicks to enlarge another pop-up.
 2012_Unbreakable_01.01.35.338-01.01.38.341 	the hammer clicks back.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.03.56.612-00.03.58.723 	she clicks her fingers at harry.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.43.10.240-00.43.17.354 	ron's hair stands on end as it moves towards him, clicking its pincers.
-1060_Yes_man_00.28.30.188-00.28.32.131 	he clicks to enlarge another pop-up.
-2012_Unbreakable_01.01.35.338-01.01.38.341 	the hammer clicks back.
+2026_Legion_00.06.04.743-00.06.15.823 	burton squeezes his eyes shut in pain, his whole body quaking, heels clicking the pavement, as if some massive pressure were building inside him.
+2026_Legion_01.09.19.311-01.09.24.509 	audrey raises the 45 and click.
+2026_Legion_01.24.52.753-01.24.57.364 	it takes the creature a moment to realize that the clicking sound is coming from bob's silver zippo.

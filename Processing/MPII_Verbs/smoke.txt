@@ -1,75 +1,21 @@
-0001_American_Beauty_00.33.47.881-00.33.58.307 	ricky and lester stand next to a dumpster behind the service entrance to the hotel, smoking a joint.
-0001_American_Beauty_00.56.00.913-00.56.27.909 	lester is driving, smoking a joint.
-0005_Chinatown_01.20.23.380-01.20.26.815 	gittes stands on the veranda, smoking a cigarette, staring off into the night.
 0005_Chinatown_02.00.18.187-02.00.20.753 	by the pond, cigarette smoke drifts into shot.
-0009_Forrest_Gump_00.12.37.729-00.12.39.768 	she is smoking a cigarette.
-0010_Frau_Ohne_Gewissen_00.04.33.556-00.04.38.119 	he takes a deep drag and lets smoke out through his nose.
-0010_Frau_Ohne_Gewissen_00.30.15.574-00.30.16.415 	he is smoking his cigarette and staring at the ceiling.
-0010_Frau_Ohne_Gewissen_01.00.50.398-01.00.51.313 	he is carrying a file of papers and smoking a cigar.
-0010_Frau_Ohne_Gewissen_01.01.42.392-01.01.44.573 	naturally it is the best office in the building; modern but not modernistic, spacious, very well furnished; flowers, smoking stands, easy chairs, etc.
-0010_Frau_Ohne_Gewissen_01.18.13.815-01.18.14.376 	he is wearing his stetson hat and smoking a cigar.
-0010_Frau_Ohne_Gewissen_01.20.19.724-01.20.20.662 	he indicates the cigar he himself is smoking.
-0012_Get_Shorty_01.36.25.394-01.36.35.381 	chili sits back to smoke his cigarette, lets it happen.
 0013_Halloween_01.06.21.652-01.06.25.611 	lynda lounges in the bed smoking another cigarette.
-0016_O_Brother_Where_Art_Thou_00.51.19.893-00.51.21.307 	pappy o'daniel sits smoking a cigar, nursing a glass of whiskey, and soliciting the counsel of his overweight retinue.
-0016_O_Brother_Where_Art_Thou_01.07.57.896-01.08.04.117 	pappy o'daniel sits on the veranda of the governor's mansion, smoking a cigar and sipping from a glass of bourbon as the evening sun goes down.
-0017_Pianist_01.24.46.741-01.25.04.028 	he sees the cigarette stub, takes it, lights it, coughs, smokes awkwardly.
-0020_Raising_Arizona_00.33.54.867-00.33.58.804 	gale puts his spoon down and picks up a cigarette which has been smoking in the ashtray next to him.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.18.23.039-00.18.30.331 	are leaning over a barrel, washing dishes in soapy water.with gandalf sitting nearby, smoking his pipe and sipping an ale.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.52.07.586-00.52.14.680 	sam indicates a brooding stranger who sits alone at a table in the far corner, smoking a curiously carved long stemmed pipe, peering from beneath a travel stained cowl with gleaming eyes.
-0026_The_Big_Fish_00.27.30.033-00.27.32.891 	only don price, smoking on the corner, isn't sad to see edward go.
-0028_The_Crying_Game_00.06.12.655-00.06.16.383 	he is smoking a cigarette.
-0028_The_Crying_Game_00.32.48.198-00.33.09.649 	fergus takes out a cigarette, lights it, and lifts up jody's hood so he can smoke.
-0028_The_Crying_Game_01.06.49.419-01.06.52.290 	we see her outline, pacing up and down behind the blinds, smoking a cigarette.
-0031_The_Lost_Weekend_00.06.52.792-00.06.54.847 	wick, who has been smoking a cigarette throughout the scene, throws it out the window.
 0031_The_Lost_Weekend_00.57.29.237-00.57.37.764 	very calmly don smokes his cigarette, a great gentleman.
 0046_Chasing_Amy_01.02.50.266-01.02.51.898 	she smokes.
-0049_Hannah_and_her_sisters_01.02.10.979-01.02.14.955 	she then picks up her lit cigarette and continues to smoke.
-0049_Hannah_and_her_sisters_01.23.05.526-01.23.26.512 	holly smokes a cigarette as she talks on the phone to hannah.
 1001_Flight_00.03.29.501-00.03.35.076 	he smokes a cigarette.
-1001_Flight_00.06.58.131-00.07.07.365 	she smokes as she makes a call from the driver's seat.
 1001_Flight_00.24.05.961-00.24.07.190 	fire and smoke billow from the left engine.
-1001_Flight_00.39.03.013-00.39.06.677 	he sees nicole sitting on the stairs smoking a cigarette.
 1004_Juno_00.21.48.440-00.21.50.729 	leah hands pipe smoking juno an ad.
 1006_Slumdog_Millionaire_00.44.21.281-00.44.24.523 	at night, jamal and salim sit smoking a hookah pipe and drinking with friends around a campfire.
-1009_Spider-Man3_01.17.41.440-01.17.45.956 	bending his knees as he crouches lower and lower, behind him the pan starts to smoke.
-1010_TITANIC_00.23.43.267-00.23.57.558 	inside a saloon with a view of the titanic men smoke and drink as they play a game of cards.
-1010_TITANIC_00.24.17.257-00.24.21.924 	eyes narrowed, jack smokes a cigarette as he peers across the table to sven's partner.
-1010_TITANIC_00.37.07.849-00.37.21.182 	meanwhile, jack lies on a bench and smokes a cigarette as he gazes up at the starry sky.
-1010_TITANIC_01.08.31.783-01.08.36.163 	others talk or smoke cigars.
-1018_Body_Of_Lies_00.54.12.337-00.54.57.512 	hoffman smokes a fat cigar and has a drink with ferris on the balcony of his apartment.
-1018_Body_Of_Lies_01.07.18.522-01.07.23.921 	a casually dressed, bespectacled man with light-brown hair walks up, smoking a cigarette.
-1026_Legion_00.11.59.058-00.12.03.725 	a guy in an suv drives along a deserted freeway, a half smoked cigarette in his mouth.
-1026_Legion_00.12.34.898-00.12.40.055 	he pulls up in the forecourt and sees charlie standing by a phone box, smoking a cigarette.
-1027_Les_Miserables_00.22.36.678-00.22.41.140 	she passes a man smoking a long pipe and women seated.
 1030_Public_Enemies_00.12.26.229-00.12.27.931 	a woman smokes at the table.
 1033_Sherlock_Holmes_A_Game_of_Shadows_00.01.01.330-00.01.09.170 	a marquee in front of a cathedral erupts in flames, and smoke billows out over bodies on the ground.
-1033_Sherlock_Holmes_A_Game_of_Shadows_00.01.36.864-00.01.39.054 	sherlock holmes, disguised as an oriental man, lies on a mattress in the street smoking a pipe.
-1033_Sherlock_Holmes_A_Game_of_Shadows_00.32.47.573-00.32.50.134 	sporting dark glasses and smoking his long pipe, holmes turns around to a bruised and beaten watson, who is asleep beside him.
 1033_Sherlock_Holmes_A_Game_of_Shadows_00.41.15.198-00.41.22.265 	the train speeds through the night, clouds of steam and smoke belch from its funnel as it races along.
 1033_Sherlock_Holmes_A_Game_of_Shadows_01.45.58.692-01.46.01.403 	a man smokes a cigar.
-1034_Super_8_01.02.47.874-01.02.54.197 	she goes in to him, and finds him smoking and drinking.
 1034_Super_8_01.17.31.339-01.17.38.657 	in the car park, donnie sits in the car smoking a joint, oblivious of the military activity around him.
-1034_Super_8_01.49.22.975-01.49.24.671 	he closes a book and pretends to smoke a pipe.
-1038_The_Great_Gatsby_00.32.16.536-00.32.19.377 	gatsby stands at the window, smiling benignly and smoking a cigarette.
 1041_This_is_40_00.02.58.385-00.03.00.985 	she smokes a cigarette with a latex-gloved hand.
 1041_This_is_40_00.20.41.171-00.20.43.297 	later, debbie ducks down in her car as she smokes a cigarette.
-1041_This_is_40_00.20.43.297-00.20.49.846 	she blows smoke out the window and pulls away.
-1044_Pride_And_Prejudice_Disk_Two_02.02.27.455-02.02.34.479 	inside the house, shutters are opened and smoke pours out of the chimney as the fires are lit.
-1046_Australia_00.20.29.208-00.20.33.527 	as she enters the house, women hold out buckets of smoking leaves.
-1046_Australia_02.21.53.102-02.21.59.731 	the soldiers move slowly through the flaming, smoking ruins of darwin.
-1048_Gran_Torino_00.28.52.929-00.28.56.106 	father janovich finds walt sitting on his porch, smoking his cigarette
 1048_Gran_Torino_00.58.58.804-00.58.59.679 	walt smokes a cigarette and watches as thao scrapes old paint off the clapboard exterior.
 1048_Gran_Torino_00.59.13.545-00.59.18.149 	walt smokes another cigarette,
-1051_Harry_Potter_and_the_goblet_of_fire_00.34.21.011-00.34.24.086 	the piece of parchment is still smoking at the edges.
-1056_Rambo_00.02.35.801-00.02.37.253 	an officer in dark glasses sits in one of the trucks, coolly smoking a cigarette.
-1056_Rambo_00.40.45.037-00.40.49.061 	he takes a pull on one of his ever-present cigarettes and blows smoke.
-1056_Rambo_00.50.50.222-00.50.55.216 	a guard in a rain poncho smokes a cigarette and sees the headlamps of the truck in the distance.
 1058_The_Damned_united_00.12.44.000-00.12.49.865 	brian dashes down corridors to smoking cleaners.
 1058_The_Damned_united_00.27.12.000-00.27.13.000 	peter smokes a cigarillo as he embraces brian.
-1058_The_Damned_united_00.59.54.000-01.00.01.000 	longson stares at the table as he smokes a cigar, while the other directors look away from brian's plaintive looks.
-1058_The_Damned_united_01.31.38.000-01.31.44.426 	peter smokes a cigar beside brian as they sit in the dugout.
-1062_Day_the_Earth_stood_still_01.19.10.769-01.19.12.926 	flames and smoke clear but gort remains.
-2034_Super_8_00.06.28.884-00.06.30.415 	jen, his smoking hot 17-year-old sister, angrily sets the table where his father pays bills.
 2034_Super_8_00.29.34.689-00.29.38.025 	charles reacts; he's never smoked anything.
 2041_This_is_40_01.53.01.012-01.53.01.823 	debbie smokes a cigarette at the side of the house.

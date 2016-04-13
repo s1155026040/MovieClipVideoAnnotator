@@ -1,8 +1,4 @@
 30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS331 	01:14:56,00 --> 01:15:01,50 	a charred someone shoots someone in the shoulder.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS249 	00:39:38,00 --> 00:40:01,50 	his skull charred and smoking.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS329 	00:59:07,00 --> 00:59:16,50 	with his eyes no longer glowing, someone lies near a wall with his back against charred furniture.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS671 	01:50:54,00 --> 01:51:10,50 	lying on the charred ground, someone and someone stand.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS391 	01:36:55,00 --> 01:37:10,50 	now, someone rides into the charred ruins at barnsdale.
-SALT.srt 	SALT_DVS376 	01:07:11,00 --> 01:07:19,50 	a dozen charred victims killed in the grenade blast lie in heaps around the open hatch.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1231 	02:09:26,00 --> 02:09:34,50 	a hearse drives off, leaving behind the charred suv, which still lies on its side.
 THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS171 	00:57:51,00 --> 00:57:56,50 	he hands her an enormous charred steak.

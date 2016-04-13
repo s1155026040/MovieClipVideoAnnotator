@@ -1,39 +1,31 @@
-0001_American_Beauty_00.46.47.601-00.47.00.923 	The Colonel is washing his Ford Explorer, squatting to scrub the bumper, when something Catches his eye: Lester and the Jims jog down the street.
-0005_Chinatown_00.26.00.253-00.26.02.824 	A chauffeur is washing down a cream-colored Packard with a chamois.
-0007_DIE_NACHT_DES_JAEGERS_01.08.42.046-01.08.43.509 	RACHEL mercilessly scrubs JOHN; JOHN doesn't like it; RUBY washes PEARL with a cloth.
-0009_Forrest_Gump_00.30.45.738-00.30.58.468 	Forrest washes his hands, then notices an autographed photo from Marilyn Monroe and a photo of John with his brother Bobby.
-0010_Frau_Ohne_Gewissen_00.47.51.527-00.47.51.684 	A colored attendant in coveralls and rubber boots is washing a car with a hose and sponge.
-0010_Frau_Ohne_Gewissen_00.59.25.822-00.59.26.977 	Charlie, the attendant has washed Neff's car and is now polishing the glass and metal work.
-0011_Gandhi_00.50.59.368-00.51.01.134 	Across the river down from the Third Class coaches a small group of Indian women is squatted by the river's edge, washing clothes.
-0011_Gandhi_00.51.03.308-00.51.04.189 	Their ritual of washing goes on, but they are all watching the passengers of the train.
-0011_Gandhi_01.02.19.580-01.02.22.159 	Ba and an ashramite woman squat by the river, washing clothes.
-0013_Halloween_00.46.47.336-00.46.48.499 	She steps back inside and crosses to the washing machine.
-0013_Halloween_00.47.33.152-00.47.35.368 	Annie turns and glances at the window above the washing machine.
-0013_Halloween_00.47.35.368-00.47.41.325 	BEHIND HER, in the open window above the washing machine, we see the SHAPE looking in.
-0013_Halloween_00.47.49.354-00.47.57.212 	She quickly crosses to the washing machine, climbs up on top of it and starts out the window.
-0016_O_Brother_Where_Art_Thou_01.34.06.099-01.34.06.787 	As the door swings wide the inside of the cupboard is washed with light.
-0019_Pulp_Fiction_01.56.09.185-01.56.18.217 	Jules is bent over a sink, washing his bloody hands while Vincent stands behind him.
-0019_Pulp_Fiction_02.07.55.391-02.08.35.211 	Vincent is in the front seat washing windows, while Jules is in the backseat, picking up little pieces of skull and gobs of brain.
-0022_Reservoir_Dogs_00.54.51.172-00.54.51.502 	He looks down and watches Freddy wash his hands.
-0022_Reservoir_Dogs_01.13.07.852-01.13.09.319 	Freddy finishes washing his hands.
-0023_THE_BUTTERFLY_EFFECT_00.56.36.157-00.56.37.378 	At the sink, Evan washes the blood off his face and looks at his reflection in the mirror.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.18.23.039-00.18.30.331 	Are leaning over a barrel, washing dishes in soapy water.with Gandalf sitting nearby, smoking his pipe and sipping an ale.
-0027_The_Big_Lebowski_01.21.16.850-01.21.20.002 	The Dude's face is washed with a brilliant light as the corridor opens onto a gleaming bowling alley.
-0030_The_Hustler_00.28.55.953-00.28.59.646 	Behind him, in the washroom, is Fats, washing his face and hands.
-0038_Psycho_00.47.24.541-00.47.29.432 	For a moment we watch Mary as she washes and soaps herself.
-0041_The_Sixth_Sense_01.37.48.577-01.37.50.109 	Confusion washes over his face.
-0049_Hannah_and_her_sisters_01.25.02.066-01.25.07.944 	Holly walks over to the sink and washes her hands.
-0050_Indiana_Jones_and_the_last_crusade_00.35.37.627-00.35.40.678 	The rats literally wash over them -- like a rodent tidal wave -- in their efforts to escape.
-0051_Men_in_black_01.08.26.866-01.08.31.653 	She peers into the jewel, and her face washes over with amazement.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.59.27.776-01.59.31.623 	Dark clouds scattered behind them, spray and spume washed over them.
-1003_How_to_Lose_Friends_and_Alienate_People_01.13.34.931-01.13.39.958 	Sydney washes up as his father returns a framed portrait photo of a woman to a shelf.
-1004_Juno_00.10.29.360-00.10.34.750 	Beneath his yellow sweatband, Bleeker's eyes cross and what little color there was in his pale cheeks washes away.
-1005_Signs_00.38.32.355-00.38.33.738 	In the farmhouse, Morgan and Bo are washing up at the sink in the kitchen, which opens directly onto the lounge.
-1006_Slumdog_Millionaire_00.16.54.311-00.17.02.987 	Jamal's mother washes brightly colored clothing in a pool as young Jamal and Salim frolic in the water.
-1006_Slumdog_Millionaire_01.28.28.123-01.28.31.063 	Jamal exits the cubiclal and approaches the sink to wash his hands.
-1006_Slumdog_Millionaire_01.45.04.118-01.45.08.724 	Meanwhile, Salim puts his gun down and washes his face.
-1008_Spider-Man2_00.25.21.602-00.25.24.551 	he lays the volume down on top of a pile of other poetry books and goes to the washing machine.
-1008_Spider-Man2_01.33.47.705-01.33.51.269 	a washing line breaks his fall.
+0001_American_Beauty_00.46.47.601-00.47.00.923 	the colonel is washing his ford explorer, squatting to scrub the bumper, when something catches his eye: lester and the jims jog down the street.
+0005_Chinatown_00.26.00.253-00.26.02.824 	a chauffeur is washing down a cream-colored packard with a chamois.
+0009_Forrest_Gump_00.30.45.738-00.30.58.468 	forrest washes his hands, then notices an autographed photo from marilyn monroe and a photo of john with his brother bobby.
+0010_Frau_Ohne_Gewissen_00.47.51.527-00.47.51.684 	a colored attendant in coveralls and rubber boots is washing a car with a hose and sponge.
+0010_Frau_Ohne_Gewissen_00.59.25.822-00.59.26.977 	charlie, the attendant has washed neff's car and is now polishing the glass and metal work.
+0011_Gandhi_00.50.59.368-00.51.01.134 	across the river down from the third class coaches a small group of indian women is squatted by the river's edge, washing clothes.
+0011_Gandhi_01.02.19.580-01.02.22.159 	ba and an ashramite woman squat by the river, washing clothes.
+0013_Halloween_00.45.57.781-00.45.59.573 	she is wearing a nylon robe and carrying her clothes to be washed.
+0016_O_Brother_Where_Art_Thou_01.34.06.099-01.34.06.787 	as the door swings wide the inside of the cupboard is washed with light.
+0019_Pulp_Fiction_01.56.09.185-01.56.18.217 	jules is bent over a sink, washing his bloody hands while vincent stands behind him.
+0019_Pulp_Fiction_02.07.55.391-02.08.35.211 	vincent is in the front seat washing windows, while jules is in the backseat, picking up little pieces of skull and gobs of brain.
+0022_Reservoir_Dogs_00.54.51.172-00.54.51.502 	he looks down and watches freddy wash his hands.
+0022_Reservoir_Dogs_01.13.07.852-01.13.09.319 	freddy finishes washing his hands.
+0023_THE_BUTTERFLY_EFFECT_00.56.36.157-00.56.37.378 	at the sink, evan washes the blood off his face and looks at his reflection in the mirror.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.18.23.039-00.18.30.331 	are leaning over a barrel, washing dishes in soapy water.with gandalf sitting nearby, smoking his pipe and sipping an ale.
+0027_The_Big_Lebowski_01.21.16.850-01.21.20.002 	the dude's face is washed with a brilliant light as the corridor opens onto a gleaming bowling alley.
+0030_The_Hustler_00.28.55.953-00.28.59.646 	behind him, in the washroom, is fats, washing his face and hands.
+0038_Psycho_00.47.24.541-00.47.29.432 	for a moment we watch mary as she washes and soaps herself.
+0049_Hannah_and_her_sisters_01.25.02.066-01.25.07.944 	holly walks over to the sink and washes her hands.
+0050_Indiana_Jones_and_the_last_crusade_00.35.37.627-00.35.40.678 	the rats literally wash over them -- like a rodent tidal wave -- in their efforts to escape.
+0051_Men_in_black_01.08.26.866-01.08.31.653 	she peers into the jewel, and her face washes over with amazement.
+1002_Harry_Potter_and_the_Half-Blood_Prince_01.59.27.776-01.59.31.623 	dark clouds scattered behind them, spray and spume washed over them.
+1003_How_to_Lose_Friends_and_Alienate_People_01.13.34.931-01.13.39.958 	sydney washes up as his father returns a framed portrait photo of a woman to a shelf.
+1004_Juno_00.10.29.360-00.10.34.750 	beneath his yellow sweatband, bleeker's eyes cross and what little color there was in his pale cheeks washes away.
+1005_Signs_00.38.32.355-00.38.33.738 	in the farmhouse, morgan and bo are washing up at the sink in the kitchen, which opens directly onto the lounge.
+1006_Slumdog_Millionaire_00.16.54.311-00.17.02.987 	jamal's mother washes brightly colored clothing in a pool as young jamal and salim frolic in the water.
+1006_Slumdog_Millionaire_01.28.28.123-01.28.31.063 	jamal exits the cubiclal and approaches the sink to wash his hands.
+1006_Slumdog_Millionaire_01.45.04.118-01.45.08.724 	meanwhile, salim puts his gun down and washes his face.
 1009_Spider-Man3_00.58.37.256-00.58.42.691 	hazy morning sunshine washes over the new york skyline.
 1009_Spider-Man3_01.10.38.328-01.10.43.553 	flint crumbles to nothing and washes away.
 1010_TITANIC_02.36.03.011-02.36.04.677 	it's a wave which washes away several people.
@@ -41,9 +33,6 @@
 1012_Unbreakable_01.00.04.474-01.00.08.250 	in the kitchen, david's at the sink, washing up.
 1014_2012_01.33.41.193-01.33.42.942 	the waves wash off.
 1015_27_Dresses_00.50.25.123-00.50.32.885 	she puts down the cup she's washing and goes to the door and sees kevin through the peephole.
-1026_Legion_00.02.52.963-00.02.55.673 	rain washes blood across the ground and into a drain.
-1026_Legion_01.17.16.076-01.17.17.781 	outside, light washes over the possessed.
-1027_Les_Miserables_02.05.22.298-02.05.27.702 	dim light filtering through gratings above, washes over the curved brick work.
 1027_Les_Miserables_02.09.57.151-02.10.03.404 	javert is washed away into the swirling foam.
 1029_Pride_And_Prejudice_Disk_One_00.48.57.539-00.49.02.114 	now darcy is washing in a copper bath.
 1029_Pride_And_Prejudice_Disk_One_02.02.57.501-02.03.00.128 	jane is washing her hands in a basin in her room.
@@ -60,16 +49,10 @@
 1038_The_Great_Gatsby_01.54.50.333-01.54.54.381 	nick walks over and finds gatsby washing myrtle's blood off the front of the car.
 1045_An_education_01.10.58.565-01.11.02.288 	jenny watches her parents doing the washing up.
 1046_Australia_00.14.52.424-00.15.00.344 	drover's washing his muscled torso, using water from a bucket.
-1047_Defiance_01.10.57.928-01.10.58.509 	frozen washing hangs heavily on the line.
+1047_Defiance_00.35.48.965-00.35.51.903 	koscik's wife is in the garden hanging up washing.
 1047_Defiance_01.35.27.985-01.35.31.400 	some of the women are washing in the creek.
 1048_Gran_Torino_01.09.37.640-01.09.43.314 	sue finds walt on his back porch, as thao washes the gran torino on the drive.
 1055_Marley_and_me_00.03.02.807-00.03.03.452 	crystal blue waters wash the shore of a coastal city.
 1055_Marley_and_me_01.31.01.223-01.31.03.698 	a white-coated vet washes her hands.
 1056_Rambo_00.09.46.787-00.09.52.291 	he's washing his face and hair in a water barrel.
 1056_Rambo_00.25.51.000-00.25.55.471 	the petrol washes pools of blood over the side of the boat.
-1062_Day_the_Earth_stood_still_00.07.49.084-00.07.54.740 	she sighs and, carrying a washing basket, runs downstairs.
-1055_Marley_and_me_00.03.02.807-00.03.03.452 	crystal blue waters wash the shore of a coastal city.
-1055_Marley_and_me_01.31.01.223-01.31.03.698 	a white-coated vet washes her hands.
-1056_Rambo_00.09.46.787-00.09.52.291 	he's washing his face and hair in a water barrel.
-1056_Rambo_00.25.51.000-00.25.55.471 	the petrol washes pools of blood over the side of the boat.
-1062_Day_the_Earth_stood_still_00.07.49.084-00.07.54.740 	she sighs and, carrying a washing basket, runs downstairs.

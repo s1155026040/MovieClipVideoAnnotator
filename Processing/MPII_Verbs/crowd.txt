@@ -1,83 +1,23 @@
-0001_American_Beauty_00.14.59.016-00.15.04.887 	in the crowded stands, lester and carolyn find seats.
 0001_American_Beauty_00.41.30.713-00.41.31.349 	a state-of-the- art multimedia computer crowds his desk, and high-end stereo and video equipment line the shelves, as well as hundreds of cds.
-0002_As_Good_As_It_Gets_00.10.23.938-00.10.26.564 	a crowded and dirty street and here comes melvin.
-0003_CASABLANCA_00.02.05.844-00.02.13.097 	the facades of the moorish buildings give way to a narrow, twisting street crowded with the polyglot life of a native quarter.
 0003_CASABLANCA_00.41.39.546-00.41.41.895 	a man sells newspapers to people crowded around him.
-0007_DIE_NACHT_DES_JAEGERS_01.27.01.968-01.27.02.814 	she turns to crowd.
 0009_Forrest_Gump_01.16.28.021-01.16.39.448 	taxi cabs crowd the street as forrest pushes lt. dan along the sidewalk.
-0010_Frau_Ohne_Gewissen_00.39.43.100-00.39.44.152 	there is a fair amount of activity but the place is not crowded.
-0010_Frau_Ohne_Gewissen_00.51.38.701-00.51.39.624 	ten or twelve cars are parked diagonally, not crowded.
-0011_Gandhi_00.36.34.374-00.36.36.552 	gandhi looks around the crowded yard at the soiled bandages, the defiant, determined faces.
 0011_Gandhi_00.55.56.180-00.55.57.038 	newspaper cameramen crowded around the platform photograph him.
 0011_Gandhi_00.56.02.620-00.56.03.050 	others crowd around him.
-0011_Gandhi_01.41.32.424-01.41.33.798 	as he moves through the crowded platform.
-0014_Ist_das_Leben_nicht_schoen_00.41.18.503-00.41.20.955 	a couple of men are crowding around her, each one bent on taking her out.
-0014_Ist_das_Leben_nicht_schoen_00.50.15.454-00.50.16.402 	people are crowded into the rooms: family, friends, neighbors.
-0014_Ist_das_Leben_nicht_schoen_00.55.10.487-00.55.11.668 	more people have crowded around the counter.
 0014_Ist_das_Leben_nicht_schoen_01.04.08.792-01.04.10.497 	about a dozen neighbors crowd around.
-0014_Ist_das_Leben_nicht_schoen_02.00.33.698-02.00.34.890 	it is crowded.
 0017_Pianist_00.32.18.550-00.32.19.832 	streets crowded.
-0017_Pianist_00.43.30.472-00.43.33.531 	the place is crowded now, packed.
-0021_Rear_Window_01.11.06.961-01.11.07.784 	an assortment of well-dressed people have now crowded into the studio.
-0021_Rear_Window_01.18.50.574-01.18.52.174 	the song-writer's party is now in full swing, and fairly crowded.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.58.38.153-00.58.38.806 	anxious soldiers crowd around gandalf.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.53.31.106-02.53.35.500 	soaring up: to reveal the court of the kings, crowded with 4000 people.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.58.06.192-02.58.14.070 	camera rises into the air away from the crowded citadel, until minas tirith becomes a speck in the landscape.
-0028_The_Crying_Game_00.46.19.827-00.46.21.874 	it is now crowded with people, black, white, punky and street chic, a lot of leather.
 0030_The_Hustler_00.41.39.475-00.41.41.151 	the public address system bleats over the noise of the crowded luncheonette.
-0033_Amadeus_00.12.41.935-00.12.44.651 	all the women get up and crowd around him, thumping and pummeling him, but it is in vain.
 0033_Amadeus_00.14.49.188-00.14.50.121 	a grand room crowded with guests.
 0043_Thelma_and_Luise_00.11.41.702-00.11.43.232 	it's already pretty crowded.
-0049_Hannah_and_her_sisters_00.02.00.602-00.02.05.523 	the camera follows her, moving across a book-and-photograph-filled bookshelf that obscures her from view as she walks into a crowded, comfortable vestibule.
-0049_Hannah_and_her_sisters_00.16.58.612-00.17.01.988 	gail, wearing her glasses, stands behind a crowded but well- ordered desk.
-0049_Hannah_and_her_sisters_00.19.38.935-00.19.41.166 	holly picks up a napkin from the crowded table.
-0049_Hannah_and_her_sisters_00.19.46.798-00.19.49.724 	david walks around the table, putting the plate of clams down on the already crowded surface.
-0049_Hannah_and_her_sisters_00.33.16.826-00.33.19.463 	mickey puts the cake down on the coffee table, which is already crowded with assorted plants, plates, and a bamboo tray holding utensils and napkins.
-0049_Hannah_and_her_sisters_01.01.17.603-01.01.27.009 	as the band loudly plays on, the camera moves across the spellbound audience, sitting at crowded, smoky, small tables, to reveal a stricken mickey and a mesmerized holly squeezed together at one of them.
-0049_Hannah_and_her_sisters_01.01.36.557-01.01.37.995 	they are crowded in with people.
-0049_Hannah_and_her_sisters_01.23.30.647-01.23.40.629 	guests are crowded together in the living room, surrounding the piano, where evan is sitting and flipping through some sheet music.
-0049_Hannah_and_her_sisters_01.40.20.883-01.40.22.823 	it is crowded with guests; hannah's children play in their midst.
-0050_Indiana_Jones_and_the_last_crusade_01.23.03.347-01.23.06.530 	sallah drives his car through the crowded streets, indy beside him and henry in the back seat.
-0050_Indiana_Jones_and_the_last_crusade_01.31.47.714-01.31.50.236 	the bullet not only passes through the nazi, but passes through two other nazis standing directly behind him on the crowded tank top and three bodies fall away, leaving indy to stare at the gun in disbelief.
-1006_Slumdog_Millionaire_00.50.57.435-00.51.02.803 	he walks through a crowded night market with stalls selling a thousand and one different things.
-1006_Slumdog_Millionaire_00.54.35.485-00.54.38.319 	women call down from balconies and open windows on men on the crowded street.
-1008_Spider-Man2_00.57.52.360-00.57.53.404 	peter is in the crowded planetarium.
-1009_Spider-Man3_01.14.13.351-01.14.24.227 	walking along the crowded pavement, mary jane looks wretched and alone.
-1010_TITANIC_01.09.58.719-01.09.59.762 	the couples hold hands as they dance in a line through the crowded room.
-1010_TITANIC_02.07.12.422-02.07.20.039 	on the boat deck, passengers crowd around the remaining lifeboats.
-1010_TITANIC_02.10.12.765-02.10.14.635 	elsewhere, jack and the others run along a crowded corridor.
-1012_Unbreakable_00.53.12.917-00.53.22.133 	inside, along one of the shaded walkways, david, in his security uniformis leaning on a wall, casually watching spectators as they crowd in through a gate.
-1014_2012_02.09.37.006-02.09.40.977 	the ark office leads adrian and laura through the crowded hallway
 1014_2012_02.27.22.954-02.27.26.325 	on the crowded deck, the curtis family lean on the safety rail.
-1018_Body_Of_Lies_00.42.20.249-00.42.21.846 	people are crowded in the street and around flower stalls.
-1019_Confessions_Of_A_Shopaholic_00.41.29.580-00.41.30.600 	smiling women crowd around rebecca.
-1028_No_Reservations_00.21.21.437-00.21.29.991 	kate makes her way through the crowded dining area.
-1029_Pride_And_Prejudice_Disk_One_02.05.40.130-02.05.42.720 	as they make their way across the crowded room, a girl with red hair eyes them curiously.
 1030_Public_Enemies_00.31.37.992-00.31.43.873 	later, he marches through a crowded arch vaulted lobby.
 1030_Public_Enemies_00.45.09.665-00.45.10.332 	onlookers crowd the rails.
-1031_Quantum_of_Solace_00.14.55.230-00.14.58.413 	police car makes its way down a crowded.
-1031_Quantum_of_Solace_00.44.38.774-00.44.41.364 	he runs through a crowded restaurant and shots are fired taking down a bystander.
-1034_Super_8_00.22.55.568-00.22.59.235 	alice picks it up and opens it as the boys crowd round.
 1035_The_Adjustment_Bureau_00.35.13.434-00.35.21.429 	now david heads down a crowded sidewalk.
-1037_The_Curious_Case_Of_Benjamin_Button_00.48.12.995-00.48.17.874 	as he disappears into a crowded back alley, his father, thomas, leaves a hooker outside an adjacent building and spots benjamin.
-1038_The_Great_Gatsby_00.03.24.550-00.03.25.918 	the streets of new york are crowded with people.
-1038_The_Great_Gatsby_01.26.00.315-01.26.03.139 	photographers crowd round a car.
-1043_Vantage_Point_00.12.57.165-00.12.59.968 	they emerge through a arch way of the crowded plaza.
-1044_Pride_And_Prejudice_Disk_Two_01.34.29.343-01.34.33.010 	he makes his way down the crowded street, looking slightly lost.
 1046_Australia_01.56.07.234-01.56.11.996 	troopships crowd darwin harbor.
-1047_Defiance_01.40.25.883-01.40.26.969 	people crowd round the blond head german
 1049_Harry_Potter_and_the_chamber_of_secrets_00.35.14.800-00.35.16.482 	a crowded classroom.
 1049_Harry_Potter_and_the_chamber_of_secrets_02.30.31.200-02.30.35.880 	the excited students crowd around hagrid.
-1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.36.17.577-00.36.23.591 	they follow her across piccadilly circus and down a crowded street.
-1051_Harry_Potter_and_the_goblet_of_fire_00.15.43.209-00.15.52.033 	students crowd into the school cloisters and gaze up in excitement as it swoops down towards them.
-1051_Harry_Potter_and_the_goblet_of_fire_01.43.45.536-01.43.52.182 	he finds himself falling down into a crowded courtroom.
-1051_Harry_Potter_and_the_goblet_of_fire_01.50.25.564-01.50.29.685 	the stands are crowded with flag-waving supporters.
 1052_Harry_Potter_and_the_order_of_phoenix_00.19.31.685-00.19.38.507 	they crowd into a victorian lift with metal gates.
 1052_Harry_Potter_and_the_order_of_phoenix_00.27.21.433-00.27.25.558 	crowded with hogwarts' students and their families.
 1052_Harry_Potter_and_the_order_of_phoenix_00.48.36.769-00.48.44.515 	students crowd into the cloisters.
-1053_Harry_Potter_and_the_philosophers_stone_02.22.09.894-02.22.13.072 	he runs along the crowded platform till he reaches hagrid.
-1055_Marley_and_me_00.03.24.903-00.03.27.534 	the beach is crowded with sun seekers.
 1058_The_Damned_united_01.09.39.014-01.09.41.571 	a crowded tourist beach by a majorcan hotel.
 2034_Super_8_00.45.43.195-00.45.43.607 	two-hundred frustrated citizens crowd the auditorium.
-2034_Super_8_01.18.33.766-01.18.39.511 	jack moves fast through the crowded evac area.
-2040_The_Ugly_Truth_01.11.03.336-01.11.07.551 	mike and abby make their way onto the crowded dance floor.

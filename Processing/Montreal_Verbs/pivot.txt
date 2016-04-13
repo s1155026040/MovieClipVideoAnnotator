@@ -1,6 +1,3 @@
 COLOMBIANA.srt 	COLOMBIANA_DVS371 	00:33:33,00 --> 00:33:39,50 	back in the cell block, someone pivots the camera.
 KARATE_KID.srt 	KARATE_KID_DVS378 	00:33:48,00 --> 00:33:56,50 	their faces betray no sign of emotion as they pivot on their feet, kick, and crouch.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS666 	01:29:59,00 --> 01:30:07,50 	someone quickly pivots his crane and smashes him back.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS651 	01:11:02,00 --> 01:11:08,50 	slack-jawed someone pivots away pensively.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS695 	01:16:43,00 --> 01:16:49,50 	she pivots away from the door, her panicked eyes glancing about.
-UGLY_TRUTH.srt 	UGLY_TRUTH_DVS537 	01:12:10,00 --> 01:12:17,50 	someone spins her away, then pivots gracefully underneath their arms.

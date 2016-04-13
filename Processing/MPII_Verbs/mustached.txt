@@ -1,12 +1,8 @@
-1010_TITANIC_00.30.11.643-00.30.20.277 	the mustached foreman turns the wheel connected to several steam in the smokey boiler room and covered in coal of large furnaces
 1010_TITANIC_00.52.41.525-00.52.46.234 	nearby mustached ismay sits with the captain.
 1010_TITANIC_01.00.30.274-01.00.32.185 	mustached astor returns.
-1030_Public_Enemies_00.17.14.766-00.17.18.065 	the mustached senator looks director hoover in the eye.
 1030_Public_Enemies_01.12.02.405-01.12.05.665 	the mustached gangster leans in closer.
 1035_The_Adjustment_Bureau_00.14.42.973-00.14.46.577 	farther along, the mustached stranger sits on a bench.
 1035_The_Adjustment_Bureau_00.15.05.684-00.15.08.809 	the mustached subordinate peers after his boss with a faint smile.
-1035_The_Adjustment_Bureau_00.17.58.183-00.18.01.755 	outside, the mustached stranger still sprints after the bus.
-1035_The_Adjustment_Bureau_00.18.52.300-00.18.57.996 	as the mustached stranger waits to cross a busy intersection after it, he checks his wristwatch.
 1035_The_Adjustment_Bureau_00.20.28.076-00.20.31.840 	outside, the mustached stranger hurries across a street.
 1035_The_Adjustment_Bureau_00.23.39.634-00.23.40.605 	the mustached stranger crouches down.
 1035_The_Adjustment_Bureau_00.25.34.684-00.25.36.663 	the mustached stranger observes.

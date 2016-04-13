@@ -1,4 +1,6 @@
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.38.53.613-02.38.55.751 	A black arrow suddenly thuds into Boromir's chest.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.35.02.001-00.35.06.459 	BOROMIR, as URUK-HAI arrows thud into his body, he falls to his KNEES.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.40.19.643-01.40.23.522 	SAM thudding into a LARGE ROCK, which saves him from tumbling headlong over the PRECIPICE.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.49.19.390-01.49.20.926 	It thuds against the high-backed chair.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.38.53.613-02.38.55.751 	a black arrow suddenly thuds into boromir's chest.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.35.02.001-00.35.06.459 	boromir, as uruk-hai arrows thud into his body, he falls to his knees.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.40.19.643-01.40.23.522 	sam thudding into a large rock, which saves him from tumbling headlong over the precipice.
+0051_Men_in_black_01.20.32.239-01.20.32.557 	jay and kay are sucked to the ground by the bizarre force, thudding to their stomachs like magnets to a refrigerator.
+1002_Harry_Potter_and_the_Half-Blood_Prince_01.49.19.390-01.49.20.926 	it thuds against the high-backed chair.
+1007_Spider-Man1_00.40.48.627-00.40.52.606 	and when peter's done, thuds it across his back.

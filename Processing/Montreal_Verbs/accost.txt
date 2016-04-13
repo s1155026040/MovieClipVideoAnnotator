@@ -1,4 +1,2 @@
 COLOMBIANA.srt 	COLOMBIANA_DVS334 	00:29:37,00 --> 00:29:41,50 	the cops accost her.
 EASY_A.srt 	EASY_A_DVS102 	00:33:51,00 --> 00:33:56,50 	his bully accosts him.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS475 	01:30:07,00 --> 01:30:16,50 	now, someone accost an average man standing outside a cabin.
-ZOMBIELAND.srt 	ZOMBIELAND_DVS36 	00:03:27,00 --> 00:03:34,50 	zombies accost a man wearing a sandwich board that reads, the end is near.

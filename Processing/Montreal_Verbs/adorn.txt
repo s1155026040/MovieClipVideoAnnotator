@@ -1,26 +1,12 @@
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS543 	01:23:52,00 --> 01:24:01,50 	inside, a sign adorned with a lit up cactus and sombreros reads, one night in tijuana.
-30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS281 	01:05:21,00 --> 01:05:27,50 	he heads towards a giant framed michigan lottery check adorning the wall.
-30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS320 	01:11:42,00 --> 01:11:48,50 	a buckle adorned with a smiley face sticker releases four straps.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS463 	01:19:34,00 --> 01:19:40,50 	nearby the name mccall adorns a large headstone.
-BURLESQUE.srt 	BURLESQUE_DVS655 	01:41:18,00 --> 01:41:25,50 	inside someone crosses a dim hallway adorned with memorabilia.
-HUGO.srt 	HUGO_DVS150 	00:20:36,00 --> 00:20:42,50 	passing a sarcophagus adorned with the figure of a pope.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS362 	01:44:53,00 --> 01:45:05,50 	statues of sentinels and scholars adorn a massive courthouse.
-JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS60 	00:06:32,00 --> 00:06:40,50 	as she passes ground zero, she glances at people gathered by a fence adorned with flowers and flags.
 KARATE_KID.srt 	KARATE_KID_DVS765 	01:04:53,00 --> 01:05:02,50 	stylized cloud-like graphics adorn a moon bridge.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS253 	00:52:54,00 --> 00:54:08,50 	in a gold-tinged flashback, a modest carriage stands adorned with sunflowers, roses, and a just married sign.
 PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS194 	00:47:13,00 --> 00:47:20,50 	life-sized statues of men and women in ancient greek attire adorn entryway.
-PROMETHEUS.srt 	PROMETHEUS_DVS396 	00:39:54,00 --> 00:40:01,50 	a relief of snake-like creatures surrounding a central humanoid figure adorns the wall.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS295 	00:47:22,00 --> 00:47:27,50 	her sketches adorned the headboard.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS316 	00:50:27,00 --> 00:50:34,50 	inside an open yet cozy home, candles adorn a huge brick fireplace.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS337 	00:22:56,00 --> 00:23:07,50 	now, in the daytime, a procession of women with their faces hidden behind red scarves exit someone's home through a doorway adorned on each side with a red banner.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS675 	00:44:11,00 --> 00:44:19,50 	she crosses to him, shuffling past a mantle adorned with framed pictures and an ornamental clock.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS76 	00:14:37,00 --> 00:15:01,50 	beneath its tapered neck, warlike paintings adorn its bulbous body.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS80 	00:18:10,00 --> 00:18:20,50 	now asian lettering adorns shops in chinatown.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS102 	00:24:29,00 --> 00:24:46,50 	now traffic passes several evergreens adorned with lights.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS129 	00:29:05,00 --> 00:29:12,50 	he turns around and sees only blank canvases adorning the walls.
-THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS145 	00:28:59,00 --> 00:29:05,50 	he reveals a trapeze structure adorned with lights in the middle of a circus ring.
-THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS156 	00:30:04,00 --> 00:30:13,50 	we glimpse the couple from across the ring as they embrace, surrounded by the several strands of lights adorning the trapeze structure.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS201 	00:34:01,00 --> 00:34:11,50 	he finds the staff in a dining room, adorned with a framed photo of someone warhol, as well as memorabilia of 	maccready's daredevil past,
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS712 	01:35:58,00 --> 01:36:05,50 	now, strands of lights adorn a fancy outdoor reception.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS413 	00:47:25,00 --> 00:47:30,50 	golden initials adorn a security gate.
-ZOOKEEPER.srt 	ZOOKEEPER_DVS168 	00:36:44,00 --> 00:36:56,50 	someone finishes urinating on a potted plant adorned with mini lights.

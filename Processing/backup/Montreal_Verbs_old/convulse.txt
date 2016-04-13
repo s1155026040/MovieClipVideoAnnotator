@@ -1,0 +1,8 @@
+GET_HIM_TO_THE_GREEK.srt 	GET_HIM_TO_THE_GREEK_DVS75 	00:44:33,00 --> 00:44:38,50 	he convulses.
+GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS403 	00:59:21,00 --> 00:59:26,50 	as he convulses, the image distorts.
+IN_TIME.srt 	IN_TIME_DVS941 	01:39:13,00 --> 01:39:19,50 	he convulses, then falls back with his arms and legs sprawled.
+LIFE_OF_PI.srt 	LIFE_OF_PI_DVS427 	00:49:25,00 --> 00:49:32,50 	someone stops at the center, his body convulsing.
+LIFE_OF_PI.srt 	LIFE_OF_PI_DVS568 	01:03:09,00 --> 01:03:16,50 	blinking his amber eyes, the tiger hangs his head and convulses nauseously.
+PROMETHEUS.srt 	PROMETHEUS_DVS1069 	01:57:04,00 --> 01:57:13,50 	in the abandoned lifeboat the last engineer's body convulses on the floor, surrounded by the creature's motionless tentacles.
+SALT.srt 	SALT_DVS375 	01:06:57,00 --> 01:07:12,50 	with gun, the man convulses then falls limp.
+ZOMBIELAND.srt 	ZOMBIELAND_DVS625 	01:11:24,00 --> 01:11:29,50 	the zombies convulse as they fall to the ground.

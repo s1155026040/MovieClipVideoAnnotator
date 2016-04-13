@@ -1,0 +1,8 @@
+CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS271 	00:49:53,00 --> 00:50:08,50 	children in the audience applaud as he repeats the same act for audiences in buffalo, milwaukee, philadelphia, and chicago.
+IN_TIME.srt 	IN_TIME_DVS47 	00:05:14,00 --> 00:05:24,50 	as he repeats the process, a complete portable time capsule rolls down a conveyor sporting the curved receptor at one end.
+KARATE_KID.srt 	KARATE_KID_DVS520 	00:47:16,00 --> 00:47:23,50 	someone repeats the process, and someone winces as the man presses against him.
+KARATE_KID.srt 	KARATE_KID_DVS703 	00:59:17,00 --> 00:59:22,50 	someone obeys each repeated command.
+KARATE_KID.srt 	KARATE_KID_DVS718 	01:00:03,00 --> 01:00:10,50 	he glances at his mentor's blank face, then repeats the cycle.
+LITTLE_FOCKERS.srt 	LITTLE_FOCKERS_DVS153 	00:54:30,00 --> 00:54:41,50 	someone repeats the gesture.
+TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS685 	01:16:05,00 --> 01:16:11,50 	someone repeats the encouraging gesture and gives a nod.
+ZOMBIELAND.srt 	ZOMBIELAND_DVS171 	00:16:59,00 --> 00:17:06,50 	he makes repeated efforts, smashing her ankle until a bone juts out.

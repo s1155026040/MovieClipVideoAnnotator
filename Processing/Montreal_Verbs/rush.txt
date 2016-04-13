@@ -8,69 +8,39 @@ A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS673 	01:09:09,00 --> 01:09
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS799 	01:20:13,00 --> 01:20:21,50 	fleeing, someone rushes up a stairwell.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS821 	01:21:49,00 --> 01:22:09,50 	shielding his face, he rushes toward the loading ramp as the rotor intensifies.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS497 	01:10:06,00 --> 01:10:12,50 	overwhelmed with sobs, someone rushes from the room.
-BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS217 	00:36:27,00 --> 00:36:33,50 	now, he enters his room, throws down his purse, and rushes into a bathroom.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS358 	00:58:00,00 --> 00:58:04,50 	he rushes out.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS442 	01:10:34,00 --> 01:10:39,50 	someone's friends rush over to him and someone.
-BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS513 	01:20:54,00 --> 01:21:01,50 	someone opens the door and they rush into the small utility room.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS592 	01:33:19,00 --> 01:33:25,50 	meanwhile, someone, someone, and someone rush out of the building.
 BLINDDATING.srt 	BLINDDATING_DVS365 	01:29:37,00 --> 01:29:42,50 	they all rush to his bedside.
 BURLESQUE.srt 	BURLESQUE_DVS439 	01:00:38,00 --> 01:00:44,50 	the girls rush to hug her.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS222 	00:39:17,00 --> 00:39:29,50 	someone leaps and tackles someone out of the street as the cab rushes past.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS324 	01:01:31,00 --> 01:01:38,50 	later, the escaping men rush into the yard, clobbering guards and stealing their weapons.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS345 	01:04:09,00 --> 01:04:14,50 	someone rushes up to someone who lies on a padded table.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS386 	01:10:07,00 --> 01:10:17,50 	someone follows someone out of the tent as they joined soldiers rushing to a gate at the end of the dirt road.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS538 	01:35:44,00 --> 01:35:55,50 	in the forest, someone watches as someone and his men rush toward the base.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS164 	00:13:01,00 --> 00:13:07,50 	another wave of froth rushing into him, pushing him back.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS223 	00:17:52,00 --> 00:17:58,50 	someone hurriedly grabs his things and rushes out the door.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS322 	00:27:27,00 --> 00:27:31,50 	he rushes out.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS754 	01:15:29,00 --> 01:15:33,50 	someone rushes to her.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS755 	01:15:34,00 --> 01:15:39,50 	someone cradles her as someone rushes to a phone.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS929 	01:30:53,00 --> 01:30:59,50 	camped out on his couch, someone rushes to the phone and answers it.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS939 	01:32:04,00 --> 01:32:10,50 	as the van pulls over on the shoulder, someone rushes out.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS1054 	01:41:20,00 --> 01:41:27,50 	as the breaking wave rushes over someone's board, his ankle strap comes off.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS382 	01:33:16,00 --> 01:33:25,50 	the fighter's corner men rush to his side.
-CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS387 	01:34:24,00 --> 01:34:50,50 	the footage shows the referee checking the downed fighter and his corner men rushing in.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS514 	02:00:18,00 --> 02:00:22,50 	someone rushes his opponent.
-COLOMBIANA.srt 	COLOMBIANA_DVS97 	00:07:44,00 --> 00:07:52,50 	as his wife rushes into the next room, someone takes his daughter's hands and drops to one knee.
-COLOMBIANA.srt 	COLOMBIANA_DVS160 	00:14:17,00 --> 00:14:20,50 	following her, a gunman rushes past the angry resident.
 COLOMBIANA.srt 	COLOMBIANA_DVS601 	00:56:48,00 --> 00:56:52,50 	the mastiffs rush to their bowls.
 COLOMBIANA.srt 	COLOMBIANA_DVS812 	01:18:48,00 --> 01:18:53,50 	rushing through the apartment,
-COLOMBIANA.srt 	COLOMBIANA_DVS888 	01:24:10,00 --> 01:24:15,50 	raises her gun and rushes through the house.
-COLOMBIANA.srt 	COLOMBIANA_DVS966 	01:33:05,00 --> 01:33:12,50 	with their weapons raised, four gunmen rush into a spacious garage.
 COLOMBIANA.srt 	COLOMBIANA_DVS1005 	01:35:50,00 --> 01:35:57,50 	as a thin gunman and a bald one shoot up at the mezzanine, someone rushes out of the room.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS182 	00:29:15,00 --> 00:29:22,50 	someone rushes up behind the soldier.
-DISTRICT_9.srt 	DISTRICT_9_DVS401 	00:44:25,00 --> 00:44:32,50 	a guard rushes over, his gun pointed at someone.
-EASY_A.srt 	EASY_A_DVS210 	01:04:25,00 --> 01:04:34,50 	she leaves the confessional and rushes past a pew, knocking a bible from the seat.
-FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS14 	00:04:13,00 --> 00:04:20,50 	his date gives a thumbs up, mouths someone mayer, and rushes inside.
-FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS241 	01:05:49,00 --> 01:06:09,50 	he wakes and rushes out, holding his crotch.
 GROWN_UPS.srt 	GROWN_UPS_DVS295 	01:33:57,00 --> 01:34:02,50 	hugs his teammates and the crowd rushes over.
 HUGO.srt 	HUGO_DVS172 	00:24:10,00 --> 00:24:17,50 	as station agents rush to her aide, someone sneaks out of the vent and creeps toward the tray of croissants.
 HUGO.srt 	HUGO_DVS346 	00:53:16,00 --> 00:53:23,50 	they rush back to the table as the automaton begins writing again.
-HUGO.srt 	HUGO_DVS510 	01:14:52,00 --> 01:15:03,50 	on set, the three women hold perfectly still as lobstermen rush around them.
 HUGO.srt 	HUGO_DVS720 	01:46:41,00 --> 01:46:46,50 	the inspector rushes out of his office.
 HUGO.srt 	HUGO_DVS757 	01:50:31,00 --> 01:50:36,50 	the inspector rushes up behind someone.
-IN_TIME.srt 	IN_TIME_DVS75 	00:08:39,00 --> 00:08:48,50 	the stranger bumps a table, then rushes nauseously into the back hall where he pushes his way in to a men's room.
-IN_TIME.srt 	IN_TIME_DVS415 	00:44:45,00 --> 00:44:53,50 	as someone trots down to the foyer, someone leaves the study and rushes down the other side of the twin stairway.
-IN_TIME.srt 	IN_TIME_DVS422 	00:45:23,00 --> 00:45:34,50 	the roadster passes several timekeeper cars as the authorities rush out through the front door.
-IN_TIME.srt 	IN_TIME_DVS674 	01:13:13,00 --> 01:13:19,50 	as the pair leaves, the customers rush into the vault and clean it out.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS50 	00:06:52,00 --> 00:07:03,50 	the women dancing onstage pause to strike various poses, then rush over and form a semicircle around someone, who faces them as they each punch out one hand.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS51 	00:07:04,00 --> 00:07:11,50 	the dancers rush off clapping.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS199 	00:36:51,00 --> 00:37:01,50 	officers in black uniforms and helmets rush over and grab someone by the shoulders.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS238 	00:43:41,00 --> 00:43:49,50 	the dark-haired guard and another man rush down the stairs, grab someone, and place a white bag over his head.
 JACK_AND_JILL.srt 	JACK_AND_JILL_DVS451 	01:24:20,00 --> 01:24:27,50 	someone, someone, and the kids rush over as someone's kids pile on to the new lovebirds.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS74 	00:09:19,00 --> 00:09:28,50 	someone rushes into a someone bistro and greets a table of three smartly dressed women, one of whom talks on her cellphone.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS530 	01:45:25,00 --> 01:45:29,50 	someone rushes to the phone.
 KARATE_KID.srt 	KARATE_KID_DVS373 	00:33:18,00 --> 00:33:29,50 	he rushes across a busy street without her.
 KARATE_KID.srt 	KARATE_KID_DVS379 	00:33:53,00 --> 00:34:01,50 	beaming, someone rushes forward.
 KARATE_KID.srt 	KARATE_KID_DVS505 	00:45:15,00 --> 00:45:37,50 	someone and the others rush someone, who deflects their blows.
-KARATE_KID.srt 	KARATE_KID_DVS1101 	01:31:16,00 --> 01:31:29,50 	grabbing her violin case, she rushes off.
 KARATE_KID.srt 	KARATE_KID_DVS1446 	01:57:38,00 --> 01:57:47,50 	he rushes at someone ping again, but the referee forces him back, gestures firmly for him to stay, and signals him with a flag.
 KARATE_KID.srt 	KARATE_KID_DVS1480 	02:00:21,00 --> 02:00:44,50 	someone rushes to his student's side.
-KARATE_KID.srt 	KARATE_KID_DVS1558 	02:05:48,00 --> 02:06:17,50 	someone angrily looks away and someone rushes to someone's side.
 KARATE_KID.srt 	KARATE_KID_DVS1624 	02:12:06,00 --> 02:12:17,50 	rushing forward, someone kicks at him.
-LAND_OF_THE_LOST.srt 	LAND_OF_THE_LOST_DVS66 	00:21:02,00 --> 00:21:06,50 	someone looks at someone, then rushes over.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS200 	00:26:01,00 --> 00:26:08,50 	later outside their school, young students rush passed someone through the rain.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS899 	01:30:29,00 --> 01:30:37,50 	someone watches the tiger climb onto the bench just as the water rushes back and submerges the teen.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS663 	01:21:57,00 --> 01:22:02,50 	the penguins rush back to the someone.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS162 	00:36:51,00 --> 00:36:55,50 	someone rushes out.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS384 	01:20:43,00 --> 01:20:51,50 	she and the kids rush to the window.
@@ -78,62 +48,36 @@ PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS35 	00:08:15,00 --> 00:08:19,50 	som
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS103 	00:27:08,00 --> 00:27:12,50 	someone rushes off.
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS170 	00:42:56,00 --> 00:43:02,50 	someone rushes out.
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS293 	01:10:31,00 --> 01:10:35,50 	they rush on to the yard.
-PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS417 	01:39:20,00 --> 01:39:39,50 	the someone fires, but the water rushes in at him.
-PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS439 	01:42:52,00 --> 01:43:00,50 	the demigods rush forward to meet him.
-PROMETHEUS.srt 	PROMETHEUS_DVS272 	00:26:14,00 --> 00:26:22,50 	on board someone, holloway rushes to the front windows, while someone follows warily.
 PROMETHEUS.srt 	PROMETHEUS_DVS404 	00:40:42,00 --> 00:40:47,50 	the woman rushed back to the severed head.
-PROMETHEUS.srt 	PROMETHEUS_DVS786 	01:24:27,00 --> 01:24:34,50 	reaching the end of the table she quickly rushes around to the outer control panel.
-PROMETHEUS.srt 	PROMETHEUS_DVS1018 	01:51:15,00 --> 01:51:22,50 	grabbing her helmet, someone rushes back to the airlock compartment.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS208 	00:39:36,00 --> 00:39:44,50 	rushing from the building, he runs across the street to agent someone.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS330 	01:02:45,00 --> 01:02:59,50 	someone rushes into the office and holds his gun.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS662 	02:04:50,00 --> 02:05:00,50 	with a hostile sneer, the burly agent rushes out of the car.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS349 	00:56:56,00 --> 00:57:01,50 	someone rushes over, the other's stare.
 SALT.srt 	SALT_DVS323 	00:57:25,00 --> 00:57:46,50 	as two men rush to help the driver, she hides and unlocks the handcuffs.
 SALT.srt 	SALT_DVS426 	01:14:01,00 --> 01:14:06,50 	they rush inside.
 SALT.srt 	SALT_DVS508 	01:27:26,00 --> 01:27:31,50 	a round kick, rushes to the launch controls and types.
 SALT.srt 	SALT_DVS556 	01:35:52,00 --> 01:36:15,50 	someone rushes a shore and dashes through the woods, pumping her shackled arms.
-SANCTUM.srt 	SANCTUM_DVS200 	00:44:54,00 --> 00:45:05,50 	someone rushes to a floating body bag and gently pulls it open to reveal someone' lifeless face.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS488 	00:31:53,00 --> 00:31:57,50 	a servant girl rushes over.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS877 	00:57:59,00 --> 00:58:03,50 	he rushes off.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS959 	01:02:22,00 --> 01:02:26,50 	she rushes over.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS72 	00:13:49,00 --> 00:13:57,50 	someone rushes outside and hurls the someone away.
-SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS121 	00:23:47,00 --> 00:23:56,50 	someone rushes up some stairs, then stops on a landing, and watches the wolves advance past the man entering the apartment building.
-SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS446 	01:34:58,00 --> 01:35:03,50 	someone rushes forward and cradles her fallen form.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS470 	01:17:08,00 --> 01:17:12,50 	someone rushes in.
-SUPER_8.srt 	SUPER_8_DVS513 	01:27:08,00 --> 01:27:13,50 	the boys rush into the house and run upstairs.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS131 	00:20:15,00 --> 00:20:20,50 	someone rushes outside as a blue car speeds off.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS202 	00:29:30,00 --> 00:29:34,50 	thugs rush the open hold.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS305 	00:45:09,00 --> 00:45:13,50 	silk rushes off.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS661 	01:29:27,00 --> 01:29:38,50 	someone rushes into the control cab, grabs someone and drags him across the floor and tosses him over the railing.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS147 	00:28:26,00 --> 00:28:33,50 	he rushes off.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS445 	01:22:39,00 --> 01:22:46,50 	now, as he rushes outside, someone pulls his car out of the drive.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS483 	01:27:23,00 --> 01:27:38,50 	someone leads someone out a side door then rushes back in, grabs the bowling photo, and hurries out.
-THE_CALL.srt 	THE_CALL_DVS120 	00:09:18,00 --> 00:09:24,50 	the intruder rushes to it and steps onto a small balcony.
-THE_CALL.srt 	THE_CALL_DVS122 	00:09:25,00 --> 00:09:33,50 	he rushes inside and leaves the bedroom as our view shifts to someone, who lies under the bed behind a large box.
-THE_CALL.srt 	THE_CALL_DVS142 	00:11:37,00 --> 00:11:41,50 	she rises and rushes out.
-THE_CALL.srt 	THE_CALL_DVS562 	00:42:59,00 --> 00:43:05,50 	with their guns aimed, the officers rush toward the sedan.
-THE_CALL.srt 	THE_CALL_DVS654 	00:50:51,00 --> 00:50:56,50 	he rushes back around the car and opens the gas cap.
 THE_CALL.srt 	THE_CALL_DVS698 	00:53:44,00 --> 00:53:52,50 	breaking his stare, the killer rushes to the trunk.
-THE_CALL.srt 	THE_CALL_DVS721 	00:54:56,00 --> 00:55:06,50 	someone and his fellow officer hop out with their side arms drawn, rushing past toys in the front lawn.
 THE_VOW.srt 	THE_VOW_DVS628 	01:26:12,00 --> 01:26:16,50 	someone rushes away.
 THE_WATCH.srt 	THE_WATCH_DVS161 	00:30:27,00 --> 00:30:33,50 	as the boy breaks free, they all rush to pin him down.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS423 	01:15:51,00 --> 01:15:56,50 	someone rushes out of the room.
 THOR.srt 	THOR_DVS199 	00:25:59,00 --> 00:26:07,50 	as the giants rush in, a bright beam of light shoots down from the sky.
 THOR.srt 	THOR_DVS296 	00:42:09,00 --> 00:42:14,50 	two guards rush in and huddle over the king.
-THOR.srt 	THOR_DVS368 	00:55:51,00 --> 00:56:01,50 	someone rushes an agent in the tunnel and flips him over his back.
-THOR.srt 	THOR_DVS521 	01:23:37,00 --> 01:23:47,50 	as someone's friends attempt to rush to her aid, the destroyer unleashes another blast and sends everyone flying.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS225 	00:28:53,00 --> 00:28:58,50 	someone rushes outside and answers his phone.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS291 	00:35:22,00 --> 00:35:31,50 	as he flattens himself against the wall, the boy's parents rush in.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS364 	00:40:04,00 --> 00:40:10,50 	he rushes into the bathroom and locks himself in a stall.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS693 	01:16:33,00 --> 01:16:37,50 	he rushes an opponent.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS422 	00:51:13,00 --> 00:51:20,50 	someone hides her white panties in the gift box, then rushes to the front door with her purse.
-UGLY_TRUTH.srt 	UGLY_TRUTH_DVS571 	01:15:57,00 --> 01:16:06,50 	as someone rushes away, someone stands and removes his shirt, exposing his well-toned chest.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS90 	00:06:30,00 --> 00:06:35,50 	the boy rushes to her.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS626 	00:58:12,00 --> 00:58:16,50 	someone rushes to the mansion.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1329 	02:00:33,00 --> 02:00:38,50 	the remaining mutants rush to someone.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS180 	00:17:41,00 --> 00:17:47,50 	he rushes from the bathroom, slamming the door behind him.
-ZOMBIELAND.srt 	ZOMBIELAND_DVS208 	00:22:32,00 --> 00:22:39,50 	wielding the banjo like a club, someone rushes to meet it.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS685 	01:15:42,00 --> 01:15:51,50 	as the hoard of zombies rush closer,
 ZOMBIELAND.srt 	ZOMBIELAND_DVS713 	01:18:06,00 --> 01:18:13,50 	it rushes him and someone sprints to the mallet.
-ZOMBIELAND.srt 	ZOMBIELAND_DVS724 	01:18:41,00 --> 01:18:48,50 	as the ride comes to a stop, someone rushes over and helps the girls out of their seats.
-ZOMBIELAND.srt 	ZOMBIELAND_DVS759 	01:21:21,00 --> 01:21:27,50 	he rushes outside as someone drives the suv away.

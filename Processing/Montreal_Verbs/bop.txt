@@ -1,4 +1,1 @@
-30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS126 	00:33:13,00 --> 00:33:20,50 	someone bops his head to the song, someone pops out the cassette.
 BURLESQUE.srt 	BURLESQUE_DVS255 	00:36:28,00 --> 00:36:37,50 	in rehearsal, the dancers bounce, bop their heads, and gyrate their hips.
-BURLESQUE.srt 	BURLESQUE_DVS350 	00:48:09,00 --> 00:48:16,50 	audience members bop their heads and shimmy their shoulders.
-TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS855 	01:31:02,00 --> 01:31:09,50 	seated beside her, someone contentedly bops her shoulders to the music.

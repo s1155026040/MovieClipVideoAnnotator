@@ -6,311 +6,165 @@
 0001_American_Beauty_00.46.24.803-00.46.25.466 	we're now at street level, following the two jims.
 0001_American_Beauty_00.47.41.233-00.47.44.273 	lester waves at the colonel, then follows him.
 0001_American_Beauty_00.47.50.088-00.47.52.771 	ricky enters, followed by lester.
-0001_American_Beauty_00.55.03.254-00.55.06.697 	angela starts off, but jane doesn't follow.
 0001_American_Beauty_00.59.57.167-01.00.01.484 	behind her, ricky enters, followed by jane.
 0001_American_Beauty_01.02.02.609-01.02.04.920 	we follow it as the wind carries it in a circle around us, sometimes whipping it about violently, or, without warning, sending it soaring skyward, then letting it float gracefully down to the ground.
-0001_American_Beauty_01.25.22.005-01.25.23.377 	ricky emerges from the house, followed by the colonel, who watches his son as he heads toward the burnham house.
-0001_American_Beauty_01.51.58.768-01.52.03.232 	ricky comes down the stairs, followed by jane.
-0002_As_Good_As_It_Gets_00.19.21.630-00.19.33.595 	chatting away unaware that vincent is disrobing as he follows him and eyeing the expensive apartment.
 0002_As_Good_As_It_Gets_00.59.48.959-00.59.55.359 	simon swings his arm and cast at melvin -- the sudden attack jolts melvin but not as much as what follows.
-0002_As_Good_As_It_Gets_01.25.07.808-01.25.08.898 	camera follows as melvin goes to a rack of cds -- all carefully labelled.
 0002_As_Good_As_It_Gets_01.50.09.310-01.50.10.978 	carol follows him out.
-0002_As_Good_As_It_Gets_02.13.09.958-02.13.12.747 	and the almost in unison begin to walk away from camera, melvin following a path that avoids cracks.
-0003_CASABLANCA_00.05.56.166-00.06.02.442 	they walk away from the plane, heinze following, with casselle and tonelli bringing up the rear, engaged in a heated exchange of words.
 0003_CASABLANCA_00.06.41.330-00.06.50.290 	we follow a group of customers inside.
 0003_CASABLANCA_00.21.51.437-00.21.54.403 	they follow ugarte to the cashier's window.
 0003_CASABLANCA_01.08.46.532-01.08.47.327 	carl follows the proceedings, fascinated.
-0003_CASABLANCA_01.20.26.558-01.20.33.125 	he walks over to the window and ilsa follows.
-0003_CASABLANCA_01.22.35.841-01.22.40.229 	rick follows her and takes her in his arms.
-0003_CASABLANCA_01.28.30.809-01.28.34.840 	suddenly there is a crash at the door of the cafe, followed by the forced entry of several gendarmes.
 0003_CASABLANCA_01.28.51.436-01.28.59.820 	rick's eyes follow them, but his expression reveals nothing of his feelings.
-0003_CASABLANCA_01.31.58.302-01.31.59.595 	rick gets up, followed by ferrari.
 0003_CASABLANCA_01.36.03.823-01.36.04.717 	he's closely followed by rick, right hand in the pocket of his trench coat, covering renault with a gun.
 0004_Charade_00.05.03.818-00.05.07.463 	sylvie regards the devastated table before following.
-0004_Charade_00.08.08.782-00.08.10.829 	as the elevator rises reggie gets out, followed by the driver.
-0004_Charade_00.08.41.389-00.08.46.636 	she rushes now, going into the bedroom, camera following crazily, lurching and careening behind her.
-0004_Charade_00.32.34.528-00.32.39.587 	she goes to the desk, followed by peter, where the night clerk greets them sleepily.
 0004_Charade_00.49.36.095-00.49.36.395 	reggie following dyle.
-0004_Charade_00.49.36.532-00.49.36.821 	now we see that the tourist, in turn, is following her.
 0004_Charade_00.52.41.861-00.52.47.973 	as scobie follows dyle out of the elevator.
-0004_Charade_00.53.57.468-00.54.01.607 	dyle gets to his feet and starts up the stairs, followed by scobie.
-0004_Charade_00.55.33.640-00.55.34.751 	following through, dyle punches the large man full in the jaw, but instead of falling, scobie wraps his arm around dyle, holding on tightly until his head clears.
-0004_Charade_01.06.58.675-01.07.00.597 	tex has also appeared from reggie's room, followed by gideon.
 0004_Charade_01.07.48.513-01.07.49.226 	dyle, tex, and gideon, followed by reggie and jean-louis cross the hall to dyle's room.
 0004_Charade_01.07.50.347-01.07.51.513 	he enters, followed by the others.
-0004_Charade_01.30.01.608-01.30.13.405 	into this area comes tex, followed at a safe distance by adam.
 0004_Charade_01.37.56.872-01.37.59.914 	reggie running, the elevator following.
 0005_Chinatown_00.22.47.848-00.22.55.969 	gittes nods, follows yelburton out, through the outer office to his offices down the hall.
-0005_Chinatown_00.26.04.283-00.26.07.564 	the chinese butler is gesturing for him to follow.
-0005_Chinatown_00.26.14.028-00.26.16.407 	follows him, trying to check out the rooms as he goes.
 0005_Chinatown_00.30.49.265-00.30.50.559 	gittes drives up a winding road, following a flood channel up into the parched hills.
-0005_Chinatown_00.40.05.955-00.40.07.253 	it is dark now and gittes follows the channel with the car spotlight.
-0005_Chinatown_00.40.11.991-00.40.15.131 	he turns at a fork in the road which allows him to continue following the flood channel.
 0005_Chinatown_01.53.19.182-01.53.22.996 	then he follows her gaze to the glasses lying on his handkerchief.
-0006_Clerks_00.03.19.488-00.03.22.107 	ground coffee follows, and the mix is shoved into place in the coffeemaker.
 0006_Clerks_00.07.06.544-00.07.07.403 	jay steps into the frame, followed by silent bob.
 0006_Clerks_00.28.56.760-00.29.04.245 	randal follows dante as he cleans up around the store.
 0006_Clerks_01.00.54.175-01.00.58.110 	the suited man exits, with dante trying to follow.
 0007_DIE_NACHT_DES_JAEGERS_00.18.45.917-00.18.46.696 	john's eyes follow the doll.
-0007_DIE_NACHT_DES_JAEGERS_00.22.37.932-00.22.42.173 	we follow her to the women who are busying themselves with the fudge.
-0007_DIE_NACHT_DES_JAEGERS_00.44.05.022-00.44.12.692 	we start to follow the line up.
 0007_DIE_NACHT_DES_JAEGERS_00.44.12.790-00.44.15.846 	we continue to follow the line up, and bring in, close, the stern of ben harper's skiff.
 0007_DIE_NACHT_DES_JAEGERS_00.44.57.884-00.45.06.053 	we tilt to frame him from the waist downward and follow close behind him.
-0007_DIE_NACHT_DES_JAEGERS_00.45.06.188-00.45.12.791 	as he leaves the tree and walks along the side of the house; we tilt downward and close in, to follow only his feet; he steps past a tiny cellar window and we pan and tighten in close on it, into.
 0007_DIE_NACHT_DES_JAEGERS_01.09.47.307-01.09.48.186 	she follows waitress, then lovers in car, with her eyes.
-0007_DIE_NACHT_DES_JAEGERS_01.10.37.983-01.10.44.156 	he turns and goes; ruby, with an eye to 1st loafer, turns and follows.
-0007_DIE_NACHT_DES_JAEGERS_01.27.07.088-01.27.08.102 	rachel comes out and hurries off to our right, followed by john, holding pearl's hand.
 0008_Fargo_00.20.01.868-00.20.02.835 	grimsrud follows.
 0009_Forrest_Gump_00.05.50.940-00.05.58.671 	the general rides off, followed by a large group of klan members dressed in full uniform.
 0009_Forrest_Gump_00.38.03.936-00.38.05.719 	he follows after her.
 0009_Forrest_Gump_00.38.05.781-00.38.13.007 	forrest follows jenny over a bridge outside the night club.
 0009_Forrest_Gump_00.42.43.209-00.42.51.285 	bubba and forrest grab their gear and follow him.
 0009_Forrest_Gump_01.05.03.277-01.05.07.810 	the other vets follow forrest pushes onto the stage and push him toward the microphones.
-0009_Forrest_Gump_01.56.51.050-01.56.55.785 	forrest runs, followed by his group, as a man runs up to him.
 0009_Forrest_Gump_01.57.22.237-01.57.48.397 	forrest runs with a group that follows behind him.
-0010_Frau_Ohne_Gewissen_00.02.35.626-00.02.39.001 	night watchman looks after him, relocks door, follows to elevator.
-0010_Frau_Ohne_Gewissen_00.52.26.539-00.52.27.426 	camera following them, a little to one side, so that phyllis is clearly seen but the man's face is not.
-0010_Frau_Ohne_Gewissen_01.01.39.458-01.01.41.408 	he and keyes pass the legal looking men and follow norton into his office.
 0010_Frau_Ohne_Gewissen_01.28.01.392-01.28.02.145 	a pause follows.
 0010_Frau_Ohne_Gewissen_01.30.31.883-01.30.38.744 	neff moves back into the lobby, camera following him.
 0010_Frau_Ohne_Gewissen_01.45.36.140-01.45.38.691 	the camera follows his staggering walk along the balcony towards the elevator lobby.
-0011_Gandhi_00.05.11.432-00.05.17.538 	we see the throng, following the weapon-carrier bier of gandhi as it slowly inches its way along the kings way.
-0011_Gandhi_00.17.45.414-00.17.48.058 	he looks back at the cab in confusion, then signals the driver to follow and hurries on to match strides with gandhi's brisk pace.
 0011_Gandhi_00.18.22.031-00.18.24.088 	charlie hesitates, then follows nervously, more nervous for gandhi than himself.
-0011_Gandhi_00.37.46.715-00.37.50.208 	the tall civil servant, moving with aloof distaste for his assignment, walks ahead of gandhi, who in turn is followed by one of the prison guards, toward a grand staircase that is at right angles to them (i.e.
-0011_Gandhi_00.43.12.432-00.43.17.902 	there is a great cheer, but in the silence that follows we hear the military band from across the way as the troops prepare to march off.
-0011_Gandhi_01.00.48.365-01.00.59.322 	his friends watch with amusement, but they too rise to follow as they head for the kitchen.
-0011_Gandhi_01.41.45.148-01.41.45.365 	the child's mother with two little ones hanging on her has followed him out.
-0011_Gandhi_02.07.13.862-02.07.16.420 	pyarelal takes up a position next to him, the marchers follow.
 0011_Gandhi_02.25.28.538-02.25.30.763 	following behind them, a detail of six soldiers accompanying gandhi.
-0011_Gandhi_02.25.30.763-02.25.35.434 	the camera tracks across the platform and we see they are being followed by a detail of six soldiers accompanying ba.
-0011_Gandhi_02.25.35.434-02.25.41.016 	and the camera tracks again and we see they are being followed by a detail of six soldiers accompanying mirabehn.
-0011_Gandhi_02.38.03.267-02.38.05.160 	and he lowers his head and moves on to the car, where kallenbach holds the door for him, nehru, azad and pyarelal following.
-0012_Get_Shorty_00.00.56.683-00.00.58.479 	as he gets up from the table, the other men around the table follow his lead as he finishes up some jokes.
 0012_Get_Shorty_00.32.28.029-00.32.30.036 	bo catlett glances once more at chili then follows ronnie out the door.
-0012_Get_Shorty_00.50.48.629-00.50.48.962 	chili follows her gaze and we see.
-0012_Get_Shorty_00.57.56.065-00.58.12.697 	chili follows martin over to the minivan, opens the door for him.
 0012_Get_Shorty_01.21.59.786-01.22.01.079 	karen and chili exchange a look as they follow her into.
 0012_Get_Shorty_01.33.56.768-01.33.58.640 	bo catlett follows them out there.
-0013_Halloween_00.31.29.143-00.31.35.090 	behind them, through the rear-view mirror, we see loomis' station wagon pull out of an alley and follow along.
-0013_Halloween_00.32.13.321-00.32.16.821 	following behind is the station wagon.
-0013_Halloween_00.35.34.205-00.35.36.988 	the station wagon pulls forward and follows her.
 0013_Halloween_00.56.16.170-00.56.18.651 	almost instantly, lindsey stops crying and follows him.
-0014_Ist_das_Leben_nicht_schoen_00.02.06.641-00.02.12.381 	as the camera stops we hear the following heavenly voices talking, and as each voice is heard, one of the stars twinkles brightly.
 0014_Ist_das_Leben_nicht_schoen_00.08.49.108-00.08.50.220 	mary follows him with her eyes.
-0014_Ist_das_Leben_nicht_schoen_00.09.33.103-00.09.40.523 	the following dialogue is fast and heated, as though the argument had been in process for some time.
-0014_Ist_das_Leben_nicht_schoen_00.15.18.870-00.15.21.077 	she follows harry into the kitchen, leaving pop and george.
-0014_Ist_das_Leben_nicht_schoen_00.20.38.818-00.20.41.801 	marty comes into scene, followed by george.
 0014_Ist_das_Leben_nicht_schoen_00.20.56.050-00.21.00.944 	following george and mary as they dance.
 0014_Ist_das_Leben_nicht_schoen_00.29.38.943-00.29.44.597 	as the car drives off, mary, now wearing the robe, rises up from the bush and follows the car with her eyes.
-0014_Ist_das_Leben_nicht_schoen_00.33.51.666-00.33.52.940 	george leaves the room, followed by the jubilant uncle billy.
 0014_Ist_das_Leben_nicht_schoen_00.34.01.128-00.34.03.200 	uncle billy follows him around, chattering.
-0014_Ist_das_Leben_nicht_schoen_00.35.48.428-00.35.52.053 	the train comes to a stop, and harry is among the first to get off, followed by an attractive girl about the same age as he is.
-0014_Ist_das_Leben_nicht_schoen_00.52.50.328-00.52.54.259 	followed by the crowd, george runs upstairs and into the outer offices of the building and loan.
-0014_Ist_das_Leben_nicht_schoen_00.52.54.259-00.52.55.599 	george, followed by the still-silent people, comes in.
 0014_Ist_das_Leben_nicht_schoen_00.58.01.945-00.58.04.200 	mary turns and slips out through the crowd, followed by ernie.
-0014_Ist_das_Leben_nicht_schoen_01.16.57.805-01.16.59.637 	the subhead tells of a plan for a giant jubilee and parade, to be followed by a banquet, in honor of commander harry bailey, u.s.n.
-0014_Ist_das_Leben_nicht_schoen_01.52.36.780-01.52.44.120 	clarence slowly follows him, glancing up toward heaven as he goes.
-0014_Ist_das_Leben_nicht_schoen_01.54.47.714-01.54.51.010 	attracting his attention, he motions to bert to follow him, indicating he has a nut in the back.
-0014_Ist_das_Leben_nicht_schoen_01.54.51.010-01.54.54.078 	bert gets into his car and follows.
-0014_Ist_das_Leben_nicht_schoen_02.00.13.576-02.00.15.017 	mary starts to run away from him, and he follows, desperately.
-0014_Ist_das_Leben_nicht_schoen_02.05.25.619-02.05.27.169 	he is followed by ernie, and about twenty more townspeople.
-0016_O_Brother_Where_Art_Thou_00.17.15.848-00.17.25.636 	everett too watches the white-robed people following in the wake of the tenor.
 0016_O_Brother_Where_Art_Thou_00.20.23.841-00.20.25.560 	we follow it as, nose to the ground and straining against its leash, it waddles over to an empty tin of dapper dan pomade.
-0016_O_Brother_Where_Art_Thou_00.26.58.508-00.27.00.020 	a big shambling man of about thirty has followed him out of the car.
 0016_O_Brother_Where_Art_Thou_00.34.42.851-00.34.44.873 	the car screeches to a halt and george hops out, and the three convicts emerge to follow him.
 0016_O_Brother_Where_Art_Thou_00.34.46.500-00.34.48.900 	jowls shaking in a full run, george nelson bursts through the door of the bank, followed by the three men.
 0016_O_Brother_Where_Art_Thou_00.43.05.856-00.43.08.001 	everett and delmar follow more casually, everett chuckling.
 0016_O_Brother_Where_Art_Thou_01.00.03.981-01.00.05.061 	puzzled, delmar follows.
-0016_O_Brother_Where_Art_Thou_01.42.01.485-01.42.04.306 	we are now on the wharvey gals who follow in a ragged bunch, still singing.
 0017_Pianist_00.30.12.910-00.30.14.951 	but there's a terrible thud as his body hits the pavement and a clatter as the wheelchair follows him.
 0017_Pianist_00.34.44.928-00.34.48.694 	szpilman waits and watches, and then a poor woman passes, carrying a can wrapped in newspaper followed by a ragged old man, dragging himself along.
 0017_Pianist_01.15.01.818-01.15.04.583 	szpilman follows.
 0017_Pianist_01.30.47.553-01.30.52.100 	szpilman follows dorota into the living room.
 0017_Pianist_02.03.07.773-02.03.17.524 	he studies szpilman for a moment, then with a nod orders him to follow.
 0017_Pianist_02.03.25.778-02.03.31.864 	szpilman picks up the tin and follows.
-0017_Pianist_02.03.31.864-02.03.35.661 	szpilman follows the german captain through a double door, hanging off its hinges, into a room with a broken table in the centre, what once was the dining room.
 0019_Pulp_Fiction_00.24.35.106-00.24.44.790 	english dave crosses to the bar, and vince follows.
-0019_Pulp_Fiction_00.58.13.736-00.58.18.618 	we follow lance as he runs out of the living room into a.
-0019_Pulp_Fiction_01.35.16.199-01.35.22.681 	marsellus follows the gawker's finger and sees butch coolidge down the street, looking a shambles.
 0019_Pulp_Fiction_02.09.16.153-02.10.00.104 	they follow instructions given by wolf
 0020_Raising_Arizona_00.07.23.142-00.07.23.580 	hi and ed watch, their heads following its slow downward arc.
-0020_Raising_Arizona_00.30.40.921-00.30.43.349 	we are following the two, hand-held, as the police leads nathan toward the living room.
-0020_Raising_Arizona_00.36.38.280-00.36.40.036 	the weaving knee-level tracking shot is following a six-year- old boy in shorts and a dirty t-shirt as he tramps around the trailer, brandishing a big stick.
-0020_Raising_Arizona_00.54.54.714-00.54.57.488 	following it, very close, we see only its rear wheel and fender and twin exhaust pipes, one on either side.
-0020_Raising_Arizona_00.58.21.321-00.58.22.121 	his head bobs and ducks, as if he is following some movement in the air in front of him.
 0020_Raising_Arizona_00.58.32.252-00.58.36.868 	his eyes continue to follow some phantom movement.
 0021_Rear_Window_00.15.01.253-00.15.04.634 	she follows him wonderingly.
 0021_Rear_Window_00.16.49.248-00.16.51.942 	the camera follows her quickly to another lamp.
-0021_Rear_Window_00.18.40.351-00.18.46.861 	he goes down the stairs, as she follows.
-0021_Rear_Window_00.23.51.282-00.23.54.001 	her every movement is followed admiringly by the eyes of the three men -- one wearing black tie, with a touch of grey in his hair, a long island socialite -- a young rather handsome, actor in grey flannel suit -- and last, a bright, pleasant, young man who might possibly be from wall street, wearing a blue-pin-striped suit.
 0021_Rear_Window_00.23.53.855-00.23.58.055 	the man in the tuxedo follows her over, with a casual glance toward the other two.
-0021_Rear_Window_00.26.03.753-00.26.06.239 	in the bedroom his wife appears walking back to the bed, followed by the husband.
 0021_Rear_Window_00.30.43.774-00.30.46.274 	jeff's eyes follow her up the steps toward the door.
-0021_Rear_Window_00.43.42.257-00.43.45.757 	it begins to move upward, and the camera follows it.
 0021_Rear_Window_01.01.05.136-01.01.15.079 	we follow the basket down to the yard which brings miss lonely heart's apartment into view.
 0022_Reservoir_Dogs_00.28.17.339-00.28.22.046 	we follow behind him up to mr. white, who's standing over mr. orange.
 0022_Reservoir_Dogs_00.36.45.579-00.36.49.132 	the other two men just follow him with their eyes.
-0022_Reservoir_Dogs_00.57.19.140-00.57.27.825 	we follow mr. blonde as he walks out of the warehouse.
 0022_Reservoir_Dogs_01.14.23.528-01.14.25.206 	freddy answers it, we follow the receiver up to his face.
-0022_Reservoir_Dogs_01.14.40.414-01.14.44.271 	the camera follows freddy as he hops around the apartment getting everything he needs.
-0023_THE_BUTTERFLY_EFFECT_00.13.40.824-00.13.44.682 	evan gets up and starts running, then realizes he's not being followed.
 0023_THE_BUTTERFLY_EFFECT_00.19.56.600-00.20.05.323 	evan follows.
 0023_THE_BUTTERFLY_EFFECT_00.20.05.323-00.20.09.586 	evan follows her to a small alcove.
 0023_THE_BUTTERFLY_EFFECT_00.24.21.972-00.24.27.792 	lenny nervously follows behind.
 0023_THE_BUTTERFLY_EFFECT_01.21.15.381-01.21.20.740 	lenny slowly follows evan as he bolts away.
-0023_THE_BUTTERFLY_EFFECT_01.34.17.508-01.34.22.561 	lenny comes running across the street to evan's aid, and tommy shrugs and follows after him.
 0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.48.40.147-00.48.50.267 	frodo races across the wooden wharf, followed by the ringwraiths.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.16.58.369-01.16.59.709 	frodo turning, following sam's gaze.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.39.47.823-01.40.03.719 	following the crows as they race deeper and deeper, passing a vista of industry, hundreds of orcs and writhing birthsacks.flying past saruman, who stands upon a wooden gantry.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.56.57.467-01.57.00.465 	the door bursts open in a shower of wood fragments, and 20 goblins charge into the tomb, followed by a huge cave troll!
 0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.04.32.747-02.04.38.631 	aragorn leads the fellowship to the top of a dizzying stairway.gandalf follows, leaning heavily on his staff.
 0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.09.17.170-02.09.30.188 	following the balrog into the bottomless abyss!
 0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.18.53.538-02.18.57.747 	frodo follows her.as if drawn by an invisible force.
 0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.23.29.660-02.23.33.117 	naked, lurtz's eyes follow saruman, alight with a mean intelligence.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.08.41.193-00.08.46.209 	frodo and sam follow gollum as he leads them on the wining, torturous path.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.13.30.559-00.13.33.312 	eowyn looks at her uncle, as theoden follows her gaze.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.34.07.086-00.34.10.827 	gandalf strides down the hall, with pippin following obediently behind.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.37.03.176-00.37.03.901 	gandalf looks at denethor closely for a moment, then turns on his heel to leave, pippin follows.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.40.34.806-00.40.35.610 	following the stairs.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.54.01.161-00.54.05.893 	tilt down: following the nazgul as it swoops out of lowlying, murky clouds tossing men in the air like limp rag-dolls!
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.56.11.227-00.56.16.648 	frodo and sam following gollum up the dizzying stairway, carved into the sheer cliff.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.13.38.878-01.13.44.270 	aragorn casts another look back at the ancient standing stones before following gimli.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.25.01.976-01.25.04.395 	legolas quickly follows.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.30.46.511-01.30.48.925 	pippin follows them.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.38.16.075-01.38.22.064 	drawing a deep breath, frodo follows gollum into the tunnel.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.38.26.828-01.38.31.181 	frodo is feeling his way in the dark, following the sound of gollum's scampering.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.38.32.656-01.38.37.009 	frodo follows the sound of gollum's voice.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.38.50.985-01.38.52.632 	frodo slips as he tries to follow the voice.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.48.16.269-01.48.26.640 	with a roar, gandalf leads a counter attack on shadowfax, followed by several hundred gondorian foot.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.49.04.018-01.49.16.071 	with hideous stealth, she follows frodo.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.10.53.441-02.10.55.465 	9 other corsair ships follow behind.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.10.56.182-02.10.58.708 	he is followed by legolas and gimli.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.37.12.184-02.37.22.125 	the rest of the men following.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.50.23.753-02.50.27.778 	he bears gandalf on his back, and is followed by two more.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.57.36.653-02.57.47.918 	followed by all assembled there.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_03.04.15.197-03.04.20.326 	gandalf follows with merry, pippin and sam.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_03.10.16.484-03.10.26.436 	sam in growing darkness, still follows the departing ship with his eyes, merry and pippin are already preparing to leave.
 0026_The_Big_Fish_00.19.22.366-00.19.22.887 	embarrassed, edward just keeps singing, trying to follow along with the baritone part.
-0026_The_Big_Fish_00.20.19.905-00.20.21.424 	although we've seen him briefly before, this is our first real exposure to grown-up edward, who we'll follow from roughly the ages of 18 to 30.
 0026_The_Big_Fish_00.48.20.156-00.48.20.566 	followed by hands.
 0026_The_Big_Fish_00.48.37.221-00.48.40.815 	a tight spotlight follows him, revealing faces in the crowd.
 0026_The_Big_Fish_00.58.47.912-00.58.50.220 	he follows it into the woods.
 0026_The_Big_Fish_01.21.51.207-01.21.55.602 	josephine kisses him, then follows sandra.
-0027_The_Big_Lebowski_01.12.07.136-01.12.11.948 	without looking back at, the dude, who follows.
-0028_The_Crying_Game_00.04.08.026-00.04.11.652 	jody follows her, as she walks backward, drawing him on.
-0028_The_Crying_Game_00.12.15.227-00.12.17.804 	jody's head follows fergus while he leaves.
 0028_The_Crying_Game_00.42.28.620-00.42.45.305 	fergus follows.
 0028_The_Crying_Game_00.44.54.876-00.44.55.120 	dave follows, grabs her by the elbow again.
-0028_The_Crying_Game_01.12.08.650-01.12.10.394 	fergus hears a car following them, and turns around to look.
-0028_The_Crying_Game_01.24.12.261-01.24.18.359 	she goes inside; he follows.
 0029_The_Graduate_00.26.15.296-00.26.17.542 	he follows them into the lobby.
-0029_The_Graduate_00.41.53.262-00.42.02.667 	follow ben as he gets up and moves to the windows of what is now his bedroom in the braddock house.
-0029_The_Graduate_01.17.08.177-01.17.12.175 	mr. mccleery takes a couple of steps up, ben following and stops again.
-0029_The_Graduate_01.28.46.651-01.28.47.261 	ben follows her, moving out of the way of the other students.
 0029_The_Graduate_01.35.41.078-01.35.42.270 	ben follows her through the hall into mrs. robinson's room.
 0029_The_Graduate_01.35.45.974-01.35.48.592 	ben follows.
 0029_The_Graduate_01.38.24.005-01.38.27.774 	a great deal of laughter follows this gem.
-0030_The_Hustler_00.02.11.170-00.02.12.360 	several more townspeople have come in from the street and are following the play.
 0030_The_Hustler_00.46.41.325-00.46.54.911 	eddie pauses a moment to register this as she limps off, then follows.
-0030_The_Hustler_01.16.58.208-01.17.07.732 	the other two men, the losers, stand around, mutely following the play.
-0030_The_Hustler_01.32.34.729-01.32.37.807 	eddie, having hurriedly paid the bill, follows after her.
-0030_The_Hustler_01.39.45.087-01.39.46.810 	behind them is bert, his face now shaded by dark glasses, following a bellhop to the main desk.
 0030_The_Hustler_01.46.23.269-01.46.27.195 	we follow her unsteady, doll-like descent.
-0030_The_Hustler_01.57.19.112-01.57.23.058 	bert watches him for a moment then follows.
-0031_The_Lost_Weekend_00.08.04.910-00.08.14.780 	don looks after him, then follows him, a stubborn smile on his lips.
-0031_The_Lost_Weekend_00.08.50.458-00.08.55.805 	wick turns toward don, who has followed helen to the entrance hall.
 0031_The_Lost_Weekend_00.18.37.726-00.18.39.904 	helen follows him.
 0031_The_Lost_Weekend_00.41.50.137-00.41.57.606 	helen rises and follows him over to the line of house phones on a shelf.
-0031_The_Lost_Weekend_01.18.09.302-01.18.13.335 	seen through the glass doors, a doctor comes running down the ante-room, followed by another male nurse with a cart on which are hypodermic syringes, etc.
 0031_The_Lost_Weekend_01.35.57.607-01.36.00.611 	don follows her.
-0032_The_Princess_Bride_00.13.23.754-00.13.27.740 	the boat at dawn, being followed closely by the black sailboat, which we can see for the first time is being sailed by a man in black, and his boat almost seems to be flying.
-0032_The_Princess_Bride_00.42.54.385-00.43.01.122 	westley takes his sword, slices a path for them to follow.
 0032_The_Princess_Bride_01.07.58.309-01.08.02.320 	fezzik, frightened, follows close behind.
 0032_The_Princess_Bride_01.27.04.525-01.27.06.076 	inigo, and almost too fast for the eye to follow, the sword strikes one final time and.
 0033_Amadeus_00.15.07.305-00.15.11.535 	we follow him.
 0033_Amadeus_00.15.50.805-00.15.58.284 	instantly riveted by the sight of such delights, salieri follows him out of the grand salon.
 0033_Amadeus_00.15.56.638-00.15.58.379 	salieri follows him.
-0033_Amadeus_00.17.23.291-00.17.25.013 	he is followed by his chamberlain, the count arco.
 0033_Amadeus_00.47.35.149-00.47.39.612 	mozart stays for a second, indecisive whether to follow the soprano or help madame weber.
 0033_Amadeus_01.27.07.397-01.27.09.631 	constanze follows.
 0033_Amadeus_01.31.07.935-01.31.11.431 	following them immediately appear wolfgang, constanze and leopold, all three dressed for an occasion.
-0038_Psycho_00.16.55.367-00.16.58.215 	the patrolman is following in his automobile, keeping behind her at a matched speed.
-0038_Psycho_00.17.25.061-00.17.33.427 	the patrolman is no longer following, has not turned off after her.
 0038_Psycho_00.28.22.380-00.28.25.546 	the young man follows mary in, closes the door.
-0038_Psycho_00.29.32.163-00.29.42.334 	mary follows him to the door, goes out on the porch, waits and watches as norman runs to her car, gets in, drives it to the parking space in front of cabin one.
 0038_Psycho_00.29.46.133-00.29.49.003 	norman follows her.
-0038_Psycho_00.32.29.249-00.32.31.612 	camera follows her to window and once there we see the light is still on in the upstairs bedroom and the voice is coming from that room.
-0038_Psycho_00.34.21.474-00.34.27.342 	norman starts to follow, hesitates as he sees the total picture of an attractive young woman and a motel room.
 0038_Psycho_00.34.42.954-00.34.51.044 	mary looks after him, her face showing amused sympathy, then follows.
-0038_Psycho_00.34.57.985-00.35.06.574 	as norman goes about spreading out the bread and ham and pouring the milk, we follow mary across the room.
 0038_Psycho_00.49.33.886-00.49.39.380 	camera follows away from the body, travels slowly across the bathroom, past the toilet, out into the bedroom.
 0038_Psycho_01.17.07.118-01.17.09.480 	camera follows, remaining on floor level but travelling along the stairway as arbogast makes his way up.
 0038_Psycho_01.18.30.346-01.18.32.652 	lila follows after him into the store.
-0038_Psycho_01.27.11.911-01.27.16.818 	he moves away and the others follow.
 0038_Psycho_01.29.18.480-01.29.21.468 	sam and lila follow norman.
-0038_Psycho_01.47.14.403-01.47.21.080 	the guard goes away, and camera follows him out of the room and out into the hallway.
-0043_Thelma_and_Luise_00.12.02.116-00.12.08.271 	many heads turn and follow thelma and louise to an empty table.
 0043_Thelma_and_Luise_01.21.36.873-01.21.46.401 	hal, max, other plainclothes officers follow.
 0043_Thelma_and_Luise_01.29.04.851-01.29.11.385 	thelma follows doggedly.
-0043_Thelma_and_Luise_01.57.17.856-01.57.19.420 	behind them is a huge wall of dust created by all the police cars following them.
-0043_Thelma_and_Luise_01.57.34.069-01.57.36.764 	all the police cars are still following about a half a mile behind.
 0046_Chasing_Amy_00.48.26.663-00.48.30.387 	banky follows.
-0046_Chasing_Amy_00.49.17.364-00.49.22.955 	holden watches her, then follows.
 0046_Chasing_Amy_00.58.31.437-00.58.32.983 	he follows banky's gaze.
 0046_Chasing_Amy_01.48.59.889-01.49.01.586 	she follows alyssa's gaze.
-0049_Hannah_and_her_sisters_00.02.00.602-00.02.05.523 	the camera follows her, moving across a book-and-photograph-filled bookshelf that obscures her from view as she walks into a crowded, comfortable vestibule.
 0049_Hannah_and_her_sisters_00.02.45.499-00.02.48.234 	the camera resumes following a smiling lee.
-0049_Hannah_and_her_sisters_00.06.49.181-00.06.55.439 	the camera moves to a blushing elliot, following him now as he walks across the room.
 0049_Hannah_and_her_sisters_00.08.28.964-00.08.33.944 	norma toasts her daughter; everyone follows her.
 0049_Hannah_and_her_sisters_00.12.40.155-00.12.44.674 	gail follows him.
 0049_Hannah_and_her_sisters_00.14.28.521-00.14.33.768 	the camera follows the doctor's movements from the other side of the wall, obscuring him briefly.
-0049_Hannah_and_her_sisters_00.17.41.683-00.17.45.160 	the camera follows him as he walks away from gail.
 0049_Hannah_and_her_sisters_00.19.49.724-00.19.53.022 	holly follows him, chuckling, throwing her napkin into an offscreen garbage can as david stops at a small television set near the doorway.
-0049_Hannah_and_her_sisters_00.21.42.150-00.21.49.611 	david is in the lead; the women follow, holly slightly behind april.
-0049_Hannah_and_her_sisters_00.26.35.673-00.26.42.420 	she walks down a center aisle, the camera still in its parallel aisle, following her.
-0049_Hannah_and_her_sisters_00.32.06.011-00.32.11.921 	the camera moves back to the stunned mickey and hannah, following dr. smith with their eyes.
-0049_Hannah_and_her_sisters_00.37.34.202-00.37.38.067 	as dusty talks, the camera follows elliot, who walks past the others to examine the drawings more closely.
-0049_Hannah_and_her_sisters_00.37.45.535-00.37.53.858 	the camera leaves elliot to follow the enthusiastic lee as she takes dusty by the arm and starts leading him to the door.
 0049_Hannah_and_her_sisters_00.37.52.250-00.37.57.366 	frederick follows at a distance.
-0049_Hannah_and_her_sisters_00.38.35.998-00.38.39.168 	the camera follows lee as she walks quickly to the stereo unit, pulling a record off the shelf.
-0049_Hannah_and_her_sisters_00.40.03.508-00.40.07.552 	the camera follows her as she goes past the nude drawings, which become the focus of attention as lee walks offscreen.
 0049_Hannah_and_her_sisters_00.40.37.951-00.40.41.104 	frederick enters the loft first, followed by a confused dusty.
-0049_Hannah_and_her_sisters_00.50.09.593-00.50.12.739 	the camera follows her, leaving mickey briefly.
-0049_Hannah_and_her_sisters_00.51.38.339-00.51.48.151 	the camera follows lee as she walks towards the curtained windows, past a fireplace, a mirror, some innocuous pictures, a delicate table holding a lamp, the foot of the bed.
 0049_Hannah_and_her_sisters_01.08.13.687-01.08.18.861 	holly follows hannah to a rack of blouses.
-0049_Hannah_and_her_sisters_01.16.27.486-01.16.31.640 	the camera follows them, cutting to the restaurant's interior at the same time the sisters walk in.
 0049_Hannah_and_her_sisters_01.17.14.763-01.17.16.711 	she signals for the three sisters to follow her.
 0049_Hannah_and_her_sisters_01.20.25.857-01.20.27.931 	the camera follows the cigarette up to his face.
 0049_Hannah_and_her_sisters_01.20.58.132-01.21.05.408 	the camera follows his hand as he crushes it out in a nearby ashtray.
-0049_Hannah_and_her_sisters_01.35.10.379-01.35.16.491 	the camera follows her; mickey is now offscreen.
 0050_Indiana_Jones_and_the_last_crusade_00.06.22.914-00.06.24.220 	then, halfbreed enters through the trap door -- followed by rough rider.
 0050_Indiana_Jones_and_the_last_crusade_00.07.11.262-00.07.15.438 	roscoe follows, grabbing a long stick with a hook on it.
-0050_Indiana_Jones_and_the_last_crusade_00.09.14.655-00.09.16.921 	fedora puts out his arm, gesturing for the others not to follow indy.
 0050_Indiana_Jones_and_the_last_crusade_00.11.04.336-00.11.06.777 	fedora enters the house, followed by roscoe, rough rider and halfbreed.
 0050_Indiana_Jones_and_the_last_crusade_00.33.04.787-00.33.07.312 	indy moves forward through the rat-infested water as elsa follows, still gasping in horror.
-0050_Indiana_Jones_and_the_last_crusade_00.33.31.790-00.33.36.828 	more rat-infested water as elsa, now walking again, follows indy through another passageway lined with skulls and bones.
-0050_Indiana_Jones_and_the_last_crusade_00.35.37.627-00.35.40.069 	this is followed by thousands of rats fleeing from around the corner of the narrow passageway, stampeding toward elsa and indy -- shrieking and squealing as they approach.
 0050_Indiana_Jones_and_the_last_crusade_00.45.30.160-00.45.32.936 	indy, followed by elsa, steps inside, shaking the water from his overcoat.
-0050_Indiana_Jones_and_the_last_crusade_00.45.38.912-00.45.43.980 	elsa follows, taking off her coat.
 0050_Indiana_Jones_and_the_last_crusade_00.55.40.774-00.55.42.872 	brody and sallah follow them.
 0050_Indiana_Jones_and_the_last_crusade_00.57.04.868-00.57.07.664 	the nazi guards follow.
 0050_Indiana_Jones_and_the_last_crusade_01.02.33.513-01.02.37.949 	henry follows indy down the staircase.
-0050_Indiana_Jones_and_the_last_crusade_01.25.34.190-01.25.38.820 	indy and henry, followed by sallah, take cover behind a rock to watch kazim's men and the nazi troops exchanging fire below them.
 0050_Indiana_Jones_and_the_last_crusade_01.34.10.916-01.34.13.288 	brody climbs up out of the tank, followed by henry.
-0051_Men_in_black_00.11.07.815-00.11.09.354 	edwards tries to follow, but a bus pulls in front of him.
 0051_Men_in_black_00.18.37.171-00.18.37.795 	edwards follows.
 0051_Men_in_black_00.29.15.022-00.29.16.498 	the recruits follow zed out of the shooting gallery and into a long hallway.
 0051_Men_in_black_00.39.22.665-00.39.25.079 	edgar drops the truck into gear and follows him, slowly, trolling along behind him.
 0051_Men_in_black_01.16.23.380-01.16.24.759 	they follow his gaze, up, over the computer terminals.
-0051_Men_in_black_01.16.49.202-01.16.51.679 	edgar shoves laurel out through the driver's door and follows behind her, still holding his weapon on her.
 0053_Rendezvous_mit_Joe_Black_00.23.36.283-00.23.45.113 	blindly and disconcerted, he follows allison and drew and quince.
 0053_Rendezvous_mit_Joe_Black_00.40.24.597-00.40.29.227 	joe rises, follows parrish to the door, stops.
 0053_Rendezvous_mit_Joe_Black_00.40.35.174-00.40.40.604 	joe pivots, and he follows parrish out the proper door.
 0053_Rendezvous_mit_Joe_Black_00.54.39.639-00.54.44.657 	parrish enters, joe following right behind him.
-0053_Rendezvous_mit_Joe_Black_01.27.39.900-01.27.49.621 	the door opens and felicia enters followed by quince, sur- prised at seeing a convened board, but still he is all smiles.
 0053_Rendezvous_mit_Joe_Black_01.42.26.653-01.42.29.830 	joe follows parrish out of the room.
-1001_Flight_00.28.40.756-00.28.46.355 	a man walks in wearing an ntsb jacket, followed by a few law officers, a nurse and a doctor.
 1001_Flight_01.33.55.668-01.34.02.320 	hugh follows charlie out of the plane.
 1001_Flight_01.48.57.334-01.48.58.777 	hugh follows.
 1001_Flight_01.54.21.704-01.54.25.036 	charlie and hugh follow behind him.
@@ -319,86 +173,54 @@
 1002_Harry_Potter_and_the_Half-Blood_Prince_00.20.34.678-00.20.38.836 	harry leads the way, followed by ron, then hermione.
 1002_Harry_Potter_and_the_Half-Blood_Prince_00.21.04.424-00.21.08.286 	they follow the malfoys down the gloomy alleyway.
 1002_Harry_Potter_and_the_Half-Blood_Prince_00.21.23.238-00.21.29.325 	narcissa strides in, and draco follows.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.28.35.540-00.28.36.900 	snape turns on his heel and follows him.
 1002_Harry_Potter_and_the_Half-Blood_Prince_00.36.50.830-00.36.51.816 	harry follows the hand-written notes.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.03.56.639-01.04.02.094 	harry sees her go and follows.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.14.47.320-01.14.51.542 	tonks walks away and remus lupin follows her, leaving harry with mr. weasley.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.17.05.093-01.17.09.597 	remus walks out, followed by tonks.
 1002_Harry_Potter_and_the_Half-Blood_Prince_01.18.47.774-01.18.49.775 	ginny follows.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.33.45.946-01.33.59.853 	harry steps forward and watches him then follows.
 1002_Harry_Potter_and_the_Half-Blood_Prince_02.14.36.080-02.14.43.744 	harry follows, as snape leads the death eaters and the ashen-faced draco through the school corridors.
 1002_Harry_Potter_and_the_Half-Blood_Prince_02.15.07.796-02.15.10.698 	harry follows.
 1002_Harry_Potter_and_the_Half-Blood_Prince_02.16.43.032-02.16.48.911 	harry strides through the school courtyard followed by hagrid.
-1003_How_to_Lose_Friends_and_Alienate_People_00.12.12.951-00.12.18.221 	turning on his heel, he hastily follows her inside.
 1003_How_to_Lose_Friends_and_Alienate_People_00.45.10.914-00.45.14.682 	lawrence and sophie follow eleanor from the office.
 1003_How_to_Lose_Friends_and_Alienate_People_00.47.14.897-00.47.17.838 	alison follows to find sidney leaning out of a window.
 1004_Juno_01.06.28.710-01.06.33.795 	she follows him downstairs.
-1004_Juno_01.27.55.220-01.28.01.422 	a porcelain white face looking nervous, vanessa follows the nurse into the ward and stands over one.
 1005_Signs_00.04.28.300-00.04.38.017 	graham stands and slowly walks through the maize, followed by merrill, who's still carrying bo in his arms.
 1005_Signs_00.09.55.150-00.09.55.817 	caroline follows him.
-1005_Signs_00.29.39.040-00.29.44.062 	morgan follows his father's gaze and looks out of the doorway at the man.
-1005_Signs_00.32.16.970-00.32.22.956 	graham gets out, followed by the rest of the family.
 1005_Signs_00.47.15.640-00.47.26.877 	hoisting himself slowly to his feet, he follows the cable across the room and into the hallway.
 1005_Signs_00.58.03.370-00.58.06.037 	it follows the children as they swarm to another window.
-1005_Signs_01.15.57.166-01.16.20.252 	they looked towards a boarded up window to the right of the mantle piece, their gaze passes across the fireplace as they turned to follow the noises.
-1005_Signs_01.31.52.995-01.32.03.369 	bo follows her father and then wanders out into the hallway as graham carries morgan through the dining room and into the living room, staring at the broken planks across the windows.
 1005_Signs_01.37.21.335-01.37.24.297 	bo following him.
 1006_Slumdog_Millionaire_00.07.18.252-00.07.20.458 	the security guards struggle to follow the tiny boys as they wind and weave through the filthy, narrow streets between shanty buildings.
-1006_Slumdog_Millionaire_00.07.38.133-00.07.47.813 	the boys run along a sewage pipe, followed by the guard hot on their heels.
-1006_Slumdog_Millionaire_00.19.06.630-00.19.08.515 	the boys run again, beckoning to latika to follow.
 1006_Slumdog_Millionaire_00.32.10.799-00.32.13.366 	maman gestures for punnoose to follow salim.
 1006_Slumdog_Millionaire_00.32.56.153-00.33.01.696 	they shake hands and jamal follows salim back to maman.
 1006_Slumdog_Millionaire_00.33.11.069-00.33.13.512 	punnoose follows behind them.
 1006_Slumdog_Millionaire_00.33.24.947-00.33.36.345 	salim leads jamal towards maman and his bearded henchman followed closely by punnoose.
-1006_Slumdog_Millionaire_00.47.37.112-00.47.48.266 	we suddenly seen an image of five-year-old latika chasing a train followed by an image of a very beautiful latika, now in her 20s.
 1006_Slumdog_Millionaire_01.16.20.732-01.16.26.836 	as salim drives off, jamal appears in a tuk-tuk, following closely behind.
 1006_Slumdog_Millionaire_01.33.55.223-01.34.06.020 	jamal turns to follow the host down the corridor.
-1007_Spider-Man1_01.19.31.608-01.19.35.360 	peter makes him move as they start to follow her.
-1008_Spider-Man2_00.31.18.350-00.31.23.176 	peter watches a police car fly past, followed by a few more.
 1009_Spider-Man3_00.06.47.490-00.06.51.066 	following a couple of young women out of the theater, peter grins with pleasure.
 1009_Spider-Man3_00.39.45.405-00.39.49.417 	in times square, a billboard displays the letters ny followed by a heart and a picture of spider-man.
-1009_Spider-Man3_00.42.14.323-00.42.16.199 	sitting in a sea of empty seats, the producer and director followed the actress's awkward gaze.
-1009_Spider-Man3_01.39.05.298-01.39.08.354 	gwen follows his gaze and turns to him in shock.
 1009_Spider-Man3_02.11.36.363-02.11.44.328 	other mourners follow suit.
-1010_TITANIC_00.02.40.710-00.02.51.317 	the sub moves forward stirring up clouds of sediment as the second sub follows close behind.
 1010_TITANIC_00.23.02.084-00.23.09.059 	rose follows her fiancee, cal hockley, through the crowd.
 1010_TITANIC_00.59.15.094-00.59.16.761 	rose smiles at jack as they follow.
 1010_TITANIC_01.31.12.017-01.31.15.965 	lovejoy follows them.
 1010_TITANIC_01.41.55.097-01.41.56.490 	he follows the others thrugh one of the door ways
 1010_TITANIC_01.42.59.117-01.43.01.154 	murdoch follows smith onto the bridge deck.
-1010_TITANIC_01.43.22.039-01.43.25.124 	his roommates follow as he opens the door.
-1010_TITANIC_01.43.53.648-01.43.57.764 	tommy, fabrizio, and others follow running rats down a hallway.
-1010_TITANIC_01.45.06.647-01.45.08.908 	lovejoy follows rose and jack into the sitting room.
-1010_TITANIC_01.54.01.329-01.54.04.903 	fabrizio follows tommy, who grabs a life belt and puts it on.
 1010_TITANIC_01.57.24.907-01.57.27.703 	cal follows and grabs her.
 1010_TITANIC_02.07.54.722-02.07.57.200 	rose follows jack, who uses the axe to break through the door and into the corridor.
 1010_TITANIC_02.08.00.402-02.08.04.009 	the steward follows jack and rose.
 1010_TITANIC_02.12.45.691-02.12.56.248 	cal follows murdoch toward the bow.
-1010_TITANIC_02.15.01.927-02.15.03.837 	lovejoy follows cal, who walks through the bridge.
 1010_TITANIC_02.28.50.450-02.28.53.654 	jack glances back, nods, then follows rose.
 1011_The_Help_00.08.09.719-00.08.27.013 	minnie, carrying a pie, follows the ladies to their car.
-1011_The_Help_00.41.08.367-00.41.15.539 	she invites skeeter to follow her to the sitting room of her spotless little house.
 1011_The_Help_00.43.05.705-00.43.09.623 	skeeter follows her gaze.
 1011_The_Help_01.42.18.007-01.42.21.516 	on the dance floor, mr. blackly performs a jig followed by a cartwheel.
-1011_The_Help_01.44.37.287-01.44.42.550 	hilly's look of horror is followed by a patronizing smile.
-1011_The_Help_01.49.41.233-01.49.51.677 	at the lunch following the medal ceremony, constantine is serving each lady in turn, under charlotte's rather anxious gaze.
-1012_Unbreakable_00.12.46.170-00.12.53.837 	david hugs his son to his chest, gives him a slight smile, and looks over his head at the slim fair-haired woman who has followed the boy.
-1012_Unbreakable_00.13.32.797-00.13.35.464 	as his parents follow, they let go of each others hands.
 1012_Unbreakable_01.21.39.701-01.21.44.615 	david follows the man as he pushes his wheelie bin around a corner and along a dimly lit corridor.
 1012_Unbreakable_01.22.33.061-01.22.37.025 	david follows him with the hood of his cape up against the teeming rain.
 1012_Unbreakable_01.32.23.304-01.32.25.971 	her eyes follow him around the room.
-1012_Unbreakable_01.37.54.260-01.37.54.926 	david is following.
 1014_2012_00.07.05.080-00.07.11.843 	with adrian duffle bags still in his arms, scotty watches adrian follow anheuser from the party.
 1014_2012_00.09.28.177-00.09.32.622 	soldiers stopping nima's brother tenzen from following the truck as it drives away.
 1014_2012_00.19.41.948-00.19.42.550 	adrienne follows.
 1014_2012_00.21.59.517-00.22.03.184 	lily and her brother, noah, follow jackson along a sparse trail.
 1014_2012_00.37.27.244-00.37.32.252 	anheuser follows wilson into the white house situation room.
 1014_2012_00.51.41.205-00.51.45.183 	jackson and kate follow gordon's gaze out of the windscreen.
-1014_2012_01.05.36.596-01.05.43.129 	adrian follows anheuser into the corridor which is buzzing with activity.
 1014_2012_01.51.17.684-01.51.20.475 	nora pats adrian's shoulder and follows them.
 1015_27_Dresses_01.25.18.185-01.25.28.005 	kevin, lurking in the background, follows her out.
 1017_Bad_Santa_00.15.39.966-00.15.44.610 	later, she follows him into his apartment.
-1017_Bad_Santa_00.52.50.557-00.52.55.658 	willie follows him to the kitchen where he puts the hand under the tap.
 1017_Bad_Santa_00.59.20.814-00.59.23.795 	the skate rats follow in, close behind him, their interest clearly malicious.
 1018_Body_Of_Lies_00.22.24.961-00.22.26.434 	ferris keeps shooting at the iraqis as they follow in the four-by-fours.
 1018_Body_Of_Lies_00.36.27.156-00.36.28.426 	ferris follows.
@@ -406,53 +228,37 @@
 1018_Body_Of_Lies_00.57.24.553-00.57.27.435 	he follows her.
 1018_Body_Of_Lies_01.00.46.173-01.00.47.495 	another suv follows.
 1018_Body_Of_Lies_01.18.05.620-01.18.11.893 	ferris shuts the door and follows aisha.
-1018_Body_Of_Lies_01.32.44.687-01.32.54.204 	ferris walks up and follows him to his car.
 1018_Body_Of_Lies_01.42.57.696-01.42.59.731 	the van follows a line of cars and slows up.
-1018_Body_Of_Lies_01.54.41.999-01.54.54.547 	they're followed by hani, who walks in and stares at ferris.
-1019_Confessions_Of_A_Shopaholic_00.22.42.306-00.22.43.390 	she turns towards haley, trying to follow his gaze.
 1020_Crazy_Stupid_Love_00.20.28.829-00.20.30.674 	cal follows suit without using his straw.
 1020_Crazy_Stupid_Love_01.27.56.090-01.27.57.992 	jessica follows him honking on the horn desperately.
-1020_Crazy_Stupid_Love_01.34.06.522-01.34.07.592 	she turns and wanders away, jacob follows.
-1023_Horrible_Bosses_00.35.48.950-00.35.59.559 	they follow the black guy, who has a shaven head and several tattoos.
-1024_Identity_Thief_00.07.09.584-00.07.12.251 	sandy puts down a file and follows cornish's assistant.
 1024_Identity_Thief_00.34.12.873-00.34.15.200 	sandy follows her.
 1024_Identity_Thief_00.57.32.463-00.57.36.023 	sandy follows, barely dodging the oncoming vehicles.
 1024_Identity_Thief_01.21.36.971-01.21.41.107 	as she follows sandy into the luxury suite, diana mouth falls open.
 1024_Identity_Thief_01.28.41.110-01.28.43.736 	an officer leads sandy out while the others follow with diana.
-1024_Identity_Thief_01.30.58.809-01.31.01.476 	as the squad car leaves, he quickly follows.
 1024_Identity_Thief_01.31.12.339-01.31.15.006 	with a determined glare, the skiptracer follows close behind.
 1024_Identity_Thief_01.32.22.159-01.32.26.826 	following diana, sandy trips off the curb and lands in a closed-off lane.
 1024_Identity_Thief_01.35.15.769-01.35.20.436 	our view quickly rises into the sky, following the sun through a full day.
 1026_Legion_00.14.32.948-00.14.38.475 	he glances at the other three diners, then follows charlie to the counter, all eyes on him.
-1026_Legion_01.00.15.194-01.00.16.725 	shaken, audrey gets up and follows kyle.
 1026_Legion_01.11.44.432-01.11.50.647 	jeep aims his torch beam up and follows a trail of bloody hand prints across the ceiling.
-1026_Legion_01.18.36.508-01.18.38.676 	charlie follows holding the baby.
 1026_Legion_01.18.38.676-01.18.41.265 	audrey follows them.
-1027_Les_Miserables_00.03.19.350-00.03.20.830 	a second prisoner is stopped from following him.
 1027_Les_Miserables_01.20.17.352-01.20.21.529 	marius exchanges a glance with enjolras and follows her.
 1027_Les_Miserables_01.26.46.056-01.26.48.980 	cosette follows valjean inside.
 1027_Les_Miserables_01.35.42.641-01.35.47.231 	soldiers march down the street followed by cavalry.
-1027_Les_Miserables_02.02.08.701-02.02.09.192 	enjolras hacks the wooden stars away so the soldiers can't follow.
 1028_No_Reservations_00.28.29.680-00.28.30.948 	zoe follows kate into the hallway.
-1028_No_Reservations_00.51.55.134-00.52.01.261 	kate follows her and gets in beside her.
 1028_No_Reservations_01.07.20.935-01.07.26.074 	kate dodges the traffic to follow her.
 1029_Pride_And_Prejudice_Disk_One_00.01.24.294-00.01.35.181 	with a broad smile, mr. bingley rides on towards his new property, followed by his companion, mr. darcy.
 1029_Pride_And_Prejudice_Disk_One_00.12.40.840-00.12.42.708 	followed by miss bingley, who's wearing a grand ball gown and feather hat.
 1029_Pride_And_Prejudice_Disk_One_00.39.05.669-00.39.15.239 	he disguises a look of amusement, then steps aside for her to pass and follows her, as she strides towards the hall.
 1029_Pride_And_Prejudice_Disk_One_01.07.43.128-01.07.47.989 	lizzie and kitty race in followed by mary.
-1029_Pride_And_Prejudice_Disk_One_01.17.17.655-01.17.23.200 	mr. collins reluctantly follows jane leaving wickham and lizzie alone.
 1029_Pride_And_Prejudice_Disk_One_01.25.32.487-01.25.35.032 	then, normally, makes to follow her in the dance.
 1029_Pride_And_Prejudice_Disk_One_01.35.16.912-01.35.19.014 	a concerned jane follows her.
 1029_Pride_And_Prejudice_Disk_One_01.36.31.993-01.36.37.685 	a furious miss bingley signals for her sister to follow her.
 1029_Pride_And_Prejudice_Disk_One_01.50.00.152-01.50.01.809 	charlotte follows him out.
 1029_Pride_And_Prejudice_Disk_One_01.59.24.134-01.59.28.701 	as the three girls follow their mother and the officers outside,
-1029_Pride_And_Prejudice_Disk_One_02.04.35.071-02.04.43.429 	as mrs. bennet comes running out of the house followed by mr. bennet and their daughters, a portly gentleman, edward gardiner and his wife emerge from the carriage.
 1029_Pride_And_Prejudice_Disk_One_02.05.38.474-02.05.40.130 	charlotte lucas enters followed by jane.
 1030_Public_Enemies_00.03.21.819-00.03.25.614 	a stocky prisoner repeated strikes a guard with a pipe as the older inmate follows closely behind.
 1030_Public_Enemies_00.05.13.408-00.05.18.593 	dillinger crosses through the metal gate, followed by his now partially dressed gang.
 1030_Public_Enemies_00.08.51.279-00.08.57.002 	a group of armed lawmen follow behind, charging up a hill.
-1030_Public_Enemies_00.09.41.603-00.09.53.016 	the shooter gazes up from his sights, then stands and approaches the outlaw with the rest of the men following behind.
-1030_Public_Enemies_00.23.00.148-00.23.04.815 	anna follows red and veronica as they stroll away, leaving dillinger alone.
 1030_Public_Enemies_00.52.46.197-00.52.56.013 	dillinger follows purvis from inside his cell.
 1030_Public_Enemies_00.55.30.324-00.55.33.991 	five cars follow the motorcyclists along a dim street.
 1030_Public_Enemies_00.57.49.679-00.57.55.639 	the lawyer nonchalantly follows a second guard farther ahead.
@@ -462,24 +268,18 @@
 1030_Public_Enemies_01.31.30.519-01.31.34.185 	agent madala follows, hesitating as he spots baum's body.
 1030_Public_Enemies_01.32.22.259-01.32.31.778 	purvis scowls into the night as the car follows another curve.
 1030_Public_Enemies_01.33.36.969-01.33.42.691 	purvis follows up with shots of his own.
-1030_Public_Enemies_01.36.28.199-01.36.38.519 	a woman with similar short hair comes down a staircase, hands billie a large, brown paper bag, and follows her into the apartment.
-1030_Public_Enemies_01.51.34.286-01.51.40.002 	purvis' gaze follows her as she walks around his vehicle.
 1030_Public_Enemies_01.53.38.575-01.53.46.220 	anna's fanning motion slows as her knowing gaze follows him.
 1030_Public_Enemies_02.03.24.534-02.03.28.365 	a guard follows, closes a prison door, and locks it.
 1031_Quantum_of_Solace_00.02.01.177-00.02.03.938 	the aston-martin followed by the black alfa-romeo driving towards the quarry.
 1031_Quantum_of_Solace_00.11.38.788-00.11.44.320 	bond follows.
 1031_Quantum_of_Solace_00.12.09.235-00.12.19.851 	mitchell leaps across tiled rooftops, his pursuer following relentlessly.
-1031_Quantum_of_Solace_00.13.16.507-00.13.20.961 	bond follows and fires as the double agent runs out of sight.
 1031_Quantum_of_Solace_00.22.44.859-00.22.49.614 	bond rides impassively, following the girls little bronze car.
 1031_Quantum_of_Solace_00.38.38.312-00.38.44.949 	felix gives a bitter smile then follows beam up the plane's steps.
-1031_Quantum_of_Solace_00.38.50.696-00.38.53.791 	bond is following his gps tracker.
 1031_Quantum_of_Solace_00.40.54.156-00.40.58.305 	bond follows the guests with the gift bag in the toilets.
-1031_Quantum_of_Solace_00.41.26.275-00.41.29.104 	the guest bond followed in is slumped in the corner.
 1031_Quantum_of_Solace_01.01.18.572-01.01.23.956 	motorcyclists follow them.
 1033_Sherlock_Holmes_A_Game_of_Shadows_00.45.57.385-00.46.01.091 	watson follows.
 1033_Sherlock_Holmes_A_Game_of_Shadows_01.15.22.462-01.15.24.129 	they follow him.
 1033_Sherlock_Holmes_A_Game_of_Shadows_01.27.32.741-01.27.37.745 	he reloads and follows the others out into a rail yard.
-1034_Super_8_00.31.01.797-00.31.07.415 	alice follows louis back into the house, leaving an awkward looking joe standing on the veranda.
 1034_Super_8_01.23.47.103-01.23.58.055 	joe helps martin out of the broken window followed by charles, and then carrie.
 1034_Super_8_01.35.34.381-01.35.40.796 	joe, alice and tina follow the sheriff through the alien's maze of equipment.
 1035_The_Adjustment_Bureau_00.11.01.868-00.11.04.384 	david follows her.
@@ -496,12 +296,10 @@
 1037_The_Curious_Case_Of_Benjamin_Button_00.13.06.558-00.13.11.461 	tizzy follows.
 1037_The_Curious_Case_Of_Benjamin_Button_00.34.46.359-00.34.55.091 	daisy crawls into the makeshift den, and benjamin follows on his hands and knees.
 1037_The_Curious_Case_Of_Benjamin_Button_01.01.48.244-01.01.53.519 	to benjamin, as he follows them out of the lift.
-1037_The_Curious_Case_Of_Benjamin_Button_01.45.20.459-01.45.25.738 	the spotlights shift to follow their movements as they pranced left and right.
 1037_The_Curious_Case_Of_Benjamin_Button_01.46.10.879-01.46.20.026 	benjamin follows him through the crowd of corridor and waits by her dressing room door.
 1037_The_Curious_Case_Of_Benjamin_Button_02.27.41.817-02.27.54.638 	benjamin follows daisy through a bright corridor to the back entrance.
 1038_The_Great_Gatsby_00.22.32.843-00.22.34.678 	myrtle marches in, followed by tom.
 1038_The_Great_Gatsby_01.03.58.523-01.04.02.850 	daisy rests her head in gatsby's lap and follows his gaze to the window and beyond.
-1038_The_Great_Gatsby_01.13.41.680-01.13.43.996 	gatsby sees tom and nick follow marlene upstairs.
 1038_The_Great_Gatsby_01.14.23.307-01.14.24.418 	outside, gatsby follows daisy through a gate.
 1038_The_Great_Gatsby_01.14.24.722-01.14.27.596 	gatsby nods to a couple of servants and follows daisy across the terrace.
 1038_The_Great_Gatsby_01.22.15.059-01.22.21.087 	in the flashback, gatsby follows daisy to an upstairs room.
@@ -509,14 +307,9 @@
 1038_The_Great_Gatsby_01.31.48.730-01.31.50.258 	gatsby and daisy follow in the coupe.
 1039_The_Queen_00.08.41.642-00.08.44.955 	the equerry reenters with cherie following behind him.
 1039_The_Queen_00.11.51.876-00.11.53.543 	and the motorbikes follow her.
-1039_The_Queen_00.34.06.776-00.34.11.685 	two men, holding rifles, exit balmoral followed by charles, william, and harry.
-1039_The_Queen_01.04.04.540-01.04.07.448 	this is followed by tony addressing some members of the public.
 1039_The_Queen_01.15.29.421-01.15.33.088 	three bodyguards quickly jump into a nearby car and follow her.
 1039_The_Queen_01.15.58.041-01.16.02.708 	the queen's land rover enters the grounds of a country estate, followed by the bodyguards' car.
-1039_The_Queen_01.23.10.356-01.23.12.022 	as the queen walks, prince philip follows close by.
 1040_The_Ugly_Truth_00.32.00.609-00.32.06.927 	tall, thick-set mike follows abby to her office.
-1040_The_Ugly_Truth_01.12.51.277-01.12.52.234 	mike follows, looking dazed.
-1041_This_is_40_00.00.47.185-00.00.50.825 	as the woman gets out, her partner follows.
 1041_This_is_40_00.35.52.058-00.35.53.485 	pete follows him out back.
 1041_This_is_40_00.36.28.328-00.36.31.887 	pete sighs and follows his father back inside.
 1041_This_is_40_00.37.28.265-00.37.30.697 	pete's dad follows his middle-aged wife to the backyard.
@@ -528,72 +321,54 @@
 1041_This_is_40_01.57.27.246-01.57.29.371 	joseph follows.
 1042_Up_In_The_Air_00.36.08.331-00.36.11.607 	at the hilton, natalie follows ryan into the lobby.
 1042_Up_In_The_Air_00.41.59.440-00.42.04.444 	ryan follows natalie outside.
-1042_Up_In_The_Air_00.53.56.995-00.54.02.971 	looking a bit shifty, natalie does the same and follows them around a corner.
 1043_Vantage_Point_00.10.45.511-00.10.49.326 	taylor follows him to a car.
 1043_Vantage_Point_00.11.01.112-00.11.05.667 	they follow him in.
 1043_Vantage_Point_00.14.25.473-00.14.29.687 	taylor follows barnes' gaze.
 1043_Vantage_Point_00.45.31.850-00.45.37.577 	heinkin and silver-haired phil mccullough follow ashton into an elevator.
 1043_Vantage_Point_00.46.50.306-00.46.52.998 	they follow ashton down a corridor.
 1044_Pride_And_Prejudice_Disk_Two_00.11.14.618-00.11.18.795 	mariah follows her inside and up the stairs.
-1044_Pride_And_Prejudice_Disk_Two_00.26.23.477-00.26.26.840 	as lizzie is about to follow, her mother appears.
 1044_Pride_And_Prejudice_Disk_Two_00.34.30.882-00.34.34.285 	he heads inside and the girls follow him.
-1044_Pride_And_Prejudice_Disk_Two_01.40.04.011-01.40.09.669 	lizzie puts down her basket and rushes off, quickly followed by jane.
 1044_Pride_And_Prejudice_Disk_Two_01.53.41.055-01.53.43.524 	jane makes to follow them.
 1044_Pride_And_Prejudice_Disk_Two_01.53.58.270-01.54.02.937 	jane and lizzie exchange glances, then head inside, followed by mary and kitty.
-1044_Pride_And_Prejudice_Disk_Two_02.11.22.414-02.11.27.416 	she nods to mr. bingley, then leaves the room, followed by mary and kitty.
-1044_Pride_And_Prejudice_Disk_Two_02.18.19.648-02.18.25.985 	lady catherine heads out and lizzie follows her, looking puzzled.
 1046_Australia_00.27.15.000-00.27.17.670 	she follows him out.
 1046_Australia_00.27.38.491-00.27.41.092 	nullah follows her.
 1046_Australia_00.54.47.393-00.54.52.000 	king george follows their progress from his rocky mountain top.
 1046_Australia_01.02.00.761-01.02.03.824 	fletcher's crew follow on a path along the cliff above.
-1046_Australia_01.49.14.847-01.49.18.294 	drover watches him go, followed by his dog.
 1046_Australia_02.11.19.189-02.11.21.017 	magarri follows him.
 1046_Australia_02.20.06.301-02.20.09.000 	the soldiers follow footprints down the beach.
-1047_Defiance_00.23.33.079-00.23.36.558 	tuvia follows him and watches his brother convulsing with grief.
 1047_Defiance_00.49.52.370-00.49.54.955 	the man shrugs and beckons for them to follow him.
 1047_Defiance_01.06.02.789-01.06.05.219 	gramov retrieve his playing card and follows him
 1047_Defiance_01.29.28.808-01.29.31.358 	with zus and all the rest of the soldiers following on foot.
 1047_Defiance_01.39.47.198-01.39.51.355 	beyond some trees, a german truck full of soldiers drives across a metal bridge followed by a car.
-1047_Defiance_01.56.40.473-01.56.41.458 	asael turns around to malbin, who is trying to follow a map.
 1047_Defiance_02.02.43.685-02.02.44.764 	the rest of his men follow him out of the trees and set about the rest.
 1047_Defiance_02.05.56.911-02.05.59.244 	zus and tuvia follow, their arms wrapped around each other's waist.
 1047_Defiance_02.07.17.093-02.07.17.290 	a third photograph shows tuvia, who followed soon after.
 1048_Gran_Torino_00.04.23.263-00.04.32.470 	steve follows walt, who wears a permanent frown.
 1048_Gran_Torino_00.17.39.521-00.17.47.135 	thao follows them.
 1048_Gran_Torino_00.47.58.143-00.48.02.731 	she follows him.
-1048_Gran_Torino_00.52.15.899-00.52.19.286 	as she goes upstairs, the group of boys follows her.
 1048_Gran_Torino_00.54.45.685-00.54.51.092 	he follows them in.
 1048_Gran_Torino_01.07.16.366-01.07.20.191 	walt follows his gaze to the green v8 muscle car.
 1048_Gran_Torino_01.23.42.545-01.23.47.298 	he follows up the kicks with a few punches.
 1048_Gran_Torino_01.28.34.502-01.28.36.184 	she hurries to the door and everyone follows.
 1048_Gran_Torino_01.39.09.822-01.39.20.499 	thao follows walt down into the basement.
 1048_Gran_Torino_01.42.47.768-01.42.50.725 	grandma follows her.
-1048_Gran_Torino_01.43.37.921-01.43.43.609 	he runs out of the back door, sue following him.
-1049_Harry_Potter_and_the_chamber_of_secrets_00.07.23.424-00.07.28.292 	horrified, harry follows it into the sitting room.
 1049_Harry_Potter_and_the_chamber_of_secrets_00.22.33.981-00.22.36.114 	jenny follows.
 1049_Harry_Potter_and_the_chamber_of_secrets_00.43.05.000-00.43.12.411 	following the sound, harry bumps into ron and hermione.
-1049_Harry_Potter_and_the_chamber_of_secrets_00.43.48.557-00.43.53.043 	at their feet, they see a line of spiders following each other.
-1049_Harry_Potter_and_the_chamber_of_secrets_00.54.50.526-00.54.52.400 	hagrid is following the game through a pair of binoculars.
 1049_Harry_Potter_and_the_chamber_of_secrets_00.55.15.017-00.55.19.376 	harry swoops lower to the grass, but the bludger follows him closely.
 1049_Harry_Potter_and_the_chamber_of_secrets_00.55.39.076-00.55.48.062 	then harry heads for the snitch, closely followed by draco who elbows him out of the way.
 1049_Harry_Potter_and_the_chamber_of_secrets_00.55.51.228-00.55.58.748 	draco flies after it, closely followed by harry who swerves to avoid a solid wooden beam.
-1049_Harry_Potter_and_the_chamber_of_secrets_01.09.18.900-01.09.21.950 	harry runs into the gryffindor common room followed by ron and hermione.
 1049_Harry_Potter_and_the_chamber_of_secrets_01.11.39.041-01.11.43.996 	he follows the sound.
 1049_Harry_Potter_and_the_chamber_of_secrets_01.12.44.820-01.12.54.140 	they follow each other up the wall, over the stone windowsill, and out of the open window.
 1049_Harry_Potter_and_the_chamber_of_secrets_01.13.12.439-01.13.19.261 	harry follows her towards an archway with a fiery torch burning on each side.
-1049_Harry_Potter_and_the_chamber_of_secrets_01.18.42.976-01.18.49.717 	followed by harry, ron peers around a statue in the corridor, makes sure the coast is clear, and lifts his crooked wand.
 1049_Harry_Potter_and_the_chamber_of_secrets_01.20.16.205-01.20.19.476 	hermione follows.
-1049_Harry_Potter_and_the_chamber_of_secrets_01.30.14.520-01.30.22.239 	harry follows his gaze and sees four people carrying down a stretcher covered with a sheet.
 1049_Harry_Potter_and_the_chamber_of_secrets_01.31.58.844-01.32.03.246 	harry follows him down the steps into a gloomy corridor with rough stone walls.
 1049_Harry_Potter_and_the_chamber_of_secrets_01.41.41.272-01.41.47.988 	giving the boys one last look, dumbledore follows him.
-1049_Harry_Potter_and_the_chamber_of_secrets_01.42.37.032-01.42.41.143 	lines of spiders are following each other up the wall and out of the window.
 1049_Harry_Potter_and_the_chamber_of_secrets_01.42.55.661-01.43.00.364 	the huge hound follows them outside.
 1049_Harry_Potter_and_the_chamber_of_secrets_01.43.18.854-01.43.22.072 	ron follows harry reluctantly.
 1049_Harry_Potter_and_the_chamber_of_secrets_01.44.30.032-01.44.33.483 	breathing hard ron hesitates for a moment then follows his friend.
 1049_Harry_Potter_and_the_chamber_of_secrets_01.44.56.709-01.45.00.709 	harry and ron follow the spiders as they swarm across it.
 1049_Harry_Potter_and_the_chamber_of_secrets_02.00.15.820-02.00.19.625 	harry jumps, quickly followed by ron.
 1049_Harry_Potter_and_the_chamber_of_secrets_02.00.49.200-02.00.52.951 	ron makes lockhart follow harry through a huge pipe.
-1049_Harry_Potter_and_the_chamber_of_secrets_02.11.54.517-02.12.01.516 	harry follows it cautiously and watches it as it gradually slips away and finally disappears altogether.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.11.27.475-00.11.36.885 	mad-eye moody, mr. weasley, and kingsley shacklebolt follow them inside.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.19.19.528-00.19.24.119 	ginny follows her mother out.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.21.39.069-00.21.41.668 	mr. weasley follows, anxiously.
@@ -606,9 +381,7 @@
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.28.04.443-01.28.17.732 	they follow her up the street.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.29.44.531-01.29.47.042 	he follows bathilda.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.36.23.809-01.36.27.438 	harry follows.
-1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.58.01.736-01.58.04.937 	leaving their bags behind, ron and harry follow her.
 1051_Harry_Potter_and_the_goblet_of_fire_00.06.06.849-00.06.14.321 	they follow the others, along a cliff top, overlooking the sea.
-1051_Harry_Potter_and_the_goblet_of_fire_00.28.05.268-00.28.17.230 	leaving the classroom, ron follows hermione and harry down a circular stone staircase.
 1051_Harry_Potter_and_the_goblet_of_fire_00.28.39.156-00.28.43.517 	neville reluctantly follows moody back up the stairs.
 1051_Harry_Potter_and_the_goblet_of_fire_00.32.37.743-00.32.46.115 	beaming with pleasure, fleur shakes dumbledore's hand and follows victor.
 1051_Harry_Potter_and_the_goblet_of_fire_00.32.54.190-00.32.58.217 	smiling broadly, he shakes dumbledore's hand and follows victor and fleur out of the hall.
@@ -619,9 +392,7 @@
 1051_Harry_Potter_and_the_goblet_of_fire_01.16.41.336-01.16.45.643 	she follows reluctantly.
 1051_Harry_Potter_and_the_goblet_of_fire_01.34.03.633-01.34.11.120 	harry follows the merperson as it leads him above the jagged rocks on the bottom of the lake.
 1051_Harry_Potter_and_the_goblet_of_fire_01.50.37.658-01.50.40.222 	fleur follows.
-1051_Harry_Potter_and_the_goblet_of_fire_01.53.16.129-01.53.24.809 	harry swallows hard and follows the direction moody has indicated.
 1051_Harry_Potter_and_the_goblet_of_fire_01.57.22.855-01.57.26.004 	harry follows.
-1051_Harry_Potter_and_the_goblet_of_fire_02.22.18.352-02.22.22.320 	the durmstrang students follow, shaking hands as they go.
 1052_Harry_Potter_and_the_order_of_phoenix_00.09.42.711-00.09.47.860 	following the line of the river thames as it winds through the city.
 1052_Harry_Potter_and_the_order_of_phoenix_00.11.24.605-00.11.26.708 	the others follow him towards an open door at the end of the gloomy passage.
 1052_Harry_Potter_and_the_order_of_phoenix_00.17.49.411-00.17.52.417 	harry follows him.
@@ -630,31 +401,25 @@
 1052_Harry_Potter_and_the_order_of_phoenix_00.33.41.138-00.33.51.609 	ron glares around the common room then follows harry upstairs.
 1052_Harry_Potter_and_the_order_of_phoenix_01.46.24.971-01.46.32.089 	the others follow him along the black corridor towards the blue door at the far end.
 1052_Harry_Potter_and_the_order_of_phoenix_01.56.59.622-01.57.02.633 	distraught, harry tries to follow.
-1052_Harry_Potter_and_the_order_of_phoenix_02.07.59.685-02.08.04.572 	harry walks into the station followed by his friends.
 1053_Harry_Potter_and_the_philosophers_stone_00.18.20.223-00.18.25.284 	hesitating for only a moment, harry follows hagrid out through the door.
 1053_Harry_Potter_and_the_philosophers_stone_00.23.23.154-00.23.30.683 	he and harry follow the goblin along the dank gloomy passage.
 1053_Harry_Potter_and_the_philosophers_stone_00.32.24.802-00.32.34.322 	harry follows the woman and her family.
 1053_Harry_Potter_and_the_philosophers_stone_00.32.58.000-00.33.01.350 	he disappears through the wall followed by his identical twin brother.
 1053_Harry_Potter_and_the_philosophers_stone_00.39.19.005-00.39.31.990 	safely disembarked, the crowd of new students follow each other into the castle and up a wide marble staircase.
 1053_Harry_Potter_and_the_philosophers_stone_01.09.08.461-01.09.19.590 	as the students follow quickly into the hall, snape disappears through a side door.
-1053_Harry_Potter_and_the_philosophers_stone_01.20.19.908-01.20.25.368 	hovering high above the pitch, harry is following the game anxiously.
 1053_Harry_Potter_and_the_philosophers_stone_01.22.27.545-01.22.37.753 	the two seekers follow, but the cowardly slytherin pulls out at the last moment as they plummet down head first.
 1053_Harry_Potter_and_the_philosophers_stone_01.44.15.299-01.44.37.474 	a shaft of moon light shows the way, follow hagrid and his dog, fang, along the edge of the forest.
 1053_Harry_Potter_and_the_philosophers_stone_01.46.40.545-01.46.46.440 	followed by fang, malfoy turns and runs, still carrying the lamp.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_00.12.35.408-00.12.39.929 	harry follows tom into the leaky cauldron.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_00.32.05.706-00.32.13.634 	the students follow hagrid around the edge of the sunlit forest to a grassy clearing surrounded by a low wall.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_00.38.55.462-00.38.58.981 	a headless horseman follows him through the great hall.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.45.25.607-00.45.32.971 	ron and hermione follow the other students, leaving harry alone in the quadrangle.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_00.54.34.620-00.54.40.601 	wearing goggles as protection from the rain, harry swoops past the stand where the professors follow the action.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_00.55.12.714-00.55.15.158 	harry swerves back to follow it.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_01.03.01.199-01.03.11.450 	malfoy scrambles to his feet and runs away, followed by his cronies.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_01.04.13.688-01.04.29.487 	ron and hermione follow his footprints to the pub, but are not allowed inside.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_01.06.09.000-01.06.16.603 	ron and hermione follow the footprints in the snow until they reach the edge of the forest.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_01.17.27.575-01.17.37.372 	as harry follows lupin, the portraits glare at snape.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_01.26.43.005-01.26.47.525 	harry glances back at the hippogriff still chained to a post in the pumpkin patch, then he follows his friends.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_01.27.46.918-01.27.52.644 	harry and hermione follow ron.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_01.39.58.501-01.40.00.861 	hermione grabs harry's arm to stop him from following.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_01.41.27.645-01.41.35.329 	harry follows and sees the werewolf hurling the dog against a rock.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_01.42.13.147-01.42.22.000 	harry follows the figure, hurrying through the trees towards the moonlit lake.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_01.54.28.894-01.54.34.929 	buckbeak follows them into the forest.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_01.56.04.764-01.56.15.136 	snape follows lupin.
@@ -662,29 +427,18 @@
 1055_Marley_and_me_01.30.22.256-01.30.31.114 	patrick glumly follows his mother as john continues to search outside.
 1056_Rambo_00.09.44.539-00.09.45.844 	she follows rambo out.
 1056_Rambo_00.24.57.842-00.25.02.685 	his own follows behind it, piloted by one of his men.
-1056_Rambo_00.55.34.000-00.55.43.900 	bn sneaks up to the cage, breaks open a chain on the door and motions the women to follow him quietly.
 1056_Rambo_00.58.20.132-00.58.24.688 	he waits a few seconds then follows them.
 1056_Rambo_00.59.25.730-00.59.31.120 	rambo follows sarah and the soldier.
-1056_Rambo_01.03.08.574-01.03.10.374 	his truck is followed by a pair of open-topped lorries packed with troopers.
-1056_Rambo_01.04.36.573-01.04.49.059 	the dogs are after the scent and they lead their handlers in a rapid pursuit, followed by a large body of their colleages
-1056_Rambo_01.13.33.436-01.13.36.775 	one of the volunteers gets away, followed by the commander who is armed with an automatic pistol.
 1056_Rambo_01.17.11.217-01.17.14.586 	school boy picks up his hefty weapon and follows her.
-1057_Seven_pounds_00.09.10.992-00.09.18.748 	he gets out of the lift and follows emily at a discreet distance.
 1057_Seven_pounds_00.09.27.123-00.09.41.522 	ben follows her.
-1057_Seven_pounds_01.10.30.600-01.10.39.472 	ben, whose shirt sleeves are rolled up to his elbows, follows her to double wooden doors.
 1057_Seven_pounds_01.17.54.873-01.17.56.875 	duke follows him into the workshop.
-1058_The_Damned_united_00.16.04.000-00.16.07.763 	brian pulls his suit jacket on as he and peter follow jimmy out of the wood-paneled office.
 1058_The_Damned_united_00.33.54.935-00.33.58.000 	brian and peter embrace as they follow the teams up the tunnel.
 1058_The_Damned_united_00.44.35.000-00.44.37.000 	jimmy follows brian into the leeds dressing room.
-1058_The_Damned_united_01.15.32.253-01.15.37.323 	brian makes to follow bremner into the dressing room, but has the door slammed in his face.
-1059_The_devil_wears_prada_00.02.16.810-00.02.22.969 	unfashionable andy, who is slender and has long, dark hair, walks out of her downtown apartment followed by a gaggle of young schoolchildren out on a trip.
 1059_The_devil_wears_prada_00.03.52.244-00.03.55.990 	andy follows emily.
 1059_The_devil_wears_prada_00.45.10.410-00.45.13.189 	andy follows miranda.
 1059_The_devil_wears_prada_00.47.07.000-00.47.12.000 	she follows their instructions and stashes the dry cleaning in the closet on the left.
-1059_The_devil_wears_prada_01.02.03.709-01.02.09.343 	inside at the benefit, emily and andy follow miranda around as she greets guests, prompting her as to who they are.
 1059_The_devil_wears_prada_01.15.37.907-01.15.42.411 	nate follows andy out.
 1059_The_devil_wears_prada_01.19.13.436-01.19.19.420 	andy follows miranda and nigel as they head into another function past the press pack.
-1060_Yes_man_00.27.04.737-00.27.10.457 	his eyes follow her as she goes.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.12.28.000-00.12.31.000 	hidden under the invisibility cloak, harry and griphook follow.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.26.37.020-00.26.41.486 	the others follow him down a staircase.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.41.15.811-00.41.20.029 	luna follows harry.
@@ -693,15 +447,10 @@
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.00.08.000-01.00.09.000 	hermione follows him.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.13.25.000-01.13.26.000 	hermione follows.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.15.13.000-01.15.24.993 	he follows the spinning basin, the pensieve, to the desk, where it lands, lightly.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.24.15.608-01.24.21.389 	they start to follow him.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.53.46.159-01.53.49.197 	ron follows her and stands on her other side.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.55.27.000-01.55.30.361 	ginny and the red-haired girl, lily, follow them.
 1062_Day_the_Earth_stood_still_00.18.32.396-00.18.39.273 	the scientists follow wearing hazmat protective suits.
 1062_Day_the_Earth_stood_still_00.42.34.000-00.42.40.132 	the heavy-set man notices and follows him.
-1062_Day_the_Earth_stood_still_00.56.13.000-00.56.20.932 	watched by jacob, she walks off following klaatu.
-1062_Day_the_Earth_stood_still_00.59.58.000-01.00.04.713 	she gets out of the car and follows the boy as he heads into the darkness.
 1062_Day_the_Earth_stood_still_01.10.26.474-01.10.31.875 	gort's glowing eye follows him.
-1062_Day_the_Earth_stood_still_01.13.24.402-01.13.31.000 	klaatu leads the way, followed by helen, trying to keep up and holding jacob's hand.
 1062_Day_the_Earth_stood_still_01.15.12.680-01.15.16.626 	klaatu follows at a leisurely pace.
 1062_Day_the_Earth_stood_still_01.16.15.042-01.16.18.000 	jacob hesitates then follows him.
 1062_Day_the_Earth_stood_still_01.24.32.901-01.24.38.202 	klaatu follows.
@@ -711,37 +460,24 @@
 2005_Signs_00.39.02.810-00.39.11.620 	they follow his stare to the kitchen table.
 2005_Signs_01.36.29.312-01.36.31.531 	merrill follows his eye line to the baseball bat mounted above him.
 2012_Unbreakable_01.01.14.823-01.01.15.709 	joseph follows him with the barrel of the handgun.
-2012_Unbreakable_01.22.37.746-01.22.45.350 	david lets him get about twenty feet away before deciding to follow him.
-2012_Unbreakable_01.24.49.517-01.24.55.338 	david looks up and follows the sound as it moves around above.
 2017_Bad_Santa_00.24.21.925-00.24.26.940 	the kid follows from a safe distance.
 2017_Bad_Santa_00.24.02.140-00.24.08.053 	willie and marcus walk across the huge empty parking lot, followed at a great distance by the kid.
-2017_Bad_Santa_00.24.42.259-00.24.55.047 	we follow his gaze all around the perimeter of the room until it connects with the drunken, glowering face of a hindustani troublemaker, sitting right across from him, startling willie for a moment.
-2017_Bad_Santa_00.38.43.419-00.39.04.437 	the kid follows willie like a puppy dog as willie checks out the house, bumping open doors, looking around.
 2017_Bad_Santa_00.52.48.824-00.52.50.596 	willie follows.
 2017_Bad_Santa_00.54.39.651-00.54.42.630 	willie follows marcus behind the wonderland backdrop.
 2017_Bad_Santa_01.26.54.033-01.26.58.505 	sound perspective through the stethoscope: hollow thunks followed by an unnaturally loud and present creeeeeeeeak.
-2026_Legion_00.35.34.482-00.35.48.247 	a hatch opens and out comes michael followed by bob, percy and kyle.
 2027_Les_Miserables_00.14.15.366-00.14.17.744 	follow the scraps of yellow paper as they dance in the wind then fall away into the void below.
-2027_Les_Miserables_00.14.27.327-00.14.29.161 	we follow this and accelerate upwards leaving valjean and the town of digne far below, towards the sun gloriously breaking through the heavens with the alps beyond.
-2027_Les_Miserables_00.35.40.466-00.35.42.153 	as valjean and fantine move away, javert stares after them, then turns and quietly instructs his assistant to follow after them.
 2027_Les_Miserables_01.01.43.479-01.01.43.776 	they follow it round a corner to find - a dead end.
 2027_Les_Miserables_01.23.09.982-01.23.15.779 	cosette follows.
 2027_Les_Miserables_01.23.42.447-01.23.54.070 	marius rushes down the street, eponine following.
 2027_Les_Miserables_01.47.03.785-01.47.05.219 	the landlady climbs the stairs, followed by gavroche.
 2027_Les_Miserables_02.24.06.736-02.24.09.442 	it's cosette entering, followed by marius.
-2034_Super_8_00.09.18.398-00.09.25.632 	rack focus to the paintbrush that comes into frame -- follow it to joe, holding the brush, at his desk, making a model.
-2034_Super_8_00.31.01.199-00.31.04.275 	alice follows, turns to joe.
-2034_Super_8_00.41.14.289-00.41.18.679 	angry izzy, 65, opens a new car hood: pieces of the engine ripped away, messy -- dolly with him, jack follows.
 2034_Super_8_01.05.18.905-01.05.21.422 	charles heads off -- joe follows.
-2034_Super_8_01.05.21.422-01.05.33.638 	as charles rides off with the film, joe follows -- and we boom up along the water tower as they go.
 2034_Super_8_01.06.04.610-01.06.06.346 	joe follows.
 2034_Super_8_01.27.36.278-01.27.41.254 	joe runs -- the others follow.
 2034_Super_8_01.35.31.042-01.35.36.259 	joe and alice follow.
-2040_The_Ugly_Truth_00.28.00.745-00.28.03.183 	mike exits the stage door and walks into the alley, followed by the confused camera crew.
 2040_The_Ugly_Truth_00.30.06.012-00.30.11.421 	confused by her reaction, he follows.
 2040_The_Ugly_Truth_00.32.03.492-00.32.07.751 	mike follows her.
 2040_The_Ugly_Truth_00.43.51.659-00.43.54.067 	the jumbotron camera follows the guy catching the fly, then finds abby and colin.
-2040_The_Ugly_Truth_01.28.05.736-01.28.09.724 	the cameraman follows the balloon as it slowly starts to rise.
 2041_This_is_40_00.00.49.078-00.00.51.029 	pete follows.
 2041_This_is_40_00.35.50.209-00.35.53.375 	pete follows.
 2041_This_is_40_00.48.22.539-00.48.24.908 	jodi follows her.
@@ -752,10 +488,8 @@
 2041_This_is_40_01.53.21.101-01.53.21.629 	sadie follows her.
 2041_This_is_40_01.55.32.987-01.55.33.866 	debbie follows him out the door and onto the front porch.
 2041_This_is_40_01.57.28.793-01.57.30.836 	joseph follows.
-2051_Harry_Potter_and_the_goblet_of_fire_01.10.19.132-01.10.26.532 	viktor krum is training, a group of girls are following him around.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_00.12.59.465-00.13.04.878 	as harry follows tom inside, he finds a snow white owl (hedwig) perched atop a chair.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_01.14.24.917-01.14.30.961 	harry makes to follow, then stops.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_01.27.54.515-01.27.57.329 	hermione and harry follow.
-2054_Harry_Potter_and_the_prisoner_of_azkaban_01.30.48.245-01.30.52.639 	harry looks down, follows the paw prints on the floor to a pair of filthy human feet.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_01.48.57.536-01.48.58.291 	annoyed, harry follows her gaze and blinks in disbelief.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_01.56.35.522-01.56.40.311 	we follow one, when buckbeak snags one.

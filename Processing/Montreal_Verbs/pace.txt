@@ -1,25 +1,13 @@
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS85 	00:07:06,00 --> 00:07:12,50 	she paces.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS537 	00:52:14,00 --> 00:52:21,50 	as it swiftly approaches them, someone signals to his pacing son.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS428 	01:01:14,00 --> 01:01:21,50 	later, someone stands by as someone paces the empty chamber.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS622 	01:27:32,00 --> 01:27:40,50 	someone angrily paces away.
 BAD_TEACHER.srt 	BAD_TEACHER_DVS235 	01:04:59,00 --> 01:05:07,50 	now she visits someone who paces.
-BURLESQUE.srt 	BURLESQUE_DVS647 	01:39:52,00 --> 01:39:59,50 	she looks out a window and spots someone pacing outside on his phone.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS195 	00:35:37,00 --> 00:35:43,50 	pacing in front of a long control panel, stark turns a dial.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS320 	01:00:32,00 --> 01:00:40,50 	in the darkened prisoners ward, a guard paces along a catwalk above circular jail cells.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS267 	01:05:25,00 --> 01:05:32,50 	pacing with aimless steps, someone smiles over a wad of bills.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS598 	01:23:04,00 --> 01:23:10,50 	then glances at the coffin and paces out.
 EASY_A.srt 	EASY_A_DVS188 	00:58:12,00 --> 00:58:18,50 	she paces in her office, a hand cupped over her mouth.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS271 	01:03:16,00 --> 01:03:21,50 	she paces and rifles through some papers.
-GREEN_ZONE.srt 	GREEN_ZONE_DVS340 	01:16:29,00 --> 01:17:03,50 	up ahead of it, someone 's envoy paces down a street then expectantly glances over his shoulder at someone.
-HUGO.srt 	HUGO_DVS69 	00:09:04,00 --> 00:09:13,50 	above them, the boy paces along a narrow catwalk, running across the tracks as a train leaves the station.
-HUGO.srt 	HUGO_DVS174 	00:24:31,00 --> 00:24:38,50 	wearing his leg brace, the station inspector paces down a staircase and surveys the crowd.
 HUGO.srt 	HUGO_DVS733 	01:47:42,00 --> 01:47:49,50 	someone peers down the stairs then at the large clockwork mechanism as he paces frantically.
-ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS386 	01:49:02,00 --> 01:49:08,50 	he paces away from her as she gives a fleeting smile.
 JACK_AND_JILL.srt 	JACK_AND_JILL_DVS360 	01:07:18,00 --> 01:07:24,50 	as he paces, wind buffets his 60s style floral dress.
 KNOCKED_UP.srt 	KNOCKED_UP_DVS169 	01:46:56,00 --> 01:47:00,50 	he paces in the hall.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS264 	00:50:19,00 --> 00:50:37,50 	he paces forward and leans tensely on a rail attaching the cell bars one to the next.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS432 	01:06:47,00 --> 01:06:52,50 	he paces the corner.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS712 	00:46:53,00 --> 00:46:58,50 	a teacher paces an aisle.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS100 	00:14:06,00 --> 00:14:14,50 	as someone walks through a door in one corner a shadowy figure paces deeper into the gloom.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS175 	00:29:25,00 --> 00:29:29,50 	someone turns away and paces restlessly.
-UGLY_TRUTH.srt 	UGLY_TRUTH_DVS620 	01:23:00,00 --> 01:23:13,50 	an assistant feeds a cable out from a news van, as a cameraman paces toward someone, who stands by a grounded balloon.

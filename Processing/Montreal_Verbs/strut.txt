@@ -1,21 +1,8 @@
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS58 	00:06:07,00 --> 00:06:12,50 	someone struts off.
-21_JUMP_STREET.srt 	21_JUMP_STREET_DVS80 	00:08:58,00 --> 00:09:04,50 	later, they strut into a police station passing two hookers.
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS217 	00:36:46,00 --> 00:36:50,50 	he struts off.
-21_JUMP_STREET.srt 	21_JUMP_STREET_DVS219 	00:37:01,00 --> 00:37:08,50 	he signals to the keyboardist then struts and twirls proudly across the small stage.
-BURLESQUE.srt 	BURLESQUE_DVS84 	00:08:13,00 --> 00:08:18,50 	the dancers rise and strut around the singer.
-BURLESQUE.srt 	BURLESQUE_DVS348 	00:47:43,00 --> 00:47:50,50 	as the band joins her, she struts toward the audience.
-BURLESQUE.srt 	BURLESQUE_DVS395 	00:55:12,00 --> 00:55:25,50 	she struts to the wall of mirrored panels behind the bar and strikes a pose.
 BURLESQUE.srt 	BURLESQUE_DVS742 	01:52:29,00 --> 01:52:44,50 	more dancers strut out from the revolving mirrored panels behind them.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS79 	00:11:58,00 --> 00:12:12,50 	female models lean against a red car as a dark-haired mustached man in a tuxedo struts onto the stage.
 DISTRICT_9.srt 	DISTRICT_9_DVS445 	00:50:01,00 --> 00:50:08,50 	a white hen and her chicks peck at the ground, while a rooster struts nearby.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS413 	01:59:11,00 --> 01:59:21,50 	later, the two detectives strut down a sidewalk.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS409 	01:19:11,00 --> 01:19:15,50 	someone struts away.
-KARATE_KID.srt 	KARATE_KID_DVS1090 	01:29:56,00 --> 01:30:21,50 	she struts toward someone, gives a shimmy, then pops her bent arms.
-KARATE_KID.srt 	KARATE_KID_DVS1411 	01:53:54,00 --> 01:54:00,50 	now, someone looks at someone, who struts onto a mat.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS212 	00:42:59,00 --> 00:43:11,50 	someone struts out of the room and presses an elevator call button.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS459 	01:24:36,00 --> 01:24:41,50 	she struts toward him, hand on her hip.
-THE_WATCH.srt 	THE_WATCH_DVS26 	00:04:29,00 --> 00:04:34,50 	strutting down an aisle, he wiggles his fingers and bobs his head.
-THE_WATCH.srt 	THE_WATCH_DVS169 	00:31:53,00 --> 00:31:58,50 	as they strut out, someone kicks a chair.
-THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS116 	00:20:25,00 --> 00:20:30,50 	she struts pass him and he follows.
-THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS204 	00:39:48,00 --> 00:39:57,50 	wearing shorts, a big comfy shirt, and a ponytail, she struts into the living room and turns on a flat screen tv.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS360 	00:41:11,00 --> 00:41:16,50 	someone struts up to the porch, munching a snack.

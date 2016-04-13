@@ -1,21 +1,10 @@
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS204 	00:35:20,00 --> 00:35:28,50 	our view rapidly switches between the two giggling cops.
 30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS34 	00:06:41,00 --> 00:06:45,50 	the lights switch on.
-500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS175 	00:31:29,00 --> 00:31:33,50 	someone switches off the bathroom light and approaches the bed.
 500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS371 	01:07:30,00 --> 01:07:34,50 	the camera switched off.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS259 	00:22:31,00 --> 00:22:38,50 	switching gears, someone releases the clutch and peels out after them.
-BURLESQUE.srt 	BURLESQUE_DVS542 	01:17:59,00 --> 01:18:06,50 	someone gazes after her with a small admiring nod, then switches off the spotlight.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS895 	01:27:48,00 --> 01:27:54,50 	someone switches off his radio and leaves the deserted after-hours kitchen.
-CHRONICLE.srt 	CHRONICLE_DVS58 	00:06:50,00 --> 00:06:59,50 	he reaches to the camera, switches off the light attachment, then lowers his defeated gaze and licks his lips.
 COLOMBIANA.srt 	COLOMBIANA_DVS552 	00:50:34,00 --> 00:50:38,50 	she switches on the lights.
-COLOMBIANA.srt 	COLOMBIANA_DVS946 	01:31:12,00 --> 01:31:18,50 	now the truck's headlights switch on and the vehicle pulls out of its spot.
-DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS316 	01:17:42,00 --> 01:17:53,50 	he switches a light on and looks at his workbench, which is cluttered with taxidermy paraphernalia and a picture of him with someone.
-DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS320 	01:18:07,00 --> 01:18:12,50 	he turns around and switches on another light.
-FLIGHT.srt 	FLIGHT_DVS235 	00:49:56,00 --> 00:50:02,50 	someone removes a blanket covering the windshield, and switches on the lights.
-FLIGHT.srt 	FLIGHT_DVS501 	01:12:31,00 --> 01:12:36,50 	someone covers someone with a blanket, then turns off the video and switches off the light.
 FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS192 	00:52:13,00 --> 00:52:18,50 	she switches off a lamp.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS356 	00:52:52,00 --> 00:53:01,50 	they embrace then switch sides and embrace again.
 GROWN_UPS.srt 	GROWN_UPS_DVS148 	00:45:06,00 --> 00:45:10,50 	they switch.
-HUGO.srt 	HUGO_DVS92 	00:11:56,00 --> 00:12:11,50 	inching around some stray pigeons, the boy climbs a stepladder beside the mechanism and switches on a lightbulb hanging from a chain.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS142 	00:24:55,00 --> 00:25:00,50 	someone switches off his bedside lamp.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS143 	00:25:00,00 --> 00:25:04,50 	someone switches off her lamp,
 JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS215 	01:14:57,00 --> 01:15:01,50 	he switches off the music.
@@ -23,21 +12,9 @@ KARATE_KID.srt 	KARATE_KID_DVS433 	00:39:08,00 --> 00:39:13,50 	two seats back, 
 MORNING_GLORY.srt 	MORNING_GLORY_DVS51 	00:08:21,00 --> 00:08:25,50 	she switches on the tv.
 MORNING_GLORY.srt 	MORNING_GLORY_DVS52 	00:08:25,00 --> 00:08:30,50 	she switches on another tv.
 MORNING_GLORY.srt 	MORNING_GLORY_DVS363 	01:20:09,00 --> 01:20:13,50 	she switches off the tv.
-NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS470 	01:26:17,00 --> 01:26:22,50 	someone switches off the car headlights and gets out, wearing a pretty pale lilac someone dress.
-RUBY_SPARKS.srt 	RUBY_SPARKS_DVS112 	00:20:15,00 --> 00:20:23,50 	moving through the foyer, he switches off the table lamp.
-RUBY_SPARKS.srt 	RUBY_SPARKS_DVS642 	01:32:09,00 --> 01:32:17,50 	he switches on a light then crouches over someone, feeling his brother's head and shoulders.
-SANCTUM.srt 	SANCTUM_DVS284 	00:57:09,00 --> 00:57:18,50 	someone grimly switches off his helmet lamp, so does someone.
-SANCTUM.srt 	SANCTUM_DVS445 	01:24:22,00 --> 01:24:29,50 	someone lifts his hand to the light on his own helmet and switches it off.
 SUPER_8.srt 	SUPER_8_DVS322 	00:58:36,00 --> 00:58:41,50 	suddenly, a movie projector switches on as the power returns.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS259 	00:38:59,00 --> 00:39:05,50 	someone sits at the radio and switches it on, then puts on a pair of headphones.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS180 	00:36:16,00 --> 00:36:23,50 	someone turns her back to him and switches off a lamp on a dresser.
-THE_CALL.srt 	THE_CALL_DVS961 	01:13:48,00 --> 01:13:54,50 	she switches the light to her other hand and reaches into her back pocket.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS429 	01:05:07,00 --> 01:05:12,50 	he switches on a lamp near someone's pillow.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS174 	00:21:31,00 --> 00:21:37,50 	he switches on a shadeless lamp then gestures to a wall.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS482 	00:55:17,00 --> 00:55:27,50 	he reaches in his pocket and switches off music playing in his earbuds.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS708 	01:18:12,00 --> 01:18:17,50 	then stops and switches on her taser.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1149 	02:01:19,00 --> 02:01:24,50 	she switches on the laptop
-THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS42 	00:10:13,00 --> 00:10:23,50 	after watching for a moment, someone switches off the tv and removes a packet of m&ms from his mother's bed before leaving the room.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS38 	00:04:49,00 --> 00:04:56,50 	in an office, a balding man switches off the feed.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS660 	01:31:27,00 --> 01:31:33,50 	someone pounces on him and switches off the lamp.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS282 	00:44:47,00 --> 00:44:56,50 	on his way out, he switches off the lights.

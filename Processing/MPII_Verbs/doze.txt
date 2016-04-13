@@ -1,8 +1,3 @@
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_03.03.30.340-03.03.31.127 	he is dozing.
-0030_The_Hustler_00.33.30.371-00.33.33.314 	even bert is dozing.
-0033_Amadeus_02.45.43.648-02.45.44.460 	salieri is dozing on the nearby child's bed.
-1002_Harry_Potter_and_the_Half-Blood_Prince_02.20.32.203-02.20.37.728 	it's of dumbledore dozing in his high-back chair, his head new portrait: on one side, his eyes closed.
-1006_Slumdog_Millionaire_00.39.54.980-00.40.02.520 	as the train speeds though the countryside, the two brothers doze on the roof, gripping each other's hands.
 1006_Slumdog_Millionaire_00.51.07.958-00.51.11.353 	salim also in uniform, dozes on a kitchen work top.
 1006_Slumdog_Millionaire_01.39.26.452-01.39.29.164 	srinivas throws water to dozing jamal.
 1037_The_Curious_Case_Of_Benjamin_Button_00.22.47.355-00.22.47.649 	benjamin dozes in a wicker-backed wheelchair.

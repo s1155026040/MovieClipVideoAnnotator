@@ -1,11 +1,11 @@
-0003_CASABLANCA_00.41.49.592-00.41.55.505 	They buy a newspaper and begin to read it.
-0006_Clerks_00.05.11.010-00.05.17.025 	DANTE waits on a customer (ACTIVIST) buying coffee.
-0010_Frau_Ohne_Gewissen_00.39.46.948-00.39.47.258 	Neff stops by the cashier's desk and buys a pack of cigarettes.
-0010_Frau_Ohne_Gewissen_01.29.41.581-01.29.43.222 	Keyes is standing there buying cigars.
-0017_Pianist_00.56.08.010-00.56.11.687 	The German policemen wander over to one of the stalls to buy fruit.
-0017_Pianist_00.56.11.687-00.56.17.594 	The moment they do so two Jewish workers scamper across to another stall to buy bread.
-0019_Pulp_Fiction_00.53.13.383-00.53.26.923 	Those fingers bring out a plastic bag with white powder inside, the madman that Vincent bought earlier from Lance.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.20.12.221-00.20.14.635 	A boy buys some.
+0003_CASABLANCA_00.41.49.592-00.41.55.505 	they buy a newspaper and begin to read it.
+0006_Clerks_00.05.11.010-00.05.17.025 	dante waits on a customer (activist) buying coffee.
+0010_Frau_Ohne_Gewissen_00.39.46.948-00.39.47.258 	neff stops by the cashier's desk and buys a pack of cigarettes.
+0010_Frau_Ohne_Gewissen_01.29.41.581-01.29.43.222 	keyes is standing there buying cigars.
+0017_Pianist_00.56.08.010-00.56.11.687 	the german policemen wander over to one of the stalls to buy fruit.
+0017_Pianist_00.56.11.687-00.56.17.594 	the moment they do so two jewish workers scamper across to another stall to buy bread.
+0019_Pulp_Fiction_00.53.13.383-00.53.26.923 	those fingers bring out a plastic bag with white powder inside, the madman that vincent bought earlier from lance.
+1002_Harry_Potter_and_the_Half-Blood_Prince_00.20.12.221-00.20.14.635 	a boy buys some.
 1024_Identity_Thief_00.12.16.063-00.12.20.545 	the redhead buys it.
-1040_The_Ugly_Truth_00.57.58.655-00.58.00.311 	in a coffee shop, colin buys coffees for abby and joy.
 1046_Australia_02.06.21.620-02.06.22.987 	fletcher signs the contract to buy faraway downs.
+2017_Bad_Santa_01.23.35.087-01.23.38.224 	he reaches in his pocket, pulls out the remote control lois bought, and aims it down into the room.

@@ -1,79 +1,24 @@
-0001_American_Beauty_00.28.36.165-00.28.38.019 	he looks at her intently, his eyes searching hers.
 0001_American_Beauty_00.39.53.889-00.39.57.210 	lester digs through stuff stored on the shelves, searching for something as if his very life depended on it.
-0001_American_Beauty_01.35.32.306-01.35.36.385 	she's obviously heard his argument with his father, and she looks into his eyes, searching, aware that something eventful is taking place.
-0003_CASABLANCA_00.03.38.744-00.03.48.483 	the policeman frantically searches the body, but only finds free french literature.
-0003_CASABLANCA_00.48.37.296-00.48.41.590 	her eyes are searching his face, but there is no expression on it except a cold and impassive one.
 0004_Charade_01.33.04.273-01.33.05.939 	searching in another section of the market.
-0005_Chinatown_01.47.50.741-01.47.54.323 	she looks at him, searching his face.
-0009_Forrest_Gump_00.18.42.555-00.18.46.083 	jenny's dad runs through the field searching for jenny with a liquor bottle in his hand.
 0009_Forrest_Gump_00.53.56.722-00.54.04.792 	forrest runs through the jungle searching for bubba.
 0011_Gandhi_01.12.58.611-01.12.59.898 	the magistrate searches the distant wall, the top of his desk, his twitching hands for an answer.
-0011_Gandhi_02.26.55.061-02.27.00.311 	gandhi walks along, bourke-white loping along beside him, a little distance away, listening, but searching too for an angle, a moment that is right.
-0013_Halloween_00.25.16.996-00.25.19.770 	for a moment laurie looks around cautiously before searching down the sidewalk again.
-0013_Halloween_00.55.21.100-00.55.22.209 	lindsey gets up from the couch to search for tommy.
-0014_Ist_das_Leben_nicht_schoen_01.20.20.178-01.20.22.582 	uncle billy searches through every pocket he has.
 0014_Ist_das_Leben_nicht_schoen_01.51.35.537-01.51.49.393 	george rapidly searches his pockets for identification, but without success.
-0017_Pianist_00.48.02.550-00.48.11.871 	they search their pockets and handbags, hand over to father what change they can find.
-0019_Pulp_Fiction_00.58.28.160-00.58.29.248 	as he continues searching, flipping and knocking over shit, jody appears in the doorway.
-0020_Raising_Arizona_00.48.30.865-00.48.32.888 	tracking on him as he runs down the broad front aisle, head whipping as he runs, looking up each perpendicular lane, searching for something.
 0021_Rear_Window_00.39.29.173-00.39.30.673 	the salesman completes his searching glance at the neighborhood.
-0021_Rear_Window_01.29.37.285-01.29.38.555 	she disappears down the lower corridor, as thorwald searches his fire escape.
-0021_Rear_Window_01.38.30.079-01.38.32.653 	lisa has dropped the bag on the bed and is now looking around the bedroom, looking for some place to start searching for the jewelry.
 0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.04.46.312-01.04.57.191 	sam and strider desperately search the dark forest floor for the athelas plant.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.39.36.395-02.39.37.908 	sam is gasping, his lungs exploding as he races up the slopes of mount doom searching for frodo.
-0026_The_Big_Fish_00.51.04.291-00.51.11.404 	edward checks in windows as cars pull out, searching for his fated love.
-0028_The_Crying_Game_00.44.42.843-00.44.43.996 	she looks this way and that, as if searching for fergus.
-0028_The_Crying_Game_01.35.58.430-01.36.03.456 	she searches through the pockets and takes out the gun.
-0030_The_Hustler_00.47.41.741-00.47.48.358 	as she searches through her purse for her keys, he reaches out and puts his hand on her shoulder.
-0032_The_Princess_Bride_00.56.43.437-00.56.48.620 	rugen is searching around.
-0033_Amadeus_01.54.10.174-01.54.12.489 	but he has eyes for only one man - he looks about him, searching for him and then finds him.
-0041_The_Sixth_Sense_01.38.34.144-01.38.39.832 	his eyes search again -- they finally lock on the wedding video playing.
-0050_Indiana_Jones_and_the_last_crusade_00.04.22.414-00.04.27.288 	as the robbers continue to search for additional valuables, indy is able to work his way unseen to within arm's reach of the cross.
-0050_Indiana_Jones_and_the_last_crusade_00.51.35.543-00.51.39.681 	indy leads henry down the hallway as he searches for elsa.
 0050_Indiana_Jones_and_the_last_crusade_00.55.22.530-00.55.27.176 	brody searches in his coat pocket for the map as a sinister man approaches.
 0050_Indiana_Jones_and_the_last_crusade_00.55.48.265-00.55.50.390 	sallah pats his clothing, searching for his papers.
-0050_Indiana_Jones_and_the_last_crusade_01.09.09.347-01.09.15.858 	indy pushes elsa against a column and begins to search her clothing for the diary.
-0051_Men_in_black_00.45.42.267-00.45.44.712 	kay is furiously searching through the tabs; jay is standing behind him, a little embarrassed.
-0053_Rendezvous_mit_Joe_Black_00.16.31.907-00.16.32.243 	frozen with surprise, parrish's eyes search the room for the source of the sound, it comes from no particular direction, yet surrounds him.
-0053_Rendezvous_mit_Joe_Black_00.26.29.962-00.26.37.433 	parrish is startled, he shrinks backward for a moment, his eyes searching the room for the voice, the timbre and pitch of which is exactly what he has heard before.
 0053_Rendezvous_mit_Joe_Black_02.50.39.031-02.50.42.321 	susan regards joe intently, searching his face for an answer.
-0053_Rendezvous_mit_Joe_Black_02.52.45.771-02.52.51.675 	she searches the young man's eyes, his face is open, completely vulnerable, waiting for her response.
-0053_Rendezvous_mit_Joe_Black_02.53.40.217-02.53.49.369 	the young man searches susan's face, now takes her hand -- and together they start back towards the party.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.20.02.750-01.20.07.882 	remus and tonks are still searching.
-1005_Signs_01.23.07.620-01.23.16.222 	sitting back down on the floor, he looks across at bo, and then, picks up his torch, using it to search the basement for the others.
-1015_27_Dresses_01.37.16.280-01.37.19.880 	she moves off through the guests, searching for kevin.
 1024_Identity_Thief_01.02.51.705-01.02.59.497 	diana searches the van.
-1024_Identity_Thief_01.19.37.155-01.19.43.807 	pulling equipment from her bag, diana hard-lines her credit card burner into the network as sandy searches the shelves.
 1027_Les_Miserables_01.01.48.250-01.01.55.158 	as javert searches along dark alleyways, valjean climbs to the top of a wall.
-1031_Quantum_of_Solace_00.19.40.290-00.19.44.178 	he goes to search the rooms.
-1033_Sherlock_Holmes_A_Game_of_Shadows_01.00.24.944-01.00.33.610 	they make their way past chefs, busy at worktops, until they're stopped and searched by some other man.
 1033_Sherlock_Holmes_A_Game_of_Shadows_01.25.42.030-01.25.50.475 	he searches through the debris.
-1034_Super_8_00.50.14.073-00.50.18.752 	the air force is searching the house the kids are filming in front of.
-1035_The_Adjustment_Bureau_00.45.25.530-00.45.28.441 	it reads disconnected, call failed, searching for signal.
-1044_Pride_And_Prejudice_Disk_Two_00.09.31.682-00.09.41.568 	lizzy watches him for a moment, looks down at the letter, then searches for a comfortable place in which to read it.
 1044_Pride_And_Prejudice_Disk_Two_01.34.39.399-01.34.40.839 	as he searches his pockets for coins, he asks her for directions.
-1044_Pride_And_Prejudice_Disk_Two_01.38.15.276-01.38.21.395 	meanwhile, mr. darcy is back out, searching the darkened streets, clutching a piece of paper in his hand.
-1046_Australia_02.19.04.055-02.19.09.664 	the japanese are searching the buildings on the beach.
-1047_Defiance_01.10.10.366-01.10.11.781 	dead germans are searched.
 1047_Defiance_01.19.18.342-01.19.19.082 	his eyes search her face.
-1047_Defiance_02.03.15.274-02.03.21.821 	with not one left standing, zus gets to his feet on the side of the tank, his eyes anxiously searching the trees.
-1049_Harry_Potter_and_the_chamber_of_secrets_01.31.28.136-01.31.31.561 	dumbledore gives him a searching look.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.57.12.641-00.57.16.581 	he searches drawers.
 1051_Harry_Potter_and_the_goblet_of_fire_02.14.03.748-02.14.08.353 	he searches the shelves.
 1052_Harry_Potter_and_the_order_of_phoenix_00.36.59.057-00.37.02.294 	searching for words, umbridge glances around the classroom.
 1052_Harry_Potter_and_the_order_of_phoenix_01.47.11.251-01.47.20.994 	by the light of his wand, harry searches the long, dark passages between the shelves.
 1053_Harry_Potter_and_the_philosophers_stone_01.28.55.861-01.29.11.675 	inside, he searches along more dark bookshelves.
-1055_Marley_and_me_01.29.05.788-01.29.11.927 	they use torches to search the rainy night.
-1055_Marley_and_me_01.30.22.256-01.30.31.114 	patrick glumly follows his mother as john continues to search outside.
-1056_Rambo_01.09.35.705-01.09.38.734 	school boy lifts his rifle off the tree and searches the area using the sight.
-1057_Seven_pounds_00.43.58.570-00.44.08.403 	she studies her pad thoughtfully, checks a document, then searches through more documents.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.26.00.616-00.26.13.904 	two death eaters search a covered market.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.57.39.000-00.57.42.000 	he roves around as he continues searching the vast space.
 2005_Signs_00.38.04.317-00.38.06.931 	his hands search over the ground in all directions.
-2005_Signs_01.31.51.625-01.31.53.028 	merrill nods as he begins to search the piles of things that have fallen from the cabinets.
 2026_Legion_00.04.08.004-00.04.11.098 	trench coat and a shirt back on, michael races along the endless racks of guns, searching for just the right weapons, his every movement precise, as if he's trained his whole life for this.
-2026_Legion_00.53.47.063-00.54.00.469 	michael is searching the horizon in front of the diner for movement.
-2026_Legion_00.56.15.506-00.57.02.298 	she is searching who is calling her name
 2034_Super_8_00.55.55.548-00.55.57.984 	nelec offers a vague, searching smile.
-2051_Harry_Potter_and_the_goblet_of_fire_01.33.15.449-01.34.33.145 	harry is still searching around.
-2054_Harry_Potter_and_the_prisoner_of_azkaban_00.48.55.702-00.48.57.561 	filch's rheumy eyes peer up, searching the upper shadows, then narrow.

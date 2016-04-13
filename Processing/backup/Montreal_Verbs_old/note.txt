@@ -1,0 +1,21 @@
+BURLESQUE.srt 	BURLESQUE_DVS207 	00:30:36,00 --> 00:30:41,50 	she notes someone in a stall.
+BURLESQUE.srt 	BURLESQUE_DVS649 	01:40:04,00 --> 01:40:09,50 	someone notes an address on the model:
+CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS133 	00:10:57,00 --> 00:11:02,50 	she notes the look of wonder on his face.
+DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS223 	00:56:12,00 --> 00:56:17,50 	someone notes someone's reaction.
+IN_TIME.srt 	IN_TIME_DVS482 	00:52:23,00 --> 00:52:33,50 	as someone beats the screen door, someone notes two and a half minutes left on her clock.
+IN_TIME.srt 	IN_TIME_DVS923 	01:37:28,00 --> 01:37:33,50 	someone glances at someone, noting her pained expression.
+ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS246 	01:10:30,00 --> 01:10:35,50 	notes the five settings on the table.
+JACK_AND_JILL.srt 	JACK_AND_JILL_DVS225 	00:45:03,00 --> 00:45:08,50 	someone notes her crestfallen look.
+JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS565 	01:51:34,00 --> 01:51:39,50 	in her office, someone posts note cards.
+MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS602 	01:11:35,00 --> 01:11:40,50 	she notes an empty seat beside someone.
+PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS220 	00:53:34,00 --> 00:53:40,50 	holding someone on his lap, someone notes his straining someone.
+RUBY_SPARKS.srt 	RUBY_SPARKS_DVS270 	00:41:15,00 --> 00:41:20,50 	someone notes their perplexed grins.
+THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS274 	00:52:34,00 --> 00:52:39,50 	she notes his distant expression.
+THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS850 	01:35:49,00 --> 01:35:56,50 	and notes a bleeding cut just above his right eyebrow.
+THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS988 	01:48:05,00 --> 01:48:11,50 	someone notes the time on a clock positioned above him.
+THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS44 	00:12:35,00 --> 00:12:40,50 	someone notes his webpage.
+THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS161 	00:57:06,00 --> 00:57:11,50 	he notes her stanford panty shorts.
+THE_VOW.srt 	THE_VOW_DVS209 	00:26:40,00 --> 00:26:48,50 	noting her husbands earnest expression, someone yields a shy smile.
+THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS58 	00:15:03,00 --> 00:15:09,50 	noting his disappointed look, someone turns away and collects her purchase.
+TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS420 	00:44:58,00 --> 00:45:04,50 	he scans the room, noting someone's hockey paraphernalia and average apartment, then sneers.
+WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS813 	01:54:23,00 --> 01:54:28,50 	someone notes her cousin's expression.

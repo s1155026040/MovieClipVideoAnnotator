@@ -1,33 +1,19 @@
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS567 	01:28:51,00 --> 01:28:56,50 	someone pistol whips someone.
 30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS258 	01:01:31,00 --> 01:01:36,50 	someone whips him with the cord.
-30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS342 	01:15:51,00 --> 01:15:58,50 	as the mustang drives off, someone takes off his jacket and whips it at the flaming tank.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS761 	01:15:32,00 --> 01:15:40,50 	he lowers the phone from his ear and whips it at the wall.
 BURLESQUE.srt 	BURLESQUE_DVS230 	00:33:52,00 --> 00:33:57,50 	she whips her hair back and steps forward.
-BURLESQUE.srt 	BURLESQUE_DVS239 	00:34:27,00 --> 00:34:36,50 	a smiling someone points her knees and pops out her hands, then swings her arms, shakes her hips, and whips her hair back.
-BURLESQUE.srt 	BURLESQUE_DVS501 	01:09:33,00 --> 01:09:39,50 	spreading their legs, the dancers bend over and whip their hair.
 CHRONICLE.srt 	CHRONICLE_DVS179 	00:26:52,00 --> 00:26:56,50 	someone whips off his jacket.
-COLOMBIANA.srt 	COLOMBIANA_DVS1030 	01:37:33,00 --> 01:37:39,50 	she whips the towel at his hand and knocks the gun into the tub.
 COLOMBIANA.srt 	COLOMBIANA_DVS1031 	01:37:36,00 --> 01:37:41,50 	as she whips at him, he dodges
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS239 	00:38:06,00 --> 00:38:30,50 	he whips his chain at three of them and they disintegrate into flames and ash.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS239 	00:38:06,00 --> 00:38:30,50 	ghost rider whips him in half.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS239 	00:38:06,00 --> 00:38:30,50 	as another guard pulls the pin on a grenade, ghost rider whips him and the grenade drops.
 HUGO.srt 	HUGO_DVS258 	00:36:25,00 --> 00:36:32,50 	the inspector whips the leash around the boy's ankle.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS147 	00:25:24,00 --> 00:25:29,50 	she whips the sauce.
-KARATE_KID.srt 	KARATE_KID_DVS854 	01:10:27,00 --> 01:10:34,50 	whipping it off, he flings it back onto the peg with a grouchy sarcastic smile.
-KARATE_KID.srt 	KARATE_KID_DVS912 	01:14:18,00 --> 01:14:24,50 	he pauses, then spins it off and whips it around his body again.
-KARATE_KID.srt 	KARATE_KID_DVS1268 	01:42:42,00 --> 01:42:48,50 	someone whips the poles around and moves the boy into another stance.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS864 	01:27:03,00 --> 01:27:10,50 	as a large wave sprays over, strong wind whips it away.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS219 	00:40:34,00 --> 00:40:47,50 	someone whips out his gun and peers at a car parked in the alley.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS52 	00:14:12,00 --> 00:14:17,50 	then whips off the first cup.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS280 	01:06:59,00 --> 01:07:06,50 	she whips the curtains shut and someone plods over to the bedding with the dogs.
 SALT.srt 	SALT_DVS64 	00:13:15,00 --> 00:13:23,50 	the spymaster whips him savagely.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS692 	01:32:42,00 --> 01:32:48,50 	someone turns his back on someone and whips his blade through the air.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS345 	01:04:08,00 --> 01:04:31,50 	one ball buzzes low over his head and a fourth whips past his nose.
-THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS297 	00:54:37,00 --> 00:54:45,50 	someone whips around and shoots players surrounding him.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS354 	01:04:16,00 --> 01:04:33,50 	he whips off his blue button down shirt.
 THOR.srt 	THOR_DVS570 	01:28:56,00 --> 01:29:02,50 	someone and the others retreat as strong winds whip up loose someone.
-TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS218 	00:28:15,00 --> 00:28:20,50 	someone gets whipped cream and strawberries from the fridge.
-TRUE_GRIT.srt 	TRUE_GRIT_DVS163 	00:36:56,00 --> 00:37:01,50 	someone blows out cigarette smoke as he observes, he whips her.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS315 	00:51:42,00 --> 00:51:48,50 	both men whip out notepads in unison.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS326 	00:52:58,00 --> 00:53:10,50 	from a hip holster, someone whips out an electric tape measure.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS130 	00:08:30,00 --> 00:08:35,50 	every metal object in the room whips around chaotically.

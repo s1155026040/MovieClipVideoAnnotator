@@ -1,9 +1,5 @@
 COLOMBIANA.srt 	COLOMBIANA_DVS877 	01:23:19,00 --> 01:23:24,50 	her rifle bundled in a large sack.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS454 	00:51:46,00 --> 00:51:54,50 	later, using ropes and netting, he bundles the life jackets together into a small, makeshift raft.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS98 	00:23:52,00 --> 00:23:59,50 	the bundled letters hovers safely over the flames.
-NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS458 	01:34:24,00 --> 01:34:33,50 	our view sweeps out to the field where someone stands among a vast and tidy arrangement of the baled and bundled crops.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS405 	01:18:51,00 --> 01:18:56,50 	upstairs, baby face bundles cash.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS29 	00:04:30,00 --> 00:04:45,50 	they tote small game bundled upside down on strings.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1206 	01:21:18,00 --> 01:21:23,50 	she bundles up the fans and carries them away.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS503 	00:56:47,00 --> 00:56:52,50 	bundled up with her hood over her head
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1410 	02:31:33,00 --> 02:31:41,50 	the card's cover shows a horse bending its neck down as a child bundled against the cold pats its head.

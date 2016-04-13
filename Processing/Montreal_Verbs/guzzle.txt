@@ -1,5 +1,1 @@
-GET_HIM_TO_THE_GREEK.srt 	GET_HIM_TO_THE_GREEK_DVS62 	00:33:35,00 --> 00:33:42,50 	someone glances at the half burnt down joint, then guzzles from a crystal decanter.
-GROWN_UPS.srt 	GROWN_UPS_DVS247 	01:12:31,00 --> 01:12:38,50 	someone gets another jug from the fridge and both men guzzle their water.
 GROWN_UPS.srt 	GROWN_UPS_DVS251 	01:12:48,00 --> 01:12:55,50 	they guzzle again.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS470 	01:09:26,00 --> 01:09:32,50 	someone comes back out, guzzling water from a bottle.
-THOR.srt 	THOR_DVS429 	01:08:38,00 --> 01:08:44,50 	eyeing one another over the tops of their glasses, both men guzzle.

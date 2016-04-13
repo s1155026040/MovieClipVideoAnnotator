@@ -1,0 +1,9 @@
+BRUNO.srt 	BRUNO_DVS52 	00:10:13,00 --> 00:10:31,50 	his script at his side, someone shifts his haunted wide-eyed gaze.
+DEAR_JOHN.srt 	DEAR_JOHN_DVS535 	01:16:39,00 --> 01:16:45,50 	someone's haunted stare holds steady on the mess.
+IN_TIME.srt 	IN_TIME_DVS113 	00:12:48,00 --> 00:12:57,50 	as someone turns away, someone stares ahead with a haunted expression.
+LIFE_OF_PI.srt 	LIFE_OF_PI_DVS1104 	01:55:03,00 --> 01:55:09,50 	he stares off with a haunted expression and takes a deep breath.
+XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS151 	00:09:43,00 --> 00:09:50,50 	clad in a bathrobe, he stares ahead with a haunted expression.
+XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS417 	00:36:04,00 --> 00:36:10,50 	the haunted man regards him with a furrowed brow.
+ZOMBIELAND.srt 	ZOMBIELAND_DVS654 	01:13:43,00 --> 01:13:49,50 	he kills one then heads toward the entrance of a haunted house.
+ZOMBIELAND.srt 	ZOMBIELAND_DVS673 	01:14:53,00 --> 01:14:59,50 	at the haunted house, someone enters a dusty room.
+ZOMBIELAND.srt 	ZOMBIELAND_DVS694 	01:16:26,00 --> 01:16:33,50 	meanwhile, someone races from the haunted house exit with three zombies on his tail.

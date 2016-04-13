@@ -1,0 +1,4 @@
+500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS353 	01:03:59,00 --> 01:04:07,50 	the sun sets in a blaze of orange on a hilly shoreline and the wedding guests dance into the night.
+DEAR_JOHN.srt 	DEAR_JOHN_DVS763 	01:40:30,00 --> 01:40:36,50 	in a flashback, guests greet someone at a casual party.
+SALT.srt 	SALT_DVS294 	00:51:25,00 --> 00:51:45,50 	in the cathedral, guests panic.
+WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS622 	01:25:05,00 --> 01:25:16,50 	now on a lawn set with tables for an outdoor reception, the wedding guests dance on a large elevated dance floor constructed in the style of a gazebo.

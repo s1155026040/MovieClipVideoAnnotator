@@ -1,10 +1,2 @@
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS656 	01:40:14,00 --> 01:40:18,50 	he salutes someone.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS91 	00:14:35,00 --> 00:14:40,50 	someone salutes then walks off after the girls.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS269 	00:49:10,00 --> 00:49:20,50 	the women salute as they march.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS389 	01:11:21,00 --> 01:11:25,50 	someone stalks through the crowd and approaches someone who salutes him.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS451 	01:20:45,00 --> 01:20:50,50 	someone looks up at someone and salutes him.
-EASY_A.srt 	EASY_A_DVS99 	00:33:34,00 --> 00:33:40,50 	someone salutes him, then stuffs them in his pocket.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS524 	01:35:15,00 --> 01:35:21,50 	someone surveys the audience, then salutes.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS525 	01:35:18,00 --> 01:35:23,50 	behind him, the drones and someone also salute.
-NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS283 	01:02:56,00 --> 01:03:03,50 	they pass a row of red-coated guards who salute someone.
-NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS305 	01:06:16,00 --> 01:06:21,50 	she salutes, then heads over.

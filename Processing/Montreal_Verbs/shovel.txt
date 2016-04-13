@@ -1,9 +1,5 @@
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS473 	00:45:43,00 --> 00:45:48,50 	now, the teen shovels food into his mouth.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS144 	00:31:55,00 --> 00:32:03,50 	as a man shovels snow outside a dress shop, someone arrives.
-DISTRICT_9.srt 	DISTRICT_9_DVS453 	00:51:15,00 --> 00:51:23,50 	using two fingers, he shovels the moist cat food into his mouth.
-ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS326 	01:33:02,00 --> 01:33:13,50 	forking up a morsel of food he pours syrup right onto it then shovels it to his mouth, someone gapes.
-JACK_AND_JILL.srt 	JACK_AND_JILL_DVS449 	01:22:59,00 --> 01:23:07,50 	someone and his kids finished shoveling the yard.
-LARRY_CROWNE.srt 	LARRY_CROWNE_DVS24 	00:07:19,00 --> 00:07:38,50 	an open doorway shows a glimpse of someone shoveling through the house.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS962 	01:35:09,00 --> 01:35:15,50 	tears up more of the leafy bits and shovels them into his mouth.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS486 	00:59:12,00 --> 00:59:18,50 	later, he shovels snow from his terrace into his apartment.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS825 	00:54:54,00 --> 00:55:00,50 	the butcher glowers over his bowl as he shovels food into his mouth.

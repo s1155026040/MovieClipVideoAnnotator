@@ -1,27 +1,17 @@
-0005_Chinatown_00.50.26.772-00.50.27.632 	Then he gently tugs the car door closed.
-0006_Clerks_00.54.13.450-00.54.13.975 	A KID tugs at JAY'S shirt.
-0007_DIE_NACHT_DES_JAEGERS_00.44.18.079-00.44.22.330 	He sits back, tugging unconcernedly at the line.
-0012_Get_Shorty_00.28.55.877-00.28.58.377 	Harry is tugging the string to lower the blinds behind the desk.
-0014_Ist_das_Leben_nicht_schoen_01.35.20.314-01.35.29.336 	He crosses the street, tugs at the door of his old car, finally steps over the door, and drives off.
-0021_Rear_Window_01.50.13.985-01.50.16.602 	Stella tugs at Doyle's arm and stands on tiptoe to whisper something into his ear.
-0023_THE_BUTTERFLY_EFFECT_00.32.34.096-00.32.35.596 	Lenny moves toward the gunny sack, lifts it and tugs desperately on the rope that traps Crockett inside.
-0027_The_Big_Lebowski_00.24.25.139-00.24.25.915 	Brandt tugs at the Dude's shirt and points him back to the hall.
-0032_The_Princess_Bride_00.19.27.175-00.19.30.898 	He tugs off his leather boots and is amazed to see several large rocks tumble out.
-0050_Indiana_Jones_and_the_last_crusade_01.27.02.424-01.27.08.747 	Now Brody tugs his ears, flaps his arms and touches his head.
-0051_Men_in_black_00.11.58.723-00.11.59.101 	He tugs on another.
-1002_Harry_Potter_and_the_Half-Blood_Prince_02.01.55.482-02.02.00.195 	Harry tugs with greater vigor, hauling the boat towards them.
-1006_Slumdog_Millionaire_00.40.39.255-00.40.43.926 	The father violently tugs Jamal and he loses his grip and falls from the train, pulling Salim with him.
+0005_Chinatown_00.50.26.772-00.50.27.632 	then he gently tugs the car door closed.
+0007_DIE_NACHT_DES_JAEGERS_00.43.49.828-00.44.04.510 	it descends, and catches on the windshield, and the line tautens; then tugs.
+0007_DIE_NACHT_DES_JAEGERS_00.44.18.079-00.44.22.330 	he sits back, tugging unconcernedly at the line.
+0012_Get_Shorty_00.28.55.877-00.28.58.377 	harry is tugging the string to lower the blinds behind the desk.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.02.45.121-02.02.54.949 	denethor leaps across the pyre, ripping and tugging at pippin!
+0032_The_Princess_Bride_00.19.27.175-00.19.30.898 	he tugs off his leather boots and is amazed to see several large rocks tumble out.
+0033_Amadeus_01.54.10.006-01.54.11.974 	they tug and pat him.
+0051_Men_in_black_00.11.58.723-00.11.59.101 	he tugs on another.
+1006_Slumdog_Millionaire_00.40.39.255-00.40.43.926 	the father violently tugs jamal and he loses his grip and falls from the train, pulling salim with him.
 1007_Spider-Man1_01.21.42.197-01.21.49.383 	she places her fingertips on the roll of the mask and tugs it back into place.
 1009_Spider-Man3_01.03.04.423-01.03.07.935 	she tugs at the door.
 1009_Spider-Man3_01.10.51.648-01.10.56.677 	he tugs down his floppy forelock and stares intently at his reflection.
 1009_Spider-Man3_02.04.30.358-02.04.33.054 	peter desperately tugs at the black threads holding his wrists.
-1039_The_Queen_01.08.51.531-01.08.54.474 	later, in the kitchen, the queen sits back and tugs at her scarf around her neck.
 1048_Gran_Torino_01.07.41.217-01.07.47.460 	he tugs away, then gives it up as a bad job.
-1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.58.54.824-00.58.56.895 	harry tugs ron's lapel.
-1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.17.35.159-01.17.37.932 	ron tugs off the locket and throws it down.
-1057_Seven_pounds_01.08.52.668-01.09.00.710 	he angrily tugs at his seat belt to fasten it, then screams.
-1057_Seven_pounds_01.09.51.140-01.10.01.604 	he tugs out more weeds.
-1060_Yes_man_00.37.52.051-00.37.54.410 	he tugs at his shirt.
 1057_Seven_pounds_01.08.52.668-01.09.00.710 	he angrily tugs at his seat belt to fasten it, then screams.
 1057_Seven_pounds_01.09.51.140-01.10.01.604 	he tugs out more weeds.
 1060_Yes_man_00.37.52.051-00.37.54.410 	he tugs at his shirt.

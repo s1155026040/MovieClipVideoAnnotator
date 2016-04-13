@@ -1,10 +1,5 @@
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS492 	01:25:50,00 --> 01:25:58,50 	dried blood stains the floor beneath the table.
 IN_TIME.srt 	IN_TIME_DVS214 	00:22:15,00 --> 00:22:24,50 	two men in all black drag someone's body from the shallow stream of water in the otherwise dried up canal.
 IN_TIME.srt 	IN_TIME_DVS682 	01:14:03,00 --> 01:14:07,50 	now, in her complex's courtyard, greta hangs laundry to dry on a line.
-KARATE_KID.srt 	KARATE_KID_DVS472 	00:42:10,00 --> 00:42:30,50 	following someone, the group races behind residential buildings, where drying clothes hang on lines.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS608 	01:54:25,00 --> 01:54:38,50 	he dries his hands with a towel and leads the way through the house to the front door.
-SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS309 	01:03:28,00 --> 01:03:34,50 	someone finishes taking a shower and towels dry.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS307 	00:58:58,00 --> 00:59:02,50 	the boy dries his face
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS341 	01:07:03,00 --> 01:07:11,50 	vivian smiles in his doorway drying her hands on a towel.
-THE_CALL.srt 	THE_CALL_DVS1025 	01:18:15,00 --> 01:18:22,50 	a dried red drip of blood remains on the mannequin forehead.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS221 	00:38:14,00 --> 00:38:19,50 	dried blood rims one of his nostrils.

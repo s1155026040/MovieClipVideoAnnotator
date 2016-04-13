@@ -1,0 +1,6 @@
+JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS549 	01:49:06,00 --> 01:49:14,50 	steam surges upward.
+LIFE_OF_PI.srt 	LIFE_OF_PI_DVS868 	01:27:22,00 --> 01:27:35,50 	rain pounds down as the boat rocks between surging waves.
+LIFE_OF_PI.srt 	LIFE_OF_PI_DVS876 	01:28:29,00 --> 01:28:37,50 	someone continues unhooking the canvas as the boat ramps off surging waves.
+THOR.srt 	THOR_DVS251 	00:34:16,00 --> 00:34:23,50 	in one photograph, the shadowy figure of a man drifts inside surging storm currents.
+WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS785 	01:51:32,00 --> 01:51:41,50 	gazing down the road, someone sees long lines of people surging forward around the parked cars.
+XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS709 	01:04:04,00 --> 01:04:09,50 	it spreads to the wall, then surges around the room

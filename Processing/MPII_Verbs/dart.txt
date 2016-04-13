@@ -1,17 +1,7 @@
-0011_Gandhi_00.34.25.916-00.34.26.739 	he lands heavily, scrambles up, furious, darts after it.
-0011_Gandhi_01.41.05.166-01.41.09.739 	featuring the two british soldiers -- later -- on the edge of the crowd, staring off, their faces now brightly lit by darting flames.
-0013_Halloween_00.43.55.418-00.43.56.282 	the shape darts away from the kitchen window, the dog snapping right after him.
 0017_Pianist_01.29.00.550-01.29.06.507 	he darts down a side street.
-0023_THE_BUTTERFLY_EFFECT_00.19.51.929-00.19.56.600 	kayleigh, repulsed, suddenly darts from the aisle and runs out.
-0023_THE_BUTTERFLY_EFFECT_00.25.06.611-00.25.10.763 	evan painfully looks up from the ground and his eyes dart from the sight of kayleigh, unconscious, to crockett, trapped in the tied gunny sack.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.46.37.270-00.46.38.743 	the ringwraith spins around at the sound, and darts to the far side of the road with frightening speed.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.37.31.305-01.37.34.552 	legolas' eyes are fixed on a distant dark patch which darts about the sky, like flying smoke in the wind.
 0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.49.33.777-01.49.36.791 	a sudden glimpse of a creature darting in the darkness.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.35.49.709-02.35.52.182 	frodo is darting down the steep hillside as heave feet thunder down behind him.
 0029_The_Graduate_00.21.46.725-00.21.49.643 	mr. braddock darts back to the window.
-0030_The_Hustler_00.18.57.652-00.19.03.466 	we see fats' bejeweled fingers curl around the cue stick, the stick then darting out to send a ball caroming off a far bank and into a side pocket.
 1001_Flight_01.26.35.908-01.26.39.942 	whip's eyes dart up and down.
-1003_How_to_Lose_Friends_and_Alienate_People_01.20.48.959-01.20.53.447 	hearing alison cross the office, he darts for a fire exit, setting off the alarm.
 1005_Signs_00.02.24.104-00.02.28.433 	his eyes darting feverishly around the simply furnished room.
 1005_Signs_00.37.06.910-00.37.10.076 	his eyes dart about.
 1005_Signs_01.15.48.848-01.15.50.161 	graham's eyes dart nervously around.
@@ -21,20 +11,8 @@
 1020_Crazy_Stupid_Love_01.01.29.281-01.01.31.420 	his eyes dart around.
 1027_Les_Miserables_02.03.48.062-02.03.50.412 	javert frowns and his eyes dart about wildly.
 1028_No_Reservations_01.21.44.655-01.21.51.000 	they dart across a busy street to a chinese vegetable shop.
-1028_No_Reservations_01.29.52.632-01.29.54.810 	zoe's eyes dart around as she thinks.
-1035_The_Adjustment_Bureau_01.26.50.301-01.26.53.399 	he slides it along the table as he darts through the checkpoint.
-1037_The_Curious_Case_Of_Benjamin_Button_00.10.47.044-00.10.52.358 	the policeman glances left and right, then gathers speed, as thomas darts through a gateway in a concrete wall.
-1037_The_Curious_Case_Of_Benjamin_Button_02.16.26.439-02.16.29.240 	he darts down the basement stairs to daisy who lies sprawled on the bloodstained floor beside a wash basket.
 1038_The_Great_Gatsby_00.09.45.906-00.09.49.800 	her eyes dart nervously.
-1041_This_is_40_00.06.47.814-00.06.50.296 	a car darts out and nearly hits them.
-1043_Vantage_Point_00.28.31.510-00.28.33.891 	he darts into the road as an ambulance approaches.
 1043_Vantage_Point_00.40.59.156-00.41.01.823 	his eyes roam frantically and he darts down a parallel street.
 1047_Defiance_02.03.27.253-02.03.32.720 	tuvia emerges from out of the hazy smoke, his piercing blue eyes darting from side to side.
-1057_Seven_pounds_01.07.16.000-01.07.18.000 	ben's eyes dart about as he thinks.
 1060_Yes_man_00.27.25.949-00.27.29.715 	his eyes dart around nervously.
-1060_Yes_man_00.49.17.119-00.49.18.640 	he snaps them with his phone, then darts off again.
-2012_Unbreakable_01.19.51.909-01.19.58.088 	david's eyes dart up as the slicked haired man turns the corner at the information booth.
-2017_Bad_Santa_00.28.39.791-00.28.45.705 	willie answers absently, his head slightly ducked and his eyes darting side to side, checking for road signs.
-2041_This_is_40_01.07.15.438-01.07.22.289 	she sees a kid and darts over to him.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_01.35.23.539-01.35.26.768 	pettigrew's small, watery eyes dart toward the windows and door.
-2054_Harry_Potter_and_the_prisoner_of_azkaban_01.39.43.714-01.39.46.250 	pettigrew's eyes dart, taking in the situation, then slowly shift, note the wand trembling in lupin's lengthening fist.

@@ -1,4 +1,9 @@
-0021_Rear_Window_01.15.28.868-01.15.30.843 	She replies with some sarcasm.
-0032_The_Princess_Bride_00.38.25.568-00.38.31.421 	The Man In Black is about to reply as they stand there on the edge of the sheer ravine.
-0032_The_Princess_Bride_00.44.17.818-00.44.23.907 	Buttercup, perplexed, is about to reply but the ground she steps on gives way--it's Lightning Sand--a great patch of it, and it has her--a cloud of powder rises and she sinks into the stuff crying Westley's name but then she is gone as we.
-0051_Men_in_black_00.06.04.619-00.06.09.329 	MIKEY replies -- an unfathomable combination of GRUNTS, SQUEAKS, and saliva.
+0005_Chinatown_01.04.13.533-01.04.19.728 	cross starts to reply, then there's the sound of a mariachi band and some men in formation clear a bluff about a hundred yards off.
+0021_Rear_Window_01.15.28.868-01.15.30.843 	she replies with some sarcasm.
+0021_Rear_Window_01.34.10.823-01.34.11.489 	he hangs up before thorwald can reply.
+0032_The_Princess_Bride_00.38.25.568-00.38.31.421 	the man in black is about to reply as they stand there on the edge of the sheer ravine.
+0032_The_Princess_Bride_00.44.17.818-00.44.23.907 	buttercup, perplexed, is about to reply but the ground she steps on gives way--it's lightning sand--a great patch of it, and it has her--a cloud of powder rises and she sinks into the stuff crying westley's name but then she is gone as we.
+0033_Amadeus_02.22.41.239-02.22.44.567 	he will not look at her or reply.
+2054_Harry_Potter_and_the_prisoner_of_azkaban_00.04.40.592-00.05.03.519 	aunt marge starts to reply, when -- zing!
+2054_Harry_Potter_and_the_prisoner_of_azkaban_01.20.03.557-01.20.05.731 	stung, hermione starts to reply, but -- remarkably -- seems incapable of a single word.
+2054_Harry_Potter_and_the_prisoner_of_azkaban_01.47.39.621-01.47.44.840 	but hermione doesn't reply, instead looping the pendant's long chain around harry's neck as well as her own.

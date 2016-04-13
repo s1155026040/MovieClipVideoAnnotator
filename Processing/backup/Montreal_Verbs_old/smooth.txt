@@ -1,0 +1,17 @@
+BLINDDATING.srt 	BLINDDATING_DVS81 	00:24:48,00 --> 00:24:59,50 	now, outside an apartment building, someone smooths his hair and suit.
+BURLESQUE.srt 	BURLESQUE_DVS316 	00:43:51,00 --> 00:43:56,50 	as she smooths the final crease, creating its wings,
+CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS123 	00:09:46,00 --> 00:09:51,50 	now, he duct tapes the seam, flips the board over and smooths it across the other side.
+CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS438 	01:45:22,00 --> 01:45:30,50 	he smooths someone's hair and kisses her.
+DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS326 	01:18:42,00 --> 01:18:47,50 	and smooths the fur on its head.
+KARATE_KID.srt 	KARATE_KID_DVS1442 	01:57:00,00 --> 01:57:15,50 	his opponent smooths his mohawk and straightens his gi.
+LARRY_CROWNE.srt 	LARRY_CROWNE_DVS178 	00:40:39,00 --> 00:40:53,50 	someone smoothes his new do, rubbing the sides forward and padding down the back.
+NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS128 	00:29:20,00 --> 00:29:42,50 	she sets the now clean teapot on the table, then turns her back to the door again and smooths a clock at a sideboard.
+NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS168 	00:37:38,00 --> 00:37:43,50 	she smooths putty at the seam.
+RUBY_SPARKS.srt 	RUBY_SPARKS_DVS180 	00:29:23,00 --> 00:29:29,50 	she eyes him uncertainly then smooths her hair.
+SPARKLE_2012.srt 	SPARKLE_2012_DVS155 	00:26:52,00 --> 00:26:56,50 	someone frowns and smooths his shirt.
+THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS248 	00:47:28,00 --> 00:47:39,50 	with a sour look, he rejects the calls then smooths the front of his shirt and folds his hands behind his head.
+THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS307 	00:46:42,00 --> 00:46:48,50 	catching his breath, he smooths his graying hair and steps away.
+THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS75 	00:26:33,00 --> 00:26:40,50 	someone licks a few fingers, and attempts to reach over and smooth someone's hair.
+UGLY_TRUTH.srt 	UGLY_TRUTH_DVS414 	00:50:29,00 --> 00:50:37,50 	someone sips from her glass and idly smoothes her hair, then notices the gift on the coffee table.
+UGLY_TRUTH.srt 	UGLY_TRUTH_DVS564 	01:14:58,00 --> 01:15:04,50 	she smoothes out her dress, fluffs her hair, and hurries to the door.
+YOUNG_ADULT.srt 	YOUNG_ADULT_DVS134 	00:23:46,00 --> 00:23:54,50 	standing in a mirror, she rubs foundation onto her face then smooths it with a make-up brush.

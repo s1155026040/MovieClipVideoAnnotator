@@ -3,39 +3,22 @@
 500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS119 	00:24:30,00 --> 00:24:34,50 	day 28 becomes day 31
 500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS398 	01:10:31,00 --> 01:10:36,50 	the city becomes a grey, black and white drawing
 500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS469 	01:19:01,00 --> 01:19:08,50 	day 450 becomes days 456 to 476.
-500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS514 	01:23:40,00 --> 01:23:44,50 	becoming serious, he stares at her.
 500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS544 	01:30:28,00 --> 01:30:33,50 	day 500 becomes day 1.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS396 	00:56:25,00 --> 00:56:32,50 	the high mural becomes an animated depiction of slavery throughout world history.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS509 	01:11:39,00 --> 01:11:55,50 	our view zooms in on a red stain north of gettysburg which becomes a smoking field beneath an overcast sky.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS562 	01:18:45,00 --> 01:18:56,50 	it becomes a locomotive speeding along a track in the darkness.
-FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS33 	00:09:10,00 --> 00:09:22,50 	as we peer out from the lobby through its glass doors, day becomes night.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS206 	00:32:48,00 --> 00:32:54,50 	part of his face becomes skeletal then morphs back.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS298 	00:46:01,00 --> 00:46:07,50 	his expression becomes flat and he stares out lifelessly.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS301 	00:46:21,00 --> 00:46:27,50 	the left side of someone's face becomes withered and wrinkled,
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS315 	00:47:46,00 --> 00:47:53,50 	he presses a hand to the man's face which becomes dark with rotting flesh.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS323 	00:48:54,00 --> 00:49:02,50 	someone glances at the passing landscape, his face becoming somber.
-HUGO.srt 	HUGO_DVS52 	00:06:12,00 --> 00:06:22,50 	as he rapidly flips the pages, the drawings become an animation of the automaton turning its head.
 HUGO.srt 	HUGO_DVS412 	01:01:03,00 --> 01:01:11,50 	the flipping pages become an animation of the dragon breathing fire.
 JACK_AND_JILL.srt 	JACK_AND_JILL_DVS412 	01:17:32,00 --> 01:17:37,50 	someone sad face becomes someone's.
-JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS64 	00:07:49,00 --> 00:07:56,50 	instructions on a cubicle wall read, "do not become emotionally involved."
-KARATE_KID.srt 	KARATE_KID_DVS227 	00:19:50,00 --> 00:19:59,50 	our view slowly spins above him, and the circle becomes a peephole in their apartment door, marked 305.
-KARATE_KID.srt 	KARATE_KID_DVS842 	01:09:39,00 --> 01:09:48,50 	now, a second sparkler dramatizing the puppets' kiss blurs to become sparks thrown by a welding torch in someone's grip.
 KARATE_KID.srt 	KARATE_KID_DVS1370 	01:50:36,00 --> 01:50:55,50 	the image freezes and he becomes the high-kick silhouette on the tallest trophy.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS837 	01:24:58,00 --> 01:25:05,50 	as they burst apart, the squid becomes a school of scattering fish.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS1126 	01:58:47,00 --> 01:58:54,50 	the boy fades from view and the sparkling ocean becomes the mexican jungle.
-MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS630 	01:16:25,00 --> 01:16:35,50 	she turns in a circle becoming entwined.
-PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS275 	01:09:59,00 --> 01:10:07,50 	the hydra's heads become motionless as they turn to stone.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS278 	01:06:23,00 --> 01:06:47,50 	he picks up someone's sword and eyes the inscription on the hilt - until lambs become lions.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS399 	01:38:00,00 --> 01:38:17,50 	rise and rise again until lambs become lions.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS612 	00:40:35,00 --> 00:40:41,50 	on this day of the new year, we became master and lady someone.
-SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS54 	00:11:20,00 --> 00:11:26,50 	he takes a breath and becomes real.
-SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS197 	00:38:01,00 --> 00:38:07,50 	someone sets the someone down and it becomes invisible.
-SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS449 	01:35:27,00 --> 01:35:32,50 	she become alive as the last of it gets absorbed.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS624 	01:08:40,00 --> 01:08:46,50 	the computer replays the ghostly sequence of someone reacting and her smile becoming a frightened stare.
 THE_WATCH.srt 	THE_WATCH_DVS563 	01:36:42,00 --> 01:36:48,50 	they become faceless cartoons with bright white skin as eggs splatter on their dark clothing.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS487 	01:25:11,00 --> 01:25:18,50 	the smoke thins and someone becomes visible, semi-reclined on the road.
 THOR.srt 	THOR_DVS53 	00:05:52,00 --> 00:06:02,50 	the mountain tips upside down, becoming the base of a landmass, supporting tall, rugged cliffs, separated by clear, glimmering water.
-THOR.srt 	THOR_DVS562 	01:28:24,00 --> 01:28:31,50 	metal shards shoot onto someone's skin, becoming his armor.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS264 	00:20:20,00 --> 00:20:26,50 	her flesh-and-blood form becomes crystalline like a diamond.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS753 	01:08:08,00 --> 01:08:13,50 	someone steadies himself and becomes stone,
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS923 	01:25:09,00 --> 01:25:16,50 	her skin becomes blue and her hair morphs into its original color.

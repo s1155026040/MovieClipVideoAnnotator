@@ -1,123 +1,110 @@
-0001_American_Beauty_01.27.25.529-01.27.26.691 	Lester leans out of the drive-thru window, grinning at her, holding bags filled with fast food.
-0010_Frau_Ohne_Gewissen_00.13.20.310-00.13.21.236 	Neff grins as he opens the door and goes in.
-0011_Gandhi_00.25.19.192-00.25.20.393 	And Gandhi grins weakly.
-0011_Gandhi_00.43.51.974-00.43.53.174 	He grins boyishly, in part to comfort, in part unable to contain his amusement at Gandhi and his evident confusion.
-0011_Gandhi_00.45.50.120-00.45.52.350 	Prakash grins and makes the pranam to Gandhi.
-0011_Gandhi_00.48.27.016-00.48.28.754 	He grins self-deprecatingly but Gokhale persists.
-0011_Gandhi_00.56.50.620-00.56.56.160 	Again Gandhi grins -- and takes glasses from his sleeve.
-0011_Gandhi_01.17.25.515-01.17.28.101 	Again Gandhi grins at the extravagance.
-0011_Gandhi_02.08.55.511-02.08.56.676 	And grinning at it, he passes by the policemen and into the cheers of the crowd.
-0011_Gandhi_02.26.45.277-02.26.51.589 	Gandhi grins and glances toward his dhoti.
-0011_Gandhi_02.28.05.542-02.28.07.315 	She's grinning at her own frustration and she keeps trying, but there's no doubt she means it.
-0011_Gandhi_02.35.24.773-02.35.27.368 	He grins in his youthful, beguiling manner and makes the pranam to the cheering crowd.
-0011_Gandhi_02.59.55.374-02.59.56.969 	Pyarelal is working on papers with him but grins at this.
-0016_O_Brother_Where_Art_Thou_01.33.16.632-01.33.20.358 	It is indeed George Nelson, grinning and game despite his heavy restraints.
-0020_Raising_Arizona_00.21.12.645-00.21.13.897 	Through his teeth as he continues to grin at the offscreen camera.
-0020_Raising_Arizona_01.28.35.100-01.28.38.041 	Glen is grinning and talking with his hands cupped in front of him, as when he told Hi about the Pollack who almost stepped in the pile of shit.
-0030_The_Hustler_00.29.43.653-00.29.53.238 	A drunken, exhausted Eddie nods, looks up at Bert, grins maliciously, and takes a drink.
-0030_The_Hustler_00.30.32.741-00.30.35.789 	Eddie grins at this.
-0043_Thelma_and_Luise_00.14.45.834-00.14.47.675 	Thelma looks over at the bar where Harlan is grinning at her, making dancing motions.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.08.59.216-00.09.01.438 	He grins at Harry.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.57.49.698-00.57.52.074 	He grins politely as he bends down to retrieve his napkin.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.28.00.806-01.28.06.183 	He grins and crosses to Ron.
-1003_How_to_Lose_Friends_and_Alienate_People_00.03.21.088-00.03.23.014 	He grins as she lifts the barrier.
-1003_How_to_Lose_Friends_and_Alienate_People_00.55.55.562-00.55.59.750 	He grins broadly then heads off before turning back heavy- browed.
-1004_Juno_00.12.39.191-00.12.40.308 	Juno grins at her friend talking to a fat bearded teacher.
-1004_Juno_01.21.10.310-01.21.11.256 	He grins in delight.
-1005_Signs_00.16.50.430-00.16.54.310 	Merrill grins at Caroline and absently rubs his finger on the table top.
-1005_Signs_01.14.46.061-01.14.49.322 	Bo grins at him.
-1006_Slumdog_Millionaire_01.32.59.910-01.33.04.790 	A smile appears fleetingly on Jamal's face as the host grins through gritted teeth.
-1006_Slumdog_Millionaire_01.51.17.899-01.51.20.978 	A five-year-old Salim, grinning mischievously.
-1007_Spider-Man1_00.22.25.296-00.22.27.132 	Peter grins inanely.
+0001_American_Beauty_00.47.22.089-00.47.24.363 	he salutes the colonel good-naturedly, grinning.
+0001_American_Beauty_01.27.25.529-01.27.26.691 	lester leans out of the drive-thru window, grinning at her, holding bags filled with fast food.
+0001_American_Beauty_01.40.24.134-01.40.29.992 	he grins.
+0001_American_Beauty_01.47.23.075-01.47.26.519 	lester looks down at her, grinning, unable to believe he's actually about to do what he's dreamed of so many times, and then.
+0008_Fargo_00.44.03.301-00.44.07.346 	grimsrud moves to retrieve her but carl, grinning, lays a hand on his shoulder.
+0010_Frau_Ohne_Gewissen_00.16.07.216-00.16.12.510 	he walks out, still grinning.
+0011_Gandhi_00.21.52.711-00.21.57.806 	gandhi watches him, grinning.
+0011_Gandhi_00.43.06.313-00.43.07.569 	he grins.
+0011_Gandhi_00.43.51.974-00.43.53.174 	he grins boyishly, in part to comfort, in part unable to contain his amusement at gandhi and his evident confusion.
+0011_Gandhi_00.48.27.016-00.48.28.754 	he grins self-deprecatingly but gokhale persists.
+0011_Gandhi_01.09.27.496-01.09.30.082 	he grins, and it elicits a little grin from gandhi.
+0011_Gandhi_02.08.55.511-02.08.56.676 	and grinning at it, he passes by the policemen and into the cheers of the crowd.
+0011_Gandhi_02.28.05.542-02.28.07.315 	she's grinning at her own frustration and she keeps trying, but there's no doubt she means it.
+0011_Gandhi_02.35.24.773-02.35.27.368 	he grins in his youthful, beguiling manner and makes the pranam to the cheering crowd.
+0011_Gandhi_02.59.55.374-02.59.56.969 	pyarelal is working on papers with him but grins at this.
+0017_Pianist_01.40.33.897-01.40.49.871 	he grins, downs szpilman's vodka, gives a mock salute and goes.
+0020_Raising_Arizona_00.21.12.645-00.21.13.897 	through his teeth as he continues to grin at the offscreen camera.
+0020_Raising_Arizona_01.28.35.100-01.28.38.041 	glen is grinning and talking with his hands cupped in front of him, as when he told hi about the pollack who almost stepped in the pile of shit.
+0030_The_Hustler_00.29.43.653-00.29.53.238 	a drunken, exhausted eddie nods, looks up at bert, grins maliciously, and takes a drink.
+0030_The_Hustler_00.30.32.741-00.30.35.789 	eddie grins at this.
+0030_The_Hustler_01.16.52.079-01.16.55.830 	he looks up at eddie, grinning snidely.
+0043_Thelma_and_Luise_00.14.45.834-00.14.47.675 	thelma looks over at the bar where harlan is grinning at her, making dancing motions.
+0049_Hannah_and_her_sisters_00.43.17.841-00.43.20.017 	elliot stares after her, grinning.
+0049_Hannah_and_her_sisters_01.43.35.390-01.43.38.193 	they look at each other at arm's length, holly grinning.
+1002_Harry_Potter_and_the_Half-Blood_Prince_00.08.59.216-00.09.01.438 	he grins at harry.
+1002_Harry_Potter_and_the_Half-Blood_Prince_00.57.49.698-00.57.52.074 	he grins politely as he bends down to retrieve his napkin.
+1002_Harry_Potter_and_the_Half-Blood_Prince_01.28.00.806-01.28.06.183 	he grins and crosses to ron.
+1003_How_to_Lose_Friends_and_Alienate_People_00.03.21.088-00.03.23.014 	he grins as she lifts the barrier.
+1003_How_to_Lose_Friends_and_Alienate_People_00.06.04.230-00.06.05.613 	she gives him a sultry look, and he grins.
+1003_How_to_Lose_Friends_and_Alienate_People_00.49.59.245-00.50.03.972 	grinning proudly, he scratches his chin and looks down at a pile of magazines on the table.
+1003_How_to_Lose_Friends_and_Alienate_People_00.55.55.562-00.55.59.750 	he grins broadly then heads off before turning back heavy- browed.
+1004_Juno_01.21.10.310-01.21.11.256 	he grins in delight.
+1005_Signs_00.16.04.650-00.16.06.977 	she grins.
+1005_Signs_00.44.30.340-00.44.31.660 	he grins.
+1006_Slumdog_Millionaire_01.32.59.910-01.33.04.790 	a smile appears fleetingly on jamal's face as the host grins through gritted teeth.
+1006_Slumdog_Millionaire_01.51.17.899-01.51.20.978 	a five-year-old salim, grinning mischievously.
 1008_Spider-Man2_01.12.15.850-01.12.16.809 	peter grins proudly.
 1008_Spider-Man2_01.12.53.651-01.12.55.585 	he grins inanely.
 1009_Spider-Man3_00.05.22.156-00.05.29.120 	peter grins proudly and mouths the lyrics.
-1009_Spider-Man3_00.06.47.490-00.06.51.066 	following a couple of young women out of the theater, peter grins with pleasure.
+1009_Spider-Man3_01.17.16.488-01.17.18.720 	grinning cheerfully, he looks over his shoulder at mary jane chopping vegetables on the simple kitchen table.
 1009_Spider-Man3_01.17.18.720-01.17.26.730 	she grins back at him and starts to dance the twist.
 1010_TITANIC_00.35.46.911-00.35.51.335 	tommy turns and glances at her then grins at jack.
-1010_TITANIC_01.02.30.474-01.02.33.526 	jack grins at rose.
-1010_TITANIC_01.26.52.551-01.26.55.217 	jack grins as he draws.
 1011_The_Help_00.27.44.522-00.27.46.312 	skeeter replaces the receiver, grinning as if she'd just won the jackpot.
 1012_Unbreakable_00.03.57.640-00.04.03.307 	he grins at her.
-1012_Unbreakable_00.39.29.320-00.39.31.285 	david grins at elijah.
-1014_2012_01.20.30.884-01.20.31.145 	nema grins at the key then at rinpoche.
-1015_27_Dresses_00.14.36.894-00.14.40.411 	jane grins and heads for her cluttered desk.
+1012_Unbreakable_00.26.05.150-00.26.05.817 	the young man grins.
+1015_27_Dresses_00.23.23.639-00.23.28.990 	george spots her and grins, then clocks jane.
 1015_27_Dresses_00.36.04.888-00.36.06.809 	pedro, practicing his catching, grins at them from the baseball field.
 1015_27_Dresses_00.37.27.633-00.37.30.609 	she grins as he talks happily on the phone.
+1015_27_Dresses_00.38.16.833-00.38.21.325 	she gamely flicks the heavy metal devil horns at george and tess, who, grinning, do the same.
 1015_27_Dresses_01.00.01.259-01.00.04.397 	he grins and brandishes the scanner.
 1015_27_Dresses_01.07.09.388-01.07.10.995 	she grins at him.
 1015_27_Dresses_01.08.32.188-01.08.35.815 	they grin tipsily.
 1015_27_Dresses_01.20.32.116-01.20.36.055 	tess looks worried as jane strides off, then turns and grins at her.
+1015_27_Dresses_01.32.36.263-01.32.39.935 	she looks at the empty closet, grins, and closes the doors.
+1015_27_Dresses_01.39.16.552-01.39.17.865 	he grins.
 1019_Confessions_Of_A_Shopaholic_00.41.30.600-00.41.35.625 	she grins across at luke, whose eyebrows shoot up with amusement.
-1019_Confessions_Of_A_Shopaholic_01.39.05.522-01.39.07.030 	rebecca grins and goes back to giving luke's kiss her full attention.
+1019_Confessions_Of_A_Shopaholic_01.35.18.431-01.35.24.158 	grinning happily, rebecca races down the aisle to join the other three, who are processing slowly towards the altar.
 1020_Crazy_Stupid_Love_00.51.58.474-00.52.00.732 	he grins back at emily,
+1023_Horrible_Bosses_00.39.26.510-00.39.29.305 	she grins, then slaps his ass.
 1026_Legion_00.22.59.170-00.23.04.052 	audrey glances up at the old woman who grins and looks over at howard and sandra.
 1026_Legion_01.05.51.761-01.05.52.447 	she grins broadly.
 1028_No_Reservations_00.24.30.000-00.24.32.541 	she looks over at nick, who stands grinning at her.
 1028_No_Reservations_00.26.24.024-00.26.25.024 	a photo of christine and kate, their arms around each other, both grinning happily at the camera.
-1028_No_Reservations_00.46.17.982-00.46.20.231 	zoe grins at him.
-1028_No_Reservations_01.12.10.045-01.12.11.701 	kate grins to herself.
+1029_Pride_And_Prejudice_Disk_One_00.53.29.094-00.53.31.465 	bingley steps away from the door, still grinning.
 1030_Public_Enemies_00.11.20.032-00.11.23.120 	he grins and gives the blonde a kiss.
-1030_Public_Enemies_00.20.21.908-00.20.26.755 	now at his supper club, dillinger grins as he dines with his friends.
 1030_Public_Enemies_00.23.35.938-00.23.40.604 	she grins at the other women seated at her table, then sashays off with dillinger.
 1030_Public_Enemies_00.25.47.092-00.25.54.376 	she grins bashfully and continues down the sidewalk with his jacket and arm around her.
+1030_Public_Enemies_00.36.22.425-00.36.25.357 	he grins.
 1031_Quantum_of_Solace_00.47.49.068-00.47.52.641 	he grins and walks off.
-1031_Quantum_of_Solace_01.26.58.414-01.26.59.905 	greene grins at the general.
-1035_The_Adjustment_Bureau_00.20.43.671-00.20.45.241 	elise grins at him through a window.
-1035_The_Adjustment_Bureau_00.42.30.319-00.42.32.680 	elise grins at david.
-1037_The_Curious_Case_Of_Benjamin_Button_00.47.16.824-00.47.20.023 	mike grins at benjamin.
-1038_The_Great_Gatsby_01.42.17.232-01.42.17.797 	tom grins as if he's won some kind of game.
+1031_Quantum_of_Solace_01.29.11.304-01.29.20.149 	he leaves the table as green and his men grin smugly.
+1033_Sherlock_Holmes_A_Game_of_Shadows_00.12.14.789-00.12.15.746 	he grins.
+1035_The_Adjustment_Bureau_00.37.00.734-00.37.02.035 	she grins.
 1040_The_Ugly_Truth_00.42.44.390-00.42.48.252 	a girl grins at mike.
-1042_Up_In_The_Air_00.38.39.072-00.38.42.043 	alex grins and writes back.
-1044_Pride_And_Prejudice_Disk_Two_01.55.28.751-01.55.31.053 	wickham rides past them again, and lydia grins cheekily at her sisters.
+1040_The_Ugly_Truth_00.47.45.288-00.47.49.169 	she jumps up and down, grinning.
+1040_The_Ugly_Truth_00.58.00.311-00.58.03.922 	grinning girlishly, they go to a table.
+1042_Up_In_The_Air_01.18.05.557-01.18.06.301 	she grins.
 1045_An_education_00.23.47.683-00.23.51.889 	she grins happily to herself.
-1045_An_education_00.41.13.055-00.41.15.514 	jenny grins and closes the book.
+1045_An_education_00.25.52.770-00.25.55.198 	they both grin.
+1045_An_education_00.48.09.889-00.48.13.624 	he looks at her imploringly, then grins.
 1045_An_education_00.48.13.624-00.48.15.541 	she can't help to grin back.
 1045_An_education_00.51.24.926-00.51.27.473 	she grins to herself.
-1045_An_education_01.01.03.945-01.01.12.652 	jenny grins at david then reaches forward and grabs a banana.
 1046_Australia_00.24.31.567-00.24.33.981 	he grins broadly.
-1046_Australia_01.02.19.777-01.02.22.204 	nullah turns and grins at flynn.
-1046_Australia_01.03.57.840-01.03.58.468 	fletcher grins cruelly.
 1046_Australia_01.36.12.189-01.36.16.652 	drover smiles suavely at her, and she grins broadly.
+1046_Australia_01.36.43.087-01.36.55.667 	she smiles in delighted disbelief and he grins, his hand casually in his left pocket, as they come together.
 1046_Australia_02.00.02.738-02.00.06.180 	he grins and saunters off.
 1046_Australia_02.17.24.515-02.17.30.396 	drover holds the boy out at arm's length and grins happily, stroking his hair.
 1046_Australia_02.28.20.715-02.28.23.000 	drover grins happily.
 1046_Australia_02.36.07.995-02.36.11.254 	then, in just his shorts, he grins and runs to his grandfather.
-1048_Gran_Torino_01.00.04.955-01.00.09.433 	rubbing his blistered hand together, a grinning thao walks up walt's front steps.
 1049_Harry_Potter_and_the_chamber_of_secrets_02.27.06.578-02.27.13.365 	ron and harry are thrilled to see her grinning broadly they get to their feet as she runs down the whole to join her friends.
-1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.24.47.000-01.24.52.572 	harry nods and grins after her, as she walks away.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.43.00.095-01.43.02.667 	ron grins broadly.
 1051_Harry_Potter_and_the_goblet_of_fire_00.00.28.159-00.00.31.099 	from the grinning mouth of a skull emerges the head of a large snake.
-1051_Harry_Potter_and_the_goblet_of_fire_01.35.28.419-01.35.32.360 	harry turns as the open mouth of a grinning shark looms towards him.
+1051_Harry_Potter_and_the_goblet_of_fire_01.08.39.769-01.08.42.839 	the twins grin.
+1051_Harry_Potter_and_the_goblet_of_fire_01.09.22.803-01.09.27.598 	the boys grin inanely, then move on hurriedly.
 1052_Harry_Potter_and_the_order_of_phoenix_01.22.52.162-01.22.54.609 	harry grins proudly.
 1053_Harry_Potter_and_the_philosophers_stone_01.07.56.934-01.08.01.860 	candles flicker and glow from the mouths of grinning pumpkins, which float above the heads of the students.
-1055_Marley_and_me_01.17.00.263-01.17.11.521 	john grins as the dogs play together in the shallows and more join the fun.
-1055_Marley_and_me_01.17.17.485-01.17.23.022 	john grins as the dogs splash around.
+1054_Harry_Potter_and_the_prisoner_of_azkaban_00.12.23.481-00.12.27.686 	tom, the hunchback innkeeper, grins at harry.
+1055_Marley_and_me_01.18.39.701-01.18.46.313 	grinning with embarrassed delight, john scoops up connor as his two boys run forward to greet him.
 1055_Marley_and_me_01.21.12.508-01.21.17.000 	he grins as she takes a running jump into the pool.
-1057_Seven_pounds_00.31.09.404-00.31.12.914 	ben grins and looks down.
-1058_The_Damned_united_00.23.34.000-00.23.38.000 	brian and peter swap grins as thick-set dave mackay opens his front door.
+1055_Marley_and_me_01.22.43.946-01.22.45.926 	john walks away, grinning.
+1056_Rambo_01.00.21.000-01.00.22.813 	boozy soldiers stagger from it, grinning.
 1058_The_Damned_united_00.45.33.659-00.45.35.599 	he grins and winks.
 1058_The_Damned_united_01.02.59.254-01.03.04.760 	brian stand beside three grinning young men before the assembled press below the leeds united sign in front of the stadium.
-1058_The_Damned_united_01.30.02.599-01.30.04.000 	peter grins at brian.
-1060_Yes_man_00.20.17.805-00.20.22.174 	carl grins and nick heads off.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.17.10.256-00.17.13.521 	bogrod grins inanely as the door opens.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.19.50.000-00.19.57.000 	griphook runs off, leaving the grinning bogrod alone with the dragon.
+1060_Yes_man_00.55.49.328-00.55.50.445 	he grins.
+1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.53.50.976-00.53.53.032 	he grins.
+1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.46.41.104-01.46.43.110 	molly grins.
 1062_Day_the_Earth_stood_still_00.54.34.938-00.54.38.613 	the colonel grins nervously.
-2012_Unbreakable_01.08.26.101-01.08.29.062 	david's grin slowly fades.
-1053_Harry_Potter_and_the_philosophers_stone_01.07.56.934-01.08.01.860 	candles flicker and glow from the mouths of grinning pumpkins, which float above the heads of the students.
-1055_Marley_and_me_01.17.00.263-01.17.11.521 	john grins as the dogs play together in the shallows and more join the fun.
-1055_Marley_and_me_01.17.17.485-01.17.23.022 	john grins as the dogs splash around.
-1055_Marley_and_me_01.21.12.508-01.21.17.000 	he grins as she takes a running jump into the pool.
-1057_Seven_pounds_00.31.09.404-00.31.12.914 	ben grins and looks down.
-1058_The_Damned_united_00.23.34.000-00.23.38.000 	brian and peter swap grins as thick-set dave mackay opens his front door.
-1058_The_Damned_united_00.45.33.659-00.45.35.599 	he grins and winks.
-1058_The_Damned_united_01.02.59.254-01.03.04.760 	brian stand beside three grinning young men before the assembled press below the leeds united sign in front of the stadium.
-1058_The_Damned_united_01.30.02.599-01.30.04.000 	peter grins at brian.
-1060_Yes_man_00.20.17.805-00.20.22.174 	carl grins and nick heads off.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.17.10.256-00.17.13.521 	bogrod grins inanely as the door opens.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.19.50.000-00.19.57.000 	griphook runs off, leaving the grinning bogrod alone with the dragon.
-1062_Day_the_Earth_stood_still_00.54.34.938-00.54.38.613 	the colonel grins nervously.
-2012_Unbreakable_01.08.26.101-01.08.29.062 	david's grin slowly fades.
 2027_Les_Miserables_02.28.23.428-02.28.29.282 	and there marching among them we see ghosts from the past - enjolras and the students who died - and fantine - and eponine - and out of the crumbling elephant peers another ghost: the grinning face of gavroche.
+2040_The_Ugly_Truth_00.22.49.262-00.22.50.725 	he grins.
+2051_Harry_Potter_and_the_goblet_of_fire_00.12.04.057-00.12.08.573 	the man grins evilly, clearly demented.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_00.06.44.979-00.06.46.822 	uncle vernon eyes harry's wand nervously, then grins with knowing cruelty.
-2054_Harry_Potter_and_the_prisoner_of_azkaban_00.10.11.112-00.10.12.467 	stan grins with sinister delight, showing bad teeth.

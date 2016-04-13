@@ -1,0 +1,8 @@
+COLOMBIANA.srt 	COLOMBIANA_DVS529 	00:47:54,00 --> 00:48:01,50 	in a cage, a finch on a perch ruffles its feathers as its owner sashays across the room.
+FLIGHT.srt 	FLIGHT_DVS900 	01:46:38,00 --> 01:46:44,50 	a gentle breeze blows through the balcony doors, ruffling drawn curtains.
+GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS76 	00:12:15,00 --> 00:12:31,50 	reaching out, she strokes his cheek with her finger then ruffles his hair.
+GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS281 	00:43:31,00 --> 00:43:36,50 	he sees the father ruffle his son's hair.
+JACK_AND_JILL.srt 	JACK_AND_JILL_DVS164 	00:33:05,00 --> 00:33:10,50 	with a fuzzy shawl and cap, and a ruffled skirt.
+JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS209 	00:40:02,00 --> 00:40:10,50 	behind them, the plastic bag ruffles as a lobster crawls around.
+THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS711 	01:34:48,00 --> 01:34:55,50 	later, gulls cross a blue sky as wind ruffles snowy's fur and blows someone's hair.
+TRUE_GRIT.srt 	TRUE_GRIT_DVS191 	00:40:26,00 --> 00:40:32,50 	a breeze ruffles loose strands of her hair.

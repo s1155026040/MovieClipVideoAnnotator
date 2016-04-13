@@ -1,8 +1,17 @@
-0004_Charade_00.46.37.842-00.46.41.430 	REGGIE takes another cigarette from his pack, rips off the filter (he winces again) and puts it into her mouth.
-0012_Get_Shorty_01.29.13.394-01.29.15.472 	Harry winces in pain.
-0017_Pianist_01.42.55.166-01.42.58.049 	Szpilman suddenly winces with pain.
-0021_Rear_Window_00.11.57.741-00.11.59.005 	He winces again.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.03.23.591-01.03.28.942 	Frodo winces as the tip of the dagger sinks into his shoulder.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.29.18.735-01.29.20.116 	Frodo winces as an angry image of the fiery eye hits him!
-1005_Signs_01.11.58.508-01.12.01.481 	Upset, Graham winces as he eats.
-1055_Marley_and_me_00.47.10.232-00.47.13.292 	john winces at the noise of the springs as jenny sits on the bed.
+0004_Charade_00.27.25.483-00.27.26.590 	close shot -- grandpierre as he winces.
+0004_Charade_00.46.18.987-00.46.20.800 	he winces.
+0004_Charade_00.46.37.842-00.46.41.430 	reggie takes another cigarette from his pack, rips off the filter (he winces again) and puts it into her mouth.
+0004_Charade_00.58.37.375-00.58.40.526 	he winces.
+0014_Ist_das_Leben_nicht_schoen_00.10.47.387-00.10.47.947 	each time she hears george being slapped, she winces.
+0017_Pianist_01.42.55.166-01.42.58.049 	szpilman suddenly winces with pain.
+0021_Rear_Window_00.11.02.134-00.11.03.651 	he winces.
+0021_Rear_Window_00.11.57.741-00.11.59.005 	he winces again.
+0023_THE_BUTTERFLY_EFFECT_00.20.22.962-00.20.24.154 	but she winces.
+1018_Body_Of_Lies_00.38.58.539-00.39.01.607 	he winces as she injects him in the stomach.
+1030_Public_Enemies_00.25.35.157-00.25.40.564 	they step outside and she winces against a gust of wind.
+1041_This_is_40_02.06.43.478-02.06.46.232 	he winces, then swings one leg over the bed.
+1047_Defiance_01.23.05.461-01.23.18.350 	wincing with pain, zus produces the bundle of medicine bottles.
+1048_Gran_Torino_01.24.42.000-01.24.45.421 	he winces as he straightens up and unlocks the door.
+1049_Harry_Potter_and_the_chamber_of_secrets_00.57.20.909-00.57.23.585 	wincing with pain, he grasps his broomstick between his knees.
+1049_Harry_Potter_and_the_chamber_of_secrets_02.14.48.496-02.14.49.875 	wincing with pain, harry clutches the wound on his arm.
+1052_Harry_Potter_and_the_order_of_phoenix_01.26.55.406-01.27.07.351 	as the students wince with pain, she smiles to herself with obvious pleasure.

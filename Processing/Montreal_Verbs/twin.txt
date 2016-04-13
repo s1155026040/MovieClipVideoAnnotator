@@ -1,5 +1,2 @@
 BRUNO.srt 	BRUNO_DVS120 	00:27:48,00 --> 00:27:54,50 	the blonde twins exchange a look.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS560 	01:37:47,00 --> 01:38:04,50 	propellers lining the back of the boomerang-shaped bomber spin to life as the plane fires twin thrusters and rolls down the hangar's runway.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS573 	01:22:20,00 --> 01:22:29,50 	twin lights flare below them.
-KARATE_KID.srt 	KARATE_KID_DVS273 	00:24:47,00 --> 00:24:56,50 	now, twin skyscrapers under construction stand silhouetted against a rising sun that glows through the smog.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS147 	00:14:34,00 --> 00:14:40,50 	in the distance, twin lights barely pierce the storm on either side of the road.

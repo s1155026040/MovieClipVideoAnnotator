@@ -1,443 +1,364 @@
-0001_American_Beauty_00.04.03.037-00.04.04.552 	Lester smiles sheepishly, trying to lighten the moment.
-0001_American_Beauty_00.05.01.893-00.05.08.033 	Lester turns around, smiling perfunctorily.
-0001_American_Beauty_00.04.03.037-00.04.04.552 	Lester smiles sheepishly, trying to lighten the moment.
-0001_American_Beauty_00.05.01.893-00.05.08.033 	Lester turns around, smiling perfunctorily.
-0001_American_Beauty_00.19.23.285-00.19.31.476 	More ROSE PETALS fall onto the bed, and he smiles up at.
-0001_American_Beauty_00.20.01.432-00.20.07.216 	Lester smiles back and LAUGHS, as ROSE PETALS cover his face.
-0001_American_Beauty_00.28.43.025-00.28.45.621 	Ricky smiles and walks off.
-0001_American_Beauty_00.30.39.685-00.30.40.051 	She smiles her most winning smile at him.
-0001_American_Beauty_00.55.25.456-00.55.26.898 	Ricky smiles at her.
-0001_American_Beauty_01.15.37.010-01.15.37.790 	He smiles at her playfully.
-0001_American_Beauty_01.22.16.544-01.22.18.722 	She smiles dreamily at him.
-0001_American_Beauty_01.33.12.928-01.33.13.782 	He looks directly back at her, leans in and smiles slowly.
-0001_American_Beauty_01.39.18.822-01.39.23.129 	We're directly outside the GARAGE DOOR as it slowly lifts to reveal Lester smiling at us.
-0001_American_Beauty_01.48.24.552-01.48.28.453 	He smiles and shakes his head.
-0001_American_Beauty_01.50.30.918-01.50.36.225 	They just sit there, smiling at each other, then.
-0001_American_Beauty_01.52.42.415-01.52.45.310 	Lester looks back at us; his eyes are lifeless, but he's smiling the same slight smile.
-0001_American_Beauty_01.54.25.194-01.54.30.160 	A door opens to reveal 4-YEAR-OLD JANE, dressed for Halloween in a Princess costume, holding a lit SPARKLER aloft and smiling shyly at us.
-0002_As_Good_As_It_Gets_00.08.43.105-00.08.44.601 	Frank smiles affectionately.
-0002_As_Good_As_It_Gets_00.36.57.805-00.37.03.653 	As he looks over at the dog, Verdell trots over and, without realizing it, Melvin smiles at him to Frank's surprise.
-0002_As_Good_As_It_Gets_01.42.33.516-01.42.36.050 	Carol smiles encouragement to him and herself.
-0003_CASABLANCA_00.13.35.414-00.13.38.384 	Then he sees Rick and they smile at each other.
-0003_CASABLANCA_00.20.36.733-00.20.38.806 	Rick smiles cynically.
-0003_CASABLANCA_00.28.02.068-00.28.03.261 	Strasser bows and smiles pleasantly.
-0003_CASABLANCA_00.28.58.343-00.28.59.346 	Ilsa smiles back at him, but her eyes are still troubled.
-0003_CASABLANCA_00.43.59.179-00.44.01.286 	She smiles faintly.
-0003_CASABLANCA_00.59.35.501-00.59.37.633 	Ilsa smiles faintly.
-0003_CASABLANCA_00.59.52.874-00.59.54.816 	She smiles again.
-0003_CASABLANCA_01.09.24.288-01.09.28.175 	Rick smiles slightly and goes toward the door.
-0003_CASABLANCA_01.10.44.930-01.10.47.921 	He smiles and walks away.
-0003_CASABLANCA_01.34.13.734-01.34.14.418 	He smiles as he turns toward Rick.
-0004_Charade_00.49.23.999-00.49.24.825 	He smiles back emptily, not knowing what to make of her.
-0004_Charade_01.12.43.831-01.12.45.510 	She smiles at him.
-0005_Chinatown_00.26.58.679-00.27.00.677 	He smiles at Gittes, probes into the pond.
-0005_Chinatown_00.29.06.170-00.29.08.889 	Gittes smiles a little sheepishly.
-0006_Clerks_00.35.43.199-00.35.45.175 	And then a LITTLE GIRL comes into view, smiling and holding money.
-0007_DIE_NACHT_DES_JAEGERS_00.22.59.502-00.23.01.571 	His head goes slantwise and he smiles oddly.
-0007_DIE_NACHT_DES_JAEGERS_00.28.59.784-00.29.02.016 	She smiles maternally.
-0007_DIE_NACHT_DES_JAEGERS_00.37.52.979-00.37.54.548 	She smiles benignly.
-0007_DIE_NACHT_DES_JAEGERS_00.42.35.802-00.42.38.680 	ICEY smiles sideways.
-0007_DIE_NACHT_DES_JAEGERS_00.50.49.963-00.50.51.589 	PREACHER'S EYES CRINKLE and he turns to PEARL, smiling brightly.
-0007_DIE_NACHT_DES_JAEGERS_01.27.09.907-01.27.11.131 	She is flanked by rabid faces and by smiling LOAFERS, one of whom carries an axe.
-0009_Forrest_Gump_00.12.56.431-00.12.58.781 	The bus driver smiles as Forrest steps up into the bus.
-0009_Forrest_Gump_00.17.08.832-00.17.10.613 	Forrest smiles as he remembers.
-0009_Forrest_Gump_01.07.24.005-01.07.25.038 	Jenny smiles as she tries to run through the water.
-0009_Forrest_Gump_01.13.03.391-01.13.05.737 	Forrest smiles as Jenny looks at her.
-0009_Forrest_Gump_01.13.20.201-01.13.21.835 	Forrest looks up and smiles sadly.
-0010_Frau_Ohne_Gewissen_00.10.12.424-00.10.14.505 	Phyllis smiles faintly and covers the anklet with her dress.
-0010_Frau_Ohne_Gewissen_01.01.50.006-01.01.51.449 	Norton smiles frostily.
-0011_Gandhi_00.03.45.133-00.03.45.775 	He smiles and joins his hands together to exchange Godse's greeting.
-0011_Gandhi_00.26.59.872-00.27.00.706 	Singh smiles at the understatement.
-0011_Gandhi_00.32.24.933-00.32.27.208 	The civilian smiles slowly.
-0011_Gandhi_00.32.30.489-00.32.34.680 	The civilian looks at him sharply, then smiles derisively, signaling the car off.
-0011_Gandhi_01.13.57.309-01.13.58.434 	As he smiles down at them, he is turned by.
-0011_Gandhi_01.30.52.529-01.30.54.239 	He smiles dryly.
-0011_Gandhi_01.41.33.747-01.41.35.233 	Kallenbach is smiling too.
-0011_Gandhi_01.44.12.162-01.44.15.093 	Gandhi smiles approvingly.
-0011_Gandhi_01.50.07.352-01.50.26.704 	For a moment the two women hold each other's gaze, then Ba smiles weakly, and leans her head into the taller Mirabehn's shoulder.
-0011_Gandhi_01.57.17.475-01.57.18.760 	The Advocate General smiles with a brittle disdain, then he turns to the judge.
-0011_Gandhi_02.07.51.788-02.07.52.609 	Walker smiles -- a little uneasily -- for they are now near the police.
-0011_Gandhi_02.08.52.538-02.08.53.710 	Gandhi smiles and turns back.
-0011_Gandhi_02.20.57.005-02.21.05.124 	Gandhi, Mirabehn and Gandhi's secretary, Desai, waving goodbye from the boat deck of their ship as it sails -- Mirabehn is holding the tether of a goat -- all of them smiling at the camera like voyagers everywhere.
-0011_Gandhi_02.28.02.373-02.28.03.775 	Gandhi is at the wheel and he is smiling off at Bourke-White, who is trying ineptly to imitate him on another spinning wheel.
-0011_Gandhi_02.28.07.315-02.28.07.628 	Gandhi's smile broadens.
-0011_Gandhi_02.29.25.205-02.29.31.420 	And he smiles a little wisely at her.
-0011_Gandhi_02.32.45.279-02.32.48.693 	Mirabehn smiles weakly, gives Ba a last little rub of farewell and stands.
-0011_Gandhi_02.37.43.740-02.37.45.792 	Mirabehn just smiles at it.
-0011_Gandhi_02.48.36.061-02.48.37.931 	They are whispering quietly, but Mirabehn has stopped on seeing Nehru and she smiles a relieved greeting.
-0011_Gandhi_02.49.05.801-02.49.09.296 	Gandhi smiles and reaches to touch hands with him.
-0011_Gandhi_02.52.12.721-02.52.26.535 	Nehru moves to the side of the cot and Gandhi smiles weakly and holds out a hand, but he is in pain.
-0011_Gandhi_02.52.55.865-02.52.59.473 	Gandhi smiles whimsically, he touches him again but there is no change in his attitude.
-0011_Gandhi_02.54.40.654-02.54.57.599 	They glance at Suhrawardy; he smiles tautly and they start to leave, but one (Nahari) lingers.
-0012_Get_Shorty_00.41.03.589-00.41.06.930 	Bo Catlett smiles at him, doesn't give up the script.
-0012_Get_Shorty_00.56.37.476-00.56.37.707 	Chili smiles at her.
-0012_Get_Shorty_01.16.02.176-01.16.04.349 	Bo Catlett barely glances at the bodyguards, smiles the gleamy smile to the Latin guy in front of him.
-0012_Get_Shorty_01.22.07.653-01.22.11.525 	Doris smiles as two UNIFORMED COPS walk past.
-0012_Get_Shorty_01.24.23.155-01.24.26.369 	Bo Catlett looks at the Bear, then smiles at Farrah.
-0012_Get_Shorty_01.27.03.000-01.27.05.551 	Martin smiles at his own joke, looks up as the Maitre D' approaches.
-0013_Halloween_00.33.14.168-00.33.16.079 	Brackett smiles as Loomis walks up behind him.
-0013_Halloween_00.57.17.314-00.57.22.870 	He watches them race away, smiling to himself.
-0013_Halloween_01.04.23.206-01.04.24.166 	She smiles to herself.
-0014_Ist_das_Leben_nicht_schoen_00.14.30.496-00.14.34.500 	Pop is smiling and poking his plate.
-0014_Ist_das_Leben_nicht_schoen_00.17.16.239-00.17.19.951 	Bailey smiles and turns to George.
-0014_Ist_das_Leben_nicht_schoen_01.19.56.730-01.20.02.825 	Uncle Billy smiles triumphantly and goes toward deposit window with his deposit slip.
-0014_Ist_das_Leben_nicht_schoen_01.40.49.151-01.40.52.199 	George casually looks at the strange smiling little man a second time.
-0014_Ist_das_Leben_nicht_schoen_01.49.48.983-01.49.52.061 	Gower smiles weakly as the soda runs off his face.
-0017_Pianist_00.14.59.876-00.15.09.523 	Szpilman catches sight of someone among the onlookers, smiles and pushes through the crowd to Dorota, close to tears.
-0017_Pianist_00.15.55.481-00.16.00.264 	He smiles and runs to catch up with his family.
-0017_Pianist_00.23.09.849-00.23.11.150 	Two or three he discards, but he smiles when coins make a pure tone, and he keeps them.
-0017_Pianist_00.45.43.780-00.45.45.711 	Father smiles sadly.
-0017_Pianist_00.50.25.218-00.50.27.526 	Father sees him, takes a step towards him, but stops, smiling helplessly.
-0017_Pianist_01.18.24.252-01.18.26.296 	He smiles beatifically.
-0017_Pianist_02.20.35.527-02.20.40.372 	Lednicki nods, smiles back.
-0019_Pulp_Fiction_00.18.10.992-00.18.12.090 	Vince smiles to himself.
-0019_Pulp_Fiction_00.26.10.382-00.26.11.334 	English Dave smiles to himself.
-0020_Raising_Arizona_00.05.26.175-00.05.29.470 	A sudden flash whitens and fades to leave the image of Ed, smiling behind her camera, softly supered on the underside of the bunk.
-0020_Raising_Arizona_00.06.24.925-00.06.26.872 	On the newlyweds smiling at the camera.
-0020_Raising_Arizona_00.06.26.872-00.06.29.430 	On the newlyweds smiling at each other, profile to the camera.
-0020_Raising_Arizona_00.20.15.922-00.20.18.408 	Ed smiles at Nathan Jr.
-0020_Raising_Arizona_00.21.06.291-00.21.08.276 	He puts his arm around Ed and smiles at the offscreen camera.
-0020_Raising_Arizona_00.24.09.403-00.24.11.991 	Ed smiles politely, then squints at Hi.
-0020_Raising_Arizona_01.01.43.771-01.01.45.552 	Gale and Evelle are smiling down at him.
-0021_Rear_Window_00.04.24.502-00.04.26.223 	They are smiling and talking, although we cannot hear their dialogue.
-0021_Rear_Window_00.23.15.749-00.23.18.224 	Then she starts to take a sip, smiling across the table at her imaginary guest.
-0021_Rear_Window_00.31.13.008-00.31.16.163 	Continues smiling as she close the door softly behind her.
-0021_Rear_Window_00.45.50.666-00.45.52.166 	Jeff is thoughtful for a moment, then he relaxes and smiles a little.
-0021_Rear_Window_00.51.59.530-00.52.02.530 	Jeff smiles affectionately, and starts to turn his eyes away; but something startles him, and he looks quickly back.
-0021_Rear_Window_00.57.02.864-00.57.04.323 	He even smiles somewhat secretly to himself at what he sees.
-0021_Rear_Window_00.57.04.303-00.57.08.960 	Jeff smiles at catching Doyle enjoying Miss Torso.
-0021_Rear_Window_01.01.18.632-01.01.21.965 	Jeff looks down, he smiles to himself.
-0021_Rear_Window_01.13.50.048-01.13.50.248 	Lisa smiles in return.
-0021_Rear_Window_01.14.53.377-01.15.03.877 	Doyle smiles at Jeff, and then strolls over to the table where he puts out his cigarette and puts down the brandy snifter.
-0023_THE_BUTTERFLY_EFFECT_00.10.03.467-00.10.06.054 	He smiles warmly and speaks in over-enunciated tones.
-0023_THE_BUTTERFLY_EFFECT_00.13.13.930-00.13.18.016 	Evan smiles with the cigarette pressed tightly between his lips and places his hands over Kayleigh's ears.
-0023_THE_BUTTERFLY_EFFECT_00.13.16.216-00.13.18.413 	She smiles back at him and presses his hands against her head.
-0023_THE_BUTTERFLY_EFFECT_00.32.22.142-00.32.26.155 	Before an answer comes, Tommy smiles at his good fortune and swings the plank, hitting Evan's head.
-0023_THE_BUTTERFLY_EFFECT_00.32.49.800-00.32.52.783 	Tommy smiles viciously at Lenny, traumatized to watch Tommy pick up the lighter fluid and spray a liquid fuse from the campfire to the soaked gunny sack.
-0023_THE_BUTTERFLY_EFFECT_01.00.34.724-01.00.37.655 	Evan nods and smiles as exams are passed down his row.
-0023_THE_BUTTERFLY_EFFECT_01.02.30.408-01.02.31.485 	Evan smiles to himself.
-0023_THE_BUTTERFLY_EFFECT_01.17.50.693-01.17.52.637 	He smiles mischievously, and grabs some colored pencils.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.10.47.151-00.10.48.729 	Gandalf smiling to himself, well pleased with his joke.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.13.03.343-00.13.17.314 	Gandalf stops in front of a framed map, charred in one corner.it is Thorin's map of the Lonely Mountain, Gandalf smiles to himself.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.18.57.832-00.18.58.203 	FRODO AND GANDALF smiling to themselves.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.14.14.842-01.14.17.758 	He smiles at Frodo.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.17.46.431-01.17.47.990 	Bilbo smiles Proudly.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.39.35.515-01.39.37.607 	Boromir smiles at Frodo, ruffling his hair.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.36.03.869-00.36.08.957 	DENETHOR smiles at GANDALF, as if amused by something.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.11.28.574-01.11.38.666 	THEODEN smiles grimly as he rides on.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.20.51.877-01.20.53.360 	ARAGORN shakes his head, smiling his acceptance.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.36.51.837-01.36.54.724 	GANDALF turns on PIPPIN, smiling despite himself.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.14.35.899-02.14.42.495 	EOWYN smiles down at him as she GENTLY STROKES his FACE.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.34.09.530-02.34.10.854 	The GRUFF DWARF smiles quietly.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.54.06.099-02.54.10.184 	ARAGORN smiles up at GANDALF.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_03.00.25.352-03.00.33.887 	FRODO, MERRY and PIPPIN exchange smiles as.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_03.00.49.346-03.00.55.463 	it's caught by PIPPIN who smiles in embarrassment.
-0026_The_Big_Fish_00.12.52.161-00.12.54.367 	The Old Woman smiles a little, a crooked grin of broken teeth.
-0026_The_Big_Fish_00.18.08.884-00.18.11.740 	He smiles at his joke.
-0026_The_Big_Fish_00.54.59.291-00.55.01.040 	CLOSE ON Edward, smiling nervously.
-0026_The_Big_Fish_01.43.58.032-01.44.00.500 	Will smiles to hear it called that.
-0026_The_Big_Fish_01.47.18.797-01.47.26.405 	Dr. Bennett smiles as he checks Edward's chart.
-0027_The_Big_Lebowski_01.23.03.311-01.23.09.973 	The Dude smiles dreamily and does a backstroke motion so that he is once again gliding face-down.
-0028_The_Crying_Game_00.14.06.790-00.14.08.495 	Jody isn't smiling anymore.
-0028_The_Crying_Game_00.25.52.135-00.25.59.189 	Jody smiles up at him.
-0028_The_Crying_Game_00.54.56.610-00.54.57.578 	The camera tracks into the soldier's smiling face.
-0028_The_Crying_Game_01.08.55.154-01.08.58.709 	Fergus smiles in spite of himself.
-0028_The_Crying_Game_01.16.44.500-01.16.46.850 	He sees Jude looking at him, smiling brightly, then talking back to Dil.
-0028_The_Crying_Game_01.16.53.660-01.16.54.747 	She smiles brightly at something behind Fergus.
-0028_The_Crying_Game_01.23.38.969-01.23.42.375 	Jude smiles and leaps up as he approaches.
-0028_The_Crying_Game_01.33.54.022-01.33.56.580 	We see the photograph with the soldier's smiling face.
-0028_The_Crying_Game_01.35.01.360-01.35.02.943 	Dil smiles woozily.
-0029_The_Graduate_00.04.51.868-00.04.53.081 	Ben tries to smile and return the wink politely.
-0029_The_Graduate_00.23.23.206-00.23.27.950 	The figures, through the slightly distorted glass of the mask of Mrs. Arnold and Mrs. Braddock, watching and smiling; the neighbors on each side of the house, looking over their fences and laughing and pointing; Mr. Arnold nodding encouragement and talking; Mr. Braddock on his knees, smiling and trying to reach out far enough to push us under.
-0029_The_Graduate_00.26.14.707-00.26.15.296 	He smiles politely and they pay no attention to him at all.
-0029_The_Graduate_00.29.01.989-00.29.08.352 	Ben tries to smile then looks out the window, then down at the center of the table.
-0029_The_Graduate_01.04.54.640-01.04.57.726 	The room clerk smiles at them.
-0030_The_Hustler_00.12.47.598-00.12.51.645 	As Big John walks off, Eddie smiles at Charlie.
-0030_The_Hustler_00.30.54.607-00.30.56.040 	Bert smiles in appreciation.
-0030_The_Hustler_00.31.21.162-00.31.23.373 	He and a smiling Bert exchange glances.
-0030_The_Hustler_01.28.18.577-01.28.22.702 	Bert smiles at Eddie.
-0031_The_Lost_Weekend_00.58.19.476-00.58.25.451 	He can't help smiling at the idea which flashes into his mind.
-0031_The_Lost_Weekend_01.25.13.613-01.25.21.524 	At first Don draws back, repelled, but the mouse is such a friendly, harmless creature that after a moment his face relaxes and he half smiles at it.
-0032_The_Princess_Bride_00.05.08.186-00.05.14.845 	He smiles at her, she smiles too, throws her arms so tightly around him.
-0032_The_Princess_Bride_00.57.21.839-00.57.25.083 	Rugen smiles and hurries down the stairs as the tree slides back perfectly into place.
-0033_Amadeus_00.08.50.809-00.08.54.774 	The priest nods, smiling suddenly, and hums a little with the music.
-0033_Amadeus_00.22.34.213-00.22.35.457 	He smiles and bows uneasily, as they include him in the small ovation.
-0033_Amadeus_00.53.28.144-00.53.29.823 	He smiles at Salieri.
-0033_Amadeus_00.59.13.302-00.59.14.250 	He smiles at her.
-0033_Amadeus_01.14.32.594-01.14.35.891 	Mozart smiles at the parents.
-0033_Amadeus_01.14.43.925-01.14.46.069 	They smile nervously back.
-0033_Amadeus_01.53.55.046-01.53.56.678 	Cavalieri, smiling adoringly, gives him a deep curtsey, and he raises her up.
-0033_Amadeus_02.46.45.615-02.46.49.954 	He sees Constanze and smiles with real joy.
-0038_Psycho_00.05.09.741-00.05.19.657 	Sam smiles reassuringly, places his hands gently on her arms, speaks with gentle and simple sincerity.
-0038_Psycho_00.08.04.348-00.08.08.222 	Cassidy pauses beside Mary's desk, hooks a haunch onto the desktop, smiles a wet smile at Mary.
-0038_Psycho_00.08.07.948-00.08.14.417 	Mary glances, cannot bring herself to smile or make some remark, continues sorting out the deed copies, tries to ignore the man's hot-breath closeness.
-0038_Psycho_00.09.57.351-00.10.04.492 	When the men are gone and the door is closed, Caroline picks up a bundle, smiles at it.
-0038_Psycho_01.07.07.458-01.07.12.923 	He takes a slip of paper out of his pocket, lays it beside the signature in the registry book, all the while nodding and smiling nicely, as if this discovery will make Norman as happy as it is making him.
-0038_Psycho_01.27.58.928-01.28.00.771 	She smiles brightly, as if having invited them over to discuss this year's charity fandango, takes the Sheriff's arm, starts away.
-0038_Psycho_01.30.20.547-01.30.24.445 	Sam smiles as if at a funny remark, takes a bill out of his pocket.
-0041_The_Sixth_Sense_00.13.54.662-00.14.16.181 	Malcolm smiles at Cole.
-0041_The_Sixth_Sense_00.21.07.752-00.21.08.726 	Cole starts to smile too.
-0041_The_Sixth_Sense_00.21.22.776-00.21.25.867 	Cole and Lynn smile at each other.
-0041_The_Sixth_Sense_00.33.38.549-00.33.38.844 	Malcolm smiles at Anna.
-0041_The_Sixth_Sense_00.41.39.008-00.41.43.682 	Cole smiles and holds out his hand.
-0041_The_Sixth_Sense_00.55.42.170-00.55.45.402 	The woman smiles menacingly as she thrusts her wrists forward.
-0041_The_Sixth_Sense_01.28.40.396-01.28.42.522 	He smiles a true friend's smile.
-0041_The_Sixth_Sense_01.33.56.128-01.34.01.341 	Cole smiles a tiny smile.
-0041_The_Sixth_Sense_01.36.22.007-01.36.31.872 	Malcolm enters the living room and smiles at what he sees.
-0043_Thelma_and_Luise_00.15.00.529-00.15.04.519 	She smiles and waves at him.
-0043_Thelma_and_Luise_00.15.17.555-00.15.19.334 	Louise smiles wistfully at Thelma's assessment of the situation.
-0043_Thelma_and_Luise_00.42.06.324-00.42.07.079 	He smiles and waves.
-0043_Thelma_and_Luise_01.17.43.559-01.17.47.378 	As they get next to the truck, the truck driver is smiling and waving at them.
-0043_Thelma_and_Luise_01.17.47.378-01.17.48.580 	They smile and wave back.
-0043_Thelma_and_Luise_01.37.32.353-01.37.34.080 	PATROLMAN'S POV OF LOUISE smiling up at him.
-0046_Chasing_Amy_00.31.56.796-00.31.58.578 	Banky is smiling ear-to-ear.
-0046_Chasing_Amy_01.38.23.316-01.38.24.932 	Holden smiles at his friend.
-0046_Chasing_Amy_01.44.17.653-01.44.18.835 	He smiles at Banky.
-0046_Chasing_Amy_01.44.24.103-01.44.25.725 	Banky smiles back, and sort of nods.
-0046_Chasing_Amy_01.44.30.727-01.44.32.226 	Banky smiles to OC.
-0046_Chasing_Amy_01.45.13.542-01.45.19.607 	Holden smiles back, nods 'bye', and walks off.
-0049_Hannah_and_her_sisters_00.02.07.488-00.02.11.063 	Lee smiles at the various people, exchanging greetings.
-0049_Hannah_and_her_sisters_00.02.15.183-00.02.19.356 	The camera is still moving with Lee as she smiles and stops to chat with her mother.
-0049_Hannah_and_her_sisters_00.02.45.499-00.02.48.234 	The camera resumes following a smiling Lee.
-0049_Hannah_and_her_sisters_00.07.12.981-00.07.17.862 	She chuckles; Elliot smiles and chuckles with her.
-0049_Hannah_and_her_sisters_00.08.11.666-00.08.15.367 	She reacts, smiling but embarrassed.
-0049_Hannah_and_her_sisters_00.13.03.055-00.13.12.523 	He's smiling contentedly while Mickey talks over the sun-filled scene.
-0049_Hannah_and_her_sisters_00.36.21.116-00.36.23.099 	The aria continues as David hands a smiling Holly a glass.
-0049_Hannah_and_her_sisters_00.37.59.910-00.38.03.187 	He turns and hesitantly smiles to an offscreen Lee.
-0049_Hannah_and_her_sisters_01.27.34.624-01.27.37.709 	Other guests mingle in the background; one couple enters the living room, smiling at the scene on the sofa.
-0049_Hannah_and_her_sisters_01.29.37.154-01.29.48.252 	The camera, however, moves closer and closer to a photograph showing Hannah, Lee, and Holly, the three sisters, smiling into the camera.
-0049_Hannah_and_her_sisters_01.34.00.873-01.34.04.207 	Mickey smiles and shrugs, not knowing what to say.
-0049_Hannah_and_her_sisters_01.40.38.805-01.40.45.188 	This time he sees a smiling Lee and Doug, talking animatedly; a few guests are seen in the background.
-0050_Indiana_Jones_and_the_last_crusade_00.09.30.158-00.09.36.134 	Fedora smiles confidently and advances toward the box.
-0050_Indiana_Jones_and_the_last_crusade_00.44.25.790-00.44.27.835 	Indy smiles slyly as they fall to the bed.
-0050_Indiana_Jones_and_the_last_crusade_00.53.34.222-00.53.39.659 	Donovan smiles benignly and flips through the Grail Diary.
-0050_Indiana_Jones_and_the_last_crusade_00.57.44.325-00.57.53.415 	She smiles and kisses Indy passionately.
-0050_Indiana_Jones_and_the_last_crusade_01.33.53.721-01.33.57.410 	Vogel looks down at Indy and smiles smugly.
-0051_Men_in_black_00.18.04.432-00.18.05.310 	At that point, the INSPECTOR sticks his head in, smiles and gives Edwards the thumbs up.
-0051_Men_in_black_01.12.27.932-01.12.29.615 	Jay's smile vanishes and his jaw drops as he figures it out.
-0053_Rendezvous_mit_Joe_Black_01.06.12.366-01.06.14.354 	Susan smiles gently.
-0053_Rendezvous_mit_Joe_Black_02.28.56.929-02.29.03.859 	She smiles wanly, Joe leaves her.
-0053_Rendezvous_mit_Joe_Black_02.39.12.746-02.39.18.153 	Parrish sees Susan, she smiles but there is a tinge of sadness about her.
-0053_Rendezvous_mit_Joe_Black_02.44.34.493-02.44.42.995 	She looks at him, he smiles, nods, but doesn't release her until she smiles back.
-0053_Rendezvous_mit_Joe_Black_02.48.26.438-02.48.31.225 	Parrish smiles faintly, takes a deep breath, he strides out again, Joe right with him.
-0053_Rendezvous_mit_Joe_Black_02.52.52.665-02.52.56.368 	Susan signs, the Young Man smiles gently, they are completely intent on each other.
-1001_Flight_00.12.51.339-00.12.56.572 	Trina smiles and looks at the passengers from her jump seat.
-1001_Flight_00.14.09.293-00.14.12.499 	She smiles at him.
-1001_Flight_00.15.41.720-00.15.43.855 	In Nicole's apartment, framed photographs on the table show a younger, smiling Nicole with her mother.
-1001_Flight_01.01.18.972-01.01.27.840 	She fidgets as she smiles to herself and observes Whip as he drives.
-1001_Flight_01.13.14.067-01.13.15.429 	He smiles at her.
-1001_Flight_01.52.05.738-01.52.09.181 	Whip smiles up at Harling.
-1001_Flight_02.04.03.660-02.04.10.487 	Whip studies Katerina's smiling face with pressed lips.
-1001_Flight_02.10.14.621-02.10.20.800 	Whip smiles as he walks towards Will seated at a desk.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.03.35.167-00.03.40.234 	She smiles at him, starts to walk away.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.03.50.418-00.03.50.775 	Harry smiles at the waitress.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.04.28.705-00.04.34.438 	Harry smiles and crosses over to join him.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.12.28.861-00.12.35.057 	He smiles when he recognizes the Weasley house.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.19.40.409-00.19.42.609 	A handsome youth, Cormac, smiles at Hermione.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.47.11.307-00.47.16.699 	She smiles as Cormac is jerked sideways and the Quaffle flies past him through the goal.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.00.39.274-01.00.40.451 	Hermione smiles knowingly.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.01.44.570-01.01.46.071 	Ron smiles broadly.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.19.29.193-01.19.31.775 	He stops and smiles menacingly.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.22.21.451-01.22.23.565 	Slughorn smiles uneasily.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.27.44.519-01.27.50.539 	Harry stares at Ron, who smiles inanely, a far away look in his eyes.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.42.36.103-01.42.42.789 	Harry smiles then open his eyes.
-1003_How_to_Lose_Friends_and_Alienate_People_00.05.24.744-00.05.26.174 	Thandie smiles coyly.
-1003_How_to_Lose_Friends_and_Alienate_People_00.05.58.025-00.05.59.431 	Thandie smiles flirtatiously.
-1003_How_to_Lose_Friends_and_Alienate_People_00.18.39.489-00.18.41.793 	Sidney's smile fades as he meets with an indifferent stare.
-1003_How_to_Lose_Friends_and_Alienate_People_00.33.20.126-00.33.28.186 	Clutching her long hair in a bun, she smiles flirtatiously for the camera.
-1003_How_to_Lose_Friends_and_Alienate_People_01.16.03.939-01.16.06.290 	He smiles fondly.
-1003_How_to_Lose_Friends_and_Alienate_People_01.19.06.666-01.19.09.295 	She closes her eyes and smiles as he puts the record on.
-1003_How_to_Lose_Friends_and_Alienate_People_01.24.17.370-01.24.18.140 	Elena smiles at the driver.
-1003_How_to_Lose_Friends_and_Alienate_People_01.25.50.249-01.25.59.220 	Dressed in a sharp pin-striped suit and dark glasses, Sydney sits opposite Vincent in a sushi bar, hurriedly taking notes and smiling enthusiastically at Vincent's comments.
-1003_How_to_Lose_Friends_and_Alienate_People_01.31.48.420-01.31.54.648 	Sydney boogies on the dance floor with the happy bounces around joyfully as a smiling Sydney jives.
-1003_How_to_Lose_Friends_and_Alienate_People_01.40.45.110-01.40.46.657 	He smiles blankly at her.
-1003_How_to_Lose_Friends_and_Alienate_People_01.42.50.464-01.42.53.995 	Sidney's smile returns, and he hurries up the slope towards them.
-1003_How_to_Lose_Friends_and_Alienate_People_01.43.21.633-01.43.24.704 	They smile at each other.
-1004_Juno_00.16.34.030-00.16.36.162 	Liberty Bell smiles slowly.
-1004_Juno_00.35.00.821-00.35.03.539 	Vanessa smiles proudly.
-1004_Juno_00.38.40.850-00.38.44.090 	Juno smiles sweetly and comes out into the corridor.
-1004_Juno_01.20.36.485-01.20.39.569 	Mac smiles to himself and carries on tinkering.
-1004_Juno_01.27.36.910-01.27.45.429 	A nurse comes to the door of the maternity ward and smiles at Vanessa, who's looking in through a window.
-1004_Juno_01.28.12.584-01.28.15.747 	Bren appears in the doorway and smiles approvingly.
-1004_Juno_01.28.48.650-01.28.51.560 	Juno starts to smile through her tears.
-1005_Signs_00.02.18.402-00.02.19.332 	Inside a framed photo on a bedside table shows a smiling family.
-1005_Signs_00.15.43.706-00.15.44.827 	Caroline smiles warmly and nods back.
-1005_Signs_00.22.36.660-00.22.39.201 	She smiles and gets in.
-1005_Signs_00.41.44.930-00.41.45.597 	Merrill's smile fades.
-1005_Signs_01.18.09.368-01.18.13.000 	Graham smiles lovingly as a tear falls from Morgan's eyes.
-1005_Signs_01.27.11.970-01.27.14.514 	She smiles bleakly.
-1006_Slumdog_Millionaire_00.16.19.685-00.16.20.291 	Jamal smiles briefly.
-1006_Slumdog_Millionaire_00.17.03.490-00.17.07.578 	Their mother smiles at the two boys playing.
-1006_Slumdog_Millionaire_00.24.46.364-00.24.49.613 	Maman pats him on the back, smiling all the way.
-1006_Slumdog_Millionaire_00.25.16.348-00.25.20.060 	Salim smiles and the children on the bus jump around excitedly.
-1006_Slumdog_Millionaire_00.55.32.499-00.55.34.487 	She smiles in recognition.
-1006_Slumdog_Millionaire_01.00.18.503-01.00.22.061 	She smiles as he squeezes his eyes tightly shut.
-1006_Slumdog_Millionaire_01.12.54.092-01.12.57.764 	Salim smiles and removes his glasses.
-1006_Slumdog_Millionaire_01.18.31.975-01.18.45.276 	She smiles as he moves towards her then they embrace each other tightly.
-1006_Slumdog_Millionaire_01.43.24.943-01.43.35.273 	Jamal smiles as he recollects his teacher beating him with the book and sheltering from the rain as a child saying she could be the third musketeer.
-1006_Slumdog_Millionaire_01.43.58.406-01.44.00.416 	Latika smiles as she watches.
-1006_Slumdog_Millionaire_01.52.20.209-01.53.08.714 	Finally, Latika stands smiling up at Jamal.
-1007_Spider-Man1_00.04.48.990-00.05.02.636 	As Parker approaches Mary Jane, she smiles and waves, he waves shyly back only to find she was greeting to girl friends walking behind him.
-1007_Spider-Man1_00.18.54.177-00.18.56.034 	He smiles as she primps her hair.
-1007_Spider-Man1_00.21.59.216-00.22.00.426 	He smiles at her.
-1007_Spider-Man1_01.10.47.553-01.10.49.559 	mj smiles fondly.
+0001_American_Beauty_00.05.01.893-00.05.08.033 	lester turns around, smiling perfunctorily.
+0001_American_Beauty_00.11.37.943-00.11.39.897 	smiling, carolyn leads a man and woman into the living room.
+0001_American_Beauty_00.19.23.285-00.19.31.476 	more rose petals fall onto the bed, and he smiles up at.
+0001_American_Beauty_00.20.01.432-00.20.07.216 	lester smiles back and laughs, as rose petals cover his face.
+0001_American_Beauty_00.29.20.377-00.29.20.937 	the colonel is smiling, enjoying the show; barbara just stares.
+0001_American_Beauty_00.30.39.685-00.30.40.051 	she smiles her most winning smile at him.
+0001_American_Beauty_00.39.36.871-00.39.38.360 	she's smiling.
+0001_American_Beauty_00.46.06.087-00.46.10.549 	close on lester, smiling.
+0001_American_Beauty_00.51.33.947-00.51.46.802 	lester sits across from him, smiling.
+0001_American_Beauty_01.15.37.010-01.15.37.790 	he smiles at her playfully.
+0001_American_Beauty_01.16.27.124-01.16.37.958 	he smiles, and moves even closer, holding his beer loosely balanced.
+0001_American_Beauty_01.22.16.544-01.22.18.722 	she smiles dreamily at him.
+0001_American_Beauty_01.27.14.811-01.27.17.447 	he smiles.
+0001_American_Beauty_01.30.04.607-01.30.05.380 	he smiles.
+0001_American_Beauty_01.33.12.928-01.33.13.782 	he looks directly back at her, leans in and smiles slowly.
+0001_American_Beauty_01.39.18.822-01.39.23.129 	we're directly outside the garage door as it slowly lifts to reveal lester smiling at us.
+0001_American_Beauty_01.43.58.538-01.44.00.449 	she smiles.
+0001_American_Beauty_01.48.24.552-01.48.28.453 	he smiles and shakes his head.
+0001_American_Beauty_01.50.30.918-01.50.36.225 	they just sit there, smiling at each other, then.
+0001_American_Beauty_01.51.26.059-01.51.33.972 	and then he smiles: the deep, satisfied smile of a man who just now understands the punch line of a joke he heard long ago.
+0001_American_Beauty_01.52.42.415-01.52.45.310 	lester looks back at us; his eyes are lifeless, but he's smiling the same slight smile.
+0001_American_Beauty_01.52.45.310-01.52.53.860 	then he smiles, ever so slightly.
+0001_American_Beauty_01.54.25.194-01.54.30.160 	a door opens to reveal 4-year-old jane, dressed for halloween in a princess costume, holding a lit sparkler aloft and smiling shyly at us.
+0002_As_Good_As_It_Gets_01.42.33.516-01.42.36.050 	carol smiles encouragement to him and herself.
+0002_As_Good_As_It_Gets_01.48.46.261-01.48.50.913 	he's excited -- smiling.
+0003_CASABLANCA_00.13.35.414-00.13.38.384 	then he sees rick and they smile at each other.
+0003_CASABLANCA_00.28.58.343-00.28.59.346 	ilsa smiles back at him, but her eyes are still troubled.
+0003_CASABLANCA_00.43.59.179-00.44.01.286 	she smiles faintly.
+0003_CASABLANCA_00.59.52.874-00.59.54.816 	she smiles again.
+0003_CASABLANCA_01.03.32.722-01.03.34.880 	he smiles.
+0003_CASABLANCA_01.10.44.930-01.10.47.921 	he smiles and walks away.
+0003_CASABLANCA_01.34.13.734-01.34.14.418 	he smiles as he turns toward rick.
+0004_Charade_00.49.23.999-00.49.24.825 	he smiles back emptily, not knowing what to make of her.
+0004_Charade_01.12.43.831-01.12.45.510 	she smiles at him.
+0004_Charade_01.23.59.874-01.24.08.281 	smiling softly, he hangs up the phone and starts for reggie's door.
+0005_Chinatown_00.26.58.679-00.27.00.677 	he smiles at gittes, probes into the pond.
+0005_Chinatown_00.29.06.170-00.29.08.889 	gittes smiles a little sheepishly.
+0006_Clerks_00.35.43.199-00.35.45.175 	and then a little girl comes into view, smiling and holding money.
+0007_DIE_NACHT_DES_JAEGERS_00.22.59.502-00.23.01.571 	his head goes slantwise and he smiles oddly.
+0007_DIE_NACHT_DES_JAEGERS_00.28.59.784-00.29.02.016 	she smiles maternally.
+0007_DIE_NACHT_DES_JAEGERS_00.37.52.979-00.37.54.548 	she smiles benignly.
+0007_DIE_NACHT_DES_JAEGERS_00.37.54.548-00.37.57.094 	willa keeps smiling.
+0007_DIE_NACHT_DES_JAEGERS_00.37.57.094-00.38.02.279 	still smiling, shaking her head as in disbelief, willa makes for house as pearl screams.
+0007_DIE_NACHT_DES_JAEGERS_00.50.49.963-00.50.51.589 	preacher's eyes crinkle and he turns to pearl, smiling brightly.
+0007_DIE_NACHT_DES_JAEGERS_01.27.09.907-01.27.11.131 	she is flanked by rabid faces and by smiling loafers, one of whom carries an axe.
+0009_Forrest_Gump_00.30.34.770-00.30.37.051 	president kennedy turns and smiles.
+0009_Forrest_Gump_01.31.52.981-01.31.55.923 	he smiles, surprised.
+0011_Gandhi_00.03.08.818-00.03.17.373 	we do not see him clearly until the very last moment -- only glimpses of him as he smiles, and exchanges little jokes with some of the crowd and the two young women who support him, occasionally joining his hands together in greeting to someone in particular, then once more proceeding with a hand on the shoulder of each of the girls.
+0011_Gandhi_00.03.45.133-00.03.45.775 	he smiles and joins his hands together to exchange godse's greeting.
+0011_Gandhi_00.10.14.846-00.10.16.713 	he smiles, but his eyes show that it is no joke.
+0011_Gandhi_00.32.30.489-00.32.34.680 	the civilian looks at him sharply, then smiles derisively, signaling the car off.
+0011_Gandhi_00.42.23.520-00.42.27.800 	gandhi is smiling, trying to move on, but answering the questions of an indian journalist.
+0011_Gandhi_00.47.12.498-00.47.19.194 	he still hasn't smiled, but gandhi and charlie have.
+0011_Gandhi_00.48.06.966-00.48.12.374 	he pauses and looks at gandhi -- and for the first time he smiles.
+0011_Gandhi_01.13.57.309-01.13.58.434 	as he smiles down at them, he is turned by.
+0011_Gandhi_01.30.52.529-01.30.54.239 	he smiles dryly.
+0011_Gandhi_01.41.33.747-01.41.35.233 	kallenbach is smiling too.
+0011_Gandhi_01.44.42.640-01.44.44.748 	she smiles.
+0011_Gandhi_01.51.15.061-01.51.17.163 	he tries to smile.
+0011_Gandhi_02.20.57.005-02.21.05.124 	gandhi, mirabehn and gandhi's secretary, desai, waving goodbye from the boat deck of their ship as it sails -- mirabehn is holding the tether of a goat -- all of them smiling at the camera like voyagers everywhere.
+0011_Gandhi_02.28.02.373-02.28.03.775 	gandhi is at the wheel and he is smiling off at bourke-white, who is trying ineptly to imitate him on another spinning wheel.
+0011_Gandhi_02.29.25.205-02.29.31.420 	and he smiles a little wisely at her.
+0011_Gandhi_02.37.43.740-02.37.45.792 	mirabehn just smiles at it.
+0011_Gandhi_02.48.36.061-02.48.37.931 	they are whispering quietly, but mirabehn has stopped on seeing nehru and she smiles a relieved greeting.
+0011_Gandhi_02.54.40.654-02.54.57.599 	they glance at suhrawardy; he smiles tautly and they start to leave, but one (nahari) lingers.
+0011_Gandhi_03.00.01.206-03.00.02.583 	gandhi taps her on the head with his finger as she smiles.
+0012_Get_Shorty_01.14.51.421-01.14.54.241 	harry just smiles, sits down at the desk, things already not going too well, about to get worse.
+0012_Get_Shorty_01.16.02.176-01.16.04.349 	bo catlett barely glances at the bodyguards, smiles the gleamy smile to the latin guy in front of him.
+0012_Get_Shorty_01.24.23.155-01.24.26.369 	bo catlett looks at the bear, then smiles at farrah.
+0013_Halloween_00.57.17.314-00.57.22.870 	he watches them race away, smiling to himself.
+0013_Halloween_01.04.23.206-01.04.24.166 	she smiles to herself.
+0014_Ist_das_Leben_nicht_schoen_00.14.30.496-00.14.34.500 	pop is smiling and poking his plate.
+0014_Ist_das_Leben_nicht_schoen_00.20.33.262-00.20.37.941 	still staring at george, and smiling.
+0014_Ist_das_Leben_nicht_schoen_00.35.57.390-00.36.02.444 	she stands, smiling, waiting.
+0014_Ist_das_Leben_nicht_schoen_00.37.44.176-00.37.45.444 	ruth nods, smiling.
+0014_Ist_das_Leben_nicht_schoen_01.19.56.730-01.20.02.825 	uncle billy smiles triumphantly and goes toward deposit window with his deposit slip.
+0014_Ist_das_Leben_nicht_schoen_01.40.49.151-01.40.52.199 	george casually looks at the strange smiling little man a second time.
+0016_O_Brother_Where_Art_Thou_00.43.35.007-00.43.46.705 	strangely, the three laundresses do not answer, though they do smile at him as they continue to sing.
+0016_O_Brother_Where_Art_Thou_01.33.46.160-01.33.52.470 	delmar, smiling, shakes his head as he watches him go.
+0017_Pianist_00.08.24.356-00.08.28.783 	and he is smiling, touched by her.
+0017_Pianist_00.15.55.481-00.16.00.264 	he smiles and runs to catch up with his family.
+0017_Pianist_00.23.09.849-00.23.11.150 	two or three he discards, but he smiles when coins make a pure tone, and he keeps them.
+0017_Pianist_00.50.25.218-00.50.27.526 	father sees him, takes a step towards him, but stops, smiling helplessly.
+0017_Pianist_01.18.24.252-01.18.26.296 	he smiles beatifically.
+0017_Pianist_01.42.21.374-01.42.27.853 	he focuses on her, smiles.
+0017_Pianist_02.20.26.891-02.20.33.390 	he smiles.
+0017_Pianist_02.20.35.527-02.20.40.372 	lednicki nods, smiles back.
+0019_Pulp_Fiction_00.12.22.604-00.12.26.215 	vincent, smiling, walks a little bit behind.
+0020_Raising_Arizona_00.05.26.175-00.05.29.470 	a sudden flash whitens and fades to leave the image of ed, smiling behind her camera, softly supered on the underside of the bunk.
+0020_Raising_Arizona_00.06.24.925-00.06.26.872 	on the newlyweds smiling at the camera.
+0020_Raising_Arizona_00.06.26.872-00.06.29.430 	on the newlyweds smiling at each other, profile to the camera.
+0020_Raising_Arizona_00.26.50.343-00.26.51.121 	hi sits gingerly on the edge of the bed and, smiling, sticks a finger through the bars of the crib to play with the baby.
+0020_Raising_Arizona_01.01.43.771-01.01.45.552 	gale and evelle are smiling down at him.
+0021_Rear_Window_00.04.24.502-00.04.26.223 	they are smiling and talking, although we cannot hear their dialogue.
+0021_Rear_Window_00.18.35.110-00.18.38.697 	he smiles, nods enters.
+0021_Rear_Window_00.21.59.662-00.22.01.662 	the spinster sweeps into the room, smiling.
+0021_Rear_Window_00.23.15.749-00.23.18.224 	then she starts to take a sip, smiling across the table at her imaginary guest.
+0021_Rear_Window_00.31.13.008-00.31.16.163 	continues smiling as she close the door softly behind her.
+0021_Rear_Window_00.45.50.666-00.45.52.166 	jeff is thoughtful for a moment, then he relaxes and smiles a little.
+0021_Rear_Window_00.57.02.864-00.57.04.323 	he even smiles somewhat secretly to himself at what he sees.
+0021_Rear_Window_01.01.18.632-01.01.21.965 	jeff looks down, he smiles to himself.
+0021_Rear_Window_01.32.45.357-01.32.46.589 	the two women smile.
+0022_Reservoir_Dogs_01.06.27.067-01.06.32.738 	holdaway just looks at his pupil for a moment, then smiles.
+0023_THE_BUTTERFLY_EFFECT_00.10.03.467-00.10.06.054 	he smiles warmly and speaks in over-enunciated tones.
+0023_THE_BUTTERFLY_EFFECT_00.13.16.216-00.13.18.413 	she smiles back at him and presses his hands against her head.
+0023_THE_BUTTERFLY_EFFECT_01.17.50.693-01.17.52.637 	he smiles mischievously, and grabs some colored pencils.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.10.47.151-00.10.48.729 	gandalf smiling to himself, well pleased with his joke.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.18.57.832-00.18.58.203 	frodo and gandalf smiling to themselves.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.14.14.842-01.14.17.758 	he smiles at frodo.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.14.23.665-00.14.28.672 	aragorn steps up beside him, smiling at the floorshow.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.20.51.877-01.20.53.360 	aragorn shakes his head, smiling his acceptance.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.36.51.837-01.36.54.724 	gandalf turns on pippin, smiling despite himself.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_03.00.49.346-03.00.55.463 	it's caught by pippin who smiles in embarrassment.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_03.05.36.842-03.05.37.858 	she smiles, turns and boards the boat.
+0026_The_Big_Fish_00.12.52.161-00.12.54.367 	the old woman smiles a little, a crooked grin of broken teeth.
+0026_The_Big_Fish_00.14.23.580-00.14.25.341 	she smiles, surprised but not doubting.
+0026_The_Big_Fish_00.18.08.884-00.18.11.740 	he smiles at his joke.
+0026_The_Big_Fish_00.30.54.328-00.30.55.578 	most are smiling.
+0026_The_Big_Fish_00.42.53.980-00.42.59.515 	she smiles.
+0026_The_Big_Fish_00.54.59.291-00.55.01.040 	close on edward, smiling nervously.
+0026_The_Big_Fish_01.04.14.071-01.04.18.915 	she's smiling, confused, joyful and scared.
+0026_The_Big_Fish_01.28.24.601-01.28.27.354 	he smiles, then pulls his knees up, making room for her in the tub.
+0026_The_Big_Fish_01.43.58.032-01.44.00.500 	will smiles to hear it called that.
+0027_The_Big_Lebowski_01.23.03.311-01.23.09.973 	the dude smiles dreamily and does a backstroke motion so that he is once again gliding face-down.
+0028_The_Crying_Game_00.13.24.573-00.13.26.468 	he smiles.
+0028_The_Crying_Game_00.14.06.790-00.14.08.495 	jody isn't smiling anymore.
+0028_The_Crying_Game_00.16.14.052-00.16.15.617 	it is of jody, in cricket whites, smiling, holding a bat.
+0028_The_Crying_Game_00.16.20.011-00.16.26.349 	fergus takes out another picture of jody and of a beautiful black woman, smiling.
+0028_The_Crying_Game_00.25.52.135-00.25.59.189 	jody smiles up at him.
+0028_The_Crying_Game_00.50.31.274-00.50.32.185 	she smiles.
+0028_The_Crying_Game_00.52.52.344-00.52.57.462 	dil walks out of the salon, smiling, and walks toward fergus.
+0028_The_Crying_Game_00.54.56.610-00.54.57.578 	the camera tracks into the soldier's smiling face.
+0028_The_Crying_Game_00.56.49.953-00.56.52.702 	the photograph above them seems to smile.
+0028_The_Crying_Game_01.11.28.554-01.11.29.462 	all the girls are smiling.
+0028_The_Crying_Game_01.16.44.500-01.16.46.850 	he sees jude looking at him, smiling brightly, then talking back to dil.
+0028_The_Crying_Game_01.16.53.660-01.16.54.747 	she smiles brightly at something behind fergus.
+0028_The_Crying_Game_01.17.23.116-01.17.23.734 	as they pass jude, she smiles.
+0028_The_Crying_Game_01.33.54.022-01.33.56.580 	we see the photograph with the soldier's smiling face.
+0029_The_Graduate_00.04.51.868-00.04.53.081 	ben tries to smile and return the wink politely.
+0029_The_Graduate_00.16.28.217-00.16.29.073 	she smiles.
+0029_The_Graduate_00.23.23.206-00.23.27.950 	the figures, through the slightly distorted glass of the mask of mrs. arnold and mrs. braddock, watching and smiling; the neighbors on each side of the house, looking over their fences and laughing and pointing; mr. arnold nodding encouragement and talking; mr. braddock on his knees, smiling and trying to reach out far enough to push us under.
+0029_The_Graduate_00.26.14.707-00.26.15.296 	he smiles politely and they pay no attention to him at all.
+0029_The_Graduate_00.29.01.989-00.29.08.352 	ben tries to smile then looks out the window, then down at the center of the table.
+0029_The_Graduate_01.12.28.464-01.12.30.823 	mr. braddock starts to smile.
+0030_The_Hustler_00.04.34.650-00.04.38.866 	eddie pauses, smiling.
+0030_The_Hustler_00.31.21.162-00.31.23.373 	he and a smiling bert exchange glances.
+0030_The_Hustler_00.56.29.570-00.56.31.999 	she smiles, then she gets up and returns to the kitchenette.
+0030_The_Hustler_02.12.48.503-02.12.50.622 	he tries to smile.
+0031_The_Lost_Weekend_00.58.19.476-00.58.25.451 	he can't help smiling at the idea which flashes into his mind.
+0031_The_Lost_Weekend_01.25.13.613-01.25.21.524 	at first don draws back, repelled, but the mouse is such a friendly, harmless creature that after a moment his face relaxes and he half smiles at it.
+0032_The_Princess_Bride_00.01.47.468-00.01.49.351 	he does his best to smile.
+0032_The_Princess_Bride_00.05.08.186-00.05.14.845 	he smiles at her, she smiles too, throws her arms so tightly around him.
+0032_The_Princess_Bride_01.20.28.290-01.20.30.200 	buttercup only smiles, shakes her head.
+0033_Amadeus_00.08.50.809-00.08.54.774 	the priest nods, smiling suddenly, and hums a little with the music.
+0033_Amadeus_00.22.34.213-00.22.35.457 	he smiles and bows uneasily, as they include him in the small ovation.
+0033_Amadeus_00.53.28.144-00.53.29.823 	he smiles at salieri.
+0033_Amadeus_00.59.13.302-00.59.14.250 	he smiles at her.
+0033_Amadeus_01.14.43.925-01.14.46.069 	they smile nervously back.
+0033_Amadeus_01.53.55.046-01.53.56.678 	cavalieri, smiling adoringly, gives him a deep curtsey, and he raises her up.
+0038_Psycho_00.08.04.348-00.08.08.222 	cassidy pauses beside mary's desk, hooks a haunch onto the desktop, smiles a wet smile at mary.
+0038_Psycho_00.08.07.948-00.08.14.417 	mary glances, cannot bring herself to smile or make some remark, continues sorting out the deed copies, tries to ignore the man's hot-breath closeness.
+0038_Psycho_00.09.57.351-00.10.04.492 	when the men are gone and the door is closed, caroline picks up a bundle, smiles at it.
+0038_Psycho_00.19.11.508-00.19.15.032 	as she approaches, lost in her newspaper, he smiles.
+0038_Psycho_01.07.07.458-01.07.12.923 	he takes a slip of paper out of his pocket, lays it beside the signature in the registry book, all the while nodding and smiling nicely, as if this discovery will make norman as happy as it is making him.
+0038_Psycho_01.27.58.928-01.28.00.771 	she smiles brightly, as if having invited them over to discuss this year's charity fandango, takes the sheriff's arm, starts away.
+0041_The_Sixth_Sense_00.05.32.703-00.05.32.907 	he smiles.
+0041_The_Sixth_Sense_00.21.07.752-00.21.08.726 	cole starts to smile too.
+0041_The_Sixth_Sense_00.55.42.170-00.55.45.402 	the woman smiles menacingly as she thrusts her wrists forward.
+0041_The_Sixth_Sense_01.28.40.396-01.28.42.522 	he smiles a true friend's smile.
+0041_The_Sixth_Sense_01.33.56.128-01.34.01.341 	cole smiles a tiny smile.
+0041_The_Sixth_Sense_01.36.22.007-01.36.31.872 	malcolm enters the living room and smiles at what he sees.
+0043_Thelma_and_Luise_00.15.00.529-00.15.04.519 	she smiles and waves at him.
+0043_Thelma_and_Luise_00.42.06.324-00.42.07.079 	he smiles and waves.
+0043_Thelma_and_Luise_00.53.41.285-00.53.43.898 	jimmy is smiling.
+0043_Thelma_and_Luise_01.17.43.559-01.17.47.378 	as they get next to the truck, the truck driver is smiling and waving at them.
+0043_Thelma_and_Luise_01.17.47.378-01.17.48.580 	they smile and wave back.
+0043_Thelma_and_Luise_01.37.32.353-01.37.34.080 	patrolman's pov of louise smiling up at him.
+0046_Chasing_Amy_00.21.42.210-00.21.45.057 	alyssa shakes her head, smiling.
+0046_Chasing_Amy_00.23.45.364-00.23.51.310 	holden is smiling, being seduced, banky rolls his eyes.
+0046_Chasing_Amy_00.31.56.796-00.31.58.578 	banky is smiling ear-to-ear.
+0046_Chasing_Amy_01.44.17.653-01.44.18.835 	he smiles at banky.
+0046_Chasing_Amy_01.44.24.103-01.44.25.725 	banky smiles back, and sort of nods.
+0046_Chasing_Amy_01.46.34.725-01.46.36.649 	holden stands before her, smiling.
+0049_Hannah_and_her_sisters_00.02.15.183-00.02.19.356 	the camera is still moving with lee as she smiles and stops to chat with her mother.
+0049_Hannah_and_her_sisters_00.02.45.499-00.02.48.234 	the camera resumes following a smiling lee.
+0049_Hannah_and_her_sisters_00.08.11.666-00.08.15.367 	she reacts, smiling but embarrassed.
+0049_Hannah_and_her_sisters_00.13.03.055-00.13.12.523 	he's smiling contentedly while mickey talks over the sun-filled scene.
+0049_Hannah_and_her_sisters_00.36.21.116-00.36.23.099 	the aria continues as david hands a smiling holly a glass.
+0049_Hannah_and_her_sisters_00.37.59.910-00.38.03.187 	he turns and hesitantly smiles to an offscreen lee.
+0049_Hannah_and_her_sisters_01.20.39.853-01.20.53.820 	they mouth hello, smiling, and begin to walk off together.
+0049_Hannah_and_her_sisters_01.23.29.184-01.23.30.647 	she looks off in the distance, smiling, as the film cuts to.
+0049_Hannah_and_her_sisters_01.24.00.075-01.24.05.379 	some guests sip their drinks, smiling, as the camera moves back to the piano and the book- laden wall.
+0049_Hannah_and_her_sisters_01.27.34.624-01.27.37.709 	other guests mingle in the background; one couple enters the living room, smiling at the scene on the sofa.
+0049_Hannah_and_her_sisters_01.29.37.154-01.29.48.252 	the camera, however, moves closer and closer to a photograph showing hannah, lee, and holly, the three sisters, smiling into the camera.
+0049_Hannah_and_her_sisters_01.40.18.538-01.40.20.883 	he enters the living room, smiling.
+0049_Hannah_and_her_sisters_01.41.03.861-01.41.05.828 	the film quickly cuts to a brief look at lee and doug, still talking animatedly and smiling.
+0050_Indiana_Jones_and_the_last_crusade_00.16.59.033-00.17.01.102 	indy walks briskly toward the street; smiling, enjoying his freedom.
+0050_Indiana_Jones_and_the_last_crusade_00.57.44.325-00.57.53.415 	she smiles and kisses indy passionately.
+0050_Indiana_Jones_and_the_last_crusade_01.32.44.498-01.32.48.304 	the nazi soldier looking through the periscope pulls away from it, smiles, then turns back to it.
+0050_Indiana_Jones_and_the_last_crusade_01.33.53.721-01.33.57.410 	vogel looks down at indy and smiles smugly.
+0053_Rendezvous_mit_Joe_Black_00.08.39.435-00.08.43.939 	he smiles.
+0053_Rendezvous_mit_Joe_Black_00.19.40.890-00.19.46.593 	susan is staring at him now, he smiles, all open and vulnerable.
+0053_Rendezvous_mit_Joe_Black_01.52.48.647-01.52.53.331 	she smiles.
+0053_Rendezvous_mit_Joe_Black_02.28.56.929-02.29.03.859 	she smiles wanly, joe leaves her.
+0053_Rendezvous_mit_Joe_Black_02.39.12.746-02.39.18.153 	parrish sees susan, she smiles but there is a tinge of sadness about her.
+0053_Rendezvous_mit_Joe_Black_02.44.34.493-02.44.42.995 	she looks at him, he smiles, nods, but doesn't release her until she smiles back.
+0053_Rendezvous_mit_Joe_Black_02.52.52.665-02.52.56.368 	susan signs, the young man smiles gently, they are completely intent on each other.
+1001_Flight_00.14.09.293-00.14.12.499 	she smiles at him.
+1001_Flight_00.15.41.720-00.15.43.855 	in nicole's apartment, framed photographs on the table show a younger, smiling nicole with her mother.
+1001_Flight_01.01.18.972-01.01.27.840 	she fidgets as she smiles to herself and observes whip as he drives.
+1001_Flight_01.13.14.067-01.13.15.429 	he smiles at her.
+1001_Flight_01.52.05.738-01.52.09.181 	whip smiles up at harling.
+1001_Flight_02.04.03.660-02.04.10.487 	whip studies katerina's smiling face with pressed lips.
+1001_Flight_02.07.07.978-02.07.11.593 	some inmates smile.
+1001_Flight_02.11.40.431-02.11.48.069 	whip's brow furrows, then he smiles.
+1002_Harry_Potter_and_the_Half-Blood_Prince_00.03.35.167-00.03.40.234 	she smiles at him, starts to walk away.
+1002_Harry_Potter_and_the_Half-Blood_Prince_00.12.28.861-00.12.35.057 	he smiles when he recognizes the weasley house.
+1002_Harry_Potter_and_the_Half-Blood_Prince_00.19.40.409-00.19.42.609 	a handsome youth, cormac, smiles at hermione.
+1002_Harry_Potter_and_the_Half-Blood_Prince_00.47.11.307-00.47.16.699 	she smiles as cormac is jerked sideways and the quaffle flies past him through the goal.
+1002_Harry_Potter_and_the_Half-Blood_Prince_01.00.39.274-01.00.40.451 	hermione smiles knowingly.
+1002_Harry_Potter_and_the_Half-Blood_Prince_01.03.00.768-01.03.02.433 	hermione barely smiles.
+1002_Harry_Potter_and_the_Half-Blood_Prince_01.19.29.193-01.19.31.775 	he stops and smiles menacingly.
+1002_Harry_Potter_and_the_Half-Blood_Prince_01.27.44.519-01.27.50.539 	harry stares at ron, who smiles inanely, a far away look in his eyes.
+1002_Harry_Potter_and_the_Half-Blood_Prince_01.42.36.103-01.42.42.789 	harry smiles then open his eyes.
+1003_How_to_Lose_Friends_and_Alienate_People_00.33.20.126-00.33.28.186 	clutching her long hair in a bun, she smiles flirtatiously for the camera.
+1003_How_to_Lose_Friends_and_Alienate_People_00.49.22.143-00.49.23.877 	smiling, clayton strolls up to him.
+1003_How_to_Lose_Friends_and_Alienate_People_01.16.03.939-01.16.06.290 	he smiles fondly.
+1003_How_to_Lose_Friends_and_Alienate_People_01.25.50.249-01.25.59.220 	dressed in a sharp pin-striped suit and dark glasses, sydney sits opposite vincent in a sushi bar, hurriedly taking notes and smiling enthusiastically at vincent's comments.
+1003_How_to_Lose_Friends_and_Alienate_People_01.31.48.420-01.31.54.648 	sydney boogies on the dance floor with the happy bounces around joyfully as a smiling sydney jives.
+1003_How_to_Lose_Friends_and_Alienate_People_01.32.04.707-01.32.08.775 	smiling suggestively wraps her arms around sydney.
+1003_How_to_Lose_Friends_and_Alienate_People_01.33.32.128-01.33.34.740 	smiling victoriously, sophie stalks into the room from the adjacent balcony.
+1003_How_to_Lose_Friends_and_Alienate_People_01.40.45.110-01.40.46.657 	he smiles blankly at her.
+1003_How_to_Lose_Friends_and_Alienate_People_01.43.05.612-01.43.08.142 	she smiles, and he looks around awkwardly.
+1003_How_to_Lose_Friends_and_Alienate_People_01.43.21.633-01.43.24.704 	they smile at each other.
+1003_How_to_Lose_Friends_and_Alienate_People_01.43.36.341-01.43.41.293 	she smiles, and they share a passionate kiss.
+1004_Juno_00.16.34.030-00.16.36.162 	liberty bell smiles slowly.
+1004_Juno_01.22.49.210-01.22.52.610 	their eyes lock and he smiles.
+1004_Juno_01.28.12.584-01.28.15.747 	bren appears in the doorway and smiles approvingly.
+1004_Juno_01.28.48.650-01.28.51.560 	juno starts to smile through her tears.
+1004_Juno_01.29.35.280-01.29.41.330 	smiling juno, back to her slim self, pushes her bike out onto the pavement with a guitar over her shoulder.
+1005_Signs_00.22.36.660-00.22.39.201 	she smiles and gets in.
+1005_Signs_01.27.11.970-01.27.14.514 	she smiles bleakly.
+1006_Slumdog_Millionaire_00.24.46.364-00.24.49.613 	maman pats him on the back, smiling all the way.
+1006_Slumdog_Millionaire_00.53.06.610-00.53.08.130 	he smiles.
+1006_Slumdog_Millionaire_00.55.32.499-00.55.34.487 	she smiles in recognition.
+1006_Slumdog_Millionaire_01.00.18.503-01.00.22.061 	she smiles as he squeezes his eyes tightly shut.
+1006_Slumdog_Millionaire_01.18.31.975-01.18.45.276 	she smiles as he moves towards her then they embrace each other tightly.
+1006_Slumdog_Millionaire_01.32.36.403-01.32.38.918 	the director and his assistants all smile.
+1006_Slumdog_Millionaire_01.52.20.209-01.53.08.714 	finally, latika stands smiling up at jamal.
+1007_Spider-Man1_00.04.48.990-00.05.02.636 	as parker approaches mary jane, she smiles and waves, he waves shyly back only to find she was greeting to girl friends walking behind him.
+1007_Spider-Man1_00.18.54.177-00.18.56.034 	he smiles as she primps her hair.
+1007_Spider-Man1_00.21.59.216-00.22.00.426 	he smiles at her.
+1007_Spider-Man1_00.53.44.002-00.53.45.704 	he smiles.
 1007_Spider-Man1_01.19.12.101-01.19.14.171 	she smiles gently at him.
 1007_Spider-Man1_01.35.11.783-01.35.14.868 	she smiles a little.
+1007_Spider-Man1_01.35.20.657-01.35.23.588 	she smiles, then closes her eyes again.
 1008_Spider-Man2_00.09.40.490-00.09.41.694 	peter smiles self-consciously.
-1008_Spider-Man2_00.31.04.980-00.31.07.848 	peter smiles contentedly.
-1008_Spider-Man2_00.31.13.905-00.31.17.967 	peter's smile fades as he sees the guy kissing mj.
+1008_Spider-Man2_00.17.56.727-00.18.01.664 	he looks up again and tries to smile.
 1008_Spider-Man2_00.40.31.099-00.40.32.758 	he smiles back and takes a pair of dark goggles from her.
 1008_Spider-Man2_01.12.56.092-01.12.57.916 	she smiles sweetly.
-1008_Spider-Man2_01.15.09.776-01.15.16.838 	peter half smiles as mj steps into the cab, shuts the door and watches as the cab drives away.
 1008_Spider-Man2_01.17.16.089-01.17.19.168 	he smiles and walks on past an alleyway.
-1008_Spider-Man2_01.39.39.363-01.39.40.118 	octavius smiles at mj.
+1008_Spider-Man2_01.50.35.023-01.50.36.271 	he simply smiles.
 1008_Spider-Man2_02.07.49.756-02.08.02.243 	out in the sunshine, mj, still in her wedding dress, runs through a garden past a fountain, smiling broadly, her hair beginning to fall loose.
 1008_Spider-Man2_02.08.27.723-02.08.29.434 	she smiles warmly.
-1009_Spider-Man3_00.04.17.337-00.04.18.993 	gwen stacy smiles at peter.
-1009_Spider-Man3_00.07.20.956-00.07.21.305 	mary jane smiles warmly.
+1009_Spider-Man3_00.09.28.910-00.09.36.515 	she smiles, and they kiss tenderly.
 1009_Spider-Man3_00.10.04.606-00.10.12.807 	peter, smiling happily, slides down a thread of webbing with mary jane, unaware of the tendrils crawling up a nearby ridge like a huge black spider.
 1009_Spider-Man3_00.16.39.358-00.16.45.088 	peter takes the ring and gazes gratefully at his aunt, who smiles back at him, warmly.
-1009_Spider-Man3_00.25.38.960-00.25.53.911 	he turns to face the doorway and smiles as peter steps inside.
-1009_Spider-Man3_00.27.03.163-00.27.04.864 	in the room, the nurse smiles at harry.
 1009_Spider-Man3_00.30.17.496-00.30.20.716 	he smiles and looks at the ring.
-1009_Spider-Man3_00.31.51.486-00.31.54.204 	peter smiles feebly.
 1009_Spider-Man3_00.36.17.263-00.36.23.308 	the marketing guy slaps various slogans onto a whiteboard then smiles cockily at the grouchy newspaper editor.
 1009_Spider-Man3_00.37.29.476-00.37.32.756 	he smiles graciously at the marketing guy.
 1009_Spider-Man3_00.43.02.573-00.43.04.384 	she smiles as they applaud.
 1009_Spider-Man3_00.43.20.782-00.43.29.343 	peter is standing amidst the delirious crowd, smiling to himself, drinking in the adulation.
-1009_Spider-Man3_01.17.26.730-01.17.28.022 	harry smiles at her.
 1009_Spider-Man3_01.21.39.581-01.21.41.077 	ursula, the landlord's daughter, smiles awkwardly.
-1009_Spider-Man3_01.26.22.223-01.26.24.923 	harry smiles and wink.
 1009_Spider-Man3_01.27.15.606-01.27.19.862 	sensing peter behind him, he smiles without looking around.
 1009_Spider-Man3_01.31.56.529-01.32.02.557 	brock looks around, smiling nervously.
 1010_TITANIC_00.03.20.346-00.03.21.802 	the man smiles at a bearded crew mate.
-1010_TITANIC_00.14.31.134-00.14.37.055 	the long haired woman smiles and pushes rose away in a wheelchair.
-1010_TITANIC_00.16.55.242-00.17.05.828 	rose smiles as she picks up the silver hand mirror.
-1010_TITANIC_00.31.59.407-00.32.10.973 	jack smiles as he gazes down at the dolphins behind them a crew member hand a teacup to captain smith.
-1010_TITANIC_00.34.09.306-00.34.10.885 	rose smiles at cal.
-1010_TITANIC_00.46.47.479-00.46.58.895 	cal smiles at the blank-faced rose who blinks then turns and stares at her reflection.
-1010_TITANIC_00.52.03.351-00.52.06.223 	rose smiles at jack.
-1010_TITANIC_00.56.54.854-00.56.58.521 	wearing a white tie and shirt, jack smiles at the steward as he steps inside.
+1010_TITANIC_00.41.55.908-00.41.58.138 	he smiles.
+1010_TITANIC_00.55.31.867-00.55.33.301 	smiling at jack, molly points to her own chin.
 1010_TITANIC_00.58.22.030-00.58.31.171 	she smiles and descends the stairs toward him.
 1010_TITANIC_00.58.50.954-00.58.54.186 	she smiles as he tilts back his chin, nose in the air.
-1010_TITANIC_00.59.15.094-00.59.16.761 	rose smiles at jack as they follow.
 1010_TITANIC_01.15.59.742-01.16.05.154 	captain smith reads a note, then smiles at ruth.
-1010_TITANIC_01.27.37.271-01.27.40.165 	jack smiles as he darkens a shadow under rose's breasts.
-1010_TITANIC_01.56.15.289-01.56.17.018 	cal smiles at lightoller.
 1010_TITANIC_02.47.28.767-02.47.44.685 	rose's blue lips tremble as she smiles weakly.
-1010_TITANIC_02.55.03.248-02.55.05.915 	rose's smile fades as she stares at jack.
-1010_TITANIC_03.03.05.008-03.03.09.675 	staring at brock, lizzy smiles and shakes her he head.
-1010_TITANIC_03.04.40.717-03.04.48.836 	as the necklace sinks, rose smiles and exhales deeply.
-1010_TITANIC_03.05.19.654-03.05.23.845 	in another, rose smiles to stride a horse.
-1011_The_Help_00.12.22.383-00.12.25.633 	hilly kicks jolene with her stilettoed foot and smiles blithely.
-1011_The_Help_00.14.51.990-00.14.53.615 	skeeter smiles at aibileen, who is replenishing the ladies' glasses.
-1011_The_Help_00.23.42.379-00.23.46.519 	the black woman, constantine, smiles at her warmly as she sits down next to her.
-1011_The_Help_01.05.19.960-01.05.22.465 	celia smiles warmly.
+1010_TITANIC_03.06.25.075-03.06.30.240 	inside, passengers and crew members stand together and smile.
+1010_TITANIC_03.06.37.784-03.06.45.966 	he turns and smiles, then extends his hand.
+1011_The_Help_00.34.46.526-00.34.49.378 	smiling softly, aibileen kisses her on the cheek.
 1011_The_Help_01.06.33.500-01.06.41.438 	celia bites into a chicken leg and smiles contentedly.
-1011_The_Help_01.16.43.583-01.16.46.603 	she strides past her smiling date.
 1011_The_Help_01.44.06.170-01.44.06.561 	mrs. walters smiles gaily.
 1011_The_Help_01.48.13.774-01.48.16.847 	at her house, aibileen and minnie are smiling at skeeter's manuscript.
 1011_The_Help_01.55.08.336-01.55.12.299 	she smiles at the memory.
 1011_The_Help_02.03.06.332-02.03.09.041 	charlotte's looking elegant in a tight fitting turban, smiles loftily at hilly.
+1011_The_Help_02.05.31.402-02.05.35.622 	smiling warmly, charlotte leans in and kisses skeeter on the forehead.
+1011_The_Help_02.05.36.551-02.05.41.278 	skeeter tries to smile, but is overcome by sadness.
 1011_The_Help_02.09.33.059-02.09.35.912 	aibileen looks from smiling pearly to smiling minnie.
-1011_The_Help_02.12.40.544-02.12.46.059 	skeeter smiles and nods through her tears.
 1011_The_Help_02.18.06.689-02.18.34.200 	she smiles to herself, and as she walks on down the long, narrow road dappled with sunlight, flanked by tall trees and neat green verges, she has a spring in her step.
 1012_Unbreakable_00.01.30.022-00.01.31.775 	the women smiles at the wriggling bundle.
+1012_Unbreakable_00.07.45.193-00.07.48.666 	her blonde hair pulled off her face and held by yellow clips watching him and smiling.
+1012_Unbreakable_00.12.28.297-00.12.36.964 	david walks stiffly down a hospital corridor lined with silent people standing, sitting, leaning against walls, many of them watching him and smiling.
 1012_Unbreakable_00.43.35.761-00.43.43.428 	he turns and walks slowly and smiling towards a small green park where a group of boys are playing american football on the grass.
+1012_Unbreakable_00.53.33.713-00.53.36.379 	the crowd streams past him, laughing and smiling.
 1012_Unbreakable_01.20.36.850-01.20.43.517 	he looks beyond them and sees the young man wearing a green jacket embrace his mother and turn to smile at his father.
 1012_Unbreakable_01.31.50.774-01.32.06.441 	she watches him, smiling very faintly, her long, fair hair falling back from her white forehead, and the light making a silver line of her profile, emphasizing her aquiline features, as she stares steadily up at him.
-1014_2012_00.41.21.589-00.41.24.256 	jackson smiles and waves to lily as she goes inside.
-1014_2012_01.26.23.223-01.26.26.348 	nora smiles and nods.
-1015_27_Dresses_00.08.10.212-00.08.17.929 	jane smiles in delight, arms outstretched, as the bridal bouquet is thrown and sails straight towards her.
+1012_Unbreakable_01.33.35.492-01.33.39.355 	they look around at him, smiling.
 1015_27_Dresses_00.11.19.145-00.11.25.619 	as kevin sits in the cab smiling to himself, he looks down and notices jane's filofax on the floor.
-1015_27_Dresses_00.19.17.210-00.19.25.354 	a jumbo jet touches down, and in the airport, jane smiles as cute blonde tess arrives.
 1015_27_Dresses_00.24.00.097-00.24.02.573 	they smile as jane frowns.
+1015_27_Dresses_00.37.48.970-00.37.56.877 	as tess chatters and the men smile, jane unhappily stuffs her face with food.
 1015_27_Dresses_00.39.21.695-00.39.26.980 	she smiles after him and heads back to her desk.
-1015_27_Dresses_00.55.15.227-00.55.17.314 	at the underwater wedding, jane smiles in floral bathing cap as the bride and groom share a watery kiss.
-1015_27_Dresses_01.03.07.518-01.03.10.874 	jane's smile fades.
-1015_27_Dresses_01.21.32.153-01.21.33.591 	tess smiles at george.
 1015_27_Dresses_01.35.36.543-01.35.41.459 	she smiles and hurries away to the offices at the new york journal.
 1015_27_Dresses_01.36.14.107-01.36.23.649 	she smiles as they join the nighttime traffic.
 1015_27_Dresses_01.39.39.072-01.39.43.525 	they remain wrapped in each other's arms as the smiling reception guests carry on with the party.
 1015_27_Dresses_01.41.03.962-01.41.06.385 	they smile and look into each other's eyes.
-1015_27_Dresses_01.41.36.292-01.41.37.614 	groom kevin sees casey smiling at his friend.
-1015_27_Dresses_01.41.39.809-01.41.45.610 	tess and george smile broadly at each other.
 1015_27_Dresses_01.42.16.582-01.42.24.279 	kevin can't take his eyes off jane, who, smiling radiantly, kisses her dad on the cheek.
 1015_27_Dresses_01.43.29.656-01.43.38.746 	they kiss then turn towards their guests, smiling happily.
-1017_Bad_Santa_00.27.16.424-00.27.17.456 	he half smiles and nods.
+1017_Bad_Santa_00.25.26.347-00.25.28.075 	she frowns, then smiles.
 1017_Bad_Santa_00.28.36.566-00.28.40.935 	sitting in the passenger seat, the kid stares at him and smiles warmly.wille looks away from it.
 1017_Bad_Santa_01.14.42.852-01.14.44.519 	he smiles and shrugs.
-1017_Bad_Santa_01.27.15.702-01.27.19.786 	marcus smiles and nods.
 1017_Bad_Santa_01.27.48.820-01.27.53.475 	he stares at the toy for a moment, and them smiling softly to himself, he turns to go.
+1018_Body_Of_Lies_00.38.15.512-00.38.21.923 	he smiles, and she prepares a syringe.
+1018_Body_Of_Lies_00.38.23.311-00.38.26.778 	she walks around to him, smiling.
 1018_Body_Of_Lies_00.50.40.562-00.50.46.065 	hoffman smiles tightly and sits.
-1018_Body_Of_Lies_00.58.41.738-00.58.43.422 	emerging from her room, aisha smiles at ferris.
+1018_Body_Of_Lies_00.59.33.408-00.59.36.091 	they smile.
 1018_Body_Of_Lies_00.59.54.052-01.00.00.828 	he leans to her and she smiles slightly.
 1018_Body_Of_Lies_01.07.29.486-01.07.39.052 	they smile and garland leads ferris into the house.
-1018_Body_Of_Lies_01.19.11.538-01.19.13.310 	ferris smiles at aisha, who's by the table.
+1018_Body_Of_Lies_01.17.19.653-01.17.21.553 	they smile.
+1018_Body_Of_Lies_01.17.52.239-01.17.54.950 	aisha opens the door, smiling.
 1018_Body_Of_Lies_01.21.28.504-01.21.30.877 	he smiles and raises his eyebrows at aisha.
-1018_Body_Of_Lies_01.22.24.002-01.22.26.103 	aisha smiles and looks up to a window.
 1018_Body_Of_Lies_01.23.50.482-01.23.52.312 	he smiles and holds up the file of photographs.
-1019_Confessions_Of_A_Shopaholic_00.08.17.988-00.08.21.081 	alicia smiles loftily at her and sashays away.
-1019_Confessions_Of_A_Shopaholic_00.27.36.119-00.27.38.031 	luke smiles like a cheshire cat.
-1019_Confessions_Of_A_Shopaholic_00.36.19.582-00.36.22.229 	rebecca smiles meekly.
 1019_Confessions_Of_A_Shopaholic_00.36.30.300-00.36.36.514 	at her home, rebecca's smiling dad magics a coin from behind her ear and puts it into her outstretched hand.
-1019_Confessions_Of_A_Shopaholic_00.51.07.973-00.51.11.960 	like smiles awkwardly, vaguely claps his hands to accompany his unpredictable dancing partner.
-1019_Confessions_Of_A_Shopaholic_00.56.05.154-00.56.08.336 	tall d. freak smiles at his neighbor.
-1019_Confessions_Of_A_Shopaholic_01.09.10.752-01.09.15.777 	rebecca smiles at her reflection in the mirror, then looks at the label of the dress.
-1019_Confessions_Of_A_Shopaholic_01.20.15.048-01.20.17.088 	ryan smiles unpleasantly.
+1019_Confessions_Of_A_Shopaholic_00.41.29.580-00.41.30.600 	smiling women crowd around rebecca.
 1019_Confessions_Of_A_Shopaholic_01.32.51.301-01.32.53.176 	the blonde, smiling coyly, waves the scarf at the applauding women.
 1019_Confessions_Of_A_Shopaholic_01.35.27.139-01.35.33.725 	her black hair pinned up in an elegant bun, suze composes herself and looks towards the altar, at tarquin's smiling face.
 1019_Confessions_Of_A_Shopaholic_01.35.43.477-01.35.46.698 	rebecca, standing among the well-dressed crowd in her spotted shrug, smiles fondly.
 1019_Confessions_Of_A_Shopaholic_01.36.58.941-01.37.00.421 	she smiles eagerly.
 1020_Crazy_Stupid_Love_00.01.56.016-00.01.56.928 	they both smile happily.
-1020_Crazy_Stupid_Love_00.11.18.167-00.11.19.591 	cal smiles gently.
+1020_Crazy_Stupid_Love_00.09.14.161-00.09.15.616 	he smiles.
 1020_Crazy_Stupid_Love_00.20.41.724-00.20.45.658 	he heads off with the pretty dark-haired woman, who smiles at cal.
-1020_Crazy_Stupid_Love_00.22.29.883-00.22.36.111 	jessica smiles at robbie, who fidgets awkwardly and looks down.
-1020_Crazy_Stupid_Love_00.23.50.582-00.23.54.008 	hannah smiles excitedly.
-1020_Crazy_Stupid_Love_00.24.41.966-00.24.45.505 	hannah's smile fades and her eyes dart.
-1020_Crazy_Stupid_Love_00.26.08.485-00.26.14.720 	cal smiles with disbelief, then suddenly relents and takes out his wallet.
-1020_Crazy_Stupid_Love_00.31.53.087-00.31.55.314 	cal's smile disappears.
-1020_Crazy_Stupid_Love_00.35.02.527-00.35.04.107 	emily smiles and puts an arm around his shoulder.
+1020_Crazy_Stupid_Love_00.35.52.913-00.35.58.258 	she smiles, takes a deep breath and continues typing.
 1020_Crazy_Stupid_Love_00.55.01.264-00.55.02.262 	she smiles shyly.
-1020_Crazy_Stupid_Love_00.56.37.925-00.56.39.302 	cal smiles serenely.
 1020_Crazy_Stupid_Love_00.59.53.535-00.59.57.360 	emily smiles coldly and turns to face cal.
-1020_Crazy_Stupid_Love_01.05.16.353-01.05.20.099 	frowning, jacob turns and smiles at hannah curiously.
-1020_Crazy_Stupid_Love_01.05.45.114-01.05.51.320 	jacob smiles happily.
 1020_Crazy_Stupid_Love_01.10.07.955-01.10.09.546 	he smiles smugly.
+1020_Crazy_Stupid_Love_01.14.42.451-01.14.43.680 	he smiles.
 1020_Crazy_Stupid_Love_01.33.35.589-01.33.38.493 	emily smiles bitterly and shakes her head.
-1020_Crazy_Stupid_Love_01.41.51.074-01.41.54.372 	cal eyes him and smiles softly.
-1020_Crazy_Stupid_Love_01.43.14.453-01.43.17.791 	emily smiles and glances at molly.
-1020_Crazy_Stupid_Love_01.50.57.291-01.50.58.854 	he spies cal smiling at him.
-1023_Horrible_Bosses_01.17.07.346-01.17.10.582 	rhonda smiles at him.
+1020_Crazy_Stupid_Love_01.49.27.218-01.49.28.750 	she smiles.
 1024_Identity_Thief_00.11.07.253-00.11.09.885 	he smiles and lifts her off her feet.
-1024_Identity_Thief_00.12.50.405-00.12.54.005 	in his car, sandy smiles and bobs his head as he taps his thumbs on the steering wheel.
-1024_Identity_Thief_00.37.53.041-00.37.56.365 	the stylist nods and smiles as he eyes the salon.
+1024_Identity_Thief_00.12.05.788-00.12.06.545 	the man smiles.
+1024_Identity_Thief_00.38.32.305-00.38.39.835 	smiling, diana applies makeup.
 1024_Identity_Thief_00.40.39.459-00.40.40.975 	the smiling waitress walks away.
-1024_Identity_Thief_00.50.07.497-00.50.15.075 	diana's smile quickly fades and she sets down the drinks.
+1024_Identity_Thief_00.44.53.559-00.44.56.355 	the man smiles.
 1024_Identity_Thief_00.53.28.623-00.53.35.268 	grabbing sandy's cell phone, she admires the photo of his smiling daughters.
-1024_Identity_Thief_01.02.05.805-01.02.07.329 	big chuck's smile fades.
+1024_Identity_Thief_01.20.25.263-01.20.26.539 	smiling, diana hands it to sandy.
 1024_Identity_Thief_01.24.20.196-01.24.27.735 	she smiles and waves, shifting her timid gaze on the way to the bar.
 1024_Identity_Thief_01.24.39.691-01.24.43.357 	he smiles at diana as he stands.
-1024_Identity_Thief_01.39.27.259-01.39.29.025 	sandy smiles briefly.
-1026_Legion_00.24.05.042-00.24.07.337 	sandra smiles through gritted teeth.
-1026_Legion_00.25.08.540-00.25.10.263 	charlie's smile fades.
-1026_Legion_01.02.09.599-01.02.11.283 	she looks up and smiles at jeep.
+1026_Legion_01.13.29.805-01.13.42.397 	smiling incredulously, audrey wraps the bloody child in a towel and offers it to charlie.
+1026_Legion_01.14.06.576-01.14.08.872 	smiling, sandra nods.
 1026_Legion_01.25.08.648-01.25.15.872 	charlie sits on the passenger seat, cradling her baby and smiling down at him.
-1027_Les_Miserables_01.11.10.094-01.11.16.154 	she gives the beggar a coin and smiles at marius as she goes with valjean.
-1028_No_Reservations_00.20.29.148-00.20.32.800 	kate's smile fades and she looks disappointed, as zoe gets up and leaves the table.
+1027_Les_Miserables_01.15.38.923-01.15.40.402 	he smiles.
 1028_No_Reservations_00.26.15.770-00.26.17.485 	on another, a smiling christine next to a birthday cake.
 1028_No_Reservations_00.31.52.651-00.31.56.247 	she smiles as she sees zoe walking out on her own.
-1028_No_Reservations_00.33.13.848-00.33.17.504 	kate smiles awkwardly at the sulky young woman.
-1028_No_Reservations_00.37.24.892-00.37.26.547 	nick smiles as he chats with leah.
-1028_No_Reservations_00.42.42.379-00.42.45.442 	kate's smile fades, and she looks down sadly.
 1028_No_Reservations_00.46.39.100-00.46.42.049 	kate looks quizzically at leah, who smiles and gestures towards nick.
-1028_No_Reservations_00.54.19.371-00.54.20.550 	watching, nick smiles to himself.
-1028_No_Reservations_00.55.25.680-00.55.27.802 	kate nods and smiles at him warmly.
-1028_No_Reservations_00.56.29.950-00.56.34.095 	kate smiles and goes down.
-1028_No_Reservations_01.04.28.787-01.04.32.572 	kate smiles serenely to herself.
-1028_No_Reservations_01.13.05.309-01.13.08.943 	christine kisses her smiling daughter on the cheek and beams back at the camera.
 1028_No_Reservations_01.30.12.046-01.30.14.642 	in her room, zoe sits on her bed with a scarlet-haired smiling rag doll resting on her drawn up knees.
-1029_Pride_And_Prejudice_Disk_One_00.12.32.835-00.12.36.073 	bingley alights first, smiles at his surroundings,
+1029_Pride_And_Prejudice_Disk_One_00.02.46.790-00.02.53.080 	father and daughter roll their eyes amd smile.
+1029_Pride_And_Prejudice_Disk_One_00.06.51.355-00.06.52.106 	lizzie and jane can't help smiling.
 1029_Pride_And_Prejudice_Disk_One_00.12.55.327-00.13.05.002 	inside, the dancing is well under way, with smiling men and women in pastel gowns holding hands and going round in a circle.
 1029_Pride_And_Prejudice_Disk_One_00.17.37.518-00.17.42.576 	later, she's dancing with him, holding hands and smiling warmly.
 1029_Pride_And_Prejudice_Disk_One_00.41.48.213-00.41.53.525 	who smiles weakly up at her.
@@ -445,116 +366,84 @@
 1029_Pride_And_Prejudice_Disk_One_00.42.44.772-00.42.48.024 	the sisters smile at each other.
 1029_Pride_And_Prejudice_Disk_One_00.43.01.936-00.43.10.337 	she smiles gratefully, then looks around nervously, unsure of where the drawing room is.
 1029_Pride_And_Prejudice_Disk_One_00.49.25.958-00.49.26.792 	she smiles at a proud-looking gray and white great dane in her path.
-1029_Pride_And_Prejudice_Disk_One_00.54.20.879-00.54.24.240 	jane smiles dreamily.
 1029_Pride_And_Prejudice_Disk_One_01.03.51.870-01.03.56.354 	and finally lizzie, laughing and smiling with jane.
 1029_Pride_And_Prejudice_Disk_One_01.12.37.053-01.12.39.717 	they smile at lydia's celebrations.
 1029_Pride_And_Prejudice_Disk_One_01.13.38.871-01.13.42.393 	her eyes meet mr. wickham's and they smile at each other warmly.
-1029_Pride_And_Prejudice_Disk_One_01.13.47.154-01.13.50.094 	she watches him dance with lydia and smiles to herself.
-1029_Pride_And_Prejudice_Disk_One_01.19.28.690-01.19.31.863 	lizzie smiles contentedly to herself.
-1029_Pride_And_Prejudice_Disk_One_01.31.14.320-01.31.18.094 	whilst his back is turned, lizzie smiles to herself.
-1029_Pride_And_Prejudice_Disk_One_01.34.00.450-01.34.05.882 	lizzie smiles and leaves them, meeting miss bingley.
 1029_Pride_And_Prejudice_Disk_One_01.40.24.938-01.40.26.422 	mrs. hurst smiles smugly.
-1029_Pride_And_Prejudice_Disk_One_01.57.52.393-01.57.54.192 	wickham smiles hopefully at lizzie.
-1029_Pride_And_Prejudice_Disk_One_02.09.08.907-02.09.12.325 	wickham smiles at lizzie as he takes the girl's hand and leads her down through the column of dancers.
 1029_Pride_And_Prejudice_Disk_One_02.09.12.325-02.09.15.243 	lizzie smiles back at him,
 1029_Pride_And_Prejudice_Disk_One_02.10.37.414-02.10.43.053 	mary king continues to dance with wickham, smiling contentedly.
 1029_Pride_And_Prejudice_Disk_One_02.28.11.448-02.28.13.152 	he smiles at her,
 1030_Public_Enemies_00.23.29.239-00.23.32.300 	her bright red lips smile coyly.
-1030_Public_Enemies_00.26.14.012-00.26.16.526 	billie's smile briefly falters.
+1030_Public_Enemies_00.26.04.038-00.26.04.854 	she smiles, then glances at a female diner.
 1030_Public_Enemies_00.55.34.324-00.55.39.695 	in dillinger's car, the criminal stares off glumly, then smiles out the window.
-1030_Public_Enemies_01.41.13.817-01.41.16.484 	billie smiles at him and gets out of the car.
-1030_Public_Enemies_02.05.00.743-02.05.02.676 	the crime boss smiles thoughtfully.
+1030_Public_Enemies_01.40.19.868-01.40.24.718 	she smiles.
 1031_Quantum_of_Solace_00.37.26.263-00.37.28.045 	his colleague smiles coldly.
-1031_Quantum_of_Solace_00.41.56.233-00.42.01.443 	greene's friend looks around and smiles weakly at a grim faced man standing at the back of the box.
 1031_Quantum_of_Solace_00.56.17.149-00.56.23.362 	she smiles and turns her face towards him.
 1033_Sherlock_Holmes_A_Game_of_Shadows_00.34.14.351-00.34.18.937 	she smiles up at him, and sees he's sporting a black eye and generally looks knocked about.
-1033_Sherlock_Holmes_A_Game_of_Shadows_00.50.22.875-00.50.24.818 	watson smiles ruefully at the mention of paris.
 1033_Sherlock_Holmes_A_Game_of_Shadows_00.54.20.374-00.54.23.515 	the gypsies surround holmes and watson who smile politely.
-1033_Sherlock_Holmes_A_Game_of_Shadows_01.35.51.431-01.35.53.545 	watson smiles wistfully for a moment.
-1033_Sherlock_Holmes_A_Game_of_Shadows_01.54.08.187-01.54.12.643 	moriarty smiles and takes it.
+1034_Super_8_00.40.17.162-00.40.21.944 	they regard each other, smiling.
+1034_Super_8_00.49.05.175-00.49.07.010 	he smiles.
 1034_Super_8_00.59.33.933-00.59.37.379 	on screen, she smiles as joe holds up a present.
-1034_Super_8_01.39.51.465-01.39.56.177 	alice smiles as the vast structure begins to take shape.
-1035_The_Adjustment_Bureau_00.02.44.285-00.02.46.833 	david smiles at his many supporters.
 1035_The_Adjustment_Bureau_00.09.57.134-00.10.03.654 	as david faintly nods, the smiling woman shakes her head.
-1035_The_Adjustment_Bureau_00.25.09.496-00.25.11.692 	the white-haired man smiles at david.
-1035_The_Adjustment_Bureau_00.40.32.906-00.40.36.673 	at their outdoor table, elise smiles to herself and peeks at david.
+1035_The_Adjustment_Bureau_00.17.26.033-00.17.27.497 	he smiles.
+1035_The_Adjustment_Bureau_00.29.58.828-00.30.05.734 	he smiles, then shifts his gaze to david, who stares at him with a confused expression.
 1035_The_Adjustment_Bureau_00.43.01.451-00.43.03.877 	she nods smiling radiantly.
 1035_The_Adjustment_Bureau_01.00.58.907-01.01.02.740 	as she looks at him again, she smiles wistfully.
-1035_The_Adjustment_Bureau_01.23.31.400-01.23.34.419 	harry smiles to himself and sets his plan book down.
-1035_The_Adjustment_Bureau_01.24.55.572-01.24.59.020 	harry smiles and gives david his fedora.
-1037_The_Curious_Case_Of_Benjamin_Button_00.29.48.780-00.29.53.214 	benjamin smiles at mr. oti, then looks away again.
+1035_The_Adjustment_Bureau_01.38.14.907-01.38.39.102 	later smiling, the two walk hand in hand down a busy sidewalk noticing every hat-wearing man they pass.
 1037_The_Curious_Case_Of_Benjamin_Button_00.36.04.097-00.36.09.225 	she gingerly reaches out to touch his smiling face.
-1037_The_Curious_Case_Of_Benjamin_Button_00.49.53.229-00.49.54.992 	thomas smiles wryly as benjamin sputters on the whiskey.
-1037_The_Curious_Case_Of_Benjamin_Button_01.13.22.823-01.13.27.722 	caroline smiles and keeps reading.
+1037_The_Curious_Case_Of_Benjamin_Button_00.39.17.816-00.39.22.483 	smiling, oti takes a step back, then turns and walks briskly out of the door.
+1037_The_Curious_Case_Of_Benjamin_Button_01.05.44.343-01.05.46.805 	they both smile.
+1037_The_Curious_Case_Of_Benjamin_Button_01.10.50.577-01.10.52.967 	she smiles.
 1037_The_Curious_Case_Of_Benjamin_Button_01.14.06.855-01.14.09.551 	she smiles and goes.
+1037_The_Curious_Case_Of_Benjamin_Button_01.46.52.832-01.46.54.805 	she smiles.
+1037_The_Curious_Case_Of_Benjamin_Button_01.47.50.313-01.47.54.302 	smiling broadly, daisy trots off.
 1037_The_Curious_Case_Of_Benjamin_Button_01.56.22.428-01.56.23.935 	he smiles warmly.
-1037_The_Curious_Case_Of_Benjamin_Button_02.05.08.097-02.05.10.764 	daisy rolls onto her side and smiles as she gazes at him.
-1037_The_Curious_Case_Of_Benjamin_Button_02.13.36.390-02.13.38.352 	daisy smiles as benjamin stares out of the window.
+1037_The_Curious_Case_Of_Benjamin_Button_02.05.26.205-02.05.28.400 	he smiles.
+1037_The_Curious_Case_Of_Benjamin_Button_02.13.05.098-02.13.12.142 	smiling, daisy turns to look at him and stares gravely at his reflection.
 1037_The_Curious_Case_Of_Benjamin_Button_02.13.39.173-02.13.43.509 	returning from his thoughts, he looks at daisy who smiles fondly.
 1037_The_Curious_Case_Of_Benjamin_Button_02.31.49.754-02.31.50.854 	she smiles weakly as she looks around.
-1038_The_Great_Gatsby_00.10.08.785-00.10.10.514 	nick smiles at jordan.
-1038_The_Great_Gatsby_00.31.00.885-00.31.02.949 	jordan smiles and turns to nick.
+1038_The_Great_Gatsby_00.04.05.687-00.04.09.398 	a younger, fresh-faced nick looks up from the busy street, smiling.
+1038_The_Great_Gatsby_00.16.18.861-00.16.19.815 	she smiles.
+1038_The_Great_Gatsby_00.24.44.995-00.24.45.731 	nick wanders about, smiling.
+1038_The_Great_Gatsby_00.29.52.309-00.29.54.843 	the man turns to nick, smiling.
 1038_The_Great_Gatsby_00.32.16.536-00.32.19.377 	gatsby stands at the window, smiling benignly and smoking a cigarette.
-1038_The_Great_Gatsby_00.34.08.012-00.34.10.561 	gatsby smiles politely and goes.
-1038_The_Great_Gatsby_00.34.23.285-00.34.25.844 	nick smiles and waves.
 1038_The_Great_Gatsby_00.34.50.660-00.34.51.224 	he smiles charmingly.
-1038_The_Great_Gatsby_00.35.58.278-00.35.59.985 	gatsby smiles and pats his hand against his leg.
 1038_The_Great_Gatsby_00.41.54.850-00.42.01.454 	gatsby and wolfsheim study nick who sits between them looking slightly bewildered but smiling politely.
-1038_The_Great_Gatsby_00.50.28.967-00.50.29.812 	nick smiles openly.
-1038_The_Great_Gatsby_00.54.13.698-00.54.16.978 	nick smiles at daisy who hands him her hat.
+1038_The_Great_Gatsby_00.49.19.535-00.49.22.641 	they both smile, slightly awkwardly, and look down.
+1038_The_Great_Gatsby_00.55.59.243-00.56.00.382 	gatsby steels himself and turns to daisy, smiling.
 1038_The_Great_Gatsby_00.58.36.915-00.58.39.961 	daisy and gatsby don't notice and continue looking deep into each other's eyes, smiling at each other.
-1038_The_Great_Gatsby_01.11.08.744-01.11.09.183 	gatsby smiles politely.
-1038_The_Great_Gatsby_01.12.49.828-01.12.52.003 	gatsby smiles and they stand.
 1038_The_Great_Gatsby_01.13.51.812-01.13.52.263 	she smiles brightly at gatsby.
 1038_The_Great_Gatsby_01.24.17.854-01.24.19.504 	they both smile wistfully.
-1038_The_Great_Gatsby_01.24.29.018-01.24.34.242 	gatsby smiles confidently and steps over to nick, who looks down, frowning.
-1038_The_Great_Gatsby_01.24.56.914-01.24.57.732 	nick smiles thoughtfully.
-1038_The_Great_Gatsby_01.39.29.200-01.39.29.899 	gatsby smiles inquiringly.
-1038_The_Great_Gatsby_02.00.28.106-02.00.29.584 	gatsby smiles fondly.
-1038_The_Great_Gatsby_02.00.29.886-02.00.30.894 	nick smiles back.
+1038_The_Great_Gatsby_01.59.38.396-01.59.40.541 	they both smile.
 1039_The_Queen_00.00.48.235-00.00.51.179 	he is dressed in a lounge suit with no jacket and he is smiling towards a cheering crowd.
 1039_The_Queen_00.01.59.399-00.02.01.216 	the queen smiles at crawford.
 1039_The_Queen_00.08.50.047-00.08.53.208 	and the queen looks down and then smiles at her.
 1039_The_Queen_00.12.10.876-00.12.15.543 	archive footage shows a younger diana smiling as a photographer snaps her picture.
 1039_The_Queen_00.21.01.324-00.21.03.219 	a smiling alistair puts down the phone.
+1039_The_Queen_00.45.12.338-00.45.13.522 	 diana smiling.
 1039_The_Queen_01.22.32.373-01.22.34.039 	and the queen moves slowly along and smiles at them.
-1039_The_Queen_01.31.44.530-01.31.49.683 	tony smiles and unzips the document file he is carrying.
-1039_The_Queen_01.36.44.537-01.36.47.685 	nearby, robin smiles as they pass by.
-1040_The_Ugly_Truth_00.41.40.019-00.41.41.378 	mike smiles and gives abby the thumbs-up.
-1040_The_Ugly_Truth_00.44.59.566-00.45.02.431 	colin smiles at abby.
+1039_The_Queen_01.22.52.249-01.22.54.917 	the girl hands the bouquet to the queen who smiles.
 1040_The_Ugly_Truth_00.51.36.680-00.51.38.232 	she smiles bitterly.
 1040_The_Ugly_Truth_00.56.47.496-00.56.50.486 	they smile and chat.
-1040_The_Ugly_Truth_00.57.38.200-00.57.42.685 	abby quickly wipes her hand across her mouth, composes herself, and smiles at colin.
 1040_The_Ugly_Truth_00.59.08.297-00.59.09.883 	she smiles at him.
-1040_The_Ugly_Truth_01.08.26.303-01.08.30.384 	mike sits and smiles at abby.
-1040_The_Ugly_Truth_01.10.39.074-01.10.42.962 	abby smiles thoughtfully.
+1040_The_Ugly_Truth_01.07.34.283-01.07.37.036 	abby watches, smiling.
 1040_The_Ugly_Truth_01.11.12.807-01.11.16.588 	they smile and dance together, back and forth.
 1040_The_Ugly_Truth_01.12.07.440-01.12.12.606 	mike pulls her close, and they continue to dance, smiling happily.
-1040_The_Ugly_Truth_01.12.45.911-01.12.51.277 	abby smiles nervously and heads off.
-1041_This_is_40_00.12.15.653-00.12.20.225 	as debbie approaches jodi, pete smiles at stunning desi, who works on a ladder.
-1041_This_is_40_00.17.29.022-00.17.31.915 	sadie smiles as her mother dances.
-1041_This_is_40_00.34.12.188-00.34.15.085 	pete smiles tightly as his dad cuddles the little blonde boy.
-1041_This_is_40_01.19.15.821-01.19.18.959 	debbie's smile fades as she stands before him, her sweater open with a nipple exposed.
-1041_This_is_40_01.52.32.945-01.52.35.220 	pete smiles at his wife, then leans toward his electric guitar shaped cake.
-1041_This_is_40_02.05.58.436-02.06.00.725 	debbie smiles at him.
-1041_This_is_40_02.07.39.355-02.07.41.015 	debbie smiles encouragingly.
-1042_Up_In_The_Air_00.13.44.968-00.13.47.914 	alex smiles thoughtfully.
+1041_This_is_40_01.03.52.776-01.03.56.443 	she starts to smile, then presses her lips together and blinks back tears.
+1041_This_is_40_01.14.13.705-01.14.15.824 	then, he smiles.
+1042_Up_In_The_Air_00.09.24.039-00.09.29.044 	he smiles.
+1042_Up_In_The_Air_00.16.26.612-00.16.30.080 	they smile.
 1042_Up_In_The_Air_00.19.47.756-00.19.51.356 	she smiles at him fondly and goes.
 1042_Up_In_The_Air_00.19.51.356-00.19.59.691 	ryan looks at the photo of the smiling couple.
-1042_Up_In_The_Air_00.27.27.233-00.27.28.693 	julie and jim's smiling faces are poking out of the top.
-1042_Up_In_The_Air_00.30.59.386-00.31.01.860 	ryan smiles wryly.
-1042_Up_In_The_Air_00.38.31.034-00.38.32.732 	ryan smiles and replies.
 1042_Up_In_The_Air_00.46.36.760-00.46.40.024 	he smiles thoughtfully.
-1042_Up_In_The_Air_00.51.29.077-00.51.31.115 	alex smiles broadly.
+1042_Up_In_The_Air_00.55.13.870-00.55.19.279 	he leans to her and she smiles.
+1042_Up_In_The_Air_00.56.46.276-00.56.50.636 	they both smile.
 1042_Up_In_The_Air_01.04.09.199-01.04.12.127 	she smiles nervously.
-1042_Up_In_The_Air_01.11.10.405-01.11.12.755 	alex smiles warmly.
 1042_Up_In_The_Air_01.14.31.213-01.14.35.411 	he smiles thoughtfully and goes back to join alex, julie and jim.
+1042_Up_In_The_Air_01.16.31.765-01.16.41.786 	they smile.
 1042_Up_In_The_Air_01.25.06.223-01.25.10.289 	she smiles and nods.
-1042_Up_In_The_Air_01.28.17.978-01.28.21.407 	alex's smile drops for a moment.
-1042_Up_In_The_Air_01.31.37.217-01.31.40.688 	ryan looks up and smiles to himself.
-1042_Up_In_The_Air_01.39.54.224-01.39.58.816 	craig smiles confidently.
-1043_Vantage_Point_00.52.13.364-00.52.15.031 	seated, sam smiles at anna.
-1043_Vantage_Point_01.09.41.573-01.09.43.963 	veronica smiles at sam in the driver's seat.
+1042_Up_In_The_Air_01.37.33.432-01.37.36.839 	they both smile.
+1042_Up_In_The_Air_01.40.44.428-01.40.47.654 	she smiles.
 1043_Vantage_Point_01.22.08.605-01.22.12.187 	howard smiles incredulously.
 1044_Pride_And_Prejudice_Disk_Two_00.04.19.405-00.04.21.344 	wickham just smiles at him.
 1044_Pride_And_Prejudice_Disk_Two_00.59.38.069-00.59.41.201 	mr. gardiner smiles over at mr. darcy.
@@ -562,312 +451,148 @@
 1044_Pride_And_Prejudice_Disk_Two_02.11.49.858-02.11.55.363 	lizzie puts down her embroidery, smiles at mr. bingley, then leaves the room.
 1044_Pride_And_Prejudice_Disk_Two_02.14.28.714-02.14.35.942 	mr. bingley smiles briefly at jane, then climbs up onto his white horse.
 1044_Pride_And_Prejudice_Disk_Two_02.28.43.558-02.28.47.876 	she smiles up at mr. darcy, whose expression softens lightly, though still remaining inscrutable.
-1045_An_education_00.09.25.081-00.09.28.069 	jenny smiles and gets out of the car.
-1045_An_education_00.20.17.693-00.20.21.924 	jenny smiles to herself as she listens.
-1045_An_education_00.20.57.700-00.21.06.099 	jenny smiles as she looks around to the glamorous halll, and all table lamps.
-1045_An_education_00.22.56.812-00.23.00.259 	jenny smiles happily as she applauds the singer.
-1045_An_education_00.23.42.751-00.23.47.286 	jenny smiles at david, and they both laugh.
-1045_An_education_00.27.00.242-00.27.02.428 	danny smiles knowingly.
-1045_An_education_00.38.36.022-00.38.39.780 	wearing helen's little bright dress, jenny smiles nervously.
-1045_An_education_00.42.47.299-00.42.54.329 	davids smiles but squirms at her discomfort.
-1045_An_education_00.43.12.980-00.43.15.730 	jenny smiles and pulls her nightie off her shoulders.
+1045_An_education_00.23.21.577-00.23.24.665 	she smiles, self consciously.
 1045_An_education_00.49.50.568-00.49.55.627 	he smiles lovingly at her, looks down.
 1045_An_education_00.50.20.313-00.50.27.578 	they smile then sit awkwardly.
 1045_An_education_01.00.42.714-01.00.48.760 	he smiles apologetically and hangs his head.
 1045_An_education_01.01.35.830-01.01.39.286 	he smiles and reaches for his wallet.
+1045_An_education_01.02.44.698-01.02.51.440 	she smiles, thinks for a moment then shakes her head.
 1045_An_education_01.08.42.384-01.08.47.617 	helen looks bored, then smiles ruefully at david.
-1045_An_education_01.32.18.648-01.32.21.430 	jenny smiles through her tears.
 1046_Australia_00.12.08.930-00.12.12.954 	he picks up something silky and holds it out, smiling apologetically.
 1046_Australia_00.29.22.000-00.29.25.000 	she smiles and nods nervously.
-1046_Australia_01.05.31.000-01.05.32.491 	king george smiles proudly.
 1046_Australia_01.14.29.677-01.14.36.525 	she smiles and looks downs at the ground.
-1046_Australia_01.23.40.650-01.23.44.199 	she nods and smiles triumphantly as nullah rides behind the last of the herd.
 1046_Australia_01.24.57.656-01.25.08.224 	she smiles with pride as two glasses are placed on the bar, and filled with poor fella rum.
 1046_Australia_01.33.26.587-01.33.31.659 	sarah frowns as king, smiling broadly, leads her to the dance floor.
 1046_Australia_01.36.01.000-01.36.07.421 	they stare at each other and she smiles breathlessly.
-1046_Australia_01.36.12.189-01.36.16.652 	drover smiles suavely at her, and she grins broadly.
 1046_Australia_01.36.43.087-01.36.55.667 	she smiles in delighted disbelief and he grins, his hand casually in his left pocket, as they come together.
 1046_Australia_01.37.01.622-01.37.03.603 	she smiles demurely.
 1046_Australia_01.38.08.500-01.38.09.984 	she smiles and nods.
 1046_Australia_01.39.58.798-01.40.00.429 	goolaj remains in his seat at the theater smiling happily at the down pour.
+1046_Australia_01.40.04.277-01.40.07.850 	smiling, fletcher staggers towards the soaking dance floor, trips over a plant pot and falls flat on his face.
+1046_Australia_02.04.23.912-02.04.28.884 	smiling unpleasantly, fletcher hangs up the phone in his office overlooking the whole of darwin.
 1046_Australia_02.16.47.000-02.16.52.289 	he smiles with relief, as magarri beckons the boys forward.
-1046_Australia_02.27.48.221-02.27.56.699 	drover frowns in disbelief, then smiles and they embrace.
-1046_Australia_02.30.01.996-02.30.04.200 	dutton smiles tearfully.
-1047_Defiance_00.39.53.552-00.39.54.617 	zus smiles doubtfully.
-1047_Defiance_00.54.45.043-00.54.46.632 	tuvia smiles coldly.
 1047_Defiance_01.05.14.951-01.05.17.801 	aron, sitting by the chessboard, smiles at tuvia.
-1047_Defiance_01.07.15.869-01.07.16.937 	chaya smiles and lowers her eyes.
+1047_Defiance_01.08.53.687-01.08.57.392 	he kisses his young bride, the onlookers smile.
 1047_Defiance_01.15.42.986-01.15.50.214 	he smiles at her as he rubs his hands.
 1047_Defiance_01.34.08.596-01.34.09.451 	she smiles softly.
 1047_Defiance_01.39.40.214-01.39.42.975 	he smiles and their lips meet again.
 1047_Defiance_01.57.41.035-01.57.55.474 	people clamber out of the water onto a grassy bank, sinking down to rest their weary legs, smiling and laughing with relief.
 1047_Defiance_02.05.49.119-02.05.50.293 	asael smiles with relief.
-1048_Gran_Torino_00.49.49.324-00.49.54.228 	sue smiles and goes towards thao, who sits alone, away from the others.
-1048_Gran_Torino_01.00.45.097-01.00.50.979 	thao's smile fades and he turns to go.
+1048_Gran_Torino_00.54.07.385-00.54.08.972 	the neighbors smile.
+1048_Gran_Torino_01.00.00.845-01.00.03.491 	smiling, walt turns to daisy.
 1048_Gran_Torino_01.38.34.390-01.38.37.664 	he smiles and goes.
-1048_Gran_Torino_01.50.21.777-01.50.29.573 	ashley smiles in anticipation.
 1049_Harry_Potter_and_the_chamber_of_secrets_00.01.09.343-00.01.10.552 	they smile at him.
-1049_Harry_Potter_and_the_chamber_of_secrets_00.10.23.065-00.10.24.145 	from the back seat, ron smiles at his friend.
 1049_Harry_Potter_and_the_chamber_of_secrets_00.18.20.203-00.18.21.375 	he smiles smugly.
 1049_Harry_Potter_and_the_chamber_of_secrets_00.22.00.400-00.22.01.253 	mr. weasley smiles reassuringly at his children.
-1049_Harry_Potter_and_the_chamber_of_secrets_00.26.07.397-00.26.12.073 	harry's smile of delight fades as the car engine falters.
-1049_Harry_Potter_and_the_chamber_of_secrets_01.07.39.296-01.07.39.891 	draco's smile fades.
-1049_Harry_Potter_and_the_chamber_of_secrets_01.15.02.145-01.15.09.396 	harry moves towards the bird and smiles at the odd-looking creature.
-1049_Harry_Potter_and_the_chamber_of_secrets_02.02.38.914-02.02.44.947 	lying on the ground, lockhart smiles vacantly.
 1049_Harry_Potter_and_the_chamber_of_secrets_02.28.37.190-02.28.39.893 	professor mcgonagall smiles warmly at dumbledore as he takes his seat again.
 1049_Harry_Potter_and_the_chamber_of_secrets_02.29.15.883-02.29.18.127 	they smile up at him.
-1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.27.23.028-00.27.24.145 	george smiles and winks.
-1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.21.57.671-01.22.00.834 	hermione's smile fades.
-1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.24.37.542-01.24.44.048 	she ruffles his hair, and smiles at him.
+1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.21.29.367-01.21.31.197 	they both smile and spin.
+1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.42.58.689-01.42.59.482 	he smiles.
 1051_Harry_Potter_and_the_goblet_of_fire_00.18.18.451-00.18.20.948 	madame maxime smiles graciously, her face framed by a huge fur collar.
+1051_Harry_Potter_and_the_goblet_of_fire_00.32.54.190-00.32.58.217 	smiling broadly, he shakes dumbledore's hand and follows victor and fleur out of the hall.
 1051_Harry_Potter_and_the_goblet_of_fire_01.09.32.944-01.09.38.062 	he smiles at a group of beauxbatons girls who stalk off.
 1051_Harry_Potter_and_the_goblet_of_fire_01.17.08.266-01.17.13.546 	her hair softly curled, she smiles at him shyly.
+1051_Harry_Potter_and_the_goblet_of_fire_01.20.26.933-01.20.31.637 	smiling happily, she sinks down beside harry, ron, and padma.
 1051_Harry_Potter_and_the_goblet_of_fire_02.21.59.029-02.22.03.578 	he smiles to himself.
 1052_Harry_Potter_and_the_order_of_phoenix_00.28.38.445-00.28.42.327 	she smiles at harry.
 1052_Harry_Potter_and_the_order_of_phoenix_00.31.05.823-00.31.13.848 	he stops as professor umbridge, the former undersecretary, rises smiling primly.
-1052_Harry_Potter_and_the_order_of_phoenix_00.39.04.135-00.39.06.679 	umbridge looks out of the window and smiles with secret anticipation.
-1052_Harry_Potter_and_the_order_of_phoenix_00.39.12.216-00.39.19.575 	umbridge smiles again as harry winces with pain.
-1052_Harry_Potter_and_the_order_of_phoenix_00.39.43.233-00.39.52.559 	umbridge stands in front of harry and smiles sweetly down at him, her eyebrows raised.
 1052_Harry_Potter_and_the_order_of_phoenix_00.40.02.407-00.40.16.190 	she leans over him, smiling with satisfaction.
-1052_Harry_Potter_and_the_order_of_phoenix_00.47.33.328-00.47.41.089 	umbridge smiles smugly to herself.
 1052_Harry_Potter_and_the_order_of_phoenix_00.50.27.357-00.50.31.716 	umbridge smiles a knowing smile.
 1052_Harry_Potter_and_the_order_of_phoenix_01.04.03.775-01.04.13.777 	harry smiles proudly as his pupils applaud.
 1052_Harry_Potter_and_the_order_of_phoenix_01.05.17.440-01.05.21.919 	they both look at a moving photograph of a smiling cedric.
 1052_Harry_Potter_and_the_order_of_phoenix_01.05.41.524-01.05.46.168 	she smiles at him.
-1052_Harry_Potter_and_the_order_of_phoenix_01.07.28.803-01.07.38.294 	the three friends smile warmly.
 1052_Harry_Potter_and_the_order_of_phoenix_01.26.55.406-01.27.07.351 	as the students wince with pain, she smiles to herself with obvious pleasure.
 1052_Harry_Potter_and_the_order_of_phoenix_01.31.28.730-01.31.31.360 	gwarp sits playing with the bell and smiling innocently.
-1052_Harry_Potter_and_the_order_of_phoenix_01.37.37.109-01.37.38.713 	ron smiles with pride.
-1053_Harry_Potter_and_the_philosophers_stone_00.10.27.062-00.10.40.166 	vernon smiles at him sadistically as he pokes the fire and the flames turn the letters to ashes.
-1053_Harry_Potter_and_the_philosophers_stone_00.15.38.502-00.15.40.156 	hagrid smiles knowingly.
-1053_Harry_Potter_and_the_philosophers_stone_00.33.25.098-00.33.26.658 	the little girl smiles at him.
-1053_Harry_Potter_and_the_philosophers_stone_00.33.53.374-00.33.55.542 	harry smiles with delight.
 1053_Harry_Potter_and_the_philosophers_stone_00.51.44.867-00.52.07.884 	he fixes his eyes on malfoy who smiles slyly.
-1053_Harry_Potter_and_the_philosophers_stone_01.13.27.000-01.13.28.405 	ron smiles at harry.
 1053_Harry_Potter_and_the_philosophers_stone_01.15.27.000-01.15.31.346 	stroking the white owl's feathers, professor mcgonagall smiles at harry.
 1053_Harry_Potter_and_the_philosophers_stone_01.19.11.250-01.19.12.249 	the captain smiles angrily.
 1053_Harry_Potter_and_the_philosophers_stone_01.21.39.224-01.21.41.088 	she smiles as a flame appears.
 1053_Harry_Potter_and_the_philosophers_stone_01.33.42.289-01.33.43.355 	his mother fondly smiles at him again.
+1053_Harry_Potter_and_the_philosophers_stone_02.13.33.877-02.13.37.264 	smiling with relief, he clutches it tightly in his hand.
 1053_Harry_Potter_and_the_philosophers_stone_02.14.24.533-02.14.29.000 	he smiles as he sees the get-well cards, and the table at the bottom of his bed piled high with boxes of sweets.
-1053_Harry_Potter_and_the_philosophers_stone_02.19.00.187-02.19.07.681 	snape applauds, and malfoy smiles nastily at ron and harry.
-1053_Harry_Potter_and_the_philosophers_stone_02.19.36.215-02.19.43.856 	malfoy and his cronies look sick, while hagrid smiles delightedly.
+1053_Harry_Potter_and_the_philosophers_stone_02.17.36.806-02.17.38.260 	smiling happily, he stops and looks up at them.
+1053_Harry_Potter_and_the_philosophers_stone_02.23.13.545-02.23.20.900 	smiling, harry joins his friends.
+1054_Harry_Potter_and_the_prisoner_of_azkaban_00.23.10.972-00.23.13.460 	he turns and smiles.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_01.23.50.196-01.23.52.169 	she smiles at ron.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_02.04.26.044-02.04.36.641 	sirius climbs onto buckbeak's back and smiles at hermione.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_02.08.18.011-02.08.25.871 	he smiles at harry, picks up his bag and walking stick, and leaves.
+1055_Marley_and_me_00.32.14.692-00.32.15.712 	he smiles.
 1055_Marley_and_me_00.41.36.256-00.41.42.881 	the doctor smiles reassuringly and places the scanner on jenny's stomach.
-1055_Marley_and_me_01.00.55.295-01.00.57.711 	john half smiles and nods hesitantly.
 1055_Marley_and_me_01.12.06.521-01.12.06.916 	he smiles quizzically at her.
 1055_Marley_and_me_01.12.29.000-01.12.33.272 	jenny's holding a newborn baby, smiling as a nurse pushes her in a wheelchair.
 1055_Marley_and_me_01.25.07.844-01.25.12.478 	john looks at his wife, then they smile and hug.
 1056_Rambo_00.16.07.000-00.16.12.445 	she smiles and turns away from him.
 1056_Rambo_00.23.28.723-00.23.34.395 	she smiles faintly and places a small crucifix on a necklace into his enormous hand.
-1057_Seven_pounds_00.10.07.852-00.10.13.084 	ben smiles and gives the stout nurse a brief wave as he heads away.
 1057_Seven_pounds_00.16.08.569-00.16.14.104 	he straightens up again, smiles faintly and picks up his briefcase.
 1057_Seven_pounds_00.17.49.307-00.17.51.793 	he smiles gently.
 1057_Seven_pounds_00.21.59.076-00.22.04.184 	the boy spots ben, who smiles and nods, then returns briefly to reading.
 1057_Seven_pounds_00.22.17.408-00.22.20.755 	the woman smiles as she watches the boys.
 1057_Seven_pounds_00.30.56.000-00.31.00.246 	he smiles good-humoredly and considers.
 1057_Seven_pounds_00.31.41.594-00.31.46.572 	ben smiles broadly and heads out.
-1057_Seven_pounds_00.32.44.259-00.32.48.464 	then, emily smiles and looks down shyly.
 1057_Seven_pounds_00.39.21.731-00.39.28.573 	he eyes her steadily and smiles faintly.
-1057_Seven_pounds_00.39.57.160-00.40.07.564 	ben approaches the window and smiles in at connie, who opens the front door but not the wrought iron screen door.
 1057_Seven_pounds_00.46.45.517-00.46.54.997 	lying in bed, beautiful dark-haired sarah smiles up at ben beside her.
-1057_Seven_pounds_00.54.27.218-00.54.29.802 	emily's smile fades.
 1057_Seven_pounds_01.10.12.561-01.10.17.095 	he smiles and carries on working.
 1057_Seven_pounds_01.12.38.625-01.12.41.540 	emily smiles impishly.
 1057_Seven_pounds_01.13.02.016-01.13.06.493 	emily smiles gleefully.
-1057_Seven_pounds_01.15.10.707-01.15.20.242 	emily looks down and smiles wistfully.
 1057_Seven_pounds_01.17.00.738-01.17.20.084 	ben sits in the sunny field, smiling to himself.
 1057_Seven_pounds_01.20.08.390-01.20.10.827 	she's wearing a pink dress, then smiling gently as she looks down at something.
 1057_Seven_pounds_01.23.33.852-01.23.39.824 	she smiles and puts down the phone.
-1057_Seven_pounds_01.26.40.000-01.26.42.885 	she nods and smiles at him.
 1057_Seven_pounds_01.27.36.729-01.27.40.772 	she smiles triumphantly.
+1057_Seven_pounds_01.29.40.686-01.29.42.509 	he smiles.
 1057_Seven_pounds_01.56.31.623-01.56.38.169 	he smiles gently.
-1057_Seven_pounds_01.56.40.414-01.56.48.323 	emily smiles through her tears, which roll down her cheeks.
 1058_The_Damned_united_00.38.56.988-00.39.02.212 	the young man smiles bashfully and hangs his head, as brian rises to his feet and looks around the other players.
 1058_The_Damned_united_00.46.30.009-00.46.33.573 	bremner salutes don in the stands, who smiles back and touches his nose smugly.
-1058_The_Damned_united_00.56.52.533-00.56.56.895 	brian smiles and looks away.
-1058_The_Damned_united_01.05.00.936-01.05.09.246 	brian smiles bitterly as giles points past him, towards the empty stadium at the end of the tunnel.
-1058_The_Damned_united_01.05.09.246-01.05.17.000 	brian's smile wilts as giles turns and saunters off with the other players, who pat him on the back as they go.
-1058_The_Damned_united_01.09.27.000-01.09.30.651 	brian smiles wryly with his arms folded.
-1058_The_Damned_united_01.18.58.358-01.19.01.675 	brian winks and smiles wistfully.
-1058_The_Damned_united_01.25.24.043-01.25.27.000 	brian smiles as the boys stifle giggles.
-1058_The_Damned_united_01.29.57.817-01.30.01.981 	brian smiles as his sons hug peter.
+1058_The_Damned_united_01.10.24.777-01.10.28.000 	wearing aviator shades, brian nods smiling.
 1058_The_Damned_united_01.31.31.562-01.31.33.890 	a smiling brian waves as he gets on to a plane.
-1059_The_devil_wears_prada_00.22.57.323-00.23.00.000 	andy's smile fades.
-1059_The_devil_wears_prada_00.43.22.560-00.43.25.000 	andy smiles and takes her leave.
-1059_The_devil_wears_prada_00.49.41.000-00.49.45.000 	andy smiles nervously, and heads back to her desk.
-1059_The_devil_wears_prada_01.34.46.842-01.34.50.307 	up on the podium, miranda smiles and applauds jacqueline as irv eyes her coolly.
-1059_The_devil_wears_prada_01.38.14.416-01.38.23.617 	miranda puts on a pair of large sunglasses, smiles at andy and steps out of the car.
-1059_The_devil_wears_prada_01.41.14.000-01.41.17.000 	andy smiles back, then looks down coyly.
-1059_The_devil_wears_prada_01.44.22.935-01.44.26.439 	the two women regard each other for a moment, then andy smiles and raises her hand in a wave.
+1059_The_devil_wears_prada_01.04.00.025-01.04.08.024 	emily looks gratefully at andy, who smiles.
+1059_The_devil_wears_prada_01.33.16.000-01.33.18.000 	andy and nigel smile over at him.
 1060_Yes_man_00.05.00.879-00.05.02.831 	then smiles at himself.
+1060_Yes_man_00.05.08.666-00.05.10.239 	she smiles.
 1060_Yes_man_00.14.53.581-00.14.55.006 	he smiles at his adoring fans.
-1060_Yes_man_00.14.58.762-00.15.02.309 	even carl smiles and claps.
-1060_Yes_man_00.16.30.000-00.16.31.896 	carl smiles awkwardly.
 1060_Yes_man_00.20.05.772-00.20.07.314 	a guy smiles at carl.
-1060_Yes_man_00.21.19.149-00.21.23.580 	carl smiles wryly.
-1060_Yes_man_00.22.38.549-00.22.40.763 	carl smiles and waggles his finger.
-1060_Yes_man_00.24.49.470-00.24.51.194 	carl smiles then turns away.
+1060_Yes_man_00.22.16.000-00.22.17.189 	he smiles.
+1060_Yes_man_00.24.28.624-00.24.30.001 	she smiles.
 1060_Yes_man_00.27.10.457-00.27.15.386 	he turns back slowly, smiling to himself.
-1060_Yes_man_00.28.12.619-00.28.14.457 	norman smiles wistfully.
+1060_Yes_man_00.27.36.681-00.27.41.203 	he smiles.
 1060_Yes_man_00.33.42.480-00.33.48.153 	they prop up the smiling carl.
+1060_Yes_man_00.35.55.765-00.36.00.719 	he smiles.
 1060_Yes_man_00.36.19.027-00.36.21.384 	she smiles and shrugs.
+1060_Yes_man_00.44.41.260-00.44.46.353 	smiling, allison sashays up beside him.
 1060_Yes_man_00.44.47.000-00.44.50.000 	carl sits at the bar, smiling and waiting.
+1060_Yes_man_00.46.37.488-00.46.41.005 	wrinkling her nose, she smiles.
+1060_Yes_man_00.46.55.800-00.46.58.815 	they smile.
 1060_Yes_man_00.55.34.197-00.55.36.510 	he smiles nervously.
 1060_Yes_man_00.56.28.499-00.56.30.987 	they smile in awe.
+1060_Yes_man_00.56.45.920-00.56.50.446 	she turns to him and they smile.
 1060_Yes_man_00.57.35.033-00.57.37.228 	she draws back and smiles impishly.
-1060_Yes_man_00.59.46.137-00.59.47.938 	lee's smile fades.
 1060_Yes_man_01.12.45.087-01.12.47.960 	he smiles broadly.
 1060_Yes_man_01.13.38.469-01.13.44.666 	allison falls against carl and smiles contentedly.
-1060_Yes_man_01.13.59.462-01.14.03.893 	she checks a computer screen and smiles at them.
-1060_Yes_man_01.16.48.913-01.16.52.088 	carl smiles weakly.
-1060_Yes_man_01.24.18.778-01.24.21.714 	carl catches her eye, smiles and waves.
-1060_Yes_man_01.24.42.055-01.24.46.985 	allison smiles tightly, and the woman raises her eyebrows.
-1060_Yes_man_01.25.36.123-01.25.40.444 	tillie walks up and smiles at him broadly.
+1060_Yes_man_01.14.25.137-01.14.32.979 	carl points at allison and starts to smile.
 1060_Yes_man_01.35.28.835-01.35.31.967 	she smiles and looks at him.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.14.23.000-00.14.26.104 	bogrod's demeanor changes, and he smiles benignly.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.16.06.033-00.16.11.906 	ron recast the spell on bogrod, who smiles benignly.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.16.20.000-01.16.23.694 	the red-haired lily smiles at the boy severus.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.17.17.103-01.17.21.535 	james smiles at lily, who gazes back at him.
+1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.50.26.000-01.50.28.664 	he smiles, as luna sits down coyly beside him.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.50.41.954-01.50.47.173 	he smiles when he sees the weasley family together.
 1062_Day_the_Earth_stood_still_00.06.23.899-00.06.26.623 	she smiles hesitantly.
 2004_Juno_00.38.38.369-00.38.42.750 	juno takes the slip, turns around and smiles all the way out.
-2004_Juno_00.52.22.966-00.52.23.274 	bleeker smiles faintly.
+2004_Juno_01.00.37.017-01.00.38.133 	mark instantly smiles.
 2004_Juno_01.30.14.634-01.30.17.511 	she smiles and takes out her guitar.
 2004_Juno_01.30.53.369-01.31.02.676 	they smile ambiguously.
 2005_Signs_00.03.56.244-00.03.56.856 	she smiles softly.
 2005_Signs_00.26.42.750-00.26.43.250 	the crewcut guy smiles back.
-2005_Signs_01.14.26.133-01.14.29.778 	graham smiles to himself as he remembers the moment.
 2005_Signs_01.18.09.100-01.18.12.757 	graham smiles down at his son who smiles gently back.
 2012_Unbreakable_00.01.26.939-00.01.31.087 	the woman smiles for the first time.
 2012_Unbreakable_00.28.27.360-00.28.30.266 	he smiles out of frustration.
-2012_Unbreakable_00.51.30.861-00.51.32.363 	elijah smiles warmly.
-2012_Unbreakable_00.51.32.363-00.51.35.508 	audrey smiles softly back.
-2012_Unbreakable_00.51.42.863-00.51.45.034 	elijah smiles even bigger.
 2017_Bad_Santa_00.31.32.695-00.31.38.982 	the sound of a tumbler tripping and, suddenly, light sweeps in as the safe door opens to reveal a smiling willie with his stethoscope in his ears.
-2026_Legion_00.08.43.903-00.08.48.297 	charlie smiles sadly at him, touched by his sweetness, but this just isn't where she's at.
-2026_Legion_00.23.01.985-00.23.04.427 	gladys smiles strangely.
-2026_Legion_00.26.32.084-00.26.35.333 	gladys smiles sweetly before slapping him clear across the .
-2026_Legion_00.37.05.077-00.37.10.228 	howard smiles weakly at the familiar sound of the calliope.
+2017_Bad_Santa_00.47.54.887-00.47.59.091 	angle on kid's face, unfazed, still smiling.
+2017_Bad_Santa_01.27.29.134-01.27.33.155 	we are looking at a big, fuzzy, smiling, pink stuffed elephant.
 2026_Legion_01.05.51.989-01.05.55.020 	she smiles at this confession.
-1053_Harry_Potter_and_the_philosophers_stone_00.10.27.062-00.10.40.166 	vernon smiles at him sadistically as he pokes the fire and the flames turn the letters to ashes.
-1053_Harry_Potter_and_the_philosophers_stone_00.15.38.502-00.15.40.156 	hagrid smiles knowingly.
-1053_Harry_Potter_and_the_philosophers_stone_00.33.25.098-00.33.26.658 	the little girl smiles at him.
-1053_Harry_Potter_and_the_philosophers_stone_00.33.53.374-00.33.55.542 	harry smiles with delight.
-1053_Harry_Potter_and_the_philosophers_stone_00.51.44.867-00.52.07.884 	he fixes his eyes on malfoy who smiles slyly.
-1053_Harry_Potter_and_the_philosophers_stone_01.13.27.000-01.13.28.405 	ron smiles at harry.
-1053_Harry_Potter_and_the_philosophers_stone_01.15.27.000-01.15.31.346 	stroking the white owl's feathers, professor mcgonagall smiles at harry.
-1053_Harry_Potter_and_the_philosophers_stone_01.19.11.250-01.19.12.249 	the captain smiles angrily.
-1053_Harry_Potter_and_the_philosophers_stone_01.21.39.224-01.21.41.088 	she smiles as a flame appears.
-1053_Harry_Potter_and_the_philosophers_stone_01.33.42.289-01.33.43.355 	his mother fondly smiles at him again.
-1053_Harry_Potter_and_the_philosophers_stone_02.14.24.533-02.14.29.000 	he smiles as he sees the get-well cards, and the table at the bottom of his bed piled high with boxes of sweets.
-1053_Harry_Potter_and_the_philosophers_stone_02.19.00.187-02.19.07.681 	snape applauds, and malfoy smiles nastily at ron and harry.
-1053_Harry_Potter_and_the_philosophers_stone_02.19.36.215-02.19.43.856 	malfoy and his cronies look sick, while hagrid smiles delightedly.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_01.23.50.196-01.23.52.169 	she smiles at ron.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_02.04.26.044-02.04.36.641 	sirius climbs onto buckbeak's back and smiles at hermione.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_02.08.18.011-02.08.25.871 	he smiles at harry, picks up his bag and walking stick, and leaves.
-1055_Marley_and_me_00.41.36.256-00.41.42.881 	the doctor smiles reassuringly and places the scanner on jenny's stomach.
-1055_Marley_and_me_01.00.55.295-01.00.57.711 	john half smiles and nods hesitantly.
-1055_Marley_and_me_01.12.06.521-01.12.06.916 	he smiles quizzically at her.
-1055_Marley_and_me_01.12.29.000-01.12.33.272 	jenny's holding a newborn baby, smiling as a nurse pushes her in a wheelchair.
-1055_Marley_and_me_01.25.07.844-01.25.12.478 	john looks at his wife, then they smile and hug.
-1056_Rambo_00.16.07.000-00.16.12.445 	she smiles and turns away from him.
-1056_Rambo_00.23.28.723-00.23.34.395 	she smiles faintly and places a small crucifix on a necklace into his enormous hand.
-1057_Seven_pounds_00.10.07.852-00.10.13.084 	ben smiles and gives the stout nurse a brief wave as he heads away.
-1057_Seven_pounds_00.16.08.569-00.16.14.104 	he straightens up again, smiles faintly and picks up his briefcase.
-1057_Seven_pounds_00.17.49.307-00.17.51.793 	he smiles gently.
-1057_Seven_pounds_00.21.59.076-00.22.04.184 	the boy spots ben, who smiles and nods, then returns briefly to reading.
-1057_Seven_pounds_00.22.17.408-00.22.20.755 	the woman smiles as she watches the boys.
-1057_Seven_pounds_00.30.56.000-00.31.00.246 	he smiles good-humoredly and considers.
-1057_Seven_pounds_00.31.41.594-00.31.46.572 	ben smiles broadly and heads out.
-1057_Seven_pounds_00.32.44.259-00.32.48.464 	then, emily smiles and looks down shyly.
-1057_Seven_pounds_00.39.21.731-00.39.28.573 	he eyes her steadily and smiles faintly.
-1057_Seven_pounds_00.39.57.160-00.40.07.564 	ben approaches the window and smiles in at connie, who opens the front door but not the wrought iron screen door.
-1057_Seven_pounds_00.46.45.517-00.46.54.997 	lying in bed, beautiful dark-haired sarah smiles up at ben beside her.
-1057_Seven_pounds_00.54.27.218-00.54.29.802 	emily's smile fades.
-1057_Seven_pounds_01.10.12.561-01.10.17.095 	he smiles and carries on working.
-1057_Seven_pounds_01.12.38.625-01.12.41.540 	emily smiles impishly.
-1057_Seven_pounds_01.13.02.016-01.13.06.493 	emily smiles gleefully.
-1057_Seven_pounds_01.15.10.707-01.15.20.242 	emily looks down and smiles wistfully.
-1057_Seven_pounds_01.17.00.738-01.17.20.084 	ben sits in the sunny field, smiling to himself.
-1057_Seven_pounds_01.20.08.390-01.20.10.827 	she's wearing a pink dress, then smiling gently as she looks down at something.
-1057_Seven_pounds_01.23.33.852-01.23.39.824 	she smiles and puts down the phone.
-1057_Seven_pounds_01.26.40.000-01.26.42.885 	she nods and smiles at him.
-1057_Seven_pounds_01.27.36.729-01.27.40.772 	she smiles triumphantly.
-1057_Seven_pounds_01.56.31.623-01.56.38.169 	he smiles gently.
-1057_Seven_pounds_01.56.40.414-01.56.48.323 	emily smiles through her tears, which roll down her cheeks.
-1058_The_Damned_united_00.38.56.988-00.39.02.212 	the young man smiles bashfully and hangs his head, as brian rises to his feet and looks around the other players.
-1058_The_Damned_united_00.46.30.009-00.46.33.573 	bremner salutes don in the stands, who smiles back and touches his nose smugly.
-1058_The_Damned_united_00.56.52.533-00.56.56.895 	brian smiles and looks away.
-1058_The_Damned_united_01.05.00.936-01.05.09.246 	brian smiles bitterly as giles points past him, towards the empty stadium at the end of the tunnel.
-1058_The_Damned_united_01.05.09.246-01.05.17.000 	brian's smile wilts as giles turns and saunters off with the other players, who pat him on the back as they go.
-1058_The_Damned_united_01.09.27.000-01.09.30.651 	brian smiles wryly with his arms folded.
-1058_The_Damned_united_01.18.58.358-01.19.01.675 	brian winks and smiles wistfully.
-1058_The_Damned_united_01.25.24.043-01.25.27.000 	brian smiles as the boys stifle giggles.
-1058_The_Damned_united_01.29.57.817-01.30.01.981 	brian smiles as his sons hug peter.
-1058_The_Damned_united_01.31.31.562-01.31.33.890 	a smiling brian waves as he gets on to a plane.
-1059_The_devil_wears_prada_00.22.57.323-00.23.00.000 	andy's smile fades.
-1059_The_devil_wears_prada_00.43.22.560-00.43.25.000 	andy smiles and takes her leave.
-1059_The_devil_wears_prada_00.49.41.000-00.49.45.000 	andy smiles nervously, and heads back to her desk.
-1059_The_devil_wears_prada_01.34.46.842-01.34.50.307 	up on the podium, miranda smiles and applauds jacqueline as irv eyes her coolly.
-1059_The_devil_wears_prada_01.38.14.416-01.38.23.617 	miranda puts on a pair of large sunglasses, smiles at andy and steps out of the car.
-1059_The_devil_wears_prada_01.41.14.000-01.41.17.000 	andy smiles back, then looks down coyly.
-1059_The_devil_wears_prada_01.44.22.935-01.44.26.439 	the two women regard each other for a moment, then andy smiles and raises her hand in a wave.
-1060_Yes_man_00.05.00.879-00.05.02.831 	then smiles at himself.
-1060_Yes_man_00.14.53.581-00.14.55.006 	he smiles at his adoring fans.
-1060_Yes_man_00.14.58.762-00.15.02.309 	even carl smiles and claps.
-1060_Yes_man_00.16.30.000-00.16.31.896 	carl smiles awkwardly.
-1060_Yes_man_00.20.05.772-00.20.07.314 	a guy smiles at carl.
-1060_Yes_man_00.21.19.149-00.21.23.580 	carl smiles wryly.
-1060_Yes_man_00.22.38.549-00.22.40.763 	carl smiles and waggles his finger.
-1060_Yes_man_00.24.49.470-00.24.51.194 	carl smiles then turns away.
-1060_Yes_man_00.27.10.457-00.27.15.386 	he turns back slowly, smiling to himself.
-1060_Yes_man_00.28.12.619-00.28.14.457 	norman smiles wistfully.
-1060_Yes_man_00.33.42.480-00.33.48.153 	they prop up the smiling carl.
-1060_Yes_man_00.36.19.027-00.36.21.384 	she smiles and shrugs.
-1060_Yes_man_00.44.47.000-00.44.50.000 	carl sits at the bar, smiling and waiting.
-1060_Yes_man_00.55.34.197-00.55.36.510 	he smiles nervously.
-1060_Yes_man_00.56.28.499-00.56.30.987 	they smile in awe.
-1060_Yes_man_00.57.35.033-00.57.37.228 	she draws back and smiles impishly.
-1060_Yes_man_00.59.46.137-00.59.47.938 	lee's smile fades.
-1060_Yes_man_01.12.45.087-01.12.47.960 	he smiles broadly.
-1060_Yes_man_01.13.38.469-01.13.44.666 	allison falls against carl and smiles contentedly.
-1060_Yes_man_01.13.59.462-01.14.03.893 	she checks a computer screen and smiles at them.
-1060_Yes_man_01.16.48.913-01.16.52.088 	carl smiles weakly.
-1060_Yes_man_01.24.18.778-01.24.21.714 	carl catches her eye, smiles and waves.
-1060_Yes_man_01.24.42.055-01.24.46.985 	allison smiles tightly, and the woman raises her eyebrows.
-1060_Yes_man_01.25.36.123-01.25.40.444 	tillie walks up and smiles at him broadly.
-1060_Yes_man_01.35.28.835-01.35.31.967 	she smiles and looks at him.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.14.23.000-00.14.26.104 	bogrod's demeanor changes, and he smiles benignly.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.16.06.033-00.16.11.906 	ron recast the spell on bogrod, who smiles benignly.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.16.20.000-01.16.23.694 	the red-haired lily smiles at the boy severus.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.17.17.103-01.17.21.535 	james smiles at lily, who gazes back at him.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.50.41.954-01.50.47.173 	he smiles when he sees the weasley family together.
-1062_Day_the_Earth_stood_still_00.06.23.899-00.06.26.623 	she smiles hesitantly.
-2004_Juno_00.38.38.369-00.38.42.750 	juno takes the slip, turns around and smiles all the way out.
-2004_Juno_00.52.22.966-00.52.23.274 	bleeker smiles faintly.
-2004_Juno_01.30.14.634-01.30.17.511 	she smiles and takes out her guitar.
-2004_Juno_01.30.53.369-01.31.02.676 	they smile ambiguously.
-2005_Signs_00.03.56.244-00.03.56.856 	she smiles softly.
-2005_Signs_00.26.42.750-00.26.43.250 	the crewcut guy smiles back.
-2005_Signs_01.14.26.133-01.14.29.778 	graham smiles to himself as he remembers the moment.
-2005_Signs_01.18.09.100-01.18.12.757 	graham smiles down at his son who smiles gently back.
-2012_Unbreakable_00.01.26.939-00.01.31.087 	the woman smiles for the first time.
-2012_Unbreakable_00.28.27.360-00.28.30.266 	he smiles out of frustration.
-2012_Unbreakable_00.51.30.861-00.51.32.363 	elijah smiles warmly.
-2012_Unbreakable_00.51.32.363-00.51.35.508 	audrey smiles softly back.
-2012_Unbreakable_00.51.42.863-00.51.45.034 	elijah smiles even bigger.
-2017_Bad_Santa_00.31.32.695-00.31.38.982 	the sound of a tumbler tripping and, suddenly, light sweeps in as the safe door opens to reveal a smiling willie with his stethoscope in his ears.
-2026_Legion_00.08.43.903-00.08.48.297 	charlie smiles sadly at him, touched by his sweetness, but this just isn't where she's at.
-2026_Legion_00.23.01.985-00.23.04.427 	gladys smiles strangely.
-2026_Legion_00.26.32.084-00.26.35.333 	gladys smiles sweetly before slapping him clear across the .
-2026_Legion_00.37.05.077-00.37.10.228 	howard smiles weakly at the familiar sound of the calliope.
-2026_Legion_01.05.51.989-01.05.55.020 	she smiles at this confession.
-2034_Super_8_00.32.27.602-00.32.28.770 	cary smiles at alice.
-2040_The_Ugly_Truth_01.19.35.933-01.19.39.209 	abby's smile fades.
+2027_Les_Miserables_01.16.53.852-01.16.54.926 	but enjolras isn't smiling.
+2034_Super_8_00.08.56.066-00.08.58.280 	images of happy, smiling, healthy athletic kids.
+2034_Super_8_00.20.02.090-00.20.04.653 	joe moves forward -- up to camera -- behind him, cary appears, smiling.
+2034_Super_8_00.40.17.014-00.40.18.284 	and when she pulls back, her performance over, she's smiling.
+2034_Super_8_00.50.28.584-00.50.33.292 	as it continues, we see alice behind the camera, watching joe, smiling.
 2041_This_is_40_02.10.54.953-02.10.55.798 	she smiles at him and he smiles back, almost blushing.
-2054_Harry_Potter_and_the_prisoner_of_azkaban_00.14.19.320-00.14.21.491 	fudge smiles nervously.
-2054_Harry_Potter_and_the_prisoner_of_azkaban_00.47.02.529-00.47.06.301 	harry smiles vaguely.
+2051_Harry_Potter_and_the_goblet_of_fire_00.31.13.402-00.31.18.299 	he looks at hermione and she smiles.
+2054_Harry_Potter_and_the_prisoner_of_azkaban_01.03.21.143-01.03.22.256 	but he's smiling.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_01.33.04.323-01.33.05.951 	the others turn, find snape standing in the doorway, smiling smugly.
-2054_Harry_Potter_and_the_prisoner_of_azkaban_02.06.26.378-02.06.30.510 	lupin turns, smiles through haggard eyes.
+2054_Harry_Potter_and_the_prisoner_of_azkaban_01.47.32.634-01.47.34.587 	he smiles, exits.

@@ -1,129 +1,124 @@
-0001_American_Beauty_00.03.18.327-00.03.22.048 	JANE is seated at her desk, working at her computer.
-0001_American_Beauty_00.05.08.318-00.05.12.770 	Brad is seated behind his desk in his big corner office.
-0001_American_Beauty_00.03.18.327-00.03.22.048 	JANE is seated at her desk, working at her computer.
-0001_American_Beauty_00.05.08.318-00.05.12.770 	Brad is seated behind his desk in his big corner office.
-0001_American_Beauty_00.29.12.550-00.29.13.975 	The Colonel and Barbara are seated on a couch, watching television.
-0001_American_Beauty_00.51.26.234-00.51.29.162 	Brad is seated behind his desk, reading a document.
-0002_As_Good_As_It_Gets_00.53.48.703-00.53.50.021 	As we approach the doctor and Carol seated across from each other at a small table.
-0002_As_Good_As_It_Gets_01.09.09.523-01.09.12.895 	Carol seated working on a letter.
-0003_CASABLANCA_00.25.49.876-00.25.51.220 	The headwaiter seats Ilsa.
-0005_Chinatown_00.14.55.763-00.15.01.376 	Duffy is rowing, Gittes seated in the stern.
-0005_Chinatown_01.57.17.510-01.57.19.031 	He's seated at the dinner table with his father, his mother, and his children.
-0009_Forrest_Gump_02.06.44.000-02.06.49.446 	The group is seated as they watch Forrest and Jenny take vows on the front lawn.
-0011_Gandhi_00.27.27.956-00.27.30.642 	When it subsides, Tyeb Mohammed rises near the back, where he is seated with a number of other young men.
-0011_Gandhi_00.43.49.280-00.43.50.869 	He has seated Gandhi in it beside Patel, taking Gandhi's knapsack.
-0011_Gandhi_00.54.37.255-00.54.38.851 	People cling to the outside of each door and many more are seated on the central wooden planks on the roofs of the two coaches.
-0011_Gandhi_01.43.16.988-01.43.22.318 	Mirabehn, seated like the others, is almost in the circle, sitting near Ba, and listening like her.
-0014_Ist_das_Leben_nicht_schoen_00.09.23.778-00.09.24.991 	George's father is seated behind his desk, nervously drawing swirls on a pad.
-0014_Ist_das_Leben_nicht_schoen_00.10.47.132-00.10.47.387 	Mary is still seated at the soda fountain.
-0014_Ist_das_Leben_nicht_schoen_00.14.14.318-00.14.15.468 	Pop Bailey is seated at the dinner table.
-0014_Ist_das_Leben_nicht_schoen_00.29.47.892-00.29.49.562 	There are about twelve directors seated around a long table.
-0014_Ist_das_Leben_nicht_schoen_00.29.50.155-00.29.51.090 	Uncle Billy and George are seated among the directors.
-0014_Ist_das_Leben_nicht_schoen_00.30.07.824-00.30.09.966 	Prominently seated among them is Henry F. Potter, his goon beside his wheelchair.
-0014_Ist_das_Leben_nicht_schoen_00.35.18.349-00.35.25.491 	Uncle Billy is seated on a baggage wagon eating peanuts as George paces up and down in front of him.
-0014_Ist_das_Leben_nicht_schoen_00.45.53.630-00.45.55.299 	George and Mary seated on the divan.
-0014_Ist_das_Leben_nicht_schoen_00.47.39.002-00.47.44.209 	Sam is seated at his desk, while a couple of his friends are nearby, with highballs in their hands.
-0014_Ist_das_Leben_nicht_schoen_00.53.53.536-00.53.53.908 	Potter seated behind his desk, his goon alongside him.
-0014_Ist_das_Leben_nicht_schoen_01.05.22.026-01.05.23.125 	Potter seated in his wheelchair at his desk, with his goon beside him.
-0014_Ist_das_Leben_nicht_schoen_01.24.36.277-01.24.37.803 	Uncle Billy is seated behind the desk, his head on his hands.
-0014_Ist_das_Leben_nicht_schoen_01.32.17.482-01.32.19.424 	Potter is seated at his desk, his goon beside him.
-0014_Ist_das_Leben_nicht_schoen_01.32.20.537-01.32.22.609 	George is seated in a chair before the desk, without a hat or coat, covered lightly with snow.
-0014_Ist_das_Leben_nicht_schoen_01.35.36.971-01.35.38.435 	George is seated at the bar he has had a great deal to drink, far more than he's accustomed to.
-0014_Ist_das_Leben_nicht_schoen_01.39.42.922-01.39.43.890 	George is seated before a wood-burning stove before which his clothes are drying on a line.
-0014_Ist_das_Leben_nicht_schoen_01.39.54.343-01.39.56.721 	The tollkeeper is seated against the wall eyeing them suspiciously.
-0014_Ist_das_Leben_nicht_schoen_02.03.25.029-02.03.25.164 	Potter is seated working at his desk, his goon by his side.
-0017_Pianist_00.04.52.788-00.04.56.235 	The family are seated around the dining table, having just finished a meal.
-0017_Pianist_00.14.57.558-00.14.59.876 	Szpilman, Halina and Henryk walk beside the platform with Mother, Father and Regina seated on it.
-0017_Pianist_00.47.31.646-00.47.33.565 	The Szpilmans seated on the kerb.
-0017_Pianist_01.16.32.257-01.16.44.534 	Gebczynski and Szpilman apprehensive, push through the rear section, packed with Poles, seated and standing, until they reach a chain and a sign.
-0020_Raising_Arizona_00.06.20.038-00.06.21.964 	A congregation is seated behind her - the bride's side wearing police blues; the groom's side, Hawaiian shirts.
-0020_Raising_Arizona_00.08.07.720-00.08.09.570 	Hi and Ed are seated on folding chairs facing an agent's desk.
-0021_Rear_Window_00.08.22.927-00.08.23.032 	Jeff is seated in the foreground, in a waist shot.
-0021_Rear_Window_00.44.09.165-00.44.10.165 	By her position, Lisa is seated on Jeff's sound knee, her arms around his neck.
-0021_Rear_Window_00.49.35.703-00.49.36.703 	Jeff is seated in the dark, his face lit by the faint glow from the distant street.
-0021_Rear_Window_00.50.27.254-00.50.27.754 	Jeff is seated by the window in his wheelchair.
-0021_Rear_Window_00.53.42.482-00.53.43.482 	SHOOTING TOWARDS the big window, with the neighborhood beyond, Jeff is as usual seated in his wheelchair on the left of the window, but now turned toward a newcomer.
-0021_Rear_Window_01.01.14.079-01.01.14.906 	She is wearing a Kelly Green suit, and is seated at her dressing table.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.39.39.873-00.39.48.572 	Saruman and Gandalf are seated in a small, cluttered room to the side of the cavernous central chamber.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.58.42.361-00.58.46.636 	Saruman is seated as his ORC OVERSEER approaches.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.28.48.052-00.28.49.285 	ELROND seated alone.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.58.11.125-00.58.12.738 	HIGH ABOVE OSGILIATH, the SINISTER PROFILE of the WITCH KING seated on a FELL BEAST as GOTHMOG stands, awaiting his orders.
-0027_The_Big_Lebowski_01.24.25.451-01.24.27.193 	The Dude is hurled against the chief's desk, which he bounces off of, to come to rest more or less seated in a facing chair.
-0029_The_Graduate_00.27.41.555-00.27.43.760 	Mrs. Singleman looks at the seating list she has been holding.
-0029_The_Graduate_00.59.57.142-01.00.02.830 	Ben and Elaine are seated at a table.
-0029_The_Graduate_01.29.21.355-01.29.23.689 	Ben is seated across a study table from Elaine.
-0030_The_Hustler_00.24.14.567-00.24.16.516 	As Preacher opens the door to the back room, clutching a paper bag filled with bottles to his chest, we see six men seated around a table, playing poker.
-0030_The_Hustler_01.21.15.678-01.21.17.359 	They are seated at the breakfast table.
-0030_The_Hustler_01.29.41.837-01.29.55.709 	The headwaiter seats them at a table.
-0030_The_Hustler_01.58.22.906-01.58.24.919 	Sarah is there, seated primly on the bed.
-0031_The_Lost_Weekend_01.15.56.174-01.15.58.470 	Bim seats Don on his bed.
-0031_The_Lost_Weekend_01.29.38.887-01.29.44.256 	She seats him on the bed.
-0031_The_Lost_Weekend_01.32.41.768-01.32.42.659 	Don is seated at the desk.
-0033_Amadeus_00.10.11.482-00.10.16.469 	We see the six-year-old MOZART, also blindfolded, seated in a gilded chair on a pile of books, playing the harpsichord for the POPE and a suite of CARDINALS and other churchmen.
-0033_Amadeus_00.11.29.689-00.11.30.674 	We see the twelve-year-old Salieri seated between his plump and placid parents in the congregation, listening in rapture.
-0033_Amadeus_00.48.39.552-00.48.45.648 	She seats herself at her mirror and removes her wig.
-0033_Amadeus_01.45.50.508-01.45.51.764 	Mozart glances back at the group seated in the theatre.
-0038_Psycho_00.46.04.696-00.46.07.966 	Mary is seated at the small desk, engrossed in figuring in a small notebook.
-0038_Psycho_01.19.28.964-01.19.32.077 	With CAMERA placed with its back to the street door, we can see the distant tiny figure of Lila seated and waiting in the back room beyond.
-0041_The_Sixth_Sense_01.09.34.038-01.09.38.781 	A tape slides into the tape player seated on Malcolm's desk.
-0041_The_Sixth_Sense_01.22.26.312-01.22.30.549 	The girl's father, MR. COLLINS, a thin man in his late twenties, is seated on the reading chair next to a T.V.
-0041_The_Sixth_Sense_01.24.01.814-01.24.02.929 	Mr. Collins is seated now.
-0041_The_Sixth_Sense_01.24.37.118-01.24.37.599 	The camera is seated on her desk in the corner.
-0041_The_Sixth_Sense_01.22.01.268-01.22.06.300 	Mrs. Collins is seated at the dining room surrounded by friends and family.
-0050_Indiana_Jones_and_the_last_crusade_01.21.34.497-01.21.36.697 	The Sultan is seated in his royal chair, flanked by Walter Donovan and Vogel and surrounded by his minions.
-0053_Rendezvous_mit_Joe_Black_02.29.05.563-02.29.09.508 	Parrish is seated by the window, lights from the party flashing past, the MUSIC and laughter audible but muted, the fever of the celebration lost on him, within himself.
-1001_Flight_00.26.33.168-00.26.38.304 	He sees a seated man on the TV gesturing as rescue workers push a stretcher behind him.
-1001_Flight_00.52.11.242-00.52.20.849 	He enters a dining area with a buffet to one side and approached Charlie seated with a man wearing glasses.
-1001_Flight_02.10.14.621-02.10.20.800 	Whip smiles as he walks towards Will seated at a desk.
-1001_Flight_02.10.38.865-02.10.43.563 	They are seated at a table.
-1002_Harry_Potter_and_the_Half-Blood_Prince_02.23.26.539-02.23.26.971 	Ron stays seated behind them.
-1003_How_to_Lose_Friends_and_Alienate_People_00.01.38.775-00.01.43.522 	A man seated nearby.
-1003_How_to_Lose_Friends_and_Alienate_People_01.42.14.592-01.42.16.809 	The people are seated in deck chairs and on blankets, staring up.
-1004_Juno_00.18.53.200-00.19.02.487 	As she starts to fill in the form, she becomes aware of a black woman seated nearby crumbing her fingers against her clipboard.
+0001_American_Beauty_00.03.18.327-00.03.22.048 	jane is seated at her desk, working at her computer.
+0001_American_Beauty_00.05.08.318-00.05.12.770 	brad is seated behind his desk in his big corner office.
+0001_American_Beauty_00.14.05.000-00.14.07.938 	seated in the bleachers, next to the high school band, is a group of about twenty teenage girls, dressed in pale blue and white uniforms.
+0001_American_Beauty_00.29.12.550-00.29.13.975 	the colonel and barbara are seated on a couch, watching television.
+0001_American_Beauty_00.51.26.234-00.51.29.162 	brad is seated behind his desk, reading a document.
+0002_As_Good_As_It_Gets_00.53.48.703-00.53.50.021 	as we approach the doctor and carol seated across from each other at a small table.
+0002_As_Good_As_It_Gets_01.09.09.523-01.09.12.895 	carol seated working on a letter.
+0005_Chinatown_00.14.55.763-00.15.01.376 	duffy is rowing, gittes seated in the stern.
+0005_Chinatown_00.45.28.423-00.45.31.375 	gittes is seated, flips through the paper until he finds the obituary column, scans it, looks up, abruptly tears the column from the paper and puts it in his pocket.
+0005_Chinatown_01.57.17.510-01.57.19.031 	he's seated at the dinner table with his father, his mother, and his children.
+0009_Forrest_Gump_02.06.44.000-02.06.49.446 	the group is seated as they watch forrest and jenny take vows on the front lawn.
+0011_Gandhi_00.26.27.587-00.26.28.384 	seated on the stage are khan, singh, three more leaders of the indian community.
+0011_Gandhi_00.27.27.956-00.27.30.642 	when it subsides, tyeb mohammed rises near the back, where he is seated with a number of other young men.
+0011_Gandhi_00.43.49.280-00.43.50.869 	he has seated gandhi in it beside patel, taking gandhi's knapsack.
+0011_Gandhi_00.54.37.255-00.54.38.851 	people cling to the outside of each door and many more are seated on the central wooden planks on the roofs of the two coaches.
+0011_Gandhi_01.43.16.988-01.43.22.318 	mirabehn, seated like the others, is almost in the circle, sitting near ba, and listening like her.
+0014_Ist_das_Leben_nicht_schoen_00.05.39.018-00.05.41.069 	george crosses over to the soda fountain, at which mary hatch, a small girl, is seated, watching him.
+0014_Ist_das_Leben_nicht_schoen_00.09.23.778-00.09.24.991 	george's father is seated behind his desk, nervously drawing swirls on a pad.
+0014_Ist_das_Leben_nicht_schoen_00.10.47.132-00.10.47.387 	mary is still seated at the soda fountain.
+0014_Ist_das_Leben_nicht_schoen_00.14.14.318-00.14.15.468 	pop bailey is seated at the dinner table.
+0014_Ist_das_Leben_nicht_schoen_00.29.47.892-00.29.49.562 	there are about twelve directors seated around a long table.
+0014_Ist_das_Leben_nicht_schoen_00.29.50.155-00.29.51.090 	uncle billy and george are seated among the directors.
+0014_Ist_das_Leben_nicht_schoen_00.30.07.824-00.30.09.966 	prominently seated among them is henry f. potter, his goon beside his wheelchair.
+0014_Ist_das_Leben_nicht_schoen_00.35.18.349-00.35.25.491 	uncle billy is seated on a baggage wagon eating peanuts as george paces up and down in front of him.
+0014_Ist_das_Leben_nicht_schoen_00.45.53.630-00.45.55.299 	george and mary seated on the divan.
+0014_Ist_das_Leben_nicht_schoen_00.47.39.002-00.47.44.209 	sam is seated at his desk, while a couple of his friends are nearby, with highballs in their hands.
+0014_Ist_das_Leben_nicht_schoen_00.53.53.536-00.53.53.908 	potter seated behind his desk, his goon alongside him.
+0014_Ist_das_Leben_nicht_schoen_01.05.22.026-01.05.23.125 	potter seated in his wheelchair at his desk, with his goon beside him.
+0014_Ist_das_Leben_nicht_schoen_01.15.29.216-01.15.32.198 	potter is wheeled in toward a long table around which several men are seated.
+0014_Ist_das_Leben_nicht_schoen_01.17.47.958-01.17.49.785 	seated on a chair is a middle-aged man with a brief case.
+0014_Ist_das_Leben_nicht_schoen_01.24.36.277-01.24.37.803 	uncle billy is seated behind the desk, his head on his hands.
+0014_Ist_das_Leben_nicht_schoen_01.32.17.482-01.32.19.424 	potter is seated at his desk, his goon beside him.
+0014_Ist_das_Leben_nicht_schoen_01.32.20.537-01.32.22.609 	george is seated in a chair before the desk, without a hat or coat, covered lightly with snow.
+0014_Ist_das_Leben_nicht_schoen_01.35.36.971-01.35.38.435 	george is seated at the bar he has had a great deal to drink, far more than he's accustomed to.
+0014_Ist_das_Leben_nicht_schoen_01.36.38.610-01.36.40.535 	seated on the other side of george is a burly individual, drinking a glass of beer.
+0014_Ist_das_Leben_nicht_schoen_01.39.42.922-01.39.43.890 	george is seated before a wood-burning stove before which his clothes are drying on a line.
+0014_Ist_das_Leben_nicht_schoen_01.39.54.343-01.39.56.721 	the tollkeeper is seated against the wall eyeing them suspiciously.
+0014_Ist_das_Leben_nicht_schoen_02.03.25.029-02.03.25.164 	potter is seated working at his desk, his goon by his side.
+0017_Pianist_00.04.52.788-00.04.56.235 	the family are seated around the dining table, having just finished a meal.
+0017_Pianist_00.14.57.558-00.14.59.876 	szpilman, halina and henryk walk beside the platform with mother, father and regina seated on it.
+0017_Pianist_00.20.53.106-00.20.55.125 	seated at the table with mother and father is a uniformed young man, yitzchak heller, unusual appearance, a man with red hair and a hitler moustache.
+0017_Pianist_00.47.31.646-00.47.33.565 	the szpilmans seated on the kerb.
+0017_Pianist_01.16.32.257-01.16.44.534 	gebczynski and szpilman apprehensive, push through the rear section, packed with poles, seated and standing, until they reach a chain and a sign.
+0020_Raising_Arizona_00.06.20.038-00.06.21.964 	a congregation is seated behind her - the bride's side wearing police blues; the groom's side, hawaiian shirts.
+0020_Raising_Arizona_00.08.07.720-00.08.09.570 	hi and ed are seated on folding chairs facing an agent's desk.
+0020_Raising_Arizona_00.10.49.168-00.10.50.102 	we are floating in toward ed who is seated, waiting, in the driver's seat of hi's chevy.
+0021_Rear_Window_00.08.22.927-00.08.23.032 	jeff is seated in the foreground, in a waist shot.
+0021_Rear_Window_00.44.09.165-00.44.10.165 	by her position, lisa is seated on jeff's sound knee, her arms around his neck.
+0021_Rear_Window_00.49.35.703-00.49.36.703 	jeff is seated in the dark, his face lit by the faint glow from the distant street.
+0021_Rear_Window_00.50.27.254-00.50.27.754 	jeff is seated by the window in his wheelchair.
+0021_Rear_Window_00.53.42.482-00.53.43.482 	shooting towards the big window, with the neighborhood beyond, jeff is as usual seated in his wheelchair on the left of the window, but now turned toward a newcomer.
+0021_Rear_Window_01.01.14.079-01.01.14.906 	she is wearing a kelly green suit, and is seated at her dressing table.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.39.39.873-00.39.48.572 	saruman and gandalf are seated in a small, cluttered room to the side of the cavernous central chamber.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.58.42.361-00.58.46.636 	saruman is seated as his orc overseer approaches.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.28.48.052-00.28.49.285 	elrond seated alone.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.58.11.125-00.58.12.738 	high above osgiliath, the sinister profile of the witch king seated on a fell beast as gothmog stands, awaiting his orders.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.59.47.944-02.59.56.217 	seated at a long table, the four friends raise their glasses.
+0027_The_Big_Lebowski_01.24.25.451-01.24.27.193 	the dude is hurled against the chief's desk, which he bounces off of, to come to rest more or less seated in a facing chair.
+0029_The_Graduate_00.59.57.142-01.00.02.830 	ben and elaine are seated at a table.
+0029_The_Graduate_01.29.21.355-01.29.23.689 	ben is seated across a study table from elaine.
+0030_The_Hustler_00.24.14.567-00.24.16.516 	as preacher opens the door to the back room, clutching a paper bag filled with bottles to his chest, we see six men seated around a table, playing poker.
+0030_The_Hustler_01.21.15.678-01.21.17.359 	they are seated at the breakfast table.
+0030_The_Hustler_01.58.22.906-01.58.24.919 	sarah is there, seated primly on the bed.
+0031_The_Lost_Weekend_01.32.41.768-01.32.42.659 	don is seated at the desk.
+0033_Amadeus_00.10.11.482-00.10.16.469 	we see the six-year-old mozart, also blindfolded, seated in a gilded chair on a pile of books, playing the harpsichord for the pope and a suite of cardinals and other churchmen.
+0033_Amadeus_00.11.29.689-00.11.30.674 	we see the twelve-year-old salieri seated between his plump and placid parents in the congregation, listening in rapture.
+0033_Amadeus_00.17.35.939-00.17.36.706 	the throng is mostly seated.
+0033_Amadeus_01.45.50.508-01.45.51.764 	mozart glances back at the group seated in the theatre.
+0033_Amadeus_01.53.15.482-01.53.16.603 	behind him, seated, are schikaneder and the three girls we saw before in mozart's apartment.
+0038_Psycho_00.46.04.696-00.46.07.966 	mary is seated at the small desk, engrossed in figuring in a small notebook.
+0038_Psycho_01.19.28.964-01.19.32.077 	with camera placed with its back to the street door, we can see the distant tiny figure of lila seated and waiting in the back room beyond.
+0041_The_Sixth_Sense_01.09.34.038-01.09.38.781 	a tape slides into the tape player seated on malcolm's desk.
+0041_The_Sixth_Sense_01.22.26.312-01.22.30.549 	the girl's father, mr. collins, a thin man in his late twenties, is seated on the reading chair next to a t.v.
+0041_The_Sixth_Sense_01.24.01.814-01.24.02.929 	mr. collins is seated now.
+0041_The_Sixth_Sense_01.24.37.118-01.24.37.599 	the camera is seated on her desk in the corner.
+0041_The_Sixth_Sense_01.22.01.268-01.22.06.300 	mrs. collins is seated at the dining room surrounded by friends and family.
+0050_Indiana_Jones_and_the_last_crusade_01.21.34.497-01.21.36.697 	the sultan is seated in his royal chair, flanked by walter donovan and vogel and surrounded by his minions.
+0053_Rendezvous_mit_Joe_Black_02.29.05.563-02.29.09.508 	parrish is seated by the window, lights from the party flashing past, the music and laughter audible but muted, the fever of the celebration lost on him, within himself.
+1001_Flight_00.52.11.242-00.52.20.849 	he enters a dining area with a buffet to one side and approached charlie seated with a man wearing glasses.
+1001_Flight_02.10.14.621-02.10.20.800 	whip smiles as he walks towards will seated at a desk.
+1001_Flight_02.10.38.865-02.10.43.563 	they are seated at a table.
+1002_Harry_Potter_and_the_Half-Blood_Prince_02.23.26.539-02.23.26.971 	ron stays seated behind them.
+1003_How_to_Lose_Friends_and_Alienate_People_00.01.25.687-00.01.31.087 	seated guests clap as a movie clip plays at an award ceremony.
+1003_How_to_Lose_Friends_and_Alienate_People_00.01.38.775-00.01.43.522 	a man seated nearby.
+1003_How_to_Lose_Friends_and_Alienate_People_00.02.08.478-00.02.10.146 	seated beside a gob smacked sophie.
+1003_How_to_Lose_Friends_and_Alienate_People_01.00.50.037-01.00.59.690 	seated party guests eat under white marquees on the lawn outside clayton's sprawling mansion.
+1003_How_to_Lose_Friends_and_Alienate_People_01.30.07.843-01.30.10.443 	seated in a restaurant.
+1003_How_to_Lose_Friends_and_Alienate_People_01.41.49.789-01.41.50.798 	seated in the back of the taxi, sydney.
+1003_How_to_Lose_Friends_and_Alienate_People_01.42.14.592-01.42.16.809 	the people are seated in deck chairs and on blankets, staring up.
+1004_Juno_00.18.53.200-00.19.02.487 	as she starts to fill in the form, she becomes aware of a black woman seated nearby crumbing her fingers against her clipboard.
+1005_Signs_00.41.00.510-00.41.02.177 	now seated, morgan uses his inhaler.
 1008_Spider-Man2_01.52.37.265-01.52.39.796 	there are tears in the seated harry's eyes as he stares up at peter.
-1010_TITANIC_02.07.23.136-02.07.24.327 	as lightoller seats people in the lifeboat, one woman toting luggage tries to climb aboard.
 1011_The_Help_01.52.02.544-01.52.04.807 	then she looks at the unforgiving faces of the daughters of america seated at her dining table.
+1014_2012_00.07.29.358-00.07.37.979 	the distinguished looking 60 something us president wilson enters the g8 summit and scans around a large table where many other people are either standing or seated.
 1019_Confessions_Of_A_Shopaholic_01.37.12.251-01.37.13.708 	the seated one with the bag stands up.
-1020_Crazy_Stupid_Love_01.44.38.219-01.44.45.843 	cal makes his way down the seating structure, squeezing past bernie.
+1027_Les_Miserables_00.08.19.142-00.08.21.852 	seated at a table, he shovels down food.
+1027_Les_Miserables_00.22.36.678-00.22.41.140 	she passes a man smoking a long pipe and women seated.
 1029_Pride_And_Prejudice_Disk_One_00.35.37.109-00.35.42.113 	now, she's seated in an ornate dining room, eating dinner with bingley's sisters.
+1029_Pride_And_Prejudice_Disk_One_00.50.12.785-00.50.14.128 	mrs. hurst is also seated.
 1030_Public_Enemies_00.23.35.938-00.23.40.604 	she grins at the other women seated at her table, then sashays off with dillinger.
+1030_Public_Enemies_00.55.26.324-00.55.29.991 	seated between two of his captors, dillinger keeps his pensive gaze aimed downward.
 1030_Public_Enemies_01.16.36.781-01.16.43.448 	he drops to a seated position, his gun still raised, then notices tommy who lies on his stomach in a pool of blood.
 1030_Public_Enemies_01.19.33.767-01.19.36.841 	red remains seated at dillinger's side.
 1030_Public_Enemies_01.35.06.328-01.35.12.741 	eyes downcast, dillinger stays seated by his deceased partner.
-1030_Public_Enemies_01.36.08.904-01.36.17.609 	in the apartment, a seated billie checks her watch, then turns up a radio.
 1030_Public_Enemies_01.59.00.874-01.59.05.541 	at the wheel of a parked car, madala looks to purvis, seated shotgun.
 1033_Sherlock_Holmes_A_Game_of_Shadows_00.11.38.859-00.11.43.526 	dr. john watson, the man who was seated at the typewriter, limps along the pavement, a cane in his right hand.
+1035_The_Adjustment_Bureau_01.15.51.599-01.15.57.295 	seated outside a waterfront warehouse, he wears a sober frown.
 1037_The_Curious_Case_Of_Benjamin_Button_02.04.00.773-02.04.10.030 	they remained seated at the picnic branch as people flee from an advancing storm.
+1037_The_Curious_Case_Of_Benjamin_Button_02.07.00.299-02.07.04.065 	seated beside her, a man in a suit nod solemnly.
 1037_The_Curious_Case_Of_Benjamin_Button_02.13.43.509-02.13.47.917 	his eyes turned to a man seated with his young flexed and head daughter.
 1038_The_Great_Gatsby_00.21.23.336-00.21.24.244 	tom pours champagne into the seated nick's mouth from a ceramic goblet.
 1039_The_Queen_00.02.08.350-00.02.17.425 	the queen is seated for the portrait with her body half in profile.
 1039_The_Queen_00.06.51.415-00.06.57.437 	tony waits for the queen to be seated before sitting down opposite of her.
 1042_Up_In_The_Air_00.05.15.143-00.05.17.831 	ryan bingham, a suavely seated man in his late 40s with neat graying hair and a side parting.
 1042_Up_In_The_Air_01.31.20.702-01.31.27.469 	ryan looks out across the room full of seated delegates.
+1043_Vantage_Point_00.52.13.364-00.52.15.031 	seated, sam smiles at anna.
+1043_Vantage_Point_00.53.31.558-00.53.34.242 	seated at his table in the cafe, sam toggles through screens on his pda phone.
 1044_Pride_And_Prejudice_Disk_Two_00.42.23.875-00.42.25.036 	a portrait of georgiana, seated and looking pensive.
 1044_Pride_And_Prejudice_Disk_Two_01.19.02.132-01.19.08.799 	four chestnut horses speed through the countryside, a seated driver and two footmen on the back of darcy's carriage.
-1048_Gran_Torino_00.59.30.026-00.59.32.368 	exhausted, thao seats down by the stump.
-1048_Gran_Torino_00.59.36.272-00.59.40.672 	an elder hmong man and a young girl approach walt as he seats on his front steps.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.04.32.129-00.04.34.426 	people are seated at a long table in front of a blazing fire.
 1053_Harry_Potter_and_the_philosophers_stone_01.16.42.384-01.16.44.955 	other spectators are seated at the top of tall towers hung with heraldic designs.
-1059_The_devil_wears_prada_01.23.28.082-01.23.32.049 	miranda hands back the seating chart.
-1062_Day_the_Earth_stood_still_00.04.41.888-00.04.45.000 	he seats up and looks around.
-1062_Day_the_Earth_stood_still_00.05.10.586-00.05.19.584 	he seats on the snow-covered rocky ground, and looks skywards through the swirling snow.
-1062_Day_the_Earth_stood_still_00.40.53.227-00.40.57.856 	still seated but wearing a suit, klaatu looks up as the lights flicker and the power fluctuates all over the building.
-2004_Juno_00.09.46.377-00.09.48.464 	she has somehow arranged the living room set on the front lawn, and is seated in the armchair, chewing a pipe officiously.
-2004_Juno_01.06.01.455-01.06.04.518 	mark is seated at the computer, surfing a horror movie website.
-2005_Signs_00.06.15.776-00.06.21.123 	he turns to put it on the counter and realizes his children are seated on the kitchen floor with one of their two german shepherds.
-2005_Signs_00.09.57.731-00.10.00.741 	morgan hess is seated under the jungle gym with houdini on his lap.
-2005_Signs_00.47.38.813-00.47.40.580 	he's seated on a kitchen chair with the television on a roll-away stand crammed in with him.
-2005_Signs_00.49.18.309-00.49.20.541 	morgan and bo are seated on the edge of their bed.
-2012_Unbreakable_00.12.33.929-00.12.37.669 	the elderly woman is seated on an exercise table and breathes slowly.
-2012_Unbreakable_01.25.45.575-01.25.46.075 	he's tied and seated in the same way.
-2012_Unbreakable_01.37.13.578-01.37.15.321 	he's seated in some type of machine.
-2012_Unbreakable_01.37.27.819-01.37.30.771 	he looks across the room to elijah seated in his wheelchair.
-1053_Harry_Potter_and_the_philosophers_stone_01.16.42.384-01.16.44.955 	other spectators are seated at the top of tall towers hung with heraldic designs.
-1059_The_devil_wears_prada_01.23.28.082-01.23.32.049 	miranda hands back the seating chart.
-1062_Day_the_Earth_stood_still_00.04.41.888-00.04.45.000 	he seats up and looks around.
-1062_Day_the_Earth_stood_still_00.05.10.586-00.05.19.584 	he seats on the snow-covered rocky ground, and looks skywards through the swirling snow.
 1062_Day_the_Earth_stood_still_00.40.53.227-00.40.57.856 	still seated but wearing a suit, klaatu looks up as the lights flicker and the power fluctuates all over the building.
 2004_Juno_00.09.46.377-00.09.48.464 	she has somehow arranged the living room set on the front lawn, and is seated in the armchair, chewing a pipe officiously.
 2004_Juno_01.06.01.455-01.06.04.518 	mark is seated at the computer, surfing a horror movie website.
@@ -137,4 +132,5 @@
 2012_Unbreakable_01.37.27.819-01.37.30.771 	he looks across the room to elijah seated in his wheelchair.
 2051_Harry_Potter_and_the_goblet_of_fire_00.13.50.121-00.14.01.307 	harry, ron and hermione are seated on a train.
 2051_Harry_Potter_and_the_goblet_of_fire_00.19.39.963-00.19.42.268 	the man seated next to hagrid yelps.
+2051_Harry_Potter_and_the_goblet_of_fire_01.08.48.257-01.08.53.953 	the girls instantly stand and walk forward, the boys are all still seated.
 2051_Harry_Potter_and_the_goblet_of_fire_01.44.03.664-01.44.07.368 	the man seated next to dumbledore speaks.

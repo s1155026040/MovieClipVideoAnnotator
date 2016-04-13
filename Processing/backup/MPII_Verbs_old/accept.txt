@@ -1,22 +1,20 @@
-0009_Forrest_Gump_00.31.15.216-00.31.21.706 	He steps up and accepts his diploma.
-0011_Gandhi_01.14.57.849-01.14.59.672 	They are old friends -- the same school, the same social class, long together in India -- and their argument is an argument between friend who accept the same premises.
-0011_Gandhi_01.35.15.122-01.35.16.176 	The Indian side acknowledges Chelmsford's disclaimer -- coolly, but accepting it.
-0011_Gandhi_01.44.44.748-01.44.46.405 	Mirabehn looks at her, accepting the warmth behind the teasing.
-0011_Gandhi_02.29.52.604-02.29.54.779 	Bourke-White accepts it at face value.
-0011_Gandhi_02.49.49.949-02.49.50.805 	Gandhi nods to Nehru, accepting the news with a sad wistfulness.
-0011_Gandhi_02.54.42.554-02.54.47.142 	Gandhi is looking at him, testing, not giving or accepting anything that is mere gesture.
-0016_O_Brother_Where_Art_Thou_01.07.10.985-01.07.13.675 	Everett's face remains frozen in horrified disbelief, but Delmar finally accepts Pete's corporeal reality.
-0019_Pulp_Fiction_01.08.04.191-01.08.05.418 	A little hand comes into FRAME to accept it.
-0030_The_Hustler_00.23.06.983-00.23.10.568 	Eddie beams with pride and excitement as he accepts the acclamation of the sharks at Ames.
-0032_The_Princess_Bride_01.14.18.158-01.14.23.461 	Inigo accepts the pill as FEZZIK takes Westley, who is stiff as a board now.
-0033_Amadeus_01.30.57.039-01.31.00.000 	She accepts them, delighted.
-0046_Chasing_Amy_00.04.50.035-00.04.50.942 	Holden accepts a comic from another Fan.
-0053_Rendezvous_mit_Joe_Black_02.46.54.236-02.47.00.852 	Joe regards Parrish, waits until he has a sense that Parrish has accepted what Joe has said, then Joe continues.
+0009_Forrest_Gump_00.31.15.216-00.31.21.706 	he steps up and accepts his diploma.
+0011_Gandhi_01.14.57.849-01.14.59.672 	they are old friends -- the same school, the same social class, long together in india -- and their argument is an argument between friend who accept the same premises.
+0011_Gandhi_01.35.15.122-01.35.16.176 	the indian side acknowledges chelmsford's disclaimer -- coolly, but accepting it.
+0011_Gandhi_01.44.44.748-01.44.46.405 	mirabehn looks at her, accepting the warmth behind the teasing.
+0011_Gandhi_02.49.49.949-02.49.50.805 	gandhi nods to nehru, accepting the news with a sad wistfulness.
+0011_Gandhi_02.54.42.554-02.54.47.142 	gandhi is looking at him, testing, not giving or accepting anything that is mere gesture.
+0016_O_Brother_Where_Art_Thou_01.07.10.985-01.07.13.675 	everett's face remains frozen in horrified disbelief, but delmar finally accepts pete's corporeal reality.
+0019_Pulp_Fiction_01.08.04.191-01.08.05.418 	a little hand comes into frame to accept it.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_03.09.02.830-03.09.22.031 	frodo a look of wonderment crosses his face as he steps forward and accepts gandalf's hand.
+0030_The_Hustler_00.23.06.983-00.23.10.568 	eddie beams with pride and excitement as he accepts the acclamation of the sharks at ames.
+0032_The_Princess_Bride_01.14.18.158-01.14.23.461 	inigo accepts the pill as fezzik takes westley, who is stiff as a board now.
+0033_Amadeus_01.30.57.039-01.31.00.000 	she accepts them, delighted.
+0046_Chasing_Amy_00.04.50.035-00.04.50.942 	holden accepts a comic from another fan.
+0053_Rendezvous_mit_Joe_Black_02.46.54.236-02.47.00.852 	joe regards parrish, waits until he has a sense that parrish has accepted what joe has said, then joe continues.
 1030_Public_Enemies_01.20.12.886-01.20.25.576 	red accepts the cash, gives his brow a resigned lift and shoots a tentative smile at dillinger.
 1041_This_is_40_01.40.11.806-01.40.14.859 	now, pete greets guests and accepts presents.
 1045_An_education_00.55.14.353-00.55.18.256 	jenny accepts the gift with a tight smile.
-1058_The_Damned_united_00.27.33.000-00.27.39.000 	dave rushes forward to turn up the sound on don accepting a trophy on tv.
-1059_The_devil_wears_prada_00.27.30.486-00.27.36.606 	she accepts the cash.
 1058_The_Damned_united_00.27.33.000-00.27.39.000 	dave rushes forward to turn up the sound on don accepting a trophy on tv.
 1059_The_devil_wears_prada_00.27.30.486-00.27.36.606 	she accepts the cash.
 2034_Super_8_01.30.08.957-01.30.11.818 	louis wants to cry again, but just accepts it.

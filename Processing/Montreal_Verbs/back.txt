@@ -1,31 +1,17 @@
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS240 	00:19:48,00 --> 00:19:53,50 	he backs toward the van.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS276 	00:39:36,00 --> 00:39:40,50 	someone backs away.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS390 	00:54:38,00 --> 00:55:09,50 	he delivers a powerful roundhouse kick as more and more vampires join the fray, a staring someone backs away from the window.
-BAD_TEACHER.srt 	BAD_TEACHER_DVS101 	00:27:45,00 --> 00:27:51,50 	backing away he gives a sly smile.
 BAD_TEACHER.srt 	BAD_TEACHER_DVS182 	00:51:28,00 --> 00:51:33,50 	someone backs away.
-BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS87 	00:12:48,00 --> 00:12:54,50 	he backs out of his parking spot and follows after the others.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS117 	00:16:11,00 --> 00:16:17,50 	as someone backs his suv out of its hiding spot, someone shoots at them.
-BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS585 	01:32:26,00 --> 01:32:33,50 	someone rips off someone's mask, throws down the disguise, and backs away.
 BRUNO.srt 	BRUNO_DVS45 	00:08:21,00 --> 00:08:28,50 	backed high with white suitcases.
-BURLESQUE.srt 	BURLESQUE_DVS311 	00:43:27,00 --> 00:43:32,50 	she backs into his bedroom and closes the doors.
-BURLESQUE.srt 	BURLESQUE_DVS549 	01:19:34,00 --> 01:19:43,50 	as someone backs out of her spot, her old mentor tosses her keys down onto her car's trunk.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS32 	00:04:21,00 --> 00:04:28,50 	outside, a large tank backs up as a long, black convertible car pulls to a stop.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS89 	00:14:10,00 --> 00:14:16,50 	someone stares at someone, then shakes his head as he backs away.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS311 	00:59:11,00 --> 00:59:21,50 	the truck backs up to a loading dock where an armed soldier lifts the tarp and peers inside to face the captain america shield.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS206 	00:16:40,00 --> 00:16:45,50 	the man backs out.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS302 	00:24:05,00 --> 00:24:10,50 	he backs the teen against the shed.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS739 	01:13:31,00 --> 01:13:36,50 	someone backs away from him and picks up the notebook.
 CHRONICLE.srt 	CHRONICLE_DVS85 	00:11:41,00 --> 00:11:46,50 	they all back away, but quickly return.
 CHRONICLE.srt 	CHRONICLE_DVS128 	00:19:23,00 --> 00:19:27,50 	he backs away.
 CHRONICLE.srt 	CHRONICLE_DVS270 	00:41:29,00 --> 00:41:37,50 	now, before a packed student audience, a teen rock band backs up a blonde singer clad in black.
-CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS18 	00:03:55,00 --> 00:04:05,50 	the car backs out of a driveway as someone approaches a house.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS310 	01:14:40,00 --> 01:14:45,50 	grinning, he backs out the door.
-COLOMBIANA.srt 	COLOMBIANA_DVS380 	00:34:15,00 --> 00:34:24,50 	someone cautiously scans her surroundings as she backs away, then faces a door labeled electrical room.
-COLOMBIANA.srt 	COLOMBIANA_DVS482 	00:42:35,00 --> 00:42:42,50 	then peers down at the cot again and backs up toward the cell door.
 COLOMBIANA.srt 	COLOMBIANA_DVS932 	01:29:58,00 --> 01:30:04,50 	someone backs away and ducks close to a wall by the window.
 COLOMBIANA.srt 	COLOMBIANA_DVS1037 	01:37:51,00 --> 01:37:58,50 	he backs her into a wall, breaks the hold, and hurls her aside.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS731 	01:37:22,00 --> 01:37:27,50 	his gaze downcast, he backs away.
-DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS198 	00:47:27,00 --> 00:47:38,50 	he backs into a door and slides down to the floor, limp, his eyes closed.
 DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS295 	01:13:50,00 --> 01:13:56,50 	someone steps forward then backs away slowly.
 DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS438 	01:47:23,00 --> 01:47:27,50 	someone backs out with his hands up.
 DISTRICT_9.srt 	DISTRICT_9_DVS228 	00:25:38,00 --> 00:25:44,50 	someone backs the camera away.
@@ -33,93 +19,45 @@ DISTRICT_9.srt 	DISTRICT_9_DVS274 	00:30:13,00 --> 00:30:25,50 	embarrassed, som
 FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS199 	00:53:05,00 --> 00:53:15,50 	she demurely backs off.
 GET_HIM_TO_THE_GREEK.srt 	GET_HIM_TO_THE_GREEK_DVS153 	01:26:40,00 --> 01:26:45,50 	someone backs off.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS238 	00:38:04,00 --> 00:38:08,50 	he backs away.
-GREEN_ZONE.srt 	GREEN_ZONE_DVS305 	01:09:54,00 --> 01:10:02,50 	someone shakes his head and backs away, summoning a quavering breath.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS468 	01:42:22,00 --> 01:42:28,50 	someone backs off, seething at the corrupt official.
-HUGO.srt 	HUGO_DVS550 	01:21:52,00 --> 01:21:58,50 	someone slowly backs up behind the kiosk as he watches them leave.
-IN_TIME.srt 	IN_TIME_DVS74 	00:08:36,00 --> 00:08:41,50 	someone steps out of view as the man backs away.
 IN_TIME.srt 	IN_TIME_DVS88 	00:09:44,00 --> 00:09:56,50 	as someone drags the stranger down an alley, the car backs out of view.
-IN_TIME.srt 	IN_TIME_DVS418 	00:44:56,00 --> 00:45:06,50 	using her as a human shield, he backs out of the foyer and enters a kitchen.
 IN_TIME.srt 	IN_TIME_DVS421 	00:45:17,00 --> 00:45:25,50 	with someone at his side, he backs through a small courtyard.
 IN_TIME.srt 	IN_TIME_DVS469 	00:50:42,00 --> 00:50:48,50 	it backs up quickly and lurches to a halt.
-IN_TIME.srt 	IN_TIME_DVS612 	01:05:33,00 --> 01:05:39,50 	they get in and someone backs away from the crowd.
-IN_TIME.srt 	IN_TIME_DVS705 	01:15:38,00 --> 01:15:44,50 	as someone backs off, the young man smiles triumphantly and nods.
 IN_TIME.srt 	IN_TIME_DVS826 	01:27:49,00 --> 01:27:53,50 	he backs off.
 IN_TIME.srt 	IN_TIME_DVS874 	01:32:52,00 --> 01:32:57,50 	the businessman backs up a few steps,
 INSIDE_MAN.srt 	INSIDE_MAN_DVS59 	00:16:02,00 --> 00:16:19,50 	she signals to someone and backs away, hand on her rifle.
-INSIDE_MAN.srt 	INSIDE_MAN_DVS153 	00:46:19,00 --> 00:46:26,50 	someone backs up into the bank and closes the door.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS188 	00:34:59,00 --> 00:35:07,50 	someone puts the car in reverse and backs up.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS624 	01:47:02,00 --> 01:47:08,50 	someone and someone stand back to back as they glance around at the drones.
 JACK_AND_JILL.srt 	JACK_AND_JILL_DVS374 	01:09:47,00 --> 01:09:52,50 	someone backs off and someone brightens.
-KARATE_KID.srt 	KARATE_KID_DVS196 	00:17:05,00 --> 00:17:13,50 	he backs someone off with a glare, then faces the girl.
 KARATE_KID.srt 	KARATE_KID_DVS215 	00:18:30,00 --> 00:18:34,50 	someone backs off.
 KARATE_KID.srt 	KARATE_KID_DVS223 	00:19:30,00 --> 00:19:34,50 	the girl reluctantly backs off.
-KARATE_KID.srt 	KARATE_KID_DVS476 	00:42:40,00 --> 00:42:58,50 	someone hastily stands and backs away, as someone and two others close in on him.
-KARATE_KID.srt 	KARATE_KID_DVS510 	00:46:23,00 --> 00:46:31,50 	someone gives him a look and the boy backs away.
-KARATE_KID.srt 	KARATE_KID_DVS1389 	01:52:12,00 --> 01:52:21,50 	someone's opponent kicks at him, but someone backs away, running off the mat.
-KARATE_KID.srt 	KARATE_KID_DVS1430 	01:55:56,00 --> 01:56:15,50 	someone backs off, dodging, and his opponent lands a hard hit to someone's side.
-KARATE_KID.srt 	KARATE_KID_DVS1571 	02:07:47,00 --> 02:08:11,50 	guided by the official, someone compliantly backs off, and someone gets to his feet.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS460 	00:52:09,00 --> 00:52:16,50 	someone turns and stalks the orangutan who backs against the canvas' edge.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS476 	00:53:30,00 --> 00:53:37,50 	someone backs off, returning his attention to his kill.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS713 	01:14:22,00 --> 01:14:30,50 	glancing around with wide eyes, someone backs away from the tiger and grabs the flailing fish.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS726 	01:15:28,00 --> 01:15:42,50 	shaking his head, the tiger backs away and swipes at it.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS728 	01:15:45,00 --> 01:16:00,50 	the ferocious animal reluctantly backs away.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS730 	01:16:01,00 --> 01:16:07,50 	someone someone backs away and focuses on the smaller fish.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS744 	01:17:29,00 --> 01:17:33,50 	as the brave trainer inches forward, someone backs away.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS757 	01:18:21,00 --> 01:18:26,50 	someone someone backs away and lies down at the stern.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS781 	01:20:01,00 --> 01:20:08,50 	baring his teeth, the tiger backs away from the bow and someone lifts the spear.
 LITTLE_FOCKERS.srt 	LITTLE_FOCKERS_DVS206 	01:13:46,00 --> 01:13:51,50 	he backs away from the window.
 MORNING_GLORY.srt 	MORNING_GLORY_DVS191 	00:43:51,00 --> 00:43:56,50 	someone backs out of someone's dressing room.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS161 	00:23:29,00 --> 00:23:33,50 	he backs through his doorway.
-MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS201 	00:28:51,00 --> 00:28:56,50 	he points at the cake, then backs into the hall.
-MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS435 	00:51:12,00 --> 00:51:17,50 	a penguin backs up to reveal an egg.
 PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS365 	01:30:39,00 --> 01:30:45,50 	they stalk closer, backing someone and the others toward the souls.
 PROMETHEUS.srt 	PROMETHEUS_DVS799 	01:25:39,00 --> 01:25:45,50 	then backs away a few steps.
-PROMETHEUS.srt 	PROMETHEUS_DVS1010 	01:50:16,00 --> 01:50:25,50 	someone backs away, her mouth hanging open in a terrified stare.
 PROMETHEUS.srt 	PROMETHEUS_DVS1013 	01:50:48,00 --> 01:50:53,50 	charging, he backs her against a wall.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS83 	00:13:54,00 --> 00:14:07,50 	he sees an arriving police car and backs into a recess by a set of double doors.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS443 	01:25:07,00 --> 01:25:13,50 	outside, the car backs up.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS454 	01:27:39,00 --> 01:27:44,50 	follows baby face who backs up to a side door.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS140 	00:24:16,00 --> 00:24:21,50 	someone backs up and sinks to the floor.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS175 	00:29:08,00 --> 00:29:13,50 	as she descends he backs to the door.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS566 	01:25:53,00 --> 01:25:58,50 	she backs up to a bookshelf bearing her teeth.
-SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS276 	00:56:15,00 --> 00:56:24,50 	he backs off a step and lowers the magical cane.
 SUPER_8.srt 	SUPER_8_DVS156 	00:24:37,00 --> 00:24:43,50 	the boys pile into the car and someone backs out and speeds off.
-SUPER_8.srt 	SUPER_8_DVS491 	01:24:09,00 --> 01:24:17,50 	someone backs up toward the holding cell door, he shakes the rifle as it runs out of ammunition.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS94 	00:13:34,00 --> 00:13:42,50 	as the guard dog backs someone against a stone wall, snowy leaps out and barks at the much bigger dog.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS95 	00:13:39,00 --> 00:13:45,50 	the rottweiler backs down and rolls onto its side.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS441 	01:04:27,00 --> 01:04:32,50 	snowy backs away from someone who clutches his own throat.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS534 	01:15:20,00 --> 01:15:24,50 	someone backs up.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS670 	01:30:31,00 --> 01:30:38,50 	someone backs his crane into a police car, then swings the arm straight through someone's cab.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS680 	01:31:36,00 --> 01:31:42,50 	someone backs up his crane then swings the arm in a full circle.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS152 	00:32:45,00 --> 00:32:53,50 	he pleasantly raises his bottle of champagne then backs away disappearing within the crowd.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS258 	00:49:26,00 --> 00:49:37,50 	someone stares at him for a moment then backs out of the room and closes the door.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS291 	00:56:47,00 --> 00:56:55,50 	he backs someone into the doorframe and the older man slumps to the floor clutching his shoulder.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS140 	00:27:39,00 --> 00:27:45,50 	finding herself head to head with her ex, someone backs up a pace.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS146 	00:28:19,00 --> 00:28:27,50 	her ex-husband backs the car up then pulls away.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS280 	00:52:21,00 --> 00:52:40,50 	someone drives up close behind her then backs off.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS283 	00:52:54,00 --> 00:52:58,50 	someone backs up.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS303 	00:54:50,00 --> 00:54:57,50 	he backs the car away from the pedicab, steers around it, and drives off.
 THE_CALL.srt 	THE_CALL_DVS264 	00:22:35,00 --> 00:22:41,50 	a sedan almost backs into her.
-THE_CALL.srt 	THE_CALL_DVS539 	00:41:39,00 --> 00:41:44,50 	backing away, he drops the shovel and turns.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS275 	00:43:26,00 --> 00:43:30,50 	the car backs up.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS622 	01:08:31,00 --> 01:08:37,50 	she lays a hand on a friend's shoulder and backs away from the group.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1082 	01:53:40,00 --> 01:53:45,50 	from outside, we watch someone backing across the bedroom.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1196 	02:07:13,00 --> 02:07:21,50 	outside, someone's range rover backs out.
-THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS138 	00:48:09,00 --> 00:48:17,50 	she edges past someone, and places the water bottle on a table beside him, then backs away.
 THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS116 	00:37:11,00 --> 00:37:17,50 	someone backs away, scratching his brow.
 THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS277 	01:44:42,00 --> 01:44:46,50 	someone backs away.
-THE_WATCH.srt 	THE_WATCH_DVS51 	00:06:40,00 --> 00:06:45,50 	firing wild, he backs away.
 THE_WATCH.srt 	THE_WATCH_DVS147 	00:28:34,00 --> 00:28:38,50 	the cop car backs up.
-THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS134 	00:37:01,00 --> 00:37:06,50 	the car backs up, returning to the curb in front of her.
-THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS360 	01:28:24,00 --> 01:28:30,50 	kissing her, he backs her up against a dresser and knocks over a lamp.
-THOR.srt 	THOR_DVS258 	00:35:22,00 --> 00:35:28,50 	someone starts the truck, puts it into reverse, and backs into someone.
-THOR.srt 	THOR_DVS266 	00:35:54,00 --> 00:36:01,50 	a white pickup truck backs up to the lip of the crater, as men wrap a chain around someone.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS209 	00:36:06,00 --> 00:36:13,50 	an approaching porcupine startles the rookie and he backs away, fumbling a few posts.
-WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS472 	01:06:14,00 --> 01:06:19,50 	she backs into her bedroom and they fall on her bed.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS480 	00:43:06,00 --> 00:43:12,50 	someone backs away a few feet, then turns and heads toward the building.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1218 	01:48:52,00 --> 01:49:00,50 	he calmly backs the mutant against a wall.
 YOUNG_ADULT.srt 	YOUNG_ADULT_DVS168 	00:32:11,00 --> 00:32:16,50 	someone stares at him as she slowly backs away.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS165 	00:16:33,00 --> 00:16:39,50 	he backs off of the couch and she leaps after him.
-ZOMBIELAND.srt 	ZOMBIELAND_DVS276 	00:30:17,00 --> 00:30:25,50 	as the wide bodied vehicle backs away from the house, it takes out a beam supporting an overhang.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS536 	01:02:56,00 --> 01:03:02,50 	cloth lies draped over several high backed chairs.
-ZOOKEEPER.srt 	ZOOKEEPER_DVS332 	01:14:15,00 --> 01:14:25,50 	he hits his rear on the horn as he attempts to back into the seat.

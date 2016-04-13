@@ -1,0 +1,5 @@
+ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS217 	00:30:15,00 --> 00:30:40,50 	now on a picnic with someone, someone dozes off spilling a cup of tea.
+HUGO.srt 	HUGO_DVS43 	00:04:50,00 --> 00:04:59,50 	the white-haired man dozes behind the counter.
+KARATE_KID.srt 	KARATE_KID_DVS915 	01:14:45,00 --> 01:14:50,50 	someone dozes beside him.
+MORNING_GLORY.srt 	MORNING_GLORY_DVS231 	00:51:56,00 --> 00:52:01,50 	later she dozes in front of it.
+THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS182 	01:11:18,00 --> 01:11:24,50 	now in a taxicab, someone dozes on her boyfriend's shoulder.

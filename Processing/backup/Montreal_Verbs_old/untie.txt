@@ -1,0 +1,11 @@
+30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS103 	00:26:04,00 --> 00:26:09,50 	someone unties someone.
+FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS238 	01:04:08,00 --> 01:04:12,50 	he unties his bathrobe.
+GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS460 	01:06:56,00 --> 01:07:02,50 	someone strolls over as his guards untie the boy.
+ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS190 	01:00:07,00 --> 01:00:16,50 	he fidgety hands move to untie her bathrobe
+KARATE_KID.srt 	KARATE_KID_DVS850 	01:10:12,00 --> 01:10:17,50 	he unties his jacket.
+KARATE_KID.srt 	KARATE_KID_DVS1330 	01:47:34,00 --> 01:47:40,50 	someone unties the fabric wrapping and finds a white uniform.
+LIFE_OF_PI.srt 	LIFE_OF_PI_DVS860 	01:26:46,00 --> 01:26:52,50 	someone unties his canvas canopy and takes down the wooden post.
+LIFE_OF_PI.srt 	LIFE_OF_PI_DVS995 	01:37:51,00 --> 01:37:59,50 	looking down, he stops and unties someone's string bracelet, unwrapping it from his wrist.
+MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS166 	00:23:53,00 --> 00:24:02,50 	the penguin waddles over and unties the gift's ribbon.
+THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS365 	00:55:06,00 --> 00:55:16,50 	in the back, one of the captured pilots frees himself, then unties his partner.
+WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS432 	01:01:13,00 --> 01:01:18,50 	he unties his shoe.

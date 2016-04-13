@@ -1,39 +1,33 @@
-0004_Charade_00.30.31.723-00.30.38.338 	As REGGIE hauls off and kicks GIDEON full in the shin.
-0005_Chinatown_01.07.07.908-01.07.17.877 	He hauls down the northwest valley volume, opens it.
-0008_Fargo_01.07.01.230-01.07.02.699 	He hauls him up -.
-0011_Gandhi_00.18.54.407-00.18.55.247 	And he reaches forth to haul Gandhi from the pavement, but.
-0016_O_Brother_Where_Art_Thou_00.05.18.870-00.05.25.178 	Everett gives an ingratiating smile as, behind him, the second convict starts to haul himself into the boxcar, the third convict still keeping pace outside.
-0017_Pianist_00.19.38.790-00.19.45.003 	Two GERMAN SOLDIERS pull out of the crowd a tall woman and a short man and haul them into the cleared space.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.26.46.574-00.27.08.360 	Thousands of ORCS crawl over the surface, hauling stone and iron up the towering heights, grows and spreads across the red streaked sky.casting a shadowy pall over the nightmarish landscape.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.35.53.418-00.35.55.318 	Gandalf hauls a small figure into the room.SAM GAMGEE sprawls across the floor!
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.59.54.628-01.00.07.099 	MORE AND MORE TREES are hauled down and killed.as Gandalf looks on in helpless despair.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.32.06.098-01.32.06.637 	BATTERING RAMS and SIEGE TOWERS are hauled on CHAINS.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.02.45.121-02.02.54.949 	FIRE quickly spreads up DENETHOR'S OIL-SOAKED BACK as he hauls PIPPIN off FARAMIR!
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.33.09.048-02.33.38.874 	FRODO starts to CRAWL on his HANDS and KNEES and hauls himself a FEW PITIFUL FEET before SLUMPING in the ASH.
-0027_The_Big_Lebowski_00.03.57.951-00.03.58.256 	Hands haul the Dude out of the toilet.
-0027_The_Big_Lebowski_00.04.04.756-00.04.07.608 	The hands haul him out again, dripping and gasping.
-0027_The_Big_Lebowski_00.04.21.684-00.04.23.043 	The inquisitor hauls the Dude's head out one last time and flops him over so that he sits on the floor, back against the toilet.
-0027_The_Big_Lebowski_00.43.31.250-00.43.33.681 	Two young men in paint-spattered shorts, T-shirts and sneakers reach the sling shortly after it reaches the end of its track and haul it back for another push.
-0041_The_Sixth_Sense_00.12.17.733-00.12.21.812 	Malcolm hauls down the sidewalk.
-0043_Thelma_and_Luise_00.19.08.080-00.19.09.789 	Harlan is hauling Thelma out the door into the parking lot.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.22.07.148-00.22.11.007 	Harry hauls himself up to get a better view.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.44.32.733-00.44.37.058 	He hauls down a heavy cloth cover, revealing a tall triangular cabinet similar to the one in Borgin and Burke shop.
-1002_Harry_Potter_and_the_Half-Blood_Prince_02.01.55.482-02.02.00.195 	Harry tugs with greater vigor, hauling the boat towards them.
-1006_Slumdog_Millionaire_00.39.48.417-00.39.53.649 	Salim sounds on the roof of a train, hauling Jamal up on a rope.
-1007_Spider-Man1_00.14.24.871-00.14.31.288 	He grabs the tartan blanket lying on top of the bed and hauls it over him.
-1007_Spider-Man1_00.38.05.734-00.38.07.749 	Bone Saw hauls his opponent out of the ring.
-1007_Spider-Man1_00.38.05.734-00.38.07.749 	bone saw hauls his opponent out of the ring.
-1007_Spider-Man1_01.23.33.287-01.23.39.761 	spider-man hauls himself back up to the top of the building and bursts in through a window.
+0004_Charade_00.30.31.723-00.30.38.338 	as reggie hauls off and kicks gideon full in the shin.
+0005_Chinatown_01.07.07.908-01.07.17.877 	he hauls down the northwest valley volume, opens it.
+0008_Fargo_01.07.01.230-01.07.02.699 	he hauls him up -.
+0011_Gandhi_00.18.54.407-00.18.55.247 	and he reaches forth to haul gandhi from the pavement, but.
+0016_O_Brother_Where_Art_Thou_00.05.18.870-00.05.25.178 	everett gives an ingratiating smile as, behind him, the second convict starts to haul himself into the boxcar, the third convict still keeping pace outside.
+0017_Pianist_00.19.38.790-00.19.45.003 	two german soldiers pull out of the crowd a tall woman and a short man and haul them into the cleared space.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.26.46.574-00.27.08.360 	thousands of orcs crawl over the surface, hauling stone and iron up the towering heights, grows and spreads across the red streaked sky.casting a shadowy pall over the nightmarish landscape.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.35.53.418-00.35.55.318 	gandalf hauls a small figure into the room.sam gamgee sprawls across the floor!
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.59.54.628-01.00.07.099 	more and more trees are hauled down and killed.as gandalf looks on in helpless despair.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.01.16.300-00.01.31.514 	deagol pulls on his rod, but is hauled overboard and disappears underwater with a splash!
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.32.06.098-01.32.06.637 	battering rams and siege towers are hauled on chains.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.02.45.121-02.02.54.949 	fire quickly spreads up denethor's oil-soaked back as he hauls pippin off faramir!
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.33.09.048-02.33.38.874 	frodo starts to crawl on his hands and knees and hauls himself a few pitiful feet before slumping in the ash.
+0027_The_Big_Lebowski_00.03.57.951-00.03.58.256 	hands haul the dude out of the toilet.
+0027_The_Big_Lebowski_00.04.04.756-00.04.07.608 	the hands haul him out again, dripping and gasping.
+0027_The_Big_Lebowski_00.04.21.684-00.04.23.043 	the inquisitor hauls the dude's head out one last time and flops him over so that he sits on the floor, back against the toilet.
+0027_The_Big_Lebowski_00.43.31.250-00.43.33.681 	two young men in paint-spattered shorts, t-shirts and sneakers reach the sling shortly after it reaches the end of its track and haul it back for another push.
+0043_Thelma_and_Luise_00.19.08.080-00.19.09.789 	harlan is hauling thelma out the door into the parking lot.
+1002_Harry_Potter_and_the_Half-Blood_Prince_00.44.32.733-00.44.37.058 	he hauls down a heavy cloth cover, revealing a tall triangular cabinet similar to the one in borgin and burke shop.
+1002_Harry_Potter_and_the_Half-Blood_Prince_02.01.55.482-02.02.00.195 	harry tugs with greater vigor, hauling the boat towards them.
+1006_Slumdog_Millionaire_00.39.48.417-00.39.53.649 	salim sounds on the roof of a train, hauling jamal up on a rope.
+1007_Spider-Man1_00.14.24.871-00.14.31.288 	he grabs the tartan blanket lying on top of the bed and hauls it over him.
 1007_Spider-Man1_01.47.36.209-01.47.39.438 	he hauls himself unsteadily to his feet.
 1008_Spider-Man2_00.32.14.932-00.32.21.628 	he hauls himself up from the now dented pipe.
 1008_Spider-Man2_00.55.18.530-00.55.19.646 	aunt may sees spider-man hauled down by octavius.
 1008_Spider-Man2_01.11.05.815-01.11.14.132 	he awkwardly gets to his feet, reaches into his pocket and hauls out his spectacles.
-1008_Spider-Man2_01.23.34.075-01.23.35.984 	the limb hauls harry back on to the balcony.
 1008_Spider-Man2_01.41.31.663-01.41.45.588 	spider-man swoops and soars once more through the streets of new york, making his way, speeding in a straight flying using the webs extending from his wrists as a means of propulsion to haul him along between the tall buildings.
 1008_Spider-Man2_01.51.15.507-01.51.20.082 	looking scared, harry hauls back a hinged portrait, dials a combination and opens the safe behind it.
 1008_Spider-Man2_01.52.11.998-01.52.16.665 	he hauls off the mask, then recoils.
 1009_Spider-Man3_00.23.01.512-00.23.13.964 	slowly, he hauls himself to his feet and looks desperately from side to side.
-1009_Spider-Man3_00.29.41.297-00.29.53.863 	he clenches the locket in his fist and hauls himself up from the sand like a man climbing out of a swamp.
 1009_Spider-Man3_01.28.06.732-01.28.10.148 	peter hauls him into a pummeled wall.
 1009_Spider-Man3_01.28.48.590-01.28.52.067 	he dives at peter who hauls him against another window.
 1009_Spider-Man3_01.30.05.605-01.30.09.565 	harry finds a pumpkin bomb to hand and hauls it after him.
@@ -42,49 +36,29 @@
 1012_Unbreakable_01.29.08.582-01.29.18.249 	the pole slides away, and david hangs on grimly for a moment before hauling himself out of the water and crawling painfully slowly away from it.
 1014_2012_02.05.48.699-02.05.55.885 	he reaches up from the lower ledge, and tries to haul himself back onto the boarding platform.
 1018_Body_Of_Lies_00.23.34.463-00.23.47.488 	ferris is hauled into the chopper.
-1018_Body_Of_Lies_01.44.17.387-01.44.20.937 	ferris hauls himself out.
-1026_Legion_00.27.46.296-00.27.50.569 	percy and kyle haul howard to the suv, his toes dragging on the ground.
 1026_Legion_00.41.10.433-00.41.14.776 	he's being dragged by the legs by the intruder, who hauls him towards the shattered window.
 1027_Les_Miserables_00.00.57.834-00.01.10.275 	a wooden galleon lists heavily to its starboard side, as it's being hauled in rough seas into a dry dock.
-1027_Les_Miserables_00.47.48.465-00.48.02.185 	at the inn, thenardier hauls himself to his feet and wanders past his subtle clientele.
 1027_Les_Miserables_01.01.59.125-01.02.02.300 	using the rope, he hauls her up beside him.
-1027_Les_Miserables_01.50.02.017-01.50.10.612 	valjean hauls javert to his feet and marches him to a dark corner.
 1027_Les_Miserables_02.05.04.757-02.05.08.633 	valjean gets up and hauls marius up onto his shoulder.
 1031_Quantum_of_Solace_00.14.13.852-00.14.24.125 	they trade blows and smash into a scaffold which topples over, pulling on the rope, hauling them into the glass roof.
 1031_Quantum_of_Solace_01.09.48.848-01.09.58.112 	she venches open the outside door for bond, who gropes for his chute, then hauls on the stick to get out of the plane over the hill
-1031_Quantum_of_Solace_01.32.58.450-01.33.03.587 	bond hauls green back up by the hair and dumps him on the floor.
 1033_Sherlock_Holmes_A_Game_of_Shadows_01.22.44.439-01.22.50.088 	a meat hook is slammed into holmes' shoulder, and he's hauled up on a rope.
 1043_Vantage_Point_00.18.46.780-00.18.48.876 	barnes hauls himself to his knees.
-1043_Vantage_Point_01.18.18.678-01.18.25.051 	in the speeding ambulance, ashton hauls himself up with a firm grip on the metal bar he took off the gurney.
 1046_Australia_00.45.49.000-00.45.56.480 	as the truck drives away down the dusty road, drover hauls daisy's body from the tank.
 1046_Australia_01.51.36.067-01.51.44.287 	in the paddock, drover works the wild horse, hauling on the rope to prevent it from bucking.
+1047_Defiance_00.01.57.962-00.02.00.352 	small children are hauled up into trucks.
 1049_Harry_Potter_and_the_chamber_of_secrets_00.28.50.500-00.28.56.950 	later, they haul their luggage into school and leave it on the landing.
 1049_Harry_Potter_and_the_chamber_of_secrets_01.07.45.225-01.07.53.561 	as he crashes onto the platform, snape hauls him to his feet and pushes him back towards harry.
-1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.42.10.659-00.42.17.649 	harry hauls himself upright.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.58.43.558-00.58.49.695 	the man is hauled away by two guards.
-1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.31.56.532-01.31.59.679 	harry hauls himself back through the wall.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.39.06.552-01.39.10.144 	harry is hauled across the ice.
 1051_Harry_Potter_and_the_goblet_of_fire_00.02.05.901-00.02.10.873 	he hauls himself, unsteadily up the stone steps to the large wooden door.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_00.14.37.000-00.14.44.117 	as tom hauls him up, harry calls his owl.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_01.29.41.083-01.29.43.829 	he is hauled into the air.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_01.53.39.324-01.53.42.398 	harry hauls on the chain.
 1055_Marley_and_me_00.17.11.172-00.17.17.816 	with the alligator under her left arm, she hauls open the garage door and stares at a scene of devastation.
 1056_Rambo_00.30.24.331-00.30.27.774 	she tries to fight them off but they haul her to her feet.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.20.23.000-00.20.26.906 	clinging to its spikes, she hauls herself up.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.54.03.000-00.54.05.721 	they haul fire balls at neville, who dodges them.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.02.17.128-01.02.18.912 	harry grabs draco and hauls him on to the broomstick.
-1062_Day_the_Earth_stood_still_00.02.22.495-00.02.30.000 	he plunges his ice ax into the rock and hauls himself up over the edge of the rock face.
-2027_Les_Miserables_00.02.39.554-00.02.41.111 	with a last great heave the lines of convicts haul the damaged ship onto the slipway.
-2027_Les_Miserables_01.01.59.408-01.02.02.812 	once on the top, he hauls cosette up by the rope.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.14.37.000-00.14.44.117 	as tom hauls him up, harry calls his owl.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_01.29.41.083-01.29.43.829 	he is hauled into the air.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_01.53.39.324-01.53.42.398 	harry hauls on the chain.
-1055_Marley_and_me_00.17.11.172-00.17.17.816 	with the alligator under her left arm, she hauls open the garage door and stares at a scene of devastation.
-1056_Rambo_00.30.24.331-00.30.27.774 	she tries to fight them off but they haul her to her feet.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.20.23.000-00.20.26.906 	clinging to its spikes, she hauls herself up.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.54.03.000-00.54.05.721 	they haul fire balls at neville, who dodges them.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.02.17.128-01.02.18.912 	harry grabs draco and hauls him on to the broomstick.
-1062_Day_the_Earth_stood_still_00.02.22.495-00.02.30.000 	he plunges his ice ax into the rock and hauls himself up over the edge of the rock face.
 2027_Les_Miserables_00.02.39.554-00.02.41.111 	with a last great heave the lines of convicts haul the damaged ship onto the slipway.
 2027_Les_Miserables_01.01.59.408-01.02.02.812 	once on the top, he hauls cosette up by the rope.
 2034_Super_8_01.36.05.793-01.36.10.773 	after running hard for a beat: they haul ass, but after a long moment tina is grabbed away into the darkness!!!

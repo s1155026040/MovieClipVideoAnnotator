@@ -1,29 +1,15 @@
-21_JUMP_STREET.srt 	21_JUMP_STREET_DVS340 	00:56:31,00 --> 00:56:41,50 	as someone stands by glumly, the captain hands someone a role of cash then sips his coffee peevishly.
-30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS22 	00:03:57,00 --> 00:04:06,50 	he notices a scruffy indian-american guy alone in the passenger seat of a silver car, then lowers his gaze and sips his beer.
 30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS72 	00:18:39,00 --> 00:18:44,50 	he sips a takeout soda.
 40_YEAR_OLD_VIRGIN.srt 	40_YEAR_OLD_VIRGIN_DVS95 	00:48:58,00 --> 00:49:04,50 	someone sips a drink.
 500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS238 	00:44:56,00 --> 00:45:01,50 	she calmly sips her cocktail.
 500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS239 	00:45:02,00 --> 00:45:08,50 	the big guy challenges someone who eyes him with calm distaste and sips his drink.
 500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS382 	01:09:21,00 --> 01:09:27,50 	later in reality, someone sips a beer alone.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS21 	00:03:12,00 --> 00:03:17,50 	he sips the coffee in a psychiatry session.
-A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS37 	00:09:39,00 --> 00:09:44,50 	someone sits up and sips a drink.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS252 	00:48:11,00 --> 00:48:15,50 	the man sips a martini glass.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS69 	00:07:29,00 --> 00:07:34,50 	gazing thoughtfully, someone sips his drink.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS508 	01:11:33,00 --> 01:11:41,50 	sipping his drink, someone spits it out.
-BAD_TEACHER.srt 	BAD_TEACHER_DVS38 	00:13:01,00 --> 00:13:08,50 	as he goes someone sips a cup of coffee.
 BLINDDATING.srt 	BLINDDATING_DVS101 	00:28:06,00 --> 00:28:17,50 	seated across from someone, the woman sips her beer.
-BLINDDATING.srt 	BLINDDATING_DVS195 	00:49:23,00 --> 00:49:41,50 	as someone sips wine, his date slips her foot out of her shoe and slides her toes up his leg.
-BURLESQUE.srt 	BURLESQUE_DVS182 	00:26:38,00 --> 00:26:44,50 	he takes back his phone and they sip their drinks.
-BURLESQUE.srt 	BURLESQUE_DVS465 	01:04:12,00 --> 01:04:17,50 	someone gives her a smirk and sips his wine.
-BURLESQUE.srt 	BURLESQUE_DVS466 	01:04:34,00 --> 01:04:40,50 	turning away, someone sips her wine with a cynical smirk.
-BURLESQUE.srt 	BURLESQUE_DVS562 	01:23:13,00 --> 01:23:19,50 	as someone sips his drink, the deejay grins at him.
-BURLESQUE.srt 	BURLESQUE_DVS567 	01:24:13,00 --> 01:24:21,50 	now leaning on the bar, someone sips the last of a cocktail.
-BURLESQUE.srt 	BURLESQUE_DVS698 	01:46:53,00 --> 01:47:00,50 	with a serene look, she turns away and sips from a glass of dessert wine.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS139 	00:11:24,00 --> 00:11:29,50 	a man sips from a paper bag.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS374 	00:35:05,00 --> 00:35:10,50 	now, sipping tea in her kitchen,
 CHRONICLE.srt 	CHRONICLE_DVS280 	00:43:05,00 --> 00:43:18,50 	as the shy teen fans the cards, the more popular boy sips an energy drink.
-COLOMBIANA.srt 	COLOMBIANA_DVS66 	00:04:26,00 --> 00:04:31,50 	someone sips his drink as he watches his friend leave.
-COLOMBIANA.srt 	COLOMBIANA_DVS695 	01:05:36,00 --> 01:05:43,50 	agent someone hits a command on his computer then sips from a travel mug.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS350 	00:54:20,00 --> 00:54:24,50 	someone sips his bourbon.
 FLIGHT.srt 	FLIGHT_DVS626 	01:28:00,00 --> 01:28:04,50 	he sips his beer.
 FLIGHT.srt 	FLIGHT_DVS1053 	01:58:34,00 --> 01:58:38,50 	someone sips some water.
@@ -42,43 +28,27 @@ JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS72 	00:09:09,00 --> 00:09:14,50 	as some
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS92 	00:14:13,00 --> 00:14:18,50 	they sip red wine.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS468 	01:30:29,00 --> 01:30:33,50 	someone sips her martini.
 JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS327 	01:44:39,00 --> 01:44:44,50 	someone sips a cocktail.
-KARATE_KID.srt 	KARATE_KID_DVS59 	00:04:57,00 --> 00:05:05,50 	on-board, passengers sip tea and uniformed flight attendants work the aisles.
-LARRY_CROWNE.srt 	LARRY_CROWNE_DVS65 	00:17:44,00 --> 00:17:49,50 	still sitting, she sips her drink.
 LARRY_CROWNE.srt 	LARRY_CROWNE_DVS112 	00:26:25,00 --> 00:26:30,50 	his wife indifferently sips her drink.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS329 	00:42:08,00 --> 00:42:13,50 	sipping form a bottle, someone eyes the man.
-NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS482 	01:28:32,00 --> 01:28:39,50 	they sip red wine, then lean in for a kiss at the same time, and bash heads.
 PROMETHEUS.srt 	PROMETHEUS_DVS205 	00:14:43,00 --> 00:14:47,50 	a mohawked man sips broth.
 PROMETHEUS.srt 	PROMETHEUS_DVS545 	01:00:33,00 --> 01:00:37,50 	he sips a drink.
 PROMETHEUS.srt 	PROMETHEUS_DVS598 	01:06:34,00 --> 01:06:39,50 	sipping from a porcelain cup,
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS124 	00:23:00,00 --> 00:23:23,50 	the gang leader sips his drink and stands, keeping his eyes locked on the exotic woman.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS589 	01:49:39,00 --> 01:49:43,50 	they both sip.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS266 	01:01:55,00 --> 01:02:04,50 	someone obliviously sips his watered down wine.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS302 	01:13:07,00 --> 01:13:15,50 	a rat faced deacon nearby glares at someone as he sips from a tin mug.
-RUBY_SPARKS.srt 	RUBY_SPARKS_DVS238 	00:36:28,00 --> 00:36:35,50 	he eats another chip with guacamole, points approvingly and sips a margarita.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1046 	01:08:30,00 --> 01:08:35,50 	later, they sip their shots.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1052 	01:09:05,00 --> 01:09:10,50 	they clink glasses and sip the clear iceless drinks.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS212 	00:33:38,00 --> 00:33:44,50 	someone's eyes dart around the room as he sips his drink.
-SPARKLE_2012.srt 	SPARKLE_2012_DVS231 	00:35:54,00 --> 00:36:01,50 	watching sister's hand caress her thigh, someone sips his drink.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS569 	01:18:58,00 --> 01:19:03,50 	a woman sips from a champagne glass, which shatters.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS91 	00:20:48,00 --> 00:20:53,50 	he sips from a mug.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS199 	00:38:15,00 --> 00:38:23,50 	sitting kitty corner to someone's mom someone nods, then sips the drink.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS239 	00:46:29,00 --> 00:46:35,50 	as she sits back and sips her drink someone lowers his gaze.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS387 	01:13:22,00 --> 01:13:30,50 	someone sips his sparkling wine with a knitted brow.
 THE_CALL.srt 	THE_CALL_DVS219 	00:18:36,00 --> 00:18:43,50 	she sips water from a clear plastic cup and thrusts back her head as she swallows.
-THE_CALL.srt 	THE_CALL_DVS257 	00:21:49,00 --> 00:21:56,50 	sitting alone, the young blond sips her fountain drink and gazes across the court.
-THE_CALL.srt 	THE_CALL_DVS260 	00:22:00,00 --> 00:22:07,50 	the blond sips her drink, then finds autumn's prepaid track phone on the table.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS171 	00:20:39,00 --> 00:20:46,50 	the tycoon and journalist sip their drinks.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS182 	00:23:27,00 --> 00:23:33,50 	he sips his wine.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS423 	00:50:27,00 --> 00:50:31,50 	she sips from her coffee cup.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS675 	01:15:31,00 --> 01:15:39,50 	now at a nightclub, someone sits alone sipping a drink as she watches a crowded dance floor.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1065 	01:52:50,00 --> 01:52:54,50 	she sips her coffee then wipes her mouth with her hand.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1113 	01:56:40,00 --> 01:56:46,50 	someone sips his drink.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1340 	02:23:55,00 --> 02:23:59,50 	he casually sips from a mug.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1368 	02:27:15,00 --> 02:27:23,50 	she sips from a teacup as the bespectacled banker punches numbers into a calculator.
-THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS49 	00:10:46,00 --> 00:10:52,50 	someone sits at a table sipping a drink.
 THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS134 	00:47:44,00 --> 00:47:50,50 	sulking, someone sips a dark-colored drink from a plastic glass.
-THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS29 	00:08:24,00 --> 00:08:30,50 	reading his blog post, he sips his beer.
-THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS31 	00:08:48,00 --> 00:08:57,50 	he removes the keyboard from a drawer and sets it on the desk, then sips his beer.
 THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS261 	01:40:29,00 --> 01:40:33,50 	he sips a beer and the friends share a smile.
 THE_VOW.srt 	THE_VOW_DVS439 	01:02:07,00 --> 01:02:13,50 	now, someone strolls the patio, sipping a glass of red wine.
 THE_VOW.srt 	THE_VOW_DVS552 	01:15:23,00 --> 01:15:28,50 	the two men sip the amber liquor.
@@ -87,7 +57,6 @@ THE_WATCH.srt 	THE_WATCH_DVS251 	00:47:16,00 --> 00:47:20,50 	the two men sip th
 THE_WATCH.srt 	THE_WATCH_DVS353 	01:01:24,00 --> 01:01:33,50 	he casually sips from the can as the other three glare at him.
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS147 	00:38:12,00 --> 00:38:16,50 	she sips wine.
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS269 	01:13:31,00 --> 01:13:35,50 	someone sips some milk.
-THOR.srt 	THOR_DVS299 	00:42:21,00 --> 00:42:28,50 	someone, someone and someone stare as someone eats more food, then sips from a coffee mug.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS32 	00:03:27,00 --> 00:03:33,50 	someone sips an energy drink as she oversees production.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS330 	00:36:44,00 --> 00:36:48,50 	she sips from her coffee mug.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS486 	01:01:17,00 --> 01:01:22,50 	someone shyly sips her white wine.
@@ -97,9 +66,6 @@ WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS526 	01:20:43,00 --> 01:20:49,50 	later,
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS209 	00:26:25,00 --> 00:26:30,50 	she sips wine as she searches.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS378 	00:54:45,00 --> 00:54:50,50 	in a lobby, someone sips a drink.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS607 	00:56:46,00 --> 00:56:51,50 	he drains his drink and someone sips her
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS933 	01:26:02,00 --> 01:26:08,50 	someone rests his hand on his fist while someone sips a martini.
-YOUNG_ADULT.srt 	YOUNG_ADULT_DVS111 	00:17:21,00 --> 00:17:26,50 	she glances sideways at him then sips her drink.
 YOUNG_ADULT.srt 	YOUNG_ADULT_DVS191 	00:36:12,00 --> 00:36:18,50 	someone stares at someone as she slowly sips her drink.
 YOUNG_ADULT.srt 	YOUNG_ADULT_DVS327 	01:01:32,00 --> 01:01:37,50 	someone glances at someone then sips his drink.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS156 	00:15:12,00 --> 00:15:16,50 	she sips her drink.
-ZOMBIELAND.srt 	ZOMBIELAND_DVS551 	01:04:44,00 --> 01:04:49,50 	he wears a double beer can sipping helmet.

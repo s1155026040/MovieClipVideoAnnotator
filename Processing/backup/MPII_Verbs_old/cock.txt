@@ -1,11 +1,41 @@
-0001_American_Beauty_01.49.24.425-01.49.27.601 	He turns to her and cocks an eyebrow.
-0014_Ist_das_Leben_nicht_schoen_01.44.30.692-01.44.33.060 	As Clarence speaks, George cocks his head curiously, favoring his deaf ear, more interested in his hearing than in what Clarence has said.
-0016_O_Brother_Where_Art_Thou_01.07.31.712-01.07.43.686 	Pete squints and cocks his head as if to say, What was that?
-0017_Pianist_02.16.47.835-02.16.49.893 	Szpilman stands and stares, then sees one of the soldiers cock his rifle and fire at him.
-0020_Raising_Arizona_00.06.14.790-00.06.16.292 	Hi cocks a finger at the suspect.
-0027_The_Big_Lebowski_01.45.18.998-01.45.27.235 	He takes it, opens it, puts on reading glasses that sit halfway down his nose, and inspects the bill with his head pulled back for focus and cocked for concentration.
-0028_The_Crying_Game_00.04.56.741-00.04.57.899 	Jude cocks one eye upward.
-0028_The_Crying_Game_00.05.14.614-00.05.15.367 	The tallest of them, Fergus, cocks the gun.
-1001_Flight_01.35.18.900-01.35.21.351 	Whip cocks his head.
+0001_American_Beauty_01.49.24.425-01.49.27.601 	he turns to her and cocks an eyebrow.
+0014_Ist_das_Leben_nicht_schoen_01.44.30.692-01.44.33.060 	as clarence speaks, george cocks his head curiously, favoring his deaf ear, more interested in his hearing than in what clarence has said.
+0016_O_Brother_Where_Art_Thou_00.49.26.623-00.49.30.945 	sensing something, he looks up, cocks his head, and then slowly turns to look back.
+0016_O_Brother_Where_Art_Thou_01.07.31.712-01.07.43.686 	pete squints and cocks his head as if to say, what was that?
+0017_Pianist_02.16.47.835-02.16.49.893 	szpilman stands and stares, then sees one of the soldiers cock his rifle and fire at him.
+0019_Pulp_Fiction_02.19.44.880-02.19.46.168 	he pulls it out, cocking it.
+0020_Raising_Arizona_00.06.14.790-00.06.16.292 	hi cocks a finger at the suspect.
+0027_The_Big_Lebowski_01.41.05.074-01.41.10.316 	walter, his head cocked, and the dude, peeking over his shades, watch him go.
+0027_The_Big_Lebowski_01.45.18.998-01.45.27.235 	he takes it, opens it, puts on reading glasses that sit halfway down his nose, and inspects the bill with his head pulled back for focus and cocked for concentration.
+0028_The_Crying_Game_00.04.56.741-00.04.57.899 	jude cocks one eye upward.
+0028_The_Crying_Game_00.05.14.614-00.05.15.367 	the tallest of them, fergus, cocks the gun.
+1001_Flight_01.35.18.900-01.35.21.351 	whip cocks his head.
+1008_Spider-Man2_00.57.25.801-00.57.29.190 	spider-man cocks his head, then leaps up on a web.
+1017_Bad_Santa_01.27.56.569-01.27.58.633 	the sound of a revolver being cocked brings him to abrupt hold.
+1018_Body_Of_Lies_00.04.47.218-00.04.49.200 	ferris cocks a pistol.
+1018_Body_Of_Lies_00.21.57.191-00.22.00.286 	ferris cocks a rifle.
+1018_Body_Of_Lies_01.01.24.470-01.01.32.976 	he squats down for a moment, then straightens up and turns to marwan, who cocks his head back towards the suv.
+1020_Crazy_Stupid_Love_00.20.09.413-00.20.11.860 	jacob cocks his head.
+1020_Crazy_Stupid_Love_01.38.13.876-01.38.16.097 	jacob cocks his head, then nods.
+1023_Horrible_Bosses_01.13.48.870-01.13.52.963 	jones cocks an eyebrow and shoots them a look.
+1030_Public_Enemies_00.48.49.292-00.48.54.513 	now in a hotel room, he opens the suitcase, takes out his tommy gun and cocks it.
+1030_Public_Enemies_00.51.06.815-00.51.08.481 	dillinger curiously cocks his head.
+1030_Public_Enemies_01.10.17.722-01.10.19.425 	he cocks his head.
+1031_Quantum_of_Solace_01.19.50.725-01.19.57.417 	as the lift doors open, he cocks the automatic and calmly slips it into the waistband of his trousers in the small of his back.
+1033_Sherlock_Holmes_A_Game_of_Shadows_00.47.20.105-00.47.21.772 	the weapon is cocked.
+1034_Super_8_01.36.54.821-01.36.56.128 	the alien cocks its head to one side.
+1037_The_Curious_Case_Of_Benjamin_Button_01.20.40.395-01.20.43.710 	manning the heavy machine gun, danny smith cocks the weapon.
+1038_The_Great_Gatsby_00.20.16.756-00.20.17.451 	catherine cocks an eyebrow at nick.
+1041_This_is_40_01.02.23.607-01.02.26.025 	debbie cocks her head, her mouth twitching.
+1043_Vantage_Point_00.30.04.209-00.30.05.865 	he cocks the gun.
+1043_Vantage_Point_00.30.24.536-00.30.25.905 	enrique cocking the gun.
+1046_Australia_02.21.04.410-02.21.10.942 	the soldiers raise their rifles and an officer cocks his pistol.
+1047_Defiance_01.54.06.286-01.54.09.425 	he cocks his own gun.
+1047_Defiance_02.00.53.062-02.00.57.852 	with murder in his eyes, tuvia cocks his machine gun and steps forward, gunning down every single man.
+1048_Gran_Torino_00.21.13.400-00.21.21.755 	he opens the breech and loads a magazine into it, then cocks it.
+1048_Gran_Torino_00.34.53.953-00.34.55.928 	he cocks his thumb.
+1048_Gran_Torino_01.23.19.279-01.23.22.791 	walt picks up his colt .45 automatic and cocks it.
 1057_Seven_pounds_00.16.02.561-00.16.06.061 	ben nods and cocks his head to one side as he continues staring at goodman.
+2026_Legion_00.26.59.890-00.27.03.298 	his gun's still cocked.
+2026_Legion_01.09.52.314-01.09.53.753 	charlie cocks the gun, moves toward the door.
 2026_Legion_01.16.51.918-01.16.53.425 	michael cocks his gun.

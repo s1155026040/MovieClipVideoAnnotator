@@ -1,3 +1,4 @@
-0011_Gandhi_01.25.19.550-01.25.20.849 	A large public garden, enclosed by a thick, old, crumbling wall.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.38.41.338-00.38.48.187 	Gandalf gallops through the gate, into the fortress of ISENGARD.a great ring-wall of stone, a mile from rim to rim, encloses beautiful trees and gardens, watered by streams that flow down from the mountains.
+0011_Gandhi_01.25.19.550-01.25.20.849 	a large public garden, enclosed by a thick, old, crumbling wall.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.38.41.338-00.38.48.187 	gandalf gallops through the gate, into the fortress of isengard.a great ring-wall of stone, a mile from rim to rim, encloses beautiful trees and gardens, watered by streams that flow down from the mountains.
 1024_Identity_Thief_00.06.39.022-00.06.42.614 	later, carrying a briefcase, the well-groomed businessman walks through an enclosed courtyard and enters an office building.
+1043_Vantage_Point_00.56.18.332-00.56.24.079 	the huge enclosed square of the plaza is surrounded by terra cotta colored buildings.

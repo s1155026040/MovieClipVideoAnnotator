@@ -1,140 +1,141 @@
-0001_American_Beauty_00.32.46.016-00.32.47.387 	Carolyn is nervous; Buddy seems amused.
-0001_American_Beauty_00.37.07.274-00.37.08.400 	She seems shocked, but doesn't resist as he pulls her toward him with surprising strength.
-0001_American_Beauty_00.59.09.223-00.59.09.787 	He seems comfortable with the silence; she doesn't.
-0001_American_Beauty_01.14.47.184-01.14.47.434 	The room, too, seems changed: sloppier, more lived in.
-0001_American_Beauty_01.39.29.046-01.39.34.885 	The Colonel moves stiffly and seems preoccupied, slightly disoriented.
-0001_American_Beauty_01.47.04.638-01.47.07.970 	She seems disconnected from what's happening.
-0001_American_Beauty_01.51.24.792-01.51.26.059 	He suddenly seems older, more mature.
-0003_CASABLANCA_00.04.35.859-00.04.44.190 	The Englishman seems to be taken aback by this sudden display of concern.
-0003_CASABLANCA_00.05.25.479-00.05.28.541 	When the plane door opens, the first passenger to step out is a tall, middle-aged, pale German with a smile that seems more the result of a frozen face muscle than a cheerful disposition.
-0003_CASABLANCA_00.07.28.724-00.07.30.380 	His companion seems uninterested in his dilemma.
-0003_CASABLANCA_00.32.06.815-00.32.10.566 	He seems even more scared now.
-0003_CASABLANCA_00.39.30.991-00.39.33.421 	They seem to be transported by each other as Ilsa laughs.
-0003_CASABLANCA_00.42.46.441-00.42.47.876 	Ilsa seems unnerved.
-0003_CASABLANCA_00.46.56.850-00.46.57.207 	Rain pours over his head and shoulders, but he doesn't seem to notice.
-0003_CASABLANCA_01.08.21.220-01.08.22.260 	He has only three chips left and seems bewildered.
-0004_Charade_00.42.41.366-00.42.43.707 	As usual, the thread unravels -- and unravels -- and unravels some more until it seems that the entire sock has come unknit.
-0005_Chinatown_00.09.03.825-00.09.06.155 	He seems to be concentrating on it.
-0005_Chinatown_00.11.05.536-00.11.08.510 	Even as Gittes watches Mulwray watching, the volume and velocity seem to increase until it gushes in spurts, cascading into the sea, whipping it into a foam.
-0005_Chinatown_00.15.22.220-00.15.22.522 	Mulwray and the girl seem blissfully unaware of them.
-0005_Chinatown_01.32.42.797-01.32.44.089 	It seems to have a momentary calming effect on both of them.
-0006_Clerks_00.03.29.883-00.03.30.529 	The empty newspaper rack with the heading ASBURY PARK PRESS seems out of place among all the other stacks of papers.
-0007_DIE_NACHT_DES_JAEGERS_00.52.11.326-00.52.12.415 	She seems about to speak.
-0008_Fargo_01.30.20.911-01.30.34.354 	Marge, gazing forward, seems to be talking to herself.
-0011_Gandhi_00.22.08.697-00.22.09.819 	Gandhi seems trapped by an ineluctable fact.
-0011_Gandhi_00.54.35.898-00.54.37.255 	The train passes camera to the Third Class section, which seems besieged by humanity.
-0011_Gandhi_02.02.35.867-02.02.38.984 	Walker stares at him, then at what Gandhi seems to be looking at.
-0011_Gandhi_02.15.16.506-02.15.17.772 	He watches, looking tensely from one group to the other, almost terrified by what seems about to happen.
-0011_Gandhi_02.15.40.073-02.15.41.786 	The air itself seems breathless with tension.
-0011_Gandhi_02.42.25.327-02.42.27.188 	But apart from that, he is alone; the whole ashram seems deserted.
-0011_Gandhi_02.46.22.727-02.46.24.824 	It seems a little island of calm in a sea of wild chaos.
-0011_Gandhi_02.54.27.294-02.54.28.315 	There are thongs around their arms that make their bulging muscles seem even more powerful.
-0011_Gandhi_02.55.49.909-02.55.57.662 	He is sobbing, but in his anger it seems almost as though he means to kill Gandhi in retaliation.
-0013_Halloween_00.55.29.667-00.55.36.076 	The figure of a MAN carries what seems to be a BODY across the Wallace's back yard.
-0017_Pianist_00.30.11.416-00.30.12.910 	He seems to hang in the air for a second then drops out of the chair and out of sight.
-0017_Pianist_00.43.00.243-00.43.01.943 	A young man, beside her, whispers to her, but she does not seem to take in what he's saying.
-0019_Pulp_Fiction_01.08.27.800-01.08.38.218 	Pandemonium seems to be breaking out behind Klondike in the hallway.
-0019_Pulp_Fiction_01.29.21.414-01.29.25.593 	Everything seems normal.
-0020_Raising_Arizona_00.20.20.846-00.20.23.460 	They seem to be waiting for him to contribute to the conversation.
-0020_Raising_Arizona_00.35.53.446-00.35.54.068 	Glen, rubbing his cheek, seems angry at himself.
-0020_Raising_Arizona_00.39.12.180-00.39.12.557 	The two women don't seem to notice.
-0020_Raising_Arizona_00.51.59.357-00.52.00.491 	His gesture seems to take in the trailer and the entire domestic situation.
-0020_Raising_Arizona_00.57.37.595-00.57.37.968 	As we come closer, eventually drawing in to a close shot of his face, we gradually realize something peculiar about his eyes: He seems to have none.
-0021_Rear_Window_00.04.33.319-00.04.33.964 	Jeff seems a little disappointed.
-0021_Rear_Window_00.08.10.228-00.08.10.890 	His anger seems to have left him, replaced by the kind of peace that flowers bring many people.
-0021_Rear_Window_00.21.28.873-00.21.32.321 	He holds this attitude for just a moment, then seems to shake off his concern to lift his head and turn his attention to what might be happening in his neighborhood beyond his window.
-0021_Rear_Window_00.43.47.757-00.43.50.757 	She is in the bathroom brushing her long hair, while her thoughts seem to be far away.
-0021_Rear_Window_00.51.56.530-00.51.57.030 	Jeff seems to be getting a bit listless, or bored, by constantly watching Thorwald's apartment.
-0021_Rear_Window_01.01.13.406-01.01.17.550 	She seems to be putting on the final touches of her make-up, prior to going out.
-0021_Rear_Window_01.01.39.820-01.01.42.009 	Her hair-do makes her seem middle-aged.
-0021_Rear_Window_01.02.53.943-01.02.56.060 	She seems to be trying to figure out what to do, or where to go.
-0021_Rear_Window_01.07.45.579-01.07.47.353 	She seems quite animated, moving gracefully, her skirt and hair swinging with her movement.
-0021_Rear_Window_01.07.56.626-01.07.58.382 	As he talks, she seems to be thinking something over to herself.
-0021_Rear_Window_01.30.33.272-01.30.34.172 	She seems quite at peace.
-0021_Rear_Window_01.36.08.002-01.36.09.858 	A woman's voice is heard and Jeff seems a little puzzled at the sound of it.
-0021_Rear_Window_01.44.49.708-01.44.52.388 	He seems a little puzzled by what he sees.
-0021_Rear_Window_01.50.43.522-01.50.46.641 	Both in dress and manner she seems quite happy and adjusted to life.
-0023_THE_BUTTERFLY_EFFECT_00.06.02.554-00.06.06.025 	He seems stunned to find himself holding the knife and drops it.
-0023_THE_BUTTERFLY_EFFECT_00.13.18.413-00.13.24.502 	Tommy catches this and seems disturbed, and quickly turns back to -- The mailbox.
-0023_THE_BUTTERFLY_EFFECT_00.29.46.603-00.29.55.809 	Thumper seems oblivious to their taunts as Evan knocks the three-ball in the side.
-0023_THE_BUTTERFLY_EFFECT_00.31.57.176-00.32.11.386 	As Evan reads, the world seems to ALMOST IMPERCEPTIBLY VIBRATE around him LIKE A TUNING FORK.
-0023_THE_BUTTERFLY_EFFECT_01.22.05.652-01.22.09.667 	Lenny, silhouetted by the sky, seems to vibrate violently as if operating a jack-hammer.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.19.38.910-00.19.41.640 	Bilbo.a strange hum seems to fill his head.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.22.18.979-00.22.29.032 	Gandalf rises to his full height, his eyes flash, his shadow suddenly seems to fill the room.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.29.09.584-01.29.13.907 	The HUM OF THE RING seems to grow louder in Frodo's ears.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.38.52.515-01.38.52.771 	He seems to grow in stature, as if absorbing its power.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.21.50.973-02.22.02.439 	Galadriel suddenly seems to rise in stature before Frodo's eyes.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.33.12.776-02.33.15.158 	Frodo peers out from the seat.the world seems to shrink.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.20.52.492-00.20.54.779 	THE GREAT EYE OF SAURON seems to LEAP from the FIRE.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.29.12.181-00.29.13.701 	ELROND stares into space, the fight seems to go out of him.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.32.08.012-00.32.11.652 	With SEVEN WALLS OF WHITE STONE, so strong and old that it seems to have been not built, MINAS TIRITH looks carven by giants out of the bones of the earth.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.00.24.870-01.00.30.042 	For a brief second, DENETHOR seems to hesitate, then.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.13.24.762-01.13.31.128 	A GHOSTLY FIGURE seems to emerge from the gloom.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.24.35.450-01.24.37.247 	AT THAT MOMENT: A CHILL WIND seems to rush out of the DOORWAY.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.22.43.058-02.22.43.186 	SAM seems strangely reluctant.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.24.10.197-02.24.14.228 	A RED LIGHT seems to sweep across the PLAIN.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.32.16.608-02.32.22.918 	he seems to fix each and everyone of his MEN with his eyes.
+0001_American_Beauty_00.32.46.016-00.32.47.387 	carolyn is nervous; buddy seems amused.
+0001_American_Beauty_00.37.07.274-00.37.08.400 	she seems shocked, but doesn't resist as he pulls her toward him with surprising strength.
+0001_American_Beauty_00.59.09.223-00.59.09.787 	he seems comfortable with the silence; she doesn't.
+0001_American_Beauty_01.14.47.184-01.14.47.434 	the room, too, seems changed: sloppier, more lived in.
+0001_American_Beauty_01.39.29.046-01.39.34.885 	the colonel moves stiffly and seems preoccupied, slightly disoriented.
+0001_American_Beauty_01.47.04.638-01.47.07.970 	she seems disconnected from what's happening.
+0001_American_Beauty_01.51.24.792-01.51.26.059 	he suddenly seems older, more mature.
+0003_CASABLANCA_00.04.35.859-00.04.44.190 	the englishman seems to be taken aback by this sudden display of concern.
+0003_CASABLANCA_00.05.25.479-00.05.28.541 	when the plane door opens, the first passenger to step out is a tall, middle-aged, pale german with a smile that seems more the result of a frozen face muscle than a cheerful disposition.
+0003_CASABLANCA_00.07.28.724-00.07.30.380 	his companion seems uninterested in his dilemma.
+0003_CASABLANCA_00.32.06.815-00.32.10.566 	he seems even more scared now.
+0003_CASABLANCA_00.39.30.991-00.39.33.421 	they seem to be transported by each other as ilsa laughs.
+0003_CASABLANCA_00.42.46.441-00.42.47.876 	ilsa seems unnerved.
+0003_CASABLANCA_00.46.56.850-00.46.57.207 	rain pours over his head and shoulders, but he doesn't seem to notice.
+0003_CASABLANCA_01.08.21.220-01.08.22.260 	he has only three chips left and seems bewildered.
+0004_Charade_00.42.41.366-00.42.43.707 	as usual, the thread unravels -- and unravels -- and unravels some more until it seems that the entire sock has come unknit.
+0005_Chinatown_00.09.03.825-00.09.06.155 	he seems to be concentrating on it.
+0005_Chinatown_00.11.05.536-00.11.08.510 	even as gittes watches mulwray watching, the volume and velocity seem to increase until it gushes in spurts, cascading into the sea, whipping it into a foam.
+0005_Chinatown_00.15.22.220-00.15.22.522 	mulwray and the girl seem blissfully unaware of them.
+0005_Chinatown_01.32.42.797-01.32.44.089 	it seems to have a momentary calming effect on both of them.
+0006_Clerks_00.03.29.883-00.03.30.529 	the empty newspaper rack with the heading asbury park press seems out of place among all the other stacks of papers.
+0007_DIE_NACHT_DES_JAEGERS_00.52.11.326-00.52.12.415 	she seems about to speak.
+0008_Fargo_01.30.20.911-01.30.34.354 	marge, gazing forward, seems to be talking to herself.
+0011_Gandhi_00.22.08.697-00.22.09.819 	gandhi seems trapped by an ineluctable fact.
+0011_Gandhi_00.54.35.898-00.54.37.255 	the train passes camera to the third class section, which seems besieged by humanity.
+0011_Gandhi_02.02.35.867-02.02.38.984 	walker stares at him, then at what gandhi seems to be looking at.
+0011_Gandhi_02.15.16.506-02.15.17.772 	he watches, looking tensely from one group to the other, almost terrified by what seems about to happen.
+0011_Gandhi_02.15.40.073-02.15.41.786 	the air itself seems breathless with tension.
+0011_Gandhi_02.42.25.327-02.42.27.188 	but apart from that, he is alone; the whole ashram seems deserted.
+0011_Gandhi_02.46.22.727-02.46.24.824 	it seems a little island of calm in a sea of wild chaos.
+0011_Gandhi_02.54.27.294-02.54.28.315 	there are thongs around their arms that make their bulging muscles seem even more powerful.
+0011_Gandhi_02.55.49.909-02.55.57.662 	he is sobbing, but in his anger it seems almost as though he means to kill gandhi in retaliation.
+0013_Halloween_00.55.29.667-00.55.36.076 	the figure of a man carries what seems to be a body across the wallace's back yard.
+0016_O_Brother_Where_Art_Thou_01.37.30.601-01.37.34.745 	the mournfully building song is now supported by a bass more palpable than audible - the song, it seems, rising out of the earth itself.
+0017_Pianist_00.30.11.416-00.30.12.910 	he seems to hang in the air for a second then drops out of the chair and out of sight.
+0017_Pianist_00.43.00.243-00.43.01.943 	a young man, beside her, whispers to her, but she does not seem to take in what he's saying.
+0019_Pulp_Fiction_01.08.27.800-01.08.38.218 	pandemonium seems to be breaking out behind klondike in the hallway.
+0019_Pulp_Fiction_01.29.21.414-01.29.25.593 	everything seems normal.
+0020_Raising_Arizona_00.20.20.846-00.20.23.460 	they seem to be waiting for him to contribute to the conversation.
+0020_Raising_Arizona_00.35.53.446-00.35.54.068 	glen, rubbing his cheek, seems angry at himself.
+0020_Raising_Arizona_00.39.12.180-00.39.12.557 	the two women don't seem to notice.
+0020_Raising_Arizona_00.51.59.357-00.52.00.491 	his gesture seems to take in the trailer and the entire domestic situation.
+0020_Raising_Arizona_00.57.37.595-00.57.37.968 	as we come closer, eventually drawing in to a close shot of his face, we gradually realize something peculiar about his eyes: he seems to have none.
+0021_Rear_Window_00.04.33.319-00.04.33.964 	jeff seems a little disappointed.
+0021_Rear_Window_00.08.10.228-00.08.10.890 	his anger seems to have left him, replaced by the kind of peace that flowers bring many people.
+0021_Rear_Window_00.21.28.873-00.21.32.321 	he holds this attitude for just a moment, then seems to shake off his concern to lift his head and turn his attention to what might be happening in his neighborhood beyond his window.
+0021_Rear_Window_00.43.47.757-00.43.50.757 	she is in the bathroom brushing her long hair, while her thoughts seem to be far away.
+0021_Rear_Window_00.51.56.530-00.51.57.030 	jeff seems to be getting a bit listless, or bored, by constantly watching thorwald's apartment.
+0021_Rear_Window_01.01.13.406-01.01.17.550 	she seems to be putting on the final touches of her make-up, prior to going out.
+0021_Rear_Window_01.01.39.820-01.01.42.009 	her hair-do makes her seem middle-aged.
+0021_Rear_Window_01.02.53.943-01.02.56.060 	she seems to be trying to figure out what to do, or where to go.
+0021_Rear_Window_01.07.45.579-01.07.47.353 	she seems quite animated, moving gracefully, her skirt and hair swinging with her movement.
+0021_Rear_Window_01.07.56.626-01.07.58.382 	as he talks, she seems to be thinking something over to herself.
+0021_Rear_Window_01.30.33.272-01.30.34.172 	she seems quite at peace.
+0021_Rear_Window_01.36.08.002-01.36.09.858 	a woman's voice is heard and jeff seems a little puzzled at the sound of it.
+0021_Rear_Window_01.44.49.708-01.44.52.388 	he seems a little puzzled by what he sees.
+0021_Rear_Window_01.50.43.522-01.50.46.641 	both in dress and manner she seems quite happy and adjusted to life.
+0023_THE_BUTTERFLY_EFFECT_00.06.02.554-00.06.06.025 	he seems stunned to find himself holding the knife and drops it.
+0023_THE_BUTTERFLY_EFFECT_00.13.18.413-00.13.24.502 	tommy catches this and seems disturbed, and quickly turns back to -- the mailbox.
+0023_THE_BUTTERFLY_EFFECT_00.29.46.603-00.29.55.809 	thumper seems oblivious to their taunts as evan knocks the three-ball in the side.
+0023_THE_BUTTERFLY_EFFECT_00.31.57.176-00.32.11.386 	as evan reads, the world seems to almost imperceptibly vibrate around him like a tuning fork.
+0023_THE_BUTTERFLY_EFFECT_01.22.05.652-01.22.09.667 	lenny, silhouetted by the sky, seems to vibrate violently as if operating a jack-hammer.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.19.38.910-00.19.41.640 	bilbo.a strange hum seems to fill his head.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.22.18.979-00.22.29.032 	gandalf rises to his full height, his eyes flash, his shadow suddenly seems to fill the room.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.29.09.584-01.29.13.907 	the hum of the ring seems to grow louder in frodo's ears.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.38.52.515-01.38.52.771 	he seems to grow in stature, as if absorbing its power.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.21.50.973-02.22.02.439 	galadriel suddenly seems to rise in stature before frodo's eyes.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.33.12.776-02.33.15.158 	frodo peers out from the seat.the world seems to shrink.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.20.52.492-00.20.54.779 	the great eye of sauron seems to leap from the fire.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.29.12.181-00.29.13.701 	elrond stares into space, the fight seems to go out of him.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.32.08.012-00.32.11.652 	with seven walls of white stone, so strong and old that it seems to have been not built, minas tirith looks carven by giants out of the bones of the earth.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.00.24.870-01.00.30.042 	for a brief second, denethor seems to hesitate, then.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.13.24.762-01.13.31.128 	a ghostly figure seems to emerge from the gloom.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.24.35.450-01.24.37.247 	at that moment: a chill wind seems to rush out of the doorway.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.22.43.058-02.22.43.186 	sam seems strangely reluctant.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.24.10.197-02.24.14.228 	a red light seems to sweep across the plain.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.32.16.608-02.32.22.918 	he seems to fix each and everyone of his men with his eyes.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.43.31.932-02.43.35.886 	time seems to stand still as each regards the other.
-0026_The_Big_Fish_00.37.20.410-00.37.23.183 	The resulting dance number seems both choreographed and complete chaos.
-0026_The_Big_Fish_00.40.02.786-00.40.08.372 	At first, it just seems to be the wind blowing the branches, but as we hear the wood CRACKING and GROANING, there's no mistaking it: they're trying to block him.
-0026_The_Big_Fish_00.48.23.232-00.48.23.706 	He seems to fill the Heavens.
-0026_The_Big_Fish_00.48.23.706-00.48.24.778 	With his shaved head and giant club, he seems more ogre than man.
-0026_The_Big_Fish_00.48.40.815-00.48.45.495 	Colossus passes Edward, who seems unimpressed.
-0026_The_Big_Fish_00.57.23.225-00.57.25.257 	It seems to be stuck.
-0027_The_Big_Lebowski_00.30.26.603-00.30.27.630 	His bemusement turns to concern over the aerodynamic implications just as the ball seems to suddenly assume its weight, abruptly snapping his arm down, and him after it.
-0027_The_Big_Lebowski_01.34.45.555-01.34.46.686 	They seem very unhappy.
-0028_The_Crying_Game_00.46.23.420-00.46.24.031 	He seems most out of place in his cheap suit, making his way through the crowd to the bar.
-0028_The_Crying_Game_00.56.49.953-00.56.52.702 	The photograph above them seems to smile.
-0028_The_Crying_Game_00.57.46.917-00.57.56.537 	Jody's eyes seem to burn through him.
-0028_The_Crying_Game_01.33.57.600-01.33.57.947 	She seems to be in a sweet narcotic haze.
-0030_The_Hustler_00.02.45.764-00.02.47.574 	Some of the onlookers seem skeptical.
-0030_The_Hustler_00.10.04.923-00.10.06.002 	He seems pleased.
-0030_The_Hustler_00.20.23.745-00.20.26.865 	Big John looks around -- the shot seems impossible.
-0030_The_Hustler_00.38.25.538-00.38.30.284 	The attendant, whose every move seems to require a tremendous effort, shuffles over and grabs a towel as Eddie removes his jacket.
-0030_The_Hustler_00.42.17.651-00.42.18.950 	She seems amused by their encounter.
-0030_The_Hustler_00.52.00.928-00.52.08.367 	She seems cold and suspicious as she limps toward the table.
-0030_The_Hustler_01.23.47.611-01.23.50.868 	Eddie seems happy to be out with her, almost as if he has forgotten the casts on his hands.
-0030_The_Hustler_01.24.02.852-01.24.05.466 	They both seem easy and relaxed in the sunshine together.
-0030_The_Hustler_01.31.42.492-01.31.46.432 	Sarah sees that Eddie seems somber, preoccupied.
-0030_The_Hustler_01.57.41.928-01.57.47.623 	He seems hesitant, unsure of himself.
-0031_The_Lost_Weekend_01.02.27.502-01.02.37.944 	He seems to be going straight to the ringing telephone, only he isn't.
-0031_The_Lost_Weekend_01.26.10.665-01.26.13.444 	Don cries out so hard his throat seems to burst apart, buries his horrified eyes in the back of his chair.
-0032_The_Princess_Bride_00.05.59.684-00.06.02.631 	Three others standing behind him: an OLD COUPLE with crowns, the aging KING AND QUEEN, and a dark bearded man who seems the Prince's match in strength: this is COUNT RUGEN.
-0032_The_Princess_Bride_00.13.23.754-00.13.27.740 	The boat at dawn, being followed closely by the black sailboat, which we can see for the first time is being sailed by a MAN IN BLACK, and his boat almost seems to be flying.
-0032_The_Princess_Bride_00.23.29.328-00.23.30.243 	He tries one style, another, but it all comes down to the same thing--the Man In Black seems to be in control.
-0032_The_Princess_Bride_00.27.51.434-00.27.53.992 	And the punishment is terrible, and for a moment it seems as if he is going to let go of FEZZIK's windpipe and crumble, but he doesn't, he holds on.
-0032_The_Princess_Bride_00.53.42.071-00.53.43.132 	BUTTERCUP, touched as before, but then she seems stunned as we.
-0032_The_Princess_Bride_00.58.17.045-00.58.25.064 	WESTLEY, and he's lying on the table, and he's only flesh and the chains are metal and thick, but such is his desperation it almost seems he might break them.
-0032_The_Princess_Bride_01.17.39.968-01.17.42.165 	BUTTERCUP, and she couldn't seem more serene.
-0032_The_Princess_Bride_01.19.09.471-01.19.12.354 	And it is a bit unnerving--a GIANT seems to be floating toward them out of the darkness, a Giant in a strange cloak, and with a voice that would crumble walls.
-0032_The_Princess_Bride_01.19.12.354-01.19.16.752 	and he seems to be floating because he's standing in the wheelbarrow, as Inigo, hidden behind him, busts a gut by pushing it and supporting Westley.
-0032_The_Princess_Bride_01.24.58.150-01.25.05.192 	She seems very much at peace as she touches the knife to her bosom.
-0032_The_Princess_Bride_01.26.03.929-01.26.04.930 	Again, Inigo doesn't seem to mind, doesn't even feel it.
-0038_Psycho_00.44.19.859-00.44.25.015 	Norman turns his ear from the direction of the SOUNDS, seems to be fighting an impulse to listen, or more than listen.
-0041_The_Sixth_Sense_00.11.08.757-00.11.10.385 	Cole is a munchkin of a boy with large, black eyes that seem to take in everything around him.
-0041_The_Sixth_Sense_00.54.01.328-00.54.04.246 	The house seems threateningly still.
-0043_Thelma_and_Luise_00.41.50.979-00.41.58.435 	The guy does seem really nice and Thelma is really frustrated that Louise wouldn't give him a ride, but decides not to confront her.
-0043_Thelma_and_Luise_01.35.25.067-01.35.35.514 	Louise's eyes are wild, not seeing, while Thelma now seems completely serene.
-0046_Chasing_Amy_00.25.09.935-00.25.11.177 	The song seems to be aimed at whoever she's looking at.
-0051_Men_in_black_00.10.11.853-00.10.14.874 	The bus, of course, is completely filled with JAPANESE TOURISTS, and it seems like every single one of them has a video camera.
-0051_Men_in_black_00.41.33.632-00.41.34.259 	They hold on, long and hard, and both seemed choked with emotion.
-0051_Men_in_black_01.11.31.064-01.11.32.347 	Jay just looks at her, amazed at the power he seems to have over this woman.
-0051_Men_in_black_01.11.33.026-01.11.35.432 	She seems irritated with him, but it doesn't go with what she's saying.
-0053_Rendezvous_mit_Joe_Black_00.01.43.118-00.01.51.177 	Parrish blinks, has he heard something, has he not, he is not sure, he releases his arm, his grimace of pain fades, the discomfort seems momentarily to have subsided.
-0053_Rendezvous_mit_Joe_Black_00.02.22.814-00.02.32.581 	Parrish sits up again, frightened, but still there is no one there, he seems fraught with indecision, should he get up, should he not, what is happening?
-0053_Rendezvous_mit_Joe_Black_00.17.41.355-00.17.47.941 	Parrish grips the edge of the desk, the pain assaulting him on the one hand, the Voice coming at him from the outer, each aberration feeds on the other, he is beside himself, consumed with pain and bewildered by what seems to be a hallucination but which he is certain is not.
-0053_Rendezvous_mit_Joe_Black_00.30.20.122-00.30.31.515 	The figure who is the Voice takes a step forward now, no longer obscured by the glass he comes into the light, revealing himself to be the Young Man seen previously in the coffee shop, but there is a change; he seems odd, offcenter, not handsome but terrifyingly beautiful.
-0053_Rendezvous_mit_Joe_Black_00.31.55.693-00.32.00.384 	He surveys the Young Man who, at this moment, actually seems bewildered by his effect.
-0053_Rendezvous_mit_Joe_Black_01.52.08.036-01.52.19.670 	Joe seems to drift away now, they lie together as one but for the first time, she feels separate from him, sensing him gone to some distant, distant land.
-0053_Rendezvous_mit_Joe_Black_01.56.58.374-01.57.01.326 	Susan seems distracted.
-0053_Rendezvous_mit_Joe_Black_02.49.37.513-02.49.42.929 	He is heading straight for her, she tries to make him out, seems to recognize him, starts to walk towards him as if pulled by a magnet.
-1002_Harry_Potter_and_the_Half-Blood_Prince_02.14.16.175-02.14.18.237 	The white-haired professor seems to float gently downwards.
-1003_How_to_Lose_Friends_and_Alienate_People_00.27.20.816-00.27.21.499 	Alison and Lawrence seem indifferently thumb their mobiles phones.
-1003_How_to_Lose_Friends_and_Alienate_People_01.19.32.042-01.19.32.726 	Sydney's pretty mother seems to watch from the photograph on the shelving unit, as Alison cracks a smile and dances a cheeky little jive with Sydney.
-1004_Juno_00.44.56.180-00.45.01.077 	Mark seems to lose himself in the music, then he looks at Juno.
-1004_Juno_01.08.30.310-01.08.34.190 	Mark, with his chin brushing against her hair, seems unsettled.
-1004_Juno_01.14.12.940-01.14.23.581 	Crammed in, behind the wheel, Juno seems oblivious of the passing cars as she rubs her belly under her thick tartan coat.
-1007_Spider-Man1_00.25.01.336-00.25.01.718 	Harry seems awestruck.
+0026_The_Big_Fish_00.37.20.410-00.37.23.183 	the resulting dance number seems both choreographed and complete chaos.
+0026_The_Big_Fish_00.40.02.786-00.40.08.372 	at first, it just seems to be the wind blowing the branches, but as we hear the wood cracking and groaning, there's no mistaking it: they're trying to block him.
+0026_The_Big_Fish_00.48.23.232-00.48.23.706 	he seems to fill the heavens.
+0026_The_Big_Fish_00.48.23.706-00.48.24.778 	with his shaved head and giant club, he seems more ogre than man.
+0026_The_Big_Fish_00.48.40.815-00.48.45.495 	colossus passes edward, who seems unimpressed.
+0026_The_Big_Fish_00.57.23.225-00.57.25.257 	it seems to be stuck.
+0027_The_Big_Lebowski_00.30.26.603-00.30.27.630 	his bemusement turns to concern over the aerodynamic implications just as the ball seems to suddenly assume its weight, abruptly snapping his arm down, and him after it.
+0027_The_Big_Lebowski_01.34.45.555-01.34.46.686 	they seem very unhappy.
+0028_The_Crying_Game_00.46.23.420-00.46.24.031 	he seems most out of place in his cheap suit, making his way through the crowd to the bar.
+0028_The_Crying_Game_00.56.49.953-00.56.52.702 	the photograph above them seems to smile.
+0028_The_Crying_Game_00.57.46.917-00.57.56.537 	jody's eyes seem to burn through him.
+0028_The_Crying_Game_01.33.57.600-01.33.57.947 	she seems to be in a sweet narcotic haze.
+0030_The_Hustler_00.02.45.764-00.02.47.574 	some of the onlookers seem skeptical.
+0030_The_Hustler_00.10.04.923-00.10.06.002 	he seems pleased.
+0030_The_Hustler_00.20.23.745-00.20.26.865 	big john looks around -- the shot seems impossible.
+0030_The_Hustler_00.38.25.538-00.38.30.284 	the attendant, whose every move seems to require a tremendous effort, shuffles over and grabs a towel as eddie removes his jacket.
+0030_The_Hustler_00.42.17.651-00.42.18.950 	she seems amused by their encounter.
+0030_The_Hustler_00.52.00.928-00.52.08.367 	she seems cold and suspicious as she limps toward the table.
+0030_The_Hustler_01.23.47.611-01.23.50.868 	eddie seems happy to be out with her, almost as if he has forgotten the casts on his hands.
+0030_The_Hustler_01.24.02.852-01.24.05.466 	they both seem easy and relaxed in the sunshine together.
+0030_The_Hustler_01.31.42.492-01.31.46.432 	sarah sees that eddie seems somber, preoccupied.
+0030_The_Hustler_01.57.41.928-01.57.47.623 	he seems hesitant, unsure of himself.
+0031_The_Lost_Weekend_01.02.27.502-01.02.37.944 	he seems to be going straight to the ringing telephone, only he isn't.
+0031_The_Lost_Weekend_01.26.10.665-01.26.13.444 	don cries out so hard his throat seems to burst apart, buries his horrified eyes in the back of his chair.
+0032_The_Princess_Bride_00.05.59.684-00.06.02.631 	three others standing behind him: an old couple with crowns, the aging king and queen, and a dark bearded man who seems the prince's match in strength: this is count rugen.
+0032_The_Princess_Bride_00.13.23.754-00.13.27.740 	the boat at dawn, being followed closely by the black sailboat, which we can see for the first time is being sailed by a man in black, and his boat almost seems to be flying.
+0032_The_Princess_Bride_00.23.29.328-00.23.30.243 	he tries one style, another, but it all comes down to the same thing--the man in black seems to be in control.
+0032_The_Princess_Bride_00.27.51.434-00.27.53.992 	and the punishment is terrible, and for a moment it seems as if he is going to let go of fezzik's windpipe and crumble, but he doesn't, he holds on.
+0032_The_Princess_Bride_00.53.42.071-00.53.43.132 	buttercup, touched as before, but then she seems stunned as we.
+0032_The_Princess_Bride_00.58.17.045-00.58.25.064 	westley, and he's lying on the table, and he's only flesh and the chains are metal and thick, but such is his desperation it almost seems he might break them.
+0032_The_Princess_Bride_01.17.39.968-01.17.42.165 	buttercup, and she couldn't seem more serene.
+0032_The_Princess_Bride_01.19.09.471-01.19.12.354 	and it is a bit unnerving--a giant seems to be floating toward them out of the darkness, a giant in a strange cloak, and with a voice that would crumble walls.
+0032_The_Princess_Bride_01.19.12.354-01.19.16.752 	and he seems to be floating because he's standing in the wheelbarrow, as inigo, hidden behind him, busts a gut by pushing it and supporting westley.
+0032_The_Princess_Bride_01.24.58.150-01.25.05.192 	she seems very much at peace as she touches the knife to her bosom.
+0032_The_Princess_Bride_01.26.03.929-01.26.04.930 	again, inigo doesn't seem to mind, doesn't even feel it.
+0038_Psycho_00.44.19.859-00.44.25.015 	norman turns his ear from the direction of the sounds, seems to be fighting an impulse to listen, or more than listen.
+0041_The_Sixth_Sense_00.11.08.757-00.11.10.385 	cole is a munchkin of a boy with large, black eyes that seem to take in everything around him.
+0041_The_Sixth_Sense_00.54.01.328-00.54.04.246 	the house seems threateningly still.
+0043_Thelma_and_Luise_00.41.50.979-00.41.58.435 	the guy does seem really nice and thelma is really frustrated that louise wouldn't give him a ride, but decides not to confront her.
+0043_Thelma_and_Luise_01.35.25.067-01.35.35.514 	louise's eyes are wild, not seeing, while thelma now seems completely serene.
+0046_Chasing_Amy_00.25.09.935-00.25.11.177 	the song seems to be aimed at whoever she's looking at.
+0051_Men_in_black_00.10.11.853-00.10.14.874 	the bus, of course, is completely filled with japanese tourists, and it seems like every single one of them has a video camera.
+0051_Men_in_black_00.41.33.632-00.41.34.259 	they hold on, long and hard, and both seemed choked with emotion.
+0051_Men_in_black_01.11.31.064-01.11.32.347 	jay just looks at her, amazed at the power he seems to have over this woman.
+0051_Men_in_black_01.11.33.026-01.11.35.432 	she seems irritated with him, but it doesn't go with what she's saying.
+0053_Rendezvous_mit_Joe_Black_00.01.43.118-00.01.51.177 	parrish blinks, has he heard something, has he not, he is not sure, he releases his arm, his grimace of pain fades, the discomfort seems momentarily to have subsided.
+0053_Rendezvous_mit_Joe_Black_00.02.22.814-00.02.32.581 	parrish sits up again, frightened, but still there is no one there, he seems fraught with indecision, should he get up, should he not, what is happening?
+0053_Rendezvous_mit_Joe_Black_00.17.41.355-00.17.47.941 	parrish grips the edge of the desk, the pain assaulting him on the one hand, the voice coming at him from the outer, each aberration feeds on the other, he is beside himself, consumed with pain and bewildered by what seems to be a hallucination but which he is certain is not.
+0053_Rendezvous_mit_Joe_Black_00.30.20.122-00.30.31.515 	the figure who is the voice takes a step forward now, no longer obscured by the glass he comes into the light, revealing himself to be the young man seen previously in the coffee shop, but there is a change; he seems odd, offcenter, not handsome but terrifyingly beautiful.
+0053_Rendezvous_mit_Joe_Black_00.31.55.693-00.32.00.384 	he surveys the young man who, at this moment, actually seems bewildered by his effect.
+0053_Rendezvous_mit_Joe_Black_01.52.08.036-01.52.19.670 	joe seems to drift away now, they lie together as one but for the first time, she feels separate from him, sensing him gone to some distant, distant land.
+0053_Rendezvous_mit_Joe_Black_01.56.58.374-01.57.01.326 	susan seems distracted.
+0053_Rendezvous_mit_Joe_Black_02.49.37.513-02.49.42.929 	he is heading straight for her, she tries to make him out, seems to recognize him, starts to walk towards him as if pulled by a magnet.
+1002_Harry_Potter_and_the_Half-Blood_Prince_02.14.16.175-02.14.18.237 	the white-haired professor seems to float gently downwards.
+1003_How_to_Lose_Friends_and_Alienate_People_00.27.20.816-00.27.21.499 	alison and lawrence seem indifferently thumb their mobiles phones.
+1003_How_to_Lose_Friends_and_Alienate_People_01.19.32.042-01.19.32.726 	sydney's pretty mother seems to watch from the photograph on the shelving unit, as alison cracks a smile and dances a cheeky little jive with sydney.
+1004_Juno_00.44.56.180-00.45.01.077 	mark seems to lose himself in the music, then he looks at juno.
+1004_Juno_01.08.30.310-01.08.34.190 	mark, with his chin brushing against her hair, seems unsettled.
+1004_Juno_01.14.12.940-01.14.23.581 	crammed in, behind the wheel, juno seems oblivious of the passing cars as she rubs her belly under her thick tartan coat.
+1007_Spider-Man1_00.25.01.336-00.25.01.718 	harry seems awestruck.
 1007_Spider-Man1_00.46.00.298-00.46.08.430 	each time it seems he's going to plummet to the ground, he shoots out another web and pulls himself along, again like tarzan swinging from vine to vine.
 1007_Spider-Man1_01.35.46.365-01.35.49.621 	the three of them seem awkward.
 1008_Spider-Man2_00.46.53.300-00.47.00.475 	octavius cringes, then seems surprised when mechanical limbs lift the cab up and through to the air, it lands on another yellow taxi.
@@ -160,31 +161,6 @@
 1049_Harry_Potter_and_the_chamber_of_secrets_00.49.11.025-00.49.12.528 	professor mcgonagall seems uncertain.
 1049_Harry_Potter_and_the_chamber_of_secrets_00.59.31.715-00.59.34.490 	he looks around, but the room seems empty.
 1049_Harry_Potter_and_the_chamber_of_secrets_01.33.07.129-01.33.09.629 	a wind seems to draw him away.
-1053_Harry_Potter_and_the_philosophers_stone_00.11.23.000-00.11.26.436 	vernon blinks with surprise then covers his ears as a rushing wind seems to fill the room.
-1053_Harry_Potter_and_the_philosophers_stone_01.31.33.672-01.31.43.800 	a door, in the far wall seems to open and close by itself.
-1053_Harry_Potter_and_the_philosophers_stone_01.46.49.545-01.46.57.348 	in the shadowy moon light, the hooded figure seems to rise up and hover above the dead unicorn.
-1053_Harry_Potter_and_the_philosophers_stone_02.13.44.025-02.13.56.893 	the wind seems to pass through harry's body that whirls away like a tornado up the stone steps and disappears.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.22.07.264-00.22.11.317 	it seems to draw the energy out of him.
-1056_Rambo_00.09.22.183-00.09.26.397 	michael seems temporarily lost for words.
-1056_Rambo_01.06.38.934-01.06.42.285 	the troops seem to be gaining on him.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.43.04.000-00.43.06.912 	the clouds seem join together.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.53.22.593-00.53.24.862 	harry seems to regain his strength.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.47.38.573-01.47.50.828 	harry seems to split voldemort's head in two, revealing only the black smoke, as they land in the courtyard and roll away from each other across the cobbles.
-1062_Day_the_Earth_stood_still_01.30.29.000-01.30.31.000 	klaatu seems calm.
-2004_Juno_00.36.42.504-00.36.44.924 	mark seems visibly embarrassed by vanessa's manic demeanor.
-2005_Signs_01.10.37.056-01.10.41.102 	it seems like every utensil and dish in the kitchen was used.
-2012_Unbreakable_00.17.55.521-00.17.57.618 	the players seem unusually small.
-2012_Unbreakable_00.41.25.737-00.41.30.760 	the figure in the army jacket seems to move farther away with every step.
-2012_Unbreakable_00.58.54.284-00.58.58.144 	david seems lost in his thoughts.
-2012_Unbreakable_01.03.35.473-01.03.37.739 	elijah seems shaken for the first time.
-2012_Unbreakable_01.20.34.189-01.20.36.149 	he seems shaken.
-2017_Bad_Santa_00.12.54.879-00.12.57.768 	he seems dissatisfied until a brand new cadillac chirps.
-2017_Bad_Santa_00.54.41.000-00.54.43.421 	willie lugs the filled sack and seems to be straining.
-2017_Bad_Santa_01.17.44.721-01.17.50.360 	marcus seems to have a little difficulty reaching the battery terminals.
-2026_Legion_00.01.54.815-00.01.57.979 	a beat then slowly he climbs to his feet, recovering from what seems to have been quite a fall.
-2026_Legion_00.06.24.308-00.06.29.306 	michael, however, seems to know exactly who he's talking to.
-2026_Legion_01.05.10.072-01.05.10.823 	she seems to have aged years overnight.
-2026_Legion_01.13.03.197-01.13.09.623 	the spectral lights in the distance seem to be growing larger -- closer.
 1053_Harry_Potter_and_the_philosophers_stone_00.11.23.000-00.11.26.436 	vernon blinks with surprise then covers his ears as a rushing wind seems to fill the room.
 1053_Harry_Potter_and_the_philosophers_stone_01.31.33.672-01.31.43.800 	a door, in the far wall seems to open and close by itself.
 1053_Harry_Potter_and_the_philosophers_stone_01.46.49.545-01.46.57.348 	in the shadowy moon light, the hooded figure seems to rise up and hover above the dead unicorn.

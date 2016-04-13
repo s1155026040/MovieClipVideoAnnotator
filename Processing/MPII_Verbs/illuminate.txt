@@ -1,28 +1,10 @@
 0001_American_Beauty_00.09.53.401-00.09.54.138 	close on the face of ricky fitts, illuminated by the screen of his digicam as he videotapes.
-0005_Chinatown_01.14.50.243-01.14.56.887 	evelyn's car pulls up before the elegant spanish rest home, its entryway illuminated by streetlights.
 0008_Fargo_00.25.39.207-00.25.40.324 	a sweep of headlights illuminates a sign on the pedestal:
-0013_Halloween_00.37.01.026-00.37.03.317 	brackett's flashlight comes on, illuminating the two men.
-0013_Halloween_01.02.36.254-01.02.38.602 	the only light is a candle illuminating the sheets as they move slowly up and down and from side to side.
 0017_Pianist_00.54.12.244-00.54.15.031 	thin slivers of light illuminate the two men on their backs in the cramped space.
-0020_Raising_Arizona_00.05.38.155-00.05.39.281 	eyes closed, he is illuminated by a flash.
-0020_Raising_Arizona_00.55.06.175-00.55.07.261 	we are tracking in toward the one window that is illuminated, with a feeble yellow light.
 0021_Rear_Window_00.49.38.603-00.49.39.803 	the flame of the match illuminates his face for a moment.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.27.08.758-01.27.13.143 	he waves his torch through the darkness: illuminating a huge, cavern.
 0033_Amadeus_00.00.21.838-00.00.23.541 	a faint light illuminates the screen.
-0049_Hannah_and_her_sisters_00.35.46.218-00.35.48.311 	mickey is back in the present in his darkened living room, illuminated by a glow from a window behind the couch.
-0049_Hannah_and_her_sisters_01.15.31.408-01.15.33.658 	mickey opens the door, the light from a hallway illuminating him.
-0050_Indiana_Jones_and_the_last_crusade_00.10.20.134-00.10.21.379 	the page shows a beautifully illuminated picture of what might be a stained-glass window.
 1002_Harry_Potter_and_the_Half-Blood_Prince_00.24.01.726-00.24.06.611 	the train steams across vast, brown landscape, illuminated by the evening sun.
-1002_Harry_Potter_and_the_Half-Blood_Prince_02.00.54.930-02.01.10.824 	dumbledore sends a ball of light across the lake, it rises and falls over the surface of the water then flares up illuminating a tiny island in the distance.
-1002_Harry_Potter_and_the_Half-Blood_Prince_02.15.42.076-02.15.48.333 	illuminated by the flames from the burning cottage, snape stands alone.
-1004_Juno_01.17.06.670-01.17.16.515 	juno parks the previa in the street outside the family's wooden slatted house, where the porch light illuminates a straw heart hanging on the door knocker.
 1005_Signs_00.38.08.462-00.38.09.333 	and the beam returns, briefly illuminating his face.
-1005_Signs_01.15.26.640-01.15.32.820 	two china dogs sitting on it, one on each side, illuminated by the dim glow of two wall lamps above them.
-1005_Signs_01.20.17.190-01.20.28.620 	merrill finds another flashlight and directs its beam around the walls of the basement, illuminating old wooden shelves, supporting neatly-arranged pickling jars, bowls, ski boots, roller skates, and disordered clatter.
-1005_Signs_01.23.16.222-01.23.26.304 	the beam illuminates his brother, sitting on the floor, leaning against a pillar.
-1006_Slumdog_Millionaire_01.29.34.626-01.29.37.276 	lights come on and illuminate the host's false smile.
-1007_Spider-Man1_00.48.38.818-00.48.40.408 	a police's spotlight illuminates a second floor window through which the thief has fallen.
-1007_Spider-Man1_01.19.16.804-01.19.19.154 	lighting illuminates the buildings around them.
 1008_Spider-Man2_01.08.28.764-01.08.32.811 	big flashes illuminate the darkness.
 1008_Spider-Man2_01.53.50.464-01.53.52.773 	the tritium glows brightly, illuminating the way for spider -man to creep across a beam.
 1009_Spider-Man3_01.41.07.932-01.41.13.540 	a flash of lightning illuminates a gothic church with a tall studded aspire topped by a stone crucifix.
@@ -30,22 +12,10 @@
 1010_TITANIC_00.04.16.958-00.04.24.833 	lights illuminate rectangular windows with panes of broken glass.
 1010_TITANIC_00.05.45.759-00.05.51.096 	its bright lights illuminate a crystal chandelier, still dangling from a ceiling.
 1010_TITANIC_02.53.13.452-02.53.18.570 	the crewman's flashlight beam illuminates a dead woman and infant floating in the water.
-1010_TITANIC_02.54.17.161-02.54.27.033 	her hair and eyebrows caked with ice, rose turns her head as a distant light illuminates the side of her face.
 1010_TITANIC_03.06.07.712-03.06.14.664 	bright light suddenly shines from within the titanic and illuminates the corridor, now restored to its former glory.
-1014_2012_00.00.36.725-00.00.41.375 	the curving edge of planet earth is illuminated dwarfing further planets in the distance.
-1023_Horrible_Bosses_00.50.26.301-00.50.28.831 	street lamps illuminate the darkened street as they drive on.
 1026_Legion_00.07.46.439-00.07.52.106 	the green neon lights of the sign illuminate his features.
 1026_Legion_00.35.22.488-00.35.25.237 	a torchlight beam illuminates the diner.
 1026_Legion_00.46.15.012-00.46.18.230 	outside, intermittent bright flashes illuminate the horizon.
-1026_Legion_01.13.03.856-01.13.08.089 	bright light flashes all around, illuminating hundreds of possessed standing motionless, staring at the diner.
-1026_Legion_01.31.01.563-01.31.07.585 	the sun rises higher in the sky, illuminating the town.
-1030_Public_Enemies_00.53.55.375-00.53.58.186 	near one, a man lights a flare and holds it aloft, illuminating a vast crowd.
-1030_Public_Enemies_02.07.53.234-02.07.57.015 	the scene draws more chicagoans from across the street, and more flares illuminate the area with searing light.
-1037_The_Curious_Case_Of_Benjamin_Button_00.08.03.039-00.08.17.493 	fireworks illuminate the streets, which are filled with revelers waving american flags.
-1037_The_Curious_Case_Of_Benjamin_Button_01.12.03.905-01.12.19.668 	they walk arm in arm, the streetlights dimly illuminating their way.
-1043_Vantage_Point_00.15.49.856-00.15.53.170 	a muzzle flash illuminates the window, and the president reels back before falling.
-1046_Australia_02.10.17.200-02.10.24.872 	the flickering flames illuminate the calm figure of king george, as others mill around trying to help.
-1049_Harry_Potter_and_the_chamber_of_secrets_02.04.33.104-02.04.35.995 	harry walks towards the massive carved head of a bearded man illuminated with a green light.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.17.53.253-00.17.55.080 	harry slumps forward, his jagged scar illuminated by the bike's headlight.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.18.10.425-00.18.16.663 	the swirling vortex of light travels up voldemort's wand, illuminating his face.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.29.51.536-01.30.02.804 	illuminating his way up the stairs.
@@ -54,20 +24,12 @@
 1051_Harry_Potter_and_the_goblet_of_fire_02.08.48.861-02.08.57.762 	streaks of light burst all around, illuminating the dark sky.
 1052_Harry_Potter_and_the_order_of_phoenix_00.00.21.547-00.00.31.043 	the sun breaks through the threatening storm clouds illuminating words in spiky metal letters.
 1052_Harry_Potter_and_the_order_of_phoenix_00.52.51.762-00.52.54.649 	lightning illuminates the room.
-1052_Harry_Potter_and_the_order_of_phoenix_01.47.44.311-01.47.55.251 	as harry walks towards it, the sphere stars to glow, illuminating the swirling mist inside it.
 1053_Harry_Potter_and_the_philosophers_stone_00.24.17.306-00.24.28.350 	the door swings slowly open and harry stares in surprise as the lamplight illuminates a very small badly wrapped package tide with string.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_01.44.07.662-01.44.15.248 	a faint, silvery breath floats from sirius' half-open mouth, illuminating his face.
 1056_Rambo_00.55.11.970-00.55.15.617 	he angles a lamp above his head to illuminate them.
-1057_Seven_pounds_00.35.07.324-00.35.15.829 	light from the tank illuminates ben's face as he stands in the darkness, seemingly lost in thought.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.00.27.641-00.00.31.337 	a massive force of energy shoots from the tip of the wand, illuminating the dark sky.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.14.59.813-00.15.03.212 	traveling at incredible speed, the cart's single headlight illuminates a waterfall gushing beneath the track.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.50.16.300-00.50.23.269 	the protective shield, the burning wooden ground stones at the quidditch pitch illuminate the dark hillside.
 1062_Day_the_Earth_stood_still_00.11.54.898-00.11.59.058 	floodlights illuminate a sports field teaming with equipment and personnel.
-1062_Day_the_Earth_stood_still_00.17.13.681-00.17.18.605 	a bright ball of light is moving through the dark sky above the illuminated city.
 1062_Day_the_Earth_stood_still_00.17.22.664-00.17.36.567 	it illuminates the bell gothic fasade of saint patrick's cathedral and moves with swirling brilliance towards central park.
-1062_Day_the_Earth_stood_still_00.21.05.000-00.21.10.056 	flood lights illuminate the site and police snipers take positions overlooking the park.
-2004_Juno_01.06.34.204-01.06.36.362 	mark pulls a chain to illuminate a bare bulb.
 2026_Legion_00.07.13.810-00.07.18.883 	jeep switches on a lamp, illuminating this incredibly cramped bedroom.
-2026_Legion_01.06.06.733-01.06.09.277 	just then the spot lights that illuminate the roof sign come to life.
-2027_Les_Miserables_00.08.29.855-00.08.32.221 	two silver candlesticks light the room, illuminating walls painted with religious scenes.
-2054_Harry_Potter_and_the_prisoner_of_azkaban_00.00.35.658-00.00.38.990 	the tent blooms softly with light -- briefly illuminating a bedside photograph (of james & lily potter) -- then goes dark.

@@ -1,12 +1,8 @@
-0032_The_Princess_Bride_00.10.05.730-00.10.07.074 	The waves are higher, there are only occasional flashes of moon slanting down between clouds.
-0032_The_Princess_Bride_00.42.26.306-00.42.28.871 	It's later now, the sun slants down at a slightly different angle.
-0050_Indiana_Jones_and_the_last_crusade_01.56.50.040-01.56.54.459 	As her hands lose their grip, Indy just manages to grab one of them, he himself sliding forward across the slanted floor.
+0032_The_Princess_Bride_00.10.05.730-00.10.07.074 	the waves are higher, there are only occasional flashes of moon slanting down between clouds.
+0032_The_Princess_Bride_00.42.26.306-00.42.28.871 	it's later now, the sun slants down at a slightly different angle.
+0050_Indiana_Jones_and_the_last_crusade_01.56.50.040-01.56.54.459 	as her hands lose their grip, indy just manages to grab one of them, he himself sliding forward across the slanted floor.
 1010_TITANIC_02.37.41.101-02.37.43.615 	jack pulls up towards deck which is now slanted at a forty five degree angle.
 1010_TITANIC_02.39.09.862-02.39.15.791 	people slide down the slanted deck.
-2005_Signs_01.00.51.374-01.00.55.689 	he reaches with the butcher knife underneath the slanted kitchen table.
-2005_Signs_01.01.08.307-01.01.12.019 	he takes a deep breath and starts to lower his head under the slanted table.
-2005_Signs_01.01.25.579-01.01.36.127 	graham lets go of the doorknob -- he turns and walks quickly across the kitchen -- he picks up the butcher knife -- he kneels down next to the pantry -- he ducks his head under the slanted kitchen table -- he places his cheek to the floor, only inches from the bottom of the door, and looks into the pantry.
-2026_Legion_00.07.39.806-00.07.49.352 	jeep gazes up to the diner's slanted roof where a large sign glows like a beacon in the darkness.
 2005_Signs_01.00.51.374-01.00.55.689 	he reaches with the butcher knife underneath the slanted kitchen table.
 2005_Signs_01.01.08.307-01.01.12.019 	he takes a deep breath and starts to lower his head under the slanted table.
 2005_Signs_01.01.25.579-01.01.36.127 	graham lets go of the doorknob -- he turns and walks quickly across the kitchen -- he picks up the butcher knife -- he kneels down next to the pantry -- he ducks his head under the slanted kitchen table -- he places his cheek to the floor, only inches from the bottom of the door, and looks into the pantry.

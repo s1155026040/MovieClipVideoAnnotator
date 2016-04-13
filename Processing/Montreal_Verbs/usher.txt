@@ -1,15 +1,8 @@
-500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS377 	01:08:24,00 --> 01:08:30,50 	in reality, she opens the door, gives him a friendly hug, and ushers him in.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS489 	01:25:31,00 --> 01:25:39,50 	inside the allied headquarters, a guard ushers someone into an interrogation room and hands him his eyeglasses.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS447 	01:46:08,00 --> 01:46:12,50 	someone ushers her children away.
-COLOMBIANA.srt 	COLOMBIANA_DVS93 	00:07:20,00 --> 00:07:26,50 	toting a suitcase, his wife ushers someone into the next room.
-KARATE_KID.srt 	KARATE_KID_DVS429 	00:38:57,00 --> 00:39:04,50 	mrs. po kindly rests a hand on someone's back and ushers him toward the group.
 KARATE_KID.srt 	KARATE_KID_DVS546 	00:49:14,00 --> 00:49:18,50 	he ushers someone to the door.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS139 	00:21:05,00 --> 00:21:10,50 	he ushers it into the hall.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS334 	01:03:41,00 --> 01:04:03,50 	he puts them on and tosses a jacket to the other inmate who grabs a hat from the rack as he ushers the deputy out behind someone.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS686 	02:08:43,00 --> 02:08:52,50 	as the matron ushers her to another, the prisoner
 SALT.srt 	SALT_DVS77 	00:17:10,00 --> 00:17:16,50 	someone ushers the blonde agent into the now vacant room.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS440 	00:52:25,00 --> 00:52:30,50 	he ushers her through a doorway.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1128 	01:58:10,00 --> 01:58:18,50 	in the house someone keeps his gun trained on someone as he ushers him down a dark narrow stairway.
-THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS522 	01:29:40,00 --> 01:29:47,50 	someone lays a hand on someone's back, gently ushering her through a doorway.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS491 	01:02:29,00 --> 01:02:36,50 	a techie ushers a short boyish guy to someone.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS524 	01:20:35,00 --> 01:20:42,50 	we watch through a window as someone ushers the zookeeper into her room.

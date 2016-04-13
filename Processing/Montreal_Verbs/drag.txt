@@ -8,64 +8,33 @@ A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS407 	01:10:46,00 --> 01:10:52,50 	some
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS598 	01:34:07,00 --> 01:34:12,50 	he drags someone to the utility room.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS657 	01:40:15,00 --> 01:40:22,50 	as agents drag the thugs out of the library, someone, someone, and someone enter.
 BLINDDATING.srt 	BLINDDATING_DVS86 	00:25:27,00 --> 00:25:44,50 	grabs the scruff of his jacket and drags him back.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS317 	00:59:57,00 --> 01:00:05,50 	someone knocks the guard unconscious and drags out his body, then closes the door behind himself as he enters.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS919 	01:29:59,00 --> 01:30:06,50 	his gaze lifts to his drawing of a giant tentacle dragging a man down into the sea.
-CHRONICLE.srt 	CHRONICLE_DVS162 	00:24:29,00 --> 00:24:36,50 	facing the parked car, someone telekinetically drags it out of its spot.
-CHRONICLE.srt 	CHRONICLE_DVS182 	00:27:12,00 --> 00:27:19,50 	someone helps him drag the unconscious man onto the muddy riverbank.
 CHRONICLE.srt 	CHRONICLE_DVS238 	00:33:56,00 --> 00:34:01,50 	someone drags someone into the camera's view.
-CHRONICLE.srt 	CHRONICLE_DVS413 	01:01:36,00 --> 01:01:43,50 	someone telekinetically drags one side-to-side, leaving bloody smears on the pavement.
 CHRONICLE.srt 	CHRONICLE_DVS502 	01:12:00,00 --> 01:12:06,50 	he drags his unconscious cousin away from the car.
 COLOMBIANA.srt 	COLOMBIANA_DVS337 	00:30:05,00 --> 00:30:11,50 	now the cops drag someone through a police station booking room.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS481 	01:11:03,00 --> 01:11:12,50 	he grabs noodles by the vest and drags him out of harms way.
 DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS112 	00:29:25,00 --> 00:29:30,50 	someone drags himself into the bedroom.
-DISTRICT_9.srt 	DISTRICT_9_DVS463 	00:53:30,00 --> 00:53:45,50 	he drags a cinder block out of the rubble and sets it on the ground in front of him.
-DISTRICT_9.srt 	DISTRICT_9_DVS709 	01:23:17,00 --> 01:23:23,50 	to another window, watching the gangsters dragging someone away.
 DISTRICT_9.srt 	DISTRICT_9_DVS837 	01:38:44,00 --> 01:38:59,50 	on the ground, a trembling someone wills his arms forward, one after the other as he drags himself along the ground.
-FLIGHT.srt 	FLIGHT_DVS127 	00:25:11,00 --> 00:25:17,50 	through blurred vision, someone sees ken leaning to the side in his seat, as he is dragged out.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS256 	00:40:52,00 --> 00:40:56,50 	someone drags someone away.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS261 	00:41:12,00 --> 00:41:28,50 	it yanks him off his feet then drags him to the flaming skeleton.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS429 	01:01:49,00 --> 01:01:54,50 	the monks drag someone and someone out.
-HUGO.srt 	HUGO_DVS72 	00:09:23,00 --> 00:09:28,50 	he falls and the train drags him along the platform.
 HUGO.srt 	HUGO_DVS404 	01:00:28,00 --> 01:00:35,50 	someone glances over her shoulder then drags the box forward several inches.
 HUGO.srt 	HUGO_DVS714 	01:45:17,00 --> 01:45:23,50 	someone struggles as the inspector drags him to his office.
-IN_TIME.srt 	IN_TIME_DVS88 	00:09:44,00 --> 00:09:56,50 	as someone drags the stranger down an alley, the car backs out of view.
 IN_TIME.srt 	IN_TIME_DVS796 	01:24:18,00 --> 01:24:23,50 	someone drags someone across the suite.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS67 	00:18:12,00 --> 00:18:18,50 	someone storms back out, grabs someone and drags him into the office.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS199 	00:36:51,00 --> 00:37:01,50 	as they lift him and drag him away, someone spits blood at iron man.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS375 	01:10:56,00 --> 01:11:01,50 	she drags on a cigarette.
-JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS127 	00:46:06,00 --> 00:46:12,50 	she drags him aside and wipes her hand on his vest.
 LARRY_CROWNE.srt 	LARRY_CROWNE_DVS246 	00:58:49,00 --> 00:58:53,50 	he drags his lips in an affable
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS197 	00:25:39,00 --> 00:25:45,50 	someone watches the carnivore drag his kill.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS388 	00:46:07,00 --> 00:46:15,50 	one of its hind legs lies unnaturally straight as it drags its haunch along the bench.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS465 	00:52:32,00 --> 00:52:37,50 	he drags her down to the floor and tears into her.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS513 	00:56:39,00 --> 00:56:45,50 	someone drags the zebra carcass out of view.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS564 	01:02:42,00 --> 01:02:47,50 	he drags the boat sideways over the waves.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS673 	01:11:31,00 --> 01:11:37,50 	the tiger chomps down on the fish and drags it back into the shelter.
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS259 	01:01:47,00 --> 01:01:58,50 	dragging someone along by the hand, someone halts at the half pipes edge.
-PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS302 	01:11:23,00 --> 01:11:34,50 	someone wears a huge smile as someone drags him over the soaking lawn.
-PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS242 	01:04:32,00 --> 01:04:40,50 	later someone drags the janitor across the polished floor, pulling him behind a line of columns.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS36 	00:05:53,00 --> 00:06:11,50 	his body dragging across the dirt, someone hangs onto someone's arm, grimacing in pain.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS632 	01:59:01,00 --> 01:59:20,50 	facing a mirror, someone drags a razor down his lathered cheek.
 SANCTUM.srt 	SANCTUM_DVS216 	00:47:38,00 --> 00:47:42,50 	someone drags someone away.
 SANCTUM.srt 	SANCTUM_DVS217 	00:47:41,00 --> 00:47:45,50 	someone drags someone back.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS879 	00:58:01,00 --> 00:58:07,50 	the butcher drags an old woman from another room.
 SOUL_SURFER.srt 	SOUL_SURFER_DVS70 	00:24:13,00 --> 00:24:18,50 	they drag someone across the sand.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS143 	00:22:41,00 --> 00:22:49,50 	the goateed pickpocket steals the inspector's wallet and runs off dragging him by the elastic cord.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS367 	00:55:19,00 --> 00:55:26,50 	his parachute opens and drags him backward, but he clings to the plane's tail.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS391 	00:57:55,00 --> 00:58:00,50 	snowy drags a large bone then drops it.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS657 	01:28:58,00 --> 01:29:14,50 	as they fight the crane lifts the car, smashes it into a brick wall, then drags it up the wall.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS661 	01:29:27,00 --> 01:29:38,50 	someone rushes into the control cab, grabs someone and drags him across the floor and tosses him over the railing.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS705 	01:34:00,00 --> 01:34:05,50 	inspectors someone and someone drag someone out of the water.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS81 	00:15:53,00 --> 00:16:20,50 	with a grin, he steps to the side dragging his foot and tracking a long smear.
-THE_CALL.srt 	THE_CALL_DVS270 	00:22:59,00 --> 00:23:04,50 	her body falls limp and he drags her to the sedan.
-THE_CALL.srt 	THE_CALL_DVS1100 	01:22:43,00 --> 01:23:03,50 	he drags the struggling woman across the room.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS451 	00:52:59,00 --> 00:53:04,50 	her hand bumps it shut as someone drags her back.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS855 	01:36:07,00 --> 01:36:12,50 	she drags a chair to the corner of the room climbs on top and mounts one camera from the ceiling.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS900 	01:39:53,00 --> 01:39:58,50 	someone drags off the cigarette.
-TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS120 	00:13:45,00 --> 00:13:51,50 	fairies point magic wands and drag him back to someone.
-TRUE_GRIT.srt 	TRUE_GRIT_DVS297 	01:03:20,00 --> 01:03:25,50 	one of them lassoes him with a rope, pulls him over, he drags him along the ground.
-TRUE_GRIT.srt 	TRUE_GRIT_DVS302 	01:03:41,00 --> 01:03:47,50 	someone gets dragged around in the dirt.
-TRUE_GRIT.srt 	TRUE_GRIT_DVS423 	01:23:16,00 --> 01:23:21,50 	out of sight in the trees, he drags her to her feet and they continue.
 TRUE_GRIT.srt 	TRUE_GRIT_DVS500 	01:33:51,00 --> 01:33:56,50 	dragging him closer with surprising ease.
 TRUE_GRIT.srt 	TRUE_GRIT_DVS552 	01:38:42,00 --> 01:38:47,50 	someone drags someone away from him.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS409 	00:34:39,00 --> 00:34:46,50 	water surges around someone's head as the vessel drags him in its wake.

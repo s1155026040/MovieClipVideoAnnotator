@@ -1,29 +1,36 @@
-0001_American_Beauty_01.48.48.603-01.48.51.030 	CLOSE on Carolyn's eyes, reflected in the REAR-VIEW MIRROR.
-0004_Charade_01.23.55.919-01.23.58.306 	ADAM, before hanging up, reflects on TEX's words, then looks behind him.
-0009_Forrest_Gump_02.08.31.814-02.08.36.680 	A lake reflects the mountains and the sky.
-0011_Gandhi_00.51.04.201-00.51.06.224 	The camera races with the train along the river's edge, the reflected sun glimmering on the windows.
-0011_Gandhi_01.03.05.502-01.03.07.525 	The solemn intensity of her gaze reflects her identification with the man's agony.
-0011_Gandhi_01.57.37.083-01.57.38.858 	The reporters scribble, watching the Judge even as they write, because the mere doubt in the Judge's face reflects on the whole position of the British to India.
-0021_Rear_Window_01.18.50.574-01.18.54.974 	None of the gaiety is reflected in Lisa and Jeff.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.02.01.222-00.02.04.766 	The ONE RING reflecting FIERY LAVA!
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.19.46.779-02.19.48.375 	The night sky is reflected into the water.
-0026_The_Big_Fish_01.05.19.822-01.05.21.760 	The same image of Don's dead face on the tile is reflected in The Eye.
-0029_The_Graduate_00.16.22.203-00.16.24.086 	There is a movement reflected in the glass of the portrait.
-0029_The_Graduate_00.31.56.024-00.31.57.850 	Over Ben's shoulder, we can see his face reflected in the glass door and, through it, Mrs. Robinson sitting in the Veranda Room.
-0029_The_Graduate_01.00.10.479-01.00.12.527 	The stripper is reflected in Ben's glasses.
-0030_The_Hustler_00.13.11.801-00.13.12.865 	Fats' clothes reflect his high station at Ames Pool Hall: a gray felt bowler hat, and an expensive, tailored overcoat, with a carnation in its lapel and two silk handkerchiefs peeking up from its breast pocket.
-0031_The_Lost_Weekend_01.34.27.980-01.34.34.173 	Helen, looking around desperately, sees something reflected in the shaving mirror: THE GUN IN THE WASH BOWL.
-0049_Hannah_and_her_sisters_00.12.54.199-00.12.55.264 	Mickey, as reflected in the mirror, starts to pace as the.
-0049_Hannah_and_her_sisters_01.37.41.368-01.37.43.168 	He is seen through the glass doors, which still reflect the street and traffic outside.
-0053_Rendezvous_mit_Joe_Black_01.16.49.388-01.16.52.733 	Parrish regards Joe, then Susan, his face reflects a sudden concern with their relationship.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.38.39.080-01.38.43.724 	Harry peeks out, his image reflected in a mirror.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.40.50.577-01.40.53.552 	As Ginny leads him forward, they are reflected in the mirror behind.
-1002_Harry_Potter_and_the_Half-Blood_Prince_02.00.53.073-02.00.55.111 	Their wands reflected in the dark surface.
-1005_Signs_01.00.56.410-01.01.02.270 	Turning the knife in different directions, cans, bottles, and boxes of food are reflected in the blade.
-1005_Signs_01.08.10.530-01.08.14.580 	His features sagging mournfully as he reflects on the presenter's words.
+0001_American_Beauty_01.48.48.603-01.48.51.030 	close on carolyn's eyes, reflected in the rear-view mirror.
+0004_Charade_01.23.55.919-01.23.58.306 	adam, before hanging up, reflects on tex's words, then looks behind him.
+0009_Forrest_Gump_02.08.31.814-02.08.36.680 	a lake reflects the mountains and the sky.
+0011_Gandhi_00.51.04.201-00.51.06.224 	the camera races with the train along the river's edge, the reflected sun glimmering on the windows.
+0011_Gandhi_01.03.05.502-01.03.07.525 	the solemn intensity of her gaze reflects her identification with the man's agony.
+0011_Gandhi_01.57.37.083-01.57.38.858 	the reporters scribble, watching the judge even as they write, because the mere doubt in the judge's face reflects on the whole position of the british to india.
+0021_Rear_Window_01.18.50.574-01.18.54.974 	none of the gaiety is reflected in lisa and jeff.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.02.01.222-00.02.04.766 	the one ring reflecting fiery lava!
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.19.46.779-02.19.48.375 	the night sky is reflected into the water.
+0026_The_Big_Fish_01.05.19.822-01.05.21.760 	the same image of don's dead face on the tile is reflected in the eye.
+0027_The_Big_Lebowski_00.10.04.215-00.10.06.564 	reflected in the plaque we see the dude entering the room with a young man.
+0029_The_Graduate_00.16.22.203-00.16.24.086 	there is a movement reflected in the glass of the portrait.
+0029_The_Graduate_00.31.56.024-00.31.57.850 	over ben's shoulder, we can see his face reflected in the glass door and, through it, mrs. robinson sitting in the veranda room.
+0029_The_Graduate_01.00.10.479-01.00.12.527 	the stripper is reflected in ben's glasses.
+0030_The_Hustler_00.13.11.801-00.13.12.865 	fats' clothes reflect his high station at ames pool hall: a gray felt bowler hat, and an expensive, tailored overcoat, with a carnation in its lapel and two silk handkerchiefs peeking up from its breast pocket.
+0031_The_Lost_Weekend_01.34.27.980-01.34.34.173 	helen, looking around desperately, sees something reflected in the shaving mirror: the gun in the wash bowl.
+0049_Hannah_and_her_sisters_00.12.54.199-00.12.55.264 	mickey, as reflected in the mirror, starts to pace as the.
+0049_Hannah_and_her_sisters_00.45.50.685-00.46.03.399 	the camera moves in on hannah's face as she reflects, her voice heard over the screen.
+0049_Hannah_and_her_sisters_00.46.03.399-00.46.23.918 	the camera leaves hannah's face as she continues to reflect; it moves to the den, to the row of family photos on the piano: one of a present-day evan and norma, others where both norma and evan are young, beautiful, hopeful.
+0049_Hannah_and_her_sisters_00.49.24.950-00.49.29.755 	suddenly he stops, his hand to his mouth, reflecting.
+0049_Hannah_and_her_sisters_01.37.41.368-01.37.43.168 	he is seen through the glass doors, which still reflect the street and traffic outside.
+0053_Rendezvous_mit_Joe_Black_01.16.49.388-01.16.52.733 	parrish regards joe, then susan, his face reflects a sudden concern with their relationship.
+1002_Harry_Potter_and_the_Half-Blood_Prince_00.01.12.030-00.01.18.433 	reflected in the glass of a tall office building, the brooding storm clouds settle over the city of london.
+1002_Harry_Potter_and_the_Half-Blood_Prince_01.38.39.080-01.38.43.724 	harry peeks out, his image reflected in a mirror.
+1002_Harry_Potter_and_the_Half-Blood_Prince_01.40.50.577-01.40.53.552 	as ginny leads him forward, they are reflected in the mirror behind.
+1002_Harry_Potter_and_the_Half-Blood_Prince_02.00.53.073-02.00.55.111 	their wands reflected in the dark surface.
+1005_Signs_00.55.46.300-00.55.47.967 	ray bows his head and reflects.
+1005_Signs_01.00.56.410-01.01.02.270 	turning the knife in different directions, cans, bottles, and boxes of food are reflected in the blade.
+1005_Signs_01.08.10.530-01.08.14.580 	his features sagging mournfully as he reflects on the presenter's words.
 1007_Spider-Man1_00.48.21.263-00.48.24.830 	he reflects on uncle ben lying on the ground then backs away.
 1008_Spider-Man2_00.42.49.250-00.42.51.293 	her face reflected in one of them.
 1008_Spider-Man2_00.44.53.661-00.44.58.195 	as he lowers the blade, he sees something reflected in another medic's goggles.
+1008_Spider-Man2_01.08.15.283-01.08.18.593 	he nods again, and peter reflects.
 1011_The_Help_00.00.11.190-00.00.12.624 	a crescent moon drifting amid clouds is reflected in still water.
 1012_Unbreakable_00.00.55.705-00.00.57.729 	people are reflected in the mirror of a shop changing room, peering in nervously.
 1012_Unbreakable_00.01.56.432-00.01.59.615 	still reflected in the mirror, the doctor looks up at the saleswoman.
@@ -49,6 +56,7 @@
 1049_Harry_Potter_and_the_chamber_of_secrets_02.04.39.576-02.04.43.540 	the head is reflected in the water beneath.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.35.29.709-01.35.32.658 	the mirror reflects an empty room.
 1051_Harry_Potter_and_the_goblet_of_fire_01.04.50.500-01.04.53.521 	gray clouds are reflected in the waters of the lake.
+1051_Harry_Potter_and_the_goblet_of_fire_01.43.26.390-01.43.38.039 	reflected in the mirror, he gazes down into the shining blue bowl.
 1052_Harry_Potter_and_the_order_of_phoenix_00.03.10.123-00.03.13.602 	ahead of them, the grimy underpass is dimly lit by yellow lamps reflected in the puddles of water underfoot.
 1052_Harry_Potter_and_the_order_of_phoenix_00.10.09.017-00.10.17.399 	they pass the flood-lit houses of parliament, reflected in the water like a huge ocean liner.
 1052_Harry_Potter_and_the_order_of_phoenix_01.07.45.625-01.07.50.674 	a snake reflected in the shining black.
@@ -58,16 +66,9 @@
 1056_Rambo_00.44.22.000-00.44.30.363 	trees are reflected in the water's surface.
 1056_Rambo_00.51.20.000-00.51.22.063 	in the truck, rambo's eye-line and bandana are reflected in bn's driving mirror.
 1060_Yes_man_00.00.02.929-00.00.16.559 	rows of film studio buildings reflected in the shiny gold surface of a shield with the letters wb in its center.
+1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.02.00.604-00.02.05.875 	he sees himself reflected, then a face other than his own.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.27.07.887-00.27.16.145 	next to it, hermione spots a mirror and sees harry's face reflected back at her.
-1062_Day_the_Earth_stood_still_00.01.04.560-00.01.08.000 	a circle of reflected sunlight and the earth form the two os.
-1062_Day_the_Earth_stood_still_00.49.51.000-00.50.00.172 	as she pulls into a rain-drenched parking lot, an illuminated golden arches sign is reflected in the car's windscreen.
-2027_Les_Miserables_01.04.03.834-01.04.06.395 	he looks down at the lights reflected in the river below.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.07.10.181-00.07.14.001 	the street lights are reflected in the puddles on the damp pavements.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.23.54.062-00.24.01.351 	he stares at his own worried face reflected in the glass.
-1056_Rambo_00.44.22.000-00.44.30.363 	trees are reflected in the water's surface.
-1056_Rambo_00.51.20.000-00.51.22.063 	in the truck, rambo's eye-line and bandana are reflected in bn's driving mirror.
-1060_Yes_man_00.00.02.929-00.00.16.559 	rows of film studio buildings reflected in the shiny gold surface of a shield with the letters wb in its center.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.27.07.887-00.27.16.145 	next to it, hermione spots a mirror and sees harry's face reflected back at her.
+1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.38.02.750-01.38.07.934 	reflects on his face.
 1062_Day_the_Earth_stood_still_00.01.04.560-00.01.08.000 	a circle of reflected sunlight and the earth form the two os.
 1062_Day_the_Earth_stood_still_00.49.51.000-00.50.00.172 	as she pulls into a rain-drenched parking lot, an illuminated golden arches sign is reflected in the car's windscreen.
 2027_Les_Miserables_01.04.03.834-01.04.06.395 	he looks down at the lights reflected in the river below.

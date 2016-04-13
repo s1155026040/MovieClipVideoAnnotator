@@ -1,6 +1,2 @@
 GET_HIM_TO_THE_GREEK.srt 	GET_HIM_TO_THE_GREEK_DVS12 	00:06:55,00 --> 00:07:00,50 	she dawns a sleep mask.
-JACK_AND_JILL.srt 	JACK_AND_JILL_DVS351 	01:06:37,00 --> 01:06:44,50 	padding his rear end with a life vest, he dawns the floral dress and a long wig.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS57 	00:04:11,00 --> 00:04:18,50 	dawning glasses he peruses a file as the news broadcasts behind him.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS611 	01:07:40,00 --> 01:07:45,50 	she throws down a pillow and then dawns a clear face shield.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1422 	02:32:38,00 --> 02:32:43,50 	then dawns her helmet and mounts her bike.
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS56 	00:13:57,00 --> 00:14:02,50 	he dawns glasses from a display and grins.

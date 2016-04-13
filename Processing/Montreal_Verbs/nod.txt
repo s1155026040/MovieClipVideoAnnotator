@@ -1,110 +1,67 @@
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS188 	00:32:50,00 --> 00:32:55,50 	someone eyes someone who nods.
 30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS55 	00:12:07,00 --> 00:12:11,50 	he nods.
 30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS181 	00:47:38,00 --> 00:47:41,50 	she nods.
-30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS266 	01:03:34,00 --> 01:03:40,50 	someone shifts his gaze then nods understandingly.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS629 	01:05:16,00 --> 01:05:21,50 	looking away, someone nods a little.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS218 	00:41:51,00 --> 00:41:55,50 	he nods vigorously.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS225 	00:43:40,00 --> 00:43:45,50 	he nods.
-A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS453 	01:18:33,00 --> 01:18:39,50 	he nods more vigorously, then stares into his mother's eyes.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS218 	00:30:54,00 --> 00:31:02,50 	she nods.
 BAD_TEACHER.srt 	BAD_TEACHER_DVS123 	00:33:29,00 --> 00:33:35,50 	nodding someone fakes a someone.
 BAD_TEACHER.srt 	BAD_TEACHER_DVS310 	01:23:55,00 --> 01:24:00,50 	the other teachers nod.
-BURLESQUE.srt 	BURLESQUE_DVS85 	00:08:28,00 --> 00:08:37,50 	the dancers tap their heels, then nod to a neighboring stage where musicians play.
 BURLESQUE.srt 	BURLESQUE_DVS245 	00:35:50,00 --> 00:35:54,50 	he nods.
-BURLESQUE.srt 	BURLESQUE_DVS377 	00:52:10,00 --> 00:52:16,50 	someone shifts her gaze from coco to another dancer, who nods.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS534 	00:52:02,00 --> 00:52:07,50 	her lips part as she nods.
-CHRONICLE.srt 	CHRONICLE_DVS133 	00:19:53,00 --> 00:19:57,50 	as he nods off, the camera falls.
-CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS193 	00:40:26,00 --> 00:40:39,50 	he nods to a man in a suit and walks into the smoky lounge.
-CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS395 	01:35:58,00 --> 01:36:05,50 	bathed in sunlight, someone looks down at his lawyer who nods.
-CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS419 	01:41:45,00 --> 01:41:52,50 	staring fearfully, the children nod.
-CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS456 	01:47:30,00 --> 01:47:34,50 	he nods then looks forward.
-CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS481 	01:50:17,00 --> 01:50:27,50 	she nods, smiling broadly.
 COLOMBIANA.srt 	COLOMBIANA_DVS134 	00:11:54,00 --> 00:11:58,50 	she nods.
-COLOMBIANA.srt 	COLOMBIANA_DVS468 	00:41:07,00 --> 00:41:12,50 	he glances at someone warren who nods.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS71 	00:09:57,00 --> 00:10:02,50 	she nods, beaming.
 DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS75 	00:13:11,00 --> 00:13:15,50 	he nods.
 EASY_A.srt 	EASY_A_DVS154 	00:48:23,00 --> 00:48:30,50 	he nods, then waggles a finger at a scarlet a on her pink bustier.
 EASY_A.srt 	EASY_A_DVS193 	01:00:35,00 --> 01:00:41,50 	she nods emphatically.
 FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS60 	00:15:54,00 --> 00:16:10,50 	all three strike stylized poses and nod their heads in unison.
 GET_HIM_TO_THE_GREEK.srt 	GET_HIM_TO_THE_GREEK_DVS17 	00:09:21,00 --> 00:09:26,50 	hurls his cell out of the door then nods at the executive.
-GET_HIM_TO_THE_GREEK.srt 	GET_HIM_TO_THE_GREEK_DVS129 	01:16:38,00 --> 01:16:43,50 	lifting his brow he nods earnestly.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS115 	00:27:49,00 --> 00:28:09,50 	the official glances to a comrade then nods.
-GREEN_ZONE.srt 	GREEN_ZONE_DVS115 	00:27:49,00 --> 00:28:09,50 	he nods to the official's opponent who leaves.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS180 	00:46:34,00 --> 00:46:40,50 	she hands him her contact info and he nods.
-GREEN_ZONE.srt 	GREEN_ZONE_DVS362 	01:23:12,00 --> 01:23:25,50 	as he stares at his imposing superior, someone nods him toward the door.
-HUGO.srt 	HUGO_DVS467 	01:08:13,00 --> 01:08:18,50 	he smiles at the flower then nods to someone.
 HUGO.srt 	HUGO_DVS623 	01:30:48,00 --> 01:30:53,50 	someone glances at someone then nods.
 HUGO.srt 	HUGO_DVS792 	01:55:13,00 --> 01:55:18,50 	he nods to the audience then bows to someone.
 IN_TIME.srt 	IN_TIME_DVS924 	01:37:33,00 --> 01:37:39,50 	she nods.
-INSIDE_MAN.srt 	INSIDE_MAN_DVS284 	01:27:28,00 --> 01:27:44,50 	nodding his head slightly, someone walks off.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS402 	01:15:48,00 --> 01:15:53,50 	someone stares at his mustached father, who nods and smiles.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS163 	00:53:36,00 --> 00:53:40,50 	she nods at someone.
-ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS275 	01:17:40,00 --> 01:17:45,50 	they nod then drive off.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS329 	01:33:27,00 --> 01:33:36,50 	she nods irritably to herself.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS413 	01:54:11,00 --> 01:54:16,50 	he nods at her beaming.
 JACK_AND_JILL.srt 	JACK_AND_JILL_DVS436 	01:21:08,00 --> 01:21:12,50 	she nods.
-JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS123 	00:21:05,00 --> 00:21:12,50 	he shifts his gaze then nods.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS462 	01:29:52,00 --> 01:29:57,50 	she nods again, her face solemn.
 JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS28 	00:06:33,00 --> 00:06:37,50 	she nods.
-JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS236 	01:23:33,00 --> 01:23:39,50 	gazing into his eyes, someone softly nods.
-KARATE_KID.srt 	KARATE_KID_DVS167 	00:14:02,00 --> 00:14:08,50 	he shows it to the aging players at the table, who nod.
 KARATE_KID.srt 	KARATE_KID_DVS186 	00:16:07,00 --> 00:16:10,50 	she nods.
-KARATE_KID.srt 	KARATE_KID_DVS1133 	01:34:13,00 --> 01:34:19,50 	someone leaves the stage as the judges chat and nod.
 KNOCKED_UP.srt 	KNOCKED_UP_DVS151 	01:34:43,00 --> 01:34:48,50 	she nods to herself then cracks up.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS441 	00:50:34,00 --> 00:50:38,50 	the teen nods off again.
 MORNING_GLORY.srt 	MORNING_GLORY_DVS46 	00:07:58,00 --> 00:08:04,50 	she nods miserably.
 MORNING_GLORY.srt 	MORNING_GLORY_DVS132 	00:31:29,00 --> 00:31:33,50 	she nods.
-MORNING_GLORY.srt 	MORNING_GLORY_DVS232 	00:51:58,00 --> 00:52:03,50 	she nods off, but awakens as her head drops.
 MORNING_GLORY.srt 	MORNING_GLORY_DVS234 	00:52:11,00 --> 00:52:15,50 	she nods off again.
-MORNING_GLORY.srt 	MORNING_GLORY_DVS398 	01:27:06,00 --> 01:27:13,50 	he nods pensively and gazes ahead.
-MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS30 	00:04:28,00 --> 00:04:32,50 	he nods to someone who turns on a fan.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS195 	00:27:54,00 --> 00:27:58,50 	she nods skeptically.
-MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS580 	01:09:39,00 --> 01:09:43,50 	without turning, he nods.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS609 	01:12:58,00 --> 01:13:03,50 	they nod.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS390 	01:22:20,00 --> 01:22:26,50 	she nods tearfully.
 NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS344 	01:04:18,00 --> 01:04:23,50 	she nods.
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS252 	01:00:32,00 --> 01:00:36,50 	he nods.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS383 	01:13:55,00 --> 01:14:00,50 	someone nods his head at someone.
 SALT.srt 	SALT_DVS18 	00:03:13,00 --> 00:03:19,50 	he nods toward an unshaven man.
-SALT.srt 	SALT_DVS482 	01:23:03,00 --> 01:23:17,50 	a tiny smile touches someone's lips and he nods.
 SANCTUM.srt 	SANCTUM_DVS30 	00:07:03,00 --> 00:07:08,50 	she nods.
 SANCTUM.srt 	SANCTUM_DVS417 	01:20:47,00 --> 01:20:53,50 	someone's lips spread into a smile and he nods.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS87 	00:17:06,00 --> 00:17:10,50 	she nods.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS162 	00:31:35,00 --> 00:31:41,50 	two spectators stare curiously at someone and he nods at someone.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS283 	00:57:48,00 --> 00:57:55,50 	the student nods uneasily, flashes a meek smile, and faints.
-SOUL_SURFER.srt 	SOUL_SURFER_DVS30 	00:10:10,00 --> 00:10:15,50 	someone's father looks at his wife who nods.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS461 	01:15:51,00 --> 01:15:56,50 	he nods his head several times.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS398 	01:15:35,00 --> 01:15:40,50 	staring at her intently, he nods.
-THE_CALL.srt 	THE_CALL_DVS172 	00:13:59,00 --> 00:14:05,50 	she nods to her friend and they both face their terminals.
-THE_CALL.srt 	THE_CALL_DVS199 	00:15:58,00 --> 00:16:05,50 	resting her chin in her hand and keeping her eyes on the city, she nods.
 THE_CALL.srt 	THE_CALL_DVS203 	00:16:48,00 --> 00:16:52,50 	she nods.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS35 	00:06:51,00 --> 00:06:55,50 	she nods emphatically.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS39 	00:07:27,00 --> 00:07:35,50 	she nods plainly.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS334 	00:51:41,00 --> 00:51:46,50 	nodding softly, someone shifts his thoughtful gaze.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS721 	01:40:37,00 --> 01:40:41,50 	and he nods sadly.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS601 	01:06:28,00 --> 01:06:33,50 	someone vigorously nods his head.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1259 	02:12:29,00 --> 02:12:33,50 	he nods.
 THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS159 	00:54:07,00 --> 00:54:15,50 	after a moment, a small smile forms on someone's lips, and she nods slightly to herself.
-THE_SITTER.srt 	THE_SITTER_DVS131 	01:10:15,00 --> 01:10:22,50 	she turns to him tearfully and he nods.
-THE_VOW.srt 	THE_VOW_DVS700 	01:37:40,00 --> 01:37:46,50 	she nods then lifts her eyes to the falling snow.
-THE_WATCH.srt 	THE_WATCH_DVS433 	01:19:30,00 --> 01:19:34,50 	they nod to her and leave.
 THOR.srt 	THOR_DVS425 	01:08:13,00 --> 01:08:17,50 	someone blinks at someone then nods.
 THOR.srt 	THOR_DVS428 	01:08:31,00 --> 01:08:36,50 	the men nod to one another then drink.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS572 	01:03:20,00 --> 01:03:24,50 	he nods.
-TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS892 	01:34:17,00 --> 01:34:22,50 	smiling tearfully, she nods.
 TRUE_GRIT.srt 	TRUE_GRIT_DVS521 	01:35:24,00 --> 01:35:29,50 	she nods at her hand which he grasps.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS355 	00:41:59,00 --> 00:42:04,50 	she nods.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS420 	01:06:49,00 --> 01:06:56,50 	struggling to remain composed, she nods.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS803 	01:53:37,00 --> 01:53:41,50 	she nods.
-WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS435 	01:01:37,00 --> 01:01:41,50 	taking off his socks, he nods.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS485 	01:07:59,00 --> 01:08:02,50 	she nods.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS926 	01:25:32,00 --> 01:25:35,50 	he nods.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1029 	01:33:05,00 --> 01:33:09,50 	he nods.
 YOUNG_ADULT.srt 	YOUNG_ADULT_DVS47 	00:06:42,00 --> 00:06:47,50 	nodding her head, someone smiles.
 YOUNG_ADULT.srt 	YOUNG_ADULT_DVS119 	00:20:50,00 --> 00:20:53,50 	he nods.
-YOUNG_ADULT.srt 	YOUNG_ADULT_DVS250 	00:48:03,00 --> 00:48:10,50 	someone gazes at someone who smiles and nods his head as he watches the band.
-YOUNG_ADULT.srt 	YOUNG_ADULT_DVS255 	00:49:09,00 --> 00:49:15,50 	furrowing his brow, he nods.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS467 	00:54:40,00 --> 00:54:43,50 	they nod.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS529 	01:02:18,00 --> 01:02:26,50 	he nods.
-ZOOKEEPER.srt 	ZOOKEEPER_DVS246 	00:55:00,00 --> 00:55:05,50 	nodding along to the beat, he looks to an apartment building.
-ZOOKEEPER.srt 	ZOOKEEPER_DVS311 	01:09:15,00 --> 01:09:20,50 	someone looks up at someone who nods.

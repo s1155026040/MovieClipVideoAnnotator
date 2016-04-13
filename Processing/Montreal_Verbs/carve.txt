@@ -1,19 +1,6 @@
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS47 	00:06:35,00 --> 00:06:43,50 	the nazi officer turns and walks toward the wooden panel which is carved with the image of a tree.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS152 	00:12:11,00 --> 00:12:15,50 	he rises and crouches, carving up and down the face of the wave.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS184 	00:14:25,00 --> 00:14:33,50 	a curly haired teenage someone runs his hand along a wave as he easily carves up and down its face.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS192 	00:14:56,00 --> 00:15:04,50 	someone finishes by carving up the top of the wave and leaping over it with his hands on the rails.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS590 	00:56:57,00 --> 00:57:02,50 	someone carves his way up and down the face.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS597 	00:57:39,00 --> 00:57:46,50 	he carves up the wave, descends to the base, then rides up the face for another turn.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS417 	01:00:30,00 --> 01:00:36,50 	he heads down a stairway carved into the stone.
-ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS253 	01:11:45,00 --> 01:11:52,50 	someone stops carving the chicken and turns in someone's direction still holding her knife.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS559 	01:00:59,00 --> 01:01:06,50 	someone carves an eleventh with his knife.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS739 	01:17:06,00 --> 01:17:15,50 	sitting on his raft, someone uses a knife to carve a wood panel from the boat into a slim, pointy spear.
 LITTLE_FOCKERS.srt 	LITTLE_FOCKERS_DVS67 	00:24:15,00 --> 00:24:20,50 	as he carves, someone peeks over the table.
-NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS77 	00:17:31,00 --> 00:17:37,50 	makes a mechanical wood carved man pump up and down.
-PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS352 	01:26:31,00 --> 01:26:39,50 	carved reliefs of bound, emaciated men flank a tall fireplace.
-PROMETHEUS.srt 	PROMETHEUS_DVS296 	00:29:14,00 --> 00:29:22,50 	her helmet's computerized view shows long, low entrances carved into the dome's base.
 PROMETHEUS.srt 	PROMETHEUS_DVS372 	00:36:43,00 --> 00:36:50,50 	at the door, holloway and someone spy ancient text carved into the stone.
 PROMETHEUS.srt 	PROMETHEUS_DVS418 	00:42:19,00 --> 00:42:29,50 	above, thick black clouds engulf the dome and the enormous carved skull on its crest.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS391 	01:36:55,00 --> 01:37:10,50 	the intricately carved stone cross stands unharmed in the deserted village center.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS90 	00:12:51,00 --> 00:13:00,50 	someone shines his flashlight over the house's ivory covered exterior, then onto a fish carved above the front door.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS545 	01:00:11,00 --> 01:00:20,50 	two lines carve onto the ice as the invisible someone skates out.

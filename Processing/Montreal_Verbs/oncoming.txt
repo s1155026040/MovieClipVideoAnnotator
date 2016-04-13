@@ -1,15 +1,4 @@
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS638 	01:36:05,00 --> 01:36:14,50 	the silver and black limos swerve between lane barriers and speed through oncoming traffic.
-30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS196 	00:50:24,00 --> 00:50:30,50 	he briefly veers into the opposite lane toward oncoming traffic.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS268 	00:23:13,00 --> 00:23:22,50 	further on, someone leads the way, weaving through oncoming traffic.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS222 	00:39:17,00 --> 00:39:29,50 	still standing in the middle of the street, the stern-faced someone fires her pistol into the windshield of the oncoming cab.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS230 	00:40:15,00 --> 00:40:22,50 	someone leaps onto the roof of an oncoming car, then jumps from vehicle to vehicle.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS26 	00:03:57,00 --> 00:04:12,50 	an oncoming car swerves around the hatchback, almost hits someone, then swipes the suv.
 HUGO.srt 	HUGO_DVS765 	01:51:09,00 --> 01:51:15,50 	someone glances down the rails at an oncoming train then at the automaton.
-IN_TIME.srt 	IN_TIME_DVS434 	00:46:32,00 --> 00:46:49,50 	someone veers into the oncoming lane and swerves around the approaching cars.
-IN_TIME.srt 	IN_TIME_DVS434 	00:46:32,00 --> 00:46:49,50 	someone's auburn hair blows across her face as she stares slack-jawed at the oncoming traffic.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1274 	01:26:07,00 --> 01:26:14,50 	on the opposite page, an illustration shows light from an oncoming train shining brightly from a round tunnel.
-SUPER_8.srt 	SUPER_8_DVS100 	00:17:11,00 --> 00:17:17,50 	the truck turns onto the track and speeds toward the oncoming train.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS312 	00:56:58,00 --> 00:57:13,50 	someone veers onto the shoulder, then into oncoming traffic on a one-way street.
-THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS87 	00:29:47,00 --> 00:29:56,50 	back on the road, at an oncoming intersection, someone spots a hitchhiker signaling for a lift.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS395 	00:33:14,00 --> 00:33:24,50 	he hurls them at the oncoming boats.
-ZOMBIELAND.srt 	ZOMBIELAND_DVS653 	01:13:31,00 --> 01:13:45,50 	he pauses to fire at a group of oncoming attackers.

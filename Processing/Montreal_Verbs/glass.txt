@@ -1,11 +1,4 @@
-A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS24 	00:04:47,00 --> 00:04:55,50 	sitting at a crowded desk, stacked with manuscripts, a young man with dark curly hair and glasses answers telephones.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS88 	00:14:02,00 --> 00:14:09,50 	a short distance away, a balding man with a goatee and glasses studies someone and someone.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS107 	00:17:54,00 --> 00:18:06,50 	inside, a man with round frame glasses works in a laboratory.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS648 	01:48:56,00 --> 01:49:02,50 	in a pub, the men of the 107th clink glasses together.
-JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS128 	00:46:15,00 --> 00:46:20,50 	he points to his round glasses.
-JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS134 	00:47:56,00 --> 00:48:15,50 	ogling her, someone lifts his round glasses.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS565 	01:18:42,00 --> 01:18:48,50 	someone peers through his opera glasses at someone and the falcon,
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS488 	00:55:52,00 --> 00:55:58,50 	the journalist moves his reading glasses to his brow
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS557 	01:02:14,00 --> 01:02:21,50 	he wears his reading glasses around his chin as he studies the abutting city blocks.
-THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS39 	00:09:41,00 --> 00:09:48,50 	he goes to his mother's room to find her fast asleep, with her reading glasses still on.
 THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS164 	00:54:34,00 --> 00:54:38,50 	a waitress hands them glasses of water.

@@ -1,5 +1,2 @@
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS525 	01:33:48,00 --> 01:33:55,50 	later, troopers lead someone, now handcuffed, into a large room inside the base.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS639 	01:48:18,00 --> 01:48:23,50 	one officer handcuffs someone.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS238 	00:46:29,00 --> 00:46:36,50 	he leads someone into a grungy bathroom where someone sits handcuffed to a pipe.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS579 	01:44:43,00 --> 01:44:55,50 	now, someone strolls outside passing an officer and handcuffed teen on their way in.
 TRUE_GRIT.srt 	TRUE_GRIT_DVS264 	00:54:43,00 --> 00:54:51,50 	inside, someone stares at the two scruffy, dirty men, now handcuffed.

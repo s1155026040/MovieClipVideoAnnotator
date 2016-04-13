@@ -1,11 +1,11 @@
-0003_CASABLANCA_00.37.47.213-00.37.48.955 	Then he raises his head, trying to regain control.
-0006_Clerks_00.10.45.609-00.10.54.562 	DANTE tries to regain his composure.
-0009_Forrest_Gump_01.30.50.279-01.31.00.196 	She slips over the edge, regains her balance, turns and looks back at the intersection below, and begins to get down from the edge.
-0023_THE_BUTTERFLY_EFFECT_00.25.32.479-00.25.40.836 	Evan regains himself and sits up painfully.
+0003_CASABLANCA_00.37.47.213-00.37.48.955 	then he raises his head, trying to regain control.
+0006_Clerks_00.10.45.609-00.10.54.562 	dante tries to regain his composure.
+0009_Forrest_Gump_01.30.50.279-01.31.00.196 	she slips over the edge, regains her balance, turns and looks back at the intersection below, and begins to get down from the edge.
+0023_THE_BUTTERFLY_EFFECT_00.25.32.479-00.25.40.836 	evan regains himself and sits up painfully.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.32.07.894-01.32.08.313 	struggling to regain the power of speech.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.20.44.637-02.21.05.431 	SAM appears -- and before the URUK-HAI can fully regain their wits -- he slays THREE.
-0050_Indiana_Jones_and_the_last_crusade_00.06.12.948-00.06.16.897 	Indy loses his balance but regains it.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.46.54.827-00.46.59.962 	He regains his seat on the broomstick, and watched by Hermione, clings on anxiously.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.20.44.637-02.21.05.431 	sam appears -- and before the uruk-hai can fully regain their wits -- he slays three.
+0050_Indiana_Jones_and_the_last_crusade_00.06.12.948-00.06.16.897 	indy loses his balance but regains it.
+1002_Harry_Potter_and_the_Half-Blood_Prince_00.46.54.827-00.46.59.962 	he regains his seat on the broomstick, and watched by hermione, clings on anxiously.
 1008_Spider-Man2_01.56.25.856-01.56.28.255 	octavius, sitting in the water, regains consciousness.
 1015_27_Dresses_00.25.28.487-00.25.33.155 	trying to regain her composure, she rejoins kevin in the club, who's waiting, eyebrows raised.
 1029_Pride_And_Prejudice_Disk_One_01.20.59.733-01.21.06.536 	knowing the laughter is at him, he regains his composure before heading down the stairs.
@@ -14,9 +14,7 @@
 1049_Harry_Potter_and_the_chamber_of_secrets_02.13.27.555-02.13.32.492 	he regained his footing and climbs up even higher.
 1051_Harry_Potter_and_the_goblet_of_fire_00.12.08.210-00.12.14.188 	harry slowly regains consciousness and sits up.
 1053_Harry_Potter_and_the_philosophers_stone_01.21.57.545-01.22.03.960 	quirrell and snape put out the fire and watch harry as he manages to regain control of the nimbus 2000.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.53.22.593-00.53.24.862 	harry seems to regain his strength.
-2017_Bad_Santa_00.28.06.946-00.28.10.110 	willie gets a chance to regain composure.
-1053_Harry_Potter_and_the_philosophers_stone_01.21.57.545-01.22.03.960 	quirrell and snape put out the fire and watch harry as he manages to regain control of the nimbus 2000.
+1057_Seven_pounds_01.44.23.903-01.44.38.449 	regaining his composure slightly, tim reaches for the phone on his bedside cabinet and makes a call.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.53.22.593-00.53.24.862 	harry seems to regain his strength.
 2017_Bad_Santa_00.28.06.946-00.28.10.110 	willie gets a chance to regain composure.
 2051_Harry_Potter_and_the_goblet_of_fire_01.01.30.281-01.01.36.621 	he falls a long way but regains control.

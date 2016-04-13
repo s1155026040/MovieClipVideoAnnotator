@@ -1,14 +1,7 @@
 0001_American_Beauty_00.24.04.556-00.24.09.247 	ricky serves himself scrambled eggs from another pan, then joins his father at the table.
 0001_American_Beauty_00.30.36.975-00.30.38.712 	carolyn quickly joins in.
 0001_American_Beauty_00.53.12.768-00.53.15.464 	after a moment, buddy kane, the real estate king, joins her.
-0001_American_Beauty_01.22.48.952-01.22.54.710 	he puts the digicam down and joins jane on the bed.
 0003_CASABLANCA_00.35.47.610-00.35.49.177 	they join renault at the curb.
-0003_CASABLANCA_00.38.38.486-00.38.52.978 	rick just stares ahead as orchestra music slowly joins sam's playing.
-0003_CASABLANCA_00.39.39.587-00.39.45.071 	she walks over and joins him.
-0004_Charade_00.04.31.265-00.04.32.887 	sylvie gaudet, french, attractive, blonde, in her early thirties, comes from the railing of the sun deck to join reggie and jean-louis.
-0004_Charade_01.04.47.670-01.04.48.557 	he looks up, then joins gideon.
-0004_Charade_01.29.30.246-01.29.37.304 	adam stands by the large fountain, staring off at something as reggie joins him.
-0004_Charade_01.33.28.257-01.33.34.657 	reggie runs up and joins them.
 0005_Chinatown_00.18.28.343-00.18.30.809 	she's shortly joined by a small, gray-haired man.
 0005_Chinatown_00.28.29.006-00.28.31.880 	gittes joins her.
 0006_Clerks_00.21.44.941-00.21.50.483 	randal grabs a paper and joins him behind the counter.
@@ -18,185 +11,91 @@
 0006_Clerks_01.12.54.817-01.12.57.429 	she joins them, latching on to dante's arm, lovingly.
 0006_Clerks_01.14.58.608-01.15.06.300 	ambulance attendants join them.
 0007_DIE_NACHT_DES_JAEGERS_00.10.44.602-00.10.45.593 	bart the hangman joins him with a silent salute.
-0007_DIE_NACHT_DES_JAEGERS_01.21.01.310-01.21.15.173 	after a moment we see her mouth open; and either to comfort herself or to drown out preacher's voice, she joins in the hymn.
-0007_DIE_NACHT_DES_JAEGERS_01.30.40.069-01.30.43.750 	ruby and rachel kiss like grown women and ruby goes to join the others.
-0007_DIE_NACHT_DES_JAEGERS_01.32.06.047-01.32.15.262 	john goes off towards the staircase to join the girls; then turns back.
-0010_Frau_Ohne_Gewissen_00.02.42.603-00.02.44.439 	he is pale and haggard with pain, but deadpans as night watchman joins him.
-0011_Gandhi_00.03.08.818-00.03.17.373 	we do not see him clearly until the very last moment -- only glimpses of him as he smiles, and exchanges little jokes with some of the crowd and the two young women who support him, occasionally joining his hands together in greeting to someone in particular, then once more proceeding with a hand on the shoulder of each of the girls.
 0011_Gandhi_00.03.41.400-00.03.44.001 	ignoring her, his nerves even more taut, godse joins his hands together and bows in greeting to the mahatma.
-0011_Gandhi_00.03.45.133-00.03.45.775 	he smiles and joins his hands together to exchange godse's greeting.
 0011_Gandhi_00.42.56.615-00.42.59.761 	she joins her hands, acknowledging a garland placed around her shoulders, and pushes on after gandhi.
 0011_Gandhi_00.58.54.144-00.58.55.918 	on the platform, the leaders join in perfunctorily.
 0011_Gandhi_01.55.50.234-01.55.51.825 	he laughs and nehru struggles to join in the joke.
-0011_Gandhi_02.09.11.156-02.09.14.948 	as the procession trails into the village, we see several villagers, knapsacks or bundles strung over their shoulders, run around the police and join the end of the procession.
-0011_Gandhi_02.48.49.702-02.48.51.083 	gandhi turns to pat their joined hands with his other hand.
 0012_Get_Shorty_00.01.53.413-00.01.55.484 	a moment later the manager, an old italian guy in a black suit, joins him in the doorway.
 0014_Ist_das_Leben_nicht_schoen_00.26.48.894-00.26.51.328 	george joins her in the singing as they proceed down the street.
 0014_Ist_das_Leben_nicht_schoen_00.53.01.231-00.53.02.291 	he motions to george to join him.
 0014_Ist_das_Leben_nicht_schoen_00.58.49.343-00.58.52.643 	cousin eustace slams and locks the door, and scurries around the counter to join the others.
-0014_Ist_das_Leben_nicht_schoen_01.17.05.383-01.17.11.378 	gower comes running across the street from his drugstore and joins them.
-0016_O_Brother_Where_Art_Thou_00.47.06.254-00.47.09.939 	everett joins delmar to look.
-0016_O_Brother_Where_Art_Thou_00.59.45.239-00.59.49.455 	he beams amid cheers and then, as three girls in gingham frocks run out to join him.
 0016_O_Brother_Where_Art_Thou_01.02.34.452-01.02.37.738 	a man in a straw boater joins them.
 0017_Pianist_00.13.26.606-00.13.29.224 	szpilman and henryk join her.
-0017_Pianist_00.28.59.511-00.29.02.208 	regina turns off the lights before joining them.
 0017_Pianist_00.44.02.265-00.44.05.242 	another man, grun, joins in.
 0017_Pianist_01.10.39.284-01.10.42.438 	szpilman joins in.
 0019_Pulp_Fiction_00.59.42.227-00.59.43.868 	jody hurriedly joins them in the huddle, a big fat red magic marker in her hand.
 0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.10.26.390-01.10.34.110 	2 more ringwraiths slide in from different directions to join the chase.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.38.06.513-00.38.09.119 	gandalf joins pippin as they look towards the distant, jagged mountains of mordor.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.52.33.554-02.52.50.098 	aragorn joins them -- the fellowship is complete.
-0026_The_Big_Fish_00.32.06.192-00.32.18.396 	he and beamen are joined by norther winslow (30), who fancies himself a cultured artist, though he's never left the state.
-0026_The_Big_Fish_00.46.18.388-00.46.24.229 	joining the crowd, he heads into the big-top.
-0027_The_Big_Lebowski_01.19.54.585-01.19.56.052 	he is joined on either side by woo and the blond man, all three men looking grimly down at the dude.
-0028_The_Crying_Game_01.24.32.406-01.24.39.300 	she sits down; he joins her.
 0029_The_Graduate_00.23.14.356-00.23.15.025 	he joins mr. arnold at the far end of the pool.
-0029_The_Graduate_01.16.10.104-01.16.13.395 	as she walks, she is joined by another girl with whom she converses as they walk.
-0029_The_Graduate_01.16.25.652-01.16.32.513 	as they approach, they are joined by a tall boy with a beard.
 0030_The_Hustler_00.01.51.225-00.01.52.750 	charlie joins eddie.
-0030_The_Hustler_00.42.22.703-00.42.29.623 	he takes his drink and joins her at the booth.
-0030_The_Hustler_00.53.01.642-00.53.05.827 	sarah, in a robe, walks up and joins him in bed as they both peer out the window.
-0030_The_Hustler_00.55.22.011-00.55.33.701 	she unloads liquor and canned goods from the carton, then goes to join eddie by the window.
-0030_The_Hustler_01.08.35.068-01.08.38.342 	a man in a business suit comes out of the back room and joins him at the bar.
-0030_The_Hustler_01.11.18.503-01.11.25.770 	amused, bert gets up and joins eddie at the bar.
 0030_The_Hustler_01.21.00.319-01.21.15.049 	sarah rises, joins him, and strokes his head.
-0030_The_Hustler_01.37.20.981-01.37.31.050 	sarah makes her way down the aisle and joins them at the table.
-0030_The_Hustler_01.40.27.767-01.40.31.399 	he tucks his cue case under his arm and turns to bert and sarah who join him.
 0030_The_Hustler_01.43.33.733-01.43.35.591 	eddie moves through the ornate racetrack bar to join sarah at a table.
-0030_The_Hustler_01.52.13.378-01.52.19.822 	bert turns his back on eddie and joins findley at the bar.
-0030_The_Hustler_02.05.10.349-02.05.13.190 	he turns to join fats at the table.
-0031_The_Lost_Weekend_00.38.18.380-00.38.22.881 	he joins her, takes the umbrella out of her hand and holds it over them both as they go down the street.
-0031_The_Lost_Weekend_00.42.18.750-00.42.24.524 	as she joins them she evidently starts to explain.
-0032_The_Princess_Bride_00.23.23.795-00.23.26.294 	and now he changes hands, and at last, the battle is fully joined.
-0038_Psycho_01.32.07.955-01.32.13.304 	sam closes the door, joins lila, takes her hand.
-0038_Psycho_01.41.19.453-01.41.26.499 	and lila's scream is joined by another scream, a more dreadful, horrifying scream which comes from the door behind her.
-0041_The_Sixth_Sense_01.19.08.946-01.19.17.393 	cole and malcolm join the visitors as they walk slowly towards the doors.
-0043_Thelma_and_Luise_01.11.36.748-01.11.39.319 	max comes up and joins them as they walk down the hallway.
-0043_Thelma_and_Luise_01.56.56.711-01.57.04.487 	more police cars have joined, and from every direction, police cars are swarming across the desert, although none are in front of them.
 0046_Chasing_Amy_00.23.06.479-00.23.07.867 	banky joins him.
-0046_Chasing_Amy_00.25.14.540-00.25.17.367 	she points to someone in the crowd, and curls her finger back in a `c'mere' fashion, urging whoever it is to join her.
 0046_Chasing_Amy_00.33.38.630-00.33.43.348 	john sloss, the boy's lawyer, joins them.
 0046_Chasing_Amy_00.33.52.013-00.33.53.013 	holden and banky politely join in.
 0046_Chasing_Amy_01.24.38.772-01.24.41.082 	a waitress joins them.
 0050_Indiana_Jones_and_the_last_crusade_00.37.49.433-00.37.54.234 	as indy fights with the turk, he becomes aware of the speedboats behind him and two enormous freighters ahead of him, joined together by two giant ropes.
 0050_Indiana_Jones_and_the_last_crusade_00.43.08.789-00.43.12.713 	elsa joins indy, waiting in the ransacked room.
-0050_Indiana_Jones_and_the_last_crusade_00.55.39.055-00.55.41.974 	the man turns and joins a second man.
-0050_Indiana_Jones_and_the_last_crusade_01.37.51.978-01.37.58.602 	he joins the others at the edge of the cliff, looking down at the wreckage below with a bewildered expression.
 1001_Flight_00.04.30.995-00.04.36.814 	he joins the passengers through a side door.
 1002_Harry_Potter_and_the_Half-Blood_Prince_00.04.28.705-00.04.34.438 	harry smiles and crosses over to join him.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.37.41.488-00.37.42.682 	draco and his slytherin friends don't join in.
 1002_Harry_Potter_and_the_Half-Blood_Prince_01.01.56.444-01.02.03.184 	his green cape flapping behind him, he joins his teammates, who flank him as they charge for goal.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.09.37.794-01.09.39.526 	he pulls back the silk drapes to join her.
 1002_Harry_Potter_and_the_Half-Blood_Prince_01.20.19.068-01.20.25.673 	tonks, remus, and mr. weasley join them on the island.
 1002_Harry_Potter_and_the_Half-Blood_Prince_01.20.55.530-01.20.59.915 	the others join them.
 1003_How_to_Lose_Friends_and_Alienate_People_00.23.29.449-00.23.30.734 	 blond in an a-line dress joins him.
 1003_How_to_Lose_Friends_and_Alienate_People_00.32.52.991-00.32.54.866 	eleanor waits for her to join them.
 1003_How_to_Lose_Friends_and_Alienate_People_01.02.20.114-01.02.21.486 	sidney joins lawrence and sophie.
-1003_How_to_Lose_Friends_and_Alienate_People_01.11.52.656-01.11.56.474 	mrs. kowalski gives alison a sideways look as she dances out to join them.
 1003_How_to_Lose_Friends_and_Alienate_People_01.12.32.720-01.12.34.080 	alison joins them on the sofa.
 1003_How_to_Lose_Friends_and_Alienate_People_01.27.43.446-01.27.45.038 	lawrence joins her.
-1006_Slumdog_Millionaire_01.37.23.974-01.37.33.457 	he leaves and joins latika next door.
-1006_Slumdog_Millionaire_01.42.44.924-01.42.53.149 	latika stops outside in the electronic shop then joins the crowd watching jamal on the screen.
-1007_Spider-Man1_00.33.05.008-00.33.08.520 	next to complete the join, red checks all over the head mask show the blades, center strip down the chest and round the waist and a touch of red along the arm.
 1007_Spider-Man1_00.37.42.611-00.37.43.654 	peter joins the queue.
 1007_Spider-Man1_01.19.45.198-01.19.50.767 	two more youths join in the chase.
-1007_Spider-Man1_01.51.50.150-01.51.52.816 	mj comes to join him.
-1008_Spider-Man2_01.02.25.361-01.02.32.859 	she opens the palm of her hand towards john and moves up to the podium to join him, watched by a stunned peter.
-1009_Spider-Man3_01.17.28.791-01.17.33.521 	she tries to get him to join in.
 1009_Spider-Man3_01.17.34.807-01.17.41.440 	he joins in.
 1010_TITANIC_00.31.40.160-00.31.43.700 	other dolphins join the first one
-1010_TITANIC_01.30.40.478-01.30.44.405 	wearing an evening dress, rose joins him.
-1010_TITANIC_02.30.23.679-02.30.32.472 	a viola player glances back, then returns and joins him.
-1010_TITANIC_02.41.32.404-02.41.38.228 	the last of the funnels topples over as water rushes into the gap between the two sections, which are still joined at the bottom
-1011_The_Help_00.09.55.916-00.10.02.233 	minnie joins aibileen in the kitchen and makes a beeline for a dish of deviled eggs.
 1011_The_Help_00.11.04.178-00.11.06.899 	skeeter joins the young women.
-1011_The_Help_01.41.01.327-01.41.10.178 	mrs. walters joins the other elegantly-dressed guests as they climb the steps towards the fairy lit venue.
-1011_The_Help_02.10.49.996-02.11.00.680 	now, aibileen beckons her to join her, and she, too, seems suddenly shy, stepping up next to her friend in front of all the people.
-1012_Unbreakable_00.43.53.332-00.44.22.998 	joseph runs up some steps to join david, while the other children mill around a young man with a crew cut, admiring his muscles.
-1012_Unbreakable_00.55.24.774-00.55.34.208 	in the walkway, david watches the man in the bright blue anorak join a queue for tickets and approaches him.
-1012_Unbreakable_01.05.26.210-01.05.28.945 	audrey joins david, watching their son.
 1014_2012_00.57.42.280-00.57.43.081 	lilly joins the two men on the ridge.
 1014_2012_01.22.38.592-01.22.41.464 	jackson joins him.
 1014_2012_01.24.14.290-01.24.18.949 	jackson and yuri join him and sasha in the cockpit
 1014_2012_01.41.58.038-01.42.01.442 	as the plane skims the ground jackson and yuri join the others.
 1014_2012_02.19.14.169-02.19.16.955 	noah joins his father underwater.
 1015_27_Dresses_00.06.52.901-00.06.58.483 	she joins in some choreographed dancing.
-1015_27_Dresses_01.36.14.107-01.36.23.649 	she smiles as they join the nighttime traffic.
-1017_Bad_Santa_00.07.14.529-00.07.18.765 	later he joins santa in the vault, and finds santa peering through the hole he drilled.
-1017_Bad_Santa_00.10.49.673-00.10.53.979 	as he does so, an irate man clutching a tray of glasses joins him behind the counter.
-1017_Bad_Santa_00.25.04.297-00.25.08.233 	the barmaid comes over to join them and sniffs his empty glass.
-1018_Body_Of_Lies_00.49.45.600-00.50.09.640 	they head along corridors to join hani in the meeting room.
 1019_Confessions_Of_A_Shopaholic_00.40.25.758-00.40.31.136 	yawning with exhaustion, luke steps into a lift to join alette swaved in fur and leggy alicia.
 1019_Confessions_Of_A_Shopaholic_01.07.36.936-01.07.38.692 	alicia joins them.
-1019_Confessions_Of_A_Shopaholic_01.29.54.033-01.30.00.068 	with crazed eyes, haley jumps out of a cab, and dashes to join a queue of women standing outside the church building where the sale is taking place.
-1019_Confessions_Of_A_Shopaholic_01.35.18.431-01.35.24.158 	grinning happily, rebecca races down the aisle to join the other three, who are processing slowly towards the altar.
-1024_Identity_Thief_01.41.08.268-01.41.10.935 	he passes it and joins a conference-room meeting already in progress.
 1026_Legion_00.36.59.090-00.37.02.145 	audrey joins her mom on the floor, beside howard.
-1026_Legion_01.12.31.045-01.12.35.788 	bob steps out onto the roof to join jeep.
 1027_Les_Miserables_01.08.44.557-01.08.49.184 	young students join the beggers and the urchins.
 1027_Les_Miserables_01.36.34.535-01.36.46.065 	marius and the others join him.
-1027_Les_Miserables_01.52.08.586-01.52.10.211 	valjean goes back to join the others.
 1028_No_Reservations_01.05.23.767-01.05.25.306 	kate joins the headmistress in her spacious office.
-1028_No_Reservations_01.12.53.947-01.13.03.212 	kate enters the lounge, and joins zoe on the floor.
 1028_No_Reservations_01.24.56.600-01.24.59.261 	he joins her.
-1029_Pride_And_Prejudice_Disk_One_00.14.44.392-00.14.47.914 	the two girls go to join their mother.
 1029_Pride_And_Prejudice_Disk_One_00.30.04.928-00.30.06.707 	a several officers join them.
 1029_Pride_And_Prejudice_Disk_One_01.07.10.169-01.07.11.975 	and joins them.
 1029_Pride_And_Prejudice_Disk_One_01.23.36.071-01.23.41.973 	a beautiful smile crosses her face, when denny breaks away from the others and joins her.
-1029_Pride_And_Prejudice_Disk_One_01.25.03.302-01.25.08.820 	he holds out a hand to lizzie, who reluctantly takes it, and they cross the floor to join the dance.
 1029_Pride_And_Prejudice_Disk_One_01.33.45.958-01.33.52.832 	mr. bennett joins mrs. bennett at the dining table, where she's eating with relish.
 1029_Pride_And_Prejudice_Disk_One_01.37.57.536-01.37.59.118 	and joins the bingley sisters.
 1029_Pride_And_Prejudice_Disk_One_01.38.42.216-01.38.44.299 	and joins mary at the piano.
-1029_Pride_And_Prejudice_Disk_One_02.30.23.695-02.30.29.466 	darcy goes in to join lizzie and fitzwilliam.
-1030_Public_Enemies_00.02.40.282-00.02.43.871 	reaching the bench, he joins a sandy-haired prisoner and sets the box down.
-1030_Public_Enemies_00.12.00.369-00.12.18.306 	as he crosses to the house, dillinger tosses a set of keys to pete, who joins red to see the new cars.
 1030_Public_Enemies_00.33.29.787-00.33.31.093 	billie joins him, slipping off her coat.
 1030_Public_Enemies_00.46.15.095-00.46.23.287 	d'andrea joins him.
 1030_Public_Enemies_01.16.11.253-01.16.14.096 	a woman joins the bank president.
 1030_Public_Enemies_01.17.01.781-01.17.06.448 	dillinger joins the others, firing at the second story window across the street.
 1030_Public_Enemies_01.25.42.509-01.25.45.176 	now in dillinger's room, wedge joins the shootout.
 1030_Public_Enemies_01.26.35.889-01.26.41.038 	he hands one to baby face and joins him at the barroom windows.
-1030_Public_Enemies_02.05.13.614-02.05.16.280 	the burly agent joins the flow of foot traffic with his gun raised.
 1030_Public_Enemies_02.07.06.360-02.07.10.963 	 he holsters his gun and purvis joins his side.
-1031_Quantum_of_Solace_00.09.16.539-00.09.22.726 	bond sits next to mr. white, joined by m.
 1031_Quantum_of_Solace_00.15.35.916-00.15.43.553 	ignoring a stolid guard, bond enters a flat, passes masked forensics officers, and joins m on the balcony.
-1031_Quantum_of_Solace_00.40.06.307-00.40.12.286 	bond joins the theatergoers wearing a tuxedo.
 1031_Quantum_of_Solace_00.51.05.272-00.51.12.993 	mathis joins him.
-1031_Quantum_of_Solace_01.16.53.384-01.16.58.647 	a small grooup of people joined by bond and camille get on board.
-1031_Quantum_of_Solace_01.22.03.033-01.22.12.111 	felix walks in to join bond who is at the bar.
 1033_Sherlock_Holmes_A_Game_of_Shadows_01.36.45.251-01.36.48.968 	watson and sim join mycroft for dinner in a snow-covered lunch.
 1033_Sherlock_Holmes_A_Game_of_Shadows_01.39.25.900-01.39.34.719 	holmes joins mycroft, the others, and watson at the edge of the dance floor.
-1033_Sherlock_Holmes_A_Game_of_Shadows_01.43.51.099-01.43.53.335 	moriarty comes out and joins him.
-1033_Sherlock_Holmes_A_Game_of_Shadows_01.48.50.722-01.48.56.131 	he runs out of the ballroom and joins the soldiers guarding rene.
 1033_Sherlock_Holmes_A_Game_of_Shadows_01.58.18.537-01.58.24.204 	sim joins him.
-1034_Super_8_00.21.17.318-00.21.24.985 	joe picks up one of the strange white cubes which have spilled from the wreckage and pockets it before joining the others on top of a wrecked carriage.
-1034_Super_8_00.27.46.257-00.27.49.485 	joe joins charles, who's watching the tv.
 1034_Super_8_01.38.25.113-01.38.26.750 	now back on the surface, joe, alice and cary join troops on a street in town.
 1035_The_Adjustment_Bureau_00.05.17.497-00.05.19.093 	in the suite, charlie joins david.
 1035_The_Adjustment_Bureau_00.22.38.413-00.22.40.212 	more men join the chase.
-1035_The_Adjustment_Bureau_01.07.53.878-01.07.57.292 	he joins a group of patrons who stand near a tiered section of stage.
-1035_The_Adjustment_Bureau_01.08.22.220-01.08.27.238 	two others join him, taking elise's hands as the center dancer lowers her, then raises her again.
 1035_The_Adjustment_Bureau_01.15.06.859-01.15.11.277 	as voters disperse, david joins him.
 1035_The_Adjustment_Bureau_01.17.13.839-01.17.17.391 	he joins david.
 1037_The_Curious_Case_Of_Benjamin_Button_00.40.57.902-00.41.08.089 	he joins in.
 1037_The_Curious_Case_Of_Benjamin_Button_00.52.13.765-00.52.20.927 	daisy joins benjamin outside in the early morning light.
-1038_The_Great_Gatsby_01.14.06.006-01.14.08.781 	he goes to join her and glances back at nick.
-1041_This_is_40_00.17.39.092-00.17.41.759 	sadie grins, then bops her head as she gets up and joins them.
-1041_This_is_40_00.32.21.889-00.32.25.076 	debbie joins pete in a sitting room.
 1042_Up_In_The_Air_01.11.28.785-01.11.33.845 	they join a short queue of people checking in.
-1042_Up_In_The_Air_01.14.31.213-01.14.35.411 	he smiles thoughtfully and goes back to join alex, julie and jim.
-1043_Vantage_Point_00.12.24.326-00.12.32.611 	his narrow face is permanently grim as he turns from the cameras and walks around the car to join taylor and the president.
-1043_Vantage_Point_01.13.38.395-01.13.45.649 	taylor and javier look behind them as they join a busy road.
 1045_An_education_01.02.11.486-01.02.19.911 	they join another couples slow dancing in the sunshine to a record playing on a small portable turntable.
 1046_Australia_00.31.40.002-00.31.44.004 	he backs up as flynn joins sarah.
 1046_Australia_00.32.07.498-00.32.12.341 	nullah, his mother and her friend comfort each other and also join sarah.
-1046_Australia_02.34.43.745-02.34.51.229 	sarah joins nullah, who's holding sticks and staring out at his grandfather, who's waiting on the grassy plain.
 1046_Australia_02.34.59.616-02.35.03.000 	king george signals to nullah to join him.
 1047_Defiance_00.09.51.249-00.09.55.639 	he beckons to his older brother to join him out of the earshot of the others.
-1047_Defiance_00.26.38.419-00.26.38.576 	peretz running along a dirt track joins the others hiding in a ditch.
 1049_Harry_Potter_and_the_chamber_of_secrets_00.12.42.746-00.12.47.024 	mr. weasley joins them at the table.
 1049_Harry_Potter_and_the_chamber_of_secrets_00.57.37.381-00.57.38.182 	his friends rush to join him.
-1049_Harry_Potter_and_the_chamber_of_secrets_02.27.06.578-02.27.13.365 	ron and harry are thrilled to see her grinning broadly they get to their feet as she runs down the whole to join her friends.
 1049_Harry_Potter_and_the_chamber_of_secrets_02.30.02.931-02.30.05.426 	professor mcgonagall joins him.
 1049_Harry_Potter_and_the_chamber_of_secrets_02.30.25.787-02.30.28.606 	draco stops goyle and crabbe from joining in.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.14.03.086-00.14.09.240 	moody retrieves the flask from hermione, then joins the real harry.
@@ -205,55 +104,35 @@
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.51.47.633-00.51.51.466 	inside, harry and ron minus hermione join the men.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.52.37.999-00.52.46.584 	ron and harry join them.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.52.58.237-00.53.03.345 	he joins a nervous-looking hermione, both in their morphed shapes of mafalda and albert.
-1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.53.13.517-00.53.17.297 	ron has joined them.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.12.29.918-01.12.31.770 	harry joins hermione.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.58.09.138-01.58.11.047 	scabior joins the chase.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_02.12.30.825-02.12.42.834 	ron and hermione join him.
-1051_Harry_Potter_and_the_goblet_of_fire_00.07.21.649-00.07.32.773 	as evening falls, they join the excited crowds in the magnificent quidditch stadium.
 1051_Harry_Potter_and_the_goblet_of_fire_01.02.53.310-01.02.58.567 	in a packed griffindor common room the painted characters in the pictures join in the applause.
 1051_Harry_Potter_and_the_goblet_of_fire_02.22.22.784-02.22.28.647 	ron and hermione join harry.
-1052_Harry_Potter_and_the_order_of_phoenix_00.19.04.844-00.19.11.245 	carrying briefcases and bundles of papers, they join the throngs of other witches and wizards hurrying to work through the great underground hall.
-1052_Harry_Potter_and_the_order_of_phoenix_00.28.47.941-00.28.54.687 	as they wait for another carriage, neville joins them, carrying a cactus.
 1052_Harry_Potter_and_the_order_of_phoenix_01.04.59.125-01.05.06.254 	harry joins cho in front of the mirror.
 1052_Harry_Potter_and_the_order_of_phoenix_01.16.19.549-01.16.23.285 	harry joins hermione.
 1052_Harry_Potter_and_the_order_of_phoenix_01.20.58.927-01.21.07.129 	harry joins neville.
 1052_Harry_Potter_and_the_order_of_phoenix_01.55.39.559-01.55.41.244 	another flash brings kingsley to join them.
 1052_Harry_Potter_and_the_order_of_phoenix_01.56.08.502-01.56.10.029 	a death eater joins lucius.
-1052_Harry_Potter_and_the_order_of_phoenix_02.07.34.309-02.07.41.222 	harry joins hermione and ron as they make their way to the station.
 1053_Harry_Potter_and_the_philosophers_stone_00.09.39.700-00.09.41.994 	the big bird joins two more perched on the tv aerial.
 1053_Harry_Potter_and_the_philosophers_stone_00.45.53.234-00.45.56.928 	hagrid and the professors join in the applause.
 1053_Harry_Potter_and_the_philosophers_stone_00.45.56.928-00.46.02.949 	the other gryffindors welcome harry as he joins ron and hermione.
-1053_Harry_Potter_and_the_philosophers_stone_01.25.44.146-01.25.53.237 	she walks down the brightly decorated hall to join them.
-1053_Harry_Potter_and_the_philosophers_stone_01.57.45.545-01.57.50.351 	ron falls through to join them.
 1053_Harry_Potter_and_the_philosophers_stone_02.01.32.833-02.01.35.051 	they join the black chess pieces.
 1053_Harry_Potter_and_the_philosophers_stone_02.18.31.293-02.18.36.611 	the gryffindors join in the applause halfheartedly.
-1053_Harry_Potter_and_the_philosophers_stone_02.23.13.545-02.23.20.900 	smiling, harry joins his friends.
 1055_Marley_and_me_00.23.37.035-00.23.39.625 	jenny, with marley, joins the other trainers.
-1055_Marley_and_me_01.17.00.263-01.17.11.521 	john grins as the dogs play together in the shallows and more join the fun.
 1055_Marley_and_me_01.24.19.071-01.24.24.408 	john joins the kids and marley at the bedroom window.
 1056_Rambo_00.23.49.000-00.23.50.000 	she joins michael.
 1056_Rambo_00.48.31.789-00.48.38.789 	rambo joins them and speaks to bn.
 1056_Rambo_00.58.24.000-00.58.30.796 	bn's party joins en-joo and the girls in a dark clearing beyond the camp gate.
 1056_Rambo_00.58.53.254-00.59.00.008 	lewis joins the other mercenaries.
-1056_Rambo_01.01.13.234-01.01.15.491 	the second guard's head explodes and he flies through a nearby fence to join his fallen comrade.
 1058_The_Damned_united_00.24.25.000-00.24.29.645 	sam longson joins brian on the terraces.
 1058_The_Damned_united_01.10.28.249-01.10.29.735 	they beckon him to join them.
 1058_The_Damned_united_01.15.38.467-01.15.42.836 	the players now showered and in their fashionable clothes join the directors in the long, narrow lounge.
 1060_Yes_man_01.04.52.059-01.04.55.579 	carl joins the crowd.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.10.51.017-00.10.59.484 	she joins harry and ron, who is disguised as a long-haired, bearded death eater.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.43.04.000-00.43.06.912 	the clouds seem join together.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.13.59.000-01.14.02.773 	ron joins her, sobbing helplessly.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.41.05.386-01.41.07.347 	draco joins his parents.
 1062_Day_the_Earth_stood_still_00.10.32.903-00.10.39.470 	more vehicles join the convoy rolling down the empty night- time highway.
-1062_Day_the_Earth_stood_still_00.38.33.336-00.38.35.672 	outside they join others standing guard at regular intervals along the walls of the corridor.
-2004_Juno_01.15.51.132-01.15.54.528 	after a beat, mark comes down the stairs to join her.
-2005_Signs_00.33.43.494-00.33.46.281 	merrill climbs up over the side and joins morgan on the roof.
 2012_Unbreakable_00.38.45.508-00.38.46.962 	david enters the tunnel and joins elijah.
 2027_Les_Miserables_00.26.05.333-00.26.08.399 	the pimp joins the captain and fantine's hands as the head whore officiates - like a twisted wedding ceremony.
 2027_Les_Miserables_01.08.44.806-01.08.46.488 	gavroche jumps off as the carriage stops and joins the crowd.
-2027_Les_Miserables_01.34.33.819-01.34.35.590 	marius enters the first floor to join them at last.
-2027_Les_Miserables_01.35.30.108-01.35.34.238 	we pull back from enjolras and marius holding their flag at the first floor window with the students beyond them to see that citizens have spilled out of the cafe musain into the street and have all joined in the final chorus.
-2027_Les_Miserables_01.49.14.372-01.49.16.140 	quickly other students join in and the snipers are driven back.
-2027_Les_Miserables_02.23.36.745-02.23.38.805 	valjean is joined by the ghost of fantine.
-2041_This_is_40_02.03.55.589-02.03.55.930 	joseph has joined them.
-2051_Harry_Potter_and_the_goblet_of_fire_01.18.30.482-01.18.43.118 	soon others are joining in, dumbledore and mcgonagall, mr filch and his cat, hagrid and madame maxime.

@@ -1,3 +1,2 @@
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS146 	00:26:07,00 --> 00:26:13,50 	in a flashback, someone interrogates someone at gunpoint.
-INSIDE_MAN.srt 	INSIDE_MAN_DVS246 	01:15:44,00 --> 01:15:49,50 	they interrogate the narrow eyed man.
 THOR.srt 	THOR_DVS405 	01:01:25,00 --> 01:01:29,50 	someone interrogates someone.

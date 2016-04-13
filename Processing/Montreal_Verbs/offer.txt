@@ -1,11 +1,6 @@
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS365 	00:33:42,00 --> 00:33:47,50 	someone offers a phone, but holds it back.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS340 	00:48:43,00 --> 00:48:50,50 	as someone offers her hand, someone rises to his feet and puts the ring on her finger.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS416 	00:59:28,00 --> 00:59:33,50 	someone offers a hand to help him up.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS485 	01:08:01,00 --> 01:08:08,50 	someone offers a sympathetic gaze, then straightens and stands over him.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS419 	01:06:49,00 --> 01:06:53,50 	he offers the flower.
 BLINDDATING.srt 	BLINDDATING_DVS89 	00:26:06,00 --> 00:26:12,50 	a goateed waiter offered.
-BLINDDATING.srt 	BLINDDATING_DVS152 	00:40:34,00 --> 00:40:40,50 	he stands and offers her the small bouquet.
-BRUNO.srt 	BRUNO_DVS212 	00:58:43,00 --> 00:58:49,50 	offers his limp hand to one of three hunters, and the man shakes it.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS393 	01:11:47,00 --> 01:11:55,50 	someone offers a slight smile.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS829 	01:22:12,00 --> 01:22:16,50 	someone offers him water.
 COLOMBIANA.srt 	COLOMBIANA_DVS205 	00:17:41,00 --> 00:17:46,50 	she offers the card.
@@ -16,17 +11,13 @@ DEAR_JOHN.srt 	DEAR_JOHN_DVS341 	00:52:44,00 --> 00:52:49,50 	someone returns an
 DEAR_JOHN.srt 	DEAR_JOHN_DVS564 	01:19:41,00 --> 01:19:47,50 	his ailing father offers a series of slow nods.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS632 	01:26:26,00 --> 01:26:30,50 	someone offers a faint nod.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS637 	01:27:00,00 --> 01:27:05,50 	someone offers a candid grin.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS736 	01:37:36,00 --> 01:37:44,50 	as someone turns, she lifts her brow expectantly and offers a faint smile.
-DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS230 	00:57:18,00 --> 00:57:24,50 	and finds the engagement ring that someone offered to someone.
 EASY_A.srt 	EASY_A_DVS14 	00:04:02,00 --> 00:04:07,50 	he offers a bong.
 EASY_A.srt 	EASY_A_DVS164 	00:52:53,00 --> 00:52:58,50 	she offers a handful of condoms.
-FLIGHT.srt 	FLIGHT_DVS192 	00:45:03,00 --> 00:45:08,50 	she wipes a tear from her eye, offers a smile, then stands, and climbs up the stairs.
 FLIGHT.srt 	FLIGHT_DVS378 	01:00:57,00 --> 01:01:02,50 	he offers someone a beer, and she refuses.
 FLIGHT.srt 	FLIGHT_DVS948 	01:53:10,00 --> 01:53:15,50 	and offers a hit to someone and someone.
 GET_HIM_TO_THE_GREEK.srt 	GET_HIM_TO_THE_GREEK_DVS176 	01:37:21,00 --> 01:37:31,50 	as someone offers his mic to some fans, someone watches peacefully.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS164 	00:25:33,00 --> 00:25:40,50 	he offers a kind nod.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS82 	00:22:08,00 --> 00:22:22,50 	another older man offers him the same greeting.
-GREEN_ZONE.srt 	GREEN_ZONE_DVS199 	00:52:21,00 --> 00:52:27,50 	he shifts his gaze to someone and offers a firm nod.
 HUGO.srt 	HUGO_DVS170 	00:23:58,00 --> 00:24:03,50 	as he offers the woman a paper, her dog bites him.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS74 	00:19:04,00 --> 00:19:11,50 	someone steps over to the eight-year-old boy who offers his handheld video game.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS80 	00:24:02,00 --> 00:24:11,50 	someone glances at her ex-husband who cocks his head and offers a tender smile.
@@ -34,34 +25,21 @@ JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS303 	01:00:16,00 --> 01:00:21,50 	someon
 KARATE_KID.srt 	KARATE_KID_DVS169 	00:14:12,00 --> 00:14:16,50 	a man offers his paddle.
 KARATE_KID.srt 	KARATE_KID_DVS171 	00:14:26,00 --> 00:14:40,50 	the boy offers a cocky shrug.
 KARATE_KID.srt 	KARATE_KID_DVS203 	00:17:34,00 --> 00:17:39,50 	someone offers the music to the girl.
-KARATE_KID.srt 	KARATE_KID_DVS874 	01:11:58,00 --> 01:12:04,50 	someone offers a befuddled blink, then mimes putting the jacket on.
-KARATE_KID.srt 	KARATE_KID_DVS1294 	01:44:41,00 --> 01:44:48,50 	now at a bank of lockers at school, the boy spots someone and offers a faint smile.
-KARATE_KID.srt 	KARATE_KID_DVS1639 	02:13:08,00 --> 02:13:16,50 	gives a crooked smile, and offers it to him.
 LARRY_CROWNE.srt 	LARRY_CROWNE_DVS278 	01:06:34,00 --> 01:06:39,50 	someone offers a tender smile.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS137 	00:16:32,00 --> 00:16:38,50 	the priest approaches the boy and offers a glass of water.
 LITTLE_FOCKERS.srt 	LITTLE_FOCKERS_DVS227 	01:20:39,00 --> 01:20:47,50 	as he hobbles off, a boy offers him his cotton candy.
-MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS101 	00:14:47,00 --> 00:14:55,50 	he offers his hand for a shake, but the wealthy old woman holds hers out for a kiss.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS153 	00:22:23,00 --> 00:22:28,50 	someone offers a someone.
-MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS467 	00:55:40,00 --> 00:55:44,50 	he offers his arm and she takes it.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS605 	01:12:02,00 --> 01:12:06,50 	she offers him her phone.
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS138 	00:36:16,00 --> 00:36:22,50 	someone offers some cash.
 PROMETHEUS.srt 	PROMETHEUS_DVS174 	00:12:06,00 --> 00:12:14,50 	holographic screens blink on above the front stations, each offering individualized data.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS690 	02:09:28,00 --> 02:09:43,50 	he turns the case, offering the grieving woman a cigarette.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS71 	00:19:51,00 --> 00:19:57,50 	he offers the bloody oyster to someone who takes it.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS161 	00:39:45,00 --> 00:39:55,50 	someone offers the ring, then retracts it.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS282 	01:07:07,00 --> 01:07:41,50 	back lit by the candle, the sheer fabric offers a thinly veiled view of someone stepping out of her dress.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS341 	01:23:21,00 --> 01:23:42,50 	he takes out a letter and offers it to the sheriff.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS389 	01:36:09,00 --> 01:36:17,50 	king someone draws his sword halfway from its sheath and offers its hilt to the baron.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS346 	00:56:11,00 --> 00:56:15,50 	someone offers the joint.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS531 	01:22:18,00 --> 01:22:27,50 	standing, someone offers her the page.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS383 	00:25:27,00 --> 00:25:32,50 	a mountain of fruit rests on top, and a second veil of dangling beads offers a semi-obscured view of her nervous face.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1010 	01:06:03,00 --> 01:06:08,50 	the handsome man offers someone a brief sad smile.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1446 	01:38:04,00 --> 01:38:09,50 	someone offers someone a smile instead.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS22 	00:04:56,00 --> 00:05:05,50 	the blond girl offers a smile.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS400 	01:24:02,00 --> 01:24:07,50 	he offers up the someone.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS267 	00:41:36,00 --> 00:41:41,50 	he offers her a ring box.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS53 	00:12:51,00 --> 00:12:58,50 	and she offers a demure smile.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS261 	00:49:51,00 --> 00:50:20,50 	the two teens walk right past each other offering no sign of acknowledgment.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS265 	00:51:22,00 --> 00:51:34,50 	he offers a restrained smile.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS269 	00:51:51,00 --> 00:51:56,50 	she offers her hand.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS401 	01:17:30,00 --> 01:17:41,50 	on the easel, his painting offers a portrait of someone in
@@ -74,37 +52,26 @@ THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS677 	01:34:56,00 --> 01:35:00,50 	he off
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS762 	01:45:25,00 --> 01:45:31,50 	someone offers her hands, then guides her sister up from her seat.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS771 	01:45:59,00 --> 01:46:04,50 	on the yet unsold land, the overlook offers a majestic view of the cove and the meadows and wild groves inland of it.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS676 	01:15:37,00 --> 01:15:45,50 	the pictures pulses in and out of view, offering us fleeting glimpses of the establishment's trendy young patrons.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS754 	01:25:05,00 --> 01:25:12,50 	someone offers his hand but she heads inside ignoring him.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS757 	01:25:34,00 --> 01:25:39,50 	she offers police reports.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS898 	01:39:47,00 --> 01:39:53,50 	without looking at him she offers her lit smoke.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS949 	01:45:02,00 --> 01:45:07,50 	he offers a cigarette.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1396 	02:29:24,00 --> 02:29:31,50 	she offers him her cigarette.
-THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS279 	01:31:37,00 --> 01:31:48,50 	the end credits start to roll over the scene, as a man pushes his mother on a wheelchair, and a teenager offers his mom a sip from his juice box.
 THE_SITTER.srt 	THE_SITTER_DVS42 	00:24:30,00 --> 00:24:34,50 	he offers cocaine,
 THE_SITTER.srt 	THE_SITTER_DVS74 	00:40:52,00 --> 00:40:58,50 	he offers his hand.
 THE_VOW.srt 	THE_VOW_DVS67 	00:06:05,00 --> 00:06:10,50 	she offers her glass of red wine.
-THE_VOW.srt 	THE_VOW_DVS269 	00:34:17,00 --> 00:34:22,50 	someone offers a small wave and he shuts the door.
 THE_VOW.srt 	THE_VOW_DVS384 	00:54:02,00 --> 00:54:06,50 	he offers a sculpting knife.
 THE_VOW.srt 	THE_VOW_DVS617 	01:24:38,00 --> 01:24:44,50 	munching a slice of pizza, he offers some to the cat.
 THE_WATCH.srt 	THE_WATCH_DVS246 	00:44:25,00 --> 00:44:29,50 	he offers a beer.
 THE_WATCH.srt 	THE_WATCH_DVS269 	00:50:20,00 --> 00:50:24,50 	he offers another piece.
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS149 	00:39:18,00 --> 00:39:22,50 	she offers a smile.
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS186 	00:45:23,00 --> 00:45:28,50 	he offers a glass of orange juice.
-THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS275 	01:15:33,00 --> 01:15:38,50 	he steps close, offering a glass.
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS420 	01:36:43,00 --> 01:36:51,50 	she offers him a smile.
-THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS183 	00:34:17,00 --> 00:34:23,50 	he finally turns to someone and offers his hand.
-THOR.srt 	THOR_DVS399 	00:59:47,00 --> 00:59:53,50 	an agent steps up and handcuffs someone, who offers no resistance.
-THOR.srt 	THOR_DVS690 	01:42:55,00 --> 01:43:01,50 	someone offers a small smile and touches someone's bare arm.
-TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS477 	00:51:14,00 --> 00:51:19,50 	he offers a sarcastic salute, then heads out.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS824 	01:27:46,00 --> 01:27:50,50 	someone offers a warm smile.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS841 	01:29:31,00 --> 01:29:35,50 	he offers an awkward bow.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS657 	01:31:08,00 --> 01:31:16,50 	light filters into someone's darkened bedroom through the drawn curtains, offering a shadowy view of the couple in bed.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS462 	01:12:57,00 --> 01:13:02,50 	he takes her hand as she offers his bag.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS537 	01:22:37,00 --> 01:22:42,50 	she offers a gentle sympathetic smile.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS720 	01:43:42,00 --> 01:43:50,50 	he offers a terse professional nod to the inspector, who reciprocates.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS461 	01:04:36,00 --> 01:04:43,50 	they share a gaze, then someone offers his hand, which someone accepts.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS605 	01:21:45,00 --> 01:21:51,50 	as we drift closer, it offers a glimpse of the bridal party's preparations.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS152 	00:14:15,00 --> 00:14:22,50 	later, someone pours bright red soda into a mug and offers it to his neighbor.
-ZOMBIELAND.srt 	ZOMBIELAND_DVS215 	00:23:14,00 --> 00:23:20,50 	someone offers his shotgun but someone takes out pruning shears.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS349 	00:40:08,00 --> 00:40:13,50 	she offers a weak smile.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS515 	01:01:05,00 --> 01:01:09,50 	she offers her hand.

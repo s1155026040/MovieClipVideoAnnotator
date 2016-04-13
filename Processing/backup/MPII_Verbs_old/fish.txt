@@ -1,13 +1,15 @@
-0005_Chinatown_00.23.43.866-00.23.47.022 	Gittes fishes a couple off the tray, puts them in his handkerchief pocket.
-0005_Chinatown_00.31.04.942-00.31.11.997 	He fishes out one of Yelburton's cards from his handkerchief pocket, hands it to the Guard.
-0005_Chinatown_00.33.15.686-00.33.17.099 	A couple of men using poles with hooks are fishing about in the water.
-0005_Chinatown_00.41.57.361-00.42.00.342 	He fishes for his car keys, looks down.
-0016_O_Brother_Where_Art_Thou_00.16.13.865-00.16.20.680 	Everett fishes a gold watch from his pocket and tosses it to Pete.
-0028_The_Crying_Game_00.15.58.020-00.16.06.803 	He fishes inside Jody's inside pocket.
-0031_The_Lost_Weekend_00.02.48.884-00.02.53.849 	Don has crossed to the chest of drawers and fished out more shirts and socks.
-0031_The_Lost_Weekend_00.33.00.232-00.33.06.429 	He fishes the coat check from his pocket, buries it in his fist, fighting the foolish impulse.
-0031_The_Lost_Weekend_00.58.16.331-00.58.19.476 	He fishes out a ten-dollar bill, thrusts it in his pocket and is about to close the purse when he sees the carnations.
-0031_The_Lost_Weekend_00.59.33.816-00.59.36.903 	He fishes what money he has left from his pocket.
+0005_Chinatown_00.23.43.866-00.23.47.022 	gittes fishes a couple off the tray, puts them in his handkerchief pocket.
+0005_Chinatown_00.31.04.942-00.31.11.997 	he fishes out one of yelburton's cards from his handkerchief pocket, hands it to the guard.
+0005_Chinatown_00.33.15.686-00.33.17.099 	a couple of men using poles with hooks are fishing about in the water.
+0005_Chinatown_00.41.57.361-00.42.00.342 	he fishes for his car keys, looks down.
+0005_Chinatown_01.39.58.538-01.40.04.322 	he gingerly opens her handbag, fishes for its contents, takes them and looks at them on the kitchen counter.
+0016_O_Brother_Where_Art_Thou_00.16.13.865-00.16.20.680 	everett fishes a gold watch from his pocket and tosses it to pete.
+0028_The_Crying_Game_00.15.58.020-00.16.06.803 	he fishes inside jody's inside pocket.
+0031_The_Lost_Weekend_00.02.48.884-00.02.53.849 	don has crossed to the chest of drawers and fished out more shirts and socks.
+0031_The_Lost_Weekend_00.33.00.232-00.33.06.429 	he fishes the coat check from his pocket, buries it in his fist, fighting the foolish impulse.
+0031_The_Lost_Weekend_00.58.16.331-00.58.19.476 	he fishes out a ten-dollar bill, thrusts it in his pocket and is about to close the purse when he sees the carnations.
+0031_The_Lost_Weekend_00.59.33.816-00.59.36.903 	he fishes what money he has left from his pocket.
 1009_Spider-Man3_00.58.16.035-00.58.26.046 	as a violinist serenades him, peter picks up mary jane's glass and fishes the ring out of it with a fork.
 1014_2012_00.06.32.304-00.06.40.043 	he puts his drink down on a waiter's tray then walks off with the document, fishing a pair of glasses from this top pocket, on the way past adrian.
+2026_Legion_00.03.42.790-00.03.57.422 	he threads a needle not with thread, but with fishing wire, and begins to stitch the wounds closed.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_00.13.41.982-00.13.43.153 	tom takes a position against the wall, fishes a pair of walnuts from his pocket and -- crack -- crushes the shells between his palms.

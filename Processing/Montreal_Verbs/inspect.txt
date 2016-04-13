@@ -1,30 +1,13 @@
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS530 	00:51:23,00 --> 00:51:29,50 	someone inspects the area, then jogs over to the window.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS606 	01:02:23,00 --> 01:02:30,50 	as they inspect the area with their flashlights, he faces a wall of safety deposit boxes.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS643 	01:06:33,00 --> 01:06:39,50 	someone leans over and inspects the back wall of the locker.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS82 	00:22:33,00 --> 00:22:39,50 	someone inspects several bare branches at the end of one bough.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS621 	01:27:25,00 --> 01:27:35,50 	inspecting the cargo, he finds more rocks in place of the silver.
-COLOMBIANA.srt 	COLOMBIANA_DVS127 	00:10:35,00 --> 00:10:43,50 	as someone inspects the framed family photo, the beefy thug points his gun at the girl's head.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS481 	01:11:03,00 --> 01:11:12,50 	then inspects the soldier's chest.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS758 	01:39:42,00 --> 01:39:48,50 	the soldier inspects it.
-DISTRICT_9.srt 	DISTRICT_9_DVS518 	01:00:25,00 --> 01:00:42,50 	he takes off his shirt and inspects the wound.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS36 	00:08:29,00 --> 00:08:43,50 	his men inspect the room.
-GREEN_ZONE.srt 	GREEN_ZONE_DVS227 	00:56:27,00 --> 00:56:42,50 	the soldier inspecting someone's backpack finds plastic wrapped stacks of bills inside.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS228 	00:56:44,00 --> 00:56:49,50 	the guard inspects someone's belongings.
-HUGO.srt 	HUGO_DVS369 	00:56:18,00 --> 00:56:23,50 	she inspects him intently then turns to someone.
 HUGO.srt 	HUGO_DVS395 	00:59:47,00 --> 00:59:52,50 	someone steps onto the chair then inspects the panel.
-JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS45 	00:05:23,00 --> 00:05:37,50 	she smiles, takes in a savoring breath, then inspects the rest of the apartment.
 LARRY_CROWNE.srt 	LARRY_CROWNE_DVS41 	00:13:43,00 --> 00:13:53,50 	now at a gas station someone inspects the id.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS960 	01:35:01,00 --> 01:35:08,50 	he removes a leafy bit, inspects it, then puts it in his mouth.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS964 	01:35:23,00 --> 01:35:32,50 	someone tears off a chunk of root and inspects the light pink center within its dark green outer shell.
-LITTLE_FOCKERS.srt 	LITTLE_FOCKERS_DVS123 	00:45:23,00 --> 00:45:36,50 	he crouches then inspects someone's hidden bag.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS411 	01:25:54,00 --> 01:26:03,50 	someone receives the scissors and inspects them.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS51 	00:05:45,00 --> 00:05:52,50 	he turns and inspects a model ship with a unicorn figurehead on display behind them.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS456 	01:06:47,00 --> 01:06:52,50 	red someone inspects a string of pearls.
-THE_CALL.srt 	THE_CALL_DVS975 	01:14:53,00 --> 01:15:00,50 	someone hesitantly steps down the hall and inspects the underground structure.
-THE_CALL.srt 	THE_CALL_DVS1031 	01:18:43,00 --> 01:18:47,50 	someone lifts the hair and inspects it.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS275 	00:32:23,00 --> 00:32:28,50 	someone inspected missing girl's bedroom.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS293 	00:33:13,00 --> 00:33:19,50 	in the forest, a man inspects a rusted bin.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS40 	00:05:08,00 --> 00:05:12,50 	she inspects the pans.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS464 	00:50:00,00 --> 00:50:04,50 	someone inspects himself.
 YOUNG_ADULT.srt 	YOUNG_ADULT_DVS210 	00:39:16,00 --> 00:39:21,50 	inside, she inspects shirts on hangers.
-YOUNG_ADULT.srt 	YOUNG_ADULT_DVS289 	00:55:48,00 --> 00:55:53,50 	she stares at the front someone then crouches and inspects the damage.

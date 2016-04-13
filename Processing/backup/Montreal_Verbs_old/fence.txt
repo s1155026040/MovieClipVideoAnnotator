@@ -1,0 +1,5 @@
+CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS310 	00:58:59,00 --> 00:59:08,50 	the bodies of the two soldiers flop out onto the road as the truck follows the rest of the convoy into the fenced compound.
+COLOMBIANA.srt 	COLOMBIANA_DVS597 	00:56:20,00 --> 00:56:25,50 	she enters their fenced in area.
+SUPER_8.srt 	SUPER_8_DVS388 	01:09:21,00 --> 01:09:27,50 	inside the fenced compound, people stream into a cavernous aircraft hangar.
+WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS455 	01:11:02,00 --> 01:11:11,50 	later, someone and someone assemble wrought-iron fencing around someone's enclosure.
+ZOMBIELAND.srt 	ZOMBIELAND_DVS412 	00:47:22,00 --> 00:47:28,50 	the hummer pulls onto a fenced in drive in front of a sprawling mansion.

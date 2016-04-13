@@ -1,23 +1,22 @@
-0004_Charade_01.30.22.171-01.30.23.904 	Neatly displayed on a counter of one of the booths.
-0009_Forrest_Gump_00.29.57.966-00.30.01.170 	Numerous bottle of Dr. Pepper are displayed on the table.
-0009_Forrest_Gump_02.06.01.994-02.06.05.313 	Lt. Dan lifts his pant leg to display his metal leg.
-0011_Gandhi_01.07.44.391-01.07.46.391 	It contains more anger than we have seen him display to anyone but Ba.
-0016_O_Brother_Where_Art_Thou_01.32.13.474-01.32.17.239 	He raises Penny's left hand with his own to display their wedding bands - but Penny's finger is bare.
-0020_Raising_Arizona_00.16.16.089-00.16.18.364 	He is shrugging and displaying a pair of manifestly empty hands.
-0020_Raising_Arizona_00.32.09.341-00.32.11.676 	He grabs the overcoat being displayed by FBI #2.
-0020_Raising_Arizona_01.08.27.119-01.08.28.604 	He is looking around at the other impulse purchases displayed by the register; he unhooks a bag of balloons.
-0021_Rear_Window_01.10.21.835-01.10.26.381 	She comes to Jeff, sits in his lap again, displaying the inside of the case.
-0021_Rear_Window_01.13.55.213-01.13.56.413 	The open overnight case with its displayed lingerie.
-0021_Rear_Window_01.18.09.699-01.18.11.199 	Neither Jeff or Lisa display even the slightest friendliness.
-0027_The_Big_Lebowski_00.25.23.681-00.25.24.587 	We are looking across the length of the bowling alley at a tall, thin, Hispanic bowler displaying perfect form.
-0027_The_Big_Lebowski_01.11.02.139-01.11.05.154 	He holds it out at arm's length, displaying it to Larry.
-0030_The_Hustler_01.40.07.400-01.40.09.587 	Bert displays a neatly folded wad of money in his hand.
-0049_Hannah_and_her_sisters_00.29.38.639-00.29.44.702 	Over the shoulders of a technician in a booth, a large window displays a huge, white rotating machine.
-0050_Indiana_Jones_and_the_last_crusade_00.17.22.191-00.17.25.481 	Numerous museum-quality artifacts are displayed around the room.
-0050_Indiana_Jones_and_the_last_crusade_01.08.04.044-01.08.07.040 	Flags, banners and standards displaying the swastika are waved rhythmically from side to side in a motion that echoes the mounting frenzy of the enormous crowd.
-0050_Indiana_Jones_and_the_last_crusade_01.49.12.905-01.49.16.080 	A vast array of chalices is displayed on the altar of this small Temple.
-0051_Men_in_black_00.36.27.731-00.36.33.925 	The screen displays a map of the world on which thousands of tiny lights blink in all parts of the globe, log lines of data flashing next to them.
-1005_Signs_01.12.54.486-01.12.56.536 	It's displaying a test card.
+0004_Charade_01.30.22.171-01.30.23.904 	neatly displayed on a counter of one of the booths.
+0009_Forrest_Gump_00.29.57.966-00.30.01.170 	numerous bottle of dr. pepper are displayed on the table.
+0009_Forrest_Gump_02.06.01.994-02.06.05.313 	lt. dan lifts his pant leg to display his metal leg.
+0011_Gandhi_01.07.44.391-01.07.46.391 	it contains more anger than we have seen him display to anyone but ba.
+0016_O_Brother_Where_Art_Thou_01.32.13.474-01.32.17.239 	he raises penny's left hand with his own to display their wedding bands - but penny's finger is bare.
+0020_Raising_Arizona_00.16.16.089-00.16.18.364 	he is shrugging and displaying a pair of manifestly empty hands.
+0020_Raising_Arizona_00.32.09.341-00.32.11.676 	he grabs the overcoat being displayed by fbi #2.
+0020_Raising_Arizona_01.08.27.119-01.08.28.604 	he is looking around at the other impulse purchases displayed by the register; he unhooks a bag of balloons.
+0021_Rear_Window_01.10.21.835-01.10.26.381 	she comes to jeff, sits in his lap again, displaying the inside of the case.
+0027_The_Big_Lebowski_00.25.23.681-00.25.24.587 	we are looking across the length of the bowling alley at a tall, thin, hispanic bowler displaying perfect form.
+0027_The_Big_Lebowski_01.11.02.139-01.11.05.154 	he holds it out at arm's length, displaying it to larry.
+0030_The_Hustler_01.40.07.400-01.40.09.587 	bert displays a neatly folded wad of money in his hand.
+0049_Hannah_and_her_sisters_00.29.38.639-00.29.44.702 	over the shoulders of a technician in a booth, a large window displays a huge, white rotating machine.
+0050_Indiana_Jones_and_the_last_crusade_00.17.22.191-00.17.25.481 	numerous museum-quality artifacts are displayed around the room.
+0050_Indiana_Jones_and_the_last_crusade_01.08.04.044-01.08.07.040 	flags, banners and standards displaying the swastika are waved rhythmically from side to side in a motion that echoes the mounting frenzy of the enormous crowd.
+0050_Indiana_Jones_and_the_last_crusade_01.49.12.905-01.49.16.080 	a vast array of chalices is displayed on the altar of this small temple.
+0051_Men_in_black_00.36.27.731-00.36.33.925 	the screen displays a map of the world on which thousands of tiny lights blink in all parts of the globe, log lines of data flashing next to them.
+1005_Signs_01.12.54.486-01.12.56.536 	it's displaying a test card.
+1007_Spider-Man1_00.10.41.311-00.10.51.283 	on the monitor behind peter in the genetic research institute, the dna of a new species of spider like the one which bit peter is displayed.
 1008_Spider-Man2_00.26.35.762-00.26.38.197 	mj's face is displayed prominently at the entrance.
 1009_Spider-Man3_00.08.00.668-00.08.14.053 	in the goblin lair at the osborne mansion several incarnations of the demonic green goblin mask are displayed on stands along with a number of high tech weapons and futuristic flying equipment.
 1009_Spider-Man3_00.39.45.405-00.39.49.417 	in times square, a billboard displays the letters ny followed by a heart and a picture of spider-man.
@@ -28,11 +27,8 @@
 1018_Body_Of_Lies_00.29.31.325-00.29.32.692 	images of people coming and going from the house are displayed on a screen.
 1018_Body_Of_Lies_01.28.23.998-01.28.27.434 	he sits and opens the laptop, which displays a picture of sadiki.
 1024_Identity_Thief_00.20.29.972-00.20.33.565 	holding his cell phone, he looks at the salon number displayed in red.
+1038_The_Great_Gatsby_01.03.33.889-01.03.36.769 	he looks at a wall and a desk where pictures and trophies are displayed.
 1042_Up_In_The_Air_01.30.17.235-01.30.19.378 	a large video screen outside a las vegas hotel displays a caption.
-1053_Harry_Potter_and_the_philosophers_stone_01.23.36.602-01.23.55.296 	as his teammate swoop around the arena on their broomsticks, celebrating their success, harry holds the fluttering golden snitch, triumphing above his head and slowly turns, displaying his prize to his ecstatic supporters.
-1059_The_devil_wears_prada_01.09.00.000-01.09.12.669 	yellow taxicabs pass her on the street as she walks past shop windows, one displaying a fashionable red coat.
-1062_Day_the_Earth_stood_still_00.48.07.691-00.48.10.902 	pilot's eye view is displayed on a bank of monitors.
-2017_Bad_Santa_01.07.58.235-01.07.59.916 	he displays an envelope.
 1053_Harry_Potter_and_the_philosophers_stone_01.23.36.602-01.23.55.296 	as his teammate swoop around the arena on their broomsticks, celebrating their success, harry holds the fluttering golden snitch, triumphing above his head and slowly turns, displaying his prize to his ecstatic supporters.
 1059_The_devil_wears_prada_01.09.00.000-01.09.12.669 	yellow taxicabs pass her on the street as she walks past shop windows, one displaying a fashionable red coat.
 1062_Day_the_Earth_stood_still_00.48.07.691-00.48.10.902 	pilot's eye view is displayed on a bank of monitors.

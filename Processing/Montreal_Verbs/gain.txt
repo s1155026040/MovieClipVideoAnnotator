@@ -1,11 +1,5 @@
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS423 	01:11:14,00 --> 01:11:18,50 	the bikers gain on them.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS320 	00:28:26,00 --> 00:28:33,50 	gaining control, someone turns the van with traffic and rejoins the chase.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS144 	00:17:44,00 --> 00:17:58,50 	practicing later, someone swings the ax in swirling patterns around his tall, lean frame, gaining speed with proficiency.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS554 	01:17:40,00 --> 01:17:47,50 	gaining confidence, he builds speed until the ax spins in a blur.
-FLIGHT.srt 	FLIGHT_DVS101 	00:17:56,00 --> 00:18:04,50 	the yoke slips out of ken's hands as someone struggles to gain control, and the plane begins to dive.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS561 	01:20:07,00 --> 01:20:12,50 	ghost rider quickly gains on the trucks.
 IN_TIME.srt 	IN_TIME_DVS747 	01:19:08,00 --> 01:19:12,50 	gaining on them, someone fires.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS688 	01:12:34,00 --> 01:12:40,50 	as his movements gain intensity, the resulting glow gathers mass and brightness.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS668 	02:05:32,00 --> 02:05:40,50 	agent scowls, holding his aim as he gains on the crime boss.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1206 	02:07:53,00 --> 02:08:01,50 	now the motorcycle gains on the suv jouncing in the cold rushing air.
-THE_WATCH.srt 	THE_WATCH_DVS526 	01:31:52,00 --> 01:31:57,50 	gaining on them, the aliens round a corner.

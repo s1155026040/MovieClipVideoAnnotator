@@ -1,9 +1,6 @@
-21_JUMP_STREET.srt 	21_JUMP_STREET_DVS148 	00:23:28,00 --> 00:23:37,50 	looking head someone stares.
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS502 	01:19:14,00 --> 01:19:18,50 	staring at someone, someone shuts the hatchback.
-40_YEAR_OLD_VIRGIN.srt 	40_YEAR_OLD_VIRGIN_DVS150 	01:18:30,00 --> 01:18:36,50 	she stares distantly, then faces someone.
 40_YEAR_OLD_VIRGIN.srt 	40_YEAR_OLD_VIRGIN_DVS227 	01:50:42,00 --> 01:50:46,50 	as someone stares wide eyed at the ceiling.
 40_YEAR_OLD_VIRGIN.srt 	40_YEAR_OLD_VIRGIN_DVS230 	01:51:05,00 --> 01:51:19,50 	someone stares off, transfixed.
-500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS85 	00:12:49,00 --> 00:12:55,50 	he stares after her as she walks away through the open plan office.
 500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS101 	00:16:23,00 --> 00:16:27,50 	he stares at her.
 500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS113 	00:24:01,00 --> 00:24:04,50 	he stares at her.
 500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS116 	00:24:20,00 --> 00:24:25,50 	he remains, staring after her.
@@ -11,25 +8,16 @@
 500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS203 	00:33:48,00 --> 00:33:53,50 	someone stares gloomily at mackenzie.
 500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS262 	00:48:25,00 --> 00:48:30,50 	she stares at him expressionlessly,
 500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS418 	01:11:42,00 --> 01:11:46,50 	someone lies, staring at the ceiling.
-500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS433 	01:16:21,00 --> 01:16:26,50 	someone stares into the middle distance and remembers times with someone walking down the street.
 500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS502 	01:21:22,00 --> 01:21:27,50 	someone stares blankly on the bus.
 500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS505 	01:21:42,00 --> 01:21:45,50 	he stares expressionlessly out across a leafy park.
 500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS514 	01:23:40,00 --> 01:23:44,50 	becoming serious, he stares at her.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS86 	00:07:14,00 --> 00:07:20,50 	she looks at someone as he stares out the windshield.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS120 	00:09:55,00 --> 00:10:03,50 	someone sits in the back of a taxi with a tense brow staring at scribbled notes about his son's arrest.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS132 	00:12:39,00 --> 00:12:43,50 	riding inside, someone glances at the young criminal, who stares back with a blank piercing
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS497 	00:48:17,00 --> 00:48:22,50 	someone stares boldly and someone spits.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS571 	00:55:54,00 --> 00:56:00,50 	someone stares thoughtfully ahead, his young face caked with blood.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS628 	01:04:55,00 --> 01:05:02,50 	he pauses and watches the young man, who turns around and stares at his father.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS638 	01:06:08,00 --> 01:06:14,50 	someone stares at his dad.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS195 	00:36:53,00 --> 00:36:57,50 	someone stares wide-eyed at someone.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS211 	00:40:32,00 --> 00:40:38,50 	someone storms into the next room and stares at a lit fire place.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS287 	00:53:06,00 --> 00:53:12,50 	staring at him, a nearby woman grabs a young girls hand and leads her away.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS297 	00:54:58,00 --> 00:55:05,50 	one of the executives stares at someone as he nibbles the stick in small bites.
-A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS329 	00:58:48,00 --> 00:58:54,50 	someone turns and stares up at the tree's leaves.
-A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS373 	01:05:37,00 --> 01:05:43,50 	someone watches him leave, then stares at the table top.
-A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS397 	01:09:55,00 --> 01:10:01,50 	then stands and stares at the tree in his backyard.
-A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS423 	01:13:06,00 --> 01:13:11,50 	he stares at someone then turns and walks off.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS442 	01:15:55,00 --> 01:16:00,50 	someone furrows his brow as he stares straight ahead.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS449 	01:17:05,00 --> 01:17:11,50 	someone leans forward as his mother stares at the floor.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS453 	01:18:33,00 --> 01:18:39,50 	he nods more vigorously, then stares into his mother's eyes.
@@ -41,10 +29,7 @@ ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS390 	00:54
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS470 	01:06:47,00 --> 01:06:55,50 	staring off, someone remembers his dying mother writhing as her eyes rolled back in her head.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS493 	01:08:39,00 --> 01:08:46,50 	the president lifts his head staring off as he rubs his thumbs together.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS537 	01:16:02,00 --> 01:16:11,50 	someone's expression softens as she stares towards the windows, one hand tucked behind her head.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS548 	01:17:03,00 --> 01:17:11,50 	light pours in past someone as he stands in the doorway staring at the now dust coated chest.
-BAD_TEACHER.srt 	BAD_TEACHER_DVS282 	01:16:44,00 --> 01:16:52,50 	the kids part for someone who makes her way past them, leaving someone staring sadly.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS211 	00:34:33,00 --> 00:34:39,50 	someone stares too.
-BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS378 	00:59:55,00 --> 01:00:00,50 	he stares after her, then gives a smug nod.
 BLINDDATING.srt 	BLINDDATING_DVS279 	01:09:59,00 --> 01:10:09,50 	someone notices his wife staring off.
 BLINDDATING.srt 	BLINDDATING_DVS286 	01:11:33,00 --> 01:11:41,50 	someone stares off.
 BLINDDATING.srt 	BLINDDATING_DVS359 	01:28:26,00 --> 01:28:33,50 	as he smiles at her, she stares back tearful and
@@ -62,7 +47,6 @@ CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS247 	00:42:50,00 --> 00:42:56,50 	someon
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS280 	00:52:42,00 --> 00:52:48,50 	someone glances over his shoulder at someone, then stares at the falling rain.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS365 	01:06:38,00 --> 01:06:44,50 	someone stares open-mouthed as someone peels off his face, actually a mask, and reveals his true face, a ghoulish red skull.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS487 	01:25:13,00 --> 01:25:19,50 	someone stares downward and closes his eyes.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS507 	01:30:24,00 --> 01:30:29,50 	someone sits across from someone who stares downward.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS620 	01:44:35,00 --> 01:44:41,50 	as he stares into it, vaporous flashes of blue light fill the air.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS635 	01:46:39,00 --> 01:46:47,50 	he stares at the photo then pushes down on the steering yoke causing the plane to dive steeply.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS662 	01:51:25,00 --> 01:51:30,50 	someone stares at a nearby radio.
@@ -80,7 +64,6 @@ CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS787 	01:18:20,00 --> 01:18:25,50 	so
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS828 	01:22:06,00 --> 01:22:11,50 	someone stares at his protege appreciatively.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS880 	01:26:01,00 --> 01:26:05,50 	the teen stares at it with an overwhelmed gaze then ventures closer.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS904 	01:29:11,00 --> 01:29:16,50 	someone stares breathlessly.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS906 	01:29:19,00 --> 01:29:25,50 	he stares at her imploringly but find her gaze confused.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS959 	01:34:17,00 --> 01:34:22,50 	he pauses, staring out at the intimidating surf.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS1138 	01:48:51,00 --> 01:48:57,50 	he stares at the surf with his hands in his pockets.
 CHRONICLE.srt 	CHRONICLE_DVS346 	00:52:03,00 --> 00:52:07,50 	he stares off intensely.
@@ -89,27 +72,21 @@ CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS419 	01:41:45,00 --> 01:41:52,50 	staring 
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS459 	01:47:49,00 --> 01:47:55,50 	someone stares thoughtfully.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS491 	01:52:38,00 --> 01:52:46,50 	someone eyes the staring crowd.
 COLOMBIANA.srt 	COLOMBIANA_DVS247 	00:20:47,00 --> 00:20:54,50 	inside, someone rests her arm against a window and stares out at the passing city.
-COLOMBIANA.srt 	COLOMBIANA_DVS272 	00:22:40,00 --> 00:22:46,50 	turning, she finds someone staring at her through a set of windows.
 COLOMBIANA.srt 	COLOMBIANA_DVS303 	00:26:03,00 --> 00:26:08,50 	he stares at her then affects a casual gaze.
 COLOMBIANA.srt 	COLOMBIANA_DVS648 	01:00:46,00 --> 01:00:53,50 	staring cautiously, someone grabs a gun resting in one of men's hands.
 COLOMBIANA.srt 	COLOMBIANA_DVS687 	01:05:00,00 --> 01:05:06,50 	as she stares up at the ceiling.
 COLOMBIANA.srt 	COLOMBIANA_DVS712 	01:07:46,00 --> 01:07:51,50 	she stares off, her eyes shining with tears.
-COLOMBIANA.srt 	COLOMBIANA_DVS778 	01:15:24,00 --> 01:15:29,50 	sitting beside her great-aunt, she stares ahead coldly.
 COLOMBIANA.srt 	COLOMBIANA_DVS890 	01:24:16,00 --> 01:24:22,50 	her arms sink to her sides as she stares ahead.
 COLOMBIANA.srt 	COLOMBIANA_DVS898 	01:24:52,00 --> 01:24:59,50 	in the fbi office, agent someone thoughtfully stares at a someone orchid
-COLOMBIANA.srt 	COLOMBIANA_DVS915 	01:27:31,00 --> 01:27:37,50 	she takes a framed photo from a shelf and stares down at it.
 COLOMBIANA.srt 	COLOMBIANA_DVS935 	01:30:32,00 --> 01:30:37,50 	someone stares at his phone.
 COLOMBIANA.srt 	COLOMBIANA_DVS1017 	01:36:34,00 --> 01:36:42,50 	in the bedroom, the gunman grits his teeth as he stares at the door paned with textured glass.
 COLOMBIANA.srt 	COLOMBIANA_DVS1053 	01:38:59,00 --> 01:39:03,50 	she stares at the dead gangster.
-COLOMBIANA.srt 	COLOMBIANA_DVS1097 	01:43:49,00 --> 01:43:57,50 	a woman sitting on a bench stares off with disinterested eyes as someone passes by then boards the bus.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS35 	00:04:54,00 --> 00:05:01,50 	as someone stares at someone, he accidentally bangs his board on the someone.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS85 	00:12:53,00 --> 00:12:59,50 	his father glances over his shoulder, then stares off glumly.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS152 	00:24:20,00 --> 00:24:26,50 	he gives a startled turn, then stares off.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS224 	00:34:48,00 --> 00:34:58,50 	someone lingering on the spot, staring off as he stuffs his hands into his pockets.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS268 	00:42:21,00 --> 00:42:25,50 	he stares off.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS321 	00:49:33,00 --> 00:49:46,50 	on a country road, he nervously stares at the foiled wrapped meatloaf nestled in a cardboard box on his lap.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS381 	01:00:03,00 --> 01:00:10,50 	she stares distantly.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS471 	01:09:22,00 --> 01:09:27,50 	he heads off, leaving someone staring at the fire.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS525 	01:15:36,00 --> 01:15:44,50 	now, he stares out an airplane window.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS599 	01:23:07,00 --> 01:23:14,50 	wearing his dress uniform, someone stares off beneath his knitted brow.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS620 	01:24:39,00 --> 01:24:46,50 	a brief grin flickers over the corner of his mouth, as he stares at someone intensely.
@@ -118,14 +95,11 @@ DEAR_JOHN.srt 	DEAR_JOHN_DVS665 	01:30:10,00 --> 01:30:15,50 	someone stares off
 DEAR_JOHN.srt 	DEAR_JOHN_DVS677 	01:31:44,00 --> 01:31:49,50 	staring off despondently.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS695 	01:33:40,00 --> 01:33:44,50 	she stares at the table.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS767 	01:41:08,00 --> 01:41:14,50 	tears glisten in her eyes as she stares at the moon.
-DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS307 	01:16:13,00 --> 01:16:20,50 	they stand side-by-side, staring morosely at the water.
 DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS312 	01:17:26,00 --> 01:17:31,50 	someone stays put, staring at the water.
-DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS317 	01:17:54,00 --> 01:18:00,50 	he takes the someone mouse from his shirt pocket and stares at it
 DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS323 	01:18:22,00 --> 01:18:33,50 	he stares at the pair of mice in the pergola who are posed sucking on a piece of cheese through straws like teenagers sharing a milkshake.
 DISTRICT_9.srt 	DISTRICT_9_DVS283 	00:31:37,00 --> 00:31:47,50 	he flips to another page then stares at his fingernail.
 DISTRICT_9.srt 	DISTRICT_9_DVS456 	00:51:36,00 --> 00:51:45,50 	he spits something into his hand, then stares at it.
 DISTRICT_9.srt 	DISTRICT_9_DVS480 	00:55:45,00 --> 00:55:58,50 	someone's antenna twitch as he stares at someone's left arm.
-DISTRICT_9.srt 	DISTRICT_9_DVS514 	00:59:53,00 --> 01:00:00,50 	he stares at the dark spatters, then stands.
 DISTRICT_9.srt 	DISTRICT_9_DVS574 	01:07:51,00 --> 01:07:58,50 	someone stares fearlessly into the strange gun's blazing barrel.
 DISTRICT_9.srt 	DISTRICT_9_DVS830 	01:37:47,00 --> 01:37:51,50 	someone stares dully as the main components around him part.
 DISTRICT_9.srt 	DISTRICT_9_DVS839 	01:39:15,00 --> 01:39:23,50 	someone stares through one blue eye and one yellow eye, double its previous size.
@@ -138,16 +112,12 @@ EASY_A.srt 	EASY_A_DVS191 	00:59:59,00 --> 01:00:05,50 	someone stares sympathet
 EASY_A.srt 	EASY_A_DVS230 	01:12:08,00 --> 01:12:13,50 	staring at it, someone tears up and bites her lip.
 EASY_A.srt 	EASY_A_DVS262 	01:19:33,00 --> 01:19:40,50 	someone stares wide-eyed.
 EASY_A.srt 	EASY_A_DVS294 	01:26:26,00 --> 01:26:31,50 	someone stares steadily at his laptop.
-EASY_A.srt 	EASY_A_DVS299 	01:26:40,00 --> 01:26:48,50 	someone sits at a fountain, staring at a text that reads, "ri, sorry i lied to you."
 FLIGHT.srt 	FLIGHT_DVS150 	00:27:26,00 --> 00:27:33,50 	the man wears a suit with a collar open, and is staring intently at his cell phone.
 FLIGHT.srt 	FLIGHT_DVS690 	01:33:05,00 --> 01:33:10,50 	someone stares at it, motionless.
 FLIGHT.srt 	FLIGHT_DVS968 	01:54:38,00 --> 01:54:44,50 	the girl stares at someone as someone hands him a handkerchief,
-FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS35 	00:09:52,00 --> 00:09:57,50 	he turns away, staring at his cell.
 FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS281 	01:13:36,00 --> 01:13:44,50 	someone uneasily notices diners staring.
 GET_HIM_TO_THE_GREEK.srt 	GET_HIM_TO_THE_GREEK_DVS38 	00:24:59,00 --> 00:25:03,50 	the young actor stares blankly.
-GET_HIM_TO_THE_GREEK.srt 	GET_HIM_TO_THE_GREEK_DVS106 	01:01:30,00 --> 01:01:39,50 	turning, someone stares wide-eyed at his glaring boss then puts on a smile.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS54 	00:09:42,00 --> 00:09:50,50 	someone shares a long gaze with his visitor, staring at him with his ice blue eyes.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS99 	00:15:24,00 --> 00:15:40,50 	the others stand motionless, staring at the rider's flaming skull.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS109 	00:17:47,00 --> 00:18:11,50 	the rider keeps his head in a firm grip, staring relentlessly.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS239 	00:38:06,00 --> 00:38:30,50 	ghost rider stares at it.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS285 	00:44:01,00 --> 00:44:06,50 	someone stares sullenly.
@@ -161,7 +131,6 @@ GREEN_ZONE.srt 	GREEN_ZONE_DVS79 	00:21:10,00 --> 00:21:51,50 	staring with part
 GREEN_ZONE.srt 	GREEN_ZONE_DVS279 	01:05:02,00 --> 01:05:14,50 	someone stares with an arched brow then strides out.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS310 	01:10:26,00 --> 01:10:34,50 	someone stares out a window inside.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS362 	01:23:12,00 --> 01:23:25,50 	as he stares at his imposing superior, someone nods him toward the door.
-GREEN_ZONE.srt 	GREEN_ZONE_DVS440 	01:36:48,00 --> 01:37:08,50 	edging closer, someone glances back at someone and finds him staring lifelessly.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS464 	01:41:26,00 --> 01:41:32,50 	someone stares then musters a nod.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS470 	01:42:38,00 --> 01:42:51,50 	someone bites her lower lip as she stares after him.
 GROWN_UPS.srt 	GROWN_UPS_DVS61 	00:18:22,00 --> 00:18:29,50 	the pastor stares, aghast.
@@ -176,27 +145,19 @@ HUGO.srt 	HUGO_DVS156 	00:21:29,00 --> 00:21:34,50 	someone stares at his uncle 
 HUGO.srt 	HUGO_DVS157 	00:21:42,00 --> 00:21:48,50 	someone's eyes flip from side to side as he stares downward.
 HUGO.srt 	HUGO_DVS186 	00:26:27,00 --> 00:26:34,50 	staring at someone, someone steps forward and hands him a small parcel wrapped in cloth.
 HUGO.srt 	HUGO_DVS226 	00:33:27,00 --> 00:33:33,50 	someone shuffles the cards as he stares at the boy.
-HUGO.srt 	HUGO_DVS253 	00:35:56,00 --> 00:36:03,50 	holding his dog on a leash, the station inspector stares intently at the boy as he follows him.
 HUGO.srt 	HUGO_DVS309 	00:47:28,00 --> 00:47:33,50 	someone stares into someone's eyes.
 HUGO.srt 	HUGO_DVS360 	00:55:10,00 --> 00:55:15,50 	someone picks up the drawing and stares at it.
-HUGO.srt 	HUGO_DVS374 	00:56:57,00 --> 00:57:02,50 	still staring at the drawing, someone slowly sits.
 HUGO.srt 	HUGO_DVS422 	01:01:42,00 --> 01:01:47,50 	he stares at someone and someone.
 HUGO.srt 	HUGO_DVS449 	01:04:58,00 --> 01:05:02,50 	the inspector stares at the flower seller.
 HUGO.srt 	HUGO_DVS485 	01:11:35,00 --> 01:11:41,50 	the man raises his eyebrows as he stares down at someone.
-HUGO.srt 	HUGO_DVS523 	01:17:27,00 --> 01:17:33,50 	the inspector turns and picks up the wrench then stares up at the clock.
 HUGO.srt 	HUGO_DVS585 	01:24:49,00 --> 01:24:53,50 	the automaton stares at someone.
-HUGO.srt 	HUGO_DVS594 	01:25:45,00 --> 01:25:52,50 	sitting on his bed, staring back at the automaton, someone holds a small oil lamp.
 HUGO.srt 	HUGO_DVS601 	01:26:46,00 --> 01:26:52,50 	the inspector hangs up the phone then stares intently at someone.
-HUGO.srt 	HUGO_DVS602 	01:27:02,00 --> 01:27:09,50 	someone's ears stand straight up as he stares at the inspector.
 HUGO.srt 	HUGO_DVS713 	01:45:09,00 --> 01:45:14,50 	someone reaches out toward someone who stares at the inspector.
-HUGO.srt 	HUGO_DVS777 	01:52:51,00 --> 01:52:56,50 	he glances at someone who stands nearby staring at them.
 IN_TIME.srt 	IN_TIME_DVS59 	00:06:43,00 --> 00:06:49,50 	nearby, a man starring at his exposed body clock hangs up a phone.
 IN_TIME.srt 	IN_TIME_DVS120 	00:14:27,00 --> 00:14:33,50 	he stares off sadly, then meets someone's stoic gaze.
 IN_TIME.srt 	IN_TIME_DVS243 	00:25:13,00 --> 00:25:18,50 	he stares with hardened eyes.
-IN_TIME.srt 	IN_TIME_DVS255 	00:26:12,00 --> 00:26:20,50 	standing at a car's open door, she turns as he passes and stares after him.
 IN_TIME.srt 	IN_TIME_DVS286 	00:29:01,00 --> 00:29:08,50 	on the patio, the young woman stops staring as a waitress serves her.
 IN_TIME.srt 	IN_TIME_DVS289 	00:29:41,00 --> 00:29:45,50 	he stares intently.
-IN_TIME.srt 	IN_TIME_DVS308 	00:31:47,00 --> 00:31:52,50 	sitting beside someone, she stares at someone.
 IN_TIME.srt 	IN_TIME_DVS335 	00:34:47,00 --> 00:34:52,50 	he stares at the sales attendant, then shifts his gaze.
 IN_TIME.srt 	IN_TIME_DVS434 	00:46:32,00 --> 00:46:49,50 	someone's auburn hair blows across her face as she stares slack-jawed at the oncoming traffic.
 IN_TIME.srt 	IN_TIME_DVS479 	00:51:56,00 --> 00:52:02,50 	the inner door opens and someone's wife stares out.
@@ -206,7 +167,6 @@ IN_TIME.srt 	IN_TIME_DVS552 	00:59:29,00 --> 00:59:34,50 	someone stares sadly.
 IN_TIME.srt 	IN_TIME_DVS562 	01:00:21,00 --> 01:00:27,50 	someone stares off with woeful eyes.
 IN_TIME.srt 	IN_TIME_DVS677 	01:13:31,00 --> 01:13:37,50 	many others linger on the spot staring at the authorities.
 IN_TIME.srt 	IN_TIME_DVS679 	01:13:36,00 --> 01:13:44,50 	riding shotgun, the gang leader stares wide-eyed at the newly-empowered citizens.
-IN_TIME.srt 	IN_TIME_DVS683 	01:14:05,00 --> 01:14:10,50 	taking a garment from her basket, she pauses and stares inside.
 IN_TIME.srt 	IN_TIME_DVS694 	01:14:42,00 --> 01:14:49,50 	the proprietor stares slack-jawed at his clock
 IN_TIME.srt 	IN_TIME_DVS839 	01:29:11,00 --> 01:29:17,50 	she stares off thoughtfully, then shifts her eyes back to him.
 IN_TIME.srt 	IN_TIME_DVS850 	01:30:03,00 --> 01:30:09,50 	he stares with wide eyes.
@@ -216,35 +176,24 @@ INSIDE_MAN.srt 	INSIDE_MAN_DVS113 	00:33:31,00 --> 00:33:36,50 	sits at the desk
 INSIDE_MAN.srt 	INSIDE_MAN_DVS158 	00:46:54,00 --> 00:46:59,50 	someone stares off pensively.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS305 	01:32:35,00 --> 01:32:40,50 	someone stares unblinking.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS320 	01:35:52,00 --> 01:35:58,50 	someone lies on her back, staring meekly at two riflemen over her.
-INSIDE_MAN.srt 	INSIDE_MAN_DVS432 	02:02:16,00 --> 02:02:27,50 	someone stares with a confused look, then faces his reflection in a vanity mirror.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS28 	00:03:10,00 --> 00:03:37,50 	starring robert downey jr. as someone stark and iron man.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS40 	00:04:49,00 --> 00:04:57,50 	someone smiles as he stares down at the glowing device, which emits a bright beam of light as he picks it up.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS155 	00:28:49,00 --> 00:28:57,50 	he takes out his finger, leans against the sink counter with his head lowered, pauses, then stares at his reflection in the mirror.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS219 	00:42:13,00 --> 00:42:19,50 	staring at someone, the guard places the tray on a shelf attached to the cell door and leaves.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS326 	00:58:34,00 --> 00:58:41,50 	he lies staring through the flames, then pulls his head out of the fire.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS402 	01:15:48,00 --> 01:15:53,50 	someone stares at his mustached father, who nods and smiles.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS578 	01:40:15,00 --> 01:40:22,50 	someone stares into the rear-view mirror as someone changes clothes.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS160 	00:53:14,00 --> 00:53:22,50 	he nuzzles her neck then stares lustfully at her.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS200 	01:00:52,00 --> 01:00:57,50 	someone stares admiring and shakes his head.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS218 	01:04:26,00 --> 01:04:35,50 	jakes smile fades and he stares at her.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS239 	01:08:51,00 --> 01:09:05,50 	her legs crossed, she idly bounces her foot, and stares off.
-ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS259 	01:14:30,00 --> 01:14:36,50 	someone stares at his family glumly then gives a regretful look.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS366 	01:42:48,00 --> 01:43:02,50 	she stares up at the night sky with her hands crossed protectively over her chest.
-JACK_AND_JILL.srt 	JACK_AND_JILL_DVS158 	00:32:05,00 --> 00:32:10,50 	someone finds his son staring at him.
 JACK_AND_JILL.srt 	JACK_AND_JILL_DVS188 	00:36:56,00 --> 00:37:01,50 	she stops and stares at two players.
 JACK_AND_JILL.srt 	JACK_AND_JILL_DVS432 	01:20:29,00 --> 01:20:34,50 	her date stares cross-eyed.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS123 	00:21:05,00 --> 00:21:12,50 	someone stares wide-eyed at her.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS127 	00:22:01,00 --> 00:22:06,50 	in a bridge class, someone stares out a window.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS249 	00:46:23,00 --> 00:46:33,50 	he shuts off a lamp, and stares up at the ceiling.
-JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS367 	01:09:57,00 --> 01:10:04,50 	it strolls into the kitchen and takes a seat, staring at the oven.
-JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS81 	00:30:14,00 --> 00:30:20,50 	facing someone, she finds him staring pointedly at her.
-JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS83 	00:30:45,00 --> 00:30:51,50 	someone turns to someone, who stares agog at him.
-JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS98 	00:36:23,00 --> 00:36:30,50 	returning to mrs. harrington, she finds someone staring at her.
 JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS222 	01:17:09,00 --> 01:17:19,50 	someone notices someone staring at his lap.
 JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS299 	01:37:49,00 --> 01:37:56,50 	staring thoughtfully, he fondles his wedding ring between his fingertips.
 JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS305 	01:38:25,00 --> 01:38:31,50 	he remains awake, staring blankly across the room.
 KARATE_KID.srt 	KARATE_KID_DVS118 	00:10:55,00 --> 00:11:01,50 	his friendly expression fades as they keep staring.
-KARATE_KID.srt 	KARATE_KID_DVS353 	00:31:42,00 --> 00:31:48,50 	as they leave, the american stands motionless, staring after them.
 KARATE_KID.srt 	KARATE_KID_DVS394 	00:35:33,00 --> 00:35:38,50 	someone shifts his weight as he stares uneasily at his mother.
 KARATE_KID.srt 	KARATE_KID_DVS412 	00:37:38,00 --> 00:37:47,50 	she spots someone staring at the door and heads over.
 KARATE_KID.srt 	KARATE_KID_DVS418 	00:38:08,00 --> 00:38:14,50 	shifting his eyes, he sees someone and his friends staring at them.
@@ -255,7 +204,6 @@ KARATE_KID.srt 	KARATE_KID_DVS547 	00:49:25,00 --> 00:49:33,50 	someone stares d
 KARATE_KID.srt 	KARATE_KID_DVS575 	00:51:26,00 --> 00:51:32,50 	he stares at them as his instructor continues.
 KARATE_KID.srt 	KARATE_KID_DVS584 	00:51:53,00 --> 00:51:59,50 	the instructor stares down at them.
 KARATE_KID.srt 	KARATE_KID_DVS604 	00:52:43,00 --> 00:52:48,50 	master someone stares firmly.
-KARATE_KID.srt 	KARATE_KID_DVS819 	01:08:11,00 --> 01:08:19,50 	as someone stares at his friend tenderly, someone gives a shy smile and fidgets.
 KARATE_KID.srt 	KARATE_KID_DVS837 	01:09:20,00 --> 01:09:27,50 	she stares at the screen, slack-jawed, then disbelievingly cocks her head.
 KARATE_KID.srt 	KARATE_KID_DVS961 	01:18:42,00 --> 01:18:47,50 	someone swallows, staring at the magnificent feat.
 KARATE_KID.srt 	KARATE_KID_DVS1028 	01:23:32,00 --> 01:23:38,50 	the man stares at the boy, then slowly rests a hand on his back.
@@ -268,17 +216,13 @@ KARATE_KID.srt 	KARATE_KID_DVS1399 	01:52:39,00 --> 01:52:47,50 	someone stares 
 KARATE_KID.srt 	KARATE_KID_DVS1524 	02:03:35,00 --> 02:03:40,50 	someone stares tenderly at him.
 KARATE_KID.srt 	KARATE_KID_DVS1610 	02:10:57,00 --> 02:11:06,50 	master someone's lips part as he stares.
 KATY_PERRY_PART_OF_ME.srt 	KATY_PERRY_PART_OF_ME_DVS104 	00:23:17,00 --> 00:23:22,50 	someone stares wide-eyed at the camera.
-KATY_PERRY_PART_OF_ME.srt 	KATY_PERRY_PART_OF_ME_DVS342 	01:20:14,00 --> 01:20:21,50 	someone stands aside and gazes at her sister then blinks and stares downward.
 KNOCKED_UP.srt 	KNOCKED_UP_DVS118 	01:10:29,00 --> 01:10:34,50 	into the bag, then stares off with a pensive expression.
 LAND_OF_THE_LOST.srt 	LAND_OF_THE_LOST_DVS56 	00:18:51,00 --> 00:18:56,50 	someone stares suspiciously.
 LARRY_CROWNE.srt 	LARRY_CROWNE_DVS24 	00:07:19,00 --> 00:07:38,50 	he stares at it for a moment, then slides the closet door shut.
 LARRY_CROWNE.srt 	LARRY_CROWNE_DVS136 	00:31:06,00 --> 00:31:11,50 	someone stares disbelievingly.
-LARRY_CROWNE.srt 	LARRY_CROWNE_DVS360 	01:26:18,00 --> 01:26:22,50 	taking a sip, she stares to someone.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS138 	00:16:36,00 --> 00:16:43,50 	staring at the glass, someone cautiously accepts the drink and takes a tiny sip.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS223 	00:29:44,00 --> 00:29:52,50 	later at the dinner table, someone stares off in a trance, smiling to himself as his father speaks.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS226 	00:30:58,00 --> 00:31:10,50 	someone stares longingly at his mother who catches someone's humorless gaze.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS261 	00:34:40,00 --> 00:34:47,50 	someone stares at his son as he shoves pills into a banana.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS264 	00:34:59,00 --> 00:35:06,50 	the writer watches him with a furrowed brow as adult someone stares into the river before them.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS356 	00:43:12,00 --> 00:43:18,50 	his limbs splayed as he stares at the enormous craft.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS401 	00:47:14,00 --> 00:47:20,50 	the spotted hyena keeps its four paws on the canvas, staring at someone.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS470 	00:52:48,00 --> 00:52:54,50 	as he stares down at her, someone's mournful expression hardens wrathfully.
@@ -286,7 +230,6 @@ LIFE_OF_PI.srt 	LIFE_OF_PI_DVS504 	00:55:47,00 --> 00:55:52,50 	someone pauses, 
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS621 	01:07:32,00 --> 01:07:40,50 	staring him down, someone's gaze softens.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS622 	01:07:37,00 --> 01:07:43,50 	the mostly submerged tiger stares up at him helplessly.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS666 	01:10:50,00 --> 01:10:55,50 	someone stares with a softened remorseful gaze.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS872 	01:28:05,00 --> 01:28:19,50 	he stares into the sky with a huge smile then pulls himself to a crouching position on the bench.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS938 	01:33:14,00 --> 01:33:18,50 	he stares for a moment.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS989 	01:37:20,00 --> 01:37:27,50 	later he climbs out of the pond and notices the meerkats staring behind him.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS1019 	01:39:35,00 --> 01:39:43,50 	with his mouth ajar, he stares down at a pool emitting a phosphorescent blue/green light.
@@ -294,23 +237,17 @@ LIFE_OF_PI.srt 	LIFE_OF_PI_DVS1041 	01:42:49,00 --> 01:42:54,50 	he blows the wh
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS1060 	01:46:03,00 --> 01:46:07,50 	he stares into the jungle.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS1062 	01:46:07,00 --> 01:46:12,50 	he stares and cries as they carry him away.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS1064 	01:46:34,00 --> 01:46:40,50 	with his mouth open, the story teller stares at his guest.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS1079 	01:49:12,00 --> 01:49:18,50 	the younger japanese man stares at someone as the older one turns to him.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS1099 	01:54:25,00 --> 01:54:29,50 	he stares off mournfully.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS1104 	01:55:03,00 --> 01:55:09,50 	he stares off with a haunted expression and takes a deep breath.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS1105 	01:55:16,00 --> 01:55:23,50 	at someone's house, the young writer stares off with parted lips and a furrowed brow.
 LITTLE_FOCKERS.srt 	LITTLE_FOCKERS_DVS44 	00:18:51,00 --> 00:18:56,50 	he stares unflinchingly.
-LITTLE_FOCKERS.srt 	LITTLE_FOCKERS_DVS118 	00:44:13,00 --> 00:44:19,50 	he stares at someone, who gives a halfhearted smile.
 LITTLE_FOCKERS.srt 	LITTLE_FOCKERS_DVS200 	01:12:02,00 --> 01:12:11,50 	glancing aside, he pauses and stares.
-LITTLE_FOCKERS.srt 	LITTLE_FOCKERS_DVS256 	01:24:06,00 --> 01:24:14,50 	in the grass, someone faces jinx, who stares at him.
 MORNING_GLORY.srt 	MORNING_GLORY_DVS50 	00:08:17,00 --> 00:08:22,50 	she fidgets and stares into space.
 MORNING_GLORY.srt 	MORNING_GLORY_DVS99 	00:21:52,00 --> 00:22:00,50 	someone loses his smirk and stares sourly at her.
 MORNING_GLORY.srt 	MORNING_GLORY_DVS156 	00:35:17,00 --> 00:35:21,50 	she stares at him.
 MORNING_GLORY.srt 	MORNING_GLORY_DVS255 	00:57:42,00 --> 00:57:47,50 	someone stares into the distance wearily.
 MORNING_GLORY.srt 	MORNING_GLORY_DVS325 	01:13:18,00 --> 01:13:22,50 	she stares at him.
 MORNING_GLORY.srt 	MORNING_GLORY_DVS409 	01:29:47,00 --> 01:29:51,50 	she stares in surprise.
-MORNING_GLORY.srt 	MORNING_GLORY_DVS431 	01:33:34,00 --> 01:33:42,50 	in the daybreak offices, she stands in a doorway staring down, and puts her hand on her hip.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS72 	00:11:36,00 --> 00:11:40,50 	someone stares off.
-MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS138 	00:21:00,00 --> 00:21:07,50 	waking up, someone finds himself staring straight into the birds open beak.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS508 	01:01:17,00 --> 01:01:24,50 	the family notices captain staring at an unhatched egg.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS525 	01:02:44,00 --> 01:02:48,50 	he stares at the unhatched egg.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS124 	00:28:34,00 --> 00:28:48,50 	someone stares stoically, her snaggletooth pressing into her lower lip.
@@ -327,11 +264,8 @@ NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS26 	00:02:43,00 --> 00:02:47,50 
 NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS307 	00:54:46,00 --> 00:54:50,50 	she stares at him.
 NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS320 	00:57:25,00 --> 00:57:30,50 	someone stares at his father.
 NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS379 	01:09:35,00 --> 01:09:41,50 	he glances at someone who stares ahead.
-NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS454 	01:23:04,00 --> 01:23:11,50 	someone calls someone as he stares at his phone, which someone holds aloft.
 NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS467 	01:25:54,00 --> 01:25:58,50 	she stares ahead intently.
-NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS548 	01:41:31,00 --> 01:41:38,50 	the door opens and she stares distastefully at an elderly gentleman.
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS14 	00:03:25,00 --> 00:03:29,50 	he stares off nostalgically.
-PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS332 	01:18:53,00 --> 01:18:59,50 	he looks at his daughter who stares back with a disappointed gaze.
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS338 	01:20:27,00 --> 01:20:32,50 	staring off, someone slowly shakes her head.
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS402 	01:30:12,00 --> 01:30:21,50 	she stares off, then glances back as someone clenches her jaw and strokes the strings with force.
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS426 	01:31:42,00 --> 01:31:50,50 	she stares off, then glances back as someone clenches her jaw and strokes the strings with force.
@@ -341,7 +275,6 @@ PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS308 	01:17
 PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS325 	01:21:19,00 --> 01:21:24,50 	then stares past the sign,
 PROMETHEUS.srt 	PROMETHEUS_DVS72 	00:04:06,00 --> 00:04:13,50 	one makes a seam down the side of his face and he stares at his transforming arm.
 PROMETHEUS.srt 	PROMETHEUS_DVS273 	00:26:20,00 --> 00:26:26,50 	other members of the crew move forward, staring out.
-PROMETHEUS.srt 	PROMETHEUS_DVS298 	00:29:31,00 --> 00:29:38,50 	the other survey team members leave the atvs staring up.
 PROMETHEUS.srt 	PROMETHEUS_DVS361 	00:35:25,00 --> 00:35:29,50 	he stares at an approaching light.
 PROMETHEUS.srt 	PROMETHEUS_DVS502 	00:52:59,00 --> 00:53:04,50 	someone stares grimly at holloway.
 PROMETHEUS.srt 	PROMETHEUS_DVS732 	01:18:50,00 --> 01:18:55,50 	she stares wide-eyed and her lips stammer.
@@ -350,18 +283,13 @@ PROMETHEUS.srt 	PROMETHEUS_DVS778 	01:23:41,00 --> 01:23:48,50 	relaxing a bit s
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS43 	00:06:57,00 --> 00:07:11,50 	then stares forward with a steely gaze.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS124 	00:23:00,00 --> 00:23:23,50 	he stares at the brunette in the red dress who laughs and beams.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS133 	00:24:35,00 --> 00:24:40,50 	someone stares back defiantly.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS174 	00:32:58,00 --> 00:33:05,50 	someone eyes it, then looks to a staring co-worker.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS180 	00:34:01,00 --> 00:34:24,50 	someone lifts the present from its box, staring at it.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS221 	00:40:50,00 --> 00:41:17,50 	someone' mouth drops open as he stares downward.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS226 	00:41:47,00 --> 00:41:52,50 	someone stops, staring with his mouth agape.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS251 	00:46:25,00 --> 00:46:31,50 	someone stares off.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS581 	01:48:20,00 --> 01:48:29,50 	in the interrogation room, the burly agent stays put beside the open door out of the sight line of his peers who's staring.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS673 	02:06:23,00 --> 02:06:44,50 	someone falls face down, eyes staring off as blood streams from his ruptured cheek.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS687 	02:08:50,00 --> 02:09:04,50 	she stares guardedly at him, then takes the seat facing his.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS692 	02:09:55,00 --> 02:10:00,50 	the agent stares solemnly.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS54 	00:14:20,00 --> 00:14:27,50 	the brawny man stares at the archer tauntingly then, lifts the middle cup.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS80 	00:21:23,00 --> 00:21:34,50 	someone stares slack jawed, then turns and breaks into a run.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS113 	00:28:55,00 --> 00:29:04,50 	someone stands staring at it thoughtfully.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS233 	00:53:57,00 --> 00:54:01,50 	staring down at her.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS391 	01:36:55,00 --> 01:37:10,50 	someone stares at it as he rides closer.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS448 	01:51:27,00 --> 01:51:48,50 	someone purses her lips as she stares at the fallen man's weapon.
@@ -372,16 +300,11 @@ RUBY_SPARKS.srt 	RUBY_SPARKS_DVS169 	00:28:28,00 --> 00:28:33,50 	he stares fear
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS185 	00:30:43,00 --> 00:30:47,50 	she stares meaningfully at him.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS199 	00:33:42,00 --> 00:33:50,50 	staring up at him tearfully, someone yields a smile.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS230 	00:35:32,00 --> 00:35:37,50 	someone stops dancing staring wide-eyed.
-RUBY_SPARKS.srt 	RUBY_SPARKS_DVS235 	00:35:46,00 --> 00:35:51,50 	facing him, someone stares slack-jawed.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS257 	00:40:14,00 --> 00:40:19,50 	someone stares dumbly at the page.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS374 	01:00:33,00 --> 01:00:39,50 	now in bed, someone stares up at the ceiling.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS382 	01:01:30,00 --> 01:01:37,50 	someone remains below, staring up after them.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS389 	01:02:31,00 --> 01:02:37,50 	someone freezes, staring off with a scowl.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS391 	01:02:49,00 --> 01:02:57,50 	at night, someone lies curled up in bed staring woefully at the unoccupied pillow beside him.
-RUBY_SPARKS.srt 	RUBY_SPARKS_DVS423 	01:05:36,00 --> 01:05:42,50 	at a box office, she holds him tight and stares up at his face.
-RUBY_SPARKS.srt 	RUBY_SPARKS_DVS450 	01:08:43,00 --> 01:08:49,50 	someone stares at his brother then looks down at someone.
-RUBY_SPARKS.srt 	RUBY_SPARKS_DVS454 	01:09:55,00 --> 01:10:01,50 	someone stares at his brother then looks down at the pool with a thoughtful smile.
-RUBY_SPARKS.srt 	RUBY_SPARKS_DVS477 	01:12:16,00 --> 01:12:23,50 	someone sits with his hands on his knees, staring with a furrowed brow.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS484 	01:13:31,00 --> 01:13:38,50 	someone stares then swaps awkward smiles with saskia.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS489 	01:14:46,00 --> 01:14:51,50 	he stares at her then averts his gaze.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS594 	01:28:18,00 --> 01:28:24,50 	he stares in her direction.
@@ -396,20 +319,16 @@ SALT.srt 	SALT_DVS481 	01:22:52,00 --> 01:23:00,50 	someone stares into her plea
 SALT.srt 	SALT_DVS517 	01:28:45,00 --> 01:28:51,50 	he stares after her.
 SALT.srt 	SALT_DVS552 	01:35:20,00 --> 01:35:28,50 	he stares into the water.
 SANCTUM.srt 	SANCTUM_DVS373 	01:14:20,00 --> 01:14:30,50 	now, as someone coils a handful of rope, he glances at someone who stares off with a stunned gaze, his head propped on his hand.
-SANCTUM.srt 	SANCTUM_DVS375 	01:14:37,00 --> 01:14:47,50 	his son sits on a ledge, his mouth set in a line and his eyes staring blankly.
 SANCTUM.srt 	SANCTUM_DVS416 	01:20:34,00 --> 01:20:39,50 	someone stares off.
 SANCTUM.srt 	SANCTUM_DVS492 	01:31:03,00 --> 01:31:10,50 	someone's light falls on someone's body, her eyes staring lifelessly.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS78 	00:05:56,00 --> 00:06:00,50 	she stares vacantly.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS111 	00:07:36,00 --> 00:07:41,50 	as she gets closer, she stares at the floor.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS197 	00:14:22,00 --> 00:14:28,50 	the stern-faced woman stares down at the seated girl.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS310 	00:20:38,00 --> 00:20:43,50 	someone sits at her car, staring off absently.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS559 	00:37:21,00 --> 00:37:27,50 	who stares off thoughtfully with an infant strapped to her back.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS999 	01:05:18,00 --> 01:05:25,50 	staring off, she shifts her attention to the traffic ahead and pulls her car forward.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1189 	01:20:25,00 --> 01:20:31,50 	she stares off with a dazed, stricken expression.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1376 	01:33:53,00 --> 01:33:58,50 	brow creased, someone stares down at her weakened sister.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1405 	01:35:37,00 --> 01:35:44,50 	now, tears shine in someone's eyes as she stares off with a distant expression.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1416 	01:36:19,00 --> 01:36:24,50 	she lowers the sheet of paper and stares off.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1478 	01:39:41,00 --> 01:39:46,50 	staring at the ceiling, someone gives a weary blink.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS135 	00:25:25,00 --> 00:25:33,50 	he stares after someone.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS184 	00:36:04,00 --> 00:36:13,50 	someone stares down at the someone.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS189 	00:36:54,00 --> 00:37:01,50 	one of the cops stares at someone, who tips his hat.
@@ -420,20 +339,13 @@ SOUL_SURFER.srt 	SOUL_SURFER_DVS211 	01:08:33,00 --> 01:08:39,50 	she stares off
 SOUL_SURFER.srt 	SOUL_SURFER_DVS232 	01:11:41,00 --> 01:11:51,50 	the dispirited woman stares back, her gaze broken.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS318 	00:52:35,00 --> 00:52:42,50 	she stares out for a moment toward her oldest daughter, then gently closes the front door.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS387 	01:04:41,00 --> 01:04:48,50 	in the living room, someone sits on the couch with her hands in her lap, staring straight ahead.
-SPARKLE_2012.srt 	SPARKLE_2012_DVS581 	01:35:04,00 --> 01:35:13,50 	someone glares reproachfully at someone, who stares ahead with an uncaring expression as her daughter leaves the house.
-SUPER_8.srt 	SUPER_8_DVS58 	00:08:51,00 --> 00:08:56,50 	someone stares at his father who looks away.
 SUPER_8.srt 	SUPER_8_DVS73 	00:11:21,00 --> 00:11:30,50 	her reflection appears in a rear-view mirror as she stares at someone in the backseat.
 SUPER_8.srt 	SUPER_8_DVS91 	00:15:13,00 --> 00:15:21,50 	the tall bespectacled someone wearing a suit, tie, and brimmed hat stares trance-like at someone.
 SUPER_8.srt 	SUPER_8_DVS205 	00:35:40,00 --> 00:35:46,50 	the clerk stares at his book as sheriff throws a candy bar at his head,
-SUPER_8.srt 	SUPER_8_DVS262 	00:44:32,00 --> 00:44:40,50 	he turns and stares toward the adjacent junkyard which is obscured behind trees then returns to his repairs.
-SUPER_8.srt 	SUPER_8_DVS278 	00:48:30,00 --> 00:48:35,50 	someone turns and stares at someone.
 SUPER_8.srt 	SUPER_8_DVS287 	00:51:37,00 --> 00:51:42,50 	someone stares blankly at someone.
 SUPER_8.srt 	SUPER_8_DVS292 	00:53:14,00 --> 00:53:20,50 	tears well up in someone's eyes as he stares at his father.
-SUPER_8.srt 	SUPER_8_DVS293 	00:53:21,00 --> 00:53:26,50 	someone's face twitches as he stares back then turns and leaves.
 SUPER_8.srt 	SUPER_8_DVS311 	00:55:24,00 --> 00:55:30,50 	covered in cuts and bandages someone stares up at him.
 SUPER_8.srt 	SUPER_8_DVS347 	01:02:14,00 --> 01:02:20,50 	someone gulps and glances at someone then stares at the hole again.
-SUPER_8.srt 	SUPER_8_DVS431 	01:17:55,00 --> 01:17:59,50 	someone turns and stares at someone.
-SUPER_8.srt 	SUPER_8_DVS536 	01:29:53,00 --> 01:29:58,50 	someone turns to someone who stares straight ahead,
 SUPER_8.srt 	SUPER_8_DVS596 	01:37:40,00 --> 01:37:44,50 	the creature stares at someone.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS57 	00:08:28,00 --> 00:08:34,50 	the bearded man narrows his eyes as he stares after someone.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS318 	00:49:19,00 --> 00:49:24,50 	someone stares up at puffy white clouds.
@@ -442,22 +354,17 @@ THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS693 	01:32:46,00 --> 0
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS26 	00:05:55,00 --> 00:06:14,50 	with parted lips he stares through the chain linked fence toward a highway and a distant bridge spanning the nearby river.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS128 	00:29:00,00 --> 00:29:05,50 	someone stares past someone and frowns.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS225 	00:43:21,00 --> 00:43:26,50 	nodding, someone stares down at the table.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS228 	00:44:34,00 --> 00:44:38,50 	staring at someone, he gives a faint sad smile.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS231 	00:44:51,00 --> 00:44:57,50 	starring into someone's eyes, someone gives a tiny nod.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS238 	00:46:20,00 --> 00:46:27,50 	she averts her gaze as someone stares crestfallen, someone leans toward him.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS244 	00:47:04,00 --> 00:47:11,50 	someone stares back angrily.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS246 	00:47:15,00 --> 00:47:23,50 	staring after him she shakes her head then storms off in the opposite direction.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS272 	00:52:18,00 --> 00:52:31,50 	in class, someone stares out a window at a neighboring building.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS311 	00:59:11,00 --> 00:59:18,50 	someone's chin furrows sadly as he stares at his mentor.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS328 	01:03:55,00 --> 01:04:02,50 	someone's mouth creases as she stares at him remorsefully.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS332 	01:04:23,00 --> 01:04:45,50 	he stares at the daunting stack of folders and assignment books for a moment then turns on a lamp and opens up his laptop.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS335 	01:05:17,00 --> 01:05:29,50 	later, someone sets up a blank canvas on an easel and stares at it.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS365 	01:11:51,00 --> 01:11:57,50 	he stares off, his lips pursed in a thoughtful pout.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS286 	00:53:26,00 --> 00:53:34,50 	someone winces, stifling tears, then stares off.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS398 	01:15:35,00 --> 01:15:40,50 	staring at her intently, he nods.
-THE_CALL.srt 	THE_CALL_DVS150 	00:12:27,00 --> 00:12:33,50 	the stern-faced woman stares at the door and takes a heavy breath.
 THE_CALL.srt 	THE_CALL_DVS174 	00:14:06,00 --> 00:14:16,50 	she stares at the main display and the green ready icon in the center of the interface.
-THE_CALL.srt 	THE_CALL_DVS189 	00:15:18,00 --> 00:15:24,50 	her coworker stands and stares with her gaze fixed ahead.
 THE_CALL.srt 	THE_CALL_DVS571 	00:43:49,00 --> 00:43:54,50 	the kidnapper's face calms as he stares straight ahead.
 THE_CALL.srt 	THE_CALL_DVS757 	00:57:28,00 --> 00:57:33,50 	someone stares wide-eyed at her computer screen.
 THE_CALL.srt 	THE_CALL_DVS758 	00:57:30,00 --> 00:57:36,50 	someone's smiling dmv photo stares back.
@@ -480,7 +387,6 @@ THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS517 	01:14:58,00 --> 01:15:02,50 	someon
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS526 	01:17:08,00 --> 01:17:13,50 	he stares off with glistening eyes.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS575 	01:25:41,00 --> 01:25:47,50 	now, on the flight back, someone stares off pensively.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS610 	01:30:09,00 --> 01:30:15,50 	someone scowls at his father-in-law, then stares off bitterly.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS674 	01:34:26,00 --> 01:34:33,50 	now, someone stares off with doleful eyes as he sits at a table.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS726 	01:42:01,00 --> 01:42:07,50 	she stares down at someone's frozen, slack-jawed expression.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS748 	01:44:40,00 --> 01:44:47,50 	our view drifts to someone's weary face as he stares across the room.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS82 	00:08:53,00 --> 00:08:58,50 	she stares through darkly lined eyes.
@@ -500,7 +406,6 @@ THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1412 	02
 THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS56 	00:15:48,00 --> 00:15:54,50 	someone stares at his mom for a moment, then squeezes his eyes shut.
 THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS100 	00:34:50,00 --> 00:34:55,50 	someone blinks, then stares up at the ceiling.
 THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS155 	00:53:08,00 --> 00:53:14,50 	then goes back to staring listlessly out the window.
-THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS276 	01:31:17,00 --> 01:31:23,50 	someone takes out his cell phone and stares at it, waiting.
 THE_SITTER.srt 	THE_SITTER_DVS8 	00:06:33,00 --> 00:06:39,50 	she tilts her head staring meaningfully at someone.
 THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS78 	00:22:40,00 --> 00:22:45,50 	the sandwich to someone, who stares at photos on a wall.
 THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS205 	01:20:53,00 --> 01:20:58,50 	someone stares off at the dance floor.
@@ -511,12 +416,9 @@ THE_VOW.srt 	THE_VOW_DVS236 	00:30:11,00 --> 00:30:17,50 	on the couch, someone 
 THE_VOW.srt 	THE_VOW_DVS342 	00:46:30,00 --> 00:46:35,50 	someone stares off thoughtfully.
 THE_VOW.srt 	THE_VOW_DVS368 	00:52:12,00 --> 00:52:17,50 	she stares after him.
 THE_VOW.srt 	THE_VOW_DVS442 	01:02:16,00 --> 01:02:21,50 	he stares at her groomed and lightened tresses.
-THE_VOW.srt 	THE_VOW_DVS567 	01:18:18,00 --> 01:18:23,50 	someone finds someone staring at him, stunned.
 THE_VOW.srt 	THE_VOW_DVS594 	01:23:06,00 --> 01:23:12,50 	someone stares off, tears welling in his deep set eyes.
 THE_VOW.srt 	THE_VOW_DVS652 	01:30:40,00 --> 01:30:44,50 	folding them she stares off.
-THE_VOW.srt 	THE_VOW_DVS665 	01:32:50,00 --> 01:32:58,50 	now someone sits on a bench on the law schools quad and stares into the distance.
 THE_VOW.srt 	THE_VOW_DVS697 	01:37:14,00 --> 01:37:19,50 	he stares at her radiant smile.
-THE_WATCH.srt 	THE_WATCH_DVS265 	00:49:24,00 --> 00:49:29,50 	staring at the creature, someone slowly stands.
 THE_WATCH.srt 	THE_WATCH_DVS334 	00:57:52,00 --> 00:57:59,50 	the boy stares at his ice cream cone.
 THE_WATCH.srt 	THE_WATCH_DVS337 	00:58:44,00 --> 00:58:52,50 	someone notices piles of batteries in someone's cart, then stares into his neighbor's brown eyes.
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS346 	01:24:55,00 --> 01:24:59,50 	she stares, her jaw slack.
@@ -526,19 +428,14 @@ THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS428 	01:39:14,00 --> 01:39:22,50 	as t
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS483 	01:48:25,00 --> 01:48:31,50 	as she eats, someone stares off with a distant look.
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS512 	01:53:37,00 --> 01:53:42,50 	he stares slack-jawed.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS32 	00:04:11,00 --> 00:04:18,50 	as someone climbs back onto the helipad, someone stares down at the destruction.
-THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS78 	00:13:07,00 --> 00:13:14,50 	as someone faces him, the aggressive father stares into his eyes.
-THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS300 	00:54:52,00 --> 00:55:03,50 	he swings away, leaving the kids staring from the bunker windows.
 THOR.srt 	THOR_DVS78 	00:10:33,00 --> 00:10:38,50 	smiling, someone stares up at king someone.
-THOR.srt 	THOR_DVS141 	00:20:58,00 --> 00:21:03,50 	someone stares at his brother then pulls his arm free,
 THOR.srt 	THOR_DVS207 	00:28:08,00 --> 00:28:14,50 	someone stares at his son then slowly lowers his eyes.
 THOR.srt 	THOR_DVS211 	00:29:05,00 --> 00:29:11,50 	someone stares into someone's eyes, then steps back a few paces.
 THOR.srt 	THOR_DVS225 	00:30:17,00 --> 00:30:23,50 	someone stares up at someone backlit by the truck's headlights.
-THOR.srt 	THOR_DVS272 	00:36:23,00 --> 00:36:28,50 	as he stares at the crater, then takes out a cell phone.
 THOR.srt 	THOR_DVS321 	00:47:43,00 --> 00:47:49,50 	someone glances at someone, then stares straight ahead.
 THOR.srt 	THOR_DVS332 	00:49:43,00 --> 00:49:47,50 	staring at someone.
 THOR.srt 	THOR_DVS389 	00:57:53,00 --> 00:58:02,50 	standing over the motionless agent, someone wipes his muddy forearm across his chin, then stares at someone's silhouette.
 THOR.srt 	THOR_DVS391 	00:58:18,00 --> 00:58:24,50 	standing in the rain, agent someone stares down at him.
-THOR.srt 	THOR_DVS395 	00:58:57,00 --> 00:59:05,50 	someone staggers backward while staring at his hands, then faces skyward and squints into the falling rain.
 THOR.srt 	THOR_DVS673 	01:40:32,00 --> 01:40:37,50 	someone stares up at his father.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS326 	00:37:59,00 --> 00:38:09,50 	he steps out of the gangway and stares disbelievingly.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS695 	01:16:58,00 --> 01:17:02,50 	someone stares slack-jawed.
@@ -546,11 +443,9 @@ TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS890 	01:34:00,00 --> 01:34:05,50 	she stares, th
 TRUE_GRIT.srt 	TRUE_GRIT_DVS48 	00:08:19,00 --> 00:08:25,50 	someone stares at a dark exposed hand.
 TRUE_GRIT.srt 	TRUE_GRIT_DVS122 	00:32:05,00 --> 00:32:09,50 	he stares at her.
 TRUE_GRIT.srt 	TRUE_GRIT_DVS123 	00:32:35,00 --> 00:32:42,50 	wearing dirty combinations, someone lies on the scruffy bed staring at someone.
-TRUE_GRIT.srt 	TRUE_GRIT_DVS210 	00:44:15,00 --> 00:44:20,50 	the two kids sit staring at someone through narrowed eyes.
 TRUE_GRIT.srt 	TRUE_GRIT_DVS226 	00:48:12,00 --> 00:48:17,50 	he stares at the dark, deathly face framed by matted hair.
 TRUE_GRIT.srt 	TRUE_GRIT_DVS241 	00:50:24,00 --> 00:50:29,50 	staring at dense tangled bushes
 TRUE_GRIT.srt 	TRUE_GRIT_DVS332 	01:10:15,00 --> 01:10:23,50 	someone just stares at someone who goes to get more cornbread from his saddle bag.
-TRUE_GRIT.srt 	TRUE_GRIT_DVS362 	01:14:20,00 --> 01:14:24,50 	someone sits staring at him.
 TRUE_GRIT.srt 	TRUE_GRIT_DVS492 	01:33:03,00 --> 01:33:08,50 	breathless, she stares up through the narrow cave mouth.
 TRUE_GRIT.srt 	TRUE_GRIT_DVS581 	01:41:05,00 --> 01:41:10,50 	someone stares out of a train window.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS650 	01:30:30,00 --> 01:30:35,50 	someone stares into his eyes.
@@ -559,20 +454,13 @@ WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS83 	00:13:22,00 --> 00:13:27,50 	he star
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS148 	00:25:34,00 --> 00:25:45,50 	someone stares curiously at the welcoming stranger inside the restaurant.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS198 	00:33:49,00 --> 00:33:56,50 	meanwhile, someone lies in bed staring at a framed photo of himself with his mother.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS322 	00:52:23,00 --> 00:52:29,50 	someone stares at his hand, which he wags slowly.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS379 	01:00:14,00 --> 01:00:23,50 	sitting at the bar, someone stares off with a troubled look,
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS387 	01:01:15,00 --> 01:01:25,50 	lifting his head, he looks over and finds her swirling her fingers over the flashlight, as she stares at the sky with a 	dreamy expression.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS439 	01:08:59,00 --> 01:09:05,50 	as he stares at the bank statements in his hands, someone bridles.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS533 	01:21:18,00 --> 01:21:25,50 	he releases her hand and they both sit quietly, staring into the darkness.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS549 	01:25:44,00 --> 01:25:50,50 	his father stares at his tearful savage glare.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS561 	01:27:09,00 --> 01:27:14,50 	he stares out at someone.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS566 	01:27:30,00 --> 01:27:37,50 	turning, someone finds his son staring in at him timidly.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS620 	01:32:25,00 --> 01:32:30,50 	someone stares tearfully at the photo.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS629 	01:33:29,00 --> 01:33:36,50 	he wets his lips as he stares longingly at the passing vision of his wife.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS713 	01:42:56,00 --> 01:43:05,50 	someone stares at his daughter, who looks up sweetly at the inspector.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS741 	01:46:11,00 --> 01:46:17,50 	someone's mirthful grin vanishes and she stares at someone.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS742 	01:46:14,00 --> 01:46:21,50 	panting, he stares back, then cracks an undaunted smile.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS778 	01:50:54,00 --> 01:51:04,50 	as someone stares with astonished eyes, the zoo's patrons give excited looks.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS837 	01:57:42,00 --> 01:57:53,50 	he strides up to the table, faces a seat, then stares wistfully.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS846 	01:58:30,00 --> 01:58:35,50 	he stares down at her.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS53 	00:03:57,00 --> 00:04:07,50 	she stares, then shuts her door.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS215 	00:27:23,00 --> 00:27:29,50 	a friendly little face stares out from its head.
@@ -581,7 +469,6 @@ WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS586 	01:20:15,00 --> 01:20:19,50 	he
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS746 	01:39:51,00 --> 01:39:55,50 	someone stares back at her fondly.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS39 	00:02:58,00 --> 00:03:03,50 	the boy lingers, staring at her.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS115 	00:07:35,00 --> 00:07:42,50 	he lowers his arms, staring as the doctor lowers the gun remorsefully.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS126 	00:08:14,00 --> 00:08:21,50 	the doctor stands staring at the rattling-steel lab tables.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS151 	00:09:43,00 --> 00:09:50,50 	clad in a bathrobe, he stares ahead with a haunted expression.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS268 	00:20:47,00 --> 00:20:53,50 	someone extends a crimson hand to someone, who stares.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS327 	00:24:40,00 --> 00:24:49,50 	the bartender's arm trembles and he stares at the gun.
@@ -590,12 +477,10 @@ XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS361 	00:30:02,00 --> 00:30:08,50 	she 
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS437 	00:38:16,00 --> 00:38:20,50 	he stares, slack-jawed.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS447 	00:39:23,00 --> 00:39:29,50 	she stares piercingly at someone, her eyes narrowing.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS526 	00:48:18,00 --> 00:48:27,50 	as they head out the door, he stares over his shoulder after them, then downs his drink and gestures for another.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS532 	00:48:53,00 --> 00:49:01,50 	entering a room covered in mirrored panels, someone finds someone staring down at a waist-high nuclear reactor.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS570 	00:53:57,00 --> 00:54:03,50 	someone stares dejectedly as he heads off.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS890 	01:21:05,00 --> 01:21:10,50 	he stares off, his chest heaving, then clenches his
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS915 	01:24:11,00 --> 01:24:17,50 	someone stares with a conflicted gaze.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS921 	01:24:54,00 --> 01:24:59,50 	she stares into his eye
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1022 	01:32:08,00 --> 01:32:14,50 	and finds the five mutants staring up at the shuttle.
 YOUNG_ADULT.srt 	YOUNG_ADULT_DVS99 	00:14:33,00 --> 00:14:40,50 	someone stares at a chili's restaurant as she drives past, then at a staples store.
 YOUNG_ADULT.srt 	YOUNG_ADULT_DVS100 	00:14:47,00 --> 00:14:55,50 	she stares at a combination kfc, pizza hut, and taco bell, and shakes her head as she drives past.
 YOUNG_ADULT.srt 	YOUNG_ADULT_DVS154 	00:27:35,00 --> 00:27:40,50 	her smile gradually fades as she stares at him.
@@ -606,7 +491,6 @@ YOUNG_ADULT.srt 	YOUNG_ADULT_DVS300 	00:57:20,00 --> 00:57:25,50 	the driver, a 
 YOUNG_ADULT.srt 	YOUNG_ADULT_DVS369 	01:10:52,00 --> 01:10:57,50 	someone shakes her head slightly as she stares wide-eyed at someone.
 YOUNG_ADULT.srt 	YOUNG_ADULT_DVS407 	01:19:01,00 --> 01:19:08,50 	he lies beside her and stares into her eyes.
 YOUNG_ADULT.srt 	YOUNG_ADULT_DVS415 	01:19:37,00 --> 01:19:43,50 	someone lies on his back beside someone who stares at the ceiling.
-YOUNG_ADULT.srt 	YOUNG_ADULT_DVS428 	01:23:09,00 --> 01:23:14,50 	she stares at someone's sister then looks away.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS317 	00:35:55,00 --> 00:36:00,50 	little someone stares at the ring then hands it over.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS632 	01:11:57,00 --> 01:12:02,50 	she stares disbelievingly.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS637 	01:12:14,00 --> 01:12:18,50 	he stares desperately.
@@ -619,4 +503,3 @@ ZOOKEEPER.srt 	ZOOKEEPER_DVS300 	01:06:32,00 --> 01:06:38,50 	he unflinchingly s
 ZOOKEEPER.srt 	ZOOKEEPER_DVS308 	01:08:25,00 --> 01:08:34,50 	staring straight ahead, someone remains motionless in his seat.
 ZOOKEEPER.srt 	ZOOKEEPER_DVS323 	01:12:51,00 --> 01:12:57,50 	as someone stares with crestfallen eyes, someone leans.
 ZOOKEEPER.srt 	ZOOKEEPER_DVS343 	01:16:37,00 --> 01:16:56,50 	with a resigned smile, she leans against the railing around the eagle enclosure's glass observation wall and stares out at the birds.
-ZOOKEEPER.srt 	ZOOKEEPER_DVS357 	01:20:05,00 --> 01:20:12,50 	now, venom holds two lizards as he approaches someone who stares into someone's pit.

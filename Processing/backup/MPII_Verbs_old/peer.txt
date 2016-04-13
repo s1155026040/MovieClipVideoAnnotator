@@ -1,76 +1,118 @@
-0001_American_Beauty_00.33.59.032-00.34.01.212 	Suddenly, the service entrance opens, and a large CATERING BOSS in a cheap suit peers out at them.
-0001_American_Beauty_00.50.22.193-00.50.24.097 	She peers through the window.
-0003_CASABLANCA_01.15.45.168-01.15.52.158 	While Ilsa takes off some jewelry he walks to the window and peers out into the darkness.
-0003_CASABLANCA_01.33.41.304-01.33.43.108 	Renault opens the office door and peers down at the proceedings.
-0004_Charade_01.49.52.730-01.49.57.298 	As REGGIE slowly peers out.
-0006_Clerks_00.45.30.901-00.45.31.686 	She peers into the store, face against the glass.
-0007_DIE_NACHT_DES_JAEGERS_00.44.30.088-00.44.35.409 	As he peers over side.
-0007_DIE_NACHT_DES_JAEGERS_00.53.22.588-00.53.24.254 	JOHN'S astonished eyes peer through the crack in the door; the door loosens; PREACHER yanks his hand loose and sucks it, groaning; the door slams to; the bolt is shot home.
-0008_Fargo_00.36.30.020-00.36.36.648 	Marge is peering into the car.
-0010_Frau_Ohne_Gewissen_01.43.23.515-01.43.24.104 	Behind him, on the balcony outside, stands the night watchman and the colored janitor, peering curiously into the room over Keyes' shoulder.
-0011_Gandhi_02.46.59.056-02.47.00.484 	He peers down at the dark, rioting streets.
-0011_Gandhi_02.57.41.744-02.57.47.413 	Gandhi turns to Mirabehn, his face shaking, peering into her eyes.
-0013_Halloween_01.24.11.354-01.24.13.809 	The shape leans in, peering down at Laurie in the corner, raising the knife.
-0014_Ist_das_Leben_nicht_schoen_00.05.43.541-00.05.46.834 	Mr. Gower, the druggist, peering from a window in back room.
-0014_Ist_das_Leben_nicht_schoen_00.28.21.336-00.28.24.786 	We see Mary's face peering out from the leaves.
-0014_Ist_das_Leben_nicht_schoen_01.12.01.984-01.12.02.406 	He peers intently into Potter's face.
-0014_Ist_das_Leben_nicht_schoen_01.23.34.435-01.23.37.103 	Potter is peering through the slats of the Venetian blind, watching them as they go.
-0017_Pianist_02.16.59.664-02.17.02.455 	He peers out to see Polish soldiers beginning to surround the ruined building, firing shots, lobbing in a grenade or two.
-0020_Raising_Arizona_00.00.39.183-00.00.39.797 	A pretty young woman in a severe police uniform peers out from behind it.
-0020_Raising_Arizona_00.20.52.834-00.20.55.962 	As he peers through the lens.
-0021_Rear_Window_00.50.31.470-00.50.33.470 	She peers out cautiously toward Thorwald's apartment for a moment.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.06.51.711-00.06.55.135 	A YOUNGISH LOOKING BILBO BAGGINS peers down at what lies in his hand, PERPLEXED by what he has found.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.46.00.889-00.46.04.185 	The ringwraith suddenly slides off his horse, leaning over the mossy log, peering suspiciously into the woods.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.52.07.586-00.52.14.680 	Sam indicates a BROODING STRANGER who sits alone at a table in the far corner, smoking a curiously carved long stemmed pipe, peering from beneath a travel stained cowl with gleaming eyes.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.55.15.066-00.55.15.814 	The Gatekeeper peers out of his Peephole.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.56.28.678-00.56.29.883 	Frodo stands next to Strider by the window, peering out nervously as furious Ringwraith screeches echo across the courtyard from the Hobbits room.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.33.12.776-02.33.15.158 	Frodo peers out from the seat.the world seems to shrink.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.39.54.451-00.39.54.788 	GOLLUM CAREFULLY peers OVER the lip of the GULLY.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.56.43.788-00.56.47.929 	GOLLUM peering down from ABOVE.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.53.58.604-01.54.10.898 	GORBAG peer curiously at FRODO as he leans down and pokes at FRODO'S LIFELESS BODY.
-0026_The_Big_Fish_00.31.22.238-00.31.24.260 	Beamen's daughter JENNY (8) hides behind her father, peering around to look at the handsome stranger.
-0026_The_Big_Fish_01.03.14.625-01.03.18.042 	Sandra and her SISTERS peer out through the curtains.
-0028_The_Crying_Game_00.08.30.732-00.08.33.547 	Then she lifts the hood ever so slightly, to peer inside.
-0030_The_Hustler_00.53.01.642-00.53.05.827 	Sarah, in a robe, walks up and joins him in bed as they both peer out the window.
-0031_The_Lost_Weekend_00.11.40.803-00.11.47.233 	He peers into the shop to make sure there are no other customers, then quickly steps inside and stands breathing heavily.
-0031_The_Lost_Weekend_01.05.51.688-01.05.59.094 	He peers through the iron gate into the dark shop, turns around.
-0031_The_Lost_Weekend_01.25.09.386-01.25.12.216 	Out of the hole peers a small mouse.
-0031_The_Lost_Weekend_01.27.07.300-01.27.08.393 	Mrs. Deveridge stands in her door, peering up.
-0032_The_Princess_Bride_00.17.17.665-00.17.18.785 	He watches them depart, then turns, peers down over the cliffs.
-0033_Amadeus_01.31.16.966-01.31.21.537 	As soon as it goes, Lorl appears in the doorway, peering slyly around to see that they are out of sight.
+0001_American_Beauty_00.33.59.032-00.34.01.212 	suddenly, the service entrance opens, and a large catering boss in a cheap suit peers out at them.
+0001_American_Beauty_00.50.22.193-00.50.24.097 	she peers through the window.
+0003_CASABLANCA_01.15.45.168-01.15.52.158 	while ilsa takes off some jewelry he walks to the window and peers out into the darkness.
+0004_Charade_01.45.56.311-01.45.57.227 	quickly, he peers back out and throws another shot.
+0004_Charade_01.49.52.730-01.49.57.298 	as reggie slowly peers out.
+0006_Clerks_00.45.30.901-00.45.31.686 	she peers into the store, face against the glass.
+0007_DIE_NACHT_DES_JAEGERS_00.26.31.693-00.26.32.259 	john gasps, peering, and looks up.
+0007_DIE_NACHT_DES_JAEGERS_00.44.30.088-00.44.35.409 	as he peers over side.
+0007_DIE_NACHT_DES_JAEGERS_00.53.22.588-00.53.24.254 	john's astonished eyes peer through the crack in the door; the door loosens; preacher yanks his hand loose and sucks it, groaning; the door slams to; the bolt is shot home.
+0008_Fargo_00.36.30.020-00.36.36.648 	marge is peering into the car.
+0008_Fargo_00.38.09.009-00.38.11.174 	peering at it from behind, still on her hands and knees, is marge.
+0010_Frau_Ohne_Gewissen_01.43.23.515-01.43.24.104 	behind him, on the balcony outside, stands the night watchman and the colored janitor, peering curiously into the room over keyes' shoulder.
+0011_Gandhi_02.46.59.056-02.47.00.484 	he peers down at the dark, rioting streets.
+0011_Gandhi_02.57.41.744-02.57.47.413 	gandhi turns to mirabehn, his face shaking, peering into her eyes.
+0013_Halloween_01.24.11.354-01.24.13.809 	the shape leans in, peering down at laurie in the corner, raising the knife.
+0014_Ist_das_Leben_nicht_schoen_00.05.43.541-00.05.46.834 	mr. gower, the druggist, peering from a window in back room.
+0014_Ist_das_Leben_nicht_schoen_00.28.21.336-00.28.24.786 	we see mary's face peering out from the leaves.
+0014_Ist_das_Leben_nicht_schoen_01.12.01.984-01.12.02.406 	he peers intently into potter's face.
+0014_Ist_das_Leben_nicht_schoen_01.23.34.435-01.23.37.103 	potter is peering through the slats of the venetian blind, watching them as they go.
+0017_Pianist_02.16.59.664-02.17.02.455 	he peers out to see polish soldiers beginning to surround the ruined building, firing shots, lobbing in a grenade or two.
+0020_Raising_Arizona_00.00.39.183-00.00.39.797 	a pretty young woman in a severe police uniform peers out from behind it.
+0020_Raising_Arizona_00.20.52.834-00.20.55.962 	as he peers through the lens.
+0021_Rear_Window_00.50.31.470-00.50.33.470 	she peers out cautiously toward thorwald's apartment for a moment.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.46.00.889-00.46.04.185 	the ringwraith suddenly slides off his horse, leaning over the mossy log, peering suspiciously into the woods.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.52.07.586-00.52.14.680 	sam indicates a brooding stranger who sits alone at a table in the far corner, smoking a curiously carved long stemmed pipe, peering from beneath a travel stained cowl with gleaming eyes.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.55.15.066-00.55.15.814 	the gatekeeper peers out of his peephole.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.56.28.678-00.56.29.883 	frodo stands next to strider by the window, peering out nervously as furious ringwraith screeches echo across the courtyard from the hobbits room.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.39.54.451-00.39.54.788 	gollum carefully peers over the lip of the gully.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.56.43.788-00.56.47.929 	gollum peering down from above.
+0026_The_Big_Fish_00.31.22.238-00.31.24.260 	beamen's daughter jenny (8) hides behind her father, peering around to look at the handsome stranger.
+0026_The_Big_Fish_01.03.14.625-01.03.18.042 	sandra and her sisters peer out through the curtains.
+0028_The_Crying_Game_00.08.30.732-00.08.33.547 	then she lifts the hood ever so slightly, to peer inside.
+0030_The_Hustler_00.53.01.642-00.53.05.827 	sarah, in a robe, walks up and joins him in bed as they both peer out the window.
+0031_The_Lost_Weekend_00.11.40.803-00.11.47.233 	he peers into the shop to make sure there are no other customers, then quickly steps inside and stands breathing heavily.
+0031_The_Lost_Weekend_01.05.51.688-01.05.59.094 	he peers through the iron gate into the dark shop, turns around.
+0031_The_Lost_Weekend_01.25.09.386-01.25.12.216 	out of the hole peers a small mouse.
+0031_The_Lost_Weekend_01.27.07.300-01.27.08.393 	mrs. deveridge stands in her door, peering up.
+0033_Amadeus_01.31.16.966-01.31.21.537 	as soon as it goes, lorl appears in the doorway, peering slyly around to see that they are out of sight.
+0038_Psycho_00.26.05.858-00.26.08.824 	peering through the blurred windshield.
 0038_Psycho_00.26.08.925-00.26.11.773 	peering through the windshield.
-0041_The_Sixth_Sense_01.04.44.352-01.04.49.488 	All three lean over and peer into a glass cabinet.
-0050_Indiana_Jones_and_the_last_crusade_00.14.45.142-00.14.46.879 	He peers through the window in the door to see Indy completing his lecture.
-0050_Indiana_Jones_and_the_last_crusade_00.24.40.763-00.24.45.305 	Brody peers inside to Donovan and Indy.
-0050_Indiana_Jones_and_the_last_crusade_00.32.22.486-00.32.23.281 	Elsa holds the lighter as she peers in at him through the hole in the wall.
-0050_Indiana_Jones_and_the_last_crusade_00.42.58.977-00.43.00.152 	He opens the bathroom door, peering inside.
-0050_Indiana_Jones_and_the_last_crusade_01.25.11.673-01.25.17.431 	Kazim peers over a rock, pointing his rifle at the group below.
-0050_Indiana_Jones_and_the_last_crusade_01.35.08.074-01.35.19.209 	Indy finally manages to pull himself atop the tank once more where he punches Vogel over the side, then peers down to Henry, still inside the tank.
-0051_Men_in_black_00.08.17.541-00.08.21.689 	The Agents peer closely at it.
-0051_Men_in_black_01.08.26.866-01.08.31.653 	She peers into the jewel, and her face washes over with amazement.
-0051_Men_in_black_01.17.29.897-01.17.31.798 	Balled up on the back of his neck, he peers out the window as they tear through the tunnel, ZOOMING over the bottlenecked traffic underneath.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.38.48.068-01.38.52.074 	The two of them crawl on the floor, peering underneath the cubicles.
-1003_How_to_Lose_Friends_and_Alienate_People_00.23.09.684-00.23.13.545 	He peers at the contact sheet through a magnifying eye-glass to see two portly middle aged gentlemen holding glasses of wine.
-1003_How_to_Lose_Friends_and_Alienate_People_01.15.58.456-01.15.59.988 	Leaning his head against the door frame, he peers into the dark room, where Alison lies sleeping.
-1004_Juno_00.42.23.671-00.42.28.660 	She peers in through one of the two oval leaded windows.
-1005_Signs_00.39.01.375-00.39.05.227 	Merrill then peers casually over his shoulder and notices his downcast brother.
-1005_Signs_00.49.31.740-00.49.33.570 	He peers down at Morgan's book.
-1005_Signs_00.53.15.030-00.53.22.697 	He peers through slats in the wooden door behind it, then, gingerly closes the screen.
-1005_Signs_00.56.48.180-00.56.52.847 	He peers earnestly at Graham, whose eyes moistened a little as he fights with his emotions.
-1005_Signs_01.05.23.987-01.05.25.434 	Morgan peers up at his father.
+0041_The_Sixth_Sense_01.04.44.352-01.04.49.488 	all three lean over and peer into a glass cabinet.
+0050_Indiana_Jones_and_the_last_crusade_00.14.45.142-00.14.46.879 	he peers through the window in the door to see indy completing his lecture.
+0050_Indiana_Jones_and_the_last_crusade_00.32.22.486-00.32.23.281 	elsa holds the lighter as she peers in at him through the hole in the wall.
+0050_Indiana_Jones_and_the_last_crusade_00.42.58.977-00.43.00.152 	he opens the bathroom door, peering inside.
+0050_Indiana_Jones_and_the_last_crusade_01.35.08.074-01.35.19.209 	indy finally manages to pull himself atop the tank once more where he punches vogel over the side, then peers down to henry, still inside the tank.
+0051_Men_in_black_00.08.17.541-00.08.21.689 	the agents peer closely at it.
+0051_Men_in_black_01.08.26.866-01.08.31.653 	she peers into the jewel, and her face washes over with amazement.
+0051_Men_in_black_01.17.29.897-01.17.31.798 	balled up on the back of his neck, he peers out the window as they tear through the tunnel, zooming over the bottlenecked traffic underneath.
+1002_Harry_Potter_and_the_Half-Blood_Prince_01.38.48.068-01.38.52.074 	the two of them crawl on the floor, peering underneath the cubicles.
+1003_How_to_Lose_Friends_and_Alienate_People_00.23.09.684-00.23.13.545 	he peers at the contact sheet through a magnifying eye-glass to see two portly middle aged gentlemen holding glasses of wine.
+1003_How_to_Lose_Friends_and_Alienate_People_01.15.58.456-01.15.59.988 	leaning his head against the door frame, he peers into the dark room, where alison lies sleeping.
+1004_Juno_00.42.23.671-00.42.28.660 	she peers in through one of the two oval leaded windows.
+1005_Signs_00.39.01.375-00.39.05.227 	merrill then peers casually over his shoulder and notices his downcast brother.
+1005_Signs_00.49.31.740-00.49.33.570 	he peers down at morgan's book.
+1005_Signs_00.53.15.030-00.53.22.697 	he peers through slats in the wooden door behind it, then, gingerly closes the screen.
+1005_Signs_00.56.48.180-00.56.52.847 	he peers earnestly at graham, whose eyes moistened a little as he fights with his emotions.
+1005_Signs_01.05.23.987-01.05.25.434 	morgan peers up at his father.
+1005_Signs_01.09.07.505-01.09.15.444 	he moves to a window, which is being partially boarded up on the inside and peers out.
+1010_TITANIC_00.24.17.257-00.24.21.924 	eyes narrowed, jack smokes a cigarette as he peers across the table to sven's partner.
+1010_TITANIC_01.33.12.677-01.33.15.122 	he lets go of rose's hand, then peers inside the car.
+1010_TITANIC_01.42.31.523-01.42.33.290 	jack, rose, and the two men peer over the railing at the iceberg, now behind the ship.
+1011_The_Help_00.34.59.183-00.35.07.058 	minnie, in a green straw hat and spotty dress and carrying a pie and a fan, peers out from the door of an empty bus.
+1011_The_Help_01.29.13.906-01.29.16.288 	his wise dark eyes peer at her through his owl-like glasses.
+1012_Unbreakable_00.00.55.705-00.00.57.729 	people are reflected in the mirror of a shop changing room, peering in nervously.
+1012_Unbreakable_01.04.53.638-01.04.54.925 	he peers toward elijah.
+1012_Unbreakable_01.05.58.248-01.06.01.779 	in the shop the assistant peers down at elijah.
+1012_Unbreakable_01.25.05.086-01.25.07.753 	he peers through the crack of a partly open door.
+1017_Bad_Santa_00.07.14.529-00.07.18.765 	later he joins santa in the vault, and finds santa peering through the hole he drilled.
+1018_Body_Of_Lies_00.20.54.187-00.20.55.854 	the young man peers out from behind a wall.
+1018_Body_Of_Lies_01.12.35.813-01.12.38.547 	he peers in through the french windows, pushing a long curtain aside.
+1019_Confessions_Of_A_Shopaholic_00.43.50.747-00.43.52.044 	she peers blankly at janne.
+1024_Identity_Thief_00.58.08.712-00.58.14.243 	the skiptracer peers out of his window, watching the businessmen at their numerous vehicles.
+1024_Identity_Thief_01.41.33.748-01.41.36.045 	sandy takes a step and peers intently at the conversation.
+1026_Legion_01.06.31.428-01.06.37.217 	bob, jeep, and charlie go to the window and peer out through the blinds.
+1027_Les_Miserables_01.02.30.348-01.02.31.294 	they peer into a chapel.
+1030_Public_Enemies_00.40.34.155-00.40.39.217 	baum whips out his gun, then peers at a car parked in the alley.
+1030_Public_Enemies_00.44.21.739-00.44.23.822 	he peers down the platform through beady eyes.
+1030_Public_Enemies_01.14.32.409-01.14.37.074 	the audience turns, peering at the people to the right.
+1030_Public_Enemies_01.21.32.369-01.21.39.371 	purvis's beady eyes peer downward, deep in thought.
+1030_Public_Enemies_01.41.16.817-01.41.20.484 	peering through his round sunglasses, dillinger watches her go.
+1031_Quantum_of_Solace_00.18.31.075-00.18.41.818 	he enters cautiously, peering round the door, into the plainly furnished, empty living room.
+1031_Quantum_of_Solace_01.16.27.730-01.16.42.018 	a man climbs up to peer in it, but the well is dry.
+1033_Sherlock_Holmes_A_Game_of_Shadows_01.18.23.512-01.18.26.179 	he peers through it into a command center.
+1034_Super_8_00.45.22.142-00.45.29.135 	as he peers into the gloom, rooney notices the headlights of his truck and the streetlight nearby start to flicker.
+1035_The_Adjustment_Bureau_00.03.45.139-00.03.51.467 	he gloomily peers toward the sitting area, then picks up a tv remote and hits a button.
+1035_The_Adjustment_Bureau_00.11.05.357-00.11.07.453 	she peers back.
+1035_The_Adjustment_Bureau_01.24.15.217-01.24.19.358 	as we peer out the side of the adjustment bureau high rise raindrops plummet at us.
+1037_The_Curious_Case_Of_Benjamin_Button_00.20.47.185-00.20.50.139 	as he peers out, he breathes against the glass.
+1037_The_Curious_Case_Of_Benjamin_Button_00.53.48.856-00.53.53.359 	he peers through the window and sees an ocean liner passing the other way.
+1037_The_Curious_Case_Of_Benjamin_Button_01.02.58.609-01.03.05.201 	she peers into the kitchen, where benjamin is busy making the tea.
+1037_The_Curious_Case_Of_Benjamin_Button_02.16.41.126-02.16.42.897 	he peers out into the corridor.
+1042_Up_In_The_Air_01.17.58.458-01.18.00.249 	he peers inside.
+1044_Pride_And_Prejudice_Disk_Two_00.06.24.274-00.06.27.696 	he jumps down and peers over a wall.
+1044_Pride_And_Prejudice_Disk_Two_01.39.02.480-01.39.14.922 	the housekeeper peers out of the window at longbourn, and seeing the messenger arriving, quickly hurries out to meet him.
+1046_Australia_00.14.32.000-00.14.35.861 	she peers in horror through her desert glasses, her net veil blowing in the breeze.
+1046_Australia_00.26.45.000-00.26.53.493 	she goes to the window, accompanied by nullah, and peers out.
+1047_Defiance_00.03.17.989-00.03.19.597 	a small boy with blackened face and hands peers up at his two older brothers.
+1047_Defiance_00.36.45.220-00.36.47.404 	they peer down into a shelter and smile.
+1047_Defiance_01.01.13.533-01.01.14.634 	one jewish man hiding in a doorway peers towards the floodlit square where german guards are on duty in front of the barb wired entrance to the ghetto.
+1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.52.10.416-00.52.12.900 	he's peering over the dividing wall.
+1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.10.55.872-01.11.01.127 	narrowing her eyes, she peers towards the dark shadows under the trees.
+1051_Harry_Potter_and_the_goblet_of_fire_01.28.36.631-01.28.40.243 	she peers mischievously into the water.
+1051_Harry_Potter_and_the_goblet_of_fire_01.33.02.106-01.33.09.680 	he heads through a narrow channel, peering uncertainly through the cloudy water.
+1051_Harry_Potter_and_the_goblet_of_fire_01.55.33.693-01.55.42.509 	he peers through the swirling mist and spots viktor.
+1051_Harry_Potter_and_the_goblet_of_fire_02.15.51.167-02.16.00.274 	dumbledore, snape, and mcgonagall peer into the trunk, down a deep shaft.
+1052_Harry_Potter_and_the_order_of_phoenix_00.53.39.220-00.53.44.161 	they peer inside.
+1052_Harry_Potter_and_the_order_of_phoenix_01.33.35.575-01.33.50.370 	his face twisted with anger, snape grabs harry viciously and peers into his face.
 1053_Harry_Potter_and_the_philosophers_stone_00.02.20.000-00.02.23.000 	twinkling eyes peer out below dark bushy eyebrows.
-1053_Harry_Potter_and_the_philosophers_stone_00.53.26.757-00.53.28.916 	seamus peers into a goblet.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_01.22.37.651-01.22.44.208 	hermione, harry and ron peer through a ruined archway.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_01.25.44.296-01.25.48.423 	they peer out of the back door.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_01.52.52.133-01.52.54.658 	they peer towards the cottage.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.31.54.885-01.32.08.788 	he walks over to it and bends down to peer underneath the bench.
 1062_Day_the_Earth_stood_still_00.27.46.988-00.27.55.067 	she peers in and sees the man's eyes fluttering.
-2026_Legion_00.36.46.559-00.36.51.949 	charlie and audrey peer between the slats covering the windows.
 2027_Les_Miserables_00.46.59.400-00.47.00.483 	we see cosette's frightened eyes peering out from a tiny gap in this wall.
 2034_Super_8_00.32.11.162-00.32.17.003 	alice watches joe, who peers into the camera for a long beat, finally standing up, looking out at the crash.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_00.00.50.661-00.00.55.938 	he peers inside, eyes flashing suspiciously, then withdraws.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_00.09.51.332-00.09.53.075 	harry drops onto the bed nearest, peers up at the chandelier swaying directly above his head.
-2054_Harry_Potter_and_the_prisoner_of_azkaban_00.10.12.767-00.10.20.204 	as the shrunken head cackles with delight, harry peers out the windscreen, watches london careering by.
-2054_Harry_Potter_and_the_prisoner_of_azkaban_00.31.02.888-00.31.05.919 	harry peers into his cup.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_00.48.55.702-00.48.57.561 	filch's rheumy eyes peer up, searching the upper shadows, then narrow.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_01.30.13.640-01.30.17.496 	confused, harry and hermione glance about, then -- as one -- peer up.

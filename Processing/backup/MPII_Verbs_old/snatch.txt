@@ -1,11 +1,65 @@
-0023_THE_BUTTERFLY_EFFECT_01.20.03.498-01.20.07.614 	Evan, anticipating Rick's fall, stomps Rick's face before snatching his journals from Karl's shelf.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.16.18.219-00.16.21.484 	suddenly it is snatched out of his hands as Frodo thrusts him into the middle of a passing throng of dancers as he is Swept away.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.17.03.311-00.17.09.259 	Pippin scrambles on to the back of Gandalf's wagon, snatching up a small firework.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.26.13.317-01.26.18.328 	A SOLDIER has snatched him by the collar.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.18.39.349-02.18.50.589 	GORBAG is snatching for the MITHRIL VEST.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.50.29.091-02.50.35.885 	SNATCH FRODO and SAM from the ROCK!
+0008_Fargo_00.51.58.257-00.52.01.503 	he angrily snatches it up.
+0014_Ist_das_Leben_nicht_schoen_01.29.17.076-01.29.18.283 	he snatches the phone from mary.
+0023_THE_BUTTERFLY_EFFECT_00.43.42.517-00.43.46.897 	thumper jumps off the bed and snatches the journal away.
+0023_THE_BUTTERFLY_EFFECT_01.20.03.498-01.20.07.614 	evan, anticipating rick's fall, stomps rick's face before snatching his journals from karl's shelf.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.03.55.438-00.03.57.950 	isildur snatches up the broken blade of narsil.the blade severs sauron's fingers.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.16.18.219-00.16.21.484 	suddenly it is snatched out of his hands as frodo thrusts him into the middle of a passing throng of dancers as he is swept away.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.17.03.311-00.17.09.259 	pippin scrambles on to the back of gandalf's wagon, snatching up a small firework.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.56.17.111-01.56.20.739 	gimli snatches up two rusty dwarf axes and leaps onto the tomb.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.26.13.317-01.26.18.328 	a soldier has snatched him by the collar.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.02.10.860-02.02.12.000 	with a roar, denethor snatches a flaming torch.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.18.39.349-02.18.50.589 	gorbag is snatching for the mithril vest.
+0030_The_Hustler_02.06.24.376-02.06.26.866 	he turns and snatches up his cue.
+0031_The_Lost_Weekend_00.59.18.701-00.59.20.199 	m. m.'s escort snatches it from his hand.
+0033_Amadeus_02.40.50.600-02.40.56.617 	the entire confutatis bursts over the room, as mozart snatches the manuscript pages from salieri and reads from it, singing.
+0050_Indiana_Jones_and_the_last_crusade_00.13.12.579-00.13.14.684 	he snatches up the cross only to be knocked down to the deck by a giant wave.
+1002_Harry_Potter_and_the_Half-Blood_Prince_00.28.23.572-00.28.26.337 	luna and harry watch as draco snatches his walking stick from filch.
+1004_Juno_00.45.51.120-00.45.54.040 	he snatches the tape from her and they watch the film.
+1006_Slumdog_Millionaire_00.27.18.491-00.27.21.904 	the child refuses so salim snatches the baby from her.
+1006_Slumdog_Millionaire_01.36.44.011-01.36.46.403 	javed snatches the remote control and changes the channel.
+1008_Spider-Man2_00.20.00.281-00.20.01.788 	he snatches it.
+1008_Spider-Man2_00.58.09.472-00.58.11.446 	snatching the bottle, harry knocks over his glass.
+1008_Spider-Man2_01.38.24.161-01.38.28.686 	peter dives across the table at mj, snatches her into his arms and flings her and him to the floor.
 1009_Spider-Man3_00.18.44.861-00.18.46.210 	he then tries to snatch at it.
+1009_Spider-Man3_00.59.51.193-00.59.54.448 	peter snatches it up.
+1009_Spider-Man3_02.03.41.348-02.03.43.806 	venom snatches the sky stick from under him.
+1010_TITANIC_00.25.06.684-00.25.11.959 	fabrizio snatches the tickets and dances.
+1010_TITANIC_00.49.54.353-00.49.55.610 	she snatches jack's sketchbook.
+1019_Confessions_Of_A_Shopaholic_00.31.41.891-00.31.42.825 	the woman snatches them.
+1019_Confessions_Of_A_Shopaholic_01.29.14.608-01.29.17.010 	luke leans over and snatches it from her.
+1023_Horrible_Bosses_00.56.59.993-00.57.01.359 	harken snatches the epipen.
+1024_Identity_Thief_00.33.32.060-00.33.35.081 	diana snatches his keys and runs.
+1026_Legion_00.33.08.614-00.33.09.581 	michael snatches the pump-action.
+1027_Les_Miserables_00.16.55.782-00.16.57.065 	a worker snatches a note.
+1030_Public_Enemies_00.32.18.993-00.32.21.600 	yanking the man's wrist over the counter, dillinger snatches his claim ticket.
+1033_Sherlock_Holmes_A_Game_of_Shadows_00.04.58.010-00.05.02.019 	he throws the man with the club and snatches the gun from the leader's hand.
 1034_Super_8_01.36.08.514-01.36.10.374 	bringing up the rear, tina is snatched by the creature and pulled back into the darkness.
+1037_The_Curious_Case_Of_Benjamin_Button_00.09.44.729-00.09.46.939 	thomas snatches the baby from its cot and runs.
+1037_The_Curious_Case_Of_Benjamin_Button_01.48.17.028-01.48.20.570 	benjamin watches solemnly as david snatches her away and dances closely with her.
+1041_This_is_40_00.14.52.913-00.14.56.580 	debbie snatches his computer tablet and leaves.
+1041_This_is_40_00.28.35.699-00.28.39.366 	her own hand snatches her out of view and she collapses with her feet sticking out.
+1042_Up_In_The_Air_00.36.22.551-00.36.23.222 	she snatches it.
+1047_Defiance_01.21.24.591-01.21.29.747 	zus snatches it from him and climbs out of the truck.
 1049_Harry_Potter_and_the_chamber_of_secrets_00.37.31.855-00.37.41.745 	he grabs a photo of himself a pixie has snatched from the wall, then looks down at harry, ron and hermione.
+1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.23.46.151-00.23.47.692 	harry snatches up his wand.
+1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.59.58.718-02.00.00.860 	hermione snatches off his glasses.
+1050_Harry_Potter_and_the_deathly_hallows_Disk_One_02.08.48.821-02.08.57.578 	harry snatches the wands from draco and stuns lucius.
+1051_Harry_Potter_and_the_goblet_of_fire_01.02.36.661-01.02.47.468 	harry hovers for a moment, then aims the firebolt down towards the gleaming golden egg, and triumphantly snatches it up.
+1051_Harry_Potter_and_the_goblet_of_fire_02.04.11.676-02.04.16.355 	snatching another mask.
+1053_Harry_Potter_and_the_philosophers_stone_00.09.02.633-00.09.14.026 	as he walks slowly into the kitchen, still staring at the envelope, dudley snatches the letter out of his hand.
+1053_Harry_Potter_and_the_philosophers_stone_00.24.26.994-00.24.32.264 	hagrid steps inside the vault and snatches up the package.
+1053_Harry_Potter_and_the_philosophers_stone_01.19.13.695-01.19.19.680 	snatching a bat from a beater, he deliberately hits a bludger straight to oliver, who falls backwards through the hoop.
+1053_Harry_Potter_and_the_philosophers_stone_01.30.59.333-01.31.06.308 	snape makes a grab, but only snatches a hand full of air.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_01.01.35.700-01.01.39.825 	neville's red lollipop is snatched from his hand and flips out into the street.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_01.01.35.700-01.01.39.825 	neville's red lollipop is snatched from his hand and flips out into the street.
+1059_The_devil_wears_prada_00.08.01.500-00.08.03.764 	emily snatches andy's briefcase.
+1059_The_devil_wears_prada_00.54.15.187-00.54.20.784 	once andy's gone, miranda turns back to stare after her and snatches up the coffee.
+1060_Yes_man_00.41.38.695-00.41.43.062 	carl snatches a flier from the guy outside the cafe.
+1062_Day_the_Earth_stood_still_00.42.29.000-00.42.34.000 	a guy with a beard jostles through the crowd and snatches a ticket from a man's pocket as he brushes past him.
+1062_Day_the_Earth_stood_still_00.43.30.468-00.43.33.638 	the thief sees his chance and snatches the ticket back off the prone man.
+1062_Day_the_Earth_stood_still_01.14.20.617-01.14.24.852 	a soldier drops down a rope and snatches helen.
+2005_Signs_00.40.07.096-00.40.08.947 	bo snatches the video as morgan tries to put it into the vcr.
+2017_Bad_Santa_00.12.41.128-00.12.53.053 	as he passes, he casually snatches a handful of car keys from the parking valet key-box and moves on.
+2026_Legion_00.26.39.238-00.26.40.007 	jeep snatches it up and aims it at gladys who turns calmly to face him.
+2027_Les_Miserables_00.16.56.049-00.16.56.632 	the main factory woman snatches the letter away from fantine.
+2040_The_Ugly_Truth_00.55.54.101-00.55.56.728 	abby spots this and snatches the remote out of mike's hand.
+2054_Harry_Potter_and_the_prisoner_of_azkaban_01.21.27.691-01.21.31.759 	a hand snatches harry's shoulder.

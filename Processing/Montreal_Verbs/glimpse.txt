@@ -1,49 +1,24 @@
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS36 	00:03:56,00 --> 00:04:03,50 	someone peeks down from a loft glimpsing his parents asleep in bed.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS286 	00:41:22,00 --> 00:41:36,50 	through a veil of wafting dust, we glimpse someone as he looks back and grins.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS640 	01:30:19,00 --> 01:31:04,50 	someone peeks over the side glimpsing the burning structure underneath.
 BLINDDATING.srt 	BLINDDATING_DVS303 	01:14:42,00 --> 01:15:00,50 	he glimpses a hazy black and white image of someone in the living room.
 BURLESQUE.srt 	BURLESQUE_DVS144 	00:19:50,00 --> 00:19:56,50 	we glimpse the burlesque lounge sign.
 CHRONICLE.srt 	CHRONICLE_DVS66 	00:07:44,00 --> 00:08:01,50 	through her viewfinder, we glimpse partygoers at an upper railing, then spot someone with his shoulder-mounted camera.
 CHRONICLE.srt 	CHRONICLE_DVS224 	00:32:31,00 --> 00:32:42,50 	as it steadies, we glimpse one of the boys plummeting.
-CHRONICLE.srt 	CHRONICLE_DVS412 	01:01:31,00 --> 01:01:38,50 	as our view tilts downward and glides over the asphalt, we glimpse two of the unconscious thugs.
-COLOMBIANA.srt 	COLOMBIANA_DVS464 	00:40:46,00 --> 00:40:53,50 	we glimpse an fbi jacket as the two teams approach a pair of waiting suvs.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS422 	01:03:42,00 --> 01:03:48,50 	in a close-up of someone's letter, we glimpse fragments of sentences.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS712 	01:36:02,00 --> 01:36:10,50 	as someone scrubs his sleeve, he glimpses a reflection of her bare back in the bathroom mirror.
 DISTRICT_9.srt 	DISTRICT_9_DVS50 	00:06:48,00 --> 00:06:52,50 	we glimpse a fenced-in camp.
 EASY_A.srt 	EASY_A_DVS199 	01:01:46,00 --> 01:01:51,50 	he glimpses at the protesters.
 FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS268 	01:09:34,00 --> 01:09:40,50 	someone glimpses someone sneaking out of someone's room in his robe.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS153 	00:23:48,00 --> 00:24:12,50 	someone looks around and glimpses someone hurrying alongside the building.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS195 	00:30:51,00 --> 00:31:02,50 	we glimpse ghost rider's skull.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS374 	00:55:14,00 --> 00:55:23,50 	the angel's eyes bulge, glimpsing a barrage of images - war, money, riots, napalm, a seductive woman.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS400 	00:59:04,00 --> 00:59:12,50 	our view whirls, glimpsing numerous passageways.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS499 	01:12:28,00 --> 01:12:39,50 	we glimpse a few chanting mouths.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS203 	00:58:12,00 --> 00:58:32,50 	we glimpse a black eagle emblem amid the return address and then, the same emblem on the cover page
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS597 	01:05:52,00 --> 01:05:59,50 	we glimpse a few green-tinted shapes swimming just below the surface.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS253 	00:52:54,00 --> 00:54:08,50 	as we glimpse someone eyeing the ruined veil, she remembers laughing merrily with her groom.
-PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS108 	00:28:07,00 --> 00:28:21,50 	as someone hops out and opens the side door, we glimpse a sign.
-PROMETHEUS.srt 	PROMETHEUS_DVS93 	00:05:28,00 --> 00:05:34,50 	as she peers in, we glimpse her brown eyes and delicate features.
-PROMETHEUS.srt 	PROMETHEUS_DVS837 	01:30:35,00 --> 01:30:41,50 	as she sets her hands on the counter, we glimpse the line of staples two inches under her navel.
-PROMETHEUS.srt 	PROMETHEUS_DVS920 	01:41:19,00 --> 01:41:27,50 	as the engineer climbs onto the gunner chair, we glimpse someone's motionless face in profile.
-PROMETHEUS.srt 	PROMETHEUS_DVS934 	01:42:34,00 --> 01:42:40,50 	we glimpse the ceiling opening up over the crescent shaped ship.
-PROMETHEUS.srt 	PROMETHEUS_DVS938 	01:43:31,00 --> 01:43:38,50 	someone glimpses the rising ship, then flees the shifting ground.
 PROMETHEUS.srt 	PROMETHEUS_DVS979 	01:47:49,00 --> 01:47:55,50 	as the impact plots out our view, we glimpse a burst of sparks.
-PROMETHEUS.srt 	PROMETHEUS_DVS984 	01:48:18,00 --> 01:48:26,50 	she rises to her feet, staggers a few steps, then glimpses an expanse of the vessel's outer wall.
-RUBY_SPARKS.srt 	RUBY_SPARKS_DVS262 	00:40:40,00 --> 00:40:48,50 	a reluctant someone starts typing and we glimpse his words as they spell out on the page.
-SALT.srt 	SALT_DVS297 	00:52:20,00 --> 00:52:29,50 	someone aims her gun through the cloud of dust and faintly glimpses matveyev's form.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS161 	00:33:45,00 --> 00:33:56,50 	wandering through the crowded dance floor someone glimpses someone still dancing with someone.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS181 	00:36:20,00 --> 00:36:28,50 	as someone's eyelids open and close between wakefulness and sleep, he glimpses her intermittently.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS108 	00:21:28,00 --> 00:21:39,50 	now, we glimpse lavish buildings housing atlantic city's hotel casinos.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS131 	00:26:37,00 --> 00:26:50,50 	we glimpse the racing horses' legs, someone's high heels, and someone's sneakered feet.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS264 	00:49:53,00 --> 00:50:08,50 	he glimpses someone as her elevator closes.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS542 	01:37:59,00 --> 01:38:12,50 	blood stains the freight elevator and they glimpse a fallen man's feet.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS28 	00:05:41,00 --> 00:05:46,50 	as it passes, we glimpse someone riding shotgun.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS91 	00:09:27,00 --> 00:09:31,50 	we glimpse its content.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS274 	00:32:16,00 --> 00:32:25,50 	we glimpse the words the mother was inebriated.
 THE_WATCH.srt 	THE_WATCH_DVS262 	00:48:49,00 --> 00:48:54,50 	they glimpse a dark shape within.
-THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS156 	00:30:04,00 --> 00:30:13,50 	we glimpse the couple from across the ring as they embrace, surrounded by the several strands of lights adorning the trapeze structure.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS369 	00:40:26,00 --> 00:40:36,50 	they glimpse the powder blue tights on his toes.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS106 	00:17:21,00 --> 00:17:29,50 	we glimpse the sun through a canopy of tree branches,
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS142 	00:24:54,00 --> 00:25:03,50 	we glimpse someone sitting alone at a booth inside.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS165 	00:28:38,00 --> 00:28:49,50 	we glimpse a binturong crossing a branch, a fox lying in tall grass, one parrot grooming another, a camel licking its 	mouth, and a grizzly bear.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS238 	00:39:38,00 --> 00:39:47,50 	as he writes one check after another, we glimpse an ocelot living in the zoo, then two curious ostriches.
-WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS685 	01:34:21,00 --> 01:34:28,50 	as she drives off, our view rises to glimpse the reception tent across the pond.

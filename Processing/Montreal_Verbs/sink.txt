@@ -1,38 +1,18 @@
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS415 	01:12:11,00 --> 01:12:17,50 	the sun sinks low in the sky, casting long shadows across the yard,
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS310 	00:45:02,00 --> 00:45:30,50 	someone grabs someone from behind, exposes his neck and sinks his teeth in.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS315 	00:45:52,00 --> 00:45:59,50 	sinking his teeth into her neck, he spins her around lifting her off her feet.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS520 	01:13:03,00 --> 01:13:09,50 	he sinks to his knees then keels over.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS614 	01:26:34,00 --> 01:26:41,50 	someone sinks his teeth into flesh, but finds himself biting someone's arm.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS900 	01:28:08,00 --> 01:28:12,50 	turning away, she sinks down to the floor.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS901 	01:28:09,00 --> 01:28:15,50 	she sinks down to the floor and leans her back against a booth seat.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS311 	01:14:44,00 --> 01:14:49,50 	his wife's gaze sinks heavily to the floor.
-CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS323 	01:20:42,00 --> 01:21:11,50 	someone looks up at lasky who appears to sink away.
-COLOMBIANA.srt 	COLOMBIANA_DVS661 	01:02:07,00 --> 01:02:13,50 	she shoots him in his leg and he sinks to one knee.
-COLOMBIANA.srt 	COLOMBIANA_DVS890 	01:24:16,00 --> 01:24:22,50 	her arms sink to her sides as she stares ahead.
-COLOMBIANA.srt 	COLOMBIANA_DVS896 	01:24:33,00 --> 01:24:39,50 	she moves closer, she sinks down before her murdered uncle, and sobs against his shoulder.
-DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS159 	00:37:48,00 --> 00:38:02,50 	he sinks to his knees then leans forward so his forehead is on the floor.
 DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS304 	01:15:55,00 --> 01:16:03,50 	hands sunk deep in his pockets, someone wades ankle deep into a pond next to the ranch house.
 DISTRICT_9.srt 	DISTRICT_9_DVS829 	01:37:42,00 --> 01:37:47,50 	the machine sinks down, and black fluid pours
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS109 	00:17:47,00 --> 00:18:11,50 	our vision doubles as the thug's eyes cross and he sinks down.
 GROWN_UPS.srt 	GROWN_UPS_DVS62 	00:18:41,00 --> 00:18:46,50 	someone sinks down on one knee.
-IN_TIME.srt 	IN_TIME_DVS114 	00:12:57,00 --> 00:13:04,50 	someone faces him, then sinks into a leather armchair positioned opposite the bench.
 KARATE_KID.srt 	KARATE_KID_DVS478 	00:43:09,00 --> 00:43:20,50 	he sinks a fist into someone's gut.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS374 	00:44:54,00 --> 00:45:01,50 	he watches helplessly as the ship sinks further beneath the churning waves.
-MORNING_GLORY.srt 	MORNING_GLORY_DVS179 	00:41:03,00 --> 00:41:09,50 	someone sinks back into his seat and the woman leaves.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS270 	00:59:24,00 --> 00:59:30,50 	she sinks to the ground.
 PROMETHEUS.srt 	PROMETHEUS_DVS82 	00:04:45,00 --> 00:04:54,50 	under water, the mangled body dismembers as it sinks.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS433 	01:47:27,00 --> 01:47:50,50 	the frenchman snarls lustily and sinks down before her.
-RUBY_SPARKS.srt 	RUBY_SPARKS_DVS170 	00:28:30,00 --> 00:28:36,50 	he sinks down behind the system and peeks out.
 SALT.srt 	SALT_DVS505 	01:27:12,00 --> 01:27:16,50 	she sinks to the floor.
-SANCTUM.srt 	SANCTUM_DVS560 	01:42:03,00 --> 01:42:08,50 	he begins to sink downward.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS123 	00:08:16,00 --> 00:08:22,50 	with a faint mischievous smirk, she sinks out of view.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1059 	01:11:15,00 --> 01:11:22,50 	sinking down to a chair, he sits close to someone and sings to her.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1192 	01:20:36,00 --> 01:20:43,50 	she sinks down, turning her back to us as she rests her head against her hand.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1278 	01:27:17,00 --> 01:27:23,50 	she sinks down slowly under the water.
-SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS316 	01:04:10,00 --> 01:04:13,50 	four electrical wall outlets sink the rising water
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS490 	01:10:33,00 --> 01:10:39,50 	deep in water, red someone stands on the burning sinking ship.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS495 	01:11:04,00 --> 01:11:08,50 	then sinks into the ocean.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS146 	00:25:18,00 --> 00:25:24,50 	she sinks down beneath the water and holds her head in her hands.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS200 	00:33:17,00 --> 00:33:23,50 	as someone sinks down in a chair, someone's gaze softened.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS477 	01:09:52,00 --> 01:09:56,50 	he slowly sinks out of view.
 THE_VOW.srt 	THE_VOW_DVS126 	00:13:07,00 --> 00:13:14,50 	he tickles her sides and she sinks to the floor in the fetal position.
@@ -40,10 +20,6 @@ THE_VOW.srt 	THE_VOW_DVS165 	00:17:17,00 --> 00:17:23,50 	with his back against 
 THE_VOW.srt 	THE_VOW_DVS501 	01:10:11,00 --> 01:10:16,50 	our view sinks into the shadows.
 THE_VOW.srt 	THE_VOW_DVS622 	01:25:29,00 --> 01:25:34,50 	someone's words sink in hard.
 TRUE_GRIT.srt 	TRUE_GRIT_DVS516 	01:35:01,00 --> 01:35:07,50 	another snake sinks its teeth into her left hand.
-WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS436 	01:01:38,00 --> 01:01:44,50 	tossing the ball backward, someone sinks another shot.
-WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS438 	01:01:48,00 --> 01:01:55,50 	she sinks a shot while sitting on the floor.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS442 	01:01:58,00 --> 01:02:05,50 	she sinks a three-pointer and her now shirtless friend retrieves the ball.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS448 	01:02:39,00 --> 01:02:45,50 	now, someone dribbles around someone and sinks a layup.
-WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS453 	01:03:06,00 --> 01:03:11,50 	he sinks a shot and she pushes him.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS127 	00:08:18,00 --> 00:08:24,50 	someone screams at the guards, who sink to their knees before him.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS406 	00:34:19,00 --> 00:34:27,50 	our view sinks beneath the water to find a hatch in the yacht's underside releasing a submarine.

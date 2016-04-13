@@ -1,0 +1,6 @@
+SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS449 	01:35:27,00 --> 01:35:32,50 	she become alive as the last of it gets absorbed.
+XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS354 	00:28:19,00 --> 00:28:30,50 	someone's clothes flutter as he contains the explosion between his hands, then absorbs it.
+XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS695 	01:02:54,00 --> 01:02:59,50 	someone absorbs his bullets.
+XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS702 	01:03:29,00 --> 01:03:33,50 	as he absorbs the bullets,
+XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS704 	01:03:35,00 --> 01:03:44,50 	flames engulf the someone, then shrink into his hands as he absorbs the energy.
+XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS744 	01:07:37,00 --> 01:07:40,50 	he absorbs it.

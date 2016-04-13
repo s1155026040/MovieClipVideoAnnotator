@@ -1,1 +1,3 @@
-1006_Slumdog_Millionaire_00.47.17.972-00.47.22.719 	Jamal is captivated by the singers on stage.
+1006_Slumdog_Millionaire_00.47.17.972-00.47.22.719 	jamal is captivated by the singers on stage.
+1027_Les_Miserables_01.11.05.384-01.11.10.094 	she sees marius watching her, captivated.
+1038_The_Great_Gatsby_00.31.50.355-00.31.52.949 	nick stands frowning as everyone else is captivated by the dazzling firework display.

@@ -1,0 +1,11 @@
+CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS127 	00:28:32,00 --> 00:28:42,50 	water droplets sag off the gate at the docks.
+KARATE_KID.srt 	KARATE_KID_DVS317 	00:28:24,00 --> 00:28:30,50 	someone gazes after them and his shoulders sag.
+LARRY_CROWNE.srt 	LARRY_CROWNE_DVS75 	00:19:26,00 --> 00:19:33,50 	the students follow his gaze to their professor, whose shoulders sag disappointedly.
+LARRY_CROWNE.srt 	LARRY_CROWNE_DVS284 	01:07:55,00 --> 01:08:00,50 	as he turns away, someone's shoulders sag.
+MORNING_GLORY.srt 	MORNING_GLORY_DVS304 	01:06:55,00 --> 01:06:59,50 	her shoulders sag.
+THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS316 	00:59:41,00 --> 00:59:53,50 	his shoulders sag as he lets out a sigh.
+THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS505 	01:31:12,00 --> 01:31:17,50 	in the bathroom, someone's shoulders sag.
+THOR.srt 	THOR_DVS599 	01:31:47,00 --> 01:31:52,50 	he sags as lightning arcs around the room.
+WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS550 	01:25:48,00 --> 01:25:53,50 	someone's shoulders sag in a weary sigh.
+XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS593 	00:55:20,00 --> 00:55:26,50 	his shoulders sag in relief and someone pats his knee.
+ZOMBIELAND.srt 	ZOMBIELAND_DVS232 	00:25:21,00 --> 00:25:26,50 	someone moves away and little someone's shoulders sag.

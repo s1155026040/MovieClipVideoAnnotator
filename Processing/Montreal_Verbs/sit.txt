@@ -1,4 +1,3 @@
-21_JUMP_STREET.srt 	21_JUMP_STREET_DVS21 	00:02:57,00 --> 00:03:02,50 	sitting on a nearby bench, the nerd looks over.
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS249 	00:41:13,00 --> 00:41:19,50 	at the far end of the chemistry classroom someone sits with two other nerds.
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS250 	00:41:55,00 --> 00:42:03,50 	someone sits down on a stool in front of someone, who tinkers with several cell phones.
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS260 	00:45:14,00 --> 00:45:18,50 	he sits on his head.
@@ -10,7 +9,6 @@
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS553 	01:25:30,00 --> 01:25:41,50 	the teenager opens the doors of a suit to reveal coach someone who sits with a few piatas, watching tv and eating cool ranch doritos.
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS669 	01:40:45,00 --> 01:40:49,50 	someone sits by someone.
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS670 	01:40:49,00 --> 01:40:57,50 	someone sits glumly in the back of an ambulance as a someone checks on her.
-30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS21 	00:03:50,00 --> 00:03:59,50 	that night sitting on a stoop, the shaggy-haired young man opens a bottle of beer, tosses the cap and takes a sip.
 30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS38 	00:07:51,00 --> 00:08:03,50 	various vehicles sit in the driveway, including an rv and a boat.
 30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS61 	00:14:27,00 --> 00:14:31,50 	they both sit back down.
 30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS117 	00:30:49,00 --> 00:30:54,50 	someone's sitting on a toilet fully clothed.
@@ -20,7 +18,6 @@
 30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS306 	01:10:07,00 --> 01:10:14,50 	someone sits in the passenger seat while someone grabs the loot and gets behind the wheel.
 30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS338 	01:15:30,00 --> 01:15:35,50 	someone sits up and sees them getting into the mustang.
 40_YEAR_OLD_VIRGIN.srt 	40_YEAR_OLD_VIRGIN_DVS95 	00:48:58,00 --> 00:49:04,50 	a woman sits down at his table.
-40_YEAR_OLD_VIRGIN.srt 	40_YEAR_OLD_VIRGIN_DVS105 	00:54:50,00 --> 00:54:58,50 	entering the suite, he looks around and steps into an empty sitting area.
 40_YEAR_OLD_VIRGIN.srt 	40_YEAR_OLD_VIRGIN_DVS137 	01:09:22,00 --> 01:09:31,50 	someone sits up with mussed hair.
 40_YEAR_OLD_VIRGIN.srt 	40_YEAR_OLD_VIRGIN_DVS164 	01:22:44,00 --> 01:22:51,50 	now the state puffed marshmallow man sit neatly in its box.
 40_YEAR_OLD_VIRGIN.srt 	40_YEAR_OLD_VIRGIN_DVS185 	01:31:01,00 --> 01:31:06,50 	someone sits on his lap.
@@ -43,7 +40,6 @@
 500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS343 	01:02:50,00 --> 01:02:56,50 	they sit, talking over coffee, with the evening sunlight filtering through the window.
 500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS365 	01:06:04,00 --> 01:06:08,50 	he sits thoughtfully.
 500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS443 	01:16:43,00 --> 01:16:47,50 	and sitting in a restaurant.
-500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS444 	01:16:58,00 --> 01:17:03,50 	they sit, barely looking at one another.
 500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS445 	01:17:01,00 --> 01:17:06,50 	someone and someone in her wedding dress, sit in the back of the bus in the last scene from the graduate, which someone and someone are watching in the cinema.
 500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS475 	01:19:40,00 --> 01:19:45,50 	someone sits in an easy chair in a coffee lounge reading a book.
 500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS498 	01:21:09,00 --> 01:21:15,50 	as someone sits gloomily on the bus,
@@ -51,7 +47,6 @@
 500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS508 	01:21:51,00 --> 01:21:56,50 	he sits up.
 500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS509 	01:21:53,00 --> 01:21:58,50 	someone's sitting on a bench a short distance away
 500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS513 	01:23:12,00 --> 01:23:16,50 	they sit awkwardly, side by side.
-500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS519 	01:26:13,00 --> 01:26:18,50 	they sit together looking out at the city.
 500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS531 	01:27:02,00 --> 01:27:07,50 	then sits back down on the bench.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS59 	00:04:19,00 --> 00:04:27,50 	in a booth, a man sits with several young beauties.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS105 	00:08:57,00 --> 00:09:02,50 	wearing a suit and id card, he sits across in front of the prisoner.
@@ -59,7 +54,6 @@ A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS120 	00:09:55,00 --> 00:10
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS168 	00:15:17,00 --> 00:15:24,50 	the prisoners simultaneously sit in their adjacent glass cells, and someone faces someone.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS196 	00:17:14,00 --> 00:17:21,50 	sitting up, an injured soldier reaches for his weapon as the masked men enter.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS533 	00:51:44,00 --> 00:51:51,50 	at an open side of the chopper, someone and someone sit facing out.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS568 	00:54:49,00 --> 00:54:55,50 	he sits on the floor and opens his jacket to look at his side.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS582 	00:59:28,00 --> 00:59:35,50 	nearby, sleek and shiny luxury cars sit in a dark parking lot.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS740 	01:14:23,00 --> 01:14:29,50 	at a spa, someone sits up in a steamy massage room.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS810 	01:20:50,00 --> 01:20:55,50 	someone sits in the chopper's cockpit.
@@ -93,7 +87,6 @@ ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS206 	00:27
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS237 	00:33:36,00 --> 00:33:43,50 	later, she strides into a dining room where someone sits alone at a table.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS304 	00:44:13,00 --> 00:44:19,50 	the dark haired woman sits back and someone hands her a gun.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS467 	01:06:19,00 --> 01:06:34,50 	sitting with someone on the bed, he notices dark, swollen veins branching from a bite on the boy's wrist.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS480 	01:07:42,00 --> 01:07:47,50 	turning, he finds someone sitting on the concrete.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS536 	01:15:50,00 --> 01:15:55,50 	he sits close, his back to her.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS539 	01:16:12,00 --> 01:16:19,50 	someone sits up, her long hair hanging loose around her shoulders.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS682 	01:37:30,00 --> 01:37:36,50 	sitting at a bar, a man thumbs a text message on the device.
@@ -135,7 +128,6 @@ BLINDDATING.srt 	BLINDDATING_DVS287 	01:11:38,00 --> 01:11:47,50 	later, someone
 BLINDDATING.srt 	BLINDDATING_DVS336 	01:20:25,00 --> 01:20:34,50 	hiking up his pants, his father sits on the bed's edge and leans an arm over someone's legs.
 BRUNO.srt 	BRUNO_DVS73 	00:15:41,00 --> 00:15:46,50 	she tentatively sits on one man's back.
 BRUNO.srt 	BRUNO_DVS103 	00:22:47,00 --> 00:22:58,50 	the candidate glances at a newspaper on the bed, then sits primly.
-BRUNO.srt 	BRUNO_DVS132 	00:31:25,00 --> 00:31:31,50 	someone sits, and takes each of their hands.
 BRUNO.srt 	BRUNO_DVS152 	00:38:02,00 --> 00:38:08,50 	he sits the baby on the scooter.
 BRUNO.srt 	BRUNO_DVS160 	00:44:25,00 --> 00:44:53,50 	he sits with him.
 BRUNO.srt 	BRUNO_DVS208 	00:56:01,00 --> 00:56:05,50 	his hat sits sideways.
@@ -158,7 +150,6 @@ BURLESQUE.srt 	BURLESQUE_DVS498 	01:09:19,00 --> 01:09:26,50 	at his home, they 
 BURLESQUE.srt 	BURLESQUE_DVS561 	01:22:53,00 --> 01:23:00,50 	now someone sits with coco.
 BURLESQUE.srt 	BURLESQUE_DVS665 	01:43:05,00 --> 01:43:15,50 	inside, a white-haired man sits at a desk, talking on the phone.
 BURLESQUE.srt 	BURLESQUE_DVS667 	01:43:22,00 --> 01:43:26,50 	as he hangs up, the women sit.
-BURLESQUE.srt 	BURLESQUE_DVS672 	01:44:28,00 --> 01:44:36,50 	inside the club, someone strolls up to someone, who sits at a table looking through a stack of paperwork.
 BURLESQUE.srt 	BURLESQUE_DVS738 	01:51:06,00 --> 01:51:17,50 	as the other dancers grind against the letters, someone sits atop the e at the center.
 BURLESQUE.srt 	BURLESQUE_DVS748 	01:53:17,00 --> 01:53:22,50 	the women sit on some steps in front of her.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS59 	00:08:26,00 --> 00:08:32,50 	in a recruitment office, men wearing only boxer shorts sit or stand in line.
@@ -192,10 +183,7 @@ CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS992 	01:37:07,00 --> 01:37:14,50 	th
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS1006 	01:37:50,00 --> 01:37:56,50 	but at the last moment, he sits back on his board.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS1026 	01:39:38,00 --> 01:39:43,50 	he eyes a building swell and sits up on his board.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS1043 	01:40:34,00 --> 01:40:40,50 	with a grave look, one of someone's buddies sits up.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS1092 	01:44:02,00 --> 01:44:08,50 	sitting on his board, someone turns as someone sits up next to him.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS1092 	01:44:02,00 --> 01:44:08,50 	sitting on his board, someone turns as someone sits up next to him.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS1100 	01:45:17,00 --> 01:45:22,50 	he sits on his board, adjusting his hood.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS1120 	01:47:27,00 --> 01:47:34,50 	as someone slows down, he turns to see the veterans sitting on their boards smiling.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS1149 	01:49:20,00 --> 01:49:27,50 	now, someone sits on a surfboard, a white lei around his neck.
 CHRONICLE.srt 	CHRONICLE_DVS49 	00:06:09,00 --> 00:06:15,50 	a stationary view shows someone sitting at a desk in his bedroom.
 CHRONICLE.srt 	CHRONICLE_DVS56 	00:06:40,00 --> 00:06:44,50 	someone sits up.
@@ -221,7 +209,6 @@ CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS110 	00:25:31,00 --> 00:25:43,50 	she sits
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS126 	00:28:24,00 --> 00:28:34,50 	someone sits on someone's lap.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS171 	00:36:34,00 --> 00:36:46,50 	later, inside, a coalscuttle sits empty next to the stove whose open grate reveals dying embers.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS232 	00:50:52,00 --> 00:51:02,50 	with a bowl of hash sitting in front of him, someone paces.
-CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS248 	01:01:56,00 --> 01:02:05,50 	someone sits wearily, his gaze turned downward.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS276 	01:06:50,00 --> 01:07:20,50 	behind her, two vendors sit at a folding table and men in business suits and fedoras follow different paths.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS283 	01:08:06,00 --> 01:08:15,50 	under a crystal chandelier, a card table and folding chairs sit on a parquet floor.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS284 	01:08:13,00 --> 01:08:20,50 	the ladies each sit with a blossom patterned china cup.
@@ -264,7 +251,6 @@ DEAR_JOHN.srt 	DEAR_JOHN_DVS26 	00:02:56,00 --> 00:03:02,50 	a boyish guy sits o
 DEAR_JOHN.srt 	DEAR_JOHN_DVS59 	00:07:37,00 --> 00:07:44,50 	someone and someone sit back down.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS119 	00:18:03,00 --> 00:18:17,50 	later, he sits straddling his board, gazing at the houses along the shore.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS160 	00:25:06,00 --> 00:25:12,50 	another group sits around two young men playing acoustic guitars.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS162 	00:25:13,00 --> 00:25:20,50 	turning, he spots a solitary figure sitting alone at the base of a grassy dune.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS236 	00:36:43,00 --> 00:36:53,50 	now they enter a crude village where a calf drinks from ruts of sitting water.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS245 	00:38:34,00 --> 00:38:49,50 	another soldier exits a house and pats someone, who sits on a porch reading.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS315 	00:48:47,00 --> 00:48:53,50 	someone sits on a chair and buttons a suit jacket.
@@ -317,22 +303,18 @@ FLIGHT.srt 	FLIGHT_DVS205 	00:47:13,00 --> 00:47:20,50 	a retro stereo sits on a
 FLIGHT.srt 	FLIGHT_DVS243 	00:50:42,00 --> 00:50:46,50 	later that evening he sits, watching the news.
 FLIGHT.srt 	FLIGHT_DVS344 	00:57:40,00 --> 00:57:46,50 	someone sits at the bar and moves a cocktail napkin back and forth, as he studies the glass of vodka.
 FLIGHT.srt 	FLIGHT_DVS376 	01:00:50,00 --> 01:00:57,50 	someone sits in the passenger seat of someone's car, as he drives and drinks his beer.
-FLIGHT.srt 	FLIGHT_DVS504 	01:12:45,00 --> 01:12:51,50 	someone sits in a chair on the veranda, taking pictures.
 FLIGHT.srt 	FLIGHT_DVS507 	01:13:07,00 --> 01:13:12,50 	he sits in a rocking chair.
 FLIGHT.srt 	FLIGHT_DVS659 	01:29:36,00 --> 01:29:41,50 	someone sits on the bed.
 FLIGHT.srt 	FLIGHT_DVS670 	01:30:27,00 --> 01:30:32,50 	someone walks past someone, raising a hand to her head before she sits on the bed.
 FLIGHT.srt 	FLIGHT_DVS672 	01:30:50,00 --> 01:30:55,50 	he sits next to her on the bed.
-FLIGHT.srt 	FLIGHT_DVS691 	01:33:21,00 --> 01:33:29,50 	rain falls steadily as someone sits in the car and pours alcohol into a bottle of juice, and takes a drink.
 FLIGHT.srt 	FLIGHT_DVS891 	01:45:08,00 --> 01:45:14,50 	he sits over the toilet, smoking as the bath fills.
 FLIGHT.srt 	FLIGHT_DVS938 	01:51:26,00 --> 01:51:30,50 	someone sits beside someone.
 FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS30 	00:07:28,00 --> 00:07:33,50 	now they sit in the car.
 FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS54 	00:14:34,00 --> 00:14:39,50 	she sits down.
 FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS102 	00:27:19,00 --> 00:27:24,50 	he watches her rear as he is sitting on the couch.
 FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS124 	00:33:37,00 --> 00:33:42,50 	someone goes to a waiting area where someone sits.
-FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS142 	00:37:50,00 --> 00:37:58,50 	looking into the bathroom, she finds someone sitting on the toilet.
 FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS144 	00:38:05,00 --> 00:38:09,50 	she sits up again.
 FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS158 	00:41:57,00 --> 00:42:02,50 	later they sit at a someone.
-FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS234 	01:02:20,00 --> 01:02:37,50 	at night, someone and someone sit on the patio, looking through a photo album.
 FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS266 	01:09:23,00 --> 01:09:28,50 	he gingerly removes her hand and sits up.
 FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS343 	01:30:42,00 --> 01:30:48,50 	now someone and someone sit in central park together.
 FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS344 	01:32:03,00 --> 01:32:08,50 	sitting side-by-side on a boulder, they hug.
@@ -341,12 +323,9 @@ GET_HIM_TO_THE_GREEK.srt 	GET_HIM_TO_THE_GREEK_DVS93 	00:51:22,00 --> 00:51:32,5
 GET_HIM_TO_THE_GREEK.srt 	GET_HIM_TO_THE_GREEK_DVS114 	01:05:20,00 --> 01:05:24,50 	sitting at a nurses desk.
 GET_HIM_TO_THE_GREEK.srt 	GET_HIM_TO_THE_GREEK_DVS131 	01:18:54,00 --> 01:19:07,50 	later, someone and naples sit on a couch playing with toys.
 GET_HIM_TO_THE_GREEK.srt 	GET_HIM_TO_THE_GREEK_DVS143 	01:25:02,00 --> 01:25:08,50 	someone sits primly.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS37 	00:06:30,00 --> 00:06:42,50 	he looks at a scar on the palm of his hand then sits up.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS58 	00:09:57,00 --> 00:10:05,50 	in a cafe, someone sits alone at a table, watching a man in a grey suit take off his wedding ring.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS132 	00:20:49,00 --> 00:20:56,50 	now in a sunlit clearing, someone's suv sits parked with the driver's door open.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS165 	00:25:45,00 --> 00:25:51,50 	now someone's motorcycle sits on a truck's flatbed.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS173 	00:28:19,00 --> 00:28:27,50 	now in someone's suv, someone sits with his eyes closed.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS194 	00:30:37,00 --> 00:30:54,50 	he looks over his shoulder at someone who sits slumped and blindfolded on the floor.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS216 	00:35:00,00 --> 00:35:40,50 	as the last truck passes under, a man climbs a ladder to the excavator's control cab which sits just behind the cutting wheel.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS222 	00:36:19,00 --> 00:36:23,50 	he sits wearing a blindfold.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS252 	00:40:05,00 --> 00:40:13,50 	sitting in the control seat between two levers, he pulls one back and pushes the other forward.
@@ -376,14 +355,11 @@ GROWN_UPS.srt 	GROWN_UPS_DVS183 	00:51:28,00 --> 00:51:33,50 	she sits down on a
 GROWN_UPS.srt 	GROWN_UPS_DVS184 	00:51:33,00 --> 00:51:40,50 	later, she sits up in bed while someone packs.
 GROWN_UPS.srt 	GROWN_UPS_DVS191 	00:53:18,00 --> 00:53:32,50 	the string leads to a chair where mama ronzoni sits knitting.
 GROWN_UPS.srt 	GROWN_UPS_DVS199 	00:54:55,00 --> 00:55:03,50 	now someone stands by the suv composing a text message as someone sits buried inside
-HUGO.srt 	HUGO_DVS130 	00:17:24,00 --> 00:17:33,50 	he turns and yanks a sheet off a doll-sized mechanical man - or automaton - sitting at a small table.
 HUGO.srt 	HUGO_DVS134 	00:17:40,00 --> 00:17:46,50 	someone sits across from the automaton and stares at its solid black eyes.
 HUGO.srt 	HUGO_DVS245 	00:35:07,00 --> 00:35:12,50 	the automaton sits motionless.
 HUGO.srt 	HUGO_DVS273 	00:40:11,00 --> 00:40:18,50 	inside the darkened theatre, someone and someone sit together.
-HUGO.srt 	HUGO_DVS364 	00:55:52,00 --> 00:55:57,50 	someone steps down a hallway then turns into a sitting room.
 HUGO.srt 	HUGO_DVS365 	00:55:59,00 --> 00:56:04,50 	someone kisses someone, who sits and sews.
 HUGO.srt 	HUGO_DVS374 	00:56:57,00 --> 00:57:02,50 	still staring at the drawing, someone slowly sits.
-HUGO.srt 	HUGO_DVS401 	01:00:16,00 --> 01:00:23,50 	smiling, she hands the panel to someone then turns toward a wooden box sitting in the exposed space.
 HUGO.srt 	HUGO_DVS425 	01:02:22,00 --> 01:02:28,50 	someone sits on a bed.
 HUGO.srt 	HUGO_DVS425 	01:02:22,00 --> 01:02:28,50 	someone grasps his arm then sits next to him.
 HUGO.srt 	HUGO_DVS481 	01:10:27,00 --> 01:10:42,50 	buster keaton sits on the coupling rod of a locomotive's wheels.
@@ -404,9 +380,7 @@ HUGO.srt 	HUGO_DVS750 	01:49:46,00 --> 01:49:53,50 	someone sits on the bottom o
 HUGO.srt 	HUGO_DVS786 	01:53:55,00 --> 01:54:03,50 	the inspector sits nearby with someone and the bookseller, labisse.
 HUGO.srt 	HUGO_DVS787 	01:54:33,00 --> 01:54:39,50 	sitting with someone and someone, someone smiles as he applauds.
 IN_TIME.srt 	IN_TIME_DVS56 	00:06:15,00 --> 00:06:24,50 	someone sits at the far end.
-IN_TIME.srt 	IN_TIME_DVS144 	00:15:54,00 --> 00:16:01,50 	the working class man looks around, finds himself alone, and sits up.
 IN_TIME.srt 	IN_TIME_DVS148 	00:16:07,00 --> 00:16:17,50 	peering out a broken pane next to it, someone spots someone sitting on the railing of a high stone bridge, his feet dangling over the side.
-IN_TIME.srt 	IN_TIME_DVS270 	00:27:47,00 --> 00:27:52,50 	awaking, he sits up and looks around.
 IN_TIME.srt 	IN_TIME_DVS308 	00:31:47,00 --> 00:31:52,50 	sitting beside someone, she stares at someone.
 IN_TIME.srt 	IN_TIME_DVS461 	00:49:37,00 --> 00:49:43,50 	beside her, someone sits up clutching his head painfully.
 IN_TIME.srt 	IN_TIME_DVS534 	00:57:40,00 --> 00:57:45,50 	someone sits on the edge of the couch.
@@ -422,7 +396,6 @@ INSIDE_MAN.srt 	INSIDE_MAN_DVS116 	00:33:45,00 --> 00:33:50,50 	someone sits mot
 INSIDE_MAN.srt 	INSIDE_MAN_DVS144 	00:43:15,00 --> 00:43:23,50 	in the bank, the hostages sit in an office.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS185 	00:52:55,00 --> 00:53:12,50 	sets it on the floor like a stool and sits across from the boy.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS210 	00:59:05,00 --> 00:59:12,50 	someone and the judge sit pleasantly before him.
-INSIDE_MAN.srt 	INSIDE_MAN_DVS220 	01:02:18,00 --> 01:02:32,50 	someone sits patiently at a counter, looking out toward the bank.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS252 	01:17:44,00 --> 01:17:50,50 	someone sits up in his chair and reaches for a phone.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS261 	01:20:15,00 --> 01:20:41,50 	more hostages sit in the next office.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS262 	01:20:43,00 --> 01:21:07,50 	the unmasked boy sits beside his disguised father.
@@ -433,7 +406,6 @@ INSIDE_MAN.srt 	INSIDE_MAN_DVS384 	01:51:46,00 --> 01:51:55,50 	now, office supp
 INSIDE_MAN.srt 	INSIDE_MAN_DVS391 	01:52:25,00 --> 01:52:37,50 	across the street and around the corner, a black suv sits parked at the curb.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS394 	01:52:50,00 --> 01:53:07,50 	someone sits at the wheel.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS427 	02:01:24,00 --> 02:01:31,50 	wearing sexy lingerie, someone's girlfriend sits up and kisses him passionately.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS72 	00:12:28,00 --> 00:12:35,50 	sitting nearby, brown-haired someone raises a water glass toward someone and takes a sip.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS76 	00:13:56,00 --> 00:14:00,50 	someone sits between someone and someone.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS112 	00:22:13,00 --> 00:22:19,50 	someone sits beside pepper.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS129 	00:24:11,00 --> 00:24:17,50 	someone steps out of the ring and sits beside pepper.
@@ -444,7 +416,6 @@ IRON_MAN_2.srt 	IRON_MAN_2_DVS208 	00:38:29,00 --> 00:38:34,50 	someone sits on 
 IRON_MAN_2.srt 	IRON_MAN_2_DVS217 	00:42:04,00 --> 00:42:12,50 	elsewhere in his cell, someone sits leaning against a sink.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS221 	00:42:25,00 --> 00:42:32,50 	sitting on the bed, someone reads the note, which is written in a foreign language.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS241 	00:44:02,00 --> 00:44:09,50 	handcuffed, he walks toward someone, who sits eating at a table beside a large white jet.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS268 	00:49:12,00 --> 00:49:18,50 	someone sits up straight, then turns to glance at someone.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS281 	00:52:24,00 --> 00:52:32,50 	someone sits on the arm of someone's chair.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS344 	01:01:27,00 --> 01:01:36,50 	as he sits inside a giant donut perched atop a building's roof.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS348 	01:02:26,00 --> 01:02:31,50 	someone sits beside someone.
@@ -490,7 +461,6 @@ JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS276 	00:53:44,00 --> 00:53:48,50 	someon
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS316 	01:01:41,00 --> 01:02:00,50 	they wave at someone, who sits with someone and her parents.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS372 	01:10:18,00 --> 01:10:26,50 	back in paris, someone sits at a typewriter and lays carbon paper between two clean white pages.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS386 	01:14:01,00 --> 01:14:06,50 	now a maid leads them into a sitting room.
-JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS391 	01:15:52,00 --> 01:16:04,50 	she sits at the small entryway table, where someone turns on a lamp, and sets down his hat.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS406 	01:18:37,00 --> 01:18:41,50 	she sits on the couch.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS439 	01:27:08,00 --> 01:27:12,50 	someone sits on the edge of the bed.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS451 	01:28:19,00 --> 01:28:24,50 	later she sits at her laptop.
@@ -503,7 +473,6 @@ JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS486 	01:33:41,00 --> 01:33:49,50 	she si
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS496 	01:35:11,00 --> 01:35:17,50 	they set down their luggage and sit on a bench.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS501 	01:36:32,00 --> 01:36:40,50 	now in a conference room, the three of them sit with three male executives and a female editor.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS518 	01:42:26,00 --> 01:42:31,50 	someone sits next to the reader on the subway.
-JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS532 	01:45:55,00 --> 01:46:01,50 	someone hangs up and looks at someone sitting up attentively.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS534 	01:46:02,00 --> 01:46:07,50 	back in the 50s, someone sits on a couch with her feet up.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS573 	01:52:41,00 --> 01:52:46,50 	they sit face to face.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS576 	01:53:07,00 --> 01:53:11,50 	she sits back up.
@@ -549,7 +518,6 @@ KNOCKED_UP.srt 	KNOCKED_UP_DVS183 	01:56:05,00 --> 01:56:10,50 	now someone and 
 KNOCKED_UP.srt 	KNOCKED_UP_DVS192 	02:00:10,00 --> 02:00:15,50 	shakes his head and sits down.
 LAND_OF_THE_LOST.srt 	LAND_OF_THE_LOST_DVS32 	00:11:28,00 --> 00:11:34,50 	at the cave entrance, someone and someone sit on a raft with the store clerk.
 LAND_OF_THE_LOST.srt 	LAND_OF_THE_LOST_DVS43 	00:15:17,00 --> 00:15:32,50 	an orange life jacket from the raft still sits on his shoulders.
-LAND_OF_THE_LOST.srt 	LAND_OF_THE_LOST_DVS83 	00:27:36,00 --> 00:27:43,50 	someone takes a piece of someone's pants over to a blanket, where he sits and flails around.
 LAND_OF_THE_LOST.srt 	LAND_OF_THE_LOST_DVS128 	00:44:23,00 --> 00:44:28,50 	someone sits on a rock, pointing.
 LAND_OF_THE_LOST.srt 	LAND_OF_THE_LOST_DVS148 	00:53:44,00 --> 00:53:53,50 	someone crosses to someone, who sits forlornly on his own.
 LARRY_CROWNE.srt 	LARRY_CROWNE_DVS23 	00:06:57,00 --> 00:07:21,50 	a doorway on the opposite end of the cluttered room frames someone as he sits on the edge of his bed.
@@ -558,7 +526,6 @@ LARRY_CROWNE.srt 	LARRY_CROWNE_DVS59 	00:16:32,00 --> 00:16:36,50 	she sits at h
 LARRY_CROWNE.srt 	LARRY_CROWNE_DVS65 	00:17:44,00 --> 00:17:49,50 	still sitting, she sips her drink.
 LARRY_CROWNE.srt 	LARRY_CROWNE_DVS92 	00:22:43,00 --> 00:22:47,50 	he sits beside her.
 LARRY_CROWNE.srt 	LARRY_CROWNE_DVS114 	00:26:41,00 --> 00:26:46,50 	she sits in an armchair.
-LARRY_CROWNE.srt 	LARRY_CROWNE_DVS117 	00:27:10,00 --> 00:27:16,50 	as he sits across from someone, she looks up from her magazine.
 LARRY_CROWNE.srt 	LARRY_CROWNE_DVS134 	00:30:46,00 --> 00:30:51,50 	as someone sits back down the dean grins.
 LARRY_CROWNE.srt 	LARRY_CROWNE_DVS198 	00:46:04,00 --> 00:46:11,50 	now someone's scooter sits parked outside of someone's restaurant.
 LARRY_CROWNE.srt 	LARRY_CROWNE_DVS214 	00:49:52,00 --> 00:49:58,50 	someone sits in the car with a pen and a slip of paper.
@@ -639,8 +606,6 @@ NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS362 	01:17:39,00 --> 01:17:51,
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS403 	01:24:41,00 --> 01:24:51,50 	in the house without a chair, someone balances on one foot, crosses the other over as if sitting, and props an elbow on his crooked knee.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS445 	01:32:30,00 --> 01:32:34,50 	he sits on the stove.
 NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS117 	00:17:58,00 --> 00:18:03,50 	she sits in the kitchen counter eating cereal.
-NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS121 	00:18:25,00 --> 00:18:30,50 	he sits up and looks around.
-NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS132 	00:21:24,00 --> 00:21:30,50 	someone turns away someone sits on her bed and pulls on his jeans.
 NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS134 	00:22:41,00 --> 00:22:47,50 	she sits beside him and puts her arm around his shoulder.
 NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS189 	00:33:21,00 --> 00:33:28,50 	as she gets dressed she smiles and steps closer to someone who's sitting up in bed.
 NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS255 	00:44:45,00 --> 00:44:51,50 	someone sits with someone on her bed and tries to feed her soup.
@@ -661,7 +626,6 @@ PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS182 	00:44:25,00 --> 00:44:31,50 	in
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS228 	00:54:39,00 --> 00:54:47,50 	someone sits up excitedly as the concert begins.
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS241 	00:56:52,00 --> 00:57:04,50 	at a party, an award bearing someone's name sits on a table.
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS265 	01:03:16,00 --> 01:03:22,50 	someone sits at a table.
-PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS284 	01:07:21,00 --> 01:07:27,50 	someone sits in a chair and someone takes a seat on the floor.
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS291 	01:10:07,00 --> 01:10:11,50 	the boys sit still.
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS337 	01:20:16,00 --> 01:20:25,50 	inside, the couple glumly sits in the guest room.
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS339 	01:21:27,00 --> 01:21:32,50 	in the kitchen, someone sits alone with a wine glass.
@@ -680,10 +644,8 @@ PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS431 	01:41
 PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS448 	01:43:57,00 --> 01:44:04,50 	the beautiful goddess eyes the bolt-toting god as he sits.
 PROMETHEUS.srt 	PROMETHEUS_DVS199 	00:14:02,00 --> 00:14:08,50 	sitting near by, holloway drinks fluids.
 PROMETHEUS.srt 	PROMETHEUS_DVS211 	00:15:44,00 --> 00:15:52,50 	sitting at the front, someone uses a tablet to activate a huge 3-d holographic video.
-PROMETHEUS.srt 	PROMETHEUS_DVS282 	00:28:04,00 --> 00:28:11,50 	as the mohawked man sits, someone takes the seat facing him.
 PROMETHEUS.srt 	PROMETHEUS_DVS513 	00:54:48,00 --> 00:54:54,50 	the pinging probe sits motionless at what appears to be a dead end.
 PROMETHEUS.srt 	PROMETHEUS_DVS519 	00:57:36,00 --> 00:57:41,50 	sitting on his lap she kisses him.
-PROMETHEUS.srt 	PROMETHEUS_DVS542 	00:59:50,00 --> 00:59:56,50 	she turns, in a corner someone sits with concertina.
 PROMETHEUS.srt 	PROMETHEUS_DVS643 	01:09:55,00 --> 01:09:59,50 	he sits on the ground.
 PROMETHEUS.srt 	PROMETHEUS_DVS731 	01:18:20,00 --> 01:18:25,50 	someone sits up, her jaw slack.
 PROMETHEUS.srt 	PROMETHEUS_DVS796 	01:25:27,00 --> 01:25:36,50 	he cocks his head, then moves closer to someone who sits crouched on the ground with his legs bent forward over his shoulders.
@@ -694,7 +656,6 @@ PROMETHEUS.srt 	PROMETHEUS_DVS873 	01:36:27,00 --> 01:36:31,50 	someone sits at 
 PROMETHEUS.srt 	PROMETHEUS_DVS879 	01:37:12,00 --> 01:37:20,50 	he hops down from the platform, then sits in the chair and blows into the flute, calling up a holographic orb.
 PROMETHEUS.srt 	PROMETHEUS_DVS890 	01:38:23,00 --> 01:38:30,50 	as the engineer sits up, several tubes detach from his oxygen mask.
 PROMETHEUS.srt 	PROMETHEUS_DVS1035 	01:53:33,00 --> 01:53:38,50 	grimacing painfully, someone sits up.
-PROMETHEUS.srt 	PROMETHEUS_DVS1077 	01:57:44,00 --> 01:57:50,50 	the alien straightens, sitting up on its heels and looks around.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS19 	00:02:46,00 --> 00:03:13,50 	sitting across from them, a younger inmate glances up.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS19 	00:02:46,00 --> 00:03:13,50 	they each pull out a gun and using the spools to conceal them, pass them to the young inmate and man sitting next to him.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS40 	00:06:40,00 --> 00:06:45,50 	someone drives, sitting next to the younger escapee.
@@ -710,7 +671,6 @@ PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS311 	00:58:39,00 --> 00:58:44,50 	sits bac
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS312 	00:58:44,00 --> 00:58:50,50 	now in a courtroom, someone sits at a council bench.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS365 	01:09:46,00 --> 01:10:04,50 	someone sits on the corner of a desk.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS372 	01:10:32,00 --> 01:10:38,50 	someone sits calmly on the edge of a desk.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS386 	01:14:22,00 --> 01:14:34,50 	homer looks away nervously as someone sits with a worried look, his face tilted down.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS400 	01:17:30,00 --> 01:17:55,50 	someone sits in the backseat, the wind from the open windows blowing against his disheveled hair.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS448 	01:26:06,00 --> 01:26:18,50 	one man sits slack-jawed, his head lolled back trailing blood from two holes.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS503 	01:34:54,00 --> 01:35:00,50 	someone slumps a little then sits back.
@@ -720,7 +680,6 @@ PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS596 	01:51:46,00 --> 01:51:56,50 	he steps
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS602 	01:53:28,00 --> 01:53:35,50 	now, someone sits at a kitchen table fanning herself with a magazine.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS609 	01:54:36,00 --> 01:54:43,50 	now, someone crosses the field office to someone who sits on a desk.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS624 	01:57:13,00 --> 01:57:20,50 	a couple of yards ahead, an agent on the phone sits at his desk, unaware of someone's
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS648 	02:01:45,00 --> 02:02:05,50 	sitting in her own, someone turns, peeking nervously over her shoulder.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS48 	00:11:16,00 --> 00:11:22,50 	wrapped in the sheet, the mistress sits in someone's lap.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS59 	00:17:26,00 --> 00:17:31,50 	someone and his three cohorts sit and
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS120 	00:31:19,00 --> 00:31:25,50 	sitting on a bench, someone holds him in an appraising gaze.
@@ -738,7 +697,6 @@ RUBY_SPARKS.srt 	RUBY_SPARKS_DVS288 	00:45:45,00 --> 00:45:51,50 	she sits on hi
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS300 	00:48:14,00 --> 00:48:20,50 	someone wakes up, spots him at the foot of the bed and sits up.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS309 	00:49:07,00 --> 00:49:12,50 	someone sits on someone's lap.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS340 	00:55:16,00 --> 00:55:20,50 	someone sits up.
-RUBY_SPARKS.srt 	RUBY_SPARKS_DVS475 	01:12:05,00 --> 01:12:12,50 	as he sits beside her on the couch, someone turns off the tv.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS476 	01:12:09,00 --> 01:12:16,50 	she chucks the remote aside then sits up sucking in her lips remorsefully.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS477 	01:12:16,00 --> 01:12:23,50 	someone sits with his hands on his knees, staring with a furrowed brow.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS626 	01:30:50,00 --> 01:30:55,50 	someone sits up, his hair disheveled.
@@ -756,7 +714,6 @@ SANCTUM.srt 	SANCTUM_DVS99 	00:20:02,00 --> 00:20:08,50 	sitting back in her har
 SANCTUM.srt 	SANCTUM_DVS109 	00:21:58,00 --> 00:22:02,50 	she sits on the ledge above.
 SANCTUM.srt 	SANCTUM_DVS142 	00:29:36,00 --> 00:29:43,50 	sitting on the rock, the monitor replays someone's struggle with someone.
 SANCTUM.srt 	SANCTUM_DVS149 	00:31:27,00 --> 00:31:35,50 	someone shoots someone a sidelong glance, then sits beside someone who eats rice from a pot.
-SANCTUM.srt 	SANCTUM_DVS151 	00:31:41,00 --> 00:31:49,50 	he sits heavily beside his son, pulls the cork from his tequila bottle, and takes a swig.
 SANCTUM.srt 	SANCTUM_DVS171 	00:34:59,00 --> 00:35:12,50 	sitting in front of the monitor, he eyes the onscreen footage of st. jude's cathedral where virgil's light shines up a towering shaft toward the rippling surface of the air bell.
 SANCTUM.srt 	SANCTUM_DVS282 	00:56:45,00 --> 00:57:00,50 	he sits him down and hands him a rebreather.
 SANCTUM.srt 	SANCTUM_DVS286 	00:57:25,00 --> 00:57:32,50 	someone rubs someone's foot as she sits under the metallic blanket.
@@ -812,7 +769,6 @@ SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1428 	01:36:59,00 --> 01:37:04,50 	in a pa
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS23 	00:05:03,00 --> 00:05:20,50 	now outside, the kids sit facing new york harbor.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS84 	00:16:36,00 --> 00:16:44,50 	he collects pages off the floor, then moves among the lecture seats, where a paper sits at a young woman's feet.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS290 	01:00:24,00 --> 01:00:29,50 	in the lab, someone sits down.
-SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS393 	01:22:23,00 --> 01:22:34,50 	looking around, he notices the someone sitting on a small pedestal in front of the hearth.
 SOUL_SURFER.srt 	SOUL_SURFER_DVS26 	00:05:24,00 --> 00:05:29,50 	sitting on her bed, someone gazes out a window as she plays her ukulele.
 SOUL_SURFER.srt 	SOUL_SURFER_DVS68 	00:24:05,00 --> 00:24:09,50 	he sits up.
 SOUL_SURFER.srt 	SOUL_SURFER_DVS84 	00:27:53,00 --> 00:28:15,50 	someone sits up on his bed and stumbles to a railing.
@@ -831,7 +787,6 @@ SPARKLE_2012.srt 	SPARKLE_2012_DVS50 	00:08:47,00 --> 00:08:51,50 	the three sis
 SPARKLE_2012.srt 	SPARKLE_2012_DVS51 	00:08:53,00 --> 00:08:59,50 	in a pew, the manager sits with a stubble-faced man.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS53 	00:09:18,00 --> 00:09:27,50 	the old woman sits back.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS53 	00:09:18,00 --> 00:09:27,50 	someone rolls his neck and sits up straight.
-SPARKLE_2012.srt 	SPARKLE_2012_DVS74 	00:12:59,00 --> 00:13:05,50 	they sit with open bibles as she turns the tv back on.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS142 	00:24:19,00 --> 00:24:24,50 	someone sits at a table with someone.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS176 	00:29:29,00 --> 00:29:34,50 	someone sits alone in the next booth.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS186 	00:30:29,00 --> 00:30:33,50 	someone sits up.
@@ -851,7 +806,6 @@ SPARKLE_2012.srt 	SPARKLE_2012_DVS557 	01:31:19,00 --> 01:31:32,50 	the goateed 
 SPARKLE_2012.srt 	SPARKLE_2012_DVS572 	01:34:05,00 --> 01:34:11,50 	someone sits on the couch with someone, who focuses on a tv show.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS586 	01:35:56,00 --> 01:36:00,50 	someone sits beside her.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS612 	01:39:49,00 --> 01:39:54,50 	someone sits wearing oversized sunglasses.
-SUPER_8.srt 	SUPER_8_DVS41 	00:05:25,00 --> 00:05:30,50 	sitting in a bedroom, someone turns to the burly boy.
 SUPER_8.srt 	SUPER_8_DVS48 	00:07:07,00 --> 00:07:12,50 	the police cruiser sits parked in the driveway.
 SUPER_8.srt 	SUPER_8_DVS51 	00:07:30,00 --> 00:07:37,50 	someone peers around an open door, his father sits on the edge of a bathtub with his head in his hands.
 SUPER_8.srt 	SUPER_8_DVS55 	00:07:47,00 --> 00:07:54,50 	later at someone's diner, someone passes a brochure to someone as they sit at the counter.
@@ -863,7 +817,6 @@ SUPER_8.srt 	SUPER_8_DVS254 	00:42:39,00 --> 00:42:45,50 	someone returns home w
 SUPER_8.srt 	SUPER_8_DVS298 	00:53:59,00 --> 00:54:04,50 	at night, someone sits against his mother's headstone.
 SUPER_8.srt 	SUPER_8_DVS332 	00:59:17,00 --> 00:59:24,50 	sitting in front of a christmas tree, the boy opens presents as the woman puts on her necklace.
 SUPER_8.srt 	SUPER_8_DVS351 	01:02:45,00 --> 01:02:51,50 	she walks into the living room where her father sits in a chair and smokes,
-SUPER_8.srt 	SUPER_8_DVS411 	01:14:03,00 --> 01:14:08,50 	someone turns to someone who sits in the front passenger seat.
 SUPER_8.srt 	SUPER_8_DVS417 	01:14:53,00 --> 01:15:00,50 	inside a classroom, the boys sit with several notebooks and movie reels at a long table.
 SUPER_8.srt 	SUPER_8_DVS441 	01:18:40,00 --> 01:18:46,50 	someone walks past a dark-haired boy sitting with other children.
 SUPER_8.srt 	SUPER_8_DVS444 	01:19:09,00 --> 01:19:15,50 	as preston sits reading a magazine, someone approaches and bats it away.
@@ -895,7 +848,6 @@ THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS69 	00:15:42,00 --> 00:15:56
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS74 	00:16:59,00 --> 00:17:12,50 	now in his bedroom, someone sits at a desk.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS96 	00:22:57,00 --> 00:23:02,50 	later, someone and someone sit on a boulder.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS97 	00:23:12,00 --> 00:23:19,50 	someone sits back and folds his arms.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS102 	00:24:29,00 --> 00:24:46,50 	riding in the back seat, someone looks at someone who sits beside him.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS104 	00:24:48,00 --> 00:24:56,50 	someone sits up following her gaze past a railing to a cluster of industrial brick buildings.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS115 	00:26:38,00 --> 00:26:44,50 	he glances at someone who sits in the next room.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS140 	00:30:57,00 --> 00:31:03,50 	a blond guy sits across from them.
@@ -921,9 +873,7 @@ THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS57 	00:11:35,00 --> 00:11:44,50 	som
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS66 	00:12:48,00 --> 00:12:52,50 	someone sits up.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS115 	00:23:10,00 --> 00:23:34,50 	sitting alone on a long bench, someone thoughtfully pieces through her collective notes, which include the coaster.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS165 	00:33:59,00 --> 00:34:06,50 	at night at a gas station, someone sits handcuffed to someone's passenger door.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS220 	00:44:09,00 --> 00:44:20,50 	raising her brow, she looks around thoughtfully, then sits up and peeks over at someone.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS238 	00:46:29,00 --> 00:46:36,50 	he leads someone into a grungy bathroom where someone sits handcuffed to a pipe.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS252 	00:48:35,00 --> 00:48:40,50 	she sits up and looks around.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS273 	00:51:36,00 --> 00:51:48,50 	holding his head, he sits up.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS469 	01:25:34,00 --> 01:25:40,50 	sitting beside her, someone leans back and smiles.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS473 	01:26:10,00 --> 01:26:20,50 	seen through another doorway, an office chair sits at a desk with a giant mural of a snarling tiger behind it.
@@ -932,17 +882,13 @@ THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS488 	01:27:58,00 --> 01:28:03,50 	so
 THE_CALL.srt 	THE_CALL_DVS76 	00:05:35,00 --> 00:05:42,50 	now outside, he sits on a table and she stands between his knees in an embrace.
 THE_CALL.srt 	THE_CALL_DVS257 	00:21:49,00 --> 00:21:56,50 	sitting alone, the young blond sips her fountain drink and gazes across the court.
 THE_CALL.srt 	THE_CALL_DVS830 	01:03:21,00 --> 01:03:27,50 	someone sits upright in a wheelchair, her left eye nearly swollen shut.
-THE_CALL.srt 	THE_CALL_DVS849 	01:04:36,00 --> 01:04:41,50 	sitting beside her, she looks away as he takes a comb off the tray.
 THE_CALL.srt 	THE_CALL_DVS873 	01:06:12,00 --> 01:06:18,50 	someone sits at her desk working a recorder's controls.
 THE_CALL.srt 	THE_CALL_DVS996 	01:16:24,00 --> 01:16:33,50 	a small green chair sits next to an open wardrobe and a small crystal chandelier hangs over the room.
-THE_CALL.srt 	THE_CALL_DVS1016 	01:17:41,00 --> 01:17:49,50 	someone takes it out of his mouth and places it on the finger of a white mannequin hand sitting on the vanity.
 THE_CALL.srt 	THE_CALL_DVS1019 	01:17:50,00 --> 01:17:56,50 	behind it sits a childhood photo of someone and his sister.
 THE_CALL.srt 	THE_CALL_DVS1144 	01:26:08,00 --> 01:26:13,50 	he sits up and blinks several times.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS65 	00:13:41,00 --> 00:13:46,50 	a fit, pleasant-faced man sits nearby.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS131 	00:21:35,00 --> 00:21:44,50 	without meeting his gaze, the teen takes a cola from the refrigerator, sits at the table, and slurps sullenly.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS161 	00:26:35,00 --> 00:26:41,50 	someone sits up, then scoots around to face him fully.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS203 	00:33:28,00 --> 00:33:35,50 	someone pulls a chair out from a nearby table and sits facing his friends.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS284 	00:44:33,00 --> 00:44:39,50 	sitting in a day bed with a bottle of jameson irish whisky at his side, someone takes a steadying breath and ends the call.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS320 	00:49:17,00 --> 00:49:25,50 	later, someone sits next to someone, while someone reads in a chair facing the foot of the bed.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS352 	00:54:02,00 --> 00:54:11,50 	sitting back on his ankles, the weary husband rests his hands on his thighs and gazes off pensively.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS353 	00:54:11,00 --> 00:54:17,50 	now, he sits in his office over a load of paperwork.
@@ -957,23 +903,19 @@ THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS704 	01:38:38,00 --> 01:38:46,50 	someon
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS778 	01:46:20,00 --> 01:46:25,50 	now, sitting aboard an outrigger canoe, someone nods and accepts a container.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS786 	01:46:47,00 --> 01:46:51,50 	sitting in the middle of the boat,
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS812 	01:48:35,00 --> 01:48:41,50 	someone sits on the couch and rests his feet on an ottoman.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS78 	00:07:18,00 --> 00:07:24,50 	she sits hunched, turned slightly away.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS88 	00:09:12,00 --> 00:09:17,50 	someone sits facing a laptop.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS127 	00:13:07,00 --> 00:13:13,50 	sitting in his briefs, someone turns to face her.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS131 	00:13:30,00 --> 00:13:39,50 	in a passenger car set with small tables, someone sits opposite two strangers.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS153 	00:15:12,00 --> 00:15:17,50 	the journalist sits facing his host.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS169 	00:20:05,00 --> 00:20:12,50 	young someone sits the bloody driver back.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS197 	00:24:48,00 --> 00:24:55,50 	now, at a coffee shop someone sits alone at a counter with a book decorated with a bow.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS235 	00:27:49,00 --> 00:27:56,50 	at a hospital someone sits on a hallway floor with her knees to her chest.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS241 	00:28:31,00 --> 00:28:37,50 	the cat sits up, someone stirs, wrapped in a few blankets.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS242 	00:28:35,00 --> 00:28:41,50 	he sits up and looks at his watch on a nightstand.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS262 	00:31:43,00 --> 00:31:49,50 	later, sitting at a table someone studies a file.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS273 	00:32:10,00 --> 00:32:16,50 	someone meets with the family members who gather in a sitting room.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS283 	00:32:41,00 --> 00:32:50,50 	sitting with the family the officer jots notes.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS333 	00:41:02,00 --> 00:41:10,50 	sitting diagonally beside her former guardian, someone wipes drool from his mouth with her sleeve.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS358 	00:44:10,00 --> 00:44:16,50 	now, ssomeone's laptop sits on a tech support counter.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS365 	00:44:46,00 --> 00:44:52,50 	sitting across from her new guardian, she gives an affronted look.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS368 	00:45:19,00 --> 00:45:27,50 	as he sits on the edge facing her, someone anxiously shifts in her seat and avoids looking at him.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS370 	00:45:36,00 --> 00:45:41,50 	he reaches toward her backpack, which sits in her lap.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS406 	00:47:43,00 --> 00:47:49,50 	she sits cross-legged by a space heater on her apartment floor.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS478 	00:54:58,00 --> 00:55:06,50 	our gaze drifts to her bag sitting on the chair.
@@ -1000,11 +942,9 @@ THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1361 	02
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1365 	02:26:56,00 --> 02:27:03,50 	sitting on her bed someone listens to the report as she counts stacks of bonds.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1402 	02:30:04,00 --> 02:30:16,50 	now, in his apartment, someone sits across a chessboard from someone.
 THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS49 	00:10:46,00 --> 00:10:52,50 	someone sits at a table sipping a drink.
-THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS54 	00:11:12,00 --> 00:11:22,50 	someone sighs as he sits at the bar, watching his mother turn down one man after another, until they stop approaching her altogether.
 THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS57 	00:15:54,00 --> 00:15:59,50 	someone sits motionless at the table.
 THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS105 	00:37:03,00 --> 00:37:11,50 	someone sits with his head down, ignoring the pole dancers in the dimly lit strip club.
 THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS121 	00:43:08,00 --> 00:43:15,50 	someone sits at one of them, going over his notes, and muttering quietly to himself.
-THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS126 	00:46:55,00 --> 00:47:01,50 	someone looks sternly at her son, her glasses sitting low on her nose.
 THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS141 	00:48:46,00 --> 00:48:52,50 	someone, lost for words, sits down at the foot of her bed.
 THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS145 	00:50:26,00 --> 00:50:33,50 	later, he sits on the hotel bed, blankly watching the weather forecast.
 THE_SITTER.srt 	THE_SITTER_DVS41 	00:24:16,00 --> 00:24:20,50 	they sit on white couches.
@@ -1047,7 +987,6 @@ THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS399 	01:34:28,00 --> 01:34:36,50 	he s
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS482 	01:48:14,00 --> 01:48:21,50 	now at her family reunion, someone sits at a picnic table with three women.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS46 	00:06:24,00 --> 00:06:34,50 	later a desks facing each other, someone watches his gun spin as he reclines with his feet up while someone sits face down at his desk.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS56 	00:07:55,00 --> 00:08:01,50 	one of the chef hands her a warm towel as she sits.
-THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS86 	00:14:18,00 --> 00:14:25,50 	turning on a flat screen tv, he sits on a couch with a bowl of cereal.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS104 	00:17:29,00 --> 00:17:36,50 	now at bustling pub - the blarney stone, someone finds someone sitting at a table outside.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS106 	00:17:52,00 --> 00:17:56,50 	they sit across from each other.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS160 	00:30:59,00 --> 00:31:04,50 	now at work, someone sits alone at his desk.
@@ -1141,11 +1080,9 @@ WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS188 	00:33:01,00 --> 00:33:13,50 	wearin
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS379 	01:00:14,00 --> 01:00:23,50 	sitting at the bar, someone stares off with a troubled look,
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS410 	01:04:24,00 --> 01:04:33,50 	later at a restaurant, someone sits across a table from his brother and reads bank statements.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS416 	01:06:20,00 --> 01:06:26,50 	he continues to sketch as she sits beside him at a picnic table.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS433 	01:08:09,00 --> 01:08:16,50 	he looks at someone, who sits at the bar and gives an encouraging nod.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS454 	01:10:53,00 --> 01:11:04,50 	sitting outside, someone draws in his sketchbook.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS533 	01:21:18,00 --> 01:21:25,50 	he releases her hand and they both sit quietly, staring into the darkness.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS547 	01:24:00,00 --> 01:24:07,50 	going into the house, he finds someone sitting at the foot of the stairs, in tears.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS571 	01:27:45,00 --> 01:27:55,50 	sitting beside him on the floor, he glances at his father's grief-stricken expression, then looks to the cage.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS604 	01:31:35,00 --> 01:31:41,50 	someone sits cross-legged on the kitchen floor with the computer on his lap.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS842 	01:58:16,00 --> 01:58:24,50 	someone gestures at someone, and someone's eyes fill with tears as he sees her sitting there.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS48 	00:03:04,00 --> 00:03:09,50 	the woman sits facing him.
@@ -1157,7 +1094,6 @@ WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS438 	01:01:48,00 --> 01:01:55,50 	sh
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS440 	01:01:54,00 --> 01:01:59,50 	sitting on the floor, he kicks the ball.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS493 	01:10:20,00 --> 01:10:24,50 	now in her apartment, someone sits at a table.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS539 	01:14:42,00 --> 01:14:47,50 	someone sits alone at one of them, nibbling on a dinner roll.
-WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS589 	01:20:21,00 --> 01:20:26,50 	he takes a sip and sits on the couch.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS657 	01:32:06,00 --> 01:32:11,50 	she sits up with a resilient look in her eyes.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS73 	00:05:31,00 --> 00:05:38,50 	holding the boy in a grave stare, he indicates a coin sitting on the desk before him..
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS77 	00:05:47,00 --> 00:05:53,50 	on the desk, the coin sits, unmoving, beside a little brass bell.
@@ -1198,9 +1134,7 @@ YOUNG_ADULT.srt 	YOUNG_ADULT_DVS275 	00:53:01,00 --> 00:53:07,50 	later, sitting
 YOUNG_ADULT.srt 	YOUNG_ADULT_DVS308 	00:58:43,00 --> 00:58:49,50 	she sits on the narrow bed then gazes toward a wall.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS114 	00:09:21,00 --> 00:09:26,50 	sitting at the wheel, the newcomer notices.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS154 	00:14:23,00 --> 00:14:30,50 	as she drinks, he sits beside her with a resealable plastic bag filled with cereal.
-ZOMBIELAND.srt 	ZOMBIELAND_DVS176 	00:17:19,00 --> 00:17:25,50 	turning, he sits up and slams her against the wall.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS279 	00:31:47,00 --> 00:31:55,50 	now on a country highway, the escalade sits parked with its hood up.
-ZOMBIELAND.srt 	ZOMBIELAND_DVS335 	00:38:29,00 --> 00:38:35,50 	she looks back at him and he pointedly glances at someone who sits gaping.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS416 	00:47:43,00 --> 00:47:53,50 	later in a sitting room, a pop art painting shows tiled images of someone's face in bright candy colors.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS431 	00:49:32,00 --> 00:49:37,50 	and a stocky man with scraggly hair sits up.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS435 	00:49:44,00 --> 00:49:48,50 	in the sitting room, someone dances.

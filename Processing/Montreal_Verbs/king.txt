@@ -1,21 +1,4 @@
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS25 	00:03:44,00 --> 00:03:58,50 	king someone the lion heart, bankrupt of wealth and glory, is floundering his way back to england after ten years on his crusade.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS97 	00:24:58,00 --> 00:25:07,50 	as they reach a path, they king's horse approaches at a full gallop.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS161 	00:39:45,00 --> 00:39:55,50 	king someone removes one of his rings and holds it up.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS162 	00:39:56,00 --> 00:40:02,50 	king someone blinks.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS166 	00:40:26,00 --> 00:40:33,50 	king someone spots someone.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS194 	00:46:36,00 --> 00:46:41,50 	king someone rises from his throne.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS201 	00:48:47,00 --> 00:49:02,50 	grabbing his cheek, king someone stumbles.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS203 	00:49:11,00 --> 00:49:19,50 	king someone gives someone a patronizing look.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS205 	00:49:44,00 --> 00:49:55,50 	he frowns at king someone who dismisses him.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS388 	01:36:02,00 --> 01:36:06,50 	king someone arrives.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS389 	01:36:09,00 --> 01:36:17,50 	king someone draws his sword halfway from its sheath and offers its hilt to the baron.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS405 	01:41:14,00 --> 01:41:20,50 	king someone winces thoughtfully, then leans toward someone.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS471 	01:56:29,00 --> 01:56:36,50 	in full armor, someone and king someone ride out to meet someone and his companions.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS508 	02:06:54,00 --> 02:06:58,50 	king someone sees someone.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS511 	02:07:23,00 --> 02:07:46,50 	king someone hold his hand as they walk side by side into the towers outer courtyard.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS511 	02:07:23,00 --> 02:07:46,50 	someone occupies one throne while king someone stands in front of his and reads the charter.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS512 	02:07:45,00 --> 02:07:50,50 	king someone lifts his gaze to the crowd.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS141 	00:23:59,00 --> 00:24:07,50 	now at a greasy spoon, someone douglas interviews someone luther king jr. on a black and white tv.
-THOR.srt 	THOR_DVS57 	00:06:35,00 --> 00:06:42,50 	within asgard, the grey bearded king leads a blonde boy and a black-haired boy to the glowing box.
-THOR.srt 	THOR_DVS78 	00:10:33,00 --> 00:10:38,50 	smiling, someone stares up at king someone.
-THOR.srt 	THOR_DVS432 	01:08:58,00 --> 01:09:06,50 	later, amid the crumbled ruins, someone steps past frost giants as he approaches king someone, who sits on his throne.

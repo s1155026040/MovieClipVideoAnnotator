@@ -1,7 +1,4 @@
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS181 	00:14:13,00 --> 00:14:18,50 	hunched over and jaw hanging slack, someone looks up.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS491 	00:47:40,00 --> 00:47:45,50 	slack jawed, someone closes his eyes and shakes his head.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS103 	00:16:02,00 --> 00:16:18,50 	someone's slack jawed gaze shifts of the otherworldly creature to his henchmen.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS253 	00:48:31,00 --> 00:48:41,50 	slack jawed, she closes the door as she leaves.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS105 	00:17:12,00 --> 00:17:24,50 	a slack-	jawed someone eyes the large property.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS100 	00:08:32,00 --> 00:08:38,50 	the thick jawed newcomer stares at the narrator through shades.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS112 	00:09:08,00 --> 00:09:13,50 	the thick jawed man kicks over the motorbike.

@@ -1,0 +1,4 @@
+JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS147 	00:56:59,00 --> 00:57:09,50 	someone scales a steep hill, while the others lag behind.
+KARATE_KID.srt 	KARATE_KID_DVS442 	00:39:44,00 --> 00:39:49,50 	someone nervously lags behind on purpose.
+LAND_OF_THE_LOST.srt 	LAND_OF_THE_LOST_DVS159 	00:59:01,00 --> 00:59:10,50 	as they climb, someone lags far behind.
+PROMETHEUS.srt 	PROMETHEUS_DVS366 	00:35:54,00 --> 00:36:03,50 	lagging behind the others, a lone apparition stumbles and falls.

@@ -1,18 +1,5 @@
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS730 	01:13:34,00 --> 01:13:40,50 	someone unfolds the frame and puts them on, as he arrives at someone's body.
-BLINDDATING.srt 	BLINDDATING_DVS176 	00:46:02,00 --> 00:46:10,50 	someone stands, unfolds his cane and leaves.
-BURLESQUE.srt 	BURLESQUE_DVS320 	00:44:03,00 --> 00:44:07,50 	he picks it up and unfolds it.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS479 	00:46:03,00 --> 00:46:09,50 	putting on reading glasses, someone unfolds the essay.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS211 	00:54:17,00 --> 00:54:27,50 	as someone unfolds it and skims its contents, more pentagon agents filter into the control room.
-HUGO.srt 	HUGO_DVS371 	00:56:36,00 --> 00:56:41,50 	he partially unfolds the paper then holds it out to someone.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS598 	01:51:58,00 --> 01:52:17,50 	someone unfolds the page to reveal a handwritten message.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS341 	01:23:21,00 --> 01:23:42,50 	he slices open its wax seals with a knife and unfolds the pages.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS735 	00:48:49,00 --> 00:48:55,50 	mrs. wei opens it, then removes and unfolds a letter.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1295 	01:29:23,00 --> 01:29:29,50 	the finely-tailored garment unfolds gracefully as she holds it up.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS199 	00:38:15,00 --> 00:38:19,50 	he unfolds it repeatedly.
-SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS253 	00:50:50,00 --> 00:51:05,50 	he unfolds it to reveal a delicate drop-pendant necklace.
-SPARKLE_2012.srt 	SPARKLE_2012_DVS575 	01:34:33,00 --> 01:34:39,50 	she takes it out of her purse, unfolds it and shows it to the women.
-SUPER_8.srt 	SUPER_8_DVS147 	00:22:53,00 --> 00:23:01,50 	the boys walk up as someone unfolds it.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS675 	01:34:30,00 --> 01:34:35,50 	someone unfolds a ballot and reads it.
 THE_SITTER.srt 	THE_SITTER_DVS106 	00:56:40,00 --> 00:56:45,50 	someone unfolds a wanted poster.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS132 	00:15:33,00 --> 00:15:38,50 	someone unfolds a slip of paper.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS210 	00:26:36,00 --> 00:26:41,50 	she unfolds a sheet of paper.

@@ -1,30 +1,39 @@
-0004_Charade_00.31.48.092-00.31.48.818 	She beats it out frantically.
-0004_Charade_00.32.00.777-00.32.03.398 	REGGIE is too busy beating them out to do anything else.
-0004_Charade_00.32.03.908-00.32.12.790 	As she frantically beats out the matches, her eyes on her work.
-0004_Charade_00.56.03.787-00.56.06.052 	SCOBIE beats wildly at the the slate with his claw, trying to gouge a grip.
-0005_Chinatown_01.19.33.802-01.19.40.958 	With his jacket covering his face, Gittes hammers away at Mulvihlll, beating him against the glass door, along the wall, mercilessly pounding his fists into the cloth until the cloth turns red and Mulvihill begins to sink to the red tile floor.
-0011_Gandhi_02.02.10.739-02.02.16.620 	They both watch the waves beat on the shore a moment, the changing hues of the sunrise on the whites of Porbandar.
-0016_O_Brother_Where_Art_Thou_00.43.12.464-00.43.18.463 	The unearthly singing, full volume here, comes from the three women, beautiful but marked by an otherworldly langor as they dunk clothes in the stream and beat them against rocks.
-0017_Pianist_00.31.33.563-00.31.38.914 	A doorman with a cudgel beats away the beggars from the door as Halina, distraught and out of breath, runs to the cafe entrance.
-0017_Pianist_00.33.17.054-00.33.26.408 	Heller shoves someone aside so that Szpilman can approach, but he continues to beat and manhandle people.
-0017_Pianist_01.01.00.162-01.01.18.937 	Enraged, Zick-Zack grabs him by the hair and presses his head hard between his thighs and then beats him mercilessly.
-0020_Raising_Arizona_00.36.01.982-00.36.04.177 	One is beating on it with a large stick, another sits on the hood pulling back one of the windshield wipers, etc.
-0020_Raising_Arizona_01.21.40.274-01.21.41.203 	Landing in the dust, all the fight beaten out of him.
-0022_Reservoir_Dogs_00.46.08.250-00.46.10.518 	Pink and Mr. Blonde surround him and proceed to beat the shit out of him.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.26.52.174-01.26.54.142 	Flowing torrents of ORCS stream past CAVE TROLLS, beating the DRUMS OF WAR.
-0026_The_Big_Fish_01.02.11.343-01.02.16.233 	Recapping earlier football, baseball and basketball highlights, we find Edward beats Don every time.
-0028_The_Crying_Game_00.50.24.941-00.50.26.296 	She beats his arms away.
-0029_The_Graduate_00.38.21.065-00.38.44.392 	The midsummer sun beats down on the Braddock swimming pool and on Ben who lies on a rubber raft in the middle of the pool.
-0030_The_Hustler_01.48.16.978-01.48.21.111 	Eddie tries to take her in his arms, but she beats on his chest, sobbing, unable to make words.
-0032_The_Princess_Bride_00.01.17.026-00.01.18.383 	The Mother ignores it, beats a retreat.
-0041_The_Sixth_Sense_00.57.30.496-00.57.32.233 	A BLACK MAN in britches and no shirt, face beaten to a pulp, hangs in the center.
-0046_Chasing_Amy_00.15.13.092-00.15.17.132 	Two beats later, Hooper and Banky enter, holding an `Everything's Archie' comic between them.
-1003_How_to_Lose_Friends_and_Alienate_People_01.24.43.956-01.24.49.102 	Breathing heavily, he hangs his head as the rain beats down on the dark street.
-1006_Slumdog_Millionaire_01.43.24.943-01.43.35.273 	Jamal smiles as he recollects his teacher beating him with the book and sheltering from the rain as a child saying she could be the third musketeer.
-1007_Spider-Man1_00.20.23.793-00.20.29.859 	The school bus beats past now chased by Peter.
+0004_Charade_00.31.48.092-00.31.48.818 	she beats it out frantically.
+0004_Charade_00.32.00.777-00.32.03.398 	reggie is too busy beating them out to do anything else.
+0004_Charade_00.32.03.908-00.32.12.790 	as she frantically beats out the matches, her eyes on her work.
+0005_Chinatown_01.19.33.802-01.19.40.958 	with his jacket covering his face, gittes hammers away at mulvihlll, beating him against the glass door, along the wall, mercilessly pounding his fists into the cloth until the cloth turns red and mulvihill begins to sink to the red tile floor.
+0011_Gandhi_01.45.34.184-01.45.35.324 	a few of the tail-enders watching, some running clear of the police, some being beaten.
+0011_Gandhi_02.02.10.739-02.02.16.620 	they both watch the waves beat on the shore a moment, the changing hues of the sunrise on the whites of porbandar.
+0016_O_Brother_Where_Art_Thou_00.43.12.464-00.43.18.463 	the unearthly singing, full volume here, comes from the three women, beautiful but marked by an otherworldly langor as they dunk clothes in the stream and beat them against rocks.
+0017_Pianist_00.31.33.563-00.31.38.914 	a doorman with a cudgel beats away the beggars from the door as halina, distraught and out of breath, runs to the cafe entrance.
+0017_Pianist_00.33.17.054-00.33.26.408 	heller shoves someone aside so that szpilman can approach, but he continues to beat and manhandle people.
+0017_Pianist_01.01.00.162-01.01.18.937 	enraged, zick-zack grabs him by the hair and presses his head hard between his thighs and then beats him mercilessly.
+0020_Raising_Arizona_00.36.01.982-00.36.04.177 	one is beating on it with a large stick, another sits on the hood pulling back one of the windshield wipers, etc.
+0020_Raising_Arizona_01.21.40.274-01.21.41.203 	landing in the dust, all the fight beaten out of him.
+0022_Reservoir_Dogs_00.46.08.250-00.46.10.518 	pink and mr. blonde surround him and proceed to beat the shit out of him.
+0023_THE_BUTTERFLY_EFFECT_00.10.25.845-00.10.32.934 	orderly #2 acts quickly, beating jason with his baton.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.26.52.174-01.26.54.142 	flowing torrents of orcs stream past cave trolls, beating the drums of war.
+0028_The_Crying_Game_00.50.24.941-00.50.26.296 	she beats his arms away.
+0029_The_Graduate_00.38.21.065-00.38.44.392 	the midsummer sun beats down on the braddock swimming pool and on ben who lies on a rubber raft in the middle of the pool.
+0030_The_Hustler_01.48.16.978-01.48.21.111 	eddie tries to take her in his arms, but she beats on his chest, sobbing, unable to make words.
+0032_The_Princess_Bride_00.01.17.026-00.01.18.383 	the mother ignores it, beats a retreat.
+0041_The_Sixth_Sense_00.57.30.496-00.57.32.233 	a black man in britches and no shirt, face beaten to a pulp, hangs in the center.
+0049_Hannah_and_her_sisters_01.01.21.144-01.01.27.751 	holly, beating time to the music and enjoying herself, takes a puff of her cigarette.
+1006_Slumdog_Millionaire_01.43.24.943-01.43.35.273 	jamal smiles as he recollects his teacher beating him with the book and sheltering from the rain as a child saying she could be the third musketeer.
+1007_Spider-Man1_01.46.16.375-01.46.18.648 	spider-man goes on the attack, but is beaten back.
+1009_Spider-Man3_01.40.02.963-01.40.08.829 	peter pins a bouncer against the wall and starts beating off two more.
+1011_The_Help_00.31.56.177-00.32.00.584 	minnie beats a hasty retreat.
+1018_Body_Of_Lies_00.03.50.463-00.04.13.821 	the man, ferris, recalls sitting in a room, watching as a prisoner is gagged and beaten to death with a cricket bat.
+1018_Body_Of_Lies_00.24.11.178-00.24.13.590 	the iraqi prisoner being beaten to death.
+1018_Body_Of_Lies_01.54.16.648-01.54.26.658 	ferris remembers the man being beaten with a cricket bat.
+1033_Sherlock_Holmes_A_Game_of_Shadows_00.32.47.573-00.32.50.134 	sporting dark glasses and smoking his long pipe, holmes turns around to a bruised and beaten watson, who is asleep beside him.
+1043_Vantage_Point_00.41.03.105-00.41.11.032 	beating down the side street as he runs, howard sees enrique make a b-line for a busy highway.
+1044_Pride_And_Prejudice_Disk_Two_02.01.02.961-02.01.11.510 	later, lizzie and jane are taking a turn in the gardens, the bright sun beating down on them.
+1046_Australia_00.41.33.001-00.41.36.824 	the sun beats down on the homestead and the windmill turns slowly.
+1047_Defiance_01.42.38.344-01.42.40.766 	shimon and malbin wincing, watch the mob savagely beat the man to death.
 1053_Harry_Potter_and_the_philosophers_stone_01.21.49.910-01.21.59.852 	the professors beat out the flames, knocking quirrell off his feet.
-1056_Rambo_00.33.55.000-00.34.12.420 	rambo beats a piece of hot steel.
+1054_Harry_Potter_and_the_prisoner_of_azkaban_02.03.04.195-02.03.13.475 	beating its huge wings, the hippogriff swoops down towards the ground.
 1056_Rambo_01.09.26.000-01.09.29.734 	the escapees are being kicked and beaten by soldiers.
 1056_Rambo_01.10.20.154-01.10.50.198 	the commander beats them with a stick.
-1059_The_devil_wears_prada_00.37.19.328-00.37.28.325 	now, she emerges from the subway in a white coat to match her beat cap with yet another desirable handbag on her shoulder.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.05.56.592-01.05.58.383 	harry beats on a door, and shoots a death eater.
+1057_Seven_pounds_01.51.31.352-01.51.34.982 	the heart begins to beat.
+2017_Bad_Santa_00.28.04.039-00.28.06.946 	the troublemaker stops and looks down to find the kid beating on his legs.

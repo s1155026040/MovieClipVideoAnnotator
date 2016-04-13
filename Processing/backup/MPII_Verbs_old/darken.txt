@@ -1,12 +1,29 @@
-0050_Indiana_Jones_and_the_last_crusade_00.44.57.887-00.45.00.371 	Storm clouds darken the skies.
-0053_Rendezvous_mit_Joe_Black_00.36.07.533-00.36.10.173 	Parrish's brow darkens and a name tumbles from his lips.
+0001_American_Beauty_01.27.12.364-01.27.14.561 	lester's face darkens, then.
+0003_CASABLANCA_01.00.43.725-01.00.45.432 	ilsa's face darkens.
+0004_Charade_01.46.45.435-01.46.47.043 	as carson moves carefully across the darkened stage near the footlights, looking for reggie.
+0013_Halloween_00.06.22.757-00.06.37.885 	at top speed the pov races through the darkened house, to the front door, out the door, down the steps and rapidly up the street.
+0013_Halloween_01.15.36.722-01.15.37.951 	camera slowly tracks through the darkened bedroom of the wallace house.
+0017_Pianist_00.12.32.593-00.12.33.511 	his expression darkens.
+0023_THE_BUTTERFLY_EFFECT_01.50.36.821-01.50.38.358 	flashlight beams stab through the darkened corridor hunting for him.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.04.44.190-00.04.52.829 	gladden field.isildur leads a small column of men through darkening woods.the one ring glinting on a chain around his neck.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.22.55.420-01.22.59.430 	strider watches from the shadows.as boromir strolls through the darkened gallery.
+0049_Hannah_and_her_sisters_00.28.19.757-00.28.31.588 	as lee continues to read aloud, the movie cuts to elliot's darkened den, lit by a light in the hallway.
+0049_Hannah_and_her_sisters_00.58.36.564-00.58.40.925 	elliot walks quickly into the darkened hallway.
+0050_Indiana_Jones_and_the_last_crusade_00.44.57.887-00.45.00.371 	storm clouds darken the skies.
+1007_Spider-Man1_00.47.15.961-00.47.19.628 	the carjacker has made his escape from the vehicle and is creeping to a darkened warehouse.
 1010_TITANIC_01.27.37.271-01.27.40.165 	jack smiles as he darkens a shadow under rose's breasts.
+1014_2012_01.08.18.097-01.08.21.838 	anheuser and adrian enter the darkened chapel.
+1028_No_Reservations_01.04.11.429-01.04.21.994 	he stands, picks up his jacket from the back of the sofa and puts it on as he enters the darkened kitchen to retrieve his pants.
 1037_The_Curious_Case_Of_Benjamin_Button_00.51.14.067-00.51.19.728 	benjamin staggers through the darkened hallway, where queenie stands with her arms folded.
+1037_The_Curious_Case_Of_Benjamin_Button_01.44.52.208-01.44.55.983 	benjamin steps into the darkened auditorium.
+1037_The_Curious_Case_Of_Benjamin_Button_02.24.38.353-02.24.48.025 	she switches off the studio lights as parents usher their children out of the building, then finishes putting her coat on as she starts across the darkened foyer.
 1051_Harry_Potter_and_the_goblet_of_fire_02.03.16.336-02.03.22.819 	from the darkening clouds, arriving snaking ribbon of black smoke emerges.
+1055_Marley_and_me_01.18.33.134-01.18.37.107 	marley and john enter the darkened house.
+1057_Seven_pounds_00.37.13.042-00.37.16.994 	dan's expression darkens.
+1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.38.06.041-00.38.12.099 	the room darkens.
 1062_Day_the_Earth_stood_still_01.28.04.000-01.28.08.289 	the swarm darkens the sky behind klaatu.
 1062_Day_the_Earth_stood_still_01.32.22.390-01.32.28.670 	more gray clouds of bugs arrive, darkening the skies.
+2012_Unbreakable_00.34.41.067-00.34.43.486 	audrey stands in the darkened hall.
 2026_Legion_00.15.29.325-00.15.30.880 	bob's expression darkens at this news.
-1062_Day_the_Earth_stood_still_01.28.04.000-01.28.08.289 	the swarm darkens the sky behind klaatu.
-1062_Day_the_Earth_stood_still_01.32.22.390-01.32.28.670 	more gray clouds of bugs arrive, darkening the skies.
-2026_Legion_00.15.29.325-00.15.30.880 	bob's expression darkens at this news.
-2034_Super_8_00.30.22.988-00.30.27.742 	he sees joe and darkens as he approaches.
+2054_Harry_Potter_and_the_prisoner_of_azkaban_01.21.10.063-01.21.12.766 	the smoke within the crystal suddenly darkens.
+2054_Harry_Potter_and_the_prisoner_of_azkaban_01.56.27.932-01.56.29.907 	we look upward, see the tops of the trees etched against the darkening sky.

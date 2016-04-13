@@ -1,44 +1,18 @@
-21_JUMP_STREET.srt 	21_JUMP_STREET_DVS460 	01:15:02,00 --> 01:15:08,50 	the truck explodes and chicken feathers fly into the beetle.
 30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS26 	00:05:36,00 --> 00:05:41,50 	now a watermelon explodes.
-30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS336 	01:15:15,00 --> 01:15:21,50 	it explodes sending someone flying off his feet.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS183 	00:16:19,00 --> 00:16:23,50 	the sedans explode,
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS886 	01:26:16,00 --> 01:26:21,50 	falling to the ground, it explodes on impact.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS218 	00:38:50,00 --> 00:39:08,50 	someone runs into the street and aims her pistol as someone flicks his lighter causing a car parked behind her to explode.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS327 	01:01:52,00 --> 01:01:57,50 	dernier fire the blaster, exploding a huge hole in a building wall.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS342 	01:03:39,00 --> 01:03:47,50 	someone grabs a grenade from an open crate and hurls it into enemy ranks, exploding several hydra soldiers.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS440 	01:19:40,00 --> 01:19:46,50 	as his fellow soldiers run outside, someone flies out of the exploding building on a motorcycle.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS444 	01:20:01,00 --> 01:20:08,50 	later, someone and his team run through the forest while bombs explode around them.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS453 	01:21:02,00 --> 01:21:14,50 	someone jumps off as it explodes.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS515 	01:32:46,00 --> 01:33:01,50 	both motorcycles explode.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS542 	01:36:04,00 --> 01:36:19,50 	phillips' men explode armored vehicles, killing nearby troopers and clearing a path into the base.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS553 	01:37:00,00 --> 01:37:06,50 	the trooper's armored suit explodes as he falls dead.
-CHRONICLE.srt 	CHRONICLE_DVS475 	01:08:43,00 --> 01:08:50,50 	we watch the falling car exploding on impact, then look up at our savior.
-COLOMBIANA.srt 	COLOMBIANA_DVS956 	01:32:27,00 --> 01:32:34,50 	he lunges sideways avoiding the projectile which explodes as it hits a wall.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS518 	01:15:09,00 --> 01:15:15,50 	it explodes and flames shoot into the sky.
-DISTRICT_9.srt 	DISTRICT_9_DVS768 	01:30:50,00 --> 01:31:05,50 	a volt of electricity hits the gun-wielding mercenary dead-on, exploding him and takes off
-FLIGHT.srt 	FLIGHT_DVS689 	01:33:02,00 --> 01:33:08,50 	it explodes against a hanging photo of his son.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS114 	00:18:47,00 --> 00:18:55,50 	it explodes on impact, destroying the suv.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS186 	00:29:46,00 --> 00:30:06,50 	a massive fireball erupts from the bridge as the suv explodes.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS565 	01:20:53,00 --> 01:21:18,50 	ghost rider rear ends it and it explodes.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS44 	00:05:49,00 --> 00:05:57,50 	he speeds downward, past exploding fireworks, toward an arena, and lands on a circular platform at the front of the stage.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS45 	00:05:54,00 --> 00:06:10,50 	behind him on the stage, young long-haired women wearing matching bikini tops and short shorts form a line and kick their legs out in unison, while pyrotechnics explode around the gigantic video image of a fluttering american flag.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS166 	00:31:18,00 --> 00:31:54,50 	the car explodes into sparks and gray smoke as it spins in the air.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS328 	00:58:58,00 --> 00:59:06,50 	the two blasts meet, forming a huge fireball, which explodes and destroys much of the room.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS587 	01:41:04,00 --> 01:41:18,50 	the vehicles explode and flip into the air behind someone, who darts toward the expo.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS626 	01:47:11,00 --> 01:47:29,50 	someone fires a blast at the drone, which explodes, also destroying two other drones flanking it.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS656 	01:50:02,00 --> 01:50:10,50 	someone leaps out of the way as a drone fires a missile then explodes near someone.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS671 	01:50:54,00 --> 01:51:10,50 	they fire repulsor blasts, which meet where someone stands and form a fiery ball that explodes.
-PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS175 	00:39:12,00 --> 00:39:21,50 	he hurls it at a food table which explodes.
 PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS176 	00:39:22,00 --> 00:39:28,50 	one explodes a few feet from someone and someone.
 PROMETHEUS.srt 	PROMETHEUS_DVS457 	00:48:24,00 --> 00:48:33,50 	as the mist clears, the top of the head explodes, splattering the chamber walls with a greenish slime.
-SALT.srt 	SALT_DVS411 	01:12:16,00 --> 01:12:24,50 	someone presses a remote then explodes.
-SUPER_8.srt 	SUPER_8_DVS108 	00:17:45,00 --> 00:17:53,50 	one train cart slams like a missile into the side of the depot, exploding the building to splinters.
-SUPER_8.srt 	SUPER_8_DVS404 	01:12:58,00 --> 01:13:05,50 	as two soldiers talk nearby a bullet strikes the tanker which explodes.
 SUPER_8.srt 	SUPER_8_DVS507 	01:26:26,00 --> 01:26:33,50 	a missile explodes nearby.
 SUPER_8.srt 	SUPER_8_DVS669 	01:46:32,00 --> 01:46:39,50 	firecrackers explode inside the modeled train, flaming train cars tumble over gravel.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS488 	01:10:29,00 --> 01:10:33,50 	the ship explodes.
 THE_WATCH.srt 	THE_WATCH_DVS208 	00:38:27,00 --> 00:38:33,50 	light envelops the cow until it explodes.
-THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS472 	01:23:26,00 --> 01:23:46,50 	as it bounces under the pursuer's bumper, the agents shoot it and it explodes.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS485 	01:25:02,00 --> 01:25:09,50 	scene from the ground, the suv and jeep barrel over the edge and explode on impact.
 THOR.srt 	THOR_DVS625 	01:34:52,00 --> 01:35:02,50 	the exterior of the domed building spins as a bifrost bridge lances through outer space to the icy surface of jotunheim, causing a glacier to explode.
 TRUE_GRIT.srt 	TRUE_GRIT_DVS339 	01:10:51,00 --> 01:10:55,50 	and the cornbread explodes.

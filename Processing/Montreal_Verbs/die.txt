@@ -1,17 +1,5 @@
-A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS120 	00:27:55,00 --> 00:28:00,50 	someone glares at the tree, then writes, "die tree".
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS186 	00:25:29,00 --> 00:25:36,50 	beside him, blood streams from a dying man into bowls set on the floor.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS470 	01:06:47,00 --> 01:06:55,50 	staring off, someone remembers his dying mother writhing as her eyes rolled back in her head.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS524 	01:33:37,00 --> 01:33:48,50 	as the flames die, dozens of hydra soldiers surround someone.
-CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS171 	00:36:34,00 --> 00:36:46,50 	later, inside, a coalscuttle sits empty next to the stove whose open grate reveals dying embers.
-COLOMBIANA.srt 	COLOMBIANA_DVS119 	00:09:36,00 --> 00:09:44,50 	he lifts a trembling hand toward his face, then drops to the floor beside his dying wife.
 COLOMBIANA.srt 	COLOMBIANA_DVS846 	01:21:03,00 --> 01:21:08,50 	both fires die down.
 KARATE_KID.srt 	KARATE_KID_DVS521 	00:47:21,00 --> 00:47:25,50 	the flames die out.
-NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS444 	01:32:19,00 --> 01:32:26,50 	as the wind dies down, someone descends safely to the floor.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS673 	02:06:23,00 --> 02:06:44,50 	as someone lies dying, his lips move.
 SANCTUM.srt 	SANCTUM_DVS322 	01:04:40,00 --> 01:04:46,50 	light from his partner's helmet dwindles on the dying man.
 SANCTUM.srt 	SANCTUM_DVS545 	01:40:26,00 --> 01:40:30,50 	glow stick dies out.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS64 	00:14:33,00 --> 00:14:39,50 	someone adds detail to a doodle die ball.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS627 	01:31:36,00 --> 01:31:44,50 	he lifts his gaze from his dying daughter and glances, unfocused, toward the doorway.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS705 	01:38:46,00 --> 01:38:52,50 	slouched in another seat, someone stares at her dying mother.
-THE_VOW.srt 	THE_VOW_DVS605 	01:23:51,00 --> 01:23:56,50 	a few pots of leggy dying flowers come into view.
-THE_WATCH.srt 	THE_WATCH_DVS507 	01:29:55,00 --> 01:30:02,50 	someone unplugs four cables attached to someone and the beam dies out.

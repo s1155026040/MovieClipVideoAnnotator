@@ -1,20 +1,26 @@
-0005_Chinatown_01.49.55.087-01.49.58.892 	He's been charged with anger and when Evelyn says this it explodes.
-0007_DIE_NACHT_DES_JAEGERS_01.27.08.882-01.27.09.600 	They turn and we PAN with them as they hurry after RACHEL, and we bring in RACHEL, charging away from us with her brood hustling to keep up.
-0016_O_Brother_Where_Art_Thou_00.53.30.402-00.53.32.489 	He charges Big Dan and wraps his arms around him.
-0022_Reservoir_Dogs_00.34.11.230-00.34.14.619 	Mr. White explodes, raising his gun and charging towards Mr. Blonde.
-0023_THE_BUTTERFLY_EFFECT_01.19.56.882-01.20.06.498 	Rick instantly charges Carlos, but trips on the pants around his ankles.
-0023_THE_BUTTERFLY_EFFECT_01.20.06.714-01.20.07.766 	Evan frantically flips through them, hunting for something, as the other WHITE SUPREMACISTS charge the cell.
-0023_THE_BUTTERFLY_EFFECT_01.46.30.296-01.46.32.554 	Mr. Miller charges Evan just as the fuse is lit!
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.56.57.467-01.57.00.465 	The Door bursts open in a shower of wood fragments, and 20 Goblins charge into the tomb, followed by a huge cave troll!
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.59.44.392-01.59.59.116 	ANGLE ON: The 6000 ROHIRRIM move off, a great WALL of HORSES and SPEAR POINTS, building up to a GALLOP like a rising tide, as they CHARGE TOWARDS THE 50,000 ORCS!
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.10.56.182-02.10.58.708 	ARAGORN leaping from the LEADING SHIP and charging across the DOCKS, ROARING at the top of his LUNGS!
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.11.14.408-02.11.28.946 	They charge ACROSS the SURFACE OF THE WATER with FRIGHTENING SPEED, overtaking ARAGORN!
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.37.09.536-02.37.12.184 	ANGLE ON: PIPPIN and MERRY charging forward.
-0032_The_Princess_Bride_00.27.40.124-00.27.47.785 	FEZZIK, as he charges toward a huge rock that lines the path, and just as he reaches it he spins his giant body so that the entire weight of the charge is taken by the Man In Black.
-0032_The_Princess_Bride_00.34.47.509-00.34.52.743 	He leaps onto his horse and they charge off.
-0050_Indiana_Jones_and_the_last_crusade_00.10.12.446-00.10.13.346 	Indy charges in.
-0050_Indiana_Jones_and_the_last_crusade_00.28.09.211-00.28.15.626 	His eyes moving across the walls and ceilings -- charged with the thrill of discovery.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.01.56.444-01.02.03.184 	His green cape flapping behind him, he joins his teammates, who flank him as they charge for goal.
+0001_American_Beauty_01.15.46.044-01.15.46.318 	his face is close to hers, and suddenly the atmosphere is charged.
+0001_American_Beauty_01.44.17.753-01.44.20.763 	they stand there in silence; the atmosphere is charged.
+0005_Chinatown_01.49.55.087-01.49.58.892 	he's been charged with anger and when evelyn says this it explodes.
+0007_DIE_NACHT_DES_JAEGERS_01.27.08.882-01.27.09.600 	they turn and we pan with them as they hurry after rachel, and we bring in rachel, charging away from us with her brood hustling to keep up.
+0010_Frau_Ohne_Gewissen_01.02.50.343-01.02.51.338 	there is a charged pause.
+0016_O_Brother_Where_Art_Thou_00.53.30.402-00.53.32.489 	he charges big dan and wraps his arms around him.
+0019_Pulp_Fiction_01.53.08.078-01.53.12.741 	the bathroom door bursts open and the fourth man charges out, silver magnum raised, firing six booming shots from his hand cannon.
+0022_Reservoir_Dogs_00.34.11.230-00.34.14.619 	mr. white explodes, raising his gun and charging towards mr. blonde.
+0023_THE_BUTTERFLY_EFFECT_01.19.56.882-01.20.06.498 	rick instantly charges carlos, but trips on the pants around his ankles.
+0023_THE_BUTTERFLY_EFFECT_01.20.06.714-01.20.07.766 	evan frantically flips through them, hunting for something, as the other white supremacists charge the cell.
+0023_THE_BUTTERFLY_EFFECT_01.46.30.296-01.46.32.554 	mr. miller charges evan just as the fuse is lit!
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.56.57.467-01.57.00.465 	the door bursts open in a shower of wood fragments, and 20 goblins charge into the tomb, followed by a huge cave troll!
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.59.44.392-01.59.59.116 	angle on: the 6000 rohirrim move off, a great wall of horses and spear points, building up to a gallop like a rising tide, as they charge towards the 50,000 orcs!
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.10.56.182-02.10.58.708 	aragorn leaping from the leading ship and charging across the docks, roaring at the top of his lungs!
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.10.58.708-02.11.14.408 	surprised orc reaction to the three charging towards thousands of orcs.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.11.14.408-02.11.28.946 	they charge across the surface of the water with frightening speed, overtaking aragorn!
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.20.41.101-02.20.44.637 	he grips sting and continues charging up -- screaming at the top of his lungs!
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.37.05.881-02.37.08.143 	aragorn turning, sword-raised, he charges forward!
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.37.09.536-02.37.12.184 	angle on: pippin and merry charging forward.
+0032_The_Princess_Bride_00.27.40.124-00.27.47.785 	fezzik, as he charges toward a huge rock that lines the path, and just as he reaches it he spins his giant body so that the entire weight of the charge is taken by the man in black.
+0032_The_Princess_Bride_00.34.47.509-00.34.52.743 	he leaps onto his horse and they charge off.
+0050_Indiana_Jones_and_the_last_crusade_00.28.09.211-00.28.15.626 	his eyes moving across the walls and ceilings -- charged with the thrill of discovery.
+1002_Harry_Potter_and_the_Half-Blood_Prince_01.01.56.444-01.02.03.184 	his green cape flapping behind him, he joins his teammates, who flank him as they charge for goal.
 1007_Spider-Man1_00.52.11.172-00.52.14.389 	peter turns and charges sturdy up the stairs to his room.
 1008_Spider-Man2_01.25.13.986-01.25.17.518 	he charges with a shoulder.
 1010_TITANIC_02.11.08.514-02.11.11.975 	they charge forward and ram the gate.
@@ -23,5 +29,4 @@
 1034_Super_8_00.19.04.229-00.19.11.215 	noises emanate from the stricken carriage almost as if some angry beast were charging around inside it.
 1038_The_Great_Gatsby_00.34.49.691-00.34.50.468 	gatsby stands with a painting of charging stags behind him.
 1052_Harry_Potter_and_the_order_of_phoenix_01.43.36.338-01.43.38.491 	the centaurs charge firing arrows.
-1060_Yes_man_00.38.09.358-00.38.13.388 	he sits up to see a scary dog charging towards him.
 1060_Yes_man_00.38.09.358-00.38.13.388 	he sits up to see a scary dog charging towards him.

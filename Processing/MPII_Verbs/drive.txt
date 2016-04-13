@@ -1,159 +1,74 @@
-0001_American_Beauty_00.04.05.082-00.04.08.693 	carolyn is driving; jane stares out the window.
-0001_American_Beauty_00.56.00.913-00.56.27.909 	lester is driving, smoking a joint.
 0002_As_Good_As_It_Gets_00.48.09.725-00.48.21.909 	as they settle in and drive off.
-0002_As_Good_As_It_Gets_00.52.32.924-00.52.35.722 	the worst confirmed, she moves down the narrow hallway, her innards squirting the same chemicals that drives elk on opening day of the hunting season.
 0003_CASABLANCA_00.39.00.502-00.39.08.081 	b) rick drives a small, open car slowly along the boulevard.
 0005_Chinatown_00.09.36.931-00.09.39.428 	he drives off.
-0005_Chinatown_00.30.49.265-00.30.50.559 	gittes drives up a winding road, following a flood channel up into the parched hills.
 0005_Chinatown_00.40.15.119-00.40.16.458 	gittes drives more slowly.
-0005_Chinatown_00.50.36.075-00.50.39.463 	he drives off into the wilshire traffic, leaving evelyn looking after him.
-0005_Chinatown_01.20.11.594-01.20.15.187 	evelyn looking straight ahead, driving.
 0007_DIE_NACHT_DES_JAEGERS_00.02.43.774-00.02.45.625 	centering on open touring car, as it drives along a river road.
 0007_DIE_NACHT_DES_JAEGERS_00.02.55.267-00.03.00.555 	as he drives he talks to himself.
 0007_DIE_NACHT_DES_JAEGERS_00.07.22.164-00.07.25.202 	they drive away fast in road dust.
 0007_DIE_NACHT_DES_JAEGERS_01.07.31.963-01.07.35.788 	she surrounds them and drives them like geese up the bank.
-0008_Fargo_00.08.51.721-00.08.53.778 	carl showalter is driving.
-0008_Fargo_00.14.27.779-00.14.30.150 	carl is driving.
-0008_Fargo_00.14.46.902-00.14.57.988 	he is driving
-0008_Fargo_00.38.48.156-00.38.52.526 	marge is driving; lou sits next to her.
 0008_Fargo_01.09.08.990-01.09.13.115 	he mumbles to himself as he drives.
 0009_Forrest_Gump_00.13.02.727-00.13.05.027 	mrs. gump waves to forrest as the bus drives away.
 0009_Forrest_Gump_00.40.09.832-00.40.13.457 	forrest watches jenny in the pickup as it drives away.
-0009_Forrest_Gump_01.51.18.783-01.51.27.216 	the cab drives away as forrest is asleep in his bed.
 0009_Forrest_Gump_01.56.48.587-01.56.49.719 	the truck with the bumper sticker drives into an intersection.
-0009_Forrest_Gump_02.13.53.919-02.13.57.072 	it is the same bus driver, only older now, who drove forrest to school when he was a young boy.
-0010_Frau_Ohne_Gewissen_00.22.08.337-00.22.18.595 	neff bangs the front door shut, walks quickly to his car and drives away.
-0010_Frau_Ohne_Gewissen_00.39.18.430-00.39.20.516 	slowly he puts the car in gear and drives on.
-0010_Frau_Ohne_Gewissen_00.58.23.082-00.58.25.864 	the sedan drives into the shot and stops without pulling over to the curb.
 0010_Frau_Ohne_Gewissen_01.17.41.369-01.17.43.016 	neff and lola driving along the beach near santa monica.
-0011_Gandhi_02.25.45.561-02.25.48.434 	it is driven by an american lieutenant and his passenger is a woman dressed in an american war correspondent's uniform (margaret bourke-white).
-0012_Get_Shorty_00.27.05.682-00.27.08.182 	harry pulls out, starts driving again.
 0012_Get_Shorty_00.40.09.546-00.40.09.628 	chili drives a dark road up into the park.
-0012_Get_Shorty_01.25.36.320-01.25.40.172 	as the valet drives off with chili's minivan, a cab pulls up and harry - his hands bandaged, his neck in a massive brace - gets out.
-0013_Halloween_00.06.05.274-00.06.09.130 	there is a rapid blur as the pov drives the butcher knife into the sister's chest and out again almost before we've seen it.
 0013_Halloween_01.05.52.520-01.05.54.382 	the shape drives the knife deeply into bob's chest with a slamming thud, the other end of the knife stuck through the wall.
-0013_Halloween_01.20.23.611-01.20.25.719 	instinctively laurie raises the knitting needle and drives it home, right into the shape's neck!
 0014_Ist_das_Leben_nicht_schoen_00.05.13.492-00.05.16.852 	the carriage driving by.
-0014_Ist_das_Leben_nicht_schoen_00.29.38.943-00.29.44.597 	as the car drives off, mary, now wearing the robe, rises up from the bush and follows the car with her eyes.
 0014_Ist_das_Leben_nicht_schoen_01.35.20.314-01.35.29.336 	he crosses the street, tugs at the door of his old car, finally steps over the door, and drives off.
-0014_Ist_das_Leben_nicht_schoen_01.54.16.127-01.54.19.075 	ernie turns to driving, but he's worried about his passenger.
-0017_Pianist_00.30.57.600-00.31.09.414 	the ss men get into the vehicle and speed off, driving over the dead bodies.
 0017_Pianist_00.33.10.372-00.33.12.505 	heller, with his red hair and hitler moustache, wielding a baton, driving men into the building.
-0019_Pulp_Fiction_01.34.10.096-01.34.35.053 	he drives by the apartment, but is stopped at the light on the corner across from teriyaki donut.
 0020_Raising_Arizona_00.08.52.197-00.08.52.651 	driving.
-0020_Raising_Arizona_00.42.39.662-00.42.43.165 	hi is driving, his jaw rigidly set, his temple throbbing.
-0020_Raising_Arizona_01.16.05.825-01.16.14.892 	gale is driving; evelle starts pawing through one of the sacks.
 0022_Reservoir_Dogs_00.10.26.260-00.10.30.065 	though he's driving for his life, he keeps talking to his wounded passenger in the backseat.
-0022_Reservoir_Dogs_00.36.57.684-00.37.00.017 	mr. blonde is walking towards the car he drove.
-0022_Reservoir_Dogs_00.45.59.086-00.46.01.754 	nice guy eddie is driving to the rendezvous talking on his portable car phone.
 0023_THE_BUTTERFLY_EFFECT_00.22.15.015-00.22.18.313 	reveal she's driving evan and kayleigh home.
 0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.07.48.543-00.07.54.885 	the cart rattles along a leafy lane, driven by a stooped figure in grey.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.39.36.926-00.39.38.786 	frodo screaming as the morgul blade is driven into his shoulder.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.51.38.723-01.52.01.905 	as she splays her legs to drive her huge bulk down on him, sam lifts the elven blade above his head, holding it with two hands.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.11.49.955-02.11.57.319 	merry driving his sword into the back of the witchking's knee!
 0026_The_Big_Fish_01.27.30.610-01.27.32.522 	the two men wave at each other as edward drives off.
 0027_The_Big_Lebowski_00.32.12.815-00.32.13.791 	we pan off the dude, driving, to his point of view through the front windshield.
-0027_The_Big_Lebowski_01.35.15.810-01.35.32.574 	walter's eyes are on the road as he listens, driving, to the dude, whose speech is occasionally punctuated by yaps from the back seat.
 0028_The_Crying_Game_00.05.29.970-00.05.32.428 	a mini, driving down a country road.
 0028_The_Crying_Game_00.53.53.876-00.53.55.522 	and suddenly a car drives very fast toward them, headlights on.
-0028_The_Crying_Game_01.20.24.329-01.20.25.502 	jude is driving, maguire next to her.
 0028_The_Crying_Game_01.38.46.474-01.38.48.967 	he drives off.
 0028_The_Crying_Game_01.38.58.660-01.39.04.214 	maguire's car driving round once more.
-0029_The_Graduate_01.02.57.070-01.02.57.696 	a car with a couple of teenagers has driven up in the slot on their right.
-0029_The_Graduate_01.04.33.102-01.04.37.044 	there is a squeal of tires as ben almost drives off the road.
-0029_The_Graduate_01.05.27.057-01.05.33.965 	he takes his hand off the ignition, jams on the accelerator and drives the car speedily for twenty- one feet and jams on the brakes.
-0029_The_Graduate_01.07.11.602-01.07.19.773 	he starts the car and drives out.
-0029_The_Graduate_01.08.00.429-01.08.06.411 	ben's right hand is on it as he drives.
 0029_The_Graduate_01.08.34.451-01.08.38.265 	as they drive.
 0029_The_Graduate_01.12.00.465-01.12.05.608 	the car drives down the driveway and down the street.
 0029_The_Graduate_01.13.36.470-01.14.05.045 	ben driving his car.
-0029_The_Graduate_01.34.11.352-01.34.19.877 	ben driving his car sound: an envelope being read.
 0029_The_Graduate_01.36.35.906-01.36.44.472 	ben, driving rapidly.
 0032_The_Princess_Bride_00.46.37.768-00.46.40.625 	westley drives a fist into the beast's face, rolling it off.
-0032_The_Princess_Bride_01.07.14.267-01.07.16.568 	and fezzik crunches the albino on the top of the head as if he had a hammer and was driving in a nail.
-0032_The_Princess_Bride_01.26.18.649-01.26.23.041 	count rugen, suddenly going into a fierce attack, striking with great power and precision for he is a master swordsman, and he forces inigo easily back, drives him easily into the wall.
 0033_Amadeus_01.31.07.531-01.31.10.949 	they climb into a waiting carriage which drives off after the forte-piano.
-0033_Amadeus_02.42.08.694-02.42.14.295 	a carriage is driving fast through the night.
 0038_Psycho_00.16.53.065-00.16.57.467 	as she drives, she glances into her rear-view mirror.
-0038_Psycho_00.23.37.577-00.23.41.923 	as she drives out of lot we see the mechanic, the car dealer and the patrolman all looking after her.
-0038_Psycho_00.23.44.294-00.23.48.876 	mary is driving tensely.
-0038_Psycho_00.29.32.163-00.29.42.334 	mary follows him to the door, goes out on the porch, waits and watches as norman runs to her car, gets in, drives it to the parking space in front of cabin one.
-0038_Psycho_01.12.13.732-01.12.17.891 	norman stands, watching him drive away.
 0038_Psycho_01.28.34.993-01.28.38.079 	as the truck drives off.
-0043_Thelma_and_Luise_00.08.42.057-00.08.43.013 	as they drive down the street, we hear thelma let out a long howl.
-0043_Thelma_and_Luise_00.08.46.826-00.08.48.461 	they are driving down the interstate.
 0043_Thelma_and_Luise_00.42.07.915-00.42.14.648 	they drive down the road.
-0043_Thelma_and_Luise_01.11.17.407-01.11.19.994 	thelma and louise, both looking a little rougher than we've seen so far, drive away.
 0043_Thelma_and_Luise_01.15.59.755-01.16.03.224 	thelma and louise in car, driving.
 0043_Thelma_and_Luise_01.21.15.102-01.21.24.604 	as the sun sets, the t-bird drives deeper into the vast desert.
 0043_Thelma_and_Luise_01.36.01.527-01.36.06.309 	they drive through a little stand of buildings.
-0043_Thelma_and_Luise_01.53.12.465-01.53.17.381 	louise starts the car and starts driving in circles around the truck driver.
-0049_Hannah_and_her_sisters_00.12.55.264-00.12.58.924 	norman, a los angeles tv producer and mickey's former partner, is driving down a peaceful street lined with palm trees.
-0049_Hannah_and_her_sisters_00.41.20.679-00.41.23.393 	elliot leans down to the chauffeur's window, signaling for him to start driving.
 0049_Hannah_and_her_sisters_00.41.23.393-00.41.32.375 	the limousine drives off.
-0049_Hannah_and_her_sisters_00.43.37.199-00.43.39.455 	she runs into the building; the taxi drives away.
-0049_Hannah_and_her_sisters_01.04.28.448-01.04.48.705 	mickey starts to walk along the sidewalk as the taxi drives off; he passes the hotel and several evening-lit store windows.
-0050_Indiana_Jones_and_the_last_crusade_00.05.26.429-00.05.30.775 	and a vintage truck and automobile come roaring out from behind the pueblo (driven by two more gang members).
-0050_Indiana_Jones_and_the_last_crusade_00.39.52.976-00.40.03.099 	indy grabs kazim just in time and jumps into the motorboat, driven by elsa, which gets alongside in the nick of time.
 0050_Indiana_Jones_and_the_last_crusade_01.23.03.347-01.23.06.530 	sallah drives his car through the crowded streets, indy beside him and henry in the back seat.
-0051_Men_in_black_01.17.28.704-01.17.28.908 	it keeps going, turning all the way over and driving upside down, wheels clinging to the roof of the tunnel.
 1001_Flight_01.00.50.611-01.00.53.967 	nicole sits in the passenger seat of whip's car as he drives and drinks his beer.
-1001_Flight_01.01.18.972-01.01.27.840 	she fidgets as she smiles to herself and observes whip as he drives.
 1001_Flight_01.32.30.534-01.32.37.466 	the van drives off.
 1001_Flight_01.37.14.001-01.37.29.837 	some reporters spot him, he reverses and drives back onto the main road.
 1003_How_to_Lose_Friends_and_Alienate_People_01.10.25.902-01.10.30.729 	they drive on down a dark stretch of road.
-1004_Juno_00.27.12.530-00.27.18.410 	mac with juno beside him drives his blue previa through the gates of the affluent looking glacial valley estate.
-1004_Juno_00.41.47.270-00.41.59.600 	she blinks thoughtfully and moments later is driving mac's blue previa out to glacial valley estate past its immaculate houses and lawns blanketed in snow.
 1004_Juno_00.45.57.520-00.46.00.430 	a sinister man drives a stake through a woman's stomach.
-1004_Juno_01.14.37.770-01.14.44.458 	the car lights flash and she pulls back on to the road and drives off.
-1004_Juno_01.16.49.556-01.16.53.267 	mark, opening the front door, catches sight of juno driving off.
 1004_Juno_01.23.44.191-01.23.50.617 	later, she drives a matchbox police car up over the crest of her enormous belly.
-1005_Signs_00.46.12.910-00.46.16.245 	now, a fresh-faced graham, dressed in black, and wearing a white dog collar, drives slowly down a country road at night.
 1005_Signs_01.34.06.414-01.34.10.248 	he glares into the alien's hooded eyes as he remembers driving to the scene of the accident.
-1006_Slumdog_Millionaire_00.24.54.457-00.25.00.291 	the minibus is driving through lush countryside.
 1006_Slumdog_Millionaire_01.16.36.382-01.16.39.468 	he drives through the electronic gates.
-1006_Slumdog_Millionaire_01.16.53.267-01.17.00.518 	salim collects a small package from her then drives past the gates where jamal is hiding.
-1006_Slumdog_Millionaire_01.39.37.086-01.39.42.828 	latika is now driving at a high speed on packed roads.
 1008_Spider-Man2_01.15.09.776-01.15.16.838 	peter half smiles as mj steps into the cab, shuts the door and watches as the cab drives away.
-1009_Spider-Man3_00.07.07.644-00.07.19.590 	harry gets into the back of his chauffeur driven limo and is driven away, leaving peter standing helplessly on the pavement.
-1009_Spider-Man3_00.10.40.004-00.10.45.927 	a police car with a search lamp mounted by the passenger window turns onto the street behind him and drives down the road at a walking pace.
 1009_Spider-Man3_00.49.49.368-00.49.54.709 	the guard driving looks at the shadow alongside the van as the mass of sand forms into a human shape standing on the roof.
-1009_Spider-Man3_01.00.52.247-01.00.55.509 	the accomplice drives away, leaving flint behind.
 1009_Spider-Man3_02.07.38.538-02.07.48.369 	he kneels over the dying man as his partner drives away.
-1011_The_Help_00.28.24.971-00.28.29.589 	skeeter waits for hilly to drive away and then looks pointedly at aibileen.
 1011_The_Help_00.34.38.696-00.34.40.466 	elizabeth waves to mae mobley and drives off.
-1011_The_Help_00.36.04.906-00.36.13.051 	she watches it drive off with a doom-laden look on her face.
-1011_The_Help_01.31.40.821-01.31.47.068 	an orange cruiser pulls into elizabeth drive where the bridge launches in full swing.
-1011_The_Help_01.54.33.541-01.54.49.091 	skeeter drives the blue cadillac slowly along a dirt road and peers through some trees at a single-story, white clapboard house, its roof overgrown, standing in a small clearing.
-1012_Unbreakable_00.08.44.466-00.08.48.133 	a car is driving down a quite urban street.
 1014_2012_00.01.42.294-00.01.45.501 	the driver ignores adrian and drives through the puddle smashing the boy and his boat.
-1014_2012_00.09.28.177-00.09.32.622 	soldiers stopping nima's brother tenzen from following the truck as it drives away.
 1014_2012_00.13.30.298-00.13.35.277 	and drives off past the surface.
-1014_2012_00.16.54.026-00.16.55.579 	roland is driving.
-1014_2012_00.17.13.212-00.17.14.192 	the back of roland's car explodes as he is driving.
 1014_2012_00.40.33.040-00.40.38.000 	jackson drives the kids in the limo.
 1014_2012_00.46.17.113-00.46.19.048 	two old ladies driving steadily ahead of them
 1014_2012_00.47.07.847-00.47.11.299 	they drive alongside the collapsing bridge.
 1014_2012_00.47.28.122-00.47.36.128 	jackson drives the limo into a ramp and drives in the collapsing buildings ground flour
 1014_2012_01.00.50.249-01.00.54.263 	jackson drives the rv along the road through the carnage.
-1014_2012_01.18.41.149-01.18.46.333 	gordon gawps as they drove towards a tall tower and take the tip off with the underside of the plane.
-1014_2012_01.20.39.863-01.20.46.037 	nema drives the truck through his village which sits beneath the mountains.
 1014_2012_01.54.26.516-01.54.29.065 	nema drives the truck with his grandparents in the cab with him.
 1015_27_Dresses_00.27.27.122-00.27.29.948 	later, a car drives past jane's building.
-1017_Bad_Santa_00.12.34.059-00.12.42.693 	the young guy from the valet service drives off with the convertible and willie walks over to a board holding the car keys.
-1017_Bad_Santa_00.13.34.135-00.13.41.268 	he replaces the disk, starts engine, and drives away.
 1017_Bad_Santa_00.31.55.512-00.31.58.144 	the very nice bmw which wille drives away in.
 1017_Bad_Santa_00.35.39.915-00.35.44.127 	 he drives off crashing them on his wheels.
 1017_Bad_Santa_00.37.32.275-00.37.42.789 	that night, willie drives a seven series bmw in through the gates of the motel.
-1017_Bad_Santa_01.16.46.412-01.16.50.900 	marcus and lois watches as gin gets in his big chevrolet car and drives off.
 1018_Body_Of_Lies_00.01.36.947-00.01.37.496 	the milk float drives off.
-1018_Body_Of_Lies_00.21.33.724-00.21.44.509 	bassam drags him to the four-by-four, throws him in the back and drives off.
 1018_Body_Of_Lies_00.40.19.180-00.40.25.289 	two men in suits open gates and the mercedes drives into a courtyard.
 1018_Body_Of_Lies_00.44.24.611-00.44.30.079 	they drive across the desert in a convoy of black cars.
-1018_Body_Of_Lies_00.45.16.750-00.45.27.943 	the cars drive around the pair and stop.
-1018_Body_Of_Lies_00.49.32.892-00.49.37.484 	two suvs drive through gates and stop in front of the jordanian general intelligence directorate.
 1018_Body_Of_Lies_01.00.45.369-01.00.45.496 	they're driven away.
-1018_Body_Of_Lies_01.00.52.831-01.00.56.282 	ferris' brow is pinched as he is driven past the market square.
 1018_Body_Of_Lies_01.17.31.548-01.17.41.492 	ferris drives an suv through town and parks by an apartment block.
 1018_Body_Of_Lies_01.25.08.556-01.25.09.344 	a troop carrier drives up.
 1018_Body_Of_Lies_01.30.40.903-01.30.43.538 	he drives away in his cream mercedes.
@@ -161,15 +76,10 @@
 1018_Body_Of_Lies_01.33.12.491-01.33.14.823 	an agent drives the suv after the four-by-four but crashes.
 1018_Body_Of_Lies_01.33.16.117-01.33.19.189 	the attackers drive off after sadiki.
 1018_Body_Of_Lies_01.37.29.520-01.37.55.026 	aggressively driving through town, he calls aisha on his mobile.
-1018_Body_Of_Lies_01.42.45.609-01.42.49.578 	the driver, with thick stubble and cap, puts on a tape as he drives off.
-1019_Confessions_Of_A_Shopaholic_01.35.33.725-01.35.43.477 	after the wedding, rebecca and the rest of the guests wave as the newlyweds are driven off in a white rolls royce.
 1020_Crazy_Stupid_Love_00.02.11.810-00.02.13.695 	driving, emily glances over at cal awkwardly.
-1020_Crazy_Stupid_Love_01.01.45.053-01.01.50.518 	emily gets into her car and drives off.
-1020_Crazy_Stupid_Love_01.26.33.048-01.26.43.781 	emily drives her suv along her leafy, suburban street and turns into her driveway.
 1023_Horrible_Bosses_00.09.19.236-00.09.22.634 	jack drives away from the chemical company.
 1023_Horrible_Bosses_00.33.29.875-00.33.32.043 	they drive into a rough neighborhood.
 1023_Horrible_Bosses_00.44.05.005-00.44.07.359 	the guys drive down a leafy, suburban street.
-1023_Horrible_Bosses_00.45.16.823-00.45.18.775 	an orange pontiac trans am tears out and drives off down the street.
 1023_Horrible_Bosses_00.50.26.301-00.50.28.831 	street lamps illuminate the darkened street as they drive on.
 1023_Horrible_Bosses_00.56.06.188-00.56.11.533 	he drives the long needle into harken's neck as kurt and nick leg it out of the house.
 1023_Horrible_Bosses_01.01.07.991-01.01.12.776 	kurt falters, then drives in front of nick and circles the two cars to bring up the rear.
@@ -180,64 +90,33 @@
 1026_Legion_00.06.49.537-00.06.51.242 	he drives off in it.
 1026_Legion_00.11.59.058-00.12.03.725 	a guy in an suv drives along a deserted freeway, a half smoked cigarette in his mouth.
 1026_Legion_00.38.33.093-00.38.35.204 	the cars drive straight as if on tracks.
-1026_Legion_00.38.40.913-00.38.43.802 	their heads shaking violently, they drive towards the diner.
 1026_Legion_01.07.28.000-01.07.29.482 	several cars drive out of the darkness towards the diner.
 1026_Legion_01.20.26.891-01.20.28.097 	jeep keeps his eye on the wing mirror as he drives away.
-1027_Les_Miserables_01.08.15.407-01.08.19.501 	he sits on a back of a carriage as it drives through town
 1028_No_Reservations_01.31.21.515-01.31.26.788 	they drive around in nick's blue pickup truck.
 1028_No_Reservations_01.32.18.000-01.32.22.000 	they drive past leafless trees into the bleak, deserted cemetery.
-1028_No_Reservations_01.34.58.000-01.35.02.000 	kate stands alone in the sunlit street as a truck drives away.
-1029_Pride_And_Prejudice_Disk_One_00.46.13.177-00.46.17.538 	now mrs. bennet is being driven in a carriage.
-1030_Public_Enemies_00.05.48.452-00.05.53.697 	standing on the running board, dillinger grabs his arm as they drive away.
-1030_Public_Enemies_00.06.17.712-00.06.23.385 	walter's body slides to a stop in the dirt as the car drives off, leaving a cloud of dust behind.
 1030_Public_Enemies_00.14.13.338-00.14.20.764 	in a getaway car, red checks the time on a pocket watch, then drives away.
 1030_Public_Enemies_00.15.37.288-00.15.40.144 	as they drive down the street, the tails of the crook's overcoats flap in the breeze.
-1030_Public_Enemies_00.16.29.465-00.16.35.405 	reaching their car, they get in and drive away.
-1030_Public_Enemies_00.56.03.090-00.56.07.522 	later, the convoy drives onto a bridge, passing a set of raised barricades.
-1030_Public_Enemies_01.31.06.771-01.31.10.383 	as baum's car drives off, purvis finds his fallen partner.
-1030_Public_Enemies_01.35.50.944-01.35.59.345 	on a city street, a scowling dillinger drives past a parked car, which reflects electrical flashes from a passing train.
 1031_Quantum_of_Solace_00.03.36.514-00.03.42.181 	bond drives the dusty battered aston into a medieval italian town with stone buildings and narrow streets.
-1031_Quantum_of_Solace_00.17.51.052-00.17.52.835 	he's wearing shades in the back of a taxi, driving down a dusty street.
 1031_Quantum_of_Solace_00.19.22.827-00.19.25.069 	he drives the scissors into the guy's neck, and thigh.
-1031_Quantum_of_Solace_00.33.37.807-00.33.42.669 	he drives through rundown suburbs and makes a call to his neat glass partitioned headquarters.
 1031_Quantum_of_Solace_00.38.46.862-00.38.50.696 	they drive through quiet cobbled streets past a bubbling fountain.
-1031_Quantum_of_Solace_00.53.15.240-00.53.25.609 	they get in the taxi which drives through the busy downtown traffic.
 1031_Quantum_of_Solace_01.35.57.240-01.36.16.217 	green stares down at the can and at the car as it drives away across the vast, empty.
 1031_Quantum_of_Solace_01.37.45.062-01.37.57.209 	he drives away as she heads for the station.
-1033_Sherlock_Holmes_A_Game_of_Shadows_00.32.28.639-00.32.36.427 	the next day, he drives his car along a narrow road leading to a village.
-1034_Super_8_00.03.46.128-00.03.52.534 	he gets in the patrol car and drives it off with its lights flashing.
-1034_Super_8_00.10.16.943-00.10.23.902 	it's being driven by a teenage blonde girl, alice.
 1034_Super_8_00.24.31.578-00.24.38.925 	alice drive them away as a large score of men in military uniforms brandishing guns and torches arrive on the scene.
-1034_Super_8_00.35.29.380-00.35.33.699 	the sheriff drives his car into a gas station and pulls up by the pumps.
 1034_Super_8_00.44.03.182-00.44.06.539 	a telecom engineer's truck drives along a dark road.
 1034_Super_8_00.50.56.752-00.51.00.200 	jack drives up.
 1034_Super_8_00.54.47.649-00.54.51.025 	jack drives his patrol car through the gates of lilian air field.
-1034_Super_8_01.13.05.383-01.13.08.391 	once air force personnel are distracted, jack helps himself to a jeep and drives off.
-1034_Super_8_01.13.24.249-01.13.30.009 	now on a main carriage way, he unwittingly motors past donnie and joe and the boys who are driving back to town.
 1034_Super_8_01.14.05.325-01.14.08.727 	they drive until lillian middle school.
-1034_Super_8_01.18.21.045-01.18.25.185 	sitting in his car, donnie watches as they're driven away.
-1034_Super_8_01.20.58.924-01.21.05.804 	the senior airman driving the bus hesitates before reluctantly obeying the order and opening the door.
-1034_Super_8_01.29.34.982-01.29.35.649 	jack is driving.
-1034_Super_8_01.39.59.159-01.40.04.298 	a jeep drives up and joe sees his dad and louis get out of it.
 1035_The_Adjustment_Bureau_00.47.27.635-00.47.28.917 	its roof light switches to off duty as it drives by.
-1037_The_Curious_Case_Of_Benjamin_Button_01.50.07.909-01.50.13.131 	benjamin walks away hat in hand as the taxi drives off in the other direction.
 1037_The_Curious_Case_Of_Benjamin_Button_02.00.17.070-02.00.20.849 	he drives a blue motorbike parked outside.
-1037_The_Curious_Case_Of_Benjamin_Button_02.28.13.031-02.28.19.515 	he watches as the vehicle drives away.
-1038_The_Great_Gatsby_00.33.39.392-00.33.42.776 	jordan and teddy are driven away.
-1038_The_Great_Gatsby_00.34.15.602-00.34.19.224 	jordan stands up and waves as she's driven by.
 1038_The_Great_Gatsby_00.35.54.916-00.35.57.935 	gatsby drives the duesenberg at speed along a country road, weaving in and out of the other cars.
 1038_The_Great_Gatsby_00.39.19.903-00.39.25.963 	they drive alongside a convertible, driven by a white chauffeur, with two black couples in the back drinking champagne.
 1038_The_Great_Gatsby_00.48.26.867-00.48.28.037 	the cab drives along the tree-lined lane.
 1038_The_Great_Gatsby_00.48.50.533-00.48.51.714 	the cab drives off.
-1038_The_Great_Gatsby_01.18.35.146-01.18.38.051 	tom and daisy are driven away from the mansion.
 1038_The_Great_Gatsby_01.18.52.667-01.18.54.913 	they're driven away.
-1038_The_Great_Gatsby_01.31.19.272-01.31.24.185 	in the drive, gatsby's yellow deusenberg is driven up along with tom's smaller blue coupe.
 1038_The_Great_Gatsby_01.32.28.568-01.32.32.088 	they drive on to the filthy gray valley of ashes.
 1038_The_Great_Gatsby_01.49.51.408-01.49.53.648 	tom drives away with jordan.
 1039_The_Queen_00.12.02.876-00.12.03.823 	archive footage shows a younger diana driving away from reporters.
-1039_The_Queen_00.27.26.625-00.27.28.725 	later, tony sits in the backseat of a car which is driving down a motorway at daytime.
 1039_The_Queen_00.40.02.783-00.40.07.212 	the queen and charles drive along a country road.
-1039_The_Queen_00.41.35.180-00.41.38.924 	charles drives away leaving the queen with the dogs.
 1039_The_Queen_00.51.43.597-00.51.49.049 	the next day three land rovers drive away from balmoral.
 1039_The_Queen_01.19.25.205-01.19.31.303 	black cars drive up to the palace and past crowds of people gathered behind barriers.
 1039_The_Queen_01.27.14.968-01.27.18.903 	video footage at night shows a procession of cars driving.
@@ -245,11 +124,7 @@
 1041_This_is_40_00.16.13.383-00.16.20.172 	later, pete drives his wife home.
 1041_This_is_40_00.17.01.872-00.17.05.605 	debbie watches with a smirk as two other emergency vehicles drive by.
 1041_This_is_40_01.03.36.337-01.03.41.273 	now, the sunlight casts a bright glow off of debbie's long, golden blonde hair as she drives.
-1042_Up_In_The_Air_01.32.20.243-01.32.25.440 	ryan gets in and drives away.
-1043_Vantage_Point_00.41.53.335-00.42.00.755 	a squad car drives up in front of enrique, and a policeman approaches him.
 1043_Vantage_Point_01.01.49.093-01.01.52.760 	sam drives the ambulance through the streets at breakneck speed.
-1043_Vantage_Point_01.05.00.594-01.05.08.307 	taylor puts his cell phone into the front seat of the ambulance driven by sam and veronica, and gets into a spanish police car.
-1045_An_education_00.06.41.766-00.06.45.751 	he drives up at walking pace beside jenny.
 1045_An_education_00.26.09.608-00.26.13.462 	the bristol drives off to the auction.
 1045_An_education_00.38.56.044-00.38.59.806 	they drive through the country side in david's bristol.
 1045_An_education_00.58.15.537-00.58.19.590 	they drive off for the evening.
@@ -262,75 +137,33 @@
 1046_Australia_01.43.44.617-01.43.54.623 	a herd of horses thunders past the house, driven by drover.
 1046_Australia_02.34.00.648-02.34.07.000 	drover drives the car in the sunshine, with sarah and nullah asleep next to him.
 1047_Defiance_00.29.32.567-00.29.33.842 	an armored vehicle drives up.
-1047_Defiance_01.39.47.198-01.39.51.355 	beyond some trees, a german truck full of soldiers drives across a metal bridge followed by a car.
-1048_Gran_Torino_00.15.41.205-00.15.48.557 	they drive off and thao keeps walking.
-1048_Gran_Torino_01.23.14.959-01.23.16.534 	he watches grim-faced as the honda drives off.
 1048_Gran_Torino_01.24.10.890-01.24.13.955 	vening, it's raining as walt drives his pickup truck back to his house.
 1048_Gran_Torino_01.43.14.043-01.43.29.682 	they bundle him into their cruiser and drive away.
 1048_Gran_Torino_01.48.49.337-01.48.52.001 	grandma remains on the porch and watches as the taxi drives away.
 1048_Gran_Torino_01.50.57.936-01.51.13.224 	thao drives the gran torino by the ocean with daisy beside him.
 1049_Harry_Potter_and_the_chamber_of_secrets_01.50.40.374-01.50.53.539 	it reverses, changes direction, and drives away past hagrid's cottage disappearing into the trees at the edge of the dark forest.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_00.11.43.135-00.11.44.556 	two london buses drive straight at them.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.54.16.626-00.54.23.472 	around the quidditch pitch, sodden spectators stand in the driving rain, cheering their teams.
 1055_Marley_and_me_00.13.38.906-00.13.42.435 	a police car drives past.
 1055_Marley_and_me_00.43.05.007-00.43.06.848 	they drive on down the sunny freeway toward the city.
 1055_Marley_and_me_00.57.20.863-00.57.26.772 	they drive through a plush neighborhood.
 1055_Marley_and_me_01.03.22.244-01.03.29.686 	he arrives back home at night, driving his old blue honda and parks up behind their new people carrier.
-1055_Marley_and_me_01.22.59.627-01.23.05.000 	marley is leaning out of the window as the grogans drive down a country road.
-1055_Marley_and_me_01.42.40.000-01.42.51.093 	she closes the door and presses her hand to the glass as john drives away down the winding drive through trees adorned with golden brown autumn leaves.
-1056_Rambo_00.02.06.786-00.02.17.816 	a pair of large military-style trucks are driven in tandem along a dirt road.
-1056_Rambo_00.46.20.000-00.46.29.245 	they watch as a military lorry with a covered tail pulls into view and drives along the edge of the paddy field.
-1056_Rambo_00.50.15.679-00.50.16.375 	the mercenaries have commandeered the solders' truck and are being driven along a dirt track towards the camp.
-1056_Rambo_00.51.20.000-00.51.22.063 	in the truck, rambo's eye-line and bandana are reflected in bn's driving mirror.
 1057_Seven_pounds_00.07.12.145-00.07.14.998 	ben stares ahead gravely as he drives.
 1057_Seven_pounds_00.11.40.889-00.11.45.420 	ben drives a corvette sports car.
 1057_Seven_pounds_00.13.44.135-00.13.51.071 	ben drives his saloon along the sunny coast road from the beach house.
 1057_Seven_pounds_00.21.30.617-00.21.36.545 	ben drives his saloon.
-1057_Seven_pounds_00.34.12.748-00.34.26.139 	ben drives his car sedately along the wide and winding coast road, which is bathed in sunshine.
-1057_Seven_pounds_01.15.35.495-01.15.44.462 	duke's head sticks out of ben's car window as they drive along the avenue of palm trees to emily's quaint clapboard house, and pull up outside it.
-1057_Seven_pounds_01.19.06.709-01.19.13.885 	ben gets in his car and drives off.
-1057_Seven_pounds_01.47.05.371-01.47.10.400 	the corvette tim was driving bounces and rolls down a steep embankment.
 1058_The_Damned_united_00.04.11.139-00.04.14.560 	they drive straight past the leeds united stadium.
-1059_The_devil_wears_prada_01.00.53.473-01.01.01.440 	city lights sparkle as andy is driven to the benefit.
-1059_The_devil_wears_prada_01.05.23.000-01.05.26.000 	andy is being driven home through the busy new york streets.
 1059_The_devil_wears_prada_01.35.33.943-01.35.37.898 	the car drives off down the chic parisian street.
-1059_The_devil_wears_prada_01.44.57.872-01.45.07.000 	the mercedes pulls out and drives away down the street, passing andy, who flips her hair and walks on in the opposite direction.
 1060_Yes_man_00.21.11.190-00.21.17.981 	they drive up a dark road into elysian park.
 1060_Yes_man_00.27.02.327-00.27.04.737 	she drives off with a smile.
 1060_Yes_man_01.28.25.958-01.28.30.432 	terrence drives away from a hotel.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.14.28.744-00.14.47.387 	griphook is driving a cart along a twisting rail track, hurtling through dark, underground tunnels.
 1062_Day_the_Earth_stood_still_00.06.39.904-00.06.44.869 	the tutor drives a small silver hatchback.
-1062_Day_the_Earth_stood_still_00.54.42.949-00.54.55.991 	helen is driving towards the highlands, new jersey.
 1062_Day_the_Earth_stood_still_01.03.12.862-01.03.16.000 	the officer drives up to them.
 1062_Day_the_Earth_stood_still_01.23.29.548-01.23.31.513 	a pick up drives down a forest road.
 2004_Juno_00.41.54.595-00.41.56.554 	the previa drives into the front gate of mark and vanessa's exclusive community.
 2012_Unbreakable_01.22.45.826-01.22.47.574 	the man in the orange uniform walks in the driving rain down a residential city block.
-2017_Bad_Santa_00.13.34.954-00.13.41.568 	willie gets in and drives off.
-2017_Bad_Santa_00.28.33.886-00.28.39.791 	the kid sits in the front seat next to willie who drives, stewing.
-2017_Bad_Santa_01.17.33.404-01.17.37.572 	grumbling, he goes back to the 4 x 4 and drives it into position.
 2026_Legion_00.50.27.490-00.50.30.929 	michael drives the last nail into place, securing the window.
-2026_Legion_01.11.10.726-01.11.14.627 	swings it out in front of her body like a shield, as the knife is driven down.
-2027_Les_Miserables_00.01.04.669-00.01.09.477 	the storm is passing now, blown by the driving wind.
-2027_Les_Miserables_01.49.14.372-01.49.16.140 	quickly other students join in and the snipers are driven back.
-2027_Les_Miserables_02.02.08.901-02.02.10.885 	students driving back the pursuing soldiers hack away at the staircase, smashing it to fragments - the soldiers below fire up at them - students fall, their bodies caught on the jagged remnants of the stairs.
-2034_Super_8_00.03.46.412-00.03.52.487 	and jack gets into the car and drives away.
-2034_Super_8_00.03.52.487-00.03.59.639 	joe watches them drive off.
-2034_Super_8_00.11.04.307-00.11.06.379 	the buick crosses the nighttime horizon, leaving the small town, driving through a rural landscape.
-2034_Super_8_00.25.09.164-00.25.11.175 	as alice nervously drives, she shakes her head: no.
 2034_Super_8_00.28.45.205-00.28.47.633 	tilt down from the town's water tower -- joe and charles ride their bikes underneath it, crossing main street -- two large military trucks drive past, we may note the airman in the passenger seat scans the area with a handheld device.
-2034_Super_8_00.33.48.376-00.33.50.912 	a truck drives past camera, taking us to jack and nelec, who walk together amid the debris.
-2034_Super_8_00.41.48.387-00.42.05.856 	he stops, noticing four military trucks driving past, slowly, antennas atop the trucks, and the men inside seemingly scanning the area.
 2034_Super_8_01.08.13.014-01.08.15.764 	wide shot of the neighborhood -- in the distance: military trucks, jeeps and buses drive.
-2034_Super_8_01.12.59.137-01.13.04.502 	the airmen take cover, run to move nearby vehicles, general mayhem -- and our camera booms up -- to the military jeep that drives.
-2034_Super_8_01.13.08.123-01.13.19.699 	jack drives up in the jeep -- comes to a stop in shocked close up -- we see in the distance the mass of vehicles driving from town -- jack's mind races.
-2034_Super_8_01.18.12.639-01.18.23.729 	the boys are put onto the bus -- boom down to donny's car in the foreground, where we realize that we haven't been the only audience to this: donny, sunk deep in his seat, hiding, watches wide-eyed as the bus drives away.
 2034_Super_8_01.20.09.121-01.20.10.794 	the kids panic as the hobbled bus still drives.
-2034_Super_8_01.27.58.109-01.28.00.674 	charles wants the tie around the curtains, still hanging on the wall that now has a hole in it; military vehicles can be seen driving past outside.
-2041_This_is_40_00.10.30.099-00.10.41.904 	the family is driving.
-2041_This_is_40_00.16.17.507-00.16.20.135 	pete and debbie are driving home.
 2041_This_is_40_00.16.55.434-00.17.06.162 	an ambulance drives by, sirens blaring.
-2041_This_is_40_00.58.33.900-00.58.37.500 	pete is driving.
-2041_This_is_40_01.27.15.669-01.27.15.767 	pete is driving sadie and charlotte to school.
-2041_This_is_40_01.33.43.790-01.33.56.696 	they get in separate cars and drive off.
 2041_This_is_40_02.00.11.289-02.00.11.956 	they drive near the scene of pete's accident and overhear.
-2041_This_is_40_02.00.35.146-02.00.42.778 	the car drives away, revealing that it is new and has dealer's plates with no numbers.

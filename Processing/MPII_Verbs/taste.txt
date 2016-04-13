@@ -1,10 +1,3 @@
-0004_Charade_01.25.58.199-01.26.03.162 	he shakes some powder into his hand and tastes it.
-0014_Ist_das_Leben_nicht_schoen_00.11.10.103-00.11.23.098 	he tears open the package, shakes the powder out of one of the capsules, cautiously tastes it, then abruptly throws the whole mess to the table and turns to look at george again.
 0026_The_Big_Fish_00.18.40.125-00.18.42.568 	it tastes horrible.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.06.46.206-00.06.52.612 	dumbledore wipes the blood off harry's forehead with a finger, and tastes it with the tip of his tongue.
-1028_No_Reservations_00.37.10.655-00.37.14.186 	nick dips a spoon into a pan and holds it out for kate to taste.
-1028_No_Reservations_00.54.37.660-00.54.43.138 	she tastes it and nods her approval.
 1028_No_Reservations_01.03.04.149-01.03.08.320 	kate's face brightens as she tastes a spoonful.
-1028_No_Reservations_01.19.00.242-01.19.05.709 	he pretends to spoon more of the sauce, and kate opens her mouth ready to taste it.
 1028_No_Reservations_01.38.58.000-01.39.00.838 	she tastes it with her little finger.
-1033_Sherlock_Holmes_A_Game_of_Shadows_01.49.10.670-01.49.12.900 	he pulls it out and tastes the compound it's injected.

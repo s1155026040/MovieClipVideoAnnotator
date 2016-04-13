@@ -1,4 +1,1 @@
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS432 	00:41:58,00 --> 00:42:03,50 	a threshold shows the three men venturing through a pair of tall glass doors.
-KARATE_KID.srt 	KARATE_KID_DVS962 	01:18:45,00 --> 01:18:51,50 	venturing onward, the boy spies a third monk sitting in the lotus pose.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS283 	00:37:23,00 --> 00:37:34,50 	venturing out, someone leans over a railing and scans his tempestuous surroundings.
 PROMETHEUS.srt 	PROMETHEUS_DVS309 	00:30:25,00 --> 00:30:30,50 	venturing through the opening.

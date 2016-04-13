@@ -1,2 +1,1 @@
-0006_Clerks_00.04.45.458-00.04.47.594 	The banner reads I ASSURE YOU, WE'RE OPEN.
-0014_Ist_das_Leben_nicht_schoen_00.19.15.117-00.19.16.503 	Sam is assured and breezy, wearing very collegiate clothes.
+0014_Ist_das_Leben_nicht_schoen_00.19.15.117-00.19.16.503 	sam is assured and breezy, wearing very collegiate clothes.
