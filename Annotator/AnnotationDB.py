@@ -4,6 +4,7 @@ from sqlalchemy import * #requires MySQLdb package
 class Annotation():
     def __init__(self):
         self.file_name = ''
+        self.dataset = ''
         self.start_frame = -1
         self.end_frame = -1
         self.action = ''
@@ -12,6 +13,9 @@ class Annotation():
         self.status = 0 #0: if skipped
         
 class AnnotationTask():
+    STATUS_FILE_NOT_FOUND = -1
+    STATUS_SKIPPED = 0
+    STATUS_OK = 1    
     def __init__(self):
         self.id = -1
         self.captionid = -1
@@ -63,7 +67,8 @@ class AnnotationDB:
         annotations = Table('annotations', self.metadata)
         insert = annotations.insert()
         conn = self.engine.connect()
-        result = conn.execute(insert, video_file_name=annotation.file_name,
+        result = conn.execute(insert, video_path=annotation.file_name,
+                              dataset = annotation.dataset,
                               start_frame = annotation.start_frame,
                               end_frame = annotation.end_frame,
                               action = annotation.action,
@@ -85,9 +90,10 @@ class AnnotationDB:
     # ANNOTATIONTASK table ======================================================
     def get_annotask_list(self, batch_id):
         annotask = Table('annotationtask', self.metadata)
-        sel_stmt = select([annotask.c.id, annotask.c.captionid, annotask.c.text, annotask.c.video_name, annotask.c.video_path, annotask.c.action, annotask.c.action, \
+        sel_stmt = select([annotask.c.id, annotask.c.captionid, annotask.c.text, annotask.c.video_name, \
+                           annotask.c.video_path, annotask.c.action, annotask.c.action, \
                            annotask.c.movie, annotask.c.dataset, annotask.c.status, annotask.c.batch_id]).\
-                        where(annotask.c.batch_id==batch_id)
+                        where(annotask.c.batch_id == batch_id)
         rp = self.engine.execute(sel_stmt)
         annotask_list = []
         for row in rp:

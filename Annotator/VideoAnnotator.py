@@ -383,24 +383,57 @@ def annotate_from_db(user_id, db, dataset_path):
     taskMgr = TaskManager(user_id, db)
     
     if taskMgr.is_cur_task_complete():
+        print 'Closing batch #%d'%taskMgr.get_cur_batchid()
         taskMgr.terminate_cur_task()
+        print 'Closed'
     
+    print '--------------------------------------------'
+    print 'Annotating batch #%d'%(taskMgr.get_cur_batchid())
+    
+    exit = False
     keep_annotating = True
-    
     while keep_annotating:
         anno_list, last_pos = taskMgr.get_annotation_list()
-        for cur_pos in range(last_pos, len(anno_list)):
+        for cur_pos in range(last_pos+1, len(anno_list)):
             anno_task = anno_list[cur_pos]
             local_video_path = os.path.join(dataset_path, anno_task.video_path)
-            exit, skipped, start_frame, end_frame, ss = display_video_capture(local_video_path, caption=anno_task.text)
-            taskMgr.save_annotation(start_frame, end_frame, action, user_id, caption, skipped)
-            taskMgr.update_annotask_pos(cur_pos)
+
+            if not os.path.isfile(local_video_path):
+                # FILE NOT FOUND
+                print ''
+                print 'Could not complete annotation, video FILE NOT FOUND'
+                print '>', local_video_path
+                if yesno_menu('Would you like to continue? The annotation will be stored as FILE NOT FOUND.'):
+                    #YES answer
+                    print 'Storing annotation to database with FILE NOT FOUND error'
+                    start_frame = -1
+                    end_frame = -1
+                    anno_task.status = AnnotationTask.STATUS_FILE_NOT_FOUND
+                else:
+                    #NO answer
+                    exit_program() #Terminates program
+            else:
+                # Display GUI for annotating
+                print 'Annotating: %s'%os.path.basename(anno_task.video_path)
+                exit, skipped, start_frame, end_frame, ss = display_video_capture(local_video_path, caption=anno_task.text)
+                if skipped:
+                    anno_task.status = AnnotationTask.STATUS_SKIPPED
+                else:
+                    anno_task.status = AnnotationTask.STATUS_OK
+                    
             if exit:
-                keep_annotating = False
-                break
-        if keep_annotating:
-            taskMgr.terminate_cur_task()
+                exit_program() #Terminates program    
+
+            taskMgr.save_annotation(anno_task.video_path, anno_task.dataset, start_frame, end_frame, anno_task.action, user_id, anno_task.text, anno_task.status)
+            taskMgr.update_annotask_pos(cur_pos)
+            
+        # END FOR - cycle on list of tasks
         
+        if taskMgr.is_cur_task_complete():
+            print 'Closing batch #%d'%taskMgr.get_cur_batchid()
+            print 'Closing current batch and opening a new one.'
+            taskMgr.terminate_cur_task()
+            print 'Closed'
         keep_annotating = yesno_menu('Would you like to keep on annotating?')
             
     
@@ -492,9 +525,11 @@ def yesno_menu(text):
     positive_answers = ['y','yes','yup','aha']
     negative_answers = ['n','no','nope','nein']
     while sel_input not in positive_answers  and sel_input not in negative_answers:
-        print text + '(yes/no)'
-        sel_input = input()
+        print text + ' (yes/no)'
+        sel_input = str(raw_input())
         sel_input = sel_input.lower()
+    
+    return sel_input in positive_answers
 
 def select_menu(title, options):
     sel_idx = -1
@@ -504,7 +539,7 @@ def select_menu(title, options):
         for idx, option_txt in enumerate(options):
             print '%d. %s'%(idx+1, option_txt)
         try:
-            sel_idx = int(input())
+            sel_idx = int(raw_input())
         except:
             print 'Please select a valid option'
             sel_idx = -1

@@ -16,10 +16,16 @@ class TaskManager:
         return last_task_pos >= (cur_tasklist_size-1)
     
     def set_cur_task_as_complete(self):
+        '''Updates the batch table '''
         batch_id = self.db.get_userstask_batchid(self.uid)
         self.db.increase_batch(batch_id, self.uid)
     
+    def get_cur_batchid(self):
+        batch_id = int(self.db.get_cur_batchid(self.uid))
+        return batch_id
+    
     def get_next_batchid(self):
+        '''This function determines which is the next batch id to be processing increasingly'''
         #Get the values
         batch_list = self.db.get_userstask_batchid_list()
         max_batch_id = max(batch_list)        
@@ -80,6 +86,19 @@ class TaskManager:
             
         return annotask_list, last_pos
     
+    def save_annotation(self, file_name, dataset, start, end, action, user_id, caption, status):
+        new_annotation = Annotation()
+        new_annotation.file_name   = file_name
+        new_annotation.dataset     = dataset
+        new_annotation.start_frame = start
+        new_annotation.end_frame   = end
+        new_annotation.action      = action
+        new_annotation.user_id     = user_id
+        new_annotation.caption     = caption
+        new_annotation.status      = status
+
+        self.db.insert_annotation(new_annotation)        
+    
     # Util functions
     def lint_to_str(self, lint):
         ''' Converts a list of ints to string separated by space '''
@@ -116,7 +135,4 @@ def test():
     #print annotation_list[0].text
     #taskMgr.update_annotask_pos(last_pos+10)
     #print taskMgr.get_last_pos()
-    
-
-test()
     
