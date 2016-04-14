@@ -23,9 +23,9 @@ import ConfigParser
 import tkFileDialog
 import unicodedata
 import VideoToGif as v2g
-import TaskManager as tskm
 from Tkinter import Tk
 from AnnotationDB import *
+from TaskManager import *
 from os.path import basename, join, splitext
 from nltk.tokenize import sent_tokenize, word_tokenize
 from collections import deque
@@ -379,6 +379,31 @@ def annotate_movie_times(base_path, video_list_path, cc_dict_path, annotations_p
                 
             pickle.dump(annotated_index,open('annotatedIdx.p','wb'))
 
+def annotate_from_db(user_id, db, dataset_path):
+    taskMgr = TaskManager(user_id, db)
+    
+    if taskMgr.is_cur_task_complete():
+        taskMgr.terminate_cur_task()
+    
+    keep_annotating = True
+    
+    while keep_annotating:
+        anno_list, last_pos = taskMgr.get_annotation_list()
+        for cur_pos in range(last_pos, len(anno_list)):
+            anno_task = anno_list[cur_pos]
+            local_video_path = os.path.join(dataset_path, anno_task.video_path)
+            exit, skipped, start_frame, end_frame, ss = display_video_capture(local_video_path, caption=anno_task.text)
+            taskMgr.save_annotation(start_frame, end_frame, action, user_id, caption, skipped)
+            taskMgr.update_annotask_pos(cur_pos)
+            if exit:
+                keep_annotating = False
+                break
+        if keep_annotating:
+            taskMgr.terminate_cur_task()
+        
+        keep_annotating = yesno_menu('Would you like to keep on annotating?')
+            
+    
 def build_init_file(filename):
     config = ConfigParser.ConfigParser()
     config.add_section('Dataset')
@@ -421,7 +446,11 @@ def start_export_mode():
 
 def start_annotation_mode():    
     cfg = load_init_file()
-    #TODO: select user from the DB
+
+    # Load dataset path
+    dataset_path = cfg.get('Dataset', 'base_path');
+    
+    # Load database info and init db connector
     anno_db = AnnotationDB()
     if anno_db.init(cfg.get('Database', 'db_ip'), 
                  cfg.get('Database', 'db_username'), 
@@ -439,20 +468,33 @@ def start_annotation_mode():
     
     print ''
     
+    # Select the user
     sel_idx, sel_user_name = select_menu('Select user for annotating session:', [name for uid,name in users])
     sel_user_id = users[sel_idx][0]
     
-    annotate_movie_times(cfg.get('Dataset', 'base_path'), 
+    # Start annotation process
+    annotate_from_db(sel_user_id, anno_db, dataset_path)
+    
+    '''annotate_movie_times(cfg.get('Dataset', 'base_path'), 
                          cfg.get('Annotation', 'video_list_path'), 
                          cfg.get('Annotation', 'cc_dict_path'), 
                          cfg.get('Annotation', 'annotation_path'), 
                          cfg.get('Annotation', 'action_dict_path'),
                          sel_user_id,
-                         anno_db)
+                         anno_db)'''
 
 def exit_program():
     print 'Quitting session.'
     sys.exit(0)
+    
+def yesno_menu(text):
+    sel_input = ''
+    positive_answers = ['y','yes','yup','aha']
+    negative_answers = ['n','no','nope','nein']
+    while sel_input not in positive_answers  and sel_input not in negative_answers:
+        print text + '(yes/no)'
+        sel_input = input()
+        sel_input = sel_input.lower()
 
 def select_menu(title, options):
     sel_idx = -1
