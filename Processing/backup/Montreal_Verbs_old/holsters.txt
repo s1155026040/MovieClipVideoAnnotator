@@ -1,0 +1,5 @@
+A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS401 	00:37:00,00 --> 00:37:04,50 	someone checks the gun's chamber and clip, then holsters it in his waistband.
+COLOMBIANA.srt 	COLOMBIANA_DVS323 	00:28:27,00 --> 00:28:31,50 	someone holsters his gun.
+PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS373 	01:10:38,00 --> 01:10:42,50 	someone holsters his gun.
+PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS677 	02:07:06,00 --> 02:07:17,50 	he holsters his gun and someone joins his side.
+TRUE_GRIT.srt 	TRUE_GRIT_DVS341 	01:11:11,00 --> 01:11:16,50 	someone holsters his gun and someone hurls another piece.

@@ -1,4 +1,9 @@
-0004_Charade_00.09.49.010-00.09.51.806 	Satisfied, he recovers the foot, then moves to the other end to uncover the head.
-0021_Rear_Window_00.19.05.211-00.19.07.417 	Puts the glasses on the table, uncovers the wine, and begins screwing in the corkscrew.
-0030_The_Hustler_01.50.22.566-01.50.25.524 	Eddie finishes uncovering the table.
-0050_Indiana_Jones_and_the_last_crusade_00.23.04.725-00.23.13.554 	Indy uncovers a small book.
+0004_Charade_00.09.49.010-00.09.51.806 	satisfied, he recovers the foot, then moves to the other end to uncover the head.
+0021_Rear_Window_00.19.05.211-00.19.07.417 	puts the glasses on the table, uncovers the wine, and begins screwing in the corkscrew.
+0030_The_Hustler_01.50.22.566-01.50.25.524 	eddie finishes uncovering the table.
+1010_TITANIC_00.08.08.940-00.08.10.938 	snoop dog moves the door aside and uncovers a square object.
+1026_Legion_00.30.31.885-00.30.33.856 	the gruesome face of old gladys is uncovered from under a plastic sheet.
+1037_The_Curious_Case_Of_Benjamin_Button_00.09.31.214-00.09.37.310 	he pushes her aside and leans into the cot to uncover the infant.
+1041_This_is_40_00.03.09.067-00.03.14.901 	putting the cigarette out, she uncovers her hair, removes the glove and pops gum in her mouth.
+1049_Harry_Potter_and_the_chamber_of_secrets_00.36.19.150-00.36.23.939 	he uncovers a cage full of tiny blue creatures.
+1049_Harry_Potter_and_the_chamber_of_secrets_01.59.17.700-01.59.20.195 	it uncovers a deep shaft.

@@ -1,0 +1,9 @@
+BLINDDATING.srt 	BLINDDATING_DVS178 	00:46:34,00 --> 00:46:41,50 	now at the ballpark, someone pitches a softball.
+BURLESQUE.srt 	BURLESQUE_DVS130 	00:17:44,00 --> 00:17:51,50 	she passes her stole to someone, who pitches it and competitively joins someone.
+CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS990 	01:37:01,00 --> 01:37:07,50 	someone's friends pitch their boards into the water and dive in.
+CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS1020 	01:39:06,00 --> 01:39:13,50 	the blue boat groans up a wave at a 30-degree angle, pitching port side.
+INSIDE_MAN.srt 	INSIDE_MAN_DVS98 	00:25:30,00 --> 00:25:49,50 	now, the sun crests a buildings steeply pitched roof.
+PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS464 	01:28:53,00 --> 01:29:03,50 	someone pitches his hat, sights the men, and fires.
+THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS376 	00:56:00,00 --> 00:56:06,50 	kicking his legs he drops onto the back of the plane as it pitches forward.
+XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS837 	01:16:50,00 --> 01:16:54,50 	he pitches off the window.
+ZOMBIELAND.srt 	ZOMBIELAND_DVS388 	00:44:12,00 --> 00:44:21,50 	someone pitches a stuffed animal at him and he bats it away then smashes the glass over an educational arizona display.

@@ -1,4 +1,2 @@
-IRON_MAN_2.srt 	IRON_MAN_2_DVS521 	01:34:18,00 --> 01:34:26,50 	all the drones are equipped with different weapons.
 PROMETHEUS.srt 	PROMETHEUS_DVS703 	01:14:38,00 --> 01:14:46,50 	its ornate translucent lid ends at the head with an egg-shaped hatch equipped with a handle.
 PROMETHEUS.srt 	PROMETHEUS_DVS767 	01:22:59,00 --> 01:23:06,50 	a robotic arm equipped for surgical tools sprays anesthetics across her stomach below her belly button.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS88 	00:06:21,00 --> 00:06:29,50 	a glass wall beside them reveals a medical lab equipped with gruesome-looking tool

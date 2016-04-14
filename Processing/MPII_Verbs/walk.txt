@@ -1,26 +1,16 @@
 0001_American_Beauty_00.13.44.002-00.13.49.804 	she walks out calmly, leaving us alone in the dark, empty room.
 0001_American_Beauty_00.21.22.252-00.21.32.656 	we zoom toward jane as she walks up the driveway.
-0001_American_Beauty_00.21.45.780-00.21.47.692 	his pov, on video: jane, angry and self-conscious, turns and walks quickly toward her house, flipping us off as she goes.
 0001_American_Beauty_00.28.43.025-00.28.45.621 	ricky smiles and walks off.
-0001_American_Beauty_00.42.36.954-00.42.42.905 	after a moment, he gets up, taking care not to disturb carolyn, and walks toward the bathroom.
-0001_American_Beauty_01.17.38.655-01.17.44.730 	carolyn stares at him, on the verge of tears, then turns and walks out of the room before he can see her cry.
 0001_American_Beauty_01.32.59.410-01.33.06.884 	angela walks over to lester.
-0001_American_Beauty_01.35.10.831-01.35.16.219 	ricky grabs his backpack, turns and walks out the door, leaving the colonel standing there, glassy-eyed and breathing heavily.
 0001_American_Beauty_01.53.57.430-01.54.00.479 	carolyn walks slowly toward the red door, drenched to the bone, clutching her purse tightly.
-0002_As_Good_As_It_Gets_00.02.09.981-00.02.11.787 	melvin starts to walk back to his apartment door which is directly opposite simon's.
-0002_As_Good_As_It_Gets_00.06.39.104-00.06.41.355 	melvin walks back into the apartment and is about to close the door when simon has another burst of bravery.
-0002_As_Good_As_It_Gets_00.11.16.905-00.11.20.049 	they turn away -- melvin walks a few paces to the waitress station where two waitresses, lisa and carol, are talking.
 0002_As_Good_As_It_Gets_00.12.10.957-00.12.15.703 	melvin walks back into the restaurant proper.
 0002_As_Good_As_It_Gets_00.14.30.667-00.14.31.916 	she walks away.
 0002_As_Good_As_It_Gets_00.47.05.008-00.47.09.676 	she closes the door in his face, then walks to her son and leads him back to his room.
-0002_As_Good_As_It_Gets_00.49.34.868-00.49.37.946 	verdell walks out on the terrace and looks off.
 0002_As_Good_As_It_Gets_00.56.13.544-00.56.14.389 	simon practices walking using his cane.
 0002_As_Good_As_It_Gets_01.02.44.390-01.02.49.086 	she walks to the kitchen.
-0002_As_Good_As_It_Gets_01.14.16.635-01.14.23.772 	she takes it and walks back to the service area where, embarrassed, confused, and messed with -- she tosses the note.
 0002_As_Good_As_It_Gets_01.31.44.346-01.31.45.319 	carol walks to simon and puts an arm on him.
 0002_As_Good_As_It_Gets_01.52.47.529-01.52.49.013 	carol walks up to simon in the car.
 0002_As_Good_As_It_Gets_01.55.12.551-01.55.15.116 	she shakes her head and walks off.
-0002_As_Good_As_It_Gets_02.05.12.948-02.05.18.010 	she walks to her wide open window and looks over.
 0002_As_Good_As_It_Gets_02.08.58.298-02.09.02.545 	they walk quietly.
 0002_As_Good_As_It_Gets_02.09.02.545-02.09.06.577 	 melvin still walking with his usual attention to where he steps.
 0002_As_Good_As_It_Gets_02.13.09.958-02.13.12.747 	and the almost in unison begin to walk away from camera, melvin following a path that avoids cracks.
@@ -38,41 +28,31 @@
 0003_CASABLANCA_00.21.07.020-00.21.12.695 	renault walks over to strasser's table as rick comes down the stairs.
 0003_CASABLANCA_00.25.13.825-00.25.15.537 	rick walks away toward the gambling room.
 0003_CASABLANCA_00.26.10.786-00.26.13.097 	berger walks up to their table.
-0003_CASABLANCA_00.29.55.465-00.29.57.979 	laszlo walks up and casually takes a place at the bar next to berger.
 0003_CASABLANCA_00.39.39.587-00.39.45.071 	she walks over and joins him.
 0003_CASABLANCA_00.42.35.208-00.42.41.876 	he walks over to ilsa and sam at the piano.
-0003_CASABLANCA_00.56.17.145-00.56.22.468 	rick looks out of the window and sees ilsa at the linen bazaar, then laszlo walking toward the cafe.
 0003_CASABLANCA_00.56.48.413-00.56.50.035 	rick walks up behind ilsa.
 0003_CASABLANCA_00.58.29.536-00.58.33.091 	she walks away into the cafe as rick stares after her in stunned disbelief.
 0003_CASABLANCA_00.59.16.538-00.59.18.900 	ferrari gets to his feet and walks away.
 0003_CASABLANCA_01.09.18.659-01.09.21.511 	meanwhile, rick has walked over to the croupier.
 0003_CASABLANCA_01.10.44.930-01.10.47.921 	he smiles and walks away.
 0003_CASABLANCA_01.15.35.266-01.15.40.753 	ilsa and laszlo walk to their room.
-0003_CASABLANCA_01.15.45.168-01.15.52.158 	while ilsa takes off some jewelry he walks to the window and peers out into the darkness.
 0003_CASABLANCA_01.18.26.327-01.18.32.065 	she sees victor walking down the street and closes the blind again.
 0003_CASABLANCA_01.20.26.558-01.20.33.125 	he walks over to the window and ilsa follows.
-0003_CASABLANCA_01.22.27.870-01.22.29.574 	she turns and walks away from him.
 0003_CASABLANCA_01.26.15.435-01.26.19.976 	rick walks out to the balcony railing.
 0003_CASABLANCA_01.28.36.474-01.28.39.351 	a french officer walks in and addresses laszlo.
 0003_CASABLANCA_01.28.51.059-01.28.51.284 	together they walk toward the door.
-0003_CASABLANCA_01.32.02.825-01.32.04.310 	he walks to the door, then stops and turns around.
 0003_CASABLANCA_01.33.09.605-01.33.11.658 	renault walks up the stairs to rick's office.
 0003_CASABLANCA_01.33.12.142-01.33.13.817 	ilsa quickly walks toward the entrance.
 0003_CASABLANCA_01.33.44.138-01.33.47.121 	they all walk towards the bar.
-0003_CASABLANCA_01.33.57.045-01.33.59.474 	all three hear footsteps and turn to see renault walking towards them from the bottom of the stairs.
 0003_CASABLANCA_01.34.30.366-01.34.34.648 	he walks to a table and sits.
-0003_CASABLANCA_01.36.10.377-01.36.13.898 	rick takes the letters of transit out of his pocket and hands them to renault, who turns and walks toward the hangar.
 0003_CASABLANCA_01.37.53.904-01.37.56.055 	he walks back out to laszlo.
 0003_CASABLANCA_01.39.13.916-01.39.27.807 	rick watches as ilsa and laszlo walk very deliberately towards the plane.
 0003_CASABLANCA_01.41.25.769-01.41.27.868 	he walks over and stands beside rick.
 0003_CASABLANCA_01.41.45.606-01.42.02.737 	rick and louis slowly walk away from the hangar toward the runway.
 0003_CASABLANCA_01.42.02.737-01.42.20.076 	the two walk off together into the night.
 0004_Charade_00.16.58.372-00.16.58.988 	then he walks down one of the side aisles of the chapel.
-0004_Charade_00.17.18.647-00.17.20.473 	he turns and walks back up the aisle, looking for a place to sit.
-0004_Charade_00.49.41.934-00.49.49.653 	realizing she has to do something before dyle spots her, she turns and takes the tourist's arm and starts walking with him back toward the cafe.
 0004_Charade_00.57.08.714-00.57.14.660 	having seen the claw, he rises and walks to the very edge of the level part of the roof.
 0004_Charade_01.10.01.232-01.10.08.722 	reggie and dyle walking along the quai, next to the seine.
-0004_Charade_01.18.16.932-01.18.24.955 	they walk back to the table, where a waiter is busy putting food on it, mostly on reggie's side.
 0004_Charade_01.42.19.937-01.42.22.175 	as adam walks away from camera, down the platform.
 0004_Charade_01.46.28.398-01.46.29.551 	as carson walks up the aisle checking between the rows of seats.
 0005_Chinatown_00.03.22.251-00.03.27.295 	he's now walking him past sophie who pointedly averts her gaze.
@@ -82,14 +62,9 @@
 0005_Chinatown_00.20.08.068-00.20.12.522 	she's walked past him toward the door.
 0005_Chinatown_00.20.18.976-00.20.20.574 	evelyn walks out the door.
 0005_Chinatown_00.31.49.488-00.31.51.794 	they walk a couple of steps.
-0005_Chinatown_00.36.41.856-00.36.49.399 	they begin to walk slowly, again have to move out of the way as some other corpse is being wheeled out of one of the coroner cubicles.
 0005_Chinatown_01.18.58.032-01.19.00.637 	mulvihill has walked up beside gittes.
-0005_Chinatown_01.35.45.606-01.35.48.060 	he walks over to the window where morning light is streaming in.
 0005_Chinatown_02.00.33.923-02.00.39.765 	he walks toward gittes who stands by the pond, smoking.
-0006_Clerks_00.03.51.339-00.03.53.133 	he turns to walk away, but the sound of the quarter dropping into the change slot stops him.
-0006_Clerks_00.18.14.157-00.18.17.010 	two men who were walking in the opposite direction outside double back and head in the direction.
 0006_Clerks_00.20.11.625-00.20.12.976 	randal walks away.
-0006_Clerks_00.21.39.789-00.21.43.495 	he walks by a row of snacks and grabs one without looking at it.
 0006_Clerks_00.27.54.102-00.28.08.115 	randal locks the door and walks away, while olaf sings for the small crowd.
 0006_Clerks_00.39.40.148-00.39.41.651 	randal walks past the two, and pats veronica on the head.
 0006_Clerks_00.42.12.282-00.42.14.073 	randal walks away.
@@ -102,24 +77,17 @@
 0007_DIE_NACHT_DES_JAEGERS_00.13.12.179-00.13.15.070 	he walks off fast as we dolly behind them; he leads pearl, who hugs her doll.
 0007_DIE_NACHT_DES_JAEGERS_00.21.24.364-00.21.25.435 	they walk; singers in background.
 0007_DIE_NACHT_DES_JAEGERS_00.24.22.418-00.24.28.127 	she walks away towards icey and the women.
-0007_DIE_NACHT_DES_JAEGERS_00.24.35.956-00.24.37.751 	she is now running fast towards icey, who walks towards her with arms outstretched.
 0007_DIE_NACHT_DES_JAEGERS_00.26.10.285-00.26.15.056 	silent pause, listening; then he walks cautiously towards us.
 0007_DIE_NACHT_DES_JAEGERS_00.30.00.398-00.30.10.564 	willa walks to meet her image in the mirror; her eyes on.
 0007_DIE_NACHT_DES_JAEGERS_00.45.06.188-00.45.12.791 	as he leaves the tree and walks along the side of the house; we tilt downward and close in, to follow only his feet; he steps past a tiny cellar window and we pan and tighten in close on it, into.
-0007_DIE_NACHT_DES_JAEGERS_00.58.54.953-00.59.02.575 	it is preacher; he walks the horse away from us.
-0007_DIE_NACHT_DES_JAEGERS_00.59.29.830-00.59.32.895 	they turn away and walk towards boat.
 0007_DIE_NACHT_DES_JAEGERS_01.09.04.875-01.09.05.283 	she keeps walking.
 0007_DIE_NACHT_DES_JAEGERS_01.09.05.435-01.09.06.476 	they walk in silence.
 0007_DIE_NACHT_DES_JAEGERS_01.13.56.339-01.14.00.377 	her head and shoulders from behind as she walks down the neon-lighted street; drugstore and loafers in b.g.
 0007_DIE_NACHT_DES_JAEGERS_01.17.20.717-01.17.32.549 	he tethers his horse and, as we pan and track on behind him, walks to the bottom of the steps; ruby moves into side of shot: beyond preacher, rachel stands behind her screen door, hands folded under apron.
-0007_DIE_NACHT_DES_JAEGERS_01.22.38.494-01.22.40.788 	she turns round and walks back to her chair; children's eyes always on her.
 0007_DIE_NACHT_DES_JAEGERS_01.27.06.074-01.27.07.088 	mary and clary come out first and start walking to our left.
 0007_DIE_NACHT_DES_JAEGERS_01.28.36.607-01.28.36.867 	the car jumps fast out of shot and we pan past bart and center rachel and group, walking fast away from us.
 0008_Fargo_00.27.24.675-00.27.31.586 	the trooper walks up the shoulder, one hand resting lightly on top of his holster, his breath steaming in the cold night air.
 0008_Fargo_00.32.27.107-00.32.35.781 	grimsrud walks up to the wreck and peers in its half-open door.
-0008_Fargo_00.36.13.098-00.36.18.223 	marge looks around as they start walking.
-0008_Fargo_01.25.44.206-01.25.48.320 	we are pulling carl as he walks toward the car.
-0009_Forrest_Gump_00.09.35.266-00.09.40.824 	the principal, embarrassed, turns and walks away.
 0009_Forrest_Gump_00.10.15.052-00.10.18.185 	a cab driver closes the trunk of the car as two women walk toward the house.
 0009_Forrest_Gump_00.10.49.085-00.10.53.281 	she hears singing coming from another room and walks over to a closed door.
 0009_Forrest_Gump_00.11.59.586-00.12.01.357 	mrs. gump walks away, pulling forrest with her.
@@ -130,11 +98,8 @@
 0009_Forrest_Gump_00.34.39.409-00.34.42.434 	the drill sergeant walks away as forrest begins to disassemble his rifle.
 0009_Forrest_Gump_00.37.41.451-00.37.51.469 	forrest walks up to man #5 and grabs him and tosses him down on the ground.
 0009_Forrest_Gump_00.39.40.324-00.39.42.684 	jenny walks up to forrest.
-0009_Forrest_Gump_00.41.08.109-00.41.24.443 	bubba and forrest jump out of the helicopter with their gear/ they walk and look around oddly.
-0009_Forrest_Gump_00.41.26.690-00.41.28.055 	he takes two beers out and walks away.
 0009_Forrest_Gump_00.42.42.374-00.42.43.209 	lt. dan starts to walk.
 0009_Forrest_Gump_00.43.42.638-00.43.53.725 	lt. dan walks along the walkway and bubba and forrest follow.
-0009_Forrest_Gump_00.44.27.761-00.44.34.042 	some vietnamese rice farmers are working as the soldiers walk past.
 0009_Forrest_Gump_00.44.34.542-00.44.46.181 	forrest's unit walks along a dirt road.
 0009_Forrest_Gump_00.46.06.785-00.46.20.079 	forrest stands up and begins to walk with the platoon.
 0009_Forrest_Gump_00.46.26.385-00.46.32.970 	lt. dan walks away as forrest rushes over, aims two pistols in the hole, then climbs inside.
@@ -143,7 +108,6 @@
 0009_Forrest_Gump_00.46.54.111-00.46.56.399 	another day - the platoon shelters themselves as they walk through the wind and rain.
 0009_Forrest_Gump_00.46.57.351-00.46.57.649 	another day - forrest and other soldiers walk chest-deep through a river.
 0009_Forrest_Gump_01.02.10.596-01.02.13.526 	an officer walks up to him.
-0009_Forrest_Gump_01.07.46.448-01.07.55.365 	forrest and jenny walk past the protesters who are camping out on the lawn.
 0009_Forrest_Gump_01.09.52.345-01.09.52.909 	forrest turns and walks out the room.
 0009_Forrest_Gump_01.09.56.702-01.10.01.684 	forrest and jenny walk past the white house.
 0009_Forrest_Gump_01.10.08.903-01.10.17.667 	they walk in silence.
@@ -155,22 +119,16 @@
 0009_Forrest_Gump_01.25.51.040-01.25.56.258 	mrs. gump walks out of the house and smiles.
 0009_Forrest_Gump_01.25.58.303-01.26.06.497 	forrest walks up to the house, wearing his uniform.
 0009_Forrest_Gump_01.26.49.749-01.26.54.117 	forrest walks up to a shack on the edge of the bayou.
-0009_Forrest_Gump_01.28.56.986-01.29.00.982 	the old shrimper begins to walk away, then stops and looks at forrest.
 0009_Forrest_Gump_01.37.02.733-01.37.12.391 	the man laughs as he walks away.
-0009_Forrest_Gump_01.43.37.532-01.43.52.609 	he turns and walks into the house.
 0009_Forrest_Gump_01.49.36.614-01.49.41.203 	jenny turns and walks up the stairs.
 0009_Forrest_Gump_01.50.53.122-01.50.59.793 	jenny carries her purse and walks toward a waiting cab.
 0009_Forrest_Gump_01.52.25.442-01.52.28.924 	he walks off the porch.
 0009_Forrest_Gump_01.58.35.796-01.58.54.396 	the group parts for forrest as he walks down the middle of the road.
 0009_Forrest_Gump_02.04.54.695-02.05.02.315 	jenny walks out of the house.
 0009_Forrest_Gump_02.05.14.787-02.05.24.224 	she walks up to forrest and adjusts his necktie.
-0009_Forrest_Gump_02.05.28.628-02.05.32.155 	lt. dan is walking across the lawn.
-0009_Forrest_Gump_02.05.40.683-02.05.42.671 	a woman is walking next to him.
 0009_Forrest_Gump_02.07.11.925-02.07.13.653 	they all hold hands as they walk.
 0009_Forrest_Gump_02.12.33.150-02.12.53.837 	as forrest walks away, a flock of birds flies overhead and lands in the tree.
-0010_Frau_Ohne_Gewissen_00.02.34.038-00.02.35.518 	neff is walking towards elevator.
 0010_Frau_Ohne_Gewissen_00.03.30.245-00.03.35.159 	moves away from the railing with a faint smile on his face, and walks past two or three offices (camera with him) towards a glass door with number twenty-seven on it and three names: henry b.anderson, walter neff, louis l.schwartz.
-0010_Frau_Ohne_Gewissen_00.09.11.424-00.09.14.288 	neff walks away from the piano and takes a few steps back and forth across the rug.
 0010_Frau_Ohne_Gewissen_00.10.39.112-00.10.42.351 	phyllis rises and walks up and down, paying less and less attention.
 0010_Frau_Ohne_Gewissen_00.12.32.710-00.12.34.658 	he walks out.
 0010_Frau_Ohne_Gewissen_00.16.07.216-00.16.12.510 	he walks out, still grinning.
@@ -178,7 +136,6 @@
 0010_Frau_Ohne_Gewissen_00.17.00.451-00.17.01.737 	phyllis has reached the entrance hall, and as she walks toward the front door her whole body becomes visible.
 0010_Frau_Ohne_Gewissen_00.22.08.337-00.22.18.595 	neff bangs the front door shut, walks quickly to his car and drives away.
 0010_Frau_Ohne_Gewissen_00.39.16.459-00.39.17.603 	lola catches up with zachetti and they walk away together.
-0010_Frau_Ohne_Gewissen_00.44.41.984-00.44.44.511 	his eye catches keyes', who is walking up and down.
 0010_Frau_Ohne_Gewissen_00.52.04.828-00.52.05.478 	she walks around the car and rolls up the right front window.
 0010_Frau_Ohne_Gewissen_00.52.17.305-00.52.26.396 	then she and the man walk slowly away from the car to the end of the station platform and along it toward the station building, phyllis walks several steps ahead of the man.
 0010_Frau_Ohne_Gewissen_00.53.52.977-00.53.54.804 	phyllis turns and walks out of the shot in the direction of the parked car.
@@ -189,30 +146,17 @@
 0010_Frau_Ohne_Gewissen_01.00.03.284-01.00.06.701 	he walks on, camera ahead of him again.
 0010_Frau_Ohne_Gewissen_01.00.45.444-01.00.48.714 	he walks towards his office, but half way there he runs into keyes.
 0010_Frau_Ohne_Gewissen_01.02.38.155-01.02.43.217 	he walks up and down behind his desk thinking hard.
-0010_Frau_Ohne_Gewissen_01.06.37.704-01.06.40.653 	she turns and walks out.
-0010_Frau_Ohne_Gewissen_01.18.02.427-01.18.10.417 	neff, with his hat on and no briefcase, is walking toward keyes' office.
 0010_Frau_Ohne_Gewissen_01.29.39.809-01.29.39.968 	camera precedes him as he walks toward the entrance doors.
-0010_Frau_Ohne_Gewissen_01.32.48.856-01.32.50.330 	he walks slowly back towards the reception room entrance, then stands there looking out through the glass doors.
-0010_Frau_Ohne_Gewissen_01.32.55.568-01.32.59.474 	he turns quickly and walks on to his own office and enters.
 0010_Frau_Ohne_Gewissen_01.35.16.853-01.35.24.414 	neff comes through the arch and walks slowly towards her.
 0011_Gandhi_00.05.17.538-00.05.27.882 	mountbatten, tall, handsome, bemedalled, walks at the head of dignitaries from many lands.
-0011_Gandhi_00.08.00.845-00.08.02.592 	he turns and walks out of the compartment.
-0011_Gandhi_00.23.09.950-00.23.11.643 	she turns back and walks into the building by the rear entrance.
-0011_Gandhi_00.37.46.715-00.37.50.208 	the tall civil servant, moving with aloof distaste for his assignment, walks ahead of gandhi, who in turn is followed by one of the prison guards, toward a grand staircase that is at right angles to them (i.e.
-0011_Gandhi_00.46.50.110-00.46.52.267 	gokhale has started to walk with him, looking at him intently, penetratingly.
-0011_Gandhi_00.47.27.266-00.47.29.798 	gandhi walks along slowly, taking the pace of the ailing gokhale.
 0011_Gandhi_00.59.45.993-00.59.47.443 	nehru has half risen in his seat to address charlie andrews, who, walking from one somnolent building to another, has stopped dead at the sight of the car.
 0011_Gandhi_01.18.57.732-01.19.01.069 	as he speaks, he rises and walks to the servant.
 0011_Gandhi_01.26.08.283-01.26.13.380 	he walks through the gate and stands quietly in the at-ease position, hands clasping his swagger stick behind his back.
 0011_Gandhi_01.49.35.951-01.49.41.614 	she removes her sandals and walks across the room.
-0011_Gandhi_01.54.09.015-01.54.10.854 	gandhi is walking, holding ba's shoulder for support with one hand, and mirabehn's with the other.
 0011_Gandhi_01.58.33.735-01.58.33.880 	the court rises and he walks stiffly to his chambers.
 0011_Gandhi_01.59.15.048-01.59.17.098 	we see from walker's point of view an indian woman walking along the road, leading a tall camel that carries sacks of produce.
-0011_Gandhi_02.08.49.421-02.08.51.095 	he looks at walker, walking along a few paces behind him, at the side of the procession.
-0011_Gandhi_02.26.55.061-02.27.00.311 	gandhi walks along, bourke-white loping along beside him, a little distance away, listening, but searching too for an angle, a moment that is right.
 0011_Gandhi_02.27.19.232-02.27.22.262 	we feature him, low, from her point of view, as he walks on, the soldier pacing on the wall in the background.
 0012_Get_Shorty_00.10.37.737-00.10.45.358 	ray throws the book at chili and walks out, his man right behind him.
-0012_Get_Shorty_00.21.42.777-00.21.43.281 	she just looks at him, turns and walks out.
 0012_Get_Shorty_00.33.45.820-00.33.46.247 	obviously losing it now, rubs his eyes and quickly walks off to a row of payphones.
 0012_Get_Shorty_00.46.15.782-00.46.16.886 	he starts walking again.
 0012_Get_Shorty_00.57.42.065-00.57.56.065 	karen, martin, and chili walk out to the driveway.
@@ -220,7 +164,6 @@
 0012_Get_Shorty_01.10.15.054-01.10.23.679 	as ray bones then walks off, we see coming out a different gate.
 0012_Get_Shorty_01.12.25.582-01.12.27.202 	he straightens up as chili exits the stairwell and walks up to him.
 0012_Get_Shorty_01.22.07.653-01.22.11.525 	doris smiles as two uniformed cops walk past.
-0012_Get_Shorty_01.22.34.179-01.22.46.053 	they all look over as a resident walks over trailed by several .
 0012_Get_Shorty_01.25.48.569-01.25.56.137 	the hubub on the patio quiets as the three of them then walk up to the maitre d'.
 0013_Halloween_00.12.01.460-00.12.06.759 	camera moves with laurie as she walks down the residential street.
 0013_Halloween_00.13.01.989-00.13.11.124 	he catches up with her and they walk along down the street.
@@ -238,11 +181,9 @@
 0013_Halloween_00.33.14.168-00.33.16.079 	brackett smiles as loomis walks up behind him.
 0013_Halloween_00.35.13.083-00.35.23.311 	through the windshield we see laurie get out of annie's car, say goodbye and walk up to the doyle house.
 0013_Halloween_00.35.54.527-00.35.55.262 	camera tracks behind him as he walks toward the wallace house.
-0013_Halloween_00.36.51.522-00.36.55.531 	looking down the side of the house we see loomis and brackett walk up to the front porch.
 0013_Halloween_00.38.18.927-00.38.20.297 	brackett turns and walks out of the bedroom.
 0013_Halloween_00.38.20.523-00.38.21.658 	he slowly walks toward it.
 0013_Halloween_00.41.07.074-00.41.09.407 	lester, a large, ferocious-looking german shepherd, trots happily into the kitchen, spies annie and walks over to her.
-0013_Halloween_00.45.51.501-00.45.54.052 	tommy takes it and together they walk into the kitchen.
 0013_Halloween_00.46.07.654-00.46.09.419 	annie walks into the dark laundry room.
 0013_Halloween_00.48.02.020-00.48.03.157 	finally she gets up and walks to the phone, her eyes pivoted on the tv.
 0013_Halloween_00.49.26.763-00.49.29.119 	lindsey sets down the receiver and walks out of the kitchen.
@@ -250,58 +191,39 @@
 0013_Halloween_00.50.12.336-00.50.14.630 	she walks into the living room.
 0013_Halloween_00.50.56.293-00.50.58.461 	they walk down the street to the doyles.
 0013_Halloween_00.52.34.952-00.52.41.937 	she walks to her car.
-0013_Halloween_00.52.46.450-00.52.53.075 	quickly she turns and walks out of the garage.
-0013_Halloween_00.56.08.536-00.56.13.895 	tommy turns away from laurie and lindsey and walks over to the couch in front of the tv set.
 0013_Halloween_00.56.20.484-00.56.25.013 	laurie shakes her head and walks back into the kitchen.
 0013_Halloween_00.58.37.021-00.58.38.535 	brackett turns and walks back to the street.
 0013_Halloween_01.00.06.977-01.00.08.226 	bob walks over to lynda.
 0013_Halloween_01.02.09.405-01.02.13.031 	lynda pulls bob up from the couch and they walk quickly up the stairs.
 0013_Halloween_01.02.24.522-01.02.26.961 	she walks to the window and glances out.
-0013_Halloween_01.02.29.594-01.02.33.896 	laurie shrugs, turns away from the window and walks back to tommy and lindsey sitting on the couch.
 0013_Halloween_01.05.22.109-01.05.23.793 	he walks to one of the doors and opens it.
 0013_Halloween_01.07.37.028-01.07.37.860 	she walks over to the phone.
 0013_Halloween_01.07.40.602-01.07.41.536 	in the b.g.the ghost starts walking toward her.
 0013_Halloween_01.07.49.474-01.07.51.010 	the ghost walks up slowly behind her.
-0013_Halloween_01.09.02.797-01.09.09.839 	she stands for a moment considering it, then turns and walks upstairs.
 0013_Halloween_01.10.02.781-01.10.14.692 	slowly loomis starts walking down the street toward the station wagon.
 0013_Halloween_01.10.14.692-01.10.16.192 	tracking shot with loomis as he walks up the street.
 0013_Halloween_01.11.14.504-01.11.17.814 	laurie locks the doyle house and walks away out into the street.
 0013_Halloween_01.12.22.693-01.12.28.304 	laurie walks up to the front porch.
 0013_Halloween_01.12.42.577-01.13.01.532 	she steps off the porch and walks around to the side of the house, camera tracking with her.
-0013_Halloween_01.13.11.472-01.13.15.591 	she turns and walks through the breezeway between the house and garage around to the back door.
-0013_Halloween_01.18.34.661-01.18.40.456 	the old woman stares at her suspiciously for a moment, then turns from the door and walks away.
 0013_Halloween_01.25.49.216-01.25.52.027 	she watches for a moment as they walk down the stairs, then slumps down against the door frame in an exhausted heap.
 0013_Halloween_01.27.51.080-01.27.56.765 	he walks slowly down to the window and peers out.
 0014_Ist_das_Leben_nicht_schoen_00.26.54.822-00.26.58.389 	they have stopped walking and now face one another.
 0014_Ist_das_Leben_nicht_schoen_00.41.40.691-00.41.43.800 	they stop walking and face one another.
-0014_Ist_das_Leben_nicht_schoen_00.42.28.941-00.42.35.269 	george is walking slowly past the hatch home.
-0014_Ist_das_Leben_nicht_schoen_00.42.39.254-00.42.45.513 	he walks past the house a few yards, turns, and starts back again.
-0014_Ist_das_Leben_nicht_schoen_00.42.41.188-00.42.46.256 	mary is looking out the window, watching george walk back and forth.
-0014_Ist_das_Leben_nicht_schoen_01.07.21.831-01.07.30.148 	they slowly walk over to george's old car and look at it silently.
-0014_Ist_das_Leben_nicht_schoen_01.16.53.978-01.16.54.638 	george is walking along the sidewalk reading a newspaper.
-0014_Ist_das_Leben_nicht_schoen_01.17.17.839-01.17.19.921 	uncle billy is walking along the street, humming happily to himself.
 0014_Ist_das_Leben_nicht_schoen_01.58.20.509-01.58.21.915 	they walk out of scene.
 0014_Ist_das_Leben_nicht_schoen_01.58.32.652-01.58.35.717 	the two walk into the cemetery.
 0016_O_Brother_Where_Art_Thou_00.14.03.394-00.14.10.378 	flames lick up the outside of the van as - chinka-chinka- chinka - bullet holes walk across the body.
 0016_O_Brother_Where_Art_Thou_00.14.55.385-00.14.58.374 	the little hogwallop boy walks away in long shot down the middle of the empty road.
-0016_O_Brother_Where_Art_Thou_00.37.02.352-00.37.06.504 	george has turned woodenly and walks away, leaving the campfire's flickering circle of light.
 0016_O_Brother_Where_Art_Thou_00.39.38.634-00.39.43.855 	- the three men walk down a flat delta road, the sun shimmering off the rough pavement.
-0016_O_Brother_Where_Art_Thou_00.39.54.320-00.40.00.303 	in the foreground two little black boys are walking home, each carrying a block of ice.
 0016_O_Brother_Where_Art_Thou_00.41.04.068-00.41.07.156 	- the three men walk along a red dirt road elevated through a bayou.
 0016_O_Brother_Where_Art_Thou_00.41.47.145-00.41.50.533 	- the three men walk past a cotton field dotted with burst pods.
-0016_O_Brother_Where_Art_Thou_00.53.46.305-00.53.55.273 	he walks over to delmar who is on the ground moaning, and kicks him several times.
 0016_O_Brother_Where_Art_Thou_00.55.21.641-00.55.24.817 	a third man walks into the torchlight, a hound drooling at his heels.
 0016_O_Brother_Where_Art_Thou_01.05.47.580-01.05.51.182 	he walks halfway down the aisle and stops several rows behind delmar and everett.
-0016_O_Brother_Where_Art_Thou_01.31.46.290-01.31.48.377 	everett, now relieved of his beard, is walking down the steps with penny.
 0016_O_Brother_Where_Art_Thou_01.32.45.512-01.32.48.914 	she walks off.
-0016_O_Brother_Where_Art_Thou_01.34.08.572-01.34.11.123 	everett, pete, delmar and tommy are walking through the woods.
 0016_O_Brother_Where_Art_Thou_01.41.03.557-01.41.05.249 	everett and penny walk arm in arm, the seven wharvey gals behind.
 0017_Pianist_00.08.14.912-00.08.20.567 	she flicks admiring, almost loving glances at him as they walk and talk.
-0017_Pianist_00.11.29.819-00.11.33.942 	father, wearing the star of david armband, walks slowly along, carrying a string bag containing potatoes and carrots, his eyes fixed on the pavement as if his thoughts are a million miles away.
 0017_Pianist_00.17.40.912-00.17.48.113 	as they walk, carrying the basket between them, passing beggars and children asking for food.
 0017_Pianist_00.25.39.282-00.25.40.241 	szpilman walks along.
 0017_Pianist_00.25.54.843-00.25.56.764 	szpilman walks on and sees a child appear through a hole at ground level.
-0017_Pianist_00.26.01.118-00.26.07.709 	szpilman walks on, hears a noise, looks back to see a second child trying to wriggle through the same hole.
 0017_Pianist_00.35.47.652-00.35.51.872 	they start to walk.
 0017_Pianist_00.36.26.459-00.36.28.301 	they walk on.
 0017_Pianist_00.42.13.774-00.42.22.801 	jews, among them szpilman, mother, regina and father, clutching their meagre belongings, walk towards wooden gates and come to a halt.
@@ -309,8 +231,6 @@
 0017_Pianist_00.50.50.761-00.50.53.388 	szpilman drops to walking pace, makes for the gates.
 0017_Pianist_00.51.11.359-00.51.12.574 	they laugh as they walk away.
 0017_Pianist_01.44.21.889-01.44.23.364 	the pedestrians have scattered except for the old man, gasping for breath, hobbling on his walking stick, who eventually manages to disappear inside a building.
-0017_Pianist_01.46.29.172-01.46.30.316 	he is about to draw back when he sees, directly beneath him, a man and woman walking with their hands in the air.
-0019_Pulp_Fiction_00.09.08.251-00.09.26.957 	vincent and jules, their long matching overcoats practically dragging on the ground, walk through the courtyard of what looks like a hacienda-style hollywood apartment building.
 0019_Pulp_Fiction_00.09.55.716-00.10.16.543 	vincent and jules walk through the reception area and wait for the elevator.
 0019_Pulp_Fiction_00.12.14.029-00.12.24.508 	he starts walking down the hall.
 0019_Pulp_Fiction_00.12.22.604-00.12.26.215 	vincent, smiling, walks a little bit behind.
@@ -319,22 +239,13 @@
 0019_Pulp_Fiction_00.47.35.033-00.47.44.998 	vincent and mia walk up to the microphone.
 0019_Pulp_Fiction_00.57.37.260-00.57.44.307 	as she walks in the living room, she sees vincent and lance standing over mia, who's lying on the floor in the middle of the room.
 0019_Pulp_Fiction_01.22.25.216-01.22.30.841 	she walks out of the bathroom to ask butch a question, only to find him sound asleep in bed.
-0019_Pulp_Fiction_01.29.25.671-01.29.38.579 	butch walks out of the alley and is ready for anything.
 0019_Pulp_Fiction_01.30.44.129-01.30.55.427 	butch walks into his modest kitchen, and opens the refrigerator.
 0019_Pulp_Fiction_01.30.40.668-01.30.54.300 	he walks through the apartment and back into the kitchen.
-0019_Pulp_Fiction_01.34.33.384-01.34.35.719 	when marsellus is in front of butch's car, he casually glances to his left, sees butch, continues walking.
 0019_Pulp_Fiction_02.19.28.929-02.19.41.735 	then walks from behind the counter with a trash bag in his hand.
 0020_Raising_Arizona_00.29.07.774-00.29.10.938 	ed walks back and forth, gently bouncing the baby as she walks.
-0020_Raising_Arizona_00.34.15.660-00.34.16.994 	hi is walking in, yawning.
-0020_Raising_Arizona_00.40.14.124-00.40.14.750 	we are tracking on hi and glen as they walk side by side.
 0020_Raising_Arizona_00.41.43.176-00.41.43.477 	he stops walking.
 0020_Raising_Arizona_00.57.49.925-00.57.55.329 	swinging as he walks, the biker's hand produces a fresh cheroot from no apparent source-either sleight-of-hand or magic.
-0020_Raising_Arizona_01.06.36.532-01.06.36.773 	he is walking back into frame holding another handgun now in addition to the .38, this one an automatic.
-0020_Raising_Arizona_01.20.45.119-01.20.50.536 	lenny is casually walking toward him, lighting a cheroot.
-0020_Raising_Arizona_01.27.49.767-01.27.52.499 	in the middle background of the extreme long shot two men are walking across the field.
 0020_Raising_Arizona_01.27.52.499-01.27.53.152 	still floating forward but now much closer to the two walking men.
-0021_Rear_Window_00.06.57.280-00.06.58.593 	the salesman looks toward the bedroom door, hesitates, then reluctantly walks toward it.
-0021_Rear_Window_00.08.02.996-00.08.06.344 	she gets up, walks to the fence, and looks over.
 0021_Rear_Window_00.08.47.658-00.08.49.835 	satisfied, she walks to jeff.
 0021_Rear_Window_00.26.03.753-00.26.06.239 	in the bedroom his wife appears walking back to the bed, followed by the husband.
 0021_Rear_Window_00.51.44.460-00.51.47.460 	stella turns and walks into the kitchen.
@@ -342,8 +253,6 @@
 0021_Rear_Window_01.07.11.036-01.07.13.883 	he walks briskly down the corridor.
 0022_Reservoir_Dogs_00.28.39.106-00.28.51.198 	mr. white stands up and walks over to a table.
 0022_Reservoir_Dogs_00.36.49.184-00.36.52.252 	mr. blonde walks out.
-0022_Reservoir_Dogs_00.36.57.684-00.37.00.017 	mr. blonde is walking towards the car he drove.
-0022_Reservoir_Dogs_00.37.00.017-00.37.01.150 	pink are walking behind.
 0022_Reservoir_Dogs_00.39.31.497-00.39.35.722 	joe walks back around his desk and sits in his chair.
 0022_Reservoir_Dogs_00.52.10.770-00.52.16.564 	pink walk out of the warehouse talking amongst themselves.
 0022_Reservoir_Dogs_00.52.33.688-00.52.38.638 	mr. blonde slowly walks toward the cop.
@@ -365,24 +274,17 @@
 0023_THE_BUTTERFLY_EFFECT_00.52.58.440-00.53.02.560 	he walks behind kayleigh and cups his hands tightly around her ears.
 0023_THE_BUTTERFLY_EFFECT_00.57.58.148-00.58.07.714 	kayleigh gives him a big unexpected kiss and walks away.
 0023_THE_BUTTERFLY_EFFECT_00.58.49.118-00.58.51.700 	thumper walks away, leaving evan dumbfounded.
-0023_THE_BUTTERFLY_EFFECT_00.59.17.371-00.59.23.159 	evan walks up the aisle and takes a seat.
 0023_THE_BUTTERFLY_EFFECT_01.06.57.900-01.07.00.661 	kayleigh and evan walk through the all-but-deserted campus.
 0023_THE_BUTTERFLY_EFFECT_01.10.09.538-01.10.12.812 	evan tries to keep composed and walks toward his cell.
 0023_THE_BUTTERFLY_EFFECT_01.20.35.501-01.20.37.609 	kayleigh and lenny, walking by his side, do a double take.
-0023_THE_BUTTERFLY_EFFECT_01.28.18.085-01.28.20.341 	evan slowly walks up the driveway, which is now a dilapidated mess.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.12.35.896-00.12.48.726 	bilbo disappears into the kitchen as gandalf looks around.enjoying the familiarity of bag end.he turns, knocking his head on the light and then walking into the wooden beam.
 0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.39.11.184-00.39.21.865 	gandalf and saruman walk slowly between the beautiful trees of isengard, saruman's clean, white robe contrasts with gandalf's dusty grey robes.
 0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.43.12.748-00.43.16.295 	frodo and sam walking along a country lane which borders farmer maggot's fields.
 0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.19.20.445-01.19.22.426 	elrond turns and walks away.
 0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.22.06.845-01.22.10.740 	isildur turns and walks away.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.32.05.376-01.32.07.705 	boromir looks at them all then walks towards frodo.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.43.15.809-01.43.20.465 	the fellowship are walking along the far shore of dark lake.directly below great looming cliffs.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.30.16.048-02.30.21.142 	frodo is walking beneath the trees.lost in thought.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.28.57.557-00.28.58.838 	arwen breathing hard, walking towards elrond with a fierce light in her eyes.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.24.52.837-01.24.56.959 	aragorn walking into the blackness.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.33.49.342-01.33.49.684 	gandalf walks the battlements as the huge boulders rain onto the orc army below.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.45.52.139-01.45.54.829 	of lothlorien hazy image: galadriel walking towards him, bare-foot on the.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.28.54.840-02.28.57.908 	frodo is walking half-bowed, often stumbling.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.36.38.129-02.36.47.887 	aragorn raises anduril in the broad sweep as he walks forward.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.55.18.519-02.55.20.054 	then walks in slow procession down the white paved path as the crowd bow their heads in respect to their new king.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.57.08.891-02.57.16.468 	aragorn and arwen walking through the crowd towards four small figures who stand nervously at the end of the.
@@ -402,11 +304,8 @@
 0026_The_Big_Fish_00.49.15.138-00.49.19.132 	with a resigned shrug, he rests his club on his shoulder and walks away into the shadows.
 0026_The_Big_Fish_00.52.16.675-00.52.22.314 	he spots edward walking back into the tent.
 0026_The_Big_Fish_00.53.41.585-00.53.43.488 	as amos starts to walk away, edward hurries to catch up with him.
-0026_The_Big_Fish_00.55.35.321-00.55.37.858 	amos is walking past.
 0026_The_Big_Fish_00.55.52.443-00.55.54.334 	he walks away.
-0026_The_Big_Fish_00.56.51.625-00.57.08.601 	under a full moon, edward walks up to the battered camper, and is about to knock when he notices it's rocking.
 0026_The_Big_Fish_01.00.00.669-01.00.02.103 	edward walks away.
-0026_The_Big_Fish_01.02.33.241-01.02.34.438 	he turns and walks down the front steps.
 0026_The_Big_Fish_01.02.48.795-01.02.54.604 	we lead edward as he walks away, tears just starting to form.
 0026_The_Big_Fish_01.03.38.727-01.03.45.380 	walking with her books, sandra shakes her head, disbelieving.
 0026_The_Big_Fish_01.04.11.792-01.04.14.071 	sandra walks out to him.
@@ -415,8 +314,6 @@
 0026_The_Big_Fish_01.36.21.353-01.36.23.489 	he walks toward it, the marshy ground squishing up around his feet, soaking the hems of his trousers.
 0026_The_Big_Fish_01.54.52.987-01.55.04.139 	will walks into the river, up to his knees.
 0027_The_Big_Lebowski_00.04.29.640-00.04.32.204 	beyond in the living room a young chinese man unzips his fly and walks over to a rug.
-0027_The_Big_Lebowski_00.07.43.998-00.07.50.029 	a lanky blonde man with stringy hair tied back in a ponytail turns from the strike to walk back to the bench.
-0027_The_Big_Lebowski_00.16.32.317-00.16.38.250 	as the dude walks back to the scoring table he turns to another team in black bowling shirts--the cavaliers--that shares the lane.
 0027_The_Big_Lebowski_00.26.59.104-00.27.01.538 	we see quintana, in pressed jeans and a stretchy sweater, walking up a stoop in a residential neighborhood and zinging the bell.
 0027_The_Big_Lebowski_00.29.20.997-00.29.22.804 	jesus walks away.
 0027_The_Big_Lebowski_00.40.50.502-00.40.54.662 	the dude walks away across the lot.
@@ -426,8 +323,6 @@
 0028_The_Crying_Game_00.04.08.026-00.04.11.652 	jody follows her, as she walks backward, drawing him on.
 0028_The_Crying_Game_00.19.07.130-00.19.08.580 	he walks toward it, breathing heavily.
 0028_The_Crying_Game_00.21.27.976-00.21.31.878 	maguire, walking out of the house, woken by the sound of laughter.
-0028_The_Crying_Game_00.30.49.538-00.30.57.908 	fergus walks toward maguire and the other man walks forward, takes his seat.
-0028_The_Crying_Game_00.40.24.888-00.40.32.236 	fergus walking down a street looking for an address.
 0028_The_Crying_Game_00.42.16.470-00.42.20.497 	he walks off through the crowds and then ducks into a doorway.
 0028_The_Crying_Game_00.42.22.602-00.42.43.239 	she locks the glass door and walks down the street, across the road, and into a pub called the metro.
 0028_The_Crying_Game_00.44.52.303-00.44.54.942 	she walks off.
@@ -435,23 +330,15 @@
 0028_The_Crying_Game_00.50.15.315-00.50.22.534 	he walks a few yards and hears voices down an alley.
 0028_The_Crying_Game_00.51.17.905-00.51.21.090 	they walk out of the alley.
 0028_The_Crying_Game_00.52.52.344-00.52.57.462 	dil walks out of the salon, smiling, and walks toward fergus.
-0028_The_Crying_Game_00.53.17.189-00.53.21.221 	she takes his arm and walks off with him.
-0028_The_Crying_Game_00.53.50.076-00.53.52.655 	they are walking in an alleyway toward her house.
 0028_The_Crying_Game_01.03.21.611-01.03.26.717 	she walks into the bathroom.
 0028_The_Crying_Game_01.06.41.983-01.06.44.594 	she walks into the crowd, toward the door.
 0028_The_Crying_Game_01.06.55.606-01.06.58.745 	fergus, walking outside dil's place.
-0028_The_Crying_Game_01.07.23.568-01.07.26.383 	below the scoreboard we can see dil walking across a lawn toward the building where fergus is working.
 0028_The_Crying_Game_01.08.28.933-01.08.32.477 	fergus walks out of the room.
 0028_The_Crying_Game_01.10.34.206-01.10.35.421 	fergus walks her down the scaffolding ramp.
-0028_The_Crying_Game_01.11.25.816-01.11.28.554 	dil, inside, is throwing off her smock and walking toward him.
-0028_The_Crying_Game_01.11.42.356-01.11.44.731 	she takes his arm as they walk off.
 0028_The_Crying_Game_01.13.37.282-01.13.42.235 	she walks round the room.
 0028_The_Crying_Game_01.16.39.852-01.16.41.735 	fergus, walking toward the hair salon, flowers in his hand.
 0028_The_Crying_Game_01.19.41.535-01.19.47.777 	but fergus rises and walks out.
-0028_The_Crying_Game_01.22.44.754-01.22.48.348 	they walk down the street, down from the brothel-cum-club, where there is a cafe-bar with some tables outside.
 0028_The_Crying_Game_01.23.26.272-01.23.27.220 	a burly security man emerging from the car, walking toward the old gent.
-0028_The_Crying_Game_01.23.30.567-01.23.32.731 	jude, from the cafe, watches--fergus walking on, the old man being eased with painstaking care inside the daimler.
-0028_The_Crying_Game_01.23.33.865-01.23.38.969 	when the daimler has passed fergus, he turns around and walks back.
 0028_The_Crying_Game_01.23.58.560-01.23.59.231 	jude begins to walk away.
 0028_The_Crying_Game_01.25.41.886-01.25.50.904 	they walk inside.
 0028_The_Crying_Game_01.29.21.061-01.29.39.346 	looks at the bedside clock, and very gingerly rises, puts on his coat, and walks out.
@@ -461,9 +348,7 @@
 0028_The_Crying_Game_01.39.44.894-01.39.45.487 	the judge walking toward the open door of the car, held open by his goon.
 0028_The_Crying_Game_01.42.03.660-01.42.11.117 	jude walking through the open door, arms extended, holding a gun.
 0028_The_Crying_Game_01.42.19.082-01.42.20.015 	dil walks closer, holding the gun and pointing it at jude.
-0028_The_Crying_Game_01.43.27.645-01.43.37.370 	she looks at the picture; walks over and sits down in front of it.
 0028_The_Crying_Game_01.46.01.900-01.46.16.927 	she walks past the rows of convicts with their families, up to a glass cage, where fergus sits, waiting.
-0029_The_Graduate_00.05.45.599-00.05.49.731 	mr. mcquire turns and walks back into the house.
 0029_The_Graduate_00.07.56.644-00.08.01.482 	ben picks up a wastebasket, walks over to the bed, picks up the match and puts it in the wastebasket.
 0029_The_Graduate_00.10.15.695-00.10.27.858 	ben turns and walks down the hall.
 0029_The_Graduate_00.15.20.605-00.15.26.109 	benjamin walks out of the door and down the hall.
@@ -472,22 +357,14 @@
 0029_The_Graduate_00.29.57.913-00.30.03.234 	ben walks out of the veranda room and into the lobby.
 0029_The_Graduate_00.30.03.234-00.30.13.820 	ben walks to the front desk and stands there.
 0029_The_Graduate_00.32.47.832-00.32.52.744 	he leaves the phone booth and walks back into the main lobby.
-0029_The_Graduate_00.39.35.212-00.39.52.825 	he climbs out, walks to the back door, takes his shirt from a chair and starts to put it on as he opens the back door and goes through.
-0029_The_Graduate_00.39.54.579-00.40.00.288 	pan with ben as he walks across the room past mrs. robinson who is standing in front of the bureau taking off her bracelet and watch.
 0029_The_Graduate_00.41.27.704-00.41.28.509 	mrs. robinson walks into the shot, half dressed.
 0029_The_Graduate_01.15.29.831-01.15.39.110 	during which ben remains static while the quadrangle and the area around him fill up with students; walking, talking, hurrying to class, strolling, sitting, reading, handing out petitions, etc.
 0029_The_Graduate_01.16.02.874-01.16.06.598 	she walks, carrying her books, in ben's direction.
-0029_The_Graduate_01.16.10.104-01.16.13.395 	as she walks, she is joined by another girl with whom she converses as they walk.
-0029_The_Graduate_01.19.44.077-01.19.45.001 	ben and elaine are walking along in front of one of the outside animal cages.
-0029_The_Graduate_01.19.45.001-01.19.46.687 	ben is walking a step or two behind elaine.
-0029_The_Graduate_01.23.27.785-01.23.30.657 	mr. mccleery turns away and walks down the hall and starts down the stairs.
 0029_The_Graduate_01.25.32.216-01.25.34.004 	she walks out, shutting the door behind her.
 0029_The_Graduate_01.25.46.379-01.25.50.582 	past ben, through the window, we see elaine walking away.
 0029_The_Graduate_01.25.50.582-01.25.59.692 	she walks the length of the street and disappears.
-0029_The_Graduate_01.28.23.442-01.28.27.576 	ben is walking alongside elaine.
 0029_The_Graduate_01.28.29.413-01.28.29.816 	they walk down a corridor.
 0029_The_Graduate_01.28.45.820-01.28.46.651 	elaine starts walking down the corridor towards the exit door.
-0029_The_Graduate_01.33.14.634-01.33.23.774 	he walks to the door, looks out into the hall at mr. mccleery, then shuts the door.
 0029_The_Graduate_01.34.04.989-01.34.08.081 	she walks into camera.
 0030_The_Hustler_00.12.47.598-00.12.51.645 	as big john walks off, eddie smiles at charlie.
 0030_The_Hustler_00.17.44.430-00.17.49.921 	fats walks around the table and peers at the balls.
@@ -502,25 +379,16 @@
 0030_The_Hustler_01.29.30.235-01.29.30.817 	eddie and sarah had walked past it the first day they met.
 0030_The_Hustler_01.32.42.252-01.32.44.704 	she angrily breaks away from him and walks out into the rain.
 0030_The_Hustler_01.33.06.869-01.33.18.759 	she walks to a chair, limping noticeably.
-0030_The_Hustler_01.49.15.121-01.49.18.531 	eddie looks at sarah for a moment, then turns and walks out.
-0030_The_Hustler_01.57.16.562-01.57.19.112 	eddie abruptly turns and walks out of the house.
 0030_The_Hustler_01.58.02.369-01.58.22.906 	he pours himself a drink and downs it in one gulp, walks to the door, listens, and opens it himself without knocking.
-0030_The_Hustler_01.59.39.051-01.59.44.101 	then he turns and walks back into his room.
 0030_The_Hustler_02.00.58.319-02.01.04.130 	he walks through the lobby, ignoring the uniformed policeman standing nearby, and stops at the desk.
 0030_The_Hustler_02.04.08.483-02.04.11.618 	eddie, his cue case tucked under his arm, walks straight toward him.
-0030_The_Hustler_02.04.11.618-02.04.23.869 	he stops, stares at him for a moment, then turns and walks over to minnesota fats.
 0030_The_Hustler_02.06.05.302-02.06.10.311 	then he sets down his cue and walks over to the washroom.
-0031_The_Lost_Weekend_00.12.22.580-00.12.25.221 	don takes the package and walks past the newcomer towards the door, hiding it from him gracefully, like a football in a sneak play.
-0031_The_Lost_Weekend_00.12.37.746-00.12.43.234 	he puts down a coin, then walks down the street toward the ladies, flaunting a paper bag which is obviously full of apples.
 0031_The_Lost_Weekend_00.27.57.991-00.27.59.826 	he walks out, bewildered.
 0031_The_Lost_Weekend_00.35.47.437-00.36.00.933 	as they go on talking, they walk from the cloak room, through the vestibule, to the street, don carrying his coat over his arm.
 0031_The_Lost_Weekend_00.39.45.523-00.39.57.001 	he walks toward one of those circular plush settees common to hotels, sits down, puts the flower box next to him and adjusts the knot of his tie, his eye still on the elevator doors.
 0031_The_Lost_Weekend_00.45.46.323-00.45.50.071 	he walks over to the records and picks up the glass.
-0031_The_Lost_Weekend_00.57.46.252-00.57.49.374 	there is a tiny puzzled look from the waiter as don walks slowly towards the wash room.
 0031_The_Lost_Weekend_01.03.30.694-01.03.45.289 	don walks towards it, rips the sheet of paper from the roller, slams the lid of the cover shut, picks up the typewriter.
-0031_The_Lost_Weekend_01.07.16.512-01.07.22.368 	he picks up the typewriter, turns and starts walking back.
 0031_The_Lost_Weekend_01.09.38.395-01.09.41.836 	don walks into the house.
-0031_The_Lost_Weekend_01.23.50.439-01.23.55.319 	don takes it and walks out.
 0031_The_Lost_Weekend_01.24.15.545-01.24.17.771 	don, not noticing, walks to his big chair.
 0031_The_Lost_Weekend_01.31.04.223-01.31.06.381 	he walks down the street about ten steps when helen comes up to him.
 0031_The_Lost_Weekend_01.32.54.941-01.33.01.809 	with a last look at the room, he walks into the bathroom.
@@ -532,24 +400,16 @@
 0032_The_Princess_Bride_00.56.20.785-00.56.24.217 	humperdinck and rugen, walking into the grove of trees.
 0032_The_Princess_Bride_01.07.54.862-01.07.58.113 	as inigo, eyes shut tight, walks forward, the great sword held in his hands.
 0032_The_Princess_Bride_01.08.03.464-01.08.06.267 	walking blind through the grove of trees.
-0032_The_Princess_Bride_01.22.26.501-01.22.28.369 	fezzik with westley, who is still unable to walk under his own power.
-0033_Amadeus_00.04.51.557-00.04.52.976 	doctor gulden is walking down it with a priest, a man of about forty, concerned, but somewhat self-important.
 0033_Amadeus_00.04.49.615-00.04.53.507 	in the corridor as they walk, we note several patients -- some of them visibly disturbed mentally.
 0033_Amadeus_00.14.50.422-00.14.55.586 	we see salieri, age thirty-one, a neat, carefully turned-cut man in decent black clothes and clean white linen, walking through the crowd of guests.
-0033_Amadeus_00.20.17.011-00.20.27.469 	guests turn around as mozart appears - bowing to the archbishop - and walks with an attempt at dignity to the dais where the wind band is playing.
-0033_Amadeus_01.02.13.086-01.02.15.387 	the court composer, oblivious to constanze, who sits happily chewing chestnuts, her mouth covered in sugar, walks around and around his salon, reading the pages and dropping them on the floor when he is done with them.
 0038_Psycho_00.16.21.037-00.16.30.471 	the patrolman walks around to the front of the car, checks the license plate, and returns.
 0038_Psycho_00.18.08.902-00.18.28.642 	mary nods, starts walking along the line of cars as if making a selection.
 0038_Psycho_00.19.01.850-00.19.12.421 	mary, engrossed in the newspaper, and walking back ease the lot, does not see the patrolman.
-0038_Psycho_00.33.38.037-00.33.52.672 	mary pauses outside the door, is about to start forward when norman comes round the building and walks along the porch, past the office, stopping only when he is close to her.
 0038_Psycho_00.45.16.330-00.45.23.363 	norman walking along the porch, in the direction of the big house.
 0038_Psycho_01.12.24.653-01.12.27.318 	as he starts to walk across the highway, camera pulls away and we.
 0038_Psycho_01.25.17.891-01.25.29.617 	norman comes off the porch, walks to the path and directly up to the house, opens the door and goes in.
-0038_Psycho_01.29.17.156-01.29.22.744 	norman walks past sam, giving him the sort of quick, disapproving glance one gives a man who is obviously lying, goes onto the porch and into the office.
 0038_Psycho_01.32.12.921-01.32.20.396 	together they walk along the porch in the direction of cabin one.
 0041_The_Sixth_Sense_00.17.47.835-00.17.49.801 	lynn walks over to cole.
-0041_The_Sixth_Sense_00.17.42.922-00.17.57.903 	cole takes a seat at the kitchen table as lynn walks back into the laundry room.
-0041_The_Sixth_Sense_00.19.09.387-00.19.11.376 	he walks back and takes them from her before leaving.
 0041_The_Sixth_Sense_00.28.45.872-00.28.51.533 	malcolm stops walking.
 0041_The_Sixth_Sense_00.43.38.467-00.43.44.270 	cole breaks from his trance as tommy and darren walk up.
 0041_The_Sixth_Sense_00.56.40.501-00.56.53.780 	cole and malcolm walk down an empty hall.
@@ -558,7 +418,6 @@
 0041_The_Sixth_Sense_01.29.19.482-01.29.22.749 	cole walks back and forth in front of him.
 0041_The_Sixth_Sense_01.30.58.163-01.31.05.424 	cole watches as malcolm walks down the stairs to the entrance.
 0043_Thelma_and_Luise_00.05.01.372-00.05.05.274 	he walks to the door and gives thelma the most perfunctory kiss on the cheek.
-0043_Thelma_and_Luise_00.21.23.924-00.21.26.506 	then she turns and walks away.
 0043_Thelma_and_Luise_00.23.35.861-00.23.36.724 	louise gets out and starts to walk around the car.
 0043_Thelma_and_Luise_00.37.25.556-00.37.27.460 	she walks away towards the front of the store.
 0043_Thelma_and_Luise_00.41.21.390-00.41.23.165 	he starts to walk away from the car.
@@ -575,15 +434,12 @@
 0046_Chasing_Amy_01.42.44.578-01.42.48.352 	she walks out of the studio.
 0046_Chasing_Amy_01.45.13.542-01.45.19.607 	holden smiles back, nods 'bye', and walks off.
 0046_Chasing_Amy_01.48.52.645-01.48.54.748 	he walks away.
-0049_Hannah_and_her_sisters_00.01.58.590-00.02.01.837 	lee glances over her shoulder, then turns from the doorway and walks away.
 0049_Hannah_and_her_sisters_00.02.00.602-00.02.05.523 	the camera follows her, moving across a book-and-photograph-filled bookshelf that obscures her from view as she walks into a crowded, comfortable vestibule.
 0049_Hannah_and_her_sisters_00.02.27.804-00.02.32.452 	lee starts to walk off again, finishing her conversation with her mother.
 0049_Hannah_and_her_sisters_00.02.40.628-00.02.42.762 	elliot watches lee walk off; the other man, oblivious, continues to talk.
 0049_Hannah_and_her_sisters_00.02.45.499-00.02.49.173 	she has just put down the tray and drinks near april, and briskly and obliviously, she walks past a doorway where elliot, still ruminating, watches her, entranced.
 0049_Hannah_and_her_sisters_00.02.50.263-00.02.53.201 	hannah, carrying a tray of hors d'oeuvres, walks up behind the distracted elliot.
-0049_Hannah_and_her_sisters_00.02.54.206-00.03.01.468 	elliot, taking one of the hors d'oeuvres, starts nibbling as well as he and hannah walk past the bookshelf into the living room.
 0049_Hannah_and_her_sisters_00.03.01.468-00.03.06.672 	elliot and hannah, eating and talking, walk past a hallway and offscreen as holly appears, walking down the hallway.
-0049_Hannah_and_her_sisters_00.03.16.071-00.03.20.733 	holly takes a sip of her drink as hannah and elliot walk over to her.
 0049_Hannah_and_her_sisters_00.03.35.144-00.03.40.278 	hannah, licking her fingers, walks past a memo-cluttered refrigerator to the stove as holly, behind her, begins to speak.
 0049_Hannah_and_her_sisters_00.03.42.215-00.03.49.492 	she walks on-and-offscreen as she talks and listens to her sister.
 0049_Hannah_and_her_sisters_00.03.52.777-00.03.56.836 	hannah, licking her fingers, walks past holly.
@@ -598,20 +454,14 @@
 0049_Hannah_and_her_sisters_00.09.32.176-00.09.38.962 	she walks across the loft, with its high ceilings and beige walls, holding her coffee.
 0049_Hannah_and_her_sisters_00.09.38.962-00.09.44.593 	lee continues to walk, past a modern chaise, a bookcase, some sofas, two columns.
 0049_Hannah_and_her_sisters_00.10.35.244-00.10.44.058 	lee kisses frederick twice, then releases him and walks out of the work area.
-0049_Hannah_and_her_sisters_00.10.52.956-00.10.57.839 	frederick, leaving his work area, walks past lee; his hands are in his pockets.
 0049_Hannah_and_her_sisters_00.10.57.839-00.11.00.586 	the camera stays with frederick as he walks into the loft's bedroom area.
 0049_Hannah_and_her_sisters_00.11.40.103-00.11.42.774 	as the group walks through a large doorway, larry catches up to mickey.
 0049_Hannah_and_her_sisters_00.11.51.520-00.11.55.324 	as the group briskly walks past an open door, gail, another assistant, runs out, brandishing her glasses.
-0049_Hannah_and_her_sisters_00.12.00.347-00.12.03.800 	gail stops by his side while the others walk into a background studio doorway that is busy with scurrying personnel.
-0049_Hannah_and_her_sisters_00.12.14.640-00.12.18.657 	a writer, holding a script, walks out of the background studio, looking around.
 0049_Hannah_and_her_sisters_00.12.23.156-00.12.26.076 	mickey, gail, and the writer start walking down a corridor adjacent to the studio.
 0049_Hannah_and_her_sisters_00.12.31.441-00.12.34.441 	gail tries to get mickey's attention as they walk.
 0049_Hannah_and_her_sisters_00.12.45.328-00.12.47.768 	gail walks around the chair.
-0049_Hannah_and_her_sisters_00.13.11.538-00.13.14.083 	as mickey finishes his ruminations, hannah is seen walking towards her front door.
-0049_Hannah_and_her_sisters_00.14.15.110-00.14.24.973 	mickey is walking up a west side street, his hands in his coat pockets.
 0049_Hannah_and_her_sisters_00.14.31.586-00.14.34.070 	dr. abel walks back onscreen.
 0049_Hannah_and_her_sisters_00.15.19.000-00.15.23.597 	he talks to the offscreen mickey as he walks.
-0049_Hannah_and_her_sisters_00.15.37.571-00.15.42.153 	looking preoccupied, dr. abel walks back into the consultation room, holding mickey's open file.
 0049_Hannah_and_her_sisters_00.16.04.187-00.16.09.037 	he walks around his desk and sits on its edge close to mickey.
 0049_Hannah_and_her_sisters_00.17.04.302-00.17.07.851 	the assistants walk off.
 0049_Hannah_and_her_sisters_00.17.13.145-00.17.15.688 	he walks over to gail.
@@ -620,32 +470,22 @@
 0049_Hannah_and_her_sisters_00.19.21.720-00.19.25.562 	she walks past david to a counter where she begins to fold napkins.
 0049_Hannah_and_her_sisters_00.19.55.291-00.19.58.186 	david checks his wristwatch as holly walks over to him.
 0049_Hannah_and_her_sisters_00.20.03.604-00.20.08.112 	holly chuckles as david, listening to april, impressed, walks over to her.
-0049_Hannah_and_her_sisters_00.20.11.589-00.20.16.200 	april chuckles as holly walks back onscreen; she is busy preparing another tray of hors d'oeuvres.
-0049_Hannah_and_her_sisters_00.21.42.150-00.21.48.350 	the group is now seen walking down the canopied entrance stairs of an apartment house on the other side of the street, where they'd been gazing at both the lovely and ugly facades across the way.
 0049_Hannah_and_her_sisters_00.24.15.435-00.24.21.792 	he glances at his watch as the film cuts back once again to the loft building, where lee finally appears, walking down the street away from elliot.
-0049_Hannah_and_her_sisters_00.24.29.452-00.24.34.109 	she walks further and further away; she turns a corner.
-0049_Hannah_and_her_sisters_00.24.34.109-00.25.10.926 	elliot frantically looks around again; then, in a burst of decision, he runs around a garbage dump, crossing the street, and still running, he moves down an adjacent street, past the canal lumber company and several other buildings, as the film cuts back to lee, walking down a different street, oblivious.
-0049_Hannah_and_her_sisters_00.24.34.109-00.25.10.573 	the jazz plays on as the movie cuts back and forth between the fast-moving elliot, rushing down the soho streets, past a truck waiting for a light to change, past some pedestrians, some garbage cans, turning corners, and the strolling lee, walking up different streets, past different buildings.
 0049_Hannah_and_her_sisters_00.25.42.790-00.25.51.578 	they begin to walk down the street.
 0049_Hannah_and_her_sisters_00.26.17.713-00.26.21.219 	they begin to walk again as the movie cuts to the interior of the pageant book & print shop, an old, serious bookstore.
 0049_Hannah_and_her_sisters_00.26.35.673-00.26.42.420 	she walks down a center aisle, the camera still in its parallel aisle, following her.
 0049_Hannah_and_her_sisters_00.26.50.063-00.26.52.192 	elliot starts walking down the center aisle, in the same direction lee had walked up.
 0049_Hannah_and_her_sisters_00.26.56.114-00.27.03.662 	elliot stops walking to browse through some books.
 0049_Hannah_and_her_sisters_00.27.07.691-00.27.15.359 	elliot turns and walks back down the center aisle to a row of books he'd already passed.
-0049_Hannah_and_her_sisters_00.27.41.300-00.27.46.635 	lee, holding the book in a brown bag, and elliot are walking out.
 0049_Hannah_and_her_sisters_00.27.58.739-00.28.04.229 	a taxi pulls over to the curb; they walk over to it.
 0049_Hannah_and_her_sisters_00.31.15.866-00.31.33.325 	fixing his pants, he walks out of his bedroom loft into a dark upper hallway.
 0049_Hannah_and_her_sisters_00.31.33.325-00.31.44.511 	he walks down a spiral staircase into the dark living room.
 0049_Hannah_and_her_sisters_00.32.14.152-00.32.17.268 	dr. smith walks back to his high-backed leather chair behind the desk and sits down.
 0049_Hannah_and_her_sisters_00.33.02.047-00.33.04.175 	they walk offscreen and the film cuts to hannah and mickey's living room.
 0049_Hannah_and_her_sisters_00.36.54.982-00.36.58.544 	lee closes the door behind the men and walks over to dusty.
-0049_Hannah_and_her_sisters_00.37.00.664-00.37.05.921 	she turns and walks with frederick, elliot, and dusty farther into the loft, her hands clasped behind her back.
 0049_Hannah_and_her_sisters_00.37.34.202-00.37.38.067 	as dusty talks, the camera follows elliot, who walks past the others to examine the drawings more closely.
 0049_Hannah_and_her_sisters_00.38.35.998-00.38.39.168 	the camera follows lee as she walks quickly to the stereo unit, pulling a record off the shelf.
-0049_Hannah_and_her_sisters_00.39.57.972-00.40.03.508 	as elliot's thoughts are heard over the scene, lee glances around the loft, then begins to walk away.
 0049_Hannah_and_her_sisters_00.40.07.552-00.40.10.385 	lee walks back onscreen, to the bookshelf behind the drawings.
-0049_Hannah_and_her_sisters_00.40.10.016-00.40.20.701 	she takes the edward estlin cummings book from the shelf and flips through it as she walks back to elliot, who is still leaning by the stereo, still ruminating.
-0049_Hannah_and_her_sisters_00.41.51.675-00.41.56.282 	he walks out of the booth, reacting, then walks down the sidewalk, where he bumps into a frantic lee, just turning the corner.
 0049_Hannah_and_her_sisters_00.43.15.514-00.43.17.841 	she walks off.
 0049_Hannah_and_her_sisters_00.43.38.455-00.43.43.060 	evan, his back to the camera, walks to the front door and opens it to hannah.
 0049_Hannah_and_her_sisters_00.44.12.175-00.44.18.398 	the camera moves to evan, who continues to tell his story, ignoring his wife's outburst, as he walks away from the kitchen doorway into the den.
@@ -661,15 +501,10 @@
 0049_Hannah_and_her_sisters_00.51.35.300-00.51.40.278 	they walk towards the camera, further into the room.
 0049_Hannah_and_her_sisters_00.51.38.339-00.51.48.151 	the camera follows lee as she walks towards the curtained windows, past a fireplace, a mirror, some innocuous pictures, a delicate table holding a lamp, the foot of the bed.
 0049_Hannah_and_her_sisters_00.51.52.058-00.51.57.667 	he walks over to lee by the curtained windows.
-0049_Hannah_and_her_sisters_00.54.06.396-00.54.14.280 	frederick takes a bite of his sandwich and another sip of coffee as lee walks out of the bathroom, tossing the towel down on the counter.
-0049_Hannah_and_her_sisters_00.54.18.390-00.54.54.533 	as frederick continues his monologue, lee is busy in the background: striking a wooden match and lighting a burner on the stove for the kettle, taking a glass out of the cupboard, walking into the bathroom for some pills, filling the glass with water in the kitchen sink, and taking her pills.
 0049_Hannah_and_her_sisters_00.54.53.672-00.54.58.816 	lee sets her glass on the kitchen counter and walks towards the bedroom area.
 0049_Hannah_and_her_sisters_00.57.11.716-00.57.16.373 	he walks over to lee in another area of the kitchen.
 0049_Hannah_and_her_sisters_01.00.02.823-01.00.21.408 	he ponders the scene as he walks past the statue and a small front garden and down the sidewalk.
-0049_Hannah_and_her_sisters_01.01.01.421-01.01.04.418 	he stops walking and looks out over the water.
-0049_Hannah_and_her_sisters_01.02.18.225-01.02.40.204 	mickey and holly, almost in dark silhouette, are walking at a fast clip along the sidewalk, arguing.
 0049_Hannah_and_her_sisters_01.03.53.935-01.03.55.894 	a taxi pulls away from the curb as mickey and holly walk out of the hotel through its revolving doors.
-0049_Hannah_and_her_sisters_01.03.55.894-01.03.59.055 	holly stays under the awning; mickey walks to the curb and looks angrily back at her.
 0049_Hannah_and_her_sisters_01.03.59.055-01.04.17.173 	people pass by as mickey walks back and forth from the curb to holly, growing angrier and angrier.
 0049_Hannah_and_her_sisters_01.04.21.489-01.04.23.164 	mickey and holly walk up to its rear door.
 0049_Hannah_and_her_sisters_01.04.28.448-01.04.48.705 	mickey starts to walk along the sidewalk as the taxi drives off; he passes the hotel and several evening-lit store windows.
@@ -677,19 +512,14 @@
 0049_Hannah_and_her_sisters_01.09.21.026-01.09.32.829 	the two sisters walk away from the rack, hannah slightly in the lead.
 0049_Hannah_and_her_sisters_01.09.26.829-01.09.38.710 	they continue to walk.
 0049_Hannah_and_her_sisters_01.09.56.948-01.10.01.437 	she walks away.
-0049_Hannah_and_her_sisters_01.09.59.656-01.10.05.003 	she walks past holly and briefly looks at a different rack of clothes beneath the table.
 0049_Hannah_and_her_sisters_01.10.01.147-01.10.06.380 	she walks offscreen to a nearby rack; the camera remains focused on holly.
-0049_Hannah_and_her_sisters_01.11.40.105-01.11.59.813 	a theater marquee can be seen on the busy street as holly and april walk down the street towards the camera, moving closer and closer as they talk.
 0049_Hannah_and_her_sisters_01.13.17.770-01.13.22.052 	the camera cuts back to father flynn, who walks over to a leather armchair next to a table set for tea.
 0049_Hannah_and_her_sisters_01.13.40.420-01.13.44.275 	his father walks into view, carrying a teacup and a candy dish.
 0049_Hannah_and_her_sisters_01.14.08.312-01.14.10.953 	mickey's father walks offscreen again, to the kitchen sink.
 0049_Hannah_and_her_sisters_01.14.14.442-01.14.19.969 	mickey's father walks out of the kitchen, past his son, to the living room.
 0049_Hannah_and_her_sisters_01.15.01.502-01.15.03.828 	he picks up some large, heavy books from a shelf near his window and he walks over to mickey, who's standing near his desk, already holding several tomes.
-0049_Hannah_and_her_sisters_01.15.24.740-01.15.31.604 	mickey turns from the window, shrugging, and starts to walk down the street, past a fruit and vegetable store with open- air-displayed flowers, past several briskly moving pedestrians.
 0049_Hannah_and_her_sisters_01.15.33.658-01.15.37.985 	he closes the door and walks through his dark foyer; he carries a brown bag.
 0049_Hannah_and_her_sisters_01.15.37.915-01.15.41.602 	he switches on the light, and walking past his spiral staircase, past several framed pictures on the wall, he makes his way to his living room coffee table.
-0049_Hannah_and_her_sisters_01.16.05.883-01.16.12.710 	lee is walking down the street, looking around her.
-0049_Hannah_and_her_sisters_01.16.19.556-01.16.22.237 	she turns and walks towards the restaurant entrance.
 0049_Hannah_and_her_sisters_01.16.27.486-01.16.31.640 	the camera follows them, cutting to the restaurant's interior at the same time the sisters walk in.
 0049_Hannah_and_her_sisters_01.16.31.877-01.16.36.467 	the sisters walk toward the coatcheck area, deep in conversation.
 0049_Hannah_and_her_sisters_01.16.34.404-01.16.43.018 	in the background, a waiter crosses over to the bar, then walks away.
@@ -697,8 +527,6 @@
 0049_Hannah_and_her_sisters_01.20.12.225-01.20.14.496 	a man wearing a summer suit walks by as the film moves inside the building, to elliot's analyst's office.
 0049_Hannah_and_her_sisters_01.20.39.853-01.20.53.820 	they mouth hello, smiling, and begin to walk off together.
 0049_Hannah_and_her_sisters_01.21.50.971-01.22.06.776 	mickey walks off, the hare krishnas still dancing and singing on the other side of the fence.
-0049_Hannah_and_her_sisters_01.21.53.463-01.22.01.087 	he flips through the literature as he walks, then looks straight ahead, pondering.
-0049_Hannah_and_her_sisters_01.22.47.348-01.22.54.439 	people rush past holly towards the subway; others are walking up the station steps.
 0049_Hannah_and_her_sisters_01.24.00.075-01.24.04.712 	a couple stands by the window; one man gets up from his chair and walks away.
 0049_Hannah_and_her_sisters_01.24.10.725-01.24.12.872 	mavis the maid walks by with a tray of hors d'oeuvres.
 0049_Hannah_and_her_sisters_01.24.21.160-01.24.26.161 	several people, deep in conversation, stand nearby as elliot, holding a drink, walks up behind her.
@@ -706,8 +534,6 @@
 0049_Hannah_and_her_sisters_01.24.49.728-01.24.57.157 	hannah walks over to the table, gathering up more food.
 0049_Hannah_and_her_sisters_01.25.02.066-01.25.07.944 	holly walks over to the sink and washes her hands.
 0049_Hannah_and_her_sisters_01.25.36.506-01.25.52.137 	hannah angrily gathers up some spices from the table; holly walks back onscreen holding a silver ice bucket.
-0049_Hannah_and_her_sisters_01.26.57.345-01.27.01.156 	she walks over to the dining room table, which is already decked out with a floral centerpiece, glassware, and china.
-0049_Hannah_and_her_sisters_01.29.05.147-01.29.22.472 	piano music is still heard very softly in the background as hannah, hugging herself, walks slowly down the hallway into the living room.
 0049_Hannah_and_her_sisters_01.30.39.915-01.30.43.142 	mickey, his hands in his pockets, walks along the sidewalk, one person among many other pedestrians.
 0049_Hannah_and_her_sisters_01.30.43.142-01.30.47.395 	he pulls his coat tighter around him as he walks.
 0049_Hannah_and_her_sisters_01.31.52.128-01.32.34.510 	she walks down the aisle, occasionally glancing at the bins of records.
@@ -716,9 +542,7 @@
 0049_Hannah_and_her_sisters_01.35.29.163-01.35.38.388 	holly and mickey emerge from the door and walk up the street, revealing a whole row of similar apartment buildings.
 0049_Hannah_and_her_sisters_01.35.38.557-01.35.41.187 	they pass a few other people as they walk.
 0049_Hannah_and_her_sisters_01.37.31.829-01.37.36.507 	his reflection walks towards the theater entrance; he continues his story.
-0049_Hannah_and_her_sisters_01.40.13.476-01.40.18.538 	he passes the women and walks through the doorway into the living room, nodding hello to a guest who is walking the other way.
 0049_Hannah_and_her_sisters_01.40.33.415-01.40.35.829 	the camera shows his point of view: guests stand in clusters, enjoying themselves; one woman chats with a little boy; another woman, carrying a drink, walks over to a group of other guests.
-0050_Indiana_Jones_and_the_last_crusade_00.07.55.998-00.07.58.699 	with indy hanging on, feet kicking, the water spout deposits him back on the train, onto the roof of a stockcar, where he looks up to see fedora walking toward him.
 0050_Indiana_Jones_and_the_last_crusade_00.14.14.774-00.14.18.399 	students walk along brick, tree-lined paths.
 0050_Indiana_Jones_and_the_last_crusade_00.22.40.050-00.22.43.700 	they walk into the room.
 0050_Indiana_Jones_and_the_last_crusade_00.26.54.384-00.26.55.664 	people walk about and sit at tables in front of a large building.
@@ -730,7 +554,6 @@
 0050_Indiana_Jones_and_the_last_crusade_00.55.01.687-00.55.05.742 	the woman walks away, leaving brody alone in the crowd.
 0050_Indiana_Jones_and_the_last_crusade_00.55.07.191-00.55.15.682 	they meet and hug, then begin to walk.
 0050_Indiana_Jones_and_the_last_crusade_01.08.32.458-01.08.35.396 	indy and henry walk toward the square.
-0050_Indiana_Jones_and_the_last_crusade_01.09.02.692-01.09.05.211 	elsa is walking away in an open area, background of torches, vehicles, nazi officers.
 0050_Indiana_Jones_and_the_last_crusade_01.11.07.097-01.11.13.048 	they begin to walk toward the boarding gates.
 0050_Indiana_Jones_and_the_last_crusade_01.20.55.984-01.21.01.258 	henry walks back to indy.
 0050_Indiana_Jones_and_the_last_crusade_01.22.01.259-01.22.14.025 	the sultan gets up from his chair and walks toward the trunk.
@@ -739,18 +562,13 @@
 0050_Indiana_Jones_and_the_last_crusade_01.43.57.799-01.44.08.077 	he walks to the entranceway, flanked by two stone lions.
 0050_Indiana_Jones_and_the_last_crusade_01.46.45.177-01.46.49.074 	now we see each letter on the stones as indy carefully walks forward.
 0051_Men_in_black_00.04.33.958-00.05.01.689 	he walks down the row, studying the faces, greeting each one cheerily in spanish.
-0051_Men_in_black_00.13.46.336-00.13.49.592 	his mouth agape, he walks across the yard and stares at the hulking shell that was his truck.
 0051_Men_in_black_00.28.46.334-00.28.48.434 	zed turns and walks away.
 0051_Men_in_black_00.36.21.873-00.36.25.600 	on the main floor, they walk briskly across the room, reaching a giant screen on the far wall.
-0051_Men_in_black_00.37.10.531-00.37.15.245 	zed, who was standing up close to the screen, walks over to edwards, sizing him up.
-0051_Men_in_black_00.53.58.433-00.54.02.860 	he walks across the morgue to kay, who is still examining the arquillian.
 0051_Men_in_black_01.01.35.237-01.01.37.403 	kay and jay walk away.
 0051_Men_in_black_01.04.58.456-01.05.09.438 	zed looks down to the vast floor below and sees the four worm guys with suitcases walking across the floor.
 0051_Men_in_black_01.05.24.643-01.05.26.943 	edgar gets out and walks away, fast, cursing under his breath.
 0051_Men_in_black_01.21.21.708-01.21.31.881 	a hatch comes up.revealing edgar, walking slowly toward them, with contained fury.
 0053_Rendezvous_mit_Joe_Black_02.48.38.269-02.48.45.838 	she hesitates, now glides away from the party, her step quickens as she walks up towards the hill.
-0053_Rendezvous_mit_Joe_Black_02.49.37.513-02.49.42.929 	he is heading straight for her, she tries to make him out, seems to recognize him, starts to walk towards him as if pulled by a magnet.
-1001_Flight_00.01.07.534-00.01.20.604 	the woman takes a purse and walks out of the room as the man picks up a cell phone.
 1001_Flight_00.03.48.820-00.03.58.658 	the man walks out of the room dressed in a black suit and sporting dark glasses under a pilot's cap.
 1001_Flight_00.04.10.556-00.04.15.399 	the man now in a raincoat walks under a parked south jet airplane.
 1001_Flight_00.06.46.366-00.06.57.831 	she walks to a car and places the massage table in the trunk.
@@ -776,22 +594,16 @@
 1002_Harry_Potter_and_the_Half-Blood_Prince_00.15.01.583-00.15.10.840 	in a dingy, wet part of town, draco's mother narcissa walks along a narrow alley, with bellatrix lestrange.
 1002_Harry_Potter_and_the_Half-Blood_Prince_00.17.20.310-00.17.24.853 	she walks away.
 1002_Harry_Potter_and_the_Half-Blood_Prince_00.19.13.160-00.19.15.622 	a boy walks up a wall.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.23.51.503-00.24.00.549 	he takes something from the overhead luggage rack, goes out of the compartment, and walks along the corridor, hiding it behind his back.
 1002_Harry_Potter_and_the_Half-Blood_Prince_00.26.28.519-00.26.40.959 	draco flings the invisibility cloak back over harry and walks out of the carriage.
 1002_Harry_Potter_and_the_Half-Blood_Prince_00.26.45.631-00.26.49.086 	steam rises as he walks away.
 1002_Harry_Potter_and_the_Half-Blood_Prince_00.26.54.980-00.27.00.170 	someone walks through the train viewing it, as if through a rose-tinted kaleidoscope.
 1002_Harry_Potter_and_the_Half-Blood_Prince_00.28.23.572-00.28.26.337 	luna and harry watch as draco snatches his walking stick from filch.
 1002_Harry_Potter_and_the_Half-Blood_Prince_00.28.34.747-00.28.35.540 	he walks away.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.29.37.716-00.29.40.610 	harry is walking towards them.
 1002_Harry_Potter_and_the_Half-Blood_Prince_00.42.10.210-00.42.12.498 	dumbledore walks away from the sullen tom.
 1002_Harry_Potter_and_the_Half-Blood_Prince_00.43.56.526-00.44.03.227 	draco malfoy walks past them towards a wall covered with a tapestry of a unicorn.
 1002_Harry_Potter_and_the_Half-Blood_Prince_00.48.32.869-00.48.37.260 	ginny tosses the book back to him, and he walks away.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.49.03.646-00.49.05.684 	they are walking in the snow.
 1002_Harry_Potter_and_the_Half-Blood_Prince_00.49.53.306-00.49.57.171 	harry sees draco, who walks out.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.51.45.260-00.51.48.488 	on the way back, leanne and katie are walking ahead of them.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.03.51.085-01.03.56.639 	as the kiss continues, she turns abruptly and walks out.
 1002_Harry_Potter_and_the_Half-Blood_Prince_01.04.17.510-01.04.22.473 	he walks down the steps, his shadow cast against the wall.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.05.33.856-01.05.39.250 	ron looks at hermione in alarm and walks away.
 1002_Harry_Potter_and_the_Half-Blood_Prince_01.08.06.561-01.08.15.423 	they walk past a window bay, where draco sits alone, deep in thought.
 1002_Harry_Potter_and_the_Half-Blood_Prince_01.09.28.484-01.09.32.424 	wearing a waiter's jacket, neville walks away.
 1002_Harry_Potter_and_the_Half-Blood_Prince_01.11.17.820-01.11.20.537 	snape walks away.
@@ -805,8 +617,6 @@
 1002_Harry_Potter_and_the_Half-Blood_Prince_01.44.38.868-01.44.41.510 	harry walks past and spots him.
 1002_Harry_Potter_and_the_Half-Blood_Prince_01.45.23.895-01.45.26.815 	he walks away.
 1002_Harry_Potter_and_the_Half-Blood_Prince_01.45.52.516-01.45.59.875 	harry walks up a grassy hillock.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.53.52.851-01.53.56.980 	the teenage tom riddle turns away from slughorn and walks towards the fire, hands behind his back.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.55.01.494-01.55.04.506 	looking troubled, the professor walks away from the pensive.
 1002_Harry_Potter_and_the_Half-Blood_Prince_01.58.07.765-01.58.16.144 	they walk to the balustrade.
 1002_Harry_Potter_and_the_Half-Blood_Prince_02.10.17.790-02.10.19.698 	harry walks away then stops.
 1002_Harry_Potter_and_the_Half-Blood_Prince_02.16.04.740-02.16.07.058 	snape walks over to him.
@@ -830,7 +640,6 @@
 1005_Signs_00.16.08.980-00.16.10.047 	graham walks over.
 1005_Signs_00.17.24.630-00.17.29.490 	graham puts the three glasses back down and walks into the dining room.
 1005_Signs_00.28.02.070-00.28.04.737 	merrill walks solemnly towards the door.
-1005_Signs_00.34.36.350-00.34.41.370 	he walks steadily across the lawn to where the alsatian is chained to its kennel.
 1005_Signs_00.35.34.520-00.35.45.625 	graham walks slowly up to the wall of maize and steps inside the tall dense corn.
 1005_Signs_00.46.32.627-00.46.35.498 	caroline walks up to meet him.
 1005_Signs_00.49.11.170-00.49.17.557 	then, walks along the landing and into the children's room.
@@ -846,7 +655,6 @@
 1006_Slumdog_Millionaire_00.49.52.714-00.49.58.316 	the 10-year-old brothers walk along a pipeline.
 1006_Slumdog_Millionaire_00.50.57.435-00.51.02.803 	he walks through a crowded night market with stalls selling a thousand and one different things.
 1006_Slumdog_Millionaire_00.51.03.604-00.51.08.220 	then he's in uniform walking through a kitchen.
-1006_Slumdog_Millionaire_00.54.54.987-00.55.03.482 	jamal and salim walk through a brothel, pulling aside curtains covering alcoves where couples are having sex.
 1006_Slumdog_Millionaire_01.10.06.789-01.10.11.790 	across the room, call center managers walk around, monitoring staff calls.
 1006_Slumdog_Millionaire_01.20.34.487-01.20.42.241 	he walks into the living room and sits down in front of a widescreen tv.
 1006_Slumdog_Millionaire_01.22.26.304-01.22.27.727 	he walks into the kitchen.
@@ -854,53 +662,39 @@
 1006_Slumdog_Millionaire_01.39.15.382-01.39.18.665 	salim walks back to the main room.
 1006_Slumdog_Millionaire_01.41.32.847-01.41.34.663 	a manager walks in.
 1007_Spider-Man1_00.04.25.836-00.04.30.959 	young parker keeps walking, his eyes fixed on mary jane, not seeing a leg stuck out in front of him.
-1007_Spider-Man1_00.04.48.990-00.05.02.636 	as parker approaches mary jane, she smiles and waves, he waves shyly back only to find she was greeting to girl friends walking behind him.
 1007_Spider-Man1_00.12.26.377-00.12.30.120 	the general walks away, leaving a pensive norman.
 1007_Spider-Man1_00.19.00.410-00.19.06.626 	he walks back to his mirror and grins.
 1007_Spider-Man1_00.19.08.741-00.19.11.633 	coming downstairs he places one hand on the molding, walks on the wall around the corner, and then leaps to the ground.
 1007_Spider-Man1_00.22.32.819-00.22.34.010 	she walks off.
-1007_Spider-Man1_00.23.22.926-00.23.28.312 	as peter walks out of the swing doors, so the tray is trapped on the swing shot.
 1007_Spider-Man1_00.34.31.128-00.34.34.637 	uncle ben gives an ok sign to aunt may as peter walks out of the door.
 1007_Spider-Man1_00.36.36.006-00.36.37.799 	and then he walks off away from the library.
 1007_Spider-Man1_00.44.36.403-00.44.39.671 	he stands up and walks away.
 1007_Spider-Man1_00.57.10.759-00.57.18.191 	mj in a waitress outfit walks out of the moon dance diner, putting on her coat.
 1007_Spider-Man1_01.17.51.882-01.17.54.338 	night time, mj walks out of a door and tosses something in a bin.
-1007_Spider-Man1_01.26.37.618-01.26.44.127 	as he turns to walk out, the drop of blood falls to the floor.
 1007_Spider-Man1_01.41.12.082-01.41.20.446 	standing in the middle of a thick strand of web tied between two flagpoles, spider-man stretches the strand by walking down a building and then launches himself into the air.
 1007_Spider-Man1_01.50.03.289-01.50.04.634 	as he does so, harry, dressed in black, walks into the room.
 1007_Spider-Man1_01.50.32.161-01.50.36.178 	peter, hands in pockets, walks slowly over to his friend.
-1007_Spider-Man1_01.54.47.198-01.54.50.532 	peter sadly turns from her and slowly walks away.
 1008_Spider-Man2_00.02.29.386-00.02.35.431 	spider-man stands over norman osborn as harry walks into the room.
 1008_Spider-Man2_00.02.51.418-00.03.01.310 	peter walks away from mj in the graveyard.
 1008_Spider-Man2_00.07.24.541-00.07.29.186 	he glances up at the receptionist, then walks back towards the janitor's cupboard he emerged from.
-1008_Spider-Man2_00.07.31.855-00.07.34.009 	the receptionist eyes peter suspiciously as he turns to the elevators he just walked past.
 1008_Spider-Man2_00.10.49.741-00.10.52.403 	the brow of the thin-faced doctor connors furrows as he walks away.
 1008_Spider-Man2_00.13.13.484-00.13.16.585 	when peter doesn't respond, harry rises and walks away.
-1008_Spider-Man2_00.14.09.573-00.14.15.150 	he walks around the table and takes hold of his aunt's hand.
 1008_Spider-Man2_00.15.57.990-00.16.03.303 	aunt may kisses peter on the cheek and walks away.
 1008_Spider-Man2_00.18.27.508-00.18.29.222 	mj turns and walks slowly away.
 1008_Spider-Man2_00.26.28.096-00.26.30.966 	his daughter stares as he pulls up his trousers and walks into a room.
-1008_Spider-Man2_00.26.38.197-00.26.49.687 	as crowds walk into the foyer, and tickets are checked and stubs torn off, mj is suiting with a fellow actress in makeup.
 1008_Spider-Man2_00.31.30.064-00.31.32.863 	mj and her man walk off, arm-in-arm.
 1008_Spider-Man2_00.50.35.527-00.50.46.272 	a devious smile animates his lips, and the limbs walk in through the crumbling building.
 1008_Spider-Man2_00.58.02.585-00.58.04.820 	of which time, the couple have walked away.
 1008_Spider-Man2_00.58.13.648-00.58.16.211 	peter walks up to him.
 1008_Spider-Man2_00.59.57.743-01.00.03.199 	he pauses, then walks up behind her.
-1008_Spider-Man2_01.02.09.516-01.02.11.156 	the two eyeball each other before harry, tight-lipped, turns and walks away.
 1008_Spider-Man2_01.10.36.790-01.10.46.881 	he drops the costume, then walks down the alley and away from the dust bin into which he has consigned the last vestige of the super hero.
 1008_Spider-Man2_01.13.21.072-01.13.46.731 	mj and peter walk down the street side-by-side.
 1008_Spider-Man2_01.13.53.458-01.13.55.779 	then they both resume walking.
 1008_Spider-Man2_01.17.16.089-01.17.19.168 	he smiles and walks on past an alleyway.
-1008_Spider-Man2_01.22.10.316-01.22.15.778 	bernard turns and walks out.
 1008_Spider-Man2_01.26.43.871-01.26.44.884 	he hands her over to her bemused parents and walks away.
-1008_Spider-Man2_01.29.01.585-01.29.05.223 	peter walks down the passageway to the back garden where aunt may is packing.
 1008_Spider-Man2_01.29.04.149-01.29.05.150 	a smile on her face, she walks up to him.
 1008_Spider-Man2_01.39.54.569-01.39.56.166 	the three walking limbs stride over to a building, up its side.
-1009_Spider-Man3_00.10.40.004-00.10.45.927 	a police car with a search lamp mounted by the passenger window turns onto the street behind him and drives down the road at a walking pace.
-1009_Spider-Man3_00.12.57.150-00.13.05.785 	flint walks over to her, kneels down in front of her, and gently takes her arm.
-1009_Spider-Man3_00.42.41.796-00.42.49.888 	mary jane's blue eyes well up and she turns and walks away.
 1009_Spider-Man3_00.44.36.421-00.44.37.926 	she forces a cheery smile as he walks off.
-1009_Spider-Man3_00.46.07.191-00.46.12.043 	sandman rises up like a walking giant as a group of cops take aim.
 1009_Spider-Man3_00.48.58.337-00.48.59.739 	she walks off.
 1009_Spider-Man3_00.52.22.496-00.52.28.105 	he walks across the reception area.
 1009_Spider-Man3_00.56.35.777-00.56.37.038 	gwen waves at peter as she walks away.
@@ -912,27 +706,21 @@
 1010_TITANIC_00.21.11.299-00.21.13.682 	passengers walk up one of three gangplanks.
 1010_TITANIC_00.23.13.837-00.23.17.355 	ruth strides ahead of rose and cal as they walk up a gangplank.
 1010_TITANIC_00.35.20.338-00.35.25.067 	crewmen walk dogs on leashes.
-1010_TITANIC_00.45.22.129-00.45.24.186 	jack looks down as the man walks off.
 1010_TITANIC_00.49.37.079-00.49.38.537 	she releases his hand and walks away.
 1010_TITANIC_00.50.50.731-00.50.53.848 	rose closes the sketchbook as another passenger walks past.
 1010_TITANIC_00.56.03.844-00.56.06.255 	jack waves as rose and her mother walk off.
 1010_TITANIC_00.56.58.854-00.57.02.903 	he pauses, then walks toward an ornate railing and columns beneath the dome skylight.
 1010_TITANIC_00.57.09.123-00.57.25.488 	jack glances up at the skylight and walks down the staircase to the landing where he studies a wall clock with an elaborately carved wooden casing.
-1010_TITANIC_01.04.52.396-01.04.56.479 	he turns and walks off, glancing back at her over his shoulder.
 1010_TITANIC_01.29.11.966-01.29.18.332 	jack walks into the next room and slides the case into the safe.
 1010_TITANIC_01.30.29.720-01.30.31.135 	the captain walks off.
 1010_TITANIC_01.31.07.830-01.31.11.182 	lovejoy opens a door and glimpses jack and rose, who walk faster.
-1010_TITANIC_01.32.58.380-01.33.03.086 	they look around themselves as they walk past crates and stacks of boxes.
 1010_TITANIC_01.37.40.048-01.37.42.200 	standing at the bridge rail, murdoch glances down at them, smiles, and walks off.
 1010_TITANIC_01.49.20.732-01.49.23.163 	smith puts his hat back on and walks out.
 1010_TITANIC_01.51.38.413-01.51.53.862 	andrews nods and walks off.
 1010_TITANIC_01.57.18.166-01.57.23.277 	rose walks away.
-1010_TITANIC_02.00.17.658-02.00.19.554 	she walks down a short corridor and turns down a long hallway.
-1010_TITANIC_02.00.25.247-02.00.38.538 	rose pauses at a staircase, then turns left and walks down another floated corridor, littered with floating furniture.
 1010_TITANIC_02.02.01.658-02.02.04.516 	rose pushes the desk chair out of her way as she walks to jack.
 1010_TITANIC_02.05.10.813-02.05.15.888 	she holds the axe over her head and walks through the chest -deep water into the office.
 1010_TITANIC_02.10.08.678-02.10.11.671 	cal closes the safe, locks it, and walks out.
-1010_TITANIC_02.13.58.234-02.14.04.480 	murdoch glances down at the cash, then exchanges looks with cal and walks off.
 1010_TITANIC_02.14.58.577-02.15.00.145 	cal turns and walks off.
 1010_TITANIC_02.15.01.927-02.15.03.837 	lovejoy follows cal, who walks through the bridge.
 1010_TITANIC_02.26.14.149-02.26.19.223 	cal peers down at a crying young girl, then walks away.
@@ -947,39 +735,26 @@
 1011_The_Help_00.49.22.963-00.49.28.142 	minnie walks up the drive towards an imposing white painted mansion.
 1011_The_Help_00.58.45.424-00.58.52.448 	outside she starts to stride away from aibileen's house, then stops and walks right back inside.
 1011_The_Help_01.16.31.629-01.16.34.777 	he starts walking away.
-1011_The_Help_01.21.23.599-01.21.36.083 	aibileen and henry, who have been sitting at the back of the bus, hurriedly get out and walk off down the dark street.
-1011_The_Help_01.48.37.663-01.48.44.625 	at her home, skeeter drops her bag on the floor and walks into her mother's bedroom where charlotte is sitting on her bed without a wig sewing a sampler.
-1011_The_Help_01.57.34.807-01.57.38.800 	they both steel themselves to walk past but the beefy woman is utterly engrossed.
 1011_The_Help_02.07.22.788-02.07.29.210 	with a gentle guiding hand at her back and a good-natured smile, he walks her towards the house.
 1011_The_Help_02.17.41.714-02.17.45.359 	mae mobley stays at the window, watching aibileen walk away down the drive.
 1011_The_Help_02.18.06.689-02.18.34.200 	she smiles to herself, and as she walks on down the long, narrow road dappled with sunlight, flanked by tall trees and neat green verges, she has a spring in her step.
-1012_Unbreakable_00.10.06.230-00.10.15.823 	a white coated man carrying a clipboard, who has been standing by the other figure, walks towards david and is replaced by other medical staff.
 1012_Unbreakable_00.14.07.021-00.14.12.326 	he walks down the hall past an open doorway and starts to go upstairs.
 1012_Unbreakable_00.14.53.420-00.15.01.450 	david, in a gray jacket, walks past a large sign reading memorial service for the families of east rail train 177.
-1012_Unbreakable_00.15.51.900-00.15.59.406 	he stops and looks at the windscreen, walks to it, and takes an envelope from under the windscreen wiper.
 1012_Unbreakable_00.21.21.165-00.21.24.831 	she pauses, hands on hips, then walks towards him.
 1012_Unbreakable_00.23.20.665-00.23.25.379 	chlidren chase past the bench, as the boy walks slowly towards it.
-1012_Unbreakable_00.27.27.563-00.27.31.725 	inside, elijah is walking away from the door and doesn't look around.
 1012_Unbreakable_00.37.41.474-00.37.46.802 	when they move on again, elijah, who's wearing a long black leather coat and his usual black gloves, and walking with the help of his stick, glances back too.
 1012_Unbreakable_00.38.30.331-00.38.37.488 	the suspect reaches a break in the metal barriers, steps out of the queue, hand covering his mouth, walks away against the flow of fans.
 1012_Unbreakable_00.40.55.484-00.40.58.515 	elijah's glass walking stick lands on the seat of his car.
 1012_Unbreakable_00.41.16.066-00.41.18.825 	the man in the camouflage jacket walks past the car.
 1012_Unbreakable_00.41.29.876-00.41.38.957 	through alternate pools of light and shadows cast by the arches but the man walks fast enough to disappear from sight around the curve of the building.
-1012_Unbreakable_00.43.35.761-00.43.43.428 	he turns and walks slowly and smiling towards a small green park where a group of boys are playing american football on the grass.
-1012_Unbreakable_00.44.40.631-00.44.42.298 	they turn and walk away together.
-1012_Unbreakable_00.46.50.571-00.46.57.518 	he turns to see the weights on the ends of the bar, and joseph walks up to him.
 1012_Unbreakable_00.49.34.591-00.49.44.001 	he walks slowly over to david, who twists around to inspect the weights and the paint cans at either end of the bar.
-1012_Unbreakable_00.51.04.877-00.51.10.543 	audrey hands the nurse a yellow file, takes another one from her, and walks across the open plan office.
 1012_Unbreakable_00.55.16.074-00.55.24.741 	reaching inside a waist bin, he extracts a small package, slips it into his trouser pocket and, hitching up his anorak, walks slowly out.
-1012_Unbreakable_00.56.27.686-00.56.30.875 	david watches him, sighs, and turns to walk in the other direction.
 1012_Unbreakable_01.04.58.478-01.05.06.861 	he puts something away, walks out from the counter, and heads down the aisle towards elijah.
-1012_Unbreakable_01.06.11.759-01.06.21.763 	finally, he walks around to the back of elijah's chair, takes the handles, and starts to wheel it down the aisle, maneuvering carefully between the heavily stacked shelves and displays.
 1012_Unbreakable_01.13.41.841-01.13.46.508 	the driver's door opens and a caped and hooded figure walks to the fence.
 1012_Unbreakable_01.14.27.391-01.14.32.425 	the man walks to the nearer of the two, not badly damaged at the back.
 1012_Unbreakable_01.18.58.803-01.19.01.470 	he starts to walk unhurriedly through the crowd.
 1012_Unbreakable_01.20.43.850-01.20.50.517 	david watches and starts to walk backwards, swallowing hard, and glancing at other people as they pass by.
 1012_Unbreakable_01.22.21.429-01.22.32.727 	the man walks at a steady pace along a dark street lined with cars, and up a long stairway lit by tall bright lamps on alternate sides.
-1012_Unbreakable_01.22.48.231-01.22.58.897 	the man continues up a street on a gentle incline, where large houses are set back from the road, and turns and walks up the path to a detached house with a mature tree in the front garden.
 1012_Unbreakable_01.27.07.056-01.27.13.723 	after a moment, he steps through the curtains onto a balcony and walks to the edge, raindrops glistening on his rain cape.
 1012_Unbreakable_01.33.17.004-01.33.22.671 	joseph, in a green t-shirt with white and gold bands around the middle, walks downstairs and into the kitchen.
 1012_Unbreakable_01.39.36.573-01.39.38.325 	elijah walks down the platform.
@@ -993,35 +768,25 @@
 1014_2012_01.59.39.947-01.59.42.558 	nearby, jackson and the others walk in towards the hedge.
 1014_2012_02.15.11.837-02.15.16.561 	up to his waist in the water, he walks away from the others.
 1014_2012_02.24.40.929-02.24.45.081 	he walks over to her,
-1014_2012_02.26.14.021-02.26.19.988 	people walk onto other decks which are spread all over the ark.
 1015_27_Dresses_00.01.39.195-00.01.42.491 	the two girls walk back down the aisle.
 1015_27_Dresses_00.03.14.045-00.03.18.950 	pausing for breath on a street corner, another young woman walks up wearing the same purple dress.
 1015_27_Dresses_00.14.09.191-00.14.11.215 	they walk into their office reception.
 1015_27_Dresses_00.17.05.185-00.17.08.035 	as gina walks off, jane looks exasperated.
 1015_27_Dresses_00.18.09.901-00.18.13.663 	jane looks pained as ruggedly handsome george walks off.
 1015_27_Dresses_00.24.34.423-00.24.38.248 	as tess and george leave, kevin walks up.
-1015_27_Dresses_00.24.54.806-00.25.00.628 	she hands him her drink, then turns and walks out of the club through a side door.
 1015_27_Dresses_01.13.11.173-01.13.17.333 	he walks back to the diner, his face in his hands.
-1015_27_Dresses_01.17.59.626-01.18.02.405 	tess looks puzzled as jane walks out.
-1015_27_Dresses_01.26.51.324-01.27.00.070 	he waits for a reaction, turns to walk away, then stops and comes back again.
 1015_27_Dresses_01.27.26.171-01.27.32.665 	he places it in her hand, gives her a lingering look, then walks away.
-1015_27_Dresses_01.28.10.336-01.28.17.762 	kevin is at his desk staring gloomily into space as maureen walks up.
 1015_27_Dresses_01.32.45.212-01.32.50.888 	george's eyes widen as she walks in wearing a stylish black dress.
 1015_27_Dresses_01.34.32.207-01.34.41.438 	he grabs her as she walks past and they kiss.
 1015_27_Dresses_01.37.03.683-01.37.08.106 	pleased with herself, she walks off but misses a step.
 1015_27_Dresses_01.39.22.592-01.39.28.847 	with a delighted smile, she walks into his arms and they kiss.
 1017_Bad_Santa_00.06.47.944-00.06.53.609 	out on the shop floor of the store, the elf walks along towing a small hand cart, santa pulls out the drill from the safe door.
-1017_Bad_Santa_00.13.14.208-00.13.21.535 	he walks up to one of the cars he's just unlocked, then presses another remote and turns to see a blue sports convertible.
 1017_Bad_Santa_00.22.10.837-00.22.17.175 	he walks on.
 1017_Bad_Santa_00.24.20.272-00.24.23.389 	willie gives marcus the finger as he walks away across the car park.
-1017_Bad_Santa_00.31.05.381-00.31.12.118 	grandma walks past willie, apparently unmoved by the fact that santa is wearing a black balaclava.
 1017_Bad_Santa_00.45.31.366-00.45.35.050 	again, gin, the security chief, walks up behind a boy pursuing a shelf of video games.
-1017_Bad_Santa_00.53.15.380-00.53.21.194 	willie turns the tap off, takes a slug of vodka, and walks back into the hall.
-1017_Bad_Santa_00.56.01.894-00.56.06.585 	gin walks into the prison visitors room where balding, bespectacled roger is sitting.
 1017_Bad_Santa_00.59.17.234-00.59.19.275 	then, eyes front, keeps walking down the street.
 1017_Bad_Santa_01.01.08.735-01.01.12.401 	the kid walks away still with his underpants up around his armpits.
 1017_Bad_Santa_01.07.08.677-01.07.12.325 	the kid walks into the garage and sees him.
-1017_Bad_Santa_01.07.17.063-01.07.21.815 	the kid walks over to the car and looks in through the driver's window.
 1017_Bad_Santa_01.12.01.342-01.12.06.454 	they walk a little closer.
 1017_Bad_Santa_01.18.25.977-01.18.28.004 	 marcus walks up to him.
 1017_Bad_Santa_01.21.02.981-01.21.13.758 	thurmond comes out of the house and walks over to willie as one of the bags catches alight.
@@ -1031,11 +796,8 @@
 1018_Body_Of_Lies_00.09.43.321-00.09.44.802 	bassam gives ferris the finger and walks down the track.
 1018_Body_Of_Lies_00.10.00.901-00.10.02.688 	bassam walks along the track with nizar.
 1018_Body_Of_Lies_00.15.08.788-00.15.17.031 	ferris hangs up, puts on his shades and walks down the track to bassam and nizar.
-1018_Body_Of_Lies_00.17.41.292-00.17.48.845 	hoffman takes a call from ferris, who walks with bassam.
-1018_Body_Of_Lies_00.19.51.987-00.19.57.662 	bassam looks through a telescopic sight at mehdi, a bearded man, as he walks out.
 1018_Body_Of_Lies_00.29.21.025-00.29.27.616 	skip walks out of the meeting room.
 1018_Body_Of_Lies_00.30.10.774-00.30.13.634 	bald, overweight holiday picks up his coat and walks out.
-1018_Body_Of_Lies_00.31.00.274-00.31.01.730 	he walks up steps to an entrance hall where a tall bearded man is waiting.
 1018_Body_Of_Lies_00.33.02.741-00.33.05.172 	they walk through the glass door and into the meeting room.
 1018_Body_Of_Lies_00.37.30.171-00.37.32.907 	they walk into a health clinic.
 1018_Body_Of_Lies_00.37.39.950-00.37.43.008 	the doctor leaves and the pretty young nurse, aisha, walks in.
@@ -1045,7 +807,6 @@
 1018_Body_Of_Lies_00.45.40.840-00.45.44.991 	ferris watches hani walk up to the kneeling figure.
 1018_Body_Of_Lies_00.48.13.152-00.49.06.221 	later, walking back to his apartment, he's on the phone.
 1018_Body_Of_Lies_00.55.09.321-00.55.11.644 	he walks through the market.
-1018_Body_Of_Lies_00.55.28.343-00.55.42.880 	karami takes off his shades and reads a newspaper as he walks down a narrow street.
 1018_Body_Of_Lies_00.57.18.959-00.57.21.330 	she walks out.
 1018_Body_Of_Lies_01.00.11.831-01.00.13.568 	they walk off.
 1018_Body_Of_Lies_01.00.48.551-01.00.51.306 	aisha walks off.
@@ -1064,8 +825,6 @@
 1018_Body_Of_Lies_01.31.49.757-01.32.21.554 	in a park, hoffman calls ferris, who's walking through an airport terminal.
 1018_Body_Of_Lies_01.32.44.687-01.32.54.204 	ferris walks up and follows him to his car.
 1018_Body_Of_Lies_01.37.05.662-01.37.10.502 	he walks into the living room.
-1018_Body_Of_Lies_01.37.11.351-01.37.14.195 	he takes out a photograph of him and aisha walking down a street.
-1018_Body_Of_Lies_01.38.19.728-01.38.28.927 	he walks into aisha's apartment and looks around, his face aglow with sweat.
 1018_Body_Of_Lies_01.38.46.160-01.38.51.239 	he walks out onto the balcony and makes a phone call.
 1018_Body_Of_Lies_01.38.53.552-01.38.57.765 	ferris walks up and two bodyguards stop him.
 1018_Body_Of_Lies_01.39.13.520-01.39.20.718 	hani leaves his attractive female companion and walks off with ferris.
@@ -1075,7 +834,6 @@
 1018_Body_Of_Lies_02.00.21.880-02.00.27.445 	ferris, much of the bruising on his face gone, walks along an arcade, past market traders.
 1019_Confessions_Of_A_Shopaholic_00.51.33.696-00.51.37.049 	later, they walk back to their hotel.
 1019_Confessions_Of_A_Shopaholic_01.32.25.780-01.32.33.257 	she walks towards the blonde purchaser, and places it in her outstretched hands.
-1019_Confessions_Of_A_Shopaholic_01.36.06.407-01.36.21.501 	she turns away from the church and starts walking across a city street in her pink bridesmaid dress, with a heavy tulle petticoat and long, white gloves.
 1019_Confessions_Of_A_Shopaholic_01.36.33.084-01.36.34.638 	she walks past the window of yves st. laurent.
 1019_Confessions_Of_A_Shopaholic_01.37.02.053-01.37.10.037 	but then, with a little shake of the head, she walks on.
 1020_Crazy_Stupid_Love_00.15.08.164-00.15.12.834 	she walks along by the truck, her arms folded,
@@ -1105,9 +863,7 @@
 1026_Legion_00.07.24.673-00.07.30.816 	in the early morning light he walks away from the big gray trailer.
 1026_Legion_00.13.59.408-00.14.06.075 	jeep, holding an old wooden cot, stares at them, then walks away.
 1026_Legion_00.22.34.458-00.22.36.361 	walks a little.
-1026_Legion_00.25.28.531-00.25.33.173 	jeep looks across at the old lady and starts to walk towards her.
 1026_Legion_00.39.43.924-00.39.56.048 	drivers and passengers emerge from them and walk sedately towards the diner.
-1026_Legion_00.46.07.285-00.46.09.268 	he loads an assault rifle, turns, and walks away from them.
 1026_Legion_00.52.15.483-00.52.21.452 	he walks over to jeep.
 1026_Legion_00.56.14.796-00.56.19.664 	she slowly walks through the diner with her arms held stiffly away from her sides.
 1026_Legion_01.02.00.528-01.02.03.488 	she stamps on the cigarette, grabs her jacket, and walks out.
@@ -1117,47 +873,36 @@
 1026_Legion_01.15.34.369-01.15.40.334 	he stands, grasps her shoulder for a moment, and walks away.
 1026_Legion_01.16.04.502-01.16.06.798 	bob and jeep walk into the diner.
 1026_Legion_01.19.48.866-01.19.54.150 	michael walks up to gabriel.
-1026_Legion_01.30.48.607-01.31.00.184 	they walk out onto a rocky promontory together and look down on a small town in the valley far below.
 1027_Les_Miserables_00.06.19.004-00.06.23.188 	he walks up a snow-covered hillside, a lonely figure silhouetted against the skyline.
 1027_Les_Miserables_00.13.08.141-00.13.24.689 	having walked away from the altar, he returns and sinks to his knees.
 1027_Les_Miserables_00.40.16.497-00.40.27.272 	the nurse dabs her semiconscious patient's forehead with a cloth, then rises and walks out of the room.
-1027_Les_Miserables_00.53.34.352-00.53.38.480 	madame thenardier walks up and takes the bucket.
 1027_Les_Miserables_01.02.11.372-01.02.14.677 	he walks off.
 1027_Les_Miserables_01.03.41.397-01.03.49.277 	he closes a bible and walks out to a ledge overlooking paris.
 1027_Les_Miserables_01.10.52.065-01.10.54.278 	marius walked out onto the street.
-1027_Les_Miserables_01.10.54.278-01.10.59.315 	he stops to let a carriage cross, and is about to walk on when something catches his eye.
 1027_Les_Miserables_01.15.11.241-01.15.13.663 	as she walks off, he grabs her arm.
 1027_Les_Miserables_01.20.15.643-01.20.17.352 	she walks out.
 1027_Les_Miserables_01.23.30.240-01.23.38.921 	cosette looks chastened and walks out of the front door.
 1027_Les_Miserables_01.23.39.820-01.23.41.921 	marius walks down a dark street pursued by eponine.
 1027_Les_Miserables_01.26.59.637-01.27.01.858 	he picks it up and walks off.
 1027_Les_Miserables_01.27.07.644-01.27.11.365 	thenardier walks down the street with one of his cohorts, babet.
-1027_Les_Miserables_01.50.37.484-01.50.39.567 	javert walks off and turns back.
 1027_Les_Miserables_01.51.53.645-01.51.54.915 	javert walks off.
 1027_Les_Miserables_02.03.01.100-02.03.05.568 	later on the cobble street below, javert, now in uniform, walks through a puddle of blood.
-1027_Les_Miserables_02.03.14.572-02.03.15.526 	javert walks into the building where the protesters took refuge.
 1027_Les_Miserables_02.07.01.676-02.07.04.296 	valjean turns and walks away.
 1027_Les_Miserables_02.07.16.307-02.07.20.918 	javert starts to walk away.
-1027_Les_Miserables_02.17.45.772-02.17.51.322 	valjean bows, and marius, his arm no longer in a sling but still walking with a limp, takes his leave.
 1027_Les_Miserables_02.21.18.993-02.21.23.073 	a nun walks slowly out of the sanctuary in the convent.
 1028_No_Reservations_00.04.51.844-00.04.54.422 	ken and his wife walk off.
 1028_No_Reservations_00.05.33.042-00.05.37.468 	snow falls as kate walks along a new york street.
 1028_No_Reservations_00.07.57.697-00.07.59.792 	kate walks down a flight of stairs in her apartment building.
 1028_No_Reservations_00.08.48.000-00.08.50.486 	she walks back up the curving staircase to her apartment.
 1028_No_Reservations_00.11.36.258-00.11.38.207 	kate reluctantly walk over to the phone.
-1028_No_Reservations_00.12.01.001-00.12.06.151 	kate walks into the room, where young zoe is lying in bed, her eyes closed.
-1028_No_Reservations_00.12.06.151-00.12.15.487 	kate walks around the bed and looks down sadly at her niece, who has grazes above and below her right eye.
 1028_No_Reservations_00.12.53.614-00.12.55.190 	dr. barton pats kate on the shoulder and walks away.
 1028_No_Reservations_00.13.58.438-00.13.59.286 	kate walks wearily into her apartment.
 1028_No_Reservations_00.13.59.286-00.14.05.521 	she removes her long, red scarf from around her neck and walks over to the answer machine.
-1028_No_Reservations_00.14.22.928-00.14.26.494 	she turns and walks back towards the door.
-1028_No_Reservations_00.15.16.478-00.15.19.438 	without looking at paula, kate walks away.
 1028_No_Reservations_00.18.57.653-00.18.58.863 	kate walks down a hallway.
 1028_No_Reservations_00.19.05.077-00.19.08.165 	zoe walks slowly into her new bedroom.
 1028_No_Reservations_00.19.27.296-00.19.31.654 	the two of them walk slowly away.
 1028_No_Reservations_00.21.15.097-00.21.20.462 	kate rounds a corner and enters the restaurant, walking straight past paula who's standing by the door chatting to two customers.
 1028_No_Reservations_00.21.43.800-00.21.47.858 	kate walks into the kitchen.
-1028_No_Reservations_00.24.59.863-00.25.04.733 	she takes the chopsticks off the door and walks inside.
 1028_No_Reservations_00.25.07.695-00.25.11.524 	she walks down the hallway to zoe's bedroom.
 1028_No_Reservations_00.25.23.969-00.25.29.775 	kate walks into the bathroom and enters her bedroom through an adjoining door.
 1028_No_Reservations_00.25.36.417-00.25.43.815 	kate walks over and moves it aside, along with a wicker laundry basket.
@@ -1165,49 +910,31 @@
 1028_No_Reservations_00.30.01.492-00.30.04.798 	inside the school, kate and zoe walk down a corridor decorated with children's drawings.
 1028_No_Reservations_00.31.52.651-00.31.56.247 	she smiles as she sees zoe walking out on her own.
 1028_No_Reservations_00.31.58.069-00.32.00.358 	the two of them walk along the street together.
-1028_No_Reservations_00.33.08.240-00.33.10.764 	kate looks round as zoe walks past.
 1028_No_Reservations_00.33.29.030-00.33.31.746 	kate walks off towards zoe's room.
-1028_No_Reservations_00.34.27.377-00.34.30.416 	kate walks past them and turns off the cd player.
 1028_No_Reservations_00.37.17.245-00.37.18.818 	she walks off.
 1028_No_Reservations_00.39.36.523-00.39.37.664 	she walks off.
-1028_No_Reservations_00.39.59.848-00.40.07.126 	she looks up, as nick enters the fridge and walks up to her.
 1028_No_Reservations_00.41.28.284-00.41.28.324 	he walks off, past her.
 1028_No_Reservations_00.43.16.977-00.43.21.141 	she walks slowly out of the bedroom and makes to close the door behind her.
 1028_No_Reservations_00.43.26.000-00.43.30.000 	the next day, kate and zoe walk down the street towards the restaurant.
 1028_No_Reservations_00.46.28.854-00.46.32.753 	walking back into the kitchen, kate picks up her apron and ties it around her waist.
 1028_No_Reservations_00.48.16.224-00.48.22.026 	kate pulls on a dark berber-style jacket, as she walks through to the lounge to pick up her mobile.
 1028_No_Reservations_00.52.06.000-00.52.09.000 	kate walks into hers.
-1028_No_Reservations_00.53.13.219-00.53.17.283 	kate looks down, then turns and starts to walk out of the room.
 1028_No_Reservations_00.54.30.930-00.54.33.126 	he chats on the phone in the office, as zoe fills the bowls with potatoes and walks off with it.
-1028_No_Reservations_00.55.46.000-00.55.53.587 	zoe, who's been walking along park benches next to kate, stops and leans across to whisper in kate's ear.
 1028_No_Reservations_00.55.59.850-00.56.03.557 	zoe jumps down and walks ahead.
-1028_No_Reservations_01.06.18.109-01.06.25.934 	in the park, zoe is walking on the benches.
 1028_No_Reservations_01.21.29.981-01.21.33.055 	the trio walk down a cold, sunny new york street.
-1028_No_Reservations_01.33.22.282-01.33.31.014 	kate brushes off her long, black coat and takes zoe's hand as they walk away from the grave towards nick, who's been watching from a distance.
-1029_Pride_And_Prejudice_Disk_One_00.02.00.654-00.02.09.222 	she turns as she walks, taking in the green and earthy countryside all around her, before breaking out into a canter.
 1029_Pride_And_Prejudice_Disk_One_00.02.24.486-00.02.26.853 	she walks on, towards the village beyond.
 1029_Pride_And_Prejudice_Disk_One_00.09.15.297-00.09.19.199 	then walks out of the room.
-1029_Pride_And_Prejudice_Disk_One_00.37.52.846-00.37.54.479 	lizzie, lydia and kitty are walking arm-in-arm through meryton.
-1029_Pride_And_Prejudice_Disk_One_00.38.09.013-00.38.12.282 	lizzie is walking through a field, holding her bonnet in her hand.
 1029_Pride_And_Prejudice_Disk_One_00.38.37.094-00.38.41.251 	as she gets closer, she walks under the shadow of a tree,
-1029_Pride_And_Prejudice_Disk_One_00.42.49.166-00.42.52.492 	now lizzie is walking down a staircase.
 1029_Pride_And_Prejudice_Disk_One_00.43.10.337-00.43.15.605 	she walks into a dark corridor.
 1029_Pride_And_Prejudice_Disk_One_00.47.37.989-00.47.44.445 	darcy walks away.
-1029_Pride_And_Prejudice_Disk_One_00.49.16.970-00.49.18.636 	lizzie is walking through the grounds.
 1029_Pride_And_Prejudice_Disk_One_00.50.23.045-00.50.27.805 	miss bingley walks over to darcy, who's engrossed in a book.
-1029_Pride_And_Prejudice_Disk_One_00.56.33.251-00.56.34.918 	lizzie is walking through the countryside.
-1029_Pride_And_Prejudice_Disk_One_01.03.17.183-01.03.23.068 	mr. collins is walking with mrs. bennet.
-1029_Pride_And_Prejudice_Disk_One_01.04.23.174-01.04.43.223 	now the sisters are walking over a stone bridge, accompanied by mr. collins.
 1029_Pride_And_Prejudice_Disk_One_01.25.55.190-01.26.04.364 	he slowly walks around the dancers passing mrs. bennet deep in conversation.
 1029_Pride_And_Prejudice_Disk_One_01.37.45.288-01.37.47.902 	darcy walks away.
 1029_Pride_And_Prejudice_Disk_One_02.02.47.590-02.02.51.001 	mr. bennet walks out.
 1029_Pride_And_Prejudice_Disk_One_02.06.44.846-02.06.49.387 	mrs. bennet purses her lips, exchanges a glance with her sister and haughtily walks off.
 1029_Pride_And_Prejudice_Disk_One_02.12.25.180-02.12.29.845 	jane walks out,
-1029_Pride_And_Prejudice_Disk_One_02.19.55.949-02.20.02.099 	she takes lizzie into the drawing room and walks over to the window.
-1029_Pride_And_Prejudice_Disk_One_02.25.25.054-02.25.31.600 	maria, charlotte, and lizzie are walking outside in the gardens.
 1030_Public_Enemies_00.01.29.313-00.01.33.600 	both wearing long overcoats, they walk across the street toward the prison.
 1030_Public_Enemies_00.08.13.557-00.08.18.727 	as dillinger turns and walks away from the farm house, the woman continues to gaze after him.
-1030_Public_Enemies_00.18.13.258-00.18.16.255 	as they walk down a hall, suydam takes notes.
 1030_Public_Enemies_00.52.49.946-00.52.54.629 	both men walk with their hands in their pockets.
 1030_Public_Enemies_01.12.16.489-01.12.28.618 	now, hoover and purvis walk down a hall.
 1030_Public_Enemies_01.51.34.286-01.51.40.002 	purvis' gaze follows her as she walks around his vehicle.
@@ -1215,32 +942,23 @@
 1030_Public_Enemies_02.01.35.288-02.01.37.653 	another character walks in.
 1030_Public_Enemies_02.04.52.994-02.05.06.567 	dillinger steps into plain view, walking between anna and polly.
 1031_Quantum_of_Solace_00.18.42.697-00.18.52.975 	closing the door behind him, he walks into the apartment.
-1031_Quantum_of_Solace_00.20.21.753-00.20.27.482 	he takes the metal case and walks out.
-1031_Quantum_of_Solace_00.25.55.262-00.26.00.971 	he gives the guard a card and looks up at a security camera before walking off.
-1031_Quantum_of_Solace_00.33.15.504-00.33.17.656 	and walks past luxury sailing yachts being maneuvered on trailers.
 1031_Quantum_of_Solace_00.35.48.362-00.35.50.879 	greene walks onto an executive jet.
 1031_Quantum_of_Solace_00.39.17.586-00.39.20.511 	greene walks upstairs.
 1031_Quantum_of_Solace_00.39.38.204-00.39.44.518 	bond walks down a plain white corridor, opens a door and steps inside.
-1031_Quantum_of_Solace_00.44.14.546-00.44.20.267 	bond emerges near the side of the stage, removes his earpiece and walks out just yards away from where white is sitting.
 1031_Quantum_of_Solace_00.47.34.988-00.47.40.317 	he walks pensively away from the desk then goes back.
 1031_Quantum_of_Solace_00.47.49.068-00.47.52.641 	he grins and walks off.
 1031_Quantum_of_Solace_00.49.08.682-00.49.11.549 	she can't walks off.
-1031_Quantum_of_Solace_00.55.32.899-00.55.34.780 	he takes off his jacket and walks into the bathroom.
 1031_Quantum_of_Solace_01.04.21.210-01.04.27.931 	they walk off, leaving the body slumped amid the rubbish bags in the dumpster.
 1031_Quantum_of_Solace_01.15.52.743-01.15.57.301 	they walk down a tunnel with the roof held up by wooden supports.
 1031_Quantum_of_Solace_01.23.00.313-01.23.02.805 	a guy in a leather jacket walks to the bar.
 1031_Quantum_of_Solace_01.40.08.888-01.40.14.956 	as bond comes out into the snow, two agents walk indoors.
 1031_Quantum_of_Solace_01.41.18.748-01.41.23.776 	m gives a half smile as he walks off into the snowy night.
-1031_Quantum_of_Solace_01.41.25.934-01.41.29.378 	his face is expressionless as he walks away.
 1033_Sherlock_Holmes_A_Game_of_Shadows_00.01.54.620-00.01.58.286 	irene walks down steps.
-1033_Sherlock_Holmes_A_Game_of_Shadows_00.01.59.620-00.02.02.312 	holmes walks up and takes her arm.
 1033_Sherlock_Holmes_A_Game_of_Shadows_00.04.18.920-00.04.22.586 	the peelers walk away.
 1033_Sherlock_Holmes_A_Game_of_Shadows_00.12.18.024-00.12.21.940 	he walks in.
 1033_Sherlock_Holmes_A_Game_of_Shadows_00.32.53.167-00.32.59.497 	holmes gets out of the vehicle, walks round it and shoves watson again.
 1033_Sherlock_Holmes_A_Game_of_Shadows_00.34.29.222-00.34.35.624 	as watson and his bride leave the church, they walk beneath the raised swords of several guardsmen.
-1033_Sherlock_Holmes_A_Game_of_Shadows_00.35.46.647-00.35.49.313 	holmes walks into a room where a gramophone is playing.
 1033_Sherlock_Holmes_A_Game_of_Shadows_00.44.33.385-00.44.38.052 	he applies lipstick in the corridor and the conductor walks past him as he stands outside the lavatory.
-1033_Sherlock_Holmes_A_Game_of_Shadows_00.51.12.905-00.51.16.695 	holmes takes the hanky and walks over to the railing.
 1033_Sherlock_Holmes_A_Game_of_Shadows_01.05.55.330-01.06.00.890 	holmes, watson, and sim walk past stagehands in the wings.
 1033_Sherlock_Holmes_A_Game_of_Shadows_01.06.20.707-01.06.26.095 	holmes walks over to one of the stagehands and flings him out of the way.
 1033_Sherlock_Holmes_A_Game_of_Shadows_01.15.06.462-01.15.13.563 	as the gypsies walk the horses along a narrow track, one of them rears up.
@@ -1260,7 +978,6 @@
 1035_The_Adjustment_Bureau_00.22.45.185-00.22.53.406 	as david races down a corridor, the white-haired boss opens a door off the hall and walks through.
 1035_The_Adjustment_Bureau_00.31.32.452-00.31.37.621 	he walks down the aisle.
 1035_The_Adjustment_Bureau_00.35.21.429-00.35.23.648 	as he walks amid the flowing pedestrians, the screen fades to black.
-1035_The_Adjustment_Bureau_00.48.56.706-00.49.01.112 	the rebuffed cop looks to richardson, then walks away.
 1035_The_Adjustment_Bureau_00.51.08.810-00.51.12.927 	as richardson walks off, david's gaze returns to elise.
 1035_The_Adjustment_Bureau_00.52.52.401-00.53.00.390 	meanwhile, david and elise walk together.
 1035_The_Adjustment_Bureau_01.02.57.357-01.03.00.290 	david texts as he walks through the doorway.
@@ -1271,8 +988,6 @@
 1037_The_Curious_Case_Of_Benjamin_Button_00.18.50.428-00.18.56.290 	an elderly resident wedges his walking stick between benjamin's wooden spokes, stopping him.
 1037_The_Curious_Case_Of_Benjamin_Button_00.30.26.177-00.30.29.912 	dwarfed by philomena, mr. oti walks away.
 1037_The_Curious_Case_Of_Benjamin_Button_00.37.30.176-00.37.33.165 	she scratches her head thoughtfully as he walks away.
-1037_The_Curious_Case_Of_Benjamin_Button_00.39.17.816-00.39.22.483 	smiling, oti takes a step back, then turns and walks briskly out of the door.
-1037_The_Curious_Case_Of_Benjamin_Button_01.03.05.201-01.03.12.926 	she walks into the kitchen and benjamin looks up.
 1037_The_Curious_Case_Of_Benjamin_Button_01.11.06.218-01.11.12.075 	she gets up from the table and walks away.
 1037_The_Curious_Case_Of_Benjamin_Button_01.11.30.042-01.12.03.905 	they walk through the deserted, snowy streets.
 1037_The_Curious_Case_Of_Benjamin_Button_01.12.03.905-01.12.19.668 	they walk arm in arm, the streetlights dimly illuminating their way.
@@ -1293,7 +1008,6 @@
 1037_The_Curious_Case_Of_Benjamin_Button_02.06.25.475-02.06.31.608 	daisy watches as benjamin walks to the foot of the stairs.
 1037_The_Curious_Case_Of_Benjamin_Button_02.10.42.126-02.10.45.321 	wearing a patchwork blanket around his shoulders and carrying two mugs, benjamin walks up from behind the parked motorbike.
 1037_The_Curious_Case_Of_Benjamin_Button_02.30.51.450-02.31.00.874 	he leans on the windowsill as she walks to a taxi.
-1037_The_Curious_Case_Of_Benjamin_Button_02.32.43.295-02.32.53.100 	she walks into the communal living area, where a figure is hunched over the keyboard of the piano.
 1038_The_Great_Gatsby_00.12.35.483-00.12.39.397 	in the dark, a man walks towards the end of a long, narrow, raised dock which juts out into the bay.
 1038_The_Great_Gatsby_00.13.37.000-00.13.39.469 	the doctor walks over to him.
 1038_The_Great_Gatsby_00.17.36.744-00.17.42.756 	nick tentatively walks to the door.
@@ -1304,19 +1018,15 @@
 1038_The_Great_Gatsby_00.40.30.573-00.40.40.223 	they walk through the sliding door which has the barber's price list on it.
 1038_The_Great_Gatsby_00.47.00.420-00.47.09.670 	nick and jordan walk arm-in-arm along a busy city street.
 1038_The_Great_Gatsby_00.50.36.049-00.50.39.622 	gatsby turns and walks away.
-1038_The_Great_Gatsby_00.54.41.546-00.54.45.349 	he walks into the flower-filled room and stops for a moment to look at daisy.
 1038_The_Great_Gatsby_00.59.48.743-00.59.51.107 	gatsby walks back inside.
 1038_The_Great_Gatsby_00.59.59.492-01.00.02.863 	they walk up the drive.
 1038_The_Great_Gatsby_01.03.15.476-01.03.19.132 	nick walks away somberly.
 1038_The_Great_Gatsby_01.11.12.727-01.11.20.931 	they walk through the party with nick.
-1038_The_Great_Gatsby_01.15.50.479-01.15.51.463 	looking slightly disheveled, tom walks up behind him.
 1038_The_Great_Gatsby_01.24.45.006-01.24.45.558 	nick starts to walk away.
 1038_The_Great_Gatsby_01.27.44.977-01.27.46.785 	herzog turns and walks off.
 1038_The_Great_Gatsby_01.45.54.430-01.46.01.209 	they get out and walk towards wilson's garage, where a crowd has gathered.
 1038_The_Great_Gatsby_01.48.29.197-01.48.31.370 	the cop walks away.
 1038_The_Great_Gatsby_01.50.22.905-01.50.23.584 	tom walks up and opens the front door.
-1038_The_Great_Gatsby_01.50.55.143-01.51.00.917 	looking deeply troubled, his brow pinched, nick turns and walks off.
-1038_The_Great_Gatsby_01.51.07.737-01.51.13.692 	nick looks around incredulously and walks over to gatsby, who's hiding behind a bush.
 1038_The_Great_Gatsby_01.54.10.013-01.54.12.173 	nick surreptitiously walks around to the terrace.
 1038_The_Great_Gatsby_01.58.58.302-01.59.01.290 	gatsby and nick walk down steps and across the ornamental terrace, towards the pool.
 1039_The_Queen_00.02.30.376-00.02.33.736 	a lone pipo walks along a long colonnade at buckingham palace.
@@ -1333,12 +1043,10 @@
 1039_The_Queen_01.07.18.972-01.07.22.014 	outside balmoral, the queen walks with some corgis.
 1039_The_Queen_01.07.31.989-01.07.36.655 	the queen walks back to balmoral with the corgis running after her.
 1039_The_Queen_01.10.17.758-01.10.19.375 	the queen stops walking for a moment.
-1039_The_Queen_01.13.09.580-01.13.10.609 	they walk up to the huge collection of flowers, which are arranged outside the gate.
 1039_The_Queen_01.13.31.681-01.13.40.217 	tony smiles, walks to the kitchen table and playfully messes up the hair of one of his sons.
 1039_The_Queen_01.22.27.373-01.22.30.039 	she walks up to the barriers to meet the people.
 1039_The_Queen_01.23.10.356-01.23.12.022 	as the queen walks, prince philip follows close by.
 1039_The_Queen_01.24.08.074-01.24.11.740 	the queen walks to a nearby table and puts the sheet down.
-1039_The_Queen_01.24.12.074-01.24.18.058 	she studies it for a moment before walking up to a podium that has been placed in front of a window.
 1039_The_Queen_01.34.46.386-01.34.59.397 	the queen and tony leave the room and walk down a corridor.
 1039_The_Queen_01.35.24.091-01.35.28.300 	they continue walking down the corridor.
 1039_The_Queen_01.36.29.329-01.36.38.395 	they walk off down the corridor side-by-side.
@@ -1349,11 +1057,9 @@
 1040_The_Ugly_Truth_01.08.04.666-01.08.07.523 	mike walks up to a hostess.
 1040_The_Ugly_Truth_01.10.17.907-01.10.20.528 	a waitress walks up.
 1040_The_Ugly_Truth_01.12.53.756-01.12.58.162 	abby carries her shoes as she walks with mike to an elevator.
-1040_The_Ugly_Truth_01.14.26.154-01.14.31.569 	mike's mouth hangs open, and he walks off, looking shocked.
 1040_The_Ugly_Truth_01.16.25.272-01.16.31.423 	mike walks up to abby's door and knocks.
 1040_The_Ugly_Truth_01.21.32.990-01.21.36.292 	abby walks up to stuart.
 1041_This_is_40_00.43.24.295-00.43.27.185 	now, they hold hands as they walk away from the beach.
-1041_This_is_40_00.50.43.497-00.50.47.008 	she takes a brief look, then walks away.
 1041_This_is_40_00.56.03.013-00.56.06.961 	pete spots his dad and walks away.
 1041_This_is_40_01.07.16.526-01.07.20.715 	walking a more isolated path, debbie spots a blonde boy with a prop.
 1041_This_is_40_01.19.53.803-01.20.02.615 	she covers herself and walks away, as pete remains in bed fully clothed with sneakers on.
@@ -1372,7 +1078,6 @@
 1042_Up_In_The_Air_00.31.06.387-00.31.14.206 	as they walk through the terminal building, ryan gets a call from alex.
 1042_Up_In_The_Air_00.36.11.607-00.36.14.871 	a woman stares as he walks past the queue and up to the desk.
 1042_Up_In_The_Air_00.40.35.288-00.40.38.063 	she walks off.
-1042_Up_In_The_Air_00.43.17.746-00.43.22.521 	ryan and natalie walk into a large open-plan office which has already been cleared, apart from a few chairs and a couple of desks.
 1042_Up_In_The_Air_00.45.08.887-00.45.13.778 	they walk out past a car rental office.
 1042_Up_In_The_Air_00.53.20.768-00.53.27.585 	they walk through the lobby.
 1042_Up_In_The_Air_01.00.43.179-01.00.54.715 	they walk along a pier.
@@ -1384,9 +1089,7 @@
 1042_Up_In_The_Air_01.12.44.215-01.12.50.339 	alex and ryan walk into their gaudily furnished room.
 1042_Up_In_The_Air_01.17.51.484-01.17.56.455 	they tramp across some snow and walk up to the entrance.
 1042_Up_In_The_Air_01.20.10.914-01.20.16.414 	he walks into the church and finds julie sitting with her bridesmaids, crying.
-1042_Up_In_The_Air_01.24.53.716-01.25.04.176 	jim walks over to julie, kneels down and takes her hands in his.
 1042_Up_In_The_Air_01.25.44.196-01.25.46.938 	ryan and alex sit watching as flower girls walk down the aisle.
-1042_Up_In_The_Air_01.25.51.047-01.25.58.613 	everyone looks around as julie walks down the aisle, arm-in -arm with jim's uncle.
 1042_Up_In_The_Air_01.26.00.799-01.26.02.940 	julie and jim walk up to the priest, who conducts the ceremony.
 1042_Up_In_The_Air_01.26.25.356-01.26.27.727 	julie and jim walk up the aisle, arm-in-arm.
 1042_Up_In_The_Air_01.28.28.303-01.28.29.894 	she walks off.
@@ -1394,34 +1097,19 @@
 1042_Up_In_The_Air_01.32.39.659-01.32.53.311 	leaving the lights on, ryan gets out of the car, jogs along a pavement and walks up to a large suburban town house.
 1042_Up_In_The_Air_01.43.12.385-01.43.22.545 	smartly suited and pulling his wheelie case along behind him, he walks up to the arrival/departure board.
 1043_Vantage_Point_00.04.50.032-00.04.58.189 	barnes, a man in his 50s with a furrowed brow, glances all around, scanning rooftops and the protesters as he walks ahead of the president.
-1043_Vantage_Point_00.10.09.066-00.10.15.058 	in a hotel corridor, barnes puts on his jacket as he walks in front of a large window against which he is silhouetted.
-1043_Vantage_Point_00.12.24.326-00.12.32.611 	his narrow face is permanently grim as he turns from the cameras and walks around the car to join taylor and the president.
 1043_Vantage_Point_00.13.47.815-00.13.50.524 	the balding man now walks to a lectern.
 1043_Vantage_Point_00.23.20.076-00.23.23.686 	as he approaches them, the short cropped-haired man walks away.
-1043_Vantage_Point_00.24.38.076-00.24.45.771 	he turns and walks to security barrier, where he shows his id.
 1043_Vantage_Point_00.31.09.727-00.31.15.121 	howard walks away from the kids and resumes videoing.
 1043_Vantage_Point_00.33.45.271-00.33.51.506 	howard moves forward as the mayor walks to the lectern.
-1043_Vantage_Point_00.58.14.457-00.58.17.350 	sam turns his back and walks away.
 1043_Vantage_Point_00.58.40.645-00.58.45.899 	in the crowd, sam fiddles with his phone as he walks.
-1043_Vantage_Point_01.22.47.475-01.22.52.017 	walking alongside, barnes looks down.
 1044_Pride_And_Prejudice_Disk_Two_00.06.10.830-00.06.14.095 	georgiana and wickham walk arm-in-arm by the sea.
-1044_Pride_And_Prejudice_Disk_Two_00.06.53.762-00.07.04.655 	when the door has closed behind wickham, georgiana turns her sorrowful gaze to darcy, then slowly walks over to be comforted by him.
 1044_Pride_And_Prejudice_Disk_Two_00.10.24.368-00.10.32.312 	lizzy folds up the letter and walks off.
-1044_Pride_And_Prejudice_Disk_Two_00.13.11.032-00.13.22.491 	lizzie is now walking with mr. collins.
 1044_Pride_And_Prejudice_Disk_Two_00.25.20.088-00.25.24.471 	she walks around jane, who's busy sniffing blooms to put in her truck.
-1044_Pride_And_Prejudice_Disk_Two_00.50.40.387-00.50.46.113 	he walks off and mrs. gardiner takes lizzie's arm.
-1044_Pride_And_Prejudice_Disk_Two_00.50.58.998-00.51.03.630 	they set off after darcy and mr. gardiner, who are walking a few paces ahead.
-1044_Pride_And_Prejudice_Disk_Two_00.55.17.889-00.55.23.096 	lizzie is walking down a narrow, cobbled street.
 1044_Pride_And_Prejudice_Disk_Two_01.03.56.950-01.04.06.031 	now, he's walking through the magnificent portrait-lined hall at pemberley, holding aloft a candle to light his way.
-1044_Pride_And_Prejudice_Disk_Two_01.14.13.029-01.14.18.115 	at the door, he stops and looks back at lizzie for a moment before finally walking out.
 1044_Pride_And_Prejudice_Disk_Two_01.20.30.022-01.20.38.226 	she shuts the door behind her, then walks over to her sister.
-1044_Pride_And_Prejudice_Disk_Two_01.24.09.634-01.24.15.341 	she walks over to lizzie and takes her hand.
-1044_Pride_And_Prejudice_Disk_Two_01.50.24.732-01.50.29.399 	lydia walks down the aisle, grinning, and takes her place beside mr. wickham at the altar.
-1044_Pride_And_Prejudice_Disk_Two_01.54.03.270-01.54.04.937 	later, the girls are out walking.
 1044_Pride_And_Prejudice_Disk_Two_01.57.30.211-01.57.33.290 	they walk together in the gardens of longbourn.
 1044_Pride_And_Prejudice_Disk_Two_02.12.37.555-02.12.47.506 	she treads silently up to the door of the parlor, then walks inside to find her sister and mr. bingley standing together at the mantelpiece.
 1044_Pride_And_Prejudice_Disk_Two_02.16.11.506-02.16.14.205 	they walk indoors together arm in arm.
-1044_Pride_And_Prejudice_Disk_Two_02.26.59.162-02.27.05.382 	lizzie and mr. darcy are left to walk onwards alone.
 1044_Pride_And_Prejudice_Disk_Two_02.28.47.876-02.28.52.514 	they walk on together.
 1044_Pride_And_Prejudice_Disk_Two_02.30.23.368-02.30.28.060 	the two couples walk on down the country lane.
 1044_Pride_And_Prejudice_Disk_Two_02.34.35.911-02.34.42.578 	outside the church, two young girls hold up an arch of green foliage and berries for mr. bingley and jane to walk under.
@@ -1439,27 +1127,21 @@
 1045_An_education_01.15.35.575-01.15.42.458 	jenny walks down a corridor carrying her blazer and satchel.
 1045_An_education_01.15.45.592-01.15.57.811 	she glances into her classroom as she walks out of the school's main doors.
 1045_An_education_01.15.58.695-01.16.14.507 	she walks down the pavement, then breaks into a run.
-1045_An_education_01.22.29.633-01.22.42.250 	she turns on her heel and walks indoors.
 1045_An_education_01.26.38.767-01.26.41.458 	jenny walks away down the street.
 1045_An_education_01.33.55.337-01.33.57.801 	he ruffles his daughter's hair as he walks past.
 1046_Australia_00.11.25.000-00.11.27.657 	she walks out as drover hurls bull into her luggage.
 1046_Australia_00.15.57.251-00.16.00.736 	he walks towards her with a raised eyebrow.
 1046_Australia_00.19.56.724-00.20.00.820 	drover, shrouded in smoke, walks past a dead cow.
-1046_Australia_00.27.17.908-00.27.25.000 	wearing an orange dress, she looks at fletcher, then walks away from him and the cabin.
 1046_Australia_00.27.35.430-00.27.38.000 	sarah walks out onto the veranda of the main house.
 1046_Australia_00.29.01.000-00.29.06.066 	nullah walks slowly to him.
 1046_Australia_00.39.13.830-00.39.17.061 	he eyes her and walks off.
 1046_Australia_00.42.55.644-00.42.58.713 	one man walks slowly towards the tank.
-1046_Australia_00.44.35.000-00.44.40.508 	the tracker walks slowly away as the windmill turns faster.
-1046_Australia_00.48.30.338-00.48.32.874 	she walks to where nullah is grieving.
 1046_Australia_01.08.32.000-01.08.34.000 	drover walks up beside her.
 1046_Australia_01.14.41.525-01.14.45.558 	he gives a tight smile and walks off.
-1046_Australia_01.28.53.618-01.28.59.405 	he looks her in the eye and walks off, leaving her uncomfortable and disappointed.
 1046_Australia_01.40.30.683-01.40.35.234 	a servant holds an umbrella over carney's head as he walks up to the fallen fletcher.
 1046_Australia_01.40.50.806-01.40.54.355 	he scowls at his drunken son-in-law and walks off.
 1046_Australia_01.54.16.574-01.54.21.364 	he walks towards magarri and the horses, as her eyes fill with tears.
 1046_Australia_02.05.14.258-02.05.17.697 	sarah walks into the army operations room.
-1046_Australia_02.06.23.599-02.06.29.153 	he turns and walks out onto the balcony surrounding his office at the top of a high clock tower.
 1046_Australia_02.07.24.021-02.07.31.429 	soldiers climb into a truck and king george walks out of the prison.
 1046_Australia_02.09.21.860-02.09.25.965 	a group of men restrain drover from walking into the blaze.
 1046_Australia_02.10.51.765-02.10.55.000 	he walks towards the shattered pub.
@@ -1471,21 +1153,17 @@
 1046_Australia_02.36.46.000-02.36.53.539 	nullah watches her as he walks away.
 1046_Australia_02.37.05.723-02.37.16.858 	king george and nullah walk hand-in-hand across the grassy plain, towards the mountains in the distance.
 1047_Defiance_00.16.13.929-00.16.18.635 	tuvia walks up a leafy slope towards the old man filling the grave with earth.
-1047_Defiance_00.16.45.369-00.16.47.611 	they all look towards the door as tuvia walks into the room.
 1047_Defiance_00.21.51.877-00.21.52.807 	lazar and laila walk off.
 1047_Defiance_00.23.21.492-00.23.28.392 	zus walks away, stumbling into the undergrowth.
-1047_Defiance_00.42.30.048-00.42.33.093 	bella walks up to zus who is sitting on a log.
 1047_Defiance_00.48.26.392-00.48.29.940 	walking almost in single file, like black shadows moving across the landscape.
 1047_Defiance_01.01.34.196-01.01.43.320 	at daybreak, carrying bags and cases, they walk in single file across the wintry landscape towards a windmill and on into the birchwood forest.
 1047_Defiance_01.10.23.630-01.10.24.678 	as he walks by.
 1047_Defiance_01.13.40.133-01.13.42.520 	and walks past malbin without acknowledging him.
-1047_Defiance_01.13.45.405-01.13.52.664 	elsewhere in the forest commander panchenko and gramov ride ahead of the column of soldiers who are walking behind them.
 1047_Defiance_01.18.56.351-01.18.59.372 	she walks back to camp with the dead dog slung across her shoulders.
 1047_Defiance_01.42.22.552-01.42.29.735 	tuvia glances at asael and walks off.
 1047_Defiance_01.50.20.738-01.50.24.042 	his nose bleeding, tuvia walks away from the burning remains of the camp,
 1047_Defiance_02.03.46.759-02.03.50.713 	zus, standing on the smoking tank, sees his brother walking out of the trees.
 1047_Defiance_02.04.34.923-02.04.36.437 	he starts walking.
-1047_Defiance_02.06.08.123-02.06.11.468 	tuvia, with lilka walking alongside, stops and looks ahead, his face serious.
 1047_Defiance_02.06.29.910-02.06.32.756 	the four brothers, walking side by side, lead the way along the woodland path.
 1048_Gran_Torino_00.00.57.360-00.01.00.430 	an older man, al, gets up from his pew and walks past a coffin draped in a white sheet.
 1048_Gran_Torino_00.01.00.514-00.01.03.253 	al walks up to him.
@@ -1515,10 +1193,6 @@
 1048_Gran_Torino_01.41.36.474-01.41.40.326 	walt walks out of his house with daisy on a lead.
 1048_Gran_Torino_01.43.45.971-01.43.49.555 	it's night, as walt walks up outside smokie's house.
 1049_Harry_Potter_and_the_chamber_of_secrets_00.40.21.600-00.40.26.431 	hermione gets up and walks away thoughtfully.
-1049_Harry_Potter_and_the_chamber_of_secrets_00.43.38.370-00.43.50.054 	he turns into a wide corridor and starts to walk along it as ron and hermione catch up with him.
-1049_Harry_Potter_and_the_chamber_of_secrets_01.07.00.178-01.07.11.183 	they salute each other, then turn and walk away.
-1049_Harry_Potter_and_the_chamber_of_secrets_01.11.12.812-01.11.22.235 	he senses that all the students are staring at him as he quickly walks out of the room.
-1049_Harry_Potter_and_the_chamber_of_secrets_01.11.53.540-01.11.57.930 	taking a deep breath, he walks slowly around a corner and stops at the horrible sight ahead of him.
 1049_Harry_Potter_and_the_chamber_of_secrets_01.13.10.295-01.13.13.339 	she walks briskly away.
 1049_Harry_Potter_and_the_chamber_of_secrets_01.13.48.516-01.13.52.808 	at the top, he steps off and walks down a passage towards a large wooden door.
 1049_Harry_Potter_and_the_chamber_of_secrets_01.14.12.000-01.14.20.441 	harry walks up some steps into a smaller room lined with shelves of old books.
@@ -1531,15 +1205,11 @@
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.26.42.737-00.26.48.240 	he walks over and stands behind her, hesitating for a moment.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.39.55.618-00.40.04.047 	later they walk through a covered arcade.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.46.04.599-00.46.08.200 	a student, cormac, confronts the death eaters as they walk through the carriages.
-1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.52.40.459-00.52.46.814 	everyone is walking in the same direction.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.52.51.989-00.52.55.671 	two guards apprehend a man walking behind him.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.54.08.000-00.54.10.603 	yaxley walks away.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.58.07.875-00.58.13.346 	grim-faced, harry turns and walks away.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.58.56.895-00.59.00.687 	they walk towards the courtroom.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.05.09.505-01.05.15.580 	she gets to her feet and walks away.
-1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.07.14.558-01.07.19.085 	harry stares at them both, then turns abruptly and walks away.
-1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.08.33.428-01.08.41.871 	hermione walks slowly up to him, looking concerned.
-1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.09.55.452-01.10.03.022 	she walks slowly away from harry, whose head is lowered.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.12.23.406-01.12.28.528 	the three of them walk away.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.12.44.725-01.12.55.366 	they walk towards the tent.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.19.03.051-01.19.07.717 	she walks through dead bracken and stands beside harry.
@@ -1553,11 +1223,7 @@
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_02.01.04.280-02.01.07.811 	scabior, his wand in his hand, walks over to harry.
 1051_Harry_Potter_and_the_goblet_of_fire_00.07.59.344-00.08.02.763 	he stops harry with his walking stick.
 1051_Harry_Potter_and_the_goblet_of_fire_00.34.11.468-00.34.21.011 	ron glowers as henry walks hesitantly towards professor dumbledore.
-1051_Harry_Potter_and_the_goblet_of_fire_00.34.31.997-00.34.44.898 	looking stunned, harry walks the length of the hall, uncomfortably aware of unfriendly looks from his fellow students.
 1051_Harry_Potter_and_the_goblet_of_fire_00.57.50.166-00.57.58.506 	harry walks out into a circular arena hewn from the rocky hillside and surrounded by a stone wall.
-1051_Harry_Potter_and_the_goblet_of_fire_01.21.10.545-01.21.16.395 	she goes to speak, thinks better of it, turns her back, and walks off.
-1051_Harry_Potter_and_the_goblet_of_fire_01.25.14.820-01.25.22.131 	hermione looks concerned as harry walks away.
-1051_Harry_Potter_and_the_goblet_of_fire_01.40.23.509-01.40.32.166 	crouch stares back into moody's scarred face, then walks away looking confused.
 1051_Harry_Potter_and_the_goblet_of_fire_01.43.20.738-01.43.26.390 	harry slowly walks towards it.
 1051_Harry_Potter_and_the_goblet_of_fire_02.21.47.198-02.21.58.967 	harry walks along the cloisters as the hogwarts' students say goodbye to the durmstrang and beauxbatons visitors.
 1051_Harry_Potter_and_the_goblet_of_fire_02.23.05.314-02.23.16.654 	the three friends walk out through an archway together and watch as the beauxbatons coach flies overhead.
@@ -1566,14 +1232,12 @@
 1052_Harry_Potter_and_the_order_of_phoenix_00.27.16.372-00.27.25.558 	harry walks along the platform.
 1052_Harry_Potter_and_the_order_of_phoenix_00.32.51.442-00.32.55.730 	harry walks into the gryffindor common room.
 1052_Harry_Potter_and_the_order_of_phoenix_00.37.02.294-00.37.17.480 	she walks slowly towards harry.
-1052_Harry_Potter_and_the_order_of_phoenix_00.41.41.582-00.41.49.067 	harry walks off, leaving hermione and ron looking bewildered.
 1052_Harry_Potter_and_the_order_of_phoenix_00.53.44.161-00.53.47.351 	a goat walks through the bar.
 1052_Harry_Potter_and_the_order_of_phoenix_00.56.37.947-00.56.49.937 	walking back to hogwarts, harry consults his friends.
 1052_Harry_Potter_and_the_order_of_phoenix_00.57.46.094-00.57.52.683 	walking along the corridor, an odd sound causes him to stop.
 1052_Harry_Potter_and_the_order_of_phoenix_01.16.48.718-01.16.53.526 	harry chats with cho as they walk through the courtyard.
 1052_Harry_Potter_and_the_order_of_phoenix_01.27.24.752-01.27.28.201 	he cuts her dead and walks past.
 1052_Harry_Potter_and_the_order_of_phoenix_01.47.44.311-01.47.55.251 	as harry walks towards it, the sphere stars to glow, illuminating the swirling mist inside it.
-1052_Harry_Potter_and_the_order_of_phoenix_02.05.58.839-02.06.03.298 	the occupants are settling themselves as harry walks down the stairs.
 1052_Harry_Potter_and_the_order_of_phoenix_02.07.11.957-02.07.18.193 	students walk along the path towards the station.
 1052_Harry_Potter_and_the_order_of_phoenix_02.07.59.685-02.08.04.572 	harry walks into the station followed by his friends.
 1053_Harry_Potter_and_the_philosophers_stone_00.00.48.000-00.00.53.947 	the old gentleman walks along the pavement and stops beneath a street light.
@@ -1591,7 +1255,6 @@
 1054_Harry_Potter_and_the_prisoner_of_azkaban_01.47.19.936-01.47.23.928 	he walks to the door.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_02.08.18.011-02.08.25.871 	he smiles at harry, picks up his bag and walking stick, and leaves.
 1055_Marley_and_me_00.01.05.402-00.01.07.165 	a boy walks through a meadow with his dog.
-1055_Marley_and_me_00.06.34.219-00.06.40.565 	john walks out of a small neat bungalow and picks up the newspapers, one of which is the sun-sentinel.
 1055_Marley_and_me_00.25.15.076-00.25.18.354 	she walks off with arrogant confidence.
 1055_Marley_and_me_00.27.32.700-00.27.38.398 	the dog's out of the window, walking on his front paws.
 1055_Marley_and_me_00.29.06.839-00.29.11.395 	he walks through the open-plan newsroom, fists clenched in triumph.
@@ -1599,7 +1262,6 @@
 1055_Marley_and_me_00.43.57.269-00.44.03.085 	john walks over and sits next to her, stroking her back.
 1055_Marley_and_me_00.52.20.000-00.52.23.000 	they walk out of the back door onto their wooden decking.
 1055_Marley_and_me_01.01.13.342-01.01.16.413 	john walks down the front path of the house with a pool and palm trees at the front.
-1055_Marley_and_me_01.06.36.552-01.06.39.000 	she walks softly on bare feet to her and john's room, where marley is lying on the bed.
 1055_Marley_and_me_01.10.14.154-01.10.17.190 	back home, jenny's dozing on the sofa when john walks in.
 1055_Marley_and_me_01.13.30.000-01.13.32.000 	he walks back outside wearing a towel.
 1055_Marley_and_me_01.22.01.014-01.22.06.587 	he hefts the box under his arm and walks towards arnie, who's standing outside his office.
@@ -1608,15 +1270,12 @@
 1055_Marley_and_me_01.30.35.000-01.30.38.000 	he walks down the drive towards the post box by the roadside.
 1055_Marley_and_me_01.35.53.188-01.35.57.635 	john and billy walk through town past the tall clock tower of city hall.
 1055_Marley_and_me_01.48.36.736-01.48.40.140 	the grogans walk across their leaf-strewn lawn, john carrying colleen on his shoulders.
-1055_Marley_and_me_01.50.59.264-01.51.14.117 	he puts a last stone on a pile on top of the filled-in grave, looks round at the house, then stands up and walks away from marley's resting place.
 1056_Rambo_00.07.29.338-00.07.36.130 	rambo walks away in disgust and heads for the perimeter of the arena.
 1056_Rambo_00.10.23.140-00.10.28.521 	he walks up to her and fixes her with a firm stare.
 1056_Rambo_00.12.38.000-00.12.47.919 	he leaves the workshop and walks out into the night air, where it's raining heavily.
 1056_Rambo_00.12.58.307-00.13.01.253 	he walks down a wooden walkway to the boat.
 1056_Rambo_00.13.45.804-00.13.50.795 	she emerges from the canopy of the boat and walks past him, climbing onto the harbor.
 1056_Rambo_00.13.50.795-00.13.55.268 	she begins to walk the length of the harbor towards the walkway.
-1056_Rambo_00.13.57.756-00.14.05.791 	she turns and stares at him before walking back towards him with an imploring look.
-1056_Rambo_00.14.36.612-00.14.44.698 	she turns away from him with a faint smile and walks back along the harbor.
 1056_Rambo_00.14.48.196-00.14.53.603 	rambo rubs his chin and runs a hair through his hair, then walks along the harbor.
 1056_Rambo_00.23.04.791-00.23.07.342 	michael gets off the boat and walks away up a wooden gangplank.
 1056_Rambo_00.23.48.785-00.23.50.940 	sarah walks up the gangplank.
@@ -1626,19 +1285,16 @@
 1056_Rambo_00.39.59.694-00.40.02.196 	lewis walks away in disgust.
 1056_Rambo_00.40.52.918-00.40.55.869 	he smirks and walks away.
 1056_Rambo_00.42.28.000-00.42.31.000 	rambo walks up the gangplank.
-1056_Rambo_00.43.12.000-00.43.17.079 	he turns away and walks back to the boat.
 1056_Rambo_00.49.59.800-00.50.11.905 	the commander walks calmly back and forth.
 1056_Rambo_00.50.55.216-00.51.00.931 	he walks into the rain-soaked road as the truck approaches the camp.
 1056_Rambo_00.56.28.572-00.56.32.905 	the commander walks up to the boy and inspects him.
 1056_Rambo_01.19.34.214-01.19.42.799 	john rambo walks along a lonely road halfway up a hill in arizona, u.s.a.
 1056_Rambo_01.20.21.101-01.20.45.644 	with the merest hint of a smile, he begins to walk down the lane towards the farm.
 1057_Seven_pounds_00.02.00.777-00.02.16.503 	the man, tall, lean and in his 30s, walks up steps from the beach which cut through a garden, abundant with colorful flowers and bushes.
-1057_Seven_pounds_00.09.02.684-00.09.08.088 	emily, who is slender and wearing a nightdress, gets out of the lift and walks listlessly down a hospital corridor.
 1057_Seven_pounds_00.10.13.084-00.10.17.585 	his smile fades as he walks.
 1057_Seven_pounds_00.20.16.857-00.20.21.515 	they walk to a ball.
 1057_Seven_pounds_00.21.36.545-00.21.40.815 	in a hospital canteen, an elderly patient attached to a drip wheels the stand it's on as he walks.
 1057_Seven_pounds_00.31.53.634-00.31.58.514 	emily walks up to him.
-1057_Seven_pounds_00.47.39.564-00.47.48.752 	emily's neighbor is gardening when emily walks up to her with duke on a lead.
 1057_Seven_pounds_00.47.48.752-00.47.58.928 	emily walks on slowly past her neighbor's profusion of colorful roses and begins to fight for breath.
 1057_Seven_pounds_00.48.05.683-00.48.10.629 	emily blinks, and walks towards her steps.
 1057_Seven_pounds_00.52.40.127-00.52.43.161 	he walks down a corridor.
@@ -1647,30 +1303,19 @@
 1057_Seven_pounds_01.09.30.411-01.09.43.779 	emily watches him, then walks through to french windows in the living room, then goes out into the lush garden.
 1057_Seven_pounds_01.20.10.827-01.20.16.217 	she walks away slowly from ben's motel room bed and out of sight.
 1057_Seven_pounds_01.24.10.373-01.24.19.142 	he reconsiders, puts it back in the car and walks towards the house.
-1057_Seven_pounds_01.41.51.795-01.42.00.663 	tim looks up when dr. briar enters the corridor and walks to meet her.
 1057_Seven_pounds_01.43.08.863-01.43.12.227 	tim walks out into the night.
-1057_Seven_pounds_01.43.29.042-01.43.36.715 	as he walks, he takes his mobile phone from his jeans' pocket and taps in a number.
 1057_Seven_pounds_01.54.29.212-01.54.39.929 	wearing a delicate summer dress, emily walks in a sunny park.
 1057_Seven_pounds_01.55.48.916-01.55.57.435 	emily walks over to ezra as he chats to some of the children in passing.
-1058_The_Damned_united_00.39.06.320-00.39.16.000 	straightening his tie as he turns and walks across the dressing room, brian sits beside a dark-haired, fresh-faced guy who's rubbing his thighs in agitation.
 1058_The_Damned_united_01.28.08.000-01.28.10.000 	peter walks closer and stops.
 1058_The_Damned_united_01.28.49.000-01.28.55.933 	brian stands and walks towards his old friend.
-1059_The_devil_wears_prada_00.02.16.810-00.02.22.969 	unfashionable andy, who is slender and has long, dark hair, walks out of her downtown apartment followed by a gaggle of young schoolchildren out on a trip.
 1059_The_devil_wears_prada_00.02.26.460-00.02.33.009 	andy stops at a bakery and walks down the street, unashamedly munching on an onion bagel.
-1059_The_devil_wears_prada_00.03.14.000-00.03.26.934 	clutching her battered, brown leather briefcase, she takes a deep breath and walks into the marble-floored reception hall and up to the desk.
-1059_The_devil_wears_prada_00.12.42.977-00.12.50.056 	emily is calling andy, when she walks in.
 1059_The_devil_wears_prada_00.19.45.058-00.19.46.188 	willowy, well-dressed serena walks off with emily.
 1059_The_devil_wears_prada_00.31.38.566-00.31.47.250 	holding back her tears, andy walks out of miranda's office into the anteroom and past emily's desk.
-1059_The_devil_wears_prada_00.36.39.000-00.36.46.000 	nate pulls on his jacket and heads down the street, walking straight past andy, who is leaning against a car waiting for him.
 1059_The_devil_wears_prada_00.37.12.397-00.37.16.894 	another day, she walks the same boot with a black coat on, an orange hat and a different designer handbag.
 1059_The_devil_wears_prada_00.40.16.664-00.40.19.802 	she walks out.
-1059_The_devil_wears_prada_00.54.10.095-00.54.15.187 	miranda turns away in her swivel chair and andy walks out with a smile.
 1059_The_devil_wears_prada_01.05.41.987-01.05.51.000 	andy shuts the door, puts down her bags and walks over to him, carrying a single fairy cake with a lit candle on it.
 1059_The_devil_wears_prada_01.09.00.000-01.09.12.669 	yellow taxicabs pass her on the street as she walks past shop windows, one displaying a fashionable red coat.
-1059_The_devil_wears_prada_01.14.42.698-01.14.51.348 	lily is seeing the kiss from across the room and walks off angrily.
-1059_The_devil_wears_prada_01.16.50.569-01.16.57.327 	nate nods, then turns and walks away.
 1059_The_devil_wears_prada_01.30.42.009-01.30.47.565 	walking along a modern bridge over the sand, she calls miranda's suite.
-1059_The_devil_wears_prada_01.38.34.741-01.38.41.753 	andy ponders for a moment, then turns and walks off in the opposite direction.
 1059_The_devil_wears_prada_01.42.31.490-01.42.37.133 	as she walks down a set of steps leading to the pavement, a smile spreads across her face.
 1059_The_devil_wears_prada_01.44.57.872-01.45.07.000 	the mercedes pulls out and drives away down the street, passing andy, who flips her hair and walks on in the opposite direction.
 1060_Yes_man_00.14.48.359-00.14.51.280 	a guy walks onto the stage.
@@ -1678,7 +1323,6 @@
 1060_Yes_man_00.42.08.813-00.42.10.492 	the guy walks up to the barman.
 1060_Yes_man_00.45.36.000-00.46.16.275 	they walk in the middle of a dark street.
 1060_Yes_man_00.56.09.376-00.56.15.739 	they walk backstage at a music venue.
-1060_Yes_man_00.56.15.739-00.56.23.636 	they round a corner and walk out on stage, and look at the vast hollywood bowl amphitheater.
 1060_Yes_man_01.08.19.137-01.08.23.440 	as he walks towards the terminal building, stephanie grabs his arm.
 1060_Yes_man_01.09.00.914-01.09.04.613 	stephanie glances back as she walks off.
 1060_Yes_man_01.09.06.293-01.09.08.858 	carl walks up to allison, who's wearing a dark blue coat with red piping.
@@ -1689,19 +1333,15 @@
 1060_Yes_man_01.22.33.302-01.22.37.865 	peter and lucy walk up.
 1060_Yes_man_01.24.12.231-01.24.16.460 	with his hand on soo-mi's shoulder, norm dances around as they walk off.
 1060_Yes_man_01.25.36.123-01.25.40.444 	tillie walks up and smiles at him broadly.
-1060_Yes_man_01.27.42.420-01.27.48.963 	carl clambers out and walks off along the hall, looking around cautiously.
 1060_Yes_man_01.27.49.911-01.27.53.249 	as carl walks across the forecourt, a black cat runs past behind him.
 1060_Yes_man_01.29.03.382-01.29.07.110 	the nurse walks off, and rooney watches her go.
 1060_Yes_man_01.33.33.594-01.33.37.014 	heavy-browed, he walks up to allison.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.11.22.282-00.11.25.765 	a cloaked man spots hermione, who walks ahead of the others.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.17.32.000-00.17.47.291 	harry walks further into the vault.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.29.57.890-00.30.05.093 	the girl in the portrait nods, turns, and walks away into the painting, past trees and bushes.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.58.28.530-00.58.39.921 	he walks very slowly and deliberately, drawn towards a clothed table.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.16.58.255-01.17.04.609 	she glances at severus as she walks down the hall.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.23.41.807-01.23.52.804 	harry walks downstairs along pathways cleared amongst the rubble.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.29.37.543-01.29.46.399 	bellatrix lestrange walks up behind voldemort, who takes a few paces forward.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.31.54.885-01.32.08.788 	he walks over to it and bends down to peer underneath the bench.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.43.38.124-01.43.43.340 	walking backwards, he turns sharply.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.50.43.000-01.50.50.237 	he walks past chattering students.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.51.04.612-01.51.11.165 	harry grins, as hagrid turns and walks away.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.51.23.175-01.51.28.880 	hermione and ron walk into the hall.
@@ -1712,11 +1352,8 @@
 1062_Day_the_Earth_stood_still_00.40.37.971-00.40.42.386 	two more suited agents walk along the corridor.
 1062_Day_the_Earth_stood_still_00.41.41.454-00.41.45.232 	klaatu walks down a railway line in an industrial area.
 1062_Day_the_Earth_stood_still_00.42.10.304-00.42.16.000 	in slow motion, he walks alongside a train, then into the busy station concourse.
-1062_Day_the_Earth_stood_still_00.42.18.000-00.42.23.000 	he walks calmly through the teeming crowds and looks up at the departures board.
 1062_Day_the_Earth_stood_still_00.42.40.132-00.42.44.000 	klaatu walks up to a snack machine.
-1062_Day_the_Earth_stood_still_00.42.56.474-00.43.05.000 	the little curly-haired lad walks up and stares at klaatu, who senses the presence, turns and stares back.
 1062_Day_the_Earth_stood_still_00.44.06.000-00.44.10.843 	klaatu walks into the grubby men's room.
-1062_Day_the_Earth_stood_still_00.51.13.015-00.51.19.000 	he gets out of the car and walks towards a taxi from which an elderly chinese man is emerging accompanied by a young man holding an umbrella.
 1062_Day_the_Earth_stood_still_00.56.13.000-00.56.20.932 	watched by jacob, she walks off following klaatu.
 1062_Day_the_Earth_stood_still_01.07.26.699-01.07.32.856 	klaatu walks into the next room which has books piled everywhere, and approaches a chalkboard covered in figures.
 1062_Day_the_Earth_stood_still_01.10.17.996-01.10.26.604 	the agent stares at gort and walks slowly forwards.
@@ -1726,25 +1363,20 @@
 2004_Juno_00.06.01.717-00.06.14.262 	juno walks slowly and dejectedly up the street to her house, gnawing on the super rope.
 2004_Juno_00.44.39.105-00.44.42.887 	mark walks over to his music collections
 2004_Juno_00.52.43.097-00.52.46.316 	juno walks over to the bed and sits down next to bleeker.
-2004_Juno_00.56.29.424-00.56.30.116 	juno and leah are walking through the mall, looking bored.
 2004_Juno_01.01.34.928-01.01.36.096 	pull up to find juno and leah walking their trays to a table.
 2004_Juno_01.05.26.038-01.05.27.281 	she starts to walk away.
 2004_Juno_01.05.33.087-01.05.34.893 	she's about to walk away, when.
 2004_Juno_01.17.15.597-01.17.31.937 	juno parks her car and walks up to her house.
 2005_Signs_00.04.31.862-00.04.38.728 	he walks through a thin layer of crops and emerges in a clearing.
-2005_Signs_00.04.48.877-00.04.55.119 	graham hess looks around in a daze as he walks out into the center.
 2005_Signs_00.07.26.676-00.07.28.338 	he places two pieces of cheese on the hamburgers, before walking over to houdini.
 2005_Signs_00.11.06.719-00.11.09.262 	merrill walks out from the back holding a bowl of food.
 2005_Signs_00.21.32.707-00.21.49.352 	graham and edgar walk down the driveway to edgar's patrol car.
 2005_Signs_00.23.47.360-00.23.48.460 	morgan walks up to graham with bo.
-2005_Signs_00.23.52.847-00.23.56.809 	morgan takes the money graham gives him, then takes bo's hand and walks down the sidewalk.
 2005_Signs_00.23.59.780-00.24.01.761 	hands in his pockets as he walks away.
 2005_Signs_00.24.06.632-00.24.09.771 	he keeps walking.
 2005_Signs_00.28.11.915-00.28.13.708 	merrill walks out the door of the army recruiting office.
 2005_Signs_00.40.45.579-00.40.49.495 	bo walks over and squeezes in also.
-2005_Signs_00.49.10.690-00.49.15.721 	graham walks into the hall and looks in their room.
 2005_Signs_01.01.18.503-01.01.20.203 	graham starts walking across the kitchen.
-2005_Signs_01.01.25.579-01.01.36.127 	graham lets go of the doorknob -- he turns and walks quickly across the kitchen -- he picks up the butcher knife -- he kneels down next to the pantry -- he ducks his head under the slanted kitchen table -- he places his cheek to the floor, only inches from the bottom of the door, and looks into the pantry.
 2005_Signs_01.30.28.122-01.30.29.445 	graham walks back to merrill.
 2005_Signs_01.36.34.558-01.36.37.391 	merrill's hands tighten around the handle as he walks forward.
 2012_Unbreakable_00.23.28.115-00.23.35.707 	he walks towards the bench with the present on it.
@@ -1752,7 +1384,6 @@
 2012_Unbreakable_00.27.47.019-00.27.48.446 	he walks closer to them.
 2012_Unbreakable_00.36.21.002-00.36.24.637 	audrey nods and walks down the stairs as she wipes her face.
 2012_Unbreakable_00.51.11.419-00.51.15.961 	she walks up to him with a smile.
-2012_Unbreakable_01.00.09.549-01.00.19.143 	david is rinsing out the bowl when audrey walks in.
 2012_Unbreakable_01.05.01.359-01.05.06.265 	ponytail man closes his register and walks towards the back.
 2012_Unbreakable_01.05.58.283-01.06.01.376 	the ponytail man walks ups to elijah.
 2012_Unbreakable_01.20.39.923-01.20.42.974 	he walks and greets a group of identically dressed friends.
@@ -1774,12 +1405,10 @@
 2027_Les_Miserables_00.24.31.094-00.24.33.499 	fantine walks down the steps with short hair, mocked by the voices of the whores on either side.
 2027_Les_Miserables_00.35.43.758-00.35.46.492 	as javert walks up the steps to his police station his assistant stops him with an urgent letter.
 2027_Les_Miserables_01.03.47.658-01.03.49.642 	as he sings he walks out onto the roof and stands by the symbol of the hq, a monumental stone eagle.
-2027_Les_Miserables_01.11.00.323-01.11.01.096 	the two are giving alms to beggars as they walk back from evening church service.
 2034_Super_8_00.11.57.051-00.12.01.765 	joe walks past alice, who watches him.
 2034_Super_8_00.14.16.364-00.14.23.029 	preston walks past them, acting in the background.
 2034_Super_8_00.21.13.508-00.21.22.424 	behind them, having walked up the angled sides of overturned train cars, cary calls out.
 2034_Super_8_00.24.44.056-00.24.50.012 	one man who walks up to the camera, eyeing the vanishing car with intense suspicion: colonel nelec.
-2034_Super_8_00.33.48.376-00.33.50.912 	a truck drives past camera, taking us to jack and nelec, who walk together amid the debris.
 2034_Super_8_00.35.23.162-00.35.24.921 	pruitt walks off.
 2034_Super_8_00.41.21.194-00.41.26.401 	as jack heads back to his car, three residents move to him, walk with him, ad lib.
 2040_The_Ugly_Truth_00.02.48.460-00.02.56.760 	she walks in on a shouting match between josh, a leftist angry news writer, and dori, the entertainment-leaning co-writer.
@@ -1787,9 +1416,7 @@
 2040_The_Ugly_Truth_00.22.25.842-00.22.32.238 	mike's sister, elizabeth, 40's, walks in, wearing a nurse's uniform and holding a cake box.
 2040_The_Ugly_Truth_00.28.00.745-00.28.03.183 	mike exits the stage door and walks into the alley, followed by the confused camera crew.
 2040_The_Ugly_Truth_00.30.04.260-00.30.06.012 	she walks off.
-2040_The_Ugly_Truth_00.31.58.778-00.32.02.156 	she turns and walks off.
 2040_The_Ugly_Truth_00.45.12.629-00.45.14.951 	colin gives a wave and walks toward his condo.
-2040_The_Ugly_Truth_00.45.54.179-00.46.03.195 	as mike is walking away, he turns back for a moment, then keeps walking.
 2040_The_Ugly_Truth_00.52.14.132-00.52.19.803 	as abby, mike and colin walk into the bar, two buxom blonde twin jello girls, bambi and candi, rush up to mike.
 2040_The_Ugly_Truth_00.55.49.304-00.55.54.643 	as they all walk out, mike grabs the remote from the kid.
 2040_The_Ugly_Truth_00.56.20.571-00.56.23.213 	colin walks up.
@@ -1798,7 +1425,6 @@
 2040_The_Ugly_Truth_01.15.14.436-01.15.17.336 	he walks in the room, holding up the wine.
 2040_The_Ugly_Truth_01.17.20.904-01.17.22.534 	he keeps walking as she tries to keep up.
 2040_The_Ugly_Truth_01.18.27.646-01.18.35.714 	he shrugs and walks off.
-2040_The_Ugly_Truth_01.22.08.126-01.22.12.541 	abby and joy walk through the waiting area, which is filled with mike alexander replacement hopefuls of all different shapes and sizes.
 2040_The_Ugly_Truth_01.27.38.081-01.27.41.521 	an overzealous balloon pilot walks up.
 2041_This_is_40_00.02.39.803-00.02.41.614 	pete lifts a sleeping charlotte (8) out of bed and walks her downstairs.
 2041_This_is_40_00.11.49.614-00.11.53.386 	pete and debbie get out of the car and walk down the street.
@@ -1812,8 +1438,6 @@
 2041_This_is_40_00.42.38.386-00.42.39.997 	she walks off.
 2041_This_is_40_00.51.24.207-00.51.31.661 	debbie walks over to desi.
 2041_This_is_40_00.59.48.235-00.59.54.698 	pete enters and walks into ronnie's office.
-2041_This_is_40_01.07.10.110-01.07.15.438 	debbie is walking through the campus upset.
-2041_This_is_40_01.09.18.736-01.09.19.740 	debbie and desi are talking as they walk down the stairs into a loud club.
 2041_This_is_40_01.15.54.501-01.15.54.843 	they walk away.
 2041_This_is_40_01.24.11.130-01.24.17.387 	debbie starts walking away.
 2041_This_is_40_01.28.12.381-01.28.12.638 	he gives her a kiss then walks back towards his car.
@@ -1824,17 +1448,12 @@
 2041_This_is_40_01.53.13.246-01.53.14.544 	she walks away towards the house.
 2041_This_is_40_01.53.20.044-01.53.21.101 	debbie keeps walking down the hall.
 2041_This_is_40_01.54.36.996-01.54.41.876 	larry and claire walk away as pete storms in.
-2041_This_is_40_01.54.52.678-01.54.55.181 	oliver passes pete and turns to debbie as pete walks away.
 2041_This_is_40_01.57.24.497-01.57.28.793 	sadie walks off.
 2041_This_is_40_02.01.11.849-02.01.17.521 	the nurse walks away.
 2041_This_is_40_02.03.31.405-02.03.34.575 	he grabs the bill out of her purse and walks off.
 2041_This_is_40_02.04.25.042-02.04.32.341 	debbie walks into pete's room, sits on the bed next to him.
 2051_Harry_Potter_and_the_goblet_of_fire_00.05.02.353-00.05.16.164 	they walk on up the hill.
-2051_Harry_Potter_and_the_goblet_of_fire_00.06.06.723-00.06.22.176 	they walk across the field and we see there's a massive crowd gathered and cheering, tents are set up all over.
-2051_Harry_Potter_and_the_goblet_of_fire_00.06.22.176-00.06.51.839 	they walk into the crowd, taking in the sights.
 2051_Harry_Potter_and_the_goblet_of_fire_00.06.50.226-00.06.55.004 	amos and cedric separate and walk off.
-2051_Harry_Potter_and_the_goblet_of_fire_00.07.13.210-00.07.17.324 	they take their feet off the table and put them back on as soon as arthur has walked past.
-2051_Harry_Potter_and_the_goblet_of_fire_00.07.42.923-00.07.49.845 	lucius malfoy and draco are walking below them.
 2051_Harry_Potter_and_the_goblet_of_fire_00.11.43.235-00.11.55.495 	a man walks through the rubble kicking at things.
 2051_Harry_Potter_and_the_goblet_of_fire_00.14.16.779-00.14.20.162 	cho chan walks up to the trolley.
 2051_Harry_Potter_and_the_goblet_of_fire_00.18.35.521-00.19.05.057 	a series of older boys walk up the aisle brandishing bo staffs, twirling them around and periodically stabbing them into the ground with a spark effect.
@@ -1843,29 +1462,17 @@
 2051_Harry_Potter_and_the_goblet_of_fire_00.32.37.923-00.32.43.873 	the beauxbatons girls cheer as fleur walks up.
 2051_Harry_Potter_and_the_goblet_of_fire_00.34.10.281-00.34.25.597 	harry slowly walks up.
 2051_Harry_Potter_and_the_goblet_of_fire_00.39.15.124-00.39.21.579 	she walks over to them and shakes each of their hands.
-2051_Harry_Potter_and_the_goblet_of_fire_00.45.57.581-00.46.05.602 	hermione and ron are walking up to them.
 2051_Harry_Potter_and_the_goblet_of_fire_00.46.32.643-00.46.36.262 	hermione walks up to harry.
-2051_Harry_Potter_and_the_goblet_of_fire_00.46.58.224-00.47.06.595 	harry and hagrid are walking through a dark forest.
 2051_Harry_Potter_and_the_goblet_of_fire_00.49.11.214-00.49.18.220 	as harry walks along other pupils aim insults at him saying he stinks.
-2051_Harry_Potter_and_the_goblet_of_fire_00.50.08.270-00.50.11.860 	ron and seamus are walking along.
 2051_Harry_Potter_and_the_goblet_of_fire_00.50.51.100-00.50.58.690 	harry walks away and draco angrily tries casting a spell.
 2051_Harry_Potter_and_the_goblet_of_fire_01.05.46.994-01.05.48.869 	a young boy walks up holding a package.
-2051_Harry_Potter_and_the_goblet_of_fire_01.08.48.257-01.08.53.953 	the girls instantly stand and walk forward, the boys are all still seated.
-2051_Harry_Potter_and_the_goblet_of_fire_01.09.39.487-01.09.53.395 	hagrid and madame maxime are walking together.
 2051_Harry_Potter_and_the_goblet_of_fire_01.10.37.748-01.10.40.610 	severus snape walks past and slaps ron over the head.
-2051_Harry_Potter_and_the_goblet_of_fire_01.12.29.693-01.12.34.326 	harry is walking up some steps.
 2051_Harry_Potter_and_the_goblet_of_fire_01.14.33.387-01.14.36.558 	the patil twins walk past.
-2051_Harry_Potter_and_the_goblet_of_fire_01.15.46.643-01.16.00.685 	harry and ron are walking down the stairs into the hall.
 2051_Harry_Potter_and_the_goblet_of_fire_01.17.04.780-01.17.15.885 	hermione walks down the stairs.
-2051_Harry_Potter_and_the_goblet_of_fire_01.17.19.613-01.17.27.597 	viktor krum takes her hand and they walk together.
 2051_Harry_Potter_and_the_goblet_of_fire_01.20.23.390-01.20.30.875 	hermione walks off.
 2051_Harry_Potter_and_the_goblet_of_fire_01.21.54.148-01.22.00.509 	harry walks up.
 2051_Harry_Potter_and_the_goblet_of_fire_01.22.02.001-01.22.06.136 	harry and ron walk away.
-2051_Harry_Potter_and_the_goblet_of_fire_01.23.51.926-01.23.54.179 	the floorboards are creaking, someone is walking up to his bed.
-2051_Harry_Potter_and_the_goblet_of_fire_01.30.47.927-01.30.55.202 	harry is walking along with neville, he has some green plantlife in his hand.
-2051_Harry_Potter_and_the_goblet_of_fire_01.39.18.053-01.39.30.008 	as they're walking away from the lake harry's friends are cheering him.
 2051_Harry_Potter_and_the_goblet_of_fire_01.40.30.312-01.40.41.989 	barty walks away from him.
-2051_Harry_Potter_and_the_goblet_of_fire_01.54.02.529-01.54.25.561 	cedric is walking along, the maze walls begin to close in on him.
 2051_Harry_Potter_and_the_goblet_of_fire_01.55.17.348-01.55.25.034 	viktor comes along and sees she's unconscious on the ground, he walks on.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_01.17.43.433-01.17.50.565 	harry walks aside a fuming lupin, who grips the map fiercely.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_01.17.50.565-01.17.53.847 	harry walks silently.

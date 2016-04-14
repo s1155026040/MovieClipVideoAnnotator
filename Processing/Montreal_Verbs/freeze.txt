@@ -1,41 +1,21 @@
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS257 	00:44:53,00 --> 00:44:58,50 	someone's smile freezes.
-30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS101 	00:25:09,00 --> 00:25:15,50 	as he starts a timer on the vest the image briefly freezes.
 30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS351 	01:17:20,00 --> 01:17:26,50 	the unit freezes and a digital timer flashes zero.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS945 	01:31:40,00 --> 01:31:46,50 	the image freezes.
-BLINDDATING.srt 	BLINDDATING_DVS129 	00:35:33,00 --> 00:35:39,50 	someone freezes mid chew, then swallows hard.
 BURLESQUE.srt 	BURLESQUE_DVS345 	00:47:14,00 --> 00:47:19,50 	the curtain freezes above someone's head.
-CHRONICLE.srt 	CHRONICLE_DVS330 	00:49:59,00 --> 00:50:04,50 	he holds the dismembered bits frozen in the air.
 FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS386 	01:41:31,00 --> 01:41:36,50 	the flash mob freezes mid dance.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS276 	01:04:01,00 --> 01:04:10,50 	someone freezes.
-HUGO.srt 	HUGO_DVS177 	00:24:50,00 --> 00:24:57,50 	he freezes as the inspector takes out a pocket watch and checks the time.
-HUGO.srt 	HUGO_DVS448 	01:04:48,00 --> 01:04:54,50 	someone freezes then turns and walks in the opposite direction.
-ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS231 	01:07:50,00 --> 01:07:55,50 	someone freezes then faces her.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS628 	01:59:05,00 --> 01:59:11,50 	she claps a hand to her mouth, and the image freezes.
-KARATE_KID.srt 	KARATE_KID_DVS1074 	01:27:35,00 --> 01:27:40,50 	someone looks past her shoulder and freezes.
-KARATE_KID.srt 	KARATE_KID_DVS1076 	01:28:09,00 --> 01:28:19,50 	someone freezes, spotting a guard at the gate.
-KARATE_KID.srt 	KARATE_KID_DVS1370 	01:50:36,00 --> 01:50:55,50 	the image freezes and he becomes the high-kick silhouette on the tallest trophy.
-KNOCKED_UP.srt 	KNOCKED_UP_DVS37 	00:23:55,00 --> 00:24:00,50 	she takes another swipe at her mouth, then freezes
-MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS151 	00:22:09,00 --> 00:22:15,50 	he shows a closer image of someone cheering and freezes it.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS98 	00:23:52,00 --> 00:23:59,50 	everything freezes.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS142 	00:32:15,00 --> 00:32:41,50 	the saboteur freezes warily then trots on.
-RUBY_SPARKS.srt 	RUBY_SPARKS_DVS173 	00:28:39,00 --> 00:28:46,50 	he freezes then precedes to the foyer where he picks up his keys and wallet.
-RUBY_SPARKS.srt 	RUBY_SPARKS_DVS389 	01:02:31,00 --> 01:02:37,50 	someone freezes, staring off with a scowl.
 SOUL_SURFER.srt 	SOUL_SURFER_DVS74 	00:24:47,00 --> 00:24:54,50 	someone's mother freezes.
-SUPER_8.srt 	SUPER_8_DVS225 	00:38:15,00 --> 00:38:21,50 	someone lifts the gas pump handle off the ground then turns and freezes.
 SUPER_8.srt 	SUPER_8_DVS350 	01:02:40,00 --> 01:02:44,50 	someone freezes.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS697 	01:33:08,00 --> 01:33:13,50 	someone freezes with a bottle in his hand.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS82 	00:16:17,00 --> 00:16:36,50 	as she enters, someone freezes on the bed and glances toward the hall.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS373 	01:09:47,00 --> 01:09:53,50 	someone stares, her features frozen in a thoughtful gape.
-THE_CALL.srt 	THE_CALL_DVS109 	00:08:20,00 --> 00:08:32,50 	as it swings shut behind him, the dark ominous figure stands frozen in a vestibule with an arched entry.
 THE_CALL.srt 	THE_CALL_DVS549 	00:42:14,00 --> 00:42:20,50 	frozen in place, his frenzied gaze softens on the trunk.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS253 	00:39:59,00 --> 00:40:05,50 	now, in someone's car, someone holds frozen peas over his eye.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS827 	01:34:31,00 --> 01:34:37,50 	as he scratches the back of his head, his hand freezes.
-THOR.srt 	THOR_DVS37 	00:04:09,00 --> 00:04:18,50 	a woman clutches a child to herself as they freeze solid.
-THOR.srt 	THOR_DVS43 	00:04:50,00 --> 00:05:00,50 	the giant's leader opens his box freezing two warriors solid,
 THOR.srt 	THOR_DVS323 	00:47:55,00 --> 00:47:59,50 	they freeze.
 THOR.srt 	THOR_DVS486 	01:20:25,00 --> 01:20:36,50 	with the point of his sword inches from someone's throat, someone freezes solid.
 THOR.srt 	THOR_DVS626 	01:35:01,00 --> 01:35:06,50 	someone freezes the control mechanism.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS366 	00:30:43,00 --> 00:30:47,50 	he freezes at a water fountain.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS817 	01:13:40,00 --> 01:13:44,50 	the scene freezes in a photo.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1226 	01:50:14,00 --> 01:50:17,50 	someone freezes.
-ZOMBIELAND.srt 	ZOMBIELAND_DVS189 	00:18:24,00 --> 00:18:32,50 	as her head spins toward us, the scene freezes and rule number 2 appears, double tap.

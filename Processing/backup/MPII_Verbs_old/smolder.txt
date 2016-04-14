@@ -1,10 +1,6 @@
-0011_Gandhi_01.47.30.052-01.47.30.853 	It is a New York Times and we just glimpse the picture of the severed head lying in the smoldering ashes.
-0016_O_Brother_Where_Art_Thou_00.20.15.102-00.20.17.266 	The smoldering twig fire.
-0051_Men_in_black_00.13.49.767-00.13.52.210 	The skeleton of the truck is still there, but there's a huge, smoldering hole in it, a hole that goes at least ten feet down into the ground.
-1051_Harry_Potter_and_the_goblet_of_fire_00.11.42.927-00.11.54.582 	a lone figure strides between the smoking tents, kicking the smoldering remains.
+0016_O_Brother_Where_Art_Thou_00.20.15.102-00.20.17.266 	the smoldering twig fire.
+0051_Men_in_black_00.13.49.767-00.13.52.210 	the skeleton of the truck is still there, but there's a huge, smoldering hole in it, a hole that goes at least ten feet down into the ground.
 1051_Harry_Potter_and_the_goblet_of_fire_00.32.31.198-00.32.37.743 	dumbledore reads a second piece of smoldering parchment.
 1051_Harry_Potter_and_the_goblet_of_fire_01.01.51.759-01.01.57.245 	it continues to smolder as the dragon zooms after harry through a stone arch.
-1053_Harry_Potter_and_the_philosophers_stone_01.07.26.891-01.07.29.970 	a smoldering feather sinks onto the desk.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.53.12.197-00.53.21.682 	he gazes at the smoldering shield, which now resembles a burning dome of flame.
 1053_Harry_Potter_and_the_philosophers_stone_01.07.26.891-01.07.29.970 	a smoldering feather sinks onto the desk.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.53.12.197-00.53.21.682 	he gazes at the smoldering shield, which now resembles a burning dome of flame.

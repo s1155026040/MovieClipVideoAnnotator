@@ -1,6 +1,5 @@
-0011_Gandhi_02.02.49.232-02.02.50.665 	The waves lapping the shore below them.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.09.49.580-00.09.53.689 	Pale waters lap about its feet.
-0049_Hannah_and_her_sisters_00.47.33.863-00.47.41.291 	She stops at the edge of the wharf; the camera continues to move, to a group of wooden pilings nearby, lapped by the water.
-0049_Hannah_and_her_sisters_01.22.12.951-01.22.22.566 	A bench faces some wharf pilings; the water gently laps against them as Lee walks into view, the wind blowing her hair.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_01.42.45.064-01.42.56.785 	the water lapping the shore stops moving as a sheet of crackling ice spreads over the surface of the lake.
+0011_Gandhi_02.02.49.232-02.02.50.665 	the waves lapping the shore below them.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.09.49.580-00.09.53.689 	pale waters lap about its feet.
+0049_Hannah_and_her_sisters_00.47.33.863-00.47.41.291 	she stops at the edge of the wharf; the camera continues to move, to a group of wooden pilings nearby, lapped by the water.
+0049_Hannah_and_her_sisters_01.22.12.951-01.22.22.566 	a bench faces some wharf pilings; the water gently laps against them as lee walks into view, the wind blowing her hair.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_01.42.45.064-01.42.56.785 	the water lapping the shore stops moving as a sheet of crackling ice spreads over the surface of the lake.

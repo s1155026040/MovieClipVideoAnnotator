@@ -1,8 +1,3 @@
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS404 	00:37:34,00 --> 00:37:39,50 	our view lists to take in the station, in the midst of the city.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS333 	01:23:47,00 --> 01:24:20,50 	a note around the money lists the amount, $323.60.
-IN_TIME.srt 	IN_TIME_DVS38 	00:04:20,00 --> 00:04:31,50 	arriving outside a factory, someone goes to a coffee cart with the drink prices listed digitally in minutes and seconds.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS528 	01:39:02,00 --> 01:39:16,50 	and lists a phone number.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS277 	00:43:36,00 --> 00:43:45,50 	the real estate sign lists the name someone speer and shows a happy photo of a beady-eyed man with a toothy grin.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS109 	00:10:58,00 --> 00:11:04,50 	as the steps away we find wennerstrom listed on the sixth level.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1010 	01:49:26,00 --> 01:49:31,50 	then notices a murder listed as two years later
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS609 	01:06:26,00 --> 01:06:31,50 	it lists the performers names with someone's at the bottom.

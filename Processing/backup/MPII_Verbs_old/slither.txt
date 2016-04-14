@@ -1,17 +1,8 @@
-0026_The_Big_Fish_01.43.27.297-01.43.30.872 	Snakes slither through the marsh.
-0032_The_Princess_Bride_00.12.01.548-00.12.11.182 	She's scared, sure, petrified, who wouldn't be, but she makes no reply-- --and now a SHRIEKING EEL has zeroed in on her-- --and now she sees it, a short distance away, circling, starting to close-- --and Buttercup is frozen, trying not to make a movement of any kind-- --and the Eel slithers closer, closer-- --and Buttercup knows it now, there's nothing she can do, it's over, all over-- --and now the Eel opens its mouth wide, and it's never made such a noise, and as its great jaws are about to clamp down.
-0032_The_Princess_Bride_00.16.09.648-00.16.11.780 	THE ROPE, slithering across the ground and out of sight toward the Channel, like some great serpent at last going home.
+0032_The_Princess_Bride_00.16.09.648-00.16.11.780 	the rope, slithering across the ground and out of sight toward the channel, like some great serpent at last going home.
 1009_Spider-Man3_01.07.20.780-01.07.29.877 	black spider-man lands on the street and sees a trail of sand slithering down the grating.
-1024_Identity_Thief_01.07.20.334-01.07.24.605 	a snake slithers toward them.
-1024_Identity_Thief_01.07.36.327-01.07.43.465 	he glances back at diana as the snake slithers into his pants.
 1049_Harry_Potter_and_the_chamber_of_secrets_02.10.02.072-02.10.04.452 	it slithers ominously after harry.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.31.54.989-01.31.56.532 	it slithers off him.
 1051_Harry_Potter_and_the_goblet_of_fire_00.00.31.099-00.00.47.214 	flickering its tongue, it slithers down onto a narrow path and moves silently between the gravestones in a dark and overgrown cemetery.
-1051_Harry_Potter_and_the_goblet_of_fire_00.03.11.457-00.03.24.262 	the snake appears and slithers through the doorway towards a figure hidden in an armchair.
+1053_Harry_Potter_and_the_philosophers_stone_01.56.38.152-01.56.57.868 	slithering tentacles snake over them, twisting around their arms and legs, and twining around their necks.
 1053_Harry_Potter_and_the_philosophers_stone_01.56.57.545-01.57.01.286 	hermione suddenly slithers out of sight.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.44.32.000-01.44.41.345 	harry is forced backwards as nagini slithers up the stairs towards him.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.45.01.500-01.45.03.532 	nagini slithers across a landing.
-1053_Harry_Potter_and_the_philosophers_stone_01.56.57.545-01.57.01.286 	hermione suddenly slithers out of sight.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.44.32.000-01.44.41.345 	harry is forced backwards as nagini slithers up the stairs towards him.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.45.01.500-01.45.03.532 	nagini slithers across a landing.
-2051_Harry_Potter_and_the_goblet_of_fire_00.03.11.993-00.03.26.352 	a snake slithers past the old man and into the room.
+1054_Harry_Potter_and_the_prisoner_of_azkaban_00.15.38.873-00.15.44.529 	the book lies still, then snaps once more and slithers out, turning this way and that.

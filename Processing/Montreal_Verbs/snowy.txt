@@ -1,5 +1,3 @@
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS151 	00:23:40,00 --> 00:23:45,50 	someone talks to snowy as they walk.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS276 	00:40:11,00 --> 00:40:21,50 	someone hangs on with one hand and grips snowy with the other.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS287 	00:41:22,00 --> 00:41:29,50 	captain someone hugs snowy to his chest as the ship's metal keel slices through the water like a knife.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS370 	00:55:32,00 --> 00:55:37,50 	someone hugs snowy to his chest,
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS433 	01:02:36,00 --> 01:02:41,50 	and holding a flashlight steps up to snowy.

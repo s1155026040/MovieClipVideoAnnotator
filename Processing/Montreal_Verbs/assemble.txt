@@ -1,8 +1,3 @@
-FLIGHT.srt 	FLIGHT_DVS693 	01:33:42,00 --> 01:33:50,50 	the crashed south jet aircraft stands almost completely assembled, with parts strewn around beside it.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS258 	01:01:03,00 --> 01:01:14,50 	in a back room, a dignified man assembles a bomb at a well-lit desk.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS438 	01:21:11,00 --> 01:21:24,50 	in his basement laboratory, someone blows dust off the assembled model.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS458 	01:24:01,00 --> 01:24:10,50 	he takes out the tubes and assembles them.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS83 	00:16:27,00 --> 00:16:33,50 	now in a classroom, someone assembles his mushroom-like device.
 SUPER_8.srt 	SUPER_8_DVS454 	01:20:29,00 --> 01:20:34,50 	someone assembles a rifle.
-SUPER_8.srt 	SUPER_8_DVS610 	01:39:14,00 --> 01:39:22,50 	lying on the ground, someone, someone, and someone watch as the cubes assemble in the sky.
-YOUNG_ADULT.srt 	YOUNG_ADULT_DVS226 	00:42:48,00 --> 00:42:53,50 	sitting on his front steps, someone assembles a baby sling.

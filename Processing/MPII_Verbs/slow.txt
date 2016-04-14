@@ -1,59 +1,17 @@
 0001_American_Beauty_00.36.51.819-00.36.54.974 	everything slows down, and all sound fades.
-0001_American_Beauty_00.46.29.501-00.46.38.339 	the jims slow down until he catches up, then the three men run together in the early morning light.
-0005_Chinatown_00.16.16.295-00.16.16.670 	he tries to slow himself down.
-0008_Fargo_00.26.33.564-00.26.36.661 	he looks into the back seat as the car bounces and slows on the gravel shoulder.
 0008_Fargo_00.30.43.526-00.30.46.517 	the car approaches, slowing.
-0008_Fargo_01.26.58.561-01.27.13.881 	we are slowing as we approach a short driveway leading down to a cabin.
-0009_Forrest_Gump_00.54.09.487-00.54.19.125 	forrest slows down and looks around carefully.
-0013_Halloween_00.06.58.397-00.07.00.585 	mother and father stare at the pov, at first in puzzlement, then slow, growing horror.
-0013_Halloween_00.09.55.466-00.09.59.682 	marion slows the station wagon and pulls off to the side of the road.
-0016_O_Brother_Where_Art_Thou_00.06.40.356-00.06.42.325 	the flatcar draws even and slows.
-0026_The_Big_Fish_00.27.08.240-00.27.09.316 	the ruckus slows and quiets, as if a strange spell has been cast.
-0027_The_Big_Lebowski_01.36.59.436-01.37.01.234 	he is looking off as the car slows.
 0028_The_Crying_Game_00.39.42.831-00.39.44.093 	his rhythm slows.
-0032_The_Princess_Bride_00.25.48.156-00.25.49.686 	he sees it, slows.
-0033_Amadeus_00.03.07.207-00.03.08.439 	as the music slows a little, we see a masquerade ball in progress.
-0038_Psycho_00.18.49.740-00.19.00.505 	he sees mary, slows, swerves over to the opposite side of the street, stops by the curb.
 0038_Psycho_00.26.08.925-00.26.11.473 	slowing down in the flooding highway.
-0038_Psycho_00.29.34.551-00.29.36.172 	the rain has slowed down considerably.
 0041_The_Sixth_Sense_01.14.19.424-01.14.21.461 	his steps slow to a complete stop.
-0043_Thelma_and_Luise_01.57.31.071-01.57.34.069 	she continues barreling towards it without slowing down.
 0053_Rendezvous_mit_Joe_Black_00.25.59.282-00.26.06.133 	parrish moves deliberately down the hall, slows as he nears the doorway to the library.
-1004_Juno_00.27.37.757-00.27.45.717 	he slows down in front of one house with a triple garage and box tree on the front lawn and pulls up onto the driveway.
-1004_Juno_00.38.20.919-00.38.22.513 	two boys pass him as he slows to a walk.
-1005_Signs_01.06.04.366-01.06.15.697 	merrill throws the cigarette butt to the ground, then, slows to a gradual stop.
-1006_Slumdog_Millionaire_01.39.59.567-01.40.02.644 	latika has to slow down as she hits major traffic jams.
-1007_Spider-Man1_01.46.11.278-01.46.16.375 	he builds a large web, which slows down the green goblin, but can't hold him.
-1009_Spider-Man3_00.24.34.430-00.24.42.297 	the cops arrive at the edge of the pit and look down to find the capacitors slowing down and flint nowhere to be seen.
-1011_The_Help_00.36.54.293-00.36.57.671 	a white mother pushing a pram slows down as she passes.
 1018_Body_Of_Lies_00.55.37.440-00.55.40.694 	karami slows up and glances down at his paper.
-1018_Body_Of_Lies_01.38.14.293-01.38.17.333 	ferris slows up as he approaches a gate.
-1018_Body_Of_Lies_01.42.57.696-01.42.59.731 	the van follows a line of cars and slows up.
 1019_Confessions_Of_A_Shopaholic_01.33.28.795-01.33.31.761 	his pace slows.
-1024_Identity_Thief_00.59.08.436-00.59.12.102 	sandy slows down and lightly hits the back panel of the van, barely nudging it.
 1026_Legion_00.26.53.894-00.26.55.504 	gladys slows to a halt at his feet.
 1026_Legion_00.31.47.000-00.31.48.528 	charlie slows down as michael stares at her.
-1028_No_Reservations_00.21.30.460-00.21.36.630 	hearing singing, kate slows down as she nears the kitchen.
 1030_Public_Enemies_00.44.15.011-00.44.18.226 	the heavy wheels slow to a halt.
-1030_Public_Enemies_00.52.55.871-00.53.02.136 	inspecting dillinger, purvis barely slows his leisurely stride, then leaves with his agents.
-1030_Public_Enemies_01.18.28.551-01.18.36.692 	the car slows as it approaches a lodge where light shines warmly through the windows.
-1030_Public_Enemies_01.53.38.575-01.53.46.220 	anna's fanning motion slows as her knowing gaze follows him.
-1031_Quantum_of_Solace_01.09.13.440-01.09.15.213 	has to do the same, slowing.
 1035_The_Adjustment_Bureau_01.07.48.616-01.07.51.608 	the taxi slows in front of cedar lake.
 1041_This_is_40_01.57.34.536-01.57.37.492 	pete speeds down the middle of a street, slowing down traffic.
-1043_Vantage_Point_00.41.38.466-00.41.43.133 	he stops and stares out some chain link mesh to see enrique slow to a stop at an underpass.
-1043_Vantage_Point_01.19.14.071-01.19.16.738 	time seems to slow down as barnes spots the tragedy about to happen.
-1044_Pride_And_Prejudice_Disk_Two_00.08.57.060-00.09.04.752 	she slows down to a walk again, and heads onward through the trees, not really taking in her surroundings.
-1046_Australia_01.04.30.000-01.04.35.562 	the herd slows and, just yards from the boy, comes to a stop.
-1047_Defiance_00.14.00.113-00.14.03.124 	he glances over his shoulder without slowing down,
-1047_Defiance_00.29.51.566-00.29.52.660 	tuvia' and pretz stop by and watch the truck slowing down.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.18.57.438-00.19.05.270 	they slow to a halt, near the weasley's home.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.07.14.654-00.07.22.774 	at last, he slows down and looks around him.
 1056_Rambo_00.06.28.743-00.06.36.078 	the boat slows to a halt.
-1060_Yes_man_01.32.24.794-01.32.31.228 	a car pulls out ahead, and carl pulls on the brakes so hard the back wheel flips up as he slows down.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.00.51.651-01.00.54.643 	harry knocks over furniture to slow it down.
-2005_Signs_00.38.52.748-00.38.56.254 	his kind eyes stare down at the ground as he slows his mind.
 2026_Legion_00.01.52.311-00.01.56.807 	a dark figure in a tattered trench coat tumbles onto the pavement, hands out to slow the impact.
-2026_Legion_01.25.43.372-01.25.45.667 	gabriel takes one in the shoulder, but it doesn't slow him down.
-2034_Super_8_01.33.07.065-01.33.09.651 	the sparkler dies as light begins to reveal joe, who slows -- peers around the dirt tunnel bend -- he is now on the other side of the space.
-2054_Harry_Potter_and_the_prisoner_of_azkaban_00.20.21.502-00.20.23.217 	the train lurches, begins to slow.

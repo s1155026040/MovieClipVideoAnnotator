@@ -1,10 +1,4 @@
-1001_Flight_00.38.06.760-00.38.13.552 	harling places his hand on whip's head and leaves.
-1001_Flight_00.45.48.473-00.45.54.845 	harling opens a beer and takes a swig.
 1001_Flight_01.50.35.869-01.50.39.824 	harling arrives, a bag slung over his shoulder.
 1001_Flight_01.51.00.371-01.51.01.767 	harling gestures to edmonds.
 1001_Flight_01.51.42.260-01.51.44.319 	harling sits beside whip.
-1001_Flight_01.52.28.808-01.52.33.198 	harling prepares the cigarette.
-1001_Flight_01.52.42.545-01.52.48.270 	harling sucks on the cigarette and hands it to whip.
 1001_Flight_01.52.59.597-01.53.02.308 	harling cuts more lines of coke.
-1001_Flight_01.53.06.358-01.53.13.526 	harling snorts a line and offers a hit to charlie and hugh.
-1001_Flight_01.54.09.242-01.54.12.149 	harling puts on his shades.

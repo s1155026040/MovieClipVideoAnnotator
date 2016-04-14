@@ -1,2 +1,5 @@
+0017_Pianist_00.33.07.081-00.33.10.372 	he's seen someone he recognises.
+0017_Pianist_02.15.49.917-02.16.01.008 	szpilman, wearing the german captain's coat and under the eiderdown, hears the strange sound of the music, which he recognises.
+2004_Juno_01.15.01.998-01.15.03.603 	he's playing a theme that we will soon recognise.
 2027_Les_Miserables_00.31.40.188-00.31.40.458 	she has seen and recognised valjean, some way off.
-2027_Les_Miserables_00.31.40.188-00.31.40.458 	she has seen and recognised valjean, some way off.
+2027_Les_Miserables_01.12.22.383-01.12.23.281 	valjean recognises him.

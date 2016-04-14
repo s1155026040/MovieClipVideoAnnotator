@@ -1,7 +1,5 @@
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS110 	00:15:07,00 --> 00:15:14,50 	he plays an acoustic guitar while blowing a harmonica attached to a neck rack.
-21_JUMP_STREET.srt 	21_JUMP_STREET_DVS361 	01:00:00,00 --> 01:00:08,50 	now in a humble house, the three nerds play music as someone arrives with energy drinks.
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS362 	01:00:14,00 --> 01:00:19,50 	on his patio someone plays guitar.
-21_JUMP_STREET.srt 	21_JUMP_STREET_DVS488 	01:18:33,00 --> 01:18:39,50 	playing foosball, the others watch the pair clear out their desks.
 30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS274 	01:04:45,00 --> 01:04:51,50 	now a reality show plays on a flat screen tv.
 40_YEAR_OLD_VIRGIN.srt 	40_YEAR_OLD_VIRGIN_DVS15 	00:03:27,00 --> 00:03:34,50 	at a tv display, a someone mcdonald concert plays on dozens of screens.
 40_YEAR_OLD_VIRGIN.srt 	40_YEAR_OLD_VIRGIN_DVS36 	00:15:41,00 --> 00:15:45,50 	he plays video games.
@@ -9,31 +7,19 @@
 500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS49 	00:03:36,00 --> 00:03:40,50 	the boy plays football.
 500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS54 	00:03:47,00 --> 00:03:51,50 	the boy plays with bubbles.
 500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS301 	00:54:08,00 --> 00:54:15,50 	a crusader someone plays chess with a little winged angel by a rocky shore.
-A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS439 	01:15:44,00 --> 01:15:51,50 	later someone sits on a bench and watches a group of children playing on a swing set.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS458 	01:05:30,00 --> 01:05:38,50 	someone slips into a bedroom where someone wears a union uniform as he plays with toy soldiers.
-BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS182 	00:31:16,00 --> 00:31:22,50 	someone notices someone playing a nearby baby grand piano.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS292 	00:49:09,00 --> 00:49:13,50 	someone plays the piano.
 BLINDDATING.srt 	BLINDDATING_DVS22 	00:07:08,00 --> 00:07:15,50 	in his room, someone plays a guitar.
-BRUNO.srt 	BRUNO_DVS58 	00:11:47,00 --> 00:11:54,50 	the actor playing the lawyer shakes his head.
 BRUNO.srt 	BRUNO_DVS269 	01:16:33,00 --> 01:16:38,50 	someone plays guitar.
 BURLESQUE.srt 	BURLESQUE_DVS85 	00:08:28,00 --> 00:08:37,50 	the dancers tap their heels, then nod to a neighboring stage where musicians play.
 BURLESQUE.srt 	BURLESQUE_DVS93 	00:10:15,00 --> 00:10:25,50 	as the band plays, a spotlight shines on dancers in silver-sequined outfits.
 BURLESQUE.srt 	BURLESQUE_DVS355 	00:49:04,00 --> 00:49:09,50 	dancing around her, he plays the tambourine.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS163 	00:29:29,00 --> 00:29:36,50 	boys playing stickball on the street move aside as someone and agent someone pass in a car.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS659 	01:50:11,00 --> 01:50:20,50 	outside, a young boy holds a garbage can lid painted like captain america's shield as he plays with his friends.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS806 	01:19:37,00 --> 01:19:46,50 	in one corner, and empty armchair faces a tv that plays a home movie of someone with one of her babies.
-CHRONICLE.srt 	CHRONICLE_DVS280 	00:43:05,00 --> 00:43:18,50 	he gives a shy wave, then fumbles in his jacket pocket, produces a deck of playing cards, and faces someone.
 CHRONICLE.srt 	CHRONICLE_DVS305 	00:46:12,00 --> 00:46:16,50 	kids play beer pong.
-CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS386 	01:33:47,00 --> 01:34:20,50 	the promoter starts the projector again, playing the reel forward.
-COLOMBIANA.srt 	COLOMBIANA_DVS542 	00:49:05,00 --> 00:49:11,50 	agent someone sits down at his desk and plays the prison security footage.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS157 	00:24:42,00 --> 00:24:49,50 	back in the living room, someone smiles as she plays the guitar.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS159 	00:24:51,00 --> 00:25:05,50 	on the beach, a small group plays volleyball amidst a boisterous party.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS160 	00:25:06,00 --> 00:25:12,50 	another group sits around two young men playing acoustic guitars.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS245 	00:38:34,00 --> 00:38:49,50 	now, african women play drums and dance.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS452 	01:06:23,00 --> 01:06:32,50 	passing a group of soldiers playing football, he approaches other lounging on picnic tables outside a tent.
 DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS286 	01:10:51,00 --> 01:10:57,50 	someone pummels someone, who immediately plays dead.
 EASY_A.srt 	EASY_A_DVS106 	00:35:18,00 --> 00:35:23,50 	now someone plays an acoustic guitar in her room.
-FLIGHT.srt 	FLIGHT_DVS973 	01:55:20,00 --> 01:55:27,50 	in the hearing room, cell phone footage of the plane crash is played on a large screen.
 FLIGHT.srt 	FLIGHT_DVS1223 	02:09:06,00 --> 02:09:11,50 	a smile plays on his lips.
 FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS88 	00:23:11,00 --> 00:23:20,50 	later they play virtual table tennis.
 FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS88 	00:23:11,00 --> 00:23:20,50 	now someone and others stick playing cards to their foreheads.
@@ -42,14 +28,9 @@ FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS155 	00:41:27,00 --> 00:41:3
 FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS325 	01:26:43,00 --> 01:26:50,50 	now the someone and someone movie plays on someone's tv.
 GET_HIM_TO_THE_GREEK.srt 	GET_HIM_TO_THE_GREEK_DVS66 	00:36:16,00 --> 00:36:21,50 	musician grins broadly and mimes playing bongos.
 GET_HIM_TO_THE_GREEK.srt 	GET_HIM_TO_THE_GREEK_DVS176 	01:37:21,00 --> 01:37:31,50 	above the stage as the drummer plays enthusiastically.
-GROWN_UPS.srt 	GROWN_UPS_DVS20 	00:06:13,00 --> 00:06:23,50 	at another house a photo shows the five boys with their coach, outside, a husky guy plays with two kids in an above ground pool.
 GROWN_UPS.srt 	GROWN_UPS_DVS227 	01:06:53,00 --> 01:06:58,50 	now at the lake house, the fathers and sons play
-HUGO.srt 	HUGO_DVS223 	00:33:16,00 --> 00:33:22,50 	he glances up at someone, who holds a deck of playing cards topped by the eight of spades.
-IN_TIME.srt 	IN_TIME_DVS54 	00:05:55,00 --> 00:06:04,50 	smiling politely, he sidles past and goes to a table where men play cards.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS200 	00:57:16,00 --> 00:57:43,50 	an ipod on the desk plays next to the exposed police bug.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS82 	00:16:11,00 --> 00:16:19,50 	in the hearing room, someone tries to unplug the video screen as a video of him and the pilot wearing an armored suit plays.
 JACK_AND_JILL.srt 	JACK_AND_JILL_DVS182 	00:35:13,00 --> 00:35:18,50 	at home, the kids play air hockey.
-JACK_AND_JILL.srt 	JACK_AND_JILL_DVS258 	00:51:52,00 --> 00:52:00,50 	playing soccer, someone tries to kick the ball but her foot misses and she falls onto her back.
 JACK_AND_JILL.srt 	JACK_AND_JILL_DVS279 	00:53:08,00 --> 00:53:12,50 	someone now plays barefoot.
 JACK_AND_JILL.srt 	JACK_AND_JILL_DVS336 	01:04:41,00 --> 01:04:46,50 	two girls playing miniature golf cheer along.
 JACK_AND_JILL.srt 	JACK_AND_JILL_DVS382 	01:11:28,00 --> 01:11:33,50 	now, a record plays on a turntable.
@@ -59,60 +40,32 @@ KARATE_KID.srt 	KARATE_KID_DVS60 	00:05:11,00 --> 00:05:25,50 	in the dim cabin,
 KARATE_KID.srt 	KARATE_KID_DVS108 	00:10:02,00 --> 00:10:08,50 	children play in the tree-filled park across the street.
 KARATE_KID.srt 	KARATE_KID_DVS148 	00:12:57,00 --> 00:13:02,50 	two older men play ping-pong.
 KARATE_KID.srt 	KARATE_KID_DVS324 	00:29:01,00 --> 00:29:10,50 	on a stage decorated with a colorful interpretation of the sea at night, someone plays the violin.
-KARATE_KID.srt 	KARATE_KID_DVS786 	01:06:27,00 --> 01:06:38,50 	the cover shows a photo of someone on a hand-drawn background that reads, "play along.
-KARATE_KID.srt 	KARATE_KID_DVS1105 	01:31:45,00 --> 01:31:57,50 	in the school auditorium, a pre-teen boy plays the piano, his fingers moving nimbly over the keys.
 KARATE_KID.srt 	KARATE_KID_DVS1121 	01:33:01,00 --> 01:33:08,50 	on stage, the girl plays with closed eyes and a furrowed brow.
 KATY_PERRY_PART_OF_ME.srt 	KATY_PERRY_PART_OF_ME_DVS131 	00:34:45,00 --> 00:34:52,50 	someone plays guitar and sings.
-KNOCKED_UP.srt 	KNOCKED_UP_DVS85 	00:49:15,00 --> 00:49:22,50 	now outside the rental house, someone and someone play ping-pong while the others watch.
 LARRY_CROWNE.srt 	LARRY_CROWNE_DVS199 	00:46:11,00 --> 00:46:17,50 	men playing cards.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS204 	00:26:43,00 --> 00:26:49,50 	someone plays the dholak drum and watches her closely.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS689 	01:12:37,00 --> 01:12:43,50 	it illuminates someone's grinning face as he plays.
 LITTLE_FOCKERS.srt 	LITTLE_FOCKERS_DVS81 	00:30:38,00 --> 00:30:51,50 	now, a handful of children play in the courtyard of a glass-paneled building.
 MORNING_GLORY.srt 	MORNING_GLORY_DVS342 	01:15:05,00 --> 01:15:12,50 	someone plays the bagpipes.
-MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS244 	00:35:30,00 --> 00:35:36,50 	as someone kicks it back, the penguins play with them.
-PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS278 	01:05:49,00 --> 01:05:55,50 	now someone finds someone dejectedly playing with legos in his room.
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS285 	01:07:52,00 --> 01:07:56,50 	someone plays the audio file.
-PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS299 	01:11:03,00 --> 01:11:09,50 	as they play, someone kicks someone in the shin.
-PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS311 	01:13:22,00 --> 01:13:32,50 	at home, someone searches a digital jukebox and finds the book of love in a playlist labeled someone's most played.
-PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS230 	01:01:40,00 --> 01:01:47,50 	now children play around a man making giant soap bubbles on the park lawn.
-PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS305 	01:16:11,00 --> 01:16:19,50 	he stops at a pinball machine played by a thin young man with long, corn silk hair.
 PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS322 	01:20:40,00 --> 01:20:45,50 	the radio plays a news report.
-PROMETHEUS.srt 	PROMETHEUS_DVS158 	00:10:00,00 --> 00:10:06,50 	a screen at the top shows a girl playing a violin.
 PROMETHEUS.srt 	PROMETHEUS_DVS165 	00:10:44,00 --> 00:10:48,50 	a movie plays.
-PROMETHEUS.srt 	PROMETHEUS_DVS512 	00:54:42,00 --> 00:54:49,50 	someone stops playing a concertina and approaches a pinging red dot on the map.
 PROMETHEUS.srt 	PROMETHEUS_DVS659 	01:11:47,00 --> 01:11:52,50 	a holographic recording plays back.
-PROMETHEUS.srt 	PROMETHEUS_DVS686 	01:13:24,00 --> 01:13:30,50 	spreading his arms wide, the pilot leans back as if playing an organ.
-PROMETHEUS.srt 	PROMETHEUS_DVS999 	01:49:28,00 --> 01:49:36,50 	on the far end, the false windows show the video of the little girl playing the violin.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS168 	00:31:04,00 --> 00:31:10,50 	he plays a 78 record.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS646 	02:01:27,00 --> 02:01:38,50 	in the movie house, the crowd watches figures on screen playing hockey, then clark gable washing his hands in a men's room.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS433 	01:47:27,00 --> 01:47:50,50 	on the ground, a drunk frenchman playing a drum falls over.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS213 	00:34:44,00 --> 00:34:52,50 	they play a game with gun-shaped controllers.
-RUBY_SPARKS.srt 	RUBY_SPARKS_DVS291 	00:46:10,00 --> 00:46:18,50 	now stuck in traffic, someone reaches for his cellphone as someone plays a game on it.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS325 	00:52:38,00 --> 00:52:43,50 	later, they play charades.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS446 	01:08:12,00 --> 01:08:18,50 	now in the pool, she plays manically with someone and someone.
 SALT.srt 	SALT_DVS270 	00:47:34,00 --> 00:47:46,50 	now in the cathedral, a gray-haired man plays an organ.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS104 	00:07:18,00 --> 00:07:23,50 	now, someone's stepmother plays a record.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS378 	00:25:11,00 --> 00:25:17,50 	where musicians play by a waiting sedan chair.
-SOUL_SURFER.srt 	SOUL_SURFER_DVS26 	00:05:24,00 --> 00:05:29,50 	sitting on her bed, someone gazes out a window as she plays her ukulele.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS69 	00:12:08,00 --> 00:12:13,50 	on the tv, a band plays.
-SPARKLE_2012.srt 	SPARKLE_2012_DVS92 	00:14:26,00 --> 00:14:33,50 	in another room, someone wears glasses and plays an upright piano alone.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS97 	00:16:49,00 --> 00:16:54,50 	as she plays, someone moves near her smiling.
-SPARKLE_2012.srt 	SPARKLE_2012_DVS590 	01:36:20,00 --> 01:36:25,50 	keeping them shut, she plays the piano.
-SPARKLE_2012.srt 	SPARKLE_2012_DVS593 	01:37:34,00 --> 01:37:39,50 	as she plays on with her eyes closed.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS640 	01:43:55,00 --> 01:44:01,50 	an orchestra plays in a pit below the stage.
 SUPER_8.srt 	SUPER_8_DVS334 	00:59:52,00 --> 00:59:58,50 	in the film, someone's mother tips him upside down as they play outdoors.
 SUPER_8.srt 	SUPER_8_DVS376 	01:06:18,00 --> 01:06:24,50 	back at his house, someone plays the developed film footage.
-SUPER_8.srt 	SUPER_8_DVS421 	01:15:25,00 --> 01:15:31,50 	someone turns to someone who plays an electronic football game.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS96 	00:13:48,00 --> 00:13:55,50 	as the two dogs play in the yard, someone reaches through one of the home's broken window panes,
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS249 	00:47:45,00 --> 00:47:53,50 	someone shoots his cell a brooding glance, then reaches for his ipod and hits play.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS254 	00:48:43,00 --> 00:48:49,50 	he presses play on his ipod and lies back.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS481 	01:10:01,00 --> 01:10:08,50 	several yards ahead, someone's form bobs in and out of view as she plays in the ocean.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS612 	01:30:26,00 --> 01:30:34,50 	a faint smile briefly plays on someone's face as he gives the teens a surprised look.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS164 	00:18:37,00 --> 00:18:42,50 	in a flashback, children play outside the house.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1341 	02:23:58,00 --> 02:24:04,50 	now, news reports play in various high-end stores.
 THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS82 	00:28:52,00 --> 00:28:58,50 	back in the car, someone plays her audio book.
-THE_SITTER.srt 	THE_SITTER_DVS20 	00:11:10,00 --> 00:11:14,50 	facing it a boy plays with a sparkler.
-THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS290 	01:47:17,00 --> 01:47:28,50 	there's a guy playing an acoustic guitar, two girls making out, and a group smoking pot.
 THE_VOW.srt 	THE_VOW_DVS427 	00:59:35,00 --> 00:59:40,50 	teens play on the other side of the glass.
 THE_VOW.srt 	THE_VOW_DVS583 	01:20:53,00 --> 01:21:00,50 	now in his recording studio, someone sits playing an acoustic guitar.
 THE_WATCH.srt 	THE_WATCH_DVS233 	00:42:30,00 --> 00:42:35,50 	he plays the file.
@@ -121,10 +74,7 @@ THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS111 	00:31:48,00 --> 00:31:58,50 	the 
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS209 	00:52:08,00 --> 00:52:14,50 	someone plays a video game with duke.
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS471 	01:46:28,00 --> 01:46:32,50 	someone plays guitar.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS107 	00:18:22,00 --> 00:18:32,50 	a movie plays on a tv at a video store.
-THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS226 	00:42:06,00 --> 00:42:13,50 	leaning on someone, someone staggers drunkenly into a backroom where men play cards.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS56 	00:07:02,00 --> 00:07:08,50 	someone and four buddies play cards at the kitchen table.
-TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS201 	00:26:16,00 --> 00:26:21,50 	someone keeps playing on his loft bed.
-TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS443 	00:46:52,00 --> 00:46:59,50 	later, in someone's living room, they play cards and use cheese puffs as betting chips.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS563 	01:01:46,00 --> 01:01:51,50 	as someone plays drums, someone plays his guitar.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS563 	01:01:46,00 --> 01:01:51,50 	as someone plays drums, someone plays his guitar.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS588 	01:04:58,00 --> 01:05:03,50 	now, someone skates, then plays music with someone.
@@ -132,14 +82,9 @@ TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS598 	01:05:32,00 --> 01:05:38,50 	now, someone a
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS626 	01:32:55,00 --> 01:33:13,50 	later, they play a game of tag.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS627 	01:33:10,00 --> 01:33:20,50 	back in the present, someone beams joyfully as he visualizes his wife and children playing before him in the dimly lit 	kitchen.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS711 	01:42:41,00 --> 01:42:47,50 	a smirk plays on ferris' lips as he regards the staff.
-WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS253 	00:35:06,00 --> 00:35:14,50 	in an alley, several kids play with a ball as white clothes hang on a sun-drenched clothesline nearby.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS614 	01:23:06,00 --> 01:23:10,50 	the wedding planner plays a tuba.
-WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS737 	01:37:30,00 --> 01:37:42,50 	someone joins the band, playing a tambourine, but someone fails to notice her.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS665 	01:01:02,00 --> 01:01:10,50 	meanwhile, someone watches a score display as someone plays pinball in the rec room.
 YOUNG_ADULT.srt 	YOUNG_ADULT_DVS260 	00:49:50,00 --> 00:49:56,50 	someone bounces in her seat as she plays the drums and sings.
-YOUNG_ADULT.srt 	YOUNG_ADULT_DVS384 	01:14:09,00 --> 01:14:16,50 	someone plays a new drum set.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS205 	00:22:17,00 --> 00:22:22,50 	someone plays a banjo.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS427 	00:49:11,00 --> 00:49:17,50 	in the home theater, a movie plays.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS478 	00:55:52,00 --> 00:55:58,50 	at night, they play monopoly by a fancy fireplace.
 ZOOKEEPER.srt 	ZOOKEEPER_DVS57 	00:11:12,00 --> 00:11:18,50 	venom cringes while frankie hits play on a boom box.
-ZOOKEEPER.srt 	ZOOKEEPER_DVS201 	00:45:26,00 --> 00:45:31,50 	gorilla stops playing with his swinging ball and turns to find

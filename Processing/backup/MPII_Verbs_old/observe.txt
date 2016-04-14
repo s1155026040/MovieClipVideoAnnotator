@@ -1,32 +1,30 @@
-0001_American_Beauty_00.04.51.145-00.04.54.900 	BRAD, a dapper man in his thirties, approaches and observes Lester, who is unaware of his presence.
-0001_American_Beauty_00.04.51.145-00.04.54.900 	BRAD, a dapper man in his thirties, approaches and observes Lester, who is unaware of his presence.
-0002_As_Good_As_It_Gets_00.34.51.773-00.34.54.316 	Melvin slows -- observes the dog mirroring his behavior.
-0003_CASABLANCA_00.03.58.870-00.04.00.516 	A middle-aged ENGLISH COUPLE sit at a table just off the square, and observe the commotion across the way in front of the Palais de Justice.
-0003_CASABLANCA_00.25.48.513-00.25.49.876 	BERGER, a slight, middle-aged man, observes the couple from a distance.
-0003_CASABLANCA_00.54.04.981-00.54.06.638 	Strasser observes their reaction.
-0021_Rear_Window_00.27.10.600-00.27.11.600 	We now observe that two small lit candles adorn the table, and the rest of the room lights are out.
-0030_The_Hustler_00.13.45.510-00.13.58.215 	Fats withdraws a cigarette from his gold case, then casually strolls toward Eddie's table standing apart and quietly observing the sharp, precise movements of his prospective opponent.
-0030_The_Hustler_01.47.02.246-01.47.27.167 	she moves past Findley, alone with his drink, observing his guests; past the bleary-eyed couples on the dance floor, until she comes to the bar.
-0050_Indiana_Jones_and_the_last_crusade_00.03.55.107-00.03.58.889 	Indy turns back to observe the men.
-0053_Rendezvous_mit_Joe_Black_00.03.42.761-00.03.49.858 	Parrish, groomed for the day, trots down the stairs, observing the activity outside through the windows.
-0053_Rendezvous_mit_Joe_Black_00.05.10.449-00.05.17.022 	Allison goes, Susan observes Parrish fidgeting.
-0053_Rendezvous_mit_Joe_Black_00.45.26.997-00.45.36.158 	He observes her, but she is unaware of him, however now, as she makes a barrel turn, his shadow falls over a reflection from a window, she aborts her lap, looks up to see who it is.
-0053_Rendezvous_mit_Joe_Black_01.53.24.352-01.53.30.603 	He turns back into the foyer, looks up, Parrish is on the balcony, it is clear he has observed Joe and Susan.
-1001_Flight_01.01.18.972-01.01.27.840 	She fidgets as she smiles to herself and observes Whip as he drives.
+0001_American_Beauty_00.04.51.145-00.04.54.900 	brad, a dapper man in his thirties, approaches and observes lester, who is unaware of his presence.
+0002_As_Good_As_It_Gets_00.34.51.773-00.34.54.316 	melvin slows -- observes the dog mirroring his behavior.
+0003_CASABLANCA_00.03.58.870-00.04.00.516 	a middle-aged english couple sit at a table just off the square, and observe the commotion across the way in front of the palais de justice.
+0003_CASABLANCA_00.25.48.513-00.25.49.876 	berger, a slight, middle-aged man, observes the couple from a distance.
+0003_CASABLANCA_00.54.04.981-00.54.06.638 	strasser observes their reaction.
+0003_CASABLANCA_01.00.45.432-01.00.46.843 	laszlo quietly observes.
+0021_Rear_Window_00.27.10.600-00.27.11.600 	we now observe that two small lit candles adorn the table, and the rest of the room lights are out.
+0021_Rear_Window_00.57.09.491-00.57.14.097 	startled at being observed, doyle moves quickly away from the window, affecting nonchalance.
+0030_The_Hustler_00.13.45.510-00.13.58.215 	fats withdraws a cigarette from his gold case, then casually strolls toward eddie's table standing apart and quietly observing the sharp, precise movements of his prospective opponent.
+0030_The_Hustler_01.47.02.246-01.47.27.167 	she moves past findley, alone with his drink, observing his guests; past the bleary-eyed couples on the dance floor, until she comes to the bar.
+0031_The_Lost_Weekend_00.11.45.198-00.11.46.803 	he gives a quick glance in each direction, to see that he's not observed.
+0050_Indiana_Jones_and_the_last_crusade_00.03.55.107-00.03.58.889 	indy turns back to observe the men.
+0053_Rendezvous_mit_Joe_Black_00.03.42.761-00.03.49.858 	parrish, groomed for the day, trots down the stairs, observing the activity outside through the windows.
+0053_Rendezvous_mit_Joe_Black_00.45.26.997-00.45.36.158 	he observes her, but she is unaware of him, however now, as she makes a barrel turn, his shadow falls over a reflection from a window, she aborts her lap, looks up to see who it is.
+0053_Rendezvous_mit_Joe_Black_01.53.24.352-01.53.30.603 	he turns back into the foyer, looks up, parrish is on the balcony, it is clear he has observed joe and susan.
+1001_Flight_01.01.18.972-01.01.27.840 	she fidgets as she smiles to herself and observes whip as he drives.
+1005_Signs_01.12.03.722-01.12.12.520 	observing him, morgan gets up from his chair and goes to his dad who is now throwing down his fork and is sobbing uncontrollably.
 1009_Spider-Man3_01.24.05.480-01.24.08.517 	a little way further along the lake, harry is leaning against a tree observing the scene.
+1018_Body_Of_Lies_01.50.42.192-01.50.43.893 	ferris sees karami amongst the men observing.
 1024_Identity_Thief_00.24.23.375-00.24.27.422 	sandy observes her go to a tiny blue fiat with a red stripe on its side.
-1028_No_Reservations_01.18.52.731-01.18.55.411 	in the soft glow of the lamp, nick observes kate with a smile.
 1030_Public_Enemies_00.50.45.292-00.50.48.263 	other lawmen observe from a side table.
 1031_Quantum_of_Solace_01.23.46.740-01.23.53.092 	felix observes the chaos dispassionately and sips his beer.
 1033_Sherlock_Holmes_A_Game_of_Shadows_01.40.34.350-01.40.36.016 	he observes the other people in the room.
 1033_Sherlock_Holmes_A_Game_of_Shadows_01.40.40.521-01.40.41.674 	he observes details of the people in the ballroom.
-1035_The_Adjustment_Bureau_01.07.11.555-01.07.16.531 	david observes thompson, who stands still, his thoughtful eyes blinking.
 1046_Australia_01.01.00.281-01.01.01.798 	king george observes from his perch.
 1047_Defiance_00.02.11.245-00.02.20.529 	the departing truck, escorted by nazi outriders, is being observed by two men hiding behind a tree.
 1047_Defiance_01.42.59.905-01.43.01.512 	asael observes from a distance.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_01.52.09.447-01.52.21.214 	quickly, they run into the forest and observe themselves and ron leave the cottage and hide behind the pumpkins.
 1057_Seven_pounds_00.22.04.184-00.22.13.394 	ben takes a paper cup and sucks on the straw in it, all the while observing the boys and the woman.
-2012_Unbreakable_00.37.58.254-00.38.02.913 	elijah observes as a security team pats down random males as they move through the turnstiles.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_01.52.09.447-01.52.21.214 	quickly, they run into the forest and observe themselves and ron leave the cottage and hide behind the pumpkins.
-1057_Seven_pounds_00.22.04.184-00.22.13.394 	ben takes a paper cup and sucks on the straw in it, all the while observing the boys and the woman.
-2012_Unbreakable_00.37.58.254-00.38.02.913 	elijah observes as a security team pats down random males as they move through the turnstiles.
+2034_Super_8_00.13.47.503-00.13.49.887 	joe, observing, holds the boom mike (a condenser mike taped to a broom handle), preston wears an overcoat.

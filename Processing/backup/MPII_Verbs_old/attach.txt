@@ -1,17 +1,21 @@
-0004_Charade_00.42.43.864-00.42.47.533 	Now, taking the long thread, he bends down near the door and, taking his tie-pin, attaches one end of the thread to the bottom of REGGIE's door.
-0004_Charade_01.34.24.449-01.34.30.249 	Four of them -- a red, a yellow, a blue, and a green, still attached to the portion of the torn envelope.
-0016_O_Brother_Where_Art_Thou_00.53.40.123-00.53.46.033 	Big Dan walks awkwardly over to Everett with Delmar still attached to him like a hunting dog locked on to a bear.
-0017_Pianist_01.03.58.313-01.04.04.012 	Majorek pulls a barrow by a rope attached to its shaft across the site.
-0038_Psycho_01.48.42.068-01.48.45.127 	The chain is attached to Mary's car.
-0049_Hannah_and_her_sisters_00.29.30.563-00.29.38.125 	An electrode is attached to his forehead; a nearby technician sits at a computer video screen, looking at a monitoring graph.
-0050_Indiana_Jones_and_the_last_crusade_01.13.20.480-01.13.24.724 	Vogel gets to his knees as the huge Zeppelin rises into the sky above him, revealing an airplane attached to the belly of the airship.
-1004_Juno_01.25.41.793-01.25.49.580 	A squawking baby attached to his umbilical cord.
-1006_Slumdog_Millionaire_00.03.59.259-00.04.01.360 	Srinivas attaches the jump leads to each of Jamal's big toes.
-1007_Spider-Man1_00.15.58.097-00.15.59.258 	Norman is firmly attached to the trolley.
-1007_Spider-Man1_00.22.51.868-00.22.53.357 	It's attached to web like threads coming from his wrist.
+0004_Charade_00.42.43.864-00.42.47.533 	now, taking the long thread, he bends down near the door and, taking his tie-pin, attaches one end of the thread to the bottom of reggie's door.
+0004_Charade_01.34.24.449-01.34.30.249 	four of them -- a red, a yellow, a blue, and a green, still attached to the portion of the torn envelope.
+0016_O_Brother_Where_Art_Thou_00.53.40.123-00.53.46.033 	big dan walks awkwardly over to everett with delmar still attached to him like a hunting dog locked on to a bear.
+0017_Pianist_01.03.58.313-01.04.04.012 	majorek pulls a barrow by a rope attached to its shaft across the site.
+0019_Pulp_Fiction_02.09.16.747-02.09.18.660 	jimmie holds a plastic hefty trash bag, while the wolf holds a garden hose with one of those guns nozzles attached.
+0038_Psycho_01.48.42.068-01.48.45.127 	the chain is attached to mary's car.
+0049_Hannah_and_her_sisters_00.29.30.563-00.29.38.125 	an electrode is attached to his forehead; a nearby technician sits at a computer video screen, looking at a monitoring graph.
+0050_Indiana_Jones_and_the_last_crusade_01.13.20.480-01.13.24.724 	vogel gets to his knees as the huge zeppelin rises into the sky above him, revealing an airplane attached to the belly of the airship.
+1002_Harry_Potter_and_the_Half-Blood_Prince_01.52.14.257-01.52.18.201 	attached to it is a wisp of vapor, the memory.
+1004_Juno_01.25.41.793-01.25.49.580 	a squawking baby attached to his umbilical cord.
+1006_Slumdog_Millionaire_00.03.59.259-00.04.01.360 	srinivas attaches the jump leads to each of jamal's big toes.
+1007_Spider-Man1_00.15.58.097-00.15.59.258 	norman is firmly attached to the trolley.
+1007_Spider-Man1_00.22.51.868-00.22.53.357 	it's attached to web like threads coming from his wrist.
+1007_Spider-Man1_00.45.31.888-00.45.38.983 	he looks up at the corners of the building to which his web is attached.
 1007_Spider-Man1_01.09.45.321-01.09.50.307 	the web attached to the balcony holds just as near the other ground and they spring back up in the air.
 1007_Spider-Man1_01.42.41.991-01.42.44.014 	he attaches a network of webs to the bridge.
 1007_Spider-Man1_01.43.46.967-01.43.52.315 	like a gymnast on rings, spider-man's arms are stretched wide, one attached to the web supporting them all, the hand of the other still grasping the cable tightly.
+1008_Spider-Man2_00.28.40.375-00.28.45.882 	he ensnares the men's weapons in their hands and tosses them over an overhead light, the men still attached.
 1008_Spider-Man2_01.42.38.550-01.42.39.804 	he attaches two webs over otavious and pulls him
 1008_Spider-Man2_01.43.10.451-01.43.16.983 	with two webs attached to two limbs octavius manages to catapult spider-man towards a covered walkway.
 1008_Spider-Man2_01.46.51.881-01.47.02.070 	the two webs attach to buildings either side of the track, and spider-man takes the string.
@@ -19,10 +23,10 @@
 1008_Spider-Man2_01.55.03.178-01.55.04.986 	spider-man attaches a web to the rope and struggles to pull mj back from the glowing tritium.
 1008_Spider-Man2_02.01.05.800-02.01.15.630 	underwater, the body of octavius, the four limbs still attached to him, floats downwards, as does the sphere.
 1008_Spider-Man2_02.02.22.375-02.02.28.633 	up on the web attached to the crane, mj turns to face spider-man once more.
-1009_Spider-Man3_00.10.17.971-00.10.30.187 	the strange black substance crawls speedily up behind and attaches itself to the rear number plate, as the moped rides off down the woodland track.
 1009_Spider-Man3_00.45.28.533-00.45.33.012 	he unfastens one of the ropes attached to the tarpaulin.
 1010_TITANIC_00.04.41.298-00.04.47.138 	outside a small robotic vehicle attached to a tether engages from the sub.
 1010_TITANIC_01.34.43.930-01.34.46.215 	in the metal crow's nest, attached to a mast.
+1018_Body_Of_Lies_00.21.06.427-00.21.12.316 	he turns a corner and sees a man holding a detonator with wires attached.
 1019_Confessions_Of_A_Shopaholic_00.08.06.780-00.08.14.887 	the shoes are attached to a tall, blonde woman in a black dress with a fur collar, who gives rebecca a quick once-over.
 1027_Les_Miserables_00.01.11.583-00.01.22.441 	lines of men standing in the dry dock tug on heavy ropes attached to the ship.
 1027_Les_Miserables_00.03.52.530-00.03.56.561 	the flag, still attached to the pole, is dragged through the water.
@@ -32,16 +36,10 @@
 1033_Sherlock_Holmes_A_Game_of_Shadows_00.48.13.345-00.48.18.983 	watson and holmes sit in the ruined lavatory of their carriage which is at the end of those still attached to the engine.
 1033_Sherlock_Holmes_A_Game_of_Shadows_01.18.06.632-01.18.07.383 	a glass container is attached to the metal tip.
 1033_Sherlock_Holmes_A_Game_of_Shadows_01.23.29.389-01.23.37.972 	clutching the rope attached to the hook in his shoulder, holmes is swinging about a meter off the floor.
+1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.57.23.390-00.57.27.328 	he finds files with photos attached.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.30.04.904-01.30.08.178 	she picks up a book with a note attached to the cover.
-1057_Seven_pounds_00.02.43.383-00.02.45.531 	before him on a coffee table is a list of names with a typed note attached to it.
-1057_Seven_pounds_00.07.14.998-00.07.19.331 	on the seat beside him is a file with emily posa's details attached to it.
-1057_Seven_pounds_00.10.18.552-00.10.24.997 	a clip attached to emily's forefinger attaches her to an electrocardiograph machine.
-1057_Seven_pounds_00.21.36.545-00.21.40.815 	in a hospital canteen, an elderly patient attached to a drip wheels the stand it's on as he walks.
-1057_Seven_pounds_01.20.31.916-01.20.34.516 	nick looks weak and is attached to monitors.
-1060_Yes_man_01.20.10.220-01.20.11.913 	a harness around his waist and ankles is attached to a bungee rope.
-1062_Day_the_Earth_stood_still_00.38.19.481-00.38.27.742 	electrodes are placed around his body and attached to his temples.
-2017_Bad_Santa_01.17.53.792-01.17.57.097 	gin attaches the cables.
-2026_Legion_00.41.33.386-00.41.38.735 	charlie and jeep fall back into the diner, the claw like hands still grasping charlie's arm no longer attached to their owners.
+1054_Harry_Potter_and_the_prisoner_of_azkaban_00.05.41.926-00.05.43.579 	ripper's still attached.
+1056_Rambo_00.05.29.729-00.05.30.434 	his arrow has a line attached.
 1057_Seven_pounds_00.02.43.383-00.02.45.531 	before him on a coffee table is a list of names with a typed note attached to it.
 1057_Seven_pounds_00.07.14.998-00.07.19.331 	on the seat beside him is a file with emily posa's details attached to it.
 1057_Seven_pounds_00.10.18.552-00.10.24.997 	a clip attached to emily's forefinger attaches her to an electrocardiograph machine.

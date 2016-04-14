@@ -1,42 +1,16 @@
-0009_Forrest_Gump_00.49.15.094-00.49.16.804 	forrest's platoon is attacked.
 0021_Rear_Window_00.37.19.587-00.37.27.087 	she attacks the sore muscle vigorously.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.36.23.353-01.36.26.233 	gandalf welds his staff, cutting through the attacking orc with ease.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.32.54.426-02.33.01.087 	of aragorn's army, totally surrounded by 300,000 orcs poised for the order to attack!
-0032_The_Princess_Bride_01.21.40.833-01.21.47.637 	and as his warriors attack-- inigo goes wild, and maybe the warrior's are good, maybe they're even better than that--but they never get a chance to show it because this is something now, this is inigo gone mad and the six-fingered sword has never flashed faster and the fourth warrior is dead before the first one has even hit the floor.
 0032_The_Princess_Bride_01.26.30.439-01.26.33.470 	and again he attacks, slashing with wondrous skill.
 0050_Indiana_Jones_and_the_last_crusade_00.13.03.544-00.13.07.169 	indy grabs a crowbar and fends off two sailors who attack him from the sides.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.20.31.502-00.20.39.044 	they enter the empty and burned out shop the death eaters attacked.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.20.55.900-00.21.03.747 	the trio leave ollivander's and peek round the corner, where there's a wanted poster for fenrir greyback: the beardy death-eater who attacked the shop.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.05.27.631-01.05.29.079 	the birds dive headlong to attack ron.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.20.42.991-01.20.44.696 	they attack the weasley house, which bursts into flames.
-1007_Spider-Man1_01.24.29.103-01.24.40.530 	as he jumps, ducks and weaves, so the goblin attacks with his gloved fists.
-1008_Spider-Man2_01.17.21.274-01.17.23.684 	he sees two muggers attacking a dark-haired youth.
 1017_Bad_Santa_00.14.55.758-00.14.59.549 	from it, he selects the poker and attacks the safe.
-1027_Les_Miserables_00.07.19.476-00.07.19.938 	valjean is attacked outside.
-1031_Quantum_of_Solace_01.30.47.126-01.30.52.235 	the hostess, hands bound, runs for the door and is batted aside by camille who is then attacked by the general.
-1033_Sherlock_Holmes_A_Game_of_Shadows_00.05.09.670-00.05.11.198 	he makes to attack the leader, who shrinks back.
 1034_Super_8_01.49.37.418-01.49.41.624 	zombie alice attacks him and snarls into the camera.
 1041_This_is_40_01.52.51.027-01.52.54.694 	larry's triplets attack the cake and lick the frosting tuning pegs.
-1046_Australia_01.44.03.805-01.44.11.281 	fletcher knocks carney into a swamp with his rifle and a crocodile attacks the cattle king.
-1046_Australia_01.54.42.017-01.54.44.458 	nullah's dog attacks a cop whose chasing him.
 1049_Harry_Potter_and_the_chamber_of_secrets_00.27.13.563-00.27.18.308 	hefty willow branches attack the car.
 1049_Harry_Potter_and_the_chamber_of_secrets_01.48.20.142-01.48.23.164 	harry dives for the passenger seat as the spiders attack.
-1049_Harry_Potter_and_the_chamber_of_secrets_01.49.07.100-01.49.12.552 	as he looks through the cracked windscreen, hundreds of huge spiders appear from amongst the shadowy trees and move towards the car, ready to attack again.
-1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.17.19.381-00.17.25.836 	hedwig flies towards them and attacks the chasing death eater.
-1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.17.25.836-00.17.31.159 	the owl swoops to attack again and is hit by a bolt of green light.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.35.53.247-00.35.57.176 	they attack the guests.
-1051_Harry_Potter_and_the_goblet_of_fire_01.34.55.936-01.34.58.538 	a merman prepares to attack.
 1051_Harry_Potter_and_the_goblet_of_fire_01.36.47.875-01.36.56.121 	he's suddenly attacked from below, a horde of vicious little squid-like grindylows with sharp teeth and many legs nip at his ankles.
 1051_Harry_Potter_and_the_goblet_of_fire_01.37.05.419-01.37.08.024 	hundreds of the creatures attack him.
 1052_Harry_Potter_and_the_order_of_phoenix_01.36.30.844-01.36.32.229 	another attacks draco.
-1053_Harry_Potter_and_the_philosophers_stone_01.47.21.672-01.47.28.648 	it attacks the dark figure, who turns and disappears into the mist.
 1053_Harry_Potter_and_the_philosophers_stone_02.03.29.296-02.03.32.692 	the white queen attacks a black castle.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_01.28.52.511-01.28.56.101 	the tree attacks them.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_02.00.43.605-02.00.56.305 	the dementors swoop down again and again as they attack the two helpless figures.
-1056_Rambo_00.27.48.163-00.27.54.456 	the village is attacked with rocket fire.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.22.58.000-00.23.00.000 	the dark lord attacks a bank guard.
-1062_Day_the_Earth_stood_still_01.18.50.617-01.18.56.000 	as the agent watches, the window glass is attacked.
 1062_Day_the_Earth_stood_still_01.19.47.270-01.19.53.000 	the officer in charge watches grimly as the swirling cloud attacks the windows.
-2051_Harry_Potter_and_the_goblet_of_fire_01.36.49.620-01.37.22.471 	he's attacked and gets held down, he pushes ron and the girl towards the surface.
-2051_Harry_Potter_and_the_goblet_of_fire_01.54.54.343-01.55.14.334 	fleur is running around scared, she is attacked and knocked down.
-2054_Harry_Potter_and_the_prisoner_of_azkaban_00.52.39.177-00.52.44.062 	as the class stares mutely at a slide of an attacking werewolf, hermione waiting desperately for someone to respond to snape's question, the moth flutters by harry.

@@ -5,22 +5,15 @@
 30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS182 	00:47:39,00 --> 00:47:43,50 	she heads for the vault.
 30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS281 	01:05:21,00 --> 01:05:27,50 	he heads towards a giant framed michigan lottery check adorning the wall.
 30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS283 	01:05:29,00 --> 01:05:33,50 	he heads down a set of steps.
-30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS293 	01:06:58,00 --> 01:07:04,50 	he heads upstairs, leaving the wounded major on the floor.
 40_YEAR_OLD_VIRGIN.srt 	40_YEAR_OLD_VIRGIN_DVS96 	00:50:49,00 --> 00:50:54,50 	later, the guys head for the exit.
-500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS115 	00:24:17,00 --> 00:24:22,50 	she gives a casual salute and heads off.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS536 	00:52:05,00 --> 00:52:13,50 	someone watches as the helicopter makes a graceful wide turn and heads back in the direction of the hotel.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS72 	00:08:10,00 --> 00:08:16,50 	someone spies on the couple as they head off.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS111 	00:11:54,00 --> 00:12:02,50 	he heads up a staircase, stopping after only a few steps to peek at an upper floor.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS216 	00:30:04,00 --> 00:30:10,50 	later, the bankers head lies upside down in a grave.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS265 	00:38:55,00 --> 00:39:00,50 	someone glances at his mentor then heads off.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS333 	00:47:36,00 --> 00:47:44,50 	he steps onto a curb and crosses a sidewalk heading for the general store.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS365 	00:51:45,00 --> 00:51:52,50 	as he heads off, someone reads from the book leaning against the wall.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS567 	01:19:06,00 --> 01:19:15,50 	heading further into the car, a soot-smeared someone catches someone watching him and pauses with a frown.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS602 	01:23:09,00 --> 01:23:40,50 	someone heads back inside as his friend climbs up to the rail car's roof.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS38 	00:03:28,00 --> 00:03:33,50 	he peeks into the vacant living room, then heads upstairs.
-BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS93 	00:13:40,00 --> 00:13:45,50 	he heads into the warehouse and the thugs follow.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS398 	01:04:49,00 --> 01:04:58,50 	someone watches through the binoculars as someone glances around, heading to his on-campus apartment.
-BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS413 	01:06:11,00 --> 01:06:19,50 	wearing a leather jacket and a loose scarf around his neck, he plucks a flower from a vase as he heads to someone's table.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS444 	01:11:07,00 --> 01:11:11,50 	the couple heads away.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS526 	01:22:36,00 --> 01:22:40,50 	he heads out.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS549 	01:25:25,00 --> 01:25:30,50 	as someone heads out, someone rolls his eyes.
@@ -29,45 +22,30 @@ BLINDDATING.srt 	BLINDDATING_DVS130 	00:35:39,00 --> 00:35:47,50 	now, someone h
 BLINDDATING.srt 	BLINDDATING_DVS326 	01:17:53,00 --> 01:18:00,50 	on another night, someone and someone lie head to toe on someone's bed.
 BURLESQUE.srt 	BURLESQUE_DVS74 	00:06:36,00 --> 00:06:42,50 	as she heads down a staircase, she eyes the lounge's stage through a window.
 BURLESQUE.srt 	BURLESQUE_DVS264 	00:37:40,00 --> 00:37:46,50 	as someone pulls on her sweater, the other dancers head out of the dressing room.
-BURLESQUE.srt 	BURLESQUE_DVS331 	00:45:10,00 --> 00:45:16,50 	wearing a skimpy biker-themed costume, she heads toward the stage.
-BURLESQUE.srt 	BURLESQUE_DVS369 	00:51:10,00 --> 00:51:17,50 	he heads away, passing someone, who stares at someone, her arms crossed.
-BURLESQUE.srt 	BURLESQUE_DVS508 	01:10:20,00 --> 01:10:30,50 	someone sets down the paper and picks up a bank letter headed, notice of defaulted payment.
 BURLESQUE.srt 	BURLESQUE_DVS640 	01:37:24,00 --> 01:37:27,50 	he heads off.
 BURLESQUE.srt 	BURLESQUE_DVS665 	01:43:05,00 --> 01:43:15,50 	they head across the street to the high-rise of luxury condos.
-BURLESQUE.srt 	BURLESQUE_DVS700 	01:47:16,00 --> 01:47:23,50 	he heads away, leaving someone at the bar with a faint smile on her lips and a faraway look.
 BURLESQUE.srt 	BURLESQUE_DVS734 	01:50:14,00 --> 01:50:19,50 	heading for the door, he pauses.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS180 	00:33:40,00 --> 00:33:48,50 	someone glances back at someone as she heads upstairs to the observation booth.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS606 	01:43:13,00 --> 01:43:32,50 	someone hurls someone into the controls causing the plane to head into a steep dive.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS55 	00:04:43,00 --> 00:04:49,50 	night falls as the van heads into a beach town.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS220 	00:17:43,00 --> 00:17:51,50 	in his sweats, someone sits up and peeks out a window to find someone heading out to his van across the street.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS247 	00:19:34,00 --> 00:19:39,50 	the men head off with their boards.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS307 	00:25:17,00 --> 00:25:22,50 	shaking his head, the teen turns away and heads home.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS387 	00:36:29,00 --> 00:36:35,50 	heading out the door, someone finds a set of keys on a table.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS953 	01:33:37,00 --> 01:33:42,50 	someone's buddy pats someone's shoulder and heads out.
 CHRONICLE.srt 	CHRONICLE_DVS63 	00:07:12,00 --> 00:07:19,50 	someone returns his camera to someone, then videotapes several teens heading inside.
 CHRONICLE.srt 	CHRONICLE_DVS67 	00:07:59,00 --> 00:08:04,50 	someone glances at his feet, then heads off through the crowd.
 CHRONICLE.srt 	CHRONICLE_DVS72 	00:08:49,00 --> 00:08:53,50 	she heads off.
-CHRONICLE.srt 	CHRONICLE_DVS389 	00:59:14,00 --> 00:59:20,50 	left alone, someone grabs his backpack and heads out.
 CHRONICLE.srt 	CHRONICLE_DVS425 	01:02:37,00 --> 01:02:43,50 	the doors open behind him as he zips up his backpack and heads out.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS63 	00:11:56,00 --> 00:12:00,50 	later, he heads down a sidewalk of darkness.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS181 	00:38:46,00 --> 00:38:50,50 	someone heads down a street.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS187 	00:39:43,00 --> 00:39:51,50 	he's on a boat, heading to new york city.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS192 	00:40:19,00 --> 00:40:26,50 	his hands slung in his pockets, he heads toward the entrance.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS207 	00:43:09,00 --> 00:43:19,50 	someone glances around the room then heads toward someone.
-COLOMBIANA.srt 	COLOMBIANA_DVS75 	00:05:18,00 --> 00:05:23,50 	turning away, he heads toward the home.
 COLOMBIANA.srt 	COLOMBIANA_DVS623 	00:58:55,00 --> 00:59:01,50 	in the courtyard, a guard puffs on a cigarette then heads inside.
-COLOMBIANA.srt 	COLOMBIANA_DVS734 	01:09:30,00 --> 01:09:37,50 	grabbing his phone, he heads over and gazes down at the slumbering beauty.
 COLOMBIANA.srt 	COLOMBIANA_DVS882 	01:23:37,00 --> 01:23:41,50 	she heads upstairs.
 COLOMBIANA.srt 	COLOMBIANA_DVS1078 	01:41:42,00 --> 01:41:47,50 	agent someone heads to the door.
-COLOMBIANA.srt 	COLOMBIANA_DVS1092 	01:43:20,00 --> 01:43:26,50 	someone takes his cell back and heads out of the room.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS36 	00:04:58,00 --> 00:05:03,50 	they head off side by side.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS57 	00:07:28,00 --> 00:07:34,50 	someone climbs over a log bench, and heads off with his father.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS79 	00:12:16,00 --> 00:12:20,50 	someone heads off.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS103 	00:15:28,00 --> 00:15:32,50 	they head inside.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS177 	00:28:45,00 --> 00:28:50,50 	reaching the party, he heads up a boardwalk.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS213 	00:33:46,00 --> 00:33:52,50 	he drapes an arm around her shoulder and she hugs his waist as they head inside.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS453 	01:06:36,00 --> 01:06:40,50 	he heads into the tent.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS471 	01:09:22,00 --> 01:09:27,50 	he heads off, leaving someone staring at the fire.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS477 	01:10:29,00 --> 01:10:33,50 	someone heads away.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS651 	01:28:27,00 --> 01:28:32,50 	later in a hospital, they head into an atrium.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS709 	01:35:50,00 --> 01:35:56,50 	someone unbuttons his wet sleeve as he heads into a bathroom.
@@ -75,16 +53,13 @@ DEAR_JOHN.srt 	DEAR_JOHN_DVS717 	01:36:20,00 --> 01:36:25,50 	now they head down
 DEAR_JOHN.srt 	DEAR_JOHN_DVS718 	01:36:26,00 --> 01:36:32,50 	she heads into the kitchen, but someone strides past the doorway.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS732 	01:37:24,00 --> 01:37:29,50 	then heads to the front door.
 DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS58 	00:08:12,00 --> 00:08:19,50 	someone heads off to an office.
-DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS153 	00:36:51,00 --> 00:36:57,50 	someone heads up the fire escape followed by someone.
 DISTRICT_9.srt 	DISTRICT_9_DVS743 	01:28:01,00 --> 01:28:11,50 	someone signals, then heads towards the transport.
 DISTRICT_9.srt 	DISTRICT_9_DVS763 	01:30:27,00 --> 01:30:33,50 	someone glances at someone, then heads off.
 EASY_A.srt 	EASY_A_DVS101 	00:33:47,00 --> 00:33:51,50 	he heads into the hallway.
 EASY_A.srt 	EASY_A_DVS121 	00:39:07,00 --> 00:39:17,50 	they share a grin, and he heads out.
-EASY_A.srt 	EASY_A_DVS130 	00:40:37,00 --> 00:40:46,50 	as they scramble away, someone finds herself facing someone, who snares and heads off.
 EASY_A.srt 	EASY_A_DVS146 	00:45:38,00 --> 00:45:48,50 	she heads to the track, where four other girls race, then stop and huddle around a phone.
 EASY_A.srt 	EASY_A_DVS167 	00:53:36,00 --> 00:53:45,50 	he tearfully heads toward the counselor's office.
 EASY_A.srt 	EASY_A_DVS256 	01:17:22,00 --> 01:17:27,50 	she cringes, rolling her eyes, then heads off.
-FLIGHT.srt 	FLIGHT_DVS122 	00:24:38,00 --> 00:24:44,50 	they head towards a church, sitting on an expanse of open land.
 FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS175 	00:48:24,00 --> 00:48:29,50 	she heads over.
 FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS218 	00:57:55,00 --> 00:58:15,50 	heading back through the kitchen she spots a hand scrawled note posted on the fridge.
 GET_HIM_TO_THE_GREEK.srt 	GET_HIM_TO_THE_GREEK_DVS100 	00:55:56,00 --> 00:56:02,50 	someone heads out.
@@ -95,58 +70,45 @@ GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS67 	00:1
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS93 	00:14:26,00 --> 00:14:35,50 	the mustached thug slams him down, zip ties his hands and throws him head first against the suv.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS130 	00:20:41,00 --> 00:20:47,50 	someone clutches her wounded shoulder as she heads up a ramp.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS197 	00:31:46,00 --> 00:32:04,50 	now two bodyguards flank a man in a tacky suit as he heads up a winding stone stairway.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS197 	00:31:46,00 --> 00:32:04,50 	he heads up another flight of stone steps to a crowded warehouse floor where two men face off on a round platform.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS266 	00:41:39,00 --> 00:41:51,50 	he heads off.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS275 	00:42:34,00 --> 00:42:43,50 	as he heads toward someone, his flames briefly fade.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS417 	01:00:30,00 --> 01:00:36,50 	he heads down a stairway carved into the stone.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS451 	01:05:59,00 --> 01:06:03,50 	he heads off.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS489 	01:11:18,00 --> 01:11:24,50 	someone lowers her worried gaze, sets down her rifle, and heads off.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS495 	01:12:12,00 --> 01:12:19,50 	she glances down then heads off and he turns to watch her go.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS511 	01:13:38,00 --> 01:13:47,50 	someone heads off as well.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS43 	00:09:42,00 --> 00:09:47,50 	folds it up, and heads off.
-GREEN_ZONE.srt 	GREEN_ZONE_DVS121 	00:28:46,00 --> 00:28:52,50 	they watch two men in suits head down the sidewalk.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS175 	00:45:31,00 --> 00:45:36,50 	she comes up behind him as he heads around the pool.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS215 	00:54:45,00 --> 00:54:53,50 	someone heads into a lobby.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS229 	00:56:50,00 --> 00:57:05,50 	they head into a narrow hallway where doors with padlocked bolts line the walls every five feet.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS244 	00:58:59,00 --> 00:59:03,50 	they head down a corridor.
-GREEN_ZONE.srt 	GREEN_ZONE_DVS282 	01:05:27,00 --> 01:05:33,50 	someone gapes then glances at a technician as he heads out.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS412 	01:31:51,00 --> 01:31:57,50 	someone heads off.
-GREEN_ZONE.srt 	GREEN_ZONE_DVS451 	01:38:46,00 --> 01:39:07,50 	someone grimly regards the fallen general, lowers his rifle, and heads back through the marketplace.
 IN_TIME.srt 	IN_TIME_DVS50 	00:05:27,00 --> 00:05:32,50 	heading off, someone checks his clock.
 IN_TIME.srt 	IN_TIME_DVS161 	00:17:24,00 --> 00:17:30,50 	as he and someone head down a flight of stairs into a courtyard,
 IN_TIME.srt 	IN_TIME_DVS177 	00:18:59,00 --> 00:19:11,50 	a sign on the building that reads weis time lenders flashes off as she heads away.
-IN_TIME.srt 	IN_TIME_DVS195 	00:20:36,00 --> 00:20:45,50 	his thoughtful eyes shift to a truck heading in the opposite direction and he drops his flowers taking off after it.
 IN_TIME.srt 	IN_TIME_DVS294 	00:30:17,00 --> 00:30:22,50 	they head up a staircase to a mezzanine.
 IN_TIME.srt 	IN_TIME_DVS407 	00:43:44,00 --> 00:43:49,50 	the timekeepers finish and head out of the study.
 IN_TIME.srt 	IN_TIME_DVS455 	00:49:14,00 --> 00:49:20,50 	as his thugs head for their car, someone lingers.
 IN_TIME.srt 	IN_TIME_DVS572 	01:00:50,00 --> 01:00:58,50 	the crowd outside disperses and the mission proprietor heads back inside.
 IN_TIME.srt 	IN_TIME_DVS600 	01:04:23,00 --> 01:04:28,50 	clutching his arm, he heads toward the pay phone.
 IN_TIME.srt 	IN_TIME_DVS708 	01:15:49,00 --> 01:15:55,50 	as it heads back toward the defiant young man,
-IN_TIME.srt 	IN_TIME_DVS739 	01:18:24,00 --> 01:18:31,50 	someone and someone reach a more populated area where they pass men in jumpsuits heading to the factory.
 IN_TIME.srt 	IN_TIME_DVS763 	01:20:41,00 --> 01:20:48,50 	a lanky man enters with a suitcase as the outlaws head upstairs.
 IN_TIME.srt 	IN_TIME_DVS844 	01:29:29,00 --> 01:29:37,50 	the suited men surround their charge and the group heads up a broad flight of stairs in the building's lobby.
-IN_TIME.srt 	IN_TIME_DVS969 	01:41:54,00 --> 01:42:02,50 	setting his gun on a table, he heads away past a poster kiosk which displays photos of someone and someone.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS96 	00:24:49,00 --> 00:25:13,50 	they head to another barred door and glance inside a safe deposit room.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS259 	01:19:44,00 --> 01:19:59,50 	they head through a set of glass doors to another staircase.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS286 	01:27:57,00 --> 01:28:04,50 	he heads over
 INSIDE_MAN.srt 	INSIDE_MAN_DVS360 	01:43:53,00 --> 01:43:57,50 	he heads off.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS398 	01:53:37,00 --> 01:53:50,50 	someone heads up toward the first floor, crossing paths with the woman.
-INSIDE_MAN.srt 	INSIDE_MAN_DVS414 	01:59:39,00 --> 01:59:45,50 	someone heads up a staircase wearing his panama hat.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS659 	01:50:17,00 --> 01:50:23,50 	someone punches someone, who head butts someone, then lassos him again with a pulse whip.
-ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS101 	00:30:47,00 --> 00:30:52,50 	someone heads off, someone shakes her head.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS172 	00:55:12,00 --> 00:55:16,50 	they head inside.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS336 	01:35:18,00 --> 01:35:22,50 	he heads off.
 JACK_AND_JILL.srt 	JACK_AND_JILL_DVS246 	00:49:17,00 --> 00:49:21,50 	he heads over.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS251 	00:46:35,00 --> 00:46:40,50 	two french women head for the ladies room.
-JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS494 	01:34:38,00 --> 01:34:45,50 	he takes the bag, then slings an arm around her shoulders as they head inside.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS604 	01:57:08,00 --> 01:57:12,50 	someone heads off.
 KARATE_KID.srt 	KARATE_KID_DVS89 	00:07:40,00 --> 00:07:44,50 	they head inside.
 KARATE_KID.srt 	KARATE_KID_DVS166 	00:13:56,00 --> 00:14:05,50 	someone heads off the court and the pixie-faced girl grins.
 KARATE_KID.srt 	KARATE_KID_DVS336 	00:30:38,00 --> 00:30:43,50 	the instructor heads back in.
 KARATE_KID.srt 	KARATE_KID_DVS440 	00:39:30,00 --> 00:39:42,50 	as the uniformed boys head down the sidewalk outside the school gate, someone watches with fearful eyes.
-KARATE_KID.srt 	KARATE_KID_DVS549 	00:49:35,00 --> 00:49:44,50 	someone looks up as someone heads out.
 KARATE_KID.srt 	KARATE_KID_DVS645 	00:54:47,00 --> 00:54:53,50 	he briefly locks eyes with someone, then heads off.
-KARATE_KID.srt 	KARATE_KID_DVS658 	00:55:38,00 --> 00:55:53,50 	checking a slip of paper, he heads through the gate's double doors and walks down a winding alley cluttered with boxes and junk.
 KARATE_KID.srt 	KARATE_KID_DVS721 	01:00:36,00 --> 01:00:41,50 	the students head off the field.
 KARATE_KID.srt 	KARATE_KID_DVS776 	01:05:29,00 --> 01:05:36,50 	he halts and eyes its neon sign, then heads inside.
 KARATE_KID.srt 	KARATE_KID_DVS782 	01:05:50,00 --> 01:05:58,50 	they each head past it and arrive backstage, where performers ready delicate paper puppets.
@@ -156,10 +118,7 @@ KNOCKED_UP.srt 	KNOCKED_UP_DVS166 	01:45:52,00 --> 01:45:57,50 	he heads upstair
 LAND_OF_THE_LOST.srt 	LAND_OF_THE_LOST_DVS264 	01:36:30,00 --> 01:36:39,50 	the tv crew shuts off the lights and heads out of the studio.
 LARRY_CROWNE.srt 	LARRY_CROWNE_DVS158 	00:37:16,00 --> 00:37:21,50 	someone heads home.
 LARRY_CROWNE.srt 	LARRY_CROWNE_DVS299 	01:11:24,00 --> 01:11:30,50 	picking up a notebook, she heads to the back of the classroom.
-LARRY_CROWNE.srt 	LARRY_CROWNE_DVS358 	01:26:01,00 --> 01:26:07,50 	as someone heads out of the lecture hall the professor lifts his thermos.
-LARRY_CROWNE.srt 	LARRY_CROWNE_DVS370 	01:28:12,00 --> 01:28:18,50 	as someone heads away, someone turns back to her friend.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS937 	01:33:10,00 --> 01:33:16,50 	he rests the tigers head on his lap and softly rubs its crown.
-LITTLE_FOCKERS.srt 	LITTLE_FOCKERS_DVS146 	00:52:33,00 --> 00:52:41,50 	he gives two thumbs up then heads away.
 MORNING_GLORY.srt 	MORNING_GLORY_DVS97 	00:21:41,00 --> 00:21:44,50 	someone heads off.
 MORNING_GLORY.srt 	MORNING_GLORY_DVS108 	00:23:37,00 --> 00:23:41,50 	someone's heading out.
 MORNING_GLORY.srt 	MORNING_GLORY_DVS165 	00:39:06,00 --> 00:39:11,50 	she heads a meeting outside.
@@ -167,32 +126,24 @@ MORNING_GLORY.srt 	MORNING_GLORY_DVS168 	00:39:39,00 --> 00:39:43,50 	then heads
 MORNING_GLORY.srt 	MORNING_GLORY_DVS246 	00:53:48,00 --> 00:53:53,50 	they head into the daybreak offices.
 MORNING_GLORY.srt 	MORNING_GLORY_DVS317 	01:09:57,00 --> 01:10:01,50 	she heads out.
 MORNING_GLORY.srt 	MORNING_GLORY_DVS319 	01:10:08,00 --> 01:10:13,50 	someone heads back into the gallery.
-MORNING_GLORY.srt 	MORNING_GLORY_DVS430 	01:33:31,00 --> 01:33:36,50 	she turns and heads back towards the entrance of the building.
-MORNING_GLORY.srt 	MORNING_GLORY_DVS433 	01:33:52,00 --> 01:33:57,50 	the woman leaves the note with someone and heads off.
 MORNING_GLORY.srt 	MORNING_GLORY_DVS446 	01:34:39,00 --> 01:34:42,50 	then heads in.
 MORNING_GLORY.srt 	MORNING_GLORY_DVS447 	01:34:44,00 --> 01:34:51,50 	she heads through the spacious lobby with classical style paintings on the walls
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS113 	00:18:29,00 --> 00:18:33,50 	he heads upstairs.
-MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS180 	00:25:14,00 --> 00:25:22,50 	as he heads over, the bathroom penguin follows.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS202 	00:29:29,00 --> 00:29:35,50 	as someone heads back inside, someone makes a call.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS331 	00:42:17,00 --> 00:42:21,50 	he heads off.
-MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS335 	00:43:02,00 --> 00:43:08,50 	as they head up the spiral someone watches them over her shoulder.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS468 	00:55:49,00 --> 00:55:55,50 	as they head away, mrs.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS499 	01:00:35,00 --> 01:00:40,50 	wrapped in comforters, they head into the living area.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS536 	01:04:26,00 --> 01:04:32,50 	as the men head out, someone blinks bewilderedly.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS578 	01:09:26,00 --> 01:09:30,50 	she heads to the door.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS687 	01:25:21,00 --> 01:25:25,50 	as the family heads down to them,
-NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS75 	00:17:08,00 --> 00:17:13,50 	swirl leaves around someone as she heads home.
-NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS111 	00:25:24,00 --> 00:25:29,50 	she watches as they head upstairs.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS115 	00:25:48,00 --> 00:26:02,50 	toting the cricket bat, he heads over and places the letters on the sill above the seat back.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS249 	00:51:36,00 --> 00:51:55,50 	heading into a lush green field, someone chucks the shoebox to the ground.
-NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS249 	00:51:36,00 --> 00:51:55,50 	someone and someone stare after their unhappy cousins, then turn away and head toward the barn.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS305 	01:06:16,00 --> 01:06:21,50 	she salutes, then heads over.
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS144 	00:37:31,00 --> 00:37:41,50 	reads the email headed announcer auditions, and dials a number off the screen.
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS214 	00:52:17,00 --> 00:52:24,50 	now on a train headed for the city, someone scrubs at someone's face with disinfecting gel.
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS334 	01:19:13,00 --> 01:19:17,50 	the family heads inside.
 PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS200 	00:48:36,00 --> 00:48:43,50 	tall plants block someone's view on either side as she heads farther back.
 PROMETHEUS.srt 	PROMETHEUS_DVS303 	00:29:53,00 --> 00:29:58,50 	crossing the threshold, they head down the slope.
-PROMETHEUS.srt 	PROMETHEUS_DVS748 	01:20:56,00 --> 01:21:04,50 	as a crewman in a containment suit approaches, someone whacks him with a metal object, then heads forward.
 PROMETHEUS.srt 	PROMETHEUS_DVS844 	01:31:42,00 --> 01:31:46,50 	someone heads out.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS65 	00:11:24,00 --> 00:11:28,50 	they head inside.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS89 	00:14:47,00 --> 00:14:54,50 	inside, a young female teller hurries to someone and they head back down the stairs.
@@ -203,14 +154,11 @@ PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS458 	01:28:11,00 --> 01:28:18,50 	someone 
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS477 	01:30:25,00 --> 01:30:45,50 	headed his way in a car, someone peers ahead over the steering wheel.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS600 	01:52:30,00 --> 01:52:38,50 	someone puts on his hat and heads off in the opposite direction.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS679 	02:07:19,00 --> 02:07:34,50 	someone leans in for a good look at someone's body, then heads off.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS134 	00:34:57,00 --> 00:35:05,50 	in a hazy flashback, a tow headed boy runs into a crowd.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS142 	00:35:56,00 --> 00:36:02,50 	someone hurriedly heads back into the cabin and wakes his sleeping friends.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS148 	00:37:44,00 --> 00:37:47,50 	he heads toward the queen.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS160 	00:39:42,00 --> 00:39:47,50 	someone, someone and someone subtly head off.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS169 	00:40:59,00 --> 00:41:06,50 	he and someone watch as the procession heads off.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS210 	00:50:28,00 --> 00:50:43,50 	as he heads away, he spreads his arms imitating someone.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS260 	01:00:10,00 --> 01:00:19,50 	the widow give someone a final glance before heading out.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS384 	01:34:39,00 --> 01:34:44,50 	someone smiles his thanks as someone heads off.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS521 	02:10:11,00 --> 02:10:22,50 	as he heads deeper into the woods, someone, someone and
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS58 	00:09:53,00 --> 00:09:58,50 	he heads upstairs to a second floor.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS112 	00:20:15,00 --> 00:20:23,50 	someone sees the couple off then heads inside.
@@ -225,31 +173,22 @@ SALT.srt 	SALT_DVS409 	01:11:47,00 --> 01:11:53,50 	as the adviser heads to the 
 SALT.srt 	SALT_DVS441 	01:15:46,00 --> 01:15:57,50 	the president and his men head to the emergency operation center.
 SALT.srt 	SALT_DVS493 	01:25:25,00 --> 01:25:29,50 	she heads down a hall.
 SANCTUM.srt 	SANCTUM_DVS132 	00:27:07,00 --> 00:27:11,50 	someone heads back to the tunnel.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS433 	00:28:46,00 --> 00:28:57,50 	with a nod, she heads back to an exhibit room where she finds a gallery worker hanging black and white images of disfigured feet on a crisp white wall.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1263 	01:25:23,00 --> 01:25:30,50 	heading further in, she passes a mirror dotted with stickers and photographs.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1320 	01:31:00,00 --> 01:31:04,50 	she waits as he heads off.
-SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS28 	00:05:52,00 --> 00:06:00,50 	he leaves the note on a concrete planter as the class heads off.
-SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS86 	00:16:51,00 --> 00:17:02,50 	with a nod, someone turns to head off, then turns back and furrows his brow.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS137 	00:25:48,00 --> 00:25:54,50 	the full-bodied eagle heads back to its corner on
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS161 	00:31:31,00 --> 00:31:38,50 	someone grimaces as someone heads into a building and up a flight of stairs.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS163 	00:31:41,00 --> 00:32:07,50 	inside the building, someone cautiously heads toward a door marked with chinese writing.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS190 	00:37:00,00 --> 00:37:05,50 	the officers head past the imposters.
 SOUL_SURFER.srt 	SOUL_SURFER_DVS27 	00:05:27,00 --> 00:05:38,50 	standing, someone eyes the waves outside then heads into the kitchen.
 SOUL_SURFER.srt 	SOUL_SURFER_DVS40 	00:12:45,00 --> 00:12:52,50 	now, the young woman from the choir checks her watch as she heads toward a gazebo.
-SPARKLE_2012.srt 	SPARKLE_2012_DVS276 	00:43:24,00 --> 00:43:33,50 	he straightens his cousin's lapels, taps him on the chest, then turns and heads for the door.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS279 	00:43:43,00 --> 00:43:47,50 	heading off, someone shrugs, then knocks a box off a stool.
-SUPER_8.srt 	SUPER_8_DVS124 	00:19:15,00 --> 00:19:20,50 	he looks around himself then heads back.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS363 	00:54:56,00 --> 00:55:02,50 	they head toward a large sand dune.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS45 	00:10:46,00 --> 00:10:53,50 	someone's mother heads indoors.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS54 	00:12:59,00 --> 00:13:04,50 	he lingers a moment then heads inside.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS90 	00:20:11,00 --> 00:20:19,50 	now at school, as the teen heads up a stairwell the principal blocks his path.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS92 	00:21:21,00 --> 00:21:34,50 	the principal heads off.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS93 	00:21:33,00 --> 00:21:46,50 	he spots a scruffy looking guy standing across the street then heads in his direction.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS240 	00:46:34,00 --> 00:46:44,50 	later, heading down a sidewalk with someone, someone stares straight ahead.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS261 	00:49:51,00 --> 00:50:20,50 	she smiles faintly then heads over to someone who sits on a low stonewall sketching on a pad.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS332 	01:04:23,00 --> 01:04:45,50 	as he heads off, vivian watches him fondly.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS377 	01:13:04,00 --> 01:13:18,50 	his other arm curls around the massive stack of completed homework assignments as he heads down the sidewalk at a brisk pace.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS32 	00:04:44,00 --> 00:04:55,50 	as she heads to her desk, a mustached man watches her shapely bottom.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS64 	00:12:18,00 --> 00:12:40,50 	stopping at the storefront's glass door, he unlocks it and heads inside.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS77 	00:15:04,00 --> 00:15:17,50 	he heads outside.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS162 	00:32:59,00 --> 00:33:15,50 	the hulking goateed guy, someone, arrives sporting two black eyes and a gash across his nose he heads inside and lumbers to the rear.
@@ -259,15 +198,12 @@ THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS454 	01:23:47,00 --> 01:23:54,50 	as
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS471 	01:25:50,00 --> 01:25:58,50 	brushing her hair out of her face, she peers over her shoulder then casually heads to the bathroom.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS504 	01:31:08,00 --> 01:31:15,50 	they stop at a neon restroom sign and she heads inside.
 THE_CALL.srt 	THE_CALL_DVS116 	00:09:00,00 --> 00:09:09,50 	he heads toward a beaded curtain and parts it.
-THE_CALL.srt 	THE_CALL_DVS522 	00:40:25,00 --> 00:40:30,50 	turning, the driver heads to his car.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS126 	00:21:01,00 --> 00:21:08,50 	heading out, he pauses at the door and glances solemnly back at her.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS216 	00:34:38,00 --> 00:34:42,50 	someone heads back toward his house.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS226 	00:35:14,00 --> 00:35:19,50 	he heads toward his home, passing lush flowering shrubs.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS234 	00:36:06,00 --> 00:36:16,50 	now, a man's aging hands hold a document headed "advance healthcare directive".
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS350 	00:53:50,00 --> 00:53:56,50 	heading back for the house, someone shuffles across the lawn.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS368 	00:57:14,00 --> 00:57:20,50 	then heads down a dirt road bordered by a wooden fence.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS376 	00:57:50,00 --> 00:57:56,50 	heading uphill, the jeep jostles its passengers.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS574 	01:25:37,00 --> 01:25:43,50 	with an intense stare, he heads off, leaving someone confused.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS763 	01:45:29,00 --> 01:45:35,50 	she wraps her arm around the girl and they head off together.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS87 	00:09:11,00 --> 00:09:15,50 	heading into the next room.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS188 	00:23:48,00 --> 00:23:55,50 	then shoulders her bag and heads out.
@@ -275,26 +211,17 @@ THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS301 	00:
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS324 	00:39:35,00 --> 00:39:39,50 	someone heads back to them.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS356 	00:43:55,00 --> 00:43:59,50 	she heads off.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS416 	00:48:20,00 --> 00:48:28,50 	he heads down a marble corridor bustling with business people and stops at a reception desk.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS652 	01:11:05,00 --> 01:11:11,50 	he glances back at the departing train then heads off.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS705 	01:17:52,00 --> 01:17:59,50 	someone pauses and watches the two young women head to the front door.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS714 	01:19:57,00 --> 01:20:08,50 	taking them, she curtly drops them on the table as she heads out of the room.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS733 	01:21:10,00 --> 01:21:15,50 	he heads over and pets the cat.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS754 	01:25:05,00 --> 01:25:12,50 	someone offers his hand but she heads inside ignoring him.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS833 	01:34:52,00 --> 01:34:58,50 	he consults the newspaper photo then heads over to the cabin.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1163 	02:04:00,00 --> 02:04:05,50 	someone puts the monitor down and heads off.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1192 	02:06:58,00 --> 02:07:05,50 	she looks in a study then heads through a hallway past a modern painting
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1321 	02:20:13,00 --> 02:20:19,50 	someone heads out a back door and someone follows.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1329 	02:22:27,00 --> 02:22:33,50 	entering the kitchen she heads right past the two publishers to a counter.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1418 	02:32:13,00 --> 02:32:20,50 	the couple heads down a walkway to a waiting taxi at the top of a hill.
-THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS258 	01:26:58,00 --> 01:27:05,50 	outside, someone holds on to her son's arm, as they cross the street and head toward their car.
-THE_SITTER.srt 	THE_SITTER_DVS38 	00:22:05,00 --> 00:22:09,50 	he gets off the van and then heads to an alley way.
 THE_SITTER.srt 	THE_SITTER_DVS57 	00:33:57,00 --> 00:34:01,50 	someone heads off.
 THE_SITTER.srt 	THE_SITTER_DVS88 	00:48:24,00 --> 00:48:28,50 	they head back to the car.
 THE_SITTER.srt 	THE_SITTER_DVS102 	00:54:40,00 --> 00:54:45,50 	she heads off.
-THE_SITTER.srt 	THE_SITTER_DVS145 	01:14:32,00 --> 01:14:37,50 	he gets in his face as he heads out the door.
 THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS21 	00:07:37,00 --> 00:07:46,50 	hand stuffed in the pocket of his gray hooded sweatshirt, the young man hurries toward one of the warmly lit brick buildings and heads up a few step.
 THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS43 	00:12:01,00 --> 00:12:12,50 	meanwhile, the dark-haired young man heads upstairs.
-THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS278 	01:44:46,00 --> 01:44:51,50 	in his fists, he turns and heads out.
 THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS317 	01:53:25,00 --> 01:53:29,50 	someone heads out.
 THE_VOW.srt 	THE_VOW_DVS72 	00:06:29,00 --> 00:06:35,50 	she wipes her nose with a tissue, then heads over.
 THE_VOW.srt 	THE_VOW_DVS84 	00:07:13,00 --> 00:07:18,50 	with a wave, someone heads away.
@@ -305,13 +232,8 @@ THE_VOW.srt 	THE_VOW_DVS293 	00:38:09,00 --> 00:38:15,50 	then heads outside.
 THE_VOW.srt 	THE_VOW_DVS374 	00:52:36,00 --> 00:52:42,50 	smiling, he heads off.
 THE_VOW.srt 	THE_VOW_DVS392 	00:55:13,00 --> 00:55:19,50 	with an exasperated look, he heads to the door.
 THE_VOW.srt 	THE_VOW_DVS575 	01:20:04,00 --> 01:20:10,50 	bowing his head, someone shuffles back a few steps, then heads inside.
-THE_VOW.srt 	THE_VOW_DVS664 	01:32:46,00 --> 01:32:53,50 	as they head up to the street, she takes his arm in a friendly gesture.
 THE_VOW.srt 	THE_VOW_DVS705 	01:38:57,00 --> 01:39:02,50 	they head down the sidewalk.
-THE_VOW.srt 	THE_VOW_DVS706 	01:39:10,00 --> 01:39:17,50 	she takes his arm as they head down the snowy street in the opposite direction.
-THE_WATCH.srt 	THE_WATCH_DVS23 	00:04:16,00 --> 00:04:22,50 	the manager leaves and the security guard heads into the store.
 THE_WATCH.srt 	THE_WATCH_DVS226 	00:42:12,00 --> 00:42:17,50 	someone politely returns the gesture, then heads inside.
-THE_WATCH.srt 	THE_WATCH_DVS465 	01:24:10,00 --> 01:24:18,50 	as the others head off, someone stands over the gunned down alien, its body oozing green slime.
-THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS42 	00:11:53,00 --> 00:11:59,50 	she gives him another quick kiss, then heads into the bathroom.
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS53 	00:13:16,00 --> 00:13:28,50 	someone reads as she heads down a sidewalk.
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS131 	00:36:41,00 --> 00:36:45,50 	he heads to the driver's side.
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS251 	01:03:30,00 --> 01:03:34,50 	the guys head out of the gym.
@@ -323,47 +245,30 @@ THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS443 	01:42:08,00 --> 01:42:15,50 	some
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS16 	00:02:42,00 --> 00:02:51,50 	heading toward glass doors onto the helipad, the rugged brother spots someone's reflection.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS42 	00:05:44,00 --> 00:05:49,50 	her smile fades as her assistant heads off.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS53 	00:07:41,00 --> 00:07:45,50 	someone heads away.
-THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS55 	00:07:51,00 --> 00:07:57,50 	she gives a dispirited look then heads over.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS79 	00:13:17,00 --> 00:13:26,50 	someone shoulders his bag and heads off.
-THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS99 	00:15:26,00 --> 00:15:31,50 	looking back, she heads across the testing area.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS117 	00:21:39,00 --> 00:21:44,50 	she heads off with another movie.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS178 	00:32:43,00 --> 00:32:55,50 	he peers across the dance floor then heads after her.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS359 	01:05:59,00 --> 01:06:04,50 	someone makes a call as she heads out.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS425 	01:16:42,00 --> 01:16:46,50 	she heads up some stairs.
-THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS500 	01:26:46,00 --> 01:26:52,50 	heading off, he pauses and turns back to face his approaching friend.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS217 	00:28:05,00 --> 00:28:09,50 	he heads to the kitchen.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS293 	00:35:37,00 --> 00:35:43,50 	as someone heads out, he comes face to face with the cat.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS477 	00:51:14,00 --> 00:51:19,50 	he offers a sarcastic salute, then heads out.
 TRUE_GRIT.srt 	TRUE_GRIT_DVS198 	00:43:30,00 --> 00:43:34,50 	they head towards a wooden shack.
 TRUE_GRIT.srt 	TRUE_GRIT_DVS352 	01:12:14,00 --> 01:12:22,50 	under a canopy of swollen dark gray clouds, they head across a plain of straw-like grass.
 TRUE_GRIT.srt 	TRUE_GRIT_DVS353 	01:12:28,00 --> 01:12:37,50 	as they head through a pine forest, someone sticks another empty bottle over the end of a thin stubby branch.
-TRUE_GRIT.srt 	TRUE_GRIT_DVS430 	01:24:59,00 --> 01:25:08,50 	someone responds in kind then watches through a telescope as someone heads off on his horse with little blackie close behind.
-UGLY_TRUTH.srt 	UGLY_TRUTH_DVS267 	00:25:42,00 --> 00:25:47,50 	she heads over and opens it with a toothy grin.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS292 	00:29:30,00 --> 00:29:35,50 	as he halts in front of someone, the women head off.
-UGLY_TRUTH.srt 	UGLY_TRUTH_DVS306 	00:32:00,00 --> 00:32:07,50 	as someone heads off, someone follows.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS378 	00:45:10,00 --> 00:45:16,50 	as they each head back to their own doors, they share another glance.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS559 	01:14:30,00 --> 01:14:34,50 	he heads down the hall.
-UGLY_TRUTH.srt 	UGLY_TRUTH_DVS591 	01:18:35,00 --> 01:18:40,50 	she takes a breath and heads back to her room.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS29 	00:04:20,00 --> 00:04:25,50 	smiling politely, he heads away.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS53 	00:10:14,00 --> 00:10:20,50 	the principal shoots the father a horrified glance, then heads off.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS161 	00:28:07,00 --> 00:28:13,50 	he marches off, but the staff heads in the opposite direction.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS167 	00:29:12,00 --> 00:29:16,50 	the frizzy-haired man heads off.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS263 	00:43:01,00 --> 00:43:05,50 	they head indoors.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS489 	01:15:59,00 --> 01:16:03,50 	he heads to the gate.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS707 	01:42:28,00 --> 01:42:34,50 	now, a clipboard bears a document headed,
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS721 	01:43:48,00 --> 01:43:54,50 	someone heads off, then stops to look back at the jubilant group.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS51 	00:03:43,00 --> 00:03:46,50 	he heads off.
-WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS86 	00:07:38,00 --> 00:07:46,50 	glancing around, she opens it and heads a blank page with the words "people i've slept with."
-WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS89 	00:07:54,00 --> 00:08:02,50 	finding the elevator out of service, she heads up the winding rectangular staircase.
-WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS354 	00:52:04,00 --> 00:52:10,50 	she gives a man standing guard a little nod, then heads further in.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS417 	00:58:31,00 --> 00:58:34,50 	he heads off.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS597 	01:21:09,00 --> 01:21:13,50 	he heads off.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS680 	01:34:04,00 --> 01:34:11,50 	she sprints past a pond, then heads out through the open gate of a white-picket fence.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS453 	00:39:52,00 --> 00:39:57,50 	opening the door, she heads into the submarine bridge.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS480 	00:43:06,00 --> 00:43:12,50 	someone backs away a few feet, then turns and heads toward the building.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS526 	00:48:18,00 --> 00:48:27,50 	as they head out the door, he stares over his shoulder after them, then downs his drink and gestures for another.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS570 	00:53:57,00 --> 00:54:03,50 	someone stares dejectedly as he heads off.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS928 	01:25:39,00 --> 01:25:46,50 	holding up the shot, he gives a firm nod, then stands and heads out of the room.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1070 	01:36:44,00 --> 01:36:49,50 	beast notices the rocket heading their way.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1097 	01:39:19,00 --> 01:39:26,50 	the young man brings his arms in at his sides and shoots head first into the sea.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1104 	01:39:53,00 --> 01:39:58,50 	the jet banks right, heading for the fleet.

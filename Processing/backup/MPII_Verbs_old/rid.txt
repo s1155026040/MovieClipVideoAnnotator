@@ -1,38 +1,109 @@
-0005_Chinatown_00.21.13.952-00.21.16.277 	On the desk is a framed, tinted photo of Evelyn in riding clothes.
-0005_Chinatown_00.28.07.113-00.28.07.540 	She's wearing riding boots, is perspiring a little, but looks younger than she did in the office.
-0011_Gandhi_00.33.45.189-00.33.46.884 	The mounted police riding on, batons at the ready.
-0011_Gandhi_00.54.41.238-00.54.42.628 	Gandhi and Charlie are riding on the outside of the coach, hanging on through the door, and both enjoying it immensely.
-0014_Ist_das_Leben_nicht_schoen_00.05.16.852-00.05.19.038 	We catch a glimpse of an elderly man riding in it.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.08.34.804-01.08.41.220 	Who now appears in her earth bound form, a young Elven woman with tousled hair, dressed in mud-splattered riding clothes.
+0005_Chinatown_00.08.48.697-00.08.50.318 	then a small mexican boy atop a swayback horse rides it into the riverbed, and into gitte's view.
+0005_Chinatown_00.21.13.952-00.21.16.277 	on the desk is a framed, tinted photo of evelyn in riding clothes.
+0005_Chinatown_00.28.07.113-00.28.07.540 	she's wearing riding boots, is perspiring a little, but looks younger than she did in the office.
+0005_Chinatown_00.39.47.133-00.39.50.248 	the boy rides slowly on.
+0009_Forrest_Gump_00.05.50.940-00.05.58.671 	the general rides off, followed by a large group of klan members dressed in full uniform.
+0009_Forrest_Gump_01.41.56.917-01.42.01.089 	forrest rides a lawn tractor as he moves the football field lawn.
+0009_Forrest_Gump_01.43.00.059-01.43.08.726 	forrest rides the mower.
+0011_Gandhi_00.32.53.496-00.33.21.442 	the car rides on past the factory building out of which it turned, and suddenly mounted police come swinging out from the buildings and face the procession.
+0011_Gandhi_00.33.45.189-00.33.46.884 	the mounted police riding on, batons at the ready.
+0011_Gandhi_00.54.41.238-00.54.42.628 	gandhi and charlie are riding on the outside of the coach, hanging on through the door, and both enjoying it immensely.
+0014_Ist_das_Leben_nicht_schoen_00.05.16.852-00.05.19.038 	we catch a glimpse of an elderly man riding in it.
+0020_Raising_Arizona_00.27.41.623-00.27.41.993 	the chains worn by the biker clank ominously as he rides.
+0020_Raising_Arizona_00.55.00.955-00.55.04.314 	from behind the biker's head as he rides through the night.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.28.30.362-00.28.31.423 	riding away.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.53.54.783-00.53.57.709 	FARAMIR and a few survivors flee WEST OSGILIATH, desperately riding toward MINAS TIRITH.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.42.04.825-02.42.06.949 	GOLLUM clawing FRANTICALLY, riding on the BACK of the INVISIBLE FRODO.
-0027_The_Big_Lebowski_00.30.05.256-00.30.06.430 	Ahead the mysterious blonde woman wings away, riding on the Dude's rug like a sheik on a magic carpet.
-0032_The_Princess_Bride_00.27.14.970-00.27.28.022 	FEZZIK considers this a moment, then attacks, and if he moved quickly last time, this time he is blinding and as the Man In Black slips down to avoid the charge, FEZZIK moves right with him, only instead of twisting free and jumping to his feet, this time the Man In Black jumps for FEZZIK's back and in a moment he is riding him, and his arms have FEZZIK's throat, locked across FEZZIK's windpipe, one in front, one behind.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.50.43.240-00.50.44.164 	eowyn hurriedly pulling on riding gloves, preparing to mount her horse.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.53.54.783-00.53.57.709 	faramir and a few survivors flee west osgiliath, desperately riding toward minas tirith.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.11.28.574-01.11.38.666 	theoden smiles grimly as he rides on.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.14.52.453-01.15.05.123 	the hooded figure slowly rides up the narrow zigzag track leading up to the plateau.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.25.45.327-01.25.47.892 	king theoden breaks away from a column and rides up to merry.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.26.22.482-02.26.26.396 	he rides at the head of a column of 500 foot soldiers from rohan and gondor.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.42.04.825-02.42.06.949 	gollum clawing frantically, riding on the back of the invisible frodo.
+0027_The_Big_Lebowski_00.30.05.256-00.30.06.430 	ahead the mysterious blonde woman wings away, riding on the dude's rug like a sheik on a magic carpet.
+0032_The_Princess_Bride_00.27.14.970-00.27.28.022 	fezzik considers this a moment, then attacks, and if he moved quickly last time, this time he is blinding and as the man in black slips down to avoid the charge, fezzik moves right with him, only instead of twisting free and jumping to his feet, this time the man in black jumps for fezzik's back and in a moment he is riding him, and his arms have fezzik's throat, locked across fezzik's windpipe, one in front, one behind.
+0050_Indiana_Jones_and_the_last_crusade_00.05.55.398-00.05.58.278 	indy rides up beside it.
+1003_How_to_Lose_Friends_and_Alienate_People_01.42.18.125-01.42.21.531 	on the screen, a man rides on a woman's back.
+1004_Juno_00.11.26.688-00.11.31.035 	she gets on her bike and rides off, leaving bleeker clutching his sandwich.
+1004_Juno_01.29.42.698-01.29.52.390 	she rides down a quiet residential street in bright sunlight.
+1009_Spider-Man3_00.03.50.872-00.03.55.976 	peter rides his small moped.
 1009_Spider-Man3_00.13.55.393-00.13.59.585 	peter is riding along a quiet street in the dark.
+1009_Spider-Man3_00.16.54.871-00.16.59.884 	after dark, peter, wearing a dopey smile, rides along a city street.
+1017_Bad_Santa_01.35.03.499-01.35.09.902 	he jumps on his bike and rides off, displaying the tee shirt willie sent him.
+1019_Confessions_Of_A_Shopaholic_00.07.42.937-00.07.48.326 	she rides an internal elevator and totters towards a reception desk with an apricot-colored briefcase.
+1019_Confessions_Of_A_Shopaholic_01.03.52.330-01.04.08.036 	she rides the escalator with a soft smile on her face.
+1019_Confessions_Of_A_Shopaholic_01.03.58.787-01.04.08.036 	a man in a gray coat rides a lower escalator.
+1024_Identity_Thief_00.11.13.463-00.11.18.130 	now, the plump identity thief sips from a straw as she rides down an escalator.
 1024_Identity_Thief_00.47.16.168-00.47.21.835 	spinning around, diana bends over and big chuck twirls his cowboy hat behind her like riding a bronco.
+1027_Les_Miserables_00.57.44.887-00.57.47.086 	javert rides up.
+1027_Les_Miserables_00.57.59.422-00.58.01.580 	javert rides away.
+1029_Pride_And_Prejudice_Disk_One_00.01.24.294-00.01.35.181 	with a broad smile, mr. bingley rides on towards his new property, followed by his companion, mr. darcy.
 1029_Pride_And_Prejudice_Disk_One_00.35.07.041-00.35.11.206 	now, jane is riding nellie through a rainstorm.
+1029_Pride_And_Prejudice_Disk_One_01.07.30.294-01.07.38.023 	lizzie studies darcy as he rides away sitting stiff and proper in the saddle.
 1029_Pride_And_Prejudice_Disk_One_02.28.49.219-02.28.54.885 	darcy is riding his horse through the woods, a picture of elegance in his top hat and frock coat.
+1030_Public_Enemies_01.04.52.529-01.04.54.589 	the jailhouse mechanic sits beside him while his accomplice rides in back with the deputy.
 1030_Public_Enemies_01.31.19.609-01.31.23.951 	purvis glares after the car riding steadily away.
-1033_Sherlock_Holmes_A_Game_of_Shadows_00.53.15.163-00.53.20.558 	at a gypsy camp in the countryside, men practice their horse riding skills.
+1031_Quantum_of_Solace_00.22.12.494-00.22.18.216 	he flips the bike out from under him, kicks him in the face, then rides off.
+1031_Quantum_of_Solace_00.28.58.338-00.29.00.937 	bond watches with a frown, then rides away.
+1034_Super_8_01.03.17.697-01.03.22.888 	wounded, she runs outside, grabs her bicycle and rides off.
+1037_The_Curious_Case_Of_Benjamin_Button_02.21.29.358-02.21.34.581 	daisy sits on the edge of the bed as benjamin rides his motorcycle down the driveway, to the road.
+1037_The_Curious_Case_Of_Benjamin_Button_02.21.34.581-02.21.43.068 	she stands at her window, watching, as he rides away.
 1038_The_Great_Gatsby_00.38.47.372-00.38.50.542 	gatsby holds up his business card to the motorcycle cop who's riding alongside them.
 1039_The_Queen_00.11.57.876-00.12.02.543 	the mercedes is pursued by four motorcyclists each with photographers riding pillion.
+1041_This_is_40_00.49.36.976-00.49.39.280 	now, pete rides his bike with a group.
+1041_This_is_40_00.58.38.347-00.58.42.013 	riding shotgun, sadie sings along with uninhibited enthusiasm.
+1041_This_is_40_01.56.30.957-01.56.32.623 	pete rides his bike across the front lawn.
+1041_This_is_40_01.59.19.943-01.59.21.183 	he rides past a white picket fence.
+1042_Up_In_The_Air_01.39.34.771-01.39.37.383 	at an airport, she rides a moving walkway.
 1044_Pride_And_Prejudice_Disk_Two_01.05.02.612-01.05.11.049 	now, he's galloping through the grounds on his white horse, dressed immaculately in bottle-green frock coat, cream breeches, riding boots, and a top hat.
 1044_Pride_And_Prejudice_Disk_Two_01.54.05.270-01.54.15.432 	mr. wickham is showing off his riding skills nearby.
+1044_Pride_And_Prejudice_Disk_Two_01.55.28.751-01.55.31.053 	wickham rides past them again, and lydia grins cheekily at her sisters.
 1044_Pride_And_Prejudice_Disk_Two_02.07.15.262-02.07.23.997 	the two gentlemen are now on their horses, riding away from longbourn.
+1045_An_education_01.01.57.714-01.01.59.184 	the guy on a bicycle checks her out as he rides past.
+1046_Australia_00.03.40.000-00.03.52.133 	wearing only shorts, his long hair streaming out behind him, he rides through a dusty landscape of thinly spread out trees and soaring rocky crags.
+1046_Australia_00.03.53.057-00.03.57.000 	he rides through a settlement of wood buildings and animal pens.
+1046_Australia_00.05.15.380-00.05.20.900 	a woman rides a horse and a car pulls up at a large country house.
 1046_Australia_00.30.49.123-00.30.53.000 	she cracks him across the face with a riding crop.
+1046_Australia_00.45.19.660-00.45.23.565 	the drover rides up as they pull away.
 1046_Australia_00.57.21.432-00.57.25.513 	four horsemen approach, riding line abreast.
 1046_Australia_01.02.51.462-01.02.55.576 	flynn rides next to nullah on the cliff edge, showing off, riding one-handed.
+1046_Australia_01.16.03.752-01.16.07.586 	nullah rides up as they stand glumly at the watering hole.
+1046_Australia_01.19.50.812-01.19.56.273 	carney peers through the slats of his sun-blinds as sarah rides up.
+1046_Australia_01.21.56.990-01.22.00.181 	drover thinks for a moment, then rides off.
+1046_Australia_01.22.00.436-01.22.08.548 	he jumps the fence around the yard, knocking out the top slat, and rides into the street outside the territory hotel.
+1046_Australia_01.22.21.279-01.22.25.662 	he rides towards the large cargo vessel at the end of the wharf.
+1046_Australia_01.23.22.413-01.23.26.045 	townspeople cheer her on as she rides past the hotel.
+1046_Australia_01.23.35.000-01.23.40.194 	nullah rides up to sarah.
+1046_Australia_01.23.46.547-01.23.54.685 	they glare at each other, and she rides towards him.
+1046_Australia_01.24.03.184-01.24.07.128 	she rides off, eyeballing him with a grin.
+1046_Australia_01.52.44.609-01.52.51.110 	sarah rides up to the house.
+1046_Australia_01.54.28.216-01.54.33.939 	she whirls round and goes back indoors, as he rides away.
+1047_Defiance_00.51.44.934-00.51.46.685 	tuvia rides up on a white horse.
+1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.15.36.930-00.15.38.630 	bill weasley rides a thestral, a winged, skeletal horse.
+1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.15.43.713-00.15.48.734 	hagrid rides his motorbike up into the air, forcing moody to duck.
 1055_Marley_and_me_00.02.55.887-00.02.56.821 	sun blazes down on a motor cruiser riding on the glassy calm waters of a quiet bay.
+1058_The_Damned_united_01.07.04.289-01.07.07.387 	a woman rides a tricycle past beach huts on the seafront promenade.
+1060_Yes_man_01.31.57.000-01.31.59.000 	he rides up next to a ups van.
+1060_Yes_man_01.32.20.637-01.32.24.794 	pedestrians run for cover as he rides along.
+1060_Yes_man_01.32.46.038-01.32.51.670 	he keeps his head low and his arms bent as he rides the ducati, which is a cross between a trail bike and a road bike.
+1060_Yes_man_01.32.58.989-01.33.03.878 	he rides up to the domed observatory, where allison's doing a warm-up with her jogging photographers.
+1060_Yes_man_01.33.03.878-01.33.12.070 	carl rides up and does a few donuts, spinning the bike's back wheel on the tarmac and turning circles.
 2004_Juno_00.11.27.928-00.11.29.228 	she mounts her bicycle and waves before riding off.
+2004_Juno_01.29.45.172-01.29.46.576 	juno rides her bike aggressively down the street.
 2012_Unbreakable_00.43.07.870-00.43.08.776 	the last thing elijah sees before he blacks out, is the tail of the man's coat riding up as he move through the turnstile.
 2027_Les_Miserables_00.14.37.635-00.14.40.254 	the camera hurtling towards three horses riding down a long muddy road on a flat plain towards the walled town of montreuil-sur-mer.
-1055_Marley_and_me_00.02.55.887-00.02.56.821 	sun blazes down on a motor cruiser riding on the glassy calm waters of a quiet bay.
-2004_Juno_00.11.27.928-00.11.29.228 	she mounts her bicycle and waves before riding off.
-2012_Unbreakable_00.43.07.870-00.43.08.776 	the last thing elijah sees before he blacks out, is the tail of the man's coat riding up as he move through the turnstile.
-2027_Les_Miserables_00.14.37.635-00.14.40.254 	the camera hurtling towards three horses riding down a long muddy road on a flat plain towards the walled town of montreuil-sur-mer.
+2034_Super_8_00.24.27.906-00.24.44.056 	as the flashlight men approach, joe runs and gets in the front seat, the other boys in back -- alice slams the car into reverse, screech-backs up, narrowly avoids debris, then rides off -- the flashlight men arrive -- soldiers -- their adrenaline pumping.
+2034_Super_8_00.42.06.337-00.42.08.450 	joe rides along a hillside.
+2034_Super_8_00.53.40.844-00.53.47.294 	joe rides up a hill -- boom up -- reveal the town cemetery.
+2034_Super_8_01.03.18.437-01.03.22.805 	alice, crying, gets on her bike and rides off -- a distant fiery glow past the factory and over the hills.
 2034_Super_8_01.04.19.605-01.04.22.081 	alive is still looking back at the car -- so she doesn't see the shape that is coming behind her -- and just as she decides: i'm not going back, she turns to begin riding on.
+2034_Super_8_01.05.21.422-01.05.33.638 	as charles rides off with the film, joe follows -- and we boom up along the water tower as they go.
+2034_Super_8_01.20.03.638-01.20.05.148 	the bus was hit so hard it rides for a moment only on its.
 2041_This_is_40_00.06.37.143-00.06.40.899 	we see pete in a large group of bikers riding down san vicente.
 2041_This_is_40_01.56.35.948-01.56.38.797 	pete exits his home riding his bike.
+2041_This_is_40_01.56.40.425-01.56.47.752 	he rides with great emotion like he is trying to get all the frustration out of his body.
+2041_This_is_40_01.56.55.676-01.56.55.943 	pete rides his bike onto san vicente boulevard.
+2041_This_is_40_01.57.41.514-01.57.46.936 	a car makes a right turn, and pete almost rides right into it.
 2041_This_is_40_01.57.50.325-01.57.53.150 	desi is riding with jason.
 2041_This_is_40_01.58.38.237-01.58.43.081 	pete starts riding really fast and passes a car.
+2041_This_is_40_01.58.57.614-01.59.01.919 	pete rides his bike up a steep hill.
+2041_This_is_40_01.59.28.021-01.59.29.454 	he rides down the street when suddenly a man in a range rover opens his door to exit his car and pete slams directly into the man's car door -- hard, breaking the man's window and falling to the ground.

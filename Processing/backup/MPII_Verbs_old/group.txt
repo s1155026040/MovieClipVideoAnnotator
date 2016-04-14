@@ -1,5 +1,6 @@
-0007_DIE_NACHT_DES_JAEGERS_01.25.10.656-01.25.11.999 	RACHEL and the CHILDREN are grouped a short distance behind them.
-0021_Rear_Window_01.25.08.295-01.25.08.969 	Jeff, Stella and Lisa are grouped at the window, looking out.
-0033_Amadeus_00.40.41.271-00.40.51.926 	Watching the performance - which is conducted by Mozart from the clavier in the midst of the orchestra - we note Von Strack, Orsini-Rosenberg, Bonno and Von Swieten, all grouped around the Emperor, in a box.
-1004_Juno_00.32.47.837-00.32.50.832 	There are several expensive looking bottles and jars grouped around the basin, next to a white orchid in a pot.
+0007_DIE_NACHT_DES_JAEGERS_01.25.10.656-01.25.11.999 	rachel and the children are grouped a short distance behind them.
+0021_Rear_Window_01.25.08.295-01.25.08.969 	jeff, stella and lisa are grouped at the window, looking out.
+0029_The_Graduate_00.21.18.142-00.21.18.593 	the others are grouped, more or less, at the other end.
+0033_Amadeus_00.40.41.271-00.40.51.926 	watching the performance - which is conducted by mozart from the clavier in the midst of the orchestra - we note von strack, orsini-rosenberg, bonno and von swieten, all grouped around the emperor, in a box.
+1004_Juno_00.32.47.837-00.32.50.832 	there are several expensive looking bottles and jars grouped around the basin, next to a white orchid in a pot.
 1027_Les_Miserables_01.37.44.807-01.37.46.935 	the cavalry face the protesters, who are grouped around the hearse.

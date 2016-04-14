@@ -1,23 +1,7 @@
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS265 	00:48:15,00 --> 00:48:24,50 	wearing a red, white, and blue costume and mask, someone picks up a shield decorated like the american flag and runs onstage.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS838 	01:22:50,00 --> 01:22:59,50 	rustic houses and a patio decorated with colorful fishing buoys form a barrier around the secluded spot.
 COLOMBIANA.srt 	COLOMBIANA_DVS287 	00:23:58,00 --> 00:24:05,50 	now someone shuffles to a stairway where family photos decorate the wall.
-FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS73 	00:18:20,00 --> 00:18:48,50 	later he enters a sleek apartment, decorated in grays and browns.
-KARATE_KID.srt 	KARATE_KID_DVS324 	00:29:01,00 --> 00:29:10,50 	on a stage decorated with a colorful interpretation of the sea at night, someone plays the violin.
 KARATE_KID.srt 	KARATE_KID_DVS804 	01:07:39,00 --> 01:07:45,50 	an intricately decorated puppet gestures angrily.
 KARATE_KID.srt 	KARATE_KID_DVS1322 	01:46:59,00 --> 01:47:10,50 	in a shadowy arena, workers unroll kung fu mats decorated with yin-yang symbols.
-PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS356 	01:26:31,00 --> 01:26:41,50 	now in the backyard, someone and someone carry a shoebox decorated with shiny stickers and the name someone written in green glitter paint.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS107 	00:07:24,00 --> 00:07:31,50 	leaving the turntable, she starts to cross the tastefully decorated room.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS325 	00:22:11,00 --> 00:22:18,50 	now, a group of women sit around a table decorating the edges of a red bridal bed blanket.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS248 	00:49:07,00 --> 00:49:14,50 	an nyu sticker decorates it.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS34 	00:07:54,00 --> 00:08:05,50 	charcoal portraits decorate the walls.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS78 	00:17:44,00 --> 00:17:49,50 	the next day he arrives at school and opens the doors which have been decorated with paper snowflakes.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS98 	00:18:25,00 --> 00:18:34,50 	at dusk, a red car passes terrain decorated with names spelled out in white stones.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS644 	01:32:39,00 --> 01:32:46,50 	more daylight washes over a wall decorated with framed photos.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS197 	00:24:48,00 --> 00:24:55,50 	now, at a coffee shop someone sits alone at a counter with a book decorated with a bow.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS434 	00:51:51,00 --> 00:51:56,50 	she enters a tastefully decorated apartment.
-THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS228 	00:56:53,00 --> 00:56:59,50 	someone peeks into a room decorated with trophies and posters.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS156 	00:20:27,00 --> 00:20:32,50 	a tiny bone shape decorates each mint.
-UGLY_TRUTH.srt 	UGLY_TRUTH_DVS48 	00:08:14,00 --> 00:08:20,50 	she enters and flips a switch, lighting the cheerily decorated apartment.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS246 	00:40:14,00 --> 00:40:21,50 	someone removes the seal decorated with magic marker then unwraps the sandwich.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS225 	00:17:12,00 --> 00:17:20,50 	she leads the colonel down a stairway onto an opulently decorated casino floor.
-ZOMBIELAND.srt 	ZOMBIELAND_DVS557 	01:05:30,00 --> 01:05:38,50 	outside, little someone smiles at the wonderland of mini lights decorating trees, buildings, and fences.

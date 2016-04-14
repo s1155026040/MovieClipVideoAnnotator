@@ -1,7 +1,2 @@
-DISTRICT_9.srt 	DISTRICT_9_DVS279 	00:30:48,00 --> 00:31:00,50 	at a restaurant named gunther's, workers serve up fish and chips.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS61 	00:13:45,00 --> 00:13:49,50 	a site named someone monsieur.
-GREEN_ZONE.srt 	GREEN_ZONE_DVS183 	00:47:10,00 --> 00:47:42,50 	a high ranking iraqi official code named magellan gave compelling information about iraq's wmd program.
-KARATE_KID.srt 	KARATE_KID_DVS1439 	01:56:48,00 --> 01:56:55,50 	next, it shows someone versus the mohawk boy, named someone ping.
 SALT.srt 	SALT_DVS400 	01:10:01,00 --> 01:10:08,50 	one show someone with his alias, the other a young man named someone.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS492 	01:28:34,00 --> 01:28:55,50 	a mural of two widespread female legs flanks the hot-pink back door of a strip club named, double d's.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS798 	01:11:51,00 --> 01:11:59,50 	now a massive russian ship, named aral sea, slowly moves across the ocean.

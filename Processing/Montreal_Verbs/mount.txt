@@ -1,30 +1,8 @@
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS277 	00:39:39,00 --> 00:39:51,50 	as the vampire runs up ahead, someone mounts one of the horses.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS283 	00:40:49,00 --> 00:41:06,50 	up ahead, someone bounds off the back of two horses and mounts a third.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS284 	00:41:03,00 --> 00:41:22,50 	as someone mounts the horse, he sees someone run off across the backs of the herd.
 BLINDDATING.srt 	BLINDDATING_DVS294 	01:13:06,00 --> 01:13:12,50 	the tiny camera sits mounted on the right lens.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS332 	01:02:23,00 --> 01:02:31,50 	dugan drives forward as a gunner fires a blaster mounted on the top of the armored vehicle.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS515 	01:32:46,00 --> 01:33:01,50 	approaching the hydra base, someone mounts his shield on the front of his motorcycle.
-CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS80 	00:14:51,00 --> 00:14:57,50 	another sign mounted below the window displays the coca cola logo.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS531 	01:16:22,00 --> 01:16:30,50 	wearing his army uniform, and carrying two bags, someone mounts the steps to his dad's house.
-FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS257 	01:08:35,00 --> 01:08:49,50 	later they lie beneath the sheets as they kiss with mounting intensity.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS562 	01:20:11,00 --> 01:20:32,50 	a gunman ahead fires rounds from a mounted cannon.
-GREEN_ZONE.srt 	GREEN_ZONE_DVS331 	01:14:49,00 --> 01:14:57,50 	as an armed soldier mounts the roof of the humvee, someone leads someone on foot to the mouth of the alley.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS594 	01:41:47,00 --> 01:42:29,50 	one drone crashes into a huge video screen mounted on a tower.
-KARATE_KID.srt 	KARATE_KID_DVS815 	01:08:03,00 --> 01:08:08,50 	two puppets mount a bridge formed by bird puppets.
-NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS419 	01:28:08,00 --> 01:28:14,50 	a large blonde woman shows a stuffed and mounted owl.
-PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS30 	00:06:41,00 --> 00:06:50,50 	in a large suburban home a wall mounted screen turns on.
-PROMETHEUS.srt 	PROMETHEUS_DVS531 	00:59:12,00 --> 00:59:18,50 	he leans in and they embrace with mounting passion.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS123 	00:32:10,00 --> 00:32:23,50 	as she mounts a dark horse, the father gazes wearily at her.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS347 	01:25:09,00 --> 01:25:15,50 	someone mounts his horse and she leads him onward.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS469 	01:56:02,00 --> 01:56:08,50 	across a rolling field, mounted troops ride into view.
-SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS112 	00:22:09,00 --> 00:22:16,50 	someone stops and stares at the chrysler building, its illuminated crown agleam in the night eagles mounted on a high.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS417 	01:28:31,00 --> 01:28:43,50 	meanwhile, in battery park, someone mounts the steps to a tiered platform-like fountain.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS175 	00:21:39,00 --> 00:21:48,50 	someone views more than a dozen pressed and framed wildflowers, mounted meticulously on a wall in a tidy grid.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS428 	00:51:28,00 --> 00:51:32,50 	she mounts the front stoop
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS855 	01:36:07,00 --> 01:36:12,50 	she drags a chair to the corner of the room climbs on top and mounts one camera from the ceiling.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS858 	01:36:14,00 --> 01:36:19,50 	she mounts a camera on an eve of the roof.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1422 	02:32:38,00 --> 02:32:43,50 	then dawns her helmet and mounts her bike.
-TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS738 	01:21:05,00 --> 01:21:13,50 	someone rides out atop a zamboni mounted with a sleek gleaming cannon.
 TRUE_GRIT.srt 	TRUE_GRIT_DVS367 	01:17:14,00 --> 01:17:18,50 	he mounts his horse.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS449 	01:10:21,00 --> 01:10:36,50 	someone mounts a sign in front of a capuchin enclosure.
-ZOOKEEPER.srt 	ZOOKEEPER_DVS192 	00:43:12,00 --> 00:43:24,50 	someone mounts his bike then rides away throwing someone a final glance.

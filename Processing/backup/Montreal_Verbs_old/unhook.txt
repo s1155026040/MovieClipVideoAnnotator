@@ -1,0 +1,4 @@
+ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS129 	00:41:44,00 --> 00:41:49,50 	he unhooks a strand of blue tape.
+LIFE_OF_PI.srt 	LIFE_OF_PI_DVS876 	01:28:29,00 --> 01:28:37,50 	someone continues unhooking the canvas as the boat ramps off surging waves.
+XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS509 	00:46:30,00 --> 00:46:42,50 	she unhooks her bra and a web-like tattoo of four dragonfly wings morphs into real ones.
+ZOMBIELAND.srt 	ZOMBIELAND_DVS289 	00:32:34,00 --> 00:32:43,50 	he unhooks it then tosses it on the steaming engine.

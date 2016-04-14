@@ -1,13 +1,10 @@
 BLINDDATING.srt 	BLINDDATING_DVS65 	00:19:44,00 --> 00:19:50,50 	as he pockets.
 BLINDDATING.srt 	BLINDDATING_DVS343 	01:22:16,00 --> 01:22:33,50 	frowning, someone pockets the phone and heads off down the sidewalk in the opposite direction.
 COLOMBIANA.srt 	COLOMBIANA_DVS675 	01:04:03,00 --> 01:04:08,50 	someone pockets his cellphone.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS172 	00:27:03,00 --> 00:27:14,50 	as she straightens and pockets it, someone drapes a loving arm around her shoulder.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS216 	00:54:55,00 --> 00:55:02,50 	the soldier pockets it.
-INSIDE_MAN.srt 	INSIDE_MAN_DVS423 	02:00:47,00 --> 02:00:54,50 	he walks away pocketing the cartier box.
 JACK_AND_JILL.srt 	JACK_AND_JILL_DVS72 	00:15:22,00 --> 00:15:27,50 	someone pockets a dinner roll and heads out.
 JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS37 	00:09:40,00 --> 00:09:44,50 	someone pockets his ring.
 LARRY_CROWNE.srt 	LARRY_CROWNE_DVS42 	00:13:51,00 --> 00:13:59,50 	gas tank pocketing his wallet, he eyes the pumps display.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS634 	01:59:24,00 --> 01:59:31,50 	he shuts the watch, puts it away, and pockets the gun.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS691 	02:09:43,00 --> 02:09:49,50 	instead pockets the cigarette case.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS332 	01:08:13,00 --> 01:08:17,50 	he pockets it.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1109 	01:56:11,00 --> 01:56:16,50 	someone pockets the flashlight.

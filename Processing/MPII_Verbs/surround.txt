@@ -1,121 +1,33 @@
 0001_American_Beauty_00.04.31.390-00.04.38.727 	lester sits at his workstation, a beige cubicle surrounded by identical beige cubicles.
-0001_American_Beauty_00.17.16.562-00.17.17.584 	angela, fully clothed, is once again surrounded by the other girls.
 0003_CASABLANCA_01.13.53.659-01.13.55.327 	several french officers surround laszlo, offering him a drink.
-0003_CASABLANCA_01.35.24.531-01.35.25.588 	the entire airport is surrounded by a heavy fog.
-0005_Chinatown_01.39.30.645-01.39.33.471 	clearing the kitchen counter, gittes sees ida sessions lying on her back on the floor, surrounded by the groceries from a broken bag.
-0006_Clerks_00.33.58.099-00.34.02.394 	an odd man sits on the floor, surrounded by cartons of eggs, all opened.
-0007_DIE_NACHT_DES_JAEGERS_00.06.53.581-00.06.55.966 	in b.g.the troopers get out of their cars and fan out cautiously to surround ben: guns in hand.
-0007_DIE_NACHT_DES_JAEGERS_00.18.13.244-00.18.15.614 	group shot through door-glass, from john's view point preacher, willa and pearl surround a little table.
-0007_DIE_NACHT_DES_JAEGERS_01.07.31.963-01.07.35.788 	she surrounds them and drives them like geese up the bank.
-0008_Fargo_00.43.31.205-00.43.33.307 	it is a lakeside cabin surrounded by white.
-0009_Forrest_Gump_01.42.44.547-01.42.48.481 	she is surrounded by her many children.
-0011_Gandhi_00.04.08.785-00.04.15.631 	and finally we see gandhi lying on the weapon-carrier, surrounded by flowers, a tiny figure in this ocean of grief and reverence.
-0016_O_Brother_Where_Art_Thou_00.12.42.552-00.12.43.603 	from high we see a foreshortened lawman holding a bullhorn surrounded by armed deputies.
-0016_O_Brother_Where_Art_Thou_01.22.40.067-01.22.42.414 	out in the banquet hall penny and waldrip sit side-by-side at the head table, surrounded by the wharvey gals.
-0017_Pianist_02.16.59.664-02.17.02.455 	he peers out to see polish soldiers beginning to surround the ruined building, firing shots, lobbing in a grenade or two.
-0020_Raising_Arizona_00.33.49.706-00.33.51.157 	she is surrounded by the rumpled sheets and blankets used by the house guests.
-0020_Raising_Arizona_01.15.33.648-01.15.35.090 	close on her hands, we see her putting in a cash packet that is really only a few bills and a sleeve surrounding and hiding a small plastic device.
 0022_Reservoir_Dogs_00.46.08.250-00.46.10.518 	pink and mr. blonde surround him and proceed to beat the shit out of him.
-0023_THE_BUTTERFLY_EFFECT_00.55.53.309-00.55.56.016 	he stands in the middle of her bedroom, surrounded by sorority plaques and pink preppy decor.
-0023_THE_BUTTERFLY_EFFECT_01.05.28.073-01.05.30.330 	evan's car has been trashed and is surrounded by broken glass.
 0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.49.28.244-00.49.30.184 	a thick hedge surrounds the village.a great gate bars the western entrance.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.59.28.792-00.59.32.618 	he is marooned on the tiny, flat peak, surrounded on all sides by a sheer 500 foot drop.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.03.51.361-02.03.53.161 	a huge shadow, surrounded by flame, falls across the hall.the ground shakes.an unearthly sound rumbles.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.12.35.816-02.12.41.196 	the fellowship are suddenly surrounded by armed elves.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.10.45.539-00.10.51.246 	gandalf leads the company through the flotsam and jetsam which floats upon the muddied waters surrounding the tower.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.33.26.505-00.33.34.317 	gandalf leads pippin across a flat court of white stones, surrounded by green lawns towards a great hall beneath.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.24.07.833-01.24.10.392 	silence surrounds them, there are no birds, no wind.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.28.25.049-01.28.37.269 	aragorn, legolas and gimli are now surrounded by an army of the dead.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.32.54.426-02.33.01.087 	of aragorn's army, totally surrounded by 300,000 orcs poised for the order to attack!
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.36.26.767-02.36.30.282 	aragorn and company watch as they are surrounded by a tide of orcs.
 0030_The_Hustler_00.24.45.265-00.24.46.477 	a floor full of cigarette butts surround charlie's chair.
 0041_The_Sixth_Sense_00.56.00.547-00.56.06.168 	tiny statues of saints surround the interior perimeter.
-0041_The_Sixth_Sense_01.22.01.268-01.22.06.300 	mrs. collins is seated at the dining room surrounded by friends and family.
-0049_Hannah_and_her_sisters_00.02.03.768-00.02.07.992 	people, some holding drinks, some just entering the apartment, surround her.
-0049_Hannah_and_her_sisters_01.23.30.647-01.23.40.629 	guests are crowded together in the living room, surrounding the piano, where evan is sitting and flipping through some sheet music.
-0050_Indiana_Jones_and_the_last_crusade_00.32.08.016-00.32.15.358 	as indy falls through the hole in the wall onto rocks surrounded by bubbling, green, slimy liquid.
-0050_Indiana_Jones_and_the_last_crusade_00.32.15.358-00.32.18.829 	more skeletons surround him, resting in their carved niches.
-0050_Indiana_Jones_and_the_last_crusade_01.21.34.497-01.21.36.697 	the sultan is seated in his royal chair, flanked by walter donovan and vogel and surrounded by his minions.
-0050_Indiana_Jones_and_the_last_crusade_01.41.45.858-01.41.52.159 	everyone turns to discover indy and his party surrounded by nazi soldiers.
 0051_Men_in_black_00.10.54.122-00.10.55.100 	the weapon smashes into the stone wall surrounding central park and shatters into a million pieces.
-0053_Rendezvous_mit_Joe_Black_00.16.31.907-00.16.32.243 	frozen with surprise, parrish's eyes search the room for the source of the sound, it comes from no particular direction, yet surrounds him.
-0053_Rendezvous_mit_Joe_Black_01.23.00.839-01.23.17.316 	they are inches apart now, the smell of each other surrounds them, a heaviness to the moment, now joe turns to head up the stairs.
-1001_Flight_01.15.30.116-01.15.38.405 	at a church, a large framed picture of katerina stands surrounded by flowers as a coffin is carried out.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.00.20.125-01.00.31.387 	looking totally miserable, he sits down in front of his breakfast plate, a fried egg on a square of dry toast, surrounded by four toast triangles.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.18.52.703-01.19.00.150 	harry stands still, surrounded by the swaying reeds.
-1005_Signs_00.53.28.030-00.53.31.697 	he turns and treads calmly along the wooden veranda surrounding the house.
-1006_Slumdog_Millionaire_01.16.31.049-01.16.36.382 	salim's car pulls up to a sprawling palatial house situated on the hillside surrounded by construction sites.
-1007_Spider-Man1_00.27.25.416-00.27.31.606 	he grabs it in both hands and leaps up onto the wall surrounding roof.
 1007_Spider-Man1_01.22.06.659-01.22.09.280 	fire trucks surround a burning apartment building.
 1008_Spider-Man2_00.41.14.883-00.41.21.566 	the mechanical arms grasp onto an energy field which surrounds the glowing sphere.
-1008_Spider-Man2_01.39.30.897-01.39.31.728 	the mechanical limb clutching peter throws him acroos the cafe but he slams against the back wall and falls to the floor, surrounded by debris.
-1008_Spider-Man2_02.04.17.346-02.04.21.998 	harry looks anxiously around and stares up at the balcony surrounding the room.
-1010_TITANIC_00.00.02.860-00.00.08.948 	in animation, city lights glow behind giant letters sitting on a cliff surrounded by shining spotlights.
 1010_TITANIC_00.01.20.683-00.01.22.870 	surrounded by inky darkness, a pair of small bluish white lights glow.
-1011_The_Help_01.19.20.986-01.19.28.491 	tenderly carrying mae mobley in her arms, aibileen sets her down on the lawn surrounded by a dozen toilets.
-1017_Bad_Santa_00.06.23.169-00.06.28.836 	now in regular clothes, santa's little helper opens a back door and finds santa surrounded by empty beer cans.
-1017_Bad_Santa_00.11.58.161-00.12.07.579 	he reaches over to the clock radio which is surrounded by last night's empties and fumbles for the off button, unable to find it he rips it out of its socket.
-1017_Bad_Santa_01.32.27.920-01.32.40.054 	the posse of cops surround him, keeping him covered as the screen fades slowly.
 1024_Identity_Thief_00.04.43.514-00.04.48.313 	now, the real sandy sits in front of a birthday cake, surrounded by his beautiful wife and two young daughters.
 1024_Identity_Thief_01.23.17.014-01.23.18.749 	diana surrounds her head in a cloud of hairspray.
 1024_Identity_Thief_01.33.13.409-01.33.15.076 	squad cars surround the skiptracer.
-1026_Legion_01.08.09.431-01.08.11.570 	they surround the van, open it, and grab the boy.
-1029_Pride_And_Prejudice_Disk_One_00.27.33.475-00.27.34.897 	lydia and kitty are surrounded by officers.
 1029_Pride_And_Prejudice_Disk_One_02.13.46.400-02.13.52.067 	she wanders past post and rail fencing surrounding an old oak tree, idly toying with a leafy twig.
-1031_Quantum_of_Solace_00.04.49.742-00.04.55.577 	light surrounds the sun, and a shadowy bond aims his pistol.
 1031_Quantum_of_Solace_00.05.45.499-00.05.52.532 	a gloomed shaped hood of lights surrounds the scene.
-1031_Quantum_of_Solace_01.26.35.758-01.26.40.951 	they arrive at a meeting area surrounded by clear glass panels.
-1033_Sherlock_Holmes_A_Game_of_Shadows_00.54.20.374-00.54.23.515 	the gypsies surround holmes and watson who smile politely.
 1033_Sherlock_Holmes_A_Game_of_Shadows_01.08.24.176-01.08.30.590 	moriarty watches, transfixed, as demons surround don giovanni.
-1034_Super_8_00.54.53.331-00.54.59.517 	inside the compound, his car is immediately surrounded by heavily armed soldiers.
-1035_The_Adjustment_Bureau_00.49.37.003-00.49.38.337 	the surrounding cars stop.
-1035_The_Adjustment_Bureau_01.35.07.735-01.35.14.046 	the officers easily surround the lovers who face each other hopelessly.
-1038_The_Great_Gatsby_00.50.46.204-00.50.46.853 	a stone birdbath is cleaned up and surrounded with pretty flowers.
-1038_The_Great_Gatsby_01.00.29.365-01.00.34.756 	surrounded by gushing fountains and ornamental palms, they look up at the house.
-1038_The_Great_Gatsby_02.04.52.374-02.04.55.589 	at gatsby's, nick stands on the stairs, looking down at the open coffin surrounded by flowers and reporters.
-1040_The_Ugly_Truth_01.28.37.057-01.28.40.148 	below is the mirror-like surface of the lake, surrounded by lush forest.
 1041_This_is_40_01.12.35.613-01.12.42.532 	at the dance club, desi and the hockey players surround debbie as she pumps her fists.
-1043_Vantage_Point_00.56.18.332-00.56.24.079 	the huge enclosed square of the plaza is surrounded by terra cotta colored buildings.
-1044_Pride_And_Prejudice_Disk_Two_01.59.22.697-01.59.32.873 	as it pulls to a halt and the footman opens the door, the wickhams emerge from the house, surrounded by lydia's sisters and parents.
-1044_Pride_And_Prejudice_Disk_Two_02.34.42.911-02.34.50.578 	they step up into the waiting carriage, well wishers surrounding them on every side.
-1046_Australia_02.06.23.599-02.06.29.153 	he turns and walks out onto the balcony surrounding his office at the top of a high clock tower.
 1047_Defiance_00.49.25.357-00.49.27.902 	soldiers surround the bielski brothers.
-1049_Harry_Potter_and_the_chamber_of_secrets_00.16.41.887-00.16.45.092 	he is surrounded.
-1049_Harry_Potter_and_the_chamber_of_secrets_00.31.08.315-00.31.21.500 	hogwarts school is housed in a handsome castle surrounded by stone outbuildings and long victorian greenhouses.
 1049_Harry_Potter_and_the_chamber_of_secrets_00.53.05.000-00.53.11.658 	hung with heraldic designs, tall spectator towers surround the oval arena of the quidditch pitch.
-1049_Harry_Potter_and_the_chamber_of_secrets_01.45.03.867-01.45.05.898 	but the pass stops that huge hole in the ground surrounded by crumpled cobwebs.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.25.59.834-01.26.06.592 	in the graveyard, surrounding the church.
-1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.54.25.347-01.54.34.203 	finally, he draws a triangle, surrounding the wand and the stone.
-1050_Harry_Potter_and_the_deathly_hallows_Disk_One_02.13.17.928-02.13.30.166 	the rippling waters of hogwarts lake are surrounded by dark mountains.
-1051_Harry_Potter_and_the_goblet_of_fire_00.57.50.166-00.57.58.506 	harry walks out into a circular arena hewn from the rocky hillside and surrounded by a stone wall.
 1052_Harry_Potter_and_the_order_of_phoenix_01.19.42.732-01.19.51.331 	dementors circle high above the prison, a colossal triangular tower, surrounded by an angry sea.
-1052_Harry_Potter_and_the_order_of_phoenix_01.59.35.562-01.59.42.432 	dumbledore draws a great wave of water from the pools surrounding the fountain and submerges voldemort.
-1053_Harry_Potter_and_the_philosophers_stone_01.16.15.725-01.16.29.206 	one after the other, they fly out of the player's tunnel, and swoop around between the tall spectator towers, which surround the oval grassy arena.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.32.05.706-00.32.13.634 	the students follow hagrid around the edge of the sunlit forest to a grassy clearing surrounded by a low wall.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.55.38.472-00.55.45.501 	harry finds himself surrounded by hooded dementors.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_01.44.33.651-01.44.38.188 	the dazzling light surrounding the stag grows even brighter.
-1055_Marley_and_me_00.53.24.537-00.53.27.478 	on the pavement, the grogans' bin is surrounded by chewed empty boxes of baby equipment.
 1056_Rambo_00.04.42.940-00.04.47.320 	rambo gestures to his friends and they surround the cobra, which lunges at them in turn.
-1056_Rambo_00.07.02.834-00.07.20.691 	surrounded by onlookers, a young snake-charmer crouches alone in an open area facing two cobras.
 1056_Rambo_00.36.58.424-00.37.00.840 	a watchtower at a military camp surrounded by razor wire.
 1056_Rambo_01.13.47.732-01.13.51.000 	soldiers surround his position.
 1057_Seven_pounds_00.00.23.169-00.00.29.885 	an orange disc surrounded by black revolves like a record on a turntable.
-1057_Seven_pounds_00.56.23.650-00.56.26.012 	emily lies fast asleep, surrounded by machines and monitors.
 1058_The_Damned_united_00.18.17.000-00.18.21.000 	peter yells beside a glowering brian as the leeds players surround the ref.
-1059_The_devil_wears_prada_01.28.27.000-01.28.28.903 	they are surrounded by bare trees adorned with fairy lights.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.00.05.580-00.00.09.292 	the rippling waters of hogwarts' lake are surrounded by dark mountains.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.01.30.178-01.01.31.059 	they are surrounded.
 1062_Day_the_Earth_stood_still_00.37.25.234-00.37.30.945 	three military policemen surround helen and escort her from the room.
-1062_Day_the_Earth_stood_still_01.13.18.846-01.13.24.000 	they abandon the car and run off into the dense surrounding woodland.
-2004_Juno_01.30.43.490-01.30.52.593 	pull out to reveal the surrounding green suburb buzzing with life and summer activity.
-2012_Unbreakable_00.44.10.845-00.44.18.692 	david watches the cornerback being surrounded by kids.
-2026_Legion_00.46.19.325-00.46.29.694 	kyle looks at percy, fear in his eyes, then he turns back to the darkness.and the evil that surrounds them.
 2026_Legion_01.05.08.786-01.05.09.643 	audrey stares into the red nothingness surrounding them.
-2026_Legion_01.08.13.140-01.08.15.564 	kyle raises his mp5 to fire upon the dark shapes that surround the vehicle like swarming insects.
 2026_Legion_01.25.35.347-01.25.38.046 	buzzing surrounds them.
-2027_Les_Miserables_01.36.32.126-01.36.35.863 	the students break the ranks of the crowd and surround the coffin carriage.
 2027_Les_Miserables_01.36.47.649-01.36.52.387 	the crowd supports them and surround the coffin carriage, blocking the attempts of the police to intervene, singing with passion.
-2027_Les_Miserables_01.43.55.988-01.43.59.269 	as everyone surrounds marius in amazement he spots eponine lying propped against the barricade.
-2027_Les_Miserables_01.57.15.462-01.57.19.971 	crane up and up - seeing the little world of the barricaded street now surrounded by waiting soldiers - and the streets round them packed with soldiers in their thousands, so many that we know the little band can never win.
-2034_Super_8_01.14.59.176-01.15.01.651 	we're looking down at the boys, surrounded by hundreds of documents, boxes, photographs, 16mm film cannisters and cassette tapes.
 2051_Harry_Potter_and_the_goblet_of_fire_02.09.06.183-02.09.49.103 	shapes form in the surrounding magical energy.

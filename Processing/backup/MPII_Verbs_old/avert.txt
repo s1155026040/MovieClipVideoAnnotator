@@ -1,4 +1,16 @@
-0005_Chinatown_00.03.22.251-00.03.27.295 	He's now walking him past SOPHIE who pointedly averts her gaze.
-1001_Flight_00.27.19.061-00.27.27.983 	Whip averts his gaze from the screen and notices a man in the room.
+0005_Chinatown_00.03.22.251-00.03.27.295 	he's now walking him past sophie who pointedly averts her gaze.
+1001_Flight_00.27.19.061-00.27.27.983 	whip averts his gaze from the screen and notices a man in the room.
+1007_Spider-Man1_01.35.15.602-01.35.20.321 	peter averts his gaze, nods his head, then looks down at the floor.
+1010_TITANIC_02.48.13.859-02.48.18.835 	furrowing her brow, molly looks around at the other people in the boat who avert their gaze.
+1024_Identity_Thief_01.35.39.769-01.35.47.480 	they share a long, loving kiss as diana enters, her sheepish eyes averted to the floor.
+1029_Pride_And_Prejudice_Disk_One_02.40.14.318-02.40.17.445 	lizzie averts her gaze.
+1030_Public_Enemies_01.50.07.613-01.50.10.327 	anna averts her gaze.
+1030_Public_Enemies_02.07.30.165-02.07.31.819 	polly averts her gaze.
+1035_The_Adjustment_Bureau_00.30.37.650-00.30.40.185 	david averts his gaze, his lips parted.
+1035_The_Adjustment_Bureau_01.00.56.907-01.00.58.573 	swallowing hard, elise averts her eyes.
+1041_This_is_40_00.27.55.820-00.28.00.735 	debbie averts her face.
+1041_This_is_40_01.02.39.736-01.02.43.635 	averting her woeful gaze, she rubs her fingers across her throat.
+1044_Pride_And_Prejudice_Disk_Two_00.52.26.935-00.52.30.000 	lizzie keeps her gaze averted from him.
+1047_Defiance_00.25.46.484-00.25.50.614 	tuvia looks at asael who averts his gaze and then back at zus.
 2027_Les_Miserables_01.07.14.362-01.07.14.634 	the fine ladies and grand gentlemen in the carriages avert their eyes, or raise the blinds of their carriage windows to shut out the sight of the losers of their world.
 2027_Les_Miserables_01.12.45.222-01.12.46.808 	he sees man with his arm protectively round a girl but does not recognize valjean as valjean has averted his face.

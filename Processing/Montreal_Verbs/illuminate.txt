@@ -5,36 +5,16 @@ A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS666 	01:08:32,00 --> 01:08
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS669 	01:08:55,00 --> 01:09:03,50 	inside, the choppers light passes through the corridor windows and illuminates someone and someone.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS441 	01:15:52,00 --> 01:15:57,50 	soft lighting illuminates someone's face.
 BLINDDATING.srt 	BLINDDATING_DVS278 	01:09:41,00 --> 01:10:00,50 	later, an or light illuminates someone's restful face.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS53 	00:07:11,00 --> 00:07:21,50 	the bearded man's bottom lip quivers as the nazi officer opens the box and peers inside, his face illuminated by a bright blue light.
-CHRONICLE.srt 	CHRONICLE_DVS530 	01:15:10,00 --> 01:15:22,50 	from the helicopter's view, searchlights illuminate the two unmoving boys as the uniformed officers and swat members cautiously make their way to the center of the plaza.
 DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS321 	01:18:10,00 --> 01:18:14,50 	it illuminates the huge
-DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS405 	01:41:02,00 --> 01:41:07,50 	he turns a light illuminating the painting off.
 GET_HIM_TO_THE_GREEK.srt 	GET_HIM_TO_THE_GREEK_DVS173 	01:32:56,00 --> 01:33:01,50 	pool lights illuminate the bloody water.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS484 	01:10:27,00 --> 01:10:36,50 	at night, spotlights illuminate the ancient amphitheater as someone's guards walk someone out on stage.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS443 	01:37:26,00 --> 01:37:35,50 	a flash of light briefly illuminates someone's steady undaunted stare the other side.
-HUGO.srt 	HUGO_DVS78 	00:10:11,00 --> 00:10:20,50 	light shines in through narrow windows along the slanted ceiling and illuminates spinning gears and exposed steel girders.
-HUGO.srt 	HUGO_DVS770 	01:51:32,00 --> 01:51:42,50 	someone's hair blows back as he is illuminated by the train's headlight.
 HUGO.srt 	HUGO_DVS788 	01:54:48,00 --> 01:54:55,50 	on stage, someone steps aside as a spotlight illuminates a curtain.
-IN_TIME.srt 	IN_TIME_DVS696 	01:14:49,00 --> 01:14:55,50 	now, the words out of blink of on his neon sign, leaving only time illuminated.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS39 	00:04:38,00 --> 00:04:48,50 	flying sparks illuminate the cockatoo perched near a computer screen nearby.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS515 	01:33:39,00 --> 01:33:44,50 	lights illuminate the stage.
 KARATE_KID.srt 	KARATE_KID_DVS1155 	01:35:34,00 --> 01:35:42,50 	at dusk, someone shuffles through a teaming marketplace illuminated softly by lanterns in each kiosk.
 LARRY_CROWNE.srt 	LARRY_CROWNE_DVS320 	01:14:58,00 --> 01:15:03,50 	his scooter's headlights briefly illuminates red-striped diagonally across the sign.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS270 	00:35:57,00 --> 00:36:07,50 	as we push through thick, churning storm clouds, deck lights illuminate a freighter in the night.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS523 	00:57:19,00 --> 00:57:29,50 	as it illuminates the sky, we find the boat and raft adrift on perfectly still, glassy waters that reflect the cloudy sky.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS689 	01:12:37,00 --> 01:12:43,50 	it illuminates someone's grinning face as he plays.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS813 	01:22:59,00 --> 01:23:08,50 	from a distance, the bright orange flare briefly illuminates the dark night sky and the screen fades to black.
-NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS142 	00:32:15,00 --> 00:32:41,50 	a lamp at the head of the bed illuminates the girls sleeping toe-to-toe under the covers next to geraldine who snores.
-NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS482 	01:38:26,00 --> 01:38:40,50 	someone beams as her husband races to their children, his face illuminated by his warm toothy grin.
-PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS287 	01:11:47,00 --> 01:11:56,50 	an illuminated logo shows a dark pink dome-shaped flower over the words lotus hotel and casino.
 PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS430 	01:41:39,00 --> 01:41:46,50 	the base of a magnificent palace illuminating its columned facade.
 PROMETHEUS.srt 	PROMETHEUS_DVS108 	00:06:27,00 --> 00:06:33,50 	its beam illuminates primitive cave paintings.
-PROMETHEUS.srt 	PROMETHEUS_DVS187 	00:12:55,00 --> 00:13:05,50 	on illuminated floor panels, a soaking wet woman clad in bandage-like undergarments does push-ups with a determined stare.
 PROMETHEUS.srt 	PROMETHEUS_DVS510 	00:54:01,00 --> 00:54:07,50 	their flashlights illuminate the mangled mass over 10 feet tall.
-PROMETHEUS.srt 	PROMETHEUS_DVS924 	01:41:38,00 --> 01:41:47,50 	as the engineer works the controls, a brief flash illuminates his crescent shaped ship.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS318 	01:16:43,00 --> 01:16:59,50 	a fiery glow illuminating her noble features as she gazes downward.
-SALT.srt 	SALT_DVS254 	00:43:39,00 --> 00:44:13,50 	st. bartholomew's cathedral stands almost directly across the street, softly illuminated by outdoor flood lamps.
-SANCTUM.srt 	SANCTUM_DVS447 	01:24:31,00 --> 01:24:40,50 	now, someone's helmet light emerges from darkness, illuminating the walls of a tunnel as he crawls through it.
 SANCTUM.srt 	SANCTUM_DVS518 	01:36:59,00 --> 01:37:10,50 	meanwhile in the underwater cave, someone, illuminated by the green light of the glow stick feels his way along the rocks above with clenched teeth.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS112 	00:22:09,00 --> 00:22:16,50 	someone stops and stares at the chrysler building, its illuminated crown agleam in the night eagles mounted on a high.
 SUPER_8.srt 	SUPER_8_DVS168 	00:26:29,00 --> 00:26:37,50 	outside, viewed from a hilltop, lights illuminating buildings and streets throughout town briefly flicker and flare.
@@ -44,7 +24,5 @@ THE_CALL.srt 	THE_CALL_DVS813 	01:01:31,00 --> 01:01:37,50 	a pair of lights ill
 THE_CALL.srt 	THE_CALL_DVS900 	01:09:34,00 --> 01:09:39,50 	three porch lights illuminate the exterior.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS504 	00:56:49,00 --> 00:56:57,50 	someone's hunched figure shuffles up a brick walkway illuminated with street lamps.
 THOR.srt 	THOR_DVS684 	01:41:52,00 --> 01:41:58,50 	a low sun illuminates the glittering kingdom of asgard.
-TRUE_GRIT.srt 	TRUE_GRIT_DVS84 	00:23:01,00 --> 00:23:05,50 	he lights a pipe and the flame illuminates his beady eyes which are fixed on someone.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS734 	01:45:08,00 --> 01:45:15,50 	passing the restaurant, he doubles back and reads a new illuminated sign in the window.
 YOUNG_ADULT.srt 	YOUNG_ADULT_DVS106 	00:16:50,00 --> 00:16:57,50 	inside, christmas lights and neon signs illuminate a short bar and pool table.
 YOUNG_ADULT.srt 	YOUNG_ADULT_DVS419 	01:21:07,00 --> 01:21:14,50 	out in the living room, faint morning light shines in the windows and illuminates an upright piano.

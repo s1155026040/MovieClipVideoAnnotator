@@ -3,15 +3,6 @@ BURLESQUE.srt 	BURLESQUE_DVS510 	01:10:31,00 --> 01:10:37,50 	in the dressing ro
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS211 	00:38:08,00 --> 00:38:24,50 	someone runs after him as someone huddles over dr.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS504 	00:49:03,00 --> 00:49:07,50 	huddling from the chilly wind.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS449 	01:46:22,00 --> 01:46:28,50 	another family and four women huddled in a doorway.
-COLOMBIANA.srt 	COLOMBIANA_DVS185 	00:16:11,00 --> 00:16:19,50 	a view down a chimney shows someone huddled at the bottom, rocking slightly with her hand clapped over her mouth.
 EASY_A.srt 	EASY_A_DVS145 	00:45:33,00 --> 00:45:41,50 	our view zooms from guys texting at the pool, to more guys huddle around a cellphone on the soccer field.
-EASY_A.srt 	EASY_A_DVS146 	00:45:38,00 --> 00:45:48,50 	she heads to the track, where four other girls race, then stop and huddle around a phone.
-ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS407 	01:53:25,00 --> 01:53:31,50 	she trudges toward a construction crew huddled around a table collapsible canopy.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS381 	00:45:33,00 --> 00:45:43,50 	with the life preserver looped over the prow beam, a huddled, shivering someone sits in the rain while clinging to the mast with his hands.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS124 	00:08:19,00 --> 00:08:25,50 	now huddled by the window, someone opens the note.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS930 	01:00:21,00 --> 01:00:27,50 	now, the refugee women sit huddled around a campfire.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS942 	01:01:14,00 --> 01:01:22,50 	someone, someone, and her children lie huddled together under heavy blankets near the mouth of a cave.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS460 	01:14:51,00 --> 01:14:55,50 	they huddle in the doorway.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS230 	00:27:33,00 --> 00:27:41,50 	at the cottage, while the cat eats, someone sits by a fireplace huddled in a blanket.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS589 	01:05:02,00 --> 01:05:10,50 	sitting partially hidden in a chair on the other side of a bureau, someone huddles up and lights a cigarette.
-THOR.srt 	THOR_DVS296 	00:42:09,00 --> 00:42:14,50 	two guards rush in and huddle over the king.

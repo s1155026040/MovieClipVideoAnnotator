@@ -1,57 +1,23 @@
-30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS82 	00:21:08,00 --> 00:21:17,50 	the mustang rounds a darkened corner and stops halfway through the gate of a chain link fence with an address number on a sign.
 40_YEAR_OLD_VIRGIN.srt 	40_YEAR_OLD_VIRGIN_DVS32 	00:13:33,00 --> 00:13:40,50 	someone's cautious gaze relaxes as he rounds a merchandise divider.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS156 	00:14:27,00 --> 00:14:34,50 	from overhead, the three black sedans round the corner and continue down a one-way street.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS165 	00:15:06,00 --> 00:15:13,50 	using a rounded mirror on a pole, a soldier checks the underside of the first sedan,
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS175 	00:15:46,00 --> 00:15:53,50 	they round a raised curb by a side entrance and park in a line along the courthouse.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS185 	00:16:24,00 --> 00:16:38,50 	rounding a corner, the armored truck barrels toward the blast point.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS791 	01:19:41,00 --> 01:19:47,50 	stepping through the rounded vault entrance, someone readies his weapon.
-BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS89 	00:13:01,00 --> 00:13:15,50 	as someone rounds a corner onto another street, someone turns off his headlights.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS141 	00:11:29,00 --> 00:11:36,50 	someone rounds a corner and stops, gazing past a cliff to the ocean below.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS209 	00:16:48,00 --> 00:16:54,50 	blond tries to pull someone off as a police car rounds the corner.
-CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS240 	00:56:28,00 --> 00:56:32,50 	a sign reads, round 3.
-CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS276 	01:06:50,00 --> 01:07:20,50 	someone rounds a corner wearing a dressy russet blouse and a brown cloche hat.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS327 	01:21:55,00 --> 01:21:58,50 	card reads, round 13.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS473 	01:49:41,00 --> 01:49:45,50 	someone rounds a corner.
 COLOMBIANA.srt 	COLOMBIANA_DVS174 	00:15:20,00 --> 00:15:31,50 	rounding a corner, she navigates a labyrinth of alleyways.
 COLOMBIANA.srt 	COLOMBIANA_DVS867 	01:22:29,00 --> 01:22:36,50 	her foot retracts from view just as the swat team rounds the corner.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS185 	00:29:29,00 --> 00:29:40,50 	an suv rounds a turn, pulls up beside him, and continues on.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS479 	01:10:44,00 --> 01:10:55,50 	meanwhile, someone and noodles round the corner of a deteriorating cement wall.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS23 	00:03:35,00 --> 00:03:57,50 	someone gains on the car as he rounds a bend.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS23 	00:03:35,00 --> 00:03:57,50 	the black suv rounds a corner.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS26 	00:03:57,00 --> 00:04:12,50 	the three vehicles round another bend, now one right behind the other.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS562 	01:20:11,00 --> 01:20:32,50 	a gunman ahead fires rounds from a mounted cannon.
-GREEN_ZONE.srt 	GREEN_ZONE_DVS404 	01:30:50,00 --> 01:30:56,50 	upstairs, someone rounds a corner, gets a glimpse of them, and sprints faster.
-IN_TIME.srt 	IN_TIME_DVS202 	00:21:11,00 --> 00:21:19,50 	rounding a corner, she lifts her arm and finds her clock counting down from ten seconds.
-INSIDE_MAN.srt 	INSIDE_MAN_DVS96 	00:24:49,00 --> 00:25:13,50 	they round a corner out of the offices and walk along a wall of vertical bars.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS596 	01:42:43,00 --> 01:43:17,50 	an eleventh guard rounds a corner.
-JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS293 	01:35:12,00 --> 01:35:21,50 	rounding a corner, he breaks into a run.
-NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS437 	01:30:56,00 --> 01:31:13,50 	inside, the boys and someone peek out from behind the wagon, as mr. edelweiss, now enormously round like a balloon, descend to someone.
-NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS477 	01:37:50,00 --> 01:37:59,50 	leaving the woods, someone rounds a turn, stops running and stares.
-PROMETHEUS.srt 	PROMETHEUS_DVS293 	00:29:02,00 --> 00:29:09,50 	the crust rounded front gives a hint of wind-eroded carving of a face.
 PROMETHEUS.srt 	PROMETHEUS_DVS336 	00:32:21,00 --> 00:32:27,50 	rounding a turn, the survey team steps into view and slows.
-PROMETHEUS.srt 	PROMETHEUS_DVS470 	00:49:30,00 --> 00:49:35,50 	rounding a bend, he finds someone waiting for him.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS437 	01:24:17,00 --> 01:24:33,50 	meanwhile, someone rounds past a tree.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS626 	01:58:22,00 --> 01:58:29,50 	someone rounds a corner and spies a group of agents surround the radio.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS422 	01:45:24,00 --> 01:45:34,50 	the lead boy crouches and watches the legionnaires violently rounding up
-RUBY_SPARKS.srt 	RUBY_SPARKS_DVS59 	00:09:58,00 --> 00:10:03,50 	he rounds a corner and steps out of view.
 SOUL_SURFER.srt 	SOUL_SURFER_DVS84 	00:27:53,00 --> 00:28:15,50 	rounding a corner, someone's spots her father.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS278 	00:40:22,00 --> 00:40:29,50 	someone fires his pistol behind himself as he rounds a corner.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS510 	01:12:54,00 --> 01:12:59,50 	someone glances over his shoulder as he rounds a corner with someone.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS86 	00:19:33,00 --> 00:19:37,50 	someone and someone round a corner and spy on him.
-THE_CALL.srt 	THE_CALL_DVS976 	01:15:02,00 --> 01:15:09,50 	rounding a corner, she faces a wall with an exposed wooden frame.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS516 	01:13:37,00 --> 01:13:46,50 	someone sidles down the narrow gap between the bar and a wall, then rounds a corner to the other side and joins someone.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1202 	02:07:35,00 --> 02:07:43,50 	someone catches air then races down the forest road and rounds a bend.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1204 	02:07:43,00 --> 02:07:48,50 	her view finds the suv rounding a bend.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1423 	02:32:44,00 --> 02:32:53,50 	she speeds off down the cobblestone street, her figure disappearing from view as she rounds a corner.
 THE_SITTER.srt 	THE_SITTER_DVS92 	00:48:49,00 --> 00:48:55,50 	vehicles round the corner, they briefly move in fast motion.
 THE_VOW.srt 	THE_VOW_DVS401 	00:55:48,00 --> 00:55:54,50 	now, someones wagoneer rounds a corner by the apartment.
 THE_WATCH.srt 	THE_WATCH_DVS31 	00:04:49,00 --> 00:04:55,50 	now, he rounds a corner on a tricycle, drinking and driving.
-THE_WATCH.srt 	THE_WATCH_DVS478 	01:25:54,00 --> 01:26:01,50 	rounding a corner, he leads his friends past walls of steaming pipes.
 THE_WATCH.srt 	THE_WATCH_DVS526 	01:31:52,00 --> 01:31:57,50 	gaining on them, the aliens round a corner.
-THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS481 	01:24:38,00 --> 01:24:45,50 	as the suv rounds closer, they fire.
-THOR.srt 	THOR_DVS314 	00:45:25,00 --> 00:45:32,50 	as they round a corner, someone pauses and glances back at someone, then hurries off.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS432 	00:45:59,00 --> 00:46:04,50 	a dark-haired girl rounds a corner and spots someone.
-UGLY_TRUTH.srt 	UGLY_TRUTH_DVS359 	00:42:32,00 --> 00:42:39,50 	now a runner rounds second base and an outfielder goes for the ball.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS464 	00:56:55,00 --> 00:57:02,50 	later they round a curve on a mountainside, then drive across a towering bridge.
-WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS112 	00:11:04,00 --> 00:11:10,50 	she rounds a corner, then peeks back at the woman with beau.
 ZOOKEEPER.srt 	ZOOKEEPER_DVS408 	01:29:47,00 --> 01:29:51,50 	it rounds a corner.

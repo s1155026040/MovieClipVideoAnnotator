@@ -1,31 +1,64 @@
-0003_CASABLANCA_00.56.36.206-00.56.36.720 	He stops and addresses Rick politely.
-0003_CASABLANCA_01.28.36.474-01.28.39.351 	A French officer walks in and addresses Laszlo.
-0004_Charade_00.18.18.653-00.18.25.798 	addressing REGGIE this time.
-0004_Charade_00.50.36.651-00.50.36.881 	As his turn comes, he addresses the CLERK.
-0006_Clerks_00.38.12.569-00.38.23.761 	A series of people addressing the camera, asking the dumb questions.
-0006_Clerks_00.45.22.383-00.45.24.752 	DANTE skids back to the sidelines to address the CUSTOMER.
-0011_Gandhi_00.07.10.088-00.07.12.684 	Gandhi is incredulous that he is being addressed in such a manner.
-0011_Gandhi_00.19.31.378-00.19.31.926 	Gandhi steps back on the pavement, addressing the first youth.
-0011_Gandhi_00.20.37.851-00.20.39.904 	General Smuts, whose presence is equal to his office, addresses someone out of shot as a male secretary removes the document.
-0011_Gandhi_00.59.45.993-00.59.47.443 	Nehru has half risen in his seat to address Charlie Andrews, who, walking from one somnolent building to another, has stopped dead at the sight of the car.
-0011_Gandhi_02.35.45.491-02.35.46.490 	He slaps his lighter shut and addresses Gandhi in hushed but fiercely felt words.
-0016_O_Brother_Where_Art_Thou_00.41.17.521-00.41.19.725 	A sad-faced woman in a calico dress addresses the clerk.
-0016_O_Brother_Where_Art_Thou_00.58.17.753-00.58.19.852 	On a bunting-covered stage a pencil- necked man with round rimless glasses addresses a crowd of rustics.
-0020_Raising_Arizona_00.01.29.626-00.01.30.988 	He is addressing one of the Cons.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.26.35.785-01.26.43.929 	Elrond addresses the council.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.26.57.747-01.27.03.030 	Frodo sits amongst a council of free-peoples of Middle earth, Elrond stands before them, addressing Gandalf, Strider, Legolas, and 20 other elves, Dwarves, and men.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.29.29.788-01.29.35.424 	Boromir addresses the council in a quiet voice.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.24.27.275-02.24.33.569 	SARUMAN address a crowd of 200 fully armed URUK-HAI.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.59.29.631-00.59.31.156 	DENETHOR addresses his meal.
-0027_The_Big_Lebowski_01.42.00.685-01.42.08.106 	Walter ignores the Dude, addresses the Germans.
-0033_Amadeus_01.57.16.745-01.57.18.132 	We watch the scene on stage as the Commendatore addresses Giovanni.
-0046_Chasing_Amy_01.07.17.848-01.07.21.094 	In the PARKING LOT of FOOD CITY, addressing the camera.
-0049_Hannah_and_her_sisters_01.23.30.717-01.23.36.494 	An adult guest talks to the little boy; another guest takes a sip of wine from a glass she'd placed on the bookshelf behind her as Evan turns and addresses the group.
-0051_Men_in_black_00.24.21.894-00.24.39.177 	Zed continues addressing the Recruits.
-0051_Men_in_black_00.29.33.337-00.29.33.688 	Zed, addressing them, pulls a neuralyzer from his pocket.
-1003_How_to_Lose_Friends_and_Alienate_People_00.56.39.425-00.56.42.611 	Lawrence takes a seat behind his desk to address his underlings.
-1003_How_to_Lose_Friends_and_Alienate_People_01.04.08.509-01.04.15.274 	Drunk Sydney climbs up onto the railing behind the band and addresses the crowd with his arms out.
-1007_Spider-Man1_00.05.38.737-00.05.44.453 	The sulky, young man clamors out and addresses Parker.
+0003_CASABLANCA_00.56.36.206-00.56.36.720 	he stops and addresses rick politely.
+0003_CASABLANCA_01.28.36.474-01.28.39.351 	a french officer walks in and addresses laszlo.
+0004_Charade_00.18.18.653-00.18.25.798 	addressing reggie this time.
+0004_Charade_00.50.36.651-00.50.36.881 	as his turn comes, he addresses the clerk.
+0006_Clerks_00.38.12.569-00.38.23.761 	a series of people addressing the camera, asking the dumb questions.
+0006_Clerks_00.45.22.383-00.45.24.752 	dante skids back to the sidelines to address the customer.
+0011_Gandhi_00.07.10.088-00.07.12.684 	gandhi is incredulous that he is being addressed in such a manner.
+0011_Gandhi_00.19.31.378-00.19.31.926 	gandhi steps back on the pavement, addressing the first youth.
+0011_Gandhi_00.20.37.851-00.20.39.904 	general smuts, whose presence is equal to his office, addresses someone out of shot as a male secretary removes the document.
+0011_Gandhi_00.59.45.993-00.59.47.443 	nehru has half risen in his seat to address charlie andrews, who, walking from one somnolent building to another, has stopped dead at the sight of the car.
+0011_Gandhi_02.35.45.491-02.35.46.490 	he slaps his lighter shut and addresses gandhi in hushed but fiercely felt words.
+0016_O_Brother_Where_Art_Thou_00.41.17.521-00.41.19.725 	a sad-faced woman in a calico dress addresses the clerk.
+0016_O_Brother_Where_Art_Thou_00.58.17.753-00.58.19.852 	on a bunting-covered stage a pencil- necked man with round rimless glasses addresses a crowd of rustics.
+0020_Raising_Arizona_00.01.29.626-00.01.30.988 	he is addressing one of the cons.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.26.35.785-01.26.43.929 	elrond addresses the council.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.26.57.747-01.27.03.030 	frodo sits amongst a council of free-peoples of middle earth, elrond stands before them, addressing gandalf, strider, legolas, and 20 other elves, dwarves, and men.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.29.29.788-01.29.35.424 	boromir addresses the council in a quiet voice.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.59.29.631-00.59.31.156 	denethor addresses his meal.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.32.49.142-01.32.59.089 	angle on: gandalf spins around and addresses the soldiers.
+0027_The_Big_Lebowski_01.42.00.685-01.42.08.106 	walter ignores the dude, addresses the germans.
+0033_Amadeus_01.57.16.745-01.57.18.132 	we watch the scene on stage as the commendatore addresses giovanni.
+0046_Chasing_Amy_01.07.17.848-01.07.21.094 	in the parking lot of food city, addressing the camera.
+0049_Hannah_and_her_sisters_01.23.30.717-01.23.36.494 	an adult guest talks to the little boy; another guest takes a sip of wine from a glass she'd placed on the bookshelf behind her as evan turns and addresses the group.
+0051_Men_in_black_00.24.21.894-00.24.39.177 	zed continues addressing the recruits.
+0051_Men_in_black_00.29.33.337-00.29.33.688 	zed, addressing them, pulls a neuralyzer from his pocket.
+1003_How_to_Lose_Friends_and_Alienate_People_00.56.39.425-00.56.42.611 	lawrence takes a seat behind his desk to address his underlings.
+1003_How_to_Lose_Friends_and_Alienate_People_01.04.08.509-01.04.15.274 	drunk sydney climbs up onto the railing behind the band and addresses the crowd with his arms out.
+1009_Spider-Man3_00.11.37.179-00.11.43.146 	he reaches into his jumpsuit and takes out a handful of letters addressed to penny marko.
+1010_TITANIC_01.22.51.481-01.22.55.665 	the elderly rose turns from a monitor and addresses the crew of the salvage vessel.
+1010_TITANIC_02.07.57.242-02.07.59.569 	a steward addresses them.
+1010_TITANIC_02.10.29.515-02.10.32.975 	at the top, a steward addresses a small crowd from behind a locked gate.
+1011_The_Help_00.53.04.175-00.53.09.579 	at the holbrooks', hilly is addressing a meeting of the junior league.
+1011_The_Help_01.10.28.016-01.10.36.323 	by the holbrook swimming pool, hilly is addressing the local ladies.
+1014_2012_01.50.36.738-01.50.40.409 	nora sees them and addresses anheuser.
+1014_2012_02.18.14.960-02.18.20.950 	kate gapes and stares into the blackness as tenzen addresses his family.
+1027_Les_Miserables_01.28.37.532-01.28.38.385 	it's addressed to marius.
+1027_Les_Miserables_01.52.21.510-01.52.24.354 	enjolras addresses the group.
+1028_No_Reservations_00.45.41.600-00.45.43.156 	a waiter addresses the kitchen.
+1030_Public_Enemies_00.29.41.907-00.30.17.366 	purvis paces, then addresses his assembled task force.
+1030_Public_Enemies_01.18.38.770-01.18.43.808 	as baby face pulls the car to a halt, dillinger addresses him with a frown.
+1030_Public_Enemies_02.00.48.007-02.01.07.283 	outside, purvis addresses his agents.
+1034_Super_8_00.45.43.087-00.45.47.748 	jack is addressing a meeting of concerned locals.
+1035_The_Adjustment_Bureau_01.14.22.690-01.14.30.784 	later, in front of a barn and silos, he addresses a crowd.
+1037_The_Curious_Case_Of_Benjamin_Button_00.49.05.558-00.49.07.940 	the waiter addresses benjamin.
+1037_The_Curious_Case_Of_Benjamin_Button_02.31.31.922-02.31.35.568 	now in her late 60s, daisy addresses the cab driver.
+1039_The_Queen_00.18.14.264-00.18.19.185 	the queen walks down a corridor and addresses a footman.
+1039_The_Queen_01.04.04.540-01.04.07.448 	this is followed by tony addressing some members of the public.
+1044_Pride_And_Prejudice_Disk_Two_00.08.03.270-00.08.06.434 	on the bureau is the sealed letter addressed to miss elizabeth bennet.
+1047_Defiance_00.00.27.071-00.00.32.511 	over the sound of adolph hitler addressing a rally.
+1047_Defiance_00.32.23.943-00.32.25.053 	the tall stranger addresses him.
+1047_Defiance_01.00.17.301-01.00.23.250 	tuvia addresses two women in the room.
+1047_Defiance_01.02.05.793-01.02.07.525 	shimon addresses an elderly man.
+1047_Defiance_01.12.09.268-01.12.10.474 	lazar addresses those present.
+1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.53.33.269-00.53.40.675 	yaxley a death eater with a fair pigtail addresses ron.
+1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.59.00.687-00.59.04.534 	from a high bench umbridge addresses a woman sitting below.
+1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.46.47.025-01.46.51.268 	she addresses harry.
+1051_Harry_Potter_and_the_goblet_of_fire_00.15.09.677-00.15.14.791 	harry addresses an envelope to his godfather, sirius black.
+1051_Harry_Potter_and_the_goblet_of_fire_00.21.33.364-00.21.37.392 	mr. crouch nervously addresses the students.
+1051_Harry_Potter_and_the_goblet_of_fire_01.51.01.121-01.51.09.745 	standing in front of a tall hedge, dumbledore addresses the crowd.
+1052_Harry_Potter_and_the_order_of_phoenix_00.24.18.000-00.24.24.345 	dumbledore sighs and addresses the members of the jury.
+1052_Harry_Potter_and_the_order_of_phoenix_00.53.55.324-00.54.03.416 	hermione addresses around 20 students.
 1053_Harry_Potter_and_the_philosophers_stone_00.09.41.994-00.09.46.946 	uncle vernon tears up three identical letters addressed to harry.
 1056_Rambo_00.11.27.120-00.12.00.800 	the commander addresses the village.
 1056_Rambo_00.14.54.344-00.15.10.454 	in the morning light, on rambo's boat as it motors along the river, michael addresses his party.

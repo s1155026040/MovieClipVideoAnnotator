@@ -1,4 +1,2 @@
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS431 	01:18:21,00 --> 01:18:25,50 	stark points to several modified shields.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS523 	01:35:03,00 --> 01:35:12,50 	someone, wearing the war machine suit, the someone ii heavily modified with weapons, rises from the floor of the circular main stage.
-SOUL_SURFER.srt 	SOUL_SURFER_DVS184 	00:55:58,00 --> 00:56:03,50 	gaze fixed on the modified doll as her mother looks down at her.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS211 	00:26:47,00 --> 00:26:51,50 	she modifies her search.

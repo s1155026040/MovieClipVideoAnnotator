@@ -1,8 +1,2 @@
 0005_Chinatown_00.45.50.382-00.45.50.826 	she's wearing dove gray gabardine, subdued, tailored.
-0017_Pianist_00.31.25.722-00.31.31.751 	the cafe is full of customers but the atmosphere is much more subdued than previously, the mood is sombre.
-0030_The_Hustler_01.29.27.104-01.29.29.878 	it is a quiet, elegant restaurant, one with soft piano music and subdued lighting.
-0030_The_Hustler_01.58.40.019-01.58.44.257 	sarah's voice is subdued, controlled.
-1006_Slumdog_Millionaire_01.05.00.870-01.05.08.160 	two other uniformed policemen rush into the room and eventually subdue a raging jamal.
-1030_Public_Enemies_00.34.01.720-00.34.05.374 	dillinger allows a subdued smile, then shifts boyishly in his seat.
-1056_Rambo_00.21.59.057-00.22.02.606 	they appear very subdued.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.01.23.891-00.01.28.618 	subdued students in regimented ranks, stride across the courtyard.

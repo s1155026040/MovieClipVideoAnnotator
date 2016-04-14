@@ -2,39 +2,17 @@
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS42 	00:04:41,00 --> 00:04:46,50 	as someone finishes the tire run
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS832 	01:22:47,00 --> 01:22:52,50 	the thug collapses and someone finishes him off.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS144 	00:17:44,00 --> 00:17:58,50 	he finishes with a mighty upward swing.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS393 	00:55:20,00 --> 00:55:46,50 	as he finishes the vampire off, someone frees himself and fights off his captor.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS605 	01:23:59,00 --> 01:24:15,50 	he goes to finish his enemy but finds only shards of wood on the floor.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS680 	01:37:15,00 --> 01:37:25,50 	as the carriage fades away, the finished washington monument appears in the distance.
-BLINDDATING.srt 	BLINDDATING_DVS15 	00:04:45,00 --> 00:04:50,50 	now outside, they watch him as he goes, finishing an apple.
 BURLESQUE.srt 	BURLESQUE_DVS293 	00:40:23,00 --> 00:40:29,50 	someone skillfully finishes painting her lips.
 BURLESQUE.srt 	BURLESQUE_DVS663 	01:42:54,00 --> 01:43:00,50 	onstage, the dancers finish their number to the delight of a packed house.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS525 	00:51:11,00 --> 00:51:18,50 	focusing ardently, someone puts the finishing touches on a pencil drawn picture.
-CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS241 	00:58:43,00 --> 00:58:50,50 	in the locker room, someone uses a spoon to finish the hash.
 DISTRICT_9.srt 	DISTRICT_9_DVS871 	01:44:45,00 --> 01:44:52,50 	glances up at us, then finishes the flower.
-FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS147 	00:38:19,00 --> 00:38:24,50 	he finishes and returns to the bedroom.
 JACK_AND_JILL.srt 	JACK_AND_JILL_DVS328 	01:03:34,00 --> 01:03:38,50 	someone finishes up a text.
 JACK_AND_JILL.srt 	JACK_AND_JILL_DVS449 	01:22:59,00 --> 01:23:07,50 	someone and his kids finished shoveling the yard.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS178 	00:33:20,00 --> 00:33:25,50 	now in class, she finishes chopping first.
-JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS325 	01:43:33,00 --> 01:43:42,50 	now in an outdoor beachfront bar, someone finishes off a tropical cocktail, as the bartender brings her another.
 KARATE_KID.srt 	KARATE_KID_DVS1623 	02:12:00,00 --> 02:12:08,50 	master someone shouts, finish him!
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS858 	01:26:39,00 --> 01:26:44,50 	the tiger finishes grooming his paw and looks up.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS633 	01:59:18,00 --> 01:59:25,50 	he finishes shaving and opens his pocket watch, eyeing someone's photo and the time.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS307 	01:14:28,00 --> 01:14:33,50 	they tap cups and finish their drinks.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS133 	00:23:04,00 --> 00:23:09,50 	someone finishes typing.
-RUBY_SPARKS.srt 	RUBY_SPARKS_DVS524 	01:21:30,00 --> 01:21:35,50 	he finishes a line and slides the carriage.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS778 	00:52:13,00 --> 00:52:19,50 	finishing a page, she sets it down by her lap among several others.
-SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS309 	01:03:28,00 --> 01:03:34,50 	someone finishes taking a shower and towels dry.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS415 	01:03:13,00 --> 01:03:18,50 	someone mans the remote control as her family finishes dinner in their hotel suite.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS493 	00:56:15,00 --> 00:56:21,50 	someone finishes dressing and hobbles painfully to her bag.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS629 	01:08:55,00 --> 01:09:03,50 	back in someone's apartment, someone finishes a drink of water and sets the cup in the bathroom.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS645 	01:10:01,00 --> 01:10:07,50 	his daughter finishes her silent prayer and gives him a look.
 THE_VOW.srt 	THE_VOW_DVS563 	01:16:53,00 --> 01:16:59,50 	someone approaches, finishing off his own drink.
-THE_VOW.srt 	THE_VOW_DVS599 	01:23:31,00 --> 01:23:36,50 	someone finishes packing a box.
-THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS279 	01:15:47,00 --> 01:15:53,50 	finishing her sip of wine, someone closes her eyes ecstatically.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS597 	01:19:18,00 --> 01:19:24,50 	she cringes as she finishes the entire glass.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS702 	01:42:05,00 --> 01:42:11,50 	someone finishes the lock, slips out, and bolts the gate.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS329 	00:24:54,00 --> 00:24:59,50 	he finishes his beer.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS337 	00:25:30,00 --> 00:25:36,50 	someone laughs and lifts her arms as he finishes.
-YOUNG_ADULT.srt 	YOUNG_ADULT_DVS279 	00:55:03,00 --> 00:55:09,50 	smiling at one another, they touch glasses then finished their drinks.
-ZOMBIELAND.srt 	ZOMBIELAND_DVS82 	00:06:45,00 --> 00:06:54,50 	the narrator turns on his wipers to keep him at bay, then finishes reloading and shoots him in the shoulder.
 ZOOKEEPER.srt 	ZOOKEEPER_DVS168 	00:36:44,00 --> 00:36:56,50 	someone finishes urinating on a potted plant adorned with mini lights.

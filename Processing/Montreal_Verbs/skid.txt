@@ -1,13 +1,4 @@
 30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS132 	00:36:49,00 --> 00:36:54,50 	the mustang abruptly skids to a stop.
-BRUNO.srt 	BRUNO_DVS153 	00:38:06,00 --> 00:38:13,50 	turning abruptly into the street, he cuts off a speeding car, which skids.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS558 	01:19:36,00 --> 01:19:58,50 	it skids to a half before and he climbs on.
-HUGO.srt 	HUGO_DVS61 	00:08:02,00 --> 00:08:15,50 	a woman clutches a small little dog to her chest as the doberman skids past a large tiered cake, races past the band, then runs out of the other side of the cafe.
-IN_TIME.srt 	IN_TIME_DVS892 	01:34:34,00 --> 01:34:43,50 	spinning the wheel, he skids around a grassy island dividing the two directions of traffic and speeds after the limo.
-IN_TIME.srt 	IN_TIME_DVS907 	01:36:00,00 --> 01:36:06,50 	both vehicles skid to a stop, billowing smoke.
-MORNING_GLORY.srt 	MORNING_GLORY_DVS342 	01:15:05,00 --> 01:15:12,50 	someone lands, skidding along grass.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS159 	00:24:30,00 --> 00:24:39,50 	as the fire truck behind it skids to a halt its ladder extends out over the van.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1214 	02:08:26,00 --> 02:08:36,50 	as someone skids off her bike, someone's suv grinds on its side into a fuel tank outside the grocery store.
 THE_WATCH.srt 	THE_WATCH_DVS439 	01:20:21,00 --> 01:20:28,50 	the crossover skids sideways to a stop in front of the costco building.
-THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS468 	01:22:42,00 --> 01:22:54,50 	the jeep does a tight skidding 180, someone nearly falls out but someone pulls him back in.
-THOR.srt 	THOR_DVS223 	00:29:55,00 --> 00:30:05,50 	on earth, someone stares at black-haired someone, as their research vehicle strikes a man before skidding to a halt.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS27 	00:02:58,00 --> 00:03:04,50 	she skids across the road past the words, rule number 4, seat belts.

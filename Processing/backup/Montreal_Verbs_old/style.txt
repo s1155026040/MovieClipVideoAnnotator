@@ -1,0 +1,7 @@
+COLOMBIANA.srt 	COLOMBIANA_DVS607 	00:57:15,00 --> 00:57:21,50 	now our view glides over a mansion with a paris styled courtyard at its center.
+KATY_PERRY_PART_OF_ME.srt 	KATY_PERRY_PART_OF_ME_DVS271 	01:03:29,00 --> 01:03:35,50 	indoors a woman styles someone's pink hair.
+NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS400 	01:24:08,00 --> 01:24:19,50 	mr. edelweiss lands atop a quaint vardo styled wagon.
+PROMETHEUS.srt 	PROMETHEUS_DVS167 	00:11:05,00 --> 00:11:12,50 	at a mirror, someone styles his dry hair.
+SPARKLE_2012.srt 	SPARKLE_2012_DVS439 	01:11:51,00 --> 01:12:01,50 	her hair styled in a close-cropped afro.
+THE_VOW.srt 	THE_VOW_DVS441 	01:02:12,00 --> 01:02:17,50 	her styled hair has highlights.
+UGLY_TRUTH.srt 	UGLY_TRUTH_DVS340 	00:39:06,00 --> 00:39:17,50 	her blonde hair is longer and styled with wavy feathering.

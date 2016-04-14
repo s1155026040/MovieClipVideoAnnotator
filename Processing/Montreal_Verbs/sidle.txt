@@ -1,10 +1,4 @@
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS468 	00:45:37,00 --> 00:45:42,50 	someone and someone sidle back to someone.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS563 	01:18:54,00 --> 01:18:59,50 	sidling along the engine's outer railing.
-IN_TIME.srt 	IN_TIME_DVS54 	00:05:55,00 --> 00:06:04,50 	smiling politely, he sidles past and goes to a table where men play cards.
 KARATE_KID.srt 	KARATE_KID_DVS664 	00:56:20,00 --> 00:56:25,50 	someone sidles past.
-MORNING_GLORY.srt 	MORNING_GLORY_DVS196 	00:44:14,00 --> 00:44:20,50 	she sidles along, peering into a private office.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS320 	01:17:28,00 --> 01:17:54,50 	her gaze lingers on someone as she sidles away.
-RUBY_SPARKS.srt 	RUBY_SPARKS_DVS411 	01:04:23,00 --> 01:04:28,50 	he starts to sidle out from under her.
-SANCTUM.srt 	SANCTUM_DVS298 	00:59:45,00 --> 00:59:58,50 	he then sidles to his right and trains his light beam down a smaller tunnel.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS555 	01:39:26,00 --> 01:39:35,50 	someone sidles down an aisle, grabs someone's shoulder, and jabs his gun against the bounty hunter's neck.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS665 	01:14:27,00 --> 01:14:34,50 	behind the bench, the ice wolves' coach scowls, then sidles over to someone.

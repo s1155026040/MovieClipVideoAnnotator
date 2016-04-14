@@ -1,258 +1,252 @@
-0001_American_Beauty_00.32.02.268-00.32.05.247 	Lester shakes his head.
-0001_American_Beauty_01.48.24.552-01.48.28.453 	He smiles and shakes his head.
-0002_As_Good_As_It_Gets_00.41.40.122-00.41.42.220 	Melvin shakes his head -- as if things weren't bad enough he must go through a careful exercise noting every new element before he's at all comfortable.
-0002_As_Good_As_It_Gets_01.55.12.551-01.55.15.116 	She shakes her head and walks off.
-0003_CASABLANCA_00.05.37.631-00.05.38.897 	They shake hands.
-0003_CASABLANCA_00.30.17.905-00.30.18.660 	Berger shakes his head.
-0003_CASABLANCA_00.55.21.352-00.55.23.187 	They shake hands.
-0003_CASABLANCA_01.05.09.789-01.05.12.339 	Annina shakes her head.
-0003_CASABLANCA_01.07.54.248-01.07.55.780 	He shakes his head as Rick leaves.
-0003_CASABLANCA_01.31.59.595-01.32.01.038 	They shake hands to seal the deal.
-0004_Charade_00.17.16.956-00.17.18.028 	He takes a small bottle from his pocket, shakes a pill from it and swallows it dry.
-0004_Charade_00.41.23.002-00.41.27.496 	She shakes her head.
-0004_Charade_01.15.23.203-01.15.24.027 	She shakes her head.
-0004_Charade_01.21.56.255-01.21.57.498 	GIDEON shakes his head and leans back, whistling again.
-0004_Charade_01.25.58.199-01.26.03.162 	He shakes some powder into his hand and tastes it.
-0005_Chinatown_00.24.02.296-00.24.05.115 	Mulvihill moves toward Gittes, shaking with fury.
-0005_Chinatown_01.06.11.154-01.06.12.873 	Cross shakes his head.
-0005_Chinatown_01.15.40.035-01.15.41.254 	Evelyn shakes her head.
+0001_American_Beauty_00.32.02.268-00.32.05.247 	lester shakes his head.
+0001_American_Beauty_01.38.36.891-01.38.43.853 	angela sits on the stairs, shaken, crying.
+0001_American_Beauty_01.48.24.552-01.48.28.453 	he smiles and shakes his head.
+0002_As_Good_As_It_Gets_00.41.40.122-00.41.42.220 	melvin shakes his head -- as if things weren't bad enough he must go through a careful exercise noting every new element before he's at all comfortable.
+0002_As_Good_As_It_Gets_01.55.12.551-01.55.15.116 	she shakes her head and walks off.
+0003_CASABLANCA_00.05.37.631-00.05.38.897 	they shake hands.
+0003_CASABLANCA_00.30.17.905-00.30.18.660 	berger shakes his head.
+0003_CASABLANCA_00.55.21.352-00.55.23.187 	they shake hands.
+0003_CASABLANCA_01.05.09.789-01.05.12.339 	annina shakes her head.
+0003_CASABLANCA_01.07.54.248-01.07.55.780 	he shakes his head as rick leaves.
+0003_CASABLANCA_01.31.59.595-01.32.01.038 	they shake hands to seal the deal.
+0004_Charade_00.17.16.956-00.17.18.028 	he takes a small bottle from his pocket, shakes a pill from it and swallows it dry.
+0004_Charade_00.32.15.424-00.32.15.900 	she notices her hand is shaking.
+0004_Charade_00.41.23.002-00.41.27.496 	she shakes her head.
+0004_Charade_01.15.23.203-01.15.24.027 	she shakes her head.
+0004_Charade_01.21.56.255-01.21.57.498 	gideon shakes his head and leans back, whistling again.
+0004_Charade_01.25.58.199-01.26.03.162 	he shakes some powder into his hand and tastes it.
+0005_Chinatown_00.24.02.296-00.24.05.115 	mulvihill moves toward gittes, shaking with fury.
+0005_Chinatown_01.06.11.154-01.06.12.873 	cross shakes his head.
+0005_Chinatown_01.15.40.035-01.15.41.254 	evelyn shakes her head.
 0005_Chinatown_01.49.27.211-01.49.29.803 	gets up, shakes her.
-0005_Chinatown_01.56.23.122-01.56.25.619 	Escobar shakes his head.
-0006_Clerks_00.01.13.941-00.01.17.600 	THE DOG yawns and shakes its head.
-0006_Clerks_00.26.14.299-00.26.16.615 	He looks at the paper ruefully, shaking his head.
-0006_Clerks_00.27.12.763-00.27.16.287 	OLAF laughs and shakes his head.
-0006_Clerks_00.33.26.540-00.33.27.551 	The INDECISIVE CUSTOMER shakes her head in disgust and throws the movies back onto the wall.
-0006_Clerks_00.33.35.040-00.33.39.251 	RANDAL closes the door and stands there, momentarily, totally appalled by her exiting remark, then shakes his head.
-0006_Clerks_00.42.12.798-00.42.14.792 	DANTE shakes his head in frustration and picks up the phone again.
-0006_Clerks_00.53.32.770-00.53.36.308 	The pursuing crowd stands in the middle of the street, shaking their fists, throwing things.
-0006_Clerks_00.54.30.016-00.54.31.683 	DANTE walks away, shaking his head.
-0007_DIE_NACHT_DES_JAEGERS_00.37.57.094-00.38.02.279 	Still smiling, shaking her head as in disbelief, WILLA makes for house as PEARL screams.
-0007_DIE_NACHT_DES_JAEGERS_00.49.50.487-00.49.53.907 	PEARL shakes her head for no.
-0008_Fargo_00.20.23.778-00.20.25.715 	Stan Grossman shakes his hand.
-0008_Fargo_01.31.16.571-01.31.22.361 	She stares forward, shakes her head.
-0009_Forrest_Gump_00.03.32.445-00.03.34.862 	The nurse shakes her head, a bit apprehensive about this strange man next to her.
-0009_Forrest_Gump_00.13.17.051-00.13.18.614 	She shakes her head.
-0009_Forrest_Gump_00.14.37.334-00.14.40.622 	Forrest reaches over and shakes her hand.
-0009_Forrest_Gump_00.30.17.946-00.30.20.865 	BLACK AND WHITE FOOTAGE - President Kennedy shakes hands with the All-American football players.
-0009_Forrest_Gump_00.30.20.865-00.30.24.560 	Another player steps up to the President and shakes the President's hand.
-0009_Forrest_Gump_00.30.30.871-00.30.33.057 	The President shakes his hand.
-0009_Forrest_Gump_00.31.07.800-00.31.09.265 	Forrest sits on the bench and shakes his head.
-0009_Forrest_Gump_00.31.20.706-00.31.23.314 	The dean shakes Forrest's hand vigorously.
-0009_Forrest_Gump_00.32.42.638-00.32.46.813 	Bubba and Forrest shake hands.
-0009_Forrest_Gump_00.58.49.978-00.58.51.227 	Forrest shakes his head.
-0009_Forrest_Gump_01.03.02.563-01.03.12.526 	Color footage revealing President Johnson as he places the award around Forrest's neck and shakes hands.
-0009_Forrest_Gump_01.14.31.593-01.14.38.168 	Forrest makes his way onto the stage, shakes hands with Dick Cavett.
-0009_Forrest_Gump_01.35.23.985-01.35.30.201 	Lt. Dan on the rigging, shouts and shakes his fist as he is pelted by wind and rain.
-0009_Forrest_Gump_02.06.25.355-02.06.26.883 	Susan shakes Forrest's hand.
-0010_Frau_Ohne_Gewissen_01.10.32.881-01.10.33.645 	Keyes shakes his head suddenly.
-0011_Gandhi_00.10.44.017-00.10.46.812 	Its tone is chilling, and Gandhi's firmness is shaken a little.
-0011_Gandhi_00.15.33.972-00.15.37.908 	The sergeant draws a breath, grasping the club, but he bites his lip as he sees Gandhi lift his head feebly, his shaking hands, stained with his own blood, groping for another card.
-0011_Gandhi_00.18.19.981-00.18.21.819 	Gandhi restrains him and shakes his head.
-0011_Gandhi_00.22.41.460-00.22.44.145 	Walker looks around, grinning, shaking his head.
-0011_Gandhi_00.53.51.743-00.53.53.855 	Nehru shakes his head wistfully.
-0011_Gandhi_01.05.01.397-01.05.04.379 	It has the cold assurance of a lawyer, and the Captain is a little shaken by it.
-0011_Gandhi_01.09.01.456-01.09.04.988 	He looks down at Gandhi and shakes his head.
-0011_Gandhi_01.43.26.205-01.43.29.832 	Gandhi looks up at Azad, Azad shakes his head solemnly.
-0011_Gandhi_01.43.34.065-01.43.35.369 	Azad shakes his head.
-0011_Gandhi_02.08.53.731-02.08.55.511 	He shakes his head.
-0011_Gandhi_02.24.55.853-02.24.59.231 	Gandhi shakes his head with a weary grin.
-0011_Gandhi_02.48.22.749-02.48.24.070 	His hand shakes a little as he holds it out to him.
-0011_Gandhi_02.49.23.944-02.49.30.910 	Gandhi shakes his head.
-0011_Gandhi_02.55.05.771-02.55.06.315 	But Gandhi holds up a shaking hand, stopping them.
-0011_Gandhi_03.00.02.583-03.00.04.418 	But Bourke-White has looked from Patel to Gandhi, clearly shaken by the implication in Patel's words.
-0012_Get_Shorty_00.16.50.539-00.16.52.840 	Chili shakes his head, keeps staring at Harry, but with a different expression now, more thoughtful, curious.
-0012_Get_Shorty_00.29.57.476-00.30.00.248 	Chili shakes his head, he can't believe he's hearing this.
-0012_Get_Shorty_00.32.40.339-00.32.42.207 	Chili shakes his head as Harry sits down in one of the chairs, fumbles for his cigarettes.
-0012_Get_Shorty_00.40.16.280-00.40.20.059 	Chili shakes his head, starts back for the elevator.
-0012_Get_Shorty_00.54.09.154-00.54.10.492 	Karen shakes her head.
-0012_Get_Shorty_00.55.29.633-00.55.33.026 	Karen looks at Martin, shakes her head.
-0012_Get_Shorty_00.59.17.868-00.59.20.868 	Harry shakes his head, looks around the restaurant.
-0012_Get_Shorty_01.00.53.846-01.00.56.346 	Chili looks at Karen, smiles, shakes his head.
-0012_Get_Shorty_01.17.27.432-01.17.31.143 	Bones shakes his head, stands up.
-0012_Get_Shorty_01.35.34.577-01.35.37.224 	She looks off, shakes her head.
-0013_Halloween_00.30.59.068-00.31.00.792 	Loomis shakes his head and looks across the graveyard.
-0013_Halloween_00.56.20.484-00.56.25.013 	Laurie shakes her head and walks back into the kitchen.
-0014_Ist_das_Leben_nicht_schoen_00.11.10.103-00.11.23.098 	He tears open the package, shakes the powder out of one of the capsules, cautiously tastes it, then abruptly throws the whole mess to the table and turns to look at George again.
-0014_Ist_das_Leben_nicht_schoen_00.34.35.283-00.34.37.048 	Dr. Campbell and George shake hands.
-0014_Ist_das_Leben_nicht_schoen_00.49.41.294-00.49.44.446 	He drops the phone with a crash, grabs Mary by the shoulders and shakes her.
-0014_Ist_das_Leben_nicht_schoen_01.05.19.306-01.05.21.526 	The Martinis cross themselves, shaking hands all around.
-0014_Ist_das_Leben_nicht_schoen_01.11.55.758-01.11.59.199 	As they shake hands, George feels a physical revulsion.
-0014_Ist_das_Leben_nicht_schoen_01.18.25.359-01.18.29.125 	They shake hands.
-0014_Ist_das_Leben_nicht_schoen_01.23.47.549-01.23.49.768 	George grabs him by the lapels and shakes him.
-0014_Ist_das_Leben_nicht_schoen_01.24.13.802-01.24.18.069 	George jerks him to his feet and shakes him.
-0014_Ist_das_Leben_nicht_schoen_01.28.10.966-01.28.13.326 	She shakes her head and presses the flower to her.
-0014_Ist_das_Leben_nicht_schoen_01.29.33.001-01.29.34.573 	He shakes it off.
-0014_Ist_das_Leben_nicht_schoen_01.36.36.002-01.36.38.170 	George shakes his head.
-0014_Ist_das_Leben_nicht_schoen_01.37.57.094-01.37.58.426 	George stands unsteadily near the car, shaken by the accident.
-0014_Ist_das_Leben_nicht_schoen_01.40.09.570-01.40.11.731 	He shakes the book.
-0014_Ist_das_Leben_nicht_schoen_01.59.26.366-01.59.43.501 	George grabs Clarence by the coat collar and shakes him.
-0014_Ist_das_Leben_nicht_schoen_02.03.43.534-02.03.47.309 	He grabs his hand and shakes it.
-0016_O_Brother_Where_Art_Thou_00.05.37.041-00.05.41.435 	They shake their heads clear, then rise to their feet in the muck and watch the train recede.
-0016_O_Brother_Where_Art_Thou_00.16.07.966-00.16.10.493 	He grimly shakes his head.
-0016_O_Brother_Where_Art_Thou_00.20.31.538-00.20.34.935 	Everett drives, shaking his head with a forebearing smile.
-0016_O_Brother_Where_Art_Thou_00.21.00.550-00.21.04.834 	He shakes his head and laughs.
-0016_O_Brother_Where_Art_Thou_00.34.46.500-00.34.48.900 	Jowls shaking in a full run, George Nelson bursts through the door of the bank, followed by the three men.
-0016_O_Brother_Where_Art_Thou_00.48.44.107-00.48.47.215 	Everett squints and shakes his head.
-0016_O_Brother_Where_Art_Thou_00.56.45.401-00.56.48.613 	Delmar doggedly shakes his head.
-0016_O_Brother_Where_Art_Thou_00.57.34.473-00.57.36.016 	Everett shakes his head as if to clear it.
-0016_O_Brother_Where_Art_Thou_00.59.11.185-00.59.13.256 	The pencil-neck is identified on posters as 'Homer Stokes, Friend of the Little Man', and, in life as in the pictures, he shakes a broom over his head.
-0016_O_Brother_Where_Art_Thou_01.07.45.142-01.07.49.377 	Pete shakes his head - didn't catch it - and repeats, also overarticulating.
-0016_O_Brother_Where_Art_Thou_01.10.49.077-01.10.51.634 	Pete is shaking his head, miserable.
-0016_O_Brother_Where_Art_Thou_01.23.44.954-01.23.46.562 	She shakes her head vigorously and looks down at her plate as Everett continues pleading to her back.
-0016_O_Brother_Where_Art_Thou_01.33.46.160-01.33.52.470 	Delmar, smiling, shakes his head as he watches him go.
-0016_O_Brother_Where_Art_Thou_01.39.09.068-01.39.13.904 	The coffin floats downstream for a beat and then Everett pops out of the water next to it, gasping for air, shaking his head clear of water, and moving his shoulders to finish freeing himself from the rope round his wrists.
-0016_O_Brother_Where_Art_Thou_01.40.41.409-01.40.42.827 	He shakes off the vision and clears his throat.
-0016_O_Brother_Where_Art_Thou_01.41.41.428-01.41.44.306 	Everett shakes his head.
-0017_Pianist_00.43.52.004-00.43.53.658 	Szpilman shakes his head sadly.
-0017_Pianist_01.14.43.421-01.14.56.327 	GEBCZNYSKI shakes hands with Szpilman, ushers him in and then pulls down the shutter.
-0017_Pianist_01.17.58.584-01.18.06.284 	He hands over a scrap of paper, shakes Szpilman's hand and goes quickly.
-0017_Pianist_01.31.48.544-01.31.53.298 	He shakes hands with Szpilman.
-0017_Pianist_01.37.32.235-01.37.34.360 	Szalas and Szpilman shake hands.
-0019_Pulp_Fiction_00.26.04.583-00.26.22.236 	Butch shakes hands with a huge figure with his back to us.
-0019_Pulp_Fiction_00.46.39.712-00.46.53.367 	As this time, the SOUND of a subway car fills the diner, making everything SHAKE and RATTLE.
-0019_Pulp_Fiction_01.00.44.723-01.00.50.083 	The other three, now scooted halfway across the room, shaken to their bones, look to see if she's alright.
-0019_Pulp_Fiction_01.02.06.798-01.02.14.723 	The two walk toward each other, holding out their hands to shake and shake they do.
-0019_Pulp_Fiction_01.35.08.182-01.35.11.806 	TWO PEDESTRIANS help the shaken Butch out of the wreckage.
-0020_Raising_Arizona_00.33.02.117-00.33.03.497 	The Biker is shaking his head; he doesn't think they went that way.
-0020_Raising_Arizona_00.52.42.111-00.52.43.042 	Hi is shaking his head.
-0020_Raising_Arizona_00.54.25.011-00.54.32.560 	Hi is still shaking his head.
-0020_Raising_Arizona_01.00.14.544-01.00.16.552 	SMALLS is pleasantly shaking his head.
-0020_Raising_Arizona_01.18.40.176-01.18.40.714 	Hi flat on his back, woozily shaking his head.
-0020_Raising_Arizona_01.18.46.670-01.18.52.916 	Dragged several yards before the boot shakes him off, leaving him on his stomach in the middle of the road.
-0021_Rear_Window_00.09.03.693-00.09.06.330 	She takes the thermometer out of its case, shakes it down.
-0021_Rear_Window_00.21.28.873-00.21.32.321 	He holds this attitude for just a moment, then seems to shake off his concern to lift his head and turn his attention to what might be happening in his neighborhood beyond his window.
-0021_Rear_Window_01.20.33.551-01.20.40.216 	She goes back dumbly to the spilled liquor, makes a futile effort to clean it up, and the collapses onto the rug sobbing hard enough to shake her whole body.
-0023_THE_BUTTERFLY_EFFECT_00.04.39.842-00.04.42.329 	Andrea is visibly shaken now.
-0023_THE_BUTTERFLY_EFFECT_00.13.03.899-00.13.06.286 	Kayleigh shakes Lenny's inhaler and hands it to him when he gets back.
-0023_THE_BUTTERFLY_EFFECT_00.17.52.209-00.17.57.907 	Evan moans and shakes on the couch.
-0023_THE_BUTTERFLY_EFFECT_00.21.08.326-00.21.09.381 	Evan looks guilty, weakly shaking his head, it's not what you're thinking.
-0023_THE_BUTTERFLY_EFFECT_00.40.08.853-00.40.10.261 	Andrea shakes her head.
-0023_THE_BUTTERFLY_EFFECT_01.40.14.893-01.40.17.822 	Kayleigh shakes her head sadly, then suddenly looks up.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.58.06.814-00.58.07.835 	Strider stares at Pippin blankly, then turns away, shaking his head.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.30.39.334-01.30.51.264 	motion.the angry faces, the shaking fists, the accusatory fingers, his eyes move across to the ring.the hum grows louder in his head.
+0005_Chinatown_01.56.23.122-01.56.25.619 	escobar shakes his head.
+0006_Clerks_00.01.13.941-00.01.17.600 	the dog yawns and shakes its head.
+0006_Clerks_00.26.14.299-00.26.16.615 	he looks at the paper ruefully, shaking his head.
+0006_Clerks_00.27.12.763-00.27.16.287 	olaf laughs and shakes his head.
+0006_Clerks_00.33.26.540-00.33.27.551 	the indecisive customer shakes her head in disgust and throws the movies back onto the wall.
+0006_Clerks_00.33.35.040-00.33.39.251 	randal closes the door and stands there, momentarily, totally appalled by her exiting remark, then shakes his head.
+0006_Clerks_00.42.12.798-00.42.14.792 	dante shakes his head in frustration and picks up the phone again.
+0006_Clerks_00.53.32.770-00.53.36.308 	the pursuing crowd stands in the middle of the street, shaking their fists, throwing things.
+0006_Clerks_00.54.30.016-00.54.31.683 	dante walks away, shaking his head.
+0007_DIE_NACHT_DES_JAEGERS_00.37.57.094-00.38.02.279 	still smiling, shaking her head as in disbelief, willa makes for house as pearl screams.
+0007_DIE_NACHT_DES_JAEGERS_00.49.50.487-00.49.53.907 	pearl shakes her head for no.
+0008_Fargo_00.20.23.778-00.20.25.715 	stan grossman shakes his hand.
+0008_Fargo_01.31.16.571-01.31.22.361 	she stares forward, shakes her head.
+0009_Forrest_Gump_00.03.32.445-00.03.34.862 	the nurse shakes her head, a bit apprehensive about this strange man next to her.
+0009_Forrest_Gump_00.13.17.051-00.13.18.614 	she shakes her head.
+0009_Forrest_Gump_00.14.37.334-00.14.40.622 	forrest reaches over and shakes her hand.
+0009_Forrest_Gump_00.30.17.946-00.30.20.865 	black and white footage - president kennedy shakes hands with the all-american football players.
+0009_Forrest_Gump_00.30.20.865-00.30.24.560 	another player steps up to the president and shakes the president's hand.
+0009_Forrest_Gump_00.30.30.871-00.30.33.057 	the president shakes his hand.
+0009_Forrest_Gump_00.31.07.800-00.31.09.265 	forrest sits on the bench and shakes his head.
+0009_Forrest_Gump_00.58.49.978-00.58.51.227 	forrest shakes his head.
+0009_Forrest_Gump_01.03.02.563-01.03.12.526 	color footage revealing president johnson as he places the award around forrest's neck and shakes hands.
+0009_Forrest_Gump_01.14.31.593-01.14.38.168 	forrest makes his way onto the stage, shakes hands with dick cavett.
+0009_Forrest_Gump_01.35.23.985-01.35.30.201 	lt. dan on the rigging, shouts and shakes his fist as he is pelted by wind and rain.
+0010_Frau_Ohne_Gewissen_01.10.32.881-01.10.33.645 	keyes shakes his head suddenly.
+0011_Gandhi_00.10.44.017-00.10.46.812 	its tone is chilling, and gandhi's firmness is shaken a little.
+0011_Gandhi_00.15.33.972-00.15.37.908 	the sergeant draws a breath, grasping the club, but he bites his lip as he sees gandhi lift his head feebly, his shaking hands, stained with his own blood, groping for another card.
+0011_Gandhi_00.18.19.981-00.18.21.819 	gandhi restrains him and shakes his head.
+0011_Gandhi_00.22.41.460-00.22.44.145 	walker looks around, grinning, shaking his head.
+0011_Gandhi_00.53.51.743-00.53.53.855 	nehru shakes his head wistfully.
+0011_Gandhi_01.05.01.397-01.05.04.379 	it has the cold assurance of a lawyer, and the captain is a little shaken by it.
+0011_Gandhi_01.09.01.456-01.09.04.988 	he looks down at gandhi and shakes his head.
+0011_Gandhi_01.43.26.205-01.43.29.832 	gandhi looks up at azad, azad shakes his head solemnly.
+0011_Gandhi_01.43.34.065-01.43.35.369 	azad shakes his head.
+0011_Gandhi_02.08.53.731-02.08.55.511 	he shakes his head.
+0011_Gandhi_02.24.55.853-02.24.59.231 	gandhi shakes his head with a weary grin.
+0011_Gandhi_02.48.22.749-02.48.24.070 	his hand shakes a little as he holds it out to him.
+0011_Gandhi_02.49.23.944-02.49.30.910 	gandhi shakes his head.
+0011_Gandhi_02.57.41.744-02.57.47.413 	gandhi turns to mirabehn, his face shaking, peering into her eyes.
+0011_Gandhi_03.00.02.583-03.00.04.418 	but bourke-white has looked from patel to gandhi, clearly shaken by the implication in patel's words.
+0012_Get_Shorty_00.16.50.539-00.16.52.840 	chili shakes his head, keeps staring at harry, but with a different expression now, more thoughtful, curious.
+0012_Get_Shorty_00.29.57.476-00.30.00.248 	chili shakes his head, he can't believe he's hearing this.
+0012_Get_Shorty_00.32.40.339-00.32.42.207 	chili shakes his head as harry sits down in one of the chairs, fumbles for his cigarettes.
+0012_Get_Shorty_00.40.16.280-00.40.20.059 	chili shakes his head, starts back for the elevator.
+0012_Get_Shorty_00.54.09.154-00.54.10.492 	karen shakes her head.
+0012_Get_Shorty_00.55.29.633-00.55.33.026 	karen looks at martin, shakes her head.
+0012_Get_Shorty_00.59.17.868-00.59.20.868 	harry shakes his head, looks around the restaurant.
+0012_Get_Shorty_01.00.53.846-01.00.56.346 	chili looks at karen, smiles, shakes his head.
+0012_Get_Shorty_01.17.27.432-01.17.31.143 	bones shakes his head, stands up.
+0012_Get_Shorty_01.35.34.577-01.35.37.224 	she looks off, shakes her head.
+0013_Halloween_00.30.59.068-00.31.00.792 	loomis shakes his head and looks across the graveyard.
+0013_Halloween_00.56.20.484-00.56.25.013 	laurie shakes her head and walks back into the kitchen.
+0014_Ist_das_Leben_nicht_schoen_00.11.10.103-00.11.23.098 	he tears open the package, shakes the powder out of one of the capsules, cautiously tastes it, then abruptly throws the whole mess to the table and turns to look at george again.
+0014_Ist_das_Leben_nicht_schoen_00.34.00.637-00.34.01.128 	george, visibly shaken, is busy with his bag, his papers.
+0014_Ist_das_Leben_nicht_schoen_00.49.41.294-00.49.44.446 	he drops the phone with a crash, grabs mary by the shoulders and shakes her.
+0014_Ist_das_Leben_nicht_schoen_01.05.19.306-01.05.21.526 	the martinis cross themselves, shaking hands all around.
+0014_Ist_das_Leben_nicht_schoen_01.11.55.758-01.11.59.199 	as they shake hands, george feels a physical revulsion.
+0014_Ist_das_Leben_nicht_schoen_01.18.25.359-01.18.29.125 	they shake hands.
+0014_Ist_das_Leben_nicht_schoen_01.23.47.549-01.23.49.768 	george grabs him by the lapels and shakes him.
+0014_Ist_das_Leben_nicht_schoen_01.24.13.802-01.24.18.069 	george jerks him to his feet and shakes him.
+0014_Ist_das_Leben_nicht_schoen_01.28.10.966-01.28.13.326 	she shakes her head and presses the flower to her.
+0014_Ist_das_Leben_nicht_schoen_01.29.33.001-01.29.34.573 	he shakes it off.
+0014_Ist_das_Leben_nicht_schoen_01.36.36.002-01.36.38.170 	george shakes his head.
+0014_Ist_das_Leben_nicht_schoen_01.37.57.094-01.37.58.426 	george stands unsteadily near the car, shaken by the accident.
+0014_Ist_das_Leben_nicht_schoen_01.40.09.570-01.40.11.731 	he shakes the book.
+0014_Ist_das_Leben_nicht_schoen_01.59.26.366-01.59.43.501 	george grabs clarence by the coat collar and shakes him.
+0014_Ist_das_Leben_nicht_schoen_02.03.43.534-02.03.47.309 	he grabs his hand and shakes it.
+0016_O_Brother_Where_Art_Thou_00.05.37.041-00.05.41.435 	they shake their heads clear, then rise to their feet in the muck and watch the train recede.
+0016_O_Brother_Where_Art_Thou_00.16.07.966-00.16.10.493 	he grimly shakes his head.
+0016_O_Brother_Where_Art_Thou_00.20.31.538-00.20.34.935 	everett drives, shaking his head with a forebearing smile.
+0016_O_Brother_Where_Art_Thou_00.21.00.550-00.21.04.834 	he shakes his head and laughs.
+0016_O_Brother_Where_Art_Thou_00.34.46.500-00.34.48.900 	jowls shaking in a full run, george nelson bursts through the door of the bank, followed by the three men.
+0016_O_Brother_Where_Art_Thou_00.48.44.107-00.48.47.215 	everett squints and shakes his head.
+0016_O_Brother_Where_Art_Thou_00.56.45.401-00.56.48.613 	delmar doggedly shakes his head.
+0016_O_Brother_Where_Art_Thou_00.57.34.473-00.57.36.016 	everett shakes his head as if to clear it.
+0016_O_Brother_Where_Art_Thou_00.59.11.185-00.59.13.256 	the pencil-neck is identified on posters as 'homer stokes, friend of the little man', and, in life as in the pictures, he shakes a broom over his head.
+0016_O_Brother_Where_Art_Thou_01.07.45.142-01.07.49.377 	pete shakes his head - didn't catch it - and repeats, also overarticulating.
+0016_O_Brother_Where_Art_Thou_01.10.49.077-01.10.51.634 	pete is shaking his head, miserable.
+0016_O_Brother_Where_Art_Thou_01.23.44.954-01.23.46.562 	she shakes her head vigorously and looks down at her plate as everett continues pleading to her back.
+0016_O_Brother_Where_Art_Thou_01.33.46.160-01.33.52.470 	delmar, smiling, shakes his head as he watches him go.
+0016_O_Brother_Where_Art_Thou_01.39.09.068-01.39.13.904 	the coffin floats downstream for a beat and then everett pops out of the water next to it, gasping for air, shaking his head clear of water, and moving his shoulders to finish freeing himself from the rope round his wrists.
+0016_O_Brother_Where_Art_Thou_01.40.41.409-01.40.42.827 	he shakes off the vision and clears his throat.
+0016_O_Brother_Where_Art_Thou_01.41.41.428-01.41.44.306 	everett shakes his head.
+0017_Pianist_00.43.52.004-00.43.53.658 	szpilman shakes his head sadly.
+0017_Pianist_01.17.58.584-01.18.06.284 	he hands over a scrap of paper, shakes szpilman's hand and goes quickly.
+0017_Pianist_01.31.48.544-01.31.53.298 	he shakes hands with szpilman.
+0019_Pulp_Fiction_01.00.44.723-01.00.50.083 	the other three, now scooted halfway across the room, shaken to their bones, look to see if she's alright.
+0019_Pulp_Fiction_01.02.06.798-01.02.14.723 	the two walk toward each other, holding out their hands to shake and shake they do.
+0019_Pulp_Fiction_01.08.07.605-01.08.12.916 	shaken by the bizarre memory, he wipes his sweaty face with his boxing glove.
+0020_Raising_Arizona_00.33.02.117-00.33.03.497 	the biker is shaking his head; he doesn't think they went that way.
+0020_Raising_Arizona_00.52.42.111-00.52.43.042 	hi is shaking his head.
+0020_Raising_Arizona_00.54.25.011-00.54.32.560 	hi is still shaking his head.
+0020_Raising_Arizona_01.00.14.544-01.00.16.552 	smalls is pleasantly shaking his head.
+0020_Raising_Arizona_01.18.40.176-01.18.40.714 	hi flat on his back, woozily shaking his head.
+0020_Raising_Arizona_01.18.46.670-01.18.52.916 	dragged several yards before the boot shakes him off, leaving him on his stomach in the middle of the road.
+0021_Rear_Window_00.09.03.693-00.09.06.330 	she takes the thermometer out of its case, shakes it down.
+0021_Rear_Window_00.21.28.873-00.21.32.321 	he holds this attitude for just a moment, then seems to shake off his concern to lift his head and turn his attention to what might be happening in his neighborhood beyond his window.
+0021_Rear_Window_01.20.33.551-01.20.40.216 	she goes back dumbly to the spilled liquor, makes a futile effort to clean it up, and the collapses onto the rug sobbing hard enough to shake her whole body.
+0023_THE_BUTTERFLY_EFFECT_00.04.39.842-00.04.42.329 	andrea is visibly shaken now.
+0023_THE_BUTTERFLY_EFFECT_00.06.35.086-00.06.40.316 	andrea, still shaken, drops evan off at the house of george miller, 35, a handsome athletic man with an infectious smile.
+0023_THE_BUTTERFLY_EFFECT_00.17.31.098-00.17.37.053 	evan moans and begins shaking.
+0023_THE_BUTTERFLY_EFFECT_00.21.08.326-00.21.09.381 	evan looks guilty, weakly shaking his head, it's not what you're thinking.
+0023_THE_BUTTERFLY_EFFECT_00.40.08.853-00.40.10.261 	andrea shakes her head.
+0023_THE_BUTTERFLY_EFFECT_01.40.14.893-01.40.17.822 	kayleigh shakes her head sadly, then suddenly looks up.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.58.06.814-00.58.07.835 	strider stares at pippin blankly, then turns away, shaking his head.
 0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.36.35.941-02.36.39.061 	slowly shakes his head, a great sadness in his eyes.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.07.14.516-00.07.19.313 	FRODO shakes his HEAD.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.55.40.127-00.55.42.505 	FARAMIR shakes his head.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.03.15.176-01.03.21.976 	SAM gently shakes FRODO'S shoulder.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.20.51.877-01.20.53.360 	ARAGORN shakes his head, smiling his acceptance.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.45.31.422-02.45.46.873 	The FELLOWSHIP turn to watch as the MASSIVE DARK TOWER of SAURON shakes itself to pieces!
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.47.42.472-02.47.48.561 	The ground is shaking so violently that FRODO and SAM can barely stand.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.58.50.484-02.59.10.581 	past ODO PROUDFOOT who shakes his head at the STRANGENESS of their appearance.
-0026_The_Big_Fish_00.21.45.167-00.21.48.777 	As two FARMERS shake their heads, we REVERSE to a show a massive hole punched through the side of a barn.
-0026_The_Big_Fish_00.26.05.865-00.26.08.982 	Then they shake on it.
-0026_The_Big_Fish_00.26.57.976-00.26.58.781 	Many of the townfolk come onto the street to hug Edward or shake his hand.
-0026_The_Big_Fish_00.29.49.551-00.29.58.891 	Edward emerges from the forest, brushing the last cobwebs off and shaking the spiders from his shirt.
-0026_The_Big_Fish_00.33.40.010-00.33.43.096 	Men shake his hand.
-0026_The_Big_Fish_00.39.01.198-00.39.03.075 	The townspeople stop dancing, disbelieving, some shaking their heads.
-0026_The_Big_Fish_00.43.13.142-00.43.15.668 	She shakes her head.
-0026_The_Big_Fish_00.54.55.013-00.54.57.088 	Edward shakes Amos's hand before he can retract the offer.
-0026_The_Big_Fish_01.03.38.727-01.03.45.380 	Walking with her books, Sandra shakes her head, disbelieving.
-0026_The_Big_Fish_01.12.27.487-01.12.29.432 	Ping shakes her sister off.
-0026_The_Big_Fish_01.49.07.982-01.49.11.964 	Edward shakes his head unambiguously.
-0026_The_Big_Fish_01.53.13.878-01.53.16.501 	As he passes, Edward shakes some hands, pats some people on the cheek, and gives others a good poke in the ribs.
-0027_The_Big_Lebowski_00.58.02.175-00.58.04.911 	Walter sadly shakes his head.
-0027_The_Big_Lebowski_01.00.05.272-01.00.06.424 	The Dude, still staring down at his drink, shakes his head.
-0028_The_Crying_Game_00.20.18.247-00.20.24.138 	He shakes his body.
-0028_The_Crying_Game_00.22.23.069-00.22.25.905 	Maguire shakes his head.
-0028_The_Crying_Game_00.22.24.663-00.22.26.328 	Maguire shakes his head.
-0028_The_Crying_Game_00.23.42.285-00.23.45.778 	Fergus shakes his head and says nothing.
-0028_The_Crying_Game_01.31.46.562-01.31.47.557 	He shakes her.
-0029_The_Graduate_00.08.45.966-00.08.47.760 	Mrs. Robinson shakes her head.
-0029_The_Graduate_00.18.20.638-00.18.22.441 	Ben shakes his head.
-0029_The_Graduate_00.27.25.172-00.27.27.229 	She grasps Ben's hand and shakes it.
-0029_The_Graduate_00.27.33.789-00.27.35.572 	Ben finds himself shaking the twelve-year-old boy's hand.
-0029_The_Graduate_00.29.20.614-00.29.21.543 	He shakes his head.
-0029_The_Graduate_00.52.34.109-00.52.36.598 	She shakes her head.
-0029_The_Graduate_01.26.49.070-01.26.53.256 	She shakes her head.
-0030_The_Hustler_00.38.04.631-00.38.08.363 	Eddie looks at him, shaking his head.
-0030_The_Hustler_00.48.13.164-00.48.21.163 	She pushes him away and shakes her head.
-0030_The_Hustler_00.50.14.956-00.50.17.597 	He looks at the money, shakes his head disgustedly, and closes his eyes.
-0030_The_Hustler_01.55.13.111-01.55.20.652 	A shaken Findley flops into a leather swivel chair.
-0031_The_Lost_Weekend_00.13.43.617-00.13.49.531 	He takes a pack of cigarettes from his pocket and shakes one out, lights it.
-0031_The_Lost_Weekend_00.29.56.913-00.30.07.211 	He takes off his hat and shakes the rain from it, then peels off his raincoat.
-0031_The_Lost_Weekend_00.56.50.152-00.56.50.553 	She is shaking her head.
-0031_The_Lost_Weekend_01.01.12.230-01.01.16.903 	With new strength Don gets to his feet, nervous laughter shaking him.
-0031_The_Lost_Weekend_01.05.51.606-01.05.53.424 	Don takes a bar and shakes it.
-0031_The_Lost_Weekend_01.08.35.508-01.08.37.859 	Don is shaking so that he can't pick up the glass.
-0031_The_Lost_Weekend_01.11.22.063-01.11.23.616 	Don takes it with a shaking hand.
-0032_The_Princess_Bride_00.17.18.785-00.17.20.596 	He watches a moment, then paces, shaking his hands loose.
-0032_The_Princess_Bride_00.26.28.530-00.26.36.522 	He gets set to throw, but the Man In Black shakes his head, takes off his sword and scabbard, begins the approach toward the Giant.
-0032_The_Princess_Bride_01.07.10.000-01.07.11.434 	The Albino shakes his head, says nothing.
-0032_The_Princess_Bride_01.08.45.081-01.08.48.022 	Then he looks at Inigo, shakes his head.
-0032_The_Princess_Bride_01.16.15.235-01.16.17.118 	He shakes his head from side to side.
-0032_The_Princess_Bride_01.18.06.636-01.18.07.120 	Inigo and FEZZIK shake hands.
-0032_The_Princess_Bride_01.20.28.290-01.20.30.200 	Buttercup only smiles, shakes her head.
-0033_Amadeus_01.54.08.899-01.54.11.806 	All want to shake his hand.
-0041_The_Sixth_Sense_00.33.56.407-00.33.58.864 	Malcolm shakes his head in disbelief.
-0041_The_Sixth_Sense_00.38.42.320-00.38.44.154 	Malcolm shakes his hand in circles.
-0043_Thelma_and_Luise_00.46.29.646-00.46.30.646 	Louise looks very shaken up.
-0046_Chasing_Amy_00.21.42.210-00.21.45.057 	Alyssa shakes her head, smiling.
-0046_Chasing_Amy_00.22.07.263-00.22.11.144 	Alyssa shakes her head no.
-0046_Chasing_Amy_00.22.19.817-00.22.22.643 	Alyssa shakes her head and relents, heading through the crowd.
-0046_Chasing_Amy_00.25.22.178-00.25.23.475 	Holden shakes his head sheepishly and looks downward, aw- shucks style.
-0046_Chasing_Amy_00.48.02.636-00.48.04.903 	Holden's shaking his head.
-0046_Chasing_Amy_00.55.59.136-00.56.02.398 	She shakes her head ruefully.
-0046_Chasing_Amy_01.00.40.055-01.00.41.964 	Holden shakes his head.
-0046_Chasing_Amy_01.06.25.725-01.06.30.609 	He shakes his head at Banky and flips it open.
-0046_Chasing_Amy_01.36.26.464-01.36.28.158 	She subtly shakes her head.
-0049_Hannah_and_her_sisters_00.05.06.457-00.05.09.736 	Hannah shakes her head in disapproval while Holly angrily takes another sip of her drink.
-0049_Hannah_and_her_sisters_00.12.00.396-00.12.02.875 	Mickey stops and shakes Ed's hand as if he'd known the official would be there.
-0049_Hannah_and_her_sisters_00.19.37.853-00.19.40.173 	They shake hands.
-0049_Hannah_and_her_sisters_00.57.04.276-00.57.06.681 	Frederick furiously shakes Lee away.
-0049_Hannah_and_her_sisters_01.12.37.069-01.12.43.846 	Holly looks away sadly; she shakes her head.
-0050_Indiana_Jones_and_the_last_crusade_00.09.04.519-00.09.06.997 	Roscoe SCREAMS BLOODY MURDER -- releases his grip on the Cross and tries to shake off the snake.
-0050_Indiana_Jones_and_the_last_crusade_00.17.37.666-00.17.39.782 	He shakes hands with Indy.
-0050_Indiana_Jones_and_the_last_crusade_00.19.57.840-00.20.00.110 	Indy has to shake his head at Donovan's apparent lack of judgment.
-0050_Indiana_Jones_and_the_last_crusade_00.45.30.160-00.45.32.936 	Indy, followed by Elsa, steps inside, shaking the water from his overcoat.
-0050_Indiana_Jones_and_the_last_crusade_01.13.23.524-01.13.29.484 	Vogel shakes his fist at the rising Zeppelin.
-0050_Indiana_Jones_and_the_last_crusade_01.17.34.761-01.17.35.904 	Henry does -- and the EXPLODING GUN nearly shakes him out of his seat.
-0050_Indiana_Jones_and_the_last_crusade_01.45.36.977-01.45.39.341 	Henry shakes his head.
-0051_Men_in_black_00.03.52.700-00.03.53.513 	Agent Janus looks at the Driver, who's now held by two other Agents, and shakes his head.
-0051_Men_in_black_01.06.55.417-01.07.01.162 	Kay shakes Frank the Pug, trying to force an answer.
-0051_Men_in_black_01.07.20.810-01.07.28.677 	Kay shakes Frank the Pug once more.
-0053_Rendezvous_mit_Joe_Black_01.04.37.070-01.04.38.229 	Joe shakes his head, a firm no.
-0053_Rendezvous_mit_Joe_Black_02.32.42.990-02.32.47.699 	He looks at Joe pleadingly, shaking his head imperceptibly, but Joe nods to him blithely -- and then commandingly.
-0053_Rendezvous_mit_Joe_Black_02.36.10.210-02.36.14.854 	Drew is staring at Joe, shaking his head.
-1001_Flight_00.10.36.719-00.10.39.575 	The plane shakes and the items fall from overhead bins.
-1001_Flight_00.34.23.106-00.34.27.694 	Then, he shakes his head and takes his cell phone from the plastic bag.
-1001_Flight_00.39.37.148-00.39.38.686 	She shakes her head.
-1001_Flight_00.41.39.412-00.41.40.646 	She shakes her head.
-1001_Flight_01.43.26.428-01.43.28.534 	They shake hands.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.33.03.749-00.33.04.361 	McGonagall shakes her head.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.02.23.267-01.02.25.339 	Hermione shakes her head, but still looks torwards.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.03.35.241-01.03.36.020 	He shakes his head.
-1003_How_to_Lose_Friends_and_Alienate_People_00.25.22.735-00.25.25.251 	Grabbing his wrist an incredulous Alison shakes her head.
-1003_How_to_Lose_Friends_and_Alienate_People_01.23.02.292-01.23.05.712 	He shakes his head.
-1004_Juno_00.05.35.989-00.05.41.530 	She shakes it.
-1004_Juno_00.14.36.010-00.14.39.150 	She vigorously shakes the phone and something falls out.
-1004_Juno_00.26.09.570-00.26.15.450 	Mac shakes his head as she turns on her heels and hightails upstairs with Leah behind her.
-1004_Juno_00.57.33.660-00.57.34.407 	Vanessa shakes her head in awe.
-1004_Juno_00.58.19.120-00.58.22.023 	Vanessa shakes her head.
-1005_Signs_00.08.40.684-00.08.42.004 	Graham shakes his head.
-1005_Signs_00.21.52.750-00.21.56.270 	She shakes her head as they stroll away from the farmhouse.
-1005_Signs_00.45.31.430-00.45.33.140 	Merrill shakes his head.
-1005_Signs_01.14.38.370-01.14.40.738 	She shakes her head.
-1005_Signs_01.28.59.591-01.29.02.480 	Graham frowns and shakes his head.
-1006_Slumdog_Millionaire_00.22.15.745-00.22.17.835 	Latika shakes her head.
-1006_Slumdog_Millionaire_00.28.00.851-00.28.02.118 	The children shake containers at people begging for money or food.
-1006_Slumdog_Millionaire_00.30.08.446-00.30.13.283 	Punnoose shakes a bottle into a cloth then quickly smothers Arvind's face with the cloth.
-1006_Slumdog_Millionaire_00.32.56.153-00.33.01.696 	They shake hands and Jamal follows Salim back to Maman.
-1006_Slumdog_Millionaire_00.50.55.421-00.50.56.752 	They shake their heads.
-1006_Slumdog_Millionaire_00.54.07.261-00.54.08.578 	She shakes her head and they move on.
-1006_Slumdog_Millionaire_00.59.44.017-00.59.50.126 	Jamal shakes the dusty towel and takes it to the bathroom door.
-1006_Slumdog_Millionaire_01.11.27.457-01.11.30.076 	The host shakes his head.
-1006_Slumdog_Millionaire_01.15.21.365-01.15.29.368 	Salim shakes his head as he watches his brother go.
-1006_Slumdog_Millionaire_01.22.59.698-01.23.03.208 	She slowly shakes her head.
-1006_Slumdog_Millionaire_01.31.30.770-01.31.32.400 	Jamal shakes his head.
-1006_Slumdog_Millionaire_01.31.38.420-01.31.40.715 	Again, Jamal shakes his head.
-1006_Slumdog_Millionaire_01.32.08.909-01.32.10.481 	He shakes his head.
-1006_Slumdog_Millionaire_01.38.10.925-01.38.12.063 	He shakes his head.
-1006_Slumdog_Millionaire_01.45.16.735-01.45.19.929 	The host looks to the director who shakes his head and makes a cutting motion across his throat.
-1007_Spider-Man1_00.04.23.915-00.04.24.655 	The doughnut eater shakes his head.
-1007_Spider-Man1_00.10.26.380-00.10.27.229 	He shakes it off.
-1007_Spider-Man1_00.17.06.646-00.17.10.789 	Norman's head shakes and only the whites of his eye show.
-1007_Spider-Man1_00.22.46.917-00.22.48.463 	He can't shake it off.
-1007_Spider-Man1_00.34.01.236-00.34.09.504 	The devils in Norman's mind cause him to close his eyes tightly and he shakes his head wearily.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.07.14.516-00.07.19.313 	frodo shakes his head.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.15.22.504-00.15.24.172 	smeagol wakes suddenly, shaking, his face drenched in sweat, eyes wide in horror.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.55.40.127-00.55.42.505 	faramir shakes his head.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.03.15.176-01.03.21.976 	sam gently shakes frodo's shoulder.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.20.51.877-01.20.53.360 	aragorn shakes his head, smiling his acceptance.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.44.22.104-02.44.22.957 	the caverns are shaking violently.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.47.42.472-02.47.48.561 	the ground is shaking so violently that frodo and sam can barely stand.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.58.50.484-02.59.10.581 	past odo proudfoot who shakes his head at the strangeness of their appearance.
+0026_The_Big_Fish_00.21.45.167-00.21.48.777 	as two farmers shake their heads, we reverse to a show a massive hole punched through the side of a barn.
+0026_The_Big_Fish_00.23.54.574-00.23.58.577 	as the rumble gets louder, the ground starts to shake.
+0026_The_Big_Fish_00.26.05.865-00.26.08.982 	then they shake on it.
+0026_The_Big_Fish_00.26.57.976-00.26.58.781 	many of the townfolk come onto the street to hug edward or shake his hand.
+0026_The_Big_Fish_00.29.49.551-00.29.58.891 	edward emerges from the forest, brushing the last cobwebs off and shaking the spiders from his shirt.
+0026_The_Big_Fish_00.33.40.010-00.33.43.096 	men shake his hand.
+0026_The_Big_Fish_00.39.01.198-00.39.03.075 	the townspeople stop dancing, disbelieving, some shaking their heads.
+0026_The_Big_Fish_00.43.13.142-00.43.15.668 	she shakes her head.
+0026_The_Big_Fish_00.54.55.013-00.54.57.088 	edward shakes amos's hand before he can retract the offer.
+0026_The_Big_Fish_01.03.38.727-01.03.45.380 	walking with her books, sandra shakes her head, disbelieving.
+0026_The_Big_Fish_01.12.27.487-01.12.29.432 	ping shakes her sister off.
+0026_The_Big_Fish_01.23.52.828-01.23.56.710 	the men shake, disbelieving this lucky coincidence.
+0026_The_Big_Fish_01.49.07.982-01.49.11.964 	edward shakes his head unambiguously.
+0026_The_Big_Fish_01.53.13.878-01.53.16.501 	as he passes, edward shakes some hands, pats some people on the cheek, and gives others a good poke in the ribs.
+0027_The_Big_Lebowski_00.58.02.175-00.58.04.911 	walter sadly shakes his head.
+0027_The_Big_Lebowski_01.00.05.272-01.00.06.424 	the dude, still staring down at his drink, shakes his head.
+0028_The_Crying_Game_00.20.18.247-00.20.24.138 	he shakes his body.
+0028_The_Crying_Game_00.22.23.069-00.22.25.905 	maguire shakes his head.
+0028_The_Crying_Game_00.22.24.663-00.22.26.328 	maguire shakes his head.
+0028_The_Crying_Game_00.23.42.285-00.23.45.778 	fergus shakes his head and says nothing.
+0028_The_Crying_Game_01.31.46.562-01.31.47.557 	he shakes her.
+0029_The_Graduate_00.08.45.966-00.08.47.760 	mrs. robinson shakes her head.
+0029_The_Graduate_00.18.20.638-00.18.22.441 	ben shakes his head.
+0029_The_Graduate_00.27.25.172-00.27.27.229 	she grasps ben's hand and shakes it.
+0029_The_Graduate_00.27.33.789-00.27.35.572 	ben finds himself shaking the twelve-year-old boy's hand.
+0029_The_Graduate_00.29.20.614-00.29.21.543 	he shakes his head.
+0029_The_Graduate_00.52.34.109-00.52.36.598 	she shakes her head.
+0029_The_Graduate_01.26.49.070-01.26.53.256 	she shakes her head.
+0030_The_Hustler_00.38.04.631-00.38.08.363 	eddie looks at him, shaking his head.
+0030_The_Hustler_00.48.13.164-00.48.21.163 	she pushes him away and shakes her head.
+0030_The_Hustler_00.50.14.956-00.50.17.597 	he looks at the money, shakes his head disgustedly, and closes his eyes.
+0031_The_Lost_Weekend_00.13.43.617-00.13.49.531 	he takes a pack of cigarettes from his pocket and shakes one out, lights it.
+0031_The_Lost_Weekend_00.29.56.913-00.30.07.211 	he takes off his hat and shakes the rain from it, then peels off his raincoat.
+0031_The_Lost_Weekend_00.56.50.152-00.56.50.553 	she is shaking her head.
+0031_The_Lost_Weekend_01.01.12.230-01.01.16.903 	with new strength don gets to his feet, nervous laughter shaking him.
+0031_The_Lost_Weekend_01.05.40.166-01.05.42.279 	he makes a pillar of the el, leans against it, shaking.
+0031_The_Lost_Weekend_01.05.51.606-01.05.53.424 	don takes a bar and shakes it.
+0031_The_Lost_Weekend_01.08.35.508-01.08.37.859 	don is shaking so that he can't pick up the glass.
+0032_The_Princess_Bride_00.17.18.785-00.17.20.596 	he watches a moment, then paces, shaking his hands loose.
+0032_The_Princess_Bride_00.26.28.530-00.26.36.522 	he gets set to throw, but the man in black shakes his head, takes off his sword and scabbard, begins the approach toward the giant.
+0032_The_Princess_Bride_01.07.10.000-01.07.11.434 	the albino shakes his head, says nothing.
+0032_The_Princess_Bride_01.08.45.081-01.08.48.022 	then he looks at inigo, shakes his head.
+0032_The_Princess_Bride_01.16.15.235-01.16.17.118 	he shakes his head from side to side.
+0032_The_Princess_Bride_01.20.28.290-01.20.30.200 	buttercup only smiles, shakes her head.
+0033_Amadeus_01.02.21.924-01.02.25.069 	he stands shaking, staring wildly.
+0033_Amadeus_01.54.08.899-01.54.11.806 	all want to shake his hand.
+0041_The_Sixth_Sense_00.18.14.146-00.18.15.688 	he looks shaken.
+0041_The_Sixth_Sense_00.33.56.407-00.33.58.864 	malcolm shakes his head in disbelief.
+0041_The_Sixth_Sense_00.38.42.320-00.38.44.154 	malcolm shakes his hand in circles.
+0043_Thelma_and_Luise_00.46.29.646-00.46.30.646 	louise looks very shaken up.
+0046_Chasing_Amy_00.21.42.210-00.21.45.057 	alyssa shakes her head, smiling.
+0046_Chasing_Amy_00.22.07.263-00.22.11.144 	alyssa shakes her head no.
+0046_Chasing_Amy_00.22.19.817-00.22.22.643 	alyssa shakes her head and relents, heading through the crowd.
+0046_Chasing_Amy_00.25.22.178-00.25.23.475 	holden shakes his head sheepishly and looks downward, aw- shucks style.
+0046_Chasing_Amy_00.48.02.636-00.48.04.903 	holden's shaking his head.
+0046_Chasing_Amy_00.55.59.136-00.56.02.398 	she shakes her head ruefully.
+0046_Chasing_Amy_01.00.40.055-01.00.41.964 	holden shakes his head.
+0046_Chasing_Amy_01.06.25.725-01.06.30.609 	he shakes his head at banky and flips it open.
+0046_Chasing_Amy_01.36.26.464-01.36.28.158 	she subtly shakes her head.
+0049_Hannah_and_her_sisters_00.05.06.457-00.05.09.736 	hannah shakes her head in disapproval while holly angrily takes another sip of her drink.
+0049_Hannah_and_her_sisters_00.12.00.396-00.12.02.875 	mickey stops and shakes ed's hand as if he'd known the official would be there.
+0049_Hannah_and_her_sisters_00.19.37.853-00.19.40.173 	they shake hands.
+0049_Hannah_and_her_sisters_00.57.04.276-00.57.06.681 	frederick furiously shakes lee away.
+0049_Hannah_and_her_sisters_01.12.37.069-01.12.43.846 	holly looks away sadly; she shakes her head.
+0050_Indiana_Jones_and_the_last_crusade_00.09.04.519-00.09.06.997 	roscoe screams bloody murder -- releases his grip on the cross and tries to shake off the snake.
+0050_Indiana_Jones_and_the_last_crusade_00.17.37.666-00.17.39.782 	he shakes hands with indy.
+0050_Indiana_Jones_and_the_last_crusade_00.19.57.840-00.20.00.110 	indy has to shake his head at donovan's apparent lack of judgment.
+0050_Indiana_Jones_and_the_last_crusade_00.45.30.160-00.45.32.936 	indy, followed by elsa, steps inside, shaking the water from his overcoat.
+0050_Indiana_Jones_and_the_last_crusade_01.13.23.524-01.13.29.484 	vogel shakes his fist at the rising zeppelin.
+0050_Indiana_Jones_and_the_last_crusade_01.17.34.761-01.17.35.904 	henry does -- and the exploding gun nearly shakes him out of his seat.
+0050_Indiana_Jones_and_the_last_crusade_01.45.36.977-01.45.39.341 	henry shakes his head.
+0051_Men_in_black_00.03.52.700-00.03.53.513 	agent janus looks at the driver, who's now held by two other agents, and shakes his head.
+0053_Rendezvous_mit_Joe_Black_01.04.37.070-01.04.38.229 	joe shakes his head, a firm no.
+0053_Rendezvous_mit_Joe_Black_02.32.42.990-02.32.47.699 	he looks at joe pleadingly, shaking his head imperceptibly, but joe nods to him blithely -- and then commandingly.
+0053_Rendezvous_mit_Joe_Black_02.36.10.210-02.36.14.854 	drew is staring at joe, shaking his head.
+1001_Flight_00.34.23.106-00.34.27.694 	then, he shakes his head and takes his cell phone from the plastic bag.
+1001_Flight_00.39.37.148-00.39.38.686 	she shakes her head.
+1001_Flight_00.41.39.412-00.41.40.646 	she shakes her head.
+1001_Flight_01.43.26.428-01.43.28.534 	they shake hands.
+1002_Harry_Potter_and_the_Half-Blood_Prince_00.12.21.282-00.12.28.861 	shaking water from his trainers, he trudges through a reed bed.
+1002_Harry_Potter_and_the_Half-Blood_Prince_00.33.03.749-00.33.04.361 	mcgonagall shakes her head.
+1002_Harry_Potter_and_the_Half-Blood_Prince_00.52.21.620-00.52.27.533 	she crashes down onto the snow and lies on her back, her head shaking.
+1002_Harry_Potter_and_the_Half-Blood_Prince_01.02.23.267-01.02.25.339 	hermione shakes her head, but still looks torwards.
+1002_Harry_Potter_and_the_Half-Blood_Prince_01.03.35.241-01.03.36.020 	he shakes his head.
+1003_How_to_Lose_Friends_and_Alienate_People_00.25.22.735-00.25.25.251 	grabbing his wrist an incredulous alison shakes her head.
+1003_How_to_Lose_Friends_and_Alienate_People_01.23.02.292-01.23.05.712 	he shakes his head.
+1004_Juno_00.05.35.989-00.05.41.530 	she shakes it.
+1004_Juno_00.14.36.010-00.14.39.150 	she vigorously shakes the phone and something falls out.
+1004_Juno_00.26.09.570-00.26.15.450 	mac shakes his head as she turns on her heels and hightails upstairs with leah behind her.
+1004_Juno_00.57.33.660-00.57.34.407 	vanessa shakes her head in awe.
+1004_Juno_00.58.19.120-00.58.22.023 	vanessa shakes her head.
+1005_Signs_00.08.40.684-00.08.42.004 	graham shakes his head.
+1005_Signs_00.21.52.750-00.21.56.270 	she shakes her head as they stroll away from the farmhouse.
+1005_Signs_00.45.31.430-00.45.33.140 	merrill shakes his head.
+1005_Signs_01.14.38.370-01.14.40.738 	she shakes her head.
+1005_Signs_01.28.59.591-01.29.02.480 	graham frowns and shakes his head.
+1006_Slumdog_Millionaire_00.22.15.745-00.22.17.835 	latika shakes her head.
+1006_Slumdog_Millionaire_00.28.00.851-00.28.02.118 	the children shake containers at people begging for money or food.
+1006_Slumdog_Millionaire_00.30.08.446-00.30.13.283 	punnoose shakes a bottle into a cloth then quickly smothers arvind's face with the cloth.
+1006_Slumdog_Millionaire_00.32.56.153-00.33.01.696 	they shake hands and jamal follows salim back to maman.
+1006_Slumdog_Millionaire_00.50.55.421-00.50.56.752 	they shake their heads.
+1006_Slumdog_Millionaire_00.54.07.261-00.54.08.578 	she shakes her head and they move on.
+1006_Slumdog_Millionaire_00.59.44.017-00.59.50.126 	jamal shakes the dusty towel and takes it to the bathroom door.
+1006_Slumdog_Millionaire_01.11.27.457-01.11.30.076 	the host shakes his head.
+1006_Slumdog_Millionaire_01.15.21.365-01.15.29.368 	salim shakes his head as he watches his brother go.
+1006_Slumdog_Millionaire_01.22.59.698-01.23.03.208 	she slowly shakes her head.
+1006_Slumdog_Millionaire_01.31.30.770-01.31.32.400 	jamal shakes his head.
+1006_Slumdog_Millionaire_01.31.38.420-01.31.40.715 	again, jamal shakes his head.
+1006_Slumdog_Millionaire_01.32.08.909-01.32.10.481 	he shakes his head.
+1006_Slumdog_Millionaire_01.38.10.925-01.38.12.063 	he shakes his head.
+1006_Slumdog_Millionaire_01.45.16.735-01.45.19.929 	the host looks to the director who shakes his head and makes a cutting motion across his throat.
+1007_Spider-Man1_00.04.23.915-00.04.24.655 	the doughnut eater shakes his head.
+1007_Spider-Man1_00.10.26.380-00.10.27.229 	he shakes it off.
+1007_Spider-Man1_00.22.46.917-00.22.48.463 	he can't shake it off.
 1007_Spider-Man1_00.34.01.236-00.34.09.504 	the devils in norman's mind cause him to close his eyes tightly and he shakes his head wearily.
 1007_Spider-Man1_01.36.46.210-01.36.50.544 	looking down at his son, norman, shakes his head.
 1008_Spider-Man2_00.17.25.021-00.17.27.434 	he shakes his head.
@@ -265,9 +259,9 @@
 1008_Spider-Man2_01.17.01.125-01.17.02.186 	robbie shakes his head.
 1008_Spider-Man2_01.36.47.205-01.36.48.580 	he shakes his head.
 1008_Spider-Man2_01.37.22.000-01.37.26.763 	his head shakes slightly, as he gazes sorrowfully into her blue eyes.
+1008_Spider-Man2_01.38.40.625-01.38.44.085 	the ground shakes.
 1008_Spider-Man2_01.52.35.530-01.52.37.265 	harry shakes his head.
 1008_Spider-Man2_02.05.09.609-02.05.10.831 	harry shakes his head.
-1009_Spider-Man3_00.51.29.249-00.51.44.182 	spider-man wheezes up to the ledge of a building, pulls off his mask, and shakes sand from his hair.
 1009_Spider-Man3_00.51.47.028-00.51.54.243 	he pulls off his left boot and shakes out some more sand.
 1009_Spider-Man3_00.55.40.630-00.55.42.221 	peter hurriedly shakes his head.
 1009_Spider-Man3_00.56.40.049-00.56.41.329 	the helpless waiters are called off again as peter shakes his head.
@@ -275,7 +269,6 @@
 1009_Spider-Man3_01.51.15.300-01.51.20.688 	harry looks impassively at peter, then shakes his head.
 1009_Spider-Man3_02.09.45.883-02.09.49.896 	harry's scarred face looks up at peter, and he shakes his head.
 1009_Spider-Man3_02.09.58.828-02.10.03.534 	peter looks over at mary jane, but she shakes her head, her eyes full of tears.
-1010_TITANIC_00.14.23.983-00.14.26.626 	rose shakes brock's hand.
 1010_TITANIC_00.49.30.875-00.49.37.079 	rose shakes jack's hand up and down.
 1010_TITANIC_00.58.14.368-00.58.17.352 	from the staircase's landing, rose gazes down at jack who pretends to shake somebody's hand, practicing to be a gentleman.
 1010_TITANIC_01.10.23.593-01.10.24.259 	cal shakes his head.
@@ -293,6 +286,7 @@
 1011_The_Help_01.40.28.207-01.40.29.723 	skeeter shakes her head.
 1011_The_Help_01.46.40.496-01.46.49.456 	next morning, celia shakes her head despairingly.
 1011_The_Help_01.53.57.857-01.54.04.143 	skeeter shakes her head in numb disbelief.
+1012_Unbreakable_00.06.25.945-00.06.26.612 	shake hands.
 1012_Unbreakable_00.08.13.244-00.08.16.911 	the train is moving faster, shaking more than it did.
 1012_Unbreakable_00.08.27.246-00.08.32.935 	a man reading a book closes it and, like the woman beside him, begins to stare out of the window as the train begins to shake more violently.
 1012_Unbreakable_00.11.15.204-00.11.17.968 	still staring at the other figure, david slowly shakes his head.
@@ -304,6 +298,7 @@
 1014_2012_00.35.59.161-00.36.01.945 	cereal boxes shake as kate reaches out for them.
 1014_2012_00.44.48.493-00.44.50.812 	the whole house shakes violently.
 1014_2012_01.18.33.594-01.18.36.985 	the control shaken their hands as they clear another building.
+1014_2012_01.27.33.491-01.27.36.488 	the room begins to shake.
 1014_2012_01.29.03.737-01.29.06.098 	now violently shakes the ground.
 1014_2012_02.03.42.046-02.03.44.855 	anheuser shakes his head at adriane.
 1014_2012_02.18.28.661-02.18.31.005 	tenzen shakes his head.
@@ -318,7 +313,6 @@
 1017_Bad_Santa_01.17.14.436-01.17.20.165 	he shakes his head wierdly.
 1017_Bad_Santa_01.21.54.296-01.21.58.141 	bemused willie shakes his hand.
 1017_Bad_Santa_01.28.58.669-01.29.03.640 	willie shakes his head slowly.
-1018_Body_Of_Lies_01.07.24.695-01.07.27.384 	ferris shakes hands with him.
 1018_Body_Of_Lies_01.19.25.763-01.19.27.448 	rowley shakes his head gravely.
 1018_Body_Of_Lies_01.22.35.352-01.22.36.469 	without shaking hands, ferris goes.
 1019_Confessions_Of_A_Shopaholic_01.11.39.209-01.11.42.837 	the basketball player picks her up and shakes her.
@@ -340,18 +334,23 @@
 1020_Crazy_Stupid_Love_01.21.08.806-01.21.12.529 	she shakes her head and stares out into the night.
 1020_Crazy_Stupid_Love_01.33.35.589-01.33.38.493 	emily smiles bitterly and shakes her head.
 1020_Crazy_Stupid_Love_01.39.23.661-01.39.26.665 	jacob shakes his head and shrugs his shoulders.
+1020_Crazy_Stupid_Love_01.48.39.276-01.48.40.181 	they shake.
 1020_Crazy_Stupid_Love_01.49.31.706-01.49.33.947 	jessica shakes her head.
 1024_Identity_Thief_00.04.24.834-00.04.28.501 	as he shakes it off, she turns to the other officer.
 1024_Identity_Thief_00.17.57.372-00.18.00.315 	he leaves sandy shaking his head.
 1024_Identity_Thief_00.39.38.300-00.39.40.709 	he shakes his head.
+1024_Identity_Thief_00.49.58.089-00.50.05.911 	shaking his cup, she turns with a playful smile and sashays back and forth.
 1024_Identity_Thief_01.09.17.454-01.09.20.162 	diana tosses the snake away and shakes her hands.
 1024_Identity_Thief_01.10.28.113-01.10.29.985 	sandy shakes his head.
 1024_Identity_Thief_01.23.02.268-01.23.03.228 	diana shakes the can and sniffs it.
 1024_Identity_Thief_01.23.13.111-01.23.17.014 	she shakes her messy hair around, then faces the mirror.
 1024_Identity_Thief_01.47.16.927-01.47.19.069 	sandy shakes his head and leaves.
+1026_Legion_00.06.09.854-00.06.10.624 	burton dances on the spot as they shake.
 1026_Legion_00.16.31.767-00.16.34.434 	jeep glares at his father, who shakes his head.
 1026_Legion_00.38.40.913-00.38.43.802 	their heads shaking violently, they drive towards the diner.
 1026_Legion_00.47.45.267-00.47.48.932 	kyle shakes his head.
+1026_Legion_00.55.42.001-00.55.47.282 	the strings of light bulbs shake.
+1026_Legion_01.00.15.194-01.00.16.725 	shaken, audrey gets up and follows kyle.
 1026_Legion_01.01.16.616-01.01.17.930 	michael shakes his head.
 1026_Legion_01.05.33.692-01.05.35.791 	audrey shakes her head.
 1026_Legion_01.14.42.532-01.14.44.240 	he shakes his head.
@@ -361,14 +360,12 @@
 1026_Legion_01.27.59.369-01.28.03.677 	she looks at the baby and shakes her head.
 1026_Legion_01.29.36.375-01.29.40.289 	michael shakes his head.
 1027_Les_Miserables_00.54.04.734-00.54.06.419 	cosette shakes her head at thenardier.
-1028_No_Reservations_00.04.07.109-00.04.10.477 	kate shakes hands with another couple and makes her way back through the restaurant.
 1028_No_Reservations_00.20.21.901-00.20.22.967 	zoe shakes her head.
 1028_No_Reservations_00.24.37.875-00.24.44.302 	kate shakes her head at paula in disbelief, then grabs her bag and heads out.
 1028_No_Reservations_00.28.06.973-00.28.09.480 	zoe shakes her head.
 1028_No_Reservations_00.28.12.078-00.28.14.222 	zoe shakes her head again.
 1028_No_Reservations_00.37.47.252-00.37.48.955 	she shakes her head dismissively and wanders off.
 1029_Pride_And_Prejudice_Disk_One_00.09.53.762-00.09.59.650 	before wearily shaking his head and sitting back in his chair.
-1030_Public_Enemies_00.04.20.872-00.04.25.025 	as the guards strip, dillinger shakes hands with the older inmate.
 1030_Public_Enemies_00.20.49.291-00.20.52.642 	dillinger stands and shakes his hand.
 1030_Public_Enemies_00.28.03.467-00.28.04.875 	the two men shake hands.
 1030_Public_Enemies_00.28.26.994-00.28.30.890 	they shake hands.
@@ -389,11 +386,9 @@
 1035_The_Adjustment_Bureau_00.09.57.134-00.10.03.654 	as david faintly nods, the smiling woman shakes her head.
 1035_The_Adjustment_Bureau_00.43.09.589-00.43.19.762 	david exits a town car and shakes many hands.
 1035_The_Adjustment_Bureau_00.55.59.593-00.56.01.420 	he shakes a guy's hand.
-1035_The_Adjustment_Bureau_01.02.30.398-01.02.33.518 	in the studio, david shakes jon stewart's hand, then waves to the audience.
 1035_The_Adjustment_Bureau_01.13.34.619-01.13.39.855 	she blinks back tears, then shakes her head.
 1035_The_Adjustment_Bureau_01.30.08.130-01.30.09.785 	with david, she shakes her head.
 1037_The_Curious_Case_Of_Benjamin_Button_00.52.57.444-00.52.58.765 	benjamin shakes his head.
-1037_The_Curious_Case_Of_Benjamin_Button_00.56.29.931-00.56.31.628 	tizzy shakes hands with benjamin.
 1037_The_Curious_Case_Of_Benjamin_Button_01.38.33.640-01.38.38.623 	thomas shakes his head ruefully as benjamin looks around at the factory.
 1037_The_Curious_Case_Of_Benjamin_Button_01.42.01.642-01.42.05.447 	benjamin gently shakes him.
 1037_The_Curious_Case_Of_Benjamin_Button_01.49.58.776-01.50.02.381 	she shakes her head, benjamin's uncomprehending.
@@ -436,42 +431,31 @@
 1045_An_education_00.27.25.955-00.27.28.135 	the woman shakes her head.
 1045_An_education_00.29.15.995-00.29.18.631 	they shake on it.
 1045_An_education_01.02.44.698-01.02.51.440 	she smiles, thinks for a moment then shakes her head.
-1045_An_education_01.06.29.990-01.06.32.171 	david shakes hands with a man by the door.
 1045_An_education_01.17.58.241-01.18.00.266 	david shakes jack's hand.
 1045_An_education_01.20.41.060-01.20.43.293 	he shakes his head.
 1045_An_education_01.22.14.601-01.22.15.810 	david shakes his head.
 1045_An_education_01.26.07.638-01.26.10.056 	jenny shakes her head forlornly.
 1046_Australia_01.19.20.197-01.19.28.193 	the building starts to shake as the captain signs the agreement.
-1047_Defiance_00.13.53.761-00.14.00.113 	the two friends shake hands and tuvia strides past the little group of jews who watch him uncertainly.
 1047_Defiance_00.23.12.951-00.23.16.223 	peretz meets his gaze and slowly shakes his head.
 1047_Defiance_00.31.02.629-00.31.03.954 	malbin shakes his head.
 1047_Defiance_01.52.57.981-01.52.59.361 	malbin shakes his head.
 1048_Gran_Torino_00.01.15.152-00.01.19.516 	al shakes walt's hand and goes back to his pew.
 1048_Gran_Torino_00.10.50.823-00.10.54.733 	he shakes a hoop with metal rings on it.
-1048_Gran_Torino_01.19.57.306-01.20.00.024 	walt holds his hand out and thao shakes it.
 1048_Gran_Torino_01.27.38.236-01.27.41.775 	thao turns to a grim-faced walt and shakes his head.
 1049_Harry_Potter_and_the_chamber_of_secrets_01.16.59.400-01.17.06.543 	harry looks at him uncertainly, then shakes his head.
 1049_Harry_Potter_and_the_chamber_of_secrets_01.23.59.161-01.24.01.688 	he shakes the parcel.
 1049_Harry_Potter_and_the_chamber_of_secrets_01.24.02.000-01.24.03.091 	harry shakes his head.
 1049_Harry_Potter_and_the_chamber_of_secrets_01.27.17.760-01.27.22.261 	he picks it up and shakes off the water.
-1049_Harry_Potter_and_the_chamber_of_secrets_01.38.15.310-01.38.17.481 	his hand shakes as he pours it out.
-1049_Harry_Potter_and_the_chamber_of_secrets_01.46.56.925-01.46.58.096 	ron points upwards with a shaking hand.
 1049_Harry_Potter_and_the_chamber_of_secrets_02.11.12.777-02.11.13.921 	harry desperately shakes the buzz.
 1049_Harry_Potter_and_the_chamber_of_secrets_02.27.27.133-02.27.28.669 	he shakes her hand.
-1049_Harry_Potter_and_the_chamber_of_secrets_02.30.36.000-02.30.41.236 	overwhelmed, he stretches out and shakes as many hands as he could reach.
-1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.07.38.780-00.07.44.226 	his hand shakes has he holds it out to voldemort.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.10.50.787-00.10.57.908 	harry steps inside what was once his bedroom and slowly shakes his head.
-1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.39.34.646-00.39.38.038 	she points her wand with a shaking hand.
 1051_Harry_Potter_and_the_goblet_of_fire_00.27.18.177-00.27.20.415 	she shakes her head.
 1051_Harry_Potter_and_the_goblet_of_fire_00.30.50.717-00.30.55.413 	hermione shakes her head, sits on the stone steps, and opens a book.
-1051_Harry_Potter_and_the_goblet_of_fire_00.32.18.787-00.32.24.724 	he rises from his seat and shakes dumbledore by the hand.
-1051_Harry_Potter_and_the_goblet_of_fire_00.32.37.743-00.32.46.115 	beaming with pleasure, fleur shakes dumbledore's hand and follows victor.
 1051_Harry_Potter_and_the_goblet_of_fire_00.32.54.190-00.32.58.217 	smiling broadly, he shakes dumbledore's hand and follows victor and fleur out of the hall.
 1051_Harry_Potter_and_the_goblet_of_fire_00.33.59.696-00.34.03.251 	hagrid shakes his head.
 1051_Harry_Potter_and_the_goblet_of_fire_01.04.42.852-01.04.47.657 	hermione shakes her head, bemused.
-1051_Harry_Potter_and_the_goblet_of_fire_01.44.04.682-01.44.07.810 	the man next to him shakes hand with professor dumbledore right through harry.
 1051_Harry_Potter_and_the_goblet_of_fire_02.22.18.352-02.22.22.320 	the durmstrang students follow, shaking hands as they go.
-1052_Harry_Potter_and_the_order_of_phoenix_00.28.30.511-00.28.33.630 	harry shakes ron off.
+1052_Harry_Potter_and_the_order_of_phoenix_01.22.55.607-01.22.58.214 	the chandelier begins to shake.
 1052_Harry_Potter_and_the_order_of_phoenix_02.06.28.044-02.06.29.884 	she shakes her head.
 1053_Harry_Potter_and_the_philosophers_stone_00.06.47.000-00.06.50.443 	it shakes its head.
 1053_Harry_Potter_and_the_philosophers_stone_00.19.28.221-00.19.38.160 	people shake his hand.
@@ -481,7 +465,6 @@
 1053_Harry_Potter_and_the_philosophers_stone_01.21.15.885-01.21.19.792 	it swings him backwards and forwards trying to shake him off.
 1053_Harry_Potter_and_the_philosophers_stone_02.05.12.545-02.05.21.869 	he clings onto the reins, shaking with fear, as the queen gets closer and closer, gliding over the smooth marble floor.
 1053_Harry_Potter_and_the_philosophers_stone_02.22.40.360-02.22.46.343 	he shakes his huge hand and gives the giant a hug.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.04.17.036-00.04.19.691 	harry shakes with rage.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_00.51.17.300-00.51.33.155 	a single autumn leaf flutters down from the whomping willow, then all the leaves fall at once and the tree shakes its bare branches.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_00.55.24.912-00.55.25.933 	he shakes his head as his goggles freeze over.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_01.07.18.933-01.07.22.727 	the whomping willow twists its trunk and shakes the snow from its branches.
@@ -498,6 +481,8 @@
 1057_Seven_pounds_01.56.49.648-01.56.52.320 	he shakes her hand.
 1058_The_Damned_united_00.08.29.000-00.08.39.635 	brian struts into the boardroom, shakes cussins' hand and sits at the end of the long board table.
 1058_The_Damned_united_00.55.02.411-00.55.05.426 	bremner strolls up to brian and shakes his hand on the touchline.
+1058_The_Damned_united_01.00.02.000-01.00.10.100 	shaking his head in disbelief, brian wanders down to longson, then hurls his tracksuit top on the table.
+1058_The_Damned_united_01.09.14.000-01.09.16.672 	the brighton chairman extends his hand to shake.
 1058_The_Damned_united_01.09.30.651-01.09.33.367 	he leans forward and shakes the chairman's hand.
 1058_The_Damned_united_01.28.37.685-01.28.39.000 	peter looks at brian, then hangs his head and shakes it.
 1058_The_Damned_united_01.29.23.670-01.29.27.831 	peter blinks slowly and shakes his head.
@@ -511,77 +496,18 @@
 1060_Yes_man_01.12.27.189-01.12.39.330 	he removes the jacket, and she shakes her head.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.16.39.521-00.17.04.676 	it breathes fire, then cowers as griphook shakes a bell.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.16.51.000-00.16.53.000 	ron shakes the bell given to him by the goblin.
+1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.09.15.448-01.09.25.928 	mouth agape, the snake lunges repeatedly at snape, thumping him against the lead paned glass, which shakes, but doesn't give way.
 1062_Day_the_Earth_stood_still_00.26.59.377-00.27.02.409 	helen slowly shakes her head.
 2004_Juno_00.05.37.403-00.05.37.976 	she shakes the stick desperately in an attempt to skew the results.
 2005_Signs_00.50.55.692-00.50.57.151 	graham looks at an illustration of a small, bulbous headed figure shaking hands with a bearded human.
-2012_Unbreakable_00.08.11.432-00.08.14.754 	the shaking of the glass never allows david's eyes to completely close.
-2012_Unbreakable_00.08.14.754-00.08.17.940 	he sits up when he realizes the shaking is getting stronger.
+2012_Unbreakable_00.01.56.708-00.01.57.200 	he looks shaken.
 2012_Unbreakable_00.26.26.429-00.26.31.321 	elijah starts back to the businessman shaking his head strongly.
-2012_Unbreakable_00.27.10.586-00.27.12.922 	elijah's eyes pierce through the shaken man.
+2012_Unbreakable_00.28.05.636-00.28.08.404 	elijah looks shaken.
 2012_Unbreakable_00.28.17.328-00.28.20.924 	david shakes his head.
 2012_Unbreakable_00.49.20.059-00.49.20.681 	his arms are shaking hard.
 2012_Unbreakable_01.03.35.473-01.03.37.739 	elijah seems shaken for the first time.
 2012_Unbreakable_01.06.09.598-01.06.16.537 	the ponytail man shakes his head moves behind elijah.
-2017_Bad_Santa_00.31.16.137-00.31.18.026 	the kid shakes his head.
-2017_Bad_Santa_00.31.18.026-00.31.20.079 	the kid shakes his head.
-2017_Bad_Santa_00.53.58.672-00.54.01.737 	he shakes his head and chuckles as marcus tosses him an empty red santa sack.
-2017_Bad_Santa_01.17.15.380-01.17.20.555 	he shakes his head in disgust.
-2026_Legion_00.25.20.334-00.25.22.523 	charlie shakes her head at the woman, not giving in.
-2026_Legion_00.32.51.427-00.32.52.518 	michael just shakes his head.
-2026_Legion_01.01.28.705-01.01.31.596 	she shakes her head, anger building.
-2026_Legion_01.11.29.051-01.11.30.838 	charlie shakes her head no.
-2026_Legion_01.15.07.335-01.15.12.340 	charlie shakes her head, this is all too much.
-2026_Legion_01.16.47.811-01.16.49.744 	charlie, shaken by this revelation, reaches out to audrey.
-1052_Harry_Potter_and_the_order_of_phoenix_02.06.28.044-02.06.29.884 	she shakes her head.
-1053_Harry_Potter_and_the_philosophers_stone_00.06.47.000-00.06.50.443 	it shakes its head.
-1053_Harry_Potter_and_the_philosophers_stone_00.19.28.221-00.19.38.160 	people shake his hand.
-1053_Harry_Potter_and_the_philosophers_stone_00.41.15.000-00.41.18.356 	he holds out his hand, but harry does not shake it.
-1053_Harry_Potter_and_the_philosophers_stone_01.11.00.140-01.11.02.320 	he tries to shake him off.
-1053_Harry_Potter_and_the_philosophers_stone_01.20.31.635-01.20.37.158 	it shakes him violently from side to side.
-1053_Harry_Potter_and_the_philosophers_stone_01.21.15.885-01.21.19.792 	it swings him backwards and forwards trying to shake him off.
-1053_Harry_Potter_and_the_philosophers_stone_02.05.12.545-02.05.21.869 	he clings onto the reins, shaking with fear, as the queen gets closer and closer, gliding over the smooth marble floor.
-1053_Harry_Potter_and_the_philosophers_stone_02.22.40.360-02.22.46.343 	he shakes his huge hand and gives the giant a hug.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.04.17.036-00.04.19.691 	harry shakes with rage.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.51.17.300-00.51.33.155 	a single autumn leaf flutters down from the whomping willow, then all the leaves fall at once and the tree shakes its bare branches.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.55.24.912-00.55.25.933 	he shakes his head as his goggles freeze over.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_01.07.18.933-01.07.22.727 	the whomping willow twists its trunk and shakes the snow from its branches.
-1055_Marley_and_me_00.26.27.960-00.26.31.614 	john stares at jenny, then shakes his head.
-1055_Marley_and_me_00.27.53.706-00.27.56.862 	arnie reads john's copy and shakes his head.
-1055_Marley_and_me_01.05.18.824-01.05.24.437 	john shakes his head as marley savages the book.
-1055_Marley_and_me_01.11.12.961-01.11.18.280 	he sits opposite her and she eyes him, shaking her head.
-1057_Seven_pounds_00.16.18.610-00.16.23.344 	ben's lip curls disdainfully as they shake hands.
-1057_Seven_pounds_00.21.12.000-00.21.15.468 	ben looks him in the eye and shakes his head.
-1057_Seven_pounds_00.44.47.908-00.44.51.812 	he shakes ben's hand and leaves.
-1057_Seven_pounds_01.13.31.000-01.13.33.000 	ben shakes his head.
-1057_Seven_pounds_01.28.27.312-01.28.30.907 	she shakes her head.
-1057_Seven_pounds_01.56.17.367-01.56.19.832 	emily shakes her head.
-1057_Seven_pounds_01.56.49.648-01.56.52.320 	he shakes her hand.
-1058_The_Damned_united_00.08.29.000-00.08.39.635 	brian struts into the boardroom, shakes cussins' hand and sits at the end of the long board table.
-1058_The_Damned_united_00.55.02.411-00.55.05.426 	bremner strolls up to brian and shakes his hand on the touchline.
-1058_The_Damned_united_01.09.30.651-01.09.33.367 	he leans forward and shakes the chairman's hand.
-1058_The_Damned_united_01.28.37.685-01.28.39.000 	peter looks at brian, then hangs his head and shakes it.
-1058_The_Damned_united_01.29.23.670-01.29.27.831 	peter blinks slowly and shakes his head.
-1059_The_devil_wears_prada_00.55.40.000-00.55.42.000 	he shakes his head.
-1059_The_devil_wears_prada_01.06.19.843-01.06.29.540 	he stops in the doorway and turns back to look at her, shaking his head sadly.
-1059_The_devil_wears_prada_01.08.57.000-01.09.00.000 	she shakes her head and moves on.
-1059_The_devil_wears_prada_01.37.17.000-01.37.20.000 	andy frowns and shakes her head.
-1060_Yes_man_00.36.59.899-00.37.01.724 	tillie shakes her head.
-1060_Yes_man_00.43.14.276-00.43.16.137 	carl shakes his head incredulously.
-1060_Yes_man_01.01.01.370-01.01.04.715 	they shake hands.
-1060_Yes_man_01.12.27.189-01.12.39.330 	he removes the jacket, and she shakes her head.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.16.39.521-00.17.04.676 	it breathes fire, then cowers as griphook shakes a bell.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.16.51.000-00.16.53.000 	ron shakes the bell given to him by the goblin.
-1062_Day_the_Earth_stood_still_00.26.59.377-00.27.02.409 	helen slowly shakes her head.
-2004_Juno_00.05.37.403-00.05.37.976 	she shakes the stick desperately in an attempt to skew the results.
-2005_Signs_00.50.55.692-00.50.57.151 	graham looks at an illustration of a small, bulbous headed figure shaking hands with a bearded human.
-2012_Unbreakable_00.08.11.432-00.08.14.754 	the shaking of the glass never allows david's eyes to completely close.
-2012_Unbreakable_00.08.14.754-00.08.17.940 	he sits up when he realizes the shaking is getting stronger.
-2012_Unbreakable_00.26.26.429-00.26.31.321 	elijah starts back to the businessman shaking his head strongly.
-2012_Unbreakable_00.27.10.586-00.27.12.922 	elijah's eyes pierce through the shaken man.
-2012_Unbreakable_00.28.17.328-00.28.20.924 	david shakes his head.
-2012_Unbreakable_00.49.20.059-00.49.20.681 	his arms are shaking hard.
-2012_Unbreakable_01.03.35.473-01.03.37.739 	elijah seems shaken for the first time.
-2012_Unbreakable_01.06.09.598-01.06.16.537 	the ponytail man shakes his head moves behind elijah.
+2012_Unbreakable_01.20.34.189-01.20.36.149 	he seems shaken.
 2017_Bad_Santa_00.31.16.137-00.31.18.026 	the kid shakes his head.
 2017_Bad_Santa_00.31.18.026-00.31.20.079 	the kid shakes his head.
 2017_Bad_Santa_00.53.58.672-00.54.01.737 	he shakes his head and chuckles as marcus tosses him an empty red santa sack.
@@ -593,10 +519,11 @@
 2026_Legion_01.15.07.335-01.15.12.340 	charlie shakes her head, this is all too much.
 2026_Legion_01.16.47.811-01.16.49.744 	charlie, shaken by this revelation, reaches out to audrey.
 2034_Super_8_00.25.09.164-00.25.11.175 	as alice nervously drives, she shakes her head: no.
+2041_This_is_40_01.59.27.483-01.59.27.734 	close up of his front wheel shaking.
 2051_Harry_Potter_and_the_goblet_of_fire_00.04.58.708-00.05.02.353 	they shake hands.
 2051_Harry_Potter_and_the_goblet_of_fire_00.27.24.144-00.27.25.909 	hermione shakes her head.
-2051_Harry_Potter_and_the_goblet_of_fire_00.39.15.124-00.39.21.579 	she walks over to them and shakes each of their hands.
 2051_Harry_Potter_and_the_goblet_of_fire_01.14.03.107-01.14.10.234 	ron shakes his head.
+2051_Harry_Potter_and_the_goblet_of_fire_01.44.04.368-01.44.07.672 	dumbledore and the man shake hands.
 2051_Harry_Potter_and_the_goblet_of_fire_02.13.02.675-02.13.16.764 	mad-eye starts shaking and struggling for air, he reaches for his bottle but it's empty.
 2051_Harry_Potter_and_the_goblet_of_fire_02.22.19.032-02.22.23.045 	the durmstrang boys leave too, shaking hands as they go.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_00.11.11.749-00.11.14.924 	harry shakes his head, still staring at the man's face.
@@ -606,3 +533,4 @@
 2054_Harry_Potter_and_the_prisoner_of_azkaban_01.08.04.718-01.08.06.061 	harry shakes his head.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_01.22.05.867-01.22.07.176 	harry shakes his head.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_01.31.18.043-01.31.19.180 	harry eyes black, wand hand shaking violently.
+2054_Harry_Potter_and_the_prisoner_of_azkaban_01.39.41.528-01.39.43.389 	lupin, twitching, shakes his head.

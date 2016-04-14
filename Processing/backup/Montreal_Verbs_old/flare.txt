@@ -1,0 +1,15 @@
+BLINDDATING.srt 	BLINDDATING_DVS322 	01:17:28,00 --> 01:17:36,50 	someone's camera view flares brightly.
+GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS593 	01:25:26,00 --> 01:25:32,50 	the hell fires flare, their light overwhelming our view.
+IN_TIME.srt 	IN_TIME_DVS811 	01:26:09,00 --> 01:26:18,50 	someone gazes steadily at his foe and breathes deeply through flared nostrils.
+IRON_MAN_2.srt 	IRON_MAN_2_DVS43 	00:05:15,00 --> 00:05:31,50 	he free-falls toward the city below, then as two small thrusters on his feet flare up, he zooms and spins through the sky.
+IRON_MAN_2.srt 	IRON_MAN_2_DVS301 	00:55:48,00 --> 00:55:55,50 	watching from the back of the room, someone, his nostrils flared, storms out.
+KARATE_KID.srt 	KARATE_KID_DVS1611 	02:11:05,00 --> 02:11:11,50 	the american boy's gaze hardens and his nostrils flare.
+KARATE_KID.srt 	KARATE_KID_DVS1655 	02:14:10,00 --> 02:14:16,50 	they bump their fists, flaring their fingers as they part.
+LIFE_OF_PI.srt 	LIFE_OF_PI_DVS1098 	01:54:19,00 --> 01:54:24,50 	someone's mouth twists willfully and his nostrils flare.
+PROMETHEUS.srt 	PROMETHEUS_DVS1006 	01:49:58,00 --> 01:50:03,50 	breathing through flared nostrils.
+PROMETHEUS.srt 	PROMETHEUS_DVS1067 	01:56:54,00 --> 01:56:59,50 	flaring brilliantly it darts away.
+PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS43 	00:06:57,00 --> 00:07:11,50 	gathering himself, he sniffs, flaring his nostrils.
+SANCTUM.srt 	SANCTUM_DVS155 	00:32:51,00 --> 00:32:58,50 	someone clenches his jaw and his nostrils flare.
+THOR.srt 	THOR_DVS212 	00:29:08,00 --> 00:29:14,50 	someone, his nostrils flared, frowns as he studies his father.
+WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS210 	00:36:23,00 --> 00:36:31,50 	it flares its quills.
+WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS641 	01:34:32,00 --> 01:34:37,50 	passing through patches of flared sunlight.

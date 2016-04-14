@@ -1,61 +1,16 @@
-A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS250 	00:47:56,00 --> 00:48:02,50 	stopping at a door, he straightens his tie, then knocks.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS485 	01:08:01,00 --> 01:08:08,50 	someone offers a sympathetic gaze, then straightens and stands over him.
-BLINDDATING.srt 	BLINDDATING_DVS289 	01:12:13,00 --> 01:12:27,50 	she lets her brow brush his in a brief nuzzle, then straightens.
-BLINDDATING.srt 	BLINDDATING_DVS313 	01:16:14,00 --> 01:16:19,50 	and he straightens and looks to his left.
 CHRONICLE.srt 	CHRONICLE_DVS288 	00:44:08,00 --> 00:44:13,50 	he slowly straightens.
-CHRONICLE.srt 	CHRONICLE_DVS380 	00:58:10,00 --> 00:58:18,50 	someone straightens his back and holds out a hand.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS138 	00:30:11,00 --> 00:30:20,50 	someone straightens his cap under the foreman's stern gaze and hooks the next sack.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS307 	01:14:08,00 --> 01:14:18,50 	at home, someone packs someone's trunks into a brown paper bag as he straightens a tie tucked under his vest.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS408 	01:38:26,00 --> 01:38:32,50 	someone straightens his suit jacket.
-COLOMBIANA.srt 	COLOMBIANA_DVS324 	00:28:31,00 --> 00:28:37,50 	he straightens, takes out his fedora and beats it back into shape.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS172 	00:27:03,00 --> 00:27:14,50 	as she straightens and pockets it, someone drapes a loving arm around her shoulder.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS503 	01:13:09,00 --> 01:13:19,50 	later, he straightens the collar of his army fatigues.
 FLIGHT.srt 	FLIGHT_DVS120 	00:24:09,00 --> 00:24:15,50 	someone tumbles across the galley, as the plane straightens out.
-FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS65 	00:17:03,00 --> 00:17:13,50 	the dancers straighten and point skyward.
-FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS66 	00:17:13,00 --> 00:17:24,50 	the dancers straighten and raise their arms skyward, some with jazz hands.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS333 	00:50:31,00 --> 00:50:39,50 	someone sets a bent knee at the rear of his seat then straightens it, pushing his weight onto his back foot.
-HUGO.srt 	HUGO_DVS181 	00:25:27,00 --> 00:25:34,50 	straightening his hat, the inspector walks stiffly towards the woman as she sets up shop.
-HUGO.srt 	HUGO_DVS462 	01:07:28,00 --> 01:07:33,50 	the inspector straightens then faces someone.
-JACK_AND_JILL.srt 	JACK_AND_JILL_DVS389 	01:12:51,00 --> 01:12:56,50 	someone notices him and straightens demurely.
-KARATE_KID.srt 	KARATE_KID_DVS478 	00:43:09,00 --> 00:43:20,50 	as someone doubles over, the two boys holding him straighten him back up.
 KARATE_KID.srt 	KARATE_KID_DVS479 	00:43:17,00 --> 00:43:25,50 	the boys straighten someone again.
-KARATE_KID.srt 	KARATE_KID_DVS969 	01:19:13,00 --> 01:19:25,50 	as she straightens, the reptile rises to match her.
 KARATE_KID.srt 	KARATE_KID_DVS1442 	01:57:00,00 --> 01:57:15,50 	his opponent smooths his mohawk and straightens his gi.
 MORNING_GLORY.srt 	MORNING_GLORY_DVS90 	00:17:15,00 --> 00:17:23,50 	someone straightens up her fridge and knocks on a door.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS109 	00:25:07,00 --> 00:25:18,50 	as someone and his sister rise from the floor, someone straightens his tie.
-NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS233 	00:48:38,00 --> 00:48:43,50 	noticing someone, she straightens and frowns.
-NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS323 	01:11:23,00 --> 01:11:36,50 	the boys watch as he walks back behind his desk and straightens his tie.
-NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS371 	01:18:48,00 --> 01:19:01,50 	someone's head rises from behind the tabletop as he straightens and eyes someone.
-NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS418 	01:27:12,00 --> 01:27:27,50 	she straightens and looks at the others.
-PROMETHEUS.srt 	PROMETHEUS_DVS341 	00:33:17,00 --> 00:33:26,50 	straightening he inhales deeply and pulls off his skullcap.
-PROMETHEUS.srt 	PROMETHEUS_DVS535 	00:59:23,00 --> 00:59:29,50 	he straightens and she yanks it off impatiently.
 PROMETHEUS.srt 	PROMETHEUS_DVS572 	01:04:08,00 --> 01:04:17,50 	as he straightens, his melting helmet collapses on his face.
-PROMETHEUS.srt 	PROMETHEUS_DVS989 	01:48:38,00 --> 01:48:47,50 	straightening she sways on her feet, then perseveres  to the compartment's open entryway and climbs up.
-PROMETHEUS.srt 	PROMETHEUS_DVS1048 	01:54:20,00 --> 01:54:24,50 	gazing tenderly at it, someone gently straightens the chain.
-PROMETHEUS.srt 	PROMETHEUS_DVS1077 	01:57:44,00 --> 01:57:50,50 	the alien straightens, sitting up on its heels and looks around.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS273 	00:51:56,00 --> 00:52:04,50 	someone straightens to his full height.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS258 	00:59:51,00 --> 01:00:06,50 	freed from the garment, he straightens and faces her bare chested.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS400 	01:38:15,00 --> 01:38:21,50 	he slowly straightens, then sheaths his sword.
-SALT.srt 	SALT_DVS535 	01:31:29,00 --> 01:31:42,50 	someone coldly straightens and looks him in the eye.
-SANCTUM.srt 	SANCTUM_DVS466 	01:26:45,00 --> 01:26:51,50 	he peers down its hatch, then straightens.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS627 	00:41:39,00 --> 00:41:44,50 	noticing someone, she straightens her bath robe.
-SPARKLE_2012.srt 	SPARKLE_2012_DVS182 	00:29:54,00 --> 00:30:03,50 	now in the someone's bedroom, someone wears curlers and straightens someone's hair.
-SPARKLE_2012.srt 	SPARKLE_2012_DVS276 	00:43:24,00 --> 00:43:33,50 	he straightens his cousin's lapels, taps him on the chest, then turns and heads for the door.
-SPARKLE_2012.srt 	SPARKLE_2012_DVS424 	01:10:41,00 --> 01:10:49,50 	straightens his jacket and throws one last punch in the direction of the club.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS176 	00:35:43,00 --> 00:35:49,50 	she twitches a smile then straightens someone's overcoat.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS332 	01:04:23,00 --> 01:04:45,50 	rolling up his sleeves he takes a seat at his desk and straightens the pile of homework.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS305 	00:46:32,00 --> 00:46:38,50 	he straightens, picking up a teddy bear from the bed.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS889 	01:39:11,00 --> 01:39:18,50 	she straightens to a kneeling position and slides his briefs off his waist.
-THE_VOW.srt 	THE_VOW_DVS282 	00:37:08,00 --> 00:37:15,50 	crouching in front of a display case, she eyes shelves of pastries, then straightens.
-THE_WATCH.srt 	THE_WATCH_DVS170 	00:31:57,00 --> 00:32:03,50 	someone returns the kid's backpack, then straightens the chair.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS304 	00:55:52,00 --> 00:55:56,50 	he straightens his face flushed.
-THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS492 	01:25:34,00 --> 01:25:41,50 	he resiliently straightens his posture and gives a few curt nods of his head.
-TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS247 	00:32:26,00 --> 00:32:31,50 	now, he straightens on the other side of the door and looks around.
-TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS284 	00:34:50,00 --> 00:34:57,50 	as he straightens, he looks at the boy, then turns to the edge of the bed.
-TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS668 	01:14:40,00 --> 01:14:45,50 	straightening out of a slouch, someone grabs his helmet.
-UGLY_TRUTH.srt 	UGLY_TRUTH_DVS52 	00:08:29,00 --> 00:08:35,50 	her smile fades as she straightens.
-UGLY_TRUTH.srt 	UGLY_TRUTH_DVS533 	01:11:43,00 --> 01:11:54,50 	she straightens with a wide grin and touches her forehead to his as they dance in a circle.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS341 	00:55:47,00 --> 00:55:55,50 	oblivious to his observers, he straightens and fires a series of furious punches and kicks at the air.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS465 	00:41:40,00 --> 00:41:46,50 	she straightens abruptly as someone strolls over.
-ZOMBIELAND.srt 	ZOMBIELAND_DVS503 	00:58:55,00 --> 00:59:03,50 	now gripping a bottle of wine, someone watches someone on the sly as he straightens some wall art
-ZOOKEEPER.srt 	ZOOKEEPER_DVS380 	01:24:04,00 --> 01:24:09,50 	dropping to one knee, someone falters then straightens.

@@ -1,9 +1,24 @@
-0007_DIE_NACHT_DES_JAEGERS_01.04.08.645-01.04.23.867 	He vanishes beyond trees, his singing more distant.
-0028_The_Crying_Game_00.03.33.512-00.03.35.259 	Jody walks inside the canvas flap and vanishes from sight.
-0028_The_Crying_Game_00.05.24.300-00.05.27.481 	He can see her blond head vanishing among the fields.
-0051_Men_in_black_01.12.27.932-01.12.29.615 	Jay's smile vanishes and his jaw drops as he figures it out.
+0007_DIE_NACHT_DES_JAEGERS_01.04.08.645-01.04.23.867 	he vanishes beyond trees, his singing more distant.
+0007_DIE_NACHT_DES_JAEGERS_01.04.41.951-01.04.52.152 	he vanishes; scuttling of children in hay, o.s.
+0009_Forrest_Gump_01.43.21.150-01.43.29.105 	jenny's image walks, then vanishes.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.41.19.666-02.41.35.423 	he vanishes.
+0028_The_Crying_Game_00.05.24.300-00.05.27.481 	he can see her blond head vanishing among the fields.
+1008_Spider-Man2_00.00.42.180-00.00.47.260 	a spider's web is behind the letters which break up and vanish from the screen.
+1011_The_Help_00.02.00.673-00.02.02.950 	the smile vanishes.
+1014_2012_01.44.42.644-01.44.51.744 	the grin is vanishing from his face as the plane starts to go down in a steep incline rapidly gaining speed.
+1014_2012_01.50.05.448-01.50.09.164 	jackson lobs a stone at the vanishing truck.
+1026_Legion_01.24.14.747-01.24.18.814 	the bright light engulfs michael, then vanishes taking him with it.
+1027_Les_Miserables_00.41.48.105-00.41.51.905 	the image has vanished.
+1035_The_Adjustment_Bureau_01.37.49.940-01.37.52.324 	as the pass a flashing border, all delineations vanish from the page space ahead of them.
+1039_The_Queen_01.02.41.553-01.02.44.295 	then, back to the stag, which has vanished from sight.
+1049_Harry_Potter_and_the_chamber_of_secrets_01.28.01.673-01.28.04.230 	harry turns over the page, but the ink blot has vanished.
+1050_Harry_Potter_and_the_deathly_hallows_Disk_One_02.09.38.283-02.09.39.856 	the dagger vanishes with them.
+1051_Harry_Potter_and_the_goblet_of_fire_01.32.28.361-01.32.31.906 	he somersaults in the air like a dolphin and vanishes again under the surface.
+1051_Harry_Potter_and_the_goblet_of_fire_01.33.40.402-01.33.50.113 	recovering himself, he catches sight of a silvery tail vanishing into the forest of weed.
+1051_Harry_Potter_and_the_goblet_of_fire_01.56.06.778-01.56.15.458 	as he reaches her, she vanishes from sight, drawn under the hedge by a tangle of sinuous roots.
+1052_Harry_Potter_and_the_order_of_phoenix_01.51.08.673-01.51.10.592 	her attacker vanishes.
+1052_Harry_Potter_and_the_order_of_phoenix_01.51.53.761-01.51.55.586 	their attackers vanish.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.19.50.528-01.19.53.596 	draco and the vanishing cabinet.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.36.35.290-01.36.38.489 	dumbledore has vanished into the whiteness.
 2034_Super_8_00.24.44.056-00.24.50.012 	one man who walks up to the camera, eyeing the vanishing car with intense suspicion: colonel nelec.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_01.28.25.658-01.28.32.921 	the dog vanishes into the gap at the base of the tree, begins to pull ron through.
-2054_Harry_Potter_and_the_prisoner_of_azkaban_02.01.01.136-02.01.06.776 	one after another, dementors drop from the sky, vanish in the cyclone.

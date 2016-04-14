@@ -1,31 +1,65 @@
-0004_Charade_01.45.51.426-01.45.52.245 	With CARSON in the b.g., who fires at him.
-0004_Charade_01.46.10.306-01.46.12.428 	Including CARSON who, seeing REGGIE running to the door, turns and fires at her.
-0007_DIE_NACHT_DES_JAEGERS_01.23.54.835-01.23.56.040 	She fires off her gun.
-0009_Forrest_Gump_00.53.18.919-00.53.22.147 	Lt. Dan fires his pistol at the unseen enemy as Forrest pulls him away.
-0009_Forrest_Gump_00.55.04.368-00.55.12.556 	They fire napalm as the jungle explodes with massive fireballs.
-0011_Gandhi_00.03.45.775-00.03.47.266 	Godse moves his right hand rapidly from the stance of prayer to his jacket, in an instant -- it holds a gun, and he fires point blank at Gandhi -- loud, startling -- once, twice, thrice.
-0014_Ist_das_Leben_nicht_schoen_02.01.03.108-02.01.09.891 	Bert gets up, takes out his gun and fires several shots after the fleeing figure.
-0016_O_Brother_Where_Art_Thou_00.33.53.942-00.34.04.955 	Nelson fires wildly as the pursuit cars gain on him, returning fire.
-0016_O_Brother_Where_Art_Thou_00.34.49.257-00.34.53.485 	He fires into the ceiling and leaps up onto a table.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.57.13.707-01.57.17.052 	Legolas fires deadly arrows into Goblin throats, desperately trying to Shield the Hobbits!
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.59.55.287-02.00.21.637 	Sam slashes at the cave troll's knee, bringing him down.Merry and Pippin jump on him.Legolas fires an arrow.and the cave troll topples, dead.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.28.41.649-01.28.43.273 	LEGOLAS fires an ARROW at the KING OF THE DEAD.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.31.15.699-01.31.18.931 	At his ORDERS, the GREAT CATAPULTS fire THWAT!
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.31.18.931-01.31.19.841 	The ORC CATAPULTS do not fire rocks.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.47.59.878-01.48.04.247 	ROWS of ARCHERS fire off a VOLLEY of ARROWS but the TROLLS continue to SMASH the FOOT SOLDIERS with their giant CLUBS.
-0043_Thelma_and_Luise_01.29.33.087-01.29.35.551 	Louise yanks open her car door, gets in and slams the door and fires up the ENGINE.
-0043_Thelma_and_Luise_01.39.48.714-01.39.50.904 	Louise fires TWO SHOTS into the police radio.
-0050_Indiana_Jones_and_the_last_crusade_00.37.10.106-00.37.13.731 	Indy fires up the engine and pulls away from the dock.
-0050_Indiana_Jones_and_the_last_crusade_01.25.41.457-01.25.46.935 	The BRETHREN are firing at the Donovan party and are being fired on by the Donovan party.
-0050_Indiana_Jones_and_the_last_crusade_01.33.43.550-01.33.45.969 	Henry fires the TANK GUN at the troop truck.
-1005_Signs_00.30.08.400-00.30.14.198 	And the young man looks unsettled as he gets into his driver's seat, and fires up the engine.
+0001_American_Beauty_01.13.29.905-01.13.35.396 	carolyn, wearing protective headgear, is holding a glock 19 automatic revolver with both hands, firing it directly at us.
+0001_American_Beauty_01.13.45.669-01.13.48.612 	and she starts firing again.
+0004_Charade_01.45.51.426-01.45.52.245 	with carson in the b.g., who fires at him.
+0004_Charade_01.46.10.306-01.46.12.428 	including carson who, seeing reggie running to the door, turns and fires at her.
+0007_DIE_NACHT_DES_JAEGERS_01.23.54.835-01.23.56.040 	she fires off her gun.
+0008_Fargo_01.10.29.753-01.10.33.878 	he pulls out a gun and fires into wade's gut.
+0009_Forrest_Gump_00.24.32.788-00.24.35.547 	gunshots are fired, wounding him.
+0009_Forrest_Gump_00.49.37.728-00.49.39.123 	forrest begins firing his weapon into the jungle.
+0009_Forrest_Gump_00.49.39.123-00.49.39.206 	the machine gunner fires into the treeline.
+0009_Forrest_Gump_00.53.18.919-00.53.22.147 	lt. dan fires his pistol at the unseen enemy as forrest pulls him away.
+0009_Forrest_Gump_00.55.04.368-00.55.12.556 	they fire napalm as the jungle explodes with massive fireballs.
+0011_Gandhi_00.03.45.775-00.03.47.266 	godse moves his right hand rapidly from the stance of prayer to his jacket, in an instant -- it holds a gun, and he fires point blank at gandhi -- loud, startling -- once, twice, thrice.
+0014_Ist_das_Leben_nicht_schoen_02.01.03.108-02.01.09.891 	bert gets up, takes out his gun and fires several shots after the fleeing figure.
+0016_O_Brother_Where_Art_Thou_00.14.16.265-00.14.18.336 	the vehicle rocks and chatters under the force of the many tommy guns now firing inside.
+0016_O_Brother_Where_Art_Thou_00.34.45.987-00.34.47.181 	george nelson, cackling wildly, fires into the air as his car recedes.
+0016_O_Brother_Where_Art_Thou_00.34.32.717-00.34.35.615 	the car is speeding into town, dodging and weaving through light traffic as george fires into the air - perhaps a means of clearing a path, perhaps an expression of high spirits.
+0016_O_Brother_Where_Art_Thou_00.34.49.257-00.34.53.485 	he fires into the ceiling and leaps up onto a table.
+0016_O_Brother_Where_Art_Thou_00.35.00.014-00.35.02.930 	he leaps down, fires into the air again, and sweeps a young woman standing in line into a full v-j dip, kissing her on the lips.
+0017_Pianist_01.44.39.309-01.44.41.781 	the germans firing from the hospital.
+0017_Pianist_01.45.01.120-01.45.02.070 	the panzerfaust fires.
+0017_Pianist_01.45.50.202-01.45.51.353 	sound of firing becoming sporadic, less intense.
+0017_Pianist_02.16.59.664-02.17.02.455 	he peers out to see polish soldiers beginning to surround the ruined building, firing shots, lobbing in a grenade or two.
+0019_Pulp_Fiction_01.37.56.344-01.38.01.771 	maynard stands in front of them, fire extinguisher in one hand, shotgun in the other, and marsellus' .45 sticking in his belt.
+0019_Pulp_Fiction_01.53.08.078-01.53.12.741 	the bathroom door bursts open and the fourth man charges out, silver magnum raised, firing six booming shots from his hand cannon.
+0020_Raising_Arizona_00.48.40.643-00.48.41.411 	he fires.
+0020_Raising_Arizona_01.19.22.557-01.19.23.488 	he fires.
+0020_Raising_Arizona_01.21.53.348-01.21.53.703 	he raises the guns to fire.
+0022_Reservoir_Dogs_00.20.46.467-00.20.52.862 	guns firing, people shouting and screaming, sirens wailing.
+0022_Reservoir_Dogs_01.25.21.645-01.25.24.959 	firing both .45's, mr. white massacres everyone in the patrol car.
+0022_Reservoir_Dogs_01.31.38.655-01.31.40.844 	mr. white pointing at joe, looking like he's ready to start firing any minute.
+0022_Reservoir_Dogs_01.31.58.784-01.32.00.423 	the two men fall to their knees, firing at each other.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.57.13.707-01.57.17.052 	legolas fires deadly arrows into goblin throats, desperately trying to shield the hobbits!
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.59.55.287-02.00.21.637 	sam slashes at the cave troll's knee, bringing him down.merry and pippin jump on him.legolas fires an arrow.and the cave troll topples, dead.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.35.58.379-02.35.59.808 	legolas races out of the woods, firing his bow.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.28.41.649-01.28.43.273 	legolas fires an arrow at the king of the dead.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.31.15.699-01.31.18.931 	at his orders, the great catapults fire thwat!
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.31.18.931-01.31.19.841 	the orc catapults do not fire rocks.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.33.22.137-01.33.24.281 	mighty wooden catapults positioned within the walls of minas tirith are fired.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.34.49.379-01.34.57.044 	mighty wooden catapults positioned within the walls of minas tirith are fired!
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.47.59.878-01.48.04.247 	rows of archers fire off a volley of arrows but the trolls continue to smash the foot soldiers with their giant clubs.
+0026_The_Big_Fish_00.57.59.416-00.58.01.976 	edward moves just as mr. soggybottom fires.
+0026_The_Big_Fish_01.24.24.994-01.24.28.523 	reaching the front of the line, norther pulls two pistols out of his coat, firing both into the ceiling.
+0041_The_Sixth_Sense_00.10.12.099-00.10.13.605 	he fires.
+0043_Thelma_and_Luise_00.21.31.214-00.21.37.579 	louise takes two long strides back towards him, raises the gun and fires a bullet into his face.
+0043_Thelma_and_Luise_01.29.33.087-01.29.35.551 	louise yanks open her car door, gets in and slams the door and fires up the engine.
+0043_Thelma_and_Luise_01.39.48.714-01.39.50.904 	louise fires two shots into the police radio.
+0043_Thelma_and_Luise_01.40.02.910-01.40.06.373 	suddenly thelma fires the gun, blowing two holes into the trunk cover.
+0050_Indiana_Jones_and_the_last_crusade_00.07.40.684-00.07.42.296 	the wooden trap door explodes as a bullet is fired from within.
+0050_Indiana_Jones_and_the_last_crusade_00.37.10.106-00.37.13.731 	indy fires up the engine and pulls away from the dock.
+0050_Indiana_Jones_and_the_last_crusade_00.37.39.506-00.37.40.667 	it fires.
+0050_Indiana_Jones_and_the_last_crusade_00.38.43.261-00.38.46.740 	he stands in the moving boat, firing a machine gun at indy and elsa.
+0050_Indiana_Jones_and_the_last_crusade_01.24.46.480-01.24.48.561 	at that moment the tank fires a shell in their direction.
+0050_Indiana_Jones_and_the_last_crusade_01.25.27.933-01.25.30.055 	kazim's men, brethren of the cruciform sword, continue to fire.
+0050_Indiana_Jones_and_the_last_crusade_01.25.41.457-01.25.46.935 	the brethren are firing at the donovan party and are being fired on by the donovan party.
+0050_Indiana_Jones_and_the_last_crusade_01.33.43.550-01.33.45.969 	henry fires the tank gun at the troop truck.
+1005_Signs_00.30.08.400-00.30.14.198 	and the young man looks unsettled as he gets into his driver's seat, and fires up the engine.
+1005_Signs_00.50.55.340-00.51.02.007 	on a third page, a gloomy nighttime drawing of a ufo firing two red laser beams into a wooden farmhouse, which is on fire.
+1007_Spider-Man1_01.08.40.466-01.08.44.348 	the goblin pursues the running spider-man, firing at it.
 1008_Spider-Man2_00.28.36.756-00.28.38.272 	he fires two web pulls.
 1008_Spider-Man2_00.32.34.298-00.32.37.687 	he tries to fire a web, but again nothing happents.
-1008_Spider-Man2_00.53.45.127-00.53.46.142 	spider-man fires a web.
-1008_Spider-Man2_01.42.59.224-01.43.01.598 	octavious covers his face, spider-man fires more webs.
-1008_Spider-Man2_01.47.07.282-01.47.17.889 	as the train hurdles towards the river, a desperate looking spider-man fires webs at buildings.
+1008_Spider-Man2_00.57.31.770-00.57.40.923 	firing webs as he goes, the costumed hero sweeps through the skies from building to building across new york city.
 1009_Spider-Man3_00.18.55.425-00.19.04.299 	peter throws harry off the sky stick and fires a couple of web threads, using them to catapult himself down after the falling ring.
-1009_Spider-Man3_00.50.38.536-00.50.45.092 	spider-man fires a thread at the runaway van, leaps onto the torn off door, and he's dragged along like a water scare as he dodges cars.
 1009_Spider-Man3_00.51.12.616-00.51.12.824 	he fires a thread out of the back of the van.
 1009_Spider-Man3_01.01.29.649-01.01.32.882 	the radio fires up.
 1009_Spider-Man3_01.54.47.881-01.54.50.000 	spider-man's wrists are lashed to the web with webbing fired by brock, who lands on top of him and tears off the spider- man mask.
@@ -35,40 +69,51 @@
 1009_Spider-Man3_02.02.01.872-02.02.07.440 	he fires rockets from the sky stick.
 1010_TITANIC_01.55.03.497-01.55.06.705 	a crewman fires a flare into the night sky.
 1010_TITANIC_02.12.42.719-02.12.44.739 	cal and lovejoy turn as lowe fires his gun in the air.
+1010_TITANIC_02.20.14.710-02.20.15.625 	cal aims but doesn't fire.
 1010_TITANIC_02.27.20.202-02.27.22.545 	he fires and falls into the ocean.
 1018_Body_Of_Lies_00.20.36.101-00.20.37.439 	he exchanges fire with the young man.
 1018_Body_Of_Lies_00.23.10.385-00.23.17.839 	the chopper fires a rocket which destroys the second four- by-four and knocks ferris and bassam's four-by-four onto its roof.
 1026_Legion_00.26.25.790-00.26.26.063 	bob fires a pump-action shotgun.
+1026_Legion_00.26.56.272-00.26.57.839 	jeep hasn't fired.
 1027_Les_Miserables_01.51.56.885-01.51.57.331 	he fires into a wall.
 1027_Les_Miserables_02.01.09.859-02.01.14.777 	cannons are fired splintering the barricade and throwing up clouds of smoke.
 1030_Public_Enemies_00.05.19.778-00.05.43.598 	as the escapees race past him, dillinger faces the entrance and fires his tommy gun up at the watch tower.
 1030_Public_Enemies_00.05.33.879-00.05.36.556 	his sandy haired accomplice helps him along and fires back at the tower.
 1030_Public_Enemies_00.05.46.307-00.05.47.230 	as walter reaches the getaway car, another guard fires a rifle.
+1030_Public_Enemies_00.09.14.169-00.09.17.891 	floyd runs backwards, firing wildly.
+1030_Public_Enemies_00.15.16.595-00.15.16.952 	an officer fires first.
 1030_Public_Enemies_01.15.44.453-01.15.48.425 	inside a bank, baby face stands on a table and fires his gun through a window at the policeman.
 1030_Public_Enemies_01.15.50.281-01.15.51.948 	he fires at the ceiling.
 1030_Public_Enemies_01.16.25.781-01.16.27.448 	baby face fires wildly into the town square.
 1030_Public_Enemies_01.16.55.781-01.16.59.448 	as baby face raises his gun to fire again, a guy jumps on his back.
+1030_Public_Enemies_01.17.01.781-01.17.06.448 	dillinger joins the others, firing at the second story window across the street.
 1030_Public_Enemies_01.17.15.091-01.17.18.758 	dillinger reloads his gun and fires it at a man hiding behind a car.
 1030_Public_Enemies_01.25.30.509-01.25.36.176 	in the barroom baby face returns fire through a window, as does dillinger from the second story.
+1030_Public_Enemies_01.27.13.150-01.27.13.825 	the g-men resume firing.
+1030_Public_Enemies_01.27.41.369-01.27.44.036 	outside it opens and baby face fires towards the car.
 1030_Public_Enemies_01.27.46.008-01.27.47.303 	his shots send up clouds of dirt but purvis returns fire through the dust.
-1030_Public_Enemies_01.32.45.199-01.32.48.865 	purvis fires relentlessly from cowley's car as it gains on baby face.
+1030_Public_Enemies_01.28.12.679-01.28.14.346 	as purvis shoots the side door, homer fires back.
 1030_Public_Enemies_01.33.35.431-01.33.36.969 	but agent madala fires a shotgun first.
-1030_Public_Enemies_02.06.21.879-02.06.23.727 	two crimson stains bloom on his shirt front, as hurt fires twice from behind.
 1031_Quantum_of_Solace_00.04.25.078-00.04.28.358 	bond fires a bullet in a super slow-mo burst of smoke.
 1031_Quantum_of_Solace_00.11.46.585-00.11.51.815 	he fires towards bond, hitting a woman, then scrambles over a barrier onto the racetrack.
 1031_Quantum_of_Solace_00.13.16.507-00.13.20.961 	bond follows and fires as the double agent runs out of sight.
+1031_Quantum_of_Solace_00.21.57.472-00.21.59.652 	he grabs her wrist as she fires.
 1031_Quantum_of_Solace_00.44.38.774-00.44.41.364 	he runs through a crowded restaurant and shots are fired taking down a bystander.
 1031_Quantum_of_Solace_01.31.14.146-01.31.16.915 	he fires down and the glass disintegrates.
 1033_Sherlock_Holmes_A_Game_of_Shadows_01.25.19.105-01.25.21.881 	watson fires the cannon at the tower.
+1033_Sherlock_Holmes_A_Game_of_Shadows_01.30.22.741-01.30.33.423 	final adjustments to the barrel elevation are made, and the gun crew chief gives the order to fire.
 1033_Sherlock_Holmes_A_Game_of_Shadows_01.48.34.490-01.48.44.439 	as rene is dragged away, moran surreptitiously shoots him with a hyperemic cartridge fired from a gun hidden in his cane.
 1040_The_Ugly_Truth_01.27.49.886-01.27.51.479 	the balloon fires up.
+1043_Vantage_Point_00.51.41.310-00.51.43.181 	gunshots are fired.
 1043_Vantage_Point_01.16.42.206-01.16.44.925 	barnes fires back as taylor starts the police car.
 1046_Australia_02.20.18.886-02.20.25.221 	they climb the ladder as soldiers fire at magarri, who shoots back.
 1047_Defiance_00.30.06.616-00.30.10.633 	the heavy search light is on ground and picks out tuvia, who fires straight at it, destroying the bulb.
 1047_Defiance_01.22.02.668-01.22.05.956 	benzion fires back, killing two policemen.
+1047_Defiance_01.51.36.511-01.51.37.781 	asael scrambles sideways, firing as he runs.
 1047_Defiance_02.00.24.120-02.00.24.926 	asael fires his gun blind, the smoke obscuring his vision.
 1047_Defiance_02.01.46.173-02.01.46.760 	a tank fires into the undergrowth behind him.
-1047_Defiance_02.02.32.595-02.02.35.597 	his fellow troops look behind them for a split second as guns fire at them from behind a wall of trees.
+1047_Defiance_02.02.03.690-02.02.07.228 	the tank gun fires again, showering them both with gunpowder and debris.
+1047_Defiance_02.02.25.011-02.02.26.183 	the helmeted germans fire in tuvia's direction.
 1047_Defiance_02.02.57.303-02.02.59.053 	as the tank operator fires again, zus clambers up onto the tank and draws his pistol.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.58.16.992-01.58.21.259 	the snatchers fire with their wands and start gaining on them.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.59.04.673-01.59.08.995 	she fires an explosive from her wand, sending a snatcher to the forest floor.
@@ -76,26 +121,30 @@
 1051_Harry_Potter_and_the_goblet_of_fire_02.22.03.578-02.22.08.073 	the galleon on the lake fires a last salute.
 1053_Harry_Potter_and_the_philosophers_stone_00.13.43.076-00.13.44.451 	it fires into the rafters.
 1056_Rambo_00.05.32.143-00.05.41.025 	he fires into the water and pulls out a large fish, which has been skewered by his arrow.
-1056_Rambo_00.22.02.931-00.22.08.742 	with a sullen glare, rambo fires up the boat's motor and adjusts the tiller.
 1056_Rambo_00.28.06.000-00.28.09.173 	the rockets are fired by the army.
+1056_Rambo_00.57.58.514-00.58.00.034 	he fires.
 1056_Rambo_01.06.18.472-01.06.20.437 	the captain signals to his helmsman, who fires up the engine.
+1056_Rambo_01.14.37.365-01.14.44.806 	rambo completes his reload and fires into the remaining troops.
+1056_Rambo_01.15.25.346-01.15.31.432 	the gunner on the boat starts firing on the shore.
 1056_Rambo_01.16.17.618-01.16.19.483 	on the shore, bn fires a loaded bazooka.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.37.26.093-00.37.28.644 	mcgonagall fires a burst of energy.
+1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.43.50.238-01.43.57.406 	hearing movement, he spins, then again he fires, hitting a door frame.
+1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.44.48.883-01.44.55.029 	voldemort spots it and fires at harry, who falls onto a lower staircase.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.48.09.931-01.48.37.013 	on their knees, they fire them at each other.
+1062_Day_the_Earth_stood_still_00.20.37.686-00.20.48.236 	the soldiers fan out to firing positions.
+1062_Day_the_Earth_stood_still_00.22.02.401-00.22.11.648 	as the soldiers prepare to fire, helen keeps moving slowly forwards.
+1062_Day_the_Earth_stood_still_01.14.55.000-01.14.57.000 	as they fire, reverses the energy flow.
+2026_Legion_00.06.35.329-00.06.37.891 	burton re-aims, but michael's faster, already firing back.
+2026_Legion_00.26.40.007-00.26.42.465 	jeep's about to fire, when the old lady's eyes go all white.
 2026_Legion_00.41.25.651-00.41.34.289 	jeep is right behind them ready to fire at the creature, but with the women in the way, he can't get a clear shot.
 2026_Legion_01.07.48.982-01.07.51.230 	kyle fires his gun in the air.
 2026_Legion_01.08.13.140-01.08.15.564 	kyle raises his mp5 to fire upon the dark shapes that surround the vehicle like swarming insects.
-1053_Harry_Potter_and_the_philosophers_stone_00.13.43.076-00.13.44.451 	it fires into the rafters.
-1056_Rambo_00.05.32.143-00.05.41.025 	he fires into the water and pulls out a large fish, which has been skewered by his arrow.
-1056_Rambo_00.22.02.931-00.22.08.742 	with a sullen glare, rambo fires up the boat's motor and adjusts the tiller.
-1056_Rambo_00.28.06.000-00.28.09.173 	the rockets are fired by the army.
-1056_Rambo_01.06.18.472-01.06.20.437 	the captain signals to his helmsman, who fires up the engine.
-1056_Rambo_01.16.17.618-01.16.19.483 	on the shore, bn fires a loaded bazooka.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.37.26.093-00.37.28.644 	mcgonagall fires a burst of energy.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.48.09.931-01.48.37.013 	on their knees, they fire them at each other.
-2026_Legion_00.41.25.651-00.41.34.289 	jeep is right behind them ready to fire at the creature, but with the women in the way, he can't get a clear shot.
-2026_Legion_01.07.48.982-01.07.51.230 	kyle fires his gun in the air.
-2026_Legion_01.08.13.140-01.08.15.564 	kyle raises his mp5 to fire upon the dark shapes that surround the vehicle like swarming insects.
+2026_Legion_01.17.29.530-01.17.32.636 	michael fires again.
+2026_Legion_01.26.01.749-01.26.05.459 	brings it up to fire, but he's too fast!
+2027_Les_Miserables_02.01.41.677-02.01.44.342 	enjolras and the students throw themselves onto the barricades, firing at the attackers, handing their rifles down to others to be re-loaded, firing again.
+2027_Les_Miserables_02.01.53.595-02.01.55.769 	the hard core of student fighters retreat, firing as they go, into the caf musain.
+2034_Super_8_00.31.20.777-00.31.25.163 	martin -- as detective hathaway -- fires a gun -- shooting cary, dressed in a dirty suit, as a man turning into a zombie -- his eyes wide and glossy white -- and as he is hit by the bullets, he slams his hand onto his chest -- blood bursts all over him and he falls painfully to the ground.
+2040_The_Ugly_Truth_01.27.49.004-01.27.51.836 	the torch of the balloon is suddenly fired, covering her fbc violation.
 2051_Harry_Potter_and_the_goblet_of_fire_00.12.42.805-00.12.46.299 	suddenly they are fired on.
 2051_Harry_Potter_and_the_goblet_of_fire_00.30.31.865-00.30.38.920 	the flame fires up and they're flung across the room onto the floor.
-2051_Harry_Potter_and_the_goblet_of_fire_00.56.44.729-00.56.48.575 	the cannon fires immediately.
+2051_Harry_Potter_and_the_goblet_of_fire_00.48.11.662-00.48.18.850 	a huge flame fires up.

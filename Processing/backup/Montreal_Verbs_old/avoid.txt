@@ -1,0 +1,35 @@
+BURLESQUE.srt 	BURLESQUE_DVS718 	01:48:45,00 --> 01:48:49,50 	someone avoids his gaze.
+CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS234 	00:40:42,00 --> 00:41:09,50 	rolling from side to side, someone avoids the bullets but slips off the roof and clings to the cab's passenger side door.
+CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS550 	01:36:43,00 --> 01:36:59,50 	a hydra trooper appears and shoots flamethrowers at someone who ducks into a doorway to avoid the streams of fire.
+COLOMBIANA.srt 	COLOMBIANA_DVS586 	00:55:17,00 --> 00:55:21,50 	someone avoids her gaze.
+COLOMBIANA.srt 	COLOMBIANA_DVS956 	01:32:27,00 --> 01:32:34,50 	he lunges sideways avoiding the projectile which explodes as it hits a wall.
+DEAR_JOHN.srt 	DEAR_JOHN_DVS393 	01:00:53,00 --> 01:00:58,50 	someone smiles briefly, but avoids his gaze.
+DEAR_JOHN.srt 	DEAR_JOHN_DVS668 	01:30:30,00 --> 01:30:35,50 	someone bows his head, avoiding someone's gaze.
+FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS127 	00:33:59,00 --> 00:34:05,50 	central park, each avoiding the others' gaze.
+IN_TIME.srt 	IN_TIME_DVS182 	00:19:42,00 --> 00:19:50,50 	someone's mother looks at the other passengers who either avoid her gaze or turn away with disengaged expressions.
+IN_TIME.srt 	IN_TIME_DVS441 	00:47:25,00 --> 00:47:31,50 	someone smacks his hand away and avoids his gaze.
+ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS361 	01:41:34,00 --> 01:41:43,50 	someone and someone gaze off in different directions avoiding eye contact.
+NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS378 	01:09:30,00 --> 01:09:34,50 	avoiding his gaze she leans forward and has a drink.
+SALT.srt 	SALT_DVS535 	01:31:29,00 --> 01:31:42,50 	the bald man avoids his hostile glare.
+SANCTUM.srt 	SANCTUM_DVS154 	00:32:02,00 --> 00:32:08,50 	someone lifts his head but avoids his son's gaze.
+SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS90 	00:06:34,00 --> 00:06:39,50 	someone timidly avoids her gaze.
+SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS400 	00:26:43,00 --> 00:26:49,50 	avoiding his gaze, she stops struggling and blinks resignedly.
+SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1172 	01:19:24,00 --> 01:19:29,50 	avoiding her imperious gaze,
+SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1228 	01:22:27,00 --> 01:22:32,50 	avoiding everyone else's stare.
+SPARKLE_2012.srt 	SPARKLE_2012_DVS86 	00:13:56,00 --> 00:14:02,50 	he tries to follow her, but ducks behind a wall avoiding someone.
+THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS276 	00:40:11,00 --> 00:40:21,50 	meanwhile avoiding the gunfire someone drops to a lower level, then kicks a thug down a staircase.
+THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS241 	00:46:43,00 --> 00:46:48,50 	someone glances at him but he avoids her gaze.
+THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS281 	00:54:23,00 --> 00:54:30,50 	with glistening eyes, someone looks up at someone who avoids his gaze.
+THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS426 	01:20:17,00 --> 01:20:22,50 	she avoids someone's gaze.
+THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS77 	00:07:11,00 --> 00:07:21,50 	dressed in black with a matching leather jacket she enters avoiding their gaze and takes a seat at the far end of the conference table.
+THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS307 	00:36:24,00 --> 00:36:29,50 	avoiding his gaze, someone clenches her jaw.
+THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS369 	00:45:32,00 --> 00:45:38,50 	as he stares down at her she continues to avoid his gaze.
+THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS438 	00:52:12,00 --> 00:52:17,50 	someone avoids his gaze.
+THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS447 	00:52:51,00 --> 00:52:57,50 	perched on the bed's footboard, someone avoids his gaze.
+THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS598 	01:05:53,00 --> 01:05:58,50 	he avoids her gaze.
+THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1113 	01:56:40,00 --> 01:56:46,50 	someone avoids his gaze.
+THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS127 	00:46:59,00 --> 00:47:06,50 	he sulks and avoids her gaze, shaking his head slightly.
+THE_SITTER.srt 	THE_SITTER_DVS128 	01:09:53,00 --> 01:09:59,50 	she wakes up and glances outside, avoiding someone's gaze.
+THE_WATCH.srt 	THE_WATCH_DVS249 	00:46:44,00 --> 00:46:51,50 	avoiding someone's gaze, someone sips his beer, smacks his lips, and shrugs.
+THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS363 	01:07:16,00 --> 01:07:22,50 	avoiding eye contact, someone nods tensely.
+TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS153 	00:19:09,00 --> 00:19:14,50 	someone accepts the wand and avoids someone's wing.

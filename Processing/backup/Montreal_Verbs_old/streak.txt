@@ -1,0 +1,4 @@
+CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS647 	01:48:48,00 --> 01:48:59,50 	in trafalgar square, planes streak over cheering crowds waving british flags.
+DISTRICT_9.srt 	DISTRICT_9_DVS383 	00:41:49,00 --> 00:41:55,50 	streaked with the alien's blood, someone jerks back and forth numbly.
+KARATE_KID.srt 	KARATE_KID_DVS226 	00:19:42,00 --> 00:19:52,50 	later, shadows streak the concrete, as someone remains sprawled across a free-throw line, a chalk circle framing his form.
+XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1272 	01:54:41,00 --> 01:54:46,50 	streaking the sky with lines of smoke.

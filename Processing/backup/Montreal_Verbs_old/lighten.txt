@@ -1,0 +1,3 @@
+GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS102 	00:15:49,00 --> 00:16:04,50 	lightening casts a glow on the mustached thug as he holds his shotgun ready.
+LIFE_OF_PI.srt 	LIFE_OF_PI_DVS911 	01:31:25,00 --> 01:31:33,50 	the darkness rapidly lightens to a shimmering and opaque surface with reflected grey clouds.
+NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS83 	00:18:18,00 --> 00:18:22,50 	above the house lightening flashes.

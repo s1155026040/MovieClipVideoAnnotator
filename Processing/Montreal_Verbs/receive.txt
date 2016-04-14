@@ -1,17 +1,10 @@
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS356 	00:59:18,00 --> 00:59:23,50 	he receives a text from someone.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS715 	01:12:24,00 --> 01:12:31,50 	as they separate, someone glances over and receives a slight nod from his dad.
-BAD_TEACHER.srt 	BAD_TEACHER_DVS254 	01:08:49,00 --> 01:08:59,50 	she opens his mouth to receive his approaching lips but he detours upwards and plants a kiss on her forehead
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS398 	01:12:29,00 --> 01:12:35,50 	a daily mail billboard reads, captain america to receive medal for valor.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS256 	00:40:07,00 --> 00:40:14,50 	now someone receives another.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS269 	00:42:26,00 --> 00:42:33,50 	in a flashback, a boy receives a handful of change from an ice-cream vendor.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS429 	01:04:10,00 --> 01:04:18,50 	someone heads over and receives a mailbag.
 FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS218 	00:57:55,00 --> 00:58:15,50 	on his way to a cab, someone receives the photo.
-FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS339 	01:29:42,00 --> 01:30:01,50 	as he goes to open it, he notices the note he received with the gift basket of sheets.
-IN_TIME.srt 	IN_TIME_DVS597 	01:03:59,00 --> 01:04:06,50 	grinning, someone clasps someone's right wrist and twists it into receiving position.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS203 	00:38:59,00 --> 00:39:04,50 	now someone receives more food items.
-JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS222 	01:17:09,00 --> 01:17:19,50 	she receives a text from him reading, i think they took one of your yellow bombers.
 JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS223 	01:17:16,00 --> 01:17:25,50 	someone receives her reply.
-NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS411 	01:25:54,00 --> 01:26:03,50 	someone receives the scissors and inspects them.
 NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS210 	00:35:51,00 --> 00:35:59,50 	at work someone receives a text.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS25 	00:05:28,00 --> 00:05:35,50 	girl receives it.
 THE_CALL.srt 	THE_CALL_DVS712 	00:54:26,00 --> 00:54:31,50 	someone receives the call.

@@ -1,0 +1,4 @@
+COLOMBIANA.srt 	COLOMBIANA_DVS174 	00:15:20,00 --> 00:15:31,50 	rounding a corner, she navigates a labyrinth of alleyways.
+KARATE_KID.srt 	KARATE_KID_DVS470 	00:41:37,00 --> 00:42:00,50 	half the boys acrobatically navigate the roof.
+MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS128 	00:20:25,00 --> 00:20:34,50 	someone lies on his couch with a laptop and navigates a website called, the penguin recipe page.
+THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1270 	02:13:40,00 --> 02:13:44,50 	and navigates a shopping site.

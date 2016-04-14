@@ -3,51 +3,22 @@ A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS224 	00:43:36,00 --> 00:43:41,50 	some
 BLINDDATING.srt 	BLINDDATING_DVS308 	01:15:30,00 --> 01:15:41,50 	and squeezes him close in his arms.
 BRUNO.srt 	BRUNO_DVS16 	00:03:21,00 --> 00:03:25,50 	he squeezes between two people at a show.
 COLOMBIANA.srt 	COLOMBIANA_DVS109 	00:08:55,00 --> 00:09:00,50 	her eyes squeeze shut in agony.
-COLOMBIANA.srt 	COLOMBIANA_DVS401 	00:35:46,00 --> 00:35:53,50 	in the duct, someone slides her chest between the blades then squeezes her arms down her to side.
-COLOMBIANA.srt 	COLOMBIANA_DVS1002 	01:35:31,00 --> 01:35:38,50 	someone squeezes his eyes closed as her bullets hit the floor near his feet.
 COLOMBIANA.srt 	COLOMBIANA_DVS1062 	01:39:29,00 --> 01:39:36,50 	and squeezes between the armored truck and a wall, side swiping both on his way through.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS323 	00:50:07,00 --> 00:50:13,50 	someone squeezes his brow.
 EASY_A.srt 	EASY_A_DVS167 	00:53:36,00 --> 00:53:45,50 	someone squeezes his arm and murmurs.
-HUGO.srt 	HUGO_DVS52 	00:06:12,00 --> 00:06:22,50 	the shopkeeper squeezes his eyes shut.
-IN_TIME.srt 	IN_TIME_DVS210 	00:22:01,00 --> 00:22:07,50 	with his eyes squeezed shut, he tilts his face skyward.
 IN_TIME.srt 	IN_TIME_DVS735 	01:18:13,00 --> 01:18:17,50 	someone squeezes past his men and jumps from the window.
 IN_TIME.srt 	IN_TIME_DVS736 	01:18:17,00 --> 01:18:23,50 	someone squeezes past his men and jumps from the window.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS151 	00:50:12,00 --> 00:50:17,50 	she squeezes water out of a washcloth.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS336 	01:04:47,00 --> 01:04:52,50 	he squeezes her close.
-KARATE_KID.srt 	KARATE_KID_DVS481 	00:43:31,00 --> 00:43:36,50 	someone grits his teeth and squeezes his eyes shut.
 KNOCKED_UP.srt 	KNOCKED_UP_DVS54 	00:33:18,00 --> 00:33:25,50 	the doctor squeezes gel onto the end of a wand.
 LAND_OF_THE_LOST.srt 	LAND_OF_THE_LOST_DVS188 	01:06:43,00 --> 01:06:51,50 	someone squeezes a humongous lemon wedge over someone's piece, then adds some juice to his own.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS475 	00:53:20,00 --> 00:53:30,50 	as the tiger climbs onto the canvas, someone curls up in a fetal position with his back to him and squeezes his eyes shut.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS835 	01:24:49,00 --> 01:24:57,50 	the whale frantically swims about with the flailing squid squeezing its long tentacles.
-LITTLE_FOCKERS.srt 	LITTLE_FOCKERS_DVS73 	00:26:36,00 --> 00:26:43,50 	he squeezes the back of someone's neck and the boy goes limp, his eyes closed.
-NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS374 	01:19:21,00 --> 01:19:38,50 	someone squeezes her eyes shut.
 NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS528 	01:38:14,00 --> 01:38:18,50 	they squeeze each other tight and kiss tenderly.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS57 	00:16:14,00 --> 00:16:25,50 	someone winces, squeezing his eyes shut, then lifts his head.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS153 	00:38:16,00 --> 00:38:35,50 	she squeezes it.
-SALT.srt 	SALT_DVS434 	01:15:01,00 --> 01:15:12,50 	squeezing between them, she slides down like an elevator on its tracks.
-SANCTUM.srt 	SANCTUM_DVS137 	00:29:06,00 --> 00:29:15,50 	he squeezes his eyes shut.
-SANCTUM.srt 	SANCTUM_DVS332 	01:06:18,00 --> 01:06:27,50 	someone squeezes someone's shoulder then leaves his side.
-SANCTUM.srt 	SANCTUM_DVS388 	01:16:50,00 --> 01:16:54,50 	squeezes his eyes shut.
-SANCTUM.srt 	SANCTUM_DVS548 	01:40:52,00 --> 01:40:58,50 	as someone squeezes through a small opening, he raises the canister valve.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS73 	00:05:32,00 --> 00:05:38,50 	she brings the back of her hand to her mouth and squeezes her eyes shut.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS193 	00:14:01,00 --> 00:14:10,50 	in another home, a woman squeezes a little girl's toes together as she tightly wraps a bandage around the child's foot.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1382 	01:34:08,00 --> 01:34:15,50 	she gently squeezes someone's fingers as she gazes at the ailing woman.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1476 	01:39:30,00 --> 01:39:35,50 	her eyes still closed, squeezes her sister's hands.
-SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS478 	01:41:04,00 --> 01:41:11,50 	someone wraps the necklace around someone's hand and squeezes his fist.
-SUPER_8.srt 	SUPER_8_DVS639 	01:42:55,00 --> 01:43:01,50 	someone closes his hand around someone's hand then squeezes.
-THE_CALL.srt 	THE_CALL_DVS666 	00:52:00,00 --> 00:52:06,50 	she squeezes her shoulders through and sees the kidnapper with his back turned.
 THE_CALL.srt 	THE_CALL_DVS851 	01:04:42,00 --> 01:04:50,50 	someone tries squeezing her left hand out from the thick restraint strap as someone trims a little of her hair.
-THE_CALL.srt 	THE_CALL_DVS856 	01:05:08,00 --> 01:05:14,50 	the killer turns away and someone squeezes her left hand free from the wrist restraint.
-THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS56 	00:15:48,00 --> 00:15:54,50 	someone stares at his mom for a moment, then squeezes his eyes shut.
-THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS251 	01:37:35,00 --> 01:37:41,50 	someone squeezes his eye shut, swallows, and shakes his head.
 THE_WATCH.srt 	THE_WATCH_DVS105 	00:14:28,00 --> 00:14:33,50 	the three guys squeeze together on the couch.
 THE_WATCH.srt 	THE_WATCH_DVS198 	00:36:12,00 --> 00:36:17,50 	someone squeezes it near his ear.
 THE_WATCH.srt 	THE_WATCH_DVS497 	01:28:29,00 --> 01:28:34,50 	someone's hand squeezes.
-TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS369 	00:40:26,00 --> 00:40:36,50 	someone squeezes his eyes shut and pushes the magic generator button on his wand.
-TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS644 	01:11:22,00 --> 01:11:27,50 	someone squeezes his eyes shut,
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS431 	00:52:55,00 --> 00:53:00,50 	someone smiles at someone and squeezes his arm.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS118 	00:07:46,00 --> 00:07:53,50 	on the desk, the brass bell crumples as if squeezed by an unseen force.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS165 	00:12:23,00 --> 00:12:28,50 	now toothpaste squeezes out on a toothbrush.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS233 	00:17:54,00 --> 00:17:59,50 	she squeezes past more gawking men.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS649 	00:59:40,00 --> 00:59:45,50 	making it squeeze even tighter.
-ZOMBIELAND.srt 	ZOMBIELAND_DVS172 	00:17:06,00 --> 00:17:11,50 	she squeezes in and chases him to a bathroom.

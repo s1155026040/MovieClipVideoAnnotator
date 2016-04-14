@@ -1,18 +1,6 @@
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS190 	00:25:42,00 --> 00:26:00,50 	someone resumes his struggle to free himself as stibble sharpens the blade against the porcelain bowl's ornate rim.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS192 	00:26:11,00 --> 00:26:25,50 	someone falls to the floor, frees his wrists and retrieves his ax.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS393 	00:55:20,00 --> 00:55:46,50 	as he finishes the vampire off, someone frees himself and fights off his captor.
 IN_TIME.srt 	IN_TIME_DVS816 	01:26:33,00 --> 01:27:01,50 	someone struggles futilely to free himself, then eyes his rapidly depleting balance.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS658 	01:50:11,00 --> 01:50:19,50 	someone soars over and hits the back of someone's helmet, freeing someone.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS319 	00:39:56,00 --> 00:40:01,50 	the buddhist struggles to free a lifeboat carrying the cook.
-NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS413 	01:26:22,00 --> 01:26:34,50 	he frees up a hand and grabs a shaker off the table to season his eggs.
-PROMETHEUS.srt 	PROMETHEUS_DVS783 	01:24:11,00 --> 01:24:17,50 	flailing its tentacles it tries to free itself from the forceps' grip.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS81 	00:21:45,00 --> 00:21:50,50 	someone hammers pegs out of the stocks, freeing the man.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS258 	00:59:51,00 --> 01:00:06,50 	freed from the garment, he straightens and faces her bare chested.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS365 	00:55:06,00 --> 00:55:16,50 	in the back, one of the captured pilots frees himself, then unties his partner.
-THE_CALL.srt 	THE_CALL_DVS859 	01:05:18,00 --> 01:05:24,50 	he falls back and she frees her other hand.
 THE_CALL.srt 	THE_CALL_DVS1148 	01:26:17,00 --> 01:26:24,50 	someone fights to free himself from the chair in his own makeshift operating room.
 THOR.srt 	THOR_DVS597 	01:31:35,00 --> 01:31:43,50 	someone bursts free in a shower of ice crystals then quickly kills two frost giants guarding him.
-TRUE_GRIT.srt 	TRUE_GRIT_DVS469 	01:31:21,00 --> 01:31:26,50 	and he struggles in vain to free himself.
-TRUE_GRIT.srt 	TRUE_GRIT_DVS491 	01:32:57,00 --> 01:33:02,50 	she tries to free her foot but cannot.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1162 	01:43:40,00 --> 01:43:45,50 	someone frees someone from her chair.
-ZOMBIELAND.srt 	ZOMBIELAND_DVS178 	00:17:29,00 --> 00:17:39,50 	he sprays her with an aerosol can and frees himself from her grasp.

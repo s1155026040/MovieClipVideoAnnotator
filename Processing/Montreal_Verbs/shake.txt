@@ -1,6 +1,5 @@
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS214 	00:36:28,00 --> 00:36:37,50 	as the undercover cops shake their heads, a rapid series of explosive and disturbing images fill our view.
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS378 	01:03:54,00 --> 01:03:58,50 	he shakes her hand.
-21_JUMP_STREET.srt 	21_JUMP_STREET_DVS547 	01:24:33,00 --> 01:24:38,50 	she leaves and he shakes his head.
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS672 	01:41:45,00 --> 01:41:51,50 	shaking it, someone grins.
 30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS172 	00:45:02,00 --> 00:45:07,50 	he shakes an empty bottle.
 30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS295 	01:07:14,00 --> 01:07:21,50 	he pours the rubbing alcohol on his neck wound, then grimaces and shakes his head.
@@ -9,31 +8,23 @@
 500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS185 	00:32:12,00 --> 00:32:19,50 	he daps and slaps with a couple of guys he meets on his sunny walk to work, shakes a lot of hands, and is wreathed in smiles.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS239 	00:19:45,00 --> 00:19:50,50 	glaring, someone shakes his head.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS414 	00:39:49,00 --> 00:39:54,50 	someone heaves a regretful sigh and shakes his head as someone eavesdrops unnoticed.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS632 	01:05:36,00 --> 01:05:41,50 	he opens his mouth and shakes it.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS638 	01:06:08,00 --> 01:06:14,50 	the two men shake hands.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS780 	01:17:59,00 --> 01:18:04,50 	someone smirks at someone as someone shakes his head.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS22 	00:04:07,00 --> 00:04:15,50 	shaking the bearded doctor's hand, someone leaves.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS45 	00:12:54,00 --> 00:12:58,50 	someone shakes it.
-A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS50 	00:15:11,00 --> 00:15:16,50 	someone looks away, shakes his head then faces his mother.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS132 	00:28:39,00 --> 00:28:46,50 	someone shakes his head.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS181 	00:34:16,00 --> 00:34:22,50 	at the office, someone shakes his legs and dances in place.
-A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS188 	00:35:17,00 --> 00:35:23,50 	they walk to a table, where a bearded man stands and shakes someone's hand.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS189 	00:35:28,00 --> 00:35:33,50 	someone shakes black haired gil's hand, then gestures to someone.
-A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS215 	00:41:33,00 --> 00:41:38,50 	someone shakes his fists and walks into the backyard.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS246 	00:47:34,00 --> 00:47:42,50 	someone points at his own throat then shakes his head.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS291 	00:53:43,00 --> 00:53:47,50 	someone shakes his head.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS356 	01:01:33,00 --> 01:01:38,50 	young someone shakes food of his fork.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS365 	01:03:20,00 --> 01:03:26,50 	someone shakes a snow globe, then sets it in front of someone.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS367 	01:03:56,00 --> 01:04:00,50 	someone shakes his head and shrugs.
-A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS369 	01:04:33,00 --> 01:04:38,50 	he looks down and shakes his head slightly.
-A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS434 	01:14:42,00 --> 01:14:48,50 	someone holds up his hands and shakes his head, then leaves.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS448 	01:16:42,00 --> 01:16:46,50 	he shakes his head.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS488 	01:24:00,00 --> 01:24:04,50 	someone shakes someone's hand.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS161 	00:21:22,00 --> 00:21:34,50 	someone turns the thiefs inside out coat back the right way then shakes out the wrinkles.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS260 	00:38:06,00 --> 00:38:13,50 	someone climbs into his carriage then shakes someone's hand.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS321 	00:46:19,00 --> 00:46:23,50 	someone shakes his head.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS349 	00:49:42,00 --> 00:49:46,50 	someone shakes someone's hand.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS602 	01:23:09,00 --> 01:23:40,50 	someone gives him a bullet then shakes his hand.
 BAD_TEACHER.srt 	BAD_TEACHER_DVS29 	00:11:35,00 --> 00:11:40,50 	someone shakes her head.
 BAD_TEACHER.srt 	BAD_TEACHER_DVS114 	00:30:37,00 --> 00:30:42,50 	someone shakes her head.
 BAD_TEACHER.srt 	BAD_TEACHER_DVS169 	00:46:34,00 --> 00:46:39,50 	someone shakes her head.
@@ -42,7 +33,6 @@ BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS198 	00:
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS237 	00:38:46,00 --> 00:38:52,50 	someone shakes his head, then waves to catch his attention.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS280 	00:47:59,00 --> 00:48:06,50 	someone reluctantly shakes it.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS423 	01:07:52,00 --> 01:07:56,50 	someone shakes his head.
-BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS486 	01:15:18,00 --> 01:15:23,50 	someone shakes his head and holds his heart.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS643 	01:38:41,00 --> 01:38:46,50 	he shakes his padded someone suit to the floor.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS658 	01:40:32,00 --> 01:40:36,50 	someone shakes his hand.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS669 	01:41:44,00 --> 01:41:50,50 	they shake hands, hug, then head to someone's suv.
@@ -57,12 +47,10 @@ BRUNO.srt 	BRUNO_DVS88 	00:19:26,00 --> 00:19:30,50 	someone shakes his head and
 BRUNO.srt 	BRUNO_DVS107 	00:23:27,00 --> 00:23:32,50 	the candidate shakes his head.
 BRUNO.srt 	BRUNO_DVS117 	00:26:25,00 --> 00:26:36,50 	someone shakes his head back and forth as he strokes someone's invisible member.
 BRUNO.srt 	BRUNO_DVS212 	00:58:43,00 --> 00:58:49,50 	offers his limp hand to one of three hunters, and the man shakes it.
-BRUNO.srt 	BRUNO_DVS265 	01:15:30,00 --> 01:15:35,50 	he shakes his head, then walks out.
 BURLESQUE.srt 	BURLESQUE_DVS94 	00:10:36,00 --> 00:10:44,50 	then she returns her eyes to the stage where the dancers shake their hips.
 BURLESQUE.srt 	BURLESQUE_DVS209 	00:30:48,00 --> 00:30:52,50 	someone shakes her head.
 BURLESQUE.srt 	BURLESQUE_DVS237 	00:34:14,00 --> 00:34:28,50 	someone softly shakes his head to himself.
 BURLESQUE.srt 	BURLESQUE_DVS239 	00:34:27,00 --> 00:34:36,50 	a smiling someone points her knees and pops out her hands, then swings her arms, shakes her hips, and whips her hair back.
-BURLESQUE.srt 	BURLESQUE_DVS260 	00:36:50,00 --> 00:37:02,50 	the newest dancer runs her hands through her hair and shakes her hips.
 BURLESQUE.srt 	BURLESQUE_DVS322 	00:44:31,00 --> 00:44:35,50 	averting his gaze, someone shakes his head.
 BURLESQUE.srt 	BURLESQUE_DVS349 	00:47:53,00 --> 00:48:00,50 	someone smiles and shakes her head.
 BURLESQUE.srt 	BURLESQUE_DVS391 	00:54:17,00 --> 00:54:24,50 	bending forward, she shakes her rear and the feathers on her short skirt flutter.
@@ -72,46 +60,32 @@ BURLESQUE.srt 	BURLESQUE_DVS590 	01:27:25,00 --> 01:27:31,50 	someone spins arou
 BURLESQUE.srt 	BURLESQUE_DVS678 	01:45:13,00 --> 01:45:17,50 	he shakes his head at the check.
 BURLESQUE.srt 	BURLESQUE_DVS750 	01:53:31,00 --> 01:53:38,50 	as they shake their butts at the audience, someone imitates them and someone grins.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS89 	00:14:10,00 --> 00:14:16,50 	someone stares at someone, then shakes his head as he backs away.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS101 	00:15:45,00 --> 00:15:51,50 	someone shakes rogers' hands then opens a folder.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS404 	01:13:47,00 --> 01:13:52,50 	someone shakes dernier's hand and turns to the others.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS527 	01:34:39,00 --> 01:34:44,50 	someone smiles and shakes his head.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS39 	00:02:50,00 --> 00:02:56,50 	he tries to shake the salty water off his face.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS163 	00:12:58,00 --> 00:13:04,50 	he holds on, shaking his drenched head, and keeps paddling.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS165 	00:13:05,00 --> 00:13:10,50 	he shakes it off again and keeps paddling.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS168 	00:13:17,00 --> 00:13:21,50 	the round faced boy shakes his head.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS307 	00:25:17,00 --> 00:25:22,50 	shaking his head, the teen turns away and heads home.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS367 	00:34:42,00 --> 00:34:47,50 	he pops up and shakes out his curls.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS368 	00:34:46,00 --> 00:34:51,50 	someone shakes his head and faces the sea.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS391 	00:36:51,00 --> 00:36:57,50 	someone shakes out a cup, then fills it with coffee and shifts his anxious gaze.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS417 	00:39:17,00 --> 00:39:23,50 	someone shakes his head, wearing a slight grin on his weathered face.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS491 	00:47:40,00 --> 00:47:45,50 	slack jawed, someone closes his eyes and shakes his head.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS578 	00:56:09,00 --> 00:56:14,50 	surfacing, he shakes out his curls.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS605 	00:58:20,00 --> 00:58:27,50 	someone seethes on his board as someone joyfully surfaces and shakes his hair out.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS698 	01:07:44,00 --> 01:07:49,50 	someone surfaces with someone and shakes his hair out.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS767 	01:16:32,00 --> 01:16:36,50 	someone shakes his head.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS812 	01:20:14,00 --> 01:20:19,50 	someone looks around anxiously and shakes water from his hair.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS986 	01:36:37,00 --> 01:36:43,50 	as he pounds on the cabin, a veteran surfer shakes his head.
 CHRONICLE.srt 	CHRONICLE_DVS522 	01:14:17,00 --> 01:14:26,50 	as someone tries to prop himself up on his elbows, someone shakes both fists overhead in a primal scream.
-CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS72 	00:14:14,00 --> 00:14:20,50 	facing her husband, someone shakes her head.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS82 	00:15:12,00 --> 00:15:19,50 	arms shaking, someone glances down at him and swallows.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS123 	00:28:02,00 --> 00:28:06,50 	she shakes her head.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS211 	00:43:52,00 --> 00:43:57,50 	he shakes his head.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS226 	00:47:16,00 --> 00:47:19,50 	they shake hands.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS228 	00:48:27,00 --> 00:48:32,50 	as someone stops, someone shakes his head.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS288 	01:09:08,00 --> 01:09:12,50 	someone shakes his head.
-CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS293 	01:10:18,00 --> 01:10:23,50 	mrs. gould looks away, smiles, and shakes her head.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS409 	01:38:39,00 --> 01:38:49,50 	at the bar, baer stands and shakes someone's hand.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS544 	02:08:06,00 --> 02:08:17,50 	in a grainy blurred focused view from someone's corner, someone rubs his head and shakes his arms down.
 COLOMBIANA.srt 	COLOMBIANA_DVS131 	00:11:13,00 --> 00:11:17,50 	she shakes her head.
 COLOMBIANA.srt 	COLOMBIANA_DVS300 	00:25:48,00 --> 00:25:53,50 	eating her breakfast, the little girl shakes her head.
-COLOMBIANA.srt 	COLOMBIANA_DVS405 	00:36:01,00 --> 00:36:07,50 	the policeman finds the plastic cup and shakes his head at it.
-COLOMBIANA.srt 	COLOMBIANA_DVS659 	01:01:52,00 --> 01:01:57,50 	someone shakes his head as he turns to face her.
 COLOMBIANA.srt 	COLOMBIANA_DVS913 	01:27:00,00 --> 01:27:05,50 	she shakes her head with a sorrowful childlike pout
-COLOMBIANA.srt 	COLOMBIANA_DVS1071 	01:40:52,00 --> 01:40:57,50 	a view from outside shows the van shaking.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS31 	00:03:53,00 --> 00:03:58,50 	the smiling woman shakes her drenched bag.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS107 	00:15:43,00 --> 00:15:48,50 	he bashfully shakes it.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS273 	00:42:44,00 --> 00:42:51,50 	someone studies the coin and shakes his head.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS303 	00:47:12,00 --> 00:47:19,50 	later in a conference room, he shakes hands with two soldiers then grabs his bag.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS399 	01:01:28,00 --> 01:01:35,50 	someone shakes it.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS468 	01:08:26,00 --> 01:08:35,50 	clenching his jaw, someone shakes his head, as he continues to toss letters into the flames.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS568 	01:20:52,00 --> 01:20:57,50 	he resolutely shakes his head.
@@ -130,7 +104,6 @@ EASY_A.srt 	EASY_A_DVS173 	00:55:28,00 --> 00:55:32,50 	someone shakes her head.
 EASY_A.srt 	EASY_A_DVS246 	01:13:53,00 --> 01:13:58,50 	she shakes her head, wincing tearfully.
 EASY_A.srt 	EASY_A_DVS248 	01:16:02,00 --> 01:16:08,50 	knitting her brow, she shakes her head.
 EASY_A.srt 	EASY_A_DVS264 	01:19:55,00 --> 01:20:01,50 	someone's jaw drops and she shakes her head.
-FLIGHT.srt 	FLIGHT_DVS162 	00:34:23,00 --> 00:34:29,50 	then shakes his head, and takes his cell phone from the plastic bag.
 FLIGHT.srt 	FLIGHT_DVS182 	00:39:38,00 --> 00:39:42,50 	she shakes her head.
 FLIGHT.srt 	FLIGHT_DVS186 	00:41:39,00 --> 00:41:43,50 	she shakes her head.
 FLIGHT.srt 	FLIGHT_DVS880 	01:43:26,00 --> 01:43:30,50 	they shake hands.
@@ -139,47 +112,35 @@ FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS301 	01:20:27,00 --> 01:20:3
 GET_HIM_TO_THE_GREEK.srt 	GET_HIM_TO_THE_GREEK_DVS16 	00:09:16,00 --> 00:09:21,50 	the sleazy man shakes his head.
 GET_HIM_TO_THE_GREEK.srt 	GET_HIM_TO_THE_GREEK_DVS46 	00:29:26,00 --> 00:29:36,50 	someone blinks then arches his brow and shakes his head.
 GET_HIM_TO_THE_GREEK.srt 	GET_HIM_TO_THE_GREEK_DVS140 	01:23:09,00 --> 01:23:18,50 	someone shakes his head.
-GET_HIM_TO_THE_GREEK.srt 	GET_HIM_TO_THE_GREEK_DVS171 	01:31:40,00 --> 01:31:46,50 	someone gazes down at him sympathetically, then shakes his head.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS162 	00:25:20,00 --> 00:25:25,50 	someone shakes his head.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS184 	00:29:40,00 --> 00:29:45,50 	someone shakes loose of his grasp and follows someone.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS205 	00:32:45,00 --> 00:32:50,50 	cringing, someone shakes his head.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS209 	00:33:26,00 --> 00:33:33,50 	he shakes his head and the socket reverts to human form.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS276 	00:42:42,00 --> 00:43:07,50 	he shakes himself out of the daze.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS319 	00:48:33,00 --> 00:48:38,50 	someone shakes his head.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS332 	00:50:20,00 --> 00:50:32,50 	it pulls up beside then passes someone who shakes his head at someone.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS522 	01:14:23,00 --> 01:14:33,50 	someone creeps closer and shakes his head wrathfully.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS536 	01:16:11,00 --> 01:16:26,50 	someone looks on as someone shakes the rot off his face and out of his hair and mouth.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS52 	00:11:45,00 --> 00:11:49,50 	someone shakes hands.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS115 	00:27:49,00 --> 00:28:09,50 	a man with a briefcase shakes the general's hand.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS305 	01:09:54,00 --> 01:10:02,50 	someone shakes his head and backs away, summoning a quavering breath.
 GROWN_UPS.srt 	GROWN_UPS_DVS62 	00:18:41,00 --> 00:18:46,50 	someone shakes his head.
 HUGO.srt 	HUGO_DVS53 	00:07:00,00 --> 00:07:06,50 	the man shakes the notebook in the boy's face then frowns and slaps it onto the counter.
 HUGO.srt 	HUGO_DVS188 	00:26:56,00 --> 00:27:01,50 	sobs shake someone's shoulders.
-HUGO.srt 	HUGO_DVS201 	00:30:27,00 --> 00:30:33,50 	someone shakes someone's shoulder, smiles, and leaves.
-HUGO.srt 	HUGO_DVS420 	01:01:37,00 --> 01:01:42,50 	someone turns to someone, who shakes her head.
 HUGO.srt 	HUGO_DVS426 	01:02:29,00 --> 01:02:34,50 	someone shakes his head and shrugs.
-HUGO.srt 	HUGO_DVS646 	01:32:52,00 --> 01:32:58,50 	someone sits with her mouth open then shakes her head and smiles.
 HUGO.srt 	HUGO_DVS771 	01:51:46,00 --> 01:51:50,50 	someone shakes his head.
 IN_TIME.srt 	IN_TIME_DVS103 	00:11:20,00 --> 00:11:25,50 	he shuts his eyes and shakes his head.
 IN_TIME.srt 	IN_TIME_DVS105 	00:11:30,00 --> 00:11:34,50 	he shakes his head again.
 IN_TIME.srt 	IN_TIME_DVS512 	00:55:07,00 --> 00:55:12,50 	shaking his head, someone moves away from someone.
 IN_TIME.srt 	IN_TIME_DVS621 	01:06:22,00 --> 01:06:26,50 	the chauffeur shakes his head.
-IN_TIME.srt 	IN_TIME_DVS775 	01:21:45,00 --> 01:21:50,50 	shaking his head, someone turns away.
 IN_TIME.srt 	IN_TIME_DVS789 	01:23:11,00 --> 01:23:16,50 	someone's eyes widen and he shakes his head.
-IN_TIME.srt 	IN_TIME_DVS806 	01:25:49,00 --> 01:25:55,50 	someone looks to someone, who shakes her head with wide eyes.
 IN_TIME.srt 	IN_TIME_DVS870 	01:31:40,00 --> 01:31:47,50 	someone watches as he exits the vault with the capsule and shakes his head.
-IN_TIME.srt 	IN_TIME_DVS935 	01:38:44,00 --> 01:38:51,50 	shaking his head, someone gives an outraged smile.
 IN_TIME.srt 	IN_TIME_DVS977 	01:42:33,00 --> 01:42:37,50 	he shakes his head.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS309 	01:32:51,00 --> 01:32:57,50 	someone shakes off his hand.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS357 	01:43:23,00 --> 01:43:28,50 	someone smiles and shakes his hand.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS362 	01:44:53,00 --> 01:45:05,50 	inside, someone shakes a judge's hand.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS70 	00:12:07,00 --> 00:12:13,50 	someone glances back at pepper potts's blond assistant, who shakes her head.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS75 	00:13:42,00 --> 00:13:51,50 	someone stands, approaches someone, and shakes his hand.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS111 	00:22:07,00 --> 00:22:12,50 	shaking her head, she smiles.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS180 	00:33:44,00 --> 00:34:06,50 	someone, with a bloody gash under his left eye, shakes his head.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS314 	00:57:16,00 --> 00:57:28,50 	someone picks up a barbell, shakes off the weights and hits someone with the metal bar.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS362 	01:08:09,00 --> 01:08:13,50 	someone shakes his head.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS365 	01:09:13,00 --> 01:09:19,50 	someone shakes his head at agent someone, a brown-haired man wearing a black suit.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS467 	01:25:29,00 --> 01:25:34,50 	they shake hands.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS699 	01:55:42,00 --> 01:55:47,50 	someone stands and shakes someone's hand.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS25 	00:06:56,00 --> 00:07:28,50 	shaking her head she strolls over.
@@ -190,8 +151,6 @@ ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS56 	00:16:25,00 --> 00:16:29,50 	someone
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS101 	00:30:47,00 --> 00:30:52,50 	someone heads off, someone shakes her head.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS150 	00:49:44,00 --> 00:49:54,50 	smiles and shakes her head.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS171 	00:54:30,00 --> 00:54:37,50 	shaking her head she lifts her hands.
-ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS190 	01:00:07,00 --> 01:00:16,50 	then shakes her head, takes a breath, and steps out from behind the bed.
-ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS200 	01:00:52,00 --> 01:00:57,50 	someone stares admiring and shakes his head.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS210 	01:03:16,00 --> 01:03:20,50 	he hugs her and shakes her.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS216 	01:04:16,00 --> 01:04:21,50 	smiling, someone shakes his head.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS294 	01:25:24,00 --> 01:25:29,50 	someone disbelievingly shakes her head.
@@ -206,7 +165,6 @@ JACK_AND_JILL.srt 	JACK_AND_JILL_DVS165 	00:33:13,00 --> 00:33:20,50 	a slack-ja
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS30 	00:03:24,00 --> 00:03:31,50 	the young woman glances at her companion, and with a grin, shakes her head of short red hair.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS103 	00:16:31,00 --> 00:16:36,50 	someone shakes a tums into his hand.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS171 	00:31:28,00 --> 00:31:33,50 	madame someone shakes her head.
-JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS176 	00:33:07,00 --> 00:33:13,50 	with an amused smile, someone shakes his head and leaves.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS179 	00:33:24,00 --> 00:33:37,50 	someone adds beaten eggs and shakes her pan back and forth over a gas flame.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS408 	01:18:49,00 --> 01:18:54,50 	someone shakes her head, her lips pursed in a frown.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS466 	01:30:17,00 --> 01:30:21,50 	someone shakes her head.
@@ -228,33 +186,25 @@ KARATE_KID.srt 	KARATE_KID_DVS1414 	01:54:12,00 --> 01:54:17,50 	master someone 
 KATY_PERRY_PART_OF_ME.srt 	KATY_PERRY_PART_OF_ME_DVS111 	00:26:56,00 --> 00:27:07,50 	smiling wide, someone shakes her shoulders then falls sideways and sticks one leg in the air.
 KATY_PERRY_PART_OF_ME.srt 	KATY_PERRY_PART_OF_ME_DVS145 	00:40:45,00 --> 00:40:50,50 	someone's mother smiles and shakes her head.
 KNOCKED_UP.srt 	KNOCKED_UP_DVS24 	00:18:10,00 --> 00:18:14,50 	they shake hands.
-KNOCKED_UP.srt 	KNOCKED_UP_DVS27 	00:19:39,00 --> 00:19:44,50 	someone shakes his head gazing off.
 KNOCKED_UP.srt 	KNOCKED_UP_DVS108 	01:08:50,00 --> 01:08:54,50 	someone shakes his hand exposing...
 KNOCKED_UP.srt 	KNOCKED_UP_DVS136 	01:22:04,00 --> 01:22:08,50 	someone shakes his head.
 KNOCKED_UP.srt 	KNOCKED_UP_DVS159 	01:43:03,00 --> 01:43:11,50 	on the couch someone shakes her head at the screen.
 KNOCKED_UP.srt 	KNOCKED_UP_DVS185 	01:56:24,00 --> 01:56:29,50 	a passing doctor shakes his head at them.
-KNOCKED_UP.srt 	KNOCKED_UP_DVS192 	02:00:10,00 --> 02:00:15,50 	shakes his head and sits down.
 LAND_OF_THE_LOST.srt 	LAND_OF_THE_LOST_DVS251 	01:29:16,00 --> 01:29:31,50 	someone knits his brow and shakes his head.
 LARRY_CROWNE.srt 	LARRY_CROWNE_DVS67 	00:18:22,00 --> 00:18:27,50 	removing her helmet, she shakes out her curly hair.
 LARRY_CROWNE.srt 	LARRY_CROWNE_DVS193 	00:44:44,00 --> 00:44:56,50 	standing over him, someone angrily shakes the phone.
 LARRY_CROWNE.srt 	LARRY_CROWNE_DVS205 	00:47:39,00 --> 00:47:44,50 	someone shakes someone's hand.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS177 	00:23:46,00 --> 00:23:51,50 	glaring, his father shakes his head and faces someone.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS190 	00:25:07,00 --> 00:25:13,50 	the alarmed goat shakes its head and ears, then spins in a circle.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS224 	00:30:14,00 --> 00:30:19,50 	someone shakes his head with a furrowed brow.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS256 	00:33:47,00 --> 00:33:53,50 	someone eyes the amiable boy and shakes his head with a smile.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS274 	00:36:30,00 --> 00:36:35,50 	he leans down to the bottom bunk and shakes his sleeping brother.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS372 	00:44:29,00 --> 00:44:36,50 	shaking his head, he catches his breath and peers down into the water.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS606 	01:06:23,00 --> 01:06:30,50 	shaking water out of his pressed back ears, someone turns toward him.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS649 	01:09:22,00 --> 01:09:26,50 	as he shakes himself off,
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS726 	01:15:28,00 --> 01:15:42,50 	shaking his head, the tiger backs away and swipes at it.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS756 	01:18:17,00 --> 01:18:22,50 	facing the beast, someone glares and shakes the spear.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS884 	01:29:21,00 --> 01:29:28,50 	shaking his head, someone blinks rapidly and sees someone someone struggling across the boat.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS1090 	01:52:45,00 --> 01:52:50,50 	someone lowers his eyes and shakes his head.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS1102 	01:54:45,00 --> 01:54:52,50 	facing the young investigator, someone sniffles and shakes his head.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS1124 	01:58:40,00 --> 01:58:46,50 	the writer shakes hands with someone's beautiful wife and children.
 MORNING_GLORY.srt 	MORNING_GLORY_DVS362 	01:19:59,00 --> 01:20:04,50 	he shakes his head.
-MORNING_GLORY.srt 	MORNING_GLORY_DVS397 	01:26:53,00 --> 01:26:58,50 	someone looks down and shakes her head.
-MORNING_GLORY.srt 	MORNING_GLORY_DVS442 	01:34:26,00 --> 01:34:32,50 	someone shakes her head and looks down at the note in her hands.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS37 	00:05:23,00 --> 00:05:28,50 	someone shuts his eyes, and shakes his head.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS58 	00:09:24,00 --> 00:09:30,50 	someone glances aside and subtly shakes his head.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS81 	00:12:34,00 --> 00:12:39,50 	it shakes off ice chips from head to toe.
@@ -266,13 +216,11 @@ MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS667 	01:22:54,00 --> 01:22:59,50
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS341 	01:14:48,00 --> 01:14:52,50 	he shakes someone's hand.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS350 	01:16:11,00 --> 01:16:18,50 	he scratches behind his ears, then tilts his head as if shaking out water.
 NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS166 	00:27:06,00 --> 00:27:13,50 	as someone and someone go into to the restaurant someone wearily shakes his head.
-NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS195 	00:34:34,00 --> 00:34:39,50 	they guy shakes his head and walks by.
 NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS497 	01:32:10,00 --> 01:32:14,50 	she shakes her head.
 NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS511 	01:34:40,00 --> 01:34:44,50 	someone wearily shakes his head.
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS51 	00:11:53,00 --> 00:11:58,50 	someone shakes his head and mouths no.
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS230 	00:55:16,00 --> 00:55:20,50 	he shakes his head.
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS290 	01:09:58,00 --> 01:10:02,50 	someone shakes her head.
-PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS338 	01:20:27,00 --> 01:20:32,50 	staring off, someone slowly shakes her head.
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS341 	01:21:34,00 --> 01:21:38,50 	she shakes her head.
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS351 	01:24:24,00 --> 01:24:29,50 	someone lowers her gaze and shakes her head.
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS420 	01:31:07,00 --> 01:31:18,50 	someone shakes her head.
@@ -288,38 +236,28 @@ PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS272 	00:51:31,00 --> 00:51:36,50 	someone 
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS345 	01:06:03,00 --> 01:06:08,50 	he shakes his head lightheartedly.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS380 	01:13:04,00 --> 01:13:10,50 	they shake hands.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS561 	01:44:45,00 --> 01:44:49,50 	he shakes her.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS631 	01:58:52,00 --> 01:59:03,50 	gazing across the street, he shakes his head.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS701 	02:10:48,00 --> 02:10:55,50 	eyes closed, someone slowly shakes her head and takes a deep breath.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS171 	00:41:25,00 --> 00:41:30,50 	someone shakes his hand.
-RUBY_SPARKS.srt 	RUBY_SPARKS_DVS42 	00:07:13,00 --> 00:07:19,50 	someone shakes his hand, pats him on the back, and shows him to his seat.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS45 	00:07:23,00 --> 00:07:30,50 	now, audience members shake his hand as someone makes his way up an aisle.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS61 	00:10:12,00 --> 00:10:17,50 	crouching to someone, he shakes his head.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS200 	00:33:49,00 --> 00:33:54,50 	she shakes her head and sighs.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS219 	00:35:04,00 --> 00:35:09,50 	someone raises her arms and shakes her head.
-RUBY_SPARKS.srt 	RUBY_SPARKS_DVS249 	00:39:23,00 --> 00:39:28,50 	someone looks up at the house and shakes his head.
-RUBY_SPARKS.srt 	RUBY_SPARKS_DVS380 	01:01:04,00 --> 01:01:11,50 	someone takes off her bike helmet and shakes out her hair.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS527 	01:21:50,00 --> 01:21:55,50 	someone shakes his head softly.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS535 	01:23:52,00 --> 01:23:57,50 	someone lowers his gaze and shakes his head.
 SALT.srt 	SALT_DVS235 	00:40:45,00 --> 00:40:50,50 	she cheerfully shuts her eyes and shakes her head.
 SANCTUM.srt 	SANCTUM_DVS21 	00:05:22,00 --> 00:05:27,50 	he shakes his head, then lifts it out of the water.
-SANCTUM.srt 	SANCTUM_DVS36 	00:08:05,00 --> 00:08:10,50 	he shakes his head and steps past.
 SANCTUM.srt 	SANCTUM_DVS66 	00:14:50,00 --> 00:14:55,50 	someone shakes his head.
-SANCTUM.srt 	SANCTUM_DVS249 	00:52:16,00 --> 00:52:24,50 	left alone, someone worriedly shakes her head and looks away.
 SANCTUM.srt 	SANCTUM_DVS261 	00:53:53,00 --> 00:54:11,50 	someone shakes his head, wags a finger, then swims toward the tunnel himself.
 SANCTUM.srt 	SANCTUM_DVS503 	01:34:04,00 --> 01:34:11,50 	shaking his head, someone returns to his back, his hand pressed to his son's cheek.
 SANCTUM.srt 	SANCTUM_DVS509 	01:35:11,00 --> 01:35:22,50 	someone shrugs with resignation, shaking his head at the cave walls.
 SANCTUM.srt 	SANCTUM_DVS516 	01:36:30,00 --> 01:36:34,50 	sobbing, someone shakes his head.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS666 	00:43:30,00 --> 00:43:34,50 	someone shakes her head.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS698 	00:45:43,00 --> 00:45:49,50 	she shakes her head, then looks at someone and someone.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS827 	00:55:01,00 --> 00:55:08,50 	across the table, her husband shakes sauce off a round dumpling and bites into it.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1077 	01:13:43,00 --> 01:13:48,50 	someone stares at her with disbelief, then shakes her head.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1145 	01:18:00,00 --> 01:18:06,50 	someone glances at her, then shakes her head.
-SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS44 	00:09:10,00 --> 00:09:25,50 	as someone holds the tiny dragon in his palm, it comes to life, sleepily shakes its head, and flaps its metal wings.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS277 	00:56:25,00 --> 00:56:31,50 	the young man shakes his head and screws his mouth up.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS351 	01:13:23,00 --> 01:13:28,50 	he shakes his ring.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS373 	01:18:53,00 --> 01:18:58,50 	the apprentice shakes his head.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS468 	01:39:04,00 --> 01:39:15,50 	someone shakes his head.
-SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS476 	01:40:30,00 --> 01:40:44,50 	someone looks on in anguish as someone shakes his head.
 SOUL_SURFER.srt 	SOUL_SURFER_DVS143 	00:43:33,00 --> 00:43:38,50 	the mother shakes her head then bursts into tears.
 SOUL_SURFER.srt 	SOUL_SURFER_DVS257 	01:16:23,00 --> 01:16:28,50 	the girl shakes his head.
 SOUL_SURFER.srt 	SOUL_SURFER_DVS329 	01:37:12,00 --> 01:37:17,50 	someone smiles and shakes her head.
@@ -328,36 +266,21 @@ SPARKLE_2012.srt 	SPARKLE_2012_DVS27 	00:04:56,00 --> 00:05:01,50 	someone shake
 SPARKLE_2012.srt 	SPARKLE_2012_DVS45 	00:07:43,00 --> 00:07:50,50 	she smiles and shakes her head.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS199 	00:32:01,00 --> 00:32:08,50 	someone shakes hands with a bartender.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS281 	00:44:43,00 --> 00:44:49,50 	someone shoots the reverend a look, then shakes her head.
-SPARKLE_2012.srt 	SPARKLE_2012_DVS290 	00:48:14,00 --> 00:48:19,50 	holding her daughter's gaze, someone shakes her head.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS297 	00:50:42,00 --> 00:50:47,50 	someone shakes her head.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS450 	01:14:09,00 --> 01:14:19,50 	in the closet on the floor, someone and someone huddle around sister, who shakes back her tangled hair.
-SPARKLE_2012.srt 	SPARKLE_2012_DVS462 	01:16:17,00 --> 01:16:22,50 	she looks down and shakes her head.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS531 	01:27:45,00 --> 01:27:49,50 	she shakes her head.
-SUPER_8.srt 	SUPER_8_DVS70 	00:10:42,00 --> 00:10:47,50 	someone locks eyes with someone, then turns and shakes her head.
-SUPER_8.srt 	SUPER_8_DVS164 	00:26:05,00 --> 00:26:09,50 	someone looks down and shakes her head
-SUPER_8.srt 	SUPER_8_DVS181 	00:30:33,00 --> 00:30:39,50 	someone walks up to someone and shakes his head.
-SUPER_8.srt 	SUPER_8_DVS286 	00:51:22,00 --> 00:51:27,50 	someone wearing a beret shakes his head.
 SUPER_8.srt 	SUPER_8_DVS290 	00:51:50,00 --> 00:51:54,50 	the two men shake hands.
-SUPER_8.srt 	SUPER_8_DVS491 	01:24:09,00 --> 01:24:17,50 	someone backs up toward the holding cell door, he shakes the rifle as it runs out of ammunition.
-SUPER_8.srt 	SUPER_8_DVS565 	01:34:12,00 --> 01:34:17,50 	someone runs over to someone and shakes her.
 SUPER_8.srt 	SUPER_8_DVS602 	01:38:24,00 --> 01:38:30,50 	on a corner, a metal trash can shakes then flies off toward the water tower.
-SUPER_8.srt 	SUPER_8_DVS658 	01:45:24,00 --> 01:45:30,50 	someone puts on his hat and stands then shakes preston's hand.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS246 	00:37:15,00 --> 00:37:21,50 	someone shakes his injured fist, then follows the captain.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS317 	00:49:13,00 --> 00:49:17,50 	someone stands and shakes someone's hand.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS497 	01:12:04,00 --> 01:12:10,50 	someone spits into his palm, then shakes someone's hand.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS514 	01:13:11,00 --> 01:13:14,50 	someone shakes them.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS100 	00:24:18,00 --> 00:24:25,50 	someone smirks, then shakes her head and continues on alone.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS246 	00:47:15,00 --> 00:47:23,50 	staring after him she shakes her head then storms off in the opposite direction.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS344 	01:08:06,00 --> 01:08:12,50 	vivian admires her son as she shakes her head.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS389 	01:14:45,00 --> 01:14:50,50 	he shakes his head.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS390 	01:14:55,00 --> 01:15:03,50 	on her other side someone stands, goes to the stage and shakes the principal's hand.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS397 	01:16:41,00 --> 01:16:47,50 	smiling faintly he shakes someone's hand then leans in.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS42 	00:07:25,00 --> 00:07:33,50 	she shakes her head.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS123 	00:24:34,00 --> 00:24:39,50 	someone smiles and shakes her head.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS287 	00:53:33,00 --> 00:53:39,50 	her lips tighten and she shakes her head, looking skyward.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS338 	01:02:51,00 --> 01:02:57,50 	someone smiles tightly and someone shakes his head.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS390 	01:14:21,00 --> 01:14:29,50 	resting her cheek against her hand, someone shakes her head and gazes skyward.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS397 	01:15:30,00 --> 01:15:36,50 	someone starts to open her mouth, then shakes her head and smiles.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS577 	01:44:17,00 --> 01:44:29,50 	the bounty hunter signs a form and the cop at the desk shakes his head incredulously.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS583 	01:45:35,00 --> 01:45:47,50 	someone beams at him and shakes her head.
 THE_CALL.srt 	THE_CALL_DVS148 	00:12:08,00 --> 00:12:13,50 	someone shrugs and shakes her head.
@@ -365,25 +288,18 @@ THE_CALL.srt 	THE_CALL_DVS217 	00:18:24,00 --> 00:18:29,50 	smiling, autumn's bl
 THE_CALL.srt 	THE_CALL_DVS256 	00:21:44,00 --> 00:21:49,50 	she smiles and shakes her head as autumn hurries off.
 THE_CALL.srt 	THE_CALL_DVS262 	00:22:12,00 --> 00:22:19,50 	smiling, the blond shakes her head and slides the phone into her back pocket.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS147 	00:25:22,00 --> 00:25:28,50 	large air bubbles escape her gaping mouth as her body shakes with sobs.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS166 	00:28:34,00 --> 00:28:39,50 	looking away, someone shakes his head.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS343 	00:52:54,00 --> 00:53:00,50 	someone shakes his head, struggling to retain his composure.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS405 	01:01:12,00 --> 01:01:18,50 	someone wanders over to the water to shake out the sand.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS431 	01:05:13,00 --> 01:05:17,50 	someone shakes his head.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS529 	01:17:15,00 --> 01:17:20,50 	taking a breath, he shakes himself out of his thoughts.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS567 	01:23:58,00 --> 01:24:03,50 	someone responds with a bitter sneer and shakes his head.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS683 	01:35:24,00 --> 01:35:31,50 	someone glances at his two cousins, then looks back at the contract and shakes his head.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS685 	01:36:21,00 --> 01:36:28,50 	someone glances at someone, then shakes his head with a frustrated smile.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS608 	01:07:22,00 --> 01:07:26,50 	someone shakes his head.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS971 	01:47:10,00 --> 01:47:18,50 	someone looks down at a photo in the newspaper article captioned gottfried vanger and carlin shaking hands.
 THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS112 	00:41:52,00 --> 00:41:58,50 	peers at his mother and scoffs as he shakes his head.
 THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS127 	00:46:59,00 --> 00:47:06,50 	he sulks and avoids her gaze, shaking his head slightly.
 THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS142 	00:48:59,00 --> 00:49:06,50 	someone shakes her head in disappointment and her expression hardens.
 THE_SITTER.srt 	THE_SITTER_DVS10 	00:06:52,00 --> 00:06:57,50 	someone shakes his head.
-THE_SITTER.srt 	THE_SITTER_DVS74 	00:40:52,00 --> 00:40:58,50 	someone shakes it, then pulls him in for a hug.
 THE_SITTER.srt 	THE_SITTER_DVS130 	01:10:05,00 --> 01:10:09,50 	she shakes her head.
 THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS130 	00:44:26,00 --> 00:44:35,50 	his fist closed, someone shakes his head.
-THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS174 	01:07:14,00 --> 01:07:19,50 	looking away, someone shakes his head.
-THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS203 	01:20:21,00 --> 01:20:28,50 	someone shakes his head and looks away.
 THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS251 	01:37:35,00 --> 01:37:41,50 	someone squeezes his eye shut, swallows, and shakes his head.
 THE_VOW.srt 	THE_VOW_DVS196 	00:23:52,00 --> 00:23:57,50 	someone shrugs and shakes her head.
 THE_VOW.srt 	THE_VOW_DVS411 	00:57:19,00 --> 00:57:26,50 	someone averts his considerate gaze, shakes his head and shifts on his feet.
@@ -395,36 +311,27 @@ THE_VOW.srt 	THE_VOW_DVS635 	01:28:32,00 --> 01:28:37,50 	someone slouches and s
 THE_VOW.srt 	THE_VOW_DVS651 	01:30:36,00 --> 01:30:42,50 	someone shakes her head and drops her face in her hands.
 THE_VOW.srt 	THE_VOW_DVS703 	01:38:39,00 --> 01:38:43,50 	she shakes her head.
 THE_WATCH.srt 	THE_WATCH_DVS247 	00:44:59,00 --> 00:45:03,50 	someone gently shakes his head.
-THE_WATCH.srt 	THE_WATCH_DVS324 	00:56:31,00 --> 00:56:40,50 	someone slowly removes his sunglasses and gives someone a bizarre wide-eyed stare while slowly shaking his head.
-THE_WATCH.srt 	THE_WATCH_DVS409 	01:13:46,00 --> 01:13:51,50 	he looks into her eyes and shakes his head.
 THE_WATCH.srt 	THE_WATCH_DVS426 	01:18:22,00 --> 01:18:26,50 	someone shakes his head.
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS91 	00:28:52,00 --> 00:29:00,50 	she shakes his hand.
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS330 	01:22:36,00 --> 01:22:41,50 	he pauses and shakes his head.
-THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS394 	01:34:13,00 --> 01:34:19,50 	with a wry grin, he shakes his head and stands.
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS428 	01:39:14,00 --> 01:39:22,50 	he shakes his head.
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS498 	01:51:38,00 --> 01:51:44,50 	shifting her gaze back to james, she shakes her head.
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS507 	01:52:53,00 --> 01:52:57,50 	he shakes his head at her.
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS510 	01:53:20,00 --> 01:53:27,50 	shaking out a bag, someone ignores her.
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS515 	01:54:26,00 --> 01:54:32,50 	considering her, he shakes his head, then shrugs.
-THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS92 	00:14:54,00 --> 00:15:00,50 	someone shakes his head as the ad shows an embracing couple.
-THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS118 	00:21:41,00 --> 00:21:47,50 	someone watches her go then shakes his head and leaves as well.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS168 	00:32:01,00 --> 00:32:06,50 	someone shakes hands with the bouncer on the way in.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS306 	00:57:00,00 --> 00:57:04,50 	someone shakes his hand.
-THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS508 	01:27:41,00 --> 01:27:48,50 	looking up at someone, someone shakes her head knowingly and smiles.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS519 	01:29:06,00 --> 01:29:12,50 	someone's brow lifts in a delighted smile, he shakes her hand.
 THOR.srt 	THOR_DVS71 	00:08:32,00 --> 00:08:39,50 	the blonde man winks at the bejeweled woman, who suppresses a smile and shakes her head slightly.
-THOR.srt 	THOR_DVS177 	00:23:50,00 --> 00:23:58,50 	someone's allies watch as the beast shakes its head free, revealing a wide mouth filled with fangs.
 THOR.srt 	THOR_DVS286 	00:39:12,00 --> 00:39:20,50 	shaking his head slightly, someone grips two handles on the sides of the small casket and picks it up.
 THOR.srt 	THOR_DVS543 	01:26:46,00 --> 01:26:52,50 	someone strokes someone's bloody face then shakes her head.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS135 	00:16:26,00 --> 00:16:31,50 	someone shakes his head, then furrows his brow.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS181 	00:24:23,00 --> 00:24:29,50 	he notices her tapping finger, then shakes his head.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS235 	00:31:15,00 --> 00:31:20,50 	shaking his head skeptically, someone twists the cap off the tube.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS287 	00:35:09,00 --> 00:35:14,50 	he rolls off and shakes out his arms.
-TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS419 	00:44:56,00 --> 00:45:00,50 	shaking his head, someone takes out his earphones.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS566 	01:02:43,00 --> 01:02:48,50 	the burly man swallows and shakes his head.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS623 	01:08:57,00 --> 01:09:04,50 	as someone irritably shakes his head, someone pushes himself onto his hands and knees.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS628 	01:09:30,00 --> 01:09:34,50 	someone shakes his head.
-TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS638 	01:10:44,00 --> 01:10:51,50 	someone faces someone and shakes his head, then collects the pieces of his guitar.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS645 	01:11:24,00 --> 01:11:30,50 	then regretfully shakes his head and summons a sorrowful breath.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS700 	01:17:26,00 --> 01:17:35,50 	their coach folds his arms, shakes his head, and allows a smile.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS718 	01:19:29,00 --> 01:19:36,50 	someone drops his stick, shakes off his gloves, and removes his helmet.
@@ -437,30 +344,23 @@ TRUE_GRIT.srt 	TRUE_GRIT_DVS403 	01:19:50,00 --> 01:19:54,50 	someone shakes his
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS185 	00:13:58,00 --> 00:14:03,50 	someone shakes her hand and smirks.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS437 	00:53:29,00 --> 00:53:34,50 	he shakes the remote, then hits a button.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS442 	00:53:48,00 --> 00:53:54,50 	nearby, the boy shakes the remote.
-UGLY_TRUTH.srt 	UGLY_TRUTH_DVS461 	00:56:28,00 --> 00:56:37,50 	someone shakes someone's hand, then follows someone out.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS479 	00:58:34,00 --> 00:58:39,50 	she irritably shakes her head.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS496 	01:04:00,00 --> 01:04:07,50 	someone shakes her head, slack-jawed.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS577 	01:16:39,00 --> 01:16:43,50 	they shake hands.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS605 	01:20:41,00 --> 01:20:45,50 	she shakes her head.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS618 	01:22:38,00 --> 01:22:43,50 	someone shakes someone's hand, then pats his shoulder.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS622 	01:23:19,00 --> 01:23:23,50 	someone shakes her head.
-UGLY_TRUTH.srt 	UGLY_TRUTH_DVS647 	01:30:10,00 --> 01:30:16,50 	someone looks away, shakes his head, and takes a few deep breaths.
-UGLY_TRUTH.srt 	UGLY_TRUTH_DVS651 	01:30:32,00 --> 01:30:37,50 	he looks away, shaking his head.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS338 	00:55:12,00 --> 00:55:21,50 	behind them, someone shakes her head and makes notes.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS345 	00:55:59,00 --> 00:56:05,50 	someone's brow knits as she looks on, and someone shakes her head.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS385 	01:00:54,00 --> 01:01:07,50 	he raises his beer bottle in a toast, then shakes his head.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS426 	01:07:22,00 --> 01:07:28,50 	someone shakes his head disbelievingly and smiles to himself.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS535 	01:21:27,00 --> 01:21:33,50 	someone meets her attentive gaze, then shakes his head wistfully.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS668 	01:38:10,00 --> 01:38:16,50 	his long hair in a ponytail, someone shakes his hand.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS712 	01:42:44,00 --> 01:42:49,50 	he shakes his head and aims his pen.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS719 	01:43:29,00 --> 01:43:36,50 	someone shakes someone's hand.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS724 	01:43:57,00 --> 01:44:01,50 	someone shakes his head and leaves.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS740 	01:45:47,00 --> 01:45:53,50 	someone solemnly shakes her head, then yields a smile.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS181 	00:20:43,00 --> 00:20:49,50 	as roger shakes someone's hand, someone cringes.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS747 	01:40:06,00 --> 01:40:11,50 	she covers his mouth with her hand and shakes her head.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS47 	00:04:01,00 --> 00:04:06,50 	the girl shakes it.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS106 	00:07:04,00 --> 00:07:10,50 	he looks down at the coin, his hands shaking with effort.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS408 	00:34:32,00 --> 00:34:42,50 	the submarine shakes, but continues through the water as someone and his followers reach an all-white state-of-the-art bridge.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS647 	00:59:35,00 --> 00:59:39,50 	someone shakes his head.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS761 	01:08:35,00 --> 01:08:39,50 	he shakes someone's hand.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS844 	01:17:17,00 --> 01:17:22,50 	stopping, someone shakes his head.
@@ -468,11 +368,9 @@ XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS883 	01:20:42,00 --> 01:20:48,50 	some
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS954 	01:28:22,00 --> 01:28:26,50 	someone shakes his head.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1040 	01:34:12,00 --> 01:34:22,50 	meanwhile on a russian battleship, the captain lowers a pair of binoculars, then crosses to a radioman, who shakes his head.
 YOUNG_ADULT.srt 	YOUNG_ADULT_DVS36 	00:03:47,00 --> 00:03:52,50 	she shakes the cartridge then replaces it.
-YOUNG_ADULT.srt 	YOUNG_ADULT_DVS100 	00:14:47,00 --> 00:14:55,50 	she stares at a combination kfc, pizza hut, and taco bell, and shakes her head as she drives past.
 YOUNG_ADULT.srt 	YOUNG_ADULT_DVS178 	00:34:20,00 --> 00:34:26,50 	someone's sister frowns after her then shakes her head and shuts the door.
 YOUNG_ADULT.srt 	YOUNG_ADULT_DVS231 	00:43:29,00 --> 00:43:34,50 	someone shakes someone's hand.
 YOUNG_ADULT.srt 	YOUNG_ADULT_DVS323 	00:59:40,00 --> 00:59:45,50 	peering closely at the photo, she shakes her head.
-YOUNG_ADULT.srt 	YOUNG_ADULT_DVS369 	01:10:52,00 --> 01:10:57,50 	someone shakes her head slightly as she stares wide-eyed at someone.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS155 	00:14:35,00 --> 00:14:38,50 	she shakes her head.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS328 	00:37:14,00 --> 00:37:21,50 	she glares at someone through the rear view mirror and irritably shakes her head
 ZOMBIELAND.srt 	ZOMBIELAND_DVS448 	00:51:41,00 --> 00:51:48,50 	someone excitedly punches the air then shakes the movie star's hand.

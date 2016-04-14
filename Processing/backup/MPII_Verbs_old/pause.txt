@@ -1,64 +1,91 @@
-0002_As_Good_As_It_Gets_00.24.07.800-00.24.10.248 	where it is not clear that a robbery is in progress -- Vincent's two friends from the street sweeping all objects into large sacks -- one of them, Doug, pauses to look past the terrace to the studio.
-0002_As_Good_As_It_Gets_00.57.49.523-00.57.54.310 	thrown by the abruptness  pausing briefly outside Simon's door then continues on her way
-0002_As_Good_As_It_Gets_00.59.22.633-00.59.29.116 	Melvin pauses -- Simon weeping.
-0002_As_Good_As_It_Gets_01.06.07.553-01.06.09.823 	She pauses -- the beginning of an extraordinarily long silence.
-0002_As_Good_As_It_Gets_01.20.34.564-01.20.37.850 	Now she looks in another drawer and pauses as if she ponders one of the mysteries of the ages.
-0003_CASABLANCA_01.33.23.764-01.33.29.617 	Ilsa pauses and looks at Rick, unsure for a moment.
-0003_CASABLANCA_01.40.43.504-01.40.44.806 	Renault pauses and looks at Rick.
-0004_Charade_00.42.30.469-00.42.40.887 	He pauses for a moment, listening, hears nothing, then bends down and starts pulling at a loose thread in one of his socks.
-0004_Charade_01.38.18.545-01.38.19.260 	REGGIE stops and pauses for a moment at a sign indicating two different directions, an arrow for each.
-0007_DIE_NACHT_DES_JAEGERS_01.14.33.960-01.14.34.121 	LOAFER pauses in BACKGROUND.
-0011_Gandhi_00.20.09.601-00.20.12.731 	He has paused before an office and a young girl (Sonja) has come from it to speak to him about something of urgency, but she hovers, not interrupting.
-0011_Gandhi_00.37.56.005-00.37.56.881 	People working in offices pause to stare at Gandhi as he moves along, more uncomfortably aware of his prison garb than ever.
-0011_Gandhi_00.48.06.966-00.48.12.374 	He pauses and looks at Gandhi -- and for the first time he smiles.
-0011_Gandhi_02.34.56.015-02.34.58.403 	He pauses and renders a salute.
-0011_Gandhi_02.47.04.658-02.47.06.572 	He pauses for a moment, staring down at the youth.
-0011_Gandhi_02.48.48.218-02.48.49.563 	Nehru pauses as he lowers his head.
-0013_Halloween_00.26.04.681-00.26.06.727 	She pauses a moment and glances down the street.
-0014_Ist_das_Leben_nicht_schoen_01.23.27.057-01.23.29.360 	They pause for a moment on the sidewalk.
-0017_Pianist_00.16.29.506-00.16.33.518 	Father pauses for a moment to take stock.
-0017_Pianist_00.42.49.326-00.42.57.983 	They pause for a moment to take in their new surroundings.
-0020_Raising_Arizona_00.33.25.019-00.33.25.992 	The Biker pauses for a moment, thinking or feeling.
-0020_Raising_Arizona_00.44.30.487-00.44.31.115 	She pauses for a moment, listening.
-0021_Rear_Window_00.08.32.929-00.08.34.699 	Stella pauses on the landing to watch Jeff.
-0021_Rear_Window_00.30.38.787-00.30.39.873 	Lisa pauses in the act of gathering her things together.
-0021_Rear_Window_00.50.45.207-00.50.48.707 	She gets the tray of food pausing to look toward Thorwald's apartment.
-0021_Rear_Window_00.51.06.994-00.51.11.494 	She moves behind his chair, pausing to look toward Thorwald's apartment again.
-0021_Rear_Window_00.55.07.307-00.55.10.121 	He pauses his hand on the door knob.
-0021_Rear_Window_01.02.34.311-01.02.36.555 	She pauses as she crosses the room carrying a tray of food.
-0021_Rear_Window_01.34.30.171-01.34.31.269 	They pause at the sound of Jeff's voice.
-0021_Rear_Window_01.41.39.305-01.41.42.610 	He pauses momentarily to tell the second policeman to take a statement from Thorwald about the attempted burglary.
-0021_Rear_Window_01.48.28.456-01.48.29.456 	Thorwald comes down the two steps, pauses at the bottom.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.45.44.740-00.45.48.178 	The RINGWRAITH pauses right beside their hiding place.he sits very still with his head bowed, listening.
-0030_The_Hustler_00.46.41.325-00.46.54.911 	Eddie pauses a moment to register this as she limps off, then follows.
-0030_The_Hustler_00.52.13.349-00.52.16.117 	She pauses and looks at him.
-0038_Psycho_00.08.04.348-00.08.08.222 	Cassidy pauses beside Mary's desk, hooks a haunch onto the desktop, smiles a wet smile at Mary.
-0038_Psycho_00.10.21.802-00.10.26.091 	Cassidy is drinking from a large tumbler, winks at her without pausing in his drinking.
-0038_Psycho_00.33.38.037-00.33.52.672 	Mary pauses outside the door, is about to start forward when Norman comes round the building and walks along the porch, past the office, stopping only when he is close to her.
-0038_Psycho_00.45.37.786-00.45.40.967 	We see him pause at the foot of the stairway, look up at the bedroom door just at the head of the stair.
-0038_Psycho_01.18.31.435-01.18.34.865 	He pauses halfway down, turns, puts his hands on her arms.
-0038_Psycho_01.25.31.728-01.25.45.528 	Norman goes up, pauses one moment outside his mother's door, then opens it and goes in, leaving the door open.
-0038_Psycho_01.29.04.733-01.29.09.931 	They pause and Norman pauses.
-0038_Psycho_01.30.34.440-01.30.38.177 	Lila comes along the porch, pauses before cabin one, tries the door.
-0038_Psycho_01.32.28.498-01.32.33.347 	They pause before the door of Cabin One.
-0038_Psycho_01.36.45.747-01.36.49.280 	She pauses at the head of the stair.
-0038_Psycho_01.38.33.638-01.38.40.821 	Lila pauses on the threshold, reaches in, feels the wall, throws on a switch.
-0049_Hannah_and_her_sisters_00.33.56.391-00.33.57.818 	Mickey pauses for a moment, collecting his thoughts.
-0049_Hannah_and_her_sisters_01.41.11.263-01.41.16.959 	After pausing for a moment on Elliot's face, the film cuts to the foyer, where two boys and a girl gather by the door.
-0050_Indiana_Jones_and_the_last_crusade_01.09.59.891-01.10.02.510 	Hitler pauses to sign them.
-0053_Rendezvous_mit_Joe_Black_00.19.33.205-00.19.37.568 	Susan at the door now, pauses abruptly, her eyes on the Young Man.
-1001_Flight_00.04.16.924-00.04.20.953 	He pauses near one of the wheels.
-1005_Signs_00.02.41.898-00.02.48.294 	Graham pauses for a moment to listen at the door.
+0002_As_Good_As_It_Gets_00.24.07.800-00.24.10.248 	where it is not clear that a robbery is in progress -- vincent's two friends from the street sweeping all objects into large sacks -- one of them, doug, pauses to look past the terrace to the studio.
+0002_As_Good_As_It_Gets_00.57.49.523-00.57.54.310 	thrown by the abruptness  pausing briefly outside simon's door then continues on her way
+0002_As_Good_As_It_Gets_01.06.07.553-01.06.09.823 	she pauses -- the beginning of an extraordinarily long silence.
+0003_CASABLANCA_01.08.37.244-01.08.39.022 	he pauses, then puts the chips on twenty-two.
+0004_Charade_00.42.30.469-00.42.40.887 	he pauses for a moment, listening, hears nothing, then bends down and starts pulling at a loose thread in one of his socks.
+0011_Gandhi_00.18.53.427-00.18.54.128 	he pauses, looking at the youth.
+0011_Gandhi_00.20.09.601-00.20.12.731 	he has paused before an office and a young girl (sonja) has come from it to speak to him about something of urgency, but she hovers, not interrupting.
+0011_Gandhi_00.37.56.005-00.37.56.881 	people working in offices pause to stare at gandhi as he moves along, more uncomfortably aware of his prison garb than ever.
+0011_Gandhi_00.48.06.966-00.48.12.374 	he pauses and looks at gandhi -- and for the first time he smiles.
+0011_Gandhi_01.51.12.438-01.51.15.061 	he pauses, letting his head fall back and she lowers it down to the mat again.
+0011_Gandhi_02.33.26.162-02.33.29.369 	he pauses, nods amiably to gandhi, though gandhi does not react to his presence at all.
+0011_Gandhi_02.34.56.015-02.34.58.403 	he pauses and renders a salute.
+0011_Gandhi_02.47.04.658-02.47.06.572 	he pauses for a moment, staring down at the youth.
+0013_Halloween_00.26.04.681-00.26.06.727 	she pauses a moment and glances down the street.
+0014_Ist_das_Leben_nicht_schoen_01.23.27.057-01.23.29.360 	they pause for a moment on the sidewalk.
+0017_Pianist_00.42.49.326-00.42.57.983 	they pause for a moment to take in their new surroundings.
+0020_Raising_Arizona_00.33.25.019-00.33.25.992 	the biker pauses for a moment, thinking or feeling.
+0020_Raising_Arizona_00.44.30.487-00.44.31.115 	she pauses for a moment, listening.
+0021_Rear_Window_00.51.06.994-00.51.11.494 	she moves behind his chair, pausing to look toward thorwald's apartment again.
+0021_Rear_Window_00.55.07.307-00.55.10.121 	he pauses his hand on the door knob.
+0021_Rear_Window_01.02.34.311-01.02.36.555 	she pauses as she crosses the room carrying a tray of food.
+0021_Rear_Window_01.34.30.171-01.34.31.269 	they pause at the sound of jeff's voice.
+0021_Rear_Window_01.41.39.305-01.41.42.610 	he pauses momentarily to tell the second policeman to take a statement from thorwald about the attempted burglary.
+0021_Rear_Window_01.48.28.456-01.48.29.456 	thorwald comes down the two steps, pauses at the bottom.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.29.39.338-00.29.43.326 	frodo enters bag end.he immediately pauses, sensing that something is amiss.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.40.26.660-01.40.33.069 	legolas the elf moves lightly across the top of the snow.he suddenly pauses.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.20.17.497-02.20.21.146 	he suddenly pauses.
+0030_The_Hustler_00.35.55.271-00.35.58.682 	fats hears him go down and pauses, turning to see charlie rush to eddie's side.
+0030_The_Hustler_00.46.41.325-00.46.54.911 	eddie pauses a moment to register this as she limps off, then follows.
+0030_The_Hustler_00.52.13.349-00.52.16.117 	she pauses and looks at him.
+0038_Psycho_00.09.38.148-00.09.47.154 	he rises, reels toward lowery's office, pauses, turns, speaks to mary, meaningfully.
+0038_Psycho_00.09.44.754-00.09.53.397 	lowery starts after him, pauses, turns to mary.
+0038_Psycho_00.10.21.802-00.10.26.091 	cassidy is drinking from a large tumbler, winks at her without pausing in his drinking.
+0038_Psycho_00.21.24.152-00.21.47.064 	as the car dealer looks at her in amazement, she reaches into her bag, feels the money-filled envelope, pauses.
+0038_Psycho_00.27.38.486-00.27.40.772 	a woman passes the window, pauses, peers out.
+0038_Psycho_00.27.57.954-00.28.12.581 	after a moment, a young man open the front door of the house, pauses, starts down the path.
+0038_Psycho_00.31.15.067-00.31.34.767 	she glances down into it, pauses, drops the dress, reaches into the handbag, takes out the money-filled envelope, stares at it, almost with regret, filled contemplates hiding it, decides to, starts looking for a reasonable hiding place.
+0038_Psycho_00.45.24.276-00.45.32.677 	once on the path he pauses, looks up at the light in the bedroom window, then pulls himself up, squares his shoulders, strides manfully up the path.
+0038_Psycho_00.45.37.786-00.45.40.967 	we see him pause at the foot of the stairway, look up at the bedroom door just at the head of the stair.
+0038_Psycho_01.05.17.470-01.05.22.040 	norman switches on the overhead light, starts for the linen closet, suddenly pauses, turns, studies arbogast, who has remained standing by the door.
+0038_Psycho_01.18.31.435-01.18.34.865 	he pauses halfway down, turns, puts his hands on her arms.
+0038_Psycho_01.25.31.728-01.25.45.528 	norman goes up, pauses one moment outside his mother's door, then opens it and goes in, leaving the door open.
+0038_Psycho_01.29.04.733-01.29.09.931 	they pause and norman pauses.
+0038_Psycho_01.30.34.440-01.30.38.177 	lila comes along the porch, pauses before cabin one, tries the door.
+0038_Psycho_01.32.28.498-01.32.33.347 	they pause before the door of cabin one.
+0038_Psycho_01.36.45.747-01.36.49.280 	she pauses at the head of the stair.
+0043_Thelma_and_Luise_01.20.52.805-01.20.54.692 	they both pause for a moment.
+0049_Hannah_and_her_sisters_01.09.32.132-01.09.37.282 	holly pauses, looking at her sister.
+0049_Hannah_and_her_sisters_01.41.11.263-01.41.16.959 	after pausing for a moment on elliot's face, the film cuts to the foyer, where two boys and a girl gather by the door.
+0050_Indiana_Jones_and_the_last_crusade_01.09.59.891-01.10.02.510 	hitler pauses to sign them.
+0050_Indiana_Jones_and_the_last_crusade_01.53.57.317-01.54.04.896 	indy goes to the well and fills the earthenware jug with water, then pauses.
+0053_Rendezvous_mit_Joe_Black_00.19.33.205-00.19.37.568 	susan at the door now, pauses abruptly, her eyes on the young man.
+0053_Rendezvous_mit_Joe_Black_01.08.25.313-01.08.30.804 	joe is riveted on parrish ow, parrish aware of him, has paused.
+1001_Flight_00.04.16.924-00.04.20.953 	he pauses near one of the wheels.
+1002_Harry_Potter_and_the_Half-Blood_Prince_00.44.03.227-00.44.07.388 	he pauses.
+1005_Signs_00.58.54.693-00.58.56.697 	pausing outside the open kitchen door.
+1008_Spider-Man2_00.32.49.316-00.32.53.781 	the doors open and the man is about to enter when he pauses, seeing a fully suited spider-man standing casually inside.
+1008_Spider-Man2_00.59.57.743-01.00.03.199 	he pauses, then walks up behind her.
+1010_TITANIC_00.56.58.854-00.57.02.903 	he pauses, then walks toward an ornate railing and columns beneath the dome skylight.
+1010_TITANIC_01.16.21.178-01.16.26.500 	jack steps toward another railing, pauses, and picks up a black bowler hat and long coat from a chair.
+1012_Unbreakable_00.21.21.165-00.21.24.831 	she pauses, hands on hips, then walks towards him.
+1015_27_Dresses_00.03.14.045-00.03.18.950 	pausing for breath on a street corner, another young woman walks up wearing the same purple dress.
+1020_Crazy_Stupid_Love_00.37.24.831-00.37.27.915 	david swaggers away, then pauses.
+1023_Horrible_Bosses_00.30.15.023-00.30.19.449 	kurt pauses to compose himself, then opens the door and says.
+1024_Identity_Thief_01.41.00.968-01.41.08.238 	giving someone else a weak wave, sandy heads to his office and pauses and looks at his name placard on the glass door.
+1028_No_Reservations_01.01.06.212-01.01.10.213 	she pauses to look down the hallway and watch nick, as he gently carries zoe to her bedroom.
+1028_No_Reservations_01.12.39.669-01.12.41.026 	she pauses outside the open lounge door.
+1029_Pride_And_Prejudice_Disk_One_01.49.31.038-01.49.34.146 	she pauses for a moment, lost in thought.
+1034_Super_8_00.49.47.829-00.49.53.346 	deputy rosko pauses to tune in his radio.
+1035_The_Adjustment_Bureau_00.36.13.446-00.36.15.569 	sliding his pass through the reader, he pauses in the aisle.
+1037_The_Curious_Case_Of_Benjamin_Button_00.17.16.072-00.17.18.078 	he pauses.
+1037_The_Curious_Case_Of_Benjamin_Button_02.00.45.318-02.00.46.981 	he pauses on the porch.
+1039_The_Queen_00.26.41.572-00.26.45.473 	he pauses for a moment before entering.
+1039_The_Queen_00.57.32.356-00.57.38.708 	tony puts down the phone and pauses for a moment.
+1044_Pride_And_Prejudice_Disk_Two_00.49.10.167-00.49.12.355 	he pauses for a moment, trying to decide which direction to go.
+1044_Pride_And_Prejudice_Disk_Two_01.04.22.519-01.04.25.748 	he pauses for a moment, leaning against the fireplace, as if lost in thought.
+1044_Pride_And_Prejudice_Disk_Two_01.47.36.197-01.47.41.451 	she pauses to watch him through the doorway and slowly goes inside.
+1045_An_education_00.46.19.870-00.46.23.536 	pausing at the cab jenny doesn't even look at david.
+1045_An_education_01.25.18.971-01.25.23.828 	she pauses at the end of the garden path.
+1046_Australia_01.18.58.302-01.19.02.557 	fletcher hangs up the phone in the cattle pen as the captain pauses over a purchase agreement.
+1051_Harry_Potter_and_the_goblet_of_fire_01.58.59.189-01.59.03.740 	reaching it, they pause in front of it.
 1056_Rambo_00.13.55.268-00.13.57.711 	she pauses and brushes rain from her head.
-1056_Rambo_00.23.14.107-00.23.15.006 	on the riverside, michael pauses and watches them.
 1056_Rambo_00.52.45.847-00.52.46.321 	he pauses near the truck's bonnet.
 1056_Rambo_01.01.56.000-01.01.59.000 	they pause breathlessly at a tree trunk.
-1057_Seven_pounds_00.43.07.042-00.43.10.131 	ben pauses outside, facing the door dejectedly.
-1057_Seven_pounds_01.43.59.603-01.44.04.200 	tim returns to his motel room and pauses in the doorway.
 1059_The_devil_wears_prada_01.31.01.508-01.31.06.000 	andy gets back to the hotel and pauses before knocking on miranda's door.
 1060_Yes_man_00.10.22.902-00.10.25.734 	carl frowns and pauses the film.
 1060_Yes_man_00.41.53.105-00.41.55.513 	he pauses and checks his flier.
-1062_Day_the_Earth_stood_still_01.08.21.825-01.08.28.613 	karl pauses to look at his figures as helen watches them both curiously.
+1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.23.57.516-01.24.03.736 	he pauses, stares at them, and descends.
 2026_Legion_00.49.17.076-00.49.22.860 	he pauses to take a slug from a can of beer.
 2026_Legion_00.50.30.929-00.50.35.790 	michael pauses a beat, as if unsure how much to say
 2027_Les_Miserables_00.52.46.422-00.52.48.267 	after a few steps she pauses to rest the weight of the buckets.

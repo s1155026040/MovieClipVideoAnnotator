@@ -1,4 +1,2 @@
 PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS212 	00:54:58,00 --> 00:55:11,50 	an antiquated pickup barrels into the greenhouse, plowing through statues.
-PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS316 	01:19:18,00 --> 01:19:35,50 	the sports car plows through a pair of glass doors and speeds out of the brightly lit drop-off area.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS179 	00:42:52,00 --> 00:42:58,50 	the sheriff parallels someone as she plows.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS402 	00:33:55,00 --> 00:34:06,50 	the anchor swoops down, crashes through the smokestack, and plows through the upper deck.

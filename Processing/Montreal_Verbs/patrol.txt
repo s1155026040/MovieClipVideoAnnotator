@@ -5,4 +5,3 @@ DEAR_JOHN.srt 	DEAR_JOHN_DVS420 	01:03:36,00 --> 01:03:42,50 	in afghanistan, so
 DISTRICT_9.srt 	DISTRICT_9_DVS417 	00:45:52,00 --> 00:45:57,50 	the guard patrolling his front yard.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS78 	00:21:02,00 --> 00:21:10,50 	now in a quiet residential neighborhood, an iraqi man in a taupe suit patrols the sidewalk with an assault rifle.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS465 	01:55:17,00 --> 01:55:24,50 	foot soldiers patrol close to the surf
-THE_CALL.srt 	THE_CALL_DVS872 	01:06:06,00 --> 01:06:15,50 	now, an officer patrols the hive as several workstations lie quiet and vacant.

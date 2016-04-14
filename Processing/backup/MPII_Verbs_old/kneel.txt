@@ -1,125 +1,73 @@
-0001_American_Beauty_00.43.36.323-00.43.44.227 	Lester kneels by the bathtub like a man in church.
-0005_Chinatown_00.09.02.817-00.09.03.825 	He kneels down in the mud and stares at it.
-0005_Chinatown_01.28.41.184-01.28.45.101 	Evelyn starts quickly for the bathroom, then comes back and kneels by the side of the bed, takes Gittes' hand.
-0008_Fargo_00.57.02.570-00.57.19.734 	He quickly scans the lot, then kneels in the snow at the back of the parked car and starts unscrewing its license plate.
-0010_Frau_Ohne_Gewissen_01.46.27.673-01.46.30.832 	He kneels down beside Neff.
-0011_Gandhi_00.25.05.530-00.25.07.097 	She moves and kneels before him.
-0011_Gandhi_02.48.47.992-02.48.49.764 	Nehru crosses and kneels so that he is almost at Gandhi's eyeline.
-0017_Pianist_01.44.14.849-01.44.16.719 	One of the men looks at his watch, glances around, then suddenly kneels and puts the package he's carrying to his shoulder.
-0017_Pianist_01.46.33.273-01.46.38.615 	The woman clutches her stomach, drops slowly to her knees and collapses on the street in an awkward kneeling position, and that's how she remains.
-0021_Rear_Window_00.08.09.062-00.08.10.228 	He kneels down, inspects them, touches them affectionately and with some pride.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.16.40.510-02.16.43.674 	Aragorn kneels down beside him.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.44.00.178-00.44.06.560 	GANDALF kneels down and looks at PIPPIN earnestly, his hand on PIPPIN'S shoulder.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.57.32.512-02.57.36.653 	ARAGORN drops on ONE KNEE, kneeling before THE HOBBITS, his head bowed.
-0031_The_Lost_Weekend_01.28.22.389-01.28.25.496 	She kneels down beside Don.
-0032_The_Princess_Bride_00.36.04.666-00.36.06.762 	CAMERA PULLS BACK TO REVEAL the Prince kneeling by the body as the others ride up.
-0033_Amadeus_00.50.42.978-00.50.54.425 	The young Salieri is kneeling in desperation before the Cross.
-0033_Amadeus_00.51.47.253-00.51.50.138 	We see Leopold kneeling now not to the Cross but to Archbishop Colloredo, sitting impassively on his throne.
-0033_Amadeus_00.52.28.589-00.52.30.021 	The camera pulls back to see that he is in fact kneeling beside Constanze.
-0041_The_Sixth_Sense_01.03.42.740-01.03.48.393 	Lynn is kneeling on the kitchen floor trying to coax the puppy out of the broom closet.
-0049_Hannah_and_her_sisters_00.36.00.410-00.36.06.564 	Onstage, the soprano in the title role sings a mournful aria as she kneels by the ruins of a wagon.
-0050_Indiana_Jones_and_the_last_crusade_01.54.31.609-01.54.38.662 	Indy kneels by Henry's side and tilts his head forward and holds the Grail to his lips.
-1002_Harry_Potter_and_the_Half-Blood_Prince_02.16.57.112-02.17.00.145 	Harry kneels beside Dumbledore's body.
-1002_Harry_Potter_and_the_Half-Blood_Prince_02.17.32.614-02.17.39.295 	Ginny walks forward and kneels down beside Harry.
-1003_How_to_Lose_Friends_and_Alienate_People_01.06.16.148-01.06.20.964 	She kneels down beside him.
-1003_How_to_Lose_Friends_and_Alienate_People_01.09.12.418-01.09.19.034 	Holding Alison upright, Sydney gazes over at Sophie, kneeling by the pool.
-1005_Signs_00.07.36.606-00.07.37.524 	The other one, Houdini, lies slumped in the yard with Bo kneeling in front of him.
-1005_Signs_00.07.39.426-00.07.46.265 	Morgan kneels beside his sister, and drinks from the tall glass.
-1005_Signs_00.09.58.537-00.10.02.204 	Houdini lies motionless on the ground near the climbing frame, with Morgan kneeling beside him.
-1005_Signs_00.40.02.380-00.40.04.047 	Morgan and Bo are kneeling close to the TV.
-1005_Signs_01.00.09.810-01.00.16.477 	Then, with his head turned wearily to one side, and ticked defensively back a little drops delicately to a kneeling position.
-1005_Signs_01.08.27.240-01.08.32.777 	Merrill kneels down on the floor beside them.
-1005_Signs_01.17.07.030-01.17.18.451 	Graham looks around and puts a comforting hand on Morgan's shoulder before kneeling down in front of the frightened boy.
-1005_Signs_01.30.27.560-01.30.31.326 	He switches it on as Merrill kneels beside him.
-1006_Slumdog_Millionaire_00.30.47.446-00.30.53.226 	Salim can watch no more and kneels to vomit.
-1006_Slumdog_Millionaire_01.16.02.217-01.16.06.252 	Jamal watches as Salim kneels on a mat to pray.
+0005_Chinatown_00.09.02.817-00.09.03.825 	he kneels down in the mud and stares at it.
+0010_Frau_Ohne_Gewissen_01.46.27.673-01.46.30.832 	he kneels down beside neff.
+0011_Gandhi_00.25.05.530-00.25.07.097 	she moves and kneels before him.
+0017_Pianist_01.07.27.130-01.07.27.672 	szpilman has unloaded the sacks of potatoes into the corner and is kneeling, about to untie the string on the smallest sack.
+0017_Pianist_01.42.01.993-01.42.18.088 	dorota goes to the kitchen, wets a towel, comes back to the bed, kneels it, places the towel on szpilman's brow.
+0021_Rear_Window_00.08.09.062-00.08.10.228 	he kneels down, inspects them, touches them affectionately and with some pride.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.57.32.512-02.57.36.653 	aragorn drops on one knee, kneeling before the hobbits, his head bowed.
+0031_The_Lost_Weekend_01.28.22.389-01.28.25.496 	she kneels down beside don.
+0032_The_Princess_Bride_00.06.51.148-00.06.54.965 	great waves of people kneeling.
+0032_The_Princess_Bride_00.34.38.632-00.34.41.425 	camera pulls back to reveal the prince, kneeling, inspecting every grain of misplaced sand.
+0032_The_Princess_Bride_00.36.04.666-00.36.06.762 	camera pulls back to reveal the prince kneeling by the body as the others ride up.
+0032_The_Princess_Bride_00.53.39.701-00.53.42.576 	the crowd, suddenly going to its knees, wave after wave of silent kneeling people.
+0032_The_Princess_Bride_01.07.23.392-01.07.24.880 	he kneels, the sword held tight between his hands.
+0033_Amadeus_00.50.42.978-00.50.54.425 	the young salieri is kneeling in desperation before the cross.
+0033_Amadeus_00.51.47.253-00.51.50.138 	we see leopold kneeling now not to the cross but to archbishop colloredo, sitting impassively on his throne.
+0033_Amadeus_00.52.28.589-00.52.30.021 	the camera pulls back to see that he is in fact kneeling beside constanze.
+0041_The_Sixth_Sense_01.03.42.740-01.03.48.393 	lynn is kneeling on the kitchen floor trying to coax the puppy out of the broom closet.
+0049_Hannah_and_her_sisters_00.36.00.410-00.36.06.564 	onstage, the soprano in the title role sings a mournful aria as she kneels by the ruins of a wagon.
+0049_Hannah_and_her_sisters_01.39.03.502-01.39.06.429 	the marx brothers kneel, strumming their banjos, and the movie cuts back to central park.
+0050_Indiana_Jones_and_the_last_crusade_01.18.51.275-01.18.54.146 	an old man kneels at his car repairing a rear tire.
+1001_Flight_01.47.56.195-01.48.03.795 	still kneeling, he unscrews the top from the bottle, and runs his fingers over the cold surface of the glass.
+1003_How_to_Lose_Friends_and_Alienate_People_01.06.16.148-01.06.20.964 	she kneels down beside him.
+1003_How_to_Lose_Friends_and_Alienate_People_01.09.12.418-01.09.19.034 	holding alison upright, sydney gazes over at sophie, kneeling by the pool.
+1005_Signs_00.07.36.606-00.07.37.524 	the other one, houdini, lies slumped in the yard with bo kneeling in front of him.
+1005_Signs_00.09.58.537-00.10.02.204 	houdini lies motionless on the ground near the climbing frame, with morgan kneeling beside him.
+1005_Signs_00.40.02.380-00.40.04.047 	morgan and bo are kneeling close to the tv.
+1005_Signs_01.00.09.810-01.00.16.477 	then, with his head turned wearily to one side, and ticked defensively back a little drops delicately to a kneeling position.
+1005_Signs_01.00.27.400-01.00.30.346 	kneeling up again and sighing with relief.
+1005_Signs_01.17.07.030-01.17.18.451 	graham looks around and puts a comforting hand on morgan's shoulder before kneeling down in front of the frightened boy.
 1008_Spider-Man2_00.01.27.696-00.01.33.194 	peter not stopping the thief, then kneeling by his dying uncle.
 1008_Spider-Man2_00.46.31.377-00.46.43.243 	his brow, alarm spreads over his face, and he kneels up on the operating table, the limbs rising with him.
 1009_Spider-Man3_00.12.57.150-00.13.05.785 	flint walks over to her, kneels down in front of her, and gently takes her arm.
 1009_Spider-Man3_02.07.38.538-02.07.48.369 	he kneels over the dying man as his partner drives away.
-1009_Spider-Man3_02.09.38.522-02.09.41.261 	peter trots around and kneels on the other side from her.
-1010_TITANIC_00.09.11.444-00.09.19.585 	as a cameraman films him, brock kneels and pulls out wads of sodden papers.
-1010_TITANIC_00.17.30.743-00.17.32.072 	brock kneels beside her.
+1009_Spider-Man3_02.10.50.954-02.10.59.004 	kneeling on either side of harry's body, framed by an arc of girders and the dawn light of the clouds beyond, the two childhood friends bow their heads in shared sorrow.
 1010_TITANIC_02.37.28.501-02.37.31.775 	jack and rose continue on, pressing passed a group of people kneeling around a priest.
+1010_TITANIC_02.37.52.152-02.37.59.259 	kneeling people grab one of the priest's hands as he holds onto a cab stand or rotating shaft with his other hand
 1010_TITANIC_02.43.54.779-02.44.07.325 	jack and rose hold hands as they kneel beside one another.
 1011_The_Help_01.19.28.491-01.19.31.111 	she kneels in front of her.
 1012_Unbreakable_01.25.48.846-01.25.59.076 	he kneels beside the boy pulling the plastic cable tying his wrists to a towel rail, light glinting on his wedding ring.
 1014_2012_00.27.02.627-00.27.05.928 	he kneels by his son, ajeet.
-1018_Body_Of_Lies_00.45.08.526-00.45.16.750 	on a vast expanse of brown earth, a suited man stands beside a kneeling figure, whose head is covered with a black hood.
-1018_Body_Of_Lies_00.45.40.840-00.45.44.991 	ferris watches hani walk up to the kneeling figure.
 1018_Body_Of_Lies_01.02.02.789-01.02.05.539 	one of hani's agents, holding a gun, stands beside a figure who kneels with his head covered in a black hood and his wrists bound behind his back.
-1024_Identity_Thief_01.32.49.350-01.32.53.145 	sandy kneels over diana.
-1027_Les_Miserables_00.10.58.344-00.10.58.579 	beside it, valjean kneels at the altar.
+1026_Legion_00.59.11.870-00.59.16.573 	kneeling in front of sandra, audrey takes a pill from a pot.
 1027_Les_Miserables_00.38.27.167-00.38.30.784 	in church, he kneels at an altar.
 1027_Les_Miserables_01.49.55.003-01.49.56.019 	he kneels with his hands tied and the noose around his neck.
-1028_No_Reservations_00.54.27.000-00.54.29.901 	holding a large stainless steel bowl, zoe kneels down in front of a box of potatoes.
 1030_Public_Enemies_00.34.49.646-00.34.51.381 	billie, kneeling over him, unfastens her dress.
-1030_Public_Enemies_01.29.10.959-01.29.17.596 	winstead kneels and opens fire.
+1037_The_Curious_Case_Of_Benjamin_Button_00.35.03.347-00.35.12.911 	kneeling beneath the table, benjamin strikes a match and carefully lights a candle, whose warm glow silhouettes them behind the white drapery.
 1037_The_Curious_Case_Of_Benjamin_Button_00.36.47.597-00.36.53.374 	queenie comes up from the basement in her dressing gown and catches sight of him kneeling in the shadows, staring at the floor.
-1039_The_Queen_00.08.01.792-00.08.06.541 	tony kneels at the queen's gesture.
-1042_Up_In_The_Air_01.02.28.180-01.02.31.773 	ryan kneels on the edge of the wooden pier and reaches for the photo.
-1042_Up_In_The_Air_01.24.53.716-01.25.04.176 	jim walks over to julie, kneels down and takes her hands in his.
+1038_The_Great_Gatsby_01.54.58.807-01.55.00.397 	kneeling with a rag and bucket, gatsby looks around.
 1043_Vantage_Point_01.03.16.346-01.03.18.062 	they kneel by a casualty.
 1046_Australia_00.49.00.000-00.49.05.000 	she crouches down next to him and lays newspapers from a pile out on the ground to kneel on.
 1046_Australia_00.49.11.823-00.49.14.000 	she kneels and thinks.
 1047_Defiance_01.10.12.441-01.10.12.907 	two officers kneeling await their fate.
 1047_Defiance_01.27.19.928-01.27.23.178 	lova, one of his group, kneels down by a basin of water, his face and hands covered in blood.
-1049_Harry_Potter_and_the_chamber_of_secrets_01.12.16.852-01.12.23.161 	harry kneels beside justin and touches his stiff fingers.
+1048_Gran_Torino_00.01.45.322-00.01.51.605 	josh, a thin boy with fair hair, is last to kneel, bow and make the sign of the cross.
 1049_Harry_Potter_and_the_chamber_of_secrets_01.12.38.182-01.12.44.820 	still kneeling beside the petrified justin, harry notices a line of spiders quickly scuttling across the floor.
-1049_Harry_Potter_and_the_chamber_of_secrets_02.12.20.020-02.12.22.119 	harry kneels beside her.
-1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.21.48.051-00.21.50.436 	fred kneels down beside his twin.
-1050_Harry_Potter_and_the_deathly_hallows_Disk_One_02.11.22.933-02.11.29.672 	luna kneels down beside him.
-1052_Harry_Potter_and_the_order_of_phoenix_02.01.21.426-02.01.24.765 	dumbledore kneels besides harry.
+1050_Harry_Potter_and_the_deathly_hallows_Disk_One_02.12.52.352-02.12.59.170 	the three friends kneel, and fill in the grave with sand.
 1052_Harry_Potter_and_the_order_of_phoenix_02.01.59.968-02.02.06.013 	hermione, ron and the others come into the wrecked hall of the ministry of magic and stop in alarm when they see dumbledore kneeling beside harry.
 1052_Harry_Potter_and_the_order_of_phoenix_02.03.30.147-02.03.34.970 	dumbledore still kneels beside harry, who is lying unconscious.
 1053_Harry_Potter_and_the_philosophers_stone_02.06.10.781-02.06.15.613 	he and hermione run to ron, and kneel beside him.
 1053_Harry_Potter_and_the_philosophers_stone_02.06.50.545-02.06.56.943 	still kneeling beside ron, hermione watches him go.
-1055_Marley_and_me_01.50.08.044-01.50.13.575 	she takes off her necklace and kneels down next to the grave.
+1054_Harry_Potter_and_the_prisoner_of_azkaban_01.06.30.000-01.06.44.013 	kneeling beside her friend, hermione puts out a hand and pulls off the invisibility cloak.
 1056_Rambo_00.29.07.733-00.29.10.128 	a man kneels before a pair of soldiers with weapons.
-1056_Rambo_01.08.18.588-01.08.19.908 	a soldier kneels to inspect the ground.
-1056_Rambo_01.18.29.958-01.18.31.423 	school boy kneels over lewis, and reese over en-joo's corpse.
-1057_Seven_pounds_01.36.47.990-01.36.51.525 	tim kneels astride emily, who helps him off with his polo shirt.
 1058_The_Damned_united_01.27.33.000-01.27.38.777 	peter takes a step closer to kneeling brian, scrutinizing him.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.02.00.604-00.02.06.153 	harry potter kneels at the foot of the grave, looking into a piece of broken mirror.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.51.24.328-00.51.30.741 	he kneels down and places the golden cup on the ground between them.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.09.53.770-01.09.57.306 	harry moves towards him and kneels down beside him.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.14.03.294-01.14.08.416 	distraught, molly kneels beside fred's body.
-1062_Day_the_Earth_stood_still_01.25.56.000-01.26.01.303 	jacob kneels down dejectedly in front of his father's grave.
 1062_Day_the_Earth_stood_still_01.26.20.000-01.26.28.170 	as he kneels crying, helen rushes up to him, kneels down, puts her arms around him, and hugs him tightly.
-2004_Juno_00.58.43.418-00.58.47.304 	vanessa kneels down next to the swell of juno's belly.
-2005_Signs_00.38.01.276-00.38.04.317 	graham kneels down and gropes in the darkness.
 2005_Signs_01.01.07.088-01.01.08.307 	he sits there kneeling two feet from the door.
 2005_Signs_01.01.25.579-01.01.36.127 	graham lets go of the doorknob -- he turns and walks quickly across the kitchen -- he picks up the butcher knife -- he kneels down next to the pantry -- he ducks his head under the slanted kitchen table -- he places his cheek to the floor, only inches from the bottom of the door, and looks into the pantry.
-2005_Signs_01.30.21.388-01.30.23.538 	merrill watches as graham kneels down and reaches to morgan's side.
-2005_Signs_01.38.21.887-01.38.26.501 	merrill and bo find graham kneeling in the grass.
-2012_Unbreakable_00.01.19.869-00.01.24.500 	he kneels down and gestures for the bundle of sweatshirts in her arms.
-2026_Legion_01.12.17.846-01.12.24.207 	charlie, drenched in sweat is writhing on the ground with michael holding down her arms and audrey kneeling between her legs.
-1052_Harry_Potter_and_the_order_of_phoenix_02.01.21.426-02.01.24.765 	dumbledore kneels besides harry.
-1052_Harry_Potter_and_the_order_of_phoenix_02.01.59.968-02.02.06.013 	hermione, ron and the others come into the wrecked hall of the ministry of magic and stop in alarm when they see dumbledore kneeling beside harry.
-1052_Harry_Potter_and_the_order_of_phoenix_02.03.30.147-02.03.34.970 	dumbledore still kneels beside harry, who is lying unconscious.
-1053_Harry_Potter_and_the_philosophers_stone_02.06.10.781-02.06.15.613 	he and hermione run to ron, and kneel beside him.
-1053_Harry_Potter_and_the_philosophers_stone_02.06.50.545-02.06.56.943 	still kneeling beside ron, hermione watches him go.
-1055_Marley_and_me_01.50.08.044-01.50.13.575 	she takes off her necklace and kneels down next to the grave.
-1056_Rambo_00.29.07.733-00.29.10.128 	a man kneels before a pair of soldiers with weapons.
-1056_Rambo_01.08.18.588-01.08.19.908 	a soldier kneels to inspect the ground.
-1056_Rambo_01.18.29.958-01.18.31.423 	school boy kneels over lewis, and reese over en-joo's corpse.
-1057_Seven_pounds_01.36.47.990-01.36.51.525 	tim kneels astride emily, who helps him off with his polo shirt.
-1058_The_Damned_united_01.27.33.000-01.27.38.777 	peter takes a step closer to kneeling brian, scrutinizing him.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.02.00.604-00.02.06.153 	harry potter kneels at the foot of the grave, looking into a piece of broken mirror.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.51.24.328-00.51.30.741 	he kneels down and places the golden cup on the ground between them.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.09.53.770-01.09.57.306 	harry moves towards him and kneels down beside him.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.14.03.294-01.14.08.416 	distraught, molly kneels beside fred's body.
-1062_Day_the_Earth_stood_still_01.25.56.000-01.26.01.303 	jacob kneels down dejectedly in front of his father's grave.
-1062_Day_the_Earth_stood_still_01.26.20.000-01.26.28.170 	as he kneels crying, helen rushes up to him, kneels down, puts her arms around him, and hugs him tightly.
-2004_Juno_00.58.43.418-00.58.47.304 	vanessa kneels down next to the swell of juno's belly.
-2005_Signs_00.38.01.276-00.38.04.317 	graham kneels down and gropes in the darkness.
-2005_Signs_01.01.07.088-01.01.08.307 	he sits there kneeling two feet from the door.
-2005_Signs_01.01.25.579-01.01.36.127 	graham lets go of the doorknob -- he turns and walks quickly across the kitchen -- he picks up the butcher knife -- he kneels down next to the pantry -- he ducks his head under the slanted kitchen table -- he places his cheek to the floor, only inches from the bottom of the door, and looks into the pantry.
-2005_Signs_01.30.21.388-01.30.23.538 	merrill watches as graham kneels down and reaches to morgan's side.
-2005_Signs_01.38.21.887-01.38.26.501 	merrill and bo find graham kneeling in the grass.
 2012_Unbreakable_00.01.19.869-00.01.24.500 	he kneels down and gestures for the bundle of sweatshirts in her arms.
 2026_Legion_01.12.17.846-01.12.24.207 	charlie, drenched in sweat is writhing on the ground with michael holding down her arms and audrey kneeling between her legs.
 2027_Les_Miserables_01.44.12.242-01.44.14.197 	he kneels by her side.
 2027_Les_Miserables_01.57.05.293-01.57.15.462 	valjean is now kneeling next to the sleeping marius.
-2034_Super_8_00.40.38.379-00.40.40.244 	jack kneels by the smith and wesson model 19.
+2034_Super_8_01.12.30.710-01.12.33.301 	slam-flattened by jack, who kneels to him.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_01.06.19.675-01.06.45.297 	ron takes hermione's arm, discouraging her from going further, but she does, filling the footprints with her own, then kneeling and -- very gently -- drawing the cloak from harry.

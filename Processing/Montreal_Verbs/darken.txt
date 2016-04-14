@@ -1,21 +1,11 @@
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS132 	00:16:06,00 --> 00:16:11,50 	the young man's gaze darkens.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS213 	00:17:08,00 --> 00:17:14,50 	now, someone races down a darkened beach to the waves.
-DISTRICT_9.srt 	DISTRICT_9_DVS311 	00:34:18,00 --> 00:34:29,50 	someone greets him as he enters the darkened house.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS483 	01:10:22,00 --> 01:10:30,50 	at dusk above the darkened horizon, scattered clouds roll across the sky.
-HUGO.srt 	HUGO_DVS273 	00:40:11,00 --> 00:40:18,50 	inside the darkened theatre, someone and someone sit together.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS228 	01:06:47,00 --> 01:06:55,50 	now, the sky darkens over new york.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS866 	01:27:15,00 --> 01:27:21,50 	someone watches the journal get sucked into the darkening sky.
 PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS320 	01:20:28,00 --> 01:20:36,50 	the sports car races through a barren desert landscape under a sky darkened with storm clouds.
-SANCTUM.srt 	SANCTUM_DVS86 	00:17:39,00 --> 00:17:47,50 	a single spotlight shines up from the floor as someone leads them through the darkened chamber.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS585 	00:39:06,00 --> 00:39:12,50 	now, someone carries a tray of food through a darkened hall.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1002 	01:05:30,00 --> 01:05:37,50 	beyond them, a vast mass of skyscrapers stands mostly darkened.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS441 	01:34:26,00 --> 01:34:31,50 	now, clouds of black darken the sky above.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS394 	00:58:16,00 --> 00:58:21,50 	the skies darken and the sands turns to ocean,
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS84 	00:15:39,00 --> 00:15:44,50 	his expression darkens.
-THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS30 	00:08:38,00 --> 00:08:45,50 	he posts the entry, the image darkens.
 THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS32 	00:09:14,00 --> 00:09:22,50 	the image briefly darkens.
 THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS204 	01:20:26,00 --> 01:20:31,50 	as the sky darkens.
 THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS270 	01:42:21,00 --> 01:42:26,50 	in the conference room, someone's expression darkens.
 THE_WATCH.srt 	THE_WATCH_DVS54 	00:06:49,00 --> 00:06:54,50 	antonio dashes through the darkened store.
-UGLY_TRUTH.srt 	UGLY_TRUTH_DVS657 	01:31:08,00 --> 01:31:16,50 	light filters into someone's darkened bedroom through the drawn curtains, offering a shadowy view of the couple in bed.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1019 	01:31:59,00 --> 01:32:04,50 	someone shuts the lid, darkening our view.

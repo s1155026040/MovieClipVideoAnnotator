@@ -1,101 +1,46 @@
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS483 	01:18:12,00 --> 01:18:22,50 	his hands folded over a desk full of paperwork.
 40_YEAR_OLD_VIRGIN.srt 	40_YEAR_OLD_VIRGIN_DVS134 	01:07:19,00 --> 01:07:27,50 	someone approaches with her arms folded.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS103 	00:08:51,00 --> 00:08:56,50 	now, a man's cuffed hands rest folded on a table.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS412 	00:39:28,00 --> 00:39:34,50 	his arms folded, someone gives an understanding nod.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS930 	01:30:35,00 --> 01:30:41,50 	before them, someone stands anxiously with her arms folded.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS932 	01:30:40,00 --> 01:30:44,50 	the private jet's passenger door opens and the stairs fold out.
 BAD_TEACHER.srt 	BAD_TEACHER_DVS268 	01:12:02,00 --> 01:12:07,50 	he folds his hands over his heart.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS422 	01:07:45,00 --> 01:07:51,50 	someone attentively folds her hands.
 BLINDDATING.srt 	BLINDDATING_DVS54 	00:16:26,00 --> 00:16:44,50 	now, at a college campus, someone folds up his cane in a hallway.
-BLINDDATING.srt 	BLINDDATING_DVS283 	01:10:53,00 --> 01:11:05,50 	someone folds his hands in the waiting room.
 BLINDDATING.srt 	BLINDDATING_DVS335 	01:20:10,00 --> 01:20:24,50 	his hands folded on his chest.
 BRUNO.srt 	BRUNO_DVS140 	00:33:26,00 --> 00:33:31,50 	someone folds his hands over his crossed knees.
-BRUNO.srt 	BRUNO_DVS217 	01:00:58,00 --> 01:01:11,50 	his legs crossed tightly, and his hands folded neatly on his knee, lowering his stare.
 BURLESQUE.srt 	BURLESQUE_DVS240 	00:34:34,00 --> 00:34:40,50 	someone folds his hands.
 BURLESQUE.srt 	BURLESQUE_DVS315 	00:43:48,00 --> 00:43:54,50 	in her office, someone folds a piece of paper into an airplane.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS423 	01:17:00,00 --> 01:17:05,50 	the woman sashays to someone who folds his arms and glances away.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS442 	00:42:28,00 --> 00:42:33,50 	he and someone touch folded arms in a handshake.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS795 	01:18:44,00 --> 01:18:50,50 	stare at the ceiling, their hands folded over their chests.
-CHRONICLE.srt 	CHRONICLE_DVS244 	00:34:54,00 --> 00:35:00,50 	as it floats upward, he folds his arms and watches it contentedly.
-CHRONICLE.srt 	CHRONICLE_DVS323 	00:49:36,00 --> 00:49:44,50 	someone lies belly-down on his bedroom floor, half-propped on his elbows with his hands folded.
-CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS35 	00:08:06,00 --> 00:08:15,50 	a man's fingers reach for a folded straight razor near the braddock's unframed wedding photo.
-CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS70 	00:13:49,00 --> 00:14:00,50 	in the basement apartment, someone's oldest son sits against a wall with his arms folded.
-CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS270 	01:05:41,00 --> 01:05:48,50 	he strokes her hair, steps back, and folds his arms with a smile.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS354 	01:27:13,00 --> 01:27:22,50 	two ambulance workers fold someone's arms across his chest and hoist him onto a stretcher.
 COLOMBIANA.srt 	COLOMBIANA_DVS85 	00:06:23,00 --> 00:06:30,50 	he scribbles a chicago address on a piece of paper, folds it, and tucks it into her jumper.
-COLOMBIANA.srt 	COLOMBIANA_DVS128 	00:10:53,00 --> 00:11:01,50 	someone sits across from someone and folds his arms on the table, then eyes the beefy gunman.
-COLOMBIANA.srt 	COLOMBIANA_DVS479 	00:42:22,00 --> 00:42:29,50 	now someone warren watches, arms folded, as someone stands in someone's cell.
-FLIGHT.srt 	FLIGHT_DVS42 	00:06:33,00 --> 00:06:40,50 	a woman steps out of a room at hotel atlanta, carrying a folded up massage table.
 HUGO.srt 	HUGO_DVS126 	00:16:53,00 --> 00:16:58,50 	someone plants his feet and folds his arms.
-HUGO.srt 	HUGO_DVS208 	00:31:12,00 --> 00:31:18,50 	someone sets down a cup of small hand tools then folds his arms.
-INSIDE_MAN.srt 	INSIDE_MAN_DVS63 	00:17:17,00 --> 00:17:24,50 	one woman hugs her folded hands to her chest.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS79 	00:19:39,00 --> 00:19:52,50 	someone folds his arms behind his back.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS193 	00:35:35,00 --> 00:36:10,50 	small armored plates pop vertically out of the suit, then fold down to form a layer of protective metal.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS226 	01:06:53,00 --> 01:06:58,50 	she thoughtfully folds her arms.
 JACK_AND_JILL.srt 	JACK_AND_JILL_DVS114 	00:23:13,00 --> 00:23:18,50 	he gruffly folds his arms.
 JACK_AND_JILL.srt 	JACK_AND_JILL_DVS265 	00:52:20,00 --> 00:52:25,50 	someone squats down and folds her arms in front of her.
-JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS180 	00:33:35,00 --> 00:33:44,50 	madame someone enters, folds her arms and watches someone with a sour glare.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS539 	01:47:00,00 --> 01:47:05,50 	someone folds up the letter and lays it aside.
 KARATE_KID.srt 	KARATE_KID_DVS547 	00:49:25,00 --> 00:49:33,50 	someone folds a blanket on the wicker couch.
-KARATE_KID.srt 	KARATE_KID_DVS971 	01:19:29,00 --> 01:19:42,50 	the disciple tucks her extended leg in briefly, and folds her arms across her torso, then lifts her knee up to her chest, and extends her arms in a slanted t, pointing down at the serpent.
 LAND_OF_THE_LOST.srt 	LAND_OF_THE_LOST_DVS122 	00:42:39,00 --> 00:42:45,50 	someone folds his arms with a smirk.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS412 	00:48:05,00 --> 00:48:12,50 	facing someone, she grimly works her lips and folds her long arms.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS531 	00:57:59,00 --> 00:58:07,50 	later, he puts the folded torn out in an empty water can and caps it.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS1085 	01:50:20,00 --> 01:50:26,50 	the older someone leans back with his arms folded and gazes off.
 LITTLE_FOCKERS.srt 	LITTLE_FOCKERS_DVS26 	00:11:10,00 --> 00:11:28,50 	he folds dr.
-LITTLE_FOCKERS.srt 	LITTLE_FOCKERS_DVS50 	00:19:49,00 --> 00:19:56,50 	with a calm look, someone sits beside someone, his hands folded.
-MORNING_GLORY.srt 	MORNING_GLORY_DVS49 	00:08:14,00 --> 00:08:20,50 	she hugs her knees, then folds her arms across her.
-NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS145 	00:33:00,00 --> 00:33:19,50 	in bed, someone reads a worn letter, then sniffs a dried flower folded inside.
-NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS252 	00:52:33,00 --> 00:52:52,50 	someone pulls out some brown velveteen pants and a crisp white blouse, both neatly folded.
-NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS62 	00:07:30,00 --> 00:07:36,50 	pretty, dark-haired someone watches him with her arms folded.
-PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS98 	00:25:38,00 --> 00:25:45,50 	as she goes, someone sternly folds his arms across his chest.
-PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS362 	01:27:07,00 --> 01:27:12,50 	the young boy steps back from the hole with his arms folded.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS180 	00:34:01,00 --> 00:34:24,50 	folding back the layer, she finds a camel hair coat with a thick fur collar.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS314 	00:59:58,00 --> 01:00:03,50 	the judge folds his hands thoughtfully.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS519 	01:38:04,00 --> 01:38:10,50 	someone steps forward, arms folded across his chest.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS599 	01:52:18,00 --> 01:52:23,50 	someone folds up the note.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS155 	00:38:42,00 --> 00:38:51,50 	prince someone drops to one knee and prayerfully folds his hands.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS273 	01:05:19,00 --> 01:05:28,50 	she folds her hands at her waist.
-RUBY_SPARKS.srt 	RUBY_SPARKS_DVS478 	01:12:29,00 --> 01:12:35,50 	someone folds his hands and looks away.
 SANCTUM.srt 	SANCTUM_DVS204 	00:45:55,00 --> 00:46:03,50 	she folds her arms across her chest and stubbornly plants her feet.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS127 	00:08:28,00 --> 00:08:32,50 	someone beams softly, folds the note shut, and gazes out the window with a hopeful smile.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS380 	00:25:18,00 --> 00:25:23,50 	now, someone sits at the edge of a curtained state bed, her hands folded in her lap.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS413 	00:27:37,00 --> 00:27:44,50 	later, someone folds a robe in her bedroom while her husband pours tea at a small table.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS713 	00:46:55,00 --> 00:47:02,50 	someone folds back the sleeve of her flannel shirt and checks her watch,
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1367 	01:33:25,00 --> 01:33:32,50 	now, in a modest bedroom, someone lies on a sleeping platform with her hands folded on her chest.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1400 	01:35:11,00 --> 01:35:20,50 	she gazes at someone, who lies peacefully by with her eyes closed and her hands folded on her stomach.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1415 	01:36:17,00 --> 01:36:22,50 	still clutching the folded fan,
 SOUL_SURFER.srt 	SOUL_SURFER_DVS275 	01:19:52,00 --> 01:19:57,50 	straightening, someone folds his arms,
-SOUL_SURFER.srt 	SOUL_SURFER_DVS283 	01:20:47,00 --> 01:20:52,50 	arms folded, someone returns his gaze to the surf.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS563 	01:32:41,00 --> 01:32:54,50 	later with her arms folded, someone paces in the lobby of an apartment building.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS588 	01:36:13,00 --> 01:36:19,50 	she folds her arms across her chest and sullenly obeys.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS97 	00:23:12,00 --> 00:23:19,50 	someone sits back and folds his arms.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS119 	00:27:44,00 --> 00:27:56,50 	someone rolls her eyes curiously then folds her legs.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS209 	00:39:35,00 --> 00:39:45,50 	her mother joins her as she folds her daughter's clothes.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS226 	00:43:41,00 --> 00:43:46,50 	he folds his hands on the table.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS247 	00:47:20,00 --> 00:47:29,50 	now, someone lies on his bed with his hands folded under his head.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS248 	00:47:28,00 --> 00:47:39,50 	with a sour look, he rejects the calls then smooths the front of his shirt and folds his hands behind his head.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS253 	00:48:31,00 --> 00:48:41,50 	someone lies with his arms folded over his stomach and his eyes shut.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS318 	01:00:24,00 --> 01:00:36,50 	he folds his overcoat closed as a strong breeze blows through some trees and bushes at a wall behind them.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS69 	00:13:45,00 --> 00:13:53,50 	he hands someone a folded piece of paper.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS431 	01:21:14,00 --> 01:21:23,50 	he scoots up against someone and folds his arms.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS437 	01:22:00,00 --> 01:22:06,50 	closing his eyes, someone folds his hands behind his head.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS210 	00:34:16,00 --> 00:34:21,50 	as someone rocks herself, her arms folded, someone gazes remorsefully after his friend.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS400 	01:00:27,00 --> 01:00:32,50 	later, at the front desk, someone folds up his wallet.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS667 	01:33:47,00 --> 01:33:56,50 	one of the king cousins breaks off from the socializing to place a folded slip of paper in a large wooden bowl,
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS817 	01:48:53,00 --> 01:48:59,50 	arms folded, she halts behind the ice cream eating pair.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS218 	00:26:28,00 --> 00:26:36,50 	attempting another call, he crosses to a bedroom where pillows and folded towels lie stacked at the foot of the bed.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS308 	00:36:28,00 --> 00:36:32,50 	he folds his hands.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS899 	01:39:50,00 --> 01:39:56,50 	he accepts and she folds her arm behind her head.
 THE_SITTER.srt 	THE_SITTER_DVS143 	01:13:55,00 --> 01:14:00,50 	he hands someone a folded someone.
 THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS246 	01:34:45,00 --> 01:34:49,50 	she folds her arms.
-THE_VOW.srt 	THE_VOW_DVS404 	00:56:01,00 --> 00:56:06,50 	she folds it hurriedly as someone walks in.
-THE_VOW.srt 	THE_VOW_DVS592 	01:21:33,00 --> 01:21:39,50 	someone walks up to him with folded arms.
-THE_VOW.srt 	THE_VOW_DVS652 	01:30:40,00 --> 01:30:44,50 	folding them she stares off.
-THOR.srt 	THOR_DVS278 	00:37:24,00 --> 00:37:30,50 	someone folds his arms and stares at someone as he walks away.
-TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS610 	01:06:45,00 --> 01:06:50,50 	someone folds the flyer and sets it aside.
-TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS700 	01:17:26,00 --> 01:17:35,50 	their coach folds his arms, shakes his head, and allows a smile.
 TRUE_GRIT.srt 	TRUE_GRIT_DVS90 	00:23:53,00 --> 00:23:58,50 	with her arms folded over her chest.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS637 	01:28:19,00 --> 01:28:25,50 	they both fold their arms and pout.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS226 	00:28:57,00 --> 00:29:03,50 	she slaps the list down by her computer and folds her arms in a pout.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS937 	01:26:29,00 --> 01:26:35,50 	leaning his elbows on his knees, someone folds his hand

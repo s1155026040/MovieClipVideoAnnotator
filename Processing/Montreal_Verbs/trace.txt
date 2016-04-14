@@ -1,4 +1,2 @@
 IN_TIME.srt 	IN_TIME_DVS514 	00:55:37,00 --> 00:55:42,50 	the blond timekeeper traces the call.
-PROMETHEUS.srt 	PROMETHEUS_DVS511 	00:54:34,00 --> 00:54:45,50 	meanwhile, on the bridge, the holographic map shows the pups still tracing out tunnels and chambers and someone's and someone's location within.
-SANCTUM.srt 	SANCTUM_DVS458 	01:25:42,00 --> 01:25:53,50 	someone looks at his son, his profile traced in a glimmer of light.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS96 	00:17:59,00 --> 00:18:11,50 	on a map, a dotted line traces a path from oahu to the island of hawaii.

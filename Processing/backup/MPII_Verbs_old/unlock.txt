@@ -1,21 +1,40 @@
-0001_American_Beauty_01.00.50.351-01.01.04.148 	He unlocks the cabinet and opens it, revealing shelves stacked with WAR MEMORABILIA.
-0002_As_Good_As_It_Gets_01.04.18.370-01.04.22.753 	As we hear him unlock the door, Carol looks at her breasts and gasps.
-0004_Charade_00.39.19.063-00.39.21.953 	REGGIE unlocks the door and opens it.
-0004_Charade_01.12.09.629-01.12.10.658 	She unlocks it, tries to open it, but finds it locked.
-0009_Forrest_Gump_00.26.58.171-00.27.05.313 	Jenny unlocks the door and they step inside.
-0011_Gandhi_01.09.50.769-01.10.02.613 	The police guard hesitates, and then unlocks the cell.
-0013_Halloween_00.15.10.234-00.15.11.894 	Loomis reaches a car and unlocks it.
-0014_Ist_das_Leben_nicht_schoen_00.52.48.227-00.52.50.328 	He quickly unlocks the grill door and pushes it open.
-0017_Pianist_01.17.02.861-01.17.15.491 	Gebczynski unlocks the door and they go in.
-0017_Pianist_01.36.56.258-01.37.09.995 	Szpilman alert, hearing the padlock being unlocked and then iheYdle.
-0021_Rear_Window_01.03.43.414-01.03.53.528 	Thorwald comes up the corridor, and stands unlocking his door.
-0021_Rear_Window_01.39.27.991-01.39.30.068 	Thorwald at the door, unlocking it with his key.
-0023_THE_BUTTERFLY_EFFECT_01.24.39.723-01.24.42.630 	Evan unlocks the door and is moved by what he sees.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.38.01.083-02.38.02.642 	ANGLE ON: FRODO as he struggles to unlock the BONY, WHITE FINGERS around his neck but SMEAGOL'S grip is too strong.
-0030_The_Hustler_01.41.04.893-01.41.10.627 	The bellboy unlocks the door and Sarah enters.
-0031_The_Lost_Weekend_01.00.15.864-01.00.31.233 	Don drags himself up the last few steps, unlocks the door and goes in, leaving paper, bottle and note untouched.
-1003_How_to_Lose_Friends_and_Alienate_People_01.08.44.733-01.08.48.848 	Alison is bent over, drunkenly failing to unlock her car door.
+0001_American_Beauty_01.00.50.351-01.01.04.148 	he unlocks the cabinet and opens it, revealing shelves stacked with war memorabilia.
+0002_As_Good_As_It_Gets_01.04.18.370-01.04.22.753 	as we hear him unlock the door, carol looks at her breasts and gasps.
+0004_Charade_00.39.19.063-00.39.21.953 	reggie unlocks the door and opens it.
+0004_Charade_01.12.09.629-01.12.10.658 	she unlocks it, tries to open it, but finds it locked.
+0009_Forrest_Gump_00.26.58.171-00.27.05.313 	jenny unlocks the door and they step inside.
+0011_Gandhi_01.09.50.769-01.10.02.613 	the police guard hesitates, and then unlocks the cell.
+0013_Halloween_00.15.10.234-00.15.11.894 	loomis reaches a car and unlocks it.
+0014_Ist_das_Leben_nicht_schoen_00.52.48.227-00.52.50.328 	he quickly unlocks the grill door and pushes it open.
+0017_Pianist_01.17.02.861-01.17.15.491 	gebczynski unlocks the door and they go in.
+0021_Rear_Window_01.39.27.991-01.39.30.068 	thorwald at the door, unlocking it with his key.
+0023_THE_BUTTERFLY_EFFECT_01.24.39.723-01.24.42.630 	evan unlocks the door and is moved by what he sees.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.38.01.083-02.38.02.642 	angle on: frodo as he struggles to unlock the bony, white fingers around his neck but smeagol's grip is too strong.
+0030_The_Hustler_01.41.04.893-01.41.10.627 	the bellboy unlocks the door and sarah enters.
+0031_The_Lost_Weekend_01.00.15.864-01.00.31.233 	don drags himself up the last few steps, unlocks the door and goes in, leaving paper, bottle and note untouched.
+1003_How_to_Lose_Friends_and_Alienate_People_01.08.44.733-01.08.48.848 	alison is bent over, drunkenly failing to unlock her car door.
+1010_TITANIC_02.09.05.017-02.09.08.810 	two stewards unlock the gate.
+1017_Bad_Santa_00.12.52.703-00.13.01.737 	he saunters through the parking lot pressing the remotes and cars flash and unlock.
+1017_Bad_Santa_00.30.37.284-00.30.46.081 	as the kid unlocks the door, willie pulls out a cotch and puts on a black balaclava.
+1018_Body_Of_Lies_01.30.22.746-01.30.25.228 	he unlocks it.
+1028_No_Reservations_00.08.54.590-00.09.00.879 	she unlocks the door and opens it, stands beside it for a few seconds then closes it again.
+1030_Public_Enemies_00.04.26.730-00.04.27.653 	dillinger unlocks the steel door.
+1030_Public_Enemies_00.56.27.514-00.56.30.465 	an officer unlocks dillinger's wrist restraints.
+1030_Public_Enemies_00.57.45.144-00.57.51.010 	later, a guard unlocks a cellblock door and a deputy guides a portly lawyer inside.
+1030_Public_Enemies_01.01.10.283-01.01.15.950 	a guard unlocks a barred door then raises his baton to a second metal door just inside.
+1030_Public_Enemies_01.01.16.283-01.01.19.950 	the guard looks through a peephole then unlocks the door for the janitor.
+1030_Public_Enemies_01.02.49.686-01.02.56.195 	the guard on the other side peeks through then unlocks it.
+1031_Quantum_of_Solace_01.19.39.614-01.19.50.725 	he grabs the keys and unlocks his handcuffs, then frisks his would be captors.
+1037_The_Curious_Case_Of_Benjamin_Button_01.13.00.039-01.13.04.521 	they arrive outside room 57, and he unlocks the door.
+1037_The_Curious_Case_Of_Benjamin_Button_01.16.28.983-01.16.31.713 	benjamin unlocks his door and finds a note has been pushed under it.
+1039_The_Queen_01.16.22.996-01.16.29.630 	the man unlocks the door to a small, stone building.
+1043_Vantage_Point_00.56.49.454-00.56.59.121 	he reaches the fourth floor and strolls down a corridor, where he slots a swipe card into a machine on a hotel room door, unlocking it.
+1048_Gran_Torino_01.24.42.000-01.24.45.421 	he winces as he straightens up and unlocks the door.
+1049_Harry_Potter_and_the_chamber_of_secrets_00.09.31.491-00.09.37.872 	vernon unlocks the padlocks on harry's door.
+1049_Harry_Potter_and_the_chamber_of_secrets_00.10.50.416-00.11.00.223 	the three brothers unlock the door and creep stealthily into the house.
+1049_Harry_Potter_and_the_chamber_of_secrets_02.03.42.501-02.03.50.218 	one snake glides around the circumference, unlocking the mechanism.
 1053_Harry_Potter_and_the_philosophers_stone_01.54.34.882-01.54.39.844 	hermione unlocks the door on the third floor.
+1054_Harry_Potter_and_the_prisoner_of_azkaban_01.08.44.540-01.08.57.125 	unlocking a trunk, lupin releases a dementor.
 1057_Seven_pounds_01.10.39.472-01.10.41.309 	she unlocks the padlock on them.
 1057_Seven_pounds_01.17.50.770-01.17.53.682 	ben unlocks the padlock.
 1057_Seven_pounds_01.33.04.515-01.33.14.176 	he steps over the low picket fence, goes to unlock his car, and takes out the gift.

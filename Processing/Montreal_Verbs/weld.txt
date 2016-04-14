@@ -1,5 +1,1 @@
-IRON_MAN_2.srt 	IRON_MAN_2_DVS25 	00:02:58,00 --> 00:03:05,50 	later wearing welding goggles, someone welds pieces of metal together.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS25 	00:02:58,00 --> 00:03:05,50 	later wearing welding goggles, someone welds pieces of metal together.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS28 	00:03:10,00 --> 00:03:37,50 	someone stops welding and lifts the goggles above his forehead.
-KARATE_KID.srt 	KARATE_KID_DVS842 	01:09:39,00 --> 01:09:48,50 	now, a second sparkler dramatizing the puppets' kiss blurs to become sparks thrown by a welding torch in someone's grip.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS241 	00:36:51,00 --> 00:37:00,50 	on the ship's deck crew members weld together a long track.

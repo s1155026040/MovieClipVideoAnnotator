@@ -1,19 +1,11 @@
-21_JUMP_STREET.srt 	21_JUMP_STREET_DVS422 	01:11:09,00 --> 01:11:16,50 	the leader weaves through traffic with the piata strapped to his sissy bar.
-21_JUMP_STREET.srt 	21_JUMP_STREET_DVS637 	01:35:52,00 --> 01:35:59,50 	as someone expertly weaves the limo through traffic his partner leans down to face someone.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS268 	00:23:13,00 --> 00:23:22,50 	further on, someone leads the way, weaving through oncoming traffic.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS293 	00:25:20,00 --> 00:25:27,50 	meanwhile, someone speeds down an off-ramp, weaving through cars.
-COLOMBIANA.srt 	COLOMBIANA_DVS156 	00:13:58,00 --> 00:14:05,50 	in a courtyard, someone weaves around sheets hanging on clotheslines
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS562 	01:20:11,00 --> 01:20:32,50 	the rider deftly weaves around the truck.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS566 	01:21:18,00 --> 01:21:51,50 	she weaves around it without breaking speed.
 HUGO.srt 	HUGO_DVS60 	00:07:56,00 --> 00:08:03,50 	the boy zips through the cafe, then weaves his way through tables out front.
 IN_TIME.srt 	IN_TIME_DVS429 	00:46:03,00 --> 00:46:08,50 	someone weaves the roadster through the traffic.
 IN_TIME.srt 	IN_TIME_DVS900 	01:35:21,00 --> 01:35:29,50 	he weaves the limo between the cruisers and crashes straight through the border's security booth.
 KARATE_KID.srt 	KARATE_KID_DVS764 	01:04:49,00 --> 01:04:54,50 	they weave through the crowd and arrive at a pond.
 KARATE_KID.srt 	KARATE_KID_DVS974 	01:19:47,00 --> 01:19:53,50 	the cobra mirrors her, weaving left and right.
-LARRY_CROWNE.srt 	LARRY_CROWNE_DVS208 	00:48:33,00 --> 00:48:38,50 	now our view follow someone as he weaves through traffic o0n his blue scooter.
-PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS318 	01:20:17,00 --> 01:20:25,50 	the maserati weaves around the other cars as it speeds down the strip.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS623 	01:23:28,00 --> 01:23:36,50 	inside two men weave rugs.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS208 	00:42:06,00 --> 00:42:11,50 	someone weaves past boldly upholstered furniture.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS580 	01:04:29,00 --> 01:04:33,50 	he weaves through an obstacle course.
-TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS661 	01:13:57,00 --> 01:14:03,50 	an opposing player blocks someone as he tries to weave around.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS77 	00:06:23,00 --> 00:06:28,50 	the car weaves as the narrator fends him off.

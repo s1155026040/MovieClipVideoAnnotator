@@ -1,5 +1,1 @@
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS398 	01:12:29,00 --> 01:12:35,50 	a daily mail billboard reads, captain america to receive medal for valor.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS102 	00:28:54,00 --> 00:28:59,50 	now, captain someone meets with someone and someone.
-MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS692 	01:25:47,00 --> 01:25:53,50 	someone sees captain waddling off to the side.
-MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS701 	01:27:07,00 --> 01:27:13,50 	behind them a penguin runs over to captain and nuzzles with her.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS223 	00:34:23,00 --> 00:34:28,50 	someone follows captain someone up a corridor.

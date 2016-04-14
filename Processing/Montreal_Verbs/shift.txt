@@ -5,8 +5,6 @@ A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS82 	00:06:22,00 --> 00:06:
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS159 	00:14:40,00 --> 00:14:46,50 	shifting his gaze, someone's eyes linger on its protruding front end.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS285 	00:24:36,00 --> 00:24:44,50 	elsewhere, someone continues down a highway, shifting his glaring eyes between his mirror and the road.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS402 	00:37:05,00 --> 00:37:11,50 	someone shifts his exasperated gaze as his son helps someone to his feet and urges him onward.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS702 	01:11:47,00 --> 01:11:52,50 	shifting her weight, she approaches her father.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS728 	01:13:23,00 --> 01:13:31,50 	someone glances toward the doorway then steps forward, shifting his gaze across the room.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS779 	01:17:33,00 --> 01:17:41,50 	someone shifts his gaze between them.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS922 	01:28:48,00 --> 01:28:52,50 	someone shifts his weight and grimaces.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS445 	01:04:07,00 --> 01:04:13,50 	someone shifts his sorrowful gaze and someone heads out.
@@ -18,23 +16,15 @@ BLINDDATING.srt 	BLINDDATING_DVS44 	00:13:57,00 --> 00:14:03,50 	someone shifts 
 BRUNO.srt 	BRUNO_DVS44 	00:08:13,00 --> 00:08:23,50 	someone swallows, and shifts his wounded gaze.
 BRUNO.srt 	BRUNO_DVS52 	00:10:13,00 --> 00:10:31,50 	his script at his side, someone shifts his haunted wide-eyed gaze.
 BRUNO.srt 	BRUNO_DVS218 	01:01:13,00 --> 01:01:22,50 	someone glances at robert, then shifts his eyes to someone and someone on his other side.
-BRUNO.srt 	BRUNO_DVS238 	01:05:29,00 --> 01:05:40,50 	later in the house, he shifts uncomfortably as two men and a woman give another woman oral sex.
 BURLESQUE.srt 	BURLESQUE_DVS271 	00:38:01,00 --> 00:38:06,50 	someone's eyes shift to her makeup,
 BURLESQUE.srt 	BURLESQUE_DVS377 	00:52:10,00 --> 00:52:16,50 	someone shifts her gaze from coco to another dancer, who nods.
 BURLESQUE.srt 	BURLESQUE_DVS721 	01:49:01,00 --> 01:49:07,50 	with her head tilted, someone shifts her gaze over his face.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS291 	00:22:27,00 --> 00:22:32,50 	someone shifts his gaze and gulps, then faces him.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS295 	00:22:47,00 --> 00:22:53,50 	beside him, the teen shifts his intimidated gaze
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS381 	00:36:04,00 --> 00:36:08,50 	someone shifts his conflicted gaze.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS391 	00:36:51,00 --> 00:36:57,50 	someone shakes out a cup, then fills it with coffee and shifts his anxious gaze.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS498 	00:48:24,00 --> 00:48:30,50 	someone shifts his weight anxiously and someone stares.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS567 	00:54:49,00 --> 00:54:54,50 	someone's sad eyes shift about as she leaves.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS656 	01:03:48,00 --> 01:03:55,50 	as someone steps away, someone warms his hands under his arms and shifts his thoughtful gaze.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS793 	01:18:37,00 --> 01:18:42,50 	the teen shifts his pensive gaze then lies down beside his mother.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS804 	01:19:30,00 --> 01:19:35,50 	someone shifts his bewildered gaze.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS825 	01:21:30,00 --> 01:21:35,50 	someone shifts his bewildered gaze.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS1035 	01:40:08,00 --> 01:40:13,50 	someone shifts her weight, lips parted.
-CHRONICLE.srt 	CHRONICLE_DVS419 	01:02:02,00 --> 01:02:10,50 	he puts it in his backpack, heaves a deflated sigh, and shifts his thoughtful gaze.
-CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS82 	00:15:12,00 --> 00:15:19,50 	the boxer looks around, shifting on his feet.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS95 	00:18:04,00 --> 00:18:08,50 	with a solemn look, someone shifts his draw.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS109 	00:25:15,00 --> 00:25:32,50 	shifting on his feet, he works his jaw then swaggers past someone.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS185 	00:39:25,00 --> 00:39:30,50 	he shifts his eyes uneasily.
@@ -42,34 +32,24 @@ CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS215 	00:44:26,00 --> 00:44:36,50 	he shift
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS287 	01:08:55,00 --> 01:09:01,50 	mrs. gould bites her lip and shifts her gaze.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS291 	01:09:47,00 --> 01:09:54,50 	her gaze shifts uneasily and settles on mrs. braddock.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS386 	01:33:47,00 --> 01:34:20,50 	someone shifts his jaw as the giant slugger nails his opponent with a series of hooks.
-CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS437 	01:45:15,00 --> 01:45:23,50 	his shoulders shift beneath his crisp blue suit as he takes a few steps toward her and kisses her pale cheek.
 COLOMBIANA.srt 	COLOMBIANA_DVS126 	00:10:30,00 --> 00:10:38,50 	he shifts his gaze to someone who continues to stare straight ahead with a stoic expression.
 COLOMBIANA.srt 	COLOMBIANA_DVS218 	00:18:40,00 --> 00:18:47,50 	his mouth hanging agape, he shifts his astonished gaze to someone.
-COLOMBIANA.srt 	COLOMBIANA_DVS297 	00:25:13,00 --> 00:25:19,50 	someone shifts his gaze and turns over his paper.
 COLOMBIANA.srt 	COLOMBIANA_DVS534 	00:48:12,00 --> 00:48:19,50 	she briskly soaps up her flawless skin and shifts her weary gaze.
-COLOMBIANA.srt 	COLOMBIANA_DVS945 	01:31:08,00 --> 01:31:14,50 	someone shifts her gaze then looks back at the dogs.
-COLOMBIANA.srt 	COLOMBIANA_DVS955 	01:32:21,00 --> 01:32:28,50 	someone shifts his gaze to an open door straight away and sees a rocket flying right at him.
-COLOMBIANA.srt 	COLOMBIANA_DVS1058 	01:39:09,00 --> 01:39:16,50 	meanwhile, someone shifts his panicked eyes, then opens the compartment's panel.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS357 	00:55:57,00 --> 00:56:02,50 	she flinches and shifts away from him.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS398 	01:01:18,00 --> 01:01:23,50 	someone shifts his gaze uneasily.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS512 	01:14:42,00 --> 01:14:48,50 	inside, someone shifts his gaze away from the open side door.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS683 	01:32:10,00 --> 01:32:14,50 	she uncomfortably shifts her gaze.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS688 	01:33:04,00 --> 01:33:09,50 	someone glares, shifting his jaw.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS720 	01:36:33,00 --> 01:36:40,50 	in the hall, someone shifts his weight uneasily, then treads toward the kitchen.
-DISTRICT_9.srt 	DISTRICT_9_DVS759 	01:29:43,00 --> 01:29:59,50 	it shifts its shoulders, then tilts its head to look at someone, who kneels in front of him held at gunpoint by a mercenary.
-EASY_A.srt 	EASY_A_DVS159 	00:51:35,00 --> 00:51:47,50 	he stares longingly after his wife, then frowns and shifts his gaze.
 EASY_A.srt 	EASY_A_DVS265 	01:20:00,00 --> 01:20:05,50 	she shifts her horrified gaze.
 GET_HIM_TO_THE_GREEK.srt 	GET_HIM_TO_THE_GREEK_DVS14 	00:08:38,00 --> 00:08:49,50 	a sleazy man with a horseshoe mustache innocently shifts his gaze.
 GET_HIM_TO_THE_GREEK.srt 	GET_HIM_TO_THE_GREEK_DVS83 	00:47:38,00 --> 00:47:44,50 	someone woozily shifts his gaze.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS61 	00:10:18,00 --> 00:10:23,50 	he shifts his delighted gaze.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS110 	00:18:08,00 --> 00:18:31,50 	someone's eyes shift upward and his head rolls to follow them.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS175 	00:28:31,00 --> 00:28:37,50 	someone shifts his indignant gaze.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS254 	00:40:19,00 --> 00:40:33,50 	shifting the levers, he raises the wheel high into the air, then smashes it onto a watchtower.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS258 	00:40:58,00 --> 00:41:04,50 	ghost rider shifts the levers and the wheel crashes down.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS314 	00:47:39,00 --> 00:47:48,50 	he shifts his perplexed eyes.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS335 	00:50:43,00 --> 00:50:51,50 	someone shifts his motorcycle onto only its front wheel.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS385 	00:57:01,00 --> 00:57:09,50 	someone shifts his gaze.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS394 	00:58:25,00 --> 00:58:31,50 	he takes a bite then shifts his gaze.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS419 	01:00:38,00 --> 01:00:43,50 	he shifts his gaze.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS452 	01:06:00,00 --> 01:06:07,50 	someone shifts her worried gaze.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS574 	01:22:26,00 --> 01:23:00,50 	shifting gears, someone accelerates and rear ends an suv knocking it off the road.
@@ -78,29 +58,20 @@ GREEN_ZONE.srt 	GREEN_ZONE_DVS76 	00:19:27,00 --> 00:19:33,50 	a staffer shifts 
 GREEN_ZONE.srt 	GREEN_ZONE_DVS199 	00:52:21,00 --> 00:52:27,50 	he shifts his gaze to someone and offers a firm nod.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS208 	00:53:50,00 --> 00:54:01,50 	someone shifts his confused gaze and heads to his humvee.
 GROWN_UPS.srt 	GROWN_UPS_DVS96 	00:30:48,00 --> 00:30:53,50 	someone shifts her confused gaze.
-GROWN_UPS.srt 	GROWN_UPS_DVS293 	01:33:19,00 --> 01:33:35,50 	pressing his lips together, he shifts his gaze to bailey's wife, who watches hopefully.
-IN_TIME.srt 	IN_TIME_DVS73 	00:08:29,00 --> 00:08:36,50 	the wealthy man takes a few steps forward, then shifts his uneasy gaze and loosens his tie.
 IN_TIME.srt 	IN_TIME_DVS181 	00:19:37,00 --> 00:19:43,50 	the bus driver shifts his regretful gaze away.
-IN_TIME.srt 	IN_TIME_DVS195 	00:20:36,00 --> 00:20:45,50 	his thoughtful eyes shift to a truck heading in the opposite direction and he drops his flowers taking off after it.
 IN_TIME.srt 	IN_TIME_DVS219 	00:23:24,00 --> 00:23:31,50 	shifting his gaze from the blonde in thigh-highs and miniskirt,
 IN_TIME.srt 	IN_TIME_DVS253 	00:26:04,00 --> 00:26:09,50 	he shifts his thoughtful eyes.
 IN_TIME.srt 	IN_TIME_DVS293 	00:30:07,00 --> 00:30:14,50 	as the host collects his time, the newcomer shifts his eyes uncertainly.
-IN_TIME.srt 	IN_TIME_DVS303 	00:31:12,00 --> 00:31:18,50 	as someone shifts his uncertain eyes, someone gives a knowing smile.
-IN_TIME.srt 	IN_TIME_DVS335 	00:34:47,00 --> 00:34:52,50 	he stares at the sales attendant, then shifts his gaze.
 IN_TIME.srt 	IN_TIME_DVS381 	00:39:58,00 --> 00:40:07,50 	sea spray forms a light mist over the water's surface as someone shifts her gaze between someone and the mansion.
 IN_TIME.srt 	IN_TIME_DVS385 	00:40:23,00 --> 00:40:29,50 	now, someone walks through the party, shifting his agitated gaze.
 IN_TIME.srt 	IN_TIME_DVS391 	00:41:05,00 --> 00:41:10,50 	someone's cool blue eyes shift to someone.
-IN_TIME.srt 	IN_TIME_DVS574 	01:01:01,00 --> 01:01:08,50 	he glances at someone, who gives him a sidelong look then shifts away her crestfallen eyes.
 IN_TIME.srt 	IN_TIME_DVS646 	01:09:18,00 --> 01:09:26,50 	he hangs up, then shifts his gaze to someone, who examines the data tables on the digital map.
 IN_TIME.srt 	IN_TIME_DVS770 	01:21:14,00 --> 01:21:20,50 	among them, the lanky traveler shifts his angry gaze.
 IN_TIME.srt 	IN_TIME_DVS829 	01:27:57,00 --> 01:28:04,50 	someone shifts his attention to the bystanders gathered in a wide circle around him.
-IN_TIME.srt 	IN_TIME_DVS839 	01:29:11,00 --> 01:29:17,50 	she stares off thoughtfully, then shifts her eyes back to him.
 IN_TIME.srt 	IN_TIME_DVS938 	01:38:57,00 --> 01:39:04,50 	a look of realization crosses his face and he shifts his worried eyes.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS133 	00:40:11,00 --> 00:40:15,50 	someone shifts his eyes.
-INSIDE_MAN.srt 	INSIDE_MAN_DVS221 	01:02:30,00 --> 01:02:44,50 	seen from inside, she shifts in her seat.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS303 	01:31:53,00 --> 01:31:57,50 	someone shifts his gaze.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS368 	01:46:43,00 --> 01:46:59,50 	someone's gaze lingers on the woman, then shifts away.
-ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS25 	00:06:56,00 --> 00:07:28,50 	her eyes shift thoughtfully as she rinses the plate and looks out a window.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS40 	00:10:09,00 --> 00:10:14,50 	someone shifts his eyes.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS207 	01:02:20,00 --> 01:02:25,50 	wide-eyed, someone shifts her confounded gaze.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS357 	01:40:50,00 --> 01:41:00,50 	a tearful someone shifts her gaze.
@@ -109,17 +80,12 @@ JACK_AND_JILL.srt 	JACK_AND_JILL_DVS394 	01:13:06,00 --> 01:13:11,50 	the baldin
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS93 	00:14:15,00 --> 00:14:21,50 	someone shifts her eyes thoughtfully as she forks up a piece of sausage.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS122 	00:20:50,00 --> 00:20:54,50 	she shifts her restless gaze.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS123 	00:21:05,00 --> 00:21:12,50 	he shifts his gaze then nods.
-JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS443 	01:27:39,00 --> 01:27:45,50 	he shifts his down-hearted gaze, and someone looks away.
-JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS537 	01:46:20,00 --> 01:46:26,50 	he shifts her feet a smidge on the coffee table and sits facing her.
 KARATE_KID.srt 	KARATE_KID_DVS128 	00:11:28,00 --> 00:11:33,50 	the lone man shifts his head.
 KARATE_KID.srt 	KARATE_KID_DVS181 	00:15:24,00 --> 00:15:29,50 	someone shifts his conflicted gaze.
 KARATE_KID.srt 	KARATE_KID_DVS335 	00:30:32,00 --> 00:30:38,50 	someone's smile fades and she shifts her puzzled gaze.
-KARATE_KID.srt 	KARATE_KID_DVS394 	00:35:33,00 --> 00:35:38,50 	someone shifts his weight as he stares uneasily at his mother.
-KARATE_KID.srt 	KARATE_KID_DVS418 	00:38:08,00 --> 00:38:14,50 	shifting his eyes, he sees someone and his friends staring at them.
 KARATE_KID.srt 	KARATE_KID_DVS456 	00:40:39,00 --> 00:40:46,50 	his eyes shift to a grimy steam vent on the side of a building.
 KARATE_KID.srt 	KARATE_KID_DVS542 	00:48:58,00 --> 00:49:03,50 	someone shifts his eyes.
 KARATE_KID.srt 	KARATE_KID_DVS550 	00:49:45,00 --> 00:49:53,50 	shifting his sad eyes, mr.
-KARATE_KID.srt 	KARATE_KID_DVS565 	00:50:50,00 --> 00:50:58,50 	the square-jawed man rises from his bench and faces the boy, who shifts his eyes nervously.
 KARATE_KID.srt 	KARATE_KID_DVS606 	00:52:48,00 --> 00:52:53,50 	someone shifts his eyes.
 KARATE_KID.srt 	KARATE_KID_DVS715 	00:59:50,00 --> 00:59:58,50 	as he mopes into his room, someone stares at the hanging jacket and shifts her wide-eyed gaze.
 KARATE_KID.srt 	KARATE_KID_DVS917 	01:14:53,00 --> 01:14:57,50 	someone shifts his puzzled gaze.
@@ -127,10 +93,7 @@ KARATE_KID.srt 	KARATE_KID_DVS979 	01:20:06,00 --> 01:20:11,50 	he allows a fain
 KARATE_KID.srt 	KARATE_KID_DVS1104 	01:31:41,00 --> 01:31:48,50 	shifting his worried gaze, someone breaks into a run, and sprints down a tree-lined path.
 KARATE_KID.srt 	KARATE_KID_DVS1341 	01:48:26,00 --> 01:48:31,50 	pursing his lips, he shifts his gaze.
 KARATE_KID.srt 	KARATE_KID_DVS1545 	02:04:57,00 --> 02:05:02,50 	someone shifts his troubled gaze.
-KARATE_KID.srt 	KARATE_KID_DVS1579 	02:08:41,00 --> 02:08:46,50 	the student shifts on his feet and looks up at his opponent.
 KARATE_KID.srt 	KARATE_KID_DVS1581 	02:08:48,00 --> 02:08:57,50 	shifting his calculating gaze, master someone returns to the sidelines.
-KARATE_KID.srt 	KARATE_KID_DVS1620 	02:11:46,00 --> 02:11:54,50 	lowering his chin, someone stares piercingly at his opponent, who shifts uncertainly.
-KARATE_KID.srt 	KARATE_KID_DVS1629 	02:12:29,00 --> 02:12:37,50 	snapping out of his meditative focus, the boy shifts his confused gaze, then looks to mr.
 KNOCKED_UP.srt 	KNOCKED_UP_DVS50 	00:32:50,00 --> 00:32:55,50 	someone's eyes shift.
 KNOCKED_UP.srt 	KNOCKED_UP_DVS73 	00:43:45,00 --> 00:43:49,50 	shifts his stunned gaze.
 LAND_OF_THE_LOST.srt 	LAND_OF_THE_LOST_DVS177 	01:04:56,00 --> 01:05:02,50 	someone, he shifts his jaw.
@@ -148,7 +111,6 @@ LITTLE_FOCKERS.srt 	LITTLE_FOCKERS_DVS48 	00:19:41,00 --> 00:19:48,50 	someone s
 LITTLE_FOCKERS.srt 	LITTLE_FOCKERS_DVS102 	00:41:02,00 --> 00:41:07,50 	someone's eyes shift.
 LITTLE_FOCKERS.srt 	LITTLE_FOCKERS_DVS122 	00:45:19,00 --> 00:45:25,50 	narrowing his eyes, someone shifts them mischievously.
 LITTLE_FOCKERS.srt 	LITTLE_FOCKERS_DVS245 	01:22:38,00 --> 01:22:42,50 	they shift in another part of the pit.
-MORNING_GLORY.srt 	MORNING_GLORY_DVS276 	01:01:15,00 --> 01:01:21,50 	she shifts and looks at him uncertainly.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS160 	00:23:17,00 --> 00:23:22,50 	someone's smile fades and his eyes shift.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS562 	01:06:20,00 --> 01:06:25,50 	the penguin owner shifts his sad eyes.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS115 	00:25:48,00 --> 00:26:02,50 	someone shifts his gaze to a bench seat against a wall.
@@ -157,10 +119,8 @@ NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS249 	00:51:36,00 --> 00:51:55,
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS281 	01:02:03,00 --> 01:02:09,50 	someone bites his lip and shifts his thoughtful gaze.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS306 	01:06:25,00 --> 01:06:31,50 	sergeant jeffreys uneasily shifts his gaze.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS321 	01:11:09,00 --> 01:11:21,50 	someone shifts his gaze from someone to lord someone.
-PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS331 	01:18:39,00 --> 01:18:46,50 	someone's eyes shift to someone and someone and his mouth drops open.
 PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS294 	01:13:50,00 --> 01:13:54,50 	wide eyes shifting.
 PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS343 	01:24:40,00 --> 01:24:48,50 	he shifts his gaze to an ominous mansion, which looms on a column of rock in the middle of the gorge.
-PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS362 	01:29:34,00 --> 01:29:43,50 	someone and someone also watch as the god of the underworld stoops down and shifts the arm strap aside on the shield.
 PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS444 	01:43:44,00 --> 01:43:49,50 	then shifts his proud gaze to his son.
 PROMETHEUS.srt 	PROMETHEUS_DVS797 	01:25:34,00 --> 01:25:39,50 	on the bridge, someone's eyes shift nervously.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS114 	00:20:28,00 --> 00:20:37,50 	rubbing the tip of his nose, he shifts his gaze to the dance floor where a brunette in a red dress dances with a man.
@@ -169,19 +129,13 @@ PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS180 	00:34:01,00 --> 00:34:24,50 	someone 
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS227 	00:41:52,00 --> 00:41:58,50 	they agent shifts his rueful gaze.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS233 	00:42:50,00 --> 00:42:55,50 	someone shifts his aim.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS236 	00:43:47,00 --> 00:43:53,50 	hoover shifts his resentful gaze and works his jaw.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS237 	00:43:54,00 --> 00:44:01,50 	in chicago, someone grimly lowers the phone and shifts his troubled gaze.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS337 	01:04:41,00 --> 01:04:55,50 	as someone drives through the town, he nervously shifts his eyes back and forth under the tipped down brim of his fedora.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS635 	01:59:33,00 --> 01:59:48,50 	the agent looks away, shifting his anxious gaze.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS649 	02:02:12,00 --> 02:02:37,50 	later, she shifts her sober gaze.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS656 	02:04:04,00 --> 02:04:11,50 	outside, someone shifts his tense, vigilant gaze.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS190 	00:45:58,00 --> 00:46:04,50 	he shifts his gaze to the other men, then turns back to someone.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS210 	00:50:28,00 --> 00:50:43,50 	someone shifts his weight and extends his arm showing someone the oval ring in his hand.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS222 	00:52:46,00 --> 00:52:53,50 	holding someone's sword, someone shifts his eyes thoughtfully, then gives a nod.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS355 	01:28:01,00 --> 01:28:09,50 	he shifts his cagey eyes and nods resolutely.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS513 	02:07:51,00 --> 02:07:55,50 	someone shifts uneasily.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS282 	00:44:09,00 --> 00:44:14,50 	someone shifts his sympathetic gaze.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS373 	01:00:28,00 --> 01:00:35,50 	someone shifts his bewildered gaze then shrugs and smiles.
-RUBY_SPARKS.srt 	RUBY_SPARKS_DVS392 	01:02:58,00 --> 01:03:05,50 	moving hesitantly, he turns on a bedside lamp and shifts his tempted gaze.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS666 	01:35:58,00 --> 01:36:03,50 	someone shifts his humble gaze.
 SALT.srt 	SALT_DVS87 	00:18:36,00 --> 00:18:48,50 	she checks her cell then slides it shut and shifts her eyes around the sparse room.
 SALT.srt 	SALT_DVS174 	00:29:48,00 --> 00:29:59,50 	as the young girl shifts her gaze, she notices the woman outside and returns the wave.
@@ -189,24 +143,14 @@ SALT.srt 	SALT_DVS245 	00:42:05,00 --> 00:42:26,50 	back in the present, someone
 SALT.srt 	SALT_DVS416 	01:12:48,00 --> 01:12:52,50 	someone shifts his eyes thoughtfully.
 SALT.srt 	SALT_DVS466 	01:19:53,00 --> 01:20:03,50 	outside the operation center, someone shifts her eyes.
 SALT.srt 	SALT_DVS535 	01:31:29,00 --> 01:31:42,50 	he shifts angrily in his seat.
-SALT.srt 	SALT_DVS538 	01:32:22,00 --> 01:32:29,50 	his chest heaving, someone shifts his bewildered gaze then looks to someone again.
-SANCTUM.srt 	SANCTUM_DVS137 	00:29:06,00 --> 00:29:15,50 	someone watches the monitor with a grave look and someone shifts his gaze away.
 SANCTUM.srt 	SANCTUM_DVS383 	01:16:11,00 --> 01:16:16,50 	he shifts his eyes.
-SANCTUM.srt 	SANCTUM_DVS390 	01:17:03,00 --> 01:17:08,50 	shifting his jaw, someone pulls away.
 SANCTUM.srt 	SANCTUM_DVS415 	01:20:21,00 --> 01:20:26,50 	someone shifts his somber eyes.
-SANCTUM.srt 	SANCTUM_DVS420 	01:21:00,00 --> 01:21:12,50 	pushing out his jaw, he gives a thoughtful look, then abruptly shifts his gaze to a section of the cave's wall near someone.
 SANCTUM.srt 	SANCTUM_DVS457 	01:25:36,00 --> 01:25:41,50 	he shifts his gaze to someone.
-SANCTUM.srt 	SANCTUM_DVS480 	01:29:14,00 --> 01:29:21,50 	someone rises and someone shifts his helmet as his son follows the river.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS256 	00:17:37,00 --> 00:17:44,50 	someone and someone both stare straight ahead for a long moment, then, in unison, shift their curious eyes toward each other.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS287 	00:19:21,00 --> 00:19:27,50 	someone shifts her woeful eyes to her own lap and tilts her head thoughtfully.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS418 	00:28:02,00 --> 00:28:07,50 	someone shifts her concerned gaze away.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS425 	00:28:23,00 --> 00:28:31,50 	someone shifts her handbag's shoulder strap as she climbs some steps leading to a set of glass doors.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS520 	00:33:47,00 --> 00:33:52,50 	someone glances at her troubled friend, then takes her hands and shifts her gaze straight ahead.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS671 	00:43:53,00 --> 00:43:58,50 	someone shifts his trouble gaze.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS783 	00:52:32,00 --> 00:52:36,50 	someone shifts her thoughtful gaze.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS867 	00:57:31,00 --> 00:57:38,50 	she peers down toward the lower floor, then shifts her puzzled gaze and gets up.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS999 	01:05:18,00 --> 01:05:25,50 	staring off, she shifts her attention to the traffic ahead and pulls her car forward.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1066 	01:11:54,00 --> 01:12:02,50 	she raises her fingers to her lips, shifts her coquettish gaze, and grants him a chaste kiss.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1081 	01:14:08,00 --> 01:14:14,50 	shifting her increasingly troubled gaze,
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1444 	01:37:56,00 --> 01:38:01,50 	then shifts her gaze to someone.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1453 	01:38:26,00 --> 01:38:32,50 	someone shifts her attention to the cityscape before them.
@@ -216,86 +160,56 @@ SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS157 	00:31:03,00 --> 00:31:10,
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS235 	00:45:30,00 --> 00:45:39,50 	the young man shifts his rueful gaze.
 SOUL_SURFER.srt 	SOUL_SURFER_DVS44 	00:14:34,00 --> 00:14:39,50 	with a hard swallow, someone shifts her crestfallen eyes.
 SOUL_SURFER.srt 	SOUL_SURFER_DVS82 	00:27:25,00 --> 00:27:29,50 	she shifts the minivan into park.
-SOUL_SURFER.srt 	SOUL_SURFER_DVS210 	01:08:21,00 --> 01:08:28,50 	as he sits beside her, she shifts her gaze away
 SOUL_SURFER.srt 	SOUL_SURFER_DVS213 	01:08:50,00 --> 01:08:55,50 	she shifts her tearful gaze away.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS145 	00:25:01,00 --> 00:25:05,50 	she shifts icily.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS223 	00:35:01,00 --> 00:35:08,50 	someone shifts his uncertain gaze.
-SPARKLE_2012.srt 	SPARKLE_2012_DVS578 	01:34:49,00 --> 01:34:54,50 	someone shifts her gaze, then looks to her mother.
-SPARKLE_2012.srt 	SPARKLE_2012_DVS643 	01:46:14,00 --> 01:46:22,50 	in the wings, someone shifts his weight beside someone, who watches with crossed arms.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS118 	00:27:14,00 --> 00:27:24,50 	someone shifts his gaze.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS163 	00:34:00,00 --> 00:34:12,50 	a brilliant disco lights swings by overhead as he shifts his dull gaze.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS190 	00:36:56,00 --> 00:37:04,50 	shifting his head on the pillow, he turns to someone and watches her sleep.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS195 	00:37:30,00 --> 00:37:46,50 	she presses her lips together to stifle a smile, then shifts her gaze to someone who blinks awake and looks up at her.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS264 	00:51:10,00 --> 00:51:16,50 	shifting uneasily, someone tucks some hair behind one ear.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS310 	00:59:07,00 --> 00:59:13,50 	dusting contritely shifts his arms at his sides.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS121 	00:24:23,00 --> 00:24:31,50 	someone looks away, shifting her wary gaze then frowns at him again.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS164 	00:33:29,00 --> 00:33:34,50 	someone shifts his sheepish gaze.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS284 	00:53:05,00 --> 00:53:16,50 	he shifts into park and raises both hands innocently.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS291 	00:53:55,00 --> 00:54:01,50 	he shifts the car into park, gets out, and faces his ex-wife.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS529 	01:36:47,00 --> 01:36:52,50 	someone shifts his confused stare.
 THE_CALL.srt 	THE_CALL_DVS278 	00:24:30,00 --> 00:24:34,50 	her eyes shift about.
 THE_CALL.srt 	THE_CALL_DVS371 	00:30:09,00 --> 00:30:13,50 	someone shifts her gaze.
 THE_CALL.srt 	THE_CALL_DVS543 	00:41:51,00 --> 00:41:56,50 	he shifts an anxious gaze between his trunk and the body.
-THE_CALL.srt 	THE_CALL_DVS555 	00:42:32,00 --> 00:42:40,50 	holding her headset, someone shifts her wide, frantic eyes to the gps locator screen.
 THE_CALL.srt 	THE_CALL_DVS567 	00:43:21,00 --> 00:43:27,50 	phillips' eyes shift from the glass shards to a large blood stain.
 THE_CALL.srt 	THE_CALL_DVS658 	00:51:30,00 --> 00:51:35,50 	someone shifts her anxious gaze.
 THE_CALL.srt 	THE_CALL_DVS707 	00:54:10,00 --> 00:54:16,50 	with her jaw trembling, someone shifts her desperate eyes.
 THE_CALL.srt 	THE_CALL_DVS1042 	01:19:05,00 --> 01:19:11,50 	someone shifts her gaze and discovers someone absent from her view.
 THE_CALL.srt 	THE_CALL_DVS1123 	01:24:41,00 --> 01:24:49,50 	our view shifts down behind someone to the surgical scissors protruding from his lower back.
-THE_CALL.srt 	THE_CALL_DVS1137 	01:25:42,00 --> 01:25:48,50 	she looks up at the young girl, who shifts her eyes down to the open hatch.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS88 	00:16:26,00 --> 00:16:30,50 	troy shifts his wounded gaze.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS165 	00:28:06,00 --> 00:28:10,50 	he shifts in his chair.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS334 	00:51:41,00 --> 00:51:46,50 	nodding softly, someone shifts his thoughtful gaze.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS428 	01:05:04,00 --> 01:05:10,50 	someone stares at him, then shifts his frustrated gaze and nods.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS602 	01:28:14,00 --> 01:28:20,50 	someone pushes out a breath and shifts her attention to her mother.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS608 	01:28:59,00 --> 01:29:07,50 	as someone leads her uncle and grandmother to someone's bedside, someone shifts his gaze to someone.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS633 	01:31:58,00 --> 01:32:06,50 	blinking groggily, he looks at his watch, then leans forward on his elbows and shifts his thoughtful eyes.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS723 	01:41:44,00 --> 01:41:50,50 	shifting her tearful eyes to someone, someone steps to her side.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS784 	01:46:39,00 --> 01:46:45,50 	he shifts his serene gaze, then gives her a soft nod.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS765 	01:28:13,00 --> 01:28:20,50 	he shifts his contemplative gaze and shuts the door.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS815 	01:33:24,00 --> 01:33:29,50 	then thoughtfully shifts his gaze away.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS945 	01:44:38,00 --> 01:44:44,50 	someone shifts her gaze then goes to another table.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1001 	01:48:52,00 --> 01:48:59,50 	someone looks up, shifting his jaw.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1017 	01:49:49,00 --> 01:49:55,50 	in the cottage someone removes his reading glasses and shifts his thoughtful gaze.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1080 	01:53:36,00 --> 01:53:40,50 	someone pauses, shifting his weary gaze.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1118 	01:57:22,00 --> 01:57:28,50 	someone shifts his defeated gaze.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1286 	02:15:44,00 --> 02:15:48,50 	someone shifts his gaze.
-THE_SITTER.srt 	THE_SITTER_DVS132 	01:10:21,00 --> 01:10:29,50 	she shifts her lips thoughtfully, then climbs out of the minivan.
 THE_VOW.srt 	THE_VOW_DVS145 	00:15:08,00 --> 00:15:15,50 	the brunette shifts her groggy gaze, then closes her eyes and winces.
 THE_VOW.srt 	THE_VOW_DVS160 	00:16:36,00 --> 00:16:41,50 	she shifts her shocked eyes to someone.
 THE_VOW.srt 	THE_VOW_DVS175 	00:19:02,00 --> 00:19:06,50 	someone shifts her shocked gaze.
-THE_VOW.srt 	THE_VOW_DVS369 	00:52:14,00 --> 00:52:21,50 	someone shifts her sad eyes, then turns away.
-THE_VOW.srt 	THE_VOW_DVS506 	01:10:31,00 --> 01:10:37,50 	her smile gone, someone shifts her uneasy gaze.
-THE_VOW.srt 	THE_VOW_DVS509 	01:10:53,00 --> 01:11:01,50 	someone lingers on the spot, shifting boyishly on his feet as his wife enters her parents home.
 THE_WATCH.srt 	THE_WATCH_DVS76 	00:10:01,00 --> 00:10:07,50 	shifting his emotional gaze, someone tugs at his collar.
-THE_WATCH.srt 	THE_WATCH_DVS399 	01:12:14,00 --> 01:12:21,50 	someone opens the door and someone steps inside as someone shifts his weight in the driveway.
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS107 	00:31:07,00 --> 00:31:16,50 	her eyes slowly shift back toward it.
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS163 	00:42:39,00 --> 00:42:45,50 	he shifts his gaze to the stereo's display panel.
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS230 	00:57:39,00 --> 00:57:43,50 	someone shifts her wide-eyed gaze.
-THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS370 	01:29:00,00 --> 01:29:05,50 	she shifts her thoughtful eyes, then gives a pleased look.
-THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS498 	01:51:38,00 --> 01:51:44,50 	shifting her gaze back to james, she shakes her head.
-THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS161 	00:31:11,00 --> 00:31:17,50 	as his colleagues move on, someone shifts his gaze.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS374 	01:09:13,00 --> 01:09:19,50 	it shifts to james monroe elementary.
-TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS194 	00:25:32,00 --> 00:25:39,50 	with a playful look, someone shifts his eyes to the bouquet of flowers then gives his girlfriend a winning grin.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS707 	01:18:26,00 --> 01:18:32,50 	he shifts his conflicted gaze and crouches slightly, his stick ready.
-TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS787 	01:24:34,00 --> 01:24:38,50 	someone shifts his sober gaze, nods, then raises a finger.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS251 	00:23:49,00 --> 00:23:53,50 	she shifts on a branch.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS513 	01:07:50,00 --> 01:07:58,50 	she shifts her eyes back to the monitor and watches as someone forces a smile.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS549 	01:13:31,00 --> 01:13:39,50 	someone shifts her eyes to the floor.
-UGLY_TRUTH.srt 	UGLY_TRUTH_DVS558 	01:14:25,00 --> 01:14:32,50 	as someone turns his back to the elevator, his jaw drops and his wide eyes shift disbelievingly.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS51 	00:09:58,00 --> 00:10:12,50 	with concerned looks, both men shift their eyes back to someone's drawing, where the bald 	decapitated man's tongue juts from his mouth in agony, as his head flies away from his body.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS84 	00:13:28,00 --> 00:13:34,50 	he shifts his gaze to a cluster of pill bottles filling a shelf.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS134 	00:24:09,00 --> 00:24:14,50 	someone shifts her jaw and gives a nod.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS143 	00:25:03,00 --> 00:25:18,50 	in the back seat, someone sighs and shifts his unhappy 	gaze.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS158 	00:27:50,00 --> 00:27:56,50 	someone shifts her skeptical gaze.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS328 	00:53:13,00 --> 00:53:20,50 	the inspector shifts his gaze to someone and wiggles his eyebrows.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS388 	01:01:22,00 --> 01:01:30,50 	a wide view shows the high-reaching beam, its glow shifting with someone's hand movements.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS393 	01:02:39,00 --> 01:02:44,50 	someone shifts his gaze to the zoo's grounds.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS435 	01:08:16,00 --> 01:08:21,50 	someone shifts her weight, her gaze intent.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS557 	01:26:48,00 --> 01:26:57,50 	a vulture's sharp-beaked face and white fluffy collar fill our view as it shifts its keen gaze.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS806 	01:53:44,00 --> 01:53:50,50 	he glances after her, then shifts his thoughtful eyes.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS843 	01:58:24,00 --> 01:58:29,50 	shifting his gaze from his kids,
-WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS84 	00:07:26,00 --> 00:07:33,50 	she sets the magazine aside, then bites her lip and shifts her calculating gaze.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS516 	01:13:32,00 --> 01:13:37,50 	someone pauses and shifts her gaze.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS75 	00:05:39,00 --> 00:05:46,50 	someone sighs, shifts his gaze to the coin, and grits his teeth.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS82 	00:06:04,00 --> 00:06:10,50 	his gaze troubled, the doctor shifts thoughtfully in his chair.
@@ -308,10 +222,8 @@ XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS663 	01:00:50,00 --> 01:00:55,50 	he s
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS975 	01:29:28,00 --> 01:29:37,50 	starting at her hand, she shifts into her natural form, with scaly blue skin, slick dark-red hair, and pale-yellow eye
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1060 	01:35:37,00 --> 01:35:45,50 	someone shifts his gaze.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1179 	01:45:24,00 --> 01:45:30,50 	he shifts his troubled gaze.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1222 	01:49:14,00 --> 01:49:27,50 	he looks at someone, who shifts into mystique.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1265 	01:54:25,00 --> 01:54:30,50 	on the beach, someone shifts his gaze.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS340 	00:39:10,00 --> 00:39:14,50 	he shifts his stare to the window.
-ZOMBIELAND.srt 	ZOMBIELAND_DVS440 	00:49:58,00 --> 00:50:05,50 	the scraggly haired man stiffly shifts one shoulder then turns a corner.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS548 	01:04:10,00 --> 01:04:16,50 	someone smiles at her sister then shifts gears.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS736 	01:19:38,00 --> 01:19:45,50 	he swallows then shifts his attention to little someone who rolls her eyes.
 ZOOKEEPER.srt 	ZOOKEEPER_DVS126 	00:27:17,00 --> 00:27:25,50 	the gorilla shifts his gaze.

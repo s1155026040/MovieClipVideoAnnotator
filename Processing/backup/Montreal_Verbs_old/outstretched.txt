@@ -1,0 +1,9 @@
+CHRONICLE.srt 	CHRONICLE_DVS192 	00:28:33,00 --> 00:28:40,50 	now in his room, the troubled teen lies on his bed, one hand outstretched toward us.
+HUGO.srt 	HUGO_DVS763 	01:50:56,00 --> 01:51:06,50 	someone moves under the automaton with his arms outstretched but stops at the edge of the platform.
+IRON_MAN_2.srt 	IRON_MAN_2_DVS46 	00:06:08,00 --> 00:06:14,50 	outstretched arms, someone poses for the crowd as the circular platform revolves.
+KARATE_KID.srt 	KARATE_KID_DVS1264 	01:42:28,00 --> 01:42:35,50 	jerking the poles, he puppets someone into an attack stance with his arms outstretched.
+PROMETHEUS.srt 	PROMETHEUS_DVS718 	01:16:40,00 --> 01:16:51,50 	holloway steps toward someone, his arms outstretched.
+SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS991 	01:04:42,00 --> 01:04:47,50 	which rests on her own outstretched arm.
+XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1228 	01:50:23,00 --> 01:50:30,50 	someone stands frozen, arm outstretched, reaching for his helmet.
+XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1249 	01:52:45,00 --> 01:52:52,50 	as the mutants gather around, someone's body floats above, arms outstretched.
+ZOMBIELAND.srt 	ZOMBIELAND_DVS445 	00:50:18,00 --> 00:50:25,50 	the zombified someone staggers in, arms outstretched, mouth bloodied.

@@ -1,24 +1,37 @@
-0001_American_Beauty_01.31.29.577-01.31.30.328 	Lester's arm remains draped around his shoulder.
-0016_O_Brother_Where_Art_Thou_01.22.39.040-01.22.41.025 	Pappy O'Daniel stands by Waldrip's chair with an arm draped over his shoulder, leaning in to murmur confidentially.
-0020_Raising_Arizona_00.56.20.614-00.56.27.291 	Ed's arm is draped protectively over the sleeping infant.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.40.31.420-00.40.37.542 	Gandalf and Saruman stride through Orthanc toward a stone plinth on which a sphere like shape is draped with a cloth.
-0027_The_Big_Lebowski_00.54.41.036-00.54.41.207 	The Dude sits in the bathtub, staring stuporously, a joint pinched in one hand, a washcloth draped over his head.
+0001_American_Beauty_01.31.24.406-01.31.25.728 	lester drapes his arm around ricky as he gives him the money.
+0001_American_Beauty_01.31.29.577-01.31.30.328 	lester's arm remains draped around his shoulder.
+0001_American_Beauty_01.48.18.031-01.48.23.807 	he grabs a blanket from the back of the couch and drapes it around her shoulders, covering her nakedness.
+0014_Ist_das_Leben_nicht_schoen_01.16.54.514-01.16.55.798 	draped around one arm is a large christmas wreath.
+0016_O_Brother_Where_Art_Thou_01.22.39.040-01.22.41.025 	pappy o'daniel stands by waldrip's chair with an arm draped over his shoulder, leaning in to murmur confidentially.
+0020_Raising_Arizona_00.56.20.614-00.56.27.291 	ed's arm is draped protectively over the sleeping infant.
+0020_Raising_Arizona_01.30.31.486-01.30.39.190 	the elderly man drapes an arm around his wife's shoulder and draws her close.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.40.31.420-00.40.37.542 	gandalf and saruman stride through orthanc toward a stone plinth on which a sphere like shape is draped with a cloth.
+0027_The_Big_Lebowski_00.54.41.036-00.54.41.207 	the dude sits in the bathtub, staring stuporously, a joint pinched in one hand, a washcloth draped over his head.
+1002_Harry_Potter_and_the_Half-Blood_Prince_01.09.37.794-01.09.39.526 	he pulls back the silk drapes to join her.
 1009_Spider-Man3_00.00.05.364-00.00.15.120 	a burst of light reveals a woman dressed in a white classical robe with a blue still draped over her arm standing on top of a shallow pyramid of steps holding a blazing torch high in her right hand.
+1010_TITANIC_01.26.06.453-01.26.09.450 	rose drapes one arm along the back of the settee.
 1019_Confessions_Of_A_Shopaholic_00.04.36.753-00.04.41.844 	her jaw drops and quivers with excitement at the sight of a green chiffon scarf draped around the neck of a faceless fashion mannequin.
 1027_Les_Miserables_02.21.30.852-02.21.34.511 	a blanket is draped around his shoulders.
+1030_Public_Enemies_00.25.41.669-00.25.47.092 	dillinger drapes his overcoat over her shoulders.
 1033_Sherlock_Holmes_A_Game_of_Shadows_00.11.46.859-00.11.51.526 	he has a hand-knitted scarf draped around his neck.
+1033_Sherlock_Holmes_A_Game_of_Shadows_01.44.34.806-01.44.40.629 	moriarty picks up a second blanket and drapes it around his own shoulders.
 1035_The_Adjustment_Bureau_00.58.14.129-00.58.19.238 	later, he spoons her as they sleep, his arm draped over her body.
+1035_The_Adjustment_Bureau_01.38.08.204-01.38.13.564 	elise drapes her arms around david's shoulders.
 1037_The_Curious_Case_Of_Benjamin_Button_02.02.39.037-02.02.40.888 	her long sleek red hair draped over one shoulder.
 1038_The_Great_Gatsby_00.33.03.030-00.33.04.053 	a woman is draped across the piano.
 1040_The_Ugly_Truth_00.00.02.000-00.00.08.667 	a bright white light is held aloft by a statuesque woman wearing a long, white robe with a blue sash draped around her.
+1041_This_is_40_01.10.08.541-01.10.11.534 	desi drapes her arms around debbie, who laughs as the younger woman pulls her clothes.
+1042_Up_In_The_Air_00.56.07.032-00.56.08.793 	a bit drunk, she drapes herself all over him.
 1043_Vantage_Point_00.00.09.813-00.00.15.480 	the light is held aloft by a statuesque woman wearing a long white robe with a blue sash draped around her.
+1047_Defiance_00.03.42.013-00.03.43.287 	moments later, asael drapes a cloth bag over aron's shoulder.
 1047_Defiance_00.49.00.358-00.49.03.163 	people huddled on the ground look up at tuvia, but only zus stands up, draping his machine gun over his shoulder.
+1047_Defiance_01.16.08.160-01.16.21.279 	he drapes his coat around her shoulders, and she thanks him with a nod.
 1048_Gran_Torino_00.00.57.360-00.01.00.430 	an older man, al, gets up from his pew and walks past a coffin draped in a white sheet.
 1051_Harry_Potter_and_the_goblet_of_fire_00.00.48.155-00.00.55.511 	the snake slides past a stone statue of a skeleton with huge wings, draped in hooded cloak and holding a scythe.
 1051_Harry_Potter_and_the_goblet_of_fire_02.02.23.321-02.02.31.200 	now, draped in a black robe, voldemort opens his arms triumphantly.
+1051_Harry_Potter_and_the_goblet_of_fire_02.19.50.561-02.19.56.943 	the professor touches the velvet drapes on the four-poster bed.
 1057_Seven_pounds_00.00.06.465-00.00.09.830 	the light is held aloft by a statuesque woman wearing a long, white robe with a blue sash draped around her.
-2004_Juno_01.29.12.129-01.29.14.494 	we see her lying in bed with a burp cloth draped over her shoulder, feeding the baby.
-1057_Seven_pounds_00.00.06.465-00.00.09.830 	the light is held aloft by a statuesque woman wearing a long, white robe with a blue sash draped around her.
+2004_Juno_00.47.44.341-00.47.48.274 	she holds the ultrasound up to show vanessa and drapes her arm around her.
 2004_Juno_01.29.12.129-01.29.14.494 	we see her lying in bed with a burp cloth draped over her shoulder, feeding the baby.
 2027_Les_Miserables_01.36.17.684-01.36.18.671 	into frame comes a team of black horses stepping slowly, black plumes nodding, drawing behind them a gun carriage draped in the tricolour flag.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_01.07.32.305-01.07.35.503 	ancient charts drape the walls while gleaming spheres of spun glass orbit one another silently.

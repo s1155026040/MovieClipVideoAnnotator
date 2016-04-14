@@ -1,15 +1,18 @@
-0007_DIE_NACHT_DES_JAEGERS_00.13.47.182-00.13.49.919 	A short, lighted, toy-like train departs the town along the river-bank, whistling.
-0007_DIE_NACHT_DES_JAEGERS_00.45.16.793-00.45.19.883 	They look towards the departed PREACHER.
-0020_Raising_Arizona_00.45.01.006-00.45.01.854 	Bellowing hopefully after his departing car.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.22.04.804-01.22.09.257 	The QUIET before the MEN depart for WAR.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_03.04.37.539-03.04.41.562 	Passing under a beautiful ELVEN ARCHWAY to reveal a WHITE SHIP, ready to depart from a WHITE STONE.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_03.10.16.484-03.10.26.436 	SAM in growing darkness, still follows the departing SHIP with his eyes, MERRY and PIPPIN are already preparing to leave.
-0030_The_Hustler_00.12.57.355-00.13.05.872 	A departing customer holds the door for an incoming one: Minnesota Fats.
-1006_Slumdog_Millionaire_00.35.14.250-00.35.17.214 	The children come to a railway siding where they chase a departing train.
+0002_As_Good_As_It_Gets_01.16.32.779-01.16.35.767 	frank prepares to depart.
+0007_DIE_NACHT_DES_JAEGERS_00.45.16.793-00.45.19.883 	they look towards the departed preacher.
+0020_Raising_Arizona_00.45.01.006-00.45.01.854 	bellowing hopefully after his departing car.
+0021_Rear_Window_00.14.33.097-00.14.36.053 	he gives them a studied, but agreeable nod, then departs.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.47.07.598-00.47.09.501 	the black rider turns and departs.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.25.09.441-02.25.12.779 	elves quietly watch them depart.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.22.04.804-01.22.09.257 	the quiet before the men depart for war.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_03.04.37.539-03.04.41.562 	passing under a beautiful elven archway to reveal a white ship, ready to depart from a white stone.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_03.10.16.484-03.10.26.436 	sam in growing darkness, still follows the departing ship with his eyes, merry and pippin are already preparing to leave.
+0030_The_Hustler_00.12.57.355-00.13.05.872 	a departing customer holds the door for an incoming one: minnesota fats.
+0030_The_Hustler_00.39.59.946-00.40.02.026 	eddie holds up two fingers to the waitress, who departs.
 1007_Spider-Man1_01.54.56.843-01.55.02.634 	she turns around sharply and looks at the departing peter.
-1008_Spider-Man2_01.18.05.593-01.18.06.988 	peter stands with his back to the departing figure.
-1047_Defiance_00.02.11.245-00.02.20.529 	the departing truck, escorted by nazi outriders, is being observed by two men hiding behind a tree.
-1056_Rambo_00.22.14.867-00.22.23.632 	the floodlights of the now derelict pirate boat touches their departing stand , as the boat motors into the inky blackness.
-2012_Unbreakable_01.18.26.936-01.18.34.304 	david stands in a quiet corner and watches the faces of passengers arriving and departing late night trains.
+1037_The_Curious_Case_Of_Benjamin_Button_00.05.47.851-00.05.52.085 	their son climbs down from the train on which he departed, as it reverses into the station.
+1037_The_Curious_Case_Of_Benjamin_Button_02.20.04.089-02.20.04.736 	the guests have departed.
+1039_The_Queen_00.09.43.758-00.09.46.275 	the queen looks them up and down as they depart.
+1048_Gran_Torino_00.09.23.481-00.09.28.786 	walt straightens up and stares at the silver four-by-four as it departs.
 1056_Rambo_00.22.14.867-00.22.23.632 	the floodlights of the now derelict pirate boat touches their departing stand , as the boat motors into the inky blackness.
 2012_Unbreakable_01.18.26.936-01.18.34.304 	david stands in a quiet corner and watches the faces of passengers arriving and departing late night trains.

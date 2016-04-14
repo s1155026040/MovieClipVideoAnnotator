@@ -1,0 +1,11 @@
+CHRONICLE.srt 	CHRONICLE_DVS211 	00:31:00,00 --> 00:31:09,50 	a teen in an orange hooded parka and gloves soars into view just beneath us.
+HUGO.srt 	HUGO_DVS603 	01:27:10,00 --> 01:27:18,50 	standing in the cemetery beneath a statue of a hooded figure, someone checks his pocket watch.
+INSIDE_MAN.srt 	INSIDE_MAN_DVS318 	01:34:28,00 --> 01:34:43,50 	the masked and hooded figures emerge, waving their arms.
+PROMETHEUS.srt 	PROMETHEUS_DVS56 	00:03:02,00 --> 00:03:10,50 	from a distance we watch a cloaked, hooded figure walk over a rocky bank to the waters rim.
+ROBIN_HOOD.srt 	ROBIN_HOOD_DVS29 	00:04:30,00 --> 00:04:45,50 	now, three hooded archers tromp out of a green forest.
+ROBIN_HOOD.srt 	ROBIN_HOOD_DVS311 	01:14:59,00 --> 01:15:04,50 	upon a hooded figure with a long bow.
+SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS311 	01:03:37,00 --> 01:03:44,50 	now zipping up a hooded sweatshirt and wearing someone's ring, he returns
+THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS21 	00:07:37,00 --> 00:07:46,50 	hand stuffed in the pocket of his gray hooded sweatshirt, the young man hurries toward one of the warmly lit brick buildings and heads up a few step.
+THOR.srt 	THOR_DVS358 	00:54:45,00 --> 00:54:54,50 	wearing one guard's hooded poncho, someone dashes behind a large generator as an agent stumbles upon one unconscious guard.
+WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS567 	01:27:34,00 --> 01:27:39,50 	clad in a red hooded sweatshirt and jeans, someone comes in and shuts the door.
+YOUNG_ADULT.srt 	YOUNG_ADULT_DVS90 	00:13:15,00 --> 00:13:22,50 	wearing sweatpants and a hooded sweatshirt, someone runs across a busy road.

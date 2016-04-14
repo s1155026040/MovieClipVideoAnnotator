@@ -1,5 +1,4 @@
 40_YEAR_OLD_VIRGIN.srt 	40_YEAR_OLD_VIRGIN_DVS165 	01:22:48,00 --> 01:22:56,50 	the invisible man dog casts a shadow.
-A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS415 	01:12:11,00 --> 01:12:17,50 	the sun sinks low in the sky, casting long shadows across the yard,
 BURLESQUE.srt 	BURLESQUE_DVS78 	00:07:25,00 --> 00:07:33,50 	she casts another glance at the show, then hands over a $20.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS708 	01:10:01,00 --> 01:10:07,50 	now, the light of a low sun casts a rosy glow on the waves.
 COLOMBIANA.srt 	COLOMBIANA_DVS795 	01:17:01,00 --> 01:17:07,50 	now a low sun casts a golden glow in the sky over chicago.
@@ -7,25 +6,11 @@ DEAR_JOHN.srt 	DEAR_JOHN_DVS37 	00:05:00,00 --> 00:05:06,50 	the setting sun cas
 DISTRICT_9.srt 	DISTRICT_9_DVS847 	01:40:15,00 --> 01:40:28,50 	he casts his earnest gaze upward.
 EASY_A.srt 	EASY_A_DVS208 	01:04:06,00 --> 01:04:14,50 	light from the confessional's grated screen cast an ornate shadow pattern against her cheek.
 FLIGHT.srt 	FLIGHT_DVS58 	00:10:48,00 --> 00:10:54,50 	ken casts an uneasy sideways glance at someone.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS102 	00:15:49,00 --> 00:16:04,50 	lightening casts a glow on the mustached thug as he holds his shotgun ready.
-HUGO.srt 	HUGO_DVS97 	00:12:41,00 --> 00:12:52,50 	he stands motionless at the top of the clock tower, as the setting sun casts long shadows over the train station and the rest of the sprawling city.
-IN_TIME.srt 	IN_TIME_DVS333 	00:34:29,00 --> 00:34:40,50 	someone casts someone a fascinated look, then follows her father downstairs.
-ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS292 	01:24:36,00 --> 01:24:41,50 	he is pretending to cast a fishing line at her then reels
-ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS320 	01:31:18,00 --> 01:31:35,50 	she casts a nervous glance back at the house then faces her ex-husband.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS210 	00:27:50,00 --> 00:27:55,50 	she keeps her eyes cast down as her classmates smile.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS255 	00:33:28,00 --> 00:33:35,50 	now the family sits with their eyes cast down as a teenage asian boy joins them.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS342 	00:41:46,00 --> 00:41:58,50 	he casts the flotation device out into the water with all his might.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS594 	01:05:40,00 --> 01:05:45,50 	the boy tries casting the line again.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS595 	01:05:44,00 --> 01:05:51,50 	later, the low sun casts a shimmering beam across the sapphire blue ocean.
-NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS30 	00:08:25,00 --> 00:08:41,50 	he bites a seed, examines it and casts a hopeful gaze toward the sunny sky.
 PROMETHEUS.srt 	PROMETHEUS_DVS235 	00:20:17,00 --> 00:20:25,50 	the sun casts a thin crest of illumination across the pale blue and gray surface.
-PROMETHEUS.srt 	PROMETHEUS_DVS615 	01:07:46,00 --> 01:07:54,50 	the probe casts its flickering light at the far end of the chamber as the android goes in.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS315 	01:16:08,00 --> 01:16:27,50 	now, puffy clouds reflect the moonlight, casting a gentle glow on nottingham's fields as the merry men plot to reclaim the grain.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS178 	00:29:19,00 --> 00:29:24,50 	he casts his fearful gaze aside.
 SALT.srt 	SALT_DVS259 	00:45:43,00 --> 00:45:51,50 	matveyev pauses, casting about his weary gaze.
-SANCTUM.srt 	SANCTUM_DVS474 	01:28:20,00 --> 01:28:29,50 	now, a wide view shows pale light shining through the hole casting the cavern in a purple-tinged glow.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1399 	01:35:08,00 --> 01:35:13,50 	casting a warm glow on someone's face.
-SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS252 	00:50:38,00 --> 00:50:49,50 	he gingerly unrolls it to reveal an arcane depiction of a spell being cast.
-SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS341 	01:11:17,00 --> 01:11:24,50 	someone appear and someone casts them across the lab to search for the someone
 SPARKLE_2012.srt 	SPARKLE_2012_DVS453 	01:14:26,00 --> 01:14:31,50 	someone casts her eyes down.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS402 	01:15:55,00 --> 01:16:01,50 	table lamps cast their soft glow against the rosy wall.

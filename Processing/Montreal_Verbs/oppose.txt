@@ -1,5 +1,2 @@
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS129 	00:23:46,00 --> 00:23:53,50 	at the cia field office, someone and someone work at their opposing desks.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS340 	00:38:52,00 --> 00:39:00,50 	someone deftly dribbles the puck toward the opposing team's goal.
-TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS672 	01:15:12,00 --> 01:15:19,50 	someone slides into the rink wall under the opposing team's box.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1035 	01:33:37,00 --> 01:33:44,50 	on either side of the cargo ship, the opposing fleets face each other.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1064 	01:36:03,00 --> 01:36:09,50 	the jet soars over the opposing fleets.

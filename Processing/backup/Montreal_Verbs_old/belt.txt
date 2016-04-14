@@ -1,0 +1,4 @@
+LARRY_CROWNE.srt 	LARRY_CROWNE_DVS68 	00:18:32,00 --> 00:18:37,50 	someone eyes his belted khakis.
+TRUE_GRIT.srt 	TRUE_GRIT_DVS388 	01:18:41,00 --> 01:18:50,50 	someone carries the wooden bucket through the wintry brush, her oversized coat belted up tightly around her waist.
+TRUE_GRIT.srt 	TRUE_GRIT_DVS498 	01:33:33,00 --> 01:33:39,50 	and spots a knife ina belt around his waist.
+ZOMBIELAND.srt 	ZOMBIELAND_DVS353 	00:40:36,00 --> 00:40:42,50 	he pulls his seat belt back across his chest and fastens it.

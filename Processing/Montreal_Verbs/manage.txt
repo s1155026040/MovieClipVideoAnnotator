@@ -1,12 +1,2 @@
 500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS467 	01:18:51,00 --> 01:18:55,50 	then manages a smile.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS232 	00:33:05,00 --> 00:33:11,50 	she manages a bright smile and heads for the house.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS142 	00:22:55,00 --> 00:23:10,50 	trying another wave, someone manages to stand briefly as someone cheers her on.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS498 	01:12:39,00 --> 01:12:50,50 	struggling, he manages to lift the strap over his head.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS679 	01:31:55,00 --> 01:32:00,50 	someone manages a smile and looks away.
-DISTRICT_9.srt 	DISTRICT_9_DVS846 	01:40:12,00 --> 01:40:17,50 	he gradually manages to collect himself.
-ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS177 	00:55:56,00 --> 00:56:05,50 	she manages a brief tearful smile and continues.
-ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS235 	01:08:12,00 --> 01:08:26,50 	someone manages a nod and hurries out.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS444 	00:50:46,00 --> 00:50:52,50 	the sputtering teen manages to sit up and catch his breath.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS885 	01:29:26,00 --> 01:29:31,50 	the tiger manages to secure his front legs on the bench.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS649 	02:02:12,00 --> 02:02:37,50 	taking a deep breath, she manages a brave nod.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS448 	01:51:27,00 --> 01:51:48,50 	accepting it, she manages a stoic nod.

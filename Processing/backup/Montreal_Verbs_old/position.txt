@@ -1,0 +1,4 @@
+A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS893 	01:26:37,00 --> 01:26:45,50 	positioning the chopper in front of the room, someone narrows her eyes and grips the weapon trigger.
+IN_TIME.srt 	IN_TIME_DVS114 	00:12:57,00 --> 00:13:04,50 	someone faces him, then sinks into a leather armchair positioned opposite the bench.
+THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS988 	01:48:05,00 --> 01:48:11,50 	someone notes the time on a clock positioned above him.
+XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS242 	00:18:41,00 --> 00:18:47,50 	someone sits near someone on a matching sofa positioned opposite.

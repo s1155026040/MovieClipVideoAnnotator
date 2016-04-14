@@ -1,0 +1,3 @@
+A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS297 	00:25:46,00 --> 00:26:05,50 	two cars collide as he screeches to a halt.
+THE_CALL.srt 	THE_CALL_DVS500 	00:38:21,00 --> 00:38:56,50 	the kidnapper screeches to a halt in an empty parking lot and marches to the trunk.
+THE_WATCH.srt 	THE_WATCH_DVS189 	00:33:57,00 --> 00:34:02,50 	they screech to a stop on an empty road.

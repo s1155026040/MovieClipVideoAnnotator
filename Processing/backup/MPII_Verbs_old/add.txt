@@ -1,12 +1,13 @@
-0002_As_Good_As_It_Gets_00.52.59.501-00.53.00.603 	Bettes' reaction her mother adds a saving grace.
+0002_As_Good_As_It_Gets_00.52.59.501-00.53.00.603 	bettes' reaction her mother adds a saving grace.
 0002_As_Good_As_It_Gets_01.20.49.780-01.20.51.809 	with four checks next to each one and still he -- checks each stack on the bed and adds another check.
-0014_Ist_das_Leben_nicht_schoen_02.05.47.829-02.05.48.166 	Charlie adds his money to the pile.
-0017_Pianist_01.14.13.146-01.14.14.716 	Janina adds the last strip of clothing.
-0021_Rear_Window_00.23.50.769-00.23.53.436 	She is the perfect hostess, animated, charming, and with an added personal touch for each guest.
-0033_Amadeus_02.48.27.011-02.48.33.861 	At the same moment Salieri reaches out his hand to take it and add it to the pile on the table.
-0053_Rendezvous_mit_Joe_Black_00.02.48.930-00.02.56.089 	The great lawn infested with workmen, planting stakes, un- rolling a huge canvas tent, gardeners fashioning topiary and adding landscaping of their own, crews setting up platforms, speakers, lights.
-1004_Juno_00.19.06.160-00.19.12.291 	A woman painting her nails, another scratching her arm, another using a nail file add to the crescendo of sound.
-1007_Spider-Man1_00.32.54.547-00.32.55.689 	He adds color.
+0014_Ist_das_Leben_nicht_schoen_00.12.59.531-00.13.00.421 	a juke box and many little tables have been added.
+0014_Ist_das_Leben_nicht_schoen_02.05.47.829-02.05.48.166 	charlie adds his money to the pile.
+0017_Pianist_01.14.13.146-01.14.14.716 	janina adds the last strip of clothing.
+0021_Rear_Window_00.23.50.769-00.23.53.436 	she is the perfect hostess, animated, charming, and with an added personal touch for each guest.
+0021_Rear_Window_01.25.42.896-01.25.46.843 	he adds.
+0033_Amadeus_02.48.27.011-02.48.33.861 	at the same moment salieri reaches out his hand to take it and add it to the pile on the table.
+0053_Rendezvous_mit_Joe_Black_00.02.48.930-00.02.56.089 	the great lawn infested with workmen, planting stakes, un- rolling a huge canvas tent, gardeners fashioning topiary and adding landscaping of their own, crews setting up platforms, speakers, lights.
+1004_Juno_00.19.06.160-00.19.12.291 	a woman painting her nails, another scratching her arm, another using a nail file add to the crescendo of sound.
 1007_Spider-Man1_00.32.54.547-00.32.55.689 	he adds color.
 1009_Spider-Man3_01.17.52.232-01.17.55.130 	harry adds some rocket.
 1009_Spider-Man3_01.27.10.706-01.27.15.606 	in his father's study, harry pours himself a martini and adds a couple of olives.
@@ -17,10 +18,6 @@
 1024_Identity_Thief_00.02.40.515-00.02.44.280 	the bartender adds drinks to her tab, totaling over $2,000.
 1031_Quantum_of_Solace_00.36.09.334-00.36.21.352 	the thin german adds sugar to coffee and turbulence hits as greene returns from a comfort break.
 1051_Harry_Potter_and_the_goblet_of_fire_02.01.23.190-02.01.33.297 	harry's blood is added to the cauldron.
-1053_Harry_Potter_and_the_philosophers_stone_00.12.39.183-00.12.48.571 	he adds some candles and glances at the watch on dudley's wrist.
-1056_Rambo_00.12.24.125-00.12.25.426 	he adds a nut to the thread at the end of the rod and reaches onto a bench.
-1059_The_devil_wears_prada_00.02.23.029-00.02.26.460 	a model-type measures out a small amount of cereal and adds some nuts to her breakfast.
-2026_Legion_00.06.04.743-00.06.15.809 	the street lamps begin to flicker and strobe, adding to the confusion.
 1053_Harry_Potter_and_the_philosophers_stone_00.12.39.183-00.12.48.571 	he adds some candles and glances at the watch on dudley's wrist.
 1056_Rambo_00.12.24.125-00.12.25.426 	he adds a nut to the thread at the end of the rod and reaches onto a bench.
 1059_The_devil_wears_prada_00.02.23.029-00.02.26.460 	a model-type measures out a small amount of cereal and adds some nuts to her breakfast.

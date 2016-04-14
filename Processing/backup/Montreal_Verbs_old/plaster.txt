@@ -1,0 +1,4 @@
+JACK_AND_JILL.srt 	JACK_AND_JILL_DVS104 	00:22:11,00 --> 00:22:17,50 	with a grin plastered on his face, someone turns back to his movie.
+PROMETHEUS.srt 	PROMETHEUS_DVS167 	00:11:05,00 --> 00:11:12,50 	hair dye plasters his roots.
+SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS116 	00:07:51,00 --> 00:07:59,50 	the stepmother leans in intimidatingly, a someone smile plastered on her exquisitely made up features.
+TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS196 	00:25:47,00 --> 00:25:53,50 	someone's grin stays plastered on his face as he gives a few wobbling nods.

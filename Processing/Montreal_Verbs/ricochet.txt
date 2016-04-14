@@ -1,4 +1,2 @@
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS814 	01:20:57,00 --> 01:21:04,50 	bullets ricochet off the forklift, as it creeps toward the bald thug.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS607 	01:44:32,00 --> 01:44:41,50 	bullets ricochet off someone's suit.
-ZOMBIELAND.srt 	ZOMBIELAND_DVS443 	00:50:11,00 --> 00:50:17,50 	a ricocheted ball whacks the back of his shaved head.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS615 	01:10:31,00 --> 01:10:39,50 	the bullet ricochets off the control box.

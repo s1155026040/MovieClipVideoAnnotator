@@ -1,4 +1,13 @@
-0006_Clerks_01.27.35.995-01.27.40.584 	DANTE places a mop in the corner.
-0014_Ist_das_Leben_nicht_schoen_00.53.54.233-00.53.56.539 	He is mopping his brow with his handkerchief.
-0020_Raising_Arizona_00.01.01.367-00.01.03.212 	At the far end of the corridor a huge con is sluggishly mopping the floor.
-0030_The_Hustler_00.49.16.249-00.49.19.546 	But the lunchroom is empty; only the janitor is there, mopping up.
+0014_Ist_das_Leben_nicht_schoen_00.53.54.233-00.53.56.539 	he is mopping his brow with his handkerchief.
+0020_Raising_Arizona_00.01.01.367-00.01.03.212 	at the far end of the corridor a huge con is sluggishly mopping the floor.
+0020_Raising_Arizona_00.01.11.051-00.01.14.902 	the mopping con snarls as hi passes.
+0020_Raising_Arizona_00.04.51.915-00.04.52.577 	the mopping con turns to watch him recede.
+0030_The_Hustler_00.49.16.249-00.49.19.546 	but the lunchroom is empty; only the janitor is there, mopping up.
+1008_Spider-Man2_00.04.38.747-00.04.41.841 	stack on the back of a moped, there are pizzas.
+1008_Spider-Man2_00.34.42.530-00.34.51.876 	he's dragging his broken moped along behind him.
+1009_Spider-Man3_00.10.17.971-00.10.30.187 	the strange black substance crawls speedily up behind and attaches itself to the rear number plate, as the moped rides off down the woodland track.
+1009_Spider-Man3_01.11.06.409-01.11.09.027 	outside his digs, his landlord is mopping the floor.
+1029_Pride_And_Prejudice_Disk_One_01.46.27.554-01.46.28.257 	he mops his sweaty brow with a handkerchief.
+1031_Quantum_of_Solace_00.21.07.201-00.21.10.298 	there's a guy on a moped behind them.
+1031_Quantum_of_Solace_00.21.19.001-00.21.19.805 	the moped guy has to stop.
+1031_Quantum_of_Solace_00.21.47.739-00.21.51.064 	they look through papers as moped guy looks for them.

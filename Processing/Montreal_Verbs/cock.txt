@@ -1,54 +1,31 @@
-21_JUMP_STREET.srt 	21_JUMP_STREET_DVS335 	00:56:16,00 --> 00:56:20,50 	someone cocks his head, then turns away.
 30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS329 	01:14:23,00 --> 01:14:28,50 	someone cocks his pistol.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS364 	00:33:31,00 --> 00:33:37,50 	someone cocks his head.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS737 	01:14:04,00 --> 01:14:12,50 	the bald thug cocks the gun and strolls up the chopper's loading ramp into its interior's red glow.
-BAD_TEACHER.srt 	BAD_TEACHER_DVS273 	01:14:04,00 --> 01:14:14,50 	meeting his gaze, she cocks her head, stands, then reaches behind her back and under her sleeve.
 BAD_TEACHER.srt 	BAD_TEACHER_DVS321 	01:26:22,00 --> 01:26:28,50 	someone gapes then cocks her head.
 BURLESQUE.srt 	BURLESQUE_DVS381 	00:53:07,00 --> 00:53:12,50 	with a smile, someone cocks his head.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS653 	01:02:47,00 --> 01:02:55,50 	as someone grabs onto the boat's diving step, its grizzled owner cocks a gun from the deck.
-CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS300 	01:12:07,00 --> 01:12:12,50 	sleeves rolled up, he cocks his head.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS406 	01:38:12,00 --> 01:38:16,50 	someone cocks an eyebrow.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS410 	01:39:18,00 --> 01:39:23,50 	he cocks his head and nods.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS436 	01:45:13,00 --> 01:45:17,50 	hat cocked stylishly on her.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS558 	02:10:49,00 --> 02:10:53,50 	someone cock his arm back.
-DISTRICT_9.srt 	DISTRICT_9_DVS470 	00:54:23,00 --> 00:54:34,50 	a soldier cocks a machine gun aimed at the camp.
 DISTRICT_9.srt 	DISTRICT_9_DVS779 	01:32:18,00 --> 01:32:28,50 	the sniper cocks his rifle and steers fixedly into its sight.
 FLIGHT.srt 	FLIGHT_DVS738 	01:35:21,00 --> 01:35:25,50 	someone cocks his head.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS97 	00:15:11,00 --> 00:15:17,50 	someone stands, aims his revolver at her and cocks the hammer.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS103 	00:16:02,00 --> 00:16:18,50 	the rider's head cocks erratically.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS108 	00:17:24,00 --> 00:17:47,50 	the henchman's wide eyes reflect his ghastly flaming visage as the rider cocks his head appraisingly then leans in to peer more closely at the man.
-HUGO.srt 	HUGO_DVS337 	00:51:24,00 --> 00:51:30,50 	someone furrows her brow and cocks her head to one side.
-IN_TIME.srt 	IN_TIME_DVS349 	00:36:21,00 --> 00:36:26,50 	someone smiles briefly and cocks his head.
 IN_TIME.srt 	IN_TIME_DVS668 	01:12:28,00 --> 01:12:32,50 	he cocks an eyebrow.
 IN_TIME.srt 	IN_TIME_DVS816 	01:26:33,00 --> 01:27:01,50 	someone cocks his head, then claims the upper hand, pinning his opponent's wrist to the table.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS173 	00:50:02,00 --> 00:50:07,50 	she cocks her head.
-ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS80 	00:24:02,00 --> 00:24:11,50 	someone glances at her ex-husband who cocks his head and offers a tender smile.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS206 	01:02:02,00 --> 01:02:07,50 	someone cocks an eyebrow.
-ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS299 	01:26:12,00 --> 01:26:18,50 	he solemnly locks eyes with her and she beams, cocking her head.
-ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS364 	01:42:28,00 --> 01:42:41,50 	blinking back tears someone sympathetically cocks her head.
-JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS302 	01:00:08,00 --> 01:00:15,50 	they smile and cock their heads.
 JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS335 	01:47:22,00 --> 01:47:26,50 	he cocks his head patiently.
-KARATE_KID.srt 	KARATE_KID_DVS318 	00:28:35,00 --> 00:28:40,50 	turning, he cocks his head.
 KARATE_KID.srt 	KARATE_KID_DVS326 	00:29:10,00 --> 00:29:19,50 	transfixed by the pretty young musician, someone steps out from behind the partition and cocks his head dreamily.
 KARATE_KID.srt 	KARATE_KID_DVS618 	00:53:17,00 --> 00:53:22,50 	master someone cocks his head.
-KARATE_KID.srt 	KARATE_KID_DVS837 	01:09:20,00 --> 01:09:27,50 	she stares at the screen, slack-jawed, then disbelievingly cocks her head.
-KARATE_KID.srt 	KARATE_KID_DVS1622 	02:11:57,00 --> 02:12:03,50 	someone cocks his head the other way and so does his opponent.
 KNOCKED_UP.srt 	KNOCKED_UP_DVS21 	00:17:49,00 --> 00:17:53,50 	someone cocks her head.
 LARRY_CROWNE.srt 	LARRY_CROWNE_DVS82 	00:21:02,00 --> 00:21:07,50 	with a wry look she cocks her head.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS803 	01:22:06,00 --> 01:22:11,50 	facing the ship, he cocks the gun and raises it in the air.
 MORNING_GLORY.srt 	MORNING_GLORY_DVS300 	01:06:17,00 --> 01:06:21,50 	she cocks her head.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS34 	00:04:59,00 --> 00:05:04,50 	someone cocks an eyebrow at his assistant.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS518 	01:01:50,00 --> 01:01:55,50 	she cocks her head at the unhatched egg.
-NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS157 	00:35:36,00 --> 00:35:54,50 	someone stares at his headgear and cocks her head.
-PROMETHEUS.srt 	PROMETHEUS_DVS184 	00:12:43,00 --> 00:12:48,50 	looking down, he cocks his head and frowns.
 PROMETHEUS.srt 	PROMETHEUS_DVS547 	01:01:04,00 --> 01:01:09,50 	someone  blinks at him and cocks her head.
 PROMETHEUS.srt 	PROMETHEUS_DVS666 	01:12:15,00 --> 01:12:19,50 	someone cocks his head.
-PROMETHEUS.srt 	PROMETHEUS_DVS796 	01:25:27,00 --> 01:25:36,50 	he cocks his head, then moves closer to someone who sits crouched on the ground with his legs bent forward over his shoulders.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS258 	00:48:44,00 --> 00:49:19,50 	now, in a hotel room, he opens the suitcase, takes out his someone gun, and cocks it.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS269 	00:51:05,00 --> 00:51:13,50 	someone curiously cocks his head and someone stares at him calmly.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS368 	01:10:18,00 --> 01:10:22,50 	he cocks his head.
-RUBY_SPARKS.srt 	RUBY_SPARKS_DVS345 	00:55:58,00 --> 00:56:05,50 	wearing an indignant smirk, someone cocks his head and scans the group.
-SPARKLE_2012.srt 	SPARKLE_2012_DVS627 	01:41:07,00 --> 01:41:13,50 	as someone stares, her mother cocks her head and lifts her brow.
 SUPER_8.srt 	SUPER_8_DVS403 	01:12:51,00 --> 01:12:55,50 	someone cocks the rifle.
 SUPER_8.srt 	SUPER_8_DVS484 	01:23:28,00 --> 01:23:35,50 	someone cocks the rifle.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS92 	00:17:36,00 --> 00:17:40,50 	someone cocks his head.
@@ -56,23 +33,13 @@ THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS162 	00:27:18,00 --> 00:27:23,50 	he coc
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1116 	01:57:13,00 --> 01:57:18,50 	he cocks it and gestures at his knife block.
 THE_VOW.srt 	THE_VOW_DVS553 	01:15:25,00 --> 01:15:30,50 	someone cocks his head and nods appreciatively.
 THE_WATCH.srt 	THE_WATCH_DVS430 	01:19:08,00 --> 01:19:12,50 	she cocks a handgun.
-THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS32 	00:07:17,00 --> 00:07:23,50 	he cocks his head at someone, then turns back to the pretty woman.
 THOR.srt 	THOR_DVS434 	01:09:13,00 --> 01:09:18,50 	someone cocks his head to one side.
-TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS689 	01:16:14,00 --> 01:16:19,50 	someone brightly lifts his brow and cocks his head.
-TRUE_GRIT.srt 	TRUE_GRIT_DVS166 	00:37:10,00 --> 00:37:15,50 	someone pulls out his pistol, cocks it.
 TRUE_GRIT.srt 	TRUE_GRIT_DVS244 	00:50:35,00 --> 00:50:40,50 	someone cocks his head, curiously.
-TRUE_GRIT.srt 	TRUE_GRIT_DVS291 	01:02:18,00 --> 01:02:26,50 	someone cocks his rifle and takes aim.
 TRUE_GRIT.srt 	TRUE_GRIT_DVS473 	01:31:42,00 --> 01:31:47,50 	someone limply points and cocks his pistol.
-TRUE_GRIT.srt 	TRUE_GRIT_DVS485 	01:32:25,00 --> 01:32:29,50 	she makes sure the gun is cocked.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS327 	00:53:07,00 --> 00:53:16,50 	cocking an eyebrow, someone faces someone, who cocks his head and gives a few perfunctory nods.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS327 	00:53:07,00 --> 00:53:16,50 	cocking an eyebrow, someone faces someone, who cocks his head and gives a few perfunctory nods.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS333 	00:48:32,00 --> 00:48:36,50 	someone cocks his head.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS425 	00:37:21,00 --> 00:37:26,50 	the man in black steps closer, his head cocked.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS440 	00:38:50,00 --> 00:38:55,50 	someone skeptically cocks her head.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS448 	00:39:26,00 --> 00:39:32,50 	relaxing, she tilts her head and cocks an eyebrow.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS701 	01:03:23,00 --> 01:03:32,50 	a team of soldiers surrounding him cock their weapons.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS821 	01:14:08,00 --> 01:14:13,50 	his hand shakes as he cocks it.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS106 	00:08:49,00 --> 00:08:54,50 	the newcomer quickly cocks his weapon.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS108 	00:08:55,00 --> 00:09:00,50 	the newcomer sneers and cocks his head.
-ZOMBIELAND.srt 	ZOMBIELAND_DVS405 	00:46:12,00 --> 00:46:19,50 	the thoughtful young man contemplatively cocks his head as they drive through an industrial area.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS521 	01:01:24,00 --> 01:01:29,50 	but someone wryly cocks her head.

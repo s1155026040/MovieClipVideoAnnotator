@@ -1,4 +1,1 @@
-HUGO.srt 	HUGO_DVS141 	00:19:37,00 --> 00:19:45,50 	later, his father repairs a clock in his shop, which is filled with various gears and mechanisms.
-HUGO.srt 	HUGO_DVS213 	00:31:45,00 --> 00:31:52,50 	tightens it on with screws, then places the repaired mouse back onto the counter.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS167 	00:37:34,00 --> 00:37:39,50 	now inside, someone repairs the window.
-SUPER_8.srt 	SUPER_8_DVS261 	00:44:27,00 --> 00:44:33,50 	standing in a lift bucket someone repairs a high power transformer.

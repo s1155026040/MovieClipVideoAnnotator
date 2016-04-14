@@ -1,51 +1,22 @@
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS618 	01:03:41,00 --> 01:03:50,50 	someone eyes her father as he slows his pace and glides his hand over box number 475.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS64 	00:10:35,00 --> 00:10:44,50 	now, at night, our view glides over a highway, its lanes glittering from the lights of traffic below.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS461 	01:22:43,00 --> 01:22:52,50 	they glide over the train as it speeds beneath them along the snow-covered track.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS50 	00:03:34,00 --> 00:03:42,50 	as they glide through calmer water, someone looks around with an ecstatic, open-mouthed grin.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS155 	00:12:26,00 --> 00:12:34,50 	someone smacks the lip of the wave, glides back down, and cross-steps up the board.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS182 	00:14:16,00 --> 00:14:22,50 	the cliffs get closer as he glides across the water toward shore.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS598 	00:57:46,00 --> 00:57:53,50 	someone allows the white water to surround him, then crouches low and glides out of it.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS811 	01:20:09,00 --> 01:20:15,50 	his board glides swiftly over the gently rolling water.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS881 	01:26:07,00 --> 01:26:14,50 	peering at the green tipped board, he glides a hand over its lemon yellow body, appreciating the curves of its design.
 CHRONICLE.srt 	CHRONICLE_DVS412 	01:01:31,00 --> 01:01:38,50 	as our view tilts downward and glides over the asphalt, we glimpse two of the unconscious thugs.
 COLOMBIANA.srt 	COLOMBIANA_DVS607 	00:57:15,00 --> 00:57:21,50 	now our view glides over a mansion with a paris styled courtyard at its center.
-COLOMBIANA.srt 	COLOMBIANA_DVS624 	00:58:58,00 --> 00:59:05,50 	a view through the pool's glass panels shows a shark gliding through the pale blue water.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS555 	01:18:12,00 --> 01:18:18,50 	glides his finger along its edge, then reluctantly hands it to his father.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS751 	01:38:25,00 --> 01:38:32,50 	he accidentally turns on his wipers and they glide across the windshield.
-FLIGHT.srt 	FLIGHT_DVS145 	00:26:54,00 --> 00:27:00,50 	it glides overhead, both engines on fire, and slams down on its side, as people in white robes run for cover.
 FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS219 	00:58:58,00 --> 00:59:15,50 	an aerial view glides over rows of houses, boats in a marina, and a freeway interchange.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS334 	00:50:36,00 --> 00:50:43,50 	popping a wheelie, they glide along on only the bike's rear wheel.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS337 	00:50:59,00 --> 00:51:12,50 	meanwhile, the hijacked ambulance glides down an otherwise vacant road through desert landscape.
-IN_TIME.srt 	IN_TIME_DVS226 	00:23:51,00 --> 00:23:58,50 	as the sedan glides away, he peers out his widow at the passing city.
-IN_TIME.srt 	IN_TIME_DVS238 	00:24:46,00 --> 00:24:51,50 	as the sedan glides on, he gives a worried look.
 IN_TIME.srt 	IN_TIME_DVS246 	00:25:23,00 --> 00:25:29,50 	as the sedan glides down a concrete passage way,
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS613 	01:57:49,00 --> 01:57:58,50 	we glide inside, over the rope cordoning off the room, and past cookbooks crammed unto a narrow bookshelf.
-KARATE_KID.srt 	KARATE_KID_DVS1091 	01:30:18,00 --> 01:30:34,50 	gliding across the platform, she sweeps a hand beneath her face.
-LARRY_CROWNE.srt 	LARRY_CROWNE_DVS23 	00:06:57,00 --> 00:07:21,50 	a view with the left break light shows the suv gliding into the driveway of a modest home with a well-manicured front lawn.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS715 	01:14:31,00 --> 01:14:41,50 	the flying fish makes a sharp turn and glides along the ocean.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS142 	00:32:15,00 --> 00:32:41,50 	we glide through them and inside.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS206 	00:43:12,00 --> 00:43:16,50 	then glide away in a queue.
 PROMETHEUS.srt 	PROMETHEUS_DVS441 	00:46:18,00 --> 00:46:24,50 	someone activates an arched scanner that glides over the head.
 PROMETHEUS.srt 	PROMETHEUS_DVS764 	01:22:40,00 --> 01:22:45,50 	the scanner glides over her body.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS619 	01:56:19,00 --> 01:56:32,50 	he glances at the elevator operator and the door glides shut.
 SANCTUM.srt 	SANCTUM_DVS170 	00:34:43,00 --> 00:35:00,50 	he glides his beam up a wall to a crevasse in the rock.
-SANCTUM.srt 	SANCTUM_DVS475 	01:28:27,00 --> 01:28:42,50 	as the light from his flame disappears, our view glides to writing etched in the side of the tank, "frank and someone were here.
-SOUL_SURFER.srt 	SOUL_SURFER_DVS269 	01:18:05,00 --> 01:18:09,50 	grinning as she glides away.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS364 	00:55:01,00 --> 00:55:07,50 	they veer around the dune and glide down the opposite side.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS612 	01:22:39,00 --> 01:22:43,50 	the falcon glides just above a canal.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS207 	00:39:11,00 --> 00:39:18,50 	the bus glides away to reveal someone alone on the shelter bench.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS315 	00:38:19,00 --> 00:38:26,50 	now the car glides up a long driveway to a sleek glass-walled home.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS336 	00:41:23,00 --> 00:41:31,50 	a train glides up.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1350 	02:25:07,00 --> 02:25:14,50 	later an suv glides up a long driveway to a luxury hotel on a mountain.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1413 	02:31:44,00 --> 02:31:48,50 	snow drifts to the ground as someone glides her motorcycle down a hill and parks across the street from someone's apartment building.
-THE_VOW.srt 	THE_VOW_DVS222 	00:28:25,00 --> 00:28:33,50 	at a dressing table, someones fingers glide over a drawing of a reclined female figure in a sketchbook.
-THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS210 	00:40:22,00 --> 00:40:29,50 	he glides over to a lamp and sticks a tiny device under the shade's cross-beamed frame.
-THOR.srt 	THOR_DVS201 	00:26:22,00 --> 00:26:28,50 	riding on a wave of ice and rock, someone glides up to someone.
-TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS330 	00:38:26,00 --> 00:38:33,50 	as someone glides away, someone uneasily glances around the arena.
-TRUE_GRIT.srt 	TRUE_GRIT_DVS515 	01:34:56,00 --> 01:35:04,50 	a snake glides onto someone's shoulder and she flings it aside.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS482 	01:15:02,00 --> 01:15:09,50 	he glides the cursor across a smiling photo of someone with trees behind her.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS866 	01:19:20,00 --> 01:19:29,50 	the boy dives back toward the satellite dish, then uses his sound rings to glide over dish's concave face.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS906 	01:23:03,00 --> 01:23:10,50 	now as the russian cargo ship glides over the ocean, someone's sub follows underwater.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1193 	01:46:36,00 --> 01:46:42,50 	someone corkscrews over a ship, then glides down near the water.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS651 	01:13:21,00 --> 01:13:28,50 	meanwhile, someone jumps a fence for a ride of swings gliding around in a circle.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS667 	01:14:33,00 --> 01:14:37,50 	the car glides down its track.

@@ -1,11 +1,5 @@
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS258 	00:48:47,00 --> 00:48:52,50 	someone whips of his suit coat and loosens his tie.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS261 	00:48:58,00 --> 00:49:04,50 	someone steps behind him and loosens his belt.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS774 	01:16:57,00 --> 01:17:04,50 	someone stands with both hands braced on a railing, his tie slightly loosened.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS1075 	01:42:42,00 --> 01:42:49,50 	someone pops out again, tears off his hood and loosens his collar.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS544 	02:08:06,00 --> 02:08:17,50 	someone loosens his ankles with a little footwork.
-IN_TIME.srt 	IN_TIME_DVS73 	00:08:29,00 --> 00:08:36,50 	the wealthy man takes a few steps forward, then shifts his uneasy gaze and loosens his tie.
-INSIDE_MAN.srt 	INSIDE_MAN_DVS217 	01:01:50,00 --> 01:01:59,50 	someone loosens up, rubbing his shaved head.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS479 	00:53:48,00 --> 00:53:55,50 	later, the boy persists as the bundle of life jackets loosens and rolls beneath his grasp.
-SANCTUM.srt 	SANCTUM_DVS528 	01:38:07,00 --> 01:38:15,50 	now in slow motion, submerged under gently lapping ripples, someone's grip loosens on his son.
 THE_VOW.srt 	THE_VOW_DVS542 	01:14:33,00 --> 01:14:38,50 	later, with his necktie loosened,
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS643 	01:29:35,00 --> 01:29:40,50 	someone loosens his collar.

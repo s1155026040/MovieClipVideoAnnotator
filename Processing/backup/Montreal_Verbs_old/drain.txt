@@ -1,0 +1,11 @@
+BAD_TEACHER.srt 	BAD_TEACHER_DVS203 	00:56:57,00 --> 00:57:04,50 	someone tips the glass up for him, forcing him to drain it.
+CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS386 	01:33:47,00 --> 01:34:20,50 	a quick color drained flash takes us into the fight.
+FLIGHT.srt 	FLIGHT_DVS222 	00:48:43,00 --> 00:48:50,50 	he takes a case of corona and some other beer cans from the fridge, and also drains them.
+FLIGHT.srt 	FLIGHT_DVS350 	00:57:51,00 --> 00:57:56,50 	he smacks his lips, picks up the glass again, and drains the contents.
+IN_TIME.srt 	IN_TIME_DVS675 	01:13:17,00 --> 01:13:27,50 	now, capsules fall onto pavement littered with broken glass as the ghetto citizens drain the capsule's time into their bodies.
+KNOCKED_UP.srt 	KNOCKED_UP_DVS103 	01:05:24,00 --> 01:05:29,50 	someone drains his glass and pounds the table.
+THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS214 	00:43:20,00 --> 00:43:34,50 	his shirt half untucked and his collar sticking up, he staggers out and drains the glass.
+THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS181 	01:11:12,00 --> 01:11:19,50 	someone drains a glass of brandy.
+XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS336 	00:25:25,00 --> 00:25:33,50 	in a pub, young men and women cheer on someone as he drains a yard glass of beer.
+XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS607 	00:56:46,00 --> 00:56:51,50 	he drains his drink and someone sips her
+YOUNG_ADULT.srt 	YOUNG_ADULT_DVS189 	00:35:59,00 --> 00:36:04,50 	tilting back her head, someone drains her glass.

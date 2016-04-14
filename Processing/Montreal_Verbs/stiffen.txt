@@ -1,3 +1,1 @@
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS569 	01:45:59,00 --> 01:46:06,50 	the burly agent stiffens his jaw.
-THOR.srt 	THOR_DVS208 	00:28:23,00 --> 00:28:29,50 	someone points one finger toward someone, who stiffens.
-THOR.srt 	THOR_DVS686 	01:42:32,00 --> 01:42:39,50 	sitting at the table, someone smiles then stiffens as someone passes through the crowd behind her.

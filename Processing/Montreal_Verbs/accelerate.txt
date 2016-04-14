@@ -1,8 +1,3 @@
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS296 	00:25:36,00 --> 00:25:46,50 	he accelerates through the off-ramp's concrete wall, plummeting 15 feet on to a taxi, which launches upward into the overpass.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS309 	00:27:08,00 --> 00:27:16,50 	someone's truck accelerates beside the van and performs a pit maneuver, spinning someone out of control.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS317 	00:28:13,00 --> 00:28:18,50 	someone accelerates beside the armored truck.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS565 	01:38:27,00 --> 01:38:41,50 	as he slides a lever forward, the plane accelerates toward the hangar exit.
 CHRONICLE.srt 	CHRONICLE_DVS214 	00:31:15,00 --> 00:31:19,50 	he accelerates.
-DISTRICT_9.srt 	DISTRICT_9_DVS512 	00:59:47,00 --> 00:59:52,50 	the transformation is accelerating, you do not have much time.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS26 	00:03:57,00 --> 00:04:12,50 	someone accelerates.
-ZOMBIELAND.srt 	ZOMBIELAND_DVS593 	01:08:44,00 --> 01:08:51,50 	someone wavers on the chopper, accelerates into the bushes, and falls off.

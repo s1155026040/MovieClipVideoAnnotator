@@ -1,32 +1,123 @@
-0001_American_Beauty_01.55.05.110-01.55.21.331 	We're watching the video Ricky showed Jane earlier, of the empty white PLASTIC BAG being blown about.
-0007_DIE_NACHT_DES_JAEGERS_00.34.30.568-00.34.39.703 	We see the paper-dolls blow past him.
-0009_Forrest_Gump_00.50.40.288-00.50.40.814 	A soldier is blown up by a rocket.
-0009_Forrest_Gump_00.54.29.701-00.54.32.397 	Bubba's chest has been blown open.
-0009_Forrest_Gump_01.21.08.297-01.21.13.431 	They blow horns and toss confetti into the air.
-0009_Forrest_Gump_01.34.55.898-01.35.00.448 	The wind begins to blow strong.
-0013_Halloween_00.35.00.755-00.35.06.443 	Through the blowing trees we see the full moon rising in the night sky.
-0013_Halloween_00.35.51.134-00.35.53.853 	Gusts of wind blow the costumes of children going from house to house.
-0013_Halloween_01.05.16.925-01.05.19.276 	Just the wind blowing the trees.
-0014_Ist_das_Leben_nicht_schoen_02.01.19.368-02.01.20.341 	The wind is blowing as it has all through this sequence.
-0019_Pulp_Fiction_01.52.06.758-01.52.13.003 	He THROWS himself against the back wall, gun outstretched in front of him, a look of yellow fear on his face, ready to blow in half anybody fool enough to stick their head through that door.
-0019_Pulp_Fiction_01.52.42.813-01.52.48.889 	Bursting out the door and blowing them all away while they're fuckin' around is the way to go.
-0020_Raising_Arizona_00.28.17.388-00.28.18.543 	CRACK - from afar, the foreground lizard is blown away.
-0020_Raising_Arizona_00.35.31.813-00.35.33.558 	Gale leans back to blow smoke at the ceiling.
-0020_Raising_Arizona_00.49.13.260-00.49.14.856 	The MANAGER is blowing out groceries on the shelves behind him.
-0021_Rear_Window_00.53.30.755-00.53.31.255 	The binoculars are held for a moment until we see a puffing and blowing Stella arrive at the opening of the alleyway.
-0022_Reservoir_Dogs_01.13.19.525-01.13.22.338 	CLOSEUP - His HANDS, rubbing each other getting blown dry.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.45.15.714-00.45.23.176 	Scattered leaves rise into the air Whirling down the road as if blown by an invisible wind.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.59.44.392-01.59.59.116 	ANGLE ON: MERRY, wind blowing his hair, EOWYN'S ARM around his chest.
-0026_The_Big_Fish_00.40.02.786-00.40.08.372 	At first, it just seems to be the wind blowing the branches, but as we hear the wood CRACKING and GROANING, there's no mistaking it: they're trying to block him.
-0026_The_Big_Fish_01.14.16.821-01.14.18.106 	She freezes, watching the shadow ripple across the white fabric, blowing so softly in the breeze.
-0027_The_Big_Lebowski_01.48.16.643-01.48.18.612 	The wind has blown all of the ashes into the Dude, standing just to the side of and behind Walter.
-0043_Thelma_and_Luise_01.40.02.910-01.40.06.373 	Suddenly Thelma FIRES the gun, blowing two holes into the trunk cover.
-0043_Thelma_and_Luise_02.03.12.996-02.03.15.327 	The dust from the cars is blowing across them.
-0049_Hannah_and_her_sisters_01.22.12.951-01.22.22.566 	A bench faces some wharf pilings; the water gently laps against them as Lee walks into view, the wind blowing her hair.
-0050_Indiana_Jones_and_the_last_crusade_00.51.19.021-00.51.21.880 	He turns and sprays the room with machine gun fire, cutting all three Nazis to ribbons and blowing them backwards across the room.
+0001_American_Beauty_01.55.05.110-01.55.21.331 	we're watching the video ricky showed jane earlier, of the empty white plastic bag being blown about.
+0003_CASABLANCA_00.02.43.929-00.02.49.258 	an officer blows his whistle several times.
+0003_CASABLANCA_01.14.22.000-01.14.23.349 	renault thinks a moment, then blows a loud blast on his whistle.
+0007_DIE_NACHT_DES_JAEGERS_00.34.30.568-00.34.39.703 	we see the paper-dolls blow past him.
+0007_DIE_NACHT_DES_JAEGERS_01.21.39.349-01.21.40.688 	she blows out the candle.
+0009_Forrest_Gump_00.50.40.288-00.50.40.814 	a soldier is blown up by a rocket.
+0009_Forrest_Gump_00.54.29.701-00.54.32.397 	bubba's chest has been blown open.
+0009_Forrest_Gump_01.21.08.297-01.21.13.431 	they blow horns and toss confetti into the air.
+0009_Forrest_Gump_01.34.55.898-01.35.00.448 	the wind begins to blow strong.
+0009_Forrest_Gump_02.06.59.564-02.07.02.413 	the wind blows fallen leaves across the ground.
+0012_Get_Shorty_00.51.12.272-00.51.22.326 	a gardener blows the leaves.
+0013_Halloween_00.29.09.984-00.29.12.870 	the wind blows their costumes, billowing them outward.
+0013_Halloween_00.35.00.755-00.35.06.443 	through the blowing trees we see the full moon rising in the night sky.
+0013_Halloween_00.45.59.573-00.46.01.822 	the wind blows the robe open.
+0013_Halloween_00.46.21.552-00.46.24.105 	almost immediately the wind blows the door shut!
+0013_Halloween_00.46.30.640-00.46.32.544 	the wind blows the door open a little wider.
+0013_Halloween_00.50.58.461-00.51.00.668 	the wind blows strong and whips the negligee around annie's legs.
+0013_Halloween_01.05.16.925-01.05.19.276 	just the wind blowing the trees.
+0014_Ist_das_Leben_nicht_schoen_01.16.20.954-01.16.23.879 	man beside lighted window pulls down the shade as george blows his whistle.
+0014_Ist_das_Leben_nicht_schoen_02.01.19.368-02.01.20.341 	the wind is blowing as it has all through this sequence.
+0016_O_Brother_Where_Art_Thou_01.06.38.343-01.06.39.501 	the first guard again blows his whistle.
+0019_Pulp_Fiction_00.18.42.932-00.18.45.384 	as brett talks, jules takes out his gun and shoots roger blowing him out of his chair.
+0019_Pulp_Fiction_01.52.06.758-01.52.13.003 	he throws himself against the back wall, gun outstretched in front of him, a look of yellow fear on his face, ready to blow in half anybody fool enough to stick their head through that door.
+0019_Pulp_Fiction_01.52.42.813-01.52.48.889 	bursting out the door and blowing them all away while they're fuckin' around is the way to go.
+0020_Raising_Arizona_00.28.17.388-00.28.18.543 	crack - from afar, the foreground lizard is blown away.
+0020_Raising_Arizona_00.35.31.813-00.35.33.558 	gale leans back to blow smoke at the ceiling.
+0020_Raising_Arizona_00.49.13.260-00.49.14.856 	the manager is blowing out groceries on the shelves behind him.
+0021_Rear_Window_00.53.30.755-00.53.31.255 	the binoculars are held for a moment until we see a puffing and blowing stella arrive at the opening of the alleyway.
+0022_Reservoir_Dogs_01.35.12.772-01.35.14.854 	mr. white is blown out of frame, leaving it empty.
+0023_THE_BUTTERFLY_EFFECT_01.10.18.583-01.10.24.677 	evan looks up to see one of the men leaning over the second tier, karl, a huge muscular con with tattoos of swastikas and other nazi symbols on his arm, blows a kiss at evan and winks.
+0023_THE_BUTTERFLY_EFFECT_01.35.22.215-01.35.23.750 	evan celebrates his 14th birthday and blows out the candles.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.15.18.895-00.15.22.075 	bilbo blows a perfect smoke ring and watches it rise into the air.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.45.15.714-00.45.23.176 	scattered leaves rise into the air whirling down the road as if blown by an invisible wind.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.59.44.392-01.59.59.116 	angle on: merry, wind blowing his hair, eowyn's arm around his chest.
+0026_The_Big_Fish_00.23.29.585-00.23.32.367 	the giant's voice has such force, it blows edward's hair back.
+0026_The_Big_Fish_00.40.02.786-00.40.08.372 	at first, it just seems to be the wind blowing the branches, but as we hear the wood cracking and groaning, there's no mistaking it: they're trying to block him.
+0026_The_Big_Fish_01.14.16.821-01.14.18.106 	she freezes, watching the shadow ripple across the white fabric, blowing so softly in the breeze.
+0027_The_Big_Lebowski_01.23.12.399-01.23.14.032 	he looks forward and his forward momentum blows back his hair.
+0027_The_Big_Lebowski_01.48.16.643-01.48.18.612 	the wind has blown all of the ashes into the dude, standing just to the side of and behind walter.
+0028_The_Crying_Game_01.08.17.145-01.08.18.750 	she passes by a gap in the wall and blows a kiss at him.
+0029_The_Graduate_00.07.42.538-00.07.54.852 	she blows out the match and puts it down carefully on the bedspread.
+0043_Thelma_and_Luise_01.40.02.910-01.40.06.373 	suddenly thelma fires the gun, blowing two holes into the trunk cover.
+0043_Thelma_and_Luise_02.03.12.996-02.03.15.327 	the dust from the cars is blowing across them.
+0049_Hannah_and_her_sisters_00.32.33.406-00.32.44.647 	hannah, crying, blows her nose.
+0049_Hannah_and_her_sisters_00.47.23.793-00.47.33.863 	the wind blows her hair; she hugs the edward estlin cummings book to her chest.
+0049_Hannah_and_her_sisters_01.22.12.951-01.22.22.566 	a bench faces some wharf pilings; the water gently laps against them as lee walks into view, the wind blowing her hair.
+0050_Indiana_Jones_and_the_last_crusade_00.13.44.700-00.13.48.155 	the crate explodes, causing the entire ship to blow, sending an enormous orange fireball into the sky.
+0050_Indiana_Jones_and_the_last_crusade_00.29.11.364-00.29.13.769 	he blows dust away from the tile and tries to pry it up, but cannot.
+0050_Indiana_Jones_and_the_last_crusade_00.51.19.021-00.51.21.880 	he turns and sprays the room with machine gun fire, cutting all three nazis to ribbons and blowing them backwards across the room.
+0050_Indiana_Jones_and_the_last_crusade_01.24.48.561-01.24.53.551 	it whistles overhead and blows up the parked car.
+0050_Indiana_Jones_and_the_last_crusade_01.38.49.366-01.38.52.654 	suddenly the fedora, borne on the wind, blows into scene and lands at indy's feet.
+0051_Men_in_black_01.03.35.139-01.03.36.882 	and then jay fires, shattering the storefront window, and blowing up a car on the street.
+1003_How_to_Lose_Friends_and_Alienate_People_01.24.34.025-01.24.39.235 	she blows a kiss.
+1005_Signs_00.18.07.600-00.18.09.038 	graham blows out his cheeks.
+1006_Slumdog_Millionaire_00.00.49.686-00.00.54.010 	in an interrogation room, a corpulent policeman blows cigarette smoke across the table, into the face of a terrified, sweating, young, male prisoner.
+1007_Spider-Man1_01.40.28.835-01.40.35.236 	the green goblin shoots a missile and blows up the cable-car station.
+1008_Spider-Man2_01.04.32.316-01.04.33.736 	puffs on the cigar, then blows the match.
+1008_Spider-Man2_01.17.56.648-01.17.57.878 	aunt may's coat billows in the stiff breeze, which also blows falling leaves around the two of them.
+1009_Spider-Man3_00.02.05.194-00.02.07.463 	more credits appear and blow away as if made of sand.
+1009_Spider-Man3_00.22.26.067-00.22.29.864 	a police dog handler blows a whistle and points.
+1009_Spider-Man3_00.24.16.978-00.24.22.680 	flint's hand becomes sand and his fingers blow away in a fierce wind.
+1009_Spider-Man3_01.58.47.791-01.58.51.796 	half of sandman's head is blown away, and what's left of it looks like a bowl of burning coals.
+1010_TITANIC_00.33.48.027-00.33.57.884 	rose inhales then blows the smoke in her mother's direction.
+1010_TITANIC_01.09.17.779-01.09.23.894 	she blows out smoke and hands jack the hem of her skirt.
+1010_TITANIC_01.21.17.283-01.21.35.215 	the wind blows her shawl back on her outstretched arms.
+1010_TITANIC_01.28.45.313-01.28.52.816 	jack signs and dates the drawing, then blows on it.
+1010_TITANIC_01.30.35.150-01.30.37.817 	stepping back into rose's suite, he blows on his hands.
+1010_TITANIC_02.47.18.609-02.47.21.454 	clinging to a nearby piece of debris, a crewman blows into a whistle.
+1010_TITANIC_02.57.32.177-02.57.53.208 	rose continues to blow into the whistle as the rescuers shine their lights on her.
+1014_2012_01.20.15.698-01.20.18.170 	a breeze blows across the balcony.
+1014_2012_02.06.40.759-02.06.45.740 	flower petals blow from a bowl in the mountaintop monastery.
+1017_Bad_Santa_01.30.06.470-01.30.10.254 	willie runs holding the pink elephant which gets its head blowed off.
+1017_Bad_Santa_01.30.24.603-01.30.26.054 	a cop spots him and takes a shot, which blows the trunk of the wall
+1018_Body_Of_Lies_00.06.14.519-00.06.16.235 	a car is blown up.
+1018_Body_Of_Lies_00.21.15.262-00.21.19.977 	as the house blows up, ferris is thrown off his feet.
+1024_Identity_Thief_01.21.52.870-01.21.54.640 	now, in a frothy bubble bath, diana blows a handful of suds.
+1026_Legion_00.34.35.449-00.34.38.078 	the wind rises, blowing dust before it.
+1026_Legion_00.55.38.216-00.55.41.160 	the two children swings are blown back and forth by the wind.
+1026_Legion_01.10.46.679-01.10.47.659 	the van blows up.
+1026_Legion_01.21.43.872-01.21.44.473 	michael shots and is blown back against the wall.
+1029_Pride_And_Prejudice_Disk_One_00.10.18.340-00.10.22.003 	then finally blows out the candle.
+1030_Public_Enemies_01.17.48.706-01.17.53.146 	dillinger sits in the backseat, the wind from the open windows blowing against his disheveled hair.
+1033_Sherlock_Holmes_A_Game_of_Shadows_01.30.41.957-01.30.43.129 	the shock wave blows one of the gun crew's hat off.
+1033_Sherlock_Holmes_A_Game_of_Shadows_01.31.03.321-01.31.05.988 	the epic blast blows the fugitives off their feet.
+1033_Sherlock_Holmes_A_Game_of_Shadows_01.56.18.510-01.56.21.393 	holmes blows ash and spot from the bulbous pipe into moriarty's face then wraps his arms around him.
+1034_Super_8_00.59.02.720-00.59.03.962 	his mother blows out a solitary candle on his cake.
+1034_Super_8_01.20.15.234-01.20.17.180 	as it does so, one of its tires blows out.
+1034_Super_8_01.46.32.363-01.46.37.187 	joe's modern train is unconvincingly blown up.
+1035_The_Adjustment_Bureau_00.50.41.282-00.50.42.987 	richardson's hat blows off.
+1037_The_Curious_Case_Of_Benjamin_Button_00.08.30.236-00.08.35.396 	his trilby blows off as he races to the front steps and lets himself in.
+1037_The_Curious_Case_Of_Benjamin_Button_00.10.29.053-00.10.33.112 	the policeman blows his whistle as he gives chase.
+1037_The_Curious_Case_Of_Benjamin_Button_01.31.42.541-01.31.45.267 	she turns her head and blows out the smoke.
+1038_The_Great_Gatsby_01.05.45.563-01.05.47.065 	the french windows are blown open.
+1041_This_is_40_00.03.32.791-00.03.34.934 	she blows out her birthday candles.
+1041_This_is_40_00.20.43.297-00.20.49.846 	she blows smoke out the window and pulls away.
+1042_Up_In_The_Air_01.02.24.888-01.02.26.145 	the cardboard cut-out photo blows into the water.
+1043_Vantage_Point_00.24.35.333-00.24.37.976 	she blows him a kiss.
+1043_Vantage_Point_00.51.19.707-00.51.23.402 	a blast blows the door open and throws them to the floor.
+1043_Vantage_Point_01.02.31.155-01.02.36.063 	javier sets charges which blow the door to the president's room.
+1044_Pride_And_Prejudice_Disk_Two_02.01.56.373-02.02.06.039 	she goes to sit in front of the mirror, gazing sadly at her reflection, then leans forward and blows out the candle.
+1046_Australia_00.14.32.000-00.14.35.861 	she peers in horror through her desert glasses, her net veil blowing in the breeze.
+1046_Australia_01.09.45.386-01.09.50.266 	a breeze blows flynn's hat off the grave's wooden cross, as fletcher stares towards the herd visible as a cloud of dust in the distance.
+1047_Defiance_01.51.38.660-01.51.39.972 	the bunker behind him is blown to smithereens.
+1048_Gran_Torino_00.06.30.688-00.06.31.885 	ashley drops the cigarette and blows out smoke.
+1049_Harry_Potter_and_the_chamber_of_secrets_00.35.01.272-00.35.03.341 	it blows a raspberry in ron's face.
+1049_Harry_Potter_and_the_chamber_of_secrets_01.01.07.080-01.01.10.503 	he blows his nose on his filthy garment.
+1051_Harry_Potter_and_the_goblet_of_fire_00.19.03.711-00.19.08.542 	a student blows a ring of fire.
+1052_Harry_Potter_and_the_order_of_phoenix_01.18.54.069-01.18.56.025 	the wind blows wisps of straw across the room.
+1053_Harry_Potter_and_the_philosophers_stone_00.12.52.000-00.12.55.226 	he blows the candles.
+1053_Harry_Potter_and_the_philosophers_stone_00.27.15.000-00.27.20.466 	a bright light shines and a breeze blows through harry's hair.
 1056_Rambo_00.03.20.832-00.03.23.067 	one of the peasants is blown to pieces.
 1056_Rambo_00.28.10.655-00.28.12.250 	a man is blown to pieces.
 1056_Rambo_00.45.25.979-00.45.28.657 	a man has his head partially blown away.
+1056_Rambo_01.16.40.000-01.16.44.441 	the commander blows out his cheeks and looks up at the big man.
+1058_The_Damned_united_00.15.43.751-00.15.52.999 	blowing dust off, he reverentially positions the bottle to the right of the glasses, then turns the label to face peter by the door.
 1062_Day_the_Earth_stood_still_00.18.10.744-00.18.12.662 	a child's buggy is blown away.
+1062_Day_the_Earth_stood_still_01.27.31.782-01.27.39.267 	wind blows the leaves as he approaches.
+2026_Legion_01.17.29.530-01.17.34.271 	blowing sandra's body back through the doorway.
 2027_Les_Miserables_00.01.04.669-00.01.09.477 	the storm is passing now, blown by the driving wind.
+2034_Super_8_01.27.41.254-01.27.48.542 	but as they get to the living room a huge explosion blows out a wall!
+2051_Harry_Potter_and_the_goblet_of_fire_01.56.33.430-01.56.47.843 	a heavy wind starts blowing, walls are closing in, harry runs.
 2051_Harry_Potter_and_the_goblet_of_fire_01.58.47.546-01.59.00.723 	the wind starts blowing again.
+2054_Harry_Potter_and_the_prisoner_of_azkaban_00.52.33.377-00.52.36.333 	snape waves the moth away, blows out a candle and a slide show begins.

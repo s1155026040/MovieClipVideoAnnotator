@@ -3,33 +3,21 @@ ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS390 	00:54
 BRUNO.srt 	BRUNO_DVS230 	01:02:38,00 --> 01:02:45,50 	he seizes the camera.
 BURLESQUE.srt 	BURLESQUE_DVS119 	00:16:38,00 --> 00:16:44,50 	someone windmills a leg, then seizes a bracelet off of jesse.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS169 	00:36:06,00 --> 00:36:22,50 	outside, someone shifts on her feet, her face seizing with grief.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS27 	00:03:10,00 --> 00:03:32,50 	the soldier seizes it, then kicks off the bottom and shoots back to the surface.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS748 	01:38:17,00 --> 01:38:22,50 	his face seizes.
-DISTRICT_9.srt 	DISTRICT_9_DVS338 	00:37:20,00 --> 00:37:27,50 	in the exam area, they seize a struggling someone.
 DISTRICT_9.srt 	DISTRICT_9_DVS518 	01:00:25,00 --> 01:00:42,50 	twisting around, he seizes back.
 DISTRICT_9.srt 	DISTRICT_9_DVS608 	01:11:25,00 --> 01:11:33,50 	in the bio lab, someone peers into a windowed case and seize the canister.
 EASY_A.srt 	EASY_A_DVS172 	00:55:20,00 --> 00:55:25,50 	someone seizes her in another hug.
-GET_HIM_TO_THE_GREEK.srt 	GET_HIM_TO_THE_GREEK_DVS152 	01:26:24,00 --> 01:26:29,50 	someone angrily seizes someone and kisses him.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS422 	01:00:54,00 --> 01:00:59,50 	a monk seizes his arm.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS549 	01:18:14,00 --> 01:18:23,50 	someone runs up to him, seizes him by the shoulders and spews a jet of fire at him.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS576 	01:23:07,00 --> 01:23:32,50 	he seizes someone by the head and brings his face close, his jaw opening wide.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS370 	01:26:23,00 --> 01:26:29,50 	someone seizes someone by the collar.
 IN_TIME.srt 	IN_TIME_DVS393 	00:41:13,00 --> 00:41:19,50 	someone and his blonde partner march forward and seize someone by the arms.
 KARATE_KID.srt 	KARATE_KID_DVS672 	00:57:17,00 --> 00:57:23,50 	someone plants someone's hand on his shoulder, then seizes it, and twists.
-KARATE_KID.srt 	KARATE_KID_DVS871 	01:11:48,00 --> 01:11:54,50 	someone seizes it and snatches it out of his hands.
 KARATE_KID.srt 	KARATE_KID_DVS879 	01:12:16,00 --> 01:12:21,50 	someone seizes it.
 KARATE_KID.srt 	KARATE_KID_DVS900 	01:13:22,00 --> 01:13:43,50 	someone seizes the stunned boy by the shoulders.
-KARATE_KID.srt 	KARATE_KID_DVS1337 	01:48:13,00 --> 01:48:19,50 	someone wraps his arms around his teacher's waist, seizing him in a hug.
-KARATE_KID.srt 	KARATE_KID_DVS1415 	01:54:14,00 --> 01:54:28,50 	the boy in gray kicks at him, and someone seizes his leg, flips him over his shoulder, and slams him onto the mat.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS28 	00:07:16,00 --> 00:07:25,50 	a hand seizes him.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS441 	01:31:50,00 --> 01:31:54,50 	she seizes a banister.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS286 	01:08:17,00 --> 01:08:22,50 	in a dove cote, a shaggy bird keeper, as they flutter away, he seizes one.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS493 	02:03:22,00 --> 02:03:26,50 	he seizes another in a choke hold
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1068 	01:12:09,00 --> 01:12:18,50 	as someone stares tensely, someone seizes the club owner's head and pulls him into a long, sensual kiss.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS453 	01:35:56,00 --> 01:36:04,50 	his face seizes and he crumples to his knees.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS480 	01:41:37,00 --> 01:41:43,50 	someone sprints around a corner and seizes him in a hug.
-UGLY_TRUTH.srt 	UGLY_TRUTH_DVS284 	00:28:33,00 --> 00:28:39,50 	the two women seize someone, yank him into the pool, and tear open his shirt.
-UGLY_TRUTH.srt 	UGLY_TRUTH_DVS458 	00:55:53,00 --> 00:55:58,50 	someone spots him and seizes it.
-UGLY_TRUTH.srt 	UGLY_TRUTH_DVS652 	01:30:34,00 --> 01:30:45,50 	flinging herself at him, someone seizes his face and plants a passionate kiss on his lips.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS200 	00:15:08,00 --> 00:15:13,50 	someone seizes him and leans over menacingly.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS479 	00:56:59,00 --> 00:57:04,50 	someone's face seizes tearfully

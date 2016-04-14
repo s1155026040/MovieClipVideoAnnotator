@@ -1,35 +1,38 @@
-0001_American_Beauty_00.57.04.544-00.57.05.405 	Lester pays her.
-0003_CASABLANCA_00.15.07.340-00.15.14.341 	He pays no attention to her.
-0003_CASABLANCA_01.33.14.264-01.33.16.104 	Laszlo pays the cab driver.
-0006_Clerks_01.01.57.641-01.02.02.104 	A customer pays for something while DANTE continues to talk.
-0007_DIE_NACHT_DES_JAEGERS_00.12.30.502-00.12.32.522 	As the verse ends we CUT TO: They look towards OUR CHILDREN; JOHN pays them no attention.
-0009_Forrest_Gump_01.27.45.765-01.27.49.567 	Forrest pays an old black shrimper a large wad of cash.
-0010_Frau_Ohne_Gewissen_00.10.39.112-00.10.42.351 	Phyllis rises and walks up and down, paying less and less attention.
-0011_Gandhi_00.02.39.702-00.02.41.358 	They descend and pay their driver absently, their eyes watching the crowd.
-0011_Gandhi_00.57.43.836-00.57.45.220 	And now they are beginning to pay attention on the floor of the hall too.
-0014_Ist_das_Leben_nicht_schoen_01.38.02.953-01.38.07.928 	George staggers off down the street, paying no attention to the man.
-0019_Pulp_Fiction_00.26.19.948-00.26.21.570 	He pays English Dave and walks out of the SHOT.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.58.01.736-02.58.06.192 	He clutches SAM'S shoulder as 4000 PEOPLE pay homage to the courage of two little Hobbits from the Shire.
-0026_The_Big_Fish_01.03.22.371-01.03.25.492 	Sandra isn't paying a lot of attention.
-0029_The_Graduate_00.26.14.707-00.26.15.296 	He smiles politely and they pay no attention to him at all.
-0029_The_Graduate_01.30.43.844-01.30.47.518 	He pays for it and exits PAST CAMERA, WHISTLING.
-0030_The_Hustler_00.46.20.791-00.46.37.179 	Eddie finishes his drink, rises, crosses to the bar, pays the bill, and returns to the booth.
-0030_The_Hustler_01.18.08.728-01.18.09.722 	Sensing what is about to happen, the young man pays up.
-0030_The_Hustler_01.32.34.729-01.32.37.807 	Eddie, having hurriedly paid the bill, follows after her.
-0031_The_Lost_Weekend_01.30.44.938-01.30.47.528 	Don has already reached the second floor and is hurrying down the stairs, the fur coat over his arm, not paying any attention to Helen.
-0051_Men_in_black_00.56.14.510-00.56.32.163 	Kay and Jay are not paying attention to Laurel.
+0001_American_Beauty_00.57.04.544-00.57.05.405 	lester pays her.
+0003_CASABLANCA_00.15.07.340-00.15.14.341 	he pays no attention to her.
+0003_CASABLANCA_01.33.14.264-01.33.16.104 	laszlo pays the cab driver.
+0006_Clerks_01.01.57.641-01.02.02.104 	a customer pays for something while dante continues to talk.
+0007_DIE_NACHT_DES_JAEGERS_00.12.30.502-00.12.32.522 	as the verse ends we cut to: they look towards our children; john pays them no attention.
+0009_Forrest_Gump_01.27.45.765-01.27.49.567 	forrest pays an old black shrimper a large wad of cash.
+0010_Frau_Ohne_Gewissen_00.10.39.112-00.10.42.351 	phyllis rises and walks up and down, paying less and less attention.
+0011_Gandhi_00.02.39.702-00.02.41.358 	they descend and pay their driver absently, their eyes watching the crowd.
+0011_Gandhi_00.57.43.836-00.57.45.220 	and now they are beginning to pay attention on the floor of the hall too.
+0014_Ist_das_Leben_nicht_schoen_01.38.02.953-01.38.07.928 	george staggers off down the street, paying no attention to the man.
+0019_Pulp_Fiction_00.26.19.948-00.26.21.570 	he pays english dave and walks out of the shot.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.58.01.736-02.58.06.192 	he clutches sam's shoulder as 4000 people pay homage to the courage of two little hobbits from the shire.
+0026_The_Big_Fish_01.03.22.371-01.03.25.492 	sandra isn't paying a lot of attention.
+0028_The_Crying_Game_00.46.43.458-00.46.45.783 	fergus reaches for his wallet to pay, but col interrupts.
+0029_The_Graduate_00.26.14.707-00.26.15.296 	he smiles politely and they pay no attention to him at all.
+0029_The_Graduate_01.30.43.844-01.30.47.518 	he pays for it and exits past camera, whistling.
+0030_The_Hustler_00.41.23.528-00.41.35.307 	she pays, collects her purse and book, and rises to leave.
+0030_The_Hustler_00.46.20.791-00.46.37.179 	eddie finishes his drink, rises, crosses to the bar, pays the bill, and returns to the booth.
+0030_The_Hustler_01.18.08.728-01.18.09.722 	sensing what is about to happen, the young man pays up.
+0030_The_Hustler_01.32.34.729-01.32.37.807 	eddie, having hurriedly paid the bill, follows after her.
+0031_The_Lost_Weekend_00.43.40.988-00.43.44.963 	paying no attention to the sound of steps which has been coming from the staircase, wick rises, puts the glass of whiskey on the table and is about to cross towards the telephone when the doorbell rings -- short, short, long, short.
+0031_The_Lost_Weekend_00.56.24.494-00.56.29.741 	at that moment the waiter returns, expecting to be paid.
+0031_The_Lost_Weekend_01.30.44.938-01.30.47.528 	don has already reached the second floor and is hurrying down the stairs, the fur coat over his arm, not paying any attention to helen.
+0051_Men_in_black_00.56.14.510-00.56.32.163 	kay and jay are not paying attention to laurel.
 1008_Spider-Man2_00.25.26.591-00.25.31.372 	as he stretches in to remove the laundry, he looks across at the only other person in the laundromat, who is paying him no attention.
+1015_27_Dresses_00.10.25.618-00.10.29.039 	she pays.
 1019_Confessions_Of_A_Shopaholic_00.07.17.392-00.07.22.972 	the man paying a hot dog pays for her hot dog with a $20 bill.
 1023_Horrible_Bosses_01.02.38.265-01.02.41.577 	seeing a light come on in harken's place, he shuts the player and pays attention.
 1024_Identity_Thief_00.28.28.581-00.28.34.227 	he pays the driver and eyes the house, then proceeds in a stealthy jog along the side.
 1024_Identity_Thief_00.35.12.720-00.35.15.329 	the prisoner pays the guard.
-1031_Quantum_of_Solace_00.26.23.487-00.26.26.148 	pay attention next time.
 1033_Sherlock_Holmes_A_Game_of_Shadows_00.26.16.758-00.26.20.425 	that is the price i must pay to change the course of history.
 1034_Super_8_00.35.54.483-00.36.04.658 	the sheriff pays for his petrol and the candy bar, then goes back outside.
 1035_The_Adjustment_Bureau_00.42.15.319-00.42.18.439 	charlie pays the check.
 1037_The_Curious_Case_Of_Benjamin_Button_01.44.48.061-01.44.52.208 	he pays the cab driver and goes into the theater.
-1038_The_Great_Gatsby_01.34.59.721-01.35.01.954 	nick and jordan pay close attention to their exchange.
+1040_The_Ugly_Truth_00.58.05.829-00.58.13.780 	as colin pays, joy mimes giving him a good seeing to, clenching her fists and thrusting her groin.
 1047_Defiance_01.28.14.555-01.28.16.215 	zus indicates gramov who doesn't appear to be paying attention.
-1056_Rambo_00.43.46.000-00.43.49.000 	the rest of the mercenaries pay the bomb little attention.
 1056_Rambo_00.43.46.000-00.43.49.000 	the rest of the mercenaries pay the bomb little attention.
 2034_Super_8_00.06.28.884-00.06.30.415 	jen, his smoking hot 17-year-old sister, angrily sets the table where his father pays bills.

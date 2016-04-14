@@ -1,22 +1,10 @@
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS486 	00:47:29,00 --> 00:47:33,50 	stifling a smirk, someone nods.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS1094 	01:44:19,00 --> 01:44:23,50 	someone stifles a smirk.
-GREEN_ZONE.srt 	GREEN_ZONE_DVS276 	01:04:01,00 --> 01:04:10,50 	facing someone earnestly, she starts to bite her lip then stifles the action.
 GROWN_UPS.srt 	GROWN_UPS_DVS136 	00:42:07,00 --> 00:42:16,50 	stifling a grin, someone exchanges a glance with someone.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS283 	01:18:56,00 --> 01:19:01,50 	she stifles her laughter in the crook of her arm.
-KARATE_KID.srt 	KARATE_KID_DVS103 	00:09:35,00 --> 00:09:41,50 	someone stifles an amused grin and picks up the jacket herself.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS369 	01:18:30,00 --> 01:18:38,50 	someone and someone stifle their grins as someone searches under the table.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS334 	00:22:46,00 --> 00:22:50,50 	she tries to stifle a chuckle.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS195 	00:37:30,00 --> 00:37:46,50 	she presses her lips together to stifle a smile, then shifts her gaze to someone who blinks awake and looks up at her.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS286 	00:53:26,00 --> 00:53:34,50 	someone winces, stifling tears, then stares off.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS334 	01:01:42,00 --> 01:01:48,50 	her red painted lips primly stifle an excited smile.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS781 	01:30:04,00 --> 01:30:10,50 	someone presses his lips together stifling a wretch.
-THE_VOW.srt 	THE_VOW_DVS261 	00:32:47,00 --> 00:32:53,50 	someone bites his lip and stifles a boyish smile.
-THE_VOW.srt 	THE_VOW_DVS704 	01:38:40,00 --> 01:38:46,50 	stifling a grin, he gives a satisfied nod.
-THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS20 	00:02:46,00 --> 00:02:52,50 	stifling a disappointed look, she holds them up and forces a grin.
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS277 	01:15:38,00 --> 01:15:42,50 	someone stifles a smile.
-THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS354 	01:27:35,00 --> 01:27:42,50 	now at the santa someone someone, someone stifles a smile as she strolls with someone.
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS457 	01:45:11,00 --> 01:45:16,50 	he frowns and someone stifles a smile.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS611 	01:07:07,00 --> 01:07:12,50 	someone nods, stifling an eager smile.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS641 	01:11:11,00 --> 01:11:15,50 	someone stifles tears.
-TRUE_GRIT.srt 	TRUE_GRIT_DVS260 	00:53:37,00 --> 00:53:45,50 	someone raises his hand to someone who puts someone's coat over the chimney top, stifling the smoke.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS447 	01:10:12,00 --> 01:10:17,50 	someone stifles a laugh.

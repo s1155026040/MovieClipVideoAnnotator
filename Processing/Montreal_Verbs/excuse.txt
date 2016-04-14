@@ -1,3 +1,2 @@
 FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS73 	00:18:20,00 --> 00:18:48,50 	excuse the expression.
 JACK_AND_JILL.srt 	JACK_AND_JILL_DVS141 	00:29:12,00 --> 00:29:17,50 	someone sheepishly excuses himself.
-SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS330 	01:07:40,00 --> 01:07:47,50 	she turns to find him walking away, then excuses herself from her friends.

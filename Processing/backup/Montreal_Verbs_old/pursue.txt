@@ -1,0 +1,11 @@
+CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS218 	00:38:50,00 --> 00:39:08,50 	pursuing agents shoot the gunman as someone's car speeds away.
+CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS514 	01:32:23,00 --> 01:32:44,50 	someone pushes a button and flames shoot out of his tailpipe, setting a pursuing trooper on fire.
+CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS275 	00:21:01,00 --> 00:21:08,50 	one surfer skirts just ahead of the white water which seems to pursue him.
+CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS284 	00:21:42,00 --> 00:21:49,50 	he skirts the ends of the pursuing white water, staying up as the wave diminishes.
+IN_TIME.srt 	IN_TIME_DVS84 	00:09:26,00 --> 00:09:32,50 	the car pursues someone and the stranger down a deserted street.
+IN_TIME.srt 	IN_TIME_DVS428 	00:45:59,00 --> 00:46:05,50 	one of the pursuing cars moves to the front and tails them aggressively.
+JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS268 	00:52:02,00 --> 00:52:09,50 	someone pursues him to the couch.
+PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS265 	01:08:22,00 --> 01:08:32,50 	it turns to pursue her and she darts away.
+SALT.srt 	SALT_DVS198 	00:33:46,00 --> 00:33:51,50 	now draws his gun and pursues someone on foot.
+SALT.srt 	SALT_DVS217 	00:37:04,00 --> 00:37:11,50 	spies the pursuing suv then runs off between two lanes of unmoving cars.
+ZOMBIELAND.srt 	ZOMBIELAND_DVS52 	00:04:24,00 --> 00:04:29,50 	a man engulfed in flames pursues a firefighter.

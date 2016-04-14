@@ -1,0 +1,3 @@
+CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS514 	01:32:23,00 --> 01:32:44,50 	a pair of additional troopers merge onto the road in front of someone.
+FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS367 	01:37:05,00 --> 01:37:12,50 	now traffic comes to a standstill where seven lanes merge into two.
+SALT.srt 	SALT_DVS106 	00:20:51,00 --> 00:21:03,50 	now more panels merge close, cutting someone off.

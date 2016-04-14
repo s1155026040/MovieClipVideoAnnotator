@@ -1,31 +1,16 @@
-21_JUMP_STREET.srt 	21_JUMP_STREET_DVS79 	00:08:54,00 --> 00:09:00,50 	someone fires his gun skyward and the families flee.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS277 	00:39:39,00 --> 00:39:51,50 	he flees among his frightened horses.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS387 	00:54:10,00 --> 00:54:22,50 	someone kicks open the door and races in as a few survivors flee.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS328 	00:55:03,00 --> 00:55:07,50 	the students flee.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS589 	01:32:54,00 --> 01:32:59,50 	as someone notices, the criminals flee.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS211 	00:38:08,00 --> 00:38:24,50 	as someone flees the room, he shoots an mp.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS343 	01:03:44,00 --> 01:03:51,50 	someone turns and flees in the opposite direction.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS532 	01:35:12,00 --> 01:35:27,50 	sliding in on the cables, falsworth, dugan, and someone burst through window and fire weapons while someone flees down a long corridor.
-CHRONICLE.srt 	CHRONICLE_DVS511 	01:13:05,00 --> 01:13:16,50 	now, as panicked bystanders flee, a camera tries to follow the movements of a body as it smashes through a billboard, then bounces between two buildings.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS339 	01:25:33,00 --> 01:25:39,50 	later in the dark, men flee past someone.
 DISTRICT_9.srt 	DISTRICT_9_DVS588 	01:09:15,00 --> 01:09:31,50 	inside, office workers flee their desks.
 DISTRICT_9.srt 	DISTRICT_9_DVS590 	01:09:34,00 --> 01:09:40,50 	to a stairwell and face panicked office workers fleeing downstairs.
 HUGO.srt 	HUGO_DVS284 	00:41:08,00 --> 00:41:13,50 	someone and someone flee up a sidewalk.
 HUGO.srt 	HUGO_DVS574 	01:24:04,00 --> 01:24:12,50 	people flee as the locomotive plows through luggage and benches.
-HUGO.srt 	HUGO_DVS637 	01:32:12,00 --> 01:32:24,50 	on screen, the explorers flee as an alien with a man's body and a lizard's head chases them.
-IN_TIME.srt 	IN_TIME_DVS920 	01:37:11,00 --> 01:37:18,50 	meanwhile, someone and someone flee down a street, still holding hands.
-KARATE_KID.srt 	KARATE_KID_DVS1397 	01:52:31,00 --> 01:52:40,50 	someone flees off the mat and the official snaps his flag.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS435 	01:30:43,00 --> 01:30:47,50 	the others flee.
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS211 	00:52:02,00 --> 00:52:06,50 	he flees.
-PROMETHEUS.srt 	PROMETHEUS_DVS938 	01:43:31,00 --> 01:43:38,50 	someone glimpses the rising ship, then flees the shifting ground.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS892 	00:58:25,00 --> 00:58:33,50 	later, the butcher leads an ox-drawn cart down a narrow road packed with fleeing refugees.
-SUPER_8.srt 	SUPER_8_DVS107 	00:17:42,00 --> 00:17:48,50 	someone and brown-haired preston crawled under the platform as the other boys flee.
 SUPER_8.srt 	SUPER_8_DVS152 	00:24:07,00 --> 00:24:12,50 	the children flee as dr.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS69 	00:09:29,00 --> 00:09:43,50 	snowy lunges at the cat who flees through someone's apartment.
 THE_VOW.srt 	THE_VOW_DVS109 	00:11:37,00 --> 00:11:46,50 	the newlyweds share a quick kiss, then flee the museum gallery with their small group of friends.
-THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS229 	00:42:46,00 --> 00:42:53,50 	someone's poker buddies draw guns and fires as he flees.
-THOR.srt 	THOR_DVS178 	00:24:00,00 --> 00:24:07,50 	spinning like a whirlwind, someone continues to battle frost giants as his friends flee.
-THOR.srt 	THOR_DVS182 	00:24:15,00 --> 00:24:32,50 	a huge column of black rocks topples behind the others as they flee the beast, which burst through the barricade as if it were made of matchsticks.
 THOR.srt 	THOR_DVS631 	01:35:26,00 --> 01:35:34,50 	on jotunheim, frost giants flee as towering pinnacles of ice and stone crumble around them.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS404 	00:34:06,00 --> 00:34:16,50 	inside, someone and someone flee down a hallway as the chain slices through the walls.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS35 	00:03:23,00 --> 00:03:30,50 	a fleeing woman spills her strawberry milkshake high into the air.

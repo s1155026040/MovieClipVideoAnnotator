@@ -2,8 +2,4 @@ CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS62 	00:09:03,00 --> 00:09:08,50 	the doc
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS102 	00:17:06,00 --> 00:17:13,50 	someone returns rogers' enlistment form, now stamped 1a.
 COLOMBIANA.srt 	COLOMBIANA_DVS228 	00:19:32,00 --> 00:19:35,50 	now a man's hand stamps a passport.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS366 	01:09:44,00 --> 01:09:50,50 	stamped on the top,
-JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS424 	01:22:27,00 --> 01:22:38,50 	someone ink stamps the postcard, wish you were here, and addresses it.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS625 	01:57:18,00 --> 01:58:13,50 	someone's gaze roves down a line of mugshots showing makley, someone, someone, homer, someone, gil, and youngblood, all stamped with the word deceased.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS174 	00:25:29,00 --> 00:25:33,50 	which is stamped karaboudjan,
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1349 	02:25:05,00 --> 02:25:09,50 	he stamps it and hands it back.
-TRUE_GRIT.srt 	TRUE_GRIT_DVS419 	01:22:01,00 --> 01:22:09,50 	he draws a revolver and stamps a boot against her cheek.

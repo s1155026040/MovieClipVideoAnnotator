@@ -1,5 +1,1 @@
-21_JUMP_STREET.srt 	21_JUMP_STREET_DVS585 	01:31:27,00 --> 01:31:34,50 	as the bikers reload, someone opens fire.
 DISTRICT_9.srt 	DISTRICT_9_DVS693 	01:21:18,00 --> 01:21:40,50 	in the passenger's seat, someone reloads his handgun.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS243 	00:38:58,00 --> 00:39:03,50 	someone shoulders the reloaded launcher.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS516 	01:13:57,00 --> 01:14:02,50 	he reloads then runs up a staircase.
-ZOMBIELAND.srt 	ZOMBIELAND_DVS475 	00:55:33,00 --> 00:55:37,50 	someone stops to reload.

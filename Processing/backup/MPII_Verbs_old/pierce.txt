@@ -1,24 +1,17 @@
-0011_Gandhi_00.04.13.416-00.04.17.138 	We only hear a strange, rhythmic shuffling, pierced by an occasional wail of grief.
-0017_Pianist_00.25.40.241-00.25.42.050 	A piercing whistle from the Aryan side.
-0017_Pianist_00.41.49.130-00.41.58.908 	Sounds of shots, screams, shouts, a piercing whistle.
-0019_Pulp_Fiction_00.26.30.143-00.26.31.989 	Both of her ears are pierced five times.
-0020_Raising_Arizona_01.20.05.477-01.20.06.099 	It thunks into the plank, piercing it through.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.54.33.752-00.54.36.448 	The NAZGUL SWERVES AWAY from the LIGHT, as it pierces the LOW CLOUD!
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.59.57.272-02.00.03.128 	He pierces his right hand with the knife.
-1003_How_to_Lose_Friends_and_Alienate_People_00.45.00.567-00.45.05.965 	Slighted, Eleanor gives him a piercing look and stomps off.
+0011_Gandhi_00.04.13.416-00.04.17.138 	we only hear a strange, rhythmic shuffling, pierced by an occasional wail of grief.
+0019_Pulp_Fiction_00.26.30.143-00.26.31.989 	both of her ears are pierced five times.
+0020_Raising_Arizona_01.20.05.477-01.20.06.099 	it thunks into the plank, piercing it through.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.42.25.860-00.42.27.722 	shivering, rising swiftly to a piercing pitch beyond the range of hearing.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.54.33.752-00.54.36.448 	the nazgul swerves away from the light, as it pierces the low cloud!
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.34.38.185-01.34.49.379 	soldiers throw themselves down as the nazgul zoom overhead, emitting their piercing shrieks!
+1002_Harry_Potter_and_the_Half-Blood_Prince_01.59.57.272-02.00.03.128 	he pierces his right hand with the knife.
 1007_Spider-Man1_01.49.20.685-01.49.22.665 	the blades pierce through norman, pinning him to the wall.
 1008_Spider-Man2_01.55.44.098-01.55.52.433 	the points of the pincer pierces the cable, and an enormous surge of electricity shoots up the limb to octavius.
-1024_Identity_Thief_00.31.03.991-00.31.06.893 	diana pierces two of their tires with a knife and hurries into sandy's car.
-1030_Public_Enemies_00.10.20.942-00.10.25.024 	purvis' piercing stare remains fixed on the dying man.
 1030_Public_Enemies_02.06.19.662-02.06.27.709 	the bullet pierces the back of dillinger's skull and exits through his cheek, spewing blood and tissue.
-1044_Pride_And_Prejudice_Disk_Two_01.03.51.134-01.03.54.754 	he gives miss bingley a piercing stare and she looks away.
 1047_Defiance_01.23.52.316-01.23.54.067 	the truck's head lights pierce the bliss of the country road.
 1047_Defiance_02.03.27.253-02.03.32.720 	tuvia emerges from out of the hazy smoke, his piercing blue eyes darting from side to side.
 1048_Gran_Torino_00.01.36.182-00.01.40.068 	shley a pretty girl with red hair wears a short top exposing her pierced belly button.
-1049_Harry_Potter_and_the_chamber_of_secrets_02.15.37.815-02.15.39.046 	riddle recoils of light pierces the hole in his chest.
-2012_Unbreakable_00.24.56.253-00.24.58.123 	his intelligent piercing eyes take her in for a moment.
-2012_Unbreakable_00.27.10.586-00.27.12.922 	elijah's eyes pierce through the shaken man.
-2026_Legion_00.31.47.621-00.31.51.479 	charlie freezes a few feet from the car when she sees those piercing eyes already familiar to us.
+1052_Harry_Potter_and_the_order_of_phoenix_01.43.50.776-01.43.57.493 	pierced by arrows, gwarp drops umbridge.
 2012_Unbreakable_00.24.56.253-00.24.58.123 	his intelligent piercing eyes take her in for a moment.
 2012_Unbreakable_00.27.10.586-00.27.12.922 	elijah's eyes pierce through the shaken man.
 2026_Legion_00.31.47.621-00.31.51.479 	charlie freezes a few feet from the car when she sees those piercing eyes already familiar to us.

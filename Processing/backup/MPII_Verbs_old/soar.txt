@@ -1,8 +1,22 @@
-0001_American_Beauty_01.02.02.609-01.02.04.920 	We follow it as the wind carries it in a circle around us, sometimes whipping it about violently, or, without warning, sending it soaring skyward, then letting it float gracefully down to the ground.
-0001_American_Beauty_01.55.21.331-01.55.26.316 	The wind carries it in a circle around us, sometimes whipping it about violently, or, without warning, sending it soaring skyward, then letting it float gracefully down to the ground.
-0009_Forrest_Gump_02.15.03.035-02.15.23.009 	The feather soars up into the sky and travels up and down, then covers the camera lens.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.15.24.423-01.15.32.519 	Gwaihir the Eagle soars majestically over the mountains, carrying Gandalf towards the dawn.
-1002_Harry_Potter_and_the_Half-Blood_Prince_02.23.21.570-02.23.34.182 	They turn to watch as it soars gracefully around the tower.
+0001_American_Beauty_01.02.02.609-01.02.04.920 	we follow it as the wind carries it in a circle around us, sometimes whipping it about violently, or, without warning, sending it soaring skyward, then letting it float gracefully down to the ground.
+0001_American_Beauty_01.55.21.331-01.55.26.316 	the wind carries it in a circle around us, sometimes whipping it about violently, or, without warning, sending it soaring skyward, then letting it float gracefully down to the ground.
+0009_Forrest_Gump_02.15.03.035-02.15.23.009 	the feather soars up into the sky and travels up and down, then covers the camera lens.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.15.24.423-01.15.32.519 	gwaihir the eagle soars majestically over the mountains, carrying gandalf towards the dawn.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.53.31.106-02.53.35.500 	soaring up: to reveal the court of the kings, crowded with 4000 people.
+0049_Hannah_and_her_sisters_00.36.15.986-00.36.21.298 	the soprano is leaning on a wagon wheel; her voice soars.
+1002_Harry_Potter_and_the_Half-Blood_Prince_02.23.21.570-02.23.34.182 	they turn to watch as it soars gracefully around the tower.
+1008_Spider-Man2_00.05.16.195-00.05.23.011 	soaring his way through the skyscrapers, the costumed character is far above land.
+1008_Spider-Man2_01.33.40.009-01.33.44.896 	his arms and legs flailing, he soars through the air.
+1008_Spider-Man2_01.41.31.663-01.41.45.588 	spider-man swoops and soars once more through the streets of new york, making his way, speeding in a straight flying using the webs extending from his wrists as a means of propulsion to haul him along between the tall buildings.
+1008_Spider-Man2_02.10.18.095-02.10.22.074 	she sees spider-man swooping, swinging, diving and soaring his way across the city.
+1014_2012_00.46.33.732-00.46.37.211 	the limo soars over a gap.
+1041_This_is_40_01.58.48.626-01.58.53.872 	left onto a quiet side street, he soars down a winding hilly road.
+1043_Vantage_Point_00.37.30.988-00.37.33.603 	flames soar up from the podium.
+1046_Australia_00.03.40.000-00.03.52.133 	wearing only shorts, his long hair streaming out behind him, he rides through a dusty landscape of thinly spread out trees and soaring rocky crags.
+1046_Australia_00.56.56.459-00.57.02.000 	sarah gapes open-mouthed at the soaring crags.
+1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.18.29.558-00.18.34.057 	harry, hagrid, and the bike soar upwards beyond the clouds.
+1052_Harry_Potter_and_the_order_of_phoenix_00.09.32.347-00.09.39.422 	mrs. figg watches as they soar away high above privet drive.
+1052_Harry_Potter_and_the_order_of_phoenix_00.35.04.039-00.35.09.175 	the bird flies out of reach and soars around the classroom.
 1053_Harry_Potter_and_the_philosophers_stone_00.58.39.493-00.58.41.200 	afterwards it soars a high stone tower.
 1053_Harry_Potter_and_the_philosophers_stone_01.37.03.545-01.37.15.228 	harry watches, as it soars above his head, swooping around the courtyard, then up and over the grey stone tars of the school.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_00.36.25.473-00.36.33.969 	they sail between the towers and turrets of hogwarts school and soar above the craggy hillside.
@@ -12,3 +26,4 @@
 2040_The_Ugly_Truth_01.28.02.408-01.28.03.634 	realizing the balloon is now soaring upwards.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_00.58.30.306-00.58.34.178 	as she soars into the sky, harry and lupin watch from the lake's edge.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_01.34.15.354-01.34.17.761 	snape soars into the air, hits the wall with a thud, and slides down.
+2054_Harry_Potter_and_the_prisoner_of_azkaban_02.02.31.446-02.02.39.102 	harry and hermione plunge into frame astride buckbeak, soaring toward the castle.

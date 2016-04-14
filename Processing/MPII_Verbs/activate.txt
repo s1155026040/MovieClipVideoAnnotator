@@ -1,7 +1,2 @@
-0050_Indiana_Jones_and_the_last_crusade_01.01.38.362-01.01.40.524 	they activate the lever and begin to rotate through the secret door.
 1031_Quantum_of_Solace_00.26.13.457-00.26.18.210 	bond activates the tracking function on his phone.
-1043_Vantage_Point_00.57.50.094-00.57.55.134 	he uses a touchscreen pda to activate the fan in the window overlooking the plaza.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.15.22.734-00.15.26.730 	an alarm is activated.
 1062_Day_the_Earth_stood_still_00.38.21.442-00.38.24.570 	the operator activates the polygraph.
-1062_Day_the_Earth_stood_still_01.04.37.000-01.04.41.793 	he touches a hand to the police cruiser, activating all its systems.
-2017_Bad_Santa_00.15.45.573-00.15.57.355 	as she exits, he activates the machine.

@@ -1,5 +1,1 @@
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS42 	00:03:19,00 --> 00:03:29,50 	the motorcycle whizzes through an empty parking structure.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS560 	00:53:59,00 --> 00:54:05,50 	they run across an empty street, as a police cruiser whizzes by.
-EASY_A.srt 	EASY_A_DVS147 	00:45:47,00 --> 00:45:53,50 	our view whizzes to the bleachers, where another girl chats with a couple.
-EASY_A.srt 	EASY_A_DVS148 	00:45:52,00 --> 00:46:08,50 	we whiz back through the locker room, to the lap pool, where someone stands uncomfortably.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS345 	01:04:08,00 --> 01:04:31,50 	the bounty hunter frantically dodges golf balls as they whiz toward him.

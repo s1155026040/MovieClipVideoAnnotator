@@ -1,4 +1,2 @@
-DEAR_JOHN.srt 	DEAR_JOHN_DVS145 	00:23:21,00 --> 00:23:34,50 	she swats her hand in front of him, as he hammers it in place.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS231 	00:53:51,00 --> 00:53:55,50 	someone hammering out.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS397 	01:37:45,00 --> 01:37:53,50 	with the pummel, he hammers four corners of a stone step set on the octagonal base of the monument.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS598 	01:28:40,00 --> 01:28:47,50 	now, the typewriter hammers out a string of letters on a new page.

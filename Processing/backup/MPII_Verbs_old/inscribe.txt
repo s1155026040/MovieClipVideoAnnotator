@@ -1,5 +1,5 @@
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.17.08.295-01.17.13.511 	Frodo is turning the neatly inscribed title page of a red leather bound journal.
-0050_Indiana_Jones_and_the_last_crusade_00.17.51.314-00.17.55.448 	He throws back the cloth revealing a flat STONE TABLET -- about two feet square, inscribed with letters and symbols.
-0050_Indiana_Jones_and_the_last_crusade_01.47.19.310-01.47.25.386 	Indy looks around and then he notices that inscribed into the rock above his head is the head of a lion.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.17.08.295-01.17.13.511 	frodo is turning the neatly inscribed title page of a red leather bound journal.
+0050_Indiana_Jones_and_the_last_crusade_00.17.51.314-00.17.55.448 	he throws back the cloth revealing a flat stone tablet -- about two feet square, inscribed with letters and symbols.
+0050_Indiana_Jones_and_the_last_crusade_01.47.19.310-01.47.25.386 	indy looks around and then he notices that inscribed into the rock above his head is the head of a lion.
 1056_Rambo_00.52.19.737-00.52.21.573 	a figure is inscribing a tattoo on anther's back with black ink.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.26.37.027-01.26.42.582 	on one surface, a circle is inscribed inside a triangle down the middle of which, one is a line.

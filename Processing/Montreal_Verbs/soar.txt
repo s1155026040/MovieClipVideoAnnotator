@@ -1,42 +1,25 @@
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS247 	00:20:39,00 --> 00:20:44,50 	a drone soars through the sky.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS265 	00:23:00,00 --> 00:23:08,50 	as the truck follows, it clips the sedan and sends it soaring off the ramp onto the street below.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS280 	00:24:04,00 --> 00:24:14,50 	someone pulls the emergency brake and as he spins, the rocket soars over his flatbed and strikes a garbage truck.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS307 	00:26:58,00 --> 00:27:07,50 	he quickly soars on to another highway, as the armored truck closes in.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS325 	00:28:51,00 --> 00:28:57,50 	the bearded driver screams as they soar off an overpass.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS298 	00:57:02,00 --> 00:57:19,50 	the airplane banks sharply and soars out of the area.
 COLOMBIANA.srt 	COLOMBIANA_DVS170 	00:15:04,00 --> 00:15:09,50 	now our view soars over the city.
 COLOMBIANA.srt 	COLOMBIANA_DVS511 	00:46:34,00 --> 00:46:39,50 	in chicago, our view soars over skyscrapers.
 COLOMBIANA.srt 	COLOMBIANA_DVS673 	01:03:41,00 --> 01:03:47,50 	now a plane soars overhead.
-COLOMBIANA.srt 	COLOMBIANA_DVS773 	01:15:08,00 --> 01:15:15,50 	in chicago, we soar through the tall buildings, skimming a white steeple set with a gold cross.
 COLOMBIANA.srt 	COLOMBIANA_DVS938 	01:30:43,00 --> 01:30:50,50 	now beneath a hazy sky, we soar over chicago's skyscrapers.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS453 	01:06:04,00 --> 01:06:13,50 	now we soar over the ruins of the demolished structure overgrown with weeds.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS74 	00:18:34,00 --> 00:18:47,50 	now we soar over the city's crowded buildings to an area lush with vegetation.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS658 	01:50:11,00 --> 01:50:19,50 	someone soars over and hits the back of someone's helmet, freeing someone.
 JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS130 	00:46:57,00 --> 00:47:03,50 	now a hawaiian airliner soars over turquoise water.
-KARATE_KID.srt 	KARATE_KID_DVS914 	01:14:32,00 --> 01:14:48,50 	now, we soar over an emerald-hued mountain range with conical peaks, drifting over a ridge, we spy a train winding its way alongside a tranquil muddy river.
 KARATE_KID.srt 	KARATE_KID_DVS1284 	01:43:46,00 --> 01:43:54,50 	now, an aerial view soars over the great wall winding along a lush mountain ridge.
 KATY_PERRY_PART_OF_ME.srt 	KATY_PERRY_PART_OF_ME_DVS222 	00:55:39,00 --> 00:55:44,50 	the three young women soar back toward the ground.
-MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS164 	00:23:41,00 --> 00:23:48,50 	it examines its flippers, then flaps them as it watches a soaring eagle on the nature show.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS643 	01:18:12,00 --> 01:18:18,50 	kite on her back spreads like wings and she soars into the air.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS645 	01:18:25,00 --> 01:18:33,50 	as she soars over someone, he readies his catch-pole.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS165 	00:37:17,00 --> 00:37:24,50 	he soars into the barn.
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS308 	01:12:30,00 --> 01:12:41,50 	now we soar along a sunny coastline.
-PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS244 	01:05:09,00 --> 01:05:16,50 	he flails his limbs, struggling for control as he soars at the statue.
 PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS405 	01:37:57,00 --> 01:38:04,50 	he soars back toward the empire state building his shoes' wings beating furiously.
 PROMETHEUS.srt 	PROMETHEUS_DVS259 	00:24:47,00 --> 00:24:53,50 	now, we soar through a barren, unforgiving mountain range.
-PROMETHEUS.srt 	PROMETHEUS_DVS613 	01:07:35,00 --> 01:07:40,50 	it rises and the probe soars through.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS467 	01:55:37,00 --> 01:55:43,50 	now, we soar over hills blanketed with emerald green
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS500 	02:05:33,00 --> 02:05:37,50 	the arrow soars free.
-SALT.srt 	SALT_DVS58 	00:11:19,00 --> 00:11:29,50 	an image of flowers lying on a tiny grave dissolves into a helicopter soaring over a dreary river dotted with eyelets.
-SALT.srt 	SALT_DVS179 	00:30:51,00 --> 00:31:05,50 	staring at the dog, she remembers a butterfly soaring over someone's head in a pavilion filled with lush vegetation.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS581 	01:19:51,00 --> 01:19:56,50 	it soars to the balcony and lands on someone's arm.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS96 	00:17:59,00 --> 00:18:11,50 	now a plane soars into the sky.
-THE_WATCH.srt 	THE_WATCH_DVS537 	01:32:51,00 --> 01:32:58,50 	boxes spilling out foil-wrapped magnum condoms soar amid the rising smoke.
-TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS297 	00:35:56,00 --> 00:36:08,50 	as the tabby stalks closer, someone rides the skateboard up the half pipe and soars into the air.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS129 	00:08:25,00 --> 00:08:32,50 	the tables soar through the air and the medical instruments rip free from their posts.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS548 	00:51:23,00 --> 00:51:32,50 	she spits a ball of fire, which soars out through the shattered window, and ignites the head of a statue in the courtyard.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS658 	01:00:16,00 --> 01:00:24,50 	warheads soar around a globe, launching from the united states and landing in russia.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1056 	01:35:21,00 --> 01:35:31,50 	it soars low over the american fleet.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1064 	01:36:03,00 --> 01:36:09,50 	the jet soars over the opposing fleets.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1096 	01:39:13,00 --> 01:39:22,50 	someone jumps out of the jet, opens the winged arms of his suit, then soars off his sound waves high into the air.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1285 	01:55:52,00 --> 01:56:00,50 	the rockets soar toward the american and russian fleets.

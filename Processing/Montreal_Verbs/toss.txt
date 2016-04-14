@@ -2,9 +2,7 @@
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS493 	01:18:47,00 --> 01:18:52,50 	someone tosses her cell on a dresser ignoring the call.
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS501 	01:19:10,00 --> 01:19:17,50 	he tosses in a final bag as he ex-partner meets him by the car.
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS542 	01:23:47,00 --> 01:23:55,50 	as the teen strides past two valets, someone tosses the box in the air.
-30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS21 	00:03:50,00 --> 00:03:59,50 	that night sitting on a stoop, the shaggy-haired young man opens a bottle of beer, tosses the cap and takes a sip.
 30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS147 	00:38:45,00 --> 00:38:49,50 	he tosses someone a ski mask.
-30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS185 	00:48:08,00 --> 00:48:14,50 	someone gives two sacks to someone, who tosses one to someone.
 30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS329 	01:14:23,00 --> 01:14:28,50 	he tosses the bag over.
 40_YEAR_OLD_VIRGIN.srt 	40_YEAR_OLD_VIRGIN_DVS97 	00:51:05,00 --> 00:51:15,50 	someone tosses his drink over his shoulder and hurls away a cigarette.
 40_YEAR_OLD_VIRGIN.srt 	40_YEAR_OLD_VIRGIN_DVS125 	01:05:46,00 --> 01:05:50,50 	he tosses the broken condom.
@@ -15,81 +13,54 @@ A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS694 	01:11:18,00 --> 01:11
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS800 	01:20:19,00 --> 01:20:27,50 	emptying his clip, someone tosses his rifle aside.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS808 	01:20:44,00 --> 01:20:50,50 	as the bald thug fires, someone tosses a grenade to his dad.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS198 	00:27:02,00 --> 00:27:06,50 	he tosses someone a parcel.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS451 	01:04:31,00 --> 01:04:38,50 	someone gazes after him lovingly as someone tosses down a paper.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS608 	01:24:36,00 --> 01:25:32,50 	he tosses the ax back to someone who chops into another.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS621 	01:27:25,00 --> 01:27:35,50 	he tosses the rock and crosses to another crate.
 BAD_TEACHER.srt 	BAD_TEACHER_DVS247 	01:07:32,00 --> 01:07:47,50 	in the hotel someone tosses someone's cell down.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS103 	00:14:57,00 --> 00:15:01,50 	someone tosses his gun.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS140 	00:21:16,00 --> 00:21:21,50 	someone tosses someone his duffel bag.
-BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS380 	01:00:51,00 --> 01:00:58,50 	someone tosses out her ice cream dish, then browses the sunglasses stand.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS632 	01:37:36,00 --> 01:37:42,50 	someone tosses him the drive.
 BLINDDATING.srt 	BLINDDATING_DVS29 	00:08:28,00 --> 00:08:32,50 	one of the guys tosses it over.
 BRUNO.srt 	BRUNO_DVS110 	00:24:01,00 --> 00:24:05,50 	ron someone tosses a nespaper.
-BURLESQUE.srt 	BURLESQUE_DVS48 	00:04:50,00 --> 00:04:56,50 	at her open window, she tosses the scraps and watches them flutter downward.
 BURLESQUE.srt 	BURLESQUE_DVS318 	00:43:57,00 --> 00:44:02,50 	someone tosses her paper plane at him.
 BURLESQUE.srt 	BURLESQUE_DVS335 	00:45:54,00 --> 00:46:01,50 	someone tosses someone a costume.
 BURLESQUE.srt 	BURLESQUE_DVS390 	00:54:10,00 --> 00:54:20,50 	she tosses her head and shoulders back with each beat, then wiggles her hips at the crowd.
 BURLESQUE.srt 	BURLESQUE_DVS549 	01:19:34,00 --> 01:19:43,50 	as someone backs out of her spot, her old mentor tosses her keys down onto her car's trunk.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS67 	00:09:55,00 --> 00:10:05,50 	someone holds up a trash can lid like a shield, but the large man tosses it aside and punches someone in the face.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS239 	00:41:34,00 --> 00:41:41,50 	someone tosses the boy into the river and flees.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS243 	00:42:18,00 --> 00:42:26,50 	as water rushes in, someone rips off the canopy, yanks out someone, and tosses him onto the shore.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS366 	01:06:47,00 --> 01:07:00,50 	someone tosses the mask into the flames below.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS453 	01:21:02,00 --> 01:21:14,50 	a squad member tosses someone a bomb which he throws into the tank.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS523 	01:33:32,00 --> 01:33:40,50 	someone tosses another soldier into the air, then catches his shield as it boomerangs back to him.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS532 	01:35:12,00 --> 01:35:27,50 	falsworth tosses someone his shield.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS405 	00:38:01,00 --> 00:38:07,50 	someone grabs the cupcake from him, eyes it, then tosses it in the back.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS406 	00:38:08,00 --> 00:38:12,50 	he tosses down a sandwich.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS450 	00:43:46,00 --> 00:43:53,50 	as someone takes off across the pool, someone rips off his wet shirt and tosses it aside.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS543 	00:52:53,00 --> 00:52:57,50 	he tosses blond the keys.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS556 	00:53:36,00 --> 00:53:41,50 	she tosses her purse and keys down then removes her coat.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS735 	01:13:14,00 --> 01:13:19,50 	someone tosses the notebook over and it lands in the dirt.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS751 	01:14:16,00 --> 01:14:20,50 	he tosses down the envelope.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS1154 	01:49:34,00 --> 01:49:40,50 	dozens of surfers around them toss up water.
 CHRONICLE.srt 	CHRONICLE_DVS310 	00:46:43,00 --> 00:46:49,50 	someone tosses two balls from one hand.
 CHRONICLE.srt 	CHRONICLE_DVS312 	00:46:47,00 --> 00:46:58,50 	next, he simultaneously tosses a ball from his left hand and his right.
 CHRONICLE.srt 	CHRONICLE_DVS375 	00:57:23,00 --> 00:57:28,50 	someone tosses the teeth into the toilet.
-COLOMBIANA.srt 	COLOMBIANA_DVS986 	01:34:28,00 --> 01:34:34,50 	the gunman tosses it over and someone pulls its pin.
 COLOMBIANA.srt 	COLOMBIANA_DVS1020 	01:36:45,00 --> 01:36:51,50 	he checks the chamber in his pistol then tosses the weapon on the floor.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS178 	00:28:51,00 --> 00:28:55,50 	someone tosses him a can.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS289 	00:45:05,00 --> 00:45:11,50 	he tosses the carton back inside and shuts the door.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS467 	01:08:18,00 --> 01:08:27,50 	someone tosses a stack of letters onto the fire.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS468 	01:08:26,00 --> 01:08:35,50 	clenching his jaw, someone shakes his head, as he continues to toss letters into the flames.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS583 	01:22:04,00 --> 01:22:10,50 	cloudy rain sheets down, as the waves buck and toss beneath him.
 DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS318 	01:17:57,00 --> 01:18:02,50 	then tosses it in the bin.
-DISTRICT_9.srt 	DISTRICT_9_DVS168 	00:19:39,00 --> 00:19:48,50 	wearing a vest, searches through a trash pile, tossing aside unwanted items.
 DISTRICT_9.srt 	DISTRICT_9_DVS516 	01:00:06,00 --> 01:00:14,50 	the image dissolves to night time, where an alien tosses a blanket onto a bonfire.
-DISTRICT_9.srt 	DISTRICT_9_DVS748 	01:28:32,00 --> 01:28:40,50 	a mercenary pulls the pin from a smoke grenade and tosses it.
-FLIGHT.srt 	FLIGHT_DVS75 	00:15:28,00 --> 00:15:34,50 	he tosses three miniature bottles as he grabs the spiked orange juice.
 FLIGHT.srt 	FLIGHT_DVS184 	00:40:04,00 --> 00:40:08,50 	someone tosses her pack.
-FLIGHT.srt 	FLIGHT_DVS226 	00:49:13,00 --> 00:49:18,50 	he continues his chore with determination, as he moves from cabinet to cabinet, removing and tossing bottles and cans.
-FLIGHT.srt 	FLIGHT_DVS239 	00:50:21,00 --> 00:50:28,50 	he pulls out a bottle of liquor from a bowling bag, and tosses it aside.
-FLIGHT.srt 	FLIGHT_DVS1228 	02:09:42,00 --> 02:09:48,50 	someone closes a bound book, and tosses his glasses on it.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS307 	00:46:41,00 --> 00:46:50,50 	he tosses it aside to expose someone who now has straight shoulder-length platinum hair and ashen skin.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS309 	00:47:05,00 --> 00:47:10,50 	someone tosses him a smoldering piece of wood.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS513 	01:13:51,00 --> 01:13:57,50 	he tosses the bottle and shoots them both down.
-GREEN_ZONE.srt 	GREEN_ZONE_DVS233 	00:57:33,00 --> 00:57:42,50 	the guard removes the man's hood and tosses it on the table then posts himself in the corner of the room.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS440 	01:36:48,00 --> 01:37:08,50 	he gently tosses his weapon away.
-GREEN_ZONE.srt 	GREEN_ZONE_DVS446 	01:37:45,00 --> 01:37:54,50 	he looks back down at the fallen general then tosses his weapon aside.
 GROWN_UPS.srt 	GROWN_UPS_DVS74 	00:22:04,00 --> 00:22:08,50 	he tosses a limp
-GROWN_UPS.srt 	GROWN_UPS_DVS134 	00:41:55,00 --> 00:42:00,50 	he takes a handful of ashes and tosses them.
 HUGO.srt 	HUGO_DVS82 	00:10:38,00 --> 00:10:42,50 	then tosses it aside.
 HUGO.srt 	HUGO_DVS119 	00:15:38,00 --> 00:15:43,50 	someone tosses a pebble at the girl's window.
 HUGO.srt 	HUGO_DVS262 	00:37:57,00 --> 00:38:03,50 	the boy struggles but they toss him into the wagon with a group of other orphans.
 IN_TIME.srt 	IN_TIME_DVS316 	00:32:49,00 --> 00:32:55,50 	he meets someone's gaze and tossed down his pair of queens.
 IN_TIME.srt 	IN_TIME_DVS489 	00:53:10,00 --> 00:53:14,50 	she tosses them under the gate.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS41 	00:11:01,00 --> 00:11:09,50 	panama hat, he tosses his jacket into an unmarked car.
-INSIDE_MAN.srt 	INSIDE_MAN_DVS62 	00:16:58,00 --> 00:17:12,50 	he tosses the phone aside, then reaches back into the sack.
-INSIDE_MAN.srt 	INSIDE_MAN_DVS82 	00:20:28,00 --> 00:20:40,50 	the criminals reach into their boxes and toss identical plastic wrapped garments to each of the men and women.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS200 	00:57:16,00 --> 00:57:43,50 	he tosses the bag to berk.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS293 	01:29:41,00 --> 01:29:45,50 	the police officer tosses a smoke bomb.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS192 	00:35:29,00 --> 00:35:38,50 	pepper tosses the red case onto the ground.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS305 	00:56:15,00 --> 00:56:22,50 	she tosses the watermelon into the air.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS399 	01:14:51,00 --> 01:15:05,50 	he tosses the notebook aside, leans forward, and rubs his eyes.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS595 	01:42:32,00 --> 01:42:46,50 	in the hallway, someone tosses two gas pellets at a sixth and seventh guard.
-ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS25 	00:06:56,00 --> 00:07:28,50 	she unwraps a white shawl from her shoulders, tosses it on to a dining room chair, and removes an earring.
-ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS362 	01:41:43,00 --> 01:41:56,50 	later, a duffle bag gets tossed on the backseat of a car.
 JACK_AND_JILL.srt 	JACK_AND_JILL_DVS235 	00:47:26,00 --> 00:47:30,50 	he tosses someone the ball.
-JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS51 	00:14:33,00 --> 00:14:39,50 	someone tosses her hair and smiles vapidly.
 JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS192 	01:08:42,00 --> 01:08:50,50 	someone tosses him into the pool.
 JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS200 	01:11:12,00 --> 01:11:21,50 	someone tosses someone from his arms, and the little boy flails and kicks his way across the pool.
 JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS212 	01:14:23,00 --> 01:14:30,50 	someone tosses an apple between his hands.
@@ -101,99 +72,62 @@ KARATE_KID.srt 	KARATE_KID_DVS1091 	01:30:18,00 --> 01:30:34,50 	someone swirls 
 LARRY_CROWNE.srt 	LARRY_CROWNE_DVS96 	00:23:34,00 --> 00:23:39,50 	she tosses its casing to.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS67 	00:05:25,00 --> 00:05:30,50 	he tosses the little boy into the water.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS410 	00:47:57,00 --> 00:48:03,50 	pulls out a stray banana and tosses it to orange juice.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS450 	00:51:24,00 --> 00:51:33,50 	he takes one out and tosses it to orange juice.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS771 	01:19:11,00 --> 01:19:18,50 	someone taps the port side bench and tosses a piece of fish in the exact spot.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS775 	01:19:30,00 --> 01:19:36,50 	he taps the starboard side and tosses a piece of fish.
 MORNING_GLORY.srt 	MORNING_GLORY_DVS141 	00:33:12,00 --> 00:33:17,50 	someone tosses a card aside.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS32 	00:04:37,00 --> 00:04:42,50 	someone tosses scraps of newspaper.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS145 	00:21:34,00 --> 00:21:39,50 	he tosses it onto the path of water.
-MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS150 	00:22:00,00 --> 00:22:06,50 	he pulls up security footage of someone tossing the penguin down the hallway.
-MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS243 	00:35:18,00 --> 00:35:24,50 	he tosses it back, then joins someone.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS330 	00:42:11,00 --> 00:42:19,50 	he tosses the bottle in a trash can.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS49 	00:11:49,00 --> 00:11:54,50 	someone eats the last bite and tosses the wrapper at him.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS351 	01:16:22,00 --> 01:16:26,50 	just through a drawer, tossing items
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS407 	01:25:14,00 --> 01:25:21,50 	she tosses it.
 NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS220 	00:37:20,00 --> 00:37:24,50 	someone tosses the salad.
-PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS91 	00:24:36,00 --> 00:24:42,50 	pulling them from a toaster oven, someone tosses them to someone.
 PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS417 	01:39:20,00 --> 01:39:39,50 	the maelstrom tosses someone about like a toy and the bolt wrenches from his grasp.
-PROMETHEUS.srt 	PROMETHEUS_DVS468 	00:49:26,00 --> 00:49:31,50 	he removes gloves and tosses them into a bin.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS70 	00:11:57,00 --> 00:12:08,50 	as he crosses to the house, someone tosses a set of keys to someone who joins someone to see the new car.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS334 	01:03:41,00 --> 01:04:03,50 	he puts them on and tosses a jacket to the other inmate who grabs a hat from the rack as he ushers the deputy out behind someone.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS371 	01:10:28,00 --> 01:10:34,50 	someone tosses the blonde man away.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS394 	01:16:02,00 --> 01:16:08,50 	someone tosses a bag to someone.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS410 	01:19:16,00 --> 01:19:28,50 	baby face picks up two cash bundles and tosses one to someone.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS480 	01:30:57,00 --> 01:31:10,50 	baby face tosses someone's someone gun onto the front seat and gets behind the wheel.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS206 	00:49:54,00 --> 00:50:09,50 	he tosses it in the air as he turns to his bald friend.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS278 	01:06:23,00 --> 01:06:47,50 	curtains separate it from a sitting area in front of a fireplace where someone tosses bedding to the floor and eyes the archer haughtily.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS315 	01:16:08,00 --> 01:16:27,50 	in slow motion, someone marches down a row of furrowed soil, tossing seed by the handful from a sack slung over his shoulder.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS370 	01:32:15,00 --> 01:32:19,50 	he tosses him in the air.
-RUBY_SPARKS.srt 	RUBY_SPARKS_DVS63 	00:10:18,00 --> 00:10:24,50 	he enters a darkened living room and tosses a pillow on a sofa.
-SALT.srt 	SALT_DVS140 	00:25:20,00 --> 00:25:27,50 	a window shows someone tossing down his bulletproof vest as he returns.
 SALT.srt 	SALT_DVS148 	00:26:13,00 --> 00:26:25,50 	she tosses the sim card on the floor.
 SALT.srt 	SALT_DVS294 	00:51:25,00 --> 00:51:45,50 	she tosses it upward and it magnetically adheres to a chandelier's base on the ceiling.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS398 	00:26:34,00 --> 00:26:41,50 	sitting up next to his bride again, he tosses his braid over his shoulder and grabs her hand.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS822 	00:54:41,00 --> 00:54:47,50 	he tosses it onto the woman's table then marches off.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1045 	01:08:27,00 --> 01:08:32,50 	someone tosses her hair over her shoulders and tilts her head back.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS34 	00:06:25,00 --> 00:06:33,50 	she tosses it aside.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS79 	00:15:10,00 --> 00:15:16,50 	later, his roommate tosses him a gift.
-SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS155 	00:30:40,00 --> 00:30:44,50 	someone sees someone tossing the doll.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS211 	00:40:37,00 --> 00:40:42,50 	he tosses some to someone.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS451 	01:35:40,00 --> 01:35:47,50 	he staggers to his feet and tosses the someone to someone.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS183 	00:30:06,00 --> 00:30:11,50 	someone hands her the check and tosses her purse on the bed.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS393 	01:06:39,00 --> 01:06:46,50 	someone stomps to a waste basket in the foyer and tosses it in.
-SPARKLE_2012.srt 	SPARKLE_2012_DVS427 	01:10:57,00 --> 01:11:03,50 	pulling her fur stole around her, and tossing her cigarette butt.
 SUPER_8.srt 	SUPER_8_DVS285 	00:51:15,00 --> 00:51:25,50 	someone places someone in his cruiser's backseat and tosses the camera onto the front seat.
 SUPER_8.srt 	SUPER_8_DVS452 	01:20:13,00 --> 01:20:20,50 	the boys and soldiers toss violently, with a flat tire the bus slows as the driver brakes.
-SUPER_8.srt 	SUPER_8_DVS492 	01:24:14,00 --> 01:24:20,50 	someone tosses the gun aside and smiles briefly as the creature pauses.
 SUPER_8.srt 	SUPER_8_DVS532 	01:29:17,00 --> 01:29:23,50 	someone lights one sparkler and tosses it into the hole.
-SUPER_8.srt 	SUPER_8_DVS580 	01:35:59,00 --> 01:36:06,50 	the creature appears behind someone, grabs him, and tosses him far away.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS197 	00:29:03,00 --> 00:29:10,50 	he swings the board like a lasso and tosses it at the open porthole above him, but misses.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS661 	01:29:27,00 --> 01:29:38,50 	someone rushes into the control cab, grabs someone and drags him across the floor and tosses him over the railing.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS29 	00:06:24,00 --> 00:06:30,50 	the blond tosses her cigarette through the fence.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS82 	00:16:17,00 --> 00:16:36,50 	chewing doritos, he tosses down the remote and wipes his mouth and hands on a pillow.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS508 	01:31:36,00 --> 01:31:42,50 	outside the restroom, someone tosses cash at some patrons.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS510 	01:31:53,00 --> 01:32:07,50 	as someone tosses bills to patrons and employees, the thugs try to grab the cash from their hands.
 THE_CALL.srt 	THE_CALL_DVS546 	00:42:04,00 --> 00:42:11,50 	ripping off his blood-stained shirt, he wipes blood from his undershirt and tosses it down.
-THE_CALL.srt 	THE_CALL_DVS878 	01:07:37,00 --> 01:07:45,50 	someone tosses off her headset and covers her eyes.
-THE_CALL.srt 	THE_CALL_DVS989 	01:15:56,00 --> 01:16:02,50 	he holds a torn shirt and cloth and tosses them down.
 THE_CALL.srt 	THE_CALL_DVS1034 	01:18:48,00 --> 01:18:54,50 	he tosses it aside.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS235 	00:36:21,00 --> 00:36:26,50 	someone tosses it down bitterly.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS686 	01:37:27,00 --> 01:37:33,50 	tossing the documents aside, he gives his cousins a resolute look.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS232 	00:27:41,00 --> 00:27:49,50 	the frustrated man looks at the book's cover then tosses it on a few others.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS755 	01:25:17,00 --> 01:25:24,50 	as someone walks away, someone tosses his cigarette and joins someone in the kitchen.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS961 	01:46:30,00 --> 01:46:37,50 	the manager locks up her office then tosses keys on a nearby table.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1107 	01:55:45,00 --> 01:55:53,50 	he takes a small flashlight from a drawer and tosses it to someone.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1334 	02:22:48,00 --> 02:22:55,50 	he enters the bedroom and tosses a copy of the new issue to someone.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1420 	02:32:30,00 --> 02:32:38,50 	turning away, she tosses someone's gift into a dumpster against the side of a building.
 THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS43 	00:12:01,00 --> 00:12:12,50 	in his room someone tosses a green-tailed dart to someone, which lands in his friend's screwdriver.
-THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS196 	01:19:10,00 --> 01:19:15,50 	going inside, someone tosses the camcorder down.
-THE_VOW.srt 	THE_VOW_DVS400 	00:55:42,00 --> 00:55:50,50 	lowering her gaze, she strides for the door and irritably tosses down a piece of clay on her way out.
 THE_VOW.srt 	THE_VOW_DVS525 	01:13:41,00 --> 01:13:46,50 	he pauses, then tosses them down.
-THE_WATCH.srt 	THE_WATCH_DVS348 	01:01:05,00 --> 01:01:10,50 	he tosses up his hands, leaving her in the candle-filled room.
 THE_WATCH.srt 	THE_WATCH_DVS514 	01:30:34,00 --> 01:31:11,50 	in slow motion, someone tosses his pistols, then draws a single revolver.
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS106 	00:31:03,00 --> 00:31:07,50 	she tosses it across the room.
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS112 	00:33:07,00 --> 00:33:14,50 	someone rubs the ball against his crotch, then tosses it to someonet.
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS295 	01:17:38,00 --> 01:17:43,50 	someone tosses away the rest of her hors d'oeuvre
-THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS544 	01:57:29,00 --> 01:57:35,50 	butler tosses the ball down the court as he leaves with the others.
-THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS232 	00:43:00,00 --> 00:43:08,50 	as he runs through a doorway, a bald man tosses someone a shotgun then attacks someone.
 THOR.srt 	THOR_DVS644 	01:37:28,00 --> 01:37:33,50 	he tosses someone to the ground then leaps at him.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS146 	00:17:54,00 --> 00:17:58,50 	he tosses someone's clipboard.
-TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS381 	00:41:26,00 --> 00:41:33,50 	now, someone lifts a pillow and the head of the child sleeping on it, takes the tooth, and tosses down a dollar.
-TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS509 	00:56:15,00 --> 00:56:22,50 	the clerk at the desk watches as someone tosses a pinch of amnesia dust in someone's face.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS67 	00:09:14,00 --> 00:09:19,50 	he tosses it in.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS229 	00:21:21,00 --> 00:21:29,50 	in a guest house, someone tosses a bag to the floor, swigs from a can of pepsi, and listens to an answering machine.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS289 	00:28:58,00 --> 00:29:05,50 	the woman tosses her head ecstatically.
-UGLY_TRUTH.srt 	UGLY_TRUTH_DVS562 	01:14:38,00 --> 01:14:46,50 	she gazes around the room, then removes her shoes and casually tosses them aside.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS360 	00:58:18,00 --> 00:58:24,50 	buster bounces on his forepaws and tosses his head.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS810 	01:54:06,00 --> 01:54:14,50 	someone pretends to toss someone into the tiger enclosure.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS436 	01:01:38,00 --> 01:01:44,50 	tossing the ball backward, someone sinks another shot.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS449 	01:02:42,00 --> 01:02:50,50 	he tosses the ball in the net and someone catches it.
-YOUNG_ADULT.srt 	YOUNG_ADULT_DVS53 	00:07:30,00 --> 00:07:36,50 	she pulls a suitcase out of her closet and tosses some clothes into it.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS103 	00:08:42,00 --> 00:08:47,50 	and tosses them over his shoulder into his car.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS213 	00:22:59,00 --> 00:23:05,50 	he tosses his bat aside and they proceed down the aisle.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS258 	00:28:41,00 --> 00:28:47,50 	from the minivan's roof, someone tosses the crowbar aside,
 ZOMBIELAND.srt 	ZOMBIELAND_DVS289 	00:32:34,00 --> 00:32:43,50 	he unhooks it then tosses it on the steaming engine.
-ZOMBIELAND.srt 	ZOMBIELAND_DVS647 	01:13:06,00 --> 01:13:12,50 	he tosses aside the air horn and pulls out a machine gun.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS710 	01:17:43,00 --> 01:17:48,50 	he tosses down his empty shotgun.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS718 	01:18:20,00 --> 01:18:24,50 	someone tosses the mallet away.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS761 	01:21:46,00 --> 01:21:52,50 	little someone tosses someone a wrapped, intact, twinkie.

@@ -1,29 +1,19 @@
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS47 	00:04:53,00 --> 00:04:58,50 	they bump fists.
-21_JUMP_STREET.srt 	21_JUMP_STREET_DVS331 	00:55:02,00 --> 00:55:07,50 	someone arrives as they bump fists.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS421 	00:59:59,00 --> 01:00:03,50 	someone bumps a bell.
-BURLESQUE.srt 	BURLESQUE_DVS500 	01:09:28,00 --> 01:09:36,50 	someone turns in profile and bumps her shoulders forward into an animalistic slouch.
 BURLESQUE.srt 	BURLESQUE_DVS578 	01:26:10,00 --> 01:26:14,50 	he bumps the lamp again.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS824 	01:21:19,00 --> 01:21:24,50 	someone's board roughly bumps his on arrival.
 CHRONICLE.srt 	CHRONICLE_DVS371 	00:56:48,00 --> 00:56:56,50 	the bully bumps the lens with his elbow.
 EASY_A.srt 	EASY_A_DVS103 	00:34:06,00 --> 00:34:20,50 	she nearly bumps into someone at a doorway.
-EASY_A.srt 	EASY_A_DVS198 	01:01:40,00 --> 01:01:47,50 	as someone starts to leave, she bumps into someone.
 EASY_A.srt 	EASY_A_DVS279 	01:23:44,00 --> 01:23:53,50 	in a black corset with red stripes, someone bumps her hip at a gawking basketball player.
 FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS42 	00:11:52,00 --> 00:11:57,50 	he bumps into the table.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS65 	00:11:02,00 --> 00:11:08,50 	the businessman heads off, bumping into a woman's chair.
-IN_TIME.srt 	IN_TIME_DVS75 	00:08:39,00 --> 00:08:48,50 	the stranger bumps a table, then rushes nauseously into the back hall where he pushes his way in to a men's room.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS432 	02:02:16,00 --> 02:02:27,50 	he recalls bumping into someone at the bank.
 JACK_AND_JILL.srt 	JACK_AND_JILL_DVS385 	01:11:42,00 --> 01:11:46,50 	someone and someone bumped rears.
 KARATE_KID.srt 	KARATE_KID_DVS265 	00:24:17,00 --> 00:24:23,50 	as someone obeys, someone bumps his shoulder.
 KARATE_KID.srt 	KARATE_KID_DVS1655 	02:14:10,00 --> 02:14:16,50 	they bump their fists, flaring their fingers as they part.
 LITTLE_FOCKERS.srt 	LITTLE_FOCKERS_DVS19 	00:07:01,00 --> 00:07:06,50 	they bump fists.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS382 	01:21:07,00 --> 01:21:12,50 	they bump knuckles.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS356 	01:11:01,00 --> 01:11:11,50 	later as they follow the sidewalk, the young beauty casually bumps against someone, then tucks her hair behind her ear.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS280 	00:52:21,00 --> 00:52:40,50 	someone stops inches behind her then scoots forward and bumps the pedicab again.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS435 	01:21:47,00 --> 01:21:51,50 	he bumps the headboard.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS451 	00:52:59,00 --> 00:53:04,50 	her hand bumps it shut as someone drags her back.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS447 	01:19:37,00 --> 01:19:46,50 	an suv bumps them from behind.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS447 	01:19:37,00 --> 01:19:46,50 	a second bumps them from the front.
-TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS560 	01:01:38,00 --> 01:01:45,50 	someone bumps him angrily and strokes his throat, then hunches over and pants.
-ZOMBIELAND.srt 	ZOMBIELAND_DVS117 	00:09:39,00 --> 00:09:44,50 	he draws a hunting knife, bumping a liquor bottle.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS471 	00:55:16,00 --> 00:55:20,50 	they bump his head on a door frame.
 ZOOKEEPER.srt 	ZOOKEEPER_DVS207 	00:46:55,00 --> 00:46:59,50 	they bump fists.

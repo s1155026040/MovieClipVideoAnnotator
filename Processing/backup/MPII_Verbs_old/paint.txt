@@ -1,15 +1,20 @@
-0004_Charade_00.49.17.208-00.49.17.434 	A moment later, DYLE passes a GIRL painting a canvas, her easel set up in the middle of the sidewalk.
-0014_Ist_das_Leben_nicht_schoen_01.14.54.457-01.14.59.366 	Mary is busy hanging wallpaper and painting the old place.
-0017_Pianist_00.18.08.359-00.18.11.274 	She's brightly rouged with thickly painted eyebrows, dressed in an old green velvet curtain with an unsteady mauve ostrich feather rising from her straw hat.
-0017_Pianist_00.32.29.398-00.32.31.497 	She's the Feather Woman, brightly rouged, with her thickly painted eyebrows, the unsteady mauve ostrich feather rising from her straw hat.
-0027_The_Big_Lebowski_00.15.19.124-00.15.21.125 	Arcing around the woman's foot as she finishes painting the nails emerald green.
-0027_The_Big_Lebowski_00.43.26.222-00.43.31.163 	She is holding a paint bucket in one hand and a brush in the other, with which she flicks paint down at the canvas.
-0033_Amadeus_00.40.07.443-00.40.09.703 	We DISSOLVE on the singer's face, and she is suddenly not merely turbaned, but painted and dressed totally in a Turkish manner, and we are on.
-0050_Indiana_Jones_and_the_last_crusade_01.48.31.864-01.48.37.600 	Ingeniously, the First Crusaders have painted a pathway to align with the rocks 100 feet below.
-0050_Indiana_Jones_and_the_last_crusade_01.48.37.600-01.48.41.071 	It's painted to blend in with the rocks below.
-1004_Juno_00.19.06.160-00.19.12.291 	A woman painting her nails, another scratching her arm, another using a nail file add to the crescendo of sound.
-1006_Slumdog_Millionaire_01.02.09.338-01.02.13.853 	Her arms are painted in intricate gold and henna designs.
+0004_Charade_00.49.17.208-00.49.17.434 	a moment later, dyle passes a girl painting a canvas, her easel set up in the middle of the sidewalk.
+0009_Forrest_Gump_01.29.12.701-01.29.17.717 	forrest paints a name on the side of his boat.
+0014_Ist_das_Leben_nicht_schoen_01.14.54.457-01.14.59.366 	mary is busy hanging wallpaper and painting the old place.
+0017_Pianist_00.18.08.359-00.18.11.274 	she's brightly rouged with thickly painted eyebrows, dressed in an old green velvet curtain with an unsteady mauve ostrich feather rising from her straw hat.
+0017_Pianist_00.32.29.398-00.32.31.497 	she's the feather woman, brightly rouged, with her thickly painted eyebrows, the unsteady mauve ostrich feather rising from her straw hat.
+0027_The_Big_Lebowski_00.15.19.124-00.15.21.125 	arcing around the woman's foot as she finishes painting the nails emerald green.
+0027_The_Big_Lebowski_00.43.26.222-00.43.31.163 	she is holding a paint bucket in one hand and a brush in the other, with which she flicks paint down at the canvas.
+0033_Amadeus_00.40.07.443-00.40.09.703 	we dissolve on the singer's face, and she is suddenly not merely turbaned, but painted and dressed totally in a turkish manner, and we are on.
+0041_The_Sixth_Sense_00.56.31.851-00.56.35.040 	cole comes on stage holding a painted cardboard monkey.
+0050_Indiana_Jones_and_the_last_crusade_01.48.31.864-01.48.37.600 	ingeniously, the first crusaders have painted a pathway to align with the rocks 100 feet below.
+0050_Indiana_Jones_and_the_last_crusade_01.48.37.600-01.48.41.071 	it's painted to blend in with the rocks below.
+1004_Juno_00.19.06.160-00.19.12.291 	a woman painting her nails, another scratching her arm, another using a nail file add to the crescendo of sound.
+1004_Juno_01.28.58.770-01.29.03.437 	above the white cup, the note juno scribbled is mounted in a white frame on the pale yellow painted wall.
+1006_Slumdog_Millionaire_01.02.09.338-01.02.13.853 	her arms are painted in intricate gold and henna designs.
 1009_Spider-Man3_01.14.41.469-01.14.42.706 	harry is expertly painting a still life.
+1011_The_Help_00.49.22.963-00.49.28.142 	minnie walks up the drive towards an imposing white painted mansion.
+1014_2012_01.30.23.680-01.30.31.418 	the cardinals gathered inside look up at the great painted ceiling of the sistine chapel as it begins to crack.
 1027_Les_Miserables_02.10.11.469-02.10.12.662 	marius wakes in a clean bed beneath a ceiling painted with cherubs and angels.
 1031_Quantum_of_Solace_00.39.36.758-00.39.38.204 	one actress is having a wound painted on her forehead.
 1034_Super_8_00.09.14.387-00.09.18.639 	it's 12:02 pm as joe sits in his bedroom painting a model monster.
@@ -17,10 +22,13 @@
 1052_Harry_Potter_and_the_order_of_phoenix_00.58.50.842-00.58.53.844 	a target is painted on its chest.
 1059_The_devil_wears_prada_00.54.21.733-00.54.29.762 	nate gets home to find andy painting a ball to look like a planet.
 1060_Yes_man_00.24.05.281-00.24.08.208 	she gets off and undoes the strap on her blue helmet that has eyes painted on it.
+1060_Yes_man_01.37.09.000-01.37.11.000 	colorful painted lines run through captions.
+1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.26.58.740-00.27.05.471 	hermione and ron see a painting on a wall.
+2012_Unbreakable_01.18.17.021-01.18.24.962 	one huge cavernous room, a football field in size, lined on both sides with giant pillars that rise into a misty hand painted ceiling.
 2017_Bad_Santa_00.14.24.065-00.14.30.466 	sucking on his beer, willie paces the periphery of the room, methodically knocking painting after painting off the walls.
+2026_Legion_01.07.51.839-01.07.51.988 	his blood paints the car windows.
 2027_Les_Miserables_00.08.29.855-00.08.32.221 	two silver candlesticks light the room, illuminating walls painted with religious scenes.
-1059_The_devil_wears_prada_00.54.21.733-00.54.29.762 	nate gets home to find andy painting a ball to look like a planet.
-1060_Yes_man_00.24.05.281-00.24.08.208 	she gets off and undoes the strap on her blue helmet that has eyes painted on it.
-2017_Bad_Santa_00.14.24.065-00.14.30.466 	sucking on his beer, willie paces the periphery of the room, methodically knocking painting after painting off the walls.
-2027_Les_Miserables_00.08.29.855-00.08.32.221 	two silver candlesticks light the room, illuminating walls painted with religious scenes.
+2034_Super_8_00.09.16.299-00.09.18.398 	tight on quasimodo; a plastic, painted aurora model.
 2034_Super_8_00.09.26.675-00.09.27.875 	comic books and other plastic models, all built and painted by joe.
+2034_Super_8_00.43.35.518-00.43.39.181 	joe paints his model on the floor of his living room, watching in search of and talking to charles on his walkie talkie.
+2054_Harry_Potter_and_the_prisoner_of_azkaban_01.07.49.049-01.07.49.905 	the dying sun streams through high windows, painting harry's face a fierce amber-red as he stands opposite lupin.

@@ -1,7 +1,4 @@
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS366 	00:33:53,00 --> 00:33:58,50 	someone stows the knife in his boot.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS402 	01:18:12,00 --> 01:18:17,50 	someone stows a stack of newspapers in a bin.
-LITTLE_FOCKERS.srt 	LITTLE_FOCKERS_DVS104 	00:41:27,00 --> 00:41:31,50 	sees someone stow a bag in a closet.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS221 	00:31:50,00 --> 00:31:58,50 	as he stows a wine bottle, bitey nips him.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS329 	01:12:31,00 --> 01:12:37,50 	someone grabs it and stows it in her tool belt.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS417 	01:20:28,00 --> 01:20:34,50 	he stows the cash in his bag and leaves.
-UGLY_TRUTH.srt 	UGLY_TRUTH_DVS423 	00:51:17,00 --> 00:51:24,50 	stowing the remote inside, she opens up and finds someone and someone.

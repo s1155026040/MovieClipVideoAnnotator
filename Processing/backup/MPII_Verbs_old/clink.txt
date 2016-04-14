@@ -1,11 +1,10 @@
-0003_CASABLANCA_01.04.27.730-01.04.30.989 	They clink glasses and drink.
-0008_Fargo_01.03.06.929-01.03.09.419 	Marge clinks it.
-0017_Pianist_00.05.01.651-00.05.06.889 	They all clink glasses and drink.
-0049_Hannah_and_her_sisters_01.27.39.743-01.27.45.575 	Laughing, he turns to the little girl sitting on his lap; he clinks his bottle against the bottle she is holding, which is almost as big as she is.
-1009_Spider-Man3_00.27.12.492-00.27.24.202 	large rocks roll and clink against each other.
+0003_CASABLANCA_01.04.27.730-01.04.30.989 	they clink glasses and drink.
+0008_Fargo_01.03.06.929-01.03.09.419 	marge clinks it.
+0017_Pianist_00.05.01.651-00.05.06.889 	they all clink glasses and drink.
+0049_Hannah_and_her_sisters_01.27.39.743-01.27.45.575 	laughing, he turns to the little girl sitting on his lap; he clinks his bottle against the bottle she is holding, which is almost as big as she is.
 1011_The_Help_01.16.59.775-01.17.01.451 	they clink oyster and cracker.
 1033_Sherlock_Holmes_A_Game_of_Shadows_00.09.18.297-00.09.29.009 	the bearded man clinks a teaspoon against a glass, and all the clientele and staff, with the exception of him and the man behind the curtain, rise and leave the dining room.
 1040_The_Ugly_Truth_00.57.17.127-00.57.22.043 	they clink glasses and drink wine.
 1047_Defiance_00.10.52.308-00.10.56.229 	the men clink glasses, pours some away and down the rest.
-2012_Unbreakable_00.48.26.485-00.48.32.111 	clink the weights comes off the rest.
+1049_Harry_Potter_and_the_chamber_of_secrets_01.20.01.428-01.20.05.959 	clinking glasses, they all drink at once.
 2012_Unbreakable_00.48.26.485-00.48.32.111 	clink the weights comes off the rest.

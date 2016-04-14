@@ -1,0 +1,3 @@
+PROMETHEUS.srt 	PROMETHEUS_DVS341 	00:33:17,00 --> 00:33:26,50 	holloway unlatches his helmet then bends over and pulls it off.
+THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS97 	00:13:53,00 --> 00:13:57,50 	and unlatches it.
+ZOMBIELAND.srt 	ZOMBIELAND_DVS350 	00:40:10,00 --> 00:40:18,50 	someone glances away and unlatches his seat belt then slowly guides it off his chest.

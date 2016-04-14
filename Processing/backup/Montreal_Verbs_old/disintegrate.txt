@@ -1,0 +1,5 @@
+CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS256 	00:45:21,00 --> 00:45:27,50 	the officer disintegrates in a flash of blue light.
+GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS239 	00:38:06,00 --> 00:38:30,50 	he whips his chain at three of them and they disintegrate into flames and ash.
+GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS339 	00:51:13,00 --> 00:51:26,50 	it grows moldy and disintegrates at his gloved touch.
+JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS160 	00:28:43,00 --> 00:28:50,50 	it disintegrates into filmy stands.
+PROMETHEUS.srt 	PROMETHEUS_DVS66 	00:03:43,00 --> 00:03:53,50 	standing, the humanoid peers into the cup and its disintegrating honeycomb-like contents.

@@ -1,28 +1,72 @@
-0002_As_Good_As_It_Gets_00.24.07.800-00.24.10.248 	where it is not clear that a robbery is in progress -- Vincent's two friends from the street sweeping all objects into large sacks -- one of them, Doug, pauses to look past the terrace to the studio.
-0004_Charade_01.19.25.398-01.19.27.301 	A searchlight near the boat's bridge has gone on and now begins sweeping the river banks.
-0008_Fargo_00.32.04.959-00.32.07.917 	Grimsrud sweeps his gun off the front seat, opens his door and gets out.
-0011_Gandhi_02.39.01.531-02.39.03.742 	He sweeps them sternly with his eyes, all his fatigue and strain showing.
-0011_Gandhi_02.53.38.656-02.53.40.569 	The camera sweeps over the crowd, past the loudspeakers on their poles.
-0014_Ist_das_Leben_nicht_schoen_00.11.24.583-00.11.29.099 	But this time Gower sweeps the boy to him in a hug and, sobbing hoarsely, crushes the boy in his embrace.
-0016_O_Brother_Where_Art_Thou_00.35.00.014-00.35.02.930 	He leaps down, fires into the air again, and sweeps a young woman standing in line into a full V-J dip, kissing her on the lips.
-0021_Rear_Window_00.21.59.662-00.22.01.662 	The spinster sweeps into the room, smiling.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.38.53.974-00.38.57.491 	he sweeps down the Orthanc stairs.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.57.13.707-01.57.17.052 	The cave troll is sweeping his club at Aragorn.who stumbles backwards.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.33.18.955-02.33.33.099 	The eye sweeps Amon Hen like a searchlight, seeking its ring!
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.31.19.841-01.31.28.499 	HORROR sweeps through the streets of MINAS TIRITH as the SEVERED HEADS of FARAMIR'S HORSEMEN land amongst the SOLDIERS.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.54.13.653-01.54.17.097 	SAM, hidden in a rock crevice, as SHOCK sweeps across his FACE.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.59.26.081-01.59.28.714 	MERRY is swept up in the emotion.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.17.16.435-02.17.21.690 	The ARMY OF THE DEAD slowly DISSOLVE INTO DUST, and are immediately swept away by the four winds.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.30.43.203-02.30.48.641 	With the EYE OF SAURON sweeping the PLAINS around them, SAM gets to his feet.
-0030_The_Hustler_02.14.03.646-02.14.07.935 	Fats puts on his coat; Henry sweeps up.
-0031_The_Lost_Weekend_01.24.21.108-01.24.22.333 	He sweeps them to the floor.
-0050_Indiana_Jones_and_the_last_crusade_00.13.07.169-00.13.09.906 	Indy sees that the Cross is about to be swept overboard.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.08.07.930-00.08.10.345 	Dumbledore sweeps his wand over the room.
-1003_How_to_Lose_Friends_and_Alienate_People_00.09.35.512-00.09.38.483 	Night, the glimmer of a taxi staring out the window as he's swept through.
-1003_How_to_Lose_Friends_and_Alienate_People_00.50.20.575-00.50.23.273 	A van sweeps past the Soho Grand Hotel.
-1003_How_to_Lose_Friends_and_Alienate_People_01.32.36.506-01.32.37.858 	The limo sweeps down a main road.
+0002_As_Good_As_It_Gets_00.24.07.800-00.24.10.248 	where it is not clear that a robbery is in progress -- vincent's two friends from the street sweeping all objects into large sacks -- one of them, doug, pauses to look past the terrace to the studio.
+0004_Charade_01.19.25.398-01.19.27.301 	a searchlight near the boat's bridge has gone on and now begins sweeping the river banks.
+0004_Charade_01.46.26.355-01.46.28.249 	as the camera sweeps the magnificent old theatre -- boxes, seats, stage, but there is no sign of reggie.
+0007_DIE_NACHT_DES_JAEGERS_00.52.12.415-00.52.13.940 	his hands sweep dust and expose concrete.
+0008_Fargo_00.25.40.324-00.25.41.844 	the headlights sweep off and a car hums past and on into the background.
+0008_Fargo_00.32.04.959-00.32.07.917 	grimsrud sweeps his gun off the front seat, opens his door and gets out.
+0008_Fargo_00.36.48.544-00.36.52.793 	she gets up, sweeping snow from her knees.
+0011_Gandhi_02.39.01.531-02.39.03.742 	he sweeps them sternly with his eyes, all his fatigue and strain showing.
+0011_Gandhi_02.53.38.656-02.53.40.569 	the camera sweeps over the crowd, past the loudspeakers on their poles.
+0014_Ist_das_Leben_nicht_schoen_00.11.24.583-00.11.29.099 	but this time gower sweeps the boy to him in a hug and, sobbing hoarsely, crushes the boy in his embrace.
+0016_O_Brother_Where_Art_Thou_00.35.00.014-00.35.02.930 	he leaps down, fires into the air again, and sweeps a young woman standing in line into a full v-j dip, kissing her on the lips.
+0021_Rear_Window_00.21.59.662-00.22.01.662 	the spinster sweeps into the room, smiling.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.16.18.219-00.16.21.484 	suddenly it is snatched out of his hands as frodo thrusts him into the middle of a passing throng of dancers as he is swept away.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.38.53.974-00.38.57.491 	he sweeps down the orthanc stairs.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.57.13.707-01.57.17.052 	the cave troll is sweeping his club at aragorn.who stumbles backwards.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.33.18.955-02.33.33.099 	the eye sweeps amon hen like a searchlight, seeking its ring!
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.28.55.849-01.28.56.946 	with a terrifying shriek, the king of the dead sweeps his sword towards aragorn's head!
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.28.56.946-01.28.57.415 	a low whistle as it sweeps through the air.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.59.26.081-01.59.28.714 	merry is swept up in the emotion.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.11.14.408-02.11.28.946 	with a raging blood-lust, the undead climb over the top of each other to try and reach the enemy, creating a kind of rolling mountain of ghouls that sweep all before them away!
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.17.16.435-02.17.21.690 	the army of the dead slowly dissolve into dust, and are immediately swept away by the four winds.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.24.10.197-02.24.14.228 	a red light seems to sweep across the plain.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.29.15.201-02.29.16.114 	a ray of red light stabs through the gloom and begins to sweep over the barren landscape.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.30.43.203-02.30.48.641 	with the eye of sauron sweeping the plains around them, sam gets to his feet.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.53.18.474-02.53.23.711 	sweeping over the minas tirith walls, racing towards the top of the city.
+0026_The_Big_Fish_00.09.25.616-00.09.27.953 	a flashlight sweeps past.
+0030_The_Hustler_00.10.14.543-00.10.17.070 	his last test is to sweep the cue ball into the corner pocket.
+0030_The_Hustler_02.14.03.646-02.14.07.935 	fats puts on his coat; henry sweeps up.
+0031_The_Lost_Weekend_01.24.21.108-01.24.22.333 	he sweeps them to the floor.
+0051_Men_in_black_00.38.03.020-00.38.03.860 	kay punches a couple keys, and the cursor begins to sweep from right to left, starting to eliminate the rightmost letters of edwards's name.
+1002_Harry_Potter_and_the_Half-Blood_Prince_00.01.54.990-00.02.02.800 	they sweep up charing cross road, moving swiftly past leicester square tube station.
+1002_Harry_Potter_and_the_Half-Blood_Prince_00.08.07.930-00.08.10.345 	dumbledore sweeps his wand over the room.
+1003_How_to_Lose_Friends_and_Alienate_People_00.09.35.512-00.09.38.483 	night, the glimmer of a taxi staring out the window as he's swept through.
+1003_How_to_Lose_Friends_and_Alienate_People_00.50.20.575-00.50.23.273 	a van sweeps past the soho grand hotel.
+1003_How_to_Lose_Friends_and_Alienate_People_01.32.36.506-01.32.37.858 	the limo sweeps down a main road.
+1008_Spider-Man2_01.50.37.691-01.50.43.493 	using two of the limbs, he sweeps them aside, leaving a clear route to spider-man.
+1009_Spider-Man3_00.16.09.488-00.16.15.435 	aunt may looks down, her eyes glistening with tears, and sweeps back a lock of her white hair.
+1009_Spider-Man3_00.27.24.202-00.27.38.827 	seen from further away, the rocks look more like gravel, and from even further away the gravel reveals itself as millions of grains of sand which sweep along the floor of the pit like waves on a beach.
+1009_Spider-Man3_00.46.15.686-00.46.31.952 	as bits of sandman crumble away in the gunfire, he sweeps down at the cops bursts in a bucket of sand blocking cars over as if they were toys.
+1009_Spider-Man3_00.51.54.243-00.52.04.900 	later in the evening, peter dressed smartly in a sober suit, his dark hair swept across in a neat side parting, stops a few feet away from the entrance of the restaurant constellation and pulls aunt may's ring out of his breast pocket.
+1009_Spider-Man3_01.05.39.545-01.05.48.609 	swinging from a thread, he sweeps low between the line of cars and up to a high roof adorned with lanterns.
+1010_TITANIC_00.25.11.959-00.25.14.602 	as jack sweeps up the coins, olaf grabs his collar.
+1010_TITANIC_00.25.38.128-00.25.40.277 	fabrizio quickly sweeps the winnings into jack's cap.
+1010_TITANIC_01.41.16.528-01.41.27.190 	in the engine room, water pours in as a man scrambles past furnace stokers swept across.
+1010_TITANIC_02.44.45.577-02.44.53.357 	jack grabs onto rose's life vest but is swept away by the turbulence.
+1018_Body_Of_Lies_00.42.22.629-00.42.31.807 	a young man with his black hair swept back locks a car, then notices a tourist lining up a photograph.
+1020_Crazy_Stupid_Love_01.50.34.397-01.50.37.870 	jessica sweeps off.
+1023_Horrible_Bosses_00.47.52.717-00.47.55.045 	he tries to sweep it off.
+1024_Identity_Thief_00.37.13.120-00.37.16.005 	entering, he finds a young brunette stylist sweeping the floor.
+1026_Legion_01.07.55.534-01.07.56.342 	a car side sweeps him, sending him flying.
+1026_Legion_01.21.33.755-01.21.38.716 	gabriel leaps over his wing and gets swept with a machine pistol.
+1028_No_Reservations_00.00.19.000-00.00.22.842 	a beam of light shines out from a lighthouse and sweeps across a shimmering blue ocean.
+1035_The_Adjustment_Bureau_00.35.48.559-00.35.53.684 	now, our view sweeps down the front of his towering apartment building.
+1035_The_Adjustment_Bureau_01.09.47.248-01.09.54.447 	elise bends forward, sweeping her legs straight up into the air behind her.
+1037_The_Curious_Case_Of_Benjamin_Button_01.44.01.488-01.44.06.160 	an assortment of buttons is swept off a table into a jar.
+1037_The_Curious_Case_Of_Benjamin_Button_01.45.28.501-01.45.31.452 	her feet leave the floor as she swept them into an effortless turn.
+1037_The_Curious_Case_Of_Benjamin_Button_01.48.30.331-01.48.35.164 	they part when daisy starts talking, only to be swept away in mid-sentence by another man.
+1037_The_Curious_Case_Of_Benjamin_Button_02.38.50.331-02.39.06.196 	flood waters gush into the train station's storeroom, sweeping an old office chair into the corner where mr. gateau's brass clock lies half-covered by a sheet.
+1045_An_education_01.23.59.667-01.24.07.352 	tears run down jenny's cheeks as headlights sweep past the window.
+1046_Australia_02.11.07.850-02.11.13.988 	he approaches ivan, who's sweeping up in the bar.
+1048_Gran_Torino_00.11.36.931-00.11.39.409 	next door, walt sweeps his drive with a broom.
+1049_Harry_Potter_and_the_chamber_of_secrets_00.10.30.594-00.10.38.985 	it sweeps down over green fields and trees towards a ramshackle house beside a lake.
+1049_Harry_Potter_and_the_chamber_of_secrets_01.37.14.828-01.37.17.095 	she sweeps out.
+1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.15.38.728-00.15.43.713 	decoy harrys on broomsticks sweep past moody.
 1053_Harry_Potter_and_the_philosophers_stone_00.51.24.991-00.51.30.984 	later, the dark figure of professor snape sweeps into his classroom.
-1058_The_Damned_united_00.14.29.000-00.14.35.000 	in his trademark red track suit, brian sweeps the dingy corridors by the derby dressing rooms, under flickering strip lights.
+1057_Seven_pounds_00.10.53.966-00.11.04.956 	he sits at the wheel, deep in solemn thought as the wipers sweep back and forth.
 1058_The_Damned_united_00.17.19.528-00.17.27.746 	don sweeps past to meet his entourage, leaving brian standing to one side at the entrance.
 1059_The_devil_wears_prada_01.01.09.302-01.01.16.381 	andy gets out of the car looking stunning in a chic black evening gown, with her hair swept up and adorned with white flowers.
-1062_Day_the_Earth_stood_still_00.20.23.010-00.20.29.155 	an intense beam of white light sweeps across the ground.
+1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.05.32.667-01.05.42.404 	the death eaters sweep over the school.
+1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.51.11.165-01.51.15.626 	filch makes a vain attempt to sweep up a mountain of rubble.
+2054_Harry_Potter_and_the_prisoner_of_azkaban_00.11.48.544-00.11.50.412 	just then, a pair of double-decker buses sweep directly toward the knight bus.
+2054_Harry_Potter_and_the_prisoner_of_azkaban_00.39.59.315-00.40.06.314 	seconds later, the dementors sweep by.

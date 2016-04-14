@@ -1,71 +1,36 @@
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS305 	00:52:03,00 --> 00:52:10,50 	someone smashes it over someone's head.
 40_YEAR_OLD_VIRGIN.srt 	40_YEAR_OLD_VIRGIN_DVS54 	00:26:52,00 --> 00:26:57,50 	the guys smash a fluorescent light bulb.
 500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS62 	00:04:31,00 --> 00:04:37,50 	someone's in the kitchen, smashing plates on a counter.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS243 	00:20:10,00 --> 00:20:24,50 	the truck follows, smashing through a cement monument.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS256 	00:22:17,00 --> 00:22:22,50 	someone smashes into the armored truck's rear end.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS260 	00:22:36,00 --> 00:22:49,50 	someone barely evades collisions as the armored truck smashes into every single rear end.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS399 	00:36:32,00 --> 00:36:37,50 	someone drops it on the ground and stomps on it repeatedly, smashing it to pieces.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS873 	01:25:12,00 --> 01:25:19,50 	the truck smashes into the building and the door shoots open, someone barely hangs on.
-BURLESQUE.srt 	BURLESQUE_DVS550 	01:19:41,00 --> 01:19:49,50 	someone takes out a crowbar and smashes someone's passenger window as she drives past.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS618 	01:44:15,00 --> 01:44:28,50 	someone flings his shield, striking someone and smashing him into the energy mechanism which begins to spark and flicker with blue light.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS143 	00:11:38,00 --> 00:11:44,50 	behind him, a boy smashes a side view mirror with a bat.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS512 	00:49:58,00 --> 00:50:05,50 	the surfer suddenly falls off the board and the colossal wave smashes down on him.
-CHRONICLE.srt 	CHRONICLE_DVS410 	01:01:17,00 --> 01:01:27,50 	as the others run, someone gestures sending one of them smashing into a car's rear window, and another cartwheeling down to the pavement.
-CHRONICLE.srt 	CHRONICLE_DVS492 	01:11:01,00 --> 01:11:09,50 	a bank's black and white security footage shows them smashing through a wall in its lobby.
-CHRONICLE.srt 	CHRONICLE_DVS511 	01:13:05,00 --> 01:13:16,50 	now, as panicked bystanders flee, a camera tries to follow the movements of a body as it smashes through a billboard, then bounces between two buildings.
 COLOMBIANA.srt 	COLOMBIANA_DVS155 	00:13:55,00 --> 00:14:01,50 	behind her, a gunman smashes through a different part of the roof.
 COLOMBIANA.srt 	COLOMBIANA_DVS947 	01:31:15,00 --> 01:31:22,50 	with someone at the wheel, it smashes through a gate and out onto the street.
-COLOMBIANA.srt 	COLOMBIANA_DVS968 	01:33:14,00 --> 01:33:24,50 	as it speeds toward the garage's exit, the armored truck backs through a wall beside it and smashes into the vehicle's nose.
 DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS167 	00:38:52,00 --> 00:38:58,50 	it smashes on the ground below.
 DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS197 	00:47:18,00 --> 00:47:27,50 	it smashes a glass shelf behind him.
 DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS279 	01:10:00,00 --> 01:10:06,50 	someone smashes the rear window.
-DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS280 	01:10:09,00 --> 01:10:19,50 	she smashes off a wing mirror then breaks the passenger's window before breaking the headlights and pounding the bonnet with a barrier pole.
 DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS412 	01:42:38,00 --> 01:42:45,50 	someone flings the bottle, smashing a window with a coat of arms on it.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS32 	00:05:18,00 --> 00:05:24,50 	he smashes a bottle with his fist.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS254 	00:40:19,00 --> 00:40:33,50 	shifting the levers, he raises the wheel high into the air, then smashes it onto a watchtower.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS441 	01:03:16,00 --> 01:03:34,50 	someone smashes the monk's hand, grabs his jaw, then slams him onto his back.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS536 	01:16:11,00 --> 01:16:26,50 	his face a mess of rotten flesh, someone smashes his head against someone's.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS548 	01:18:00,00 --> 01:18:14,50 	he remember smashing the bottle with his fist and the contract pages flipping by themselves.
-IN_TIME.srt 	IN_TIME_DVS669 	01:12:29,00 --> 01:12:41,50 	it smashes through the glass barriers inside and stops at an open vault.
-IN_TIME.srt 	IN_TIME_DVS906 	01:35:54,00 --> 01:36:03,50 	as they speed through an intersection one block from the mission, someone's cruiser emerges from the cross street and smashes into them.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS191 	00:35:13,00 --> 00:35:22,50 	someone smashes the windshield, then slices the car's roof with a whip.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS325 	00:58:30,00 --> 00:58:37,50 	someone stands, rips off a countertop, and smashes it against someone's back.
 KARATE_KID.srt 	KARATE_KID_DVS1185 	01:37:16,00 --> 01:37:21,50 	its front end smashed and bumper hanging
 LAND_OF_THE_LOST.srt 	LAND_OF_THE_LOST_DVS104 	00:33:39,00 --> 00:33:45,50 	he ducks a thrown rock, which smashes into a statue.
-MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS249 	00:36:05,00 --> 00:36:10,50 	someone kicks the ball and it smashes someone's face.
-PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS57 	00:13:27,00 --> 00:13:37,50 	she flies out, smashing through a high window.
-PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS357 	01:28:48,00 --> 01:28:56,50 	he picks up a globe made of bones and smashes it on the ground.
-PROMETHEUS.srt 	PROMETHEUS_DVS801 	01:25:47,00 --> 01:25:54,50 	his smashed open helmet reveals his grotesquely deformed features.
 PROMETHEUS.srt 	PROMETHEUS_DVS804 	01:26:03,00 --> 01:26:13,50 	the mutant smashes both fists through his helmet, pummeling his face.
-PROMETHEUS.srt 	PROMETHEUS_DVS949 	01:45:18,00 --> 01:45:26,50 	the lifeboat lands on the barren terrains, smashing a rocky pillar before it slides to a stop.
 SALT.srt 	SALT_DVS323 	00:57:25,00 --> 00:57:46,50 	the suv tips and smashes down onto all four wheels.
 SALT.srt 	SALT_DVS491 	01:25:16,00 --> 01:25:20,50 	and smashes the butt of her rifle.
-SUPER_8.srt 	SUPER_8_DVS221 	00:37:43,00 --> 00:37:49,50 	the police cruiser's smoking hood is smashed in and one of the front tires lies nearly sideways.
-SUPER_8.srt 	SUPER_8_DVS270 	00:45:35,00 --> 00:45:42,50 	a huge creature rears up, something strikes the truck smashing the windshield, someone vanishes.
 SUPER_8.srt 	SUPER_8_DVS360 	01:03:55,00 --> 01:04:00,50 	his father smashes into a parked car,
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS562 	01:18:16,00 --> 01:18:25,50 	someone smashes the bottle against someone's head.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS626 	01:23:42,00 --> 01:23:57,50 	someone drives out of the falling building up a narrow street, then smashes through a low wall.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS657 	01:28:58,00 --> 01:29:14,50 	as they fight the crane lifts the car, smashes it into a brick wall, then drags it up the wall.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS666 	01:29:59,00 --> 01:30:07,50 	someone quickly pivots his crane and smashes him back.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS669 	01:30:22,00 --> 01:30:28,50 	the tip of someone's crane smashes into someone's cab, knocking him to the floor.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS681 	01:31:42,00 --> 01:31:46,50 	it smashes into someone's cab.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS724 	01:37:08,00 --> 01:37:14,50 	they smash through the wall with a beam of wood.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS58 	00:11:42,00 --> 00:11:48,50 	a man smashes his window with a crowbar.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS517 	01:33:23,00 --> 01:33:29,50 	the woman smashes it on someone's head.
-THE_CALL.srt 	THE_CALL_DVS815 	01:01:40,00 --> 01:01:47,50 	a swat team takes the lead and smashes the front door in with a battering ram.
-THE_WATCH.srt 	THE_WATCH_DVS280 	00:51:14,00 --> 00:51:21,50 	as the creature leans close to someone, someone smashes the gnome on its head.
-THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS377 	01:09:50,00 --> 01:09:59,50 	someone gives him a hammer and lets him smash it to pieces.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS469 	01:22:59,00 --> 01:23:12,50 	with a lug wrench, someone smashes the window of an enemy driver beside them.
 THOR.srt 	THOR_DVS44 	00:04:57,00 --> 00:05:02,50 	and then smashes them to pieces.
-THOR.srt 	THOR_DVS145 	00:21:21,00 --> 00:21:28,50 	someone smiles as he spins and smashes the giant with someone, sending the giant flying backward.
 THOR.srt 	THOR_DVS161 	00:22:48,00 --> 00:22:53,50 	someone smashes his war hammer into a giant's chest.
-THOR.srt 	THOR_DVS173 	00:23:36,00 --> 00:23:44,50 	someone smashes another giant with someone, then hurls his hammer across the battlefield striking down several enemies.
 THOR.srt 	THOR_DVS182 	00:24:15,00 --> 00:24:32,50 	smashing through boulders of rock and ice in its path, twirling his hammer so fast that it blurs, someone flings chunks of the ground like projectiles.
 THOR.srt 	THOR_DVS578 	01:29:29,00 --> 01:29:35,50 	the destroyer plummets from the sky and smashes onto the street below.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS636 	01:10:37,00 --> 01:10:43,50 	cringing tearfully, someone smashes his guitar on the pavement.
-ZOMBIELAND.srt 	ZOMBIELAND_DVS42 	00:03:49,00 --> 00:03:55,50 	with a crowbar, a man smashes a window that reads, zombieland.
-ZOMBIELAND.srt 	ZOMBIELAND_DVS171 	00:16:59,00 --> 00:17:06,50 	he makes repeated efforts, smashing her ankle until a bone juts out.
-ZOMBIELAND.srt 	ZOMBIELAND_DVS212 	00:22:51,00 --> 00:23:00,50 	as the infected man lands at his feet, he smashes its head in.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS383 	00:43:48,00 --> 00:43:56,50 	someone hurls a statue into a glass counter and little someone smashes a snow globe.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS388 	00:44:12,00 --> 00:44:21,50 	someone pitches a stuffed animal at him and he bats it away then smashes the glass over an educational arizona display.
-ZOMBIELAND.srt 	ZOMBIELAND_DVS716 	01:18:13,00 --> 01:18:20,50 	someone raises the mallet once again and smashes the clown's head.

@@ -1,38 +1,155 @@
-0001_American_Beauty_01.27.24.723-01.27.25.457 	They are too involved with each other to notice Lester watching them from the drive-thru window.
-0004_Charade_00.17.39.639-00.17.40.666 	He starts down the aisle toward the bier, CAMERA LEADING him, and we notice his unsteady gait.
-0004_Charade_01.07.59.634-01.08.02.383 	The sound of running water can be heard coming from behind the closed door to the bathroom and DYLE is the first to notice the water beginning to leak out from under the door.
-0006_Clerks_00.19.07.403-00.19.09.943 	Dante studies a copy of Paradise Lost, making a strong attempt at not noticing the glare.
-0008_Fargo_00.19.30.141-00.19.43.076 	He finds a salve but after a moment sets it down, noticing something in the mirror.
-0014_Ist_das_Leben_nicht_schoen_00.23.12.769-00.23.14.543 	George and Mary are so busy dancing they don't notice the floor opening.
-0016_O_Brother_Where_Art_Thou_00.31.02.262-00.31.06.391 	The three convicts notice the sheriff who once again stands impassively next to the man with the bullhorn, holding a leash against which a bloodhound strains.
-0021_Rear_Window_00.13.23.486-00.13.26.662 	He, stops as he notice her attitude.
-0023_THE_BUTTERFLY_EFFECT_00.12.50.430-00.12.54.326 	He pretends to notice his shoe's untied and bends down to tie it.
-0027_The_Big_Lebowski_01.00.06.693-01.00.07.696 	The Dude looks at The Stranger as if just now noticing how out of place the cowpoke is.
-0033_Amadeus_00.16.03.665-00.16.08.486 	Salieri turns away so as not to be noticed by the servant.
-0033_Amadeus_00.59.53.041-00.59.53.776 	We notice on his finger a heavy gold signet-ring.
-0033_Amadeus_01.27.09.977-01.27.12.336 	Framed in the doorway from outside stands Lorl, the maid we noticed in Salieri's house.
-0050_Indiana_Jones_and_the_last_crusade_00.27.24.997-00.27.32.931 	Indy whips out the Grail Diary and opens it to the sketch he noticed in the airplane.
-0050_Indiana_Jones_and_the_last_crusade_00.27.32.931-00.27.36.157 	Brody glances at the Diary, then at the window -- noticing that the Roman numerals in question have been worked into the window's design.
-1006_Slumdog_Millionaire_00.46.58.000-00.47.08.165 	The audience are mesmerized by the performance and fail to notice the boys stealing handbags and purses from between people's legs.
+0001_American_Beauty_00.11.25.089-00.11.30.847 	she says this as if it were a threat, then notices a smudge on the mirror and wipes it off.
+0001_American_Beauty_00.23.19.624-00.23.21.157 	then jane notices her address book open to the h page.
+0001_American_Beauty_00.57.06.917-00.57.07.680 	as she hands him his food, he notices a sign in the corner of the window that reads.
+0001_American_Beauty_01.01.36.720-01.01.41.548 	he puts the platter back into the cabinet and shuts the door, then notices jane looking at him oddly.
+0001_American_Beauty_01.27.24.723-01.27.25.457 	they are too involved with each other to notice lester watching them from the drive-thru window.
+0002_As_Good_As_It_Gets_00.02.06.862-00.02.09.981 	he notices melvin at the far end of the hall.
+0002_As_Good_As_It_Gets_00.04.57.173-00.05.00.934 	then notices the handyman, tongue in cheek, trying to suppress his amusement.
+0002_As_Good_As_It_Gets_00.17.11.265-00.17.13.437 	she looks down and sees a bit of throw-up he picked up while feeling her and then notices him looking at her with extreme distaste.
+0002_As_Good_As_It_Gets_00.34.17.975-00.34.23.522 	she is jolted by the insensitivity of his interruption, but he doesn't notice, turning, almost chatty.
+0002_As_Good_As_It_Gets_00.34.46.715-00.34.50.388 	as melvin walks verdell back home, we notice, perhaps a beat before melvin, a remarkably event.
+0002_As_Good_As_It_Gets_01.56.29.504-01.56.31.031 	simon notices some of his paintings.
+0003_CASABLANCA_00.29.22.238-00.29.30.889 	he sees strasser and renault whispering together, then notices berger at the bar.
+0003_CASABLANCA_00.46.56.850-00.46.57.207 	rain pours over his head and shoulders, but he doesn't seem to notice.
+0004_Charade_00.17.39.639-00.17.40.666 	he starts down the aisle toward the bier, camera leading him, and we notice his unsteady gait.
+0004_Charade_00.32.15.424-00.32.15.900 	she notices her hand is shaking.
+0004_Charade_01.07.59.634-01.08.02.383 	the sound of running water can be heard coming from behind the closed door to the bathroom and dyle is the first to notice the water beginning to leak out from under the door.
+0004_Charade_01.37.43.483-01.37.45.585 	she presses the button, then notices it is in use.
+0004_Charade_01.46.56.296-01.46.58.408 	reggie, cringing back from the bright light, notices the doorknob turning.
+0006_Clerks_00.19.07.403-00.19.09.943 	dante studies a copy of paradise lost, making a strong attempt at not noticing the glare.
+0007_DIE_NACHT_DES_JAEGERS_00.14.57.913-00.14.59.206 	john notices her and sees it.
+0008_Fargo_00.19.30.141-00.19.43.076 	he finds a salve but after a moment sets it down, noticing something in the mirror.
+0009_Forrest_Gump_00.18.20.617-00.18.22.268 	he notices jenny and runs toward her.
+0009_Forrest_Gump_00.30.45.738-00.30.58.468 	forrest washes his hands, then notices an autographed photo from marilyn monroe and a photo of john with his brother bobby.
+0009_Forrest_Gump_01.06.14.133-01.06.15.533 	hilary looks over and notices the policeman.
+0009_Forrest_Gump_01.31.41.461-01.31.47.935 	forrest looks around and notices something and bends down to get a clear view.
+0014_Ist_das_Leben_nicht_schoen_00.07.25.001-00.07.26.526 	he turns back to the cash register when he notices an open telegram on the shelf.
+0014_Ist_das_Leben_nicht_schoen_00.23.12.769-00.23.14.543 	george and mary are so busy dancing they don't notice the floor opening.
+0014_Ist_das_Leben_nicht_schoen_02.03.09.970-02.03.19.855 	as he runs, he notices that the town is back in its original appearance.
+0014_Ist_das_Leben_nicht_schoen_02.03.20.961-02.03.25.029 	george notices a light in potter's office window, and races across the street.
+0016_O_Brother_Where_Art_Thou_00.31.02.262-00.31.06.391 	the three convicts notice the sheriff who once again stands impassively next to the man with the bullhorn, holding a leash against which a bloodhound strains.
+0016_O_Brother_Where_Art_Thou_00.34.10.331-00.34.11.090 	he suddenly notices a herd of cattle grazing at the roadside and murmurs.
+0016_O_Brother_Where_Art_Thou_01.40.35.421-01.40.36.682 	his voice trails off as he notices something.
+0020_Raising_Arizona_00.09.44.433-00.09.47.086 	hi notices her reaction and also sloughs off his stupor to watch.
+0020_Raising_Arizona_00.39.12.180-00.39.12.557 	the two women don't seem to notice.
+0020_Raising_Arizona_00.44.46.677-00.44.46.950 	with this hi notices her.
+0021_Rear_Window_00.08.12.436-00.08.15.190 	he notices her, but doesn't speak.
+0021_Rear_Window_00.13.23.486-00.13.26.662 	he, stops as he notice her attitude.
+0021_Rear_Window_01.01.28.114-01.01.34.695 	the long-focus lens brings miss lonely hearts into an enlarged picture which reveals details we have not previously noticed.
+0023_THE_BUTTERFLY_EFFECT_00.12.50.430-00.12.54.326 	he pretends to notice his shoe's untied and bends down to tie it.
+0026_The_Big_Fish_00.08.32.277-00.08.34.359 	a beat, then he notices a bored boy in the next row over.
+0026_The_Big_Fish_00.49.44.257-00.50.00.254 	as amos pulls karl aside to give him the hard sell, edward notices a beautiful young woman (16) leaving with her family.
+0026_The_Big_Fish_00.56.51.625-00.57.08.601 	under a full moon, edward walks up to the battered camper, and is about to knock when he notices it's rocking.
+0026_The_Big_Fish_01.03.29.084-01.03.31.194 	there's a titter from the students, but he doesn't notice.
+0026_The_Big_Fish_01.03.30.722-01.03.32.356 	the professor finally notices what's written there.
+0027_The_Big_Lebowski_00.30.10.254-00.30.25.655 	the dude does a couple of lazy crawl strokes and then notices that a bowling ball has materialized in his forward hand.
+0027_The_Big_Lebowski_01.00.06.693-01.00.07.696 	the dude looks at the stranger as if just now noticing how out of place the cowpoke is.
+0030_The_Hustler_01.06.32.223-01.06.32.727 	he sets the bottle down near the typewriter and notices the sheet of paper stuck in the typewriter's carriage.
+0031_The_Lost_Weekend_01.24.15.545-01.24.17.771 	don, not noticing, walks to his big chair.
+0031_The_Lost_Weekend_01.33.05.928-01.33.10.379 	he notices the unbuttoned points of his collar and with a rueful smile at the funny timing of his urge for tidiness, buttons one.
+0032_The_Princess_Bride_00.34.13.926-00.34.26.790 	the man in black, stepping past the corpse, taking the blindfold and bindings off buttercup, who notices vizzini lying dead.
+0033_Amadeus_00.16.03.665-00.16.08.486 	salieri turns away so as not to be noticed by the servant.
+0033_Amadeus_00.59.53.041-00.59.53.776 	we notice on his finger a heavy gold signet-ring.
+0033_Amadeus_01.27.09.977-01.27.12.336 	framed in the doorway from outside stands lorl, the maid we noticed in salieri's house.
+0033_Amadeus_02.46.43.216-02.46.45.005 	she notices a movement from the bed.
+0038_Psycho_00.10.07.649-00.10.21.514 	when the bills are away, she puts the filled envelope in her handbag, notices the remaining deed copies on her desk, picks them up, goes to the private office door, knocks, starts to open door as.
+0038_Psycho_00.35.14.797-00.35.16.814 	she notices, too, the paintings on the wall; nudes, primarily, and many with a vaguely religious overtone.
+0041_The_Sixth_Sense_00.57.25.291-00.57.29.919 	he notices cole's expression as he gets closer.
+0043_Thelma_and_Luise_00.39.46.922-00.39.48.552 	she notices how blue his eyes are.
+0049_Hannah_and_her_sisters_00.30.50.189-00.30.54.050 	mickey is so dazed, he doesn't even notice.
+0050_Indiana_Jones_and_the_last_crusade_00.27.04.925-00.27.08.859 	we notice, along with indy and brody, that the library contains many stained-glass windows.
+0050_Indiana_Jones_and_the_last_crusade_00.27.08.271-00.27.11.271 	indy glances at the columns, then notices a stained-glass window that depicts a knight of the crusades.
+0050_Indiana_Jones_and_the_last_crusade_00.27.24.997-00.27.32.931 	indy whips out the grail diary and opens it to the sketch he noticed in the airplane.
+0050_Indiana_Jones_and_the_last_crusade_00.27.32.931-00.27.36.157 	brody glances at the diary, then at the window -- noticing that the roman numerals in question have been worked into the window's design.
+0050_Indiana_Jones_and_the_last_crusade_01.41.04.218-01.41.06.063 	we don't notice it right away, but the dead soldier has been decapitated.
+0050_Indiana_Jones_and_the_last_crusade_01.47.19.310-01.47.25.386 	indy looks around and then he notices that inscribed into the rock above his head is the head of a lion.
+0051_Men_in_black_00.29.32.367-00.29.33.073 	as they pass an alcove, edwards notices the six other recruits, who have been herded into a corner.
+0051_Men_in_black_01.07.57.473-01.08.00.994 	jay suddenly notices frank the pug bark at a cat farther down the sidewalk.
+0053_Rendezvous_mit_Joe_Black_00.16.14.969-00.16.20.200 	it is sharp but brief, he notices it but what it does not continue, he ignores it.
+0053_Rendezvous_mit_Joe_Black_01.01.19.338-01.01.25.112 	as she finishes, she suddenly notices joe down the corridor in the reception area.
+1001_Flight_00.27.19.061-00.27.27.983 	whip averts his gaze from the screen and notices a man in the room.
+1001_Flight_01.27.52.824-01.27.56.022 	she notices cocaine on the table.
+1002_Harry_Potter_and_the_Half-Blood_Prince_02.20.29.597-02.20.32.203 	harry notices a new portrait.
+1003_How_to_Lose_Friends_and_Alienate_People_00.06.08.827-00.06.09.237 	noticing this, thandie frowns.
+1004_Juno_00.45.20.259-00.45.23.546 	juno notices a vhs.
+1005_Signs_00.39.01.375-00.39.05.227 	merrill then peers casually over his shoulder and notices his downcast brother.
+1005_Signs_00.54.34.089-00.54.41.998 	returning his attention to the front, he notices a blood stain on gray's check shirt.
+1006_Slumdog_Millionaire_00.05.02.501-00.05.07.413 	he notices that jamal's eyes are closed and that he's dribbling.
+1006_Slumdog_Millionaire_00.46.58.000-00.47.08.165 	the audience are mesmerized by the performance and fail to notice the boys stealing handbags and purses from between people's legs.
+1006_Slumdog_Millionaire_01.01.03.833-01.01.12.663 	none of the men notices salim as he steps onto the balcony and swaggers over.
+1006_Slumdog_Millionaire_01.17.03.154-01.17.06.519 	the young woman notices jamal lurking at the entrance as a guard closes the gates.
+1006_Slumdog_Millionaire_01.28.37.714-01.28.42.427 	he notices at the bottom of the mirror the letter b has been written in the condensation.
+1007_Spider-Man1_01.26.26.232-01.26.30.026 	still in costume, he notices blood trickling down his arm, ready to drop.
+1007_Spider-Man1_01.27.54.487-01.27.56.644 	aunt may notices blood seeping through peter's shirt.
+1008_Spider-Man2_00.06.40.767-00.06.44.475 	he picks up the pizza boxes, then notices something stuck to the top.
 1008_Spider-Man2_00.16.15.426-00.16.22.399 	he strides to the bottom of the garden, not noticing mj sitting on the steps of the house next door.
+1008_Spider-Man2_01.03.52.067-01.03.55.569 	he notices a newspaper hanging over the side.
+1015_27_Dresses_00.37.30.943-00.37.35.275 	her smile fades as she notices pictures of him and tess on the desk.
+1015_27_Dresses_01.28.57.572-01.29.01.675 	tess freezes as she notices jane.
+1015_27_Dresses_01.36.00.429-01.36.13.883 	she hurriedly jumps into the cab, then notices it's the same driver as the night of the two weddings.
+1018_Body_Of_Lies_00.42.22.629-00.42.31.807 	a young man with his black hair swept back locks a car, then notices a tourist lining up a photograph.
+1018_Body_Of_Lies_01.14.34.283-01.14.39.647 	he notices the french windows are open and goes to have a look.
+1019_Confessions_Of_A_Shopaholic_00.41.40.734-00.41.43.663 	rebecca notices the man's name tag.
+1020_Crazy_Stupid_Love_01.16.43.649-01.16.47.235 	he notices cal eying him and raises his brows in acknowledgment.
 1020_Crazy_Stupid_Love_01.19.40.428-01.19.41.419 	but she passes without noticing it.
+1024_Identity_Thief_00.44.26.770-00.44.29.385 	a husky bearded man in a cowboy hat notices her.
+1024_Identity_Thief_00.44.46.439-00.44.52.432 	looking up, she notices his mercedes car key and thick gold ring on his pinky.
+1024_Identity_Thief_00.52.28.324-00.52.29.760 	she notices sandy's wallet and phone by the room key on the dresser.
+1024_Identity_Thief_00.55.58.110-00.56.00.833 	he notices the abduction through the window.
+1024_Identity_Thief_00.59.12.436-00.59.15.666 	diana notices a merge up ahead.
+1024_Identity_Thief_01.29.04.236-01.29.06.436 	noticing them, diana's eyes widen.
+1028_No_Reservations_00.37.26.547-00.37.33.824 	kate notices the two of them talking and looks over at them disapprovingly.
+1030_Public_Enemies_00.14.30.856-00.14.33.856 	 he notices a few dollars in change set out on the counter and faces the customer it belongs to.
+1030_Public_Enemies_00.15.42.783-00.15.46.918 	dillinger notices his young hostage shivering.
+1030_Public_Enemies_00.31.46.287-00.31.48.772 	she notices dillinger as a male guest holds out his coat to her.
 1030_Public_Enemies_01.28.24.679-01.28.25.346 	but they fail to notice him.
 1030_Public_Enemies_01.42.56.370-01.43.05.653 	they fail to notice dillinger, who strides around a parked car and returns to his vehicle.
+1033_Sherlock_Holmes_A_Game_of_Shadows_00.08.04.725-00.08.11.632 	he feels for a pulse, then notices a tiny dart in the man's thigh.
+1033_Sherlock_Holmes_A_Game_of_Shadows_00.40.39.456-00.40.41.835 	watson notices some soldiers.
+1033_Sherlock_Holmes_A_Game_of_Shadows_01.05.43.233-01.05.46.900 	as they make their way backstage, they don't notice moriarty's agent lurking in the shadows.
+1033_Sherlock_Holmes_A_Game_of_Shadows_01.17.54.902-01.17.56.715 	he strolls through it and notices something.
 1034_Super_8_01.04.06.275-01.04.10.257 	as she stares at the wreck, she doesn't notice a massive creature moving behind her.
 1034_Super_8_01.32.13.442-01.32.17.475 	they notice the creature is holding what appears to be a severed human leg.
+1035_The_Adjustment_Bureau_00.17.41.839-00.17.43.102 	she notices him and beams.
+1035_The_Adjustment_Bureau_00.36.36.742-00.36.38.872 	a short distance ahead, he notices a dark-haired woman striding down the sidewalk.
+1035_The_Adjustment_Bureau_00.58.45.167-00.58.51.356 	she notices the vacant spot beside her and sits up.
 1035_The_Adjustment_Bureau_01.38.14.907-01.38.39.102 	later smiling, the two walk hand in hand down a busy sidewalk noticing every hat-wearing man they pass.
+1038_The_Great_Gatsby_00.58.36.915-00.58.39.961 	daisy and gatsby don't notice and continue looking deep into each other's eyes, smiling at each other.
+1038_The_Great_Gatsby_01.02.38.237-01.02.40.804 	noticing the change in daisy's mood, gatsby goes down to the bed where she sits.
 1041_This_is_40_01.41.17.371-01.41.21.561 	they notice desi swimming.
+1042_Up_In_The_Air_01.11.33.845-01.11.35.036 	ryan notices a second counter with no queue.
 1047_Defiance_00.03.44.551-00.03.47.688 	zus puts down the saw he's carrying, noticing something in the doorway of the farmhouse.
-1048_Gran_Torino_00.33.58.231-00.34.01.061 	the black guys notice walt.
+1047_Defiance_00.18.53.049-00.18.56.068 	then notices smoke from a small fire.
+1048_Gran_Torino_00.50.18.986-00.50.22.944 	he notices them looking.
+1049_Harry_Potter_and_the_chamber_of_secrets_01.12.38.182-01.12.44.820 	still kneeling beside the petrified justin, harry notices a line of spiders quickly scuttling across the floor.
+1049_Harry_Potter_and_the_chamber_of_secrets_01.27.08.790-01.27.16.142 	as she floats past, harry notices a book with a limp, black leather cover lying on the stone floor.
+1049_Harry_Potter_and_the_chamber_of_secrets_01.51.37.867-01.51.40.532 	he notices something clutched in her clenched fingers.
+1049_Harry_Potter_and_the_chamber_of_secrets_01.58.11.997-01.58.15.064 	he notices a raised decoration on the side of it.
+1049_Harry_Potter_and_the_chamber_of_secrets_02.00.38.664-02.00.42.109 	ron notices the bones on the ground.
+1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.57.04.370-00.57.08.311 	harry notices two passive pink shoes placed neatly on the floor.
+1051_Harry_Potter_and_the_goblet_of_fire_00.01.39.357-00.01.44.504 	through the kitchen window, he notices a light in the big house.
+1051_Harry_Potter_and_the_goblet_of_fire_01.36.38.427-01.36.47.875 	as harry struggles towards the surface with ron and the little girl, he notices his hands are no longer webbed.
 1052_Harry_Potter_and_the_order_of_phoenix_01.04.18.137-01.04.24.515 	ron and hermione exchange a smile when they notice that harry is watching cho.
+1055_Marley_and_me_00.54.11.000-00.54.12.108 	he notices the dog watching the young couple.
+1055_Marley_and_me_00.54.37.633-00.54.42.733 	she notices the car, shows patrick, and waves to her husband, who waves back with a smile.
+1056_Rambo_01.15.17.311-01.15.20.731 	bn notices the patrol boat as it rounds a headland in the river.
 1057_Seven_pounds_01.50.12.782-01.50.19.674 	suddenly noticing the empty space beside her in the bed, she sits up and scans about.
+1060_Yes_man_01.21.33.060-01.21.37.463 	carl notices the mustache is slipping and sticks it back in place.
+1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.51.27.000-01.51.28.842 	he notices they are holding hands.
+1062_Day_the_Earth_stood_still_01.17.52.099-01.17.55.760 	he's about to leave, when he notices the old drill bit.
+1062_Day_the_Earth_stood_still_01.31.49.129-01.32.00.153 	she frantically undoes her seat belt, looks at michael, and notices the windscreen is being eaten.
+2004_Juno_00.34.58.146-00.35.01.705 	mac notices a brand new pilates machine sitting in its packaging in a corner of the room.
+2004_Juno_01.13.05.582-01.13.07.064 	vanessa and mark look over and notice that juno has escaped the conflict.
 2005_Signs_00.38.46.844-00.38.48.807 	the children don't notice his presence.
 2017_Bad_Santa_00.22.00.541-00.22.03.629 	they notice him.
+2017_Bad_Santa_01.22.44.730-01.22.47.468 	the table makes a loud noise, but it's too chaotic on the floor for anyone to notice.
 2026_Legion_00.01.49.463-00.01.52.311 	then we notice something moving in the reflection.
-2026_Legion_01.17.46.860-01.17.50.001 	and now that we see the his face clearly, we notice his striking resemblance to michael.
-1057_Seven_pounds_01.50.12.782-01.50.19.674 	suddenly noticing the empty space beside her in the bed, she sits up and scans about.
-2005_Signs_00.38.46.844-00.38.48.807 	the children don't notice his presence.
-2017_Bad_Santa_00.22.00.541-00.22.03.629 	they notice him.
-2026_Legion_00.01.49.463-00.01.52.311 	then we notice something moving in the reflection.
+2026_Legion_00.18.43.544-00.18.53.759 	jeep is about to turn back to the garage when he notices something off in the distance.
+2026_Legion_00.57.05.566-00.57.10.195 	sandra notices the transom window above the door.
+2026_Legion_01.09.32.688-01.09.36.010 	she notices the open door to the minivan.
 2026_Legion_01.17.46.860-01.17.50.001 	and now that we see the his face clearly, we notice his striking resemblance to michael.
 2034_Super_8_00.41.48.387-00.42.05.856 	he stops, noticing four military trucks driving past, slowly, antennas atop the trucks, and the men inside seemingly scanning the area.
+2034_Super_8_01.17.34.072-01.17.36.181 	doesn't notice the movement in the distance behind him.
+2041_This_is_40_00.56.04.683-00.56.07.648 	he sees larry and turns around before anyone notices him.
+2054_Harry_Potter_and_the_prisoner_of_azkaban_00.10.55.184-00.10.58.053 	as harry rights himself, he notices the headline of stan's daily prophet: escape from azkaban!
+2054_Harry_Potter_and_the_prisoner_of_azkaban_01.51.26.733-01.51.30.630 	just then on the ground beside her hermione notices a jagged star-shaped stone.

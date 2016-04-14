@@ -1,0 +1,3 @@
+SPARKLE_2012.srt 	SPARKLE_2012_DVS380 	01:03:50,00 --> 01:04:00,50 	sister glances across the room to someone, who initiates applause.
+THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS618 	01:08:13,00 --> 01:08:20,50 	in the cottage, someone initiates a slideshow of the parade photos.
+THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1374 	02:27:43,00 --> 02:27:49,50 	then initiates a transaction on the website for dorfman bank.

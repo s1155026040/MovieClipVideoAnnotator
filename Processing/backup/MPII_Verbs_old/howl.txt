@@ -1,6 +1,6 @@
-0033_Amadeus_01.15.47.073-01.15.49.516 	The dog howls louder.
-0043_Thelma_and_Luise_01.16.41.684-01.16.49.536 	Thelma howls like a dog and drinks a little bottle of Wild Turkey.
-0043_Thelma_and_Luise_01.53.19.302-01.53.26.839 	Thelma and Louise are both howling at the top of their lungs.
-1051_Harry_Potter_and_the_goblet_of_fire_02.09.55.247-02.10.02.157 	voldemort howls with frustration.
+0017_Pianist_01.26.29.019-01.26.30.691 	howling wind.
+0033_Amadeus_01.14.54.512-01.14.56.044 	instantly a dog howls loudly.
+0033_Amadeus_01.15.47.073-01.15.49.516 	the dog howls louder.
+0043_Thelma_and_Luise_01.53.19.302-01.53.26.839 	thelma and louise are both howling at the top of their lungs.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_01.40.40.541-01.40.43.536 	it howls to the moon.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_01.40.40.541-01.40.43.536 	it howls to the moon.
+1062_Day_the_Earth_stood_still_00.02.43.978-00.02.49.726 	he moves forward as the wind howls around him.

@@ -1,16 +1,7 @@
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS64 	00:07:20,00 --> 00:07:24,50 	the bikers scatter.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS185 	00:16:24,00 --> 00:16:38,50 	someone rolls on the ground as frantic civilians scatter through the smoke and someone.
-BAD_TEACHER.srt 	BAD_TEACHER_DVS312 	01:24:17,00 --> 01:24:29,50 	now in the gym, someone collects scattered dodge balls and sets them in a bag.
-COLOMBIANA.srt 	COLOMBIANA_DVS317 	00:27:37,00 --> 00:27:43,50 	as fearful bystanders scatter, someone angrily faces his niece.
-EASY_A.srt 	EASY_A_DVS100 	00:33:41,00 --> 00:33:47,50 	the eavesdroppers scatter as someone opens the door.
-FLIGHT.srt 	FLIGHT_DVS71 	00:14:35,00 --> 00:14:42,50 	she flings her bag on a table and it hits a box, which falls and scatters its contents.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS483 	01:10:22,00 --> 01:10:30,50 	at dusk above the darkened horizon, scattered clouds roll across the sky.
-GROWN_UPS.srt 	GROWN_UPS_DVS135 	00:41:59,00 --> 00:42:06,50 	he retrieves more and scatters it into the air with an underhand throw.
 IN_TIME.srt 	IN_TIME_DVS390 	00:40:50,00 --> 00:40:56,50 	ahead, the elegant guests scatter as someone and his men march in.
 IN_TIME.srt 	IN_TIME_DVS669 	01:12:29,00 --> 01:12:41,50 	the customers scatter as a truck barrels through the bank's glass walls.
-IN_TIME.srt 	IN_TIME_DVS768 	01:20:58,00 --> 01:21:04,50 	the minutemen's car pulls up next to a group of guys who scatter.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS837 	01:24:58,00 --> 01:25:05,50 	as they burst apart, the squid becomes a school of scattering fish.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS976 	01:36:23,00 --> 01:36:27,50 	they scatter among bones on the ground.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS1004 	01:38:37,00 --> 01:38:44,50 	the meerkats scatter up the branches around someone.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS407 	01:41:51,00 --> 01:41:55,50 	village and people scatter.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS838 	01:35:09,00 --> 01:35:19,50 	his foot kicks an empty bottle on the floor as he moves into a neglected room scattered with papers, books, and trash.

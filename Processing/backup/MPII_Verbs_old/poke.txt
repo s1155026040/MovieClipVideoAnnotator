@@ -1,25 +1,33 @@
-0005_Chinatown_01.11.30.029-01.11.30.930 	The Crippled Farmer pokes him rudely in the back with his crutch.
-0006_Clerks_00.10.14.937-00.10.19.823 	She pokes the extinguisher nozzle at him, warningly.
-0011_Gandhi_00.09.39.421-00.09.43.517 	We see Mr. Baker, a wealthy white lawyer, whose home this is, poking at the fire, slightly amused at Gandhi's Na vet.
-0014_Ist_das_Leben_nicht_schoen_00.14.30.496-00.14.34.500 	Pop is smiling and poking his plate.
-0014_Ist_das_Leben_nicht_schoen_01.51.06.275-01.51.17.009 	George, still looking at him, goes up to him and pokes his arm.
-0016_O_Brother_Where_Art_Thou_00.09.16.424-00.09.29.290 	He pokes his rifle at the three men, who raise their hands.
-0016_O_Brother_Where_Art_Thou_00.54.02.312-00.54.03.698 	He pokes around the straw with his finger; nothing else inside.
-0016_O_Brother_Where_Art_Thou_01.39.29.757-01.39.32.772 	The inundated valley shows only the occasional roof- or treetop poking out of the newly formed river.
-0017_Pianist_01.44.55.233-01.45.01.120 	When he turns back to look towards the T-junction, he sees a Panzerfaust anti-tank rocket firer poking out from a window in the next-door building but on the floor below.
-0019_Pulp_Fiction_01.34.55.566-01.34.58.180 	A PEDESTRIAN pokes his head inside.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.53.58.604-01.54.10.898 	GORBAG peer curiously at FRODO as he leans down and pokes at FRODO'S LIFELESS BODY.
-0026_The_Big_Fish_00.55.02.415-00.55.03.662 	The beast's sharp teeth are just poking his skin.
-0030_The_Hustler_00.01.59.575-00.02.11.170 	He downs his bourbon, weaves a bit, bends over the table, and awkwardly pokes at the white cue ball with his stick, missing an easy shot.
-0038_Psycho_00.16.07.067-00.16.12.651 	She glances at him nervously, pokes in her bag a bit more, sighs, realizes she'll have to remove some of its contents.
-0046_Chasing_Amy_00.21.45.306-00.21.46.557 	Holden pokes her.
-1005_Signs_01.22.23.972-01.22.25.638 	A clawed hand pokes through the grill and grabs Morgan's throat.
-1005_Signs_01.22.34.680-01.22.43.347 	As he runs away from the call shoot, he kicks the torch which rolls around to pick out Bo's legs, poking out from beneath her silky blue dress as she presses herself up against the wall.
+0005_Chinatown_01.11.30.029-01.11.30.930 	the crippled farmer pokes him rudely in the back with his crutch.
+0006_Clerks_00.10.14.937-00.10.19.823 	she pokes the extinguisher nozzle at him, warningly.
+0011_Gandhi_00.09.39.421-00.09.43.517 	we see mr. baker, a wealthy white lawyer, whose home this is, poking at the fire, slightly amused at gandhi's na vet.
+0014_Ist_das_Leben_nicht_schoen_00.14.30.496-00.14.34.500 	pop is smiling and poking his plate.
+0014_Ist_das_Leben_nicht_schoen_01.51.06.275-01.51.17.009 	george, still looking at him, goes up to him and pokes his arm.
+0016_O_Brother_Where_Art_Thou_00.09.16.424-00.09.29.290 	he pokes his rifle at the three men, who raise their hands.
+0016_O_Brother_Where_Art_Thou_00.54.02.312-00.54.03.698 	he pokes around the straw with his finger; nothing else inside.
+0016_O_Brother_Where_Art_Thou_01.39.29.757-01.39.32.772 	the inundated valley shows only the occasional roof- or treetop poking out of the newly formed river.
+0017_Pianist_01.44.55.233-01.45.01.120 	when he turns back to look towards the t-junction, he sees a panzerfaust anti-tank rocket firer poking out from a window in the next-door building but on the floor below.
+0019_Pulp_Fiction_01.34.55.566-01.34.58.180 	a pedestrian pokes his head inside.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.53.58.604-01.54.10.898 	gorbag peer curiously at frodo as he leans down and pokes at frodo's lifeless body.
+0026_The_Big_Fish_00.55.02.415-00.55.03.662 	the beast's sharp teeth are just poking his skin.
+0046_Chasing_Amy_00.21.45.306-00.21.46.557 	holden pokes her.
+1005_Signs_01.22.34.680-01.22.43.347 	as he runs away from the call shoot, he kicks the torch which rolls around to pick out bo's legs, poking out from beneath her silky blue dress as she presses herself up against the wall.
+1008_Spider-Man2_00.54.29.786-00.54.31.507 	a limb pokes through the wall.
+1012_Unbreakable_01.28.41.139-01.28.45.806 	through the bubbles, a pole appears, poking down from a blurred figure at the pool side.
+1024_Identity_Thief_00.03.27.865-00.03.31.605 	as a few of them reach down and poke her, she springs up.
+1024_Identity_Thief_00.12.29.202-00.12.30.668 	he pokes her.
+1026_Legion_01.21.12.134-01.21.13.839 	blades poke out of gabriel's mace.
+1028_No_Reservations_00.25.11.796-00.25.17.516 	kate pokes her head around the open door, then tries to enter her own bedroom.
+1029_Pride_And_Prejudice_Disk_One_00.46.17.664-00.46.25.331 	lydia and kitty poke their heads out of the window excitedly to get a better look at the grand red brick facade of netherfield hall.
+1041_This_is_40_01.29.36.862-01.29.39.603 	he pokes her several times.
+1042_Up_In_The_Air_00.27.27.233-00.27.28.693 	julie and jim's smiling faces are poking out of the top.
+1042_Up_In_The_Air_01.02.43.107-01.02.46.756 	julie and jim poke out of the top, looking a little wrinkled and worn.
+1049_Harry_Potter_and_the_chamber_of_secrets_00.33.04.910-00.33.06.507 	showing off, draco malfoy pokes his finger into his mandrake's mouth.
+1049_Harry_Potter_and_the_chamber_of_secrets_01.15.52.991-01.15.55.294 	a tiny head pokes out from the pile of black ash.
 1053_Harry_Potter_and_the_philosophers_stone_00.10.27.062-00.10.40.166 	vernon smiles at him sadistically as he pokes the fire and the flames turn the letters to ashes.
 1056_Rambo_00.04.16.827-00.04.20.154 	a mustachioed local man in a baseball cap and a striped t- shirt pokes undergrowth with a stick.
 1059_The_devil_wears_prada_00.34.12.100-00.34.14.125 	he pokes her forehead.
 2005_Signs_00.07.25.172-00.07.26.676 	morgan pokes the barbecue fork into two meat patties on the grill.
 2040_The_Ugly_Truth_00.53.34.545-00.53.46.765 	she pokes her head under the table to see that the contents of her purse have spilled.
-2041_This_is_40_01.24.59.762-01.25.01.431 	charlotte pokes sadie with her wet fingers.
 2041_This_is_40_01.29.37.623-01.29.41.335 	he pokes her shoulder.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_01.56.00.543-01.56.04.616 	as the whomping willow begins to thrash, its violence oddly muted at this distance, lupin takes a stick, pokes a knot on the trunk.

@@ -1,5 +1,4 @@
 BRUNO.srt 	BRUNO_DVS258 	01:12:37,00 --> 01:12:47,50 	as the fighting ceases, two confused female audience members exchange a glance.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS539 	00:52:19,00 --> 00:52:27,50 	he sees blond across the parking lot exchanging a small plastic bag for money with a scowling bully.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS397 	01:01:16,00 --> 01:01:20,50 	they exchange smiles.
 IN_TIME.srt 	IN_TIME_DVS261 	00:26:43,00 --> 00:26:49,50 	the two front desk clerks exchange a look.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS216 	00:41:58,00 --> 00:42:02,50 	they exchange half smiles.
@@ -7,12 +6,7 @@ ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS383 	01:47:30,00 --> 01:47:34,50 	they e
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS672 	01:23:36,00 --> 01:23:41,50 	reader and yates exchange a glance.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS304 	01:06:13,00 --> 01:06:18,50 	the boys exchange a look.
 SALT.srt 	SALT_DVS17 	00:02:43,00 --> 00:02:50,50 	american border mps exchange a north korean man for the blonde woman and her escort.
-SUPER_8.srt 	SUPER_8_DVS237 	00:40:13,00 --> 00:40:17,50 	she steps back and they exchange smiles.
-SUPER_8.srt 	SUPER_8_DVS284 	00:51:05,00 --> 00:51:11,50 	someone and someone exchanged glances as someone takes the camera off the tripod.
-SUPER_8.srt 	SUPER_8_DVS615 	01:40:07,00 --> 01:40:14,50 	someone and someone walk together toward someone and someone who exchange glances.
 THE_CALL.srt 	THE_CALL_DVS1141 	01:25:54,00 --> 01:26:00,50 	the two survivors exchange a knowing look.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS782 	01:30:14,00 --> 01:30:20,50 	they both glance over at harold's house, then exchange a look.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS525 	00:48:13,00 --> 00:48:21,50 	logan puffs on his cigar and the two recruiters exchange a resigned look.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS631 	00:58:31,00 --> 00:58:36,50 	they exchange a look and someone faces someone.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS533 	01:02:37,00 --> 01:02:42,50 	they exchange a collegial nod.
 ZOOKEEPER.srt 	ZOOKEEPER_DVS330 	01:13:52,00 --> 01:13:56,50 	and exchange a glance.

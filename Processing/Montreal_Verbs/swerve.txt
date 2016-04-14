@@ -1,24 +1,6 @@
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS452 	01:14:22,00 --> 01:14:27,50 	someone swerves into another traffic lane.
-21_JUMP_STREET.srt 	21_JUMP_STREET_DVS458 	01:14:55,00 --> 01:15:02,50 	as the gang leader swerves, a truck hauling chickens blocks his path.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS288 	00:24:47,00 --> 00:24:54,50 	as he attempts to stop swerving cars, an suv hits him head on.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS318 	00:28:19,00 --> 00:28:26,50 	he swerves repeatedly into the truck's side, and smoke billows from its front end.
-A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS144 	00:29:52,00 --> 00:29:59,50 	cars swerve around him as he walks across the street tapping his cane.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS151 	00:30:13,00 --> 00:30:19,50 	a car swerves sideways, another car rams into it.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS232 	00:40:25,00 --> 00:40:33,50 	someone hangs on to the top of the cab as someone swerves several times, then turns sharply down an alley.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS188 	00:14:37,00 --> 00:14:44,50 	he crouches down, swerves his board back to the lip, and rides it back down.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS1116 	01:46:54,00 --> 01:47:01,50 	someone swerves right and shoots through the hollow, letting the wave curl over him.
-COLOMBIANA.srt 	COLOMBIANA_DVS316 	00:27:33,00 --> 00:27:39,50 	it swerves off the road and hits a fire hydrant, knocking it from it base.
-COLOMBIANA.srt 	COLOMBIANA_DVS1064 	01:39:37,00 --> 01:39:46,50 	with a frantic look, he pulls onto the main road leading out of his estate, passes through the front gate and swerves onto a street.
-FLIGHT.srt 	FLIGHT_DVS142 	00:26:45,00 --> 00:26:54,50 	on tv, cell phone footage shows the descent of the plane, as it swerves and slices off the church steeple.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS177 	00:28:45,00 --> 00:29:12,50 	someone swipes at the boy as the suv swerves wildly then fishtails.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS562 	01:20:11,00 --> 01:20:32,50 	the rear driver spots him and swerves left, blocking his path.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS565 	01:20:53,00 --> 01:21:18,50 	the cannon truck swerves before it, the shooter firing relentlessly.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS580 	01:24:09,00 --> 01:24:16,50 	the suv swerves off the road then flips end over end.
 IN_TIME.srt 	IN_TIME_DVS434 	00:46:32,00 --> 00:46:49,50 	someone veers into the oncoming lane and swerves around the approaching cars.
-IN_TIME.srt 	IN_TIME_DVS615 	01:05:53,00 --> 01:06:01,50 	he swerves around a corner onto a main road and halts the cruiser directly across a limousine's path.
-PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS221 	00:57:29,00 --> 00:57:38,50 	someone swerves away from the big rig, then cuts across approaching traffic as he returns to the proper lane.
-PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS316 	01:19:18,00 --> 01:19:35,50 	cutting through a busy intersection, the maserati swerves into the flow of traffic, then races past the other cars.
-SUPER_8.srt 	SUPER_8_DVS504 	01:25:44,00 --> 01:25:52,50 	ahead, an armored tank fires at the car someone swerves into a driveway as the tank passes behind them.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS149 	00:23:20,00 --> 00:23:25,50 	other cars swerve on all sides.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1201 	02:07:32,00 --> 02:07:38,50 	as someone struggles to drive, the suv swerves.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1213 	02:08:22,00 --> 02:08:29,50 	he swerves through a wooden fence, banks off a low stonewall and goes airborne.

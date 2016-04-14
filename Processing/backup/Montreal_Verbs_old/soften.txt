@@ -1,0 +1,24 @@
+A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS82 	00:06:22,00 --> 00:06:28,50 	someone's stony expression softens as he shifts his gaze.
+A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS627 	01:04:50,00 --> 01:04:57,50 	standing behind his son, he looks at someone and his expression softens.
+ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS537 	01:16:02,00 --> 01:16:11,50 	someone's expression softens as she stares towards the windows, one hand tucked behind her head.
+CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS242 	00:59:35,00 --> 00:59:39,50 	someone softens his gaze.
+COLOMBIANA.srt 	COLOMBIANA_DVS782 	01:15:42,00 --> 01:15:46,50 	someone's gaze softens.
+GREEN_ZONE.srt 	GREEN_ZONE_DVS448 	01:38:03,00 --> 01:38:15,50 	someone's glare softens into a stunned gape and he lowers his weapon.
+IN_TIME.srt 	IN_TIME_DVS575 	01:01:07,00 --> 01:01:11,50 	his expression softens.
+ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS85 	00:25:56,00 --> 00:26:00,50 	someone's face softens.
+KARATE_KID.srt 	KARATE_KID_DVS398 	00:35:53,00 --> 00:35:57,50 	her face softens.
+KARATE_KID.srt 	KARATE_KID_DVS1336 	01:48:06,00 --> 01:48:11,50 	someone's expression softens fondly.
+LARRY_CROWNE.srt 	LARRY_CROWNE_DVS262 	01:02:38,00 --> 01:02:55,50 	she sways slightly, her hands joint beneath her chin and her gaze softens.
+LIFE_OF_PI.srt 	LIFE_OF_PI_DVS621 	01:07:32,00 --> 01:07:40,50 	staring him down, someone's gaze softens.
+LIFE_OF_PI.srt 	LIFE_OF_PI_DVS666 	01:10:50,00 --> 01:10:55,50 	someone stares with a softened remorseful gaze.
+LIFE_OF_PI.srt 	LIFE_OF_PI_DVS758 	01:18:26,00 --> 01:18:32,50 	someone's gaze softens as he watches the dominated cat.
+RUBY_SPARKS.srt 	RUBY_SPARKS_DVS126 	00:22:03,00 --> 00:22:09,50 	under her vulnerable gaze, someone's expression softens.
+SALT.srt 	SALT_DVS377 	01:07:17,00 --> 01:07:26,50 	someone's gaze softens.
+SPARKLE_2012.srt 	SPARKLE_2012_DVS188 	00:30:54,00 --> 00:31:00,50 	she softens and leans forward.
+THE_CALL.srt 	THE_CALL_DVS549 	00:42:14,00 --> 00:42:20,50 	frozen in place, his frenzied gaze softens on the trunk.
+THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS200 	00:33:17,00 --> 00:33:23,50 	as someone sinks down in a chair, someone's gaze softened.
+THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS70 	00:05:53,00 --> 00:05:59,50 	someone meets her gaze and his expression softens wearily.
+THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS72 	00:25:38,00 --> 00:25:44,50 	someone's expression softens, then turns thoughtful again.
+THE_VOW.srt 	THE_VOW_DVS430 	01:00:42,00 --> 01:00:47,50 	lilys gaze softens, sympathetically.
+THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS273 	00:50:58,00 --> 00:51:05,50 	the agent's expression softens affectionately and he faces the painting.
+WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS271 	00:43:52,00 --> 00:43:57,50 	someone's gaze softens appreciatively.

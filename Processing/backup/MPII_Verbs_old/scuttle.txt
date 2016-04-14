@@ -1,10 +1,8 @@
-0007_DIE_NACHT_DES_JAEGERS_01.04.41.951-01.04.52.152 	He vanishes; scuttling of children in hay, o.s.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.02.12.699-02.02.28.554 	They hurry towards a distant door.as Goblins start scuttling down the Pillars behind them, like cockroaches!
-0033_Amadeus_00.00.46.887-00.00.49.567 	A cat scuttles swiftly between their bare legs, as they reach the salon door.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.10.10.768-01.10.16.494 	She scuttles away, as Cormac comes through the drapes.
-1007_Spider-Man1_00.10.26.929-00.10.33.157 	It lands on the gray, carpeted floor and scuttles away.
-1008_Spider-Man2_01.24.09.188-01.24.09.876 	octavius scuttles like a spider out of harry's sight.
-1026_Legion_00.26.17.689-00.26.21.195 	leaps onto the window blinds and scuttles up them to an inverted v-shaped ceiling, which she scampers over.
+0007_DIE_NACHT_DES_JAEGERS_01.04.41.951-01.04.52.152 	he vanishes; scuttling of children in hay, o.s.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.02.12.699-02.02.28.554 	they hurry towards a distant door.as goblins start scuttling down the pillars behind them, like cockroaches!
+0033_Amadeus_00.00.46.887-00.00.49.567 	a cat scuttles swiftly between their bare legs, as they reach the salon door.
+1002_Harry_Potter_and_the_Half-Blood_Prince_01.10.10.768-01.10.16.494 	she scuttles away, as cormac comes through the drapes.
+1007_Spider-Man1_00.10.26.929-00.10.33.157 	it lands on the gray, carpeted floor and scuttles away.
 1034_Super_8_01.32.23.882-01.32.24.548 	it scuttles off.
 1039_The_Queen_01.36.40.090-01.36.44.537 	the queen and tony descend the stairs with a corgi scuttling ahead.
 1049_Harry_Potter_and_the_chamber_of_secrets_00.43.51.543-00.43.56.907 	they scuttle across the floor, up the wall, over the stone window sill, and out through a crack in the glass.
@@ -19,9 +17,4 @@
 1053_Harry_Potter_and_the_philosophers_stone_01.11.47.000-01.11.52.775 	he scuttles out of the way, as the troll reels dizzily around then crashes heavily to the ground.
 1056_Rambo_01.17.04.807-01.17.08.239 	a couple of straggling troopers scuttle away.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.40.35.000-00.40.37.000 	characters abandon the portraits and scuttle away.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.46.49.000-01.46.51.235 	harry scuttles backwards away from him.
-1053_Harry_Potter_and_the_philosophers_stone_01.11.47.000-01.11.52.775 	he scuttles out of the way, as the troll reels dizzily around then crashes heavily to the ground.
-1056_Rambo_01.17.04.807-01.17.08.239 	a couple of straggling troopers scuttle away.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.40.35.000-00.40.37.000 	characters abandon the portraits and scuttle away.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.46.49.000-01.46.51.235 	harry scuttles backwards away from him.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_00.16.07.500-00.16.10.686 	seconds later, the book scuttles into view and harry pounces -- flumph!

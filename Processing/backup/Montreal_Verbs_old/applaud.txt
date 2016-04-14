@@ -1,0 +1,8 @@
+21_JUMP_STREET.srt 	21_JUMP_STREET_DVS221 	00:37:42,00 --> 00:37:48,50 	someone applauds delightedly.
+21_JUMP_STREET.srt 	21_JUMP_STREET_DVS478 	01:18:02,00 --> 01:18:07,50 	in the audience someone applauds over his head.
+CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS269 	00:49:10,00 --> 00:49:20,50 	sitting in the audience, the senator gazes behind himself at the applauding crowd and nods to his assistant.
+CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS320 	01:19:21,00 --> 01:19:25,50 	the sports writers applaud.
+HUGO.srt 	HUGO_DVS787 	01:54:33,00 --> 01:54:39,50 	sitting with someone and someone, someone smiles as he applauds.
+IRON_MAN_2.srt 	IRON_MAN_2_DVS85 	00:16:51,00 --> 00:16:57,50 	they stand and applaud.
+KARATE_KID.srt 	KARATE_KID_DVS1460 	01:59:10,00 --> 01:59:16,50 	as someone and someone stand, the people around them applaud.
+THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS502 	01:52:11,00 --> 01:52:16,50 	he beams at the applauding group, then hands out food.

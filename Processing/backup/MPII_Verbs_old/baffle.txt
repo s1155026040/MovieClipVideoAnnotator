@@ -1,2 +1,9 @@
-0021_Rear_Window_00.31.15.264-00.31.21.730 	The pleasantness on Jeff's face slowly melts into baffled discouragement.
-0032_The_Princess_Bride_00.19.40.403-00.19.44.238 	He glances up--the question clearly baffles him.
+0001_American_Beauty_00.57.23.434-00.57.23.619 	he looks over lester's application, baffled.
+0001_American_Beauty_01.25.41.689-01.25.42.701 	the colonel watches, at first baffled, then impatient.
+0001_American_Beauty_01.33.22.282-01.33.27.368 	lester watches her go, baffled.
+0011_Gandhi_02.04.08.526-02.04.12.660 	still baffled, walker glances at the sea, at him, then hurries after.
+0023_THE_BUTTERFLY_EFFECT_01.44.46.740-01.44.50.292 	lenny, utterly baffled, sits back in silence and watches evan begin reading his journal to himself for a beat.
+0032_The_Princess_Bride_00.19.40.403-00.19.44.238 	he glances up--the question clearly baffles him.
+1015_27_Dresses_01.30.57.364-01.30.59.966 	jane is baffled.
+1062_Day_the_Earth_stood_still_00.25.03.070-00.25.05.312 	mike looks baffled.
+1062_Day_the_Earth_stood_still_00.55.58.000-00.56.01.058 	baffled, he looks out of the window.

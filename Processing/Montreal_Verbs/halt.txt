@@ -1,46 +1,21 @@
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS305 	00:26:50,00 --> 00:26:57,50 	speeds away from the halted traffic and continues the pursuit.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS405 	00:58:37,00 --> 00:58:41,50 	they halt in their tracks.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS572 	01:20:00,00 --> 01:20:06,50 	she halts close to the first lady who keeps her face hidden.
 BURLESQUE.srt 	BURLESQUE_DVS463 	01:03:33,00 --> 01:03:37,50 	she halts in a doorway.
-CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS476 	01:49:51,00 --> 01:49:55,50 	as someone goes to address his manager, halts his open mouth with his palm.
-COLOMBIANA.srt 	COLOMBIANA_DVS637 	00:59:59,00 --> 01:00:07,50 	halting a few yards from the foot of the bed, she regards the ponzi schemer with a cold determined gaze.
 COLOMBIANA.srt 	COLOMBIANA_DVS880 	01:23:31,00 --> 01:23:37,50 	she halts at the sight of an unfinished cigar on a side table.
 COLOMBIANA.srt 	COLOMBIANA_DVS919 	01:28:07,00 --> 01:28:12,50 	she halts in the kitchen, her weary gaze cast downward.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS25 	00:02:44,00 --> 00:02:55,50 	the bare-chested soldier watches the students halt at the end of the someone.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS63 	00:08:20,00 --> 00:08:26,50 	they halt among tufted beach grass, and gaze up at the moon.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS617 	01:24:19,00 --> 01:24:26,50 	she halts.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS721 	01:36:37,00 --> 01:36:46,50 	as someone turns to face him, he halts in the doorway and stares at her resolutely.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS733 	01:37:28,00 --> 01:37:31,50 	he halts.
-EASY_A.srt 	EASY_A_DVS126 	00:39:41,00 --> 00:39:52,50 	with a bustier showing off her narrow waist, she halts facing someone and someone.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS127 	00:20:31,00 --> 00:20:38,50 	leaving the doctors, she halts at the sight of him.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS598 	01:26:00,00 --> 01:26:08,50 	she lurches to halt at the sight of ghost rider standing beside the overturned flaming suv.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS601 	01:26:14,00 --> 01:26:20,50 	he halts.
-GREEN_ZONE.srt 	GREEN_ZONE_DVS287 	01:06:17,00 --> 01:06:22,50 	he halts, facing the young soldier.
 IN_TIME.srt 	IN_TIME_DVS139 	00:15:39,00 --> 00:15:43,50 	someone halts the transfer.
 IN_TIME.srt 	IN_TIME_DVS615 	01:05:53,00 --> 01:06:01,50 	he swerves around a corner onto a main road and halts the cruiser directly across a limousine's path.
-IN_TIME.srt 	IN_TIME_DVS931 	01:38:01,00 --> 01:38:06,50 	they halt in front of him and he gives a relieved look.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS337 	01:37:47,00 --> 01:37:52,50 	others halt before the supply room.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS353 	01:41:11,00 --> 01:41:15,50 	he halts the narrow eyed.
-ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS95 	00:27:57,00 --> 00:28:02,50 	wearing earbuds she halts quizzically.
-KARATE_KID.srt 	KARATE_KID_DVS452 	00:40:31,00 --> 00:40:37,50 	he hurries behind another parked car and sees them halt on a stoop.
-KARATE_KID.srt 	KARATE_KID_DVS473 	00:42:28,00 --> 00:42:33,50 	he halts as he notices the closed inner gate.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS53 	00:03:27,00 --> 00:03:34,50 	going back in, it halts half way.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS43 	00:10:36,00 --> 00:10:46,50 	now, one of the chauffeur's polished leather shoes steps from the limousine, but halts mid-stride above the mud.
 PROMETHEUS.srt 	PROMETHEUS_DVS601 	01:06:44,00 --> 01:06:49,50 	someone halts the atv with a frown.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS253 	00:58:51,00 --> 00:58:55,50 	she halts in the doorway.
-RUBY_SPARKS.srt 	RUBY_SPARKS_DVS405 	01:04:01,00 --> 01:04:07,50 	he halts, raises his hands, and rests them in his lap.
-RUBY_SPARKS.srt 	RUBY_SPARKS_DVS433 	01:06:50,00 --> 01:06:55,50 	turning, he halts and calls across the busy street.
-SOUL_SURFER.srt 	SOUL_SURFER_DVS233 	01:11:53,00 --> 01:12:08,50 	the bus halts a short distance from the aid tent and the youth group climbs off.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS25 	00:03:14,00 --> 00:03:25,50 	he halts at its edge and eyes a police van below.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS63 	00:13:32,00 --> 00:13:38,50 	he halts at a door to a private room and takes it in.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS239 	00:37:57,00 --> 00:38:07,50 	wearing a white tee tucked into his khaki shorts, he keeps his back to someone, someone, and someone, who watch him halt on the grass.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS817 	01:48:53,00 --> 01:48:59,50 	arms folded, she halts behind the ice cream eating pair.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS549 	01:01:45,00 --> 01:01:50,50 	he halts at a shot of the parade.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS506 	00:55:47,00 --> 00:55:51,50 	they halt near the front desk.
-TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS533 	00:58:43,00 --> 00:58:49,50 	he halts just outside and the father steps closer.
-UGLY_TRUTH.srt 	UGLY_TRUTH_DVS292 	00:29:30,00 --> 00:29:35,50 	as he halts in front of someone, the women head off.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS832 	01:56:52,00 --> 01:56:57,50 	reenacting, he halts in his tracks.
-WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS594 	01:20:35,00 --> 01:20:39,50 	seeing her, he halts.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS813 	01:13:27,00 --> 01:13:32,50 	he halts before a central table.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1303 	01:57:27,00 --> 01:57:32,50 	the others halt.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS361 	00:41:15,00 --> 00:41:19,50 	he halts the others.

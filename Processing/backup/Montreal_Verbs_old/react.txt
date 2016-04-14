@@ -1,0 +1,3 @@
+BRUNO.srt 	BRUNO_DVS56 	00:11:21,00 --> 00:11:26,50 	as a juror, someone reacts broadly.
+SALT.srt 	SALT_DVS298 	00:52:27,00 --> 00:52:37,50 	someone reacts to the sound and moves toward it.
+THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS624 	01:08:40,00 --> 01:08:46,50 	the computer replays the ghostly sequence of someone reacting and her smile becoming a frightened stare.

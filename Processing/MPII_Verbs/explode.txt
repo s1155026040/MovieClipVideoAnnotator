@@ -1,67 +1,32 @@
-0005_Chinatown_01.49.55.087-01.49.58.892 	he's been charged with anger and when evelyn says this it explodes.
 0006_Clerks_01.08.12.846-01.08.14.909 	he then explodes in jubilance.
-0008_Fargo_00.19.50.056-00.19.50.800 	as he reaches for the curtain, it explodes outward, animated by thrashing limbs.
 0009_Forrest_Gump_00.49.16.840-00.49.22.224 	bombs explode all around as the soldiers scramble to the ground.
-0009_Forrest_Gump_00.49.22.224-00.49.27.969 	forrest crawls over a berm as bullets fly overhead and explode all around him.
 0009_Forrest_Gump_00.50.04.644-00.50.06.196 	a rocket explodes on the machine gunner and the other soldier, killing them.
-0009_Forrest_Gump_00.50.06.196-00.50.12.493 	forrest looks down and covers his head as rockets explodes all around him.
 0009_Forrest_Gump_00.50.30.886-00.50.33.394 	rockets explode all around the field.
-0009_Forrest_Gump_00.50.37.465-00.50.40.288 	the soldiers run through the jungle as bullets explode all around.
-0009_Forrest_Gump_00.55.04.368-00.55.12.556 	they fire napalm as the jungle explodes with massive fireballs.
 0009_Forrest_Gump_00.55.16.387-00.55.19.391 	the fireballs explode behind him.
 0010_Frau_Ohne_Gewissen_01.40.31.464-01.40.33.245 	out of the shot the gun explodes once, twice.
 0011_Gandhi_01.13.28.582-01.13.30.583 	and now the court explodes.
-0017_Pianist_00.02.28.213-00.02.32.276 	szpilman fights to get to the main door, when another bomb explodes, filling the air with dust and debris, obscuring him and everyone else.
 0017_Pianist_01.00.29.769-01.00.30.741 	puffs of exploding shells.
 0020_Raising_Arizona_01.18.02.035-01.18.03.546 	the shotgun spits orange flame and the windshield explodes in.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.37.39.074-02.37.39.247 	a red flame explodes into the sky.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.37.39.247-02.37.42.238 	sam looks up -- fearful the mountain could explode at any moment!
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.39.36.395-02.39.37.908 	sam is gasping, his lungs exploding as he races up the slopes of mount doom searching for frodo.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.45.31.422-02.45.46.873 	the foundations explode apart.
-0027_The_Big_Lebowski_00.03.54.763-00.03.55.228 	the paper bag hugged to his chest explodes milk as it hits the toilet rim and the satchel pulverizes tile as it crashes to the floor.
-0027_The_Big_Lebowski_01.48.36.991-01.48.39.300 	heretofore motionless, the dude finally explodes, slapping walter's hands away.
-0032_The_Princess_Bride_00.44.58.325-00.45.05.166 	the lightning sand, as westley, lungs long past the bursting point, explodes out; he has buttercup across his shoulders and as he pulls to the edge of the lightning sand pit, using the vine.
-0043_Thelma_and_Luise_01.52.51.654-01.52.57.670 	they both turn towards the truck and fire rounds into the tankers until they explode in a huge ball of fire.
-0050_Indiana_Jones_and_the_last_crusade_00.38.30.213-00.38.35.873 	but the enemy speedboat explodes as it is crushed between the two freighters, flying into the air and splashing back down into the water.
-0050_Indiana_Jones_and_the_last_crusade_01.17.34.761-01.17.35.904 	henry does -- and the exploding gun nearly shakes him out of his seat.
 0050_Indiana_Jones_and_the_last_crusade_01.18.31.398-01.18.33.905 	as bullets explode around them, indy and henry jump over a stone barricade.
-0050_Indiana_Jones_and_the_last_crusade_01.19.54.738-01.19.56.395 	it explodes in the road directly ahead of the car, missing it by only several feet.
 0050_Indiana_Jones_and_the_last_crusade_01.25.22.586-01.25.24.466 	bullets explode off the vehicles and cliff.
-0050_Indiana_Jones_and_the_last_crusade_01.25.24.646-01.25.27.408 	a nazi soldier falls from the tank as bullets explode around him.
 0050_Indiana_Jones_and_the_last_crusade_01.25.59.500-01.26.01.812 	they explode, killing one of kazim's brethren.
-0051_Men_in_black_01.12.35.160-01.12.38.497 	kay races into the morgue just as the examination table explodes into the air, revealing edgar, who was hiding beneath it.
-0051_Men_in_black_01.13.23.246-01.13.25.692 	edgar, still clutching laurel, explodes up over a railing.
-1001_Flight_01.33.07.831-01.33.11.877 	it explodes against the hanging photo of his son, which stares at it motionless.
-1002_Harry_Potter_and_the_Half-Blood_Prince_02.14.53.051-02.14.58.602 	they explode and the candles are snuffed out.
-1007_Spider-Man1_01.24.23.167-01.24.29.777 	it explodes into several spinning boomerang type blades.
-1010_TITANIC_01.55.14.899-01.55.19.677 	the flare explodes into separate fiery streams that fall.
 1026_Legion_00.05.00.665-00.05.01.895 	a door explodes just in front of them.
 1026_Legion_00.58.00.568-00.58.01.497 	howard's stomach explodes in a shower of steaming liquid.
 1031_Quantum_of_Solace_00.31.42.945-00.31.47.159 	he rams an engine which explodes.
 1031_Quantum_of_Solace_01.30.00.294-01.30.04.733 	the chief's land rover reverses into a wall, which explodes in a fireball.
 1033_Sherlock_Holmes_A_Game_of_Shadows_00.07.41.419-00.07.43.839 	the bomb exploded in the closed sarcophagus.
-1033_Sherlock_Holmes_A_Game_of_Shadows_00.45.27.835-00.45.36.330 	the gun explodes, setting fire to the other soldier's phosphorous dusted clothes.
-1033_Sherlock_Holmes_A_Game_of_Shadows_01.08.09.963-01.08.13.623 	meinhard turns to look at the cake, which explodes.
-1033_Sherlock_Holmes_A_Game_of_Shadows_01.30.57.321-01.31.02.988 	the shell explodes ahead of him, shattering the trees, filling the air with needle-sharp splinters.
-1034_Super_8_00.18.17.869-00.18.21.255 	a tanker is thrown through the air and explodes as it hits the ground.
-1034_Super_8_01.13.00.831-01.13.03.139 	jack shoots the tanker which explodes in a fireball.
 1043_Vantage_Point_00.50.04.502-00.50.09.599 	a bomb explodes on the ground floor of the hotel.
 1046_Australia_02.07.01.306-02.07.02.291 	a bomb explodes just outside the window.
-1047_Defiance_01.47.14.890-01.47.17.184 	people run in all directions as bombs explode around them.
-1047_Defiance_01.48.01.416-01.48.03.997 	tuvia, weaving his way between the trees, is knocked off his feet by an exploding shell.
-1047_Defiance_01.48.17.769-01.48.23.562 	behind him, a bunker explodes, throwing bodies in all directions in a cascade of debris.
 1047_Defiance_01.59.43.451-01.59.46.302 	cannonballs explode among the fleeing bielskis.
 1047_Defiance_02.00.16.180-02.00.17.141 	more cannonballs explode the bielski lines, claiming more victims.
-1047_Defiance_02.01.56.559-02.01.59.264 	shells explode to the right and left of tuvia, but miss their mark.
 1047_Defiance_02.02.22.785-02.02.23.842 	the missile explodes around him.
 1049_Harry_Potter_and_the_chamber_of_secrets_00.57.52.847-00.57.53.865 	the bludger explodes in mid air.
 1052_Harry_Potter_and_the_order_of_phoenix_01.35.38.165-01.35.49.431 	a fizzing firework hovers in front of her nose and whizzes into the hall, where it explodes in a shower of sparks.
 1052_Harry_Potter_and_the_order_of_phoenix_01.36.11.826-01.36.21.513 	the multicolored fireworks spiral down and explode, scattering the papers in all directions.
-1052_Harry_Potter_and_the_order_of_phoenix_01.36.51.140-01.37.02.301 	the dragon bursts out after her and explodes destroying the hundreds of decrees that filch has nailed to the wall.
 1053_Harry_Potter_and_the_philosophers_stone_02.03.30.321-02.03.35.699 	it explodes in a shower of stone fragments.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.54.11.000-00.54.18.193 	they start to explode.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.46.36.518-01.46.41.877 	bellatrix explodes into a myriad of tiny black fragments.
 2026_Legion_00.06.38.551-00.06.45.682 	the squad car window shatters, burton's chest exploding!
-2034_Super_8_00.13.51.790-00.13.54.686 	everyone jumps -- charles turns -- cary, laughing, has just exploded a firecracker.
 2034_Super_8_01.12.59.137-01.13.04.502 	the fuel tank explodes, a massive blast!
 2054_Harry_Potter_and_the_prisoner_of_azkaban_02.01.22.526-02.01.26.569 	the trees explode with light.

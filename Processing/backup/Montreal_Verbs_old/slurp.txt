@@ -1,0 +1,6 @@
+JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS552 	01:49:19,00 --> 01:49:26,50 	she slurps a sample from a wooden spoon, smacks her lips, and smiles.
+KARATE_KID.srt 	KARATE_KID_DVS129 	00:11:35,00 --> 00:11:40,50 	someone slurps up a wad of noodles.
+LIFE_OF_PI.srt 	LIFE_OF_PI_DVS506 	00:55:53,00 --> 00:56:03,50 	as someone slurps it down, someone jumps off the boat, he tries to push away on the raft but finds a line tethering him closely to the boat's prow.
+ROBIN_HOOD.srt 	ROBIN_HOOD_DVS68 	00:18:43,00 --> 00:18:49,50 	philip slurps down an oyster.
+SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS829 	00:55:08,00 --> 00:55:13,50 	the butcher slurps down his tea in one gulp.
+ZOMBIELAND.srt 	ZOMBIELAND_DVS196 	00:20:41,00 --> 00:20:46,50 	the zombie snaps a bone in two and slurps out the marrow.

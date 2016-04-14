@@ -1,4 +1,2 @@
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS48 	00:06:13,00 --> 00:06:20,50 	someone unplugs the amplifiers.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS82 	00:16:11,00 --> 00:16:19,50 	in the hearing room, someone tries to unplug the video screen as a video of him and the pilot wearing an armored suit plays.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS84 	00:16:24,00 --> 00:16:29,50 	someone unplugs the video screen and sits.
-THE_WATCH.srt 	THE_WATCH_DVS507 	01:29:55,00 --> 01:30:02,50 	someone unplugs four cables attached to someone and the beam dies out.

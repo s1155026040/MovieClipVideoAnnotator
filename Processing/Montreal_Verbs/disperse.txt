@@ -1,5 +1,2 @@
-BURLESQUE.srt 	BURLESQUE_DVS368 	00:50:42,00 --> 00:50:47,50 	as the dancers disperse, someone approaches someone.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS303 	01:09:39,00 --> 01:09:44,50 	members disperse.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS341 	01:01:11,00 --> 01:01:18,50 	the onlookers disperse as someone, major allen, and a small group of men walk toward the hangar.
-KARATE_KID.srt 	KARATE_KID_DVS225 	00:19:39,00 --> 00:19:45,50 	someone leaves someone to himself and the other gawkers disperse.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS838 	01:25:02,00 --> 01:25:08,50 	a hippo, rhino, giraffe and other animals disperse.

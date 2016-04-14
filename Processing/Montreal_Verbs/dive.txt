@@ -1,35 +1,16 @@
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS236 	00:38:53,00 --> 00:38:58,50 	he dives headfirst through a gong's ring stand.
-21_JUMP_STREET.srt 	21_JUMP_STREET_DVS598 	01:33:00,00 --> 01:33:09,50 	piata confetti flurries around him as he dives sideways, shooting a mohawked biker in the chest.
-21_JUMP_STREET.srt 	21_JUMP_STREET_DVS653 	01:38:15,00 --> 01:38:22,50 	the coach fires at someone but someone dives between them taking the hits.
 500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS153 	00:28:50,00 --> 00:28:55,50 	someone dives onto a double bed.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS915 	01:28:04,00 --> 01:28:09,50 	he dives beneath the surface.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS241 	00:41:54,00 --> 00:42:00,50 	someone dives into the river and swims after the escaping submarine.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS588 	01:41:12,00 --> 01:41:18,50 	the pilot tilts the flying bomb left and right, then dives straight down.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS611 	01:43:42,00 --> 01:43:51,50 	as the plane dives through a layer of clouds, someone pulls himself to the controls and re-engages the autopilot.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS635 	01:46:39,00 --> 01:46:47,50 	he stares at the photo then pushes down on the steering yoke causing the plane to dive steeply.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS638 	01:47:02,00 --> 01:47:08,50 	the plane dives toward an ice-covered land mass.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS602 	00:58:09,00 --> 00:58:17,50 	as the white water converges around him, he leaps from his board and dives head first into the water.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS634 	01:01:37,00 --> 01:01:43,50 	now, someone and someone plunge into the water wearing diving masks, suits, and flippers.
 CHRONICLE.srt 	CHRONICLE_DVS176 	00:26:36,00 --> 00:26:43,50 	shedding his jacket and shoes, someone dives into the water.
-FLIGHT.srt 	FLIGHT_DVS101 	00:17:56,00 --> 00:18:04,50 	the yoke slips out of ken's hands as someone struggles to gain control, and the plane begins to dive.
 FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS118 	00:32:19,00 --> 00:32:25,50 	now she dives under the sheets.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS232 	00:37:38,00 --> 00:37:45,50 	as ghost rider speeds down into the quarry, the missile dives at him and explodes.
-JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS525 	01:43:53,00 --> 01:43:58,50 	she dives on top of him, and kisses him repeatedly.
 JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS159 	00:58:35,00 --> 00:58:40,50 	someone dives gracefully into the water.
 JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS170 	01:00:49,00 --> 01:00:58,50 	someone dives into the water.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS304 	00:38:56,00 --> 00:39:04,50 	finding his level flooded, he dives into the water and swims.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS351 	00:42:30,00 --> 00:42:47,50 	scrambling to the prow, someone dives into the water.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS841 	01:25:15,00 --> 01:25:20,50 	diving deeper into the abyss.
-MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS339 	00:43:31,00 --> 00:43:46,50 	the penguins dive on their bellies, using the wet floor to slide down the long, sloping, continuous spiral.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS181 	00:40:26,00 --> 00:40:31,50 	she dives for them.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS194 	00:42:12,00 --> 00:42:17,50 	and dives gracefully into the water.
 PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS56 	00:12:55,00 --> 00:13:06,50 	someone dives onto the floor as the creature swoops to another perch.
-PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS212 	00:54:58,00 --> 00:55:11,50 	someone dives for cover and someone falls.
-SANCTUM.srt 	SANCTUM_DVS74 	00:16:08,00 --> 00:16:15,50 	he dives over the edge with open arms and falls into the dark abyss.
 SANCTUM.srt 	SANCTUM_DVS402 	01:18:39,00 --> 01:18:43,50 	he dives into the water.
-SANCTUM.srt 	SANCTUM_DVS509 	01:35:11,00 --> 01:35:22,50 	he dives into the pool and disappears.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS135 	00:25:25,00 --> 00:25:33,50 	he quickly dives off the tracks.
-SOUL_SURFER.srt 	SOUL_SURFER_DVS303 	01:27:37,00 --> 01:27:41,50 	the impact zone, the girls duck dived.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS637 	01:24:56,00 --> 01:25:01,50 	someone releases the falcon and dives in.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS413 	00:35:07,00 --> 00:35:18,50 	on the ship, someone runs along the deck, then dives from the edge.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS866 	01:19:20,00 --> 01:19:29,50 	the boy dives back toward the satellite dish, then uses his sound rings to glide over dish's concave face.

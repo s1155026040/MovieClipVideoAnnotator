@@ -1,25 +1,10 @@
-30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS197 	00:50:32,00 --> 00:50:38,50 	as the datsun makes a sharp right, pedestrians dodge to a sidewalk.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS270 	00:23:21,00 --> 00:23:29,50 	dodging a tractor-trailer, someone's bearded driver smashes into a parked van.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS215 	00:29:54,00 --> 00:30:07,50 	dodging it, the charging vampire reappears.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS308 	00:44:33,00 --> 00:44:45,50 	the vampire appears and someone dodges a swipe.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS610 	01:25:46,00 --> 01:25:57,50 	the knife's tip nears someone's face, but the calm vampire tilts his head and dodges the blade.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS596 	01:41:56,00 --> 01:42:02,50 	someone dodges the blasts, then flies in behind the bomber.
-CHRONICLE.srt 	CHRONICLE_DVS500 	01:11:41,00 --> 01:11:51,50 	as someone dodges them, someone flies back into a lamppost.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS522 	02:02:22,00 --> 02:02:28,50 	someone dodges three hooks.
-COLOMBIANA.srt 	COLOMBIANA_DVS1031 	01:37:36,00 --> 01:37:41,50 	as she whips at him, he dodges
 IRON_MAN_2.srt 	IRON_MAN_2_DVS178 	00:33:26,00 --> 00:33:38,50 	someone dodges two cars.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS626 	01:47:11,00 --> 01:47:29,50 	one drone fires a missile at someone, who dodges it.
-JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS324 	01:03:20,00 --> 01:03:28,50 	someone lovingly cups someone's face in both hands, and he playfully dodges away.
 KARATE_KID.srt 	KARATE_KID_DVS887 	01:12:45,00 --> 01:12:50,50 	someone dodges someone's kick again.
 KARATE_KID.srt 	KARATE_KID_DVS1123 	01:33:11,00 --> 01:33:25,50 	meanwhile, someone races doggedly down a sidewalk, dodging other pedestrians.
 KARATE_KID.srt 	KARATE_KID_DVS1424 	01:54:59,00 --> 01:55:15,50 	someone dodges easily, then attacks.
-KARATE_KID.srt 	KARATE_KID_DVS1430 	01:55:56,00 --> 01:56:15,50 	someone backs off, dodging, and his opponent lands a hard hit to someone's side.
 KARATE_KID.srt 	KARATE_KID_DVS1480 	02:00:21,00 --> 02:00:44,50 	as someone blocks and dodges them, mr.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS724 	01:15:13,00 --> 01:15:21,50 	the companion fish dodges a breaching predator which we follow as it dips beneath the surface.
-PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS137 	00:32:10,00 --> 00:32:20,50 	someone fights off two opponents while someone swordfights nimbly and dodges a blow.
 PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS163 	00:36:08,00 --> 00:36:15,50 	the two battle fiercely, parrying and dodging each other's blows
-SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS317 	01:04:18,00 --> 01:04:25,50 	his shadow on the wall shows him swinging, but the mop head strings dodge each blow.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS272 	00:39:55,00 --> 00:40:02,50 	someone dodges a punch, kicks out his legs, then sprints away.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS448 	01:05:13,00 --> 01:05:18,50 	who dodges it then stabs through the cape.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS345 	01:04:08,00 --> 01:04:31,50 	the bounty hunter frantically dodges golf balls as they whiz toward him.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1173 	01:44:56,00 --> 01:45:03,50 	on the ship's deck, someone dodges someone's blast and strangles him with his tail.

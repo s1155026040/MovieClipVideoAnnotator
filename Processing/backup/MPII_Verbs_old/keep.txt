@@ -1,126 +1,106 @@
-0001_American_Beauty_00.10.50.312-00.10.53.807 	Throughout all this, she keeps repeating to herself.
-0001_American_Beauty_00.10.50.312-00.10.53.807 	Throughout all this, she keeps repeating to herself.
-0001_American_Beauty_01.09.42.138-01.09.44.166 	Ricky just keeps videotaping.
-0001_American_Beauty_01.26.03.234-01.26.08.393 	He opens the DRAWER in which we know Ricky keeps his marijuana, but he doesn't discover its false bottom.
-0001_American_Beauty_01.48.43.438-01.48.46.255 	But she keeps crying.
-0002_As_Good_As_It_Gets_00.32.52.476-00.32.55.004 	Melvin is craning periodically to keep an eye of his dog.
-0003_CASABLANCA_00.05.19.738-00.05.23.363 	Behind them stand a detail of native soldiers keeping guard.
-0003_CASABLANCA_00.25.34.602-00.25.36.229 	Sam, with a conscious effort, keeps his eyes on the keyboard as they go past.
-0004_Charade_01.22.05.980-01.22.06.617 	The elevator, GIDEON inside, keeps coming down.
-0004_Charade_01.22.07.824-01.22.09.899 	It passes the lobby level and keeps right on going, toward the basement.
-0005_Chinatown_00.33.31.757-00.33.34.935 	Escobar and Evelyn move a few feet to one side and whisper, almost as though they were trying to keep the corpse from hearing them.
-0005_Chinatown_00.42.44.433-00.42.46.164 	Gittes bends over, instinctively trying to keep the blood from getting on his clothes.
-0005_Chinatown_01.29.29.792-01.29.32.910 	Behind the wheel of Mulwray's car, keeping a healthy distance from Evelyn in front of him.
-0007_DIE_NACHT_DES_JAEGERS_00.13.26.186-00.13.29.724 	He keeps her strolling.
-0007_DIE_NACHT_DES_JAEGERS_00.21.42.714-00.21.46.961 	WILLA meekly keeps her head down.
-0007_DIE_NACHT_DES_JAEGERS_00.37.54.548-00.37.57.094 	WILLA keeps smiling.
-0007_DIE_NACHT_DES_JAEGERS_01.09.04.875-01.09.05.283 	She keeps walking.
-0007_DIE_NACHT_DES_JAEGERS_01.27.08.882-01.27.09.600 	They turn and we PAN with them as they hurry after RACHEL, and we bring in RACHEL, charging away from us with her brood hustling to keep up.
-0007_DIE_NACHT_DES_JAEGERS_01.28.12.361-01.28.13.735 	RUBY, nearest us, keeps looking back over her shoulder.
-0009_Forrest_Gump_00.59.04.731-00.59.07.684 	Forrest keeps his eyes on the ball.
-0010_Frau_Ohne_Gewissen_00.53.05.140-00.53.06.748 	Neff still hangs back and keeps his head down, the way a man using crutches might naturally do.
-0010_Frau_Ohne_Gewissen_00.53.19.052-00.53.20.780 	Neff laboriously swings himself up onto the box and from there up on the steps, keeping his head down.
-0011_Gandhi_00.03.17.373-00.03.21.650 	The camera keeps moving closer, and the point of view is always Godse's, but Gandhi is always in profile or half obscured by the heads and shoulders of those in front.
-0011_Gandhi_01.01.05.468-01.01.06.655 	He re-directs Nehru toward a trough where two or three goats are tethered, but he keeps right on talking.
-0011_Gandhi_01.05.56.033-01.05.56.701 	Meha tries to speak unemotionally but under Gandhi's sympathetic gaze his despair keeps cracking through.
-0011_Gandhi_01.47.59.911-01.48.01.773 	Azad keeps his eyes fixed on Gandhi, sensing, fearing what is going to happen.
-0011_Gandhi_02.18.35.866-02.18.41.938 	He speaks it trying only half successfully to keep the emotion from his voice.
-0011_Gandhi_02.28.05.542-02.28.07.315 	She's grinning at her own frustration and she keeps trying, but there's no doubt she means it.
-0011_Gandhi_03.01.36.885-03.01.41.139 	Mirabehn nods, but she keeps on spinning and tries to sound cynically resigned but her innate emotionalism keeps breaking through in her voice and on her face.
-0012_Get_Shorty_00.15.14.681-00.15.17.892 	Chili leans into the light, keeps his tone quiet, controlled.
-0012_Get_Shorty_00.16.50.539-00.16.52.840 	Chili shakes his head, keeps staring at Harry, but with a different expression now, more thoughtful, curious.
-0012_Get_Shorty_00.44.05.985-00.44.35.832 	keeps mouthing the dialogue.
-0012_Get_Shorty_00.53.55.141-00.54.04.505 	But Chili keeps looking at Martin.
+0001_American_Beauty_00.10.50.312-00.10.53.807 	throughout all this, she keeps repeating to herself.
+0001_American_Beauty_01.09.42.138-01.09.44.166 	ricky just keeps videotaping.
+0001_American_Beauty_01.26.03.234-01.26.08.393 	he opens the drawer in which we know ricky keeps his marijuana, but he doesn't discover its false bottom.
+0001_American_Beauty_01.48.43.438-01.48.46.255 	but she keeps crying.
+0002_As_Good_As_It_Gets_00.32.52.476-00.32.55.004 	melvin is craning periodically to keep an eye of his dog.
+0003_CASABLANCA_00.05.19.738-00.05.23.363 	behind them stand a detail of native soldiers keeping guard.
+0003_CASABLANCA_00.25.34.602-00.25.36.229 	sam, with a conscious effort, keeps his eyes on the keyboard as they go past.
+0005_Chinatown_00.33.31.757-00.33.34.935 	escobar and evelyn move a few feet to one side and whisper, almost as though they were trying to keep the corpse from hearing them.
+0005_Chinatown_00.42.44.433-00.42.46.164 	gittes bends over, instinctively trying to keep the blood from getting on his clothes.
+0005_Chinatown_01.29.29.792-01.29.32.910 	behind the wheel of mulwray's car, keeping a healthy distance from evelyn in front of him.
+0007_DIE_NACHT_DES_JAEGERS_00.13.26.186-00.13.29.724 	he keeps her strolling.
+0007_DIE_NACHT_DES_JAEGERS_00.21.42.714-00.21.46.961 	willa meekly keeps her head down.
+0007_DIE_NACHT_DES_JAEGERS_01.09.04.875-01.09.05.283 	she keeps walking.
+0007_DIE_NACHT_DES_JAEGERS_01.27.08.882-01.27.09.600 	they turn and we pan with them as they hurry after rachel, and we bring in rachel, charging away from us with her brood hustling to keep up.
+0007_DIE_NACHT_DES_JAEGERS_01.28.12.361-01.28.13.735 	ruby, nearest us, keeps looking back over her shoulder.
+0009_Forrest_Gump_00.59.04.731-00.59.07.684 	forrest keeps his eyes on the ball.
+0010_Frau_Ohne_Gewissen_00.53.05.140-00.53.06.748 	neff still hangs back and keeps his head down, the way a man using crutches might naturally do.
+0010_Frau_Ohne_Gewissen_00.53.19.052-00.53.20.780 	neff laboriously swings himself up onto the box and from there up on the steps, keeping his head down.
+0011_Gandhi_00.03.17.373-00.03.21.650 	the camera keeps moving closer, and the point of view is always godse's, but gandhi is always in profile or half obscured by the heads and shoulders of those in front.
+0011_Gandhi_01.01.05.468-01.01.06.655 	he re-directs nehru toward a trough where two or three goats are tethered, but he keeps right on talking.
+0011_Gandhi_01.47.59.911-01.48.01.773 	azad keeps his eyes fixed on gandhi, sensing, fearing what is going to happen.
+0011_Gandhi_02.18.35.866-02.18.41.938 	he speaks it trying only half successfully to keep the emotion from his voice.
+0011_Gandhi_02.28.05.542-02.28.07.315 	she's grinning at her own frustration and she keeps trying, but there's no doubt she means it.
+0011_Gandhi_03.01.36.885-03.01.41.139 	mirabehn nods, but she keeps on spinning and tries to sound cynically resigned but her innate emotionalism keeps breaking through in her voice and on her face.
+0012_Get_Shorty_00.15.14.681-00.15.17.892 	chili leans into the light, keeps his tone quiet, controlled.
+0012_Get_Shorty_00.16.50.539-00.16.52.840 	chili shakes his head, keeps staring at harry, but with a different expression now, more thoughtful, curious.
 0012_Get_Shorty_00.59.28.322-00.59.29.822 	keeps his eyes up there as he says.
-0012_Get_Shorty_01.00.12.782-01.00.15.186 	Chili gets within three steps of the guy and stops, but doesn't look up, keeps his eyes fixed on the man's gut.
-0012_Get_Shorty_01.13.22.500-01.13.23.940 	The Bear keeps staring, but doesn't say anything.
-0012_Get_Shorty_01.20.00.278-01.20.06.243 	Feeling him staring, she keeps her eyes on the sunset, and tries to change the subject.
-0012_Get_Shorty_01.24.36.670-01.24.37.764 	Bo Catlett keeps his mouth close to her ear.
-0012_Get_Shorty_01.34.17.596-01.34.28.538 	But the Bear can't stop, keeps hitting Chili.
-0013_Halloween_01.22.47.248-01.22.47.946 	The shape keeps coming.
-0014_Ist_das_Leben_nicht_schoen_00.24.06.003-00.24.07.103 	George is dressed in jersey sweater and oversize football pants that keep wanting to come down.
-0014_Ist_das_Leben_nicht_schoen_00.45.33.748-00.45.35.895 	He is uncomfortable, and she tries desperately to keep the conversation alive.
-0014_Ist_das_Leben_nicht_schoen_02.00.15.517-02.00.18.556 	He catches up to her, grabs her by the arms, and keeps a tight grip on her.
-0016_O_Brother_Where_Art_Thou_00.05.18.870-00.05.25.178 	Everett gives an ingratiating smile as, behind him, the second convict starts to haul himself into the boxcar, the third convict still keeping pace outside.
-0016_O_Brother_Where_Art_Thou_01.21.08.449-01.21.11.289 	Stokes's pace is brisk and the midget hops awkwardly to keep up.
-0016_O_Brother_Where_Art_Thou_01.40.52.063-01.40.55.972 	The furniture beneath him begins to rotate in the current and, to keep his head above water, Tommy climbs in place like a hamster on a wheel.
-0016_O_Brother_Where_Art_Thou_01.41.58.783-01.42.00.509 	Everett keeps up, and the two are pulling forward out of frame.
-0017_Pianist_00.23.09.849-00.23.11.150 	Two or three he discards, but he smiles when coins make a pure tone, and he keeps them.
-0017_Pianist_00.34.08.856-00.34.10.330 	Szpilman, keeping to the shadows of the alleyway, watches the front of the building.
-0017_Pianist_01.29.10.253-01.29.15.418 	He stops, almost collapses, but manages to keep hold of himself.
-0019_Pulp_Fiction_01.10.50.613-01.10.52.021 	Esmeralda can't keep quiet anymore.
-0019_Pulp_Fiction_01.22.08.068-01.22.15.010 	Butch keeps on talking from the other room.
-0019_Pulp_Fiction_01.40.14.666-01.40.25.042 	The Gimp is a man they keep dressed from head to toe in black leather bondage gear.
-0020_Raising_Arizona_00.28.02.880-00.28.07.310 	The tracking camera pulls back further to reveal a running jack-rabbit keeping pace with us in the foreground.
-0020_Raising_Arizona_00.48.41.411-00.48.42.008 	Hi keeps running.
-0020_Raising_Arizona_00.48.42.008-00.48.45.246 	The Policeman is running along the front aisle, keeping pace with Hi running along the back aisle.
-0020_Raising_Arizona_01.20.06.099-01.20.07.171 	Hi backs up, swinging the knife - studded plank to make Lenny keep his distance.
-0021_Rear_Window_00.39.15.585-00.39.16.585 	Jeff keeps his eyes trained on the window.
-0021_Rear_Window_00.49.41.968-00.49.42.468 	As he talks, in a low voice, he keeps his eyes on the salesman's apartment.
-0021_Rear_Window_01.00.59.308-01.00.59.908 	As he munches, he keeps his attention on the neighborhood.
-0021_Rear_Window_01.04.15.775-01.04.22.314 	He picks up the phone and dials a number, still keeping his eyes on Thorwald.
-0022_Reservoir_Dogs_00.10.26.260-00.10.30.065 	Though he's driving for his life, he keeps talking to his wounded passenger in the backseat.
-0023_THE_BUTTERFLY_EFFECT_01.08.58.736-01.09.00.532 	Evan struggles to his feet and circles around Tommy, keeping a distance as he douses Tommy with Pepper Spray.
-0023_THE_BUTTERFLY_EFFECT_01.10.09.538-01.10.12.812 	Evan tries to keep composed and walks toward his cell.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.16.10.320-00.16.13.797 	Frodo and SAM sit at a table drinking ale.Frodo notices Sam's eyes keep flicking to another pretty Hobbit, Rosie Cotton, sitting some distance away.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.47.23.734-00.47.27.713 	Merry moves past pippin, toward Frodo, watching intently.Sam keeps looking around nervously.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.25.00.167-00.25.01.188 	PIPPIN and MERRY run alongside trying to KEEP UP.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.43.51.628-00.43.54.408 	GANDALF striding BACK STREETS of the CITY, so DETERMINED and PURPOSEFUL is he, that PIPPIN has to RUN to keep up.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.28.43.273-01.28.48.366 	ARAGORN keeps moving forward, his eyes locked on the SPECTRE.
-0026_The_Big_Fish_00.07.38.597-00.07.39.920 	As it keeps RINGING, we look to see the apartment is mostly empty, just a few half-unpacked boxes.
-0026_The_Big_Fish_00.09.47.444-00.09.52.034 	The fifth keeps tripping, crashing into YOUNG EDWARD (10).
-0026_The_Big_Fish_00.19.22.366-00.19.22.887 	Embarrassed, Edward just keeps SINGING, trying to follow along with the baritone part.
-0026_The_Big_Fish_00.30.01.052-00.30.04.809 	Even then, he still keeps twitching, convinced another one is left behind.
-0026_The_Big_Fish_00.39.21.227-00.39.42.224 	Edward keeps walking.
-0026_The_Big_Fish_01.05.35.886-01.05.43.677 	Edward, whose eyes are swollen almost shut, keeps waiting for the next punch.
-0026_The_Big_Fish_01.36.44.992-01.37.04.130 	She keeps PLAYING.
-0026_The_Big_Fish_01.39.13.830-01.39.14.862 	He tries to lean the door against the frame, but it keeps slipping.
-0027_The_Big_Lebowski_01.29.38.129-01.29.39.478 	She pulls her knees in toward her chest to keep her pelvis raised.
-0028_The_Crying_Game_00.16.52.399-00.16.54.963 	He keeps looking at him.
-0028_The_Crying_Game_00.23.40.136-00.23.50.068 	Fergus says nothing and keeps feeding him.
-0028_The_Crying_Game_00.33.11.482-00.33.16.381 	Jody coughs, but keeps the cigarette in his lips.
-0028_The_Crying_Game_00.46.48.759-00.46.50.730 	He lifts the glass to his mouth, but the umbrella keeps getting in the way.
-0029_The_Graduate_00.58.37.181-00.58.39.392 	Elaine holds on to the dashboard to keep her balance.
-0029_The_Graduate_01.01.46.660-01.01.50.915 	Ben, facing her, keeps moving from side to side, trying to get her to look at him.
-0029_The_Graduate_01.01.50.915-01.01.51.916 	She keeps looking away.
-0029_The_Graduate_01.28.28.444-01.28.29.413 	Ben pushes through a lot of students to keep up with Elaine.
-0030_The_Hustler_00.19.08.166-00.19.11.629 	Fats keeps sinking shots.
-0030_The_Hustler_00.23.03.889-00.23.06.031 	The applause grows louder as the balls keep spinning toward the pockets.
-0030_The_Hustler_00.39.36.645-00.39.38.312 	Eddie keeps looking at her.
-0031_The_Lost_Weekend_00.39.42.783-00.39.45.523 	He keeps eyeing the doors to the elevators.
-0032_The_Princess_Bride_00.10.29.938-00.10.32.234 	Inigo keeps staring behind them.
-0032_The_Princess_Bride_00.22.59.608-00.23.02.332 	Inigo fights and ducks and feints and slashes and it all works, but not for long, as gradually the Man In Black keeps the advantage, keeps forcing Inigo back, closer and closer to death.
-0032_The_Princess_Bride_00.23.04.501-00.23.04.884 	THE MAN IN BLACK, stunned, doing everything be can to keep Inigo by the Cliff edge.
-0032_The_Princess_Bride_00.34.55.542-00.35.01.451 	The Man In Black comes running into view, still dragging Buttercup, who sometimes stumbles, but he keeps forcing her along.
-0032_The_Princess_Bride_00.57.56.632-00.57.58.132 	He says nothing, keeps control of himself.
-0032_The_Princess_Bride_00.58.28.920-00.58.31.520 	It keeps on coming as we finally.
-0032_The_Princess_Bride_01.19.16.770-01.19.20.826 	YELLIN, keeping the Brutes in position, or trying to, shouting orders, instructions and as yet the Brutes hold.
-0032_The_Princess_Bride_01.29.18.069-01.29.21.208 	HUMPERDINCK, doing his best to hide the fear that keeps building inside him.
-0038_Psycho_00.16.55.367-00.16.58.215 	The Patrolman is following in his automobile, keeping behind her at a matched speed.
-0038_Psycho_01.05.22.040-01.05.29.628 	He waits a moment, then opens closet, starts counting out sheets and pillow cases, keeps his back to Arbogast.
-0041_The_Sixth_Sense_01.28.57.938-01.29.05.005 	Cole chuckles and then starts laughing as the group of eight-year-olds try unsuccessfully to keep him up.
-0043_Thelma_and_Luise_00.46.30.646-00.46.32.602 	She keeps her eyes on the road but she's holding the steering wheel so tightly, her knuckles are white.
-0043_Thelma_and_Luise_01.44.07.670-01.44.18.886 	The surveillance man motions to Hal to keep it going.
-0049_Hannah_and_her_sisters_00.06.16.793-00.06.20.407 	While Holly is talking, Hannah hands her the last turkey apple, accidentally sticking her with one of the toothpicks that keeps the decorations in place.
-0049_Hannah_and_her_sisters_01.03.24.189-01.03.36.653 	Mickey keeps shooting glances at Holly; she can't sit still.
-0050_Indiana_Jones_and_the_last_crusade_00.05.39.442-00.05.43.355 	Indy SPURS his mount on to greater speeds but the autos not only keep pace with his horse.
-0050_Indiana_Jones_and_the_last_crusade_00.07.38.029-00.07.39.455 	Roscoe rolls to the edge of the car but keeps from falling.
-0050_Indiana_Jones_and_the_last_crusade_00.13.53.375-00.13.58.004 	He grabs for something to keep him afloat.
-0050_Indiana_Jones_and_the_last_crusade_01.02.24.059-01.02.31.535 	Indy grabs a railing to keep from falling, but loses his grip and plunges through the opening which has formed a SPIRAL STAIRCASE.
-0050_Indiana_Jones_and_the_last_crusade_01.17.45.685-01.17.48.280 	The Messerschmidt banks to the left, but Henry keeps it in his gun sight.
-0051_Men_in_black_00.09.48.317-00.09.49.138 	In the BACKGROUND, about ten feet behind, are two other cops, trying to keep up.
-0051_Men_in_black_01.17.28.704-01.17.28.908 	It keeps going, turning all the way over and driving upside down, wheels clinging to the roof of the tunnel.
-0051_Men_in_black_01.18.57.551-01.18.59.125 	Above, Edgar just keeps climbing.
-0051_Men_in_black_01.22.58.609-01.23.00.644 	The Bug just keeps moving toward the ladder.
-0053_Rendezvous_mit_Joe_Black_02.49.58.807-02.50.06.868 	It is a man, he keeps coming, and now that he is close and recognizes him.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.42.38.457-00.42.41.075 	Harry keeps staring into the basin.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.42.01.884-01.42.04.937 	He keeps looking at her.
-1004_Juno_01.23.35.224-01.23.38.368 	Juno gives her the finger, keeping her lips firmly stuck to Bleeker's lips.
-1004_Juno_01.25.13.870-01.25.18.690 	In the birthing suite, Bren, Leah, and the midwife keep their eyes fixed firmly on Juno.
-1005_Signs_00.15.04.680-00.15.12.612 	Merrill keeps his gaze fixed firmly on the farmhouse roof as he paces backwards down the gloomy yard, and tries to get a better view.
-1005_Signs_00.37.52.376-00.37.58.632 	Panting and keeping his eyes fixed intently on the maize.
-1006_Slumdog_Millionaire_01.00.24.160-01.00.31.251 	He keeps his eyes closed for a moment more then slowly opens them.
-1007_Spider-Man1_00.04.25.836-00.04.30.959 	Young Parker keeps walking, his eyes fixed on Mary Jane, not seeing a leg stuck out in front of him.
+0012_Get_Shorty_01.00.12.782-01.00.15.186 	chili gets within three steps of the guy and stops, but doesn't look up, keeps his eyes fixed on the man's gut.
+0012_Get_Shorty_01.13.22.500-01.13.23.940 	the bear keeps staring, but doesn't say anything.
+0012_Get_Shorty_01.20.00.278-01.20.06.243 	feeling him staring, she keeps her eyes on the sunset, and tries to change the subject.
+0012_Get_Shorty_01.24.36.670-01.24.37.764 	bo catlett keeps his mouth close to her ear.
+0013_Halloween_01.22.47.248-01.22.47.946 	the shape keeps coming.
+0014_Ist_das_Leben_nicht_schoen_00.24.06.003-00.24.07.103 	george is dressed in jersey sweater and oversize football pants that keep wanting to come down.
+0014_Ist_das_Leben_nicht_schoen_00.45.33.748-00.45.35.895 	he is uncomfortable, and she tries desperately to keep the conversation alive.
+0014_Ist_das_Leben_nicht_schoen_02.00.15.517-02.00.18.556 	he catches up to her, grabs her by the arms, and keeps a tight grip on her.
+0016_O_Brother_Where_Art_Thou_00.05.18.870-00.05.25.178 	everett gives an ingratiating smile as, behind him, the second convict starts to haul himself into the boxcar, the third convict still keeping pace outside.
+0016_O_Brother_Where_Art_Thou_01.21.08.449-01.21.11.289 	stokes's pace is brisk and the midget hops awkwardly to keep up.
+0016_O_Brother_Where_Art_Thou_01.40.52.063-01.40.55.972 	the furniture beneath him begins to rotate in the current and, to keep his head above water, tommy climbs in place like a hamster on a wheel.
+0016_O_Brother_Where_Art_Thou_01.41.58.783-01.42.00.509 	everett keeps up, and the two are pulling forward out of frame.
+0017_Pianist_00.23.09.849-00.23.11.150 	two or three he discards, but he smiles when coins make a pure tone, and he keeps them.
+0017_Pianist_00.34.08.856-00.34.10.330 	szpilman, keeping to the shadows of the alleyway, watches the front of the building.
+0017_Pianist_01.29.10.253-01.29.15.418 	he stops, almost collapses, but manages to keep hold of himself.
+0019_Pulp_Fiction_01.10.50.613-01.10.52.021 	esmeralda can't keep quiet anymore.
+0019_Pulp_Fiction_01.40.14.666-01.40.25.042 	the gimp is a man they keep dressed from head to toe in black leather bondage gear.
+0020_Raising_Arizona_00.28.02.880-00.28.07.310 	the tracking camera pulls back further to reveal a running jack-rabbit keeping pace with us in the foreground.
+0020_Raising_Arizona_00.48.42.008-00.48.45.246 	the policeman is running along the front aisle, keeping pace with hi running along the back aisle.
+0020_Raising_Arizona_01.20.06.099-01.20.07.171 	hi backs up, swinging the knife - studded plank to make lenny keep his distance.
+0020_Raising_Arizona_01.23.08.150-01.23.09.257 	keeping the gun trained on hi and ed, he slowly raises a pair of eyeglasses to his nose.
+0021_Rear_Window_00.39.15.585-00.39.16.585 	jeff keeps his eyes trained on the window.
+0021_Rear_Window_00.49.41.968-00.49.42.468 	as he talks, in a low voice, he keeps his eyes on the salesman's apartment.
+0021_Rear_Window_01.00.59.308-01.00.59.908 	as he munches, he keeps his attention on the neighborhood.
+0021_Rear_Window_01.04.15.775-01.04.22.314 	he picks up the phone and dials a number, still keeping his eyes on thorwald.
+0022_Reservoir_Dogs_00.10.26.260-00.10.30.065 	though he's driving for his life, he keeps talking to his wounded passenger in the backseat.
+0023_THE_BUTTERFLY_EFFECT_01.08.58.736-01.09.00.532 	evan struggles to his feet and circles around tommy, keeping a distance as he douses tommy with pepper spray.
+0023_THE_BUTTERFLY_EFFECT_01.10.09.538-01.10.12.812 	evan tries to keep composed and walks toward his cell.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.16.10.320-00.16.13.797 	frodo and sam sit at a table drinking ale.frodo notices sam's eyes keep flicking to another pretty hobbit, rosie cotton, sitting some distance away.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.25.00.167-00.25.01.188 	pippin and merry run alongside trying to keep up.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.43.51.628-00.43.54.408 	gandalf striding back streets of the city, so determined and purposeful is he, that pippin has to run to keep up.
+0026_The_Big_Fish_00.07.38.597-00.07.39.920 	as it keeps ringing, we look to see the apartment is mostly empty, just a few half-unpacked boxes.
+0026_The_Big_Fish_00.19.22.366-00.19.22.887 	embarrassed, edward just keeps singing, trying to follow along with the baritone part.
+0026_The_Big_Fish_00.30.01.052-00.30.04.809 	even then, he still keeps twitching, convinced another one is left behind.
+0026_The_Big_Fish_01.36.44.992-01.37.04.130 	she keeps playing.
+0026_The_Big_Fish_01.39.13.830-01.39.14.862 	he tries to lean the door against the frame, but it keeps slipping.
+0027_The_Big_Lebowski_01.29.38.129-01.29.39.478 	she pulls her knees in toward her chest to keep her pelvis raised.
+0028_The_Crying_Game_00.16.52.399-00.16.54.963 	he keeps looking at him.
+0028_The_Crying_Game_00.33.11.482-00.33.16.381 	jody coughs, but keeps the cigarette in his lips.
+0028_The_Crying_Game_00.46.48.759-00.46.50.730 	he lifts the glass to his mouth, but the umbrella keeps getting in the way.
+0029_The_Graduate_00.58.37.181-00.58.39.392 	elaine holds on to the dashboard to keep her balance.
+0029_The_Graduate_01.01.46.660-01.01.50.915 	ben, facing her, keeps moving from side to side, trying to get her to look at him.
+0029_The_Graduate_01.01.50.915-01.01.51.916 	she keeps looking away.
+0029_The_Graduate_01.28.28.444-01.28.29.413 	ben pushes through a lot of students to keep up with elaine.
+0030_The_Hustler_00.23.03.889-00.23.06.031 	the applause grows louder as the balls keep spinning toward the pockets.
+0031_The_Lost_Weekend_00.39.42.783-00.39.45.523 	he keeps eyeing the doors to the elevators.
+0032_The_Princess_Bride_00.22.59.608-00.23.02.332 	inigo fights and ducks and feints and slashes and it all works, but not for long, as gradually the man in black keeps the advantage, keeps forcing inigo back, closer and closer to death.
+0032_The_Princess_Bride_00.23.04.501-00.23.04.884 	the man in black, stunned, doing everything be can to keep inigo by the cliff edge.
+0032_The_Princess_Bride_00.34.55.542-00.35.01.451 	the man in black comes running into view, still dragging buttercup, who sometimes stumbles, but he keeps forcing her along.
+0032_The_Princess_Bride_00.57.56.632-00.57.58.132 	he says nothing, keeps control of himself.
+0032_The_Princess_Bride_00.58.28.920-00.58.31.520 	it keeps on coming as we finally.
+0032_The_Princess_Bride_01.19.16.770-01.19.20.826 	yellin, keeping the brutes in position, or trying to, shouting orders, instructions and as yet the brutes hold.
+0032_The_Princess_Bride_01.29.18.069-01.29.21.208 	humperdinck, doing his best to hide the fear that keeps building inside him.
+0038_Psycho_00.16.55.367-00.16.58.215 	the patrolman is following in his automobile, keeping behind her at a matched speed.
+0038_Psycho_01.05.22.040-01.05.29.628 	he waits a moment, then opens closet, starts counting out sheets and pillow cases, keeps his back to arbogast.
+0041_The_Sixth_Sense_01.28.57.938-01.29.05.005 	cole chuckles and then starts laughing as the group of eight-year-olds try unsuccessfully to keep him up.
+0043_Thelma_and_Luise_00.46.30.646-00.46.32.602 	she keeps her eyes on the road but she's holding the steering wheel so tightly, her knuckles are white.
+0043_Thelma_and_Luise_01.44.07.670-01.44.18.886 	the surveillance man motions to hal to keep it going.
+0049_Hannah_and_her_sisters_00.06.16.793-00.06.20.407 	while holly is talking, hannah hands her the last turkey apple, accidentally sticking her with one of the toothpicks that keeps the decorations in place.
+0050_Indiana_Jones_and_the_last_crusade_00.05.39.442-00.05.43.355 	indy spurs his mount on to greater speeds but the autos not only keep pace with his horse.
+0050_Indiana_Jones_and_the_last_crusade_00.07.38.029-00.07.39.455 	roscoe rolls to the edge of the car but keeps from falling.
+0050_Indiana_Jones_and_the_last_crusade_00.13.53.375-00.13.58.004 	he grabs for something to keep him afloat.
+0050_Indiana_Jones_and_the_last_crusade_01.02.24.059-01.02.31.535 	indy grabs a railing to keep from falling, but loses his grip and plunges through the opening which has formed a spiral staircase.
+0050_Indiana_Jones_and_the_last_crusade_01.17.45.685-01.17.48.280 	the messerschmidt banks to the left, but henry keeps it in his gun sight.
+0051_Men_in_black_00.09.48.317-00.09.49.138 	in the background, about ten feet behind, are two other cops, trying to keep up.
+0051_Men_in_black_01.17.28.704-01.17.28.908 	it keeps going, turning all the way over and driving upside down, wheels clinging to the roof of the tunnel.
+0051_Men_in_black_01.22.58.609-01.23.00.644 	the bug just keeps moving toward the ladder.
+0053_Rendezvous_mit_Joe_Black_02.49.58.807-02.50.06.868 	it is a man, he keeps coming, and now that he is close and recognizes him.
+1002_Harry_Potter_and_the_Half-Blood_Prince_00.42.38.457-00.42.41.075 	harry keeps staring into the basin.
+1002_Harry_Potter_and_the_Half-Blood_Prince_01.42.01.884-01.42.04.937 	he keeps looking at her.
+1004_Juno_01.23.35.224-01.23.38.368 	juno gives her the finger, keeping her lips firmly stuck to bleeker's lips.
+1004_Juno_01.25.13.870-01.25.18.690 	in the birthing suite, bren, leah, and the midwife keep their eyes fixed firmly on juno.
+1005_Signs_00.15.04.680-00.15.12.612 	merrill keeps his gaze fixed firmly on the farmhouse roof as he paces backwards down the gloomy yard, and tries to get a better view.
+1005_Signs_00.37.52.376-00.37.58.632 	panting and keeping his eyes fixed intently on the maize.
+1006_Slumdog_Millionaire_01.00.24.160-01.00.31.251 	he keeps his eyes closed for a moment more then slowly opens them.
+1007_Spider-Man1_00.04.25.836-00.04.30.959 	young parker keeps walking, his eyes fixed on mary jane, not seeing a leg stuck out in front of him.
 1007_Spider-Man1_00.46.43.497-00.46.47.724 	balancing on both feet, he keeps his eyes firmly on the stolen car.
 1008_Spider-Man2_00.07.10.281-00.07.21.693 	his face unflinching, peter unties the two fasteners keeping the pizzas together, one after the other.
 1008_Spider-Man2_00.17.53.771-00.17.56.727 	she keeps hers fixed on him.
@@ -133,21 +113,17 @@
 1011_The_Help_02.03.22.713-02.03.24.820 	she and skeeter can barely keep a straight face.
 1012_Unbreakable_00.51.39.606-00.51.41.848 	metal frame keeps his right leg straight.
 1014_2012_01.41.40.717-01.41.47.201 	sasha struggles with the controls to keep the aircraft level
-1015_27_Dresses_01.09.41.077-01.09.45.845 	jane is bear foot and kevin keeps on coming up with wacky dance moves.
 1017_Bad_Santa_00.13.01.858-00.13.10.841 	willie tosses the keys away nonchalantly and keeps unlocking.
 1017_Bad_Santa_00.25.00.297-00.25.03.964 	the indian guy keeps his malevolent gaze on willie and looks away.
 1017_Bad_Santa_00.29.51.236-00.29.54.776 	apparently unmoved, the kid keeps staring at willie.
 1017_Bad_Santa_00.46.44.328-00.46.46.670 	the kid moves a piece, keeping his finger on it.
 1017_Bad_Santa_00.46.52.715-00.47.00.382 	the kid moves another counter, but still keeps a pudgy finger on it, and looks at willie, then changes his mind and moves it back.
 1017_Bad_Santa_00.47.00.715-00.47.05.405 	willie watches as the kid moves a third piece but still keeps his finger on the counter.
-1017_Bad_Santa_00.59.17.234-00.59.19.275 	then, eyes front, keeps walking down the street.
 1017_Bad_Santa_01.32.27.920-01.32.40.054 	the posse of cops surround him, keeping him covered as the screen fades slowly.
-1018_Body_Of_Lies_00.22.24.961-00.22.26.434 	ferris keeps shooting at the iraqis as they follow in the four-by-fours.
 1018_Body_Of_Lies_00.36.05.694-00.36.07.009 	the man keeps running.
-1018_Body_Of_Lies_00.55.27.291-00.55.33.070 	skip keeps on his tail.
-1018_Body_Of_Lies_01.33.16.115-01.33.19.117 	ferris keeps shooting.
 1018_Body_Of_Lies_01.53.36.760-01.53.43.798 	the camera keeps filming as ferris is lifted onto the table, face down.
 1018_Body_Of_Lies_01.53.49.322-01.53.55.496 	he keeps struggling, but the men hold him spread-eagled on the table.
+1019_Confessions_Of_A_Shopaholic_00.50.33.167-00.50.37.568 	keeping their heads still, they move around in a circle.
 1019_Confessions_Of_A_Shopaholic_01.29.34.780-01.29.42.899 	he keeps the ad, and looks at it with a sober expression.
 1024_Identity_Thief_00.07.27.474-00.07.29.795 	he keeps sandy from sitting.
 1024_Identity_Thief_01.34.57.624-01.35.01.985 	sandy keeps his tired eyes on the road.
@@ -157,10 +133,8 @@
 1026_Legion_00.33.35.956-00.33.38.043 	michael keeps the shotgun in place.
 1026_Legion_00.34.48.403-00.34.53.949 	jeep keeps his eyes on the road, then runs to the diner.
 1026_Legion_00.41.24.155-00.41.26.712 	the others try to keep hold of him.
-1026_Legion_01.12.35.967-01.12.36.440 	michael keeps holding charlie.
 1026_Legion_01.20.26.891-01.20.28.097 	jeep keeps his eye on the wing mirror as he drives away.
 1026_Legion_01.23.01.071-01.23.02.923 	michael keeps his arms held tight around gabriel's neck.
-1026_Legion_01.26.09.813-01.26.11.535 	charlie keeps hold of her baby.
 1027_Les_Miserables_01.48.40.743-01.48.47.223 	disguised as a soldier, he makes his way to the barricade where students keep watch.
 1027_Les_Miserables_02.01.15.594-02.01.18.609 	the students keep shooting at the soldiers.
 1027_Les_Miserables_02.01.36.560-02.01.38.232 	the students keep shooting.
@@ -168,10 +142,9 @@
 1030_Public_Enemies_00.20.37.879-00.20.43.880 	dillinger keeps his eyes fixed on her.
 1030_Public_Enemies_00.23.05.362-00.23.13.362 	the gang leader sips his drink and stands, keeping his eyes locked on the exotic woman.
 1030_Public_Enemies_00.55.26.324-00.55.29.991 	seated between two of his captors, dillinger keeps his pensive gaze aimed downward.
-1030_Public_Enemies_01.05.49.303-01.05.53.105 	the ford speeds away from town as young blood keeps watch out the rear windshield.
 1030_Public_Enemies_01.30.36.409-01.30.43.669 	the fugitive waves a hand low, paces backward, and keeps his tommy gun under his coat.
 1030_Public_Enemies_01.46.17.577-01.46.33.850 	she keeps her head down, then looks directly at him.
-1031_Quantum_of_Solace_00.11.20.345-00.11.24.780 	mitchell's on a ladder to the surface as bond picks himself up and keeps going.
+1030_Public_Enemies_02.05.01.994-02.05.05.140 	keeping her pace, anna holds a dour expression.
 1033_Sherlock_Holmes_A_Game_of_Shadows_00.53.09.144-00.53.11.535 	they keep an eye on meinhard.
 1033_Sherlock_Holmes_A_Game_of_Shadows_01.23.03.823-01.23.11.733 	the music is broadcast over a speaker into the yard, where watson cowers in the darkness as moran keeps a rifle trained from a walkway high up on the tower.
 1033_Sherlock_Holmes_A_Game_of_Shadows_01.29.18.741-01.29.23.408 	they keep running, heading towards the railway line.
@@ -182,44 +155,35 @@
 1034_Super_8_01.30.04.612-01.30.10.275 	jack keeps his eyes unflinchingly on the road ahead, but deep emotions boil beneath the surface.
 1035_The_Adjustment_Bureau_00.17.20.966-00.17.26.033 	the stranger keeps sprinting, as david looks for a place to sit.
 1037_The_Curious_Case_Of_Benjamin_Button_00.28.25.227-00.28.31.570 	wearing a large, ill-fitting fedora, benjamin struggles to keep up with him on crutches.
-1037_The_Curious_Case_Of_Benjamin_Button_01.13.22.823-01.13.27.722 	caroline smiles and keeps reading.
 1039_The_Queen_01.22.15.583-01.22.16.249 	she keeps moving along.
-1040_The_Ugly_Truth_00.35.50.365-00.35.53.259 	at the hospital, handsome, clean-cut colin keeps holding.
 1040_The_Ugly_Truth_01.16.05.848-01.16.12.278 	he stops and turns round, then turns back and keeps walking.
 1043_Vantage_Point_00.23.14.169-00.23.19.166 	enrique keeps his eyes on the young couple.
 1043_Vantage_Point_00.34.32.956-00.34.43.086 	howard keeps his camera focused on the shadowy figure, then turns as the president is shot.
 1043_Vantage_Point_00.34.43.086-00.34.45.405 	howard keeps the tape running as holden and matthews race to the president.
-1043_Vantage_Point_00.39.42.226-00.39.44.436 	enrique keeps running.
 1044_Pride_And_Prejudice_Disk_Two_00.52.26.935-00.52.30.000 	lizzie keeps her gaze averted from him.
 1045_An_education_00.23.00.100-00.23.04.642 	she keeps watching the stage.
 1046_Australia_00.15.30.681-00.15.35.000 	they mime keeping each other warm, and she ducks back into her tent.
 1046_Australia_00.55.25.368-00.55.31.719 	the others ride behind and alongside, keeping them together.
-1046_Australia_00.57.12.786-00.57.16.514 	king george keeps watch from the top of the cliffs.
 1046_Australia_01.53.33.916-01.53.36.836 	she freezes, keeping her back to him.
 1047_Defiance_01.11.52.070-01.11.54.783 	shimon and malbin are trying to keep a chess game going on their knees.
+1047_Defiance_01.21.35.528-01.21.46.565 	keeping their heads low, the three of them scurry across to one building, and then sneak towards the police station building flying the nazi flag.
 1047_Defiance_01.50.24.195-01.50.27.417 	leaving a few men and women standing behind the mossy roots of their bunkers with weapons poised, keeping their sights fixed on the woodland ahead of them.
 1047_Defiance_01.51.17.304-01.51.22.662 	asael keeping his head low scurries to a new position.
 1047_Defiance_01.55.27.103-01.55.33.689 	the bielski otriad set off, treading carefully through the foot-high water, holding on to the rope made up of all their belts with one hand to keep their balance and to keep connected.
 1047_Defiance_01.55.48.117-01.55.50.995 	asael, at the back, not holding the belt, loses his footing, but manages to keep his rifle above the water.
-1048_Gran_Torino_00.13.34.509-00.13.39.838 	thao keeps walking.
-1048_Gran_Torino_00.15.41.205-00.15.48.557 	they drive off and thao keeps walking.
 1048_Gran_Torino_00.26.20.911-00.26.22.737 	walt keeps the gun trained on them as they go.
 1048_Gran_Torino_00.50.41.123-00.50.44.226 	walt notices she keeps glancing over at thao.
 1048_Gran_Torino_00.51.12.861-00.51.13.371 	she keeps looking at thao.
 1048_Gran_Torino_01.32.35.364-01.32.39.116 	he passes a couple to walt and keeps a couple for himself.
-1049_Harry_Potter_and_the_chamber_of_secrets_01.44.00.931-01.44.04.768 	harry ignores him and keeps on walking.
 1049_Harry_Potter_and_the_chamber_of_secrets_02.13.08.536-02.13.11.577 	balancing on an edge, harry lashes out with the sword keeping the creature.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.31.42.657-00.31.49.308 	a group of men keep guard outside.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.35.12.058-01.35.20.629 	harry sits keeping watch, leaning back against the tree.
 1052_Harry_Potter_and_the_order_of_phoenix_00.02.58.000-00.03.01.220 	dudley is overweight and finds it hard to keep up.
-1052_Harry_Potter_and_the_order_of_phoenix_01.01.02.441-01.01.06.812 	nigel keeps watch as everyone leaves the room through another door.
 1053_Harry_Potter_and_the_philosophers_stone_00.55.37.486-00.55.45.286 	the others keep trying.
-1053_Harry_Potter_and_the_philosophers_stone_01.46.08.545-01.46.19.925 	fang keeps close beside them, then goes on ahead, his nose to the ground.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_00.49.58.373-00.50.09.897 	the dementors keep guard outside the school as all of the students sleep in the great hall.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_00.54.45.565-00.54.51.383 	he keeps close behind the hufflepuff seeker as they both spot the golden snitch.
 1056_Rambo_00.56.11.004-00.56.18.787 	one trooper fights the others off and leads the girl away, keeping his comrades at arms' length.
 1056_Rambo_01.08.59.301-01.09.03.830 	sarah and school boy keep running.
-1057_Seven_pounds_00.28.25.212-00.28.30.218 	duke keeps pulling ben.
 1057_Seven_pounds_00.38.42.326-00.38.44.412 	holly keeps a photo of herself and ben on her desk in the open-plan office.
 1057_Seven_pounds_01.55.40.510-01.55.48.916 	she cranes her neck to keep track of ezra as he leaves the stage and moves effortlessly towards members of the audience.
 1058_The_Damned_united_00.28.40.000-00.28.43.000 	brian keeps his wary eye fixed on the players.
@@ -227,63 +191,25 @@
 1060_Yes_man_01.32.46.038-01.32.51.670 	he keeps his head low and his arms bent as he rides the ducati, which is a cross between a trail bike and a road bike.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.19.39.000-00.19.42.000 	griphook rings the bells to keep the dragon at bay.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.06.37.222-01.06.38.848 	the giants keeps apace.
-1062_Day_the_Earth_stood_still_00.22.02.401-00.22.11.648 	as the soldiers prepare to fire, helen keeps moving slowly forwards.
 1062_Day_the_Earth_stood_still_01.13.24.402-01.13.31.000 	klaatu leads the way, followed by helen, trying to keep up and holding jacob's hand.
 2005_Signs_00.04.57.682-00.05.00.133 	the dogs keep running and barking as we pull back and reveal .
 2005_Signs_00.24.06.632-00.24.09.771 	he keeps walking.
 2005_Signs_00.32.43.491-00.32.48.005 	he keeps it out in the air where he had it as he closed his door.
 2005_Signs_00.33.46.281-00.33.48.000 	merrill keeps a hand on his nephew.
-2005_Signs_00.38.27.998-00.38.29.403 	graham keeps running across the yard.
-2005_Signs_01.14.04.471-01.14.09.614 	graham keeps hammering as he speaks.
+2005_Signs_00.54.28.163-00.54.28.914 	and keeps staring.
 2005_Signs_01.14.21.776-01.14.26.133 	merrill keeps going.
-2012_Unbreakable_00.17.27.114-00.17.27.539 	her left hand keeps typing.
 2012_Unbreakable_00.50.19.962-00.50.24.103 	elijah just keeps staring.
 2012_Unbreakable_01.21.21.923-01.21.22.548 	the man inside the house uses all his strength to keep the door from opening.
 2026_Legion_00.24.26.903-00.24.30.760 	all the while though, he keeps one eye fixed on the old lady sitting at the table near the andersons.
 2026_Legion_00.32.08.629-00.32.11.192 	michael offers up a dangerous smile, revealing a not so well kept but definitely normal set of teeth.
 2026_Legion_00.38.10.486-00.38.12.075 	michael keeps his aim.
-2026_Legion_00.55.53.314-00.55.56.874 	on the other side of the roof, bob keeps watch, struggling to stay awake.
 2026_Legion_01.04.51.221-01.05.03.712 	kyle and audrey are bundled together on the roof, keeping watch.
 2026_Legion_01.09.24.509-01.09.29.795 	she keeps pulling the trigger.
-2026_Legion_01.12.27.468-01.12.36.524 	bob and jeep keep watch.
-1053_Harry_Potter_and_the_philosophers_stone_00.55.37.486-00.55.45.286 	the others keep trying.
-1053_Harry_Potter_and_the_philosophers_stone_01.46.08.545-01.46.19.925 	fang keeps close beside them, then goes on ahead, his nose to the ground.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.49.58.373-00.50.09.897 	the dementors keep guard outside the school as all of the students sleep in the great hall.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.54.45.565-00.54.51.383 	he keeps close behind the hufflepuff seeker as they both spot the golden snitch.
-1056_Rambo_00.56.11.004-00.56.18.787 	one trooper fights the others off and leads the girl away, keeping his comrades at arms' length.
-1056_Rambo_01.08.59.301-01.09.03.830 	sarah and school boy keep running.
-1057_Seven_pounds_00.28.25.212-00.28.30.218 	duke keeps pulling ben.
-1057_Seven_pounds_00.38.42.326-00.38.44.412 	holly keeps a photo of herself and ben on her desk in the open-plan office.
-1057_Seven_pounds_01.55.40.510-01.55.48.916 	she cranes her neck to keep track of ezra as he leaves the stage and moves effortlessly towards members of the audience.
-1058_The_Damned_united_00.28.40.000-00.28.43.000 	brian keeps his wary eye fixed on the players.
-1058_The_Damned_united_00.31.27.732-00.31.32.899 	jimmy tosses a ball at brian, who keeps it up with his feet and head then turns for goal.
-1060_Yes_man_01.32.46.038-01.32.51.670 	he keeps his head low and his arms bent as he rides the ducati, which is a cross between a trail bike and a road bike.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.19.39.000-00.19.42.000 	griphook rings the bells to keep the dragon at bay.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.06.37.222-01.06.38.848 	the giants keeps apace.
-1062_Day_the_Earth_stood_still_00.22.02.401-00.22.11.648 	as the soldiers prepare to fire, helen keeps moving slowly forwards.
-1062_Day_the_Earth_stood_still_01.13.24.402-01.13.31.000 	klaatu leads the way, followed by helen, trying to keep up and holding jacob's hand.
-2005_Signs_00.04.57.682-00.05.00.133 	the dogs keep running and barking as we pull back and reveal .
-2005_Signs_00.24.06.632-00.24.09.771 	he keeps walking.
-2005_Signs_00.32.43.491-00.32.48.005 	he keeps it out in the air where he had it as he closed his door.
-2005_Signs_00.33.46.281-00.33.48.000 	merrill keeps a hand on his nephew.
-2005_Signs_00.38.27.998-00.38.29.403 	graham keeps running across the yard.
-2005_Signs_01.14.04.471-01.14.09.614 	graham keeps hammering as he speaks.
-2005_Signs_01.14.21.776-01.14.26.133 	merrill keeps going.
-2012_Unbreakable_00.17.27.114-00.17.27.539 	her left hand keeps typing.
-2012_Unbreakable_00.50.19.962-00.50.24.103 	elijah just keeps staring.
-2012_Unbreakable_01.21.21.923-01.21.22.548 	the man inside the house uses all his strength to keep the door from opening.
-2026_Legion_00.24.26.903-00.24.30.760 	all the while though, he keeps one eye fixed on the old lady sitting at the table near the andersons.
-2026_Legion_00.32.08.629-00.32.11.192 	michael offers up a dangerous smile, revealing a not so well kept but definitely normal set of teeth.
-2026_Legion_00.38.10.486-00.38.12.075 	michael keeps his aim.
-2026_Legion_00.55.53.314-00.55.56.874 	on the other side of the roof, bob keeps watch, struggling to stay awake.
-2026_Legion_01.04.51.221-01.05.03.712 	kyle and audrey are bundled together on the roof, keeping watch.
-2026_Legion_01.09.24.509-01.09.29.795 	she keeps pulling the trigger.
-2026_Legion_01.12.27.468-01.12.36.524 	bob and jeep keep watch.
+2034_Super_8_00.31.33.545-00.31.33.916 	keep moving over them, to martin and alice, who were on camera.
 2034_Super_8_01.11.38.829-01.11.43.913 	moving past as donny moves through parked cars, joe, charles, cary and martin keeping up.
 2034_Super_8_01.33.25.489-01.33.27.238 	no go -- he keeps trying.
 2040_The_Ugly_Truth_00.45.54.179-00.46.03.195 	as mike is walking away, he turns back for a moment, then keeps walking.
 2040_The_Ugly_Truth_01.17.20.904-01.17.22.534 	he keeps walking as she tries to keep up.
 2040_The_Ugly_Truth_01.19.14.658-01.19.20.163 	and keeps drinking.
 2041_This_is_40_01.42.04.179-01.42.05.120 	barb and barry are trying to help keep the conversation going.
-2041_This_is_40_01.53.20.044-01.53.21.101 	debbie keeps walking down the hall.
 2041_This_is_40_01.58.43.081-01.58.57.614 	when the car stops for a red he keeps going, tears off to the left, crosses four lanes of traffic in both directions and almost gets hit.

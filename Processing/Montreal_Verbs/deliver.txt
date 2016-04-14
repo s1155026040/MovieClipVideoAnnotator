@@ -1,16 +1,6 @@
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS502 	00:48:48,00 --> 00:48:55,50 	someone surreptitiously reaches for the knife in his boot, as someone delivers a knee to someone's face.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS192 	00:26:11,00 --> 00:26:25,50 	as stibble charges, he delivers a mighty upward blow.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS390 	00:54:38,00 --> 00:55:09,50 	he delivers a powerful roundhouse kick as more and more vampires join the fray, a staring someone backs away from the window.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS553 	02:10:04,00 --> 02:10:09,50 	someone delivers a left jab.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS30 	00:03:50,00 --> 00:03:54,50 	the soldier delivers it.
-JACK_AND_JILL.srt 	JACK_AND_JILL_DVS397 	01:13:12,00 --> 01:13:20,50 	someone delivers a right hook that knocks him clear through a door onto the floor of the adjacent restroom.
-KARATE_KID.srt 	KARATE_KID_DVS220 	00:18:55,00 --> 00:19:13,50 	someone springs up, delivering a fierce backhand.
-KARATE_KID.srt 	KARATE_KID_DVS221 	00:19:10,00 --> 00:19:17,50 	crouching over his fallen opponent, he delivers a brutal punch to someone's left eye.
 KARATE_KID.srt 	KARATE_KID_DVS500 	00:44:43,00 --> 00:44:48,50 	he delivers a kick, but mr.
-KARATE_KID.srt 	KARATE_KID_DVS1372 	01:50:55,00 --> 01:51:16,50 	someone spins and delivers a roundhouse kick, flipping his opponent onto the ground.
 KARATE_KID.srt 	KARATE_KID_DVS1556 	02:05:37,00 --> 02:05:47,50 	he delivers a sidekick which the american blocks.
-KARATE_KID.srt 	KARATE_KID_DVS1570 	02:07:24,00 --> 02:07:50,50 	the bully lands on his back and someone delivers a blow to his nose.
-KARATE_KID.srt 	KARATE_KID_DVS1588 	02:09:22,00 --> 02:09:33,50 	the boy delivers a swift kick to the leg, then leaps and spins, plunging his foot into the side of the injured knee.
 MORNING_GLORY.srt 	MORNING_GLORY_DVS298 	01:05:38,00 --> 01:05:47,50 	a guy delivers a note to someone.
-THE_CALL.srt 	THE_CALL_DVS1128 	01:25:01,00 --> 01:25:12,50 	someone delivers a high kick to his back and he falls halfway through the hatch.
-THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS430 	01:17:31,00 --> 01:17:37,50 	someone faces someone then delivers a fast right hook.

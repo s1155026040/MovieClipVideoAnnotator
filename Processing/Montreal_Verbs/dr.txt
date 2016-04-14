@@ -1,6 +1,2 @@
-BLINDDATING.srt 	BLINDDATING_DVS113 	00:30:58,00 --> 00:31:04,50 	someone looks to dr.
-BLINDDATING.srt 	BLINDDATING_DVS315 	01:16:37,00 --> 01:16:44,50 	someone comes full circle and pats dr.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS174 	00:31:58,00 --> 00:32:07,50 	he glances at someone who turns and leads him to dr.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS211 	00:38:08,00 --> 00:38:24,50 	someone grabs the last vial of serum and shoots dr.
-NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS402 	01:13:23,00 --> 01:13:31,50 	clutching her coat she wanders down the corridor oblivious to dr.
 SOUL_SURFER.srt 	SOUL_SURFER_DVS136 	00:42:28,00 --> 00:42:33,50 	someone's mother smiles and nods to dr.

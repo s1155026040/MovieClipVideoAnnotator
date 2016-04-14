@@ -1,94 +1,51 @@
 BLINDDATING.srt 	BLINDDATING_DVS63 	00:19:36,00 --> 00:19:41,50 	bowing profusely, someone leaves.
-BLINDDATING.srt 	BLINDDATING_DVS275 	01:07:58,00 --> 01:08:04,50 	and he keeps his head bowed.
-BLINDDATING.srt 	BLINDDATING_DVS303 	01:14:42,00 --> 01:15:00,50 	he bows his head, then lets his touch recognize her face.
-BRUNO.srt 	BRUNO_DVS50 	00:09:47,00 --> 00:09:54,50 	he bows, then reads.
 BURLESQUE.srt 	BURLESQUE_DVS324 	00:44:40,00 --> 00:44:44,50 	he bows his head.
 BURLESQUE.srt 	BURLESQUE_DVS361 	00:49:37,00 --> 00:49:42,50 	she curtsies, then bows with the others.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS156 	00:12:31,00 --> 00:12:39,50 	with his left foot planted on the nose, he bows his head, letting the lip of wave wet his hair.
 CHRONICLE.srt 	CHRONICLE_DVS353 	00:53:58,00 --> 00:54:06,50 	a female cellist bows her instrument, performing on a lawn strewn with dead leaves.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS122 	00:27:47,00 --> 00:27:57,50 	he briefly bows his head, then forces words out.
-CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS124 	00:28:07,00 --> 00:28:19,50 	as someone bows his head again, someone keeps her tear-moistened eyes on him.
-CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS155 	00:34:05,00 --> 00:34:13,50 	as she bows her head, someone opens his eyes and shifts restlessly.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS198 	00:41:38,00 --> 00:41:43,50 	a man in a vest bows his head.
 COLOMBIANA.srt 	COLOMBIANA_DVS532 	00:48:04,00 --> 00:48:10,50 	she plants her hands on the wall and bows her head.
-COLOMBIANA.srt 	COLOMBIANA_DVS679 	01:04:25,00 --> 01:04:31,50 	as a man passes, she bows her head, letting her hair shield her face.
 COLOMBIANA.srt 	COLOMBIANA_DVS1076 	01:41:10,00 --> 01:41:14,50 	she bows her head.
-COLOMBIANA.srt 	COLOMBIANA_DVS1093 	01:43:23,00 --> 01:43:28,50 	as he leaves, agent someone bows his head.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS100 	00:15:07,00 --> 00:15:14,50 	eyes the rosy-cheeked young woman, then shyly bows his head.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS186 	00:29:37,00 --> 00:29:44,50 	silhouetted against the gray sky, someone bows his head.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS358 	00:55:59,00 --> 00:56:04,50 	someone bows his head and faces her from the side.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS529 	01:16:17,00 --> 01:16:22,50 	someone bows his head slightly and nods.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS580 	01:21:52,00 --> 01:21:59,50 	someone sits beside his surfboard with his knees pulled up, and his head bowed.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS627 	01:25:36,00 --> 01:25:42,50 	he bows his head and shifts awkwardly from foot to foot.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS668 	01:30:30,00 --> 01:30:35,50 	someone bows his head, avoiding someone's gaze.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS716 	01:36:15,00 --> 01:36:23,50 	someone bows his head.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS737 	01:37:41,00 --> 01:37:46,50 	he meets her pleading stare, then bows his head.
 DISTRICT_9.srt 	DISTRICT_9_DVS861 	01:42:00,00 --> 01:42:26,50 	bowing his head, he shields his face.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS326 	00:49:50,00 --> 00:49:54,50 	he bows his head.
-GROWN_UPS.srt 	GROWN_UPS_DVS136 	00:42:07,00 --> 00:42:16,50 	someone closes the urn and bows his head.
-HUGO.srt 	HUGO_DVS112 	00:14:46,00 --> 00:14:56,50 	they approach a gate leading to a cemetery filled with snow dusted statues of hooded figures standing with their hands clasped and their heads bowed.
-HUGO.srt 	HUGO_DVS463 	01:07:36,00 --> 01:07:42,50 	the inspector bows slightly then turns and walks off.
-HUGO.srt 	HUGO_DVS792 	01:55:13,00 --> 01:55:18,50 	he nods to the audience then bows to someone.
-HUGO.srt 	HUGO_DVS797 	01:56:53,00 --> 01:57:04,50 	someone holds up his arms then bows and steps backward toward a movie screen.
-JACK_AND_JILL.srt 	JACK_AND_JILL_DVS343 	01:06:09,00 --> 01:06:16,50 	now he enters a public restroom and faces an attendant who bows politely.
 KARATE_KID.srt 	KARATE_KID_DVS328 	00:29:36,00 --> 00:29:41,50 	someone bows her head and tightly grips her violin.
-KARATE_KID.srt 	KARATE_KID_DVS1113 	01:32:30,00 --> 01:32:40,50 	as her parents take seats near the front of the house, she steps center stage, bows first to the judges, then to the orchestra.
-KARATE_KID.srt 	KARATE_KID_DVS1233 	01:41:04,00 --> 01:41:09,50 	someone sets the pictures down and eyes someone, who keeps his head bowed.
 KARATE_KID.srt 	KARATE_KID_DVS1346 	01:48:51,00 --> 01:48:55,50 	someone bows his head and reads,
-KARATE_KID.srt 	KARATE_KID_DVS1474 	01:59:52,00 --> 02:00:01,50 	in unison, the two opponents press their fists to their open palms and bow deeply from the waist.
 KARATE_KID.srt 	KARATE_KID_DVS1598 	02:10:19,00 --> 02:10:23,50 	his head bows, and he doubles over.
-KARATE_KID.srt 	KARATE_KID_DVS1634 	02:12:46,00 --> 02:12:56,50 	as someone turns away with his head bowed, someone looks to the big screen.
 KARATE_KID.srt 	KARATE_KID_DVS1649 	02:13:54,00 --> 02:14:03,50 	lined up behind him, his fellow students sidestep into view, copy the gesture, and bow solemnly.
-LARRY_CROWNE.srt 	LARRY_CROWNE_DVS285 	01:08:00,00 --> 01:08:23,50 	sitting motionless, the teacher gazes after him, then bows her head as he exits.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS144 	00:18:11,00 --> 00:18:23,50 	looking right, he sees dozens of kneeling men bowing, performing salah in the mosque's courtyard.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS319 	00:41:07,00 --> 00:41:11,50 	he bows.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS272 	00:59:34,00 --> 00:59:49,50 	someone bows her head.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS286 	01:03:32,00 --> 01:03:38,50 	statue bows his head.
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS227 	00:54:35,00 --> 00:54:42,50 	as they bow, the conductor halts and frowns at the sight of someone's glowing face.
 PROMETHEUS.srt 	PROMETHEUS_DVS463 	00:49:00,00 --> 00:49:05,50 	he allows a slight smile and bows his head.
 PROMETHEUS.srt 	PROMETHEUS_DVS855 	01:33:57,00 --> 01:34:02,50 	someone watches as someone bows her head.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS196 	00:37:18,00 --> 00:37:24,50 	one of the street agents looks to his young partner who bows his head.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS340 	01:05:14,00 --> 01:05:18,50 	licks his lips, his head bowed slightly.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS550 	01:43:11,00 --> 01:43:16,50 	he calmly bows his head and collects his breath.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS58 	00:17:09,00 --> 00:17:15,50 	as the king steps closer, someone bows his head.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS80 	00:21:23,00 --> 00:21:34,50 	someone mournfully bows his head.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS119 	00:31:03,00 --> 00:31:12,50 	upon her approach, the friar humbly bows his round jowly head.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS146 	00:37:09,00 --> 00:37:12,50 	they bow as the queen approach.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS195 	00:46:40,00 --> 00:46:49,50 	he waves off his courtiers who bow and hurry out leaving the royal family, someone, someone and one other chancellor.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS379 	01:33:55,00 --> 01:33:59,50 	a messenger bows.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS395 	01:37:33,00 --> 01:37:40,50 	the archer bows his head, then looks back to the cross.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS370 	00:59:50,00 --> 00:59:56,50 	someone's brow lifts and he bows his head.
-RUBY_SPARKS.srt 	RUBY_SPARKS_DVS406 	01:04:05,00 --> 01:04:10,50 	someone leans back in his chair and bows his head.
-RUBY_SPARKS.srt 	RUBY_SPARKS_DVS638 	01:31:41,00 --> 01:31:50,50 	he steps into the closet, stares at the bare shelves then collapses to his knees and bows his head to the floor.
-SANCTUM.srt 	SANCTUM_DVS152 	00:31:49,00 --> 00:31:56,50 	with his head bowed, he holds the bottle out to someone who takes it and drinks.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS282 	00:19:04,00 --> 00:19:08,50 	the matchmaker bows.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS350 	00:23:41,00 --> 00:23:48,50 	she bows her head.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS513 	00:33:18,00 --> 00:33:25,50 	the two friends kneel, press their hands together in prayer, and bow their heads.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS605 	00:40:17,00 --> 00:40:21,50 	she bows respectfully.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS608 	00:40:23,00 --> 00:40:29,50 	later, a couple bows ceremoniously to her and her husband,
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS980 	01:03:56,00 --> 01:04:01,50 	she bows her head, her soft features pinching in a grief-stricken frown.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1020 	01:06:39,00 --> 01:06:45,50 	someone studies his expression, then bows her head demurely.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1072 	01:12:28,00 --> 01:12:33,50 	someone takes a strained breath and bows her head.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1079 	01:14:01,00 --> 01:14:08,50 	someone marches down the hallway, her head bowed.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1140 	01:17:36,00 --> 01:17:43,50 	the noblewoman's eyes glisten but she gives an accepting nod and bows her head.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1173 	01:19:27,00 --> 01:19:32,50 	the messenger apologetically bows her head.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1224 	01:22:14,00 --> 01:22:19,50 	someone humbly bows her head.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS527 	01:14:36,00 --> 01:14:40,50 	someone bows his head.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS237 	00:46:08,00 --> 00:46:12,50 	someone bows her head.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS241 	00:38:13,00 --> 00:38:18,50 	his chest rises and falls and he bows his head.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS494 	00:56:19,00 --> 00:56:25,50 	she keeps her head bowed, her hair masking her face from view.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS570 	01:03:21,00 --> 01:03:28,50 	now, someone opens his apartment door to find someone in the hallway with her head bowed.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS642 	01:09:52,00 --> 01:10:00,50 	he starts to cut into his sandwich before noticing his daughter's head bowed in prayer.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS882 	01:38:17,00 --> 01:38:21,50 	he bows his head.
-THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS218 	01:28:42,00 --> 01:28:50,50 	someone looks helplessly to someone who bows his head.
-THE_VOW.srt 	THE_VOW_DVS308 	00:39:53,00 --> 00:39:59,50 	someone bows his head then meets her imploring gaze.
-THE_VOW.srt 	THE_VOW_DVS575 	01:20:04,00 --> 01:20:10,50 	bowing his head, someone shuffles back a few steps, then heads inside.
 THE_VOW.srt 	THE_VOW_DVS631 	01:26:28,00 --> 01:26:32,50 	her mother bows her head.
-THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS393 	01:11:09,00 --> 01:11:15,50 	someone shuts his eyes and bows his head.
 THOR.srt 	THOR_DVS397 	00:59:24,00 --> 00:59:28,50 	he bows his head.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS36 	00:06:13,00 --> 00:06:17,50 	the two men bow to each other.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS446 	01:10:05,00 --> 01:10:09,50 	smiling, she bows.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS134 	00:08:41,00 --> 00:08:47,50 	bowing his head, he bursts into tear.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS896 	01:21:51,00 --> 01:21:59,50 	he bows his head for a moment, then extends his hand and fingers as if stretching to reach the dish.
 ZOOKEEPER.srt 	ZOOKEEPER_DVS232 	00:53:29,00 --> 00:53:34,50 	he bows his head.
-ZOOKEEPER.srt 	ZOOKEEPER_DVS341 	01:16:24,00 --> 01:16:34,50 	bowing his head, someone shakes it.

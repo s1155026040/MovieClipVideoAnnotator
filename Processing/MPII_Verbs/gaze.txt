@@ -3,240 +3,125 @@
 0007_DIE_NACHT_DES_JAEGERS_01.15.47.100-01.15.48.189 	gazing after him.
 0008_Fargo_00.14.45.168-00.14.46.392 	grimsrud smokes, gazing out the window.
 0008_Fargo_00.25.53.051-00.25.54.997 	grimsrud smokes and gazes out the window.
-0008_Fargo_00.34.32.453-00.34.38.698 	the man sits up, gazes stupidly about.
 0008_Fargo_00.39.39.114-00.39.40.440 	lou gazes out the window, thinking.
 0008_Fargo_01.19.16.075-01.19.22.588 	marge drives, gazing out at the road.
-0008_Fargo_01.30.15.344-01.30.19.379 	grimsrud's head bobs with bumps on the road; otherwise he is motionless, reaction less, scowling and gazing out.
-0008_Fargo_01.30.20.911-01.30.34.354 	marge, gazing forward, seems to be talking to herself.
-0011_Gandhi_02.08.24.729-02.08.27.523 	both sides of the track are lined with peasants holding flower petals and leaves, all gazing expectantly down the road.
-0014_Ist_das_Leben_nicht_schoen_01.07.09.126-01.07.19.704 	the big black limousine glides away, leaving george standing with his arm around mary, gazing broodingly after it.
 0016_O_Brother_Where_Art_Thou_00.18.23.603-00.18.38.467 	pete, delmar and everett emerge from the woods and gaze down at the river.
-0016_O_Brother_Where_Art_Thou_00.28.06.732-00.28.21.804 	the three convicts, holding coffee cups, gaze into the fire.
-0016_O_Brother_Where_Art_Thou_00.32.27.129-00.32.31.140 	like a child gazing at soap bubbles, delmar looks around at the wafting currency, and yanks another fluttering bill out of the air.
-0017_Pianist_00.02.06.770-00.02.11.041 	he turns, to see an extremely pretty young woman gazing adoringly at him while they're jostled and shoved.
 0017_Pianist_00.13.01.314-00.13.06.324 	szpilman gazes at the map, horrified.
 0017_Pianist_01.13.31.775-01.13.33.985 	he gazes at szpilman, whose eyes remain closed.
-0017_Pianist_01.22.45.460-01.22.52.008 	he goes into the small kitchen and unpacks the contents while janina gazes out of the window.
 0017_Pianist_01.23.43.289-01.23.44.407 	szpilman gazes out.
 0017_Pianist_01.31.10.910-01.31.13.415 	he gazes at her.
 0017_Pianist_01.36.05.542-01.36.08.482 	he gazes lovingly at the keyboard.
 0020_Raising_Arizona_00.06.19.503-00.06.20.038 	gazing earnestly into the camera.
-0020_Raising_Arizona_00.11.49.946-00.11.52.025 	the living room is dominated by a large oil portrait of nathan and florence, gazing out from the wall over the mantelpiece.
 0020_Raising_Arizona_01.07.02.811-01.07.05.028 	gale drives, gazing out at the road.
-0020_Raising_Arizona_01.25.00.957-01.25.03.476 	ed starts crying softly as she gazes into the crib.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.20.29.213-00.20.34.170 	pippin unwraps the palantir and as merry looks on horrified, he gazes intently into it.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.34.22.424-00.34.31.777 	at the foot of the dais, in a small stone chair, sits an old man, gazing at his lap: denethor -- the lord steward of.
-0027_The_Big_Lebowski_01.03.37.420-01.03.39.039 	on it is the group's name, autobahn, the album name, nagelbett, and a picture of three young germans, their foreheads looming below slicked-back hair, gazing upward in thin-lipped epiphany.
 0027_The_Big_Lebowski_01.50.33.134-01.50.44.948 	gazing after him, the stranger drawls, savoring the words.
-0032_The_Princess_Bride_00.02.59.467-00.03.02.071 	he gazes at her as she walks away.
-0032_The_Princess_Bride_00.03.51.311-00.04.01.483 	he gets it, hands it to her; they are standing very close to each other gazing into each other's eyes.
-0038_Psycho_00.33.05.541-00.33.11.171 	she turns her face away now, gazes sadly at the little empty room.
-0038_Psycho_00.35.30.166-00.35.33.459 	norman gazes at her, at the tiny bite she has taken, smiles and then laughs.
-0038_Psycho_01.10.32.727-01.10.34.805 	arbogast turns, gazes seriously at him.
-0038_Psycho_01.30.32.241-01.30.34.440 	norman looks up, gazes her as she goes out door.
-0038_Psycho_01.41.19.715-01.41.20.953 	lila gazes for one flicker of a deathly moment, then begins to scream, a high, piercing, dreadful scream.
 0038_Psycho_01.42.10.188-01.42.13.738 	everyone gazes at him, mystified.
-0038_Psycho_01.47.47.353-01.47.48.420 	norman continues to gaze ahead into nothing.
 0041_The_Sixth_Sense_00.10.58.789-00.11.00.178 	he gazes blankly at the brownstones.
 0041_The_Sixth_Sense_00.24.07.887-00.24.09.202 	he gazes at cole's school uniform.
 0041_The_Sixth_Sense_00.42.00.087-00.42.01.747 	cole gazes at bobby.
 0041_The_Sixth_Sense_00.50.32.712-00.50.37.053 	malcolm just gazes quietly.
-0041_The_Sixth_Sense_01.08.45.546-01.08.49.492 	malcolm gazes at it, then looks up at cole's pained eyes.
-0041_The_Sixth_Sense_01.21.31.506-01.21.35.075 	he turns and gazes at the girl's bedroom.
 0041_The_Sixth_Sense_01.23.23.395-01.23.34.561 	the father gazes at cole as he melts into the crowd.
 0041_The_Sixth_Sense_01.32.37.656-01.32.51.410 	lynn gazes out the windshield at the line of red tail lights.
 0041_The_Sixth_Sense_01.36.53.583-01.36.55.377 	he gazes upon his wife softly.
 0041_The_Sixth_Sense_01.37.48.639-01.37.50.913 	he gazes curiously at a gold wedding band laying on the wood floor.
-0049_Hannah_and_her_sisters_00.02.42.762-00.02.45.582 	elliot reluctantly returns to the conversation, but he can't help turning his head to gaze at the offscreen lee as the other man chatters on.
-0049_Hannah_and_her_sisters_00.21.42.150-00.21.48.350 	the group is now seen walking down the canopied entrance stairs of an apartment house on the other side of the street, where they'd been gazing at both the lovely and ugly facades across the way.
 1001_Flight_02.03.16.332-02.03.20.269 	whip gazes at an enlarged photograph of katerina on the screen.
 1002_Harry_Potter_and_the_Half-Blood_Prince_00.13.25.115-00.13.26.379 	as they part, they gaze at each other.
 1002_Harry_Potter_and_the_Half-Blood_Prince_00.51.36.921-00.51.43.489 	hermione wipes the butterbeer froth from her lip with her sleeve, then gazes at ron.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.26.37.688-01.26.49.413 	he's sitting on the floor, gazing dreamily out of the window.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.27.53.399-01.28.00.806 	as ron sits on the floor and gazes up at the moon, harry reads the card which came with the chocolates.
 1002_Harry_Potter_and_the_Half-Blood_Prince_01.41.36.335-01.41.37.599 	harry gazes at ginny.
 1003_How_to_Lose_Friends_and_Alienate_People_00.09.38.483-00.09.39.746 	he gazes, wide-eyed, at a sign over the entrance of a theater.
 1003_How_to_Lose_Friends_and_Alienate_People_00.27.14.610-00.27.17.723 	night, sidney gazes out through the window of a sleek black automobile as it glides through manhattan.
-1003_How_to_Lose_Friends_and_Alienate_People_01.07.42.620-01.07.46.574 	smiling, she turns her head to look at sydney, who lies on his side, gazing at her.
-1003_How_to_Lose_Friends_and_Alienate_People_01.09.12.418-01.09.19.034 	holding alison upright, sydney gazes over at sophie, kneeling by the pool.
 1003_How_to_Lose_Friends_and_Alienate_People_01.35.10.255-01.35.15.235 	the handsome brill-creamed gent in the '50s movie slides an engagement ring onto sydney's mum's finger and she gazes love- struck into his eyes.
 1004_Juno_00.05.27.833-00.05.33.333 	she slaps a pack of sweets onto the counter and gazes at the test.
-1004_Juno_00.22.41.728-00.22.45.187 	he goes back to gazing at juno's picture and brings his class pen from behind his head.
 1004_Juno_00.41.30.125-00.41.45.847 	in her room, with its walls covered in drawings, juno lies on her bed, her legs propped up on cushions, gazing at the ultrasound print.
-1004_Juno_00.57.09.876-00.57.17.607 	she stands up and looks elsewhere, but juno stays where she is, gazing down at vanessa playing with the little girl.
-1004_Juno_00.59.26.393-00.59.41.540 	juno, standing over her, watches her with a mixture of fondness and pride, as vanessa gazes at the swollen belly like a love struck puppy.
 1004_Juno_01.01.58.006-01.02.01.487 	leah gazes adoringly at the tubby bearded teacher.
 1004_Juno_01.13.24.670-01.13.29.440 	vanessa sinks down on the stairs and gazes unhappily into space.
 1004_Juno_01.28.17.086-01.28.19.107 	vanessa gazes into the baby's face and beams.
-1004_Juno_01.29.07.556-01.29.15.297 	vanessa, sitting up in bed, her baby in her arms, gazes solemnly into his upturn face.
 1005_Signs_00.07.18.050-00.07.21.470 	carolyn sighs wearily and gazes at graham.
 1005_Signs_00.09.35.245-00.09.37.483 	graham gazes across the field.
 1005_Signs_00.10.42.524-00.10.44.400 	they gaze down at the dead dog.
-1005_Signs_00.12.41.830-00.12.46.159 	he gazes at her and looks her up and down.
 1005_Signs_00.26.33.896-00.26.36.970 	merrill gazes apprehensively down at cunningham, then laughs.
 1005_Signs_00.29.46.241-00.29.52.069 	merrill also gazes out at the young man.
-1005_Signs_00.30.03.400-00.30.03.911 	he sees the family gazing back at him.
 1005_Signs_01.18.23.283-01.18.31.339 	he gazes in horror at the unsecured hatch door in the attic.
-1006_Slumdog_Millionaire_00.25.00.788-00.25.08.179 	the bus is full of scruffy street kids gazing out of the windows.
-1007_Spider-Man1_00.09.31.385-00.09.33.464 	peter is wide-eyed as he gazes forlornly at her.
 1007_Spider-Man1_00.48.47.545-00.48.51.265 	peter gazes down from the darkness.
 1007_Spider-Man1_00.52.27.535-00.52.36.300 	tears rolling slowly down his cheeks, he gazes distantly ahead.
 1007_Spider-Man1_01.04.06.985-01.04.16.293 	the older man sips from a cup of coffee as it gazed fixed on norman, who wipes his mouth with the back of his hand.
-1008_Spider-Man2_00.03.23.097-00.03.27.717 	peter gazes at a poster of mj, the face of parfumerie emma rose.
 1008_Spider-Man2_00.04.24.037-00.04.25.511 	peter gazes blankly.
 1008_Spider-Man2_00.36.34.224-00.36.36.948 	mj gazes hopefully at the phone.
 1008_Spider-Man2_00.59.40.862-00.59.43.395 	he gazes, mesmerized.
-1008_Spider-Man2_01.13.50.622-01.13.53.458 	peter, standing beside her, gazes at her earnestly.
-1008_Spider-Man2_01.21.01.564-01.21.03.688 	he gazes at her through tearful eyes and looks away.
-1008_Spider-Man2_01.37.22.000-01.37.26.763 	his head shakes slightly, as he gazes sorrowfully into her blue eyes.
 1008_Spider-Man2_02.10.06.198-02.10.13.129 	gazing at her, peter grins, then about-turns.
-1009_Spider-Man3_00.11.26.928-00.11.35.939 	flint sits down on the window sill as he gazes at her intently.
-1009_Spider-Man3_00.16.39.358-00.16.45.088 	peter takes the ring and gazes gratefully at his aunt, who smiles back at him, warmly.
-1009_Spider-Man3_00.29.35.531-00.29.41.297 	sandman's hollow eyes look melancholy as they gaze down at the picture.
-1009_Spider-Man3_01.13.59.179-01.14.08.063 	with a glum expression, she gazes out into the gray daylight, pulls her coat collar around her neck, and heads away down the street.
 1009_Spider-Man3_01.18.36.156-01.18.46.474 	mary jane brushes harry's dark hair back from his brow then lets her gaze meet his adoring eyes.
 1009_Spider-Man3_01.35.46.041-01.35.47.366 	he gazes at the tiny image.
-1009_Spider-Man3_01.50.11.227-01.50.18.837 	he holds it up and gazes calmly at the spider emblazoned across the chest on its ribbed web.
 1009_Spider-Man3_02.12.32.132-02.12.42.069 	peter, in his smart suit, gazes at her as he listens.
-1010_TITANIC_00.21.56.487-00.22.00.992 	the brown haired woman, who wears a white dress with thin black stripes and a large brimmed hat, gazes up at the enormous ship.
 1010_TITANIC_00.31.59.407-00.32.10.973 	jack smiles as he gazes down at the dolphins behind them a crew member hand a teacup to captain smith.
 1010_TITANIC_00.32.11.167-00.32.12.509 	he sips his drink while gazing out to sea.
 1010_TITANIC_00.35.41.366-00.35.42.674 	jack gazes across the ship.
-1010_TITANIC_00.37.07.849-00.37.21.182 	meanwhile, jack lies on a bench and smokes a cigarette as he gazes up at the starry sky.
 1010_TITANIC_00.37.49.388-00.37.57.918 	she gazes down at the churning water.
-1010_TITANIC_00.46.11.484-00.46.35.553 	rose strokes the necklace as she gazes at her own reflection on the vanity mirror.
 1010_TITANIC_00.57.03.980-00.57.07.625 	jack steps to the railing and gazes down at a couple descending the ship's grand staircase.
-1010_TITANIC_00.57.53.414-00.58.04.717 	jack watches the couple, then gazes up the staircase as cal and ruth descend toward him.
-1010_TITANIC_00.58.14.368-00.58.17.352 	from the staircase's landing, rose gazes down at jack who pretends to shake somebody's hand, practicing to be a gentleman.
 1010_TITANIC_00.59.45.614-00.59.50.683 	they gaze toward a group of people.
-1010_TITANIC_01.01.44.524-01.01.48.725 	jack gazes down at an array of silverware placed on both sides of the charter holding his plate.
-1010_TITANIC_01.09.31.386-01.09.40.674 	jack gazes down as rose stands on her tiptoes and collapses into jack's arms.
-1010_TITANIC_01.19.17.583-01.19.23.655 	jack watches her leave through a wavy window glass, then gazes downward.
-1010_TITANIC_01.23.28.981-01.23.34.648 	rose gazes back at the monitor which shows the underwater image of the fireplace in her former suite.
 1010_TITANIC_01.33.49.920-01.34.01.552 	they gaze into each other's eyes as they interlock their fingers.
 1010_TITANIC_01.35.25.029-01.35.48.117 	he breathes heavily as they gaze at each other.
-1010_TITANIC_01.37.55.089-01.37.56.756 	the men turn and gaze past the ship.
 1010_TITANIC_01.48.04.782-01.48.08.301 	she blinks, then gazes at him.
-1010_TITANIC_01.55.07.176-01.55.08.359 	the passengers on deck, including rose and cal, gaze up.
-1010_TITANIC_02.03.00.794-02.03.03.931 	rose gazes down the empty corridor.
 1010_TITANIC_02.04.11.114-02.04.18.483 	on the bridge, smith leans over the railing and gazes down at the flooding bow and front well deck.
-1010_TITANIC_02.08.35.925-02.08.47.166 	lightoller gazes out at several partially filled lifeboats moving away from the titanic and motions to waiting passengers.
-1010_TITANIC_02.13.10.300-02.13.13.698 	jack stands up on the railing and gazes toward the bow.
-1010_TITANIC_02.15.21.994-02.15.26.573 	murdoch faces the collapsible and finds himself staring at his mate, who gazes ahead.
 1010_TITANIC_02.18.00.545-02.18.05.485 	she gazes back at jack.
-1010_TITANIC_02.18.19.592-02.18.22.281 	rose gazes back up at jack, who still stands next to cal.
-1010_TITANIC_02.27.01.543-02.27.09.203 	murdoch gazes downward and steps back toward the edge of the ship.
 1010_TITANIC_02.28.13.500-02.28.15.535 	andrews stands by the fireplace, gazing at a painting.
-1010_TITANIC_02.29.41.409-02.29.54.732 	captain smith gazes at a ship's wheel and various instruments, then steps into the wheelhouse and shuts the door.
-1010_TITANIC_02.30.52.975-02.30.56.468 	he gazes through a windows at the rising water, then places on hand on the helm.
-1010_TITANIC_02.31.09.553-02.31.15.991 	he shuts the clock, then leans against the mantel, gazing downward.
-1010_TITANIC_02.53.52.470-02.54.16.906 	rose sings to herself as she gazes up at the starry night sky.
-1010_TITANIC_02.54.51.621-02.54.54.653 	she shakes him harder, then gazes toward the lifeboat.
 1011_The_Help_00.23.17.233-00.23.21.713 	she gazes mournfully at a stone bench under a weeping willow tree.
-1011_The_Help_01.13.55.707-01.13.59.655 	she looks up at a shelf above her and gazes bitterly at a photograph of herself and hilly when they were younger.
-1012_Unbreakable_00.01.16.168-00.01.21.735 	dr. mathison sits beside a black woman who's lying down, gazing into a blanket wrapped bundle.
-1012_Unbreakable_00.04.28.190-00.04.35.102 	as she does, the top parts company with her black trousers, and the man gazes at her exposed white midriff and the section of ivy tattoo climbing through the gap between top and trousers.
-1012_Unbreakable_00.13.02.093-00.13.04.760 	he puts his arm around her, gazing past her.
-1012_Unbreakable_00.16.17.955-00.16.30.078 	he stands looking at the card for some moments before turning and gazing back at the church.
 1012_Unbreakable_00.31.01.623-00.31.03.873 	joseph gazes up at his father.
 1012_Unbreakable_00.31.21.053-00.31.24.666 	elijah, in a shimmering, purple, silk suit, gazes at david.
-1012_Unbreakable_00.45.03.723-00.45.11.222 	joseph, his fringe hanging to his eyebrows, gazes down at david, who looks around at the weights on the ends of the bar.
 1012_Unbreakable_01.10.27.190-01.10.29.195 	they gaze at each other, very still.
-1012_Unbreakable_01.21.30.951-01.21.37.765 	still looking shocked, he gazes around the concourse and spots the maintenance man emptying the trash can on the far side.
-1012_Unbreakable_01.22.02.961-01.22.11.495 	david stands gazing at the door, seeing shadows of people passing back and forth inside through frosted glass panels.
-1012_Unbreakable_01.31.15.869-01.31.20.045 	he stands over her, still in his cape, gazing down at her.
-1012_Unbreakable_01.32.30.304-01.32.39.725 	she looks into his eyes for a moment as he lays his head on her shoulder, before she turns back, and gazes out beyond the foot of the bed.
-1012_Unbreakable_01.35.14.081-01.35.18.747 	joseph gazes down at the paper, his lips moving slightly.
 1014_2012_01.35.12.783-01.35.14.685 	she gazes out of the windscreen.
 1017_Bad_Santa_00.18.10.627-00.18.13.720 	he gazes lustly after her through his cigarette smoke.
-1018_Body_Of_Lies_02.00.42.499-02.00.47.962 	he gazes across the street at aisha, leans against a wall and drifts into his thoughts.
 1019_Confessions_Of_A_Shopaholic_01.23.15.815-01.23.32.441 	she slumps down, and gazes miserably at a photograph or herself and black-haired suze laughing together.
 1020_Crazy_Stupid_Love_00.08.35.330-00.08.35.576 	jessica gazes down uncomfortably.
-1020_Crazy_Stupid_Love_00.08.37.858-00.08.40.725 	she hangs her head and gazes down again.
 1020_Crazy_Stupid_Love_01.15.39.393-01.15.45.086 	she gazes at him and smiles.
 1023_Horrible_Bosses_00.44.20.255-00.44.22.509 	they gaze over at a large house.
-1024_Identity_Thief_00.20.24.892-00.20.28.595 	sandy gazes at the floor, then rises and watches the men leave.
 1024_Identity_Thief_00.51.06.337-00.51.08.095 	he gazes into her eyes.
-1024_Identity_Thief_01.10.47.205-01.10.53.948 	diana looks away somberly, as sandy gazes down at his pants.
 1024_Identity_Thief_01.38.37.978-01.38.39.684 	she gazes earnestly at diana.
 1024_Identity_Thief_01.39.08.238-01.39.10.905 	trish lies on her back and gazes up at the ceiling.
-1026_Legion_00.49.50.553-00.49.56.854 	having wiped the top of the can, she gazes at it, then drinks.
-1027_Les_Miserables_00.17.46.590-00.17.50.852 	he glances up to an office and sees javert gazing down at the factory floor.
 1027_Les_Miserables_00.51.14.797-00.51.18.557 	she gazes at the handsome man.
 1027_Les_Miserables_01.26.35.892-01.26.39.269 	cosette gazes at marius.
 1027_Les_Miserables_01.46.21.847-01.46.23.628 	marius gazes at eponine.
 1027_Les_Miserables_02.24.59.434-02.25.02.246 	valjean rests his hand on marius's head and gazes fondly at him.
 1028_No_Reservations_01.03.43.700-01.03.49.654 	he licks the cream from his finger, and gazes intently at her.
-1030_Public_Enemies_00.08.13.557-00.08.18.727 	as dillinger turns and walks away from the farm house, the woman continues to gaze after him.
-1030_Public_Enemies_00.09.41.603-00.09.53.016 	the shooter gazes up from his sights, then stands and approaches the outlaw with the rest of the men following behind.
-1030_Public_Enemies_00.18.33.718-00.18.37.822 	now a fedora sits on a burgundy leather couch by purvis, who gazes off thoughtfully.
-1030_Public_Enemies_00.24.27.856-00.24.33.217 	dillinger gazes off shyly, then finds her lovely face.
 1030_Public_Enemies_00.25.24.418-00.25.31.221 	on stage, the songstress gazes out over the crowded dance floor.
-1030_Public_Enemies_00.30.38.237-00.30.41.905 	purvis gazes out a window at a neighboring high rise, then faces his men.
 1030_Public_Enemies_00.34.35.169-00.34.41.764 	they gaze into each other's eyes.
 1030_Public_Enemies_00.36.26.049-00.36.32.424 	billie gazes dreamily at him.
-1030_Public_Enemies_00.47.47.636-00.47.59.518 	he pulls away, gazing into her eyes, and kisses her again.
 1030_Public_Enemies_00.50.21.775-00.50.24.441 	dillinger massages his wrists, gazing off.
 1030_Public_Enemies_01.35.15.379-01.35.16.848 	he gazes downward.
 1030_Public_Enemies_01.37.58.428-01.38.11.786 	the agents abruptly gaze out the door.
 1030_Public_Enemies_01.38.17.441-01.38.19.466 	as purvis gazes at them, his eyes water.
-1030_Public_Enemies_01.49.25.476-01.49.34.119 	he takes her hand and gazes into her eyes.
-1030_Public_Enemies_01.49.53.922-01.49.58.663 	she gets in back and gazes at the unseen driver.
-1030_Public_Enemies_01.58.53.874-01.58.56.541 	gazing across the street, he shakes his head.
 1030_Public_Enemies_02.01.37.653-02.01.40.427 	dillinger gazes at the screen with a boyish smirk.
-1030_Public_Enemies_02.02.51.514-02.02.55.970 	purvis turns, gazing toward the cinema lobby.
 1030_Public_Enemies_02.08.29.564-02.08.34.215 	from overhead, we gaze down at the chaos, as we withdraw.
-1030_Public_Enemies_02.10.49.078-02.10.57.411 	opening her eyes the young woman gazes off, with a solemn, care-worn expression.
-1033_Sherlock_Holmes_A_Game_of_Shadows_01.19.09.762-01.19.13.429 	he leans on the rail and gazes down into the dark interior.
 1035_The_Adjustment_Bureau_00.10.27.163-00.10.40.891 	the two strangers gaze at each other, and then converge abruptly in a deep kiss, caressing each other passionately.
-1035_The_Adjustment_Bureau_00.35.29.157-00.35.39.069 	david lies on his back in bed and gazes out a window with a faraway look.
-1035_The_Adjustment_Bureau_00.36.28.760-00.36.32.878 	david gazes out his window at a passing scaffold creating a canopied sidewalk by a construction site.
 1035_The_Adjustment_Bureau_01.01.55.546-01.01.58.213 	they gaze tenderly at each other.
 1035_The_Adjustment_Bureau_01.16.07.180-01.16.19.425 	he carelessly tracks his feet through a large glassy puddle and stops at the dock's edge, gazing toward the low sun.
-1035_The_Adjustment_Bureau_01.25.43.233-01.25.45.899 	as she steps by, he gazes after her.
 1037_The_Curious_Case_Of_Benjamin_Button_01.12.56.963-01.13.00.039 	they gaze at each other.
 1037_The_Curious_Case_Of_Benjamin_Button_02.05.08.097-02.05.10.764 	daisy rolls onto her side and smiles as she gazes at him.
-1037_The_Curious_Case_Of_Benjamin_Button_02.12.59.260-02.13.05.098 	benjamin has his arm around her as they gaze at themselves in the mirror.
 1037_The_Curious_Case_Of_Benjamin_Button_02.17.25.591-02.17.29.848 	they gaze at their daughter who's wrapped in a blanket.
 1037_The_Curious_Case_Of_Benjamin_Button_02.26.50.878-02.26.55.486 	they gaze at each other.
 1038_The_Great_Gatsby_00.12.13.624-00.12.35.483 	she gazes wistfully into the distance, beyond the lavish gardens, past the green beacon and across the bay of consequence, towards west egg and gatsby's mansion.
 1038_The_Great_Gatsby_00.32.39.584-00.32.43.569 	he gazes up at photos and paintings on the walls.
 1038_The_Great_Gatsby_00.54.50.183-00.54.54.546 	they gaze at each other across the room.
-1038_The_Great_Gatsby_00.55.09.940-00.55.13.822 	daisy continues to gaze at gatsby, dewy-eyed.
 1038_The_Great_Gatsby_01.07.25.361-01.07.29.995 	daisy gazes at gatsby lovingly.
 1038_The_Great_Gatsby_01.15.12.646-01.15.13.535 	they gaze into each other's eyes.
-1039_The_Queen_00.44.13.444-00.44.16.724 	the queen gazes at prince philip for a moment and then turns away.
-1039_The_Queen_00.56.20.951-00.56.23.708 	tony is still gazing out of the window.
 1039_The_Queen_01.01.00.093-01.01.02.760 	she gazes at the serene countryside surroundings,
 1039_The_Queen_01.16.03.041-01.16.05.708 	the queen emerges from the land rover and gazes around.
-1040_The_Ugly_Truth_01.12.30.629-01.12.35.089 	they gaze at each other, with their mouths slightly open, as if they're about to kiss.
 1041_This_is_40_01.03.14.076-01.03.18.981 	gazing upward, debbie rubs her brow and throat.
 1041_This_is_40_01.45.16.059-01.45.17.725 	jason gazes into her eyes.
 1042_Up_In_The_Air_00.58.15.445-00.58.28.853 	they gaze at each other, then share a lingering kiss.
 1042_Up_In_The_Air_01.32.04.897-01.32.08.513 	on a jet, ryan gazes out of the window.
-1043_Vantage_Point_00.09.15.355-00.09.20.968 	he nods to his colleague ken taylor, then turns back to gaze out of the window as he puts on a shirt.
-1043_Vantage_Point_00.47.13.335-00.47.18.792 	in his hotel room, ashton opens the curtains and gazes out of the window of the plaza mayor.
 1044_Pride_And_Prejudice_Disk_Two_00.37.41.134-00.37.47.630 	lizzie gazes at the countryside around her.
 1044_Pride_And_Prejudice_Disk_Two_00.45.43.626-00.45.46.126 	lizzie gazes up at the portrait.
-1044_Pride_And_Prejudice_Disk_Two_00.46.08.370-00.46.11.406 	inside, lizzie is still gazing up at his portrait.
-1044_Pride_And_Prejudice_Disk_Two_01.20.23.861-01.20.29.032 	later, lizzie enters a room and finds jane standing at the window, gazing out at the gardens.
 1044_Pride_And_Prejudice_Disk_Two_01.38.24.406-01.38.28.080 	he gazes up at a house.
-1044_Pride_And_Prejudice_Disk_Two_02.01.56.373-02.02.06.039 	she goes to sit in front of the mirror, gazing sadly at her reflection, then leans forward and blows out the candle.
 1044_Pride_And_Prejudice_Disk_Two_02.30.17.908-02.30.19.655 	she gazes up at him.
 1044_Pride_And_Prejudice_Disk_Two_02.35.09.031-02.35.11.174 	jane gazes adoringly at her new husband.
-1044_Pride_And_Prejudice_Disk_Two_02.35.31.186-02.35.45.444 	lizzie and mr. darcy gaze tenderly into each other's eyes, and slowly he leans forward and kisses her gently on the lips.
 1046_Australia_02.33.17.520-02.33.20.926 	sarah and drover gaze into each other's eyes.
 1047_Defiance_01.38.49.894-01.38.55.493 	tuvia gazes at lilka and his face softens.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.22.49.605-00.22.52.615 	giant hagrid, his head wedged behind a roof beam, gazes blankly.
-1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.06.25.071-01.06.28.822 	looking weary and ill, ron gazes down at it.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.10.51.392-01.10.55.872 	her eyes peeled, she gazes into the gloom.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.18.45.379-01.18.48.787 	she gazes anxiously across the wintry landscape.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.22.04.377-01.22.07.310 	they meet each others gaze.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.27.22.270-01.27.36.987 	he gazes at the grave.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.35.26.020-01.35.29.709 	he gazes into it.
-1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.38.04.592-01.38.14.332 	shivering, he gazes at the sword, takes a breath, and drops feet first through the hole in the ice.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.46.05.474-01.46.09.678 	he gazes at the flickering flame.
-1050_Harry_Potter_and_the_deathly_hallows_Disk_One_02.11.19.946-02.11.24.360 	harry gazes down at the small still body, lying in his arms.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_02.14.20.015-02.14.31.642 	he gazes at his prize and caresses it with his long fingers.
 1051_Harry_Potter_and_the_goblet_of_fire_00.13.34.400-00.13.45.934 	they gaze up nervously at the ghostly skull, a dark mark still hovering above their heads.
 1051_Harry_Potter_and_the_goblet_of_fire_00.15.43.209-00.15.52.033 	students crowd into the school cloisters and gaze up in excitement as it swoops down towards them.
@@ -247,51 +132,32 @@
 1053_Harry_Potter_and_the_philosophers_stone_00.25.16.344-00.25.24.751 	he gazes around the disserted shop, at the shelves full of dusky boxes.
 1053_Harry_Potter_and_the_philosophers_stone_00.38.17.211-00.38.19.922 	ron gazes up at him in amazement.
 1053_Harry_Potter_and_the_philosophers_stone_00.39.05.778-00.39.11.689 	the children gaze in wonder at the huge imposing building.
-1053_Harry_Potter_and_the_philosophers_stone_00.49.59.000-00.50.07.000 	he is sitting in his pajamas on the wide-stone sill gazing out of the window with his knees tucked up under his chin.
-1053_Harry_Potter_and_the_philosophers_stone_01.32.33.556-01.32.36.993 	harry stands still for a moment, gazing at himself.
-1053_Harry_Potter_and_the_philosophers_stone_01.34.47.217-01.35.07.442 	with his knees tucked under his chin, harry sits alone on the stone floor of the empty classroom, gazing into the mirror.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_00.14.52.108-00.14.59.624 	harry gazes down at the busy marketplace below his window.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_01.22.09.329-01.22.11.497 	bemused, professor trelawney gazes at harry.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_01.24.11.843-01.24.15.159 	they find him gazing sadly out of the window at buckbeak, who is chained to a post in the pumpkin patch.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_01.37.33.199-01.37.38.923 	sirius gazes towards the distant lights of hogwarts.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_01.44.29.000-01.44.31.167 	harry gazes at the beautiful animal.
 1056_Rambo_00.36.53.121-00.36.54.669 	rambo gazes out across the water surface.
 1057_Seven_pounds_01.06.46.118-01.06.52.515 	she gazes at him and smiles, then lightly nibbles her nails.
 1058_The_Damned_united_00.13.19.000-00.13.25.282 	grubby kids gaze over the training ground from streets of terraced houses.
 1058_The_Damned_united_00.19.53.139-00.20.00.000 	brian gazes out at don ushering his players onto their coach, patting their backs for the press.
-1058_The_Damned_united_01.05.17.000-01.05.24.000 	alone, brian turns slowly and makes his way up towards the pitch, gazing at the empty stands.
 1059_The_devil_wears_prada_00.03.08.310-00.03.14.000 	she arrives at a tall building housing elias-clark publications and gazes up at its impressive facade.
-1059_The_devil_wears_prada_01.16.36.000-01.16.42.678 	he stares at andy, who gazes back then glances aside.
-1059_The_devil_wears_prada_01.17.54.000-01.18.02.534 	she gazes out off the window, wide-eyed with excitement as they pass the city's grand buildings, shops, and hotels and the imposing arc de triomphe.
 1059_The_devil_wears_prada_01.40.19.000-01.40.20.248 	nate gazes into andy's sad eyes.
 1060_Yes_man_00.13.10.766-00.13.16.086 	thoughtfully, he gazes down at something on the table.
 1060_Yes_man_00.26.43.632-00.26.46.530 	he gazes at her feigning surprise.
-1060_Yes_man_00.26.57.494-00.27.02.327 	he gazes at her as she gets back onto her scooter.
 1060_Yes_man_00.54.31.827-00.54.36.439 	norman gazes at the screen and waves.
 1060_Yes_man_00.56.43.946-00.56.45.920 	he gazes at her.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.00.19.267-00.00.27.641 	he gazes at the black elder wand in his hand and thrusts up his arm.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.01.11.341-00.01.21.434 	gazes out at the mountains shrouded in mist.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.43.55.000-00.44.07.420 	moving towards it, he gazes out at the glowing protective shields as it slowly descends.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.53.12.197-00.53.21.682 	he gazes at the smoldering shield, which now resembles a burning dome of flame.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.58.21.000-00.58.28.530 	he turns round and gazes back the way he came.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.10.09.030-01.10.12.306 	harry gazes deeply into his eyes.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.17.17.103-01.17.21.535 	james smiles at lily, who gazes back at him.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.21.45.990-01.21.49.974 	he gazes at her lying lifeless on the floor.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.27.22.417-01.27.24.744 	they gaze at each other.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.28.26.000-01.28.33.190 	harry turns and gazes at his mother, then moves towards her.
 2012_Unbreakable_00.09.26.453-00.09.27.593 	joseph dunne gazes at the television screen.
 2012_Unbreakable_00.34.37.457-00.34.37.607 	elijah gazes out the window in a bit of a daze.
-2012_Unbreakable_00.50.38.768-00.50.45.983 	the physician's words fade away as elijah continues to gaze at an abstract point in the room.
 2012_Unbreakable_01.26.17.972-01.26.21.081 	they're arms flop to their laps as they gaze up at the figure leaning over them.
-2012_Unbreakable_01.40.54.446-01.41.01.363 	elijah has tears in his eyes as he gazes down at the newspaper.
 2017_Bad_Santa_00.51.12.720-00.51.15.326 	blearily she gazes back.
 2026_Legion_00.07.39.806-00.07.49.352 	jeep gazes up to the diner's slanted roof where a large sign glows like a beacon in the darkness.
 2027_Les_Miserables_00.58.24.382-00.58.26.012 	he gazes at her as she slips into a fitful sleep.
-2027_Les_Miserables_01.14.54.804-01.14.56.475 	she turns back to find marius gazing down the street.
-2027_Les_Miserables_01.55.43.936-01.55.46.193 	he comes to a stop, and gazes on marius as he sleeps through the window.
 2027_Les_Miserables_02.00.04.900-02.00.08.314 	enjolras gazes on his pitifully small group.
-2027_Les_Miserables_02.18.30.503-02.18.31.827 	cosette gazes at marius, bewildered by what she has just learned.
 2027_Les_Miserables_02.18.36.659-02.18.39.396 	in the cab - valjean sits gazing far away at nothing.
-2051_Harry_Potter_and_the_goblet_of_fire_01.05.50.718-01.05.59.729 	nigel is gazing at harry.
-2054_Harry_Potter_and_the_prisoner_of_azkaban_00.50.57.240-00.50.59.896 	dumbledore gazes at the students, refusing to take the bait.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_00.50.56.896-00.51.01.395 	as snape's eyes glitter darkly, dumbledore gazes out over the slumbering students.

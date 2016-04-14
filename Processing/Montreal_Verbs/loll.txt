@@ -1,3 +1,1 @@
 FLIGHT.srt 	FLIGHT_DVS90 	00:16:24,00 --> 00:16:29,50 	her head lolls to her shoulder.
-MORNING_GLORY.srt 	MORNING_GLORY_DVS348 	01:15:55,00 --> 01:16:01,50 	his head lolls backwards as he spirals upwards.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS448 	01:26:06,00 --> 01:26:18,50 	one man sits slack-jawed, his head lolled back trailing blood from two holes.

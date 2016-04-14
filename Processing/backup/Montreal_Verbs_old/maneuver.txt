@@ -1,0 +1,5 @@
+CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS185 	00:14:31,00 --> 00:14:36,50 	clad in a blue sleeved wetsuit, he maneuvers around other paddling surfers, then cross-steps up the board.
+IRON_MAN_2.srt 	IRON_MAN_2_DVS170 	00:32:07,00 --> 00:32:13,50 	someone maneuvers the car down the street and toward a tall barricade.
+IRON_MAN_2.srt 	IRON_MAN_2_DVS543 	01:37:06,00 --> 01:37:12,50 	someone's suit fires the gatling gun at someone, who maneuvers through the sky.
+KARATE_KID.srt 	KARATE_KID_DVS1252 	01:41:57,00 --> 01:42:03,50 	the headlight projects their shadows onto the wall behind them, as the boy maneuvers them into position.
+LIFE_OF_PI.srt 	LIFE_OF_PI_DVS457 	00:51:58,00 --> 00:52:03,50 	as someone struggles to maneuver it into the water,

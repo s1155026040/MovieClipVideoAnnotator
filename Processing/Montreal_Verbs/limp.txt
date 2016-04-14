@@ -1,17 +1,7 @@
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS559 	00:53:56,00 --> 00:54:01,50 	the americans walk past a limping woman.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS925 	01:30:12,00 --> 01:30:18,50 	someone yields a smile as he limps alongside his father.
-A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS387 	01:08:33,00 --> 01:08:40,50 	someone throws someone into a wall, then limps away.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS350 	01:04:41,00 --> 01:04:49,50 	someone leans on someone as he limps out of the room.
-CHRONICLE.srt 	CHRONICLE_DVS183 	00:27:18,00 --> 00:27:26,50 	the driver lies limp with a long cut up his forearm and a streak of blood staining the corner of his mouth.
 CHRONICLE.srt 	CHRONICLE_DVS529 	01:14:57,00 --> 01:15:05,50 	his impaled cousin hangs limp from the spear, now lodged in the ground at a 60-degree angle.
-FLIGHT.srt 	FLIGHT_DVS175 	00:38:47,00 --> 00:38:52,50 	he quickly limps down the hall, using a cane.
-HUGO.srt 	HUGO_DVS67 	00:08:47,00 --> 00:08:54,50 	he limps up the platform along the edge of the tracks, pushing people out of the way as he goes.
-HUGO.srt 	HUGO_DVS183 	00:25:50,00 --> 00:25:56,50 	he glances toward the flower seller then turns and limps off in the other direction.
 HUGO.srt 	HUGO_DVS722 	01:46:51,00 --> 01:47:03,50 	the inspector limps around the corner and stares at the deserted corner.
-KARATE_KID.srt 	KARATE_KID_DVS1643 	02:13:35,00 --> 02:13:42,50 	standing, he hops along the mat, then limps down the steps.
 PROMETHEUS.srt 	PROMETHEUS_DVS759 	01:22:15,00 --> 01:22:23,50 	she limps over to the med pod and positions herself on the upright table under a curved scanner.
 PROMETHEUS.srt 	PROMETHEUS_DVS803 	01:25:57,00 --> 01:26:05,50 	meanwhile, someone hurriedly limps down a corridor.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS566 	01:41:41,00 --> 01:41:49,50 	as she leaves she takes a call from someone, who limps between a warehouse and an empty lot.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1315 	01:59:15,00 --> 01:59:21,50 	she limps forward, leaving beast and the others behind.
-YOUNG_ADULT.srt 	YOUNG_ADULT_DVS329 	01:01:42,00 --> 01:01:49,50 	working with his distilling equipment, someone slips his arm into his crutch then limps toward the driveway.
 ZOOKEEPER.srt 	ZOOKEEPER_DVS162 	00:36:05,00 --> 00:36:10,50 	he limps around someone.

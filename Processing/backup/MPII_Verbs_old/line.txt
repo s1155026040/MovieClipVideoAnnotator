@@ -1,35 +1,27 @@
-0009_Forrest_Gump_01.54.26.992-01.54.30.987 	Split rail fences line the road.
-0010_Frau_Ohne_Gewissen_00.07.12.884-00.07.15.917 	Palm trees line the street, middle-class houses, mostly in Spanish style.
-0011_Gandhi_00.03.40.290-00.03.41.400 	Godse swallows dryly, tension lining his face -- then he moves boldly out into Gandhi's path, bumping Manu, knocking a vessel for incense from her hands.
-0011_Gandhi_00.04.17.138-00.04.21.925 	We see the soldiers and sailors lining the route, their hands locked together in one seemingly endless chain.
-0011_Gandhi_00.35.03.816-00.35.07.015 	The sergeant wheels by the car with the civilian; his police turn their horses, lining up across the road again.
-0011_Gandhi_01.03.36.760-01.03.38.604 	From its distant glow we can see that people line the platform of the small station, waiting, but we cannot tell how thick the crowd may be.
-0011_Gandhi_01.55.52.939-01.55.53.735 	Armed sepoys line the wall.
-0011_Gandhi_02.07.32.618-02.07.36.576 	To one side we see two police cars drawn up, and several policemen (a British officer, a British sergeant, and four Indian constables) lined up near them.
-0011_Gandhi_02.08.24.729-02.08.27.523 	Both sides of the track are lined with peasants holding flower petals and leaves, all gazing expectantly down the road.
-0011_Gandhi_02.14.49.392-02.14.53.072 	The camera pans from them, across a sloping dip in the ground, to a huge group of volunteers lining up to face the police as tautly as the police face them.
-0011_Gandhi_02.48.32.383-02.48.32.903 	It runs up the side of the building and is lined with waiting people.
-0013_Halloween_00.23.51.339-00.23.53.160 	Up the sidewalk is a series of bushes lining the street.
-0013_Halloween_00.28.21.659-00.28.23.740 	CAMERA BEGINS on the trees that line the residential street, twisting and writhing in the dusk wind.
-0014_Ist_das_Leben_nicht_schoen_01.04.36.899-01.04.37.623 	In front of one of the miserable shacks that line the street are two vehicles.
-0014_Ist_das_Leben_nicht_schoen_01.04.56.203-01.04.57.415 	George and Mary are on the porch of the new house, with the Martinis lined up before them.
-0017_Pianist_00.02.34.800-00.02.37.122 	The Szpilman family in panic: coming and going out of rooms, packing clothes and belongings into open suitcases and a trunk in a comfortable, tastefully furnished bourgeois apartment, the living room lined with books, paintings and boasting a boudoir grand, silver platters and candlesticks.
-0017_Pianist_00.40.59.249-00.41.00.469 	The Szpilmans and about twenty others lined up under lights shining on them from a couple of German vehicles.
-0017_Pianist_01.21.51.276-01.22.12.432 	A handful of Jewish fighters are lined up and shot.
-0019_Pulp_Fiction_02.08.53.366-02.08.57.312 	The interior of the car has been cleaned and lined with bedspreads and quilts.
-0031_The_Lost_Weekend_00.11.04.076-00.11.07.443 	There's nothing but sugar in the bowl, but lining the lid is a folded five-dollar bill.
-0033_Amadeus_00.43.38.246-00.43.39.843 	All the cast is lined up on stage.
-0041_The_Sixth_Sense_00.56.06.168-00.56.10.197 	The bedsheet walls of the tent are lined with religious pictures taped to the walls.
-0041_The_Sixth_Sense_00.56.40.501-00.56.44.283 	The arched halls of the private school are lined with posted drawings and test papers.
-0049_Hannah_and_her_sisters_00.12.55.264-00.12.58.924 	Norman, a Los Angeles TV producer and Mickey's former partner, is driving down a peaceful street lined with palm trees.
-0049_Hannah_and_her_sisters_00.31.50.148-00.31.51.070 	Rows of periodicals line the wall behind him.
-0050_Indiana_Jones_and_the_last_crusade_00.26.09.735-00.26.12.008 	Indy, Brody and Elsa walk along the narrow canal, lined with buildings on either side.
-0050_Indiana_Jones_and_the_last_crusade_00.33.31.790-00.33.36.828 	More rat-infested water as Elsa, now walking again, follows Indy through another passageway lined with skulls and bones.
-1001_Flight_01.33.53.037-01.33.55.068 	Cabinets and shelves lining one side of a building.
-1006_Slumdog_Millionaire_00.25.52.175-00.25.55.499 	Evening, Maman has lined up the new children before him.
-1006_Slumdog_Millionaire_00.54.09.166-00.54.13.324 	The street is lined with brothels.
-1010_TITANIC_00.27.21.977-00.27.27.615 	four rows of portholes line the sides of the ocean liner which glides past a small two-manned sailboat.
-1010_TITANIC_03.06.14.664-03.06.18.438 	lounge chairs line a deck of polished wood.
+0011_Gandhi_00.03.40.290-00.03.41.400 	godse swallows dryly, tension lining his face -- then he moves boldly out into gandhi's path, bumping manu, knocking a vessel for incense from her hands.
+0011_Gandhi_00.04.17.138-00.04.21.925 	we see the soldiers and sailors lining the route, their hands locked together in one seemingly endless chain.
+0011_Gandhi_00.35.03.816-00.35.07.015 	the sergeant wheels by the car with the civilian; his police turn their horses, lining up across the road again.
+0011_Gandhi_02.07.32.618-02.07.36.576 	to one side we see two police cars drawn up, and several policemen (a british officer, a british sergeant, and four indian constables) lined up near them.
+0011_Gandhi_02.08.24.729-02.08.27.523 	both sides of the track are lined with peasants holding flower petals and leaves, all gazing expectantly down the road.
+0011_Gandhi_02.14.49.392-02.14.53.072 	the camera pans from them, across a sloping dip in the ground, to a huge group of volunteers lining up to face the police as tautly as the police face them.
+0011_Gandhi_02.48.32.383-02.48.32.903 	it runs up the side of the building and is lined with waiting people.
+0013_Halloween_00.23.51.339-00.23.53.160 	up the sidewalk is a series of bushes lining the street.
+0014_Ist_das_Leben_nicht_schoen_01.04.56.203-01.04.57.415 	george and mary are on the porch of the new house, with the martinis lined up before them.
+0017_Pianist_00.02.34.800-00.02.37.122 	the szpilman family in panic: coming and going out of rooms, packing clothes and belongings into open suitcases and a trunk in a comfortable, tastefully furnished bourgeois apartment, the living room lined with books, paintings and boasting a boudoir grand, silver platters and candlesticks.
+0017_Pianist_00.40.59.249-00.41.00.469 	the szpilmans and about twenty others lined up under lights shining on them from a couple of german vehicles.
+0017_Pianist_01.21.51.276-01.22.12.432 	a handful of jewish fighters are lined up and shot.
+0019_Pulp_Fiction_02.08.53.366-02.08.57.312 	the interior of the car has been cleaned and lined with bedspreads and quilts.
+0031_The_Lost_Weekend_00.11.04.076-00.11.07.443 	there's nothing but sugar in the bowl, but lining the lid is a folded five-dollar bill.
+0033_Amadeus_00.43.38.246-00.43.39.843 	all the cast is lined up on stage.
+0033_Amadeus_01.18.41.844-01.18.42.621 	his face is lined, and he is obviously not in perfect health.
+0041_The_Sixth_Sense_00.56.06.168-00.56.10.197 	the bedsheet walls of the tent are lined with religious pictures taped to the walls.
+0041_The_Sixth_Sense_00.56.40.501-00.56.44.283 	the arched halls of the private school are lined with posted drawings and test papers.
+0049_Hannah_and_her_sisters_00.12.55.264-00.12.58.924 	norman, a los angeles tv producer and mickey's former partner, is driving down a peaceful street lined with palm trees.
+0050_Indiana_Jones_and_the_last_crusade_00.26.09.735-00.26.12.008 	indy, brody and elsa walk along the narrow canal, lined with buildings on either side.
+0050_Indiana_Jones_and_the_last_crusade_00.33.31.790-00.33.36.828 	more rat-infested water as elsa, now walking again, follows indy through another passageway lined with skulls and bones.
+1001_Flight_01.33.53.037-01.33.55.068 	cabinets and shelves lining one side of a building.
+1006_Slumdog_Millionaire_00.25.52.175-00.25.55.499 	evening, maman has lined up the new children before him.
+1006_Slumdog_Millionaire_00.54.09.166-00.54.13.324 	the street is lined with brothels.
 1012_Unbreakable_00.12.28.297-00.12.36.964 	david walks stiffly down a hospital corridor lined with silent people standing, sitting, leaning against walls, many of them watching him and smiling.
 1012_Unbreakable_01.22.21.429-01.22.32.727 	the man walks at a steady pace along a dark street lined with cars, and up a long stairway lit by tall bright lamps on alternate sides.
 1012_Unbreakable_01.37.49.260-01.37.53.926 	elijah's wheeling his chair from the gallery down the narrow corridor lined with comics.
@@ -39,16 +31,13 @@
 1017_Bad_Santa_00.20.41.337-00.20.49.937 	santa swigs his grog as marcus goes out front where kids are lined up.
 1018_Body_Of_Lies_00.42.22.629-00.42.31.807 	a young man with his black hair swept back locks a car, then notices a tourist lining up a photograph.
 1020_Crazy_Stupid_Love_01.40.52.858-01.40.58.635 	at school, all the kids have dressed smartly and lined up on a long row at the back of tiered seating constructed in the hall.
-1027_Les_Miserables_01.35.37.907-01.35.40.722 	student protesters and townspeople line a street by the place de la bastille.
 1028_No_Reservations_01.37.10.954-01.37.17.000 	she steps out onto a landing lined with a discarded metal trolley and window grill.
 1030_Public_Enemies_00.12.58.059-00.13.04.814 	reaching the top, dillinger stops, scanning a huge bank with angular walls lined with pillars.
-1030_Public_Enemies_00.55.41.574-00.55.44.241 	dozens of civilians line the street, cheering.
 1035_The_Adjustment_Bureau_01.13.08.218-01.13.15.952 	now in a vast hallway lined with marble, richardson joins harry at a window over looking new york city.
 1039_The_Queen_00.48.25.115-00.48.28.782 	video footage shows crowds of people lining up in a queue.
 1039_The_Queen_01.27.34.503-01.27.39.275 	the road is lined with crowds of people, and camera flashes go off continuously.
 1040_The_Ugly_Truth_00.56.42.217-00.56.45.175 	a country road lined with lush, green trees, dappled with sunlight.
 1044_Pride_And_Prejudice_Disk_Two_00.45.24.497-00.45.34.178 	the housekeeper leads them into a magnificent long hall, lined with paintings on one side and windows on the other.
-1047_Defiance_00.29.07.994-00.29.12.645 	the brothers line up and open fire into the dazzling light.
 1049_Harry_Potter_and_the_chamber_of_secrets_01.13.55.971-01.13.58.971 	a cluttered, circular room lined with glass cabinets.
 1049_Harry_Potter_and_the_chamber_of_secrets_01.14.12.000-01.14.20.441 	harry walks up some steps into a smaller room lined with shelves of old books.
 1049_Harry_Potter_and_the_chamber_of_secrets_02.04.25.385-02.04.30.858 	ahead of him runs a wide paved path lined on either side by huge carved snake heads.
@@ -58,6 +47,7 @@
 1052_Harry_Potter_and_the_order_of_phoenix_01.46.10.272-01.46.14.745 	ahead of them is the long corridor lined with shiny black tiles.
 1056_Rambo_00.47.07.822-00.47.11.611 	the peasants are lined up at the edge of the paddy field.
 1056_Rambo_01.10.59.238-01.11.07.188 	the group are dragged to their knees and lined up in front of the troops, who raise their rifles execution-style.
+1057_Seven_pounds_00.17.51.793-00.17.54.471 	inez's face is heavily lined.
 1058_The_Damned_united_00.38.27.000-00.38.33.000 	brian stands at one end of the dressing room with his arms folded, casting an eye over the players sat on benches lining the walls.
 1058_The_Damned_united_00.45.54.300-00.45.57.828 	bremner scratches his balls as he eyes brown contemptuously, standing beside the team lined up for the national anthem.
 1062_Day_the_Earth_stood_still_00.37.59.000-00.38.02.811 	manacled to the chair, he's pushed down a passageway with pipes lining one wall.
@@ -66,16 +56,4 @@
 2005_Signs_01.18.51.703-01.18.52.991 	the basement is lined with metal shelves.
 2005_Signs_01.39.37.149-01.39.39.031 	we see the golden brown corn lining the back of the yard.
 2012_Unbreakable_01.18.17.021-01.18.24.962 	one huge cavernous room, a football field in size, lined on both sides with giant pillars that rise into a misty hand painted ceiling.
-2026_Legion_00.18.53.759-00.19.02.172 	ominous dark clouds line the horizon to the south like a living wall.
-1056_Rambo_00.47.07.822-00.47.11.611 	the peasants are lined up at the edge of the paddy field.
-1056_Rambo_01.10.59.238-01.11.07.188 	the group are dragged to their knees and lined up in front of the troops, who raise their rifles execution-style.
-1058_The_Damned_united_00.38.27.000-00.38.33.000 	brian stands at one end of the dressing room with his arms folded, casting an eye over the players sat on benches lining the walls.
-1058_The_Damned_united_00.45.54.300-00.45.57.828 	bremner scratches his balls as he eyes brown contemptuously, standing beside the team lined up for the national anthem.
-1062_Day_the_Earth_stood_still_00.37.59.000-00.38.02.811 	manacled to the chair, he's pushed down a passageway with pipes lining one wall.
-2005_Signs_00.49.03.698-00.49.04.275 	the back of the yard is lined by corn crops, golden and brown,six feet high.
-2005_Signs_01.10.41.102-01.10.42.322 	one side of the dinning room is lined with windows that have been boarded up.
-2005_Signs_01.18.51.703-01.18.52.991 	the basement is lined with metal shelves.
-2005_Signs_01.39.37.149-01.39.39.031 	we see the golden brown corn lining the back of the yard.
-2012_Unbreakable_01.18.17.021-01.18.24.962 	one huge cavernous room, a football field in size, lined on both sides with giant pillars that rise into a misty hand painted ceiling.
-2026_Legion_00.18.53.759-00.19.02.172 	ominous dark clouds line the horizon to the south like a living wall.
 2027_Les_Miserables_02.01.19.105-02.01.22.719 	the big gun has been lined up with the gate and has burst right through in the first hit.

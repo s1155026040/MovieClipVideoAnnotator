@@ -1,30 +1,14 @@
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS309 	00:27:08,00 --> 00:27:16,50 	someone's truck accelerates beside the van and performs a pit maneuver, spinning someone out of control.
 BURLESQUE.srt 	BURLESQUE_DVS134 	00:18:18,00 --> 00:18:25,50 	at the bar, someone imagines herself performing, showered by silver confetti.
 BURLESQUE.srt 	BURLESQUE_DVS505 	01:10:06,00 --> 01:10:14,50 	now a makeup mirror reflects a newspaper photo of someone performing in the burlesque lounge.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS132 	00:22:41,00 --> 00:22:49,50 	later, someone oversees the men as they perform push-ups.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS134 	00:23:08,00 --> 00:23:14,50 	the recruits jump to their feet and perform jumping jacks.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS274 	00:50:30,00 --> 00:50:40,50 	on a stage in new york city, someone holds a motorcycle holding three singing women over his head as a long chorus line performs high kicks in front of him.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS1015 	01:38:38,00 --> 01:38:47,50 	someone and the veterans perform turtle rolls, flipping their boards on top of them and punching through safely to the other side.
-CHRONICLE.srt 	CHRONICLE_DVS353 	00:53:58,00 --> 00:54:06,50 	a female cellist bows her instrument, performing on a lawn strewn with dead leaves.
 FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS380 	01:39:24,00 --> 01:39:31,50 	the flash mob performs a choreographed routine.
 JACK_AND_JILL.srt 	JACK_AND_JILL_DVS78 	00:17:12,00 --> 00:17:18,50 	performing on stage, someone glares into the audience.
-JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS136 	00:49:55,00 --> 00:50:02,50 	nighttime at a luau, fire dancers perform while the group eats dinner.
 KARATE_KID.srt 	KARATE_KID_DVS190 	00:16:28,00 --> 00:16:39,50 	someone performs pop-and-lock dance moves for her.
 KARATE_KID.srt 	KARATE_KID_DVS277 	00:24:58,00 --> 00:25:06,50 	nearby, dozens of other locals perform graceful steps and gestures in unison.
 KARATE_KID.srt 	KARATE_KID_DVS377 	00:33:43,00 --> 00:33:51,50 	at the instructor's command, they perform athletic moves with razor-sharp precision.
-KARATE_KID.srt 	KARATE_KID_DVS955 	01:18:12,00 --> 01:18:20,50 	it leads them into a stone courtyard where dozens of male and female monks, in snowy tunics, perform tai chi.
-KARATE_KID.srt 	KARATE_KID_DVS1086 	01:29:24,00 --> 01:29:30,50 	facing her, he performs a series of dexterous steps.
 KARATE_KID.srt 	KARATE_KID_DVS1310 	01:45:41,00 --> 01:45:48,50 	now in the courtyard, someone performs push-ups with his feet on a chair.
 KATY_PERRY_PART_OF_ME.srt 	KATY_PERRY_PART_OF_ME_DVS29 	00:04:08,00 --> 00:04:14,50 	someone and others rehearse or perform live on stage.
-KATY_PERRY_PART_OF_ME.srt 	KATY_PERRY_PART_OF_ME_DVS127 	00:31:35,00 --> 00:31:41,50 	wearing a tight black shirt and pants, someone performs on stage.
-KATY_PERRY_PART_OF_ME.srt 	KATY_PERRY_PART_OF_ME_DVS152 	00:43:55,00 --> 00:44:00,50 	male dancers surround someone as she performs.
 KATY_PERRY_PART_OF_ME.srt 	KATY_PERRY_PART_OF_ME_DVS173 	00:48:01,00 --> 00:48:15,50 	someone's dancers perform on stage.
-KATY_PERRY_PART_OF_ME.srt 	KATY_PERRY_PART_OF_ME_DVS197 	00:52:07,00 --> 00:52:13,50 	holding dumb bells, someone performs squats.
-KATY_PERRY_PART_OF_ME.srt 	KATY_PERRY_PART_OF_ME_DVS286 	01:06:12,00 --> 01:06:19,50 	performing on stage, someone wears a long striped dress as she sits on a dangling swing.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS144 	00:18:11,00 --> 00:18:23,50 	looking right, he sees dozens of kneeling men bowing, performing salah in the mosque's courtyard.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS205 	00:26:55,00 --> 00:27:07,50 	an older teacher sits crossed-legged and chants as teenage girls perform a lively dance.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS288 	00:37:58,00 --> 00:38:04,50 	he struggles to perform a worshipful dance.
-NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS187 	00:41:24,00 --> 00:41:31,50 	the piglet performs a flip, somersaults through midair, then lands easily back on the branch.
 NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS433 	01:18:56,00 --> 01:19:04,50 	on the sound stage, the cast of someone's show, secret high, perform a prom dance number.
 PROMETHEUS.srt 	PROMETHEUS_DVS769 	01:23:08,00 --> 01:23:14,50 	one of the arms performs a precision cut with a laser.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS36 	00:02:45,00 --> 00:02:54,50 	now, in a club, two women in old-fashioned costumes perform a traditional dance with fans in front of a dj.
@@ -32,9 +16,6 @@ SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS721 	00:47:25,00 --> 00:47:31,50 	at night
 SPARKLE_2012.srt 	SPARKLE_2012_DVS240 	00:37:31,00 --> 00:37:40,50 	the trio performing a provocative dance.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS247 	00:38:37,00 --> 00:38:42,50 	now sister and her sisters perform at the club.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS253 	00:39:24,00 --> 00:39:32,50 	sister and her sisters perform on stage.
-SPARKLE_2012.srt 	SPARKLE_2012_DVS351 	00:58:32,00 --> 00:58:38,50 	she awakes to her daughters performing, and leans closer.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS514 	01:13:20,00 --> 01:13:30,50 	on a small stage, three male singers perform on stools as they strum a guitar, a ukulele, and a bass.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS393 	00:47:00,00 --> 00:47:04,50 	as she performs fellatio on him.
-THE_WATCH.srt 	THE_WATCH_DVS330 	00:56:56,00 --> 00:57:06,50 	in a park, someone emerges from behind a tree and flicks open his butterfly knife as he sizes up a group of elderly people performing tai chi.
-ZOMBIELAND.srt 	ZOMBIELAND_DVS128 	00:11:15,00 --> 00:11:22,50 	the young man performs squats and knee lifts, working his arms with his shotgun.
 ZOOKEEPER.srt 	ZOOKEEPER_DVS168 	00:36:44,00 --> 00:36:56,50 	now, a jazz trio performs at a fancy restaurant.

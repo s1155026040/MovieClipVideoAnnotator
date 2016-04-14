@@ -1,31 +1,35 @@
-0001_American_Beauty_00.23.09.042-00.23.09.977 	Angela is sprawled across her bed, on the phone.
-0001_American_Beauty_01.14.47.434-01.14.48.530 	Lester is sprawled on the couch in his underwear, drinking a BEER and controlling the car.
-0001_American_Beauty_01.37.06.056-01.37.06.912 	Angela is sprawled across the bed.
-0011_Gandhi_00.34.30.762-00.34.31.829 	With deliberate, almost fatalistic pace, Gandhi goes first to his knees and then sprawls down flat, his hands over the top of his head, awaiting the blow of the horse's hoof.
-0011_Gandhi_00.34.34.351-00.34.34.680 	Full shot, the sergeant wheeling his horse, angrily -- surveying the whole of the procession as they lie sprawled on the ground, his mounted police circling in front of them, not knowing what to do.
-0011_Gandhi_01.00.02.270-01.00.03.438 	Nehru and his friends are sprawled out around him.
-0019_Pulp_Fiction_01.34.58.180-01.35.02.005 	Marsellus Wallace lies sprawled out in the street.
-0020_Raising_Arizona_00.55.32.502-00.55.34.629 	Creeping in on GALE and EVELLE, sprawled on the sofa and easy chair respectively, sawing boards.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.35.53.418-00.35.55.318 	Gandalf hauls a small figure into the room.SAM GAMGEE sprawls across the floor!
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.47.35.820-00.47.39.697 	The Four Hobbits sprawled on the ground, holding their breath.
-0030_The_Hustler_01.06.21.243-01.06.28.136 	Sarah, still hopelessly drunk, is sprawled out on her bed, futilely attempting to dial a telephone.
-0032_The_Princess_Bride_01.00.59.555-01.01.12.936 	INIGO, drunk as a skunk, sprawled in front of a hovel, a bottle of brandy in one hand, the six-fingered sword in the other.
-0049_Hannah_and_her_sisters_00.04.23.207-00.04.28.567 	A child is sprawled out under a blanket on a sofa; some guests chatter quietly; others drink and eat, listening.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.39.09.659-01.39.12.044 	He rounds the corner and sees Draco sprawled on his back.
-1006_Slumdog_Millionaire_00.50.06.700-00.50.13.531 	The city sprawls with high rise apartments and green parks, juxtaposed with huge slums and shanty towns.
+0001_American_Beauty_00.23.09.042-00.23.09.977 	angela is sprawled across her bed, on the phone.
+0001_American_Beauty_01.14.47.434-01.14.48.530 	lester is sprawled on the couch in his underwear, drinking a beer and controlling the car.
+0001_American_Beauty_01.37.06.056-01.37.06.912 	angela is sprawled across the bed.
+0004_Charade_00.35.16.821-00.35.17.308 	his head bangs against the wall but he manages to raise a foot and push peter violently away, sending him sprawling back, toppling across the bed and over, head first, onto the floor on the other side, where he disappears.
+0004_Charade_01.22.23.004-01.22.23.174 	his body is sitting on the floor of the cage, its grotesque sprawling attitude resembling a puppet's with its strings cut.
+0011_Gandhi_00.34.30.762-00.34.31.829 	with deliberate, almost fatalistic pace, gandhi goes first to his knees and then sprawls down flat, his hands over the top of his head, awaiting the blow of the horse's hoof.
+0011_Gandhi_00.34.34.351-00.34.34.680 	full shot, the sergeant wheeling his horse, angrily -- surveying the whole of the procession as they lie sprawled on the ground, his mounted police circling in front of them, not knowing what to do.
+0011_Gandhi_01.00.02.270-01.00.03.438 	nehru and his friends are sprawled out around him.
+0011_Gandhi_01.49.19.736-01.49.25.771 	we see a few people working in the background, and a mass of people camped near the entrance, some sprawled, some sitting, some standing -- all waiting.
+0019_Pulp_Fiction_01.34.58.180-01.35.02.005 	marsellus wallace lies sprawled out in the street.
+0020_Raising_Arizona_00.55.32.502-00.55.34.629 	creeping in on gale and evelle, sprawled on the sofa and easy chair respectively, sawing boards.
+0020_Raising_Arizona_01.20.40.849-01.20.42.797 	an uppercut from his heels sends hi sprawling back.
+0023_THE_BUTTERFLY_EFFECT_00.32.24.355-00.32.26.370 	evan is sent sprawling backwards, his forehead bleeding freely.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.35.53.418-00.35.55.318 	gandalf hauls a small figure into the room.sam gamgee sprawls across the floor!
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.47.35.820-00.47.39.697 	the four hobbits sprawled on the ground, holding their breath.
+0030_The_Hustler_01.06.21.243-01.06.28.136 	sarah, still hopelessly drunk, is sprawled out on her bed, futilely attempting to dial a telephone.
+0032_The_Princess_Bride_01.00.59.555-01.01.12.936 	inigo, drunk as a skunk, sprawled in front of a hovel, a bottle of brandy in one hand, the six-fingered sword in the other.
+0049_Hannah_and_her_sisters_00.04.23.207-00.04.28.567 	a child is sprawled out under a blanket on a sofa; some guests chatter quietly; others drink and eat, listening.
+1002_Harry_Potter_and_the_Half-Blood_Prince_01.39.09.659-01.39.12.044 	he rounds the corner and sees draco sprawled on his back.
+1006_Slumdog_Millionaire_00.50.06.700-00.50.13.531 	the city sprawls with high rise apartments and green parks, juxtaposed with huge slums and shanty towns.
 1009_Spider-Man3_00.19.09.314-00.19.15.931 	peter swings down and is just grabbing the ring when harry strikes him again, sending him sprawling onto a rooftop.
+1011_The_Help_00.05.05.533-00.05.18.529 	a cigarette smoking receptionist leads the way through the sprawling open plan office to the editor's office, where a short, middle aged man is dwarfed by his big desk.
 1012_Unbreakable_00.42.51.851-00.42.52.926 	he's sprawled on the stairs on his back, head downwards.
 1012_Unbreakable_01.20.06.602-01.20.09.269 	a young woman in a very short party dress is sprawled on the bed.
 1012_Unbreakable_01.21.24.951-01.21.27.617 	david sees an image of the house owner sprawled on the basement steps.
 1030_Public_Enemies_01.40.50.599-01.40.57.974 	beyond them, the horizon sprawls perfectly flat between the sand and black sky.
+1030_Public_Enemies_01.57.22.405-01.57.27.071 	a mug shot of homer, photos of a robbed bank and a sprawled body, and a street map.
+1031_Quantum_of_Solace_00.31.32.878-00.31.37.924 	he crashes between them sending men sprawling.
 1037_The_Curious_Case_Of_Benjamin_Button_02.16.26.439-02.16.29.240 	he darts down the basement stairs to daisy who lies sprawled on the bloodstained floor beside a wash basket.
+1046_Australia_00.06.57.429-00.07.00.823 	the red-bearded speaker is sent sprawling.
 1047_Defiance_00.26.52.143-00.26.53.935 	the bielskis swarm towards the german soldier sprawled on the ground.
 1048_Gran_Torino_00.21.51.958-00.21.59.114 	thao runs out of the garage, leaving walt sprawling on the ground.
-1053_Harry_Potter_and_the_philosophers_stone_00.12.29.473-00.12.37.050 	in the room below, dudley is asleep on a sofa while harry sprawls on the floor in a sleeping bag.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.43.26.723-00.43.29.400 	it sprawls across the floor.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_01.45.27.642-01.45.35.542 	they lie next to each other, sprawled unconscious on the stony beach.
-1060_Yes_man_01.24.37.586-01.24.42.055 	a woman's looking at the photo of carl sprawled on the ground.
-1053_Harry_Potter_and_the_philosophers_stone_00.12.29.473-00.12.37.050 	in the room below, dudley is asleep on a sofa while harry sprawls on the floor in a sleeping bag.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_00.43.26.723-00.43.29.400 	it sprawls across the floor.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_01.45.27.642-01.45.35.542 	they lie next to each other, sprawled unconscious on the stony beach.
 1060_Yes_man_01.24.37.586-01.24.42.055 	a woman's looking at the photo of carl sprawled on the ground.

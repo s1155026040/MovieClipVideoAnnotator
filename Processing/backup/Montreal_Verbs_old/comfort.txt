@@ -1,0 +1,5 @@
+CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS566 	02:13:21,00 --> 02:13:26,50 	as someone sobs, someone comforts her.
+EASY_A.srt 	EASY_A_DVS166 	00:53:31,00 --> 00:53:37,50 	in the main office, someone finds someone comforting micah.
+JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS182 	01:04:48,00 --> 01:04:53,50 	as he cries, someone goes to comfort him.
+LIFE_OF_PI.srt 	LIFE_OF_PI_DVS257 	00:33:50,00 --> 00:34:00,50 	the larger one takes the smaller one's hand and comforts it.
+ZOMBIELAND.srt 	ZOMBIELAND_DVS221 	00:24:05,00 --> 00:24:13,50 	in the back, someone finds the young woman comforting a 12 year old girl.

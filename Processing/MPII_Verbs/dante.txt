@@ -1,6 +1,1 @@
-0006_Clerks_00.28.27.646-00.28.28.568 	the can pops off and dante staggers back a few steps.
 0006_Clerks_00.46.07.180-00.46.09.799 	a new face-off pits dante against the customer.
-0006_Clerks_00.53.41.416-00.53.45.472 	the car pulls up and randal and dante get out.
-0006_Clerks_00.54.30.016-00.54.31.683 	dante walks away, shaking his head.
-0006_Clerks_00.59.52.956-00.59.55.156 	the suited man rips a piece of paper out of his notebook and hands it to dante.
-0006_Clerks_01.12.54.817-01.12.57.429 	she joins them, latching on to dante's arm, lovingly.

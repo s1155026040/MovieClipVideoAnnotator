@@ -1,41 +1,12 @@
-0001_American_Beauty_00.22.48.667-00.22.52.317 	lester is frozen, unable to speak.
-0001_American_Beauty_00.31.34.890-00.31.37.039 	carolyn's smile is frozen on her face.
-0001_American_Beauty_00.42.22.917-00.42.28.288 	he puts the plastic cup on the shelf, then crosses to a mini refrigerator in the corner of his room and takes out a cup-sized tupperware container from the freezer, already filled with urine, albeit frozen, and places it on a saucer to thaw overnight.
-0007_DIE_NACHT_DES_JAEGERS_01.18.57.423-01.18.57.944 	all the children freeze, pearl is on ground, just beyond john.
-0008_Fargo_00.30.46.517-00.30.48.266 	carl, with the trooper's body hoisted halfway up, is frozen in the headlights.
-0012_Get_Shorty_00.48.27.529-00.48.30.259 	he lights a cigarette, looks off screen and freezes.
-0013_Halloween_01.20.26.588-01.20.31.126 	then suddenly he freezes, hands outstretched, motionless, and falls into a heap on the floor.
-0014_Ist_das_Leben_nicht_schoen_00.11.47.851-00.11.50.310 	suddenly, in action, as george stands with his arms outstretched in illustration, the picture freezes and becomes a still.
-0017_Pianist_00.29.46.831-00.29.48.051 	the family is frozen with horror, remain seated.
 0017_Pianist_01.09.33.258-01.09.35.225 	freezing cold.
 0017_Pianist_02.15.31.345-02.15.32.529 	freezing weather.
-0020_Raising_Arizona_00.16.04.455-00.16.08.680 	halfway there she freezes, staring, in shock.
-0020_Raising_Arizona_01.13.31.332-01.13.34.297 	he bends down to pick it up but suddenly freezes, with a soft grunt of surprise.
-0020_Raising_Arizona_01.14.18.467-01.14.23.490 	everyone freezes, staring at gale and evelle.
-0021_Rear_Window_00.15.34.232-00.15.36.127 	he freezes, turns slowly to look up at her.
-0022_Reservoir_Dogs_01.11.13.708-01.11.15.709 	everyone is frozen.
-0023_THE_BUTTERFLY_EFFECT_01.21.51.024-01.21.52.836 	lenny drops to the floor, indian style, wipes the dirt in his hands and freezes up completely.
-0026_The_Big_Fish_00.50.22.284-00.50.23.879 	and as they do, all motion freezes.
 0026_The_Big_Fish_00.51.02.361-00.51.04.291 	now it's edward who's frozen, helpless in time.
-0026_The_Big_Fish_01.14.16.821-01.14.18.106 	she freezes, watching the shadow ripple across the white fabric, blowing so softly in the breeze.
 0026_The_Big_Fish_01.41.28.227-01.41.31.929 	she freezes, stunned and humiliated.
-0027_The_Big_Lebowski_00.46.32.170-00.46.35.037 	the dude is at the bar, a bottle of kalhua frozen halfway to his glass.
 0029_The_Graduate_01.06.21.810-01.06.25.916 	he freezes with his hand still on the key.
 0029_The_Graduate_01.31.05.470-01.31.10.591 	ben freezes just inside the door.
-0031_The_Lost_Weekend_00.10.15.526-00.10.22.967 	don freezes, his eyes turning towards the door, horrified.
 0031_The_Lost_Weekend_00.13.31.584-00.13.33.265 	the glass freezes halfway to his mouth.
-0031_The_Lost_Weekend_01.39.11.614-01.39.13.803 	she looks into the living room and her face freezes.
-0032_The_Princess_Bride_00.12.01.548-00.12.11.182 	she's scared, sure, petrified, who wouldn't be, but she makes no reply-- --and now a shrieking eel has zeroed in on her-- --and now she sees it, a short distance away, circling, starting to close-- --and buttercup is frozen, trying not to make a movement of any kind-- --and the eel slithers closer, closer-- --and buttercup knows it now, there's nothing she can do, it's over, all over-- --and now the eel opens its mouth wide, and it's never made such a noise, and as its great jaws are about to clamp down.
-0032_The_Princess_Bride_00.42.16.023-00.42.17.403 	buttercup is frozen with fear.
-0032_The_Princess_Bride_00.52.43.824-00.52.44.831 	and the scene freezes, humperdinck caught in mid-sentence.
-0032_The_Princess_Bride_01.27.06.659-01.27.08.231 	they are almost frozen like that for a moment.
 0046_Chasing_Amy_00.03.51.901-00.03.53.494 	banky freezes up.
 0046_Chasing_Amy_00.57.39.952-00.57.41.144 	then he freezes.
-0049_Hannah_and_her_sisters_01.39.23.467-01.39.36.407 	they pass some people, a cluster of buildings that look like castles, and the manhattan skyline as seen through the trees, as the camera moves back, farther and farther away from them, showing a beautiful central park, frozen in time.
-0053_Rendezvous_mit_Joe_Black_00.33.10.429-00.33.13.793 	parrish is frozen, dumbfounded.
-1005_Signs_00.58.41.217-00.58.49.039 	merrill sits back down in front of the tv and watches mouth gaping as the picture freezes on the creature.
-1006_Slumdog_Millionaire_00.19.36.914-00.19.41.169 	the boys are frozen to the spot momentarily and stare at the bow and arrow in the boy's hand.
-1009_Spider-Man3_00.32.19.998-00.32.24.343 	across the room, the black spider-like tendril crawls across a cabinet behind her, but freezes when she looks around.
 1011_The_Help_00.32.28.741-00.32.30.880 	minnie, caught with her knickers down, freezes.
 1011_The_Help_01.41.37.742-01.41.40.071 	hilly's automatic smile freezes.
 1015_27_Dresses_01.12.32.911-01.12.36.195 	kevin's expression freezes.
@@ -43,29 +14,9 @@
 1019_Confessions_Of_A_Shopaholic_00.37.31.480-00.37.33.267 	rebecca's expectant smile freezes.
 1020_Crazy_Stupid_Love_00.52.43.752-00.52.45.335 	he freezes.
 1020_Crazy_Stupid_Love_01.27.06.806-01.27.08.482 	he freezes.
-1035_The_Adjustment_Bureau_00.22.17.268-00.22.21.152 	inside, men in shiny black body suits and visored helmets work on his colleagues, who stand frozen in time.
-1037_The_Curious_Case_Of_Benjamin_Button_00.25.44.866-00.25.46.614 	the preacher freezes with his arms held aloft.
-1040_The_Ugly_Truth_00.00.23.012-00.00.28.419 	a boy leaps off a jetty towards a lake and is frozen in midair.
-1043_Vantage_Point_00.42.28.276-00.42.33.930 	he freezes in the middle of the road as the speeding ambulance hurdles towards her.
-1043_Vantage_Point_00.42.38.981-00.42.41.275 	the picture freezes and the events run in reverse.
 1045_An_education_00.22.29.831-00.22.32.595 	david glances at jenny who freezes.
-1046_Australia_01.53.33.916-01.53.36.836 	she freezes, keeping her back to him.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.35.37.089-00.35.41.926 	the guests freeze.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.41.16.274-00.41.18.444 	they freeze.
-1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.11.23.418-01.11.30.309 	she freezes as men approach, one carrying a woman.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_02.08.16.716-02.08.20.943 	lucius glares at draco, who freezes.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.55.24.912-00.55.25.933 	he shakes his head as his goggles freeze over.
-1057_Seven_pounds_00.00.39.000-00.00.45.000 	the figure becomes smaller and is frozen in the iris of an intensely blue eye.
-1057_Seven_pounds_00.57.40.447-00.57.55.463 	she sits up a little, freezes, then sits up fully.
-1060_Yes_man_00.38.18.645-00.38.24.872 	carl is frozen in terror, as the dog snaps its jaws inches from his face.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.13.27.000-01.13.29.846 	harry stands frozen in the doorway.
-2005_Signs_01.18.32.042-01.18.38.009 	morgan and bo are frozen watching a set of long fingers reach under the front door.
-2017_Bad_Santa_00.22.30.695-00.22.34.416 	the snot-nosed kid is next in line, frozen by fear.
-2026_Legion_00.31.47.621-00.31.51.479 	charlie freezes a few feet from the car when she sees those piercing eyes already familiar to us.
 2027_Les_Miserables_01.43.32.090-01.43.33.609 	everyone freezes.
 2040_The_Ugly_Truth_00.24.13.843-00.24.15.067 	she freezes.
-2054_Harry_Potter_and_the_prisoner_of_azkaban_00.39.59.403-00.40.04.415 	the dew freezes, the grass grows brittle.
-2054_Harry_Potter_and_the_prisoner_of_azkaban_00.44.07.309-00.44.10.816 	harry starts to raise his wand, then freezes, transfixed.
-2054_Harry_Potter_and_the_prisoner_of_azkaban_01.02.57.098-01.02.57.630 	ron and hermione stand frozen, exchange a nervous glance, and.
-2054_Harry_Potter_and_the_prisoner_of_azkaban_01.58.34.662-01.58.36.681 	the werewolf is frozen.
-2054_Harry_Potter_and_the_prisoner_of_azkaban_02.01.01.830-02.01.03.535 	the lake begins to freeze.

@@ -1,21 +1,10 @@
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS314 	00:45:43,00 --> 00:45:55,50 	as someone crosses to the dark haired woman, a dazed someone rises to his feet but struggles to maintain his balance.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS871 	01:25:08,00 --> 01:25:13,50 	but he maintains a serene expression.
 DISTRICT_9.srt 	DISTRICT_9_DVS708 	01:23:05,00 --> 01:23:17,50 	as someone trenches, his captors maintain their grip on his limbs.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS97 	00:24:50,00 --> 00:24:56,50 	the chief maintains eye contact with the mustached local.
-GREEN_ZONE.srt 	GREEN_ZONE_DVS346 	01:18:28,00 --> 01:18:39,50 	now, someone emerges from an alley and spies someone's envoy yard ahead, maintaining a steady pace.
 IN_TIME.srt 	IN_TIME_DVS377 	00:39:33,00 --> 00:39:40,50 	as she maintains her distances, calm waves splash between them.
 IN_TIME.srt 	IN_TIME_DVS402 	00:42:15,00 --> 00:42:23,50 	someone's smirk fades but he maintains steady eye contact with the timekeeper.
-IN_TIME.srt 	IN_TIME_DVS434 	00:46:32,00 --> 00:46:49,50 	maintaining a close pursuit, someone blinks his large eyes and sets his jaw tight.
-IN_TIME.srt 	IN_TIME_DVS803 	01:25:11,00 --> 01:25:20,50 	someone maintains a stoic gaze as the gangster reaches a hand across the table, his palm turned upward.
-IN_TIME.srt 	IN_TIME_DVS814 	01:26:25,00 --> 01:26:33,50 	someone lifts his chin, smirking triumphantly as he maintains eye contact with his rival.
-KARATE_KID.srt 	KARATE_KID_DVS360 	00:32:10,00 --> 00:32:17,50 	someone maintains his slumbering charade as she crouches beside him.
 KARATE_KID.srt 	KARATE_KID_DVS1601 	02:10:27,00 --> 02:10:34,50 	on the sidelines, his corrupt teacher maintains a cool smirk.
-KARATE_KID.srt 	KARATE_KID_DVS1617 	02:11:35,00 --> 02:11:43,50 	the boy gracefully maintains the advanced position, gazing steadily at his opponent.
 KARATE_KID.srt 	KARATE_KID_DVS1627 	02:12:22,00 --> 02:12:29,50 	as someone maintains the graceful pose, master someone stares.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS526 	00:57:34,00 --> 00:57:40,50 	someone maintains his cross-legged pose as he watches the boat.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS726 	01:15:28,00 --> 01:15:42,50 	someone maintains his balance and keeps the boat hook between them.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS687 	02:08:50,00 --> 02:09:04,50 	maintains her dispassionate gaze.
 SALT.srt 	SALT_DVS352 	01:02:43,00 --> 01:02:58,50 	someone maintains her stony expression.
-SANCTUM.srt 	SANCTUM_DVS223 	00:48:19,00 --> 00:48:27,50 	maintaining his hold, the older man bites his lip.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS615 	00:40:50,00 --> 00:40:57,50 	she maintains an emotionless expression as the villagers continue to pay their respects.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS206 	00:15:29,00 --> 00:15:38,50 	someone maintains his telekinetic hold on the banker's fillings, his face luminous with sadistic glee.

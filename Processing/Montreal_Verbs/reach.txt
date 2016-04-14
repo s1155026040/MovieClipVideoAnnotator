@@ -7,15 +7,9 @@
 30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS123 	00:32:50,00 --> 00:32:54,50 	they reach an aisle of toy guns.
 30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS160 	00:42:01,00 --> 00:42:09,50 	as he reaches the other side, someone arrives at the start of the bridge and stops to catch his breath.
 30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS186 	00:48:28,00 --> 00:48:34,50 	as the fat man reaches into the sack, blue paint explodes in his face.
-30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS200 	00:50:52,00 --> 00:50:57,50 	reaching an intersection, he pulls the emergency break.
 30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS212 	00:52:08,00 --> 00:52:13,50 	they reach the end of the narrow alley.
 30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS271 	01:04:28,00 --> 01:04:33,50 	they reached the door of her stall.
-500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS459 	01:18:13,00 --> 01:18:17,50 	someone reaches out to take her hand
-500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS504 	01:21:37,00 --> 01:21:42,50 	someone wearing his suit, reaches pavement level on an escalator.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS146 	00:13:45,00 --> 00:13:50,50 	as he watches his son reach the courthouse stairs.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS196 	00:17:14,00 --> 00:17:21,50 	sitting up, an injured soldier reaches for his weapon as the masked men enter.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS241 	00:19:52,00 --> 00:20:03,50 	someone gets inside as the armored truck reaches someone.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS245 	00:20:27,00 --> 00:20:35,50 	reaching over, he grabs an earpiece from the glove box and puts it on.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS434 	00:42:04,00 --> 00:42:09,50 	then reach the threshold and pause.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS473 	00:46:07,00 --> 00:46:12,50 	someone reaches for someone.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS502 	00:48:48,00 --> 00:48:55,50 	someone surreptitiously reaches for the knife in his boot, as someone delivers a knee to someone's face.
@@ -29,42 +23,31 @@ A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS938 	01:31:02,00 --> 01:31
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS338 	00:59:45,00 --> 00:59:50,50 	someone climbs a ladder and reaches for the cat.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS403 	01:10:25,00 --> 01:10:31,50 	eyes shut he reaches out and grabs on to the tree's trunk.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS478 	01:21:56,00 --> 01:22:02,50 	someone's hand trembles as he slowly reaches out and answers his phone.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS75 	00:08:33,00 --> 00:08:39,50 	he reaches into his jacket pocket and takes out his pistol.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS99 	00:10:53,00 --> 00:11:08,50 	amid the falling shards of wood, someone reaches towards someone.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS162 	00:21:31,00 --> 00:21:37,50 	as someone reaches his horse, someone approaches.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS183 	00:24:53,00 --> 00:25:06,50 	as someone reaches in his coat, stibble bears his fangs.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS211 	00:29:29,00 --> 00:29:45,50 	someone reaches in his pocket and throws a handful of grain.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS214 	00:29:51,00 --> 00:29:57,50 	the hunter reaches in his pocket, but finds no more grain.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS254 	00:37:05,00 --> 00:37:11,50 	she reaches through the bars and turns someone's head.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS288 	00:41:53,00 --> 00:42:11,50 	someone's spots his weapon and reaches for it, but someone stomps the handle flipping the ax into the air.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS337 	00:48:21,00 --> 00:48:26,50 	someone reaches into his jacket.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS564 	01:18:57,00 --> 01:19:02,50 	someone reaches the front and wipes off the headlamp.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS591 	01:21:44,00 --> 01:21:53,50 	he takes aim and reaches out to open it.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS640 	01:30:19,00 --> 01:31:04,50 	before the engine reaches the end, the bridge underneath it splits from the final portion of the track.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS647 	01:31:42,00 --> 01:31:47,50 	he reaches out and gives him a hand.
 BAD_TEACHER.srt 	BAD_TEACHER_DVS61 	00:18:43,00 --> 00:18:47,50 	he reaches for his magazine.
 BAD_TEACHER.srt 	BAD_TEACHER_DVS112 	00:30:25,00 --> 00:30:31,50 	unrolling her window a third of the way someone reaches out.
-BAD_TEACHER.srt 	BAD_TEACHER_DVS273 	01:14:04,00 --> 01:14:14,50 	meeting his gaze, she cocks her head, stands, then reaches behind her back and under her sleeve.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS39 	00:03:33,00 --> 00:03:37,50 	now, he reaches into a box.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS228 	00:37:59,00 --> 00:38:03,50 	she reaches down to tug on the hiked skirt.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS387 	01:02:00,00 --> 01:02:04,50 	someone reaches over.
-BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS462 	01:12:37,00 --> 01:12:44,50 	facing someone, someone presses the guard's head down and reaches over his back.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS642 	01:38:39,00 --> 01:38:44,50 	someone reaches back and undoes his dress.
 BLINDDATING.srt 	BLINDDATING_DVS153 	00:40:46,00 --> 00:40:51,50 	someone reaches for his folded cane.
 BLINDDATING.srt 	BLINDDATING_DVS196 	00:49:40,00 --> 00:49:45,50 	he reaches under him, pushes
-BLINDDATING.srt 	BLINDDATING_DVS228 	00:56:03,00 --> 00:56:12,50 	someone reaches to his right and finds an arm.
 BLINDDATING.srt 	BLINDDATING_DVS254 	01:01:14,00 --> 01:01:21,50 	she prowls toward someone, reaches for his crotch.
 BLINDDATING.srt 	BLINDDATING_DVS284 	01:11:03,00 --> 01:11:20,50 	a gloved hand in the or reaches for a syringe, then a clamp, then discards bloody gauze.
 BLINDDATING.srt 	BLINDDATING_DVS298 	01:13:49,00 --> 01:13:55,50 	someone reaches for it.
 BLINDDATING.srt 	BLINDDATING_DVS306 	01:15:14,00 --> 01:15:27,50 	as someone's hand reaches out, his father's curious face cranes in to his view.
 BLINDDATING.srt 	BLINDDATING_DVS310 	01:15:51,00 --> 01:16:02,50 	someone eagerly reaches for someone to approach.
 BLINDDATING.srt 	BLINDDATING_DVS317 	01:16:48,00 --> 01:16:54,50 	bedroom and reaches for the remote control.
-BLINDDATING.srt 	BLINDDATING_DVS342 	01:22:03,00 --> 01:22:11,50 	reaching the sidewalk, he takes a few steps to his right and pulls out a phone.
 BRUNO.srt 	BRUNO_DVS115 	00:25:43,00 --> 00:26:13,50 	someone flutters his tongue in the invisible opening, then uses one hand to reach forward and stroke someone's penis again.
-BURLESQUE.srt 	BURLESQUE_DVS298 	00:40:43,00 --> 00:40:50,50 	now someone reaches out of the shower and finds bras and stockings hanging on a hook.
 BURLESQUE.srt 	BURLESQUE_DVS499 	01:09:24,00 --> 01:09:31,50 	back in the lounge, the dancers advance downstage, reaching their hands toward the audience.
 BURLESQUE.srt 	BURLESQUE_DVS602 	01:28:40,00 --> 01:28:45,50 	reaching behind her back, she goes to unzip her dress.
-BURLESQUE.srt 	BURLESQUE_DVS711 	01:48:00,00 --> 01:48:06,50 	as she stares off dreamily, another dancer reaches for her makeup.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS352 	01:05:03,00 --> 01:05:10,50 	in the control room, one of the timers reaches zero.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS365 	01:06:38,00 --> 01:06:44,50 	someone reaches one hand under his own chin.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS373 	01:07:32,00 --> 01:07:39,50 	meanwhile, someone and someone reach the upper catwalk.
@@ -72,9 +55,6 @@ CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS426 	01:17:17,00 --> 01:17:21,50 	someon
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS483 	01:25:02,00 --> 01:25:08,50 	someone climbs outside the train and reaches for someone.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS605 	01:43:01,00 --> 01:43:13,50 	someone reaches for the blaster, but someone throws a box and knocks it away.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS646 	01:48:38,00 --> 01:48:44,50 	a broken wing reaches skyward as snow blows over it.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS44 	00:03:04,00 --> 00:03:10,50 	as a yellow shape floats overhead, a hand reaches down and pulls him up by the scruff of his collar.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS88 	00:06:55,00 --> 00:06:59,50 	as he turns to go, she reaches for his hand.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS283 	00:21:34,00 --> 00:21:44,50 	someone reaches the foot of the wave, briefly vanishing from view within the rolling tides before he emerges to take more of the face.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS558 	00:53:46,00 --> 00:53:51,50 	as she reaches for the faucet, someone bursts out.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS695 	01:07:37,00 --> 01:07:42,50 	someone surfs his board close to hers and reaches out.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS972 	01:35:28,00 --> 01:35:34,50 	reaching into his supply bag, someone produces a letter.
@@ -88,19 +68,15 @@ CHRONICLE.srt 	CHRONICLE_DVS348 	00:52:35,00 --> 00:52:43,50 	he playfully reach
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS19 	00:04:03,00 --> 00:04:15,50 	reaching the front steps, someone bobs his head soberly.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS35 	00:08:06,00 --> 00:08:15,50 	a man's fingers reach for a folded straight razor near the braddock's unframed wedding photo.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS137 	00:30:02,00 --> 00:30:10,50 	as someone reaches for another sack, someone joins him.
-CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS202 	00:42:10,00 --> 00:42:19,50 	he reaches into his pocket and signals for someone to step forward.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS205 	00:42:37,00 --> 00:42:57,50 	the promoter reaches into his pocket then lets a handful of coins slide into the hat.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS205 	00:42:37,00 --> 00:42:57,50 	as someone lowers his gaze, a seated patron reaches out.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS207 	00:43:09,00 --> 00:43:19,50 	passing framed pictures and a mirror, he reaches his old manager at the desk.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS212 	00:43:55,00 --> 00:44:00,50 	someone reaches into his pocket.
-CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS248 	01:01:56,00 --> 01:02:05,50 	he reaches into his vest pocket, takes something out, and palms it.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS433 	01:45:01,00 --> 01:45:05,50 	as the fighter reaches for a car door stops.
-CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS489 	01:52:14,00 --> 01:52:29,50 	reaching the aisle, someone wears a silky blue robe, his name printed across the back arcs above a bulldog emblem.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS529 	02:03:57,00 --> 02:04:04,50 	reaching the basement doorway, she eyes her huddled children, then someone.
 COLOMBIANA.srt 	COLOMBIANA_DVS61 	00:03:57,00 --> 00:04:01,50 	he reaches into his pocket.
 COLOMBIANA.srt 	COLOMBIANA_DVS108 	00:08:48,00 --> 00:08:58,50 	just as alicia reaches the doorway, two bullets tear through her.
 COLOMBIANA.srt 	COLOMBIANA_DVS201 	00:17:21,00 --> 00:17:28,50 	later, she reaches a building surrounded by a tall wrought iron fence.
-COLOMBIANA.srt 	COLOMBIANA_DVS362 	00:32:54,00 --> 00:33:01,50 	reaching into her shaggy black locks, she pulls out a small hairpin.
 COLOMBIANA.srt 	COLOMBIANA_DVS377 	00:33:56,00 --> 00:34:02,50 	creeping stealthily down a hallway, she reaches a break area.
 COLOMBIANA.srt 	COLOMBIANA_DVS392 	00:35:03,00 --> 00:35:09,50 	reaching a grated cover, she peers down at a male prisoner asleep in his cell.
 COLOMBIANA.srt 	COLOMBIANA_DVS394 	00:35:09,00 --> 00:35:15,50 	someone reaches a large ventilation fan and checks her watch.
@@ -117,10 +93,8 @@ COLOMBIANA.srt 	COLOMBIANA_DVS889 	01:24:13,00 --> 01:24:19,50 	reaching a doorw
 DEAR_JOHN.srt 	DEAR_JOHN_DVS119 	00:18:03,00 --> 00:18:17,50 	later, he paddles with a flow of a swelling wave, as its foaming crest reaches his board, he gets to his feet and surfs it until it breaks.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS177 	00:28:45,00 --> 00:28:50,50 	reaching the party, he heads up a boardwalk.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS295 	00:45:36,00 --> 00:45:52,50 	at the bottom of a staircase, she reaches a walkway where frantic peers gather and talk on cellphones.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS296 	00:45:55,00 --> 00:46:24,50 	reaching the entrance, someone joins his dark-haired buddy to watch television news coverage.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS324 	00:50:18,00 --> 00:50:30,50 	someone reaches back.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS379 	00:59:53,00 --> 01:00:02,50 	he lies beside her, his arm reaching across her body, to stroke her corn silk tresses with his fingertips.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS449 	01:05:49,00 --> 01:05:59,50 	he finds a cellphone on a desk, and reaches for it.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS463 	01:07:58,00 --> 01:08:03,50 	reaching under his cot,
 DEAR_JOHN.srt 	DEAR_JOHN_DVS707 	01:35:36,00 --> 01:35:43,50 	as she reaches for the stack of letters, she knocks over a glass of wine.
 DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS154 	00:36:54,00 --> 00:37:02,50 	he stops when he reaches a platform outside the large window of the upper floor apartment.
@@ -129,24 +103,17 @@ DISTRICT_9.srt 	DISTRICT_9_DVS456 	00:51:36,00 --> 00:51:45,50 	reaching into th
 DISTRICT_9.srt 	DISTRICT_9_DVS834 	01:38:16,00 --> 01:38:22,50 	above, the command module reaches the mothership.
 EASY_A.srt 	EASY_A_DVS15 	00:04:07,00 --> 00:04:12,50 	she reaches for it, letting her breasts hang out.
 FLIGHT.srt 	FLIGHT_DVS62 	00:12:41,00 --> 00:12:48,50 	they reach a clearing, through clouds and bright sunlight, as someone levels out.
-FLIGHT.srt 	FLIGHT_DVS67 	00:13:23,00 --> 00:13:30,50 	she pulls out a key as she reaches the door, only to discover it is slightly open.
 FLIGHT.srt 	FLIGHT_DVS94 	00:16:47,00 --> 00:16:51,50 	her fingers reach out, but only push it away.
 FLIGHT.srt 	FLIGHT_DVS159 	00:33:23,00 --> 00:33:27,50 	he reaches for a plastic bag.
 FLIGHT.srt 	FLIGHT_DVS202 	00:46:53,00 --> 00:47:00,50 	someone places a bag beside the door, and reaches above one of the wooden posts supporting the veranda roof.
-FLIGHT.srt 	FLIGHT_DVS528 	01:16:06,00 --> 01:16:12,50 	someone reaches for her son, and pulls him close.
 FLIGHT.srt 	FLIGHT_DVS606 	01:26:33,00 --> 01:26:37,50 	someone reaches for someone's hand.
 FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS29 	00:06:37,00 --> 00:06:42,50 	she and someone both reach for her sign.
-FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS45 	00:13:01,00 --> 00:13:05,50 	they reach a gyros stand.
 FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS176 	00:48:28,00 --> 00:48:34,50 	she pauses to shoot someone a glare before reaching the stranger.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS51 	00:08:19,00 --> 00:08:27,50 	he stands upright then reaches into his jacket pocket and takes out a photo of someone.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS76 	00:12:15,00 --> 00:12:31,50 	reaching out, she strokes his cheek with her finger then ruffles his hair.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS111 	00:18:32,00 --> 00:18:37,50 	lying in the dirt, someone reaches out desperately.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS116 	00:18:59,00 --> 00:19:11,50 	as it pulls away, someone reaches out for it then slumps breathlessly.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS247 	00:39:17,00 --> 00:39:28,50 	ghost rider's smoldering hand reaches out of the fiery crater left behind.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS284 	00:43:50,00 --> 00:43:57,50 	he glances at the family then reaches out and touches someone's hair.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS338 	00:51:09,00 --> 00:51:16,50 	driving it, someone reaches into a lunch box on the seat beside him.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS364 	00:53:37,00 --> 00:53:42,50 	a monk reaches for him.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS399 	00:58:55,00 --> 00:59:04,50 	he reaches the end of the passage and a huge slab blocks him from turning back.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS416 	01:00:27,00 --> 01:00:32,50 	he reaches the mouth of a cavern.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS511 	01:13:38,00 --> 01:13:47,50 	now someone reaches an entryway and chugs his wine.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS528 	01:15:10,00 --> 01:15:21,50 	someone reaches a gloved hand out to someone.
@@ -155,34 +122,24 @@ GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS566 	01:
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS603 	01:26:24,00 --> 01:26:36,50 	his gloved hands reach out uncertainly and he lowers out of view.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS619 	01:27:45,00 --> 01:27:51,50 	reaching past it, someone caresses the boy's cheek.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS74 	00:18:34,00 --> 00:18:47,50 	as we reach a palatial building, words appear - coalition provisional authority
-GREEN_ZONE.srt 	GREEN_ZONE_DVS179 	00:46:26,00 --> 00:46:32,50 	she holds someone's gaze then reaches into her bag.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS229 	00:56:50,00 --> 00:57:05,50 	he reaches out as someone passes.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS340 	01:16:29,00 --> 01:17:03,50 	someone reaches the end of a bus and peeks around it.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS400 	01:30:25,00 --> 01:30:33,50 	now, someone reaches the same junction and starts for the hall.
-GREEN_ZONE.srt 	GREEN_ZONE_DVS402 	01:30:37,00 --> 01:30:42,50 	now, someone and his attachment reach the sitting room.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS456 	01:40:26,00 --> 01:40:34,50 	as he and others reach a meeting room, someone welcomes them.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS461 	01:41:00,00 --> 01:41:12,50 	he reaches a landing where a giant american flag covers one of the walls.
-HUGO.srt 	HUGO_DVS25 	00:03:13,00 --> 00:03:23,50 	turning down another narrow hallway with steam rising through the grating, the boy reaches another clock powered by a complex mechanism of spinning gears.
 HUGO.srt 	HUGO_DVS43 	00:04:50,00 --> 00:04:59,50 	as the boy reaches the toy shop, he reaches one hand toward the wind-up mouse.
 HUGO.srt 	HUGO_DVS43 	00:04:50,00 --> 00:04:59,50 	as the boy reaches the toy shop, he reaches one hand toward the wind-up mouse.
 HUGO.srt 	HUGO_DVS46 	00:05:19,00 --> 00:05:31,50 	the boy reaches into his coat pocket then sets items onto the counter: a pocketknife, bundle of string, and a piece of cloth filled with small sprockets, gears, and springs.
 HUGO.srt 	HUGO_DVS47 	00:05:39,00 --> 00:05:49,50 	the boy glances over his shoulder then reaches into his other pocket.
-HUGO.srt 	HUGO_DVS68 	00:09:00,00 --> 00:09:06,50 	the inspector reaches the end of the platform and gazes around himself.
-HUGO.srt 	HUGO_DVS75 	00:09:54,00 --> 00:10:01,50 	reaching into a pocket, the boy takes out a set of keys as he approaches another metal door.
 HUGO.srt 	HUGO_DVS89 	00:11:18,00 --> 00:11:24,50 	she nods and the man reaches his hand toward her dog.
 HUGO.srt 	HUGO_DVS103 	00:13:52,00 --> 00:13:57,50 	someone strides closer as they reach the front entrance.
 HUGO.srt 	HUGO_DVS182 	00:25:44,00 --> 00:25:51,50 	grimacing, the inspector reaches down and unlocks his leg brace.
 HUGO.srt 	HUGO_DVS205 	00:30:45,00 --> 00:30:53,50 	without glancing away from the boy, he reaches under the counter then drops the broken wind-up mouse in front of someone.
-HUGO.srt 	HUGO_DVS218 	00:32:52,00 --> 00:32:57,50 	someone walks into the shop, then reaches for a broom.
-HUGO.srt 	HUGO_DVS305 	00:47:03,00 --> 00:47:08,50 	reaching out his hand, he pulls her up off the floor.
 HUGO.srt 	HUGO_DVS357 	00:54:16,00 --> 00:54:23,50 	the automaton reaches out its hand and signs a name in cursive at the bottom of the page.
 HUGO.srt 	HUGO_DVS400 	01:00:05,00 --> 01:00:13,50 	someone glances behind herself then reaches up with both hands and removes the panel.
-HUGO.srt 	HUGO_DVS713 	01:45:09,00 --> 01:45:14,50 	someone reaches out toward someone who stares at the inspector.
 HUGO.srt 	HUGO_DVS732 	01:47:39,00 --> 01:47:43,50 	slick with sweat, he reaches the top.
-HUGO.srt 	HUGO_DVS737 	01:48:21,00 --> 01:48:32,50 	he reaches up and grabs onto the clock's giant minute hand - a thin metal beam pointed at the number three.
 HUGO.srt 	HUGO_DVS740 	01:48:48,00 --> 01:48:54,50 	someone reaches the top of the stairs and sniffs some boxes and rags.
 HUGO.srt 	HUGO_DVS743 	01:49:07,00 --> 01:49:13,50 	as he reaches the end of the bar, one of the clockwork's gears snaps.
-HUGO.srt 	HUGO_DVS770 	01:51:32,00 --> 01:51:42,50 	the inspector reaches down and pulls someone and the automaton safely onto the platform.
 IN_TIME.srt 	IN_TIME_DVS85 	00:09:31,00 --> 00:09:35,50 	the two men reach a gate.
 IN_TIME.srt 	IN_TIME_DVS88 	00:09:44,00 --> 00:09:56,50 	the two men reach a door and someone breaks a chain locking it shut.
 IN_TIME.srt 	IN_TIME_DVS138 	00:15:36,00 --> 00:15:42,50 	as he reaches a balance of five minutes,
@@ -192,33 +149,23 @@ IN_TIME.srt 	IN_TIME_DVS235 	00:24:33,00 --> 00:24:38,50 	later, the vehicle rea
 IN_TIME.srt 	IN_TIME_DVS312 	00:32:33,00 --> 00:32:39,50 	with his eyes fixed on someone, he reaches for his cards.
 IN_TIME.srt 	IN_TIME_DVS476 	00:51:37,00 --> 00:51:44,50 	reaching someone's apartment complex, they dash up the steps to his unit.
 IN_TIME.srt 	IN_TIME_DVS739 	01:18:24,00 --> 01:18:31,50 	someone and someone reach a more populated area where they pass men in jumpsuits heading to the factory.
-IN_TIME.srt 	IN_TIME_DVS749 	01:19:18,00 --> 01:19:28,50 	someone and someone reach the end of the network and face a broad gap at their feet.
-IN_TIME.srt 	IN_TIME_DVS803 	01:25:11,00 --> 01:25:20,50 	someone maintains a stoic gaze as the gangster reaches a hand across the table, his palm turned upward.
 IN_TIME.srt 	IN_TIME_DVS804 	01:25:37,00 --> 01:25:44,50 	someone reaches for someone's leg but she smacks his hand away.
-IN_TIME.srt 	IN_TIME_DVS808 	01:25:56,00 --> 01:26:02,50 	as he reaches his other hand out, someone takes a deep breath.
 IN_TIME.srt 	IN_TIME_DVS833 	01:28:17,00 --> 01:28:23,50 	reaching a chest-high wall at its edge, they peer down at the street
 IN_TIME.srt 	IN_TIME_DVS861 	01:30:54,00 --> 01:31:01,50 	reaching a vault in an adjacent room, he releases someone and moves to the metal door.
 IN_TIME.srt 	IN_TIME_DVS953 	01:40:16,00 --> 01:40:22,50 	someone reaches the cruiser and jumps inside.
 IN_TIME.srt 	IN_TIME_DVS955 	01:40:30,00 --> 01:40:38,50 	someone reaches out as they draw closer.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS37 	00:08:10,00 --> 00:08:16,50 	peering inside, he tries another and reaches for his shoulder radio.
-INSIDE_MAN.srt 	INSIDE_MAN_DVS62 	00:16:58,00 --> 00:17:12,50 	someone reaches into the sack of employee phones, takes one out and scrolls through its contacts list.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS62 	00:16:58,00 --> 00:17:12,50 	he tosses the phone aside, then reaches back into the sack.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS82 	00:20:28,00 --> 00:20:40,50 	the criminals reach into their boxes and toss identical plastic wrapped garments to each of the men and women.
-INSIDE_MAN.srt 	INSIDE_MAN_DVS161 	00:47:29,00 --> 00:47:40,50 	they reach a second office where another robber stands by just out
 INSIDE_MAN.srt 	INSIDE_MAN_DVS185 	00:52:55,00 --> 00:53:12,50 	while his hostage eats, someone reaches forward and picks up the handheld video game.
-INSIDE_MAN.srt 	INSIDE_MAN_DVS252 	01:17:44,00 --> 01:17:50,50 	someone sits up in his chair and reaches for a phone.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS259 	01:19:44,00 --> 01:19:59,50 	someone reaches the lobby and follows the first robber past empty desks and chairs.
-INSIDE_MAN.srt 	INSIDE_MAN_DVS260 	01:20:01,00 --> 01:20:10,50 	as the detective descends, someone reaches into his pocket and pulls out a pack of gum.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS281 	01:26:17,00 --> 01:26:26,50 	reaching the entrance, someone pounds on the glass door.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS431 	02:02:03,00 --> 02:02:19,50 	reaching into his jacket pocket, he feels around, then pauses.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS98 	00:18:50,00 --> 00:18:59,50 	someone reaches under his own t-shirt and removes a glowing, cylindrical, repulsory technology, arc reactor - or rt unit - from his chest.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS197 	00:36:42,00 --> 00:36:50,50 	reaching down toward someone's chest, iron man pulls the arc reactor out of someone's body frame.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS234 	00:43:11,00 --> 00:43:22,50 	someone grabs the key, reaches through the cell bars, and unlocks the door.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS173 	00:55:18,00 --> 00:55:22,50 	reach his office.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS175 	00:55:32,00 --> 00:55:37,50 	she reaches for her bag then hesitates.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS357 	01:40:50,00 --> 01:41:00,50 	at his desk, someone reaches for a button.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS401 	01:52:36,00 --> 01:52:43,50 	she reaches across the space between them and rubs his shoulder.
-JACK_AND_JILL.srt 	JACK_AND_JILL_DVS423 	01:18:10,00 --> 01:18:14,50 	then reaches in her bag and takes out
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS493 	01:34:34,00 --> 01:34:41,50 	someone's lips spread in a wide grin, and he reaches for someone's groceries.
 JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS23 	00:05:30,00 --> 00:05:35,50 	the man reaches for it.
 JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS97 	00:36:07,00 --> 00:36:13,50 	he reaches for her phone.
@@ -229,49 +176,35 @@ KARATE_KID.srt 	KARATE_KID_DVS393 	00:35:27,00 --> 00:35:32,50 	they reach the o
 KARATE_KID.srt 	KARATE_KID_DVS472 	00:42:10,00 --> 00:42:30,50 	someone reaches the outer gate of his apartment complex, and races through its wide green doors, into a courtyard by the maintenance shed.
 KARATE_KID.srt 	KARATE_KID_DVS657 	00:55:35,00 --> 00:55:40,50 	he lets go as he reaches a gate into a neighborhood.
 KARATE_KID.srt 	KARATE_KID_DVS1101 	01:31:16,00 --> 01:31:29,50 	reaching a brick pillar, he stops at the sight of a stern man waiting by a black luxury sedan.
-KARATE_KID.srt 	KARATE_KID_DVS1473 	01:59:49,00 --> 01:59:55,50 	reaching the platform, someone takes his place.
 LAND_OF_THE_LOST.srt 	LAND_OF_THE_LOST_DVS63 	00:20:10,00 --> 00:20:14,50 	someone reaches for someone.
 LARRY_CROWNE.srt 	LARRY_CROWNE_DVS193 	00:44:44,00 --> 00:44:56,50 	the professor's hand reaches out.
 LARRY_CROWNE.srt 	LARRY_CROWNE_DVS334 	01:16:52,00 --> 01:16:57,50 	he reaches into his pocket.
 LARRY_CROWNE.srt 	LARRY_CROWNE_DVS350 	01:20:41,00 --> 01:20:45,50 	he reaches for the door.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS57 	00:03:42,00 --> 00:03:50,50 	it reaches a high branch and gazes out over its surroundings.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS239 	00:32:30,00 --> 00:32:36,50 	the cook reaches behind the counter and puts a morsel of parsley on the plate.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS300 	00:38:41,00 --> 00:38:46,50 	someone reaches for them futilely as they wash overboard.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS309 	00:39:14,00 --> 00:39:20,50 	reaching a door at the end of the corridor, he struggles to open it.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS572 	01:03:34,00 --> 01:03:40,50 	someone watches him with wide eyes then reaches for his pants.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS611 	01:06:42,00 --> 01:06:49,50 	the teen climbs aboard just as the predator reaches his rafts outer spokes.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS632 	01:08:19,00 --> 01:08:27,50 	he sets the sizable pallet of wooden slats on the seat then reaches for his raft.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS660 	01:10:07,00 --> 01:10:15,50 	reaching down, someone gingerly scoops up the other sides, closing it off, then yanks the fish out of the water.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS745 	01:17:31,00 --> 01:17:38,50 	reaching the stern, the tiger lies down and kneads its massive paws on the port side bench.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS759 	01:18:30,00 --> 01:18:38,50 	he reaches into a yellow pouch tied around his waist and pulls out a slab of fish.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS921 	01:32:05,00 --> 01:32:11,50 	standing back, he reaches out and tilts the container over someone's head.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS927 	01:32:27,00 --> 01:32:34,50 	the gaunt voyager's hand trembles as he reaches toward the beast's massive head.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS978 	01:36:33,00 --> 01:36:40,50 	meerkats run around him as he sits at the edge, reaching one foot down.
 LITTLE_FOCKERS.srt 	LITTLE_FOCKERS_DVS141 	00:51:52,00 --> 00:51:57,50 	his shoulders heave as he reaches toward someone.
 MORNING_GLORY.srt 	MORNING_GLORY_DVS267 	00:59:57,00 --> 01:00:02,50 	she reaches into her pocket for her phone.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS89 	00:13:23,00 --> 00:13:29,50 	someone leans in, reaching out to the flightless bird.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS115 	00:19:07,00 --> 00:19:12,50 	he reaches for the bathroom door.
-MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS306 	00:39:26,00 --> 00:39:31,50 	someone reaches into his jacket and takes out his cell phone.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS314 	00:40:32,00 --> 00:40:39,50 	they reach the curb, then hop onto the street and march off in single file.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS349 	00:44:17,00 --> 00:44:24,50 	reaching a smooth silver sculpture, the penguins launch into the air.
-MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS533 	01:04:12,00 --> 01:04:19,50 	crouching he reaches for the unhatched egg, then turns to his bosses.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS31 	00:08:43,00 --> 00:08:50,50 	reaching a light blue tractor, he climbs into
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS34 	00:09:25,00 --> 00:09:30,50 	someone reaches for the ignition.
-NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS251 	00:52:13,00 --> 00:52:33,50 	she admiringly sets the lid aside, reaches into the rosy tissue paper, and pulls out a graceful pale pink slipper.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS273 	00:59:48,00 --> 01:00:04,50 	the husband reaches for someone, but his wife tactfully restrains him.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS366 	01:18:15,00 --> 01:18:21,50 	someone reaches for his pen, but it's gone.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS412 	01:26:05,00 --> 01:26:15,50 	someone reaches through the bomb's vent and works the scissors between two of the coils.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS429 	01:30:11,00 --> 01:30:16,50 	as someone reaches the bottom,
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS354 	01:26:15,00 --> 01:26:20,50 	she reaches for her father's hand.
 PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS111 	00:25:39,00 --> 00:25:46,50 	now someone slows his pace as they reach a courtly-logged boathouse.
-PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS211 	00:53:57,00 --> 00:54:05,50 	as someone reaches for his sword, someone kicks it away, hauls him to his feet and pulls him close.
-PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS267 	01:08:35,00 --> 01:08:41,50 	someone reaches for the pearl, misses and faces the charging hydra.
-PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS304 	01:15:58,00 --> 01:16:04,50 	he reaches a crowded video game arcade and pauses, gazing about.
 PROMETHEUS.srt 	PROMETHEUS_DVS118 	00:07:14,00 --> 00:07:20,50 	her hand reaches out and interlaces with his.
 PROMETHEUS.srt 	PROMETHEUS_DVS331 	00:31:56,00 --> 00:32:02,50 	the survey team reaches a rounded tunnel of dark gleaming stone.
 PROMETHEUS.srt 	PROMETHEUS_DVS392 	00:39:26,00 --> 00:39:32,50 	someone crouches down for a better look at one and reaches out to it.
 PROMETHEUS.srt 	PROMETHEUS_DVS426 	00:43:17,00 --> 00:43:22,50 	the hatch closes, holloway reaches someone.
-PROMETHEUS.srt 	PROMETHEUS_DVS534 	00:59:20,00 --> 00:59:26,50 	reaching down, someone pulls holloway's shirt up his torso, revealing his toned sun-kissed back.
 PROMETHEUS.srt 	PROMETHEUS_DVS541 	00:59:46,00 --> 00:59:51,50 	leaning close, she reaches toward the map.
 PROMETHEUS.srt 	PROMETHEUS_DVS562 	01:03:02,00 --> 01:03:10,50 	he reaches a hand out.
 PROMETHEUS.srt 	PROMETHEUS_DVS564 	01:03:11,00 --> 01:03:15,50 	he reaches out again.
@@ -279,8 +212,6 @@ PROMETHEUS.srt 	PROMETHEUS_DVS571 	01:04:06,00 --> 01:04:10,50 	it reaches his h
 PROMETHEUS.srt 	PROMETHEUS_DVS692 	01:13:50,00 --> 01:13:56,50 	reaching up, someone catches it lightly in his gloved hand.
 PROMETHEUS.srt 	PROMETHEUS_DVS725 	01:17:12,00 --> 01:17:17,50 	a pair of hands reach for her cross,
 PROMETHEUS.srt 	PROMETHEUS_DVS786 	01:24:27,00 --> 01:24:34,50 	reaching the end of the table she quickly rushes around to the outer control panel.
-PROMETHEUS.srt 	PROMETHEUS_DVS944 	01:44:25,00 --> 01:44:35,50 	reaching the escape pods she opens a pod door and grabs a space suit.
-PROMETHEUS.srt 	PROMETHEUS_DVS997 	01:49:23,00 --> 01:49:28,50 	facing forward, she reaches into low tool compartment and takes out a fire ax with a curved handle.
 PROMETHEUS.srt 	PROMETHEUS_DVS1026 	01:51:46,00 --> 01:51:52,50 	yet another tentacle reaches out and wraps around his head.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS31 	00:04:56,00 --> 00:05:13,50 	he reaches for the younger inmate's gun.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS75 	00:12:46,00 --> 00:13:05,50 	reaching the top, someone stops, scanning a huge bank with angular walls lined with tellers.
@@ -292,56 +223,39 @@ ROBIN_HOOD.srt 	ROBIN_HOOD_DVS51 	00:14:01,00 --> 00:14:07,50 	someone reaches f
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS62 	00:17:58,00 --> 00:18:02,50 	as the rider reaches a camp
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS97 	00:24:58,00 --> 00:25:07,50 	as they reach a path, they king's horse approaches at a full gallop.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS111 	00:28:29,00 --> 00:28:41,50 	reaching down, he gently closes someone's eyes.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS152 	00:38:10,00 --> 00:38:17,50 	reaching her, he drops to one knee and holds out the covered crown.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS153 	00:38:16,00 --> 00:38:35,50 	someone's french mistress averts her gaze and reaches for the prince's hand.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS269 	01:04:49,00 --> 01:04:57,50 	he opens a hatch on top, then reaches inside.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS345 	01:24:57,00 --> 01:25:07,50 	as she reaches for her horse, he joins her at her side.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS363 	01:29:39,00 --> 01:29:45,50 	this is her with a peaceful gaze and she reaches out.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS145 	00:25:05,00 --> 00:25:11,50 	reaching the upstairs landing, he peers over the railing.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS291 	00:46:10,00 --> 00:46:18,50 	now stuck in traffic, someone reaches for his cellphone as someone plays a game on it.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS425 	01:05:50,00 --> 01:05:56,50 	paying, he struggles to reach the money past her grasping figure.
-RUBY_SPARKS.srt 	RUBY_SPARKS_DVS430 	01:06:35,00 --> 01:06:41,50 	reaching the other side, he looks around worriedly and ends the call.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS593 	01:28:13,00 --> 01:28:20,50 	someone reaches to someone but she pops up and dashes off to the bedroom.
 SALT.srt 	SALT_DVS122 	00:23:09,00 --> 00:23:16,50 	the tac team reaches a security barrier.
 SALT.srt 	SALT_DVS173 	00:29:40,00 --> 00:29:50,50 	now she reaches a window of a fire escape.
 SALT.srt 	SALT_DVS191 	00:32:53,00 --> 00:32:59,50 	someone reaches a subway entrance and dashes down an escalator.
 SALT.srt 	SALT_DVS281 	00:49:21,00 --> 00:49:31,50 	as the steam fills a chamber beneath her, she reaches a door and peeks through its window into a hallway.
 SALT.srt 	SALT_DVS288 	00:50:38,00 --> 00:50:56,50 	as the man reaches for his gun, the door swings open and someone leaps out.
-SALT.srt 	SALT_DVS350 	01:02:20,00 --> 01:02:28,50 	reaching a dimly lit corridor, someone turns to find two thugs lifting a large circular hatch on the floor.
 SALT.srt 	SALT_DVS435 	01:15:15,00 --> 01:15:23,50 	someone reaches the bottom of the shaft.
 SALT.srt 	SALT_DVS453 	01:18:06,00 --> 01:18:12,50 	as he reaches for his gun
-SALT.srt 	SALT_DVS477 	01:22:02,00 --> 01:22:11,50 	now a status bar shows the authorization reaching 29%.
 SANCTUM.srt 	SANCTUM_DVS90 	00:18:46,00 --> 00:18:53,50 	seated on a rock, he waits for someone and someone to reach the bottom.
-SANCTUM.srt 	SANCTUM_DVS282 	00:56:45,00 --> 00:57:00,50 	stepping away, someone reaches into his supply pack and pulls out a knife with a six inch blade.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS51 	00:03:42,00 --> 00:03:49,50 	as cars whisk past at high speed, she reaches a busy street.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS66 	00:05:00,00 --> 00:05:05,50 	reaching a hall, she peers down one end.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS71 	00:05:18,00 --> 00:05:24,50 	she reaches down to touch her but her hand hovers inches away.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS366 	00:24:27,00 --> 00:24:34,50 	reaching into the loose sleeve of her robe, someone withdraws a folded paper fan and holds it out to her friend.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS529 	00:34:24,00 --> 00:34:36,50 	in the present, as someone sits asleep with her head propped against a wall, a female hand reaches out and gently brushes her long bangs from her face then taps her shoulder.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS857 	00:56:52,00 --> 00:56:57,50 	someone's hand reaches down and massages one foot.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS981 	01:04:03,00 --> 01:04:09,50 	someone reaches out, cradles her face in her hand,
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1027 	01:07:01,00 --> 01:07:07,50 	someone reaches an arm across her legs and rests his hand on the other side.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1038 	01:07:34,00 --> 01:07:40,50 	someone reaches for her friend's chest and tickles her.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1164 	01:19:00,00 --> 01:19:05,50 	someone reluctantly reaches into the folds of her clothing.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1176 	01:19:34,00 --> 01:19:42,50 	someone reaches for her, but the noblewoman wrenches her arm out of her grasp and climbs the stairs alone.
-SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS252 	00:50:38,00 --> 00:50:49,50 	opening it, he pulls a canvas bag from compartment, reaches inside, and pulls out a roll of muslin.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS344 	01:11:35,00 --> 01:11:42,50 	as someone reaches for it, someone magically snatches it away.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS393 	01:22:23,00 --> 01:22:34,50 	with a shrug, he crouches to it and reaches out, then hesitates.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS462 	01:37:52,00 --> 01:37:56,50 	one cable reaches a lamppost.
 SOUL_SURFER.srt 	SOUL_SURFER_DVS64 	00:23:41,00 --> 00:23:44,50 	and reaches the truck and yanks
 SOUL_SURFER.srt 	SOUL_SURFER_DVS129 	00:41:50,00 --> 00:41:57,50 	the grocery store's produce section, someone reaches for a bag of apples on a high shelf.
-SPARKLE_2012.srt 	SPARKLE_2012_DVS149 	00:25:53,00 --> 00:26:00,50 	he reaches into his jacket and pulls out a small ring box.
 SUPER_8.srt 	SUPER_8_DVS136 	00:20:37,00 --> 00:20:41,50 	someone reaches under the wreckage.
 SUPER_8.srt 	SUPER_8_DVS149 	00:23:14,00 --> 00:23:20,50 	someone reaches toward them.
-SUPER_8.srt 	SUPER_8_DVS213 	00:36:37,00 --> 00:36:44,50 	he reaches into the car and turns off the power.
 SUPER_8.srt 	SUPER_8_DVS323 	00:58:42,00 --> 00:58:48,50 	reaching for the projector, someone lets his hand fall.
 SUPER_8.srt 	SUPER_8_DVS424 	01:16:39,00 --> 01:16:45,50 	a creature reaches through the cage bars and lifts someone skyward.
-SUPER_8.srt 	SUPER_8_DVS432 	01:17:58,00 --> 01:18:04,50 	someone reaches into someone's pocket and pulls out the locket necklace.
-SUPER_8.srt 	SUPER_8_DVS459 	01:20:55,00 --> 01:21:03,50 	with a furrowed brow the driver glances back at someone then reaches for the handle and opens the bus door.
-SUPER_8.srt 	SUPER_8_DVS466 	01:21:42,00 --> 01:21:49,50 	someone reaches toward the driver as the creature pulls someone out through the bus door, someone vomits.
-SUPER_8.srt 	SUPER_8_DVS584 	01:36:15,00 --> 01:36:20,50 	reaching a dead end they turn and gazed down the empty tunnel.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS36 	00:04:23,00 --> 00:04:29,50 	the person sitting on the stool reaches down and pets a small white dog.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS43 	00:04:53,00 --> 00:05:00,50 	the thief taps another man on the shoulder, then reaches into his breast pocket as he turns.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS96 	00:13:48,00 --> 00:13:55,50 	as the two dogs play in the yard, someone reaches through one of the home's broken window panes,
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS228 	00:35:34,00 --> 00:35:42,50 	someone crawls along an empty bunk with snowy, then reaches out toward a set of keys dangling from jaggerman's hand.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS337 	00:52:17,00 --> 00:52:21,50 	he reaches for a bottle.
@@ -350,18 +264,13 @@ THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS610 	01:22:26,00 --> 0
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS628 	01:23:58,00 --> 01:24:04,50 	he reaches for the falcon but misses, then falls into a building.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS178 	00:36:00,00 --> 00:36:05,50 	with a kind look she reaches for him.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS249 	00:47:45,00 --> 00:47:53,50 	someone shoots his cell a brooding glance, then reaches for his ipod and hits play.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS355 	01:10:54,00 --> 01:11:02,50 	with a faint smile, she reaches out and takes his hand in hers stroking his fingers with her thumb.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS380 	01:13:26,00 --> 01:13:42,50 	the trunk pops open and they reach in for their bags.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS396 	01:16:13,00 --> 01:16:40,50 	as he reaches the stage someone winks at him.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS413 	01:18:53,00 --> 01:18:58,50 	his hand reaches out taking a gentle hold of someone.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS42 	00:07:25,00 --> 00:07:33,50 	reaching a corner, she leans on a railing and peers over the edge.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS68 	00:13:42,00 --> 00:13:46,50 	he reaches for his pocket.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS87 	00:16:56,00 --> 00:17:05,50 	as she turns the corner, someone reaches the white door frame at the bottom of the stairs.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS159 	00:32:39,00 --> 00:32:50,50 	reaching his suv, he ends the call and gets in.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS282 	00:52:48,00 --> 00:52:57,50 	she grabs up her purse and glares at him, then stalks around to the passenger door and reaches for the handle.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS285 	00:53:13,00 --> 00:53:20,50 	as she reaches for the handle, the car lurches forward.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS315 	00:57:35,00 --> 00:57:53,50 	reaching a grassy field, it tumbles onto its side.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS395 	01:15:16,00 --> 01:15:26,50 	reaching another door, they find a lavender heart-shaped sign that reads, bliss in rosy cursive letters.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS585 	01:45:52,00 --> 01:46:00,50 	someone reaches through them and wraps her arms around someone's neck.
 THE_CALL.srt 	THE_CALL_DVS93 	00:07:43,00 --> 00:07:51,50 	a man reaches into the broken window as someone goes to the stairs.
 THE_CALL.srt 	THE_CALL_DVS164 	00:13:30,00 --> 00:13:34,50 	she reaches for the radio dial.
@@ -373,21 +282,14 @@ THE_CALL.srt 	THE_CALL_DVS862 	01:05:28,00 --> 01:05:34,50 	in the hall, someone
 THE_CALL.srt 	THE_CALL_DVS961 	01:13:48,00 --> 01:13:54,50 	she switches the light to her other hand and reaches into her back pocket.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS183 	00:29:51,00 --> 00:29:58,50 	the family man races out of a cul-de-sac and reaches a narrow, rain-soaked road.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS186 	00:30:03,00 --> 00:30:10,50 	he reaches a hairpin curve and follows it onto a street canopied with lush trees.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS313 	00:47:16,00 --> 00:47:23,50 	reaching the foot of the bed, she glances at someone, then takes another step closer.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS377 	00:57:54,00 --> 00:58:01,50 	it reaches the summit of the tree-lined road and rolls to a stop.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS525 	01:17:04,00 --> 01:17:11,50 	reaching his table, he collapses into a chair and leans back heavily.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS734 	01:43:25,00 --> 01:43:31,50 	the middle-aged man's weary gaze grows affectionate as he reaches out to her.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS346 	00:41:57,00 --> 00:42:05,50 	as he reaches for her she rolls onto the inclined metal barrier between the ascending and descending escalators.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS370 	00:45:36,00 --> 00:45:41,50 	he reaches toward her backpack, which sits in her lap.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS385 	00:46:31,00 --> 00:46:38,50 	she shoots him a repulsed look then reaches into his pants.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS482 	00:55:17,00 --> 00:55:27,50 	he reaches in his pocket and switches off music playing in his earbuds.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS501 	00:56:43,00 --> 00:56:49,50 	someone reaches the staircase and someone steps back inside.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS773 	01:29:08,00 --> 01:29:15,50 	someone reaches around someone.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS892 	01:39:24,00 --> 01:39:30,50 	he reaches between their legs and pulls her into a kiss.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1034 	01:51:07,00 --> 01:51:12,50 	now, someone's suv reaches the island.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1051 	01:52:00,00 --> 01:52:07,50 	reaching the dining area he pauses to face a dark corridor beside him.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1078 	01:53:30,00 --> 01:53:36,50 	reaching the dining area he finds himself fully exposed by its floor to ceiling windows.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1083 	01:53:43,00 --> 01:53:49,50 	reaching a door in the corner he turns the handle.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1132 	01:58:24,00 --> 01:58:32,50 	someone reaches a steel door and halts.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1208 	02:08:04,00 --> 02:08:09,50 	as they reach the bridge someone rides up close.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1224 	02:09:04,00 --> 02:09:09,50 	the flames reach into the night sky.
@@ -398,7 +300,6 @@ THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS75 	00:26:33,00 --> 00:26:40,50 	someone l
 THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS93 	00:33:44,00 --> 00:33:51,50 	she then reaches for the bedside table and picks up a small packet.
 THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS187 	01:02:12,00 --> 01:02:17,50 	lastly, she reaches for the shrimp cocktail.
 THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS195 	01:04:15,00 --> 01:04:20,50 	someone reaches into his jacket
-THE_SITTER.srt 	THE_SITTER_DVS49 	00:27:12,00 --> 00:27:23,50 	as the kids gawk at him, someone reaches into his pocket and takes out his cell.
 THE_SITTER.srt 	THE_SITTER_DVS119 	01:05:46,00 --> 01:05:55,50 	someone reaches a locked chain linked fence.
 THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS186 	01:12:31,00 --> 01:12:35,50 	someone reaches for someone.
 THE_VOW.srt 	THE_VOW_DVS329 	00:44:02,00 --> 00:44:06,50 	they reach a table.
@@ -410,10 +311,8 @@ THE_WATCH.srt 	THE_WATCH_DVS302 	00:53:57,00 --> 00:54:07,50 	someone reaches th
 THE_WATCH.srt 	THE_WATCH_DVS320 	00:56:18,00 --> 00:56:24,50 	he slowly reaches for her startled face.
 THE_WATCH.srt 	THE_WATCH_DVS394 	01:09:31,00 --> 01:09:36,50 	she reaches for someone with a bloody hanky.
 THE_WATCH.srt 	THE_WATCH_DVS418 	01:15:08,00 --> 01:15:14,50 	someone reaches out and touches someone' extended palm.
-THE_WATCH.srt 	THE_WATCH_DVS495 	01:28:21,00 --> 01:28:30,50 	with someone still stepping on his throat, someone reaches up through the young man's gym shorts and grabs hold of his genitals.
 THE_WATCH.srt 	THE_WATCH_DVS505 	01:29:42,00 --> 01:29:48,50 	someone reaches the orb at the top of the transmitter.
 THE_WATCH.srt 	THE_WATCH_DVS514 	01:30:34,00 --> 01:31:11,50 	they all reach the ladder.
-THE_WATCH.srt 	THE_WATCH_DVS520 	01:31:29,00 --> 01:31:35,50 	as they run through the store, the alien reaches through the grate.
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS327 	01:22:27,00 --> 01:22:33,50 	reaching for a dish with raspberries and chocolate cake,
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS235 	00:43:17,00 --> 00:43:24,50 	reaching the main floor, someone trips then draws an ankle pistol and aims.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS237 	00:43:23,00 --> 00:43:37,50 	as someone reaches the dancer stage, someone knocks him down and falls away.
@@ -421,15 +320,11 @@ THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS397 	01:11:33,00 --> 01:11:40,50 	someone 
 THOR.srt 	THOR_DVS116 	00:17:26,00 --> 00:17:36,50 	the beam of light shoots straight from the dome into the starry reaches of outer space.
 THOR.srt 	THOR_DVS191 	00:25:13,00 --> 00:25:20,50 	the warriors stop at the edge of a cliff as one of the beast's clawed hands reaches up in front of them.
 THOR.srt 	THOR_DVS293 	00:41:45,00 --> 00:41:51,50 	collapsing to the floor, someone reaches up toward someone then falls motionless.
-THOR.srt 	THOR_DVS371 	00:56:09,00 --> 00:56:16,50 	in an armory, a man reaches for a sniper rifle then grabs a composite bow instead.
-THOR.srt 	THOR_DVS392 	00:58:30,00 --> 00:58:37,50 	in slow motion, someone smiles as he reaches out and grabs the hammer's handle.
 THOR.srt 	THOR_DVS402 	01:00:20,00 --> 01:00:27,50 	on asgard, someone's yellow eyes stare into the gashes reaches of outer space.
 THOR.srt 	THOR_DVS652 	01:37:51,00 --> 01:37:57,50 	someone reaches down a hand, but someone vanishes and reappears behind him.
 THOR.srt 	THOR_DVS683 	01:41:47,00 --> 01:41:55,50 	high above them, beyond earth's atmosphere and far across the starry reaches of space,
-TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS61 	00:07:49,00 --> 00:07:55,50 	someone reaches under her pillow and pulls out a dollar someone.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS268 	00:33:55,00 --> 00:34:02,50 	he reaches the top and peeks over at the boy, whose chest rises rhythmically.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS296 	00:35:52,00 --> 00:35:59,50 	someone reaches out from behind the half pipe and retrieves a tiny skateboard.
-TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS305 	00:36:36,00 --> 00:36:43,50 	he reaches into his pouch, pulls out his cat away canister, and presses the nozzle button.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS521 	00:57:51,00 --> 00:57:57,50 	he moseys over to the bed and reaches under his son's pillow.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS595 	01:05:22,00 --> 01:05:27,50 	later, he climbs up someone to reach it.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS705 	01:18:05,00 --> 01:18:12,50 	someone reaches the center line with his teammates and exhales through pursed lips.
@@ -440,18 +335,10 @@ UGLY_TRUTH.srt 	UGLY_TRUTH_DVS316 	00:33:31,00 --> 00:33:36,50 	she reaches for 
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS417 	00:50:39,00 --> 00:50:46,50 	reaching up underneath her flowing ramp dress, she slips off her white panties.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS419 	00:50:51,00 --> 00:50:58,50 	reaching underneath her dress once again, she shimmies them up to her waist.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS468 	00:57:27,00 --> 00:57:35,50 	someone reaches for it, but someone retracts it and feeds it to her himself.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS89 	00:13:51,00 --> 00:13:59,50 	reaching a bed piled high with stuffed animals, he sits on its edge and sets someone on his lap.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS170 	00:29:29,00 --> 00:29:43,50 	as they reach the low wall of a tiger 	enclosure, someone halts upon seeing the big cats and holds them in his attentive gaze.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS402 	01:03:25,00 --> 01:03:33,50 	reaching inside, he finds a receipt for a safe deposit box bearing someone's name.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS632 	01:33:42,00 --> 01:33:50,50 	later still, someone holds his wife in his arms as she reaches out to scratch someone's back.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS57 	00:04:44,00 --> 00:04:52,50 	as she reaches the other side, our view lifts to the densely packed skyscrapers lining the street.
-WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS85 	00:07:33,00 --> 00:07:38,50 	she reaches into the box and pulls out a small notebook and pen.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS134 	00:16:00,00 --> 00:16:06,50 	with a forced smile, she reaches into the bowl and picks her own number.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS152 	00:19:11,00 --> 00:19:15,50 	reaching the bathroom,
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS175 	00:19:57,00 --> 00:20:01,50 	he reaches down the front of his pants, then brings his fingers up to his nose.
-WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS244 	00:33:08,00 --> 00:33:15,50 	he reaches down between her legs and pulls up a handful of quarters.
-WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS441 	01:01:56,00 --> 01:02:01,50 	someone reaches to help him up, but pulls away.
-WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS548 	01:15:23,00 --> 01:15:28,50 	she reaches back and pulls off the hairpiece.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS640 	01:28:44,00 --> 01:28:51,50 	the wedding planner reaches the stage and gestures furiously at the band.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS192 	00:14:46,00 --> 00:14:51,50 	the banker reaches for an alarm button.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS235 	00:18:00,00 --> 00:18:05,50 	reaching someone's alcove, she parts the curtain.
@@ -461,27 +348,21 @@ XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS350 	00:28:07,00 --> 00:28:13,50 	he r
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS408 	00:34:32,00 --> 00:34:42,50 	the submarine shakes, but continues through the water as someone and his followers reach an all-white state-of-the-art bridge.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS508 	00:46:29,00 --> 00:46:33,50 	reaching behind her back,
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS634 	00:58:41,00 --> 00:58:46,50 	as he reaches for his gun, someone points at him.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS733 	01:06:37,00 --> 01:06:44,50 	someone reaches out to her, but she turns away and continues out with someone.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS756 	01:08:15,00 --> 01:08:22,50 	someone reaches out to him, resuming his flesh-and-blood form.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS888 	01:20:58,00 --> 01:21:03,50 	reaching out, she brushes his cheek with her finger.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS896 	01:21:51,00 --> 01:21:59,50 	he bows his head for a moment, then extends his hand and fingers as if stretching to reach the dish.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1176 	01:45:07,00 --> 01:45:15,50 	someone crosses the submarine and reaches a control panel.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1206 	01:47:36,00 --> 01:47:43,50 	reaching the shoreline, the two mutants crash land and tumble across the beach.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1228 	01:50:23,00 --> 01:50:30,50 	someone stands frozen, arm outstretched, reaching for his helmet.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1287 	01:56:03,00 --> 01:56:09,50 	someone reaches for someone's helmet.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1314 	01:59:09,00 --> 01:59:15,50 	someone peers in someone's direction, then reaches out to her.
-YOUNG_ADULT.srt 	YOUNG_ADULT_DVS315 	00:59:12,00 --> 00:59:19,50 	she reaches into the top shelf of a closet and pulls out a green sweatshirt.
 YOUNG_ADULT.srt 	YOUNG_ADULT_DVS408 	01:19:11,00 --> 01:19:17,50 	someone reaches down and tugs on his pajama bottoms.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS62 	00:05:26,00 --> 00:05:33,50 	he reaches for a bathroom door then notices a bloody fingerprint on the handle.
-ZOMBIELAND.srt 	ZOMBIELAND_DVS72 	00:06:04,00 --> 00:06:12,50 	reaching his car again, the narrator grabs his keys and notices that the door is already unlocked.
-ZOMBIELAND.srt 	ZOMBIELAND_DVS158 	00:16:08,00 --> 00:16:12,50 	he reaches out but she looks up.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS178 	00:17:29,00 --> 00:17:39,50 	reaching into a cabinet, someone hurls cotton balls at her then toilet paper.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS411 	00:46:56,00 --> 00:47:04,50 	someone shuts the door as a group of zombies reach the vehicle.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS446 	00:50:24,00 --> 00:50:30,50 	he reaches toward someone.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS473 	00:55:20,00 --> 00:55:25,50 	but drop him before they reach the railing.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS496 	00:58:12,00 --> 00:58:18,50 	as she reaches for a gun, he targets another objet d'art
 ZOMBIELAND.srt 	ZOMBIELAND_DVS608 	01:09:52,00 --> 01:10:00,50 	as the seats slowly drift back toward the crowd, the crazed zombies reach for the sisters.
-ZOMBIELAND.srt 	ZOMBIELAND_DVS705 	01:17:19,00 --> 01:17:25,50 	he slows as he reaches the tower and stares up at the sisters.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS754 	01:21:01,00 --> 01:21:08,50 	someone reaches through the hole and extracts a fistful of crumbled, blown up twinkie.
 ZOOKEEPER.srt 	ZOOKEEPER_DVS240 	00:54:30,00 --> 00:54:39,50 	he reaches into venom's left pants pocket and digs around.
 ZOOKEEPER.srt 	ZOOKEEPER_DVS241 	00:54:38,00 --> 00:54:45,50 	the zookeeper reaches into his right pocket.

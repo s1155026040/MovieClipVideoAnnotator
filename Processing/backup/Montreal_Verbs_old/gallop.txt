@@ -1,0 +1,10 @@
+NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS217 	00:45:34,00 --> 00:45:38,50 	the animals gallop by.
+PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS109 	00:24:45,00 --> 00:24:54,50 	a herd of creatures gallops along the water.
+PROMETHEUS.srt 	PROMETHEUS_DVS111 	00:06:44,00 --> 00:06:54,50 	his flashlight beam revealing renderings of galloping horses and illustrations of people gathered together.
+ROBIN_HOOD.srt 	ROBIN_HOOD_DVS35 	00:06:08,00 --> 00:06:13,50 	galloped toward the castle.
+ROBIN_HOOD.srt 	ROBIN_HOOD_DVS228 	00:53:38,00 --> 00:53:42,50 	as he gallops down a dirt
+THOR.srt 	THOR_DVS100 	00:14:57,00 --> 00:15:05,50 	they gallop along an elevated roadway which resembles a thin ribbon of water suspended in the air.
+TRUE_GRIT.srt 	TRUE_GRIT_DVS305 	01:03:53,00 --> 01:04:00,50 	the rider springs up and jumps on the back of one of the other horses as it gallops away.
+TRUE_GRIT.srt 	TRUE_GRIT_DVS455 	01:30:36,00 --> 01:30:41,50 	as he gallops toward his four foes.
+TRUE_GRIT.srt 	TRUE_GRIT_DVS531 	01:36:36,00 --> 01:36:40,50 	someone gallops off with someone through trees.
+ZOOKEEPER.srt 	ZOOKEEPER_DVS216 	00:48:32,00 --> 00:48:40,50 	he hurries beside someone who gallops excitedly towards.

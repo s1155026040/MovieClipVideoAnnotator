@@ -1,110 +1,48 @@
 0001_American_Beauty_00.16.33.396-00.16.34.929 	the light on angela grows stronger, and the other girls disappear entirely.
 0001_American_Beauty_00.42.14.379-00.42.15.775 	he disappears down the hall.
 0002_As_Good_As_It_Gets_02.07.07.244-02.07.09.970 	she disappears into her room.
-0003_CASABLANCA_01.41.27.868-01.41.44.014 	they both watch the plane take off, maintaining their gaze until it disappears into the clouds.
-0004_Charade_00.35.16.821-00.35.17.308 	his head bangs against the wall but he manages to raise a foot and push peter violently away, sending him sprawling back, toppling across the bed and over, head first, onto the floor on the other side, where he disappears.
 0004_Charade_00.56.07.687-00.56.11.901 	as he slides over the edge and disappears.
 0005_Chinatown_00.03.40.357-00.03.41.387 	he shuts the door on him and the smile disappears.
-0005_Chinatown_00.25.43.776-00.25.47.306 	the butler takes it and disappears, leaving gittes standing in the doorway.
 0005_Chinatown_00.28.24.459-00.28.29.318 	chinese butler nods, disappears.
-0007_DIE_NACHT_DES_JAEGERS_00.53.38.893-00.53.39.466 	before they disappear, we hear preacher's fists hammering against the door.
 0008_Fargo_00.31.32.954-00.31.33.353 	with a distant crunching sound, they disappear.
-0011_Gandhi_00.32.40.489-00.32.42.352 	gandhi watches the disappearing car worriedly, then turns and signals the miners on.
-0013_Halloween_00.14.24.103-00.14.44.505 	close to camera the dark shape moves into frame, watching laurie disappear around the corner.
-0013_Halloween_00.22.16.580-00.22.21.988 	then it takes off down the street and disappears around a corner.
 0014_Ist_das_Leben_nicht_schoen_00.04.50.681-00.04.53.177 	the ice breaks, and harry disappears into the water.
-0014_Ist_das_Leben_nicht_schoen_00.43.13.596-00.43.15.176 	but mary has disappeared from the window.
 0014_Ist_das_Leben_nicht_schoen_01.56.29.056-01.56.31.041 	suddenly clarence disappears from under bert's hands.
-0017_Pianist_00.25.51.092-00.25.54.843 	the women grab them and disappear.
-0017_Pianist_01.44.21.889-01.44.23.364 	the pedestrians have scattered except for the old man, gasping for breath, hobbling on his walking stick, who eventually manages to disappear inside a building.
-0017_Pianist_01.46.29.930-01.46.30.768 	the man turns and disappears.
-0017_Pianist_02.19.03.709-02.19.05.150 	the german captain and the guard have disappeared.
-0019_Pulp_Fiction_01.41.41.638-01.41.48.641 	as marsellus is dragged away, he locks eyes with butch before he disappears behind the door of russell's old room.
-0020_Raising_Arizona_00.07.25.154-00.07.26.609 	hi and ed continue to stare at the point where it disappeared.
 0020_Raising_Arizona_00.12.21.058-00.12.21.451 	as he slams the phone into the cradle the titles disappear.
-0020_Raising_Arizona_01.27.23.863-01.27.25.637 	he has disappeared into the hall.
-0020_Raising_Arizona_01.27.58.718-01.28.05.483 	evelle has disappeared and gale starts climbing in.
-0021_Rear_Window_00.22.42.931-00.22.45.933 	then she shows him to a seat at the table, disappears into an unseen kitchen and returns with a bottle and two glasses.
 0021_Rear_Window_00.42.24.886-00.42.40.086 	they disappear from sight as he lays them on the newspaper and proceeds to wrap them up.
 0021_Rear_Window_01.29.37.285-01.29.38.555 	she disappears down the lower corridor, as thorwald searches his fire escape.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.10.35.134-00.10.37.735 	the children stand deflated, watching gandalf disappear up the lane.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.12.35.896-00.12.48.726 	bilbo disappears into the kitchen as gandalf looks around.enjoying the familiarity of bag end.he turns, knocking his head on the light and then walking into the wooden beam.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.43.16.906-00.43.22.401 	sam is looking up.frodo has disappeared around a corner in the lane.
 0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.49.12.520-00.49.16.641 	the ringwraiths wheel their horses towards the north and gallop away along the river bank, quickly disappearing into the fog.
 0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.02.57.187-01.02.58.254 	he disappears.
 0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.48.58.356-01.49.02.541 	the path splits into three passages.each disappearing into dark tunnels.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.48.11.085-02.48.16.610 	suddenly the boat drops away from camera as it plunges over the massive falls of rauros, disappearing into the vapor below.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.01.16.300-00.01.31.514 	deagol pulls on his rod, but is hauled overboard and disappears underwater with a splash!
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.06.16.102-00.06.17.510 	the dark morgul valley disappears up towards the mountains.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.26.30.835-00.26.38.371 	the small figure as he watches his best friend disappear into the distance.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.21.19.387-01.21.23.752 	aragorn, legolas and gimli disappear into the shadows of the mountains.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.24.37.763-01.24.44.284 	the horses rear and buck in terror, turning and the three horses disappear.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.52.24.389-01.52.33.540 	she squeezes down the hole and disappears.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.03.12.635-02.03.18.059 	now a screaming, unguided ball of flame, he runs across the chamber, disappearing out of the door.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.43.52.093-02.43.54.032 	sam watches in horror as frodo and gollum disappear into the chasm!
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_03.10.07.527-03.10.16.484 	the white boat sails away towards the headlands, disappearing into the golden light of the setting sun.
 0026_The_Big_Fish_00.40.17.091-00.40.18.125 	the silver key disappears into the mud.
-0026_The_Big_Fish_01.08.29.232-01.08.30.328 	looking down, he can see the white parachutes disappearing into the darkness.
-0026_The_Big_Fish_01.20.50.503-01.20.51.698 	will is so startled that he drops the pole, which disappears into the murky water.
-0026_The_Big_Fish_01.55.14.433-01.55.24.914 	we watch as the catfish circles, then heads for deeper water, disappearing.
-0027_The_Big_Lebowski_01.15.42.881-01.15.45.774 	behind him, the woman rises and falls, appears and disappears.
 0029_The_Graduate_00.38.06.812-00.38.09.954 	the light in the room disappears.
-0029_The_Graduate_01.25.50.582-01.25.59.692 	she walks the length of the street and disappears.
-0032_The_Princess_Bride_00.31.20.045-00.31.21.562 	as vizzini's pleasure has been growing throughout, the man in black's has been fast disappearing.
 0033_Amadeus_00.16.10.160-00.16.22.436 	as soon as the man disappears, salieri sneaks into the buffet room.
-0033_Amadeus_00.17.08.201-00.17.13.068 	he is puzzled; constanze has disappeared.
-0033_Amadeus_00.17.15.778-00.17.22.665 	watched by an astonished salieri, mozart disappears under the cloth and obviously pounces upon constanze.
-0041_The_Sixth_Sense_00.55.49.806-00.55.51.966 	his legs disappear as the bedsheets flap closed behind him.
-0041_The_Sixth_Sense_01.14.38.382-01.14.41.746 	malcolm watches the car disappear down the next street.
 0049_Hannah_and_her_sisters_01.16.22.237-01.16.27.612 	they disappear inside.
 0050_Indiana_Jones_and_the_last_crusade_00.30.28.364-00.30.33.311 	then indy disappears into the hole.
-0050_Indiana_Jones_and_the_last_crusade_01.01.47.042-01.01.48.988 	as they struggle they fall against the rotating wall and disappear into the next room, leaving a frightened henry behind.
 0050_Indiana_Jones_and_the_last_crusade_01.01.49.373-01.01.52.241 	as he disappears into the next room, a dead nazi radioman swivels into the room.
 0053_Rendezvous_mit_Joe_Black_00.15.49.954-00.15.52.972 	parrish disappears into his office.
-0053_Rendezvous_mit_Joe_Black_01.23.28.987-01.23.35.696 	he excuses himself with an ineffable gesture, now climbs the stairs, susan watches him disappear.
-0053_Rendezvous_mit_Joe_Black_02.48.10.662-02.48.14.540 	in tandem they continue on and disappear over the crest of the hill.
-0053_Rendezvous_mit_Joe_Black_02.49.08.167-02.49.18.308 	susan halts, in the distance a figure is approaching from over the crest of the hill where joe and parrish disappeared.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.18.46.140-00.18.51.234 	outside, a mechanical man makes the rabbit on his head disappear under a big top hat.
 1002_Harry_Potter_and_the_Half-Blood_Prince_00.56.17.710-00.56.21.044 	malfoy disappears from the map.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.34.09.580-01.34.14.922 	when harry rounds the corner, draco has disappeared.
 1002_Harry_Potter_and_the_Half-Blood_Prince_01.39.50.652-01.39.53.799 	the bloodstains disappear.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.42.42.789-01.42.44.167 	ginny has disappeared.
 1002_Harry_Potter_and_the_Half-Blood_Prince_02.18.35.402-02.18.47.956 	as the wands glow more brightly, light bursts through the clouds and the skull disappears.
-1005_Signs_01.31.20.588-01.31.24.783 	merrill turns left and disappears from graham's view.
-1006_Slumdog_Millionaire_00.13.38.195-00.13.42.317 	salim looks back at his brother mischievously and disappears.
-1007_Spider-Man1_00.52.15.003-00.52.22.843 	aunt may takes a few paces forward, her head tilted to one side and watches with a sad and witty face until he disappears.
-1007_Spider-Man1_01.20.33.189-01.20.36.924 	when she reaches it, he's disappeared.
 1007_Spider-Man1_01.22.36.696-01.22.38.516 	he disappears from the view of those on the ground.
 1008_Spider-Man2_00.57.07.762-00.57.12.384 	bags of money in one pincer, he disappears around the corner of the building.
 1008_Spider-Man2_01.39.58.585-01.40.02.155 	octavius, the limbs and ends disappear from view.
-1009_Spider-Man3_00.44.39.334-00.44.44.619 	the smile drops as she watches him disappear into the crowd.
-1009_Spider-Man3_01.26.27.200-01.26.28.661 	when it passes, harry has disappeared from the coffee shop.
-1009_Spider-Man3_02.09.26.044-02.09.28.081 	peter watches it until it completely disappears.
 1010_TITANIC_00.01.32.514-00.01.51.094 	the two subs disappear as they sink into the dark ocean depths.
-1011_The_Help_00.32.07.023-00.32.10.938 	her daughter's eyes narrow as she watches minnie disappear down the hall.
-1012_Unbreakable_00.41.29.876-00.41.38.957 	through alternate pools of light and shadows cast by the arches but the man walks fast enough to disappear from sight around the curve of the building.
-1012_Unbreakable_00.42.23.696-00.42.30.945 	elijah watches the man disappear into the station, looks down, and launches himself down the stairs.
-1012_Unbreakable_01.22.59.231-01.23.12.716 	he stops in the porch, looks up and down the street, takes something from beside the porch, and disappears into the shadows around the side of the house.
 1019_Confessions_Of_A_Shopaholic_00.51.14.778-00.51.22.346 	suddenly, she disappears only to reappear behind him, swaying wildly from side to side, all the while waving the fan in front of her.
 1020_Crazy_Stupid_Love_00.31.53.087-00.31.55.314 	cal's smile disappears.
 1026_Legion_01.11.27.337-01.11.28.923 	the boy's disappeared.
-1027_Les_Miserables_01.27.02.034-01.27.04.064 	eponine looks down sadly and disappears into the shadows.
 1028_No_Reservations_00.50.55.000-00.50.58.000 	her smile suddenly disappears.
 1029_Pride_And_Prejudice_Disk_One_01.24.29.809-01.24.33.476 	her bad humor disappears when she spies charlotte across the room.
 1029_Pride_And_Prejudice_Disk_One_02.38.22.580-02.38.25.152 	as they all disappear through the front door,
-1033_Sherlock_Holmes_A_Game_of_Shadows_00.08.15.047-00.08.16.713 	the bearded man has disappeared.
 1033_Sherlock_Holmes_A_Game_of_Shadows_00.15.01.213-00.15.04.131 	holmes disappears behind closed curtains.
 1033_Sherlock_Holmes_A_Game_of_Shadows_00.34.47.313-00.34.58.949 	holmes disappears through the gate and cranks his car's engine into life.
-1033_Sherlock_Holmes_A_Game_of_Shadows_01.56.26.749-01.56.38.133 	stunned, watson stares blankly as they disappear from view then closes his eyes.
 1033_Sherlock_Holmes_A_Game_of_Shadows_01.57.06.815-01.57.11.251 	as they plummet, the two men separate and disappeared into the foaming white water.
 1034_Super_8_00.03.52.534-00.03.56.872 	joe watches as it disappears up the road.
-1034_Super_8_01.24.26.431-01.24.31.088 	lying in a ditch, the boys watch as the alien leaps of the bus and disappears into the woods.
-1035_The_Adjustment_Bureau_00.51.33.994-00.51.43.441 	he pulls open a brass lobby door, and disappears into a midcentury high-rise, its window's number in the hundreds ascending into the sky, story after story after story.
 1035_The_Adjustment_Bureau_01.16.39.070-01.16.43.845 	as david disappears inside, harry emerges from a neighboring door.
-1037_The_Curious_Case_Of_Benjamin_Button_00.48.12.995-00.48.17.874 	as he disappears into a crowded back alley, his father, thomas, leaves a hooker outside an adjacent building and spots benjamin.
-1037_The_Curious_Case_Of_Benjamin_Button_01.13.09.533-01.13.13.445 	she falls into his arms, and they disappear into the room.
-1037_The_Curious_Case_Of_Benjamin_Button_02.37.49.571-02.37.54.744 	a hummingbird appears at the window, then disappears amidst the torrential downpour.
-1043_Vantage_Point_00.40.53.006-00.40.58.823 	he gets holden and parsons on tape as they disappear around a corner.
 1043_Vantage_Point_00.57.28.194-00.57.29.431 	sam disappears into the crowd.
 1048_Gran_Torino_00.48.03.300-00.48.07.268 	walt disappears into the bathroom and shuts the door behind him.
 1048_Gran_Torino_01.00.58.000-01.01.00.519 	walt disappears inside and shuts the door.
@@ -115,63 +53,33 @@
 1049_Harry_Potter_and_the_chamber_of_secrets_00.22.29.669-00.22.32.755 	they disappear through it one after the other.
 1049_Harry_Potter_and_the_chamber_of_secrets_00.23.58.315-00.24.02.009 	high above london, the car disappears.
 1049_Harry_Potter_and_the_chamber_of_secrets_00.55.49.586-00.55.54.528 	the snitch disappears under the wooden scaffolding supporting the spectators' stands.
-1049_Harry_Potter_and_the_chamber_of_secrets_01.27.53.717-01.27.57.842 	it hits the paper and slowly disappears.
-1049_Harry_Potter_and_the_chamber_of_secrets_01.29.35.854-01.29.41.946 	as he disappears, the book on his desk closes.
 1049_Harry_Potter_and_the_chamber_of_secrets_01.45.05.898-01.45.10.280 	the guide disappeared in the hole.
-1049_Harry_Potter_and_the_chamber_of_secrets_01.50.40.374-01.50.53.539 	it reverses, changes direction, and drives away past hagrid's cottage disappearing into the trees at the edge of the dark forest.
 1049_Harry_Potter_and_the_chamber_of_secrets_01.59.06.488-01.59.09.473 	the sink decorated with the snake slowly disappears downwards.
-1049_Harry_Potter_and_the_chamber_of_secrets_02.11.54.517-02.12.01.516 	harry follows it cautiously and watches it as it gradually slips away and finally disappears altogether.
-1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.02.37.599-00.02.46.033 	she looks around to see herself disappearing, from every photograph in the home.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.35.45.280-00.35.46.038 	the images disappear.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.40.59.354-00.41.01.871 	the face disappears.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.42.02.761-01.42.05.436 	the black cloud and the images disappear.
-1051_Harry_Potter_and_the_goblet_of_fire_00.47.34.813-00.47.40.113 	harry puts on the invisibility cloak and disappears instantly.
-1051_Harry_Potter_and_the_goblet_of_fire_01.33.31.954-01.33.34.080 	fleur certainly disappears, pull down out of sight.
 1051_Harry_Potter_and_the_goblet_of_fire_02.01.42.145-02.01.43.789 	the cauldron disappears.
 1052_Harry_Potter_and_the_order_of_phoenix_01.22.59.561-01.23.02.784 	luna's silvery patronus disappears.
 1052_Harry_Potter_and_the_order_of_phoenix_01.25.10.197-01.25.15.906 	man and bird disappears in a burst of flame.
 1052_Harry_Potter_and_the_order_of_phoenix_01.55.33.366-01.55.35.113 	bellatrix disappears.
-1052_Harry_Potter_and_the_order_of_phoenix_01.56.50.200-01.56.56.974 	he gives harry a faint smile, then is drawn away through the stone archway and gradually disappears.
 1052_Harry_Potter_and_the_order_of_phoenix_01.58.49.358-01.58.51.186 	bellatrix disappears in a flash of green smoke.
 1052_Harry_Potter_and_the_order_of_phoenix_02.00.32.098-02.00.38.593 	voldemort suddenly disappears in whirlwind of sand, which ruffles dumbledore's white beard.
 1052_Harry_Potter_and_the_order_of_phoenix_02.03.20.652-02.03.22.922 	he disappears in a spiral of black smoke.
 1053_Harry_Potter_and_the_philosophers_stone_00.01.07.114-00.01.12.926 	the light from the second street lamp disappears, and then a third.
 1053_Harry_Potter_and_the_philosophers_stone_00.07.09.971-00.07.11.612 	suddenly, the glass partition disappears.
-1053_Harry_Potter_and_the_philosophers_stone_00.31.44.000-00.31.46.429 	but hagrid has disappeared.
-1053_Harry_Potter_and_the_philosophers_stone_00.32.58.000-00.33.01.350 	he disappears through the wall followed by his identical twin brother.
-1053_Harry_Potter_and_the_philosophers_stone_01.09.08.461-01.09.19.590 	as the students follow quickly into the hall, snape disappears through a side door.
-1053_Harry_Potter_and_the_philosophers_stone_01.29.44.545-01.29.48.556 	he quickly puts on the invisibility cloak over his head and disappears.
-1053_Harry_Potter_and_the_philosophers_stone_01.37.10.545-01.37.22.518 	flying higher and higher, until it disappears into the snow laden sky.
-1053_Harry_Potter_and_the_philosophers_stone_01.44.24.595-01.44.33.541 	even the huge giant is dwarfed by the tall trees, which rise up and disappear into the darkness above their heads.
-1053_Harry_Potter_and_the_philosophers_stone_01.47.21.672-01.47.28.648 	it attacks the dark figure, who turns and disappears into the mist.
 1053_Harry_Potter_and_the_philosophers_stone_02.12.11.599-02.12.12.528 	harry's parents disappear.
-1053_Harry_Potter_and_the_philosophers_stone_02.13.08.545-02.13.10.545 	voldemort has also disappeared.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_00.12.33.700-00.12.35.408 	the purple bus disappears into the night.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_01.00.50.000-01.00.55.207 	the images disappear.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_01.59.12.652-01.59.23.104 	the werewolf sniffs the ground, then disappears around the other side of the tree.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_02.05.44.585-02.05.47.862 	two figures disappear from beside ron's bed.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_02.06.02.981-02.06.09.941 	it disappears amongst the branches and feathers fall.
-1057_Seven_pounds_00.09.41.522-00.09.45.067 	she passes a reception desk, then rounds a corner and disappears.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.18.56.000-00.19.00.000 	he disappears from sight, lost in a mountain of gold and silver treasure.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.57.14.600-00.57.20.228 	as they run towards the door, it disappears.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.44.55.981-01.45.00.785 	harry disappears from voldemort's sight.
-2012_Unbreakable_00.38.37.519-00.38.44.087 	elijah watches the green army jacket melt into the thick part of the crowd and disappear as it moves away from the stadium.
 2012_Unbreakable_00.42.03.880-00.42.04.380 	he disappears into the subway entrance.
-2012_Unbreakable_00.42.19.703-00.42.22.251 	the tail of the army jacket is glimpsed before it disappears.
 2012_Unbreakable_01.12.04.639-01.12.07.139 	she disappears inside.
 2012_Unbreakable_01.22.01.195-01.22.02.330 	the huge man disappears with his bin inside.
 2017_Bad_Santa_00.07.45.383-00.07.52.556 	the van speeds away through the christmas eve night and disappears into the distance, like the down of a thistle.
-2017_Bad_Santa_00.53.07.223-00.53.09.948 	the kid, screaming, is just disappearing at the far end.
 2027_Les_Miserables_00.23.31.520-00.23.35.245 	the few men in the street choose their whores and disappear by the end of the chorus.
-2027_Les_Miserables_01.36.57.105-01.36.59.405 	as the procession turns off, the calvary division gallop ahead and disappear round a corner.
-2027_Les_Miserables_01.49.21.286-01.49.21.697 	the snipers have disappeared.
-2027_Les_Miserables_02.28.13.375-02.28.20.385 	as they disappear we crane up, high over the cloister, high over the walls of the convent and we see the paris streets outside.
 2034_Super_8_00.24.56.195-00.25.00.098 	then back up at the disappearing car.
-2034_Super_8_01.32.56.259-01.33.04.324 	joe runs, looking for another way into the creature's massive space -- he finally finds another intersection -- he turns into it -- he disappears down the tunnel.
-2034_Super_8_01.42.54.898-01.43.01.969 	joe and alice, jack, louis and cary watch, amazed, as the ship disappears into the night sky, we are tight on joe's hand, as it takes alice's.
 2051_Harry_Potter_and_the_goblet_of_fire_01.56.12.047-01.56.17.753 	he's too late she's disappeared.
-2054_Harry_Potter_and_the_prisoner_of_azkaban_00.09.59.261-00.10.00.239 	stan, huddled in an armchair, peeks over the daily prophet, eyes harry coolly, before disappearing once more.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_01.27.05.139-01.27.10.714 	-- the crows shriek excitedly and the executioner separates from the others, disappears behind a low stand of trees.
-2054_Harry_Potter_and_the_prisoner_of_azkaban_01.27.50.926-01.27.54.215 	ron reaches the summit, disappears over the top.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_01.54.30.377-01.54.34.926 	harry and hermione shoo buckbeak along, disappear into the forest.
-2054_Harry_Potter_and_the_prisoner_of_azkaban_01.55.58.759-01.56.02.911 	hermione disappears down the hole, then a figure approaches the tree, lupin.

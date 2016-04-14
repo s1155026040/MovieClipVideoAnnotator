@@ -1,6 +1,1 @@
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS889 	01:26:21,00 --> 01:26:30,50 	regaining control, someone loops the chopper around.
 KARATE_KID.srt 	KARATE_KID_DVS1238 	01:41:23,00 --> 01:41:30,50 	someone loops the rope handle of a bamboo training pole around someone's hand.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS381 	00:45:33,00 --> 00:45:43,50 	with the life preserver looped over the prow beam, a huddled, shivering someone sits in the rain while clinging to the mast with his hands.
-PROMETHEUS.srt 	PROMETHEUS_DVS953 	01:45:36,00 --> 01:45:42,50 	someone watches as it loops around and swoops past her.
-THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS164 	00:31:34,00 --> 00:31:42,50 	a satellite view zooms in on a street, tracking an audi convertible which loops around and parks outside a busy nightclub.
-WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS444 	01:02:08,00 --> 01:02:17,50 	now wearing only boxers, someone loops the ball under his leg and makes a layup.

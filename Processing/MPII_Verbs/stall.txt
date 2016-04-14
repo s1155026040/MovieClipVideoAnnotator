@@ -1,3 +1,1 @@
-0005_Chinatown_00.16.33.098-00.16.34.916 	a car is stalled.
-1060_Yes_man_00.22.54.111-00.23.02.597 	it splutters and stalls.
 1060_Yes_man_01.27.34.757-01.27.37.966 	the elevator stalls.

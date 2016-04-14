@@ -1,19 +1,12 @@
 30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS260 	01:01:39,00 --> 01:01:44,50 	someone plops on the couch.
 40_YEAR_OLD_VIRGIN.srt 	40_YEAR_OLD_VIRGIN_DVS86 	00:43:29,00 --> 00:43:34,50 	someone plops down and
-BURLESQUE.srt 	BURLESQUE_DVS268 	00:37:50,00 --> 00:37:57,50 	someone drops her bag back on the floor and plops into her chair at the dressing table.
 CHRONICLE.srt 	CHRONICLE_DVS139 	00:20:35,00 --> 00:20:40,50 	another plops right in the water.
-EASY_A.srt 	EASY_A_DVS142 	00:44:06,00 --> 00:44:12,50 	she watches as someone plops down on a bench.
-JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS621 	01:58:31,00 --> 01:58:37,50 	someone plops a package down on the table and takes a seat.
 KARATE_KID.srt 	KARATE_KID_DVS1176 	01:36:49,00 --> 01:36:55,50 	someone paces to the driver-side door and plops down behind the wheel.
-KNOCKED_UP.srt 	KNOCKED_UP_DVS188 	01:57:46,00 --> 01:57:51,50 	now she mopes over to the waiting room and plops down beside someone.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS53 	00:08:45,00 --> 00:08:50,50 	the teen plops on a couch with her cell phone.
 PROMETHEUS.srt 	PROMETHEUS_DVS443 	00:46:44,00 --> 00:46:49,50 	as holloway plops down nearby with a bottle of liquor,
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS246 	00:45:42,00 --> 00:45:53,50 	later, someone plops into a chair in the grandstand.
-RUBY_SPARKS.srt 	RUBY_SPARKS_DVS64 	00:10:22,00 --> 00:10:29,50 	letting himself fall over the back of the couch, he plops on the cushions.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS332 	01:04:23,00 --> 01:04:45,50 	in his bedroom someone plops the thick stack of assignments down on his desk.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS210 	00:42:47,00 --> 00:42:54,50 	he cuffs her to the headboard, plops down their bags, and heads out.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS212 	00:42:59,00 --> 00:43:11,50 	trapped by the handcuffs, she plops onto the bed.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS422 	01:04:26,00 --> 01:04:32,50 	he plops down on his unmade bed and sits alone in the dark.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS509 	01:12:59,00 --> 01:13:04,50 	raindrops plop into the placid water, dotting it with tiny percolations.
 THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS114 	00:36:00,00 --> 00:36:11,50 	the programmer plops down before his computer and types frantically.
 THE_WATCH.srt 	THE_WATCH_DVS108 	00:16:52,00 --> 00:16:58,50 	he plops back on the couch.

@@ -1,19 +1,7 @@
-21_JUMP_STREET.srt 	21_JUMP_STREET_DVS89 	00:11:45,00 --> 00:11:51,50 	where youthful looking cops in street clothes lounge in the pews.
 BURLESQUE.srt 	BURLESQUE_DVS622 	01:31:51,00 --> 01:31:55,50 	they lounge in bed.
-CHRONICLE.srt 	CHRONICLE_DVS263 	00:40:32,00 --> 00:40:38,50 	we catch sight of his father who lounges in a recliner, watching tv.
-COLOMBIANA.srt 	COLOMBIANA_DVS611 	00:57:36,00 --> 00:57:41,50 	lounging with two women, the someone laughs.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS452 	01:06:23,00 --> 01:06:32,50 	passing a group of soldiers playing football, he approaches other lounging on picnic tables outside a tent.
-EASY_A.srt 	EASY_A_DVS67 	00:24:23,00 --> 00:24:30,50 	lounging on the hood of an old vw bug, someone reaches through the window and takes out her cellphone.
 FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS242 	01:06:07,00 --> 01:06:12,50 	now they lounge in bed, barefoot.
-GREEN_ZONE.srt 	GREEN_ZONE_DVS39 	00:09:06,00 --> 00:09:13,50 	now outside, a soldier smokes a cigarette as he lounges near a humvee.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS165 	00:43:34,00 --> 00:43:49,50 	sunbathers lounge in deck chairs and waiters bustle.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS490 	01:28:11,00 --> 01:28:21,50 	he and the men enter a room where someone lounges on a cot.
 JACK_AND_JILL.srt 	JACK_AND_JILL_DVS227 	00:45:10,00 --> 00:45:15,50 	someone lounges in a chair.
-KARATE_KID.srt 	KARATE_KID_DVS114 	00:10:39,00 --> 00:10:48,50 	passing a row of empty chairs, he finds a small break room, where a group of grubby maintenance men lounge around a table.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS791 	01:20:40,00 --> 01:20:46,50 	someone lounges underneath in a makeshift net hammock.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS274 	01:05:47,00 --> 01:05:54,50 	lounging in a chair, someone watches her go.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS81 	00:15:53,00 --> 00:16:20,50 	in the bedroom, he lounges on someone's bed - his muddy shoes on her duvet.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS627 	01:08:48,00 --> 01:08:53,50 	he looks over his shoulder with a troubled gaze as the cat lounges comfortably nearby.
-THOR.srt 	THOR_DVS261 	00:35:38,00 --> 00:35:45,50 	others lounge beside coolers as they watch about a dozen men gathered around someone.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS171 	00:29:40,00 --> 00:29:46,50 	one of the tigers steps past two others lounging in the grass.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS683 	01:34:17,00 --> 01:34:22,50 	two lounging valets wave goodbye.

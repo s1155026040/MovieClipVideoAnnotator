@@ -1,92 +1,59 @@
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS261 	00:45:23,00 --> 00:45:27,50 	someone kicks him away.
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS302 	00:51:41,00 --> 00:51:46,50 	his flailing foot kicks someone's groin.
-40_YEAR_OLD_VIRGIN.srt 	40_YEAR_OLD_VIRGIN_DVS137 	01:09:22,00 --> 01:09:31,50 	as someone walks past a couch, she kicks the back.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS187 	00:16:43,00 --> 00:16:50,50 	inside, someone kicks the grate off his cell and finds someone hunched next to his.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS330 	00:29:20,00 --> 00:29:33,50 	at the overturned suv, someone kicks the windshield from its frame.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS489 	00:47:39,00 --> 00:47:45,50 	dancing over to the americans, someone kicks someone's gun away.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS500 	00:48:38,00 --> 00:48:44,50 	someone kicks him hard in his side.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS880 	01:25:50,00 --> 01:26:00,50 	kicking his legs, someone keeps hold of the bumper.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS140 	00:17:27,00 --> 00:17:33,50 	someone kicks the door shut rendering the room pitch black.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS301 	00:43:40,00 --> 00:43:46,50 	someone kicks him down and swing, but someone grabs the ax once more.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS309 	00:44:42,00 --> 00:45:03,50 	he slashes a second attacker's kicking leg, then drives his blade through the vampire's palm and flips him onto his back.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS310 	00:45:02,00 --> 00:45:30,50 	he kicks the human in the face.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS310 	00:45:02,00 --> 00:45:30,50 	someone kicks out someone's shin and the vampire almost falls on his dagger.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS390 	00:54:38,00 --> 00:55:09,50 	the hunter kicks him away and twirls it into an upward swing taking out one vamp after another.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS393 	00:55:20,00 --> 00:55:46,50 	someone kicks him into a pillar splintering its wood.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS394 	00:55:44,00 --> 00:55:59,50 	from behind, she kicks him to the floor as someone throws her a chair.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS609 	01:25:30,00 --> 01:25:49,50 	he kicks someone, sending the president back.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS615 	01:26:38,00 --> 01:26:52,50 	he kicks off the passing rock wall and lands facing his rival.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS622 	01:27:32,00 --> 01:27:40,50 	he kicks open another crate, spilling rocks on the floor.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS634 	01:29:31,00 --> 01:29:41,50 	emerging from thick smoke, he crosses the support structure and kicks out a beam.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS635 	01:29:38,00 --> 01:29:55,50 	someone kicks out another support beam.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS640 	01:30:19,00 --> 01:31:04,50 	the locomotives wheels spin kicking up sparks.
 BAD_TEACHER.srt 	BAD_TEACHER_DVS140 	00:37:26,00 --> 00:37:30,50 	she kicks the door.
 BAD_TEACHER.srt 	BAD_TEACHER_DVS180 	00:50:57,00 --> 00:51:02,50 	someone kicks a chair.
-BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS137 	00:20:16,00 --> 00:20:24,50 	someone steps out as someone and kicks the duffel aside with one of his orthopedic shoes.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS649 	01:39:37,00 --> 01:39:43,50 	they bounce their hips, then they each kick a thug in the crotch.
 BRUNO.srt 	BRUNO_DVS201 	00:54:09,00 --> 00:54:15,50 	someone keeps kicking.
-BURLESQUE.srt 	BURLESQUE_DVS392 	00:54:22,00 --> 00:54:27,50 	she sits on a step and kicks her feet in the air.
 BURLESQUE.srt 	BURLESQUE_DVS395 	00:55:12,00 --> 00:55:25,50 	as a glass slides toward her, she kicks it out of the way.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS71 	00:10:20,00 --> 00:10:30,50 	the army man punches the thug and kicks him down the alley.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS244 	00:42:28,00 --> 00:42:36,50 	someone pulls out a knife and swings it at someone who kicks him on the face.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS338 	01:03:10,00 --> 01:03:20,50 	on another catwalk above the factory floor, someone kicks a guard on the chest, knocking him over a railing.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS364 	01:06:11,00 --> 01:06:23,50 	he kicks someone in the chest, throwing him several feet backward.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS522 	01:33:20,00 --> 01:33:35,50 	he kicks one on the chest and slams another with his shield.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS579 	01:40:20,00 --> 01:40:27,50 	someone jumps down and kicks the last trooper over the railing as he passes.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS605 	01:43:01,00 --> 01:43:13,50 	someone kicks him in the stomach.
 CHRONICLE.srt 	CHRONICLE_DVS220 	00:31:55,00 --> 00:32:04,50 	someone kicks it to someone who catches it 50 yards away.
 CHRONICLE.srt 	CHRONICLE_DVS396 	01:00:11,00 --> 01:00:15,50 	he kicks off his sneakers.
-COLOMBIANA.srt 	COLOMBIANA_DVS415 	00:36:44,00 --> 00:36:49,50 	she kicks him as he turns, knocking him out cold.
 COLOMBIANA.srt 	COLOMBIANA_DVS453 	00:39:55,00 --> 00:40:03,50 	back in the women's cell block, she kicks open a ceiling vent cover and lowers herself to the floor.
 COLOMBIANA.srt 	COLOMBIANA_DVS491 	00:43:19,00 --> 00:43:27,50 	then kicks off her high heeled party girl shoes and wriggles out of the tight mini dress.
-COLOMBIANA.srt 	COLOMBIANA_DVS752 	01:12:23,00 --> 01:12:30,50 	cupping a hand over her mouth, she sits on a bench then kicks the shelf in front of her.
-COLOMBIANA.srt 	COLOMBIANA_DVS1024 	01:37:06,00 --> 01:37:13,50 	as she kicks his pistol away, he grabs her wrist and redirects her aim.
 COLOMBIANA.srt 	COLOMBIANA_DVS1033 	01:37:40,00 --> 01:37:46,50 	she spins toward him, punches him in the throat, then kicks him.
 COLOMBIANA.srt 	COLOMBIANA_DVS1038 	01:37:55,00 --> 01:38:02,50 	she kicks him in the groin.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS27 	00:03:10,00 --> 00:03:32,50 	the soldier seizes it, then kicks off the bottom and shoots back to the surface.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS29 	00:03:36,00 --> 00:03:44,50 	on the sand, someone kicks off his flip-flops, and trots into the water, meeting the soldier in the surf.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS434 	01:04:33,00 --> 01:04:47,50 	he kicks it under his cot as he begins to write a reply on a pad of paper.
 DISTRICT_9.srt 	DISTRICT_9_DVS115 	00:13:39,00 --> 00:13:45,50 	rips his arm off and kicks him across the yard.
 DISTRICT_9.srt 	DISTRICT_9_DVS795 	01:34:11,00 --> 01:34:16,50 	a machine gunner kicks a sheet metal barrier from a guard top.
-FLIGHT.srt 	FLIGHT_DVS70 	00:14:19,00 --> 00:14:24,50 	she kicks the door closed.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS23 	00:03:35,00 --> 00:03:57,50 	kicking up gravel, he rides out of the fortress.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS149 	00:23:24,00 --> 00:23:41,50 	nearby, someone angrily kicks the suv's door shut.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS515 	01:13:56,00 --> 01:14:00,50 	he kicks a guard.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS297 	01:08:17,00 --> 01:08:20,50 	he kicks the assassin's
 GREEN_ZONE.srt 	GREEN_ZONE_DVS418 	01:32:50,00 --> 01:32:55,50 	he kicks in a door, upsetting three iraqi women and one young kid.
 GROWN_UPS.srt 	GROWN_UPS_DVS29 	00:07:46,00 --> 00:07:50,50 	a woman in bed kicks him.
-HUGO.srt 	HUGO_DVS22 	00:02:51,00 --> 00:02:58,50 	he jogs up a corridor then kicks open a coal door and slides down a spiraling chute.
-HUGO.srt 	HUGO_DVS281 	00:40:45,00 --> 00:40:51,50 	someone's legs kick wildly as he hangs by only a few springs.
-HUGO.srt 	HUGO_DVS738 	01:48:32,00 --> 01:48:38,50 	he kicks the windows shut with one foot as he dangles.
 HUGO.srt 	HUGO_DVS763 	01:50:56,00 --> 01:51:06,50 	someone kicks the inspector in the shin, causing him to lose his grip.
 IN_TIME.srt 	IN_TIME_DVS92 	00:10:15,00 --> 00:10:22,50 	wielding a gun, the fedora-wearing thug marches up to someone's door and kicks the lock.
 IN_TIME.srt 	IN_TIME_DVS417 	00:44:53,00 --> 00:44:59,50 	he kicks the lawman back and swings over the railing.
 IN_TIME.srt 	IN_TIME_DVS596 	01:03:41,00 --> 01:03:54,50 	striding up to someone, someone kicks the timekeeper's gun aside.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS45 	00:05:54,00 --> 00:06:10,50 	behind him on the stage, young long-haired women wearing matching bikini tops and short shorts form a line and kick their legs out in unison, while pyrotechnics explode around the gigantic video image of a fluttering american flag.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS123 	00:23:33,00 --> 00:23:40,50 	someone kicks someone, who sails backward into a corner post.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS594 	01:41:47,00 --> 01:42:29,50 	someone leaps over a cart and kicks him in the face, knocking him unconscious.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS594 	01:41:47,00 --> 01:42:29,50 	someone jumps over the downed fourth guard and kicks the fifth guard in the head.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS596 	01:42:43,00 --> 01:43:17,50 	someone kicks the guards and knocks them out.
-ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS72 	00:22:35,00 --> 00:22:41,50 	she jogs into the bathroom holding a pillow over her rear and kicks the door shut.
-JACK_AND_JILL.srt 	JACK_AND_JILL_DVS258 	00:51:52,00 --> 00:52:00,50 	playing soccer, someone tries to kick the ball but her foot misses and she falls onto her back.
 JACK_AND_JILL.srt 	JACK_AND_JILL_DVS266 	00:52:23,00 --> 00:52:28,50 	she does a cossack dance, kicking out one foot at a time.
-JACK_AND_JILL.srt 	JACK_AND_JILL_DVS271 	00:52:41,00 --> 00:52:48,50 	as she kicks, her shoe flies off.
 JACK_AND_JILL.srt 	JACK_AND_JILL_DVS333 	01:04:24,00 --> 01:04:31,50 	the twins kick their feet backward then point their fingers posing with every jump.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS269 	00:52:24,00 --> 00:52:29,50 	someone returns to the kitchen and kicks a trash can.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS319 	01:02:31,00 --> 01:02:36,50 	someone kicks someone.
 JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS79 	00:29:02,00 --> 00:29:07,50 	she kicks someone hard in the shin.
 JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS195 	01:09:25,00 --> 01:09:36,50 	someone flails his arms and kicks his legs.
-JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS200 	01:11:12,00 --> 01:11:21,50 	someone tosses someone from his arms, and the little boy flails and kicks his way across the pool.
 JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS260 	01:27:33,00 --> 01:27:46,50 	someone glances at her opponent, then breaks into a lively charleston, kicking up her heels.
 KARATE_KID.srt 	KARATE_KID_DVS347 	00:31:17,00 --> 00:31:22,50 	he and another boy kick the backpack around.
-KARATE_KID.srt 	KARATE_KID_DVS352 	00:31:35,00 --> 00:31:45,50 	one of the other boys kicks it as it lands, and the third tosses a book at someone.
-KARATE_KID.srt 	KARATE_KID_DVS890 	01:12:52,00 --> 01:13:00,50 	someone bends to grab it, but someone kicks his hands away.
 KARATE_KID.srt 	KARATE_KID_DVS1047 	01:24:57,00 --> 01:25:21,50 	the boy kicks at it unsuccessfully.
 KARATE_KID.srt 	KARATE_KID_DVS1060 	01:25:53,00 --> 01:26:10,50 	the boy kicks at the bell with improved grace, but still misses.
 KARATE_KID.srt 	KARATE_KID_DVS1280 	01:43:28,00 --> 01:43:34,50 	kicking his leg up, he balances it along one pole.
 KARATE_KID.srt 	KARATE_KID_DVS1289 	01:44:11,00 --> 01:44:19,50 	later, someone practices on the pathway between the battlements, kicking his way forward along the wall.
 KARATE_KID.srt 	KARATE_KID_DVS1291 	01:44:22,00 --> 01:44:33,50 	the boy smacks the barrage aside, ducks another, catches two, and kicks a third.
-KARATE_KID.srt 	KARATE_KID_DVS1297 	01:44:50,00 --> 01:44:58,50 	now in someone's courtyard, someone kicks the utility pole which stands thickly wrapped in padding.
 KARATE_KID.srt 	KARATE_KID_DVS1299 	01:45:01,00 --> 01:45:07,50 	later, he kicks at the bell dangling overhead, but misses.
 KARATE_KID.srt 	KARATE_KID_DVS1397 	01:52:31,00 --> 01:52:40,50 	on the mat, someone's opponent kicks someone in the shoulder, then charges him.
 KARATE_KID.srt 	KARATE_KID_DVS1407 	01:53:19,00 --> 01:53:38,50 	as he leaps toward the american fighter, someone kicks him in the side, and knocks him to the floor.
@@ -94,92 +61,55 @@ KARATE_KID.srt 	KARATE_KID_DVS1423 	01:54:47,00 --> 01:55:00,50 	he whirls towar
 KARATE_KID.srt 	KARATE_KID_DVS1424 	01:54:59,00 --> 01:55:15,50 	jumping up, he kicks his opponent to the mat.
 KARATE_KID.srt 	KARATE_KID_DVS1427 	01:55:26,00 --> 01:55:42,50 	as he lands, the boy with the mohawk spins and kicks him in the head.
 KARATE_KID.srt 	KARATE_KID_DVS1430 	01:55:56,00 --> 01:56:15,50 	someone knocks the boy to his knees, then kicks him in the head.
-KARATE_KID.srt 	KARATE_KID_DVS1444 	01:57:18,00 --> 01:57:36,50 	as they face off again, someone kicks him across the mat.
 KARATE_KID.srt 	KARATE_KID_DVS1452 	01:58:20,00 --> 01:58:40,50 	someone kicks someone ping's leg out from under him.
 KARATE_KID.srt 	KARATE_KID_DVS1480 	02:00:21,00 --> 02:00:44,50 	kicking his other leg out from under him, the fighting someone continues to pound on the knee.
-KARATE_KID.srt 	KARATE_KID_DVS1558 	02:05:48,00 --> 02:06:17,50 	as he stands, someone charges again and kicks him off of the platform.
 KARATE_KID.srt 	KARATE_KID_DVS1570 	02:07:24,00 --> 02:07:50,50 	someone blocks his fevered attacks, then kicks him back.
 LAND_OF_THE_LOST.srt 	LAND_OF_THE_LOST_DVS138 	00:49:24,00 --> 00:49:28,50 	he scampers off, kicking a can.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS624 	01:07:43,00 --> 01:07:49,50 	lowering the axe, someone gets down and kicks a seat.
-LITTLE_FOCKERS.srt 	LITTLE_FOCKERS_DVS253 	01:23:42,00 --> 01:23:47,50 	pulled over, someone kicks his leg back and hits again to a bouncy castle.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS48 	00:07:58,00 --> 00:08:05,50 	the boy kicks the ball into his groin and he collapses on the floor.
-MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS235 	00:34:30,00 --> 00:34:39,50 	now at the park, someone kicks a soccer ball while someone sits with someone on a bench.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS244 	00:35:30,00 --> 00:35:36,50 	as someone kicks it back, the penguins play with them.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS249 	00:36:05,00 --> 00:36:10,50 	someone kicks the ball and it smashes someone's face.
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS294 	01:10:33,00 --> 01:10:37,50 	someone kicks the can.
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS295 	01:10:36,00 --> 01:10:47,50 	someone kicks it in the air.
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS295 	01:10:36,00 --> 01:10:47,50 	in the yard, someone kicks the can through someone's widespread legs.
-PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS296 	01:10:49,00 --> 01:10:55,50 	now someone runs out of the house and kicks the can away from someone.
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS299 	01:11:03,00 --> 01:11:09,50 	as they play, someone kicks someone in the shin.
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS301 	01:11:14,00 --> 01:11:26,50 	someone kicks the can high across the yard and grimaces.
-PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS135 	00:31:50,00 --> 00:31:59,50 	someone falls back and kicks him away.
-PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS146 	00:34:03,00 --> 00:34:10,50 	he falls to his knees and she kicks him to the ground.
-PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS211 	00:53:57,00 --> 00:54:05,50 	as someone reaches for his sword, someone kicks it away, hauls him to his feet and pulls him close.
 PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS313 	01:18:33,00 --> 01:18:52,50 	someone kicks a guard with both feet then fights off two more with his crutches.
 PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS384 	01:35:18,00 --> 01:35:25,50 	hovering in the air, someone swings his legs around and kicks someone in the head.
 PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS386 	01:35:29,00 --> 01:35:36,50 	someone kicks him, knocking him to the ground.
 PROMETHEUS.srt 	PROMETHEUS_DVS749 	01:21:02,00 --> 01:21:10,50 	she kicks him off of her.
 PROMETHEUS.srt 	PROMETHEUS_DVS798 	01:25:37,00 --> 01:25:41,50 	the crewman kicks someone's foot,
 PROMETHEUS.srt 	PROMETHEUS_DVS1016 	01:51:06,00 --> 01:51:13,50 	a spare tentacle wraps around her ankle, but she kicks it lose and scrambles away.
-PROMETHEUS.srt 	PROMETHEUS_DVS1040 	01:53:45,00 --> 01:53:54,50 	the atv kicks up dust as someone drives it over the uneven terrain toward the engineer's crashed ship.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS56 	00:09:48,00 --> 00:10:00,50 	floyd takes out a pistol which the lawman kicks out of his hand.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS434 	01:47:49,00 --> 01:47:53,50 	but she kicks him down.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS451 	01:09:31,00 --> 01:09:38,50 	someone giddily kicks up a splash of water.
 SALT.srt 	SALT_DVS229 	00:39:20,00 --> 00:39:44,50 	in the bathroom, someone kicks a feminine hygiene product dispenser off the wall.
-SALT.srt 	SALT_DVS282 	00:49:46,00 --> 00:49:59,50 	his partner attacks once more but someone kicks him unconscious and runs off with his gun.
 SANCTUM.srt 	SANCTUM_DVS226 	00:48:45,00 --> 00:48:51,50 	now we float up toward the lazily kicking legs.
 SANCTUM.srt 	SANCTUM_DVS547 	01:40:43,00 --> 01:40:50,50 	kicking his flippers, he continues on along a rocky passage.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS819 	00:54:31,00 --> 00:54:36,50 	he kicks the animal's rear and locks it in a pen.
-SOUL_SURFER.srt 	SOUL_SURFER_DVS53 	00:17:32,00 --> 00:17:37,50 	kicking legs again, he climbs back on.
 SOUL_SURFER.srt 	SOUL_SURFER_DVS309 	01:32:38,00 --> 01:33:00,50 	as we peer up at her board from underwater, her legs kick out widely at its sides.
-SPARKLE_2012.srt 	SPARKLE_2012_DVS554 	01:31:01,00 --> 01:31:08,50 	wearing an outfit with yellow sleeves, she eats a sandwich, kicking her leg out of boredom.
-SUPER_8.srt 	SUPER_8_DVS486 	01:23:44,00 --> 01:23:49,50 	someone helps pull out someone and someone who kicks someone in the face.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS72 	00:09:58,00 --> 00:10:04,50 	snowy sniffs at the tube, but someone kicks it under a cabinet.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS168 	00:25:07,00 --> 00:25:13,50 	snowy jumps onto the back of a cow, which kicks him beneath another cow.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS272 	00:39:55,00 --> 00:40:02,50 	someone dodges a punch, kicks out his legs, then sprints away.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS276 	00:40:11,00 --> 00:40:21,50 	meanwhile avoiding the gunfire someone drops to a lower level, then kicks a thug down a staircase.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS376 	00:56:00,00 --> 00:56:06,50 	kicking his legs he drops onto the back of the plane as it pitches forward.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS411 	01:00:10,00 --> 01:00:20,50 	another invader swings past on a rope and kicks a man overboard.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS413 	01:00:19,00 --> 01:00:27,50 	sir someone shoots the pirate, punches another then kicks a third before slicing him with a sword.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS422 	01:00:57,00 --> 01:01:05,50 	cutting another line, he swings over the melee, slashing at pirates before kicking two of them in the face.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS471 	01:08:43,00 --> 01:08:50,50 	red someone darts around sir someone and kicks out the burning gunpowder.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS472 	01:08:47,00 --> 01:08:56,50 	as they swordfight, sir someone kicks more gunpowder at the lantern.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS474 	01:08:57,00 --> 01:09:04,50 	red someone again kicks out the burning gun powder.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS689 	01:32:22,00 --> 01:32:29,50 	someone swings back, but someone stops the blow and kicks someone to the ground.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS700 	01:33:46,00 --> 01:33:55,50 	someone kicks the last whiskey bottle into the water after him.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS563 	01:40:39,00 --> 01:40:47,50 	someone kicks his weapon away from him then glances at someone.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS468 	01:09:20,00 --> 01:09:26,50 	as someone kicks off his running shoes and goes inside.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS345 	00:41:55,00 --> 00:42:00,50 	the thief grabs the bag again and she kicks him.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS454 	00:53:06,00 --> 00:53:14,50 	her flailing leg kicks a chair.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS461 	00:53:39,00 --> 00:53:46,50 	as someone moves up beside her she flails and kicks desperately.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS838 	01:35:09,00 --> 01:35:19,50 	his foot kicks an empty bottle on the floor as he moves into a neglected room scattered with papers, books, and trash.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1200 	02:07:29,00 --> 02:07:35,50 	pulling out, the motorcycle kicks up gravel.
-THE_SITTER.srt 	THE_SITTER_DVS119 	01:05:46,00 --> 01:05:55,50 	she glances around, then kicks the chain link finding a section disconnected from
 THE_WATCH.srt 	THE_WATCH_DVS150 	00:29:04,00 --> 00:29:10,50 	the mid-sized crossover kicks up dust as it tears out of the parking lot.
 THE_WATCH.srt 	THE_WATCH_DVS169 	00:31:53,00 --> 00:31:58,50 	as they strut out, someone kicks a chair.
 THE_WATCH.srt 	THE_WATCH_DVS429 	01:18:41,00 --> 01:19:01,50 	someone kicks the front door open.
-THE_WATCH.srt 	THE_WATCH_DVS516 	01:31:17,00 --> 01:31:22,50 	someone shoots the alien and someone kicks it off.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS22 	00:03:05,00 --> 00:03:29,50 	leaping in from the opposite side, someone swings from the door and kicks someone back.
-THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS22 	00:03:05,00 --> 00:03:29,50 	as someone throws someone down, the older brother kicks him.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS238 	00:43:34,00 --> 00:43:46,50 	someone charges but someone kicks him away.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS292 	00:54:13,00 --> 00:54:18,50 	he swings out from a rail, kicking a man down.
-THOR.srt 	THOR_DVS150 	00:21:43,00 --> 00:21:48,50 	someone kicks a giant across the ground and looks up at someone.
 THOR.srt 	THOR_DVS373 	00:56:17,00 --> 00:56:24,50 	meanwhile, someone kicks an agent in the face sending him toppling down a ladder into his teammates.
-THOR.srt 	THOR_DVS374 	00:56:21,00 --> 00:56:28,50 	someone leaps down and kicks one agent, then ducks into a side tunnel as more agents give chase.
 THOR.srt 	THOR_DVS375 	00:56:26,00 --> 00:56:32,50 	with a flurry of punches, someone fights off two more agents then kicks a third.
-THOR.srt 	THOR_DVS387 	00:57:36,00 --> 00:57:43,50 	as both men stand, someone jumps and kicks the agent in the chest with both feet.
-THOR.srt 	THOR_DVS388 	00:57:47,00 --> 00:57:52,50 	he kicks the agent again as he tries to rise.
 THOR.srt 	THOR_DVS490 	01:20:49,00 --> 01:20:54,50 	someone's clothes ripple as a brisk wind kicks up.
-THOR.srt 	THOR_DVS534 	01:25:30,00 --> 01:25:37,50 	the destroyer kicks aside a car like a toy as someone stops a few feet away.
 TRUE_GRIT.srt 	TRUE_GRIT_DVS546 	01:37:57,00 --> 01:38:01,50 	little blackie forages onward, kicking up dust in his wake.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS433 	00:53:03,00 --> 00:53:09,50 	someone kicks him under the table, upsetting her purse.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS305 	00:48:39,00 --> 00:48:45,50 	someone throws the bucket and drop kicks a snake.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS334 	00:54:19,00 --> 00:54:26,50 	outside, the flashy black pickup speeds away, kicking up a trail of dust.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS344 	00:55:57,00 --> 00:56:02,50 	he kicks over a large wooden barrel.
-WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS421 	00:59:11,00 --> 00:59:21,50 	still in her tight cocktail dress, someone dances around the couch and faces someone, wildly waving her arms overhead and kicking her feet.
-WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS440 	01:01:54,00 --> 01:01:59,50 	sitting on the floor, he kicks the ball.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS394 	00:33:11,00 --> 00:33:17,50 	the motorized boats near the yacht, kicking up spray in their wake.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS428 	00:37:45,00 --> 00:37:51,50 	he gives a little shrug of the head, then kicks off his shoes.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS617 	00:57:43,00 --> 00:57:48,50 	he kicks one as he races past.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1063 	01:35:46,00 --> 01:35:51,50 	someone kicks him.
 YOUNG_ADULT.srt 	YOUNG_ADULT_DVS242 	00:46:16,00 --> 00:46:20,50 	someone kicks someone.

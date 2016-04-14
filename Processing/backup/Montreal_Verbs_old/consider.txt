@@ -1,0 +1,14 @@
+IN_TIME.srt 	IN_TIME_DVS317 	00:32:53,00 --> 00:32:57,50 	someone considers the cards.
+IN_TIME.srt 	IN_TIME_DVS548 	00:58:59,00 --> 00:59:05,50 	someone considers him.
+IN_TIME.srt 	IN_TIME_DVS576 	01:01:21,00 --> 01:01:26,50 	someone considers her, then turns back to the window.
+LARRY_CROWNE.srt 	LARRY_CROWNE_DVS93 	00:23:15,00 --> 00:23:24,50 	tilting her head she considers him.
+SPARKLE_2012.srt 	SPARKLE_2012_DVS134 	00:22:31,00 --> 00:22:35,50 	he considers her challenging look.
+THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS906 	01:40:17,00 --> 01:40:23,50 	she considers him briefly, then bites her toast again.
+THE_VOW.srt 	THE_VOW_DVS61 	00:05:36,00 --> 00:05:41,50 	considering, she allows an amused smile.
+THE_VOW.srt 	THE_VOW_DVS654 	01:30:53,00 --> 01:30:58,50 	he returns a gentle look and she considers him.
+THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS490 	01:50:01,00 --> 01:50:05,50 	she considers him.
+THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS515 	01:54:26,00 --> 01:54:32,50 	considering her, he shakes his head, then shrugs.
+WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS710 	01:42:37,00 --> 01:42:44,50 	someone, his kids, and the zoo staff stand before him as he considers.
+XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS485 	00:43:53,00 --> 00:43:57,50 	someone considers someone.
+ZOMBIELAND.srt 	ZOMBIELAND_DVS202 	00:21:36,00 --> 00:21:41,50 	he considers a ground tiller.
+ZOOKEEPER.srt 	ZOOKEEPER_DVS176 	00:38:25,00 --> 00:38:30,50 	he furrows his brow as he considers.

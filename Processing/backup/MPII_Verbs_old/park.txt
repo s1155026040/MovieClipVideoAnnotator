@@ -1,99 +1,85 @@
-0001_American_Beauty_00.06.17.132-00.06.18.656 	A MOVING VAN is parked in front of the COLONIAL HOUSE next door to the Burnhams'.
-0001_American_Beauty_00.06.17.132-00.06.18.656 	A MOVING VAN is parked in front of the COLONIAL HOUSE next door to the Burnhams'.
-0001_American_Beauty_00.21.35.720-00.21.37.302 	We're looking at the COLONIAL HOUSE next door where the moving van was parked earlier.
-0002_As_Good_As_It_Gets_01.52.44.547-01.52.45.711 	The car parked near a phone booth.
-0008_Fargo_00.37.14.055-00.37.15.497 	Marge's prowler is parked nearby.
-0008_Fargo_00.46.01.690-00.46.04.112 	Marge's prowler is parked in an otherwise empty lot.
-0008_Fargo_00.56.27.741-00.56.55.229 	The brown Ciera enters and drives lazy S-curves around the few snow-covered cars parked on the roof of the lot.
-0008_Fargo_00.57.02.570-00.57.19.734 	He quickly scans the lot, then kneels in the snow at the back of the parked car and starts unscrewing its license plate.
-0010_Frau_Ohne_Gewissen_00.36.40.663-00.36.43.648 	Neff, briefcase under his arm, comes down the steps to the street, where his Dodge coupe is parked at the curb.
-0010_Frau_Ohne_Gewissen_00.51.38.701-00.51.39.624 	Ten or twelve cars are parked diagonally, not crowded.
-0010_Frau_Ohne_Gewissen_00.53.52.977-00.53.54.804 	Phyllis turns and walks out of the shot in the direction of the parked car.
-0010_Frau_Ohne_Gewissen_00.59.24.184-00.59.25.663 	Fifteen or twenty cars are parked now.
-0010_Frau_Ohne_Gewissen_01.42.30.676-01.42.32.685 	Neff moves off through the shrubbery toward the side of the house where he parked his car.
-0011_Gandhi_02.50.32.355-02.50.35.099 	An outside broadcast truck is parked among the usual crowd, grown even larger now, and more women among them.
-0012_Get_Shorty_00.26.39.182-00.26.40.682 	Harry points across the street to the Cafe Med where we see a RED FERRARI convertible parked out the front.
-0012_Get_Shorty_00.33.40.677-00.33.47.117 	Chili's minivan is parked outfront.
-0012_Get_Shorty_01.25.32.841-01.25.34.598 	Chili's minivan is parked out front.
-0013_Halloween_00.15.56.940-00.15.58.684 	From the window she can see the street, and a station wagon parked along the sidewalk.
-0013_Halloween_00.18.56.416-00.18.57.935 	We see a car parked in front of a small, closed-down gas station/diner by the side of the highway.
-0013_Halloween_00.32.17.216-00.32.18.448 	Two police cars are parked in the street in front of Nichols Hardware Store.
-0013_Halloween_01.00.59.782-01.01.03.167 	Laurie sees Bob's car parked in front of the house.
-0013_Halloween_01.08.40.453-01.08.42.355 	Bob's car is parked in front of the Wallace house.
-0013_Halloween_01.09.53.836-01.09.56.738 	It is empty except for a station wagon parked several blocks away.
-0016_O_Brother_Where_Art_Thou_00.30.42.175-00.30.43.494 	Their point-of-view shows a lone barn with their car parked to one side.
-0016_O_Brother_Where_Art_Thou_00.30.43.494-00.30.45.616 	Various police vehicles have pulled up facing the barn, and armed men, their backs to us, train guns on it, some taking cover on the near side of their parked cars.
-0016_O_Brother_Where_Art_Thou_00.52.03.374-00.52.06.897 	The car boosted from the general store has been pulled off the road and parked a few yards into a field littered with bluebonnets and rimmed with moss-dripping oak.
-0019_Pulp_Fiction_01.08.57.125-01.09.03.186 	A taxi is parked in a dark alley next to an auditorium.
-0019_Pulp_Fiction_01.09.00.481-01.09.01.036 	WE SLOWLY DOLLY toward the parked car.
-0019_Pulp_Fiction_01.28.18.978-01.28.23.391 	He has parked his car a couple of blocks from his apartment to check things out before he goes boppin' through the front door.
-0019_Pulp_Fiction_01.29.21.414-01.29.25.698 	None of the parked cars appear out of place.
-0020_Raising_Arizona_00.57.31.589-00.57.32.777 	Through it we can see the Biker sitting on the ground, legs stretched out in front of him, back resting against his parked motorcycle, arms folded across his chest.
-0020_Raising_Arizona_01.16.36.593-01.16.38.890 	As the blue paint is smeared away we see Hi and Ed's car parked broadside in the middle of the road.
-0020_Raising_Arizona_01.18.31.185-01.18.32.445 	As she dives for cover behind a parked car.
-0020_Raising_Arizona_01.22.13.229-01.22.13.791 	Diving behind the parked car.
-0020_Raising_Arizona_01.28.25.473-01.28.27.471 	Pulled over on the state highway in the middle of the desert, a police motorcycle parked behind it.
-0022_Reservoir_Dogs_01.16.16.529-01.16.22.637 	From inside an unmarked car across the street, the TWO COPS watching Freddy see him walk out of his building and up to Eddie's parked car.
-0023_THE_BUTTERFLY_EFFECT_01.05.20.166-01.05.28.973 	Evan runs down the front lawn to his car, the Honda parked at the bottom of the hill.
-0026_The_Big_Fish_00.46.09.899-00.46.11.070 	We are where the second-rate carnival is parked for the moment in an Alabama field.
-0028_The_Crying_Game_01.21.40.798-01.21.41.895 	He nods toward a car, a Daimler, parked some distance away.
-0028_The_Crying_Game_01.38.35.891-01.38.39.133 	Jude and Maguire are in the car, parked across the street.
-0030_The_Hustler_00.00.30.725-00.00.42.000 	Eddie leaves the car parked at the gas station and heads for the bar.
-0041_The_Sixth_Sense_01.18.59.522-01.19.00.849 	Rows of parked cars spill out from the driveway onto the streets.
-0043_Thelma_and_Luise_00.26.45.998-00.26.47.398 	Police cars are parked around.
-0043_Thelma_and_Luise_01.56.51.977-01.56.54.014 	A steady stream of state police cars pulls out of the parking lot with lights flashing while other policemen are running to their cars still parked in the lot.
-0049_Hannah_and_her_sisters_00.22.16.011-00.22.17.602 	A large car is parked right in front of the building.
-0050_Indiana_Jones_and_the_last_crusade_00.24.29.306-00.24.35.292 	A LIMO is parked beside a PRIVATE AIRLINER that bears the DONOVAN CORPORATE LOGO.
-0050_Indiana_Jones_and_the_last_crusade_01.22.11.925-01.22.16.953 	He goes right past it and begins to inspect the Nazi staff car parked nearby.
-0050_Indiana_Jones_and_the_last_crusade_01.25.30.355-01.25.33.339 	Elsa and Donovan take cover beside the parked car.
-0051_Men_in_black_00.57.43.257-00.57.43.525 	The Orkin van is parked in an alleyway somewhere downtown.
-1001_Flight_00.04.10.556-00.04.15.399 	The man now in a raincoat walks under a parked south jet airplane.
-1001_Flight_00.45.42.659-00.45.47.689 	A black Cadillac lurches out of the hospital parking structure and passes the news crews parked outside.
-1001_Flight_01.32.23.011-01.32.28.154 	Sheila's van is parked behind some trees and Nicole puts her things in.
-1001_Flight_01.38.04.521-01.38.10.680 	A man watches Whip from a parked car and speaks into his cell phone.
-1005_Signs_00.53.58.277-00.54.05.360 	He turns and spots the brown Chevy 4x4 parked on a short driveway, a figure the wheel.
-1008_Spider-Man2_01.32.53.207-01.32.54.192 	down below, a street with four lanes of parked traffic.
-1008_Spider-Man2_01.34.14.881-01.34.19.777 	he leans on a parked car for support.
-1009_Spider-Man3_00.51.12.824-00.51.16.382 	it flints and crashes into a parked truck.
+0001_American_Beauty_00.06.17.132-00.06.18.656 	a moving van is parked in front of the colonial house next door to the burnhams'.
+0001_American_Beauty_00.21.35.720-00.21.37.302 	we're looking at the colonial house next door where the moving van was parked earlier.
+0002_As_Good_As_It_Gets_01.52.44.547-01.52.45.711 	the car parked near a phone booth.
+0005_Chinatown_01.30.09.926-01.30.15.183 	he brings the car a few yards further down the street, parking it near evelyn's.
+0008_Fargo_00.37.14.055-00.37.15.497 	marge's prowler is parked nearby.
+0008_Fargo_00.46.01.690-00.46.04.112 	marge's prowler is parked in an otherwise empty lot.
+0008_Fargo_00.56.27.741-00.56.55.229 	the brown ciera enters and drives lazy s-curves around the few snow-covered cars parked on the roof of the lot.
+0008_Fargo_01.15.56.047-01.15.59.097 	in his car, now parked, one hand holding the rag pressed to his mangled jaw.
+0008_Fargo_01.27.15.675-01.27.18.698 	parked in front is the brown cutlass ciera.
+0010_Frau_Ohne_Gewissen_00.36.40.663-00.36.43.648 	neff, briefcase under his arm, comes down the steps to the street, where his dodge coupe is parked at the curb.
+0010_Frau_Ohne_Gewissen_00.47.49.359-00.47.51.236 	there are about eight cars parked.
+0010_Frau_Ohne_Gewissen_00.51.38.701-00.51.39.624 	ten or twelve cars are parked diagonally, not crowded.
+0010_Frau_Ohne_Gewissen_00.59.24.184-00.59.25.663 	fifteen or twenty cars are parked now.
+0010_Frau_Ohne_Gewissen_01.42.30.676-01.42.32.685 	neff moves off through the shrubbery toward the side of the house where he parked his car.
+0011_Gandhi_02.50.32.355-02.50.35.099 	an outside broadcast truck is parked among the usual crowd, grown even larger now, and more women among them.
+0012_Get_Shorty_00.26.39.182-00.26.40.682 	harry points across the street to the cafe med where we see a red ferrari convertible parked out the front.
+0012_Get_Shorty_00.33.40.677-00.33.47.117 	chili's minivan is parked outfront.
+0012_Get_Shorty_01.25.32.841-01.25.34.598 	chili's minivan is parked out front.
+0013_Halloween_00.15.56.940-00.15.58.684 	from the window she can see the street, and a station wagon parked along the sidewalk.
+0013_Halloween_00.18.56.416-00.18.57.935 	we see a car parked in front of a small, closed-down gas station/diner by the side of the highway.
+0013_Halloween_00.32.17.216-00.32.18.448 	two police cars are parked in the street in front of nichols hardware store.
+0013_Halloween_01.00.59.782-01.01.03.167 	laurie sees bob's car parked in front of the house.
+0013_Halloween_01.08.40.453-01.08.42.355 	bob's car is parked in front of the wallace house.
+0013_Halloween_01.09.53.836-01.09.56.738 	it is empty except for a station wagon parked several blocks away.
+0014_Ist_das_Leben_nicht_schoen_01.54.59.788-01.55.00.345 	the cab is parked.
+0016_O_Brother_Where_Art_Thou_00.30.42.175-00.30.43.494 	their point-of-view shows a lone barn with their car parked to one side.
+0016_O_Brother_Where_Art_Thou_00.52.03.374-00.52.06.897 	the car boosted from the general store has been pulled off the road and parked a few yards into a field littered with bluebonnets and rimmed with moss-dripping oak.
+0019_Pulp_Fiction_01.08.57.125-01.09.03.186 	a taxi is parked in a dark alley next to an auditorium.
+0019_Pulp_Fiction_01.09.03.404-01.09.08.399 	a young woman, with spanish looks, sits parked, drinking a steaming hot cup of coffee out of a white styrofoam cup.
+0019_Pulp_Fiction_01.28.18.978-01.28.23.391 	he has parked his car a couple of blocks from his apartment to check things out before he goes boppin' through the front door.
+0020_Raising_Arizona_01.16.36.593-01.16.38.890 	as the blue paint is smeared away we see hi and ed's car parked broadside in the middle of the road.
+0020_Raising_Arizona_01.28.25.473-01.28.27.471 	pulled over on the state highway in the middle of the desert, a police motorcycle parked behind it.
+0023_THE_BUTTERFLY_EFFECT_01.05.20.166-01.05.28.973 	evan runs down the front lawn to his car, the honda parked at the bottom of the hill.
+0026_The_Big_Fish_00.46.09.899-00.46.11.070 	we are where the second-rate carnival is parked for the moment in an alabama field.
+0027_The_Big_Lebowski_01.09.20.513-01.09.21.487 	parked incongruously in front of the house is a brand new red corvette.
+0028_The_Crying_Game_01.21.40.798-01.21.41.895 	he nods toward a car, a daimler, parked some distance away.
+0028_The_Crying_Game_01.38.35.891-01.38.39.133 	jude and maguire are in the car, parked across the street.
+0030_The_Hustler_00.00.30.725-00.00.42.000 	eddie leaves the car parked at the gas station and heads for the bar.
+0043_Thelma_and_Luise_00.26.45.998-00.26.47.398 	police cars are parked around.
+0043_Thelma_and_Luise_01.56.51.977-01.56.54.014 	a steady stream of state police cars pulls out of the parking lot with lights flashing while other policemen are running to their cars still parked in the lot.
+0049_Hannah_and_her_sisters_00.22.16.011-00.22.17.602 	a large car is parked right in front of the building.
+0050_Indiana_Jones_and_the_last_crusade_00.24.29.306-00.24.35.292 	a limo is parked beside a private airliner that bears the donovan corporate logo.
+0050_Indiana_Jones_and_the_last_crusade_01.22.11.925-01.22.16.953 	he goes right past it and begins to inspect the nazi staff car parked nearby.
+0050_Indiana_Jones_and_the_last_crusade_01.24.34.353-01.24.34.745 	parked nearby is a car containing all of their supplies.
+0051_Men_in_black_00.57.43.257-00.57.43.525 	the orkin van is parked in an alleyway somewhere downtown.
+1001_Flight_00.04.10.556-00.04.15.399 	the man now in a raincoat walks under a parked south jet airplane.
+1001_Flight_00.45.42.659-00.45.47.689 	a black cadillac lurches out of the hospital parking structure and passes the news crews parked outside.
+1001_Flight_01.32.23.011-01.32.28.154 	sheila's van is parked behind some trees and nicole puts her things in.
+1004_Juno_00.11.38.906-00.11.45.900 	she parks her bike and secures it with a chain lock.
+1004_Juno_01.17.06.670-01.17.16.515 	juno parks the previa in the street outside the family's wooden slatted house, where the porch light illuminates a straw heart hanging on the door knocker.
+1005_Signs_00.23.35.030-00.23.40.697 	the station wagon parks up beside some other vehicles outside a parade of shops and the family get out.
+1005_Signs_00.53.58.277-00.54.05.360 	he turns and spots the brown chevy 4x4 parked on a short driveway, a figure the wheel.
+1009_Spider-Man3_00.13.59.585-00.14.03.797 	he parks out outside aunt may's apartment,
+1011_The_Help_01.28.59.794-01.29.01.972 	hilly parks her son in one of the booths.
 1017_Bad_Santa_00.13.43.328-00.13.45.995 	the car is parked outside a grand mansion with a pillared entranceway.
-1023_Horrible_Bosses_00.12.28.337-00.12.28.639 	he plummets onto the roof of a parked car.
-1023_Horrible_Bosses_01.01.25.114-01.01.27.688 	the guys park outside the houses of their assigned bosses.
+1018_Body_Of_Lies_00.37.14.339-00.37.19.590 	skip parks the bmw on a busy street, and he and ferris get out.
+1023_Horrible_Bosses_00.26.35.370-00.26.37.457 	his car screeches to a halt, mounting the curb as he parks outside nick's place.
+1024_Identity_Thief_00.18.02.322-00.18.06.543 	now, the family man parks a subaru.
+1024_Identity_Thief_01.35.25.769-01.35.32.263 	at night, sandy parks the beat-up car outside his apartment and enters with diana.
 1028_No_Reservations_00.29.43.697-00.29.50.398 	kate and zoe walk along the street and stop by the side of a yellow school bus which is parked outside.
 1030_Public_Enemies_00.40.34.155-00.40.39.217 	baum whips out his gun, then peers at a car parked in the alley.
-1030_Public_Enemies_00.41.21.386-00.41.25.052 	as the two criminals get into the parked car, baum pops up and returns fire.
 1030_Public_Enemies_01.22.33.998-01.22.44.711 	now, on a forest road, two motorcars douse their headlights as they creep forward and park on the dirt shoulder.
-1030_Public_Enemies_01.35.50.944-01.35.59.345 	on a city street, a scowling dillinger drives past a parked car, which reflects electrical flashes from a passing train.
-1030_Public_Enemies_01.36.00.406-01.36.04.520 	two agents sit in the parked vehicle.
-1030_Public_Enemies_01.37.16.828-01.37.28.771 	carrying the brown paper bag, she steps off the sidewalk between parked cars and looks around in the middle of the street.
-1030_Public_Enemies_01.42.56.370-01.43.05.653 	they fail to notice dillinger, who strides around a parked car and returns to his vehicle.
-1030_Public_Enemies_01.59.00.874-01.59.05.541 	at the wheel of a parked car, madala looks to purvis, seated shotgun.
-1030_Public_Enemies_02.04.33.418-02.04.33.630 	in the parked car, the burly agent sweats at the wheel.
-1034_Super_8_01.03.53.973-01.03.56.652 	taking his eye off the road, he careens in to the back of a parked car.
+1030_Public_Enemies_01.41.09.717-01.41.13.936 	dillinger's car parks on a street.
+1030_Public_Enemies_01.59.34.726-01.59.36.931 	parked near the biograph, purvis tensely rubs his thin- lipped mouth.
+1031_Quantum_of_Solace_01.01.37.762-01.01.41.173 	he parks the car.
 1037_The_Curious_Case_Of_Benjamin_Button_02.00.17.070-02.00.20.849 	he drives a blue motorbike parked outside.
 1037_The_Curious_Case_Of_Benjamin_Button_02.10.42.126-02.10.45.321 	wearing a patchwork blanket around his shoulders and carrying two mugs, benjamin walks up from behind the parked motorbike.
+1038_The_Great_Gatsby_00.12.46.000-00.12.50.460 	he parks his car in front of his cottage and gets out.
 1039_The_Queen_00.34.12.276-00.34.13.942 	some land rovers are parked in the courtyard.
-1043_Vantage_Point_00.03.42.055-00.03.47.379 	the motorcade moves past a tall stone bell tower towards the flashing lights of a parked police car.
-1043_Vantage_Point_00.59.59.994-01.00.04.207 	sam approaches a parked ambulance.
-1043_Vantage_Point_01.14.15.908-01.14.19.912 	taylor clips another driver, who hits a parked car.
 1045_An_education_00.29.41.489-00.29.43.994 	they park up at a part of town with tall townhouses.
-1047_Defiance_01.20.40.883-01.20.46.505 	at night in the deserted town of stakiewicze, zus and tuvia are sitting in a parked vehicle.
 1048_Gran_Torino_00.00.45.972-00.00.50.245 	a hearse and several cars are parked outside a large catholic church.
 1048_Gran_Torino_00.23.46.807-00.23.51.984 	he looks out at gran torino parked on the drive.
 1048_Gran_Torino_01.16.37.171-01.16.39.999 	they park up.
 1048_Gran_Torino_01.22.57.448-01.23.03.092 	spider and one of his sidekicks come out of a house and walk over to the honda, which is parked by the curb.
 1048_Gran_Torino_01.23.12.400-01.23.14.766 	they are watched from across the road by walt, who's parked up in his pickup truck.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.12.17.014-00.12.19.140 	they bump a parked car.
+1048_Gran_Torino_01.24.13.955-01.24.25.775 	he parks up on his drive and gets out with daisy.
+1055_Marley_and_me_01.03.22.244-01.03.29.686 	he arrives back home at night, driving his old blue honda and parks up behind their new people carrier.
 1057_Seven_pounds_00.10.52.325-00.10.53.966 	ben's car is parked in the dark, wet night.
-1057_Seven_pounds_00.13.55.421-00.14.06.291 	ben gets out of his car and admires a shiny bmw convertible parked beside him.
 1059_The_devil_wears_prada_01.35.26.000-01.35.33.943 	later, andy gets into the back of a smart, black executive car, which is parked outside the venue.
 1062_Day_the_Earth_stood_still_01.06.40.252-01.06.42.824 	helen's car is parked in the rain.
 1062_Day_the_Earth_stood_still_01.37.00.263-01.37.04.700 	regina looks out to the sun and the aircraft parked on the tarmac.
-2012_Unbreakable_00.41.14.303-00.41.17.305 	elijah quickly turns and sees the man moving through the parked cars heading out of the parking lot.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.12.17.014-00.12.19.140 	they bump a parked car.
-1057_Seven_pounds_00.10.52.325-00.10.53.966 	ben's car is parked in the dark, wet night.
-1057_Seven_pounds_00.13.55.421-00.14.06.291 	ben gets out of his car and admires a shiny bmw convertible parked beside him.
-1059_The_devil_wears_prada_01.35.26.000-01.35.33.943 	later, andy gets into the back of a smart, black executive car, which is parked outside the venue.
-1062_Day_the_Earth_stood_still_01.06.40.252-01.06.42.824 	helen's car is parked in the rain.
-1062_Day_the_Earth_stood_still_01.37.00.263-01.37.04.700 	regina looks out to the sun and the aircraft parked on the tarmac.
-2012_Unbreakable_00.41.14.303-00.41.17.305 	elijah quickly turns and sees the man moving through the parked cars heading out of the parking lot.
+2004_Juno_00.51.39.280-00.51.42.921 	juno parks her previa on the street.
+2004_Juno_01.17.15.597-01.17.31.937 	juno parks her car and walks up to her house.
 2034_Super_8_00.01.30.456-00.01.31.276 	many cars are parked outside the house, notably a sheriff's department squad car in the driveway.
+2034_Super_8_00.42.08.450-00.42.10.993 	parks his bike.

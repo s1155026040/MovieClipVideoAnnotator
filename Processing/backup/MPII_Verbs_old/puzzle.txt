@@ -1,23 +1,59 @@
-0002_As_Good_As_It_Gets_01.09.02.449-01.09.08.454 	He exits -- Simon puzzled and concerned.
-0003_CASABLANCA_00.56.41.250-00.56.43.831 	As he exits, Laszlo looks after him with a puzzled expression.
-0006_Clerks_00.03.31.413-00.03.32.721 	DANTE is puzzled and annoyed.
-0011_Gandhi_00.07.47.268-00.07.58.167 	Gandhi is still puzzled by his belligerence, but is beginning to react to it, this time with a touch of irony.
-0013_Halloween_01.26.08.415-01.26.09.784 	He watches the children with a puzzled frown.
-0014_Ist_das_Leben_nicht_schoen_01.27.42.822-01.27.43.781 	Mary looks after him, puzzled and concerned, then comes over to Pete.
-0014_Ist_das_Leben_nicht_schoen_01.47.56.984-01.47.58.833 	Clarence is puzzled by this conduct.
-0014_Ist_das_Leben_nicht_schoen_01.50.42.236-01.50.43.613 	George has a strange, puzzled look on his face.
-0016_O_Brother_Where_Art_Thou_00.53.27.453-00.53.28.574 	Everett wears a puzzled smile.
-0021_Rear_Window_01.26.24.896-01.26.26.230 	Jeff looks up to a puzzled Lisa.
-0021_Rear_Window_01.36.08.002-01.36.09.858 	A woman's voice is heard and Jeff seems a little puzzled at the sound of it.
-0021_Rear_Window_01.44.49.708-01.44.52.388 	He seems a little puzzled by what he sees.
-0026_The_Big_Fish_01.37.28.048-01.37.33.152 	He looks at her, puzzled and surprised.
-0031_The_Lost_Weekend_00.57.46.252-00.57.49.374 	There is a tiny puzzled look from the waiter as Don walks slowly towards the wash room.
-0046_Chasing_Amy_00.10.42.082-00.10.45.237 	Banky offers Holden a puzzled glance.
-0046_Chasing_Amy_00.49.18.455-00.49.22.861 	Alyssa slides up to the cashier's desk as does Holden, who offers a puzzled shrug.
-0050_Indiana_Jones_and_the_last_crusade_00.29.38.309-00.29.42.312 	Indy continues to pound at the tile as the Librarian resumes his stamping, still puzzled by the SOUND ECHOING through the library.
-1005_Signs_00.09.30.660-00.09.33.327 	Caroline stands and watches him with a slightly puzzled expression.
-1006_Slumdog_Millionaire_01.28.46.880-01.28.55.881 	He looks puzzled as he returns to the studio floor.
+0002_As_Good_As_It_Gets_01.09.02.449-01.09.08.454 	he exits -- simon puzzled and concerned.
+0003_CASABLANCA_01.12.00.875-01.12.02.992 	laszlo looks at him, puzzled.
+0005_Chinatown_01.33.53.044-01.33.55.480 	he's genuinely puzzled.
+0006_Clerks_00.03.31.413-00.03.32.721 	dante is puzzled and annoyed.
+0007_DIE_NACHT_DES_JAEGERS_00.26.27.226-00.26.28.851 	relieved, but puzzled, he tiptoes along towards the rear of the hallway in close-up as we pull away.
+0008_Fargo_00.57.36.398-00.57.36.638 	the attendant is still puzzled.
+0011_Gandhi_00.07.47.268-00.07.58.167 	gandhi is still puzzled by his belligerence, but is beginning to react to it, this time with a touch of irony.
+0011_Gandhi_02.03.47.845-02.03.49.927 	walker turns back to gandhi, puzzled.
+0013_Halloween_01.08.42.355-01.08.44.418 	she stares at the house, puzzled.
+0013_Halloween_01.26.08.415-01.26.09.784 	he watches the children with a puzzled frown.
+0014_Ist_das_Leben_nicht_schoen_01.20.49.499-01.20.50.488 	he looks puzzled, thinks hard, then a look of concern creeps into his eyes.
+0014_Ist_das_Leben_nicht_schoen_01.27.42.822-01.27.43.781 	mary looks after him, puzzled and concerned, then comes over to pete.
+0014_Ist_das_Leben_nicht_schoen_01.47.56.984-01.47.58.833 	clarence is puzzled by this conduct.
+0014_Ist_das_Leben_nicht_schoen_01.50.42.236-01.50.43.613 	george has a strange, puzzled look on his face.
+0016_O_Brother_Where_Art_Thou_00.16.20.680-00.16.22.295 	pete looks at the watch, puzzled.
+0016_O_Brother_Where_Art_Thou_00.53.36.105-00.53.37.776 	everett is still puzzled, but willing to be instructed.
+0016_O_Brother_Where_Art_Thou_01.00.03.981-01.00.05.061 	puzzled, delmar follows.
+0017_Pianist_00.13.16.735-00.13.21.561 	they look at each other puzzled, then halina opens a door and looks in.
+0017_Pianist_02.16.01.008-02.16.03.303 	he's astonished, puzzled.
+0020_Raising_Arizona_00.41.43.477-00.41.43.599 	hi stops also, looking at glen, still puzzled.
+0020_Raising_Arizona_01.09.17.569-01.09.20.113 	gale is looking around, puzzled.
+0021_Rear_Window_01.26.24.896-01.26.26.230 	jeff looks up to a puzzled lisa.
+0021_Rear_Window_01.36.08.002-01.36.09.858 	a woman's voice is heard and jeff seems a little puzzled at the sound of it.
+0021_Rear_Window_01.44.49.708-01.44.52.388 	he seems a little puzzled by what he sees.
+0023_THE_BUTTERFLY_EFFECT_01.45.53.526-01.45.58.345 	mr. miller is puzzled, but watches evan skip to the fireplace.
+0026_The_Big_Fish_01.37.28.048-01.37.33.152 	he looks at her, puzzled and surprised.
+0033_Amadeus_00.17.08.201-00.17.13.068 	he is puzzled; constanze has disappeared.
+0050_Indiana_Jones_and_the_last_crusade_00.29.38.309-00.29.42.312 	indy continues to pound at the tile as the librarian resumes his stamping, still puzzled by the sound echoing through the library.
+0050_Indiana_Jones_and_the_last_crusade_01.16.01.887-01.16.05.834 	we see indy puzzled.
+0053_Rendezvous_mit_Joe_Black_01.05.55.326-01.05.57.648 	susan regards joe, puzzled.
+1002_Harry_Potter_and_the_Half-Blood_Prince_01.35.42.025-01.35.44.783 	ron looks puzzled.
+1003_How_to_Lose_Friends_and_Alienate_People_01.01.32.859-01.01.34.364 	alison's puzzled.
+1005_Signs_00.09.30.660-00.09.33.327 	caroline stands and watches him with a slightly puzzled expression.
+1005_Signs_01.35.16.980-01.35.20.738 	graham stares at her, puzzled, through his wet eyes.
+1006_Slumdog_Millionaire_01.28.46.880-01.28.55.881 	he looks puzzled as he returns to the studio floor.
+1008_Spider-Man2_01.56.39.348-01.56.40.014 	octavius look puzzled.
+1010_TITANIC_00.28.01.727-00.28.03.393 	jack's roommates exchanged puzzled looks.
+1015_27_Dresses_00.25.04.671-00.25.10.998 	kevin looks puzzled as she bashes a wall with her handbag.
+1015_27_Dresses_01.17.13.626-01.17.15.135 	jane is puzzled.
+1015_27_Dresses_01.17.59.626-01.18.02.405 	tess looks puzzled as jane walks out.
+1015_27_Dresses_01.19.31.603-01.19.35.025 	the woman is puzzled, not sure what she just heard.
+1027_Les_Miserables_00.37.13.442-00.37.18.700 	javert looks puzzled, then bows curtly and takes his leave.
+1029_Pride_And_Prejudice_Disk_One_01.24.22.956-01.24.28.095 	lizzie looks puzzled and a little disappointed.
+1035_The_Adjustment_Bureau_01.09.39.535-01.09.44.652 	with a puzzled frown, david watches the adjustment officer stop in the studio's doorway.
+1044_Pride_And_Prejudice_Disk_Two_02.18.19.648-02.18.25.985 	lady catherine heads out and lizzie follows her, looking puzzled.
+1049_Harry_Potter_and_the_chamber_of_secrets_00.08.19.525-00.08.24.194 	looking puzzled he reaches out for his glasses and puts them on.
+1049_Harry_Potter_and_the_chamber_of_secrets_01.52.23.770-01.52.26.605 	harry looks puzzled for a moment.
+1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.34.39.850-00.34.45.797 	harry stares at the old woman looking puzzled.
+1052_Harry_Potter_and_the_order_of_phoenix_00.29.21.678-00.29.27.013 	puzzled, harry inspects the animal more closely.
+1053_Harry_Potter_and_the_philosophers_stone_02.13.10.545-02.13.18.398 	puzzled, harry stares at his hands again, then looks around for the philosopher's stone.
 1055_Marley_and_me_01.47.58.175-01.48.05.578 	patrick concentrates on the old video footage of his mother laughing and a close up of marley, staring puzzled into the camera.
-1056_Rambo_00.26.23.591-00.26.25.709 	outside a hut, sarah hands a book to a puzzled child.
+1057_Seven_pounds_00.10.49.205-00.10.52.325 	emily frowns and looks puzzled.
+1057_Seven_pounds_01.07.29.065-01.07.33.393 	she stares at him and looks puzzled.
 1058_The_Damned_united_01.27.44.577-01.27.46.210 	the boys exchange puzzled looks in the car.
-2040_The_Ugly_Truth_00.28.55.457-00.29.01.562 	on the monitor -- a slightly puzzled look from mike, but he lifts the girl's finger and licks the jello off it.
+1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.26.46.648-00.26.52.192 	ron looks puzzled.
+1062_Day_the_Earth_stood_still_00.01.40.000-00.01.44.745 	a bearded climber looks puzzled.
+1062_Day_the_Earth_stood_still_00.47.19.276-00.47.21.331 	jacob looks puzzled.
+1062_Day_the_Earth_stood_still_01.21.17.858-01.21.25.274 	the driver fiddles with the radio, looks puzzled.
+2027_Les_Miserables_00.21.03.393-00.21.05.154 	javert is puzzled.

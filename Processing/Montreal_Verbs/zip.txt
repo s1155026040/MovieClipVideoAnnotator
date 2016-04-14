@@ -1,27 +1,13 @@
-BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS544 	01:24:34,00 --> 01:24:40,50 	the mercedes barely zips pass a truck which blocks the road.
 BRUNO.srt 	BRUNO_DVS227 	01:02:08,00 --> 01:02:19,50 	he zips the tent back up.
-BURLESQUE.srt 	BURLESQUE_DVS421 	00:58:04,00 --> 00:58:09,50 	someone joins her at a mirror and zips up her dress.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS113 	00:18:50,00 --> 00:19:03,50 	the machine crackles with blue energy which zips along thick wires and shimmers over another large, complex apparatus.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS231 	00:18:26,00 --> 00:18:31,50 	someone stares at it, then zips up his jacket.
 CHRONICLE.srt 	CHRONICLE_DVS421 	01:02:15,00 --> 01:02:21,50 	he zips up the backpack.
-CHRONICLE.srt 	CHRONICLE_DVS425 	01:02:37,00 --> 01:02:43,50 	the doors open behind him as he zips up his backpack and heads out.
 DISTRICT_9.srt 	DISTRICT_9_DVS340 	00:37:32,00 --> 00:37:37,50 	the guards zip someone into a body bag.
-EASY_A.srt 	EASY_A_DVS35 	00:08:50,00 --> 00:09:04,50 	we zip into a classroom where a few students read a text message.
 EASY_A.srt 	EASY_A_DVS36 	00:09:02,00 --> 00:09:12,50 	we zoom out the window, then zip around the building into another class.
 FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS245 	01:07:07,00 --> 01:07:12,50 	he shyly zips his
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS93 	00:14:26,00 --> 00:14:35,50 	the mustached thug slams him down, zip ties his hands and throws him head first against the suv.
 GROWN_UPS.srt 	GROWN_UPS_DVS224 	01:04:38,00 --> 01:04:43,50 	he zip line across the park.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS545 	01:37:13,00 --> 01:37:27,50 	firing their weapons, the air force drones zip through the sky after someone.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS555 	01:38:21,00 --> 01:38:28,50 	firing their guns, the air force drones trail someone around expo buildings as they zip through the sky.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS579 	01:40:21,00 --> 01:40:36,50 	someone zips into a huge parking garage and around tall concrete columns.
-KATY_PERRY_PART_OF_ME.srt 	KATY_PERRY_PART_OF_ME_DVS35 	00:05:55,00 --> 00:06:01,50 	someone does sit-ups in a black hoodie zipped up over her face.
 KATY_PERRY_PART_OF_ME.srt 	KATY_PERRY_PART_OF_ME_DVS220 	00:55:27,00 --> 00:55:35,50 	the ropes zip back and forth.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS453 	00:53:29,00 --> 00:53:33,50 	he zips his fly.
-PROMETHEUS.srt 	PROMETHEUS_DVS841 	01:30:53,00 --> 01:30:59,50 	later, she puts on her spacesuit and zips it up.
-PROMETHEUS.srt 	PROMETHEUS_DVS1059 	01:56:05,00 --> 01:56:11,50 	someone zips the bag closed over his earnest gaze.
-SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS311 	01:03:37,00 --> 01:03:44,50 	now zipping up a hooded sweatshirt and wearing someone's ring, he returns
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS400 	00:59:16,00 --> 00:59:22,50 	which zip through huge ocean swills and strike the unicorn's bow.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS247 	00:48:06,00 --> 00:48:16,50 	in the bedroom, someone zips up someone's satchel.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS337 	00:55:00,00 --> 00:55:04,50 	someone zips off.
-WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS606 	01:21:49,00 --> 01:21:57,50 	inside, frantic bridesmaids run amok, while someone's mother struggles to zip up the bridal gown.
 ZOOKEEPER.srt 	ZOOKEEPER_DVS160 	00:35:51,00 --> 00:35:56,50 	someone zips up.

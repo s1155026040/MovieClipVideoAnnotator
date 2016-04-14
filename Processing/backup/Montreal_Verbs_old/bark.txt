@@ -1,0 +1,4 @@
+A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS723 	01:13:05,00 --> 01:13:14,50 	on the ground, two men carry a case of uranium, as a masked man barks orders.
+CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS1013 	01:38:28,00 --> 01:38:33,50 	the captain barks into his radio.
+COLOMBIANA.srt 	COLOMBIANA_DVS182 	00:15:54,00 --> 00:16:05,50 	the acrobatic man peers down into an alley where the beefy thug barks an order into his radio.
+GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS563 	01:20:32,00 --> 01:20:39,50 	ghost rider pulls up beside a ruthless truck as its driver barks into a radio.

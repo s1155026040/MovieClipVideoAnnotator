@@ -1,146 +1,73 @@
 0001_American_Beauty_01.09.38.160-01.09.41.520 	she waves.
 0002_As_Good_As_It_Gets_01.38.25.791-01.38.28.157 	he waves her down.
-0007_DIE_NACHT_DES_JAEGERS_00.13.24.550-00.13.26.018 	willa's face is seen within; serving a customer, she sees them and waves them away.
-0007_DIE_NACHT_DES_JAEGERS_00.15.44.624-00.15.49.786 	people are waving from shore and boat.
-0009_Forrest_Gump_00.13.02.727-00.13.05.027 	mrs. gump waves to forrest as the bus drives away.
-0009_Forrest_Gump_00.24.11.716-00.24.14.758 	he looks around, then waves.
 0009_Forrest_Gump_01.07.04.783-01.07.09.261 	jenny wades out into the reflection pool and waves her hand into the air.
-0010_Frau_Ohne_Gewissen_00.53.51.146-00.53.52.810 	phyllis stands there waving goodbye as the train starts moving, and the porter begins to close the car door.
-0011_Gandhi_00.17.12.262-00.17.14.277 	he turns and waves to the parlor window.
 0011_Gandhi_00.21.41.684-00.21.44.414 	he waves, and gandhi shouts out to them all over the putt-putt of the generator.
-0011_Gandhi_00.22.35.685-00.22.37.059 	walker waves his notebook at him and kallenbach lifts his level in greeting.
-0011_Gandhi_02.20.57.005-02.21.05.124 	gandhi, mirabehn and gandhi's secretary, desai, waving goodbye from the boat deck of their ship as it sails -- mirabehn is holding the tether of a goat -- all of them smiling at the camera like voyagers everywhere.
-0011_Gandhi_02.21.39.668-02.21.49.616 	gandhi, in his dhoti, waving to a small crowd as he enters the gates of buckingham palace.
 0011_Gandhi_02.36.54.624-02.36.56.975 	featuring godse waving a black flag and shouting.
-0012_Get_Shorty_00.29.50.118-00.29.55.594 	harry waves them right into the two cracked red leather chairs facing the desk.
 0012_Get_Shorty_01.25.40.694-01.25.43.543 	harry waves them off points to himself as he mumbles through his wired jaw.
-0014_Ist_das_Leben_nicht_schoen_00.19.56.887-00.19.58.524 	she is waving her dance program at him.
 0014_Ist_das_Leben_nicht_schoen_01.15.56.453-01.15.58.713 	he waves as he exits through the door.
-0016_O_Brother_Where_Art_Thou_00.11.14.850-00.11.29.461 	wash is whittling once again; everett dips his comb into a pomade jar and carefully works on his hair; pete is digging around with a toothpick; delmar dreamily waves one hand in time to the music.
 0016_O_Brother_Where_Art_Thou_00.26.53.046-00.26.55.307 	delmar waves a fistful of money at him.
-0016_O_Brother_Where_Art_Thou_00.27.26.644-00.27.39.326 	pappy waves his hat at the radio building as singers in faux hillbilly outfits with various musical instrument cases get out of the second car.
 0016_O_Brother_Where_Art_Thou_00.38.12.949-00.38.14.311 	a midget in overalls waves his arms, as if conducting the music.
 0016_O_Brother_Where_Art_Thou_00.59.13.749-00.59.17.801 	the midget waves his little midget broom in time with stoke's waves.
 0019_Pulp_Fiction_02.23.47.835-02.23.50.562 	honey bunny freaks out, waving her gun in jules' direction.
-0021_Rear_Window_00.04.59.029-00.05.01.712 	with her feet still moving, she throws open the door, and then rhythmically moving back to the center of the room, gnaws the chicken bone, occasionally waving it in the air as part of the choreography.
-0021_Rear_Window_01.35.18.914-01.35.22.284 	she looks, waves at jeff as stella comes up to her carrying a shovel.
-0021_Rear_Window_01.42.01.478-01.42.01.648 	she stops waving and holds her fingers spread out.
-0023_THE_BUTTERFLY_EFFECT_01.29.27.689-01.29.37.545 	she looks around, waves him in.
-0023_THE_BUTTERFLY_EFFECT_01.40.17.822-01.40.19.079 	evan turns to see lenny waving her over.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.27.08.758-01.27.13.143 	he waves his torch through the darkness: illuminating a huge, cavern.
-0026_The_Big_Fish_00.26.52.155-00.26.57.281 	and with that, edward and karl start walking, waving as they go.
 0026_The_Big_Fish_00.58.11.135-00.58.12.184 	he waves it at the dog, ready to strike it.
-0026_The_Big_Fish_01.24.30.314-01.24.34.333 	the skinny security guard makes a halfhearted reach for his gun, but norther waves him off.
-0026_The_Big_Fish_01.25.05.449-01.25.05.736 	the teller woman is already waving him to the back.
 0026_The_Big_Fish_01.52.39.436-01.52.40.301 	karl waves back.
-0027_The_Big_Lebowski_00.36.49.346-00.36.53.377 	the dude runs up the road toward the bridge, frantically waving the satchel in the air.
 0027_The_Big_Lebowski_00.39.54.369-00.39.56.726 	he waves both arms as if conducting a symphony orchestra.
 0041_The_Sixth_Sense_00.19.31.928-00.19.32.930 	cole waves back.
-0043_Thelma_and_Luise_00.15.00.529-00.15.04.519 	she smiles and waves at him.
-0043_Thelma_and_Luise_00.42.06.324-00.42.07.079 	he smiles and waves.
-0043_Thelma_and_Luise_01.17.43.559-01.17.47.378 	as they get next to the truck, the truck driver is smiling and waving at them.
-0049_Hannah_and_her_sisters_00.07.56.746-00.07.59.782 	holly waves her napkin at april, then holds up her wine glass.
-0050_Indiana_Jones_and_the_last_crusade_01.08.04.044-01.08.07.040 	flags, banners and standards displaying the swastika are waved rhythmically from side to side in a motion that echoes the mounting frenzy of the enormous crowd.
 0050_Indiana_Jones_and_the_last_crusade_01.13.13.211-01.13.18.980 	everyone else with a ticket quickly produces it and waves it in indy's face.
 0050_Indiana_Jones_and_the_last_crusade_01.23.06.456-01.23.10.217 	sallah waves his arms and shouts to a camel herder.
 1002_Harry_Potter_and_the_Half-Blood_Prince_00.17.36.583-00.17.47.002 	bellatrix waves her wand, and a glowing cord binds the wrists together.
 1002_Harry_Potter_and_the_Half-Blood_Prince_00.47.45.614-00.47.48.498 	ron glances across at lavender who waves to him.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.53.42.659-00.53.49.938 	snape waves his wand and the necklace rises into the air.
 1002_Harry_Potter_and_the_Half-Blood_Prince_01.44.37.190-01.44.40.111 	it waves its vine-like tentacles.
-1003_How_to_Lose_Friends_and_Alienate_People_00.11.28.663-00.11.46.584 	tiles on the dance floor light up as he struts from one disinterested group of girls to another, waving his hands and moving his pelvis.
 1003_How_to_Lose_Friends_and_Alienate_People_01.03.13.064-01.03.14.542 	he waves to her daughters.
 1005_Signs_00.46.17.778-00.46.20.591 	and caroline stands in the road, waving her arms above her head.
 1005_Signs_01.20.13.037-01.20.15.485 	she waves lamely at morgan.
 1005_Signs_01.34.10.248-01.34.10.989 	caroline in the road waving her arms.
 1005_Signs_01.39.36.179-01.39.38.147 	and the expanse of gently waving maize plants beyond.
-1007_Spider-Man1_00.04.48.990-00.05.02.636 	as parker approaches mary jane, she smiles and waves, he waves shyly back only to find she was greeting to girl friends walking behind him.
 1009_Spider-Man3_00.43.29.343-00.43.34.605 	a marching band cuts through the workers waving placards and balloons.
-1009_Spider-Man3_00.55.31.774-00.55.36.497 	he spots simpering blonde gwen waving at him.
 1009_Spider-Man3_00.55.36.306-00.55.37.153 	he waves back.
 1009_Spider-Man3_00.56.37.038-00.56.37.740 	peter waves back.
 1010_TITANIC_00.36.09.082-00.36.10.645 	fabrizio waves his hand in front of jack's face.
 1010_TITANIC_01.01.38.874-01.01.39.785 	jack waves his hand.
-1010_TITANIC_01.06.41.434-01.06.42.444 	he waves rose over.
-1010_TITANIC_01.31.30.074-01.31.32.932 	rose raises her middle finger, then waves.
 1010_TITANIC_02.11.47.293-02.11.52.047 	he waves the gun at the group of men.
-1010_TITANIC_02.12.38.127-02.12.40.163 	he waves his revolver at men on the decks as they try to jump into the boat.
-1011_The_Help_00.34.38.696-00.34.40.466 	elizabeth waves to mae mobley and drives off.
-1011_The_Help_01.38.08.425-01.38.13.071 	she waves her away and takes another forkful.
 1012_Unbreakable_01.16.46.945-01.16.47.612 	he waves frantically.
-1017_Bad_Santa_01.17.03.626-01.17.05.423 	as he gets closer, he sees it's marcus waving a torch.
 1018_Body_Of_Lies_01.21.18.175-01.21.21.436 	she waves a white napkin.
 1018_Body_Of_Lies_01.43.08.530-01.43.10.628 	a soldier waves the van over.
 1018_Body_Of_Lies_01.49.38.641-01.49.48.602 	he waves his finger.
 1018_Body_Of_Lies_01.55.04.557-01.55.06.640 	al-saleem waves his hand and narrows his eyes.
-1019_Confessions_Of_A_Shopaholic_00.50.59.256-00.51.07.973 	breaking from his hold, she dances an improvise solo, waving the fan in front of her chest, her waist, and even her bottom.
-1019_Confessions_Of_A_Shopaholic_00.51.14.778-00.51.22.346 	suddenly, she disappears only to reappear behind him, swaying wildly from side to side, all the while waving the fan in front of her.
 1019_Confessions_Of_A_Shopaholic_01.15.53.467-01.15.57.682 	smeath waves the list of excuses at the studio audience.
-1019_Confessions_Of_A_Shopaholic_01.32.51.301-01.32.53.176 	the blonde, smiling coyly, waves the scarf at the applauding women.
 1020_Crazy_Stupid_Love_01.26.46.884-01.26.48.339 	he waves.
 1020_Crazy_Stupid_Love_01.50.59.647-01.51.01.973 	robbie waves back.
-1024_Identity_Thief_01.24.20.196-01.24.27.735 	she smiles and waves, shifting her timid gaze on the way to the bar.
-1027_Les_Miserables_01.36.25.918-01.36.34.535 	enjolras waves a red flag and climbs onto the street.
-1027_Les_Miserables_01.39.57.833-01.40.06.671 	enjolras climbs onto the top of the barricade and waves the flag.
-1028_No_Reservations_01.13.33.078-01.13.36.192 	christine is running along the beach, waving back at the camera, her jacket and scarf flapping behind her.
-1029_Pride_And_Prejudice_Disk_One_01.39.33.823-01.39.37.121 	he tries to cover up by waving his hands to the music.
 1030_Public_Enemies_00.58.10.382-00.58.13.402 	he waves two prisoners on.
-1030_Public_Enemies_01.30.36.409-01.30.43.669 	the fugitive waves a hand low, paces backward, and keeps his tommy gun under his coat.
 1031_Quantum_of_Solace_00.28.26.107-00.28.28.042 	he waves her over.
-1034_Super_8_00.40.03.478-00.40.13.451 	waving her arms around jerkily, she draws closer.
-1035_The_Adjustment_Bureau_00.47.35.250-00.47.40.717 	david jogs out into the opposite lane, waving high for another cab that passes him up.
 1035_The_Adjustment_Bureau_00.59.11.317-00.59.12.942 	she waves at david.
 1035_The_Adjustment_Bureau_01.02.30.398-01.02.33.518 	in the studio, david shakes jon stewart's hand, then waves to the audience.
-1037_The_Curious_Case_Of_Benjamin_Button_00.08.03.039-00.08.17.493 	fireworks illuminate the streets, which are filled with revelers waving american flags.
 1037_The_Curious_Case_Of_Benjamin_Button_00.28.31.570-00.28.34.822 	mr. oti waves to a tram.
 1037_The_Curious_Case_Of_Benjamin_Button_00.30.33.360-00.30.35.084 	he waves a crutch in the air as the tram glides off.
-1037_The_Curious_Case_Of_Benjamin_Button_01.32.43.692-01.32.52.602 	she straightens up then moves gracefully towards him, her arms waving above her head.
 1038_The_Great_Gatsby_00.34.40.668-00.34.44.025 	he waves, and nick waves back.
-1040_The_Ugly_Truth_00.45.15.153-00.45.16.090 	abby waves a giant foam hand that she picked up at the game.
-1040_The_Ugly_Truth_01.30.49.889-01.30.53.606 	he waves his hand dismissively at the pilot, who turns and looks the other way.
-1041_This_is_40_01.57.38.627-01.57.42.067 	holding out his middle finger, he waves a guy past.
 1041_This_is_40_02.04.17.435-02.04.19.037 	he waves.
 1042_Up_In_The_Air_01.26.26.040-01.26.27.518 	she waves her bouquet.
-1043_Vantage_Point_00.15.38.815-00.15.47.557 	the mayor waves to the crowd, then steps back from the lectern to welcome president ashton with a handshake.
-1043_Vantage_Point_00.25.10.468-00.25.12.276 	the spanish flags are waved.
-1043_Vantage_Point_00.45.45.426-00.45.48.723 	an inflatable skull and two skeleton hands are waved by protesters outside the plaza mayor.
 1043_Vantage_Point_00.47.05.115-00.47.10.722 	at the plaza, the crowd waves spanish flags as the secret service agents escort ashton's double to the podium.
-1043_Vantage_Point_01.21.49.013-01.21.50.537 	howard reaches out and waves as marie heads off holding anna, who waves back.
 1044_Pride_And_Prejudice_Disk_Two_00.18.49.831-00.18.51.498 	lizzie waves up at her and kitty.
-1044_Pride_And_Prejudice_Disk_Two_01.01.49.561-01.01.57.279 	later, as dusk is falling, a carriage pulls away from pemberley, waved off by mr. bingley, mr. darcy, and georgiana.
 1044_Pride_And_Prejudice_Disk_Two_01.52.48.549-01.52.53.651 	mrs. bennet waving a white handkerchief excitedly above her head.
-1044_Pride_And_Prejudice_Disk_Two_02.14.37.572-02.14.42.718 	mrs. bennet waves her handkerchief at him as mr. bingley sets off.
 1044_Pride_And_Prejudice_Disk_Two_02.35.15.031-02.35.19.698 	then the two carriages lurch away, the crowd of well wishers waving them off.
-1045_An_education_00.04.00.064-00.04.02.492 	she waves to an older fresh faced lad in the violin section.
-1046_Australia_00.47.07.654-00.47.17.000 	he waves to king george who starts to chant.
 1048_Gran_Torino_00.54.41.189-00.54.45.627 	he waves the three women and their food inside.
 1049_Harry_Potter_and_the_chamber_of_secrets_00.17.40.172-00.17.41.304 	she waves her wand.
 1049_Harry_Potter_and_the_chamber_of_secrets_00.26.36.388-00.26.38.234 	ron waves his wand desperately.
 1049_Harry_Potter_and_the_chamber_of_secrets_00.48.50.093-00.48.51.946 	ron waves his wand.
-1049_Harry_Potter_and_the_chamber_of_secrets_00.48.52.246-00.48.56.784 	scabbers becomes a goblet with a waving rat's tail.
 1049_Harry_Potter_and_the_chamber_of_secrets_01.18.55.523-01.18.58.325 	harry waves his wand.
 1049_Harry_Potter_and_the_chamber_of_secrets_02.12.38.430-02.12.41.400 	the serpent waves up behind harry.
-1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.04.04.800-00.04.12.168 	he waves his wand, and the gates evaporate allowing him to step through.
 1051_Harry_Potter_and_the_goblet_of_fire_00.09.07.264-00.09.13.124 	he hovers in front of a waving flag proclaming the name krum.
 1051_Harry_Potter_and_the_goblet_of_fire_00.45.55.541-00.46.01.952 	he waves to ginny, ron, and hermione.
 1053_Harry_Potter_and_the_philosophers_stone_00.13.07.000-00.13.10.000 	vernon waves a shotgun nervously.
 1053_Harry_Potter_and_the_philosophers_stone_00.26.08.048-00.26.10.252 	harry waves it.
 1053_Harry_Potter_and_the_philosophers_stone_00.26.35.950-00.26.36.673 	harry waves the second wand.
-1053_Harry_Potter_and_the_philosophers_stone_01.25.33.545-01.25.40.252 	she goes into the great hole, where tiny professor flitwick waves his wand and levitates decorations onto a tall christmas tree.
-1053_Harry_Potter_and_the_philosophers_stone_02.22.01.147-02.22.03.198 	harry sees hagrid waving goodbye.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_00.01.03.560-00.01.05.715 	he waves the wand over a spell book.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_01.28.44.059-01.28.50.868 	the whomping willow waves its branches menacingly.
-1055_Marley_and_me_00.54.37.633-00.54.42.733 	she notices the car, shows patrick, and waves to her husband, who waves back with a smile.
 1056_Rambo_00.51.27.217-00.51.33.373 	the guard waves them through, a cigarette ember glowing between his fingers.
 1057_Seven_pounds_00.33.24.693-00.33.30.979 	breakers crash on the beach where sarah waves up to ben.
 1057_Seven_pounds_00.38.11.038-00.38.14.174 	he waves to her and smiles.
-1057_Seven_pounds_01.26.26.000-01.26.28.570 	she waves her hand, motioning for him to come outside.
 1058_The_Damned_united_00.07.27.822-00.07.31.000 	he waves up at the footballers on the training field.
-1059_The_devil_wears_prada_01.03.30.000-01.03.34.091 	a man waves at miranda and turns to emily.
 1060_Yes_man_01.20.24.523-01.20.31.491 	waving his arms, carl swings back and forth beneath the giant, curved bridge supports.
 2004_Juno_00.11.27.928-00.11.29.228 	she mounts her bicycle and waves before riding off.
-2004_Juno_01.29.32.166-01.29.33.012 	she waves goodbye to bren, who is playing in the yard with two weimaraners.
 2005_Signs_00.14.37.665-00.14.38.638 	merill waves his arms.
-2017_Bad_Santa_00.31.55.303-00.32.02.513 	at the cut a new mercedes screeches through the frame and, as we hear it recede, we are left looking at the kid, who stands at the curb, waving happily.
-2027_Les_Miserables_01.36.27.613-01.36.30.983 	as the coffin on its carriage draws level with the students, enjolras suddenly steps out in front of the horses drawing the carriage and waves the red flag, stopping the horses and the procession.
-2054_Harry_Potter_and_the_prisoner_of_azkaban_00.16.54.173-00.16.54.944 	in the accompanying photo, the entire weasley family stands before the great pyramids, waving.
-2054_Harry_Potter_and_the_prisoner_of_azkaban_00.52.33.377-00.52.36.333 	snape waves the moth away, blows out a candle and a slide show begins.

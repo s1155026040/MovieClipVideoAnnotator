@@ -1,34 +1,14 @@
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS193 	00:17:05,00 --> 00:17:11,50 	the masked men charge up the stairs.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS215 	00:29:54,00 --> 00:30:07,50 	dodging it, the charging vampire reappears.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS281 	00:40:24,00 --> 00:40:31,50 	they both see a horse charging straight for them.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS322 	00:46:21,00 --> 00:46:37,50 	baring his newfound fangs, someone grabs his dagger and charges the vampire.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS389 	00:54:31,00 --> 00:54:40,50 	charging, they disappear.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS509 	01:11:39,00 --> 01:11:55,50 	swooping low, we find confederate soldiers charging recklessly over the grass as cannon balls touch down all around them.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS610 	01:25:46,00 --> 01:25:57,50 	someone charges someone, but gets knocked off his feet.
 BAD_TEACHER.srt 	BAD_TEACHER_DVS308 	01:22:47,00 --> 01:22:54,50 	someone's face contorts wrathfully and she charges someone.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS522 	01:33:20,00 --> 01:33:35,50 	someone fights off troopers as they charge toward him.
 COLOMBIANA.srt 	COLOMBIANA_DVS106 	00:08:41,00 --> 00:08:46,50 	the gunmen charge into the building.
-COLOMBIANA.srt 	COLOMBIANA_DVS1046 	01:38:34,00 --> 01:38:37,50 	he charges, grabbing her around the waist.
-DISTRICT_9.srt 	DISTRICT_9_DVS769 	01:31:03,00 --> 01:31:13,50 	someone looks up to see the robot shooting as it charges over.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS18 	00:06:19,00 --> 00:06:26,50 	the outside group charges past a donkey cart.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS596 	01:42:43,00 --> 01:43:17,50 	two more guards charge someone.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS626 	01:47:11,00 --> 01:47:29,50 	the drones fire their guns as they charge toward the two men.
-JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS289 	00:56:46,00 --> 00:56:54,50 	a tall curly-haired woman with big hips gawks, smiling as she charges.
-JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS145 	00:56:46,00 --> 00:56:54,50 	the black-haired pig charges them and they run.
-KARATE_KID.srt 	KARATE_KID_DVS1397 	01:52:31,00 --> 01:52:40,50 	on the mat, someone's opponent kicks someone in the shoulder, then charges him.
 KARATE_KID.srt 	KARATE_KID_DVS1452 	01:58:20,00 --> 01:58:40,50 	on the mat, someone ping charges his opponent again.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS184 	00:25:43,00 --> 00:25:49,50 	the penguins charge at him.
-MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS308 	00:39:50,00 --> 00:39:58,50 	frightened, the penguins charge the babysitter who runs out of the apartment leaving the front door open.
-PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS76 	00:19:34,00 --> 00:20:19,50 	someone pulls out the horn tip and stabs the charging beast in the chest.
 PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS130 	00:31:14,00 --> 00:31:20,50 	they charge through the woods with their swords in one hand and their shields in the other.
-PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS134 	00:31:42,00 --> 00:31:53,50 	a red soldier charges up and someone ducks his sword.
-PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS267 	01:08:35,00 --> 01:08:41,50 	someone reaches for the pearl, misses and faces the charging hydra.
-PROMETHEUS.srt 	PROMETHEUS_DVS1013 	01:50:48,00 --> 01:50:53,50 	charging, he backs her against a wall.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS50 	00:08:35,00 --> 00:08:52,50 	a group of armed lawmen follow behind, charging up a hill.
-SALT.srt 	SALT_DVS451 	01:17:50,00 --> 01:18:00,50 	as two agents draw closer, she charges.
 THE_CALL.srt 	THE_CALL_DVS1100 	01:22:43,00 --> 01:23:03,50 	he charges and tackles her to the ground.
 THE_WATCH.srt 	THE_WATCH_DVS56 	00:06:53,00 --> 00:06:57,50 	his pursuer charges him.
 THOR.srt 	THOR_DVS42 	00:04:45,00 --> 00:04:52,50 	the two armies charge into one another, swords and spears clashing in the ensuing chaos.
-TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS353 	00:39:25,00 --> 00:39:31,50 	as a player charges someone, someone starts over, then reads a message on the scoreboard.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS356 	00:39:33,00 --> 00:39:42,50 	the charging roughneck mows someone down.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS602 	01:09:27,00 --> 01:09:33,50 	then blast away several charging zombies.

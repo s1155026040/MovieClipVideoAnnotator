@@ -6,18 +6,10 @@ DEAR_JOHN.srt 	DEAR_JOHN_DVS700 	01:34:56,00 --> 01:35:01,50 	she buries her fac
 DEAR_JOHN.srt 	DEAR_JOHN_DVS778 	01:41:53,00 --> 01:41:59,50 	his face buried against her shoulder.
 EASY_A.srt 	EASY_A_DVS250 	01:16:47,00 --> 01:16:52,50 	someone buries his face in her shoulder.
 GROWN_UPS.srt 	GROWN_UPS_DVS187 	00:52:09,00 --> 00:52:15,50 	she buries herself under the covers.
-GROWN_UPS.srt 	GROWN_UPS_DVS199 	00:54:55,00 --> 00:55:03,50 	now someone stands by the suv composing a text message as someone sits buried inside
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS335 	01:04:45,00 --> 01:04:49,50 	she buries her face in his shoulder.
-MORNING_GLORY.srt 	MORNING_GLORY_DVS242 	00:52:47,00 --> 00:52:53,50 	someone buries her head in a cushion then sits upright.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS362 	00:45:39,00 --> 00:45:44,50 	someone buries her face in her gloved hands.
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS189 	00:46:39,00 --> 00:46:43,50 	someone buries his face in his mitt.
-SALT.srt 	SALT_DVS378 	01:07:24,00 --> 01:07:36,50 	she giggles and buries her face against the shoulder of someone's neatly pressed suit.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS309 	00:51:53,00 --> 00:51:59,50 	someone buries her chin in sister's shoulder.
 THE_CALL.srt 	THE_CALL_DVS1055 	01:19:36,00 --> 01:19:53,50 	she eyes them while someone buries his face in his shirt sleeve.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS202 	00:33:23,00 --> 00:33:31,50 	someone doubles over, burying her face in her hands as her husband looks on sympathetically.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS596 	01:27:57,00 --> 01:28:02,50 	then embraces her father, burying her face in his chest.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS470 	00:54:20,00 --> 00:54:27,50 	someone takes hold of her hips and buries his face between her butt cheeks.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS531 	01:11:27,00 --> 01:11:33,50 	someone moves with her, his face buried in her hair.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS76 	00:12:46,00 --> 00:12:53,50 	in the next sketch, a boy sits with his elbows on a table, his face buried in his hands.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS284 	00:44:56,00 --> 00:45:06,50 	she lies buried in stuffed animals.
 YOUNG_ADULT.srt 	YOUNG_ADULT_DVS256 	00:49:15,00 --> 00:49:20,50 	someone buries her face on someone's chest.

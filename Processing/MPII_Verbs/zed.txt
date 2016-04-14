@@ -1,26 +1,6 @@
-0019_Pulp_Fiction_01.38.53.020-01.39.00.107 	maynard and zed come through the curtains.
-0019_Pulp_Fiction_01.38.53.159-01.38.57.844 	zed walks in and stands in front of the two captives.
-0019_Pulp_Fiction_01.40.27.635-01.40.27.722 	maynard hands the gimp's leash to zed, then backs away.
-0019_Pulp_Fiction_01.40.39.705-01.40.40.193 	maynard hangs back while zed appraises the two men.
-0019_Pulp_Fiction_01.40.48.293-01.41.18.280 	zed continues his silent sing-song with his finger moving left to right, then it stops.
-0019_Pulp_Fiction_01.41.37.230-01.41.39.323 	zed stands up.
-0019_Pulp_Fiction_01.41.39.323-01.41.44.638 	zed grabs marsellus' chair and drags him into russell's old room.
 0019_Pulp_Fiction_01.45.42.126-01.45.43.203 	zed's hand inches toward the weapon.
-0019_Pulp_Fiction_01.46.16.661-01.46.19.837 	zed is blasted in the groin.
-0051_Men_in_black_00.24.21.894-00.24.39.177 	zed continues addressing the recruits.
 0051_Men_in_black_00.27.28.096-00.27.29.609 	zed looks into the gallery.
 0051_Men_in_black_00.28.15.570-00.28.17.378 	zed sighs.
-0051_Men_in_black_00.28.32.245-00.28.46.167 	zed and kay stand behind smoked glass, staring at the recruits, who are still in the shooting gallery, waiting for a decision.
-0051_Men_in_black_00.28.46.334-00.28.48.434 	zed turns and walks away.
-0051_Men_in_black_00.29.15.022-00.29.16.498 	the recruits follow zed out of the shooting gallery and into a long hallway.
 0051_Men_in_black_00.29.16.530-00.29.16.646 	zed motions them off to the left.
-0051_Men_in_black_00.29.33.337-00.29.33.688 	zed, addressing them, pulls a neuralyzer from his pocket.
-0051_Men_in_black_00.29.49.939-00.29.50.523 	dee and zed are there, much younger.
-0051_Men_in_black_00.37.10.531-00.37.15.245 	zed, who was standing up close to the screen, walks over to edwards, sizing him up.
-0051_Men_in_black_00.37.29.496-00.37.30.399 	zed's voice comes over.
-0051_Men_in_black_00.37.36.267-00.37.40.431 	zed's voice continues.
-0051_Men_in_black_00.39.26.849-00.39.27.379 	zed's office is a circular, windowed room elevated above the main floor of mib headquarters.
 0051_Men_in_black_00.39.27.554-00.39.29.466 	jay and kay sit across the desk from zed.
 0051_Men_in_black_00.39.53.338-00.39.54.821 	zed looks over at it.
-0051_Men_in_black_01.04.54.361-01.04.57.531 	zed is in his office.
-0051_Men_in_black_01.16.21.248-01.16.22.189 	kay and zed both look up at once, scowling.

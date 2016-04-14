@@ -1,0 +1,4 @@
+CHRONICLE.srt 	CHRONICLE_DVS73 	00:08:55,00 --> 00:09:11,50 	a guy wearing a brimmed hat steps down to the floor and confronts the cameraman.
+GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS45 	00:07:35,00 --> 00:07:40,50 	someone confronts him.
+ROBIN_HOOD.srt 	ROBIN_HOOD_DVS41 	00:08:51,00 --> 00:09:00,50 	she confronts an apple cheeked young woman in an elegant gown listening at
+WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS669 	01:33:29,00 --> 01:33:37,50 	the wedding planner confronts a server.

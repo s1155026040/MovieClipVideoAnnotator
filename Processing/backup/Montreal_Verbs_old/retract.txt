@@ -1,0 +1,11 @@
+A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS797 	01:20:03,00 --> 01:20:14,50 	someone quickly fires, then retracts behind a cement pillar.
+A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS911 	01:27:50,00 --> 01:27:55,50 	as the swirl of flames retracts,
+CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS577 	01:39:50,00 --> 01:40:02,50 	someone climbs up into the hold as the wheels retract.
+COLOMBIANA.srt 	COLOMBIANA_DVS867 	01:22:29,00 --> 01:22:36,50 	her foot retracts from view just as the swat team rounds the corner.
+FLIGHT.srt 	FLIGHT_DVS112 	00:22:12,00 --> 00:22:17,50 	one wheel gets stuck while retracting.
+IRON_MAN_2.srt 	IRON_MAN_2_DVS653 	01:49:41,00 --> 01:49:45,50 	the launcher retracts.
+PROMETHEUS.srt 	PROMETHEUS_DVS930 	01:42:10,00 --> 01:42:20,50 	as our view retracts through the star map a holographic line sets out from the gunner chair and targets hologram of the planet earth.
+ROBIN_HOOD.srt 	ROBIN_HOOD_DVS161 	00:39:45,00 --> 00:39:55,50 	someone offers the ring, then retracts it.
+UGLY_TRUTH.srt 	UGLY_TRUTH_DVS468 	00:57:27,00 --> 00:57:35,50 	someone reaches for it, but someone retracts it and feeds it to her himself.
+WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS762 	01:41:42,00 --> 01:41:51,50 	our view continues to retract over a neighboring rooftop, until it encompasses several city blocks worth of apartment buildings.
+ZOOKEEPER.srt 	ZOOKEEPER_DVS420 	01:31:25,00 --> 01:31:30,50 	our view retracts.

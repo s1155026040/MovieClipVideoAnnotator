@@ -8,57 +8,34 @@
 500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS131 	00:25:33,00 --> 00:25:37,50 	she picks up her file.
 500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS314 	00:56:35,00 --> 00:56:41,50 	someone picks up the cards and trudges slowly out of the office.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS358 	00:32:06,00 --> 00:32:11,50 	his son picks his handcuffs open.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS503 	00:48:53,00 --> 00:48:59,50 	his thugs pick up the men from the floor and set them back on their knees.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS583 	00:59:32,00 --> 00:59:39,50 	someone crouches by the passenger door of a maserati and attempts to pick the lock.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS622 	01:04:04,00 --> 01:04:12,50 	someone picks up a black leather jacket and puts it on, as someone dons a combat vest filled with grenades.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS625 	01:04:43,00 --> 01:04:50,50 	someone picks up an assault rifle and puts the strap over his head.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS626 	01:04:47,00 --> 01:04:53,50 	someone picks up a similar weapon and slings it over his shoulder.
-A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS112 	00:27:29,00 --> 00:27:37,50 	someone sets his briefcase on to a couch, then picks up an appointment book and writes.
-A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS123 	00:28:01,00 --> 00:28:09,50 	someone turns, strides across the room, picks up his briefcase, then turns back to face the tree.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS296 	00:54:51,00 --> 00:54:57,50 	someone picks up a breadstick, sniffs it, then bites into it.
-A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS298 	00:55:06,00 --> 00:55:15,50 	someone leans close to the blond woman, picks up a french fry from her plate, places it halfway into his mouth, then smiles at her.
-A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS299 	00:55:14,00 --> 00:55:22,50 	the two executives stare at someone, who picks up another breadstick and runs it across samantha's cheek,
-A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS414 	01:12:05,00 --> 01:12:11,50 	someone picks up the book, sits against the base of the tree and begins to read.
-A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS486 	01:23:04,00 --> 01:23:09,50 	someone sits at a desk and picks up jacks book.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS68 	00:07:25,00 --> 00:07:31,50 	he glances at the stranger then picks up his weapon and stumbles off.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS231 	00:32:50,00 --> 00:32:56,50 	taking a deep breath, she steps down and picks up his hat.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS477 	01:07:24,00 --> 01:07:31,50 	someone picks it up and opens it revealing someone's personalized inscription.
 BAD_TEACHER.srt 	BAD_TEACHER_DVS63 	00:19:13,00 --> 00:19:23,50 	she picks up a dolphin paperweight.
-BAD_TEACHER.srt 	BAD_TEACHER_DVS246 	01:07:23,00 --> 01:07:35,50 	she takes a sip then slowly picks up someone's cell phone.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS139 	00:20:26,00 --> 00:20:33,50 	the two would-be ladies pick up their bags and shuffle through a gate up some front steps.
 BLINDDATING.srt 	BLINDDATING_DVS67 	00:20:42,00 --> 00:20:46,50 	he picks up the check.
 BLINDDATING.srt 	BLINDDATING_DVS341 	01:21:45,00 --> 01:22:02,50 	he picks up the glasses and the battery pouch.
-BRUNO.srt 	BRUNO_DVS108 	00:23:33,00 --> 00:23:41,50 	ron someone stands, and picks up a newspaper.
-BRUNO.srt 	BRUNO_DVS141 	00:33:48,00 --> 00:33:56,50 	wearing an african robe, someone directs someone to pick up a package shaped like an elephant tusk.
 BURLESQUE.srt 	BURLESQUE_DVS166 	00:23:35,00 --> 00:23:39,50 	someone picks up the shot glasses.
 BURLESQUE.srt 	BURLESQUE_DVS200 	00:30:02,00 --> 00:30:06,50 	he picks her up.
 BURLESQUE.srt 	BURLESQUE_DVS273 	00:38:04,00 --> 00:38:09,50 	she picks up a thin makeup brush.
 BURLESQUE.srt 	BURLESQUE_DVS302 	00:41:02,00 --> 00:41:06,50 	he picks up a newspaper.
 BURLESQUE.srt 	BURLESQUE_DVS320 	00:44:03,00 --> 00:44:07,50 	he picks it up and unfolds it.
-BURLESQUE.srt 	BURLESQUE_DVS508 	01:10:20,00 --> 01:10:30,50 	someone sets down the paper and picks up a bank letter headed, notice of defaulted payment.
 BURLESQUE.srt 	BURLESQUE_DVS525 	01:13:18,00 --> 01:13:23,50 	she picks up her clutch purse.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS130 	00:22:26,00 --> 00:22:32,50 	he walks to the flag, picks it up, and then hands it to the corporal.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS135 	00:23:38,00 --> 00:23:44,50 	someone walks to the back of an ammo truck and picks up a grenade.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS150 	00:27:11,00 --> 00:27:16,50 	someone smiles, then motions for someone to pick up a glass.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS234 	00:40:42,00 --> 00:41:09,50 	someone picks up the cab door and uses it as a shield.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS265 	00:48:15,00 --> 00:48:24,50 	wearing a red, white, and blue costume and mask, someone picks up a shield decorated like the american flag and runs onstage.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS326 	01:01:46,00 --> 01:01:52,50 	someone, the asian-american gi, snaps a guard's neck as dernier, a balding man with a dark mustache, picks up a hydra blaster rifle.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS342 	01:03:39,00 --> 01:03:47,50 	in the control room, someone picks up a clear canister containing the glowing blue energy source as the timers continue to countdown.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS435 	01:18:50,00 --> 01:18:55,50 	she picks up a handgun and fires at the shield.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS438 	01:19:21,00 --> 01:19:26,50 	later, wearing a new captain america uniform and mask, someone picks up the round shield painted with a white star inside a blue circle surrounded by red and white bands.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS481 	01:24:49,00 --> 01:24:59,50 	someone picks up a shield as the trooper fires.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS496 	01:26:45,00 --> 01:26:50,50 	someone picks up utensils and cuts the steak.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS545 	01:36:21,00 --> 01:36:29,50 	as allied soldiers pour in, someone picks up a blaster and incinerates several of them before running off.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS598 	01:42:13,00 --> 01:42:20,50 	he picks up his shield and slides it onto his left forearm.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS606 	01:43:13,00 --> 01:43:32,50 	someone picks up his shield, but someone wrests it away and smacks someone across the face with it.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS619 	01:44:32,00 --> 01:44:37,50 	someone picks up the cube-shaped energy source.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS627 	01:45:17,00 --> 01:45:27,50 	someone picks up his shield and watches as the cube burns a hole through the deck, and plummets out of sight.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS650 	01:49:08,00 --> 01:49:16,50 	now, an underwater robot stretches out a claw and picks up the glowing blue energy cube off the ocean floor.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS654 	01:49:48,00 --> 01:49:54,50 	she picks up the classified file which is marked captain america,
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS85 	00:06:48,00 --> 00:06:53,50 	someone creeps in and picks up a bottle on her nightstand.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS120 	00:09:32,00 --> 00:09:38,50 	he grimaces then picks up the can, pouring it along the length of the crack.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS360 	00:33:53,00 --> 00:33:58,50 	someone picks up a large shovel.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS571 	00:55:20,00 --> 00:55:28,50 	paddling on a surfboard, the scowling boy faces a wave, bites his lip, and picks up his pace.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS732 	01:12:53,00 --> 01:12:58,50 	someone picks up someone's notebook.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS739 	01:13:31,00 --> 01:13:36,50 	someone backs away from him and picks up the notebook.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS822 	01:21:11,00 --> 01:21:18,50 	kneeling, someone picks up the pace and paddles with both hands in synchronized stokes.
@@ -70,10 +47,7 @@ CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS88 	00:16:14,00 --> 00:16:19,50 	he picks 
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS333 	01:23:47,00 --> 01:24:20,50 	picking up the roll of bills, she eyes him strangely.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS370 	01:31:28,00 --> 01:31:33,50 	someone picks up a newspaper.
 COLOMBIANA.srt 	COLOMBIANA_DVS368 	00:33:16,00 --> 00:33:24,50 	kneeling to the cell door, she picks the lock with her hairpin then tucks it back into her bun.
-COLOMBIANA.srt 	COLOMBIANA_DVS373 	00:33:41,00 --> 00:33:49,50 	he sets it by a monitor showing a view of a shadowy wall, then obliviously picks up his newspaper again.
-COLOMBIANA.srt 	COLOMBIANA_DVS569 	00:51:55,00 --> 00:52:01,50 	padding into the living area, she picks her dress up off the floor and pulls it on.
 COLOMBIANA.srt 	COLOMBIANA_DVS655 	01:01:28,00 --> 01:01:36,50 	stopping in front of the someone orchid, he picks it up and squints as he examines it.
-COLOMBIANA.srt 	COLOMBIANA_DVS667 	01:02:38,00 --> 01:02:45,50 	walking onto the glass, someone picks up the orchid and drops it into the pool.
 COLOMBIANA.srt 	COLOMBIANA_DVS732 	01:09:21,00 --> 01:09:26,50 	spotting the plush gift, someone picks it up.
 COLOMBIANA.srt 	COLOMBIANA_DVS1042 	01:38:21,00 --> 01:38:27,50 	as she picks up another, he yanks her to her feet.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS172 	00:27:03,00 --> 00:27:14,50 	someone trots ahead a few paces and bends to pick up a seashell.
@@ -81,97 +55,59 @@ DEAR_JOHN.srt 	DEAR_JOHN_DVS201 	00:31:49,00 --> 00:31:58,50 	he picks up the pl
 DEAR_JOHN.srt 	DEAR_JOHN_DVS203 	00:32:07,00 --> 00:32:12,50 	his father picks at his food.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS247 	00:39:01,00 --> 00:39:05,50 	she picks him up and twirls.
 DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS85 	00:19:24,00 --> 00:19:28,50 	he picks up a box.
-DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS159 	00:37:48,00 --> 00:38:02,50 	wearing a pair of orange boxer shorts, someone picks up a piece of fruit from the coffee table and bites into it.
 DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS241 	00:59:41,00 --> 00:59:46,50 	someone picks some photographs up off the floor.
-DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS250 	01:00:57,00 --> 01:01:03,50 	someone picks up someone's mobile by mistake and goes out.
 DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS329 	01:18:57,00 --> 01:19:03,50 	he picks up a mouse-sized top hat
 DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS409 	01:41:55,00 --> 01:42:00,50 	the vulture picks the finger up.
 DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS411 	01:42:30,00 --> 01:42:35,50 	he picks up a bottle of wine.
-DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS419 	01:43:17,00 --> 01:43:23,50 	he jogs over to a card on a table, picks it up and reads it.
 DISTRICT_9.srt 	DISTRICT_9_DVS444 	00:49:56,00 --> 00:50:01,50 	two aliens pick through the garbage.
 DISTRICT_9.srt 	DISTRICT_9_DVS650 	01:16:10,00 --> 01:16:33,50 	someone wipes his mouth, then picks up the canister.
-FLIGHT.srt 	FLIGHT_DVS189 	00:43:54,00 --> 00:44:01,50 	cigarette hanging out of his mouth, the man picks up the iv pole and walks downstairs.
-FLIGHT.srt 	FLIGHT_DVS346 	00:57:46,00 --> 00:57:50,50 	he picks it up, and takes a drink.
 FLIGHT.srt 	FLIGHT_DVS350 	00:57:51,00 --> 00:57:56,50 	he smacks his lips, picks up the glass again, and drains the contents.
-FLIGHT.srt 	FLIGHT_DVS383 	01:01:41,00 --> 01:01:46,50 	as someone lies back with a pack of ice on his knee, he picks up a glass of whisky.
 FLIGHT.srt 	FLIGHT_DVS385 	01:02:08,00 --> 01:02:12,50 	she picks up a cushion.
 FLIGHT.srt 	FLIGHT_DVS509 	01:13:28,00 --> 01:13:34,50 	he places a cigarette in his mouth, and picks up her camera.
 FLIGHT.srt 	FLIGHT_DVS510 	01:13:44,00 --> 01:13:50,50 	he picks up a book from the coffee table between them.
 FLIGHT.srt 	FLIGHT_DVS685 	01:32:45,00 --> 01:32:51,50 	he trods over to the table and picks up the envelope.
-FLIGHT.srt 	FLIGHT_DVS687 	01:32:49,00 --> 01:32:54,50 	he picks it up and opens it.
 FLIGHT.srt 	FLIGHT_DVS689 	01:33:02,00 --> 01:33:08,50 	he picks up the bottle, and throws it hard across the room.
-FLIGHT.srt 	FLIGHT_DVS883 	01:43:56,00 --> 01:44:01,50 	he picks up a can of coke, and goes over to the fridge.
 FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS168 	00:46:35,00 --> 00:46:40,50 	they pick through clothes, strewn about the room.
-FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS196 	00:52:37,00 --> 00:52:48,50 	as someone picks up his cell phone, his date lifts his arm, smells his armpit and licks his tricep.
 FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS316 	01:23:15,00 --> 01:23:20,50 	someone picks up a game controller.
 GET_HIM_TO_THE_GREEK.srt 	GET_HIM_TO_THE_GREEK_DVS79 	00:45:17,00 --> 00:45:23,50 	in a luxurious bed by a glimmering pool she picks up her cellphone.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS145 	00:22:53,00 --> 00:22:59,50 	someone picks up his phone and puts it to his ear.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS449 	01:04:15,00 --> 01:04:23,50 	crouching over one of the dead, someone picks up his cross necklace.
-GREEN_ZONE.srt 	GREEN_ZONE_DVS151 	00:39:28,00 --> 00:39:39,50 	someone glances at pots, then walks over to the prosthetic leg, picks it up and hands it to someone.
 GROWN_UPS.srt 	GROWN_UPS_DVS116 	00:37:21,00 --> 00:37:29,50 	he spots someone picking up a rock near the lake.
 HUGO.srt 	HUGO_DVS81 	00:10:36,00 --> 00:10:41,50 	he picks up one gear and compares it to a drawing,
-HUGO.srt 	HUGO_DVS209 	00:31:18,00 --> 00:31:26,50 	stepping forward, someone picks up a screwdriver and adjusts the toy's wind-up mechanism.
 HUGO.srt 	HUGO_DVS214 	00:31:50,00 --> 00:31:56,50 	someone picks up the mouse, inserts a key, and winds it up.
-HUGO.srt 	HUGO_DVS272 	00:39:56,00 --> 00:40:02,50 	taking out a set of small tools, someone picks the lock.
-HUGO.srt 	HUGO_DVS360 	00:55:10,00 --> 00:55:15,50 	someone picks up the drawing and stares at it.
-HUGO.srt 	HUGO_DVS440 	01:03:59,00 --> 01:04:06,50 	crouching, someone quickly picks up the books then stands and faces the bearded bookseller.
-HUGO.srt 	HUGO_DVS523 	01:17:27,00 --> 01:17:33,50 	the inspector turns and picks up the wrench then stares up at the clock.
 HUGO.srt 	HUGO_DVS562 	01:23:04,00 --> 01:23:08,50 	he picks up the key and examines it.
 HUGO.srt 	HUGO_DVS658 	01:34:57,00 --> 01:35:03,50 	he picks up a metal hoop, then slides it up the pole, and over someone.
 HUGO.srt 	HUGO_DVS693 	01:41:08,00 --> 01:41:18,50 	someone picks up a prop of the man in the moon and throws it onto the bonfire.
 HUGO.srt 	HUGO_DVS718 	01:46:22,00 --> 01:46:27,50 	someone picks the cages lock with a tool.
 IN_TIME.srt 	IN_TIME_DVS501 	00:54:15,00 --> 00:54:21,50 	he guides her to a bank of pay phones and picks up a receiver.
 IN_TIME.srt 	IN_TIME_DVS854 	01:30:23,00 --> 01:30:32,50 	someone picks up her gun and strides up to her father.
-INSIDE_MAN.srt 	INSIDE_MAN_DVS65 	00:17:46,00 --> 00:17:54,50 	the mastermind enters a nearby office and picks up a cell phone from behind the open door.
-INSIDE_MAN.srt 	INSIDE_MAN_DVS99 	00:26:19,00 --> 00:26:32,50 	the pony-tailed client picks up a metal briefcase and follows the assistant out.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS175 	00:50:16,00 --> 00:50:37,50 	someone picks up the box.
-INSIDE_MAN.srt 	INSIDE_MAN_DVS185 	00:52:55,00 --> 00:53:12,50 	while his hostage eats, someone reaches forward and picks up the handheld video game.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS253 	01:18:21,00 --> 01:18:31,50 	the detective dials and someone picks up a headset.
-INSIDE_MAN.srt 	INSIDE_MAN_DVS254 	01:18:31,00 --> 01:18:43,50 	the mastermind enters the secured office, approaches the desk and picks up the phone.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS277 	01:25:42,00 --> 01:25:47,50 	as someone picks up the receiver, someone and someone lean close.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS380 	01:51:15,00 --> 01:51:20,50 	he picks up a velvet pouch.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS40 	00:04:49,00 --> 00:04:57,50 	someone smiles as he stares down at the glowing device, which emits a bright beam of light as he picks it up.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS104 	00:20:22,00 --> 00:20:26,50 	someone picks up a framed drawing of iron man.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS220 	00:42:17,00 --> 00:42:22,50 	someone stands, picks up the tray, and grabs a note lying on it.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS224 	00:42:31,00 --> 00:42:38,50 	someone picks up a white potato-like ball of putty from the tray and turns it over.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS250 	00:46:28,00 --> 00:46:36,50 	someone picks up a bottle of vodka and taps it against someone's glass.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS263 	00:48:38,00 --> 00:48:44,50 	someone picks up his arc reactor from the desk and ejects a half-melted ingot.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS314 	00:57:16,00 --> 00:57:28,50 	someone picks up a barbell, shakes off the weights and hits someone with the metal bar.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS379 	01:11:45,00 --> 01:11:50,50 	someone puts down a gun and picks up a small black box.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS385 	01:12:54,00 --> 01:13:03,50 	he picks up a rolled-up blueprint from inside the crate.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS386 	01:13:00,00 --> 01:13:10,50 	he picks up an old newspaper's front page.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS395 	01:14:16,00 --> 01:14:22,50 	a young man picks up young someone and carries him off.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS676 	01:51:47,00 --> 01:51:58,50 	someone speeds down, picks up pepper, and zooms off as the nearby drone, as well as the other drones, explode.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS694 	01:54:24,00 --> 01:54:30,50 	someone picks up the folder.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS704 	01:56:28,00 --> 01:56:33,50 	someone picks up another medal and approaches someone.
-ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS105 	00:33:36,00 --> 00:33:41,50 	he goes to kiss her then picks her up instead.
-JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS125 	00:21:37,00 --> 00:21:50,50 	she picks up a ribbon and pulls one end through the other with a dissatisfied pout.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS328 	01:03:38,00 --> 01:03:45,50 	later, outside their villa, someone picks up mail from their concierge.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS403 	01:18:15,00 --> 01:18:20,50 	she briskly strides to the phone and picks up.
-JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS416 	01:21:14,00 --> 01:21:21,50 	he grabs his coat from a hook, picks up his bag, and hurries downstairs.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS473 	01:31:54,00 --> 01:32:02,50 	someone picks up the cordless phone and dials.
-JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS547 	01:48:50,00 --> 01:49:02,50 	someone exhales wearily through pursed lips, then picks up the box containing the manuscript and leans back in her chair.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS618 	01:58:17,00 --> 01:58:22,50 	she picks up a wooden spoon and stirs the stew.
 JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS90 	00:34:11,00 --> 00:34:17,50 	the girl picks up her slice and winces at it.
-JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS164 	00:59:45,00 --> 00:59:52,50 	she picks her way over some jagged rocks, and stands beneath the waterfall.
 JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS169 	01:00:39,00 --> 01:00:45,50 	someone picks her way out to a rocky point.
 JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS202 	01:11:35,00 --> 01:11:44,50 	someone happily picks up someone.
 JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS323 	01:43:24,00 --> 01:43:32,50 	as someone hugs her, someone spies someone helping her kids pick out clothes in a gift shop.
 KARATE_KID.srt 	KARATE_KID_DVS103 	00:09:35,00 --> 00:09:41,50 	someone stifles an amused grin and picks up the jacket herself.
 KARATE_KID.srt 	KARATE_KID_DVS166 	00:13:56,00 --> 00:14:05,50 	a ping-pong ball bounces toward someone and he picks it up.
 KARATE_KID.srt 	KARATE_KID_DVS201 	00:17:21,00 --> 00:17:31,50 	someone picks up the sheet music.
-KARATE_KID.srt 	KARATE_KID_DVS202 	00:17:29,00 --> 00:17:35,50 	as the girl starts to put her violin away, someone picks up the music again.
-KARATE_KID.srt 	KARATE_KID_DVS290 	00:25:57,00 --> 00:26:04,50 	he picks it up, takes careful aim, and flicks it.
 KARATE_KID.srt 	KARATE_KID_DVS292 	00:26:04,00 --> 00:26:10,50 	frowning, someone picks up the toothpaste cap on his way to the bathroom.
 KARATE_KID.srt 	KARATE_KID_DVS304 	00:27:28,00 --> 00:27:32,50 	someone picks up his jacket.
 KARATE_KID.srt 	KARATE_KID_DVS348 	00:31:19,00 --> 00:31:24,50 	the shorthaired boy picks it up.
-KARATE_KID.srt 	KARATE_KID_DVS362 	00:32:19,00 --> 00:32:24,50 	she picks up a remote and turns the tv off.
-KARATE_KID.srt 	KARATE_KID_DVS717 	01:00:01,00 --> 01:00:06,50 	drops it on the ground, picks it up, and hangs it.
-KARATE_KID.srt 	KARATE_KID_DVS853 	01:10:22,00 --> 01:10:30,50 	he pulls the garment down, flings it to the ground, then picks it up and whirls it around his shoulders.
-KARATE_KID.srt 	KARATE_KID_DVS1180 	01:37:04,00 --> 01:37:09,50 	someone leans closer, then picks the scrap up,
 KATY_PERRY_PART_OF_ME.srt 	KATY_PERRY_PART_OF_ME_DVS277 	01:04:25,00 --> 01:04:30,50 	someone picks up her cellphone.
 KNOCKED_UP.srt 	KNOCKED_UP_DVS162 	01:43:22,00 --> 01:43:26,50 	he picks up.
-LAND_OF_THE_LOST.srt 	LAND_OF_THE_LOST_DVS16 	00:06:45,00 --> 00:06:53,50 	he puts down a stack of papers, and picks up the prehistoric rock, which shows a familiar indentation.
 LAND_OF_THE_LOST.srt 	LAND_OF_THE_LOST_DVS71 	00:22:34,00 --> 00:22:39,50 	they swing back and forth, picking up momentum.
 LAND_OF_THE_LOST.srt 	LAND_OF_THE_LOST_DVS215 	01:17:03,00 --> 01:17:08,50 	he picks up a rock and throws it at her.
 LAND_OF_THE_LOST.srt 	LAND_OF_THE_LOST_DVS263 	01:36:18,00 --> 01:36:26,50 	as the overhead lights dim, an assistant picks up the egg.
@@ -179,25 +115,16 @@ LARRY_CROWNE.srt 	LARRY_CROWNE_DVS19 	00:06:35,00 --> 00:06:41,50 	the beefy exe
 LARRY_CROWNE.srt 	LARRY_CROWNE_DVS131 	00:30:25,00 --> 00:30:30,50 	and picks lint of his shirt.
 LARRY_CROWNE.srt 	LARRY_CROWNE_DVS239 	00:57:14,00 --> 00:57:26,50 	she picks up a fistful of pebbles from a tree planter, hurls them after the departing car, then staggers off.
 LARRY_CROWNE.srt 	LARRY_CROWNE_DVS285 	01:08:00,00 --> 01:08:23,50 	picking up a key, he eyes a handwritten tag tied to it with string, then throws it in the file.
-LARRY_CROWNE.srt 	LARRY_CROWNE_DVS299 	01:11:24,00 --> 01:11:30,50 	picking up a notebook, she heads to the back of the classroom.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS420 	00:48:57,00 --> 00:49:02,50 	he drops to all fours and picks up the bucket.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS451 	00:51:34,00 --> 00:51:40,50 	the orangutan picks it up, turning it in her hands and feet as she examines it.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS473 	00:53:14,00 --> 00:53:19,50 	standing, someone picks up the oar.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS957 	01:34:48,00 --> 01:34:55,50 	he picks himself up onto his knees and pulls from the boat the grappling tool attached to a rope.
 LITTLE_FOCKERS.srt 	LITTLE_FOCKERS_DVS63 	00:22:11,00 --> 00:22:15,50 	someone picks up his glass.
-MORNING_GLORY.srt 	MORNING_GLORY_DVS138 	00:32:53,00 --> 00:32:58,50 	he picks up a newspaper and sits down.
 MORNING_GLORY.srt 	MORNING_GLORY_DVS209 	00:48:01,00 --> 00:48:06,50 	someone picks up her skirt
 MORNING_GLORY.srt 	MORNING_GLORY_DVS277 	01:01:24,00 --> 01:01:30,50 	she picks up her laptop and jogs off.
 MORNING_GLORY.srt 	MORNING_GLORY_DVS472 	01:39:27,00 --> 01:39:32,50 	someone bends down to pick something up.
-MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS90 	00:13:29,00 --> 00:13:34,50 	he carefully grabs the penguin by the waist and picks it up.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS165 	00:23:49,00 --> 00:23:54,50 	he picks up the tv remote.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS410 	00:47:52,00 --> 00:47:58,50 	he picks the penguin up and it poops in the toilet.
-MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS412 	00:48:05,00 --> 00:48:10,50 	he picks up another penguin and holds it over the toilet.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS78 	00:17:38,00 --> 00:17:42,50 	someone picks a leaf from her
-NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS175 	00:39:43,00 --> 00:39:56,50 	someone summons a breath, picks up her gnarled walking stick, and faces the girl.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS253 	00:52:54,00 --> 00:54:08,50 	with a faint smile, the city girl picks up the dainty blouse which bears small blue toned polka dots.
-NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS323 	01:11:23,00 --> 01:11:36,50 	lord someone stares downward, picks up his glasses, then lifts his gaze thoughtfully to the boys before him.
-NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS263 	00:47:16,00 --> 00:47:21,50 	smiling bitterly he picks up his sneakers.
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS133 	00:35:01,00 --> 00:35:08,50 	someone picks up her choice.
 PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS357 	01:28:48,00 --> 01:28:56,50 	he picks up a globe made of bones and smashes it on the ground.
 PROMETHEUS.srt 	PROMETHEUS_DVS106 	00:06:21,00 --> 00:06:28,50 	he picks his way carefully over the rocky floor and joins the woman at her side.
@@ -206,31 +133,21 @@ PROMETHEUS.srt 	PROMETHEUS_DVS668 	01:12:21,00 --> 01:12:26,50 	he picks up a re
 PROMETHEUS.srt 	PROMETHEUS_DVS834 	01:30:23,00 --> 01:30:31,50 	she picks up holloway's ring, studies it, then slides it the ring finger of her left hand.
 PROMETHEUS.srt 	PROMETHEUS_DVS862 	01:34:37,00 --> 01:34:42,50 	he picks up a helmet.
 PROMETHEUS.srt 	PROMETHEUS_DVS1057 	01:55:53,00 --> 01:56:02,50 	someone picks up his head in both hands.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS258 	00:48:44,00 --> 00:49:19,50 	someone picks up a suitcase and heads off with someone.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS410 	01:19:16,00 --> 01:19:28,50 	baby face picks up two cash bundles and tosses one to someone.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS430 	01:22:11,00 --> 01:22:21,50 	someone picks up his pocket watch off the nightstand, opens it, and admires a photo of someone on the inside of the cover.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS588 	01:49:34,00 --> 01:49:40,50 	they pick up their drinks and share another glance.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS278 	01:06:23,00 --> 01:06:47,50 	he picks up someone's sword and eyes the inscription on the hilt - until lambs become lions.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS308 	01:14:31,00 --> 01:14:42,50 	someone strides back to his bucket, picks it up and splashes water in the sleeping men.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS365 	01:30:38,00 --> 01:31:05,50 	later, in someone's bed chamber, two mice forage a table of picked over food.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS444 	01:50:00,00 --> 01:50:04,50 	someone and someone pick off frenchmen.
-RUBY_SPARKS.srt 	RUBY_SPARKS_DVS113 	00:20:21,00 --> 00:20:27,50 	he steps around his staircase and picks up the manuscript.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS173 	00:28:39,00 --> 00:28:46,50 	he freezes then precedes to the foyer where he picks up his keys and wallet.
-RUBY_SPARKS.srt 	RUBY_SPARKS_DVS352 	00:57:27,00 --> 00:57:33,50 	the mother picks up a photo album lying on the table.
-RUBY_SPARKS.srt 	RUBY_SPARKS_DVS565 	01:25:47,00 --> 01:25:53,50 	someone watches her pick up a book with her teeth and fling it.
-RUBY_SPARKS.srt 	RUBY_SPARKS_DVS634 	01:31:25,00 --> 01:31:30,50 	he picks up the stack as he stands upright.
 SALT.srt 	SALT_DVS40 	00:08:11,00 --> 00:08:23,50 	someone picks up a pack of cigarettes and an ashtray then inserts a small radio receiver into her ear.
 SALT.srt 	SALT_DVS154 	00:26:54,00 --> 00:27:17,50 	creeping to the living room, she pauses in a doorway to pick up a pair of boots.
-SALT.srt 	SALT_DVS184 	00:32:06,00 --> 00:32:14,50 	someone smiles, watching the spider pick its way up to a twig housing its web.
 SALT.srt 	SALT_DVS456 	01:18:26,00 --> 01:18:31,50 	a general picks up a red handled phone.
 SANCTUM.srt 	SANCTUM_DVS170 	00:34:43,00 --> 00:35:00,50 	sweeping his gaze around the cave, he wipes his mouth the back of his hand then picks up a flashlight.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS59 	00:04:12,00 --> 00:04:17,50 	she stirs, wakes, and picks up the cellphone.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS600 	00:39:57,00 --> 00:40:08,50 	now, a woman with a cloth over her nose and mouth uses a stick to pick up an article of clothing from a pile and drop it into a small fire burning in the middle of a patio.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS773 	00:51:58,00 --> 00:52:06,50 	she sets a few file aside, picks up a document, then leans back in her chair and reads.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS889 	00:58:19,00 --> 00:58:23,50 	he picks someone up.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS915 	00:59:36,00 --> 00:59:40,50 	the butcher picks up a boy.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS37 	00:07:33,00 --> 00:07:42,50 	someone rubs a dusty arabian oil lamp, then picks it up.
-SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS42 	00:08:33,00 --> 00:08:49,50 	he gently picks it up and sets it in the palm of his hand.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS44 	00:09:10,00 --> 00:09:25,50 	he returns to someone and hesitantly picks up the dragon.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS51 	00:10:42,00 --> 00:10:57,50 	upstairs, someone picks up the nesting doll and studies the painting of someone's unhappy face.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS139 	00:25:59,00 --> 00:26:03,50 	someone picks up a pigeon.
@@ -246,75 +163,43 @@ SPARKLE_2012.srt 	SPARKLE_2012_DVS617 	01:40:01,00 --> 01:40:09,50 	her daughter
 SUPER_8.srt 	SUPER_8_DVS139 	00:21:06,00 --> 00:21:11,50 	small white cubes litter the ground, someone picks up one of them.
 SUPER_8.srt 	SUPER_8_DVS147 	00:22:53,00 --> 00:23:01,50 	someone jumps back then stoops and picks up the paper.
 SUPER_8.srt 	SUPER_8_DVS159 	00:24:50,00 --> 00:24:58,50 	he stoops and picks up an empty super 8 film box, then with his brow furrowed stares after the car.
-SUPER_8.srt 	SUPER_8_DVS276 	00:47:37,00 --> 00:47:43,50 	elsewhere, someone picks up clothes off the floor as someone steps into his bedroom.
 SUPER_8.srt 	SUPER_8_DVS277 	00:48:01,00 --> 00:48:08,50 	he picks up a model train car and hands it to someone.
 SUPER_8.srt 	SUPER_8_DVS328 	00:59:05,00 --> 00:59:11,50 	the baby cries and the woman picks him up and cradles him in her arms.
-SUPER_8.srt 	SUPER_8_DVS343 	01:01:47,00 --> 01:01:54,50 	someone picks up a paintbrush and prods the vibrating cube then glances at someone.
 SUPER_8.srt 	SUPER_8_DVS592 	01:36:58,00 --> 01:37:02,50 	the creature picks up someone.
-SUPER_8.srt 	SUPER_8_DVS659 	01:45:32,00 --> 01:45:37,50 	as someone leaves preston picks up the phone.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS40 	00:04:37,00 --> 00:04:43,50 	strolling through the crowd, the man deftly picked several people's pockets.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS70 	00:09:40,00 --> 00:09:47,50 	someone picks up the broken ship.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS119 	00:17:57,00 --> 00:18:03,50 	he picks up the thin metal tube lying against the floor molding.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS136 	00:20:38,00 --> 00:20:44,50 	someone picks up the newspaper, which is covered with bloody fingerprints.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS204 	00:29:37,00 --> 00:29:45,50 	the burly thug picks up a cork.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS231 	00:35:48,00 --> 00:35:57,50 	someone glances at snowy then picks up the dog and holds him out toward the keys.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS255 	00:38:18,00 --> 00:38:24,50 	he picks up the sandwich in his jaws, but the rat tugs at the other end.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS292 	00:42:04,00 --> 00:42:14,50 	someone picks it up.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS330 	00:51:13,00 --> 00:51:18,50 	snowy sticks his head out of a window as the plane picks up speed.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS362 	00:54:44,00 --> 00:54:50,50 	someone is thrown back onto the windshield as the plane picks up speed.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS423 	01:01:06,00 --> 01:01:14,50 	sir someone picks up a piece of burning wood and lights a cannon, causing it to shoot backward and knock several pirates overboard.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS442 	01:04:33,00 --> 01:04:43,50 	someone picks up snowy.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS589 	01:20:43,00 --> 01:20:48,50 	someone picks up a rocket launcher, hitting the guard as he stands.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS684 	01:31:58,00 --> 01:32:03,50 	someone picks up a metal bar.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS142 	00:31:28,00 --> 00:31:37,50 	someone picks up a card reading, new year's eve party.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS171 	00:34:50,00 --> 00:34:58,50 	crossing the street, someone picks up her pace as she finds her lost friend.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS102 	00:20:06,00 --> 00:20:22,50 	now, in someone's pink-tiled bathroom, someone searches a vanity then picks through dirty laundry strewn around the tub.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS417 	01:18:40,00 --> 01:18:44,50 	someone picks up the phone.
-THE_CALL.srt 	THE_CALL_DVS920 	01:10:34,00 --> 01:10:40,50 	someone picks up a green rubber glove, then drops it disgustedly.
 THE_CALL.srt 	THE_CALL_DVS949 	01:13:05,00 --> 01:13:11,50 	bending over, she picks up a piece of someone's disposable phone.
-THE_CALL.srt 	THE_CALL_DVS974 	01:14:39,00 --> 01:14:47,50 	she looks deeper into the chamber as she picks up her phone and swings her flashlight around to survey a narrow hallway.
-THE_CALL.srt 	THE_CALL_DVS993 	01:16:06,00 --> 01:16:13,50 	someone stares off, then picks up a large bucket and goes back to the well-lit room.
 THE_CALL.srt 	THE_CALL_DVS1022 	01:18:03,00 --> 01:18:09,50 	someone spies him through the crack as he picks up the mannequin head.
 THE_CALL.srt 	THE_CALL_DVS1100 	01:22:43,00 --> 01:23:03,50 	with his gloved hands, he picks her up by the collar and slams her into the wall.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS137 	00:23:11,00 --> 00:23:17,50 	someone steps away, picks up a skimmer, and scoops some of the leaves out.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS305 	00:46:32,00 --> 00:46:38,50 	he straightens, picking up a teddy bear from the bed.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS142 	00:14:18,00 --> 00:14:26,50 	the snow picks up again as the car turns down a road bordered with tall skeletal trees.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS263 	00:31:47,00 --> 00:31:53,50 	he picks up a marker and highlights a line on someone's notes.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS401 	00:47:32,00 --> 00:47:37,50 	he picks up her bag and hands it to her.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS543 	01:01:14,00 --> 01:01:22,50 	as he picks up the materials he notices a stack of 8 x 10 photos sticking out of an envelope.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS603 	01:06:40,00 --> 01:06:46,50 	going to the bedroom door, someone picks up his pants.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS639 	01:09:38,00 --> 01:09:42,50 	he picks up her suitcase.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS655 	01:11:23,00 --> 01:11:32,50 	then puts on his reading glasses, picks up someone's bible and flips to leviticus chapters 3-4.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS726 	01:20:37,00 --> 01:20:45,50 	at the cottage, someone picks up the cat's bowl from outside the front door and looks out over the yard.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS841 	01:35:25,00 --> 01:35:32,50 	moving to a box of books he picks up a children's paperback and flips through it.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS924 	01:42:50,00 --> 01:42:55,50 	picking them up, he gives an imploring stare.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1305 	02:19:13,00 --> 02:19:17,50 	he picks up a thick file.
-THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS93 	00:33:44,00 --> 00:33:51,50 	she then reaches for the bedside table and picks up a small packet.
 THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS173 	00:58:12,00 --> 00:58:18,50 	someone readies a napkin and picks the greens off her plate.
-THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS229 	01:14:49,00 --> 01:14:55,50 	he picks up his briefcase and follows the man through the partition doors.
-THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS278 	01:31:32,00 --> 01:31:39,50 	someone picks up his briefcase and walks off into the bustling crowd.
-THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS96 	00:31:07,00 --> 00:31:35,50 	the young man picks it up and stares at his name on the front, then flips it over and finds a wax seal over the flap.
 THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS269 	01:42:15,00 --> 01:42:22,50 	someone picks up a contract and reads.
-THE_VOW.srt 	THE_VOW_DVS225 	00:28:39,00 --> 00:28:45,50 	she picks up a bottle of perfume, and gives it a sniff.
 THE_VOW.srt 	THE_VOW_DVS292 	00:38:06,00 --> 00:38:12,50 	he picks it up and checks its display,
-THE_VOW.srt 	THE_VOW_DVS444 	01:04:01,00 --> 01:04:09,50 	now, at home, someone puts on a dark blazer over a muted blue button down, then picks up a tie.
-THE_VOW.srt 	THE_VOW_DVS618 	01:24:45,00 --> 01:24:51,50 	the feline shows no interest in the food, but lets someone pick him up.
 THE_WATCH.srt 	THE_WATCH_DVS30 	00:04:46,00 --> 00:04:52,50 	in the pharmacy, he picks out a medicine bottle and eats a few pills.
-THE_WATCH.srt 	THE_WATCH_DVS259 	00:48:34,00 --> 00:48:39,50 	someone finds an abandoned cellphone on the ground and picks it up.
-THE_WATCH.srt 	THE_WATCH_DVS303 	00:54:04,00 --> 00:54:11,50 	someone picks up billiard balls and the alien faces him.
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS24 	00:05:02,00 --> 00:05:10,50 	i'll pick up some pizza on the way home.
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS168 	00:42:57,00 --> 00:43:02,50 	he picks her up with her knees straddling his waist.
-THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS373 	01:29:08,00 --> 01:29:16,50 	finding a photo of someone as a boy, dressed in a football uniform and posing on one knee, she picks it up.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS93 	00:14:59,00 --> 00:15:04,50 	the burly man picks someone up.
 THOR.srt 	THOR_DVS50 	00:05:30,00 --> 00:05:35,50 	a warrior picks up the glowing box.
 THOR.srt 	THOR_DVS83 	00:10:54,00 --> 00:11:00,50 	as one of the giants picks up the box, someone taps his spear against the floor.
-THOR.srt 	THOR_DVS286 	00:39:12,00 --> 00:39:20,50 	shaking his head slightly, someone grips two handles on the sides of the small casket and picks it up.
 THOR.srt 	THOR_DVS301 	00:42:34,00 --> 00:42:39,50 	someone picks up the broken mug.
-TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS404 	00:43:49,00 --> 00:43:53,50 	he picks up his phone and reads a text "assignment cancelled."
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS425 	00:45:26,00 --> 00:45:30,50 	someone picks up a guitar.
 TRUE_GRIT.srt 	TRUE_GRIT_DVS59 	00:13:36,00 --> 00:13:42,50 	she picks up a shiny revolver and cradles it in both hands.
-TRUE_GRIT.srt 	TRUE_GRIT_DVS285 	01:01:18,00 --> 01:01:24,50 	someone picks up his rifle and looks down into the gloom.
-TRUE_GRIT.srt 	TRUE_GRIT_DVS380 	01:18:09,00 --> 01:18:14,50 	she picks up a reel of rope lying beside him
 TRUE_GRIT.srt 	TRUE_GRIT_DVS387 	01:18:36,00 --> 01:18:41,50 	she picks up a wooden bucket by its rope handle.
 TRUE_GRIT.srt 	TRUE_GRIT_DVS410 	01:21:04,00 --> 01:21:09,50 	someone picks herself up again.
 TRUE_GRIT.srt 	TRUE_GRIT_DVS562 	01:39:15,00 --> 01:39:20,50 	someone picks her up and her aggression subsides.
@@ -323,7 +208,6 @@ TRUE_GRIT.srt 	TRUE_GRIT_DVS567 	01:39:48,00 --> 01:39:57,50 	someone stares ahe
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS263 	00:25:23,00 --> 00:25:27,50 	he picks up someone.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS404 	00:49:30,00 --> 00:49:34,50 	she picks up the gift and peeks around.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS412 	00:50:14,00 --> 00:50:23,50 	the producer caps her lipstick and picks up her cell phone.
-UGLY_TRUTH.srt 	UGLY_TRUTH_DVS413 	00:50:24,00 --> 00:50:31,50 	irritably pursing her lips, she picks up a glass of white wine and takes a seat.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS418 	00:50:43,00 --> 00:50:53,50 	someone picks up the someone, black, vibrating panties and carefully works them over her black high heels.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS420 	00:50:55,00 --> 00:51:02,50 	the producer adjusts her skirt, then picks up a remote control.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS435 	00:53:11,00 --> 00:53:19,50 	a stocky pre-teen boy pick it up, quizzically rumpling his lips, and returns to his table.
@@ -332,21 +216,14 @@ WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS88 	00:13:45,00 --> 00:13:51,50 	picking
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS308 	00:49:28,00 --> 00:49:32,50 	she picks up a hawk.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS593 	01:30:30,00 --> 01:30:42,50 	he strokes the teen's smooth hair, then notices a stack 	of drawings on a bedside table and picks them up.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS671 	01:38:32,00 --> 01:38:42,50 	later, as someone and someone look on, someone picks up a single piece of straw.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS731 	01:44:50,00 --> 01:44:59,50 	the storm quickly picks up, turning the dirt into mud.
-WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS134 	00:16:00,00 --> 00:16:06,50 	with a forced smile, she reaches into the bowl and picks her own number.
-WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS495 	01:10:33,00 --> 01:10:40,50 	she picks up a cell phone and reads a string of text messages starting with someone's phone number.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS532 	01:14:09,00 --> 01:14:15,50 	someone picks up a blonde hair extension and brushes it out.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS536 	01:14:30,00 --> 01:14:35,50 	he picks one with a gold face.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS212 	00:15:53,00 --> 00:15:59,50 	he takes the gold bar, picks up a briefcase, and heads for the door.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS227 	00:17:21,00 --> 00:17:26,50 	in the private room, the female agent picks up the rear.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS462 	00:41:30,00 --> 00:41:36,50 	he picks up a syringe and injects the needle into her vein.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS777 	01:09:37,00 --> 01:09:44,50 	he marches to a phone on one of the long tables and picks it up.
-YOUNG_ADULT.srt 	YOUNG_ADULT_DVS39 	00:04:08,00 --> 00:04:15,50 	she picks up a nearby cellphone displaying a new message alert and holds it to her ear.
 YOUNG_ADULT.srt 	YOUNG_ADULT_DVS140 	00:24:15,00 --> 00:24:20,50 	she picks up her purse, and smooths down her skirt.
 YOUNG_ADULT.srt 	YOUNG_ADULT_DVS147 	00:25:52,00 --> 00:25:58,50 	someone picks up her phone and types on the keypad.
 YOUNG_ADULT.srt 	YOUNG_ADULT_DVS294 	00:56:26,00 --> 00:56:32,50 	she picks it up and checks the caller id.
 YOUNG_ADULT.srt 	YOUNG_ADULT_DVS376 	01:11:36,00 --> 01:11:42,50 	someone steps to a table in the living room and picks up a bottle of maker's someone.
 YOUNG_ADULT.srt 	YOUNG_ADULT_DVS425 	01:21:57,00 --> 01:22:01,50 	someone picks up a coffee pot.
-ZOMBIELAND.srt 	ZOMBIELAND_DVS140 	00:12:14,00 --> 00:12:20,50 	someone picks one up then drops it.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS272 	00:30:00,00 --> 00:30:04,50 	he picks up a rifle.
-ZOOKEEPER.srt 	ZOOKEEPER_DVS81 	00:15:27,00 --> 00:15:39,50 	he climbs up to the keyhole, glances around, then picks the lock.

@@ -1,22 +1,9 @@
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS513 	00:50:04,00 --> 00:50:12,50 	someone stabs a blonde haired man in the leg, then takes his weapon and uses him as a human shield.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS309 	00:44:42,00 --> 00:45:03,50 	someone tries to stab his attacker, but the vampire clutches his wrist.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS322 	00:46:21,00 --> 00:46:37,50 	with both hands, he swipes at someone and attempts to stab him in the heart, but an unseen force holds the blade back.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS602 	01:23:09,00 --> 01:23:40,50 	inside, someone stabs a vampire with a bayonet attached to the butt of his ax.
 CHRONICLE.srt 	CHRONICLE_DVS156 	00:23:47,00 --> 00:23:52,50 	he stabs a fork at someone's hand.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS53 	00:10:30,00 --> 00:10:35,50 	she stabs it into the last morsel of
-COLOMBIANA.srt 	COLOMBIANA_DVS138 	00:12:44,00 --> 00:12:50,50 	someone grabs the hidden knife and stabs his hand to the table.
-COLOMBIANA.srt 	COLOMBIANA_DVS1041 	01:38:14,00 --> 01:38:24,50 	she grabs a toothbrush on the ground and stabs him with it.
-COLOMBIANA.srt 	COLOMBIANA_DVS1050 	01:38:45,00 --> 01:38:56,50 	as he points it at someone, she quickly releases the weapon's magazine from its hand grip then yanks the slide from the barrel and stabs him in the neck with it.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS793 	01:21:10,00 --> 01:21:14,50 	now, he stabs at sharks.
 PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS59 	00:15:40,00 --> 00:15:47,50 	someone's friend stabs someone's foot with the tip of his crutch, then whacks him in the groin.
-PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS76 	00:19:34,00 --> 00:20:19,50 	someone pulls out the horn tip and stabs the charging beast in the chest.
-PROMETHEUS.srt 	PROMETHEUS_DVS758 	01:22:10,00 --> 01:22:15,50 	she holds one in her mouth as she stabs her thigh with the other.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS416 	01:44:24,00 --> 01:44:28,50 	someone stabs a legionnaire shield
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS411 	01:00:10,00 --> 01:00:20,50 	one marauder lands on a cannon, cuts down two sailors, then stabs a third.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS448 	01:05:13,00 --> 01:05:18,50 	who dodges it then stabs through the cape.
-THOR.srt 	THOR_DVS159 	00:22:35,00 --> 00:22:41,50 	someone stabs another giant then shields herself against a bally of ice shards.
 THOR.srt 	THOR_DVS162 	00:22:53,00 --> 00:22:59,50 	nearby, someone stabs a bare chested giant with a dagger.
-THOR.srt 	THOR_DVS165 	00:23:01,00 --> 00:23:10,50 	he stabs the frost giant in the heart and wrenches himself free, then watches as his arm gradually returns to normal.
 THOR.srt 	THOR_DVS654 	01:37:57,00 --> 01:38:04,50 	someone stabs someone in the gut.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS323 	00:24:31,00 --> 00:24:37,50 	he stabs the farmer's hand.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS720 	01:04:46,00 --> 01:04:52,50 	the mutant easily dispatches him, stabbing him in the back.

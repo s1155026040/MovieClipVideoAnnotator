@@ -3,25 +3,12 @@ A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS319 	00:28:24,00 --> 00:28
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS704 	01:11:55,00 --> 01:11:59,50 	separating, their eyes connect.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS715 	01:12:24,00 --> 01:12:31,50 	as they separate, someone glances over and receives a slight nod from his dad.
 BLINDDATING.srt 	BLINDDATING_DVS31 	00:11:34,00 --> 00:11:40,50 	as another boy struggle to separate them.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS94 	00:07:24,00 --> 00:07:32,50 	taking off his shirt, someone passes a couch and a divider that separates the living room from his bed.
-CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS114 	00:26:16,00 --> 00:26:21,50 	they separate and gaze into each other's eyes.
-FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS159 	00:43:33,00 --> 00:43:42,50 	someone leaps over a railing, separating the peer from the water.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS434 	01:35:58,00 --> 01:36:05,50 	in a clearing at the market's end, separated by a row of ruined stalls.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS76 	00:19:18,00 --> 00:19:24,50 	the men and women separate into different groups.
-KARATE_KID.srt 	KARATE_KID_DVS322 	00:28:55,00 --> 00:29:02,50 	someone crosses to a window separating the lobby from the house, pulls a curtain aside, and peers through.
 KARATE_KID.srt 	KARATE_KID_DVS1047 	01:24:57,00 --> 01:25:21,50 	on a roof, a hanging bed sheet separates them.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS75 	00:12:46,00 --> 00:13:05,50 	now, three men in fedoras and overcoats ascend a wide staircase separated from each other by two center railings.
-SALT.srt 	SALT_DVS478 	01:22:19,00 --> 01:22:25,50 	someone approaches the window separating him from someone.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS471 	01:17:18,00 --> 01:17:24,50 	the sisters separate.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS679 	01:31:15,00 --> 01:31:21,50 	separated by only a few feet, the two man sneer at each other.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS313 	00:57:11,00 --> 00:57:28,50 	the vehicles separate.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS588 	01:46:04,00 --> 01:46:10,50 	separating, they gaze into each other's eyes.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS457 	00:53:20,00 --> 00:53:28,50 	now, someone wakes face down on the bed with a thick black gag separating her upper and lower teeth.
-THE_WATCH.srt 	THE_WATCH_DVS412 	01:14:14,00 --> 01:14:19,50 	he faces his wife as they separate.
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS172 	00:43:23,00 --> 00:43:29,50 	as they separate, someone grins.
-THOR.srt 	THOR_DVS40 	00:04:36,00 --> 00:04:44,50 	separated by a few dozen yards, the leader of the warriors, a grey bearded man wearing a helmet with twisting horns,
-THOR.srt 	THOR_DVS53 	00:05:52,00 --> 00:06:02,50 	the mountain tips upside down, becoming the base of a landmass, supporting tall, rugged cliffs, separated by clear, glimmering water.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS326 	00:52:58,00 --> 00:53:10,50 	as he activates the device, its tape extends over a 	moat separating someone's enclosure from the guard railing.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS94 	00:06:36,00 --> 00:06:42,50 	at the doctor's signal, the guards separate the two.
-ZOMBIELAND.srt 	ZOMBIELAND_DVS528 	01:02:08,00 --> 01:02:13,50 	they separate enough to look into each other's eyes.
-ZOMBIELAND.srt 	ZOMBIELAND_DVS734 	01:19:32,00 --> 01:19:38,50 	as they separate, someone opens her eyes and gazes at someone.

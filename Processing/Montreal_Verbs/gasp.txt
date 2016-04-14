@@ -1,6 +1,1 @@
-HUGO.srt 	HUGO_DVS237 	00:34:23,00 --> 00:34:32,50 	she looks up and smiles at someone, who gasps and turns away.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS307 	00:39:06,00 --> 00:39:11,50 	gasping then submerges himself and swims onward.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS443 	00:50:44,00 --> 00:50:49,50 	waking, he jolts up and gasps.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS893 	01:30:07,00 --> 01:30:13,50 	as it recedes, he lies on the bench gasping for air.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1180 	02:06:07,00 --> 02:06:15,50 	as his prisoner continues to gasp for air, he presses on his midsection with his fingertips.
-TRUE_GRIT.srt 	TRUE_GRIT_DVS466 	01:31:09,00 --> 01:31:14,50 	someone stands sharply and gasps.

@@ -1,12 +1,5 @@
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS126 	00:15:11,00 --> 00:15:15,50 	now someone selects a gun.
 DISTRICT_9.srt 	DISTRICT_9_DVS848 	01:40:26,00 --> 01:40:45,50 	the alien zooms in on a pair of twin stars and selects one.
 HUGO.srt 	HUGO_DVS200 	00:30:12,00 --> 00:30:17,50 	someone selects a book.
-KARATE_KID.srt 	KARATE_KID_DVS1078 	01:28:23,00 --> 01:28:38,50 	someone selects a stick of fried scorpions, and thrusts it playfully in someone's face.
-LITTLE_FOCKERS.srt 	LITTLE_FOCKERS_DVS289 	01:31:38,00 --> 01:31:59,50 	he trails his cursor over the search results then selects a youtube video.
 PROMETHEUS.srt 	PROMETHEUS_DVS754 	01:21:41,00 --> 01:21:46,50 	she selects manual procedure.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS959 	01:46:24,00 --> 01:46:30,50 	as the manager steps away the visitor selects a catalog card.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS997 	01:48:39,00 --> 01:48:46,50 	selecting the file for lena anderson, he flips through its pages and finds a portrait of the girl in a shirt bearing her school crest.
-THE_VOW.srt 	THE_VOW_DVS455 	01:05:53,00 --> 01:05:59,50 	she selects a chocolate, then pops it in her mouth.
-THOR.srt 	THOR_DVS336 	00:50:01,00 --> 00:50:09,50 	he crosses the room and selects a book from a cart, then puts it down and opens a thicker volume beside it.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS379 	01:00:14,00 --> 01:00:23,50 	at the restaurant, someone selects a song on the jukebox.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS481 	01:14:54,00 --> 01:14:57,50 	he opens the first one, then selects full screen.

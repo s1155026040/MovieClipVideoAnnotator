@@ -1,8 +1,3 @@
-DISTRICT_9.srt 	DISTRICT_9_DVS331 	00:36:17,00 --> 00:36:28,50 	he grabs a napkin and starts to mop it up, but collapses onto the table and rolls to the floor.
 EASY_A.srt 	EASY_A_DVS62 	00:21:14,00 --> 00:21:19,50 	now someone mops the gym.
-KARATE_KID.srt 	KARATE_KID_DVS715 	00:59:50,00 --> 00:59:58,50 	as he mopes into his room, someone stares at the hanging jacket and shifts her wide-eyed gaze.
-KNOCKED_UP.srt 	KNOCKED_UP_DVS188 	01:57:46,00 --> 01:57:51,50 	now she mopes over to the waiting room and plops down beside someone.
-SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS297 	01:01:58,00 --> 01:02:03,50 	later, he mops up the spilled soda.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS313 	00:59:19,00 --> 00:59:31,50 	someone turns around and mopes off down the block of brown stone buildings.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS439 	01:18:13,00 --> 01:18:22,50 	she mops her cleavage.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS455 	00:55:34,00 --> 00:55:39,50 	someone smiles and mops his brow.

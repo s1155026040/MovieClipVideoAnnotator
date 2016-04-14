@@ -1,0 +1,3 @@
+KATY_PERRY_PART_OF_ME.srt 	KATY_PERRY_PART_OF_ME_DVS326 	01:15:07,00 --> 01:15:14,50 	wearing a headset microphone someone strums an acoustic guitar.
+LAND_OF_THE_LOST.srt 	LAND_OF_THE_LOST_DVS149 	00:55:14,00 --> 00:55:23,50 	in tree-dappled moonlight, someone strolls into view, strumming a
+THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS514 	01:13:20,00 --> 01:13:30,50 	on a small stage, three male singers perform on stools as they strum a guitar, a ukulele, and a bass.

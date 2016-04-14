@@ -1,86 +1,55 @@
-0001_American_Beauty_00.03.48.439-00.03.50.495 	Lester hurries out the front door, carrying a BRIEFCASE.
-0001_American_Beauty_00.03.48.439-00.03.50.495 	Lester hurries out the front door, carrying a BRIEFCASE.
-0003_CASABLANCA_00.20.36.030-00.20.38.673 	He hurries away.
-0003_CASABLANCA_00.43.26.602-00.43.36.063 	Rick and Ilsa look at each other, then hurry to the window.
-0004_Charade_00.50.04.898-00.50.06.428 	REGGIE hurries across the street, hailing a taxi.
-0004_Charade_01.32.47.978-01.32.57.660 	As she hurries along a row of stalls, weaving around small groups of MEN standing together, showing each other stamps.
-0004_Charade_01.35.56.000-01.35.58.461 	As REGGIE comes hurrying up the stairs.
-0004_Charade_01.37.34.852-01.37.38.847 	She hangs up, looks briefly at TEX's body, shudders, then hurries to the door.
-0004_Charade_01.40.45.246-01.40.47.188 	Featuring ADAM as he hurries from the car.
-0005_Chinatown_01.29.11.051-01.29.13.232 	Then hurries out of the bedroom.
-0005_Chinatown_01.29.22.316-01.29.24.071 	He tosses the red lens into the shrubbery and hurries back toward the house.
-0005_Chinatown_01.30.01.882-01.30.09.737 	She hurries on up the walkway to the front door.
-0005_Chinatown_01.53.39.744-01.53.42.092 	With her arm around the girl, talking in Spanish, Evelyn hurries her toward the bedroom.
-0005_Chinatown_02.07.01.498-02.07.08.412 	He holds onto Evelyn as Escobar and others hurry up.
-0007_DIE_NACHT_DES_JAEGERS_00.26.00.456-00.26.02.433 	He hurries away from us towards home.
-0007_DIE_NACHT_DES_JAEGERS_01.04.58.039-01.05.00.686 	Hand in hand, they hurry out of barn and, as we PAN, along its side, towards River, o.s.
-0007_DIE_NACHT_DES_JAEGERS_01.09.41.259-01.09.42.668 	The WAITRESS hurries away.
-0007_DIE_NACHT_DES_JAEGERS_01.25.04.414-01.25.05.307 	Presently, the other CHILDREN hurry out of house behind.
-0007_DIE_NACHT_DES_JAEGERS_01.27.03.181-01.27.03.508 	RACHEL hurries her CHILDREN to door.
-0007_DIE_NACHT_DES_JAEGERS_01.27.07.088-01.27.08.102 	RACHEL comes out and hurries off to our right, followed by JOHN, holding PEARL'S hand.
-0007_DIE_NACHT_DES_JAEGERS_01.27.08.882-01.27.09.600 	They turn and we PAN with them as they hurry after RACHEL, and we bring in RACHEL, charging away from us with her brood hustling to keep up.
-0007_DIE_NACHT_DES_JAEGERS_01.27.34.204-01.27.43.369 	We PAN RACHEL and CHILDREN past this street and they hurry towards RUBY, who stands alone in BACKGROUND, facing the jail.
-0007_DIE_NACHT_DES_JAEGERS_01.27.43.578-01.27.47.215 	In BACKGROUND, RACHEL and CHILDREN hurry towards her.
-0011_Gandhi_00.17.45.414-00.17.48.058 	He looks back at the cab in confusion, then signals the driver to follow and hurries on to match strides with Gandhi's brisk pace.
-0011_Gandhi_02.04.08.526-02.04.12.660 	Still baffled, Walker glances at the sea, at him, then hurries after.
-0011_Gandhi_02.07.55.371-02.07.58.410 	He hurries along closer to Gandhi again, one eye still on the police.
-0013_Halloween_00.10.07.336-00.10.12.206 	Through the windshield we see Loomis rush over to the patient, stand and talk for a moment, then hurry back.
-0013_Halloween_00.15.21.609-00.15.28.029 	Wynn watches him go, then hurries back into the building.
-0013_Halloween_00.25.43.855-00.25.47.806 	Laurie bundles her books and hurries up the street.
-0013_Halloween_00.46.58.657-00.47.05.549 	Annie hurries to the door and tries to open it.
-0013_Halloween_00.52.30.349-00.52.34.952 	Annie hurries across the back yard and steps into the garage.
-0014_Ist_das_Leben_nicht_schoen_00.26.48.212-00.26.48.894 	George hurries after her.
-0014_Ist_das_Leben_nicht_schoen_00.53.18.059-00.53.19.521 	George hurries into his office where Uncle Billy is waiting for him.
-0014_Ist_das_Leben_nicht_schoen_01.00.09.295-01.00.12.801 	George hurries into scene.
-0014_Ist_das_Leben_nicht_schoen_01.21.23.647-01.21.27.872 	Uncle Billy comes hurrying in.
-0017_Pianist_00.40.29.710-00.40.39.686 	Szpilman slips off his bunk, hurries to the door, opens it and comes face to face with a German NCO and soldiers.
-0017_Pianist_00.53.59.547-00.54.10.668 	Szpilman hurries over and crawls on his back until he's beside him.
-0017_Pianist_01.07.32.087-01.07.45.404 	Szpilman immediately hurries to a cupboard, finds a First Aid tin, removes a plaster and gives it to the SS Lieutenant.
-0021_Rear_Window_00.43.10.862-00.43.13.862 	In the middle of his sweeping, he stops, hurries a step or two to the piano.
-0021_Rear_Window_01.35.22.284-01.35.38.156 	The two women hurry up the stairs toward the iron ladder they will use to climb the wall between Jeff's yard and that of Thorwald's.
-0021_Rear_Window_01.38.32.956-01.38.34.056 	As Jeff watches tensely, the door bursts open behind him and Stella hurries into the apartment.
-0021_Rear_Window_01.42.11.264-01.42.13.221 	Stella hurries from the window, turning off lights, as Jeff backs his chair into the room.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.17.09.325-00.17.12.208 	Gandalf hurries about, lighting fireworks with a blue spark that dances magically from his staff.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.26.32.597-00.26.39.172 	Gandalf hurries out the door.leaving FRODO standing alone in the Bag End.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.36.40.724-00.36.41.511 	To reveal Gandalf, Frodo and Sam hurrying across a ploughed field,away from Hobbiton!
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.02.12.699-02.02.28.554 	They hurry towards a distant door.as Goblins start scuttling down the Pillars behind them, like cockroaches!
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.24.57.763-00.24.59.832 	GANDALF hurries along the STREETS.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.40.02.649-00.40.12.034 	GOLLUM, FRODO and SAM hurry from their COVER scampering in the SHADOWS towards MINAS MORGUL.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.47.41.102-00.47.46.860 	His eyes flash briefly with TRIUMPH before he hurries off.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.47.54.247-00.47.55.667 	PULL BACK: GANDALF hurries to the BATTLEMENT, looking further west along the WHITE MOUNTAINS.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.07.21.959-01.07.27.859 	GANDALF hurries alongside FARAMIR'S HORSE.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.14.23.041-01.14.24.362 	MERRY hurries off.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.15.48.984-01.15.58.283 	ARAGORN hurries towards THEODEN'S TENT.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.10.35.564-02.10.44.518 	an ORC COMMANDER hurrying on to the ANDUIN RIVER DOCKS, close to the CITY.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.19.53.563-02.20.04.886 	SAM hurries towards the gate, fearful for FRODO.
-0026_The_Big_Fish_00.53.41.585-00.53.43.488 	As Amos starts to walk away, Edward hurries to catch up with him.
-0027_The_Big_Lebowski_00.51.38.205-00.51.39.649 	The Dude takes a hurried sip from his drink.
-0029_The_Graduate_01.15.29.831-01.15.39.110 	During which Ben remains static while the quadrangle and the area around him fill up with students; walking, talking, hurrying to class, strolling, sitting, reading, handing out petitions, etc.
-0031_The_Lost_Weekend_00.08.50.373-00.08.54.047 	Then, so that he won't see her moist eyes, she turns and hurries into the entrance hall.
-0031_The_Lost_Weekend_00.11.40.450-00.11.45.198 	Through the glass door we see Don Birnam hurrying up.
-0031_The_Lost_Weekend_00.56.02.844-00.56.06.125 	The waiter takes the check which is thrust between his vest and his stiff shirt and puts it face down in front of Don, then hurries on with the tray of drinks.
-0031_The_Lost_Weekend_01.17.57.590-01.18.03.255 	A third nurse races in, throws a straitjacket to the first nurse, hurries to one of the other beds.
-0031_The_Lost_Weekend_01.27.09.347-01.27.11.821 	She hurries to the stairwell and calls down it.
-0031_The_Lost_Weekend_01.30.44.938-01.30.47.528 	Don has already reached the second floor and is hurrying down the stairs, the fur coat over his arm, not paying any attention to Helen.
-0032_The_Princess_Bride_00.57.21.839-00.57.25.083 	Rugen smiles and hurries down the stairs as the tree slides back perfectly into place.
-0032_The_Princess_Bride_01.10.52.696-01.10.52.914 	INIGO AND FEZZIK, hurrying inside.
-0033_Amadeus_00.49.27.683-00.49.29.002 	Mozart hurries Constanze out of the door.
-0033_Amadeus_01.31.23.637-01.31.26.912 	She hurries off in the opposite direction.
-0049_Hannah_and_her_sisters_00.19.01.567-00.19.03.693 	Holly calls after her, offscreen, as David walks past the hurrying April into the kitchen.
-0050_Indiana_Jones_and_the_last_crusade_00.07.42.296-00.07.44.511 	The door is pushed open and Halfbreed and Rough Rider hurry out of the car.
-0050_Indiana_Jones_and_the_last_crusade_00.22.22.925-00.22.31.196 	Indy climbs from the car and hurries up the walkway.
-0050_Indiana_Jones_and_the_last_crusade_00.28.16.044-00.28.17.417 	Indy hurries away toward Column VII.
-0050_Indiana_Jones_and_the_last_crusade_01.16.24.261-01.16.33.406 	Indy and Henry hurry down the catwalk until arriving at a PAIR OF DOORWAYS framed into the Zeppelin's outer skin.
-0053_Rendezvous_mit_Joe_Black_00.06.27.532-00.06.41.213 	A BUTLER and May carry the overnight bags for the family as led by Parrish, they hurry towards the helicopter.
-0053_Rendezvous_mit_Joe_Black_00.06.47.892-00.07.01.385 	Drew ushers everybody on, first Parrish, then Susan and Quince, Drew the last to climb on, shuts the door behind him As Allison hurries away from the whirling rotors.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.55.22.720-01.55.26.400 	Dumbledore hurries to his desk.
-1002_Harry_Potter_and_the_Half-Blood_Prince_02.16.28.757-02.16.32.788 	Snape hurries away past the burning cottage below him.
-1003_How_to_Lose_Friends_and_Alienate_People_01.42.50.464-01.42.53.995 	Sidney's smile returns, and he hurries up the slope towards them.
-1004_Juno_00.05.14.970-00.05.18.686 	Then, hurries back through to the store towards the counter.
-1005_Signs_01.18.45.426-01.18.50.627 	Graham hurries down some stairs into the gloomy basement and slams the door shut.
-1005_Signs_01.37.18.673-01.37.21.335 	And then hurries outside with Morgan in his arms.
-1005_Signs_01.38.20.288-01.38.26.452 	Merrill hurries out into the garden and crouches down by Graham and Morgan.
-1007_Spider-Man1_00.15.59.565-00.16.04.589 	The grim-faced Strom hurries over to a control panel.
+0003_CASABLANCA_00.20.36.030-00.20.38.673 	he hurries away.
+0004_Charade_01.07.43.027-01.07.47.995 	the three men hurry past reggie and jean-louis and out of the door.
+0004_Charade_01.32.47.978-01.32.57.660 	as she hurries along a row of stalls, weaving around small groups of men standing together, showing each other stamps.
+0004_Charade_01.35.56.000-01.35.58.461 	as reggie comes hurrying up the stairs.
+0004_Charade_01.37.34.852-01.37.38.847 	she hangs up, looks briefly at tex's body, shudders, then hurries to the door.
+0004_Charade_01.40.45.246-01.40.47.188 	featuring adam as he hurries from the car.
+0005_Chinatown_01.29.11.051-01.29.13.232 	then hurries out of the bedroom.
+0005_Chinatown_01.29.22.316-01.29.24.071 	he tosses the red lens into the shrubbery and hurries back toward the house.
+0005_Chinatown_01.30.01.882-01.30.09.737 	she hurries on up the walkway to the front door.
+0005_Chinatown_02.07.01.498-02.07.08.412 	he holds onto evelyn as escobar and others hurry up.
+0007_DIE_NACHT_DES_JAEGERS_00.26.00.456-00.26.02.433 	he hurries away from us towards home.
+0007_DIE_NACHT_DES_JAEGERS_01.04.58.039-01.05.00.686 	hand in hand, they hurry out of barn and, as we pan, along its side, towards river, o.s.
+0007_DIE_NACHT_DES_JAEGERS_01.09.41.259-01.09.42.668 	the waitress hurries away.
+0007_DIE_NACHT_DES_JAEGERS_01.25.04.414-01.25.05.307 	presently, the other children hurry out of house behind.
+0007_DIE_NACHT_DES_JAEGERS_01.27.03.181-01.27.03.508 	rachel hurries her children to door.
+0007_DIE_NACHT_DES_JAEGERS_01.27.08.882-01.27.09.600 	they turn and we pan with them as they hurry after rachel, and we bring in rachel, charging away from us with her brood hustling to keep up.
+0007_DIE_NACHT_DES_JAEGERS_01.27.34.204-01.27.43.369 	we pan rachel and children past this street and they hurry towards ruby, who stands alone in background, facing the jail.
+0007_DIE_NACHT_DES_JAEGERS_01.27.43.578-01.27.47.215 	in background, rachel and children hurry towards her.
+0011_Gandhi_02.04.08.526-02.04.12.660 	still baffled, walker glances at the sea, at him, then hurries after.
+0011_Gandhi_02.07.55.371-02.07.58.410 	he hurries along closer to gandhi again, one eye still on the police.
+0013_Halloween_00.10.07.336-00.10.12.206 	through the windshield we see loomis rush over to the patient, stand and talk for a moment, then hurry back.
+0013_Halloween_00.15.21.609-00.15.28.029 	wynn watches him go, then hurries back into the building.
+0017_Pianist_00.26.49.508-00.26.58.395 	szpilman stands quickly and hurries away.
+0017_Pianist_01.07.32.087-01.07.45.404 	szpilman immediately hurries to a cupboard, finds a first aid tin, removes a plaster and gives it to the ss lieutenant.
+0021_Rear_Window_00.43.10.862-00.43.13.862 	in the middle of his sweeping, he stops, hurries a step or two to the piano.
+0021_Rear_Window_01.35.22.284-01.35.38.156 	the two women hurry up the stairs toward the iron ladder they will use to climb the wall between jeff's yard and that of thorwald's.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.36.40.724-00.36.41.511 	to reveal gandalf, frodo and sam hurrying across a ploughed field,away from hobbiton!
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.02.12.699-02.02.28.554 	they hurry towards a distant door.as goblins start scuttling down the pillars behind them, like cockroaches!
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.44.06.560-00.44.09.292 	gandalf watches as pippin hurries away.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.47.41.102-00.47.46.860 	his eyes flash briefly with triumph before he hurries off.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.14.23.041-01.14.24.362 	merry hurries off.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.10.35.564-02.10.44.518 	an orc commander hurrying on to the anduin river docks, close to the city.
+0029_The_Graduate_01.15.29.831-01.15.39.110 	during which ben remains static while the quadrangle and the area around him fill up with students; walking, talking, hurrying to class, strolling, sitting, reading, handing out petitions, etc.
+0031_The_Lost_Weekend_00.08.50.373-00.08.54.047 	then, so that he won't see her moist eyes, she turns and hurries into the entrance hall.
+0031_The_Lost_Weekend_00.08.51.658-00.08.54.061 	helen comes out quickly and taking a handkerchief from her bag, hurries past wick into the hall.
+0031_The_Lost_Weekend_00.11.40.450-00.11.45.198 	through the glass door we see don birnam hurrying up.
+0031_The_Lost_Weekend_00.56.02.844-00.56.06.125 	the waiter takes the check which is thrust between his vest and his stiff shirt and puts it face down in front of don, then hurries on with the tray of drinks.
+0031_The_Lost_Weekend_01.17.57.590-01.18.03.255 	a third nurse races in, throws a straitjacket to the first nurse, hurries to one of the other beds.
+0031_The_Lost_Weekend_01.27.09.347-01.27.11.821 	she hurries to the stairwell and calls down it.
+0031_The_Lost_Weekend_01.30.44.938-01.30.47.528 	don has already reached the second floor and is hurrying down the stairs, the fur coat over his arm, not paying any attention to helen.
+0032_The_Princess_Bride_00.18.50.821-00.18.55.108 	inigo, now with a small coil of rope, hurries back to the edge and hurls it over.
+0032_The_Princess_Bride_01.10.52.696-01.10.52.914 	inigo and fezzik, hurrying inside.
+0033_Amadeus_01.31.23.637-01.31.26.912 	she hurries off in the opposite direction.
+0049_Hannah_and_her_sisters_00.19.01.567-00.19.03.693 	holly calls after her, offscreen, as david walks past the hurrying april into the kitchen.
+0050_Indiana_Jones_and_the_last_crusade_00.22.22.925-00.22.31.196 	indy climbs from the car and hurries up the walkway.
+0050_Indiana_Jones_and_the_last_crusade_01.16.24.261-01.16.33.406 	indy and henry hurry down the catwalk until arriving at a pair of doorways framed into the zeppelin's outer skin.
+0051_Men_in_black_00.34.50.161-00.34.53.190 	edwards just stares, fascinated, but kay grabs him by the arm and hurries him along.
+0053_Rendezvous_mit_Joe_Black_00.06.27.532-00.06.41.213 	a butler and may carry the overnight bags for the family as led by parrish, they hurry towards the helicopter.
+0053_Rendezvous_mit_Joe_Black_00.06.47.892-00.07.01.385 	drew ushers everybody on, first parrish, then susan and quince, drew the last to climb on, shuts the door behind him as allison hurries away from the whirling rotors.
+1003_How_to_Lose_Friends_and_Alienate_People_01.42.50.464-01.42.53.995 	sidney's smile returns, and he hurries up the slope towards them.
+1004_Juno_00.05.14.970-00.05.18.686 	then, hurries back through to the store towards the counter.
+1005_Signs_01.38.20.288-01.38.26.452 	merrill hurries out into the garden and crouches down by graham and morgan.
 1009_Spider-Man3_00.21.17.690-00.21.23.651 	he hurries over to his unconscious old friend.
 1009_Spider-Man3_00.43.14.924-00.43.19.067 	she hurries through the crowd as her name is covered up on the theater front with a name of andrea rubin.
 1009_Spider-Man3_01.19.07.874-01.19.19.681 	harry watches helplessly as she hurries down the black and white marble floored hallway into the lift.
@@ -88,56 +57,42 @@
 1009_Spider-Man3_01.22.27.097-01.22.34.561 	he hurries on to meet her.
 1009_Spider-Man3_01.23.52.559-01.23.58.088 	peter, looking as if he's been hit in the stomach, watches in numb shock as she hurries away off the bridge.
 1009_Spider-Man3_01.37.17.755-01.37.22.362 	mary jane puts down her tray and hurries up onto the stage.
-1009_Spider-Man3_01.39.24.205-01.39.27.025 	mary jane hurries from the stage.
 1009_Spider-Man3_01.40.33.390-01.40.42.159 	covering the suit with his hand, he turns away from mary jane and hurries out into the night.
 1010_TITANIC_01.17.18.682-01.17.20.395 	they hurry through a door to a gymnasium.
-1010_TITANIC_01.30.52.891-01.30.53.541 	rose and jack hurry into rose's bedroom.
-1010_TITANIC_01.31.05.830-01.31.07.497 	jack and rose hurry down the corridor.
-1010_TITANIC_01.31.33.165-01.31.35.419 	lovejoy hurries to the staircase.
-1010_TITANIC_01.33.04.790-01.33.14.396 	leading rose by the hand, jack hurries around a stack of crates, then stops at a gleaming black car.
-1010_TITANIC_01.38.48.843-01.38.53.088 	murdoch hurries to the bridge rail and peers at the iceberg.
-1010_TITANIC_01.43.12.990-01.43.15.101 	murdoch hurries off.
-1010_TITANIC_01.43.41.958-01.43.43.625 	andrews hurries past, carrying blueprints.
 1010_TITANIC_01.44.12.507-01.44.13.371 	the steward hurries off.
-1010_TITANIC_01.52.56.819-01.53.00.346 	lightoller, a man with short, light brown hair, and murdoch hurry over to smith
-1010_TITANIC_02.00.57.464-02.01.00.534 	rose hurries to the office door.
 1010_TITANIC_02.03.49.987-02.03.52.547 	he hurries away.
-1010_TITANIC_02.28.50.450-02.28.52.767 	rose hurries through a revolving door.
-1010_TITANIC_02.28.56.069-02.29.00.193 	elsewhere, a steward, holding two life belts hurries toward the grand staircase.
 1011_The_Help_00.18.18.880-00.18.32.308 	she hurries into the hall and up a wide, wooden staircase.
 1011_The_Help_00.29.01.045-00.29.09.284 	she hurries in with the laundry basket.
-1011_The_Help_00.40.59.154-00.41.00.405 	later at home aibileen hurries to the door.
 1011_The_Help_02.06.09.363-02.06.15.205 	she hurries towards the house.
 1011_The_Help_02.14.21.601-02.14.24.003 	elizabeth hurries out of the room with the baby.
 1014_2012_01.02.10.088-01.02.15.125 	kate hurries back to the plane with lilly.
 1014_2012_01.58.21.623-01.58.26.863 	jackson grabs noah and they hurry up towards the ark.
 1014_2012_02.10.23.432-02.10.29.550 	the boarding officers and uri's boys hurry away as water crashing in around it
+1015_27_Dresses_00.03.03.441-00.03.10.865 	carrying the bulky dress in a bag, adult jane, in a formal purple dress, hurries out of the shop onto a busy new york street.
 1015_27_Dresses_00.04.12.852-00.04.16.892 	she hurries over to the cab.
-1015_27_Dresses_01.01.17.819-01.01.21.885 	jane hurries to meet george on the terrace of the boat house.
 1015_27_Dresses_01.25.13.777-01.25.17.851 	casey feels her friend's pain as jane hurries out of the restaurant.
 1015_27_Dresses_01.35.36.543-01.35.41.459 	she smiles and hurries away to the offices at the new york journal.
-1017_Bad_Santa_01.22.02.151-01.22.06.725 	thurmond hurries off into the house, and willie allows himself a faint smile.
+1017_Bad_Santa_00.44.49.437-00.44.56.575 	jimmy's mum scoops him up and hurries away, leaving dear old santa to his salad.
 1017_Bad_Santa_01.23.39.196-01.23.42.008 	he then hurries back along the duct.
-1020_Crazy_Stupid_Love_01.02.34.967-01.02.39.885 	people with umbrellas hurry into a restaurant.
 1023_Horrible_Bosses_00.55.58.148-00.56.00.105 	kurt unwittingly drops bobby's mobile as they hurry out.
+1024_Identity_Thief_00.34.18.470-00.34.21.935 	sandy retrieves the keys from the middle of the highway and hurries back to the car.
 1024_Identity_Thief_00.59.48.176-00.59.52.875 	in slow motion, he hurries toward the van with his mouth dropped open.
+1024_Identity_Thief_01.16.00.238-01.16.06.435 	the security guard hurries over.
 1027_Les_Miserables_01.47.02.966-01.47.06.309 	gavroche hurries up a dark stairway to valjean and cosette's lodgings.
 1028_No_Reservations_00.07.07.571-00.07.11.305 	she hurries to answer the phone.
-1028_No_Reservations_00.32.52.931-00.32.58.499 	kate hurries to the front door.
-1028_No_Reservations_00.39.51.000-00.39.52.986 	bernadette hurries out.
-1028_No_Reservations_00.49.12.616-00.49.15.855 	kate hurries off.
-1029_Pride_And_Prejudice_Disk_One_00.13.57.264-00.14.00.926 	sir william lucas hurries over to greet them.
 1029_Pride_And_Prejudice_Disk_One_00.26.29.043-00.26.33.555 	they hurry to greet her.
 1029_Pride_And_Prejudice_Disk_One_00.43.23.485-00.43.27.420 	she hesitates in the doorway for a moment before hurrying out.
 1029_Pride_And_Prejudice_Disk_One_01.24.36.477-01.24.38.634 	she hurries over to her happily.
 1029_Pride_And_Prejudice_Disk_One_01.46.10.323-01.46.13.331 	she hurries out.
 1029_Pride_And_Prejudice_Disk_One_01.52.09.091-01.52.14.935 	lydia and kitty are hurrying excitedly over to their house, longbourn.
 1029_Pride_And_Prejudice_Disk_One_02.17.32.966-02.17.41.577 	mr. collins and charlotte hurry out to meet them as lizzie, maria, and sir william emerge from the cab.
-1030_Public_Enemies_00.05.32.515-00.05.35.767 	walter hurries from the gate, still limping.
+1030_Public_Enemies_00.08.36.491-00.08.39.240 	a man in a blue suit hurries through lush green woods with a tommy gun.
+1030_Public_Enemies_00.11.05.153-00.11.08.157 	he turns away from the window and hurries out of the room.
 1030_Public_Enemies_00.41.09.328-00.41.12.042 	outside, baum sees two men hurrying down the alley steps.
 1030_Public_Enemies_00.41.33.866-00.41.37.532 	as the car below quits the alley, purvis shoots, then hurries out of the apartment.
 1030_Public_Enemies_01.17.19.091-01.17.20.455 	he hurries to baby face.
 1030_Public_Enemies_01.28.34.679-01.28.37.077 	a cloth sack dangles from red's grip as both men hurry past a narrowed outcropping.
+1030_Public_Enemies_02.02.34.514-02.02.37.181 	blinking back tears, she opens the door and hurries out.
 1031_Quantum_of_Solace_00.44.20.989-00.44.25.849 	as bond walks calmly down the corridor, greene and his party are hurrying for an exit.
 1034_Super_8_01.08.13.089-01.08.17.432 	outside, there is chaos on the streets as people and military personnel hurry to and fro.
 1034_Super_8_01.26.30.722-01.26.34.389 	they hurry through a back garden shoving a washing line out of their way.
@@ -146,41 +101,28 @@
 1034_Super_8_01.30.48.892-01.30.50.558 	they hurry down the large bore tunnel.
 1034_Super_8_01.32.52.672-01.32.56.338 	joe hurries away back up the tunnel, using a sparkler to light his way.
 1035_The_Adjustment_Bureau_00.11.16.298-00.11.20.033 	she hurries off.
-1035_The_Adjustment_Bureau_00.16.47.440-00.16.49.462 	david hurries across a street.
-1035_The_Adjustment_Bureau_00.23.06.068-00.23.08.852 	david hurries into charlie's office and locks the door.
-1035_The_Adjustment_Bureau_00.36.46.204-00.36.50.541 	david hurries off and races back up the sidewalk after her.
-1035_The_Adjustment_Bureau_00.44.56.744-00.45.01.026 	david hurries onto the platform and up some stairs.
-1035_The_Adjustment_Bureau_00.50.00.145-00.50.04.960 	the hostess hurries after them, but finds only a coat closet.
+1035_The_Adjustment_Bureau_00.22.04.318-00.22.15.099 	hurrying past two men standing in a corridor and a third sitting in a waiting area, he enters the conference room.
 1035_The_Adjustment_Bureau_01.25.31.647-01.25.33.242 	at the adjustment bureau, an aide hurries up to thompson.
 1035_The_Adjustment_Bureau_01.32.48.886-01.32.53.219 	david finds a door and they hurry through.
 1035_The_Adjustment_Bureau_01.32.59.401-01.33.02.405 	meanwhile, david and elise hurry up a palatial spiral staircase.
 1035_The_Adjustment_Bureau_01.33.40.278-01.33.42.914 	he takes her hand and they hurry on.
 1035_The_Adjustment_Bureau_01.34.37.288-01.34.41.167 	hand in hand they hurry back down the stairs.
-1037_The_Curious_Case_Of_Benjamin_Button_00.08.37.542-00.08.43.751 	a maid in the hallway closes the door as thomas hurries to an upstairs bedroom to find his wife lying in a large bed, under blood-stained sheets.
 1037_The_Curious_Case_Of_Benjamin_Button_00.09.47.627-00.09.51.566 	he hurries downstairs.
 1037_The_Curious_Case_Of_Benjamin_Button_01.59.49.628-01.59.51.711 	the dark-haired young woman puts her shoes on as she hurries out of benjamin's bedroom.
-1037_The_Curious_Case_Of_Benjamin_Button_02.08.40.197-02.08.45.375 	naked body wrapped in a bed sheet, daisy hurries into the bathroom as benjamin takes delivery at the fridge freezer.
 1037_The_Curious_Case_Of_Benjamin_Button_02.37.37.595-02.37.42.004 	she hurries out.
-1038_The_Great_Gatsby_00.53.06.978-00.53.07.813 	nick hurries outside, holding an umbrella.
 1041_This_is_40_01.54.28.617-01.54.33.680 	pete hurls his half-eaten cupcake at the kitchen wall, then hurries past his daughters.
-1044_Pride_And_Prejudice_Disk_Two_00.02.21.699-00.02.35.186 	darcy hurries into a room upstairs and stands in the middle of the room, looking deeply troubled.
-1044_Pride_And_Prejudice_Disk_Two_00.11.18.795-00.11.23.012 	but, lizzie hurries to her room and shuts the door behind her.
-1044_Pride_And_Prejudice_Disk_Two_00.49.01.466-00.49.10.167 	darcy hurries down some steps into the courtyard, quickly pulling on his coat.
 1044_Pride_And_Prejudice_Disk_Two_01.16.05.146-01.16.09.058 	they quickly hurry over to greet it.
 1044_Pride_And_Prejudice_Disk_Two_01.39.02.480-01.39.14.922 	the housekeeper peers out of the window at longbourn, and seeing the messenger arriving, quickly hurries out to meet him.
 1044_Pride_And_Prejudice_Disk_Two_01.40.09.669-01.40.20.336 	the two girls hurry around the outside of the house, then across the wide expanse of lawn, looking for their father.
 1044_Pride_And_Prejudice_Disk_Two_02.16.38.286-02.16.43.715 	she points over to the window and lizzie and her mother quickly hurry over to see for themselves.
 1044_Pride_And_Prejudice_Disk_Two_02.24.33.208-02.24.36.138 	later, mr. bennett hurries out of his study to find lizzie.
-1045_An_education_00.25.45.817-00.25.48.807 	jenny hurries out.
 1046_Australia_00.24.07.623-00.24.12.531 	she hurries indoors to find the boy in her bedroom.
 1046_Australia_02.06.03.145-02.06.05.500 	a priest hurries to the radio hut.
 1047_Defiance_00.03.54.618-00.04.01.625 	he grabs the saw and a cloth bag, hurries his little brother away, past a flock of ducks.
 1047_Defiance_00.14.03.294-00.14.06.627 	they hurry after him in the forest.
 1047_Defiance_01.13.15.093-01.13.19.334 	malbin hurrying through the snow with an armful of kindling stops in his tracks.
-1047_Defiance_01.37.36.262-01.37.37.723 	malbin hurries up to meet him.
-1048_Gran_Torino_00.35.36.995-00.35.43.387 	trey hurries off and walt puts his gun away.
+1048_Gran_Torino_00.47.47.509-00.47.58.143 	he quickly conceals it from sue and hurries away upstairs.
 1048_Gran_Torino_01.28.34.502-01.28.36.184 	she hurries to the door and everyone follows.
-1048_Gran_Torino_01.40.22.415-01.40.27.812 	thao hurries up the stairs and finds that walt has locked him in the basement.
 1048_Gran_Torino_01.42.50.842-01.42.53.320 	she hurries to walt's house.
 1048_Gran_Torino_01.46.46.562-01.46.50.177 	they hurry over to a police officer.
 1049_Harry_Potter_and_the_chamber_of_secrets_00.16.10.202-00.16.24.963 	the hand releases him, and he hurries across the shop towards the open door which leads out into the alley.
@@ -190,47 +132,27 @@
 1051_Harry_Potter_and_the_goblet_of_fire_00.10.31.238-00.10.36.698 	mr. weasley hurries them out of the tent.
 1051_Harry_Potter_and_the_goblet_of_fire_00.42.29.187-00.42.36.566 	on saturday night, he hurries down into the gryffindor common room.
 1051_Harry_Potter_and_the_goblet_of_fire_00.47.28.404-00.47.32.665 	he hurries forward.
-1051_Harry_Potter_and_the_goblet_of_fire_01.16.36.769-01.16.39.899 	ron hurries padma away.
 1051_Harry_Potter_and_the_goblet_of_fire_01.46.10.991-01.46.14.672 	moody aims his wand at a young man hurrying from his seat.
 1052_Harry_Potter_and_the_order_of_phoenix_00.19.04.844-00.19.11.245 	carrying briefcases and bundles of papers, they join the throngs of other witches and wizards hurrying to work through the great underground hall.
-1052_Harry_Potter_and_the_order_of_phoenix_00.57.40.000-00.57.46.094 	neville hurries away from the bullying crabbe and goyle.
 1052_Harry_Potter_and_the_order_of_phoenix_01.17.01.768-01.17.03.910 	he hurries off with hermione.
 1053_Harry_Potter_and_the_philosophers_stone_00.32.29.023-00.32.32.280 	she holds a little girl by the hand and four red-haired boys hurry behind.
 1053_Harry_Potter_and_the_philosophers_stone_00.50.40.303-00.50.45.914 	hermione looks at them disapprovingly as they hurry into the room.
+1053_Harry_Potter_and_the_philosophers_stone_01.07.37.719-01.07.43.558 	hermione hurries past.
+1054_Harry_Potter_and_the_prisoner_of_azkaban_01.22.17.109-01.22.26.740 	a worried look on his face, he runs out of the room and hurries away down the circular staircase.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_01.42.13.147-01.42.22.000 	harry follows the figure, hurrying through the trees towards the moonlit lake.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_01.50.18.586-01.50.30.176 	harry and hermione hurry down the path and hide behind the pile of pumpkins.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_02.05.08.711-02.05.19.470 	they hurry upstairs past the huge clock.
+1055_Marley_and_me_00.51.50.696-00.51.58.654 	he leaves marley playing happily with a big chewy bone and hurries out of the house.
 1057_Seven_pounds_00.38.14.174-00.38.17.821 	the woman hurries out to him.
 1057_Seven_pounds_00.41.32.081-00.41.35.112 	she hurries to the children.
 1057_Seven_pounds_01.33.00.812-01.33.03.995 	ben hurries out of the workshop.
 1058_The_Damned_united_00.16.07.763-00.16.18.244 	they hurry out of a side door in the side of the rusty, corrugated iron stand and over to the entrance gate.
 1059_The_devil_wears_prada_00.12.22.462-00.12.25.862 	andy is hurrying down the street with four coffees.
-1059_The_devil_wears_prada_00.15.53.918-00.15.58.358 	andy hurries in.
 1059_The_devil_wears_prada_00.43.38.500-00.43.48.003 	in the anteroom, emily points at andy, who hurries into the office in a smart black mini dress with white colors and cuffs.
+1059_The_devil_wears_prada_00.48.14.378-00.48.20.165 	she leaves the book on the top step, and hurries away.
 1059_The_devil_wears_prada_01.04.09.059-01.04.15.078 	later, andy is hurrying out of the benefit when she meets christian coming up the steps.
-1059_The_devil_wears_prada_01.19.58.723-01.20.02.716 	andy hurries after miranda.
-1060_Yes_man_00.11.51.541-00.11.58.081 	peter hurries off.
-1062_Day_the_Earth_stood_still_00.22.47.412-00.22.49.823 	personnel hurry to help.
+1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.55.44.282-00.55.52.386 	hurrying down the stairs, harry turns, and propels a third death eater.
 2027_Les_Miserables_00.21.08.730-00.21.13.588 	valjean and javert hurry out across the factory yard and down the muddy track beyond to discover - a heavily laden cart has toppled onto the cart driver - fauchelevent, the worker seen before taking a rest on a crate.
-1053_Harry_Potter_and_the_philosophers_stone_00.32.29.023-00.32.32.280 	she holds a little girl by the hand and four red-haired boys hurry behind.
-1053_Harry_Potter_and_the_philosophers_stone_00.50.40.303-00.50.45.914 	hermione looks at them disapprovingly as they hurry into the room.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_01.42.13.147-01.42.22.000 	harry follows the figure, hurrying through the trees towards the moonlit lake.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_01.50.18.586-01.50.30.176 	harry and hermione hurry down the path and hide behind the pile of pumpkins.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_02.05.08.711-02.05.19.470 	they hurry upstairs past the huge clock.
-1057_Seven_pounds_00.38.14.174-00.38.17.821 	the woman hurries out to him.
-1057_Seven_pounds_00.41.32.081-00.41.35.112 	she hurries to the children.
-1057_Seven_pounds_01.33.00.812-01.33.03.995 	ben hurries out of the workshop.
-1058_The_Damned_united_00.16.07.763-00.16.18.244 	they hurry out of a side door in the side of the rusty, corrugated iron stand and over to the entrance gate.
-1059_The_devil_wears_prada_00.12.22.462-00.12.25.862 	andy is hurrying down the street with four coffees.
-1059_The_devil_wears_prada_00.15.53.918-00.15.58.358 	andy hurries in.
-1059_The_devil_wears_prada_00.43.38.500-00.43.48.003 	in the anteroom, emily points at andy, who hurries into the office in a smart black mini dress with white colors and cuffs.
-1059_The_devil_wears_prada_01.04.09.059-01.04.15.078 	later, andy is hurrying out of the benefit when she meets christian coming up the steps.
-1059_The_devil_wears_prada_01.19.58.723-01.20.02.716 	andy hurries after miranda.
-1060_Yes_man_00.11.51.541-00.11.58.081 	peter hurries off.
-1062_Day_the_Earth_stood_still_00.22.47.412-00.22.49.823 	personnel hurry to help.
-2027_Les_Miserables_00.21.08.730-00.21.13.588 	valjean and javert hurry out across the factory yard and down the muddy track beyond to discover - a heavily laden cart has toppled onto the cart driver - fauchelevent, the worker seen before taking a rest on a crate.
+2027_Les_Miserables_01.00.34.789-01.00.34.906 	valjean and cosette turn down a narrow street, no longer hurrying.
 2027_Les_Miserables_01.09.18.969-01.09.19.142 	a priest is seen hurrying into the house, accompanied by two altar boys.
-2027_Les_Miserables_01.28.28.971-01.28.30.412 	cosette hurries down the garden to the gate, and goes to put the folded letter in the grill where her and marius' hands entwined.
-2034_Super_8_00.24.25.798-00.24.27.108 	alice hurries past, hunting for her keys in that big purse -- she eyes the flashlight men getting closer.
 2034_Super_8_01.14.49.273-01.14.53.763 	the boys -- with flashlights -- turn a corner -- hurry down the hall.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_01.22.42.985-01.22.46.365 	hurrying past.

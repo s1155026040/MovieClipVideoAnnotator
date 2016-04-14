@@ -1,6 +1,1 @@
 IRON_MAN_2.srt 	IRON_MAN_2_DVS110 	00:22:04,00 --> 00:22:08,50 	he hands pepper a glass of champagne.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS137 	00:25:43,00 --> 00:25:48,50 	someone stares after her, then turns to pepper.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS318 	00:57:49,00 --> 00:57:54,50 	someone runs to pepper.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS320 	00:57:56,00 --> 00:58:04,50 	someone ushers pepper out one way while someone hurries out another.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS415 	01:17:56,00 --> 01:18:02,50 	someone wheels his chair over to pepper.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS689 	01:54:02,00 --> 01:54:08,50 	someone turns to pepper.

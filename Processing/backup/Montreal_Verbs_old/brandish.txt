@@ -1,0 +1,4 @@
+DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS343 	01:23:11,00 --> 01:23:15,50 	he brandishes a sword.
+PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS258 	01:07:22,00 --> 01:07:33,50 	someone bashes the heads with his shield, then runs out brandishing his sword.
+THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS489 	01:28:17,00 --> 01:28:21,50 	they brandish their guns.
+THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS328 	01:00:14,00 --> 01:00:18,50 	he brandish his pliers.

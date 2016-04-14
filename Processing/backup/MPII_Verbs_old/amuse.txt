@@ -1,10 +1,21 @@
-0004_Charade_01.19.34.021-01.19.36.569 	Some are embarrassed, some are amused and some (the most intimate) damn annoyed.
-0005_Chinatown_01.16.06.369-01.16.08.445 	Evelyn stares back at Gittes, amused and appalled.
-0011_Gandhi_00.09.39.421-00.09.43.517 	We see Mr. Baker, a wealthy white lawyer, whose home this is, poking at the fire, slightly amused at Gandhi's Na vet.
-0011_Gandhi_00.43.01.137-00.43.04.182 	The young Nehru, somewhat amused by all the excitement, leads Gandhi through the crowd to a little flower-covered platform.
-0021_Rear_Window_00.39.52.335-00.39.54.609 	Jeff is amused at the dog incident.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.13.31.339-00.13.36.499 	Gandalf watches, amused as Bilbo tries to hide.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.36.03.869-00.36.08.957 	DENETHOR smiles at GANDALF, as if amused by something.
-0030_The_Hustler_00.42.17.651-00.42.18.950 	She seems amused by their encounter.
-0038_Psycho_00.34.42.954-00.34.51.044 	Mary looks after him, her face showing amused sympathy, then follows.
-0050_Indiana_Jones_and_the_last_crusade_00.45.39.154-00.45.41.057 	Indy dabs at his nose with the handkerchief as Elsa looks on in amused amazement.
+0001_American_Beauty_00.32.46.016-00.32.47.387 	carolyn is nervous; buddy seems amused.
+0002_As_Good_As_It_Gets_01.06.57.279-01.07.00.049 	carol is amused, surprised.
+0004_Charade_01.19.34.021-01.19.36.569 	some are embarrassed, some are amused and some (the most intimate) damn annoyed.
+0005_Chinatown_01.16.06.369-01.16.08.445 	evelyn stares back at gittes, amused and appalled.
+0011_Gandhi_00.09.39.421-00.09.43.517 	we see mr. baker, a wealthy white lawyer, whose home this is, poking at the fire, slightly amused at gandhi's na vet.
+0011_Gandhi_00.43.01.137-00.43.04.182 	the young nehru, somewhat amused by all the excitement, leads gandhi through the crowd to a little flower-covered platform.
+0011_Gandhi_00.46.37.252-00.46.39.546 	gokhale is pleased, gandhi amused.
+0017_Pianist_00.12.53.195-00.12.56.228 	as she does so, the door of henryk's room opens and he stands leaning in the doorway, watching, as if amused.
+0017_Pianist_00.20.05.318-00.20.07.105 	the german soldiers are, to various degrees, amused.
+0021_Rear_Window_00.39.52.335-00.39.54.609 	jeff is amused at the dog incident.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.13.31.339-00.13.36.499 	gandalf watches, amused as bilbo tries to hide.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.36.03.869-00.36.08.957 	denethor smiles at gandalf, as if amused by something.
+0026_The_Big_Fish_00.13.08.504-00.13.09.593 	he stares transfixed, perplexed and amused.
+0026_The_Big_Fish_00.54.27.740-00.54.30.112 	amos smiles, amused.
+0030_The_Hustler_00.42.17.651-00.42.18.950 	she seems amused by their encounter.
+0030_The_Hustler_01.11.18.503-01.11.25.770 	amused, bert gets up and joins eddie at the bar.
+1029_Pride_And_Prejudice_Disk_One_01.03.02.404-01.03.05.785 	now the family is outside amusing themselves in the gardens.
+1030_Public_Enemies_00.26.39.861-00.26.40.894 	he flashes an amused smile and sits back.
+1035_The_Adjustment_Bureau_00.10.10.379-00.10.15.884 	their amused smiles relax as their stare lingers.
+2041_This_is_40_01.45.47.926-01.45.51.116 	oliver smiles, amused.
+2054_Harry_Potter_and_the_prisoner_of_azkaban_01.31.49.379-01.31.50.205 	black howls then, bitterly amused.

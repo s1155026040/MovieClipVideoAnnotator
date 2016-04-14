@@ -1,0 +1,4 @@
+CHRONICLE.srt 	CHRONICLE_DVS59 	00:06:57,00 --> 00:07:02,50 	he sits back a bit and expels a shaky breath.
+SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS791 	00:53:06,00 --> 00:53:11,50 	she sighs excitedly, expelling a foggy breath.
+THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS732 	01:43:15,00 --> 01:43:21,50 	remaining fixed on her, someone draws and expels a deep breath,
+THE_WATCH.srt 	THE_WATCH_DVS77 	00:10:04,00 --> 00:10:09,50 	he expels a deep breath.

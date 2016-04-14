@@ -1,0 +1,4 @@
+BURLESQUE.srt 	BURLESQUE_DVS203 	00:30:22,00 --> 00:30:29,50 	now at the club, an employee polishes mirrored panels behind the bar.
+HUGO.srt 	HUGO_DVS57 	00:07:31,00 --> 00:07:40,50 	the dog skids across the polished floor as he runs up the hallway opposite the toyshop.
+HUGO.srt 	HUGO_DVS153 	00:21:04,00 --> 00:21:10,50 	back in the shop, someone polishes the automaton with a strip of cloth.
+PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS242 	01:04:32,00 --> 01:04:40,50 	later someone drags the janitor across the polished floor, pulling him behind a line of columns.

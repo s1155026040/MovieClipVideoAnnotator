@@ -1,6 +1,3 @@
-21_JUMP_STREET.srt 	21_JUMP_STREET_DVS544 	01:23:58,00 --> 01:24:05,50 	someone and someone enter a ballroom filled with celebrating students.
 30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS27 	00:05:38,00 --> 00:05:43,50 	two guys celebrate in a scrapyard.
 HUGO.srt 	HUGO_DVS642 	01:32:39,00 --> 01:32:46,50 	later, people celebrate the explorers with a parade and a statue in their honor.
-JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS348 	01:49:49,00 --> 01:50:00,50 	the couple sways happily in unison as their friends and loved ones celebrate around them.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1223 	01:22:09,00 --> 01:22:15,50 	thank you for traveling all this way to celebrate our daughter's wedding.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1302 	01:57:19,00 --> 01:57:27,50 	in slow motion, both the russians and americans celebrate.

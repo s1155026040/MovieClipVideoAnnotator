@@ -1,3 +1,3 @@
-0009_Forrest_Gump_02.10.29.683-02.10.33.593 	Forrest tries to teach Forrest Jr. how to play ping-pong.
-0012_Get_Shorty_01.14.28.977-01.14.32.789 	Scrambling now to play it the way Chili taught him, Harry quickly gestures to the red leather chair arross the desk.
-0033_Amadeus_01.13.21.831-01.13.22.043 	Mozart, dandified in a new coat and a plumed hat for the occasion, has arrived to teach at the house of a prosperous merchant, MICHAEL SCHLUMBERG.
+0009_Forrest_Gump_02.10.29.683-02.10.33.593 	forrest tries to teach forrest jr. how to play ping-pong.
+0012_Get_Shorty_01.14.28.977-01.14.32.789 	scrambling now to play it the way chili taught him, harry quickly gestures to the red leather chair arross the desk.
+0033_Amadeus_01.13.21.831-01.13.22.043 	mozart, dandified in a new coat and a plumed hat for the occasion, has arrived to teach at the house of a prosperous merchant, michael schlumberg.

@@ -1,13 +1,2 @@
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS526 	01:22:20,00 --> 01:22:26,50 	someone clips the shotgun to the back of his partner's shoulder holster.
-21_JUMP_STREET.srt 	21_JUMP_STREET_DVS533 	01:22:40,00 --> 01:22:46,50 	then notices the hanging shotgun clipped to the back of his partners holster.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS265 	00:23:00,00 --> 00:23:08,50 	as the truck follows, it clips the sedan and sends it soaring off the ramp onto the street below.
-DISTRICT_9.srt 	DISTRICT_9_DVS181 	00:20:52,00 --> 00:21:08,50 	by tiny alligator clips holds a gelatinous puddle.
-KARATE_KID.srt 	KARATE_KID_DVS1179 	01:37:00,00 --> 01:37:06,50 	in a deep dent on the hood, he notices a newspaper clipping lying under pebbles of shattered glass.
-MORNING_GLORY.srt 	MORNING_GLORY_DVS495 	01:41:24,00 --> 01:41:31,50 	someone's mum pins up a newspaper clipping on a notice board that reads daybreak revitalized.
-PROMETHEUS.srt 	PROMETHEUS_DVS430 	00:43:36,00 --> 00:43:44,50 	someone clips himself to a cable attached to someone.
-PROMETHEUS.srt 	PROMETHEUS_DVS432 	00:44:00,00 --> 00:44:08,50 	the android calmly clips the humans to his line and gives someone the okay hand signal.
-SUPER_8.srt 	SUPER_8_DVS106 	00:17:38,00 --> 00:17:44,50 	someone dashes aside as a cart wheeling train cart clips the depot.
-THE_CALL.srt 	THE_CALL_DVS225 	00:18:53,00 --> 00:19:00,50 	she eyes a newspaper clipping for leah templeton's memorial taped inside the door.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS745 	01:23:51,00 --> 01:24:01,50 	at the cottage, someone attaches a newspaper clipping about birger vanger to the family tree above a sticky note reading son of harold.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS525 	01:13:45,00 --> 01:13:51,50 	now, a magazine clipping features a model with a poufy updo.
-YOUNG_ADULT.srt 	YOUNG_ADULT_DVS224 	00:42:40,00 --> 00:42:48,50 	standing in a mirror, someone clips a blonde weave onto the back of her head and blends it in to her own hair with a brush.

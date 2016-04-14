@@ -1,4 +1,1 @@
-30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS197 	00:50:32,00 --> 00:50:38,50 	as the datsun makes a sharp right, pedestrians dodge to a sidewalk.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS55 	00:09:50,00 --> 00:09:56,50 	now pedestrians cross a bustling town square.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS68 	00:16:55,00 --> 00:17:00,50 	now pedestrians in traffic crowd as
-SALT.srt 	SALT_DVS22 	00:03:52,00 --> 00:04:37,50 	now pedestrians pass a high-rise apartment building.

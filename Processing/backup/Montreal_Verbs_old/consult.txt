@@ -1,0 +1,8 @@
+COLOMBIANA.srt 	COLOMBIANA_DVS203 	00:17:29,00 --> 00:17:34,50 	consulting the business card from her father,
+LARRY_CROWNE.srt 	LARRY_CROWNE_DVS317 	01:14:44,00 --> 01:14:48,50 	booth consulting notes and typing on a laptop.
+SOUL_SURFER.srt 	SOUL_SURFER_DVS315 	01:34:24,00 --> 01:34:31,50 	a judge readies the air horn and consults a stopwatch.
+SUPER_8.srt 	SUPER_8_DVS89 	00:14:39,00 --> 00:14:44,50 	someone speaks without consulting her script.
+THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS309 	00:36:51,00 --> 00:36:55,50 	he consults her file.
+THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS567 	01:02:58,00 --> 01:03:04,50 	now, he consults with an archivist.
+THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS833 	01:34:52,00 --> 01:34:58,50 	he consults the newspaper photo then heads over to the cabin.
+WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS407 	01:04:10,00 --> 01:04:18,50 	now, someone hurries into an open office of cubicles, past employees consulting clients.

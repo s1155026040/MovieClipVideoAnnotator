@@ -1,21 +1,12 @@
-30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS307 	01:10:11,00 --> 01:10:30,50 	someone repeatedly pokes at someone's face, which is covered in a slayer t-shirt.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS32 	00:03:47,00 --> 00:03:52,50 	grinning, someone pokes his tongue between his teeth.
 BAD_TEACHER.srt 	BAD_TEACHER_DVS280 	01:15:52,00 --> 01:15:57,50 	she pokes someone's chest.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS427 	01:08:41,00 --> 01:08:45,50 	someone pokes his belly.
-BRUNO.srt 	BRUNO_DVS27 	00:05:21,00 --> 00:05:25,50 	he pokes him, to yank it free.
-COLOMBIANA.srt 	COLOMBIANA_DVS212 	00:18:14,00 --> 00:18:22,50 	wiping her mouth, she settles back into her seat and uses one finger to poke around the vomit.
 EASY_A.srt 	EASY_A_DVS195 	01:00:50,00 --> 01:00:57,50 	her hair pokes into someone's mouth.
 FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS260 	01:09:01,00 --> 01:09:07,50 	later, someone's leg pokes out from under a sheet.
-HUGO.srt 	HUGO_DVS746 	01:49:23,00 --> 01:49:31,50 	he peers into a window as someone and the inspector poke their heads into the clockwork's interior.
 JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS233 	01:20:23,00 --> 01:20:33,50 	he pokes it a few times.
 KNOCKED_UP.srt 	KNOCKED_UP_DVS170 	01:47:16,00 --> 01:47:20,50 	someone pokes his head into the bathroom.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS742 	01:17:21,00 --> 01:17:29,50 	someone pokes the spear directly in front of someone's face and the beast pins back his ears to his head.
-MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS87 	00:13:14,00 --> 00:13:21,50 	eyeing the penguin he cautiously crouches down and pokes its white chest.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS197 	00:42:28,00 --> 00:42:34,50 	pokes its rear into view and playfully flexes its legs to the sky.
-NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS198 	00:42:37,00 --> 00:42:40,50 	poking their heads up they circle
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS327 	01:02:20,00 --> 01:02:25,50 	someone pokes bryant with the gun.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS438 	01:48:35,00 --> 01:48:40,50 	teen orphan pokes his head through and extends a hand.
-SOUL_SURFER.srt 	SOUL_SURFER_DVS251 	01:15:20,00 --> 01:15:27,50 	someone picks up a ponytailed little boy who pokes the stub of someone's missing arm.
 THE_VOW.srt 	THE_VOW_DVS169 	00:17:35,00 --> 00:17:40,50 	she pokes his shoulder with one finger.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS130 	00:14:49,00 --> 00:14:54,50 	someone pokes him with his wand.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS596 	01:05:25,00 --> 01:05:29,50 	he pokes partway through.

@@ -1,13 +1,11 @@
-0005_Chinatown_00.53.52.149-00.53.55.160 	Workmen are behind it, scraping away Mulwray's name on the outer door, looking up at Gittes in some surprise.
+0005_Chinatown_00.53.52.149-00.53.55.160 	workmen are behind it, scraping away mulwray's name on the outer door, looking up at gittes in some surprise.
 0008_Fargo_00.23.14.805-00.23.18.664 	and starts methodically scraping off the thin crust of ice that has developed on his windshield.
-0011_Gandhi_01.26.00.142-01.26.00.697 	It won't go through the gates, one fender scraping against the gate post.
-0016_O_Brother_Where_Art_Thou_00.16.47.866-00.16.48.817 	He scrapes the last of it onto his comb and starts combing his hair.
-0027_The_Big_Lebowski_00.56.34.203-00.56.36.429 	The driver's side exterior has been scraped raw.
-0050_Indiana_Jones_and_the_last_crusade_01.34.24.107-01.34.26.985 	He screams as the gun scrapes against the cliff wall, sending stones tumbling down over him.
+0011_Gandhi_01.26.00.142-01.26.00.697 	it won't go through the gates, one fender scraping against the gate post.
+0016_O_Brother_Where_Art_Thou_00.16.47.866-00.16.48.817 	he scrapes the last of it onto his comb and starts combing his hair.
+0027_The_Big_Lebowski_00.56.34.203-00.56.36.429 	the driver's side exterior has been scraped raw.
+0050_Indiana_Jones_and_the_last_crusade_01.19.34.088-01.19.37.042 	sparks fly as its belly scrapes against the pavement and the sides of the tunnel.
+0050_Indiana_Jones_and_the_last_crusade_01.34.24.107-01.34.26.985 	he screams as the gun scrapes against the cliff wall, sending stones tumbling down over him.
 1010_TITANIC_01.40.19.513-01.40.23.415 	the ship scrapes along the side of the ice.
-1014_2012_01.18.10.694-01.18.14.783 	the plane wide rings narrowly scrapes through.
 1014_2012_02.18.44.851-02.18.53.408 	the ark scrapes against the mountain as jackson attempts to pry the power drill free.
-1033_Sherlock_Holmes_A_Game_of_Shadows_00.29.07.896-00.29.09.648 	they struggle, and the corsac's blade scrapes holmes' cheek.
 1047_Defiance_00.30.41.989-00.30.47.079 	laila is scraping the bottom of a cooking pot with a ladle.
-1048_Gran_Torino_00.58.58.804-00.58.59.679 	walt smokes a cigarette and watches as thao scrapes old paint off the clapboard exterior.
-1052_Harry_Potter_and_the_order_of_phoenix_00.08.14.644-00.08.18.190 	he turns his head as he hears a scraping sound.
+2034_Super_8_00.55.23.255-00.55.26.250 	battered and scraped, he lies in a medical bed, afraid, but defiant.

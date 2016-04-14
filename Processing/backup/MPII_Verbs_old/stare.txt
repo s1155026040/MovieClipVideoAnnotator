@@ -1,102 +1,64 @@
-0001_American_Beauty_00.29.44.004-00.29.46.574 	The three of them stare at the TV, like strangers in an airport.
-0001_American_Beauty_00.54.15.719-00.54.28.530 	Carolyn picks hers up mechanically, but continues to stare at him, enraptured, like a fervent Christian who's just come face to face with Jesus.
-0001_American_Beauty_01.39.18.345-01.39.18.822 	Lester and the Colonel stare at each other through the window.
-0003_CASABLANCA_01.38.50.330-01.38.52.341 	Ilsa looks at Rick and he returns her stare with a blank expression.
-0004_Charade_00.35.07.450-00.35.07.875 	Petrified with fear, REGGIE can only stare dumbly at the protruding claw.
-0004_Charade_01.07.07.249-01.07.26.882 	As they stare at the case, surprised and just a little embarrassed.
-0004_Charade_01.39.02.619-01.39.02.753 	They stare at each other for a moment.
-0005_Chinatown_00.42.46.412-00.42.47.919 	Mulvihill and the Smaller Man stare at him.
-0006_Clerks_00.34.46.205-00.34.46.599 	DANTE, RANDAL and the SMOKER stare at the O.C.
-0006_Clerks_01.12.57.542-01.13.05.251 	RANDAL and DANTE stare at CAITLIN, confused.
-0006_Clerks_01.15.21.529-01.15.24.814 	RANDAL and the CORONER stare in disbelief.
-0006_Clerks_01.15.51.385-01.15.54.114 	DANTE and RANDAL stare at the floor.
-0008_Fargo_00.05.07.666-00.05.12.370 	They stare at him.
-0008_Fargo_01.22.26.576-01.22.28.191 	After a long moment her stare breaks.
-0008_Fargo_01.31.00.296-01.31.02.344 	Grimsrud's hollow eyes stare out.
-0009_Forrest_Gump_02.01.58.933-02.02.21.931 	Forrest continues to stare at Forrest Jr.
-0010_Frau_Ohne_Gewissen_01.44.34.950-01.44.38.783 	They stare at each other for a long moment, then, with intense effort Neff gets up on his feet and stands there swaying a little.
-0011_Gandhi_00.26.57.283-00.26.58.238 	The police stare imperturbably.
-0011_Gandhi_00.37.56.005-00.37.56.881 	People working in offices pause to stare at Gandhi as he moves along, more uncomfortably aware of his prison garb than ever.
-0011_Gandhi_01.05.12.199-01.05.16.105 	It is firm and there is an edge of assertiveness to it that the Captain doesn't like, but Gandhi's unrelenting stare unnerves him.
-0011_Gandhi_01.19.27.239-01.19.29.791 	They all stare at him, startled by his words and the fervor with which he speaks to them.
-0012_Get_Shorty_01.32.26.762-01.32.31.688 	The two men stare at each as we hear.
-0013_Halloween_00.06.04.950-00.06.05.237 	The sister continues to stare incredulously.
-0013_Halloween_00.06.58.397-00.07.00.585 	Mother and Father stare at the POV, at first in puzzlement, then slow, growing horror.
-0013_Halloween_00.56.49.705-00.56.50.489 	They stare fearfully at the dark, tomb-like structure.
-0013_Halloween_01.16.39.859-01.16.40.698 	She can only stare in horror at the sight of her dead friend.
-0014_Ist_das_Leben_nicht_schoen_01.30.55.350-01.30.56.040 	Mary and the children stare at him, stunned by his furious outburst.
-0016_O_Brother_Where_Art_Thou_00.07.33.062-00.07.36.618 	The cloudy eyes of the old man stare sightlessly down the track as the seesaw handle rises and falls through frame.
-0016_O_Brother_Where_Art_Thou_00.35.31.378-00.35.35.458 	The customers stare mutely back.
-0016_O_Brother_Where_Art_Thou_00.57.21.568-00.57.26.921 	Lone and lorn, he returns Everett's slack-jawed stare until heat ripples and the truck's dusty wake dissolve him away.
-0016_O_Brother_Where_Art_Thou_01.11.42.970-01.11.46.792 	He and Delmar stare at Everett.
-0017_Pianist_00.31.10.473-00.31.11.752 	Szpilman and Henryk stare at the scene, silent, shocked.
-0017_Pianist_01.16.47.379-01.16.49.538 	Some read newspapers, others stare into space or out of the windows, but never looking at the Poles.
-0020_Raising_Arizona_00.07.25.154-00.07.26.609 	Hi and Ed continue to stare at the point where it disappeared.
-0021_Rear_Window_00.24.52.250-00.24.52.695 	He finds something of interest, and stops to stare at it.
-0021_Rear_Window_01.15.13.822-01.15.14.774 	Jeff and Lisa stare at him in astonishment.
-0023_THE_BUTTERFLY_EFFECT_00.55.23.301-00.55.25.140 	Evan, still stunned, can do little but stare from the floor.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.28.04.156-02.28.07.632 	The fellowship stare in stunned silence as the current takes them through the narrow gap between the Statues' feet.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.10.01.435-00.10.02.759 	GANDALF, ARAGORN, LEGOLAS and GIMLI stare at the SIGHT before them.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.38.13.707-00.38.21.548 	GANDALF and PIPPIN share a quiet moment as they stare out towards the FIERY SKY over MORDOR.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.29.09.095-01.29.26.556 	GHOSTLY FACES stare hollow-eyed at ARAGORN.
-0027_The_Big_Lebowski_00.40.17.214-00.40.23.505 	The three bowlers, stopped at the edge of the lot, stare out at an empty parking space.
-0029_The_Graduate_00.41.29.107-00.41.29.772 	Ben continues to stare at the set.
-0030_The_Hustler_00.52.16.117-00.52.25.499 	They stare at one another for a long moment.
-0030_The_Hustler_01.31.05.922-01.31.16.303 	The waiter pours out the sherry as Eddie and Sarah stare at each other over their glasses.
-0030_The_Hustler_01.37.55.848-01.37.57.954 	Eddie and Sarah just stare at him.
-0032_The_Princess_Bride_00.10.57.792-00.11.02.358 	And suddenly the three whirl, stare back and as they do.
-0032_The_Princess_Bride_00.46.05.042-00.46.05.863 	The have climbed into a nearby tree, stare hungrily down.
-0032_The_Princess_Bride_01.14.08.043-01.14.09.993 	Inigo and FEZZIK stare at the thing too, but more dubiously.
-0033_Amadeus_00.02.21.572-00.02.23.640 	In horror, the two men stare at it.
-0033_Amadeus_01.03.26.419-01.03.29.233 	They stare at one another: Constanze in total disbelief.
-0038_Psycho_01.24.49.421-01.24.51.185 	Sam and Lila stare at the Sheriff.
-0041_The_Sixth_Sense_00.14.44.447-00.14.50.470 	Cole and Malcolm just stare at each other.
-0041_The_Sixth_Sense_00.32.49.227-00.32.55.035 	Cole's sad eyes stare up at Malcolm.
-0041_The_Sixth_Sense_00.41.48.173-00.41.52.741 	Cole and the overweight boy stare at each other.
-0041_The_Sixth_Sense_01.16.35.225-01.16.36.545 	Cole holds her stare with trembling eyes.
-0041_The_Sixth_Sense_01.21.51.470-01.21.54.941 	Cole and the sickly girl stare at each other.
-0046_Chasing_Amy_00.19.12.277-00.19.13.845 	Hooper, Holden, and Banky stare OC.
-0046_Chasing_Amy_00.26.05.046-00.26.08.084 	Holden continues to stare - mouth agape.
-0046_Chasing_Amy_01.02.15.782-01.02.20.732 	All four Girls stare at Alyssa, a bit horrified.
-0049_Hannah_and_her_sisters_00.39.51.519-00.39.57.972 	Lee looks down again; the music plays softly and Elliot continues to stare at her, thinking.
-0050_Indiana_Jones_and_the_last_crusade_00.07.26.120-00.07.27.602 	Indy and Roscoe stare at the horn in amazement as they continue to struggle.
-0050_Indiana_Jones_and_the_last_crusade_01.31.47.714-01.31.50.236 	The bullet not only passes through the Nazi, but passes through two other Nazis standing directly behind him on the crowded tank top and three bodies fall away, leaving Indy to stare at the gun in disbelief.
-0051_Men_in_black_00.08.29.499-00.08.30.285 	They stare blankly.
-0051_Men_in_black_00.29.33.854-00.29.34.795 	He holds a neuralyzer up in front of them, and the Recruits stare obediently at it as Zed slips on a pair of black sunglasses.
-0051_Men_in_black_00.41.31.733-00.41.32.895 	Rosenberg and the Arquillian stare at each other for a long moment -- -- and then embrace each other.
-1001_Flight_01.18.34.786-01.18.43.544 	They stare at each other, unmoving.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.17.01.628-00.17.04.182 	They both stare at Bellatrix.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.48.30.042-00.48.32.790 	Hermione and Ginny stare at Harry who shifts awkwardly.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.54.43.646-00.54.45.102 	The others stare at him.
-1003_How_to_Lose_Friends_and_Alienate_People_01.23.08.063-01.23.12.329 	They sip their drinks and stare straight ahead.
-1003_How_to_Lose_Friends_and_Alienate_People_01.42.28.958-01.42.36.533 	He staggers around, looking left and right, then stops to stare up a grassy incline.
-1004_Juno_01.14.29.660-01.14.33.327 	Her eyes stare straight ahead, not looking at anything in particular.
-1005_Signs_00.29.52.069-00.30.03.341 	Graham and his family stare fixedly out at the young man, who shuts his car door and glances over at the restaurant.
-1005_Signs_00.31.56.070-00.31.59.070 	Graham and Merrill stare at each other and listen.
-1005_Signs_01.12.33.590-01.12.36.962 	Graham and his family look up and stare at.
-1005_Signs_01.15.20.640-01.15.26.307 	They all stare in the direction of the barking beyond the wooden mantle piece which stands at the far end of the room.
-1005_Signs_01.16.45.436-01.16.52.370 	They swing around and stare petrified down the hallway and into the kitchen towards the backdoor.
-1005_Signs_01.22.19.096-01.22.23.972 	Merrill and Graham stand and stare at him, stunned.
-1005_Signs_01.36.10.558-01.36.16.526 	He turns back around to stare with stern determination at the alien.
-1005_Signs_01.37.07.740-01.37.14.427 	Merrill and Graham stare around the room at the collection of discarded glasses of water.
-1006_Slumdog_Millionaire_00.14.33.325-00.14.36.275 	The policemen stare at Jamal.
-1006_Slumdog_Millionaire_00.19.36.914-00.19.41.169 	The boys are frozen to the spot momentarily and stare at the bow and arrow in the boy's hand.
-1006_Slumdog_Millionaire_01.02.34.986-01.02.41.490 	They stare at each other for a long time.
-1006_Slumdog_Millionaire_01.04.30.052-01.04.35.997 	Back in the police station, the inspector and Srinivas stare at the sweating Jamal.
-1006_Slumdog_Millionaire_01.17.21.780-01.17.28.332 	Jamal and Latika stare at each other.
+0001_American_Beauty_00.29.44.004-00.29.46.574 	the three of them stare at the tv, like strangers in an airport.
+0001_American_Beauty_00.54.15.719-00.54.28.530 	carolyn picks hers up mechanically, but continues to stare at him, enraptured, like a fervent christian who's just come face to face with jesus.
+0003_CASABLANCA_00.25.31.401-00.25.32.092 	she is so beautiful, in fact, that people turn to stare.
+0004_Charade_00.35.07.450-00.35.07.875 	petrified with fear, reggie can only stare dumbly at the protruding claw.
+0004_Charade_01.07.07.249-01.07.26.882 	as they stare at the case, surprised and just a little embarrassed.
+0004_Charade_01.39.02.619-01.39.02.753 	they stare at each other for a moment.
+0008_Fargo_00.05.07.666-00.05.12.370 	they stare at him.
+0008_Fargo_01.31.00.296-01.31.02.344 	grimsrud's hollow eyes stare out.
+0009_Forrest_Gump_02.01.58.933-02.02.21.931 	forrest continues to stare at forrest jr.
+0010_Frau_Ohne_Gewissen_01.44.34.950-01.44.38.783 	they stare at each other for a long moment, then, with intense effort neff gets up on his feet and stands there swaying a little.
+0011_Gandhi_00.37.56.005-00.37.56.881 	people working in offices pause to stare at gandhi as he moves along, more uncomfortably aware of his prison garb than ever.
+0011_Gandhi_01.19.27.239-01.19.29.791 	they all stare at him, startled by his words and the fervor with which he speaks to them.
+0012_Get_Shorty_01.32.26.762-01.32.31.688 	the two men stare at each as we hear.
+0013_Halloween_00.06.04.950-00.06.05.237 	the sister continues to stare incredulously.
+0013_Halloween_00.56.49.705-00.56.50.489 	they stare fearfully at the dark, tomb-like structure.
+0013_Halloween_01.16.39.859-01.16.40.698 	she can only stare in horror at the sight of her dead friend.
+0014_Ist_das_Leben_nicht_schoen_00.36.10.929-00.36.14.867 	george and uncle billy stare, astounded.
+0014_Ist_das_Leben_nicht_schoen_01.30.55.350-01.30.56.040 	mary and the children stare at him, stunned by his furious outburst.
+0016_O_Brother_Where_Art_Thou_00.05.15.361-00.05.18.014 	the hobos stare.
+0016_O_Brother_Where_Art_Thou_00.35.31.378-00.35.35.458 	the customers stare mutely back.
+0016_O_Brother_Where_Art_Thou_01.07.01.827-01.07.03.622 	everett, jaw hanging open, can only stare, as if at a ghost.
+0017_Pianist_01.16.47.379-01.16.49.538 	some read newspapers, others stare into space or out of the windows, but never looking at the poles.
+0020_Raising_Arizona_00.07.25.154-00.07.26.609 	hi and ed continue to stare at the point where it disappeared.
+0021_Rear_Window_00.24.52.250-00.24.52.695 	he finds something of interest, and stops to stare at it.
+0023_THE_BUTTERFLY_EFFECT_01.18.49.018-01.18.51.957 	they continue to stare.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.38.13.707-00.38.21.548 	gandalf and pippin share a quiet moment as they stare out towards the fiery sky over mordor.
+0027_The_Big_Lebowski_00.40.17.214-00.40.23.505 	the three bowlers, stopped at the edge of the lot, stare out at an empty parking space.
+0029_The_Graduate_00.41.29.107-00.41.29.772 	ben continues to stare at the set.
+0030_The_Hustler_00.52.16.117-00.52.25.499 	they stare at one another for a long moment.
+0032_The_Princess_Bride_00.10.57.792-00.11.02.358 	and suddenly the three whirl, stare back and as they do.
+0033_Amadeus_00.02.21.572-00.02.23.640 	in horror, the two men stare at it.
+0033_Amadeus_01.03.26.419-01.03.29.233 	they stare at one another: constanze in total disbelief.
+0041_The_Sixth_Sense_00.32.49.227-00.32.55.035 	cole's sad eyes stare up at malcolm.
+0046_Chasing_Amy_00.26.05.046-00.26.08.084 	holden continues to stare - mouth agape.
+0049_Hannah_and_her_sisters_00.39.51.519-00.39.57.972 	lee looks down again; the music plays softly and elliot continues to stare at her, thinking.
+0050_Indiana_Jones_and_the_last_crusade_01.31.47.714-01.31.50.236 	the bullet not only passes through the nazi, but passes through two other nazis standing directly behind him on the crowded tank top and three bodies fall away, leaving indy to stare at the gun in disbelief.
+0051_Men_in_black_00.08.29.499-00.08.30.285 	they stare blankly.
+0051_Men_in_black_00.29.33.854-00.29.34.795 	he holds a neuralyzer up in front of them, and the recruits stare obediently at it as zed slips on a pair of black sunglasses.
+1001_Flight_01.18.34.786-01.18.43.544 	they stare at each other, unmoving.
+1002_Harry_Potter_and_the_Half-Blood_Prince_00.17.01.628-00.17.04.182 	they both stare at bellatrix.
+1002_Harry_Potter_and_the_Half-Blood_Prince_00.54.43.646-00.54.45.102 	the others stare at him.
+1003_How_to_Lose_Friends_and_Alienate_People_01.23.08.063-01.23.12.329 	they sip their drinks and stare straight ahead.
+1003_How_to_Lose_Friends_and_Alienate_People_01.42.28.958-01.42.36.533 	he staggers around, looking left and right, then stops to stare up a grassy incline.
+1004_Juno_01.14.29.660-01.14.33.327 	her eyes stare straight ahead, not looking at anything in particular.
+1005_Signs_01.12.33.590-01.12.36.962 	graham and his family look up and stare at.
+1005_Signs_01.15.20.640-01.15.26.307 	they all stare in the direction of the barking beyond the wooden mantle piece which stands at the far end of the room.
+1005_Signs_01.16.45.436-01.16.52.370 	they swing around and stare petrified down the hallway and into the kitchen towards the backdoor.
+1005_Signs_01.36.10.558-01.36.16.526 	he turns back around to stare with stern determination at the alien.
+1006_Slumdog_Millionaire_00.14.33.325-00.14.36.275 	the policemen stare at jamal.
+1006_Slumdog_Millionaire_00.19.36.914-00.19.41.169 	the boys are frozen to the spot momentarily and stare at the bow and arrow in the boy's hand.
+1006_Slumdog_Millionaire_01.02.34.986-01.02.41.490 	they stare at each other for a long time.
+1007_Spider-Man1_01.09.57.188-01.10.06.187 	they continue on, high above the streets of manhattan as people stand and stare.
 1008_Spider-Man2_00.58.34.047-00.58.38.124 	the two old friends stare defiantly at each other.
 1008_Spider-Man2_01.48.54.583-01.48.55.849 	his face visible, the passengers stare at him.
 1008_Spider-Man2_01.59.04.559-01.59.07.488 	the two men stare long and hard at each other.
-1010_TITANIC_01.28.30.741-01.28.33.405 	the crew members and rose's granddaughter, lizzie, stare at her.
 1010_TITANIC_01.37.45.029-01.37.47.025 	they stare down at jack and rose.
 1010_TITANIC_01.39.43.009-01.39.45.992 	in the crow's nest, the men stare at the iceberg as the ship heads straight toward it.
-1010_TITANIC_01.52.18.257-01.52.20.763 	jack and lovejoy stare at each other as lovejoy sits in a desk chair.
-1010_TITANIC_02.06.52.423-02.06.55.649 	in one lifeboat, molly and ruth stare at the ship, now tilted forward with its bow nearly submerged.
 1010_TITANIC_03.01.18.379-03.01.27.458 	rose continues to stare up at the giant statue as the crewman moves on.
 1012_Unbreakable_00.08.27.246-00.08.32.935 	a man reading a book closes it and, like the woman beside him, begins to stare out of the window as the train begins to shake more violently.
 1012_Unbreakable_00.12.55.327-00.13.01.242 	they stare at each other.
 1012_Unbreakable_00.24.37.801-00.24.40.065 	the boy continues to stare down at the comic.
-1012_Unbreakable_00.26.12.490-00.26.15.045 	elijah turns back to stare at the man.
 1012_Unbreakable_01.21.11.639-01.21.14.795 	the two men stare at each other through the outer fly screen door.
 1014_2012_00.51.03.863-00.51.05.453 	they stare at the devastation below.
 1014_2012_00.51.45.517-00.51.47.183 	behind them, the kids stare out of a side window.
@@ -104,7 +66,7 @@
 1015_27_Dresses_01.10.27.335-01.10.34.475 	they stare in each others' eyes, then jane kisses him hard and passionately.
 1019_Confessions_Of_A_Shopaholic_00.13.27.573-00.13.28.787 	both girls stare at the phone.
 1020_Crazy_Stupid_Love_00.02.28.205-00.02.30.689 	he continues to stare ahead.
-1020_Crazy_Stupid_Love_01.32.39.291-01.32.40.187 	hannah and jessica stare at the ground.
+1020_Crazy_Stupid_Love_00.50.00.054-00.50.06.887 	some have stopped to stare.
 1020_Crazy_Stupid_Love_01.37.54.261-01.37.57.152 	cal and jacob both stare down at the bar.
 1023_Horrible_Bosses_01.09.27.575-01.09.30.092 	dale, kurt and the two detectives stare at nick.
 1024_Identity_Thief_01.36.20.534-01.36.28.015 	sitting across from diana, sandy's daughters stare warily at her.
@@ -117,17 +79,12 @@
 1027_Les_Miserables_02.03.19.298-02.03.19.708 	his eyes stare out lifelessly from his young, pale face.
 1028_No_Reservations_00.14.48.287-00.14.54.102 	they all turn and stare as kate walks in and past them.
 1028_No_Reservations_00.53.03.000-00.53.07.000 	aunt and niece stare at one another.
-1028_No_Reservations_01.25.37.632-01.25.39.248 	the couple stare at each other.
-1029_Pride_And_Prejudice_Disk_One_00.28.39.142-00.28.44.506 	on the opposite side of the room, lizzie catches his brooding stare and is, for the briefest moment, affected by it, before she quickly composes herself and turns to colonel forster.
-1030_Public_Enemies_00.10.20.942-00.10.25.024 	purvis' piercing stare remains fixed on the dying man.
 1030_Public_Enemies_01.48.23.030-01.48.24.823 	in the interrogation room, the burly agent stays put beside the open door, out of the sightline of his peers, who stare in from the hall.
 1031_Quantum_of_Solace_00.30.52.834-00.30.55.138 	they stare straight of the inflatable.
 1031_Quantum_of_Solace_01.14.13.360-01.14.16.459 	they stare at one another until bond breaks eye contact.
 1033_Sherlock_Holmes_A_Game_of_Shadows_00.18.23.967-00.18.38.446 	people stare at the newfangled car as it goes by.
 1033_Sherlock_Holmes_A_Game_of_Shadows_01.14.59.500-01.15.02.129 	the gypsies stare after him as he trots by.
 1034_Super_8_00.24.45.508-00.24.47.735 	the soldiers stare after the car.
-1034_Super_8_00.56.34.499-00.56.38.519 	the colonel gives him a hard stare and walks away from the bedside.
-1035_The_Adjustment_Bureau_00.10.10.379-00.10.15.884 	their amused smiles relax as their stare lingers.
 1035_The_Adjustment_Bureau_01.32.56.894-01.32.59.401 	bureau members stare as they march down the center aisle.
 1037_The_Curious_Case_Of_Benjamin_Button_00.04.56.499-00.04.59.262 	they stare expectantly at mr. gateau, who stands atop a raised, wooden scaffold platform.
 1037_The_Curious_Case_Of_Benjamin_Button_00.15.06.155-00.15.15.851 	they stare down at the naked baby.
@@ -138,12 +95,12 @@
 1041_This_is_40_01.25.30.163-01.25.32.075 	they both stare forward.
 1042_Up_In_The_Air_00.32.14.745-00.32.18.543 	office workers stare at them as they head to a private office.
 1043_Vantage_Point_00.18.14.869-00.18.19.762 	both men stare at the lcd screen.
-1044_Pride_And_Prejudice_Disk_Two_01.03.51.134-01.03.54.754 	he gives miss bingley a piercing stare and she looks away.
 1046_Australia_00.20.47.265-00.20.49.212 	his eyes stare glassily.
 1046_Australia_00.30.20.000-00.30.24.106 	they all stare as rusty water is pumped from a pipe.
 1046_Australia_01.19.34.733-01.19.41.304 	carney frowns and the salon women stare in awe as the street fills with cattle.
 1046_Australia_01.36.01.000-01.36.07.421 	they stare at each other and she smiles breathlessly.
 1046_Australia_01.37.23.815-01.37.25.785 	carney's wife and the other women stare at them.
+1046_Australia_01.39.32.947-01.39.36.489 	all except nullah, who continues to stare, transfixed, at the screen.
 1046_Australia_01.41.18.082-01.41.25.213 	they break apart and stare at one another.
 1046_Australia_02.05.36.287-02.05.40.571 	nullah continues to stare at the planes.
 1046_Australia_02.11.55.730-02.12.00.882 	the bar patrons stare as he looks round at magarri.
@@ -151,90 +108,36 @@
 1049_Harry_Potter_and_the_chamber_of_secrets_00.02.41.406-00.02.46.516 	the three of them stare ominously at harry.
 1049_Harry_Potter_and_the_chamber_of_secrets_00.44.43.349-00.44.48.685 	seeing the cat, they stare suspiciously at harry, ron, and hermione.
 1049_Harry_Potter_and_the_chamber_of_secrets_01.21.01.471-01.21.04.337 	they stare at each other.
-1049_Harry_Potter_and_the_chamber_of_secrets_01.36.15.973-01.36.17.515 	harry and ron stare with horror at the stiff figure.
 1049_Harry_Potter_and_the_chamber_of_secrets_01.45.44.101-01.45.46.029 	the boys stare open-mouthed.
 1049_Harry_Potter_and_the_chamber_of_secrets_01.59.54.736-01.59.57.359 	they stare down after him.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.56.16.547-01.56.19.928 	they stare at him blankly.
 1051_Harry_Potter_and_the_goblet_of_fire_00.27.39.000-00.27.47.959 	his mad eye swivels round to stare down at harry, who looks up at him warily.
 1052_Harry_Potter_and_the_order_of_phoenix_00.08.03.560-00.08.05.375 	voldemort blank eyes stare out from his bony snake-like skull.
-1053_Harry_Potter_and_the_philosophers_stone_00.12.15.000-00.12.17.842 	dudley and his mother stare at vernon in horror.
-1053_Harry_Potter_and_the_philosophers_stone_00.31.05.696-00.31.12.709 	at king's cross station, passersby stare up at the huge hagrid.
 1053_Harry_Potter_and_the_philosophers_stone_01.55.37.677-01.55.44.508 	they lift the wooden cover and stare down into the black hole beneath.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.23.18.849-00.23.23.866 	ron and hermione stare at harry.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.48.32.179-00.48.40.466 	dumbledore and filch, the caretaker, stare at the empty painting.
+1054_Harry_Potter_and_the_prisoner_of_azkaban_01.31.43.341-01.31.46.010 	the children stare, horrified, as sirius embraces him.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_01.39.24.632-01.39.28.062 	they all stare at professor lupin.
 1057_Seven_pounds_00.45.30.000-00.45.35.357 	george returns ben's kindly stare with a slight smile.
-1058_The_Damned_united_00.03.35.000-00.03.54.463 	two boys in the back stare out through the rain-soaked windows as the handsome driver, brian clough, sings along to the radio.
-1059_The_devil_wears_prada_00.54.15.187-00.54.20.784 	once andy's gone, miranda turns back to stare after her and snatches up the coffee.
 1059_The_devil_wears_prada_01.37.39.000-01.37.43.876 	the two women stare at one another.
 1060_Yes_man_00.28.22.126-00.28.24.422 	three guys stare at him.
-1060_Yes_man_01.33.12.070-01.33.17.139 	allison and her group stare incredulously as carl is enveloped in a cloud of burnt-rubber smoke.
+1060_Yes_man_00.53.44.884-00.53.46.913 	the others stare.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.44.05.073-00.44.08.126 	side by side, they stare at the shield.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.49.43.284-00.49.45.503 	they stare up at the sky.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.52.41.266-00.52.50.423 	professor mcgonagall and ginny stare upwards, as parts of the shield start to burn.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.54.25.572-00.54.30.432 	they stare in horror at the gaping drop ahead of them.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.05.25.600-01.05.28.658 	the others stare at him, anxiously.
 1062_Day_the_Earth_stood_still_00.17.36.567-00.17.40.916 	as people gather and stare up in horror.
 1062_Day_the_Earth_stood_still_00.20.04.593-00.20.18.870 	the gathered crowds stare up at the pulsating sphere which is hundreds of feet high.
-1062_Day_the_Earth_stood_still_00.27.20.176-00.27.24.567 	mike and helen stare in disbelief.
+1062_Day_the_Earth_stood_still_00.32.39.302-00.32.41.084 	they all stare.
 1062_Day_the_Earth_stood_still_00.37.17.000-00.37.19.000 	his dark eyes stare at helen.
-1062_Day_the_Earth_stood_still_00.39.45.235-00.39.48.181 	the man returns his stare with a frown, then reaches out to his console.
 1062_Day_the_Earth_stood_still_00.43.05.000-00.43.13.006 	he stands as the boy continues to stare before being ushered away by his mother.
-1062_Day_the_Earth_stood_still_01.00.16.925-01.00.26.387 	both stare in amazement as the sphere from the pool, blazing with white light, rises slowly into the air.
-1062_Day_the_Earth_stood_still_01.04.48.000-01.04.53.770 	helen and jacob stare as he then reaches down with his other hand and touches the alien flesh to the officer's head.
 1062_Day_the_Earth_stood_still_01.05.51.000-01.05.53.000 	they stare at one another.
 1062_Day_the_Earth_stood_still_01.16.02.696-01.16.05.682 	they stare at one another.
 2004_Juno_00.56.35.577-00.56.36.866 	onlookers stare at them, appalled, as leah puts juno in a half-nelson.
 2005_Signs_00.10.24.325-00.10.26.015 	they stare at morgan as he slowly pulls an inhaler from his pocket and brings it to his mouth.
 2005_Signs_00.26.51.652-00.26.54.851 	the crewcut guy begins to stare at merrill closely.
 2005_Signs_00.38.52.748-00.38.56.254 	his kind eyes stare down at the ground as he slows his mind.
-2005_Signs_00.39.02.810-00.39.11.620 	they follow his stare to the kitchen table.
 2005_Signs_00.40.49.495-00.40.53.809 	the four of them stare at the television.
 2005_Signs_00.56.57.198-00.57.02.358 	the two men stare at each other for a beat.
 2005_Signs_01.10.13.490-01.10.15.369 	they stare at each other quietly.
-2012_Unbreakable_00.02.02.121-00.02.03.600 	his hard stare unsettles the women.
-2012_Unbreakable_00.47.08.187-00.47.12.545 	they both stare at the weight.
-2012_Unbreakable_01.07.19.498-01.07.25.540 	his eyes stare at a comic book in his lap.
-2017_Bad_Santa_00.23.05.772-00.23.09.208 	willie can't help but stare at it.
-2017_Bad_Santa_01.25.02.542-01.25.05.536 	willie continues to stare at the safe.
-2026_Legion_00.53.16.908-00.53.22.620 	michael heads for the roof, leaving jeep to stare after him, deep in thought.
-2026_Legion_01.04.40.370-01.04.46.886 	and with that, jeep walks away, leaving charlie to stare after him, disturbed and surprised by his response.
-1053_Harry_Potter_and_the_philosophers_stone_00.12.15.000-00.12.17.842 	dudley and his mother stare at vernon in horror.
-1053_Harry_Potter_and_the_philosophers_stone_00.31.05.696-00.31.12.709 	at king's cross station, passersby stare up at the huge hagrid.
-1053_Harry_Potter_and_the_philosophers_stone_01.55.37.677-01.55.44.508 	they lift the wooden cover and stare down into the black hole beneath.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.23.18.849-00.23.23.866 	ron and hermione stare at harry.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.48.32.179-00.48.40.466 	dumbledore and filch, the caretaker, stare at the empty painting.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_01.39.24.632-01.39.28.062 	they all stare at professor lupin.
-1057_Seven_pounds_00.45.30.000-00.45.35.357 	george returns ben's kindly stare with a slight smile.
-1058_The_Damned_united_00.03.35.000-00.03.54.463 	two boys in the back stare out through the rain-soaked windows as the handsome driver, brian clough, sings along to the radio.
-1059_The_devil_wears_prada_00.54.15.187-00.54.20.784 	once andy's gone, miranda turns back to stare after her and snatches up the coffee.
-1059_The_devil_wears_prada_01.37.39.000-01.37.43.876 	the two women stare at one another.
-1060_Yes_man_00.28.22.126-00.28.24.422 	three guys stare at him.
-1060_Yes_man_01.33.12.070-01.33.17.139 	allison and her group stare incredulously as carl is enveloped in a cloud of burnt-rubber smoke.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.44.05.073-00.44.08.126 	side by side, they stare at the shield.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.49.43.284-00.49.45.503 	they stare up at the sky.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.52.41.266-00.52.50.423 	professor mcgonagall and ginny stare upwards, as parts of the shield start to burn.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.54.25.572-00.54.30.432 	they stare in horror at the gaping drop ahead of them.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.05.25.600-01.05.28.658 	the others stare at him, anxiously.
-1062_Day_the_Earth_stood_still_00.17.36.567-00.17.40.916 	as people gather and stare up in horror.
-1062_Day_the_Earth_stood_still_00.20.04.593-00.20.18.870 	the gathered crowds stare up at the pulsating sphere which is hundreds of feet high.
-1062_Day_the_Earth_stood_still_00.27.20.176-00.27.24.567 	mike and helen stare in disbelief.
-1062_Day_the_Earth_stood_still_00.37.17.000-00.37.19.000 	his dark eyes stare at helen.
-1062_Day_the_Earth_stood_still_00.39.45.235-00.39.48.181 	the man returns his stare with a frown, then reaches out to his console.
-1062_Day_the_Earth_stood_still_00.43.05.000-00.43.13.006 	he stands as the boy continues to stare before being ushered away by his mother.
-1062_Day_the_Earth_stood_still_01.00.16.925-01.00.26.387 	both stare in amazement as the sphere from the pool, blazing with white light, rises slowly into the air.
-1062_Day_the_Earth_stood_still_01.04.48.000-01.04.53.770 	helen and jacob stare as he then reaches down with his other hand and touches the alien flesh to the officer's head.
-1062_Day_the_Earth_stood_still_01.05.51.000-01.05.53.000 	they stare at one another.
-1062_Day_the_Earth_stood_still_01.16.02.696-01.16.05.682 	they stare at one another.
-2004_Juno_00.56.35.577-00.56.36.866 	onlookers stare at them, appalled, as leah puts juno in a half-nelson.
-2005_Signs_00.10.24.325-00.10.26.015 	they stare at morgan as he slowly pulls an inhaler from his pocket and brings it to his mouth.
-2005_Signs_00.26.51.652-00.26.54.851 	the crewcut guy begins to stare at merrill closely.
-2005_Signs_00.38.52.748-00.38.56.254 	his kind eyes stare down at the ground as he slows his mind.
-2005_Signs_00.39.02.810-00.39.11.620 	they follow his stare to the kitchen table.
-2005_Signs_00.40.49.495-00.40.53.809 	the four of them stare at the television.
-2005_Signs_00.56.57.198-00.57.02.358 	the two men stare at each other for a beat.
-2005_Signs_01.10.13.490-01.10.15.369 	they stare at each other quietly.
-2012_Unbreakable_00.02.02.121-00.02.03.600 	his hard stare unsettles the women.
 2012_Unbreakable_00.47.08.187-00.47.12.545 	they both stare at the weight.
 2012_Unbreakable_01.07.19.498-01.07.25.540 	his eyes stare at a comic book in his lap.
 2017_Bad_Santa_00.23.05.772-00.23.09.208 	willie can't help but stare at it.
@@ -242,10 +145,5 @@
 2026_Legion_00.53.16.908-00.53.22.620 	michael heads for the roof, leaving jeep to stare after him, deep in thought.
 2026_Legion_01.04.40.370-01.04.46.886 	and with that, jeep walks away, leaving charlie to stare after him, disturbed and surprised by his response.
 2034_Super_8_00.25.49.285-00.25.50.337 	but they all stare off for a long beat.
-2034_Super_8_00.28.17.792-00.28.18.993 	both stare at the train crash, stunned.
-2040_The_Ugly_Truth_01.28.28.053-01.28.31.683 	stuart and cliff stare at the monitors, eating it up.
 2040_The_Ugly_Truth_01.29.45.035-01.29.47.037 	they both stare at the tv in shock.
-2054_Harry_Potter_and_the_prisoner_of_azkaban_00.25.53.806-00.25.54.580 	harry, ron, and hermione stare at each other -- stunned -- then applaud vigorously.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_00.33.28.533-00.33.30.713 	there seems no consensus on this, but the students stare in wary wonder nonetheless.
-2054_Harry_Potter_and_the_prisoner_of_azkaban_01.27.27.398-01.27.29.450 	fouls the breeze and ron and harry stare toward the trees in numb disbelief.
-2054_Harry_Potter_and_the_prisoner_of_azkaban_01.34.17.798-01.34.21.173 	ron and hermione stare in shock.

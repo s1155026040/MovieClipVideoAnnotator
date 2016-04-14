@@ -1,6 +1,2 @@
-BLINDDATING.srt 	BLINDDATING_DVS226 	00:55:40,00 --> 00:55:49,50 	someone follows to the middle of the room, makes a sharp turn and proceeds to the corner table occupied by a japanese couple.
 FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS219 	00:58:58,00 --> 00:59:15,50 	someone occupies a window seat on a plane, someone's on the aisle.
 FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS297 	01:19:18,00 --> 01:19:26,50 	someone and his family occupy four of the five chairs around the table.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS186 	00:35:40,00 --> 00:36:03,50 	open suitcases occupy every inch, filled to the brim with neatly packed clothes.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS511 	02:07:23,00 --> 02:07:46,50 	someone occupies one throne while king someone stands in front of his and reads the charter.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS542 	01:18:49,00 --> 01:18:56,50 	walking side by side, they advance on the large cottage occupied by the speers.

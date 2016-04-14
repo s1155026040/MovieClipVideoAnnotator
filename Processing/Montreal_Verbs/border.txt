@@ -1,13 +1,5 @@
-KARATE_KID.srt 	KARATE_KID_DVS430 	00:39:01,00 --> 00:39:08,50 	later, a student-filled bus passes the gate bordering tiananmen square and the forbidden city.
-MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS313 	00:40:28,00 --> 00:40:35,50 	outside the penguins cross a wet sidewalk bordered by mounds of snow.
 PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS199 	00:48:28,00 --> 00:48:38,50 	outside someone wanders down a path, bordered with overgrown vegetations and statues of people in medieval and renaissance fashions.
-PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS228 	01:01:29,00 --> 01:01:36,50 	later the truck turns down a road bordered with well-tended flowering trees and shrubs.
 PROMETHEUS.srt 	PROMETHEUS_DVS306 	00:30:03,00 --> 00:30:09,50 	various readings border the image along with the user's name, someone.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS400 	01:17:30,00 --> 01:17:55,50 	golden sunlight shines on its sleek exterior, reflecting the snow-covered ground bordering the woods.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS399 	01:16:56,00 --> 01:17:21,50 	outside, tree branches bordering the streets sway gently in a breeze.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS221 	00:34:59,00 --> 00:35:06,50 	now he hikes wearily across a healthy lawn bordered by a stone wall.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS368 	00:57:14,00 --> 00:57:20,50 	then heads down a dirt road bordered by a wooden fence.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS536 	01:17:51,00 --> 01:18:01,50 	now, under a dusky sky, someone, his daughters, and someone walk alongside a fence that borders a green field.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS142 	00:14:18,00 --> 00:14:26,50 	the snow picks up again as the car turns down a road bordered with tall skeletal trees.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS573 	00:54:07,00 --> 00:54:14,50 	as a truck trundles down a road into a thick barrier of trees bordering the estate,
 ZOMBIELAND.srt 	ZOMBIELAND_DVS635 	01:12:04,00 --> 01:12:11,50 	someone jumps out, his shotgun in hand, and jogs to a railing bordering the water.

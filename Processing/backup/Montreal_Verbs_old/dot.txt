@@ -1,0 +1,17 @@
+CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS837 	01:22:46,00 --> 01:22:52,50 	now, pebbles dot a sandy beach nestled at the base of rocky hills.
+KARATE_KID.srt 	KARATE_KID_DVS1285 	01:43:51,00 --> 01:44:02,50 	watchtowers dot the fortification, standing on the mountain's highest peaks.
+PROMETHEUS.srt 	PROMETHEUS_DVS253 	00:24:16,00 --> 00:24:22,50 	fog parts, revealing a barren valley dotted with low hills.
+PROMETHEUS.srt 	PROMETHEUS_DVS270 	00:26:05,00 --> 00:26:13,50 	domes resembling the tops of beehives surrounded by stone walls dot the valley in single file.
+PROMETHEUS.srt 	PROMETHEUS_DVS302 	00:29:48,00 --> 00:29:55,50 	we peer up at the approaching humans from a sandy slope dotted with sharp rocks.
+PROMETHEUS.srt 	PROMETHEUS_DVS969 	01:46:53,00 --> 01:47:02,50 	the rolling ship chases them past a number of rocky pillars, dotting the harsh terrain, its shadow at their heels.
+PROMETHEUS.srt 	PROMETHEUS_DVS987 	01:48:33,00 --> 01:48:38,50 	small fires dot the field.
+ROBIN_HOOD.srt 	ROBIN_HOOD_DVS117 	00:30:23,00 --> 00:30:37,50 	other shallow graves dot the hill.
+ROBIN_HOOD.srt 	ROBIN_HOOD_DVS474 	01:58:06,00 --> 01:58:13,50 	the narrow beach front dotted by the signal fires, the rocky cliffs behind them.
+ROBIN_HOOD.srt 	ROBIN_HOOD_DVS475 	01:58:32,00 --> 01:58:38,50 	several dozen ships dot the coastal waters.
+SALT.srt 	SALT_DVS58 	00:11:19,00 --> 00:11:29,50 	an image of flowers lying on a tiny grave dissolves into a helicopter soaring over a dreary river dotted with eyelets.
+SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1263 	01:25:23,00 --> 01:25:30,50 	heading further in, she passes a mirror dotted with stickers and photographs.
+THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS290 	00:44:53,00 --> 00:44:59,50 	just off a coast dotted with high-rises,
+THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS509 	01:12:59,00 --> 01:13:04,50 	raindrops plop into the placid water, dotting it with tiny percolations.
+THE_WATCH.srt 	THE_WATCH_DVS201 	00:36:25,00 --> 00:36:31,50 	rows of finger-sized holes dot its lower half.
+ZOMBIELAND.srt 	ZOMBIELAND_DVS285 	00:32:17,00 --> 00:32:24,50 	he scans the surrounding fields and the cylindrical hay bales dotting them.
+ZOMBIELAND.srt 	ZOMBIELAND_DVS402 	00:45:57,00 --> 00:46:04,50 	cars and rubble lie strewn on the road and skyscrapers dot the horizon.

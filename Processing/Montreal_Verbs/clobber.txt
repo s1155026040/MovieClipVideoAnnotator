@@ -1,4 +1,1 @@
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS324 	01:01:31,00 --> 01:01:38,50 	later, the escaping men rush into the yard, clobbering guards and stealing their weapons.
-PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS195 	00:47:21,00 --> 00:47:28,50 	they pass under a welcome sign and enter a stone gray clobbered building.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS468 	01:29:20,00 --> 01:29:26,50 	someone's shots clobber the trunk shielding
-TRUE_GRIT.srt 	TRUE_GRIT_DVS448 	01:28:45,00 --> 01:28:53,50 	clobbered with a rifle butt, someone hits the ground.

@@ -1,8 +1,1 @@
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS532 	01:35:12,00 --> 01:35:27,50 	someone pulls a trooper in front of himself as someone fires, incinerating the trooper.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS540 	01:35:54,00 --> 01:36:06,50 	hydra guards and troopers fire blaster weapons, incinerating some soldiers as they approach the base.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS545 	01:36:21,00 --> 01:36:29,50 	as allied soldiers pour in, someone picks up a blaster and incinerates several of them before running off.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS105 	00:16:21,00 --> 00:16:59,50 	he flings it around the thug and gives it a yank, incinerating him in a flash.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS110 	00:18:08,00 --> 00:18:31,50 	a thug steps in and shoots but the demonic creature incinerates him with shot.
 THOR.srt 	THOR_DVS86 	00:11:06,00 --> 00:11:12,50 	bright light shoots from the guardians visor and incinerates the fleeing frost giants.
-THOR.srt 	THOR_DVS499 	01:21:46,00 --> 01:21:52,50 	as agents scurry for cover, the destroyer incinerates several vehicles.
-THOR.srt 	THOR_DVS507 	01:22:33,00 --> 01:22:41,50 	someone slips off as the destroyer lowers its visor and incinerates a gas station with a beam of fire.

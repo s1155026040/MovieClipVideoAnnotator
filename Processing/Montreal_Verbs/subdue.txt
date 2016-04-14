@@ -1,7 +1,2 @@
-DEAR_JOHN.srt 	DEAR_JOHN_DVS48 	00:06:08,00 --> 00:06:14,50 	someone hangs his head with a subdued smile.
-KARATE_KID.srt 	KARATE_KID_DVS1565 	02:06:47,00 --> 02:07:08,50 	he slides across the mat to his opponent, subduing him with two fierce blows.
 LARRY_CROWNE.srt 	LARRY_CROWNE_DVS376 	01:30:02,00 --> 01:30:07,50 	someone subdues a delighted smile.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS180 	00:34:01,00 --> 00:34:24,50 	someone allows a subdued smile then shifts boyishly in his seat.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS236 	00:37:28,00 --> 00:37:33,50 	someone subdues a glare.
-THE_VOW.srt 	THE_VOW_DVS470 	01:07:37,00 --> 01:07:44,50 	he sets a small wetsuit beside her and regards her with a subdued, wily smile.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS754 	01:08:10,00 --> 01:08:16,50 	appearing to subdue the combustion of his body.

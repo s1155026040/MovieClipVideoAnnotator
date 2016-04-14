@@ -1,17 +1,7 @@
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS377 	00:34:42,00 --> 00:34:50,50 	a speeding bullet grazes someone's arm, another tears through someone's head, killing him.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS542 	01:36:04,00 --> 01:36:19,50 	phillips' men explode armored vehicles, killing nearby troopers and clearing a path into the base.
-COLOMBIANA.srt 	COLOMBIANA_DVS973 	01:33:34,00 --> 01:33:42,50 	as the barrage of bullets kills the men inside, smoking casings pop out of her gun and shower the ground.
-COLOMBIANA.srt 	COLOMBIANA_DVS1003 	01:35:35,00 --> 01:35:45,50 	her shots rip side by side paths of holes in the wood then lift to three gunmen in the adjacent room, killing one after another.
 DISTRICT_9.srt 	DISTRICT_9_DVS716 	01:24:28,00 --> 01:24:40,50 	above, gangster barks, kill them, kill all of them.
 DISTRICT_9.srt 	DISTRICT_9_DVS716 	01:24:28,00 --> 01:24:40,50 	above, gangster barks, kill them, kill all of them.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS436 	00:50:07,00 --> 00:50:13,50 	someone and orange juice watch helplessly as someone kills the zebra.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS472 	00:52:59,00 --> 00:53:15,50 	landing on the zebra, someone kills the hyena with a wrench of his jaws.
 LITTLE_FOCKERS.srt 	LITTLE_FOCKERS_DVS201 	01:12:09,00 --> 01:12:15,50 	killing his light, someone creeps around toward the side of the house.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS101 	00:25:51,00 --> 00:26:01,50 	they draw their bows and fire, killing a number of looters.
 SALT.srt 	SALT_DVS118 	00:22:25,00 --> 00:22:48,50 	parents killed in car accident, december 24th, 1988.
-SALT.srt 	SALT_DVS227 	00:38:46,00 --> 00:38:53,50 	evelyn someone was injured during the moscow car crash that killed her parents.
 SALT.srt 	SALT_DVS376 	01:07:11,00 --> 01:07:19,50 	a dozen charred victims killed in the grenade blast lie in heaps around the open hatch.
-SALT.srt 	SALT_DVS541 	01:33:11,00 --> 01:33:28,50 	it reads, urgent message - fingerprints place someone on barge where someone was killed.
-THOR.srt 	THOR_DVS597 	01:31:35,00 --> 01:31:43,50 	someone bursts free in a shower of ice crystals then quickly kills two frost giants guarding him.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS727 	01:05:33,00 --> 01:05:39,50 	the devilish mutant materializes in the courtyard and kills him with a sword.
-ZOMBIELAND.srt 	ZOMBIELAND_DVS654 	01:13:43,00 --> 01:13:49,50 	he kills one then heads toward the entrance of a haunted house.

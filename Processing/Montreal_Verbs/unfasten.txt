@@ -1,7 +1,2 @@
-INSIDE_MAN.srt 	INSIDE_MAN_DVS203 	00:58:12,00 --> 00:58:32,50 	finding a black suede envelope, he unfastens its string and button closure and removes a manilla envelope from inside it.
 LARRY_CROWNE.srt 	LARRY_CROWNE_DVS10 	00:03:10,00 --> 00:03:14,50 	he unfastens his brace.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS327 	00:40:31,00 --> 00:40:38,50 	as someone clings to one set of lines, the cook unfastens another.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS242 	00:55:08,00 --> 00:55:18,50 	someone hands over the white horse's reins, then unfastens someone's sword from its saddle.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS262 	00:41:25,00 --> 00:41:31,50 	unfastening her seat belt, she leans forward and hugs his seat.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS468 	00:54:10,00 --> 00:54:19,50 	looking over her shoulder, she finds someone unfastening his pants and gives her restraints a desperate tug.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS588 	01:04:57,00 --> 01:05:04,50 	now helpless, he raises his head and sees himself unfastening his pants on screen.

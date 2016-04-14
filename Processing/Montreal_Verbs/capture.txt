@@ -1,9 +1,6 @@
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS1038 	01:40:18,00 --> 01:40:23,50 	the camera captures his image.
 CHRONICLE.srt 	CHRONICLE_DVS75 	00:09:24,00 --> 00:09:36,50 	outside with a blurry lens, someone's camera captures footage of a lawn near a line of parked cars.
-COLOMBIANA.srt 	COLOMBIANA_DVS484 	00:42:58,00 --> 00:43:04,50 	now a video camera captures someone entering a lobby.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS619 	01:24:27,00 --> 01:24:37,50 	someone's corn silk hair lies captured in a tight braid, and she wears slim-fitting breaches and riding boots.
 DISTRICT_9.srt 	DISTRICT_9_DVS283 	00:31:37,00 --> 00:31:47,50 	a security camera captures the moment.
-GREEN_ZONE.srt 	GREEN_ZONE_DVS107 	00:27:01,00 --> 00:27:08,50 	someone raises his hand, capturing the group's attention.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS31 	00:04:56,00 --> 00:05:13,50 	the younger inmate shoots him, which captures the rest of the room's attention.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS598 	01:31:04,00 --> 01:31:12,50 	the minimalistic rendering captures the tiger's characteristically warm, intelligent gaze.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS936 	01:26:26,00 --> 01:26:31,50 	someone captures one of his friend's chess pieces

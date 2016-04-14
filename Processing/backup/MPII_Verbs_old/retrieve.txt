@@ -1,9 +1,10 @@
-0002_As_Good_As_It_Gets_00.19.39.094-00.19.42.555 	Vincent moves back to retrieve his clothes.
-0003_CASABLANCA_01.30.15.039-01.30.18.177 	Renault retrieves a fresh cigarette from a box on his desk.
-0008_Fargo_00.44.03.301-00.44.07.346 	Grimsrud moves to retrieve her but Carl, grinning, lays a hand on his shoulder.
-0031_The_Lost_Weekend_01.01.20.651-01.01.31.544 	He pulls the coffee table under the light fixture, puts the chair on it, climbs up and retrieves his bottle.
-0050_Indiana_Jones_and_the_last_crusade_00.45.12.222-00.45.17.249 	Indy reaches into the back seat and retrieves his bullwhip.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.57.49.698-00.57.52.074 	He grins politely as he bends down to retrieve his napkin.
+0002_As_Good_As_It_Gets_00.19.39.094-00.19.42.555 	vincent moves back to retrieve his clothes.
+0003_CASABLANCA_01.30.15.039-01.30.18.177 	renault retrieves a fresh cigarette from a box on his desk.
+0008_Fargo_00.44.03.301-00.44.07.346 	grimsrud moves to retrieve her but carl, grinning, lays a hand on his shoulder.
+0031_The_Lost_Weekend_01.01.20.651-01.01.31.544 	he pulls the coffee table under the light fixture, puts the chair on it, climbs up and retrieves his bottle.
+0050_Indiana_Jones_and_the_last_crusade_00.45.12.222-00.45.17.249 	indy reaches into the back seat and retrieves his bullwhip.
+1002_Harry_Potter_and_the_Half-Blood_Prince_00.57.49.698-00.57.52.074 	he grins politely as he bends down to retrieve his napkin.
+1005_Signs_01.01.38.419-01.01.42.143 	retrieving the knife, graham slices off the creature's fingers.
 1009_Spider-Man3_01.56.14.628-01.56.20.253 	he retrieves his mask then looks up sharply as the truck starts dropping towards the cab.
 1023_Horrible_Bosses_01.01.54.643-01.01.58.175 	as she bends over to retrieve a bag, kurt ogles her backside.
 1024_Identity_Thief_00.34.18.470-00.34.21.935 	sandy retrieves the keys from the middle of the highway and hurries back to the car.
@@ -18,7 +19,5 @@
 1034_Super_8_01.24.51.096-01.24.53.661 	joe retrieves his locket from overmyer's body.
 1047_Defiance_01.06.02.789-01.06.05.219 	gramov retrieve his playing card and follows him
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.14.03.086-00.14.09.240 	moody retrieves the flask from hermione, then joins the real harry.
-1057_Seven_pounds_01.12.58.033-01.13.03.379 	in a large, sunny field, emily sits in long grass watching ben play with duke, who bounds to retrieve something.
-2004_Juno_01.03.04.212-01.03.08.402 	bleeker retrieves a book from his open locker.
 1057_Seven_pounds_01.12.58.033-01.13.03.379 	in a large, sunny field, emily sits in long grass watching ben play with duke, who bounds to retrieve something.
 2004_Juno_01.03.04.212-01.03.08.402 	bleeker retrieves a book from his open locker.

@@ -1,44 +1,16 @@
-0001_American_Beauty_00.32.23.830-00.32.26.527 	lester looks away, scans the crowd, then downs the rest of his drink in one gulp.
-0005_Chinatown_00.45.28.423-00.45.31.375 	gittes is seated, flips through the paper until he finds the obituary column, scans it, looks up, abruptly tears the column from the paper and puts it in his pocket.
-0008_Fargo_00.57.02.570-00.57.19.734 	he quickly scans the lot, then kneels in the snow at the back of the parked car and starts unscrewing its license plate.
-0016_O_Brother_Where_Art_Thou_01.05.54.729-01.05.58.900 	he scans the theater, then brings a whistle to his lips.
-0016_O_Brother_Where_Art_Thou_01.06.37.828-01.06.38.343 	the first guard and two others who escorted in the convicts scan the theater.
 0017_Pianist_00.29.48.051-00.29.49.514 	the nco scans their faces.
 0017_Pianist_00.32.58.960-00.33.03.002 	szpilman scans the mob.
 0019_Pulp_Fiction_00.03.45.965-00.03.48.386 	the young woman scans the restaurant with this new information.
-0023_THE_BUTTERFLY_EFFECT_00.43.51.088-00.43.55.000 	thumper begins scanning the journal entry.
-0041_The_Sixth_Sense_00.12.39.785-00.12.41.292 	malcolm scans the majestic room and finds what he's looking for in the last row of the church.
-0041_The_Sixth_Sense_01.09.25.180-01.09.31.296 	malcolm's eyes scan the room and come to a stop on a box marked with the label.
-0043_Thelma_and_Luise_00.18.49.826-00.18.50.954 	she scans the room looking for thelma.
 1005_Signs_00.37.14.910-00.37.18.577 	he scans the circle apprehensively, then, steps backwards towards the standing crop.
-1006_Slumdog_Millionaire_01.24.54.938-01.25.05.002 	as jamal moves along the walkway looking down on the platform, he scans the busy platforms and looks at the overhead clock.
-1010_TITANIC_01.31.53.840-01.31.57.268 	lovejoy runs up to the elevator, then scans the area around himself.
 1010_TITANIC_01.56.21.444-01.56.24.109 	ruth scans the passengers on the lifeboat.
 1014_2012_01.58.34.145-01.58.35.243 	he scans around.
 1014_2012_02.06.52.830-02.06.56.468 	he scans around
-1015_27_Dresses_00.57.58.912-00.57.59.752 	later, he and jane are scanning the bar codes on items for the wedding list.
 1015_27_Dresses_00.57.59.752-00.58.02.043 	he scans some china penguins.
 1020_Crazy_Stupid_Love_01.37.34.828-01.37.36.543 	jacob scans the bar.
 1024_Identity_Thief_00.45.37.373-00.45.41.595 	sandy enters and scans the room.
-1030_Public_Enemies_00.12.58.059-00.13.04.814 	reaching the top, dillinger stops, scanning a huge bank with angular walls lined with pillars.
-1030_Public_Enemies_00.25.54.709-00.25.57.894 	later in an elegant restaurant, billie uneasily scans her surroundings, then looks to dillinger.
 1030_Public_Enemies_00.42.04.616-00.42.07.282 	purvis' frustrated gaze scans the agents.
-1030_Public_Enemies_01.29.34.199-01.29.37.615 	dillinger scans the hillside but finds no sign of anyone.
-1030_Public_Enemies_01.57.20.883-01.57.46.831 	the gangster finds another bulletin board and scans its postings.
-1030_Public_Enemies_01.58.44.874-01.58.50.541 	in a cinema lobby, using a public phone, a fair-haired agent scans the surrounding.
 1033_Sherlock_Holmes_A_Game_of_Shadows_01.40.58.622-01.41.00.916 	holmes scans the faces of the people.
-1042_Up_In_The_Air_00.29.35.336-00.29.36.806 	natalie is being scanned.
-1042_Up_In_The_Air_00.43.24.010-00.43.32.637 	natalie scans the bare office, looking slightly uncomfortable.
-1042_Up_In_The_Air_01.32.28.565-01.32.33.716 	ryan drives along slush-covered roads, glancing at a piece of paper in his hand and scanning the streets.
-1043_Vantage_Point_00.04.50.032-00.04.58.189 	barnes, a man in his 50s with a furrowed brow, glances all around, scanning rooftops and the protesters as he walks ahead of the president.
 1043_Vantage_Point_00.12.18.431-00.12.24.326 	barnes scowls as he scans the press photographers.
-1047_Defiance_01.50.47.170-01.50.49.730 	the shooters leaning on the roofs of the shelters scan the horizon.
 1051_Harry_Potter_and_the_goblet_of_fire_01.02.16.630-01.02.19.286 	the crowd of spectators in the arena scan the sky with nervous anticipation.
 1057_Seven_pounds_00.26.56.578-00.27.01.703 	she scans about the room.
-1057_Seven_pounds_01.30.46.029-01.30.54.650 	ben turns to face her as she scans about the workshop, trying to spot the surprise.
-1057_Seven_pounds_01.50.12.782-01.50.19.674 	suddenly noticing the empty space beside her in the bed, she sits up and scans about.
-1062_Day_the_Earth_stood_still_00.35.39.294-00.35.47.502 	she puts it in her pocket, then scans the shelves.
 2004_Juno_00.21.50.739-00.21.51.672 	juno scans the ad silently.
-2004_Juno_01.25.59.382-01.26.02.926 	bleeker looks out at the bleachers, scanning them for juno.
-2034_Super_8_00.28.45.205-00.28.47.633 	tilt down from the town's water tower -- joe and charles ride their bikes underneath it, crossing main street -- two large military trucks drive past, we may note the airman in the passenger seat scans the area with a handheld device.
-2034_Super_8_00.41.48.387-00.42.05.856 	he stops, noticing four military trucks driving past, slowly, antennas atop the trucks, and the men inside seemingly scanning the area.

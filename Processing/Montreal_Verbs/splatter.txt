@@ -1,7 +1,4 @@
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS33 	00:05:24,00 --> 00:05:29,50 	he splatters the contract with blood.
 LAND_OF_THE_LOST.srt 	LAND_OF_THE_LOST_DVS154 	00:57:19,00 --> 00:57:27,50 	the bug and splattering blood everywhere.
 LARRY_CROWNE.srt 	LARRY_CROWNE_DVS274 	01:05:29,00 --> 01:05:34,50 	box and it splatters against the door.
-PROMETHEUS.srt 	PROMETHEUS_DVS457 	00:48:24,00 --> 00:48:33,50 	as the mist clears, the top of the head explodes, splattering the chamber walls with a greenish slime.
-PROMETHEUS.srt 	PROMETHEUS_DVS779 	01:23:46,00 --> 01:23:54,50 	the sac brakes open splattering her with bloody fluid and revealing the squid-like alien.
-ZOMBIELAND.srt 	ZOMBIELAND_DVS209 	00:22:38,00 --> 00:22:46,50 	as it goes down, he swings repeatedly at it, splattering our view with blood.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS662 	01:14:14,00 --> 01:14:19,50 	the zombie plummets, splattering blood on the cement.

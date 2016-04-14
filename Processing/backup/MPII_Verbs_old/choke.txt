@@ -1,19 +1,13 @@
-0005_Chinatown_00.08.09.489-00.08.09.889 	Where the banks are earthen, they are parched and choked with weeds.
-0006_Clerks_01.24.23.556-01.24.24.791 	DANTE throttles RANDAL, choking him to the ground.
-0011_Gandhi_01.02.52.771-01.02.53.894 	His voice is choked and near to tears, resonant with the unspoken agony his words mean for him and the others like him.
-0011_Gandhi_01.53.14.037-01.53.17.904 	And Nehru chokes with emotion and laughter at the same time.
-0019_Pulp_Fiction_00.29.22.551-00.29.24.070 	Vincent takes out a roll of money that would choke a horse to death.
-0020_Raising_Arizona_01.09.41.608-01.09.45.118 	Gale, choked up, speaks in a low unsteady voice.
-0023_THE_BUTTERFLY_EFFECT_00.10.19.844-00.10.20.816 	Blocking his view of the ceiling is Jason, whose face is now monstrous with rage, and whose cuffed hands are wrapped around Evan's throat, choking the life out of him.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.16.05.380-00.16.07.652 	SMEAGOL choking DEAGOL.
-0033_Amadeus_00.12.39.610-00.12.41.935 	Suddenly there is a gasp - he starts to choke violently on a fish bone.
-0050_Indiana_Jones_and_the_last_crusade_01.53.11.271-01.53.13.281 	His skeletal hands reach for Elsa's throat, choking her.
-0051_Men_in_black_00.41.33.632-00.41.34.259 	They hold on, long and hard, and both seemed choked with emotion.
-1012_Unbreakable_01.29.55.742-01.30.00.409 	the man tears at the choking arm, and slams david back into the bedroom wall.
+0005_Chinatown_00.08.09.489-00.08.09.889 	where the banks are earthen, they are parched and choked with weeds.
+0006_Clerks_01.24.23.556-01.24.24.791 	dante throttles randal, choking him to the ground.
+0011_Gandhi_01.02.52.771-01.02.53.894 	his voice is choked and near to tears, resonant with the unspoken agony his words mean for him and the others like him.
+0019_Pulp_Fiction_00.29.22.551-00.29.24.070 	vincent takes out a roll of money that would choke a horse to death.
+0020_Raising_Arizona_01.09.41.608-01.09.45.118 	gale, choked up, speaks in a low unsteady voice.
+0023_THE_BUTTERFLY_EFFECT_00.10.19.844-00.10.20.816 	blocking his view of the ceiling is jason, whose face is now monstrous with rage, and whose cuffed hands are wrapped around evan's throat, choking the life out of him.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.16.05.380-00.16.07.652 	smeagol choking deagol.
+0033_Amadeus_00.12.39.610-00.12.41.935 	suddenly there is a gasp - he starts to choke violently on a fish bone.
+0050_Indiana_Jones_and_the_last_crusade_01.53.11.271-01.53.13.281 	his skeletal hands reach for elsa's throat, choking her.
+0051_Men_in_black_00.41.33.632-00.41.34.259 	they hold on, long and hard, and both seemed choked with emotion.
 1015_27_Dresses_01.27.38.876-01.27.42.392 	she looks down at the gift in her hand and chokes back more tears.
-1019_Confessions_Of_A_Shopaholic_01.15.19.068-01.15.21.421 	tarquin chokes on his cereal.
-1051_Harry_Potter_and_the_goblet_of_fire_01.31.47.211-01.31.53.810 	harry chokes on the gillyweed.
-1053_Harry_Potter_and_the_philosophers_stone_02.12.22.545-02.12.25.866 	but quirrell is trying to choke him.
-2005_Signs_01.37.30.460-01.37.33.791 	merrill's hands choke up on the bat.
 1053_Harry_Potter_and_the_philosophers_stone_02.12.22.545-02.12.25.866 	but quirrell is trying to choke him.
 2005_Signs_01.37.30.460-01.37.33.791 	merrill's hands choke up on the bat.

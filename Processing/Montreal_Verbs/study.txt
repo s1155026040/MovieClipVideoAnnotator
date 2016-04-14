@@ -1,23 +1,11 @@
 500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS109 	00:20:41,00 --> 00:20:45,50 	they study one another.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS449 	01:20:25,00 --> 01:20:40,50 	studying a map, someone holds a compass with a picture of her inside the lid.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS386 	01:33:47,00 --> 01:34:20,50 	as the two fighters square off, someone steps closer, studying the footage intently.
 DISTRICT_9.srt 	DISTRICT_9_DVS347 	00:38:25,00 --> 00:38:36,50 	doctors study x-rays.
-DISTRICT_9.srt 	DISTRICT_9_DVS350 	00:38:42,00 --> 00:38:56,50 	someone peers at the canister, watching the doctors study it through the plastic bag.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS367 	01:24:36,00 --> 01:24:42,50 	someone steps closer, studying his captive.
-GROWN_UPS.srt 	GROWN_UPS_DVS176 	00:50:20,00 --> 00:50:25,50 	now in a bedroom, someone sits studying in a
 IRON_MAN_2.srt 	IRON_MAN_2_DVS228 	00:42:47,00 --> 00:42:54,50 	someone and the man study each other.
 MORNING_GLORY.srt 	MORNING_GLORY_DVS440 	01:34:16,00 --> 01:34:24,50 	two members of staff chat and study a piece of paper.
-PROMETHEUS.srt 	PROMETHEUS_DVS385 	00:38:55,00 --> 00:39:00,50 	someone steps further in, studying the sculpted face.
-PROMETHEUS.srt 	PROMETHEUS_DVS675 	01:12:43,00 --> 01:12:50,50 	the android climbs up on the disc and crouches, studying the control panel.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS359 	01:28:33,00 --> 01:28:39,50 	toward his shaving mirror, studying his scarred reflection.
 SALT.srt 	SALT_DVS22 	00:03:52,00 --> 00:04:37,50 	her sultry eyes study him lovingly from above her high cheekbones and pouty lips.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS700 	00:45:51,00 --> 00:45:56,50 	she isn't even studying for the college entrance exam.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS764 	00:51:02,00 --> 00:51:09,50 	in the restaurant's kitchen, our view descends from a metal counter to find someone studying while on break.
-SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS39 	00:08:14,00 --> 00:08:22,50 	the stringy-haired sorcerer slowly faces the boy, studying him, then brushes past.
-SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS293 	01:00:54,00 --> 01:00:59,50 	they study the retrieved scroll.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS193 	00:37:16,00 --> 00:37:22,50 	still studying her beauty, he lies back.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS261 	00:31:37,00 --> 00:31:42,50 	studying the map he deflates.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS551 	01:01:50,00 --> 01:01:57,50 	someone hurries to his desk and uses a magnifying glass to study the snapshots.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS851 	01:58:56,00 --> 01:59:09,50 	the dartmoor animal park on which this story is based is an acclaimed zoo whose methods are studied worldwide.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS406 	00:57:54,00 --> 00:57:59,50 	studying the highlighted urban scene, someone brighten
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS951 	01:28:09,00 --> 01:28:15,50 	studying his new foot, the young man smiles, teary-eyed.

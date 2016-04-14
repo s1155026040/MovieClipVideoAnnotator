@@ -1,0 +1,3 @@
+A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS242 	00:20:01,00 --> 00:20:06,50 	the armored truck rumbles toward someone.
+EASY_A.srt 	EASY_A_DVS94 	00:33:11,00 --> 00:33:16,50 	as he stands, she musses his hair and rumbles his shirt.
+THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS602 	01:21:51,00 --> 01:21:59,50 	they bounce down steps, spin to a stop, then roar off again as a tank wedged inside a building rumbles after them.

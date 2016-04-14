@@ -1,14 +1,4 @@
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS596 	01:01:37,00 --> 01:01:45,50 	a wall of small filing drawers stands in disarray and the smattering of papers litters the floor.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS500 	01:10:33,00 --> 01:10:40,50 	now a photographer stands in the middle of a field littered with the bodies of union soldiers.
-GREEN_ZONE.srt 	GREEN_ZONE_DVS36 	00:08:29,00 --> 00:08:43,50 	the chief scans a rusted metal girder and other someone littering the floor.
 HUGO.srt 	HUGO_DVS419 	01:01:32,00 --> 01:01:36,50 	drawings litter the floor.
-IN_TIME.srt 	IN_TIME_DVS675 	01:13:17,00 --> 01:13:27,50 	now, capsules fall onto pavement littered with broken glass as the ghetto citizens drain the capsule's time into their bodies.
-PROMETHEUS.srt 	PROMETHEUS_DVS986 	01:48:29,00 --> 01:48:36,50 	turning, someone sees the lifeboat and staggers over the someone littered ground.
-RUBY_SPARKS.srt 	RUBY_SPARKS_DVS470 	01:11:23,00 --> 01:11:30,50 	half-eaten snacks litter the coffee table and a blanket covers her feet.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1267 	01:25:41,00 --> 01:25:49,50 	later, she sits at a desk littered with several stacks of books, manuscripts, and documents.
-SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS34 	00:06:25,00 --> 00:06:33,50 	someone follows the note through a narrow alley and emerges on a street littered with hundreds of loose notes.
-SUPER_8.srt 	SUPER_8_DVS139 	00:21:06,00 --> 00:21:11,50 	small white cubes litter the ground, someone picks up one of them.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS136 	00:22:41,00 --> 00:22:47,50 	seated at the edge of an in-ground pool littered with leaves.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS617 	01:08:08,00 --> 01:08:15,50 	the floating view withdraws at the littered hall away from the open bedroom door.
 THE_VOW.srt 	THE_VOW_DVS223 	00:28:31,00 --> 00:28:36,50 	quaint odds and ends litter the surface.
 THOR.srt 	THOR_DVS88 	00:11:22,00 --> 00:11:29,50 	the bodies of the guards and the slain frost giants litter the vaults main corridor.

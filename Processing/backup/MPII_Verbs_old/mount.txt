@@ -1,40 +1,37 @@
-0002_As_Good_As_It_Gets_00.10.26.564-00.10.28.109 	His walk is brisk -- an animal wanting to pass through the danger without giving off the scent of its mounting fear.
-0005_Chinatown_00.23.02.359-00.23.05.548 	Smaller than Mulwray's, he has most noticeably a lacquered marlin mounted on the wall.
-0007_DIE_NACHT_DES_JAEGERS_01.19.46.682-01.19.56.536 	As he mounts his horse we.
-0011_Gandhi_00.32.53.496-00.33.21.442 	The car rides on past the factory building out of which it turned, and suddenly mounted police come swinging out from the buildings and face the procession.
-0011_Gandhi_00.33.35.911-00.33.36.628 	Tracking back before the mounted police.
-0011_Gandhi_00.33.45.189-00.33.46.884 	The mounted police riding on, batons at the ready.
-0011_Gandhi_00.34.34.351-00.34.34.680 	Full shot, the sergeant wheeling his horse, angrily -- surveying the whole of the procession as they lie sprawled on the ground, his mounted police circling in front of them, not knowing what to do.
-0011_Gandhi_00.43.09.513-00.43.12.432 	Another garland is wrapped around Gandhi's shoulders, and in some embarrassment, he mounts the platform.
-0011_Gandhi_01.49.30.472-01.49.33.198 	He looks up at Mirabehn as she mounts the steps, and nods.
-0011_Gandhi_02.12.42.222-02.12.44.326 	The mounted police converge on the truck.
-0017_Pianist_00.30.34.269-00.30.35.749 	The SS men open fire with a machine gun mounted on the vehicle.
-0017_Pianist_00.58.24.603-00.58.40.917 	A little later: Szpilman again mounting the ramp with a hod full of bricks on his back.
-0020_Raising_Arizona_00.00.38.173-00.00.39.183 	It is mounted on a tripod.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.45.40.052-00.45.44.740 	A sinister MOUNTED RINGWRATH steps into view.hooded and faceless, mounted on a huge snarling black horse with insane eyes !
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.09.48.656-01.09.50.582 	Arwen mounts her horse, ALSFORTH.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.26.02.803-00.26.08.519 	GANDALF mounts SHADOWFAX.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.50.08.875-00.50.14.900 	A SOLDIER RINGING the GREAT BELL in alarm as below, in the COURTYARD, SOLDIERS mount their STEEDS amid great activity.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.50.43.240-00.50.44.164 	EOWYN hurriedly pulling on RIDING GLOVES, preparing to mount her HORSE.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.45.22.886-02.45.26.237 	On the BATTLEFIELD, all eyes turn to MOUNT DOOM.
-0032_The_Princess_Bride_00.48.30.464-00.48.32.147 	THREE WARRIORS, armed and ready, are mounted in formation behind.
-0038_Psycho_00.32.53.544-00.32.56.588 	Mary has stood by the window, listening with mounting distress and concern and sympathy.
-0049_Hannah_and_her_sisters_00.16.41.890-00.16.45.289 	Behind him, a chest X-ray is mounted on a light panel.
-0050_Indiana_Jones_and_the_last_crusade_00.05.18.635-00.05.21.839 	Indy stands up and successfully mounts his horse.
-0050_Indiana_Jones_and_the_last_crusade_00.05.39.442-00.05.43.355 	Indy SPURS his mount on to greater speeds but the autos not only keep pace with his horse.
-0050_Indiana_Jones_and_the_last_crusade_01.26.53.581-01.26.57.783 	A SECOND TURK comes to assist his comrade; Indy mounts the horse, knocking both Turks to the ground.
-0050_Indiana_Jones_and_the_last_crusade_01.59.11.981-01.59.17.871 	Henry and Indy mount their horses.
-0050_Indiana_Jones_and_the_last_crusade_01.59.33.140-01.59.38.381 	A moment passes as they all ready their mounts and Sallah continues to laugh at Indy.
-0051_Men_in_black_00.30.09.471-00.30.13.120 	Giant models of rockets mark the Fair's theme of space travel; most prominent in the construction are two tall towers, with the flying saucers now mounted at the top of each.
-1003_How_to_Lose_Friends_and_Alienate_People_01.40.28.953-01.40.34.782 	He glares at his mobile then looks up to see himself on a TV mounted to a pillar nearby.
-1004_Juno_01.28.58.770-01.29.03.437 	Above the white cup, the note Juno scribbled is mounted in a white frame on the pale yellow painted wall.
-1005_Signs_01.11.52.470-01.11.55.707 	Merrill watches in disbelief as Graham tucks into his mount of food.
-1005_Signs_01.32.10.889-01.32.11.457 	A picture hanging below a mounted baseball bat is askew, but otherwise the room is untouched.
-1005_Signs_01.35.58.010-01.36.05.813 	Graham turns slowly from the creature to face Merrill, spotting the baseball bat in its rack mounted on the wall by his brother.
+0002_As_Good_As_It_Gets_00.10.26.564-00.10.28.109 	his walk is brisk -- an animal wanting to pass through the danger without giving off the scent of its mounting fear.
+0005_Chinatown_00.23.02.359-00.23.05.548 	smaller than mulwray's, he has most noticeably a lacquered marlin mounted on the wall.
+0007_DIE_NACHT_DES_JAEGERS_01.19.46.682-01.19.56.536 	as he mounts his horse we.
+0011_Gandhi_00.32.53.496-00.33.21.442 	the car rides on past the factory building out of which it turned, and suddenly mounted police come swinging out from the buildings and face the procession.
+0011_Gandhi_00.43.09.513-00.43.12.432 	another garland is wrapped around gandhi's shoulders, and in some embarrassment, he mounts the platform.
+0011_Gandhi_01.48.09.911-01.48.11.770 	he looks at gandhi with a mounting sense of annoyance.
+0011_Gandhi_01.49.30.472-01.49.33.198 	he looks up at mirabehn as she mounts the steps, and nods.
+0011_Gandhi_02.12.31.013-02.12.33.774 	mounted indian police are coming down either side of the street, a wave of foot police running forward down the center.
+0011_Gandhi_02.12.42.222-02.12.44.326 	the mounted police converge on the truck.
+0017_Pianist_00.30.34.269-00.30.35.749 	the ss men open fire with a machine gun mounted on the vehicle.
+0017_Pianist_00.58.24.603-00.58.40.917 	a little later: szpilman again mounting the ramp with a hod full of bricks on his back.
+0020_Raising_Arizona_00.00.38.173-00.00.39.183 	it is mounted on a tripod.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.45.40.052-00.45.44.740 	a sinister mounted ringwrath steps into view.hooded and faceless, mounted on a huge snarling black horse with insane eyes !
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.50.08.875-00.50.14.900 	a soldier ringing the great bell in alarm as below, in the courtyard, soldiers mount their steeds amid great activity.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.50.43.240-00.50.44.164 	eowyn hurriedly pulling on riding gloves, preparing to mount her horse.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.07.56.082-01.08.11.089 	high angle: faramir leads the 200 mounted knights through the gates of minas tirith and across the pelennor fields towards the ruins of osgiliath.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.45.22.886-02.45.26.237 	on the battlefield, all eyes turn to mount doom.
+0031_The_Lost_Weekend_00.33.32.947-00.33.34.097 	don's nervousness is mounting.
+0032_The_Princess_Bride_00.28.49.807-00.28.50.364 	count rugen mounted, watches.
+0032_The_Princess_Bride_00.28.50.364-00.28.51.638 	behind him, half a dozen armed warriors, also mounted.
+0032_The_Princess_Bride_00.48.30.464-00.48.32.147 	three warriors, armed and ready, are mounted in formation behind.
+0038_Psycho_00.32.53.544-00.32.56.588 	mary has stood by the window, listening with mounting distress and concern and sympathy.
+0038_Psycho_01.35.47.447-01.35.51.323 	the camera mounts the steps to the porch.
+0049_Hannah_and_her_sisters_00.16.41.890-00.16.45.289 	behind him, a chest x-ray is mounted on a light panel.
+0050_Indiana_Jones_and_the_last_crusade_00.05.18.635-00.05.21.839 	indy stands up and successfully mounts his horse.
+0050_Indiana_Jones_and_the_last_crusade_01.08.04.044-01.08.07.040 	flags, banners and standards displaying the swastika are waved rhythmically from side to side in a motion that echoes the mounting frenzy of the enormous crowd.
+0050_Indiana_Jones_and_the_last_crusade_01.59.11.981-01.59.17.871 	henry and indy mount their horses.
+0051_Men_in_black_00.30.09.471-00.30.13.120 	giant models of rockets mark the fair's theme of space travel; most prominent in the construction are two tall towers, with the flying saucers now mounted at the top of each.
+1003_How_to_Lose_Friends_and_Alienate_People_01.40.28.953-01.40.34.782 	he glares at his mobile then looks up to see himself on a tv mounted to a pillar nearby.
+1004_Juno_01.28.58.770-01.29.03.437 	above the white cup, the note juno scribbled is mounted in a white frame on the pale yellow painted wall.
+1005_Signs_01.35.58.010-01.36.05.813 	graham turns slowly from the creature to face merrill, spotting the baseball bat in its rack mounted on the wall by his brother.
 1008_Spider-Man2_00.40.43.928-00.40.48.931 	laser projectors mounted at the top and bottom of each curved pillar fire a slender yellowish beam through the tiny sphere.
 1009_Spider-Man3_00.10.40.004-00.10.45.927 	a police car with a search lamp mounted by the passenger window turns onto the street behind him and drives down the road at a walking pace.
 1009_Spider-Man3_00.11.00.707-00.11.02.509 	flint grabs the bottom rungs of a metal ladder mounted on a wall.
-1014_2012_02.21.09.577-02.21.15.046 	the ark moves away from the mount everest.
 1023_Horrible_Bosses_00.26.35.370-00.26.37.457 	his car screeches to a halt, mounting the curb as he parks outside nick's place.
 1031_Quantum_of_Solace_00.32.06.224-00.32.10.957 	bond throttles back and the other boat rear-ends them so hard it mounts their stern knocking camille down in the process.
 1034_Super_8_00.44.47.103-00.44.54.597 	rooney watches with mounting concern as a huge hunk of junk sails overhead and lands in the road.
@@ -54,12 +51,4 @@
 2004_Juno_00.11.27.928-00.11.29.228 	she mounts her bicycle and waves before riding off.
 2004_Juno_00.34.14.633-00.34.15.984 	we see guitars mounted on the wall, and the edges of posters.
 2005_Signs_01.36.29.312-01.36.31.531 	merrill follows his eye line to the baseball bat mounted above him.
-1056_Rambo_00.16.42.955-00.16.45.016 	it's thrown by the boat, which has headlamps mounted on its canopy.
-1056_Rambo_01.03.02.515-01.03.05.192 	the commander stands in the passenger seat of the truck with a mounted machine-gun.
-1056_Rambo_01.03.39.000-01.03.42.000 	bn now leads the escapees as they mount a rise.
-1056_Rambo_01.20.00.000-01.20.01.709 	he approaches a battered domestic mailbox mounted on a pole.
-1057_Seven_pounds_01.36.18.343-01.36.27.413 	the couple wrap their arms tightly around each other as they continue to kiss with mounting passion.
-1062_Day_the_Earth_stood_still_00.18.52.065-00.19.05.664 	torches mounted on rifles cut shafts of light through the dense gloom.
-2004_Juno_00.11.27.928-00.11.29.228 	she mounts her bicycle and waves before riding off.
-2004_Juno_00.34.14.633-00.34.15.984 	we see guitars mounted on the wall, and the edges of posters.
-2005_Signs_01.36.29.312-01.36.31.531 	merrill follows his eye line to the baseball bat mounted above him.
+2027_Les_Miserables_01.09.43.006-01.09.43.970 	mounted police ride in to break up the crowd.

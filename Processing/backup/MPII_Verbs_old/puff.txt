@@ -1,14 +1,18 @@
-0007_DIE_NACHT_DES_JAEGERS_00.18.17.350-00.18.18.802 	WALT stands by, puffing his pipe.
-0010_Frau_Ohne_Gewissen_00.06.59.681-00.07.02.037 	He takes his lighted cigarette from the ash tray, puffs it two or three times, and kills it.
-0020_Raising_Arizona_00.45.21.205-00.45.21.846 	Huffing and puffing down the road with his Huggies.
-0021_Rear_Window_00.53.30.755-00.53.31.255 	The binoculars are held for a moment until we see a puffing and blowing Stella arrive at the opening of the alleyway.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.14.02.109-01.14.05.419 	Gandalf softly puffing on his pipe.
-0030_The_Hustler_01.55.25.748-01.55.29.139 	Findley puffs on his cigarette as he looks at the impatient face of Bert, slouching in the chair across from him.
-0030_The_Hustler_02.07.27.578-02.07.42.409 	Eddie returns to his game and Fats waits for his turn, puffing steadily on his cigarette.
-0049_Hannah_and_her_sisters_01.19.02.053-01.19.04.334 	She puffs intensely on her cigarette as the camera slowly circles to Hannah's face.
-1003_How_to_Lose_Friends_and_Alienate_People_00.11.56.622-00.12.03.188 	He puffs out his cheek and walks off, the dance floor lights up again.
+0003_CASABLANCA_01.03.37.320-01.03.39.713 	renault lights a cigarette and puffs away.
+0007_DIE_NACHT_DES_JAEGERS_00.18.17.350-00.18.18.802 	walt stands by, puffing his pipe.
+0010_Frau_Ohne_Gewissen_00.06.59.681-00.07.02.037 	he takes his lighted cigarette from the ash tray, puffs it two or three times, and kills it.
+0020_Raising_Arizona_00.45.21.205-00.45.21.846 	huffing and puffing down the road with his huggies.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.14.02.109-01.14.05.419 	gandalf softly puffing on his pipe.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.09.56.713-00.09.58.820 	they puff on long pipes as they lie back in the sun.
+0028_The_Crying_Game_00.33.09.649-00.33.11.482 	fergus watches him puff the cigarette, the hood just above his lips.
+0030_The_Hustler_02.07.27.578-02.07.42.409 	eddie returns to his game and fats waits for his turn, puffing steadily on his cigarette.
+0049_Hannah_and_her_sisters_01.19.02.053-01.19.04.334 	she puffs intensely on her cigarette as the camera slowly circles to hannah's face.
+1003_How_to_Lose_Friends_and_Alienate_People_00.11.56.622-00.12.03.188 	he puffs out his cheek and walks off, the dance floor lights up again.
+1009_Spider-Man3_00.39.00.146-00.39.04.050 	puffing on a cigar, jameson waves betty away dismissively.
 1011_The_Help_01.13.49.251-01.13.54.537 	she puffs on a cigarette as she considers hilly's text.
+1026_Legion_00.53.26.552-00.53.30.088 	he drinks beer from a can and puffs on a cigarette.
 1030_Public_Enemies_00.42.07.616-00.42.10.995 	his breath puffing visibly in the night air, he steps away.
+1033_Sherlock_Holmes_A_Game_of_Shadows_00.35.37.647-00.35.46.313 	puffing on his pipe, holmes makes his way across a quadrangle and goes into a building.
 1033_Sherlock_Holmes_A_Game_of_Shadows_01.05.47.233-01.05.55.330 	he gets up and, puffing on a dark cigarette, watches them go by before heading off in the opposite direction.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.45.48.628-00.45.52.724 	the hogwarts express puffs its way across a barren landscape.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_01.23.38.654-01.23.44.173 	stunned, he leaps to his feet and runs, crabbe and goyle huffing and puffing behind.

@@ -1,0 +1,12 @@
+CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS353 	01:05:10,00 --> 01:05:17,50 	massive explosions tear through the factory, destroying the half-built equipment.
+CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS516 	01:32:59,00 --> 01:33:04,50 	someone pushes a button, firing missiles which destroy the tank.
+GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS114 	00:18:47,00 --> 00:18:55,50 	it explodes on impact, destroying the suv.
+IRON_MAN_2.srt 	IRON_MAN_2_DVS328 	00:58:58,00 --> 00:59:06,50 	the two blasts meet, forming a huge fireball, which explodes and destroys much of the room.
+IRON_MAN_2.srt 	IRON_MAN_2_DVS626 	01:47:11,00 --> 01:47:29,50 	someone and someone fire back, destroying several drones.
+IRON_MAN_2.srt 	IRON_MAN_2_DVS626 	01:47:11,00 --> 01:47:29,50 	someone fires a blast at the drone, which explodes, also destroying two other drones flanking it.
+IRON_MAN_2.srt 	IRON_MAN_2_DVS632 	01:47:36,00 --> 01:47:42,50 	someone and someone shoot and destroy more drones.
+SALT.srt 	SALT_DVS147 	00:26:04,00 --> 00:26:15,50 	the taxi driver eyes her suspiciously in his rear view mirror as she destroys it.
+SUPER_8.srt 	SUPER_8_DVS126 	00:19:24,00 --> 00:19:31,50 	thick smoke blows across the crash site as someone returns to the destroyed depot.
+THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS259 	00:48:29,00 --> 00:48:34,50 	he shoots the drone, destroying it.
+XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS856 	01:18:29,00 --> 01:18:34,50 	he destroys the one on the left.
+ZOMBIELAND.srt 	ZOMBIELAND_DVS744 	01:20:17,00 --> 01:20:23,50 	he enters to find someone destroying the store.

@@ -1,0 +1,13 @@
+BLINDDATING.srt 	BLINDDATING_DVS171 	00:44:29,00 --> 00:44:38,50 	someone musters a smile.
+CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS932 	01:31:13,00 --> 01:31:17,50 	she musters a smile.
+CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS308 	01:14:17,00 --> 01:14:21,50 	someone musters a smile.
+DEAR_JOHN.srt 	DEAR_JOHN_DVS653 	01:28:39,00 --> 01:28:43,50 	he musters a smile.
+GREEN_ZONE.srt 	GREEN_ZONE_DVS464 	01:41:26,00 --> 01:41:32,50 	someone stares then musters a nod.
+KARATE_KID.srt 	KARATE_KID_DVS762 	01:04:30,00 --> 01:04:36,50 	someone musters a smile for someone and saunters away.
+NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS267 	00:58:50,00 --> 00:59:01,50 	she accepts it bravely, turns it over in her graceful hands, and musters a smile.
+SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS826 	00:54:58,00 --> 00:55:03,50 	someone musters a smile for her laotong.
+THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS348 	01:08:40,00 --> 01:08:45,50 	her friend musters a tight smile.
+THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS228 	00:45:00,00 --> 00:45:04,50 	she musters a smile.
+THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS499 	01:11:58,00 --> 01:12:02,50 	someone musters a smile.
+TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS632 	01:09:50,00 --> 01:09:56,50 	he musters a curt wave and pulls into a parking space.
+UGLY_TRUTH.srt 	UGLY_TRUTH_DVS446 	00:54:29,00 --> 00:54:35,50 	someone musters a broad grin and calmly retakes her seat.

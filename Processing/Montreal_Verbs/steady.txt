@@ -1,13 +1,1 @@
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS655 	01:38:39,00 --> 01:38:44,50 	someone eyes someone and steadies his aim.
-CHRONICLE.srt 	CHRONICLE_DVS224 	00:32:31,00 --> 00:32:42,50 	as it steadies, we glimpse one of the boys plummeting.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS279 	00:37:07,00 --> 00:37:13,50 	he staggers and steadies himself on a railing as he moves along.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS887 	01:29:36,00 --> 01:29:45,50 	the teen grips the edge and steadies himself.
-PROMETHEUS.srt 	PROMETHEUS_DVS697 	01:14:14,00 --> 01:14:22,50 	as someone steadies himself his bewildered gaze lands on the holographic model of earth.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS661 	02:04:31,00 --> 02:04:50,50 	his right hand trembles severely and he uses his left to steady it.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS519 	02:09:51,00 --> 02:09:58,50 	the crowd watches as the sheriff uses one hand to steady the decree on the tree trunk.
-SALT.srt 	SALT_DVS224 	00:38:18,00 --> 00:38:25,50 	in the suv, someone takes a few steadying breaths.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS179 	00:36:04,00 --> 00:36:19,50 	she slides his coat off then steadies him as he staggers to the bed.
-THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS64 	00:16:45,00 --> 00:16:54,50 	steadying himself on someone, someone lifts his leg and shoots the ball with one hand.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS47 	00:08:28,00 --> 00:08:37,50 	steadying it, he takes out a tool on his keychain.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS753 	01:08:08,00 --> 01:08:13,50 	someone steadies himself and becomes stone,
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1091 	01:38:39,00 --> 01:38:45,50 	beast works the controls and the jet steadies itself.

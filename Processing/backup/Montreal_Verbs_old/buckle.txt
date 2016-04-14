@@ -1,0 +1,4 @@
+30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS154 	00:40:10,00 --> 00:40:16,50 	someone buckles his seatbelt.
+THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS323 	00:58:49,00 --> 00:59:01,50 	someone's knees slowly buckle and he collapses to the couch.
+ZOMBIELAND.srt 	ZOMBIELAND_DVS122 	00:10:29,00 --> 00:10:34,50 	he buckles himself in.
+ZOMBIELAND.srt 	ZOMBIELAND_DVS621 	01:10:53,00 --> 01:11:01,50 	someone buckles his seat belt.

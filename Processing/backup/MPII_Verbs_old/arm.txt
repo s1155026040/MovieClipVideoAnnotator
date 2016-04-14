@@ -1,23 +1,35 @@
-0001_American_Beauty_01.31.29.577-01.31.30.328 	Lester's arm remains draped around his shoulder.
-0021_Rear_Window_00.25.51.198-00.25.54.488 	Then suddenly, she apparently opens the door, because the living room, we see her arm suddenly appear, pointing at the man and the telephone.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.24.27.275-02.24.33.569 	SARUMAN address a crowd of 200 fully armed URUK-HAI.
-0050_Indiana_Jones_and_the_last_crusade_01.35.23.640-01.35.33.869 	Vogel pulls himself back atop the tank armed again with the shovel which he swings at Indy, who ducks and grabs Vogel's arm.
-1007_Spider-Man1_00.04.19.503-00.04.21.490 	A guy, Flash Tompson is armed around Mary Jane, nods to another student.
+0003_CASABLANCA_01.40.14.313-01.40.19.701 	strasser stops in his tracks, looks at rick, and sees that he is armed.
+0011_Gandhi_01.25.36.189-01.25.38.443 	he is traveling slowly, steadily in an armored car at the head of fifty armed sepoys -- gurkhas and baluchis -- immaculate, precise, awesome.
+0011_Gandhi_01.55.52.939-01.55.53.735 	armed sepoys line the wall.
+0016_O_Brother_Where_Art_Thou_00.30.43.494-00.30.45.616 	various police vehicles have pulled up facing the barn, and armed men, their backs to us, train guns on it, some taking cover on the near side of their parked cars.
+0021_Rear_Window_00.25.51.198-00.25.54.488 	then suddenly, she apparently opens the door, because the living room, we see her arm suddenly appear, pointing at the man and the telephone.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.24.27.275-02.24.33.569 	saruman address a crowd of 200 fully armed uruk-hai.
+0032_The_Princess_Bride_00.28.50.364-00.28.51.638 	behind him, half a dozen armed warriors, also mounted.
+0032_The_Princess_Bride_00.48.30.464-00.48.32.147 	three warriors, armed and ready, are mounted in formation behind.
+0050_Indiana_Jones_and_the_last_crusade_01.35.23.640-01.35.33.869 	vogel pulls himself back atop the tank armed again with the shovel which he swings at indy, who ducks and grabs vogel's arm.
+1007_Spider-Man1_00.04.19.503-00.04.21.490 	a guy, flash tompson is armed around mary jane, nods to another student.
 1010_TITANIC_00.26.24.838-00.26.37.400 	they run onto one of the upper decks and wave to arm lockers from a railing.
 1017_Bad_Santa_00.05.58.589-00.06.04.018 	the snowman slides down between the escalators as the alarm system continues its arming countdown.
+1018_Body_Of_Lies_00.01.38.291-00.01.41.572 	armed special branch officers dressed in black run across wasteland.
+1018_Body_Of_Lies_01.46.50.815-01.46.53.852 	armed men open a large gate.
+1018_Body_Of_Lies_01.47.44.536-01.47.44.786 	armed men stand guard.
+1019_Confessions_Of_A_Shopaholic_00.58.29.503-00.58.36.217 	armed with the card, she goes to store and spots a cute melon-shaped bag.
+1030_Public_Enemies_01.21.48.910-01.21.57.691 	as sam's team arms up, purvis and his armed peers board a prop plane on an airfield.
+1030_Public_Enemies_01.22.56.050-01.22.59.717 	armed with their rifles and sub machineguns, the g-men cross the shadowy woods.
 1030_Public_Enemies_01.31.57.998-01.32.02.637 	purvis rides outside the vehicle, on the passenger side running board, armed with his tommy gun.
+1030_Public_Enemies_01.42.54.129-01.42.56.370 	several armed agents remain behind on the sidewalk.
 1033_Sherlock_Holmes_A_Game_of_Shadows_01.26.29.741-01.26.36.408 	they arm themselves.
-1035_The_Adjustment_Bureau_01.38.05.102-01.38.08.204 	smiling, he gives elise's arm a squeeze and leaves them.
+1034_Super_8_00.54.53.331-00.54.59.517 	inside the compound, his car is immediately surrounded by heavily armed soldiers.
+1043_Vantage_Point_00.11.34.895-00.11.39.532 	armed men in uniform are on rooftops and behind barred gates.
 1044_Pride_And_Prejudice_Disk_Two_02.16.11.506-02.16.14.205 	they walk indoors together arm in arm.
 1047_Defiance_00.09.11.892-00.09.13.914 	zus armed with a rifle watches the other people arrive.
 1047_Defiance_00.36.01.766-00.36.05.852 	the three partisans armed with rifles come past a flock of geese on their way to the barn.
 1047_Defiance_01.34.45.030-01.34.47.435 	tuvia, armed with his machine gun, is on an early morning watch.
 1047_Defiance_01.49.35.648-01.49.41.265 	the survivors run through the trees, some carrying bundles, others armed with rifles.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_01.39.58.501-01.40.00.861 	hermione grabs harry's arm to stop him from following.
 1056_Rambo_00.18.23.251-00.18.26.474 	the pirates are armed with a machine gun on a tripod.
 1056_Rambo_01.13.33.436-01.13.36.775 	one of the volunteers gets away, followed by the commander who is armed with an automatic pistol.
 1056_Rambo_01.15.31.211-01.15.35.642 	the patrol boat is armed with a flame thrower and a machine -gun.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_01.39.58.501-01.40.00.861 	hermione grabs harry's arm to stop him from following.
-1056_Rambo_00.18.23.251-00.18.26.474 	the pirates are armed with a machine gun on a tripod.
-1056_Rambo_01.13.33.436-01.13.36.775 	one of the volunteers gets away, followed by the commander who is armed with an automatic pistol.
-1056_Rambo_01.15.31.211-01.15.35.642 	the patrol boat is armed with a flame thrower and a machine -gun.
+1056_Rambo_01.18.25.468-01.18.29.635 	sarah and michael embrace for a few moments, then he gently pushes her arms away and strokes her hair.
+1057_Seven_pounds_01.31.48.199-01.31.52.380 	the piston arms pump, picking up paper, setting it on the platen, and printing on it.
+1062_Day_the_Earth_stood_still_00.20.58.327-00.21.05.000 	a soldier arms his .50 caliber heavy machine gun and points it at the sphere.
+2034_Super_8_01.12.20.613-01.12.24.214 	a 32-year-old humorless, armed soldier stands there.

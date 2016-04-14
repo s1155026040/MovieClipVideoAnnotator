@@ -1,64 +1,34 @@
 0002_As_Good_As_It_Gets_01.17.11.376-01.17.16.047 	she offers him the note.
-0003_CASABLANCA_01.13.53.659-01.13.55.327 	several french officers surround laszlo, offering him a drink.
-0004_Charade_00.30.42.106-00.30.43.342 	reggie realizes that gideon no longer offers any resistance.
 0004_Charade_01.11.01.452-01.11.01.617 	she offers him her cone, thrusting it forward with enough force to dislodge the ice-cream.
-0005_Chinatown_00.51.39.214-00.51.47.119 	gittes pulls out a cigarette case, offers the secretary one.
-0005_Chinatown_01.13.15.452-01.13.19.340 	gittes pulls out cigarette case, takes one, offers one to evelyn who refuses.
-0005_Chinatown_01.15.15.323-01.15.20.636 	he offers her his arm and they go up the walkway to the entrance.
-0006_Clerks_00.10.36.347-00.10.41.639 	the crowd sheepishly exits, one by one, offering apologetic glances.
-0011_Gandhi_01.16.05.276-01.16.07.356 	the secretary picks up a pen and offers it.
-0011_Gandhi_01.16.20.706-01.16.23.559 	he turns, offering sir george a whiskey in a finely cut glass of crystal.
 0014_Ist_das_Leben_nicht_schoen_00.37.16.311-00.37.19.647 	ruth detaches herself from the group and offers george some popcorn.
 0017_Pianist_00.17.29.886-00.17.30.996 	a woman offers cakes under a barbed-wire cover.
-0019_Pulp_Fiction_02.21.52.793-02.21.54.003 	jules slams the case closed, then sits back, as if offering the case to pumpkin.
-0021_Rear_Window_00.23.53.567-00.23.57.769 	miss torso is now wearing a cocktail dress, which shows off her figure to great advantage, especially when she leans toward three assorted men to offer them a plate of hors d' oeuvres.
-0021_Rear_Window_01.05.55.899-01.05.59.031 	the song-writer dashes off a loud vamp of greeting on the piano, then gets up to offer drinks.
 0021_Rear_Window_01.13.44.688-01.13.46.188 	she offers the second to doyle.
 0023_THE_BUTTERFLY_EFFECT_01.12.10.369-01.12.14.016 	carlos shrugs at evan and offers him a roll.
 0023_THE_BUTTERFLY_EFFECT_01.20.47.983-01.20.49.773 	evan offers it to lenny.
 0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.33.45.528-01.33.46.875 	bilbo offers sting to frodo.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.45.54.829-01.46.00.595 	galadriel leans down towards frodo, offering her hand.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.28.28.105-02.28.32.578 	sam offers frodo his hand and pulls him up.
 0033_Amadeus_00.58.23.584-00.58.27.520 	he offers her the dish.
 0033_Amadeus_01.10.30.129-01.10.33.591 	salieri offers him a glass of white dessert and a spoon.
-0033_Amadeus_01.29.59.803-01.30.01.033 	a hand comes into frame offering a plate of sugared biscuits.
 0046_Chasing_Amy_00.03.05.958-00.03.07.526 	he offers him a patronizingly kind, half- smile in return.
 0046_Chasing_Amy_00.10.42.082-00.10.45.237 	banky offers holden a puzzled glance.
 0046_Chasing_Amy_00.22.18.062-00.22.20.452 	alyssa offers the singer an embarrassed half-smile.
 0046_Chasing_Amy_00.23.09.550-00.23.11.368 	banky offers a mocking mimic of his smile.
-0046_Chasing_Amy_00.49.18.455-00.49.22.861 	alyssa slides up to the cashier's desk as does holden, who offers a puzzled shrug.
 0046_Chasing_Amy_00.49.51.998-00.49.54.632 	alyssa offers the 'just wait' finger.
-0046_Chasing_Amy_01.45.03.111-01.45.04.561 	then he offers his own thumbs up - as to say 'good luck'.
-0050_Indiana_Jones_and_the_last_crusade_00.19.07.323-00.19.11.264 	indy rubs his chin with a dubious expression as he takes the glass of champagne donovan now offers him.
-1001_Flight_00.45.02.594-00.45.11.492 	she wipes a tear from her eye, offers a smile, then stands and climbs up the stairs.
 1001_Flight_01.00.55.676-01.01.00.394 	he offers nicole a beer and she refuses.
 1001_Flight_01.53.06.358-01.53.13.526 	harling snorts a line and offers a hit to charlie and hugh.
-1003_How_to_Lose_Friends_and_Alienate_People_01.19.10.857-01.19.15.150 	he turns and offers alison his hand.
-1003_How_to_Lose_Friends_and_Alienate_People_01.43.25.214-01.43.28.736 	he tosses the book down on the blanket and offers a hand.
 1006_Slumdog_Millionaire_00.42.37.075-00.42.39.192 	the man offers money to jamal.
-1006_Slumdog_Millionaire_01.12.33.098-01.12.43.068 	jamal arrives at the open top floor which has no walls and offers panoramic views of mumbai.
 1008_Spider-Man2_01.38.18.107-01.38.18.502 	her lips offer to him.
 1009_Spider-Man3_01.13.51.035-01.13.54.911 	its blue and red neon sign not yet switched on for business, offers nightly music, food, drink, and dancing.
 1009_Spider-Man3_01.22.37.135-01.22.40.151 	he offers up the flowers.
 1011_The_Help_02.01.09.406-02.01.16.145 	skeeter receives a letter from elain stein offering her a job as a junior editor at harper &amp; row publishers.
-1018_Body_Of_Lies_00.12.28.123-00.12.33.313 	nizar unzips his coat, takes out a computer disk and offers it to ferris.
-1023_Horrible_Bosses_00.21.29.305-00.21.32.617 	kenny takes the cash they offered and goes.
 1024_Identity_Thief_01.28.03.080-01.28.05.775 	he offers a napkin.
 1026_Legion_00.59.19.633-00.59.26.668 	audrey pops the pill in her mouth and offers her a drink through a straw.
-1026_Legion_01.13.29.805-01.13.42.397 	smiling incredulously, audrey wraps the bloody child in a towel and offers it to charlie.
-1028_No_Reservations_00.37.46.752-00.37.47.252 	he holds out a pan and offers her a taste of the food he's cooking.
-1028_No_Reservations_01.34.40.000-01.34.42.487 	nick offers his hand, which kate takes.
-1029_Pride_And_Prejudice_Disk_One_01.22.41.942-01.22.47.472 	he offers her his arm, then leads them both through to the next room.
-1030_Public_Enemies_02.09.34.563-02.09.37.230 	he turns the case, offering the grieving woman a cigarette.
 1034_Super_8_00.11.17.943-00.11.21.450 	joe offers alice a candy.
 1035_The_Adjustment_Bureau_01.33.56.551-01.33.58.912 	david offers a staffer a cordial wave as he and elise proceed through the offices.
 1037_The_Curious_Case_Of_Benjamin_Button_01.47.35.507-01.47.38.561 	daisy offers a smile as a handsome dark-haired young man embraces her from behind.
 1037_The_Curious_Case_Of_Benjamin_Button_02.14.58.766-02.15.01.937 	he offers an unconvincing smile.
-1043_Vantage_Point_01.10.32.848-01.10.43.055 	the middle-aged man offers his keys nervously as taylor drives down the street towards javier, and stops as javier slaps the bonnet off the spanish police car.
-1044_Pride_And_Prejudice_Disk_Two_01.59.05.137-01.59.15.804 	she offers him her hand, and he kisses it, then the two of them go inside.
 1046_Australia_01.18.37.814-01.18.40.303 	carney offers a pen to the captain.
 1047_Defiance_00.42.48.170-00.42.49.414 	zus offers her a sip from his hip flask.
-1048_Gran_Torino_00.50.49.931-00.50.58.013 	and walks over to sue who offers him a glass of clear liquid.
 1052_Harry_Potter_and_the_order_of_phoenix_01.30.51.138-01.30.54.056 	he offers them to her.
 1055_Marley_and_me_00.46.13.322-00.46.15.567 	debbie offers the sedatives.
 1055_Marley_and_me_00.53.21.694-00.53.24.037 	marley offers up a welcoming paw.
@@ -66,10 +36,4 @@
 1057_Seven_pounds_01.29.16.981-01.29.23.466 	she offers ben her hand.
 1060_Yes_man_00.22.28.616-00.22.34.790 	he offers the guy all his money.
 1060_Yes_man_01.23.18.080-01.23.20.493 	janet offers a piece of cake to lee.
-1062_Day_the_Earth_stood_still_00.32.01.000-00.32.07.000 	watched closely by helen, mike removes the oxygen mask and offers the being a cup of water.
-2012_Unbreakable_00.05.10.050-00.05.16.364 	the woman looks over the one being offered and then points to the sports illustrated peeking out of the seat pocket.
-2026_Legion_00.32.08.629-00.32.11.192 	michael offers up a dangerous smile, revealing a not so well kept but definitely normal set of teeth.
-2026_Legion_01.07.04.798-01.07.09.456 	then, seeing that the coast is clear, he offers a calming wave to his wife and young boy who wait anxiously for him inside the car.
-2034_Super_8_00.11.20.720-00.11.22.708 	she takes the twizzler he offers and looks back to the road.
-2034_Super_8_00.55.55.548-00.55.57.984 	nelec offers a vague, searching smile.
 2034_Super_8_01.16.34.396-01.16.37.924 	another jump cut as a soldier offers a bucket of food to the alien -- it's woodward.

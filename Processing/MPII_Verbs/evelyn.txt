@@ -1,7 +1,3 @@
 0005_Chinatown_00.28.25.583-00.28.28.214 	evelyn sits at a glass-topped table.
 0005_Chinatown_00.33.34.935-00.33.42.457 	escobar and evelyn move slowly toward the door.
-0005_Chinatown_00.47.18.844-00.47.21.233 	gittes looks significantly to evelyn.
 0005_Chinatown_00.49.37.104-00.49.38.312 	gittes leans on the open door of his car and in to evelyn.
-0005_Chinatown_01.13.15.452-01.13.19.340 	gittes pulls out cigarette case, takes one, offers one to evelyn who refuses.
-0005_Chinatown_01.31.30.823-01.31.32.987 	she's looking up to evelyn, speaking in spanish.
-0005_Chinatown_01.34.08.111-01.34.09.210 	gittes looks over to evelyn.

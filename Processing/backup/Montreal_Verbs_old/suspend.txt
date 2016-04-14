@@ -1,0 +1,9 @@
+ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS185 	00:25:14,00 --> 00:25:29,50 	we pull back to find someone in a room full of victims, each suspended upside down.
+CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS273 	01:06:22,00 --> 01:06:34,50 	suspended off her feet, someone blinks thoughtfully as she eyes him.
+DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS359 	01:26:57,00 --> 01:27:03,50 	a block of cheese is suspended above the patient.
+HUGO.srt 	HUGO_DVS84 	00:10:49,00 --> 00:10:57,50 	he climbs down a metal ladder to a large square clock suspended over train station platforms.
+HUGO.srt 	HUGO_DVS519 	01:16:47,00 --> 01:16:53,50 	back at the station, someone and someone climb down into the suspended clock.
+KARATE_KID.srt 	KARATE_KID_DVS1312 	01:45:51,00 --> 01:46:00,50 	someone hooks the back of his knees over the utility pole pegs, and does suspended sit-ups, as someone holds his feet.
+THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS409 	00:59:59,00 --> 01:00:06,50 	suspended by the unicorn's rigging, the pirate ship swings over the unicorn's deck.
+THOR.srt 	THOR_DVS100 	00:14:57,00 --> 00:15:05,50 	they gallop along an elevated roadway which resembles a thin ribbon of water suspended in the air.
+XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1276 	01:55:00,00 --> 01:55:06,50 	all of the missiles remain suspended in the sky.

@@ -1,0 +1,11 @@
+21_JUMP_STREET.srt 	21_JUMP_STREET_DVS313 	00:53:19,00 --> 00:53:23,50 	he swigs vodka from the bottle.
+FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS100 	00:27:10,00 --> 00:27:14,50 	they both swig a beer.
+FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS326 	01:26:55,00 --> 01:27:01,50 	someone swigs a beer watching their screen kiss.
+IN_TIME.srt 	IN_TIME_DVS124 	00:14:46,00 --> 00:14:54,50 	someone brings it to his lips hesitantly, then swigs at it with increasing enthusiasm.
+SANCTUM.srt 	SANCTUM_DVS170 	00:34:43,00 --> 00:35:00,50 	at forward base, someone sits in front of the monitor swigging from his bottle.
+THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS48 	00:09:22,00 --> 00:09:29,50 	as someone chomps into a taco doused with hot sauce, his friend swigs a coke.
+THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS97 	00:18:56,00 --> 00:19:01,50 	he swigs juice from a carton.
+THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS873 	01:37:25,00 --> 01:37:30,50 	as he swigs from the bottle she moves closer.
+UGLY_TRUTH.srt 	UGLY_TRUTH_DVS37 	00:04:44,00 --> 00:04:50,50 	a monitor shows rocco swigging from a wine bottle.
+WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS108 	00:10:49,00 --> 00:10:55,50 	someone comes down barefooted, swigging champagne from the bottle.
+ZOMBIELAND.srt 	ZOMBIELAND_DVS516 	01:01:06,00 --> 01:01:10,50 	someone swigs more wine.

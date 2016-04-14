@@ -1,34 +1,30 @@
-0004_Charade_01.47.14.139-01.47.15.125 	REGGIE huddled inside.
-0007_DIE_NACHT_DES_JAEGERS_01.24.15.704-01.24.16.619 	They huddle on the stairs in reverent silence.
-0007_DIE_NACHT_DES_JAEGERS_01.24.33.862-01.24.37.760 	They lie huddled in calm sleep.
-0011_Gandhi_00.50.00.355-00.50.07.042 	Gandhi's solemn eyes are studying the huddled humanity in the rocking coach.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.01.05.351-01.01.06.315 	Sam, Merry, and Pippin huddled over a small fire.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.18.01.120-00.18.08.743 	GOLLUM, huddled on the ground SOBBING and SAM makes for SMEAGOL again with a look of MURDEROUS RAGE.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.31.57.405-00.32.00.115 	PIPPIN, huddled in front of GANDALF, the WIND sailing through his hair.
-0030_The_Hustler_00.20.19.618-00.20.23.211 	Fats peers at the pack of balls huddled together, then points to one that lies in the middle of the pack.
-1005_Signs_01.39.31.991-01.39.33.871 	The family huddled together on the grass near the picnic table and brick barbecue.
-1006_Slumdog_Millionaire_01.50.08.715-01.50.13.989 	There is Jamal, huddled by a pillar, waiting for her.
-1010_TITANIC_02.59.09.388-02.59.13.695 	elsewhere, ruth huddles against molly, who steers out to see with a blank expression.
+0004_Charade_01.46.47.665-01.46.47.819 	inside, huddling down, is a terrified reggie, holding her breath as she watches him.
+0004_Charade_01.47.14.139-01.47.15.125 	reggie huddled inside.
+0007_DIE_NACHT_DES_JAEGERS_01.24.15.704-01.24.16.619 	they huddle on the stairs in reverent silence.
+0007_DIE_NACHT_DES_JAEGERS_01.24.33.862-01.24.37.760 	they lie huddled in calm sleep.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.01.05.351-01.01.06.315 	sam, merry, and pippin huddled over a small fire.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.18.01.120-00.18.08.743 	gollum, huddled on the ground sobbing and sam makes for smeagol again with a look of murderous rage.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.31.57.405-00.32.00.115 	pippin, huddled in front of gandalf, the wind sailing through his hair.
+0030_The_Hustler_00.20.19.618-00.20.23.211 	fats peers at the pack of balls huddled together, then points to one that lies in the middle of the pack.
+1005_Signs_01.39.31.991-01.39.33.871 	the family huddled together on the grass near the picnic table and brick barbecue.
+1006_Slumdog_Millionaire_01.50.08.715-01.50.13.989 	there is jamal, huddled by a pillar, waiting for her.
 1018_Body_Of_Lies_00.01.41.874-00.01.44.097 	more officers huddle on a street corner as the milk float drives around.
 1023_Horrible_Bosses_01.14.10.414-01.14.12.191 	they huddle closer.
-1026_Legion_00.02.11.426-00.02.15.486 	he throws himself against the wall and huddles beside it.
 1027_Les_Miserables_02.02.26.512-02.02.27.405 	enjolras and the students are huddled in the room above.
+1031_Quantum_of_Solace_01.30.14.785-01.30.19.460 	huddled beneath a car, bond fires at legs, the only targets he can see.
 1041_This_is_40_00.39.54.753-00.39.56.379 	a photo shows him huddled with his young wife, a teen boy and girl.
 1046_Australia_01.00.22.887-01.00.27.071 	 they look down in the cattle huddled in the canyon shadows.
-1046_Australia_01.39.44.000-01.39.48.682 	the ball guests huddle on the colonnaded verandah of the house where carney holds court.
 1047_Defiance_00.06.41.214-00.06.47.066 	the four of them huddle together in the pouring rain.
 1047_Defiance_00.49.00.358-00.49.03.163 	people huddled on the ground look up at tuvia, but only zus stands up, draping his machine gun over his shoulder.
 1047_Defiance_01.11.49.793-01.11.50.530 	in one of the huts, layla, sits huddled at a table.
 1047_Defiance_01.24.55.532-01.25.00.337 	at mealtime, as people huddle in groups, arkady is standing at the food table.
+1047_Defiance_01.35.54.789-01.35.55.976 	tamara huddled in her black coat despite the sunshine.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.19.39.233-01.19.47.131 	hermione sits huddled on a flat-topped rock.
 1052_Harry_Potter_and_the_order_of_phoenix_01.53.39.240-01.53.44.222 	harry lies huddled on the rocky mound clutching the prophecy sphere.
 1053_Harry_Potter_and_the_philosophers_stone_01.54.21.545-01.54.32.780 	leaving neville, they all huddle under the invisibility cloak.
 1058_The_Damned_united_01.25.32.490-01.25.39.000 	the boys huddle close behind brian, excitedly.
 2005_Signs_01.02.06.169-01.02.09.865 	graham stares at his family huddled on the couch.
-2026_Legion_01.08.48.355-01.09.01.938 	he closes in on the family, blasting back the creatures huddled around them.
-1053_Harry_Potter_and_the_philosophers_stone_01.54.21.545-01.54.32.780 	leaving neville, they all huddle under the invisibility cloak.
-1058_The_Damned_united_01.25.32.490-01.25.39.000 	the boys huddle close behind brian, excitedly.
-2005_Signs_01.02.06.169-01.02.09.865 	graham stares at his family huddled on the couch.
+2005_Signs_01.39.41.427-01.39.47.924 	huddled together in the sunlight.
 2026_Legion_01.08.48.355-01.09.01.938 	he closes in on the family, blasting back the creatures huddled around them.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_00.09.59.261-00.10.00.239 	stan, huddled in an armchair, peeks over the daily prophet, eyes harry coolly, before disappearing once more.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_00.39.23.005-00.39.28.655 	seamus and the other gryffindors are huddled over a copy of the daily prophet.

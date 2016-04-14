@@ -1,0 +1,17 @@
+A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS42 	00:11:34,00 --> 00:11:39,50 	someone flaps his hands like wings.
+DEAR_JOHN.srt 	DEAR_JOHN_DVS559 	01:18:23,00 --> 01:18:32,50 	someone closes the envelopes flap, and tucks the letter against the side of his body.
+GROWN_UPS.srt 	GROWN_UPS_DVS156 	00:45:52,00 --> 00:45:57,50 	flapping in the breeze.
+JACK_AND_JILL.srt 	JACK_AND_JILL_DVS169 	00:33:51,00 --> 00:33:55,50 	she flaps her jaw.
+LIFE_OF_PI.srt 	LIFE_OF_PI_DVS43 	00:02:51,00 --> 00:02:59,50 	two black aardvarks wade through water up to their heads, flapping their long snouts as they move along.
+MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS164 	00:23:41,00 --> 00:23:48,50 	it examines its flippers, then flaps them as it watches a soaring eagle on the nature show.
+MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS238 	00:34:52,00 --> 00:34:58,50 	it flies off, and captain watches, its flippers flapping.
+MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS641 	01:18:03,00 --> 01:18:09,50 	flapping her flippers, she steps to the precipice.
+MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS693 	01:25:50,00 --> 01:25:56,50 	the lone penguin flaps her flippers, then hangs her head.
+NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS438 	01:31:13,00 --> 01:31:24,50 	he floats high, flapping his wings which appear puny compared to his inflated body.
+PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS422 	01:40:28,00 --> 01:40:34,50 	someone's winged sneakers flap uselessly beside it.
+PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS93 	00:15:31,00 --> 00:15:35,50 	coats flap in the breeze.
+ROBIN_HOOD.srt 	ROBIN_HOOD_DVS271 	01:05:02,00 --> 01:05:09,50 	it flaps away into the night.
+SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS44 	00:09:10,00 --> 00:09:25,50 	as someone holds the tiny dragon in his palm, it comes to life, sleepily shakes its head, and flaps its metal wings.
+WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS145 	00:18:42,00 --> 00:18:50,50 	from behind her, an arm in a blazer flaps into view, its hand latching onto her breast.
+XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1185 	01:45:47,00 --> 01:45:53,50 	flapping her wings, angel scans the deck.
+ZOMBIELAND.srt 	ZOMBIELAND_DVS289 	00:32:34,00 --> 00:32:43,50 	a flannel shirt hangs from the hood, flapping in the breeze.

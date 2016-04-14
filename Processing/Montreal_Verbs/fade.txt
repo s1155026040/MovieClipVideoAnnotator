@@ -1,65 +1,35 @@
 500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS448 	01:17:10,00 --> 01:17:15,50 	on screen, the characters' excited smiles fade.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS710 	01:12:09,00 --> 01:12:13,50 	her smile quickly fades.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS680 	01:37:15,00 --> 01:37:25,50 	as the carriage fades away, the finished washington monument appears in the distance.
-BURLESQUE.srt 	BURLESQUE_DVS56 	00:05:28,00 --> 00:05:34,50 	she gives someone a polite smile, which instantly fades as she moves on.
 BURLESQUE.srt 	BURLESQUE_DVS359 	00:49:30,00 --> 00:49:37,50 	a spotlight fades up onstage and the bartenders, including someone, clap for the performers.
-BURLESQUE.srt 	BURLESQUE_DVS687 	01:45:55,00 --> 01:46:00,50 	the women's smiles fade as they notice her.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS617 	01:24:19,00 --> 01:24:26,50 	a pain smile fades from his former lover's rosebud lips.
 FLIGHT.srt 	FLIGHT_DVS778 	01:38:14,00 --> 01:38:19,50 	her smile fades.
 FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS251 	01:08:00,00 --> 01:08:04,50 	playful smiles fade.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS193 	00:30:34,00 --> 00:30:40,50 	their carefree smiles fade as they notice his large gun.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS241 	00:38:30,00 --> 00:38:47,50 	as it fades, they see ghost rider's horizontal body rotating three feet above the ground.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS275 	00:42:34,00 --> 00:42:43,50 	as he heads toward someone, his flames briefly fade.
 IN_TIME.srt 	IN_TIME_DVS107 	00:11:38,00 --> 00:11:44,50 	someone's smile fades as a car crawls past outside.
-IN_TIME.srt 	IN_TIME_DVS788 	01:22:53,00 --> 01:23:00,50 	their smiles fade and they gaze off thoughtfully in different directions.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS171 	00:54:30,00 --> 00:54:37,50 	her smile fades.
-ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS237 	01:08:36,00 --> 01:08:45,50 	someone gives a tender smile which fades to a serene look.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS345 	01:05:25,00 --> 01:05:33,50 	her smile fades.
-KARATE_KID.srt 	KARATE_KID_DVS1139 	01:34:39,00 --> 01:34:46,50 	as they follow their daughter's gaze, the parents' smiles fade.
-LAND_OF_THE_LOST.srt 	LAND_OF_THE_LOST_DVS43 	00:15:17,00 --> 00:15:32,50 	bright light fills our view, then fades to pale desert sand.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS667 	01:10:53,00 --> 01:11:00,50 	the fish grows still and its vibrant colors fade to dull, mottled shades of grey.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS813 	01:22:59,00 --> 01:23:08,50 	from a distance, the bright orange flare briefly illuminates the dark night sky and the screen fades to black.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS1089 	01:52:02,00 --> 01:52:07,50 	it fades and he takes on a haunted expression.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS1126 	01:58:47,00 --> 01:58:54,50 	the boy fades from view and the sparkling ocean becomes the mexican jungle.
 LITTLE_FOCKERS.srt 	LITTLE_FOCKERS_DVS87 	00:32:56,00 --> 00:33:01,50 	their smiles fade.
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS169 	00:42:44,00 --> 00:42:50,50 	someone's joyful smile fades into a panicked expression.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS389 	01:14:44,00 --> 01:14:59,50 	as the audience members settle their eyes back toward the front, the lights fade down and a new story begins.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS481 	01:31:11,00 --> 01:31:17,50 	lead agent doffs his hat and crouches down to his fading colleague.
-RUBY_SPARKS.srt 	RUBY_SPARKS_DVS290 	00:45:57,00 --> 00:46:06,50 	someone spins the chair and they twirl in place, remaining lip locked as the image gradually fades to black.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS646 	01:32:39,00 --> 01:32:45,50 	as our view lingers on the brothers, the image gradually fades to black.
-SALT.srt 	SALT_DVS22 	00:03:52,00 --> 00:04:37,50 	the central pieces slide together and form a title as the picture around them fades to black.
-SALT.srt 	SALT_DVS355 	01:03:13,00 --> 01:03:19,50 	as someone turns away, her smile fades.
-SANCTUM.srt 	SANCTUM_DVS323 	01:04:45,00 --> 01:04:52,50 	the last of the light fades out, leaving us in total darkness.
 SANCTUM.srt 	SANCTUM_DVS443 	01:24:07,00 --> 01:24:13,50 	the light on someone's helmet torch fades out.
-SANCTUM.srt 	SANCTUM_DVS450 	01:24:48,00 --> 01:24:54,50 	as someone moves forward, his light fades out.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS556 	00:37:11,00 --> 00:37:15,50 	as she gently presses the fan to her cheek, the image fades to black.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS256 	00:51:44,00 --> 00:51:52,50 	at the turn of a dial, the lights fade out.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS37 	00:06:51,00 --> 00:06:59,50 	the image fades to colorful blurry lights and a title fades in on the foreground, someone.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS37 	00:06:51,00 --> 00:06:59,50 	the image fades to colorful blurry lights and a title fades in on the foreground, someone.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS338 	00:55:15,00 --> 00:55:19,50 	her smile fades.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS362 	01:00:41,00 --> 01:00:47,50 	a blue glow consumes her face and her smile fades.
-SPARKLE_2012.srt 	SPARKLE_2012_DVS368 	01:02:48,00 --> 01:02:55,50 	someone watches someone leave with a big smile that fades as she faces someone.
-SPARKLE_2012.srt 	SPARKLE_2012_DVS499 	01:20:49,00 --> 01:20:56,50 	we fade to a black and white snapshot of sister she holds in her hands.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS314 	00:59:28,00 --> 00:59:35,50 	someone passes in front of our view as the picture fades to black.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS388 	01:13:28,00 --> 01:13:34,50 	someone's smile fades to a tight smirk.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS665 	01:33:38,00 --> 01:33:44,50 	a group of about 40 suddenly fades into view -
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS694 	01:38:04,00 --> 01:38:13,50 	the scene in front of him fades to someone's hospital room, where our view edges closer to the back of his head
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS674 	01:15:28,00 --> 01:15:33,50 	the image quickly fades to black.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS685 	01:16:05,00 --> 01:16:12,50 	as the exotic young beauty grins in ecstasy, the image fades to black.
-THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS284 	01:32:03,00 --> 01:32:09,50 	the scene fades to black and credits continue to scroll.
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS418 	01:36:32,00 --> 01:36:38,50 	she flashes a tight smile, which fades to a glum look.
-THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS42 	00:05:44,00 --> 00:05:49,50 	her smile fades as her assistant heads off.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS193 	00:36:44,00 --> 00:36:50,50 	someone's smile fades to a comprehending scowl.
-THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS340 	01:01:12,00 --> 01:01:18,50 	as the cars pull out, the picture fades to black.
-THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS356 	01:04:39,00 --> 01:04:51,50 	as someone and someone lie kissing on the kitchen island, the picture fades to black.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS544 	01:00:09,00 --> 01:00:14,50 	he fades completely from view.
 TRUE_GRIT.srt 	TRUE_GRIT_DVS580 	01:40:56,00 --> 01:41:02,50 	the image of the figure on the porch fades to black.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS52 	00:08:29,00 --> 00:08:35,50 	her smile fades as she straightens.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS543 	01:12:46,00 --> 01:13:01,50 	her smile fades.
-UGLY_TRUTH.srt 	UGLY_TRUTH_DVS588 	01:18:25,00 --> 01:18:30,50 	as it fades, she lifts her eyes to his.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS397 	01:03:04,00 --> 01:03:10,50 	he finds the old faded sweatshirt in the top drawer and takes it out.
-WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS87 	00:07:46,00 --> 00:07:53,50 	now as she enters her apartment building's lobby, her list fades into view.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS41 	00:03:10,00 --> 00:03:17,50 	her smile fades.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS145 	00:09:16,00 --> 00:09:25,50 	as the rest of the scene fades to black, the nazi coin hovers in the darkness, then rotates.
-YOUNG_ADULT.srt 	YOUNG_ADULT_DVS154 	00:27:35,00 --> 00:27:40,50 	her smile gradually fades as she stares at him.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS89 	00:07:09,00 --> 00:07:13,50 	the picture fades to black.

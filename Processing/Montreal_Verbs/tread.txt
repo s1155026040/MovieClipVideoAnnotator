@@ -1,18 +1,7 @@
-DEAR_JOHN.srt 	DEAR_JOHN_DVS141 	00:22:46,00 --> 00:22:58,50 	now, someone holds his surfboard, tucked under his arm as they trod into the ocean.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS537 	01:16:44,00 --> 01:16:52,50 	he treads down a hall to his father's shadowy study, and lingers in the doorway.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS720 	01:36:33,00 --> 01:36:40,50 	in the hall, someone shifts his weight uneasily, then treads toward the kitchen.
-EASY_A.srt 	EASY_A_DVS290 	01:26:07,00 --> 01:26:13,50 	the webcast shows her grin and trod out the door.
-GREEN_ZONE.srt 	GREEN_ZONE_DVS340 	01:16:29,00 --> 01:17:03,50 	halting, he gazes down a narrow passage between two of the hulking vehicles then treads through it.
-IN_TIME.srt 	IN_TIME_DVS375 	00:39:23,00 --> 00:39:30,50 	as they tread water, they bring their open mouths teasingly close.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS437 	01:24:17,00 --> 01:24:33,50 	outside, someone passes in and out of light as he treads forward.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS278 	01:06:23,00 --> 01:06:47,50 	later, he treads into someone's bed chamber.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS392 	01:37:11,00 --> 01:37:21,50 	someone ties his horse to a wooden beam, then treads toward the cross and the stone steps forming its base.
-SALT.srt 	SALT_DVS275 	00:48:20,00 --> 00:48:35,50 	the u.s. president kisses his wife then treads forward and tenderly lays his hand on the casket.
-SALT.srt 	SALT_DVS323 	00:57:25,00 --> 00:57:46,50 	bystanders tread toward the passenger side of the suv as someone slips out the driver's side.
 SANCTUM.srt 	SANCTUM_DVS225 	00:48:31,00 --> 00:48:47,50 	there feet clad in flippers, they lazily tread water.
-SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS42 	00:08:33,00 --> 00:08:49,50 	he treads toward someone and eyes him uncertainly, then drops his gaze to a small black box.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS284 	00:53:05,00 --> 00:53:16,50 	she treads back to the door, her eyes locked on someone's.
 THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS96 	00:31:07,00 --> 00:31:35,50 	he treads toward the envelope then hesitates.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS523 	00:57:55,00 --> 00:58:00,50 	someone treads up behind him.
 TRUE_GRIT.srt 	TRUE_GRIT_DVS262 	00:53:58,00 --> 00:54:05,50 	someone carefully treads across the rooftop.
-WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS463 	01:04:54,00 --> 01:05:02,50 	they tread water within a circle of moonlight reflected on the rippling surface of the water, then swim for the dock.

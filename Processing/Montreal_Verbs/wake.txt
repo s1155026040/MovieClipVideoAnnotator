@@ -1,45 +1,23 @@
 500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS307 	00:54:30,00 --> 00:54:35,50 	someone wakes up in the cinema.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS471 	01:06:54,00 --> 01:07:00,50 	now the president wakes in a chair at someone's bedside.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS115 	00:26:23,00 --> 00:26:28,50 	in bed, someone wakes up.
-COLOMBIANA.srt 	COLOMBIANA_DVS393 	00:35:07,00 --> 00:35:12,50 	as she crawls on by, he wakes.
 COLOMBIANA.srt 	COLOMBIANA_DVS411 	00:36:27,00 --> 00:36:32,50 	he wakes the guard in the security room.
-COLOMBIANA.srt 	COLOMBIANA_DVS428 	00:37:30,00 --> 00:37:35,50 	someone wakes with a start and sits up.
-DISTRICT_9.srt 	DISTRICT_9_DVS483 	00:56:11,00 --> 00:56:18,50 	he slowly wakes and sits up.
-FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS202 	00:53:37,00 --> 00:53:54,50 	she wakes and gets up groggily.
-FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS241 	01:05:49,00 --> 01:06:09,50 	he wakes and rushes out, holding his crotch.
-FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS267 	01:09:26,00 --> 01:09:31,50 	he slips out of bed without waking her and pulls his hand.
-GET_HIM_TO_THE_GREEK.srt 	GET_HIM_TO_THE_GREEK_DVS43 	00:27:24,00 --> 00:27:32,50 	someone groggily wakes up and finds his suite trashed.
 GET_HIM_TO_THE_GREEK.srt 	GET_HIM_TO_THE_GREEK_DVS44 	00:28:19,00 --> 00:28:23,50 	he wakes up.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS36 	00:06:25,00 --> 00:06:31,50 	someone wakes with a start.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS196 	00:30:59,00 --> 00:31:06,50 	someone wakes with a jolt.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS413 	01:00:12,00 --> 01:00:21,50 	he wakes with a start and rises to a crouch then looks at his gloved right hand, gives it a rub, and brightens.
 IN_TIME.srt 	IN_TIME_DVS141 	00:15:45,00 --> 00:15:49,50 	someone wakes with a start.
 IN_TIME.srt 	IN_TIME_DVS459 	00:49:30,00 --> 00:49:36,50 	in the roadster, someone stirs weakly then wakes.
 IN_TIME.srt 	IN_TIME_DVS566 	01:00:33,00 --> 01:00:37,50 	she wakes.
 JACK_AND_JILL.srt 	JACK_AND_JILL_DVS125 	00:24:41,00 --> 00:24:45,50 	they wake up.
-JACK_AND_JILL.srt 	JACK_AND_JILL_DVS247 	00:49:27,00 --> 00:49:32,50 	poopsie flies off, waking someone on an inflatable mattress.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS901 	01:30:42,00 --> 01:30:47,50 	water calmly sweeps up over the bench waking him.
-MORNING_GLORY.srt 	MORNING_GLORY_DVS34 	00:04:14,00 --> 00:04:19,50 	a floor manager threw post-it notes at her to wake her.
 MORNING_GLORY.srt 	MORNING_GLORY_DVS239 	00:52:33,00 --> 00:52:38,50 	someone wakes with a start.
-MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS138 	00:21:00,00 --> 00:21:07,50 	waking up, someone finds himself staring straight into the birds open beak.
-MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS528 	01:02:56,00 --> 01:03:03,50 	he wakes up and furrows his brow.
 NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS112 	00:17:46,00 --> 00:17:52,50 	he frowns as he slowly wakes up on a couch.
 NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS259 	00:45:13,00 --> 00:45:18,50 	she wakes looks right him
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS142 	00:35:56,00 --> 00:36:02,50 	someone hurriedly heads back into the cabin and wakes his sleeping friends.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS318 	01:16:43,00 --> 01:16:59,50 	he wakes.
-RUBY_SPARKS.srt 	RUBY_SPARKS_DVS300 	00:48:14,00 --> 00:48:20,50 	someone wakes up, spots him at the foot of the bed and sits up.
 SANCTUM.srt 	SANCTUM_DVS285 	00:57:20,00 --> 00:57:25,50 	now, someone wakes up from a nap.
-SPARKLE_2012.srt 	SPARKLE_2012_DVS556 	01:31:09,00 --> 01:31:18,50 	a receptionist wakes her and she smiles.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS189 	00:36:54,00 --> 00:36:59,50 	his eyelids flutter and he wakes up.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS339 	01:06:17,00 --> 01:06:53,50 	someone wakes up in his bed and watches him deliberately stub out a lit cigarette near the bottom corner of the canvas.
 THE_CALL.srt 	THE_CALL_DVS154 	00:12:44,00 --> 00:12:48,50 	someone wakes with a start.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS582 	01:04:22,00 --> 01:04:33,50 	the rapist wakes to find himself naked, bound, and gagged.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS687 	01:16:17,00 --> 01:16:22,50 	someone wakes with a start.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS700 	01:17:24,00 --> 01:17:28,50 	she wakes her lover.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1249 	02:11:52,00 --> 02:11:58,50 	across the aisle, someone sits beside someone who wakes from a nap.
-THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS96 	00:34:33,00 --> 00:34:39,50 	the next morning, someone wakes up and stretches his arms.
 THE_SITTER.srt 	THE_SITTER_DVS128 	01:09:53,00 --> 01:09:59,50 	she wakes up and glances outside, avoiding someone's gaze.
-THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS368 	01:28:47,00 --> 01:28:53,50 	waking up, she finds a note in the vacant spot beside her.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS184 	00:24:45,00 --> 00:24:49,50 	then someone wakes up in bed.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS647 	01:11:33,00 --> 01:11:38,50 	now in bed, he wakes up.
-TRUE_GRIT.srt 	TRUE_GRIT_DVS190 	00:40:24,00 --> 00:40:29,50 	she wakes and sits up.

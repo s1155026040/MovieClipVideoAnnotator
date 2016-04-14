@@ -1,160 +1,80 @@
 0001_American_Beauty_01.18.32.062-01.18.33.318 	jane zooms in on his face, which remains placid.
 0001_American_Beauty_01.31.29.577-01.31.30.328 	lester's arm remains draped around his shoulder.
-0001_American_Beauty_01.32.45.901-01.32.47.812 	he's trying to remain cool, and doing a pretty good job.
 0002_As_Good_As_It_Gets_00.34.33.553-00.34.41.246 	he pockets the remaining bacon.
 0004_Charade_00.09.11.529-00.09.15.479 	only some hangers remain.
 0005_Chinatown_00.23.57.966-00.23.59.856 	mulvihill stares at gittes with unblinking eyes, remains by the desk.
 0005_Chinatown_00.50.27.670-00.50.30.273 	evelyn remains unperturbed.
-0006_Clerks_00.01.42.790-00.01.42.872 	the rumpled figure slowly sits up and remains motionless.
 0006_Clerks_00.03.15.805-00.03.16.672 	one rack remains empty.
 0006_Clerks_00.32.06.526-00.32.08.992 	dante and randal remain respectfully quiet for a moment.
-0006_Clerks_00.56.31.954-00.56.39.875 	randal makes no move, but remains untouched.
-0007_DIE_NACHT_DES_JAEGERS_00.49.18.975-00.49.19.816 	john stands to preacher's right, around corner of table; he remains expressionless and immobile, until he speaks.
-0008_Fargo_00.54.37.997-00.54.39.269 	on the table the remains of coffee and a cinnamon filbert ring are present
 0009_Forrest_Gump_00.16.56.058-00.16.58.763 	the chasing boys ride over the remains of forrest's braces.
-0010_Frau_Ohne_Gewissen_01.01.52.543-01.01.55.249 	keyes and neff sit down, norton remains standing.
-0011_Gandhi_01.06.28.248-01.06.29.948 	gandhi looks around the crude dwelling, almost nothing remains.
-0011_Gandhi_01.10.09.865-01.10.10.796 	gandhi has remained seated, pensive.
 0011_Gandhi_01.10.10.602-01.10.13.993 	a little grin, but his mood remains pensive -- and remote.
-0011_Gandhi_01.22.47.134-01.22.51.008 	the guard closes the door, but remains in the room.
-0013_Halloween_01.08.09.531-01.08.12.986 	she opens her mouth, trying to get air, then slowly slumps forward and remains motionless.
 0014_Ist_das_Leben_nicht_schoen_00.53.14.693-00.53.15.842 	the people ignore george and remain standing in front of the teller's window.
 0014_Ist_das_Leben_nicht_schoen_01.03.02.518-01.03.31.818 	they remain embraced.
 0014_Ist_das_Leben_nicht_schoen_01.24.37.803-01.24.39.742 	uncle billy remains sobbing at the table, his head in his arms.
-0014_Ist_das_Leben_nicht_schoen_01.50.43.613-01.50.46.447 	they remain for a moment as they landed, looking at each other.
 0016_O_Brother_Where_Art_Thou_01.06.31.901-01.06.32.729 	they remain silently on their feet.
 0016_O_Brother_Where_Art_Thou_01.07.10.985-01.07.13.675 	everett's face remains frozen in horrified disbelief, but delmar finally accepts pete's corporeal reality.
 0017_Pianist_00.04.56.235-00.04.59.652 	the table groans with the remains of the dinner.
 0017_Pianist_00.21.01.672-00.21.04.814 	heller remains seated, just nods at the brothers.
-0017_Pianist_00.29.46.831-00.29.48.051 	the family is frozen with horror, remain seated.
-0017_Pianist_01.13.31.775-01.13.33.985 	he gazes at szpilman, whose eyes remain closed.
-0017_Pianist_01.46.33.273-01.46.38.615 	the woman clutches her stomach, drops slowly to her knees and collapses on the street in an awkward kneeling position, and that's how she remains.
-0021_Rear_Window_00.30.46.686-00.30.48.357 	jeff starts to say something then thinks better of it, and remains silent.
 0021_Rear_Window_01.13.47.782-01.13.50.448 	doyle bows his head slightly, but his eyes remain on her in a fixed stare.
-0023_THE_BUTTERFLY_EFFECT_00.05.54.719-00.05.58.766 	evan sees her but remains expressionless.
 0023_THE_BUTTERFLY_EFFECT_00.32.46.982-00.32.47.794 	lenny remains frozen in place.
-0023_THE_BUTTERFLY_EFFECT_01.45.15.505-01.45.16.914 	evan sees her but remains expressionless.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.54.15.566-00.54.17.957 	faramir, sword in hand, remains at the rear, trying desperately to fend off the deadly assault.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.02.18.932-01.02.28.267 	gollum as he throws the remaining lembas bread over the cliff.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.36.57.561-02.37.05.881 	quiet resolve written on aragorn's face as he looks into the eyes of the remaining members of the fellowship.
-0026_The_Big_Fish_00.22.58.354-00.23.16.663 	outside, buzzards squabble over the remains of the giant's feast: broken barrels, bones picked clean.
-0026_The_Big_Fish_00.24.11.202-00.24.11.665 	what remains of his clothes are ragged and muddy.
 0026_The_Big_Fish_00.50.23.879-00.50.27.868 	a fiery baton remains mid-twirl, flames locked in place.
 0026_The_Big_Fish_01.33.23.889-01.33.24.485 	realizing his plight, edward tries to remain calm.
-0026_The_Big_Fish_01.33.36.918-01.33.39.930 	while we never see her face exactly, she remains just as beautiful, just as mysterious, as the first time we saw her.
-0027_The_Big_Lebowski_01.29.16.578-01.29.18.616 	he climbs out of bed but maude remains in it.
-0029_The_Graduate_01.15.29.831-01.15.39.110 	during which ben remains static while the quadrangle and the area around him fill up with students; walking, talking, hurrying to class, strolling, sitting, reading, handing out petitions, etc.
-0029_The_Graduate_01.30.25.794-01.30.28.798 	ben remains standing in exactly the same position.
-0038_Psycho_00.10.07.649-00.10.21.514 	when the bills are away, she puts the filled envelope in her handbag, notices the remaining deed copies on her desk, picks them up, goes to the private office door, knocks, starts to open door as.
-0038_Psycho_00.10.21.780-00.10.24.822 	mary remains on threshold a moment, then crosses to the desk, talking as she goes.
-0038_Psycho_00.29.12.504-00.29.15.168 	we see that there is a remaining key on the board.
-0038_Psycho_01.05.17.470-01.05.22.040 	norman switches on the overhead light, starts for the linen closet, suddenly pauses, turns, studies arbogast, who has remained standing by the door.
-0038_Psycho_01.10.30.729-01.10.36.872 	norman becomes apprehensive, starts to arbogast, forcing himself to remain calm and cheerful.
-0038_Psycho_01.17.07.118-01.17.09.480 	camera follows, remaining on floor level but travelling along the stairway as arbogast makes his way up.
-0038_Psycho_01.34.41.701-01.34.48.414 	sam remains at the door, then turns right, heading for the path.
-0038_Psycho_01.36.10.932-01.36.15.282 	lila closes the door, remains by it for a moment, quiet, listening.
 0038_Psycho_01.36.42.782-01.36.45.747 	camera remains at foot of stair, tilting up as lila climbs.
 0046_Chasing_Amy_00.38.39.977-00.38.41.632 	holden remains in the swing.
 0046_Chasing_Amy_01.32.41.902-01.32.45.515 	holden remains in the booth, thinking.
-0049_Hannah_and_her_sisters_00.26.52.192-00.26.56.114 	he continues to talk to her as she remains offscreen in a nearby row.
 0049_Hannah_and_her_sisters_00.34.23.133-00.34.31.328 	norman and carol remain silent.
-0049_Hannah_and_her_sisters_01.10.01.147-01.10.06.380 	she walks offscreen to a nearby rack; the camera remains focused on holly.
 0050_Indiana_Jones_and_the_last_crusade_00.11.33.730-00.11.38.375 	fedora remains behind for a moment.
-0050_Indiana_Jones_and_the_last_crusade_00.34.39.267-00.34.42.365 	lie the decomposed remains of a knight in armor.
-0051_Men_in_black_00.24.18.558-00.24.21.442 	edwards takes the remaining chair.
 0053_Rendezvous_mit_Joe_Black_01.21.15.240-01.21.19.705 	joe remains silent, rendered extremely anxious by susan's inquiries.
-1001_Flight_00.52.04.562-00.52.06.527 	the large eye patch gone and now stitches remain about his eye.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.02.39.388-00.02.48.706 	the remaining supports give way, and the bridge crashes into the murky waters of the thames.
 1002_Harry_Potter_and_the_Half-Blood_Prince_00.32.01.380-00.32.04.783 	draco remained seated.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.14.41.744-01.14.44.427 	nymphadora tonks indicates to harry to remain quiet.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.33.58.742-01.34.03.613 	draco leaves the upper corridor with the bird cage hangs, now only one bird remains in the cage.
 1002_Harry_Potter_and_the_Half-Blood_Prince_01.42.13.703-01.42.17.662 	he swallows hard but his eyes remain shut.
 1002_Harry_Potter_and_the_Half-Blood_Prince_02.23.00.344-02.23.01.996 	they remain side by side at the balustrade, the breeze ruffling their hair.
 1003_How_to_Lose_Friends_and_Alienate_People_01.21.10.786-01.21.11.941 	the crowd disperses but alison remains.
-1005_Signs_00.05.20.285-00.05.23.580 	a third crop circle has two straight lines at either side, and a circle of maize remaining in the center, with another path leading off from its side.
-1005_Signs_00.10.55.173-00.10.56.732 	she remains in a tight ball, staring down at the ground.
 1005_Signs_00.35.09.324-00.35.12.357 	isabel remains agitated.
 1005_Signs_00.59.54.930-00.59.56.715 	the shadow under the door remains still.
 1005_Signs_01.14.05.870-01.14.09.819 	bo remains motionless, clinging to her brother.
 1005_Signs_01.36.16.780-01.36.19.245 	merrill remains motionless.
 1005_Signs_01.39.52.871-01.40.00.959 	the board across another window in the room remain intact.
 1006_Slumdog_Millionaire_01.04.20.983-01.04.24.852 	jamal remains rooted to the spot.
-1006_Slumdog_Millionaire_01.23.18.823-01.23.23.232 	he remains in the courtyard looking back at her.
 1008_Spider-Man2_01.10.33.694-01.10.36.790 	the wind ruffles his hair as he remains still for a moment.
 1010_TITANIC_00.06.51.104-00.07.00.218 	one of the robotic explorer shines its lights on the rotted remains of a grand piano.
 1010_TITANIC_00.07.08.749-00.07.13.936 	the remains of a wooden bed lie collapsed on the floor.
-1010_TITANIC_01.42.01.224-01.42.11.847 	as the others escape past closing doors, the remaining stoker dives under the last closing door and falls out as its steel hatch slams shut.
 1010_TITANIC_02.07.12.422-02.07.20.039 	on the boat deck, passengers crowd around the remaining lifeboats.
 1010_TITANIC_02.11.23.862-02.11.29.299 	on the boat deck, passengers swarm around the remaining lifeboats.
 1010_TITANIC_03.02.13.465-03.02.19.512 	on the ocean floor, the two submersibles shine their lights on the titanic's remains.
-1011_The_Help_01.39.17.972-01.39.22.221 	minnie picks up the remaining pie and flees.
-1012_Unbreakable_01.14.37.511-01.14.40.178 	the little remaining glass is cracked and shattered.
 1014_2012_00.08.13.646-00.08.15.395 	eight heads of state remain.
-1014_2012_01.00.00.149-01.00.03.155 	a blinding flash fills the sky, then a vast wave of energy flattens the remaining trees.
-1015_27_Dresses_01.39.39.072-01.39.43.525 	they remain wrapped in each other's arms as the smiling reception guests carry on with the party.
 1017_Bad_Santa_00.51.48.492-00.51.58.103 	he then proceeds to tear open the remaining doors on the calendar and scarf the chocolate inside.
-1017_Bad_Santa_00.52.14.332-00.52.24.625 	he stops in the doorway and drains the bottle of its remaining contents, which is about a quarter.
-1017_Bad_Santa_00.53.35.315-00.53.40.825 	then he spots the tattered remains of the advent calendar lying on the hall table.
 1020_Crazy_Stupid_Love_00.52.17.508-00.52.19.410 	he remains stock still and regards the house intently.
-1026_Legion_00.10.08.669-00.10.10.335 	he remains on the swing and doesn't move.
 1028_No_Reservations_01.30.08.718-01.30.11.000 	kate remains at her desk.
 1029_Pride_And_Prejudice_Disk_One_00.33.59.130-00.34.05.754 	as she backs away from him, his gaze remains on lizzie.
-1029_Pride_And_Prejudice_Disk_One_00.54.02.349-00.54.06.505 	he remains staring out of the window.
 1029_Pride_And_Prejudice_Disk_One_02.39.19.622-02.39.22.485 	darcy remains standing.
 1030_Public_Enemies_00.10.20.942-00.10.25.024 	purvis' piercing stare remains fixed on the dying man.
 1030_Public_Enemies_01.19.33.767-01.19.36.841 	red remains seated at dillinger's side.
 1030_Public_Enemies_01.42.54.129-01.42.56.370 	several armed agents remain behind on the sidewalk.
-1030_Public_Enemies_01.43.17.715-01.43.23.624 	dillinger leaves the remaining agents behind.
-1030_Public_Enemies_01.54.36.667-01.54.41.244 	our view returns to anna, who remains at the table, covering her mouth with her hand.
 1030_Public_Enemies_01.58.04.131-01.58.11.868 	the last mug shot of dillinger himself remains unstamped.
-1034_Super_8_00.19.18.478-00.19.22.335 	on the remains of the platform, the cinay camera runs out of film.
 1034_Super_8_00.21.46.648-00.21.49.315 	joe points to the mangled remains of the white pickup truck.
-1034_Super_8_00.40.37.119-00.40.42.426 	the sheriff's car is missing from the scene, but fragments of its lights remain.
-1035_The_Adjustment_Bureau_00.16.39.484-00.16.45.141 	as david and his fan go their separate ways, the mustached stranger remains on his park bench, his head bowed and his fedora brim tilted to shade his face.
-1035_The_Adjustment_Bureau_00.21.54.455-00.21.58.999 	the receptionist's gaze remains down, her hand holding a phone to her ear.
-1035_The_Adjustment_Bureau_00.22.00.895-00.22.03.268 	as he steps past another receptionist, her eyes remain ahead.
 1035_The_Adjustment_Bureau_01.08.51.536-01.08.54.956 	thompson's eyes remain on the dancers.
-1035_The_Adjustment_Bureau_01.09.14.998-01.09.18.390 	he looks squarely at thompson, but the adjustment officer's gaze remains on the performance.
 1037_The_Curious_Case_Of_Benjamin_Button_01.33.55.270-01.33.59.864 	they part, their faces remaining close.
 1037_The_Curious_Case_Of_Benjamin_Button_02.04.00.773-02.04.10.030 	they remained seated at the picnic branch as people flee from an advancing storm.
 1037_The_Curious_Case_Of_Benjamin_Button_02.20.01.067-02.20.04.089 	a decorative figure of a little girl adorns the remains of a pretty, white birthday cake.
 1037_The_Curious_Case_Of_Benjamin_Button_02.28.07.080-02.28.09.429 	her eyes remain fixed on benjamin as robert reverses onto the road.
 1038_The_Great_Gatsby_01.43.50.783-01.43.52.110 	nick remains at the window.
-1039_The_Queen_01.01.27.863-01.01.31.530 	the queen remains seated, her back turned away.
 1039_The_Queen_01.02.34.078-01.02.37.665 	the stag remains still.
 1039_The_Queen_01.12.33.966-01.12.35.485 	the queen remains seated.
-1039_The_Queen_01.24.53.561-01.24.56.167 	charles takes a seat while prince philip remains standing.
 1041_This_is_40_01.11.09.751-01.11.12.405 	many seats remain unoccupied toward the back and the balcony.
-1041_This_is_40_01.19.53.803-01.20.02.615 	she covers herself and walks away, as pete remains in bed fully clothed with sneakers on.
-1044_Pride_And_Prejudice_Disk_Two_01.02.03.550-01.02.10.497 	but mr. darcy remains on the doorstep, watching the carriage clatter its way down the long, curving driveway.
-1044_Pride_And_Prejudice_Disk_Two_02.17.10.506-02.17.18.725 	lizzie, kitty and mrs. bennet remain standing, looking at her with a certain amount of expectant unease.
-1044_Pride_And_Prejudice_Disk_Two_02.28.43.558-02.28.47.876 	she smiles up at mr. darcy, whose expression softens lightly, though still remaining inscrutable.
 1045_An_education_00.43.48.200-00.43.54.844 	her arms remained by her sides.
-1046_Australia_01.39.58.798-01.40.00.429 	goolaj remains in his seat at the theater smiling happily at the down pour.
-1047_Defiance_01.41.56.901-01.42.03.507 	tuvia remains a t a distance watching the mob take over.
-1047_Defiance_01.50.20.738-01.50.24.042 	his nose bleeding, tuvia walks away from the burning remains of the camp,
 1047_Defiance_02.03.06.983-02.03.12.115 	his men spread across the field in alarmed marching in step and fire on the remaining germans.
 1047_Defiance_02.03.59.947-02.04.00.661 	but tuvia's blackened face remains impassive.
-1048_Gran_Torino_01.48.49.337-01.48.52.001 	grandma remains on the porch and watches as the taxi drives away.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.39.46.797-00.39.50.889 	dolohov's eyes remain open and stary.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.06.17.956-01.06.20.935 	it remains unmarked.
-1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.06.45.013-01.06.47.671 	the locket remains firmly closed.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.18.26.816-01.18.34.662 	his face troubled, harry remains alone inside the tent.
 1051_Harry_Potter_and_the_goblet_of_fire_00.11.42.927-00.11.54.582 	a lone figure strides between the smoking tents, kicking the smoldering remains.
 1052_Harry_Potter_and_the_order_of_phoenix_00.18.01.275-00.18.02.948 	the gate remains shut.
 1053_Harry_Potter_and_the_philosophers_stone_01.23.28.989-01.23.30.646 	snape remains in his seat, expressionless.
-1053_Harry_Potter_and_the_philosophers_stone_02.04.40.003-02.04.49.783 	he closes his eyes as the black horse starts to move across the board, between the remains of the shattered stone chess pieces.
 1056_Rambo_00.30.36.972-00.30.39.231 	corpses litter the remains of the village.
 1056_Rambo_00.39.35.779-00.39.36.358 	rambo fixes him a glare but remains expressionless.
-1056_Rambo_00.44.56.809-00.44.59.861 	there are two bodies hanging from bare rafters in the remains of a hut.
 1056_Rambo_00.56.22.000-00.56.25.258 	the door of the hut remains open.
 1056_Rambo_01.12.04.000-01.12.07.000 	the remains of the jeep driver tumble off the vehicle.
 1056_Rambo_01.14.37.365-01.14.44.806 	rambo completes his reload and fires into the remaining troops.
-1057_Seven_pounds_00.17.34.000-00.17.36.246 	inez, who has straggly hair, remains blank.
-1057_Seven_pounds_00.24.25.132-00.24.27.929 	emily remains sitting at the table.
-1057_Seven_pounds_00.43.45.301-00.43.49.476 	he tries to wriggle down, but his head remains well above the level of the bath.
-1057_Seven_pounds_01.36.08.481-01.36.08.602 	tim remains motionless and with his eyes closed.
-1057_Seven_pounds_01.43.54.782-01.43.58.554 	dan, now sitting up in bed, remains with the phone to his ear and drops his head.
 1058_The_Damned_united_00.46.02.000-00.46.04.036 	on the pitch, brian remains tight-lipped.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.19.00.000-00.19.03.087 	the others remain stock-still.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.53.40.220-00.53.43.217 	open-mouthed, he scowls at neville, who remains on guard on the wooden bridge.
@@ -163,13 +83,5 @@
 1062_Day_the_Earth_stood_still_01.19.10.769-01.19.12.926 	flames and smoke clear but gort remains.
 1062_Day_the_Earth_stood_still_01.27.26.785-01.27.31.782 	remaining expressionless, klaatu walks towards them.
 2004_Juno_00.51.36.537-00.51.38.924 	and defiantly pours the remains of her blue slushie into the urn.
-2005_Signs_01.23.10.475-01.23.15.717 	he reaches over to his side and grabs the remaining flashlight.
-2012_Unbreakable_00.42.43.526-00.42.45.787 	he falls down the remaining part of the stairs.
 2026_Legion_00.32.26.887-00.32.32.401 	michael remains silent.
-2027_Les_Miserables_02.27.33.657-02.27.34.707 	what remains is cosette, her head cradled in the lap of the man who has just died.
-2034_Super_8_00.56.34.487-00.56.45.045 	nelec moves to the door, he remains facing camera, his back to woodward, as overmyer moves to the bed.
-2034_Super_8_01.01.29.623-01.01.30.579 	joe turns off the projector -- but a sound remains.
-2034_Super_8_01.18.26.256-01.18.31.251 	staying hidden from the remaining military, donny scrambles for his cb, turns to channel 9, grabs the mike, speaks quietly, frantic.
-2041_This_is_40_00.30.00.442-00.30.12.809 	he takes another bite, holds it over the garbage, then takes one last bite before dumping what little remains.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_01.44.38.408-01.44.42.114 	the remaining dementors flee, drifting across the moon like ash.
-2054_Harry_Potter_and_the_prisoner_of_azkaban_01.45.17.688-01.45.19.566 	there is a bright flash and darkness returns, a single thread of light all that remains, spinning down to the size of a pearl.

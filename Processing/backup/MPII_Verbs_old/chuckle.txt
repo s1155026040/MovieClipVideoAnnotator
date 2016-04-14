@@ -1,31 +1,15 @@
-0003_CASABLANCA_00.45.00.031-00.45.02.467 	Rick chuckles again.
-0006_Clerks_00.14.48.331-00.14.51.782 	A moment of silence as DANTE'S chuckles fade to comprehension.
-0007_DIE_NACHT_DES_JAEGERS_00.07.56.716-00.08.00.255 	He lies on his back, chuckling and murmuring indistinctly in his sleep.
-0007_DIE_NACHT_DES_JAEGERS_00.27.09.710-00.27.16.780 	He gawks at his own folly, covers his mouth with his hand and looks up at PREACHER stiffens, relaxes, and chuckles softly.
-0016_O_Brother_Where_Art_Thou_00.49.57.797-00.50.00.545 	Big Dan chuckles as he draws up a chair.
-0020_Raising_Arizona_00.41.03.950-00.41.04.795 	As he chuckles sympathetically.
-0027_The_Big_Lebowski_01.01.07.687-01.01.13.387 	The Stranger chuckles indulgently and pushes off from the bar.
-0028_The_Crying_Game_00.25.04.117-00.25.08.905 	Jody chuckles under his hood.
-0031_The_Lost_Weekend_00.58.39.033-00.58.42.992 	The attendant doesn't get the joke but chuckles automatically and opens the door into the bar.
-0033_Amadeus_01.10.21.169-01.10.22.503 	Mozart chuckles delightedly.
-0041_The_Sixth_Sense_01.28.57.938-01.29.05.005 	Cole chuckles and then starts laughing as the group of eight-year-olds try unsuccessfully to keep him up.
-0049_Hannah_and_her_sisters_00.07.12.981-00.07.17.862 	She chuckles; Elliot smiles and chuckles with her.
-0049_Hannah_and_her_sisters_00.08.54.790-00.08.57.911 	He, in turn, kneads her shoulder, chuckling with equal tenderness.
-0049_Hannah_and_her_sisters_00.15.55.172-00.15.58.974 	Dr. Abel chuckles as he closes Mickey's file and straightens up.
-0049_Hannah_and_her_sisters_00.20.03.604-00.20.08.112 	Holly chuckles as David, listening to April, impressed, walks over to her.
-0049_Hannah_and_her_sisters_00.20.11.589-00.20.16.200 	April chuckles as Holly walks back onscreen; she is busy preparing another tray of hors d'oeuvres.
-0049_Hannah_and_her_sisters_00.35.00.407-00.35.03.341 	She chuckles nervously.
-0049_Hannah_and_her_sisters_00.36.58.544-00.37.00.254 	Lee chuckles as she looks at him; he is wearing sunglasses, a red-imprinted T-shirt, and a baggy coat.
-0049_Hannah_and_her_sisters_01.10.12.694-01.10.20.384 	Holly chuckles and begins to look through the scarves on the table.
-0049_Hannah_and_her_sisters_01.31.46.076-01.31.52.853 	Holly chuckles and turns to look at more records.
-1003_How_to_Lose_Friends_and_Alienate_People_01.38.35.446-01.38.37.111 	Alison chuckles to herself as she watches the debacle.
+0001_American_Beauty_00.29.21.137-00.29.27.614 	the colonel chuckles at a joke and startles her.
+0003_CASABLANCA_00.44.54.979-00.44.57.029 	he chuckles.
+0007_DIE_NACHT_DES_JAEGERS_00.07.56.716-00.08.00.255 	he lies on his back, chuckling and murmuring indistinctly in his sleep.
+0019_Pulp_Fiction_01.34.37.352-01.34.41.039 	butch is still chuckling, singing along with the song, as we see.
+0020_Raising_Arizona_00.41.03.950-00.41.04.795 	as he chuckles sympathetically.
+0021_Rear_Window_01.26.36.559-01.26.39.306 	suddenly stella begins to chuckle.
+0027_The_Big_Lebowski_01.01.07.687-01.01.13.387 	the stranger chuckles indulgently and pushes off from the bar.
+0049_Hannah_and_her_sisters_00.07.12.981-00.07.17.862 	she chuckles; elliot smiles and chuckles with her.
+0049_Hannah_and_her_sisters_00.08.54.790-00.08.57.911 	he, in turn, kneads her shoulder, chuckling with equal tenderness.
+0049_Hannah_and_her_sisters_00.19.49.724-00.19.53.022 	holly follows him, chuckling, throwing her napkin into an offscreen garbage can as david stops at a small television set near the doorway.
+0049_Hannah_and_her_sisters_00.35.00.407-00.35.03.341 	she chuckles nervously.
+0049_Hannah_and_her_sisters_01.42.50.781-01.43.23.954 	mickey continues to kiss holly's neck; he chuckles.
 1010_TITANIC_02.20.58.405-02.21.06.413 	he chuckles to himself as lovejoy appears.
-1020_Crazy_Stupid_Love_00.35.02.010-00.35.02.396 	robbie chuckles softly.
-1048_Gran_Torino_01.36.05.869-01.36.08.508 	martin chuckles and pockets the money.
-1059_The_devil_wears_prada_00.22.48.595-00.22.54.871 	andy chuckles at the similarity of the two blue belts.
-2017_Bad_Santa_00.53.58.672-00.54.01.737 	he shakes his head and chuckles as marcus tosses him an empty red santa sack.
-2026_Legion_00.32.48.766-00.32.50.800 	bob chuckles for a moment.
-1059_The_devil_wears_prada_00.22.48.595-00.22.54.871 	andy chuckles at the similarity of the two blue belts.
-2017_Bad_Santa_00.53.58.672-00.54.01.737 	he shakes his head and chuckles as marcus tosses him an empty red santa sack.
-2026_Legion_00.32.48.766-00.32.50.800 	bob chuckles for a moment.
+1033_Sherlock_Holmes_A_Game_of_Shadows_01.56.13.597-01.56.18.002 	they both chuckle.
 2051_Harry_Potter_and_the_goblet_of_fire_01.24.02.485-01.24.11.842 	he chuckles and dances off.

@@ -1,0 +1,27 @@
+A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS914 	01:28:00,00 --> 01:28:06,50 	underwater, we view his slowly paddling legs.
+CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS334 	01:02:38,00 --> 01:02:44,50 	someone views the chaos on the monitor.
+CHRONICLE.srt 	CHRONICLE_DVS239 	00:34:11,00 --> 00:34:17,50 	now in a boy's room, we view a vast collection of trophies.
+CHRONICLE.srt 	CHRONICLE_DVS275 	00:42:07,00 --> 00:42:12,50 	we view someone through his camera.
+CHRONICLE.srt 	CHRONICLE_DVS390 	00:59:17,00 --> 00:59:23,50 	from the hall, he views his agonizing mother lying in bed.
+DEAR_JOHN.srt 	DEAR_JOHN_DVS285 	00:44:40,00 --> 00:44:45,50 	they view coins on display.
+FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS90 	00:23:24,00 --> 00:23:52,50 	at a party they view a canvas that features industrial looking stenciling.
+FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS111 	00:30:25,00 --> 00:30:32,50 	we view his bare butt, someone his front.
+GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS170 	00:27:38,00 --> 00:27:48,50 	now in stylized animation, we view someone and other satanic incarnations.
+JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS27 	00:02:51,00 --> 00:02:59,50 	someone steps out of the driver's seat and views the residence.
+LARRY_CROWNE.srt 	LARRY_CROWNE_DVS178 	00:40:39,00 --> 00:40:53,50 	he views his handsome living room.
+LIFE_OF_PI.srt 	LIFE_OF_PI_DVS816 	01:23:13,00 --> 01:23:20,50 	from directly overhead, we view sharks and large fish swimming just beneath the boat.
+LIFE_OF_PI.srt 	LIFE_OF_PI_DVS910 	01:31:18,00 --> 01:31:28,50 	viewed from high overhead, the half covered lifeboat resembles a tiny, two-toned capsule adrift in a sea of black.
+LIFE_OF_PI.srt 	LIFE_OF_PI_DVS985 	01:37:00,00 --> 01:37:10,50 	viewed from overhead, meerkats surround the deep blue, almost-perfectly round pool with green roots fringing its perimeter.
+LITTLE_FOCKERS.srt 	LITTLE_FOCKERS_DVS43 	00:18:43,00 --> 00:18:48,50 	we view him through window blinds.
+PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS286 	01:08:04,00 --> 01:08:10,50 	as someone shuts his eyes with him, we view archived footage of the game.
+PROMETHEUS.srt 	PROMETHEUS_DVS574 	01:04:19,00 --> 01:04:26,50 	now, from the dome's crust, we view a golden sun peeking over the horizon.
+SANCTUM.srt 	SANCTUM_DVS48 	00:10:13,00 --> 00:10:19,50 	in a tent office, they view a computer animation of the complex cave system.
+SANCTUM.srt 	SANCTUM_DVS58 	00:12:56,00 --> 00:13:02,50 	he views his disgruntled son onscreen.
+SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS284 	00:57:55,00 --> 00:58:01,50 	now, we view illustrations in the incantus.
+SUPER_8.srt 	SUPER_8_DVS168 	00:26:29,00 --> 00:26:37,50 	outside, viewed from a hilltop, lights illuminating buildings and streets throughout town briefly flicker and flare.
+THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS42 	00:07:59,00 --> 00:08:07,50 	someone views two portraits on a wall.
+THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS798 	01:31:45,00 --> 01:31:50,50 	she views his photos.
+THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1161 	02:03:53,00 --> 02:03:58,50 	she holds its screen up close viewing someone at the front door.
+THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS271 	01:42:31,00 --> 01:42:41,50 	through the glass enclosure, we view the lawyer explaining.
+THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS122 	00:22:01,00 --> 00:22:06,50 	they view a dmv cross-reference and a tax return.
+WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS272 	00:43:54,00 --> 00:43:59,50 	they view each other through the cage wire.

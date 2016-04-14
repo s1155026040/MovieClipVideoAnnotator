@@ -1,4 +1,2 @@
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS246 	00:42:46,00 --> 00:42:52,50 	white foam bubble out of someone's mouth as he shudders, then falls still.
 IN_TIME.srt 	IN_TIME_DVS554 	00:59:38,00 --> 00:59:42,50 	she shudders.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS562 	01:44:48,00 --> 01:44:53,50 	someone's mouth hangs open and she shudders.
-THOR.srt 	THOR_DVS560 	01:28:20,00 --> 01:28:25,50 	shuddering with electricity, someone opens his eyes.

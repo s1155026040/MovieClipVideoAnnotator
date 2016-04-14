@@ -1,14 +1,8 @@
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS127 	00:20:46,00 --> 00:20:51,50 	later they shave.
-BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS144 	00:22:11,00 --> 00:22:17,50 	a woman enters covered in shaving cream and toilet paper.
-BLINDDATING.srt 	BLINDDATING_DVS281 	01:10:40,00 --> 01:10:51,50 	in the or, gloved hands use a trimmer to shave the hair above someone's right ear.
-BLINDDATING.srt 	BLINDDATING_DVS283 	01:10:53,00 --> 01:11:05,50 	now, someone's shaved temple lies framed by surgical clothes.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS567 	01:20:48,00 --> 01:20:55,50 	someone's smoothly shaven jaw quivers as his eyes remain locked on his letter.
 FLIGHT.srt 	FLIGHT_DVS888 	01:44:40,00 --> 01:44:44,50 	he shaves.
 JACK_AND_JILL.srt 	JACK_AND_JILL_DVS349 	01:06:27,00 --> 01:06:36,50 	he lathers his chest with shaving cream then shaves it.
 JACK_AND_JILL.srt 	JACK_AND_JILL_DVS349 	01:06:27,00 --> 01:06:36,50 	he lathers his chest with shaving cream then shaves it.
 JACK_AND_JILL.srt 	JACK_AND_JILL_DVS349 	01:06:27,00 --> 01:06:36,50 	rinses his razor in the toilet water and shaves his legs.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS354 	01:27:43,00 --> 01:27:56,50 	now, in a tent, someone taps excess water off the dagger and carefully proceeds to shave with it.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS359 	01:28:33,00 --> 01:28:39,50 	toward his shaving mirror, studying his scarred reflection.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS96 	00:16:46,00 --> 00:16:53,50 	behind it, a can of shaving cream with a feminine design reads, satin care.
 SALT.srt 	SALT_DVS22 	00:03:52,00 --> 00:04:37,50 	in an apartment, the civilian works at a kitchen table, his cheeks now smoothly shaven.
 YOUNG_ADULT.srt 	YOUNG_ADULT_DVS133 	00:23:42,00 --> 00:23:48,50 	back at the hotel, she shaves her legs in the bath tub.

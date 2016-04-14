@@ -1,1 +1,3 @@
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.28.58.838-00.29.02.801 	ELROND his face grim.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.28.58.838-00.29.02.801 	elrond his face grim.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.18.06.316-01.18.08.124 	aragorn's eyes fall to a plain black scabbard, which elrond draws from beneath his robes.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_03.05.04.358-03.05.18.279 	bilbo bows in acknowledgement to elrond, celeborn and galadriel, who return his greeting.

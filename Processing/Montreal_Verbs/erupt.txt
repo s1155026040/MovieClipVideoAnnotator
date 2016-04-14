@@ -1,11 +1,5 @@
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS908 	01:27:34,00 --> 01:27:42,50 	as the chopper explodes, flames erupt through the glass wall and over the pool.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS82 	00:13:10,00 --> 00:13:33,50 	as he approaches the side of the building, a flaming blast erupts from its door.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS98 	00:15:16,00 --> 00:15:27,50 	following their gaze, someone discovers a fiery blast erupting on a far wall.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS555 	01:18:56,00 --> 01:19:05,50 	at her post, someone turns to find someone's motorcycle erupting flames as the engine starts by itself.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS564 	01:20:37,00 --> 01:20:55,50 	flames erupt throughout the engine and blaze around the tires.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS384 	01:28:56,00 --> 01:29:01,50 	the blast erupts outside, dust.
-HUGO.srt 	HUGO_DVS693 	01:41:08,00 --> 01:41:18,50 	he watches as flames erupt through the props open mouth and consume it.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS842 	01:25:17,00 --> 01:25:24,50 	tiny particles erupt into vibrant pockets of glowing light.
-PROMETHEUS.srt 	PROMETHEUS_DVS932 	01:42:23,00 --> 01:42:34,50 	she rises to her feet, standing beside one of the erupting plumes.
 THE_WATCH.srt 	THE_WATCH_DVS210 	00:38:56,00 --> 00:39:03,50 	light ripples over its surface and it erupts in a huge fireball.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1074 	01:37:03,00 --> 01:37:10,50 	the ship erupts in a fiery blaze.

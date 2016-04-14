@@ -1,8 +1,3 @@
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS31 	00:03:39,00 --> 00:03:47,50 	now students spar in a hand-to-hand combat class.
-KARATE_KID.srt 	KARATE_KID_DVS1314 	01:46:02,00 --> 01:46:28,50 	in the courtyard, he spars with someone, blocking the man's strikes.
-KARATE_KID.srt 	KARATE_KID_DVS1314 	01:46:02,00 --> 01:46:28,50 	back in the courtyard, the pupil and teacher continue to spar.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS87 	00:14:26,00 --> 00:14:34,50 	meanwhile, the same program plays on someone's swanky loft as he spars with a beefy opponent.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS275 	00:44:10,00 --> 00:44:16,50 	her father looks to spar, then nods resolutely.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS488 	01:15:40,00 --> 01:15:47,50 	now someone runs to spar's enclosure, joining someone, someone, and someone.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS495 	01:16:34,00 --> 01:16:41,50 	as someone regards spar uncertainly, someone arrives.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS576 	01:28:51,00 --> 01:28:58,50 	someone gives a receptive nod and someone returns his gaze to spar.

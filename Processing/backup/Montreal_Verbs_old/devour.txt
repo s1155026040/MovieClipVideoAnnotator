@@ -1,0 +1,6 @@
+CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS218 	00:45:12,00 --> 00:45:18,50 	as the children devour cake slices, a priest approaches.
+DISTRICT_9.srt 	DISTRICT_9_DVS845 	01:39:57,00 --> 01:40:13,50 	from a bird's eye view, we watch the aliens dismember someone and devour his flesh.
+IN_TIME.srt 	IN_TIME_DVS275 	00:28:09,00 --> 00:28:16,50 	he shoots furtive glances at his surroundings as he devours his french fries.
+ROBIN_HOOD.srt 	ROBIN_HOOD_DVS337 	01:22:48,00 --> 01:22:57,50 	his mouth devouring hers in a passionate kiss.
+ROBIN_HOOD.srt 	ROBIN_HOOD_DVS451 	01:52:30,00 --> 01:52:41,50 	the flames spread quickly devouring the stacked hay and greenery.
+ZOMBIELAND.srt 	ZOMBIELAND_DVS195 	00:20:20,00 --> 00:20:26,50 	blocking the road, a zombie devours the innards of a corpse.

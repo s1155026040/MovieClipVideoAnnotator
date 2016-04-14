@@ -1,33 +1,11 @@
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS270 	00:39:12,00 --> 00:39:20,50 	someone sidles around the exterior of the building, his silver tipped ax in hand.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS552 	01:17:32,00 --> 01:17:39,50 	tipping it, he holds it firmly in both hands and regards it nostalgically.
-BAD_TEACHER.srt 	BAD_TEACHER_DVS202 	00:56:49,00 --> 00:56:58,50 	as someone takes a swig from the wine bottle someone tips the tumbler to his lips and takes a modest sip.
-BAD_TEACHER.srt 	BAD_TEACHER_DVS203 	00:56:57,00 --> 00:57:04,50 	someone tips the glass up for him, forcing him to drain it.
-BURLESQUE.srt 	BURLESQUE_DVS192 	00:28:54,00 --> 00:28:59,50 	as she hops into some jeans, she tips over.
 BURLESQUE.srt 	BURLESQUE_DVS351 	00:48:13,00 --> 00:48:17,50 	someone tips her biker cap.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS129 	00:22:21,00 --> 00:22:27,50 	someone removes two pins at the base of the flagpole, tipping it over.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS881 	01:26:07,00 --> 01:26:14,50 	peering at the green tipped board, he glides a hand over its lemon yellow body, appreciating the curves of its design.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS592 	01:22:34,00 --> 01:22:40,50 	bubbles stream out of his mouth, as he tips his head back.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS28 	00:04:27,00 --> 00:04:40,50 	one of someone's bullets pierces the vehicle back tire, causing the suv to tip on its side.
-IN_TIME.srt 	IN_TIME_DVS125 	00:14:57,00 --> 00:15:05,50 	he returns the flask to its melancholy owner, who tips it in a silent toast and drinks.
-KARATE_KID.srt 	KARATE_KID_DVS238 	00:20:46,00 --> 00:20:52,50 	the bathroom door opens, revealing someone with a cap tipped over his eyes.
 KARATE_KID.srt 	KARATE_KID_DVS470 	00:41:37,00 --> 00:42:00,50 	someone defensively tips over a stack of bottle-filled crates, but someone and his friends quickly surmount them.
-KARATE_KID.srt 	KARATE_KID_DVS975 	01:19:52,00 --> 01:19:59,50 	as someone stares at the spectacle, his head tips side to side as well.
-KARATE_KID.srt 	KARATE_KID_DVS1023 	01:23:10,00 --> 01:23:16,50 	someone tips him over the dock's edge and holds him inches from the water.
-MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS344 	00:43:57,00 --> 00:44:07,50 	as a man tips over the railing, his date catches his leg.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS62 	00:15:20,00 --> 00:15:24,50 	tin canisters tip their lids.
 PROMETHEUS.srt 	PROMETHEUS_DVS490 	00:51:19,00 --> 00:51:24,50 	as he tips it upside down
-PROMETHEUS.srt 	PROMETHEUS_DVS494 	00:51:39,00 --> 00:51:46,50 	putting his fingertip over the resulting hole, he tips it upside down.
-PROMETHEUS.srt 	PROMETHEUS_DVS966 	01:46:33,00 --> 01:46:43,50 	the crescent shaped ship rolls their way, tipping on to the second of its blunted ends.
-PROMETHEUS.srt 	PROMETHEUS_DVS977 	01:47:32,00 --> 01:47:38,50 	the upright ship begins to tip her way.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS337 	01:04:41,00 --> 01:04:55,50 	as someone drives through the town, he nervously shifts his eyes back and forth under the tipped down brim of his fedora.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS22 	00:03:21,00 --> 00:03:26,50 	he defiantly tips his head back, then runs out the gate.
 SALT.srt 	SALT_DVS117 	00:22:06,00 --> 00:22:26,50 	then tips over a table and unscrews one of its metal legs.
 SALT.srt 	SALT_DVS312 	00:54:57,00 --> 00:55:04,50 	someone tips her head back and studies the cruiser behind him in a rear view mirror.
-SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS189 	00:36:54,00 --> 00:37:01,50 	one of the cops stares at someone, who tips his hat.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS453 	01:35:56,00 --> 01:36:04,50 	as his head tips back, the
-SUPER_8.srt 	SUPER_8_DVS334 	00:59:52,00 --> 00:59:58,50 	in the film, someone's mother tips him upside down as they play outdoors.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS141 	00:22:22,00 --> 00:22:27,50 	the inspectors tip their bowlers, then walk off.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS406 	00:59:44,00 --> 00:59:50,50 	as lightning flashes one ship tips over, then rights itself.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS224 	00:44:34,00 --> 00:44:43,50 	she tips off balance but catches herself before landing on top of someone.
-THE_WATCH.srt 	THE_WATCH_DVS517 	01:31:21,00 --> 01:31:29,50 	the guys climb out from the basement, then tip over a refrigerator, slamming the grate over another alien.
 ZOOKEEPER.srt 	ZOOKEEPER_DVS370 	01:22:48,00 --> 01:22:55,50 	nail tipped stick.

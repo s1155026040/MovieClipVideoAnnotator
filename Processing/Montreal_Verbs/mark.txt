@@ -1,47 +1,18 @@
-21_JUMP_STREET.srt 	21_JUMP_STREET_DVS540 	01:23:35,00 --> 01:23:47,50 	someone follows in matching attire holding a cardboard box marked doves.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS562 	01:18:45,00 --> 01:18:56,50 	someone slides his pocket watch over a trajectory marked on a map.
-BRUNO.srt 	BRUNO_DVS142 	00:33:54,00 --> 00:34:07,50 	a box marked fragile comes around.
 BURLESQUE.srt 	BURLESQUE_DVS44 	00:04:42,00 --> 00:04:47,50 	she marks one specifically, and labels it.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS312 	00:59:25,00 --> 00:59:33,50 	someone hops on to the dock, then runs and hides amid several parked vehicles marked with the hydra symbol.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS399 	01:12:44,00 --> 01:12:48,50 	in a bunker filled with military personnel, someone marks a map.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS401 	01:13:20,00 --> 01:13:25,50 	someone at another map marked with tiny flags.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS654 	01:49:48,00 --> 01:49:54,50 	she picks up the classified file which is marked captain america,
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS78 	00:06:27,00 --> 00:06:33,50 	he spots a crumpled hand-written note atop an unopened envelope marked, past due.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS230 	00:18:22,00 --> 00:18:28,50 	the van passes a sign marking california highway 1n.
 DISTRICT_9.srt 	DISTRICT_9_DVS374 	00:41:08,00 --> 00:41:13,50 	an alien marked with a red x to the wall.
-FLIGHT.srt 	FLIGHT_DVS176 	00:38:55,00 --> 00:39:01,50 	he stops at a door marked stairwell, third floor, and opens it.
-IN_TIME.srt 	IN_TIME_DVS235 	00:24:33,00 --> 00:24:38,50 	later, the vehicle reaches one end of a bridge marked
-KARATE_KID.srt 	KARATE_KID_DVS227 	00:19:50,00 --> 00:19:59,50 	our view slowly spins above him, and the circle becomes a peephole in their apartment door, marked 305.
-KARATE_KID.srt 	KARATE_KID_DVS239 	00:20:49,00 --> 00:20:56,50 	now, the parkers arrive at a building marked with a red, five-pointed star.
 KATY_PERRY_PART_OF_ME.srt 	KATY_PERRY_PART_OF_ME_DVS144 	00:40:34,00 --> 00:40:40,50 	elsewhere, a dressing room door marked kp private.
 LARRY_CROWNE.srt 	LARRY_CROWNE_DVS382 	01:30:45,00 --> 01:30:55,50 	a doodled black crown marks the bottom as his signature.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS654 	01:09:47,00 --> 01:09:51,50 	he marks off an illustrated list.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS809 	01:22:38,00 --> 01:22:44,50 	now only a small pink glow marks the horizon.
-NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS67 	00:16:01,00 --> 00:16:07,50 	he exits with a jar marked dad's jam.
-NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS245 	00:51:00,00 --> 00:51:10,50 	someone holds out a shoebox of someone's egg blue marked with a scallop-shell logo.
 PROMETHEUS.srt 	PROMETHEUS_DVS329 	00:31:46,00 --> 00:31:58,50 	yellow beacons marked with surname initials someone the team member's locations.
 PROMETHEUS.srt 	PROMETHEUS_DVS603 	01:06:57,00 --> 01:07:06,50 	his suit's camera shares his view as he proceeds down a corridor marked with urn-shaped etchings.
-PROMETHEUS.srt 	PROMETHEUS_DVS631 	01:08:45,00 --> 01:08:56,50 	within the chamber, we drift up to find two more giant pods resting opposite their counterparts atop a hundred foot disc marked with a spiderweb-like pattern.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS116 	00:30:11,00 --> 00:30:19,50 	later, at the head of a fresh grave, a simple wooden cross stands marked with a j.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS468 	01:55:49,00 --> 01:55:54,50 	green hillside, marked with white horse.
 SALT.srt 	SALT_DVS366 	01:05:07,00 --> 01:05:11,50 	he marks a map.
-SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS26 	00:05:34,00 --> 00:05:43,50 	someone grins and marks the note, hiding her answer.
-SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS163 	00:31:41,00 --> 00:32:07,50 	inside the building, someone cautiously heads toward a door marked with chinese writing.
-SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS328 	01:07:15,00 --> 01:07:26,50 	farther along, he approaches a window to a coffee house marked, "communication cafe."
-SUPER_8.srt 	SUPER_8_DVS115 	00:18:22,00 --> 00:18:28,50 	he stops as a piece of flaming wreckage marked explosive lands in front of him.
-THE_CALL.srt 	THE_CALL_DVS144 	00:11:40,00 --> 00:11:47,50 	she opens a door marked quiet room and bursts in on a lounging coworker.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS135 	00:13:41,00 --> 00:13:46,50 	the train stops at a platform marked, someone disembarks.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS910 	01:41:33,00 --> 01:41:42,50 	now someone arrives at an industrial complex on her motorcycle and turns through a gate marked with a stately letter v.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1009 	01:49:24,00 --> 01:49:29,50 	she marks the date of death.
 THE_SITTER.srt 	THE_SITTER_DVS35 	00:20:13,00 --> 00:20:19,50 	on the gps, a pulsing icon marks a location on a map.
 THE_VOW.srt 	THE_VOW_DVS612 	01:24:22,00 --> 01:24:29,50 	someone glances at the lawyer and signs his name on a line marked defendant.
 THOR.srt 	THOR_DVS229 	00:30:47,00 --> 00:30:51,50 	a circular pattern marks the ground.
-THOR.srt 	THOR_DVS419 	01:05:52,00 --> 01:05:59,50 	on a nearby computer screen, a driver's license baring someone's photo is marked falsified data.
-TRUE_GRIT.srt 	TRUE_GRIT_DVS524 	01:35:32,00 --> 01:35:40,50 	someone closes her eyes and someone scores an x between the fang marks with his large hunting knife.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS714 	01:43:02,00 --> 01:43:09,50 	facing someone, the inspector lifts his brow, smirks, and marks the report.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS760 	01:48:08,00 --> 01:48:15,50 	on the calendar, a young hand marks an x through july 6th.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS177 	00:14:05,00 --> 00:14:11,50 	now we face a gold bar marked with a swastika.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS218 	00:16:07,00 --> 00:16:20,50 	outside an establishment marked "atomic," a bespectacled man sits in a parked car with a lovely auburn-haired woman.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS868 	01:19:32,00 --> 01:19:37,50 	someone marks a mannequin with an x.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1013 	01:31:25,00 --> 01:31:31,50 	bring the crate marked 'x'."
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1017 	01:31:39,00 --> 01:31:52,50 	someone opens a crate marked "x."

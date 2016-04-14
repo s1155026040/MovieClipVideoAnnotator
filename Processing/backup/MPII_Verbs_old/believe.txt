@@ -1,17 +1,17 @@
-0001_American_Beauty_00.37.43.876-00.37.45.732 	He can't believe what he's hearing.
-0001_American_Beauty_01.34.47.724-01.34.51.843 	He's finally discovered a way to break free from his father, and he can't believe it was this simple.
-0001_American_Beauty_01.47.23.075-01.47.26.519 	Lester looks down at her, grinning, unable to believe he's actually about to do what he's dreamed of so many times, and then.
-0004_Charade_01.13.37.738-01.13.38.514 	REGGIE can't believe her eyes.
-0011_Gandhi_01.47.42.626-01.47.45.731 	They turn to him -- a sense of surprise, but they don't really believe he means the statement.
-0012_Get_Shorty_00.29.56.556-00.29.59.976 	Chili can't believe it.
-0012_Get_Shorty_00.29.57.476-00.30.00.248 	Chili shakes his head, he can't believe he's hearing this.
-0012_Get_Shorty_00.59.14.889-00.59.15.868 	Harry looks at Bo, can't believe what's happening to his life, thinks a moment, then.
-0012_Get_Shorty_01.36.24.110-01.36.25.394 	Chili sits down on the sofa again; he can't believe how easy this is gonna be.
-0014_Ist_das_Leben_nicht_schoen_01.49.40.780-01.49.42.853 	He can hardly believe his eyes.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.37.42.238-02.37.47.355 	SAM can't believe it -- relief and joy flood through him.
-0026_The_Big_Fish_01.00.59.947-01.01.02.729 	He can't believe he's finally reached her.
-0026_The_Big_Fish_01.21.38.632-01.21.41.811 	Will can't believe what he's reading.
-0050_Indiana_Jones_and_the_last_crusade_00.50.41.103-00.50.44.285 	Henry laughs genuinely, believing himself to be laughing at the expense of the S.S.
-1006_Slumdog_Millionaire_01.50.49.726-01.50.53.542 	Jamal springs to his feet and stares, unable to believe his eyes.
+0001_American_Beauty_00.37.43.876-00.37.45.732 	he can't believe what he's hearing.
+0001_American_Beauty_01.34.47.724-01.34.51.843 	he's finally discovered a way to break free from his father, and he can't believe it was this simple.
+0001_American_Beauty_01.47.23.075-01.47.26.519 	lester looks down at her, grinning, unable to believe he's actually about to do what he's dreamed of so many times, and then.
+0004_Charade_01.13.37.738-01.13.38.514 	reggie can't believe her eyes.
+0011_Gandhi_01.47.42.626-01.47.45.731 	they turn to him -- a sense of surprise, but they don't really believe he means the statement.
+0012_Get_Shorty_00.29.56.556-00.29.59.976 	chili can't believe it.
+0012_Get_Shorty_00.29.57.476-00.30.00.248 	chili shakes his head, he can't believe he's hearing this.
+0012_Get_Shorty_00.59.14.889-00.59.15.868 	harry looks at bo, can't believe what's happening to his life, thinks a moment, then.
+0012_Get_Shorty_01.36.24.110-01.36.25.394 	chili sits down on the sofa again; he can't believe how easy this is gonna be.
+0014_Ist_das_Leben_nicht_schoen_01.49.40.780-01.49.42.853 	he can hardly believe his eyes.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.37.42.238-02.37.47.355 	sam can't believe it -- relief and joy flood through him.
+0026_The_Big_Fish_01.00.59.947-01.01.02.729 	he can't believe he's finally reached her.
+0026_The_Big_Fish_01.21.38.632-01.21.41.811 	will can't believe what he's reading.
+0050_Indiana_Jones_and_the_last_crusade_00.50.41.103-00.50.44.285 	henry laughs genuinely, believing himself to be laughing at the expense of the s.s.
+1006_Slumdog_Millionaire_01.50.49.726-01.50.53.542 	jamal springs to his feet and stares, unable to believe his eyes.
 1053_Harry_Potter_and_the_philosophers_stone_02.20.43.766-02.20.45.597 	neville can't believe it.
 2034_Super_8_00.34.27.740-00.34.30.580 	jack looks at nelec -- not quite believing him.

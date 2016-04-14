@@ -1,32 +1,42 @@
-0001_American_Beauty_01.54.59.441-01.55.05.110 	IN BLACK & WHITE: A younger Carolyn sits across from us in one of those SPINNING-TEACUP RIDES, LAUGHING uncontrollably as she twists the wheel in front of her, making us SPIN even faster.
-0003_CASABLANCA_00.02.05.844-00.02.13.097 	The facades of the Moorish buildings give way to a narrow, twisting street crowded with the polyglot life of a native quarter.
-0007_DIE_NACHT_DES_JAEGERS_00.49.35.096-00.49.37.286 	PEARL frowns and puts her finger in her mouth; she remembers he twisted her arm.
-0008_Fargo_01.28.59.548-01.29.00.736 	Marge twists her body sideways, shielding herself.
-0010_Frau_Ohne_Gewissen_01.45.28.958-01.45.31.018 	He twists the knob and drags the door open.
-0013_Halloween_00.28.21.659-00.28.23.740 	CAMERA BEGINS on the trees that line the residential street, twisting and writhing in the dusk wind.
-0013_Halloween_01.24.07.614-01.24.07.878 	She twists the top of the hanger, unwinding the wire.
-0016_O_Brother_Where_Art_Thou_01.18.57.145-01.18.59.757 	The fiery cross is twisting and starting to fall.
-0020_Raising_Arizona_01.16.16.663-01.16.18.463 	They both twist frantically to look in the back seat.
-0020_Raising_Arizona_01.19.55.778-01.19.57.789 	Riderless, twisting crazily into the street where it collapses.
-0027_The_Big_Lebowski_00.35.52.089-00.35.53.985 	The Dude is twisting around to pull the money briefcase from the back seat.
-0027_The_Big_Lebowski_01.22.51.715-01.22.58.090 	The Dude twists his body around, performing a barrel-roll so that he is now gliding along the lane face-up.
-0031_The_Lost_Weekend_00.07.59.205-00.08.00.629 	Wick has twisted the string off the bottle.
-0032_The_Princess_Bride_00.26.46.287-00.26.50.596 	There is a moment's pause, and then the Man In Black dives at FEZZIK's chest, slams him several tremendous blows in the stomach, twists his arm severely, slips skillfully into a beautifully applied bear hug, and in general makes any number of terrific wrestling moves.
-0032_The_Princess_Bride_00.27.14.970-00.27.28.022 	FEZZIK considers this a moment, then attacks, and if he moved quickly last time, this time he is blinding and as the Man In Black slips down to avoid the charge, FEZZIK moves right with him, only instead of twisting free and jumping to his feet, this time the Man In Black jumps for FEZZIK's back and in a moment he is riding him, and his arms have FEZZIK's throat, locked across FEZZIK's windpipe, one in front, one behind.
-0050_Indiana_Jones_and_the_last_crusade_01.36.09.103-01.36.17.622 	Indy finally frees himself of Vogel's grasp, twisting his arm painfully away from Indy's neck, then landing a hard blow to Vogel's head.
-1005_Signs_01.00.40.919-01.00.48.057 	Holding the knife at belly level, he twists the long wide blade until he's looking at his own reflection in the polished steel.
+0001_American_Beauty_01.54.59.441-01.55.05.110 	in black & white: a younger carolyn sits across from us in one of those spinning-teacup rides, laughing uncontrollably as she twists the wheel in front of her, making us spin even faster.
+0002_As_Good_As_It_Gets_01.04.09.678-01.04.09.831 	stands in front of melvin's apartment -- twists herself to ease nervousness and knocks on the door.
+0003_CASABLANCA_00.02.05.844-00.02.13.097 	the facades of the moorish buildings give way to a narrow, twisting street crowded with the polyglot life of a native quarter.
+0007_DIE_NACHT_DES_JAEGERS_00.49.35.096-00.49.37.286 	pearl frowns and puts her finger in her mouth; she remembers he twisted her arm.
+0008_Fargo_00.08.31.869-00.08.35.169 	twisting perspective shows that it is an aerial shot of a two-lane highway, bordered by snowfields.
+0008_Fargo_01.28.59.548-01.29.00.736 	marge twists her body sideways, shielding herself.
+0010_Frau_Ohne_Gewissen_01.45.28.958-01.45.31.018 	he twists the knob and drags the door open.
+0013_Halloween_00.28.21.659-00.28.23.740 	camera begins on the trees that line the residential street, twisting and writhing in the dusk wind.
+0013_Halloween_01.24.07.614-01.24.07.878 	she twists the top of the hanger, unwinding the wire.
+0016_O_Brother_Where_Art_Thou_01.18.57.145-01.18.59.757 	the fiery cross is twisting and starting to fall.
+0020_Raising_Arizona_01.16.16.663-01.16.18.463 	they both twist frantically to look in the back seat.
+0020_Raising_Arizona_01.19.55.778-01.19.57.789 	riderless, twisting crazily into the street where it collapses.
+0027_The_Big_Lebowski_00.35.52.089-00.35.53.985 	the dude is twisting around to pull the money briefcase from the back seat.
+0027_The_Big_Lebowski_01.22.51.715-01.22.58.090 	the dude twists his body around, performing a barrel-roll so that he is now gliding along the lane face-up.
+0030_The_Hustler_01.18.20.874-01.18.25.321 	his mouth twists into a mock smile.
+0031_The_Lost_Weekend_00.07.59.205-00.08.00.629 	wick has twisted the string off the bottle.
+0032_The_Princess_Bride_00.26.46.287-00.26.50.596 	there is a moment's pause, and then the man in black dives at fezzik's chest, slams him several tremendous blows in the stomach, twists his arm severely, slips skillfully into a beautifully applied bear hug, and in general makes any number of terrific wrestling moves.
+0032_The_Princess_Bride_00.27.14.970-00.27.28.022 	fezzik considers this a moment, then attacks, and if he moved quickly last time, this time he is blinding and as the man in black slips down to avoid the charge, fezzik moves right with him, only instead of twisting free and jumping to his feet, this time the man in black jumps for fezzik's back and in a moment he is riding him, and his arms have fezzik's throat, locked across fezzik's windpipe, one in front, one behind.
+0032_The_Princess_Bride_00.38.46.152-00.39.05.348 	a moment later, she too is falling, spinning and twisting, crashing and torn, cartwheeling down toward what is left of her beloved.
+0050_Indiana_Jones_and_the_last_crusade_01.36.09.103-01.36.17.622 	indy finally frees himself of vogel's grasp, twisting his arm painfully away from indy's neck, then landing a hard blow to vogel's head.
+1005_Signs_01.00.40.919-01.00.48.057 	holding the knife at belly level, he twists the long wide blade until he's looking at his own reflection in the polished steel.
 1007_Spider-Man1_00.48.31.726-00.48.34.118 	peter knocks the hand away and twists the thief's arm.
+1010_TITANIC_00.03.24.134-00.03.32.713 	both subs glide of the wreck and illuminate twisted metal shapes encrusted with grayish growth
+1012_Unbreakable_00.48.32.885-00.48.40.045 	arms quivering, eyes tight shut, face twisted, he presses it up to full extension.
 1012_Unbreakable_00.49.34.591-00.49.44.001 	he walks slowly over to david, who twists around to inspect the weights and the paint cans at either end of the bar.
+1012_Unbreakable_01.14.17.391-01.14.27.058 	to his left, beyond a set of stairs, two looming shapes appear and become recognizable as the ends of two train carriages, slightly bent and twisted.
 1012_Unbreakable_01.30.14.596-01.30.19.145 	he staggers across the room, lifting and twisting david, still trying to throw him off.
 1019_Confessions_Of_A_Shopaholic_00.50.29.103-00.50.33.167 	holding both her hands in his, he twirls her towards him, twisting her arms across her waist.
 1024_Identity_Thief_01.13.03.363-01.13.05.975 	the skiptracer twists his wrist.
-1026_Legion_01.14.35.669-01.14.38.882 	behind her back, sandra twists her hands within the ropes bound around them.
 1026_Legion_01.22.18.035-01.22.20.796 	michael wallops him back and twists his arm.
+1026_Legion_01.23.18.476-01.23.20.649 	gabriel holds the mace to his side and twists it.
 1033_Sherlock_Holmes_A_Game_of_Shadows_00.29.04.664-00.29.07.896 	holmes twists his arm and throws him onto a sofa.
+1034_Super_8_00.19.42.968-00.19.46.705 	he climbs up onto some twisted railway tracks.
 1037_The_Curious_Case_Of_Benjamin_Button_01.33.06.017-01.33.09.280 	she twists her body then arcs her leg in the air.
 1039_The_Queen_00.43.16.759-00.43.25.485 	the queen twists a silver pen in her hands.
+1046_Australia_01.05.37.000-01.05.41.464 	drover gallops to flynn, lying twisted and bloody in the dust.
 1049_Harry_Potter_and_the_chamber_of_secrets_01.58.07.062-01.58.09.934 	he twists the tap.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.21.18.618-01.21.23.675 	they twist back and forse and she half-smiles.
+1050_Harry_Potter_and_the_deathly_hallows_Disk_One_02.03.35.059-02.03.37.710 	her wand shoots out a snake which twists round greyback's neck.
 1051_Harry_Potter_and_the_goblet_of_fire_00.26.49.072-00.26.51.067 	his face is twisted with angry.
 1051_Harry_Potter_and_the_goblet_of_fire_01.03.20.776-01.03.24.440 	the egg glows as harry twists it open.
 1051_Harry_Potter_and_the_goblet_of_fire_01.27.44.490-01.27.47.140 	he twists it open under the water.
@@ -36,22 +46,19 @@
 1051_Harry_Potter_and_the_goblet_of_fire_02.16.17.180-02.16.25.046 	they turn and watch his face and body start to twist with the violent convulsions.
 1052_Harry_Potter_and_the_order_of_phoenix_00.27.40.694-00.27.44.986 	he shifts uneasily, twisting and flexing his neck.
 1052_Harry_Potter_and_the_order_of_phoenix_00.34.22.197-00.34.27.912 	he twists and flexes his neck.
-1052_Harry_Potter_and_the_order_of_phoenix_00.34.39.473-00.34.41.561 	veins twist under harry's skin.
 1052_Harry_Potter_and_the_order_of_phoenix_01.33.35.575-01.33.50.370 	his face twisted with anger, snape grabs harry viciously and peers into his face.
+1052_Harry_Potter_and_the_order_of_phoenix_02.00.10.102-02.00.11.844 	voldemort's face twists into a snarl.
+1053_Harry_Potter_and_the_philosophers_stone_01.44.36.545-01.44.41.421 	twisted branches loom out of the darkness, throwing weird and frightening shadows.
 1053_Harry_Potter_and_the_philosophers_stone_01.56.38.152-01.56.57.868 	slithering tentacles snake over them, twisting around their arms and legs, and twining around their necks.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_00.55.45.661-00.55.49.047 	he twists and turns to avoid them.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_01.07.18.933-01.07.22.727 	the whomping willow twists its trunk and shakes the snow from its branches.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_01.29.24.762-01.29.28.664 	scratched by the sharp twigs, hermione is twisted this way and that as she clings to the branch.
+1054_Harry_Potter_and_the_prisoner_of_azkaban_01.40.15.382-01.40.18.362 	his limbs grow thin and twisted.
 1056_Rambo_01.12.50.324-01.12.55.716 	diaz twists the neck of a soldier and stabs him.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.14.28.744-00.14.47.387 	griphook is driving a cart along a twisting rail track, hurtling through dark, underground tunnels.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.15.04.885-00.15.13.376 	the track twists down towards the waterfall.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.37.36.209-00.37.42.183 	spinning, snape twists his black cloak around himself and swirls up towards the high window.
-1053_Harry_Potter_and_the_philosophers_stone_01.56.38.152-01.56.57.868 	slithering tentacles snake over them, twisting around their arms and legs, and twining around their necks.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.55.45.661-00.55.49.047 	he twists and turns to avoid them.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_01.07.18.933-01.07.22.727 	the whomping willow twists its trunk and shakes the snow from its branches.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_01.29.24.762-01.29.28.664 	scratched by the sharp twigs, hermione is twisted this way and that as she clings to the branch.
-1056_Rambo_01.12.50.324-01.12.55.716 	diaz twists the neck of a soldier and stabs him.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.14.28.744-00.14.47.387 	griphook is driving a cart along a twisting rail track, hurtling through dark, underground tunnels.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.15.04.885-00.15.13.376 	the track twists down towards the waterfall.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.37.36.209-00.37.42.183 	spinning, snape twists his black cloak around himself and swirls up towards the high window.
+2034_Super_8_00.18.44.246-00.18.51.161 	joe stands up fast, faces a mountain of twisted steel -- upside-down train cars piled frighteningly around him.
+2034_Super_8_00.18.52.299-00.19.03.335 	-- awful-loud -- and a twisted ten-foot square.
+2054_Harry_Potter_and_the_prisoner_of_azkaban_00.57.18.550-00.57.24.364 	he tips a bag of splintered wood and twisted twigs onto the bed.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_01.43.52.380-01.44.02.951 	harry's eyes flutter, the dementors twisting madly in his vision, drawing closer.

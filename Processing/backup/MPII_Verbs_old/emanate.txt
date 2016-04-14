@@ -1,5 +1,5 @@
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.55.53.816-01.55.57.370 	A cold blue glow is emanating from Sting's Scabbard!
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.45.26.237-02.45.29.564 	The CAVE TROLL, with ARAGORN at his mercy, is distracted by the SOUNDS emanating from MORDOR.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.55.53.816-01.55.57.370 	a cold blue glow is emanating from sting's scabbard!
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.45.26.237-02.45.29.564 	the cave troll, with aragorn at his mercy, is distracted by the sounds emanating from mordor.
 1008_Spider-Man2_02.02.32.940-02.02.41.220 	later, he eases her down towards the ground with an ever- lengthening string of web emanating from his wrist.
 1017_Bad_Santa_00.32.09.768-00.32.18.681 	some noise is emanating from the changing room catches attention.
 1017_Bad_Santa_00.54.56.056-00.54.57.629 	a man in an office looks up at the duct as noises emanate from it.
@@ -7,6 +7,4 @@
 1034_Super_8_00.19.04.229-00.19.11.215 	noises emanate from the stricken carriage almost as if some angry beast were charging around inside it.
 1034_Super_8_00.44.32.427-00.44.41.926 	a noise emanates from the junkyard and he looks over at it for a moment, then gets back on with his job.
 1037_The_Curious_Case_Of_Benjamin_Button_00.11.00.469-00.11.08.732 	thomas heaves a sigh of relief and steps forward into a pool of light emanating from a nearby window.
-2026_Legion_01.12.04.208-01.12.06.186 	a flickering light emanates from within the diner.
-2026_Legion_01.12.04.208-01.12.06.186 	a flickering light emanates from within the diner.
 2034_Super_8_01.27.04.976-01.27.21.156 	-- they run in for cover -- they're silhouetted in this dark space by the explosion light emanating from the windows.

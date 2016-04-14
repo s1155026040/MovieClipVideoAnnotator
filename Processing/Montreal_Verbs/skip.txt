@@ -1,8 +1,4 @@
-21_JUMP_STREET.srt 	21_JUMP_STREET_DVS234 	00:38:44,00 --> 00:38:50,50 	someone hurls the baton over the finish line and skips back and forth.
 500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS200 	00:33:18,00 --> 00:33:23,50 	he skips happily through the front door and to the lift
-CHRONICLE.srt 	CHRONICLE_DVS138 	00:20:24,00 --> 00:20:32,50 	now at a park, someone telekinetically lifts a rock off the grass and skips it across the lake.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS657 	01:29:04,00 --> 01:29:08,50 	someone skips off after someone.
 GROWN_UPS.srt 	GROWN_UPS_DVS203 	00:55:26,00 --> 00:55:31,50 	donna skips the stone across the water.
-IN_TIME.srt 	IN_TIME_DVS780 	01:22:09,00 --> 01:22:15,50 	he faces the man next to the traveler and skips up to him.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS271 	00:36:08,00 --> 00:36:18,50 	water bursts upwards as it skips to another wave.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS732 	01:16:11,00 --> 01:16:18,50 	a few fish continue passing by and they skip along the calming surface.

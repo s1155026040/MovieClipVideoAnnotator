@@ -1,0 +1,11 @@
+DEAR_JOHN.srt 	DEAR_JOHN_DVS67 	00:08:56,00 --> 00:09:05,50 	later, someone whacks a striker bar against a magnesium strip key-chain, instantly igniting a small campfire.
+GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS218 	00:35:57,00 --> 00:36:01,50 	he ignites a lighter.
+IRON_MAN_2.srt 	IRON_MAN_2_DVS652 	01:49:28,00 --> 01:49:43,50 	a thruster ignites on the back of the missile and launches it toward someone.
+PROMETHEUS.srt 	PROMETHEUS_DVS718 	01:16:40,00 --> 01:16:51,50 	someone ignites the flamethrower, setting holloway on fire.
+PROMETHEUS.srt 	PROMETHEUS_DVS945 	01:44:33,00 --> 01:44:41,50 	blue flames ignite from the engines.
+SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS285 	00:59:19,00 --> 00:59:24,50 	he ignites the someone circle.
+SUPER_8.srt 	SUPER_8_DVS557 	01:33:19,00 --> 01:33:25,50 	someone takes out a cigarette lighter and tries to ignite it.
+SUPER_8.srt 	SUPER_8_DVS560 	01:33:42,00 --> 01:33:46,50 	someone ignites the lighter.
+THE_CALL.srt 	THE_CALL_DVS580 	00:45:08,00 --> 00:45:13,50 	the driver ignites a lighter.
+XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS548 	00:51:23,00 --> 00:51:32,50 	she spits a ball of fire, which soars out through the shattered window, and ignites the head of a statue in the courtyard.
+XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1151 	01:42:58,00 --> 01:43:04,50 	a wing breaks from the aircraft igniting a fiery blaze.

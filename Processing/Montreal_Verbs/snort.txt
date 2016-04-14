@@ -1,4 +1,2 @@
-FLIGHT.srt 	FLIGHT_DVS26 	00:03:39,00 --> 00:03:44,50 	he sits up and snorts a line of cocaine.
 FLIGHT.srt 	FLIGHT_DVS48 	00:07:16,00 --> 00:07:20,50 	a man snorts coke.
 FLIGHT.srt 	FLIGHT_DVS947 	01:53:06,00 --> 01:53:10,50 	someone snorts a line,
-SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS434 	01:32:47,00 --> 01:32:51,50 	it snorts, fogging the glass.

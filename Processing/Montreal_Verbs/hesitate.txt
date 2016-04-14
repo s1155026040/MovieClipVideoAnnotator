@@ -1,12 +1,4 @@
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS73 	00:06:12,00 --> 00:06:16,50 	the man hesitates.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS261 	00:40:58,00 --> 00:41:02,50 	he hesitates at the door.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS247 	00:59:29,00 --> 00:59:35,50 	the strapping guard hesitates.
-ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS175 	00:55:32,00 --> 00:55:37,50 	she reaches for her bag then hesitates.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS296 	01:25:40,00 --> 01:25:44,50 	she hesitates thoughtfully.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS341 	01:23:21,00 --> 01:23:42,50 	the lawman hesitates, then snatches it from his hand.
-SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS393 	01:22:23,00 --> 01:22:34,50 	with a shrug, he crouches to it and reaches out, then hesitates.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS76 	00:06:59,00 --> 00:07:09,50 	she hesitates seeing the two men in the glass walled room.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS509 	00:57:03,00 --> 00:57:09,50 	she hesitates, then braces a hand against the wall and bends down for them.
-THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS96 	00:31:07,00 --> 00:31:35,50 	he treads toward the envelope then hesitates.
-THE_VOW.srt 	THE_VOW_DVS266 	00:34:05,00 --> 00:34:12,50 	someone steps toward his wife, hesitates, and pats her back.
-THE_VOW.srt 	THE_VOW_DVS355 	00:48:59,00 --> 00:49:06,50 	he hesitates then wraps his arms around her and wraps his arms around her and rests this chin on her shoulder.

@@ -1,24 +1,30 @@
-0003_CASABLANCA_00.30.43.112-00.30.50.935 	Corina finishes her song, and the crowd applauds quite enthusiastically.
-0011_Gandhi_00.12.27.767-00.12.29.629 	Three or four committed supporters applaud as on cue, but his technique is so inexpert that it draws nothing but blank faces from the bulk of them.
-0011_Gandhi_00.56.14.662-00.56.19.618 	And again the audience cheers and applauds his little coda.
-0029_The_Graduate_01.29.03.796-01.29.07.835 	Elaine jumps up, applauding a shot.
-0033_Amadeus_00.08.04.957-00.08.06.522 	The audience applauds wildly.
-0049_Hannah_and_her_sisters_00.08.53.359-00.08.57.747 	The group applauds once more, toasting and drinking, and warmly sounding their approval.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.48.38.333-01.48.39.302 	Harry applauds the tipsy duo.
-1003_How_to_Lose_Friends_and_Alienate_People_01.37.26.787-01.37.29.380 	The crowd applauds and Sophie makes for the stage.
+0003_CASABLANCA_00.30.43.112-00.30.50.935 	corina finishes her song, and the crowd applauds quite enthusiastically.
+0009_Forrest_Gump_00.31.03.174-00.31.06.923 	archival footage - robert kennedy stands at a podium as people around him applaud.
+0011_Gandhi_00.12.27.767-00.12.29.629 	three or four committed supporters applaud as on cue, but his technique is so inexpert that it draws nothing but blank faces from the bulk of them.
+0011_Gandhi_00.56.14.662-00.56.19.618 	and again the audience cheers and applauds his little coda.
+0011_Gandhi_00.58.50.152-00.58.54.144 	a cameraman flashes a picture, and someone begins to applaud; it is taken up here and there, tepidly.
+0014_Ist_das_Leben_nicht_schoen_00.04.17.294-00.04.24.259 	as each boy comes down the others applaud.
+0029_The_Graduate_00.22.32.521-00.22.33.747 	the people applaud.
+0029_The_Graduate_01.29.03.796-01.29.07.835 	elaine jumps up, applauding a shot.
+0033_Amadeus_00.08.04.957-00.08.06.522 	the audience applauds wildly.
+0049_Hannah_and_her_sisters_00.08.11.673-00.08.18.667 	mavis the maid exits, carrying some trays, as the group starts to cheer and applaud.
+0049_Hannah_and_her_sisters_00.08.53.359-00.08.57.747 	the group applauds once more, toasting and drinking, and warmly sounding their approval.
+1002_Harry_Potter_and_the_Half-Blood_Prince_01.48.38.333-01.48.39.302 	harry applauds the tipsy duo.
+1008_Spider-Man2_01.02.19.979-01.02.22.625 	her arms folded, mj looks slightly flustered as the guests applaud.
+1009_Spider-Man3_00.43.02.573-00.43.04.384 	she smiles as they applaud.
 1019_Confessions_Of_A_Shopaholic_01.32.51.301-01.32.53.176 	the blonde, smiling coyly, waves the scarf at the applauding women.
 1019_Confessions_Of_A_Shopaholic_01.37.16.707-01.37.28.477 	the mannequins in all the fashion windows she passes applaud her.
+1035_The_Adjustment_Bureau_00.12.02.063-00.12.05.319 	backstage charlie and other aides applaud.
+1039_The_Queen_01.29.47.725-01.29.54.881 	earl spencer steps from the podium while outside people applaud.
 1039_The_Queen_01.30.04.859-01.30.08.526 	video footage shows thousands of people applauding in the park.
-1039_The_Queen_01.30.08.859-01.30.15.526 	inside the abbey, everyone applauds except the royal family.
 1045_An_education_00.22.56.812-00.23.00.259 	jenny smiles happily as she applauds the singer.
-1049_Harry_Potter_and_the_chamber_of_secrets_02.28.12.058-02.28.15.615 	everyone applauds except draco and his slytherin cronies.
-1052_Harry_Potter_and_the_order_of_phoenix_00.32.32.423-00.32.36.029 	filch applauds enthusiastically.
+1049_Harry_Potter_and_the_chamber_of_secrets_00.53.51.241-00.53.53.876 	the professors applaud.
+1049_Harry_Potter_and_the_chamber_of_secrets_02.29.59.092-02.30.02.540 	at the high table, professor dumbledore stands and starts to applaud.
+1052_Harry_Potter_and_the_order_of_phoenix_01.04.03.775-01.04.13.777 	harry smiles proudly as his pupils applaud.
 1052_Harry_Potter_and_the_order_of_phoenix_01.37.20.723-01.37.25.354 	delighted students rush out into the courtyard, applauding the magnificent display.
 1053_Harry_Potter_and_the_philosophers_stone_01.23.25.130-01.23.28.989 	dumbledore and professor mcgonagall applauds enthusiastically.
 1059_The_devil_wears_prada_01.34.36.635-01.34.39.170 	nigel puts on a brave face and applauds her.
-1059_The_devil_wears_prada_01.34.46.842-01.34.50.307 	up on the podium, miranda smiles and applauds jacqueline as irv eyes her coolly.
-1053_Harry_Potter_and_the_philosophers_stone_01.23.25.130-01.23.28.989 	dumbledore and professor mcgonagall applauds enthusiastically.
-1059_The_devil_wears_prada_01.34.36.635-01.34.39.170 	nigel puts on a brave face and applauds her.
-1059_The_devil_wears_prada_01.34.46.842-01.34.50.307 	up on the podium, miranda smiles and applauds jacqueline as irv eyes her coolly.
 2040_The_Ugly_Truth_01.06.51.017-01.07.01.388 	the audience applauds as mike takes a deep breath and heads on stage.
 2041_This_is_40_00.15.25.468-00.15.29.757 	the crowd applauds as graham parker (60's) leaps on stage.
+2051_Harry_Potter_and_the_goblet_of_fire_00.29.01.752-00.29.19.799 	older students are placing their names into the flame and others are applauding, cedric is one of them.
+2054_Harry_Potter_and_the_prisoner_of_azkaban_00.25.53.806-00.25.54.580 	harry, ron, and hermione stare at each other -- stunned -- then applaud vigorously.

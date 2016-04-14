@@ -1,19 +1,4 @@
-0004_Charade_00.05.50.012-00.05.50.457 	a strange, grotesque knitted mask that completely covers the face except for eyes, nose and mouth.
-0005_Chinatown_01.17.39.497-01.17.42.475 	gittes strolls toward the women knitting and working on the quilt.
-0013_Halloween_00.28.30.359-00.28.35.309 	she carries a totebag with schoolbooks and knitting needles stuck inside, and a large pumpkin.
-0013_Halloween_01.20.13.090-01.20.17.441 	her hand brushes against the knitting needles protruding from her totebag.
-0013_Halloween_01.20.17.441-01.20.19.867 	she reacts to the feel of the knitting needles and pulls one out.
-0013_Halloween_01.20.23.611-01.20.25.719 	instinctively laurie raises the knitting needle and drives it home, right into the shape's neck!
-0020_Raising_Arizona_00.01.30.988-00.01.31.636 	the huge muscle-bound black man with a shaved head is knitting his brow in consternation.
-0021_Rear_Window_01.30.06.787-01.30.09.036 	stella's brow knits a little as she sees something.
-1003_How_to_Lose_Friends_and_Alienate_People_01.24.09.439-01.24.14.088 	sydney steps back from the car window and knits his hands together by his chin.
 1020_Crazy_Stupid_Love_00.36.15.483-00.36.17.624 	she knits her fingers together,
 1020_Crazy_Stupid_Love_00.55.08.023-00.55.17.073 	they both knit and unknit their fingers.
-1020_Crazy_Stupid_Love_01.16.18.618-01.16.29.235 	cal's brow is knitted as he talks on the phone.
 1027_Les_Miserables_01.23.33.268-01.23.35.650 	valjean knits his fingers together.
-1030_Public_Enemies_01.11.14.892-01.11.18.525 	dillinger knits his brow thoughtfully then meets d'andrea's gaze.
-1030_Public_Enemies_02.02.15.514-02.02.19.181 	dillinger gazes at her with a knitted brow and clenched jaw.
-1030_Public_Enemies_02.09.09.213-02.09.13.874 	leaning forward, he faces her with a knitted brow.
-1037_The_Curious_Case_Of_Benjamin_Button_02.00.53.439-02.00.55.408 	dressed in black, her hands knitted together at her waist.
-1049_Harry_Potter_and_the_chamber_of_secrets_00.11.27.418-00.11.29.501 	next to an armchair, a pair of needles hang in mid-air knitting a multi-colored garment.
 1058_The_Damned_united_00.50.40.000-00.50.43.000 	peter's eyes rove in anguish as his brows knit in a frown.

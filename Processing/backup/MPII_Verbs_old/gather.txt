@@ -1,96 +1,101 @@
-0001_American_Beauty_00.03.58.721-00.03.59.866 	He drops to his knees to gather everything.
-0001_American_Beauty_00.03.58.721-00.03.59.866 	He drops to his knees to gather everything.
-0007_DIE_NACHT_DES_JAEGERS_00.33.47.340-00.33.54.536 	She continues to gather the money together.
-0007_DIE_NACHT_DES_JAEGERS_01.26.55.913-01.26.59.607 	RACHEL gathers her parcels.
-0010_Frau_Ohne_Gewissen_00.35.26.511-00.35.28.056 	He gathers up his coat and tie and picks up his glass.
-0010_Frau_Ohne_Gewissen_01.09.31.691-01.09.33.564 	He gathers up the morning paper which is lying untidily on the floor and puts it in the waste-paper basket.
-0011_Gandhi_00.02.50.465-00.02.55.571 	A fairly numerous crowd is gathering here, informally filling the area on one side of a walk that leads to a little pavilion -- some devout, some curious, some just eager to be near the great man.
-0011_Gandhi_00.45.30.407-00.45.31.455 	Behind her, Gandhi's reception is in full spate -- silver trays, tables covered in fine linen, Indian servants, a swimming pool, a small fountain, the grounds filled with Indian millionaires and dignitaries gathered with their wives to meet the new hero from South Africa.
-0011_Gandhi_01.25.20.849-01.25.22.398 	A large crowd is gathered around a speaker on a platform at one side of the park.
-0011_Gandhi_01.37.55.303-01.37.56.353 	A huge crowd is gathered around a platform -- torches sprinkled through it -- and their mood is confident, belligerent.
-0013_Halloween_01.04.48.243-01.04.52.180 	Bob gathers the food and beers into his arms.
-0014_Ist_das_Leben_nicht_schoen_00.25.13.482-00.25.16.774 	She gathers the robe around her.
-0014_Ist_das_Leben_nicht_schoen_01.39.50.529-01.39.52.789 	This is a ludicrous seventeenth century garment which looks like a baby's night shirt with embroidered cuffs and collar, and gathered at the neck with a drawstring.
-0017_Pianist_00.04.08.536-00.04.22.205 	They gather round.
-0017_Pianist_00.10.12.105-00.10.23.022 	The family are gathered around the table, listening to Father reading from the newspaper.
-0017_Pianist_00.28.55.571-00.28.57.415 	The Szpilmans gather at their open window to watch.
-0019_Pulp_Fiction_01.34.55.566-01.35.01.836 	GAWKERS gather around the body.
-0021_Rear_Window_00.30.38.787-00.30.39.873 	Lisa pauses in the act of gathering her things together.
-0021_Rear_Window_01.39.06.012-01.39.06.558 	A quick flash of the song-writer's apartment, and his musical group gathered around the piano.
-0023_THE_BUTTERFLY_EFFECT_01.02.42.674-01.02.45.837 	The pledges of Theta Chi busily gather around Evan, their clothes covered in dirt, food and what might be vomit.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.44.00.918-00.44.05.866 	Merry and Pippin hurriedly gather their booty and race away.with Frodo and Sam on their heels.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.45.50.471-00.45.51.808 	Beads of sweat gather on his brow.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.13.17.843-01.13.23.785 	Arwen gathers the small Hobbit in her arms, feeling his life slip away.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.23.30.325-00.23.35.163 	GANDALF looks from on to the other of the, gathered company.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_03.00.43.472-03.00.47.425 	With their dearest FRIENDS gathered around them.
-0026_The_Big_Fish_00.26.19.404-00.26.26.917 	Spirits buoyed by the high school MARCHING BAND, all the good CITIZENS of Ashton are gathered to see off Edward and Karl.
-0026_The_Big_Fish_00.33.30.645-00.33.37.848 	The gathered citizens of Spectre CHEER for Edward, who is confused and overwhelmed.
-0026_The_Big_Fish_01.17.48.700-01.17.51.780 	Both women quickly gather plates.
-0028_The_Crying_Game_01.10.26.750-01.10.28.336 	Dil gathers up her things and takes it.
-0029_The_Graduate_01.22.38.007-01.22.44.728 	Several BOYS are gathering in the hallway trying to see into the room.
-0030_The_Hustler_01.17.49.068-01.17.51.340 	He is completely oblivious to the glowering faces of the group of men who have gathered around the table to watch.
-0031_The_Lost_Weekend_00.32.19.349-00.32.19.832 	The first drops of sweat are gathering on his forehead.
-0032_The_Princess_Bride_00.17.58.722-00.18.00.653 	And he just hangs there in space, resting, gathering his strength.
-0032_The_Princess_Bride_00.41.54.338-00.41.57.810 	WESTLEY, instantly forcing Buttercup to sit, gathering her flaming hem in his hands, doing his best to suffocate the fire.
-0033_Amadeus_00.35.52.249-00.35.54.025 	The others, except for Salieri, gather around the manuscript held by the King.
-0041_The_Sixth_Sense_01.21.57.831-01.22.03.533 	Most are gathered around the GIRL'S MOTHER, a young woman in her late twenties.
-0049_Hannah_and_her_sisters_01.24.49.728-01.24.57.157 	Hannah walks over to the table, gathering up more food.
-0049_Hannah_and_her_sisters_01.25.36.506-01.25.52.137 	Hannah angrily gathers up some spices from the table; Holly walks back onscreen holding a silver ice bucket.
-0049_Hannah_and_her_sisters_01.27.33.435-01.27.36.602 	A chubby, friendly uncle sits on a sofa, one child on his lap and several others gathered cross-legged around him on the floor.
-0049_Hannah_and_her_sisters_01.41.11.263-01.41.16.959 	After pausing for a moment on Elliot's face, the film cuts to the foyer, where two boys and a girl gather by the door.
-0050_Indiana_Jones_and_the_last_crusade_00.15.39.545-00.15.44.920 	Indy gathers up his books and makes his way toward the door.
-0053_Rendezvous_mit_Joe_Black_01.11.30.634-01.11.39.989 	Allison and Susan together by a piano; Parrish, Quince and a distracted Joe are gathered near the terrace.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.01.19.620-00.01.31.238 	The staff on one of the upper floors gather at the windows, and look out in alarm, as the menacing clouds drift ever closer.
-1003_How_to_Lose_Friends_and_Alienate_People_00.09.10.231-00.09.13.089 	The writers have gathered in a frenzy to watch the fight brew.
-1003_How_to_Lose_Friends_and_Alienate_People_00.14.20.115-00.14.24.679 	She gathers her belongings.
-1003_How_to_Lose_Friends_and_Alienate_People_01.18.24.187-01.18.29.157 	She starts to gather her things from the coffee table.
-1003_How_to_Lose_Friends_and_Alienate_People_01.32.50.944-01.32.56.958 	Stripped to his socks and boxer shorts, a terrified Sydney tries to gather the courage to leap between two high hotel balconies.
-1005_Signs_00.57.49.730-00.57.56.660 	The kids gathered by French windows and point to the backyard, where tables laden with party food lie abandoned.
-1006_Slumdog_Millionaire_01.40.45.704-01.40.58.566 	People all over the country gather in front of TVs to watch.
+0001_American_Beauty_00.03.58.721-00.03.59.866 	he drops to his knees to gather everything.
+0007_DIE_NACHT_DES_JAEGERS_00.33.47.340-00.33.54.536 	she continues to gather the money together.
+0010_Frau_Ohne_Gewissen_00.35.26.511-00.35.28.056 	he gathers up his coat and tie and picks up his glass.
+0010_Frau_Ohne_Gewissen_01.09.31.691-01.09.33.564 	he gathers up the morning paper which is lying untidily on the floor and puts it in the waste-paper basket.
+0011_Gandhi_00.02.50.465-00.02.55.571 	a fairly numerous crowd is gathering here, informally filling the area on one side of a walk that leads to a little pavilion -- some devout, some curious, some just eager to be near the great man.
+0011_Gandhi_00.45.30.407-00.45.31.455 	behind her, gandhi's reception is in full spate -- silver trays, tables covered in fine linen, indian servants, a swimming pool, a small fountain, the grounds filled with indian millionaires and dignitaries gathered with their wives to meet the new hero from south africa.
+0011_Gandhi_01.25.20.849-01.25.22.398 	a large crowd is gathered around a speaker on a platform at one side of the park.
+0011_Gandhi_01.37.55.303-01.37.56.353 	a huge crowd is gathered around a platform -- torches sprinkled through it -- and their mood is confident, belligerent.
+0011_Gandhi_02.48.30.147-02.48.31.043 	the sounds of rioting and looting on nearby streets, but here a mass of people are gathered.
+0013_Halloween_01.04.48.243-01.04.52.180 	bob gathers the food and beers into his arms.
+0014_Ist_das_Leben_nicht_schoen_00.25.13.482-00.25.16.774 	she gathers the robe around her.
+0014_Ist_das_Leben_nicht_schoen_01.39.50.529-01.39.52.789 	this is a ludicrous seventeenth century garment which looks like a baby's night shirt with embroidered cuffs and collar, and gathered at the neck with a drawstring.
+0017_Pianist_00.04.08.536-00.04.22.205 	they gather round.
+0017_Pianist_00.10.12.105-00.10.23.022 	the family are gathered around the table, listening to father reading from the newspaper.
+0017_Pianist_00.28.55.571-00.28.57.415 	the szpilmans gather at their open window to watch.
+0019_Pulp_Fiction_01.34.55.566-01.35.01.836 	gawkers gather around the body.
+0021_Rear_Window_00.30.38.787-00.30.39.873 	lisa pauses in the act of gathering her things together.
+0021_Rear_Window_01.39.06.012-01.39.06.558 	a quick flash of the song-writer's apartment, and his musical group gathered around the piano.
+0023_THE_BUTTERFLY_EFFECT_01.02.42.674-01.02.45.837 	the pledges of theta chi busily gather around evan, their clothes covered in dirt, food and what might be vomit.
+0023_THE_BUTTERFLY_EFFECT_01.05.48.631-01.05.49.786 	by now a crowd has gathered.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.23.30.325-00.23.35.163 	gandalf looks from on to the other of the, gathered company.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_03.00.43.472-03.00.47.425 	with their dearest friends gathered around them.
+0026_The_Big_Fish_00.22.01.770-00.22.08.996 	a mob of about 50 have gathered, many of them with shotguns.
+0026_The_Big_Fish_00.26.19.404-00.26.26.917 	spirits buoyed by the high school marching band, all the good citizens of ashton are gathered to see off edward and karl.
+0026_The_Big_Fish_01.14.20.986-01.14.22.952 	with all the strength she can gather, she hangs up that dress and digs another one out of the basket.
+0026_The_Big_Fish_01.17.48.700-01.17.51.780 	both women quickly gather plates.
+0028_The_Crying_Game_01.44.45.019-01.44.50.962 	looks out the window to where he can see dil staggering down the street, through the crowds that have gathered.
+0029_The_Graduate_01.22.38.007-01.22.44.728 	several boys are gathering in the hallway trying to see into the room.
+0030_The_Hustler_01.17.49.068-01.17.51.340 	he is completely oblivious to the glowering faces of the group of men who have gathered around the table to watch.
+0031_The_Lost_Weekend_00.32.19.349-00.32.19.832 	the first drops of sweat are gathering on his forehead.
+0032_The_Princess_Bride_00.17.58.722-00.18.00.653 	and he just hangs there in space, resting, gathering his strength.
+0032_The_Princess_Bride_00.41.54.338-00.41.57.810 	westley, instantly forcing buttercup to sit, gathering her flaming hem in his hands, doing his best to suffocate the fire.
+0041_The_Sixth_Sense_01.21.57.831-01.22.03.533 	most are gathered around the girl's mother, a young woman in her late twenties.
+0049_Hannah_and_her_sisters_01.24.49.728-01.24.57.157 	hannah walks over to the table, gathering up more food.
+0049_Hannah_and_her_sisters_01.25.36.506-01.25.52.137 	hannah angrily gathers up some spices from the table; holly walks back onscreen holding a silver ice bucket.
+0049_Hannah_and_her_sisters_01.27.33.435-01.27.36.602 	a chubby, friendly uncle sits on a sofa, one child on his lap and several others gathered cross-legged around him on the floor.
+0053_Rendezvous_mit_Joe_Black_01.11.30.634-01.11.39.989 	allison and susan together by a piano; parrish, quince and a distracted joe are gathered near the terrace.
+0053_Rendezvous_mit_Joe_Black_01.25.25.897-01.25.34.764 	the board of parrish communications is gathered, absent are parrish and quince.
+0053_Rendezvous_mit_Joe_Black_02.46.21.212-02.46.26.525 	they watch the guests gathering to view the fireworks.
+1002_Harry_Potter_and_the_Half-Blood_Prince_00.01.19.620-00.01.31.238 	the staff on one of the upper floors gather at the windows, and look out in alarm, as the menacing clouds drift ever closer.
+1003_How_to_Lose_Friends_and_Alienate_People_00.09.10.231-00.09.13.089 	the writers have gathered in a frenzy to watch the fight brew.
+1003_How_to_Lose_Friends_and_Alienate_People_00.14.20.115-00.14.24.679 	she gathers her belongings.
+1003_How_to_Lose_Friends_and_Alienate_People_01.18.24.187-01.18.29.157 	she starts to gather her things from the coffee table.
+1003_How_to_Lose_Friends_and_Alienate_People_01.32.50.944-01.32.56.958 	stripped to his socks and boxer shorts, a terrified sydney tries to gather the courage to leap between two high hotel balconies.
+1005_Signs_00.57.49.730-00.57.56.660 	the kids gathered by french windows and point to the backyard, where tables laden with party food lie abandoned.
+1006_Slumdog_Millionaire_01.40.33.582-01.40.36.955 	the crowd begins to gather.
+1006_Slumdog_Millionaire_01.40.45.704-01.40.58.566 	people all over the country gather in front of tvs to watch.
+1006_Slumdog_Millionaire_01.41.23.315-01.41.28.750 	an entire family has gathered, having supper in front of the tv.
 1007_Spider-Man1_01.26.08.206-01.26.09.213 	they're all gathered in the living room by the bottom of the stairs.
 1008_Spider-Man2_00.37.27.734-00.37.32.606 	guests have gathered in doctor octavius' lab.
 1009_Spider-Man3_00.32.12.656-00.32.19.998 	mary jane stands up, gathers her bag, scarf, and newspaper, and goes for the door.
+1009_Spider-Man3_00.42.59.783-00.43.01.608 	outside the theater, a crowd has gathered.
 1010_TITANIC_01.43.43.958-01.43.52.725 	outside, smoke rises from the ship's huge funnels as people gather on the decks.
 1014_2012_01.30.15.152-01.30.18.347 	the pope leads the prayers of the faithful gathered in the square.
 1014_2012_01.30.23.680-01.30.31.418 	the cardinals gathered inside look up at the great painted ceiling of the sistine chapel as it begins to crack.
-1015_27_Dresses_00.00.51.580-00.00.52.397 	guests gather for a wedding.
 1015_27_Dresses_01.09.35.415-01.09.40.744 	they're up on the bar with everybody gathered round, singing and urging them on.
 1015_27_Dresses_01.18.59.213-01.19.06.322 	as lights begin to decorate the evening cityscape, a taxi drops jane off at the restaurant where guests are gathering for the engagement party.
 1015_27_Dresses_01.39.54.692-01.40.00.574 	one year later, and wedding guests are gathering on a beach.
 1017_Bad_Santa_00.01.18.088-00.01.21.866 	inside the pub, various groups of friends, families, and work colleagues have gathered together for a festive drink and to exchange presents.
 1018_Body_Of_Lies_01.52.43.732-01.52.51.043 	the men gather around ferris, who hangs his head.
 1020_Crazy_Stupid_Love_00.50.08.144-00.50.11.427 	there's a crowd gathered around it.
+1020_Crazy_Stupid_Love_01.01.15.237-01.01.16.679 	a crowd has gathered.
 1023_Horrible_Bosses_00.11.11.476-00.11.11.791 	staff are gathered in a meeting room.
-1024_Identity_Thief_01.46.43.477-01.46.50.144 	sandy gathers up the envelope and stands, glancing at the paperwork in his hands.
 1028_No_Reservations_01.23.12.936-01.23.18.539 	the staff are gathered at the restaurant to review the menu.
-1029_Pride_And_Prejudice_Disk_One_01.22.53.966-01.23.00.304 	mr. bingley escorts the sisters proudly through the gathered guests,
 1029_Pride_And_Prejudice_Disk_One_01.23.13.355-01.23.22.854 	a hopeful smile plays across her lips when she spots a group of red-coated officers gathered in a corner.
 1029_Pride_And_Prejudice_Disk_One_01.33.43.823-01.33.45.958 	now, the guests are gathered in a different room.
+1029_Pride_And_Prejudice_Disk_One_02.07.58.565-02.08.01.231 	a group of onlookers gather.
+1030_Public_Enemies_00.07.02.721-00.07.14.264 	gathering himself, he sniffs, flaring his nostrils, and stares forward with a steely gaze.
 1030_Public_Enemies_00.13.47.662-00.13.50.578 	the teller frantically gathers cash.
+1030_Public_Enemies_00.19.06.095-00.19.10.164 	the men step onto a sunny veranda, where reporters gather.
 1030_Public_Enemies_01.45.41.387-01.45.43.053 	the other men gather their things and move out.
+1030_Public_Enemies_01.54.57.025-01.54.58.445 	the agents gather.
 1031_Quantum_of_Solace_00.39.44.518-00.39.48.817 	guests gather in a reception area in the form of a cube built over the theater entrance.
 1034_Super_8_00.09.38.294-00.09.40.977 	joe and his friends have gathered on a grassy bank.
 1034_Super_8_00.20.17.968-00.20.21.315 	the others gather round.
+1035_The_Adjustment_Bureau_00.44.11.813-00.44.14.974 	david's senate race gathering wraps up.
 1035_The_Adjustment_Bureau_01.07.58.048-01.08.03.345 	as she hunches forward, a group of dancers gathered behind her lifts her into the air.
 1037_The_Curious_Case_Of_Benjamin_Button_00.04.48.618-00.04.56.499 	a crowd of spectators has gathered on the spacious concourse of the train station.
-1037_The_Curious_Case_Of_Benjamin_Button_00.10.47.044-00.10.52.358 	the policeman glances left and right, then gathers speed, as thomas darts through a gateway in a concrete wall.
 1037_The_Curious_Case_Of_Benjamin_Button_00.47.24.670-00.47.27.615 	a bevy of prostitutes is gathered on the stairs.
 1037_The_Curious_Case_Of_Benjamin_Button_02.06.51.871-02.06.56.353 	a mostly black congregation has gathered for the funeral in a quaint white church.
+1038_The_Great_Gatsby_01.45.54.430-01.46.01.209 	they get out and walk towards wilson's garage, where a crowd has gathered.
 1038_The_Great_Gatsby_02.03.14.895-02.03.23.378 	later, police and photographers are gathered around the pool.
 1039_The_Queen_00.11.06.803-00.11.14.928 	numerous television reporters are gathered in front of a hotel opposite an entrance with a revolving door.
 1039_The_Queen_00.19.28.447-00.19.32.113 	people are gathering with shocked and anguished expressions on their faces.
 1039_The_Queen_01.03.56.815-01.04.04.540 	more footage shows members of the public gathered around an arrangement of candles on the ground.
 1039_The_Queen_01.19.25.205-01.19.31.303 	black cars drive up to the palace and past crowds of people gathered behind barriers.
 1040_The_Ugly_Truth_00.52.14.847-00.52.20.036 	executives are gathered in a restaurant.
+1044_Pride_And_Prejudice_Disk_Two_00.17.39.421-00.17.45.128 	the horse-drawn carriage pulls away from the parsemage, gathering speed along the country road.
 1044_Pride_And_Prejudice_Disk_Two_00.59.24.483-00.59.35.647 	a number of guests are gathered in the drawing room to listen, including mr. bingley, the gardiners, louisa hurst, and miss bingley, who has a sour look on her face.
 1047_Defiance_00.30.20.366-00.30.22.725 	he and zus gather up their armory of guns and run.
+1047_Defiance_01.01.15.590-01.01.20.889 	he beckons to asael across the dark narrow street where the people have gathered.
 1048_Gran_Torino_00.09.59.467-00.10.01.024 	looks across at his neighbor and their friends gathered in the garden.
-1048_Gran_Torino_00.10.48.968-00.10.50.680 	the extended family gather before the elder, kor khue.
+1048_Gran_Torino_00.49.34.859-00.49.37.615 	where the younger generations of hmongs have gathered.
 1048_Gran_Torino_01.49.03.877-01.49.05.838 	at the church, a large number of mourners have gathered for the funeral service.
 1048_Gran_Torino_01.49.57.019-01.49.59.221 	the family are gathered for the reading of the will.
+1049_Harry_Potter_and_the_chamber_of_secrets_01.54.03.602-01.54.12.111 	harry and ron hide in the second floor corridor where the teachers are gathering.
 1049_Harry_Potter_and_the_chamber_of_secrets_02.26.35.400-02.26.37.100 	everyone is gathered in the great hall.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.21.50.436-00.21.52.850 	the others gather round.
-1051_Harry_Potter_and_the_goblet_of_fire_01.14.49.442-01.14.56.652 	excited students gather in the entrance to the great hall.
 1051_Harry_Potter_and_the_goblet_of_fire_01.52.00.525-01.52.05.225 	they gather around dumbledore.
 1055_Marley_and_me_00.13.51.000-00.13.52.669 	there's a patrol car and people gathered on the street.
 1055_Marley_and_me_01.29.37.636-01.29.39.185 	the children are gathered together at a window.
@@ -100,21 +105,6 @@
 1060_Yes_man_00.32.12.589-00.32.16.859 	a crowd has gathered to watch him.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.22.16.000-01.22.21.236 	they gather to form a patronus in the shape of a beautiful silver doe.
 1062_Day_the_Earth_stood_still_00.17.36.567-00.17.40.916 	as people gather and stare up in horror.
-1062_Day_the_Earth_stood_still_00.20.04.593-00.20.18.870 	the gathered crowds stare up at the pulsating sphere which is hundreds of feet high.
-1062_Day_the_Earth_stood_still_01.22.27.000-01.22.31.000 	she gathers up her belongings including her phone and checks her watch.
-2004_Juno_01.15.23.458-01.15.25.037 	after a beat, she begins to gather herself.
-2012_Unbreakable_01.20.42.962-01.20.45.542 	he takes a couple of deep breaths as he gathers himself.
-2017_Bad_Santa_00.06.47.208-00.06.50.611 	marcus pushes the cart through the store, gathering an odd array of items that range from furs to gowns to shoes to makeup.
-2026_Legion_01.08.48.915-01.08.50.636 	kyle swoops down and gathers the boy into his arms.
-1055_Marley_and_me_00.13.51.000-00.13.52.669 	there's a patrol car and people gathered on the street.
-1055_Marley_and_me_01.29.37.636-01.29.39.185 	the children are gathered together at a window.
-1055_Marley_and_me_01.51.47.000-01.51.52.842 	he looks again and sees his family, gathered together, sipping hot drinks.
-1058_The_Damned_united_01.01.37.000-01.01.41.000 	everyone gathered in the candlelit room turns to look at peter.
-1059_The_devil_wears_prada_01.32.46.000-01.32.50.000 	they had gathered in a plush banqueting suite with chandeliers hanging from the ceiling.
-1060_Yes_man_00.32.12.589-00.32.16.859 	a crowd has gathered to watch him.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.22.16.000-01.22.21.236 	they gather to form a patronus in the shape of a beautiful silver doe.
-1062_Day_the_Earth_stood_still_00.17.36.567-00.17.40.916 	as people gather and stare up in horror.
-1062_Day_the_Earth_stood_still_00.20.04.593-00.20.18.870 	the gathered crowds stare up at the pulsating sphere which is hundreds of feet high.
 1062_Day_the_Earth_stood_still_01.22.27.000-01.22.31.000 	she gathers up her belongings including her phone and checks her watch.
 2004_Juno_01.15.23.458-01.15.25.037 	after a beat, she begins to gather herself.
 2012_Unbreakable_01.20.42.962-01.20.45.542 	he takes a couple of deep breaths as he gathers himself.
@@ -124,4 +114,4 @@
 2034_Super_8_01.21.53.084-01.21.54.139 	the boys gather their wits -- lights flashing hauntingly.
 2051_Harry_Potter_and_the_goblet_of_fire_00.06.06.723-00.06.22.176 	they walk across the field and we see there's a massive crowd gathered and cheering, tents are set up all over.
 2051_Harry_Potter_and_the_goblet_of_fire_00.55.43.537-00.55.51.840 	the champions gather around him in a circle.
-2054_Harry_Potter_and_the_prisoner_of_azkaban_00.31.55.220-00.31.59.722 	students gather around hagrid as harry, ron and hermione arrive.
+2051_Harry_Potter_and_the_goblet_of_fire_02.21.11.765-02.21.23.659 	there's a large crowd gathered, the pupils are going home.

@@ -1,35 +1,24 @@
-0001_American_Beauty_00.32.44.070-00.32.44.794 	Christy has wandered off.
-0008_Fargo_00.13.23.155-00.13.30.779 	Jerry wanders through the service area where cars are being worked on.
-0011_Gandhi_00.12.10.646-00.12.20.939 	It is flat and dull, like someone reading a speech to themselves, and those in the crowd who had hesitated before wandering off shrug and continue on their way.
-0011_Gandhi_00.56.45.722-00.56.46.291 	Patel has wandered back toward the others, his mind already on them.
-0014_Ist_das_Leben_nicht_schoen_01.58.36.807-01.58.39.240 	George wandering like a lost soul among the tombstones, Clarence trotting at his heels.
-0016_O_Brother_Where_Art_Thou_00.34.26.260-00.34.27.905 	In bovine ignorance of the conventions of high-speed police pursuit, some of the cows have wandered up onto the road.
-0017_Pianist_00.18.14.966-00.18.22.829 	She wanders on.
-0017_Pianist_00.43.26.567-00.43.30.472 	Szpilman is wandering around, occasionally greeting people.
-0017_Pianist_00.43.53.658-00.43.56.996 	The woman with child wanders off to another group.
-0017_Pianist_00.52.26.435-00.52.27.989 	He wanders forlornly down the street, passing empty buildings with their doors open, windows smashed.
-0017_Pianist_00.56.08.010-00.56.11.687 	The German policemen wander over to one of the stalls to buy fruit.
-0030_The_Hustler_00.39.18.633-00.39.26.001 	Eddie wanders over to a table next to Sarah's and sits down.
-0032_The_Princess_Bride_00.52.11.382-00.52.14.296 	She wanders down a corridor in Florin Castle.
-0053_Rendezvous_mit_Joe_Black_00.45.26.997-00.45.33.351 	Susan is swimming laps, looking very professional in a black Speedo suit, Joe wanders in, still licking his peanut butter.
-1001_Flight_01.05.51.240-01.05.55.209 	Whip watches as reporters and officials wander around the wreckage.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.41.00.102-01.41.04.493 	They wander through the Room of Requirement.
-1003_How_to_Lose_Friends_and_Alienate_People_00.05.53.659-00.05.57.275 	Britney wanders out of the lift.
-1004_Juno_00.17.55.617-00.18.01.875 	Juno wanders into the lobby and steps up to the counter.
-1005_Signs_01.08.21.545-01.08.24.907 	He wanders off, leaving Merrill alone with Morgan and Bo.
-1005_Signs_01.31.52.995-01.32.03.369 	Bo follows her father and then wanders out into the hallway as Graham carries Morgan through the dining room and into the living room, staring at the broken planks across the windows.
-1006_Slumdog_Millionaire_00.50.38.050-00.50.46.449 	Jamal wanders the teeming streets of Mumbai by day, and by night.
-1008_Spider-Man2_00.43.59.736-00.44.03.475 	with not a scratch on him, peter wanders out of the building.
+0001_American_Beauty_00.32.44.070-00.32.44.794 	christy has wandered off.
+0011_Gandhi_00.12.10.646-00.12.20.939 	it is flat and dull, like someone reading a speech to themselves, and those in the crowd who had hesitated before wandering off shrug and continue on their way.
+0011_Gandhi_00.56.45.722-00.56.46.291 	patel has wandered back toward the others, his mind already on them.
+0014_Ist_das_Leben_nicht_schoen_01.58.36.807-01.58.39.240 	george wandering like a lost soul among the tombstones, clarence trotting at his heels.
+0016_O_Brother_Where_Art_Thou_00.34.26.260-00.34.27.905 	in bovine ignorance of the conventions of high-speed police pursuit, some of the cows have wandered up onto the road.
+0017_Pianist_00.18.14.966-00.18.22.829 	she wanders on.
+0017_Pianist_00.43.26.567-00.43.30.472 	szpilman is wandering around, occasionally greeting people.
+0017_Pianist_00.52.26.435-00.52.27.989 	he wanders forlornly down the street, passing empty buildings with their doors open, windows smashed.
+0017_Pianist_00.56.08.010-00.56.11.687 	the german policemen wander over to one of the stalls to buy fruit.
+0021_Rear_Window_01.17.05.971-01.17.06.971 	doyle hesitates a moment, and lets his eyes wander, to.
+0032_The_Princess_Bride_00.52.11.382-00.52.14.296 	she wanders down a corridor in florin castle.
+1001_Flight_01.05.51.240-01.05.55.209 	whip watches as reporters and officials wander around the wreckage.
+1002_Harry_Potter_and_the_Half-Blood_Prince_01.41.00.102-01.41.04.493 	they wander through the room of requirement.
+1005_Signs_01.08.21.545-01.08.24.907 	he wanders off, leaving merrill alone with morgan and bo.
+1005_Signs_01.31.52.995-01.32.03.369 	bo follows her father and then wanders out into the hallway as graham carries morgan through the dining room and into the living room, staring at the broken planks across the windows.
 1010_TITANIC_01.51.02.024-01.51.04.088 	rose stops andrews as he wanders past.
 1011_The_Help_00.16.28.485-00.16.32.474 	she wanders across to aibileen, who is clearing up.
-1011_The_Help_01.11.31.065-01.11.39.167 	later, skeeter wanders into the holbrook's kitchen and finds yule mae by the sink.
-1011_The_Help_01.42.25.958-01.42.29.327 	celia wanders unsteadily into the powder room.
-1014_2012_01.34.39.579-01.34.45.650 	kate, in a parka, wanders over to him.
 1015_27_Dresses_00.27.53.230-00.28.07.707 	jane switches on the light in the living room, its empty and she wanders anxiously up and down, then picks up a magazine from the couch, sits in a chair, thumbs through it distractedly.
 1015_27_Dresses_01.31.41.803-01.31.52.993 	back at her apartment, she is idly brushing her teeth when she wanders out of the bathroom and catches sight of the closet full of dresses.
 1017_Bad_Santa_00.01.13.260-00.01.17.760 	a few people wander down the street, clutching gifts for their loved ones.
 1017_Bad_Santa_00.15.55.698-00.15.58.825 	she wanders away as willie winds back through his phone messages.
-1017_Bad_Santa_00.34.39.766-00.34.43.235 	later, marcus wanders through a restaurant in the mall sipping a coke.
 1017_Bad_Santa_00.59.34.611-00.59.39.875 	the boy wanders off and santa scratches his own ass.
 1018_Body_Of_Lies_01.30.33.846-01.30.35.311 	a group of men wander past, watching.
 1019_Confessions_Of_A_Shopaholic_00.12.51.046-00.12.56.709 	she wanders along the sun-bleached pavement beneath two huge fashion posters on her way back to the office.
@@ -37,48 +26,21 @@
 1019_Confessions_Of_A_Shopaholic_01.21.30.167-01.21.35.518 	rebecca, wandering along a wintry lake shore, is a tiny dot in the distance.
 1020_Crazy_Stupid_Love_01.34.06.522-01.34.07.592 	she turns and wanders away, jacob follows.
 1027_Les_Miserables_00.07.25.345-00.07.30.256 	he wanders through a churchyard and lies down by the church.
-1028_No_Reservations_01.12.37.751-01.12.39.669 	wearing pajamas, kate wanders down the hallway towards a dull, flickering light emanating from the lounge.
+1028_No_Reservations_00.37.47.252-00.37.48.955 	she shakes her head dismissively and wanders off.
 1029_Pride_And_Prejudice_Disk_One_02.13.46.400-02.13.52.067 	she wanders past post and rail fencing surrounding an old oak tree, idly toying with a leafy twig.
 1029_Pride_And_Prejudice_Disk_One_02.13.52.400-02.13.58.067 	as she reaches the grounds of longbourn, she tosses the twig away and wanders up the graveled driveway to the house.
 1029_Pride_And_Prejudice_Disk_One_02.38.31.861-02.38.34.238 	she wanders through the adjoining room, lost in thought.
 1030_Public_Enemies_00.08.19.873-00.08.27.292 	together, they wander a few steps without taking their eyes off of him.
 1033_Sherlock_Holmes_A_Game_of_Shadows_00.52.46.557-00.52.53.754 	outside, he wanders over to a rough looking bloke leaning against a wall.
 1033_Sherlock_Holmes_A_Game_of_Shadows_01.18.13.186-01.18.23.179 	holmes continues to wander through the machine room and comes to another metal door with a glass window in it.
-1034_Super_8_01.09.51.007-01.09.54.774 	joe wanders through the hanger looking for jack.
-1037_The_Curious_Case_Of_Benjamin_Button_02.18.12.401-02.18.15.585 	her brow furrowed and her face gaunt, daisy watches as caroline wanders out into the corridor.
-1038_The_Great_Gatsby_00.24.44.995-00.24.45.731 	nick wanders about, smiling.
-1040_The_Ugly_Truth_01.18.33.120-01.18.36.472 	mike wanders off with his hands in his pockets.
-1043_Vantage_Point_01.18.47.228-01.18.53.697 	anna wanders into the road as the ambulance approaches.
-1044_Pride_And_Prejudice_Disk_Two_00.08.11.686-00.08.15.256 	lizzy wanders over to the breakfast table.
 1044_Pride_And_Prejudice_Disk_Two_01.34.25.993-01.34.29.343 	mr. darcy is wandering through a cobbled street, bustling with people and horses.
-1044_Pride_And_Prejudice_Disk_Two_01.38.31.945-01.38.39.073 	she gets up off the bed and wanders over to the window.
-1045_An_education_01.01.20.585-01.01.30.435 	jenny and david in film stars sunglasses wander among booksellers on the banks of the seine.
-1046_Australia_01.14.46.155-01.14.56.350 	she hesitates, then wanders through the long grass.
-1047_Defiance_01.17.51.915-01.17.53.842 	lilka wanders into a frosty dell.
-1047_Defiance_01.35.00.491-01.35.11.406 	tuvia treads through the softening snow, and wanders off into the hazy sunshine.
+1046_Australia_01.19.04.963-01.19.08.990 	the women in the salon watch in wonder as a calf wanders past the window.
 1048_Gran_Torino_00.06.16.082-00.06.23.750 	he spits and wanders away.
 1048_Gran_Torino_00.50.32.171-00.50.35.803 	satisfied it's ok, he begins to wander across the basement.
 1048_Gran_Torino_00.52.10.749-00.52.14.835 	she wanders off and he stares after her.
 1048_Gran_Torino_00.56.55.781-00.56.59.230 	walt leaves him to it and wanders off towards his garage.
-1048_Gran_Torino_01.01.01.000-01.01.06.418 	thao wanders down off the porch.
-1048_Gran_Torino_01.22.51.725-01.22.55.789 	walt wanders off, frowning.
-1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.55.42.893-00.55.47.952 	harry wanders along a curved corridor.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.25.04.627-01.25.19.725 	wearing winter clothes, they wander down a deserted street.
-1052_Harry_Potter_and_the_order_of_phoenix_00.42.29.147-00.42.36.364 	harry wanders alone through the forbidden forest.
-1058_The_Damned_united_01.00.02.000-01.00.10.100 	shaking his head in disbelief, brian wanders down to longson, then hurls his tracksuit top on the table.
 1058_The_Damned_united_01.24.15.526-01.24.26.000 	still sat in his chair, brooding introspectively, brian glances over at the tv crew who wander out of the cavernous studio as the lights go out.
-1058_The_Damned_united_01.26.06.000-01.26.10.000 	peter's wandering among the shrubs and plants in his front garden.
-1058_The_Damned_united_01.30.12.417-01.30.19.000 	peter and brian wander into the house.
-1059_The_devil_wears_prada_01.09.14.000-01.09.24.000 	back at home, nate wanders out of the bedroom and finds andy looking through some of her old articles and photographs, including one of her with her parents.
-1060_Yes_man_00.56.23.636-00.56.28.499 	hand-in-hand, carl and allison wander beneath the domed archway that covers the stage.
 2004_Juno_00.56.54.709-00.56.57.497 	the other kids wander over toward the play area while their mothers ignore them.
-2026_Legion_01.05.58.978-01.05.59.037 	bob wanders in, squinting at the sudden presence of light.
-1058_The_Damned_united_01.00.02.000-01.00.10.100 	shaking his head in disbelief, brian wanders down to longson, then hurls his tracksuit top on the table.
-1058_The_Damned_united_01.24.15.526-01.24.26.000 	still sat in his chair, brooding introspectively, brian glances over at the tv crew who wander out of the cavernous studio as the lights go out.
-1058_The_Damned_united_01.26.06.000-01.26.10.000 	peter's wandering among the shrubs and plants in his front garden.
-1058_The_Damned_united_01.30.12.417-01.30.19.000 	peter and brian wander into the house.
-1059_The_devil_wears_prada_01.09.14.000-01.09.24.000 	back at home, nate wanders out of the bedroom and finds andy looking through some of her old articles and photographs, including one of her with her parents.
-1060_Yes_man_00.56.23.636-00.56.28.499 	hand-in-hand, carl and allison wander beneath the domed archway that covers the stage.
-2004_Juno_00.56.54.709-00.56.57.497 	the other kids wander over toward the play area while their mothers ignore them.
-2026_Legion_01.05.58.978-01.05.59.037 	bob wanders in, squinting at the sudden presence of light.
 2051_Harry_Potter_and_the_goblet_of_fire_00.01.53.142-00.02.10.764 	the old man is wandering up to the house carrying a lit torch.
+2054_Harry_Potter_and_the_prisoner_of_azkaban_01.08.06.315-01.08.11.001 	as harry's eyes wander, lupin snaps his fingers, brings his attention back.

@@ -1,19 +1,4 @@
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS672 	01:41:45,00 --> 01:41:51,50 	then cranes in fast for a kiss.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS408 	00:38:23,00 --> 00:38:34,50 	leaning out from hiding and craning his neck, the young agent peers up at the hotel.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS933 	01:30:42,00 --> 01:30:49,50 	someone wrings her hands and cranes her neck.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS426 	01:00:16,00 --> 01:00:23,50 	craning her neck, tubman regards the newcomers with a furrowed brow.
-CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS490 	01:52:31,00 --> 01:52:38,50 	seated fans crane for a look.
-CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS555 	02:10:16,00 --> 02:10:27,50 	dozens of spectators stand, craning for a look.
-KARATE_KID.srt 	KARATE_KID_DVS413 	00:37:44,00 --> 00:37:53,50 	with a smile, she stands beside him and joins him in craning her head back to take in the doors' full height.
-KARATE_KID.srt 	KARATE_KID_DVS1136 	01:34:30,00 --> 01:34:37,50 	craning his neck, the boy watches someone's parents proudly greet her.
 KARATE_KID.srt 	KARATE_KID_DVS1539 	02:04:37,00 --> 02:04:45,50 	in the stands, someone cranes her neck for a view of her son, as the spectators cheer him on.
-NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS252 	00:52:33,00 --> 00:52:52,50 	someone cranes her neck to watch.
-SALT.srt 	SALT_DVS546 	01:34:05,00 --> 01:34:23,50 	craning his neck, he looks pass her to the fbi agents.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS950 	01:01:40,00 --> 01:01:47,50 	the butcher lowers the blanket and cranes his face close to the boy's.
-SPARKLE_2012.srt 	SPARKLE_2012_DVS415 	01:09:26,00 --> 01:09:31,50 	someone cranes his neck to look at him.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS376 	01:12:59,00 --> 01:13:06,50 	then slips her hands in her pockets and cranes her neck for a view up the street.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS230 	00:45:41,00 --> 00:45:46,50 	she cranes her lips close to his.
-THE_WATCH.srt 	THE_WATCH_DVS184 	00:33:06,00 --> 00:33:12,50 	he pushes faster and cranes his neck trying for a look at the creature.
-THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS356 	01:04:39,00 --> 01:04:51,50 	back at the cia field office, someone's three colleagues crane their necks to watch.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS233 	00:39:17,00 --> 00:39:23,50 	as she climbs down, he cranes his neck to peer after her.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS576 	00:54:22,00 --> 00:54:29,50 	craning his neck, someone looks down at the road and sees soldiers guarding a roadblock up ahead.

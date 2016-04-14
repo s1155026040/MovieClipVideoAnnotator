@@ -1,15 +1,16 @@
-0006_Clerks_00.01.43.289-00.01.43.352 	DANTE grabs the dog and wrestles it.
-0009_Forrest_Gump_00.24.35.547-00.24.36.979 	Some men wrestle the shooter.
-0023_THE_BUTTERFLY_EFFECT_00.10.25.845-00.10.32.934 	Jason wrestles the baton from under his chin, hits an orderly in the kneecap and comes for Evan with the baton!
-0026_The_Big_Fish_00.57.35.154-00.57.36.191 	Edward wrestles with the beast, its mouth snapping at his throat.
-0027_The_Big_Lebowski_00.36.33.564-00.36.34.319 	The car rocks and the Dude wrestles with the wheel.
-0027_The_Big_Lebowski_01.12.58.759-01.13.00.979 	He wrestles the crowbar away from the startled Walter.
-0032_The_Princess_Bride_01.30.40.914-01.30.41.891 	HUMPERDINCK, and now be starts wrestling mightily with his bonds.
-1002_Harry_Potter_and_the_Half-Blood_Prince_02.06.48.635-02.06.50.207 	He wrestles free.
+0006_Clerks_00.01.43.289-00.01.43.352 	dante grabs the dog and wrestles it.
+0009_Forrest_Gump_00.24.35.547-00.24.36.979 	some men wrestle the shooter.
+0014_Ist_das_Leben_nicht_schoen_01.56.21.753-01.56.25.186 	george dashes out of the house and down the street, as bert grapples with clarence, and they fall to the ground, wrestling.
+0023_THE_BUTTERFLY_EFFECT_00.10.25.845-00.10.32.934 	jason wrestles the baton from under his chin, hits an orderly in the kneecap and comes for evan with the baton!
+0027_The_Big_Lebowski_00.36.33.564-00.36.34.319 	the car rocks and the dude wrestles with the wheel.
+0027_The_Big_Lebowski_01.12.58.759-01.13.00.979 	he wrestles the crowbar away from the startled walter.
+0032_The_Princess_Bride_00.26.46.287-00.26.50.596 	there is a moment's pause, and then the man in black dives at fezzik's chest, slams him several tremendous blows in the stomach, twists his arm severely, slips skillfully into a beautifully applied bear hug, and in general makes any number of terrific wrestling moves.
+0032_The_Princess_Bride_01.30.40.914-01.30.41.891 	humperdinck, and now be starts wrestling mightily with his bonds.
+1002_Harry_Potter_and_the_Half-Blood_Prince_02.06.48.635-02.06.50.207 	he wrestles free.
 1009_Spider-Man3_00.22.41.794-00.22.43.955 	he wrestles the dog off and punches it away.
-1010_TITANIC_01.08.36.950-01.08.42.373 	tommy and bjorn arm wrestle as others cheer.
 1015_27_Dresses_00.11.55.242-00.12.02.070 	at her apartment jane is wrestling the evening's dresses into a closet filled to bursting with a colorful riot of party gowns.
 1019_Confessions_Of_A_Shopaholic_00.58.20.104-00.58.24.027 	she holds the now smaller block onto the floor and wrestles with it.
+1020_Crazy_Stupid_Love_01.31.53.079-01.31.55.900 	all four guys wrestle.
 1029_Pride_And_Prejudice_Disk_One_00.49.53.860-00.49.59.045 	she's playing with a dog, trying to wrestle a stick from its mouth.
 1031_Quantum_of_Solace_00.31.37.924-00.31.42.945 	the gunman wrestles with his weapon.
 1035_The_Adjustment_Bureau_00.23.32.507-00.23.37.500 	as he struggles, they wrestle him to the floor and flip him on his back, holding him down.
@@ -17,9 +18,7 @@
 1047_Defiance_00.23.45.299-00.23.49.482 	tuvia grabs him from behind and wrestles him to the ground.
 1049_Harry_Potter_and_the_chamber_of_secrets_00.26.27.014-00.26.29.351 	they both wrestle with the gear stick.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.38.32.183-01.38.34.303 	he wrestles with the chain as it drags him back.
-1055_Marley_and_me_01.04.42.226-01.04.46.301 	she's trying to wrestle a book away from him.
-1055_Marley_and_me_01.47.35.000-01.47.37.000 	patrick grins, watching as his father tries to wrestle the nappy off the dog.
-2004_Juno_00.56.31.965-00.56.35.495 	she wrestles leah for the pretzel.
+1051_Harry_Potter_and_the_goblet_of_fire_00.10.59.927-00.11.10.267 	wrestled away from hermione and the others, harry dodges through the panicking crowd.
 1055_Marley_and_me_01.04.42.226-01.04.46.301 	she's trying to wrestle a book away from him.
 1055_Marley_and_me_01.47.35.000-01.47.37.000 	patrick grins, watching as his father tries to wrestle the nappy off the dog.
 2004_Juno_00.56.31.965-00.56.35.495 	she wrestles leah for the pretzel.

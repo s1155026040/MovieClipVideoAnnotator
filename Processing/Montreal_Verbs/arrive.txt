@@ -4,22 +4,15 @@
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS331 	00:55:02,00 --> 00:55:07,50 	someone arrives as they bump fists.
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS361 	01:00:00,00 --> 01:00:08,50 	now in a humble house, the three nerds play music as someone arrives with energy drinks.
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS405 	01:08:37,00 --> 01:08:48,50 	now, someone's maroon sedan arrives at a highway underpass where the biker gang, the one-percenter's awaits the young dealer and his friend.
-21_JUMP_STREET.srt 	21_JUMP_STREET_DVS505 	01:19:33,00 --> 01:19:43,50 	as someone turns to leave, someone arrives in his maroon sedan accompanied by his dark haired friend.
-30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS160 	00:42:01,00 --> 00:42:09,50 	as he reaches the other side, someone arrives at the start of the bridge and stops to catch his breath.
 30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS235 	00:56:11,00 --> 00:56:19,50 	as someone's car arrives, someone grabs the garbage back from atop the mustang's trunk.
-30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS314 	01:10:53,00 --> 01:11:00,50 	now our view rises from a heap of crushed cars to reveal the mustang arriving in the scrapyard.
 40_YEAR_OLD_VIRGIN.srt 	40_YEAR_OLD_VIRGIN_DVS16 	00:03:35,00 --> 00:03:45,50 	a tattooed stock guy, someone, arrives.
 500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS147 	00:28:01,00 --> 00:28:09,50 	they arrive at a kitchen display.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS162 	00:14:51,00 --> 00:14:57,50 	as the sedans arrive at the military checkpoint.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS334 	00:29:47,00 --> 00:29:55,50 	below, a police cruiser arrives at the crash site.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS396 	00:36:06,00 --> 00:36:11,50 	as they arrive in a shadowy market with closed doors, someone brings someone to a bench.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS670 	01:09:00,00 --> 01:09:06,50 	an armed man in a ski mask arrives, and someone aims.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS730 	01:13:34,00 --> 01:13:40,50 	someone unfolds the frame and puts them on, as he arrives at someone's body.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS173 	00:23:25,00 --> 00:23:31,50 	someone stares admiringly at someone as someone arrives.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS188 	00:25:36,00 --> 00:25:42,50 	arriving, stibble kicks it away and strikes him.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS362 	00:51:35,00 --> 00:51:40,50 	now a carriage arrives at a building.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS411 	00:59:10,00 --> 00:59:17,50 	later, the raft arrives at a shore facing a stately brick church.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS494 	01:09:11,00 --> 01:09:18,50 	looking past someone, someone finds someone arriving in the doorway dressed in mourning.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS535 	01:15:46,00 --> 01:15:53,50 	she keeps her melancholy gaze averted as someone arrives.
 BAD_TEACHER.srt 	BAD_TEACHER_DVS38 	00:13:01,00 --> 00:13:08,50 	someone arrives.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS135 	00:20:11,00 --> 00:20:15,50 	a taxi van arrives.
@@ -31,7 +24,6 @@ BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS619 	01:
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS631 	01:37:29,00 --> 01:37:36,50 	someone arrives.
 BLINDDATING.srt 	BLINDDATING_DVS288 	01:11:57,00 --> 01:12:13,50 	someone arrives outside the glass pane door.
 BLINDDATING.srt 	BLINDDATING_DVS349 	01:23:30,00 --> 01:23:36,50 	meanwhile, the bus arrives at a terminal.
-BRUNO.srt 	BRUNO_DVS157 	00:43:28,00 --> 00:43:44,50 	a flashback shows the cardboard box arriving at the baggage claim carousel.
 BURLESQUE.srt 	BURLESQUE_DVS451 	01:01:37,00 --> 01:01:42,50 	someone arrives at someone's side.
 BURLESQUE.srt 	BURLESQUE_DVS468 	01:04:41,00 --> 01:04:46,50 	his eyes open as someone arrives home.
 BURLESQUE.srt 	BURLESQUE_DVS482 	01:06:59,00 --> 01:07:07,50 	someone arrives.
@@ -40,41 +32,25 @@ BURLESQUE.srt 	BURLESQUE_DVS523 	01:11:58,00 --> 01:12:02,50 	someone arrives at
 BURLESQUE.srt 	BURLESQUE_DVS552 	01:19:58,00 --> 01:20:04,50 	now someone arrives home in a red clingy dress.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS545 	00:52:58,00 --> 00:53:04,50 	now, he arrives home and slides to a stop in his dirt driveway.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS554 	00:53:27,00 --> 00:53:32,50 	now his mom arrives home from work.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS721 	01:12:04,00 --> 01:12:09,50 	now at a section of the school overlooking the ocean, someone arrives with friends and joins a group.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS729 	01:12:28,00 --> 01:12:35,50 	arriving with his skateboard, someone finds blond lounging in the pool with the kid in a hunter's cap,
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS763 	01:16:18,00 --> 01:16:23,50 	passing arriving mourners, the teen spots his mentor across the street.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS764 	01:16:21,00 --> 01:16:25,50 	someone arrives in a dark green jeep.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS966 	01:34:46,00 --> 01:34:51,50 	someone arrives at someone's side and crouches.
 CHRONICLE.srt 	CHRONICLE_DVS383 	00:58:31,00 --> 00:58:35,50 	someone arrives.
 CHRONICLE.srt 	CHRONICLE_DVS454 	01:06:44,00 --> 01:06:52,50 	later, they arrive near a crowd.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS450 	01:46:26,00 --> 01:46:38,50 	arriving patrons wave to him.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS526 	02:03:44,00 --> 02:03:49,50 	someone arrives.
-COLOMBIANA.srt 	COLOMBIANA_DVS176 	00:15:32,00 --> 00:15:38,50 	she climbs up as the beefy thug arrives in the alley.
 COLOMBIANA.srt 	COLOMBIANA_DVS271 	00:22:37,00 --> 00:22:43,50 	a tall shadowy figure arrives on the other side of her.
 COLOMBIANA.srt 	COLOMBIANA_DVS274 	00:22:52,00 --> 00:22:57,50 	someone arrives before her.
 COLOMBIANA.srt 	COLOMBIANA_DVS289 	00:24:06,00 --> 00:24:13,50 	later, she arrives at a kitchen and pauses, her fingers lightly drumming her thigh.
-COLOMBIANA.srt 	COLOMBIANA_DVS438 	00:38:42,00 --> 00:39:00,50 	as she climbs, the officers arrive on the rooftop.
-COLOMBIANA.srt 	COLOMBIANA_DVS446 	00:39:23,00 --> 00:39:30,50 	she starts to reach up but withdraws her hand as an officer arrives above her.
 COLOMBIANA.srt 	COLOMBIANA_DVS455 	00:40:03,00 --> 00:40:10,50 	the heavyset female officer arrives with someone warren and his men.
 COLOMBIANA.srt 	COLOMBIANA_DVS510 	00:46:13,00 --> 00:46:18,50 	someone arrives at his side and leans against a pillar.
-COLOMBIANA.srt 	COLOMBIANA_DVS546 	00:50:07,00 --> 00:50:14,50 	arriving at a door, he takes out his keys before noticing that it's ajar.
-COLOMBIANA.srt 	COLOMBIANA_DVS808 	01:18:28,00 --> 01:18:35,50 	a surveillance feed shows the swat truck arriving outside.
-COLOMBIANA.srt 	COLOMBIANA_DVS819 	01:19:14,00 --> 01:19:21,50 	someone reaches a stairwell and descends just as the elevator arrives.
 COLOMBIANA.srt 	COLOMBIANA_DVS823 	01:19:31,00 --> 01:19:37,50 	agent someone arrives in another corridor with more gunmen.
-COLOMBIANA.srt 	COLOMBIANA_DVS862 	01:22:07,00 --> 01:22:15,50 	arriving at another vent cover, she sets her rifle aside and unscrews the grating with her finger.
 COLOMBIANA.srt 	COLOMBIANA_DVS871 	01:22:57,00 --> 01:23:04,50 	a swat humvee arrives in the garage with its lights flashing, trailed by two police cruisers.
 COLOMBIANA.srt 	COLOMBIANA_DVS873 	01:23:04,00 --> 01:23:11,50 	meanwhile, someone arrives in a changing room and checks a set of lockers.
 COLOMBIANA.srt 	COLOMBIANA_DVS879 	01:23:24,00 --> 01:23:29,50 	later, she arrives at someone's house.
 COLOMBIANA.srt 	COLOMBIANA_DVS904 	01:25:11,00 --> 01:25:16,50 	now he arrives in a modest apartment.
-COLOMBIANA.srt 	COLOMBIANA_DVS939 	01:30:47,00 --> 01:30:54,50 	someone arrives in pepe's garage and slides a pair of chain link doors open.
-COLOMBIANA.srt 	COLOMBIANA_DVS950 	01:31:32,00 --> 01:31:37,50 	he arrives at a door and passes through.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS138 	00:22:28,00 --> 00:22:41,50 	at the sun dappled construction site, someone arrives to find him working at the top of a ladder.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS337 	00:51:37,00 --> 00:51:47,50 	a stylish brunette woman in a white dress, crosses the front porch of a colonial plantation home, and greets arriving guests as she passes.
-DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS98 	00:23:38,00 --> 00:23:46,50 	someone arrives home and finds someone already there.
 DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS258 	01:02:19,00 --> 01:02:24,50 	someone arrives at the salubrious brunch venue.
 DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS265 	01:04:15,00 --> 01:04:19,50 	someone arrives with someone.
 DISTRICT_9.srt 	DISTRICT_9_DVS796 	01:34:19,00 --> 01:34:24,50 	meanwhile, someone arrives at the command module's door.
-DISTRICT_9.srt 	DISTRICT_9_DVS827 	01:37:37,00 --> 01:37:42,50 	someone arrives behind it, his rifle raised.
 EASY_A.srt 	EASY_A_DVS70 	00:25:18,00 --> 00:25:31,50 	he arrives at the penderghast front door and knocks.
 FLIGHT.srt 	FLIGHT_DVS131 	00:25:40,00 --> 00:25:46,50 	as people in white robes help the passengers, a fire engine arrives.
 FLIGHT.srt 	FLIGHT_DVS934 	01:50:35,00 --> 01:50:40,50 	someone arrives, a bag slung over his shoulder.
@@ -91,26 +67,18 @@ GREEN_ZONE.srt 	GREEN_ZONE_DVS298 	01:08:18,00 --> 01:08:22,50 	someone arrives.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS334 	01:15:26,00 --> 01:15:46,50 	someone glances at it then arrives at the two-story cement ticketing kiosk.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS453 	01:39:47,00 --> 01:39:51,50 	palace, reports swarm someone as he arrives.
 GROWN_UPS.srt 	GROWN_UPS_DVS210 	00:57:50,00 --> 00:57:54,50 	someone arrives.
-IN_TIME.srt 	IN_TIME_DVS38 	00:04:20,00 --> 00:04:31,50 	arriving outside a factory, someone goes to a coffee cart with the drink prices listed digitally in minutes and seconds.
-IN_TIME.srt 	IN_TIME_DVS52 	00:05:45,00 --> 00:05:53,50 	now, he arrives at a harshly lit doorway where a sign overhead reads beer/wine.
-IN_TIME.srt 	IN_TIME_DVS87 	00:09:38,00 --> 00:09:44,50 	climbing after his companion, someone drops down on the other side as the car arrives.
-IN_TIME.srt 	IN_TIME_DVS425 	00:45:43,00 --> 00:45:52,50 	the roadster turns out to a quiet road, forcing an arriving timekeeper car to veer to one side.
 IN_TIME.srt 	IN_TIME_DVS450 	00:48:29,00 --> 00:48:34,50 	someone and his men arrive.
 IN_TIME.srt 	IN_TIME_DVS740 	01:18:28,00 --> 01:18:36,50 	someone arrives as well.
-IN_TIME.srt 	IN_TIME_DVS757 	01:20:07,00 --> 01:20:13,50 	the bus pulls away, revealing someone as he arrives at the curb.
-INSIDE_MAN.srt 	INSIDE_MAN_DVS29 	00:06:42,00 --> 00:06:54,50 	a customer opens the door for the arriving painters.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS490 	01:28:11,00 --> 01:28:21,50 	later, someone and two men arrive at the lab.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS319 	01:31:13,00 --> 01:31:17,50 	someone arrives.
 JACK_AND_JILL.srt 	JACK_AND_JILL_DVS142 	00:29:14,00 --> 00:29:20,50 	that evening, someone arrives home in his silver cadillac escalade.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS226 	00:42:24,00 --> 00:42:32,50 	later, someone greets arriving guests.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS535 	01:46:04,00 --> 01:46:08,50 	someone arrives.
-JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS13 	00:02:51,00 --> 00:02:58,50 	the frowning beauty arrives beside someone and accidentally drops her purse.
 JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS31 	00:07:14,00 --> 00:07:18,50 	someone's cousin arrives.
 JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS132 	00:47:06,00 --> 00:47:15,50 	beyond a large reflecting pool in the lobby, the family arrives.
 JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS195 	01:09:25,00 --> 01:09:36,50 	as he arrives, someone feeds him the cookie and tousles his wet hair.
 JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS321 	01:42:14,00 --> 01:42:18,50 	someone arrives nearby.
 KARATE_KID.srt 	KARATE_KID_DVS239 	00:20:49,00 --> 00:20:56,50 	now, the parkers arrive at a building marked with a red, five-pointed star.
-KARATE_KID.srt 	KARATE_KID_DVS930 	01:16:19,00 --> 01:16:28,50 	later, they arrive at a stairway leading down to a footbridge.
 KARATE_KID.srt 	KARATE_KID_DVS1078 	01:28:23,00 --> 01:28:38,50 	now, they arrive at a vendor selling fried insects on sticks.
 KARATE_KID.srt 	KARATE_KID_DVS1112 	01:32:26,00 --> 01:32:33,50 	someone arrives on the stage, kneels, and removes her violin from its case.
 KARATE_KID.srt 	KARATE_KID_DVS1497 	02:01:40,00 --> 02:01:47,50 	the boy drapes an arm over his eyes as they arrive at his side.
@@ -121,7 +89,6 @@ LIFE_OF_PI.srt 	LIFE_OF_PI_DVS647 	01:09:17,00 --> 01:09:22,50 	someone arrives 
 LITTLE_FOCKERS.srt 	LITTLE_FOCKERS_DVS103 	00:41:10,00 --> 00:41:15,50 	later, someone arrives at home.
 LITTLE_FOCKERS.srt 	LITTLE_FOCKERS_DVS198 	01:11:52,00 --> 01:11:59,50 	meanwhile, someone's car arrives out front.
 LITTLE_FOCKERS.srt 	LITTLE_FOCKERS_DVS208 	01:15:01,00 --> 01:15:13,50 	as someone arrives out back, someone's hand slaps down on the pit's rim.
-MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS112 	00:17:58,00 --> 00:18:04,50 	later, someone arrives at home and makes a call.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS234 	00:34:03,00 --> 00:34:10,50 	his kids arrive.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS356 	00:45:00,00 --> 00:45:06,50 	later, a taxi arrives at someone's apartment building.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS516 	01:01:41,00 --> 01:01:47,50 	as someone arrives, nimrod tumbles down a slide covering the stairs.
@@ -132,7 +99,6 @@ PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS245 	00:57:28,00 --> 00:57:32,50 	th
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS276 	01:05:30,00 --> 01:05:36,50 	now as they arrive home someone storms out and meets them on the porch.
 PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS42 	00:07:30,00 --> 00:07:35,50 	someone arrives at a white brick apartment building.
 PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS184 	00:43:14,00 --> 00:43:22,50 	now they arrive at an open-air home similar to the boathouse, decked out with gauzy drapes and burning candles.
-PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS193 	00:47:05,00 --> 00:47:16,50 	a breeze blows dead leaves across the store's parking lot as the teens arrive.
 PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS208 	00:53:13,00 --> 00:53:26,50 	as someone arrives nearby it catches her reflection.
 PROMETHEUS.srt 	PROMETHEUS_DVS188 	00:13:02,00 --> 00:13:07,50 	someone arrives outside her door.
 PROMETHEUS.srt 	PROMETHEUS_DVS202 	00:14:16,00 --> 00:14:21,50 	in a sleek, high-collared suit, the blond arrives.
@@ -140,20 +106,16 @@ PROMETHEUS.srt 	PROMETHEUS_DVS368 	00:36:08,00 --> 00:36:16,50 	the others arriv
 PROMETHEUS.srt 	PROMETHEUS_DVS635 	01:09:01,00 --> 01:09:07,50 	the rest of the away team arrives at the chamber with the bust.
 PROMETHEUS.srt 	PROMETHEUS_DVS710 	01:15:24,00 --> 01:15:29,50 	someone cradles holloway as he arrives.
 PROMETHEUS.srt 	PROMETHEUS_DVS753 	01:21:18,00 --> 01:21:26,50 	someone arrives in the room housing vickers' med pod.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS83 	00:13:54,00 --> 00:14:07,50 	he sees an arriving police car and backs into a recess by a set of double doors.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS90 	00:14:53,00 --> 00:14:59,50 	another police car arrives down the block.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS301 	00:56:18,00 --> 00:56:27,50 	as arriving lawmen lead someone inside, cameras flash.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS493 	01:33:21,00 --> 01:33:26,50 	he arrives and riddles someone with bullets.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS637 	01:59:52,00 --> 02:00:03,50 	behind him, a man arrives with two blonde women, one of them in a conspicuous orange skirt.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS78 	00:21:06,00 --> 00:21:12,50 	a physician arrives.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS118 	00:30:36,00 --> 00:30:42,50 	friar turns as someone arrives and faces a second clergyman.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS216 	00:51:40,00 --> 00:51:44,50 	they arrive onto a grassy hillside.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS217 	00:51:47,00 --> 00:51:52,50 	as they arrive at the village of modest straw roofed huts
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS322 	01:18:28,00 --> 01:18:31,50 	archers arrive.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS328 	01:20:00,00 --> 01:20:08,50 	now, someone arrives in a windblown field
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS337 	01:22:48,00 --> 01:22:57,50 	now, a hooded rider arrives at the edge of nottingham.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS338 	01:22:55,00 --> 01:23:06,50 	later, as he arrives at a blacksmith's forge, a glimpse beneath his hood reveals him as someone's goateed accomplice.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS447 	01:51:24,00 --> 01:51:29,50 	someone sees a cart arriving, pulled by her clydesdales.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS524 	02:10:35,00 --> 02:10:45,50 	they arrive at a makeshift village of straw roofs and stick walled huts deep in the forest.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS308 	00:49:03,00 --> 00:49:10,50 	now with the convertible's top up, the couple arrives at a wooden gate.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS428 	01:06:02,00 --> 01:06:08,50 	hand in hand, they arrive at a crowded street corner.
@@ -168,41 +130,23 @@ SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS900 	00:58:55,00 --> 00:59:01,50 	now, he 
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1058 	01:11:12,00 --> 01:11:18,50 	someone arrives at a table and points at its occupant.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1215 	01:21:47,00 --> 01:21:52,50 	someone arrives.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1232 	01:22:41,00 --> 01:22:48,50 	a servant arrives with a tray of refreshments and serves the newcomers.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1259 	01:25:04,00 --> 01:25:13,50 	they pass rows of frosted glass windows, then arrive at an apartment with shoddily whitewashed brick walls.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS186 	00:36:23,00 --> 00:36:29,50 	two nypd cruisers arrive on the scene.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS272 	00:54:56,00 --> 00:55:02,50 	someone obeys his arriving master.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS335 	01:10:19,00 --> 01:10:24,50 	someone arrives.
-SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS404 	01:24:30,00 --> 01:24:36,50 	someone arrives and looks around.
-SOUL_SURFER.srt 	SOUL_SURFER_DVS191 	01:00:39,00 --> 01:00:45,50 	someone arrives, turns in a form and takes a gray t-shirt.
-SPARKLE_2012.srt 	SPARKLE_2012_DVS549 	01:30:23,00 --> 01:30:30,50 	arriving at columbia records, she crosses to the desk of the blonde haired receptionist.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS625 	01:40:55,00 --> 01:40:59,50 	someone arrives with a dress.
-SUPER_8.srt 	SUPER_8_DVS439 	01:18:33,00 --> 01:18:39,50 	still wearing the uniform, someone arrives at the evacuation hangar.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS31 	00:06:32,00 --> 00:06:37,50 	a dark haired faculty member arrives.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS78 	00:17:44,00 --> 00:17:49,50 	the next day he arrives at school and opens the doors which have been decorated with paper snowflakes.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS141 	00:31:23,00 --> 00:31:27,50 	someone arrives.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS277 	00:53:03,00 --> 00:53:08,50 	now, someone arrives at the school office.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS358 	01:11:11,00 --> 01:11:17,50 	now they arrive at her deserted apartment.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS162 	00:32:59,00 --> 00:33:15,50 	the hulking goateed guy, someone, arrives sporting two black eyes and a gash across his nose he heads inside and lumbers to the rear.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS163 	00:33:12,00 --> 00:33:23,50 	as he arrives at a desk, an aging blonde swivels to face him.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS320 	00:58:14,00 --> 00:58:25,50 	someone arrives on the other side and finds no sign of the gunman.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS370 	01:08:46,00 --> 01:08:51,50 	a chubby man arrives.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS29 	00:05:44,00 --> 00:05:52,50 	the car arrives at a house.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS85 	00:15:41,00 --> 00:15:49,50 	behind his daughter, a muscular, blond man arrives at the bar with some friends.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS119 	00:20:20,00 --> 00:20:25,50 	now, someone and his daughters arrive at home.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS189 	00:30:13,00 --> 00:30:20,50 	arriving at a two-story house, he passes a little brown goat on his way up the driveway.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS190 	00:30:17,00 --> 00:30:25,50 	through a window in a cluttered kitchen, we watch him arrive at a door where he lets himself in.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS224 	00:35:09,00 --> 00:35:15,50 	someone arrives at the cul-de-sac leading to his driveway.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS296 	00:45:11,00 --> 00:45:19,50 	in the hospital, a pair of windowed doors show someone arriving with his daughters in tow.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS399 	01:00:23,00 --> 01:00:29,50 	the jeep arrives at a hotel, driving past a fountain near the entrance.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS463 	01:09:00,00 --> 01:09:06,50 	he arrives at the hedge and ducks behind it near the gap.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS65 	00:05:06,00 --> 00:05:13,50 	inside, he arrives at a suite door bearing the same title.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS68 	00:05:29,00 --> 00:05:35,50 	a staffer arrives, but the woman sends him away with a gesture.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS73 	00:06:21,00 --> 00:06:27,50 	outside, a woman wearing a helmet arrives on a motorcycle.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS427 	00:51:23,00 --> 00:51:31,50 	at dusk someone takes a drag off a cigarette as she arrives outside an apartment building.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS750 	01:24:46,00 --> 01:24:54,50 	someone arrives on her motorcycle.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS910 	01:41:33,00 --> 01:41:42,50 	now someone arrives at an industrial complex on her motorcycle and turns through a gate marked with a stately letter v.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1062 	01:52:37,00 --> 01:52:44,50 	later, arriving in another room he pauses and stares past a glass cabinet displaying an impressive wine collection.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1070 	01:53:05,00 --> 01:53:08,50 	turning, he spots the suv arriving outside.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1382 	02:28:07,00 --> 02:28:14,50 	arriving just as a sleek bullet train glides up.
 THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS44 	00:10:25,00 --> 00:10:31,50 	they both arrive at the montclair mature singles club,
 THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS211 	01:08:47,00 --> 01:08:52,50 	they arrive at caesars palace.
@@ -210,34 +154,22 @@ THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS263 	01:27:38,00 --> 01:27:47,50 	listenin
 THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS265 	01:41:44,00 --> 01:41:49,50 	someone arrives at facebook headquarters.
 THE_VOW.srt 	THE_VOW_DVS183 	00:20:05,00 --> 00:20:13,50 	now, he arrives in the recovery ward with a tote bag and strides cheerfully to someones curtained off bed.
 THE_VOW.srt 	THE_VOW_DVS200 	00:24:16,00 --> 00:24:21,50 	her doctor arrives.
-THE_VOW.srt 	THE_VOW_DVS304 	00:38:59,00 --> 00:39:07,50 	someone arrives wearing a classy, contemporary dress and a half sleeved cardigan.
-THE_VOW.srt 	THE_VOW_DVS546 	01:14:47,00 --> 01:14:56,50 	reaching the edge of the party, he arrives at a crenelated terrace, overlooking the citys distant gleaming skyline.
-THE_WATCH.srt 	THE_WATCH_DVS20 	00:03:20,00 --> 00:03:26,50 	as the manager closes up, a chubby security guard arrives.
 THE_WATCH.srt 	THE_WATCH_DVS218 	00:41:43,00 --> 00:41:49,50 	now, someone's crossover arrives back at home.
 THE_WATCH.srt 	THE_WATCH_DVS552 	01:35:11,00 --> 01:35:16,50 	emergency vehicles arrive.
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS69 	00:18:04,00 --> 00:18:08,50 	someone arrives.
-THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS113 	00:33:16,00 --> 00:33:22,50 	later, someone arrives at home to find it completely redecorated.
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS285 	01:16:21,00 --> 01:16:26,50 	someone arrives bearing a covered tray.
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS341 	01:24:25,00 --> 01:24:35,50 	someone's lips part in a lustful look as her eyes trail after the arriving car.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS140 	00:17:37,00 --> 00:17:46,50 	someone arrives in a blue satin tunic and tights.
-TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS864 	01:31:49,00 --> 01:31:56,50 	the boy arrives at center stage and raises his strumming hand to the guitar strings.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS497 	01:04:05,00 --> 01:04:14,50 	a taxi arrives.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS519 	01:08:25,00 --> 01:08:29,50 	someone arrives.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS20 	00:03:28,00 --> 00:03:32,50 	they arrive at school.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS313 	00:50:45,00 --> 00:50:55,50 	outside, someone joins someone and someone as they wait to greet the 	arriving pickup.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS408 	01:04:15,00 --> 01:04:20,50 	he arrives at his brother's desk.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS515 	01:19:34,00 --> 01:19:38,50 	someone arrives.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS680 	01:39:17,00 --> 01:39:23,50 	now, someone arrives at someone's enclosure and opens the gate.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS321 	00:45:43,00 --> 00:45:48,50 	later, someone arrives at a restaurant.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS379 	00:54:47,00 --> 00:54:53,50 	someone arrives in the gifted dress, clutching a purse to her chest.
-WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS706 	01:35:35,00 --> 01:35:41,50 	the hatchback arrives and gets stuck behind traffic.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS713 	01:36:03,00 --> 01:36:11,50 	cameras flash as the paparazzi clamors for shots of a couple arriving on a red carpet.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS176 	00:14:01,00 --> 00:14:08,50 	in a european city, someone arrives at an austere building.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS223 	00:17:06,00 --> 00:17:10,50 	the women arrive.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS226 	00:17:17,00 --> 00:17:23,50 	its patrons take notice as the women arrive behind them.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS578 	00:54:34,00 --> 00:54:40,50 	they arrive at the roadblock and a soldier approaches.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS765 	01:08:46,00 --> 01:08:55,50 	he arrives at a world map highlighting the united states and soviet union, then points out the strategic location.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS784 	01:10:00,00 --> 01:10:06,50 	now a black car arrives outside the devastated research facility.
-YOUNG_ADULT.srt 	YOUNG_ADULT_DVS29 	00:03:13,00 --> 00:03:17,50 	it reads "look who's arrived.
-ZOMBIELAND.srt 	ZOMBIELAND_DVS73 	00:06:11,00 --> 00:06:17,50 	he climbs in and locks it just as the zombies arrive.
-ZOOKEEPER.srt 	ZOOKEEPER_DVS413 	01:30:34,00 --> 01:30:39,50 	support beams to find the kayak arriving below.

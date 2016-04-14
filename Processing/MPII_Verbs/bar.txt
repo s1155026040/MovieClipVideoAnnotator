@@ -1,22 +1,9 @@
-0008_Fargo_01.12.20.784-01.12.22.089 	the wooden gate barring the exit has been broken away.
-0011_Gandhi_02.26.19.739-02.26.21.061 	gandhi sits by the window that is grilled rather than barred.
-0017_Pianist_00.18.05.996-00.18.08.359 	suddenly, a woman appears in front of them, barring their way.
 0017_Pianist_00.32.27.357-00.32.29.398 	then, suddenly, a woman bars his way.
-0017_Pianist_01.28.51.846-01.28.54.872 	another woman tries to bar his way but he pushes past her and out of the house.
 0020_Raising_Arizona_00.07.07.545-00.07.09.721 	behind the barred window a fat cashier grins.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.49.28.244-00.49.30.184 	a thick hedge surrounds the village.a great gate bars the western entrance.
-0030_The_Hustler_02.01.49.709-02.01.50.739 	a uniformed policeman bars eddie's entrance.
 1005_Signs_01.40.13.450-01.40.16.117 	white pillow plumped up against the barred metal headboard.
 1007_Spider-Man1_00.02.02.454-00.02.04.475 	a sharp featured head, more like a mask, with long pointed ears, a humped nose, barred teeth and the jutting jaw.
-1030_Public_Enemies_00.04.08.163-00.04.10.851 	the officer points his own shotgun through the barred door.
-1030_Public_Enemies_00.50.24.775-00.50.29.565 	he paces forward and leans tensely on a rail attaching the cell bars one to the next.
-1030_Public_Enemies_01.01.20.283-01.01.24.950 	carrying a mop and bucket, he crosses a hallway and waits for another guard to open another barred door.
-1031_Quantum_of_Solace_00.11.01.807-00.11.04.249 	bond chases his man down a watery tunnel, but a gate bars his way.
 1035_The_Adjustment_Bureau_01.28.42.297-01.28.45.390 	in the courthouse ladies room david braces a mop handle behind a radiator barring the door.
 1037_The_Curious_Case_Of_Benjamin_Button_00.29.11.670-00.29.13.096 	he bares his teeth at three children in the whites-only section of the tram.
-1046_Australia_02.06.14.573-02.06.18.832 	as the bomb obliterates the radio shack, king george looks out through the barred window of his cell.
 1047_Defiance_01.18.37.603-01.18.39.603 	the dog bares its teeth.
 1051_Harry_Potter_and_the_goblet_of_fire_00.49.23.085-00.49.26.672 	they bar harry's way.
-1051_Harry_Potter_and_the_goblet_of_fire_00.59.11.530-00.59.15.296 	it lunges after him, baring its teeth.
 1053_Harry_Potter_and_the_philosophers_stone_02.01.25.855-02.01.28.689 	fierce warriors bar their way with drawn swords.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.26.27.794-00.26.30.687 	they reach a locked, barred gate.

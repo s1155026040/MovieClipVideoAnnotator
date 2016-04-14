@@ -1,7 +1,4 @@
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS520 	00:50:25,00 --> 00:50:30,50 	the remaining thugs pelt it with bullets.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS719 	01:14:51,00 --> 01:14:57,50 	the fluttering silver creatures pelt his exposed torso.
-PROMETHEUS.srt 	PROMETHEUS_DVS461 	00:48:47,00 --> 00:48:55,50 	later, the storm continues to pelt someone.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS204 	00:29:37,00 --> 00:29:45,50 	one thug sinks to the floor as champagne corks pelt him in the chest.
 THE_WATCH.srt 	THE_WATCH_DVS153 	00:29:33,00 --> 00:29:38,50 	raw eggs pelt their faces.
-THOR.srt 	THOR_DVS573 	01:29:08,00 --> 01:29:15,50 	the winds intensify, pelting the destroyer with chunks of concrete and flying cars.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS747 	01:47:03,00 --> 01:47:17,50 	by a fence, raindrops pelt two full water bowls.

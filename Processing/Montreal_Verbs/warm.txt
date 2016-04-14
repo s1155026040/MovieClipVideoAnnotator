@@ -1,4 +1,2 @@
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS656 	01:03:48,00 --> 01:03:55,50 	as someone steps away, someone warms his hands under his arms and shifts his thoughtful gaze.
-CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS62 	00:11:50,00 --> 00:11:58,50 	wearing a floppy cap, someone warms his hands over one fire then stuffs them in his pockets and walks off.
 JACK_AND_JILL.srt 	JACK_AND_JILL_DVS186 	00:36:49,00 --> 00:36:55,50 	now at the staples center, the lakers and the kings warm up.
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS174 	00:43:21,00 --> 00:43:26,50 	on a baseball field two teams warm up.

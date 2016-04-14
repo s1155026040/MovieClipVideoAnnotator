@@ -1,6 +1,1 @@
-COLOMBIANA.srt 	COLOMBIANA_DVS809 	01:18:39,00 --> 01:18:44,50 	she drops her cell and rummages through a drawer.
-PROMETHEUS.srt 	PROMETHEUS_DVS1047 	01:54:18,00 --> 01:54:23,50 	crouching at the android's body she rummages around and finds her cross.
-SANCTUM.srt 	SANCTUM_DVS490 	01:30:43,00 --> 01:30:50,50 	someone sets down his bag and someone rummages through it, finding a bag of food.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS591 	01:05:18,00 --> 01:05:24,50 	someone chucks her cigarette away then rummages in her bag.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS254 	00:41:53,00 --> 00:41:58,50 	she rummages through supplies.
-YOUNG_ADULT.srt 	YOUNG_ADULT_DVS54 	00:07:37,00 --> 00:07:44,50 	someone rummages through dresser drawers and plastic bins then opens a cardboard box.

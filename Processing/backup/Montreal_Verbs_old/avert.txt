@@ -1,0 +1,77 @@
+A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS170 	00:15:25,00 --> 00:15:30,50 	the old man averts his gaze and faces the courtroom.
+ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS535 	01:15:46,00 --> 01:15:53,50 	she keeps her melancholy gaze averted as someone arrives.
+BAD_TEACHER.srt 	BAD_TEACHER_DVS256 	01:09:29,00 --> 01:09:35,50 	someone nods, averting his gaze.
+BAD_TEACHER.srt 	BAD_TEACHER_DVS264 	01:11:07,00 --> 01:11:12,50 	chase averts her gaze.
+BAD_TEACHER.srt 	BAD_TEACHER_DVS320 	01:26:10,00 --> 01:26:16,50 	she averts her dejected gaze.
+BRUNO.srt 	BRUNO_DVS86 	00:18:27,00 --> 00:18:34,50 	someone averts his eyes.
+BRUNO.srt 	BRUNO_DVS132 	00:31:25,00 --> 00:31:31,50 	both of the men avert their gaze.
+BURLESQUE.srt 	BURLESQUE_DVS292 	00:40:21,00 --> 00:40:26,50 	someone averts her eyes.
+BURLESQUE.srt 	BURLESQUE_DVS322 	00:44:31,00 --> 00:44:35,50 	averting his gaze, someone shakes his head.
+CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS725 	01:12:17,00 --> 01:12:22,50 	her smile fades and she averts her gaze.
+COLOMBIANA.srt 	COLOMBIANA_DVS208 	00:17:57,00 --> 00:18:03,50 	as someone averts her gaze, the american leans closer.
+DEAR_JOHN.srt 	DEAR_JOHN_DVS342 	00:52:52,00 --> 00:52:57,50 	someone takes the drink and averts his gaze.
+DEAR_JOHN.srt 	DEAR_JOHN_DVS399 	01:01:28,00 --> 01:01:35,50 	with his eyes averted, mr.
+FLIGHT.srt 	FLIGHT_DVS149 	00:27:21,00 --> 00:27:27,50 	someone averts his gaze from the screen, and notices a man in the room.
+FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS52 	00:14:12,00 --> 00:14:17,50 	someone's chewing slows and he averts his
+GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS59 	00:10:02,00 --> 00:10:08,50 	she averts her flirtatious gaze and sips a cup of coffee.
+GREEN_ZONE.srt 	GREEN_ZONE_DVS236 	00:57:59,00 --> 00:58:10,50 	as the civilian averts his gaze and fidgets, the detainee eyes them nervously.
+IN_TIME.srt 	IN_TIME_DVS481 	00:52:16,00 --> 00:52:21,50 	greta averts her tearful gaze.
+IN_TIME.srt 	IN_TIME_DVS559 	01:00:02,00 --> 01:00:06,50 	she averts her eyes.
+ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS26 	00:07:30,00 --> 00:07:40,50 	she averts her dejected gaze, then shakes her head dismissively, wipes the tears from her eyes, and resumes clearing the plates.
+ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS48 	00:13:01,00 --> 00:13:06,50 	someone averts his embarrassed gaze.
+KARATE_KID.srt 	KARATE_KID_DVS421 	00:38:19,00 --> 00:38:24,50 	someone averts his eyes.
+KARATE_KID.srt 	KARATE_KID_DVS564 	00:50:47,00 --> 00:50:53,50 	the winning student approaches his instructor, his eyes averted.
+KARATE_KID.srt 	KARATE_KID_DVS1296 	01:44:48,00 --> 01:44:53,50 	someone glumly averts his gaze.
+KARATE_KID.srt 	KARATE_KID_DVS1507 	02:02:29,00 --> 02:02:34,50 	someone averts his gaze and blinks thoughtfully.
+KARATE_KID.srt 	KARATE_KID_DVS1596 	02:10:09,00 --> 02:10:20,50 	a hand to her brow, someone briefly averts her anguished gaze.
+LARRY_CROWNE.srt 	LARRY_CROWNE_DVS104 	00:25:06,00 --> 00:25:17,50 	with her eyes averted, she grabs her bag off the table and strides to the back of the classroom.
+LARRY_CROWNE.srt 	LARRY_CROWNE_DVS333 	01:16:50,00 --> 01:16:54,50 	someone averts his gaze.
+LIFE_OF_PI.srt 	LIFE_OF_PI_DVS94 	00:10:00,00 --> 00:10:04,50 	the writer averts his eyes.
+NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS334 	01:13:34,00 --> 01:13:40,50 	someone averts his heartbroken gaze, then furrows his brow.
+PROMETHEUS.srt 	PROMETHEUS_DVS853 	01:33:40,00 --> 01:33:46,50 	she approaches him and he averts his gaze.
+PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS593 	01:51:09,00 --> 01:51:16,50 	someone averts her gaze.
+PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS679 	02:07:19,00 --> 02:07:34,50 	polly averts her gaze.
+ROBIN_HOOD.srt 	ROBIN_HOOD_DVS153 	00:38:16,00 --> 00:38:35,50 	someone's french mistress averts her gaze and reaches for the prince's hand.
+ROBIN_HOOD.srt 	ROBIN_HOOD_DVS237 	00:54:42,00 --> 00:54:46,50 	someone averts her gaze.
+RUBY_SPARKS.srt 	RUBY_SPARKS_DVS236 	00:36:20,00 --> 00:36:26,50 	someone's brother averts his worried gaze.
+RUBY_SPARKS.srt 	RUBY_SPARKS_DVS489 	01:14:46,00 --> 01:14:51,50 	he stares at her then averts his gaze.
+RUBY_SPARKS.srt 	RUBY_SPARKS_DVS492 	01:15:30,00 --> 01:15:34,50 	someone averts his gaze.
+SANCTUM.srt 	SANCTUM_DVS506 	01:34:48,00 --> 01:34:58,50 	someone averts his gaze, giving a dumbfounded shake of his head.
+SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS328 	00:22:24,00 --> 00:22:31,50 	the privileged young woman gives her friend a sly smile and averts her gaze.
+SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS420 	00:28:10,00 --> 00:28:16,50 	with his eyes averted from his wife, he takes a sip of tea.
+SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS476 	00:31:15,00 --> 00:31:21,50 	someone blinks, then averts her heartbroken gaze.
+SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1238 	01:23:09,00 --> 01:23:14,50 	someone averts her wounded gaze and stands.
+SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1289 	01:28:46,00 --> 01:28:51,50 	someone stares at her, then averts his stricken gaze.
+SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1363 	01:33:16,00 --> 01:33:20,50 	someone averts her gaze.
+SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS98 	00:19:44,00 --> 00:19:49,50 	he averts his bashful gaze.
+SPARKLE_2012.srt 	SPARKLE_2012_DVS570 	01:33:52,00 --> 01:33:59,50 	averting her cold gaze, someone gives a careless gesture and steps away from the open door.
+THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS33 	00:06:47,00 --> 00:07:07,50 	someone averts his gaze from hers as he gets milk from the fridge.
+THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS177 	00:35:51,00 --> 00:35:56,50 	someone blinks over her smile and averts her gaze.
+THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS235 	00:45:37,00 --> 00:45:44,50 	he averts his gaze.
+THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS238 	00:46:20,00 --> 00:46:27,50 	she averts her gaze as someone stares crestfallen, someone leans toward him.
+THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS276 	00:52:58,00 --> 00:53:02,50 	someone averts his head.
+THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS394 	01:15:39,00 --> 01:15:58,50 	someone briefly averts her gaze then flashes a wan smile.
+THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS327 	00:50:52,00 --> 00:50:57,50 	someone points to someone, who guiltily averts her gaze.
+THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS323 	00:39:32,00 --> 00:39:36,50 	he averts his gaze.
+THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS383 	00:46:21,00 --> 00:46:28,50 	someone straightens in her chair her gaze still averted, and lowers his zipper.
+THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS822 	01:34:10,00 --> 01:34:20,50 	someone averts his gaze as they resume their descent.
+THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1289 	02:15:53,00 --> 02:15:58,50 	she averts her gaze and he puts it away.
+THE_SITTER.srt 	THE_SITTER_DVS100 	00:54:07,00 --> 00:54:11,50 	someone averts her bashful gaze.
+THE_SITTER.srt 	THE_SITTER_DVS129 	01:09:59,00 --> 01:10:04,50 	she averts her eyes as he watches her.
+THE_SITTER.srt 	THE_SITTER_DVS136 	01:10:55,00 --> 01:11:02,50 	shrugging a sad smile, she averts her gaze.
+THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS269 	01:42:15,00 --> 01:42:22,50 	the lawyer averts his gaze.
+THE_VOW.srt 	THE_VOW_DVS211 	00:27:06,00 --> 00:27:12,50 	someone averts her surprised, slack-jawed gaze.
+THE_VOW.srt 	THE_VOW_DVS327 	00:43:51,00 --> 00:43:57,50 	someone waves at a blonde, who averts her gaze.
+THE_VOW.srt 	THE_VOW_DVS352 	00:48:32,00 --> 00:48:37,50 	averting her gaze, someone nods disappointedly.
+THE_VOW.srt 	THE_VOW_DVS411 	00:57:19,00 --> 00:57:26,50 	someone averts his considerate gaze, shakes his head and shifts on his feet.
+THE_VOW.srt 	THE_VOW_DVS574 	01:20:01,00 --> 01:20:06,50 	someone averts her regretful gaze.
+THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS29 	00:06:36,00 --> 00:06:41,50 	the woman averts her gloomy gaze.
+THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS190 	00:46:02,00 --> 00:46:08,50 	averting her gaze, she takes a sip, then returns the drink.
+THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS411 	01:36:06,00 --> 01:36:14,50 	he uncomfortably averts his eyes, then opens the driver's side door and a businessman climbs out.
+TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS627 	01:09:21,00 --> 01:09:28,50 	his coach swaggers closer and averts his eyes, then whirls to face someone.
+WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS168 	00:29:19,00 --> 00:29:23,50 	someone shyly averts his gaze.
+WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS221 	00:28:21,00 --> 00:28:26,50 	she steps closer, averting her gaze.
+XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS927 	01:25:34,00 --> 01:25:39,50 	she averts her outraged gaze.
+XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1326 	02:00:24,00 --> 02:00:29,50 	beast averts his gaze.
+ZOMBIELAND.srt 	ZOMBIELAND_DVS327 	00:37:10,00 --> 00:37:16,50 	someone averts her aim as well, setting her handgun in her lap.
+ZOOKEEPER.srt 	ZOOKEEPER_DVS157 	00:35:29,00 --> 00:35:35,50 	the wolf crosses to a nearby fence, averting his gaze.

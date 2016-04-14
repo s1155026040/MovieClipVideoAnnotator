@@ -1,10 +1,7 @@
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS134 	00:22:08,00 --> 00:22:14,50 	he drives toward someone who nimbly rolls over the hood and lands safely on the ground.
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS687 	01:43:11,00 --> 01:43:17,50 	a rolled $20 someone sucks up a line of coke.
-30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS56 	00:12:10,00 --> 00:12:19,50 	now in an apartment the shaggy-haired delivery guy grabs a rolling rock from a refrigerator, then enters the living room.
-30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS119 	00:31:25,00 --> 00:31:30,50 	someone rolls his eyes then sits on someone's couch.
 30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS236 	00:56:16,00 --> 00:56:25,50 	the black car rolls up and parks between an abandoned building and the railroad tracks, about 20 feet away from someone's car.
 30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS344 	01:15:59,00 --> 01:16:04,50 	he kneels at his friend's side and rolls him over.
-500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS202 	00:33:27,00 --> 00:33:41,50 	day 35 rolls forward to day 303, and the lift door opens revealing a despondent, disheveled someone.
 500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS205 	00:34:26,00 --> 00:34:34,50 	day 303 rolls back to day 45.
 500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS213 	00:37:47,00 --> 00:37:51,50 	he rolls up her sleeve.
 500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS318 	00:56:46,00 --> 00:56:54,50 	day 321 rolls back to day 167.
@@ -12,81 +9,50 @@
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS731 	01:13:38,00 --> 01:13:44,50 	with an aggressive kick, he rolls the body over and crouches beside it.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS884 	01:26:09,00 --> 01:26:15,50 	someone lands hard, rolling in shattered glass on the floor.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS179 	00:34:10,00 --> 00:34:15,50 	someone tilts back his head and rolls his eyes.
-A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS389 	01:08:43,00 --> 01:08:49,50 	someone lies motionless, as someone rolls him onto his back.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS52 	00:04:59,00 --> 00:05:06,50 	her eyes roll back.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS279 	00:39:58,00 --> 00:40:22,50 	he rolls to a stop and stands up to find himself facing the oncoming stampede.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS288 	00:41:53,00 --> 00:42:11,50 	rolling to a stop, he loses his ax.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS316 	00:45:57,00 --> 00:46:02,50 	someone's eyes roll back.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS320 	00:46:11,00 --> 00:46:17,50 	with his boot, someone rolls her on her back.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS470 	01:06:47,00 --> 01:06:55,50 	staring off, someone remembers his dying mother writhing as her eyes rolled back in her head.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS538 	01:16:10,00 --> 01:16:15,50 	she rolls her head to face him.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS47 	00:05:53,00 --> 00:05:58,50 	she rolls her eyes and leaves.
-BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS549 	01:25:25,00 --> 01:25:30,50 	as someone heads out, someone rolls his eyes.
-BLINDDATING.srt 	BLINDDATING_DVS278 	01:09:41,00 --> 01:10:00,50 	as he passes, his head rolls to the side in her direction.
 BURLESQUE.srt 	BURLESQUE_DVS160 	00:22:46,00 --> 00:22:51,50 	onstage, the nurses roll someone along in the chair.
 BURLESQUE.srt 	BURLESQUE_DVS283 	00:38:50,00 --> 00:38:54,50 	someone rolls her eyes.
-BURLESQUE.srt 	BURLESQUE_DVS555 	01:20:10,00 --> 01:20:15,50 	someone rolls her eyes resentfully and pulls the doors shut.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS136 	00:23:44,00 --> 00:23:50,50 	he pulls the pin and rolls the grenade onto the field full of recruits.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS234 	00:40:42,00 --> 00:41:09,50 	rolling from side to side, someone avoids the bullets but slips off the roof and clings to the cab's passenger side door.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS234 	00:40:42,00 --> 00:41:09,50 	the taxi flips and rolls over several times, losing a door and spilling someone onto the roadway.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS428 	01:17:42,00 --> 01:17:46,50 	someone stops and stares at someone, and rolls her eyes, and continues on.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS446 	01:20:09,00 --> 01:20:19,50 	dernier runs onto the road, rolls underneath the armored vehicle, and places a detonator on its frame.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS447 	01:20:17,00 --> 01:20:22,50 	dernier stands and plugs his ears as the tank rolls on.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS515 	01:32:46,00 --> 01:33:01,50 	an armored vehicle rolls out of the base's fortified entrance.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS606 	01:43:13,00 --> 01:43:32,50 	the two men roll across the energy mechanism in the center of the cockpit and spill onto the floor.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS60 	00:05:08,00 --> 00:05:13,50 	he rolls window down with a wry look.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS61 	00:05:25,00 --> 00:05:29,50 	he rolls ahead.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS89 	00:07:03,00 --> 00:07:09,50 	she rolls onto her back, one arm bent over her head.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS283 	00:21:34,00 --> 00:21:44,50 	someone reaches the foot of the wave, briefly vanishing from view within the rolling tides before he emerges to take more of the face.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS340 	00:31:54,00 --> 00:32:00,50 	now, a skateboard rolls over a sunlit speed bump.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS364 	00:34:32,00 --> 00:34:38,50 	someone stops paddling then rolls off his board and into the water.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS366 	00:34:37,00 --> 00:34:43,50 	the gently rolling current shows no sign of the boy.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS615 	00:59:05,00 --> 00:59:11,50 	someone rolls his eyes and faces someone whose smile vanishes.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS797 	01:18:58,00 --> 01:19:03,50 	she rolls over to face her son.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS928 	01:30:42,00 --> 01:30:49,50 	now, from overhead, we follow a giant wave as it rolls along the water toward the bluffs.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS940 	01:32:12,00 --> 01:32:20,50 	now, the sun shines brightly on a slate blue sea rolling beyond the meteorological complex.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS1017 	01:38:54,00 --> 01:39:02,50 	through his binoculars, someone watches a handful of surfers being rolled up into the wave.
-CHRONICLE.srt 	CHRONICLE_DVS295 	00:44:39,00 --> 00:44:45,50 	the ball drops and rolls along the rope after him.
-CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS164 	00:35:29,00 --> 00:35:36,50 	weakly rolls his head to face her.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS300 	01:12:07,00 --> 01:12:12,50 	sleeves rolled up, he cocks his head.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS330 	01:23:10,00 --> 01:23:20,50 	as baer glares back at his two scantily clad guests, the well-dressed man rolls his eyes.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS386 	01:33:47,00 --> 01:34:20,50 	his body rolls back with a lifeless gaze.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS518 	02:01:23,00 --> 02:01:36,50 	in the opposite corner, someone rolls his neck.
-COLOMBIANA.srt 	COLOMBIANA_DVS187 	00:16:25,00 --> 00:16:33,50 	as she casually strolls along, the sedan full of gunmen turns a corner and rolls up behind her.
 COLOMBIANA.srt 	COLOMBIANA_DVS365 	00:33:04,00 --> 00:33:10,50 	from beneath her skirt, she rolls down a pair of black leggings.
 COLOMBIANA.srt 	COLOMBIANA_DVS461 	00:40:25,00 --> 00:40:29,50 	someone's eyes open and she rolls over.
 COLOMBIANA.srt 	COLOMBIANA_DVS840 	01:20:40,00 --> 01:20:50,50 	a fire ball blossoms out from the unit and rolls down the hall.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS153 	00:24:23,00 --> 00:24:31,50 	upstairs someone rolls off the bed, then scrambles to a closet and shuts herself in.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS332 	00:51:18,00 --> 00:51:25,50 	someone glances at someone, rolls his eyes, then returns to the car.
-DISTRICT_9.srt 	DISTRICT_9_DVS463 	00:53:30,00 --> 00:53:45,50 	rolling up his sleeve, he places his alien arm on the block and raises the ax.
 EASY_A.srt 	EASY_A_DVS255 	01:17:08,00 --> 01:17:13,50 	he rolls it down.
-EASY_A.srt 	EASY_A_DVS256 	01:17:22,00 --> 01:17:27,50 	she cringes, rolling her eyes, then heads off.
-FLIGHT.srt 	FLIGHT_DVS611 	01:27:03,00 --> 01:27:09,50 	someone leans over the cessna, still wearing his tie, his shirtsleeves rolled up.
-FLIGHT.srt 	FLIGHT_DVS1148 	02:03:35,00 --> 02:03:41,50 	someone rolls his tongue, and looks briefly at someone and someone.
 FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS139 	00:37:09,00 --> 00:37:16,50 	their legs flail awkwardly under the covers as he rolls on top of her.
-FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS172 	00:47:34,00 --> 00:47:40,50 	someone rolls her eyes and looks away.
 GET_HIM_TO_THE_GREEK.srt 	GET_HIM_TO_THE_GREEK_DVS149 	01:25:49,00 --> 01:26:01,50 	she rolls toward the rocker.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS110 	00:18:08,00 --> 00:18:31,50 	someone's eyes shift upward and his head rolls to follow them.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS269 	00:42:05,00 --> 00:42:18,50 	nearby, the truck rolls to a stop.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS402 	00:59:17,00 --> 00:59:23,50 	he rolls on his back, his eyes morphing into hollow sockets.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS574 	01:22:26,00 --> 01:23:00,50 	the demon rolls over on top of him but the angel throws him into the air.
 GROWN_UPS.srt 	GROWN_UPS_DVS14 	00:05:19,00 --> 00:05:24,50 	outside a car rolls across the lawn.
 GROWN_UPS.srt 	GROWN_UPS_DVS300 	01:36:12,00 --> 01:36:18,50 	his eyes roll back and he faints.
 IN_TIME.srt 	IN_TIME_DVS47 	00:05:14,00 --> 00:05:24,50 	as he repeats the process, a complete portable time capsule rolls down a conveyor sporting the curved receptor at one end.
-IN_TIME.srt 	IN_TIME_DVS537 	00:57:54,00 --> 00:58:00,50 	as he rolls up his sleeve, someone puts her drink on the floor.
 IN_TIME.srt 	IN_TIME_DVS590 	01:03:08,00 --> 01:03:14,50 	a timekeeper's cruiser rolls up behind someone.
 IN_TIME.srt 	IN_TIME_DVS616 	01:05:58,00 --> 01:06:03,50 	the luxury vehicle rolls to a stop.
-IN_TIME.srt 	IN_TIME_DVS619 	01:06:08,00 --> 01:06:13,50 	the chauffeur rolls it down and gazes out.
-IN_TIME.srt 	IN_TIME_DVS801 	01:25:03,00 --> 01:25:08,50 	rolling up his shirt sleeve, he sits facing someone.
-IN_TIME.srt 	IN_TIME_DVS807 	01:25:52,00 --> 01:25:59,50 	he rolls up his sleeve and lays his arm on the table, showing his clock.
-INSIDE_MAN.srt 	INSIDE_MAN_DVS12 	00:04:21,00 --> 00:04:26,50 	now, the van rolls past pedestrians making their way
-INSIDE_MAN.srt 	INSIDE_MAN_DVS250 	01:17:00,00 --> 01:17:07,50 	she rolls her eyes, then unzips the coveralls revealing her full chest.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS256 	01:19:00,00 --> 01:19:09,50 	the detective rolls down his sleeve.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS312 	01:33:22,00 --> 01:33:33,50 	he activates a smoke bomb and rolls it into the hallway.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS358 	01:43:41,00 --> 01:43:46,50 	rolling his tongue in his mouth, someone eyes his note.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS180 	00:33:44,00 --> 00:34:06,50 	someone strikes the ground with his whips, as someone rolls out of the way, then spreads his legs as a whip lashes the asphalt inches from his groin.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS33 	00:08:34,00 --> 00:08:39,50 	in an office, they roll out the blueprint.
-ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS94 	00:27:54,00 --> 00:27:59,50 	someone stops the car and rolls down his window.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS112 	00:34:46,00 --> 00:34:52,50 	with their feet sticking out from under the blanket he rolls to her other side.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS144 	00:25:01,00 --> 00:25:06,50 	and someone tenderly rolls on top of her.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS373 	01:10:34,00 --> 01:10:39,50 	she rolls the paper into the device.
@@ -97,23 +63,13 @@ LARRY_CROWNE.srt 	LARRY_CROWNE_DVS116 	00:27:07,00 --> 00:27:11,50 	he rolls his
 LARRY_CROWNE.srt 	LARRY_CROWNE_DVS129 	00:30:09,00 --> 00:30:14,50 	someone rolls her eyes.
 LARRY_CROWNE.srt 	LARRY_CROWNE_DVS237 	00:56:17,00 --> 00:56:22,50 	someone rolls her eyes at him.
 LARRY_CROWNE.srt 	LARRY_CROWNE_DVS256 	01:01:33,00 --> 01:01:37,50 	he rolls his eyes.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS275 	00:36:50,00 --> 00:36:57,50 	someone quickly pulls himself into his bunk as his mother rolls over.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS340 	00:41:33,00 --> 00:41:41,50 	peering into the seemingly endless expanse of rolling waves, someone spots a figure in the water.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS352 	00:42:46,00 --> 00:42:54,50 	the wave briefly rolls him as it passes by.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS380 	00:45:22,00 --> 00:45:33,50 	the next day a seemingly endless expanse of choppy waves roll beneath a low ceiling of storm clouds.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS384 	00:45:46,00 --> 00:45:54,50 	glancing down at it, someone struggles his way to the canvas covered bow and rolls over on top of the beam.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS438 	00:50:19,00 --> 00:50:28,50 	on a gently rolling current, someone sits in the makeshift seat at the boats prow, hugging the life preserver.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS478 	00:53:41,00 --> 00:53:47,50 	he tries to climb on top of the raft but it rolls under his weight.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS479 	00:53:48,00 --> 00:53:55,50 	later, the boy persists as the bundle of life jackets loosens and rolls beneath his grasp.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS521 	00:57:06,00 --> 00:57:16,50 	as the boat and raft float of gently rolling waves, the clouds gradually blot out the moonlight leaving the boy and tiger in darkness.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS854 	01:26:23,00 --> 01:26:29,50 	he lies over the journal and rolls the half inch stub between his fingers.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS865 	01:27:08,00 --> 01:27:14,50 	he falls forward and rolls off the canvas into the turbulent water.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS906 	01:31:03,00 --> 01:31:08,50 	the rolling ocean settles from the storm.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS1014 	01:39:14,00 --> 01:39:18,50 	someone rolls over in his hammock.
-MORNING_GLORY.srt 	MORNING_GLORY_DVS110 	00:24:54,00 --> 00:25:00,50 	someone rolls his eyes sardonically as he turns to camera.
 MORNING_GLORY.srt 	MORNING_GLORY_DVS205 	00:47:03,00 --> 00:47:11,50 	they roll over the back of the couch onto it.
-MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS57 	00:09:17,00 --> 00:09:22,50 	he sits beside his daughter who rolls her eyes.
-MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS218 	00:31:31,00 --> 00:31:40,50 	as stinky's tail feathers rise and fall on nimrod's face, the bird tries to shake them away, but rolls off the bed.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS245 	00:35:43,00 --> 00:35:48,50 	the ball rolls over to someone.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS247 	00:35:56,00 --> 00:36:01,50 	someone rolls her eyes.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS362 	01:17:39,00 --> 01:17:51,50 	someone rolls her eyes.
@@ -123,112 +79,70 @@ PROMETHEUS.srt 	PROMETHEUS_DVS170 	00:11:43,00 --> 00:11:52,50 	quickly regainin
 PROMETHEUS.srt 	PROMETHEUS_DVS500 	00:52:23,00 --> 00:52:27,50 	holloway rolls a ball toward him.
 PROMETHEUS.srt 	PROMETHEUS_DVS967 	01:46:41,00 --> 01:46:49,50 	the second massive stub crashes into the ground behind them, and the ship keeps rolling.
 PROMETHEUS.srt 	PROMETHEUS_DVS969 	01:46:53,00 --> 01:47:02,50 	the rolling ship chases them past a number of rocky pillars, dotting the harsh terrain, its shadow at their heels.
-PROMETHEUS.srt 	PROMETHEUS_DVS971 	01:47:07,00 --> 01:47:14,50 	as someone keeps running, someone looks up at the looming mass, then rolls out of its way.
 PROMETHEUS.srt 	PROMETHEUS_DVS1032 	01:52:09,00 --> 01:52:16,50 	outside the sun peeks through thick rolling clouds.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS187 	00:36:04,00 --> 00:36:12,50 	rolling over to face her, he strokes her cheek and neck.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS282 	01:07:07,00 --> 01:07:41,50 	someone politely rolls onto his back and looks away.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS327 	01:19:57,00 --> 01:20:01,50 	on the floor, he rolls onto his back.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS287 	00:45:37,00 --> 00:45:42,50 	someone rolls his chair over to someone.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS385 	01:01:42,00 --> 01:01:48,50 	he rolls on to his side and curls a hand around the little dog's belly.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS413 	01:04:35,00 --> 01:04:41,50 	he rolls his head to the side with an uncomfortable gaze.
 SANCTUM.srt 	SANCTUM_DVS488 	01:30:32,00 --> 01:30:37,50 	someone rolls his eyes.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS839 	00:55:35,00 --> 00:55:41,50 	someone hesitantly rolls over and leans her head over the edge of the bed.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS847 	00:56:07,00 --> 00:56:13,50 	someone returns to her shadowy bed and rolls over to face the ceiling.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS954 	01:01:51,00 --> 01:01:58,50 	as he gets to his feet, his son's head rolls back limply and one arm dangles from his grasp.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS289 	01:00:15,00 --> 01:00:24,50 	as someone irritably rolls his eyes, someone's grin fades.
 SOUL_SURFER.srt 	SOUL_SURFER_DVS47 	00:15:44,00 --> 00:15:52,50 	rolling her eyes, someone strides off.
-SPARKLE_2012.srt 	SPARKLE_2012_DVS53 	00:09:18,00 --> 00:09:27,50 	someone rolls his neck and sits up straight.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS78 	00:13:18,00 --> 00:13:23,50 	someone rolls her eyes and clicks the tv off.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS144 	00:24:47,00 --> 00:24:51,50 	she rolls her eyes.
-SPARKLE_2012.srt 	SPARKLE_2012_DVS489 	01:19:02,00 --> 01:19:07,50 	someone kneels over someone and rolls him face up.
 SUPER_8.srt 	SUPER_8_DVS245 	00:41:51,00 --> 00:41:56,50 	where military transport trucks roll through the center of town.
 SUPER_8.srt 	SUPER_8_DVS512 	01:26:56,00 --> 01:27:05,50 	behind them, tanks roll across the playground crushing play equipment.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS95 	00:13:39,00 --> 00:13:45,50 	the rottweiler backs down and rolls onto its side.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS135 	00:20:36,00 --> 00:20:41,50 	someone rolls the man over, but he falls still.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS382 	00:56:35,00 --> 00:56:40,50 	of rolling sand dunes as snowy trods ahead of them.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS392 	00:58:11,00 --> 00:58:16,50 	as someone gazes over the rolling desert, a ship's mast
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS49 	00:11:39,00 --> 00:11:44,50 	someone rolls her eyes.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS119 	00:27:44,00 --> 00:27:56,50 	someone rolls her eyes curiously then folds her legs.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS174 	00:35:23,00 --> 00:35:29,50 	she rolls out the lower level of a trundle bed.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS196 	00:37:48,00 --> 00:37:58,50 	he rolls off the bed.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS258 	00:49:26,00 --> 00:49:37,50 	rolling his eyes, someone returns his gaze to the ceiling.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS332 	01:04:23,00 --> 01:04:45,50 	rolling up his sleeves he takes a seat at his desk and straightens the pile of homework.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS194 	00:39:46,00 --> 00:39:51,50 	he rolls a seven.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS197 	00:40:08,00 --> 00:40:13,50 	the bounty hunter rolls a seven.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS205 	00:41:38,00 --> 00:41:42,50 	he rolls.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS221 	00:44:17,00 --> 00:44:23,50 	someone lies on her back then rolls toward him,
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS522 	01:34:39,00 --> 01:34:53,50 	now, in the depository building, someone packs evidence baggies filled with white powder into a brown paper bag then rolls the top down.
 THE_CALL.srt 	THE_CALL_DVS279 	00:24:32,00 --> 00:24:37,50 	slowly blinking, the blond rolls her head to the side.
 THE_CALL.srt 	THE_CALL_DVS482 	00:37:14,00 --> 00:37:23,50 	the kidnapper rolls down his passenger window.
-THE_CALL.srt 	THE_CALL_DVS827 	01:03:03,00 --> 01:03:09,50 	someone rolls her head, then gives someone a look and leaves.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS374 	00:57:44,00 --> 00:57:49,50 	our view pulls back to encompass the landscape, which includes lush trees and rolling hills.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS377 	00:57:54,00 --> 00:58:01,50 	it reaches the summit of the tree-lined road and rolls to a stop.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS426 	01:04:47,00 --> 01:04:52,50 	lying under a blanket on a fold out bed, someone rolls his head to look up at someone.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS585 	01:27:00,00 --> 01:27:08,50 	she lies with each hand curled around a rolled up towel and her mouth hanging slack.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS744 	01:44:25,00 --> 01:44:30,50 	a tear rolls down his nose.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS132 	00:13:36,00 --> 00:13:41,50 	he rolls his head against his seatback.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS346 	00:41:57,00 --> 00:42:05,50 	as he reaches for her she rolls onto the inclined metal barrier between the ascending and descending escalators.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS384 	00:46:28,00 --> 00:46:33,50 	he rolls his exasperated eyes.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS594 	01:05:33,00 --> 01:05:40,50 	crouches and rolls his bent knees over exposing his anus to her.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS730 	01:20:57,00 --> 01:21:03,50 	it rolls off the side but he catches it and puts it back.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1013 	01:49:34,00 --> 01:49:40,50 	she wearily rolls her neck then leaves with the keys.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1235 	02:09:42,00 --> 02:09:47,50 	he rolls on his side and faces someone.
 THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS88 	00:30:01,00 --> 00:30:06,50 	someone rolls his eyes.
 THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS162 	00:54:26,00 --> 00:54:30,50 	someone rolls her eyes.
 THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS250 	01:22:58,00 --> 01:23:05,50 	someone parks by the side of the road and rolls down his window.
 THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS279 	01:31:37,00 --> 01:31:48,50 	the end credits start to roll over the scene, as a man pushes his mother on a wheelchair, and a teenager offers his mom a sip from his juice box.
 THE_WATCH.srt 	THE_WATCH_DVS48 	00:06:10,00 --> 00:06:17,50 	a single d battery rolls to a puddle of green slime under his foot.
-THE_WATCH.srt 	THE_WATCH_DVS123 	00:20:46,00 --> 00:20:52,50 	someone holds the rolled up magazine to his eye and looks someone over.
 THE_WATCH.srt 	THE_WATCH_DVS139 	00:26:58,00 --> 00:27:05,50 	from the passenger seat, someone motions to someone to roll down the window.
-THE_WATCH.srt 	THE_WATCH_DVS173 	00:32:18,00 --> 00:32:25,50 	now, the kid skates out of the station and rolls down an empty street passed closed storefronts.
 THE_WATCH.srt 	THE_WATCH_DVS318 	00:55:26,00 --> 00:55:31,50 	someone rolls off the broken glass on the pool table.
-THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS53 	00:13:16,00 --> 00:13:28,50 	the successful business woman crosses paths with her and rolls her eyes.
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS136 	00:37:07,00 --> 00:37:11,50 	she rolls her eyes.
-THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS127 	00:23:40,00 --> 00:23:45,50 	she rolls her eyes and he walks off with a grin.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS153 	00:29:40,00 --> 00:29:48,50 	then they roll into the middle and lie side by side.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS432 	01:17:37,00 --> 01:17:49,50 	someone sends someone rolling over a table then throws a knife into a leather chair by someone's head.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS483 	01:24:48,00 --> 01:24:56,50 	the blast sends the suv rolling sideways toward the road's unfinished end.
 THOR.srt 	THOR_DVS64 	00:07:51,00 --> 00:07:57,50 	nearby, a brunette woman rolls her eyes.
 THOR.srt 	THOR_DVS195 	00:25:34,00 --> 00:25:40,50 	the beast's eyes roll backward as it collapses onto the ground.
-THOR.srt 	THOR_DVS226 	00:30:28,00 --> 00:30:33,50 	he rolls onto his back and falls still.
 THOR.srt 	THOR_DVS461 	01:16:14,00 --> 01:16:19,50 	someone rolls his eyes.
 THOR.srt 	THOR_DVS641 	01:37:15,00 --> 01:37:21,50 	he leaps and drives the point of his spear into the floor just as someone rolls away.
 THOR.srt 	THOR_DVS649 	01:37:41,00 --> 01:37:47,50 	someone rolls off the side of the bridge and hangs from the edge by his fingertips.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS84 	00:10:14,00 --> 00:10:18,50 	he rolls onto his back.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS124 	00:14:09,00 --> 00:14:14,50 	he rolls his shoulders and someone glances at the crowd.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS203 	00:26:36,00 --> 00:26:40,50 	someone rolls his eyes.
-TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS243 	00:32:06,00 --> 00:32:11,50 	he drops a rolled up dollar.
-TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS244 	00:32:09,00 --> 00:32:15,50 	in someone's hands, the dollar is the size of a rolled up poster.
-TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS246 	00:32:20,00 --> 00:32:26,50 	he drops the rolled up dollar and slides back to retrieve it.
-TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS281 	00:34:40,00 --> 00:34:45,50 	with a quick glance over his shoulder, he leaves the rolled up dollar someone in its place.
-TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS287 	00:35:09,00 --> 00:35:14,50 	he rolls off and shakes out his arms.
-TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS429 	00:45:48,00 --> 00:45:54,50 	he rolls his eyes as he leaves someone by himself.
-TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS745 	01:21:46,00 --> 01:21:52,50 	then slides a rolled up someone under the pillow.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS779 	01:23:36,00 --> 01:23:41,50 	rolling over, someone scowls and removes his ear buds.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS785 	01:24:18,00 --> 01:24:23,50 	blinking tearfully, he rolls over and props himself up on his elbows.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS853 	01:30:54,00 --> 01:31:00,50 	someone rolls her eyes, then sprinkles someone with amnesia dust.
-TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS890 	01:34:00,00 --> 01:34:05,50 	she stares, then rolls her head in a double take.
 TRUE_GRIT.srt 	TRUE_GRIT_DVS74 	00:21:11,00 --> 00:21:15,50 	she rolls a cigarette.
 TRUE_GRIT.srt 	TRUE_GRIT_DVS121 	00:30:43,00 --> 00:30:48,50 	she rolls him a cigarette.
-TRUE_GRIT.srt 	TRUE_GRIT_DVS126 	00:32:49,00 --> 00:32:56,50 	at the boarding house, she puts on her father's coat and rolls up the sleeves.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS189 	00:15:27,00 --> 00:15:33,50 	someone rolls her eyes and storms out.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS434 	00:53:07,00 --> 00:53:11,50 	the remote rolls out.
-UGLY_TRUTH.srt 	UGLY_TRUTH_DVS460 	00:56:10,00 --> 00:56:16,50 	someone rolls her eyes, then looks back at their table.
-UGLY_TRUTH.srt 	UGLY_TRUTH_DVS465 	00:57:09,00 --> 00:57:20,50 	an aerial view shows the road winding over rolling wooded hills.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS658 	01:31:13,00 --> 01:31:19,50 	someone rolls off of her and flips on a lamp.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS176 	00:30:17,00 --> 00:30:21,50 	someone rolls his eyes.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS625 	01:32:44,00 --> 01:32:57,50 	another tear rolls down someone's cheek.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS763 	01:48:34,00 --> 01:48:41,50 	the zoo owner rolls over and finds sunlight peeking in between his curtains.
-WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS236 	00:31:23,00 --> 00:31:29,50 	someone rolls her eyes in a good-humored sneer, then steps away.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS480 	01:07:21,00 --> 01:07:27,50 	then rolls on her back and reaches for the brush on her nightstand.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS461 	00:41:26,00 --> 00:41:33,50 	someone rolls up her sleeve and swabs at a patch of her skin with a cotton ball.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1156 	01:43:10,00 --> 01:43:19,50 	someone hits the floor and someone covers him, securing them both to the metal hull as the jet rolls upside-down.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1299 	01:57:09,00 --> 01:57:16,50 	someone grimaces as someone extracts the bullet, which rolls into his palm.
 YOUNG_ADULT.srt 	YOUNG_ADULT_DVS197 	00:38:02,00 --> 00:38:10,50 	someone drives slowly through a suburban neighborhood then rolls to a stop across the street from a two-story house.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS477 	00:55:47,00 --> 00:55:51,50 	they roll someone off the mansion balcony.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS592 	01:08:39,00 --> 01:08:47,50 	as someone rolls out of someone's garage, someone stares solemnly after him.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS595 	01:08:57,00 --> 01:09:02,50 	he rolls down the passenger side window.
-ZOMBIELAND.srt 	ZOMBIELAND_DVS736 	01:19:38,00 --> 01:19:45,50 	he swallows then shifts his attention to little someone who rolls her eyes.
 ZOOKEEPER.srt 	ZOOKEEPER_DVS30 	00:04:48,00 --> 00:05:02,50 	he rolls the tire into a barren habitat.
-ZOOKEEPER.srt 	ZOOKEEPER_DVS307 	01:07:50,00 --> 01:07:56,50 	finding someone outside, he rolls down his window.
 ZOOKEEPER.srt 	ZOOKEEPER_DVS308 	01:08:25,00 --> 01:08:34,50 	as he rolls his window back up, someone frowns slightly.

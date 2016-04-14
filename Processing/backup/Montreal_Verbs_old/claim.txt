@@ -1,0 +1,5 @@
+CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS589 	00:56:53,00 --> 00:57:00,50 	blond watches with a faint hard smile as the bully claims a wave.
+IN_TIME.srt 	IN_TIME_DVS816 	01:26:33,00 --> 01:27:01,50 	someone cocks his head, then claims the upper hand, pinning his opponent's wrist to the table.
+LIFE_OF_PI.srt 	LIFE_OF_PI_DVS357 	00:43:15,00 --> 00:43:21,50 	the deck lights glow as the ocean's depths claim the vessel.
+LIFE_OF_PI.srt 	LIFE_OF_PI_DVS734 	01:16:26,00 --> 01:16:33,50 	at night, someone sits on the raft filleting the large fish he claimed.
+THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS161 	00:54:20,00 --> 00:54:26,50 	claim your steak."

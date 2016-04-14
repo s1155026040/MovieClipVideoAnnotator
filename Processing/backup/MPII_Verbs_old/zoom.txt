@@ -1,30 +1,41 @@
-0001_American_Beauty_00.16.25.897-00.16.26.639 	We ZOOM slowly toward Lester as he watches, transfixed.
-0001_American_Beauty_00.16.25.897-00.16.26.639 	We ZOOM slowly toward Lester as he watches, transfixed.
-0001_American_Beauty_00.21.22.252-00.21.32.656 	We ZOOM toward Jane as she walks up the driveway.
-0001_American_Beauty_00.39.24.097-00.39.28.315 	We ZOOM toward her, even as Angela poses in the window; we're clearly not interested in Angela.
-0001_American_Beauty_01.10.32.426-01.10.34.064 	We ZOOM toward her as she takes off her bra clumsily.
-0001_American_Beauty_01.14.49.635-01.14.52.282 	Lester's REMOTE-CONTROLLED MODEL JEEP is zooming across the floor of the family room, expertly maneuvering corners and narrowly avoiding crashing.
-0001_American_Beauty_01.36.31.114-01.36.32.979 	Cars ZOOM past in the rain.
-0001_American_Beauty_01.38.58.471-01.39.00.361 	We ZOOM slowly in on him as he watches, transfixed.
-0011_Gandhi_02.46.18.063-02.46.20.867 	The camera zooms in on a poor quarter of artisan dwellings in narrow streets.
-0027_The_Big_Lebowski_00.30.32.630-00.30.32.835 	Led by the bowling ball, he zooms past the camera leaving us in black.
-0038_Psycho_00.23.35.745-00.23.39.554 	Mary zooms off.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.02.18.301-00.02.26.786 	They zoom away, and weave over and under the Millennium Bridge.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.08.36.944-00.08.39.816 	He raises his foot, and it zooms up to its rightful place.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.47.04.500-00.47.05.891 	Two Chasers zoom past Harry.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.01.53.325-01.01.55.610 	Bound leather Quaffle zooms through the air, and is caught by a Slytherin Chaser.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.02.48.834-01.02.49.351 	The Quaffle zooms towards the goal.
-1007_Spider-Man1_00.20.42.214-00.20.42.658 	The bus zooms on leaving Peter in the middle of the street with a large portion of the poster sticking to his fingers.
-1007_Spider-Man1_00.23.38.924-00.23.44.685 	He hears a paper airplane zooming down the corridor towards a fly hovering by the fire alarm bell.
+0001_American_Beauty_00.16.25.897-00.16.26.639 	we zoom slowly toward lester as he watches, transfixed.
+0001_American_Beauty_00.21.22.252-00.21.32.656 	we zoom toward jane as she walks up the driveway.
+0001_American_Beauty_00.39.24.097-00.39.28.315 	we zoom toward her, even as angela poses in the window; we're clearly not interested in angela.
+0001_American_Beauty_00.54.49.741-00.54.56.978 	she falls out of frame as we zoom toward jane.
+0001_American_Beauty_01.10.32.426-01.10.34.064 	we zoom toward her as she takes off her bra clumsily.
+0001_American_Beauty_01.14.49.635-01.14.52.282 	lester's remote-controlled model jeep is zooming across the floor of the family room, expertly maneuvering corners and narrowly avoiding crashing.
+0001_American_Beauty_01.36.31.114-01.36.32.979 	cars zoom past in the rain.
+0001_American_Beauty_01.38.58.471-01.39.00.361 	we zoom slowly in on him as he watches, transfixed.
+0027_The_Big_Lebowski_00.30.32.630-00.30.32.835 	led by the bowling ball, he zooms past the camera leaving us in black.
+0051_Men_in_black_01.17.29.897-01.17.31.798 	balled up on the back of his neck, he peers out the window as they tear through the tunnel, zooming over the bottlenecked traffic underneath.
+1002_Harry_Potter_and_the_Half-Blood_Prince_00.02.18.301-00.02.26.786 	they zoom away, and weave over and under the millennium bridge.
+1002_Harry_Potter_and_the_Half-Blood_Prince_00.08.36.944-00.08.39.816 	he raises his foot, and it zooms up to its rightful place.
+1002_Harry_Potter_and_the_Half-Blood_Prince_00.47.04.500-00.47.05.891 	two chasers zoom past harry.
+1007_Spider-Man1_00.23.38.924-00.23.44.685 	he hears a paper airplane zooming down the corridor towards a fly hovering by the fire alarm bell.
+1007_Spider-Man1_01.22.26.377-01.22.31.960 	spider-man is zooming along the streets, leaping from web to web way above the traffic.
+1009_Spider-Man3_00.19.29.568-00.19.36.561 	he zooms down after peter, who swings into a narrow gap between the tall buildings, propelling himself along from thread to thread.
+1010_TITANIC_00.31.45.576-00.31.48.445 	the dolphins zoom through the clear water like zig-zaging torpedo.
+1043_Vantage_Point_00.31.39.838-00.31.42.505 	he zooms in as she places something in his hand and clutches his palm.
+1043_Vantage_Point_00.37.04.933-00.37.07.894 	howard zooms back in vision.
+1043_Vantage_Point_00.42.03.672-00.42.06.553 	howard flees, and then zooms the camera back on enrique.
+1049_Harry_Potter_and_the_chamber_of_secrets_00.09.57.000-00.09.59.299 	the car zooms away.
+1049_Harry_Potter_and_the_chamber_of_secrets_00.26.11.974-00.26.18.831 	ron struggles with the wheel as the car swoops out of control, zooming close to the brightly lit windows of the great hall.
+1049_Harry_Potter_and_the_chamber_of_secrets_00.27.50.100-00.27.53.486 	ron presses the accelerator and the car zooms away.
+1049_Harry_Potter_and_the_chamber_of_secrets_00.28.38.732-00.28.49.948 	it rolls down a cobbled passageway and zooms away towards the forest, leaving ron and harry far behind.
+1049_Harry_Potter_and_the_chamber_of_secrets_01.04.10.061-01.04.17.020 	she zooms into a cubicle and dives head first down the lavatory pan.
+1049_Harry_Potter_and_the_chamber_of_secrets_01.50.18.184-01.50.23.865 	it zooms over the forest and lands heavily on the grass beside hagrid's cottage.
+1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.16.10.336-00.16.16.529 	death eaters appear and zoom over the decoy harrys.
+1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.18.19.074-00.18.21.673 	harry presses the control button and the bike zooms away, spewing out flames.
+1051_Harry_Potter_and_the_goblet_of_fire_00.08.28.124-00.08.29.648 	the seven irish players zoom out in formation.
+1051_Harry_Potter_and_the_goblet_of_fire_00.59.15.296-00.59.23.104 	taking a shelter behind a huge rock, harry sees his trusty broomstick zooming towards him.
+1052_Harry_Potter_and_the_order_of_phoenix_01.36.04.493-01.36.06.530 	they zoom backwards and forwards, flinging exam papers and whiz bangs into the air.
 1053_Harry_Potter_and_the_philosophers_stone_00.02.12.908-00.02.19.677 	coattails flying, hagrid, a huge giant, zooms down and screeches to a halt.
-1053_Harry_Potter_and_the_philosophers_stone_00.56.53.490-00.56.59.511 	the broomstick carries neville, and zooms up over the statues on the battlements.
-1053_Harry_Potter_and_the_philosophers_stone_00.58.13.514-00.58.23.003 	harry zooms after malfoy.
 1053_Harry_Potter_and_the_philosophers_stone_01.22.05.212-01.22.11.950 	he zooms off to the slytherin seeker, who is close behind the snitch.
 1053_Harry_Potter_and_the_philosophers_stone_01.59.55.545-02.00.04.257 	it zooms upwards out of his reach.
-1053_Harry_Potter_and_the_philosophers_stone_02.00.18.281-02.00.25.965 	hermione and ron push open the door and harry zooms inside.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_00.44.23.904-00.44.31.092 	it zooms around the classroom and back into the wardrobe.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_00.55.11.221-00.55.12.880 	he makes a grab for it but it zooms sharply away.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_02.09.31.879-02.09.39.473 	his classmates cheer as he zooms up into the air.
 1060_Yes_man_00.55.17.380-00.55.21.967 	carl and allison zoom down a dark street on allison's scooter.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.47.30.000-01.47.38.573 	struggling for supremacy, they claw at each other's faces as they zoom above the school.
+2034_Super_8_00.31.58.231-00.32.11.076 	joe moves the camera back to alice -- he looks through the lens -- uses the zoom -- and we see joe's pov -- the crash, zoomed in -- he pans from one car to another.
 2051_Harry_Potter_and_the_goblet_of_fire_00.49.08.504-00.49.09.141 	we're zoomed in on a badge, it depicts cedric on a bright yellow background.

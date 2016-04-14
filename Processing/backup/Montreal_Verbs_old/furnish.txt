@@ -1,0 +1,3 @@
+FLIGHT.srt 	FLIGHT_DVS204 	00:47:09,00 --> 00:47:16,50 	he enters a cozy, fully furnished living room, and looks around.
+SPARKLE_2012.srt 	SPARKLE_2012_DVS541 	01:29:22,00 --> 01:29:28,50 	at night with the room fully furnished, someone unpacks.
+XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS245 	00:18:53,00 --> 00:19:00,50 	it opens up on a warmly lit study furnished in polished wood and brown leather.

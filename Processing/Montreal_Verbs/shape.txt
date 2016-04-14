@@ -1,33 +1,15 @@
-BRUNO.srt 	BRUNO_DVS141 	00:33:48,00 --> 00:33:56,50 	wearing an african robe, someone directs someone to pick up a package shaped like an elephant tusk.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS374 	01:07:36,00 --> 01:07:43,50 	on the roof, a bridge slides away from the aircraft which is shaped like an upright torpedo.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS290 	00:22:23,00 --> 00:22:30,50 	someone slaps a small cube shaped weather radio perched on a cup holder tray.
-FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS389 	01:42:05,00 --> 01:42:11,50 	someone wipes tears from her big almond shaped eyes.
-HUGO.srt 	HUGO_DVS250 	00:35:24,00 --> 00:35:32,50 	someone walks to the back of the automaton and rubs one finger over the heart shaped keyhole.
 IN_TIME.srt 	IN_TIME_DVS231 	00:24:15,00 --> 00:24:24,50 	a metal panel cut in at one side to create a c shaped hollow flips up from a console beside someone.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS316 	01:01:41,00 --> 01:02:00,50 	later, an elegant pavilion with a roof shaped like a pith helmet houses dining tables and a dance floor.
 JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS194 	01:09:07,00 --> 01:09:11,50 	someone puppets a dolphin shaped cookie.
-KARATE_KID.srt 	KARATE_KID_DVS763 	01:04:33,00 --> 01:04:45,50 	now at the shi shi festival, delicate lanterns shaped like birds and flowers hang from trees above the throngs of guests.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS580 	01:04:14,00 --> 01:04:22,50 	someone reels in a floating beach ball-sized device shaped like a chocolate kiss.
-NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS17 	00:04:16,00 --> 00:04:23,50 	a horizontal assembly of pipes is shaped like a castle
 PROMETHEUS.srt 	PROMETHEUS_DVS54 	00:02:50,00 --> 00:02:57,50 	an enormous saucer shaped craft hovers just above the rim of the falls.
-PROMETHEUS.srt 	PROMETHEUS_DVS181 	00:12:32,00 --> 00:12:39,50 	near an enormous ringed planet, the stocky insect shaped someone turns.
 PROMETHEUS.srt 	PROMETHEUS_DVS255 	00:24:24,00 --> 00:24:30,50 	a dome shaped formation juts from a range of hills.
 PROMETHEUS.srt 	PROMETHEUS_DVS596 	01:06:25,00 --> 01:06:32,50 	the team progresses downhill to a large open doorway shaped like an egg.
-PROMETHEUS.srt 	PROMETHEUS_DVS609 	01:07:22,00 --> 01:07:30,50 	as someone progresses, we find the probe hovering before a heart shaped door of multiple oblong panels.
 PROMETHEUS.srt 	PROMETHEUS_DVS670 	01:12:29,00 --> 01:12:35,50 	connected to the horse shoe shaped panel by streams of green energy.
 PROMETHEUS.srt 	PROMETHEUS_DVS877 	01:36:46,00 --> 01:36:53,50 	the hologram represents an elaborate crescent shaped vessel with blunted ends.
-PROMETHEUS.srt 	PROMETHEUS_DVS924 	01:41:38,00 --> 01:41:47,50 	as the engineer works the controls, a brief flash illuminates his crescent shaped ship.
-PROMETHEUS.srt 	PROMETHEUS_DVS934 	01:42:34,00 --> 01:42:40,50 	we glimpse the ceiling opening up over the crescent shaped ship.
-PROMETHEUS.srt 	PROMETHEUS_DVS947 	01:45:02,00 --> 01:45:11,50 	the crescent shaped ship rotates, its blunted ends turning toward the human's vessel as it rises into the sky.
-PROMETHEUS.srt 	PROMETHEUS_DVS963 	01:46:12,00 --> 01:46:18,50 	the crescent shaped ship turns sideways and descends to the ground.
 PROMETHEUS.srt 	PROMETHEUS_DVS966 	01:46:33,00 --> 01:46:43,50 	the crescent shaped ship rolls their way, tipping on to the second of its blunted ends.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS218 	00:51:56,00 --> 00:52:00,50 	someone's dome shaped hive sit on
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS267 	01:04:31,00 --> 01:04:35,50 	from several tall arch shaped
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS386 	01:34:46,00 --> 01:34:57,50 	to leaded glass window and gazes out through the diamond shaped panes.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS201 	00:25:02,00 --> 00:25:11,50 	now, she marches across a street to a five-story brick facade with bay windows shaped like prisms.
 THE_VOW.srt 	THE_VOW_DVS115 	00:11:59,00 --> 00:12:06,50 	in millennium park, someone and someone kiss under the steel, bean shaped archway of cloud gate.
-THE_VOW.srt 	THE_VOW_DVS123 	00:12:52,00 --> 00:12:58,50 	someone holds up a piece of clay, shaped like a person.
 THE_VOW.srt 	THE_VOW_DVS241 	00:30:35,00 --> 00:30:42,50 	she anxiously locates the swirling crescent shaped fish tattoo on her actual back.
-THE_VOW.srt 	THE_VOW_DVS376 	00:52:41,00 --> 00:52:58,50 	one bronzy 10-foot sculpture, shaped vaguely like a mermaid bears a pebbled texture.
-THE_VOW.srt 	THE_VOW_DVS607 	01:23:59,00 --> 01:24:06,50 	now the bean shaped  cloud gate in millennium park reflects an overcast day.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS836 	01:28:59,00 --> 01:29:04,50 	it's shaped like a tooth with a pair of fairy wings.

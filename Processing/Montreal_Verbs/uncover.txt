@@ -1,10 +1,5 @@
 40_YEAR_OLD_VIRGIN.srt 	40_YEAR_OLD_VIRGIN_DVS146 	01:15:04,00 --> 01:15:09,50 	someone uncovers her own eyes.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS99 	00:08:28,00 --> 00:08:34,50 	he flips past paperwork and uncovers a mug shot of his son.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS104 	00:26:58,00 --> 00:27:03,50 	someone covers and uncovers his mouth.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS48 	00:07:56,00 --> 00:08:05,50 	someone uncovers his bike.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS23 	00:02:47,00 --> 00:02:52,50 	he uncovers a blueprint and studies it.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS215 	00:40:57,00 --> 00:41:02,50 	he uncovers the tray, revealing an omelet.
-KARATE_KID.srt 	KARATE_KID_DVS1503 	02:02:14,00 --> 02:02:19,50 	uncovering his face, someone looks up at his teacher.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS872 	01:28:05,00 --> 01:28:19,50 	ocean water pours over the frenzied teen as he rips the canvas free of each hook, trying to uncover his friend.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS876 	01:28:29,00 --> 01:28:37,50 	he uncovers someone someone.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS102 	00:14:26,00 --> 00:14:32,50 	he walks up to a large object draped with a sheet and uncovers it.

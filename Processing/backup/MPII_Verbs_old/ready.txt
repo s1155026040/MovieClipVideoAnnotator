@@ -1,6 +1,5 @@
-0003_CASABLANCA_01.38.43.234-01.38.45.463 	They all turn to see the plane readying for take-off.
-0019_Pulp_Fiction_00.59.01.618-00.59.25.209 	As Lance readies the injection, Vincent looks up at Jody.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.19.27.911-01.19.34.054 	As ARAGORN readies BREGO for leaving EOWYN approaches.
+0003_CASABLANCA_01.38.43.234-01.38.45.463 	they all turn to see the plane readying for take-off.
+0019_Pulp_Fiction_00.59.01.618-00.59.25.209 	as lance readies the injection, vincent looks up at jody.
 1026_Legion_01.21.09.542-01.21.11.134 	michael readies his assault rifle.
 1030_Public_Enemies_00.37.50.547-00.37.53.891 	purvis leads agent barton to a door, then readies his hand on his gun.
 1033_Sherlock_Holmes_A_Game_of_Shadows_00.44.47.756-00.44.53.359 	in it, holmes looks through a grill into the next carriage and sees the soldiers readying their guns.

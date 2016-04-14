@@ -1,8 +1,3 @@
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS407 	00:58:42,00 --> 00:58:47,50 	the mocha-skinned woman rows a raft.
 GROWN_UPS.srt 	GROWN_UPS_DVS125 	00:39:01,00 --> 00:39:06,50 	and someone rows alone.
-MORNING_GLORY.srt 	MORNING_GLORY_DVS201 	00:45:23,00 --> 00:45:27,50 	she mimes rowing.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS282 	00:40:40,00 --> 00:40:50,50 	someone strides to a deck railing and glares down at someone and someone as they row away.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS295 	00:42:32,00 --> 00:42:38,50 	someone rows the lifeboat while someone sits with his hands on his knees.
 THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS66 	00:17:16,00 --> 00:17:24,50 	near a calm riverside, four two-men crews row their boats along the misty water.
-THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS70 	00:17:54,00 --> 00:18:00,50 	they row through the low-lying mist, leaving the other boats far behind.
-YOUNG_ADULT.srt 	YOUNG_ADULT_DVS349 	01:07:26,00 --> 01:07:32,50 	she passes a rack of items resembling teddy bears then rows of pink dresses.

@@ -1,98 +1,31 @@
-0001_American_Beauty_00.37.31.757-00.37.32.918 	angela is back against the counter, drinking the root beer.
-0001_American_Beauty_01.05.03.746-01.05.04.958 	lester sits at the table in sloppy clothes, eating his dinner voraciously and drinking beer from a bottle.
-0001_American_Beauty_01.14.47.434-01.14.48.530 	lester is sprawled on the couch in his underwear, drinking a beer and controlling the car.
 0001_American_Beauty_01.24.22.544-01.24.24.933 	lester leans against the counter, drinking his shake directly from the blender pitcher, eyeing her.
-0001_American_Beauty_01.44.07.974-01.44.12.251 	lester holds the bottle up to her mouth and she drinks clumsily.
-0002_As_Good_As_It_Gets_01.02.55.218-01.02.56.548 	she is trembling as she drinks a glass of water and exits.
 0003_CASABLANCA_00.40.00.771-00.40.04.187 	they drink.
 0005_Chinatown_01.20.59.976-01.21.06.337 	they drink.
-0006_Clerks_00.05.19.069-00.05.21.522 	the activist leans on a briefcase and drinks his coffee.
 0007_DIE_NACHT_DES_JAEGERS_00.17.32.785-00.17.36.849 	they drink.
-0009_Forrest_Gump_00.41.28.055-00.41.34.737 	in the background, soldiers are barbecuing steaks and drinking beer.
-0009_Forrest_Gump_01.17.31.480-01.17.37.222 	lt. dan chuckles, drinks the rest of a bottle of wine and tosses it down.
-0014_Ist_das_Leben_nicht_schoen_00.07.16.912-00.07.21.209 	it is evident he has been drinking.
-0014_Ist_das_Leben_nicht_schoen_01.35.36.971-01.35.38.435 	george is seated at the bar he has had a great deal to drink, far more than he's accustomed to.
-0014_Ist_das_Leben_nicht_schoen_01.36.38.610-01.36.40.535 	seated on the other side of george is a burly individual, drinking a glass of beer.
-0019_Pulp_Fiction_01.09.03.404-01.09.08.399 	a young woman, with spanish looks, sits parked, drinking a steaming hot cup of coffee out of a white styrofoam cup.
-0021_Rear_Window_00.23.13.918-00.23.14.750 	as he drinks, his eyes move slightly over.
-0021_Rear_Window_01.11.07.062-01.11.09.574 	they are drinking, eating, etc.
-0022_Reservoir_Dogs_00.14.43.666-00.14.43.837 	mr. blonde sits on a counter, drinking a fast food coke and eating a hot dog.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.16.10.320-00.16.13.797 	frodo and sam sit at a table drinking ale.frodo notices sam's eyes keep flicking to another pretty hobbit, rosie cotton, sitting some distance away.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.27.47.676-02.27.53.606 	he tries to drink from his water bottle but finds it empty.
-0026_The_Big_Fish_00.18.27.805-00.18.39.223 	shutting the door behind himself, will drinks the rest of the ensure himself.
-0026_The_Big_Fish_01.06.27.359-01.06.28.585 	she watches him while he slowly drinks the entire glass, thirstier than he imagined.
 0026_The_Big_Fish_01.06.28.585-01.06.30.117 	while he's drinking, we.
-0026_The_Big_Fish_01.49.20.793-01.49.21.907 	he holds it to his father's lips, but edward won't drink.
 0026_The_Big_Fish_01.51.48.145-01.51.50.831 	edward unscrews the cap, but instead of drinking it, he douses himself.
-0028_The_Crying_Game_00.07.16.697-00.07.17.742 	all the men are drinking tea.
-0028_The_Crying_Game_00.12.48.534-00.12.51.778 	jude, drinking tea, looking at jody sweating.
-0028_The_Crying_Game_00.14.10.140-00.14.14.804 	fergus goes back to his seat and drinks his tea.
 0028_The_Crying_Game_00.59.36.360-00.59.36.855 	both drinking drinks with umbrellas.
 0028_The_Crying_Game_01.01.50.009-01.01.51.632 	he drinks.
 0028_The_Crying_Game_01.32.55.252-01.32.59.460 	she drinks from the whiskey bottle.
-0029_The_Graduate_00.17.00.151-00.17.03.805 	ben jumps up, gets the glass he had been drinking from and sits down again.
-0029_The_Graduate_00.41.18.473-00.41.21.341 	ben picks up a can of beer and drinks from it.
-0030_The_Hustler_00.00.54.956-00.00.56.000 	charlie and eddie are at the bar, drinking straight bourbon.
 0030_The_Hustler_01.05.05.419-01.05.08.975 	sarah drinks her drink.
-0030_The_Hustler_01.05.08.975-01.05.13.013 	still drinking, she turns to him.
-0030_The_Hustler_01.43.35.591-01.43.36.539 	sarah has been drinking.
 0031_The_Lost_Weekend_00.25.52.434-00.25.54.607 	he drinks his jiggerful.
-0032_The_Princess_Bride_00.33.37.619-00.33.38.258 	as they both start to drink, vizzini hesitates a moment.
 0032_The_Princess_Bride_00.33.38.258-00.33.42.978 	then, allowing the man in black to drink first, he swallows his wine.
-0038_Psycho_00.10.21.802-00.10.26.091 	cassidy is drinking from a large tumbler, winks at her without pausing in his drinking.
-0043_Thelma_and_Luise_00.15.25.149-00.15.28.392 	she again drinks her whole shot of wild turkey and holds up her glass, as the band strikes up a lively tune.
-0043_Thelma_and_Luise_00.15.25.980-00.15.34.659 	louise drinks her shot of tequila and holds up her glass, too.
 0043_Thelma_and_Luise_01.16.41.684-01.16.49.536 	thelma howls like a dog and drinks a little bottle of wild turkey.
-0049_Hannah_and_her_sisters_00.04.23.207-00.04.28.567 	a child is sprawled out under a blanket on a sofa; some guests chatter quietly; others drink and eat, listening.
-0049_Hannah_and_her_sisters_00.33.04.175-00.33.11.423 	norman and carol, his wife, sit on the couch drinking coffee.
-0049_Hannah_and_her_sisters_00.53.40.807-00.53.44.532 	she passes frederick, who sits at a table in the kitchen area, drinking a cup of coffee and reading the paper.
 0049_Hannah_and_her_sisters_01.01.36.907-01.01.40.775 	a man drinks from a glass mug; people chatter indistinctly over the loud band.
-0049_Hannah_and_her_sisters_01.24.10.872-01.24.21.160 	the man takes one, mouthing his thanks, as the camera travels past the open bookshelf, past two boys in suits who are drinking soda and munching, to reveal lee.
-0049_Hannah_and_her_sisters_01.27.39.743-01.27.45.980 	the uncle and the children happily drink their beer as the movie cuts to a wall with subtly patterned wallpaper in hannah's bedroom.
 1001_Flight_00.01.32.832-00.01.38.238 	he drinks from an almost entry beer bottle.
-1001_Flight_01.00.50.611-01.00.53.967 	nicole sits in the passenger seat of whip's car as he drives and drinks his beer.
-1002_Harry_Potter_and_the_Half-Blood_Prince_02.04.01.800-02.04.09.053 	he scoops up more liquid, returns to dumbledore, and helps him drink.
-1003_How_to_Lose_Friends_and_Alienate_People_01.34.32.184-01.34.41.784 	drinking whiskey at the foot of his bed and half watching a monster movie on tv, he flicks through the channels.
-1005_Signs_00.07.37.524-00.07.39.424 	morgan walks across to bo as she drinks from a large glass of water.
-1006_Slumdog_Millionaire_01.00.55.946-01.01.03.781 	on a large balcony above the cinema, six men are drinking and playing a gambling game.
-1008_Spider-Man2_01.01.19.999-01.01.22.125 	he raises it to his lips to find that it's already been drunk.
-1009_Spider-Man3_00.43.20.782-00.43.29.343 	peter is standing amidst the delirious crowd, smiling to himself, drinking in the adulation.
-1009_Spider-Man3_01.33.37.186-01.33.40.776 	peter pulls a face and drinks his glass of milk.
-1010_TITANIC_00.23.43.267-00.23.57.558 	inside a saloon with a view of the titanic men smoke and drink as they play a game of cards.
-1010_TITANIC_01.08.47.428-01.08.49.259 	he hands one glass to rose, then drinks from his own.
-1010_TITANIC_01.50.13.654-01.50.21.222 	andrews enters the a deck foyer, where dozens of passengers chat and drink as musicians play.
-1011_The_Help_01.00.08.988-01.00.13.797 	minnie is drinking tea.
-1015_27_Dresses_00.23.14.404-00.23.19.218 	jane walks breathlessly over to where george is drinking beer and chatting with friends.
 1017_Bad_Santa_00.02.20.633-00.02.33.883 	santa stares sadly at a group of people drinking a toast.
-1017_Bad_Santa_00.12.08.578-00.12.23.745 	having smashed the clock and several empties, he sits down on the bed, and, in need of refreshment, drinks from a half-full bottle with a cigarette end floating about it in.
 1017_Bad_Santa_00.13.56.514-00.14.04.575 	upstairs, in a smart kitchen, he drinks milk from the bottle, then replaces it in the well-stocked fridge.
 1018_Body_Of_Lies_00.33.10.004-00.33.11.671 	he drinks from a take-away coffee cup.
-1020_Crazy_Stupid_Love_00.15.27.280-00.15.29.401 	he sits alone at the counter, drinking a vodka cranberry through a straw.
-1023_Horrible_Bosses_01.12.42.340-01.12.47.733 	the guys find jones drinking in the bar.
 1024_Identity_Thief_00.45.32.968-00.45.37.207 	as they drink another shot, diana slaps the table.
-1026_Legion_00.49.15.792-00.49.19.234 	he picks up a can and drinks from it.
 1026_Legion_00.53.26.552-00.53.30.088 	he drinks beer from a can and puffs on a cigarette.
-1031_Quantum_of_Solace_01.21.57.602-01.22.03.033 	in a rundown part of town, men are drinking, smoking and playing games in a bar.
 1033_Sherlock_Holmes_A_Game_of_Shadows_00.17.26.946-00.17.31.126 	watson drinks his brandy, holmes his formaldehyde.
-1033_Sherlock_Holmes_A_Game_of_Shadows_00.57.33.730-00.57.44.427 	holmes drinks from a proffered bottle as watson gets up.
 1033_Sherlock_Holmes_A_Game_of_Shadows_01.35.20.789-01.35.26.185 	holmes drinks the contents of the vial watson handed him.
-1033_Sherlock_Holmes_A_Game_of_Shadows_01.43.45.099-01.43.47.766 	holmes is outside in a balcony, drinking from a hip flask.
 1038_The_Great_Gatsby_01.10.09.045-01.10.15.701 	they drink, dance and splash about in the ornamental pool.
-1038_The_Great_Gatsby_01.34.23.254-01.34.24.526 	the others sit around drinking whiskey.
-1040_The_Ugly_Truth_00.59.46.542-00.59.49.360 	mike's checking out an attractive woman wearing a crop top, who's standing at the bar, drinking a shot.
 1040_The_Ugly_Truth_01.01.16.910-01.01.19.276 	abby drinks her wine.
-1044_Pride_And_Prejudice_Disk_Two_01.26.19.378-01.26.21.402 	mr. darcy takes one and drinks from it.
 1045_An_education_01.02.27.162-01.02.32.631 	they drink wine with a picnic by the river of dusk.
-1046_Australia_00.33.00.250-00.33.05.000 	down below, flynn is drinking rum.
-1046_Australia_01.37.53.931-01.38.03.140 	carney watches the dance, laughing heartily and drinks deeply.
-1047_Defiance_00.42.55.186-00.42.56.802 	she takes the flask and drinks from it.
-1048_Gran_Torino_00.20.25.774-00.20.31.075 	walt makes to drink his whiskey but stops short.
 1048_Gran_Torino_00.56.08.373-00.56.09.392 	he's on his porch drinking coffee.
 1049_Harry_Potter_and_the_chamber_of_secrets_00.59.09.184-00.59.10.826 	he drinks some medicine.
 1049_Harry_Potter_and_the_chamber_of_secrets_01.20.01.428-01.20.05.959 	clinking glasses, they all drink at once.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.49.03.045-01.49.07.540 	they drink in unison.
 1052_Harry_Potter_and_the_order_of_phoenix_01.26.49.883-01.26.54.031 	drinking a cup of tea.
-1056_Rambo_00.49.44.262-00.49.50.139 	the troop sits smoking and drinking beer in the mess hut, watching women perform an exotic dance routine on a stage.
-2004_Juno_01.15.47.566-01.15.48.976 	inside, we see vanessa sitting alone at her perfect dining room table, drinking a glass of wine.
-2004_Juno_01.17.51.118-01.17.52.401 	mac is alone at the kitchen table going over the family finances while drinking one of bren's weight loss shakes.
 2005_Signs_00.07.43.921-00.07.50.469 	he drinks.

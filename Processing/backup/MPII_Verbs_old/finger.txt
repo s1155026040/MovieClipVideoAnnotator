@@ -1,3 +1,9 @@
-0005_Chinatown_00.49.12.522-00.49.14.316 	He's been fingering the envelope.
-0023_THE_BUTTERFLY_EFFECT_00.49.09.886-00.49.16.483 	Evan, tired and depressed, sits on the lawn nearby, fingering the new burn scar on his belly.
-0032_The_Princess_Bride_00.23.16.569-00.23.23.795 	And now the Man In Black is smashed into a stone pillar, pinned there under the six fingered sword.
+0003_CASABLANCA_01.29.08.503-01.29.24.118 	renault sits at his desk and smokes while rick nervously fingers his hat.
+0005_Chinatown_00.49.12.522-00.49.14.316 	he's been fingering the envelope.
+0010_Frau_Ohne_Gewissen_00.04.10.712-00.04.13.243 	he fingers a pack of cigarettes in his shirt pocket, pulls it out, looks at it.
+0023_THE_BUTTERFLY_EFFECT_00.49.09.886-00.49.16.483 	evan, tired and depressed, sits on the lawn nearby, fingering the new burn scar on his belly.
+0028_The_Crying_Game_00.14.13.546-00.14.15.634 	he fingers the gun on his lap.
+0032_The_Princess_Bride_00.23.16.569-00.23.23.795 	and now the man in black is smashed into a stone pillar, pinned there under the six fingered sword.
+0041_The_Sixth_Sense_00.53.13.035-00.53.16.498 	she fingers the fabric of the back.
+0050_Indiana_Jones_and_the_last_crusade_01.50.10.613-01.50.14.314 	the grail knight reaches forward and fingers indy's clothing.
+1024_Identity_Thief_01.24.43.691-01.24.45.435 	she fingers her necklace.

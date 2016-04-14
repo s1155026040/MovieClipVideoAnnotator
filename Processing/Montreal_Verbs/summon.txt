@@ -1,13 +1,5 @@
-DEAR_JOHN.srt 	DEAR_JOHN_DVS621 	01:24:44,00 --> 01:24:49,50 	gazing back at him, she summons a deep breath.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS647 	01:27:48,00 --> 01:27:53,50 	someone summons a breath and eyes him uneasily.
-GREEN_ZONE.srt 	GREEN_ZONE_DVS272 	01:03:24,00 --> 01:03:30,50 	she summons a breath and drops her gaze.
-GREEN_ZONE.srt 	GREEN_ZONE_DVS305 	01:09:54,00 --> 01:10:02,50 	someone shakes his head and backs away, summoning a quavering breath.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS473 	01:43:47,00 --> 01:44:30,50 	summoning a breath, someone smiles.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS322 	01:32:18,00 --> 01:32:24,50 	someone summons a breath, someone glances at her.
-JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS563 	01:50:24,00 --> 01:50:35,50 	creeping across the porch, the chef summons a breath and paces.
 KARATE_KID.srt 	KARATE_KID_DVS1199 	01:38:01,00 --> 01:38:06,50 	someone blinks, then summons a breath.
-NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS175 	00:39:43,00 --> 00:39:56,50 	someone summons a breath, picks up her gnarled walking stick, and faces the girl.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS244 	00:45:27,00 --> 00:45:33,50 	someone summons a breath, squinting in the sunlight.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS245 	00:55:48,00 --> 00:55:52,50 	summoning a breath.
-TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS645 	01:11:24,00 --> 01:11:30,50 	then regretfully shakes his head and summons a sorrowful breath.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS328 	00:24:48,00 --> 00:24:57,50 	someone sends the knife flying into the bartenders chest, summons it back into his grip, and pins the farmer's hand to the table.

@@ -1,11 +1,4 @@
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS333 	01:23:47,00 --> 01:24:20,50 	his face bruised and swollen, someone eyes the gossipers.
-INSIDE_MAN.srt 	INSIDE_MAN_DVS101 	00:27:43,00 --> 00:27:49,50 	his face is cut and bruised.
-KARATE_KID.srt 	KARATE_KID_DVS1487 	02:01:09,00 --> 02:01:17,50 	now in the stadium's infirmary, a doctor gently tries to rotate someone's bruised swollen knee.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS553 	01:43:46,00 --> 01:43:51,50 	she slouches, her left cheek bruised.
-SALT.srt 	SALT_DVS234 	00:40:40,00 --> 00:40:46,50 	she faces him, revealing her bruised swollen eye.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS967 	01:02:59,00 --> 01:03:05,50 	someone dabs gently at someone's bruised, swollen eye.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1087 	01:14:24,00 --> 01:14:28,50 	someone sighs gravely, her face still bruised.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1457 	01:38:39,00 --> 01:38:44,50 	now, in the hospital, someone lies beside a bandaged and bruised someone.
-SPARKLE_2012.srt 	SPARKLE_2012_DVS345 	00:56:52,00 --> 00:56:58,50 	the compact's mirror reflects sister bruised eye.
-THE_CALL.srt 	THE_CALL_DVS1096 	01:22:06,00 --> 01:22:12,50 	someone runs to someone and looks over the shirtless and bruised captive.
-THE_CALL.srt 	THE_CALL_DVS1139 	01:25:48,00 --> 01:25:55,50 	someone looks up again, her bruised left eye almost swollen shut,

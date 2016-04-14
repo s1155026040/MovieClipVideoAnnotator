@@ -1,15 +1,6 @@
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS665 	01:40:08,00 --> 01:40:17,50 	someone massages his own hand.
-DISTRICT_9.srt 	DISTRICT_9_DVS511 	00:59:42,00 --> 00:59:48,50 	he hangs his head and massages his temple with his thumb.
 FLIGHT.srt 	FLIGHT_DVS389 	01:02:32,00 --> 01:02:37,50 	she massages his knee.
-GET_HIM_TO_THE_GREEK.srt 	GET_HIM_TO_THE_GREEK_DVS98 	00:55:42,00 --> 00:55:51,50 	someone yanks his sunglasses off and squats, then wipes the corner of his mouth and massages his upper lip.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS110 	00:18:08,00 --> 00:18:31,50 	the rider clasps his own hand and massages his palm.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS152 	00:23:45,00 --> 00:23:51,50 	stepping outside, he pauses and massages his right palm.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS196 	00:30:59,00 --> 00:31:06,50 	he massages his palm and eyes someone.
 JACK_AND_JILL.srt 	JACK_AND_JILL_DVS152 	00:30:49,00 --> 00:30:54,50 	she massages someone with a choke cold.
-NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS253 	00:52:54,00 --> 00:54:08,50 	at a bathtub, someone massages lather into her wedding veil, bites her lips, then checks the rinsed cloth.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS264 	00:50:19,00 --> 00:50:37,50 	someone massages his wrists, gazing off.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS857 	00:56:52,00 --> 00:56:57,50 	someone's hand reaches down and massages one foot.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS925 	01:00:02,00 --> 01:00:07,50 	she massages her big toe and winces.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS255 	00:48:53,00 --> 00:49:01,50 	massaging her wrist, someone strides to the bathroom.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS589 	01:46:13,00 --> 01:46:21,50 	grinning, someone massages his neck then wraps her arms around him once again.
-THE_CALL.srt 	THE_CALL_DVS841 	01:04:02,00 --> 01:04:09,50 	as he massages her scalp with shampoo, he keeps his face close to hers.

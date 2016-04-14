@@ -1,23 +1,7 @@
-0009_Forrest_Gump_00.06.08.297-00.06.09.514 	Forrest stops suddenly as his brace gets stuck.
-0009_Forrest_Gump_00.06.09.514-00.06.12.370 	Forrest's brace is caught in a gutter grate.
-0012_Get_Shorty_01.25.36.320-01.25.40.172 	As the valet drives off with Chili's minivan, a CAB pulls up and Harry - his hands bandaged, his neck in a massive brace - gets out.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.23.43.263-00.23.46.808 	Bilbo staggering out of Bag end.he braces himself in the night air, Pale and Trembling, as if his loss of the ring has weakened him.
-0026_The_Big_Fish_00.23.47.368-00.23.54.574 	Edward braces himself, fists ready for a fight, if that's what it's going to take.
-0050_Indiana_Jones_and_the_last_crusade_00.35.48.879-00.35.51.535 	Indy braces his back against the altar and TOPPLES THE COFFIN with his feet.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.12.09.773-00.12.10.778 	Harry braces himself.
-1004_Juno_00.23.30.840-00.23.33.220 	Mac and Bren brace themselves.
+0050_Indiana_Jones_and_the_last_crusade_00.35.48.879-00.35.51.535 	indy braces his back against the altar and topples the coffin with his feet.
+1004_Juno_00.23.30.840-00.23.33.220 	mac and bren brace themselves.
 1010_TITANIC_02.35.17.825-02.35.22.397 	wearing a life vest, fabrizio swims past one of the broken window suction slams against the side of the ship, but he braces himself against the windowed frame.
 1035_The_Adjustment_Bureau_01.28.42.297-01.28.45.390 	in the courthouse ladies room david braces a mop handle behind a radiator barring the door.
 1052_Harry_Potter_and_the_order_of_phoenix_00.17.49.411-00.17.52.282 	nearing the bottom, he braces himself and steps off unsteadily.
-1053_Harry_Potter_and_the_philosophers_stone_02.04.56.912-02.05.02.915 	ron braces himself.
 1062_Day_the_Earth_stood_still_00.16.46.548-00.16.53.000 	helen and yusef hold hands as the scientists brace themselves.
-2012_Unbreakable_00.51.16.393-00.51.21.142 	elijah's leg is immobilized by a metal brace and held straight.
-2012_Unbreakable_01.07.06.858-01.07.09.506 	his metal brace and the wheelchair crash into two racks.
 2026_Legion_00.26.47.650-00.26.48.738 	he clamps his eyes shut, bracing himself for the end.
-2027_Les_Miserables_00.21.27.482-00.21.28.715 	he throws himself under the cart at this higher end, and braces himself to lift it from beneath.
-1053_Harry_Potter_and_the_philosophers_stone_02.04.56.912-02.05.02.915 	ron braces himself.
-1062_Day_the_Earth_stood_still_00.16.46.548-00.16.53.000 	helen and yusef hold hands as the scientists brace themselves.
-2012_Unbreakable_00.51.16.393-00.51.21.142 	elijah's leg is immobilized by a metal brace and held straight.
-2012_Unbreakable_01.07.06.858-01.07.09.506 	his metal brace and the wheelchair crash into two racks.
-2026_Legion_00.26.47.650-00.26.48.738 	he clamps his eyes shut, bracing himself for the end.
-2027_Les_Miserables_00.21.27.482-00.21.28.715 	he throws himself under the cart at this higher end, and braces himself to lift it from beneath.

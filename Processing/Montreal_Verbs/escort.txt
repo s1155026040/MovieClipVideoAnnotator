@@ -1,17 +1,9 @@
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS140 	00:13:20,00 --> 00:13:24,50 	as a policeman opens the truck, uniformed soldiers escort the prisoners out.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS144 	00:13:30,00 --> 00:13:37,50 	as the soldiers escort the prisoners along the barricaded path, someone spots his son.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS149 	00:13:58,00 --> 00:14:05,50 	inside, a crowded courtroom erupts as the soldiers escort the man.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS498 	00:48:22,00 --> 00:48:30,50 	meanwhile on a rooftop, a bald man escorts someone and someone to the military grade chopper.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS369 	00:59:03,00 --> 00:59:07,50 	he escorts her outside.
 BLINDDATING.srt 	BLINDDATING_DVS81 	00:24:48,00 --> 00:24:59,50 	someone escorts a petite redhead down the building's front steps toward his brother and the limo.
-BLINDDATING.srt 	BLINDDATING_DVS114 	00:31:11,00 --> 00:31:20,50 	someone escorts someone into a waiting room.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS250 	00:44:02,00 --> 00:44:07,50 	someone escorts the men into dr.
-COLOMBIANA.srt 	COLOMBIANA_DVS350 	00:31:34,00 --> 00:31:40,50 	a bald mustached someone leads a team escorting a hooded prisoner.
-FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS234 	01:02:20,00 --> 01:02:37,50 	someone escorts someone down to the beach and someone goes inside.
-GREEN_ZONE.srt 	GREEN_ZONE_DVS79 	00:21:10,00 --> 00:21:51,50 	glancing across the street, he spots the guards escorting a cluster of well-dressed men away from the white suv.
 IN_TIME.srt 	IN_TIME_DVS249 	00:25:41,00 --> 00:25:54,50 	suited men in sunglasses escort well-dressed citizens and chauffeurs assist patrons into cars.
 IN_TIME.srt 	IN_TIME_DVS259 	00:26:37,00 --> 00:26:43,50 	someone glances at the suited men escorting the hotel's patrons.
-IN_TIME.srt 	IN_TIME_DVS580 	01:01:47,00 --> 01:01:53,50 	now, someone holds someone's arm as he escorts her down a sidewalk.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS140 	00:26:06,00 --> 00:26:15,50 	two officers on motorcycles escort a black luxury car along a city street.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS642 	01:48:37,00 --> 01:48:44,50 	two officers escort someone out.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS336 	00:43:19,00 --> 00:43:23,50 	he escorts her to an elevator.
@@ -20,11 +12,8 @@ PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS313 	00:58:49,00 --> 00:58:54,50 	a deputy
 SALT.srt 	SALT_DVS364 	01:04:47,00 --> 01:04:58,50 	back in the present, someone escorts her into a radio room.
 SALT.srt 	SALT_DVS518 	01:28:50,00 --> 01:28:58,50 	now the agents escort someone of a curving flight of stairs to a landing, where someone lingers with the someone.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS608 	01:39:35,00 --> 01:39:42,50 	now in prison, a female guard escorts sister into a visiting area.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS307 	00:45:52,00 --> 00:45:58,50 	the inspectors escort silk into his apartment, which is filled with shelves of wallets.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS503 	01:31:04,00 --> 01:31:11,50 	someone watches as the two thugs escort his ex-wife through the strip club.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS927 	01:43:18,00 --> 01:43:23,50 	later, she coldly escorts someone into an elevator.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1359 	02:26:03,00 --> 02:26:12,50 	as a businessman escorts her through a building
-THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS457 	01:21:12,00 --> 01:21:20,50 	on the freeway, someone's convertible is escorted on three sides.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS456 	00:49:20,00 --> 00:49:24,50 	he escorts them outside.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS310 	00:50:00,00 --> 00:50:06,50 	someone escorts him.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS601 	00:56:16,00 --> 00:56:22,50 	the general escorts her inside and someone turns to someone.

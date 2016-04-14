@@ -1,0 +1,4 @@
+ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS211 	01:03:24,00 --> 01:03:33,50 	someone starts to salt his, but someone takes the shaker away.
+JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS410 	01:19:43,00 --> 01:19:47,50 	someone salts his food.
+MORNING_GLORY.srt 	MORNING_GLORY_DVS468 	01:39:08,00 --> 01:39:13,50 	someone sprinkles salt into the frittata.
+YOUNG_ADULT.srt 	YOUNG_ADULT_DVS244 	00:46:26,00 --> 00:46:32,50 	someone sprinkles salt onto the side of someone's hand.

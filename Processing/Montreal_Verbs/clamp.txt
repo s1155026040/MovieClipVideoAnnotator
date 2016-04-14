@@ -1,5 +1,2 @@
 IN_TIME.srt 	IN_TIME_DVS496 	00:53:40,00 --> 00:53:46,50 	someone clamps a hand over someone's mouth.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS396 	00:46:41,00 --> 00:46:51,50 	its jaws clamp on the oars paddle.
-PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS212 	00:54:58,00 --> 00:55:11,50 	behind the wheel someone sits up, her eyes clamped shut.
 PROMETHEUS.srt 	PROMETHEUS_DVS1053 	01:54:59,00 --> 01:55:06,50 	he clamps his mouth shut.
-SUPER_8.srt 	SUPER_8_DVS546 	01:31:41,00 --> 01:31:47,50 	someone clamps his hand over someone's mouth and pulls him behind a rock.

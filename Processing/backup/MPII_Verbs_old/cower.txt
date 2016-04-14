@@ -1,24 +1,15 @@
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.29.03.320-00.29.09.662 	Terrified, FARMER MAGGOT cowers in his doorway.FANG, his dog, Whimpers and backs away.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.33.06.932-02.33.09.071 	Frodo cowers on the seat, like a lost child upon the throne of mountain kings.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.21.34.991-00.21.36.961 	The PALANTIR rolls across the FLOOR, causing EVERYONE in the room to COWER BACK.
-0031_The_Lost_Weekend_01.26.19.203-01.26.21.279 	Don still cowers in his chair, his face hidden in his arms, his breathing heavy with terror.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.21.34.991-00.21.36.961 	the palantir rolls across the floor, causing everyone in the room to cower back.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.44.16.709-01.44.19.837 	gollum cowering back.
+0031_The_Lost_Weekend_01.26.19.203-01.26.21.279 	don still cowers in his chair, his face hidden in his arms, his breathing heavy with terror.
+1008_Spider-Man2_00.28.07.015-00.28.10.709 	cowering, they all look closely at the squad car seemingly hanging in midair.
 1009_Spider-Man3_01.56.37.570-01.56.44.085 	out of a moving mountain of sand sandman rises to his feet, towering over the cowering crowd like a colossus.
-1034_Super_8_01.36.25.359-01.36.26.169 	alice and cary cower back from it.
-1037_The_Curious_Case_Of_Benjamin_Button_01.21.13.595-01.21.14.600 	benjamin cowers on the deck below the wheelhouse.
+1037_The_Curious_Case_Of_Benjamin_Button_00.29.13.096-00.29.14.065 	they cower.
 1043_Vantage_Point_00.51.28.515-00.51.34.181 	he trains the pistol on the president, who cowers in a corner.
-1043_Vantage_Point_01.10.05.472-01.10.11.223 	veronica shoots luis point blank as ashton cowers on the floor by the gurney, then reaches out for the drip support.
-1047_Defiance_00.45.57.620-00.45.58.620 	the bearded milkman cowers behind a tree.
+1047_Defiance_00.17.32.074-00.17.36.700 	cowering berniscki sinks to his knees.
 1047_Defiance_01.59.56.437-01.59.58.719 	couching low, tuvia sprints between the cowering people.
 1047_Defiance_02.02.01.281-02.02.02.834 	malbin is cowering behind a nearby tree.
-1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.08.20.084-01.08.22.003 	gregorovitch cowers on the floor.
-1052_Harry_Potter_and_the_order_of_phoenix_01.33.52.458-01.33.56.851 	harry cowers and runs from snape's room.
-1052_Harry_Potter_and_the_order_of_phoenix_01.57.39.951-01.57.41.919 	bellatrix cowers on the ground.
+1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.41.58.594-01.42.03.035 	the sword in both hands, ron races towards harry, who cowers.
 1053_Harry_Potter_and_the_philosophers_stone_01.10.47.272-01.10.52.881 	terrified, she cowers against the pipes as the troll smashes a sink off the wall.
-1056_Rambo_00.02.19.416-00.02.27.671 	brandishing rifles, the troops order a group of terrified and cowering peasants off the truck and onto the road.
-1056_Rambo_00.28.23.799-00.28.24.989 	sarah cowers under a hut.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.16.39.521-00.17.04.676 	it breathes fire, then cowers as griphook shakes a bell.
-1053_Harry_Potter_and_the_philosophers_stone_01.10.47.272-01.10.52.881 	terrified, she cowers against the pipes as the troll smashes a sink off the wall.
-1056_Rambo_00.02.19.416-00.02.27.671 	brandishing rifles, the troops order a group of terrified and cowering peasants off the truck and onto the road.
-1056_Rambo_00.28.23.799-00.28.24.989 	sarah cowers under a hut.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.16.39.521-00.17.04.676 	it breathes fire, then cowers as griphook shakes a bell.
-2054_Harry_Potter_and_the_prisoner_of_azkaban_00.49.10.461-00.49.17.557 	high up, near the ceiling, the fat lady cowers in a portrait not her own, trembling.
+1056_Rambo_00.02.43.202-00.02.47.083 	the villagers cower.
+1056_Rambo_00.54.07.881-00.54.09.867 	the women cower.
+1062_Day_the_Earth_stood_still_00.56.36.828-00.56.42.000 	she cowers, covering her head, as insects swarm around her.

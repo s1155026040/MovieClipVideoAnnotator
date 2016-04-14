@@ -1,0 +1,3 @@
+HUGO.srt 	HUGO_DVS711 	01:44:51,00 --> 01:44:57,50 	the dogs run over to someone who tries to shoo them away.
+KARATE_KID.srt 	KARATE_KID_DVS450 	00:40:20,00 --> 00:40:27,50 	across the street, a vendor shoos the unruly boys away and they move on.
+THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS320 	00:58:36,00 --> 00:58:41,50 	he shoos the dog off the couch.

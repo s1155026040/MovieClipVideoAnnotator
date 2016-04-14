@@ -1,3 +1,2 @@
-EASY_A.srt 	EASY_A_DVS137 	00:43:38,00 --> 00:43:43,50 	she stutters and stalks off.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS288 	01:06:29,00 --> 01:06:34,50 	someone's lips stutter thoughtfully.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS246 	00:56:12,00 --> 00:56:17,50 	his lips stuttering hesitantly.

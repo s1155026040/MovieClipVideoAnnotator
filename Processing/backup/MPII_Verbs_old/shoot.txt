@@ -1,281 +1,208 @@
-0001_American_Beauty_00.28.47.038-00.28.50.004 	Angela shoots a wide-eyed look at Jane, who ignores it.
-0005_Chinatown_00.15.20.528-00.15.22.220 	He shoots past Duffy, expertly running off a couple of fast shots.
-0007_DIE_NACHT_DES_JAEGERS_00.12.46.596-00.12.47.605 	We SHOOT them through the window of MIZ CUNNINGHAM'S second- hand store.
-0007_DIE_NACHT_DES_JAEGERS_00.18.21.979-00.18.22.050 	We SHOOT THROUGH the DOOR; he quietly enters.
-0007_DIE_NACHT_DES_JAEGERS_00.26.17.213-00.26.20.751 	We SHOOT from inside the screen door.
-0007_DIE_NACHT_DES_JAEGERS_00.53.22.588-00.53.24.254 	JOHN'S astonished eyes peer through the crack in the door; the door loosens; PREACHER yanks his hand loose and sucks it, groaning; the door slams to; the bolt is shot home.
-0007_DIE_NACHT_DES_JAEGERS_00.54.08.619-00.54.10.683 	We shoot over BESS'S turned photograph and over BIRDIE, close, passed out in his rocker.
-0007_DIE_NACHT_DES_JAEGERS_00.54.53.273-00.54.54.306 	We shoot from the river.
-0007_DIE_NACHT_DES_JAEGERS_00.59.18.630-00.59.18.883 	We shoot from within open door of kitchen.
-0007_DIE_NACHT_DES_JAEGERS_00.59.21.997-00.59.22.281 	We shoot OVER her.
-0007_DIE_NACHT_DES_JAEGERS_01.00.11.925-01.00.17.713 	We shoot OVER two sitting rabbits as they watch, their ears up.
-0007_DIE_NACHT_DES_JAEGERS_01.25.00.710-01.25.02.720 	We SHOOT OVER two TROOPERS.
-0008_Fargo_00.29.00.673-00.29.02.811 	He brings a gun out and reaches across Carl and shoots at the back of the trooper's head.
-0011_Gandhi_02.26.26.098-02.26.30.880 	Bourke-White -- who has been moving, crouching to shoot him and the light -- sags back against the wall, relaxing at last.
-0011_Gandhi_02.59.49.948-02.59.51.656 	We get a wide-angle shot now and see that Bourke-White is shooting one of her favorite subjects again.
-0011_Gandhi_02.59.58.231-02.59.59.210 	And she shoots him again, as he hands the cloth back to Manu.
-0011_Gandhi_03.01.08.701-03.01.16.729 	She shoots him against the door -- the crowd milling distantly, waiting -- then she lowers her camera.
-0014_Ist_das_Leben_nicht_schoen_00.04.04.971-00.04.14.977 	One of them makes the slide and shoots out onto the ice of a frozen river at the bottom of the hill.
-0016_O_Brother_Where_Art_Thou_00.33.01.543-00.33.07.332 	The driver shoots a glance up to the rearview mirror as the sirens grow louder, then gropes inside his coat.
-0017_Pianist_00.30.36.767-00.30.38.009 	The prisoners are being shot down.
-0017_Pianist_00.41.33.425-00.41.36.242 	The NCO turns his pistol on the young woman and shoots her through the head.
-0020_Raising_Arizona_00.02.12.173-00.02.15.551 	Hi obliges but shoots sympathetic glances at Ed who is obviously upset, wiping away tears and snuffling behind the camera.
-0020_Raising_Arizona_00.33.22.473-00.33.23.010 	It grows louder, then begins to recede as the bike shoots by the station.
-0020_Raising_Arizona_01.27.49.767-01.27.52.499 	In the middle background of the extreme long shot two men are walking across the field.
-0022_Reservoir_Dogs_00.04.11.561-00.04.13.151 	Mr. Blonde shoots Mr. White with his finger.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.47.31.509-01.47.37.228 	Legolas shoots an Arrow into the creature's head, gaining a few vital seconds for Aragorn and Boromir as they race out of the water with Frodo.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.07.48.302-00.07.54.827 	SAM shoots GOLLUM a HOSTILE LOOK and turns back to rummage in his KNAPSACK.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.11.49.955-02.11.57.319 	MERRY'S SWORD bursts into FLAME and his ARM is shot with PAIN.
-0026_The_Big_Fish_00.40.08.372-00.40.12.254 	Snake-like WHITE ROOTS shoot out of the ground, grabbing for his ankles.
-0026_The_Big_Fish_00.56.29.316-00.56.32.830 	A sudden EXPLOSION as Edward is shot out of a giant cannon.
-0026_The_Big_Fish_01.25.04.980-01.25.05.449 	He has a gun, but he truly doesn't want to shoot Norther.
-0028_The_Crying_Game_01.39.43.742-01.39.45.131 	Maguire shoots as he runs.
-0028_The_Crying_Game_01.42.40.212-01.42.43.219 	As she raises the gun, Dil shoots her repeatedly, saying.
-0028_The_Crying_Game_01.42.43.303-01.42.45.669 	Dil shoots Jude in the throat, and she falls dead, covered in blood.
-0030_The_Hustler_00.16.57.555-00.17.00.698 	Two balls are rolled to the end of the table, and Fats and Eddie, like two duelers, prepare to shoot for the break.
-0030_The_Hustler_02.08.44.194-02.08.46.578 	But Eddie is shooting pool now, making all his shots quickly and accurately.
-0032_The_Princess_Bride_00.42.14.408-00.42.16.023 	WESTLEY GRABBING BUTTERCUP, pulling her aside to safety as another great spun of flame suddenly shoots up.
-0043_Thelma_and_Luise_01.11.07.508-01.11.10.547 	The front door swings open and there stands Darryl looking like he's been shot out of a cannon.
-0043_Thelma_and_Luise_01.13.41.071-01.13.43.225 	Louise shoots her a look.
-0046_Chasing_Amy_00.33.53.013-00.33.54.341 	Banky shoots Holden a `these guys are idiots' look.
-0046_Chasing_Amy_00.42.20.162-00.42.26.212 	It pops off one of the circles and shoots back at them, missing them as they duck.
-0046_Chasing_Amy_00.57.44.209-00.57.46.175 	Holden and Alyssa shoot straight up, eyes struggling to focus.
-0046_Chasing_Amy_00.59.05.543-00.59.07.971 	Banky shoots him a glare.
-0046_Chasing_Amy_01.17.50.228-01.17.53.816 	The blood shoots out like a geyser, and Two goes down hard.
-0049_Hannah_and_her_sisters_01.03.24.189-01.03.36.653 	Mickey keeps shooting glances at Holly; she can't sit still.
-0050_Indiana_Jones_and_the_last_crusade_01.19.42.740-01.19.44.616 	The flaming Messerschmidt fuselage shoots past and EXPLODES in the middle of the road.
-0051_Men_in_black_00.11.32.507-00.11.39.505 	He runs to the front door of the Museum, shoots it open and runs inside.
-0051_Men_in_black_01.15.18.654-01.15.23.529 	AT THE MAIN VIEWING SCREEN, A GREEN LINE shoots out from the Arquillian ship, striking a region of planet earth.
-0051_Men_in_black_01.22.38.339-01.22.38.850 	And a HUGE, SLIMY WAD OF GOO shoots from him and engulfs both shotguns.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.33.44.450-00.33.45.706 	A hand shoots up.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.36.09.357-00.36.10.411 	It shoots into the air.
-1002_Harry_Potter_and_the_Half-Blood_Prince_00.52.10.496-00.52.19.519 	She shoots up into the air and hovers with arms outstretched, her mouth open in a muted scream.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.58.59.087-01.59.03.382 	Harry places his hand on Dumbledore's arm and they shoot off the tower.
-1002_Harry_Potter_and_the_Half-Blood_Prince_02.06.47.795-02.06.48.647 	A bony hand shoots from the water and grabs his arm.
-1003_How_to_Lose_Friends_and_Alienate_People_00.15.54.198-00.15.56.359 	They turn to look at Bobbie, and their eyebrows shoot up in unison.
-1003_How_to_Lose_Friends_and_Alienate_People_00.25.14.934-00.25.16.533 	A glob of chewed burger shoots out of his mouth and lands with a splat on the back of the woman's cream jacket.
-1005_Signs_00.36.53.890-00.36.57.029 	Graham stands still, his torch shooting a slender shaft of light across the circle.
-1005_Signs_00.44.58.050-00.45.03.717 	Graham shoots a knowing glance at this brother, who looking forlorn, returns his gaze to the TV.
-1005_Signs_01.01.35.246-01.01.36.413 	A clawed hand shoots out from under the door.
-1006_Slumdog_Millionaire_01.48.30.840-01.48.33.117 	Salim shoots him.
-1006_Slumdog_Millionaire_01.48.42.752-01.48.45.283 	Javed's men rush in and shoot Salim.
-1007_Spider-Man1_00.22.56.758-00.22.57.685 	But another web shoots across to the next table and then sneers a tray.
-1007_Spider-Man1_00.27.14.599-00.27.17.987 	Palm uppermost, he flexes his wrist again and another web shoots out and falls to the ground.
+0001_American_Beauty_00.28.47.038-00.28.50.004 	angela shoots a wide-eyed look at jane, who ignores it.
+0003_CASABLANCA_01.40.27.087-01.40.32.735 	rick now shoots at strasser, who crumples to the ground.
+0004_Charade_00.10.19.299-00.10.20.735 	close shot -- desk drawer (from above) as it is pulled open.
+0004_Charade_00.27.25.483-00.27.26.590 	close shot -- grandpierre as he winces.
+0004_Charade_00.36.14.187-00.36.15.806 	shooting straight down; there is no one on the street and it is too far to jump.
+0004_Charade_01.08.31.730-01.08.33.186 	close shot -- scobie.
+0004_Charade_01.08.52.337-01.08.54.027 	close shot -- grandpierre.
+0004_Charade_01.14.36.648-01.15.02.124 	close shot -- reggie on the phone, looking like the rug has been pulled out from under her.
+0004_Charade_01.22.24.271-01.22.26.625 	close shot -- grandpierre.
+0005_Chinatown_00.15.20.528-00.15.22.220 	he shoots past duffy, expertly running off a couple of fast shots.
+0007_DIE_NACHT_DES_JAEGERS_00.11.52.910-00.11.53.951 	he approaches his children, across whose bed we shoot without yet seeing them.
+0007_DIE_NACHT_DES_JAEGERS_00.12.46.596-00.12.47.605 	we shoot them through the window of miz cunningham's second- hand store.
+0007_DIE_NACHT_DES_JAEGERS_00.18.13.244-00.18.15.614 	group shot through door-glass, from john's view point preacher, willa and pearl surround a little table.
+0007_DIE_NACHT_DES_JAEGERS_00.18.21.979-00.18.22.050 	we shoot through the door; he quietly enters.
+0007_DIE_NACHT_DES_JAEGERS_00.26.17.213-00.26.20.751 	we shoot from inside the screen door.
+0007_DIE_NACHT_DES_JAEGERS_00.41.03.476-00.41.08.339 	walt enters shot with pipe.
+0007_DIE_NACHT_DES_JAEGERS_00.52.05.663-00.52.11.326 	preacher sets the candle on a barrel near the shelf-prop and sinks to his knees below shot as pearl gapes at john and john looks stony.
+0007_DIE_NACHT_DES_JAEGERS_00.53.22.588-00.53.24.254 	john's astonished eyes peer through the crack in the door; the door loosens; preacher yanks his hand loose and sucks it, groaning; the door slams to; the bolt is shot home.
+0007_DIE_NACHT_DES_JAEGERS_00.54.08.619-00.54.10.683 	we shoot over bess's turned photograph and over birdie, close, passed out in his rocker.
+0007_DIE_NACHT_DES_JAEGERS_00.54.53.273-00.54.54.306 	we shoot from the river.
+0007_DIE_NACHT_DES_JAEGERS_00.59.18.630-00.59.18.883 	we shoot from within open door of kitchen.
+0007_DIE_NACHT_DES_JAEGERS_00.59.21.997-00.59.22.281 	we shoot over her.
+0007_DIE_NACHT_DES_JAEGERS_01.00.11.925-01.00.17.713 	we shoot over two sitting rabbits as they watch, their ears up.
+0007_DIE_NACHT_DES_JAEGERS_01.21.33.944-01.21.35.741 	ruby enters shot carrying a candle.
+0007_DIE_NACHT_DES_JAEGERS_01.25.00.710-01.25.02.720 	we shoot over two troopers.
+0010_Frau_Ohne_Gewissen_00.22.21.096-00.22.25.831 	shooting past neff sitting behind the wheel of his car the car hop hangs a tray on the door and serves him a bottle of beer.
+0011_Gandhi_01.03.12.846-01.03.21.546 	the camera is low, shooting along the track toward the light of an approaching train.
+0011_Gandhi_01.27.26.659-01.27.28.124 	close shot dyer, still calm.
+0011_Gandhi_02.26.26.098-02.26.30.880 	bourke-white -- who has been moving, crouching to shoot him and the light -- sags back against the wall, relaxing at last.
+0011_Gandhi_02.35.00.621-02.35.01.025 	close shot -- mirabehn watching him her face wet with tears.
+0011_Gandhi_02.59.49.948-02.59.51.656 	we get a wide-angle shot now and see that bourke-white is shooting one of her favorite subjects again.
+0011_Gandhi_02.59.58.231-02.59.59.210 	and she shoots him again, as he hands the cloth back to manu.
+0011_Gandhi_03.01.08.701-03.01.16.729 	she shoots him against the door -- the crowd milling distantly, waiting -- then she lowers her camera.
+0014_Ist_das_Leben_nicht_schoen_00.13.12.298-00.13.21.339 	pan shot as george crosses the street, uncle billy, cousin tilly and cousin eustace are leaning out of the second floor window of the building and loan offices.
+0014_Ist_das_Leben_nicht_schoen_01.29.10.132-01.29.17.076 	george enters shot, and stands listening to her.
+0014_Ist_das_Leben_nicht_schoen_01.38.45.713-01.38.49.540 	camera shooting down from george's angle to the water, dotted with floating ice, passing under the bridge.
+0016_O_Brother_Where_Art_Thou_00.33.01.543-00.33.07.332 	the driver shoots a glance up to the rearview mirror as the sirens grow louder, then gropes inside his coat.
+0017_Pianist_00.30.36.767-00.30.38.009 	the prisoners are being shot down.
+0017_Pianist_00.41.33.425-00.41.36.242 	the nco turns his pistol on the young woman and shoots her through the head.
+0017_Pianist_01.44.17.539-01.44.18.081 	his two companions have also put their packages to their shoulders and begin shooting, all aiming their fire at the schutzpolizei building.
+0019_Pulp_Fiction_00.19.39.086-00.19.45.680 	jules' eyes go to vincent, vincent smirks, jules rolls his eyes and shoot brett in the shoulder.
+0019_Pulp_Fiction_00.30.15.261-00.30.36.308 	vincent takes out his case of the works (utensils for shooting up).
+0020_Raising_Arizona_00.45.24.227-00.45.33.820 	the passenger cop is leaning far out his window, one hand gripping the light-and-siren rack, the other pointing a gun at hi, shooting away.
+0020_Raising_Arizona_01.18.14.284-01.18.14.414 	shooting through where the windshield used to be, cutting in at the end of the skid as the car rocks to a halt.
+0021_Rear_Window_00.53.42.482-00.53.43.482 	shooting towards the big window, with the neighborhood beyond, jeff is as usual seated in his wheelchair on the left of the window, but now turned toward a newcomer.
+0022_Reservoir_Dogs_00.04.11.561-00.04.13.151 	mr. blonde shoots mr. white with his finger.
+0022_Reservoir_Dogs_00.09.44.367-00.09.45.850 	he's been shot in the stomach.
+0022_Reservoir_Dogs_01.31.58.785-01.31.59.732 	mr. white brings his gun around on eddie and shoots him.
+0022_Reservoir_Dogs_01.32.13.277-01.32.16.150 	mr. white is shot full of holes, but still on his knees, not moving.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.47.31.509-01.47.37.228 	legolas shoots an arrow into the creature's head, gaining a few vital seconds for aragorn and boromir as they race out of the water with frodo.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.16.03.250-01.16.13.241 	theoden bows slightly to the hooded figure and leaves, shooting aragorn a strange look as he goes.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.11.49.955-02.11.57.319 	merry's sword bursts into flame and his arm is shot with pain.
+0026_The_Big_Fish_00.40.08.372-00.40.12.254 	snake-like white roots shoot out of the ground, grabbing for his ankles.
+0026_The_Big_Fish_00.56.29.316-00.56.32.830 	a sudden explosion as edward is shot out of a giant cannon.
+0026_The_Big_Fish_01.25.04.980-01.25.05.449 	he has a gun, but he truly doesn't want to shoot norther.
+0028_The_Crying_Game_01.39.48.460-01.39.49.701 	maguire hit, still shooting.
+0029_The_Graduate_01.04.58.193-01.04.59.019 	the camera pulls back to a high overhead shot revealing many people moving back and forth in the lobby, passing ben and elaine.
+0030_The_Hustler_00.16.57.555-00.17.00.698 	two balls are rolled to the end of the table, and fats and eddie, like two duelers, prepare to shoot for the break.
+0030_The_Hustler_00.18.09.984-00.18.23.938 	fats plays quickly, moving from shot to shot with studied authority, his eyes and hands working fluidly together.
+0030_The_Hustler_00.21.09.509-00.21.11.187 	one-thirty and fats is still shooting.
+0030_The_Hustler_00.25.37.618-00.25.41.573 	as fats bends over to shoot, henry draws the venetian blinds.
+0030_The_Hustler_00.33.09.596-00.33.19.501 	eddie leans over to shoot, then turns away, laughing loudly to himself.
+0030_The_Hustler_00.33.24.762-00.33.26.558 	fats is shooting.
+0030_The_Hustler_01.17.45.397-01.17.49.068 	he is shooting as he did at ames, rapping in his shots with perfect control.
+0030_The_Hustler_02.08.44.194-02.08.46.578 	but eddie is shooting pool now, making all his shots quickly and accurately.
+0030_The_Hustler_02.08.46.578-02.08.48.176 	a depressed fats watches him shoot.
+0032_The_Princess_Bride_00.42.14.408-00.42.16.023 	westley grabbing buttercup, pulling her aside to safety as another great spun of flame suddenly shoots up.
+0032_The_Princess_Bride_00.48.54.253-00.48.55.903 	a third warrior, crossbow stretched, ready to shoot; this one is hidden in a tree blocking any escape westley might try.
+0043_Thelma_and_Luise_01.11.07.508-01.11.10.547 	the front door swings open and there stands darryl looking like he's been shot out of a cannon.
+0043_Thelma_and_Luise_01.52.35.862-01.52.39.907 	she points the gun at it, takes a second to get a bead, then shoots two of the tires flat.
+0046_Chasing_Amy_00.42.20.162-00.42.26.212 	it pops off one of the circles and shoots back at them, missing them as they duck.
+0046_Chasing_Amy_01.17.50.228-01.17.53.816 	the blood shoots out like a geyser, and two goes down hard.
+0049_Hannah_and_her_sisters_01.03.24.189-01.03.36.653 	mickey keeps shooting glances at holly; she can't sit still.
+0051_Men_in_black_00.11.32.507-00.11.39.505 	he runs to the front door of the museum, shoots it open and runs inside.
+1002_Harry_Potter_and_the_Half-Blood_Prince_00.33.44.450-00.33.45.706 	a hand shoots up.
+1002_Harry_Potter_and_the_Half-Blood_Prince_00.36.09.357-00.36.10.411 	it shoots into the air.
+1002_Harry_Potter_and_the_Half-Blood_Prince_00.52.10.496-00.52.19.519 	she shoots up into the air and hovers with arms outstretched, her mouth open in a muted scream.
+1002_Harry_Potter_and_the_Half-Blood_Prince_01.20.33.875-01.20.40.555 	they change form, and shoot into the sky, the cloud of black spell.
+1002_Harry_Potter_and_the_Half-Blood_Prince_01.58.59.087-01.59.03.382 	harry places his hand on dumbledore's arm and they shoot off the tower.
+1003_How_to_Lose_Friends_and_Alienate_People_00.15.54.198-00.15.56.359 	they turn to look at bobbie, and their eyebrows shoot up in unison.
+1005_Signs_00.36.53.890-00.36.57.029 	graham stands still, his torch shooting a slender shaft of light across the circle.
+1006_Slumdog_Millionaire_01.48.42.752-01.48.45.283 	javed's men rush in and shoot salim.
+1007_Spider-Man1_00.27.14.599-00.27.17.987 	palm uppermost, he flexes his wrist again and another web shoots out and falls to the ground.
 1007_Spider-Man1_00.45.29.676-00.45.31.149 	he shoots a web to an adjacent building.
 1007_Spider-Man1_00.45.45.016-00.45.50.955 	as he races towards the building opposite, he shoots another web to pull him away.
 1007_Spider-Man1_00.46.00.298-00.46.08.430 	each time it seems he's going to plummet to the ground, he shoots out another web and pulls himself along, again like tarzan swinging from vine to vine.
 1007_Spider-Man1_00.47.33.901-00.47.35.852 	he shoots at the moving shadow.
 1007_Spider-Man1_01.07.53.437-01.07.55.874 	the glider shoots into a hot air balloon.
-1007_Spider-Man1_01.09.24.781-01.09.26.123 	spider-man shoots a web into goblin's face.
 1007_Spider-Man1_01.17.30.638-01.17.31.871 	the green goblin shoots off into the night.
 1007_Spider-Man1_01.21.49.047-01.21.50.282 	he shoots out a web and pulls himself up.
 1007_Spider-Man1_01.40.28.835-01.40.35.236 	the green goblin shoots a missile and blows up the cable-car station.
-1007_Spider-Man1_01.44.23.815-01.44.27.700 	a blade shoots out, but the goblin is hit by debris.
+1007_Spider-Man1_01.41.22.626-01.41.30.477 	shooting out webs, he snakes his way along the steel girders.
 1007_Spider-Man1_01.45.11.377-01.45.13.176 	he shoots out a web to steady himself.
-1007_Spider-Man1_01.46.03.435-01.46.05.032 	spider-man shoots out a web and tries to pull himself clear.
-1007_Spider-Man1_01.46.10.033-01.46.12.178 	spider-man shoots more threads.
 1008_Spider-Man2_00.41.32.633-00.41.34.184 	it shoots towards the fusion machine.
 1008_Spider-Man2_01.16.54.046-01.16.55.445 	he flexes his wrists as if shooting out webs.
 1008_Spider-Man2_01.44.20.317-01.44.21.875 	he shoots web at octavius and lands on him.
 1008_Spider-Man2_01.46.42.869-01.46.52.707 	spider-man leaps anxiously from side to side, then shoots webs right and left.
-1008_Spider-Man2_01.47.18.561-01.47.21.043 	a block of web shoots out.
-1008_Spider-Man2_01.54.30.168-01.54.37.637 	spider-man shoots a web onto the building, and swings back in through a huge oil window, landing on octavius.
-1008_Spider-Man2_01.55.44.098-01.55.52.433 	the points of the pincer pierces the cable, and an enormous surge of electricity shoots up the limb to octavius.
+1009_Spider-Man3_00.08.34.146-00.08.46.595 	in a dark, peaceful forest, peter and mary jane, lying on a huge hammock-like web on their backs, are watching for shooting stars.
 1009_Spider-Man3_00.17.20.808-00.17.23.475 	peter jumps free of the hoverboard and shoots a web thread to the top of a skyscraper.
 1009_Spider-Man3_00.17.23.808-00.17.26.958 	swinging from the thread, he shoots webbing balls.
-1009_Spider-Man3_01.00.42.901-01.00.46.496 	flint shoots uncle ben in cold blood.
-1009_Spider-Man3_01.04.24.355-01.04.30.892 	flint shoots ben.
+1009_Spider-Man3_00.20.46.268-00.20.50.951 	peter swings backwards, shooting webbing at the bombs and disabling them.
 1009_Spider-Man3_02.04.57.871-02.05.00.816 	peter shoots a thread, pulls him free, and holds him through the bars.
-1010_TITANIC_01.40.40.854-01.40.43.316 	in the cargo hold, water shoots through a long tear in the hull.
 1010_TITANIC_02.06.56.130-02.07.01.385 	a flare shoots up from the bridge deck and explodes.
-1010_TITANIC_02.14.13.161-02.14.16.786 	lightoller shoots into the sky.
 1010_TITANIC_02.20.16.498-02.20.20.499 	he knocks a man out of his way, then shoots again.
-1010_TITANIC_02.21.54.005-02.21.57.681 	jack picks up the boy, then watches as water shoots in from cracks.
-1010_TITANIC_02.26.50.445-02.26.51.267 	murdoch shoots at him.
-1010_TITANIC_02.26.54.711-02.26.56.589 	murdoch shoots tommy.
+1010_TITANIC_02.21.49.943-02.21.50.610 	sparks shoot from an overhead pipe.
+1010_TITANIC_02.24.03.394-02.24.04.972 	sparks shoot nearby.
 1010_TITANIC_02.41.03.610-02.41.06.277 	small explosions shoot flames from portholes.
 1011_The_Help_00.46.09.286-00.46.13.430 	her eyes shoot up at yule mae who is clearing away some dishes.
-1011_The_Help_01.48.08.070-01.48.10.432 	celia shoots minnie an appalled sidelong glance.
 1014_2012_01.43.53.160-01.43.55.839 	it shoots down the ramp and bumps on the glacier
 1015_27_Dresses_01.41.37.614-01.41.38.110 	he shoots him an inquiring glance.
+1018_Body_Of_Lies_00.06.20.729-00.06.21.396 	a soldier is shot.
 1018_Body_Of_Lies_00.17.14.554-00.17.16.465 	the guys shoot nizar.
-1018_Body_Of_Lies_00.17.24.610-00.17.29.780 	ferris aims a pistol and shoots nizar in the head.
-1018_Body_Of_Lies_00.20.11.863-00.20.13.935 	bassam shoots him.
-1018_Body_Of_Lies_00.20.16.444-00.20.17.838 	bassam shoots him.
-1018_Body_Of_Lies_00.20.57.468-00.21.00.835 	ferris shoots him.
-1018_Body_Of_Lies_00.21.12.483-00.21.13.984 	ferris shoots him and runs out.
-1018_Body_Of_Lies_00.22.02.511-00.22.08.194 	ferris shoots at the other vehicles as they approach.
-1018_Body_Of_Lies_00.22.57.892-00.23.01.013 	ferris leans out of the window and shoots at them.
+1018_Body_Of_Lies_00.22.24.961-00.22.26.434 	ferris keeps shooting at the iraqis as they follow in the four-by-fours.
+1018_Body_Of_Lies_01.33.16.115-01.33.19.117 	ferris keeps shooting.
 1018_Body_Of_Lies_01.54.31.521-01.54.40.100 	the executioner and the rest of the men are shot to pieces as soldiers swarm in.
 1019_Confessions_Of_A_Shopaholic_00.41.30.600-00.41.35.625 	she grins across at luke, whose eyebrows shoot up with amusement.
 1019_Confessions_Of_A_Shopaholic_00.47.03.552-00.47.05.021 	he shoots her a look.
 1019_Confessions_Of_A_Shopaholic_01.22.02.487-01.22.04.177 	she shoots him a look.
 1023_Horrible_Bosses_01.04.47.210-01.04.50.511 	bobby answers the door to harken, who hands him his phone and shoots him in the chest.
 1023_Horrible_Bosses_01.13.48.870-01.13.52.963 	jones cocks an eyebrow and shoots them a look.
-1023_Horrible_Bosses_01.24.36.860-01.24.38.899 	harken shoots himself.
 1024_Identity_Thief_00.52.42.157-00.52.44.824 	sandy's eyes shoot open and he pulls the towel off his head.
 1024_Identity_Thief_01.04.54.604-01.04.55.975 	he shoots diana a look.
 1024_Identity_Thief_01.29.46.629-01.29.49.734 	the skiptracer shoots julian in the leg.
 1024_Identity_Thief_01.30.00.038-01.30.03.150 	he shoots her in the foot.
-1024_Identity_Thief_01.42.21.898-01.42.25.510 	sandy shoots diana a wide-eyed stare.
-1026_Legion_00.06.34.131-00.06.35.321 	burton shoots estevez.
-1026_Legion_00.06.35.587-00.06.38.197 	michael leaps to the ground, moves over and shoots burton with two hand guns.
 1026_Legion_00.38.03.082-00.38.04.516 	as he leaps in the air, michael shoots him.
 1026_Legion_00.38.04.988-00.38.09.512 	as the man arrives on the ground, michael continues shooting until the twitching stops.
 1026_Legion_00.41.44.152-00.41.45.734 	assault rifle in each hand, michael shoots out of the window.
-1026_Legion_01.08.12.336-01.08.14.428 	kyle shoots the rabble.
 1026_Legion_01.10.13.477-01.10.15.294 	he pulls out two pistols and shoots some more.
 1026_Legion_01.10.16.339-01.10.24.385 	he gives another one a kick, shoots him, and lays into a couple more by the van.
-1026_Legion_01.17.27.413-01.17.28.332 	michael shoots sandra in the head.
-1026_Legion_01.17.53.468-01.17.56.482 	bob shoots at gabriel as jeep gives the baby to charlie.
 1026_Legion_01.21.20.368-01.21.21.327 	he lunges towards michael, who shoots and leaps out of the way.
-1026_Legion_01.23.20.649-01.23.23.473 	a blade shoots out, stabbing michael behind him.
-1026_Legion_01.25.40.644-01.25.42.586 	jeep shoots up at it.
-1026_Legion_01.25.47.156-01.25.48.799 	jeep shoots at gabriel, and the car swerves.
-1027_Les_Miserables_01.37.55.149-01.37.56.724 	a soldier shoots into the crowd.
 1027_Les_Miserables_01.38.32.685-01.38.34.331 	students shoot from behind the barricade.
 1027_Les_Miserables_01.43.05.589-01.43.06.683 	students shoot through the barricade.
-1027_Les_Miserables_01.49.12.805-01.49.15.248 	valjean shoots a soldier off a rooftop.
-1027_Les_Miserables_01.58.59.559-01.59.00.746 	soldier shoots at gavroch who has climbed through the barricade.
+1027_Les_Miserables_01.43.25.089-01.43.27.125 	eponine grabs the musket and is shot.
+1027_Les_Miserables_01.44.12.149-01.44.13.248 	she sits hunched and clutching her chest where she was shot.
 1027_Les_Miserables_01.59.25.961-01.59.32.143 	gavroche is shot again and flops on his back, dead.
 1027_Les_Miserables_02.00.37.745-02.00.46.607 	as cannons are rolled forward, the students shoot down a few soldiers.
 1027_Les_Miserables_02.01.15.594-02.01.18.609 	the students keep shooting at the soldiers.
-1030_Public_Enemies_00.04.57.778-00.05.02.763 	the younger inmate shoots him, which captures the rest of the room's attention.
+1027_Les_Miserables_02.01.58.692-02.02.00.157 	marius is shot.
+1029_Pride_And_Prejudice_Disk_One_00.41.41.066-00.41.43.766 	lizzie is watching the shooting party from jane's bedroom window.
 1030_Public_Enemies_00.05.29.653-00.05.31.657 	one escapee gets shot despite a barrage of gun fire from dillinger and his armed cohorts.
-1030_Public_Enemies_00.14.50.289-00.14.56.692 	outside homer shoots up the police car another police car arrives down the block.
 1030_Public_Enemies_00.15.21.570-00.15.27.837 	homer aims his automatic rifle and with dillinger, they shoot up the other police car, taking out a couple lawmen.
 1030_Public_Enemies_00.40.21.674-00.40.26.340 	behind barton, the stout, baby-faced man steps into the hall and shoots him.
-1030_Public_Enemies_01.16.43.781-01.16.48.448 	as red and homer return fire, baby face shoots at a townsman who holds a pistol at his side.
+1030_Public_Enemies_01.17.23.891-01.17.26.415 	he drags baby face, who continues to shoot.
 1030_Public_Enemies_01.20.12.886-01.20.25.576 	red accepts the cash, gives his brow a resigned lift and shoots a tentative smile at dillinger.
-1030_Public_Enemies_01.28.12.679-01.28.14.346 	as purvis shoots the side door, homer fires back.
 1030_Public_Enemies_01.45.52.704-01.45.55.561 	standing outside an apartment door, one shoots the top and bottom hinges.
-1030_Public_Enemies_02.01.44.484-02.01.45.151 	gable shoots the man.
 1031_Quantum_of_Solace_00.44.35.198-00.44.38.774 	the hero is shot on stage as men chase bond.
-1031_Quantum_of_Solace_00.44.57.685-00.44.59.807 	a man body checks him, but bond shoots him pointblank through the body.
 1031_Quantum_of_Solace_01.02.26.338-01.02.34.106 	with his colleague's gun, throws the other down, calmly shoots him and empties the gun and tosses it aside.
 1031_Quantum_of_Solace_01.29.53.915-01.29.56.222 	he shoots the chief in the head.
-1031_Quantum_of_Solace_01.30.25.603-01.30.32.973 	camille shoots the general's guards and kicks one so hard he flies over a railing.
 1033_Sherlock_Holmes_A_Game_of_Shadows_00.42.32.356-00.42.44.005 	he sees the woman, who was wanting to use the onboard lavatory while at the station, punch a couple of the soldiers then shoot two more.
-1033_Sherlock_Holmes_A_Game_of_Shadows_00.47.47.725-00.47.50.392 	watson shoots through the hole created by the machine gun bullets.
-1033_Sherlock_Holmes_A_Game_of_Shadows_01.03.08.756-01.03.09.802 	ravache shoots himself in the head.
 1033_Sherlock_Holmes_A_Game_of_Shadows_01.22.33.685-01.22.38.991 	moran shot the guard to get an aim on watson.
-1033_Sherlock_Holmes_A_Game_of_Shadows_01.23.41.002-01.23.42.259 	moran shoots at watson.
-1033_Sherlock_Holmes_A_Game_of_Shadows_01.23.53.271-01.23.55.938 	moran shoots and watson ducks behind a platform.
 1033_Sherlock_Holmes_A_Game_of_Shadows_01.27.28.741-01.27.32.408 	as watson retreats and reloads, holmes shoots a guard dead.
 1033_Sherlock_Holmes_A_Game_of_Shadows_01.29.07.155-01.29.15.408 	as the guards shoot through the trees at the fugitives, others in the rail yard adjust the elevation on the mortars and open fire.
 1033_Sherlock_Holmes_A_Game_of_Shadows_01.31.32.357-01.31.35.028 	a gypsy shoots a guard just before a mortar shell goes off beside holmes.
 1033_Sherlock_Holmes_A_Game_of_Shadows_01.31.49.766-01.31.54.429 	he hands it to watson, who uses it to shoot moran as he appears over a rise.
 1033_Sherlock_Holmes_A_Game_of_Shadows_01.32.25.975-01.32.27.544 	he shoots one of the gypsies as he tries to board the train.
 1033_Sherlock_Holmes_A_Game_of_Shadows_01.48.34.490-01.48.44.439 	as rene is dragged away, moran surreptitiously shoots him with a hyperemic cartridge fired from a gun hidden in his cane.
-1034_Super_8_00.31.21.597-00.31.25.105 	filming a scene, martin shoots zombie cary as alice watches.
-1034_Super_8_01.01.57.247-01.02.04.465 	the cube shoots of the table and smashes through the wall leaving a hole in the wall and a poster of the space shuttle that pinned to it.
 1034_Super_8_01.13.00.831-01.13.03.139 	jack shoots the tanker which explodes in a fireball.
-1034_Super_8_01.48.13.528-01.48.15.730 	martin shoots cary again, but not before he's bitten into charles' shoulder.
 1034_Super_8_01.48.22.897-01.48.27.375 	now un-dead, charles lunges at martin, who shoots him, too.
-1035_The_Adjustment_Bureau_00.29.19.046-00.29.19.733 	david shoots an uneasy look at her.
 1038_The_Great_Gatsby_00.32.04.425-00.32.05.750 	fireworks, like a thousand silver stars, shoot up into the night sky.
-1038_The_Great_Gatsby_01.23.56.649-01.23.59.572 	he points up and a star shoots by.
-1038_The_Great_Gatsby_02.01.55.984-02.01.57.016 	wilson shoots gatsby in the back.
-1041_This_is_40_00.03.25.035-00.03.27.388 	the youngest shoots confetti.
-1042_Up_In_The_Air_00.49.24.280-00.49.25.489 	natalie shoots ryan a look.
-1043_Vantage_Point_00.28.20.852-00.28.24.479 	holden shoots in the air.
-1043_Vantage_Point_00.50.27.142-00.50.31.588 	mccullough holds out the phone and shoots ashton a solemn look.
+1043_Vantage_Point_00.20.51.181-00.20.54.306 	barnes sees a still frame of him being shot.
+1043_Vantage_Point_00.34.32.956-00.34.43.086 	howard keeps his camera focused on the shadowy figure, then turns as the president is shot.
+1043_Vantage_Point_00.48.52.163-00.48.59.830 	ashton's double is shot.
+1043_Vantage_Point_00.51.44.515-00.51.45.181 	the president's double is shot.
 1043_Vantage_Point_00.58.26.282-00.58.28.843 	he shoots a hotel maid.
 1043_Vantage_Point_00.59.08.333-00.59.11.683 	the gun fires, shooting ashton's double.
-1043_Vantage_Point_00.59.18.084-00.59.28.410 	javier shoots uniformed security guards in the hotel's cctv control room.
-1043_Vantage_Point_01.00.39.910-01.00.43.895 	sam shoots him, startling veronica.
-1043_Vantage_Point_01.01.37.084-01.01.40.176 	javier shoots him.
 1043_Vantage_Point_01.02.25.133-01.02.26.687 	he shoots a third agent.
-1043_Vantage_Point_01.10.05.472-01.10.11.223 	veronica shoots luis point blank as ashton cowers on the floor by the gurney, then reaches out for the drip support.
-1043_Vantage_Point_01.15.35.113-01.15.42.113 	javier shoots the armed enrique, then points his gun at enrique's face.
-1043_Vantage_Point_01.16.53.756-01.16.56.352 	taylor pulls a gun and shoots javier point blank as he accelerates.
-1043_Vantage_Point_01.20.36.326-01.20.39.930 	barnes shoots sam in the stomach.
 1045_An_education_00.58.58.061-00.58.59.495 	she shoots him a glance.
 1046_Australia_02.20.18.886-02.20.25.221 	they climb the ladder as soldiers fire at magarri, who shoots back.
 1047_Defiance_00.01.02.076-00.01.03.620 	jews are shot to the ditch.
 1047_Defiance_00.01.37.904-00.01.39.254 	a helmeted german shoots a man in the back.
-1047_Defiance_00.25.57.635-00.25.58.316 	zus shoots the man.
-1047_Defiance_00.28.17.210-00.28.18.158 	the sergeant shoots blindly into the darkness.
 1047_Defiance_00.28.41.438-00.28.43.643 	asael shoots his prey point blank.
-1047_Defiance_00.50.37.019-00.50.38.382 	zus shoots a glance at his brother's impassive face.
+1047_Defiance_01.04.24.374-01.04.27.747 	asael supervises shooting practice.
 1047_Defiance_01.10.13.396-01.10.15.275 	zus comes up behind them and shoots them both on the head.
 1047_Defiance_01.22.01.526-01.22.02.477 	in the police station, krensky is shot dead.
 1047_Defiance_01.22.09.746-01.22.14.333 	zus dives towards the next office and is shot at by the police chief but not before gunning him to the ground.
 1047_Defiance_01.31.42.519-01.31.46.181 	tuvia spins round and shoots him point-blank, and points his gun at arkady's cohort.
+1047_Defiance_02.02.18.785-02.02.22.783 	with gritted teeth, malbin urges from behind the tree and runs at the tank, but is shot.
 1047_Defiance_02.02.30.521-02.02.31.168 	one soldier creeps nearer, but is shot in the back.
 1048_Gran_Torino_00.21.50.981-00.21.51.934 	the rifle goes off, shooting a sign on the wall.
 1048_Gran_Torino_01.04.08.406-01.04.13.314 	smokie stares out of the car, and walt mimes shooting him.
 1048_Gran_Torino_01.45.09.688-01.45.18.501 	he points his index finger gun-like at the gangsters and mimes shooting them.
-1049_Harry_Potter_and_the_chamber_of_secrets_00.15.13.015-00.15.18.812 	harry shoots out of the fireplace onto a dusty wooden floor.
-1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.16.30.925-00.16.36.411 	a burst of flame shoots out of the rear, propelling the bike forward.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_02.03.35.059-02.03.37.710 	her wand shoots out a snake which twists round greyback's neck.
-1050_Harry_Potter_and_the_deathly_hallows_Disk_One_02.14.36.395-02.14.41.539 	a massive force of energy shoots from the tip of the wand, illuminating the dark sky.
 1053_Harry_Potter_and_the_philosophers_stone_00.11.18.626-00.11.20.504 	a letter shoots down the chimney and flies past his nose.
 1053_Harry_Potter_and_the_philosophers_stone_01.04.31.000-01.04.35.626 	it shoots straight up, above their heads, almost out of sight.
 1053_Harry_Potter_and_the_philosophers_stone_01.19.33.595-01.19.35.709 	a slytherin sails over the beaters head and shoots accurately at the hoop.
-1053_Harry_Potter_and_the_philosophers_stone_01.41.08.051-01.41.10.562 	the dragon shoots flame.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.28.27.804-00.28.30.189 	steam shoots from harry's ears.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.51.07.300-00.51.12.926 	on the ceiling of the great hall, a star shoots across the celestial sky.
 1056_Rambo_00.03.34.405-00.03.39.802 	at the soldier's command, the troops open fire and the peasants are shot down.
-1056_Rambo_00.11.21.793-00.11.22.958 	a soldier shoots a man dead.
 1056_Rambo_00.20.15.371-00.20.18.028 	he pulls a gun from his pocket and shoots them.
-1056_Rambo_00.20.29.079-00.20.35.034 	rambo shoots him in the head and turfs the corpse overboard.
+1056_Rambo_00.28.40.567-00.28.44.774 	one is shot and the other bayoneted in the stomach while his face is held down by an army boot.
+1056_Rambo_00.28.45.111-00.28.50.990 	a woman is shot, another abused and a third dragged away by her hair.
 1056_Rambo_00.29.53.163-00.29.56.980 	the mother is shot in the back and drops to the ground.
-1056_Rambo_00.59.17.640-00.59.18.809 	school boys shoots lewis a murderous look.
 1056_Rambo_01.01.09.433-01.01.11.584 	school boy shoots one of them.
 1056_Rambo_01.11.36.640-01.11.40.278 	he shoots the jeep driver with the machine-gun.
 1056_Rambo_01.12.44.854-01.12.45.881 	reese rifle-butts a soldier in the face, then shoots another.
-1056_Rambo_01.12.45.399-01.12.46.780 	lewis shoots from behind a tree trunk.
-1056_Rambo_01.13.19.451-01.13.24.225 	lewis shoots the soldier but the grenade has found its target.
-1056_Rambo_01.13.57.000-01.13.59.000 	the soldier shoots lewis in the shoulder.
-1057_Seven_pounds_00.32.57.384-00.33.00.815 	ben shoots emily a last look before shutting the door behind him.
 1057_Seven_pounds_01.08.06.107-01.08.12.555 	she shoots him a disdainful look and gets out.
 1058_The_Damned_united_00.45.36.601-00.45.40.000 	bremner shoots a dour glance at giles.
-1058_The_Damned_united_01.19.42.733-01.19.43.384 	brian shoots a scathing look at the presenter.
-1058_The_Damned_united_01.26.52.463-01.26.55.335 	peter shoots brian a withering look.
-1060_Yes_man_00.31.37.904-00.31.39.278 	carl, peter and rooney slam down shot glasses.
-1060_Yes_man_01.10.25.888-01.10.28.542 	on a shooting range, allison shoots the ground.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.00.27.641-00.00.31.337 	a massive force of energy shoots from the tip of the wand, illuminating the dark sky.
+1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.46.49.000-00.47.02.881 	like shooting stars, they rain down on the protective shield.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.05.56.592-01.05.58.383 	harry beats on a door, and shoots a death eater.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.42.59.489-01.43.04.438 	voldemort uses his wand to shoot fire at harry.
 1062_Day_the_Earth_stood_still_00.46.27.000-00.46.35.354 	she shoots him a mistrustful look and maneuvers her silver car out into the busy street.
 2004_Juno_01.10.28.865-01.10.33.966 	juno turns to leave, then shoots one furious look back at mark.
-2012_Unbreakable_01.00.59.978-01.01.05.411 	david shoots a tense glance at audrey.
+2005_Signs_00.50.57.441-00.51.05.273 	a space ship is hovering over the home shooting laser beams at it.
 2026_Legion_00.06.34.615-00.06.35.716 	burton shoots his partner in the head.
-2026_Legion_00.28.16.790-00.28.24.971 	kyle shoots him a look.
-1053_Harry_Potter_and_the_philosophers_stone_00.11.18.626-00.11.20.504 	a letter shoots down the chimney and flies past his nose.
-1053_Harry_Potter_and_the_philosophers_stone_01.04.31.000-01.04.35.626 	it shoots straight up, above their heads, almost out of sight.
-1053_Harry_Potter_and_the_philosophers_stone_01.19.33.595-01.19.35.709 	a slytherin sails over the beaters head and shoots accurately at the hoop.
-1053_Harry_Potter_and_the_philosophers_stone_01.41.08.051-01.41.10.562 	the dragon shoots flame.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.28.27.804-00.28.30.189 	steam shoots from harry's ears.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.51.07.300-00.51.12.926 	on the ceiling of the great hall, a star shoots across the celestial sky.
-1056_Rambo_00.03.34.405-00.03.39.802 	at the soldier's command, the troops open fire and the peasants are shot down.
-1056_Rambo_00.11.21.793-00.11.22.958 	a soldier shoots a man dead.
-1056_Rambo_00.20.15.371-00.20.18.028 	he pulls a gun from his pocket and shoots them.
-1056_Rambo_00.20.29.079-00.20.35.034 	rambo shoots him in the head and turfs the corpse overboard.
-1056_Rambo_00.29.53.163-00.29.56.980 	the mother is shot in the back and drops to the ground.
-1056_Rambo_00.59.17.640-00.59.18.809 	school boys shoots lewis a murderous look.
-1056_Rambo_01.01.09.433-01.01.11.584 	school boy shoots one of them.
-1056_Rambo_01.11.36.640-01.11.40.278 	he shoots the jeep driver with the machine-gun.
-1056_Rambo_01.12.44.854-01.12.45.881 	reese rifle-butts a soldier in the face, then shoots another.
-1056_Rambo_01.12.45.399-01.12.46.780 	lewis shoots from behind a tree trunk.
-1056_Rambo_01.13.19.451-01.13.24.225 	lewis shoots the soldier but the grenade has found its target.
-1056_Rambo_01.13.57.000-01.13.59.000 	the soldier shoots lewis in the shoulder.
-1057_Seven_pounds_00.32.57.384-00.33.00.815 	ben shoots emily a last look before shutting the door behind him.
-1057_Seven_pounds_01.08.06.107-01.08.12.555 	she shoots him a disdainful look and gets out.
-1058_The_Damned_united_00.45.36.601-00.45.40.000 	bremner shoots a dour glance at giles.
-1058_The_Damned_united_01.19.42.733-01.19.43.384 	brian shoots a scathing look at the presenter.
-1058_The_Damned_united_01.26.52.463-01.26.55.335 	peter shoots brian a withering look.
-1060_Yes_man_00.31.37.904-00.31.39.278 	carl, peter and rooney slam down shot glasses.
-1060_Yes_man_01.10.25.888-01.10.28.542 	on a shooting range, allison shoots the ground.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.00.27.641-00.00.31.337 	a massive force of energy shoots from the tip of the wand, illuminating the dark sky.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.05.56.592-01.05.58.383 	harry beats on a door, and shoots a death eater.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.42.59.489-01.43.04.438 	voldemort uses his wand to shoot fire at harry.
-1062_Day_the_Earth_stood_still_00.46.27.000-00.46.35.354 	she shoots him a mistrustful look and maneuvers her silver car out into the busy street.
-2004_Juno_01.10.28.865-01.10.33.966 	juno turns to leave, then shoots one furious look back at mark.
-2012_Unbreakable_01.00.59.978-01.01.05.411 	david shoots a tense glance at audrey.
-2026_Legion_00.06.34.615-00.06.35.716 	burton shoots his partner in the head.
-2026_Legion_00.28.16.790-00.28.24.971 	kyle shoots him a look.
 2027_Les_Miserables_01.49.11.026-01.49.14.372 	swiftly valjean grabs a gun and shoots up at them sending them scattering.
+2027_Les_Miserables_02.02.25.079-02.02.31.759 	the students' ammunition has run out, they're hurling sticks and bottles - but the soldiers have found a way to clamber up, shooting as they come, and one by one the students are falling.
+2034_Super_8_00.16.19.282-00.16.25.367 	and they're shooting.
+2034_Super_8_00.31.20.777-00.31.25.163 	martin -- as detective hathaway -- fires a gun -- shooting cary, dressed in a dirty suit, as a man turning into a zombie -- his eyes wide and glossy white -- and as he is hit by the bullets, he slams his hand onto his chest -- blood bursts all over him and he falls painfully to the ground.
 2040_The_Ugly_Truth_00.56.06.718-00.56.10.716 	she shoots him a look.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_00.11.50.412-00.12.03.382 	before can scream, the entire knight bus squeezes down and shoots the gap between the two onrushing buses.

@@ -1,0 +1,8 @@
+CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS144 	00:31:55,00 --> 00:32:03,50 	as a man shovels snow outside a dress shop, someone arrives.
+MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS492 	00:59:50,00 --> 00:59:55,50 	someone puts snow down someone's pants.
+MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS530 	01:03:30,00 --> 01:03:37,50 	he brushes some snow off a couch and sits, crossing his legs casually.
+MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS538 	01:04:35,00 --> 01:04:41,50 	now someone wipes snow off his laptop and opens it.
+SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS946 	01:01:28,00 --> 01:01:35,50 	the father dusts snow off the child's clothes and adjusts the blanket to cover him.
+SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS969 	01:03:05,00 --> 01:03:11,50 	beyond them, snow continues to fall on the wooded campsite.
+THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS479 	00:55:03,00 --> 00:55:12,50 	in hedestad, as it snows, outdoor lamps gleam along the island bridges crossbeams.
+THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1413 	02:31:44,00 --> 02:31:48,50 	snow drifts to the ground as someone glides her motorcycle down a hill and parks across the street from someone's apartment building.

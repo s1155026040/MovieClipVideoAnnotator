@@ -1,0 +1,9 @@
+CHRONICLE.srt 	CHRONICLE_DVS70 	00:08:38,00 --> 00:08:42,50 	someone records him.
+CHRONICLE.srt 	CHRONICLE_DVS219 	00:31:49,00 --> 00:31:56,50 	now, someone holds the camera out to record himself and someone in action.
+CHRONICLE.srt 	CHRONICLE_DVS333 	00:50:06,00 --> 00:50:12,50 	now, a camera view from atop someone's dresser records his bedroom.
+CHRONICLE.srt 	CHRONICLE_DVS479 	01:09:10,00 --> 01:09:17,50 	from the needle's observation deck, onlookers record the events on their cellphones.
+CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS67 	00:13:18,00 --> 00:13:31,50 	that reads, unemployed hits record 15 million.
+DISTRICT_9.srt 	DISTRICT_9_DVS426 	00:47:00,00 --> 00:47:10,50 	a surveillance camera records him at the counter at gunther's.
+HUGO.srt 	HUGO_DVS669 	01:37:31,00 --> 01:37:35,50 	cameramen record the scene.
+JACK_AND_JILL.srt 	JACK_AND_JILL_DVS323 	01:01:56,00 --> 01:02:01,50 	an audience member records him.
+THE_WATCH.srt 	THE_WATCH_DVS298 	00:53:37,00 --> 00:53:47,50 	as someone records him, someone leans the alien down in a dip.

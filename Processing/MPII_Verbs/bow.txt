@@ -1,80 +1,39 @@
-0003_CASABLANCA_01.15.17.485-01.15.24.356 	he bows and exits as laszlo arrives at the table.
 0011_Gandhi_00.21.47.388-00.21.47.696 	one of the hindus bows with his hands clasped together.
-0011_Gandhi_00.38.12.748-00.38.16.001 	he nods to the tall civil servant, who bows and closes the door.
-0011_Gandhi_00.45.42.948-00.45.44.465 	gandhi has bowed to jinnah, now he looks a little startled at prakash.
 0011_Gandhi_01.04.27.097-01.04.30.995 	gandhi moves through the silent crowd, his hands in the pranam, bowing a little to either side.
-0011_Gandhi_02.31.47.943-02.31.49.348 	azad has bowed his head and he too is clearly making some prayer for her.
 0016_O_Brother_Where_Art_Thou_01.36.25.416-01.36.26.590 	delmar bows his head to silently pray.
 0016_O_Brother_Where_Art_Thou_01.36.26.590-01.36.29.602 	everett bows his head as well.
-0021_Rear_Window_01.13.47.782-01.13.50.448 	doyle bows his head slightly, but his eyes remain on her in a fixed stare.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.18.36.634-00.18.41.424 	bilbo stepping on a stool.he bows in gratitude at the applause.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.45.44.740-00.45.48.178 	the ringwraith pauses right beside their hiding place.he sits very still with his head bowed, listening.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.57.00.423-00.57.04.214 	frodo, head bowed, trying to pull himself up.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.17.22.617-02.17.27.492 	aragorn turns to gandalf who bows his head in homage.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.55.18.519-02.55.20.054 	then walks in slow procession down the white paved path as the crowd bow their heads in respect to their new king.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.55.20.054-02.55.22.161 	aragorn passes eowyn and faramir who bow before him.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.55.22.161-02.55.28.361 	eomer steps forward to bow in respect.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.57.18.648-02.57.21.517 	the four hobbits, dressed in their old clothes, clean and mended, bow their heads.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.57.32.512-02.57.36.653 	aragorn drops on one knee, kneeling before the hobbits, his head bowed.
 0030_The_Hustler_02.10.40.613-02.10.45.085 	fats listens, his head bowed.
 0033_Amadeus_00.21.34.520-00.21.36.751 	mozart bows to them, also delighted.
-0033_Amadeus_00.22.34.213-00.22.35.457 	he smiles and bows uneasily, as they include him in the small ovation.
-0033_Amadeus_00.22.33.557-00.22.36.950 	mozart stands in the corridor, out of the archbishop's line of sight, bowing and giggling, and encouraging the applause for the archbishop with conducting gestures.
-0033_Amadeus_00.43.40.229-00.43.41.365 	mozart bows frantically: he is over-excited.
-0033_Amadeus_01.16.03.668-01.16.11.208 	he bows to them and leaves the room.
 0033_Amadeus_01.47.12.198-01.47.14.342 	he bows too, giggling.
-0033_Amadeus_01.52.58.131-01.53.00.602 	cavalieri, in a mythological persian costume, is bowing to the rapturous throng; below her is salieri.
 0033_Amadeus_01.53.19.102-01.53.21.356 	salieri bows his head.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.47.52.390-01.47.57.296 	slughorn bows his head and closes his eyes.
 1005_Signs_00.06.12.318-00.06.16.340 	he bows his head.
 1005_Signs_00.55.46.300-00.55.47.967 	ray bows his head and reflects.
-1005_Signs_01.01.18.090-01.01.24.687 	he rises to his feet and head bowed strides determinedly out into the hallway.
-1005_Signs_01.27.14.514-01.27.27.980 	graham walks slowly past a police car and a huddle of policemen standing over ray who's sitting on the ground head bowed.
-1008_Spider-Man2_00.34.12.610-00.34.18.268 	spider-man looks away from the man, then bows his head and stares at the wall.
 1009_Spider-Man3_01.48.29.992-01.48.36.880 	he bows his head and scocks away.
 1009_Spider-Man3_02.10.50.954-02.10.59.004 	kneeling on either side of harry's body, framed by an arc of girders and the dawn light of the clouds beyond, the two childhood friends bow their heads in shared sorrow.
-1010_TITANIC_03.06.20.785-03.06.24.920 	a man in a black suit bows as he opens the door leading to the grand staircase.
-1015_27_Dresses_00.53.59.280-00.54.00.975 	they bow to each other and kevin takes a photo.
-1019_Confessions_Of_A_Shopaholic_01.17.11.539-01.17.19.224 	seeing luke's disappointed face, she shuts her eyes, and bows her head.
-1020_Crazy_Stupid_Love_01.35.11.899-01.35.20.079 	in school, kids mill past robbie, who sits alone on the stairs, his head bowed.
 1026_Legion_01.18.31.294-01.18.35.302 	the possessed stand with their heads bowed, a walkway between them.
 1026_Legion_01.18.48.710-01.18.49.848 	mist floats above their bowed heads.
 1027_Les_Miserables_00.20.01.296-00.20.02.944 	the two men bow.
 1027_Les_Miserables_00.22.16.137-00.22.21.809 	javert hesitates then bows his head.
-1027_Les_Miserables_00.37.13.442-00.37.18.700 	javert looks puzzled, then bows curtly and takes his leave.
 1029_Pride_And_Prejudice_Disk_One_00.43.20.136-00.43.22.492 	he swiftly bows to her.
 1029_Pride_And_Prejudice_Disk_One_01.00.43.115-01.00.44.782 	he bows to them reverentially.
 1029_Pride_And_Prejudice_Disk_One_01.25.17.694-01.25.23.046 	they curtsey and bow, circle each other.
 1029_Pride_And_Prejudice_Disk_One_01.27.22.327-01.27.22.993 	he bows.
-1029_Pride_And_Prejudice_Disk_One_01.27.34.659-01.27.37.494 	he bows once more and leaves.
 1029_Pride_And_Prejudice_Disk_One_01.33.13.882-01.33.18.770 	the gentlemen and ladies bow and curtsy to each other.
-1029_Pride_And_Prejudice_Disk_One_01.33.37.272-01.33.38.938 	he bows curtly and leaves.
-1029_Pride_And_Prejudice_Disk_One_01.38.56.483-01.39.01.133 	mary peels off her glasses and leaves the piano, head bowed.
 1029_Pride_And_Prejudice_Disk_One_01.49.55.369-01.49.57.542 	he bows.
 1029_Pride_And_Prejudice_Disk_One_02.33.08.329-02.33.09.251 	he bows stiffly.
-1030_Public_Enemies_00.37.20.803-00.37.23.523 	one of the street agents looks to his young partner, who bows his hat.
 1030_Public_Enemies_01.05.20.208-01.05.22.834 	dillinger licks his lips, his head bowed slightly.
 1030_Public_Enemies_01.43.09.397-01.43.14.997 	gripping the steering wheel, he bows his head and collects his breath.
-1035_The_Adjustment_Bureau_00.06.31.314-00.06.37.411 	head bowed, he holds his hands in his pockets.
 1035_The_Adjustment_Bureau_00.12.13.668-00.12.21.336 	david peers at his supporters, then briefly bows his head.
-1035_The_Adjustment_Bureau_00.16.39.484-00.16.45.141 	as david and his fan go their separate ways, the mustached stranger remains on his park bench, his head bowed and his fedora brim tilted to shade his face.
 1035_The_Adjustment_Bureau_00.42.53.770-00.42.56.426 	a relieved richardson bows his head.
-1035_The_Adjustment_Bureau_01.10.40.196-01.10.43.002 	meanwhile, david sits in a waiting room, his head bowed and his eyes closed.
-1035_The_Adjustment_Bureau_01.11.50.510-01.12.00.990 	he lowers himself back into his chair and bows his head.
-1038_The_Great_Gatsby_01.47.19.732-01.47.21.462 	tom stands, his head bowed.
-1039_The_Queen_00.06.31.796-00.06.33.945 	the two men bow their heads to the queen, who's standing in the middle of the room.
-1044_Pride_And_Prejudice_Disk_Two_00.09.26.118-00.09.30.841 	he hands it to her, bows, then heads off.
-1044_Pride_And_Prejudice_Disk_Two_00.48.30.312-00.48.40.201 	he bows, then continues on his way just as the gardiners come down the hill towards lizzie, who's looking a little unsettled.
 1044_Pride_And_Prejudice_Disk_Two_00.55.51.666-00.55.53.900 	he bows in greeting.
 1044_Pride_And_Prejudice_Disk_Two_02.26.36.154-02.26.37.504 	mr. darcy bows to lizzie.
-1049_Harry_Potter_and_the_chamber_of_secrets_01.05.29.176-01.05.32.752 	they bow and turn.
-1051_Harry_Potter_and_the_goblet_of_fire_02.02.40.010-02.02.44.558 	bowing low, wormtail holds it out.
 1051_Harry_Potter_and_the_goblet_of_fire_02.06.55.960-02.07.01.630 	he forces harry to bow.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_00.34.51.211-00.34.54.164 	it bows its birdlike head.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_01.53.09.813-01.53.15.908 	harry bows to buckbeak, who lowers his head in return.
 1058_The_Damned_united_00.41.18.853-00.41.34.000 	he bows his head against the wall, then paces in the light streaming through the windows, his hands on his head.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.12.20.486-00.12.32.731 	wearing a long, black coat, ron walks behind her, his head bowed.
 1062_Day_the_Earth_stood_still_01.21.54.033-01.21.56.697 	helen sits head bowed in a sparsely furnished room.
 2051_Harry_Potter_and_the_goblet_of_fire_00.18.10.104-00.18.30.267 	they bow and everyone applauds.
 2051_Harry_Potter_and_the_goblet_of_fire_02.02.44.479-02.02.49.650 	wormtail hands him the wand and bows deeply.
-2051_Harry_Potter_and_the_goblet_of_fire_02.06.57.625-02.07.02.730 	voldemort forces harry to bow with magic.

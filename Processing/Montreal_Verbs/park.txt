@@ -1,75 +1,31 @@
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS84 	00:11:25,00 --> 00:11:34,50 	someone parks a faded hatchback at the curb.
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS461 	01:15:22,00 --> 01:15:29,50 	the return to sagan high and someone parks crookedly in a space.
 30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS40 	00:08:07,00 --> 00:08:13,50 	at night, the mustang parks at a curb outside their store.
-30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS86 	00:21:37,00 --> 00:21:44,50 	parking nearby the delivery guy steps out with the pizza and slams his door.
 30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS156 	00:41:11,00 --> 00:41:16,50 	at vito's the datsun parks by a dumpster.
 30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS225 	00:54:02,00 --> 00:54:08,50 	now the van parks in front of a taco boy restaurant.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS188 	00:16:48,00 --> 00:16:53,50 	the armored truck parks beside the charred sedans,
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS260 	00:22:36,00 --> 00:22:49,50 	the chase continues on a narrow street between two rows of cars parked on an angle.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS464 	00:45:08,00 --> 00:45:17,50 	gazing out, someone notices a military grade helicopter parked below.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS673 	01:09:09,00 --> 01:09:16,50 	outside, the vehicle parks the tank and someone's men rush towards it.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS929 	01:30:31,00 --> 01:30:37,50 	they're vehicles sit parked nearby, emergency lights flashing.
 BAD_TEACHER.srt 	BAD_TEACHER_DVS286 	01:17:28,00 --> 01:17:33,50 	towards a modest parked sedan.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS68 	00:10:49,00 --> 00:10:55,50 	someone parks his suv in front of some rooms.
-BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS90 	00:13:17,00 --> 00:13:23,50 	he follows the informant through a gate into an industrial complex, then parks his car behind stacks of pallets, hiding it from view.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS281 	00:48:07,00 --> 00:48:15,50 	now, a mercedes sits parked outside someone's house.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS659 	01:40:34,00 --> 01:40:40,50 	later, agents haul the criminals to vehicles parked in front of the school.
-BLINDDATING.srt 	BLINDDATING_DVS287 	01:11:38,00 --> 01:11:47,50 	later, someone's limo sits parked outside the neurosurgical center.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS218 	00:38:50,00 --> 00:39:08,50 	someone runs into the street and aims her pistol as someone flicks his lighter causing a car parked behind her to explode.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS942 	01:32:25,00 --> 01:32:32,50 	from a makeshift parking area, countless surfers and spectators make their way toward the beach.
 CHRONICLE.srt 	CHRONICLE_DVS24 	00:03:23,00 --> 00:03:29,50 	now with the car parked, the camera stays on the driver.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS265 	01:04:53,00 --> 01:05:02,50 	someone and someone play in a decrepit car parked by the courtyard garages.
-COLOMBIANA.srt 	COLOMBIANA_DVS477 	00:42:18,00 --> 00:42:23,50 	passing between two parked press vans,
-COLOMBIANA.srt 	COLOMBIANA_DVS484 	00:42:58,00 --> 00:43:04,50 	glass doors behind her show a bus parked at a curb.
-COLOMBIANA.srt 	COLOMBIANA_DVS574 	00:52:15,00 --> 00:52:23,50 	turning, he pulls up onto a sidewalk and parks beneath an overhanging roof at a building's entrance.
-COLOMBIANA.srt 	COLOMBIANA_DVS787 	01:16:04,00 --> 01:16:09,50 	someone parks at a curb and gets out.
-COLOMBIANA.srt 	COLOMBIANA_DVS1096 	01:43:36,00 --> 01:43:42,50 	she strides toward a bus parked at the side of the road.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS339 	00:52:01,00 --> 00:52:09,50 	well over a dozen cars sit parked on the front lawn.
-DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS146 	00:36:15,00 --> 00:36:21,50 	someone parks the porsche and gets out.
 DISTRICT_9.srt 	DISTRICT_9_DVS580 	01:08:22,00 --> 01:08:27,50 	now an eight-wheeled armored transport sits parked outside
-FLIGHT.srt 	FLIGHT_DVS32 	00:04:14,00 --> 00:04:19,50 	the man, now in a raincoat, walks under a parked south jet airplane.
-FLIGHT.srt 	FLIGHT_DVS193 	00:45:42,00 --> 00:45:51,50 	a black cadillac lurches out of the hospital parking structure, and passes the news crews parked outside.
-FLIGHT.srt 	FLIGHT_DVS682 	01:32:21,00 --> 01:32:27,50 	someone's van is parked behind some trees, and someone puts her things in.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS68 	00:11:11,00 --> 00:11:21,50 	on the street, they hurry over to the silver hatchback parked among other cars.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS132 	00:20:49,00 --> 00:20:56,50 	now in a sunlit clearing, someone's suv sits parked with the driver's door open.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS122 	00:28:54,00 --> 00:28:58,50 	the truck parks.
-GREEN_ZONE.srt 	GREEN_ZONE_DVS332 	01:14:59,00 --> 01:15:12,50 	creeping along a wall, someone peeks out at compound across the street where several busses sit parked.
-GREEN_ZONE.srt 	GREEN_ZONE_DVS379 	01:27:53,00 --> 01:27:57,50 	they park, lights out.
-IN_TIME.srt 	IN_TIME_DVS613 	01:05:38,00 --> 01:05:45,50 	now, someone and someone wait in their stolen vehicle which sits parked on a side street.
-IN_TIME.srt 	IN_TIME_DVS632 	01:07:25,00 --> 01:07:30,50 	now parked, they watch a news report.
-IN_TIME.srt 	IN_TIME_DVS917 	01:36:54,00 --> 01:37:01,50 	he finds a timekeeper parked on a corner with his driver's side door open.
-INSIDE_MAN.srt 	INSIDE_MAN_DVS391 	01:52:25,00 --> 01:52:37,50 	across the street and around the corner, a black suv sits parked at the curb.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS241 	01:09:23,00 --> 01:09:36,50 	daytime, someone's, and someone and someones suvs sit parked in front of someone's house.
-ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS320 	01:31:18,00 --> 01:31:35,50 	frowning, someone peeks out the window and finds someone's sports car parked in the driveway.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS389 	01:49:36,00 --> 01:49:42,50 	parked from across the front yard.
-KARATE_KID.srt 	KARATE_KID_DVS81 	00:07:03,00 --> 00:07:09,50 	it parks in front of an apartment building and the parkers get out.
-LARRY_CROWNE.srt 	LARRY_CROWNE_DVS198 	00:46:04,00 --> 00:46:11,50 	now someone's scooter sits parked outside of someone's restaurant.
 LARRY_CROWNE.srt 	LARRY_CROWNE_DVS213 	00:49:50,00 --> 00:49:54,50 	parked outside donut prince.
 LARRY_CROWNE.srt 	LARRY_CROWNE_DVS216 	00:50:05,00 --> 00:50:10,50 	an suv parks in front of her car.
 LITTLE_FOCKERS.srt 	LITTLE_FOCKERS_DVS188 	01:08:56,00 --> 01:09:00,50 	he park at the new house's driveway.
-NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS234 	00:39:40,00 --> 00:39:51,50 	he parks in front of the garage door and goes inside.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS219 	00:40:34,00 --> 00:40:47,50 	someone whips out his gun and peers at a car parked in the alley.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS432 	01:22:33,00 --> 01:22:41,50 	now in a forest road, two motorcars douse their headlights as they creep forward and park on the dirt shoulder.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS535 	01:41:03,00 --> 01:41:09,50 	someone's car parks on a street.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS635 	01:59:33,00 --> 01:59:48,50 	parked near the biograph, someone tensely rubs his thin-lipped mouth.
-RUBY_SPARKS.srt 	RUBY_SPARKS_DVS311 	00:49:27,00 --> 00:49:33,50 	someone parks the car then turns to someone.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS58 	00:10:35,00 --> 00:10:44,50 	someone, sporting a chin length someone, parks the car close by and moves to the passenger seat.
-SPARKLE_2012.srt 	SPARKLE_2012_DVS425 	01:10:47,00 --> 01:10:57,50 	he gets into a sleek silver sports car, parked under the baker's flashing marquee.
-SPARKLE_2012.srt 	SPARKLE_2012_DVS501 	01:20:57,00 --> 01:21:07,50 	outside, two uniformed men carry a body-bag from the house, past policemen and parked patrol cars with flashing blue lights.
-SUPER_8.srt 	SUPER_8_DVS48 	00:07:07,00 --> 00:07:12,50 	the police cruiser sits parked in the driveway.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS172 	00:25:24,00 --> 00:25:30,50 	he locates the van which sits parked with its back doors flung open.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS262 	00:50:19,00 --> 00:50:27,50 	pale sunlight gleams off cars parked on both sides of a city.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS135 	00:27:04,00 --> 00:27:12,50 	she approaches two rows of waiting cabs parked along a curb.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS523 	01:34:51,00 --> 01:34:58,50 	outside, the delta '88 sits parked across the street.
 THE_CALL.srt 	THE_CALL_DVS897 	01:09:20,00 --> 01:09:25,50 	later, she parks her car on a dirt road.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1253 	02:12:03,00 --> 02:12:10,50 	in a van parked across the street, someone sees the arrival and talks into a walkie-talkie.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1413 	02:31:44,00 --> 02:31:48,50 	snow drifts to the ground as someone glides her motorcycle down a hill and parks across the street from someone's apartment building.
 THE_SITTER.srt 	THE_SITTER_DVS103 	00:55:53,00 --> 00:55:57,50 	the minivan parks along a curved
 THE_SITTER.srt 	THE_SITTER_DVS119 	01:05:46,00 --> 01:05:55,50 	parked.
-THE_WATCH.srt 	THE_WATCH_DVS68 	00:08:03,00 --> 00:08:11,50 	behind the wheel, someone notices various emergency vehicles parked outside of the taped off entrance.
-THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS421 	01:15:41,00 --> 01:15:45,50 	they see a car parked behind the truck.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS106 	00:17:21,00 --> 00:17:29,50 	the car parks alongside an old wooden fence.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS257 	00:42:32,00 --> 00:42:39,50 	smirking, someone swivels away and walks toward an old pickup parked nearby.
-YOUNG_ADULT.srt 	YOUNG_ADULT_DVS101 	00:14:54,00 --> 00:15:01,50 	someone parks her car in from of woody's village saloon and walks toward the entrance.
-ZOMBIELAND.srt 	ZOMBIELAND_DVS279 	00:31:47,00 --> 00:31:55,50 	now on a country highway, the escalade sits parked with its hood up.
 ZOOKEEPER.srt 	ZOOKEEPER_DVS391 	01:27:48,00 --> 01:27:54,50 	rolls out, heads into the road and drives straight into the side of a parked.

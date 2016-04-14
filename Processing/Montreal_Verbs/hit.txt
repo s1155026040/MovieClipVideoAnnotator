@@ -1,27 +1,15 @@
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS289 	00:49:52,00 --> 00:49:58,50 	listening, someone bursts back in on the nerds, hitting someone with the door.
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS297 	00:51:16,00 --> 00:51:21,50 	someone hits someone as someone fights his friends.
-21_JUMP_STREET.srt 	21_JUMP_STREET_DVS433 	01:12:12,00 --> 01:12:27,50 	using a tennis racket, someone hits a golf ball into his head.
-21_JUMP_STREET.srt 	21_JUMP_STREET_DVS605 	01:33:26,00 --> 01:33:32,50 	it hits the base of the biker's neck and he turns.
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS661 	01:38:57,00 --> 01:39:02,50 	someone fires hitting someone in the groin.
-30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS133 	00:37:21,00 --> 00:37:26,50 	pulling back out, someone almost hits a passing truck.
-40_YEAR_OLD_VIRGIN.srt 	40_YEAR_OLD_VIRGIN_DVS162 	01:21:37,00 --> 01:21:45,50 	his front tire hits a pothole when he gets launched over the handle
 40_YEAR_OLD_VIRGIN.srt 	40_YEAR_OLD_VIRGIN_DVS190 	01:34:14,00 --> 01:34:19,50 	intersection cars nearly hit him.
 500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS110 	00:22:22,00 --> 00:22:27,50 	as someone and someone try to think, mackenzie hits the stage.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS252 	00:21:56,00 --> 00:22:05,50 	as someone speeds through a stop sign, an intersecting car slides sideways and gets hit head-on by another.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS274 	00:23:35,00 --> 00:23:44,50 	following, the armored truck hits a car and fishtails around another.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS277 	00:23:50,00 --> 00:23:57,50 	beneath an overpass, a car evades someone and hits the wall.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS288 	00:24:47,00 --> 00:24:54,50 	as he attempts to stop swerving cars, an suv hits him head on.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS307 	00:26:58,00 --> 00:27:07,50 	the truck hits the van's rear.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS315 	00:27:51,00 --> 00:27:58,50 	he hits the truck again and someone's van spins away, passing by someone.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS380 	00:34:59,00 --> 00:35:11,50 	scrambling into the next room, someone hits a button.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS515 	00:50:10,00 --> 00:50:16,50 	a man fires at someone, hitting his blonde comrade.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS866 	01:24:47,00 --> 01:24:57,50 	in slow motion, he runs across a series of docks spanning the roof as sparks fly from the rotor blades hitting the sign.
-A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS96 	00:25:11,00 --> 00:25:22,50 	someone swings the axe, he hits the trunk and flies through the air and lands in a patch of spiky plants.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS153 	00:30:26,00 --> 00:30:31,50 	a truck's mirror hits someone's last coffee out of his hands.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS213 	00:29:45,00 --> 00:29:54,50 	it hits an invisible mass.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS519 	01:12:57,00 --> 01:13:06,50 	he holds up a shaking hand and a shaft of light shining through a hole in his chest hits his palm.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS33 	00:02:45,00 --> 00:02:53,50 	a car almost hits the mailman.
-BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS118 	00:16:16,00 --> 00:16:26,50 	bullets hit the hood, sending sparks flying.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS136 	00:20:13,00 --> 00:20:19,50 	a side door slides open and a duffel bag hits the pavement.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS543 	01:24:28,00 --> 01:24:34,50 	they hit a bump and catch air over a cross street.
 BRUNO.srt 	BRUNO_DVS48 	00:09:14,00 --> 00:09:18,50 	he hits a pillar.
@@ -29,55 +17,35 @@ BRUNO.srt 	BRUNO_DVS157 	00:43:28,00 --> 00:43:44,50 	the speeding car nearly hi
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS221 	00:39:10,00 --> 00:39:18,50 	the bullet hits the getaway car's driver in the head causing him to crash.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS37 	00:02:43,00 --> 00:02:49,50 	another wave hits the rocks and his head pops out of the water,
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS101 	00:07:50,00 --> 00:07:56,50 	in his dimly hit kitchen, the sandy haired man unscrews the top of a canister.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS167 	00:13:12,00 --> 00:13:19,50 	as another break hits someone, the board goes vertical and flips out of his hands.
-CHRONICLE.srt 	CHRONICLE_DVS109 	00:15:23,00 --> 00:15:29,50 	someone throws off to the side, but the ball curves around and hits someone in the head.
 CHRONICLE.srt 	CHRONICLE_DVS278 	00:42:51,00 --> 00:42:57,50 	a spotlight hits a stage flat painted like a stone carving of a great cat.
 CHRONICLE.srt 	CHRONICLE_DVS487 	01:10:43,00 --> 01:10:52,50 	a bus hits someone head on.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS224 	00:47:00,00 --> 00:47:05,50 	someone's next punch hits someone's cheek.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS500 	01:55:36,00 --> 01:55:43,50 	as someone glares fiercely at someone, the timekeeper hits the bell.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS502 	01:56:00,00 --> 01:56:05,50 	he hits someone's chest.
-CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS513 	01:59:58,00 --> 02:00:04,50 	as the boxers face off, someone hits below the waist.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS519 	02:02:07,00 --> 02:02:11,50 	someone's right hook hits someone's chin.
 COLOMBIANA.srt 	COLOMBIANA_DVS114 	00:09:17,00 --> 00:09:25,50 	bullets hit his chest sending bursts of blood from his back as they tear through him.
 COLOMBIANA.srt 	COLOMBIANA_DVS220 	00:18:52,00 --> 00:18:58,50 	his older colleague hits a button on his desk which activates a camera.
 COLOMBIANA.srt 	COLOMBIANA_DVS316 	00:27:33,00 --> 00:27:39,50 	it swerves off the road and hits a fire hydrant, knocking it from it base.
-COLOMBIANA.srt 	COLOMBIANA_DVS572 	00:52:06,00 --> 00:52:12,50 	his hand hits someone's side of the bed and finds it unoccupied.
 COLOMBIANA.srt 	COLOMBIANA_DVS695 	01:05:36,00 --> 01:05:43,50 	agent someone hits a command on his computer then sips from a travel mug.
 COLOMBIANA.srt 	COLOMBIANA_DVS934 	01:30:06,00 --> 01:30:13,50 	a bullet pierces the glass and hits a photo of someone with president someone w. bush.
 COLOMBIANA.srt 	COLOMBIANA_DVS956 	01:32:27,00 --> 01:32:34,50 	he lunges sideways avoiding the projectile which explodes as it hits a wall.
-COLOMBIANA.srt 	COLOMBIANA_DVS982 	01:34:16,00 --> 01:34:21,50 	as her shots hit a gunman, others take cover.
 COLOMBIANA.srt 	COLOMBIANA_DVS999 	01:35:17,00 --> 01:35:23,50 	a burst of bullets hits the gunmen in the crawl space.
-COLOMBIANA.srt 	COLOMBIANA_DVS1002 	01:35:31,00 --> 01:35:38,50 	someone squeezes his eyes closed as her bullets hit the floor near his feet.
 DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS80 	00:16:25,00 --> 00:16:34,50 	he's also driving and hits a guy in the road.
-DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS287 	01:10:55,00 --> 01:11:01,50 	someone gives up hitting him and someone sits up again.
 DISTRICT_9.srt 	DISTRICT_9_DVS223 	00:25:02,00 --> 00:25:09,50 	the alien knocks someone's gun hits someone with it.
 DISTRICT_9.srt 	DISTRICT_9_DVS399 	00:44:17,00 --> 00:44:22,50 	the doctor hits a large button on the wall.
 DISTRICT_9.srt 	DISTRICT_9_DVS650 	01:16:10,00 --> 01:16:33,50 	the plank, and someone hits the floor unconscious.
-DISTRICT_9.srt 	DISTRICT_9_DVS768 	01:30:50,00 --> 01:31:05,50 	a volt of electricity hits the gun-wielding mercenary dead-on, exploding him and takes off
-EASY_A.srt 	EASY_A_DVS292 	01:26:20,00 --> 01:26:26,50 	someone watches on a cellphone and a truck almost hits him.
-FLIGHT.srt 	FLIGHT_DVS71 	00:14:35,00 --> 00:14:42,50 	she flings her bag on a table and it hits a box, which falls and scatters its contents.
-FLIGHT.srt 	FLIGHT_DVS105 	00:21:02,00 --> 00:21:07,50 	someone falls, and hits her head.
 FLIGHT.srt 	FLIGHT_DVS125 	00:25:04,00 --> 00:25:12,50 	the plane hits the ground.
 FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS32 	00:08:58,00 --> 00:09:11,50 	rinsing her mouth with water, she spits again, nearly hitting a passerby.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS26 	00:03:57,00 --> 00:04:12,50 	an oncoming car swerves around the hatchback, almost hits someone, then swipes the suv.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS109 	00:17:47,00 --> 00:18:11,50 	a drop of his blood falls from his cheek and hits a stone.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS113 	00:18:36,00 --> 00:18:49,50 	he hits the side of an suv, caving it in.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS177 	00:28:45,00 --> 00:29:12,50 	the suv hits a concrete barrier and flips over on its roof.
-GREEN_ZONE.srt 	GREEN_ZONE_DVS391 	01:29:32,00 --> 01:29:39,50 	he's hit a wall and they drop it again.
-GROWN_UPS.srt 	GROWN_UPS_DVS294 	01:33:33,00 --> 01:33:41,50 	hitting the backboard, it drops onto the basket's rim then bounces away from the net.
-HUGO.srt 	HUGO_DVS637 	01:32:12,00 --> 01:32:24,50 	one man uses an umbrella to hit the alien, who vanishes in a puff of red smoke.
 IN_TIME.srt 	IN_TIME_DVS754 	01:19:43,00 --> 01:19:53,50 	the two outlaws hit the ground and dash hand in hand to a bus.
 IN_TIME.srt 	IN_TIME_DVS897 	01:35:10,00 --> 01:35:17,50 	a barrage of bullets hits the limo, sending sparks off the vehicle's armored body.
-IN_TIME.srt 	IN_TIME_DVS898 	01:35:14,00 --> 01:35:22,50 	someone and someone flinch as shots hit the windshield, leaving dents in the bulletproof glass.
-INSIDE_MAN.srt 	INSIDE_MAN_DVS378 	01:50:39,00 --> 01:50:56,50 	it hits the edge and falls to the floor.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS179 	00:33:38,00 --> 00:33:46,50 	as someone peers into the someone, someone sneaks up behind him and hits the back of his head with a piece of metal from the red car.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS184 	00:34:31,00 --> 00:34:41,50 	someone leaps against the chain-link fence as the limousine hits someone and pins him against the guardrail below the fence.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS191 	00:35:13,00 --> 00:35:22,50 	the driver airbag deploys, hitting someone's face.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS313 	00:57:09,00 --> 00:57:19,50 	a weight plate hits the back of someone's helmet.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS314 	00:57:16,00 --> 00:57:28,50 	someone picks up a barbell, shakes off the weights and hits someone with the metal bar.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS316 	00:57:31,00 --> 00:57:43,50 	someone hits someone in the chest and head with the post, which someone then grabs.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS569 	01:39:32,00 --> 01:39:36,50 	the bullets hit a building.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS635 	01:47:48,00 --> 01:47:56,50 	someone crosses his wrists and fires a repulsor beam which swivels, hits the remaining drones, and slices a tree in half.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS658 	01:50:11,00 --> 01:50:19,50 	someone soars over and hits the back of someone's helmet, freeing someone.
 JACK_AND_JILL.srt 	JACK_AND_JILL_DVS208 	00:40:25,00 --> 00:40:31,50 	his suv hits a postal box and does a 360.
 JACK_AND_JILL.srt 	JACK_AND_JILL_DVS241 	00:48:10,00 --> 00:48:16,50 	someone hits the ball and it shatters pacinos academy award.
@@ -88,68 +56,44 @@ KARATE_KID.srt 	KARATE_KID_DVS176 	00:14:57,00 --> 00:15:08,50 	the man's next s
 KARATE_KID.srt 	KARATE_KID_DVS290 	00:25:57,00 --> 00:26:04,50 	it hits someone in the neck.
 KARATE_KID.srt 	KARATE_KID_DVS892 	01:13:02,00 --> 01:13:07,50 	someone jerks his arms upward, hitting someone's palms.
 KARATE_KID.srt 	KARATE_KID_DVS1370 	01:50:36,00 --> 01:50:55,50 	his leg swings into a near-vertical kick and he hits the bell.
-KARATE_KID.srt 	KARATE_KID_DVS1445 	01:57:33,00 --> 01:57:40,50 	the referee pulls someone ping aside, and someone's pounding fist hits the mat.
 LARRY_CROWNE.srt 	LARRY_CROWNE_DVS186 	00:43:32,00 --> 00:43:37,50 	an eraser hits him and he jolts awake.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS573 	01:03:37,00 --> 01:03:43,50 	in front of his feet, urine hits the canvas.
 LITTLE_FOCKERS.srt 	LITTLE_FOCKERS_DVS92 	00:37:06,00 --> 00:37:12,50 	he hits door, sand cascades onto someone.
 LITTLE_FOCKERS.srt 	LITTLE_FOCKERS_DVS200 	01:12:02,00 --> 01:12:11,50 	his flashlight beam hits the license plate of someone's convertible.
 LITTLE_FOCKERS.srt 	LITTLE_FOCKERS_DVS235 	01:21:40,00 --> 01:21:47,50 	someone blocks a strike then hits someone in the face.
-LITTLE_FOCKERS.srt 	LITTLE_FOCKERS_DVS253 	01:23:42,00 --> 01:23:47,50 	pulled over, someone kicks his leg back and hits again to a bouncy castle.
 MORNING_GLORY.srt 	MORNING_GLORY_DVS99 	00:21:52,00 --> 00:22:00,50 	she hits the table.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS206 	00:30:32,00 --> 00:30:36,50 	she hits him playfully.
-MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS222 	00:31:58,00 --> 00:32:04,50 	the bird hits buttons with its beak, and the tv turns on.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS489 	00:59:36,00 --> 00:59:41,50 	someone hits him with a snowball.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS346 	01:15:35,00 --> 01:15:39,50 	hits the ground under the chair with the small
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS383 	01:20:38,00 --> 01:20:43,50 	the nose hits the button and it lights up.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS423 	01:29:33,00 --> 01:29:38,50 	she hits the wire.
 NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS367 	01:08:12,00 --> 01:08:17,50 	the ball hits an angled block,
-PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS271 	01:04:21,00 --> 01:04:31,50 	hitting the puddle, someone hawk slides out of control and flies toward someone.
-PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS280 	01:06:24,00 --> 01:06:29,50 	hit sits facing his shy grandson.
-PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS67 	00:18:30,00 --> 00:18:37,50 	it hits the ground just ahead of them, bounces end-over-end and lands in a heap.
 PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS76 	00:19:34,00 --> 00:20:19,50 	the minotaur hits the tree trunk headfirst.
 PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS203 	00:49:48,00 --> 00:49:54,50 	as someone's and someone's path cross, they collide and hit the ground.
-PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS241 	01:04:18,00 --> 01:04:27,50 	her final dart hits a janitor's thigh and he falls from a tall ladder.
-PROMETHEUS.srt 	PROMETHEUS_DVS422 	00:42:49,00 --> 00:42:58,50 	as the atvs speed in, one hits a bump and the bagged head falls off.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS330 	01:02:45,00 --> 01:02:59,50 	as he opens the door, someone shoves him into max and his accomplice hits bryant with his pipe.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS648 	01:32:50,00 --> 01:32:58,50 	a golf club touches down beside it as someone prepares to hit the ball out of the rough.
 SALT.srt 	SALT_DVS81 	00:17:38,00 --> 00:17:54,50 	at an elevator, the cia officer waves his id card in front of a scanner and hits a call button.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS62 	00:04:34,00 --> 00:04:40,50 	miss someone is on her bike and was hit by a taxi.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS661 	00:43:12,00 --> 00:43:19,50 	today, the stock market hit a new low due to the liquidation of peregrine investments.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS222 	00:42:25,00 --> 00:42:35,50 	plasma ball returns and hits him again.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS457 	01:36:55,00 --> 01:37:01,50 	as he fires them, the shoot past someone and hit a power shed.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS106 	00:14:51,00 --> 00:14:57,50 	he hits someone over the head with candlestick then takes the ship.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS169 	00:25:11,00 --> 00:25:16,50 	snowy raises his head and hits it on the cows utters.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS198 	00:29:07,00 --> 00:29:12,50 	the board falls and hits him in the head.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS201 	00:29:22,00 --> 00:29:30,50 	it sails through the porthole and hits a man on the back of the head.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS589 	01:20:43,00 --> 01:20:48,50 	someone picks up a rocket launcher, hitting the guard as he stands.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS594 	01:21:05,00 --> 01:21:11,50 	someone fires a machine gun hitting the sidecar.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS605 	01:22:10,00 --> 01:22:14,50 	the motorcycle hits a pothole.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS260 	00:49:43,00 --> 00:49:49,50 	she ends the call then hits redial.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS26 	00:03:22,00 --> 00:03:44,50 	they land on the police van, then hit the ground hard.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS100 	00:19:51,00 --> 00:19:56,50 	someone grabs the phone and hits redial.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS101 	00:20:02,00 --> 00:20:06,50 	he hits the disconnect button.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS156 	00:32:02,00 --> 00:32:06,50 	she hits her head.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS180 	00:37:35,00 --> 00:37:39,50 	he hits a button
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS240 	00:47:06,00 --> 00:47:10,50 	someone hits him.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS534 	01:37:16,00 --> 01:37:23,50 	the clerk hits a button on his desk.
 THE_CALL.srt 	THE_CALL_DVS125 	00:09:53,00 --> 00:09:57,50 	someone hits the redial button.
-THE_CALL.srt 	THE_CALL_DVS187 	00:15:05,00 --> 00:15:10,50 	another call comes in and she hits the space bar.
 THE_CALL.srt 	THE_CALL_DVS295 	00:25:17,00 --> 00:25:26,50 	as she hits a button, light shines on her face.
-THE_CALL.srt 	THE_CALL_DVS902 	01:09:43,00 --> 01:09:47,50 	she hits a light switch, which turns on a single lamp that barely sheds light on the room.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS373 	00:45:43,00 --> 00:45:48,50 	someone flinches as it hits the floor.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS822 	01:34:10,00 --> 01:34:20,50 	she points to his brow then hits a button on the elevator's control panel.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS848 	01:35:43,00 --> 01:35:48,50 	a bullet hits the utility pole behind him.
-THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS109 	00:35:20,00 --> 00:35:27,50 	he hits escape on the computer and grabs his bag.
 THE_VOW.srt 	THE_VOW_DVS90 	00:07:43,00 --> 00:07:51,50 	with a smile, someone hits a switch.
 THE_WATCH.srt 	THE_WATCH_DVS186 	00:33:12,00 --> 00:33:16,50 	the skateboard hits a parked car.
 THE_WATCH.srt 	THE_WATCH_DVS209 	00:38:53,00 --> 00:38:59,50 	now, a radiant beam of energy hits an old tractor.
-THE_WATCH.srt 	THE_WATCH_DVS288 	00:53:04,00 --> 00:53:10,50 	someone and someone hold it up and hit it with boxing gloves.
-THE_WATCH.srt 	THE_WATCH_DVS484 	01:26:56,00 --> 01:27:04,50 	someone grabs a pipe and hits someone across the face.
 THE_WATCH.srt 	THE_WATCH_DVS525 	01:31:49,00 --> 01:31:54,50 	someone hits a red button on the wall.
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS130 	00:36:35,00 --> 00:36:42,50 	now as someone and someone walk toward his car, he hits the locks remote.
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS159 	00:41:47,00 --> 00:41:51,50 	he hits a button on his steering wheel.
-THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS318 	01:21:48,00 --> 01:21:54,50 	someone hits his car's remote, then leaves someone's side.
-THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS22 	00:03:05,00 --> 00:03:29,50 	the briefcase of money opens as it hits the ground.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS297 	00:54:37,00 --> 00:54:45,50 	he hits two in their helmets.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS469 	01:22:59,00 --> 01:23:12,50 	the suv hits a column and explodes.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS151 	00:18:45,00 --> 00:18:49,50 	his wing hits someone.
@@ -158,16 +102,13 @@ TRUE_GRIT.srt 	TRUE_GRIT_DVS348 	01:11:54,00 --> 01:11:58,50 	another empty whis
 TRUE_GRIT.srt 	TRUE_GRIT_DVS448 	01:28:45,00 --> 01:28:53,50 	clobbered with a rifle butt, someone hits the ground.
 TRUE_GRIT.srt 	TRUE_GRIT_DVS551 	01:38:37,00 --> 01:38:44,50 	little blackie's head hits the ground with a thud.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS136 	00:12:03,00 --> 00:12:08,50 	he hits an alarm.
-UGLY_TRUTH.srt 	UGLY_TRUTH_DVS437 	00:53:29,00 --> 00:53:34,50 	he shakes the remote, then hits a button.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS354 	00:57:05,00 --> 00:57:15,50 	someone bars an arm across someone's chest as though protecting him from hitting the brakes hard.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS368 	00:58:51,00 --> 00:58:58,50 	air and saliva hit his face.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS446 	01:02:21,00 --> 01:02:27,50 	her dress hits the floor.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS545 	00:51:08,00 --> 00:51:13,50 	it hits the window and shatters it.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS871 	01:19:49,00 --> 01:19:57,50 	someone shoots energy from his chest and the beam hits the dummy in a burst of flames.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1156 	01:43:10,00 --> 01:43:19,50 	someone hits the floor and someone covers him, securing them both to the metal hull as the jet rolls upside-down.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1296 	01:57:00,00 --> 01:57:06,50 	the wounded mutant hits the sand, belly down.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS26 	00:02:55,00 --> 00:03:00,50 	the woman hits a truck and flies through her windshield.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS591 	01:08:34,00 --> 01:08:39,50 	someone straps on a helmet and hits the kick starter.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS699 	01:16:48,00 --> 01:16:54,50 	someone hits the zombie in the track suit with the butt of her rifle.
-ZOOKEEPER.srt 	ZOOKEEPER_DVS332 	01:14:15,00 --> 01:14:25,50 	someone hits his head on the car's raised scissor door as he tries to climb inside.
 ZOOKEEPER.srt 	ZOOKEEPER_DVS332 	01:14:15,00 --> 01:14:25,50 	he hits his rear on the horn as he attempts to back into the seat.

@@ -1,18 +1,8 @@
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS146 	00:17:58,00 --> 00:18:12,50 	someone catches it and splits a tree trunk.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS289 	00:42:08,00 --> 00:42:27,50 	the vampire grabs the ax and nearly splits someone's face.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS640 	01:30:19,00 --> 01:31:04,50 	before the engine reaches the end, the bridge underneath it splits from the final portion of the track.
-BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS299 	00:49:36,00 --> 00:49:45,50 	he tries to split.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS342 	00:32:04,00 --> 00:32:11,50 	as his friend splits off, someone pauses in front of an electronic store display window.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS668 	01:04:40,00 --> 01:04:45,50 	spotting someone, someone splits off and rides over.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS140 	00:22:31,00 --> 00:22:39,50 	the screen splits down the middle.
-PROMETHEUS.srt 	PROMETHEUS_DVS329 	00:31:46,00 --> 00:31:58,50 	the pups split off again as the extending network of tunnels grows more complex.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS75 	00:12:46,00 --> 00:13:05,50 	his two cohorts split off.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS230 	00:42:12,00 --> 00:42:34,50 	the two leaner men split off together.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS463 	01:28:43,00 --> 01:28:53,50 	the agents reach a stand of twin trees and split up.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS645 	02:01:25,00 --> 02:01:29,50 	the team splits up.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS389 	01:21:48,00 --> 01:22:06,50 	they split up.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS865 	01:36:38,00 --> 01:36:45,50 	n the cottage someone watches the three surveillance feeds on a portable monitor split screen.
-THE_WATCH.srt 	THE_WATCH_DVS300 	00:53:52,00 --> 00:53:58,50 	someone and someone tumble over a sofa to get away, then split up.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS703 	01:03:31,00 --> 01:03:38,50 	someone's arms appear to split at the elbow, replicate into three forearms, then rejoin.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS419 	00:48:33,00 --> 00:48:37,50 	they split up.
 ZOOKEEPER.srt 	ZOOKEEPER_DVS290 	01:03:37,00 --> 01:03:41,50 	and his pants split.

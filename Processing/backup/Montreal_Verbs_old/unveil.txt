@@ -1,0 +1,5 @@
+MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS41 	00:05:58,00 --> 00:06:04,50 	he unveils a marble slab etched with franklin, popper, reader and yates.
+THE_WATCH.srt 	THE_WATCH_DVS109 	00:17:11,00 --> 00:17:16,50 	he unveils a poster board with a logo.
+THE_WATCH.srt 	THE_WATCH_DVS283 	00:51:46,00 --> 00:51:52,50 	someone unveils the dark beast prone in a chair.
+THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS270 	00:50:39,00 --> 00:50:45,50 	he unveils it, revealing klimt's romantic masterpiece, the kiss.
+THOR.srt 	THOR_DVS486 	01:20:25,00 --> 01:20:36,50 	someone raised his sword, but someone unveils the casket and opens it.

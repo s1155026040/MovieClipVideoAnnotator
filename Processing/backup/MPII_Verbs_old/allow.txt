@@ -1,25 +1,28 @@
-0001_American_Beauty_01.13.51.852-01.13.59.724 	Her face has lost its usual resolute determination; she's actually enjoying herself spontaneously, and the lack of her usual self-consciousness allows us to see just how beautiful she is.
-0002_As_Good_As_It_Gets_02.01.50.169-02.01.55.135 	We enters the room carrying Verdell who strains to be allowed closer to Melvin.
-0004_Charade_00.31.12.641-00.31.15.108 	She realizes she has not pushed the button which takes her coin and allows the party at the other end to hear her voice.
-0005_Chinatown_00.40.11.991-00.40.15.131 	He turns at a fork in the road which allows him to continue following the flood channel.
-0005_Chinatown_00.45.44.080-00.45.51.864 	He rises, allows her to sit.
-0006_Clerks_00.03.43.370-00.03.58.527 	He pulls the door down, finally allowing us a clear view as he reaches toward the camera.
-0010_Frau_Ohne_Gewissen_01.42.21.517-01.42.22.085 	This time Zachetti allows him to do it.
-0020_Raising_Arizona_00.30.30.828-00.30.35.416 	As Nathan allows himself to be led back into the house he calls back over his shoulder.
-0021_Rear_Window_00.24.21.753-00.24.25.491 	She turns to face him, they look into each other's eyes a moment, and she allows herself to be kissed on the lips -- but only long enough so as to attract the attention of the other two men.
-0023_THE_BUTTERFLY_EFFECT_00.45.22.374-00.45.25.282 	A smile flickers across her face and she allows herself to be hugged.
-0023_THE_BUTTERFLY_EFFECT_01.37.09.364-01.37.12.936 	Evan allows Kayleigh to roll him away from the others.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.23.34.591-00.23.41.204 	With all his will power, Bilbo allows the ring to slowly slide off his palm and drop to the floor.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.09.29.669-00.09.36.781 	creating an AVENUE of TREES, which allows them access along the old ISENGARD ROAD.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.54.54.503-00.55.09.665 	The GREAT GATES OPEN, allowing GANDALF, PIPPIN, FARAMIR and the OSGILIATH SURVIVORS to RIDE IN.
-0027_The_Big_Lebowski_00.16.22.145-00.16.23.040 	The Dude grudgingly allows himself to be led away, still looking at the young woman.
-0028_The_Crying_Game_01.25.25.003-01.25.28.025 	She allows herself to be led out.
-0029_The_Graduate_00.26.14.421-00.26.14.707 	He moves back against the other door, holding it open and allowing them to go in first.
-0030_The_Hustler_00.22.26.184-00.22.27.596 	Fats allows a perfunctory bow of his head, a courtly gesture, to Eddie's manager.
-0032_The_Princess_Bride_00.33.38.258-00.33.42.978 	Then, allowing the Man In Black to drink first, he swallows his wine.
-0038_Psycho_01.47.20.322-01.47.23.872 	The uniformed Guard opens the door, allows the man to go in.
-0046_Chasing_Amy_00.25.34.400-00.25.36.418 	Banky allows a smile to creep across his face.
-1001_Flight_01.31.24.621-01.31.38.646 	He kisses her and she allows him to pull her into an embrace.
+0001_American_Beauty_01.13.51.852-01.13.59.724 	her face has lost its usual resolute determination; she's actually enjoying herself spontaneously, and the lack of her usual self-consciousness allows us to see just how beautiful she is.
+0002_As_Good_As_It_Gets_00.52.56.977-00.52.57.738 	she is ebullient which, if life allowed, would be her natural state.
+0002_As_Good_As_It_Gets_02.01.50.169-02.01.55.135 	we enters the room carrying verdell who strains to be allowed closer to melvin.
+0004_Charade_00.31.12.641-00.31.15.108 	she realizes she has not pushed the button which takes her coin and allows the party at the other end to hear her voice.
+0005_Chinatown_00.40.11.991-00.40.15.131 	he turns at a fork in the road which allows him to continue following the flood channel.
+0005_Chinatown_00.45.44.080-00.45.51.864 	he rises, allows her to sit.
+0006_Clerks_00.03.43.370-00.03.58.527 	he pulls the door down, finally allowing us a clear view as he reaches toward the camera.
+0010_Frau_Ohne_Gewissen_01.42.21.517-01.42.22.085 	this time zachetti allows him to do it.
+0020_Raising_Arizona_00.30.30.828-00.30.35.416 	as nathan allows himself to be led back into the house he calls back over his shoulder.
+0021_Rear_Window_00.24.21.753-00.24.25.491 	she turns to face him, they look into each other's eyes a moment, and she allows herself to be kissed on the lips -- but only long enough so as to attract the attention of the other two men.
+0023_THE_BUTTERFLY_EFFECT_00.45.22.374-00.45.25.282 	a smile flickers across her face and she allows herself to be hugged.
+0023_THE_BUTTERFLY_EFFECT_01.37.09.364-01.37.12.936 	evan allows kayleigh to roll him away from the others.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.23.34.591-00.23.41.204 	with all his will power, bilbo allows the ring to slowly slide off his palm and drop to the floor.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.09.29.669-00.09.36.781 	creating an avenue of trees, which allows them access along the old isengard road.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.54.54.503-00.55.09.665 	the great gates open, allowing gandalf, pippin, faramir and the osgiliath survivors to ride in.
+0027_The_Big_Lebowski_00.16.22.145-00.16.23.040 	the dude grudgingly allows himself to be led away, still looking at the young woman.
+0028_The_Crying_Game_01.25.25.003-01.25.28.025 	she allows herself to be led out.
+0029_The_Graduate_00.26.14.421-00.26.14.707 	he moves back against the other door, holding it open and allowing them to go in first.
+0030_The_Hustler_00.09.13.950-00.09.16.384 	a sign on the brass bar reads no gambling allowed.
+0030_The_Hustler_00.22.26.184-00.22.27.596 	fats allows a perfunctory bow of his head, a courtly gesture, to eddie's manager.
+0031_The_Lost_Weekend_00.10.13.116-00.10.14.640 	it opens as far as the chain will allow, stops with a sharp bite of metal on wood.
+0032_The_Princess_Bride_00.33.38.258-00.33.42.978 	then, allowing the man in black to drink first, he swallows his wine.
+0038_Psycho_01.47.20.322-01.47.23.872 	the uniformed guard opens the door, allows the man to go in.
+0046_Chasing_Amy_00.25.34.400-00.25.36.418 	banky allows a smile to creep across his face.
+1001_Flight_01.31.24.621-01.31.38.646 	he kisses her and she allows him to pull her into an embrace.
 1017_Bad_Santa_01.22.02.151-01.22.06.725 	thurmond hurries off into the house, and willie allows himself a faint smile.
 1029_Pride_And_Prejudice_Disk_One_00.19.38.469-00.19.44.208 	with a nervous glance at his party, bingley allows jane to lead him to be introduced to charlotte lucas.
 1029_Pride_And_Prejudice_Disk_One_01.29.54.058-01.29.56.971 	they separate to allow a couple to move between them.
@@ -31,10 +34,6 @@
 1041_This_is_40_01.03.56.776-01.04.00.405 	debbie takes the steering wheel in both hands and allows a hopeful smile.
 1043_Vantage_Point_00.24.45.771-00.24.48.459 	enrique is allowed through.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.04.04.800-00.04.12.168 	he waves his wand, and the gates evaporate allowing him to step through.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_01.04.13.688-01.04.29.487 	ron and hermione follow his footprints to the pub, but are not allowed inside.
-1059_The_devil_wears_prada_01.43.43.000-01.43.50.596 	she allows herself a brief smile, then looks over at andy's replacement.
-2012_Unbreakable_00.08.11.432-00.08.14.754 	the shaking of the glass never allows david's eyes to completely close.
-2027_Les_Miserables_00.48.30.846-00.48.33.902 	madame thenardier pretends to accidentally drop a comb from her hair and the customer helpfully picks it up, allowing madame thenardier to pick his wallet from a back pocket as he stands up.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_01.04.13.688-01.04.29.487 	ron and hermione follow his footprints to the pub, but are not allowed inside.
 1059_The_devil_wears_prada_01.43.43.000-01.43.50.596 	she allows herself a brief smile, then looks over at andy's replacement.
 2012_Unbreakable_00.08.11.432-00.08.14.754 	the shaking of the glass never allows david's eyes to completely close.

@@ -1,1 +1,3 @@
-0006_Clerks_00.37.05.708-00.37.08.746 	DANTE frantically apologizes to the rapidly exiting CUSTOMER.
+0002_As_Good_As_It_Gets_00.16.41.704-00.16.42.704 	he apologizes.
+0006_Clerks_00.37.05.708-00.37.08.746 	dante frantically apologizes to the rapidly exiting customer.
+1060_Yes_man_01.35.47.542-01.35.49.153 	reggie holds up his hand to apologize.

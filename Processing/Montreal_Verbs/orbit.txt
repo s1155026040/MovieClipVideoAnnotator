@@ -1,6 +1,3 @@
 FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS287 	01:14:55,00 --> 01:15:04,50 	an airborne view orbits the huge white letters.
-GREEN_ZONE.srt 	GREEN_ZONE_DVS152 	00:40:24,00 --> 00:40:33,50 	now our view orbits a massive bust of saddam hussein wearing a helmet.
-HUGO.srt 	HUGO_DVS147 	00:20:18,00 --> 00:20:27,50 	in a museum, someone's father furrows his brow as he studies a mechanical model of a large sphere with orbiting satellites.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS402 	01:52:43,00 --> 01:53:01,50 	as our view slowly orbits the ex-lovers someone's distanced stare drifts.
-KARATE_KID.srt 	KARATE_KID_DVS1288 	01:44:08,00 --> 01:44:14,50 	golden sunlight bathes the pair as we orbit them.
 PROMETHEUS.srt 	PROMETHEUS_DVS225 	00:19:04,00 --> 00:19:09,50 	the gray sphere orbits it.

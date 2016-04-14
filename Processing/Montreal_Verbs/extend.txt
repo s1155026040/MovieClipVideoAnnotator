@@ -1,13 +1,9 @@
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS222 	00:37:48,00 --> 00:37:54,50 	he extends a hand, but someone pinches his face.
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS671 	01:41:40,00 --> 01:41:45,50 	someone extends a hand.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS44 	00:12:53,00 --> 00:12:57,50 	someone extends his hand.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS289 	00:42:08,00 --> 00:42:27,50 	someone grabs the shaft, extends it to reveal a hidden trigger, then shoots someone through his good eye.
-BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS280 	00:47:59,00 --> 00:48:06,50 	someone closes his magazine and extends his hand.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS292 	00:49:09,00 --> 00:49:13,50 	she extends his arm.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS425 	01:08:08,00 --> 01:08:12,50 	he extends his hand.
 BRUNO.srt 	BRUNO_DVS117 	00:26:25,00 --> 00:26:36,50 	his sits exhaustedly at the table, and someone extends his hand.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS445 	00:43:04,00 --> 00:43:08,50 	he looks up at them with extended arms.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS946 	01:33:11,00 --> 01:33:17,50 	blond extends his fist and someone gives it a friendly bump.
 CHRONICLE.srt 	CHRONICLE_DVS78 	00:10:00,00 --> 00:10:05,50 	crouching, someone extends his hand.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS441 	01:45:37,00 --> 01:45:46,50 	stepping before someone, someone extends his hand.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS442 	01:45:45,00 --> 01:45:49,50 	someone extends his hand.
@@ -15,68 +11,35 @@ COLOMBIANA.srt 	COLOMBIANA_DVS137 	00:12:24,00 --> 00:12:29,50 	someone extends 
 DEAR_JOHN.srt 	DEAR_JOHN_DVS106 	00:15:41,00 --> 00:15:45,50 	she extends a hand.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS399 	01:01:28,00 --> 01:01:35,50 	someone extends his hand.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS225 	00:36:35,00 --> 00:36:52,50 	he extended his gun's telescopic handle.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS524 	01:14:44,00 --> 01:14:52,50 	gazing down on the stage, we find a shadow extending from someone's body as if reaching for someone.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS617 	01:27:38,00 --> 01:27:45,50 	someone extends his mystical burning skeletal hand toward someone.
-GREEN_ZONE.srt 	GREEN_ZONE_DVS79 	00:21:10,00 --> 00:21:51,50 	someone enters the home and his host extends a hand.
-GREEN_ZONE.srt 	GREEN_ZONE_DVS440 	01:36:48,00 --> 01:37:08,50 	he faces someone and extends a pointing finger.
-IN_TIME.srt 	IN_TIME_DVS205 	00:21:28,00 --> 00:21:39,50 	as they draw closer, someone extends his hand.
 IN_TIME.srt 	IN_TIME_DVS424 	00:45:35,00 --> 00:45:44,50 	as their sirens sound, white bars of light repeatedly extend across their grills and upper windshields.
-IN_TIME.srt 	IN_TIME_DVS538 	00:57:59,00 --> 00:58:04,50 	she gives him an uneasy look, then extends her arm.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS459 	01:24:12,00 --> 01:24:22,50 	the accelerator extends across the entire house.
 KARATE_KID.srt 	KARATE_KID_DVS958 	01:18:31,00 --> 01:18:37,50 	balancing on his staff, as he extends his other leg, parallel to the ground.
-KARATE_KID.srt 	KARATE_KID_DVS971 	01:19:29,00 --> 01:19:42,50 	the disciple tucks her extended leg in briefly, and folds her arms across her torso, then lifts her knee up to her chest, and extends her arms in a slanted t, pointing down at the serpent.
 KARATE_KID.srt 	KARATE_KID_DVS1090 	01:29:56,00 --> 01:30:21,50 	under his stunned gaze, she hops her feet out and in, and extends her arms to match.
-KARATE_KID.srt 	KARATE_KID_DVS1477 	02:00:04,00 --> 02:00:11,50 	someone draws one fist back and extends a straightened hand forward.
-KARATE_KID.srt 	KARATE_KID_DVS1570 	02:07:24,00 --> 02:07:50,50 	someone pulls his fist back, extending his flattened hand forward.
 KARATE_KID.srt 	KARATE_KID_DVS1589 	02:09:35,00 --> 02:09:48,50 	the official extends a red flag.
 KATY_PERRY_PART_OF_ME.srt 	KATY_PERRY_PART_OF_ME_DVS43 	00:07:08,00 --> 00:07:15,50 	as someone extends one gloved hand, other performers stack their hands atop hers.
-KNOCKED_UP.srt 	KNOCKED_UP_DVS18 	00:17:06,00 --> 00:17:13,50 	she extends her foot and touches someone's side.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS169 	00:22:44,00 --> 00:22:50,50 	someone extends a handful of meat between the bars.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS174 	00:23:14,00 --> 00:23:20,50 	his ears point backward as he extends his nose to the meat.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS345 	00:42:05,00 --> 00:42:14,50 	he slides a long handles oar out from beneath the canvas cover and extends it over the water toward the life preserver.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS406 	00:47:42,00 --> 00:47:48,50 	someone extends an oar to her and she climbs aboard.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS751 	01:18:01,00 --> 01:18:08,50 	watching the tiger out of the corner of his eye, he extends the spear toward him.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS762 	01:18:40,00 --> 01:18:46,50 	someone someone bares his teeth as someone slowly extends the reward.
-MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS169 	00:24:13,00 --> 00:24:19,50 	with its flippers extended behind it, the penguin hurries over.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS82 	00:17:56,00 --> 00:18:00,50 	someone extends a hand.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS363 	01:17:50,00 --> 01:17:56,50 	the elephant curls its trunk, then extends it.
-NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS488 	01:39:02,00 --> 01:39:09,50 	facing them, rory warmly extends a hand to his nephew.
-PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS336 	01:23:20,00 --> 01:23:26,50 	the ferryman looks at him then extends his hand.
-PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS452 	01:47:23,00 --> 01:47:30,50 	poseidon extends his arm and they shake hands while sharing an amicable stare.
 PROMETHEUS.srt 	PROMETHEUS_DVS207 	00:14:49,00 --> 00:14:54,50 	he extends a hand, the mohawked man glares.
 PROMETHEUS.srt 	PROMETHEUS_DVS329 	00:31:46,00 --> 00:31:58,50 	the pups split off again as the extending network of tunnels grows more complex.
-PROMETHEUS.srt 	PROMETHEUS_DVS499 	00:52:11,00 --> 00:52:18,50 	the android lifts a glass off a shelf with his thumb and middle finger, leaving his index finger extended.
-PROMETHEUS.srt 	PROMETHEUS_DVS504 	00:53:36,00 --> 00:53:42,50 	keeping his index finger extended, someone pours a glass of liquor.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS204 	00:49:40,00 --> 00:49:45,50 	the white robed official extends a hand.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS210 	00:50:28,00 --> 00:50:43,50 	someone shifts his weight and extends his arm showing someone the oval ring in his hand.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS421 	01:45:21,00 --> 01:45:25,50 	the man extends his hand.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS438 	01:48:35,00 --> 01:48:40,50 	teen orphan pokes his head through and extends a hand.
 SANCTUM.srt 	SANCTUM_DVS355 	01:10:22,00 --> 01:10:28,50 	he extends his left foot to another crag about three feet away.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS214 	00:15:12,00 --> 00:15:16,50 	she extends her hand.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1069 	01:12:16,00 --> 01:12:24,50 	someone gives a showman's smile, extends his arm in a mock shrug, and melts into the embrace.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1403 	01:35:25,00 --> 01:35:32,50 	she extends her trembling fingers and rests them upon her laotong's cheek.
-SUPER_8.srt 	SUPER_8_DVS289 	00:51:47,00 --> 00:51:53,50 	from the car, someone watches his father return to the colonel who extends his hand.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS159 	00:24:30,00 --> 00:24:39,50 	as the fire truck behind it skids to a halt its ladder extends out over the van.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS229 	00:35:41,00 --> 00:35:47,50 	someone balances on his knees as he extends his body.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS526 	01:14:17,00 --> 01:14:22,50 	bianca extends her hand and walks toward them.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS229 	00:35:30,00 --> 00:35:36,50 	someone extends a hand.
-THE_WATCH.srt 	THE_WATCH_DVS340 	00:59:05,00 --> 00:59:12,50 	extending a hand after someone, someone faces the guys and sits on a cooler.
-THE_WATCH.srt 	THE_WATCH_DVS418 	01:15:08,00 --> 01:15:14,50 	someone reaches out and touches someone' extended palm.
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS448 	01:43:06,00 --> 01:43:11,50 	he extends a bath-brush.
-THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS518 	01:28:58,00 --> 01:29:05,50 	leaning against the door frame, she steps forward and extends a hand.
-THOR.srt 	THOR_DVS101 	00:15:04,00 --> 00:15:11,50 	the road extends over the sea to a domed metal building sitting on an island.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS729 	01:20:27,00 --> 01:20:34,50 	the winged man extends his arms straight by his sides and flies over us.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS829 	01:28:06,00 --> 01:28:10,50 	she extends a hand.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS326 	00:52:58,00 --> 00:53:10,50 	as he activates the device, its tape extends over a 	moat separating someone's enclosure from the guard railing.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS674 	01:38:48,00 --> 01:38:54,50 	now, someone extends his electric measuring tape along a railing.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS682 	01:39:31,00 --> 01:39:37,50 	opening the gate again, she turns the key extending a deadbolt.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS706 	01:42:24,00 --> 01:42:31,50 	with a scowl at someone and someone, he extends it over the moat.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS47 	00:04:01,00 --> 00:04:06,50 	he warmly extends his hand.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS78 	00:05:51,00 --> 00:05:55,50 	someone extends his hands toward it.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS102 	00:06:58,00 --> 00:07:03,50 	someone extends his hands.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS268 	00:20:47,00 --> 00:20:53,50 	someone extends a crimson hand to someone, who stares.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS306 	00:23:38,00 --> 00:23:44,50 	someone extends a cordial arm.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS616 	00:57:37,00 --> 00:57:46,50 	someone extends his arms, drawing the soldiers toward him, then pulls his elbows down, causing them to fall.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS896 	01:21:51,00 --> 01:21:59,50 	he bows his head for a moment, then extends his hand and fingers as if stretching to reach the dish.
-ZOMBIELAND.srt 	ZOMBIELAND_DVS109 	00:08:57,00 --> 00:09:05,50 	the narrator lets go of his shotgun's stock and extends a shaky thumb like a hitchhiker.
-ZOMBIELAND.srt 	ZOMBIELAND_DVS267 	00:29:34,00 --> 00:29:41,50 	facing someone, he extends the middle finger.

@@ -1,24 +1,14 @@
-21_JUMP_STREET.srt 	21_JUMP_STREET_DVS418 	01:10:47,00 --> 01:10:59,50 	someone observes an instruction card, before you drive fasten seatbelt, check mirrors, hands on ten and two.
-21_JUMP_STREET.srt 	21_JUMP_STREET_DVS670 	01:40:49,00 --> 01:40:57,50 	someone sits glumly in the back of an ambulance as a someone checks on her.
-30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS83 	00:21:16,00 --> 00:21:25,50 	the delivery guy checks it against his order ticket then pulls the rest of the way through and drives down a long dirt lot.
 30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS97 	00:22:45,00 --> 00:22:49,50 	someone checks his wallet.
-30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS141 	00:38:12,00 --> 00:38:18,50 	someone sets down the bag, then checks items dangling from a shelf.
 500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS179 	00:31:46,00 --> 00:31:51,50 	he pauses to check his look in a shop window.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS160 	00:14:44,00 --> 00:14:50,50 	in the truck, a dark-haired man checks the timer on his watch.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS165 	00:15:06,00 --> 00:15:13,50 	using a rounded mirror on a pole, a soldier checks the underside of the first sedan,
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS306 	00:26:56,00 --> 00:27:01,50 	checking his mirror, someone takes an off-ramp.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS363 	00:33:26,00 --> 00:33:33,50 	someone checks an ammo cartridge in the handle of a small switchblade.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS401 	00:37:00,00 --> 00:37:04,50 	someone checks the gun's chamber and clip, then holsters it in his waistband.
-A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS39 	00:10:02,00 --> 00:10:09,50 	someone checks his phone then returns it to his jacket pocket.
 BAD_TEACHER.srt 	BAD_TEACHER_DVS207 	00:57:33,00 --> 00:57:43,50 	bathroom stall, yawning as she checks her cell phone.
-BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS80 	00:12:22,00 --> 00:12:28,50 	checking himself out in a mirror, someone puts up his dukes.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS150 	00:24:04,00 --> 00:24:09,50 	he checks out beauties on the quad.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS439 	01:10:13,00 --> 01:10:19,50 	nearby, scratch and rembrandt check out girls.
-BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS475 	01:13:52,00 --> 01:13:58,50 	he checks the knapsack again, then turns on the closet's overhead light.
 BLINDDATING.srt 	BLINDDATING_DVS225 	00:55:33,00 --> 00:55:37,50 	he checks his list.
 BLINDDATING.srt 	BLINDDATING_DVS324 	01:17:41,00 --> 01:17:48,50 	someone checks his eyes.
 BRUNO.srt 	BRUNO_DVS78 	00:16:36,00 --> 00:16:41,50 	someone tilts his head, checking out someone's.
-BURLESQUE.srt 	BURLESQUE_DVS589 	01:27:22,00 --> 01:27:28,50 	as he returns to the bedroom, she checks him out again.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS223 	00:39:31,00 --> 00:39:41,50 	someone checks his rear-view mirror as he negotiates the bullet-ridden taxi down crowded city streets.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS228 	00:40:03,00 --> 00:40:09,50 	someone checks his rear-view mirror again as someone gains on him.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS463 	00:44:59,00 --> 00:45:05,50 	stopping, someone exhales and checks his watch.
@@ -29,21 +19,13 @@ CHRONICLE.srt 	CHRONICLE_DVS252 	00:37:44,00 --> 00:37:48,50 	someone checks his
 CHRONICLE.srt 	CHRONICLE_DVS285 	00:43:53,00 --> 00:43:57,50 	now, someone checks a tightrope.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS38 	00:08:23,00 --> 00:08:37,50 	he checks his fake tooth in a mirror rubbing it with a forefinger.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS278 	01:07:27,00 --> 01:07:33,50 	inside, someone walks to the door and checks the peephole.
-CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS387 	01:34:24,00 --> 01:34:50,50 	the footage shows the referee checking the downed fighter and his corner men rushing in.
 COLOMBIANA.srt 	COLOMBIANA_DVS237 	00:20:00,00 --> 00:20:07,50 	in the corridor, her escort checks her watch then peers inside the restroom.
-COLOMBIANA.srt 	COLOMBIANA_DVS394 	00:35:09,00 --> 00:35:15,50 	someone reaches a large ventilation fan and checks her watch.
 COLOMBIANA.srt 	COLOMBIANA_DVS409 	00:36:18,00 --> 00:36:22,50 	he checks on someone.
-COLOMBIANA.srt 	COLOMBIANA_DVS422 	00:37:08,00 --> 00:37:13,50 	checking the clip, she finds it fully loaded.
-COLOMBIANA.srt 	COLOMBIANA_DVS873 	01:23:04,00 --> 01:23:11,50 	meanwhile, someone arrives in a changing room and checks a set of lockers.
-COLOMBIANA.srt 	COLOMBIANA_DVS1020 	01:36:45,00 --> 01:36:51,50 	he checks the chamber in his pistol then tosses the weapon on the floor.
-COLOMBIANA.srt 	COLOMBIANA_DVS1080 	01:41:50,00 --> 01:41:56,50 	checking his phone's display, he glances around then answers.
 DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS145 	00:35:08,00 --> 00:35:12,50 	he checks the phone's memory.
 DISTRICT_9.srt 	DISTRICT_9_DVS46 	00:06:20,00 --> 00:06:25,50 	a worker checks a helicopter, and soldiers gear up.
-EASY_A.srt 	EASY_A_DVS35 	00:08:50,00 --> 00:09:04,50 	in a theater class, a guy checks his phone while lying on stage mid rehearsal.
 FLIGHT.srt 	FLIGHT_DVS210 	00:47:38,00 --> 00:47:44,50 	he plugs in a charger, and checks his iphone.
 FLIGHT.srt 	FLIGHT_DVS919 	01:49:22,00 --> 01:49:26,50 	someone checks the time.
 FLIGHT.srt 	FLIGHT_DVS1106 	02:01:06,00 --> 02:01:13,50 	someone slips on her glasses and checks her notes, as someone glances at someone and someone.
-FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS34 	00:09:35,00 --> 00:09:41,50 	as he checks his phone, she suddenly puts hers away.
 FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS308 	01:21:13,00 --> 01:21:28,50 	she checks her cellphone.
 GET_HIM_TO_THE_GREEK.srt 	GET_HIM_TO_THE_GREEK_DVS155 	01:27:14,00 --> 01:27:18,50 	she checks her cell.
 GET_HIM_TO_THE_GREEK.srt 	GET_HIM_TO_THE_GREEK_DVS179 	01:39:48,00 --> 01:39:55,50 	someone checks a bedside clock.
@@ -52,114 +34,72 @@ GREEN_ZONE.srt 	GREEN_ZONE_DVS38 	00:08:52,00 --> 00:08:57,50 	one guy checks ou
 GREEN_ZONE.srt 	GREEN_ZONE_DVS235 	00:57:49,00 --> 00:57:57,50 	someone checks his watch.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS237 	00:58:11,00 --> 00:58:17,50 	someone stoically checks his watch again.
 GROWN_UPS.srt 	GROWN_UPS_DVS42 	00:10:48,00 --> 00:10:54,50 	someone checks his cellphone.
-HUGO.srt 	HUGO_DVS177 	00:24:50,00 --> 00:24:57,50 	he freezes as the inspector takes out a pocket watch and checks the time.
-HUGO.srt 	HUGO_DVS521 	01:17:05,00 --> 01:17:10,50 	below, the inspector looks at the clock then checks his watch.
-HUGO.srt 	HUGO_DVS529 	01:18:13,00 --> 01:18:22,50 	in another, he turns a gear as he checks his pocket watch.
 HUGO.srt 	HUGO_DVS603 	01:27:10,00 --> 01:27:18,50 	standing in the cemetery beneath a statue of a hooded figure, someone checks his pocket watch.
 HUGO.srt 	HUGO_DVS709 	01:43:51,00 --> 01:43:59,50 	a few paces ahead, someone sits attentively beside the station inspector who checks a pocket watch.
-IN_TIME.srt 	IN_TIME_DVS37 	00:04:16,00 --> 00:04:23,50 	turning a corner, someone checks his body clock, then breaks into a run.
-IN_TIME.srt 	IN_TIME_DVS50 	00:05:27,00 --> 00:05:32,50 	heading off, someone checks his clock.
 IN_TIME.srt 	IN_TIME_DVS108 	00:11:53,00 --> 00:11:57,50 	smirking, someone checks his clock.
-IN_TIME.srt 	IN_TIME_DVS142 	00:15:47,00 --> 00:15:53,50 	getting his bearings, he habitually checks his body clock.
 IN_TIME.srt 	IN_TIME_DVS168 	00:18:16,00 --> 00:18:21,50 	as someone releases him, someone checks his clock.
 IN_TIME.srt 	IN_TIME_DVS175 	00:18:47,00 --> 00:18:53,50 	someone stares after him, then checks his clock again.
-IN_TIME.srt 	IN_TIME_DVS180 	00:19:33,00 --> 00:19:38,50 	sliding her sleeve up, she checks the balance on her clock.
 IN_TIME.srt 	IN_TIME_DVS199 	00:21:00,00 --> 00:21:05,50 	she checks her clock.
 IN_TIME.srt 	IN_TIME_DVS215 	00:22:22,00 --> 00:22:29,50 	as one checks someone's clock, a sharp cheek boned man in black approaches.
 IN_TIME.srt 	IN_TIME_DVS241 	00:24:59,00 --> 00:25:06,50 	someone checks his clock.
-IN_TIME.srt 	IN_TIME_DVS252 	00:26:00,00 --> 00:26:07,50 	stopping by a hotel's front doors, he pulls up his sleeve and checks his clock.
 IN_TIME.srt 	IN_TIME_DVS265 	00:27:24,00 --> 00:27:28,50 	he checks a screen with a map.
-IN_TIME.srt 	IN_TIME_DVS271 	00:27:50,00 --> 00:27:56,50 	he checks his clock which shows over 105 years.
-IN_TIME.srt 	IN_TIME_DVS301 	00:31:02,00 --> 00:31:10,50 	checking his cards, he finds a pair of queens and places his wrist under a scanner.
 IN_TIME.srt 	IN_TIME_DVS333 	00:34:29,00 --> 00:34:40,50 	someone checks his clock which now displays a minute and fifteen seconds less.
-IN_TIME.srt 	IN_TIME_DVS440 	00:47:19,00 --> 00:47:25,50 	someone checks his body clock which shows an hour and ten minutes.
 IN_TIME.srt 	IN_TIME_DVS452 	00:48:55,00 --> 00:48:59,50 	a young thug checks her.
 IN_TIME.srt 	IN_TIME_DVS578 	01:01:37,00 --> 01:01:41,50 	she checks her clock.
 IN_TIME.srt 	IN_TIME_DVS596 	01:03:41,00 --> 01:03:54,50 	he checks the timekeeper's clock.
-IN_TIME.srt 	IN_TIME_DVS599 	01:04:08,00 --> 01:04:23,50 	someone checks his balance and finds 4 hours and 45 minutes.
 IN_TIME.srt 	IN_TIME_DVS604 	01:04:39,00 --> 01:04:43,50 	she checks her clock.
 IN_TIME.srt 	IN_TIME_DVS921 	01:37:19,00 --> 01:37:23,50 	he checks his clock.
-IN_TIME.srt 	IN_TIME_DVS939 	01:39:03,00 --> 01:39:11,50 	lowering his gun, he checks his own clock, which counts down from five seconds.
-IN_TIME.srt 	IN_TIME_DVS943 	01:39:19,00 --> 01:39:25,50 	facing a city on the horizon, someone checks his clock.
 IN_TIME.srt 	IN_TIME_DVS949 	01:39:56,00 --> 01:40:04,50 	the distance between someone and someone grows and someone checks his clock.
 IN_TIME.srt 	IN_TIME_DVS952 	01:40:13,00 --> 01:40:18,50 	behind him, someone checks her clock.
 IN_TIME.srt 	IN_TIME_DVS959 	01:40:48,00 --> 01:40:52,50 	he checks his clock.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS327 	01:36:39,00 --> 01:36:43,50 	he checks under empty desks.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS338 	01:37:55,00 --> 01:38:02,50 	lights and check along the shelves.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS403 	01:54:30,00 --> 01:54:38,50 	someone checks the duffel bag.
-ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS136 	00:42:43,00 --> 00:42:56,50 	he turns off the running sink faucet, then glances at the mirror, and checks his watch.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS205 	01:01:35,00 --> 01:01:41,50 	now, the doctor checks someone's blood pressure.
 JACK_AND_JILL.srt 	JACK_AND_JILL_DVS339 	01:05:41,00 --> 01:05:49,50 	at night, in someone's closet, someone checks her dresses.
-JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS83 	00:11:34,00 --> 00:11:40,50 	someone turns back to annabelle, who checks her datebook.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS210 	00:40:08,00 --> 00:40:15,50 	someone unbuckles her seat-belt, and checks the bag.
-JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS134 	00:47:56,00 --> 00:48:15,50 	someone and someone check her out as they cross the sand.
 JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS330 	01:45:21,00 --> 01:45:26,50 	someone checks up sailors.
-KARATE_KID.srt 	KARATE_KID_DVS658 	00:55:38,00 --> 00:55:53,50 	checking a slip of paper, he heads through the gate's double doors and walks down a winding alley cluttered with boxes and junk.
 KARATE_KID.srt 	KARATE_KID_DVS1426 	01:55:20,00 --> 01:55:28,50 	someone saunters off, idly checking his knuckles.
 KATY_PERRY_PART_OF_ME.srt 	KATY_PERRY_PART_OF_ME_DVS269 	01:03:02,00 --> 01:03:06,50 	she checks her makeup.
-LARRY_CROWNE.srt 	LARRY_CROWNE_DVS35 	00:12:18,00 --> 00:12:22,50 	he looks at map and checks it, then.
 LARRY_CROWNE.srt 	LARRY_CROWNE_DVS72 	00:18:58,00 --> 00:19:02,50 	she checks again.
 LARRY_CROWNE.srt 	LARRY_CROWNE_DVS130 	00:30:21,00 --> 00:30:26,50 	someone watches as someone checks his phone
 LARRY_CROWNE.srt 	LARRY_CROWNE_DVS132 	00:30:30,00 --> 00:30:34,50 	he checks his notes.
 LARRY_CROWNE.srt 	LARRY_CROWNE_DVS227 	00:51:35,00 --> 00:51:42,50 	someone seated at the desk and checks her watch.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS801 	01:22:01,00 --> 01:22:07,50 	he pulls a flare gun from his survival pack and checks the chamber.
 LITTLE_FOCKERS.srt 	LITTLE_FOCKERS_DVS158 	00:56:22,00 --> 00:56:29,50 	someone checks his watch.
 MORNING_GLORY.srt 	MORNING_GLORY_DVS204 	00:46:47,00 --> 00:46:51,50 	she checks her watch.
-MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS304 	00:39:14,00 --> 00:39:21,50 	he drops his arm to his side, checks his watch, then marches off.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS426 	00:49:37,00 --> 00:49:43,50 	someone notices someone checking a text message on her cell phone.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS634 	01:16:49,00 --> 01:17:07,50 	someone checks her cell phone.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS47 	00:11:21,00 --> 00:11:27,50 	in yellow checked knickerbockers, someone leans foppishly on the car.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS58 	00:14:31,00 --> 00:14:35,50 	she checks the drawers.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS253 	00:52:54,00 --> 00:54:08,50 	at a bathtub, someone massages lather into her wedding veil, bites her lips, then checks the rinsed cloth.
-NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS298 	01:05:21,00 --> 01:05:32,50 	someone's is blue gray and someone's is checked with a purple necktie.
-NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS158 	00:25:58,00 --> 00:26:06,50 	at an outside restaurant someone checks messages on his iphone, someone gets up.
 NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS487 	01:30:06,00 --> 01:30:10,50 	he checks his phone.
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS107 	00:27:46,00 --> 00:27:50,50 	she checks her phone.
-PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS313 	01:18:33,00 --> 01:18:52,50 	as they run into the gaming area, someone shoulder checks a casino worker.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS84 	00:14:10,00 --> 00:14:21,50 	in a getaway car, someone checks the time on a pocket watch, then drives.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS113 	00:20:25,00 --> 00:20:29,50 	he checks his watch and look.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS507 	01:36:09,00 --> 01:36:16,50 	someone checks her watch then turns up a radio, windows behind her show the passing train.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS614 	01:55:19,00 --> 01:55:23,50 	he checks a newspaper.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS650 	02:02:34,00 --> 02:02:57,50 	outside, someone checks his watch.
-SALT.srt 	SALT_DVS87 	00:18:36,00 --> 00:18:48,50 	she checks her cell then slides it shut and shifts her eyes around the sparse room.
-SALT.srt 	SALT_DVS375 	01:06:57,00 --> 01:07:12,50 	she checks a corridor for survivors then drops her gaze downstairs.
 SALT.srt 	SALT_DVS432 	01:14:51,00 --> 01:14:55,50 	an agent checks the entryway.
-SANCTUM.srt 	SANCTUM_DVS20 	00:05:16,00 --> 00:05:23,50 	wearing only a wet suit, he goes through the motions of checking his equipment.
-SANCTUM.srt 	SANCTUM_DVS53 	00:11:31,00 --> 00:11:37,50 	they all look to someone who checks the computer.
 SANCTUM.srt 	SANCTUM_DVS444 	01:24:15,00 --> 01:24:21,50 	he checks for his light's reflection on his palm.
-SANCTUM.srt 	SANCTUM_DVS483 	01:29:36,00 --> 01:29:46,50 	setting down his torch, he checks a gauge.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS713 	00:46:55,00 --> 00:47:02,50 	someone folds back the sleeve of her flannel shirt and checks her watch,
-SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS25 	00:05:28,00 --> 00:05:35,50 	it reads, "check one.
-SOUL_SURFER.srt 	SOUL_SURFER_DVS40 	00:12:45,00 --> 00:12:52,50 	now, the young woman from the choir checks her watch as she heads toward a gazebo.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS177 	00:29:31,00 --> 00:29:37,50 	she checks her watch, then examines a record album cover.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS192 	00:31:23,00 --> 00:31:27,50 	he checks his wrist watch.
 SUPER_8.srt 	SUPER_8_DVS26 	00:02:46,00 --> 00:02:54,50 	a man with long blonde hair and sideburns steps out and cups his hands over his mouth as if to check his breath.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS153 	00:29:42,00 --> 00:29:47,50 	someone checks his cell display.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS179 	00:37:32,00 --> 00:37:36,50 	someone checks his phone.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS270 	00:51:10,00 --> 00:51:14,50 	the driver checks her out.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS408 	01:16:54,00 --> 01:17:00,50 	checking someone's wallet, he finds their wedding photo.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS493 	01:28:52,00 --> 01:28:58,50 	he checks his phone and flips it open.
-THE_CALL.srt 	THE_CALL_DVS114 	00:08:55,00 --> 00:09:01,50 	he slowly pulls it closed as he checks behind it.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS120 	00:11:47,00 --> 00:11:52,50 	someone checks her cell phone then puts it down.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS122 	00:11:52,00 --> 00:11:58,50 	someone checks his own phone then answers it.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS199 	00:24:55,00 --> 00:25:01,50 	she peels off a price tag, then checks her cell phone.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS206 	00:25:31,00 --> 00:25:40,50 	rushes to an elderly man on the floor and checks his pulse.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS735 	01:21:35,00 --> 01:21:41,50 	meanwhile, someone checks his things as a locksmith changes his lock.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1205 	02:07:45,00 --> 02:07:56,50 	someone checks his rearview mirror.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1207 	02:07:58,00 --> 02:08:06,50 	someone checks his rearview again.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1269 	02:13:36,00 --> 02:13:43,50 	it shows someone's internet activity as she checks her email
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1363 	02:26:30,00 --> 02:26:35,50 	the banker checks his watch.
 THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS104 	00:36:33,00 --> 00:36:39,50 	he checks the tires in a strip-club parking lot.
 THE_SITTER.srt 	THE_SITTER_DVS49 	00:27:12,00 --> 00:27:23,50 	he checks its display, then answers with an uneasy look.
 THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS105 	00:33:53,00 --> 00:33:58,50 	cameron checks his cell.
 THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS248 	01:35:54,00 --> 01:35:58,50 	she checks his cell.
-THE_VOW.srt 	THE_VOW_DVS292 	00:38:06,00 --> 00:38:12,50 	he picks it up and checks its display,
 THE_WATCH.srt 	THE_WATCH_DVS63 	00:07:32,00 --> 00:07:36,50 	she checks a test stick.
 THE_WATCH.srt 	THE_WATCH_DVS97 	00:12:32,00 --> 00:12:38,50 	standing by a presentation easel, someone checks his wrist watch.
-THE_WATCH.srt 	THE_WATCH_DVS322 	00:56:25,00 --> 00:56:31,50 	now, he runs in place at an intersection, checking his pulse.
-THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS430 	01:39:39,00 --> 01:39:46,50 	entering the bathroom, someone checks the stalls as he makes a phone call.
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS438 	01:41:27,00 --> 01:41:32,50 	he checks the back of his shirt in a mirror.
-THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS109 	00:18:35,00 --> 00:18:41,50 	he checks out a short-haired woman then takes out his cellphone and reads a text message.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS307 	00:57:03,00 --> 00:57:07,50 	someone checks his watch.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS529 	01:30:48,00 --> 01:30:53,50 	someone checks someone's chute.
 THOR.srt 	THOR_DVS407 	01:02:20,00 --> 01:02:24,50 	someone checks his cell phone.
@@ -168,24 +108,15 @@ TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS348 	00:39:12,00 --> 00:39:23,50 	a roughneck ch
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS348 	00:39:12,00 --> 00:39:23,50 	behind him, someone checks a roughneck.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS617 	01:07:51,00 --> 01:07:56,50 	as someone skates out, someone checks the scoreboard.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS619 	01:08:03,00 --> 01:08:09,50 	he ducks down and checks an arrow then hurls the player on his back.
-UGLY_TRUTH.srt 	UGLY_TRUTH_DVS440 	00:53:38,00 --> 00:53:44,50 	as someone joins her, someone checks his cell phone.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS240 	00:39:48,00 --> 00:39:57,50 	he checks his watch.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS449 	01:10:21,00 --> 01:10:36,50 	on a monthly calendar, a hand checks off 	the 1st of june.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS454 	01:10:53,00 --> 01:11:04,50 	he glances around, then checks his watch and gazes down a path for 	lily.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS457 	01:11:24,00 --> 01:11:32,50 	a hand checks off june 28th.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS458 	01:11:53,00 --> 01:12:00,50 	later, they check out.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS771 	01:50:06,00 --> 01:50:13,50 	someone checks his watch.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS834 	01:57:18,00 --> 01:57:21,50 	he checks his watch.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS234 	00:30:11,00 --> 00:30:15,50 	someone checks out a brunette.
-WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS531 	01:14:06,00 --> 01:14:11,50 	she checks her profile and gives a dissatisfied someone.
-YOUNG_ADULT.srt 	YOUNG_ADULT_DVS109 	00:17:11,00 --> 00:17:16,50 	he sets it in front of someone as she checks her phone.
-YOUNG_ADULT.srt 	YOUNG_ADULT_DVS126 	00:23:06,00 --> 00:23:12,50 	sitting on a public bench, she types on her laptop then checks her cellphone.
-YOUNG_ADULT.srt 	YOUNG_ADULT_DVS294 	00:56:26,00 --> 00:56:32,50 	she picks it up and checks the caller id.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS115 	00:09:27,00 --> 00:09:31,50 	check the backseat.
-ZOMBIELAND.srt 	ZOMBIELAND_DVS191 	00:18:56,00 --> 00:19:04,50 	as the guys approach a wrecked car, someone carefully checks the interior.
-ZOMBIELAND.srt 	ZOMBIELAND_DVS244 	00:25:59,00 --> 00:26:06,50 	stepping back, someone checks the double barrel chamber and finds it fully loaded.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS268 	00:29:41,00 --> 00:29:47,50 	someone checks the back as someone hot wires the engine.
-ZOMBIELAND.srt 	ZOMBIELAND_DVS269 	00:29:44,00 --> 00:29:50,50 	rule number 31 appears over a large canvas bag, check the back seat.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS287 	00:32:23,00 --> 00:32:31,50 	aiming the gun inside the vehicle, someone peeks through the escalade's open driver's window then yanks open the rear door and checks the back.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS555 	01:05:10,00 --> 01:05:18,50 	she checks the room first, eyes a row of utility boxes and swings a lever on each one to its downward position.
 ZOOKEEPER.srt 	ZOOKEEPER_DVS346 	01:17:32,00 --> 01:17:38,50 	someone checks his phone's caller id.

@@ -1,43 +1,44 @@
-0003_CASABLANCA_00.29.55.024-00.29.55.465 	At the bar, Berger sips a drink.
-0014_Ist_das_Leben_nicht_schoen_01.39.44.379-01.39.45.971 	He is sipping a mug of hot coffee, staring at the stove, cold, gloomy and drunk, ignoring Clarence and the tollkeeper, preoccupied by his near suicide and his unsolved problems.
-0016_O_Brother_Where_Art_Thou_01.07.57.896-01.08.04.117 	Pappy O'Daniel sits on the veranda of the Governor's Mansion, smoking a cigar and sipping from a glass of bourbon as the evening sun goes down.
-0021_Rear_Window_00.20.06.996-00.20.14.058 	She sips her drink then says.
-0021_Rear_Window_01.19.58.375-01.19.59.575 	As she sips her drink and look at him over the rim of the glass, he tosses his off with nervous dispatch.
-0023_THE_BUTTERFLY_EFFECT_01.35.44.544-01.35.46.552 	Evan sips from a BEER CAP as Lenny and Kayleigh make out in plain sight with Tommy's bashful approval.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.18.23.039-00.18.30.331 	Are leaning over a barrel, washing dishes in soapy water.with Gandalf sitting nearby, smoking his pipe and sipping an ale.
-0026_The_Big_Fish_01.31.04.432-01.31.08.373 	While Will sips his iced tea, Jenny flips through a form she never expected to see again.
-0030_The_Hustler_00.24.31.718-00.24.31.797 	Except for his dark glasses, he might pass for a conservative businessman out for an evening with the boys, sipping milk instead of alcohol to soothe an ulcer.
-0030_The_Hustler_00.24.42.430-00.24.44.859 	Bert sips his milk.
-0030_The_Hustler_00.42.13.876-00.42.17.651 	As he looks around the bar he sees Sarah, alone at a back booth, sipping a highball.
-0030_The_Hustler_01.38.00.556-01.38.02.956 	They are at a table, sipping drinks.
-0030_The_Hustler_02.14.07.935-02.14.27.150 	And Bert takes his seat again on his throne overlooking Ames, sipping his glass of milk.
-0033_Amadeus_00.24.34.439-00.24.35.810 	At the table sits the EMPEROR JOSEPH II, eating his frugal dinner and sipping goat's milk.
-0046_Chasing_Amy_00.18.49.548-00.18.50.189 	The Guy sips it.
-0049_Hannah_and_her_sisters_00.03.37.989-00.03.49.833 	As Holly talks, sipping her drink, Hannah busily works in the kitchen, which contains a large center table stacked with bowls and plates of food, hanging pots and pans, and general party clutter.
-0049_Hannah_and_her_sisters_00.04.48.179-00.04.57.378 	Holly, leaning on the table, sips her drink.
-0049_Hannah_and_her_sisters_00.05.55.619-00.06.00.480 	Holly groans, looking at her sister, while April sips her drink and nods.
-0049_Hannah_and_her_sisters_00.08.15.367-00.08.26.299 	The guests, sipping their wine, quiet down as Norma continues to speak.
-0049_Hannah_and_her_sisters_00.45.42.104-00.45.47.015 	Norma sips her coffee, softly sobbing.
-0049_Hannah_and_her_sisters_01.24.00.075-01.24.05.379 	Some guests sip their drinks, smiling, as the camera moves back to the piano and the book- laden wall.
-0049_Hannah_and_her_sisters_01.24.33.729-01.24.37.240 	Elliot looks back at her briefly, then, sipping his drink, he turns and looks offscreen at the crowd in the living room.
-0049_Hannah_and_her_sisters_01.27.31.125-01.27.33.435 	Holly looks at the door, sipping her wine, as the movie cuts back to Hannah's living room.
-0049_Hannah_and_her_sisters_01.40.13.151-01.40.17.032 	Two women stand by the partially set dining room table, chatting and arranging some plates, as Elliot strolls into view, sipping a drink.
-0051_Men_in_black_00.46.58.376-00.47.01.276 	In the living room, JAY sips some of her lemonade and winces.
-0053_Rendezvous_mit_Joe_Black_02.06.26.264-02.06.32.915 	Quince sips the red, now the white, now he pours some of each into one glass.
-1001_Flight_01.28.01.804-01.28.04.026 	He sips his beer.
-1001_Flight_01.58.35.525-01.58.38.290 	Whip sips some water.
-1003_How_to_Lose_Friends_and_Alienate_People_00.06.03.220-00.06.04.230 	He sips champagne.
-1003_How_to_Lose_Friends_and_Alienate_People_00.16.29.362-00.16.30.800 	He sips urine-colored water from a glass.
-1003_How_to_Lose_Friends_and_Alienate_People_00.28.00.758-00.28.06.245 	white flowers float on the surface of the rooftop swimming pool as immaculately dressed glitterati mingle and sip champagne.
-1003_How_to_Lose_Friends_and_Alienate_People_00.48.06.356-00.48.08.491 	He sips whiskey.
-1003_How_to_Lose_Friends_and_Alienate_People_01.23.08.063-01.23.12.329 	They sip their drinks and stare straight ahead.
-1004_Juno_00.49.45.620-00.49.52.436 	It's dark by the time Juno arrives home, sipping from a drinks carton.
-1004_Juno_01.15.47.858-01.15.49.747 	In her immaculate house, Vanessa is sitting alone at the dining room table, sipping a glass of red wine.
-1005_Signs_00.28.13.816-00.28.15.283 	In the bookshop, Bo sits at a table and sips a glass of water.
+0003_CASABLANCA_00.29.55.024-00.29.55.465 	at the bar, berger sips a drink.
+0011_Gandhi_01.50.56.496-01.51.11.107 	she turns back, and propping up his head, helps him to sip.
+0014_Ist_das_Leben_nicht_schoen_01.39.44.379-01.39.45.971 	he is sipping a mug of hot coffee, staring at the stove, cold, gloomy and drunk, ignoring clarence and the tollkeeper, preoccupied by his near suicide and his unsolved problems.
+0016_O_Brother_Where_Art_Thou_01.07.57.896-01.08.04.117 	pappy o'daniel sits on the veranda of the governor's mansion, smoking a cigar and sipping from a glass of bourbon as the evening sun goes down.
+0021_Rear_Window_00.20.06.996-00.20.14.058 	she sips her drink then says.
+0021_Rear_Window_01.19.58.375-01.19.59.575 	as she sips her drink and look at him over the rim of the glass, he tosses his off with nervous dispatch.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.18.23.039-00.18.30.331 	are leaning over a barrel, washing dishes in soapy water.with gandalf sitting nearby, smoking his pipe and sipping an ale.
+0026_The_Big_Fish_01.31.04.432-01.31.08.373 	while will sips his iced tea, jenny flips through a form she never expected to see again.
+0028_The_Crying_Game_01.02.07.527-01.02.08.719 	he sips.
+0030_The_Hustler_00.24.31.718-00.24.31.797 	except for his dark glasses, he might pass for a conservative businessman out for an evening with the boys, sipping milk instead of alcohol to soothe an ulcer.
+0030_The_Hustler_00.24.42.430-00.24.44.859 	bert sips his milk.
+0030_The_Hustler_00.42.13.876-00.42.17.651 	as he looks around the bar he sees sarah, alone at a back booth, sipping a highball.
+0030_The_Hustler_01.38.00.556-01.38.02.956 	they are at a table, sipping drinks.
+0030_The_Hustler_02.14.07.935-02.14.27.150 	and bert takes his seat again on his throne overlooking ames, sipping his glass of milk.
+0033_Amadeus_00.24.34.439-00.24.35.810 	at the table sits the emperor joseph ii, eating his frugal dinner and sipping goat's milk.
+0046_Chasing_Amy_00.18.49.548-00.18.50.189 	the guy sips it.
+0049_Hannah_and_her_sisters_00.03.37.989-00.03.49.833 	as holly talks, sipping her drink, hannah busily works in the kitchen, which contains a large center table stacked with bowls and plates of food, hanging pots and pans, and general party clutter.
+0049_Hannah_and_her_sisters_00.04.48.179-00.04.57.378 	holly, leaning on the table, sips her drink.
+0049_Hannah_and_her_sisters_00.05.55.619-00.06.00.480 	holly groans, looking at her sister, while april sips her drink and nods.
+0049_Hannah_and_her_sisters_00.08.15.367-00.08.26.299 	the guests, sipping their wine, quiet down as norma continues to speak.
+0049_Hannah_and_her_sisters_00.45.42.104-00.45.47.015 	norma sips her coffee, softly sobbing.
+0049_Hannah_and_her_sisters_01.05.07.561-01.05.10.774 	she sips.
+0049_Hannah_and_her_sisters_01.24.00.075-01.24.05.379 	some guests sip their drinks, smiling, as the camera moves back to the piano and the book- laden wall.
+0049_Hannah_and_her_sisters_01.24.33.729-01.24.37.240 	elliot looks back at her briefly, then, sipping his drink, he turns and looks offscreen at the crowd in the living room.
+0049_Hannah_and_her_sisters_01.27.31.125-01.27.33.435 	holly looks at the door, sipping her wine, as the movie cuts back to hannah's living room.
+0049_Hannah_and_her_sisters_01.40.13.151-01.40.17.032 	two women stand by the partially set dining room table, chatting and arranging some plates, as elliot strolls into view, sipping a drink.
+0051_Men_in_black_00.46.58.376-00.47.01.276 	in the living room, jay sips some of her lemonade and winces.
+0053_Rendezvous_mit_Joe_Black_02.06.26.264-02.06.32.915 	quince sips the red, now the white, now he pours some of each into one glass.
+1001_Flight_01.28.01.804-01.28.04.026 	he sips his beer.
+1001_Flight_01.58.35.525-01.58.38.290 	whip sips some water.
+1003_How_to_Lose_Friends_and_Alienate_People_00.06.03.220-00.06.04.230 	he sips champagne.
+1003_How_to_Lose_Friends_and_Alienate_People_00.16.29.362-00.16.30.800 	he sips urine-colored water from a glass.
+1003_How_to_Lose_Friends_and_Alienate_People_00.48.06.356-00.48.08.491 	he sips whiskey.
+1003_How_to_Lose_Friends_and_Alienate_People_01.23.08.063-01.23.12.329 	they sip their drinks and stare straight ahead.
+1004_Juno_00.49.45.620-00.49.52.436 	it's dark by the time juno arrives home, sipping from a drinks carton.
+1004_Juno_01.15.47.858-01.15.49.747 	in her immaculate house, vanessa is sitting alone at the dining room table, sipping a glass of red wine.
+1005_Signs_00.28.13.816-00.28.15.283 	in the bookshop, bo sits at a table and sips a glass of water.
+1007_Spider-Man1_01.04.06.985-01.04.16.293 	the older man sips from a cup of coffee as it gazed fixed on norman, who wipes his mouth with the back of his hand.
 1008_Spider-Man2_01.18.46.622-01.18.49.463 	peter, in blue shirt and tie and spectacles still on, lowers his eyes then looks at his aunt who sips her tea.
 1009_Spider-Man3_01.27.30.931-01.27.32.669 	harry sips his drink.
 1010_TITANIC_00.32.11.167-00.32.12.509 	he sips his drink while gazing out to sea.
-1010_TITANIC_00.52.18.589-00.52.20.702 	in a dining room, ruth sips tea with two other women.
 1017_Bad_Santa_00.34.39.766-00.34.43.235 	later, marcus wanders through a restaurant in the mall sipping a coke.
 1018_Body_Of_Lies_00.06.55.994-00.07.00.995 	ferris, wearing jeans, shirt, casual top, and a baseball cap, sits at an iraqi street cafe, sipping coffee.
 1018_Body_Of_Lies_00.07.22.455-00.07.34.394 	ferris sips his coffee as bassam drives.
@@ -48,18 +49,16 @@
 1023_Horrible_Bosses_01.15.17.536-01.15.19.934 	jones smirks and sips his drink.
 1024_Identity_Thief_00.11.13.463-00.11.18.130 	now, the plump identity thief sips from a straw as she rides down an escalator.
 1024_Identity_Thief_00.44.36.072-00.44.38.745 	he nods to himself as diana sips her green beverage.
-1024_Identity_Thief_01.24.59.910-01.25.03.056 	sandy sips champagne and nods.
-1024_Identity_Thief_01.27.51.080-01.27.54.746 	diana sips champagne and wipes her eyes.
 1030_Public_Enemies_00.23.05.362-00.23.13.362 	the gang leader sips his drink and stands, keeping his eyes locked on the exotic woman.
+1030_Public_Enemies_01.49.41.944-01.49.43.808 	they both sip.
 1031_Quantum_of_Solace_00.40.24.087-00.40.27.753 	he spots greene and his friend sipping champagne and talking to two elegant women.
 1031_Quantum_of_Solace_00.51.12.993-00.51.19.495 	he sips a martini.
+1031_Quantum_of_Solace_00.56.34.267-00.56.36.293 	trays are being served and cocktails sipped.
 1031_Quantum_of_Solace_01.23.46.740-01.23.53.092 	felix observes the chaos dispassionately and sips his beer.
 1033_Sherlock_Holmes_A_Game_of_Shadows_00.09.29.009-00.09.35.894 	irene stops sipping her tea and looks anxiously around as the place empties.
 1033_Sherlock_Holmes_A_Game_of_Shadows_00.10.42.964-00.10.50.970 	he coolly sips his tea.
 1033_Sherlock_Holmes_A_Game_of_Shadows_01.02.53.201-01.02.55.993 	ravache sips his wine.
-1037_The_Curious_Case_Of_Benjamin_Button_00.29.57.329-00.30.00.190 	benjamin sips root beer.
 1037_The_Curious_Case_Of_Benjamin_Button_00.45.30.252-00.45.32.446 	mike sips his liquor.
-1037_The_Curious_Case_Of_Benjamin_Button_00.53.44.844-00.53.48.231 	in the wheelhouse, mike sips coffee from an enamel.
 1037_The_Curious_Case_Of_Benjamin_Button_01.04.39.892-01.04.41.932 	she sips her tea.
 1037_The_Curious_Case_Of_Benjamin_Button_01.05.10.033-01.05.12.947 	they share a smile and sip their tea.
 1037_The_Curious_Case_Of_Benjamin_Button_01.09.06.553-01.09.12.322 	they sip their vodkas.
@@ -67,7 +66,6 @@
 1039_The_Queen_01.11.28.456-01.11.34.045 	later, the queen sits on a sofa in the study and sips a glass of iced single malt.
 1040_The_Ugly_Truth_00.50.30.882-00.50.39.064 	she sips a glass of white wine, and glances at the vibrating briefs, and considers for a moment.
 1040_The_Ugly_Truth_01.09.22.092-01.09.24.539 	abby sips her drink.
-1041_This_is_40_01.26.59.672-01.27.05.075 	now, pete sips coffee at the island with his back to the table as his family eats breakfast.
 1042_Up_In_The_Air_01.33.26.147-01.33.31.947 	he sips a large whiskey.
 1044_Pride_And_Prejudice_Disk_Two_02.01.43.143-02.01.52.651 	mr. bennet is sitting peacefully by the fire in the parlor, reading a book and sipping a glass of wine.
 1045_An_education_00.03.45.513-00.03.48.028 	her father sips his juice.
@@ -76,11 +74,7 @@
 1048_Gran_Torino_01.26.16.259-01.26.21.174 	walt sits in his living room with daisy, sipping a beer and watching a ball game on tv.
 1048_Gran_Torino_01.28.22.001-01.28.26.031 	walt sips a rice liquor.
 1048_Gran_Torino_01.33.30.124-01.33.33.505 	morning, thao walks into walt's kitchen and finds him sipping a mug of coffee.
-1055_Marley_and_me_01.51.47.000-01.51.52.842 	he looks again and sees his family, gathered together, sipping hot drinks.
-1057_Seven_pounds_00.49.45.851-00.49.52.974 	ezra, who's in his 40s, sits at a table nearby, sipping from a mug.
-1057_Seven_pounds_00.50.37.289-00.50.45.587 	ezra, an attractive man with an aquiline nose and longish brown hair, sips his drink then self-consciously smooths down his hair, unaware of ben standing over him.
-2012_Unbreakable_01.08.15.127-01.08.20.203 	they sip their drinks as they appear in deep thought.
-2012_Unbreakable_01.08.36.930-01.08.41.690 	david sips his drink slowly.
+1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.13.39.249-00.13.45.985 	he sips, grimaces, passes the flask to george, and starts to shrink.
 1055_Marley_and_me_01.51.47.000-01.51.52.842 	he looks again and sees his family, gathered together, sipping hot drinks.
 1057_Seven_pounds_00.49.45.851-00.49.52.974 	ezra, who's in his 40s, sits at a table nearby, sipping from a mug.
 1057_Seven_pounds_00.50.37.289-00.50.45.587 	ezra, an attractive man with an aquiline nose and longish brown hair, sips his drink then self-consciously smooths down his hair, unaware of ben standing over him.

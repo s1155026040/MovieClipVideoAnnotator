@@ -1,4 +1,3 @@
-21_JUMP_STREET.srt 	21_JUMP_STREET_DVS516 	01:21:37,00 --> 01:21:43,50 	they stand over weapons and ammo neatly laid out on the bed.
 40_YEAR_OLD_VIRGIN.srt 	40_YEAR_OLD_VIRGIN_DVS66 	00:36:05,00 --> 00:36:10,50 	she lays down another cloth.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS539 	00:52:26,00 --> 00:52:36,50 	the rounds tear into the building and lay waste to the interior.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS759 	01:15:23,00 --> 01:15:31,50 	the hit man gently lays the body down.
@@ -6,74 +5,35 @@ A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS33 	00:08:44,00 --> 00:08:50,50 	someo
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS420 	01:12:52,00 --> 01:12:57,50 	he lays his other hand on tyler's head.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS434 	01:02:22,00 --> 01:02:27,50 	someone lays the ax in a chest.
 BLINDDATING.srt 	BLINDDATING_DVS271 	01:06:19,00 --> 01:06:31,50 	she lays her shoulder bag aside.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS45 	00:03:12,00 --> 00:03:19,50 	a shaggy haired man with the same colored beard lays the boy, face first, on his surfboard.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS119 	00:09:28,00 --> 00:09:34,50 	laying the board flat, he paints a thin layer of glue along the crack with a small applicator.
 CHRONICLE.srt 	CHRONICLE_DVS98 	00:13:41,00 --> 00:13:47,50 	they lay their hands on the crystals which pulsate with light.
-CHRONICLE.srt 	CHRONICLE_DVS439 	01:03:47,00 --> 01:03:54,50 	he bends over, resting his head on it, then lays a hand on his son's blanketed knee.
-COLOMBIANA.srt 	COLOMBIANA_DVS783 	01:15:44,00 --> 01:15:51,50 	as she lays her head on the old woman's shoulder, mama nuzzles against her and closes her eyes.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS170 	00:26:55,00 --> 00:27:01,50 	turning, someone wraps her arms around him and lays him back against the dune.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS544 	01:17:14,00 --> 01:17:22,50 	he lays it on the desk, then takes a pen from a holder and writes the word, dear in the upper left hand corner.
 DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS102 	00:26:48,00 --> 00:26:53,50 	someone lays him on the sofa and breathes on him.
 EASY_A.srt 	EASY_A_DVS193 	01:00:35,00 --> 01:00:41,50 	someone lays a hand on her shoulder.
-FLIGHT.srt 	FLIGHT_DVS391 	01:02:46,00 --> 01:02:52,50 	someone is laid back in the armchair, watching as someone's hands move up to cover his hand.
 FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS186 	00:50:20,00 --> 00:50:25,50 	someone lays a sympathetic hand on someone's.
-FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS246 	01:07:20,00 --> 01:07:37,50 	holding his gaze, she leans in, lays a hand on his chest and plants a tender kiss on his lips.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS492 	01:11:35,00 --> 01:11:41,50 	he lays his hand on her shoulder and she meets his gaze, fidgeting anxiously.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS612 	01:26:58,00 --> 01:27:05,50 	the rider bends down, laying someone in her arms.
-IN_TIME.srt 	IN_TIME_DVS297 	00:30:28,00 --> 00:30:35,50 	he watches with an indifferent expression as the dealer lays out a fourth card.
-IN_TIME.srt 	IN_TIME_DVS446 	00:48:09,00 --> 00:48:16,50 	as he turns his head to stare at it, the roadster approaches a spike strip laid across the street.
-IN_TIME.srt 	IN_TIME_DVS721 	01:17:10,00 --> 01:17:16,50 	someone takes someone's blouse off, lays her down, and leans over her.
-IN_TIME.srt 	IN_TIME_DVS807 	01:25:52,00 --> 01:25:59,50 	he rolls up his sleeve and lays his arm on the table, showing his clock.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS235 	01:08:12,00 --> 01:08:26,50 	in someone's room he lays the curly-haired boy in bed and tucks him in.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS236 	01:08:29,00 --> 01:08:36,50 	the child lays it on his chest over his heart and hugs it tightly.
-JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS482 	01:32:43,00 --> 01:32:52,50 	in the apartment, someone lays face-down on the bed with a pillow over her head, and the phone clutched in her hand.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS510 	01:40:08,00 --> 01:40:20,50 	someone lays out a chocolate frosted cake, rimmed with chipped almonds.
-JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS539 	01:47:00,00 --> 01:47:05,50 	someone folds up the letter and lays it aside.
 KARATE_KID.srt 	KARATE_KID_DVS993 	01:21:00,00 --> 01:21:09,50 	the boy lays his hands on the rim.
-NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS253 	00:52:54,00 --> 00:54:08,50 	she lays them beside someone, then sits and returns the shoebox to her lap.
-NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS253 	00:52:54,00 --> 00:54:08,50 	someone lays it aside and regards the velveteen.
-NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS141 	00:23:28,00 --> 00:23:34,50 	he lays her on her back, gets on top of her, and pulls off her robe.
 NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS186 	00:32:11,00 --> 00:32:16,50 	he and someone lay side-by-side in bed.
-PROMETHEUS.srt 	PROMETHEUS_DVS145 	00:09:16,00 --> 00:09:21,50 	an image shows his hand laying the cross in hers.
 PROMETHEUS.srt 	PROMETHEUS_DVS198 	00:13:49,00 --> 00:13:53,50 	he lays a blanket over her back.
 PROMETHEUS.srt 	PROMETHEUS_DVS229 	00:19:37,00 --> 00:19:43,50 	the mohawked crewman lays his face in his hands.
 PROMETHEUS.srt 	PROMETHEUS_DVS897 	01:39:28,00 --> 01:39:33,50 	he gently lays his hand on the top of someone's head.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS179 	00:33:43,00 --> 00:34:01,50 	someone sits facing someone and lays his hand on the large box.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS187 	00:36:04,00 --> 00:36:12,50 	she lays her head on his shoulder.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS106 	00:27:01,00 --> 00:27:13,50 	kneeling, he lays it on someone's chest as his companions look on.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS256 	00:59:16,00 --> 00:59:25,50 	she lays the ends of the chain mail hood on his shoulders.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS368 	01:32:06,00 --> 01:32:12,50 	stone is laid on the base of a cross at barnsdale.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS449 	01:51:49,00 --> 01:52:04,50 	someone steps closer and the devastated woman lays her brow on his shoulder.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS450 	01:52:07,00 --> 01:52:31,50 	now, laid out in an open wicker coffin, sir someone's body lies clad in snowy robes and surrounded by greenery.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS450 	01:52:07,00 --> 01:52:31,50 	someone tucks a sprig under his wrist and lays a hand fondly upon his.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS215 	00:34:51,00 --> 00:34:56,50 	someone lays her back on a pinball machine.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS652 	01:33:43,00 --> 01:33:51,50 	now in his home office, someone lays a clear plastic cover over his typewriter.
 SALT.srt 	SALT_DVS250 	00:43:20,00 --> 00:43:25,50 	now she lays out an assortment of handguns,
-SALT.srt 	SALT_DVS275 	00:48:20,00 --> 00:48:35,50 	the u.s. president kisses his wife then treads forward and tenderly lays his hand on the casket.
 SANCTUM.srt 	SANCTUM_DVS524 	01:37:38,00 --> 01:37:45,50 	someone lays his forearm below someone's chin and gently applies pressure.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS907 	00:59:14,00 --> 00:59:18,50 	lay her down here.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS948 	01:01:34,00 --> 01:01:41,50 	the father lays a hand on his son's head, then touches his face.
-SOUL_SURFER.srt 	SOUL_SURFER_DVS154 	00:46:32,00 --> 00:46:37,50 	letting the surfboard drop, someone lays a hand.
-SOUL_SURFER.srt 	SOUL_SURFER_DVS180 	00:54:39,00 --> 00:54:47,50 	as her parents watch, someone lays a short board across the table and starts to lean down.
-SPARKLE_2012.srt 	SPARKLE_2012_DVS632 	01:43:10,00 --> 01:43:18,50 	someone lays her hands over her heart, then faces a full-length mirror and takes in her own striking reflection.
 SUPER_8.srt 	SUPER_8_DVS554 	01:33:04,00 --> 01:33:10,50 	he lays out different fireworks on the ground and connects them with a line of gun powder.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS123 	00:20:51,00 --> 00:20:57,50 	someone brings her into a bedroom and lays her down.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS823 	01:49:10,00 --> 01:49:15,50 	as they remain focused on their movie, someone helps someone lay the blanket over her legs.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS576 	01:03:55,00 --> 01:04:02,50 	removing a strip of negatives he sets them back in the binder and lays both aside.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS622 	01:08:31,00 --> 01:08:37,50 	she lays a hand on a friend's shoulder and backs away from the group.
-THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS167 	00:55:37,00 --> 00:55:43,50 	someone takes a deep breath and lays her menu down on the table.
 THE_WATCH.srt 	THE_WATCH_DVS472 	01:25:21,00 --> 01:25:26,50 	someone lays his lips on someone.
-THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS134 	00:26:27,00 --> 00:26:38,50 	in the dimly lit backroom of a tailor shop, a tailor lays out a work in progress over a table then stands upright and finds heinrich facing him.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS402 	01:12:00,00 --> 01:12:06,50 	now someone lays someone down on the couch.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS522 	01:29:40,00 --> 01:29:47,50 	someone lays a hand on someone's back, gently ushering her through a doorway.
 THOR.srt 	THOR_DVS695 	01:44:13,00 --> 01:44:18,50 	he lays one hand on someone's shoulder.
-TRUE_GRIT.srt 	TRUE_GRIT_DVS381 	01:18:12,00 --> 01:18:16,50 	and lays it on the ground surrounding her bedding.
-WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS329 	00:47:56,00 --> 00:48:04,50 	she takes out a someone purple thong and matching bra, and gently lays them on a chair with her clothes.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS701 	01:35:10,00 --> 01:35:14,50 	he lays eyes on someone.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS341 	00:26:39,00 --> 00:26:46,50 	someone lays fingertips against his temple and gazes thoughtfully at her.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS460 	00:41:23,00 --> 00:41:28,50 	she lays her forearm across his lap.
 YOUNG_ADULT.srt 	YOUNG_ADULT_DVS407 	01:19:01,00 --> 01:19:08,50 	someone lays someone down on the bed.
-YOUNG_ADULT.srt 	YOUNG_ADULT_DVS416 	01:20:43,00 --> 01:20:49,50 	she turns toward someone then lays one hand against his face.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS160 	00:16:14,00 --> 00:16:20,50 	406 nestles into his chest and he gently lays his hand on her back.
-ZOMBIELAND.srt 	ZOMBIELAND_DVS237 	00:25:39,00 --> 00:25:47,50 	stepping forward, someone lays her hand on the weapon and gives someone a pleading look.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS587 	01:07:59,00 --> 01:08:06,50 	someone lays down defensive fire as she and little someone head for it.

@@ -1,15 +1,5 @@
 BLINDDATING.srt 	BLINDDATING_DVS43 	00:13:35,00 --> 00:13:43,50 	beckoned by dr.
-BURLESQUE.srt 	BURLESQUE_DVS88 	00:09:13,00 --> 00:09:22,50 	now all of the dancers curl their fingers at us, beckoning mischievously.
-BURLESQUE.srt 	BURLESQUE_DVS751 	01:53:35,00 --> 01:53:41,50 	the dancers hop from foot to foot, their hands beckoning the audience.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS230 	00:37:10,00 --> 00:37:18,50 	he beckons the bearded supplier who hurries over with the missile launcher.
-KARATE_KID.srt 	KARATE_KID_DVS1448 	01:57:50,00 --> 01:57:56,50 	in the crowd, a woman beckons someone and someone, who follow her.
-KARATE_KID.srt 	KARATE_KID_DVS1571 	02:07:47,00 --> 02:08:11,50 	he makes an x with his flags, then gestures toward master someone, who beckons someone.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS292 	01:00:51,00 --> 01:00:56,50 	someone beckons his apprentice.
-SOUL_SURFER.srt 	SOUL_SURFER_DVS41 	00:12:53,00 --> 00:13:03,50 	she beckons teens past a sign that reads, "calvary chapel."
-SPARKLE_2012.srt 	SPARKLE_2012_DVS356 	01:00:11,00 --> 01:00:16,50 	someone watches someone beckon him suggestively.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS601 	01:39:04,00 --> 01:39:09,50 	he beckons her closer.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS466 	01:22:26,00 --> 01:22:35,50 	he beckons someone.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS495 	01:03:26,00 --> 01:03:33,50 	he beckons her in.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS49 	00:09:10,00 --> 00:09:17,50 	he beckons someone into the hall and leads him past artwork posted above the lockers.
-WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS65 	00:05:28,00 --> 00:05:33,50 	he beckons her into his office, then talks on a phone.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1310 	01:58:32,00 --> 01:58:38,50 	he looks at someone and curtly beckons her to approach.

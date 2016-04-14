@@ -1,3 +1,2 @@
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS128 	00:22:16,00 --> 00:22:21,50 	as the other men reassemble, someone walks up to the flagpole.
 HUGO.srt 	HUGO_DVS239 	00:34:36,00 --> 00:34:44,50 	later, the reassembled automaton sits at the small table with a sheet of blank paper and a pen in its right hand.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS699 	01:41:43,00 --> 01:41:52,50 	his back to the lion, the scotsman reassembles the lock.

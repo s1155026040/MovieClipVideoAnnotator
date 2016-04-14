@@ -1,27 +1,15 @@
 30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS255 	01:00:48,00 --> 01:00:52,50 	he dials.
 40_YEAR_OLD_VIRGIN.srt 	40_YEAR_OLD_VIRGIN_DVS113 	00:58:51,00 --> 00:59:01,50 	in the bathroom, someone sits on the counter and dials his phone.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS367 	00:33:58,00 --> 00:34:04,50 	as they go, someone dials a number on the borrowed cellphone.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS217 	00:41:42,00 --> 00:41:47,50 	someone dials his cellphone.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS440 	01:10:23,00 --> 01:10:28,50 	rembrandt dials a number from a slip of paper.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS449 	01:05:49,00 --> 01:05:59,50 	sitting down, he dials, then lifts the phone to his ear.
-DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS256 	01:01:55,00 --> 01:02:01,50 	still sitting in the chair, he dials again.
 DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS257 	01:02:10,00 --> 01:02:14,50 	he dials again.
-FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS330 	01:27:25,00 --> 01:27:30,50 	she hangs up and speed dials a number
 IN_TIME.srt 	IN_TIME_DVS505 	00:54:28,00 --> 00:54:33,50 	she dials sulkily.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS395 	01:53:07,00 --> 01:53:11,50 	someone dials a cell phone.
 KNOCKED_UP.srt 	KNOCKED_UP_DVS45 	00:27:50,00 --> 00:27:56,50 	now someone paces as she dials the phone.
 LITTLE_FOCKERS.srt 	LITTLE_FOCKERS_DVS28 	00:11:32,00 --> 00:11:40,50 	as his siamese cat eyes him from a footstool, someone dials his cellphone.
-MORNING_GLORY.srt 	MORNING_GLORY_DVS105 	00:22:39,00 --> 00:22:47,50 	she dials on her mobile, then holds it to her ear.
-PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS144 	00:37:31,00 --> 00:37:41,50 	reads the email headed announcer auditions, and dials a number off the screen.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS567 	01:45:43,00 --> 01:45:49,50 	doris dials a telephone.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS582 	01:48:30,00 --> 01:48:34,50 	someone dials a payphone.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS152 	00:25:34,00 --> 00:25:43,50 	now in his bathroom, someone dials a call on his cellphone and paces.
-SOUL_SURFER.srt 	SOUL_SURFER_DVS66 	00:23:51,00 --> 00:23:56,50 	he takes the cell from the vehicle, he dials a number.
 SUPER_8.srt 	SUPER_8_DVS667 	01:46:06,00 --> 01:46:11,50 	later, someone dials a telephone.
-THE_CALL.srt 	THE_CALL_DVS295 	00:25:17,00 --> 00:25:26,50 	she sees a new voice mail from raul and immediately dials 911.
-THE_CALL.srt 	THE_CALL_DVS528 	00:40:51,00 --> 00:40:57,50 	he dials 911, keeping his gaze straight ahead.
 THE_CALL.srt 	THE_CALL_DVS1136 	01:25:35,00 --> 01:25:41,50 	she activates the screen and dials 911.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1003 	01:49:01,00 --> 01:49:09,50 	now someone leaves the cottage holding up his cell phone for a signal as he dials a call.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1372 	02:27:38,00 --> 02:27:42,50 	in her hotel suite someone dials a cell phone hooked into her laptop.
-THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS275 	01:31:03,00 --> 01:31:11,50 	as he watches her walk away, she takes out her cell phone from her purse and dials a number.
-WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS151 	00:19:07,00 --> 00:19:14,50 	creeping past the foot of the bed, she frantically dials a call.

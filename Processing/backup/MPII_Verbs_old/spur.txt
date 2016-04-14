@@ -1,3 +1,4 @@
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.27.32.376-00.27.33.348 	He spurs his horse on.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.26.10.875-00.26.14.653 	GANDALF spurs the GREAT HORSE forward.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.54.13.361-00.54.15.566 	GANDALF as he spurs SHADOWFAX forward!
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.27.32.376-00.27.33.348 	he spurs his horse on.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.26.10.875-00.26.14.653 	gandalf spurs the great horse forward.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.54.13.361-00.54.15.566 	gandalf as he spurs shadowfax forward!
+0050_Indiana_Jones_and_the_last_crusade_00.05.39.442-00.05.43.355 	indy spurs his mount on to greater speeds but the autos not only keep pace with his horse.

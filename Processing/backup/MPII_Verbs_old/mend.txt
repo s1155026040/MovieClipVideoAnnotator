@@ -1,5 +1,6 @@
-0007_DIE_NACHT_DES_JAEGERS_01.12.32.040-01.12.32.207 	She mends for a few moments.
+0007_DIE_NACHT_DES_JAEGERS_01.12.32.040-01.12.32.207 	she mends for a few moments.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.57.18.648-02.57.21.517 	the four hobbits, dressed in their old clothes, clean and mended, bow their heads.
 1037_The_Curious_Case_Of_Benjamin_Button_02.23.52.484-02.23.56.613 	he mends his motorbike.
 1049_Harry_Potter_and_the_chamber_of_secrets_00.33.28.677-00.33.31.974 	ron is trying unsuccessfully to mend his broken wand with sticky tape.
 1053_Harry_Potter_and_the_philosophers_stone_00.04.19.000-00.04.27.513 	in the cupboard under the stairs, harry potter wakes and puts on a pad of large round spectacles mended with sticky tape.
-1053_Harry_Potter_and_the_philosophers_stone_00.04.19.000-00.04.27.513 	in the cupboard under the stairs, harry potter wakes and puts on a pad of large round spectacles mended with sticky tape.
+1053_Harry_Potter_and_the_philosophers_stone_00.37.13.194-00.37.14.767 	his broken spectacles are mended.

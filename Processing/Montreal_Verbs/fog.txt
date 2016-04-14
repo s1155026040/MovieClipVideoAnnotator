@@ -1,5 +1,3 @@
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS533 	01:15:39,00 --> 01:15:45,50 	now fog drifts over the white house lawn at dusk.
-GET_HIM_TO_THE_GREEK.srt 	GET_HIM_TO_THE_GREEK_DVS175 	01:35:40,00 --> 01:35:48,50 	spotlights sweep over them and fog rolls onto the dark stage.
-INSIDE_MAN.srt 	INSIDE_MAN_DVS284 	01:27:28,00 --> 01:27:44,50 	as his nemesis turns away, the detective's breath fogs the glass.
 SALT.srt 	SALT_DVS481 	01:22:52,00 --> 01:23:00,50 	her breath fogs the glass.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS434 	01:32:47,00 --> 01:32:51,50 	it snorts, fogging the glass.

@@ -1,61 +1,25 @@
-0001_American_Beauty_01.30.12.943-01.30.17.813 	ricky pulls his beeper off his belt and checks it.
-0002_As_Good_As_It_Gets_00.37.47.324-00.37.49.351 	then checks that they are locked.
 0003_CASABLANCA_00.46.52.176-00.46.54.224 	he nervously checks his watch again.
 0005_Chinatown_00.12.16.106-00.12.17.663 	he absently winds it, checks the time with his own watch.
-0005_Chinatown_00.26.14.028-00.26.16.407 	follows him, trying to check out the rooms as he goes.
-0007_DIE_NACHT_DES_JAEGERS_00.55.16.941-00.55.18.460 	john, as he finishes undoing rope from a willow root, looks up and around, checking on pursuit.
-0010_Frau_Ohne_Gewissen_00.07.35.556-00.07.38.006 	he inspects the house, checks the number, goes up on the front porch and rings the bell.
-0010_Frau_Ohne_Gewissen_00.42.27.505-00.42.29.268 	he is standing behind his desk opening some mail, taking a few papers out of his briefcase, checking something in his rate book, making a quick telephone call.
-0010_Frau_Ohne_Gewissen_00.53.11.661-00.53.12.632 	the conductor is checking the tickets of passengers getting on.
-0012_Get_Shorty_00.09.29.318-00.09.31.403 	ray bones checks his man to get some appreciation, but the guy's too busy looking at the hair rinses and shit on the counter.
 0012_Get_Shorty_00.33.49.020-00.34.04.951 	they consider each other a moment until chili finally checks his watch.
-0012_Get_Shorty_00.51.22.688-00.51.28.949 	chili steps inside, checks some of them out: most of the photographs are of martin.
-0012_Get_Shorty_00.51.37.750-00.51.42.025 	martin is checking out karen, nodding.
 0013_Halloween_00.31.00.803-00.31.06.276 	taylor checks his notebook, then counts the rows and plots.
-0019_Pulp_Fiction_01.28.18.978-01.28.23.391 	he has parked his car a couple of blocks from his apartment to check things out before he goes boppin' through the front door.
-0021_Rear_Window_01.38.30.079-01.38.32.565 	she moves quickly to the dresser and begins opening the drawers to check them.
-0023_THE_BUTTERFLY_EFFECT_00.28.35.902-00.28.38.372 	evan opens the window and checks out his psych project: a small maze has several flatworms at one end and a bowl of cornflakes at the other.
-0023_THE_BUTTERFLY_EFFECT_00.58.36.662-00.58.39.755 	evan hangs up the phone, then checks his watch.
 0026_The_Big_Fish_00.31.02.061-00.31.02.858 	beamen checks the clipboard.
 0026_The_Big_Fish_01.47.18.797-01.47.26.405 	dr. bennett smiles as he checks edward's chart.
 0028_The_Crying_Game_01.23.02.015-01.23.03.732 	she checks her watch.
-0028_The_Crying_Game_01.32.17.218-01.32.26.896 	leans her against the wall, then goes to the window to check the street outside.
-0031_The_Lost_Weekend_00.30.05.309-00.30.13.502 	it is doing a land-office business, checking dripping umbrellas and apparel.
 0032_The_Princess_Bride_01.10.59.382-01.11.05.782 	he studies westley a moment, checking here, checking there.
-0038_Psycho_00.16.21.037-00.16.30.471 	the patrolman walks around to the front of the car, checks the license plate, and returns.
 0038_Psycho_00.16.27.471-00.16.31.252 	the patrolman peers in, checks the car registration on the steering wheel, returns mary's wallet.
 0038_Psycho_00.17.07.618-00.17.09.748 	she checks her mirror.
-0038_Psycho_01.12.30.760-01.12.43.002 	camera starts forward, and we see arbogast remove a small notebook from his pocket, check on a number, drop a dime in the slot and dial this number.
-0041_The_Sixth_Sense_00.54.31.325-00.54.38.971 	he checks behind the shower curtain, before he turns his back and pees into the toilet.
-0043_Thelma_and_Luise_00.04.18.548-00.04.19.188 	darryl is checking himself out in the hall mirror, and it's obvious he likes what he sees.
 0046_Chasing_Amy_01.16.28.202-01.16.30.372 	player one checks player two into the boards, hard.
-0049_Hannah_and_her_sisters_00.19.55.291-00.19.58.186 	david checks his wristwatch as holly walks over to him.
 0049_Hannah_and_her_sisters_00.58.54.201-00.59.00.698 	elliot stops pacing and checks his wristwatch.
-0053_Rendezvous_mit_Joe_Black_01.38.17.270-01.38.19.696 	drew gets the message, at the same time joe is checking out all the attendees, his eyes come to rest on drew.
 1001_Flight_00.47.36.850-00.47.43.765 	he plugs in a charger and checks his iphone.
 1001_Flight_02.01.04.963-02.01.10.620 	ellen slips on her glasses and checks her notes as whip glances at hugh and charlie.
 1002_Harry_Potter_and_the_Half-Blood_Prince_01.31.00.407-01.31.00.594 	in the infirmary, ginny and hermione sit beside ron's bed, as madam pomfrey checks his temperature.
-1004_Juno_00.32.31.750-00.32.37.740 	on the staircase, juno in her loose checked shirt over jeans passes a lineup of post photos of mark and vanessa in white.
 1005_Signs_00.17.32.819-00.17.36.290 	she checks her notebook.
-1005_Signs_01.01.58.678-01.02.05.497 	locking the door behind him, he hurriedly checks the handle, then, walks off past the open living room door.
-1007_Spider-Man1_00.32.51.706-00.32.54.653 	a red checked mask comes into his mind and the inevitable spider's web.
-1007_Spider-Man1_00.54.10.069-00.54.13.684 	underneath it is a sketchpad on which he do the original snug-fitting spider-man outfit, blue body stocking, a hooded mask, red and black checked shoulder pants and the chest.
 1008_Spider-Man2_00.25.31.441-00.25.38.632 	peter stuffs the spider-man costume in his bag, then checks his boxers.
-1008_Spider-Man2_00.26.38.197-00.26.49.687 	as crowds walk into the foyer, and tickets are checked and stubs torn off, mj is suiting with a fellow actress in makeup.
 1009_Spider-Man3_00.33.00.217-00.33.02.766 	the photographer checks his shot.
-1010_TITANIC_00.22.51.927-00.22.57.280 	the man checks his pocket watch then steps to rose and her mother.
-1011_The_Help_01.02.10.254-01.02.11.857 	at the holbrooks', hilly is checking her watch.
-1012_Unbreakable_01.15.50.795-01.15.54.462 	he bends down and checks the door catch, which doesn't move.
-1014_2012_00.40.09.219-00.40.13.305 	and then stands and is out of the arena checking his watch as he goes.
 1014_2012_00.42.20.053-00.42.21.706 	they both check their watches.
-1014_2012_00.55.24.310-00.55.30.271 	jackson leaps out and checks a petrol pump.
 1014_2012_00.59.18.221-00.59.22.345 	gordon steps on to the runway and checks his watch.
-1015_27_Dresses_01.05.59.578-01.06.04.147 	jane checks the public telephone, but indicates with a roll of her eyes that it's not working.
-1017_Bad_Santa_00.07.05.659-00.07.13.364 	he checks his list while eyeing a string of pearls in a cabinet, and uses a bead rack to smash it open.
 1017_Bad_Santa_00.54.24.706-00.54.29.229 	the tall, blonde security guard checks his watch.
-1017_Bad_Santa_01.23.20.271-01.23.29.060 	once willie and the last of the shoppers have gone, the security guard checks his watch and taps a code into the alarm system.
 1018_Body_Of_Lies_01.43.15.521-01.43.22.718 	the soldier checks the driver's papers.
-1018_Body_Of_Lies_01.55.18.913-01.55.23.104 	ferris is sitting up in a hospital bed as a nurse checks a drip.
 1020_Crazy_Stupid_Love_00.25.10.436-00.25.13.163 	jacob checks his watch and shrugs.
 1024_Identity_Thief_00.00.32.955-00.00.38.185 	in an office, a handsome, well-groomed man checks his cell phone and answers.
 1024_Identity_Thief_01.34.53.569-01.34.56.236 	he checks the fuel gauge on a country highway.
@@ -63,67 +27,36 @@
 1028_No_Reservations_00.02.50.797-00.02.51.823 	she checks some orders attached to a shelf.
 1028_No_Reservations_00.06.01.011-00.06.02.790 	she checks her phone messages.
 1028_No_Reservations_00.49.03.528-00.49.06.043 	she checks her watch.
-1030_Public_Enemies_00.20.26.755-00.20.29.150 	he checks his watch and looks toward the door.
-1030_Public_Enemies_01.36.08.904-01.36.17.609 	in the apartment, a seated billie checks her watch, then turns up a radio.
-1031_Quantum_of_Solace_00.00.56.910-00.00.59.533 	a gun is caught, the driver checks his rear view mirror.
 1031_Quantum_of_Solace_00.07.28.034-00.07.31.338 	a red and yellow checked flag billows in the breeze
-1031_Quantum_of_Solace_00.39.31.790-00.39.36.758 	in a dressing room, makeup is applied and costumes are checked.
-1031_Quantum_of_Solace_00.39.59.690-00.40.04.604 	a well muscled actor checks two wardrobes but can't find his clothes.
 1031_Quantum_of_Solace_00.44.57.685-00.44.59.807 	a man body checks him, but bond shoots him pointblank through the body.
-1033_Sherlock_Holmes_A_Game_of_Shadows_00.11.04.595-00.11.06.526 	holmes checks his watch, which rests on the table.
-1034_Super_8_00.36.39.836-00.36.44.502 	he goes to check it out.
-1035_The_Adjustment_Bureau_00.16.58.881-00.17.05.736 	blinking, he glances around, then pulls out his hardcover book and checks a bookmarked page.
-1035_The_Adjustment_Bureau_00.18.52.300-00.18.57.996 	as the mustached stranger waits to cross a busy intersection after it, he checks his wristwatch.
 1035_The_Adjustment_Bureau_00.40.13.432-00.40.17.243 	the boyish officer checks his map book.
 1035_The_Adjustment_Bureau_00.41.07.783-00.41.09.988 	the aide checks his map book.
 1035_The_Adjustment_Bureau_00.46.58.137-00.47.00.413 	the boyish aide checks his book.
-1035_The_Adjustment_Bureau_00.48.22.426-00.48.25.430 	david glances to the sedan driver who checks the bloody- faced cabbie.
-1035_The_Adjustment_Bureau_00.49.15.397-00.49.22.525 	he checks his watch, takes a few more brisk steps, then breaks into a run.
 1035_The_Adjustment_Bureau_01.11.31.650-01.11.35.147 	meanwhile, a doctor checks x-rays.
 1035_The_Adjustment_Bureau_01.28.46.885-01.28.48.616 	he checks its sturdiness, then checks the deadbolt.
 1038_The_Great_Gatsby_00.53.32.632-00.53.37.136 	daisy walks in and checks her immaculately bobbed blonde hair in a mirror.
-1040_The_Ugly_Truth_00.59.46.542-00.59.49.360 	mike's checking out an attractive woman wearing a crop top, who's standing at the bar, drinking a shot.
 1042_Up_In_The_Air_00.06.49.661-00.06.52.223 	a uniformed security man checks the pass.
-1042_Up_In_The_Air_01.11.28.785-01.11.33.845 	they join a short queue of people checking in.
-1042_Up_In_The_Air_01.31.59.241-01.32.04.897 	he reaches a departure gate, gets the pass checked and goes through.
-1043_Vantage_Point_00.09.59.292-00.10.05.675 	barnes lifts his gun from the cabinet and checks its magazine.
-1043_Vantage_Point_00.14.07.073-00.14.14.787 	standing amongst the crowd is a chunky man in a blue and white checked shirt.
-1043_Vantage_Point_00.15.17.243-00.15.22.664 	the man turns back around checking his camera.
-1043_Vantage_Point_00.30.00.005-00.30.04.209 	enrique takes the gun from his holster and checks the magazine.
-1043_Vantage_Point_00.37.48.147-00.37.57.825 	howard checks his hand for blood, then takes in the scene of devastation in front of him.
-1043_Vantage_Point_01.00.53.061-01.00.56.667 	javier runs up a stairwell in the hotel, then checks his watch.
 1043_Vantage_Point_01.08.13.491-01.08.16.017 	on the street, javier checks his watch.
 1044_Pride_And_Prejudice_Disk_Two_02.05.00.103-02.05.02.480 	mrs. bennet checks her reflection in the mirror.
 1045_An_education_01.01.57.714-01.01.59.184 	the guy on a bicycle checks her out as he rides past.
 1046_Australia_01.15.03.275-01.15.07.280 	magarri checks the water.
-1046_Australia_01.47.46.000-01.47.49.080 	he stops his horse, checks his herd, then gallops off.
 1046_Australia_02.14.00.273-02.14.03.577 	dutton checks the body on the stretcher.
 1046_Australia_02.33.07.953-02.33.14.142 	sergeant callahan checks fletcher's pulse.
 1047_Defiance_01.53.56.218-01.54.03.805 	he checks the chamber and hands it back to her.
 1048_Gran_Torino_01.01.39.950-01.01.44.200 	a female oriental doctor checks his notes.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_01.14.39.963-01.14.43.867 	he checks the map.
-1055_Marley_and_me_01.25.24.375-01.25.32.331 	he looks in on sleeping colleen, then checks on the boys in their bunks.
 1056_Rambo_00.50.18.097-00.50.28.925 	by its red glow, the mercenaries check their watches en masse.
 1056_Rambo_00.51.38.418-00.51.41.384 	on the tower, school boy checks his watch, nine minutes to two.
 1056_Rambo_00.56.47.734-00.56.49.462 	he checks his watch, three minutes to two.
 1056_Rambo_01.17.38.838-01.17.44.076 	then, he frowns and feels his left shoulder with his right hand, checking his wound.
 1057_Seven_pounds_00.11.30.062-00.11.33.164 	ben checks a message on his blackberry.
 1057_Seven_pounds_00.43.58.570-00.44.08.403 	she studies her pad thoughtfully, checks a document, then searches through more documents.
-1057_Seven_pounds_00.51.45.374-00.51.49.036 	he checks the display and slowly opens up the mobile.
-1057_Seven_pounds_01.21.59.273-01.22.09.014 	he hesitates before picking it up, then checks the display and opens the clamshell phone.
-1057_Seven_pounds_01.46.04.040-01.46.09.422 	he checks his watch, which is on the side of the bath, then makes a call.
 1060_Yes_man_00.41.53.105-00.41.55.513 	he pauses and checks his flier.
 1060_Yes_man_01.13.59.462-01.14.03.893 	she checks a computer screen and smiles at them.
-1060_Yes_man_01.19.26.540-01.19.31.342 	she checks her phone, sees it's carl calling and puts it back on the table.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.37.11.734-01.37.17.118 	she checks his pulse.
 1062_Day_the_Earth_stood_still_00.05.03.096-00.05.08.540 	he frowns and checks his palm, too.
-1062_Day_the_Earth_stood_still_00.28.14.961-00.28.18.080 	mike comes in and checks a monitor.
-1062_Day_the_Earth_stood_still_00.38.06.800-00.38.09.756 	the agent bringing up the rear checks the passageway before entering and closing.
 1062_Day_the_Earth_stood_still_01.22.27.000-01.22.31.000 	she gathers up her belongings including her phone and checks her watch.
 2004_Juno_00.41.41.445-00.41.49.822 	juno lays in bed checking out the ultrasound print out.
-2017_Bad_Santa_00.07.03.582-00.07.06.402 	he drops them into a stock cart then checks a typed list before moving on.
 2017_Bad_Santa_00.28.39.791-00.28.45.705 	willie answers absently, his head slightly ducked and his eyes darting side to side, checking for road signs.
 2026_Legion_00.02.16.418-00.02.18.666 	he quickly checks out his surroundings, nothing but brick walls above him.
-2027_Les_Miserables_00.24.56.593-00.25.01.930 	the pimp is passing among the whores, checking that they're all fit for business.
 2034_Super_8_01.09.35.803-01.09.37.082 	walkie squawks and pa announcements as soldiers check their wrist bands.
-2040_The_Ugly_Truth_01.14.57.803-01.15.04.228 	she leaps up, smooths her hair, checks her reflection, and goes to the door.

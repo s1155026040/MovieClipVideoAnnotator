@@ -1,40 +1,15 @@
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS880 	01:25:50,00 --> 01:26:00,50 	the spinning chopper nears the roof.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS891 	01:26:31,00 --> 01:26:36,50 	outside, the helicopter nears the building.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS181 	00:24:35,00 --> 00:24:43,50 	he crosses the floor between two service counters quickening his pace as he nears the back.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS283 	00:40:49,00 --> 00:41:06,50 	someone nears his target holding his ax at the ready.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS293 	00:43:02,00 --> 00:43:09,50 	with a calm, deliberate gaze, he nears the rapist's exposed neck and takes a bite.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS310 	00:45:02,00 --> 00:45:30,50 	someone nears.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS335 	00:47:49,00 --> 00:47:55,50 	as someone looks up from the door, a hooded figure nears.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS610 	01:25:46,00 --> 01:25:57,50 	the knife's tip nears someone's face, but the calm vampire tilts his head and dodges the blade.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS624 	01:27:51,00 --> 01:28:07,50 	as the train nears the burning bridge, someone eyes the blaze from the locomotive.
 BURLESQUE.srt 	BURLESQUE_DVS274 	00:38:07,00 --> 00:38:11,50 	as someone nears the dressing room,
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS194 	00:15:07,00 --> 00:15:13,50 	he nears a younger surfer as a swell creeps up behind them.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS682 	01:06:27,00 --> 01:06:32,50 	nearing a rocky shore, someone pauses and looks back at her.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS775 	01:17:02,00 --> 01:17:08,50 	someone fiddles with his wristwatch as he nears his heartbroken friend.
-CHRONICLE.srt 	CHRONICLE_DVS227 	00:32:44,00 --> 00:32:51,50 	as we near a cloud, someone emerges head-on toward us with someone in one arm.
-CHRONICLE.srt 	CHRONICLE_DVS264 	00:40:36,00 --> 00:40:40,50 	slipping past him, we near the door.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS414 	01:40:37,00 --> 01:40:41,50 	nears the exit.
-COLOMBIANA.srt 	COLOMBIANA_DVS174 	00:15:20,00 --> 00:15:31,50 	as she nears the end of one alley, her gaze falls on a metal fire escape ladder against the side of an apartment building.
-COLOMBIANA.srt 	COLOMBIANA_DVS628 	00:59:17,00 --> 00:59:24,50 	someone nears the opposite end of the pool and pushes up one of the thick glass panels.
-COLOMBIANA.srt 	COLOMBIANA_DVS883 	01:23:39,00 --> 01:23:47,50 	nearing the top, she finds pepe's shattered sunglasses lying on the second floor, inches from his limp hand.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS609 	01:26:51,00 --> 01:26:57,50 	someone staggers woefully as he nears then sinks to her knees.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS182 	00:34:06,00 --> 00:34:19,50 	nearing someone, someone slings his whips in circles, and criss-crosses them faster and faster.
-KARATE_KID.srt 	KARATE_KID_DVS184 	00:15:41,00 --> 00:15:46,50 	she peeks nervously at him as he nears.
-KARATE_KID.srt 	KARATE_KID_DVS1123 	01:33:11,00 --> 01:33:25,50 	nearing the auditorium, he shoves past waiting young musicians.
 LAND_OF_THE_LOST.srt 	LAND_OF_THE_LOST_DVS159 	00:59:01,00 --> 00:59:10,50 	now they near the top.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS171 	00:23:02,00 --> 00:23:09,50 	the young boy remains still as the tiger nears.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS610 	01:06:39,00 --> 01:06:45,50 	as someone nears the boat, the tiger draws close to him,
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS636 	01:17:16,00 --> 01:17:21,50 	the family nears the guard crouching over someone.
 PROMETHEUS.srt 	PROMETHEUS_DVS232 	00:20:05,00 --> 00:20:13,50 	now, blue flame glows within the prometheus' jets as it nears the mysterious moon.
 PROMETHEUS.srt 	PROMETHEUS_DVS988 	01:48:35,00 --> 01:48:41,50 	nearing the craft, someone pauses and doubles over.
-SUPER_8.srt 	SUPER_8_DVS613 	01:39:50,00 --> 01:39:57,50 	the ship nears completion as cubes rise from different trucks throughout town.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS318 	00:58:02,00 --> 00:58:13,50 	nearing he vehicle, someone slows and aims his gun.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS62 	00:13:28,00 --> 00:13:35,50 	someone's expression grows woeful as he nears the far end of the ward.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS207 	00:25:38,00 --> 00:25:45,50 	now, at the hedestad station, a thermometer nears negative 20 degrees celsius.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1211 	02:08:13,00 --> 02:08:23,50 	nearing the end of the bridge she fakes him out and as his suv grazes the right hand railing, someone races ahead on his left.
 THOR.srt 	THOR_DVS131 	00:19:02,00 --> 00:19:08,50 	eventually, they near a large angular citadel, humed from black rock.
-WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS355 	00:52:07,00 --> 00:52:15,50 	nearing a giant statue in the center of the room, she spots a handsome african-american man reading.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1026 	01:32:32,00 --> 01:32:39,50 	as he nears the group, someone lowers his gaze and someone and someone trade a look.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1221 	01:49:06,00 --> 01:49:14,50 	as the point of someone's tail nears beast's left eye, someone steps out of the sub.
-ZOMBIELAND.srt 	ZOMBIELAND_DVS263 	00:29:10,00 --> 00:29:19,50 	the older man slows wearily as he nears the vehicle which has crashed near a house.
-ZOMBIELAND.srt 	ZOMBIELAND_DVS283 	00:32:11,00 --> 00:32:18,50 	as someone nears the escalade, he finds the word, help, painted on the side, using the 3 as an help.

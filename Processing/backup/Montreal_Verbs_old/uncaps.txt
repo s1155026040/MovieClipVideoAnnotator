@@ -1,0 +1,6 @@
+NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS375 	01:19:41,00 --> 01:19:48,50 	someone sadly eyes her daughter as someone stands and uncaps the pen.
+PROMETHEUS.srt 	PROMETHEUS_DVS63 	00:03:35,00 --> 00:03:40,50 	the humanoid crouches and uncaps the bowl.
+THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS340 	00:52:33,00 --> 00:52:39,50 	someone quickly takes the bottle of medicinal spirits and uncaps it.
+THE_CALL.srt 	THE_CALL_DVS491 	00:37:56,00 --> 00:38:02,50 	someone uncaps the other paint can and moves it to the hole.
+THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS613 	01:07:47,00 --> 01:07:53,50 	someone uncaps a jar of ink then dips the needle in it.
+ZOMBIELAND.srt 	ZOMBIELAND_DVS118 	00:09:43,00 --> 00:09:47,50 	the stranger uncaps the bottle.

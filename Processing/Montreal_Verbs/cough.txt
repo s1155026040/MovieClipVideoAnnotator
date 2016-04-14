@@ -1,3 +1,1 @@
-A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS360 	01:02:08,00 --> 01:02:15,50 	covering his mouth with one arm as he coughs, someone sits across from someone.
 BAD_TEACHER.srt 	BAD_TEACHER_DVS269 	01:12:05,00 --> 01:12:10,50 	a boy feigns coughing.
-DISTRICT_9.srt 	DISTRICT_9_DVS282 	00:31:25,00 --> 00:31:34,50 	he coughs into a napkin, and starts filling out a form.

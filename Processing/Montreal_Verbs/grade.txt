@@ -1,2 +1,1 @@
 BAD_TEACHER.srt 	BAD_TEACHER_DVS185 	00:52:01,00 --> 00:52:09,50 	now in class, someone grades papers.
-SUPER_8.srt 	SUPER_8_DVS277 	00:48:01,00 --> 00:48:08,50 	someone turns over a test graded c-.

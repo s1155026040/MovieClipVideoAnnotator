@@ -1,64 +1,92 @@
-0003_CASABLANCA_01.12.03.519-01.12.04.627 	Rick and Laszlo hear MALE VOICES singing downstairs.
-0003_CASABLANCA_01.12.49.131-01.12.55.861 	Laszlo and Corina sing as they start to play.
-0003_CASABLANCA_01.13.13.843-01.13.21.273 	Yvonne jumps up and sings with tears in her eyes.
-0003_CASABLANCA_01.13.21.429-01.13.32.712 	Ilsa, overcome with emotion, looks proudly at Laszlo, who sings with passion.
-0006_Clerks_00.27.54.102-00.28.08.115 	RANDAL locks the door and walks away, while OLAF sings for the small crowd.
-0007_DIE_NACHT_DES_JAEGERS_01.21.16.278-01.21.21.998 	A descending candle moves past a window; RACHEL and PREACHER sing o.s.
-0009_Forrest_Gump_01.11.02.585-01.11.08.937 	Jenny and two other girls sing on the sidewalk and collect change from the passersby.
-0009_Forrest_Gump_01.34.17.420-01.34.26.501 	The all-black gospel choir sings and claps their hands.
-0014_Ist_das_Leben_nicht_schoen_01.13.30.548-01.13.34.333 	Mary is now awake, and starts singing their theme song.
-0016_O_Brother_Where_Art_Thou_00.27.55.395-00.28.05.509 	Tommy sits in the background, playing and singing a slow blues.
-0016_O_Brother_Where_Art_Thou_01.41.08.815-01.41.11.682 	The girls sing 'Angel Band' as the grown-ups talk.
-0020_Raising_Arizona_00.28.49.158-00.28.50.279 	The receding roar has left behind eerily beautiful singing, a woman singing a lullaby.
-0020_Raising_Arizona_00.29.10.938-00.29.13.117 	She is singing it a lullaby.
-0022_Reservoir_Dogs_00.56.10.502-00.56.14.300 	Mr. Blonde just sings along with Stealer's Wheel.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.54.58.904-02.55.18.519 	ARAGORN sings for his people.
-0026_The_Big_Fish_01.09.47.479-01.09.49.603 	Ping sings melody while an off-stage voice carries perfect harmony.
-0027_The_Big_Lebowski_01.21.42.582-01.21.44.768 	In the center of the alley stands Maude Lebowski, singing operatic harmony to the Kenny Rogers song.
-0028_The_Crying_Game_01.00.33.103-01.00.38.668 	In the bar, people singing along with the music.
-0033_Amadeus_00.39.49.802-00.39.56.565 	Cavalieri sings her next scale, then another one, and another one, doing her exercises in earnest.
-0033_Amadeus_00.40.57.833-00.40.58.905 	Cavalieri is singing Martern aller Arten from the line Doch du bist entschlossen.
-0033_Amadeus_02.40.47.305-02.40.47.632 	He sings the ostinato phrase twice.
-0049_Hannah_and_her_sisters_00.05.11.973-00.05.21.459 	The camera moves past him and a few guests to Norma, who is enthusiastically singing along, looking at Evan and moving her hands.
-0049_Hannah_and_her_sisters_00.36.00.410-00.36.06.564 	Onstage, the soprano in the title role sings a mournful aria as she kneels by the ruins of a wagon.
-0049_Hannah_and_her_sisters_01.10.25.030-01.11.03.221 	The film moves from the audience to the stage where Holly, her hands clasped in front of her, continues to sing her song.
-0049_Hannah_and_her_sisters_01.15.01.768-01.15.03.605 	The choir continues to sing as the movie cuts to Father Flynn in his office.
-1006_Slumdog_Millionaire_00.29.42.750-00.29.50.182 	A bearded henchman lights a candle as Arvind sings for Maman.
-1006_Slumdog_Millionaire_00.52.05.942-00.52.14.498 	Jamal descends into a subway, where a blind Arvind sings and begs.
-1009_Spider-Man3_02.12.00.361-02.12.12.089 	sometime later, mary jane wearing a red dress sings on the stage at the crowded jazz club.
-1010_TITANIC_02.53.52.470-02.54.16.906 	rose sings to herself as she gazes up at the starry night sky.
-1023_Horrible_Bosses_00.52.59.241-00.53.08.619 	dale sings along to the radio in the car.
-1028_No_Reservations_00.22.45.455-00.22.49.526 	kate watches in disbelief, as the man raises his arms in the air and sings to the staff.
+0001_American_Beauty_00.38.32.819-00.38.35.559 	jane covers her ears and starts singing to drown her out.
+0003_CASABLANCA_00.07.03.611-00.07.08.783 	sam, a middle-aged negro, sits on a stool before a small, salmon-colored piano on wheels, playing and singing while accompanied by a small orchestra.
+0003_CASABLANCA_01.12.03.519-01.12.04.627 	rick and laszlo hear male voices singing downstairs.
+0003_CASABLANCA_01.12.49.131-01.12.55.861 	laszlo and corina sing as they start to play.
+0003_CASABLANCA_01.12.57.971-01.13.00.877 	strasser conducts the german singing in an attempt to drown out the competition.
+0003_CASABLANCA_01.13.21.429-01.13.32.712 	ilsa, overcome with emotion, looks proudly at laszlo, who sings with passion.
+0003_CASABLANCA_01.13.34.637-01.13.41.415 	finally the whole cafe stands, singing, their faces aglow.
+0007_DIE_NACHT_DES_JAEGERS_00.22.18.990-00.22.20.134 	singing continues o.s.
+0007_DIE_NACHT_DES_JAEGERS_01.04.08.645-01.04.23.867 	he vanishes beyond trees, his singing more distant.
+0007_DIE_NACHT_DES_JAEGERS_01.21.16.278-01.21.21.998 	a descending candle moves past a window; rachel and preacher sing o.s.
+0009_Forrest_Gump_00.10.49.085-00.10.53.281 	she hears singing coming from another room and walks over to a closed door.
+0009_Forrest_Gump_01.11.02.585-01.11.08.937 	jenny and two other girls sing on the sidewalk and collect change from the passersby.
+0009_Forrest_Gump_01.42.17.758-01.42.22.684 	he choir and members are singing.
+0014_Ist_das_Leben_nicht_schoen_00.24.10.727-00.24.23.590 	as they near the camera we hear them singing.
+0014_Ist_das_Leben_nicht_schoen_00.26.43.963-00.26.48.151 	mary looks at him provocatively, then turns and shuffles off down the street, singing as she goes.
+0014_Ist_das_Leben_nicht_schoen_00.45.16.852-00.45.25.230 	there is silence for a moment, then mary joins in singing with the phonograph record which has been playing all through the above scene.
+0014_Ist_das_Leben_nicht_schoen_01.13.30.548-01.13.34.333 	mary is now awake, and starts singing their theme song.
+0016_O_Brother_Where_Art_Thou_00.25.23.433-00.25.27.192 	the three singing convicts form a semi-circle behind tommy, who plays his guitar into a can microphone.
+0016_O_Brother_Where_Art_Thou_00.27.55.395-00.28.05.509 	tommy sits in the background, playing and singing a slow blues.
+0016_O_Brother_Where_Art_Thou_00.43.35.007-00.43.46.705 	strangely, the three laundresses do not answer, though they do smile at him as they continue to sing.
+0016_O_Brother_Where_Art_Thou_00.44.21.649-00.44.52.591 	none of the women respond but, as all continue to sing, one brings a jug marked with three xes to everett.
+0016_O_Brother_Where_Art_Thou_01.25.14.400-01.25.20.838 	everett and the boys, still singing, exchange bemused looks.
+0016_O_Brother_Where_Art_Thou_01.41.08.815-01.41.11.682 	the girls sing 'angel band' as the grown-ups talk.
+0016_O_Brother_Where_Art_Thou_01.42.01.485-01.42.04.306 	we are now on the wharvey gals who follow in a ragged bunch, still singing.
+0016_O_Brother_Where_Art_Thou_01.42.19.095-01.42.29.403 	the blind seer pumps the car along the distant track, singing harmony under the wharvey gals' receding voices.
+0017_Pianist_01.10.35.228-01.10.37.407 	a brief silence, then from the back, a solo voice starts to sing, 'children of warsaw will go to fight!'
+0017_Pianist_01.10.44.281-01.10.47.982 	they march on, singing lustily.
+0019_Pulp_Fiction_01.34.13.096-01.34.32.477 	when the music starts, he sings along with it.
+0019_Pulp_Fiction_01.34.37.352-01.34.41.039 	butch is still chuckling, singing along with the song, as we see.
+0020_Raising_Arizona_00.28.49.158-00.28.50.279 	the receding roar has left behind eerily beautiful singing, a woman singing a lullaby.
+0020_Raising_Arizona_00.29.10.938-00.29.13.117 	she is singing it a lullaby.
+0022_Reservoir_Dogs_00.56.10.502-00.56.14.300 	mr. blonde just sings along with stealer's wheel.
+0022_Reservoir_Dogs_00.56.13.331-00.56.17.889 	mr. blonde just stares into the cop's face, holding the razor, singing along with the song.
+0026_The_Big_Fish_00.19.22.366-00.19.22.887 	embarrassed, edward just keeps singing, trying to follow along with the baritone part.
+0026_The_Big_Fish_00.28.51.542-00.28.52.718 	for the first time, he realizes the birds have stopped singing.
+0027_The_Big_Lebowski_01.21.42.582-01.21.44.768 	in the center of the alley stands maude lebowski, singing operatic harmony to the kenny rogers song.
+0028_The_Crying_Game_00.59.57.687-01.00.01.935 	the woman is singing.
+0028_The_Crying_Game_01.00.33.103-01.00.38.668 	in the bar, people singing along with the music.
+0033_Amadeus_00.07.46.276-00.07.53.716 	we see the pretty soprano katherina cavalieri, now about twenty-four, dressed in an elaborate mythological persian costume, singing on stage.
+0033_Amadeus_00.40.57.833-00.40.58.905 	cavalieri is singing martern aller arten from the line doch du bist entschlossen.
+0033_Amadeus_01.40.52.296-01.41.17.848 	we watch figaro measuring the space for his bed on the floor, singing and susanna looking on, trying on the countess' hat.
+0033_Amadeus_02.27.21.798-02.27.34.290 	as she sings, we see the interior of the theatre, now re-arranged from when we last visited it to watch the cabaret.
+0033_Amadeus_02.40.47.305-02.40.47.632 	he sings the ostinato phrase twice.
+0033_Amadeus_02.40.50.600-02.40.56.617 	the entire confutatis bursts over the room, as mozart snatches the manuscript pages from salieri and reads from it, singing.
+0049_Hannah_and_her_sisters_00.04.15.658-00.04.19.321 	holly pops another hors d'oeuvre into her mouth as the background singing gets louder and the film cuts to.
+0049_Hannah_and_her_sisters_00.04.28.392-00.04.30.474 	as they continue to sing, the film cuts back to the kitchen, where lee, carrying some glasses, enters through the doorway.
+0049_Hannah_and_her_sisters_00.05.11.973-00.05.21.459 	the camera moves past him and a few guests to norma, who is enthusiastically singing along, looking at evan and moving her hands.
+0049_Hannah_and_her_sisters_00.36.00.410-00.36.06.564 	onstage, the soprano in the title role sings a mournful aria as she kneels by the ruins of a wagon.
+0049_Hannah_and_her_sisters_01.01.28.208-01.01.35.560 	the camera moves down the body of the lead singer, singing into a microphone, from his longish, curly red hair, through his cut-off red shirt and sweaty torso, to his guitar.
+0049_Hannah_and_her_sisters_01.10.25.030-01.11.03.221 	the film moves from the audience to the stage where holly, her hands clasped in front of her, continues to sing her song.
+0049_Hannah_and_her_sisters_01.14.55.000-01.14.58.469 	the music continues as the film moves inside, where the choir is seen singing behind an altar glowing warm gold.
+0049_Hannah_and_her_sisters_01.15.01.768-01.15.03.605 	the choir continues to sing as the movie cuts to father flynn in his office.
+0049_Hannah_and_her_sisters_01.21.50.971-01.22.06.776 	mickey walks off, the hare krishnas still dancing and singing on the other side of the fence.
+0049_Hannah_and_her_sisters_01.38.40.076-01.38.45.381 	the four brothers are now swaying and singing and strutting, their voices indistinct over mickey's narration.
+0049_Hannah_and_her_sisters_01.38.54.930-01.39.00.475 	the marx brothers are sitting on a judge's bench, playing banjos and singing with the other cast members.
+0049_Hannah_and_her_sisters_01.38.59.166-01.39.01.247 	they jump down from the bench, still singing.
+1006_Slumdog_Millionaire_00.26.10.840-00.26.11.938 	salim steps out to sing.
+1008_Spider-Man2_00.43.32.657-00.43.35.993 	two singed scientists leave the building.
+1009_Spider-Man3_01.37.30.239-01.37.37.052 	just as mary jane is about to sing, he comes in on piano.
+1010_TITANIC_01.14.03.332-01.14.23.547 	in the dining room, a man plays piano as first class passengers, holding sheet music, sing.
+1027_Les_Miserables_01.02.32.605-01.02.34.375 	a group of nuns are singing.
 1041_This_is_40_00.10.29.043-00.10.33.358 	now, in an suv, he sings to his wife.
-1041_This_is_40_00.58.38.347-00.58.42.013 	riding shotgun, sadie sings along with uninhibited enthusiasm.
-1042_Up_In_The_Air_00.56.51.318-00.57.16.672 	natalie sings karaoke on a yacht in the harbor.
 1044_Pride_And_Prejudice_Disk_Two_00.59.04.433-00.59.13.581 	that evening mr. darcy watches lizzie with adoring eyes as she plays and sings at the piano.
-1045_An_education_00.09.49.121-00.10.01.654 	jenny sings along with the record which spins on the small player on the floor.
 1046_Australia_00.32.05.973-00.32.07.498 	sing song watches without emotion.
 1046_Australia_00.54.03.043-00.54.04.000 	sing song winks.
+1046_Australia_00.54.26.164-00.54.30.000 	sing song's chop wagon moves on as drover opens the gate to the cattle pen.
+1046_Australia_00.55.22.000-00.55.24.002 	sing song drives his wagon in to the water.
 1046_Australia_01.10.40.102-01.10.46.095 	it's strong stuff, but sing song and sarah hold out their cups for more.
-1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.38.06.320-00.38.09.609 	in the kitchen, the waitress with the earphones sings to her music.
+1046_Australia_01.29.01.719-01.29.07.047 	nullah's sitting glumly by a cooking fire with sing song and bandy legs.
+1046_Australia_01.30.15.000-01.30.16.000 	sitting downstairs in the black section of the audience with sing song.
+1055_Marley_and_me_00.54.31.643-00.54.36.935 	from the driver's seat, john looks up and through a window, sees jenny cuddling patrick and singing to him.
 1057_Seven_pounds_01.28.58.602-01.29.03.456 	emily sings along.
 1058_The_Damned_united_00.03.35.000-00.03.54.463 	two boys in the back stare out through the rain-soaked windows as the handsome driver, brian clough, sings along to the radio.
-1058_The_Damned_united_00.45.57.828-00.46.01.585 	don sings in the stands.
 1060_Yes_man_01.07.45.201-01.07.50.058 	as the crowd sings along, a fire crew arrives.
 2026_Legion_01.14.35.428-01.14.35.639 	out of the static, the haunting sounds of bing crosby singing silent night fills the room.
 2027_Les_Miserables_00.18.21.536-00.18.41.251 	fantine continues to defend herself to the foreman, as the women sing - .
 2027_Les_Miserables_00.25.17.643-00.25.19.333 	on the rotting warship, more whores appear out of the gaps of the hull to sing the chorus.
 2027_Les_Miserables_00.25.53.471-00.25.56.006 	whores sing from the warehouse doorways, from on top of the spars of the ships, writhing around figureheads and from the rotting ship.
 2027_Les_Miserables_00.44.21.502-00.44.27.528 	they sing at the same time, duelling in song.
+2027_Les_Miserables_00.46.45.242-00.46.47.124 	madame thenardier imitates cosette as she sings.
 2027_Les_Miserables_01.03.47.658-01.03.49.642 	as he sings he walks out onto the roof and stands by the symbol of the hq, a monumental stone eagle.
-1057_Seven_pounds_01.28.58.602-01.29.03.456 	emily sings along.
-1058_The_Damned_united_00.03.35.000-00.03.54.463 	two boys in the back stare out through the rain-soaked windows as the handsome driver, brian clough, sings along to the radio.
-1058_The_Damned_united_00.45.57.828-00.46.01.585 	don sings in the stands.
-1060_Yes_man_01.07.45.201-01.07.50.058 	as the crowd sings along, a fire crew arrives.
-2026_Legion_01.14.35.428-01.14.35.639 	out of the static, the haunting sounds of bing crosby singing silent night fills the room.
-2027_Les_Miserables_00.18.21.536-00.18.41.251 	fantine continues to defend herself to the foreman, as the women sing - .
-2027_Les_Miserables_00.25.17.643-00.25.19.333 	on the rotting warship, more whores appear out of the gaps of the hull to sing the chorus.
-2027_Les_Miserables_00.25.53.471-00.25.56.006 	whores sing from the warehouse doorways, from on top of the spars of the ships, writhing around figureheads and from the rotting ship.
-2027_Les_Miserables_00.44.21.502-00.44.27.528 	they sing at the same time, duelling in song.
-2027_Les_Miserables_01.03.47.658-01.03.49.642 	as he sings he walks out onto the roof and stands by the symbol of the hq, a monumental stone eagle.
+2027_Les_Miserables_01.20.07.112-01.20.09.740 	as the students sing, eponine enters wanting to talk to marius.
+2027_Les_Miserables_01.35.51.884-01.35.52.031 	softly, in time with the drums, the watching people begin to sing.
+2027_Les_Miserables_01.36.47.649-01.36.52.387 	the crowd supports them and surround the coffin carriage, blocking the attempts of the police to intervene, singing with passion.
 2027_Les_Miserables_01.52.49.481-01.52.59.315 	grantaire drunkenly starts singing a drinking song and it is taken up more seriously by feuilly.
 2027_Les_Miserables_02.14.20.092-02.14.24.699 	as valjean and gillenormand look on, marius and cosette sing their love to each other.
+2027_Les_Miserables_02.28.42.390-02.28.44.304 	now among the marchers we see the ghost of valjean, singing with the rest atop the barricade, amongst the waving red flags.
 2041_This_is_40_00.15.43.691-00.15.48.091 	pete and debbie watch graham sing a very moving song.
 2041_This_is_40_00.58.37.500-00.58.41.391 	sadie and charlotte sing show tunes loudly and happily.
+2041_This_is_40_01.27.15.901-01.27.16.023 	pete is eating an egg sandwich and manically singing along.
+2041_This_is_40_01.52.59.876-01.53.00.606 	he stands in the back looking uncomfortable, quietly singing.
+2054_Harry_Potter_and_the_prisoner_of_azkaban_00.24.36.897-00.24.41.199 	we track along the faces of the choir, singing to the strains of a harpsichord, and land on a quintet of toads (one of which -- trevor -- belongs to neville longbottom, who looks on with pride).

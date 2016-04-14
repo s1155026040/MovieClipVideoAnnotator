@@ -1,3 +1,1 @@
 DISTRICT_9.srt 	DISTRICT_9_DVS679 	01:19:34,00 --> 01:19:44,50 	drops to his knees, devastated.
-PROMETHEUS.srt 	PROMETHEUS_DVS998 	01:49:25,00 --> 01:49:31,50 	doors ahead open, revealing the devastated remains of someone quarters.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS449 	01:51:49,00 --> 01:52:04,50 	someone steps closer and the devastated woman lays her brow on his shoulder.

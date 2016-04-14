@@ -1,3 +1,4 @@
-0032_The_Princess_Bride_00.07.05.420-00.07.17.217 	Buttercup, barreling along, controlling her horse easily.
-0043_Thelma_and_Luise_01.57.31.071-01.57.34.069 	She continues barreling towards it without slowing down.
-0050_Indiana_Jones_and_the_last_crusade_00.05.54.492-00.05.56.157 	The train is barreling down the track.
+0032_The_Princess_Bride_00.07.05.420-00.07.17.217 	buttercup, barreling along, controlling her horse easily.
+0043_Thelma_and_Luise_01.57.31.071-01.57.34.069 	she continues barreling towards it without slowing down.
+0050_Indiana_Jones_and_the_last_crusade_00.05.54.492-00.05.56.157 	the train is barreling down the track.
+1030_Public_Enemies_00.45.04.665-00.45.07.332 	horses barrel down a racetrack, jockeys crouched on their backs.

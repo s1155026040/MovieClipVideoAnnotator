@@ -1,0 +1,4 @@
+COLOMBIANA.srt 	COLOMBIANA_DVS434 	00:38:21,00 --> 00:38:27,50 	someone surrenders the gun and his fellow marshals restrain him.
+GET_HIM_TO_THE_GREEK.srt 	GET_HIM_TO_THE_GREEK_DVS81 	00:47:17,00 --> 00:47:21,50 	lars surrenders the phone.
+ROBIN_HOOD.srt 	ROBIN_HOOD_DVS374 	01:32:50,00 --> 01:32:59,50 	someone surrenders his sword to a soldier as two others force him to his knees
+THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS332 	01:00:53,00 --> 01:01:08,50 	at the mansions entrance, they surrender the car to a valet.

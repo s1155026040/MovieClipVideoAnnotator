@@ -1,17 +1,8 @@
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS508 	01:57:19,00 --> 01:57:24,50 	a needle on a timer ticks around.
-IN_TIME.srt 	IN_TIME_DVS26 	00:03:25,00 --> 00:03:31,50 	they watch their clocks tick rapidly on their free arms.
 IN_TIME.srt 	IN_TIME_DVS35 	00:04:08,00 --> 00:04:16,50 	a display ticks up to five minutes.
-IN_TIME.srt 	IN_TIME_DVS118 	00:14:05,00 --> 00:14:12,50 	someone pulls up his sleeve and watches his clock seconds tick away.
-IN_TIME.srt 	IN_TIME_DVS121 	00:14:32,00 --> 00:14:39,50 	someone stares at the glowing clock ticking down his own body's time.
-IN_TIME.srt 	IN_TIME_DVS149 	00:16:14,00 --> 00:16:23,50 	the melancholy man faces the river and distant mountains as his body clock ticks down under 15 seconds.
 IN_TIME.srt 	IN_TIME_DVS151 	00:16:26,00 --> 00:16:32,50 	his clock ticks out its last three seconds.
 IN_TIME.srt 	IN_TIME_DVS302 	00:31:08,00 --> 00:31:14,50 	the cube's balance ticks up to 650.
-IN_TIME.srt 	IN_TIME_DVS310 	00:32:12,00 --> 00:32:18,50 	someone watches the pot tick up to 900 years.
-IN_TIME.srt 	IN_TIME_DVS321 	00:33:08,00 --> 00:33:12,50 	she lowers her eyes to his clock, which ticks down from five seconds.
 IN_TIME.srt 	IN_TIME_DVS460 	00:49:33,00 --> 00:49:40,50 	she eyes her body clock which ticks down under 32 minutes.
-IN_TIME.srt 	IN_TIME_DVS542 	00:58:31,00 --> 00:58:39,50 	she watches as his balance ticks back up to 16 hours, 9 minutes, and 59 seconds.
 IN_TIME.srt 	IN_TIME_DVS695 	01:14:46,00 --> 01:14:52,50 	and smiles faintly as his balance ticks past a century.
-IN_TIME.srt 	IN_TIME_DVS816 	01:26:33,00 --> 01:27:01,50 	he watches his clock tick down to ten seconds.
-IN_TIME.srt 	IN_TIME_DVS835 	01:28:24,00 --> 01:28:31,50 	they watch it as it ticks up from 33% to 37%.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS363 	01:09:44,00 --> 01:09:49,50 	it ticks down to zero.
 SOUL_SURFER.srt 	SOUL_SURFER_DVS315 	01:34:24,00 --> 01:34:31,50 	the timer ticks past five.

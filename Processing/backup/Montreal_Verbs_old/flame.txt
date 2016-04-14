@@ -1,0 +1,15 @@
+30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS353 	01:17:26,00 --> 01:17:33,50 	the mustang gets away as the flaming wreck tumbles to a stop on its side.
+ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS616 	01:26:49,00 --> 01:26:55,50 	with a match, she lights a rope sending flames up a beam.
+DEAR_JOHN.srt 	DEAR_JOHN_DVS466 	01:08:15,00 --> 01:08:20,50 	now, flames dance inside a trash can.
+DEAR_JOHN.srt 	DEAR_JOHN_DVS518 	01:15:09,00 --> 01:15:15,50 	it explodes and flames shoot into the sky.
+GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS242 	00:38:46,00 --> 00:39:00,50 	the flaming skeleton waits as bullets fly in.
+GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS242 	00:38:46,00 --> 00:39:00,50 	he bellows a stream of flaming bullets at the guard.
+GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS244 	00:39:01,00 --> 00:39:08,50 	as the flaming skeleton knocks him onto his back.
+GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS249 	00:39:38,00 --> 00:40:01,50 	now inside the cab, ghost rider shoots flames from his skull, shattering the cab's windows.
+GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS255 	00:40:32,00 --> 00:40:49,50 	the spinning wheel catapults a piece of flaming metal into the sky.
+GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS266 	00:41:39,00 --> 00:41:51,50 	as someone struggles in ghost rider's grip, the flaming skeleton hurls him away then gazes into the distance.
+GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS558 	01:19:36,00 --> 01:19:58,50 	meanwhile, ghost rider marches from the amphitheater to find his flaming motorcycle approaching.
+SANCTUM.srt 	SANCTUM_DVS471 	01:27:32,00 --> 01:27:43,50 	as someone rises with his flaming cylindrical container in hand, someone shoves fabric into the top of his own oil-filled container.
+SUPER_8.srt 	SUPER_8_DVS115 	00:18:22,00 --> 00:18:28,50 	he stops as a piece of flaming wreckage marked explosive lands in front of him.
+SUPER_8.srt 	SUPER_8_DVS669 	01:46:32,00 --> 01:46:39,50 	firecrackers explode inside the modeled train, flaming train cars tumble over gravel.
+THOR.srt 	THOR_DVS669 	01:39:57,00 --> 01:40:05,50 	as the end of the bridge collapses, flames rip apart the spinning observatory, which then crashes into the water.

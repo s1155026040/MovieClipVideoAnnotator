@@ -1,148 +1,86 @@
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS30 	00:03:33,00 --> 00:03:39,50 	ahead in line, someone now sporting a buzz cut spots him.
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS145 	00:23:15,00 --> 00:23:20,50 	he spots scrawny awkward kids.
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS347 	00:58:05,00 --> 00:58:09,50 	someone spots them.
-21_JUMP_STREET.srt 	21_JUMP_STREET_DVS368 	01:00:53,00 --> 01:00:58,50 	he spots a laptop on a desk and opens it.
-21_JUMP_STREET.srt 	21_JUMP_STREET_DVS427 	01:11:33,00 --> 01:11:38,50 	someone spots him running away.
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS429 	01:11:48,00 --> 01:11:52,50 	he spots a sports car.
 30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS38 	00:07:51,00 --> 00:08:03,50 	someone spots a truck emblazoned with a bald eagle surrounded by stars and stripes.
-30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS118 	00:31:06,00 --> 00:31:12,50 	he crosses to a window and spots a van outside.
 30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS146 	00:38:37,00 --> 00:38:43,50 	someone peers out a window and spots an older man exiting the house.
-30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS270 	01:04:24,00 --> 01:04:30,50 	leaning forward she spots men's shoes crossing the checkered floor.
 30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS333 	01:15:06,00 --> 01:15:11,50 	he spots the moneybag.
 40_YEAR_OLD_VIRGIN.srt 	40_YEAR_OLD_VIRGIN_DVS130 	01:06:36,00 --> 01:06:41,50 	someone spots the condoms.
-500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS81 	00:10:59,00 --> 00:11:05,50 	he spots someone standing alone.
 500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS315 	00:56:39,00 --> 00:56:43,50 	on the assistant's desk he spots a card with "i love us".
 500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS319 	00:57:30,00 --> 00:57:34,50 	someone spots someone across the office.
 500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS337 	01:01:32,00 --> 01:01:36,50 	someone spots him.
 500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS341 	01:02:29,00 --> 01:02:33,50 	she spots the book and grins.
-500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS348 	01:03:20,00 --> 01:03:26,50 	someone, wearing his suit, spots someone wearing a knee-length pale dress.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS144 	00:13:30,00 --> 00:13:37,50 	as the soldiers escort the prisoners along the barricaded path, someone spots his son.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS230 	00:19:14,00 --> 00:19:19,50 	spinning around, someone spots the van nearby.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS297 	00:25:46,00 --> 00:26:05,50 	looking over, he spots someone's blue van and the armored truck speeding down the highway below.
-A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS779 	01:17:33,00 --> 01:17:41,50 	looking away, someone spots the pistol beside someone's dead body.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS209 	00:28:23,00 --> 00:28:30,50 	douglas notices her absence then spots her dancing with someone.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS279 	00:39:58,00 --> 00:40:22,50 	he spots someone leaping over the herd.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS608 	01:24:36,00 --> 01:25:32,50 	someone spots a vampire climbing on to the roof.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS628 	01:28:22,00 --> 01:28:33,50 	he spots someone unconscious on his back, then looks up through the open ceiling.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS113 	00:15:47,00 --> 00:15:51,50 	someone spots him.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS525 	01:22:22,00 --> 01:22:27,50 	someone spots the russians outside.
-BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS531 	01:22:59,00 --> 01:23:06,50 	he watches them get in their mercedes, then spots someone in a parked car.
-BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS610 	01:35:12,00 --> 01:35:16,50 	someone spots him and uses his phone.
-BLINDDATING.srt 	BLINDDATING_DVS239 	00:58:02,00 --> 00:58:26,50 	spotting chocolate on her date's chin, she points to her chin, then lowers her tongue and points again.
 BURLESQUE.srt 	BURLESQUE_DVS300 	00:40:51,00 --> 00:40:56,50 	he spots his towel on the floor.
-BURLESQUE.srt 	BURLESQUE_DVS686 	01:45:53,00 --> 01:45:58,50 	entering the lounge, someone spots them.
-BURLESQUE.srt 	BURLESQUE_DVS704 	01:47:33,00 --> 01:47:40,50 	someone lifts a brush to her eyes then spots her rival in the reflection of her mirror.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS78 	00:06:27,00 --> 00:06:33,50 	he spots a crumpled hand-written note atop an unopened envelope marked, past due.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS256 	00:19:59,00 --> 00:20:06,50 	as they paddle far out, we spot a meteorological complex, complete with a satellite dish perched on a bluff in the distance.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS286 	00:21:56,00 --> 00:22:02,50 	looking around, someone spots the teen on the bluffs.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS321 	00:27:20,00 --> 00:27:25,50 	someone spots someone's van outside.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS507 	00:49:24,00 --> 00:49:28,50 	he spots a lone surfer.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS521 	00:50:47,00 --> 00:50:54,50 	the water clears and someone spots the surfer clutching onto the rock.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS540 	00:52:25,00 --> 00:52:29,50 	the bully spots someone and nods.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS668 	01:04:40,00 --> 01:04:45,50 	spotting someone, someone splits off and rides over.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS763 	01:16:18,00 --> 01:16:23,50 	passing arriving mourners, the teen spots his mentor across the street.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS1049 	01:41:00,00 --> 01:41:07,50 	someone looks through his binoculars and spots his board sticking straight up out of the turmoil.
 COLOMBIANA.srt 	COLOMBIANA_DVS132 	00:11:21,00 --> 00:11:25,50 	he spots her necklace.
-COLOMBIANA.srt 	COLOMBIANA_DVS149 	00:13:31,00 --> 00:13:39,50 	as she acrobatically makes her way down to a terrace, the brawny gunman spots her from the rooftop.
-COLOMBIANA.srt 	COLOMBIANA_DVS164 	00:14:30,00 --> 00:14:41,50 	as someone emerges on a sidewalk, she spots the motorcyclist approaching and takes off down a stone staircase.
 COLOMBIANA.srt 	COLOMBIANA_DVS177 	00:15:35,00 --> 00:15:41,50 	he spots her feet disappearing over the rooftop's edge.
 COLOMBIANA.srt 	COLOMBIANA_DVS441 	00:39:04,00 --> 00:39:08,50 	landing in a crouch, she spots the police across the rooftop.
 COLOMBIANA.srt 	COLOMBIANA_DVS682 	01:04:33,00 --> 01:04:40,50 	she spots the painting of the elderly man resting off to the side.
-COLOMBIANA.srt 	COLOMBIANA_DVS732 	01:09:21,00 --> 01:09:26,50 	spotting the plush gift, someone picks it up.
 COLOMBIANA.srt 	COLOMBIANA_DVS758 	01:13:24,00 --> 01:13:29,50 	he spots a meter maid by his car.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS140 	00:22:41,00 --> 00:22:46,50 	he spots her, and they share a warm smile.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS162 	00:25:13,00 --> 00:25:20,50 	turning, he spots a solitary figure sitting alone at the base of a grassy dune.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS391 	01:00:42,00 --> 01:00:48,50 	he spots his father waiting at a security checkpoint.
-DEAR_JOHN.srt 	DEAR_JOHN_DVS548 	01:17:33,00 --> 01:17:42,50 	his brow furrowed, someone spots a cot in the corridor, and strides toward it to find his father.
-DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS67 	00:10:39,00 --> 00:10:45,50 	someone looks through the window and spots a brunette woman, he smiles and waves at her.
 DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS155 	00:37:03,00 --> 00:37:09,50 	someone spots a cat on the sofa.
 DINNER_FOR_SCHMUCKS.srt 	DINNER_FOR_SCHMUCKS_DVS424 	01:44:17,00 --> 01:44:22,50 	someone's spotted her.
 DISTRICT_9.srt 	DISTRICT_9_DVS113 	00:13:27,00 --> 00:13:32,50 	they spot an alien eating a truck's spare tire.
 DISTRICT_9.srt 	DISTRICT_9_DVS743 	01:28:01,00 --> 01:28:11,50 	someone peeks out of the hideout's window and spots the advancing mercenaries.
-DISTRICT_9.srt 	DISTRICT_9_DVS838 	01:39:00,00 --> 01:39:12,50 	spotting the colonel, someone rolls over to face him and raises his trembling human hand.
 EASY_A.srt 	EASY_A_DVS224 	01:11:44,00 --> 01:11:49,50 	someone spots them.
 FLIGHT.srt 	FLIGHT_DVS72 	00:14:39,00 --> 00:14:43,50 	she spots a syringe.
-FLIGHT.srt 	FLIGHT_DVS772 	01:37:18,00 --> 01:37:24,50 	some reporters spot him, so he reverses and drives back onto the main road.
 FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS62 	00:16:28,00 --> 00:16:34,50 	he spots a huge monitor broadcasting the flash mob.
 FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS131 	00:35:28,00 --> 00:35:34,50 	undressing her he spots a dog tattoo.
-FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS218 	00:57:55,00 --> 00:58:15,50 	heading back through the kitchen she spots a hand scrawled note posted on the fridge.
 GET_HIM_TO_THE_GREEK.srt 	GET_HIM_TO_THE_GREEK_DVS48 	00:30:53,00 --> 00:30:57,50 	he spots a tv.
-GET_HIM_TO_THE_GREEK.srt 	GET_HIM_TO_THE_GREEK_DVS109 	01:03:17,00 --> 01:03:22,50 	she spots someone and gives a drunken wave.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS21 	00:03:22,00 --> 00:03:33,50 	the someone spots the escaping vehicle.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS257 	00:40:53,00 --> 00:41:00,50 	the bearded supplier readies a launcher then spots the wheel above him.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS503 	01:12:44,00 --> 01:12:51,50 	she glances up from her green tinted night vision scope then spots four men in a brawl.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS562 	01:20:11,00 --> 01:20:32,50 	the rear driver spots him and swerves left, blocking his path.
-GREEN_ZONE.srt 	GREEN_ZONE_DVS79 	00:21:10,00 --> 00:21:51,50 	glancing across the street, he spots the guards escorting a cluster of well-dressed men away from the white suv.
-GREEN_ZONE.srt 	GREEN_ZONE_DVS336 	01:15:52,00 --> 01:16:06,50 	someone looks over his shoulder and spots one of his men stalking out the alley and across the street following his path.
-GROWN_UPS.srt 	GROWN_UPS_DVS116 	00:37:21,00 --> 00:37:29,50 	he spots someone picking up a rock near the lake.
 GROWN_UPS.srt 	GROWN_UPS_DVS234 	01:08:20,00 --> 01:08:28,50 	she spots her husband wading in the lake with someone as she catches guppies in a jar.
 IN_TIME.srt 	IN_TIME_DVS220 	00:23:28,00 --> 00:23:33,50 	someone spots the surveillance camera on the bridge.
-IN_TIME.srt 	IN_TIME_DVS313 	00:32:37,00 --> 00:32:43,50 	spotting his exposed arm, the auburn-haired woman leans closer.
-IN_TIME.srt 	IN_TIME_DVS388 	00:40:38,00 --> 00:40:43,50 	turning, someone spots her and smiles.
 IN_TIME.srt 	IN_TIME_DVS594 	01:03:32,00 --> 01:03:36,50 	she spots someone.
 IN_TIME.srt 	IN_TIME_DVS601 	01:04:25,00 --> 01:04:30,50 	two dayton residents spot him
-IN_TIME.srt 	IN_TIME_DVS714 	01:16:11,00 --> 01:16:19,50 	looking up, he spots a billboard featuring someone and someone advertising a reward of ten years.
 IN_TIME.srt 	IN_TIME_DVS846 	01:29:38,00 --> 01:29:43,50 	someone spots her.
-IN_TIME.srt 	IN_TIME_DVS922 	01:37:23,00 --> 01:37:31,50 	from the cruiser, someone spots the couple running down a road amid rolling grassy hills.
 JACK_AND_JILL.srt 	JACK_AND_JILL_DVS46 	00:06:21,00 --> 00:06:28,50 	in a deserted baggage claim area, someone spots a sleeping janitor slumped on the floor.
 JACK_AND_JILL.srt 	JACK_AND_JILL_DVS48 	00:06:34,00 --> 00:06:38,50 	the manish woman spots her brother.
 JACK_AND_JILL.srt 	JACK_AND_JILL_DVS215 	00:43:05,00 --> 00:43:09,50 	she spots someone eavesdropping.
 JACK_AND_JILL.srt 	JACK_AND_JILL_DVS388 	01:12:48,00 --> 01:12:54,50 	the balding valet steps out from the restroom and spots her.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS498 	01:36:16,00 --> 01:36:24,50 	she spots their bench, and someone stands.
 KARATE_KID.srt 	KARATE_KID_DVS102 	00:09:19,00 --> 00:09:24,50 	his mother spots his jacket on the floor.
-KARATE_KID.srt 	KARATE_KID_DVS412 	00:37:38,00 --> 00:37:47,50 	she spots someone staring at the door and heads over.
 KARATE_KID.srt 	KARATE_KID_DVS780 	01:05:43,00 --> 01:05:50,50 	a broad grin spreads on his lips as he spots someone across the room.
 KARATE_KID.srt 	KARATE_KID_DVS1069 	01:26:53,00 --> 01:27:03,50 	at the other end, he spots someone standing outside the auditorium,
 KARATE_KID.srt 	KARATE_KID_DVS1076 	01:28:09,00 --> 01:28:19,50 	someone freezes, spotting a guard at the gate.
 KARATE_KID.srt 	KARATE_KID_DVS1294 	01:44:41,00 --> 01:44:48,50 	now at a bank of lockers at school, the boy spots someone and offers a faint smile.
 LAND_OF_THE_LOST.srt 	LAND_OF_THE_LOST_DVS54 	00:18:25,00 --> 00:18:41,50 	as it spots them, the primate hides itself behind the block.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS212 	00:27:58,00 --> 00:28:10,50 	a girl spots him and he quickly ducks behind colorful hanging items.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS340 	00:41:33,00 --> 00:41:41,50 	peering into the seemingly endless expanse of rolling waves, someone spots a figure in the water.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS482 	00:54:04,00 --> 00:54:09,50 	a shark swims passed as he works, spotting it.
 LITTLE_FOCKERS.srt 	LITTLE_FOCKERS_DVS176 	01:01:37,00 --> 01:01:42,50 	they spot a surveillance camera.
-MORNING_GLORY.srt 	MORNING_GLORY_DVS480 	01:40:08,00 --> 01:40:13,50 	who eventually looks up and spots her.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS200 	00:28:37,00 --> 00:28:41,50 	he spots one.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS318 	00:41:01,00 --> 00:41:07,50 	lovey slows to a stop on spotting the giant stuffed penguin.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS334 	00:42:53,00 --> 00:43:01,50 	someone spots the penguins on a lower tier across the rotunda.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS334 	00:42:53,00 --> 00:43:01,50 	they spot him too.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS348 	00:44:10,00 --> 00:44:20,50 	spotting an elderly man with a walker, the penguin tucks in its flippers and shoots between his legs.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS488 	00:59:23,00 --> 00:59:27,50 	someone spots them.
-MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS637 	01:17:26,00 --> 01:17:31,50 	someone turns a corner and spots the someone.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS399 	01:23:51,00 --> 01:24:06,50 	as he refers to his manual, he spots the others on the field's edge.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS470 	01:36:16,00 --> 01:36:23,50 	shading his eyes, someone spots her halfway across the field.
 PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS395 	01:29:34,00 --> 01:29:39,50 	she spots someone glaring and shifts uncomfortably.
-PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS76 	00:19:34,00 --> 00:20:19,50 	someone spots his sword near the minotaur then hurries around the tree and grabs the horn.
-PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS266 	01:08:29,00 --> 01:08:35,50 	as someone runs in the opposite direction, one of the heads spots him.
-PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS395 	01:36:51,00 --> 01:36:57,50 	he spots a helicopter rising in his direction and takes aim with the bolt.
 PROMETHEUS.srt 	PROMETHEUS_DVS348 	00:34:34,00 --> 00:34:42,50 	trailing behind, someone spots a panel with carved dots and lines high up on the wall.
-PROMETHEUS.srt 	PROMETHEUS_DVS901 	01:39:51,00 --> 01:39:59,50 	he strikes the aide, flings him into a wall across the chamber, then spots someone running away, but lets her go.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS434 	01:22:56,00 --> 01:23:09,50 	someone and someone stand shoulder-to-shoulder as they spot the lodge a few hundred yards off.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS461 	01:28:23,00 --> 01:28:27,50 	someone spots them.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS638 	02:00:03,00 --> 02:00:38,50 	spotting the trio, he looks away.
-RUBY_SPARKS.srt 	RUBY_SPARKS_DVS300 	00:48:14,00 --> 00:48:20,50 	someone wakes up, spots him at the foot of the bed and sits up.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS630 	01:31:04,00 --> 01:31:12,50 	someone peeks over the top of the staircase and spots his manuscript on the floor outside the bedroom.
 SALT.srt 	SALT_DVS159 	00:27:39,00 --> 00:27:54,50 	on a table beside it, she spots a half-eaten sandwich and an unfinished beer.
-SALT.srt 	SALT_DVS185 	00:32:13,00 --> 00:32:22,50 	leaving her building, someone spots her.
 SALT.srt 	SALT_DVS288 	00:50:38,00 --> 00:50:56,50 	she aims a tiny mirror down the hallway and spots a security agent striding up.
-SALT.srt 	SALT_DVS482 	01:23:03,00 --> 01:23:17,50 	as he turns from the window, he spots a news report on the monitor.
-SANCTUM.srt 	SANCTUM_DVS339 	01:07:44,00 --> 01:07:52,50 	someone spots a ledge and opening across the cauldron.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS620 	00:41:07,00 --> 00:41:14,50 	she spots a few distant skyscrapers and a tall crane beyond the rundown neighborhood.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS674 	00:44:06,00 --> 00:44:12,50 	glancing around, she spots her father by the window.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS118 	00:23:31,00 --> 00:23:38,50 	someone spots someone's wolf calendar.
 SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS329 	01:07:36,00 --> 01:07:43,50 	someone spots him in a mirror.
 SOUL_SURFER.srt 	SOUL_SURFER_DVS21 	00:03:35,00 --> 00:03:39,50 	and grins as he spots the girl.
-SOUL_SURFER.srt 	SOUL_SURFER_DVS102 	00:35:57,00 --> 00:36:01,50 	they pass by some restaurants then spots a few surfers.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS197 	00:31:43,00 --> 00:31:49,50 	the anderson sisters spot the group on stage.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS26 	00:05:55,00 --> 00:06:14,50 	glancing over his shoulder, he spots an onlooker across the rooftop.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS42 	00:10:27,00 --> 00:10:31,50 	someone glares as she spots
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS93 	00:21:33,00 --> 00:21:46,50 	he spots a scruffy looking guy standing across the street then heads in his direction.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS208 	00:39:17,00 --> 00:39:37,50 	his jaw drops as he spots an eviction notice taped to it.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS220 	00:44:09,00 --> 00:44:20,50 	just past him, she spots his gun on the nightstand.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS276 	00:52:04,00 --> 00:52:12,50 	someone spots the pedicab from a block behind and gives a vengeful smile.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS277 	00:52:10,00 --> 00:52:16,50 	someone spots him and scowls.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS296 	00:54:19,00 --> 00:54:26,50 	someone looks over his shoulder and spots a billboard in a field.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS309 	00:56:16,00 --> 00:56:23,50 	someone spots a luxury pick-up in her side mirror then eyes it over her shoulder.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS314 	00:57:27,00 --> 00:57:37,50 	as they speed forward, shoving against each other, someone spots an suv headed straight for the thug's vehicle.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS349 	01:05:00,00 --> 01:05:09,50 	the young man spots them and his polite smile fades.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS455 	01:23:52,00 --> 01:24:09,50 	she spots a storefront with a pink awning.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS477 	01:26:28,00 --> 01:26:39,50 	swiveling in the chair, she spots a framed photo of a bowling team.
@@ -152,31 +90,16 @@ THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS558 	01:40:02,00 --> 01:40:18,50 	so
 THE_CALL.srt 	THE_CALL_DVS308 	00:26:36,00 --> 00:26:42,50 	someone searches the room for her boss and spots her on a phone call.
 THE_CALL.srt 	THE_CALL_DVS671 	00:52:14,00 --> 00:52:21,50 	the kidnapper keeps his eyes on the pump as someone spots the man and desperately waves her arms.
 THE_CALL.srt 	THE_CALL_DVS745 	00:56:11,00 --> 00:56:19,50 	he spots a poem titled my sister.
-THE_CALL.srt 	THE_CALL_DVS865 	01:05:43,00 --> 01:05:50,50 	she turns the lock and rests her head, then spots something across the room.
-THE_CALL.srt 	THE_CALL_DVS912 	01:10:11,00 --> 01:10:17,50 	someone spots an open doorway and moves into the next room.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS515 	01:13:28,00 --> 01:13:35,50 	scanning the restaurant, someone spots a man with grey, shoulder-length hair at the bar.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS499 	00:56:37,00 --> 00:56:43,50 	as she leaves we spot a swollen goose egg at the corner of her mouth.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS533 	01:00:15,00 --> 01:00:21,50 	someone spots a news van.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS560 	01:02:26,00 --> 01:02:34,50 	he spots a likely match to the photographer's vantage of someone's position in the 1960s.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS904 	01:40:07,00 --> 01:40:14,50 	he spots two breakfast settings arranged on a small table, then approaches.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1070 	01:53:05,00 --> 01:53:08,50 	turning, he spots the suv arriving outside.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1090 	01:54:08,00 --> 01:54:14,50 	someone turns and spots him.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1198 	02:07:20,00 --> 02:07:30,50 	stepping outside someone spots its headlights over a ridge.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1209 	02:08:06,00 --> 02:08:13,50 	someone spots her in his side mirror then cuts her off before she can pass.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1313 	02:19:41,00 --> 02:19:46,50 	looks around, and spots her uncle.
 THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS87 	00:29:47,00 --> 00:29:56,50 	back on the road, at an oncoming intersection, someone spots a hitchhiker signaling for a lift.
-THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS148 	00:50:47,00 --> 00:50:52,50 	he spots someone entering the motel lounge.
 THE_SITTER.srt 	THE_SITTER_DVS107 	00:57:35,00 --> 00:57:45,50 	someone spots the name huron on a street sign.
 THE_VOW.srt 	THE_VOW_DVS108 	00:11:29,00 --> 00:11:34,50 	their officiating friend spots two guards.
-THE_VOW.srt 	THE_VOW_DVS292 	00:38:06,00 --> 00:38:12,50 	at the apartment, someone spots his wifes cellphone left on the kitchen island.
-THE_VOW.srt 	THE_VOW_DVS693 	01:36:22,00 --> 01:36:29,50 	turning from the entrance someone starts to walk off, but spots someone approaching.
-THE_WATCH.srt 	THE_WATCH_DVS27 	00:04:32,00 --> 00:04:38,50 	he grabs a six-pack of coke then spots a bottle of vodka.
-THE_WATCH.srt 	THE_WATCH_DVS50 	00:06:35,00 --> 00:06:41,50 	over his shoulder, he spots something coming and his eyes widen.
-THE_WATCH.srt 	THE_WATCH_DVS279 	00:51:11,00 --> 00:51:17,50 	looking around, someone spots a garden gnome.
 THE_WATCH.srt 	THE_WATCH_DVS479 	01:25:58,00 --> 01:26:04,50 	they spot a tower-like transmitter across the room.
 THE_WATCH.srt 	THE_WATCH_DVS542 	01:33:34,00 --> 01:33:41,50 	someone spots them through the smoke, their figures defined by a backdrop of amber flame.
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS54 	00:13:26,00 --> 00:13:33,50 	in a someone and noble, someone spots the single mother two paces ahead of him in line.
-THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS115 	00:33:30,00 --> 00:33:34,50 	he spots two guys moving a chair.
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS191 	00:46:07,00 --> 00:46:12,50 	he spots a framed photo with someone in it.
 THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS407 	01:35:53,00 --> 01:35:58,50 	someone spots him from the doorway.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS50 	00:07:00,00 --> 00:07:04,50 	she spots someone's ring.
@@ -184,26 +107,19 @@ THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS179 	00:33:35,00 --> 00:33:40,50 	she spot
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS259 	00:33:28,00 --> 00:33:33,50 	and spots a sleeping boy across the room.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS386 	00:42:16,00 --> 00:42:20,50 	they spot the googly-eyed dog.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS678 	01:15:51,00 --> 01:15:57,50 	he spots someone perched on a goal's crossbar.
-TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS818 	01:26:59,00 --> 01:27:04,50 	a school faculty member comes out and spots the
 TRUE_GRIT.srt 	TRUE_GRIT_DVS498 	01:33:33,00 --> 01:33:39,50 	and spots a knife ina belt around his waist.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS252 	00:23:53,00 --> 00:24:00,50 	she spots a well-built man through a pair of open balcony doors as he exits a shower.
-UGLY_TRUTH.srt 	UGLY_TRUTH_DVS390 	00:46:53,00 --> 00:46:58,50 	as someone spots his nephew, someone looks on.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS447 	00:54:38,00 --> 00:54:43,50 	someone spots the boy.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS458 	00:55:53,00 --> 00:55:58,50 	someone spots him and seizes it.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS501 	01:04:30,00 --> 01:04:35,50 	later someone spots her in the lobby.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS32 	00:05:10,00 --> 00:05:16,50 	someone spots a restaurant ahead and his face falls.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS93 	00:14:09,00 --> 00:14:21,50 	as he returns his attention to the young partygoers 	next door, a blonde woman holding a beer spots him and gives a friendly wave.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS359 	00:58:14,00 --> 00:58:21,50 	tranquilizer gun in hand, someone freezes as he spots the grizzly on a hill.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS628 	01:33:18,00 --> 01:33:31,50 	back in the field, someone's white spotted sundress flutters as she leads her children in tighter circles around her 	husband.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS819 	01:54:57,00 --> 01:55:03,50 	as someone strolls through the crowd, he spots the kites.
-WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS98 	00:08:31,00 --> 00:08:39,50 	she climbs a flight of stairs up to a tasteful party where an elegant blonde spots her.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS270 	00:38:52,00 --> 00:38:57,50 	someone spots a photo of him and someone.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS355 	00:52:07,00 --> 00:52:15,50 	nearing a giant statue in the center of the room, she spots a handsome african-american man reading.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS542 	01:14:53,00 --> 01:15:02,50 	he pauses to greet acquaintances, then spots her.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS595 	01:20:36,00 --> 01:20:41,50 	someone spots him and hesitates,
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS710 	01:35:47,00 --> 01:35:58,50 	she waves to the bride as she dances her way to the front of the parade, then spots a pizza delivery man's bicycle 	propped against a brick wall, and steals it.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS721 	01:36:45,00 --> 01:36:51,50 	spotting someone onstage with his band, someone beams.
-WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS724 	01:36:53,00 --> 01:37:00,50 	someone climbs a trellis fence, peeks overtop, and spots the security guards.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS621 	00:57:57,00 --> 00:58:03,50 	outside, someone spots a soldier wrapped in barbed wire.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1181 	01:45:34,00 --> 01:45:40,50 	he spots angel fluttering above the ship.
 ZOMBIELAND.srt 	ZOMBIELAND_DVS194 	00:19:47,00 --> 00:19:52,50 	he spots fedex packages on the side of the road.

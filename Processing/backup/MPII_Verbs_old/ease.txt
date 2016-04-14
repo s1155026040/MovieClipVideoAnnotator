@@ -1,25 +1,20 @@
-0002_As_Good_As_It_Gets_01.04.09.678-01.04.09.831 	stands in front of Melvin's apartment -- twists herself to ease nervousness and knocks on the door.
-0005_Chinatown_00.31.41.544-00.31.43.191 	Loach tries to ease him down the path.
-0008_Fargo_01.03.02.870-01.03.06.238 	He is sliding out of his side of the booth and easing in next to Marge.
-0008_Fargo_01.12.24.600-01.12.26.026 	Jerry eases toward the street, looking over at the booth as he passes.
-0016_O_Brother_Where_Art_Thou_00.18.14.184-00.18.18.056 	He stands belly-deep in the river, easing a white-robed man back-down into the water.
-0021_Rear_Window_01.03.39.034-01.03.44.414 	Then sharpening his look, he picks up the long-focus lens, and easing himself back cautiously, begins watching Thorwald.
-0021_Rear_Window_01.08.13.628-01.08.16.378 	THE CAMERA eases back.
-0021_Rear_Window_01.11.28.995-01.11.35.475 	Jeff's tension eases off a little, by he is eager to talk.
-0028_The_Crying_Game_01.23.30.567-01.23.32.731 	Jude, from the cafe, watches--Fergus walking on, the old man being eased with painstaking care inside the Daimler.
-0038_Psycho_00.19.01.850-00.19.12.421 	Mary, engrossed in the newspaper, and walking back ease the lot, does not see the Patrolman.
-1004_Juno_00.51.39.048-00.51.51.563 	Outside, on the snowy street, Juno stops the Previa and eases off her grey overskirt.
-1004_Juno_00.52.42.883-00.52.47.880 	Juno eases herself into a chair with her legs apart.
-1007_Spider-Man1_00.09.57.073-00.10.00.278 	The missing super spider starts to ease its way down a silky thread from its newly spun web.
+0002_As_Good_As_It_Gets_01.04.09.678-01.04.09.831 	stands in front of melvin's apartment -- twists herself to ease nervousness and knocks on the door.
+0005_Chinatown_00.31.41.544-00.31.43.191 	loach tries to ease him down the path.
+0008_Fargo_01.03.02.870-01.03.06.238 	he is sliding out of his side of the booth and easing in next to marge.
+0016_O_Brother_Where_Art_Thou_00.18.14.184-00.18.18.056 	he stands belly-deep in the river, easing a white-robed man back-down into the water.
+0021_Rear_Window_01.03.39.034-01.03.44.414 	then sharpening his look, he picks up the long-focus lens, and easing himself back cautiously, begins watching thorwald.
+0021_Rear_Window_01.08.13.628-01.08.16.378 	the camera eases back.
+0021_Rear_Window_01.11.28.995-01.11.35.475 	jeff's tension eases off a little, by he is eager to talk.
+0028_The_Crying_Game_01.23.30.567-01.23.32.731 	jude, from the cafe, watches--fergus walking on, the old man being eased with painstaking care inside the daimler.
+0038_Psycho_00.19.01.850-00.19.12.421 	mary, engrossed in the newspaper, and walking back ease the lot, does not see the patrolman.
+1004_Juno_00.51.39.048-00.51.51.563 	outside, on the snowy street, juno stops the previa and eases off her grey overskirt.
+1004_Juno_00.52.42.883-00.52.47.880 	juno eases herself into a chair with her legs apart.
+1007_Spider-Man1_00.09.57.073-00.10.00.278 	the missing super spider starts to ease its way down a silky thread from its newly spun web.
 1008_Spider-Man2_01.21.38.242-01.21.41.101 	octavius eases the final girder securely it into position.
 1008_Spider-Man2_02.02.32.940-02.02.41.220 	later, he eases her down towards the ground with an ever- lengthening string of web emanating from his wrist.
+1031_Quantum_of_Solace_01.08.26.786-01.08.56.265 	eases the floor throttle forward.
 1043_Vantage_Point_01.01.53.732-01.01.58.124 	javier eases a door open on level seven.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.29.37.835-01.29.41.859 	she eases her way past him.
-1055_Marley_and_me_01.06.29.092-01.06.36.552 	she shuts the blinds and leaves the room, easing the door closed behind her.
-1059_The_devil_wears_prada_01.09.47.345-01.09.49.082 	andy rubs her neck, trying to ease some of the tension.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.08.18.000-00.08.27.006 	ollivander looks away, and eases back a little.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.16.53.000-00.16.57.000 	they ease past the dragon.
-2026_Legion_00.32.13.274-00.32.18.965 	bob and the others ease slightly.
 1055_Marley_and_me_01.06.29.092-01.06.36.552 	she shuts the blinds and leaves the room, easing the door closed behind her.
 1059_The_devil_wears_prada_01.09.47.345-01.09.49.082 	andy rubs her neck, trying to ease some of the tension.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.08.18.000-00.08.27.006 	ollivander looks away, and eases back a little.

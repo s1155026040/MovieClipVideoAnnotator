@@ -1,23 +1,15 @@
-0003_CASABLANCA_00.02.43.929-00.02.49.258 	An officer BLOWS his whistle several times.
-0004_Charade_01.40.54.133-01.40.54.721 	He stands on the platform as the train doors slam shut, the latches click, the whistle blows and the train pulls out.
-0007_DIE_NACHT_DES_JAEGERS_00.14.03.008-00.14.06.775 	The whistle TIES OVER the previous.
-0014_Ist_das_Leben_nicht_schoen_00.21.12.107-00.21.13.945 	Harry on the orchestra platform, whistle in hand.
-0014_Ist_das_Leben_nicht_schoen_01.00.33.898-01.00.34.720 	A sharp whistle is heard.
-0016_O_Brother_Where_Art_Thou_01.05.54.729-01.05.58.900 	He scans the theater, then brings a whistle to his lips.
-0016_O_Brother_Where_Art_Thou_01.06.02.226-01.06.16.134 	At his whistle the back doors burst open and a line of chained men trot in at double-time.
-0016_O_Brother_Where_Art_Thou_01.06.52.133-01.06.52.861 	One more whistle cues the movie to grind back up to speed.
-0017_Pianist_00.20.18.450-00.20.31.451 	Then a whistle blows, a policeman stops the traffic, the barrier swings open and people swarm across in both directions.
-0017_Pianist_00.25.40.241-00.25.42.050 	A piercing whistle from the Aryan side.
-0017_Pianist_00.49.04.963-00.49.08.005 	The whistle of a locomotive.
-0029_The_Graduate_01.30.52.113-01.30.59.719 	Ben is whistling happily as he runs up the stairs two at a time.
+0004_Charade_01.21.56.255-01.21.57.498 	gideon shakes his head and leans back, whistling again.
+0014_Ist_das_Leben_nicht_schoen_00.07.10.384-00.07.11.324 	he turns back to the cash register, whistling.
+0014_Ist_das_Leben_nicht_schoen_00.21.12.107-00.21.13.945 	harry on the orchestra platform, whistle in hand.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.34.10.417-01.34.14.973 	gothmog glances up at a whistling sound -- a huge boulder hurtles towards him.
+0026_The_Big_Fish_00.48.45.495-00.48.48.614 	he leans with the spotlight, whistling to get the big man's attention.
+0026_The_Big_Fish_01.09.39.957-01.09.41.770 	the soldiers are on their feet, whistling and hollering.
+0029_The_Graduate_01.30.43.844-01.30.47.518 	he pays for it and exits past camera, whistling.
+0029_The_Graduate_01.30.52.113-01.30.59.719 	ben is whistling happily as he runs up the stairs two at a time.
+0050_Indiana_Jones_and_the_last_crusade_01.24.48.561-01.24.53.551 	it whistles overhead and blows up the parked car.
 0051_Men_in_black_01.15.40.795-01.15.43.478 	-- headquarters, where every bell, whistle and light imaginable is going off.
-1009_Spider-Man3_00.22.26.067-00.22.29.864 	a police dog handler blows a whistle and points.
-1010_TITANIC_02.49.18.709-02.49.23.375 	still clinging to wreckage, the crewman with the whistle in his mouth floats motionless with his eyes closed.
-1010_TITANIC_02.54.54.653-02.54.57.696 	between them, the dead crewman floats with the whistle still in his mouth.
-1010_TITANIC_02.57.20.543-02.57.32.177 	her breath steaming out in clouds, rose swims to the frozen crewman and pulls the whistle from his lips.
-1010_TITANIC_02.57.32.177-02.57.53.208 	rose continues to blow into the whistle as the rescuers shine their lights on her.
 1033_Sherlock_Holmes_A_Game_of_Shadows_00.04.22.920-00.04.24.586 	the man starts to whistle again.
-1037_The_Curious_Case_Of_Benjamin_Button_00.10.29.053-00.10.33.112 	the policeman blows his whistle as he gives chase.
-1047_Defiance_00.51.36.999-00.51.40.656 	the whistling russian gramov escorts them out of the camp.
-2051_Harry_Potter_and_the_goblet_of_fire_01.08.25.436-01.08.27.112 	he does so and a wolf whistle comes from the crowd.
+1046_Australia_02.01.44.290-02.01.50.328 	as he whistles, magarri stares at drover, who looks uncomfortable and tentatively lays his hand on the tree.
+1047_Defiance_01.27.53.146-01.27.53.951 	gramov sitting by him is whistling.
+1060_Yes_man_00.19.55.719-00.19.57.588 	nick puts his fingers in his mouth to whistle.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_01.51.39.217-01.51.42.864 	hermione ignores him, swiftly whistling a second stone through the window and -- conk!

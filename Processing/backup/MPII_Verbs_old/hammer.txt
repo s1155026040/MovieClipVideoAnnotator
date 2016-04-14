@@ -1,11 +1,19 @@
-0007_DIE_NACHT_DES_JAEGERS_00.53.38.893-00.53.39.466 	Before they disappear, we hear PREACHER'S fists hammering against the door.
-0017_Pianist_01.28.04.539-01.28.05.566 	The hammering stops.
-0021_Rear_Window_01.49.34.219-01.49.36.260 	From Doyle's viewpoint, Jeff hanging out the window and Thorwald hammering at his hands and arms with bare fists.
-0032_The_Princess_Bride_01.22.39.586-01.22.40.706 	INIGO, still hammering the door.
-1005_Signs_01.13.07.096-01.13.09.582 	Later, Merrill is upstairs, hammering boards the door to the children's bedroom.
-1005_Signs_01.13.46.414-01.13.51.537 	Together, the two men hammered nails through the plank into the door frame.
+0007_DIE_NACHT_DES_JAEGERS_00.53.38.893-00.53.39.466 	before they disappear, we hear preacher's fists hammering against the door.
+0021_Rear_Window_01.49.34.219-01.49.36.260 	from doyle's viewpoint, jeff hanging out the window and thorwald hammering at his hands and arms with bare fists.
+0032_The_Princess_Bride_01.22.39.586-01.22.40.706 	inigo, still hammering the door.
+1005_Signs_01.13.07.096-01.13.09.582 	later, merrill is upstairs, hammering boards the door to the children's bedroom.
+1005_Signs_01.13.46.414-01.13.51.537 	together, the two men hammered nails through the plank into the door frame.
+1008_Spider-Man2_00.54.36.037-00.54.40.777 	octavius is hammering up the outside of the office building.
+1018_Body_Of_Lies_01.52.33.392-01.52.36.449 	he hammers another finger.
+1027_Les_Miserables_02.01.46.140-02.01.47.287 	students hammer on the door of a house but it's locked.
+1038_The_Great_Gatsby_00.22.51.812-00.22.52.083 	high up on a skyscraper, a workman hammers a steel girder.
+1047_Defiance_00.21.07.946-00.21.10.413 	malbin, hammering a nail, drops the log he's holding narrowly missing zus.
+1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.38.42.550-01.38.49.823 	he hammers with his hands on the underside of the ice and kicks at it with his bear feet.
+1057_Seven_pounds_01.18.30.764-01.18.32.951 	stripped down to his vest, lithe, muscular ben hammers a pin out of the machine.
 2005_Signs_01.13.46.290-01.13.50.322 	merrill immediately puts the wooden board up and starts hammering nails into the frame.
 2005_Signs_01.13.50.322-01.13.56.261 	graham picks up his hammer and quietly begins to hammer nails into the wood.
 2005_Signs_01.14.04.471-01.14.09.614 	graham keeps hammering as he speaks.
+2005_Signs_01.14.16.988-01.14.21.776 	graham stops hammering.
+2005_Signs_01.36.45.920-01.36.47.051 	the creature gets hammered across the back with the baseball bat.
 2026_Legion_00.02.06.846-00.02.11.897 	then rain starts to hammer down.
 2026_Legion_01.09.36.006-01.09.37.528 	she hammers the auto door lock.

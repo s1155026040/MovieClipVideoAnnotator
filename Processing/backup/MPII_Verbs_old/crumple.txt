@@ -1,15 +1,22 @@
-0003_CASABLANCA_01.40.27.087-01.40.32.735 	Rick now SHOOTS at Strasser, who crumples to the ground.
-0008_Fargo_00.32.01.903-00.32.04.399 	His headlights show the car up ahead off the road, crumpled around a telephone pole, having failed to hold a turn.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.09.42.557-02.09.43.897 	The huge CREATURE crumples to the ground, VAST WINGS out-stretched, sending the WITCH-KING sprawling!
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.29.21.524-02.29.33.133 	FRODO crumpling to the ground as the RED LIGHT hits him like a SEARCHLIGHT.
-0027_The_Big_Lebowski_01.39.09.670-01.39.16.707 	He shoves the big Lebowski forward and he crumples to the floor, weeping.
-0029_The_Graduate_00.30.26.978-00.30.43.412 	Ben writes his name on the card and then stares at it for a moment, crumples it up and fills out a second card.
-0030_The_Hustler_00.38.01.523-00.38.04.108 	The residue of a full day's traveling is in evidence: crumpled paper towels, cigarette butts, etc.
-0030_The_Hustler_01.07.14.999-01.07.22.098 	He thinks for a moment, then angrily crumples the paper in his hands and throws it at her.
-1009_Spider-Man3_02.02.13.153-02.02.24.500 	as his huge left arm crumples into the ground leaving out of dust, the crowd whoop their delight.
+0003_CASABLANCA_01.40.27.087-01.40.32.735 	rick now shoots at strasser, who crumples to the ground.
+0004_Charade_00.20.22.873-00.20.24.739 	a can of lighter fluid stands open on the desk and a crumpled hankie beside it.
+0008_Fargo_00.32.01.903-00.32.04.399 	his headlights show the car up ahead off the road, crumpled around a telephone pole, having failed to hold a turn.
+0012_Get_Shorty_01.18.03.175-01.18.09.580 	harry, a crumpled heap, looks up and we see his bloody pummeled face as ray bones quickly crosses the room.
+0017_Pianist_01.27.55.794-01.28.04.539 	he is galvanised into action, puts on a crumpled jacket, grabs his tattered coat and scarf, collects up a few of his things, stuffs them into a paper bag.
+0019_Pulp_Fiction_01.35.25.393-01.35.28.811 	butch sits dazed and confused in the crumpled mess of what at one time was fabienne's honda.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.29.21.524-02.29.33.133 	frodo crumpling to the ground as the red light hits him like a searchlight.
+0027_The_Big_Lebowski_01.39.09.670-01.39.16.707 	he shoves the big lebowski forward and he crumples to the floor, weeping.
+0029_The_Graduate_00.30.26.978-00.30.43.412 	ben writes his name on the card and then stares at it for a moment, crumples it up and fills out a second card.
+0030_The_Hustler_00.34.16.573-00.34.27.966 	eddie gropes through his pockets and comes up with a few crumpled bills.
+0030_The_Hustler_00.38.01.523-00.38.04.108 	the residue of a full day's traveling is in evidence: crumpled paper towels, cigarette butts, etc.
+0030_The_Hustler_00.50.12.067-00.50.14.956 	from his pocket he pulls out the few crumpled bills he has left.
+0030_The_Hustler_01.07.14.999-01.07.22.098 	he thinks for a moment, then angrily crumples the paper in his hands and throws it at her.
+1005_Signs_00.56.53.180-00.57.00.536 	his lips curled and features crumpled, he nods sufferingly.
 1011_The_Help_01.09.23.825-01.09.30.328 	her face crumples with the pain of the recollection.
-1011_The_Help_01.27.01.901-01.27.07.720 	in the bed, celia's face crumples in a tearful grimace.
-1015_27_Dresses_01.12.52.117-01.12.56.415 	jane crumples up the paper, throws it at kevin, and leaves.
+1028_No_Reservations_00.13.39.276-00.13.41.686 	zoe's anguished face is crumpled.
+1049_Harry_Potter_and_the_chamber_of_secrets_01.14.23.060-01.14.27.687 	as he stares at the crumpled hat, it starts to speak.
+1049_Harry_Potter_and_the_chamber_of_secrets_01.51.39.696-01.51.42.385 	a crumpled piece of paper.
 1051_Harry_Potter_and_the_goblet_of_fire_00.43.02.151-00.43.07.471 	he crumples up the newspaper and throws it into the fireplace.
 2004_Juno_01.15.26.433-01.15.35.692 	she hops off the hood and scurries into the previa where she finds a crumpled up jiffy lube receipt.
-2004_Juno_01.15.26.433-01.15.35.692 	she hops off the hood and scurries into the previa where she finds a crumpled up jiffy lube receipt.
+2005_Signs_01.36.47.089-01.36.47.219 	he falls to the carpet of the family room in an unnatural crumpled pile.
+2012_Unbreakable_01.24.18.665-01.24.19.260 	his crumpled tie lies folded over itself on his still chest.

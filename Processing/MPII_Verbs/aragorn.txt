@@ -1,33 +1,15 @@
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.38.55.662-01.38.57.694 	aragorn warily approaches boromir.
 0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.56.10.389-01.56.14.301 	aragorn and boromir slam and wedge the doors.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.56.14.301-01.56.16.276 	boromir catches sight of something; he turns to aragorn with shock in his eyes.
 0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_01.57.07.333-01.57.10.902 	aragorn and boromir wade into the mass of goblins with their swords.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.00.57.728-02.00.59.936 	aragorn rushes to frodo's side as he slumps to the floor.frodo appears to be dead.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.00.59.936-02.01.05.890 	gandalf, aragorn, hobbits looking horrified.
 0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.04.14.941-02.04.15.836 	aragorn hesitates.gandalf looks at him.
 0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.04.15.836-02.04.18.444 	aragorn looks at gandalf, concerned.
 0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.05.19.962-02.05.23.090 	the fellowship race down the stairway, aragorn picks up frodo.leaping across a gaping chasm.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.05.31.826-02.05.36.130 	a narrow bridge, spanning a bottomless pit.gandalf yells to the others: aragorn makes to throw gimli across the chasm.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.11.18.920-02.11.27.022 	aragorn scours ahead of the company, as they stumble on in the fading light.in the distance the shimmer of a large forest can be seen.lothlorien.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.17.32.394-02.17.38.624 	boromir feels aragorn's love for minas tirith and takes heart.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.27.04.562-02.27.05.539 	aragorn watches them with concern.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.29.09.248-02.29.10.466 	legolas turns to aragorn with urgency.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.29.31.532-02.29.32.864 	aragorn looks at legolas, knowing full well what he means.
 0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.38.07.297-02.38.16.007 	aragorn desperately slashes his way towards boromir, felling uruk-hai in his path.while legolas and gimli fight a rear guard action.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.41.58.431-02.42.00.427 	boromir holds aragorn's gaze.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.10.01.435-00.10.02.759 	gandalf, aragorn, legolas and gimli stare at the sight before them.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.11.30.929-00.11.42.061 	aragorn turns as, quick as a flash, pippin has jumped off his horse and picked up -- the palantir.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.12.52.789-00.12.53.175 	amidst the cheering crowd, eowyn moves towards aragorn.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.14.38.126-00.14.42.923 	gandalf turns quickly to aragorn.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.19.08.889-00.19.18.573 	aragorn joins legolas on the steps to the golden hall, oblivious to the chill wind.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.21.31.835-00.21.34.991 	aragorn spins away, reeling backwards, the palantir falling from his hands.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.23.11.056-00.23.13.308 	aragorn, legolas, and gimli look on.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.23.40.187-00.23.42.003 	the wizard turns towards aragorn.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.26.22.753-00.26.29.027 	merry clambers up a watchtower, aragorn in pursuit.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.27.32.610-00.27.35.940 	aragorn, a little older, dressed in the casual finery of a gondorian noble.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.27.54.676-00.28.10.043 	arwen as she realizes she is staring at a future that can never be, the child she and aragorn will never have.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.49.23.924-00.49.36.942 	pull back: aragorn runs towards the golden hall.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.49.54.601-00.49.58.244 	slowly it rises -- he looks aragorn in the eye.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.11.10.485-01.11.16.891 	aragorn, theoden, eomer, merry, legolas and gimli gallop into a vast camp beneath the cover of trees.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.11.38.666-01.11.40.509 	aragorn joins theoden on a bluff overlooking the encampment.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.13.15.252-01.13.19.674 	aragorn stands before the road as though transfixed.
@@ -37,40 +19,17 @@
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.17.40.946-01.17.42.689 	aragorn looks at elrond in shock.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.19.26.429-01.19.27.911 	aragorn re-sheathes the sword.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.19.55.081-01.20.04.413 	aragorn looks at her sadly, not wanting to hurt her.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.20.28.083-01.20.32.691 	aragorn leads his horse through the tents towards the dimholt road.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.20.36.581-01.20.37.874 	aragorn looks at gimli -- grateful for his courage but determined to go alone.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.20.42.648-01.20.45.526 	aragorn looks at legolas as he appears, leading his horse -- already saddled.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.20.48.635-01.20.49.594 	gimli steps closer to aragorn.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.20.51.877-01.20.53.360 	aragorn shakes his head, smiling his acceptance.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.20.53.360-01.21.03.135 	aragorn, legolas and gimli as they slowly ride towards the back of the plateau.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.21.19.387-01.21.23.752 	aragorn, legolas and gimli disappear into the shadows of the mountains.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.23.23.627-01.23.25.467 	aragorn, legolas and gimli make their way up a gloomy canyon, shadowed by black fir trees.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.27.29.198-01.27.31.744 	angles on: aragorn, legolas and gimli look on in horror, as a mummified spectre looms before them: eyeless sockets.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.28.13.890-01.28.14.017 	aragorn holds his gaze.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.28.14.872-01.28.20.503 	the king of the dead moves relentlessly towards aragorn.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.28.25.049-01.28.37.269 	aragorn, legolas and gimli are now surrounded by an army of the dead.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.28.48.405-01.28.55.849 	the king of the dead snarls and raises his deadly sword above aragorn' s head.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.28.55.849-01.28.56.946 	slow motion: aragorn raises his sword in answer.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.29.02.225-01.29.03.342 	aragorn grabs the shocked ghost by the neck.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.29.03.342-01.29.05.267 	aragorn holds the sharp blade against the ghost's throat.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.12.20.707-02.12.32.465 	aragorn and legolas battle the orc -- legolas jumps onto the back of a giant mumakil bringing it down.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.24.50.820-02.24.54.240 	aragorn, his back to gandalf.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.25.24.882-02.25.27.718 	aragorn turns around suddenly.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.26.19.528-02.26.22.482 	aragorn wearing a breast plate emblazoned with the.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.28.33.458-02.28.49.925 	at the black gates, aragorn musters his men.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.29.45.286-02.29.50.588 	aragorn, gandalf, legolas, gimli, eomer, merry and pippin galloping towards the black gates.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.30.15.691-02.30.22.201 	aragorn moves his horse forward.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.30.54.578-02.31.02.406 	aragorn, gandalf, legolas, gimli, eomer, merry and pippin gallop back towards their small army as the orc masses slowly march toward them.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.31.32.285-02.31.35.306 	the massive orc army marching towards aragorn's.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.31.39.364-02.31.42.492 	aragorn gallops in front of his army.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.36.26.767-02.36.30.282 	aragorn and company watch as they are surrounded by a tide of orcs.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.42.06.949-02.42.22.520 	aragorn turns and is confronted by an armoured troll, wielding an enormous mallet.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.45.26.237-02.45.29.564 	the cave troll, with aragorn at his mercy, is distracted by the sounds emanating from mordor.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.52.33.554-02.52.50.098 	aragorn joins them -- the fellowship is complete.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.54.06.099-02.54.10.184 	aragorn smiles up at gandalf.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.54.15.556-02.54.26.792 	aragorn slowly rises, turning to face the crowd, who cheer and clap for their king.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.54.58.904-02.55.18.519 	aragorn sings for his people.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.56.48.658-02.57.08.891 	aragorn and arwen embrace.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.57.08.891-02.57.16.468 	aragorn and arwen walking through the crowd towards four small figures who stand nervously at the end of the.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.57.16.468-02.57.18.648 	aragorn and arwen look on frodo, sam, merry and pippin, as they stand before them.
-0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.57.21.517-02.57.24.277 	aragorn raises his hand.

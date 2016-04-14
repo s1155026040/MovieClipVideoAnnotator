@@ -1,1 +1,2 @@
-0007_DIE_NACHT_DES_JAEGERS_00.51.35.741-00.51.37.594 	JOHN is looking left and right, casing the joint.
+0007_DIE_NACHT_DES_JAEGERS_00.51.35.741-00.51.37.594 	john is looking left and right, casing the joint.
+1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_01.26.30.747-01.26.33.721 	the inner casing revolves to create an opening.

@@ -1,8 +1,3 @@
-HUGO.srt 	HUGO_DVS116 	00:15:16,00 --> 00:15:23,50 	he steps back and stares up at the building as a train passes along an elevated track nearby.
-KARATE_KID.srt 	KARATE_KID_DVS1047 	01:24:57,00 --> 01:25:21,50 	now, trying elevated push-ups, someone collapses.
 KARATE_KID.srt 	KARATE_KID_DVS1293 	01:44:35,00 --> 01:44:44,50 	elevated on a stack of books upon a chair.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS508 	01:36:19,00 --> 01:36:47,50 	as she skims a newspaper and turns up the radio, another elevated train passes in the windows.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS317 	00:51:07,00 --> 00:51:12,50 	a small room with an elevated bed.
-THE_VOW.srt 	THE_VOW_DVS522 	01:13:29,00 --> 01:13:35,50 	at dusk in the city, two elevated trains pass one another under the chicago skyline.
 THE_VOW.srt 	THE_VOW_DVS580 	01:20:37,00 --> 01:20:45,50 	back in the city, someone lumbers down a sidewalk parallel to elevated train tracks.
-THOR.srt 	THOR_DVS100 	00:14:57,00 --> 00:15:05,50 	they gallop along an elevated roadway which resembles a thin ribbon of water suspended in the air.

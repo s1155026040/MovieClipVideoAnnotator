@@ -5,7 +5,6 @@ A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS788 	01:19:20,00 --> 01:19
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS324 	00:58:26,00 --> 00:58:31,50 	someone grabs someone and shoves him toward the tree.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS387 	01:08:33,00 --> 01:08:40,50 	someone shoves someone into some shelves.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS117 	00:12:39,00 --> 00:12:44,50 	someone shoves someone out of his way.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS618 	01:27:15,00 --> 01:27:23,50 	someone lifts the laughing vampire from the box then shoves him aside and peeks in the hole himself.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS595 	01:33:38,00 --> 01:33:42,50 	one of the guys shoves him.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS600 	01:34:26,00 --> 01:34:33,50 	he shoves someone inside and locks the door.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS636 	01:38:06,00 --> 01:38:12,50 	someone shoves someone to someone, and someone to someone.
@@ -13,100 +12,54 @@ BLINDDATING.srt 	BLINDDATING_DVS59 	00:18:31,00 --> 00:18:38,50 	he shoves someo
 BRUNO.srt 	BRUNO_DVS37 	00:07:21,00 --> 00:07:25,50 	the guards easily shove him back.
 BURLESQUE.srt 	BURLESQUE_DVS137 	00:18:50,00 --> 00:19:02,50 	someone shoves someone offstage.
 BURLESQUE.srt 	BURLESQUE_DVS629 	01:34:38,00 --> 01:34:42,50 	she shoves past him.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS553 	00:53:24,00 --> 00:53:29,50 	he shoves the money inside and closes it.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS572 	00:55:26,00 --> 00:55:33,50 	standing at the top of a wave, someone shoves another surfer forcing him off his board.
 CHRONICLE.srt 	CHRONICLE_DVS385 	00:58:55,00 --> 00:59:00,50 	someone shoves someone who shoves back.
 CHRONICLE.srt 	CHRONICLE_DVS385 	00:58:55,00 --> 00:59:00,50 	someone shoves someone who shoves back.
-COLOMBIANA.srt 	COLOMBIANA_DVS1036 	01:37:46,00 --> 01:37:54,50 	he shoves her away but she wraps the towel around his neck and starts to choke him from behind.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS622 	01:24:47,00 --> 01:24:54,50 	someone uncomfortably shoves a hand into his pocket.
 DEAR_JOHN.srt 	DEAR_JOHN_DVS721 	01:36:37,00 --> 01:36:46,50 	one hand shoved in his pocket.
 EASY_A.srt 	EASY_A_DVS235 	01:12:47,00 --> 01:12:51,50 	she shoves him.
 GET_HIM_TO_THE_GREEK.srt 	GET_HIM_TO_THE_GREEK_DVS90 	00:50:54,00 --> 00:51:04,50 	his back to the railing, someone shoves the balloon into the back of his jeans and digs around.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS46 	00:07:39,00 --> 00:07:45,50 	someone meets his gaze then shoves a shirt in a bag.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS202 	00:32:32,00 --> 00:32:38,50 	someone shoves him against a wall and someone holds up a knife.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS207 	00:32:57,00 --> 00:33:02,50 	someone shoves the cellphone in someone's mouth.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS214 	00:34:18,00 --> 00:34:45,50 	a thug charges and he shoves the man away, setting him on fire.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS345 	00:51:49,00 --> 00:51:55,50 	he shoves half of the remaining sheathed twinkie into his mouth, then bites down on the wrapper using his teeth to hold the cake in place.
-HUGO.srt 	HUGO_DVS66 	00:08:42,00 --> 00:08:50,50 	the inspector shoves past the man, then pushes his way into a throng of travelers standing on a train platform.
-HUGO.srt 	HUGO_DVS76 	00:10:04,00 --> 00:10:10,50 	he slides a latch then shoves open the heavy door.
-HUGO.srt 	HUGO_DVS248 	00:35:16,00 --> 00:35:23,50 	he steps forward and lightly shoves the automaton, then flicks the tiny propeller.
-HUGO.srt 	HUGO_DVS300 	00:46:33,00 --> 00:46:39,50 	someone shoves his way through a crowd of people walking in the opposite direction.
-HUGO.srt 	HUGO_DVS569 	01:23:38,00 --> 01:23:47,50 	the engineer furiously turns a wheel then shoves a lever.
-IN_TIME.srt 	IN_TIME_DVS99 	00:10:48,00 --> 00:10:58,50 	now, in a large abandoned space, someone shoves the stranger onto a leather bench, then crosses to a wall of dirty broken windows.
 IN_TIME.srt 	IN_TIME_DVS916 	01:36:42,00 --> 01:36:55,50 	behind him, someone shoves his way past the flood of dayton residents.
-INSIDE_MAN.srt 	INSIDE_MAN_DVS89 	00:23:14,00 --> 00:23:25,50 	another shoves out an identical looking figure.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS166 	00:47:58,00 --> 00:48:03,50 	he shoves her inside.
 ITS_COMPLICATED.srt 	ITS_COMPLICATED_DVS268 	01:15:54,00 --> 01:15:58,50 	she shoves the cake at him.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS224 	00:42:21,00 --> 00:42:25,50 	she shoves him out of the kitchen.
 JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS559 	01:50:07,00 --> 01:50:16,50 	she shoves her arms into the sleeves of a sweater draped over her shoulders.
 JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS188 	01:06:30,00 --> 01:06:37,50 	someone shoves the kids back down on the bed.
 JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS207 	01:12:54,00 --> 01:12:59,50 	someone shoves someone into the pool.
-JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS239 	01:24:03,00 --> 01:24:09,50 	he shoves hay in its mouth and grabs her udder.
-JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS291 	01:34:54,00 --> 01:35:02,50 	now someone steps off of an elevator and crosses a hallway, with his hand shoved in his pockets.
-KARATE_KID.srt 	KARATE_KID_DVS37 	00:03:23,00 --> 00:03:32,50 	someone stands on a seat and shoves a satchel into an overhead bin.
 KARATE_KID.srt 	KARATE_KID_DVS205 	00:17:39,00 --> 00:17:46,50 	the boy shoves someone to the ground.
 KARATE_KID.srt 	KARATE_KID_DVS222 	00:19:14,00 --> 00:19:26,50 	she angrily shoves the bully, who stalks off.
 KARATE_KID.srt 	KARATE_KID_DVS495 	00:44:29,00 --> 00:44:35,50 	he shoves someone back into his group of friends.
-KARATE_KID.srt 	KARATE_KID_DVS501 	00:44:45,00 --> 00:44:51,50 	the man lifts someone's leg, then shoves him back.
 KARATE_KID.srt 	KARATE_KID_DVS675 	00:57:42,00 --> 00:57:49,50 	someone shoves a peg into the freshly drilled hole in the utility pole.
 KARATE_KID.srt 	KARATE_KID_DVS895 	01:13:10,00 --> 01:13:14,50 	someone shoves someone.
 KARATE_KID.srt 	KARATE_KID_DVS897 	01:13:13,00 --> 01:13:19,50 	he repeatedly jerks his arms up and shoves his teacher back.
-KARATE_KID.srt 	KARATE_KID_DVS1123 	01:33:11,00 --> 01:33:25,50 	nearing the auditorium, he shoves past waiting young musicians.
-KARATE_KID.srt 	KARATE_KID_DVS1235 	01:41:11,00 --> 01:41:16,50 	someone shoves the door open and climbs out.
 KARATE_KID.srt 	KARATE_KID_DVS1267 	01:42:37,00 --> 01:42:45,50 	someone thrusts his fists and strikes a pose, later, he shoves his hands out, palms forward.
 KARATE_KID.srt 	KARATE_KID_DVS1401 	01:52:47,00 --> 01:53:00,50 	he shoves someone off the mat.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS261 	00:34:40,00 --> 00:34:47,50 	someone stares at his son as he shoves pills into a banana.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS322 	00:40:10,00 --> 00:40:21,50 	the buddhist, captain and the sailor shove him onto the boat.
 LITTLE_FOCKERS.srt 	LITTLE_FOCKERS_DVS26 	00:11:10,00 --> 00:11:28,50 	someone's half, tears it in two, and shoves it in a wastebasket.
 MORNING_GLORY.srt 	MORNING_GLORY_DVS221 	00:49:27,00 --> 00:49:32,50 	she shoves him into a taxi.
-MORNING_GLORY.srt 	MORNING_GLORY_DVS326 	01:13:28,00 --> 01:13:34,50 	he raises his brows and shoves a pastry into his mouth.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS647 	01:18:41,00 --> 01:18:46,50 	with the pole, he shoves someone's hands into his face.
-PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS209 	00:53:35,00 --> 00:53:45,50 	she shoves the statue, which knocks into another, creating a domino effect that topples an entire row.
 PROMETHEUS.srt 	PROMETHEUS_DVS501 	00:52:32,00 --> 00:52:36,50 	holloway shoves back his hood.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS158 	00:28:42,00 --> 00:28:53,50 	someone swaps looks with gilbert, then shoves through a revolving door.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS330 	01:02:45,00 --> 01:02:59,50 	as he opens the door, someone shoves him into max and his accomplice hits bryant with his pipe.
-ROBIN_HOOD.srt 	ROBIN_HOOD_DVS276 	01:06:11,00 --> 01:06:17,50 	she gives a mocking curtsy, then storms off, shoving her fingers in her mouth.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS423 	01:45:37,00 --> 01:45:45,50 	now, soldiers shove someone into a building and yank
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS73 	00:12:45,00 --> 00:12:49,50 	he shoves the comforter aside.
-SALT.srt 	SALT_DVS527 	01:30:13,00 --> 01:30:19,50 	they shove her in and then one wraps a blanket around her shoulders.
-SANCTUM.srt 	SANCTUM_DVS243 	00:51:24,00 --> 00:51:29,50 	someone goes next, shoving his gear in before him.
-SANCTUM.srt 	SANCTUM_DVS471 	01:27:32,00 --> 01:27:43,50 	as someone rises with his flaming cylindrical container in hand, someone shoves fabric into the top of his own oil-filled container.
 SANCTUM.srt 	SANCTUM_DVS496 	01:31:39,00 --> 01:31:46,50 	as someone shoves more food into his mouth, someone rises.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS336 	00:22:53,00 --> 00:22:59,50 	someone shoves her friend, then allows a smile.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS962 	01:02:28,00 --> 01:02:35,50 	the butcher shoves her away, then grabs her by the tunic and flings her aside.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS478 	01:18:08,00 --> 01:18:14,50 	with one hand, he shoves sister to the
-SUPER_8.srt 	SUPER_8_DVS29 	00:03:24,00 --> 00:03:33,50 	the front door flies open as dark-haired someone leads the struggling someone out of the house in handcuffs, and shoves him into the back of a squad car.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS115 	00:17:33,00 --> 00:17:38,50 	someone shoves open the door and turns on the lights.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS152 	00:24:03,00 --> 00:24:09,50 	a burly man presses a rag over someone's face, then shoves him into a crate.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS189 	00:28:02,00 --> 00:28:08,50 	he shoves the crate against the wall, climbs onto it and opens a porthole.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS234 	00:36:11,00 --> 00:36:20,50 	a sleeping man rolls on top of someone, but he shoves him off.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS270 	00:39:48,00 --> 00:39:54,50 	someone shoves another lifeboat over the side of the boat as snowy jumps in.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS291 	00:41:44,00 --> 00:41:50,50 	someone grabs someone and shoves him against a railing.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS475 	01:09:01,00 --> 01:09:08,50 	sir someone shoves him then cuts lose another lantern, which falls onto the trail of powder.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS487 	01:10:24,00 --> 01:10:31,50 	someone shoves someone out of a window.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS535 	01:15:26,00 --> 01:15:30,50 	someone shoves it into someone's hand.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS107 	00:25:04,00 --> 00:25:11,50 	someone shoves the door open.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS386 	01:14:14,00 --> 01:14:31,50 	he shoves the boy, then envelops him in a proud embrace.
 THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS61 	00:11:50,00 --> 00:11:55,50 	he shoves him into an suv.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS314 	00:57:27,00 --> 00:57:37,50 	as they speed forward, shoving against each other, someone spots an suv headed straight for the thug's vehicle.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS516 	01:33:13,00 --> 01:33:24,50 	as ray shoves her off, she grabs a bottle.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS582 	01:45:18,00 --> 01:45:23,50 	gelman shoves a cuffed someone toward a holding cell.
-THE_CALL.srt 	THE_CALL_DVS1100 	01:22:43,00 --> 01:23:03,50 	she pulls away with all her might and someone takes her head and shoves it into the utility sink full of water.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS397 	00:47:16,00 --> 00:47:22,50 	bending over a toilet she shoves a finger down her throat then vomits.
-THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1380 	02:27:59,00 --> 02:28:05,50 	she takes off her necklace, wraps it in a paper towel and shoves it in the trash.
 THE_SOCIAL_NETWORK.srt 	THE_SOCIAL_NETWORK_DVS111 	00:35:33,00 --> 00:35:37,50 	shoves the door open and darts out.
 THE_VOW.srt 	THE_VOW_DVS120 	00:12:20,00 --> 00:12:27,50 	with a frustrated look, she smacks the unfinished sculpture, then shoves the table away.
 THE_VOW.srt 	THE_VOW_DVS630 	01:26:23,00 --> 01:26:28,50 	someone shoves down her bicycle.
 THE_WATCH.srt 	THE_WATCH_DVS164 	00:30:44,00 --> 00:30:50,50 	as someone approaches, they shove the boy to his knees at the front desk.
-THE_WATCH.srt 	THE_WATCH_DVS181 	00:32:56,00 --> 00:33:01,50 	he drops the egg and shoves off on his board.
-THINK_LIKE_A_MAN.srt 	THINK_LIKE_A_MAN_DVS287 	01:16:44,00 --> 01:16:51,50 	as someone leaves the couple, he shoves one of the hors d'oeuvres into his mouth.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS464 	01:21:59,00 --> 01:22:19,50 	heinrich shoves the body out and drives on.
-THOR.srt 	THOR_DVS237 	00:32:07,00 --> 00:32:16,50 	another man wraps someone in a bear hug, but someone shoves him away.
-THOR.srt 	THOR_DVS239 	00:32:17,00 --> 00:32:22,50 	three men grab someone and shove him against a door.
-THOR.srt 	THOR_DVS577 	01:29:21,00 --> 01:29:31,50 	holding the war hammer out in front of himself, someone dives and shoves someone into the destroyer's open visor.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS126 	00:14:22,00 --> 00:14:25,50 	someone shoves him.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS416 	00:44:50,00 --> 00:44:55,50 	his hands shoved in his pockets.
-TRUE_GRIT.srt 	TRUE_GRIT_DVS212 	00:44:20,00 --> 00:44:25,50 	someone comes out of the shack and shoves one of the kids to the ground.
 UGLY_TRUTH.srt 	UGLY_TRUTH_DVS276 	00:27:08,00 --> 00:27:13,50 	someone shoves an earpiece into the cocky host's ear.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS592 	01:30:24,00 --> 01:30:31,50 	the boy staggers sideways, then shoves him back good-naturedly.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS288 	00:40:29,00 --> 00:40:33,50 	in the present, she shoves someone.

@@ -1,6 +1,2 @@
 BURLESQUE.srt 	BURLESQUE_DVS253 	00:36:22,00 --> 00:36:27,50 	at the club, she rehearses with the girls at the end of the line.
-BURLESQUE.srt 	BURLESQUE_DVS313 	00:43:33,00 --> 00:43:41,50 	at the lounge, a bartender carries crates of glasses and the band rehearses.
-EASY_A.srt 	EASY_A_DVS148 	00:45:52,00 --> 00:46:08,50 	a dance team reads a text, as they rehearse a can-can.
 KARATE_KID.srt 	KARATE_KID_DVS1327 	01:47:27,00 --> 01:47:33,50 	someone paces across a mat, loosely rehearsing a sequence.
-KATY_PERRY_PART_OF_ME.srt 	KATY_PERRY_PART_OF_ME_DVS29 	00:04:08,00 --> 00:04:14,50 	someone and others rehearse or perform live on stage.
-PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS164 	00:41:21,00 --> 00:41:29,50 	at the music academy for the arts, someone beams proudly as a window shows someone rehearsing a piece on the violin.

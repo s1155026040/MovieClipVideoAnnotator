@@ -1,5 +1,3 @@
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.11.18.920-02.11.27.022 	Aragorn scours ahead of the company, as they stumble on in the fading light.in the distance the shimmer of a large forest can be seen.Lothlorien.
-1004_Juno_00.20.53.230-00.20.56.067 	They sit on a park bench scouring the paper.
-1004_Juno_01.20.42.105-01.20.47.548 	Through the slats, on Bleeker's upstairs window blinds, Juno and Leah can be seen scouring to the Previa.
-1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.25.55.853-00.26.00.616 	death eaters scour the village.
+1004_Juno_00.20.53.230-00.20.56.067 	they sit on a park bench scouring the paper.
+1004_Juno_01.20.42.105-01.20.47.548 	through the slats, on bleeker's upstairs window blinds, juno and leah can be seen scouring to the previa.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.25.55.853-00.26.00.616 	death eaters scour the village.

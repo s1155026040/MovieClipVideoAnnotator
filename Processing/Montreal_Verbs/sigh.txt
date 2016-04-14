@@ -1,10 +1,6 @@
-A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS345 	01:00:17,00 --> 01:00:22,50 	someone gazes around the empty house then sighs.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS424 	01:00:11,00 --> 01:00:17,50 	he relaxes and faces speed who sighs.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS126 	00:09:56,00 --> 00:10:00,50 	he sighs.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS163 	00:25:27,00 --> 00:25:31,50 	someone sighs tearfully.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS791 	00:53:06,00 --> 00:53:11,50 	she sighs excitedly, expelling a foggy breath.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS387 	00:59:40,00 --> 00:59:46,50 	someone glances at someone with a faint smile, then sighs.
 THOR.srt 	THOR_DVS454 	01:13:42,00 --> 01:13:47,50 	someone studies her notebook, then sighs.
-WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS583 	01:20:08,00 --> 01:20:13,50 	she sighs as she gazes out pensively.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS83 	00:06:07,00 --> 00:06:12,50 	someone sighs remorsefully.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS736 	01:06:51,00 --> 01:06:57,50 	he sighs heavily and his expression grows resolute.

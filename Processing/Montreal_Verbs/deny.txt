@@ -1,3 +1,1 @@
-COLOMBIANA.srt 	COLOMBIANA_DVS594 	00:56:03,00 --> 00:56:08,50 	a message appears, "access denied."
 SPARKLE_2012.srt 	SPARKLE_2012_DVS510 	01:21:53,00 --> 01:22:01,50 	bail denied pending trial."
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS709 	01:42:33,00 --> 01:42:40,50 	someone holds a pen between two checkboxes labeled, denied and approved.

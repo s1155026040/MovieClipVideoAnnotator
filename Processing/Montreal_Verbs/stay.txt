@@ -2,25 +2,8 @@
 500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS162 	00:30:23,00 --> 00:30:27,50 	and he stays thoughtfully on the bed.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS334 	00:29:47,00 --> 00:29:55,50 	he stays the cars with an outstretched hand.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS449 	00:43:22,00 --> 00:43:26,50 	staying close to her father, someone notices someone with a bewildered vulnerable gaze.
-BLINDDATING.srt 	BLINDDATING_DVS157 	00:41:16,00 --> 00:41:23,50 	they stand staying face to face.
-BRUNO.srt 	BRUNO_DVS39 	00:07:28,00 --> 00:07:34,50 	he steps away, gesturing for us to stay back.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS284 	00:21:42,00 --> 00:21:49,50 	he skirts the ends of the pursuing white water, staying up as the wave diminishes.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS968 	01:35:01,00 --> 01:35:07,50 	staying by someone's side, someone lowers his emotional gaze.
-CHRONICLE.srt 	CHRONICLE_DVS24 	00:03:23,00 --> 00:03:29,50 	now with the car parked, the camera stays on the driver.
-CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS109 	00:25:15,00 --> 00:25:32,50 	the manager stays put, staring somberly after the promoter.
 FLIGHT.srt 	FLIGHT_DVS157 	00:31:21,00 --> 00:31:25,50 	but someone stays back.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS336 	00:50:52,00 --> 00:51:01,50 	as the bike comes to a full stop, its rear wheels stay up in the air for a moment then drops back to the ground.
-KARATE_KID.srt 	KARATE_KID_DVS1446 	01:57:38,00 --> 01:57:47,50 	he rushes at someone ping again, but the referee forces him back, gestures firmly for him to stay, and signals him with a flag.
-LIFE_OF_PI.srt 	LIFE_OF_PI_DVS353 	00:42:54,00 --> 00:43:02,50 	staying under, someone swims past a shark as he makes his way beyond the lifeboat.
 LIFE_OF_PI.srt 	LIFE_OF_PI_DVS785 	01:20:19,00 --> 01:20:24,50 	he stays alert with the spear in hand.
 PROMETHEUS.srt 	PROMETHEUS_DVS368 	00:36:08,00 --> 00:36:16,50 	staying someone with a hand, holloway ventures forward.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1422 	01:36:41,00 --> 01:36:48,50 	we have to look inside ourselves to find what stays the same.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS284 	00:55:07,00 --> 00:55:16,50 	the sober faced teachers stay put as someone gets up from the couch and exits.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS292 	00:54:03,00 --> 00:54:09,50 	she stays put.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS469 	01:09:23,00 --> 01:09:29,50 	staying put, someone narrows his eyes.
-THOR.srt 	THOR_DVS129 	00:18:43,00 --> 00:18:51,50 	staying close together, the warriors make their way over uneven shelves of fractured ice.
-THOR.srt 	THOR_DVS421 	01:06:18,00 --> 01:06:25,50 	eyes darting, he stays by someone's side as they walk outdoors.
 WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS498 	01:17:05,00 --> 01:17:10,50 	spar stays up on his boulder.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1192 	01:46:31,00 --> 01:46:38,50 	staying on his tail, she spits several fireballs, strafing the sea.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1323 	02:00:05,00 --> 02:00:10,50 	while someone, someone, and beast stay put across the beach
-ZOMBIELAND.srt 	ZOMBIELAND_DVS366 	00:41:39,00 --> 00:41:45,50 	staying out of its line of sight, someone shoots a zombie as it runs out.

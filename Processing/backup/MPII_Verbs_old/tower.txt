@@ -1,19 +1,22 @@
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.26.46.574-00.27.08.360 	Thousands of ORCS crawl over the surface, hauling stone and iron up the towering heights, grows and spreads across the red streaked sky.casting a shadowy pall over the nightmarish landscape.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.50.10.733-00.50.13.774 	Tall buildings tower above them.lights glow dimly from behind thick curtains.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.27.44.746-02.27.49.498 	Two enormous rock statues, towering like 300 foot pinnacles on either side of the river.carved images of Gondorian kings of old.
-0026_The_Big_Fish_00.40.14.648-00.40.15.829 	Now all the trees are moving to block him, their dark shapes towering over him in the flashes of LIGHTNING.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.50.10.733-00.50.13.774 	tall buildings tower above them.lights glow dimly from behind thick curtains.
+0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_02.27.44.746-02.27.49.498 	two enormous rock statues, towering like 300 foot pinnacles on either side of the river.carved images of gondorian kings of old.
+0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_02.29.50.588-02.30.07.329 	they pull up less than 50 yards from the towering gates.
+0026_The_Big_Fish_00.40.14.648-00.40.15.829 	now all the trees are moving to block him, their dark shapes towering over him in the flashes of lightning.
+1003_How_to_Lose_Friends_and_Alienate_People_00.16.46.888-00.16.53.273 	strolls through time square in a tee-shirt, saw garish billboards compete with towering glass walled office blocks.
 1008_Spider-Man2_00.00.02.371-00.00.21.633 	set against a moody blue sky with towering white and gold clouds, a woman in grecian-style robes holds aloft a shining torch.
 1009_Spider-Man3_00.32.39.539-00.32.47.019 	a huge, towering jib crane swings around as its driver struggles with the controls.
 1009_Spider-Man3_01.56.37.570-01.56.44.085 	out of a moving mountain of sand sandman rises to his feet, towering over the cowering crowd like a colossus.
+1011_The_Help_00.48.39.198-00.48.46.588 	chubby faced sugar who towers above minnie listens obediently.
 1014_2012_01.51.43.021-01.51.49.331 	the huge waves tower over the satnam and head straight for the refugees.
 1015_27_Dresses_00.12.40.084-00.12.51.919 	its glow makes a dark silhouette of the towering city skyline and sunbathes the buildings lining central park as rush hour begins.
 1015_27_Dresses_01.39.44.402-01.39.52.900 	the wedding boat cruises gently in front of the twinkling backdrop of the towering city lights.
 1018_Body_Of_Lies_01.10.00.409-01.10.06.999 	cranes stand beside buildings under construction, which, without their glass cladding, resemble towering honeycombs.
+1026_Legion_01.28.28.683-01.28.36.343 	jeep stares up at gabriel who towers over him with the knife ready.
 1029_Pride_And_Prejudice_Disk_One_01.37.35.684-01.37.39.936 	mr. darcy stands, towering over mr. collins.
 1031_Quantum_of_Solace_00.00.13.177-00.00.25.706 	light flares from a torch held aloft by a robed woman standing on a pedestal in front of a sky dominated by towering clouds.
+1031_Quantum_of_Solace_00.00.36.713-00.00.40.414 	towering crags rise out of a shining sea.
+1035_The_Adjustment_Bureau_00.35.48.559-00.35.53.684 	now, our view sweeps down the front of his towering apartment building.
+1051_Harry_Potter_and_the_goblet_of_fire_00.18.07.064-00.18.09.655 	she towers over professor dumbledore.
+1052_Harry_Potter_and_the_order_of_phoenix_01.29.33.679-01.29.35.634 	he towers over them.
+1053_Harry_Potter_and_the_philosophers_stone_00.39.11.950-00.39.18.403 	it towers above them as the fleet of little boats glides closer to the cliff on which it stands.
 1053_Harry_Potter_and_the_philosophers_stone_01.22.23.773-01.22.36.060 	the snitch flips from tower to tower then suddenly change his course and head straight for the ground.
-1062_Day_the_Earth_stood_still_00.17.18.605-00.17.22.664 	it passes behind the towering empire state building.
-1062_Day_the_Earth_stood_still_00.21.18.283-00.21.33.247 	the apache circles the sphere as lights blaze out from the interior then concentrate at the base of the towering object.
-1053_Harry_Potter_and_the_philosophers_stone_01.22.23.773-01.22.36.060 	the snitch flips from tower to tower then suddenly change his course and head straight for the ground.
-1062_Day_the_Earth_stood_still_00.17.18.605-00.17.22.664 	it passes behind the towering empire state building.
-1062_Day_the_Earth_stood_still_00.21.18.283-00.21.33.247 	the apache circles the sphere as lights blaze out from the interior then concentrate at the base of the towering object.

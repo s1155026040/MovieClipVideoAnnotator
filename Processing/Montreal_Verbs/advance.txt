@@ -1,24 +1,9 @@
-30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS280 	01:05:17,00 --> 01:05:23,50 	advancing through a hallway he creeps past a windowed door.
-BURLESQUE.srt 	BURLESQUE_DVS499 	01:09:24,00 --> 01:09:31,50 	back in the lounge, the dancers advance downstage, reaching their hands toward the audience.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS540 	01:35:54,00 --> 01:36:06,50 	someone carries a machine gun as she runs alongside the advancing soldiers.
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS312 	01:14:46,00 --> 01:14:59,50 	as they advance on each other in slow motion.
 DISTRICT_9.srt 	DISTRICT_9_DVS703 	01:22:29,00 --> 01:22:34,50 	men advance on the overturned pickup.
 DISTRICT_9.srt 	DISTRICT_9_DVS800 	01:34:50,00 --> 01:34:54,50 	a rifle as he advances on someone.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS348 	01:18:48,00 --> 01:19:14,50 	scant light and shadows crisscrossing the street play across someone's face as he advances.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS364 	01:23:47,00 --> 01:23:56,50 	outside, someone and his men advance down an alley.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS512 	01:32:27,00 --> 01:32:36,50 	on the huge screen behind the stage, "hammer advanced weapons systems."
-KARATE_KID.srt 	KARATE_KID_DVS412 	00:37:38,00 --> 00:37:47,50 	at the back of the advancing group, someone pauses and turns around.
-KARATE_KID.srt 	KARATE_KID_DVS498 	00:44:37,00 --> 00:44:45,50 	he stops them, then advances on mr.
-PROMETHEUS.srt 	PROMETHEUS_DVS213 	00:15:57,00 --> 00:16:02,50 	a living area appears before him as he advances.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS219 	00:40:34,00 --> 00:40:47,50 	he advances cautiously.
-SORCERERS_APPRENTICE.srt 	SORCERERS_APPRENTICE_DVS121 	00:23:47,00 --> 00:23:56,50 	someone rushes up some stairs, then stops on a landing, and watches the wolves advance past the man entering the apartment building.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS445 	01:05:02,00 --> 01:05:11,50 	he advances toward the masked red someone, who throws open his cape and swings his sword.
-THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS542 	01:18:49,00 --> 01:18:56,50 	walking side by side, they advance on the large cottage occupied by the speers.
-THE_WATCH.srt 	THE_WATCH_DVS45 	00:05:47,00 --> 00:05:53,50 	advancing cautiously, he scans the surrounding shelves.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS466 	01:22:26,00 --> 01:22:35,50 	someone reverses as they advance head on.
-THOR.srt 	THOR_DVS524 	01:23:59,00 --> 01:24:09,50 	nearby, someone crouches behind a parked car as the destroyer continues to advance.
-TRUE_GRIT.srt 	TRUE_GRIT_DVS399 	01:19:29,00 --> 01:19:34,50 	someone takes a rifle from over his shoulder and advances a few steps with the gun leveled at her.
-WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS277 	00:44:25,00 --> 00:44:32,50 	the boy takes a recoiling step back, then looks around uneasily as he advances.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS42 	00:03:20,00 --> 00:03:25,50 	he advances, his lips unmoving.
-ZOMBIELAND.srt 	ZOMBIELAND_DVS682 	01:15:24,00 --> 01:15:30,50 	at the drop ride, little someone fires at the advancing zombies.
-ZOMBIELAND.srt 	ZOMBIELAND_DVS750 	01:20:37,00 --> 01:20:43,50 	he glances at someone and they cautiously advance.

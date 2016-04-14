@@ -1,0 +1,3 @@
+KARATE_KID.srt 	KARATE_KID_DVS928 	01:15:59,00 --> 01:16:14,50 	someone leads someone off the train and hails a motorcycle taxi.
+MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS303 	00:39:10,00 --> 00:39:17,50 	someone steps outside in a tuxedo and waves to hail a cab.
+ROBIN_HOOD.srt 	ROBIN_HOOD_DVS31 	00:04:47,00 --> 00:05:01,50 	the third archer hails distant horsemen.

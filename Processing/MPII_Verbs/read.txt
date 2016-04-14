@@ -1,258 +1,112 @@
-0001_American_Beauty_00.24.09.412-00.24.10.083 	the colonel sits at a dinette reading the wall street journal.
-0001_American_Beauty_00.30.02.434-00.30.06.710 	we follow them as they pass a sign that reads.
-0001_American_Beauty_00.51.26.234-00.51.29.162 	brad is seated behind his desk, reading a document.
 0001_American_Beauty_00.57.06.917-00.57.07.680 	as she hands him his food, he notices a sign in the corner of the window that reads.
-0002_As_Good_As_It_Gets_00.06.09.635-00.06.12.588 	he barely reacts as we hear a loud knocking at he reads.
-0002_As_Good_As_It_Gets_00.11.40.623-00.11.41.946 	if we could read melvin which we can't, we'd see him unsettled by the date talk.
-0002_As_Good_As_It_Gets_00.35.35.090-00.35.37.384 	melvin whaling away at his computer, reading to himself with great satisfaction as he goes.
 0002_As_Good_As_It_Gets_00.35.40.366-00.35.51.545 	he reads his writing aloud to the dog.
 0002_As_Good_As_It_Gets_02.04.51.898-02.04.56.157 	the windows open, reading one of melvin's books.
-0003_CASABLANCA_00.41.49.592-00.41.55.505 	they buy a newspaper and begin to read it.
 0004_Charade_00.09.47.436-00.09.48.723 	he stoops to read it.
-0004_Charade_00.12.29.812-00.12.48.118 	grandpierre hands her the letter and watches her closely as she reads it.
-0004_Charade_00.19.17.006-00.19.20.843 	she pulls out the letter and starts to read it.
-0004_Charade_00.19.30.377-00.19.30.489 	sylvie has been reading over reggie's shoulder.
-0004_Charade_01.04.55.297-01.04.57.123 	gideon has put the wallet aside and now picks up the letter, removing it from the envelope and reading it.
-0004_Charade_01.13.59.795-01.14.03.042 	he opens his coat and reads a label inside.
-0004_Charade_01.25.34.301-01.25.34.845 	he takes it out of the envelope and takes out his glasses before reading it.
-0005_Chinatown_00.05.51.176-00.05.54.125 	some of the councilmen are reading funny papers and gossip columns while bagby is speaking.
-0005_Chinatown_00.16.54.645-00.16.56.000 	in fact, almost all the customers are reading papers.
 0006_Clerks_00.04.45.458-00.04.47.594 	the banner reads i assure you, we're open.
 0006_Clerks_00.04.50.531-00.04.51.772 	the clock reads 6:20.
 0006_Clerks_00.10.22.472-00.10.23.455 	she reads it.
-0006_Clerks_00.32.22.105-00.32.26.354 	randal hardly stirs and continues to read his paper.
-0006_Clerks_00.32.51.490-00.32.52.219 	randal continues to read his paper, not looking up.
-0006_Clerks_00.32.51.852-00.32.53.859 	randal continues to read.
-0006_Clerks_00.32.57.474-00.33.00.119 	randal continues to read.
 0006_Clerks_00.33.03.821-00.33.29.925 	randal, as always, reads on.
 0006_Clerks_01.08.54.676-01.09.00.897 	randal reads it.
-0009_Forrest_Gump_00.17.07.309-00.17.08.025 	the black woman continues to read her magazine.
 0009_Forrest_Gump_00.57.52.828-00.58.01.821 	a soldier reads the names from a pile of letters.
 0009_Forrest_Gump_02.09.55.137-02.09.58.312 	jenny's grave marker reads: jenny gump july 16, 1945 -- march 22, 1982 beloved mother, wife and friend.
-0009_Forrest_Gump_02.10.05.956-02.10.09.988 	forrest jr. reads a book to forrest sitting next to him.
-0010_Frau_Ohne_Gewissen_00.16.37.879-00.16.40.555 	he reads it, sits down and leafs through his desk calendar.
-0010_Frau_Ohne_Gewissen_00.41.12.689-00.41.14.180 	she stops beside neff, who is pretending to read a label on a can.
-0010_Frau_Ohne_Gewissen_00.54.21.429-00.54.23.734 	four or five passengers are reading or writing.
-0011_Gandhi_00.12.10.646-00.12.20.939 	it is flat and dull, like someone reading a speech to themselves, and those in the crowd who had hesitated before wandering off shrug and continue on their way.
-0012_Get_Shorty_00.08.23.918-00.08.48.052 	chili and tommy each sit in a barber chair, reading the newspaper while fred and ed sit nearby playing checkers.
 0013_Halloween_00.40.18.926-00.40.21.023 	laurie sits with tommy doyle on the couch reading him a story.
-0014_Ist_das_Leben_nicht_schoen_00.07.26.526-00.07.28.141 	he is about to toss it aside when he starts to read it.
-0014_Ist_das_Leben_nicht_schoen_01.16.53.978-01.16.54.638 	george is walking along the sidewalk reading a newspaper.
-0014_Ist_das_Leben_nicht_schoen_02.06.59.339-02.07.12.103 	ernie is reading a telegram he has just received.
 0016_O_Brother_Where_Art_Thou_00.16.26.653-00.16.40.290 	pete pops the front and reads the inscription.
-0017_Pianist_00.45.57.176-00.45.59.105 	the szpilmans sit in the same place, with henryk sitting a little apart and now reading a small book.
-0017_Pianist_00.47.12.946-00.47.17.090 	szpilman takes the book and reads the title page.
 0017_Pianist_01.29.34.051-01.29.39.665 	he reads it.
 0020_Raising_Arizona_00.09.47.086-00.09.48.155 	a newscaster silently reading copy.
-0020_Raising_Arizona_00.10.39.364-00.10.41.124 	a pull back from the paper shows hi and ed reading it together at home.
-0020_Raising_Arizona_00.11.42.203-00.11.49.140 	florence sits reading dr. spock's baby and child care.
 0020_Raising_Arizona_00.24.53.308-00.24.53.658 	reading aloud.
-0020_Raising_Arizona_00.44.15.450-00.44.16.355 	ed is reading to nathan jr.from a large picture book.
-0021_Rear_Window_00.46.00.403-00.46.02.403 	she is reading a book held in one hand, while eating a sandwich in another.
-0021_Rear_Window_01.30.33.275-01.30.34.172 	she sits at the table, and by the light of the candle proceeds to open a black-covered book, and read it.
-0021_Rear_Window_01.52.00.060-01.52.01.159 	she is reading a book on travel.
 0022_Reservoir_Dogs_01.08.37.480-01.08.40.198 	he's reading it pretty good, but he's still reading it from the page, and every once in a while he stumbles over his words.
-0023_THE_BUTTERFLY_EFFECT_00.44.06.609-00.44.13.825 	evan opens it and begins reading it silently.
-0023_THE_BUTTERFLY_EFFECT_01.44.46.740-01.44.50.292 	lenny, utterly baffled, sits back in silence and watches evan begin reading his journal to himself for a beat.
 0023_THE_BUTTERFLY_EFFECT_01.45.34.812-01.45.37.142 	he reads to himself, then relaxes his head.
-0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.07.33.006-00.07.35.392 	the figure is reading a book.
 0024_THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_00.28.02.332-00.28.12.220 	he murmurs hurriedly to himself, reading.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_00.55.30.990-00.55.34.372 	gandalf reads the surprise in his eyes.
 0025_THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_01.07.34.800-01.07.37.647 	gandalf reads the pain in faramir's eyes.
-0026_The_Big_Fish_01.05.10.759-01.05.13.928 	sitting on the can, don price pinches a loaf while reading the new playboy.
-0026_The_Big_Fish_01.07.25.306-01.07.26.816 	reading it, his face drops.
-0027_The_Big_Lebowski_01.45.18.998-01.45.27.235 	he takes it, opens it, puts on reading glasses that sit halfway down his nose, and inspects the bill with his head pulled back for focus and cocked for concentration.
-0029_The_Graduate_01.34.11.352-01.34.19.877 	ben driving his car sound: an envelope being read.
-0029_The_Graduate_01.39.18.806-01.39.20.486 	the gas station attendant is sitting reading a stock car magazine.
-0030_The_Hustler_00.00.53.415-00.00.54.550 	the few people in armstead's this day are not playing; they sit and read the papers.
 0030_The_Hustler_00.09.13.950-00.09.16.384 	a sign on the brass bar reads no gambling allowed.
 0030_The_Hustler_00.36.43.483-00.36.47.463 	it reads ames billiards.
-0030_The_Hustler_00.38.10.141-00.38.17.894 	a sign on the wall reads is this your lucky day?
-0030_The_Hustler_00.45.50.831-00.45.56.203 	there is a long pause as she tries to read his face.
 0030_The_Hustler_01.06.32.727-01.06.34.264 	he bends down to read it.
-0030_The_Hustler_01.06.43.311-01.06.45.552 	eddie pulls the paper out of the carriage and reads it.
 0030_The_Hustler_02.08.54.480-02.08.58.340 	the clock over the door reads six o'clock.
-0032_The_Princess_Bride_00.02.23.595-00.02.29.330 	the story he's reading about, as the monochromatic look of the bedroom is replaced by the dazzling color of the english countryside.
 0033_Amadeus_00.24.08.239-00.24.09.651 	cu, salieri, reading the score of the adagio in helpless fascination.
-0033_Amadeus_01.02.13.086-01.02.15.387 	the court composer, oblivious to constanze, who sits happily chewing chestnuts, her mouth covered in sugar, walks around and around his salon, reading the pages and dropping them on the floor when he is done with them.
 0033_Amadeus_01.02.13.986-01.02.14.561 	more pages fall than he can read, scattering across the floor in a white cascade, as he circles the room.
 0033_Amadeus_02.40.50.600-02.40.56.617 	the entire confutatis bursts over the room, as mozart snatches the manuscript pages from salieri and reads from it, singing.
-0038_Psycho_00.31.59.163-00.32.23.178 	she opens the newspaper, places the envelope within it, lock-folds the paper again and then places it on the bedside table as if it were there for later reading.
-0041_The_Sixth_Sense_00.04.42.377-00.05.03.483 	she leans forward her seat and reads the certificate out loud as malcolm tries to tickle her.
 0041_The_Sixth_Sense_00.54.38.971-00.54.46.224 	the thermostat on the wall now reads, fifty-two degrees.
-0041_The_Sixth_Sense_01.21.14.321-01.21.19.921 	cole reads the labels carefully before moving towards the closets.
 0041_The_Sixth_Sense_01.25.07.692-01.25.09.525 	reads the label for the ingredients.
-0049_Hannah_and_her_sisters_00.28.19.757-00.28.31.588 	as lee continues to read aloud, the movie cuts to elliot's darkened den, lit by a light in the hallway.
-0049_Hannah_and_her_sisters_00.53.40.807-00.53.44.532 	she passes frederick, who sits at a table in the kitchen area, drinking a cup of coffee and reading the paper.
-0049_Hannah_and_her_sisters_00.57.31.462-00.57.43.772 	she continues to read her book as he sits down at the edge of the bed and muses.
-0049_Hannah_and_her_sisters_01.33.52.755-01.33.59.235 	he sits, picking at his fingers and listening, on the edge of the table in front of holly, who is sitting cross-legged on the floor, propped up with a pillow, reading her script aloud.
-0050_Indiana_Jones_and_the_last_crusade_01.07.43.295-01.07.47.404 	the camera moves in on the portion of the sign reading berlin.
 0050_Indiana_Jones_and_the_last_crusade_01.11.02.142-01.11.07.097 	henry leans in a doorway reading a newspaper as indy enters down the stairs and taps henry's shoulder.
-0050_Indiana_Jones_and_the_last_crusade_01.45.39.641-01.45.44.939 	holding the grail diary, reading once again, his fedora now covered in cobwebs.
 0051_Men_in_black_01.15.44.475-01.15.45.967 	viewing the screen, it now reads.
 1001_Flight_00.00.44.144-00.00.45.499 	in a room, a digital clock on a bedside table reads 7.13.
 1001_Flight_01.32.58.576-01.33.03.449 	he reads the letter using the light from a nearby window.
 1002_Harry_Potter_and_the_Half-Blood_Prince_00.22.50.233-00.22.51.388 	ginny reads the cover.
 1002_Harry_Potter_and_the_Half-Blood_Prince_00.36.19.502-00.36.23.565 	harry reads a note in his book.
-1002_Harry_Potter_and_the_Half-Blood_Prince_01.27.53.399-01.28.00.806 	as ron sits on the floor and gazes up at the moon, harry reads the card which came with the chocolates.
 1002_Harry_Potter_and_the_Half-Blood_Prince_01.36.46.388-01.36.50.314 	harry reads a note scrawled in his advanced potion book
 1003_How_to_Lose_Friends_and_Alienate_People_00.02.06.781-00.02.08.478 	a woman on stage reads her name.
-1003_How_to_Lose_Friends_and_Alienate_People_00.24.01.314-00.24.04.861 	ignoring sidney she opens a book and starts to read.
 1003_How_to_Lose_Friends_and_Alienate_People_00.36.48.360-00.36.51.781 	he reads the gift tag.
-1003_How_to_Lose_Friends_and_Alienate_People_01.17.43.423-01.17.45.072 	he glances about furtively, then opens it and starts to read.
 1003_How_to_Lose_Friends_and_Alienate_People_01.27.36.946-01.27.39.589 	alison reads an article on sydney in a magazine.
 1003_How_to_Lose_Friends_and_Alienate_People_01.27.46.280-01.27.49.312 	he reads over her shoulder.
 1003_How_to_Lose_Friends_and_Alienate_People_01.32.27.660-01.32.29.102 	signs read hollywood, beverly hills.
 1004_Juno_01.06.51.739-01.06.54.627 	she reads a title.
 1004_Juno_01.16.59.633-01.17.04.330 	vanessa grabs it from him and they both read it.
-1005_Signs_00.38.34.480-00.38.35.384 	he reads the army pamphlet he picked up in town and lazily chews gum.
-1006_Slumdog_Millionaire_00.42.07.312-00.42.10.092 	a sign reads guided tours visitors are requested to collect receipts.
-1007_Spider-Man1_00.33.50.504-00.33.54.931 	norman osborn is reading the daily bugle.
 1007_Spider-Man1_01.00.46.075-01.00.48.230 	he reads the bugle's reward for a spider-man photo.
-1008_Spider-Man2_00.25.06.126-00.25.21.436 	peter is in a laundromat, reading longfellow.
-1008_Spider-Man2_01.03.55.569-01.04.01.206 	he grabs it and screws up his eyes to try to read the headline and focus on the picture.
 1008_Spider-Man2_01.24.19.572-01.24.21.430 	peter reads it at a newsstand.
-1008_Spider-Man2_02.07.25.417-02.07.33.735 	he takes it from her, stares at her, then opens and reads its contents.
 1009_Spider-Man3_01.18.17.653-01.18.21.804 	later, they read the script.
-1010_TITANIC_01.15.59.742-01.16.05.154 	captain smith reads a note, then smiles at ruth.
 1010_TITANIC_01.36.19.669-01.36.20.890 	he reads the note.
 1011_The_Help_00.37.42.413-00.37.46.071 	aibileen's voice reads the words.
 1011_The_Help_00.42.50.889-00.42.54.933 	skeeter at the kitchen table reads from a list of questions.
-1011_The_Help_01.56.12.682-01.56.25.472 	at the retirement mrs walters is reading to some of the residents from the book.
-1011_The_Help_01.58.51.094-01.59.00.744 	at home, charlotte is sitting up in bed next to her sleeping husband, reading the book.
-1011_The_Help_01.59.07.018-01.59.12.540 	elizabeth, sitting in a rocking chair, is reading it as she bottle feeds her baby.
-1011_The_Help_01.59.14.659-01.59.20.656 	yule mae is reading to her prison inmates.
 1011_The_Help_01.59.24.824-01.59.29.684 	hilly's reading it in bed.
-1012_Unbreakable_00.08.27.246-00.08.32.935 	a man reading a book closes it and, like the woman beside him, begins to stare out of the window as the train begins to shake more violently.
-1012_Unbreakable_00.32.37.157-00.32.40.824 	david is sitting up on a bed, a pillow behind his head, reading the paper.
-1012_Unbreakable_01.34.05.081-01.34.06.747 	david continues to read the paper.
-1012_Unbreakable_01.34.11.081-01.34.19.309 	david continues to read, at last looking up and nodding.
 1014_2012_00.06.40.043-00.06.43.860 	anheuser reads the document in a quiet corner of the party.
-1014_2012_00.29.48.987-00.29.54.301 	jackson sits back and reads the text.
-1014_2012_01.11.17.528-01.11.21.645 	adrian enters and stands before anheuser, who tries to read his expression.
 1014_2012_01.53.53.406-01.53.57.073 	the old watch at the screen and now reads 2 hours, 6 minutes and 17 seconds.
 1014_2012_02.23.45.932-02.23.49.308 	laura sits behind him reading a book.
 1015_27_Dresses_00.21.31.124-00.21.36.239 	at night, in one of thousands of taxis, kevin reads jane's filofax.
-1017_Bad_Santa_00.13.24.916-00.13.32.699 	he climbs in and, opening the glove compartment, he takes out the tax disk and reads the address on it.
-1017_Bad_Santa_00.41.40.136-00.41.50.452 	he settles beside willie and opens the relevant door on the calendar, then reads what's written on the back of the door.
-1018_Body_Of_Lies_00.31.17.511-00.31.19.947 	a suave, middle-aged man sits at a table reading a newspaper.
 1018_Body_Of_Lies_00.34.47.245-00.34.52.439 	nearby, a man dressed in black sits reading.
-1018_Body_Of_Lies_00.55.28.343-00.55.42.880 	karami takes off his shades and reads a newspaper as he walks down a narrow street.
-1018_Body_Of_Lies_01.15.28.571-01.15.33.358 	marwan takes ferris to an office, where hani sits reading a newspaper.
-1018_Body_Of_Lies_01.29.21.423-01.29.26.047 	he frowns as he starts to read the messages.
 1019_Confessions_Of_A_Shopaholic_00.03.45.926-00.03.48.670 	in a washroom, her friend suze reads from rebecca's resume.
-1019_Confessions_Of_A_Shopaholic_00.09.14.298-00.09.17.728 	in a waiting room, she sits between two women and two men, all reading broadsheet papers.
-1019_Confessions_Of_A_Shopaholic_00.25.30.018-00.25.33.338 	she leans forward to read what's popped up.
 1019_Confessions_Of_A_Shopaholic_00.32.16.232-00.32.25.872 	her face folds as she reads the label.
-1020_Crazy_Stupid_Love_01.21.07.528-01.21.08.806 	jessica picks up the bunch of flowers and reads the note.
 1024_Identity_Thief_00.09.06.849-00.09.09.645 	the bottom name reads harold cornish $1.2 million
 1024_Identity_Thief_00.27.56.821-00.27.58.175 	he reads the address.
 1027_Les_Miserables_00.06.34.622-00.06.36.763 	the farmer reads them, as valjean removes his woolen hat.
-1027_Les_Miserables_00.35.46.840-00.35.54.132 	standing outside in the snow, javert opens the letter and reads it.
-1027_Les_Miserables_01.28.38.709-01.28.42.299 	eponine opens the letter and reads it.
 1027_Les_Miserables_01.47.24.574-01.47.33.418 	valjean reads the letter, frowning.
-1028_No_Reservations_00.48.04.097-00.48.07.937 	kate reaches out to turn off her square-faced alarm clock, which reads half-past four.
 1028_No_Reservations_01.14.47.370-01.14.49.253 	bernadette reads a letter.
-1029_Pride_And_Prejudice_Disk_One_00.43.34.325-00.43.37.843 	now lizzie is reading a book in the drawing room.
-1029_Pride_And_Prejudice_Disk_One_00.50.27.805-00.50.29.635 	she flirtatiously leans on his chair in order to read over his shoulder.
 1029_Pride_And_Prejudice_Disk_One_02.11.24.250-02.11.27.649 	lizzie's reading a letter.
-1029_Pride_And_Prejudice_Disk_One_02.15.39.273-02.15.40.940 	indoors, mr. bennet is reading.
-1029_Pride_And_Prejudice_Disk_One_02.21.11.599-02.21.13.901 	later, lizzie is sitting reading in her room.
-1029_Pride_And_Prejudice_Disk_One_02.38.42.281-02.38.47.135 	inside, lizzie is lying back on the sofa, reading a letter.
-1030_Public_Enemies_00.57.57.677-00.58.03.465 	now, a hulking black inmate strides past a row of cells and enters a common room where dillinger reads a newspaper.
-1033_Sherlock_Holmes_A_Game_of_Shadows_00.58.27.714-00.58.31.268 	she takes it and reads it as carruthers goes.
-1033_Sherlock_Holmes_A_Game_of_Shadows_01.20.41.144-01.20.44.755 	he finds a note pinned to a crate and reads it.
-1033_Sherlock_Holmes_A_Game_of_Shadows_01.43.26.575-01.43.32.256 	moriarty reads it and looks around in concern.
-1034_Super_8_01.19.12.155-01.19.13.749 	jack finds preston reading a magazine.
-1035_The_Adjustment_Bureau_00.15.17.813-00.15.21.802 	he wakes and turns off his alarm clock, which reads six o'clock.
 1035_The_Adjustment_Bureau_00.16.49.462-00.16.51.979 	a clock on the side of a building reads 7.05.
 1035_The_Adjustment_Bureau_00.18.57.996-00.18.59.884 	it reads 7.06.
 1035_The_Adjustment_Bureau_00.45.25.530-00.45.28.441 	it reads disconnected, call failed, searching for signal.
-1035_The_Adjustment_Bureau_00.53.10.582-00.53.16.563 	now, in the adjustment bureau reading room, richardson finds harry studying at one of the large tables.
-1035_The_Adjustment_Bureau_01.14.48.845-01.15.00.086 	as david greets his supporters, the campaign chairman sits on a picnic table and reads a newspaper.
 1035_The_Adjustment_Bureau_01.16.54.331-01.16.59.961 	david stares after her, then reads the note.
 1035_The_Adjustment_Bureau_01.32.21.646-01.32.31.976 	at the bureau, harry reads the same in his plan book.
 1035_The_Adjustment_Bureau_01.36.20.520-01.36.24.286 	as he reads, we glimpse the markings of a plan.
 1037_The_Curious_Case_Of_Benjamin_Button_00.33.47.080-00.33.51.709 	miss fuller reads to daisy from an illustrated storybook.
-1037_The_Curious_Case_Of_Benjamin_Button_01.02.50.848-01.02.56.745 	she closes the magazine she was reading and gets to her feet.
 1037_The_Curious_Case_Of_Benjamin_Button_01.07.45.217-01.07.50.806 	at the ballet school, young daisy reads benjamin's card.
 1037_The_Curious_Case_Of_Benjamin_Button_01.13.22.823-01.13.27.722 	caroline smiles and keeps reading.
-1037_The_Curious_Case_Of_Benjamin_Button_01.17.37.551-01.17.43.847 	benjamin lies on his bed, reading a magazine.
 1037_The_Curious_Case_Of_Benjamin_Button_01.58.01.798-01.58.05.317 	caroline reads on.
-1037_The_Curious_Case_Of_Benjamin_Button_02.18.48.089-02.18.54.579 	caroline picks up the diary and reads aloud by the window.
 1037_The_Curious_Case_Of_Benjamin_Button_02.21.59.696-02.22.04.898 	she removes it and reads the back of one.
 1037_The_Curious_Case_Of_Benjamin_Button_02.22.29.217-02.22.38.101 	caroline flips another postcard over and reads it.
 1038_The_Great_Gatsby_00.51.58.537-00.52.01.407 	a clock on the mantelpiece reads a few minutes to four.
 1039_The_Queen_00.20.19.556-00.20.28.108 	tony and alistair watch earl spencer read a statement on tv.
-1039_The_Queen_01.13.10.609-01.13.14.023 	tony sits reading some paperwork and glances up to watch the tv.
-1039_The_Queen_01.21.43.583-01.21.46.249 	the queen looks down after reading the third message.
-1042_Up_In_The_Air_00.38.26.474-00.38.29.709 	ryan picks up his blackberry and reads a text from alex.
 1042_Up_In_The_Air_00.38.33.716-00.38.36.738 	alex reads the reply.
 1042_Up_In_The_Air_00.39.05.472-00.39.10.224 	ryan reads it.
-1042_Up_In_The_Air_01.21.14.124-01.21.16.513 	wearing suit trousers, white shirt and a maroon waistcoat, jim sits reading a children's book.
 1043_Vantage_Point_00.20.19.042-00.20.25.287 	barnes reads the gnn logo and leaps to his feet.
 1043_Vantage_Point_00.31.15.121-00.31.19.383 	the timer on his lcd screen reads nearly two hours and two minutes.
-1044_Pride_And_Prejudice_Disk_Two_00.09.31.682-00.09.41.568 	lizzy watches him for a moment, looks down at the letter, then searches for a comfortable place in which to read it.
-1044_Pride_And_Prejudice_Disk_Two_01.21.35.482-01.21.37.995 	lizzie opens it and begins to read.
-1044_Pride_And_Prejudice_Disk_Two_01.57.02.645-01.57.04.158 	wickham finds lizzie reading the letter.
-1044_Pride_And_Prejudice_Disk_Two_02.01.43.143-02.01.52.651 	mr. bennet is sitting peacefully by the fire in the parlor, reading a book and sipping a glass of wine.
-1044_Pride_And_Prejudice_Disk_Two_02.26.20.082-02.26.27.705 	the girls and mrs. bennett are all sitting in the parlor, engaged in reading and embroidery.
 1045_An_education_01.33.11.939-01.33.15.123 	jenny reads a book on the bus.
 1045_An_education_01.33.56.729-01.33.59.926 	she's reading.
 1045_An_education_01.34.20.831-01.34.28.021 	her parents study her as she reads it.
-1048_Gran_Torino_00.38.40.000-00.38.45.442 	he picks up his glasses and puts them on to read the paper.
-1048_Gran_Torino_01.36.32.548-01.36.34.224 	in church, father janovich walks up the aisle reading a bible.
 1049_Harry_Potter_and_the_chamber_of_secrets_00.44.53.202-00.44.54.707 	draco reads out the writing on the wall.
 1049_Harry_Potter_and_the_chamber_of_secrets_01.53.22.261-01.53.23.478 	harry reads from the page again.
 1049_Harry_Potter_and_the_chamber_of_secrets_01.55.16.924-01.55.22.456 	ron reads out the message written in blood on the wall.
-1049_Harry_Potter_and_the_chamber_of_secrets_02.21.02.056-02.21.09.735 	harry takes the sword in both hands and read the inscription on the blade.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.01.19.336-00.01.28.472 	at home, hermione reads the headlines in the daily prophet.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.26.17.620-00.26.22.040 	he reads a headline.
 1050_Harry_Potter_and_the_deathly_hallows_Disk_One_00.43.32.652-00.43.39.103 	harry reads the message in the locket.
-1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.22.21.526-01.22.26.384 	hermione sits reading on the flat-topped rocks.
-1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.30.10.782-01.30.12.342 	hermione lifts the note, to read the title.
-1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.32.50.026-01.32.58.005 	later, she sits reading by a smoking campfire with her back leaning against a tree.
 1051_Harry_Potter_and_the_goblet_of_fire_00.32.11.817-00.32.16.094 	dumbledore reads the name written on it.
 1051_Harry_Potter_and_the_goblet_of_fire_00.32.31.198-00.32.37.743 	dumbledore reads a second piece of smoldering parchment.
 1051_Harry_Potter_and_the_goblet_of_fire_00.33.48.499-00.33.52.429 	he reads it up.
-1051_Harry_Potter_and_the_goblet_of_fire_00.42.46.192-00.42.52.038 	he starts to read.
 1051_Harry_Potter_and_the_goblet_of_fire_00.45.25.434-00.45.28.302 	harry reads the headline.
 1051_Harry_Potter_and_the_goblet_of_fire_01.05.24.849-01.05.26.772 	hermione reads the paper.
-1052_Harry_Potter_and_the_order_of_phoenix_00.29.27.013-00.29.32.568 	in the carriage behind it, a girl with long blond hair sits reading a magazine.
 1052_Harry_Potter_and_the_order_of_phoenix_01.25.49.835-01.25.50.330 	they read the latest decree.
-1052_Harry_Potter_and_the_order_of_phoenix_01.47.37.016-01.47.44.311 	neville is reading a label on a shelf beneath one of the spheres.
 1053_Harry_Potter_and_the_philosophers_stone_00.08.50.568-00.08.51.350 	harry's eyes widen with surprise as he reads the address written in emerald green ink.
-1053_Harry_Potter_and_the_philosophers_stone_00.15.50.143-00.15.59.404 	harry opens the envelope and reads the green writing.
 1053_Harry_Potter_and_the_philosophers_stone_00.18.30.141-00.18.41.000 	harry reads from a list.
 1053_Harry_Potter_and_the_philosophers_stone_00.31.30.123-00.31.43.026 	harry reads the ticket.
-1053_Harry_Potter_and_the_philosophers_stone_01.32.19.545-01.32.32.708 	he stops in front of it, and tries to read the writing carved around the wooden frame.
 1054_Harry_Potter_and_the_prisoner_of_azkaban_00.08.35.315-00.08.38.836 	the conductor reads from a dirty piece of card.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_00.12.44.869-00.12.48.461 	inside the gloomy public house, a man sits reading a book while a spoon stirs itself around a cup.
-1054_Harry_Potter_and_the_prisoner_of_azkaban_01.13.26.285-01.13.31.289 	in the boys' dormitory, harry is sitting up in bed eating a biscuit and reading the marauder's map by the light of his wand.
 1055_Marley_and_me_00.06.51.000-00.06.53.696 	the grogans read their papers over breakfast.
-1055_Marley_and_me_00.27.53.706-00.27.56.862 	arnie reads john's copy and shakes his head.
 1057_Seven_pounds_00.18.47.814-00.18.53.277 	as ben reads her words, his brow furrows.
-1057_Seven_pounds_01.03.54.903-01.04.01.566 	in the house, curtains sway in the breeze as connie sits reading a letter.
-1057_Seven_pounds_01.20.34.516-01.20.39.238 	his mother is reading to him while a nurse fills in a chart beside them.
 1057_Seven_pounds_01.53.24.265-01.53.30.062 	in her garden, emily weeps as she reads tim's letter to her.
 1058_The_Damned_united_01.24.49.000-01.24.53.000 	the lads read comics and annuals as brian broods at the wheel.
-1059_The_devil_wears_prada_00.01.56.830-00.01.59.742 	andy kisses scruffy boyfriend nate goodbye as he sits reading in bed.
 1059_The_devil_wears_prada_00.09.20.475-00.09.22.000 	miranda's reading a magazine.
 1059_The_devil_wears_prada_00.34.40.500-00.34.43.160 	he reads her smile.
-1059_The_devil_wears_prada_00.53.57.000-00.53.59.645 	the twins are reading them.
-1059_The_devil_wears_prada_01.39.31.506-01.39.35.932 	a casually-dressed andy is sitting in a coffee shop reading a newspaper.
 1061_Harry_Potter_and_the_deathly_hallows_Disk_Two_00.01.56.986-00.02.00.507 	the inscription on the gravestone reads.
-2004_Juno_00.08.46.359-00.08.49.616 	she picks it up off the floor, reads it, then looks at bleeker, who is watching the teacher obediently.
 2027_Les_Miserables_00.35.54.846-00.35.58.093 	as he reads, his expression changes.
-2027_Les_Miserables_01.28.39.160-01.28.42.175 	she opens the letter, reads it, then hides it in her pocket.
-2034_Super_8_00.12.12.852-00.12.17.134 	martin sits alone with his copy of the pages, quietly reading and memorizing his lines.
-2034_Super_8_01.19.10.440-01.19.19.902 	preston reads isaac asimov's science fiction magazine -- suddenly jack is there, grabs him and pulls him up.
-2040_The_Ugly_Truth_00.08.48.945-00.08.51.448 	he holds up several books in his hands, reading the titles.
-2040_The_Ugly_Truth_00.13.25.847-00.13.28.224 	stuart takes the memo, reading it.
-2041_This_is_40_00.56.34.593-00.56.39.979 	pete is reading sadie's ichats on her confiscated ipad out loud to debbie.
-2051_Harry_Potter_and_the_goblet_of_fire_00.33.47.448-00.33.52.027 	dumbledore takes it and reads.
-2051_Harry_Potter_and_the_goblet_of_fire_00.41.46.706-00.42.09.790 	an owl flies in with a letter for harry, he takes it and begins to read.
-2054_Harry_Potter_and_the_prisoner_of_azkaban_00.12.32.940-00.12.36.382 	as the knight bus rockets off, tom and harry are revealed, harry glances up, reads the sign above: the leaky cauldron.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_00.12.44.877-00.12.47.703 	a solitary wizard reads a book while, at his elbow, his coffee cup stirs itself.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_00.39.24.694-00.39.27.759 	hermione reads over the shoulders of others.
 2054_Harry_Potter_and_the_prisoner_of_azkaban_01.00.02.840-01.00.04.911 	harry reads the curious words at the top.

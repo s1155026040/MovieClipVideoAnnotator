@@ -1,23 +1,7 @@
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS243 	00:39:15,00 --> 00:39:19,50 	someone sprawls across the track.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS665 	01:08:25,00 --> 01:08:35,50 	now, a massive cylindrical tank in a steel cage with wheels, hangs beneath the helicopter as it cruises toward the sprawling facility.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS521 	01:13:06,00 --> 01:13:13,50 	turning, the general finds every man in his unit sprawled on the ground.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS753 	01:15:23,00 --> 01:15:29,50 	following her into the kitchen, someone and someone find someone sprawled on the floor.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS823 	01:21:15,00 --> 01:21:22,50 	drawing near, he finds his mentor sprawled out on his board.
-COLOMBIANA.srt 	COLOMBIANA_DVS328 	00:28:48,00 --> 00:28:54,50 	now as we peer across a sprawling suburb, words appear.
-COLOMBIANA.srt 	COLOMBIANA_DVS424 	00:37:17,00 --> 00:37:22,50 	the prisoner sleeps sprawled on the cot.
 IN_TIME.srt 	IN_TIME_DVS155 	00:16:44,00 --> 00:16:52,50 	the shallow river's current rushes around someone as he sprawls motionless on its concrete bed.
-IN_TIME.srt 	IN_TIME_DVS941 	01:39:13,00 --> 01:39:19,50 	he convulses, then falls back with his arms and legs sprawled.
-KARATE_KID.srt 	KARATE_KID_DVS208 	00:17:49,00 --> 00:18:02,50 	with a crouching-leg sweep, the boy sends him sprawling.
-KARATE_KID.srt 	KARATE_KID_DVS226 	00:19:42,00 --> 00:19:52,50 	later, shadows streak the concrete, as someone remains sprawled across a free-throw line, a chalk circle framing his form.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS534 	01:40:51,00 --> 01:41:01,50 	horizon sprawls perfectly flat between the sand and black sky.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS625 	01:57:18,00 --> 01:58:13,50 	a mugshot of homer, photos of a robbed bank and a sprawled body, and a street map.
-SALT.srt 	SALT_DVS469 	01:20:28,00 --> 01:20:43,50 	as someone removes his jacket, someone's gaze scans the room and takes in the dead body sprawled behind a control counter.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS372 	00:55:39,00 --> 00:55:46,50 	someone smashes through the front windshield and sprawls across the hood, inches behind the spinning propeller.
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS64 	00:12:18,00 --> 00:12:40,50 	the portly man flips on the lights and finds someone asleep, sprawled across a leather loveseat.
 THE_GIRL_WITH_THE_DRAGON_TATTOO.srt 	THE_GIRL_WITH_THE_DRAGON_TATTOO_DVS1093 	01:54:43,00 --> 01:54:51,50 	at the archives, photos of the murder victims sprawl across various locations on the swedish map.
-THE_VOW.srt 	THE_VOW_DVS569 	01:18:22,00 --> 01:18:30,50 	someone looks down at someone, who sprawls on the floor with a bleeding nose, then follows someone outside.
-THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS34 	00:04:20,00 --> 00:04:35,50 	he glances up at the skyscraper then moves to someone's body which lies sprawled on the car's crushed roof.
-THOR.srt 	THOR_DVS692 	01:43:16,00 --> 01:43:22,50 	someone walks to someone, who stands on a balcony and looks out over his sprawling kingdom.
-TRUE_GRIT.srt 	TRUE_GRIT_DVS533 	01:36:46,00 --> 01:36:52,50 	someone looks down at the simpleton lying sprawled on the dry earth.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS241 	00:18:27,00 --> 00:18:32,50 	he takes a seat on a sprawling couch.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS419 	00:36:09,00 --> 00:36:17,50 	as we drift over a sprawling complex, words appear: "covert cia research base."

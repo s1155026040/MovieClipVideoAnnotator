@@ -1,57 +1,26 @@
 30_MINUTES_OR_LESS.srt 	30_MINUTES_OR_LESS_DVS198 	00:50:35,00 --> 00:50:41,50 	one of the police cars crashes into a minivan.
-ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS27 	00:02:41,00 --> 00:02:49,50 	someone the enforcer down and punches him in the face sending him crashing into the water.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS612 	01:25:58,00 --> 01:26:09,50 	as the train speeds alongside a wall, someone nearly crashes into some jutting rocks.
 ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS633 	01:29:15,00 --> 01:29:34,50 	their railcar breaks free from the train crashing into the support structure below the track.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS83 	00:12:48,00 --> 00:12:54,50 	the devices spark as the car crashes to the stage.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS221 	00:39:10,00 --> 00:39:18,50 	the bullet hits the getaway car's driver in the head causing him to crash.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS224 	00:39:38,00 --> 00:39:47,50 	someone races up a parallel street, then tries to turn on to a main road, but instead crashes through a shop's front window.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS234 	00:40:42,00 --> 00:41:09,50 	someone staggers out of the crashed cab and waves his pistol at people standing by a bus.
 CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS514 	01:32:23,00 --> 01:32:44,50 	another trooper crashes into the burning wreck and sails off his bike.
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS597 	01:42:07,00 --> 01:42:13,50 	he speeds toward the open bay door and crashes into the plane's hold.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS162 	00:12:56,00 --> 00:13:00,50 	the board crashes over the break.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS277 	00:21:09,00 --> 00:21:16,50 	near shore, a wave crashes violently against a huge jagged rock formation.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS407 	00:38:29,00 --> 00:38:36,50 	from overhead, crashing waves sweep white foam onto the stunning california shore.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS518 	00:50:25,00 --> 00:50:33,50 	a massive burst of water blasts upward as the wave crashes into more rock formations.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS520 	00:50:42,00 --> 00:50:49,50 	the board lies in a calm spot on the surface as another wave crashes into a large rock.
 CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS864 	01:24:52,00 --> 01:24:57,50 	crashing violently into its rocks.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS889 	01:26:46,00 --> 01:26:53,50 	as someone smiles proudly, someone allows one wave after another to crash down on him.
-CHASING_MAVERICKS.srt 	CHASING_MAVERICKS_DVS961 	01:34:29,00 --> 01:34:36,50 	someone takes in the roiling foamy waters crashing the bone yard then faces someone.
 CHRONICLE.srt 	CHRONICLE_DVS464 	01:07:41,00 --> 01:07:46,50 	it crashes in front of them.
 COLOMBIANA.srt 	COLOMBIANA_DVS168 	00:14:55,00 --> 00:15:04,50 	the biker crashes into it.
-FLIGHT.srt 	FLIGHT_DVS693 	01:33:42,00 --> 01:33:50,50 	the crashed south jet aircraft stands almost completely assembled, with parts strewn around beside it.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS255 	00:40:32,00 --> 00:40:49,50 	the wheel crashes down on a trailer.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS258 	00:40:58,00 --> 00:41:04,50 	ghost rider shifts the levers and the wheel crashes down.
-HUGO.srt 	HUGO_DVS63 	00:08:19,00 --> 00:08:30,50 	hurtling toward the cake, the inspector turns and crashes into the band.
-HUGO.srt 	HUGO_DVS414 	01:01:12,00 --> 01:01:19,50 	someone's mouth opens as a drawing of the rocket crashing into the man in the moon drifts past.
-HUGO.srt 	HUGO_DVS576 	01:24:11,00 --> 01:24:18,50 	one man knocks another man out of the train's path as it crashes through a newsstand.
-IN_TIME.srt 	IN_TIME_DVS436 	00:46:55,00 --> 00:47:02,50 	someone tries to turn his car out of the way but the truck crashes through its rear half.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS81 	00:16:01,00 --> 00:16:07,50 	in another video, a pilot wearing an armored suit crashes into the ground.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS171 	00:32:12,00 --> 00:32:22,50 	the car crashes through the barricade, skids sideways, and turns right onto the racing course.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS176 	00:32:58,00 --> 00:33:08,50 	the cars explode, bounce along the road, then crash into walls on both sides of the course.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS561 	01:39:13,00 --> 01:39:21,50 	one of the bullets strikes an air force drone, which crashes and bounces across the ground in flames.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS580 	01:40:35,00 --> 01:40:41,50 	one drone crashes into a column and explodes in a ball of fire.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS594 	01:41:47,00 --> 01:42:29,50 	one drone crashes into a huge video screen mounted on a tower.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS606 	01:44:16,00 --> 01:44:32,50 	the men crash through an exhibit's geodesic dome, bounce across rocks at the base of a small waterfall, and land in a shallow stream.
-JACK_AND_JILL.srt 	JACK_AND_JILL_DVS103 	00:22:06,00 --> 00:22:13,50 	she submerges then shoots 20 feet out of the water and crashes down on the patio table.
-JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS456 	01:29:03,00 --> 01:29:11,50 	now, as someone carries a paper bag to work, the bottom breaks, and the dessert crashes to the ground.
-KARATE_KID.srt 	KARATE_KID_DVS1413 	01:54:05,00 --> 01:54:13,50 	with a single powerful kick, he knocks the boy off his feet, and sends him crashing to the mat.
-LAND_OF_THE_LOST.srt 	LAND_OF_THE_LOST_DVS47 	00:16:04,00 --> 00:16:12,50 	someone stands by a massive viking ship with a crashed plane in its hull.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS350 	00:44:21,00 --> 00:44:28,50 	someone shields someone's view as they all crash into a band.
 PERCY_JACKSON_LIGHTENING_THIEF.srt 	PERCY_JACKSON_LIGHTENING_THIEF_DVS76 	00:19:34,00 --> 00:20:19,50 	someone swipes wildly at it, then somersaults away from a punch but crashes into the ground.
-THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS93 	00:13:29,00 --> 00:13:36,50 	someone pulls back a branch and releases it at the dog, but the rottweiler crashes through it.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS414 	01:00:24,00 --> 01:00:29,50 	the two entangled ships crash into a huge wave.
 THE_ADVENTURES_OF_TINTIN.srt 	THE_ADVENTURES_OF_TINTIN_DVS573 	01:19:09,00 --> 01:19:14,50 	chandeliers crash to the floor.
 THE_SITTER.srt 	THE_SITTER_DVS116 	01:04:36,00 --> 01:04:41,50 	van crashes into a sign for a carousel.
-THE_WATCH.srt 	THE_WATCH_DVS315 	00:55:06,00 --> 00:55:13,50 	it throws the men off him, sending them crashing across the room.
 THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS396 	01:11:28,00 --> 01:11:35,50 	as someone crashes it under his shoe, the surveillance team loses one of their angles.
 THOR.srt 	THOR_DVS511 	01:22:52,00 --> 01:23:01,50 	the destroyer bats someone through the air, he crashes onto a parked car.
-THOR.srt 	THOR_DVS669 	01:39:57,00 --> 01:40:05,50 	as the end of the bridge collapses, flames rip apart the spinning observatory, which then crashes into the water.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS620 	01:08:07,00 --> 01:08:11,50 	the arrow crashes down onto the ice.
 TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS660 	01:13:47,00 --> 01:13:52,50 	two players crash into each other.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS693 	01:02:40,00 --> 01:02:46,50 	one crashes through a skylight in the rec room.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1217 	01:48:37,00 --> 01:48:44,50 	someone rises from the floor and sends metal beams crashing through the chamber between them.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1261 	01:53:53,00 --> 01:54:00,50 	she runs to the crashed x-jet.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS1332 	02:01:02,00 --> 02:01:08,50 	smoke rises from the crashed submarine and x-jet.
-ZOMBIELAND.srt 	ZOMBIELAND_DVS58 	00:04:40,00 --> 00:04:47,50 	a flying zombie drips blood onto a windshield before crashing into it and knocking away the title.
-ZOMBIELAND.srt 	ZOMBIELAND_DVS78 	00:06:26,00 --> 00:06:33,50 	he crashes into a planter sending the zombie flying out the windshield and into a building.
-ZOMBIELAND.srt 	ZOMBIELAND_DVS263 	00:29:10,00 --> 00:29:19,50 	the older man slows wearily as he nears the vehicle which has crashed near a house.

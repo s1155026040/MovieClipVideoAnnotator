@@ -1,26 +1,17 @@
-0001_American_Beauty_00.39.24.097-00.39.28.315 	We ZOOM toward her, even as Angela poses in the window; we're clearly not interested in Angela.
-0002_As_Good_As_It_Gets_00.19.48.780-00.19.52.081 	Vincent is striking blatantly sexual poses to the increasingly uneasy Simon.
-0002_As_Good_As_It_Gets_01.49.09.914-01.49.11.732 	Carol holding a pose for Simon.
-0005_Chinatown_01.39.35.320-01.39.36.578 	She's recognizable as the woman who posed as Evelyn Mulwray.
-0009_Forrest_Gump_00.35.39.530-00.35.51.791 	Forrest pick up the magazine and turns the page, revealing Jenny as she poses with a school sweater on, and that's all.
-1003_How_to_Lose_Friends_and_Alienate_People_01.31.14.615-01.31.15.715 	She poses for press photographers.
-1006_Slumdog_Millionaire_00.43.58.415-00.44.01.668 	Salim steals the tourists' shoes as they pose for Jamal.
+0005_Chinatown_01.39.35.320-01.39.36.578 	she's recognizable as the woman who posed as evelyn mulwray.
+0009_Forrest_Gump_00.35.39.530-00.35.51.791 	forrest pick up the magazine and turns the page, revealing jenny as she poses with a school sweater on, and that's all.
+1003_How_to_Lose_Friends_and_Alienate_People_01.31.14.615-01.31.15.715 	she poses for press photographers.
+1006_Slumdog_Millionaire_00.43.58.415-00.44.01.668 	salim steals the tourists' shoes as they pose for jamal.
+1007_Spider-Man1_00.10.00.859-00.10.02.553 	mary jane continues to pose.
 1009_Spider-Man3_01.38.02.233-01.38.06.850 	he drops to the floor, spins the chair, and poses with it.
 1010_TITANIC_03.05.14.091-03.05.18.469 	in a third, rose wears a long scarf around her neck as she poses beside a biplane.
-1011_The_Help_01.49.18.601-01.49.22.826 	in flashback, charlotte poses with her medal.
-1015_27_Dresses_00.54.51.370-00.54.56.883 	jane poses with the heavily made up bride and a much older, open-shirted groom.
 1015_27_Dresses_00.54.57.725-00.55.02.662 	she poses in gauzy red, shiny candy pink and flowery baby blue as kevin lounges on the couch taking pictures.
 1018_Body_Of_Lies_01.10.49.845-01.10.59.148 	in an office on a construction site, he speaks to a bald agent posing as a construction worker.
 1031_Quantum_of_Solace_00.06.15.965-00.06.19.908 	a crowd of naked women posing silhouette around the glaring sun.
-1037_The_Curious_Case_Of_Benjamin_Button_00.11.59.533-00.12.03.387 	the man, tizzy, strikes a pose in his fine suit and bowler hat.
-1037_The_Curious_Case_Of_Benjamin_Button_00.46.47.960-00.46.50.695 	he strikes a boxing pose with tattoos on it.
-1037_The_Curious_Case_Of_Benjamin_Button_01.45.35.508-01.45.39.777 	daisy strikes an elegant pose then turns to the audience and cranes a swan-like neck.
+1031_Quantum_of_Solace_00.06.41.435-00.06.47.898 	posing high-heels forming a slowly turning pattern.
 1037_The_Curious_Case_Of_Benjamin_Button_02.11.55.462-02.12.01.777 	daisy strolls across the varnished wooden floorboard and regards her reflection as she poses with one arm elevated.
-1042_Up_In_The_Air_00.56.05.382-00.56.07.032 	natalie and dave pose for pictures.
+1045_An_education_01.01.54.776-01.01.57.142 	she poses.
 1046_Australia_00.20.36.565-00.20.37.905 	the boy poses mystically.
 1047_Defiance_02.07.28.357-02.07.29.681 	the last photo is of the real bielski otriad posing for the camera.
+1049_Harry_Potter_and_the_chamber_of_secrets_00.18.29.634-00.18.35.626 	posing for the camera, lockhart spots harry's grubby face in the crowd.
 1051_Harry_Potter_and_the_goblet_of_fire_00.39.11.438-00.39.14.477 	the competitors pose for a photo.
-1059_The_devil_wears_prada_01.19.19.420-01.19.21.869 	miranda poses for photos.
-2027_Les_Miserables_00.48.00.084-00.48.11.710 	the innkeeper's gang posing as customers who have been loitering outside come in, explaining to a fifth man who is a newer recruit a story from monsieur thenardier's past.
-1059_The_devil_wears_prada_01.19.19.420-01.19.21.869 	miranda poses for photos.
-2027_Les_Miserables_00.48.00.084-00.48.11.710 	the innkeeper's gang posing as customers who have been loitering outside come in, explaining to a fifth man who is a newer recruit a story from monsieur thenardier's past.

@@ -1,0 +1,21 @@
+ABRAHAM_LINCOLN_VAMPIRE_HUNTER.srt 	ABRAHAM_LINCOLN_VAMPIRE_HUNTER_DVS184 	00:25:04,00 --> 00:25:17,50 	he knocks someone back then activates a trapdoor.
+CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS335 	01:02:54,00 --> 01:03:02,50 	someone flips several switches, activating timers which count down from seven minutes.
+COLOMBIANA.srt 	COLOMBIANA_DVS220 	00:18:52,00 --> 00:18:58,50 	his older colleague hits a button on his desk which activates a camera.
+DISTRICT_9.srt 	DISTRICT_9_DVS724 	01:25:36,00 --> 01:25:47,50 	now, the little alien manipulates projected diagrams and activates sections of the mothership.
+INSIDE_MAN.srt 	INSIDE_MAN_DVS312 	01:33:22,00 --> 01:33:33,50 	he activates a smoke bomb and rolls it into the hallway.
+INSIDE_MAN.srt 	INSIDE_MAN_DVS312 	01:33:22,00 --> 01:33:33,50 	he activates two more and lops them past someone
+IRON_MAN_2.srt 	IRON_MAN_2_DVS89 	00:17:32,00 --> 00:17:40,50 	he activates the arc reactor, which sends an electrical charge along the frame of the arm and into the whip.
+IRON_MAN_2.srt 	IRON_MAN_2_DVS90 	00:17:43,00 --> 00:17:50,50 	someone puts on both of the suit arms, activates the arc reactor and spins around.
+IRON_MAN_2.srt 	IRON_MAN_2_DVS468 	01:25:33,00 --> 01:25:40,50 	later wearing goggles, someone inserts a prism into the accelerator and activates it.
+IRON_MAN_2.srt 	IRON_MAN_2_DVS489 	01:27:59,00 --> 01:28:05,50 	someone activates the reactor, which electrifies a long coil.
+PROMETHEUS.srt 	PROMETHEUS_DVS157 	00:09:50,00 --> 00:09:56,50 	in a cockpit, he activates a computer with a three-dimensional holographic screen.
+PROMETHEUS.srt 	PROMETHEUS_DVS173 	00:12:02,00 --> 00:12:09,50 	he flips switches activating lights and computers across the bridge.
+PROMETHEUS.srt 	PROMETHEUS_DVS211 	00:15:44,00 --> 00:15:52,50 	sitting at the front, someone uses a tablet to activate a huge 3-d holographic video.
+PROMETHEUS.srt 	PROMETHEUS_DVS326 	00:31:38,00 --> 00:31:43,50 	as he activates its computerized system, someone, someone, and someone join him.
+PROMETHEUS.srt 	PROMETHEUS_DVS441 	00:46:18,00 --> 00:46:24,50 	someone activates an arched scanner that glides over the head.
+PROMETHEUS.srt 	PROMETHEUS_DVS450 	00:47:24,00 --> 00:47:29,50 	someone activates a probe.
+PROMETHEUS.srt 	PROMETHEUS_DVS455 	00:48:14,00 --> 00:48:21,50 	as someone activates a conveyor belt, carrying the head back to the containment chamber,
+PROMETHEUS.srt 	PROMETHEUS_DVS921 	01:41:24,00 --> 01:41:30,50 	the engineer takes a seat, then activates the star map.
+THE_CALL.srt 	THE_CALL_DVS1136 	01:25:35,00 --> 01:25:41,50 	she activates the screen and dials 911.
+THE_WATCH.srt 	THE_WATCH_DVS205 	00:37:53,00 --> 00:37:59,50 	on a deserted farm, the men activate the ball.
+WE_BOUGHT_A_ZOO.srt 	WE_BOUGHT_A_ZOO_DVS326 	00:52:58,00 --> 00:53:10,50 	as he activates the device, its tape extends over a 	moat separating someone's enclosure from the guard railing.

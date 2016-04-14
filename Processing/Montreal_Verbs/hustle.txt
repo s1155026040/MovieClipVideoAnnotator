@@ -1,20 +1,12 @@
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS354 	00:59:10,00 --> 00:59:19,50 	someone hustles the teens out of the store.
 A_THOUSAND_WORDS.srt 	A_THOUSAND_WORDS_DVS152 	00:30:19,00 --> 00:30:26,50 	someone hustles the man to the sidewalk.
-DISTRICT_9.srt 	DISTRICT_9_DVS716 	01:24:28,00 --> 01:24:40,50 	as his peers on the ground take up positions, someone's men hustle.
 DISTRICT_9.srt 	DISTRICT_9_DVS778 	01:31:59,00 --> 01:32:12,50 	someone and his men hustle to new positions.
-FLIGHT.srt 	FLIGHT_DVS613 	01:27:13,00 --> 01:27:19,50 	he jumps off the ladder and hustles over to someone, kissing her.
-GREEN_ZONE.srt 	GREEN_ZONE_DVS353 	01:20:12,00 --> 01:20:19,50 	someone grabs a pistol from under his sedan's backseat and hustles off.
 GREEN_ZONE.srt 	GREEN_ZONE_DVS357 	01:22:11,00 --> 01:22:19,50 	on the ground, someone peeks around a corner then hustles.
 IN_TIME.srt 	IN_TIME_DVS79 	00:09:02,00 --> 00:09:08,50 	out front, someone spies someone hustling the rich man out.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS347 	01:40:02,00 --> 01:40:14,50 	as its doors open, officers on the scene hustle handcuffed suspects to their feet.
 MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS623 	01:15:59,00 --> 01:16:05,50 	zoo-goers hustle away from the masked family.
 NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS209 	00:43:28,00 --> 00:43:32,50 	he hustles along as the farmer halts.
-NANNY_MCPHEE_RETURNS.srt 	NANNY_MCPHEE_RETURNS_DVS211 	00:44:10,00 --> 00:44:16,50 	someone shifts his gaze and hustles off down the road.
-PARENTAL_GUIDANCE.srt 	PARENTAL_GUIDANCE_DVS264 	01:03:01,00 --> 01:03:07,50 	someone hustled someone to one end of the announcers stand.
 PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS452 	01:27:23,00 --> 01:27:29,50 	he hustles through a guest room next door and butts a window with his gun.
 ROBIN_HOOD.srt 	ROBIN_HOOD_DVS16 	00:02:51,00 --> 00:02:55,50 	the thieves hustle out.
 THE_DESCENDANTS.srt 	THE_DESCENDANTS_DVS316 	00:48:17,00 --> 00:48:21,50 	he hustles someone out of the room.
-THE_VOW.srt 	THE_VOW_DVS477 	01:08:06,00 --> 01:08:16,50 	grabbing blankets and towels he hustles after her and does high steps to get out of his jeans.
-THOR.srt 	THOR_DVS257 	00:35:00,00 --> 00:35:06,50 	they hustle outdoors again and climb into their research truck.
-WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS56 	00:04:38,00 --> 00:04:46,50 	she pauses to get her bearings, then hustles across the street, chomping down a hot dog as she goes.
 WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS231 	00:29:37,00 --> 00:29:43,50 	someone drags someone out of his apartment and hustles him into her own.

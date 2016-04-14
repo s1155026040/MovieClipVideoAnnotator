@@ -1,3 +1,1 @@
-CAPTAIN_AMERICA.srt 	CAPTAIN_AMERICA_DVS322 	01:00:53,00 --> 01:01:00,50 	the prisoners stand as someone frisks the guard's body and takes his keys.
-INSIDE_MAN.srt 	INSIDE_MAN_DVS125 	00:36:10,00 --> 00:36:15,50 	three cops frisk the released man and pulls off the mask.
 INSIDE_MAN.srt 	INSIDE_MAN_DVS257 	01:19:10,00 --> 01:19:29,50 	his accomplice frisks the detective.

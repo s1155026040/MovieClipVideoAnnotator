@@ -1,9 +1,7 @@
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS293 	00:50:56,00 --> 00:51:01,50 	someone dances up in his face.
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS314 	00:53:21,00 --> 00:53:27,50 	later, as people dance, someone chats with someone and someone.
-21_JUMP_STREET.srt 	21_JUMP_STREET_DVS322 	00:53:54,00 --> 00:53:59,50 	someone pinches his own nipples and makes them dance.
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS324 	00:53:59,00 --> 00:54:05,50 	someone and someone laugh as they dance together.
 21_JUMP_STREET.srt 	21_JUMP_STREET_DVS548 	01:24:36,00 --> 01:24:42,50 	on the dance floor someone sways to the music, dancing alone.
-500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS188 	00:32:19,00 --> 00:32:24,50 	he tosses his bag to a woman and starts to dance.
 500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS191 	00:32:36,00 --> 00:32:41,50 	he's hoisted shoulder high by his dancing friends.
 500DAYSOFSUMMER.srt 	500DAYSOFSUMMER_DVS354 	01:04:04,00 --> 01:04:08,50 	someone's dancing with a young lad.
 A_GOOD_DAY_TO_DIE_HARD.srt 	A_GOOD_DAY_TO_DIE_HARD_DVS916 	01:28:08,00 --> 01:28:16,50 	large flecks of ash reign down, as dancing flames dock the room.
@@ -12,65 +10,27 @@ BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS183 	00:
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS186 	00:31:47,00 --> 00:31:51,50 	he dances.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS191 	00:32:12,00 --> 00:32:18,50 	throughout the cafeteria, students dance together and clap their hands.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS195 	00:32:46,00 --> 00:32:53,50 	now dancing among the students, someone claps and spins in his red dress.
-BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS197 	00:32:55,00 --> 00:33:02,50 	as someone keeps grooving onstage, someone has a go dancing on a table.
-BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS235 	00:38:37,00 --> 00:38:44,50 	he peers through a window to find the security guard dancing with a screwdriver in his mouth.
-BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS263 	00:44:49,00 --> 00:44:56,50 	someone wraps a scarf around his neck, then dances the charleston on the low, round table.
-BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS297 	00:49:27,00 --> 00:49:34,50 	someone and two of her peers dance in perfect unison while the other students look on.
 BIG_MOMMAS_LIKE_FATHER_LIKE_SON.srt 	BIG_MOMMAS_LIKE_FATHER_LIKE_SON_DVS681 	01:44:04,00 --> 01:44:10,50 	now, the mailman dances on the roof of his truck.
-BLINDDATING.srt 	BLINDDATING_DVS138 	00:38:00,00 --> 00:38:07,50 	someone smiles mischievously as they continue to dance.
-BURLESQUE.srt 	BURLESQUE_DVS355 	00:49:04,00 --> 00:49:09,50 	dancing around her, he plays the tambourine.
-BURLESQUE.srt 	BURLESQUE_DVS393 	00:54:24,00 --> 00:54:36,50 	she dances up the rest of the stairs to the platform where another curtain opens, revealing more dancers.
 BURLESQUE.srt 	BURLESQUE_DVS504 	01:10:00,00 --> 01:10:07,50 	someone and the others dance with precision and raw sensuality as the stage lights strobe.
 BURLESQUE.srt 	BURLESQUE_DVS574 	01:25:44,00 --> 01:25:48,50 	they dance.
-CHRONICLE.srt 	CHRONICLE_DVS73 	00:08:55,00 --> 00:09:11,50 	later, surrounded by partygoers, an attractive, young woman dances on a table.
 COLOMBIANA.srt 	COLOMBIANA_DVS526 	00:47:37,00 --> 00:47:46,50 	the live young assassin swivels her hips with sensual grace as she dances her way into a living area.
-COLOMBIANA.srt 	COLOMBIANA_DVS528 	00:47:51,00 --> 00:47:56,50 	she looks at it for a moment then dances away.
 COLOMBIANA.srt 	COLOMBIANA_DVS736 	01:09:38,00 --> 01:09:44,50 	he dances the alligator in front of someone.
 FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS241 	01:05:49,00 --> 01:06:09,50 	now the friends drink wine and dance around the room.
-FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS375 	01:38:44,00 --> 01:38:51,50 	the bustling crowd around someone suddenly stops and dances.
-FRIENDS_WITH_BENEFITS.srt 	FRIENDS_WITH_BENEFITS_DVS383 	01:40:39,00 --> 01:40:47,50 	he takes her hand and leads her to a balcony, overlooking the ballroom dancing flash mob.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS214 	00:34:18,00 --> 00:34:45,50 	with flames now dancing on his arms, someone rushes outside.
 GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS276 	00:42:42,00 --> 00:43:07,50 	the fire dancing around his skull dims in a billow of smoke and ghost rider staggers, swatting at it.
-GHOST_RIDER_SPIRIT_OF_VENGEANCE.srt 	GHOST_RIDER_SPIRIT_OF_VENGEANCE_DVS571 	01:22:14,00 --> 01:22:21,50 	someone dances away from it and meets the rider in a grappling hold.
-HUGO.srt 	HUGO_DVS220 	00:33:08,00 --> 00:33:14,50 	people dance or tap their toes as clouds of cigarette smoke fill the air.
-HUGO.srt 	HUGO_DVS222 	00:33:15,00 --> 00:33:19,50 	people are dancing.
 HUGO.srt 	HUGO_DVS237 	00:34:23,00 --> 00:34:32,50 	in the main station, someone stares at her feet as she dances with another girl.
-IN_TIME.srt 	IN_TIME_DVS352 	00:37:05,00 --> 00:37:10,50 	he holds her close as they dance.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS50 	00:06:52,00 --> 00:07:03,50 	the women dancing onstage pause to strike various poses, then rush over and form a semicircle around someone, who faces them as they each punch out one hand.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS307 	00:56:23,00 --> 00:56:27,50 	someone dances around onstage.
 IRON_MAN_2.srt 	IRON_MAN_2_DVS512 	01:32:27,00 --> 01:32:36,50 	spotlights shine on someone as he dances onto the stage.
-IRON_MAN_2.srt 	IRON_MAN_2_DVS513 	01:32:33,00 --> 01:32:40,50 	he dances to the front of the stage and stands behind a clear plexiglas podium.
-JACK_AND_JILL.srt 	JACK_AND_JILL_DVS260 	00:52:02,00 --> 00:52:07,50 	now, a crowd surrounds a break dancing boy.
 JACK_AND_JILL.srt 	JACK_AND_JILL_DVS383 	01:11:30,00 --> 01:11:37,50 	in the spanish castle, someone swigs from the bottle as he dances with someone.
-JULIE_AND_JULIA.srt 	JULIE_AND_JULIA_DVS325 	01:03:25,00 --> 01:03:31,50 	later, he kisses her neck as they dance toward the newlyweds.
 JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS85 	00:31:44,00 --> 00:31:49,50 	the someone salsa dances around a janitor.
-JUST_GO_WITH_IT.srt 	JUST_GO_WITH_IT_DVS249 	01:26:04,00 --> 01:26:12,50 	the ladies start to dance.
-KARATE_KID.srt 	KARATE_KID_DVS517 	00:47:02,00 --> 00:47:12,50 	someone watches as someone drops the flaming cotton ball into a bowl, and dips a hand in, gathering a dancing blue flame in his palm.
-KATY_PERRY_PART_OF_ME.srt 	KATY_PERRY_PART_OF_ME_DVS130 	00:33:20,00 --> 00:33:27,50 	on stage, someone and several men dance while holding ropes that join them together.
-LITTLE_FOCKERS.srt 	LITTLE_FOCKERS_DVS217 	01:18:18,00 --> 01:18:24,50 	passing a valet stand, someone pauses to dance.
-MR_POPPERS_PENGUINS.srt 	MR_POPPERS_PENGUINS_DVS341 	00:43:49,00 --> 00:43:55,50 	dancing with someone, someone looks up.
 NO_STRINGS_ATTACHED.srt 	NO_STRINGS_ATTACHED_DVS436 	01:19:08,00 --> 01:19:13,50 	young couples dance together elegantly.
-PUBLIC_ENEMIES.srt 	PUBLIC_ENEMIES_DVS114 	00:20:28,00 --> 00:20:37,50 	rubbing the tip of his nose, he shifts his gaze to the dance floor where a brunette in a red dress dances with a man.
 RUBY_SPARKS.srt 	RUBY_SPARKS_DVS214 	00:34:49,00 --> 00:34:53,50 	they dance in the arcade.
-RUBY_SPARKS.srt 	RUBY_SPARKS_DVS230 	00:35:32,00 --> 00:35:37,50 	someone stops dancing staring wide-eyed.
 SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS37 	00:02:51,00 --> 00:02:58,50 	amid dancing guests, sebastian and someone chat with their boss and a grey-haired man.
-SNOW_FLOWER_FD.srt 	SNOW_FLOWER_FD_DVS1056 	01:10:43,00 --> 01:10:47,50 	dancing couples take to the floor.
-SPARKLE_2012.srt 	SPARKLE_2012_DVS117 	00:19:05,00 --> 00:19:12,50 	she moves her body closer to his as they dance.
 SPARKLE_2012.srt 	SPARKLE_2012_DVS253 	00:39:24,00 --> 00:39:32,50 	dancing in unison, their hair now short.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS148 	00:32:22,00 --> 00:32:29,50 	someone tries to dance, awkwardly swaying to the music.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS151 	00:32:39,00 --> 00:32:46,50 	as he dances close to her she looks at someone.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS153 	00:32:53,00 --> 00:33:01,50 	someone watches him go, then turns her attention back to someone as she dances with him joyfully.
 THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS161 	00:33:45,00 --> 00:33:56,50 	wandering through the crowded dance floor someone glimpses someone still dancing with someone.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS270 	00:51:54,00 --> 00:52:08,50 	as she pulls him in and starts to dance he sits again.
-THE_ART_OF_GETTING_BY.srt 	THE_ART_OF_GETTING_BY_DVS271 	00:52:11,00 --> 00:52:20,50 	closing her eyes, she begins to dance in front of someone.
 THE_VOW.srt 	THE_VOW_DVS387 	00:54:28,00 --> 00:54:33,50 	he dances back to someone.
 THE_VOW.srt 	THE_VOW_DVS544 	01:14:38,00 --> 01:14:43,50 	and spies someone dancing with her sister.
 THE_WATCH.srt 	THE_WATCH_DVS29 	00:04:43,00 --> 00:04:48,50 	he dances along with a workout video.
 THE_WATCH.srt 	THE_WATCH_DVS366 	01:04:18,00 --> 01:04:25,50 	partiers dance on the balcony of the massive white house overlooking the pool area.
-THIS_MEANS_WAR.srt 	THIS_MEANS_WAR_DVS214 	00:40:42,00 --> 00:40:48,50 	someone waves her hands in the air as she dances to her microwave.
-TOOTH_FAIRY.srt 	TOOTH_FAIRY_DVS876 	01:32:56,00 --> 01:33:03,50 	dancing with someone, someone raises her hand high and someone beams.
-UGLY_TRUTH.srt 	UGLY_TRUTH_DVS533 	01:11:43,00 --> 01:11:54,50 	she straightens with a wide grin and touches her forehead to his as they dance in a circle.
-WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS140 	00:18:27,00 --> 00:18:35,50 	amidst the crowd, someone's former boss bobs his head, watching her with a smile as she dances wildly.
-WHATS_YOUR_NUMBER.srt 	WHATS_YOUR_NUMBER_DVS710 	01:35:47,00 --> 01:35:58,50 	she waves to the bride as she dances her way to the front of the parade, then spots a pizza delivery man's bicycle 	propped against a brick wall, and steals it.
-XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS562 	00:53:10,00 --> 00:53:16,50 	through the window into the rec room, they see someone dancing on a couch.
 XMEN_FIRST_CLASS.srt 	XMEN_FIRST_CLASS_DVS566 	00:53:30,00 --> 00:53:37,50 	someone and angel stop dancing.

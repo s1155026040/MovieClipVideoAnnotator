@@ -1,4 +1,2 @@
 CINDERELLA_MAN.srt 	CINDERELLA_MAN_DVS99 	00:20:41,00 --> 00:20:45,50 	head lulls forward, someone's
-THE_BOUNTY_HUNTER.srt 	THE_BOUNTY_HUNTER_DVS492 	01:28:34,00 --> 01:28:55,50 	someone lets his head lull back.
 THE_GUILT_TRIP.srt 	THE_GUILT_TRIP_DVS182 	00:59:19,00 --> 00:59:24,50 	someone lulls back in her chair.
-TRUE_GRIT.srt 	TRUE_GRIT_DVS565 	01:39:34,00 --> 01:39:41,50 	someone lulls her head back and someone picks up his pace, trotting briskly on as fast as his legs.

@@ -1,3 +1,1 @@
-DEAR_JOHN.srt 	DEAR_JOHN_DVS27 	00:03:10,00 --> 00:03:32,50 	the purse stirs in the current, on the someone strewn ocean floor.
-FLIGHT.srt 	FLIGHT_DVS693 	01:33:42,00 --> 01:33:50,50 	the crashed south jet aircraft stands almost completely assembled, with parts strewn around beside it.
 THOR.srt 	THOR_DVS99 	00:14:54,00 --> 00:14:59,50 	with a panoply of stars strewn across the sky behind them,
