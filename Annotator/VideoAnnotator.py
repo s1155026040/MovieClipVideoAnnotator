@@ -419,6 +419,8 @@ def annotate_from_db(user_id, db, dataset_path):
                 print 'Annotating: %s'%os.path.basename(anno_task.video_path)
                 exit, skipped, start_frame, end_frame, ss = display_video_capture(local_video_path, caption=anno_task.text)
                 if skipped:
+                    start_frame = -1
+                    end_frame = -1                    
                     anno_task.status = AnnotationTask.STATUS_SKIPPED
                 else:
                     anno_task.status = AnnotationTask.STATUS_OK
