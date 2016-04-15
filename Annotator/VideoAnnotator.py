@@ -180,11 +180,13 @@ def display_video_capture(video_file_path, capture_dir='', caption=''):
     captured_frame = False
     skipped = False
     exit = False
-    start_frame = -1
-    end_frame = -1
-    total_frames = get_total_frames(video_file_path)
-    frame_pos = 0
+
     video_filename = os.path.basename(os.path.splitext(video_file_path)[0])
+    total_frames = get_total_frames(video_file_path)
+    start_frame = 1
+    end_frame = total_frames
+    frame_pos = 0
+    
     while not captured_frame and not skipped and not exit:
         # start the video capture objec
         # Player variables
