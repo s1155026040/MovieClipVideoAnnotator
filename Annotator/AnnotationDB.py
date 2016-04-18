@@ -144,6 +144,7 @@ class AnnotationDB:
                     num_times=num_times,
                     user_register=user_list
                     )
+        self.engine.execute(ins_stmt)
     
     def increase_batch(self, batch_id, user_id):
         batches = Table('batches', self.metadata)
