@@ -160,6 +160,13 @@ def draw_timer(img, cur_frame_pos, total_frames):
     cv2.putText(img, timer_text, timer_pos, cv2.FONT_HERSHEY_SIMPLEX, 0.5, timer_color)
     return img
 
+def draw_action(img, action):
+    img_height, img_width, img_channels = img.shape
+    action_color = VA_COLOR_WHITE
+    action_pos = (10, 20)
+    cv2.putText(img, action, action_pos, cv2.FONT_HERSHEY_SIMPLEX, 0.5, action_color)
+    return img
+
 def draw_caption(img, caption):
     img_height, img_width, img_channels = img.shape
     caption_color = VA_COLOR_YELLOW
@@ -167,14 +174,16 @@ def draw_caption(img, caption):
     cv2.putText(img, caption, caption_pos, cv2.FONT_HERSHEY_SIMPLEX, 0.5, caption_color)
     return img
 
-def draw_overlay(img, cur_frame, start_frame, end_frame, total_frames, caption =''):
+def draw_overlay(img, cur_frame, start_frame, end_frame, total_frames, caption='', action=''):
     overlayed_frame = draw_playbar(img, cur_frame, start_frame, end_frame, total_frames)
     overlayed_frame = draw_timer(overlayed_frame, cur_frame, total_frames)
     if caption != '':
         overlayed_frame = draw_caption(img, caption)
+    if action != '':
+        overlayed_frame = draw_action(img, action)
     return overlayed_frame
 
-def display_video_capture(video_file_path, capture_dir='', caption=''):
+def display_video_capture(video_file_path, capture_dir='', caption='', action=''):
     #Persist until a video frame is captured
     captured_file_name = ''
     captured_frame = False
@@ -212,7 +221,8 @@ def display_video_capture(video_file_path, capture_dir='', caption=''):
                     frame_buffer.append((frame_pos, cur_frame_img))
             if ret:
                 # Show the frame with overlay
-                overlayed_frame = draw_overlay(cur_frame_img.copy(), frame_pos+inbuffer_index, start_frame, end_frame, total_frames, caption)
+                overlayed_frame = draw_overlay(cur_frame_img.copy(), frame_pos+inbuffer_index, 
+                                               start_frame, end_frame, total_frames, caption, action)
                 cv2.imshow(video_filename, overlayed_frame)
                 
 
@@ -417,7 +427,7 @@ def annotate_from_db(user_id, db, dataset_path):
             else:
                 # Display GUI for annotating
                 print 'Annotating: %s'%os.path.basename(anno_task.video_path)
-                exit, skipped, start_frame, end_frame, ss = display_video_capture(local_video_path, caption=anno_task.text)
+                exit, skipped, start_frame, end_frame, ss = display_video_capture(local_video_path, caption=anno_task.text, action=anno_task.action.upper())
                 if skipped:
                     start_frame = -1
                     end_frame = -1                    
@@ -438,6 +448,7 @@ def annotate_from_db(user_id, db, dataset_path):
             print 'Closing current batch and opening a new one.'
             taskMgr.terminate_cur_task()
             print 'Closed'
+        
         keep_annotating = yesno_menu('Would you like to keep on annotating?')
             
     
@@ -526,14 +537,14 @@ def exit_program():
     
 def yesno_menu(text):
     sel_input = ''
-    positive_answers = ['y','yes','yup','aha']
-    negative_answers = ['n','no','nope','nein']
-    while sel_input not in positive_answers  and sel_input not in negative_answers:
+    pos_answers = ['y','yes','yup','aha']
+    neg_answers = ['n','no','nope','nein']
+    while (sel_input not in pos_answers) and (sel_input not in neg_answers):
         print text + ' (yes/no)'
-        sel_input = str(raw_input())
+        sel_input = str(raw_input()).strip()
         sel_input = sel_input.lower()
     
-    return sel_input in positive_answers
+    return sel_input in pos_answers
 
 def select_menu(title, options):
     sel_idx = -1
