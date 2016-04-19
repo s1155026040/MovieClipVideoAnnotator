@@ -228,10 +228,13 @@ def display_video_capture(video_file_path, capture_dir='', caption='', action=''
     skipped = False
     exit = False
 
+    # local invariants
     video_filename = os.path.basename(os.path.splitext(video_file_path)[0])
     total_frames = get_total_frames(video_file_path)
+    last_frame = total_frames
+    # cycle vars
     start_frame = 1
-    end_frame = total_frames
+    end_frame = last_frame
     frame_pos = 0
     
     while not captured_frame and not skipped and not exit:
@@ -239,7 +242,7 @@ def display_video_capture(video_file_path, capture_dir='', caption='', action=''
         # Player variables
         video_paused = False
         inbuffer_index = 0
-        last_frame = frame_pos-1
+        
         frame_buffer = deque(maxlen=total_frames)
         # Initialize video capture object
         video_capture = cv2.VideoCapture(video_file_path)
