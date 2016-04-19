@@ -40,6 +40,31 @@ VA_COLOR_YELLOW = (21, 232, 232)
 VA_COLOR_RED = (39,45,229)
 VA_COLOR_DARK_RED = (23,18,128)
 
+def find_char_pos(s, ch):
+    '''Returns a list of the character positions in the string'''
+    return [i for i, letter in enumerate(s) if letter == ch]
+
+def get_line_breaks(s, line_len):
+    '''Calculates the positions of the linebreaks of a string, 
+       it includes the last pos of the string as the len of line_breaks is the number of lines
+    '''
+    #Make sure last element is not a space
+    s = s.strip() 
+    # Get all the space positions
+    space_pos = find_char_pos(s, ' ')
+    # Build resulting positions (includes the last position)
+    seeking_line_num = 1
+    line_break_pos = []
+    pos_count = 0
+    for pos in space_pos:
+        if pos > seeking_line_num*line_len:
+            line_break_pos.append(space_pos[pos_count-1])
+            seeking_line_num += 1
+        pos_count += 1
+    line_break_pos.append(len(s))
+    
+    return line_break_pos
+
 def build_video_path(base_path, video_name):
     movie_name = re.search(r'(.*)_DVS\d*', video_name).group(1)
     return os.path.join(base_path, movie_name,'video',video_name+'.avi')
@@ -170,8 +195,21 @@ def draw_action(img, action):
 def draw_caption(img, caption):
     img_height, img_width, img_channels = img.shape
     caption_color = VA_COLOR_YELLOW
-    caption_pos = (10, img_height-30)
-    cv2.putText(img, caption, caption_pos, cv2.FONT_HERSHEY_SIMPLEX, 0.5, caption_color)
+    chars_per_line = 85
+    
+    # Process text for multiple lines
+    num_lines = len(caption)/chars_per_line + 1
+    
+    line_breaks = get_line_breaks(caption, 80)
+    num_lines = len(line_breaks)
+    last_start = 0
+    drawn_lines = 0
+    for break_pos in line_breaks:
+        caption_pos = (10, (img_height - 15) - 20*(num_lines-drawn_lines) )
+        cv2.putText(img, caption[last_start:break_pos], caption_pos, cv2.FONT_HERSHEY_SIMPLEX, 0.5, caption_color)
+        drawn_lines += 1
+        last_start = break_pos + 1
+        
     return img
 
 def draw_overlay(img, cur_frame, start_frame, end_frame, total_frames, caption='', action=''):
@@ -427,6 +465,7 @@ def annotate_from_db(user_id, db, dataset_path):
             else:
                 # Display GUI for annotating
                 print 'Annotating: %s'%os.path.basename(anno_task.video_path)
+                print 'Caption:    %s'%anno_task.text
                 exit, skipped, start_frame, end_frame, ss = display_video_capture(local_video_path, caption=anno_task.text, action=anno_task.action.upper())
                 if skipped:
                     start_frame = -1
