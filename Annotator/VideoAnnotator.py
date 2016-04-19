@@ -217,8 +217,8 @@ def draw_overlay(img, cur_frame, start_frame, end_frame, total_frames, caption='
     overlayed_frame = draw_timer(overlayed_frame, cur_frame, total_frames)
     if caption != '':
         overlayed_frame = draw_caption(img, caption)
-    if action != '':
-        overlayed_frame = draw_action(img, action)
+    #if action != '':
+    #    overlayed_frame = draw_action(img, action)
     return overlayed_frame
 
 def display_video_capture(video_file_path, capture_dir='', caption='', action=''):
