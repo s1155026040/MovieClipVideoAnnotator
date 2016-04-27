@@ -15,6 +15,7 @@ raw_data = rdl.main(0)
 # Connect to the DB
 db = adb.AnnotationDB()
 db.init('atlas4.multicomp.cs.cmu.edu', 'annotator', '', 'annodb')
+print db.get_all_users()
 
 # Start exporting the GIF files
 N = 10;
