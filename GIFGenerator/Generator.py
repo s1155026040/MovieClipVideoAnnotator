@@ -19,7 +19,7 @@ db.init('atlas4.multicomp.cs.cmu.edu', 'annotator', '', 'annodb')
 # Start exporting the GIF files
 N = 10;
 n = 0
-for caption, video_path in rdl.test:
+for caption, video_path in raw_data.test:
     try:
         caption_id = db.get_caption_id(video_path)
         v2g.video_to_gif(os.path.join(DATASETS_PATH,video_path), 
