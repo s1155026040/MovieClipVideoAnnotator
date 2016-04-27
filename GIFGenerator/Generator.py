@@ -20,13 +20,12 @@ db.init('atlas4.multicomp.cs.cmu.edu', 'annotator', '', 'annodb')
 N = 10;
 n = 0
 for caption, video_path in raw_data.test:
-    try:
-        caption_id = db.get_caption_id(video_path)
-        v2g.video_to_gif(os.path.join(DATASETS_PATH,video_path), 
-                         os.path.join(GIF_PATH, gif_path), resize=[427,240])
-    except:
-        print 'Could not obtain caption id for %s'%(video_path)
-        
+
+    caption_id = db.get_caption_id(video_path)
+    v2g.video_to_gif(os.path.join(DATASETS_PATH,video_path), 
+                     os.path.join(GIF_PATH, gif_path), resize=[427,240])
+            
+    n += 1
     if n >= N:
         break
     
