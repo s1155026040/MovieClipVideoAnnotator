@@ -21,9 +21,14 @@ N = 10;
 n = 0
 for caption, video_path in raw_data.test:
 
-    caption_id = db.get_caption_id(video_path)
-    v2g.video_to_gif(os.path.join(DATASETS_PATH,video_path), 
+    try:
+        caption_id = db.get_caption_id(video_path)
+        v2g.video_to_gif(os.path.join(DATASETS_PATH,video_path), 
                      os.path.join(GIF_PATH, gif_path), resize=[427,240])
+    except AttributeError:
+        print 'There is no caption ID for %s'%(video_path)
+        
+     
             
     n += 1
     if n >= N:
