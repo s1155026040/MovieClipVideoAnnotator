@@ -61,8 +61,11 @@ raw_data = rdl.main(0)
 # Capture the information from each test instance
 images_field = []
 annotations_field = []
-
-for caption, video_path in raw_data.test[]:
+total_test = len(raw_data.test)
+test_pos = 1
+for caption, video_path in raw_data.test:
+    print 'Inserting %d /%d'%(test_pos,total_test)
+    test_pos += 1
     # Get the caption id
     caption_id = int(db.get_caption_id(video_path))
     video_name = os.path.splitext(os.path.basename(video_path))[0]
