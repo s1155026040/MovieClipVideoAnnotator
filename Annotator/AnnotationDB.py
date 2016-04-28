@@ -69,7 +69,13 @@ class AnnotationDB:
         rp = self.engine.execute(sel_stmt)
         record = rp.first()
         return record.id
-
+    
+    def get_caption_video_path(self, caption_id):
+            captions = Table('captions', self.metadata)
+            sel_stmt = select([captions.c.video_path]).where(captions.c.id==caption_id)
+            rp = self.engine.execute(sel_stmt)
+            record = rp.first()
+            return record.video_path    
     
     # ANNOTATIONS table =========================================================
     def insert_annotation(self, annotation):

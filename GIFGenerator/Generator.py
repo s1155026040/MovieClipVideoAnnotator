@@ -27,7 +27,7 @@ def mp_generate_gif(video_data_list):
     pool.join()
     return results 
 
-def process_video(video_id):
+def process_video(caption_id):
     # Constants
     DATASETS_PATH = '/multicomp/datasets/'
     GIF_PATH = '/home/zal/dataset_gifs'
@@ -35,7 +35,7 @@ def process_video(video_id):
     # Connect to the DB
     db = adb.AnnotationDB()
     connected = db.init('atlas4.multicomp.cs.cmu.edu', 'annotator', 'multicomp', 'annodb')
-    caption_id = db.get_caption_id(video_path)
+    video_path = db.get_caption_video_path(caption_id)
     gif_fn = '%06d.gif'%(caption_id)
     v2g.video_to_gif(os.path.join(DATASETS_PATH,video_path), 
                      os.path.join(GIF_PATH, gif_fn), resize=[427,240])
