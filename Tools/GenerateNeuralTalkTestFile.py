@@ -17,7 +17,7 @@ import AnnotationDB as adb
 import rawdataLoad as rdl
 
 '''
-The file requires 5 main fields:
+The json file requires 5 main fields:
 1. info
 2. licenses
 3. type
@@ -66,9 +66,11 @@ test_pos = 1
 for caption, video_path in raw_data.test:
     print 'Inserting %d /%d'%(test_pos,total_test)
     test_pos += 1
+
     # Get the caption id
-    caption_id = int(db.get_caption_id(video_path))
+    caption_id = int(db.get_caption_id(video_path, caption))
     video_name = os.path.splitext(os.path.basename(video_path))[0]
+    
     frame_query_str = os.path.join(KEYFRAMES_PATH,'%s*'%(video_name))
     frame_fn_list = glob.glob(frame_query_str)
     frame_fn_list.sort()
