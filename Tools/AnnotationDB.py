@@ -82,6 +82,13 @@ class AnnotationDB:
             print video_path
         return record.id
     
+    def get_caption_id_from_videoname(self, video_name):
+        captions = Table('captions', self.metadata)
+        sel_stmt = select([captions.c.id]).where(captions.c.video_name==video_name)
+        rp = self.engine.execute(sel_stmt)
+        record = rp.first()
+        return record.id        
+    
     def get_caption_video_path(self, caption_id):
         captions = Table('captions', self.metadata)
         sel_stmt = select([captions.c.video_path]).where(captions.c.id==caption_id)
