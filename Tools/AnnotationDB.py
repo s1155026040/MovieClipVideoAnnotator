@@ -70,6 +70,16 @@ class AnnotationDB:
         record = rp.first()
         return record.id
     
+    def get_caption_id(self, video_path, caption):
+        # Gets the id based on the joint query
+        caption = "\\\'".join(caption.split('\''))
+        captions = Table('captions', self.metadata)
+        sel_stmt = select([captions.c.id]).where(captions.c.video_path==video_path)
+        sel_stmt.append_whereclause(and_(captions.c.text==caption))
+        rp = self.engine.execute(sel_stmt)
+        record = rp.first()
+        return record.id
+    
     
     def get_caption_video_path(self, caption_id):
         captions = Table('captions', self.metadata)
