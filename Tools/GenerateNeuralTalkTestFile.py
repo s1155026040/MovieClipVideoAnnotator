@@ -62,7 +62,7 @@ raw_data = rdl.main(0)
 images_field = []
 annotations_field = []
 
-for caption, video_path in raw_data.test[1:10]:
+for caption, video_path in raw_data.test[]:
     # Get the caption id
     caption_id = int(db.get_caption_id(video_path))
     video_name = os.path.splitext(os.path.basename(video_path))[0]
