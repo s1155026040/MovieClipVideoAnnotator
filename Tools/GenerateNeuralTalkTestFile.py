@@ -1,3 +1,4 @@
+#! /usr/local/env python
 #
 # This program generates the captions required for our
 # custom NeuralTalk system with now works with videos
@@ -74,7 +75,7 @@ for caption, video_path in raw_data.test[1:10]:
         
         image_input = {}
         image_input['date_captured'] = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-        image_input['file_name']     = os.path.basename()
+        image_input['file_name']     = os.path.basename(video_path)
         image_input['height']        = 240
         image_input['width']         = 427
         image_input['id']            = image_id
