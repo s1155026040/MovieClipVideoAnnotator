@@ -69,6 +69,7 @@ class AnnotationDB:
         rp = self.engine.execute(sel_stmt)
         record = rp.first()
         return record.id
+
     
     # ANNOTATIONS table =========================================================
     def insert_annotation(self, annotation):
