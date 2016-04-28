@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import os
 import sys
 import VideoToGif as v2g
@@ -42,12 +43,11 @@ print db.get_all_users()
 # Load the data
 raw_data = rdl.main(0)
 
-mp_generate_gif(raw_data.test[0:20])
+#mp_generate_gif(raw_data.test[0:20])
 
-'''
 # Start exporting the GIF files
-for caption, video_path in raw_data.test[0:10]:
-
+count = 1
+for caption, video_path in raw_data.test:
     try:
         caption_id = db.get_caption_id(video_path)
         gif_fn = '%06d.gif'%(caption_id)
@@ -55,7 +55,8 @@ for caption, video_path in raw_data.test[0:10]:
                          os.path.join(GIF_PATH, gif_fn), resize=[427,240])
     except AttributeError:
         print 'There is no caption ID for %s'%(video_path)
-'''
-        
+
+    print '[%d]'%count
+    count += 1
     
 print 'Fin'
